@@ -1,5 +1,5 @@
 {
-  "lastIndex": 411,
+  "lastIndex": 416,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -194,7 +194,9 @@
     "cmp76",
     "eng500",
     "eng463",
-    "is2"
+    "is2",
+    "tsa",
+    "dr3"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -240,7 +242,9 @@
     "cmp38",
     "pm82",
     "sec57",
-    "mkt2"
+    "mkt2",
+    "fu",
+    "mkt9"
   ],
   "history": [
     {
@@ -5433,970 +5437,6 @@
       "verification": "verified"
     },
     {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x764b95ca31b3e25e5219b57e380cac8c5df698c1",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x4538b170acb720762cc9700a43a2e22e0372d878",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x0b70e111205ce0a84c177b0772b9d5e1f3f63afb",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xc1f18ce265dbd772d9e0e134da4c049fc9b27c3f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x9c3147f036d8c77a31b635ef9ec0e1406a4abb51",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "6aca3151d9cab260a7c3fd2e",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "6aca315bf91f772d4592c03e",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "urn:li:share:7514665269479292928",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "facebook",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "691827047618629_1111573521449882",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "x",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "6aca3171b07d37ac97719ea5",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Robinhood is hiring Senior Sourcing Manager\n\nhttps://hashtagweb3.com/mgr145/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108899619186868682"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "18353912272223998",
-      "verification": "verified",
-      "expectedText": "Robinhood is hiring Senior Sourcing Manager: https://hashtagweb3.com/mgr145/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeUGYi4IDVk",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxjiwvobit2c",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x15f8582bdea0849d9e2a6592d7a1f508ce104ae8",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x1f90cc17b888f919893b8ea9839afdd0944b08e2",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xc3c4500b626b5df206b4e01707e24ee29bbf5222",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xdb3573fe630415983496423a640892bdd068d463",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x966f588519fbf3dde0480d3e8422a3055e6566c2",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x3d90fb78b606c04b5ed4488fd4524c61d9ae151e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x3bfb4c8ac62329471d856d09794b04d9fa6fb5f8",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x75b4f6786a58513a9d06be62746ea5f6c55f5c03",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xd22809df83fa7ed89da8fcb52e47a38043115312",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xd3dab257fbd83f55816e83f9b9a202d5579cdc4f",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xef97180de0fee06e479c4cf3cb9b90480f66def9",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xab504bade54fec0277caabc635b8e6cdf37629d7",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x901c7463c745a59cd16a872518e3bc1c4bef6f37",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xc5cc7be5291b78ac0bbb4c34b86e3c0d25b2ef3b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x98123518cdf897e3fa9652d1c51d6a423b3f8c5a",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0x0adf510760de32a91afa40e5870256b9409b3a5e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "0xd31c97be5e559d1120dc966f4329634ace96261b",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "6aca3181bba9419ccb00ca50",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "6aca318bf91f772d4592c727",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "urn:li:share:7514665466917969920",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr145",
-      "company": "Robinhood",
-      "title": "Senior Sourcing Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-10T12:37:04.798Z",
-      "postId": "691827047618629_1111574124783155",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "x",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "6acb7a4fb07d37ac97a582eb",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Block is hiring Head of Seller Onboarding External Workforce Operations\n\nhttps://hashtagweb3.com/ewps/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2109252739544789225"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "threads",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "17920565559445644",
-      "verification": "verified",
-      "expectedText": "Block is hiring Head of Seller Onboarding External Workforce Operations: https://hashtagweb3.com/ewps/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeWm9wcmzGH",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "bluesky",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxlxe3vl5v2r",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xada9bbd3f49be2faa4848b5221ae92b28edff69e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x69aaa23c81f2621344b525b66bffb5542560d886",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xb43416d3af0e0a376fcbe1777d947016fd7e1bbd",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xf6d8d72e6b3483b12bad386993d7e41ec4f12d7f",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xf2557fec4022ca66a106c563df869bd80b338254",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xbaac519704fa43f446deda0db6a71d1695ae64f2",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x783704e1246b0ba2220e0adbd20c74c683c00984",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x7f7d6452b38d2c17c5d6b5195fb31c531bf4429c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xf4f06935499e98a46a0d0d5d96b1c217b4f50248",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0xb7048b248fa45fbc2a012907b7ff1f96aac09e73",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x8f740506e8220fabb4e13e446136e1b14340f03c",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x3a04e32bd9f96d1b86dec9f24e38bf1ec19c0c7d",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x62808937aa051b68ca750d1b9e433299dd34c669",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x9f2afaf598869cb35d7c1bd33e9a5fa986df8004",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x5708f3ad7f2dfe1a32ad8e0a0ffe7602818b638a",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x3617a4c0212b8730d2a9bf95116d1ce69d419d9c",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "0x907352142b70272a329e12326ba24c110a7bbd7b",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "6acb7a64ed92ed8fa5002311",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "6acb7a6fbba9419ccb34bc7d",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "urn:li:share:7515018607815192576",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ewps",
-      "company": "Block",
-      "title": "Head of Seller Onboarding External Workforce Operations",
-      "platform": "facebook",
-      "postedAt": "2026-10-11T12:00:14.743Z",
-      "postId": "691827047618629_1112463234694244",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "x",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "6acb7a85ed92ed8fa500316e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "GoMining is hiring Marketing Communications Manager\n\nhttps://hashtagweb3.com/mkt73/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2109252966771245328"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "17902936437666374",
-      "verification": "verified",
-      "expectedText": "GoMining is hiring Marketing Communications Manager: https://hashtagweb3.com/mkt73/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeWnETcG-iJ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxlxfluawc2a",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xf2418bccde1f68df6a1427405ab63862646c2e92",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xbd20fa41a8908d4b23e0b52ba6d93505513fb505",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x8ce7507551b1ab79bf9e2973035179cb57df458e",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x9beb89aa72ea2c7a3fcdaffa3610ece1a24525bf",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xfb1a6dc3bb4d138b33dc5ef4794d0b2c70098126",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xdc57212f3a007250314cf283883d06fad2028e3b",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xed0cb3b515f827cb0d38e2a8547b7041df2e8421",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xdcb4ba4057927d04b33a551db7c25964fb7edb25",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x6f6cae71bcb1b7fd5f08a6ad9ed567e03085727e",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x7735a65dc3d8b6df69f39cda0cf7e7ea31dc0017",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xceccfc6cbcd9e9d6084919294833263e79f5c2e1",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xce745b3eeab6b14ed69cee6ea337e2d6dc49c978",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x6f72d2c1f5ac6f3c14230b1da7ba38e37dc88a52",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xe35c97d88868503adb0d86ed2c8982b6758efa02",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x1b6a37418e01807e7db0449af2e1e3ec6ad4f039",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0x496646a4c8cb23dc5558281a6eacc835ea4c12ee",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "0xb811431478583c1d3c882d9c4e27c4adba45ee2c",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "6acb7a96bba9419ccb34ce3e",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "6acb7aa1bba9419ccb34d17e",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "urn:li:share:7515018817392029696",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt73",
-      "company": "GoMining",
-      "title": "Marketing Communications Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-11T12:01:08.559Z",
-      "postId": "691827047618629_1112464014694166",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "x",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "6acbe79efa026cfb8112c490",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Ndax is hiring Fractional vCISO (Financial Services/Crypto experience)\n\nhttps://hashtagweb3.com/fvfs/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2109370110313931196"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "threads",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "18106711123957677",
-      "verification": "verified",
-      "expectedText": "Ndax is hiring Fractional vCISO (Financial Services/Crypto experience): https://hashtagweb3.com/fvfs/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeXcVtgj8WH",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "bluesky",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxmrg2bnuq2c",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x7830e467b905ba335ab1a6d129d130b85547d771",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x9093acafa9055c11ea5ea8abf235d72a032b1512",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x7011acf130f041d2ad83659214669c4b7aeadf0d",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x6301c4acd3de237df63bbe13290a4439a556918a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x848b51a295c80e4918ef35c182063e01bb84c2a8",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x7dd90561e6714dc6f2c4b0421ebcc030626b90be",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x765cde75790b5c6ef5bb51b0aaa25c3d00d47513",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x6c0ef6efca5d9631e1fb265abcae75d85fa815ec",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x592c36005750300855f474a095ba0173657474b3",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "fvfs",
-      "company": "Ndax",
-      "title": "Fractional vCISO (Financial Services/Crypto experience)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-11T19:46:38.468Z",
-      "postId": "0x3a80eb8ad9f1398e8381d52c63ac2a344b302fdf",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
       "slug": "fvfs",
       "company": "Ndax",
       "title": "Fractional vCISO (Financial Services/Crypto experience)",
@@ -10196,6 +9236,969 @@
       "platform": "facebook",
       "postedAt": "2026-10-14T04:29:32.728Z",
       "postId": "691827047618629_1115023267771574",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "x",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "6acf682e0708b0daf40cfc4e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Breeze Cash is hiring Financial Underwriting Lead\n\nhttps://hashtagweb3.com/fu/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110332786443727312"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "threads",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "18168744757467137",
+      "verification": "verified",
+      "expectedText": "Breeze Cash is hiring Financial Underwriting Lead: https://hashtagweb3.com/fu/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeeSHVXm17x",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xfec4b850a76d5f1790a571ede9bc80240d087829",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x31dc77d1ddb3ea3f52ff09b28552c03fac1bbbd8",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xb94b4cef4ef08e372604bac40e671c6f9246c055",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x7764cea07fc698f8d58aa24327997bc83e84669e",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x7281d67f6f512993616f66dba0a82dad4a1f6e48",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x7eb9619f6f3a2beb192bb9613ee448168d7221d3",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xc318d4a2c2c5b4714eae7d8e15c178962c0b1fc0",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x0b21739f957176e1634652e2d3b0088f16533bd1",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x6d976f2121d94e540c3b43b16def0de46c06fe83",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xc034a8dc0ce2a1c67390da4251adf18c0a1b868d",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xaa76e400818d9f31902042aed5e78d6c8bf5dbb7",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x794494af2ffd27f8ec4db24abab4fd6c921f67ef",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xdc3afcb70dd0117c1989c561de7f24b6bbb4505f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x6d0daff91554869913922afa1f7608de00385402",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xc10cb7644282c56165cdc125a901b6f7f8750d76",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0x8d2d2eba2fee474e674fa3caef00c482f0b3d32d",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "0xe8eaed02f3febd1371d1647e79096fbafed0001e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "6acf684557cb08bbd1051d25",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "6acf685057cb08bbd1051ebe",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "urn:li:share:7516098666819031040",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "fu",
+      "company": "Breeze Cash",
+      "title": "Financial Underwriting Lead",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T11:31:58.224Z",
+      "postId": "691827047618629_1115305411076693",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "x",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "6acf6868be984f4200f556c5",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring Software Engineer - Growth Foundations\n\nhttps://hashtagweb3.com/mkt9/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110333026202689773"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "bluesky",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxth7s3xlz2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x7707e25a397fd6fc64f5302d0b23ff55351be540",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0xadf121b3359a09468fb8ebd8bb26d0aee9d8c7a2",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x74a81853e705745f622611f4b91dd0553464154f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x066eb326ec0e4c3c7ce762db12d73c73ec51002a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0xab0ffcdb9f8ed686c56ea0cddcbccc403dc053b7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x57b93d609039cfcc3bc0f3adba0d2c05eacafcff",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x92d6255c2bd62f8837b284b61c262f142777a87e",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x5f244f5dd38da99cb947e0289e43d0596c10eba2",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0xb36d743645ce037248ac21906900fd358f547bb3",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x2220d74313dfb4389dad7afd920eb4e6dad2197b",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x866ca06d2ff544e3d569ec9b8bc7ab57495f87e0",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x936fd0ceb1e265c058b72572ee38f4df7b047061",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0xd9a84dd0a6deaf29d957aefdfc405c29288ef0f5",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x0cee61f75e6f45790cf5f5ee706a534e04829458",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x91c659ece4f0102326600055b5e39ab86a43bcfc",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x1fec1a2725cec0ece2b8ab1b6e2a5c175cc4079c",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "0x3677fb52dbbef5d932994aaf33c8ce5fc278ae97",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "6acf687657cb08bbd1052b9c",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "6acf68810708b0daf40d130f",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "urn:li:share:7516098872939577345",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt9",
+      "company": "Kraken",
+      "title": "Software Engineer - Growth Foundations",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T11:32:55.631Z",
+      "postId": "691827047618629_1115306057743295",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "x",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "6acfd8a6199c0449d73c0f8c",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Galaxy Digital is hiring Principal, TradFi Settlement & Digital Assets\n\nhttps://hashtagweb3.com/tsa/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110453548542554327"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "threads",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "18095039219149041",
+      "verification": "verified",
+      "expectedText": "Galaxy Digital is hiring Principal, TradFi Settlement & Digital Assets: https://hashtagweb3.com/tsa/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DefJB5FIIe6",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "bluesky",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxubyc2gcu2v",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x62d0a0711242d9ffd59aaf80c1eb4f411887d00d",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x4a5bc5521017f47da95c438e45b84523c37bbcac",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x65c59fc90184b385e11ee318eb489530765d4631",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xdc055df60d00c198e19c1ef64468f960e7832436",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x25d595aa9856d0801c8c8b31fb77fd78a54f0b4b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x6f332d955df6586a45e4eae3ecad5e454fa2a43b",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x2d64cfa8e6f8a72099ede254e631e681c581b3b7",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x2e4d8f3e896f1172a5164598f03844daf7c9ae39",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xf9b53c8f640ad36ac69f3024d0d1b6a95c978bbd",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xd48782425d487a732f12343cb6abac16e31b5535",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xa24001c811a23493bb8adb911a7391f396750551",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x992dd963a02851bb204e29e43ce0e049d1d728c4",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x69ad946a1fd17081cecc64aa4ba64ab3ec0cc10c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xcf778452113c4c408ea2119e20a25870ea90e0e7",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x7157c4460618894f2f641c97052e44508cb92ffa",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0x81c26deb8e22a69c23c17b6796240ccacea1d607",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "0xf89b423d13f565146a507829bfbc88f346a6b843",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "6acfd8bd41e19a94599daf2b",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "6acfd8c80b61877d13169df2",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "urn:li:share:7516219430532710400",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "tsa",
+      "company": "Galaxy Digital",
+      "title": "Principal, TradFi Settlement & Digital Assets",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T19:31:49.911Z",
+      "postId": "691827047618629_1115673317706569",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "x",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "6acfd8ecedcab17b812a191a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "TRM Labs is hiring Senior Data Researcher\n\nhttps://hashtagweb3.com/dr3/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110453842332496027"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "threads",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "17884808034689955",
+      "verification": "verified",
+      "expectedText": "TRM Labs is hiring Senior Data Researcher: https://hashtagweb3.com/dr3/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DefJKZbIKUD",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "bluesky",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxuc2ekrqs2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xc6b4acc2ee45ded603c036e86d263bc77ba374fd",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xf6703253b91179d9773fb4ef8d358cacdafde215",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x4e7928cad0ed01631794d0fc93f23d62d2d8deb0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x62603c1ab0869d40eee7ba3f8aee22bd0d4cb149",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x54d452c2c99a28080636975e5771eb952116507d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x056d2dd38648052ac3e1a3b3d3a404114d5af601",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xc7c55276fc7452d89efb98d3f5c60594ec1106cd",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x3b11b6214f3506549e8ce9d0299c28e2c9a66d4a",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xdb566c1024220d03c1d258edc2090522c8cc741e",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xa14a64609e61fdeff7c2e6b16ce202fc1e9aa915",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x440747be052d89595285d0ce4a1af9bd03196c41",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xa6b7e21a17069016a9342b74a238df4ad0adbe07",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x403e8a165c3c7e1a6ac1ee50b9cb367fccb706f4",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x3247ba7814e249d67503fbe4a24071690bae26ba",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xffd1bc4169a600949653d35913de88101faf7ad1",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0xb53d982d94f2bcd00bb61efae04f4b8a750cc424",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "0x94444a3cb627218742cced5579f7942a9d1b2b70",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "6acfd900a94addd88cd25d6b",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "6acfd90a0b61877d1316a3e3",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "urn:li:share:7516219706219954178",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "dr3",
+      "company": "TRM Labs",
+      "title": "Senior Data Researcher",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T19:33:00.386Z",
+      "postId": "691827047618629_1115673991039835",
       "verification": "verified"
     }
   ]

@@ -1360,5 +1360,71 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 65748,
     "sentAt": "2026-10-14T04:29:41.561Z"
+  },
+  "b5f1b348-cf1f-43b4-b491-c5615f3fc859": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T11:34:06.396Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "iPhone Spyware Scans Crypto Wallets and Steals Keychain Data",
+        "summary": "The P7 malware variant targets imToken data and Keychain passwords while checking for remote instructions every 15 seconds.",
+        "link": "https://hashtagweb3.com/iphone-spyware?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New iPhone spyware scans crypto wallets, iVerify finds"
+      },
+      {
+        "index": -1,
+        "headline": "Sberbank approved to launch Russian crypto trading service",
+        "summary": "Starting December 1, the bank plans to offer cryptocurrency trading through its existing mobile application.",
+        "link": "https://hashtagweb3.com/sberbank-crypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sberbank wins crypto exchange approval, targets Dec. 1 launch"
+      },
+      {
+        "index": -1,
+        "headline": "Strive buys 3,311 bitcoin for $280 million",
+        "summary": "The firm now holds 32,773 BTC and reported $208 million in warrant exercises.",
+        "link": "https://hashtagweb3.com/strive-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive adds 3,311 bitcoin for $280 million as warrants near expiry"
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 65749,
+    "sentAt": "2026-10-14T11:34:09.282Z"
+  },
+  "e36b35c2-e7b3-45a0-bf33-b4b8334ffcae": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T19:33:41.038Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "LDK updates fix security flaws in Bitcoin payment forwarding",
+        "summary": "New software versions resolve vulnerabilities that could cause nodes to lose funds during channel reconnections.",
+        "link": "https://hashtagweb3.com/ldk-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "LDK patches reconnect flaw that let peers steal forwarded bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Proposes Classifying Event Contracts as Swaps Excluding Gambling",
+        "summary": "The agency defined sports and political contracts as swaps while keeping casino wagers outside of that regulatory category.",
+        "link": "https://hashtagweb3.com/cftc-swaps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC proposes swap status for event contracts, excludes casino wagers"
+      },
+      {
+        "index": -1,
+        "headline": "US Government Moves $1 Billion in Seized Bitcoin",
+        "summary": "Authorities transferred over 12,000 bitcoin from a government-controlled wallet to new, unidentified addresses on October 8.",
+        "link": "https://hashtagweb3.com/bitfinex-move?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US government moves $1B in seized Bitfinex bitcoin to unlabeled wallets"
+      }
+    ],
+    "slotKey": "2026-10-14:evening",
+    "messageId": 65750,
+    "sentAt": "2026-10-14T19:33:43.769Z"
   }
 }

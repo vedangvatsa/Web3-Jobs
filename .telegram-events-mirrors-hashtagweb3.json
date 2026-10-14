@@ -345,5 +345,23 @@
     "attempts": 1,
     "reservedAt": "2026-10-14T04:28:42.016Z",
     "deliveredMessageId": 44
+  },
+  "@hashtagweb3:155755:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155755,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 1,
+    "reservedAt": "2026-10-14T11:31:53.835Z",
+    "deliveredMessageId": 45
+  },
+  "@hashtagweb3:155767:@eventsweb3": {
+    "fromChatId": "@hashtagweb3",
+    "sourceMessageId": 155767,
+    "destination": "@eventsweb3",
+    "status": "sent",
+    "attempts": 1,
+    "reservedAt": "2026-10-14T19:32:01.487Z",
+    "deliveredMessageId": 46
   }
 }

@@ -1830,5 +1830,108 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 155752,
     "sentAt": "2026-10-14T04:28:40.609Z"
+  },
+  "f2d2b545-c1d1-4db8-943f-14a2fd27e4a1": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T11:31:50.272Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtmWdmu40qCxBTk",
+        "slug": "my-first-bitcoin-education-is-freedom",
+        "name": "My First Bitcoin: Education Is Freedom",
+        "startDate": "2026-10-22T22:00:00.000Z",
+        "keys": [
+          "luma-batch-evtmwdmu40qcxbtk",
+          "hsodwfgy",
+          "page:my-first-bitcoin-education-is-freedom:2026-10-22",
+          "luma:evt-mwdmu40qcxbtkma",
+          "luma-url:/hsodwfgy",
+          "event:myfirstbitcoineducationisfreedom:2026-10-22:new york"
+        ]
+      },
+      {
+        "id": "premier-planblugano",
+        "slug": "plan-b-forum-lugano",
+        "name": "Plan B Forum Lugano 2026",
+        "startDate": "2026-10-23",
+        "keys": [
+          "premier-planblugano",
+          "plan",
+          "page:plan-b-forum-lugano:2026-10-23",
+          "url:planb.lugano.ch/planb-forum:2026-10-23",
+          "event:planbforumlugano2026:2026-10-23:lugano"
+        ]
+      },
+      {
+        "id": "premier-toksummituk",
+        "slug": "uk-tokenisation-summit",
+        "name": "UK Tokenisation Summit 2026",
+        "startDate": "2026-10-23T09:00:00.000Z",
+        "keys": [
+          "premier-toksummituk",
+          "uk3",
+          "uk",
+          "page:uk-tokenisation-summit:2026-10-23",
+          "event:uktokenisationsummit2026:2026-10-23:birmingham"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 155755,
+    "sentAt": "2026-10-14T11:31:52.521Z"
+  },
+  "38e2ed75-30b3-4ba8-bb83-820d81a74409": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T19:31:51.633Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-7iIJgmckKWYczPb",
+        "slug": "encode-london-2026",
+        "name": "Encode London Hackathon",
+        "startDate": "2026-10-23T10:00:00.000Z",
+        "keys": [
+          "luma-batch-7iijgmckkwyczpb",
+          "page:encode-london-2026:2026-10-23",
+          "luma:evt-7iijgmckkwyczpb",
+          "luma-url:/encode-london-2026",
+          "event:encodelondonhackathon:2026-10-23:london"
+        ]
+      },
+      {
+        "id": "luma-batch-evtPICyDbNudDA4Z",
+        "slug": "bitcoin-indonesia-jakarta-meetup",
+        "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
+        "startDate": "2026-10-24T06:00:00.000Z",
+        "keys": [
+          "luma-batch-evtpicydbnudda4z",
+          "fan9g1ft",
+          "page:bitcoin-indonesia-jakarta-meetup:2026-10-24",
+          "luma:evt-picydbnudda4zpp",
+          "luma-url:/fan9g1ft",
+          "event:bitcoinindonesiacommunitymeetupjakarta24oktober2026:2026-10-24:jakarta"
+        ]
+      },
+      {
+        "id": "w3v-xrp-ledger-hackathon",
+        "slug": "ai-fintech-xrpl-hackathon",
+        "name": "AI & Fintech XRPL Hackathon in New York",
+        "startDate": "2026-10-24T12:30:00.000Z",
+        "keys": [
+          "w3v-xrp-ledger-hackathon",
+          "xlh",
+          "page:ai-fintech-xrpl-hackathon:2026-10-24",
+          "luma:evt-dr9uvui98wow8fm",
+          "luma-url:/xrpl-hackathon-nyc",
+          "event:aifintechxrplhackathoninnewyork:2026-10-24:new york"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-14:evening",
+    "messageId": 155767,
+    "sentAt": "2026-10-14T19:31:54.321Z"
   }
 }

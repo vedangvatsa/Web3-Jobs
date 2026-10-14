@@ -3716,5 +3716,393 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 124,
     "sentAt": "2026-10-14T04:29:06.433Z"
+  },
+  "79ec280c-8e98-4b52-b862-7ab7e80a8745": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T11:31:55.956Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9baef3fe-045c-4ba0-ba17-05257111505c",
+          "title": "Product Security Engineer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c",
+          "date": "2026-10-01T20:35:00.572+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec79"
+        },
+        "key": "9baef3fe-045c-4ba0-ba17-05257111505c",
+        "slug": "sec79",
+        "url": "https://hashtagweb3.com/sec79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Product Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4425663009",
+          "title": "Forward Development Engineer",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4425663009",
+          "date": "2026-10-02T16:05:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US; Zurich, CH; Budapest, HU; Hong Kong, HK; London, UK; Sydney, AU",
+          "department": "CX Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng383"
+        },
+        "key": "4425663009",
+        "slug": "eng383",
+        "url": "https://hashtagweb3.com/eng383?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Forward Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "title": "Senior GTM Marketing Manager",
+          "company": "P2P.org",
+          "link": "https://jobs.ashbyhq.com/p2p.org/3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "date": "2026-10-09T11:14:06.560+00:00",
+          "source": "Ashby: P2P.org [p2p.org]",
+          "location": "Remote - Europe",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "P2P",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt98"
+        },
+        "key": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+        "slug": "mkt98",
+        "url": "https://hashtagweb3.com/mkt98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "P2P.org",
+        "title": "Senior GTM Marketing Manager"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Security Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Development Engineer</a>\n- P2P.org is hiring <a href=\"https://hashtagweb3.com/mkt98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior GTM Marketing Manager</a>",
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 16534,
+    "sentAt": "2026-10-14T11:32:00.621Z"
+  },
+  "1c02e746-d0de-4fae-97b0-2875286d7de5": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T11:32:02.353Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9baef3fe-045c-4ba0-ba17-05257111505c",
+          "title": "Product Security Engineer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c",
+          "date": "2026-10-01T20:35:00.572+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec79"
+        },
+        "key": "9baef3fe-045c-4ba0-ba17-05257111505c",
+        "slug": "sec79",
+        "url": "https://hashtagweb3.com/sec79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Product Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4425663009",
+          "title": "Forward Development Engineer",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4425663009",
+          "date": "2026-10-02T16:05:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US; Zurich, CH; Budapest, HU; Hong Kong, HK; London, UK; Sydney, AU",
+          "department": "CX Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng383"
+        },
+        "key": "4425663009",
+        "slug": "eng383",
+        "url": "https://hashtagweb3.com/eng383?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Forward Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "title": "Senior GTM Marketing Manager",
+          "company": "P2P.org",
+          "link": "https://jobs.ashbyhq.com/p2p.org/3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "date": "2026-10-09T11:14:06.560+00:00",
+          "source": "Ashby: P2P.org [p2p.org]",
+          "location": "Remote - Europe",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "P2P",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt98"
+        },
+        "key": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+        "slug": "mkt98",
+        "url": "https://hashtagweb3.com/mkt98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "P2P.org",
+        "title": "Senior GTM Marketing Manager"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Security Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Development Engineer</a>\n- P2P.org is hiring <a href=\"https://hashtagweb3.com/mkt98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior GTM Marketing Manager</a>",
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 125,
+    "sentAt": "2026-10-14T11:32:04.330Z"
+  },
+  "358b1bbc-bf45-4c73-875f-86037e0b5478": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T19:31:53.507Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8818670002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8818670002",
+          "date": "2026-09-22T16:09:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Dallas, TX",
+          "department": "Customer Support Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso24"
+        },
+        "key": "8818670002",
+        "slug": "aso24",
+        "url": "https://hashtagweb3.com/aso24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8018541003",
+          "title": "Senior Product Director, AI & Agent (Chatbot)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8018541003",
+          "date": "2026-10-09T03:07:31-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm264"
+        },
+        "key": "8018541003",
+        "slug": "pm264",
+        "url": "https://hashtagweb3.com/pm264?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Product Director"
+      },
+      {
+        "snapshot": {
+          "id": "4988644101",
+          "title": "Specialist, Consolidation & Regional Finance",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4988644101",
+          "date": "2026-10-06T10:33:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "scrf"
+        },
+        "key": "4988644101",
+        "slug": "scrf",
+        "url": "https://hashtagweb3.com/scrf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Specialist, Consolidation & Regional Finance"
+      },
+      {
+        "snapshot": {
+          "id": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "title": "Content Marketing Lead",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "date": "2026-09-30T12:48:02.322+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt59"
+        },
+        "key": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+        "slug": "mkt59",
+        "url": "https://hashtagweb3.com/mkt59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Content Marketing Lead"
+      },
+      {
+        "snapshot": {
+          "id": "f1aef032-6d5d-4a26-a775-775852351b54",
+          "title": "Data Science Lead",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/Elliptic/f1aef032-6d5d-4a26-a775-775852351b54",
+          "date": "2026-09-30T12:18:17.302+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (Washington, D.C.)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Intelligence",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds13"
+        },
+        "key": "f1aef032-6d5d-4a26-a775-775852351b54",
+        "slug": "ds13",
+        "url": "https://hashtagweb3.com/ds13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Data Science Lead"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm264?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Director, AI &amp; Agent (Chatbot)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/scrf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist, Consolidation &amp; Regional Finance</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/mkt59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Content Marketing Lead</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/ds13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Science Lead</a>",
+    "slotKey": "2026-10-14:evening",
+    "messageId": 16535,
+    "sentAt": "2026-10-14T19:31:56.028Z"
+  },
+  "59f07e82-eb40-463f-b8cd-1226f71b905f": {
+    "status": "sent",
+    "reservedAt": "2026-10-14T19:31:58.105Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8818670002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8818670002",
+          "date": "2026-09-22T16:09:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Dallas, TX",
+          "department": "Customer Support Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso24"
+        },
+        "key": "8818670002",
+        "slug": "aso24",
+        "url": "https://hashtagweb3.com/aso24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8018541003",
+          "title": "Senior Product Director, AI & Agent (Chatbot)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8018541003",
+          "date": "2026-10-09T03:07:31-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm264"
+        },
+        "key": "8018541003",
+        "slug": "pm264",
+        "url": "https://hashtagweb3.com/pm264?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Product Director"
+      },
+      {
+        "snapshot": {
+          "id": "4988644101",
+          "title": "Specialist, Consolidation & Regional Finance",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4988644101",
+          "date": "2026-10-06T10:33:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "scrf"
+        },
+        "key": "4988644101",
+        "slug": "scrf",
+        "url": "https://hashtagweb3.com/scrf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Specialist, Consolidation & Regional Finance"
+      },
+      {
+        "snapshot": {
+          "id": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "title": "Content Marketing Lead",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "date": "2026-09-30T12:48:02.322+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt59"
+        },
+        "key": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+        "slug": "mkt59",
+        "url": "https://hashtagweb3.com/mkt59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Content Marketing Lead"
+      },
+      {
+        "snapshot": {
+          "id": "f1aef032-6d5d-4a26-a775-775852351b54",
+          "title": "Data Science Lead",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/Elliptic/f1aef032-6d5d-4a26-a775-775852351b54",
+          "date": "2026-09-30T12:18:17.302+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (Washington, D.C.)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Intelligence",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds13"
+        },
+        "key": "f1aef032-6d5d-4a26-a775-775852351b54",
+        "slug": "ds13",
+        "url": "https://hashtagweb3.com/ds13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Data Science Lead"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm264?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Director, AI &amp; Agent (Chatbot)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/scrf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist, Consolidation &amp; Regional Finance</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/mkt59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Content Marketing Lead</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/ds13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Science Lead</a>",
+    "slotKey": "2026-10-14:evening",
+    "messageId": 126,
+    "sentAt": "2026-10-14T19:32:00.477Z"
   }
 }
