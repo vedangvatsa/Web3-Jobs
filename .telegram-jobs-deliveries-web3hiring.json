@@ -3599,7 +3599,7 @@
     "sentAt": "2026-10-14T04:29:00.726Z"
   },
   "a2e5a35b-dba0-45ff-9be1-3498fd29f8fe": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T04:29:03.483Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -3713,6 +3713,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/cmp100?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Paralegal Litigation</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/pm133?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager - Brokerage - EU</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/int3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Vendor Management Intern (Summer 2027)</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/mgr58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sports Creator Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mkt88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing Compliance</a>",
-    "slotKey": "2026-10-14:morning"
+    "slotKey": "2026-10-14:morning",
+    "messageId": 124,
+    "sentAt": "2026-10-14T04:29:06.433Z"
   }
 }
