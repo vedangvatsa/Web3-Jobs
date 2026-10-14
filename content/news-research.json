@@ -35864,11 +35864,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "462daa2d71ca43879e6a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:38:51.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin-versus-Kospi divergence framing; market commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:52.841Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "0911889858658cd20f67": {
       "source": "Unchained",
@@ -66123,6 +66128,13 @@
           "note": "Live price-updates format around 83K ahead of inflation data; rolling commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:50.981Z"
+        },
+        "462daa2d71ca43879e6a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin-versus-Kospi divergence framing; market commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:52.841Z"
         }
       },
       "baselineSlugs": [
