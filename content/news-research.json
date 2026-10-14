@@ -38428,11 +38428,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ebce0371d77122f95e96",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T12:32:30.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:16.316Z",
+      "retrySearches": [
+        "Ledger CryptoBilis unauthorized component cellular Unchained confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "e4216324f4fe1c40d411": {
       "source": "The Defiant",
@@ -68561,6 +68575,21 @@
           "reviewedAt": "2026-10-14T04:05:14.379Z",
           "retrySearches": [
             "Ledger Donjon LTE implant screen reading confirmation second outlet"
+          ]
+        },
+        "ebce0371d77122f95e96": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:16.316Z",
+          "retrySearches": [
+            "Ledger CryptoBilis unauthorized component cellular Unchained confirmation"
           ]
         }
       },
