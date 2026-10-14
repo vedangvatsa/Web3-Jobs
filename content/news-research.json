@@ -34849,11 +34849,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "79003a0ed35caac2fb63",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T03:02:54.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; Aug 2-7 campaign went public Oct 13 with patched CVEs. XBOW or Google disclosure plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:51.035Z",
+      "retrySearches": [
+        "XBOW Chrome full-chain bounty Google disclosure second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "6b572352d87c446080ff": {
       "source": "Crypto Briefing",
@@ -68358,6 +68372,21 @@
           "reviewedAt": "2026-10-14T04:04:44.874Z",
           "retrySearches": [
             "KuCoin Nigeria ARIP SEC Nigeria record second outlet"
+          ]
+        },
+        "79003a0ed35caac2fb63": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; Aug 2-7 campaign went public Oct 13 with patched CVEs. XBOW or Google disclosure plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:51.035Z",
+          "retrySearches": [
+            "XBOW Chrome full-chain bounty Google disclosure second outlet"
           ]
         }
       },
