@@ -35388,11 +35388,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "951f8a3d856c7b7a2353",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:46:05.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Seasonal bull framing for bitcoin; price commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:10.871Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "4efa360a77461ed8e72c": {
       "source": "The Block",
@@ -66051,6 +66056,13 @@
           "note": "Exchange-balance thesis tied to a rally question; speculation without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:08.959Z"
+        },
+        "951f8a3d856c7b7a2353": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Seasonal bull framing for bitcoin; price commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:10.871Z"
         }
       },
       "baselineSlugs": [
