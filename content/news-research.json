@@ -36325,11 +36325,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bf32da252a4b29aaac0a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:45:45.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "promotional",
+      "note": "Single-outlet product update on an app redesign and token swap tool; company promotion without a second outlet.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:31.692Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "3375392c231997ff8756": {
       "source": "Cointelegraph",
@@ -66759,6 +66764,13 @@
           "note": "Paid-wire partnership announcement with no independent outlet; promotion without corroboration.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:29.811Z"
+        },
+        "bf32da252a4b29aaac0a": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet product update on an app redesign and token swap tool; company promotion without a second outlet.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:31.692Z"
         }
       },
       "baselineSlugs": [
