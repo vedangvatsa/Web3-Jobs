@@ -36780,11 +36780,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d8d9b7d71e3368cf5bbf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:49:24.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Gas-pipeline request for a data center; energy story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:41.522Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "7544fb0320891f71d036": {
       "source": "BeInCrypto",
@@ -66495,6 +66500,13 @@
           "note": "Pharma obesity-drug AI deal; biotech story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:39.573Z"
+        },
+        "d8d9b7d71e3368cf5bbf": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Gas-pipeline request for a data center; energy story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:41.522Z"
         }
       },
       "baselineSlugs": [
