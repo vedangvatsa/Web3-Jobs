@@ -33653,23 +33653,23 @@
       "id": "a3067f1fcfa32873953f",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T11:50:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Single-source launch lead, not opened; needs Bybit announcement and a second outlet.",
+      "reason": "source-blocked",
+      "note": "Bybit stocks page blocked on re-attempt; Bybit announcement and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:05.000Z",
+      "reviewedAt": "2026-10-14T04:02:56.184Z",
       "retrySearches": [
-        "Bybit USDC stocks ETFs October 2026 announcement"
+        "Bybit USDC stocks ETFs announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "3fe0e363b669e3610520": {
       "source": "Cointelegraph",
@@ -67355,6 +67355,21 @@
           "reviewedAt": "2026-10-14T04:02:09.022Z",
           "retrySearches": [
             "Bitquery CryptoBilis frozen funds report second outlet"
+          ]
+        },
+        "a3067f1fcfa32873953f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bybit stocks page blocked on re-attempt; Bybit announcement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:02:56.184Z",
+          "retrySearches": [
+            "Bybit USDC stocks ETFs announcement second outlet"
           ]
         }
       },
