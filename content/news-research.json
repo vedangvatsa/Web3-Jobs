@@ -38466,11 +38466,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "26346814125211b7b8c3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:15:07.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Karpeles device page blocked on re-attempt; device evidence and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:39.882Z",
+      "retrySearches": [
+        "Karpeles Ledger Flex implant evidence second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "c9e860bd8d938dd1ce43": {
       "source": "Decrypt",
@@ -67806,6 +67820,21 @@
           "reviewedAt": "2026-10-14T04:03:37.822Z",
           "retrySearches": [
             "Ledger CryptoBilis implant MediaMarkt statement second outlet"
+          ]
+        },
+        "26346814125211b7b8c3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Karpeles device page blocked on re-attempt; device evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:39.882Z",
+          "retrySearches": [
+            "Karpeles Ledger Flex implant evidence second outlet"
           ]
         }
       },
