@@ -36957,11 +36957,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1ce9c0c2fa546bdee93c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:10:16.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Senators urging AI cybersecurity coordination; AI-policy story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:54.465Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "6e1b59cc355aa0d76987": {
       "source": "Crypto Briefing",
@@ -66555,6 +66560,13 @@
           "note": "Corporate-credit outlook commentary; fixed-income story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:52.537Z"
+        },
+        "1ce9c0c2fa546bdee93c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Senators urging AI cybersecurity coordination; AI-policy story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:54.465Z"
         }
       },
       "baselineSlugs": [
