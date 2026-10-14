@@ -36806,11 +36806,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7544fb0320891f71d036",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:48:01.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Tesla Roadster reveal market speculation; auto-equity story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:43.403Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "de5f40445ff07b730d41": {
       "source": "BeInCrypto",
@@ -66507,6 +66512,13 @@
           "note": "Gas-pipeline request for a data center; energy story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:41.522Z"
+        },
+        "7544fb0320891f71d036": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Tesla Roadster reveal market speculation; auto-equity story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:43.403Z"
         }
       },
       "baselineSlugs": [
