@@ -35605,11 +35605,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a01de3e150be2ec5625a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:40:56.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool; lead not opened, event verified via three other outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:45:32.477Z",
+      "duplicateOf": "mining-pool",
+      "mergedInto": "1dd7447d1a97a73276c7",
+      "lastReviewedDay": "2026-10-14"
     },
     "c60e2239fee5f7f47895": {
       "source": "Decrypt",
@@ -65594,6 +65601,15 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:30.554Z",
+          "duplicateOf": "mining-pool",
+          "mergedInto": "1dd7447d1a97a73276c7"
+        },
+        "a01de3e150be2ec5625a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool; lead not opened, event verified via three other outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:45:32.477Z",
           "duplicateOf": "mining-pool",
           "mergedInto": "1dd7447d1a97a73276c7"
         }
