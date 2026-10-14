@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-10-13T19:39:06.730Z",
+  "generatedAt": "2026-10-14T03:31:17.760Z",
   "items": [
+    {
+      "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+      "pubDate": "Wed, 14 Oct 2026 02:49:34 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’ ",
+      "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 14 Oct 2026 02:19:56 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "pubDate": "Wed, 14 Oct 2026 01:00:00 +0000",
+      "creator": "Ian Allison",
+      "contentSnippet": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling com...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 23:28:19 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "pubDate": "Tue, 13 Oct 2026 23:23:05 +0000",
+      "creator": "Stephen Alpher",
+      "contentSnippet": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+      "source": "Coindesk"
+    },
+    {
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "pubDate": "Tue, 13 Oct 2026 21:52:00 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "AssemblyAI outlines browser voice assistant build in JavaScript",
+      "link": "https://Blockchain.News/news/assemblyai-browser-voice-assistant-javascript-voice-agent-api",
+      "pubDate": "Tue, 13 Oct 2026 21:20:55 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "AssemblyAI published a JavaScript tutorial for a browser voice assistant using its Voice Agent API, WebSocket tokens and AudioWorklet audio handling. ...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Banks and fintechs have three ways to offer crypto",
+      "link": "https://Blockchain.News/news/banks-fintechs-three-models-offer-crypto",
+      "pubDate": "Tue, 13 Oct 2026 20:37:37 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Paxos outlines three operating models for banks and fintechs offering digital assets: build in-house, stitch vendors or use one regulated partner. (Re...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
+      "link": "https://dailyhodl.com/2026/10/13/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform/",
+      "pubDate": "Tue, 13 Oct 2026 20:31:22 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Dubai, United Arab Emirates, 13th October 2026, Chainwire\nThe post Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform appear...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "pubDate": "Tue, 13 Oct 2026 20:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 19:48:06 +0000",
+      "creator": "Sam Bourgi",
+      "contentSnippet": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
       "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
@@ -122,14 +210,6 @@
       "source": "The Block"
     },
     {
-      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-      "link": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-      "pubDate": "Tue, 13 Oct 2026 14:45:08 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
-      "source": "The Block"
-    },
-    {
       "title": "Celo Core Co. Launches buy Marketplace for Autonomous Agent Payments",
       "link": "https://Blockchain.News/news/celo-core-co-launches-buy-marketplace-autonomous-agent-payments",
       "pubDate": "Tue, 13 Oct 2026 14:41:54 GMT",
@@ -208,14 +288,6 @@
       "creator": "Agent",
       "contentSnippet": "Binance’s $4.3 billion deal with the US government is reportedly under fresh scrutiny from federal prosecutors. The Justice Department is reviewing wh...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Binance to shut down mining pool, cloud mining and related services",
-      "link": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
-      "pubDate": "Tue, 13 Oct 2026 11:40:56 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
-      "source": "The Block"
     },
     {
       "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
@@ -498,20 +570,20 @@
       "source": "Coindesk"
     },
     {
+      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets ",
+      "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 14:07:00 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware ...",
+      "source": "Cointelegraph"
+    },
+    {
       "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
       "link": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
       "pubDate": "Mon, 12 Oct 2026 12:39:35 +0000",
       "creator": "Agent",
       "contentSnippet": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC ",
-      "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 12 Oct 2026 12:31:51 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
@@ -522,14 +594,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 12 Oct 2026 11:41:58 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "pubDate": "Mon, 12 Oct 2026 11:21:11 +0000",
@@ -538,43 +602,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
-      "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 12 Oct 2026 11:14:10 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
       "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
       "pubDate": "Mon, 12 Oct 2026 11:02:38 +0000",
       "creator": "Francisco Rodrigues",
       "contentSnippet": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisi...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-      "pubDate": "Mon, 12 Oct 2026 10:57:37 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
-      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
-      "pubDate": "Mon, 12 Oct 2026 10:27:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "pubDate": "Mon, 12 Oct 2026 10:20:54 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
       "source": "Coindesk"
     },
     {
@@ -615,30 +647,6 @@
       "pubDate": "Sat, 10 Oct 2026 16:01:04 +0000",
       "creator": "Agent",
       "contentSnippet": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year drive...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
-      "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-      "pubDate": "Sat, 10 Oct 2026 13:01:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-      "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-      "pubDate": "Fri, 09 Oct 2026 18:46:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned fr...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-      "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-      "pubDate": "Fri, 09 Oct 2026 18:06:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-cont...",
       "source": "Decrypt"
     }
   ]
