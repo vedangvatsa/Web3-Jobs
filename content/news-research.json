@@ -37761,11 +37761,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e82697af4587b73e3be8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T14:30:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "AI-executive warning commentary; tech-opinion story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:07.066Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "b10385b36362f4f1b01a": {
       "source": "Cointelegraph",
@@ -66627,6 +66632,13 @@
           "note": "Copper-price outlook; commodities story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:05.048Z"
+        },
+        "e82697af4587b73e3be8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-executive warning commentary; tech-opinion story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:07.066Z"
         }
       },
       "baselineSlugs": [
