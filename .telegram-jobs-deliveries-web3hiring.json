@@ -3718,7 +3718,7 @@
     "sentAt": "2026-10-14T04:29:06.433Z"
   },
   "79ec280c-8e98-4b52-b862-7ab7e80a8745": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T11:31:55.956Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -3789,6 +3789,8 @@
       }
     ],
     "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Security Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Development Engineer</a>\n- P2P.org is hiring <a href=\"https://hashtagweb3.com/mkt98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior GTM Marketing Manager</a>",
-    "slotKey": "2026-10-14:afternoon"
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 16534,
+    "sentAt": "2026-10-14T11:32:00.621Z"
   }
 }
