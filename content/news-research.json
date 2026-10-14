@@ -33022,23 +33022,23 @@
       "id": "2098bbe999d09c2957ef",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:23:03.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single Unchained lead, not opened; Oct 12 follow-up after ledger-implant needs pairing with second outlet.",
+      "note": "Read the Unchained piece; Bitquery at 93.2M and YFarmX at 103.4M disagree with no Ledger total. Loss confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ledger-says-all-confirmed-cases-trace-to-reseller-cryptobilis-gives-no-loss-total/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:25.560Z",
+      "reviewedAt": "2026-10-14T04:01:41.549Z",
       "retrySearches": [
-        "Ledger CryptoBilis no loss total October 12 second outlet"
+        "Ledger CryptoBilis loss total Bitquery YFarmX second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "04b3fd9c7145da46b45d": {
       "source": "BeInCrypto",
@@ -67160,6 +67160,21 @@
           "reviewedAt": "2026-10-14T04:01:26.169Z",
           "retrySearches": [
             "Ledger CryptoBilis implant investigation loss confirmation second outlet"
+          ]
+        },
+        "2098bbe999d09c2957ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; Bitquery at 93.2M and YFarmX at 103.4M disagree with no Ledger total. Loss confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ledger-says-all-confirmed-cases-trace-to-reseller-cryptobilis-gives-no-loss-total/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:41.549Z",
+          "retrySearches": [
+            "Ledger CryptoBilis loss total Bitquery YFarmX second outlet"
           ]
         }
       },
