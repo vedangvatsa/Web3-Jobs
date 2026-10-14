@@ -35271,11 +35271,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "207e6afe26ef905570b7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:24:15.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "APT four-week price gain versus majors; price move without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:06.933Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "3f87fa5ce83e2d11a731": {
       "source": "CryptoSlate",
@@ -66027,6 +66032,13 @@
           "note": "Investor prediction about 2027 stocks; forecast without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:05.080Z"
+        },
+        "207e6afe26ef905570b7": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "APT four-week price gain versus majors; price move without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:06.933Z"
         }
       },
       "baselineSlugs": [
