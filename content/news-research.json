@@ -37727,11 +37727,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "30077f4772a43384fe99",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:19:27.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/nft-marketplace-blur-is-retiring-blur-io-on-nov-12-keeping-its-contracts-live-onchain/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:45.606Z",
+      "duplicateOf": "blur-shutdown",
+      "mergedInto": "cfd0115f76a3957df4e5",
+      "lastReviewedDay": "2026-10-14"
     },
     "a96151503a157eaa3014": {
       "source": "Cointelegraph",
@@ -65612,6 +65624,20 @@
           "reviewedAt": "2026-10-14T03:45:32.477Z",
           "duplicateOf": "mining-pool",
           "mergedInto": "1dd7447d1a97a73276c7"
+        },
+        "30077f4772a43384fe99": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/nft-marketplace-blur-is-retiring-blur-io-on-nov-12-keeping-its-contracts-live-onchain/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:45.606Z",
+          "duplicateOf": "blur-shutdown",
+          "mergedInto": "cfd0115f76a3957df4e5"
         }
       },
       "baselineSlugs": [
