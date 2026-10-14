@@ -37679,11 +37679,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ccc74f42f175d6209b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:07:04.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:04.990Z",
+      "retrySearches": [
+        "Trezor preventative reseller step Cointelegraph confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "dbd228880e58842a02dc": {
       "source": "The Defiant",
@@ -68474,6 +68488,21 @@
           "reviewedAt": "2026-10-14T04:05:02.885Z",
           "retrySearches": [
             "Trezor resellers reduced Ledger mess confirmation"
+          ]
+        },
+        "3ccc74f42f175d6209b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:04.990Z",
+          "retrySearches": [
+            "Trezor preventative reseller step Cointelegraph confirmation"
           ]
         }
       },
