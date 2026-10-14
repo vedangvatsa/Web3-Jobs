@@ -728,6 +728,9 @@
   "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
   "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
   "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+  "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+  "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+  "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1967,6 +1970,12 @@
   "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
   "US military develops synthetic blood for battlefield medical use",
   "The US military’s race to make fake blood",
+  "YouTube Music introduces labels for AI-generated content",
+  "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+  "Researchers utilize AI to engineer custom protein-degrading enzymes",
+  "Researchers use AI to design proteins that cut up other proteins",
+  "Apate uses AI agents to gather intelligence from scammers",
+  "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2212,5 +2221,8 @@
   "fp:adjust|algorithm|can|content|control|expand|facebook|featur|giv|how",
   "fp:42m|adoption|clos|corporat|creat|design|enterpris|fund|giv|headach",
   "fp:200m|25m|annual|challeng|china|critical|driven|enter|grip|market",
-  "fp:activ|battlefield|blood|combat|creat|develop|dur|emergency|evacuation|fak"
+  "fp:activ|battlefield|blood|combat|creat|develop|dur|emergency|evacuation|fak",
+  "fp:assist|content|creat|display|flood|generat|improv|indicator|introduc|label",
+  "fp:application|bond|break|capabl|chemical|computational|custom|cut|degrad|design",
+  "fp:agent|apat|bot|can|detection|fraud|gather|get|help|improv"
 ]

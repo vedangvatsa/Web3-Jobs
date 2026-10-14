@@ -1347,7 +1347,7 @@
     "sentAt": "2026-10-14T11:34:25.730Z"
   },
   "6da9bb83-3a17-4119-a098-58d898fced24": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T19:33:30.965Z",
     "stories": [
       {
@@ -1379,6 +1379,8 @@
         "originalTitle": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence"
       }
     ],
-    "slotKey": "2026-10-14:evening"
+    "slotKey": "2026-10-14:evening",
+    "messageId": 193348,
+    "sentAt": "2026-10-14T19:33:33.635Z"
   }
 }
