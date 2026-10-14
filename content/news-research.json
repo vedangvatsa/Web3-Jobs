@@ -34296,11 +34296,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "416b86f52578d4b01e67",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T17:31:48.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 High Court ruling on 61,000 BTC covered by seized-bitcoin.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:35:04.598Z",
+      "duplicateOf": "seized-bitcoin",
+      "mergedInto": "7edc77b919dd2e41b770",
+      "lastReviewedDay": "2026-10-14"
     },
     "ee784b512a22baa8a6de": {
       "source": "CryptoSlate",
@@ -65310,6 +65317,15 @@
           "note": "Same Oct 13 High Court ruling on 61,000 BTC covered by seized-bitcoin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:35:02.621Z",
+          "duplicateOf": "seized-bitcoin",
+          "mergedInto": "7edc77b919dd2e41b770"
+        },
+        "416b86f52578d4b01e67": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 High Court ruling on 61,000 BTC covered by seized-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:35:04.598Z",
           "duplicateOf": "seized-bitcoin",
           "mergedInto": "7edc77b919dd2e41b770"
         }
