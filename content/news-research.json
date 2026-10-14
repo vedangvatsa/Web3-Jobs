@@ -30845,23 +30845,23 @@
       "id": "a2699c39cccee48e6823",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T18:44:10.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Single The Block lead, not opened; needs Binance announcement and a second outlet.",
+      "reason": "source-blocked",
+      "note": "Binance AI-tool page blocked on re-attempt; Binance announcement and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:46.941Z",
+      "reviewedAt": "2026-10-14T04:03:00.667Z",
       "retrySearches": [
-        "Binance AI trading tool global rollout October 2026 announcement"
+        "Binance AI trading tool announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "701a5eb99a20e73f7a40": {
       "source": "CryptoSlate",
@@ -67385,6 +67385,21 @@
           "reviewedAt": "2026-10-14T04:02:58.267Z",
           "retrySearches": [
             "CZ CryptoBilis hackers claim statement second outlet"
+          ]
+        },
+        "a2699c39cccee48e6823": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Binance AI-tool page blocked on re-attempt; Binance announcement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:00.667Z",
+          "retrySearches": [
+            "Binance AI trading tool announcement second outlet"
           ]
         }
       },
