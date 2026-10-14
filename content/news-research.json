@@ -28011,25 +28011,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "67889d0e0b3f94cd5fa1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T12:34:31.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Prior-round CryptoBriefing read retained; BoE speech or paper plus second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-13T01:44:11.833Z",
+      "reason": "stale",
+      "note": "72-hour window closing with only one reputable outlet plus scrapers; no Bank of England primary located and the remark origin is unclear against a June policy statement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:20.269Z",
       "retrySearches": [
         "Bank of England stablecoin banker Breeden speech October 2026"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14"
     },
     "1062f930d0e4dfe1f358": {
       "source": "Crypto Briefing",
@@ -65885,6 +65879,13 @@
           "reviewedAt": "2026-10-14T03:52:18.270Z",
           "duplicateOf": "strive-bitcoin",
           "mergedInto": "e611ef9e08fc6de725a6"
+        },
+        "67889d0e0b3f94cd5fa1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "72-hour window closing with only one reputable outlet plus scrapers; no Bank of England primary located and the remark origin is unclear against a June policy statement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:20.269Z"
         }
       },
       "baselineSlugs": [
