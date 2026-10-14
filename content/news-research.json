@@ -35236,11 +35236,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "e611ef9e08fc6de725a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T18:15:05.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "verified-event",
+      "note": "3,311 BTC at about 84,500 average, 32,773 total, 208M warrants and 100 SATA floor verified across three outlets; SEC filing itself blocked.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/strive-adds-3311-bitcoin-as-warrants-covering-15-3-million-shares-near-expiry/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/asst-20261013.htm",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:36:46.830Z",
+      "articleSlug": "strive-bitcoin",
+      "lastReviewedDay": "2026-10-14"
     },
     "a952681df28241e0bb0f": {
       "source": "Bitcoin Magazine",
@@ -65328,6 +65351,31 @@
           "reviewedAt": "2026-10-14T03:35:04.598Z",
           "duplicateOf": "seized-bitcoin",
           "mergedInto": "7edc77b919dd2e41b770"
+        },
+        "e611ef9e08fc6de725a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "3,311 BTC at about 84,500 average, 32,773 total, 208M warrants and 100 SATA floor verified across three outlets; SEC filing itself blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strive-adds-3311-bitcoin-as-warrants-covering-15-3-million-shares-near-expiry/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/asst-20261013.htm",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:36:46.830Z",
+          "articleSlug": "strive-bitcoin"
         }
       },
       "baselineSlugs": [
