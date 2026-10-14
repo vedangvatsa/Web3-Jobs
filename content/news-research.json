@@ -37593,11 +37593,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "70a7368a909cafa0624d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:02:47.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "verified-event",
+      "note": "Bank of Russia added Sberbank to crypto exchange register Oct 12 with Dec 1 product target; verified register counts, Dec 1 platforms and retail caps across three outlets via Interfax.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/sberbank-lands-on-both-of-russias-crypto-registers-with-bank-of-russia-exchange-listing/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:23.263Z",
+      "articleSlug": "sberbank-crypto",
+      "lastReviewedDay": "2026-10-14"
     },
     "6aa45f2713c1657bbf94": {
       "source": "Decrypt",
@@ -65504,6 +65523,27 @@
           ],
           "reviewedAt": "2026-10-14T03:45:21.241Z",
           "articleSlug": "blur-shutdown"
+        },
+        "70a7368a909cafa0624d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bank of Russia added Sberbank to crypto exchange register Oct 12 with Dec 1 product target; verified register counts, Dec 1 platforms and retail caps across three outlets via Interfax.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/sberbank-lands-on-both-of-russias-crypto-registers-with-bank-of-russia-exchange-listing/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:23.263Z",
+          "articleSlug": "sberbank-crypto"
         }
       },
       "baselineSlugs": [
