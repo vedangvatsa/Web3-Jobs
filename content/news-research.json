@@ -34580,11 +34580,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "65afd8ed565fe446f4ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:44:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "AI-company court appeal over a Pentagon ruling; no crypto asset, protocol or market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:54:59.824Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "351a2ca1130031d08ac3": {
       "source": "Crypto Briefing",
@@ -66255,6 +66260,13 @@
           "note": "Trading-data analysis of Kalshi parlays; desk analysis without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:54:12.988Z"
+        },
+        "65afd8ed565fe446f4ae": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-company court appeal over a Pentagon ruling; no crypto asset, protocol or market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:54:59.824Z"
         }
       },
       "baselineSlugs": [
