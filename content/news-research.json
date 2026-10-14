@@ -36561,11 +36561,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "72fff0a7246e1876b504",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:16:12.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Court order in an AI trade-secrets case; legal story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:30.210Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "fbd42c6264545b8b084e": {
       "source": "Crypto Briefing",
@@ -66423,6 +66428,13 @@
           "note": "UK CFO headcount survey on AI; enterprise survey with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:28.372Z"
+        },
+        "72fff0a7246e1876b504": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Court order in an AI trade-secrets case; legal story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:30.210Z"
         }
       },
       "baselineSlugs": [
