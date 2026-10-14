@@ -33302,23 +33302,23 @@
       "id": "33cc2169760918bbe83f",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T15:23:33.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Single-source treasury lead, not opened; needs SkyAI record and a second outlet.",
+      "reason": "source-blocked",
+      "note": "SkyAI treasury page blocked on re-attempt; SkyAI record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:12.195Z",
+      "reviewedAt": "2026-10-14T04:02:00.795Z",
       "retrySearches": [
-        "SkyAI SOL treasury sale 201M buyback October 2026"
+        "SkyAI SOL treasury sale buyback record second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "ee1dbcf85768de37a3a7": {
       "source": "The Defiant",
@@ -67280,6 +67280,21 @@
           "reviewedAt": "2026-10-14T04:01:58.838Z",
           "retrySearches": [
             "Story DATA Sui migration announcement second outlet"
+          ]
+        },
+        "33cc2169760918bbe83f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SkyAI treasury page blocked on re-attempt; SkyAI record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:02:00.795Z",
+          "retrySearches": [
+            "SkyAI SOL treasury sale buyback record second outlet"
           ]
         }
       },
