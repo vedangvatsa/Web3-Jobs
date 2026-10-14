@@ -37897,11 +37897,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7534ed35e0a52842c3d3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:00:29.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "DRW-Marex page blocked on re-attempt; trade confirmation and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:24.598Z",
+      "retrySearches": [
+        "DRW Marex Canton swap confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "a38eef23289a120208a6": {
       "source": "The Block",
@@ -67659,6 +67673,21 @@
             }
           ],
           "reviewedAt": "2026-10-14T04:03:22.676Z",
+          "retrySearches": [
+            "DRW Marex Canton swap confirmation second outlet"
+          ]
+        },
+        "7534ed35e0a52842c3d3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DRW-Marex page blocked on re-attempt; trade confirmation and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:24.598Z",
           "retrySearches": [
             "DRW Marex Canton swap confirmation second outlet"
           ]
