@@ -30933,23 +30933,23 @@
       "id": "0e0fb5d8d811439a52e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T17:20:24.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CryptoSlate lead, not opened; needs Solana SIMD or developer doc and a second outlet.",
+      "note": "Read the CryptoSlate analysis; a Foundation deprecation plan with no fixed date or final design choice. SIMD or developer doc plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/solanas-cold-wallet-migration-plan-would-add-a-new-layer-between-keys-and-funds/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:48.707Z",
+      "reviewedAt": "2026-10-14T04:00:27.712Z",
       "retrySearches": [
-        "Solana offline signing cold wallet migration SIMD October 2026"
+        "Solana offline signing durable nonce SIMD developer doc second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "5394f7c0e6069b7aed4e": {
       "source": "Cointelegraph",
@@ -66929,6 +66929,21 @@
           "reviewedAt": "2026-10-14T04:00:22.890Z",
           "retrySearches": [
             "Coinbase Celestia transfer delay status page second outlet"
+          ]
+        },
+        "0e0fb5d8d811439a52e2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate analysis; a Foundation deprecation plan with no fixed date or final design choice. SIMD or developer doc plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/solanas-cold-wallet-migration-plan-would-add-a-new-layer-between-keys-and-funds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:27.712Z",
+          "retrySearches": [
+            "Solana offline signing durable nonce SIMD developer doc second outlet"
           ]
         }
       },
