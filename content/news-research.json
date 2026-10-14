@@ -37830,11 +37830,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "c9e860bd8d938dd1ce43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:12:45.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:47.568Z",
+      "duplicateOf": "blur-shutdown",
+      "mergedInto": "cfd0115f76a3957df4e5",
+      "lastReviewedDay": "2026-10-14"
     },
     "2ac2c70bde460b915dcd": {
       "source": "Cointelegraph",
@@ -65636,6 +65648,20 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:45.606Z",
+          "duplicateOf": "blur-shutdown",
+          "mergedInto": "cfd0115f76a3957df4e5"
+        },
+        "c9e860bd8d938dd1ce43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:47.568Z",
           "duplicateOf": "blur-shutdown",
           "mergedInto": "cfd0115f76a3957df4e5"
         }
