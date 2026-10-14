@@ -36944,11 +36944,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc819dc57b19f373bb5b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:58:39.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Bankless explainer analyzing the Starknet L1 question; analysis without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:50.631Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "f1012637363ff01cebbc": {
       "source": "BeInCrypto",
@@ -65955,6 +65960,13 @@
           "note": "Executive interview remark about arbitrage interest with no company action or announcement.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:48.828Z"
+        },
+        "cc819dc57b19f373bb5b": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bankless explainer analyzing the Starknet L1 question; analysis without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:50.631Z"
         }
       },
       "baselineSlugs": [
