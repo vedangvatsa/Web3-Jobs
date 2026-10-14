@@ -35838,11 +35838,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "658d2edb3706f6a853e1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:46:57.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Live price-updates format around 83K ahead of inflation data; rolling commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:50.981Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "462daa2d71ca43879e6a": {
       "source": "CoinDesk",
@@ -66111,6 +66116,13 @@
           "note": "Bitcoin and ether slip-and-rebound tied to Korean stocks; price action without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:19.490Z"
+        },
+        "658d2edb3706f6a853e1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Live price-updates format around 83K ahead of inflation data; rolling commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:50.981Z"
         }
       },
       "baselineSlugs": [
