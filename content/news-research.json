@@ -36332,11 +36332,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e90e79f526c769082781",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:04:58.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Server-hardware showcase for AI factories; hardware story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:11.313Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "0e4154b900067a006285": {
       "source": "Crypto Briefing",
@@ -66327,6 +66332,13 @@
           "note": "Same OpenAI acquisition talks framed via audit clients; tech M and A with no web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:09.358Z"
+        },
+        "e90e79f526c769082781": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Server-hardware showcase for AI factories; hardware story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:11.313Z"
         }
       },
       "baselineSlugs": [
