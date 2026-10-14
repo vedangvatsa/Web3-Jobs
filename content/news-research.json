@@ -37864,11 +37864,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "993147b9b3355a8e0769",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:17:17.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "BIS research writeup on digital cash privacy; paper coverage without a reportable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:26.151Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "eb3807d83cb5a193d8e9": {
       "source": "Unchained",
@@ -66723,6 +66728,13 @@
           "note": "Deposit-rate model analysis of USDC adoption; research commentary without a reportable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:24.242Z"
+        },
+        "993147b9b3355a8e0769": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "BIS research writeup on digital cash privacy; paper coverage without a reportable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:26.151Z"
         }
       },
       "baselineSlugs": [
