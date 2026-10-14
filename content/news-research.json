@@ -37225,11 +37225,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ff229a246b036c1cd7e9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:22:10.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown; lead not opened, event verified via three other outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:45:51.496Z",
+      "duplicateOf": "blur-shutdown",
+      "mergedInto": "cfd0115f76a3957df4e5",
+      "lastReviewedDay": "2026-10-14"
     },
     "065448ab6592e1688b95": {
       "source": "Decrypt",
@@ -65678,6 +65685,15 @@
           "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown; lead not opened, event verified via three other outlets.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:45:49.505Z",
+          "duplicateOf": "blur-shutdown",
+          "mergedInto": "cfd0115f76a3957df4e5"
+        },
+        "ff229a246b036c1cd7e9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blur Nov 12 frontend retirement covered by blur-shutdown; lead not opened, event verified via three other outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:45:51.496Z",
           "duplicateOf": "blur-shutdown",
           "mergedInto": "cfd0115f76a3957df4e5"
         }
