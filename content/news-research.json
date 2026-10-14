@@ -38688,11 +38688,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "81b2c5c70aa7aadb27b7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T04:36:19.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Realist robbery page blocked on re-attempt; police record and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:48.442Z",
+      "retrySearches": [
+        "Realist knifepoint robbery police record second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     }
   },
   "runs": {
@@ -67922,6 +67936,21 @@
           "reviewedAt": "2026-10-14T04:03:46.198Z",
           "retrySearches": [
             "A7 USDT SWIFT service notice second outlet"
+          ]
+        },
+        "81b2c5c70aa7aadb27b7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Realist robbery page blocked on re-attempt; police record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:48.442Z",
+          "retrySearches": [
+            "Realist knifepoint robbery police record second outlet"
           ]
         }
       },
