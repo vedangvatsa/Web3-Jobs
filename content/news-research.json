@@ -36238,11 +36238,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa43dde52c711bf386df",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:59:15.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI acquisition talks for a security firm; tech M and A with no web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:07.479Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "f89115770f5a301a3fdd": {
       "source": "Crypto Briefing",
@@ -66303,6 +66308,13 @@
           "note": "China export and AI shipment data; macro trade story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:05.606Z"
+        },
+        "aa43dde52c711bf386df": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI acquisition talks for a security firm; tech M and A with no web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:07.479Z"
         }
       },
       "baselineSlugs": [
