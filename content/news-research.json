@@ -36832,11 +36832,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "56b8b4503b2bb3a3df5a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:30:45.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; the same 52B yen bond and 60B yen buyback program verified via the shared Cointelegraph read. Company disclosure plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:24.911Z",
+      "retrySearches": [
+        "Metaplanet buyback program disclosure CryptoSlate confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "72fff0a7246e1876b504": {
       "source": "Crypto Briefing",
@@ -68894,6 +68908,21 @@
           "reviewedAt": "2026-10-14T04:06:22.866Z",
           "retrySearches": [
             "Metaplanet convertible bonds disclosure second outlet"
+          ]
+        },
+        "56b8b4503b2bb3a3df5a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; the same 52B yen bond and 60B yen buyback program verified via the shared Cointelegraph read. Company disclosure plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:24.911Z",
+          "retrySearches": [
+            "Metaplanet buyback program disclosure CryptoSlate confirmation"
           ]
         }
       },
