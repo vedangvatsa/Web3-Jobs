@@ -32087,23 +32087,23 @@
       "id": "4da9d7c8c714057dcb97",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T22:10:30.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:44.612Z",
+      "reviewedAt": "2026-10-14T04:01:05.341Z",
       "retrySearches": [
-        "FSB stablecoin bank run warning October 2026 report second outlet"
+        "FSB stablecoin run risk report October 2026 second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "b2f1f35770131e1896dc": {
       "source": "BeInCrypto",
@@ -67070,6 +67070,21 @@
           "reviewedAt": "2026-10-14T04:00:59.157Z",
           "retrySearches": [
             "Aptos encrypted mempool mainnet Aptos Labs post second outlet"
+          ]
+        },
+        "4da9d7c8c714057dcb97": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:05.341Z",
+          "retrySearches": [
+            "FSB stablecoin run risk report October 2026 second outlet"
           ]
         }
       },
