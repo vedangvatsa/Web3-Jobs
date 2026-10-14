@@ -27162,7 +27162,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7fb4c0a1e19643319ca",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 4,
       "expiresAt": "2026-10-14T13:00:14.000Z",
@@ -27188,7 +27188,8 @@
         "iVerify P7 DarkSword iPhone spyware second outlet"
       ],
       "lastReviewedDay": "2026-10-14",
-      "articleSlug": "iphone-spyware"
+      "articleSlug": "iphone-spyware",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -27408,7 +27409,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f16a7b553033e9f2f33",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
       "attempts": 4,
       "expiresAt": "2026-10-14T18:00:02.000Z",
@@ -27430,7 +27431,8 @@
         "LDK 0.2.7 reconnect fix Optech second outlet"
       ],
       "lastReviewedDay": "2026-10-14",
-      "articleSlug": "ldk-fix"
+      "articleSlug": "ldk-fix",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "2480131e6223cf3240bb": {
       "source": "Crypto Briefing",
@@ -27864,7 +27866,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6420dc2950b5016d8969",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
       "attempts": 4,
       "expiresAt": "2026-10-14T15:59:17.000Z",
@@ -27890,7 +27892,8 @@
         "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
       ],
       "lastReviewedDay": "2026-10-14",
-      "articleSlug": "usdkg-shutdown"
+      "articleSlug": "usdkg-shutdown",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "dce879b8052efc81cfa6": {
       "source": "Crypto Briefing",
@@ -34526,7 +34529,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7edc77b919dd2e41b770",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 1,
       "expiresAt": "2026-10-16T09:03:06.000Z",
@@ -34553,7 +34556,8 @@
       ],
       "reviewedAt": "2026-10-14T03:34:52.133Z",
       "articleSlug": "seized-bitcoin",
-      "lastReviewedDay": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "cedb10fc747d425655e2": {
       "source": "CryptoSlate",
@@ -35414,7 +35418,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "1dd7447d1a97a73276c7",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 1,
       "expiresAt": "2026-10-16T20:16:03.000Z",
@@ -35437,7 +35441,8 @@
       ],
       "reviewedAt": "2026-10-14T03:45:15.494Z",
       "articleSlug": "mining-pool",
-      "lastReviewedDay": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "e3bd7067ffcb7560f72e": {
       "source": "BeInCrypto",
@@ -35628,7 +35633,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "e611ef9e08fc6de725a6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 1,
       "expiresAt": "2026-10-16T18:15:05.000Z",
@@ -35655,7 +35660,8 @@
       ],
       "reviewedAt": "2026-10-14T03:36:46.830Z",
       "articleSlug": "strive-bitcoin",
-      "lastReviewedDay": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "a952681df28241e0bb0f": {
       "source": "Bitcoin Magazine",
@@ -36490,7 +36496,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfd0115f76a3957df4e5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 1,
       "expiresAt": "2026-10-16T04:43:18.000Z",
@@ -36513,7 +36519,8 @@
       ],
       "reviewedAt": "2026-10-14T03:45:21.241Z",
       "articleSlug": "blur-shutdown",
-      "lastReviewedDay": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "4b4cf48603ae00e990ff": {
       "source": "The Block",
@@ -38845,7 +38852,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "70a7368a909cafa0624d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 1,
       "expiresAt": "2026-10-16T11:02:47.000Z",
@@ -38868,7 +38875,8 @@
       ],
       "reviewedAt": "2026-10-14T03:45:23.263Z",
       "articleSlug": "sberbank-crypto",
-      "lastReviewedDay": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "publishedAt": "2026-10-14T04:15:14.597Z"
     },
     "6aa45f2713c1657bbf94": {
       "source": "Decrypt",
@@ -66501,7 +66509,7 @@
     "2026-10-14": {
       "day": "2026-10-14",
       "startedAt": "2026-10-14T03:31:22.931Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "d2d7a1b55b78c7f15a05",
         "560991e288df5e15cdac",
@@ -66798,7 +66806,7 @@
           "automatic": true
         },
         "7edc77b919dd2e41b770": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "High Court ruled Chinese law governs s.281 claims to 61,000 BTC; verified Qian scheme figures, seizure history and appeal across three outlets plus the judgment.",
           "sourceChecks": [
@@ -66820,7 +66828,8 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:34:52.133Z",
-          "articleSlug": "seized-bitcoin"
+          "articleSlug": "seized-bitcoin",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "ec31655bdcee947e3365": {
           "status": "rejected",
@@ -66868,7 +66877,7 @@
           "mergedInto": "7edc77b919dd2e41b770"
         },
         "e611ef9e08fc6de725a6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "3,311 BTC at about 84,500 average, 32,773 total, 208M warrants and 100 SATA floor verified across three outlets; SEC filing itself blocked.",
           "sourceChecks": [
@@ -66890,7 +66899,8 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:36:46.830Z",
-          "articleSlug": "strive-bitcoin"
+          "articleSlug": "strive-bitcoin",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "2ebd702130a2a7c79532": {
           "status": "rejected",
@@ -66920,7 +66930,7 @@
           "mergedInto": "e611ef9e08fc6de725a6"
         },
         "1dd7447d1a97a73276c7": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Binance Oct 13 notice ends Pool, Pool Savings, Cloud Mining and Accelerator Nov 10 07:00 UTC; verified cutoff, KYC and Nov 24 record window across three outlets.",
           "sourceChecks": [
@@ -66938,10 +66948,11 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:15.494Z",
-          "articleSlug": "mining-pool"
+          "articleSlug": "mining-pool",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "cfd0115f76a3957df4e5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Blur Oct 12 X post retires blur.io frontend Nov 12, protocol stays onchain, Blend stops new loans; verified volume collapse and Blast context across three outlets.",
           "sourceChecks": [
@@ -66959,10 +66970,11 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:21.241Z",
-          "articleSlug": "blur-shutdown"
+          "articleSlug": "blur-shutdown",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "70a7368a909cafa0624d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Bank of Russia added Sberbank to crypto exchange register Oct 12 with Dec 1 product target; verified register counts, Dec 1 platforms and retail caps across three outlets via Interfax.",
           "sourceChecks": [
@@ -66980,7 +66992,8 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:23.263Z",
-          "articleSlug": "sberbank-crypto"
+          "articleSlug": "sberbank-crypto",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "5db0583be2447982611a": {
           "status": "rejected",
@@ -67108,7 +67121,7 @@
           "mergedInto": "70a7368a909cafa0624d"
         },
         "c7fb4c0a1e19643319ca": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "iVerify Oct 8 P7 DarkSword disclosure verified via primary report plus HackerNews and CryptoSlate; wallet_scan/wallet_extract, 15s beacon and patch limits confirmed.",
           "sourceChecks": [
@@ -67126,10 +67139,11 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:48:10.182Z",
-          "articleSlug": "iphone-spyware"
+          "articleSlug": "iphone-spyware",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "4f16a7b553033e9f2f33": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "LDK Oct 1 security releases v0.2.7/v0.1.13 verified via Optech 426 primary plus CryptoSlate; 5057 reconnect theft, 5042 LSPS2 and 5046 stale-state fixes confirmed.",
           "sourceChecks": [
@@ -67143,10 +67157,11 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:49:07.986Z",
-          "articleSlug": "ldk-fix"
+          "articleSlug": "ldk-fix",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "6420dc2950b5016d8969": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Cabinet Order 639-t liquidation of EVA and Coin Nomad verified via CryptoBriefing, Akchabar and the USDKG primary notice; creditor deadline Oct 14 and redemption gaps confirmed.",
           "sourceChecks": [
@@ -67164,7 +67179,8 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:50:58.871Z",
-          "articleSlug": "usdkg-shutdown"
+          "articleSlug": "usdkg-shutdown",
+          "publishedAt": "2026-10-14T04:15:14.597Z"
         },
         "639da78ae1beb866cc22": {
           "status": "rejected",
@@ -69731,7 +69747,9 @@
         ],
         "total": 168,
         "checkedAt": "2026-10-14T03:31:22.931Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-14T04:15:14.597Z"
     }
   }
 }
