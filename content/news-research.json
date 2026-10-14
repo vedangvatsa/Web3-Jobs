@@ -37021,11 +37021,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "db48ec069ac23cf95109",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T23:43:23.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; Oct 13 unveiling with demo live and production due Oct 14. StarkWare post plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:48.051Z",
+      "retrySearches": [
+        "StarkWare Shadow Accounts launch post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "de40f76e739ea62d19d0": {
       "source": "Crypto Briefing",
@@ -69337,6 +69351,21 @@
           "reviewedAt": "2026-10-14T04:07:42.547Z",
           "retrySearches": [
             "Ripple Meritz Securities partnership notice second outlet"
+          ]
+        },
+        "db48ec069ac23cf95109": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; Oct 13 unveiling with demo live and production due Oct 14. StarkWare post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:48.051Z",
+          "retrySearches": [
+            "StarkWare Shadow Accounts launch post second outlet"
           ]
         }
       },
