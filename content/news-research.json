@@ -28770,29 +28770,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "f47341cb1347abf764b9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T23:00:46.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "needs-corroboration",
-      "note": "Prior-round CryptoSlate read and Defiant block retained; StarkWare primary post and second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-13T01:44:17.387Z",
+      "reason": "not-a-concrete-event",
+      "note": "Starknet L1 discussion is deliberation without a proposal, vote, date or decision; Starknet itself calls it a question not a decision.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:37.209Z",
       "retrySearches": [
         "StarkWare Starknet L1 clearest path CoinDesk coverage"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14"
     },
     "5bf468384a7d4e3ee194": {
       "source": "Cointelegraph",
@@ -65886,6 +65876,13 @@
           "note": "72-hour window closing with only one reputable outlet plus scrapers; no Bank of England primary located and the remark origin is unclear against a June policy statement.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:20.269Z"
+        },
+        "f47341cb1347abf764b9": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Starknet L1 discussion is deliberation without a proposal, vote, date or decision; Starknet itself calls it a question not a decision.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:37.209Z"
         }
       },
       "baselineSlugs": [
