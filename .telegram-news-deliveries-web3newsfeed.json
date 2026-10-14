@@ -1362,7 +1362,7 @@
     "sentAt": "2026-10-14T04:29:41.561Z"
   },
   "b5f1b348-cf1f-43b4-b491-c5615f3fc859": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T11:34:06.396Z",
     "stories": [
       {
@@ -1390,6 +1390,8 @@
         "originalTitle": "Strive adds 3,311 bitcoin for $280 million as warrants near expiry"
       }
     ],
-    "slotKey": "2026-10-14:afternoon"
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 65749,
+    "sentAt": "2026-10-14T11:34:09.282Z"
   }
 }
