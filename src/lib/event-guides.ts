@@ -1392,34 +1392,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
-  ethrome: {
-    summaryLead:
-      "ETHRome runs September 11 to 13, 2026 at Urbe Hub in Testaccio, Rome, hosted by urbe.eth. The site frames the 2026 edition as a small hackathon for 40 selected builders focused on AI, finance and privacy, with doors opening Friday afternoon and awards Sunday afternoon. Sponsors named include Team1 and Arkiv at top level plus Swarm and ENS. The 2025 report lists more than 250 attendees, 14 sponsors and 65 projects. Applications run through Luma. Pricing is listed on the official site. The venue address is listed as Largo Dino Frisullo in Rome.",
-    expectedAttendance: "40 selected builders (2026 edition); 250+ attendees, 14 sponsors, 65 projects in 2025",
-    sections: [
-      {
-        heading: "Dates and format",
-        content: [
-          "The site gives September 11 to 13, 2026 at Urbe Hub, Largo Dino Frisullo in Testaccio, Rome. It calls the 2026 edition a smaller hackathon for 40 selected builders. Themes are listed as AI, finance and privacy.",
-          "Doors open Friday at 4 PM with hacking from 6 PM, all-day hacking Saturday and a Sunday submission deadline at 10 AM with awards at 3 PM. The venue is listed as open around the clock during the build.",
-        ],
-      },
-      {
-        heading: "Hosts and sponsors",
-        content: [
-          "The event is marked as hosted by urbe.eth, with contact through hello at urbe.build. Patrician sponsors named are Team1 and Arkiv. Citizen sponsors named are Swarm and ENS.",
-          "The 2025 report linked on the page lists more than 250 attendees, 14 sponsors and 65 projects. Applications for 2026 run through Luma with a follow link on X.",
-        ],
-      },
-      {
-        heading: "Venue note",
-        content: [
-          "The location section shows coworking floors, a main hall and focus rooms inside Urbe Hub. The organizers present it as their own space in the Citta dell'Altra Economia area.",
-          "Food is listed across the weekend, including breakfasts, lunches, dinners and midnight street food. No ticket prices appear on the fetched page.",
-        ],
-      },
-    ],
-  },
   gts: {
     summaryLead:
       "Global Trading Show (GTS) 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. Presented by Times of Trading and organised by VAP Group, the expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.",

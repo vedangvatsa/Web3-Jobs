@@ -32,6 +32,7 @@ const CONCURRENCY = Math.max(
 );
 const LOG_EVERY = process.env.CI ? 50 : 200;
 const WITH_LOGOS = process.argv.includes('--logos');
+const VERIFIED_BRANDING = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/company-branding.json'), 'utf8')) as Record<string, { logo?: string }>;
 const IF_MISSING = process.argv.includes('--if-missing');
 const SKIP_COMPANIES = process.argv.includes('--skip-companies');
 const COMPANIES_ONLY = process.argv.includes('--companies-only');
@@ -422,7 +423,7 @@ async function renderCompanies(
   let written = writtenJobs;
   let skipped = skippedJobs;
 
-  let companies = await getCompanies();
+  let companies = await getCompanies(true);
   for (const slug of new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)))) {
     if (companies.some(company => company.slug === slug)) continue;
     const company = await getCompanyBySlug(slug);
@@ -433,9 +434,11 @@ async function renderCompanies(
   await mapPool(companies, CONCURRENCY, async (company) => {
     const slug = getCompanySlug(company.name);
     const key = `company:${slug}`;
-    const logoRel = WITH_LOGOS ? resolveCompanyLogo(slug) || '' : '';
+    const withLogo = WITH_LOGOS || Boolean(VERIFIED_BRANDING[slug]?.logo);
+    const logoRel = withLogo ? resolveCompanyLogo(slug) || '' : '';
     const jobCount = 'jobCount' in company ? Number((company as { jobCount?: number }).jobCount || 0) : 0;
-    const fingerprint = sha(`${VERSION}|company-age-neutral|${company.name}|${logoRel}`);
+    const assetHash = VERIFIED_BRANDING[slug]?.logo && logoRel ? sha(fs.readFileSync(path.join(ROOT, 'public', logoRel)).toString('base64')) : '';
+    const fingerprint = sha(`${VERSION}|company-age-neutral|${company.name}|${logoRel}${assetHash ? `|${assetHash}` : ''}`);
     const outFile = path.join(OUT_COMPANIES, `${slug}.png`);
     if (IF_MISSING && fs.existsSync(outFile) && manifest[key] === fingerprint) {
       skipped += 1;
@@ -450,7 +453,7 @@ async function renderCompanies(
         companyCardElement({
           name: company.name,
           jobCount,
-          logoDataUrl: WITH_LOGOS ? logoDataUrlForCompany(company.name) : null,
+          logoDataUrl: withLogo ? logoDataUrlForCompany(company.name) : null,
         }),
         font,
       );

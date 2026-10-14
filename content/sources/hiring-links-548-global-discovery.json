@@ -1,0 +1,3456 @@
+{
+  "checkedAt": "2026-10-14T11:21:02.365Z",
+  "status": "discovery-queue-not-enabled-sources",
+  "rows": [
+    {
+      "company": "3Jane",
+      "hiringUrl": "https://jobs.lever.co/3jane",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.3jane.xyz/",
+        "finalUrl": "https://www.3jane.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:20.890Z",
+        "bodySha256": "16227b2daf5deb3efc20afe25fc78aab2f073009a685703bcd2d5d101295f305"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "=nil; Foundation",
+      "hiringUrl": "https://nil.foundation/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://nil.foundation",
+        "finalUrl": "https://nil.foundation",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:28.473Z",
+        "bodySha256": "2d9f0ddae94a52fef2a3566825ae3c042e9de24405e59c535de41a6aa5e6c9d6"
+      },
+      "web3Signal": {
+        "url": "https://nil.foundation",
+        "checkedAt": "2026-10-14T11:05:28.473Z",
+        "bodySha256": "2d9f0ddae94a52fef2a3566825ae3c042e9de24405e59c535de41a6aa5e6c9d6",
+        "quote": "=nil; is an Ethereum L2, powered by zkShardingLogoBlogDocumentationAboutCareers=nil; is an Ethereum L2, powered by zkShardingOne network for"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "ABC Labs / Reserve",
+      "hiringUrl": "https://www.abclabs.co/about#openroles",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://reserve.org",
+        "finalUrl": "https://reserve.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:17.438Z",
+        "bodySha256": "64924a5a8a3b41b0e1c14e5f44da226a22c5d06ed9ff8d68a43ad8a107578a92"
+      },
+      "web3Signal": {
+        "url": "https://reserve.org",
+        "checkedAt": "2026-10-14T11:05:17.438Z",
+        "bodySha256": "64924a5a8a3b41b0e1c14e5f44da226a22c5d06ed9ff8d68a43ad8a107578a92",
+        "quote": "interact with smart contracts on public blockchains. Information on the Sites is provided to help explain how the protocol and DTFs work, but it does not take into accoun"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Agora",
+      "hiringUrl": "https://jobs.gem.com/agora",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.agora.finance/",
+        "finalUrl": "https://www.agora.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:22.972Z",
+        "bodySha256": "cf5dc82ca169049bf9999d32bb6dc566721a69237904c780a3fc00462a3bd24f"
+      },
+      "web3Signal": {
+        "url": "https://www.agora.finance/",
+        "checkedAt": "2026-10-14T11:05:22.972Z",
+        "bodySha256": "cf5dc82ca169049bf9999d32bb6dc566721a69237904c780a3fc00462a3bd24f",
+        "quote": "Agora - stablecoin infrastructure for global businessAgora received preliminary conditional approval from the OCCRead More: Agora received"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Agoric",
+      "hiringUrl": "https://agoric.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://agoric.com",
+        "finalUrl": "https://agoric.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:25.361Z",
+        "bodySha256": "fe96f5e03d416dc7af5eed6c71064712e54f943a0955f1aa4cc5e2a1258c7c58"
+      },
+      "web3Signal": {
+        "url": "https://agoric.com",
+        "checkedAt": "2026-10-14T11:05:25.361Z",
+        "bodySha256": "fe96f5e03d416dc7af5eed6c71064712e54f943a0955f1aa4cc5e2a1258c7c58",
+        "quote": "ate, coordinate, and execute across any blockchain. No manual bridging. No fragmented liquidity. Just pure, automated financial logic.Build with usExplore the StackAutoma"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Aleo",
+      "hiringUrl": "https://aleo.org/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://aleo.org",
+        "finalUrl": "https://aleo.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:24.739Z",
+        "bodySha256": "895c5f242f7995868c2db2c9718c120326034923d5d16ca075fc3406c8c68e6e"
+      },
+      "web3Signal": {
+        "url": "https://aleo.org",
+        "checkedAt": "2026-10-14T11:05:24.739Z",
+        "bodySha256": "895c5f242f7995868c2db2c9718c120326034923d5d16ca075fc3406c8c68e6e",
+        "quote": "Aleo: Private Stablecoin Payments Private StablecoinPayments. Move money anywhere in the world in seconds, for less than a penny, while keeping "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Algorand Foundation",
+      "hiringUrl": "https://algorand.co/algorand-foundation/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://algorand.co/",
+        "finalUrl": "https://algorand.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:21.694Z",
+        "bodySha256": "6cbffb4e7f684956b58a92eb83562610c10ac776d3183f385e641c0ba5a0a1b4"
+      },
+      "web3Signal": {
+        "url": "https://algorand.co/",
+        "checkedAt": "2026-10-14T11:05:21.694Z",
+        "bodySha256": "6cbffb4e7f684956b58a92eb83562610c10ac776d3183f385e641c0ba5a0a1b4",
+        "quote": " Algorand Solutions Solutions Ready for blockchain that works in the real world? Algorand is. Real companies are using Algorand to move money, verify data, tokenize asset"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Allora",
+      "hiringUrl": "https://alloralabs.bamboohr.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.allora.network/",
+        "finalUrl": "https://www.allora.network/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:25.445Z",
+        "bodySha256": "f6730a4c3ae07e0078aeb5d1a79f5008ebcdbf0f65ae39bdaf8c039d7584ba9e"
+      },
+      "web3Signal": {
+        "url": "https://www.allora.network/",
+        "checkedAt": "2026-10-14T11:05:25.445Z",
+        "bodySha256": "f6730a4c3ae07e0078aeb5d1a79f5008ebcdbf0f65ae39bdaf8c039d7584ba9e",
+        "quote": "ive price feeds6AWhat will the price of Bitcoin be tomorrow?Predictive price feeds deliver AI forecasts of future asset prices, so DeFi applications can act on tomorro"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Altered State Machine",
+      "hiringUrl": "https://apply.workable.com/futureverse",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://alteredstatemachine.xyz",
+        "finalUrl": "https://alteredstatemachine.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:27.057Z",
+        "bodySha256": "46c265dc1af47834e2e8ec4a2955c6605391d942df02db614ddfc28548a10492"
+      },
+      "web3Signal": {
+        "url": "https://alteredstatemachine.xyz",
+        "checkedAt": "2026-10-14T11:05:27.057Z",
+        "bodySha256": "46c265dc1af47834e2e8ec4a2955c6605391d942df02db614ddfc28548a10492",
+        "quote": "ed by AI, owned by you and traded as an NFT. How does this work? TRAIN YOUR OWN AI AGENT Try Paddi, an arcade style demo driven byASM’s AI Protocol. Train an AI Ag"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Animoca Brands Japan",
+      "hiringUrl": "https://animocabrands.co.jp/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://animocabrands.co.jp",
+        "finalUrl": "https://animocabrands.co.jp",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:28.853Z",
+        "bodySha256": "3fcf43d8018f3337c03d1792b21c7e5088eafed4082f6e95da193b2c3fd372ee"
+      },
+      "web3Signal": {
+        "url": "https://animocabrands.co.jp",
+        "checkedAt": "2026-10-14T11:05:28.853Z",
+        "bodySha256": "3fcf43d8018f3337c03d1792b21c7e5088eafed4082f6e95da193b2c3fd372ee",
+        "quote": "Animoca Brands Japan | AIエージェント・Web3・アニメIP事業紹介最新情報会社概要採用情報お問い合わせJP·ENGlobal Site事業紹介最新情報会社概要採用情報お問い合わせJP·ENGlobal SiteJapan's gateway to thefuture economy.A"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Arch Lending",
+      "hiringUrl": "https://www.useparallel.com/arch/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://archlending.com",
+        "finalUrl": "https://archlending.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:27.714Z",
+        "bodySha256": "0acd36e1b1b30dbfbfededbf063239d5d11aa52a937424427aa113b0291f1f02"
+      },
+      "web3Signal": {
+        "url": "https://archlending.com",
+        "checkedAt": "2026-10-14T11:05:27.714Z",
+        "bodySha256": "0acd36e1b1b30dbfbfededbf063239d5d11aa52a937424427aa113b0291f1f02",
+        "quote": "Crypto-Backed Loans | Bitcoin, Ethereum, Solana & XRP Collateral | Arch Lending Borrow InstitutionsCompany Resources Sign InBook a callStart borrowing Arch* no"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Artemis",
+      "hiringUrl": "https://about.artemis.ai/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://about.artemis.ai/",
+        "finalUrl": "https://about.artemis.ai/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:27.846Z",
+        "bodySha256": "17d2f7def765403a805c5e91ba0bd9ef7b2a6b7c9bd7d9921808bf7c5c3ca15c"
+      },
+      "web3Signal": {
+        "url": "https://about.artemis.ai/",
+        "checkedAt": "2026-10-14T11:05:27.846Z",
+        "bodySha256": "17d2f7def765403a805c5e91ba0bd9ef7b2a6b7c9bd7d9921808bf7c5c3ca15c",
+        "quote": "ved as building a model from historical on-chain data can now be generated, evaluated, and refined much more quickly than it could have been in the past. David KroegerD"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Asula",
+      "hiringUrl": "https://jobs.ashbyhq.com/asula",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.asula.xyz/",
+        "finalUrl": "https://www.asula.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:28.849Z",
+        "bodySha256": "508ba7c6e70a70bf7612828db9bf0fce60771072371d0c3bb0055bdc7f970f92"
+      },
+      "web3Signal": {
+        "url": "https://www.asula.xyz/",
+        "checkedAt": "2026-10-14T11:05:28.849Z",
+        "bodySha256": "508ba7c6e70a70bf7612828db9bf0fce60771072371d0c3bb0055bdc7f970f92",
+        "quote": "Asula Careers Asula is a Bitcoin company. Satoshi created the first truly internet-native form of capital 17 years ago. Today, we think the entire finan"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "August (Prev. Fractal)",
+      "hiringUrl": "https://jobs.gem.com/augustdigital",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://augustdigital.io/careers",
+        "finalUrl": "https://augustdigital.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:28.951Z",
+        "bodySha256": "b40e3485358c4b283fbe420d2b46e000d9846327bd03626fcd41fa5af7a272a7"
+      },
+      "web3Signal": {
+        "url": "https://augustdigital.io/careers",
+        "checkedAt": "2026-10-14T11:05:28.951Z",
+        "bodySha256": "b40e3485358c4b283fbe420d2b46e000d9846327bd03626fcd41fa5af7a272a7",
+        "quote": "building a universal margin account for on-chain finance — with risk, performance, and operational clarity at the core.See Open RolesWhy we’re building thisWe believe b"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Auki Labs",
+      "hiringUrl": "https://www.auki.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.auki.com/",
+        "finalUrl": "https://www.auki.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:28.367Z",
+        "bodySha256": "0ca9917fc8b16754aa0278521d1d6b3ffa720078c1262e084bbc9523f4532068"
+      },
+      "web3Signal": {
+        "url": "https://www.auki.com/",
+        "checkedAt": "2026-10-14T11:05:28.367Z",
+        "bodySha256": "0ca9917fc8b16754aa0278521d1d6b3ffa720078c1262e084bbc9523f4532068",
+        "quote": "nterprise Solution award winnerThe Best Web3 Implementation award winner01 / Our missionRetail Logistics (closed beta)Hospitality (closed beta)Manufacturing (coming"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Aurory",
+      "hiringUrl": "https://aurory.io/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://aurory.io",
+        "finalUrl": "https://aurory.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:29.542Z",
+        "bodySha256": "296d6522edf5bb1818acbf4599cb68081b4862b73ac5bdb280149fd1bd1bc03a"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Auros",
+      "hiringUrl": "https://www.auros.global/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://auros.global/careers/",
+        "finalUrl": "https://www.auros.global/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:30.532Z",
+        "bodySha256": "91f7cd2101f60993afb163471b0de99b4725ef9f10fec3fe7b7bc982eeb40964"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Avail",
+      "hiringUrl": "https://avail.keka.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.availproject.org/",
+        "finalUrl": "https://www.availproject.org/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:29.558Z",
+        "bodySha256": "8760a7b3de48e6e2366e120b237cd6e97afe33f15235c9ee71002d0d0abc4b83"
+      },
+      "web3Signal": {
+        "url": "https://www.availproject.org/",
+        "checkedAt": "2026-10-14T11:05:29.558Z",
+        "bodySha256": "8760a7b3de48e6e2366e120b237cd6e97afe33f15235c9ee71002d0d0abc4b83",
+        "quote": "kets Trading Apps Multi-Chain Solutions Blockchain Developers Data Availability Ecosystem Docs Blog Menu Let's Talk Products For Builders Deposits Nexus DA Atomic For Use"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Axelar",
+      "hiringUrl": "https://www.axelar.network/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.axelar.network/",
+        "finalUrl": "https://www.axelar.network/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:29.364Z",
+        "bodySha256": "4b462dbe206488adb0e3478084ed7e2957cc1f076eb31857b6720eefad9c3671"
+      },
+      "web3Signal": {
+        "url": "https://www.axelar.network/",
+        "checkedAt": "2026-10-14T11:05:29.364Z",
+        "bodySha256": "4b462dbe206488adb0e3478084ed7e2957cc1f076eb31857b6720eefad9c3671",
+        "quote": "Axelar | The Gateway To Onchain Finance $circleDiameter: 30rem; // Replace X with the desired diameter in rem $circleRadius: $circleDiameter / 2; $tota"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Backpack",
+      "hiringUrl": "https://jobs.backpack.app",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://backpack.exchange",
+        "finalUrl": "https://backpack.exchange",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:30.689Z",
+        "bodySha256": "f275669116999c8cc089d1ad3053ecaa52a521cf2149f174bae103dd4560c527"
+      },
+      "web3Signal": {
+        "url": "https://backpack.exchange",
+        "checkedAt": "2026-10-14T11:05:30.689Z",
+        "bodySha256": "f275669116999c8cc089d1ad3053ecaa52a521cf2149f174bae103dd4560c527",
+        "quote": "owUS DollarUSD1,000$1,000.000$0.001,000⚡SolanaSOL10$850.000$0.0010⚡BitcoinBTC2$138,000.000$0.002Hypothetical example. Actual yield and results may vary.One account. N"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Bagel Labs",
+      "hiringUrl": "https://www.bagel.com/careers/member-of-technical-staff-distributed-training-systems",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.bagel.com/",
+        "finalUrl": "https://www.bagel.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:30.550Z",
+        "bodySha256": "a76b547c3284a3ad7882bcbde28271730ab9e387069f54940fc30efc2154ec3f"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Baton Corporation",
+      "hiringUrl": "https://jobs.ashbyhq.com/batoncorporation",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.batoncorporation.com/",
+        "finalUrl": "https://www.batoncorporation.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:30.680Z",
+        "bodySha256": "addc08506b64f64832e9cb26aa70d254579789c9e610d9c6787acfdaeb8f1182"
+      },
+      "web3Signal": {
+        "url": "https://www.batoncorporation.com/",
+        "checkedAt": "2026-10-14T11:05:30.680Z",
+        "bodySha256": "addc08506b64f64832e9cb26aa70d254579789c9e610d9c6787acfdaeb8f1182",
+        "quote": "mendation systems, distributed systems, solana programs, and more.Our approach to shipping product is data driven. We use systematic tools and follow the scientific m"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Baxus",
+      "hiringUrl": "https://baxus.co/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://baxus.co",
+        "finalUrl": "https://baxus.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:31.941Z",
+        "bodySha256": "3d2153b5afcdd877a07cc5601500ffe22bb4ea72a58a843f583247648c82206e"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Bitcoin Depot",
+      "hiringUrl": "https://job-boards.greenhouse.io/bitcoindepot",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://boards.greenhouse.io/bitcoindepot",
+        "finalUrl": "https://job-boards.greenhouse.io/bitcoindepot",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:32.486Z",
+        "bodySha256": "b6c8cfbab2cb5c1b0be3f931034fa5980b7d6a6d7915534af40e1b574bc7597f"
+      },
+      "web3Signal": {
+        "url": "https://boards.greenhouse.io/bitcoindepot",
+        "checkedAt": "2026-10-14T11:05:32.486Z",
+        "bodySha256": "b6c8cfbab2cb5c1b0be3f931034fa5980b7d6a6d7915534af40e1b574bc7597f",
+        "quote": "Jobs at Bitcoin DepotCurrent openings at Bitcoin DepotBitcoin Depot was founded in 2016 with the mission to connect those who prefer to"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Bitonic",
+      "hiringUrl": "https://bitonic.nl/nl/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://bitonic.nl",
+        "finalUrl": "https://bitonic.nl",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:36.619Z",
+        "bodySha256": "4d3518b641cce512ddfecffbc73b9383120778bd7929f4667f75af50bfb1609a"
+      },
+      "web3Signal": {
+        "url": "https://bitonic.nl",
+        "checkedAt": "2026-10-14T11:05:36.619Z",
+        "bodySha256": "4d3518b641cce512ddfecffbc73b9383120778bd7929f4667f75af50bfb1609a",
+        "quote": "Bitcoin kopen (BTC), verkopen en bewaren - Bitonic × Bitonic App Download via Google Play Download via de App Store Bekijk × Ni"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "BitPay",
+      "hiringUrl": "https://www.bitpay.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.bitpay.com/",
+        "finalUrl": "https://www.bitpay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:35.112Z",
+        "bodySha256": "5c14704dddaf939beb9e70a7c1610ac7da3cd6371d74b0307b22bfba5af58a8c"
+      },
+      "web3Signal": {
+        "url": "https://www.bitpay.com/",
+        "checkedAt": "2026-10-14T11:05:35.112Z",
+        "bodySha256": "5c14704dddaf939beb9e70a7c1610ac7da3cd6371d74b0307b22bfba5af58a8c",
+        "quote": "cheaper, multichain crypto utility with Solana.BitPay turns 15:Celebrate with deals in the appFaster, cheaper, multichain crypto utility with Solana.Crypto Payments, "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Bitwave",
+      "hiringUrl": "https://bitwave.breezy.hr",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.bitwave.io/careers",
+        "finalUrl": "https://www.bitwave.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:36.330Z",
+        "bodySha256": "0deda0c4d253743ae499a4168f274f8a74cf06306eb35083121d8e9fd8a905dd"
+      },
+      "web3Signal": {
+        "url": "https://www.bitwave.io/careers",
+        "checkedAt": "2026-10-14T11:05:36.330Z",
+        "bodySha256": "0deda0c4d253743ae499a4168f274f8a74cf06306eb35083121d8e9fd8a905dd",
+        "quote": "rs and Job Openings | Bitwave Solutions Stablecoin PaymentsUnlock B2B stablecoin invoices, approvals, and on-chain payments workflows Accounts Payable (AP)Pay vendors in "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Bleap",
+      "hiringUrl": "https://www.bleap.finance/about/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.bleap.finance/",
+        "finalUrl": "https://www.bleap.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:05:36.805Z",
+        "bodySha256": "4fe4f1840e8d373aea9a22a84351406856c9242a8d762a6c2d8772796167bb6e"
+      },
+      "web3Signal": {
+        "url": "https://www.bleap.finance/",
+        "checkedAt": "2026-10-14T11:05:36.805Z",
+        "bodySha256": "4fe4f1840e8d373aea9a22a84351406856c9242a8d762a6c2d8772796167bb6e",
+        "quote": " up the card with crypto (this is truly web3) no, the reward system is free to engage with, and it is not over the top, where could expect it to fail.LVLars VeraldC"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Block Earner",
+      "hiringUrl": "https://blockearner.com.au/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://blockearner.com.au",
+        "finalUrl": "https://blockearner.com.au",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:14.628Z",
+        "bodySha256": "48671bb9962bf7f173abc2fdbf9939b71ba8129e83d2ae785052dd8a02fe6b22"
+      },
+      "web3Signal": {
+        "url": "https://blockearner.com.au",
+        "checkedAt": "2026-10-14T11:06:14.628Z",
+        "bodySha256": "48671bb9962bf7f173abc2fdbf9939b71ba8129e83d2ae785052dd8a02fe6b22",
+        "quote": " Home of Australia's Crypto-Backed LoansBitcoin Home LoansIn partnership with Century 21 Home LoansApply now →Home loansBitcoin Home LoansBitcoin Home LoansLoansCrypto"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Caldera",
+      "hiringUrl": "https://app.dover.com/jobs/calderaxyz",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://caldera.xyz",
+        "finalUrl": "https://caldera.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:14.394Z",
+        "bodySha256": "cbc49d61f49bafd6dbb0515998e89cf709ac1fe051dda96fc63259e434ab7171"
+      },
+      "web3Signal": {
+        "url": "https://caldera.xyz",
+        "checkedAt": "2026-10-14T11:06:14.394Z",
+        "bodySha256": "cbc49d61f49bafd6dbb0515998e89cf709ac1fe051dda96fc63259e434ab7171",
+        "quote": "etwork of interconnected, purpose-built blockchains, settling on Ethereum.Caldera is a network of interconnected, purpose-built blockchains, settling on Ethereum.Explore "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Caliza",
+      "hiringUrl": "https://jobs.lever.co/caliza-financial-technologies",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.caliza.com/",
+        "finalUrl": "https://www.caliza.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:16.055Z",
+        "bodySha256": "64e14186b5a2a6f095880e0156b4a3bd683831529dc04f8fe15c4226325a008a"
+      },
+      "web3Signal": {
+        "url": "https://www.caliza.com/",
+        "checkedAt": "2026-10-14T11:06:16.055Z",
+        "bodySha256": "64e14186b5a2a6f095880e0156b4a3bd683831529dc04f8fe15c4226325a008a",
+        "quote": "kforce to get paid in local currency or stablecoins.Integrate our enterprise-grade stablecoin infrastructureModular access to fiat-stablecoin ramps, payments, and custody "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Casa",
+      "hiringUrl": "https://job-boards.greenhouse.io/casa",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://casa.io/careers",
+        "finalUrl": "https://casa.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:16.878Z",
+        "bodySha256": "508184a5ad854f8ebabca5c3817c4f957215cd248bbbff68fb939448bcbea878"
+      },
+      "web3Signal": {
+        "url": "https://casa.io/careers",
+        "checkedAt": "2026-10-14T11:06:16.878Z",
+        "bodySha256": "508184a5ad854f8ebabca5c3817c4f957215cd248bbbff68fb939448bcbea878",
+        "quote": "Remote Bitcoin Security Careers | Casa Vault Inheritance Private Client Organizations Pricing Support (opens in new tab) Login Become "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Celebratix",
+      "hiringUrl": "https://www.celebratix.io/nl/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.celebratix.io/nl",
+        "finalUrl": "https://www.celebratix.io/nl",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:17.582Z",
+        "bodySha256": "798f092efe5613a67024b8e7019132ca5dc3c351142e51d930519c970061954f"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Celestia Labs",
+      "hiringUrl": "https://jobs.lever.co/celestia",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://celestia.org",
+        "finalUrl": "https://celestia.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:18.201Z",
+        "bodySha256": "7972fa26bb651ecf7de18c9c3fb4137a76854a8290e910c449c74d378e83ded1"
+      },
+      "web3Signal": {
+        "url": "https://celestia.org",
+        "checkedAt": "2026-10-14T11:06:18.201Z",
+        "bodySha256": "7972fa26bb651ecf7de18c9c3fb4137a76854a8290e910c449c74d378e83ded1",
+        "quote": " TouchFibre↗Private BlockspaceDedicated Blockchain DevelopmentApplicationsGet StartedAgent Skill↗Docs↗Blog↗About UsOpen Roles↗Escape Velocity forthe Onchain EconomyCelest"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "ChainSecurity",
+      "hiringUrl": "https://www.chainsecurity.com/about/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.chainsecurity.com/",
+        "finalUrl": "https://www.chainsecurity.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:20.365Z",
+        "bodySha256": "59d844a11a366698f41324ca7e4760ae5f885330aa13f2433df483fd5ce7a552"
+      },
+      "web3Signal": {
+        "url": "https://www.chainsecurity.com/",
+        "checkedAt": "2026-10-14T11:06:20.365Z",
+        "bodySha256": "59d844a11a366698f41324ca7e4760ae5f885330aa13f2433df483fd5ce7a552",
+        "quote": "e Aave V4 Smart Contracts 2026-02-19 CI stablecoinsbridges Circle Gateway Smart Contracts 2025-07-08 PE options-derivatives Pendle Boros Markets 2025-08-08 SK governancele"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "cheqd",
+      "hiringUrl": "https://careers.cheqd.io/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://cheqd.io",
+        "finalUrl": "https://cheqd.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:19.241Z",
+        "bodySha256": "09011c360d085ab355afdad7a9954baa22d998e89c6beca73f69816d5df62dad"
+      },
+      "web3Signal": {
+        "url": "https://cheqd.io",
+        "checkedAt": "2026-10-14T11:06:19.241Z",
+        "bodySha256": "09011c360d085ab355afdad7a9954baa22d998e89c6beca73f69816d5df62dad",
+        "quote": "r Self-Sovereign Identity SSI Explained Web3 & SSI SSI Market Report Trusted Data Web5 Get in touch Sign in Solutions Overview Use Cases cheqd Studio Private Networ"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CleanSpark",
+      "hiringUrl": "https://www.cleanspark.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.cleanspark.com/",
+        "finalUrl": "https://www.cleanspark.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:26.792Z",
+        "bodySha256": "f0b6d4b0d88646597b874006766d8884dd1f45e84e1e1b008b2d169965d5f2ca"
+      },
+      "web3Signal": {
+        "url": "https://www.cleanspark.com/",
+        "checkedAt": "2026-10-14T11:06:26.792Z",
+        "bodySha256": "f0b6d4b0d88646597b874006766d8884dd1f45e84e1e1b008b2d169965d5f2ca",
+        "quote": "r Portfolio By The Numbers Data Centers Bitcoin Newsroom Careers Investor Portal Contact Investor Portal Contact Skip to content Optimizing Power, Intelligently Energy"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Coincheck",
+      "hiringUrl": "https://corporate.coincheck.com/recruit",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coincheck.com",
+        "finalUrl": "https://coincheck.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:22.232Z",
+        "bodySha256": "9a7649b949bde2344851670e770bde4fca32eb723ebfc14822a953038b00fbff"
+      },
+      "web3Signal": {
+        "url": "https://coincheck.com",
+        "checkedAt": "2026-10-14T11:06:22.232Z",
+        "bodySha256": "9a7649b949bde2344851670e770bde4fca32eb723ebfc14822a953038b00fbff",
+        "quote": "The easiest way to buy and sell Bitcoin and cryptocurrency. | Coincheck Exchange Sign in Register Own your firstcryptocurrency onCoincheck! Number 1 in mobile "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CoinFlip",
+      "hiringUrl": "https://recruiting.paylocity.com/recruiting/jobs/All/180caf02-549a-463c-91b3-55c3b316483e/CoinFlip",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coinflip.tech",
+        "finalUrl": "https://coinflip.tech",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:25.677Z",
+        "bodySha256": "90b6ddefeef310879d7d6c1d50262a60ca6e90e3391e7c351a63dc4a1a950610"
+      },
+      "web3Signal": {
+        "url": "https://coinflip.tech",
+        "checkedAt": "2026-10-14T11:06:25.677Z",
+        "bodySha256": "90b6ddefeef310879d7d6c1d50262a60ca6e90e3391e7c351a63dc4a1a950610",
+        "quote": "to help them take the first step.Find a Bitcoin ATM Near YouCoinFlip ATMBuy and sell crypto with cash at over 5,500 ATMsFIND A BITCOIN ATMCoinFlip PreferredBuy, sell o"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CoinGate",
+      "hiringUrl": "https://coingate.com/career",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coingate.com",
+        "finalUrl": "https://coingate.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:22.772Z",
+        "bodySha256": "80288a36d03935723f9ddc90646c7834bbb5cc261466ba7fe0071850b56e2182"
+      },
+      "web3Signal": {
+        "url": "https://coingate.com",
+        "checkedAt": "2026-10-14T11:06:22.772Z",
+        "bodySha256": "80288a36d03935723f9ddc90646c7834bbb5cc261466ba7fe0071850b56e2182",
+        "quote": "_wallet Multi-currency account All your crypto assets in one place u_turn_left Merchant refunds Make refunds hassle-free Shield_Lock Digital asset custody Hold crypto and fi"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Coinkite",
+      "hiringUrl": "https://coinkite.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coinkite.com",
+        "finalUrl": "https://coinkite.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:24.715Z",
+        "bodySha256": "656b88926ac0cb13788518f33e2871bcc422098c1e56fe40251815f9828a3369"
+      },
+      "web3Signal": {
+        "url": "https://coinkite.com",
+        "checkedAt": "2026-10-14T11:06:24.715Z",
+        "bodySha256": "656b88926ac0cb13788518f33e2871bcc422098c1e56fe40251815f9828a3369",
+        "quote": "Coinkite: Bitcoin Security and Fun Devices COLDCARD Security Status Current firmware, migration guidance, verification resources, and inc"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CoinLedger",
+      "hiringUrl": "https://coinledger.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coinledger.io",
+        "finalUrl": "https://coinledger.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:23.902Z",
+        "bodySha256": "4a32eb04be753b633669c57e8de2f505a38bcf449bf2ae5e2806f7b6b3e80d30"
+      },
+      "web3Signal": {
+        "url": "https://coinledger.io",
+        "checkedAt": "2026-10-14T11:06:23.902Z",
+        "bodySha256": "4a32eb04be753b633669c57e8de2f505a38bcf449bf2ae5e2806f7b6b3e80d30",
+        "quote": ".Product How CoinLedger WorksTax ReportsNFT Tax SoftwareDeFi Tax SoftwareFor Tax ProfessionalsPortfolio TrackernewIntegrationsLearn Crypto Taxes 101USAAustraliaCan"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CoinStats",
+      "hiringUrl": "https://coinstatshq.notion.site/Careers-at-CoinStats-75fc70bcde194609a3fce5a2a707462f",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coinstats.app",
+        "finalUrl": "https://coinstats.app",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:25.269Z",
+        "bodySha256": "a37d9120fbbd2c432a38e64cc00ddf18d36bc1793a5781a814117d6637c95513"
+      },
+      "web3Signal": {
+        "url": "https://coinstats.app",
+        "checkedAt": "2026-10-14T11:06:25.269Z",
+        "bodySha256": "a37d9120fbbd2c432a38e64cc00ddf18d36bc1793a5781a814117d6637c95513",
+        "quote": "APIMCPIntegrationsNewsRWA MarketEarnBlogNFTWidgetsDeFi Portfolio TrackerDerivativesETF FlowsCrypto GamingPrediction Markets24h ReportPress KitAPI DocsPortfolio Tra"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CoinSwitch",
+      "hiringUrl": "https://recruiterflow.com/coinswitch/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://coinswitch.co",
+        "finalUrl": "https://coinswitch.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:26.952Z",
+        "bodySha256": "67ebfe9fc3047f9a550b3c6494552b83716a8fb18e1ec5b7f973e45f74a8cf15"
+      },
+      "web3Signal": {
+        "url": "https://coinswitch.co",
+        "checkedAt": "2026-10-14T11:06:26.952Z",
+        "bodySha256": "67ebfe9fc3047f9a550b3c6494552b83716a8fb18e1ec5b7f973e45f74a8cf15",
+        "quote": "tionsUS Stock FuturesCommodities FuturesWeb3MoreToolsCrypto HeatmapVisualize Price Moves & Market Trends in One ViewCrypto BubbleVisualise Crypto Market Volatility "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Core Scientific",
+      "hiringUrl": "https://corescientific.com/careers/",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://corescientific.com",
+        "finalUrl": "https://corescientific.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:29.375Z",
+        "bodySha256": "9c4935137436bcfe435eaecc4675384250dc0a00baf536963a600da39f0ae9f7"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Crusoe",
+      "hiringUrl": "https://jobs.ashbyhq.com/Crusoe",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.crusoe.ai/about/careers",
+        "finalUrl": "https://www.crusoe.ai/about/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:30.267Z",
+        "bodySha256": "411e1154079b5f0d6922eb474502385efb4a7ff4debeb79b89f62b9996049fa5"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CryptoRefills",
+      "hiringUrl": "https://www.cryptorefills.com:443/en/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.cryptorefills.com:443/en",
+        "finalUrl": "https://www.cryptorefills.com:443/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:33.530Z",
+        "bodySha256": "bf527e3ed07382270e6b89a937e45710fc45caccf98548da38edac2cdcf0bbc1"
+      },
+      "web3Signal": {
+        "url": "https://www.cryptorefills.com:443/en",
+        "checkedAt": "2026-10-14T11:06:33.530Z",
+        "bodySha256": "bf527e3ed07382270e6b89a937e45710fc45caccf98548da38edac2cdcf0bbc1",
+        "quote": "Buy Gift Cards & Mobile Top Ups with Bitcoin and Crypto — No KYC | Cryptorefills IndiaEnglishHelpCryptorefillsEst. 2018 Loading...FlightsStaysGift cardseSIMMobile t"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "CryptoSlate",
+      "hiringUrl": "https://cryptoslate.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://cryptoslate.com",
+        "finalUrl": "https://cryptoslate.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:32.880Z",
+        "bodySha256": "c74c2349a040bf991b63713cc27c8a4290030b5798192a1ee88af2f3b6bc9ae9"
+      },
+      "web3Signal": {
+        "url": "https://cryptoslate.com",
+        "checkedAt": "2026-10-14T11:06:32.880Z",
+        "bodySha256": "c74c2349a040bf991b63713cc27c8a4290030b5798192a1ee88af2f3b6bc9ae9",
+        "quote": "s Predictions Learn Reviews All Reviews Bitcoin IRAs Crypto Casinos Crypto Exchanges Decentralized Exchanges Prop Trading Crypto Cards Crypto Wallets Crypto Launchpads"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Ctrl Alt",
+      "hiringUrl": "https://ctrl-alt.co/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://ctrl-alt.co",
+        "finalUrl": "https://ctrl-alt.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:33.277Z",
+        "bodySha256": "f9c32d06f07113104acc3ab6fd4d0a3a7c2de753ae80f85ad2abdc0866f82a0b"
+      },
+      "web3Signal": {
+        "url": "https://ctrl-alt.co",
+        "checkedAt": "2026-10-14T11:06:33.277Z",
+        "bodySha256": "f9c32d06f07113104acc3ab6fd4d0a3a7c2de753ae80f85ad2abdc0866f82a0b",
+        "quote": "Institutional-Grade Tokenization Infrastructure | Ctrl Alt For Investors Investment OpportunitiesFor Asset Managers InvestDistributeAsset OwnersFor Inst"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Cubist",
+      "hiringUrl": "https://cubist.dev/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://cubist.dev",
+        "finalUrl": "https://cubist.dev",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:33.459Z",
+        "bodySha256": "1409f3afc6ac6dc661e4c292af9441796c859e5db3c41417f2ed31e62b03e257"
+      },
+      "web3Signal": {
+        "url": "https://cubist.dev",
+        "checkedAt": "2026-10-14T11:06:33.459Z",
+        "bodySha256": "1409f3afc6ac6dc661e4c292af9441796c859e5db3c41417f2ed31e62b03e257",
+        "quote": "d Key Management & Embedded Wallets for Web3 Product ProductsCubeSigner Self-Custody Key Management for Teams & ProtocolsCubeSigner End-User Custody Wallet-as-a-Ser"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Delta Exchange",
+      "hiringUrl": "https://careers.delta.exchange",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.delta.exchange/",
+        "finalUrl": "https://www.delta.exchange/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:33.758Z",
+        "bodySha256": "1a8f41c46bd993c3e25213736e2ca2828e30332357d32d70847c18cf64f1865e"
+      },
+      "web3Signal": {
+        "url": "https://www.delta.exchange/",
+        "checkedAt": "2026-10-14T11:06:33.758Z",
+        "bodySha256": "1a8f41c46bd993c3e25213736e2ca2828e30332357d32d70847c18cf64f1865e",
+        "quote": "Made for INDIATrade Futures & Optionson Bitcoin and EtherElevate your crypto F&O trading with 24/7 open markets, efficient margining and INR settlementSign UpTrade On "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Drift Protocol",
+      "hiringUrl": "https://driftprotocol.notion.site/Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.drift.trade/",
+        "finalUrl": "https://www.drift.trade/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:34.682Z",
+        "bodySha256": "578288964a0cdfee522b31cfa72cc3d44c5f149a8d2a54408cbba3bea706da9a"
+      },
+      "web3Signal": {
+        "url": "https://www.drift.trade/",
+        "checkedAt": "2026-10-14T11:06:34.682Z",
+        "bodySha256": "578288964a0cdfee522b31cfa72cc3d44c5f149a8d2a54408cbba3bea706da9a",
+        "quote": "on, and institutional-grade security on Solana's premier trading hub.Start TradingStart EarningMonitor your positions on the go!Scan the QR code or search for the Dri"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "dtcpay",
+      "hiringUrl": "https://dtcpay.com/company/career",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://dtcpay.com",
+        "finalUrl": "https://dtcpay.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:37.418Z",
+        "bodySha256": "2ab22ec1693e5cd6e84df4c083ec9c2a588323db6e9710d4549b644e19fc3371"
+      },
+      "web3Signal": {
+        "url": "https://dtcpay.com",
+        "checkedAt": "2026-10-14T11:06:37.418Z",
+        "bodySha256": "2ab22ec1693e5cd6e84df4c083ec9c2a588323db6e9710d4549b644e19fc3371",
+        "quote": "ng to global transfers, manage fiat and stablecoins in one simple appGet startedOne app, multi-currencyEmpowering global paymentsManage and spend your funds across support"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Dynasty Studios",
+      "hiringUrl": "https://dynastystudios.io/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://dynastystudios.io",
+        "finalUrl": "https://dynastystudios.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:35.734Z",
+        "bodySha256": "04a26c5bf98f210f5f15c1a1ff4dc9015878818f06b14f30fa34a936bd567ccf"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Edge & Node",
+      "hiringUrl": "https://www.edgeandnode.com/company/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.edgeandnode.com/",
+        "finalUrl": "https://www.edgeandnode.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:37.593Z",
+        "bodySha256": "18c6de425ec6713ad2ffabf622c35c7a89ece342778e2ab8afea89aa4975c175"
+      },
+      "web3Signal": {
+        "url": "https://www.edgeandnode.com/",
+        "checkedAt": "2026-10-14T11:06:37.593Z",
+        "bodySha256": "18c6de425ec6713ad2ffabf622c35c7a89ece342778e2ab8afea89aa4975c175",
+        "quote": "Edge & Node: Infrastructure for blockchain dataSkip to contentNew · Amp now supports SolanaRead more ProductsResourcesCompanyRequest a demoOpen menuWe build infra"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "EMURGO",
+      "hiringUrl": "https://www.emurgo.io/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.emurgo.io/",
+        "finalUrl": "https://www.emurgo.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:37.561Z",
+        "bodySha256": "a69ba85fb823d8344e2eaa50c68aae9450bbdbda622fe0146a06a503ba8f861b"
+      },
+      "web3Signal": {
+        "url": "https://www.emurgo.io/",
+        "checkedAt": "2026-10-14T11:06:37.561Z",
+        "bodySha256": "a69ba85fb823d8344e2eaa50c68aae9450bbdbda622fe0146a06a503ba8f861b",
+        "quote": "GO | Supporting Adoption Of Cardano And Blockchain TechEMURGO is a co-founding entity of the Cardano blockchain that drives the commercial adoption of blockchain technolo"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Entendre Finance",
+      "hiringUrl": "https://jobs.ashbyhq.com/entendre",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://entendre.ai/",
+        "finalUrl": "https://entendre.ai/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:38.499Z",
+        "bodySha256": "03c7a841024e40bf80076f65b66676616fd3e8ee310ae4573a428bd231821f1b"
+      },
+      "web3Signal": {
+        "url": "https://entendre.ai/",
+        "checkedAt": "2026-10-14T11:06:38.499Z",
+        "bodySha256": "03c7a841024e40bf80076f65b66676616fd3e8ee310ae4573a428bd231821f1b",
+        "quote": " of time, integrates cleanly across our stablecoins and traditional systems, and is the most advanced solution we've seen in the AI space.”Joe HamadeCFO, Polygon LabsVault"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Equitize",
+      "hiringUrl": "https://www.synthesys.co/about#careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.synthesys.co/",
+        "finalUrl": "https://www.synthesys.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:37.524Z",
+        "bodySha256": "333e97c839f3d898211b54fe55bd124668478f4ae6fe7110833aa059e1653e91"
+      },
+      "web3Signal": {
+        "url": "https://www.synthesys.co/",
+        "checkedAt": "2026-10-14T11:06:37.524Z",
+        "bodySha256": "333e97c839f3d898211b54fe55bd124668478f4ae6fe7110833aa059e1653e91",
+        "quote": "distributionHomeProductsMINTNative Fund TokenizationNETWORKTokenized Fund DistributionZODIACDeFi ComposabilityResourcesDocumentationIndustry ReportsNative TokenizationCase "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Etherealize",
+      "hiringUrl": "https://www.etherealize.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.etherealize.com/",
+        "finalUrl": "https://www.etherealize.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:38.091Z",
+        "bodySha256": "9491ba150d4e070821d7fb987d7371b262c1a8ee16f58ee1ee161293f7658aca"
+      },
+      "web3Signal": {
+        "url": "https://www.etherealize.com/",
+        "checkedAt": "2026-10-14T11:06:38.091Z",
+        "bodySha256": "9491ba150d4e070821d7fb987d7371b262c1a8ee16f58ee1ee161293f7658aca",
+        "quote": "Etherealize | The Engine for Onchain Credit Markets InsightsNewsroomAboutRequest a Demo→ The Engine for Onchain Credit MarketsAccelerating the Capital Marke"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Etherscan",
+      "hiringUrl": "https://etherscan.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://etherscan.io",
+        "finalUrl": "https://etherscan.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:38.859Z",
+        "bodySha256": "d6ec4234059dda1f733bfe10957fda32965011e589bbcf9231ad102c34230606"
+      },
+      "web3Signal": {
+        "url": "https://etherscan.io",
+        "checkedAt": "2026-10-14T11:06:38.859Z",
+        "bodySha256": "d6ec4234059dda1f733bfe10957fda32965011e589bbcf9231ad102c34230606",
+        "quote": "Ethereum (ETH) Blockchain Explorer ETH Price: $2,500.71 (+0.33%) Gas: 0.074 Gwei Light Dim Dark Auto (System) Site Settings Ethereum Mainnet Sepo"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fermah",
+      "hiringUrl": "https://fermah.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://fermah.xyz",
+        "finalUrl": "https://fermah.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:39.082Z",
+        "bodySha256": "f9a9ffdd873661547fe46d3817bc17a928cff659e97d230a1f99cf684ad7cf1f"
+      },
+      "web3Signal": {
+        "url": "https://fermah.xyz",
+        "checkedAt": "2026-10-14T11:06:39.082Z",
+        "bodySha256": "f9a9ffdd873661547fe46d3817bc17a928cff659e97d230a1f99cf684ad7cf1f",
+        "quote": " for that upgrade Single shot Condition on-chain→ Value one output ✕ Next action? no continuation Agentic Condition on-chain Kernel orchestrates workflow Step N settles"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fetch.ai",
+      "hiringUrl": "https://www.fetch.ai/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.fetch.ai/",
+        "finalUrl": "https://www.fetch.ai/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:39.831Z",
+        "bodySha256": "44a59d778831221da487e0d4596d12b626c79cd0c836987e95b524422023f274"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fhenix",
+      "hiringUrl": "https://www.fhenix.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.fhenix.io/",
+        "finalUrl": "https://www.fhenix.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:39.612Z",
+        "bodySha256": "268aba16a8a4f83511f6e2cde602995282e6302aa1f8b69531dc1029f7299731"
+      },
+      "web3Signal": {
+        "url": "https://www.fhenix.io/",
+        "checkedAt": "2026-10-14T11:06:39.612Z",
+        "bodySha256": "268aba16a8a4f83511f6e2cde602995282e6302aa1f8b69531dc1029f7299731",
+        "quote": "Fhenix | Ethereum's privacy with Fully Homomorphic Encryption (FHE) Why dual-mode tokens are inevitable Seven days to mainnet. Encrypted "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fin",
+      "hiringUrl": "https://jobs.ashbyhq.com/fin",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.fin.tech/",
+        "finalUrl": "https://www.fin.tech/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:41.109Z",
+        "bodySha256": "9e09b60a1013b4ea937d92ba217e38005fd538570bac858b25655bc53a0f049d"
+      },
+      "web3Signal": {
+        "url": "https://www.fin.tech/",
+        "checkedAt": "2026-10-14T11:06:41.109Z",
+        "bodySha256": "9e09b60a1013b4ea937d92ba217e38005fd538570bac858b25655bc53a0f049d",
+        "quote": " the complexity of different tokens and blockchains.Deposit & WithdrawDirectlyNo middleman or crypto exchanges. Transfer to and from your bank inside Fin™.Transact with C"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Flashbots",
+      "hiringUrl": "https://www.flashbots.net/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.flashbots.net/",
+        "finalUrl": "https://www.flashbots.net/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:40.727Z",
+        "bodySha256": "4224959bf219840ca9ecbb62443826730efbbf181b709fa8b547165d5c08c37b"
+      },
+      "web3Signal": {
+        "url": "https://www.flashbots.net/",
+        "checkedAt": "2026-10-14T11:06:40.727Z",
+        "bodySha256": "4224959bf219840ca9ecbb62443826730efbbf181b709fa8b547165d5c08c37b",
+        "quote": "mal Extractable Value (MEV) to stateful blockchains, starting with Ethereum. I. Our WorkOur primary focus is to enable a permissionless, transparent, and sustainable ecos"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Flint Labs",
+      "hiringUrl": "https://flint.trade/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://flint.trade",
+        "finalUrl": "https://flint.trade",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:42.256Z",
+        "bodySha256": "f7de4752bfe26decee03e3e92f5719948be8fc2e8a5ee75025abc0fa5745fb31"
+      },
+      "web3Signal": {
+        "url": "https://flint.trade",
+        "checkedAt": "2026-10-14T11:06:42.256Z",
+        "bodySha256": "f7de4752bfe26decee03e3e92f5719948be8fc2e8a5ee75025abc0fa5745fb31",
+        "quote": "Flint: Solana spot and perps, fully on-chainHome/Blog/Spot/Perps/Docs/DashboardDark mode/Get in contactSpot · PerpsSolana spot and perps, fully on-chain.Verifiable "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "FLock.io",
+      "hiringUrl": "https://www.flock.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.flock.io/",
+        "finalUrl": "https://www.flock.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:40.910Z",
+        "bodySha256": "c542924dc44522aaaada1519d5718e37137ac257f5bf1b5903d743511021bee0"
+      },
+      "web3Signal": {
+        "url": "https://www.flock.io/",
+        "checkedAt": "2026-10-14T11:06:40.910Z",
+        "bodySha256": "c542924dc44522aaaada1519d5718e37137ac257f5bf1b5903d743511021bee0",
+        "quote": "m that combines federated learning with blockchain verification so enterprises and communities can train privacy-preserving models without moving raw data. As of Septembe"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fluence",
+      "hiringUrl": "https://cloudless.dev/join.html",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://fluence.ai/",
+        "finalUrl": "https://fluence.ai/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:43.187Z",
+        "bodySha256": "0aa171b7f8e0af6a8acaa34ba1bcf84081072b4c5170bcc33e2280eefb9522bb"
+      },
+      "web3Signal": {
+        "url": "https://fluence.ai/",
+        "checkedAt": "2026-10-14T11:06:43.187Z",
+        "bodySha256": "0aa171b7f8e0af6a8acaa34ba1bcf84081072b4c5170bcc33e2280eefb9522bb",
+        "quote": "mited bandwidth and transparent pricing.Web3/NodesRun blockchain nodes and validators reliably with enterprise grade performance.RenderingSpin up a render farm in m"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Fold",
+      "hiringUrl": "https://ats.rippling.com/fold-inc/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://foldapp.com",
+        "finalUrl": "https://foldapp.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:43.958Z",
+        "bodySha256": "c093a1323b28991bf420b0d8a1eaa8f3f2d172d9aab86915820ae71d5b5fb09c"
+      },
+      "web3Signal": {
+        "url": "https://foldapp.com",
+        "checkedAt": "2026-10-14T11:06:43.958Z",
+        "bodySha256": "c093a1323b28991bf420b0d8a1eaa8f3f2d172d9aab86915820ae71d5b5fb09c",
+        "quote": "Fold: Bank, spend, and earn bitcoin. All in one app.Fold Reserve3% commitment bonusA bonus on what you move in. It vests over 3 years, because so do you. T"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Gameplay Galaxy",
+      "hiringUrl": "https://gameplaygalaxy.pinpointhq.com",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.gameplaygalaxy.com/#careermobile",
+        "finalUrl": "https://www.gameplaygalaxy.com/#careermobile",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:47.095Z",
+        "bodySha256": "185198d5be7eba52e40633d629245781bbff233b1725245b687f8222fa7b97c5"
+      },
+      "web3Signal": {
+        "url": "https://www.gameplaygalaxy.com/#careermobile",
+        "checkedAt": "2026-10-14T11:06:47.095Z",
+        "bodySha256": "185198d5be7eba52e40633d629245781bbff233b1725245b687f8222fa7b97c5",
+        "quote": "deep experience in mass-market hits and Web3 innovation, we are creating a home for games that demand skill, ownership, and glory. A Universe of Proven Hits Expandi"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Gelato",
+      "hiringUrl": "https://apply.workable.com/gelato-cloud",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://gelato.cloud/",
+        "finalUrl": "https://gelato.cloud/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:44.018Z",
+        "bodySha256": "744852ce72209d8999c31e7494f6bbc024b56648637a4bea9703e5bac35eac9e"
+      },
+      "web3Signal": {
+        "url": "https://gelato.cloud/",
+        "checkedAt": "2026-10-14T11:06:44.018Z",
+        "bodySha256": "744852ce72209d8999c31e7494f6bbc024b56648637a4bea9703e5bac35eac9e",
+        "quote": ".Every Tool You Need.Manage your entire onchain experience from one platform. One integration, one bill, one dashboard, one API.RollupsBuild custom chains with next-ge"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Genies",
+      "hiringUrl": "https://jobs.ashbyhq.com/genies",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://genies.com",
+        "finalUrl": "https://genies.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:43.754Z",
+        "bodySha256": "5bba8c46dc7a2af386407e73fb967a2ddc28146087d6088ac39b581e7d3834b1"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "GLAM",
+      "hiringUrl": "https://glam.systems/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://glam.systems",
+        "finalUrl": "https://glam.systems",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:43.922Z",
+        "bodySha256": "927c041e919686643d4f49c51a31a026fe727acd7e459396dabb673d2d8b5e8e"
+      },
+      "web3Signal": {
+        "url": "https://glam.systems",
+        "checkedAt": "2026-10-14T11:06:43.922Z",
+        "bodySha256": "927c041e919686643d4f49c51a31a026fe727acd7e459396dabb673d2d8b5e8e",
+        "quote": "esSave SettingsSave SettingsGLAM builds onchain infrastructure for institutional asset managers to launch and operate tokenized investment products.Reduce time-to-mark"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Gravity Team",
+      "hiringUrl": "https://www.gravityteam.co/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://gravityteam.co/careers/",
+        "finalUrl": "https://www.gravityteam.co/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:45.642Z",
+        "bodySha256": "0115340cec8a0836d32012d1934546838846dc5d6ba40ebd82cdce0c7250a0fc"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Guarda",
+      "hiringUrl": "https://guarda.com/career/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://guarda.com",
+        "finalUrl": "https://guarda.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:47.948Z",
+        "bodySha256": "9fa682ee041c1643e7108a15b85a9c03d0c729683c0e894bd7835a4558d32366"
+      },
+      "web3Signal": {
+        "url": "https://guarda.com",
+        "checkedAt": "2026-10-14T11:06:47.948Z",
+        "bodySha256": "9fa682ee041c1643e7108a15b85a9c03d0c729683c0e894bd7835a4558d32366",
+        "quote": "Best Crypto Wallet Online – Web3-Ready & Secure Prediction markets inside Guarda. Powered by Learn more × Get Started Desktop Wallet Mobile Wallet Onlin"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Heir",
+      "hiringUrl": "https://www.heir.app/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.heir.app/",
+        "finalUrl": "https://www.heir.app/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:46.666Z",
+        "bodySha256": "b2ebbd7c716142af8e0a943754708a54d0b97824d0f83025cec943bcce0b485d"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Hologram",
+      "hiringUrl": "https://www.hologram.xyz/about#careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.hologram.xyz/",
+        "finalUrl": "https://www.hologram.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:52.390Z",
+        "bodySha256": "a98eeec9cf06e37b28aabd830ac75882db1efa0ce8f4653f8254a2654012936d"
+      },
+      "web3Signal": {
+        "url": "https://www.hologram.xyz/",
+        "checkedAt": "2026-10-14T11:06:52.390Z",
+        "bodySha256": "a98eeec9cf06e37b28aabd830ac75882db1efa0ce8f4653f8254a2654012936d",
+        "quote": "ewab.eth@wabdotethis this the future of nfts‍The Idols - Guardians of Ethereum@TheIdolsNFT👀 @HologramLabsTreeverse (🌱)@TheTreeverseWe have been creating Vtubers "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Hyperlane",
+      "hiringUrl": "https://jobs.lever.co/Hyperlane",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.hyperlane.xyz/",
+        "finalUrl": "https://www.hyperlane.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:57.170Z",
+        "bodySha256": "303cab5277aa02d665b5655c5af6e3a48856898fb90eaec70ef5374961b22791"
+      },
+      "web3Signal": {
+        "url": "https://www.hyperlane.xyz/",
+        "checkedAt": "2026-10-14T11:06:57.170Z",
+        "bodySha256": "303cab5277aa02d665b5655c5af6e3a48856898fb90eaec70ef5374961b22791",
+        "quote": "Permissionless Interoperability for any Blockchain BuildDocsHyperlane-As-A-ServiceUse CasesArchitectureContactProductNexus BridgeExplorerFoundationFoundationHyper tokenSt"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Hypernative",
+      "hiringUrl": "https://www.comeet.com/jobs/hypernative/8A.00E",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.hypernative.io/careers",
+        "finalUrl": "https://www.comeet.com/jobs/hypernative/8A.00E",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:52.622Z",
+        "bodySha256": "199293a4408ffb38b3e7560ef9f8cd257ebc7051c078b96721967a9f4532043d"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Icebreaker",
+      "hiringUrl": "https://www.icebreaker.xyz/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.icebreaker.xyz/",
+        "finalUrl": "https://www.icebreaker.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:50.060Z",
+        "bodySha256": "145686e06f3838f39fb26add667e7c365dc7b5272cdc15d6bf382825f30c22d7"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Immersve",
+      "hiringUrl": "https://immersve.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://immersve.com",
+        "finalUrl": "https://immersve.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:49.853Z",
+        "bodySha256": "e54ce2f6786fccd838e4729d7d1112a35ae676e435b5c5a2aa6642939fd2f873"
+      },
+      "web3Signal": {
+        "url": "https://immersve.com",
+        "checkedAt": "2026-10-14T11:06:49.853Z",
+        "bodySha256": "e54ce2f6786fccd838e4729d7d1112a35ae676e435b5c5a2aa6642939fd2f873",
+        "quote": "nessesBusinessesSee how you can provide web3 payment integration through physical, xPays, and virtual cardsCustodial businessesNon-custodial businessesPricingDevelo"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Impossible Cloud",
+      "hiringUrl": "https://jobs.lever.co/impossiblecloud",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.impossiblecloud.com/",
+        "finalUrl": "https://www.impossiblecloud.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:55.669Z",
+        "bodySha256": "e4320e320764a71617a5c04bebb96e95842608094695ca21d9e5b47d33f4dd73"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Inference",
+      "hiringUrl": "https://jobs.ashbyhq.com/inference",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://inference.net",
+        "finalUrl": "https://inference.net",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:51.888Z",
+        "bodySha256": "9327e6e68929da91a898e65fd25d9046d1b6234bbc4c8f52268dec84b8278030"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Innerworks",
+      "hiringUrl": "https://apply.workable.com/innerworks-1",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://innerworks.me",
+        "finalUrl": "https://innerworks.me",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:53.297Z",
+        "bodySha256": "bc31bfbb3307e39d89203bdafdf84d12fbaf7b60fd5c50e8c2615f1fb3e6ad68"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "IOG",
+      "hiringUrl": "https://www.iog.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.iog.io/",
+        "finalUrl": "https://www.iog.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:53.745Z",
+        "bodySha256": "be062b28c3a5a2a4229aea173a768a43cad6a8fe6722df4ddf587ce3054312c5"
+      },
+      "web3Signal": {
+        "url": "https://www.iog.io/",
+        "checkedAt": "2026-10-14T11:06:53.745Z",
+        "bodySha256": "be062b28c3a5a2a4229aea173a768a43cad6a8fe6722df4ddf587ce3054312c5",
+        "quote": "tionInput Output is the world's leading blockchain research and engineering companyVenture StudioVenture StudioVenture StudioResearchResearchResearchAbout Input OutputAbo"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "IREN",
+      "hiringUrl": "https://iren.com/company/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://iren.com",
+        "finalUrl": "https://iren.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:56.593Z",
+        "bodySha256": "677a3391dc9d3bc06279f055f8de14aee2dfc26d8b7e5363bc9bd58248cd0dad"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Kaiko",
+      "hiringUrl": "https://jobs.eu.lever.co/kaiko",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.kaiko.com/about-kaiko/careers",
+        "finalUrl": "https://www.kaiko.com/about-kaiko/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:57.369Z",
+        "bodySha256": "43ba0d1620c59169a45278a2d88b8e496ab6464c7eca323148da1f5265a282ad"
+      },
+      "web3Signal": {
+        "url": "https://www.kaiko.com/about-kaiko/careers",
+        "checkedAt": "2026-10-14T11:06:57.369Z",
+        "bodySha256": "43ba0d1620c59169a45278a2d88b8e496ab6464c7eca323148da1f5265a282ad",
+        "quote": ". Monitoring Solutions Market-level and blockchain solutions for surveillance and Anti-Money Laundering and Counter Terrorist Financing. Return to Monitoring Solutions Ka"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Kast",
+      "hiringUrl": "https://www.kast.xyz/en/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.kast.xyz/",
+        "finalUrl": "https://www.kast.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:00.837Z",
+        "bodySha256": "8244cb0f357cd3c0b6c53d48a0e34765d501d21d40377a0117e84ad293373f9c"
+      },
+      "web3Signal": {
+        "url": "https://www.kast.xyz/",
+        "checkedAt": "2026-10-14T11:07:00.837Z",
+        "bodySha256": "8244cb0f357cd3c0b6c53d48a0e34765d501d21d40377a0117e84ad293373f9c",
+        "quote": "Stablecoin account and card for 170+ countries | KASTPersonal Business Platform Select language EnglishGet KASTGet KASTMoney by KA"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Komainu",
+      "hiringUrl": "https://komainu.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.komainu.com/careers",
+        "finalUrl": "https://komainu.com/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:00.376Z",
+        "bodySha256": "31a62a9f67755b88e3b15cc65f17b4863ef8ac83475b90ca8f88f661fadba13e"
+      },
+      "web3Signal": {
+        "url": "https://www.komainu.com/careers",
+        "checkedAt": "2026-10-14T11:07:00.376Z",
+        "bodySha256": "31a62a9f67755b88e3b15cc65f17b4863ef8ac83475b90ca8f88f661fadba13e",
+        "quote": "s Skip to content Services Our Services TokenizationKomainu ConnectKomainu COREStakingCustody Expertise Our Expertise Custody TechSecurityPortal, data & reportingRegulation"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Kronos Research",
+      "hiringUrl": "https://job-boards.greenhouse.io/kronosresearch",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.kronosresearch.com/careers",
+        "finalUrl": "https://www.kronosresearch.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:58.504Z",
+        "bodySha256": "da53e2a32fe2261038064673b2368f1a7ddbb29a0da5cb87d3f127e0184ad0e2"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Least Authority",
+      "hiringUrl": "https://leastauthority.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://leastauthority.com",
+        "finalUrl": "https://leastauthority.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:04.086Z",
+        "bodySha256": "f69be00af668f278f3cfa9e5cbb886567529589cbd7e547b15b634bccde72e92"
+      },
+      "web3Signal": {
+        "url": "https://leastauthority.com",
+        "checkedAt": "2026-10-14T11:07:04.086Z",
+        "bodySha256": "f69be00af668f278f3cfa9e5cbb886567529589cbd7e547b15b634bccde72e92",
+        "quote": "he Bugcrowd security research community Blockchain BundesverbandMember of the German Blockchain Federal Association (Bundesblock) Blockchain Security AllianceMember of SU"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Ledn",
+      "hiringUrl": "https://www.ledn.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.ledn.io/",
+        "finalUrl": "https://www.ledn.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:06:59.248Z",
+        "bodySha256": "f71e77d8952238b62bade1cca3a2df74991e31035f65f2fbd1355b40245fcb1b"
+      },
+      "web3Signal": {
+        "url": "https://www.ledn.io/",
+        "checkedAt": "2026-10-14T11:06:59.248Z",
+        "bodySha256": "f71e77d8952238b62bade1cca3a2df74991e31035f65f2fbd1355b40245fcb1b",
+        "quote": "Ledn | Borrow Against your Bitcoin Securely Iframe is blocked. Accept cookies to load it.PreferencesAcceptBy clicking \"Accept\", you agree to Ledn's storin"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Legend Trade",
+      "hiringUrl": "https://www.legend.trade/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.legend.trade/",
+        "finalUrl": "https://www.legend.trade/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:01.167Z",
+        "bodySha256": "d1657ce99ca23e56a1d1e8b1842cf2fb4ece6377742c737bf052849031865f85"
+      },
+      "web3Signal": {
+        "url": "https://www.legend.trade/",
+        "checkedAt": "2026-10-14T11:07:01.167Z",
+        "bodySha256": "d1657ce99ca23e56a1d1e8b1842cf2fb4ece6377742c737bf052849031865f85",
+        "quote": "EsportsEsportsLoginLoginLegend — social onchain trading for crypto, stocks, and commoditiesWhere traders become legendsDownload on theApp StoreGet it onGoogle PlayTrus"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "LimeChain",
+      "hiringUrl": "https://limechain.tech/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://limechain.tech",
+        "finalUrl": "https://limechain.tech",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:01.590Z",
+        "bodySha256": "a23cca508a2262ef97de86586a151ff223b800f7ca4b1e39b2d05da6a923608b"
+      },
+      "web3Signal": {
+        "url": "https://limechain.tech",
+        "checkedAt": "2026-10-14T11:07:01.590Z",
+        "bodySha256": "a23cca508a2262ef97de86586a151ff223b800f7ca4b1e39b2d05da6a923608b",
+        "quote": "Blockchain Development & Consulting | LimeChain If you are looking to build, explore, and expand your Web3 vision, Meet Us at ETHD"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Liquid",
+      "hiringUrl": "https://jobs.ashbyhq.com/liquid",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.liquid.trade/",
+        "finalUrl": "https://www.liquid.trade/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:02.216Z",
+        "bodySha256": "15d3f341072c568995459a8f6fe33461e8e644c08136d3fd724fb1638aa5a180"
+      },
+      "web3Signal": {
+        "url": "https://www.liquid.trade/",
+        "checkedAt": "2026-10-14T11:07:02.216Z",
+        "bodySha256": "15d3f341072c568995459a8f6fe33461e8e644c08136d3fd724fb1638aa5a180",
+        "quote": " seen inTrade hundreds of markets, from Bitcoin and GOLD to FX and stocks, in seconds.AllCryptoReal worldGoldXAUTeslaTSLAEthereumETHNvidiaNVDASolanaSOLCrude OilCLBitco"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "MagicBlock",
+      "hiringUrl": "https://www.magicblock.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.magicblock.xyz/",
+        "finalUrl": "https://www.magicblock.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:04.059Z",
+        "bodySha256": "243ac4c168f09b436b8b6adfa83aa24ee76bf854727ba742f02cc1db13076881"
+      },
+      "web3Signal": {
+        "url": "https://www.magicblock.xyz/",
+        "checkedAt": "2026-10-14T11:07:04.059Z",
+        "bodySha256": "243ac4c168f09b436b8b6adfa83aa24ee76bf854727ba742f02cc1db13076881",
+        "quote": "emBlogSolutionsGamingTradingPrivacy for SolanaDePINConsumer AppsResourcesDocsGuidesBlogCommunityAboutTeamCareersEcosystemDocsAccelerateBuildMagic IncubatorExplore Ide"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Manifold Labs",
+      "hiringUrl": "https://www.manifold.inc/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.manifold.inc/",
+        "finalUrl": "https://www.manifold.inc/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:04.498Z",
+        "bodySha256": "9e4d07620b8b49b449a787ce0c4e301c96b7e827fae1e9bcff15bd0bdeb0f4d6"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Matrixport",
+      "hiringUrl": "https://www.bit.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.bit.com/",
+        "finalUrl": "https://www.bit.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:06.252Z",
+        "bodySha256": "9bbe3e13a4d9d87d8d555a9911142da1588d99070c4605b6354df2f79e8eef30"
+      },
+      "web3Signal": {
+        "url": "https://www.bit.com/",
+        "checkedAt": "2026-10-14T11:07:06.252Z",
+        "bodySha256": "9bbe3e13a4d9d87d8d555a9911142da1588d99070c4605b6354df2f79e8eef30",
+        "quote": "NowDownload APPSTBT →Treasury TokenBTC →BitcoinSOL →SolanaXAUm →Gold TokenAAPL →Apple Inc.XRP →RippleXAGm →Silver TokenETH →EthereumUSDT →TetherNVDA →NVIDIA Corporatio"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Metakey",
+      "hiringUrl": "https://www.themetakey.com/about#careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.themetakey.com/",
+        "finalUrl": "https://www.themetakey.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:05.845Z",
+        "bodySha256": "aefb24bef4f05d0b3ea4dd1f21d0e9051e27baa1e53a1b40f5009069d2cac9cf"
+      },
+      "web3Signal": {
+        "url": "https://www.themetakey.com/",
+        "checkedAt": "2026-10-14T11:07:05.845Z",
+        "bodySha256": "aefb24bef4f05d0b3ea4dd1f21d0e9051e27baa1e53a1b40f5009069d2cac9cf",
+        "quote": "dustry leading newsletter in Gaming and Web3!SubscribeJoin #1 Gaming & Web3 newsletter!SubscribeUnlocking the potential of the Metaverse, AR and Gamification.Unlock"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Metaschool",
+      "hiringUrl": "https://metaschool.so/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://metaschool.so",
+        "finalUrl": "https://metaschool.so",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:06.570Z",
+        "bodySha256": "b80377e33af4a8d8cff65403e189dbccade8a668d66b9d2f5d492b8a5354b0de"
+      },
+      "web3Signal": {
+        "url": "https://metaschool.so",
+        "checkedAt": "2026-10-14T11:07:06.570Z",
+        "bodySha256": "b80377e33af4a8d8cff65403e189dbccade8a668d66b9d2f5d492b8a5354b0de",
+        "quote": "ool - Home for builders to learn AI and Web3Metaschool projects are best viewed on desktopmetaschoolWin Exciting Prizes Warden ProtocolPausedAptos MarathonEndedCore"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "MetaWealth",
+      "hiringUrl": "https://metawealth.co/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://metawealth.co",
+        "finalUrl": "https://metawealth.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:06.352Z",
+        "bodySha256": "5c97196e79bdd576f318c1cfed06a444e0dbb82da17583918508eb1b6854ed94"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "MixBytes",
+      "hiringUrl": "https://mixbytes.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://mixbytes.io",
+        "finalUrl": "https://mixbytes.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:26.050Z",
+        "bodySha256": "1eb8a9d7d61fe0f7c3c2be1acabc33c15b658ea8826af105aec95a47b91af565"
+      },
+      "web3Signal": {
+        "url": "https://mixbytes.io",
+        "checkedAt": "2026-10-14T11:07:26.050Z",
+        "bodySha256": "1eb8a9d7d61fe0f7c3c2be1acabc33c15b658ea8826af105aec95a47b91af565",
+        "quote": "MixBytes | Security for Web3 protocols from idea to mainnet and beyond About Services Portfolio Careers Blog Contact Talk to our team Security Revie"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Morph",
+      "hiringUrl": "https://morph.network/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://morph.network/",
+        "finalUrl": "https://morph.network/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:07.511Z",
+        "bodySha256": "f69bb7e8477011d29ac9af59229bb36f1c7991fb745c0ef0d75cd3a4938800dc"
+      },
+      "web3Signal": {
+        "url": "https://morph.network/",
+        "checkedAt": "2026-10-14T11:07:07.511Z",
+        "bodySha256": "f69bb7e8477011d29ac9af59229bb36f1c7991fb745c0ef0d75cd3a4938800dc",
+        "quote": "Morph Payments | Accept and send stablecoins anywhere in the worldProductsMerchant DashboardPayment ToolsGateway APISolutionsAccept PaymentsSend PayoutsNetworkMorph"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Morse",
+      "hiringUrl": "https://morsemoney.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://morsemoney.com",
+        "finalUrl": "https://morsemoney.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:07.388Z",
+        "bodySha256": "ace3f79c45a3c4657b87f21c20fefbee2f80f934b768f4e49024da75d6715e98"
+      },
+      "web3Signal": {
+        "url": "https://morsemoney.com",
+        "checkedAt": "2026-10-14T11:07:07.388Z",
+        "bodySha256": "ace3f79c45a3c4657b87f21c20fefbee2f80f934b768f4e49024da75d6715e98",
+        "quote": "and friends, even investing. I love the Solana wallets, fair exchange rates, and how easy it all is to use.Honorine IshimweRWI work cruise ships and needed an easy wa"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Mythical Games",
+      "hiringUrl": "https://mythicalgames.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://mythicalgames.com",
+        "finalUrl": "https://mythicalgames.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:10.304Z",
+        "bodySha256": "fdf1bb81777bfe24de96df230a16aa6f78ecf0d8042263370b233ffb5d21072f"
+      },
+      "web3Signal": {
+        "url": "https://mythicalgames.com",
+        "checkedAt": "2026-10-14T11:07:10.304Z",
+        "bodySha256": "fdf1bb81777bfe24de96df230a16aa6f78ecf0d8042263370b233ffb5d21072f",
+        "quote": "t our games are fun at their core, with blockchain technology enhancing the experience. Arcade Blankos Coming to mobile Learn More Arcade Pudgy Party Ultimate Penguin Kno"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "N3XT",
+      "hiringUrl": "https://ats.rippling.com/n3xt-jobs/jobs",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://n3xt.io/careers",
+        "finalUrl": "https://n3xt.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:08.493Z",
+        "bodySha256": "8572e9cc651b234eeb86b34fb37c4e96e97da9e5d28cb81f051eb88f33189321"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Nala",
+      "hiringUrl": "https://apply.workable.com/nalamoney",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.nala.com/",
+        "finalUrl": "https://www.nala.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:09.031Z",
+        "bodySha256": "f7c968b6f5a2556396f95aa23e9c42e1521a87813fa3d9ac8eea38f77fc7a7cf"
+      },
+      "web3Signal": {
+        "url": "https://www.nala.com/",
+        "checkedAt": "2026-10-14T11:07:09.031Z",
+        "bodySha256": "f7c968b6f5a2556396f95aa23e9c42e1521a87813fa3d9ac8eea38f77fc7a7cf",
+        "quote": "ollect, and settle in local currency or stablecoins, all through one API. Find out more about Rafiki Full FXRateTransparencyReal-time FX rates. See how our rates compare t"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "NEXUS",
+      "hiringUrl": "https://jobs.ashbyhq.com/nexus.xyz",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://nexus.xyz",
+        "finalUrl": "https://nexus.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:09.548Z",
+        "bodySha256": "ecdb54f61481508f9ae9842c49c7b0c34af57cddb781ff88e92bb51ff3f98108"
+      },
+      "web3Signal": {
+        "url": "https://nexus.xyz",
+        "checkedAt": "2026-10-14T11:07:09.548Z",
+        "bodySha256": "ecdb54f61481508f9ae9842c49c7b0c34af57cddb781ff88e92bb51ff3f98108",
+        "quote": "] -0.61% ▼Search⌘KConnect WalletBTC-USDXBitcoin·50×maxMark79,994.7Oracle79,991.224h change+934.7 / +1.46%24h volume$1.15BOpen interest$812MResourcesTVPriceFundingDepth"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Nomadic Labs",
+      "hiringUrl": "https://www.nomadic-labs.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.nomadic-labs.com/",
+        "finalUrl": "https://www.nomadic-labs.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:11.232Z",
+        "bodySha256": "c46f7e7c95831bb2b9505bc0d6cd8b7456aa0fe5736c154c9490307a402d3249"
+      },
+      "web3Signal": {
+        "url": "https://www.nomadic-labs.com/",
+        "checkedAt": "2026-10-14T11:07:11.232Z",
+        "bodySha256": "c46f7e7c95831bb2b9505bc0d6cd8b7456aa0fe5736c154c9490307a402d3249",
+        "quote": "epage | Nomadic Labs | Experts of Tezos Blockchain +A A -A Research & Development Blog Adoption & Support News Careers Contact a a a a a a a a scroll Tezos blockchain Exp"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Nous Research",
+      "hiringUrl": "https://nousresearch.com/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://nousresearch.com",
+        "finalUrl": "https://nousresearch.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:10.768Z",
+        "bodySha256": "163a17fef28f82366d9de92fed273d4a9fcba1805372d153d4080fa99807abac"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "O(1) Labs",
+      "hiringUrl": "https://ats.rippling.com/o1-labs-operating-corporation/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.o1labs.org/about-us",
+        "finalUrl": "https://www.o1labs.org/about-us",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:11.832Z",
+        "bodySha256": "10eb248c52101ede89592392a51d33533300684ab0e5ec8ec9835ecdb2b429e3"
+      },
+      "web3Signal": {
+        "url": "https://www.o1labs.org/about-us",
+        "checkedAt": "2026-10-14T11:07:11.832Z",
+        "bodySha256": "10eb248c52101ede89592392a51d33533300684ab0e5ec8ec9835ecdb2b429e3",
+        "quote": "ur team operates on the cutting edge of Web3 and zero knowledge cryptography.Open RolesApply now to start your o1 journeyFiltersAllCryptographyEngineeringOperations"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Obol",
+      "hiringUrl": "https://jobs.lever.co/obol-tech",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://dvlabs.tech/Job-Opportunities",
+        "finalUrl": "https://dvlabs.tech/Job-Opportunities",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:11.549Z",
+        "bodySha256": "d05ced472fade428057c52cd6b4ec9a8713579b047a10945c291fe0ce568ba53"
+      },
+      "web3Signal": {
+        "url": "https://dvlabs.tech/Job-Opportunities",
+        "checkedAt": "2026-10-14T11:07:11.549Z",
+        "bodySha256": "d05ced472fade428057c52cd6b4ec9a8713579b047a10945c291fe0ce568ba53",
+        "quote": "l offsiteBuild relationships within the Ethereum ecosystemPaid parental leaveLife at DV LabsHiring ProcessWork with the purpose of decentralising Ethereum! We're always"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Octet",
+      "hiringUrl": "https://octetproof.com/careers/",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://octetproof.com",
+        "finalUrl": "https://octetproof.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:11.768Z",
+        "bodySha256": "e23403150fcf94671284ff7167990c996aacf1c56de273f9fdd3d66683b75723"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Olympix",
+      "hiringUrl": "https://olympix.security/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://olympix.security/",
+        "finalUrl": "https://olympix.security/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:11.897Z",
+        "bodySha256": "c8aa303d696fbe3e40bddb8499e53a291481a7a0bc969feff6f914b60328eb14"
+      },
+      "web3Signal": {
+        "url": "https://olympix.security/",
+        "checkedAt": "2026-10-14T11:07:11.897Z",
+        "bodySha256": "c8aa303d696fbe3e40bddb8499e53a291481a7a0bc969feff6f914b60328eb14",
+        "quote": "y teams securing the next generation of on-chain financial infrastructure.100M+Lines of Solidity analyzed across leading Web3 teams.70%Audit-level findings automated wi"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Omni Network",
+      "hiringUrl": "https://job-boards.greenhouse.io/nomina",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.nomina.io/",
+        "finalUrl": "https://www.nomina.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:12.023Z",
+        "bodySha256": "2708d5d4d172b7fcdbcc69859434c512420cf2e8938c2ed29ae2ddd3d57a579a"
+      },
+      "web3Signal": {
+        "url": "https://www.nomina.io/",
+        "checkedAt": "2026-10-14T11:07:12.023Z",
+        "bodySha256": "2708d5d4d172b7fcdbcc69859434c512420cf2e8938c2ed29ae2ddd3d57a579a",
+        "quote": "Get accessAboutBlogPressPower tools for onchain markets10x your strategies across perp DEXs in one placeAccess NominaWhitepaperBacked byIntroducing the nomina TRADING "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "OneKey",
+      "hiringUrl": "https://onekeyhq.atlassian.net/wiki/spaces/OC/overview",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://onekey.so",
+        "finalUrl": "https://onekey.so",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:14.012Z",
+        "bodySha256": "4a1fcdc471aa57d046baa55e18589fd88a72579a3e9377db6ffeb1bdb3fc3685"
+      },
+      "web3Signal": {
+        "url": "https://onekey.so",
+        "checkedAt": "2026-10-14T11:07:14.012Z",
+        "bodySha256": "4a1fcdc471aa57d046baa55e18589fd88a72579a3e9377db6ffeb1bdb3fc3685",
+        "quote": "FinanceSelf Custody. Open Source. Fully Onchain. Trade crypto, stocks, and more from your OneKey Wallet.Download Free AppOneKey Classic 1S Pure • BTC-Only EditionCircu"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Onmeta",
+      "hiringUrl": "https://onmeta.in/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://onmeta.in",
+        "finalUrl": "https://onmeta.in",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:12.659Z",
+        "bodySha256": "22ec452f55ab728369e1479893d60abb59c525e407494b079c58eed2fd2befe2"
+      },
+      "web3Signal": {
+        "url": "https://onmeta.in",
+        "checkedAt": "2026-10-14T11:07:12.659Z",
+        "bodySha256": "22ec452f55ab728369e1479893d60abb59c525e407494b079c58eed2fd2befe2",
+        "quote": "Crypto Payment Infrastructure for Web3 | OnMeta Crypto Payment Infrastructure for Web3 | OnMeta BusinessBuySellPartnershipsDevelopersBlogsCareersContact Sales"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Onramper",
+      "hiringUrl": "https://jobs.onramper.com/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://onramper.com",
+        "finalUrl": "https://onramper.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:13.775Z",
+        "bodySha256": "748646b2ffd0a95ce3012fca3c34f951497a33fb8761540b82a5587940463699"
+      },
+      "web3Signal": {
+        "url": "https://onramper.com",
+        "checkedAt": "2026-10-14T11:07:13.775Z",
+        "bodySha256": "748646b2ffd0a95ce3012fca3c34f951497a33fb8761540b82a5587940463699",
+        "quote": "e, and KYC friction.Payment methodAmountCryptocurrencyKYCCountryFiat currencyUser risk profile Smart payment methodrecommendationsAcross 175+ payment methodsAI-based Onramp R"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "OtterSec",
+      "hiringUrl": "https://osec.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://osec.io",
+        "finalUrl": "https://osec.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:15.529Z",
+        "bodySha256": "92873695ef06f3b01f281ad9f6576ee6b78638f5462289ccff6fa572e1d05e7d"
+      },
+      "web3Signal": {
+        "url": "https://osec.io",
+        "checkedAt": "2026-10-14T11:07:15.529Z",
+        "bodySha256": "92873695ef06f3b01f281ad9f6576ee6b78638f5462289ccff6fa572e1d05e7d",
+        "quote": "ts Contact Security audits that protect blockchain ideas $36.82B+ On-chain TVL secured $1.00B+ Vulnerabilities patched We work with leading teams across multiple blockcha"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Paradigm",
+      "hiringUrl": "https://careers.kula.ai/paradigm",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://paradigm.co/careers",
+        "finalUrl": "https://paradigm.co/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:16.839Z",
+        "bodySha256": "2c76df6782ed69f67686d9ce89fc784bae488cf4bd0b0dbd7babcdaf9b18074a"
+      },
+      "web3Signal": {
+        "url": "https://paradigm.co/careers",
+        "checkedAt": "2026-10-14T11:07:16.839Z",
+        "bodySha256": "2c76df6782ed69f67686d9ce89fc784bae488cf4bd0b0dbd7babcdaf9b18074a",
+        "quote": "ng, that account 20-30% of daily global cryptocurrency option flows and institutional tradingParadigm is uniquely positioned to benefit as Institutional Markets continue to m"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Perena",
+      "hiringUrl": "https://app.dover.com/jobs/perena",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://perena.org/careers",
+        "finalUrl": "https://perena.org/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:15.315Z",
+        "bodySha256": "1983ff4e2d65fa569b4642c39e8f81ac3a38e8198d3c108984c35c5da57a91bd"
+      },
+      "web3Signal": {
+        "url": "https://perena.org/careers",
+        "checkedAt": "2026-10-14T11:07:15.315Z",
+        "bodySha256": "1983ff4e2d65fa569b4642c39e8f81ac3a38e8198d3c108984c35c5da57a91bd",
+        "quote": "s a decentralized financial protocol on Solana that offers USD STAR (USD*), a yield-bearing digital dollar. USD* is fully collateralized and earns yield from diversif"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Perpl",
+      "hiringUrl": "https://perpl.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://perpl.xyz",
+        "finalUrl": "https://perpl.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:15.948Z",
+        "bodySha256": "dbcc2288e0846890f235a78f352f8c21d04a3a9051b156653d9b2e94b4765108"
+      },
+      "web3Signal": {
+        "url": "https://perpl.xyz",
+        "checkedAt": "2026-10-14T11:07:15.948Z",
+        "bodySha256": "dbcc2288e0846890f235a78f352f8c21d04a3a9051b156653d9b2e94b4765108",
+        "quote": "Perpl | On-Chain Perpetual Futures Exchange Twitter Discord BLOG CAREERS Start Trading Twitter Discord BLOG CAREERS Start Trading Trade "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Phi Labs",
+      "hiringUrl": "https://philabs.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://philabs.xyz",
+        "finalUrl": "https://philabs.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:16.246Z",
+        "bodySha256": "82e120e88f8acda540d27364e5efe20bbb260b50c250559f99167d08b3649707"
+      },
+      "web3Signal": {
+        "url": "https://philabs.xyz",
+        "checkedAt": "2026-10-14T11:07:16.246Z",
+        "bodySha256": "82e120e88f8acda540d27364e5efe20bbb260b50c250559f99167d08b3649707",
+        "quote": " in art, nature, architecture, and now, web3. Phi Labs is a core contributor to the Archway Protocol, a layer 1 blockchain that enables developers to capture the va"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Plural",
+      "hiringUrl": "https://jobs.ashbyhq.com/pluralfinance",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.pluralfinance.com/",
+        "finalUrl": "https://www.pluralfinance.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:17.006Z",
+        "bodySha256": "82fdc5d4048e4d54d7dcd70413e3d0360bb494c698b937af450c28a0c7d6d737"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Pluralis Research",
+      "hiringUrl": "https://jobs.ashbyhq.com/pluralis-research",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://pluralis.ai",
+        "finalUrl": "https://pluralis.ai",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:16.931Z",
+        "bodySha256": "fe3899a2fae6145fbc20748ad2e56034615b35d15006e82049fe8d3323c958b0"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Pond",
+      "hiringUrl": "https://joinpond.ai/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://joinpond.ai/",
+        "finalUrl": "https://joinpond.ai/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:17.553Z",
+        "bodySha256": "511edcaf1abbdc023691d22c643fa0fd9ed05f9eed284983c968706cdd253ef7"
+      },
+      "web3Signal": {
+        "url": "https://joinpond.ai/",
+        "checkedAt": "2026-10-14T11:07:17.553Z",
+        "bodySha256": "511edcaf1abbdc023691d22c643fa0fd9ed05f9eed284983c968706cdd253ef7",
+        "quote": "se TasksDeep Funding Contest - Level IIIEthereum FoundationWorldwideTotal rewards$5,000Up to $5,000 per contributor136 submittedTest drive SELAT and earn up to 11 USDCS"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Privy",
+      "hiringUrl": "https://www.privy.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.privy.io/",
+        "finalUrl": "https://www.privy.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:17.866Z",
+        "bodySha256": "23fb8fb4f400bfd56917fde6df9196f834407634b4850fe3247203142c808358"
+      },
+      "web3Signal": {
+        "url": "https://www.privy.io/",
+        "checkedAt": "2026-10-14T11:07:17.866Z",
+        "bodySha256": "23fb8fb4f400bfd56917fde6df9196f834407634b4850fe3247203142c808358",
+        "quote": "ity, and capital flowsYield integrationsOnchain yield access and capital deploymentSolutionsInstitutionsSee allBankingModernize account infrastructure with programmabl"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Proto",
+      "hiringUrl": "https://app.dover.com/jobs/proto",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.useproto.xyz/",
+        "finalUrl": "https://www.useproto.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:18.627Z",
+        "bodySha256": "13eea5b9ac686d1b232a28b112d6fb89486d312461f6e14b98d5497613778136"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Puffer",
+      "hiringUrl": "https://apply.workable.com/puffer-finance",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.puffer.fi/",
+        "finalUrl": "https://www.puffer.fi/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:19.236Z",
+        "bodySha256": "56053014fc4ae6b737902bae08692b439660f3c587112c30f0bd2bf7bd2a48c3"
+      },
+      "web3Signal": {
+        "url": "https://www.puffer.fi/",
+        "checkedAt": "2026-10-14T11:07:19.236Z",
+        "bodySha256": "56053014fc4ae6b737902bae08692b439660f3c587112c30f0bd2bf7bd2a48c3",
+        "quote": "Puffer: Building the Future of EthereumImportant UniFi Vault NoticeWe’re preparing for a new UniFi Vault. If you currently have assets in the existing vault, p"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Raad",
+      "hiringUrl": "https://raad.com/en/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://raad.com",
+        "finalUrl": "https://raad.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:20.007Z",
+        "bodySha256": "6ed75394cea6a33ba62557087af66c134d5fa6c328417f963336f4ef3be337c4"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Range",
+      "hiringUrl": "https://range.org/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://range.org",
+        "finalUrl": "https://range.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:21.346Z",
+        "bodySha256": "d359c1b87b74189c2a609ec1481eb4be664864ebbf2bd413f289d62fb847b49d"
+      },
+      "web3Signal": {
+        "url": "https://range.org",
+        "checkedAt": "2026-10-14T11:07:21.346Z",
+        "bodySha256": "d359c1b87b74189c2a609ec1481eb4be664864ebbf2bd413f289d62fb847b49d",
+        "quote": "nge: Treasury, risk, and compliance for stablecoins and fiatProduct Solutions Resources PricingSign inBook a demoTotal financial control for digital assets.Unify risk, com"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Recall Network",
+      "hiringUrl": "https://job-boards.greenhouse.io/recall",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://recall.network",
+        "finalUrl": "https://recall.network",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:21.489Z",
+        "bodySha256": "7191b4083c87728a495bd7f9cc5e5d034c91533843fb79a4808b5f46aa86c97c"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "RedStone",
+      "hiringUrl": "https://www.redstone.finance/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.redstone.finance/",
+        "finalUrl": "https://www.redstone.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:22.085Z",
+        "bodySha256": "13bb18b27260f111a8dd6cbca002f67dae2e12cafa68e4344b94dbeb6ca0dc4c"
+      },
+      "web3Signal": {
+        "url": "https://www.redstone.finance/",
+        "checkedAt": "2026-10-14T11:07:22.085Z",
+        "bodySha256": "13bb18b27260f111a8dd6cbca002f67dae2e12cafa68e4344b94dbeb6ca0dc4c",
+        "quote": "ayer Explore RedStone's research on RWA tokenization, DeFi market structure, and oracle design — written for builders and institutions alike. View all reports Company Team "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Rho Labs",
+      "hiringUrl": "https://rho.trading/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://rho.trading",
+        "finalUrl": "https://rho.trading",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:21.783Z",
+        "bodySha256": "b71e3ec4b770edb27afb1d24ec4eafbabaad0a1c589f6db51c93d157e3785860"
+      },
+      "web3Signal": {
+        "url": "https://rho.trading",
+        "checkedAt": "2026-10-14T11:07:21.783Z",
+        "bodySha256": "b71e3ec4b770edb27afb1d24ec4eafbabaad0a1c589f6db51c93d157e3785860",
+        "quote": "Rho — on-chain trading infrastructure for institutions TradingIndexCollateralRelayVaultsInfrastructureTalk to usLaunch app→TradingInde"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "RootstockLabs",
+      "hiringUrl": "https://www.rootstocklabs.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.rootstocklabs.com/",
+        "finalUrl": "https://www.rootstocklabs.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:23.430Z",
+        "bodySha256": "4b80ba5fda7856202a2dfbd445ea64f01420da437a83daca55425506c6afee8a"
+      },
+      "web3Signal": {
+        "url": "https://www.rootstocklabs.com/",
+        "checkedAt": "2026-10-14T11:07:23.430Z",
+        "bodySha256": "4b80ba5fda7856202a2dfbd445ea64f01420da437a83daca55425506c6afee8a",
+        "quote": "RootstockLabs | Making Bitcoin Work For EveryoneSkip to contentAbout UsBlogCareersInstitutionalContactMaking Bitcoin work for everyone.About usSince 2"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Runtime Verification",
+      "hiringUrl": "https://runtimeverification.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://runtimeverification.com",
+        "finalUrl": "https://runtimeverification.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:24.346Z",
+        "bodySha256": "0785f83ca3195b5a748addddb90c87c44958b9675581d79aa50d41e555ee842a"
+      },
+      "web3Signal": {
+        "url": "https://runtimeverification.com",
+        "checkedAt": "2026-10-14T11:07:24.346Z",
+        "bodySha256": "0785f83ca3195b5a748addddb90c87c44958b9675581d79aa50d41e555ee842a",
+        "quote": "tical SoftwareCode TranslationFinTech & BlockchainMedical DevicesAerospacePharmaceuticalsAI & AgentsAgents act on real systems, with real credentials, at machine speed. W"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "RWA.xyz",
+      "hiringUrl": "https://jobs.ashbyhq.com/RWA.xyz",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://app.rwa.xyz/",
+        "finalUrl": "https://app.rwa.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:25.017Z",
+        "bodySha256": "a86f6cdda941e74c386d93554a78e7fdf533c4df43bb85f8dca71f01382fbf78"
+      },
+      "web3Signal": {
+        "url": "https://app.rwa.xyz/",
+        "checkedAt": "2026-10-14T11:07:25.017Z",
+        "bodySha256": "a86f6cdda941e74c386d93554a78e7fdf533c4df43bb85f8dca71f01382fbf78",
+        "quote": "orksPlatformsAsset ManagersAsset ClassesStablecoinsU.S. Treasury FundsNon-U.S. Govt. DebtCreditStocksPE / VCActive StrategiesCommoditiesReal EstateMediaResearch BlogPress "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "SALT",
+      "hiringUrl": "https://saltlending.com/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://saltlending.com",
+        "finalUrl": "https://saltlending.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:27.316Z",
+        "bodySha256": "6f9cefe17b565afb6f7400c57f6936d8daeec2e47200f1d2daa2092aef33c6b7"
+      },
+      "web3Signal": {
+        "url": "https://saltlending.com",
+        "checkedAt": "2026-10-14T11:07:27.316Z",
+        "bodySha256": "6f9cefe17b565afb6f7400c57f6936d8daeec2e47200f1d2daa2092aef33c6b7",
+        "quote": "SALT Lending: The Original Bitcoin-Backed Lender Since 2016 Skip to main content Skip to footer Opens in a new tab Personal Business Private Clients SALT "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Santiment",
+      "hiringUrl": "https://santiment.net/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://santiment.net",
+        "finalUrl": "https://santiment.net",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:28.278Z",
+        "bodySha256": "be51bcb3d9fae014ab0499c5c1923787227c7ac134caefb9d81af48964400be9"
+      },
+      "web3Signal": {
+        "url": "https://santiment.net",
+        "checkedAt": "2026-10-14T11:07:28.278Z",
+        "bodySha256": "be51bcb3d9fae014ab0499c5c1923787227c7ac134caefb9d81af48964400be9",
+        "quote": "hensive Set of Data Sources Use social, blockchain, financial, dev, and community metrics to improve your strategy All-in-one platform Crypto intelligence tools We bring "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sapiom",
+      "hiringUrl": "https://jobs.ashbyhq.com/sapiom",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.sapiom.ai/careers/",
+        "finalUrl": "https://www.sapiom.ai/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:26.330Z",
+        "bodySha256": "763c0039b0307bfb4b5d649f0f3324312a00299c6e2fde2275b1c7895be40cec"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sequence",
+      "hiringUrl": "https://sequence.bamboohr.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://sequence.xyz/careers",
+        "finalUrl": "https://sequence.xyz/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:29.048Z",
+        "bodySha256": "92c19086781127272a04a61cf1cf1b122f8a7f34ccd4f5becda9600a958c6ae1"
+      },
+      "web3Signal": {
+        "url": "https://sequence.xyz/careers",
+        "checkedAt": "2026-10-14T11:07:29.048Z",
+        "bodySha256": "92c19086781127272a04a61cf1cf1b122f8a7f34ccd4f5becda9600a958c6ae1",
+        "quote": "Careers at Sequence | Web3 Development PlatformPolygon Labs is acquiring Sequence to power the Open Money Stack. Learn moreProductsSolutionsDevelo"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "SevenLabs",
+      "hiringUrl": "https://www.sevenlabs.org/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.sevenlabs.org/",
+        "finalUrl": "https://www.sevenlabs.org/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:27.872Z",
+        "bodySha256": "8e866343b828ed45ca52ab5074b1d62f13ccb608ae070bace5c34f6c1de5c546"
+      },
+      "web3Signal": {
+        "url": "https://www.sevenlabs.org/",
+        "checkedAt": "2026-10-14T11:07:27.872Z",
+        "bodySha256": "8e866343b828ed45ca52ab5074b1d62f13ccb608ae070bace5c34f6c1de5c546",
+        "quote": "SOUR WORKCAREERSBook a callWe solve hardSolana engineeringproblemsSevenLabs is a Solana development agency, delivering production infrastructure, from on-chain progra"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Shipyard Software",
+      "hiringUrl": "https://www.shipyardsoftware.org/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.shipyardsoftware.org/",
+        "finalUrl": "https://www.shipyardsoftware.org/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:28.182Z",
+        "bodySha256": "7a940bf179ff47d962ff9b5c9e2727d6252de5096a486cc2e850a0c4ac8d405a"
+      },
+      "web3Signal": {
+        "url": "https://www.shipyardsoftware.org/",
+        "checkedAt": "2026-10-14T11:07:28.182Z",
+        "bodySha256": "7a940bf179ff47d962ff9b5c9e2727d6252de5096a486cc2e850a0c4ac8d405a",
+        "quote": " returns on repo trades.TOOLA coded and blockchain-ready OFAC sanctions list, enabling DeFi protocols and crypto exchanges to comply with regulations and attract institut"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sigma Prime",
+      "hiringUrl": "https://jobs.ashbyhq.com/sigp",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://sigmaprime.io",
+        "finalUrl": "https://sigmaprime.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:27.971Z",
+        "bodySha256": "291962623dc2474a7b76507e6e8720220334897b4ce3417e84a35a504348004a"
+      },
+      "web3Signal": {
+        "url": "https://sigmaprime.io",
+        "checkedAt": "2026-10-14T11:07:27.971Z",
+        "bodySha256": "291962623dc2474a7b76507e6e8720220334897b4ce3417e84a35a504348004a",
+        "quote": "Blockchain Security Audits & Research | Sigma Prime Blockchain Security Audits & Research Auditing complex offchain code, ZK syste"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Solayer Labs",
+      "hiringUrl": "https://solayer.org/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://solayer.org",
+        "finalUrl": "https://solayer.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:28.920Z",
+        "bodySha256": "a5216f13036694b6f1f71e928d1a43c95d512cc8caabab6c6674ccc0e2eaafa1"
+      },
+      "web3Signal": {
+        "url": "https://solayer.org",
+        "checkedAt": "2026-10-14T11:07:28.920Z",
+        "bodySha256": "a5216f13036694b6f1f71e928d1a43c95d512cc8caabab6c6674ccc0e2eaafa1",
+        "quote": "Be the first to tradeA perpetual DEX on Solana. Trade crypto, equities, and commodities from one margin account.the Bitcoin of the AI compute era:Spot & perps, first "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Solstice Labs",
+      "hiringUrl": "https://solstice.finance/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://solstice.finance",
+        "finalUrl": "https://solstice.finance",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:30.585Z",
+        "bodySha256": "68665f8e05f123a44e319cbc912418813c1da0bc73c4875a45b62524e1e6b6b2"
+      },
+      "web3Signal": {
+        "url": "https://solstice.finance",
+        "checkedAt": "2026-10-14T11:07:30.585Z",
+        "bodySha256": "68665f8e05f123a44e319cbc912418813c1da0bc73c4875a45b62524e1e6b6b2",
+        "quote": "SOLSTICE FINANCEThe YieldLayer.The only Solana-native yield protocol with a 3-year track record. Every strategy, one surface asset.Built onLaunch AppExplore Ecosystem"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sommelier",
+      "hiringUrl": "https://somm.finance/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://somm.finance/",
+        "finalUrl": "https://somm.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:29.646Z",
+        "bodySha256": "a407ff5924374e89e978d57e8b8a43a04a203208d1e980a5811b16982dd83875"
+      },
+      "web3Signal": {
+        "url": "https://somm.finance/",
+        "checkedAt": "2026-10-14T11:07:29.646Z",
+        "bodySha256": "a407ff5924374e89e978d57e8b8a43a04a203208d1e980a5811b16982dd83875",
+        "quote": "t contract rebalances based on visible, on-chain logic4Execution happens automatically with no manual overrides5Users control their deposits and withdrawals at all time"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sorella Labs",
+      "hiringUrl": "https://sorellalabs.xyz/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://sorellalabs.xyz",
+        "finalUrl": "https://sorellalabs.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:30.981Z",
+        "bodySha256": "902f280a9ef5abf4b0c1ed51d55f19d331a2f927def0fb93cc9c49e451967126"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Space and Time",
+      "hiringUrl": "https://www.spaceandtime.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.spaceandtime.io/",
+        "finalUrl": "https://www.spaceandtime.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:29.997Z",
+        "bodySha256": "8f3265574fdc9de3bfbe38c15ab842451e96e9fbaf091df2d0a4d7a8a3c3df6e"
+      },
+      "web3Signal": {
+        "url": "https://www.spaceandtime.io/",
+        "checkedAt": "2026-10-14T11:07:29.997Z",
+        "bodySha256": "8f3265574fdc9de3bfbe38c15ab842451e96e9fbaf091df2d0a4d7a8a3c3df6e",
+        "quote": "Space and Time | The Data Blockchain Securing Onchain Finance Space and Time is live on mainnet!Stake your SXT↗Network↓NetworkSpace and Time OverviewThe dat"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Spire",
+      "hiringUrl": "https://spirelabs.notion.site/Spire-is-hiring-6f8746029554460fb7fa48ddeeb24126",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.spire.dev/",
+        "finalUrl": "https://www.spire.dev/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:31.005Z",
+        "bodySha256": "84b89e47dafef106717e0c10da01f32b368666fc4ff0ca68c2c8b1cc4ca8d6a5"
+      },
+      "web3Signal": {
+        "url": "https://www.spire.dev/",
+        "checkedAt": "2026-10-14T11:07:31.005Z",
+        "bodySha256": "84b89e47dafef106717e0c10da01f32b368666fc4ff0ca68c2c8b1cc4ca8d6a5",
+        "quote": "lderFull SendBaiBai.cxTalk to UsWe Make Ethereum BetterUnlock the Power of Based AppchainsSpire Labs is among the earliest contributors to based sequencing research in "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Stackr Labs",
+      "hiringUrl": "https://apply.workable.com/stackr-labs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.stackrlabs.xyz/",
+        "finalUrl": "https://www.stackrlabs.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:31.642Z",
+        "bodySha256": "4be40c6e36237b99d6dd824213f136de678d6103c79162a4121425096b7a82e5"
+      },
+      "web3Signal": {
+        "url": "https://www.stackrlabs.xyz/",
+        "checkedAt": "2026-10-14T11:07:31.642Z",
+        "bodySha256": "4be40c6e36237b99d6dd824213f136de678d6103c79162a4121425096b7a82e5",
+        "quote": "aperBlogCommunityMicro-rollups to scale web3 applicationsBuild app-specific rollups on Ethereum in web2 programming languagesStart BuildingRead the docsBreak up the"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Star Atlas",
+      "hiringUrl": "https://experience.staratlas.com/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://staratlas.com",
+        "finalUrl": "https://staratlas.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:31.759Z",
+        "bodySha256": "70c349f5d7bcb235671cd4b0413b54a1f24df1f1000544db3711ba3edd976abc"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "StarkWare",
+      "hiringUrl": "https://starkware.co/careers/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://starkware.co",
+        "finalUrl": "https://starkware.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:32.787Z",
+        "bodySha256": "280551586a9e8ac09506e247dc2365a4d229d869f82a950fb7240b34efb64377"
+      },
+      "web3Signal": {
+        "url": "https://starkware.co",
+        "checkedAt": "2026-10-14T11:07:32.787Z",
+        "bodySha256": "280551586a9e8ac09506e247dc2365a4d229d869f82a950fb7240b34efb64377",
+        "quote": "ng Scalability, Security and Privacy to Blockchain Skip to content Menu Quantum Privacy Starknet Developers Cairo StarkWare Labs Proving Stack STARK 101 Resources StarkWa"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Steakhouse Financial",
+      "hiringUrl": "https://jobs.ashbyhq.com/steakhouse",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.steakhouse.financial/about#careers",
+        "finalUrl": "https://www.steakhouse.financial/about#careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:33.269Z",
+        "bodySha256": "802b83f844f8ea138463ef21126f4e97b3371f53f9db1632b4e4023debb51e7d"
+      },
+      "web3Signal": {
+        "url": "https://www.steakhouse.financial/about#careers",
+        "checkedAt": "2026-10-14T11:07:33.269Z",
+        "bodySha256": "802b83f844f8ea138463ef21126f4e97b3371f53f9db1632b4e4023debb51e7d",
+        "quote": "in the world.Steakhouse Financial is an onchain vault curator and advisory firm for the stablecoin economy. Steakhouse curates more than $4.13B in noncustodial assets "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Stitch",
+      "hiringUrl": "https://stitch.money/careers-at-stitch",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://stitch.money",
+        "finalUrl": "https://stitch.money",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:33.817Z",
+        "bodySha256": "71a9f27a94bb679e64aa4f50e364431068f8168fb76c4521b252d2a30d4ac0c8"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Streamflow",
+      "hiringUrl": "https://streamflow.notion.site/Streamflow-Public-Job-Board-019665299d73485e9098087ccf5ebe7c",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://streamflow.finance",
+        "finalUrl": "https://streamflow.finance",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:32.676Z",
+        "bodySha256": "0d544eee657407b97f1e67c170130de35eb2be6488058a405d703d55f0862431"
+      },
+      "web3Signal": {
+        "url": "https://streamflow.finance",
+        "checkedAt": "2026-10-14T11:07:32.676Z",
+        "bodySha256": "0d544eee657407b97f1e67c170130de35eb2be6488058a405d703d55f0862431",
+        "quote": "Solana Token Distribution Platform | Vesting | Airdrops | Streamflow Solutions Vesting Airdrops Staking Token Locks Token Mint"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "StreamingFast",
+      "hiringUrl": "https://www.streamingfast.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.streamingfast.io/",
+        "finalUrl": "https://www.streamingfast.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:33.252Z",
+        "bodySha256": "88df0d4df5ddbb8806ebf4d575dff8ea84fb7ac5f1000c3a83c11cf758578f92"
+      },
+      "web3Signal": {
+        "url": "https://www.streamingfast.io/",
+        "checkedAt": "2026-10-14T11:07:33.252Z",
+        "bodySha256": "88df0d4df5ddbb8806ebf4d575dff8ea84fb7ac5f1000c3a83c11cf758578f92",
+        "quote": "grates Firehose and Substreams into all blockchains. Process whole networks in 5 minutes. Compose upon other people's indexes and data models permissionlessly.Get an API "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Structure",
+      "hiringUrl": "https://structure.fi/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://structure.fi",
+        "finalUrl": "https://structure.fi",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:34.057Z",
+        "bodySha256": "d5c5586b86b81ac057714ff68e8228eae6d75343228a023b3d77c5044eb31a6a"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Superform",
+      "hiringUrl": "https://careers.superform.xyz/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.superform.xyz/",
+        "finalUrl": "https://www.superform.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:34.806Z",
+        "bodySha256": "326e4287e2f925aa462a7e7f2414b4263e955a069bf96ad624761467fae3b794"
+      },
+      "web3Signal": {
+        "url": "https://www.superform.xyz/",
+        "checkedAt": "2026-10-14T11:07:34.806Z",
+        "bodySha256": "326e4287e2f925aa462a7e7f2414b4263e955a069bf96ad624761467fae3b794",
+        "quote": " a bank card, Apple Pay, Google Pay, or stablecoins.Invest and earnFig. 3Buy U.S. stocks, earn on USD, or buy Bitcoin from one account.Send to anyone anywhereFig. 4Ready w"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Sweatcoin",
+      "hiringUrl": "https://sweatcoin.teamtailor.com",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://sweatco.in",
+        "finalUrl": "https://sweatco.in",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:36.342Z",
+        "bodySha256": "61b5498c43579a50980dbab3cc79da055bf7847d2750edfc61028d4374bcd0b0"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "SZNS",
+      "hiringUrl": "https://apply.workable.com/szns",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://szns.solutions/blog/connecting-with-the-future-szns-solutions-at-uva-s-fall-career-fair",
+        "finalUrl": "https://szns.solutions/blog/connecting-with-the-future-szns-solutions-at-uva-s-fall-career-fair",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:35.788Z",
+        "bodySha256": "24e18d18aa60df6d610f8694e2b3a65c00bb17a9e22f91b21c9ed30342645f02"
+      },
+      "web3Signal": {
+        "url": "https://szns.solutions/blog/connecting-with-the-future-szns-solutions-at-uva-s-fall-career-fair",
+        "checkedAt": "2026-10-14T11:07:35.788Z",
+        "bodySha256": "24e18d18aa60df6d610f8694e2b3a65c00bb17a9e22f91b21c9ed30342645f02",
+        "quote": "terpriseCustom AI AgentsData EngineeringBlockchain & Web3Cloud DevelopmentSolutionsBlockchain ETLDocument AIRAG on GCPInteractive AISZN1 FrameworkPlatformSpringboardLegal"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Tangem",
+      "hiringUrl": "https://careers.tangem.com/",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://tangem.com/en/",
+        "finalUrl": "https://tangem.com/en/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:36.378Z",
+        "bodySha256": "f5f81cf48ac19a03d24d4616eb280795453984fa9d0b373855ed32da11a17770"
+      },
+      "web3Signal": {
+        "url": "https://tangem.com/en/",
+        "checkedAt": "2026-10-14T11:07:36.378Z",
+        "bodySha256": "f5f81cf48ac19a03d24d4616eb280795453984fa9d0b373855ed32da11a17770",
+        "quote": "ur crypto Store 14100+ tokens across 90 blockchains Tangem supports many blockchain networks. You can manage over 14,100+ assets across more than 90+ networks, including "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Temporal",
+      "hiringUrl": "https://temporal.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://temporal.xyz",
+        "finalUrl": "https://temporal.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:36.289Z",
+        "bodySha256": "bb74dceb3fadeb5b6ff87cb9a01a21b399ac1a7cd209d7ad764df3f5a1216171"
+      },
+      "web3Signal": {
+        "url": "https://temporal.xyz",
+        "checkedAt": "2026-10-14T11:07:36.289Z",
+        "bodySha256": "bb74dceb3fadeb5b6ff87cb9a01a21b399ac1a7cd209d7ad764df3f5a1216171",
+        "quote": "rch and development firm at the edge of on-chain trading, distributed systems, and cryptography. HFT engineers building production-grade infrastructure for Solana's val"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Terawulf",
+      "hiringUrl": "https://www.terawulf.com/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.terawulf.com/",
+        "finalUrl": "https://www.terawulf.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:36.557Z",
+        "bodySha256": "56b2751429baa8ea375d3485e7cc1c46d06f1e3bed700dd4268b611003202727"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Thesis",
+      "hiringUrl": "https://thesis.co/company/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://thesis.co",
+        "finalUrl": "https://thesis.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:43.345Z",
+        "bodySha256": "042bc9b2900c3d052ecfc2e62b0d0b13a6de2202934755ea56b9d3a6895ebf5e"
+      },
+      "web3Signal": {
+        "url": "https://thesis.co",
+        "checkedAt": "2026-10-14T11:07:43.345Z",
+        "bodySha256": "042bc9b2900c3d052ecfc2e62b0d0b13a6de2202934755ea56b9d3a6895ebf5e",
+        "quote": "nCompanyBlogPressContactMoney is power. Bitcoin is empowerment.Money is power.Bitcoin is empowerment.Money is power.Bitcoin is empowerment.Money is power.Bitcoin is em"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Token Terminal",
+      "hiringUrl": "https://tokenterminal.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://tokenterminal.com",
+        "finalUrl": "https://tokenterminal.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:37.321Z",
+        "bodySha256": "8c0fb308cf46f0ac0a6903b5fe718feb8dfccbeaa8a6c9ce42be99545255b842"
+      },
+      "web3Signal": {
+        "url": "https://tokenterminal.com",
+        "checkedAt": "2026-10-14T11:07:37.321Z",
+        "bodySha256": "8c0fb308cf46f0ac0a6903b5fe718feb8dfccbeaa8a6c9ce42be99545255b842",
+        "quote": "reAnnouncementToken Terminal MCP is hereBlockchain data you can understand, trust, explore and act onBlockchaindatayou canunderstandtrustexploreact onFinancial StatementE"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "TokenTax",
+      "hiringUrl": "https://apply.workable.com/tokentax",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://tokentax.co",
+        "finalUrl": "https://tokentax.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:38.241Z",
+        "bodySha256": "a5653b1b44abd141ee77799cf01577bc820240d62bc75d93c5ec8943913ebcdd"
+      },
+      "web3Signal": {
+        "url": "https://tokentax.co",
+        "checkedAt": "2026-10-14T11:07:38.241Z",
+        "bodySha256": "a5653b1b44abd141ee77799cf01577bc820240d62bc75d93c5ec8943913ebcdd",
+        "quote": ".100+ integrations (exchanges, wallets, blockchains)Read-only API & wallet connectionsAutomatic deduplication and normalizationAI-assisted transaction classificationStep "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "TomNext",
+      "hiringUrl": "https://tomnext.co/company#careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://tomnext.co",
+        "finalUrl": "https://tomnext.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:38.590Z",
+        "bodySha256": "4ac1a7618403a5afc5eff9decf0b9e1afc33a30ddd822e618c2cffa385e400e4"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Triangle",
+      "hiringUrl": "https://www.triangleplatform.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.triangleplatform.com/",
+        "finalUrl": "https://www.triangleplatform.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:39.983Z",
+        "bodySha256": "7917542713a4176f77c934277249f4efa218684303d124c2a0bd8d5163dbb042"
+      },
+      "web3Signal": {
+        "url": "https://www.triangleplatform.com/",
+        "checkedAt": "2026-10-14T11:07:39.983Z",
+        "bodySha256": "7917542713a4176f77c934277249f4efa218684303d124c2a0bd8d5163dbb042",
+        "quote": "Triangle: Bring More Users Onchain🚀 Triangle is joining Bridge! Read Our Announcement →ProductsChevron DownDocsAPI ReferenceLoginRead Our AnnouncementMen"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Triple-A",
+      "hiringUrl": "https://www.triple-a.io/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.triple-a.io/",
+        "finalUrl": "https://www.triple-a.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:39.565Z",
+        "bodySha256": "2e3253fd74dafe0591fd46f7a430a5de29e261979dcb4da676d58b242ea6651f"
+      },
+      "web3Signal": {
+        "url": "https://www.triple-a.io/",
+        "checkedAt": "2026-10-14T11:07:39.565Z",
+        "bodySha256": "2e3253fd74dafe0591fd46f7a430a5de29e261979dcb4da676d58b242ea6651f",
+        "quote": "Enterprise Stablecoin Payment Infrastructure | Triple-A Meet us at Money20/20 USA. Las Vegas, 18 - 21 October 2026GET IN TOUCHProduct AcceptC"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "TrustSwap",
+      "hiringUrl": "https://trustswap.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://trustswap.com",
+        "finalUrl": "https://trustswap.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:43.190Z",
+        "bodySha256": "93b6bb38edd8c815146a2ddea51434cf5474b28384827b6efd0db87e120771a7"
+      },
+      "web3Signal": {
+        "url": "https://trustswap.com",
+        "checkedAt": "2026-10-14T11:07:43.190Z",
+        "bodySha256": "93b6bb38edd8c815146a2ddea51434cf5474b28384827b6efd0db87e120771a7",
+        "quote": "h UsINFRASTRUCTURE · TOKEN MANAGEMENT · WEB3Token Infrastructure.Institutional Grade.Built for Web3.TrustSwap provides the infrastructure layer that token projects,"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Unchained",
+      "hiringUrl": "https://ats.rippling.com/unchained/jobs",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.unchained.com/careers",
+        "finalUrl": "https://www.unchained.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:42.449Z",
+        "bodySha256": "4c92f1a9e61fd3e3fac273a8611d4ae7df8df3b90e3943cafe6f0872d2c7f631"
+      },
+      "web3Signal": {
+        "url": "https://www.unchained.com/careers",
+        "checkedAt": "2026-10-14T11:07:42.449Z",
+        "bodySha256": "4c92f1a9e61fd3e3fac273a8611d4ae7df8df3b90e3943cafe6f0872d2c7f631",
+        "quote": "Careers at Unchained | Bitcoin Jobs and Opportunities Personal /defs> Gannett TrustThe first trust company designed for bitcoin holders, their familie"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Uneven Labs",
+      "hiringUrl": "https://careers.kula.ai/relay",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://www.unevenlabs.com/",
+        "finalUrl": "https://www.unevenlabs.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:47.871Z",
+        "bodySha256": "ba61e725cd5efcfef6bf6c03d4bef9854ab5d5d0018b0d4bbb11b2f90e9c65c9"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Valora",
+      "hiringUrl": "https://valora.xyz/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://valora.xyz",
+        "finalUrl": "https://valora.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:44.005Z",
+        "bodySha256": "e8468cc943df0c3274f32818e852754244b73a370f47f9242e70fefe74a97ef6"
+      },
+      "web3Signal": {
+        "url": "https://valora.xyz",
+        "checkedAt": "2026-10-14T11:07:44.005Z",
+        "bodySha256": "e8468cc943df0c3274f32818e852754244b73a370f47f9242e70fefe74a97ef6",
+        "quote": "n stablesEasily access and save popular stablecoins like USDT, USDC (and more) across multiple chains, in just a few taps.Send crypto like a textInstant transactions with "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Venice",
+      "hiringUrl": "https://job-boards.greenhouse.io/veniceai",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://venice.ai/careers",
+        "finalUrl": "https://venice.ai/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:46.147Z",
+        "bodySha256": "e27204d8b1e7f497100847e47345e49dac299a71a928ac54ae9fabb05a9cc955"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "VeryAI",
+      "hiringUrl": "https://very.org/jobs",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://very.org",
+        "finalUrl": "https://very.org",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:45.744Z",
+        "bodySha256": "a7122f1ffd848be4ccc765cf6dcc24ec764a7362c82728d98657cbfda63c194c"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Wallet in Telegram",
+      "hiringUrl": "https://top.co/careers?company=Walt",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://walt.io/",
+        "finalUrl": "https://walt.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:47.242Z",
+        "bodySha256": "2a7059f4d279046717cc15d0003c338426498a1d4273ca2e581cab5d995b6740"
+      },
+      "web3Signal": {
+        "url": "https://walt.io/",
+        "checkedAt": "2026-10-14T11:07:47.242Z",
+        "bodySha256": "2a7059f4d279046717cc15d0003c338426498a1d4273ca2e581cab5d995b6740",
+        "quote": " trade 200+ cryptocurrencies, including Bitcoin, USDT, Ethereum, Gram and more Invest in 100+ tokenized US Stocks and ETFs, and access IPOs before they launch Trade Pe"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Web3Auth",
+      "hiringUrl": "https://app.dover.com/jobs/web3auth",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://web3auth.io",
+        "finalUrl": "https://web3auth.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:46.310Z",
+        "bodySha256": "cdfc617c2604959e532f22599a6ebc42b95607740a7962a57735a99f583584c9"
+      },
+      "web3Signal": {
+        "url": "https://web3auth.io",
+        "checkedAt": "2026-10-14T11:07:46.310Z",
+        "bodySha256": "cdfc617c2604959e532f22599a6ebc42b95607740a7962a57735a99f583584c9",
+        "quote": "Web3Auth - Key Management SDKs with MPC and AA enabled We’re thrilled to announce that Web3Auth has been acquired by Consens"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Wert",
+      "hiringUrl": "https://wert-io.notion.site/Careers-at-Wert-3554f1e5631f425295f979ad9926a296",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://wert.io",
+        "finalUrl": "https://wert.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:49.659Z",
+        "bodySha256": "4df39e14a6bbaf7e0dbd36d8f526ab0d06ed6afb46e7d9d54851e2cbae28391f"
+      },
+      "web3Signal": {
+        "url": "https://wert.io",
+        "checkedAt": "2026-10-14T11:07:49.659Z",
+        "bodySha256": "4df39e14a6bbaf7e0dbd36d8f526ab0d06ed6afb46e7d9d54851e2cbae28391f",
+        "quote": "NFT Checkout and Fiat Onramp - Unified payment provider | Wert🇬🇧 UK residents are eligible for NFT purchases only. Expand"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "ZBD",
+      "hiringUrl": "https://zbdpay.com/careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://zbdpay.com/",
+        "finalUrl": "https://zbdpay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:56.629Z",
+        "bodySha256": "eb404e102e608356dae493eda0798a7c4282d837533e377beb198441a083f3c5"
+      },
+      "web3Signal": {
+        "url": "https://zbdpay.com/",
+        "checkedAt": "2026-10-14T11:07:56.629Z",
+        "bodySha256": "eb404e102e608356dae493eda0798a7c4282d837533e377beb198441a083f3c5",
+        "quote": "rviceCookiesConflicts of InterestPricingBitcoin on ZBDRisk WarningNMLS ID number: 2188007© 2026 ZEBEDEE, LLCAICPA | SOC2Game titles, artwork, and characters shown are "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Zellic",
+      "hiringUrl": "https://zellic-inc.notion.site/Jobs-at-Zellic-82cab8ab2be84a3b9fa443e56196fdfa",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://www.zellic.io/",
+        "finalUrl": "https://www.zellic.io/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:51.591Z",
+        "bodySha256": "62f0f29d6bdefc8c40ecf102ce20a381ccd28b8465ea3c6ae3e0b4103bfe45ab"
+      },
+      "web3Signal": {
+        "url": "https://www.zellic.io/",
+        "checkedAt": "2026-10-14T11:07:51.591Z",
+        "bodySha256": "62f0f29d6bdefc8c40ecf102ce20a381ccd28b8465ea3c6ae3e0b4103bfe45ab",
+        "quote": "ly prepared two pro-bono audits for our onchain funding mechanism, revealing a critical vulnerability and delivering a comprehensive gas usage report which we used to "
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Zone",
+      "hiringUrl": "https://zonenetwork.zohorecruit.com/jobs/Careers",
+      "status": "official-link-with-web3-signal-vacancies-unverified",
+      "ownership": {
+        "url": "https://zonenetwork.com/careers/talent-community",
+        "finalUrl": "https://zonenetwork.com/careers/talent-community",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:08:04.470Z",
+        "bodySha256": "704545bc541a69b742e6ab1a00f4f424131802ec5d20421d1dd0b98b2b21b875"
+      },
+      "web3Signal": {
+        "url": "https://zonenetwork.com/careers/talent-community",
+        "checkedAt": "2026-10-14T11:08:04.470Z",
+        "bodySha256": "704545bc541a69b742e6ab1a00f4f424131802ec5d20421d1dd0b98b2b21b875",
+        "quote": "earn MoreNewsZone, NIBSS Partner to use blockchain to record POS PaymentsAugust 20, 2024Learn MoreNewsNigerian Fintech Raises $8.5million to scale decentralised payment i"
+      },
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    },
+    {
+      "company": "Zuba",
+      "hiringUrl": "https://zuba.com/careers",
+      "status": "official-link-web3-purpose-unverified",
+      "ownership": {
+        "url": "https://zuba.com",
+        "finalUrl": "https://zuba.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:07:52.160Z",
+        "bodySha256": "e72c3c7531cb8318ba086d3cb65985aac70b7432154969d3d4e974d38345956b"
+      },
+      "web3Signal": null,
+      "eligibleJobs": null,
+      "reason": "Official outbound matched, but current Web3 employer scope, original vacancy dates, exact application forms and adapter support are not all established. Retained as a discovery lead, not counted as configured or fresh hiring."
+    }
+  ]
+}

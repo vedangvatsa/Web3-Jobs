@@ -1,0 +1,1520 @@
+[
+  {
+    "company": "Coinmotion",
+    "website": "https://www.coinmotion.com/",
+    "country": "Finland",
+    "countryRelationship": "operating-market",
+    "provider": "teamtailor",
+    "board": "careers.coinmotion.com",
+    "boardUrl": "https://careers.coinmotion.com/",
+    "officialCareersUrl": "https://www.coinmotion.com/careers/",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://www.coinmotion.com/careers/",
+      "finalUrl": "https://careers.coinmotion.com/",
+      "checkedAt": "2026-10-14T10:47:15.369Z",
+      "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6",
+      "linkedUrl": "https://careers.coinmotion.com/",
+      "quote": "HTTP redirect to https://careers.coinmotion.com/",
+      "kind": "redirect"
+    },
+    "geography": {
+      "url": "https://www.coinmotion.com/careers/",
+      "checkedAt": "2026-10-14T10:47:15.369Z",
+      "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6",
+      "quote": " Nordics and one of Finland's fastest-growing financial technology companies. We're revolutionizing the cryptocurrency industry by providing an ever-expandin"
+    },
+    "web3": {
+      "url": "https://www.coinmotion.com/careers/",
+      "checkedAt": "2026-10-14T10:47:15.369Z",
+      "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6",
+      "quote": " region focusing on cryptocurrency exchange, custody, and asset management. Our goal is to make investing in cryptocurrencies easy and secure. We have +150,000 customers, and the cus"
+    },
+    "note": "No matching jobs on official board; empty RSS confirmed. Connect is not a vacancy."
+  },
+  {
+    "company": "PDAX",
+    "website": "https://pdax.ph/",
+    "country": "Philippines",
+    "countryRelationship": "operating-market",
+    "provider": "darwinbox",
+    "board": "pdax.darwinbox.com",
+    "boardUrl": "https://pdax.darwinbox.com/ms/candidate/careers",
+    "officialCareersUrl": "https://pdax.ph/careers/",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://pdax.ph/careers/",
+      "finalUrl": "https://pdax.ph/careers/",
+      "checkedAt": "2026-10-14T10:47:19.419Z",
+      "bodySha256": "c376a71bb6ec76fe476b42ef8b1d3421f771669e8033664087c3bc08ef8d2ba9",
+      "linkedUrl": "https://pdax.darwinbox.com/ms/candidate/careers",
+      "quote": "https://pdax.darwinbox.com/ms/candidate/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://pdax.ph/careers/",
+      "checkedAt": "2026-10-14T10:47:19.419Z",
+      "bodySha256": "c376a71bb6ec76fe476b42ef8b1d3421f771669e8033664087c3bc08ef8d2ba9",
+      "quote": "igital finance more accessible for Filipinos. Join a capable and collaborative team working on real tools with real impact. If you’re a problem-solver who values clear outcom"
+    },
+    "web3": {
+      "url": "https://pdax.ph/careers/",
+      "checkedAt": "2026-10-14T10:47:19.419Z",
+      "bodySha256": "c376a71bb6ec76fe476b42ef8b1d3421f771669e8033664087c3bc08ef8d2ba9",
+      "quote": "ure and easy-to-use access to cryptocurrencies, tokenized bonds, and other digital assets.Regulated by the Bangko Sentral ng Pilipinas (BSP), PDAX offers a safe, accessible env"
+    },
+    "note": "Official Darwinbox board is a client-rendered shell. Original vacancy dates not verified."
+  },
+  {
+    "company": "Foxbit",
+    "website": "https://foxbit.com.br/",
+    "country": "Brazil",
+    "countryRelationship": "office",
+    "provider": "inhire",
+    "board": "foxbit.com.br",
+    "boardUrl": "https://foxbit.com.br/carreira",
+    "officialCareersUrl": "https://foxbit.com.br/carreira",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://foxbit.com.br/carreira",
+      "finalUrl": "https://foxbit.com.br/carreira",
+      "checkedAt": "2026-10-14T10:47:20.728Z",
+      "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d",
+      "linkedUrl": "https://foxbit.inhire.app/vagas/ff843ab1-bc8e-44da-9dec-32230f9e1a0c/analista-de-compliance-pleno-or-cambio-e-pldft",
+      "quote": "https://foxbit.inhire.app/vagas/ff843ab1-bc8e-44da-9dec-32230f9e1a0c/analista-de-compliance-pleno-or-cambio-e-pldft",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://foxbit.com.br/carreira",
+      "checkedAt": "2026-10-14T10:47:20.728Z",
+      "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d",
+      "quote": "s, 2561, Vila Yara, Osasco — SP, 06090-020, Brasil. Compliance e legislação aplicável · Taxas e limites. © 2026 Foxbit. Todos os direitos reservados. Termos de uso Política de priv"
+    },
+    "web3": {
+      "url": "https://foxbit.com.br/carreira",
+      "checkedAt": "2026-10-14T10:47:20.728Z",
+      "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d",
+      "quote": "mpra e venda Cripto Dólar digital e Stablecoins Earn cripto Tokens RWA — Real World Assets Foxbit Card Carteiras Inteligentes PF Compra Recorrente (DCA) Conversão / Swap Foxbit "
+    },
+    "note": "Official careers page and InHire outbound verified. SRE card links to # and is not an application. No original-date adapter."
+  },
+  {
+    "company": "Finoa",
+    "website": "https://www.finoa.io/",
+    "country": "Germany",
+    "countryRelationship": "registered-office",
+    "provider": "personio",
+    "board": "finoa.jobs.personio.com",
+    "boardUrl": "https://finoa.jobs.personio.com/",
+    "officialCareersUrl": "https://www.finoa.io/careers",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://www.finoa.io/careers",
+      "finalUrl": "https://www.finoa.io/careers",
+      "checkedAt": "2026-10-14T10:47:20.967Z",
+      "bodySha256": "3600e3b48cdef819ca827dda92e9de4d0bf5cd892ea387ce36e6de076057a42e",
+      "linkedUrl": "https://finoa.jobs.personio.com/",
+      "quote": "https://finoa.jobs.personio.com/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.finoa.io/imprint",
+      "checkedAt": "2026-10-14T10:42:16.547Z",
+      "bodySha256": "2d4dbf4fb0dc8a287354ab04af1cc2ae6a675eacf3faf9cc3cf71424d00dc307",
+      "quote": "HVoltastraße 114482 PotsdamGermanyHow to reach us: via email at contact@finoa.io or via the contact formHomepage: www.finoa.io Authorized RepresentativesChristopher"
+    },
+    "web3": {
+      "url": "https://www.finoa.io/careers",
+      "checkedAt": "2026-10-14T10:47:20.967Z",
+      "bodySha256": "3600e3b48cdef819ca827dda92e9de4d0bf5cd892ea387ce36e6de076057a42e",
+      "quote": " next generation of blockchain infrastructure, explore our open positions and help us build the future, together.See open positionsThis is FinoaWe are built around the idea th"
+    },
+    "note": "Five Personio listings observed, but original dates and applications not verified. Current homepage describes technology infrastructure, not a licensed CASP."
+  },
+  {
+    "company": "Taurus",
+    "website": "https://www.taurushq.com/",
+    "country": "Switzerland",
+    "countryRelationship": "regulated-market",
+    "provider": "join",
+    "board": "join.com",
+    "boardUrl": "https://join.com/companies/taurusgroup",
+    "officialCareersUrl": "https://www.taurushq.com/careers/",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://www.taurushq.com/careers/",
+      "finalUrl": "https://www.taurushq.com/careers/",
+      "checkedAt": "2026-10-14T10:47:22.114Z",
+      "bodySha256": "d936cd7bc043923d8c25afb837b72492d7e9c34ddadb5d79f16a8b304c8e17a5",
+      "linkedUrl": "https://join.com/companies/taurusgroup",
+      "quote": "https://join.com/companies/taurusgroup",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.taurushq.com/careers/",
+      "checkedAt": "2026-10-14T10:47:22.114Z",
+      "bodySha256": "d936cd7bc043923d8c25afb837b72492d7e9c34ddadb5d79f16a8b304c8e17a5",
+      "quote": "its services by the Swiss Financial Market Supervisory Authority (FINMA) and a member of esisuisse. Taurus (Europe) Ltd is duly authorized and regulated to provide its services by the Cyprus Sec"
+    },
+    "web3": {
+      "url": "https://www.taurushq.com/careers/",
+      "checkedAt": "2026-10-14T10:47:22.114Z",
+      "bodySha256": "d936cd7bc043923d8c25afb837b72492d7e9c34ddadb5d79f16a8b304c8e17a5",
+      "quote": "xchanges→ Use cases Cryptocurrencies→ Tokenized assets→ Stablecoins→ Connectivity Swift ledger→ The Taurus difference Why Taurus→ Company About us→ Leadership→ Cultur"
+    },
+    "note": "Four JOIN listings observed; no original-date/application adapter. Swiss market does not label Cyprus vacancies as Swiss."
+  },
+  {
+    "company": "XREX",
+    "website": "https://xrex.io/",
+    "country": "Taiwan",
+    "countryRelationship": "operating-market",
+    "provider": "breezy",
+    "board": "xrex",
+    "boardUrl": "https://xrex.breezy.hr/",
+    "officialCareersUrl": "https://xrex.io/careers",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://xrex.io/careers",
+      "finalUrl": "https://xrex.io/careers",
+      "checkedAt": "2026-10-14T10:47:23.117Z",
+      "bodySha256": "f385d48e9b6bda2244f4f4a0ef884011d2b4662b6c93489a1e94614b763c3ad9",
+      "linkedUrl": "https://xrex.breezy.hr/",
+      "quote": "https://xrex.breezy.hr/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+      "checkedAt": "2026-10-14T10:47:26.609Z",
+      "bodySha256": "01fcb62d7daea3983eb527d6d101a423c9a88adea340ebef6e0564db1a796470",
+      "quote": "et Service Provider (VASP) in Taiwan. Responsibilities: This role is expected to support and assist matters below.Perform Corporation KYC process in accordance with c"
+    },
+    "web3": {
+      "url": "https://xrex.breezy.hr/",
+      "checkedAt": "2026-10-14T10:47:23.735Z",
+      "bodySha256": "7d32febc13b49d539d278d06c417dc1937f45e0988bd29849fa9c7f3ccad10ac",
+      "quote": "oss-border payment, fiat-crypto conversion, cryptocurrency exchange, asset management, and fiat currency on-off ramps. Sharing the social responsibility of financial inclus"
+    },
+    "note": "Official Next.js careers redirect points to Breezy. Primary dates, not API update dates, determine eligibility."
+  },
+  {
+    "company": "Finst",
+    "website": "https://finst.com/en",
+    "country": "Netherlands",
+    "countryRelationship": "headquarters",
+    "provider": "welcomekit",
+    "board": "finst.welcomekit.co",
+    "boardUrl": "https://finst.welcomekit.co/",
+    "officialCareersUrl": "https://finst.com/en",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://finst.com/en",
+      "finalUrl": "https://finst.com/en",
+      "checkedAt": "2026-10-14T10:47:28.739Z",
+      "bodySha256": "bc9f0faed6af640f8e5e4186c49b36401b482036f63185becda6ec50911ff24e",
+      "linkedUrl": "https://finst.welcomekit.co/",
+      "quote": "https://finst.welcomekit.co/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://finst.com/en",
+      "checkedAt": "2026-10-14T10:47:28.739Z",
+      "bodySha256": "bc9f0faed6af640f8e5e4186c49b36401b482036f63185becda6ec50911ff24e",
+      "quote": " to lose. Regulated Headquartered in The Netherlands and authorized as a crypto-asset service provider by the Dutch Authority for the Financial Markets (AFM). Secure Your assets are "
+    },
+    "web3": {
+      "url": "https://finst.com/en",
+      "checkedAt": "2026-10-14T10:47:28.739Z",
+      "bodySha256": "bc9f0faed6af640f8e5e4186c49b36401b482036f63185becda6ec50911ff24e",
+      "quote": "Finst | Buy & sell 400 crypto with ultra-low fees on a trusted platform Sign up and receive 20€ in trading fees! Valid until 31/10. Crypto Buy Buy Bitcoin Buy "
+    },
+    "note": "Board explicitly reports no job openings. Spontaneous application excluded."
+  },
+  {
+    "company": "Breet",
+    "website": "https://breet.io/",
+    "country": "Nigeria",
+    "countryRelationship": "operating-market",
+    "provider": "zoho",
+    "board": "breet.io",
+    "boardUrl": "https://breet.io/career",
+    "officialCareersUrl": "https://breet.io/career",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://breet.io/career",
+      "finalUrl": "https://breet.io/career",
+      "checkedAt": "2026-10-14T10:47:32.553Z",
+      "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b",
+      "linkedUrl": "https://breetapp.zohorecruit.com/jobs/Careers",
+      "quote": "https://breetapp.zohorecruit.com/jobs/Careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://breet.io/career",
+      "checkedAt": "2026-10-14T10:47:32.553Z",
+      "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b",
+      "quote": "0354. Breet is also operated in Nigeria by InBreetic Technologies Limited (RC 6934159), a financial technology company – not a bank, broker, or investment adviser. InBreetic Technolo"
+    },
+    "web3": {
+      "url": "https://breet.io/career",
+      "checkedAt": "2026-10-14T10:47:32.553Z",
+      "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b",
+      "quote": "ster / LoginProductsSell CryptoSwap CryptoCrypto GiftsBill PaymentsVIP DeskBuy CryptoCrypto CardsBusiness InvoiceMarket InsightsResourcesCrypto Rate CalculatorBreet Academy"
+    },
+    "note": "Official careers source monitored. Linked Zoho board GET timed out; no claim of verified active vacancies."
+  },
+  {
+    "company": "Bit2Me",
+    "website": "https://bit2me.com/",
+    "country": "Spain",
+    "countryRelationship": "operating-market",
+    "provider": "bizneo",
+    "board": "empleo.bit2me.com",
+    "boardUrl": "https://empleo.bit2me.com/jobs",
+    "officialCareersUrl": "https://bit2me.com/",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://bit2me.com/",
+      "finalUrl": "https://bit2me.com/",
+      "checkedAt": "2026-10-14T10:47:32.956Z",
+      "bodySha256": "af89f3e2cece25eb5e068dcbc08af5c3690e27dcbeacb3b506987443696aef24",
+      "linkedUrl": "https://empleo.bit2me.com/jobs",
+      "quote": "https://empleo.bit2me.com/jobs",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bit2me.com/",
+      "checkedAt": "2026-10-14T10:47:32.956Z",
+      "bodySha256": "af89f3e2cece25eb5e068dcbc08af5c3690e27dcbeacb3b506987443696aef24",
+      "quote": "(Tax ID B54835301), operating since 2015 in Spain (Europe) and protecting our customers and the funds provided with special accounts from our partners (Bit2Me's legal department),"
+    },
+    "web3": {
+      "url": "https://bit2me.com/",
+      "checkedAt": "2026-10-14T10:47:32.956Z",
+      "bodySha256": "af89f3e2cece25eb5e068dcbc08af5c3690e27dcbeacb3b506987443696aef24",
+      "quote": "Buy and Sell cryptocurrencies in Seconds | Bit2MeSkip to main contentSkip to footerMarketsLearnProductsBusinessSecurityB2M TokenAbout UsAccess Bit2MeLoginSign "
+    },
+    "note": "Custom-domain Bizneo board. Only original JobPosting dates and exact-job GET forms can qualify."
+  },
+  {
+    "company": "HoneyCoin",
+    "website": "https://honeycoin.app/",
+    "country": "Kenya",
+    "countryRelationship": "office",
+    "provider": "hibob",
+    "board": "honeycoin.careers.hibob.com",
+    "boardUrl": "https://honeycoin.careers.hibob.com/",
+    "officialCareersUrl": "https://honeycoin.app/",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://honeycoin.app/",
+      "finalUrl": "https://honeycoin.app/",
+      "checkedAt": "2026-10-14T10:47:37.849Z",
+      "bodySha256": "70b72422f65f59f11d2f4e5451888c975bb3866297c62b75d9ccf93c71f64793",
+      "linkedUrl": "https://honeycoin.careers.hibob.com/",
+      "quote": "https://honeycoin.careers.hibob.com/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://honeycoin.app/",
+      "checkedAt": "2026-10-14T10:47:37.849Z",
+      "bodySha256": "70b72422f65f59f11d2f4e5451888c975bb3866297c62b75d9ccf93c71f64793",
+      "quote": "2NX, United Kingdom Nairobi, Kenya 🇰🇪 Quicknode Technologies Ltd [email protected] Riverside Drive, Nairobi, Kenya Middletown, DE, USA 🇺🇸 Honeycoin Inc [email p"
+    },
+    "web3": {
+      "url": "https://honeycoin.app/",
+      "checkedAt": "2026-10-14T10:47:37.849Z",
+      "bodySha256": "70b72422f65f59f11d2f4e5451888c975bb3866297c62b75d9ccf93c71f64793",
+      "quote": " up to $5M per day. Trade between USD, stablecoins, and local currencies with fast settlement and transparent rates. Explore OTC Desk Settle trades in USD, USDT, or local currency "
+    },
+    "note": "Official site lists a Nairobi office. HiBob shell does not establish active vacancies or original dates."
+  },
+  {
+    "company": "Dunamu",
+    "website": "https://www.dunamu.com/",
+    "country": "South Korea",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "careers.dunamu.com",
+    "boardUrl": "https://careers.dunamu.com/",
+    "officialCareersUrl": "https://www.dunamu.com/careers/jobs",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://www.dunamu.com/careers/jobs",
+      "finalUrl": "https://www.dunamu.com/careers/jobs",
+      "checkedAt": "2026-10-14T10:47:39.829Z",
+      "bodySha256": "0742a6f2200970c2c4a1adbf85021f5910b2e129046f94259afc5140f157ad78",
+      "linkedUrl": "https://careers.dunamu.com/",
+      "quote": "https://careers.dunamu.com/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.dunamu.com/careers/jobs",
+      "checkedAt": "2026-10-14T10:47:39.829Z",
+      "bodySha256": "0742a6f2200970c2c4a1adbf85021f5910b2e129046f94259afc5140f157ad78",
+      "quote": "두나무 주식회사 | 대표 오경석 | 서울특별시 서초구 강남대로 369, 15층 | 사업자등록번호 119-86-54968Copyright 2026 Dunamu Inc. All rights reserved."
+    },
+    "web3": {
+      "url": "https://www.dunamu.com/",
+      "checkedAt": "2026-10-14T10:43:03.482Z",
+      "bodySha256": "20e75152f0488b87780068741280159909fc529e076462a9cc364d6f0983c8e5",
+      "quote": "두나무 소개 바로가기안전하고 투명한 블록체인 서비스를 제공합니다국내 최대 디지털 자산 거래소를 시작으로 안전하고 투명한 글로벌 표준 거래 환경을 만듭니다.더 쉽고 똑똑하게 투자를 돕는 증권 서비스를 제공합니다한국, 미국 주식부터 비상장 주식까지 다양한 정보와 편의성으로 새로운 투자 기준을 제시합"
+    },
+    "note": "Seoul office (native Korean evidence). Upbit operator also has securities products. Talent pools excluded; no job-date adapter."
+  },
+  {
+    "company": "21bitcoin",
+    "website": "https://21bitcoin.app",
+    "country": "Austria",
+    "countryRelationship": "registered-office",
+    "provider": "first-party",
+    "board": "21bitcoin.app",
+    "boardUrl": "https://21bitcoin.app/karriere",
+    "officialCareersUrl": "https://21bitcoin.app",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://21bitcoin.app",
+      "finalUrl": "https://21bitcoin.app",
+      "checkedAt": "2026-10-14T11:05:12.908Z",
+      "bodySha256": "8dec187cd7c35bc337ec12dfbfb541a7b275e90b1515024164162deb46d3c161",
+      "linkedUrl": "https://21bitcoin.app/karriere",
+      "quote": "https://21bitcoin.app/karriere",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://21bitcoin.app/impressum",
+      "checkedAt": "2026-10-14T11:07:40.034Z",
+      "bodySha256": "c1eb914e79b32a5ce1603d6e4df539f1851fe4d1d3ffd88be31acbb4592950ac",
+      "quote": "al GmbH.FIOR Digital GmbHRottweg 665020 Salzburg | ÖsterreichFirmenbuchnummer: 556789hFirmenbuchgericht: Landesgericht SalzburgUID: ATU76929479‍GeschäftsführungG"
+    },
+    "web3": {
+      "url": "https://21bitcoin.app",
+      "checkedAt": "2026-10-14T11:05:12.908Z",
+      "bodySha256": "8dec187cd7c35bc337ec12dfbfb541a7b275e90b1515024164162deb46d3c161",
+      "quote": "21bitcoin | Bitcoin verstehen, sicher kaufen & selbst verwahren 🆕 Bitcoin Bonus: 1,21% p.a. auf dein Euro-Gu"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Aquanow",
+    "website": "https://aquanow.io",
+    "country": "Canada",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "www.aquanow.com",
+    "boardUrl": "https://www.aquanow.com/careers",
+    "officialCareersUrl": "https://aquanow.io",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://aquanow.io",
+      "finalUrl": "https://www.aquanow.com/",
+      "checkedAt": "2026-10-14T11:05:27.224Z",
+      "bodySha256": "7bef4c2deca1d51d4a004ac8189cf9aeab708646d148bef6bce448dd9a61594f",
+      "linkedUrl": "https://www.aquanow.com/careers",
+      "quote": "https://www.aquanow.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.aquanow.com/legal/website-terms-of-service",
+      "checkedAt": "2026-10-14T11:11:08.687Z",
+      "bodySha256": "732b655a4dc34a16a6798b552fee2f13494ff7251f8ced155c5804d628287017",
+      "quote": " Ltd.1095 West Pender Street, Suite 1400Vancouver, British Columbia, CanadaV6E 2M613.3 Waiver of Class Action and Jury Trial. You hereby waive and agree to waive any right you ma"
+    },
+    "web3": {
+      "url": "https://aquanow.io",
+      "checkedAt": "2026-10-14T11:05:27.224Z",
+      "bodySha256": "7bef4c2deca1d51d4a004ac8189cf9aeab708646d148bef6bce448dd9a61594f",
+      "quote": "Aquanow | Digital Asset Infrastructure for Institutions We use cookies to improve your experience. Accept to continue or ad"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "BISON",
+    "website": "https://bisonapp.com",
+    "country": "Germany",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "bisonapp.com",
+    "boardUrl": "https://bisonapp.com/karriere/",
+    "officialCareersUrl": "https://bisonapp.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://bisonapp.com",
+      "finalUrl": "https://bisonapp.com",
+      "checkedAt": "2026-10-14T11:05:31.152Z",
+      "bodySha256": "61f53791369361968332879205256f9cb452b3c8fe0b2fb2acd0b1df1befb952",
+      "linkedUrl": "https://bisonapp.com/karriere/",
+      "quote": "https://bisonapp.com/karriere/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bisonapp.com",
+      "checkedAt": "2026-10-14T11:05:31.152Z",
+      "bodySha256": "61f53791369361968332879205256f9cb452b3c8fe0b2fb2acd0b1df1befb952",
+      "quote": "ISON is powered by Börsenstraße 4 70174 Stuttgart Deutschland Folge uns! X - Twitter Facebook Instagram Youtube Wissenswertes BISON SelectAffiliate-ProgrammFreun"
+    },
+    "web3": {
+      "url": "https://bisonapp.com",
+      "checkedAt": "2026-10-14T11:05:31.152Z",
+      "bodySha256": "61f53791369361968332879205256f9cb452b3c8fe0b2fb2acd0b1df1befb952",
+      "quote": "Kryptowährungen kaufen & verkaufen mit der BISON App - BISON App Zum Inhalt springen Krypto Meistgehandelt Kurswert"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "bitbank",
+    "website": "https://bitbank.cc",
+    "country": "Japan",
+    "countryRelationship": "regulated-market",
+    "provider": "hrmos",
+    "board": "hrmos.co",
+    "boardUrl": "https://hrmos.co/pages/bitbank/jobs",
+    "officialCareersUrl": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+      "finalUrl": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+      "checkedAt": "2026-10-14T11:05:32.712Z",
+      "bodySha256": "5a4d8a5844025d786610ef1b1be6308850ac64f67d5bbddf005a31a7ac3f73f1",
+      "linkedUrl": "https://hrmos.co/pages/bitbank/jobs",
+      "quote": "https://hrmos.co/pages/bitbank/jobs",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bitbank.cc",
+      "checkedAt": "2026-10-14T11:05:32.074Z",
+      "bodySha256": "4a964f1e06b12012d6a649e530fd59101dfa97724c5fa2d1455deac3f93078dd",
+      "quote": "、事業法人のニーズに合わせて各種サービスをご用意いたします。くわしく見る 当社は日本の関東財務局登録済の暗号資産（仮想通貨）取引所です（暗号資産交換業者登録番号 第00004号）。 金融庁のホームページに記載された暗号資産交換業者が取り扱う暗号資産（仮想通貨）は、当該暗号資産交換業者の説明に基づ"
+    },
+    "web3": {
+      "url": "https://bitbank.cc",
+      "checkedAt": "2026-10-14T11:05:32.074Z",
+      "bodySha256": "4a964f1e06b12012d6a649e530fd59101dfa97724c5fa2d1455deac3f93078dd",
+      "quote": "ビットバンク(bitbank) | ビットコインが購入できる暗号資産(仮想通貨)取引所 close サービス 取引所現物取引信用取引販売所販売所かせぐ貸して増やすステーキングその他クレジットカードビットバンクプラス事業法人向けサービス はじめての方 口座開設の流れ入金"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Bitcoin Suisse",
+    "website": "https://bitcoinsuisse.com",
+    "country": "Switzerland",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "bitcoinsuisse.com",
+    "boardUrl": "https://bitcoinsuisse.com/careers",
+    "officialCareersUrl": "https://bitcoinsuisse.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://bitcoinsuisse.com",
+      "finalUrl": "https://bitcoinsuisse.com",
+      "checkedAt": "2026-10-14T11:05:33.205Z",
+      "bodySha256": "8bcc328e8cf683aa5c4d0cf3f3829663e013f098c77b5a79c523b70c72f2de52",
+      "linkedUrl": "https://bitcoinsuisse.com/careers",
+      "quote": "https://bitcoinsuisse.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bitcoinsuisse.com/careers",
+      "checkedAt": "2026-10-14T11:05:32.577Z",
+      "bodySha256": "22907a2650ad30074af3b6060b3cdfdbdf93b51e5abbda228447c72039b7614d",
+      "quote": "itcoin Suisse AG Theilerstrasse 1a 6300 Zug SwitzerlandOur ServicesFor IndividualsFor CorporationsFor Financial Service ProvidersFor Crypto Foundations & F"
+    },
+    "web3": {
+      "url": "https://bitcoinsuisse.com",
+      "checkedAt": "2026-10-14T11:05:33.205Z",
+      "bodySha256": "8bcc328e8cf683aa5c4d0cf3f3829663e013f098c77b5a79c523b70c72f2de52",
+      "quote": " BetterWe are the leading Swiss premium crypto finance service provider, founded, built and run by industry natives. Experience profound sector-specific e"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Bitmama",
+    "website": "https://bitmama.io",
+    "country": "Nigeria",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "bitmama.io",
+    "boardUrl": "https://bitmama.io/career/",
+    "officialCareersUrl": "https://bitmama.io",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://bitmama.io",
+      "finalUrl": "https://bitmama.io",
+      "checkedAt": "2026-10-14T11:05:35.075Z",
+      "bodySha256": "c0ebe69f00a37b93fbcae590ecede1cb987a3f25156e8cbe7d50d5bd0d986344",
+      "linkedUrl": "https://bitmama.io/career/",
+      "quote": "https://bitmama.io/career/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bitmama.io",
+      "checkedAt": "2026-10-14T11:05:35.075Z",
+      "bodySha256": "c0ebe69f00a37b93fbcae590ecede1cb987a3f25156e8cbe7d50d5bd0d986344",
+      "quote": " Airtime & DataResourcesBlogBuy GloballyBuy Bitcoin in NigeriaBuy Bitcoin in GhanaBuy Bitcoin in KenyaDid you know you can do more with crypto while on the go? Ge"
+    },
+    "web3": {
+      "url": "https://bitmama.io",
+      "checkedAt": "2026-10-14T11:05:35.075Z",
+      "bodySha256": "c0ebe69f00a37b93fbcae590ecede1cb987a3f25156e8cbe7d50d5bd0d986344",
+      "quote": "T), Celo, Lisk, Stellar, USDC and other cryptocurrencies at the best rates.Get crypto cards, make payments in crypto, send and receive fiat and crypto globa"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Bitnovo",
+    "website": "https://bitnovo.com",
+    "country": "Spain",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "www.bitnovo.com",
+    "boardUrl": "https://www.bitnovo.com/careers",
+    "officialCareersUrl": "https://bitnovo.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://bitnovo.com",
+      "finalUrl": "https://www.bitnovo.com/",
+      "checkedAt": "2026-10-14T11:05:59.971Z",
+      "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8",
+      "linkedUrl": "https://www.bitnovo.com/careers",
+      "quote": "https://www.bitnovo.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://bitnovo.com",
+      "checkedAt": "2026-10-14T11:05:59.971Z",
+      "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8",
+      "quote": "Compra y vende criptomonedas en España con las mejores comisiones - BitnovoParticularesComprar CriptomonedasCompra criptomonedas con difer"
+    },
+    "web3": {
+      "url": "https://bitnovo.com",
+      "checkedAt": "2026-10-14T11:05:59.971Z",
+      "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8",
+      "quote": "Compra y vende criptomonedas en España con las mejores comisiones - BitnovoParticularesComprar CriptomonedasCompra criptomonedas"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Cashlink",
+    "website": "https://cashlink.de",
+    "country": "Germany",
+    "countryRelationship": "registered-office",
+    "provider": "first-party",
+    "board": "cashlink.de",
+    "boardUrl": "https://cashlink.de/de/jobs/",
+    "officialCareersUrl": "https://cashlink.de",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://cashlink.de",
+      "finalUrl": "https://cashlink.de/de/",
+      "checkedAt": "2026-10-14T11:05:59.216Z",
+      "bodySha256": "7da243295325e75c60371542ec16aeb5e18be3a368ce4ae74ac927c98fdd1977",
+      "linkedUrl": "https://cashlink.de/de/jobs/",
+      "quote": "https://cashlink.de/de/jobs/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://cashlink.de/en/imprint/",
+      "checkedAt": "2026-10-14T11:07:53.973Z",
+      "bodySha256": "bcef01b50bd056dddf37efc18e9427be942f2bfe7eef927568936ece409f291f",
+      "quote": "hnologies GmbHWiesenhüttenplatz 2560329 Frankfurt am MainGermanyMail: info@cashlink.deDieses Impressum gilt auch für folgende Social Media Auftritte:LinkedinDie Cas"
+    },
+    "web3": {
+      "url": "https://cashlink.de",
+      "checkedAt": "2026-10-14T11:05:59.216Z",
+      "bodySha256": "7da243295325e75c60371542ec16aeb5e18be3a368ce4ae74ac927c98fdd1977",
+      "quote": "rten WertpapierenKryptowertpapiereAsset TokenisierungDLT Pilot RegimeStructured Retail ProductsAlternative Assets für VermögensverwalterKostenersparnis T"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Change",
+    "website": "https://changeinvest.com",
+    "country": "Estonia",
+    "countryRelationship": "relocation-option",
+    "provider": "teamtailor",
+    "board": "careers.changeinvest.com",
+    "boardUrl": "https://careers.changeinvest.com",
+    "officialCareersUrl": "https://changeinvest.com",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://changeinvest.com",
+      "finalUrl": "https://www.changeinvest.com/",
+      "checkedAt": "2026-10-14T11:05:56.768Z",
+      "bodySha256": "072b13e8e1e1f4b691e2a246f4cecf0e8be746fc656ce53b6c56119d7d841b8b",
+      "linkedUrl": "https://careers.changeinvest.com",
+      "quote": "https://careers.changeinvest.com",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://careers.changeinvest.com",
+      "checkedAt": "2026-10-14T11:05:56.271Z",
+      "bodySha256": "a2dff124e7e1807201700eeee8a1ed3f8e27c107276ce513df5866ac104aa0b6",
+      "quote": "ancial coverage for obtaining visas and relocating you to Estonia. Paid sick days and extra vacation days Fully paid additional vacation days and sick days for your "
+    },
+    "web3": {
+      "url": "https://changeinvest.com",
+      "checkedAt": "2026-10-14T11:05:56.768Z",
+      "bodySha256": "072b13e8e1e1f4b691e2a246f4cecf0e8be746fc656ce53b6c56119d7d841b8b",
+      "quote": "load the appWhat we offerBitcoinEthereumCryptocurrenciesStocks, ETFs & IndicesForexMetaTrader 5PricingCryptoStocks, ETFs & IndicesPricingAboutCareersContact"
+    },
+    "note": "Homepage states Based in Amsterdam; Estonia is a supported relocation/office association, not verified current headquarters. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "CoinCash",
+    "website": "https://coincash.eu",
+    "country": "Hungary",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "coincash.eu",
+    "boardUrl": "https://coincash.eu/career",
+    "officialCareersUrl": "https://coincash.eu/career",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://coincash.eu/career",
+      "finalUrl": "https://coincash.eu/career",
+      "checkedAt": "2026-10-14T11:05:54.974Z",
+      "bodySha256": "d0fa273b95baf309b11202b15a1e8b5668f5adf536806c6a7782a7bc97bd2b39",
+      "linkedUrl": "https://coincash.eu/career",
+      "quote": "https://coincash.eu/career",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://coincash.eu/career",
+      "checkedAt": "2026-10-14T11:05:54.974Z",
+      "bodySha256": "d0fa273b95baf309b11202b15a1e8b5668f5adf536806c6a7782a7bc97bd2b39",
+      "quote": "tion careers Work with us coincash is a Hungarian crypto-asset service provider operating since 2017. We provide crypto exchange services and operate a Bitcoin ATM network. We hav"
+    },
+    "web3": {
+      "url": "https://coincash.eu/career",
+      "checkedAt": "2026-10-14T11:05:54.974Z",
+      "bodySha256": "d0fa273b95baf309b11202b15a1e8b5668f5adf536806c6a7782a7bc97bd2b39",
+      "quote": "ovider operating since 2017. We provide crypto exchange services and operate a Bitcoin ATM network. We have no open positions at the moment. apply Tell us "
+    },
+    "note": "Careers page explicitly reports no open positions; general applications excluded. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "CoinCorner",
+    "website": "https://coincorner.com",
+    "country": "Isle of Man",
+    "countryRelationship": "registered-office",
+    "provider": "first-party",
+    "board": "www.coincorner.com",
+    "boardUrl": "https://www.coincorner.com/jobs",
+    "officialCareersUrl": "https://coincorner.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://coincorner.com",
+      "finalUrl": "https://www.coincorner.com/",
+      "checkedAt": "2026-10-14T11:05:57.584Z",
+      "bodySha256": "a1c3792529d80baae7d311c7609892bc22fba19560a3882f81f7382a6c9d997c",
+      "linkedUrl": "https://www.coincorner.com/jobs",
+      "quote": "https://www.coincorner.com/jobs",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://coincorner.com",
+      "checkedAt": "2026-10-14T11:05:57.584Z",
+      "bodySha256": "a1c3792529d80baae7d311c7609892bc22fba19560a3882f81f7382a6c9d997c",
+      "quote": "Ltd (129003C), 18c Carrs Lane, Tromode, Douglas, Isle of Man, IM4 4RG is registered with the Isle of Man Financial Services Authority under the Designated Busin"
+    },
+    "web3": {
+      "url": "https://coincorner.com",
+      "checkedAt": "2026-10-14T11:05:57.584Z",
+      "bodySha256": "a1c3792529d80baae7d311c7609892bc22fba19560a3882f81f7382a6c9d997c",
+      "quote": "Buy, sell, send, receive and store Bitcoin (BTC) | CoinCorner This site uses cookies 🍪 We collect cookies (unfortunately, not ones you can ea"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Coinext",
+    "website": "https://coinext.com.br",
+    "country": "Brazil",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "coinext.com.br",
+    "boardUrl": "https://coinext.com.br/institucional/vagas",
+    "officialCareersUrl": "https://coinext.com.br",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://coinext.com.br",
+      "finalUrl": "https://coinext.com.br",
+      "checkedAt": "2026-10-14T11:05:54.506Z",
+      "bodySha256": "c4b56d900e78bfc5abb16384c74e8b9afeb7144e3deb4798b6c0a7042e498f74",
+      "linkedUrl": "https://coinext.com.br/institucional/vagas",
+      "quote": "https://coinext.com.br/institucional/vagas",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://coinext.com.br",
+      "checkedAt": "2026-10-14T11:05:54.506Z",
+      "bodySha256": "c4b56d900e78bfc5abb16384c74e8b9afeb7144e3deb4798b6c0a7042e498f74",
+      "quote": "eRua dos Inconfidentes, 911, sala 701 | Belo Horizonte - MG - Brasil | CEP 30140-128Conforme a regulamentação brasileira, a Coinext atua como Prestadora de Serviços em "
+    },
+    "web3": {
+      "url": "https://coinext.com.br",
+      "checkedAt": "2026-10-14T11:05:54.506Z",
+      "bodySha256": "c4b56d900e78bfc5abb16384c74e8b9afeb7144e3deb4798b6c0a7042e498f74",
+      "quote": "Coinext: Comprar Bitcoin e criptomoedas com segurança CriptomoedasMais negociadasBitcoinBTCEthereumETHTether USDTUSDTRippleXRPSolanaSOLMais"
+    },
+    "note": "Homepage also announces closure of digital-asset brokerage activities in Brazil. Careers source retained for monitoring, not evidence of fresh vacancies. Talent bank excluded. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Coinfinity",
+    "website": "https://coinfinity.co",
+    "country": "Austria",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "coinfinity.co",
+    "boardUrl": "https://coinfinity.co/karriere",
+    "officialCareersUrl": "https://coinfinity.co",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://coinfinity.co",
+      "finalUrl": "https://coinfinity.co",
+      "checkedAt": "2026-10-14T11:05:54.463Z",
+      "bodySha256": "8fed53bed863a2def40a4ff49e16cd5bb46862e42d331e9e401136ab4000b814",
+      "linkedUrl": "https://coinfinity.co/karriere",
+      "quote": "https://coinfinity.co/karriere",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://coinfinity.co",
+      "checkedAt": "2026-10-14T11:05:54.463Z",
+      "bodySha256": "8fed53bed863a2def40a4ff49e16cd5bb46862e42d331e9e401136ab4000b814",
+      "quote": "tphone kein Tresor istGriesgasse 108020 GrazAustria‍+43 316 711 744support@coinfinity.coNewsletterAGBBlockRewardDatenschutzerklärungProof of DevBeschwe"
+    },
+    "web3": {
+      "url": "https://coinfinity.co",
+      "checkedAt": "2026-10-14T11:05:54.463Z",
+      "bodySha256": "8fed53bed863a2def40a4ff49e16cd5bb46862e42d331e9e401136ab4000b814",
+      "quote": "Coinfinity – Ab heute sparst du in Bitcoin. StartBitcoin handelnJetzt kaufen & verkaufenBitcoin SparplanAutomatisiert Bitcoin sparenCoinfinity"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Deblock",
+    "website": "https://deblock.com",
+    "country": "France",
+    "countryRelationship": "registered-office",
+    "provider": "workable",
+    "board": "apply.workable.com",
+    "boardUrl": "https://apply.workable.com/deblock",
+    "officialCareersUrl": "https://deblock.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://deblock.com",
+      "finalUrl": "https://deblock.com/en",
+      "checkedAt": "2026-10-14T11:05:56.111Z",
+      "bodySha256": "15b507b2ff94e034fc1e6eced56c34bd6f9ec53968475cb9da2de58b077c11e6",
+      "linkedUrl": "https://apply.workable.com/deblock",
+      "quote": "https://apply.workable.com/deblock",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://deblock.com/en/legal-notice",
+      "checkedAt": "2026-10-14T11:07:54.135Z",
+      "bodySha256": "039a0756399e16b39f7ccae146d938b031b9d946a1abddecec52d398ccacf419",
+      "quote": "ng, 612 rue de la Chaude Rivière, 59800 Lille, FranceRegistration: 948 264 163 R.C.S. Lille MétropoleSIREN number: 948 264 163Intra-Community VAT number:"
+    },
+    "web3": {
+      "url": "https://deblock.com",
+      "checkedAt": "2026-10-14T11:05:56.111Z",
+      "bodySha256": "15b507b2ff94e034fc1e6eced56c34bd6f9ec53968475cb9da2de58b077c11e6",
+      "quote": " A current account at 4% a year: euros, stablecoins and bitcoin.DownloadBuy your coffeeBuy Bitcoin4% yield on your moneyDeposit your USDCReceive your s"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "double jump.tokyo",
+    "website": "https://doublejump.tokyo",
+    "country": "Japan",
+    "countryRelationship": "operating-market",
+    "provider": "herp",
+    "board": "herp.careers",
+    "boardUrl": "https://herp.careers/v1/doublejump",
+    "officialCareersUrl": "https://doublejump.tokyo",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://doublejump.tokyo",
+      "finalUrl": "https://www.doublejump.tokyo/",
+      "checkedAt": "2026-10-14T11:05:56.071Z",
+      "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77",
+      "linkedUrl": "https://herp.careers/v1/doublejump",
+      "quote": "https://herp.careers/v1/doublejump",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://doublejump.tokyo",
+      "checkedAt": "2026-10-14T11:05:56.071Z",
+      "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77",
+      "quote": "ップのお問い合わせをお待ちしています。 事業について相談する →採用情報を見る 日本企業の認証と決済の社会実装を進めるWeb3インフラ企業。 ProductsN SuiteRIKYUWallet Engine CompanyAboutNews / InsightsTrack Record"
+    },
+    "web3": {
+      "url": "https://doublejump.tokyo",
+      "checkedAt": "2026-10-14T11:05:56.071Z",
+      "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77",
+      "quote": "をボーダレスに。日本の価値を、世界へ。 double jump.tokyo は、ブロックチェーンとAIの実装力で、法人ウォレット・ステーブルコイン決済・AIエージェント決済・暗号資産会計の4つのソリューションで、企業の認証と決済を社会実装するエンタープライズWeb3インフラ企業です。 事業につい"
+    },
+    "note": "Current site describes enterprise Web3 infrastructure, not only blockchain gaming. No published jobs observed on HERP. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Flitpay",
+    "website": "https://flitpay.com",
+    "country": "India",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "www.flitpay.com",
+    "boardUrl": "https://www.flitpay.com/careers",
+    "officialCareersUrl": "https://flitpay.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://flitpay.com",
+      "finalUrl": "https://www.flitpay.com/",
+      "checkedAt": "2026-10-14T11:06:04.617Z",
+      "bodySha256": "7d81eba2922e1e3be5495f1ca60fe55fe0820fb9358de428ff61488169e49eae",
+      "linkedUrl": "https://www.flitpay.com/careers",
+      "quote": "https://www.flitpay.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://flitpay.com",
+      "checkedAt": "2026-10-14T11:06:04.617Z",
+      "bodySha256": "7d81eba2922e1e3be5495f1ca60fe55fe0820fb9358de428ff61488169e49eae",
+      "quote": "Bitcoin Exchange | Cryptocurrency Exchange in India | Flitpay Markets Trade Spot Spot Trading Quick Buy/Sell Buy and Sell InstantlyGift CardEarnSpend &"
+    },
+    "web3": {
+      "url": "https://flitpay.com",
+      "checkedAt": "2026-10-14T11:06:04.617Z",
+      "bodySha256": "7d81eba2922e1e3be5495f1ca60fe55fe0820fb9358de428ff61488169e49eae",
+      "quote": "Bitcoin Exchange | Cryptocurrency Exchange in India | Flitpay Markets Trade Spot Spot Trading Quick Buy/Sell Buy and Sell InstantlyGi"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "FOMO Pay",
+    "website": "https://fomopay.com",
+    "country": "Singapore",
+    "countryRelationship": "headquarters",
+    "provider": "first-party",
+    "board": "www.fomopay.com",
+    "boardUrl": "https://www.fomopay.com/careers",
+    "officialCareersUrl": "https://fomopay.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://fomopay.com",
+      "finalUrl": "https://www.fomopay.com/",
+      "checkedAt": "2026-10-14T11:05:59.307Z",
+      "bodySha256": "435356607431af75095720a2fea2b8e77d8b314b2db497394fc2bae4aed0202c",
+      "linkedUrl": "https://www.fomopay.com/careers",
+      "quote": "https://www.fomopay.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://fomopay.com",
+      "checkedAt": "2026-10-14T11:05:59.307Z",
+      "bodySha256": "435356607431af75095720a2fea2b8e77d8b314b2db497394fc2bae4aed0202c",
+      "quote": "Kong, and the Middle East.11YEARS RECORDHeadquartered in Singapore, we deliver service tailored to Asian customers, winning multiple global awards.1ONE STOP SOLUTIONO"
+    },
+    "web3": {
+      "url": "https://fomopay.com",
+      "checkedAt": "2026-10-14T11:05:59.307Z",
+      "bodySha256": "435356607431af75095720a2fea2b8e77d8b314b2db497394fc2bae4aed0202c",
+      "quote": "rm. Seamlessly connecting you to fiat & digital assets.Trusted by 5,000+ companies around the worldLatest UpdatesFOMO Pay Partners with Sumsub to Further "
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Fuze",
+    "website": "https://fuze.finance",
+    "country": "United Arab Emirates",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "fuze.finance",
+    "boardUrl": "https://fuze.finance/careers",
+    "officialCareersUrl": "https://fuze.finance",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://fuze.finance",
+      "finalUrl": "https://fuze.finance",
+      "checkedAt": "2026-10-14T11:05:59.379Z",
+      "bodySha256": "9c83cd0496d9e3d1016d87a57b3db049fc0c42559ce5405e3423ab4508ce3581",
+      "linkedUrl": "https://fuze.finance/careers",
+      "quote": "https://fuze.finance/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://fuze.finance/careers",
+      "checkedAt": "2026-10-14T11:05:58.832Z",
+      "bodySha256": "a24b481d41045e63f87894153670245805f568ffc0dea370567677b879ab7a5c",
+      "quote": "mes next.Where are your offices?We have offices in Dubai, Abu Dhabi, and Bangalore.Is this remote or in-office?Primarily hybrid, with some remote-first roles depending"
+    },
+    "web3": {
+      "url": "https://fuze.finance",
+      "checkedAt": "2026-10-14T11:05:59.379Z",
+      "bodySha256": "9c83cd0496d9e3d1016d87a57b3db049fc0c42559ce5405e3423ab4508ce3581",
+      "quote": " - Fuze Finance ProductsProductsPaymentsStablecoin InfrastructureBuild products to hold, convert, send & receive stablecoinsPaymentCrypto GatewayLaunc"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Ginco",
+    "website": "https://ginco.co.jp",
+    "country": "Japan",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "www.ginco.co.jp",
+    "boardUrl": "https://www.ginco.co.jp/company/recruit",
+    "officialCareersUrl": "https://ginco.co.jp",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://ginco.co.jp",
+      "finalUrl": "https://www.ginco.co.jp/",
+      "checkedAt": "2026-10-14T11:06:00.897Z",
+      "bodySha256": "a030108cb66db6054facbe94a671572801268b764ea817c2195dfbdc26bb2793",
+      "linkedUrl": "https://www.ginco.co.jp/company/recruit",
+      "quote": "https://www.ginco.co.jp/company/recruit",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://ginco.co.jp",
+      "checkedAt": "2026-10-14T11:06:00.897Z",
+      "bodySha256": "a030108cb66db6054facbe94a671572801268b764ea817c2195dfbdc26bb2793",
+      "quote": "いただき、また戻ってきてください。お待ちしております。採用情報〒104-0032東京都中央区八丁堀三丁目27-4©2026 Ginco Inc. All rights Reserved.製品サービスEnterprise WalletMonitoring SolutionWeb3 CloudWeb3"
+    },
+    "web3": {
+      "url": "https://ginco.co.jp",
+      "checkedAt": "2026-10-14T11:06:00.897Z",
+      "bodySha256": "a030108cb66db6054facbe94a671572801268b764ea817c2195dfbdc26bb2793",
+      "quote": "株式会社Ginco | GincoWeb3DevelopmentCompanyブロックチェーンのプロフェッショナルとして企業のWeb3事業を実現するTRUSTED BY LEADING COMPANIESOUR BUSINESSWeb3事業のパートナーより早く、より安全に、より高い費用対効果で"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Hata",
+    "website": "https://hata.io",
+    "country": "Malaysia",
+    "countryRelationship": "office",
+    "provider": "first-party",
+    "board": "explore.hata.io",
+    "boardUrl": "https://explore.hata.io/careers",
+    "officialCareersUrl": "https://hata.io",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://hata.io",
+      "finalUrl": "https://hata.io/en/gb/",
+      "checkedAt": "2026-10-14T11:06:01.681Z",
+      "bodySha256": "9c28c6bdb64e7434d1dd2b372523cb2fe67370636ad5be1a9904eedb620b9628",
+      "linkedUrl": "https://explore.hata.io/careers",
+      "quote": "https://explore.hata.io/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://hata.io",
+      "checkedAt": "2026-10-14T11:06:01.681Z",
+      "bodySha256": "9c28c6bdb64e7434d1dd2b372523cb2fe67370636ad5be1a9904eedb620b9628",
+      "quote": "buan Times Square, Jalan Merdeka, 87007 Labuan, Malaysia. Copyright ©2023 - 2026 Hata. All rights reserved."
+    },
+    "web3": {
+      "url": "https://hata.io",
+      "checkedAt": "2026-10-14T11:06:01.681Z",
+      "bodySha256": "9c28c6bdb64e7434d1dd2b372523cb2fe67370636ad5be1a9904eedb620b9628",
+      "quote": "Hata - Global Crypto Exchange | Buy & Sell Crypto with Fiat Skip to content Global Global About Hata Trade OTC Service Markets Re"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "KoinX",
+    "website": "https://koinx.com",
+    "country": "India",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "www.koinx.com",
+    "boardUrl": "https://www.koinx.com/careers",
+    "officialCareersUrl": "https://koinx.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://koinx.com",
+      "finalUrl": "https://www.koinx.com/in",
+      "checkedAt": "2026-10-14T11:06:02.559Z",
+      "bodySha256": "994d40cfbc7571caa69f1473ace3c326a7d5d1f1b1d12576cd4b5e337ae07f13",
+      "linkedUrl": "https://www.koinx.com/careers",
+      "quote": "https://www.koinx.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://koinx.com",
+      "checkedAt": "2026-10-14T11:06:02.559Z",
+      "bodySha256": "994d40cfbc7571caa69f1473ace3c326a7d5d1f1b1d12576cd4b5e337ae07f13",
+      "quote": "accounting, and ensures compliance with Indian tax rules.Calculate My TaxesExplore Solutions* Get Started For Free, No Credit Card RequiredGot an Income Tax"
+    },
+    "web3": {
+      "url": "https://koinx.com",
+      "checkedAt": "2026-10-14T11:06:02.559Z",
+      "bodySha256": "994d40cfbc7571caa69f1473ace3c326a7d5d1f1b1d12576cd4b5e337ae07f13",
+      "quote": "KoinX: Trusted Crypto Tax Software and Portfolio TrackerSCSchedule-VDA ReportsSimplify Your CryptoFinancesKoinX automatically calculat"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Lemon",
+    "website": "https://lemon.me",
+    "country": "Argentina",
+    "countryRelationship": "regulated-market",
+    "provider": "first-party",
+    "board": "lemon.me",
+    "boardUrl": "https://lemon.me/careers",
+    "officialCareersUrl": "https://lemon.me",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://lemon.me",
+      "finalUrl": "https://lemon.me",
+      "checkedAt": "2026-10-14T11:06:01.520Z",
+      "bodySha256": "36e86f97b9b8753a9f15ca38b0b2fb0014ba5df2c477c90db5a6e891c8d3277f",
+      "linkedUrl": "https://lemon.me/careers",
+      "quote": "https://lemon.me/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://lemon.me",
+      "checkedAt": "2026-10-14T11:06:01.520Z",
+      "bodySha256": "36e86f97b9b8753a9f15ca38b0b2fb0014ba5df2c477c90db5a6e891c8d3277f",
+      "quote": "SAV de la Comisión Nacional de Valores (República Argentina). Digifin S.A. no es una entidad financiera. Los fondos en la cuenta de pago no son depósitos ni ti"
+    },
+    "web3": {
+      "url": "https://lemon.me",
+      "checkedAt": "2026-10-14T11:06:01.520Z",
+      "bodySha256": "36e86f97b9b8753a9f15ca38b0b2fb0014ba5df2c477c90db5a6e891c8d3277f",
+      "quote": " virtual: pesos, dólares, inversiones y Bitcoin. RendimientosPagosTransferenciasInversionesNosotrosRobo/ExtravíoARGDescargá LemonARGRendimientosPag"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Liminal",
+    "website": "https://liminalcustody.com",
+    "country": "Singapore",
+    "countryRelationship": "office",
+    "provider": "workable",
+    "board": "apply.workable.com",
+    "boardUrl": "https://apply.workable.com/liminalcustody/",
+    "officialCareersUrl": "https://liminalcustody.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://liminalcustody.com",
+      "finalUrl": "https://www.liminalcustody.com/",
+      "checkedAt": "2026-10-14T11:06:03.134Z",
+      "bodySha256": "1da44e1810d8208b193a2a23e3e285fd2929612b75a23eb404c633556dd41950",
+      "linkedUrl": "https://apply.workable.com/liminalcustody/",
+      "quote": "https://apply.workable.com/liminalcustody/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.liminalcustody.com/about-us/",
+      "checkedAt": "2026-10-14T11:07:54.858Z",
+      "bodySha256": "0ed47f666547c3a34c5d210d0d15d738507031077ba6ba32fec8f8cf26bc19ee",
+      "quote": "eur Sandeep Nailwal Co-Founder, Polygon Our Offices Singapore Answer Eleven Pte Ltd 410 North Bridge Road, Singapore 188726 Dubai First Answer Custody FZEPremise"
+    },
+    "web3": {
+      "url": "https://liminalcustody.com",
+      "checkedAt": "2026-10-14T11:06:03.134Z",
+      "bodySha256": "1da44e1810d8208b193a2a23e3e285fd2929612b75a23eb404c633556dd41950",
+      "quote": "Institutional Crypto Custody & Wallet Infrastructure | Liminal Skip to content Liminal Prime is Live ! Built for exchanges, OTC "
+    },
+    "note": "Official site also lists an India entity/office and links a Keka careers destination. CSV combined market label is not a job location. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "MidChains",
+    "website": "https://midchains.com",
+    "country": "United Arab Emirates",
+    "countryRelationship": "regulated-market",
+    "provider": "first-party",
+    "board": "www.midchains.com",
+    "boardUrl": "https://www.midchains.com/careers/",
+    "officialCareersUrl": "https://midchains.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://midchains.com",
+      "finalUrl": "https://www.midchains.com/",
+      "checkedAt": "2026-10-14T11:06:06.376Z",
+      "bodySha256": "114507127e86dd52a9ef7952bcc5413056231169069211edbd478affcfc27562",
+      "linkedUrl": "https://www.midchains.com/careers/",
+      "quote": "https://www.midchains.com/careers/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.midchains.com/about-us/",
+      "checkedAt": "2026-10-14T11:07:56.592Z",
+      "bodySha256": "f897b438a1fa034ece7891f3ec9ced96c4204b1834ac034eef3d8d8330692452",
+      "quote": " digital asset infrastructure provider, licensed by Dubai's Virtual Assets Regulatory Authority (VARA) as a Broker-Dealer for institutional and qualified inves"
+    },
+    "web3": {
+      "url": "https://midchains.com",
+      "checkedAt": "2026-10-14T11:06:06.376Z",
+      "bodySha256": "114507127e86dd52a9ef7952bcc5413056231169069211edbd478affcfc27562",
+      "quote": "MidChains - Digital asset platform and OTC for institutional ServicesCompanyResourcesLoginContact UsRegulated Digital Asset I"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Mt Pelerin",
+    "website": "https://mtpelerin.com",
+    "country": "Switzerland",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "www.mtpelerin.com",
+    "boardUrl": "https://www.mtpelerin.com:443/careers",
+    "officialCareersUrl": "https://mtpelerin.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://mtpelerin.com",
+      "finalUrl": "https://www.mtpelerin.com/",
+      "checkedAt": "2026-10-14T11:06:06.783Z",
+      "bodySha256": "9f95ea360e0a82cd9caec01f1d67b975431924d2d95916ed0af40bfb71ba8007",
+      "linkedUrl": "https://www.mtpelerin.com:443/careers",
+      "quote": "https://www.mtpelerin.com:443/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://mtpelerin.com",
+      "checkedAt": "2026-10-14T11:06:06.783Z",
+      "bodySha256": "9f95ea360e0a82cd9caec01f1d67b975431924d2d95916ed0af40bfb71ba8007",
+      "quote": "Buy, Sell & Swap Cryptocurrencies, Made in Switzerland | Mt PelerinExchangeBuy Bitcoin Ethereum USDT USDCSwap BTC - ETH BTC - USDT ETH - USDC USDC - USDTB"
+    },
+    "web3": {
+      "url": "https://mtpelerin.com",
+      "checkedAt": "2026-10-14T11:06:06.783Z",
+      "bodySha256": "9f95ea360e0a82cd9caec01f1d67b975431924d2d95916ed0af40bfb71ba8007",
+      "quote": "Buy, Sell & Swap Cryptocurrencies, Made in Switzerland | Mt PelerinExchangeBuy Bitcoin Ethereum USDT USDCSwap BTC - ETH BTC - USDT ET"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "NBX",
+    "website": "https://nbx.com",
+    "country": "Norway",
+    "countryRelationship": "regulated-market",
+    "provider": "first-party",
+    "board": "nbx.com",
+    "boardUrl": "https://nbx.com/en/careers",
+    "officialCareersUrl": "https://nbx.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://nbx.com",
+      "finalUrl": "https://nbx.com",
+      "checkedAt": "2026-10-14T11:06:02.526Z",
+      "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a",
+      "linkedUrl": "https://nbx.com/en/careers",
+      "quote": "https://nbx.com/en/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://nbx.com",
+      "checkedAt": "2026-10-14T11:06:02.526Z",
+      "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a",
+      "quote": "et our app.Download Buy crypto withNOK. Regulated in Norway. Norway's first publicly listed crypto exchange. Trade Bitcoin, Ethereum, tokenized gold and 20+ ot"
+    },
+    "web3": {
+      "url": "https://nbx.com",
+      "checkedAt": "2026-10-14T11:06:02.526Z",
+      "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a",
+      "quote": "Buy Bitcoin at NBX | Norwegian cryptocurrency exchange with unique benefits. AboutMarketsCardOTCCustodyStakingSupportLog inSign upSign upDark ModeLog inSi"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Netcoins",
+    "website": "https://netcoins.com",
+    "country": "Canada",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "netcoins.com",
+    "boardUrl": "https://netcoins.com/careers",
+    "officialCareersUrl": "https://netcoins.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://netcoins.com",
+      "finalUrl": "https://netcoins.com",
+      "checkedAt": "2026-10-14T11:06:03.683Z",
+      "bodySha256": "dc84cb182b00a4ea5e57ebc53cabff7a419600949347e80972ee81c893d63fcf",
+      "linkedUrl": "https://netcoins.com/careers",
+      "quote": "https://netcoins.com/careers",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://netcoins.com",
+      "checkedAt": "2026-10-14T11:06:03.683Z",
+      "bodySha256": "dc84cb182b00a4ea5e57ebc53cabff7a419600949347e80972ee81c893d63fcf",
+      "quote": "k.Refer and EarnGet StartedLog inSign upBuilt for Canadians.Backed by Trust.Navigate the crypto world effortlessly with Netcoins — Canada’s advanced platform f"
+    },
+    "web3": {
+      "url": "https://netcoins.com",
+      "checkedAt": "2026-10-14T11:06:03.683Z",
+      "bodySha256": "dc84cb182b00a4ea5e57ebc53cabff7a419600949347e80972ee81c893d63fcf",
+      "quote": "Netcoins - Buy Bitcoin and Crypto in Canada ProductsPROductsCrypto TradingBuy, sell, and trade 60+ cryptocurrencies on the go with re"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Paymium",
+    "website": "https://paymium.com",
+    "country": "France",
+    "countryRelationship": "regulated-market",
+    "provider": "welcomekit",
+    "board": "paymium.welcomekit.co",
+    "boardUrl": "https://paymium.welcomekit.co/",
+    "officialCareersUrl": "https://paymium.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://paymium.com",
+      "finalUrl": "https://www.paymium.com/en",
+      "checkedAt": "2026-10-14T11:06:07.039Z",
+      "bodySha256": "5537fbeb3b34d70c34fc96051eb1c9fd4ead5bbc7b22d4abee274cdedab09355",
+      "linkedUrl": "https://paymium.welcomekit.co/",
+      "quote": "https://paymium.welcomekit.co/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://paymium.com",
+      "checkedAt": "2026-10-14T11:06:07.039Z",
+      "bodySha256": "5537fbeb3b34d70c34fc96051eb1c9fd4ead5bbc7b22d4abee274cdedab09355",
+      "quote": "0investors supported since 2011MiCACASP regulated in France by the AMF+350 000 Bitcoins traded since our creation15 yearsof expertise in Bitcoin and crypto-ass"
+    },
+    "web3": {
+      "url": "https://paymium.com",
+      "checkedAt": "2026-10-14T11:06:07.039Z",
+      "bodySha256": "5537fbeb3b34d70c34fc96051eb1c9fd4ead5bbc7b22d4abee274cdedab09355",
+      "quote": "Paymium: French crypto platform since 2011 | PaymiumPersonalBusinessCryptocurrenciesDiscover PaymiumHelp & contactENLog inSign upSi"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Relai",
+    "website": "https://relai.app",
+    "country": "Switzerland",
+    "countryRelationship": "operating-market",
+    "provider": "first-party",
+    "board": "relai.app",
+    "boardUrl": "https://relai.app/career/",
+    "officialCareersUrl": "https://relai.app",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://relai.app",
+      "finalUrl": "https://relai.app",
+      "checkedAt": "2026-10-14T11:06:06.886Z",
+      "bodySha256": "6cefd3547ae01b480467f2f731618709ded7aa40912ae72166f0c25ac65df2e5",
+      "linkedUrl": "https://relai.app/career/",
+      "quote": "https://relai.app/career/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://relai.app",
+      "checkedAt": "2026-10-14T11:06:06.886Z",
+      "bodySha256": "6cefd3547ae01b480467f2f731618709ded7aa40912ae72166f0c25ac65df2e5",
+      "quote": "oad the app. Rated 4.6 on the App Store Built in Switzerland Trusted by Over 100,000 Happy Users Best Bitcoin App Support is truly amazing! Needed help a couple"
+    },
+    "web3": {
+      "url": "https://relai.app",
+      "checkedAt": "2026-10-14T11:06:06.886Z",
+      "bodySha256": "6cefd3547ae01b480467f2f731618709ded7aa40912ae72166f0c25ac65df2e5",
+      "quote": "Buy Bitcoin (BTC) With the Best Savings App | Relai Change language and country/region Language English English"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Safello",
+    "website": "https://safello.com",
+    "country": "Sweden",
+    "countryRelationship": "operating-market",
+    "provider": "teamtailor",
+    "board": "careers.safello.com",
+    "boardUrl": "https://careers.safello.com/",
+    "officialCareersUrl": "https://safello.com",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://safello.com",
+      "finalUrl": "https://safello.com",
+      "checkedAt": "2026-10-14T11:06:06.608Z",
+      "bodySha256": "729e4b950b6c72f3af654fd5ed8ab4fb19d9657bc38100b08f249abf5846f950",
+      "linkedUrl": "https://careers.safello.com/",
+      "quote": "https://careers.safello.com/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://safello.com",
+      "checkedAt": "2026-10-14T11:06:06.608Z",
+      "bodySha256": "729e4b950b6c72f3af654fd5ed8ab4fb19d9657bc38100b08f249abf5846f950",
+      "quote": "ly nothing\"\"Probably nothing\"Safello is Sweden's leading online cryptocurrency brokerage and has been paving the way for crypto adoption since 2013. Our goa"
+    },
+    "web3": {
+      "url": "https://safello.com",
+      "checkedAt": "2026-10-14T11:06:06.608Z",
+      "bodySha256": "729e4b950b6c72f3af654fd5ed8ab4fb19d9657bc38100b08f249abf5846f950",
+      "quote": "hing\"Safello is Sweden's leading online cryptocurrency brokerage and has been paving the way for crypto adoption since 2013. Our goal is to make cryptocurrencies ac"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "SBI VC Trade",
+    "website": "https://sbivc.co.jp",
+    "country": "Japan",
+    "countryRelationship": "regulated-market",
+    "provider": "first-party",
+    "board": "www.sbivc.co.jp",
+    "boardUrl": "https://www.sbivc.co.jp:443/adoption",
+    "officialCareersUrl": "https://sbivc.co.jp",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://sbivc.co.jp",
+      "finalUrl": "https://www.sbivc.co.jp/",
+      "checkedAt": "2026-10-14T11:06:11.884Z",
+      "bodySha256": "6fd4aac7710b5be81eb38d9b66f57eb40bf7ba30f0aa1450bbd6466bd0aa108b",
+      "linkedUrl": "https://www.sbivc.co.jp:443/adoption",
+      "quote": "https://www.sbivc.co.jp:443/adoption",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://sbivc.co.jp",
+      "checkedAt": "2026-10-14T11:06:11.884Z",
+      "bodySha256": "6fd4aac7710b5be81eb38d9b66f57eb40bf7ba30f0aa1450bbd6466bd0aa108b",
+      "quote": "上場のSBIホールディングス株式会社傘下、SBIグループの100％子会社として、日本の法令・規則に則った高度なセキュリティのもと、お客様の資産を管理しております。 初めてでも簡単、取引ツール・アプリ 簡単にご利用いただけるスマホの取引アプリ、webブラウザ（PC・スマホ）でシンプルな画面か"
+    },
+    "web3": {
+      "url": "https://sbivc.co.jp",
+      "checkedAt": "2026-10-14T11:06:11.884Z",
+      "bodySha256": "6fd4aac7710b5be81eb38d9b66f57eb40bf7ba30f0aa1450bbd6466bd0aa108b",
+      "quote": "暗号資産（仮想通貨）・電子決済手段の取引所｜SBI VCトレード はじめての方へはじめての方へ暗号資産とは電子決済手段とは選ばれる理由取扱暗号資産取扱電子決済手段口座開設ガイドご利用ガイド取引ツール・アプリ法"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Tangany",
+    "website": "https://tangany.com",
+    "country": "Germany",
+    "countryRelationship": "employment-market",
+    "provider": "first-party",
+    "board": "tangany.com",
+    "boardUrl": "https://tangany.com/jobs",
+    "officialCareersUrl": "https://tangany.com",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://tangany.com",
+      "finalUrl": "https://tangany.com",
+      "checkedAt": "2026-10-14T11:06:10.903Z",
+      "bodySha256": "fceddfa0441040da0a83c42ab30b0377fb956b1376d58f4f9de479463288a74a",
+      "linkedUrl": "https://tangany.com/jobs",
+      "quote": "https://tangany.com/jobs",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://tangany.com/jobs",
+      "checkedAt": "2026-10-14T11:06:08.394Z",
+      "bodySha256": "da539fae2560c6546a1d41c9a2e85d1ebd0a4b3d823be2c4abd3138660cf8574",
+      "quote": "rkationJoin our team as a remote member from anywhere in Germany, taking advantage of up to 40 days of work and travel per year and our flexible working hours.Indiv"
+    },
+    "web3": {
+      "url": "https://tangany.com",
+      "checkedAt": "2026-10-14T11:06:10.903Z",
+      "bodySha256": "fceddfa0441040da0a83c42ab30b0377fb956b1376d58f4f9de479463288a74a",
+      "quote": "MiCA-Compliant Digital Asset Custody — TanganyProductDevelopersBusinessBackUse CasesCustody & TreasuryTokenizationsStaking SolutionsStab"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Waltio",
+    "website": "https://waltio.com",
+    "country": "France",
+    "countryRelationship": "registered-office",
+    "provider": "odoo",
+    "board": "waltio2.odoo.com",
+    "boardUrl": "https://waltio2.odoo.com/en",
+    "officialCareersUrl": "https://www.waltio.com/",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://www.waltio.com/",
+      "finalUrl": "https://www.waltio.com/",
+      "checkedAt": "2026-10-14T11:06:12.326Z",
+      "bodySha256": "a5fe023e146feb8f4d99bad4349103d1c45dd8547cd4e850b6c552b46d3d6ad4",
+      "linkedUrl": "https://waltio2.odoo.com/",
+      "quote": "https://waltio2.odoo.com/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://www.waltio.com/legal-informations/",
+      "checkedAt": "2026-10-14T11:11:10.735Z",
+      "bodySha256": "45e1d2f9efb5d151ee424e0daae1e07142dca2886077afaac13014d95b00934c",
+      "quote": " is located 22 Allée Alan Turing, 63000 Clermont-Ferrand (France). CEO : MORIZOT Pierre General director and Co-founder : CHEVALLEREAU Benjamin The WALTIO website is"
+    },
+    "web3": {
+      "url": "https://waltio.com",
+      "checkedAt": "2026-10-14T11:06:12.822Z",
+      "bodySha256": "a5fe023e146feb8f4d99bad4349103d1c45dd8547cd4e850b6c552b46d3d6ad4",
+      "quote": "Your crypto tax report. In one click. Skip to content Waltio Platforms Features Track your crypto portfolio All you"
+    },
+    "note": "Official homepage links Odoo root, which resolves to English careers landing. Corrected exact outbound; /en is not the literal homepage href. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Zumo",
+    "website": "https://zumo.tech",
+    "country": "United Kingdom",
+    "countryRelationship": "regulated-market",
+    "provider": "first-party",
+    "board": "zumo.co.uk",
+    "boardUrl": "https://zumo.co.uk/careers/",
+    "officialCareersUrl": "https://zumo.tech",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://zumo.tech",
+      "finalUrl": "https://zumo.co.uk/",
+      "checkedAt": "2026-10-14T11:06:26.880Z",
+      "bodySha256": "e5d4d9c7c568b25f76b68a5838cb5477213d3d5b29f14464508e0c276c84d608",
+      "linkedUrl": "https://zumo.co.uk/careers/",
+      "quote": "https://zumo.co.uk/careers/",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://zumo.co.uk/careers/",
+      "checkedAt": "2026-10-14T11:06:25.003Z",
+      "bodySha256": "9580757038884b2bd26b3c3a649ebcf1afc218f9ff8097b61f5b95e36ad0c486",
+      "quote": "94). Zumo Financial Services Limited is registered with the UK Financial Conduct Authority pursuant to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Pay"
+    },
+    "web3": {
+      "url": "https://zumo.tech",
+      "checkedAt": "2026-10-14T11:06:26.880Z",
+      "bodySha256": "e5d4d9c7c568b25f76b68a5838cb5477213d3d5b29f14464508e0c276c84d608",
+      "quote": "toasset Regulation Tracker now Platform Digital Asset-as-a-Service Platform Compliant and sustainable UK platform to set up, launch and scale your digita"
+    },
+    "note": "Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  },
+  {
+    "company": "Swissquote",
+    "website": "https://swissquote.com",
+    "country": "Switzerland",
+    "countryRelationship": "regulated-market",
+    "provider": "smartrecruiters",
+    "board": "careers.smartrecruiters.com",
+    "boardUrl": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+    "officialCareersUrl": "https://www.swissquote.com/en/careers",
+    "status": "careers-only",
+    "ownership": {
+      "url": "https://www.swissquote.com/en/careers",
+      "finalUrl": "https://www.swissquote.com/en/careers",
+      "checkedAt": "2026-10-14T11:06:11.878Z",
+      "bodySha256": "4fc4680dc6cbb38068fe11a473df0c72c45ba62efb84ec4f8a8bd7c5f399d102",
+      "linkedUrl": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+      "quote": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+      "kind": "outbound"
+    },
+    "geography": {
+      "url": "https://swissquote.com",
+      "checkedAt": "2026-10-14T11:06:15.025Z",
+      "bodySha256": "eff8f056010f694d85e85ca7e1a5458215ca66f4283a3a2206be28274925c600",
+      "quote": "ortfolio.*These products are offered by Swissquote Bank Ltd, regulated by the Swiss Federal Financial Market Supervisory Authority (FINMA).ExploreCryptoThe cool kid of trading assetsJ"
+    },
+    "web3": {
+      "url": "https://swissquote.com",
+      "checkedAt": "2026-10-14T11:06:15.025Z",
+      "bodySha256": "eff8f056010f694d85e85ca7e1a5458215ca66f4283a3a2206be28274925c600",
+      "quote": " the crypto-mania, with Swiss lucidity. 52 cryptos, including pioneers and newcomers, for you to trade anytime, anywhere on the Swissquote-developed S"
+    },
+    "note": "Mixed bank/employer: crypto product existence does not make every vacancy a Web3 role. No general banking jobs imported. Stable official careers route used rather than geo-dependent homepage redirect. Verified employer careers source. Original dates and usable exact-job applications must be checked before import; vacancy count unknown."
+  }
+]

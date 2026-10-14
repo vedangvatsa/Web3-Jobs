@@ -13,7 +13,7 @@ import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 export const dynamic = 'force-dynamic';
 
 async function currentCompanies() {
-  const companies = await getCompanies();
+  const companies = await getCompanies(true);
   const rows = await Promise.all(companies.map(async summary => {
     const company = (await getCompanyBySlug(summary.slug))!;
     const { jobs, ...rest } = company;

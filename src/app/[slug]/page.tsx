@@ -6,7 +6,7 @@ import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound, permanentRedirect, redirect } from 'next/navigation';
 import { classifySlug } from '@/lib/slug-classifier';
-import { getCompanyBySlug, getCompanies } from '@/lib/companies';
+import { getCompanyBySlug, getCompanies, hasPublishedCompanyProfile } from '@/lib/companies';
 import { CompanyDetailView } from '@/components/company-detail-view';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -152,7 +152,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       return {
         title: `${companyMeta.name} Jobs`,
         description: desc,
-        robots: companyMeta.jobCount >= 2
+        robots: companyMeta.jobCount >= 2 || await hasPublishedCompanyProfile(companyMeta.slug)
           ? undefined
           : { index: false, follow: true },
         alternates: { canonical: canonicalUrl },

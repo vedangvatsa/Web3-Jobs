@@ -33,7 +33,7 @@ async function main(): Promise<void> {
     (await getAllJobsWithSlugs()).map(({ slug }) => slug.toLowerCase().trim()).filter(Boolean),
   );
   const liveCompanySlugs = new Set(
-    (await getCompanies()).map((c) => getCompanySlug(c.name).toLowerCase().trim()).filter(Boolean),
+    (await getCompanies(true)).map((c) => getCompanySlug(c.name).toLowerCase().trim()).filter(Boolean),
   );
 
   const manifest = loadManifest();

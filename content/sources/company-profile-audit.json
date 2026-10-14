@@ -1,0 +1,1111 @@
+{
+  "registryRows": 81,
+  "uniqueEmployers": 81,
+  "additionalNewHiringRecords": 0,
+  "entries": [
+    {
+      "slug": "coinmotion",
+      "name": "Coinmotion",
+      "researchSlug": "coinmotion",
+      "website": "https://coinmotion.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/coinmotion/"
+      },
+      "branding": "/logo/companies/coinmotion.png",
+      "gaps": []
+    },
+    {
+      "slug": "pdax",
+      "name": "PDAX",
+      "researchSlug": "pdax",
+      "website": "https://pdax.ph/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/pdaxph",
+        "linkedin": "https://www.linkedin.com/company/pdaxph"
+      },
+      "branding": "/logo/companies/pdax.png",
+      "gaps": []
+    },
+    {
+      "slug": "foxbit",
+      "name": "Foxbit",
+      "researchSlug": "foxbit",
+      "website": "https://foxbit.com.br/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/foxbit/",
+        "twitter": "https://x.com/foxbit"
+      },
+      "branding": "/logo/companies/foxbit.png",
+      "gaps": []
+    },
+    {
+      "slug": "finoa",
+      "name": "Finoa",
+      "researchSlug": "finoa",
+      "website": "https://www.finoa.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/finoa-io/",
+        "twitter": "https://x.com/Finoa_io"
+      },
+      "branding": "/logo/companies/finoa.png",
+      "gaps": []
+    },
+    {
+      "slug": "taurus",
+      "name": "Taurus",
+      "researchSlug": "taurus",
+      "website": "https://www.taurushq.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/taurus_hq",
+        "linkedin": "https://linkedin.com/company/taurus-sa"
+      },
+      "branding": "/logo/companies/taurus.png",
+      "gaps": []
+    },
+    {
+      "slug": "xrex",
+      "name": "XREX",
+      "researchSlug": "xrex",
+      "website": "https://xrex.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/xrexinc",
+        "linkedin": "https://www.linkedin.com/company/xrexinc/"
+      },
+      "branding": "/logo/companies/xrex.png",
+      "gaps": []
+    },
+    {
+      "slug": "finst",
+      "name": "Finst",
+      "researchSlug": "finst",
+      "website": "https://finst.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/finst_official",
+        "linkedin": "https://www.linkedin.com/company/finst-official"
+      },
+      "branding": "/logo/companies/finst.png",
+      "gaps": []
+    },
+    {
+      "slug": "breet",
+      "name": "Breet",
+      "researchSlug": "breet",
+      "website": "https://breet.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/breetapp",
+        "linkedin": "https://www.linkedin.com/company/inbreetic"
+      },
+      "branding": "/logo/companies/breet.png",
+      "gaps": []
+    },
+    {
+      "slug": "bit2me",
+      "name": "Bit2Me",
+      "researchSlug": "bit2me",
+      "website": "https://bit2me.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": true,
+      "socialLinks": {
+        "twitter": "https://x.com/Bit2Me",
+        "linkedin": "https://linkedin.com/company/bit2me"
+      },
+      "branding": "/logo/companies/bit2me.png",
+      "gaps": []
+    },
+    {
+      "slug": "honeycoin",
+      "name": "HoneyCoin",
+      "researchSlug": "honeycoin",
+      "website": "https://honeycoin.app/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/honeycoinapp",
+        "linkedin": "https://linkedin.com/company/honeycoin"
+      },
+      "branding": "/logo/companies/honeycoin.png",
+      "gaps": []
+    },
+    {
+      "slug": "dunamu",
+      "name": "Dunamu",
+      "researchSlug": "dunamu",
+      "website": "https://www.dunamu.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://linkedin.com/company/dunamu"
+      },
+      "branding": "/logo/companies/dunamu.png",
+      "gaps": []
+    },
+    {
+      "slug": "21bitcoin",
+      "name": "21bitcoin",
+      "researchSlug": "21bitcoin",
+      "website": "https://21bitcoin.app/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/21bitcoinApp",
+        "linkedin": "https://www.linkedin.com/company/21bitcoin/"
+      },
+      "branding": "/logo/companies/21bitcoin.png",
+      "gaps": []
+    },
+    {
+      "slug": "aquanow",
+      "name": "Aquanow",
+      "researchSlug": "aquanow",
+      "website": "https://www.aquanow.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/aquanow",
+        "linkedin": "https://www.linkedin.com/company/aquanow/"
+      },
+      "branding": "/logo/companies/aquanow.png",
+      "gaps": []
+    },
+    {
+      "slug": "bison",
+      "name": "BISON",
+      "researchSlug": "bison",
+      "website": "https://bisonapp.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/bisonapp"
+      },
+      "branding": "/logo/companies/bison.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitbank",
+      "name": "bitbank",
+      "researchSlug": "bitbank",
+      "website": "https://bitbank.cc/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": true,
+      "socialLinks": {
+        "twitter": "https://twitter.com/bitbank_inc/"
+      },
+      "branding": "/logo/companies/bitbank.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitcoin-suisse",
+      "name": "Bitcoin Suisse",
+      "researchSlug": "bitcoin-suisse",
+      "website": "https://bitcoinsuisse.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/BitcoinSuisse_",
+        "linkedin": "https://www.linkedin.com/company/bitcoinsuissegroup"
+      },
+      "branding": "/logo/companies/bitcoin-suisse.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitmama",
+      "name": "Bitmama",
+      "researchSlug": "bitmama",
+      "website": "https://bitmama.io/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/bitmamaexchange"
+      },
+      "branding": "/logo/companies/bitmama.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitnovo",
+      "name": "Bitnovo",
+      "researchSlug": "bitnovo",
+      "website": "https://www.bitnovo.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/bitnovo",
+        "linkedin": "https://www.linkedin.com/company/bitnovo/"
+      },
+      "branding": "/logo/companies/bitnovo.png",
+      "gaps": []
+    },
+    {
+      "slug": "cashlink",
+      "name": "Cashlink",
+      "researchSlug": "cashlink",
+      "website": "https://cashlink.de/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://de.linkedin.com/company/cashlink"
+      },
+      "branding": "/logo/companies/cashlink.png",
+      "gaps": []
+    },
+    {
+      "slug": "change",
+      "name": "Change",
+      "researchSlug": "change",
+      "website": "https://www.changeinvest.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/changefinance",
+        "linkedin": "https://www.linkedin.com/company/changeinvest/"
+      },
+      "branding": "/logo/companies/change.png",
+      "gaps": []
+    },
+    {
+      "slug": "coincash",
+      "name": "CoinCash",
+      "researchSlug": "coincash",
+      "website": "https://coincash.eu/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/coincash",
+        "twitter": "https://twitter.com/CoinCashEU"
+      },
+      "branding": "/logo/companies/coincash.png",
+      "gaps": []
+    },
+    {
+      "slug": "coincorner",
+      "name": "CoinCorner",
+      "researchSlug": "coincorner",
+      "website": "https://www.coincorner.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/CoinCorner",
+        "linkedin": "https://www.linkedin.com/company/coincorner"
+      },
+      "branding": "/logo/companies/coincorner.png",
+      "gaps": []
+    },
+    {
+      "slug": "coinext",
+      "name": "Coinext",
+      "researchSlug": "coinext",
+      "website": "https://coinext.com.br/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/Coinext_oficial",
+        "linkedin": "https://www.linkedin.com/company/coinext/"
+      },
+      "branding": "/logo/companies/coinext.png",
+      "gaps": []
+    },
+    {
+      "slug": "coinfinity",
+      "name": "Coinfinity",
+      "researchSlug": "coinfinity",
+      "website": "https://coinfinity.co/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/coinfinity",
+        "linkedin": "https://linkedin.com/company/coinfinity/"
+      },
+      "branding": "/logo/companies/coinfinity.png",
+      "gaps": []
+    },
+    {
+      "slug": "deblock",
+      "name": "Deblock",
+      "researchSlug": "deblock",
+      "website": "https://deblock.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/deblock/",
+        "twitter": "https://twitter.com/DeblockApp"
+      },
+      "branding": "/logo/companies/deblock.png",
+      "gaps": []
+    },
+    {
+      "slug": "double-jump-tokyo",
+      "name": "double jump.tokyo",
+      "researchSlug": "double-jump-tokyo",
+      "website": "https://www.doublejump.tokyo/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/doublejumptokyo",
+        "linkedin": "https://www.linkedin.com/company/doublejump-tokyo"
+      },
+      "branding": "/logo/companies/double-jump-tokyo.png",
+      "gaps": []
+    },
+    {
+      "slug": "flitpay",
+      "name": "Flitpay",
+      "researchSlug": "flitpay",
+      "website": "https://www.flitpay.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/flitpayofficial"
+      },
+      "branding": "/logo/companies/flitpay.png",
+      "gaps": []
+    },
+    {
+      "slug": "fomo-pay",
+      "name": "FOMO Pay",
+      "researchSlug": "fomo-pay",
+      "website": "https://www.fomopay.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/fomo-pay",
+        "twitter": "https://twitter.com/FOMOPayOfficial"
+      },
+      "branding": "/logo/companies/fomo-pay.png",
+      "gaps": []
+    },
+    {
+      "slug": "fuze",
+      "name": "Fuze",
+      "researchSlug": "fuze",
+      "website": "https://fuze.finance/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/fuzehq",
+        "twitter": "https://x.com/fuzefinance"
+      },
+      "branding": "/logo/companies/fuze.png",
+      "gaps": []
+    },
+    {
+      "slug": "ginco",
+      "name": "Ginco",
+      "researchSlug": "ginco",
+      "website": "https://www.ginco.co.jp/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/ginco_inc"
+      },
+      "branding": "/logo/companies/ginco.png",
+      "gaps": []
+    },
+    {
+      "slug": "hata",
+      "name": "Hata",
+      "researchSlug": "hata",
+      "website": "https://hata.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/hataglobal/",
+        "linkedin": "https://www.linkedin.com/company/hataglobal/"
+      },
+      "branding": "/logo/companies/hata.png",
+      "gaps": []
+    },
+    {
+      "slug": "koinx",
+      "name": "KoinX",
+      "researchSlug": "koinx",
+      "website": "https://www.koinx.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/getkoinx",
+        "linkedin": "https://www.linkedin.com/company/getkoinx"
+      },
+      "branding": "/logo/companies/koinx.png",
+      "gaps": []
+    },
+    {
+      "slug": "lemon",
+      "name": "Lemon",
+      "researchSlug": "lemon",
+      "website": "https://lemon.me/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/lemonapp_ar",
+        "linkedin": "https://www.linkedin.com/company/lemonlat"
+      },
+      "branding": "/logo/companies/lemon.png",
+      "gaps": []
+    },
+    {
+      "slug": "liminal-custody",
+      "name": "Liminal",
+      "researchSlug": "liminal-custody",
+      "website": "https://www.liminalcustody.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/liminalcustody/",
+        "twitter": "https://twitter.com/liminalcustody"
+      },
+      "branding": "/logo/companies/liminal-custody.png",
+      "gaps": []
+    },
+    {
+      "slug": "midchains",
+      "name": "MidChains",
+      "researchSlug": "midchains",
+      "website": "https://www.midchains.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/midchains/",
+        "twitter": "https://x.com/MidChains_"
+      },
+      "branding": "/logo/companies/midchains.png",
+      "gaps": []
+    },
+    {
+      "slug": "mt-pelerin",
+      "name": "Mt Pelerin",
+      "researchSlug": "mt-pelerin",
+      "website": "https://www.mtpelerin.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/mt-pelerin/"
+      },
+      "branding": "/logo/companies/mt-pelerin.png",
+      "gaps": []
+    },
+    {
+      "slug": "nbx",
+      "name": "NBX",
+      "researchSlug": "nbx",
+      "website": "https://nbx.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/nbxcom"
+      },
+      "branding": "/logo/companies/nbx.png",
+      "gaps": []
+    },
+    {
+      "slug": "netcoins",
+      "name": "Netcoins",
+      "researchSlug": "netcoins",
+      "website": "https://netcoins.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/Netcoins"
+      },
+      "branding": "/logo/companies/netcoins.png",
+      "gaps": []
+    },
+    {
+      "slug": "paymium",
+      "name": "Paymium",
+      "researchSlug": "paymium",
+      "website": "https://www.paymium.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/paymium_en",
+        "linkedin": "https://www.linkedin.com/company/paymium/"
+      },
+      "branding": "/logo/companies/paymium.png",
+      "gaps": []
+    },
+    {
+      "slug": "relai",
+      "name": "Relai",
+      "researchSlug": "relai",
+      "website": "https://relai.app/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/Relai_app",
+        "linkedin": "https://www.linkedin.com/company/relai-app"
+      },
+      "branding": "/logo/companies/relai.png",
+      "gaps": []
+    },
+    {
+      "slug": "safello",
+      "name": "Safello",
+      "researchSlug": "safello",
+      "website": "https://safello.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/SafelloAB"
+      },
+      "branding": "/logo/companies/safello.png",
+      "gaps": []
+    },
+    {
+      "slug": "sbi-vc-trade",
+      "name": "SBI VC Trade",
+      "researchSlug": "sbi-vc-trade",
+      "website": "https://www.sbivc.co.jp/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/sbivc_official"
+      },
+      "branding": "/logo/companies/sbi-vc-trade.png",
+      "gaps": []
+    },
+    {
+      "slug": "tangany",
+      "name": "Tangany",
+      "researchSlug": "tangany",
+      "website": "https://tangany.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/11444632",
+        "twitter": "https://twitter.com/tangany"
+      },
+      "branding": "/logo/companies/tangany.png",
+      "gaps": []
+    },
+    {
+      "slug": "waltio",
+      "name": "Waltio",
+      "researchSlug": "waltio",
+      "website": "https://www.waltio.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/Get_Waltio",
+        "linkedin": "https://www.linkedin.com/company/waltio/"
+      },
+      "branding": "/logo/companies/waltio.png",
+      "gaps": []
+    },
+    {
+      "slug": "zumo",
+      "name": "Zumo",
+      "researchSlug": "zumo",
+      "website": "https://zumo.co.uk/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/zumo-enterprise/",
+        "twitter": "https://twitter.com/zumopay"
+      },
+      "branding": "/logo/companies/zumo.png",
+      "gaps": []
+    },
+    {
+      "slug": "swissquote",
+      "name": "Swissquote",
+      "researchSlug": "swissquote",
+      "website": "https://www.swissquote.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/swissquote",
+        "twitter": "https://x.com/Swissquote"
+      },
+      "branding": "/logo/companies/swissquote.png",
+      "gaps": []
+    },
+    {
+      "slug": "ankr",
+      "name": "Ankr",
+      "researchSlug": "ankr",
+      "website": "https://www.ankr.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/ankr"
+      },
+      "branding": "/logo/companies/ankr.png",
+      "gaps": []
+    },
+    {
+      "slug": "applied-blockchain",
+      "name": "Applied Blockchain",
+      "researchSlug": "applied-blockchain",
+      "website": "https://appliedblockchain.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/applied-blockchain/",
+        "twitter": "https://x.com/appblockchain"
+      },
+      "branding": "/logo/companies/applied-blockchain.png",
+      "gaps": []
+    },
+    {
+      "slug": "arcus",
+      "name": "Arcus",
+      "researchSlug": "arcus",
+      "website": "https://arcus.xyz/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/arcus_xyz",
+        "linkedin": "https://www.linkedin.com/company/arcus-xyz"
+      },
+      "branding": "/logo/companies/arcus.png",
+      "gaps": []
+    },
+    {
+      "slug": "argus-labs",
+      "name": "Argus Labs",
+      "researchSlug": "argus-labs",
+      "website": "https://argus.gg/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/ArgusLabs_",
+        "linkedin": "https://www.linkedin.com/company/arguslabs/"
+      },
+      "branding": "/logo/companies/argus-labs.png",
+      "gaps": []
+    },
+    {
+      "slug": "arrakis-finance",
+      "name": "Arrakis Finance",
+      "researchSlug": "arrakis-finance",
+      "website": "https://arrakis.finance/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/ArrakisFinance"
+      },
+      "branding": "/logo/companies/arrakis-finance.png",
+      "gaps": []
+    },
+    {
+      "slug": "auros",
+      "name": "Auros",
+      "researchSlug": "auros",
+      "website": "https://www.auros.global/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/Auros_global",
+        "linkedin": "https://www.linkedin.com/company/aurosglobal"
+      },
+      "branding": "/logo/companies/auros.png",
+      "gaps": []
+    },
+    {
+      "slug": "axiom",
+      "name": "Axiom",
+      "researchSlug": "axiom",
+      "website": "https://www.axiom.xyz/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/axiom_xyz"
+      },
+      "branding": "/logo/companies/axiom.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitaccess",
+      "name": "Bitaccess",
+      "researchSlug": "bitaccess",
+      "website": "https://bitaccess.ca/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/bitaccess"
+      },
+      "branding": "/logo/companies/bitaccess.png",
+      "gaps": []
+    },
+    {
+      "slug": "bitonic",
+      "name": "Bitonic",
+      "researchSlug": "bitonic",
+      "website": "https://bitonic.nl/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/bitonic"
+      },
+      "branding": "/logo/companies/bitonic.png",
+      "gaps": []
+    },
+    {
+      "slug": "bluefin",
+      "name": "Bluefin",
+      "researchSlug": "bluefin",
+      "website": "https://bluefin.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/bluefinapp"
+      },
+      "branding": "/logo/companies/bluefin.png",
+      "gaps": []
+    },
+    {
+      "slug": "bob",
+      "name": "BOB",
+      "researchSlug": "bob",
+      "website": "https://www.gobob.xyz/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/build_on_bob"
+      },
+      "branding": "/logo/companies/bob.png",
+      "gaps": []
+    },
+    {
+      "slug": "boost",
+      "name": "Boost",
+      "researchSlug": "boost",
+      "website": "https://www.boost.xyz/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/boost_xyz"
+      },
+      "branding": "/logo/companies/boost.png",
+      "gaps": []
+    },
+    {
+      "slug": "bullish",
+      "name": "Bullish",
+      "researchSlug": "bullish",
+      "website": "https://www.bullish.com/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": true,
+      "socialLinks": {
+        "twitter": "https://twitter.com/Bullish",
+        "linkedin": "https://linkedin.com/company/bebullish"
+      },
+      "branding": "/logo/companies/bullish.png",
+      "gaps": []
+    },
+    {
+      "slug": "dialectic",
+      "name": "Dialectic",
+      "researchSlug": "dialectic",
+      "website": "https://dialectic.com/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/Dialectic_Group"
+      },
+      "branding": "/logo/companies/dialectic.png",
+      "gaps": []
+    },
+    {
+      "slug": "eco-protocol",
+      "name": "Eco",
+      "researchSlug": "eco",
+      "website": "https://eco.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/ecoproto/",
+        "twitter": "https://x.com/eco"
+      },
+      "branding": "/logo/companies/eco.png",
+      "gaps": []
+    },
+    {
+      "slug": "hype",
+      "name": "Hype",
+      "researchSlug": "hype",
+      "website": "https://www.hy.pe/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/hype-partners/",
+        "twitter": "https://x.com/hypepartners"
+      },
+      "branding": "/logo/companies/hype.png",
+      "gaps": []
+    },
+    {
+      "slug": "injective-labs",
+      "name": "Injective Labs",
+      "researchSlug": "injective-labs",
+      "website": "https://injectivelabs.org/",
+      "existingMarkdownProfile": true,
+      "previouslyActive": true,
+      "socialLinks": {
+        "twitter": "https://twitter.com/injectivelabs",
+        "linkedin": "https://www.linkedin.com/company/injectivelabs"
+      },
+      "branding": "/logo/companies/injective-labs.png",
+      "gaps": []
+    },
+    {
+      "slug": "institute-of-free-technology",
+      "name": "Institute of Free Technology",
+      "researchSlug": "institute-of-free-technology",
+      "website": "https://free.technology/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/institute-of-free-technologies/",
+        "twitter": "https://twitter.com/InstituteFT"
+      },
+      "branding": "/logo/companies/institute-of-free-technology.png",
+      "gaps": []
+    },
+    {
+      "slug": "intellecteu",
+      "name": "IntellectEU",
+      "researchSlug": "intellecteu",
+      "website": "https://www.intellecteu.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/intellecteu",
+        "linkedin": "https://www.linkedin.com/company/intellecteu"
+      },
+      "branding": "/logo/companies/intellecteu.png",
+      "gaps": []
+    },
+    {
+      "slug": "kappa-lab",
+      "name": "Kappa Lab",
+      "researchSlug": "kappa-lab",
+      "website": "https://kappalab.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/KappaLab_io",
+        "linkedin": "https://www.linkedin.com/company/kappalab"
+      },
+      "branding": "/logo/companies/kappa-lab.png",
+      "gaps": []
+    },
+    {
+      "slug": "legend",
+      "name": "Legend",
+      "researchSlug": "legend",
+      "website": "https://legend.xyz/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/legendapp"
+      },
+      "branding": "/logo/companies/legend.png",
+      "gaps": []
+    },
+    {
+      "slug": "lisk",
+      "name": "Lisk",
+      "researchSlug": "lisk",
+      "website": "https://lisk.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/Lisk",
+        "linkedin": "https://www.linkedin.com/company/lisk"
+      },
+      "branding": "/logo/companies/lisk.png",
+      "gaps": []
+    },
+    {
+      "slug": "makina",
+      "name": "Makina",
+      "researchSlug": "makina",
+      "website": "https://makina.finance/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/makinafi"
+      },
+      "branding": "/logo/companies/makina.png",
+      "gaps": []
+    },
+    {
+      "slug": "n1",
+      "name": "N1",
+      "researchSlug": "n1",
+      "website": "https://www.n1.xyz/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/N1Chain"
+      },
+      "branding": "/logo/companies/n1.png",
+      "gaps": []
+    },
+    {
+      "slug": "nimbus",
+      "name": "Nimbus",
+      "researchSlug": "nimbus",
+      "website": "https://nimbus.team/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/ethnimbus"
+      },
+      "branding": "/logo/companies/nimbus.png",
+      "gaps": []
+    },
+    {
+      "slug": "optimism-foundation",
+      "name": "Optimism Foundation",
+      "researchSlug": "optimism-foundation",
+      "website": "https://optimism.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/Optimism",
+        "linkedin": "https://www.linkedin.com/company/optimism-foundation"
+      },
+      "branding": "/logo/companies/optimism-foundation.png",
+      "gaps": []
+    },
+    {
+      "slug": "qcp-capital",
+      "name": "QCP Capital",
+      "researchSlug": "qcp-capital",
+      "website": "https://www.qcpgroup.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/QCPgroup",
+        "linkedin": "https://www.linkedin.com/company/qcp-group/"
+      },
+      "branding": "/logo/companies/qcp-capital.png",
+      "gaps": []
+    },
+    {
+      "slug": "quantstamp",
+      "name": "Quantstamp",
+      "researchSlug": "quantstamp",
+      "website": "https://quantstamp.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/quantstamp/",
+        "twitter": "https://x.com/Quantstamp"
+      },
+      "branding": "/logo/companies/quantstamp.png",
+      "gaps": []
+    },
+    {
+      "slug": "the-better-money-company",
+      "name": "The Better Money Company",
+      "researchSlug": "the-better-money-company",
+      "website": "https://bettermoney.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/bettermoney_co"
+      },
+      "branding": "/logo/companies/the-better-money-company.png",
+      "gaps": []
+    },
+    {
+      "slug": "trilitech",
+      "name": "Trilitech",
+      "researchSlug": "trilitech",
+      "website": "https://www.trili.tech/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/trilitech",
+        "twitter": "https://twitter.com/trilitech"
+      },
+      "branding": "/logo/companies/trilitech.png",
+      "gaps": []
+    },
+    {
+      "slug": "usual",
+      "name": "Usual",
+      "researchSlug": "usual",
+      "website": "https://usual.money/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/usualmoney/",
+        "twitter": "https://x.com/usualmoney"
+      },
+      "branding": "/logo/companies/usual.png",
+      "gaps": []
+    },
+    {
+      "slug": "veefriends",
+      "name": "VeeFriends",
+      "researchSlug": "veefriends",
+      "website": "https://veefriends.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://x.com/veefriends"
+      },
+      "branding": "/logo/companies/veefriends.png",
+      "gaps": []
+    },
+    {
+      "slug": "violet",
+      "name": "Violet",
+      "researchSlug": "violet",
+      "website": "https://www.violet.co/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/violetidentity"
+      },
+      "branding": "/logo/companies/violet.png",
+      "gaps": []
+    },
+    {
+      "slug": "zenledger",
+      "name": "ZenLedger",
+      "researchSlug": "zenledger",
+      "website": "https://zenledger.io/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/company/zenledger-io/",
+        "twitter": "https://twitter.com/ZenLedgerIO"
+      },
+      "branding": "/logo/companies/zenledger.png",
+      "gaps": []
+    },
+    {
+      "slug": "zircuit",
+      "name": "Zircuit",
+      "researchSlug": "zircuit",
+      "website": "https://www.zircuit.com/",
+      "existingMarkdownProfile": false,
+      "previouslyActive": false,
+      "socialLinks": {
+        "twitter": "https://twitter.com/zircuit"
+      },
+      "branding": "/logo/companies/zircuit.png",
+      "gaps": []
+    }
+  ]
+}

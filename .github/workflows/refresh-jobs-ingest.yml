@@ -66,6 +66,30 @@ jobs:
         run: npx tsx scripts/ingest-untracked-web3-companies.ts
         continue-on-error: true
 
+      - name: Verify country-local sources and import eligible jobs
+        run: npx tsx --test scripts/test-country-local-crypto.ts scripts/test-hiring-links-548-recurring.ts scripts/test-hiring-links-csv.ts && npx tsx scripts/ingest-country-local-crypto.ts
+        continue-on-error: true
+
+      - name: Preserve country-local source evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: country-local-crypto-${{ github.run_id }}
+          path: content/sources/country-local-import.json
+          retention-days: 14
+
+      - name: Verify expansion sources and import eligible Web3 jobs
+        run: npx tsx --test scripts/test-web3-expansion-feeds.ts && npx tsx scripts/ingest-web3-expansion.ts
+        continue-on-error: true
+
+      - name: Preserve Web3 expansion source evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: web3-expansion-${{ github.run_id }}
+          path: content/sources/hiring-links-636-import.json
+          retention-days: 14
+
       - name: Ingest Franklin Templeton Official Jobs
         run: npx tsx scripts/ingest-franklin-templeton-jobs.ts
         continue-on-error: true
@@ -114,12 +138,12 @@ jobs:
         uses: actions/cache@v4
         with:
           path: public/og
-          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'scripts/precompute-og-images.ts') }}
+          key: og-cards-${{ hashFiles('content/jobs-runtime.json', 'content/company-profile-overrides.json', 'content/company-branding.json', 'public/logo/companies/*.png', 'scripts/precompute-og-images.ts') }}
           restore-keys: |
             og-cards-
 
       - name: Precompute companies runtime (OG company cards)
-        run: npx tsx scripts/precompute-companies-runtime.ts
+        run: npx tsx scripts/precompute-company-profiles.ts && npx tsx scripts/precompute-companies-runtime.ts
 
       - name: Verify company role counts and associations
         run: npx tsx scripts/generate-slug-types.ts && npm run test:company-jobs
@@ -129,7 +153,7 @@ jobs:
         continue-on-error: true
 
       - name: Record generated job catalogue hashes
-        run: npm run update:prebuild-hashes -- --step=jobs-runtime --step=companies-runtime --step=slug-types
+        run: npm run update:prebuild-hashes -- --step=jobs-runtime --step=company-profiles --step=companies-runtime --step=slug-types
 
       - name: Regenerate sitemap (ingest owns route list)
         run: npx tsx scripts/generate-sitemap-json.ts && npm run update:prebuild-hashes -- --step=sitemap

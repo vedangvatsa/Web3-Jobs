@@ -35,7 +35,7 @@ async function main(): Promise<void> {
     staged += 1;
   }
 
-  for (const company of await getCompanies()) {
+  for (const company of await getCompanies(true)) {
     const slug = getCompanySlug(company.name);
     const rel = path.join('public', 'og', 'companies', `${slug}.png`);
     const abs = path.join(ROOT, rel);

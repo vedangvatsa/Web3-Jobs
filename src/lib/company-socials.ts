@@ -6,6 +6,21 @@ export interface CompanySocialLinks {
 
 export type CompanySocialsMap = Record<string, CompanySocialLinks>;
 
+export function normalizeOfficialCompanySocial(raw: string): { key: keyof CompanySocialLinks; url: string } | undefined {
+  try {
+    const u = new URL(raw);
+    if (u.protocol !== 'https:' || u.username || u.password || u.port) return;
+    const host = u.hostname.toLowerCase().replace(/^www\./, '');
+    let key: keyof CompanySocialLinks;
+    if (['linkedin.com', 'de.linkedin.com', 'uk.linkedin.com', 'fr.linkedin.com', 'jp.linkedin.com', 'sg.linkedin.com', 'in.linkedin.com'].includes(host) && /^\/company\/[^/]+\/?$/.test(u.pathname)) key = 'linkedin';
+    else if (['x.com', 'twitter.com'].includes(host) && /^\/[a-zA-Z0-9_]{1,15}\/?$/.test(u.pathname) && !/^\/(intent|share|home|login|signup|i|search|explore|settings)\/?$/i.test(u.pathname)) key = 'twitter';
+    else if (host === 'crunchbase.com' && /^\/organization\/[^/]+\/?$/.test(u.pathname)) key = 'crunchbase';
+    else return;
+    u.search = ''; u.hash = '';
+    return { key, url: u.href };
+  } catch { return; }
+}
+
 function normalizeHost(domainOrUrl: string): string {
   const raw = domainOrUrl.trim().toLowerCase();
   try {

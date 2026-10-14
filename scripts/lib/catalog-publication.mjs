@@ -9,6 +9,7 @@ export const CATALOG_PATHS = {
   events: ['content/events/', 'content/events-runtime.json', 'content/event-slug-history.json', 'content/event-tombstones.json', 'content/event-image-overrides.json', 'content/event-cover-optimization.json', 'content/static-image-optimization.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'content/legacy-image-paths.json', 'content/social-image-info.json', 'content/prebuild-input-hashes.json', 'src/lib/event-guides.ts', 'scripts/event-emails.json', 'scripts/event-emails-full.json', 'public/preview/', 'public/events/', 'public/responsive/', 'public/images/', 'public/og/external/'],
   news: ['content/news-cache.json'],
 };
+CATALOG_PATHS.jobs.push('content/company-profile-overrides.json', 'content/company-profile-editorial.json', 'content/company-profiles-runtime.json', 'content/company-branding.json', 'content/company-socials.json', 'content/company-logos-index.json');
 const SHARED_MAPS = new Set(['content/prebuild-input-hashes.json', 'content/social-image-info.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'public/og/manifest.json', 'public/preview/.preview-manifest.json']);
 const RECEIPT = 'content/catalog-refresh-state.json';
 

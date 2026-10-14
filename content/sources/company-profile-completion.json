@@ -1,0 +1,538 @@
+{
+  "checkedAt": "2026-10-14T20:47:40.539Z",
+  "employers": 81,
+  "website": 81,
+  "about": 81,
+  "branding": 81,
+  "withVerifiedSocials": 81,
+  "linkedin": 55,
+  "twitter": 77,
+  "crunchbase": 0,
+  "zeroJobs": 77,
+  "activeEmployers": 4,
+  "profilesBefore": 561,
+  "profilesAfter": 634,
+  "companiesBefore": 179,
+  "companiesAfter": 256,
+  "additionalNewHiringRecords": 0,
+  "verifiedProductionPages": 81,
+  "fieldGaps": [],
+  "optionalSocialFieldsNotVerified": [
+    {
+      "slug": "coinmotion",
+      "fields": [
+        "twitter",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "pdax",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "foxbit",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "finoa",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "taurus",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "xrex",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "finst",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "breet",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bit2me",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "honeycoin",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "dunamu",
+      "fields": [
+        "twitter",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "21bitcoin",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "aquanow",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bison",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitbank",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitcoin-suisse",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitmama",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitnovo",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "cashlink",
+      "fields": [
+        "twitter",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "change",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "coincash",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "coincorner",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "coinext",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "coinfinity",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "deblock",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "double-jump-tokyo",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "flitpay",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "fomo-pay",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "fuze",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "ginco",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "hata",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "koinx",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "lemon",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "liminal-custody",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "midchains",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "mt-pelerin",
+      "fields": [
+        "twitter",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "nbx",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "netcoins",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "paymium",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "relai",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "safello",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "sbi-vc-trade",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "tangany",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "waltio",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "zumo",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "swissquote",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "ankr",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "applied-blockchain",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "arcus",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "argus-labs",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "arrakis-finance",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "auros",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "axiom",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitaccess",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bitonic",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bluefin",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bob",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "boost",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "bullish",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "dialectic",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "eco-protocol",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "hype",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "injective-labs",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "institute-of-free-technology",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "intellecteu",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "kappa-lab",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "legend",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "lisk",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "makina",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "n1",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "nimbus",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "optimism-foundation",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "qcp-capital",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "quantstamp",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "the-better-money-company",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "trilitech",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "usual",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "veefriends",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "violet",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "zenledger",
+      "fields": [
+        "crunchbase"
+      ]
+    },
+    {
+      "slug": "zircuit",
+      "fields": [
+        "linkedin",
+        "crunchbase"
+      ]
+    }
+  ]
+}

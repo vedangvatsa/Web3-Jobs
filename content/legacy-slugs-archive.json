@@ -144732,5 +144732,377 @@
     "link": "https://jobs.ashbyhq.com/ramp/8f3c27f0-50fb-47ba-a3dd-597428380843",
     "company": "Ramp",
     "title": "Account Executive | Enterprise"
+  },
+  "cc6": {
+    "id": "c0f5bff7-fd8b-40d9-9f6d-5caeda1b63b2",
+    "link": "https://jobs.lever.co/1inch/c0f5bff7-fd8b-40d9-9f6d-5caeda1b63b2",
+    "title": "Corporate Counsel",
+    "company": "1inch"
+  },
+  "ops6": {
+    "id": "8195483",
+    "link": "https://stripe.com/jobs/search?gh_jid=8195483",
+    "title": "GTM Strategy & Operations Analyst",
+    "company": "Stripe"
+  },
+  "pm7": {
+    "id": "8200530",
+    "link": "https://ripple.com/careers/all-jobs/job/8200530?gh_jid=8200530",
+    "title": "Product Operations Specialist",
+    "company": "Ripple"
+  },
+  "sls8": {
+    "id": "8785705002",
+    "link": "https://complyadvantage.com/careers/jobs/8785705002?gh_jid=8785705002",
+    "title": "Manager- Business Development",
+    "company": "ComplyAdvantage"
+  },
+  "tr3": {
+    "id": "8173418",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8173418",
+    "title": "Flow Quant Trading Days 2026",
+    "company": "Flow Traders"
+  },
+  "ops9": {
+    "id": "8198198",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198",
+    "title": "Brokerage Operations Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int6": {
+    "id": "8198223",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223",
+    "title": "Brokerage Risk Analyst Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "ops8": {
+    "id": "8193484",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484",
+    "title": "Crypto Operations Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int5": {
+    "id": "8193710",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710",
+    "title": "Crypto Partnership Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "ops10": {
+    "id": "8198241",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
+    "title": "Fraud Operations Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "mkt3": {
+    "id": "8192367",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367",
+    "title": "Growth Marketing Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int7": {
+    "id": "8198255",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
+    "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "dev4": {
+    "id": "8199744",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+    "title": "Software Developer Intern, Web (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "eng22": {
+    "id": "8142961",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+    "title": "Software Engineering Intern, Android (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "eng21": {
+    "id": "8142959",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+    "title": "Software Engineering Intern, iOS (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int8": {
+    "id": "8198262",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
+    "title": "Special Projects Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "pm8": {
+    "id": "8199973",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
+    "title": "Associate Product Manager (New Grad)",
+    "company": "Robinhood"
+  },
+  "int": {
+    "id": "8123238",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238",
+    "title": "Business Analyst Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "sls9": {
+    "id": "8198153",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153",
+    "title": "Crypto Accounting Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "ops7": {
+    "id": "8187309",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309",
+    "title": "Futures & Prediction Market Operations Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int4": {
+    "id": "8198187",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187",
+    "title": "Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int2": {
+    "id": "8197614",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
+    "title": "People Partner Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "be7": {
+    "id": "8142930",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+    "title": "Software Developer Intern, Backend (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "be8": {
+    "id": "8194428",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8194428?t=gh_src=&gh_jid=8194428",
+    "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
+    "company": "Robinhood"
+  },
+  "dev3": {
+    "id": "8199729",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+    "title": "Software Developer Intern, iOS (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "be6": {
+    "id": "8123225",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+    "title": "Software Engineering Intern, Backend (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "eng20": {
+    "id": "8142963",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+    "title": "Software Engineering Intern, Web (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "int3": {
+    "id": "8198097",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
+    "title": "Vendor Management Intern (Summer 2027)",
+    "company": "Robinhood"
+  },
+  "cmp6": {
+    "id": "9b0e167a-81e3-499b-bb46-03294f18b5db",
+    "link": "https://jobs.lever.co/certik/9b0e167a-81e3-499b-bb46-03294f18b5db",
+    "title": "Director of AML & Virtual Asset Compliance",
+    "company": "CertiK"
+  },
+  "an6": {
+    "id": "b4839140-4d99-43ab-b714-cf34e50c10be",
+    "link": "https://jobs.ashbyhq.com/coinflow/b4839140-4d99-43ab-b714-cf34e50c10be",
+    "title": "KYC Analyst",
+    "company": "Coinflow"
+  },
+  "sls11": {
+    "id": "8191720",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191720",
+    "title": "Sales Manager, Key Accounts - Enterprise",
+    "company": "Stripe"
+  },
+  "aso44": {
+    "id": "2745600",
+    "link": "https://careers.tether.io/o/usat-institutional-associate-junior-mid-2",
+    "title": "USAT Institutional Associate (Junior-Mid)",
+    "company": "Tether"
+  },
+  "eng27": {
+    "id": "7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d",
+    "title": "Senior Software Engineer, Aggregation & Search",
+    "company": "Chainalysis"
+  },
+  "infra2": {
+    "id": "6184949004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6184949004",
+    "title": "Senior Technical Product Manager: Infrastructure and Platforms",
+    "company": "Alpaca"
+  },
+  "mlro": {
+    "id": "4896182101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4896182101",
+    "title": "Money Laundering Reporting Officer",
+    "company": "Bybit"
+  },
+  "mgr6": {
+    "id": "8200577",
+    "link": "https://ripple.com/careers/all-jobs/job/8200577?gh_jid=8200577",
+    "title": "Privacy Senior Manager",
+    "company": "Ripple"
+  },
+  "mgr5": {
+    "id": "8200555",
+    "link": "https://ripple.com/careers/all-jobs/job/8200555?gh_jid=8200555",
+    "title": "Privacy Senior Manager",
+    "company": "Ripple"
+  },
+  "vip": {
+    "id": "7994020003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7994020003",
+    "title": "VIP业务策略与中台运营专家",
+    "company": "OKX"
+  },
+  "drsp": {
+    "id": "5410003008",
+    "link": "http://block.xyz/careers/jobs/5410003008?gh_jid=5410003008",
+    "title": "Director, Revenue Strategy & Planning",
+    "company": "Block"
+  },
+  "mkt10": {
+    "id": "6187285004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6187285004",
+    "title": "Content Marketing Manager, Crypto",
+    "company": "Alpaca"
+  },
+  "cmp7": {
+    "id": "4975981101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975981101",
+    "title": "Compliance Officer, India",
+    "company": "Bybit"
+  },
+  "mkt8": {
+    "id": "6191942004",
+    "link": "https://job-boards.greenhouse.io/strike/jobs/6191942004",
+    "title": "Head of Marketing",
+    "company": "Strike"
+  },
+  "ess": {
+    "id": "8191248",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191248",
+    "title": "Enterprise Support Specialist",
+    "company": "Stripe"
+  },
+  "an7": {
+    "id": "8189018",
+    "link": "https://stripe.com/jobs/search?gh_jid=8189018",
+    "title": "Third Party Risk Analyst",
+    "company": "Stripe"
+  },
+  "mkt7": {
+    "id": "f4545aaa-c98b-4134-b250-f12dc46ad6a8",
+    "link": "https://jobs.ashbyhq.com/ramp/f4545aaa-c98b-4134-b250-f12dc46ad6a8",
+    "title": "Performance Marketing Manager",
+    "company": "Ramp"
+  },
+  "mgr7": {
+    "id": "6189588004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6189588004",
+    "title": "Manager / Senior Manager, Total Rewards & Key Projects",
+    "company": "Alpaca"
+  },
+  "eng32": {
+    "id": "5423630008",
+    "link": "http://block.xyz/careers/jobs/5423630008?gh_jid=5423630008",
+    "title": "Staff iOS Software Engineer, Product Platform",
+    "company": "Block"
+  },
+  "aso5": {
+    "id": "295101d6-58a7-482f-98ad-f383af6faa29",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/295101d6-58a7-482f-98ad-f383af6faa29",
+    "title": "Associate General Counsel, Corporate",
+    "company": "Mysten Labs"
+  },
+  "eng31": {
+    "id": "ea61396e-dd07-42a5-9173-8b58ba5bb9ec",
+    "link": "https://jobs.ashbyhq.com/ether.fi/ea61396e-dd07-42a5-9173-8b58ba5bb9ec",
+    "title": "Blockchain Engineer",
+    "company": "ether.fi"
+  },
+  "fs2": {
+    "id": "92d3b3fe-284b-4d68-890f-b5b26b64bd98",
+    "link": "https://jobs.ashbyhq.com/trm-labs/92d3b3fe-284b-4d68-890f-b5b26b64bd98",
+    "title": "Senior Software Engineer, Full Stack | Product Engineering",
+    "company": "TRM Labs"
+  },
+  "ops12": {
+    "id": "8201680",
+    "link": "https://stripe.com/jobs/search?gh_jid=8201680",
+    "title": "GTM Strategy & Operations Analyst",
+    "company": "Stripe"
+  },
+  "eng30": {
+    "id": "f4fc9289-e16d-4d4a-afb7-deedab74d3ac",
+    "link": "https://jobs.ashbyhq.com/rain/f4fc9289-e16d-4d4a-afb7-deedab74d3ac",
+    "title": "Site Reliability Engineer",
+    "company": "Rain"
+  },
+  "infra4": {
+    "id": "8171095",
+    "link": "https://stripe.com/jobs/search?gh_jid=8171095",
+    "title": "Strategy & Operations, Infrastructure",
+    "company": "Stripe"
+  },
+  "aso4": {
+    "id": "e61398f2-91e4-468a-ac27-ce9e4bea2b26",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/e61398f2-91e4-468a-ac27-ce9e4bea2b26",
+    "title": "M&A Associate",
+    "company": "Riot Platforms"
+  },
+  "aso3": {
+    "id": "ae3e56e3-6bb0-4f2c-abbc-3c8525376958",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/ae3e56e3-6bb0-4f2c-abbc-3c8525376958",
+    "title": "Employment Associate",
+    "company": "Riot Platforms"
+  },
+  "mkt6": {
+    "id": "7978452003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7978452003",
+    "title": "Partner 18, Marketing Operations Partner",
+    "company": "a16z crypto"
+  },
+  "sls12": {
+    "id": "8201690",
+    "link": "https://stripe.com/jobs/search?gh_jid=8201690",
+    "title": "Account Executive, DACH, Commercial (Existing Business)",
+    "company": "Stripe"
+  },
+  "pm10": {
+    "id": "8190050",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190050",
+    "title": "Account Executive, Product Sales - Billing",
+    "company": "Stripe"
+  },
+  "ops11": {
+    "id": "8199596",
+    "link": "https://stripe.com/jobs/search?gh_jid=8199596",
+    "title": "Strategy & Operations, Risk",
+    "company": "Stripe"
+  },
+  "ficp": {
+    "id": "8186282",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8186282?t=gh_src=&gh_jid=8186282",
+    "title": "Fraud Investigator - Customer Protection",
+    "company": "Robinhood"
+  },
+  "sls129": {
+    "id": "4398793009",
+    "link": "https://job-boards.greenhouse.io/turnkeycareers/jobs/4398793009",
+    "title": "Business Development Representative",
+    "company": "Turnkey"
+  },
+  "sls126": {
+    "id": "8171555",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8171555",
+    "title": "Senior Accountant - Asset Management",
+    "company": "DRW"
   }
 }

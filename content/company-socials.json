@@ -34,9 +34,8 @@
     "crunchbase": "https://crunchbase.com/organization/arbitrum-e0c8"
   },
   "bullish": {
-    "linkedin": "https://www.linkedin.com/company/bebullish",
-    "twitter": "https://x.com/bullish",
-    "crunchbase": "https://crunchbase.com/organization/bullish-global"
+    "twitter": "https://twitter.com/Bullish",
+    "linkedin": "https://linkedin.com/company/bebullish"
   },
   "chainalysis": {
     "linkedin": "https://www.linkedin.com/company/chainalysis",
@@ -356,5 +355,295 @@
     "linkedin": "https://www.linkedin.com/company/trans-tech-turnkey-pvt.-ltd.",
     "twitter": "https://x.com/turnkeyhq",
     "crunchbase": "https://www.crunchbase.com/organization/turn-key-f9fb"
+  },
+  "coinmotion": {
+    "linkedin": "https://www.linkedin.com/company/coinmotion/"
+  },
+  "pdax": {
+    "twitter": "https://x.com/pdaxph",
+    "linkedin": "https://www.linkedin.com/company/pdaxph"
+  },
+  "foxbit": {
+    "linkedin": "https://www.linkedin.com/company/foxbit/",
+    "twitter": "https://x.com/foxbit"
+  },
+  "finoa": {
+    "linkedin": "https://www.linkedin.com/company/finoa-io/",
+    "twitter": "https://x.com/Finoa_io"
+  },
+  "taurus": {
+    "twitter": "https://x.com/taurus_hq",
+    "linkedin": "https://linkedin.com/company/taurus-sa"
+  },
+  "xrex": {
+    "twitter": "https://x.com/xrexinc",
+    "linkedin": "https://www.linkedin.com/company/xrexinc/"
+  },
+  "finst": {
+    "twitter": "https://twitter.com/finst_official",
+    "linkedin": "https://www.linkedin.com/company/finst-official"
+  },
+  "breet": {
+    "twitter": "https://x.com/breetapp",
+    "linkedin": "https://www.linkedin.com/company/inbreetic"
+  },
+  "bit2me": {
+    "twitter": "https://x.com/Bit2Me",
+    "linkedin": "https://linkedin.com/company/bit2me"
+  },
+  "honeycoin": {
+    "twitter": "https://twitter.com/honeycoinapp",
+    "linkedin": "https://linkedin.com/company/honeycoin"
+  },
+  "dunamu": {
+    "linkedin": "https://linkedin.com/company/dunamu"
+  },
+  "21bitcoin": {
+    "twitter": "https://x.com/21bitcoinApp",
+    "linkedin": "https://www.linkedin.com/company/21bitcoin/"
+  },
+  "aquanow": {
+    "twitter": "https://x.com/aquanow",
+    "linkedin": "https://www.linkedin.com/company/aquanow/"
+  },
+  "bison": {
+    "twitter": "https://x.com/bisonapp"
+  },
+  "bitbank": {
+    "twitter": "https://twitter.com/bitbank_inc/"
+  },
+  "bitcoin-suisse": {
+    "twitter": "https://x.com/BitcoinSuisse_",
+    "linkedin": "https://www.linkedin.com/company/bitcoinsuissegroup"
+  },
+  "bitmama": {
+    "twitter": "https://twitter.com/bitmamaexchange"
+  },
+  "bitnovo": {
+    "twitter": "https://twitter.com/bitnovo",
+    "linkedin": "https://www.linkedin.com/company/bitnovo/"
+  },
+  "cashlink": {
+    "linkedin": "https://de.linkedin.com/company/cashlink"
+  },
+  "change": {
+    "twitter": "https://twitter.com/changefinance",
+    "linkedin": "https://www.linkedin.com/company/changeinvest/"
+  },
+  "coincash": {
+    "linkedin": "https://www.linkedin.com/company/coincash",
+    "twitter": "https://twitter.com/CoinCashEU"
+  },
+  "coincorner": {
+    "twitter": "https://x.com/CoinCorner",
+    "linkedin": "https://www.linkedin.com/company/coincorner"
+  },
+  "coinext": {
+    "twitter": "https://x.com/Coinext_oficial",
+    "linkedin": "https://www.linkedin.com/company/coinext/"
+  },
+  "coinfinity": {
+    "twitter": "https://x.com/coinfinity",
+    "linkedin": "https://linkedin.com/company/coinfinity/"
+  },
+  "deblock": {
+    "linkedin": "https://www.linkedin.com/company/deblock/",
+    "twitter": "https://twitter.com/DeblockApp"
+  },
+  "double-jump-tokyo": {
+    "twitter": "https://x.com/doublejumptokyo",
+    "linkedin": "https://www.linkedin.com/company/doublejump-tokyo"
+  },
+  "flitpay": {
+    "twitter": "https://twitter.com/flitpayofficial"
+  },
+  "fomo-pay": {
+    "linkedin": "https://www.linkedin.com/company/fomo-pay",
+    "twitter": "https://twitter.com/FOMOPayOfficial"
+  },
+  "fuze": {
+    "linkedin": "https://www.linkedin.com/company/fuzehq",
+    "twitter": "https://x.com/fuzefinance"
+  },
+  "ginco": {
+    "twitter": "https://x.com/ginco_inc"
+  },
+  "hata": {
+    "twitter": "https://x.com/hataglobal/",
+    "linkedin": "https://www.linkedin.com/company/hataglobal/"
+  },
+  "koinx": {
+    "twitter": "https://x.com/getkoinx",
+    "linkedin": "https://www.linkedin.com/company/getkoinx"
+  },
+  "lemon": {
+    "twitter": "https://twitter.com/lemonapp_ar",
+    "linkedin": "https://www.linkedin.com/company/lemonlat"
+  },
+  "liminal-custody": {
+    "linkedin": "https://www.linkedin.com/company/liminalcustody/",
+    "twitter": "https://twitter.com/liminalcustody"
+  },
+  "midchains": {
+    "linkedin": "https://www.linkedin.com/company/midchains/",
+    "twitter": "https://x.com/MidChains_"
+  },
+  "mt-pelerin": {
+    "linkedin": "https://www.linkedin.com/company/mt-pelerin/"
+  },
+  "nbx": {
+    "twitter": "https://twitter.com/nbxcom"
+  },
+  "netcoins": {
+    "twitter": "https://twitter.com/Netcoins"
+  },
+  "paymium": {
+    "twitter": "https://x.com/paymium_en",
+    "linkedin": "https://www.linkedin.com/company/paymium/"
+  },
+  "relai": {
+    "twitter": "https://x.com/Relai_app",
+    "linkedin": "https://www.linkedin.com/company/relai-app"
+  },
+  "safello": {
+    "twitter": "https://twitter.com/SafelloAB"
+  },
+  "sbi-vc-trade": {
+    "twitter": "https://twitter.com/sbivc_official"
+  },
+  "tangany": {
+    "linkedin": "https://www.linkedin.com/company/11444632",
+    "twitter": "https://twitter.com/tangany"
+  },
+  "waltio": {
+    "twitter": "https://twitter.com/Get_Waltio",
+    "linkedin": "https://www.linkedin.com/company/waltio/"
+  },
+  "zumo": {
+    "linkedin": "https://www.linkedin.com/company/zumo-enterprise/",
+    "twitter": "https://twitter.com/zumopay"
+  },
+  "swissquote": {
+    "linkedin": "https://www.linkedin.com/company/swissquote",
+    "twitter": "https://x.com/Swissquote"
+  },
+  "ankr": {
+    "twitter": "https://twitter.com/ankr"
+  },
+  "applied-blockchain": {
+    "linkedin": "https://www.linkedin.com/company/applied-blockchain/",
+    "twitter": "https://x.com/appblockchain"
+  },
+  "arcus": {
+    "twitter": "https://x.com/arcus_xyz",
+    "linkedin": "https://www.linkedin.com/company/arcus-xyz"
+  },
+  "argus-labs": {
+    "twitter": "https://x.com/ArgusLabs_",
+    "linkedin": "https://www.linkedin.com/company/arguslabs/"
+  },
+  "arrakis-finance": {
+    "twitter": "https://x.com/ArrakisFinance"
+  },
+  "auros": {
+    "twitter": "https://x.com/Auros_global",
+    "linkedin": "https://www.linkedin.com/company/aurosglobal"
+  },
+  "axiom": {
+    "twitter": "https://x.com/axiom_xyz"
+  },
+  "bitaccess": {
+    "twitter": "https://twitter.com/bitaccess"
+  },
+  "bitonic": {
+    "twitter": "https://x.com/bitonic"
+  },
+  "bluefin": {
+    "twitter": "https://twitter.com/bluefinapp"
+  },
+  "bob": {
+    "twitter": "https://twitter.com/build_on_bob"
+  },
+  "boost": {
+    "twitter": "https://twitter.com/boost_xyz"
+  },
+  "dialectic": {
+    "twitter": "https://twitter.com/Dialectic_Group"
+  },
+  "eco-protocol": {
+    "linkedin": "https://www.linkedin.com/company/ecoproto/",
+    "twitter": "https://x.com/eco"
+  },
+  "hype": {
+    "linkedin": "https://www.linkedin.com/company/hype-partners/",
+    "twitter": "https://x.com/hypepartners"
+  },
+  "injective-labs": {
+    "twitter": "https://twitter.com/injectivelabs",
+    "linkedin": "https://www.linkedin.com/company/injectivelabs"
+  },
+  "institute-of-free-technology": {
+    "linkedin": "https://www.linkedin.com/company/institute-of-free-technologies/",
+    "twitter": "https://twitter.com/InstituteFT"
+  },
+  "intellecteu": {
+    "twitter": "https://twitter.com/intellecteu",
+    "linkedin": "https://www.linkedin.com/company/intellecteu"
+  },
+  "kappa-lab": {
+    "twitter": "https://x.com/KappaLab_io",
+    "linkedin": "https://www.linkedin.com/company/kappalab"
+  },
+  "legend": {
+    "twitter": "https://x.com/legendapp"
+  },
+  "lisk": {
+    "twitter": "https://x.com/Lisk",
+    "linkedin": "https://www.linkedin.com/company/lisk"
+  },
+  "makina": {
+    "twitter": "https://x.com/makinafi"
+  },
+  "n1": {
+    "twitter": "https://x.com/N1Chain"
+  },
+  "nimbus": {
+    "twitter": "https://x.com/ethnimbus"
+  },
+  "optimism-foundation": {
+    "twitter": "https://x.com/Optimism",
+    "linkedin": "https://www.linkedin.com/company/optimism-foundation"
+  },
+  "qcp-capital": {
+    "twitter": "https://twitter.com/QCPgroup",
+    "linkedin": "https://www.linkedin.com/company/qcp-group/"
+  },
+  "quantstamp": {
+    "linkedin": "https://www.linkedin.com/company/quantstamp/",
+    "twitter": "https://x.com/Quantstamp"
+  },
+  "the-better-money-company": {
+    "twitter": "https://x.com/bettermoney_co"
+  },
+  "trilitech": {
+    "linkedin": "https://www.linkedin.com/company/trilitech",
+    "twitter": "https://twitter.com/trilitech"
+  },
+  "usual": {
+    "linkedin": "https://www.linkedin.com/company/usualmoney/",
+    "twitter": "https://x.com/usualmoney"
+  },
+  "veefriends": {
+    "twitter": "https://x.com/veefriends"
+  },
+  "violet": {
+    "twitter": "https://twitter.com/violetidentity"
+  },
+  "zenledger": {
+    "linkedin": "https://www.linkedin.com/company/zenledger-io/",
+    "twitter": "https://twitter.com/ZenLedgerIO"
+  },
+  "zircuit": {
+    "twitter": "https://twitter.com/zircuit"
   }
 }

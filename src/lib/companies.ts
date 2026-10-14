@@ -520,7 +520,16 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  }
 }
 
-export type CompanyProfileRow = { website?: string; description?: string };
+export type CompanyProfileRow = {
+  name?: string;
+  website?: string;
+  description?: string;
+  published?: boolean;
+  verified?: boolean;
+  checkedAt?: string;
+  socialLinks?: CompanySocialLinks;
+  logo?: string;
+};
 
 interface PrecomputedCompany {
   slug: string;
@@ -672,24 +681,30 @@ export function buildCompaniesFromJobs(
     if (group) group.jobs.push(job);
     else groups.set(slug, { name, jobs: [job] });
   }
+  for (const [slug, profile] of Object.entries(profiles)) {
+    if (profile.published && profile.verified && profile.name && profile.description && !groups.has(slug)) {
+      groups.set(slug, { name: profile.name, jobs: [] });
+    }
+  }
   return [...groups.entries()].map(([slug, group]) => {
     const shortSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
     const profile = profiles[slug] || profiles[shortSlug];
     const normalized = normalizeCompanyName(group.name);
-    let website = COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[normalized] || getSafeProfileWebsite(profile?.website) || '';
+    const verifiedWebsite = profile?.verified ? getSafeProfileWebsite(profile.website) : undefined;
+    let website = verifiedWebsite || COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[normalized] || getSafeProfileWebsite(profile?.website) || '';
     if (!website) {
       try {
-        const source = new URL(group.jobs[0].link);
+        const source = new URL(group.jobs[0]?.link || '');
         if (!isAtsHostname(source.hostname)) website = sanitizeCompanyDomain(source);
       } catch {}
     }
     const dates = group.jobs.map(job => job.date).filter(date => Number.isFinite(Date.parse(date))).sort((a, b) => Date.parse(b) - Date.parse(a));
     return {
-      slug, name: group.name, website,
-      description: COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug] || profile?.description || buildListingDescription(group.name, group.jobs),
+      slug, name: profile?.verified ? profile.name || group.name : group.name, website,
+      description: (profile?.verified ? profile.description : undefined) || COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug] || profile?.description || buildListingDescription(group.name, group.jobs),
       jobCount: group.jobs.length, jobs: group.jobs,
-      lastUpdated: dates[0] || '1970-01-01T00:00:00.000Z',
-      ...(socialsBySlug[slug] && { socialLinks: socialsBySlug[slug] }),
+      lastUpdated: [dates[0], profile?.verified ? profile.checkedAt : undefined].filter((date): date is string => Boolean(date) && Number.isFinite(Date.parse(date!))).sort((a, b) => Date.parse(b) - Date.parse(a))[0] || '1970-01-01T00:00:00.000Z',
+      ...((profile?.verified ? profile.socialLinks : socialsBySlug[slug]) && { socialLinks: profile?.verified ? profile.socialLinks : socialsBySlug[slug] }),
     };
   }).sort((a, b) => b.jobCount - a.jobCount);
 }
@@ -697,9 +712,9 @@ export function buildCompaniesFromJobs(
 /**
  * Extract unique companies from precomputed runtime data
  */
-export async function getCompanies(): Promise<Company[]> {
+export async function getCompanies(includePublishedWithoutJobs = false): Promise<Company[]> {
   await ensureCompaniesCatalog();
-  const list = Object.values(companiesRuntimeMap!).map(currentCompany).filter(company => company.jobCount > 0).sort((a, b) => b.jobCount - a.jobCount);
+  const list = Object.values(companiesRuntimeMap!).map(currentCompany).filter(company => company.jobCount > 0 || (includePublishedWithoutJobs && companyProfilesMap![company.slug]?.published)).sort((a, b) => b.jobCount - a.jobCount);
   return list.map((pre) => ({
     slug: pre.slug,
     name: pre.name,
@@ -710,6 +725,12 @@ export async function getCompanies(): Promise<Company[]> {
     jobs: [],
     ...(pre.socialLinks && { socialLinks: pre.socialLinks }),
   }));
+}
+
+export async function hasPublishedCompanyProfile(slug: string): Promise<boolean> {
+  await ensureCompaniesCatalog();
+  const profile = companyProfilesMap![slug];
+  return Boolean(profile?.verified && profile.published);
 }
 
 /**

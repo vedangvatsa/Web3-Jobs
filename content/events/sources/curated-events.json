@@ -208,22 +208,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-ethrome-2026",
-    "slug": "ethrome",
-    "name": "ETHRome 2026",
-    "description": "Ethereum builders' conference and hackathon in Rome organized by urbe.eth, focused on hands-on building, security and open source.",
-    "startDate": "2026-09-11T09:00:00.000Z",
-    "endDate": "2026-09-13T18:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://www.ethrome.org",
-    "website": "https://www.ethrome.org",
-    "coverImage": "/events/premier-ethrome-2026-d99a5096.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-conf3rence-2026",
     "slug": "conf3rence",
     "name": "CONF3RENCE 2026",
@@ -1600,22 +1584,6 @@
       "fetchedAt": "2026-09-22T08:21:52.153Z",
       "method": "reviewed-primary-sources"
     }
-  },
-  {
-    "id": "premier-cochabamba",
-    "slug": "buildathon-cochabamba",
-    "name": "Buildathon Cochabamba 2026",
-    "description": "Ethereum Bolivia's buildathon convening Latin American developers for hands-on protocol building in Cochabamba. Takes place 11 to 13 September 2026 in Cochabamba.",
-    "startDate": "2026-09-11T09:00:00.000Z",
-    "endDate": "2026-09-13T18:00:00.000Z",
-    "city": "Cochabamba",
-    "country": "Bolivia",
-    "location": "Cochabamba, Bolivia",
-    "url": "https://www.ethereumbolivia.org",
-    "website": "https://www.ethereumbolivia.org",
-    "coverImage": "/events/buildathon.webp",
-    "twitter": null,
-    "source": "curated-premier"
   },
   {
     "id": "premier-enugu",

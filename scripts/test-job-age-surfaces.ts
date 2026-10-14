@@ -10,7 +10,7 @@ import { buildJobsListing } from '../src/lib/jobs-listing-build';
 import { getJobs } from '../src/lib/jobs';
 import { fetchJobBySlug, fetchJobById } from '../src/lib/job-by-slug-record';
 import { resolveJobSlug, findLiveJobForArchived } from '../src/lib/job-guides';
-import { getCompanies, getCompanyBySlug } from '../src/lib/companies';
+import { getCompanies, getCompanyBySlug, hasPublishedCompanyProfile } from '../src/lib/companies';
 import { isExpiredJobPath } from '../src/lib/job-age-path';
 import { jobAgePageCache } from '../src/lib/job-age-page-cache';
 import { middleware } from '../src/middleware';
@@ -113,7 +113,16 @@ test('warm loaders, feeds, companies, catalog shards and crawler paths expire wi
       const response = await catalog(new Request('https://hashtagweb3.com/'), { params: Promise.resolve({ parts }) });
       assert.equal(response.headers.get('cache-control'), 'public, max-age=0, s-maxage=3600, must-revalidate');
       const data = await response.json();
-      assert.deepEqual(parts[0] === 'job-description-shards' ? data.descriptions : data, parts[0] === 'jobs-runtime.json' ? [] : {});
+      if (parts[0] === 'companies-runtime.json') {
+        const overviews = await getCompanies(true);
+        assert.deepEqual(Object.keys(data).sort(), overviews.map(company => company.slug).sort());
+        for (const [slug, row] of Object.entries(data) as [string, { jobCount: number; jobIds: string[]; description: string }][]) {
+          assert.equal(await hasPublishedCompanyProfile(slug), true, 'Only verified, published employer overviews survive without jobs');
+          assert.equal(row.jobCount, 0);
+          assert.deepEqual(row.jobIds, []);
+          assert.ok(row.description);
+        }
+      } else assert.deepEqual(parts[0] === 'job-description-shards' ? data.descriptions : data, parts[0] === 'jobs-runtime.json' ? [] : {});
     }
     const sitemap = await catalog(new Request('https://hashtagweb3.com/'), { params: Promise.resolve({ parts: ['sitemap.json'] }) });
     assert.equal((await sitemap.json()).urls.some((row: { url: string }) => row.url === `https://hashtagweb3.com/${job.slug}`), false);

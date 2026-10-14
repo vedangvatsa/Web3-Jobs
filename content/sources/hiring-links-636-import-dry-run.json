@@ -1,0 +1,893 @@
+{
+  "checkedAt": "2026-10-14T11:57:01.084Z",
+  "dryRun": true,
+  "before": 1707,
+  "after": 1707,
+  "added": [],
+  "removed": [],
+  "expiryRemovals": [],
+  "failures": 1,
+  "reports": [
+    {
+      "company": "Ankr",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://ankr.com",
+        "finalUrl": "https://www.ankr.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:10.773Z",
+        "bodySha256": "dcdf3cf1ff5bf6449bc731a2827c42b4d8359125a0e143c73a53f97026046729"
+      },
+      "board": {
+        "url": "https://ankr-pbc.breezy.hr",
+        "finalUrl": "https://ankr-pbc.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:11.439Z",
+        "bodySha256": "20adf6dc4a82a26bb2e366a24c3617e6d1f57454382fbc341e9ce74955f5787e"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Applied Blockchain",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.appliedblockchain.com/careers",
+        "finalUrl": "https://www.appliedblockchain.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:12.196Z",
+        "bodySha256": "28a15982bcad855461990d0e800b231d31eb0a8f3e9fe349425681ec375c65ed"
+      },
+      "board": {
+        "url": "https://apply.workable.com/appliedblockchain",
+        "finalUrl": "https://apply.workable.com/appliedblockchain",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:12.613Z",
+        "bodySha256": "4756b0fd33b456c2caf860ff5ea86e96199930355ab697cbcab28bbf5fbdabe5"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Argus Labs",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://argus.gg",
+        "finalUrl": "https://argus.gg",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:13.413Z",
+        "bodySha256": "128e88a1649ddf0529dacbb2f3ca2cd2b9f69db538885849024dde5c85f7bb7f"
+      },
+      "board": {
+        "url": "https://jobs.gem.com/argus-labs",
+        "finalUrl": "https://jobs.gem.com/argus-labs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:14.236Z",
+        "bodySha256": "25ef35be3155addcd61f884064d28681342a9dfd913cc91cf50b487eb6c9a3cc"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Arrakis Finance",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://arrakis.finance/careers",
+        "finalUrl": "https://arrakis.finance/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:14.981Z",
+        "bodySha256": "725c9978c05e361f3cafe9d1dd87b154218e7decb88f77ff5e908810d060c716"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Arrakis",
+        "finalUrl": "https://jobs.ashbyhq.com/Arrakis",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:15.473Z",
+        "bodySha256": "942613772be162dcefa30dc61adb1344729682bc1c97b027d31e189ff74f8e06"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/Arrakis",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Arrakis",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:16.000Z",
+        "bodySha256": "bd2449496265a96d8802509ebfffc559a6dfd209e69053fb30d781c032b09142"
+      },
+      "apiJobCount": 3,
+      "quarantinedUnknownOriginalDate": 3,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Auros",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://www.auros.global/careers",
+        "finalUrl": "https://www.auros.global/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:16.173Z",
+        "bodySha256": "1964980fe0021aaafe5684c18e07a6b35b439e70c4057a43563a7e915d8dd3c8"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/aurosglobal",
+        "finalUrl": "https://job-boards.greenhouse.io/aurosglobal",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:16.545Z",
+        "bodySha256": "f3199fd784fe397726a0ac3b8a1cbb095c91de5c1c40973432fe91beb490fcb9"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/aurosglobal/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/aurosglobal/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:16.921Z",
+        "bodySha256": "baefe43af7ac597937bd1a0914bc30f84e893e188be5a8bcfc28a963963501bb"
+      },
+      "apiJobCount": 3,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": [
+        {
+          "title": "Experienced Trader (Hong Kong or New York)",
+          "link": "https://job-boards.greenhouse.io/aurosglobal/jobs/4626981005",
+          "date": "2025-11-04T23:42:59-05:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Principal Security Engineer",
+          "link": "https://job-boards.greenhouse.io/aurosglobal/jobs/4659762005",
+          "date": "2026-02-10T03:46:52-05:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "link": "https://job-boards.greenhouse.io/aurosglobal/jobs/4696822005",
+          "date": "2026-05-19T04:29:22-04:00",
+          "outcome": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Axiom",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://axiom.xyz",
+        "finalUrl": "https://www.axiom.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:17.688Z",
+        "bodySha256": "4c31922b338f06fe2051a961ee4520dc9fdd2663dbdb91deeacef52a36cdd410"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/axiom",
+        "finalUrl": "https://jobs.ashbyhq.com/axiom",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:18.191Z",
+        "bodySha256": "53e6535d3c25924cc9295b483d92c8d7d58004dec714b3ed72ec3a8ee683ce81"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/axiom",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/axiom",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:18.515Z",
+        "bodySha256": "b8eb0405f053ec0766542899697d72fa42141865e46ca14a3a7e0e8268cfd3dd"
+      },
+      "apiJobCount": 3,
+      "quarantinedUnknownOriginalDate": 3,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Bitaccess",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bitaccess.ca",
+        "finalUrl": "https://bitaccess.ca",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:19.797Z",
+        "bodySha256": "ea9d72953aef1332f806720d4f5176b127de694149b7a06c59bcfb3940d9efa9"
+      },
+      "board": {
+        "url": "https://apply.workable.com/bitaccess",
+        "finalUrl": "https://apply.workable.com/bitaccess",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:20.192Z",
+        "bodySha256": "559798193586895cdcbbcb67badff1562c36efd19ba94f2db944157b21b6ed16"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Bluefin",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bluefin.io/careers",
+        "finalUrl": "https://bluefin.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:20.306Z",
+        "bodySha256": "b7d4f64983658fb4b5a3ee0791e922533f096562801887895905db8bb80af400"
+      },
+      "board": {
+        "url": "https://apply.workable.com/bluefin",
+        "finalUrl": "https://apply.workable.com/bluefin",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:20.835Z",
+        "bodySha256": "842bfb9f3b309e53a6c26280a6ee6f847e72e22cee377c40f162dc91f032b661"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "BOB",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://gobob.xyz",
+        "finalUrl": "https://www.gobob.xyz/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:21.886Z",
+        "bodySha256": "184376f1a60a6199e8cee03f503d5a7b4edb4cce67c35098abe6e76dd2c5c8e3"
+      },
+      "board": {
+        "url": "https://apply.workable.com/distributedcrafts",
+        "finalUrl": "https://apply.workable.com/distributedcrafts",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:22.292Z",
+        "bodySha256": "391e4fa145e9b36f7180b69dd622f82c89f6b6ce94273fce5902ab5ac8bc704c"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Boost",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://boost.xyz",
+        "finalUrl": "https://www.boost.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:23.044Z",
+        "bodySha256": "770993eed81fbb9a65ed0629a8b9a11cd9e0093f5266812b1e954673c0585dc6"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Boost",
+        "finalUrl": "https://jobs.ashbyhq.com/Boost",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:23.472Z",
+        "bodySha256": "95413fd3977c5769f9ef6b6bfe201361803239c1a3c60cfc69cdc27fb104f638"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/Boost",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Boost",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:23.864Z",
+        "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Bullish",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.bullish.com/careers",
+        "finalUrl": "https://www.bullish.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:23.965Z",
+        "bodySha256": "f51a9502eba54acab1047a71c78fab6b534d0526b64133399399268cdfb18cfd"
+      },
+      "board": {
+        "url": "https://bullish.wd3.myworkdayjobs.com/Bullish",
+        "finalUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:24.767Z",
+        "bodySha256": "b666da17d3de16c05751e9be0edd6449fc52d496bfea9bbbaf188bdaec90b0d8"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Dialectic",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://dialectic.com/jobs",
+        "finalUrl": "https://dialectic.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:25.069Z",
+        "bodySha256": "4d374fa93f8d1f4ad0c71554e7de27de0943227c158a29725c3f3ad50f13eb1b"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/dialecticch",
+        "finalUrl": "https://job-boards.greenhouse.io/dialecticch",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:25.451Z",
+        "bodySha256": "3e87cfd5b06e894390d75b98031b57fa11b8b320be5e4162895090fea298092b"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/dialecticch/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/dialecticch/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:25.764Z",
+        "bodySha256": "a0d9b92dda5b8149fb906f8d6ebbd2cdcb6e9b43966c77f989f34f6b36d13d4f"
+      },
+      "apiJobCount": 5,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": [
+        {
+          "title": "Blockchain Developer Intern",
+          "link": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4851646101",
+          "date": "2026-04-28T04:55:37-04:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Business Development Manager",
+          "link": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4637046101",
+          "date": "2025-07-14T06:38:47-04:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "DeFi Analyst",
+          "link": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4416952101",
+          "date": "2024-10-28T07:53:33-04:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "link": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4635721101",
+          "date": "2025-07-10T10:54:55-04:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Protocol Risk Lead",
+          "link": "https://job-boards.eu.greenhouse.io/dialecticch/jobs/4697804101",
+          "date": "2025-10-27T08:58:44-04:00",
+          "outcome": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Eco",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://eco.com",
+        "finalUrl": "https://eco.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:26.355Z",
+        "bodySha256": "3bd11e6a9aadc52ce92db71d8784b074f79d10627a7e10a4f105ef888586181d"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/ecoinc",
+        "finalUrl": "https://job-boards.greenhouse.io/ecoinc",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:26.699Z",
+        "bodySha256": "833d3c843b9e1626325fa26b2f8481c355866a97b598232559800c6e33993d74"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/ecoinc/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/ecoinc/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:27.006Z",
+        "bodySha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Hype",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://hy.pe",
+        "finalUrl": "https://www.hy.pe/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:27.323Z",
+        "bodySha256": "7c1ca51d3ecfe64b7727bffc3f10cdfa93ac33c7a2e2e5fd52577ac50513783a"
+      },
+      "board": {
+        "url": "https://hypepartners.recruitee.com",
+        "finalUrl": "https://hypepartners.recruitee.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:28.625Z",
+        "bodySha256": "f64ed754405d2a46cec457cb0f4bcfb2215708a558efce6f03b5005fd6c1fc60"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Injective Labs",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://injectivelabs.org/careers",
+        "finalUrl": "https://injectivelabs.org/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:30.422Z",
+        "bodySha256": "7e1dfe10b364a390eca8142dfc6762ff0e0980673b19c7a1738df8e8438a7378"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/injective-labs",
+        "finalUrl": "https://jobs.ashbyhq.com/injective-labs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:30.817Z",
+        "bodySha256": "4a6de2b3e617e27345ae717cf0d82c9d1ffcfd2c3b89d935c4e9cf8f9d560604"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:31.210Z",
+        "bodySha256": "876ebf3af3dad718ab766c8c4bb0a8c4771260eb855a0caeea412d5dc9b4c77e"
+      },
+      "apiJobCount": 8,
+      "quarantinedUnknownOriginalDate": 8,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Institute of Free Technology",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://free.technology/jobs",
+        "finalUrl": "https://free.technology/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:31.933Z",
+        "bodySha256": "d55c7c0c9142c1a40dd867bdaf323a8d464fc4ba6b18e4439bc021b29e9e22c7"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/iftother",
+        "finalUrl": "https://job-boards.greenhouse.io/iftother",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:32.285Z",
+        "bodySha256": "49e36010b62c0f53900919dceb9da7a5dd890cb3a2abf583b9292bd6f9c6cd53"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/iftother/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/iftother/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:32.606Z",
+        "bodySha256": "040b9f8892de7b432240ddb3288c42eefed5f2bf433b3ffdf643ab973aa97be8"
+      },
+      "apiJobCount": 3,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": [
+        {
+          "title": "Head of Business Development - Logos Ecosystem",
+          "link": "https://job-boards.greenhouse.io/iftother/jobs/8152733",
+          "date": "2026-09-03T16:25:18-04:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Volunteer position: Logos Circles Activist Builder ",
+          "link": "https://job-boards.greenhouse.io/iftother/jobs/7584908",
+          "date": "2026-02-03T08:30:25-05:00",
+          "outcome": "expired"
+        },
+        {
+          "title": " Volunteer position: Logos Circles Organiser ",
+          "link": "https://job-boards.greenhouse.io/iftother/jobs/7396815",
+          "date": "2025-11-14T05:47:15-05:00",
+          "outcome": "expired"
+        }
+      ]
+    },
+    {
+      "company": "IntellectEU",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.intellecteu.com/careers",
+        "finalUrl": "https://www.intellecteu.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:32.833Z",
+        "bodySha256": "27d3b03a0025e46fdb39e52d08d9701f080e4b39bd889a49c73bc45f6ce13a5b"
+      },
+      "board": {
+        "url": "https://intellecteu.bamboohr.com/careers",
+        "finalUrl": "https://intellecteu.bamboohr.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:33.946Z",
+        "bodySha256": "9686af6e5dca803178e7c977a06e5c584e8b6687d57edc814e15e004f38b1e08"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Kappa Lab",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://kappalab.io/team#career",
+        "finalUrl": "https://kappalab.io/team#career",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:34.033Z",
+        "bodySha256": "4010c064f9599a661dc58d9affc76e4b842e05d0789148078384e374b4636930"
+      },
+      "board": {
+        "url": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
+        "finalUrl": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:35.043Z",
+        "bodySha256": "beef83c5ee75713c308634b4008cb7e7eaa5992f125d36922f25baaecc47f893"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Legend",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://legend.xyz",
+        "finalUrl": "https://legend.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:35.243Z",
+        "bodySha256": "189d4eb39d8a531d24a51730b1df49fe700f0aefb564909a1b782d8dfa6599a0"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/legend-xyz",
+        "finalUrl": "https://jobs.ashbyhq.com/legend-xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:35.627Z",
+        "bodySha256": "7e48e96adb02697601f8f86826a231f766606df6dece1574c241f58035e795b6"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/legend-xyz",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/legend-xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:35.930Z",
+        "bodySha256": "51c0c25ff882c6a8446757e8583dfd1cb0749ae6ae3254390d98827cf7d95de7"
+      },
+      "apiJobCount": 2,
+      "quarantinedUnknownOriginalDate": 2,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Makina",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://app.makina.finance",
+        "finalUrl": "https://makina.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:38.785Z",
+        "bodySha256": "3622b1faf8ed1a0050f0c6b61b58fb73b3bca4c35e2f42da4e8a87d50e2b6e7c"
+      },
+      "board": {
+        "url": "https://job-boards.eu.greenhouse.io/makina",
+        "finalUrl": "https://job-boards.eu.greenhouse.io/makina",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:39.310Z",
+        "bodySha256": "9c3bae1ed30b8002f4514bdf0c578ba755f47387d82c93906a15ad76ce239a16"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/makina/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/makina/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:39.623Z",
+        "bodySha256": "c819804d03824d72d0e8f11a34839654c93b35d7d9851caa9d96fbfa4f49d951"
+      },
+      "apiJobCount": 2,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": [
+        {
+          "title": "Business Development Manager",
+          "link": "https://job-boards.eu.greenhouse.io/makina/jobs/4522875101",
+          "date": "2025-01-21T10:42:49-05:00",
+          "outcome": "expired"
+        },
+        {
+          "title": "Protocol Risk Lead",
+          "link": "https://job-boards.eu.greenhouse.io/makina/jobs/4697803101",
+          "date": "2025-10-27T08:58:43-04:00",
+          "outcome": "expired"
+        }
+      ]
+    },
+    {
+      "company": "N1",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://n1.xyz",
+        "finalUrl": "https://www.n1.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:40.128Z",
+        "bodySha256": "e42656e6d609acbd8fa7b3c51b995521f7f0795bf9931d81162cfff26b3f7c12"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/n1",
+        "finalUrl": "https://jobs.ashbyhq.com/n1",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:40.464Z",
+        "bodySha256": "dad715ef255bd85a89fa7facc6e153662a937741d2e14fc8cca410038ab574e2"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/n1",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/n1",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:40.832Z",
+        "bodySha256": "0859274ab39a6fcf916c5383c4610e604ebb7891f75463ca4c970c81e2559031"
+      },
+      "apiJobCount": 10,
+      "quarantinedUnknownOriginalDate": 10,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Nimbus",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://nimbus.team/join-us",
+        "finalUrl": "https://nimbus.team/join-us",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:41.730Z",
+        "bodySha256": "2ded467335f5b74acbe4baa103d6f8631eb59d3d94028e3964715658423e21fb"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/nimbus",
+        "finalUrl": "https://job-boards.greenhouse.io/nimbus",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:42.088Z",
+        "bodySha256": "64fa965e9d239ba7d84c8fd2f521c9e6ef6407a05a4b330ca8dd62906191db80"
+      },
+      "api": {
+        "url": "https://boards-api.greenhouse.io/v1/boards/nimbus/jobs?content=true",
+        "finalUrl": "https://boards-api.greenhouse.io/v1/boards/nimbus/jobs?content=true",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:42.402Z",
+        "bodySha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Optimism Foundation",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://optimism.io/careers",
+        "finalUrl": "https://optimism.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:43.879Z",
+        "bodySha256": "f366d0f56c46656e381bb2e295800c771b76e4b4f34d41bb5c529d35828179d3"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/opfoundation",
+        "finalUrl": "https://jobs.ashbyhq.com/opfoundation",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:44.342Z",
+        "bodySha256": "fd7052db3f5e63dc5ef776ac73e9a7bc5047a992380796640b2e085cbcf50010"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/opfoundation",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/opfoundation",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:44.653Z",
+        "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "QCP Capital",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.qcpgroup.com/career/",
+        "finalUrl": "https://www.qcpgroup.com/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:47.122Z",
+        "bodySha256": "0e58974488acbeb70c1981963537e60f96ff3ad1c2aea0e5ece4c640f8783a0b"
+      },
+      "board": {
+        "url": "https://apply.workable.com/qcp-group",
+        "finalUrl": "https://apply.workable.com/qcp-group",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:47.459Z",
+        "bodySha256": "6c7fa42eb87130d79a778585c3b56960549de54d7e254e960ce651677d71007b"
+      },
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "eligible": null
+    },
+    {
+      "company": "Quantstamp",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://quantstamp.com/careers",
+        "finalUrl": "https://quantstamp.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:47.648Z",
+        "bodySha256": "a294ed9437adc799d6a4a6e7814eee001b90948c965f6e4348ac3a11aa523ee6"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/quantstamp",
+        "finalUrl": "https://jobs.ashbyhq.com/quantstamp",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:48.029Z",
+        "bodySha256": "37be7fe5211571f31535b979304f40fa6db53e75a95be486a0a3ddb3fac8d259"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:48.350Z",
+        "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "The Better Money Company",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://bettermoney.com",
+        "finalUrl": "https://bettermoney.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:48.527Z",
+        "bodySha256": "3ac3c444cbd8bd2fa3df686083410a4a1a0507b500938c040504c7f3ec34eca9"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/bettermoney",
+        "finalUrl": "https://jobs.ashbyhq.com/bettermoney",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:48.902Z",
+        "bodySha256": "f8a03ea940e49d074dd42c2436f0d4c3e3e878df5138f4f9818ed559452cea76"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/bettermoney",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/bettermoney",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:49.222Z",
+        "bodySha256": "bdf3438471b439b5d5183fb00e5e914ddf7d24b92ba08b8fd49dbf80cfd23ea8"
+      },
+      "apiJobCount": 7,
+      "quarantinedUnknownOriginalDate": 7,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Trilitech",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://www.trili.tech/careers",
+        "finalUrl": "https://www.trili.tech/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:49.357Z",
+        "bodySha256": "bacc3df732dc1e5aa3a398ded3d521c8e3808cf2ba7d12ac33c8d25631dc60a6"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/trilitech",
+        "finalUrl": "https://jobs.ashbyhq.com/trilitech",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:49.744Z",
+        "bodySha256": "4702b7951d790f2bf88712d283bac5e8b94f007ffae385f01346771f2779b3fe"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/trilitech",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/trilitech",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:50.077Z",
+        "bodySha256": "c01e93c452d130fd787e56f1da265de884d1535d9559f9fd9aff199a47729a43"
+      },
+      "apiJobCount": 3,
+      "quarantinedUnknownOriginalDate": 3,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Usual",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://usual.money",
+        "finalUrl": "https://usual.money",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:50.501Z",
+        "bodySha256": "b46ac609cd0b549643f66f427b2aa83f7cd123efb07ef904075a54208b4708bc"
+      },
+      "board": {
+        "url": "https://usual.breezy.hr",
+        "finalUrl": "https://usual.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:51.432Z",
+        "bodySha256": "01b51852f6fd0d385f745a8f8d3a3067b6f9769a919cd3c7228218e51bd1f126"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "VeeFriends",
+      "status": "blocked",
+      "error": "Error: Board unavailable or moved",
+      "apiJobCount": null,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Violet",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://violet.co",
+        "finalUrl": "https://www.violet.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:56.735Z",
+        "bodySha256": "baf12aa2c5fe9cafb29907011255ea1a70343d154fc2af14a74d08159c37a166"
+      },
+      "board": {
+        "url": "https://violet.breezy.hr",
+        "finalUrl": "https://violet.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:57.431Z",
+        "bodySha256": "a3d9af514f337b66f92a48f5fb4fb61fb1440f43094aac04c17a00d58f8ccc40"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "ZenLedger",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://zenledger.io",
+        "finalUrl": "https://zenledger.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:58.697Z",
+        "bodySha256": "a3483861b00582ff10c30ef7b35872b2584a3d48c41e32bcb7b9e9a62206ee3d"
+      },
+      "board": {
+        "url": "https://zenledger.breezy.hr",
+        "finalUrl": "https://zenledger.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:56:59.391Z",
+        "bodySha256": "c0b03436496d8510c56c391f6656e3a3388880b05e63471aa9ed8da346680d38"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    },
+    {
+      "company": "Zircuit",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://www.zircuit.com/",
+        "finalUrl": "https://www.zircuit.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:57:00.230Z",
+        "bodySha256": "1b04677ece766df1abbb06fa0368da641dd1585763bfc634694f73f613ed0ac4"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Zircuit",
+        "finalUrl": "https://jobs.ashbyhq.com/Zircuit",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:57:00.623Z",
+        "bodySha256": "0417cdb73fef025a40cf6d17a1fa33ddec92f18f01ee0e6082dc7cb0d1f607c2"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/Zircuit",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Zircuit",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:57:01.083Z",
+        "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+      },
+      "apiJobCount": 0,
+      "quarantinedUnknownOriginalDate": 0,
+      "acceptedCount": 0,
+      "roles": []
+    }
+  ]
+}

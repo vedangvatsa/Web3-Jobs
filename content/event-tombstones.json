@@ -286,5 +286,70 @@
       "luma-evt-ymhyi0bkdyise5b",
       "mhwt3"
     ]
+  },
+  "premier-ethrome-2026": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "premier-ethrome-2026",
+      "ethrome-2026",
+      "ethrome"
+    ]
+  },
+  "premier-cochabamba": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "premier-cochabamba",
+      "cochabamba",
+      "buildathon-cochabamba"
+    ]
+  },
+  "luma-evt-kzFMjrjvEsXXx4z": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-evt-kzfmjrjvesxxx4z",
+      "xlph"
+    ]
+  },
+  "luma-host-evt-evt-eaWHtCaJKLM1G0p": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-host-evt-evt-eawhtcajklm1g0p",
+      "kpb"
+    ]
+  },
+  "luma-host-evt-evt-dug9i40Sn3zrsmt": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-host-evt-evt-dug9i40sn3zrsmt",
+      "ethtaipei"
+    ]
+  },
+  "luma-host-evt-evt-XW4SjzgBZU281Pz": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-host-evt-evt-xw4sjzgbzu281pz",
+      "cse"
+    ]
+  },
+  "luma-evt-6UEDi5OCyeDLLdR": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-evt-6uedi5ocyedlldr",
+      "tiff"
+    ]
+  },
+  "luma-evt-jE6DXM1iCjgwkRE": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "luma-evt-je6dxm1icjgwkre",
+      "ai-wild"
+    ]
+  },
+  "india-luma-zmgujxcp": {
+    "until": "2027-10-14T10:53:11.309Z",
+    "slugs": [
+      "india-luma-zmgujxcp",
+      "dacm"
+    ]
   }
 }

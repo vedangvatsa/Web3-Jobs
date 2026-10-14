@@ -41,6 +41,8 @@
     "test:site-catalog-integrity": "tsx scripts/test-site-catalog-integrity.ts",
     "smoke:site": "node scripts/smoke-site.mjs",
     "test:company-jobs": "tsx scripts/test-company-jobs.ts",
+    "test:expansion-company-profiles": "tsx scripts/test-expansion-company-profiles.ts",
+    "test:expansion-company-profiles:browser": "tsx scripts/test-expansion-company-profiles-browser.ts",
     "test:bandwidth": "tsx scripts/test-bandwidth-budget.ts",
     "test:cost-savings": "node --test scripts/test-apphosting-secret-sync.mjs && tsx scripts/test-glossary-bandwidth.ts",
     "test:cost-savings:browser": "tsx scripts/test-cost-savings-browser.ts",

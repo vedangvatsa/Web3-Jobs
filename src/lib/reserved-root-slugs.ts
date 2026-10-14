@@ -61,7 +61,9 @@ function markdownSlugsInDir(dir: string): string[] {
 
 function companySlugsFromDisk(): string[] {
   const dir = path.join(process.cwd(), 'content', 'companies');
-  return markdownSlugsInDir(dir);
+  const overrideFile = path.join(process.cwd(), 'content/company-profile-overrides.json');
+  const verified = fs.existsSync(overrideFile) ? JSON.parse(fs.readFileSync(overrideFile, 'utf8')) as Record<string, { verified?: boolean; published?: boolean }> : {};
+  return [...markdownSlugsInDir(dir), ...Object.entries(verified).filter(([, row]) => row.verified && row.published).map(([slug]) => slug)];
 }
 
 function hyphenSlug(value: string): string {

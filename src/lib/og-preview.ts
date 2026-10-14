@@ -16,7 +16,7 @@ import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
 import { hasCuratedEventGuide } from '@/lib/event-page-quality';
 import { getEventBySlug, getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
-import { getCompanies, getCompanyBySlug } from '@/lib/companies';
+import { getCompanies, getCompanyBySlug, hasPublishedCompanyProfile } from '@/lib/companies';
 import { REJECTED_ATS_BOARDS } from '@/lib/job-source-policy';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
@@ -278,12 +278,12 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
     }
 
     try {
-      const companies = await getCompanies();
+      const companies = await getCompanies(true);
       const company = companies.find((c) => getCompanySlug(c.name) === slug) || (REMEDIATED_COMPANY_SLUGS.has(slug) ? await getCompanyBySlug(slug) : null);
       if (company) {
         return {
           title: `${company.name} Jobs | ${SITE_NAME}`,
-          description: `Company information and Web3 job listings for ${company.name} on Hashtag Web3.`,
+          description: await hasPublishedCompanyProfile(company.slug) ? company.description || '' : `Company information and Web3 job listings for ${company.name} on Hashtag Web3.`,
           ogImageUrl: buildCompanyOgImageUrl(company),
           canonicalUrl: `${SITE_URL}/${slug}`,
         };
@@ -340,7 +340,7 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
     getEvents(),
     getAllTerms(),
     Promise.resolve(getAllResourcePages()),
-    getCompanies(),
+    getCompanies(true),
   ]);
 
   for (const { slug } of jobs) {

@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-10-14T11:39:27.356Z",
+  "node": "v24.21.0",
+  "baselineAt": "2026-10-14T11:26:03.459Z",
+  "catalogBefore": 1708,
+  "catalogAfter": 1707,
+  "runtimeJobs": 1707,
+  "newImports": 0,
+  "expiryRemovals": [
+    {
+      "slug": "tr3",
+      "company": "Flow Traders",
+      "title": "Flow Quant Trading Days 2026",
+      "date": "2026-09-14T07:31:41-04:00"
+    }
+  ],
+  "bit2Me": {
+    "slug": "cmp117",
+    "status": "unchanged-eligible",
+    "date": "2026-10-05T14:04:37+02:00"
+  },
+  "registry": 46,
+  "newRegionalSources": 35,
+  "previousRegionalCoverage": 11,
+  "blockedRegional": [
+    "AZA Finance",
+    "Kanga"
+  ],
+  "globalDiscoveryEnabled": false,
+  "inputHashesPreserved": true,
+  "registryAndPolicyHashesPreserved": true,
+  "rawEvidencePreserved": true,
+  "productionBuild": {
+    "command": "FAH_FAST_PREBUILD=0 npm run build",
+    "logPath": ".cache/hiring-links-548-build.log",
+    "logSha256": "84a8746d2da080f0bdd304eba66f62e13e51f8528274a04eb64414fc4ae953ff",
+    "normalPrebuild": true,
+    "staticPages": 127,
+    "standaloneAssets": "passed",
+    "prerenderBudget": "passed",
+    "compressedFeeds": 9,
+    "postbuild": "passed"
+  }
+}

@@ -12,6 +12,14 @@
 
 # testing
 /coverage
+/.cache/country-local-crypto/
+/.cache/hiring-links-548/
+/.cache/hiring-links-548-*.log
+/.cache/hiring-links-636/
+/.cache/hiring-links-636-*.log
+/.cache/company-*.log
+/.cache/company-branding-review.jpg
+/content/sources/company-profile-research/
 
 # next.js
 /.next/

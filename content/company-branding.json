@@ -1,0 +1,326 @@
+{
+  "coinmotion": {
+    "website": "https://coinmotion.com/",
+    "logo": "/logo/companies/coinmotion.png"
+  },
+  "pdax": {
+    "website": "https://pdax.ph/",
+    "logo": "/logo/companies/pdax.png"
+  },
+  "foxbit": {
+    "website": "https://foxbit.com.br/",
+    "logo": "/logo/companies/foxbit.png"
+  },
+  "finoa": {
+    "website": "https://www.finoa.io/",
+    "logo": "/logo/companies/finoa.png"
+  },
+  "taurus": {
+    "website": "https://www.taurushq.com/",
+    "logo": "/logo/companies/taurus.png"
+  },
+  "xrex": {
+    "website": "https://xrex.io/",
+    "logo": "/logo/companies/xrex.png"
+  },
+  "finst": {
+    "website": "https://finst.com/",
+    "logo": "/logo/companies/finst.png"
+  },
+  "breet": {
+    "website": "https://breet.io/",
+    "logo": "/logo/companies/breet.png"
+  },
+  "bit2me": {
+    "website": "https://bit2me.com/",
+    "logo": "/logo/companies/bit2me.png"
+  },
+  "honeycoin": {
+    "website": "https://honeycoin.app/",
+    "logo": "/logo/companies/honeycoin.png"
+  },
+  "dunamu": {
+    "website": "https://www.dunamu.com/",
+    "logo": "/logo/companies/dunamu.png"
+  },
+  "21bitcoin": {
+    "website": "https://21bitcoin.app/",
+    "logo": "/logo/companies/21bitcoin.png"
+  },
+  "aquanow": {
+    "website": "https://www.aquanow.com/",
+    "logo": "/logo/companies/aquanow.png"
+  },
+  "bison": {
+    "website": "https://bisonapp.com/",
+    "logo": "/logo/companies/bison.png"
+  },
+  "bitbank": {
+    "website": "https://bitbank.cc/",
+    "logo": "/logo/companies/bitbank.png"
+  },
+  "bitcoin-suisse": {
+    "website": "https://bitcoinsuisse.com/",
+    "logo": "/logo/companies/bitcoin-suisse.png"
+  },
+  "bitmama": {
+    "website": "https://bitmama.io/",
+    "logo": "/logo/companies/bitmama.png"
+  },
+  "bitnovo": {
+    "website": "https://www.bitnovo.com/",
+    "logo": "/logo/companies/bitnovo.png"
+  },
+  "cashlink": {
+    "website": "https://cashlink.de/",
+    "logo": "/logo/companies/cashlink.png"
+  },
+  "change": {
+    "website": "https://www.changeinvest.com/",
+    "logo": "/logo/companies/change.png"
+  },
+  "coincash": {
+    "website": "https://coincash.eu/",
+    "logo": "/logo/companies/coincash.png"
+  },
+  "coincorner": {
+    "website": "https://www.coincorner.com/",
+    "logo": "/logo/companies/coincorner.png"
+  },
+  "coinext": {
+    "website": "https://coinext.com.br/",
+    "logo": "/logo/companies/coinext.png"
+  },
+  "coinfinity": {
+    "website": "https://coinfinity.co/",
+    "logo": "/logo/companies/coinfinity.png"
+  },
+  "deblock": {
+    "website": "https://deblock.com/",
+    "logo": "/logo/companies/deblock.png"
+  },
+  "double-jump-tokyo": {
+    "website": "https://www.doublejump.tokyo/",
+    "logo": "/logo/companies/double-jump-tokyo.png"
+  },
+  "flitpay": {
+    "website": "https://www.flitpay.com/",
+    "logo": "/logo/companies/flitpay.png"
+  },
+  "fomo-pay": {
+    "website": "https://www.fomopay.com/",
+    "logo": "/logo/companies/fomo-pay.png"
+  },
+  "fuze": {
+    "website": "https://fuze.finance/",
+    "logo": "/logo/companies/fuze.png"
+  },
+  "ginco": {
+    "website": "https://www.ginco.co.jp/",
+    "logo": "/logo/companies/ginco.png"
+  },
+  "hata": {
+    "website": "https://hata.io/",
+    "logo": "/logo/companies/hata.png"
+  },
+  "koinx": {
+    "website": "https://www.koinx.com/",
+    "logo": "/logo/companies/koinx.png"
+  },
+  "lemon": {
+    "website": "https://lemon.me/",
+    "logo": "/logo/companies/lemon.png"
+  },
+  "liminal-custody": {
+    "website": "https://www.liminalcustody.com/",
+    "logo": "/logo/companies/liminal-custody.png"
+  },
+  "midchains": {
+    "website": "https://www.midchains.com/",
+    "logo": "/logo/companies/midchains.png"
+  },
+  "mt-pelerin": {
+    "website": "https://www.mtpelerin.com/",
+    "logo": "/logo/companies/mt-pelerin.png"
+  },
+  "nbx": {
+    "website": "https://nbx.com/",
+    "logo": "/logo/companies/nbx.png"
+  },
+  "netcoins": {
+    "website": "https://netcoins.com/",
+    "logo": "/logo/companies/netcoins.png"
+  },
+  "paymium": {
+    "website": "https://www.paymium.com/",
+    "logo": "/logo/companies/paymium.png"
+  },
+  "relai": {
+    "website": "https://relai.app/",
+    "logo": "/logo/companies/relai.png"
+  },
+  "safello": {
+    "website": "https://safello.com/",
+    "logo": "/logo/companies/safello.png"
+  },
+  "sbi-vc-trade": {
+    "website": "https://www.sbivc.co.jp/",
+    "logo": "/logo/companies/sbi-vc-trade.png"
+  },
+  "tangany": {
+    "website": "https://tangany.com/",
+    "logo": "/logo/companies/tangany.png"
+  },
+  "waltio": {
+    "website": "https://www.waltio.com/",
+    "logo": "/logo/companies/waltio.png"
+  },
+  "zumo": {
+    "website": "https://zumo.co.uk/",
+    "logo": "/logo/companies/zumo.png"
+  },
+  "swissquote": {
+    "website": "https://www.swissquote.com/",
+    "logo": "/logo/companies/swissquote.png"
+  },
+  "ankr": {
+    "website": "https://www.ankr.com/",
+    "logo": "/logo/companies/ankr.png"
+  },
+  "applied-blockchain": {
+    "website": "https://appliedblockchain.com/",
+    "logo": "/logo/companies/applied-blockchain.png"
+  },
+  "arcus": {
+    "website": "https://arcus.xyz/",
+    "logo": "/logo/companies/arcus.png"
+  },
+  "argus-labs": {
+    "website": "https://argus.gg/",
+    "logo": "/logo/companies/argus-labs.png"
+  },
+  "arrakis-finance": {
+    "website": "https://arrakis.finance/",
+    "logo": "/logo/companies/arrakis-finance.png"
+  },
+  "auros": {
+    "website": "https://www.auros.global/",
+    "logo": "/logo/companies/auros.png"
+  },
+  "axiom": {
+    "website": "https://www.axiom.xyz/",
+    "logo": "/logo/companies/axiom.png"
+  },
+  "bitaccess": {
+    "website": "https://bitaccess.ca/",
+    "logo": "/logo/companies/bitaccess.png"
+  },
+  "bitonic": {
+    "website": "https://bitonic.nl/",
+    "logo": "/logo/companies/bitonic.png"
+  },
+  "bluefin": {
+    "website": "https://bluefin.io/",
+    "logo": "/logo/companies/bluefin.png"
+  },
+  "bob": {
+    "website": "https://www.gobob.xyz/",
+    "logo": "/logo/companies/bob.png"
+  },
+  "boost": {
+    "website": "https://www.boost.xyz/",
+    "logo": "/logo/companies/boost.png"
+  },
+  "bullish": {
+    "website": "https://www.bullish.com/",
+    "logo": "/logo/companies/bullish.png"
+  },
+  "dialectic": {
+    "website": "https://dialectic.com/",
+    "logo": "/logo/companies/dialectic.png"
+  },
+  "eco-protocol": {
+    "website": "https://eco.com/",
+    "logo": "/logo/companies/eco.png"
+  },
+  "hype": {
+    "website": "https://www.hy.pe/",
+    "logo": "/logo/companies/hype.png"
+  },
+  "injective-labs": {
+    "website": "https://injectivelabs.org/",
+    "logo": "/logo/companies/injective-labs.png"
+  },
+  "institute-of-free-technology": {
+    "website": "https://free.technology/",
+    "logo": "/logo/companies/institute-of-free-technology.png"
+  },
+  "intellecteu": {
+    "website": "https://www.intellecteu.com/",
+    "logo": "/logo/companies/intellecteu.png"
+  },
+  "kappa-lab": {
+    "website": "https://kappalab.io/",
+    "logo": "/logo/companies/kappa-lab.png"
+  },
+  "legend": {
+    "website": "https://legend.xyz/",
+    "logo": "/logo/companies/legend.png"
+  },
+  "lisk": {
+    "website": "https://lisk.com/",
+    "logo": "/logo/companies/lisk.png"
+  },
+  "makina": {
+    "website": "https://makina.finance/",
+    "logo": "/logo/companies/makina.png"
+  },
+  "n1": {
+    "website": "https://www.n1.xyz/",
+    "logo": "/logo/companies/n1.png"
+  },
+  "nimbus": {
+    "website": "https://nimbus.team/",
+    "logo": "/logo/companies/nimbus.png"
+  },
+  "optimism-foundation": {
+    "website": "https://optimism.io/",
+    "logo": "/logo/companies/optimism-foundation.png"
+  },
+  "qcp-capital": {
+    "website": "https://www.qcpgroup.com/",
+    "logo": "/logo/companies/qcp-capital.png"
+  },
+  "quantstamp": {
+    "website": "https://quantstamp.com/",
+    "logo": "/logo/companies/quantstamp.png"
+  },
+  "the-better-money-company": {
+    "website": "https://bettermoney.com/",
+    "logo": "/logo/companies/the-better-money-company.png"
+  },
+  "trilitech": {
+    "website": "https://www.trili.tech/",
+    "logo": "/logo/companies/trilitech.png"
+  },
+  "usual": {
+    "website": "https://usual.money/",
+    "logo": "/logo/companies/usual.png"
+  },
+  "veefriends": {
+    "website": "https://veefriends.com/",
+    "logo": "/logo/companies/veefriends.png"
+  },
+  "violet": {
+    "website": "https://www.violet.co/",
+    "logo": "/logo/companies/violet.png"
+  },
+  "zenledger": {
+    "website": "https://zenledger.io/",
+    "logo": "/logo/companies/zenledger.png"
+  },
+  "zircuit": {
+    "website": "https://www.zircuit.com/",
+    "logo": "/logo/companies/zircuit.png"
+  }
+}

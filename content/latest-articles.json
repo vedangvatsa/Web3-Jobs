@@ -1,42 +1,42 @@
 [
   {
-    "slug": "coldcard-phish",
-    "title": "Coldcard probes phishing post on its X account after July exploit",
-    "description": "Coldcard said an unauthorized phishing link appeared on its official X account on Oct. 11 and asked X to investigate, months after a $100 million-plus exploit of its wallets.",
+    "slug": "blur-shutdown",
+    "title": "Blur to retire marketplace site and end new Blend loans on Nov. 12",
+    "description": "Blur will deprecate the blur.io frontend on Nov. 12 while its Ethereum marketplace contracts stay live onchain, and its Blend lending service will stop matching new loans the same day.",
     "category": "News",
-    "publishedDate": "2026-10-11",
-    "image": "/images/news/coldcard-phish.jpg"
+    "publishedDate": "2026-10-14",
+    "image": "/images/news/blur-shutdown.jpg"
   },
   {
-    "slug": "ledger-implant",
-    "title": "Ledger confirms hardware implant in reseller device as losses may top $86M",
-    "description": "Ledger confirmed an unauthorized hardware implant in a device sold by reseller CryptoBilis, with investigator estimates putting losses above $86 million, while PeckShield traced $3.89 million to Binance deposits.",
+    "slug": "iphone-spyware",
+    "title": "New iPhone spyware scans crypto wallets, iVerify finds",
+    "description": "iVerify disclosed a DarkSword variant called P7 that scans infected iPhones for wallet apps, pulls imToken data and Keychain passwords, and checks for orders every 15 seconds.",
     "category": "News",
-    "publishedDate": "2026-10-11",
-    "image": "/images/news/ledger-implant.jpg"
+    "publishedDate": "2026-10-14",
+    "image": "/images/news/iphone-spyware.jpg"
   },
   {
-    "slug": "xrpl-overflow",
-    "title": "XRP Ledger patched decade-old bug that could have minted trillions",
-    "description": "Developers disclosed a payment-engine overflow that could have created 18 trillion XRP in one transaction, found by Veria AI and patched in xrpld 3.4.1 after bypassing the normal validator vote.",
+    "slug": "ldk-fix",
+    "title": "LDK patches reconnect flaw that let peers steal forwarded bitcoin",
+    "description": "LDK's Oct. 1 security releases v0.2.7 and v0.1.13 fix a channel-reconnect lie that could cost forwarding nodes a payment, plus an LSPS2 amount check and a stale-state loss.",
     "category": "News",
-    "publishedDate": "2026-10-11",
-    "image": "/images/news/xrpl-overflow.jpg"
+    "publishedDate": "2026-10-14",
+    "image": "/images/news/ldk-fix.jpg"
   },
   {
-    "slug": "abstract-shutdown",
-    "title": "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline",
-    "description": "Igloo Inc. said its Abstract network will go dark on Dec. 15 after two years without product-market fit, telling users to bridge funds off before then.",
+    "slug": "mining-pool",
+    "title": "Binance to shut mining pool and cloud services on Nov. 10",
+    "description": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining and Transaction Accelerator at 07:00 UTC on Nov. 10, giving miners four weeks to move hashrate elsewhere.",
     "category": "News",
-    "publishedDate": "2026-10-07",
-    "image": "/images/news/abstract-shutdown.jpg"
+    "publishedDate": "2026-10-14",
+    "image": "/images/news/mining-pool.jpg"
   },
   {
-    "slug": "gilt-pilot",
-    "title": "UK names six banks to lead first digital gilt pilot",
-    "description": "HM Treasury appointed Barclays, HSBC, Lloyds, Morgan Stanley, NatWest and RBC Capital Markets as joint lead managers for the DIGIT pilot, expected by early 2027.",
+    "slug": "sberbank-crypto",
+    "title": "Sberbank wins crypto exchange approval, targets Dec. 1 launch",
+    "description": "The Bank of Russia added Sberbank to its crypto exchange register on Oct. 12, and the bank plans to offer crypto trading through familiar app interfaces from Dec. 1.",
     "category": "News",
-    "publishedDate": "2026-10-07",
-    "image": "/images/news/gilt-pilot.jpg"
+    "publishedDate": "2026-10-14",
+    "image": "/images/news/sberbank-crypto.jpg"
   }
 ]

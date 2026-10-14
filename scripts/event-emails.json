@@ -94,30 +94,6 @@
     }
   },
   {
-    "name": "ETHRome 2026",
-    "url": "https://www.ethrome.org",
-    "emails": [
-      "hello@urbe.build",
-      "info@wersrl.com"
-    ],
-    "event": {
-      "id": "premier-ethrome-2026",
-      "slug": "ethrome",
-      "name": "ETHRome 2026",
-      "description": "Ethereum builders' conference and hackathon in Rome organized by urbe.eth, focused on hands-on building, security and open source.",
-      "startDate": "2026-09-11T09:00:00.000Z",
-      "endDate": "2026-09-13T18:00:00.000Z",
-      "city": "Rome",
-      "country": "Italy",
-      "location": "Rome, Italy",
-      "url": "https://www.ethrome.org",
-      "website": "https://www.ethrome.org",
-      "coverImage": "https://ethrome.org/opengraph-image.png?9b40b21b2b23e020",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Avalanche Summit NYC 2026",
     "url": "https://www.avalanchesummit.com",
     "emails": [

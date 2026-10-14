@@ -1,0 +1,289 @@
+{
+  "checkedAt": "2026-10-14T10:47:40.831Z",
+  "dryRun": true,
+  "before": 1711,
+  "after": 1712,
+  "added": [
+    {
+      "id": "170538",
+      "title": "Legal, Compliance & Operations Intern- Bit2Me STX",
+      "company": "Bit2Me",
+      "link": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+      "date": "2026-10-05T14:04:37+02:00",
+      "slug": "cmp117"
+    }
+  ],
+  "removed": [],
+  "failures": 0,
+  "reports": [
+    {
+      "company": "Coinmotion",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://www.coinmotion.com/careers/",
+        "finalUrl": "https://careers.coinmotion.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:15.369Z",
+        "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6"
+      },
+      "board": {
+        "url": "https://www.coinmotion.com/careers/",
+        "finalUrl": "https://careers.coinmotion.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:15.369Z",
+        "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6"
+      },
+      "fetched": 0,
+      "roles": []
+    },
+    {
+      "company": "PDAX",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://pdax.ph/careers/",
+        "finalUrl": "https://pdax.ph/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:19.419Z",
+        "bodySha256": "c376a71bb6ec76fe476b42ef8b1d3421f771669e8033664087c3bc08ef8d2ba9"
+      },
+      "board": {
+        "url": "https://pdax.darwinbox.com/ms/candidate/careers",
+        "finalUrl": "https://pdax.darwinbox.com/ms/candidate/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:20.210Z",
+        "bodySha256": "64123d6ebd07aeef58922464186dbffe68dfc041c2ef30b9e053dbb252a66bc5"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Foxbit",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://foxbit.com.br/carreira",
+        "finalUrl": "https://foxbit.com.br/carreira",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:20.728Z",
+        "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d"
+      },
+      "board": {
+        "url": "https://foxbit.com.br/carreira",
+        "finalUrl": "https://foxbit.com.br/carreira",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:20.728Z",
+        "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Finoa",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.finoa.io/careers",
+        "finalUrl": "https://www.finoa.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:20.967Z",
+        "bodySha256": "3600e3b48cdef819ca827dda92e9de4d0bf5cd892ea387ce36e6de076057a42e"
+      },
+      "board": {
+        "url": "https://finoa.jobs.personio.com/",
+        "finalUrl": "https://finoa.jobs.personio.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:21.784Z",
+        "bodySha256": "84727e35e4d0ad7288bfbdd8cfa294678251ae595dbbe66b3769088d318e060b"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Taurus",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.taurushq.com/careers/",
+        "finalUrl": "https://www.taurushq.com/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:22.114Z",
+        "bodySha256": "d936cd7bc043923d8c25afb837b72492d7e9c34ddadb5d79f16a8b304c8e17a5"
+      },
+      "board": {
+        "url": "https://join.com/companies/taurusgroup",
+        "finalUrl": "https://join.com/companies/taurusgroup",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:22.366Z",
+        "bodySha256": "cbf63ccb509bc2dc54712bf765bde3529e972387a6599652973a881f4a112199"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "XREX",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://xrex.io/careers",
+        "finalUrl": "https://xrex.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:23.117Z",
+        "bodySha256": "f385d48e9b6bda2244f4f4a0ef884011d2b4662b6c93489a1e94614b763c3ad9"
+      },
+      "board": {
+        "url": "https://xrex.breezy.hr/",
+        "finalUrl": "https://xrex.breezy.hr/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:23.735Z",
+        "bodySha256": "7d32febc13b49d539d278d06c417dc1937f45e0988bd29849fa9c7f3ccad10ac"
+      },
+      "fetched": 2,
+      "roles": [
+        {
+          "title": "AML Specialist",
+          "link": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
+          "date": "2025-01-10",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
+            "finalUrl": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
+            "status": 200,
+            "checkedAt": "2026-10-14T10:47:25.583Z",
+            "bodySha256": "7560ad563272d32e076130f9e614c3da5a240fd67c5792d29d920cec6e5c9c2f"
+          }
+        },
+        {
+          "title": "Senior Compliance Specialist",
+          "link": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+          "date": "2026-05-05",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+            "finalUrl": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+            "status": 200,
+            "checkedAt": "2026-10-14T10:47:26.609Z",
+            "bodySha256": "01fcb62d7daea3983eb527d6d101a423c9a88adea340ebef6e0564db1a796470"
+          }
+        }
+      ]
+    },
+    {
+      "company": "Finst",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://finst.com/en",
+        "finalUrl": "https://finst.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:28.739Z",
+        "bodySha256": "bc9f0faed6af640f8e5e4186c49b36401b482036f63185becda6ec50911ff24e"
+      },
+      "board": {
+        "url": "https://finst.welcomekit.co/",
+        "finalUrl": "https://finst.welcomekit.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:29.497Z",
+        "bodySha256": "4ba477a292ee308ce1370421e081cebc132c577bd19682247e858573100ade81"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Breet",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://breet.io/career",
+        "finalUrl": "https://breet.io/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:32.553Z",
+        "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b"
+      },
+      "board": {
+        "url": "https://breet.io/career",
+        "finalUrl": "https://breet.io/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:32.553Z",
+        "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Bit2Me",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://bit2me.com/",
+        "finalUrl": "https://bit2me.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:32.956Z",
+        "bodySha256": "af89f3e2cece25eb5e068dcbc08af5c3690e27dcbeacb3b506987443696aef24"
+      },
+      "board": {
+        "url": "https://empleo.bit2me.com/jobs",
+        "finalUrl": "https://empleo.bit2me.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:34.130Z",
+        "bodySha256": "567bee9953baa7a618360ebfd850d4f8c53cdfbf1200db0c986117b952e28317"
+      },
+      "fetched": 1,
+      "roles": [
+        {
+          "identity": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+          "title": "Legal, Compliance & Operations Intern- Bit2Me STX",
+          "link": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+          "date": "2026-10-05T14:04:37+02:00",
+          "outcome": "added",
+          "primary": {
+            "url": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+            "finalUrl": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+            "status": 200,
+            "checkedAt": "2026-10-14T10:47:35.248Z",
+            "bodySha256": "43b994ac6fdfa7bb863128218238f83b9c1483edc0a6a94f0a6d468713354901"
+          },
+          "application": {
+            "url": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
+            "finalUrl": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
+            "status": 200,
+            "checkedAt": "2026-10-14T10:47:36.028Z",
+            "bodySha256": "fc1c08a17b1fc7354e761a26d6423d9b621811a4001c9d59d6cfa2d540af8bb9"
+          }
+        }
+      ]
+    },
+    {
+      "company": "HoneyCoin",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://honeycoin.app/",
+        "finalUrl": "https://honeycoin.app/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:37.849Z",
+        "bodySha256": "70b72422f65f59f11d2f4e5451888c975bb3866297c62b75d9ccf93c71f64793"
+      },
+      "board": {
+        "url": "https://honeycoin.careers.hibob.com/",
+        "finalUrl": "https://honeycoin.careers.hibob.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:38.809Z",
+        "bodySha256": "5998f89f8162d6c335205a9076653750e72a9574ded916c02da05014e6cf50af"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Dunamu",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.dunamu.com/careers/jobs",
+        "finalUrl": "https://www.dunamu.com/careers/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:39.829Z",
+        "bodySha256": "0742a6f2200970c2c4a1adbf85021f5910b2e129046f94259afc5140f157ad78"
+      },
+      "board": {
+        "url": "https://careers.dunamu.com/",
+        "finalUrl": "https://careers.dunamu.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T10:47:40.716Z",
+        "bodySha256": "9c3761a212a2587f1879441e08cd0cb8a5888f471bed4fa44587b07acd353204"
+      },
+      "fetched": null,
+      "eligible": null
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "incremental": false },
+  "include": ["node_modules/next/types/global.d.ts", "scripts/ingest-country-local-crypto.ts", "scripts/ingest-web3-expansion.ts", "scripts/test-country-local-crypto.ts", "scripts/test-hiring-links-csv.ts", "scripts/test-hiring-links-548-recurring.ts", "scripts/test-web3-expansion-feeds.ts", "scripts/test-expansion-company-profiles.ts", "scripts/test-expansion-company-profiles-browser.ts"],
+  "exclude": []
+}

@@ -19,7 +19,7 @@ const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   {
     id: 'removed-job-paths',
-    inputs: ['content/removed-job-listings.json', 'content/jobs-cache.json', 'content/legacy-slugs-archive.json', 'content/slug-types.json', 'content/nomads/cities.json', 'src/lib/reserved-root-slugs.ts', 'src/lib/job-age-cache.mjs', 'src/lib/job-age-policy.mjs', 'src/lib/companies.ts', 'src/lib/jobs-listing-build.ts', 'scripts/precompute-removed-job-paths.ts'],
+    inputs: ['content/removed-job-listings.json', 'content/jobs-cache.json', 'content/legacy-slugs-archive.json', 'content/slug-types.json', 'content/company-profile-overrides.json', 'content/nomads/cities.json', 'src/lib/reserved-root-slugs.ts', 'src/lib/job-slugs.ts', 'src/lib/job-age-cache.mjs', 'src/lib/job-age-policy.mjs', 'src/lib/companies.ts', 'src/lib/jobs-listing-build.ts', 'scripts/precompute-removed-job-paths.ts'],
     outputs: ['content/removed-job-paths.json', 'content/recovered-job-redirects.json', 'content/job-age-paths.json', 'content/job-age-page-scopes.json'],
     command: 'npx tsx scripts/precompute-removed-job-paths.ts',
   },
@@ -88,13 +88,13 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'company-profiles',
-    inputs: ['content/companies'],
-    outputs: ['content/company-profiles-runtime.json'],
+    inputs: ['content/companies', 'content/company-profile-overrides.json', 'public/logo/companies', 'scripts/precompute-company-profiles.ts', 'src/lib/company-socials.ts'],
+    outputs: ['content/company-profiles-runtime.json', 'content/company-branding.json'],
     command: 'npx tsx scripts/precompute-company-profiles.ts',
   },
   {
     id: 'companies-runtime',
-    inputs: ['content/jobs-runtime.json', 'content/company-profiles-runtime.json', 'src/lib/companies.ts', 'src/lib/company-profiles.ts'],
+    inputs: ['content/jobs-runtime.json', 'content/company-profiles-runtime.json', 'content/company-socials.json', 'src/lib/companies.ts', 'src/lib/company-profiles.ts', 'src/lib/job-slugs.ts'],
     outputs: ['content/companies-runtime.json'],
     command: 'npx tsx scripts/precompute-companies-runtime.ts',
   },

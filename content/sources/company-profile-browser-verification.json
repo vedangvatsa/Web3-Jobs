@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-14T20:47:39.979Z",
+  "mode": "production-standalone",
+  "employers": 81,
+  "companyPages": 81,
+  "hydratedSamples": [
+    "bit2me",
+    "coinmotion",
+    "axiom",
+    "eco-protocol",
+    "double-jump-tokyo"
+  ],
+  "zeroJobPages": 77,
+  "legacyEcoStatus": 200,
+  "legacyEcoTitle": "Head of Ecosystem"
+}

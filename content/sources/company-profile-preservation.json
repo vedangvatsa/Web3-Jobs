@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-14T15:38:02.261Z",
+  "hashes": {
+    "content/country-local-crypto-sources.json": "3f2f85dafb3a6154bf7ae3d373f3e7d2dc9a798452837251291cebf3847fb716",
+    "content/web3-expansion-sources.json": "ce4dfc29af21ecdebecf4339183a4af68544ed6eaf4ba76a86ca36d3cdcc1ccc",
+    "content/jobs-cache.json": "65a3a6dc65d76edd549eccf84ff638f0674fac439495339871f383a6614cd558",
+    "content/jobs-runtime.json": "9b5ac84e781fec085fb9b15774db6a8ad5efd0b793583327d21c24dc3d3c2ae5",
+    "content/job-date-history.json": "34924c6306ae58797d552faa9bdd14585921cdd41c90ab52bcc9f966ca86a561",
+    "content/job-date-provenance.json": "8db670df8d63b333a2a73c08efb53bdbaf569c79ba4a8546fa55ea595544810e",
+    "content/legacy-slugs-archive.json": "4c53ebc3cc0726b3db3f8403218367d57f24ede38fdd276618c4c13530fdaf1f"
+  },
+  "profilesBefore": 561,
+  "companiesBefore": 179
+}

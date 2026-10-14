@@ -27538,5 +27538,10 @@
   "https://talent.superteam.fun/jobs/senior-solana-engineer-at-staking-facilities-dcf76078-582a-4c72-a6bb-5fe33999ff06": {
     "date": "2026-10-13T10:56:03.216593+00:00",
     "dateVerified": true
+  },
+  "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx": {
+    "date": "2026-10-05T14:04:37+02:00",
+    "dateVerified": true,
+    "dateSource": "Bizneo.JobPosting.datePosted"
   }
 }

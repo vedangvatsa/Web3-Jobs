@@ -257,7 +257,7 @@ const staticRoutes: MetadataRoute.Sitemap = [
 export async function buildSitemapRoutes(): Promise<MetadataRoute.Sitemap> {
   const [articles, companies, glossaryTerms, categorySlugs, resourcePages, learnCategories, eventsList] = await Promise.all([
     getAllArticles(),
-    getCompanies(),
+    getCompanies(true),
     getAllTerms(),
     getAllCategorySlugs(),
     getAllResourcePages(),
@@ -276,9 +276,7 @@ export async function buildSitemapRoutes(): Promise<MetadataRoute.Sitemap> {
    };
   });
 
-  // Company pages are derived from the live jobs cache. Use the newest verified
-  // listing date for a stable, source-backed modification timestamp.
-  // All companies are indexed, including single-job ones.
+   // Verified employer overviews remain indexed when their current jobs expire.
   const companyRoutes: MetadataRoute.Sitemap = companies
     .map((company) => ({
    url: `${siteUrl}/${company.slug}`,

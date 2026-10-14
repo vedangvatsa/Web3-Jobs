@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import ts from 'typescript';
+import countrySources from '../../content/country-local-crypto-sources.json';
+import expansionSources from '../../content/web3-expansion-sources.json';
 import { atsBoardKey, getAtsBoardFromUrl, getJobAtsBoards, type AtsBoard } from '../../src/lib/ats-board-identity';
 
 export type ConfiguredAtsBoard = AtsBoard & { company: string; file: string; url?: string };
@@ -19,7 +21,8 @@ function providerFromHint(hint: string): string | undefined {
 }
 
 export function configuredAtsBoards(): ConfiguredAtsBoard[] {
-  const boards: ConfiguredAtsBoard[] = [];
+  const boards: ConfiguredAtsBoard[] = countrySources.filter(s => s.status === 'recurring').map(s => ({ provider:s.provider, board:s.board, company:s.company, url:s.boardUrl, file:'content/country-local-crypto-sources.json' }));
+  boards.push(...expansionSources.filter(s=>s.status==='recurring').map(s=>({provider:s.provider,board:s.board,company:s.company,url:s.boardUrl,file:'content/web3-expansion-sources.json'})));
   for (const file of scriptFiles('scripts')) {
     const source = ts.createSourceFile(file, fs.readFileSync(file, 'utf8'), ts.ScriptTarget.Latest, true);
     function visit(node: ts.Node) {

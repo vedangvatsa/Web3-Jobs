@@ -2509,10 +2509,6 @@
       "sha256": "d0e051563f078bc07151cbe488e7fc1330ac840d4bd247763237656c91e308bf",
       "status": "retained"
     },
-    "/events/mu-316269007-355ccb45.webp": {
-      "sha256": "56c69177ff6aee549b0209fe6e1b1af3a0ffe582d981700d34361ce32c253b9d",
-      "status": "retained"
-    },
     "/events/mu-316325979-502bb720.webp": {
       "sha256": "8b25c115297fafca0aeffdface5dbd14bf08b5b0034bc2b183f24a30fbf95a90",
       "status": "optimized"
@@ -5073,6 +5069,10 @@
       "sha256": "1a97b088c9435df40cc41d09840a294db896d8844ee0c3b826c1fb759589a433",
       "status": "retained"
     },
+    "/images/news/blur-shutdown.jpg": {
+      "sha256": "bc6403b2287c5ef8655683ebd5e11c3df32b1b86cdab8c9a8c427ec46fc43177",
+      "status": "retained"
+    },
     "/images/news/brazil-depository.jpg": {
       "sha256": "e1dcc14004da6690a0ef70256e000803052a7bc25833814b0d5f240c4a8227d6",
       "status": "retained"
@@ -5361,6 +5361,10 @@
       "sha256": "1e9c2f3bb1c5af38b038edeb80428850894e4f491fd58a0498424baf1db08903",
       "status": "retained"
     },
+    "/images/news/genesis-ai.jpg": {
+      "sha256": "c3cf8901bea3c3060709f971c7639f5666399b26a5843f664ab3c0a872e0be09",
+      "status": "retained"
+    },
     "/images/news/gilt-pilot.jpg": {
       "sha256": "4a1f047d8799bbab1c06ccf22d250a0c45a2540d51a9bc44b3500ef0177aa63b",
       "status": "retained"
@@ -5413,6 +5417,10 @@
       "sha256": "cbace6b1c3c6d3bbbb6b55a4ec4f3ac62bea22cbad3025e80f6d39b4a1ceb04c",
       "status": "retained"
     },
+    "/images/news/iphone-spyware.jpg": {
+      "sha256": "acd0ebd6adf1e51d5e10f2dea6d3888ec7af56e6d7aded981ad180e5f8f928ea",
+      "status": "retained"
+    },
     "/images/news/iran-forfeiture.jpg": {
       "sha256": "45969cfe60657d96b58b48f7866bb47b57ee054903e162d908d2eed1cc73c911",
       "status": "retained"
@@ -5420,6 +5428,10 @@
     "/images/news/iran-forfeiture.webp": {
       "sha256": "0f4f6c10b6d9bf1fa0958db6abb9f52a8e85c8f4c000e52c0eb451b18eee958b",
       "status": "optimized"
+    },
+    "/images/news/jeonbuk-loans.jpg": {
+      "sha256": "dab01b58c77ac50a832321543d081045b6833a21cb09f40ead1d05d12365db3a",
+      "status": "retained"
     },
     "/images/news/kalshi-appeal.jpg": {
       "sha256": "694a49b2771b73c6c3607363047759b3eeeb5a288d10d70a25364849413eac54",
@@ -5457,6 +5469,10 @@
       "sha256": "c0d7887bbbacc85e9d208b12ae5dcab26f0c91c7226997ff111447c445e85311",
       "status": "retained"
     },
+    "/images/news/kraken-dubai.jpg": {
+      "sha256": "ad2205b64fb70cfd243e5a104824721b8cb605784b0967a8403ae9f91174d0dc",
+      "status": "retained"
+    },
     "/images/news/kraken-settlement.jpg": {
       "sha256": "d55f89dc86949af8d71312ff938f0480c9e02936cb0af44f445d0e8134cb6c1e",
       "status": "retained"
@@ -5468,6 +5484,10 @@
     "/images/news/kztg-stablecoin.webp": {
       "sha256": "083e70139b8ac059e5ceed31ef4ca3ca6afdb359613888a4b71562fe6eda5b88",
       "status": "optimized"
+    },
+    "/images/news/ldk-fix.jpg": {
+      "sha256": "8eff5084c964800911c823b88b9a206cdadc8ffaeb13d95aa4f913db41c637ae",
+      "status": "retained"
     },
     "/images/news/ledger-implant.jpg": {
       "sha256": "1d685ba5351385e95f445b61602e2418901f313fc14a831e7ccfa6f9837ce7cf",
@@ -5507,6 +5527,10 @@
     },
     "/images/news/mica-review.jpg": {
       "sha256": "b01f663f29da5da93315023109a7766b1a651c317fe8523a7bfaa04541aa9976",
+      "status": "retained"
+    },
+    "/images/news/mining-pool.jpg": {
+      "sha256": "1698c9620a80d800c9eaa07234fc970d1d771663146ce123ee83c09f64f412a9",
       "status": "retained"
     },
     "/images/news/moneygram-stablecoin.jpg": {
@@ -5653,6 +5677,10 @@
       "sha256": "de11557a2c75ff599f1215877f60014cecb87b44021e6bba04e70340370ad68c",
       "status": "retained"
     },
+    "/images/news/rlusd-custody.jpg": {
+      "sha256": "b69192498722f47d0a6db99ffd102fd5c6b680e8004b1794d896c04f9eb3b44b",
+      "status": "retained"
+    },
     "/images/news/robinhood-tokens.jpg": {
       "sha256": "853be5ac860baaa0d06a45cbc8e70ab3703e0d935aef8ec136facf80927fb659",
       "status": "retained"
@@ -5667,6 +5695,10 @@
     },
     "/images/news/safe-complaint.jpg": {
       "sha256": "520d05fa88337790499bd817c4baa3408f772fa23bd5b1138850b8602078179a",
+      "status": "retained"
+    },
+    "/images/news/sberbank-crypto.jpg": {
+      "sha256": "fe5e8cf72b71c38003443e31c591118b104f51e64887bf9f1cdc4cea485f775f",
       "status": "retained"
     },
     "/images/news/sec-buybacks.jpg": {
@@ -5692,6 +5724,10 @@
     "/images/news/sec-transfer.webp": {
       "sha256": "77b83407f04a8be5dfa0b92175775dcbce184ddc87aaa35b0dad2dcf7854c5e1",
       "status": "optimized"
+    },
+    "/images/news/seized-bitcoin.jpg": {
+      "sha256": "e8126ce1b7cc4dcf4f06c473a0decfdec47d023cec2999ae069b0e3f6bb0f3f6",
+      "status": "retained"
     },
     "/images/news/sepolia-fork.jpg": {
       "sha256": "7e944d72d36017dbf8d70d90d068435ecf3921bcbc5f3bd9b0e766f83789b911",
@@ -5739,6 +5775,14 @@
     },
     "/images/news/startale-bond.jpg": {
       "sha256": "614c5115827a50e91dc0db3eaa722d69ccbda9aecf13092997909908dae04c18",
+      "status": "retained"
+    },
+    "/images/news/strategy-buyback.jpg": {
+      "sha256": "0d34c6e273b906a8ee5ba4577f0c03bb5bb4c460926d3a38f9dd7d2a5c32c583",
+      "status": "retained"
+    },
+    "/images/news/strive-bitcoin.jpg": {
+      "sha256": "0d34c6e273b906a8ee5ba4577f0c03bb5bb4c460926d3a38f9dd7d2a5c32c583",
       "status": "retained"
     },
     "/images/news/strive-buyback.jpg": {
@@ -5820,6 +5864,10 @@
     "/images/news/uniswap-hook.webp": {
       "sha256": "e0ac5efedabc819cc4fe379599b38c85633d310ef68cccdb29db3864c31f22de",
       "status": "optimized"
+    },
+    "/images/news/usdkg-shutdown.jpg": {
+      "sha256": "104f4a8cca197068c9a6b139c0ed68670908b48a785084c0fc57460b56d3ef8e",
+      "status": "retained"
     },
     "/images/news/vechain-interstellar.jpg": {
       "sha256": "6aee60f68156aede0f6557b5ba47fbfde6d0092ed5f57433642abb6c21f28402",
@@ -7441,6 +7489,10 @@
       "sha256": "10081c551da41940f44c0dc5fc36e4560bfe696b4b2a81b0bf38f852470976fc",
       "status": "optimized"
     },
+    "/logo/companies/21bitcoin.png": {
+      "sha256": "eb6baec7418f6f0420b781e878f129bcd069a1fed0a3109e6d50ae011976f7bc",
+      "status": "retained"
+    },
     "/logo/companies/21shares.png": {
       "sha256": "7c6ab54dc643f499a0e76a832e46a9ded13c7c63c63a73a20e738f9568911cde",
       "status": "retained"
@@ -7625,6 +7677,10 @@
       "sha256": "6b968ef09402cbf8a92e8f1d3ff4471a15f7bbf6f3a267709d61f9d6e47675b8",
       "status": "optimized"
     },
+    "/logo/companies/ankr.png": {
+      "sha256": "87f720e1bb861458c72e746b4934b58d4b9f731d386f8269b127a429d4bcb8b1",
+      "status": "retained"
+    },
     "/logo/companies/antimetal.png": {
       "sha256": "ccad19cdef625ea9b194b1900507ddd0ac5e7cee479018d73b7ea6cdd5359b56",
       "status": "retained"
@@ -7653,6 +7709,10 @@
       "sha256": "eb7f4b32c3d7492e9a0f47a27743924428009dc41d3605a0c59a98a154fc52ad",
       "status": "retained"
     },
+    "/logo/companies/applied-blockchain.png": {
+      "sha256": "a685ddff582f791e5e8beadaaecd85c1e24a54222486efa05623e54d9e59b7fe",
+      "status": "retained"
+    },
     "/logo/companies/aptos-labs.png": {
       "sha256": "9927abdff9820b49ed4f3fc8559563cd9ea8fc9427c5a535f1c7313b94535e81",
       "status": "retained"
@@ -7667,6 +7727,10 @@
     },
     "/logo/companies/aptos.webp": {
       "sha256": "cac10b6b02069926d9873e1c7d334317697e5a0d8f8d480065cf70faec86596d",
+      "status": "retained"
+    },
+    "/logo/companies/aquanow.png": {
+      "sha256": "3bbfbae5e056e582cd5db0d8858af24d4756becff25b5bccbffc182e220cda38",
       "status": "retained"
     },
     "/logo/companies/arbitrum-opco.png": {
@@ -7695,6 +7759,18 @@
     },
     "/logo/companies/arch-network.png": {
       "sha256": "2adbd4e559e760835355a338e8a4c23b3ec5e08e0489339d3d4c198fe01e519a",
+      "status": "retained"
+    },
+    "/logo/companies/arcus.png": {
+      "sha256": "2bf19c0210bf7fa8359c9c2341c567592816df1b8fa1b7b511d7d966cd260606",
+      "status": "retained"
+    },
+    "/logo/companies/argus-labs.png": {
+      "sha256": "9d06b13683d0bd9eb4dd8a6cfbfc60939c8e5c736ddc1b7f2ca5e068843babc2",
+      "status": "retained"
+    },
+    "/logo/companies/arrakis-finance.png": {
+      "sha256": "921210c50f628ad4f598fa2b49e26768265da9336523f35585e639067f037510",
       "status": "retained"
     },
     "/logo/companies/artemis-analytics.png": {
@@ -7737,6 +7813,10 @@
       "sha256": "8d43afac9394f7194480fd17d780077c24db0bc3f4799109941ecf153749b845",
       "status": "optimized"
     },
+    "/logo/companies/auros.png": {
+      "sha256": "da7594fba14b850a4a713944543f265c55a4651a20a625df0a877bf49a5c8d72",
+      "status": "optimized"
+    },
     "/logo/companies/ava-labs-avalanche.png": {
       "sha256": "4a164d4e570cf3d4fd251712cfb9c7bd1a99cdf1d00244d32142c18076d6b453",
       "status": "retained"
@@ -7754,8 +7834,8 @@
       "status": "optimized"
     },
     "/logo/companies/axiom.png": {
-      "sha256": "a04bc3641ba49c12593582484b741a4d947b5f69dd32bccbfd4d1f56341da745",
-      "status": "retained"
+      "sha256": "6638471b0d7d4637eaf2fce7ebd1a57199215cd9c22063f7f173109e780c2571",
+      "status": "optimized"
     },
     "/logo/companies/axiom.webp": {
       "sha256": "266cc93bb7ad41609b1646976ae58f0f46b73186f78bb3ad5f24b55d9b351f99",
@@ -7825,8 +7905,20 @@
       "sha256": "45a978498902690336b732b76675be0513c1dd2e17d8def665a2df095c295e99",
       "status": "optimized"
     },
+    "/logo/companies/bison.png": {
+      "sha256": "671fdb74b10710a1eb51ce4f5c4d12bdc08b318a04ee0ed88a2d008ac83a8b57",
+      "status": "retained"
+    },
+    "/logo/companies/bit2me.png": {
+      "sha256": "980cdeace83458d5c90f4c871c8e3f0adde06aa132de4d1e621ce445462e0724",
+      "status": "retained"
+    },
+    "/logo/companies/bitaccess.png": {
+      "sha256": "483981be42e3f692f4210ffadde45459fbfd3d7871d443ccb71d4cfa6349f33a",
+      "status": "retained"
+    },
     "/logo/companies/bitbank.png": {
-      "sha256": "1dbb1bf2afdce2979dc05a3c1fab45260db5f62d2422768e8d652613cfe1e01d",
+      "sha256": "eac17b6b575e753216172d26f5f0a04c975f2f8a51ca652631040ea239e40485",
       "status": "retained"
     },
     "/logo/companies/bitcoin-com.png": {
@@ -7836,6 +7928,10 @@
     "/logo/companies/bitcoin-com.webp": {
       "sha256": "4ffa4d51969f7b0301334e97c770b7138d971dbeec8db66dbb52a740bdc3c738",
       "status": "optimized"
+    },
+    "/logo/companies/bitcoin-suisse.png": {
+      "sha256": "0bb12af94538035b7b4c94d34775d1cc932abceed0d1a0359bcd4b6a7428a450",
+      "status": "retained"
     },
     "/logo/companies/bitdeer.png": {
       "sha256": "a422a46f3be2399bff75c5ac27050e5ed053e57ce1c96b205bc3c804feb87f75",
@@ -7865,6 +7961,10 @@
       "sha256": "c09f5a647370a4dcea12496176a3f7ce9ded5ee250db5541d6c67737811a19ba",
       "status": "optimized"
     },
+    "/logo/companies/bitmama.png": {
+      "sha256": "f2c78c2527813e59e61379b101c90d17944f3c5f8f960c8b1abba13f159944ed",
+      "status": "optimized"
+    },
     "/logo/companies/bitnomial.png": {
       "sha256": "37d8ecade270e0f878fa187ddfdea8c8c5db7b27c909fb72a811944738d86d76",
       "status": "retained"
@@ -7872,6 +7972,14 @@
     "/logo/companies/bitnomial.webp": {
       "sha256": "7be472594b009e6b1c6577d45abfe7a0041694cea501d047940252a4dcdc35f0",
       "status": "optimized"
+    },
+    "/logo/companies/bitnovo.png": {
+      "sha256": "c235362fc3e37940f55786a3d332fbb3ad3a50ee4cec229ad5458d79a4dd25aa",
+      "status": "retained"
+    },
+    "/logo/companies/bitonic.png": {
+      "sha256": "dfdb1b6a2070ca4f43dd7ccb81451f600beee3086379cb389b39219340d6acfa",
+      "status": "retained"
     },
     "/logo/companies/bitpanda.png": {
       "sha256": "cc7f1da375c3307b63cc7ea18cf994c50244fbada78cde049f8f3daf70f6ca42",
@@ -7981,6 +8089,10 @@
       "sha256": "1ef530570b9be64d13d956db8061d47163619a52a4634b5ed3eee0d2dd57e4a2",
       "status": "optimized"
     },
+    "/logo/companies/bluefin.png": {
+      "sha256": "0125f54a49e6774c4f56384bd94995198d304a3aa8f9f11560c071dbb7b8c4a7",
+      "status": "optimized"
+    },
     "/logo/companies/bnb-chain.png": {
       "sha256": "1f023677aaa79517eeb2252cda5f3e81b585778d42e8c10069784c2a1aa40a9c",
       "status": "retained"
@@ -8006,7 +8118,11 @@
       "status": "optimized"
     },
     "/logo/companies/bob.png": {
-      "sha256": "ceabe496c8bf18f8960d57e0f687f8734e60ed5a627a041b0b8dfcddc004076f",
+      "sha256": "35a2bce4145e8bc8af63cb51985965d06e174c4e68c6a61cf7efe56a430596cd",
+      "status": "retained"
+    },
+    "/logo/companies/boost.png": {
+      "sha256": "ae63c1b5ea84e0e5746a24b5b3b151870d1c093f5de9194d98bdf258518e756e",
       "status": "retained"
     },
     "/logo/companies/braavos.png": {
@@ -8041,6 +8157,10 @@
       "sha256": "b313ee7acd6fb142b067920b7bc43150e182d4e17f4b0a8ccba3f6e06f13d8ac",
       "status": "optimized"
     },
+    "/logo/companies/breet.png": {
+      "sha256": "eea44a05b72e0b416474dd757b76e95d6bae0e8726ebad96095be880c92d584b",
+      "status": "retained"
+    },
     "/logo/companies/breeze-cash.png": {
       "sha256": "a58917d56650edc2eabe4507d9b41962da2f2a1b43910dd435f447ee8ec447de",
       "status": "retained"
@@ -8062,7 +8182,7 @@
       "status": "retained"
     },
     "/logo/companies/bullish.png": {
-      "sha256": "bccdbce5faa8646cf83ca6d0a84a1b9709607e994869e5490ab30384169554aa",
+      "sha256": "86cbae40c63c1368b86014f91c0b0896e2e71825fa3990a5331bb6eff956fd3d",
       "status": "retained"
     },
     "/logo/companies/bullish.webp": {
@@ -8095,6 +8215,10 @@
     },
     "/logo/companies/cantina.png": {
       "sha256": "740002aacaf72dae42320cff7d0bd8914a1ae36b3bc4446c641d019e35c6dbea",
+      "status": "retained"
+    },
+    "/logo/companies/cashlink.png": {
+      "sha256": "3fa4e7af7d6d7b1b1a2a2ae43335b2593afd4b351cf5960f57239f36dac6daac",
       "status": "retained"
     },
     "/logo/companies/category-labs.png": {
@@ -8157,6 +8281,10 @@
       "sha256": "992406d57841c4484bdd8d4b042e34982c2687e85fce20fa20b128201840b2d8",
       "status": "retained"
     },
+    "/logo/companies/change.png": {
+      "sha256": "a72134539dd1649a2c90a78038177f97bfa83dd1f87221871b62f3654936c65b",
+      "status": "retained"
+    },
     "/logo/companies/chronicle-labs.png": {
       "sha256": "240b1b7de5da5858ecc0e199dc81bb47ad0ba775159ff9d19de5221cc203cd90",
       "status": "retained"
@@ -8197,6 +8325,14 @@
       "sha256": "5c1f744561aca626d969f67ab1f179ef6ff9ce9207e91d989b583c1bf48b5921",
       "status": "optimized"
     },
+    "/logo/companies/coincash.png": {
+      "sha256": "856a6459afb1fdbb0b95a91c4df6830c9e446dc3ab66f3a60b772c547b6e8e7e",
+      "status": "retained"
+    },
+    "/logo/companies/coincorner.png": {
+      "sha256": "bc5d31a9663783dee39bd746542fba9fff6af3f33104a39197824555b2452058",
+      "status": "retained"
+    },
     "/logo/companies/coindcx.png": {
       "sha256": "6d8e1ee4477263396315130e3aca5c5778fbd7166feb309ac0bcc127cfb11de4",
       "status": "retained"
@@ -8212,6 +8348,14 @@
     "/logo/companies/coindesk.webp": {
       "sha256": "be268743b70bddc376c3a17e6e5f545ca75110071e0dd0e9ee127f34528eb214",
       "status": "optimized"
+    },
+    "/logo/companies/coinext.png": {
+      "sha256": "12269dec01c05c8b5ef7cb3d882528a1da8d80a7b2250fc25da5273c9800eee3",
+      "status": "retained"
+    },
+    "/logo/companies/coinfinity.png": {
+      "sha256": "66195470e30a2c94dfde5bb5ffd22b97024feb598870ea0690d6a1e2006ac891",
+      "status": "retained"
     },
     "/logo/companies/coinflow-labs.png": {
       "sha256": "1118175686e043966567bf4742aa0a7ae5f5ddbe4543c2194ac087746ce64735",
@@ -8268,6 +8412,10 @@
     "/logo/companies/coinme.webp": {
       "sha256": "82c7b1368bb6eb2ef7715cf6956ad90ab7835cfeeb28099964d4b6b5344b3da0",
       "status": "optimized"
+    },
+    "/logo/companies/coinmotion.png": {
+      "sha256": "1831d4ffe95112dfa4712f6b25eea8e2605d27d2912794be4e6379801231ed12",
+      "status": "retained"
     },
     "/logo/companies/coins-ph.png": {
       "sha256": "2e72d5f6aea99cea5e26b253724a8ca18117fda8701e3018d40739f5d2390d28",
@@ -8457,6 +8605,10 @@
       "sha256": "7addbe8411867ba00c79e858fccfd8cb875fee4db4895a4fa8b05e6704d4b3ef",
       "status": "optimized"
     },
+    "/logo/companies/deblock.png": {
+      "sha256": "d57da6dad23758567621ae8b4e01dcbf18d5ae56c0377301b3af2c945e14512d",
+      "status": "optimized"
+    },
     "/logo/companies/delphi-digital.png": {
       "sha256": "4ddda1b86fbed19f5855bd85391a026397188a9267b2b0d94ede6cde272bc260",
       "status": "retained"
@@ -8478,7 +8630,7 @@
       "status": "retained"
     },
     "/logo/companies/dialectic.png": {
-      "sha256": "1dfe68d80539141d0b2982023a7b7c186d61e3914a742cf200aec636d574417f",
+      "sha256": "e4dae99b17d7a164dc9859d4102cebec95454dc0cb67f6a5859cc9265ef4186d",
       "status": "retained"
     },
     "/logo/companies/dialectic.webp": {
@@ -8499,6 +8651,10 @@
     },
     "/logo/companies/digital-currency-group.webp": {
       "sha256": "5af6e971d1c774722f95cfe849c36bd9a777d204a436965962e9d5838a04517a",
+      "status": "retained"
+    },
+    "/logo/companies/double-jump-tokyo.png": {
+      "sha256": "a4375df7eaf61455c934beabfe2fcc24608e2af9f3cd1e3088f92badcc32e868",
       "status": "retained"
     },
     "/logo/companies/doublezero.png": {
@@ -8533,6 +8689,10 @@
       "sha256": "1122fce8fd0d3dcd4c342e1c70342c900d094fdc9c83a648af7e2d6df3bd94cc",
       "status": "retained"
     },
+    "/logo/companies/dunamu.png": {
+      "sha256": "8faa6aa4f34716071d9364bc9c9db1406c8f90b5547a7ea9054b56401dbd1eb3",
+      "status": "optimized"
+    },
     "/logo/companies/dune-analytics.png": {
       "sha256": "edefa49cda9adbda16f6afdf442b8dc20e9c8b5d0b0f09238ea23fa7ec8f57d6",
       "status": "retained"
@@ -8556,6 +8716,10 @@
     "/logo/companies/eclipse.webp": {
       "sha256": "d7bfed928ba404635732d09b91338b65c8be3990577c4b1145fcf6c9226e0961",
       "status": "optimized"
+    },
+    "/logo/companies/eco.png": {
+      "sha256": "faa48198f7cec6d79baacc895cbe6c7e1006579af6a9bd309d201cdb53518c52",
+      "status": "retained"
     },
     "/logo/companies/eigenlayer.png": {
       "sha256": "37a4768d629c00b1cd6b698d58060404d1ba1a744880d17ea13a22c7d13f4457",
@@ -8741,6 +8905,14 @@
       "sha256": "25a60161f43948a0fd42fb6babd239c598183f3172682f4ba46fd6db4ad40525",
       "status": "optimized"
     },
+    "/logo/companies/finoa.png": {
+      "sha256": "20b4fed8038c69e83390c4cd53c7118b03d615e61736384627b080c6540157ba",
+      "status": "retained"
+    },
+    "/logo/companies/finst.png": {
+      "sha256": "302c0e404ba3a200e6a1763a96ad4a2d895d65467cf3a5caf11dbfe1625a4521",
+      "status": "retained"
+    },
     "/logo/companies/fintax.png": {
       "sha256": "ea24570dd7740951432738e3db4477babeb01173f43f3f2d4e970aca1c3223bb",
       "status": "retained"
@@ -8777,12 +8949,20 @@
       "sha256": "5013149118cccb1a900bc378d23e1c26dfab8c941635340571761043a96c2f41",
       "status": "optimized"
     },
+    "/logo/companies/flitpay.png": {
+      "sha256": "c10729ffef732330e597566017ea853345ecabf1fc462a99bcbef4028e0a92be",
+      "status": "retained"
+    },
     "/logo/companies/flow-traders.png": {
       "sha256": "94b394ec1ba89f533e700e3c08c36505313cf3530a0389b791464b39ef02ec16",
       "status": "optimized"
     },
     "/logo/companies/flow-traders.webp": {
       "sha256": "9f4d79ab9d87b03317a2eb44174e137aaa490e1eaf038cc120608a7d5a00e77e",
+      "status": "retained"
+    },
+    "/logo/companies/fomo-pay.png": {
+      "sha256": "a47c88c7bb0326dcfd982339534e6ca74aeb6b8be686ca27c2ceaa7ad0a1f6dd",
       "status": "retained"
     },
     "/logo/companies/fomo.png": {
@@ -8804,6 +8984,10 @@
     "/logo/companies/foundry.webp": {
       "sha256": "569aaa56c6efe2675a5a065568798cbaa68b0d274ac8b815899e3d6dc1402505",
       "status": "optimized"
+    },
+    "/logo/companies/foxbit.png": {
+      "sha256": "5185d4f4bcc2f0544f7fb1e557c9b7bc1a6681150e5f299e11d016858ac84798",
+      "status": "retained"
     },
     "/logo/companies/franklin-templeton.png": {
       "sha256": "9b605b4da1cef0ccc09421df2fb0588c7019a1de2910f2d65ddaf19f058ec676",
@@ -8827,6 +9011,10 @@
     },
     "/logo/companies/fun-xyz.webp": {
       "sha256": "dae416daa69a152cee347cf0d4f6367a521e1e5e2f37ae2971c725f5e15ccfbd",
+      "status": "optimized"
+    },
+    "/logo/companies/fuze.png": {
+      "sha256": "7a30165fc99353267f8935b94ff4e4898504f688ced2a334559135e5d3d67a86",
       "status": "optimized"
     },
     "/logo/companies/gacha.png": {
@@ -8894,7 +9082,7 @@
       "status": "retained"
     },
     "/logo/companies/ginco.png": {
-      "sha256": "9263f07345b88b10089ba2c558929c09aab58bb9314544b11cb2c6262101960a",
+      "sha256": "fabf79f718929843917741f87ec40efc0a7f2ce40a8ac7544e3f22d6242f1844",
       "status": "retained"
     },
     "/logo/companies/goldsky.png": {
@@ -8977,6 +9165,10 @@
       "sha256": "e031813dabb4bd07f58d703403440426250549029c81f2fa838cb95d2dbc9746",
       "status": "retained"
     },
+    "/logo/companies/hata.png": {
+      "sha256": "1239f1281cde994940987c6730380b7c6e9a009154777807365078f8c2b2949b",
+      "status": "retained"
+    },
     "/logo/companies/hedera.png": {
       "sha256": "916ffa8d60043f816abf33d022105d7fdaea4400f97cb6c7a7b3eb27b2472974",
       "status": "retained"
@@ -9001,6 +9193,10 @@
       "sha256": "3c323d3cf9dd9025d751bd23f085e096e7fbaed2aa3074b62d6ecf5419b1af22",
       "status": "optimized"
     },
+    "/logo/companies/honeycoin.png": {
+      "sha256": "35e564ac5e875b90041192be838b2380e40e0f5dbf7f7059e756f0d73adfba5a",
+      "status": "retained"
+    },
     "/logo/companies/horizon.png": {
       "sha256": "eb829ff8a4cc30aefb2cbed49d7d2b9d878059a378eb4aecd6ae1f31ccbe6c5c",
       "status": "retained"
@@ -9016,6 +9212,10 @@
     "/logo/companies/hut-8.webp": {
       "sha256": "7bd015a5dfab2a9dc05dfec1f51dfaa3479fcd9edb43760a229af4d2e9bd7a30",
       "status": "optimized"
+    },
+    "/logo/companies/hype.png": {
+      "sha256": "dc6aab1c13457e95b9c452138472591cf236bb8e2887b1a92c1afe3919e22891",
+      "status": "retained"
     },
     "/logo/companies/hyperbolic-ai-web3.png": {
       "sha256": "58b9a8005939615cadb7157d881c86c12ebb3dd748bd299079186ff55ab56e7b",
@@ -9086,7 +9286,15 @@
       "status": "retained"
     },
     "/logo/companies/injective-labs.png": {
-      "sha256": "ef204ff0d77ded9568ce81a81c906e541f9090e2a7690ee98cdb8ee99f4bee7e",
+      "sha256": "7edfc66d197b1c1ba6a9d19d5183b30e0a7ac969c5b10f93256bc03b3db2f64c",
+      "status": "retained"
+    },
+    "/logo/companies/institute-of-free-technology.png": {
+      "sha256": "072eab92c544c895ef90b5945c79b7177d25702c64323005ba724a8731effa92",
+      "status": "optimized"
+    },
+    "/logo/companies/intellecteu.png": {
+      "sha256": "2a8e3e9a510ca147d3fc683e2fe84313acd11c3ac9d7a25692cd5be7b8a8c8f2",
       "status": "retained"
     },
     "/logo/companies/io-global.png": {
@@ -9186,7 +9394,7 @@
       "status": "retained"
     },
     "/logo/companies/kappa-lab.png": {
-      "sha256": "b48afca907c60e7a50860874125239f18fdd08392c893b9f90cfe5f0d91a832e",
+      "sha256": "4d0f4fb63fda154f19b3fd100b8521aadf82451b2eee53262552d3487b54e3e5",
       "status": "retained"
     },
     "/logo/companies/kast.png": {
@@ -9208,6 +9416,10 @@
     "/logo/companies/kiln.png": {
       "sha256": "f7b9fffaae3e76a7e7733cd2fa0fa282fcc2404ba288e166130215d211e6412f",
       "status": "retained"
+    },
+    "/logo/companies/koinx.png": {
+      "sha256": "4048db54a7a8b3331c0de24b1abe0a1bad3947d7c4d73a310bb28041049eb2e8",
+      "status": "optimized"
     },
     "/logo/companies/kpmg.webp": {
       "sha256": "25f6214154e869f44fde875d98a6f308f87fabb5df6d509fee6e1611c767fd91",
@@ -9236,6 +9448,14 @@
     "/logo/companies/ledger.webp": {
       "sha256": "2aec8f8fb94ea14cf60f11d67f68947f0b736821bdc62aff2e20a45010ebb1de",
       "status": "optimized"
+    },
+    "/logo/companies/legend.png": {
+      "sha256": "41c3b124d566348aa2a289d6da2bc6ca74212022cebf47919c6248689fc6996f",
+      "status": "optimized"
+    },
+    "/logo/companies/lemon.png": {
+      "sha256": "c107c9fc993c721fe53bc5a3b307c23b9bc602d38ebc1756bf97be730ff28c53",
+      "status": "retained"
     },
     "/logo/companies/lens-protocol.png": {
       "sha256": "6b9369dee895d392a4866bf9d80fccc8a9da444226ad3d6318b74ecfca01f3d1",
@@ -9294,7 +9514,11 @@
       "status": "optimized"
     },
     "/logo/companies/liminal-custody.png": {
-      "sha256": "6a1e52fbf0bf2702730f673f71e2ccfc5876a0dd9159931919eb2f03399dd7ae",
+      "sha256": "279fd91abceee7ad26891629c5a8cc2e9057dbeeccf5b3e9f2bb867464f40dad",
+      "status": "optimized"
+    },
+    "/logo/companies/lisk.png": {
+      "sha256": "becec9f52a5d98989c0f4ac7674add1882183514b83ed99bca762d249eeca5f1",
       "status": "retained"
     },
     "/logo/companies/localcoin.png": {
@@ -9371,6 +9595,10 @@
     },
     "/logo/companies/magicblock.webp": {
       "sha256": "f3595cd3f2ca8e2c1fc0254655af532d8fdecaeb33512a3c3d79ae1108d09493",
+      "status": "optimized"
+    },
+    "/logo/companies/makina.png": {
+      "sha256": "b14f16eb79df41f0d0af3f66b6585cd15851911e2ffe05d7a3f36f14899d5dc5",
       "status": "optimized"
     },
     "/logo/companies/mantra-chain.png": {
@@ -9485,6 +9713,10 @@
       "sha256": "fff370a2964acb7e47ff6df9a7184f0710435a007c837f6ddc6e5fed6e8525bb",
       "status": "optimized"
     },
+    "/logo/companies/midchains.png": {
+      "sha256": "7b9ca42e4be86cc7bb9c5ade0692d779f3a23961ce21ad5913f0a8719df976c0",
+      "status": "retained"
+    },
     "/logo/companies/molecule.png": {
       "sha256": "57a4d44d626406405bd232692f11c40235685df9dd7f64bfbca6b2aab05d4a79",
       "status": "retained"
@@ -9553,6 +9785,10 @@
       "sha256": "126d52a09443765871060f5837d7031e4a2d45623fe5405eca4aaef1c42ffc80",
       "status": "optimized"
     },
+    "/logo/companies/mt-pelerin.png": {
+      "sha256": "8048a726594fa014f3e1259d0412e44c020c71327f4708f08100871439d2a89c",
+      "status": "retained"
+    },
     "/logo/companies/mudrex.png": {
       "sha256": "65c8eb967741e9617de1883d310c88971a7537b29543719441a212af512a2305",
       "status": "retained"
@@ -9571,6 +9807,10 @@
     },
     "/logo/companies/mythical-games.png": {
       "sha256": "adff48ec3be18a33927362b898185d337dfeda450a6e3d6ebcdc2ed797b79972",
+      "status": "retained"
+    },
+    "/logo/companies/n1.png": {
+      "sha256": "747bd4592e800bb71ff5de2ba87936a78a902d40e6c975eab3a9b5f3e7ce22d6",
       "status": "retained"
     },
     "/logo/companies/n3xt.png": {
@@ -9605,6 +9845,10 @@
       "sha256": "8c768166bad3541fd4221bbaaa54f60eec09dec60de8b8b3e3f026de2cf45b95",
       "status": "optimized"
     },
+    "/logo/companies/nbx.png": {
+      "sha256": "94c9caa212c6379ff52ae0628a6c0d67422b888fc334544d906e25b7f855e7ad",
+      "status": "retained"
+    },
     "/logo/companies/ndax.png": {
       "sha256": "4e86dc1312241d0bb2457d9ea2a6937c22500347efd2983088e5f5fd1ff53eb2",
       "status": "optimized"
@@ -9620,6 +9864,10 @@
     "/logo/companies/neon-evm.webp": {
       "sha256": "4853be9ace4228a3244251f5bd38f29e2ee0627203722a6a3939e482caad3a98",
       "status": "optimized"
+    },
+    "/logo/companies/netcoins.png": {
+      "sha256": "867a0157326997d3778a1601f05c4cbf9ca8edcf480d7dc256b7376450c1af55",
+      "status": "retained"
     },
     "/logo/companies/nethermind.png": {
       "sha256": "8527958cd9cb259c4eb832583ee91e15a1ee21c3d5f27648ba760c086d804c32",
@@ -9652,6 +9900,10 @@
     "/logo/companies/nexus.webp": {
       "sha256": "a5a3af6e586831984491641cfe682b21aef3927050bc528794a53555429cb110",
       "status": "optimized"
+    },
+    "/logo/companies/nimbus.png": {
+      "sha256": "7715cf60d3c962819ccff64796f9be3d759ea4dd229a97ccdaf6c402e242673e",
+      "status": "retained"
     },
     "/logo/companies/noise.png": {
       "sha256": "46b59cfa33c47669fd7fa14a0f26323ffe51a5af858070e3cb28b6b8d5c978fc",
@@ -9773,6 +10025,10 @@
       "sha256": "313226945a22abb62a99d9915e18c2308f335ae7f5761b0333754345209d6e05",
       "status": "retained"
     },
+    "/logo/companies/optimism-foundation.png": {
+      "sha256": "a7715a08144045f17264442d95228efc4f05bc724a4c38180f4ed0d64bb5f8ab",
+      "status": "retained"
+    },
     "/logo/companies/optimism.png": {
       "sha256": "712eaf5e51215f4cbd7703c8a98c774850ad5e469111697385dc504f80be1c4e",
       "status": "optimized"
@@ -9880,6 +10136,14 @@
     "/logo/companies/paxos.webp": {
       "sha256": "c7f273b19f085e352ccd83d34f925e75c32b542c18c84674296e3f5b0d196105",
       "status": "optimized"
+    },
+    "/logo/companies/paymium.png": {
+      "sha256": "e68f115ca77a23ea27a09cac8ffe304f9ee2e22772a041a4fb0e989834584c0c",
+      "status": "retained"
+    },
+    "/logo/companies/pdax.png": {
+      "sha256": "4bc5cee2471aa8ed0def4f909ccea34bb66dbb39c9b059ba884eb99b4f106262",
+      "status": "retained"
     },
     "/logo/companies/perena.png": {
       "sha256": "7200fcd4a2cd5197b05275f0cab72cc11ca891829ce1e696c14a425a52532e6c",
@@ -10021,6 +10285,14 @@
       "sha256": "20d56b30e2b542f6e2460956b3433a51a3f466d192efbb9caa1c20a69057ec6a",
       "status": "optimized"
     },
+    "/logo/companies/qcp-capital.png": {
+      "sha256": "f1266a1f4c0104f5bdf449f1428ee558a2752499cfe48cdd16ebd7c452290929",
+      "status": "retained"
+    },
+    "/logo/companies/quantstamp.png": {
+      "sha256": "abee1b0aca07cfa7f5607226575ab797b329369ed06020f88d17e87bb92764b8",
+      "status": "retained"
+    },
     "/logo/companies/quicknode.png": {
       "sha256": "d62c14e7bec7e61b6315fd4dbc2cc482ed6f6a22efb114a893cbf602e666970d",
       "status": "retained"
@@ -10095,6 +10367,10 @@
     },
     "/logo/companies/refi-hub.webp": {
       "sha256": "5e8f09cee4c6f4166a767162cc74634dce958e2b79933222f5f5cb29443b3222",
+      "status": "optimized"
+    },
+    "/logo/companies/relai.png": {
+      "sha256": "033d21a6c91855bd8f0b143e6de5f3d079c86935cf37b206cca0824b4f35cfd0",
       "status": "optimized"
     },
     "/logo/companies/relay-link.png": {
@@ -10209,6 +10485,10 @@
       "sha256": "0de48f85b02b7a44c06d07a5bf833ea9bfa5421a3538da5efc386f82ba2cdc77",
       "status": "optimized"
     },
+    "/logo/companies/safello.png": {
+      "sha256": "2181efcdd0c4681b9ec49bffd453aba10f6a2b11467767ae1b7963537a0a238c",
+      "status": "retained"
+    },
     "/logo/companies/saga.png": {
       "sha256": "3c71bb5c27306ece664daaea0aadc150ca6d5effda977a0d2f180823d557c068",
       "status": "retained"
@@ -10232,6 +10512,10 @@
     "/logo/companies/sardine.webp": {
       "sha256": "ab0fe7371f65838b593f362fe52532f7a9ab69525bf4630ca407373db441ce53",
       "status": "optimized"
+    },
+    "/logo/companies/sbi-vc-trade.png": {
+      "sha256": "6d73607b9285b4ebdfc687397f1f385d3c27ffb663ba19c9604ef395b862f3e4",
+      "status": "retained"
     },
     "/logo/companies/sec3.png": {
       "sha256": "1aa451f622d3d6ac34e890305e7dc5effeeba646f100b5f087128e3a67321768",
@@ -10545,6 +10829,10 @@
       "sha256": "73e81221282b57b5ddf53daf2f3916821f912f7ef1cd7aa5becbc54806ad0804",
       "status": "optimized"
     },
+    "/logo/companies/swissquote.png": {
+      "sha256": "be5ba9bf365e94f4bac331417837527d4f878a46aef41b063d3ecbb348a539f9",
+      "status": "optimized"
+    },
     "/logo/companies/switchboard.png": {
       "sha256": "bc4d02aaa02c9b0d2d0483c804bd2720416ae7c333e82f20903fed7e6ba51dd2",
       "status": "retained"
@@ -10601,8 +10889,16 @@
       "sha256": "a2e6cdf4e78577755d9eecc20e5fa084f091cc62d927782aab6e3c70b2d54841",
       "status": "optimized"
     },
+    "/logo/companies/tangany.png": {
+      "sha256": "932e9308072606cf079ec3e2e395cdd525cb0274418a71bfb13c4390346c2b9a",
+      "status": "retained"
+    },
     "/logo/companies/tangem.png": {
       "sha256": "81cb35cb060d66e0c0d6e0ffb18cb8e9287b5d3550797c562fa9abb9971d8bb6",
+      "status": "retained"
+    },
+    "/logo/companies/taurus.png": {
+      "sha256": "0868e55ddbf3b0107b0f5738f24d0d6eb029073830c6714e0418b0a9cb33a613",
       "status": "retained"
     },
     "/logo/companies/taxbit.png": {
@@ -10649,6 +10945,10 @@
       "sha256": "22c2635dd0d3676d4d9d065f8fc2208ca49c24b4fefb9dcea6e3d44eeb0b12de",
       "status": "optimized"
     },
+    "/logo/companies/the-better-money-company.png": {
+      "sha256": "e9bc310b4f0190f121094eaaa4bde313c2fa44701334f62420d745e84f4f1e25",
+      "status": "retained"
+    },
     "/logo/companies/the-block.png": {
       "sha256": "9db77a63dd6628f29d29ec7cbb8814c30cae111f2fc1a6e6d043212549657f27",
       "status": "retained"
@@ -10692,6 +10992,10 @@
     "/logo/companies/trezor.webp": {
       "sha256": "bec604dd25e72fa9aca4952d92007e5b3d7304ceb8b705ff7f2f5bebe08bc0ec",
       "status": "optimized"
+    },
+    "/logo/companies/trilitech.png": {
+      "sha256": "d63fc1a9adbbd6efba2cada1af67baf520af8bac4fa379cd8d8f0a92cdcaa1d6",
+      "status": "retained"
     },
     "/logo/companies/trm-labs.png": {
       "sha256": "65c67883e0fc9c1f0ae970ddd1c3b007611f053d08bdb133795ebdbb1d3092d7",
@@ -10789,6 +11093,10 @@
       "sha256": "3079002cdcb3ac3f27cd58428b3266163866b8cd8695fe825c65f7b10757dcc4",
       "status": "optimized"
     },
+    "/logo/companies/usual.png": {
+      "sha256": "99645c27a73f1f4d8e1d1faa6453907993f797e09d7936b3e62d52ee91312d73",
+      "status": "retained"
+    },
     "/logo/companies/validation-cloud.png": {
       "sha256": "a7c4c83d0908994b55f0523ed3359b44e65db4b08e062d17cd38af2305e224a9",
       "status": "retained"
@@ -10820,6 +11128,10 @@
     "/logo/companies/veda.webp": {
       "sha256": "b1da5aa761fae40095f300fc13192e991d97cd5d90e56092df7e8e8cf781a9c6",
       "status": "optimized"
+    },
+    "/logo/companies/veefriends.png": {
+      "sha256": "f41feb79220a819887457973bab7254d2f2db49457f784a4da62a0842a6d1429",
+      "status": "retained"
     },
     "/logo/companies/veem.png": {
       "sha256": "afb47b792c8ff0b9fce8d1bd13749eaa030e718122842e26da7e5f8ef9993746",
@@ -10853,6 +11165,10 @@
       "sha256": "350f282abea4780b706ff023ca8a5ba7627ef0ff1e739eb585c6470e40617fd7",
       "status": "retained"
     },
+    "/logo/companies/violet.png": {
+      "sha256": "6d1117cdad2f8460d9d9ab46ba7c9ade651c82f56a81f66e68ae892b0386d5ca",
+      "status": "optimized"
+    },
     "/logo/companies/walletconnect.png": {
       "sha256": "45051bdf8db4c93a259f8866aeba10b7488da6643b9f3e8491e356304cc0c7d2",
       "status": "retained"
@@ -10875,6 +11191,10 @@
     },
     "/logo/companies/walrus.webp": {
       "sha256": "34a0a625f52b39bbe9e971be1799a35e64754a68c29d183274de750b7dd58ffc",
+      "status": "retained"
+    },
+    "/logo/companies/waltio.png": {
+      "sha256": "328435fbc549faa6cde822b87975fb8e32dc67a44e090cbc72ed3b0cb4d60a98",
       "status": "retained"
     },
     "/logo/companies/waterfall.png": {
@@ -10981,6 +11301,10 @@
       "sha256": "ca7fee053634f8f941ab06c7cc6b80a1c8ae1212ca4c1e860f0cfbc16df73b04",
       "status": "retained"
     },
+    "/logo/companies/xrex.png": {
+      "sha256": "520b6066a90441f0bc530e54a567d8b91f58b28866cd9aac32a427e15388a430",
+      "status": "retained"
+    },
     "/logo/companies/xt-com-exchange.png": {
       "sha256": "cbdcaf8bd7a6d4f816ce729cf101c17ee1fbb918040980c23d0a6bd130676f34",
       "status": "retained"
@@ -11017,6 +11341,10 @@
       "sha256": "1443f2b55913f0427a5a0826e2d51b5961ac966b981c4e750d7824d380f1f4b8",
       "status": "optimized"
     },
+    "/logo/companies/zenledger.png": {
+      "sha256": "e60f89fcf715f1d1e2c06da24340264b7a918b4a55c8f3d117d8147306d5d687",
+      "status": "retained"
+    },
     "/logo/companies/zerion.png": {
       "sha256": "4337a742e47cac5792707d46bf5366736e9986d7ef574d15258e85ba08bc31f2",
       "status": "retained"
@@ -11049,9 +11377,17 @@
       "sha256": "4f7d3e277024831be7533626a251c8b28fa53df19d4101323e1b37e85b42a5a3",
       "status": "optimized"
     },
+    "/logo/companies/zircuit.png": {
+      "sha256": "321d95a0560e58a42cda37c1700ec13c04496cb7bf4b4f80da76fa08072b2481",
+      "status": "retained"
+    },
     "/logo/companies/zodl.png": {
       "sha256": "162f815e813ca81665f161407aa089b0f264941c45b75f12f0259b0e0f6b6cc7",
       "status": "retained"
+    },
+    "/logo/companies/zumo.png": {
+      "sha256": "d9a1bce2609ff5ee4226b98211b13fc712169e8d8b40b1fd9ee4a9917fea4940",
+      "status": "optimized"
     },
     "/logo/gallery/2025-08-14-18.05.08-min.jpg": {
       "sha256": "c32b7332f7debda5e710c06824da0ec60d05772c3276a062b0b6a76b6cd3e5d7",
@@ -11953,6 +12289,10 @@
       "sha256": "07d009410c9f5bd902aa15a78b9e39f1dcf86f364785ae425a9f334ab0da597d",
       "status": "retained"
     },
+    "/og/companies/21bitcoin.png": {
+      "sha256": "cbce8de2b8b4eb5aec8ab07a10f12dc90bf9476082c18adaf223e80a7445a98f",
+      "status": "retained"
+    },
     "/og/companies/21shares.png": {
       "sha256": "1093ca5bb9c8037ae52cf977fb9ddb86c26f6b4ad7f48fa085004cc68d3aadc5",
       "status": "retained"
@@ -11989,6 +12329,38 @@
       "sha256": "be3d18fdedf5be3656eee52745d257e4c637945532774f7eee8c1297ead48cca",
       "status": "retained"
     },
+    "/og/companies/ankr.png": {
+      "sha256": "81a8b64e8daa5f2e9f507735f34b4c8939ecef103f011ff17f61720da7404eb8",
+      "status": "retained"
+    },
+    "/og/companies/apex-protocol.png": {
+      "sha256": "538850a5bb9e976791292435a86dfe457f4d6e13b6fb658fccf4a5aa73786808",
+      "status": "retained"
+    },
+    "/og/companies/applied-blockchain.png": {
+      "sha256": "1d731201331e6eac9d28a8932ccc825bdb6c16d9c46a7921e89dfe1c58bb645e",
+      "status": "retained"
+    },
+    "/og/companies/aquanow.png": {
+      "sha256": "16fe57b507755ac733539ea26b9b0230f0c2d01077861033662a808aff0f104e",
+      "status": "retained"
+    },
+    "/og/companies/arch-network.png": {
+      "sha256": "d633487672ef9b957f6d3d460fe7a2834069ec91b89bc987d064d616817172c4",
+      "status": "retained"
+    },
+    "/og/companies/arcus.png": {
+      "sha256": "e1ce3a5714c2f7ef9fecb6d54a54ec402b567d5cb39b8f636cd7a645cf2f3d72",
+      "status": "retained"
+    },
+    "/og/companies/argus-labs.png": {
+      "sha256": "97ea9157792600a2e07e33d9a37ebf07d3f3790ff9a563a3de63e774100ef793",
+      "status": "retained"
+    },
+    "/og/companies/arrakis-finance.png": {
+      "sha256": "a99205e2af23572c8ed3f27259c87ea7b73b0cdc5714f9e3334e2d81eb10678f",
+      "status": "retained"
+    },
     "/og/companies/aspora.png": {
       "sha256": "25e853a75576e5ebbe6444d3776a0f6259e6d57fe0494f52ff9df8d11d42a3c3",
       "status": "retained"
@@ -11997,8 +12369,16 @@
       "sha256": "58831b992b4d9ad5091a99332ea56ef049b90badb07b29da3e77e857a558bbc9",
       "status": "retained"
     },
+    "/og/companies/auros.png": {
+      "sha256": "71d989c4d5e03cde02eccc58661643f8768855d841a83820fecdc64a9cf1af0e",
+      "status": "retained"
+    },
     "/og/companies/ava-labs.png": {
       "sha256": "f40b34823fd8960b577900bb9ace5c37ec0e2df417d4784714a951cb73413e56",
+      "status": "retained"
+    },
+    "/og/companies/axiom.png": {
+      "sha256": "e8ae43fda0fadf9e5b10436130abbf7138825db7e9cf8216c24244644bbe523d",
       "status": "retained"
     },
     "/og/companies/b2c2.png": {
@@ -12009,12 +12389,32 @@
       "sha256": "446da775558ebebcfeefcf884731f2f06afdcf8dcb71f76c60daf495d982ad98",
       "status": "retained"
     },
+    "/og/companies/beam.png": {
+      "sha256": "83c18127390f172abcb8327dedce975c8ee99a6b70ab2a9bc7998077262e440b",
+      "status": "retained"
+    },
     "/og/companies/binance.png": {
       "sha256": "2760b66830edc068136c7efe5cc56a8e3a3c9669e9a3b1850c29d6d31ee6adb3",
       "status": "retained"
     },
+    "/og/companies/bison.png": {
+      "sha256": "8e10326d27f69e14e6f7968bf4e05ac044a3d6ebd9de82af099e6fdf70cc331e",
+      "status": "retained"
+    },
+    "/og/companies/bit2me.png": {
+      "sha256": "a97e028a278c05663cba569b4ec7b30ea3476d411313dae04543bf173a90e695",
+      "status": "retained"
+    },
+    "/og/companies/bitaccess.png": {
+      "sha256": "d66d9aeedda56d7038ac9de98fa68ff571ede2ccc472b8ddba09e2e714201858",
+      "status": "retained"
+    },
     "/og/companies/bitbank.png": {
-      "sha256": "0f691c8b9daef353cd67774dcdc918cb8f61ab7ab184ba0dc669f233a3e3788d",
+      "sha256": "040851eae4e38c750fb957c0c1ac27feaeed05d5e854c3e39d6acf7e3b8ba3de",
+      "status": "retained"
+    },
+    "/og/companies/bitcoin-suisse.png": {
+      "sha256": "f58eb216d161d568388cf490f9f5039c9f7d072b95bf28f9423e1306e6239343",
       "status": "retained"
     },
     "/og/companies/bitdeer.png": {
@@ -12027,6 +12427,18 @@
     },
     "/og/companies/bitgo.png": {
       "sha256": "47d96c0309d022febb4d4e27dfc626f07f3febda18cd3858800807f7cac0a0ce",
+      "status": "retained"
+    },
+    "/og/companies/bitmama.png": {
+      "sha256": "9f9d879bbc0897472034834e938087e2916c6766c56db4026508430dd210f083",
+      "status": "retained"
+    },
+    "/og/companies/bitnovo.png": {
+      "sha256": "ce746c04fc0678e64e634ec2b53998cc0b00d225e928b0cb87c0c36567dbf5ac",
+      "status": "retained"
+    },
+    "/og/companies/bitonic.png": {
+      "sha256": "130d3afe8c1da233b2e741d650da36ed4108204c1c50674784f000677cdb9224",
       "status": "retained"
     },
     "/og/companies/bitpanda.png": {
@@ -12061,8 +12473,24 @@
       "sha256": "2d1529d8b4b4152196e5f47e2f7fc66f81a977078d6446aed59c981b13e97bf3",
       "status": "retained"
     },
+    "/og/companies/bluefin.png": {
+      "sha256": "3d1606738e613f818b1ae38707113fc9d21bc829e8041d051da8e86469b9229a",
+      "status": "retained"
+    },
+    "/og/companies/bob.png": {
+      "sha256": "c7e0670ebe31273b712a5e0ba809f27843cd3dcf2f728f116d089b0d87839763",
+      "status": "retained"
+    },
+    "/og/companies/boost.png": {
+      "sha256": "3064dfd80b898af75658ed2442127474e383433bb721c0aba440d3669ac63eb2",
+      "status": "retained"
+    },
     "/og/companies/braiins.png": {
       "sha256": "f349853d435ee295c4cbc836f7d84ef5ce9362ce7a9d9584dbf2e69b96d5c64a",
+      "status": "retained"
+    },
+    "/og/companies/breet.png": {
+      "sha256": "2a22c5ab7548410aac333ceea11acaf1dc55aa67e3936d79cc27f3d57b170da0",
       "status": "retained"
     },
     "/og/companies/breeze-cash.png": {
@@ -12074,7 +12502,7 @@
       "status": "retained"
     },
     "/og/companies/bullish.png": {
-      "sha256": "5f1b913bcda7e489cb1caa4c8e4fe380ac4d0654fe443cca9cfb77d5ef6c4a9f",
+      "sha256": "c80af03c7da04e46023f96c35befc507f1ece5abeb6e0bc6b8122ddf75cfc175",
       "status": "retained"
     },
     "/og/companies/bvnk.png": {
@@ -12083,6 +12511,14 @@
     },
     "/og/companies/bybit.png": {
       "sha256": "49dd1c080515d4a01eb3ad245c20efdd16a4a1ffecc33d5244e9857efc865ec4",
+      "status": "retained"
+    },
+    "/og/companies/cantina.png": {
+      "sha256": "b67c9414454164ec276bb11ea050732bfa6ade18e24cdc454efb275375da9e58",
+      "status": "retained"
+    },
+    "/og/companies/cashlink.png": {
+      "sha256": "bc6897bc46e3a9e4199f404bf26b3d7c9ee0e9e6759d8c2733fe6e907875f032",
       "status": "retained"
     },
     "/og/companies/certik.png": {
@@ -12097,6 +12533,14 @@
       "sha256": "9d4920f987cc99d160e92b00c10ff17d4ebc242c9b8bf9e64b4c82890c9fbd44",
       "status": "retained"
     },
+    "/og/companies/change.png": {
+      "sha256": "336b7c6bd9a8a66486add1e185cc52fef71fc79ccf37fca9ff743ce576482b97",
+      "status": "retained"
+    },
+    "/og/companies/chronicle-labs.png": {
+      "sha256": "c50d6433c850a7851d1d3b9a7735485c22824128272e163b6dbbe906eec369f6",
+      "status": "retained"
+    },
     "/og/companies/circle.png": {
       "sha256": "cfd8d837f7336e2cd483bb7336436a2a8f37d735b6cc188d1af96076c7a145cd",
       "status": "retained"
@@ -12105,8 +12549,24 @@
       "sha256": "6baf747d4a986f4febd338ba3f0b3814cb5c019f8db2c6b612b442e48dcf4aec",
       "status": "retained"
     },
+    "/og/companies/coincash.png": {
+      "sha256": "fcc3c4954b6155be9ef7dc72ea17cc04ef93a0ef6534af05e3dd47070c86a5b4",
+      "status": "retained"
+    },
+    "/og/companies/coincorner.png": {
+      "sha256": "3d525463c912a7c0dea2e20dd48dc2c73c1b5702296558bdd93d21da5931baa3",
+      "status": "retained"
+    },
     "/og/companies/coindesk.png": {
       "sha256": "a7ed0a7d817dae475dc914552fb5c4dd3b110537981e9d5cd38824a3606218dc",
+      "status": "retained"
+    },
+    "/og/companies/coinext.png": {
+      "sha256": "f366214418aec4652b0fca6adde7b365523f99d6dcdd0e59a4d04ae05c7bfdfa",
+      "status": "retained"
+    },
+    "/og/companies/coinfinity.png": {
+      "sha256": "f871d36caae7da9756cd246103156e8424edbad37c6325448ca83dbee020ce4a",
       "status": "retained"
     },
     "/og/companies/coinflow.png": {
@@ -12125,12 +12585,20 @@
       "sha256": "90b39b694b15960c22ef6f38070a46cf1ec4a944761668e38540b6b27ff76026",
       "status": "retained"
     },
+    "/og/companies/coinmotion.png": {
+      "sha256": "da9d2706380c19be2908ee2f3e748340f73cc03621a44b415b6e2e724d2d7b91",
+      "status": "retained"
+    },
     "/og/companies/coins-ph.png": {
       "sha256": "f7bec7f634defc0b7ad093f4d37d913988bbddc9a68b2ec4449910a90c50571c",
       "status": "retained"
     },
     "/og/companies/complyadvantage.png": {
       "sha256": "0d79fce85e2c2b43b7c490fe41ba6420a4bb3da8509dc05157d0b9ebbcc3ec3f",
+      "status": "retained"
+    },
+    "/og/companies/compound.png": {
+      "sha256": "f4336128a060a42af13d4b12a1db5f7a8da13174037072776e2d13665a143dd4",
       "status": "retained"
     },
     "/og/companies/conduit.png": {
@@ -12165,12 +12633,24 @@
       "sha256": "81562b9f8e8280fb6eb1140c8432cdbdd59c12eb6b594779e7534f97757e53ae",
       "status": "retained"
     },
-    "/og/companies/decent-xyz.png": {
-      "sha256": "440b9af0546ae56cc4e1a07d09e03120ed9abdef3b666f49fb52767b0c2de2cd",
+    "/og/companies/deblock.png": {
+      "sha256": "9aaf757b0c1b3163a885e87042731c49e14bb04552bda9d02675efac782fee9d",
+      "status": "retained"
+    },
+    "/og/companies/delphi-digital.png": {
+      "sha256": "0c50fbedf5663caf04a65c25724d4efc2a994b5875724ce95a5519e3fe2032f7",
+      "status": "retained"
+    },
+    "/og/companies/dialectic.png": {
+      "sha256": "516355693f5d164127823d7df1744c9accd5e1bf816a7eeaa5d02d2262492526",
       "status": "retained"
     },
     "/og/companies/digital-asset.png": {
       "sha256": "f9898ac8abe2acbd53d8cc53c4e5bc5f22ea7f7663bdf31bb6e01245e6b22792",
+      "status": "retained"
+    },
+    "/og/companies/double-jump-tokyo.png": {
+      "sha256": "905756a7b22833cff5b2cacce15a5679d7c213807f78e4937da75311dccd84e7",
       "status": "retained"
     },
     "/og/companies/doublezero.png": {
@@ -12189,12 +12669,20 @@
       "sha256": "0ba45ba9f666da26dd7c5b1049d491460f15012afefdb19326945dbc3b3e1e6e",
       "status": "retained"
     },
+    "/og/companies/dunamu.png": {
+      "sha256": "aeaee291a7c40a23fd0ba7f102cd545c52b3a02ff04fef89f169f7973fbfb5e3",
+      "status": "retained"
+    },
     "/og/companies/dune.png": {
       "sha256": "cad17f9e1be522824a0ef364d8f47acb2ce93767dedf4b28a2f3fac26b892bf1",
       "status": "retained"
     },
     "/og/companies/dv-trading.png": {
       "sha256": "e2fe961ee7f6b7d3717802fcb0d1d94fe828168626445210ad7e390a102607be",
+      "status": "retained"
+    },
+    "/og/companies/eco-protocol.png": {
+      "sha256": "7d2ebdf17b2875eaf1b40e023a01e11df4f2bcb41bfdd8077abcda047da03aa3",
       "status": "retained"
     },
     "/og/companies/ellipsis-labs.png": {
@@ -12207,6 +12695,10 @@
     },
     "/og/companies/elwood-technologies.png": {
       "sha256": "04212ea5bc65b0db93a0def99b822120ef7fe9aa6b4762fa6bd194ef15b578dd",
+      "status": "retained"
+    },
+    "/og/companies/espresso-systems.png": {
+      "sha256": "c9783bc6935ec4c76a903096af16034b9093e7169e207d5bc088a55d7bee5cf7",
       "status": "retained"
     },
     "/og/companies/ethena-labs.png": {
@@ -12237,16 +12729,52 @@
       "sha256": "0ac1ab7cd2179d155773681af1cee3add8db9705767e2ad7064843ee27a00f5e",
       "status": "retained"
     },
+    "/og/companies/finoa.png": {
+      "sha256": "3ea633dae23fd13657a9431a90ce3d4c1a12fa0f6fdfd1daa4e64f4855fc5536",
+      "status": "retained"
+    },
+    "/og/companies/finst.png": {
+      "sha256": "df3d6eda711af996ce0cfc64b535c239e95d4e5fdeed9b1eb6577523f0422a48",
+      "status": "retained"
+    },
     "/og/companies/fireblocks.png": {
       "sha256": "5d0e6757ed99ed71ab3b32d6bf5252d7b75959c3de8afeb83dcfde3d73e3bf0a",
+      "status": "retained"
+    },
+    "/og/companies/fleek.png": {
+      "sha256": "8714c6d53e2202d0551fc8c75a5711c28a0515d88966667ae9a97cae168c8b6f",
+      "status": "retained"
+    },
+    "/og/companies/flitpay.png": {
+      "sha256": "742e3ce5faba3d8bc72135da0a8b84e5b450e25b2bacc125dd78d6756e7bd5c6",
       "status": "retained"
     },
     "/og/companies/flow-traders.png": {
       "sha256": "0b855dd5168d464898020e6bbc30b574c288092946886b293dbc379ff67ad9c5",
       "status": "retained"
     },
+    "/og/companies/fomo-pay.png": {
+      "sha256": "f61c163b46dd08ca02166fbbcffd84fd5094b67d45a614499f62589ef62da53a",
+      "status": "retained"
+    },
+    "/og/companies/foundation.png": {
+      "sha256": "7edf51d128b4f9ed0338889255508fdf9200ad261733b18b9a13b54c99c3c1fc",
+      "status": "retained"
+    },
+    "/og/companies/foundry.png": {
+      "sha256": "67a536378fb1ce0f161ab56d3a9b90789a7397beb5638375aee417b6c28f8b4f",
+      "status": "retained"
+    },
+    "/og/companies/foxbit.png": {
+      "sha256": "41fa9ef0a19fad3fbc9977d3f61433c022e3c061e3e3775a76b6f78494d6da06",
+      "status": "retained"
+    },
     "/og/companies/fun-xyz.png": {
       "sha256": "e81e73dc543feb67dd0940143f7f01f4a68ebb5e6be5dedcab93dacbeaa01143",
+      "status": "retained"
+    },
+    "/og/companies/fuze.png": {
+      "sha256": "cd812b6ef0ec14446dabdd5db6d924b2c485a4b7879f2897cae90c04bf678b6d",
       "status": "retained"
     },
     "/og/companies/gacha.png": {
@@ -12261,8 +12789,16 @@
       "sha256": "0552f3abb4c53582ec82c9f34be34ebec568dec8e58d636f2e16d891035b3c84",
       "status": "retained"
     },
+    "/og/companies/gelato-network.png": {
+      "sha256": "0369aa26bc13db04b0dfc6069c74e7a16369cfd680f6aa45af4def6f128339b3",
+      "status": "retained"
+    },
     "/og/companies/gemini.png": {
       "sha256": "f62edbf5d464e1ab41358f4fdcef35e17913dda10f1ede461420a97aee19910c",
+      "status": "retained"
+    },
+    "/og/companies/ginco.png": {
+      "sha256": "64320d491369ad9962ba9b84ffc9be5006a4d3763c003c00fac272e773ebe8c2",
       "status": "retained"
     },
     "/og/companies/gomining.png": {
@@ -12285,6 +12821,10 @@
       "sha256": "d83739bd97d747c5ce020eb64f20fb209c95a11837ba6d09dba96efec1745ec9",
       "status": "retained"
     },
+    "/og/companies/hata.png": {
+      "sha256": "69f9157b989634930ce6abf8adf49b3926017ca7b1762f7fbfb39c5b655981d3",
+      "status": "retained"
+    },
     "/og/companies/hedera.png": {
       "sha256": "e89ccafb728bcc8fb7031f344f2b65375beb72c0c0977123e57f052a7a340a23",
       "status": "retained"
@@ -12297,8 +12837,20 @@
       "sha256": "74b726824fc3e0fc1149b82cab4b5ad355e34ce98364fb452b195cd127a49779",
       "status": "retained"
     },
+    "/og/companies/honeycoin.png": {
+      "sha256": "4745efca4b3a00f8ad1195fed26a5d6bddb001f27b8929272213767eb98fb345",
+      "status": "retained"
+    },
+    "/og/companies/horizon.png": {
+      "sha256": "3c73ad455b0079694d452c5c12ae3d80429d1ef7e466cd6d9b07884b8d887ad9",
+      "status": "retained"
+    },
     "/og/companies/hut-8.png": {
       "sha256": "fb8e813c4926c3c7d1455dbec6717b44027f8bed6c1045601288b968ea8e77e7",
+      "status": "retained"
+    },
+    "/og/companies/hype.png": {
+      "sha256": "2574f2e46a748fa94de7a1e7ac6d4f0c48cba42db35ff7f0b5a7face089d250c",
       "status": "retained"
     },
     "/og/companies/immutable.png": {
@@ -12306,7 +12858,15 @@
       "status": "retained"
     },
     "/og/companies/injective-labs.png": {
-      "sha256": "d881a20c9d1f2aa270d330cdc5b4763ec6b2ed87946834771e5ce8d7352c7235",
+      "sha256": "51bd398bc84aa7443d70eaf6b917e8cb562312cd2cdc9081479a8217dc8de2c4",
+      "status": "retained"
+    },
+    "/og/companies/institute-of-free-technology.png": {
+      "sha256": "435ac12ce86bb84565cb1d9a756c4a43f8437c11299bcbe3a0455dfff9abc29b",
+      "status": "retained"
+    },
+    "/og/companies/intellecteu.png": {
+      "sha256": "d1a6726fc55c6c0207175d8d6574e7fe57ae3389c4066d359a138e96bf4d169c",
       "status": "retained"
     },
     "/og/companies/jane-street.png": {
@@ -12321,8 +12881,20 @@
       "sha256": "3565a97cd55d19fde301ffb846ff76d50e3f19d8955c48e74bccc5a96e46c3d3",
       "status": "retained"
     },
+    "/og/companies/kappa-lab.png": {
+      "sha256": "4711eb4d667b34ff1de801c5d465b2acd30d43d5da87bb6b67dbb3212248a8b2",
+      "status": "retained"
+    },
     "/og/companies/keyrock.png": {
       "sha256": "0d83f8bc1854b6e62e411685668a4d066c7f308a7a2a3df9ecdd74350c2595b8",
+      "status": "retained"
+    },
+    "/og/companies/kiln.png": {
+      "sha256": "735a0dd41e8cd42c29605ed8ceb097bd7b8afb77ebaa55dea0bc6959e61004c6",
+      "status": "retained"
+    },
+    "/og/companies/koinx.png": {
+      "sha256": "37c90b8f672ca3945771823add2c885af16477b41b03b8844e9ee92d616d3ceb",
       "status": "retained"
     },
     "/og/companies/kraken.png": {
@@ -12331,6 +12903,18 @@
     },
     "/og/companies/kucoin.png": {
       "sha256": "d81d7dcc1fc32d5b91f33c0223ad67521abe1db5448d568559b5390d408c79be",
+      "status": "retained"
+    },
+    "/og/companies/legend.png": {
+      "sha256": "cc9b220a9f0688d030698f1eafbec50e3f71586b1829bd4fd3c574c580938524",
+      "status": "retained"
+    },
+    "/og/companies/lemon.png": {
+      "sha256": "c867e524ced0881156a00966097dffaf41d0dbe6eba380682198087738fbd99f",
+      "status": "retained"
+    },
+    "/og/companies/lens-protocol.png": {
+      "sha256": "9c05b3dc9932f70a78577aeca32c875b9df3ea328adc7d4f49e6229f6d38e349",
       "status": "retained"
     },
     "/og/companies/li-fi.png": {
@@ -12343,6 +12927,14 @@
     },
     "/og/companies/lightspark.png": {
       "sha256": "e490ca602879ff84284c4c0ef87bb300e51defa66eff899797188593e5da96b2",
+      "status": "retained"
+    },
+    "/og/companies/liminal-custody.png": {
+      "sha256": "6c362b929ee78f358d400736afc5ac9a898bdcba6bd326babff1ecd4381872a5",
+      "status": "retained"
+    },
+    "/og/companies/lisk.png": {
+      "sha256": "28873c82d5bb20436a2d3a02f23c45e2f59f085266273d4bdfc643cab2e29dca",
       "status": "retained"
     },
     "/og/companies/localcoin.png": {
@@ -12365,6 +12957,14 @@
       "sha256": "cbcedd023684d5b1715a98783a6504498e37a9b377885de58e5be1d1f0afc014",
       "status": "retained"
     },
+    "/og/companies/makina.png": {
+      "sha256": "03abeef837c1d0cee7a3ad4fb3fa7a16b59ffd1a8520d95b7b7fff0b3282153f",
+      "status": "retained"
+    },
+    "/og/companies/mantra-chain.png": {
+      "sha256": "17432e5bcefd5181162cf90eb0fd6536073c9299544d435b3c04dd4db8ebcf04",
+      "status": "retained"
+    },
     "/og/companies/matter-labs.png": {
       "sha256": "e64f08e3b6534e87913080808d2736f2be41c307430b8ade43591a810e6a1a09",
       "status": "retained"
@@ -12379,6 +12979,10 @@
     },
     "/og/companies/mesh.png": {
       "sha256": "7ba0ce45d43352a5ffd91bd7e85f433a0ffb5118ea3ed3b536119c10d3534b42",
+      "status": "retained"
+    },
+    "/og/companies/midchains.png": {
+      "sha256": "daa91ed9b23c7c83b4c15075bd46aedb9d47e383feae0050e241c91f788e2cc2",
       "status": "retained"
     },
     "/og/companies/molecule.png": {
@@ -12401,6 +13005,10 @@
       "sha256": "91de32f6cb96eee1f8b2d46ba74f7a2dcc987d682ba72e24c714d594dfca91ba",
       "status": "retained"
     },
+    "/og/companies/mt-pelerin.png": {
+      "sha256": "63493eb44acdbb6414104a8fb620530a03c984bee31abec8bfc63d4080c86c0f",
+      "status": "retained"
+    },
     "/og/companies/mural.png": {
       "sha256": "a3a4b05fe30f14c9684a0ce7a9fb8084ea210c1887fed2d0e2818c99d49a974c",
       "status": "retained"
@@ -12409,16 +13017,32 @@
       "sha256": "ac8ca54caab9997c5027f9ca257b64b0876930b4ae89db9c6a4b70c0572c42f3",
       "status": "retained"
     },
+    "/og/companies/n1.png": {
+      "sha256": "367d7136f20f50aaf54492f3382a4ed1a2089a100347e456213ced4b3b378d43",
+      "status": "retained"
+    },
     "/og/companies/nascent.png": {
       "sha256": "d817b96f254550a3f1074a65beb9a4afcea5bab8de85d424a4a058bb59409405",
+      "status": "retained"
+    },
+    "/og/companies/nbx.png": {
+      "sha256": "c5c32f96341963d81da673f6075c8018adc2efb079cb6ee6e5f36f7417548fa7",
       "status": "retained"
     },
     "/og/companies/ndax.png": {
       "sha256": "4b3e5873bcc94555c1c5cb26dfa2939d3e3a17fe1d97052911522bdf2bf94ad9",
       "status": "retained"
     },
+    "/og/companies/netcoins.png": {
+      "sha256": "2c80f35217b2983995997ede4ba414be12ac270ba305776a360cb63a72ebecaf",
+      "status": "retained"
+    },
     "/og/companies/nexo.png": {
       "sha256": "a3554c872deb9a64890eec1c0ebbc13c311963017d6b922b02b8b540e5cda46c",
+      "status": "retained"
+    },
+    "/og/companies/nimbus.png": {
+      "sha256": "8ab646c1b1711cd22c3bacac9d44cf0021a0db7fd604823c326e983a1c96a4d3",
       "status": "retained"
     },
     "/og/companies/notabene.png": {
@@ -12441,6 +13065,14 @@
       "sha256": "33817882204913706a485f13cb4f3227eb1190999f6b8155538fad58126024d8",
       "status": "retained"
     },
+    "/og/companies/optimism-foundation.png": {
+      "sha256": "929d1729192bfe10fe20c3f604fc794e8e480c8bd76d123919fe0b190826f634",
+      "status": "retained"
+    },
+    "/og/companies/orderly-network.png": {
+      "sha256": "ab0a63e5b1e58ccfb57718536d5ce63c4eb26b9a4eeb5b7c44babf37ae00ee4b",
+      "status": "retained"
+    },
     "/og/companies/p2p-org.png": {
       "sha256": "3b84da787265ea9a42286bf1d211090c76434022625e12ae6f06c3885e20fa10",
       "status": "retained"
@@ -12449,16 +13081,40 @@
       "sha256": "4645d4ee49f74e8543a8dc53f18b5771382778d566197b335e973cf669c3b21c",
       "status": "retained"
     },
+    "/og/companies/paradigm.png": {
+      "sha256": "dea8b179dc3db15ca5c299c83066ac11e440628a2acf31a5d34175ac3186a423",
+      "status": "retained"
+    },
+    "/og/companies/parallel.png": {
+      "sha256": "5cb95d07854a076f497207e62394cc807ee35fb9366ce619dc1a5c7e95ccc37e",
+      "status": "retained"
+    },
     "/og/companies/parity-technologies.png": {
       "sha256": "f4e1464fc403237af9203a41f3420750ce7d49232fe1c97355bc80bc850708be",
+      "status": "retained"
+    },
+    "/og/companies/particle-network.png": {
+      "sha256": "da5810a8c9dd2bd59c77d668ec8ed0a150061a3919d2405b3922df9fb8d5df1a",
       "status": "retained"
     },
     "/og/companies/paxos.png": {
       "sha256": "501097aaa770133e1849d6df3ffb7598aaefeb5815c6d5c59d077d2ec279eb8d",
       "status": "retained"
     },
+    "/og/companies/paymium.png": {
+      "sha256": "d23a99b2209ac9e46d02d5fbe400533cef9ae9bf27c332901af8c090fefeb1a2",
+      "status": "retained"
+    },
+    "/og/companies/pdax.png": {
+      "sha256": "e2a510868a0ffec07c00669630dc4fd5ac4dc06a9b4b5be5c8bb15956102a181",
+      "status": "retained"
+    },
     "/og/companies/phantom.png": {
       "sha256": "1155ff1118b638c5af47eca8aee911bcc7a2121b73e71eb171f4a24724abaaa0",
+      "status": "retained"
+    },
+    "/og/companies/plume-network.png": {
+      "sha256": "9038b19c3f60ec697d43a236a37b011e285aca0754b1a384a95d72fc30adc784",
       "status": "retained"
     },
     "/og/companies/polymarket.png": {
@@ -12467,6 +13123,14 @@
     },
     "/og/companies/prime-intellect.png": {
       "sha256": "5927d42b243537b9712439601ec76d1220ad47e0177efa7ee7402f7a69f58a6d",
+      "status": "retained"
+    },
+    "/og/companies/qcp-capital.png": {
+      "sha256": "f2377629a35402c01f5cd4c95a39f97f8d630d86c14edaeb0b9a5555a14b747c",
+      "status": "retained"
+    },
+    "/og/companies/quantstamp.png": {
+      "sha256": "6d360a7a71fb83c1351f7bbbd4c90ef9f71445597e5526f75e4355ef8d4e3143",
       "status": "retained"
     },
     "/og/companies/quicknode.png": {
@@ -12489,6 +13153,18 @@
       "sha256": "da3af58222a023402d28df0d7db20d64523c138a0fe86bb02c51983cf6646f85",
       "status": "retained"
     },
+    "/og/companies/redstone-oracles.png": {
+      "sha256": "9818480cb1d7068c37bc661bdc362e87400e882d7cfc3ad7ff1448baa182e594",
+      "status": "retained"
+    },
+    "/og/companies/relai.png": {
+      "sha256": "214a345f22d3775edac96fda53e9f1e69127ef1f16d8395e48495ab1f1526461",
+      "status": "retained"
+    },
+    "/og/companies/render-network.png": {
+      "sha256": "f15bb45dd34c310319a43f6eae3b9a036c1b5963ae121dda867c0c6a25184864",
+      "status": "retained"
+    },
     "/og/companies/riot-platforms.png": {
       "sha256": "3cc98ff5b39b8f3049e6ee87ed9994f34708870c7eebcf3b3fd14000baf6bfe1",
       "status": "retained"
@@ -12505,8 +13181,24 @@
       "sha256": "91d7377c5b9be2321463492ee0a34311fe17f8a695b155c0c4fc7ed6a10061ea",
       "status": "retained"
     },
+    "/og/companies/safe.png": {
+      "sha256": "f2c86b153d65a0d2cec633a60b3d19b3afb02bc52981e6d79fce83904ccdcf5c",
+      "status": "retained"
+    },
+    "/og/companies/safello.png": {
+      "sha256": "8a658382714a938af3ac704db883ac800367e19f31f8d638a6f465f768c8b05d",
+      "status": "retained"
+    },
+    "/og/companies/saga.png": {
+      "sha256": "c67831ada3d750ac198f0a8eab8c9801441076d9e8d835c1e870d4891023394f",
+      "status": "retained"
+    },
     "/og/companies/sardine.png": {
       "sha256": "f82c3ddab45eb3c3de935186e7935bc27cfee150102e9a2090b12430a121c6a8",
+      "status": "retained"
+    },
+    "/og/companies/sbi-vc-trade.png": {
+      "sha256": "4c18fa4219b717d0dddedcd34a71dbc695c85eae7ac5d95714d88701fd8d9338",
       "status": "retained"
     },
     "/og/companies/securitize.png": {
@@ -12517,8 +13209,20 @@
       "sha256": "1c41b29c1892a041abbcc99b9b6d1165480a2f26f47c6ddf30d8865541ebe628",
       "status": "retained"
     },
+    "/og/companies/sei.png": {
+      "sha256": "eeaadf0403c2bd04e9c6f26073dbb2a3b63a4a9a5844cefd1e8ea71bcd882d82",
+      "status": "retained"
+    },
     "/og/companies/shakepay.png": {
       "sha256": "04ad68d9bac22ca00e785259836b432a2e643860c976fddfb476e1ff0dfdbd29",
+      "status": "retained"
+    },
+    "/og/companies/skip-protocol.png": {
+      "sha256": "f64d8938c493e8f9ad7d4fec67fdd1ab57090cd8deac11f25e3218dc22fb546e",
+      "status": "retained"
+    },
+    "/og/companies/socket.png": {
+      "sha256": "3acf99c0e16479e01ed962437715c9bedc42c401a8fca980086c55f14ea9a255",
       "status": "retained"
     },
     "/og/companies/solana-foundation.png": {
@@ -12533,12 +13237,20 @@
       "sha256": "4d437e327ccd315f33201ba32f7025c637c778b0c417841604c265efb15bafc8",
       "status": "retained"
     },
+    "/og/companies/sphere.png": {
+      "sha256": "34b33c57472e288120c8c698a3a26276deb3148851ff1b31046c929945df9d0b",
+      "status": "retained"
+    },
     "/og/companies/spruce.png": {
       "sha256": "34b706d21572e9a859206891c2711c84383f8bf87ff292f9e33ae19b09c91436",
       "status": "retained"
     },
     "/og/companies/squads.png": {
       "sha256": "f731332642b2fbc00864d6cbcab720cbc68876863144a4e0055e5e283c9d4aa3",
+      "status": "retained"
+    },
+    "/og/companies/staking-facilities.png": {
+      "sha256": "5129d11667984cada18cc6c1e46c188f5207a849d1b581deb830e471f060c60c",
       "status": "retained"
     },
     "/og/companies/stellar.png": {
@@ -12557,8 +13269,20 @@
       "sha256": "fd7dd96ea201e13782c1e1c3d0df85af4eafc8969fd2f098fd09041741609b9d",
       "status": "retained"
     },
+    "/og/companies/sui-foundation.png": {
+      "sha256": "e33703f673b43692315bc371bb21edfc9b9bb8153e3168a75f82eaf443d7aa0e",
+      "status": "retained"
+    },
     "/og/companies/superteam-talent.png": {
       "sha256": "d7cc4557d68f5c008276cac55c2a157443c0f1497317d53174d69a7173e06844",
+      "status": "retained"
+    },
+    "/og/companies/swan-bitcoin.png": {
+      "sha256": "ecbaf166952788d81a08e51081cefdf9e7da1374c193ced5dbbf5cabb7927e43",
+      "status": "retained"
+    },
+    "/og/companies/swissquote.png": {
+      "sha256": "fecee20044a53ba7d07b11b2ac15db6da45ce71ccd2199df921fd76e62c60dcf",
       "status": "retained"
     },
     "/og/companies/symbiotic.png": {
@@ -12567,6 +13291,14 @@
     },
     "/og/companies/talos.png": {
       "sha256": "307c056b25bb4e5e5f54426c4bda9926e0b526297670f4e2116aa84e2781794f",
+      "status": "retained"
+    },
+    "/og/companies/tangany.png": {
+      "sha256": "7afe24bd75d5eaef7c70f3f5bbdda93a71b6bf7842715188d4157a04e99714d0",
+      "status": "retained"
+    },
+    "/og/companies/taurus.png": {
+      "sha256": "bca2d6a1c7e6574d166c621d4081442c1fe1751382131eac28e06d6939192c6d",
       "status": "retained"
     },
     "/og/companies/taxbit.png": {
@@ -12585,12 +13317,20 @@
       "sha256": "47ef0cf448623b2120e4dfefc3f587aeca66edeb1af887018b15d790e6951c7d",
       "status": "retained"
     },
+    "/og/companies/the-better-money-company.png": {
+      "sha256": "6d10c02051b174f3ab2d9d737ab3bfe7668ebb653ef5c312e68fec6f649fbf01",
+      "status": "retained"
+    },
     "/og/companies/the-block.png": {
       "sha256": "6b6edd2466be0d042c0ebf63d102675882a30d3d4422297a5726cbfdf3834240",
       "status": "retained"
     },
     "/og/companies/the-tie.png": {
       "sha256": "235b6dd5f4f11a6a136aa9f6f028cd9c82d1002d58d5648ae4d51f2344338b82",
+      "status": "retained"
+    },
+    "/og/companies/toku.png": {
+      "sha256": "2c9165e0ea407033d26c9871cb67b16738ce916ef8942365341defd0f95abfb2",
       "status": "retained"
     },
     "/og/companies/tools-for-humanity.png": {
@@ -12609,6 +13349,10 @@
       "sha256": "e9954d977b5d762aee90902e195f65a5880541d5efc17b5bb3b8ed681b2f7950",
       "status": "retained"
     },
+    "/og/companies/trilitech.png": {
+      "sha256": "d40e8a22f5872d9adfe2ffdcc79ccb12bf5edeeedb575789fe5a98e1e2e11bc4",
+      "status": "retained"
+    },
     "/og/companies/trm-labs.png": {
       "sha256": "7917b03e27164c38d3f1a5042a40c072fe5bcd65591a740890f2b4cddbf8d804",
       "status": "retained"
@@ -12621,12 +13365,44 @@
       "sha256": "cf842683a37d0c5071f99a033cb052f332c9812c1a4c01cafab680185d063d8e",
       "status": "retained"
     },
+    "/og/companies/union.png": {
+      "sha256": "30129e419ce896a6a7fb897e795cf426c2d7ee389d037dc775e44a4e1617a0b9",
+      "status": "retained"
+    },
     "/og/companies/uphold.png": {
       "sha256": "37b5a4a441f9e7586e0e0153286ce6ace546557f451c4a9a475cb0b3c05c4247",
       "status": "retained"
     },
+    "/og/companies/usual.png": {
+      "sha256": "cfa3084fbb551691b9c790b2647513611af6e881ae837cb6d029a11412174396",
+      "status": "retained"
+    },
+    "/og/companies/vana.png": {
+      "sha256": "2d33e58e2c535ddafd6ee3114d61d053e6b8b8570fd8f6ed6f970015f7c60f14",
+      "status": "retained"
+    },
+    "/og/companies/veefriends.png": {
+      "sha256": "d12185c6a9912321a2a0a3c58ef021cf6bd687aafa0be3e2d9f168eaabc6ab7e",
+      "status": "retained"
+    },
+    "/og/companies/vesta.png": {
+      "sha256": "06dc66b33f513b928b59349a940fd4da120d5ac6e56a120a2c37f6239568d9cb",
+      "status": "retained"
+    },
+    "/og/companies/violet.png": {
+      "sha256": "496b479bff12f8bed2599ccf71fb17040f80735755494dbe66a8b705b9a3dfe2",
+      "status": "retained"
+    },
+    "/og/companies/waltio.png": {
+      "sha256": "c3a24dd3e1df97efa46b23fefedce14132b3b6676ca4e3ca1163a6141b48b6eb",
+      "status": "retained"
+    },
     "/og/companies/wintermute.png": {
       "sha256": "002ccb637c17f0fe8bbafac0ca875abc5ce4f879ac4a8f45f078fba459b3dc5e",
+      "status": "retained"
+    },
+    "/og/companies/woo-network.png": {
+      "sha256": "0cb904bfeaab5dec972a0db32219855110e543dfce14a1948f7d6a092a87c0c9",
       "status": "retained"
     },
     "/og/companies/wormhole-labs.png": {
@@ -12637,6 +13413,14 @@
       "sha256": "74d77cf5b3d7ccaa871f45342424e4cd3a20383bff21963e4be8f00f747dc38d",
       "status": "retained"
     },
+    "/og/companies/xrex.png": {
+      "sha256": "ed45b3f92454ae40b7188753e8782b5c45379656689fe79509d0cab3486daf4d",
+      "status": "retained"
+    },
+    "/og/companies/yeet.png": {
+      "sha256": "746dd99f2ffb03999c80ab1dc16163ce8ad7423619fe290def20cbcebe65501a",
+      "status": "retained"
+    },
     "/og/companies/yellow-card.png": {
       "sha256": "56efdf58b3de5a9397f07abc18c6e46026d699152f544c7787ea73df6ccd1832",
       "status": "retained"
@@ -12645,8 +13429,20 @@
       "sha256": "3dadb1658370e2b5d69d901e2eb5010503c3bec82474f84d4c100d2544555d1c",
       "status": "retained"
     },
+    "/og/companies/zenledger.png": {
+      "sha256": "50f7181bc19931ac44a3f201b1d83831f716340c4d8237eca454070b01ed74e1",
+      "status": "retained"
+    },
     "/og/companies/zero-hash.png": {
       "sha256": "a04ddb0413538ce1921e6be0775a692ea62b5905fe737a07991c10f391d92926",
+      "status": "retained"
+    },
+    "/og/companies/zircuit.png": {
+      "sha256": "39513b583389a974d18817e4a4188cdd2a3356e802ba635d063cdb87559ee73b",
+      "status": "retained"
+    },
+    "/og/companies/zumo.png": {
+      "sha256": "39caff7ce694230a90252618803723bec12c38535d35776a11d800f0fafd895e",
       "status": "retained"
     },
     "/og/external/01376230e88a0222aa40e9a4.webp": {
@@ -13017,6 +13813,10 @@
       "sha256": "85300b56ad0850ad4d58e09778c959de5bfdd8d9182f6034418c6547942a089f",
       "status": "retained"
     },
+    "/og/jobs/af1w.png": {
+      "sha256": "aceb1a6006456345c854f36ef3bd414361b27aab765a3191b400e74563f3681f",
+      "status": "retained"
+    },
     "/og/jobs/am.png": {
       "sha256": "ff5a9199c389b2b9b468fe6e2fadcd40db12debd7af3477dc3ef77c696b00334",
       "status": "retained"
@@ -13137,10 +13937,6 @@
       "sha256": "c2cc288fc7283f0539a1fde6642c7bfb9c47f470199f9d89ecefd64419da7140",
       "status": "retained"
     },
-    "/og/jobs/an6.png": {
-      "sha256": "995b5eb8999f93807630d0de3bab2ef92499fe096935ceca2bef4c9445360e27",
-      "status": "retained"
-    },
     "/og/jobs/an60.png": {
       "sha256": "69aa35cffdd6c2cd5015f93d9dee6d631fde3f16e82d3f8f991a1043aef25c62",
       "status": "retained"
@@ -13257,6 +14053,14 @@
       "sha256": "13b60169895d1f63b1c2342a033d51d1741860cf0f55213920f0299c38568a99",
       "status": "retained"
     },
+    "/og/jobs/an90.png": {
+      "sha256": "213eb065bbf0adffdfd4696eb6d1ef9999ba9b292c48585ee4be05a203b0c792",
+      "status": "retained"
+    },
+    "/og/jobs/an91.png": {
+      "sha256": "8a8b3565868be5303985cd85103d01b817941e5eabc5f519ad307228ac74fe2c",
+      "status": "retained"
+    },
     "/og/jobs/arc10.png": {
       "sha256": "541ed92cefa905e3254bee612464a5b90c2c503e7ff4b495818f8db0f6e7e73e",
       "status": "retained"
@@ -13307,6 +14111,10 @@
     },
     "/og/jobs/arc21.png": {
       "sha256": "ee3f5619c284a5f373bb8093471501321e8d0b2f061cad9cf70b9733e5fb14d0",
+      "status": "retained"
+    },
+    "/og/jobs/arc22.png": {
+      "sha256": "27afa2e84c9518989ed053937af8704b160c1d0a403a51b04a87e9a304787898",
       "status": "retained"
     },
     "/og/jobs/arc3.png": {
@@ -13386,7 +14194,7 @@
       "status": "retained"
     },
     "/og/jobs/aso23.png": {
-      "sha256": "3580faefba0ce8921811e5d218f1ca5860543edb31c60776210588b4c8fc8797",
+      "sha256": "31d20f70d61ed0f9c6afc81760c979ce3433f5e8e962dad649e0120b92175235",
       "status": "retained"
     },
     "/og/jobs/aso24.png": {
@@ -13434,15 +14242,11 @@
       "status": "retained"
     },
     "/og/jobs/aso42.png": {
-      "sha256": "594b8bb20f07f11f1439653663606d8f908d66094089a179aa465cba9569f588",
+      "sha256": "fc3e8d704571b91fe2dda9ddbcb24b0683b98de77584fe01180344638bf264ff",
       "status": "retained"
     },
     "/og/jobs/aso43.png": {
       "sha256": "58de1588934404e7a16b67d1e28409e9b5d51777921b406948a95f2767acae0d",
-      "status": "retained"
-    },
-    "/og/jobs/aso44.png": {
-      "sha256": "c9aa2b701f0cf7eb9dd79ba9bf2a9f33a0f20b8d148dc99baed98fa349324bea",
       "status": "retained"
     },
     "/og/jobs/aso45.png": {
@@ -13495,6 +14299,14 @@
     },
     "/og/jobs/aso57.png": {
       "sha256": "2fdc696b8eaa5c3215ba9f9805d6add78e9267a20411a3b8cee528ebb494aed8",
+      "status": "retained"
+    },
+    "/og/jobs/aso58.png": {
+      "sha256": "3580faefba0ce8921811e5d218f1ca5860543edb31c60776210588b4c8fc8797",
+      "status": "retained"
+    },
+    "/og/jobs/aso59.png": {
+      "sha256": "5682f56750c01553da7c27ec6f480d74f0d6906adf415f8f6a6cad6dba4c066e",
       "status": "retained"
     },
     "/og/jobs/aso6.png": {
@@ -13589,10 +14401,6 @@
       "sha256": "02de490269856024214051e47bfa3a1514c8c0352a6e84414344fafa3116196c",
       "status": "retained"
     },
-    "/og/jobs/be6.png": {
-      "sha256": "ac12905bd227c2e7888e74765a075dd94154943c2f8f407085eb5440f263ec33",
-      "status": "retained"
-    },
     "/og/jobs/be62.png": {
       "sha256": "6b33e7d7187ffab05fc083c2a51ffcef1bb409fbf64ba25e3d4d2162c5ee990a",
       "status": "retained"
@@ -13621,16 +14429,12 @@
       "sha256": "4e8ba77bb72e089e032fd6f972c7efec98bf21039d3b8db5c28481b47abc91aa",
       "status": "retained"
     },
-    "/og/jobs/be7.png": {
-      "sha256": "027f5a739636e9a1aa23751dd16b7b3c805acbc12b1524abf2fb06bd64f85f3f",
-      "status": "retained"
-    },
     "/og/jobs/be71.png": {
       "sha256": "715fe62d37dab9b30bcf568e0066ce3f74e688783aaa11e1c40371c53f316ab7",
       "status": "retained"
     },
-    "/og/jobs/be8.png": {
-      "sha256": "0009ddf5d772e71804d03bab1b6e97873204de0b5bf5e890cc05f514f9da5de3",
+    "/og/jobs/be75.png": {
+      "sha256": "22fe5a5d5f833287c55cd5527d6cfa2311f9233a490f6625aef75c4572287988",
       "status": "retained"
     },
     "/og/jobs/be9.png": {
@@ -13669,20 +14473,12 @@
       "sha256": "8af5f2c67001336af21b30e8ca287d3f47bb5c9784a13bd6471e44a8ff4a6ee7",
       "status": "retained"
     },
-    "/og/jobs/cc6.png": {
-      "sha256": "3942392a85274ba5daeb9f8af1131657994eac89a025f58a369ba7ec4c29d2d2",
-      "status": "retained"
-    },
     "/og/jobs/cc7.png": {
       "sha256": "ea79b9fdc48a1d9896e7713c79a28cf481aa7cfd8c9cb7979d4bc8288fd31ed3",
       "status": "retained"
     },
-    "/og/jobs/cd.png": {
-      "sha256": "1efa687c3676d1cbcb7ecb8ef2935d976f618e0d5e30efd20d00882cdfad8922",
-      "status": "retained"
-    },
-    "/og/jobs/cd2.png": {
-      "sha256": "427618eeb9339a95dee8fc429653810d19a1dc817aa365c2879b7d522029fa89",
+    "/og/jobs/cc8.png": {
+      "sha256": "1fc2d9eae385469eb8f77790e0b7855be2ff9351df6ae50979e57089098368ca",
       "status": "retained"
     },
     "/og/jobs/cd3.png": {
@@ -13778,7 +14574,7 @@
       "status": "retained"
     },
     "/og/jobs/cmp111.png": {
-      "sha256": "f86ceeaf80d91984338c6760257780c26ef24a3109a5831a0a336e2303aaa647",
+      "sha256": "4650276fffa33fc6763d2447c70905b159239984eba8656359fff751deb55eee",
       "status": "retained"
     },
     "/og/jobs/cmp112.png": {
@@ -13794,7 +14590,11 @@
       "status": "retained"
     },
     "/og/jobs/cmp115.png": {
-      "sha256": "f45aabbdd416ae65505dba85697788d0ef33ba8696734fbc433c01f32d513e94",
+      "sha256": "bad3813a659f1062709bc9366bf8eacf9cb8f1c8e20e3151f41c423910da5f3b",
+      "status": "retained"
+    },
+    "/og/jobs/cmp116.png": {
+      "sha256": "047629a17e7de9c25351e8ca41a020a972f5fc0eb82ac19d25353b283132edf3",
       "status": "retained"
     },
     "/og/jobs/cmp12.png": {
@@ -13839,10 +14639,6 @@
     },
     "/og/jobs/cmp31.png": {
       "sha256": "7b4074583138c45540433dca65b7bf18fd5b1efc73f18e14174a84de65cb5b1e",
-      "status": "retained"
-    },
-    "/og/jobs/cmp32.png": {
-      "sha256": "cb82257eb9b5add8a25ddd06fefc79a8882a88e0727379c95c76b9816614c357",
       "status": "retained"
     },
     "/og/jobs/cmp33.png": {
@@ -13898,7 +14694,7 @@
       "status": "retained"
     },
     "/og/jobs/cmp49.png": {
-      "sha256": "f362fb4e278d9ddc89b69c97f92ad6e8f6392a1829b82385f03c984711c350ce",
+      "sha256": "2b71edb058e0e77357f64095a337a531653f1878984979c4764a56f865f70823",
       "status": "retained"
     },
     "/og/jobs/cmp51.png": {
@@ -13919,10 +14715,6 @@
     },
     "/og/jobs/cmp57.png": {
       "sha256": "af7d767fc0cc786a48ba71294714d889b89b5dbfc915f7247b0d48ccf3889e64",
-      "status": "retained"
-    },
-    "/og/jobs/cmp6.png": {
-      "sha256": "8a71490638a9442cc6b2a4e042ef436ac8f0e8774d886e2dd305fe256878bda9",
       "status": "retained"
     },
     "/og/jobs/cmp60.png": {
@@ -14077,8 +14869,8 @@
       "sha256": "4124e159b60a389e897c2e0c9d375b5c638242de280ccbc2549253b6ba75f512",
       "status": "retained"
     },
-    "/og/jobs/com.png": {
-      "sha256": "23c5861234dbaba57bb2e770fa2b41201cab621932ee96683c5628c2543696f5",
+    "/og/jobs/coc.png": {
+      "sha256": "e361a188dd9032ef5ecd316124878e62e2fd0bef7f89c99378c2e45b37bf4500",
       "status": "retained"
     },
     "/og/jobs/com2.png": {
@@ -14111,6 +14903,10 @@
     },
     "/og/jobs/cp4.png": {
       "sha256": "def80a076c6d19a3d555f469b8cb40d911e4070b6c5bdb71acb29b30befb2c1c",
+      "status": "retained"
+    },
+    "/og/jobs/cpve.png": {
+      "sha256": "1db183fd90bfb2b8925d76f4709378ef3ee701f4be366db679da0c86b10ed7fc",
       "status": "retained"
     },
     "/og/jobs/crfs.png": {
@@ -14177,10 +14973,6 @@
       "sha256": "9a9a6829cc763e34de9a6494beb7a341b63268c851b223e06c0a5dd95acf8029",
       "status": "retained"
     },
-    "/og/jobs/des.png": {
-      "sha256": "c7729c46aea23741dfc541fa977d32069ffd04e9e3733be0db1fe79b06a742d4",
-      "status": "retained"
-    },
     "/og/jobs/des2.png": {
       "sha256": "a57e6795d0d03ee3e1eeb785b70980438fd9840cbe32ffd8f58ce720567c5866",
       "status": "retained"
@@ -14221,16 +15013,12 @@
       "sha256": "51f816bfe93fb97ef8583c5ab6940176880833fc6733d6729f7900c5c79cfc2f",
       "status": "retained"
     },
-    "/og/jobs/dev3.png": {
-      "sha256": "9f0305d3f36e70f86496fb173d5ffc3334493f1acfe38e74ae38b8111b773e2f",
-      "status": "retained"
-    },
     "/og/jobs/dev30.png": {
       "sha256": "d9896b50f254f822f92c6c580ef740b1422d1da7c544e9591d6686fb2980a1e0",
       "status": "retained"
     },
-    "/og/jobs/dev4.png": {
-      "sha256": "45f7e09fe6b78fe0b2a36bd2df92e05ada7a1da096dc149abd3eb982bd8039df",
+    "/og/jobs/dev31.png": {
+      "sha256": "2300672407607e075242dd4271ce745ac569b755e4ec0ae745da657aaf41829e",
       "status": "retained"
     },
     "/og/jobs/dev5.png": {
@@ -14289,6 +15077,14 @@
       "sha256": "e3e84556dc22a89d89fa2d93dd6c7b7b8ef4ce399a016f32c3a1e44e1a098fb4",
       "status": "retained"
     },
+    "/og/jobs/do12.png": {
+      "sha256": "82de795a92ff195cd707c8efd4f8bbe30168c22a328e270b294e1088de97e8aa",
+      "status": "retained"
+    },
+    "/og/jobs/do13.png": {
+      "sha256": "dea2987b63c5d0c701dda0a0f52b73c9611df8bed658466b16c489ac66469da3",
+      "status": "retained"
+    },
     "/og/jobs/do7.png": {
       "sha256": "bc6b1818eba0231ba1ca7c10ee91d265a99d0ff66ebdaebe5349c192d667229e",
       "status": "retained"
@@ -14298,7 +15094,7 @@
       "status": "retained"
     },
     "/og/jobs/dpc.png": {
-      "sha256": "4f86deefd2106b4054aba2a77f6080be2a4bcdac5ffd2a67bc90aa469613915a",
+      "sha256": "440fa3fb9ae77ebf7c56e4c022d1077109bdb5b52cf7b641abfedff264b6e0d2",
       "status": "retained"
     },
     "/og/jobs/dpm.png": {
@@ -14327,10 +15123,6 @@
     },
     "/og/jobs/drb.png": {
       "sha256": "ffd32efc673d682c40fd7b6f245b47f0841a26b405e0cb7eab776c76d8265845",
-      "status": "retained"
-    },
-    "/og/jobs/drsp.png": {
-      "sha256": "70cb567ee1183be7ff2734b8b4fada9ad6f2da2cca1a2048c08901fba29ae984",
       "status": "retained"
     },
     "/og/jobs/ds13.png": {
@@ -14381,6 +15173,10 @@
       "sha256": "02c42bf40ddc50dfa8257f408afb31cf455704f82dcdc440ef638c29769dcbd0",
       "status": "retained"
     },
+    "/og/jobs/dsci2.png": {
+      "sha256": "02c42bf40ddc50dfa8257f408afb31cf455704f82dcdc440ef638c29769dcbd0",
+      "status": "retained"
+    },
     "/og/jobs/dsf.png": {
       "sha256": "f551159efe277c3b1b9fc4701015c777308ca8c883efec342e8f4d3ffcb99783",
       "status": "retained"
@@ -14414,7 +15210,7 @@
       "status": "retained"
     },
     "/og/jobs/ec2.png": {
-      "sha256": "41287059511db4577c7f312b7789bbe67749500a4dc1129ca727263a0951d949",
+      "sha256": "4f5c4033a9a7090a3c94154938d2d6430793a553dd1937bf000cad2472f068bb",
       "status": "retained"
     },
     "/og/jobs/eccf.png": {
@@ -14557,10 +15353,6 @@
       "sha256": "bd7bb3c10638e48ec6aa0cf7347fb4d7ed4b714937bbfec9f559ec6eedac5ec3",
       "status": "retained"
     },
-    "/og/jobs/eng20.png": {
-      "sha256": "3db81e05874e7b74fe997895644a21066936e5ea9ab50a2e2df2c56cbb6b2492",
-      "status": "retained"
-    },
     "/og/jobs/eng200.png": {
       "sha256": "a39f80883e5b28bcd12ee22ae653fce709751452d9b78cee4e013237567c1054",
       "status": "retained"
@@ -14587,10 +15379,6 @@
     },
     "/og/jobs/eng209.png": {
       "sha256": "716f2388468d8432f8f0f580ee6711472eb2985a59ee5ef0cfdf6a3aad2e05c7",
-      "status": "retained"
-    },
-    "/og/jobs/eng21.png": {
-      "sha256": "5bd48b543c4952696dff9d594498119d21f7eb2412ba7ad660078a725fd0f08a",
       "status": "retained"
     },
     "/og/jobs/eng211.png": {
@@ -14629,24 +15417,12 @@
       "sha256": "63e21ca0d7c4503ceaae62165f1decb846c0c5decbbee835df675bda751d25d6",
       "status": "retained"
     },
-    "/og/jobs/eng22.png": {
-      "sha256": "8a6257b0a21525885b73fc99dd3e7804c13c030bce1c19e7e6b26fa75139e873",
-      "status": "retained"
-    },
     "/og/jobs/eng220.png": {
       "sha256": "ee5cd491a32a381678bd2b3258fa9b38df904727318253af41726e44ef879c00",
       "status": "retained"
     },
-    "/og/jobs/eng26.png": {
-      "sha256": "ee46af4582b95a05c21f7e019655440e6fad145a92944bf5ae9cb0d7a926ad70",
-      "status": "retained"
-    },
     "/og/jobs/eng261.png": {
       "sha256": "f9f5533f9a782c1783f38809e9d96afd35d47d1c06d113340a87e86f420a2254",
-      "status": "retained"
-    },
-    "/og/jobs/eng27.png": {
-      "sha256": "fa649efbb6fe603287000c1cc100d1367b8bbd8bc857818a8f60d720879cbcc8",
       "status": "retained"
     },
     "/og/jobs/eng274.png": {
@@ -14886,7 +15662,7 @@
       "status": "retained"
     },
     "/og/jobs/eng36.png": {
-      "sha256": "8186409e7f95b2e0a06c15c852718807fefef86d0dd9dc716cf2f88acac1b35f",
+      "sha256": "fba9d3785cfa2e89ea5dec6bee79ccdb34052366e58d47ce391ba6b2679a0d19",
       "status": "retained"
     },
     "/og/jobs/eng360.png": {
@@ -14970,7 +15746,7 @@
       "status": "retained"
     },
     "/og/jobs/eng39.png": {
-      "sha256": "a582c4e98fa6e4c8332c45514e184f8d600bef5e85a642d3da54686533df5e94",
+      "sha256": "66adc9a53b45da9ed4120a9a9aa18782dc97e7cd8dad533da09944ff79c22805",
       "status": "retained"
     },
     "/og/jobs/eng393.png": {
@@ -15082,7 +15858,7 @@
       "status": "retained"
     },
     "/og/jobs/eng44.png": {
-      "sha256": "dab50023038d74027ee5f70c51405473f020266b6a8d42410c05291911ccd8aa",
+      "sha256": "c7ec92bfd2a9848717d4f8d46029b06d749631f6796d6fbbe7449b8f7f94b1bb",
       "status": "retained"
     },
     "/og/jobs/eng440.png": {
@@ -15098,7 +15874,7 @@
       "status": "retained"
     },
     "/og/jobs/eng446.png": {
-      "sha256": "67a19b80e724e7fda60d80938a827f2af0e3230c460433081476aefe5b8fd3a1",
+      "sha256": "22ffa72ccbc8730bd0d9277ec3b818ae9c2095fe80a2f80c0c924b29cf7cca82",
       "status": "retained"
     },
     "/og/jobs/eng45.png": {
@@ -15301,6 +16077,38 @@
       "sha256": "c9f47169b0782fa5616a2ae7cd5a2863005039bc4e17323e8418afdd0453f0d6",
       "status": "retained"
     },
+    "/og/jobs/eng583.png": {
+      "sha256": "7030bae5fe4e142402215a49d49b257206718f655a7ba6dc1f52a06ffdba1e7e",
+      "status": "retained"
+    },
+    "/og/jobs/eng584.png": {
+      "sha256": "4e4483dc29df96c8757517bc3bd1dfc444facdc4229b7fcd5f98cf2c8017343e",
+      "status": "retained"
+    },
+    "/og/jobs/eng585.png": {
+      "sha256": "a243f8b667ef9a62d1e7e22775bdf096cc471852e1c752a6823ccfa649cc0852",
+      "status": "retained"
+    },
+    "/og/jobs/eng586.png": {
+      "sha256": "d84f307ddd36b95ff8620c4f18fcbfb79d638abe906f0dd4c31b20f6d40e1f89",
+      "status": "retained"
+    },
+    "/og/jobs/eng587.png": {
+      "sha256": "4dc6286485968e38efea715e99bfaba64d9c0285b088162b0fc67778609e8d5a",
+      "status": "retained"
+    },
+    "/og/jobs/eng588.png": {
+      "sha256": "03b26261bd61cccf24e40cc04ec73a80fc2436a85f6dd23540e777e9a1fbcba1",
+      "status": "retained"
+    },
+    "/og/jobs/eng589.png": {
+      "sha256": "9c620f6601f17f3ead144f91699b301b2836fa0f2cd8e0fde388dcbd8546efb1",
+      "status": "retained"
+    },
+    "/og/jobs/eng590.png": {
+      "sha256": "95b6cef7624a5d4c254045ed1e3c9729be8b70076454f9042438de7b37c70013",
+      "status": "retained"
+    },
     "/og/jobs/eng67.png": {
       "sha256": "ecc5014787e824131ed911f3c447d4955385b196fe3031f9e4546efd56cf16c9",
       "status": "retained"
@@ -15358,7 +16166,7 @@
       "status": "retained"
     },
     "/og/jobs/eng91.png": {
-      "sha256": "e333e74f5699faa63b359013fecd4e2caf42ca818915386866ac3450565cf311",
+      "sha256": "5eb598e5f7c26b4d49d45744fa8d75d04152ec2421836cf9ee7e736d764064e5",
       "status": "retained"
     },
     "/og/jobs/eng93.png": {
@@ -15405,6 +16213,10 @@
       "sha256": "f5b9b325dabf1d41579d8329327f859b24921a79831fb03c2d1aa5537ee46565",
       "status": "retained"
     },
+    "/og/jobs/es2.png": {
+      "sha256": "710656c77db6ca0ee82a8bc76a3956140a3f5d25abba589b51be2314992fe532",
+      "status": "retained"
+    },
     "/og/jobs/ese.png": {
       "sha256": "e5f36f5b9f97c9ee3a94c144ece60986d9cd7869ed26486077cdf73e89d7e147",
       "status": "retained"
@@ -15423,10 +16235,6 @@
     },
     "/og/jobs/ewps.png": {
       "sha256": "9dd99e42e76d7b640166e0a5766e0f3b465458c6d55948b02846950660b145a1",
-      "status": "retained"
-    },
-    "/og/jobs/fbp.png": {
-      "sha256": "e2a454fbc605bc8f1be7926fb7fd4867f963fd86963d79eba7d41ae280faeafe",
       "status": "retained"
     },
     "/og/jobs/fc.png": {
@@ -15521,10 +16329,6 @@
       "sha256": "32783db48bd36369df113a4147a693a1b255f047f2e5289e67661dbdb30afd85",
       "status": "retained"
     },
-    "/og/jobs/frcm.png": {
-      "sha256": "0f1ef804c2889ad832392c30213155f882d2f04a71c19fbbf03c12f635247f49",
-      "status": "retained"
-    },
     "/og/jobs/fs11.png": {
       "sha256": "71b8eb5b15459f8f03790391ff52a3ec4f65f40de0886e4ffef36229143bdd94",
       "status": "retained"
@@ -15545,6 +16349,14 @@
       "sha256": "7043b83a3fe5ef04a5e390f819363bc3b31ac0bf53e8705395775b7f40a93914",
       "status": "retained"
     },
+    "/og/jobs/fs24.png": {
+      "sha256": "5f2f11215f2236427f168b118cd05dd8d0a3dae9883dcd44f07a9fae1a857ff4",
+      "status": "retained"
+    },
+    "/og/jobs/fs25.png": {
+      "sha256": "bd9e8bebb67f98fc3e00853e03f6222ed7534d9fc57cae3d7ffd9e29c08be14d",
+      "status": "retained"
+    },
     "/og/jobs/fs3.png": {
       "sha256": "a0ba3dd8b0bca25b68fda761c8f21602780e19a062f4ea6ee6ecf86a92e27ab5",
       "status": "retained"
@@ -15563,10 +16375,6 @@
     },
     "/og/jobs/gc2.png": {
       "sha256": "52e72003faa9b2681a94e40c8e04fb23face308cb0e4d1e00a4a7c069b85a182",
-      "status": "retained"
-    },
-    "/og/jobs/gp.png": {
-      "sha256": "da008b1a859dfe843abff33c17456a53ddd03aa48a9411581fe8d76beafb23f9",
       "status": "retained"
     },
     "/og/jobs/ia2.png": {
@@ -15611,10 +16419,6 @@
     },
     "/og/jobs/infra19.png": {
       "sha256": "514e00d6c047a1d3d3d7869ed92fccb895c0beb19228fb0391fa4ef13f1c29fa",
-      "status": "retained"
-    },
-    "/og/jobs/infra2.png": {
-      "sha256": "d2fed0721d1e10857c7061ffaa8cf44c0bf52c3a3fca7ec0a6d39b316a08eeef",
       "status": "retained"
     },
     "/og/jobs/infra20.png": {
@@ -15717,10 +16521,6 @@
       "sha256": "3866567f2bccef5dadc30ce02b6e83ab4275098a48e730c22fefb43b8244cfab",
       "status": "retained"
     },
-    "/og/jobs/int.png": {
-      "sha256": "63363fa63d65ece9e59c9d62ec56b47e49016da7b2b3b5cd8d2099f6b3e40202",
-      "status": "retained"
-    },
     "/og/jobs/int10.png": {
       "sha256": "2dd085ceafebec139a94105bbfe2c486f9e1db2311b6737fbe3b9a2b1ce1dc6d",
       "status": "retained"
@@ -15749,14 +16549,6 @@
       "sha256": "c2e89f67b99a1e6db4ae49d2950ca6603f3d5233b988ea73853442197dc56439",
       "status": "retained"
     },
-    "/og/jobs/int2.png": {
-      "sha256": "339a28e793aad948766b11e3d56a3f8d75eb38436885401660ddd1de8c81511d",
-      "status": "retained"
-    },
-    "/og/jobs/int3.png": {
-      "sha256": "b5865c2672eb687f3358e4143b075e123f60d209444943dea80153aada393a93",
-      "status": "retained"
-    },
     "/og/jobs/int31.png": {
       "sha256": "50165bc759e171f0ac79a0a2445d9f87d7e23c5fb26af860ec043adced795bb1",
       "status": "retained"
@@ -15777,10 +16569,6 @@
       "sha256": "360a90d1099d10c15eb714f0d8223b12726fd87ca705250ae508994e748fa109",
       "status": "retained"
     },
-    "/og/jobs/int4.png": {
-      "sha256": "589cfa29be1857ff4669dde345f0d93cc9e20859474a2c1659f9a43920a8ba4d",
-      "status": "retained"
-    },
     "/og/jobs/int40.png": {
       "sha256": "b5604ec3808386124cf33a8f53679438e7550ada2b7f8b875183f57add963e41",
       "status": "retained"
@@ -15793,20 +16581,8 @@
       "sha256": "63939353acfea3d331ce49968cf6d319f3819b9a2dc6589cd3e6147808b60455",
       "status": "retained"
     },
-    "/og/jobs/int5.png": {
-      "sha256": "b781020920b11ad88dadc68cdc4b6e87944480045e43e86c316804115460fccb",
-      "status": "retained"
-    },
-    "/og/jobs/int6.png": {
-      "sha256": "83d183ff245c831673f44417250b84dae2a555ee61b8c9aa2e901d72fcbcb0ed",
-      "status": "retained"
-    },
-    "/og/jobs/int7.png": {
-      "sha256": "b8d1d5919dec7a0f5be1e62c6022fec83bc3b6c9af002dd9c2335a502fdd9e61",
-      "status": "retained"
-    },
-    "/og/jobs/int8.png": {
-      "sha256": "5c6e7e3782c5c3acdbd6352bcf4dea9126202f7cc86511e46f022cc0c058853b",
+    "/og/jobs/int44.png": {
+      "sha256": "1fed642059d68ed9c1f483e564c78e9af0084c8aedec586721b47c0f03652197",
       "status": "retained"
     },
     "/og/jobs/int9.png": {
@@ -15817,8 +16593,12 @@
       "sha256": "64a39a3b0d84c795e71f72320b52a0716126d8801bc0e07306601244390eac10",
       "status": "retained"
     },
-    "/og/jobs/irlb.png": {
-      "sha256": "ee5a8456a2dcb5cad1645296a3b990c5c443a93c202d8566dd12a8701112c2b3",
+    "/og/jobs/is2.png": {
+      "sha256": "877669ef39e80c5f2c969c3cd7a9af0829b1beda3c5f1a4569d3b504ff309c4e",
+      "status": "retained"
+    },
+    "/og/jobs/it12.png": {
+      "sha256": "de230ea43f4105d6397be6ff606268e7d822eaa08b325e1684cd88d7d0f88a17",
       "status": "retained"
     },
     "/og/jobs/job38.png": {
@@ -15863,14 +16643,6 @@
     },
     "/og/jobs/manager20.png": {
       "sha256": "869cb1e5591e97bd062cba7b52bce852e506e6471cf96460b3c12e8c2cc7afb1",
-      "status": "retained"
-    },
-    "/og/jobs/manager330.png": {
-      "sha256": "032937631a862cd4e94c4dd4a3a42c98d0e67591cf7615a7abf1abd302d56c35",
-      "status": "retained"
-    },
-    "/og/jobs/manager331.png": {
-      "sha256": "d82be5b3bcccd4b8837173b873f387424b50461b11dcd2e922478843527317c4",
       "status": "retained"
     },
     "/og/jobs/manager483.png": {
@@ -16090,7 +16862,7 @@
       "status": "retained"
     },
     "/og/jobs/mgr156.png": {
-      "sha256": "9dbc7896280ce2ba4620cbab7f8492aeabb550a2757e8bfda7a49cf48db89585",
+      "sha256": "f9620e7c8d66137199cd701103c5f495e864dea6b996d7251bf26f4faf5aaeca",
       "status": "retained"
     },
     "/og/jobs/mgr157.png": {
@@ -16138,7 +16910,7 @@
       "status": "retained"
     },
     "/og/jobs/mgr172.png": {
-      "sha256": "b65667d5a8a7859b31490befbe4a9d4122c8c3b6b2c592bfd3159b6166c7bfb6",
+      "sha256": "610c8cbec58fc61ce904f60ad6adc3e58cbb2c932932068e3cefe80b88e364bc",
       "status": "retained"
     },
     "/og/jobs/mgr173.png": {
@@ -16167,6 +16939,18 @@
     },
     "/og/jobs/mgr181.png": {
       "sha256": "2b93809a77d804f655c011e4c88b5672f5061c154031c41bb53a7da7433eae1e",
+      "status": "retained"
+    },
+    "/og/jobs/mgr182.png": {
+      "sha256": "5c0bd7b5d1e35e317adbb02abe8585793862f56e540a05d5b2fab76fe1d43648",
+      "status": "retained"
+    },
+    "/og/jobs/mgr183.png": {
+      "sha256": "e4a19bcfec4ca6f4860c5d52f0b2bcb846a48c490861fd7cdce3b273e1b718a0",
+      "status": "retained"
+    },
+    "/og/jobs/mgr184.png": {
+      "sha256": "c486edd3e1878601f712c73365352542f89461d36e42dadd15a316fbc48c4846",
       "status": "retained"
     },
     "/og/jobs/mgr23.png": {
@@ -16218,7 +17002,7 @@
       "status": "retained"
     },
     "/og/jobs/mgr4.png": {
-      "sha256": "d01a8549a784d8da0d266d1af8b0240aaa67e1e7f641d2d9d4fc0610e0ca9451",
+      "sha256": "33af67fb75a9e6a91ae49036dd99e1ea8548c00372c73817ca1acd867157b3ee",
       "status": "retained"
     },
     "/og/jobs/mgr42.png": {
@@ -16239,10 +17023,6 @@
     },
     "/og/jobs/mgr49.png": {
       "sha256": "b4e5a7c0e85224e9233eb36329f93c590a148d551061477cf45c01a1183fd3c4",
-      "status": "retained"
-    },
-    "/og/jobs/mgr5.png": {
-      "sha256": "dcdccee1b2d6d23f5e8aed7b5571836775d9407a3244b49821eb3035d2036355",
       "status": "retained"
     },
     "/og/jobs/mgr52.png": {
@@ -16275,10 +17055,6 @@
     },
     "/og/jobs/mgr59.png": {
       "sha256": "960fc9f9f69da724be4432452c5b9c65b71b9eaa80b9053f7d6a7fc836b5a344",
-      "status": "retained"
-    },
-    "/og/jobs/mgr6.png": {
-      "sha256": "dcdccee1b2d6d23f5e8aed7b5571836775d9407a3244b49821eb3035d2036355",
       "status": "retained"
     },
     "/og/jobs/mgr60.png": {
@@ -16390,7 +17166,7 @@
       "status": "retained"
     },
     "/og/jobs/mgr93.png": {
-      "sha256": "d6ed9df8b24efe9be546979363c03f364a7618e721895028b5710b54a31ee5dc",
+      "sha256": "b65667d5a8a7859b31490befbe4a9d4122c8c3b6b2c592bfd3159b6166c7bfb6",
       "status": "retained"
     },
     "/og/jobs/mgr94.png": {
@@ -16426,7 +17202,11 @@
       "status": "retained"
     },
     "/og/jobs/mkt105.png": {
-      "sha256": "f143ce907ae53d10e89d0aa04d317403f7a564e7c46245a1e141a2cdfc5160d3",
+      "sha256": "7b43fb82706f4272b83967ae2d048191dfe187692260bb5390ff981373ddaf08",
+      "status": "retained"
+    },
+    "/og/jobs/mkt106.png": {
+      "sha256": "5b71548c22a0debd803d93546d786f622352f851096236f36cbd47f9f06eb965",
       "status": "retained"
     },
     "/og/jobs/mkt11.png": {
@@ -16477,14 +17257,6 @@
       "sha256": "19ab33541b1ee089ecba915d92fc06b9b39113bc06da42a7811354e6ba1fbe4d",
       "status": "retained"
     },
-    "/og/jobs/mkt3.png": {
-      "sha256": "37dc7f003909b985b46e6e5643e64929427ac2ba93e05c29c555ec3ea99111ef",
-      "status": "retained"
-    },
-    "/og/jobs/mkt30.png": {
-      "sha256": "451783d7d4d2a12541bef82b537f4615ae54691df347ed114773d9d7d355c158",
-      "status": "retained"
-    },
     "/og/jobs/mkt35.png": {
       "sha256": "bb3a721e520ea30de7ff36ed61a8f189cd3df45b7f01386581ef72b4eb898b92",
       "status": "retained"
@@ -16494,7 +17266,7 @@
       "status": "retained"
     },
     "/og/jobs/mkt4.png": {
-      "sha256": "f3dfc73ad6267e3b528ec56a4a40f61328a7b6437bdce1e974892bb0a15aa1d9",
+      "sha256": "451783d7d4d2a12541bef82b537f4615ae54691df347ed114773d9d7d355c158",
       "status": "retained"
     },
     "/og/jobs/mkt41.png": {
@@ -16514,7 +17286,7 @@
       "status": "retained"
     },
     "/og/jobs/mkt5.png": {
-      "sha256": "5d43b3e4fff0fb91eaf0fea13d435cbd8af0fa78a5ad7a240b857e4458ac86d1",
+      "sha256": "229aed019b8c0fc55782b8cb3ed7c5697f948ae1dc709935ac49540f447b4d04",
       "status": "retained"
     },
     "/og/jobs/mkt50.png": {
@@ -16578,7 +17350,7 @@
       "status": "retained"
     },
     "/og/jobs/mkt65.png": {
-      "sha256": "a17aca406cbe518ad07d0cad4c433190d9f9f1913a9aa88156b1e17dc0110a60",
+      "sha256": "01183d0153f97b5deb00e7f1ce32460c1e5a5a3e974cc5d0ee23c77096860079",
       "status": "retained"
     },
     "/og/jobs/mkt66.png": {
@@ -16697,16 +17469,16 @@
       "sha256": "a32db81e4605941e66be9143204fdd05b382394ceb06b6db5a5c94f61cb588e5",
       "status": "retained"
     },
-    "/og/jobs/mlro.png": {
-      "sha256": "b843e31ae30efb2bc80bded9ce794cbf855bad0b10a6f7716caf57163b861c3a",
-      "status": "retained"
-    },
     "/og/jobs/mlro2.png": {
       "sha256": "9d803b1472deec446ce07adb76506114c1a9dd385cdeb14e07350ed344bd9106",
       "status": "retained"
     },
     "/og/jobs/mmbg.png": {
       "sha256": "5fa4a42e599af2d03a13b5a0489860484e961853e476546e24a534e41e89154e",
+      "status": "retained"
+    },
+    "/og/jobs/mpe.png": {
+      "sha256": "dd5055c379fd7a948dd236fd3241c4f1774272f338efd7c1d1aba554d2cf4dff",
       "status": "retained"
     },
     "/og/jobs/mpr.png": {
@@ -16726,7 +17498,7 @@
       "status": "retained"
     },
     "/og/jobs/mssp.png": {
-      "sha256": "91166316c844bbb3715ed8f8d8d6f276016cd81d48637d085e94683c484fc25d",
+      "sha256": "48a132d5bb484d7baaec0bea49be04744c54f2d8666ac760eee9ff58c7555db4",
       "status": "retained"
     },
     "/og/jobs/mta.png": {
@@ -16773,10 +17545,6 @@
       "sha256": "80c9e98751fe59d5fb52e9d57b0f64b7d9800a9ed411df786a7cd46822f519c5",
       "status": "retained"
     },
-    "/og/jobs/ocer4.png": {
-      "sha256": "3c32eb330bcfae5b02529098d5f2fac2656ec4fa86f2f6174cdeb9c45886740d",
-      "status": "retained"
-    },
     "/og/jobs/ocer5.png": {
       "sha256": "58524c5438888e190e9c7ec397aa51015ebeb6f2d0921a7a98cdfb99cba1ccc8",
       "status": "retained"
@@ -16793,16 +17561,8 @@
       "sha256": "13a1a8c675e3eed9fcd3c049ab32d8d0857e058c7ddd1516177e0577aeb13cc6",
       "status": "retained"
     },
-    "/og/jobs/ols.png": {
-      "sha256": "519ca15361c14c2d1bf02b9938b5796ca89cd56952bb67f3313a6d82f06238ef",
-      "status": "retained"
-    },
     "/og/jobs/operations137.png": {
       "sha256": "6092409d513d37d22ed7fa6af041ab00180a1ca1a215ff47742f8957c8c87a6c",
-      "status": "retained"
-    },
-    "/og/jobs/ops10.png": {
-      "sha256": "b1355d77f14212c254195ef514dbc0a534eff8416553b2b72a20a0c442656178",
       "status": "retained"
     },
     "/og/jobs/ops100.png": {
@@ -16898,7 +17658,7 @@
       "status": "retained"
     },
     "/og/jobs/ops4.png": {
-      "sha256": "e39b3627a9bbf55d733bf074f46a0f9f77be585cf093dba8183caeeee9fa8adc",
+      "sha256": "09ca1f293ccb00275e6cb3d5020662b0c0c526c1b6815ec769b5b25395558fe7",
       "status": "retained"
     },
     "/og/jobs/ops40.png": {
@@ -16922,7 +17682,7 @@
       "status": "retained"
     },
     "/og/jobs/ops5.png": {
-      "sha256": "6dc89aa3d5a0040e1d6a502f1e00a7c7d05ca9d0d6bb3bb8d7c5b5f476b5a368",
+      "sha256": "5658c81ec8e8a78a88edfcfc919d89a53c9950910aa55ae5aaa5e2cda9b5178e",
       "status": "retained"
     },
     "/og/jobs/ops51.png": {
@@ -16957,10 +17717,6 @@
       "sha256": "4c6f56be885cc880709ee34823d2816454742337132d5d2ab23eb24c4c0acde1",
       "status": "retained"
     },
-    "/og/jobs/ops6.png": {
-      "sha256": "5d6eae18f17b091a08ef77e6784b9769090c62e692ff1abbaeb12990b6f2b27d",
-      "status": "retained"
-    },
     "/og/jobs/ops60.png": {
       "sha256": "b0c635a880c688cbe214a8d0fc8d656d9e3814c4f29c1a20fda7c0fe26f2aaf3",
       "status": "retained"
@@ -16989,10 +17745,6 @@
       "sha256": "889b60f45211018a92fd15db25f066c136f01f36361a84bf343e237020e2a4e6",
       "status": "retained"
     },
-    "/og/jobs/ops7.png": {
-      "sha256": "68dc74a76c8406f473f313e74f9bd15b730f8a9ec9221437f5ebd3c64b0daa42",
-      "status": "retained"
-    },
     "/og/jobs/ops70.png": {
       "sha256": "bfd344b7c778a82c4290a564491b539fb59d0e61332fb1c50824abd64b158cc6",
       "status": "retained"
@@ -17019,10 +17771,6 @@
     },
     "/og/jobs/ops79.png": {
       "sha256": "b408e8f57e40d01500a42c8014b053ed8f42ae2550a073db8748c0ebcf429e8b",
-      "status": "retained"
-    },
-    "/og/jobs/ops8.png": {
-      "sha256": "89699269644caa7f67281a7e968a14fad99af3ae26eb77b0c44ff64fcc1b06f8",
       "status": "retained"
     },
     "/og/jobs/ops80.png": {
@@ -17055,14 +17803,6 @@
     },
     "/og/jobs/ops89.png": {
       "sha256": "e287a95ace37fd252bf3c00669d0c505fb5046d98f4b42367fa535eddd6143cf",
-      "status": "retained"
-    },
-    "/og/jobs/ops9.png": {
-      "sha256": "82f114c5426d7adc10ed00166f36c7f404048a1fa4ea24082fcb1e7d3aa5b0f3",
-      "status": "retained"
-    },
-    "/og/jobs/ops90.png": {
-      "sha256": "1040e5a1accd5dd43b42a814d547d05e6c1b0c5e273d7de0cd176f392eec9a55",
       "status": "retained"
     },
     "/og/jobs/ops91.png": {
@@ -17107,6 +17847,14 @@
     },
     "/og/jobs/pbp.png": {
       "sha256": "9323fc1876d2a3bada4358d26d4eff7e601c61f8a9b7b5ab48937bbf7b77c12c",
+      "status": "retained"
+    },
+    "/og/jobs/pbpt.png": {
+      "sha256": "8aa6507c425c136784faae3259116670e764b648699430002e2dd72dc35823a2",
+      "status": "retained"
+    },
+    "/og/jobs/pc.png": {
+      "sha256": "1a9c7ebd50c15b0677936b82d7c3e4732d7b7412d4d8000d9b8a9846b0aae25a",
       "status": "retained"
     },
     "/og/jobs/pdc.png": {
@@ -17162,7 +17910,7 @@
       "status": "retained"
     },
     "/og/jobs/pm110.png": {
-      "sha256": "d237a1e78de329bd9220785dbd3d89265310ddeb3ff8a9cee64b989e922bce3a",
+      "sha256": "744150e4c66dcd4e793e931ed868eca0bcb80f397ef4be402f3ef46d6efe82bf",
       "status": "retained"
     },
     "/og/jobs/pm111.png": {
@@ -17810,19 +18558,43 @@
       "status": "retained"
     },
     "/og/jobs/pm292.png": {
-      "sha256": "27eda8a7f05f3b1ebb8751ccacbc9b6465515c7eb1be440709dc8d937640dabc",
+      "sha256": "c38e54f8366ddc66bc44c0ebe2ade47f48855ed57345cec8b8dec4e6121418b0",
       "status": "retained"
     },
     "/og/jobs/pm293.png": {
-      "sha256": "27eda8a7f05f3b1ebb8751ccacbc9b6465515c7eb1be440709dc8d937640dabc",
+      "sha256": "c38e54f8366ddc66bc44c0ebe2ade47f48855ed57345cec8b8dec4e6121418b0",
       "status": "retained"
     },
     "/og/jobs/pm294.png": {
       "sha256": "6005566fbb2a649f8badf3a4ab6d138b46017b75c9377b6f2023d259a5286330",
       "status": "retained"
     },
+    "/og/jobs/pm295.png": {
+      "sha256": "c46a47875a0d4625b2a313f85f4cd28f1dd8eaac110a2241d9caace01b13e3c6",
+      "status": "retained"
+    },
+    "/og/jobs/pm296.png": {
+      "sha256": "babcdd55c0e4e3fca6c83c3703aaf4a3d50beb643f4457566e33f9bb4495e3eb",
+      "status": "retained"
+    },
+    "/og/jobs/pm297.png": {
+      "sha256": "db893cfe34914fa286a7af6a13151c0e6b50ae8100fea14b2d342a9a2a3e5df3",
+      "status": "retained"
+    },
+    "/og/jobs/pm298.png": {
+      "sha256": "d1f16f92141616d9b836cee6bc49fc9c391e6bc02ce818843f9f57958987b138",
+      "status": "retained"
+    },
+    "/og/jobs/pm299.png": {
+      "sha256": "8c2bb5331c0ba782ca3489881ab5c45333ba4b70c9bd8da6c18bcb6fd94d71d7",
+      "status": "retained"
+    },
     "/og/jobs/pm30.png": {
       "sha256": "a9fb43ab12a6a53b29c09a68dbefed8959dacc9d17b657168bbcadad7dec6d8f",
+      "status": "retained"
+    },
+    "/og/jobs/pm300.png": {
+      "sha256": "0d550155a78d87c0c174f7128c95dd29bd3540e19c696e0e5ed6df5314facead",
       "status": "retained"
     },
     "/og/jobs/pm31.png": {
@@ -17901,10 +18673,6 @@
       "sha256": "bb18bf478812f35f3778bfb8c872f43b60e75cf78d6e7f7ee45781325af1184c",
       "status": "retained"
     },
-    "/og/jobs/pm7.png": {
-      "sha256": "e96d9d9170642d87b3b19ec99b838a590d324be03065f2d2de8e037d2f091af2",
-      "status": "retained"
-    },
     "/og/jobs/pm77.png": {
       "sha256": "e4dda33f638371d22ac880f4630b86b7be35df8d8d32c212f280284b9cd16e81",
       "status": "retained"
@@ -17915,10 +18683,6 @@
     },
     "/og/jobs/pm79.png": {
       "sha256": "e61b0e4616c4d4e439b0f2fbf0ea96658a265e39248d239a8f3aa1016dc0daf2",
-      "status": "retained"
-    },
-    "/og/jobs/pm8.png": {
-      "sha256": "df859f07439f183c805432e971c7fbac68d73093d7d8a7a75525e5d28a894961",
       "status": "retained"
     },
     "/og/jobs/pm80.png": {
@@ -17999,6 +18763,10 @@
     },
     "/og/jobs/pp2.png": {
       "sha256": "c1f057780ae542a56065e084131b5536ff52afae6a115903121140c9dccdcd04",
+      "status": "retained"
+    },
+    "/og/jobs/ppg2.png": {
+      "sha256": "5d4be42af15d1f2a45d8f76ac76e2db3b4273a1d2518776f7891c59bb1fa0398",
       "status": "retained"
     },
     "/og/jobs/ppgr.png": {
@@ -18093,7 +18861,7 @@
       "sha256": "78d0765b9fb604da7bb5b33dbb2623bcb937e89e32e35510c41eeb53c74525b0",
       "status": "retained"
     },
-    "/og/jobs/qa85.png": {
+    "/og/jobs/qa86.png": {
       "sha256": "c6af2c205cdaca6f1fa4e02668b1ccbd6d22ec5a550421556af5ddfe6d461963",
       "status": "retained"
     },
@@ -18201,6 +18969,10 @@
       "sha256": "abd168dff6e02ee3224eb7d12d330764af06367baf32b5022cd1ba05a31cd7f3",
       "status": "retained"
     },
+    "/og/jobs/rec38.png": {
+      "sha256": "733ebf713a97facfb25dd86ed1d0f1314413c96097b72626c0dee27d2b36e949",
+      "status": "retained"
+    },
     "/og/jobs/rec4.png": {
       "sha256": "1233e597bccaedb9b5cba85d6ead6ea76b5da7fc9dc51b0096a5b4d513512e8c",
       "status": "retained"
@@ -18223,6 +18995,10 @@
     },
     "/og/jobs/rs12.png": {
       "sha256": "ed2197136986a069cb3e32fe487a47173150180bc98104c6a6705126e1dce5c6",
+      "status": "retained"
+    },
+    "/og/jobs/rs13.png": {
+      "sha256": "eaacf08ddb4f936a23e7f42f65d6b66b6118ca2d7442b9d055221e326313baed",
       "status": "retained"
     },
     "/og/jobs/rs2.png": {
@@ -18257,16 +19033,20 @@
       "sha256": "fe2c4b16006bdf40f03014ccae582ad296d83cde134fdf250b49173c4f2f1af9",
       "status": "retained"
     },
+    "/og/jobs/s2fs.png": {
+      "sha256": "674e69301e94e20dbf4140cacdc45c55744d9b87e09ba2ca38c0cc97c9a46482",
+      "status": "retained"
+    },
+    "/og/jobs/sabp2.png": {
+      "sha256": "5c427924b2ee992fd41066abca18849beb335c76759fb2384632ad03e0564881",
+      "status": "retained"
+    },
     "/og/jobs/sagd.png": {
       "sha256": "777c4999b3fdadaa956b30dd2c651fb460e63048347ab7b4b5242f8238299c09",
       "status": "retained"
     },
     "/og/jobs/sales217.png": {
       "sha256": "888839e7b2a96139090869e9b7996be7fa5648c506a7f064c43a699a34d77b14",
-      "status": "retained"
-    },
-    "/og/jobs/sales425.png": {
-      "sha256": "893acd9d15d31ad68189924b67b20c0f285c9104d525ee75fa6a5df8f6172281",
       "status": "retained"
     },
     "/og/jobs/sbcs.png": {
@@ -18294,7 +19074,7 @@
       "status": "retained"
     },
     "/og/jobs/sec107.png": {
-      "sha256": "e0e8d58a62e24b439cf349c53ef1834d0da62aceb5e3798e8b22e481ee932f9d",
+      "sha256": "b1bd09d57ed85a495d750f24cd88e6df8785f1dcd6a0ad1f6103e257d8bb42f3",
       "status": "retained"
     },
     "/og/jobs/sec108.png": {
@@ -18470,7 +19250,7 @@
       "status": "retained"
     },
     "/og/jobs/sec7.png": {
-      "sha256": "8e261ffebec83baa9491cd44c7bead35bcef9d3055daa1c413072e49801f33ba",
+      "sha256": "e0e8d58a62e24b439cf349c53ef1834d0da62aceb5e3798e8b22e481ee932f9d",
       "status": "retained"
     },
     "/og/jobs/sec70.png": {
@@ -18589,10 +19369,6 @@
       "sha256": "2dc9451e06ca097a108e33dfa7d8690fce9d9eefecc56c6e5ffe5de947a582be",
       "status": "retained"
     },
-    "/og/jobs/security263.png": {
-      "sha256": "54ed61bcd40549a6c9f6b6d2da33ec62b7f7cf877f042f9233a349937e280a66",
-      "status": "retained"
-    },
     "/og/jobs/ses.png": {
       "sha256": "904a376663e85cb2a9cb28de2f429a840357e4ccc676e785e746eeae9af527d8",
       "status": "retained"
@@ -18614,7 +19390,7 @@
       "status": "retained"
     },
     "/og/jobs/sls10.png": {
-      "sha256": "e24e3394529fd4849ff096fb60e05da928bb8b201ec69b936a033bdf038cbfd4",
+      "sha256": "808cdd6bd9afabedd8e97eac88910f5baf911bddf9ec0a14b5fb3ed5b09802ec",
       "status": "retained"
     },
     "/og/jobs/sls104.png": {
@@ -18631,10 +19407,6 @@
     },
     "/og/jobs/sls109.png": {
       "sha256": "9565da8c0261ed8c7070faf6ca29e788d5eedc2ee9a676ad52f287aa0dc901f1",
-      "status": "retained"
-    },
-    "/og/jobs/sls11.png": {
-      "sha256": "54bbd491df7df97741c6c42e39a5f15d2b72da2483db593fcaea9804a39c56c1",
       "status": "retained"
     },
     "/og/jobs/sls110.png": {
@@ -19106,7 +19878,7 @@
       "status": "retained"
     },
     "/og/jobs/sls263.png": {
-      "sha256": "6c806b06f20f3dad86ac9cc132bc852aca634757e64ca562648f76bb4cbcb424",
+      "sha256": "7859835f53c30bc6861dd173edde546bff57c3f69ba8576c1770349051de1693",
       "status": "retained"
     },
     "/og/jobs/sls264.png": {
@@ -19179,6 +19951,38 @@
     },
     "/og/jobs/sls288.png": {
       "sha256": "ff54331eb82b24042a8548f4fc8b7d3106a1229940b8624ca910b5ede3bb95da",
+      "status": "retained"
+    },
+    "/og/jobs/sls289.png": {
+      "sha256": "9b8e2492b1d13b497246ae4a5757038596ba3f7157c703fc54766e9f6f0656e4",
+      "status": "retained"
+    },
+    "/og/jobs/sls290.png": {
+      "sha256": "c9fb9d2cc1bf54e08c15a30a7bcf7b06150551317eea7668917d15c1125d8ff2",
+      "status": "retained"
+    },
+    "/og/jobs/sls291.png": {
+      "sha256": "22baea1e962d2033ddbc69baa4f2637bba9b17db3bbf0a788c367d56e59cc110",
+      "status": "retained"
+    },
+    "/og/jobs/sls292.png": {
+      "sha256": "40c3e4f68a44f08a2111d77e8ab84855bd585bd19772533fe899d27073b0313f",
+      "status": "retained"
+    },
+    "/og/jobs/sls293.png": {
+      "sha256": "1cc31098722ba23028046980d885cc374be27ce41388249dd35552a2d7d77855",
+      "status": "retained"
+    },
+    "/og/jobs/sls294.png": {
+      "sha256": "13adace4087fd1fedd8208c60d707454febdc0a3c6026bfb0d287faed9134c54",
+      "status": "retained"
+    },
+    "/og/jobs/sls295.png": {
+      "sha256": "704f66c832e1ce9141554c52bd47b5655bdf515ee739e9aebea23f1dd6a0fd3c",
+      "status": "retained"
+    },
+    "/og/jobs/sls296.png": {
+      "sha256": "53ff86aba4dad253dee3f57b8dbe0f50c5dad800d12a85573c822c17d479dfff",
       "status": "retained"
     },
     "/og/jobs/sls31.png": {
@@ -19301,10 +20105,6 @@
       "sha256": "e40661658d472d26421f02d7f1fc1f63d61f421174b0bacdfb75c18ee140bced",
       "status": "retained"
     },
-    "/og/jobs/sls7.png": {
-      "sha256": "adab0d75bba25d0623db35ef3126566b34c766c97cd635f5760596d5cdedaa4a",
-      "status": "retained"
-    },
     "/og/jobs/sls70.png": {
       "sha256": "7842a0d19d46d28309806154826654cd395480bb705c8585b07e3f512143a2dc",
       "status": "retained"
@@ -19314,11 +20114,7 @@
       "status": "retained"
     },
     "/og/jobs/sls73.png": {
-      "sha256": "9b8e2492b1d13b497246ae4a5757038596ba3f7157c703fc54766e9f6f0656e4",
-      "status": "retained"
-    },
-    "/og/jobs/sls8.png": {
-      "sha256": "fda3185356478ce80d35d1fde70a71ecae762a245e0320fcb933a9ce09e16254",
+      "sha256": "6c806b06f20f3dad86ac9cc132bc852aca634757e64ca562648f76bb4cbcb424",
       "status": "retained"
     },
     "/og/jobs/sls83.png": {
@@ -19347,10 +20143,6 @@
     },
     "/og/jobs/sls89.png": {
       "sha256": "01f9eea958531c58c6347058f5ca7c3613b83c2ebf0da9e07ae097373828ee25",
-      "status": "retained"
-    },
-    "/og/jobs/sls9.png": {
-      "sha256": "4b783b5e143b5273162f2072f184f7b16ff2cbf4d6b92df9e0eee87b05d583e6",
       "status": "retained"
     },
     "/og/jobs/sls90.png": {
@@ -19513,10 +20305,6 @@
       "sha256": "8993ffe763c0efb8409c39181b18aba818d8f3d543b64396ee63d6044a832ae1",
       "status": "retained"
     },
-    "/og/jobs/tr3.png": {
-      "sha256": "0d609dfd90aedd404949e5c1bc2414b5f4bb75da848f2ec13374888c05023b71",
-      "status": "retained"
-    },
     "/og/jobs/tr32.png": {
       "sha256": "22a66ebf4fa25ecc807a5017636de7b4b7dd42150bc8c20008335b409e7b2e06",
       "status": "retained"
@@ -19550,7 +20338,7 @@
       "status": "retained"
     },
     "/og/jobs/tr65.png": {
-      "sha256": "4e28f3bcc645e155f9562b958c2f418199e9d153c1675207f021755bde144a44",
+      "sha256": "0f0d194e1e71fa5d6264fde17c60b35b22266798895f8e62057958ca7af9682e",
       "status": "retained"
     },
     "/og/jobs/tr66.png": {
@@ -19558,11 +20346,7 @@
       "status": "retained"
     },
     "/og/jobs/tr68.png": {
-      "sha256": "f50983a72e4cdc27e2d5e2c9a0ef0f44244e639ae66ee37b71454b060c8d6233",
-      "status": "retained"
-    },
-    "/og/jobs/tr69.png": {
-      "sha256": "4d387a5e009da756064728660e9106e85148a866fbfa3400e385c25ab4d7492f",
+      "sha256": "21c8c387aeb2c59ebb785ba77383e9dc9aeb812dc88520d4a27005641799800f",
       "status": "retained"
     },
     "/og/jobs/tr7.png": {
@@ -19655,10 +20439,6 @@
     },
     "/og/jobs/urs.png": {
       "sha256": "d075ef4ae73f81746c572ddc618d84ddedd9dbc99ab3bf3bc459f4fd6b0e73ef",
-      "status": "retained"
-    },
-    "/og/jobs/vip.png": {
-      "sha256": "38cff99ecd063d0ea80025ab66aff07776c7a837e3e73d8850a4f6a4cd7f30f0",
       "status": "retained"
     },
     "/og/jobs/vpbp.png": {

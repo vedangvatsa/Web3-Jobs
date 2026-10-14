@@ -1,0 +1,777 @@
+{
+  "checkedAt": "2026-10-14T11:16:32.095Z",
+  "dryRun": true,
+  "before": 1708,
+  "after": 1708,
+  "added": [],
+  "removed": [],
+  "failures": 0,
+  "reports": [
+    {
+      "company": "21bitcoin",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://21bitcoin.app",
+        "finalUrl": "https://21bitcoin.app",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:24.425Z",
+        "bodySha256": "8dec187cd7c35bc337ec12dfbfb541a7b275e90b1515024164162deb46d3c161"
+      },
+      "board": {
+        "url": "https://21bitcoin.app/karriere",
+        "finalUrl": "https://21bitcoin.app/karriere",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:25.149Z",
+        "bodySha256": "7f6897bc904a44cecbdd15c0254c6aa9d965750bdad7fadfffd813a3bc993bc2"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Aquanow",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://aquanow.io",
+        "finalUrl": "https://www.aquanow.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:25.503Z",
+        "bodySha256": "7bef4c2deca1d51d4a004ac8189cf9aeab708646d148bef6bce448dd9a61594f"
+      },
+      "board": {
+        "url": "https://www.aquanow.com/careers",
+        "finalUrl": "https://www.aquanow.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:25.949Z",
+        "bodySha256": "efa3f5c81f63bd1f62c6679b9f62bb85fb20d7190ed57b21a5297de08e95cddb"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "BISON",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bisonapp.com",
+        "finalUrl": "https://bisonapp.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:26.527Z",
+        "bodySha256": "87690a665cfac57049a6c062d86cd4364c1b1cb03fe049a4bc5809f9d60c6855"
+      },
+      "board": {
+        "url": "https://bisonapp.com/karriere/",
+        "finalUrl": "https://bisonapp.com/karriere/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:27.180Z",
+        "bodySha256": "c3794f026ccb140ec5d7529458aee3bcb5556e64e37a7df1fc37d08a00276e13"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "bitbank",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+        "finalUrl": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:27.856Z",
+        "bodySha256": "c8cd310b33240b3cae44633b0619ce7db1d00633fde19087871dc4c76d0aa4fc"
+      },
+      "board": {
+        "url": "https://hrmos.co/pages/bitbank/jobs",
+        "finalUrl": "https://hrmos.co/pages/bitbank/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:29.116Z",
+        "bodySha256": "dd729bd78259ee98ce764cf3904cd47b7578288c487ca34af878221e549af53f"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Bitcoin Suisse",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bitcoinsuisse.com",
+        "finalUrl": "https://bitcoinsuisse.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:31.294Z",
+        "bodySha256": "8bcc328e8cf683aa5c4d0cf3f3829663e013f098c77b5a79c523b70c72f2de52"
+      },
+      "board": {
+        "url": "https://bitcoinsuisse.com/careers",
+        "finalUrl": "https://bitcoinsuisse.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:34.302Z",
+        "bodySha256": "22907a2650ad30074af3b6060b3cdfdbdf93b51e5abbda228447c72039b7614d"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Bitmama",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bitmama.io",
+        "finalUrl": "https://bitmama.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:34.479Z",
+        "bodySha256": "c3953c61e6a2ec654d62311c279df1145597434524317a8b903e3dbcfafed688"
+      },
+      "board": {
+        "url": "https://bitmama.io/career/",
+        "finalUrl": "https://bitmama.io/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:34.869Z",
+        "bodySha256": "faef01f5f88440d30f28869cca125aec2399d1e8ef9ece7e4c99995d0462b15b"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Bitnovo",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://bitnovo.com",
+        "finalUrl": "https://www.bitnovo.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:40.259Z",
+        "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8"
+      },
+      "board": {
+        "url": "https://www.bitnovo.com/careers",
+        "finalUrl": "https://www.bitnovo.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:41.198Z",
+        "bodySha256": "830d5919c5304a03e608b2222aae76e6445f5f4ce5b935a65d36c01b84e8e2ea"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Cashlink",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://cashlink.de",
+        "finalUrl": "https://cashlink.de/de/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:44.173Z",
+        "bodySha256": "7da243295325e75c60371542ec16aeb5e18be3a368ce4ae74ac927c98fdd1977"
+      },
+      "board": {
+        "url": "https://cashlink.de/de/jobs/",
+        "finalUrl": "https://cashlink.de/de/jobs/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:44.896Z",
+        "bodySha256": "b555cd8814df4742f3b12d50a130abc3c5767d06e7fb42841a3e8e3dc85245a6"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Change",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://changeinvest.com",
+        "finalUrl": "https://www.changeinvest.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:45.423Z",
+        "bodySha256": "072b13e8e1e1f4b691e2a246f4cecf0e8be746fc656ce53b6c56119d7d841b8b"
+      },
+      "board": {
+        "url": "https://careers.changeinvest.com",
+        "finalUrl": "https://careers.changeinvest.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:45.510Z",
+        "bodySha256": "a2dff124e7e1807201700eeee8a1ed3f8e27c107276ce513df5866ac104aa0b6"
+      },
+      "fetched": 5,
+      "roles": [
+        {
+          "title": "Compliance Specialist (MiFID / Crypto)",
+          "link": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
+          "date": "2026-09-02T15:59:28+03:00",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
+            "finalUrl": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
+            "status": 200,
+            "checkedAt": "2026-10-14T11:15:46.591Z",
+            "bodySha256": "489c32fd1ab705702b6ede6cdd9465819a085e93607364c9f2c9de3702f2004a"
+          }
+        },
+        {
+          "title": "Mobile QA Engineer",
+          "link": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
+          "date": "2026-07-15T12:46:05+03:00",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
+            "finalUrl": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
+            "status": 200,
+            "checkedAt": "2026-10-14T11:15:46.950Z",
+            "bodySha256": "856e2947c9ce3c58802b16f30f07cb4b865a2fd6b7b1ee335cccc96a5c5b4485"
+          }
+        },
+        {
+          "title": "Mobile QA Engineer",
+          "link": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
+          "date": "2026-07-15T10:51:28+03:00",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
+            "finalUrl": "https://careers.changeinvest.com/jobs/8069744-mobile-qa-engineer",
+            "status": 200,
+            "checkedAt": "2026-10-14T11:15:47.310Z",
+            "bodySha256": "c4274a367371696c66d4d0dd867902bd3754b5f3a49dc4617e7cd179fc42aef6"
+          }
+        },
+        {
+          "title": "Senior Engineer",
+          "link": "https://careers.changeinvest.com/jobs/7732147-senior-engineer",
+          "date": "2026-05-13T15:16:20+03:00",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/7732147-senior-engineer",
+            "finalUrl": "https://careers.changeinvest.com/jobs/7732147-senior-engineer",
+            "status": 200,
+            "checkedAt": "2026-10-14T11:15:47.671Z",
+            "bodySha256": "0a2a464788f2689114ea9bbd5dccaad4665f037cbd7de932f3fc0c477995e5a9"
+          }
+        },
+        {
+          "title": "Senior Engineer",
+          "link": "https://careers.changeinvest.com/jobs/7707552-senior-engineer",
+          "date": "2026-05-08T16:06:01+03:00",
+          "outcome": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/7707552-senior-engineer",
+            "finalUrl": "https://careers.changeinvest.com/jobs/7707552-senior-engineer",
+            "status": 200,
+            "checkedAt": "2026-10-14T11:15:48.033Z",
+            "bodySha256": "23934459cfe815cd32a4f5a00aa5e5a3b61ecbe54421a2369c9652990acb1d08"
+          }
+        }
+      ]
+    },
+    {
+      "company": "CoinCash",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://coincash.eu/career",
+        "finalUrl": "https://coincash.eu/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:48.701Z",
+        "bodySha256": "1ed7cce59cdc88a282411a5b4cf4046c4cdd288f7f8c40880e1396bb3dcd4adc"
+      },
+      "board": {
+        "url": "https://coincash.eu/career",
+        "finalUrl": "https://coincash.eu/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:48.701Z",
+        "bodySha256": "1ed7cce59cdc88a282411a5b4cf4046c4cdd288f7f8c40880e1396bb3dcd4adc"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "CoinCorner",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://coincorner.com",
+        "finalUrl": "https://www.coincorner.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:49.911Z",
+        "bodySha256": "5f8a1465632ae4c888d71c22494dce21855e420c36891cb4e4bbbb24b14b3762"
+      },
+      "board": {
+        "url": "https://www.coincorner.com/jobs",
+        "finalUrl": "https://www.coincorner.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:51.487Z",
+        "bodySha256": "63b5010dc5a6f1d2b2b398711bb9e9c9a8fa66f95f72e0106d178cb214b2094a"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Coinext",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://coinext.com.br",
+        "finalUrl": "https://coinext.com.br",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:51.684Z",
+        "bodySha256": "c4b56d900e78bfc5abb16384c74e8b9afeb7144e3deb4798b6c0a7042e498f74"
+      },
+      "board": {
+        "url": "https://coinext.com.br/institucional/vagas",
+        "finalUrl": "https://coinext.com.br/institucional/vagas",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:52.126Z",
+        "bodySha256": "11b7efe1ffa11544ff4049f6e44b57c0ca7cab79d8e5b9734078d51d19c8ff9b"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Coinfinity",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://coinfinity.co",
+        "finalUrl": "https://coinfinity.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:52.224Z",
+        "bodySha256": "8fed53bed863a2def40a4ff49e16cd5bb46862e42d331e9e401136ab4000b814"
+      },
+      "board": {
+        "url": "https://coinfinity.co/karriere",
+        "finalUrl": "https://coinfinity.co/karriere",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:52.679Z",
+        "bodySha256": "c2faa4d2f3b4f7625238d25c8b023f2f894bf4194ab4bcc110e5501f873490f6"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Deblock",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://deblock.com",
+        "finalUrl": "https://deblock.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:53.716Z",
+        "bodySha256": "15b507b2ff94e034fc1e6eced56c34bd6f9ec53968475cb9da2de58b077c11e6"
+      },
+      "board": {
+        "url": "https://apply.workable.com/deblock",
+        "finalUrl": "https://apply.workable.com/deblock",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:54.015Z",
+        "bodySha256": "d2ea470ec3c26bdc99b9b43d2fbb47c31a057f25d89eedd133d3ccd57acaf751"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "double jump.tokyo",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://doublejump.tokyo",
+        "finalUrl": "https://www.doublejump.tokyo/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:54.275Z",
+        "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77"
+      },
+      "board": {
+        "url": "https://herp.careers/v1/doublejump",
+        "finalUrl": "https://herp.careers/v1/doublejump",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:54.978Z",
+        "bodySha256": "8a3156fa92e3ae8ac65718632971d18b0348cfc99fe55cdeb6efc59ba7715a5a"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Flitpay",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://flitpay.com",
+        "finalUrl": "https://www.flitpay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:56.241Z",
+        "bodySha256": "54dc27c57e9345833eae1b672c0a5d08d215bd780d62bba0e5a59acbc79c3d1f"
+      },
+      "board": {
+        "url": "https://www.flitpay.com/careers",
+        "finalUrl": "https://www.flitpay.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:15:59.487Z",
+        "bodySha256": "8b55e2c75ec9602838ddf6771f7e85b60fa1186eecb163ae8d669fa88dbc2fe5"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "FOMO Pay",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://fomopay.com",
+        "finalUrl": "https://www.fomopay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:00.353Z",
+        "bodySha256": "435356607431af75095720a2fea2b8e77d8b314b2db497394fc2bae4aed0202c"
+      },
+      "board": {
+        "url": "https://www.fomopay.com/careers",
+        "finalUrl": "https://www.fomopay.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:00.744Z",
+        "bodySha256": "73e86fc468027c3b5a335dcb5bbf7117b82ad94cdececb0fcae4db9f3c51582d"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Fuze",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://fuze.finance",
+        "finalUrl": "https://fuze.finance",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:00.887Z",
+        "bodySha256": "9c83cd0496d9e3d1016d87a57b3db049fc0c42559ce5405e3423ab4508ce3581"
+      },
+      "board": {
+        "url": "https://fuze.finance/careers",
+        "finalUrl": "https://fuze.finance/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:01.268Z",
+        "bodySha256": "a24b481d41045e63f87894153670245805f568ffc0dea370567677b879ab7a5c"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Ginco",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://ginco.co.jp",
+        "finalUrl": "https://www.ginco.co.jp/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:01.813Z",
+        "bodySha256": "a030108cb66db6054facbe94a671572801268b764ea817c2195dfbdc26bb2793"
+      },
+      "board": {
+        "url": "https://www.ginco.co.jp/company/recruit",
+        "finalUrl": "https://www.ginco.co.jp/company/recruit",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:02.166Z",
+        "bodySha256": "04845d15ee01f835901464e72d76ac00c97a83c583d223577e5a74bb523cb770"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Hata",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://hata.io",
+        "finalUrl": "https://hata.io/en/gb/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:03.203Z",
+        "bodySha256": "9c28c6bdb64e7434d1dd2b372523cb2fe67370636ad5be1a9904eedb620b9628"
+      },
+      "board": {
+        "url": "https://explore.hata.io/careers",
+        "finalUrl": "https://explore.hata.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:03.507Z",
+        "bodySha256": "1301290ca7df0699a729ef06fa5c813cce033de7c565bf2329f547a988be1b35"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "KoinX",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://koinx.com",
+        "finalUrl": "https://www.koinx.com/in",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:04.365Z",
+        "bodySha256": "994d40cfbc7571caa69f1473ace3c326a7d5d1f1b1d12576cd4b5e337ae07f13"
+      },
+      "board": {
+        "url": "https://www.koinx.com/careers",
+        "finalUrl": "https://www.koinx.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:04.769Z",
+        "bodySha256": "df41221a9dc898aba45e04f33a71dca0bed424883347fc9a9e52c97e3191c743"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Lemon",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://lemon.me",
+        "finalUrl": "https://lemon.me",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:04.958Z",
+        "bodySha256": "36e86f97b9b8753a9f15ca38b0b2fb0014ba5df2c477c90db5a6e891c8d3277f"
+      },
+      "board": {
+        "url": "https://lemon.me/careers",
+        "finalUrl": "https://lemon.me/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:05.325Z",
+        "bodySha256": "6e21b224a672be49d2d9d63e7ffd260781fcd0345f9362545cd686e1100c3083"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Liminal",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://liminalcustody.com",
+        "finalUrl": "https://www.liminalcustody.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:06.497Z",
+        "bodySha256": "96679ea421dda6a468c4fa9850a97fd92b27a18930181327ce38c86383c23612"
+      },
+      "board": {
+        "url": "https://apply.workable.com/liminalcustody/",
+        "finalUrl": "https://apply.workable.com/liminalcustody/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:06.875Z",
+        "bodySha256": "3f371c650f5b6641304d732fa16816f9ed676d6a4364cb56c58927c716cba6bb"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "MidChains",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://midchains.com",
+        "finalUrl": "https://www.midchains.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:09.134Z",
+        "bodySha256": "114507127e86dd52a9ef7952bcc5413056231169069211edbd478affcfc27562"
+      },
+      "board": {
+        "url": "https://www.midchains.com/careers/",
+        "finalUrl": "https://www.midchains.com/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:09.654Z",
+        "bodySha256": "d77ce93537497ca33d2168e7effaafbf5ba2ae29e333292b3612680d90d01c38"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Mt Pelerin",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://mtpelerin.com",
+        "finalUrl": "https://www.mtpelerin.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:10.534Z",
+        "bodySha256": "15496cf89d8175e99d3fb0f598d2232b2159ca1f1498a816a41f8b153ad550b3"
+      },
+      "board": {
+        "url": "https://www.mtpelerin.com:443/careers",
+        "finalUrl": "https://www.mtpelerin.com:443/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:11.175Z",
+        "bodySha256": "8029b3eb9af9e5b9a07e284203e84c2aa62f919f7d1fbe37f7bcbde57321c89f"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "NBX",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://nbx.com",
+        "finalUrl": "https://nbx.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:11.283Z",
+        "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a"
+      },
+      "board": {
+        "url": "https://nbx.com/en/careers",
+        "finalUrl": "https://nbx.com/en/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:11.701Z",
+        "bodySha256": "79e3c1da6989383beb6cddae7d60dade22dbb9ece73f57e8bd57d1d92f4cc7f8"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Netcoins",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://netcoins.com",
+        "finalUrl": "https://netcoins.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:11.812Z",
+        "bodySha256": "dc84cb182b00a4ea5e57ebc53cabff7a419600949347e80972ee81c893d63fcf"
+      },
+      "board": {
+        "url": "https://netcoins.com/careers",
+        "finalUrl": "https://netcoins.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:12.201Z",
+        "bodySha256": "35bb3862516be4f58f5ecfbc1879379cd50e51f3fdbb9e35a9420a6e3c55b2a1"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Paymium",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://paymium.com",
+        "finalUrl": "https://www.paymium.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:15.062Z",
+        "bodySha256": "969270e175cbfcb9c560ba465e9b4977ac226f288851c651972f1bca30dd1f0a"
+      },
+      "board": {
+        "url": "https://paymium.welcomekit.co/",
+        "finalUrl": "https://paymium.welcomekit.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:15.907Z",
+        "bodySha256": "ee77e4f7bd2c28f0c33ae3779be481a27d9b3135a2b2791e8be45e4919d71ee6"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Relai",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://relai.app",
+        "finalUrl": "https://relai.app",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:16.313Z",
+        "bodySha256": "6cefd3547ae01b480467f2f731618709ded7aa40912ae72166f0c25ac65df2e5"
+      },
+      "board": {
+        "url": "https://relai.app/career/",
+        "finalUrl": "https://relai.app/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:17.027Z",
+        "bodySha256": "e8f15a97cd10157414a30cfae4c3527be454ef3cf5e92c0fa2f2c9d52cff1e03"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Safello",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://safello.com",
+        "finalUrl": "https://safello.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:17.451Z",
+        "bodySha256": "729e4b950b6c72f3af654fd5ed8ab4fb19d9657bc38100b08f249abf5846f950"
+      },
+      "board": {
+        "url": "https://careers.safello.com/",
+        "finalUrl": "https://careers.safello.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:18.652Z",
+        "bodySha256": "ba399447b3f20d593de44f954e1d7ad2cef6ea8b5be3c1f9489ea60a4f4a5d7f"
+      },
+      "fetched": 0,
+      "roles": []
+    },
+    {
+      "company": "SBI VC Trade",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://sbivc.co.jp",
+        "finalUrl": "https://www.sbivc.co.jp/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:21.545Z",
+        "bodySha256": "6fd4aac7710b5be81eb38d9b66f57eb40bf7ba30f0aa1450bbd6466bd0aa108b"
+      },
+      "board": {
+        "url": "https://www.sbivc.co.jp:443/adoption",
+        "finalUrl": "https://www.sbivc.co.jp:443/adoption",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:22.554Z",
+        "bodySha256": "3e22ba33f81084e5d211e2024030c2b27a989df3f4363d8d42a64ad906f7b588"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Tangany",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://tangany.com",
+        "finalUrl": "https://tangany.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:23.812Z",
+        "bodySha256": "fceddfa0441040da0a83c42ab30b0377fb956b1376d58f4f9de479463288a74a"
+      },
+      "board": {
+        "url": "https://tangany.com/jobs",
+        "finalUrl": "https://tangany.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:24.635Z",
+        "bodySha256": "da539fae2560c6546a1d41c9a2e85d1ebd0a4b3d823be2c4abd3138660cf8574"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Waltio",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.waltio.com/",
+        "finalUrl": "https://www.waltio.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:26.455Z",
+        "bodySha256": "a5fe023e146feb8f4d99bad4349103d1c45dd8547cd4e850b6c552b46d3d6ad4"
+      },
+      "board": {
+        "url": "https://waltio2.odoo.com/en",
+        "finalUrl": "https://waltio2.odoo.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:27.269Z",
+        "bodySha256": "5ab8838b395e0e02521769fef484cd7cd8dbc1a62b646752cf80bc17f012f0c6"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Zumo",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://zumo.tech",
+        "finalUrl": "https://zumo.co.uk/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:30.399Z",
+        "bodySha256": "e5d4d9c7c568b25f76b68a5838cb5477213d3d5b29f14464508e0c276c84d608"
+      },
+      "board": {
+        "url": "https://zumo.co.uk/careers/",
+        "finalUrl": "https://zumo.co.uk/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:30.925Z",
+        "bodySha256": "9580757038884b2bd26b3c3a649ebcf1afc218f9ff8097b61f5b95e36ad0c486"
+      },
+      "fetched": null,
+      "eligible": null
+    },
+    {
+      "company": "Swissquote",
+      "status": "monitored-careers-only",
+      "official": {
+        "url": "https://www.swissquote.com/en/careers",
+        "finalUrl": "https://www.swissquote.com/en/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:31.223Z",
+        "bodySha256": "4fc4680dc6cbb38068fe11a473df0c72c45ba62efb84ec4f8a8bd7c5f399d102"
+      },
+      "board": {
+        "url": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+        "finalUrl": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T11:16:31.991Z",
+        "bodySha256": "88df3d8645c3a53349ff234c2c0af89ef2adf326209bf0e2d5c8a17e04630802"
+      },
+      "fetched": null,
+      "eligible": null
+    }
+  ]
+}

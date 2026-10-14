@@ -1066,5 +1066,93 @@
     "organizationId": "98cd5d6f-9dc4-4268-adad-aa466ae0700e",
     "owner": "ZODL",
     "website": "https://zodl.com/"
+  },
+  "ashby:arrakis": {
+    "companies": [
+      "Arrakis Finance"
+    ],
+    "organizationId": "52d4932f-45af-47f1-bdea-ce9d5918d438",
+    "owner": "Arrakis Finance",
+    "website": "https://arrakis.finance"
+  },
+  "ashby:axiom": {
+    "companies": [
+      "Axiom"
+    ],
+    "organizationId": "97e5ea13-1b47-43d9-a509-97348bf1e85c",
+    "owner": "Axiom",
+    "website": "https://axiom.xyz"
+  },
+  "ashby:boost": {
+    "companies": [
+      "Boost"
+    ],
+    "organizationId": "219eb77c-3d80-4feb-809a-37cb9b31779e",
+    "owner": "Boost",
+    "website": "https://boost.xyz"
+  },
+  "ashby:injective-labs": {
+    "companies": [
+      "Injective Labs"
+    ],
+    "organizationId": "8f1bd457-0e30-41c5-8b14-c7757bd3b8b5",
+    "owner": "Injective Labs",
+    "website": "https://injectivelabs.org"
+  },
+  "ashby:legend-xyz": {
+    "companies": [
+      "Legend"
+    ],
+    "organizationId": "3bc37fad-1411-4f90-965d-e26a19c5fc30",
+    "owner": "Legend Labs, Inc.",
+    "website": "https://legend.xyz"
+  },
+  "ashby:n1": {
+    "companies": [
+      "N1"
+    ],
+    "organizationId": "46e65283-5f85-4e23-a466-b0678fc73270",
+    "owner": "N1",
+    "website": "https://n1.xyz"
+  },
+  "ashby:opfoundation": {
+    "companies": [
+      "Optimism Foundation"
+    ],
+    "organizationId": "fa707458-53a3-4268-9746-f951003363a9",
+    "owner": "Optimism Foundation",
+    "website": "https://optimism.io"
+  },
+  "ashby:quantstamp": {
+    "companies": [
+      "Quantstamp"
+    ],
+    "organizationId": "3933a337-db90-4cbc-8cc2-b625e3918f18",
+    "owner": "Quantstamp",
+    "website": "https://quantstamp.com"
+  },
+  "ashby:bettermoney": {
+    "companies": [
+      "The Better Money Company"
+    ],
+    "organizationId": "2e4690f2-c598-4aad-9da2-5f6763b152a3",
+    "owner": "The Better Money Company",
+    "website": "https://bettermoney.com"
+  },
+  "ashby:trilitech": {
+    "companies": [
+      "Trilitech"
+    ],
+    "organizationId": "fb26659d-6cd3-4816-9026-065249ec7986",
+    "owner": "Trilitech",
+    "website": "https://trili.tech"
+  },
+  "ashby:zircuit": {
+    "companies": [
+      "Zircuit"
+    ],
+    "organizationId": "e656cbc6-a329-4ab2-8304-d4fd4492242e",
+    "owner": "Zircuit",
+    "website": "https://zircuit.com"
   }
 }

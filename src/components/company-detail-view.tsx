@@ -63,7 +63,8 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     name: displayName,
     ...(company.website && { url: company.website }),
     ...(company.description && { description: company.description }),
-    ...(social?.linkedin && { sameAs: [social.linkedin, social.twitter, social.crunchbase].filter(Boolean) as string[] }),
+    ...((social?.linkedin || social?.twitter || social?.crunchbase) && { sameAs: [social.linkedin, social.twitter, social.crunchbase].filter(Boolean) as string[] }),
+    ...(logoSrc && { logo: new URL(logoSrc, 'https://hashtagweb3.com').href }),
   };
 
   const breadcrumbSchema: WithContext<BreadcrumbList> = {

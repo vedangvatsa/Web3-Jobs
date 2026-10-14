@@ -1,4 +1,7 @@
 import companyLogosIndexJson from '../../content/company-logos-index.json';
+import verifiedBrandingJson from '../../content/company-branding.json';
+
+const verifiedBranding: Record<string, { website: string; logo?: string }> = verifiedBrandingJson;
 
 const availableLogoPaths = new Set<string>(companyLogosIndexJson as string[]);
 
@@ -234,6 +237,7 @@ export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
 
 export function resolveCompanyLogo(companySlug: string): string | null {
   if (companySlug === 'axiom-onchain-trading') return null;
+  if (verifiedBranding[companySlug]) return verifiedBranding[companySlug].logo || null;
   for (const relPath of LOGO_PATHS(companySlug)) {
     if (availableLogoPaths.has(relPath)) {
       return relPath;
@@ -246,6 +250,8 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
   if (!website || !website.trim()) return null;
   try {
     const host = new URL(website.startsWith('http') ? website : `https://${website}`).hostname;
+    const branding = Object.values(verifiedBranding).find(row => new URL(row.website).hostname === host);
+    if (branding) return branding.logo || null;
     const targetHost = host.includes('franklintempleton.com') ? 'careers.franklintempleton.com' : host;
     return faviconUrlForDomain(targetHost);
   } catch {
@@ -261,6 +267,7 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
 export function getCompanyFaviconUrlBySlug(companySlug: string): string | null {
   if (companySlug === 'axiom-onchain-trading') return null;
   const normalizedSlug = companySlug.toLowerCase();
+  if (verifiedBranding[normalizedSlug]) return verifiedBranding[normalizedSlug].logo || null;
   const alias = COMPANY_LOGO_ALIASES[normalizedSlug];
   const domain = COMPANY_FAVICON_DOMAINS[normalizedSlug] ?? (alias ? COMPANY_FAVICON_DOMAINS[alias] : null);
   if (domain) return faviconUrlForDomain(domain);
