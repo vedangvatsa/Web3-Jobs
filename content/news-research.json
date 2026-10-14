@@ -37574,11 +37574,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "dbd228880e58842a02dc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:01:43.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Base Earn page blocked on re-attempt; Base notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:52.495Z",
+      "retrySearches": [
+        "Base Earn Borrow Aave Morpho notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "7b5767d6a69642f175ed": {
       "source": "The Defiant",
@@ -67980,6 +67994,21 @@
           "reviewedAt": "2026-10-14T04:03:50.581Z",
           "retrySearches": [
             "Robinhood social trading feed notice second outlet"
+          ]
+        },
+        "dbd228880e58842a02dc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Base Earn page blocked on re-attempt; Base notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:52.495Z",
+          "retrySearches": [
+            "Base Earn Borrow Aave Morpho notice second outlet"
           ]
         }
       },
