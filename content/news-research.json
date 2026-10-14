@@ -34989,11 +34989,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1557a7dcfa39aa50265",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T05:00:05.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "promotional",
+      "note": "Paid-wire partnership announcement with no independent outlet; promotion without corroboration.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:29.811Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "88a956aebd85b727440a": {
       "source": "The Block",
@@ -66747,6 +66752,13 @@
           "note": "Local merchant-adoption promo for a coffee shop; marketing without a reportable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:27.915Z"
+        },
+        "d1557a7dcfa39aa50265": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Paid-wire partnership announcement with no independent outlet; promotion without corroboration.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:29.811Z"
         }
       },
       "baselineSlugs": [
