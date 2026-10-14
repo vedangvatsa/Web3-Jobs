@@ -34443,11 +34443,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "7edc77b919dd2e41b770",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:03:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "verified-event",
+      "note": "High Court ruled Chinese law governs s.281 claims to 61,000 BTC; verified Qian scheme figures, seizure history and appeal across three outlets plus the judgment.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+          "outcome": "read"
+        },
+        {
+          "url": "https://caselaw.nationalarchives.gov.uk/ewhc/kb/2026/2509",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:34:52.133Z",
+      "articleSlug": "seized-bitcoin",
+      "lastReviewedDay": "2026-10-14"
     },
     "cedb10fc747d425655e2": {
       "source": "CryptoSlate",
@@ -65200,6 +65223,31 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:31:22.931Z",
           "automatic": true
+        },
+        "7edc77b919dd2e41b770": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "High Court ruled Chinese law governs s.281 claims to 61,000 BTC; verified Qian scheme figures, seizure history and appeal across three outlets plus the judgment.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+              "outcome": "read"
+            },
+            {
+              "url": "https://caselaw.nationalarchives.gov.uk/ewhc/kb/2026/2509",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:34:52.133Z",
+          "articleSlug": "seized-bitcoin"
         }
       },
       "baselineSlugs": [
