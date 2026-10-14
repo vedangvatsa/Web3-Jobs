@@ -33723,23 +33723,23 @@
       "id": "376be79203bc54aa7fc4",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T11:02:38.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "note": "Lead reachable; same FSB cross-border stablecoin findings verified via the shared CryptoSlate read. FSB text plus confirmation of this outlet account still needed.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-          "outcome": "unavailable"
+          "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:46.420Z",
+      "reviewedAt": "2026-10-14T04:01:07.403Z",
       "retrySearches": [
-        "FSB stablecoin bank run warning October 2026 report second outlet"
+        "FSB stablecoin cross-border information sharing CoinDesk confirmation"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "3572f4cb2c2587ab06d7": {
       "source": "Unchained",
@@ -67085,6 +67085,21 @@
           "reviewedAt": "2026-10-14T04:01:05.341Z",
           "retrySearches": [
             "FSB stablecoin run risk report October 2026 second outlet"
+          ]
+        },
+        "376be79203bc54aa7fc4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same FSB cross-border stablecoin findings verified via the shared CryptoSlate read. FSB text plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:07.403Z",
+          "retrySearches": [
+            "FSB stablecoin cross-border information sharing CoinDesk confirmation"
           ]
         }
       },
