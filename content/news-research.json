@@ -37099,11 +37099,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "60da7de4add3e6ccdd4e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:12:02.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Ledger halt page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:09.138Z",
+      "retrySearches": [
+        "Ledger reseller halt statement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "7cf32ec891375e6ff1af": {
       "source": "Crypto Briefing",
@@ -68125,6 +68139,21 @@
           "reviewedAt": "2026-10-14T04:04:07.232Z",
           "retrySearches": [
             "BNY Citadel tokenized repo notice second outlet"
+          ]
+        },
+        "60da7de4add3e6ccdd4e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger halt page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:09.138Z",
+          "retrySearches": [
+            "Ledger reseller halt statement second outlet"
           ]
         }
       },
