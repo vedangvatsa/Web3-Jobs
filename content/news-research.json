@@ -36587,11 +36587,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fbd42c6264545b8b084e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:03:40.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Rumored AI investor day ahead of IPO; unconfirmed corporate story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:32.060Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "db48ec069ac23cf95109": {
       "source": "Crypto Briefing",
@@ -66435,6 +66440,13 @@
           "note": "Court order in an AI trade-secrets case; legal story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:30.210Z"
+        },
+        "fbd42c6264545b8b084e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Rumored AI investor day ahead of IPO; unconfirmed corporate story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:32.060Z"
         }
       },
       "baselineSlugs": [
