@@ -35890,11 +35890,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0911889858658cd20f67",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:19:52.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Overnight bitcoin bounce after liquidations; price action without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:54.902Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "b4c774a89c65de4668e2": {
       "source": "The Defiant",
@@ -66135,6 +66140,13 @@
           "note": "Bitcoin-versus-Kospi divergence framing; market commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:52.841Z"
+        },
+        "0911889858658cd20f67": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Overnight bitcoin bounce after liquidations; price action without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:54.902Z"
         }
       },
       "baselineSlugs": [
