@@ -38645,11 +38645,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "251225b4b28010c9541a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:58:04.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; FIU Tuesday website-blocking announcement with KuCoin comment confirmed. FIU notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:48.784Z",
+      "retrySearches": [
+        "Korea FIU 27 exchanges website block notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "bb59847c809ee22181b3": {
       "source": "CoinDesk",
@@ -69047,6 +69061,21 @@
           "reviewedAt": "2026-10-14T04:06:43.367Z",
           "retrySearches": [
             "UK crypto trader knifepoint robbery police confirmation second outlet"
+          ]
+        },
+        "251225b4b28010c9541a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; FIU Tuesday website-blocking announcement with KuCoin comment confirmed. FIU notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:48.784Z",
+          "retrySearches": [
+            "Korea FIU 27 exchanges website block notice second outlet"
           ]
         }
       },
