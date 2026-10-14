@@ -34168,23 +34168,23 @@
       "id": "8c1ea86bcaf7e19a8c79",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T06:30:21.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "note": "Lead reachable; same FSB stablecoin and AI-risk findings verified via the shared CryptoSlate read. FSB text plus confirmation of this outlet account still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:48.310Z",
+      "reviewedAt": "2026-10-14T04:01:09.378Z",
       "retrySearches": [
-        "FSB stablecoin bank run warning October 2026 report second outlet"
+        "FSB stablecoin AI risks G20 Cointelegraph confirmation"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "9d424896408f3d18275a": {
       "source": "Cointelegraph",
@@ -67100,6 +67100,21 @@
           "reviewedAt": "2026-10-14T04:01:07.403Z",
           "retrySearches": [
             "FSB stablecoin cross-border information sharing CoinDesk confirmation"
+          ]
+        },
+        "8c1ea86bcaf7e19a8c79": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same FSB stablecoin and AI-risk findings verified via the shared CryptoSlate read. FSB text plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:09.378Z",
+          "retrySearches": [
+            "FSB stablecoin AI risks G20 Cointelegraph confirmation"
           ]
         }
       },
