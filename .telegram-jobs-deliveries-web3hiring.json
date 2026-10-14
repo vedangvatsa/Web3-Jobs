@@ -3870,7 +3870,7 @@
     "sentAt": "2026-10-14T11:32:04.330Z"
   },
   "358b1bbc-bf45-4c73-875f-86037e0b5478": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T19:31:53.507Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -3983,6 +3983,8 @@
       }
     ],
     "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm264?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Director, AI &amp; Agent (Chatbot)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/scrf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist, Consolidation &amp; Regional Finance</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/mkt59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Content Marketing Lead</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/ds13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Science Lead</a>",
-    "slotKey": "2026-10-14:evening"
+    "slotKey": "2026-10-14:evening",
+    "messageId": 16535,
+    "sentAt": "2026-10-14T19:31:56.028Z"
   }
 }
