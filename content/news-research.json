@@ -35244,11 +35244,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a39ed07c06b5d3f9b5a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:51:05.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; tracker estimates with an unconfirmed 1,635 BTC decline and Coinbase Prime moves. Onchain confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/us-government-bitcoin-holdings-328372-btc/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:13.948Z",
+      "retrySearches": [
+        "US government bitcoin holdings Coinbase Prime transfer second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "c6133711326de303b968": {
       "source": "CoinDesk",
@@ -69163,6 +69177,21 @@
           "reviewedAt": "2026-10-14T04:07:08.217Z",
           "retrySearches": [
             "FSB stablecoin note G20 outcome second outlet"
+          ]
+        },
+        "3a39ed07c06b5d3f9b5a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; tracker estimates with an unconfirmed 1,635 BTC decline and Coinbase Prime moves. Onchain confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/us-government-bitcoin-holdings-328372-btc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:13.948Z",
+          "retrySearches": [
+            "US government bitcoin holdings Coinbase Prime transfer second outlet"
           ]
         }
       },
