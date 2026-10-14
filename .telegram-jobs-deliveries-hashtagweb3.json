@@ -1759,7 +1759,7 @@
     "sentAt": "2026-10-13T19:39:54.409Z"
   },
   "fa9dbb4c-5692-4bd9-ae84-f4cbc89d520e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T04:29:15.491Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1829,6 +1829,8 @@
       }
     ],
     "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/ Principal Product Manager, Trading(Crypto.com App)</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/be28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Development Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/ops91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Operations Excellence &amp; Business Operations Lead</a>",
-    "slotKey": "2026-10-14:morning"
+    "slotKey": "2026-10-14:morning",
+    "messageId": 155753,
+    "sentAt": "2026-10-14T04:29:18.870Z"
   }
 }
