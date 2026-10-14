@@ -34725,11 +34725,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5d82450690fbeeb96a70",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:06:22.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Anza upgrade page blocked on re-attempt; Anza post and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:08.778Z",
+      "retrySearches": [
+        "Anza Alpenglow October 21 upgrade post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "1e2fdcda2d2c1e06be00": {
       "source": "CoinJournal",
@@ -67487,6 +67501,21 @@
           "reviewedAt": "2026-10-14T04:03:06.749Z",
           "retrySearches": [
             "Blockchain.com CFTC licenses filing second outlet"
+          ]
+        },
+        "5d82450690fbeeb96a70": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Anza upgrade page blocked on re-attempt; Anza post and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:08.778Z",
+          "retrySearches": [
+            "Anza Alpenglow October 21 upgrade post second outlet"
           ]
         }
       },
