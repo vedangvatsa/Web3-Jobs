@@ -34129,23 +34129,27 @@
       "id": "24bd442d8bc2e7bedba1",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T07:14:12.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "ENSv2 DAO proposal lead, not opened; needs forum record and a second outlet beyond Unchained.",
+      "reason": "source-blocked",
+      "note": "Defiant lead blocked on re-attempt; the same ENSv2 executable verified via the Unchained read. Vote date plus a readable second outlet still needed.",
       "sourceChecks": [
         {
+          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:42.652Z",
+      "reviewedAt": "2026-10-14T04:00:43.744Z",
       "retrySearches": [
-        "ENSv2 activation DAO proposal October 2026 forum second outlet"
+        "ENSv2 activation DAO vote date readable second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "8c1ea86bcaf7e19a8c79": {
       "source": "Cointelegraph",
@@ -66974,6 +66978,25 @@
           "reviewedAt": "2026-10-14T04:00:41.757Z",
           "retrySearches": [
             "ENSv2 activation DAO vote date second outlet"
+          ]
+        },
+        "24bd442d8bc2e7bedba1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant lead blocked on re-attempt; the same ENSv2 executable verified via the Unchained read. Vote date plus a readable second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:43.744Z",
+          "retrySearches": [
+            "ENSv2 activation DAO vote date readable second outlet"
           ]
         }
       },
