@@ -33614,23 +33614,27 @@
       "id": "8b2c81a2bf1d8a26956d",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T12:01:53.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CoinDesk lead, not opened; 93M-traced and 10M-frozen figures need pairing with Bitquery or second outlet.",
+      "note": "Lead reachable; 93M-traced and 10M-frozen claims sit in the arc verified via the shared Decrypt, Unchained and Bankless reads. Tracker confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-          "outcome": "unavailable"
+          "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:35.229Z",
+      "reviewedAt": "2026-10-14T04:08:03.022Z",
       "retrySearches": [
-        "Ledger CryptoBilis 93M traced 10M frozen October 12 second outlet"
+        "Ledger CryptoBilis 93M traced 10M frozen tracker confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "a3067f1fcfa32873953f": {
       "source": "The Defiant",
@@ -69424,6 +69428,25 @@
           "reviewedAt": "2026-10-14T04:08:01.098Z",
           "retrySearches": [
             "Ledger implant generations Karpel es MediaMarkt confirmation second outlet"
+          ]
+        },
+        "8b2c81a2bf1d8a26956d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; 93M-traced and 10M-frozen claims sit in the arc verified via the shared Decrypt, Unchained and Bankless reads. Tracker confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:08:03.022Z",
+          "retrySearches": [
+            "Ledger CryptoBilis 93M traced 10M frozen tracker confirmation second outlet"
           ]
         }
       },
