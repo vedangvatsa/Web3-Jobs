@@ -3986,5 +3986,121 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 16535,
     "sentAt": "2026-10-14T19:31:56.028Z"
+  },
+  "59f07e82-eb40-463f-b8cd-1226f71b905f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T19:31:58.105Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8818670002",
+          "title": "Customer Success Associate",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8818670002",
+          "date": "2026-09-22T16:09:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Dallas, TX",
+          "department": "Customer Support Center",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso24"
+        },
+        "key": "8818670002",
+        "slug": "aso24",
+        "url": "https://hashtagweb3.com/aso24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Customer Success Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8018541003",
+          "title": "Senior Product Director, AI & Agent (Chatbot)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8018541003",
+          "date": "2026-10-09T03:07:31-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm264"
+        },
+        "key": "8018541003",
+        "slug": "pm264",
+        "url": "https://hashtagweb3.com/pm264?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Product Director"
+      },
+      {
+        "snapshot": {
+          "id": "4988644101",
+          "title": "Specialist, Consolidation & Regional Finance",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4988644101",
+          "date": "2026-10-06T10:33:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "scrf"
+        },
+        "key": "4988644101",
+        "slug": "scrf",
+        "url": "https://hashtagweb3.com/scrf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Specialist, Consolidation & Regional Finance"
+      },
+      {
+        "snapshot": {
+          "id": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "title": "Content Marketing Lead",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+          "date": "2026-09-30T12:48:02.322+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt59"
+        },
+        "key": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+        "slug": "mkt59",
+        "url": "https://hashtagweb3.com/mkt59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Content Marketing Lead"
+      },
+      {
+        "snapshot": {
+          "id": "f1aef032-6d5d-4a26-a775-775852351b54",
+          "title": "Data Science Lead",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/Elliptic/f1aef032-6d5d-4a26-a775-775852351b54",
+          "date": "2026-09-30T12:18:17.302+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (Washington, D.C.)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Intelligence",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds13"
+        },
+        "key": "f1aef032-6d5d-4a26-a775-775852351b54",
+        "slug": "ds13",
+        "url": "https://hashtagweb3.com/ds13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Data Science Lead"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/aso24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Associate</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm264?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Director, AI &amp; Agent (Chatbot)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/scrf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist, Consolidation &amp; Regional Finance</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/mkt59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Content Marketing Lead</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/ds13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Science Lead</a>",
+    "slotKey": "2026-10-14:evening"
   }
 }
