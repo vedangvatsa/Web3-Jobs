@@ -3597,5 +3597,122 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 16533,
     "sentAt": "2026-10-14T04:29:00.726Z"
+  },
+  "a2e5a35b-dba0-45ff-9be1-3498fd29f8fe": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T04:29:03.483Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8243619",
+          "title": "Paralegal Litigation",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8243619",
+          "date": "2026-10-07T15:50:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "6380 Litigation",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp100"
+        },
+        "key": "8243619",
+        "slug": "cmp100",
+        "url": "https://hashtagweb3.com/cmp100?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Paralegal Litigation"
+      },
+      {
+        "snapshot": {
+          "id": "6206700004",
+          "title": "Product Manager - Brokerage - EU",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6206700004",
+          "date": "2026-09-23T14:53:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Global Anywhere",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm133"
+        },
+        "key": "6206700004",
+        "slug": "pm133",
+        "url": "https://hashtagweb3.com/pm133?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8198097",
+          "title": "Vendor Management Intern (Summer 2027)",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
+          "date": "2026-09-14T08:00:08-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "New York, NY",
+          "department": "Procurement and Insurance",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "int3"
+        },
+        "key": "8198097",
+        "slug": "int3",
+        "url": "https://hashtagweb3.com/int3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Vendor Management Intern"
+      },
+      {
+        "snapshot": {
+          "id": "72d6220d-6db8-4104-b47a-0b6b0483d428",
+          "title": "Sports Creator Manager",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/72d6220d-6db8-4104-b47a-0b6b0483d428",
+          "date": "2026-09-22T14:49:16.794+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr58"
+        },
+        "key": "72d6220d-6db8-4104-b47a-0b6b0483d428",
+        "slug": "mgr58",
+        "url": "https://hashtagweb3.com/mgr58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Sports Creator Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8014746003",
+          "title": "Head of Marketing Compliance",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8014746003",
+          "date": "2026-10-06T13:17:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Compliance",
+          "active": true,
+          "salary": "$200k – $300k/yr",
+          "dateVerified": true,
+          "slug": "mkt88"
+        },
+        "key": "8014746003",
+        "slug": "mkt88",
+        "url": "https://hashtagweb3.com/mkt88?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Head of Marketing Compliance"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/cmp100?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Paralegal Litigation</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/pm133?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager - Brokerage - EU</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/int3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Vendor Management Intern (Summer 2027)</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/mgr58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sports Creator Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mkt88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing Compliance</a>",
+    "slotKey": "2026-10-14:morning"
   }
 }
