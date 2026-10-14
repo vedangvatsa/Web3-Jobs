@@ -34033,23 +34033,23 @@
       "id": "96af30d1644a536cbe8f",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T07:49:40.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CoinDesk lead, not opened; implant confirmation needs pairing with Ledger statement and second outlet.",
+      "note": "Read the CoinDesk piece; Oct 10 implant confirmation with third-party loss estimates and an unverified CZ allegation. Tamper confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:37.048Z",
+      "reviewedAt": "2026-10-14T04:04:29.190Z",
       "retrySearches": [
-        "Ledger CryptoBilis unauthorized implant October 12 Ledger statement"
+        "Ledger CryptoBilis implant confirmation tamper second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "d2b79c8e5909ea246ef9": {
       "source": "The Defiant",
@@ -68227,6 +68227,21 @@
           "reviewedAt": "2026-10-14T04:04:14.830Z",
           "retrySearches": [
             "Morgan Stanley tokenized equities 2027 confirmation second outlet"
+          ]
+        },
+        "96af30d1644a536cbe8f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Oct 10 implant confirmation with third-party loss estimates and an unverified CZ allegation. Tamper confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:29.190Z",
+          "retrySearches": [
+            "Ledger CryptoBilis implant confirmation tamper second outlet"
           ]
         }
       },
