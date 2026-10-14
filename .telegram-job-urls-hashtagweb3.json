@@ -1953,6 +1953,14 @@
     "lastUrl": "https://hashtagweb3.com/eas",
     "updatedAt": "2026-10-03T19:32:17.777Z"
   },
+  "8214383": {
+    "slugs": [
+      "sec91"
+    ],
+    "lastSlug": "sec91",
+    "lastUrl": "https://hashtagweb3.com/sec91",
+    "updatedAt": "2026-10-14T11:32:12.689Z"
+  },
   "8225567": {
     "slugs": [
       "arc18"
@@ -7630,5 +7638,21 @@
     "lastSlug": "ops91",
     "lastUrl": "https://hashtagweb3.com/ops91",
     "updatedAt": "2026-10-14T04:29:18.870Z"
+  },
+  "33af3036-a865-44cd-a609-76f91d3c203d": {
+    "slugs": [
+      "infra20"
+    ],
+    "lastSlug": "infra20",
+    "lastUrl": "https://hashtagweb3.com/infra20",
+    "updatedAt": "2026-10-14T11:32:12.689Z"
+  },
+  "c2f9f330-96f3-4261-bdec-03def9db0d11": {
+    "slugs": [
+      "bifc"
+    ],
+    "lastSlug": "bifc",
+    "lastUrl": "https://hashtagweb3.com/bifc",
+    "updatedAt": "2026-10-14T11:32:12.689Z"
   }
 }
