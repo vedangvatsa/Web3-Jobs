@@ -27162,25 +27162,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7fb4c0a1e19643319ca",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T13:00:14.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Prior-round CryptoSlate read retained; iVerify report and second outlet still missing.",
+      "reason": "verified-event",
+      "note": "iVerify Oct 8 P7 DarkSword disclosure verified via primary report plus HackerNews and CryptoSlate; wallet_scan/wallet_extract, 15s beacon and patch limits confirmed.",
       "sourceChecks": [
+        {
+          "url": "https://www.iverify.com/blog/darksword-variant-threat-research",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+          "outcome": "read"
+        },
         {
           "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:04.295Z",
+      "reviewedAt": "2026-10-14T03:48:10.182Z",
       "retrySearches": [
         "iVerify P7 DarkSword iPhone spyware second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "articleSlug": "iphone-spyware"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -65763,6 +65771,27 @@
           "reviewedAt": "2026-10-14T03:45:57.240Z",
           "duplicateOf": "sberbank-crypto",
           "mergedInto": "70a7368a909cafa0624d"
+        },
+        "c7fb4c0a1e19643319ca": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "iVerify Oct 8 P7 DarkSword disclosure verified via primary report plus HackerNews and CryptoSlate; wallet_scan/wallet_extract, 15s beacon and patch limits confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.iverify.com/blog/darksword-variant-threat-research",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:48:10.182Z",
+          "articleSlug": "iphone-spyware"
         }
       },
       "baselineSlugs": [
