@@ -34653,11 +34653,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5928b7ca1b7cb3e8e2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:51:25.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Op-ed on SEC leadership dynamics for rulemaking; commentary without a reportable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:10.977Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "5d82450690fbeeb96a70": {
       "source": "The Defiant",
@@ -66651,6 +66656,13 @@
           "note": "AI-worm warning from an AI company; AI-safety story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:09.101Z"
+        },
+        "e5928b7ca1b7cb3e8e2a": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Op-ed on SEC leadership dynamics for rulemaking; commentary without a reportable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:10.977Z"
         }
       },
       "baselineSlugs": [
