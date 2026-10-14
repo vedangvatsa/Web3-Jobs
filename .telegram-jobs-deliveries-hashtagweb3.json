@@ -1908,5 +1908,119 @@
     "slotKey": "2026-10-14:afternoon",
     "messageId": 155756,
     "sentAt": "2026-10-14T11:32:12.689Z"
+  },
+  "6de59138-d7d2-4d14-83f0-947574b1e5a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T19:32:08.946Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "744000151845942",
+          "title": "Senior Data Analyst",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000151845942-senior-data-analyst",
+          "date": "2026-09-25T13:11:26.833Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Zagreb, Croatia",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an51"
+        },
+        "key": "744000151845942",
+        "slug": "an51",
+        "url": "https://hashtagweb3.com/an51?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "4405705009",
+          "title": "Director of Sales - RWA",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4405705009",
+          "date": "2026-09-17T16:15:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City",
+          "department": "Sales - RWA",
+          "active": true,
+          "salary": "$200k – $250k/yr",
+          "dateVerified": true,
+          "slug": "sls64"
+        },
+        "key": "4405705009",
+        "slug": "sls64",
+        "url": "https://hashtagweb3.com/sls64?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Director of Sales"
+      },
+      {
+        "snapshot": {
+          "id": "5440927008",
+          "title": "Sourcing Manager- Construction Material, Principal",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5440927008",
+          "date": "2026-10-01T11:15:44-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Supply Chain",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr126"
+        },
+        "key": "5440927008",
+        "slug": "mgr126",
+        "url": "https://hashtagweb3.com/mgr126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Sourcing Manager- Construction Material"
+      },
+      {
+        "snapshot": {
+          "id": "8240482",
+          "title": "Executive Assistant to the CEO",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8240482",
+          "date": "2026-09-29T14:32:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "Administrative Support",
+          "active": true,
+          "salary": "$100k – $200k/yr",
+          "dateVerified": true,
+          "slug": "aso47"
+        },
+        "key": "8240482",
+        "slug": "aso47",
+        "url": "https://hashtagweb3.com/aso47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Executive Assistant to the CEO"
+      },
+      {
+        "snapshot": {
+          "id": "bbbdd7b7-984c-49c1-9bcf-dcadbe40fa90",
+          "title": "Electrical Assistant Supervisor",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/bbbdd7b7-984c-49c1-9bcf-dcadbe40fa90",
+          "date": "2026-10-12T10:57:39.886000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Corsicana, TX",
+          "department": "Electrical",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sup2"
+        },
+        "key": "bbbdd7b7-984c-49c1-9bcf-dcadbe40fa90",
+        "slug": "sup2",
+        "url": "https://hashtagweb3.com/sup2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Electrical Assistant Supervisor"
+      }
+    ],
+    "message": "- Solflare is hiring <a href=\"https://hashtagweb3.com/an51?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/sls64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Sales - RWA</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/mgr126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sourcing Manager- Construction Material, Principal</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/aso47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant to the CEO</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sup2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Electrical Assistant Supervisor</a>",
+    "slotKey": "2026-10-14:evening"
   }
 }
