@@ -37016,11 +37016,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1884c5a7ae966c5980ad",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:02:46.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Commentary on an AI-lab leadership stint; personnel story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:56.374Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "c6e4972c0a7ed67a1242": {
       "source": "CoinDesk",
@@ -66567,6 +66572,13 @@
           "note": "Senators urging AI cybersecurity coordination; AI-policy story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:54.465Z"
+        },
+        "1884c5a7ae966c5980ad": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Commentary on an AI-lab leadership stint; personnel story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:56.374Z"
         }
       },
       "baselineSlugs": [
