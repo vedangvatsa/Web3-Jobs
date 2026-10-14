@@ -34880,11 +34880,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "60379db62514ce4429a7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T20:39:35.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "FBI scam-center page blocked on re-attempt; FBI release and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:10.766Z",
+      "retrySearches": [
+        "FBI scam centers West Africa raids release second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "44fdb8b2c06c21599b30": {
       "source": "Decrypt",
@@ -67516,6 +67530,21 @@
           "reviewedAt": "2026-10-14T04:03:08.778Z",
           "retrySearches": [
             "Anza Alpenglow October 21 upgrade post second outlet"
+          ]
+        },
+        "60379db62514ce4429a7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "FBI scam-center page blocked on re-attempt; FBI release and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:10.766Z",
+          "retrySearches": [
+            "FBI scam centers West Africa raids release second outlet"
           ]
         }
       },
