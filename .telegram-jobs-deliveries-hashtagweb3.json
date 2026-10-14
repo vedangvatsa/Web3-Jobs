@@ -1832,5 +1832,79 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 155753,
     "sentAt": "2026-10-14T04:29:18.870Z"
+  },
+  "1795657f-25c3-4953-b4bd-6702256ae02c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:32:09.729Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8214383",
+          "title": "Staff Software Engineer, AI Security",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383",
+          "date": "2026-10-06T11:28:01-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Bellevue, WA; Menlo Park, CA",
+          "department": "Security Division",
+          "active": true,
+          "salary": "$230k – $270k/yr",
+          "dateVerified": true,
+          "slug": "sec91"
+        },
+        "key": "8214383",
+        "slug": "sec91",
+        "url": "https://hashtagweb3.com/sec91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "33af3036-a865-44cd-a609-76f91d3c203d",
+          "title": "Senior Software Engineer, Data Infrastructure (RDBMS)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/33af3036-a865-44cd-a609-76f91d3c203d",
+          "date": "2026-09-22T21:24:52.338+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra20"
+        },
+        "key": "33af3036-a865-44cd-a609-76f91d3c203d",
+        "slug": "infra20",
+        "url": "https://hashtagweb3.com/infra20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "c2f9f330-96f3-4261-bdec-03def9db0d11",
+          "title": "Blockchain Investigator, Financial Crimes, Bulgaria",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/c2f9f330-96f3-4261-bdec-03def9db0d11",
+          "date": "2026-09-18T15:36:27.663Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Sofia)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "bifc"
+        },
+        "key": "c2f9f330-96f3-4261-bdec-03def9db0d11",
+        "slug": "bifc",
+        "url": "https://hashtagweb3.com/bifc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Blockchain Investigator"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/sec91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, AI Security</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/infra20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Data Infrastructure (RDBMS)</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/bifc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Blockchain Investigator, Financial Crimes, Bulgaria</a>",
+    "slotKey": "2026-10-14:afternoon"
   }
 }
