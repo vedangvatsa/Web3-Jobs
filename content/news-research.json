@@ -26438,25 +26438,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "639da78ae1beb866cc22",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T09:38:29.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "source-blocked",
-      "note": "Prior-round Defiant block retained; Coldcard statement and readable second outlet still missing.",
+      "reason": "duplicate",
+      "note": "Same Oct 11 COLDCARD X phishing post covered by coldcard-phish; Cointelegraph confirms identical incident and no confirmed losses.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
-          "outcome": "blocked"
+          "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:02.381Z",
+      "reviewedAt": "2026-10-14T03:52:14.255Z",
       "retrySearches": [
         "COLDCARD phishing X post statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "duplicateOf": "coldcard-phish"
     },
     "df703797bc4255c1484d": {
       "source": "CryptoSlate",
@@ -65842,6 +65842,19 @@
           ],
           "reviewedAt": "2026-10-14T03:50:58.871Z",
           "articleSlug": "usdkg-shutdown"
+        },
+        "639da78ae1beb866cc22": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 11 COLDCARD X phishing post covered by coldcard-phish; Cointelegraph confirms identical incident and no confirmed losses.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:52:14.255Z",
+          "duplicateOf": "coldcard-phish"
         }
       },
       "baselineSlugs": [
