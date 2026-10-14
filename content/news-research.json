@@ -35491,11 +35491,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5369735ed5a908233271",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:27:32.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Intraday bitcoin pressure near 84K alongside equities; price action without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:13.618Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "4fa005e58af4a2b8985f": {
       "source": "CryptoSlate",
@@ -66063,6 +66068,13 @@
           "note": "Seasonal bull framing for bitcoin; price commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:10.871Z"
+        },
+        "5369735ed5a908233271": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Intraday bitcoin pressure near 84K alongside equities; price action without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:13.618Z"
         }
       },
       "baselineSlugs": [
