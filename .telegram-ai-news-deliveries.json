@@ -1312,7 +1312,7 @@
     "sentAt": "2026-10-13T19:41:53.794Z"
   },
   "a90121fa-f904-499e-a92c-92c70adba2dc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T11:34:23.229Z",
     "stories": [
       {
@@ -1342,6 +1342,8 @@
         "originalTitle": "The US military’s race to make fake blood"
       }
     ],
-    "slotKey": "2026-10-14:afternoon"
+    "slotKey": "2026-10-14:afternoon",
+    "messageId": 193346,
+    "sentAt": "2026-10-14T11:34:25.730Z"
   }
 }
