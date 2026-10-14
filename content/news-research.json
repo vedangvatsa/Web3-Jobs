@@ -34942,11 +34942,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "01e05da50a429f1536f3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:20:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Commentator self-custody advice after the Ledger incident; opinion without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:12.913Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "868ad9e7fda75ddebe55": {
       "source": "The Defiant",
@@ -66663,6 +66668,13 @@
           "note": "Op-ed on SEC leadership dynamics for rulemaking; commentary without a reportable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:10.977Z"
+        },
+        "01e05da50a429f1536f3": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Commentator self-custody advice after the Ledger incident; opinion without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:12.913Z"
         }
       },
       "baselineSlugs": [
