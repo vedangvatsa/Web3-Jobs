@@ -38555,11 +38555,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "307f672c572d1d5ba82a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T08:16:44.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "21Shares ETP page blocked on re-attempt; listing notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:44.160Z",
+      "retrySearches": [
+        "21Shares Anthropic ETP listing notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "8c16cfa28b8844e65e60": {
       "source": "The Defiant",
@@ -67864,6 +67878,21 @@
           "reviewedAt": "2026-10-14T04:03:42.183Z",
           "retrySearches": [
             "Ledger CryptoBilis LTE implant statement second outlet"
+          ]
+        },
+        "307f672c572d1d5ba82a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "21Shares ETP page blocked on re-attempt; listing notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:44.160Z",
+          "retrySearches": [
+            "21Shares Anthropic ETP listing notice second outlet"
           ]
         }
       },
