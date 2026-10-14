@@ -35937,11 +35937,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2adf22d1d146bf2d1880",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:42:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin resistance framing tied to Korea tech rout; price action without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:56.798Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "172fda37fe0bc3f6c7e4": {
       "source": "CoinJournal",
@@ -66147,6 +66152,13 @@
           "note": "Overnight bitcoin bounce after liquidations; price action without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:54.902Z"
+        },
+        "2adf22d1d146bf2d1880": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin resistance framing tied to Korea tech rout; price action without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:56.798Z"
         }
       },
       "baselineSlugs": [
