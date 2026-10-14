@@ -35930,11 +35930,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "910485892bfb02e78c2b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T05:44:14.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "not-a-concrete-event",
+      "note": "Executive interview remark about arbitrage interest with no company action or announcement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:48.828Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "51bccef0feb9c5efe86c": {
       "source": "CoinDesk",
@@ -65943,6 +65948,13 @@
           "note": "Single-metric borrowing snapshot with no protocol action, vote or incident.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:46.973Z"
+        },
+        "910485892bfb02e78c2b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Executive interview remark about arbitrage interest with no company action or announcement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:48.828Z"
         }
       },
       "baselineSlugs": [
