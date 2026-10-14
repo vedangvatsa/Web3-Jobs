@@ -1294,5 +1294,36 @@
     "slotKey": "2026-10-13:evening",
     "messageId": 155751,
     "sentAt": "2026-10-13T19:40:56.438Z"
+  },
+  "5679ab9e-0b4c-4b7d-adf3-3830f8690787": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:32:36.518Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance Discontinues Mining Pool Services Effective November 10",
+        "summary": "Miners have four weeks to transfer hash power before four platform features shut down at 07:00 UTC.",
+        "link": "https://hashtagweb3.com/mining-pool?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance to shut mining pool and cloud services on Nov. 10"
+      },
+      {
+        "index": -1,
+        "headline": "Blur to close website and halt new loans November 12",
+        "summary": "The marketplace's Ethereum smart contracts will remain active onchain despite the frontend deprecation and lending shutdown.",
+        "link": "https://hashtagweb3.com/blur-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blur to retire marketplace site and end new Blend loans on Nov. 12"
+      },
+      {
+        "index": -1,
+        "headline": "Kyrgyzstan orders liquidation of USDKG and state crypto exchange",
+        "summary": "An August 20 cabinet order requires issuer EVA and Coin Nomad to liquidate, with no deadline for asset redemptions.",
+        "link": "https://hashtagweb3.com/usdkg-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kyrgyzstan winds down gold-backed USDKG and state exchange"
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon"
   }
 }
