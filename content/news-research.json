@@ -35420,11 +35420,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8609cddabb763b663863",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:48:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same IMF tokenization findings verified via the shared Unchained read. IMF chapter plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:15.578Z",
+      "retrySearches": [
+        "tokenized stocks after-hours IMF Cointelegraph confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "1ccd3ef4632ff12252fc": {
       "source": "Decrypt",
@@ -68836,6 +68850,21 @@
           "reviewedAt": "2026-10-14T04:06:13.595Z",
           "retrySearches": [
             "IMF tokenization chapter GFSR October second outlet"
+          ]
+        },
+        "8609cddabb763b663863": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same IMF tokenization findings verified via the shared Unchained read. IMF chapter plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:15.578Z",
+          "retrySearches": [
+            "tokenized stocks after-hours IMF Cointelegraph confirmation"
           ]
         }
       },
