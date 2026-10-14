@@ -1881,5 +1881,55 @@
     "slotKey": "2026-10-14:afternoon",
     "messageId": 155755,
     "sentAt": "2026-10-14T11:31:52.521Z"
+  },
+  "38e2ed75-30b3-4ba8-bb83-820d81a74409": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T19:31:51.633Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-7iIJgmckKWYczPb",
+        "slug": "encode-london-2026",
+        "name": "Encode London Hackathon",
+        "startDate": "2026-10-23T10:00:00.000Z",
+        "keys": [
+          "luma-batch-7iijgmckkwyczpb",
+          "page:encode-london-2026:2026-10-23",
+          "luma:evt-7iijgmckkwyczpb",
+          "luma-url:/encode-london-2026",
+          "event:encodelondonhackathon:2026-10-23:london"
+        ]
+      },
+      {
+        "id": "luma-batch-evtPICyDbNudDA4Z",
+        "slug": "bitcoin-indonesia-jakarta-meetup",
+        "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
+        "startDate": "2026-10-24T06:00:00.000Z",
+        "keys": [
+          "luma-batch-evtpicydbnudda4z",
+          "fan9g1ft",
+          "page:bitcoin-indonesia-jakarta-meetup:2026-10-24",
+          "luma:evt-picydbnudda4zpp",
+          "luma-url:/fan9g1ft",
+          "event:bitcoinindonesiacommunitymeetupjakarta24oktober2026:2026-10-24:jakarta"
+        ]
+      },
+      {
+        "id": "w3v-xrp-ledger-hackathon",
+        "slug": "ai-fintech-xrpl-hackathon",
+        "name": "AI & Fintech XRPL Hackathon in New York",
+        "startDate": "2026-10-24T12:30:00.000Z",
+        "keys": [
+          "w3v-xrp-ledger-hackathon",
+          "xlh",
+          "page:ai-fintech-xrpl-hackathon:2026-10-24",
+          "luma:evt-dr9uvui98wow8fm",
+          "luma-url:/xrpl-hackathon-nyc",
+          "event:aifintechxrplhackathoninnewyork:2026-10-24:new york"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-14:evening"
   }
 }
