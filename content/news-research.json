@@ -33876,23 +33876,23 @@
       "id": "b79bc73272489ac6eb11",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T09:44:57.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+      "note": "Read the Unchained piece; Monday joint announcement with 30M backing and 1-to-1 conversion but no date. Foundation release plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:57.713Z",
+      "reviewedAt": "2026-10-14T04:06:05.723Z",
       "retrySearches": [
-        "Story DATA Sui migration 30M October 2026 announcement"
+        "Story DATA Sui migration foundation release second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "3a7cb162052538f78921": {
       "source": "Cointelegraph",
@@ -68791,6 +68791,21 @@
           "reviewedAt": "2026-10-14T04:05:59.636Z",
           "retrySearches": [
             "Prince Group penthouse freeze Times court record second outlet"
+          ]
+        },
+        "b79bc73272489ac6eb11": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; Monday joint announcement with 30M backing and 1-to-1 conversion but no date. Foundation release plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:05.723Z",
+          "retrySearches": [
+            "Story DATA Sui migration foundation release second outlet"
           ]
         }
       },
