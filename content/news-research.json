@@ -35963,11 +35963,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "172fda37fe0bc3f6c7e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:02:27.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "XRP derivatives-and-resistance price framing; technical analysis without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:58.727Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "460dec54494e0d9e69e2": {
       "source": "CoinDesk",
@@ -66159,6 +66164,13 @@
           "note": "Bitcoin resistance framing tied to Korea tech rout; price action without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:56.798Z"
+        },
+        "172fda37fe0bc3f6c7e4": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP derivatives-and-resistance price framing; technical analysis without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:58.727Z"
         }
       },
       "baselineSlugs": [
