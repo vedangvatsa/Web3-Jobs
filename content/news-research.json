@@ -33939,23 +33939,23 @@
       "id": "6b008f7d37ed7a0f2fd8",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T09:38:07.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "IMF tokenized-equity finding, not opened; needs IMF paper and a second outlet.",
+      "note": "Read the Unchained piece; it cites the Oct 8 GFSR tokenization chapter with market figures. IMF chapter plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:52.108Z",
+      "reviewedAt": "2026-10-14T04:06:13.595Z",
       "retrySearches": [
-        "IMF tokenized equity after-hours trading October 2026 report"
+        "IMF tokenization chapter GFSR October second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "063a6ba8b9ce7356498e": {
       "source": "Cointelegraph",
@@ -68821,6 +68821,21 @@
           "reviewedAt": "2026-10-14T04:06:07.680Z",
           "retrySearches": [
             "DATA Network Sui migration Cointelegraph confirmation"
+          ]
+        },
+        "6b008f7d37ed7a0f2fd8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; it cites the Oct 8 GFSR tokenization chapter with market figures. IMF chapter plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:13.595Z",
+          "retrySearches": [
+            "IMF tokenization chapter GFSR October second outlet"
           ]
         }
       },
