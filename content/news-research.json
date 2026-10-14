@@ -33819,23 +33819,23 @@
       "id": "85946a7753b3499f3528",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T10:10:13.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Single-source plan lead, not opened; needs Morgan Stanley statement and a second outlet.",
+      "reason": "source-blocked",
+      "note": "Morgan Stanley page blocked on re-attempt; strategy confirmation and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:10.415Z",
+      "reviewedAt": "2026-10-14T04:04:14.830Z",
       "retrySearches": [
-        "Morgan Stanley tokenized equities Q1 2027 October 2026"
+        "Morgan Stanley tokenized equities 2027 confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "888307f1751b41e3bbff": {
       "source": "Unchained",
@@ -68212,6 +68212,21 @@
           "reviewedAt": "2026-10-14T04:04:12.927Z",
           "retrySearches": [
             "Zest aeUSDC exit deadline notice second outlet"
+          ]
+        },
+        "85946a7753b3499f3528": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Morgan Stanley page blocked on re-attempt; strategy confirmation and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:14.830Z",
+          "retrySearches": [
+            "Morgan Stanley tokenized equities 2027 confirmation second outlet"
           ]
         }
       },
