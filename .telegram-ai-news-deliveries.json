@@ -1310,5 +1310,38 @@
     "slotKey": "2026-10-13:evening",
     "messageId": 193344,
     "sentAt": "2026-10-13T19:41:53.794Z"
+  },
+  "a90121fa-f904-499e-a92c-92c70adba2dc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:34:23.229Z",
+    "stories": [
+      {
+        "index": 9,
+        "original_title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "headline": "Pluto Security secures $42 million for AI enterprise protection",
+        "summary": "The funding will support tools designed to identify and close security vulnerabilities created by widespread corporate AI adoption.",
+        "event_rationale": "This is a significant funding round for a company addressing the specific security risks associated with enterprise AI implementation.",
+        "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+        "source": "TechCrunch",
+        "originalTitle": "Pluto Security raises $42M as AI gives enterprise security teams a new headache"
+      },
+      {
+        "index": 2,
+        "headline": "Scimplify raises $25 million for AI-driven material sourcing",
+        "summary": "Annual revenue tripled to $200 million as the company plans to enter the United States market.",
+        "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "source": "TechCrunch",
+        "originalTitle": "Scimplify raises $25M to challenge China’s grip on critical materials with AI"
+      },
+      {
+        "index": 3,
+        "headline": "US military develops synthetic blood for battlefield medical use",
+        "summary": "This project creates artificial blood to treat wounded soldiers during emergency evacuations in active combat zones.",
+        "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The US military’s race to make fake blood"
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon"
   }
 }
