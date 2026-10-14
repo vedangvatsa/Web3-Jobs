@@ -35744,11 +35744,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a575977074efe3e21eaa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:26:45.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "STX four-week price surge; price move without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:17.562Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "ee343bfd761fbbbcc2e5": {
       "source": "Cointelegraph",
@@ -66087,6 +66092,13 @@
           "note": "Morning market roundup on Uptober price action; digest without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:15.628Z"
+        },
+        "a575977074efe3e21eaa": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "STX four-week price surge; price move without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:17.562Z"
         }
       },
       "baselineSlugs": [
