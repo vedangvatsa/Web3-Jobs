@@ -1395,7 +1395,7 @@
     "sentAt": "2026-10-14T11:34:09.282Z"
   },
   "e36b35c2-e7b3-45a0-bf33-b4b8334ffcae": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T19:33:41.038Z",
     "stories": [
       {
@@ -1423,6 +1423,8 @@
         "originalTitle": "US government moves $1B in seized Bitfinex bitcoin to unlabeled wallets"
       }
     ],
-    "slotKey": "2026-10-14:evening"
+    "slotKey": "2026-10-14:evening",
+    "messageId": 65750,
+    "sentAt": "2026-10-14T19:33:43.769Z"
   }
 }
