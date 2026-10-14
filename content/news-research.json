@@ -36212,11 +36212,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca8b1ba703adf7a16045",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T03:05:38.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "China export and AI shipment data; macro trade story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:05.606Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "aa43dde52c711bf386df": {
       "source": "Crypto Briefing",
@@ -66291,6 +66296,13 @@
           "note": "PlayStation crack for GTA on PC; gaming story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:03.655Z"
+        },
+        "ca8b1ba703adf7a16045": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "China export and AI shipment data; macro trade story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:05.606Z"
         }
       },
       "baselineSlugs": [
