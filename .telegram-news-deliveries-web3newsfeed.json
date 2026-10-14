@@ -1329,7 +1329,7 @@
     "sentAt": "2026-10-13T19:42:20.885Z"
   },
   "74063b22-0213-450b-b841-92e8dcea839a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-14T04:29:38.535Z",
     "stories": [
       {
@@ -1357,6 +1357,8 @@
         "originalTitle": "Kyrgyzstan winds down gold-backed USDKG and state exchange"
       }
     ],
-    "slotKey": "2026-10-14:morning"
+    "slotKey": "2026-10-14:morning",
+    "messageId": 65748,
+    "sentAt": "2026-10-14T04:29:41.561Z"
   }
 }

@@ -752,6 +752,9 @@
   "https://hashtagweb3.com/sui-data?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thailand-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/uk-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mining-pool?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/blur-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/usdkg-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2158,6 +2161,12 @@
   "Thailand finalizes bitcoin and ether ETF rules effective Oct. 16",
   "UK Sanctions Crypto Exchanges Linked to Russia",
   "UK sanctions crypto exchanges Cryptomus, Heleket and TokenSpot over Russia links",
+  "Binance to shut down mining pool and cloud services",
+  "Binance to shut mining pool and cloud services on Nov. 10",
+  "Blur to shut down website and end new loans",
+  "Blur to retire marketplace site and end new Blend loans on Nov. 12",
+  "Kyrgyzstan liquidates gold-backed USDKG and state crypto exchange",
+  "Kyrgyzstan winds down gold-backed USDKG and state exchange",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2439,5 +2448,8 @@
   "fp:activat|block|capacity|complet|doubl|epoch1053|final200|four|millisecond|network",
   "fp:30m|blockchain|chain|data|foundation|invest|migration|network|protocol|rebuild",
   "fp:access|allow|approv|domestic|effectiv|etf|ether|finaliz|foreign|investment",
-  "fp:allegedly|britain|bypass|cryptomus|entity|exchang|financial|heleket|help|includ"
+  "fp:allegedly|britain|bypass|cryptomus|entity|exchang|financial|heleket|help|includ",
+  "fp:binanc|cloud|down|four|hashrat|min|mov|must|nov10|november10",
+  "fp:activ|blend|blur|contract|disabl|down|end|frontend|lend|loan",
+  "fp:back|clear|closur|deadlin|down|exchang|gold|government|holder|issuer"
 ]
