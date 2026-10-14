@@ -36931,11 +36931,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cf32ec891375e6ff1af",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:10:27.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Corporate-credit outlook commentary; fixed-income story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:52.537Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "1ce9c0c2fa546bdee93c": {
       "source": "Crypto Briefing",
@@ -66543,6 +66548,13 @@
           "note": "US power-grid strain measures; utilities story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:47.188Z"
+        },
+        "7cf32ec891375e6ff1af": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Corporate-credit outlook commentary; fixed-income story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:52.537Z"
         }
       },
       "baselineSlugs": [
