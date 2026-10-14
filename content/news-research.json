@@ -37122,11 +37122,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c79b72b80cc7d84c2d5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:29:33.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Trading-data analysis of Kalshi parlays; desk analysis without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:54:12.988Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "736c8d3fd859b09ef551": {
       "source": "The Defiant",
@@ -66243,6 +66248,13 @@
           "note": "Fund-manager quote calling a crypto spring; prediction without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:54:10.937Z"
+        },
+        "6c79b72b80cc7d84c2d5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Trading-data analysis of Kalshi parlays; desk analysis without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:54:12.988Z"
         }
       },
       "baselineSlugs": [
