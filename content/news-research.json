@@ -34372,11 +34372,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95eaa4ee08fc8ad19e2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:24:14.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "IBKR staking page blocked on re-attempt; IBKR or Zerohash notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:04.653Z",
+      "retrySearches": [
+        "Interactive Brokers Zerohash staking notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "a8daa03f3187bc9203a4": {
       "source": "The Defiant",
@@ -67427,6 +67441,21 @@
             }
           ],
           "reviewedAt": "2026-10-14T04:03:02.725Z",
+          "retrySearches": [
+            "Interactive Brokers Zerohash staking notice second outlet"
+          ]
+        },
+        "d95eaa4ee08fc8ad19e2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "IBKR staking page blocked on re-attempt; IBKR or Zerohash notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:04.653Z",
           "retrySearches": [
             "Interactive Brokers Zerohash staking notice second outlet"
           ]
