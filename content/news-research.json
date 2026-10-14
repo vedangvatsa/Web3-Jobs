@@ -37988,11 +37988,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "065448ab6592e1688b95",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:14:50.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:00.889Z",
+      "retrySearches": [
+        "Trezor resellers cut Ledger implant Decrypt confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "9d966e2b82129fb8feb6": {
       "source": "Bitcoin Magazine",
@@ -68416,6 +68430,21 @@
           "reviewedAt": "2026-10-14T04:04:58.645Z",
           "retrySearches": [
             "Trezor reseller cut preventive announcement second outlet"
+          ]
+        },
+        "065448ab6592e1688b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:00.889Z",
+          "retrySearches": [
+            "Trezor resellers cut Ledger implant Decrypt confirmation"
           ]
         }
       },
