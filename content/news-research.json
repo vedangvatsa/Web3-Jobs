@@ -35572,11 +35572,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "5db0583be2447982611a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T12:32:38.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool; Unchained confirms cutoff and Nov 24 record window.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/binance-closes-its-mining-pool-and-cloud-mining-gives-miners-four-weeks-to-move-hashrate/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:28.614Z",
+      "duplicateOf": "mining-pool",
+      "mergedInto": "1dd7447d1a97a73276c7",
+      "lastReviewedDay": "2026-10-14"
     },
     "a01de3e150be2ec5625a": {
       "source": "The Block",
@@ -65544,6 +65556,20 @@
           ],
           "reviewedAt": "2026-10-14T03:45:23.263Z",
           "articleSlug": "sberbank-crypto"
+        },
+        "5db0583be2447982611a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool; Unchained confirms cutoff and Nov 24 record window.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binance-closes-its-mining-pool-and-cloud-mining-gives-miners-four-weeks-to-move-hashrate/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:28.614Z",
+          "duplicateOf": "mining-pool",
+          "mergedInto": "1dd7447d1a97a73276c7"
         }
       },
       "baselineSlugs": [
