@@ -36705,11 +36705,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8368331cd113dec88465",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T01:00:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same BSP scrutiny verified via the shared CryptoBriefing read. BSP statement plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:39.610Z",
+      "retrySearches": [
+        "Coins.ph central bank action CoinDesk confirmation BSP statement"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "9e609fcefdc5312a8997": {
       "source": "Crypto Briefing",
@@ -68300,6 +68314,21 @@
           "reviewedAt": "2026-10-14T04:04:37.606Z",
           "retrySearches": [
             "Coins.ph BSP deposit restrictions statement second outlet"
+          ]
+        },
+        "8368331cd113dec88465": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same BSP scrutiny verified via the shared CryptoBriefing read. BSP statement plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:39.610Z",
+          "retrySearches": [
+            "Coins.ph central bank action CoinDesk confirmation BSP statement"
           ]
         }
       },
