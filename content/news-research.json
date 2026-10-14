@@ -38184,11 +38184,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0871965a45abb9720683",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:52:09.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; Tuesday launch on MegaETH with 2027-expiry AI futures confirmed. MNX announcement plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:38.158Z",
+      "retrySearches": [
+        "MNX exchange launch pre-IPO futures announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "65e1bdb7fc61aadaa055": {
       "source": "CoinDesk",
@@ -68989,6 +69003,21 @@
           "reviewedAt": "2026-10-14T04:06:32.043Z",
           "retrySearches": [
             "BNY Citadel tokenized Treasuries transaction notice second outlet"
+          ]
+        },
+        "0871965a45abb9720683": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Tuesday launch on MegaETH with 2027-expiry AI futures confirmed. MNX announcement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:38.158Z",
+          "retrySearches": [
+            "MNX exchange launch pre-IPO futures announcement second outlet"
           ]
         }
       },
