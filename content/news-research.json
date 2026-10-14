@@ -35655,11 +35655,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9d594b5b8aead0cb9976",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:24:43.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Video interview on bitcoin-AI convergence and freedom; commentary without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:20.280Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "7ea3a45e4d839c9f0ad6": {
       "source": "Bitcoin Magazine",
@@ -66687,6 +66692,13 @@
           "note": "Magazine essay questioning the Lightning Network; analysis without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:14.925Z"
+        },
+        "9d594b5b8aead0cb9976": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Video interview on bitcoin-AI convergence and freedom; commentary without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:20.280Z"
         }
       },
       "baselineSlugs": [
