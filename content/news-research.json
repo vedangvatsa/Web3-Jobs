@@ -37722,11 +37722,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "23ad72f79904c21dd430",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:44:38.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Mezo deadline page blocked on re-attempt; Mezo notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:26.583Z",
+      "retrySearches": [
+        "Mezo bridge-out deadline notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "60a23d774c9b8a0228af": {
       "source": "Bankless",
@@ -67690,6 +67704,21 @@
           "reviewedAt": "2026-10-14T04:03:24.598Z",
           "retrySearches": [
             "DRW Marex Canton swap confirmation second outlet"
+          ]
+        },
+        "23ad72f79904c21dd430": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Mezo deadline page blocked on re-attempt; Mezo notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:26.583Z",
+          "retrySearches": [
+            "Mezo bridge-out deadline notice second outlet"
           ]
         }
       },
