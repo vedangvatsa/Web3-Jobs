@@ -27779,23 +27779,23 @@
       "id": "857882264314889f7a96",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T17:00:04.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Prior-round CryptoSlate read retained; Kraken docs and second outlet still missing.",
+      "note": "Kraken docs confirm the hold behavior as designed, but the only second outlet is a same-timestamp mirror, so independent corroboration is still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:08.121Z",
+      "reviewedAt": "2026-10-14T03:56:41.622Z",
       "retrySearches": [
-        "Kraken Maker Protection IOC cancel docs second outlet"
+        "Kraken Maker Protection held-order fill independent coverage beyond CryptoSlate"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "eb5b2058d518c1d8e3a9": {
       "source": "Crypto Briefing",
@@ -66795,6 +66795,21 @@
           "note": "Company-reported monthly pack-sales milestone with no independent outlet; promotion without corroboration.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:35.566Z"
+        },
+        "857882264314889f7a96": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kraken docs confirm the hold behavior as designed, but the only second outlet is a same-timestamp mirror, so independent corroboration is still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:56:41.622Z",
+          "retrySearches": [
+            "Kraken Maker Protection held-order fill independent coverage beyond CryptoSlate"
+          ]
         }
       },
       "baselineSlugs": [
