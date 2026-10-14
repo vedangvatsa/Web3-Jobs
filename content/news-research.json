@@ -37988,11 +37988,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e4d122aa059fcbbe1765",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:10:56.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Zest deadline page blocked on re-attempt; Zest notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:12.927Z",
+      "retrySearches": [
+        "Zest aeUSDC exit deadline notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "7534ed35e0a52842c3d3": {
       "source": "The Block",
@@ -68183,6 +68197,21 @@
           "reviewedAt": "2026-10-14T04:04:10.974Z",
           "retrySearches": [
             "DOJ laptop farm arrests release second outlet"
+          ]
+        },
+        "e4d122aa059fcbbe1765": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Zest deadline page blocked on re-attempt; Zest notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:12.927Z",
+          "retrySearches": [
+            "Zest aeUSDC exit deadline notice second outlet"
           ]
         }
       },
