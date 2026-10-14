@@ -35103,11 +35103,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "88a956aebd85b727440a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:49:34.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Coinbase quantum page blocked on re-attempt; Coinbase research post and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:18.738Z",
+      "retrySearches": [
+        "Coinbase post-quantum Bitcoin migration post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "81dcb981dd533acbac1c": {
       "source": "BeInCrypto",
@@ -67574,6 +67588,21 @@
           "reviewedAt": "2026-10-14T04:03:16.868Z",
           "retrySearches": [
             "Autheo THEO bridge exploit forensics second outlet"
+          ]
+        },
+        "88a956aebd85b727440a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Coinbase quantum page blocked on re-attempt; Coinbase research post and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:18.738Z",
+          "retrySearches": [
+            "Coinbase post-quantum Bitcoin migration post second outlet"
           ]
         }
       },
