@@ -35929,11 +35929,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfd0115f76a3957df4e5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T04:43:18.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "verified-event",
+      "note": "Blur Oct 12 X post retires blur.io frontend Nov 12, protocol stays onchain, Blend stops new loans; verified volume collapse and Blast context across three outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/nft-marketplace-blur-is-retiring-blur-io-on-nov-12-keeping-its-contracts-live-onchain/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:21.241Z",
+      "articleSlug": "blur-shutdown",
+      "lastReviewedDay": "2026-10-14"
     },
     "4b4cf48603ae00e990ff": {
       "source": "The Block",
@@ -65464,6 +65483,27 @@
           ],
           "reviewedAt": "2026-10-14T03:45:15.494Z",
           "articleSlug": "mining-pool"
+        },
+        "cfd0115f76a3957df4e5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Blur Oct 12 X post retires blur.io frontend Nov 12, protocol stays onchain, Blend stops new loans; verified volume collapse and Blast context across three outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/nft-marketplace-blur-is-retiring-blur-io-on-nov-12-keeping-its-contracts-live-onchain/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:21.241Z",
+          "articleSlug": "blur-shutdown"
         }
       },
       "baselineSlugs": [
