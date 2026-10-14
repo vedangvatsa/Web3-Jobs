@@ -35429,11 +35429,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e9c496540e60b15daae5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:48:14.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Strive accumulation arc covered by strive-bitcoin, which reports 32,773 BTC after crossing 30,000.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:18.270Z",
+      "duplicateOf": "strive-bitcoin",
+      "mergedInto": "e611ef9e08fc6de725a6",
+      "lastReviewedDay": "2026-10-14"
     },
     "5369735ed5a908233271": {
       "source": "Cointelegraph",
@@ -65869,6 +65876,15 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:16.301Z",
           "duplicateOf": "kraken-dubai"
+        },
+        "e9c496540e60b15daae5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strive accumulation arc covered by strive-bitcoin, which reports 32,773 BTC after crossing 30,000.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:18.270Z",
+          "duplicateOf": "strive-bitcoin",
+          "mergedInto": "e611ef9e08fc6de725a6"
         }
       },
       "baselineSlugs": [
