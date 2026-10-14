@@ -36358,11 +36358,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e4154b900067a006285",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:04:14.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "On-device AI scam-fighting tool; consumer AI story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:13.187Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "3c31729b59ed3869a5d1": {
       "source": "Crypto Briefing",
@@ -66339,6 +66344,13 @@
           "note": "Server-hardware showcase for AI factories; hardware story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:11.313Z"
+        },
+        "0e4154b900067a006285": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "On-device AI scam-fighting tool; consumer AI story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:13.187Z"
         }
       },
       "baselineSlugs": [
