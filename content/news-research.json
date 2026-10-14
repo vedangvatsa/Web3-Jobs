@@ -36832,11 +36832,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "de5f40445ff07b730d41",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:38:57.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Picture-company bankruptcy postmortem; media story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:45.269Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "b897659e51be24233812": {
       "source": "Crypto Briefing",
@@ -66519,6 +66524,13 @@
           "note": "Tesla Roadster reveal market speculation; auto-equity story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:43.403Z"
+        },
+        "de5f40445ff07b730d41": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Picture-company bankruptcy postmortem; media story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:45.269Z"
         }
       },
       "baselineSlugs": [
