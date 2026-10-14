@@ -37473,11 +37473,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8514cb5e27de78e73859",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:31:16.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "DOJ laptop-farm page blocked on re-attempt; DOJ release and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:10.974Z",
+      "retrySearches": [
+        "DOJ laptop farm arrests release second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "6c79b72b80cc7d84c2d5": {
       "source": "The Defiant",
@@ -68154,6 +68168,21 @@
           "reviewedAt": "2026-10-14T04:04:09.138Z",
           "retrySearches": [
             "Ledger reseller halt statement second outlet"
+          ]
+        },
+        "8514cb5e27de78e73859": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DOJ laptop-farm page blocked on re-attempt; DOJ release and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:10.974Z",
+          "retrySearches": [
+            "DOJ laptop farm arrests release second outlet"
           ]
         }
       },
