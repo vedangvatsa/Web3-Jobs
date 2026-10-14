@@ -32961,23 +32961,23 @@
       "id": "753a46e93684238dc519",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T17:19:33.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single Bitcoin Magazine lead, not opened; Oct 12 follow-up after ledger-implant needs pairing with second outlet.",
+      "note": "Read the Bitcoin Magazine piece; it tracks the Friday probe through the Sunday limited-devices update with the 6M figure unconfirmed. Loss confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:23.473Z",
+      "reviewedAt": "2026-10-14T04:01:26.169Z",
       "retrySearches": [
-        "Ledger CryptoBilis implant investigation October 12 second outlet"
+        "Ledger CryptoBilis implant investigation loss confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "3b1b1dda1f03dccb42a6": {
       "source": "BeInCrypto",
@@ -67145,6 +67145,21 @@
           "reviewedAt": "2026-10-14T04:01:19.688Z",
           "retrySearches": [
             "Kalshi CBS News prediction market sponsor notice second outlet"
+          ]
+        },
+        "753a46e93684238dc519": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bitcoin Magazine piece; it tracks the Friday probe through the Sunday limited-devices update with the 6M figure unconfirmed. Loss confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:26.169Z",
+          "retrySearches": [
+            "Ledger CryptoBilis implant investigation loss confirmation second outlet"
           ]
         }
       },
