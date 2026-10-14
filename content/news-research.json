@@ -37635,11 +37635,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d3c0090d7e70994eae11",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T18:40:46.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Avalanche KSD page blocked on re-attempt; Avalanche notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/avalanche-highlights-ksd-links-ahead-of-korea-s-2027-tokenization-rollout",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:01.448Z",
+      "retrySearches": [
+        "Avalanche KSD Korea tokenization notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "6ff9c255b8b9379666ca": {
       "source": "Decrypt",
@@ -68009,6 +68023,21 @@
           "reviewedAt": "2026-10-14T04:03:52.495Z",
           "retrySearches": [
             "Base Earn Borrow Aave Morpho notice second outlet"
+          ]
+        },
+        "d3c0090d7e70994eae11": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Avalanche KSD page blocked on re-attempt; Avalanche notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/avalanche-highlights-ksd-links-ahead-of-korea-s-2027-tokenization-rollout",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:01.448Z",
+          "retrySearches": [
+            "Avalanche KSD Korea tokenization notice second outlet"
           ]
         }
       },
