@@ -36681,11 +36681,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "804438d101e4c015ea8e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T23:26:46.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Open-weight AI model release for laptops; AI product story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:35.751Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "58fa62828a23662dcb37": {
       "source": "CryptoSlate",
@@ -66459,6 +66464,13 @@
           "note": "Chip-equipment plant opening; semiconductor story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:33.915Z"
+        },
+        "804438d101e4c015ea8e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Open-weight AI model release for laptops; AI product story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:35.751Z"
         }
       },
       "baselineSlugs": [
