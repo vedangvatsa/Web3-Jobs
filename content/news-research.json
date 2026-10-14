@@ -37455,11 +37455,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4846e1769d326840b086",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T17:14:17.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Copper-price outlook; commodities story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:05.048Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "8ac2d2e38d613a67ac19": {
       "source": "The Defiant",
@@ -66615,6 +66620,13 @@
           "note": "Provocative executive health claim at an event; stunt story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:03.062Z"
+        },
+        "4846e1769d326840b086": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Copper-price outlook; commodities story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:05.048Z"
         }
       },
       "baselineSlugs": [
