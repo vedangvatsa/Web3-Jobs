@@ -36630,11 +36630,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f89115770f5a301a3fdd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T02:50:59.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; an exploratory staged partnership with no live deployment. Ripple or Meritz notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:42.547Z",
+      "retrySearches": [
+        "Ripple Meritz Securities partnership notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "bf32da252a4b29aaac0a": {
       "source": "Crypto Briefing",
@@ -69308,6 +69322,21 @@
           "reviewedAt": "2026-10-14T04:07:37.584Z",
           "retrySearches": [
             "quantum-safe bitcoin cost challenge StarkWare second outlet"
+          ]
+        },
+        "f89115770f5a301a3fdd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; an exploratory staged partnership with no live deployment. Ripple or Meritz notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:42.547Z",
+          "retrySearches": [
+            "Ripple Meritz Securities partnership notice second outlet"
           ]
         }
       },
