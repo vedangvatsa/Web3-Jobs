@@ -34743,11 +34743,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6b572352d87c446080ff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:19:11.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "not-a-concrete-event",
+      "note": "Polymarket equity-versus-token deliberation with no decision, filing or announcement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:39.206Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "68487a71ed8583c45d2a": {
       "source": "Crypto Briefing",
@@ -65883,6 +65888,13 @@
           "note": "Starknet L1 discussion is deliberation without a proposal, vote, date or decision; Starknet itself calls it a question not a decision.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:37.209Z"
+        },
+        "6b572352d87c446080ff": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Polymarket equity-versus-token deliberation with no decision, filing or announcement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:39.206Z"
         }
       },
       "baselineSlugs": [
