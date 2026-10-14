@@ -37399,11 +37399,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c6e4972c0a7ed67a1242",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:52:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; Tuesday tokenized-Treasuries transaction with executive quotes confirmed. BNY or Citadel notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:32.043Z",
+      "retrySearches": [
+        "BNY Citadel tokenized Treasuries transaction notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "92accb5e69d70a640573": {
       "source": "CryptoSlate",
@@ -68960,6 +68974,21 @@
           "reviewedAt": "2026-10-14T04:06:26.919Z",
           "retrySearches": [
             "Metaplanet bond sale disclosure readable second outlet"
+          ]
+        },
+        "c6e4972c0a7ed67a1242": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Tuesday tokenized-Treasuries transaction with executive quotes confirmed. BNY or Citadel notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:32.043Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasuries transaction notice second outlet"
           ]
         }
       },
