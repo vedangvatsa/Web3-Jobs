@@ -30000,23 +30000,23 @@
       "id": "64a6552d852b8ff875c5",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T22:10:39.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single Bitcoin Magazine lead, not opened; needs exchange notice plus TASS or Interfax confirmation.",
+      "note": "Read the Bitcoin Magazine piece; it cites an Interfax report with executive quotes on December trading and testing. Interfax or TASS confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:34.017Z",
+      "reviewedAt": "2026-10-14T03:59:44.112Z",
       "retrySearches": [
-        "Moscow Exchange bitcoin trading TASS Interfax confirmation"
+        "Moscow Exchange bitcoin trading December Interfax Blokhin second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "2657e8aba9ce51348c51": {
       "source": "Crypto Briefing",
@@ -66839,6 +66839,21 @@
           "reviewedAt": "2026-10-14T03:59:38.766Z",
           "retrySearches": [
             "Aave PT-USDG X Layer rollover proposal forum LlamaRisk second outlet"
+          ]
+        },
+        "64a6552d852b8ff875c5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bitcoin Magazine piece; it cites an Interfax report with executive quotes on December trading and testing. Interfax or TASS confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:59:44.112Z",
+          "retrySearches": [
+            "Moscow Exchange bitcoin trading December Interfax Blokhin second outlet"
           ]
         }
       },
