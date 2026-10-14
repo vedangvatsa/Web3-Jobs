@@ -29543,27 +29543,23 @@
       "id": "efaa00468953018501e3",
       "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T22:00:06.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Prior-round CryptoSlate and TokenPost reads retained; Uniswap primary announcement still missing.",
+      "note": "Read the CryptoSlate analysis; Oct 9 Uniswap plan with Oct 13 testnet and Oct 29 mainnet dates confirmed. Uniswap primary plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/technology/29113",
+          "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:20.925Z",
+      "reviewedAt": "2026-10-14T04:05:44.516Z",
       "retrySearches": [
-        "Uniswap Unichain OP Enterprise October 29 primary announcement"
+        "Unichain OP Enterprise migration Uniswap primary second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "b3351246d9902cfb1adb": {
       "source": "BeInCrypto",
@@ -68706,6 +68702,21 @@
           "reviewedAt": "2026-10-14T04:05:24.159Z",
           "retrySearches": [
             "Ledger resellers halt sales Asia statement second outlet"
+          ]
+        },
+        "efaa00468953018501e3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate analysis; Oct 9 Uniswap plan with Oct 13 testnet and Oct 29 mainnet dates confirmed. Uniswap primary plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:44.516Z",
+          "retrySearches": [
+            "Unichain OP Enterprise migration Uniswap primary second outlet"
           ]
         }
       },
