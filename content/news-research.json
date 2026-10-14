@@ -34789,11 +34789,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "68487a71ed8583c45d2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:04:23.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "SoftBank junk-bond sale for AI bets; credit-market story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:26.499Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "60379db62514ce4429a7": {
       "source": "The Defiant",
@@ -66399,6 +66404,13 @@
           "note": "Healthcare selloff and pharma analysis; equities story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:20.729Z"
+        },
+        "68487a71ed8583c45d2a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "SoftBank junk-bond sale for AI bets; credit-market story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:26.499Z"
         }
       },
       "baselineSlugs": [
