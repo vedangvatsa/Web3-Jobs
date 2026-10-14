@@ -36041,11 +36041,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "51bccef0feb9c5efe86c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T05:27:17.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Tokenized-stock liquidation tally amid chip rout; liquidation commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:54:00.721Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "485248b5bd821132d34b": {
       "source": "Cointelegraph",
@@ -66171,6 +66176,13 @@
           "note": "XRP derivatives-and-resistance price framing; technical analysis without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:58.727Z"
+        },
+        "51bccef0feb9c5efe86c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Tokenized-stock liquidation tally amid chip rout; liquidation commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:54:00.721Z"
         }
       },
       "baselineSlugs": [
