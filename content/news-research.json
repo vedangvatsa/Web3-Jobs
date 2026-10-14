@@ -36773,11 +36773,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b897659e51be24233812",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:13:52.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Same OpenAI acquisition talks framed via audit clients; tech M and A with no web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:09.358Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "4668fb2a8bd9b1959f26": {
       "source": "Crypto Briefing",
@@ -66315,6 +66320,13 @@
           "note": "OpenAI acquisition talks for a security firm; tech M and A with no web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:07.479Z"
+        },
+        "b897659e51be24233812": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Same OpenAI acquisition talks framed via audit clients; tech M and A with no web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:09.358Z"
         }
       },
       "baselineSlugs": [
