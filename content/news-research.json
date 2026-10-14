@@ -35904,11 +35904,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "460dec54494e0d9e69e2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T05:45:10.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "not-a-concrete-event",
+      "note": "Same unattributed 2020-era whale movement as companion leads; onchain transfer is not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:43.072Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "910485892bfb02e78c2b": {
       "source": "The Block",
@@ -65907,6 +65912,13 @@
           "note": "Unattributed whale wallet movement with no identified actor or event behind the transfer.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:41.074Z"
+        },
+        "460dec54494e0d9e69e2": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Same unattributed 2020-era whale movement as companion leads; onchain transfer is not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:43.072Z"
         }
       },
       "baselineSlugs": [
