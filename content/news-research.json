@@ -34706,11 +34706,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "307732c174c9b627cb3c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T09:15:44.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Dogecoin price rebound framed by ETF outflows; price action without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:59.417Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "79003a0ed35caac2fb63": {
       "source": "Crypto Briefing",
@@ -65979,6 +65984,13 @@
           "note": "ETF-flow sentiment framing around ether with no protocol, company or regulatory event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:57.489Z"
+        },
+        "307732c174c9b627cb3c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Dogecoin price rebound framed by ETF outflows; price action without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:59.417Z"
         }
       },
       "baselineSlugs": [
