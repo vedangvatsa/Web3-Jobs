@@ -36436,11 +36436,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7432e415340eb26c52f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T01:28:53.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Market commentator AI-bubble timeline to 2033; prediction with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:18.885Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "129d39b0b876d5dd0a98": {
       "source": "BeInCrypto",
@@ -66375,6 +66380,13 @@
           "note": "Venture comment calling banks AI stocks; equities commentary with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:16.947Z"
+        },
+        "7432e415340eb26c52f5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Market commentator AI-bubble timeline to 2033; prediction with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:18.885Z"
         }
       },
       "baselineSlugs": [
