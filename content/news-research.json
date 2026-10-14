@@ -37967,11 +37967,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfe13c0851acf96b67b8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T14:42:17.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Shadow Accounts page blocked on re-attempt; StarkWare post and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:28.630Z",
+      "retrySearches": [
+        "StarkWare Shadow Accounts post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "e82697af4587b73e3be8": {
       "source": "BeInCrypto",
@@ -67719,6 +67733,21 @@
           "reviewedAt": "2026-10-14T04:03:26.583Z",
           "retrySearches": [
             "Mezo bridge-out deadline notice second outlet"
+          ]
+        },
+        "cfe13c0851acf96b67b8": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Shadow Accounts page blocked on re-attempt; StarkWare post and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:28.630Z",
+          "retrySearches": [
+            "StarkWare Shadow Accounts post second outlet"
           ]
         }
       },
