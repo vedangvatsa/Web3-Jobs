@@ -38590,11 +38590,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c16cfa28b8844e65e60",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T06:59:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "A7 payments page blocked on re-attempt; A7 notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:46.198Z",
+      "retrySearches": [
+        "A7 USDT SWIFT service notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "9fffb4e8aa87cd8b09f0": {
       "source": "The Defiant",
@@ -67893,6 +67907,21 @@
           "reviewedAt": "2026-10-14T04:03:44.160Z",
           "retrySearches": [
             "21Shares Anthropic ETP listing notice second outlet"
+          ]
+        },
+        "8c16cfa28b8844e65e60": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "A7 payments page blocked on re-attempt; A7 notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:46.198Z",
+          "retrySearches": [
+            "A7 USDT SWIFT service notice second outlet"
           ]
         }
       },
