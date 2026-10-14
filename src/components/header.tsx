@@ -127,7 +127,7 @@ export function Header() {
         </nav>
 
         <div className="flex shrink-0 items-center justify-end justify-self-end gap-2">
-          <div className="flex shrink-0 items-center" data-header-action-slot>
+          <div className="flex h-11 w-36 shrink-0 items-center" data-header-action-slot>
             <PostNavCta />
           </div>
           <div className="lg:hidden">

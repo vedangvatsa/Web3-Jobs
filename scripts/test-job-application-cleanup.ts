@@ -48,8 +48,12 @@ async function main() {
   const liveBybit = runtime.find(job => job.link === bybitLink);
   assert.equal((await resolveJobSlug('product578')).job?.link, liveBybit?.link);
   const recovered = await middleware(new NextRequest('https://hashtagweb3.com/product578/tg?from=saved', { headers: { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate' } }));
-  assert.equal(recovered.status, liveBybit ? 308 : 410);
+  assert.equal(recovered.status, liveBybit ? 308 : 307);
   if (liveBybit) assert.equal(recovered.headers.get('location'), `https://hashtagweb3.com/${liveBybit.slug}/tg?from=saved`);
+  else {
+    assert.equal(recovered.headers.get('location'), 'https://hashtagweb3.com/');
+    assert.equal((await middleware(new NextRequest('https://hashtagweb3.com/product578/tg?from=saved', { headers: { accept: 'application/json' } }))).status, 410);
+  }
   const source = (location: string, title = 'Software Engineer') => ({ location, title });
   assert.equal(resolveJobLocation({ ...source('Hungary', 'IT Department Lead - Remote, Worldwide'), isRemote: true }), 'Remote (Worldwide)');
   assert.equal(resolveJobLocation({ ...source('United States'), isRemote: true }), 'Remote (United States)');

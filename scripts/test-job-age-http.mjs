@@ -14,7 +14,7 @@ let origin = process.env.SITE_ORIGIN;
 let server;
 let logs = '';
 const browserHeaders = { 'user-agent': 'Mozilla/5.0', 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'sec-fetch-site': 'none' };
-const request = (pathname, headers = {}) => fetch(`${origin}${pathname}`, { headers, signal: AbortSignal.timeout(30000) });
+const request = (pathname, headers = {}, options = {}) => fetch(`${origin}${pathname}`, { headers, signal: AbortSignal.timeout(30000), ...options });
 function firebaseMiddlewareCacheOverride(response, unrelatedPage = false) {
   return Boolean(process.env.SITE_ORIGIN && response.headers.get('x-fah-middleware') === 'true'
     && /^nextjs-/.test(response.headers.get('x-fah-adapter') || '')
@@ -50,7 +50,7 @@ try {
     await new Promise(resolve => socket.listen(0, '127.0.0.1', resolve));
     const port = socket.address().port;
     await new Promise(resolve => socket.close(resolve));
-    origin = `http://127.0.0.1:${port}`;
+    origin = `http://localhost:${port}`;
     server = spawn(process.execPath, ['server.js'], { cwd: standalone, env: { ...process.env, HOSTNAME: '127.0.0.1', PORT: String(port) }, stdio: ['ignore', 'pipe', 'pipe'] });
     server.stdout.on('data', data => { logs += data; });
     server.stderr.on('data', data => { logs += data; });
@@ -69,9 +69,12 @@ try {
     : retiredSlugs.flatMap(slug => [`/${slug}`, `/jobs/${slug}`, `/${slug}/tg`, `/${slug}/li`, `/preview/${slug}.html`, `/preview/jobs/${slug}.html`, `/og/jobs/${slug}.png`]);
   for (const path of paths) {
     for (const headers of [browserHeaders, { 'user-agent': 'LinkedInBot' }]) {
-      const response = await request(path, headers);
-      assert.equal(response.status, 410, path);
-      if (!firebaseMiddlewareCacheOverride(response)) assert.match(response.headers.get('cache-control'), /s-maxage=300, must-revalidate/);
+      const response = await request(path, headers, { redirect: 'manual' });
+      const redirectHome = headers === browserHeaders && !path.startsWith('/preview/') && !path.startsWith('/og/');
+      assert.equal(response.status, redirectHome ? 307 : 410, path);
+      assert.equal(response.headers.get('location'), redirectHome ? `${origin}/` : null, path);
+      if (redirectHome) assert.equal(response.headers.get('cache-control'), 'no-store');
+      else if (!firebaseMiddlewareCacheOverride(response)) assert.match(response.headers.get('cache-control'), /s-maxage=300, must-revalidate/);
       assert.doesNotMatch(response.headers.get('cache-control'), /stale/);
       assert.equal(response.headers.get('x-robots-tag'), 'noindex');
       assert.doesNotMatch(await response.text(), /JobPosting|Marketing Lead|Apply now/i);

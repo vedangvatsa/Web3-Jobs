@@ -54021,61 +54021,6 @@ Join the tournament: https://app.fortraders.com/games/c0302874-fbb2-4f01-96a4-6c
 
 Any questions? Contact lenka@fortraders.com
 
-<a id="event-1f0ea420e3adb291"></a>
-
-## Build for Breakpoint Opening Mixer at Somerset House - Featuring Colosseum Winners
-
-- Record: `luma-host-evt-evt-Uyvg6H6qZ48FU0Y`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-14T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/dnuhqj91>
-- Original page: <https://luma.com/dnuhqj91>
-
-### About the event
-
-With less than 10 weeks to go until Breakpoint, now is the time to get together with the builders, founders and teams shaping what's next on Solana.
-
-Join us at the Superteam UK office at Somerset House for an evening with Colosseum winners, bringing together the people building the next wave of projects across the ecosystem.
-
-Come meet the teams behind some of the most exciting new Solana projects, connect with fellow builders and founders, and start building the relationships that will carry through to Breakpoint and beyond.
-
-Expect
-
-Meet the Colosseum winners
-
-Builder & founder networking
-
-Open conversations - talk product, ideas, growth and building on Solana
-
-Food & drinks
-
-The road to Breakpoint - kick off the countdown with the London Solana community
-
-### Schedule
-
-6:00 PM - Arrive, grab a drink & settle in
-
-6:30 PM - Welcome & introductions
-
-6:45 PM - Colosseum winners spotlight
-
-7:00 PM onwards - Food, drinks & networking
-
-Come by, meet the winners, connect with fellow builders and help kick off the 10-week countdown to Breakpoint.
-
-Capacity is limited, so RSVP early to secure your spot.
-
-### Location
-
-Superteam UK - Somerset House
-
-Strand, London WC2R 1LA, UK
-
-By signing up, you agree that Superteam UK may capture photos or short video clips during the event and contact you about future events, updates, and upcoming member activities.
-
- - Superteam UK
-
 <a id="event-6608043dc7f3362e"></a>
 
 ## CryptoMondays Culver City Los Angeles Meetup

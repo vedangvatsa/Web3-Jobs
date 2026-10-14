@@ -79,7 +79,7 @@ jobs:
           retention-days: 14
 
       - name: Verify expansion sources and import eligible Web3 jobs
-        run: npx tsx --test scripts/test-web3-expansion-feeds.ts && npx tsx scripts/ingest-web3-expansion.ts
+        run: npx tsx --test scripts/test-country-source-http.ts scripts/test-web3-expansion-feeds.ts && npx tsx scripts/ingest-web3-expansion.ts
         continue-on-error: true
 
       - name: Preserve Web3 expansion source evidence
@@ -88,6 +88,15 @@ jobs:
         with:
           name: web3-expansion-${{ github.run_id }}
           path: content/sources/hiring-links-636-import.json
+          retention-days: 14
+
+      - name: Preserve immutable source response bodies
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: country-expansion-bodies-${{ github.run_id }}
+          include-hidden-files: true
+          path: .cache/country-local-crypto/body-*.json
           retention-days: 14
 
       - name: Ingest Franklin Templeton Official Jobs

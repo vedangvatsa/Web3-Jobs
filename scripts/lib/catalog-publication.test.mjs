@@ -95,12 +95,16 @@ test('job publication retains original-date evidence and expiry indexes with ass
     'content/job-age-page-scopes.json': { '/': 'catalog' },
     'content/removed-job-listings.json': { posting: { reason: 'application-not-found' } },
     'content/image-redirects.json': { '/og/jobs/old.png': '/og-image.png' },
+    'content/sources/country-local-import.json': { before: 1, after: 1, added: [], reports: [{ source: 'country', outcome: 'expired' }] },
+    'content/sources/hiring-links-636-import.json': { before: 1, after: 1, added: [], reports: [{ source: 'expansion', outcome: 'unknown-date' }] },
   };
   for (const [name, value] of Object.entries(files)) write(cwd, name, JSON.stringify(value));
   write(cwd, 'unrelated.json', '{"preserve":true}');
+  for (const name of ['content/sources/raw-response.json', 'content/sources/research-leads.csv']) write(cwd, name, 'private research');
   fs.unlinkSync(path.join(cwd, 'public/og/jobs/old.png'));
   await run();
   for (const [name, value] of Object.entries(files)) assert.deepEqual(JSON.parse(git(['--git-dir', remote, 'show', `main:${name}`])), value);
   assert.throws(() => git(['--git-dir', remote, 'show', 'main:public/og/jobs/old.png']));
   assert.throws(() => git(['--git-dir', remote, 'show', 'main:unrelated.json']));
+  for (const name of ['content/sources/raw-response.json', 'content/sources/research-leads.csv']) assert.throws(() => git(['--git-dir', remote, 'show', `main:${name}`]));
 });

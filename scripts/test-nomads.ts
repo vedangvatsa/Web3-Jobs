@@ -201,8 +201,9 @@ test('root-level tool and city routes preserve existing published identities and
     assert.equal(linkPreviewPreviewPath(`${path}/tg`, 'TelegramBot', true), `/preview${path}.html`);
     assert.ok(RESERVED_APP_ROUTE_SLUGS.includes(path.slice(1)));
     for (const [category, slugs] of Object.entries(slugTypes)) {
-      if (category !== 'staticPages' && Array.isArray(slugs)) assert.ok(!slugs.includes(path.slice(1)), `${path} collides with ${category}`);
+      if (!['staticPages', 'pages', 'aliases'].includes(category) && Array.isArray(slugs)) assert.ok(!slugs.includes(path.slice(1)), `${path} collides with ${category}`);
     }
+    assert.ok(slugTypes.pages.includes(path.slice(1)), `${path} is missing from root lookup`);
     assert.ok(!Object.hasOwn(legacyJobs, path.slice(1)), `${path} is a historical job URL`);
     assert.ok(!learnRoutes.some(route => route.slug === path.slice(1)), `${path} is an existing learning page`);
   }

@@ -30,7 +30,7 @@ async function main(){
         try{
           if(!isConcreteJobOpening(candidate.title,candidate.link)||getJobSourceIssue(candidate)){roles.push({title:candidate.title,outcome:'not-concrete-or-rejected'});continue;}
           const primary=await countryGet(candidate.link),verified=verifyPrimary(candidate,s,primary);
-          let job=preserveOriginalJobDate(verified.job,{...history});
+          let job=preserveOriginalJobDate(verified.job,history);
           const reason=jobAgeExclusionReason(job);if(reason){roles.push({title:job.title,link:job.link,date:job.date,outcome:reason,primary:pageEvidence(primary)});continue;}
            const application=await verifyApplication(job,s,primary);
            const insertionReason = jobAgeExclusionReason(job);

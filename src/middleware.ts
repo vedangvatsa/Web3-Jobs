@@ -14,6 +14,7 @@ import { jobAgePageCache, JOB_LISTING_CACHE_PREFIX, normalizeJobAgePath, validJo
 import { JOB_LISTING_CACHE_HEADER } from '@/lib/job-age-cache.mjs';
 import eventTombstones from '../content/event-tombstones.json';
 import { removedEventStatus } from '../scripts/lib/event-retention.mjs';
+import { isMissingRootPagePath } from '@/lib/root-page-path';
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -110,21 +111,53 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
   return response;
 }
 
+function isResourcePath(pathname: string): boolean {
+  return pathname.includes('.') || /^\/(?:api|_next|data|job-catalog|job-shards|job-description-shards|articles-data|preview|og|images|logo|fonts)(?:\/|$)/i.test(pathname);
+}
+
+export function missingPageResponse(request: NextRequest, status: 404 | 410 = 404, cacheControl = 'no-store'): NextResponse {
+  const path = normalizeJobAgePath(request.nextUrl.pathname);
+  const safeMethod = request.method === 'GET' || request.method === 'HEAD';
+  const navigation = request.headers.get('sec-fetch-mode') === 'navigate'
+    || request.headers.get('sec-fetch-dest') === 'document'
+    || request.headers.get('sec-fetch-user') === '?1'
+    || request.headers.get('rsc') === '1'
+    || /(?:^|,)\s*text\/html\b/i.test(request.headers.get('accept') || '');
+  const vary = 'Accept, Accept-Encoding, Sec-Fetch-Mode, Sec-Fetch-Dest, Sec-Fetch-User, RSC';
+  if (safeMethod && navigation && !isResourcePath(path) && request.nextUrl.searchParams.get('mode') !== 'agent') {
+    const response = NextResponse.redirect(new URL('/', request.url), 307);
+    response.headers.set('Cache-Control', 'no-store');
+    response.headers.set('X-Robots-Tag', 'noindex');
+    response.headers.set('Vary', vary);
+    return response;
+  }
+  return new NextResponse(request.method === 'HEAD' ? null : status === 410 ? 'This page is no longer available.\n' : 'Not found\n', {
+    status,
+    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': cacheControl, 'X-Robots-Tag': 'noindex', Vary: vary },
+  });
+}
+
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const agePathname = normalizeJobAgePath(pathname);
-  if (agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`) && !validJobListingCachePath(pathname)) {
-    return new NextResponse('This listing snapshot has expired.\n', { status: 410, headers: { 'Cache-Control': 'public, max-age=0, s-maxage=300, must-revalidate', 'X-Robots-Tag': 'noindex' } });
+  if ((agePathname === JOB_LISTING_CACHE_PREFIX || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)) && !validJobListingCachePath(pathname)) {
+    return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
   }
-  const eventStatus = removedEventStatus(stripSocialPathSuffix(pathname.replace(/\/+$/, '')), eventTombstones);
-  if (eventStatus) return new NextResponse(eventStatus === 410 ? 'This event is no longer available.\n' : 'Not found\n', {
-    status: eventStatus,
-    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex' },
-  });
-  if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)) return new NextResponse('This listing is no longer available.\n', {
-    status: 410,
-    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=0, s-maxage=300, must-revalidate', 'X-Robots-Tag': 'noindex' },
-  });
+  const eventStatus = removedEventStatus(stripSocialPathSuffix(agePathname), eventTombstones);
+  if (eventStatus) return missingPageResponse(request, eventStatus);
+  if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)) {
+    return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
+  }
+  if (isRetiredOrProbePath(agePathname)) return missingPageResponse(request);
+  if (/^\/api(?:\/|$)/.test(agePathname)
+    && !/^\/api\/(?:email\/unsubscribe|openapi\.(?:json|yaml)|llms\.txt)$/.test(agePathname)) {
+    return missingPageResponse(request);
+  }
+  // Public pages have no write handlers. Keep their 404 fallback out of POST responses.
+  if (request.method !== 'GET' && request.method !== 'HEAD' && !/^\/api(?:\/|$)/.test(agePathname)) {
+    return missingPageResponse(request);
+  }
+  if (isMissingRootPagePath(pathname)) return missingPageResponse(request);
   if (pathname.includes('%') && agePathname !== pathname && (
     isKnownJobPath(agePathname) || jobAgePageCache(agePathname) || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
     || /^\/(?:data\/(?:jobs-runtime|companies-runtime|catalog-freshness)\.json|job-(?:description-)?shards\/|(?:\.well-known\/)?sitemap\.(?:xml|json))/.test(agePathname)
@@ -134,7 +167,7 @@ export async function middleware(request: NextRequest) {
     return NextResponse.redirect(canonical, 308);
   }
   const recoveredDestination = recoveredJobDestination(pathname);
-  if (recoveredDestination) {
+  if (recoveredDestination?.startsWith('/')) {
     const url = request.nextUrl.clone();
     const preview = linkPreviewPreviewPath(pathname, request.headers.get('user-agent') || '', isLinkPreviewCrawlerRequest(request));
     if (preview) {
@@ -155,24 +188,18 @@ export async function middleware(request: NextRequest) {
     return NextResponse.redirect(url, 308);
   }
   if (normalizedLearnPath.startsWith('/learn/') && !normalizedLearnPath.includes('.')) {
-    const url = request.nextUrl.clone();
-    url.pathname = '/_not-found';
-    url.search = '';
-    return NextResponse.rewrite(url, { status: 404, headers: { 'X-Robots-Tag': 'noindex' } });
+    return missingPageResponse(request);
   }
   const searchParams = request.nextUrl.searchParams;
+  if (searchParams.get('mode') === 'agent' && !isResourcePath(agePathname) && agePathname.split('/').length > 2
+    && !/^\/glossary\/[^/]+$/.test(agePathname) && !validJobListingCachePath(agePathname)) {
+    return missingPageResponse(request);
+  }
   const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
   if (host === 'www.hashtagweb3.com') {
     const canonical = request.nextUrl.clone();
     canonical.host = 'hashtagweb3.com';
     return NextResponse.redirect(canonical, 308);
-  }
-
-  if (isRetiredOrProbePath(pathname)) {
-    return new NextResponse('Not found\n', {
-      status: 404,
-      headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300', 'X-Robots-Tag': 'noindex' },
-    });
   }
 
   // Node/Firebase run middleware before public-file serving. Let the static
@@ -249,7 +276,7 @@ export async function middleware(request: NextRequest) {
     if (lastSlashIdx !== -1 || normalised) {
       const segment = normalised.slice(lastSlashIdx + 1).toLowerCase();
 
-      if (segment && SOCIAL_UTM_MAP[segment]) {
+      if (segment && Object.hasOwn(SOCIAL_UTM_MAP, segment)) {
         const config = SOCIAL_UTM_MAP[segment];
         const basePath = normalised.slice(0, lastSlashIdx) || '/';
 
@@ -291,7 +318,7 @@ export async function middleware(request: NextRequest) {
   // 2. ?mode=agent → static JSON catalog (CDN; no Serverless Function).
   // Never intercept /api/* paths (e.g. /api/email/unsubscribe).
   // silently return the wrong payload on a public API.
-  if (!pathname.startsWith('/api') && searchParams.get('mode') === 'agent') {
+  if (!isResourcePath(agePathname) && searchParams.get('mode') === 'agent') {
     const rewrite = request.nextUrl.clone();
     rewrite.pathname = '/agent-view.json';
     rewrite.search = '';

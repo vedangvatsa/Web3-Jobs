@@ -145122,5 +145122,65 @@
     "link": "https://jobs.ashbyhq.com/chainalysis-careers/edd72071-a617-4659-a1f6-4459db199b73",
     "title": "Senior Manager, Talent Management & Organizational Development",
     "company": "Chainalysis"
+  },
+  "eng34": {
+    "id": "8197135",
+    "link": "https://stripe.com/jobs/search?gh_jid=8197135",
+    "title": "Software Engineer, High Availability and Disaster Recovery",
+    "company": "Stripe"
+  },
+  "eng38": {
+    "id": "8202874",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874",
+    "title": "Android Engineer, Social",
+    "company": "Robinhood"
+  },
+  "eng37": {
+    "id": "8198207",
+    "link": "https://stripe.com/jobs/search?gh_jid=8198207",
+    "title": "Software Engineer, Payins Card Networks",
+    "company": "Stripe"
+  },
+  "aska": {
+    "id": "4975998101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975998101",
+    "title": "Senior AML Specialist, KYB (Austria)",
+    "company": "Bybit"
+  },
+  "askl": {
+    "id": "4975995101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975995101",
+    "title": "Senior AML Specialist, KYB (Lithuania)",
+    "company": "Bybit"
+  },
+  "askm": {
+    "id": "4975993101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975993101",
+    "title": "Senior AML Specialist, KYB (Malaysia)",
+    "company": "Bybit"
+  },
+  "eng35": {
+    "id": "8d9016f4-11f4-4b42-bfa7-c55b19c3d681",
+    "link": "https://jobs.ashbyhq.com/Dune/8d9016f4-11f4-4b42-bfa7-c55b19c3d681",
+    "title": "Staff Software Engineer - Data Products",
+    "company": "Dune"
+  },
+  "be9": {
+    "id": "8198280",
+    "link": "https://stripe.com/jobs/search?gh_jid=8198280",
+    "title": "Software Engineer, Backend",
+    "company": "Stripe"
+  },
+  "rec2": {
+    "id": "bbeb13e9-26fa-407d-9e7c-36a51f8a5e73",
+    "link": "https://jobs.ashbyhq.com/trm-labs/bbeb13e9-26fa-407d-9e7c-36a51f8a5e73",
+    "title": "Senior Technical Recruiter (Contract)",
+    "company": "TRM Labs"
+  },
+  "aso6": {
+    "id": "40f43993-21e8-4db1-a9f4-7a3e6098a9ba",
+    "link": "https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba",
+    "title": "Customer Experience Associate (Evening Shift)",
+    "company": "Ramp"
   }
 }

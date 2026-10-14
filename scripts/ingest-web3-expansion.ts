@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import type { Job } from '../src/types';
-import { EXPANSION_SOURCES, verifyExpansionSource, expansionCandidates, verifyExpansionJob } from './lib/web3-expansion-feeds';
+import { EXPANSION_SOURCES, verifyExpansionSource, expansionCandidates, verifyExpansionJob, rememberExpansionDate } from './lib/web3-expansion-feeds';
 import { countryGet, pageEvidence } from './lib/country-source-http';
 import { getJobIdentity,getJobContentKey,assignJobSlugsAndSyncLegacyArchive } from '../src/lib/job-slugs';
 import { preserveOriginalJobDate } from '../src/lib/job-source-date';
@@ -26,11 +26,11 @@ async function main(){
         try{
           if(!isConcreteJobOpening(candidate.title,candidate.link)||getJobSourceIssue(candidate)){roles.push({title:candidate.title,link:candidate.link,outcome:'not-concrete-or-rejected'});continue;}
           if(s.provider==='greenhouse'){
-            const reason=jobAgeExclusionReason(preserveOriginalJobDate(candidate,{...history}));
+            const reason=jobAgeExclusionReason(rememberExpansionDate(candidate,history));
             if(reason){roles.push({title:candidate.title,link:candidate.link,date:candidate.date,outcome:reason});continue;}
           }
           const primary=await countryGet(candidate.link),verified=await verifyExpansionJob(candidate,s,primary);
-          let job=preserveOriginalJobDate(verified.job,{...history});
+          let job=rememberExpansionDate(verified.job,history);
           const reason=jobAgeExclusionReason(job);if(reason){roles.push({title:job.title,link:job.link,date:job.date,outcome:reason,primary:pageEvidence(primary)});continue;}
           const identity=getJobIdentity(job);
           if(current.has(identity)){roles.push({identity,title:job.title,outcome:'already-covered',primary:pageEvidence(primary),application:verified.application});continue;}
@@ -43,10 +43,11 @@ async function main(){
     console.log(`${s.company}: checked`);
   }
   const result=[...current.values()];
+  if(!dryRun)writeJobDateHistory(history);
   if(added.length){
     assignJobSlugsAndSyncLegacyArchive(result,archive,loadReservedRootSlugsSync(),loadPublishedRootSlugsSync());
     for(const old of before)assert.deepEqual(current.get(getJobIdentity(old)),old);
-    if(!dryRun){writeJobDateHistory(history);writeJobLegacyArchive(archive);fs.writeFileSync('content/jobs-cache.json',JSON.stringify(result,null,2)+'\n');writeJobDescriptionStore({descriptions:store.descriptions,aliases:{...store.aliases,...buildJobDescriptionAliases(result,store.descriptions)}});}
+    if(!dryRun){writeJobLegacyArchive(archive);fs.writeFileSync('content/jobs-cache.json',JSON.stringify(result,null,2)+'\n');writeJobDescriptionStore({descriptions:store.descriptions,aliases:{...store.aliases,...buildJobDescriptionAliases(result,store.descriptions)}});}
   }
   const report={checkedAt:new Date().toISOString(),dryRun,before:before.length,after:result.length,added:added.map(j=>({id:j.id,title:j.title,company:j.company,link:j.link,date:j.date,slug:j.slug})),removed:[],expiryRemovals:[],failures,reports};
   fs.writeFileSync(`content/sources/hiring-links-636-import${dryRun?'-dry-run':''}.json`,JSON.stringify(report,null,2)+'\n');

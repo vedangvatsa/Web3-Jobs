@@ -1,0 +1,1979 @@
+{
+  "checkedAt": "2026-10-14T21:14:52.755Z",
+  "registryCount": 81,
+  "recurringCount": 26,
+  "monitorCount": 55,
+  "primarySampleLimitPerSource": 2,
+  "jobsBefore": 1645,
+  "jobsAfter": 1645,
+  "jobsAdded": 0,
+  "jobsRemoved": 0,
+  "rows": [
+    {
+      "company": "Foxbit",
+      "provider": "inhire",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://foxbit.com.br/carreira",
+        "finalUrl": "https://foxbit.com.br/carreira",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:02.796Z",
+        "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d"
+      },
+      "board": {
+        "url": "https://foxbit.com.br/carreira",
+        "finalUrl": "https://foxbit.com.br/carreira",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:02.796Z",
+        "bodySha256": "a99b84b902a0f6b9e501eebd9444cc21216d311a1e3c2f9d680c2bbb16585d5d"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Coinmotion",
+      "provider": "teamtailor",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://www.coinmotion.com/careers/",
+        "finalUrl": "https://careers.coinmotion.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:02.987Z",
+        "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6"
+      },
+      "board": {
+        "url": "https://www.coinmotion.com/careers/",
+        "finalUrl": "https://careers.coinmotion.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:02.987Z",
+        "bodySha256": "109de7a83e980079fe2b92f9f9301096ba63d7236f05cfca694f575c25b307e6"
+      },
+      "apiJobCount": null,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Finoa",
+      "provider": "personio",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.finoa.io/careers",
+        "finalUrl": "https://www.finoa.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:02.890Z",
+        "bodySha256": "3600e3b48cdef819ca827dda92e9de4d0bf5cd892ea387ce36e6de076057a42e"
+      },
+      "board": {
+        "url": "https://finoa.jobs.personio.com/",
+        "finalUrl": "https://finoa.jobs.personio.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:03.810Z",
+        "bodySha256": "79877761c24b232aa4cda574bc45713f96bd68c04328597ac3b20256214c4fa8"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Taurus",
+      "provider": "join",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.taurushq.com/careers/",
+        "finalUrl": "https://www.taurushq.com/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:03.926Z",
+        "bodySha256": "d936cd7bc043923d8c25afb837b72492d7e9c34ddadb5d79f16a8b304c8e17a5"
+      },
+      "board": {
+        "url": "https://join.com/companies/taurusgroup",
+        "finalUrl": "https://join.com/companies/taurusgroup",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:04.221Z",
+        "bodySha256": "a5cdbb84d39cd4a0aabd1984a9749f21d708f5ba9fab60a570f37cf6ce88b4d7"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "PDAX",
+      "provider": "darwinbox",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://pdax.ph/careers/",
+        "finalUrl": "https://pdax.ph/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:04.490Z",
+        "bodySha256": "9789fa2ed1bb2574d38931f8b4bf2510b90fba335d79235bb2fa35b74c3042b7"
+      },
+      "board": {
+        "url": "https://pdax.darwinbox.com/ms/candidate/careers",
+        "finalUrl": "https://pdax.darwinbox.com/ms/candidate/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:05.011Z",
+        "bodySha256": "64123d6ebd07aeef58922464186dbffe68dfc041c2ef30b9e053dbb252a66bc5"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Breet",
+      "provider": "zoho",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://breet.io/career",
+        "finalUrl": "https://breet.io/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:06.614Z",
+        "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b"
+      },
+      "board": {
+        "url": "https://breet.io/career",
+        "finalUrl": "https://breet.io/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:06.614Z",
+        "bodySha256": "442d4ccecab62ce4646dc78a0756440dae0bf2bbb297e476761672133aec882b"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "XREX",
+      "provider": "breezy",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://xrex.io/careers",
+        "finalUrl": "https://xrex.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:04.398Z",
+        "bodySha256": "f385d48e9b6bda2244f4f4a0ef884011d2b4662b6c93489a1e94614b763c3ad9"
+      },
+      "board": {
+        "url": "https://xrex.breezy.hr/",
+        "finalUrl": "https://xrex.breezy.hr/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:05.001Z",
+        "bodySha256": "bed07f913671adaa8b7d6846efb5b11889f6b0cf83a1b4c6427b22386e5cdb01"
+      },
+      "apiJobCount": null,
+      "candidateCount": 2,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": [
+        {
+          "title": "AML Specialist",
+          "date": "2025-01-10",
+          "age": "expired",
+          "primary": {
+            "url": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
+            "finalUrl": "https://xrex.breezy.hr/p/fd5dd21c190a-aml-specialist",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:06.507Z",
+            "bodySha256": "f0cc705b43bce594df5eb5ee4fa8b0d61d0097e16d79383c921a5f09e0bf4356"
+          },
+          "application": null
+        },
+        {
+          "title": "Senior Compliance Specialist",
+          "date": "2026-05-05",
+          "age": "expired",
+          "primary": {
+            "url": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+            "finalUrl": "https://xrex.breezy.hr/p/34773f42b610-senior-compliance-specialist",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:07.496Z",
+            "bodySha256": "fff5831c2d16447542da4bea23a9d465a4afe1408d8cf5d8c7412b1366f5d8f4"
+          },
+          "application": null
+        }
+      ]
+    },
+    {
+      "company": "HoneyCoin",
+      "provider": "hibob",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://honeycoin.app/",
+        "finalUrl": "https://honeycoin.app/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:08.111Z",
+        "bodySha256": "b47e91f912c0e675d29082b67428697c3bcbb034fa24cf6211fa5332f315f924"
+      },
+      "board": {
+        "url": "https://honeycoin.careers.hibob.com/",
+        "finalUrl": "https://honeycoin.careers.hibob.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:08.810Z",
+        "bodySha256": "594d3b9d484a3e9169bcac5cc789cd9dafcec37274902c48dfdf9155d1d5b4e4"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Finst",
+      "provider": "welcomekit",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://finst.com/en",
+        "finalUrl": "https://finst.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:07.757Z",
+        "bodySha256": "d21a02c85873dd756782c339c4c04aba2ed32429645a7494171574e7dce7a1d2"
+      },
+      "board": {
+        "url": "https://finst.welcomekit.co/",
+        "finalUrl": "https://finst.welcomekit.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:09.153Z",
+        "bodySha256": "4ba477a292ee308ce1370421e081cebc132c577bd19682247e858573100ade81"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "21bitcoin",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://21bitcoin.app",
+        "finalUrl": "https://21bitcoin.app",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:09.254Z",
+        "bodySha256": "8dec187cd7c35bc337ec12dfbfb541a7b275e90b1515024164162deb46d3c161"
+      },
+      "board": {
+        "url": "https://21bitcoin.app/karriere",
+        "finalUrl": "https://21bitcoin.app/karriere",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:09.622Z",
+        "bodySha256": "7f6897bc904a44cecbdd15c0254c6aa9d965750bdad7fadfffd813a3bc993bc2"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Aquanow",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://aquanow.io",
+        "finalUrl": "https://www.aquanow.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:09.978Z",
+        "bodySha256": "30b867374ca8b7b8d1998d09ec1e9a87894aa3ff96b83547ba24eda1f70dc26a"
+      },
+      "board": {
+        "url": "https://www.aquanow.com/careers",
+        "finalUrl": "https://www.aquanow.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:10.336Z",
+        "bodySha256": "0ec7ce7fe9e04b8cc0ee917706a86129488d76a2124b50dbc16ff5915f6e9972"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Dunamu",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.dunamu.com/careers/jobs",
+        "finalUrl": "https://www.dunamu.com/careers/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:09.576Z",
+        "bodySha256": "0742a6f2200970c2c4a1adbf85021f5910b2e129046f94259afc5140f157ad78"
+      },
+      "board": {
+        "url": "https://careers.dunamu.com/",
+        "finalUrl": "https://careers.dunamu.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:10.404Z",
+        "bodySha256": "9a649aab58464a417cc4da1e7686aec1a712c9be1137c4c125899091873e8ade"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Bit2Me",
+      "provider": "bizneo",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://bit2me.com/",
+        "finalUrl": "https://bit2me.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:07.141Z",
+        "bodySha256": "7da715a211eed5e91ffb6a09577d5926069a2c34dcb5b6b1f609bc63768c3aee"
+      },
+      "board": {
+        "url": "https://empleo.bit2me.com/jobs",
+        "finalUrl": "https://empleo.bit2me.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:07.985Z",
+        "bodySha256": "265971d5dfbee97876ceb6dc96f68ba4564aee91e3bb1552385e045917b18378"
+      },
+      "apiJobCount": null,
+      "candidateCount": 1,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": [
+        {
+          "title": "Legal, Compliance & Operations Intern- Bit2Me STX",
+          "date": "2026-10-05T14:04:37+02:00",
+          "age": null,
+          "primary": {
+            "url": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+            "finalUrl": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:10.084Z",
+            "bodySha256": "c9c2b367d57d6d63c12d9ef7461507acf417028fadaeb96a0469c0a7462fb718"
+          },
+          "application": {
+            "url": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
+            "finalUrl": "https://empleo.bit2me.com/registration/new?job_id=legal-compliance-operations-intern-bit2me-stx",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:10.638Z",
+            "bodySha256": "709b221435ce83d9a501ab538f05cef5e4c68b6148bb53b57488de7308d0642a"
+          }
+        }
+      ]
+    },
+    {
+      "company": "BISON",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bisonapp.com",
+        "finalUrl": "https://bisonapp.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:10.422Z",
+        "bodySha256": "79d7bd659831ecddd64f42959e4c3db8a9189a8d951a9cd1240ce754f4c9bc2b"
+      },
+      "board": {
+        "url": "https://bisonapp.com/karriere/",
+        "finalUrl": "https://bisonapp.com/karriere/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:11.280Z",
+        "bodySha256": "271e24b47e640e3e16144d2871eaaeadd08cc011c2a181360ea600279f156005"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Bitmama",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bitmama.io",
+        "finalUrl": "https://bitmama.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:11.502Z",
+        "bodySha256": "f97fe4ce3f0112d46ed051c2f61d6701aa2ee47fee301f33a4fb9df402de5357"
+      },
+      "board": {
+        "url": "https://bitmama.io/career/",
+        "finalUrl": "https://bitmama.io/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:11.886Z",
+        "bodySha256": "7e62dce7bf536f09020030982e3a196a36c8224adbbdca78411050a1dc8a8f30"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "bitbank",
+      "provider": "hrmos",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+        "finalUrl": "https://corporate.bitbank.cc/recruit?utm_source=service&utm_medium=referral&utm_campaign=cc",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:11.357Z",
+        "bodySha256": "967c78aa15d69e9aa8119a25808ac17efdc361ef53aaba9cdf1bb23b4dcdec1e"
+      },
+      "board": {
+        "url": "https://hrmos.co/pages/bitbank/jobs",
+        "finalUrl": "https://hrmos.co/pages/bitbank/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:12.599Z",
+        "bodySha256": "dd729bd78259ee98ce764cf3904cd47b7578288c487ca34af878221e549af53f"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Cashlink",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://cashlink.de",
+        "finalUrl": "https://cashlink.de/de/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:15.757Z",
+        "bodySha256": "33088dbab65b100a14927476d5c769c9d79dde8db17eeec514d3dd1d490af5c1"
+      },
+      "board": {
+        "url": "https://cashlink.de/de/jobs/",
+        "finalUrl": "https://cashlink.de/de/jobs/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:16.277Z",
+        "bodySha256": "0c4d0ce758d9d417624434ae14bd8bb5805cffbab055243b025dd2898deda949"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Bitnovo",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bitnovo.com",
+        "finalUrl": "https://www.bitnovo.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:15.698Z",
+        "bodySha256": "61a129626168da401b3bddca31cfd851320c66e872860c2b85267913ab4852f8"
+      },
+      "board": {
+        "url": "https://www.bitnovo.com/careers",
+        "finalUrl": "https://www.bitnovo.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:16.696Z",
+        "bodySha256": "830d5919c5304a03e608b2222aae76e6445f5f4ce5b935a65d36c01b84e8e2ea"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Bitcoin Suisse",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bitcoinsuisse.com",
+        "finalUrl": "https://bitcoinsuisse.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:12.262Z",
+        "bodySha256": "8bcc328e8cf683aa5c4d0cf3f3829663e013f098c77b5a79c523b70c72f2de52"
+      },
+      "board": {
+        "url": "https://bitcoinsuisse.com/careers",
+        "finalUrl": "https://bitcoinsuisse.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:16.900Z",
+        "bodySha256": "22907a2650ad30074af3b6060b3cdfdbdf93b51e5abbda228447c72039b7614d"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "CoinCash",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://coincash.eu/career",
+        "finalUrl": "https://coincash.eu/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.118Z",
+        "bodySha256": "6d87f54b519bd01d457a20be2ed766adeb0dd13f2e4d8acd952087e8ed966a0e"
+      },
+      "board": {
+        "url": "https://coincash.eu/career",
+        "finalUrl": "https://coincash.eu/career",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.118Z",
+        "bodySha256": "6d87f54b519bd01d457a20be2ed766adeb0dd13f2e4d8acd952087e8ed966a0e"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Change",
+      "provider": "teamtailor",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://changeinvest.com",
+        "finalUrl": "https://www.changeinvest.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:16.946Z",
+        "bodySha256": "072b13e8e1e1f4b691e2a246f4cecf0e8be746fc656ce53b6c56119d7d841b8b"
+      },
+      "board": {
+        "url": "https://careers.changeinvest.com",
+        "finalUrl": "https://careers.changeinvest.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:17.008Z",
+        "bodySha256": "a2dff124e7e1807201700eeee8a1ed3f8e27c107276ce513df5866ac104aa0b6"
+      },
+      "apiJobCount": null,
+      "candidateCount": 5,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": [
+        {
+          "title": "Compliance Specialist (MiFID / Crypto)",
+          "date": "2026-09-02T15:59:28+03:00",
+          "age": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
+            "finalUrl": "https://careers.changeinvest.com/jobs/8310585-compliance-specialist-mifid-crypto",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:18.146Z",
+            "bodySha256": "489c32fd1ab705702b6ede6cdd9465819a085e93607364c9f2c9de3702f2004a"
+          },
+          "application": null
+        },
+        {
+          "title": "Mobile QA Engineer",
+          "date": "2026-07-15T12:46:05+03:00",
+          "age": "expired",
+          "primary": {
+            "url": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
+            "finalUrl": "https://careers.changeinvest.com/jobs/8071129-mobile-qa-engineer",
+            "status": 200,
+            "checkedAt": "2026-10-14T21:14:18.505Z",
+            "bodySha256": "856e2947c9ce3c58802b16f30f07cb4b865a2fd6b7b1ee335cccc96a5c5b4485"
+          },
+          "application": null
+        }
+      ]
+    },
+    {
+      "company": "Coinext",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://coinext.com.br",
+        "finalUrl": "https://coinext.com.br",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.227Z",
+        "bodySha256": "c4b56d900e78bfc5abb16384c74e8b9afeb7144e3deb4798b6c0a7042e498f74"
+      },
+      "board": {
+        "url": "https://coinext.com.br/institucional/vagas",
+        "finalUrl": "https://coinext.com.br/institucional/vagas",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.653Z",
+        "bodySha256": "11b7efe1ffa11544ff4049f6e44b57c0ca7cab79d8e5b9734078d51d19c8ff9b"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Coinfinity",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://coinfinity.co",
+        "finalUrl": "https://coinfinity.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.665Z",
+        "bodySha256": "8fed53bed863a2def40a4ff49e16cd5bb46862e42d331e9e401136ab4000b814"
+      },
+      "board": {
+        "url": "https://coinfinity.co/karriere",
+        "finalUrl": "https://coinfinity.co/karriere",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:19.025Z",
+        "bodySha256": "c2faa4d2f3b4f7625238d25c8b023f2f894bf4194ab4bcc110e5501f873490f6"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "double jump.tokyo",
+      "provider": "herp",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://doublejump.tokyo",
+        "finalUrl": "https://www.doublejump.tokyo/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:19.180Z",
+        "bodySha256": "4bbbe1f60ae95b7048225f55dbc7841df73cba483092307e45dc908a04e82e77"
+      },
+      "board": {
+        "url": "https://herp.careers/v1/doublejump",
+        "finalUrl": "https://herp.careers/v1/doublejump",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:19.740Z",
+        "bodySha256": "8a3156fa92e3ae8ac65718632971d18b0348cfc99fe55cdeb6efc59ba7715a5a"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "CoinCorner",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://coincorner.com",
+        "finalUrl": "https://www.coincorner.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:18.701Z",
+        "bodySha256": "86e6d3f4cb448cde6858c36ff3e42a329c78089f496d56fb498712a933023955"
+      },
+      "board": {
+        "url": "https://www.coincorner.com/jobs",
+        "finalUrl": "https://www.coincorner.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:20.043Z",
+        "bodySha256": "9d658a25a5af0bfc3882a890d6fbb1c803cdc657816ad76fe203167678e1d394"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Deblock",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://deblock.com",
+        "finalUrl": "https://deblock.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:19.717Z",
+        "bodySha256": "15b507b2ff94e034fc1e6eced56c34bd6f9ec53968475cb9da2de58b077c11e6"
+      },
+      "board": {
+        "url": "https://apply.workable.com/deblock",
+        "finalUrl": "https://apply.workable.com/deblock",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:20.053Z",
+        "bodySha256": "bcd2e4059689924d185ea1b1e29b617b56e4c635d6419ab7d3786d9a9dd15174"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Fuze",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://fuze.finance",
+        "finalUrl": "https://fuze.finance",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:20.306Z",
+        "bodySha256": "9c83cd0496d9e3d1016d87a57b3db049fc0c42559ce5405e3423ab4508ce3581"
+      },
+      "board": {
+        "url": "https://fuze.finance/careers",
+        "finalUrl": "https://fuze.finance/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:20.672Z",
+        "bodySha256": "a24b481d41045e63f87894153670245805f568ffc0dea370567677b879ab7a5c"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Ginco",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://ginco.co.jp",
+        "finalUrl": "https://www.ginco.co.jp/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:21.175Z",
+        "bodySha256": "a030108cb66db6054facbe94a671572801268b764ea817c2195dfbdc26bb2793"
+      },
+      "board": {
+        "url": "https://www.ginco.co.jp/company/recruit",
+        "finalUrl": "https://www.ginco.co.jp/company/recruit",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:21.507Z",
+        "bodySha256": "04845d15ee01f835901464e72d76ac00c97a83c583d223577e5a74bb523cb770"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "FOMO Pay",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://fomopay.com",
+        "finalUrl": "https://www.fomopay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:21.290Z",
+        "bodySha256": "435356607431af75095720a2fea2b8e77d8b314b2db497394fc2bae4aed0202c"
+      },
+      "board": {
+        "url": "https://www.fomopay.com/careers",
+        "finalUrl": "https://www.fomopay.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:21.680Z",
+        "bodySha256": "73e86fc468027c3b5a335dcb5bbf7117b82ad94cdececb0fcae4db9f3c51582d"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Hata",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://hata.io",
+        "finalUrl": "https://hata.io/en/gb/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:22.377Z",
+        "bodySha256": "9c28c6bdb64e7434d1dd2b372523cb2fe67370636ad5be1a9904eedb620b9628"
+      },
+      "board": {
+        "url": "https://explore.hata.io/careers",
+        "finalUrl": "https://explore.hata.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:22.674Z",
+        "bodySha256": "1301290ca7df0699a729ef06fa5c813cce033de7c565bf2329f547a988be1b35"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "KoinX",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://koinx.com",
+        "finalUrl": "https://www.koinx.com/in",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:22.444Z",
+        "bodySha256": "994d40cfbc7571caa69f1473ace3c326a7d5d1f1b1d12576cd4b5e337ae07f13"
+      },
+      "board": {
+        "url": "https://www.koinx.com/careers",
+        "finalUrl": "https://www.koinx.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:22.833Z",
+        "bodySha256": "df41221a9dc898aba45e04f33a71dca0bed424883347fc9a9e52c97e3191c743"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Lemon",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://lemon.me",
+        "finalUrl": "https://lemon.me",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:22.846Z",
+        "bodySha256": "654e9799ce21a11d08cdb04f80afe42b957eef71dda460c1e63c7ae69fb1bedf"
+      },
+      "board": {
+        "url": "https://lemon.me/careers",
+        "finalUrl": "https://lemon.me/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:23.241Z",
+        "bodySha256": "ba5ed068c98ee0ee2896af56d050166f5e0c3e935a4229e66629134c2c1732c2"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Liminal",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://liminalcustody.com",
+        "finalUrl": "https://www.liminalcustody.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:23.971Z",
+        "bodySha256": "888b8c071a7ce2365b40d2213705592cd39081de10dc76cf134b7d280f5deb1d"
+      },
+      "board": {
+        "url": "https://apply.workable.com/liminalcustody/",
+        "finalUrl": "https://apply.workable.com/liminalcustody/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:24.328Z",
+        "bodySha256": "0caeb113948b9603342fbe574bc01261ccc2275932e6dba0cd0d7804c0c8e171"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "MidChains",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://midchains.com",
+        "finalUrl": "https://www.midchains.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:25.135Z",
+        "bodySha256": "114507127e86dd52a9ef7952bcc5413056231169069211edbd478affcfc27562"
+      },
+      "board": {
+        "url": "https://www.midchains.com/careers/",
+        "finalUrl": "https://www.midchains.com/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:25.483Z",
+        "bodySha256": "d77ce93537497ca33d2168e7effaafbf5ba2ae29e333292b3612680d90d01c38"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "NBX",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://nbx.com",
+        "finalUrl": "https://nbx.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:25.591Z",
+        "bodySha256": "1a398c13af8743527c7d74510049f8245576bfe81bd6f5a9f0fba4cdbd8cdd7a"
+      },
+      "board": {
+        "url": "https://nbx.com/en/careers",
+        "finalUrl": "https://nbx.com/en/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:25.966Z",
+        "bodySha256": "79e3c1da6989383beb6cddae7d60dade22dbb9ece73f57e8bd57d1d92f4cc7f8"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Netcoins",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://netcoins.com",
+        "finalUrl": "https://netcoins.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:26.080Z",
+        "bodySha256": "dc84cb182b00a4ea5e57ebc53cabff7a419600949347e80972ee81c893d63fcf"
+      },
+      "board": {
+        "url": "https://netcoins.com/careers",
+        "finalUrl": "https://netcoins.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:26.457Z",
+        "bodySha256": "35bb3862516be4f58f5ecfbc1879379cd50e51f3fdbb9e35a9420a6e3c55b2a1"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Mt Pelerin",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://mtpelerin.com",
+        "finalUrl": "https://www.mtpelerin.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:26.616Z",
+        "bodySha256": "0ded5e21bfc08cb7324491550dc66d265b435c967109058bfca96735cbea2abe"
+      },
+      "board": {
+        "url": "https://www.mtpelerin.com:443/careers",
+        "finalUrl": "https://www.mtpelerin.com:443/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:27.188Z",
+        "bodySha256": "0206621ee09984a47c23551defcaa50c46c99f493599078cfcac4369d519b127"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Relai",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://relai.app",
+        "finalUrl": "https://relai.app",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:27.787Z",
+        "bodySha256": "b232e933fa1e7d3e6bc12a4ed57f7fd6f158759aedb8714cc94e918fc5f7dcbf"
+      },
+      "board": {
+        "url": "https://relai.app/career/",
+        "finalUrl": "https://relai.app/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:29.734Z",
+        "bodySha256": "ba7792175f3992ebd467cb6f088c01a0ea66c5e3ba6d0c3b4cb055b7505c222f"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Flitpay",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://flitpay.com",
+        "finalUrl": "https://www.flitpay.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:20.811Z",
+        "bodySha256": "82520baa44014e0317c35096f460e4abd5edd1f2f69bf335abea4c0b0a732680"
+      },
+      "board": {
+        "url": "https://www.flitpay.com/careers",
+        "finalUrl": "https://www.flitpay.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:29.819Z",
+        "bodySha256": "a523986c59b15bdcce739a571c19160442c12e679e3a8cf07e9c79312b3a1655"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Paymium",
+      "provider": "welcomekit",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://paymium.com",
+        "finalUrl": "https://www.paymium.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:29.856Z",
+        "bodySha256": "d9e31a342b3391dcc8a489c9b648ec8af43edbd2c8a0505d40536b274d140e14"
+      },
+      "board": {
+        "url": "https://paymium.welcomekit.co/",
+        "finalUrl": "https://paymium.welcomekit.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:30.695Z",
+        "bodySha256": "ee77e4f7bd2c28f0c33ae3779be481a27d9b3135a2b2791e8be45e4919d71ee6"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Safello",
+      "provider": "teamtailor",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://safello.com",
+        "finalUrl": "https://safello.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:30.281Z",
+        "bodySha256": "729e4b950b6c72f3af654fd5ed8ab4fb19d9657bc38100b08f249abf5846f950"
+      },
+      "board": {
+        "url": "https://careers.safello.com/",
+        "finalUrl": "https://careers.safello.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:30.377Z",
+        "bodySha256": "b14f4ca05fb702830007a8fc5810aebac611e24f0c667bed1570e68e57a8a1c2"
+      },
+      "apiJobCount": null,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Tangany",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://tangany.com",
+        "finalUrl": "https://tangany.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:32.104Z",
+        "bodySha256": "fceddfa0441040da0a83c42ab30b0377fb956b1376d58f4f9de479463288a74a"
+      },
+      "board": {
+        "url": "https://tangany.com/jobs",
+        "finalUrl": "https://tangany.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:32.362Z",
+        "bodySha256": "da539fae2560c6546a1d41c9a2e85d1ebd0a4b3d823be2c4abd3138660cf8574"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Waltio",
+      "provider": "odoo",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.waltio.com/",
+        "finalUrl": "https://www.waltio.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:32.291Z",
+        "bodySha256": "1904a6f9b610ad97e16f182c26189b1b8904b5fbfa40cc91faeb068a13cc70bd"
+      },
+      "board": {
+        "url": "https://waltio2.odoo.com/en",
+        "finalUrl": "https://waltio2.odoo.com/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:32.968Z",
+        "bodySha256": "0f32ad667d5d1daf6c58798ca6190fe341589766238b446f23cf42dc744d348d"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "SBI VC Trade",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://sbivc.co.jp",
+        "finalUrl": "https://www.sbivc.co.jp/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:32.387Z",
+        "bodySha256": "6fd4aac7710b5be81eb38d9b66f57eb40bf7ba30f0aa1450bbd6466bd0aa108b"
+      },
+      "board": {
+        "url": "https://www.sbivc.co.jp:443/adoption",
+        "finalUrl": "https://www.sbivc.co.jp:443/adoption",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:33.234Z",
+        "bodySha256": "3e22ba33f81084e5d211e2024030c2b27a989df3f4363d8d42a64ad906f7b588"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Swissquote",
+      "provider": "smartrecruiters",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.swissquote.com/en/careers",
+        "finalUrl": "https://www.swissquote.com/en/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:33.350Z",
+        "bodySha256": "6948283b69aa7be0641a9f5c7db9bd0ef746a5786408decdd78c6fbf00fafe10"
+      },
+      "board": {
+        "url": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+        "finalUrl": "https://careers.smartrecruiters.com/Swissquote/all-jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.036Z",
+        "bodySha256": "aee1c89f1a976312911224ae8b2295e339254268e26f18f4ba662f8c65faa60e"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Zumo",
+      "provider": "first-party",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://zumo.tech",
+        "finalUrl": "https://zumo.co.uk/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.083Z",
+        "bodySha256": "c42378eb58dabb5bcd79ec46dd0fe0cbe6563270fcce9d30ed451a2d694c31d4"
+      },
+      "board": {
+        "url": "https://zumo.co.uk/careers/",
+        "finalUrl": "https://zumo.co.uk/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.467Z",
+        "bodySha256": "7adee11c6db2b3654babfa3b2c8d698cf6160393fdc89f780f48f02a28935c5c"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Applied Blockchain",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.appliedblockchain.com/careers",
+        "finalUrl": "https://www.appliedblockchain.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.249Z",
+        "bodySha256": "28a15982bcad855461990d0e800b231d31eb0a8f3e9fe349425681ec375c65ed"
+      },
+      "board": {
+        "url": "https://apply.workable.com/appliedblockchain",
+        "finalUrl": "https://apply.workable.com/appliedblockchain",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.543Z",
+        "bodySha256": "cbe03794ea1d4106e8a1b63da1c1178c8420e3901878a375cf6bdb90ee84c260"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Ankr",
+      "provider": "breezy",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://ankr.com",
+        "finalUrl": "https://www.ankr.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:33.968Z",
+        "bodySha256": "dcdf3cf1ff5bf6449bc731a2827c42b4d8359125a0e143c73a53f97026046729"
+      },
+      "board": {
+        "url": "https://ankr-pbc.breezy.hr",
+        "finalUrl": "https://ankr-pbc.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.845Z",
+        "bodySha256": "4e67d9d356b15ff72d4bb82a73b0d0dd566f5333411bd463cbf4aa89156c90ab"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Arcus",
+      "provider": "gem",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://arcus.xyz/careers",
+        "finalUrl": "https://arcus.xyz/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:34.629Z",
+        "bodySha256": "1c47c9392d00254f1deee41cfacf06e658a1ab175dac4211b0d0cf4fb7a4a244"
+      },
+      "board": {
+        "url": "https://jobs.gem.com/arcus",
+        "finalUrl": "https://jobs.gem.com/arcus",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:35.537Z",
+        "bodySha256": "9c12eaa2981f193903c2defea6dd2bafc612677971bf195432d1c48052057aa2"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Argus Labs",
+      "provider": "gem",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://argus.gg",
+        "finalUrl": "https://argus.gg",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:35.495Z",
+        "bodySha256": "37c203b99b5504661e97d063906d239205a255b2507f5bbcdd8a804592b14568"
+      },
+      "board": {
+        "url": "https://jobs.gem.com/argus-labs",
+        "finalUrl": "https://jobs.gem.com/argus-labs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:36.637Z",
+        "bodySha256": "9841703f27c4fc65648dae9bc7dfa143d76d89ff8a46ff5df176fc3c703064f8"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Auros",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://www.auros.global/careers",
+        "finalUrl": "https://www.auros.global/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:35.959Z",
+        "bodySha256": "7bc88f93869c12f4369caa5c4d11db6d311e973d6cfe0867af2eee450a3f9ce1"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/aurosglobal",
+        "finalUrl": "https://job-boards.greenhouse.io/aurosglobal",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:36.333Z",
+        "bodySha256": "f3199fd784fe397726a0ac3b8a1cbb095c91de5c1c40973432fe91beb490fcb9"
+      },
+      "apiJobCount": 3,
+      "candidateCount": 3,
+      "quarantined": 0,
+      "dateOutcomes": [
+        {
+          "title": "Experienced Trader (Hong Kong or New York)",
+          "date": "2025-11-04T23:42:59-05:00",
+          "age": "expired"
+        },
+        {
+          "title": "Principal Security Engineer",
+          "date": "2026-02-10T03:46:52-05:00",
+          "age": "expired"
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "date": "2026-05-19T04:29:22-04:00",
+          "age": "expired"
+        }
+      ],
+      "sample": [
+        {
+          "title": "Experienced Trader (Hong Kong or New York)",
+          "date": "2025-11-04T23:42:59-05:00",
+          "age": "expired"
+        },
+        {
+          "title": "Principal Security Engineer",
+          "date": "2026-02-10T03:46:52-05:00",
+          "age": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Arrakis Finance",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://arrakis.finance/careers",
+        "finalUrl": "https://arrakis.finance/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:35.923Z",
+        "bodySha256": "725c9978c05e361f3cafe9d1dd87b154218e7decb88f77ff5e908810d060c716"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Arrakis",
+        "finalUrl": "https://jobs.ashbyhq.com/Arrakis",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:36.346Z",
+        "bodySha256": "3d7bd7f226e5c0238353ecaa7bf6c3f04fd98d0ff10aa830d08cbfa6b48773f5"
+      },
+      "apiJobCount": 3,
+      "candidateCount": 0,
+      "quarantined": 3,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Bitaccess",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bitaccess.ca",
+        "finalUrl": "https://bitaccess.ca",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:37.715Z",
+        "bodySha256": "ea9d72953aef1332f806720d4f5176b127de694149b7a06c59bcfb3940d9efa9"
+      },
+      "board": {
+        "url": "https://apply.workable.com/bitaccess",
+        "finalUrl": "https://apply.workable.com/bitaccess",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:37.995Z",
+        "bodySha256": "caa1469c6f545345843e8732715d8c80f7ba15e5c44879279de12322257301b7"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Axiom",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://axiom.xyz",
+        "finalUrl": "https://www.axiom.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:37.352Z",
+        "bodySha256": "4c31922b338f06fe2051a961ee4520dc9fdd2663dbdb91deeacef52a36cdd410"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/axiom",
+        "finalUrl": "https://jobs.ashbyhq.com/axiom",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:37.742Z",
+        "bodySha256": "3526819cf244b37dcf145e95e98f7a1a6444e584db86d6d5b2c7c5291630a63a"
+      },
+      "apiJobCount": 3,
+      "candidateCount": 0,
+      "quarantined": 3,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Bluefin",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bluefin.io/careers",
+        "finalUrl": "https://bluefin.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:38.085Z",
+        "bodySha256": "b7d4f64983658fb4b5a3ee0791e922533f096562801887895905db8bb80af400"
+      },
+      "board": {
+        "url": "https://apply.workable.com/bluefin",
+        "finalUrl": "https://apply.workable.com/bluefin",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:38.661Z",
+        "bodySha256": "a112d1d7a1bbee65342a882dbe06b00a3feda37cc5bba413631f01320a950b0c"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "BOB",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://gobob.xyz",
+        "finalUrl": "https://www.gobob.xyz/en",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:39.137Z",
+        "bodySha256": "184376f1a60a6199e8cee03f503d5a7b4edb4cce67c35098abe6e76dd2c5c8e3"
+      },
+      "board": {
+        "url": "https://apply.workable.com/distributedcrafts",
+        "finalUrl": "https://apply.workable.com/distributedcrafts",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:39.467Z",
+        "bodySha256": "8d72230b86d816faa43e4d024bceef9a124fbb19d5a558a3c9878939822975ea"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Bitonic",
+      "provider": "homerun",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://bitonic.nl/nl/jobs",
+        "finalUrl": "https://bitonic.nl/nl/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:39.272Z",
+        "bodySha256": "d31ea83ce1ea08d17cb86dfbef6469e029e4b0deb8acb5a541acf3d44af2815c"
+      },
+      "board": {
+        "url": "https://bitonic.homerun.co",
+        "finalUrl": "https://bitonic.homerun.co",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:40.161Z",
+        "bodySha256": "07cae7958d8c31a50a1b48a84a40128f1627cabcd1ac5f29c8717a8371dd50bf"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Boost",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://boost.xyz",
+        "finalUrl": "https://www.boost.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:40.122Z",
+        "bodySha256": "770993eed81fbb9a65ed0629a8b9a11cd9e0093f5266812b1e954673c0585dc6"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Boost",
+        "finalUrl": "https://jobs.ashbyhq.com/Boost",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:40.518Z",
+        "bodySha256": "96c0460c165d8d0f4d2fc2f161cb2eaf83e4114985f0903f0eb332259d1be355"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Dialectic",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://dialectic.com/jobs",
+        "finalUrl": "https://dialectic.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:40.278Z",
+        "bodySha256": "4d374fa93f8d1f4ad0c71554e7de27de0943227c158a29725c3f3ad50f13eb1b"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/dialecticch",
+        "finalUrl": "https://job-boards.greenhouse.io/dialecticch",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:40.647Z",
+        "bodySha256": "3e87cfd5b06e894390d75b98031b57fa11b8b320be5e4162895090fea298092b"
+      },
+      "apiJobCount": 5,
+      "candidateCount": 5,
+      "quarantined": 0,
+      "dateOutcomes": [
+        {
+          "title": "Blockchain Developer Intern",
+          "date": "2026-04-28T04:55:37-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Business Development Manager",
+          "date": "2025-07-14T06:38:47-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "DeFi Analyst",
+          "date": "2024-10-28T07:53:33-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "date": "2025-07-10T10:54:55-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Protocol Risk Lead",
+          "date": "2025-10-27T08:58:44-04:00",
+          "age": "expired"
+        }
+      ],
+      "sample": [
+        {
+          "title": "Blockchain Developer Intern",
+          "date": "2026-04-28T04:55:37-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Business Development Manager",
+          "date": "2025-07-14T06:38:47-04:00",
+          "age": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Bullish",
+      "provider": "workday",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.bullish.com/careers",
+        "finalUrl": "https://www.bullish.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:39.554Z",
+        "bodySha256": "f51a9502eba54acab1047a71c78fab6b534d0526b64133399399268cdfb18cfd"
+      },
+      "board": {
+        "url": "https://bullish.wd3.myworkdayjobs.com/Bullish",
+        "finalUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:41.097Z",
+        "bodySha256": "b666da17d3de16c05751e9be0edd6449fc52d496bfea9bbbaf188bdaec90b0d8"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Eco",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://eco.com",
+        "finalUrl": "https://eco.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:41.218Z",
+        "bodySha256": "80095b17ccbfe44fc740bfcf46eec0639fe5fcbf743fde13b0fe23251257167a"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/ecoinc",
+        "finalUrl": "https://job-boards.greenhouse.io/ecoinc",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:41.634Z",
+        "bodySha256": "833d3c843b9e1626325fa26b2f8481c355866a97b598232559800c6e33993d74"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": [],
+      "sample": []
+    },
+    {
+      "company": "Hype",
+      "provider": "recruitee",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://hy.pe",
+        "finalUrl": "https://www.hy.pe/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:41.307Z",
+        "bodySha256": "7c1ca51d3ecfe64b7727bffc3f10cdfa93ac33c7a2e2e5fd52577ac50513783a"
+      },
+      "board": {
+        "url": "https://hypepartners.recruitee.com",
+        "finalUrl": "https://hypepartners.recruitee.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:42.710Z",
+        "bodySha256": "ca79a5ed5e224854bdd6a6fd8436bbeeb218982e6de2bb169c34c3c8577a0b47"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Institute of Free Technology",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://free.technology/jobs",
+        "finalUrl": "https://free.technology/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:42.587Z",
+        "bodySha256": "9194e57ac740689ddfb6b2dea45f8a9de9fb241f09e95a9c80f2841a2cb0ec82"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/iftother",
+        "finalUrl": "https://job-boards.greenhouse.io/iftother",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:42.924Z",
+        "bodySha256": "49e36010b62c0f53900919dceb9da7a5dd890cb3a2abf583b9292bd6f9c6cd53"
+      },
+      "apiJobCount": 3,
+      "candidateCount": 3,
+      "quarantined": 0,
+      "dateOutcomes": [
+        {
+          "title": "Head of Business Development - Logos Ecosystem",
+          "date": "2026-09-03T16:25:18-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Volunteer position: Logos Circles Activist Builder ",
+          "date": "2026-02-03T08:30:25-05:00",
+          "age": "expired"
+        },
+        {
+          "title": " Volunteer position: Logos Circles Organiser ",
+          "date": "2025-11-14T05:47:15-05:00",
+          "age": "expired"
+        }
+      ],
+      "sample": [
+        {
+          "title": "Head of Business Development - Logos Ecosystem",
+          "date": "2026-09-03T16:25:18-04:00",
+          "age": "expired"
+        },
+        {
+          "title": "Volunteer position: Logos Circles Activist Builder ",
+          "date": "2026-02-03T08:30:25-05:00",
+          "age": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Injective Labs",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://injectivelabs.org/careers",
+        "finalUrl": "https://injectivelabs.org/careers/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:42.871Z",
+        "bodySha256": "7e1dfe10b364a390eca8142dfc6762ff0e0980673b19c7a1738df8e8438a7378"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/injective-labs",
+        "finalUrl": "https://jobs.ashbyhq.com/injective-labs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:43.174Z",
+        "bodySha256": "9fcde08593b0a8bc7b66e6ec63b001c20a4532cffcbeba1fcc05f620ade9dd2a"
+      },
+      "apiJobCount": 8,
+      "candidateCount": 0,
+      "quarantined": 8,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "IntellectEU",
+      "provider": "bamboohr",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.intellecteu.com/careers",
+        "finalUrl": "https://www.intellecteu.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:42.851Z",
+        "bodySha256": "27d3b03a0025e46fdb39e52d08d9701f080e4b39bd889a49c73bc45f6ce13a5b"
+      },
+      "board": {
+        "url": "https://intellecteu.bamboohr.com/careers",
+        "finalUrl": "https://intellecteu.bamboohr.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:43.959Z",
+        "bodySha256": "bfa1c0a50bcf86eb5919b6ddb42d2d1ad92c0956d13cab236079a4b47a572162"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Kappa Lab",
+      "provider": "gohire",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://kappalab.io/team#career",
+        "finalUrl": "https://kappalab.io/team#career",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:43.301Z",
+        "bodySha256": "4010c064f9599a661dc58d9affc76e4b842e05d0789148078384e374b4636930"
+      },
+      "board": {
+        "url": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
+        "finalUrl": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:44.159Z",
+        "bodySha256": "beef83c5ee75713c308634b4008cb7e7eaa5992f125d36922f25baaecc47f893"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Legend",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://legend.xyz",
+        "finalUrl": "https://legend.xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:43.869Z",
+        "bodySha256": "bd770b85883dd21e4fdc8e0dd69461050b9d6789d04e481f930a28438deb938a"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/legend-xyz",
+        "finalUrl": "https://jobs.ashbyhq.com/legend-xyz",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:44.254Z",
+        "bodySha256": "86fa53e41538a0be43a98b15f131823962ae44b16f4ccc900a29cc4183b19420"
+      },
+      "apiJobCount": 2,
+      "candidateCount": 0,
+      "quarantined": 2,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "N1",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://n1.xyz",
+        "finalUrl": "https://www.n1.xyz/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:45.232Z",
+        "bodySha256": "e42656e6d609acbd8fa7b3c51b995521f7f0795bf9931d81162cfff26b3f7c12"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/n1",
+        "finalUrl": "https://jobs.ashbyhq.com/n1",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:45.551Z",
+        "bodySha256": "2ed6a0e464a2d46d6f23f64beb381efa3ff95b5f34cb08807370ad5adb575292"
+      },
+      "apiJobCount": 10,
+      "candidateCount": 0,
+      "quarantined": 10,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Lisk",
+      "provider": "personio",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://lisk.com",
+        "finalUrl": "https://lisk.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:45.349Z",
+        "bodySha256": "6df7c16380e96c2dfe4f3f1575a92385bf10cc58a603e15f0bebe3ec008d35af"
+      },
+      "board": {
+        "url": "https://lisk.jobs.personio.com",
+        "finalUrl": "https://lisk.jobs.personio.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:46.147Z",
+        "bodySha256": "3d40effdf609f2d507585ee3d8b7bebf662d6d7ebf33325cf744ede5867dfebd"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "Makina",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://app.makina.finance",
+        "finalUrl": "https://makina.finance/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:45.612Z",
+        "bodySha256": "a300ccb1dd5e8ca90184b06230897656515fb04ba6b686d4270c76a5ecd665e4"
+      },
+      "board": {
+        "url": "https://job-boards.eu.greenhouse.io/makina",
+        "finalUrl": "https://job-boards.eu.greenhouse.io/makina",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:46.037Z",
+        "bodySha256": "9c3bae1ed30b8002f4514bdf0c578ba755f47387d82c93906a15ad76ce239a16"
+      },
+      "apiJobCount": 2,
+      "candidateCount": 2,
+      "quarantined": 0,
+      "dateOutcomes": [
+        {
+          "title": "Business Development Manager",
+          "date": "2025-01-21T10:42:49-05:00",
+          "age": "expired"
+        },
+        {
+          "title": "Protocol Risk Lead",
+          "date": "2025-10-27T08:58:43-04:00",
+          "age": "expired"
+        }
+      ],
+      "sample": [
+        {
+          "title": "Business Development Manager",
+          "date": "2025-01-21T10:42:49-05:00",
+          "age": "expired"
+        },
+        {
+          "title": "Protocol Risk Lead",
+          "date": "2025-10-27T08:58:43-04:00",
+          "age": "expired"
+        }
+      ]
+    },
+    {
+      "company": "Nimbus",
+      "provider": "greenhouse",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://nimbus.team/join-us",
+        "finalUrl": "https://nimbus.team/join-us",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:46.687Z",
+        "bodySha256": "2ded467335f5b74acbe4baa103d6f8631eb59d3d94028e3964715658423e21fb"
+      },
+      "board": {
+        "url": "https://job-boards.greenhouse.io/nimbus",
+        "finalUrl": "https://job-boards.greenhouse.io/nimbus",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:47.112Z",
+        "bodySha256": "64fa965e9d239ba7d84c8fd2f521c9e6ef6407a05a4b330ca8dd62906191db80"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": [],
+      "sample": []
+    },
+    {
+      "company": "Optimism Foundation",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://optimism.io/careers",
+        "finalUrl": "https://optimism.io/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:46.704Z",
+        "bodySha256": "3ad40d5dd82a7a1531d95c4f224b55665c2a80b7e8809f8c204b32efa8666f76"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/opfoundation",
+        "finalUrl": "https://jobs.ashbyhq.com/opfoundation",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:47.196Z",
+        "bodySha256": "dee0b4ba565c43bf34a0cdf10532c3cfe44b26bd538439bee7bcf138a65d29fe"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Quantstamp",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://quantstamp.com/careers",
+        "finalUrl": "https://quantstamp.com/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:47.626Z",
+        "bodySha256": "a294ed9437adc799d6a4a6e7814eee001b90948c965f6e4348ac3a11aa523ee6"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/quantstamp",
+        "finalUrl": "https://jobs.ashbyhq.com/quantstamp",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:48.043Z",
+        "bodySha256": "e1624f95691ba12134313dd2864c7e1ba61057479367642dfecf9812e6ddac2b"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "QCP Capital",
+      "provider": "workable",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://www.qcpgroup.com/career/",
+        "finalUrl": "https://www.qcpgroup.com/career/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:48.256Z",
+        "bodySha256": "790508a51921fb8fda93d66aba80c8cdcf2eb645db51cdf801d1bb9073a053fb"
+      },
+      "board": {
+        "url": "https://apply.workable.com/qcp-group",
+        "finalUrl": "https://apply.workable.com/qcp-group",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:48.618Z",
+        "bodySha256": "030bcc7bec2f50a2310529ae2f8bb39bf18ea2996a9408638e9e9ce792801104"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "The Better Money Company",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://bettermoney.com",
+        "finalUrl": "https://bettermoney.com",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:47.642Z",
+        "bodySha256": "b6db9884c0abe68a19a9c72796743279b0fdad1eea4020dcfded638be5698179"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/bettermoney",
+        "finalUrl": "https://jobs.ashbyhq.com/bettermoney",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:48.878Z",
+        "bodySha256": "015d8730e454853672d042bc74b601e47ada5490b9ff7183476d4cf0596cbc07"
+      },
+      "apiJobCount": 7,
+      "candidateCount": 0,
+      "quarantined": 7,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Trilitech",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://www.trili.tech/careers",
+        "finalUrl": "https://www.trili.tech/careers",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:48.508Z",
+        "bodySha256": "b37b8551e64a6ea2741a59027a728ef4820dbd4584938b2f8887ea9965043f25"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/trilitech",
+        "finalUrl": "https://jobs.ashbyhq.com/trilitech",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:49.637Z",
+        "bodySha256": "c7baf97acaf44a47e0dda088da52d20c39ab8f481e6ea1ad51d3a223a59dbf9b"
+      },
+      "apiJobCount": 3,
+      "candidateCount": 0,
+      "quarantined": 3,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Usual",
+      "provider": "breezy",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://usual.money",
+        "finalUrl": "https://usual.money",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:49.055Z",
+        "bodySha256": "b46ac609cd0b549643f66f427b2aa83f7cd123efb07ef904075a54208b4708bc"
+      },
+      "board": {
+        "url": "https://usual.breezy.hr",
+        "finalUrl": "https://usual.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:50.058Z",
+        "bodySha256": "7b548bb0b552e6e72f71994935f20e020baf0d33106e79c65ea2f90e11cc00fd"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Violet",
+      "provider": "breezy",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://violet.co",
+        "finalUrl": "https://www.violet.co/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:50.187Z",
+        "bodySha256": "baf12aa2c5fe9cafb29907011255ea1a70343d154fc2af14a74d08159c37a166"
+      },
+      "board": {
+        "url": "https://violet.breezy.hr",
+        "finalUrl": "https://violet.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:51.025Z",
+        "bodySha256": "33259de61c217f894e04273b76c977c2790a671c7b57cdf4e64e876ecc7489d5"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "VeeFriends",
+      "provider": "rippling",
+      "status": "live-careers-only-monitor",
+      "official": {
+        "url": "https://veefriends.com/jobs",
+        "finalUrl": "https://veefriends.com/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:50.764Z",
+        "bodySha256": "3c2252d0094e54378b024f46ce03b036a1fc7fff00fa6a08fd6fd8be6ad9f5fd"
+      },
+      "board": {
+        "url": "https://ats.rippling.com/veefriends-llc/jobs",
+        "finalUrl": "https://ats.rippling.com/veefriends-llc/jobs",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:52.025Z",
+        "bodySha256": "982b1d5a20814ad2719333247ea4ee4bf8116eee3b20070babe92e983c5a3f43"
+      },
+      "candidateCount": null,
+      "eligibleCount": null
+    },
+    {
+      "company": "ZenLedger",
+      "provider": "breezy",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://zenledger.io",
+        "finalUrl": "https://zenledger.io",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:51.378Z",
+        "bodySha256": "c77d346d75a174176b20ca1f54a621586ae9690dd847297f04360332498952fe"
+      },
+      "board": {
+        "url": "https://zenledger.breezy.hr",
+        "finalUrl": "https://zenledger.breezy.hr",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:52.097Z",
+        "bodySha256": "4655ed462000bd4b2510116ee948f0b25fc7c2067c296d1e8c94dff192e0aca7"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    },
+    {
+      "company": "Zircuit",
+      "provider": "ashby",
+      "status": "live-source-verified",
+      "official": {
+        "url": "https://www.zircuit.com/",
+        "finalUrl": "https://www.zircuit.com/",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:52.043Z",
+        "bodySha256": "1b04677ece766df1abbb06fa0368da641dd1585763bfc634694f73f613ed0ac4"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/Zircuit",
+        "finalUrl": "https://jobs.ashbyhq.com/Zircuit",
+        "status": 200,
+        "checkedAt": "2026-10-14T21:14:52.409Z",
+        "bodySha256": "0726982f6680a5c36d1951c0ec0acf9f8562230fd834b245bba50787e32a2afa"
+      },
+      "apiJobCount": 0,
+      "candidateCount": 0,
+      "quarantined": 0,
+      "dateOutcomes": null,
+      "sample": []
+    }
+  ]
+}

@@ -13,8 +13,8 @@ function main(): void {
     console.log('[test-standalone-public-assets] no .next/standalone — skip');
     return;
   }
-  assertStandalonePublicAssets(process.cwd(), STANDALONE);
-  console.log('[test-standalone-public-assets] ok');
+  assertStandalonePublicAssets(process.cwd(), STANDALONE, { requireBuildStatic: true });
+  console.log('[test-standalone-public-assets] public and generated JS/CSS/font assets match the current build byte-for-byte');
 }
 
 main();

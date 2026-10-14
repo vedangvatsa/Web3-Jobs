@@ -15,7 +15,8 @@ import { SOCIAL_PATH_SUFFIXES } from '../src/lib/social-share';
 import { learnPageMetadata } from '../src/lib/learn-meta';
 
 test('every course and lesson has a unique root URL without taking an existing content or job slug', () => {
-  const occupied = new Set<string>(Object.values(JSON.parse(fs.readFileSync('content/slug-types.json', 'utf8')) as Record<string, string[]>).flat());
+  const slugTypes = JSON.parse(fs.readFileSync('content/slug-types.json', 'utf8')) as Record<string, string[]>;
+  const occupied = new Set<string>(Object.entries(slugTypes).filter(([type]) => type !== 'pages' && type !== 'aliases').flatMap(([, slugs]) => slugs));
   const jobs = JSON.parse(fs.readFileSync('content/jobs-runtime.json', 'utf8')) as { slug: string }[];
   for (const job of jobs) occupied.add(job.slug);
   for (const slug of Object.keys(JSON.parse(fs.readFileSync('content/legacy-slugs-archive.json', 'utf8')))) occupied.add(slug);
@@ -26,6 +27,7 @@ test('every course and lesson has a unique root URL without taking an existing c
   const reserved = loadReservedRootSlugsSync();
   assert.equal(new Set(learnRoutes.map(route => route.slug)).size, learnRoutes.length);
   for (const route of learnRoutes) {
+    assert.ok(slugTypes.pages.includes(route.slug), `Learning page missing from root lookup: ${route.slug}`);
     assert.match(route.slug, /^[a-z0-9]+(?:-[a-z0-9]+)*$/);
     assert.ok(!occupied.has(route.slug), `Occupied learning slug: ${route.slug}`);
     assert.ok(!SOCIAL_PATH_SUFFIXES.has(route.slug));

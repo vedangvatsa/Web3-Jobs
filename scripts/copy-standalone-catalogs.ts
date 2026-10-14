@@ -5,7 +5,8 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { assertStandalonePublicAssets } from './lib/standalone-public-assets';
+import assert from 'node:assert/strict';
+import { assertStandalonePublicAssets, requiredBuildStaticAssets } from './lib/standalone-public-assets';
 import { writeCatalogFreshness } from './lib/catalog-freshness.mjs';
 
 const ROOT = process.cwd();
@@ -119,18 +120,33 @@ function copyPublicRootFiles(): void {
   }
 }
 
+function copyBuildStatic(): number {
+  const source = path.join(ROOT, '.next', 'static');
+  const destination = path.join(STANDALONE, '.next', 'static');
+  for (const directory of [path.join(ROOT, '.next'), STANDALONE, path.dirname(destination), destination]) {
+    const entry = fs.lstatSync(directory, { throwIfNoEntry: false });
+    assert.ok(!entry || entry.isDirectory(), `Expected a real build directory (no symlinks): ${directory}`);
+  }
+  const assets = requiredBuildStaticAssets(ROOT);
+  fs.rmSync(destination, { recursive: true, force: true });
+  fs.mkdirSync(path.dirname(destination), { recursive: true });
+  fs.cpSync(source, destination, { recursive: true, force: false, errorOnExist: true });
+  return assets.length;
+}
+
 function main(): void {
-  if (!fs.existsSync(STANDALONE)) {
+  if (!fs.lstatSync(STANDALONE, { throwIfNoEntry: false })) {
     console.log('[copy-standalone-catalogs] no .next/standalone — skip');
     return;
   }
+  const staticCount = copyBuildStatic();
   writeCatalogFreshness(ROOT);
   for (const file of FILES) copyFile(file);
   for (const [src, dest] of DIRS) copyDir(src, dest);
   copyPublicRootFiles();
 
-  assertStandalonePublicAssets(ROOT, STANDALONE);
-  console.log('[copy-standalone-catalogs] site catalogs copied into .next/standalone');
+  assertStandalonePublicAssets(ROOT, STANDALONE, { requireBuildStatic: true });
+  console.log(`[copy-standalone-catalogs] site catalogs and ${staticCount} generated static assets copied and byte-verified in .next/standalone`);
 }
 
 main();

@@ -4,10 +4,14 @@ import type { Web3Event } from '../src/lib/events';
 import type { ResourcePage } from '../src/types/pseo';
 import type { Job } from '../src/types';
 import { getPopupSlugs } from '../src/lib/popups';
+import { learnRoutes } from '../src/lib/learn-routes';
+import nomadCities from '../content/nomads/cities.json';
+import { appRootPageSlugs, publicRootFiles } from './lib/public-page-files';
+import nextConfig from '../next.config.mjs';
 
 const OUT_FILE = path.join(process.cwd(), 'content', 'slug-types.json');
 
-function main() {
+async function main() {
   const eventsFile = path.join(process.cwd(), 'content', 'events-runtime.json');
   const events: Web3Event[] = fs.existsSync(eventsFile)
     ? JSON.parse(fs.readFileSync(eventsFile, 'utf-8'))
@@ -67,11 +71,14 @@ function main() {
 
   const popupSlugs = new Set<string>(getPopupSlugs().map((slug) => slug.toLowerCase().trim()));
 
-  const appDir = path.join(process.cwd(), 'src', 'app');
-  const staticPageSlugs = new Set(fs.readdirSync(appDir, { withFileTypes: true })
-    .filter((entry) => entry.isDirectory() && !entry.name.startsWith('[')
-      && fs.existsSync(path.join(appDir, entry.name, 'page.tsx')))
-    .map((entry) => entry.name.toLowerCase()));
+  const staticPageSlugs = new Set(appRootPageSlugs().map(slug => slug.toLowerCase()));
+  const pageSlugs = new Set([
+    ...staticPageSlugs,
+    ...nomadCities.map(city => city.slug),
+    ...learnRoutes.map(route => route.slug),
+  ]);
+  const rootAliases = new Set((await nextConfig.redirects()).map(redirect => redirect.source.replace(/\/:suffix\*$/, ''))
+    .filter(source => /^\/[^/:*()]+$/.test(source)).map(source => source.slice(1).toLowerCase()));
   const jobs: Job[] = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/jobs-runtime.json'), 'utf8'));
   const legacyJobs: Record<string, unknown> = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/legacy-slugs-archive.json'), 'utf8'));
   const legacyJobSlugs = new Set(Object.keys(legacyJobs).map((slug) => slug.toLowerCase().trim()));
@@ -91,10 +98,13 @@ function main() {
     popups: Array.from(popupSlugs),
     jobs: Array.from(jobSlugs).sort(),
     staticPages: Array.from(staticPageSlugs).sort(),
+    pages: Array.from(pageSlugs).sort(),
+    publicFiles: publicRootFiles().map(file => path.basename(file)),
+    aliases: Array.from(rootAliases).sort(),
   };
 
   fs.writeFileSync(OUT_FILE, JSON.stringify(out));
   console.log(`[generate-slug-types] Wrote slug index to ${OUT_FILE}`);
 }
 
-main();
+main().catch(error => { console.error(error); process.exitCode = 1; });

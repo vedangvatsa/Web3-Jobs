@@ -5,224 +5,231 @@ import { spawn } from 'node:child_process';
 import { setTimeout as delay } from 'node:timers/promises';
 import { chromium } from 'playwright';
 import puppeteer from 'puppeteer';
-import { RECOVERY_SECTIONS, recoveryContext, recoveryDestinations } from '../src/lib/page-recovery';
+import nextConfig from '../next.config.mjs';
+import slugTypes from '../content/slug-types.json';
+import jobs from '../content/jobs-runtime.json';
+import latestArticles from '../content/latest-articles.json';
+import { isExpiredJobPath } from '../src/lib/job-age-path';
+import { isRemovedJobPath } from '../src/lib/removed-job-path';
+import { SOCIAL_UTM_MAP } from '../src/lib/social-share';
+import { recoveryPaths, retiredResourcePaths, missingMachinePaths } from './lib/page-recovery-cases';
 
-const origin = 'http://127.0.0.1:3185';
+const origin = (process.env.PAGE_RECOVERY_BASE_URL || 'http://localhost:3185').replace('http://127.0.0.1:', 'http://localhost:');
 const output = '.cache/page-recovery';
-const humanHeaders = { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Dest': 'document' };
-
-function luminance(color: string) {
-  return (color.match(/[\d.]+/g) || []).slice(0, 3).map(Number).map(channel => {
-    const n = channel / 255;
-    return n <= 0.04045 ? n / 12.92 : ((n + 0.055) / 1.055) ** 2.4;
-  }).reduce((sum, n, index) => sum + n * [0.2126, 0.7152, 0.0722][index], 0);
-}
+const humanHeaders = { 'User-Agent': 'Mozilla/5.0', Accept: 'text/html', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Dest': 'document' };
+const request = (href: string, options: RequestInit = {}) => fetch(origin + href, { redirect: 'manual', signal: AbortSignal.timeout(60000), ...options });
 
 async function main() {
-  assert.equal(recoveryContext('/jobs/unknown-role').section, 'jobs');
-  assert.equal(recoveryContext('/companies/missing').section, 'companies');
-  assert.equal(recoveryContext('/learn/missing/lesson').section, 'learn');
-  assert.equal(recoveryContext('/news/missing').section, 'news');
-  assert.equal(recoveryContext('/evnets').suggestion, 'events');
-  assert.equal(recoveryContext('/jbos').suggestion, 'jobs');
-  assert.equal(recoveryContext('/glosary').suggestion, 'glossary');
-  for (const input of ['/', '/constructor', '/__proto__', '/totally-unrelated', '/%E0%A4%A']) {
-    assert.equal(recoveryContext(input).suggestion, undefined, input);
-    assert.equal(recoveryContext(input).section, undefined, input);
-  }
-  const privateQuery = recoveryContext('/events/missing?token=private-example#private-fragment');
-  assert.deepEqual(privateQuery, recoveryContext('/events/missing'));
-  assert.equal(recoveryContext(`/${'x'.repeat(2000)}`).section, undefined);
-  assert.equal(recoveryContext('/%0a%0d%09%E2%80%AEevent').section, undefined);
-  for (const section of Object.keys(RECOVERY_SECTIONS) as (keyof typeof RECOVERY_SECTIONS)[]) {
-    const destinations = recoveryDestinations(section);
-    assert.equal(destinations[0], section);
-    assert.equal(destinations.length, 4);
-    assert.equal(new Set(destinations).size, 4);
-  }
-
   fs.mkdirSync(output, { recursive: true });
   fs.writeFileSync(`${output}/.gitignore`, '*\n');
   const standalone = path.resolve('.next/standalone');
-  fs.cpSync('.next/static', path.join(standalone, '.next/static'), { recursive: true });
-  const server = spawn(process.execPath, [path.join(standalone, 'server.js')], { cwd: standalone, env: { ...process.env, HOSTNAME: '127.0.0.1', PORT: '3185' }, stdio: ['ignore', 'pipe', 'pipe'] });
-  let logs = ''; server.stdout.on('data', chunk => logs += chunk); server.stderr.on('data', chunk => logs += chunk);
+  const server = process.env.PAGE_RECOVERY_BASE_URL ? undefined : spawn(process.execPath, [path.join(standalone, 'server.js')], {
+    cwd: standalone, env: { ...process.env, HOSTNAME: '127.0.0.1', PORT: '3185' }, stdio: ['ignore', 'pipe', 'pipe'],
+  });
+  let logs = '';
+  server?.stdout?.on('data', chunk => logs += chunk);
+  server?.stderr?.on('data', chunk => logs += chunk);
   let browser;
+  let diagnostics: Record<string, unknown> = { status: 'running', origin, stage: 'HTTP contracts' };
   try {
-    let ready = false;
-    for (let attempt = 0; attempt < 80; attempt++) {
-      if (server.exitCode !== null) throw new Error(logs);
-      try { ready = (await fetch(`${origin}/icon.png`)).ok; } catch {}
-      if (ready) break;
-      await delay(250);
+    if (server) {
+      assert.deepEqual(JSON.parse(fs.readFileSync(path.join(standalone, 'content/slug-types.json'), 'utf8')), slugTypes, 'Rebuild/package the current route index before browser verification');
+      let ready = false;
+      for (let attempt = 0; attempt < 100; attempt++) {
+        if (server.exitCode !== null) throw new Error(logs);
+        try { ready = (await request('/icon.png')).ok; } catch {}
+        if (ready) break;
+        await delay(250);
+      }
+      assert.ok(ready, logs);
     }
-    assert.ok(ready, logs);
-    for (const href of new Set(['/', ...Object.values(RECOVERY_SECTIONS).map(item => item.href)])) {
-      const response = await fetch(origin + href, { headers: humanHeaders, redirect: 'manual' });
-      assert.equal(response.status, 200, `Recovery destination ${href}`);
+
+    const liveJob = jobs.find(job => !isExpiredJobPath(`/${job.slug}`) && !isRemovedJobPath(`/${job.slug}`))?.slug;
+    assert.ok(liveJob, 'An active job is needed to prove that recovery does not retire live detail pages');
+    const destinations = new Set(['/', ...slugTypes.pages.map(slug => `/${slug}`),
+      ...['companies', 'glossary', 'resources', 'popups', 'events'].map(type => `/${slugTypes[type as keyof typeof slugTypes][0]}`), `/${latestArticles[0].slug}`, `/${liveJob}`]);
+    for (const href of destinations) {
+      const response = await request(href, { headers: humanHeaders });
+      assert.equal(response.status, 200, `Live destination ${href}`);
+      assert.equal(response.headers.get('location'), null, href);
       await response.arrayBuffer();
     }
-    for (const [href, status] of [['/eio', 410], ['/api/jobs', 404]] as const) {
-      const response = await fetch(origin + href, { headers: humanHeaders });
+
+    const redirects = await nextConfig.redirects!();
+    let aliases = 0;
+    for (const redirect of redirects) {
+      if ('has' in redirect && redirect.has) continue;
+      if (redirect.source.includes('.')) continue;
+      const variants = redirect.source.endsWith('/:suffix*') ? ['', '/tg']
+        : redirect.source.includes('/:platform(') ? ['/tg'] : [''];
+      for (const suffix of variants) {
+        const from = redirect.source.replace(/\/:suffix\*$/, suffix).replace(/\/:platform\([^)]*\)$/, suffix);
+        if (/[:*()]/.test(from)) continue;
+        const to = redirect.destination.replace(/\/:suffix\*/g, suffix).replace(/\/:platform/g, suffix);
+        const expected = new URL(to, origin);
+        expected.searchParams.set('from', 'saved');
+        const response = await request(`${from}?from=saved`, { headers: humanHeaders });
+        assert.equal(response.status, redirect.permanent ? 308 : 307, from);
+        const actual = new URL(response.headers.get('location')!, origin);
+        assert.equal(actual.origin, origin, from);
+        assert.equal(actual.pathname, expected.pathname, from);
+        assert.equal(actual.hash, expected.hash, from);
+        assert.deepEqual([...actual.searchParams].sort(), [...expected.searchParams].sort(), from);
+        await response.arrayBuffer();
+        aliases++;
+      }
+    }
+    for (const [suffix, utm] of Object.entries(SOCIAL_UTM_MAP)) {
+      const response = await request(`/jobs/${suffix}?q=engineer&utm_campaign=saved`, { headers: humanHeaders });
+      assert.equal(response.status, 307);
+      const target = new URL(response.headers.get('location')!);
+      assert.equal(target.pathname, '/jobs');
+      assert.equal(target.searchParams.get('q'), 'engineer');
+      assert.equal(target.searchParams.get('utm_campaign'), 'saved');
+      assert.equal(target.searchParams.get('utm_source'), utm.utm_source);
+      assert.equal(target.searchParams.get('utm_medium'), utm.utm_medium);
+    }
+    for (const href of ['/missing-recovery-test?token=private', '/missing-recovery-test/tg', '/marketing4', '/jobs/marketing4', '/job-listing-cache', '/job-listing-cache/999999999999999/jobs']) {
+      for (const method of ['GET', 'HEAD']) {
+        const response = await request(href, { method, headers: humanHeaders });
+        assert.equal(response.status, 307, `${method} ${href}`);
+        assert.equal(response.headers.get('location'), origin + '/');
+        assert.equal(response.headers.get('cache-control'), 'no-store');
+      }
+    }
+    for (const href of missingMachinePaths) for (const method of ['GET', 'HEAD', 'POST']) {
+      const response = await request(href, { method, headers: { Accept: 'application/json' } });
+      assert.equal(response.status, 404, `${method} ${href}`);
+      assert.equal(response.headers.get('location'), null);
+      assert.doesNotMatch(await response.text(), /<meta|<script|<html/i);
+    }
+    for (const href of [...retiredResourcePaths, '/marketing4?mode=agent']) for (const method of ['GET', 'HEAD', 'POST']) {
+      const response = await request(href, { method, headers: humanHeaders });
+      assert.equal(response.status, 410, `${method} ${href}`);
+      assert.equal(response.headers.get('location'), null);
+      assert.doesNotMatch(await response.text(), /<meta|<script|<html/i);
+    }
+    for (const [href, status] of [['/missing-recovery-test', 404], ['/unmatched/nested', 404], ['/marketing4', 410]] as const) {
+      const response = await request(href, { method: 'POST', headers: humanHeaders });
       assert.equal(response.status, status);
-      assert.match(response.headers.get('x-robots-tag') || '', /noindex/);
-      await response.arrayBuffer();
+      assert.equal(response.headers.get('location'), null);
+      assert.doesNotMatch(await response.text(), /<meta|<script/i);
     }
-    for (const [from, to] of [
-      ['/learn/careers', '/web3-careers'],
-      ['/learn/fundamentals/blockchains', '/blockchains'],
-      ['/learn/marketing/discord/tg', '/discord-community/tg'],
-    ]) {
-      const response = await fetch(`${origin}${from}?from=saved`, { headers: humanHeaders, redirect: 'manual' });
-      assert.equal(response.status, 308);
-      const location = new URL(response.headers.get('location')!, origin);
-      assert.equal(location.pathname + location.search, `${to}?from=saved`);
-      assert.ok(['127.0.0.1', 'localhost'].includes(location.hostname));
-      assert.equal(location.port, '3185');
-      await response.arrayBuffer();
-    }
+    const fallback = await request('/unmatched/nested', { headers: humanHeaders });
+    assert.equal(fallback.status, 404);
+    const fallbackHtml = await fallback.text();
+    assert.match(fallbackHtml, /<noscript><meta http-equiv="refresh" content="0;url=\/"><\/noscript>/);
+    assert.match(fallbackHtml, /<script>window\.location\.replace\('\/'\);<\/script>/, 'The JS fallback must run before React hydration');
+    assert.doesNotMatch(fallbackHtml.replace(/<noscript>[\s\S]*?<\/noscript>/g, ''), /<meta[^>]+http-equiv="refresh"/, 'JS navigation must not race a native meta refresh');
+    const freshnessResponse = await request('/data/catalog-freshness.json');
+    assert.equal(freshnessResponse.status, 200);
+    const freshness = await freshnessResponse.json() as { builtAt: string; snapshotId: string; catalogs: Record<string, { count: number }> };
+    const catalogSnapshot = { builtAt: freshness.builtAt, snapshotId: freshness.snapshotId, jobs: freshness.catalogs.jobs.count, companies: freshness.catalogs.companies.count, events: freshness.catalogs.events.count };
 
-    browser = await chromium.launch({ executablePath: process.env.CHROME_BIN || puppeteer.executablePath(), headless: true });
-    const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
-    await context.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.abort());
-    await context.addInitScript(() => localStorage.setItem('hw3_popup_dismissed', 'true'));
-    const page = await context.newPage();
-    const errors: string[] = [];
-    page.on('pageerror', error => errors.push(error.message));
-    const requests: string[] = [];
-    page.on('request', request => requests.push(request.url()));
-    const missingPath = '/missing-recovery-test?token=private-example#private-fragment';
-    assert.equal((await page.goto(origin + missingPath, { waitUntil: 'networkidle' }))?.status(), 404);
-    await page.locator('[data-page-recovery]').waitFor();
-    assert.equal(await page.locator('main h1').textContent(), 'Page not found');
-    assert.match(await page.title(), /Page not found/);
-    assert.ok(await page.locator('meta[name="robots"][content*="noindex"]').count());
-    assert.equal(await page.locator('main input, main form').count(), 0);
-    assert.equal(await page.locator('main a[href="/jobs"]').count(), 1);
-    assert.doesNotMatch(await page.locator('main').innerText(), /private-example|private-fragment/);
-    const dataRequests = requests.filter(url => new URL(url).pathname.match(/^\/(?:api|data|job-shards|articles-data)\//));
-    assert.deepEqual(dataRequests, [], 'A 404 must not load a catalog or call an API');
-
-    const viewports = [];
-    for (const width of [320, 390, 768, 1024, 1440]) for (const theme of ['light', 'dark']) {
-      await page.setViewportSize({ width, height: 1000 });
-      await page.locator('html').evaluate((element, dark) => element.classList.toggle('dark', dark), theme === 'dark');
-      await delay(250);
-      assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false, `${width}/${theme}: page overflow`);
-      const links = page.locator('main a');
-      for (const link of await links.all()) {
-        const box = await link.boundingBox();
-        assert.ok(box && box.height >= 44 && box.width >= 44, `${width}/${theme}: undersized link ${await link.textContent()}`);
-        assert.ok(box.x >= 0 && box.x + box.width <= width + 1, `${width}/${theme}: link escapes viewport`);
-      }
-      const geometry = await page.locator('[data-page-recovery]').evaluate(root => ({
-        container: root.getBoundingClientRect().toJSON(),
-        nav: root.querySelector('nav')!.getBoundingClientRect().toJSON(),
-        headingAlignment: getComputedStyle(root.querySelector('h1')!).textAlign,
-        cards: Array.from(root.querySelectorAll('nav a')).map(element => element.getBoundingClientRect().toJSON()),
-      }));
-      assert.equal(geometry.cards.length, 4);
-      assert.equal(geometry.headingAlignment, 'center');
-      assert.ok(Math.abs(geometry.container.x + geometry.container.width / 2 - geometry.nav.x - geometry.nav.width / 2) <= 1);
-      for (const card of geometry.cards) {
-        assert.ok(Math.abs(card.width - geometry.cards[0].width) <= 1, `${width}: unequal link widths`);
-        assert.ok(Math.abs(card.height - geometry.cards[0].height) <= 1, `${width}: unequal link heights`);
-      }
-      if (width >= 360) {
-        assert.equal(geometry.cards[0].y, geometry.cards[1].y);
-        assert.equal(geometry.cards[2].y, geometry.cards[3].y);
-        assert.equal(geometry.cards[0].x, geometry.cards[2].x);
-        assert.equal(geometry.cards[1].x, geometry.cards[3].x);
-      } else assert.ok(geometry.cards.every(card => card.x === geometry.cards[0].x));
-      const styles = await page.locator('main').evaluate(main => {
-        return Array.from(main.querySelectorAll('h1, h2, p, a, span')).filter(element => element.textContent?.trim() && element.getClientRects().length).map(element => {
-          const style = getComputedStyle(element);
-          let parent: Element | null = element;
-          let background = 'rgba(0, 0, 0, 0)';
-          while (parent && (background === 'rgba(0, 0, 0, 0)' || background === 'transparent')) {
-            background = getComputedStyle(parent).backgroundColor;
-            parent = parent.parentElement;
+    browser = await chromium.launch({ executablePath: process.env.CHROME_BIN || await puppeteer.executablePath(), headless: true });
+    const errors: { href: string; url: string; javaScriptEnabled: boolean; source: string; message: string; stack?: string }[] = [];
+    const resourceFailures: string[] = [], consoleMessages: string[] = [];
+    const successfulScripts = new Set<string>();
+    const expectedNavigationErrors = new Set<string>();
+    const clientRecoveryPaths = ['/missing-recovery-client-test', '/not/a/client-route', '/marketing4'];
+    const clientNavigations: { href: string; to: string; flightResponses: { url: string; status: number }[] }[] = [];
+    const navigations: { javaScriptEnabled: boolean; from: string; to: string; responses: { url: string; status: number }[] }[] = [];
+    diagnostics = { status: 'running', origin, stage: 'browser navigation', catalogSnapshot, destinations: destinations.size, aliases, socialSuffixes: Object.keys(SOCIAL_UTM_MAP).length, recoveryCasesPerMode: recoveryPaths.length, resourceFailures, browserErrors: errors, consoleMessages, navigations, clientNavigations };
+    assert.equal(recoveryPaths.length, 47);
+    for (const javaScriptEnabled of [true, false]) {
+      const context = await browser.newContext({ javaScriptEnabled, viewport: { width: 1440, height: 1000 } });
+      await context.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.fulfill({ status: 204, body: '' }));
+      await context.addInitScript(() => localStorage.setItem('hw3_popup_dismissed', 'true'));
+      const page = await context.newPage();
+      let activeHref = '(initial document)';
+      page.on('pageerror', error => errors.push({ href: activeHref, url: page.url(), javaScriptEnabled, source: 'pageerror', message: error.message, stack: error.stack }));
+      page.on('console', message => {
+        if (message.type() !== 'error') return;
+        consoleMessages.push(`${javaScriptEnabled ? 'JS' : 'NoJS'} ${activeHref} -> ${page.url()}: ${message.text()} ${message.location().url}`);
+        if (message.text().startsWith('Failed to load resource:') && expectedNavigationErrors.has(message.location().url)) return;
+        errors.push({ href: activeHref, url: page.url(), javaScriptEnabled, source: 'console', message: `${message.text()} ${message.location().url}` });
+      });
+      let documentResponses: { url: string; status: number }[] = [];
+      let flightResponses: { url: string; status: number }[] = [];
+      page.on('response', response => {
+        const req = response.request();
+        if (req.isNavigationRequest()) {
+          documentResponses.push({ url: response.url(), status: response.status() });
+          if (response.status() === 404) expectedNavigationErrors.add(response.url());
+        }
+        if (req.headers().rsc === '1') {
+          flightResponses.push({ url: response.url(), status: response.status() });
+          // Next retries failed RSC requests as document navigations, retaining the protocol error.
+          if ([404, 410].includes(response.status()) && clientRecoveryPaths.includes(new URL(response.url()).pathname)) expectedNavigationErrors.add(response.url());
+        }
+        if (response.url().startsWith(origin) && ['script', 'stylesheet', 'font'].includes(req.resourceType())) {
+          if (!response.ok()) resourceFailures.push(`${response.status()} ${response.url()}`);
+          else if (req.resourceType() === 'script') {
+            if (!/javascript/.test(response.headers()['content-type'] || '')) resourceFailures.push(`Non-JS script response: ${response.url()}`);
+            successfulScripts.add(response.url());
           }
-          const large = parseFloat(style.fontSize) >= 24 || (parseFloat(style.fontSize) >= 18.66 && Number(style.fontWeight) >= 700);
-          return { text: element.textContent!.slice(0, 60), color: style.color, background, minimum: large ? 3 : 4.5 };
-        });
+        }
       });
-      const contrast = styles.map(item => {
-        const foreground = luminance(item.color), background = luminance(item.background);
-        return { ...item, ratio: (Math.max(foreground, background) + .05) / (Math.min(foreground, background) + .05) };
+      page.on('requestfailed', req => {
+        if (!javaScriptEnabled && req.resourceType() === 'script') return;
+        if (req.url().startsWith(origin) && ['script', 'stylesheet', 'font'].includes(req.resourceType()) && req.failure()?.errorText !== 'net::ERR_ABORTED') {
+          resourceFailures.push(`${req.failure()?.errorText} ${req.url()}`);
+        }
       });
-      assert.deepEqual(contrast.filter(item => item.ratio < item.minimum), [], `${width}/${theme}: text contrast`);
-      const minimumContrast = Math.min(...contrast.map(item => item.ratio));
-      viewports.push({ width, theme, minimumContrast, columns: width >= 360 ? 2 : 1, symmetric: true });
-      if (width === 320 || width === 1440) {
-        await page.evaluate(() => window.scrollTo(0, 0));
-        await page.screenshot({ path: `${output}/${theme}-${width}.png`, fullPage: true });
+      for (const href of recoveryPaths) {
+        activeHref = href;
+        documentResponses = [];
+        await page.goto(origin + href, { waitUntil: 'load', timeout: 60000 });
+        await page.waitForURL(url => url.origin === origin && url.pathname === '/' && !url.search, { waitUntil: 'load', timeout: 60000 });
+        const finalUrl = new URL(page.url());
+        assert.equal(finalUrl.origin + finalUrl.pathname + finalUrl.search, origin + '/', `${javaScriptEnabled ? 'JS' : 'NoJS'} ${href}`);
+        await page.locator('main').waitFor();
+        assert.equal(await page.locator('header [data-header-cta="job"]').count(), 1);
+        assert.doesNotMatch(await page.title(), /Page not found/i);
+        assert.equal(documentResponses.at(-1)?.status, 200, href);
+        if (javaScriptEnabled) {
+          await page.waitForFunction(() => Object.keys(document.querySelector('header button') || {}).some(key => key.startsWith('__reactProps$')));
+        }
+        navigations.push({ javaScriptEnabled, from: href, to: page.url(), responses: [...documentResponses] });
       }
+      if (javaScriptEnabled) {
+        assert.ok(successfulScripts.size > 0, 'A page with missing JS must never pass as hydrated');
+        await page.getByRole('button', { name: 'Toggle resources menu' }).click();
+        await page.getByRole('menu').waitFor();
+        await page.keyboard.press('Escape');
+        await page.getByRole('menu').waitFor({ state: 'hidden' });
+        for (const href of clientRecoveryPaths) {
+          activeHref = `/about -> client:${href}`;
+          await page.goto(origin + '/about', { waitUntil: 'load' });
+          await page.waitForFunction(() => typeof (window as typeof window & { next?: { router?: { push?: unknown } } }).next?.router?.push === 'function');
+          flightResponses = [];
+          await page.evaluate(target => (window as typeof window & { next: { router: { push: (href: string) => void } } }).next.router.push(target), href);
+          await page.waitForURL(origin + '/', { waitUntil: 'load' });
+          await page.getByRole('heading', { name: 'Web3 Jobs', exact: true }).waitFor();
+          await page.locator('header [data-header-cta="job"]').waitFor();
+          const flight = flightResponses.find(response => new URL(response.url).pathname === href);
+          assert.ok(flight, `${href}: exercise a real client-router RSC request`);
+          assert.equal(flight.status, href === '/marketing4' ? 410 : 404, 'RSC errors must retain their protocol status before document recovery');
+          clientNavigations.push({ href, to: page.url(), flightResponses: [...flightResponses] });
+        }
+      }
+      await context.close();
     }
-    await page.setViewportSize({ width: 320, height: 1000 });
-    await page.locator('html').evaluate(element => element.style.fontSize = '200%');
-    const zoomOverflow = await page.evaluate(() => Array.from(document.querySelectorAll('body *')).filter(element => {
-      const box = element.getBoundingClientRect();
-      return box.width > 0 && (box.x < -1 || box.right > innerWidth + 1);
-    }).map(element => ({ tag: element.tagName, class: element.className, text: element.textContent?.slice(0, 70), box: element.getBoundingClientRect().toJSON() })));
-    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false, `200% text overflow: ${JSON.stringify(zoomOverflow)}`);
-    await page.locator('html').evaluate(element => { element.style.fontSize = ''; element.classList.remove('dark'); });
-    const links = page.locator('main a');
-    await links.first().focus();
-    for (let i = 0; i < await links.count(); i++) {
-      assert.ok(await links.nth(i).evaluate(element => document.activeElement === element), `Tab order ${i}`);
-      const focus = await links.nth(i).evaluate(element => { const style = getComputedStyle(element); return { shadow: style.boxShadow, outline: style.outlineStyle }; });
-      assert.ok(focus.shadow !== 'none' || focus.outline !== 'none', `Visible focus ${i}`);
-      await page.keyboard.press('Tab');
-    }
-    await page.locator('main').getByRole('link', { name: /^Jobs/ }).focus();
-    await page.keyboard.press('Enter');
-    await page.waitForURL(origin + '/jobs');
-    await page.getByRole('heading', { name: 'Web3 Jobs', exact: true }).waitFor();
-    await page.goBack({ waitUntil: 'networkidle' });
-    await page.locator('[data-page-recovery]').waitFor();
-
-    const cases = [
-      ['/jobs/missing-recovery-test', '/jobs'],
-      ['/events/missing-recovery-test', '/events'],
-      ['/company/missing-recovery-test', '/companies'],
-      ['/articles/missing-recovery-test', '/blog'],
-      ['/news/missing-recovery-test', '/news'],
-      ['/learn/missing-recovery-test', '/learn'],
-      ['/learn/fundamentals/missing-recovery-test', '/learn'],
-      ['/glossary/defi/missing-recovery-test', '/glossary'],
-      ['/nomads/missing-recovery-test', '/nomads'],
-      ['/visas/missing-recovery-test', '/visas'],
-      ['/evnets', '/events'],
-    ];
-    for (const [url, href] of cases) {
-      assert.equal((await page.goto(origin + url, { waitUntil: 'load' }))?.status(), 404, url);
-      await page.waitForFunction(expected => document.querySelector('main nav a')?.getAttribute('href') === expected, href);
-      if (url === '/evnets') await page.getByText('Did you mean', { exact: false }).waitFor();
-    }
-    for (const prefix of ['/companies', '/blog', '/glossary']) {
-      assert.equal((await page.goto(`${origin}${prefix}/missing-recovery-test`, { waitUntil: 'load' }))?.status(), 404);
-      assert.equal(new URL(page.url()).pathname, '/missing-recovery-test');
-      await page.locator('main').getByRole('link', { name: /^Jobs/ }).waitFor();
-    }
-    await page.goto(origin + '/' + 'x'.repeat(500), { waitUntil: 'load' });
-    await page.locator('[data-page-recovery]').waitFor();
-    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false, 'Long URL overflow');
-    assert.deepEqual(errors, []);
-    const noJs = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 320, height: 900 } });
-    const fallback = await noJs.newPage();
-    assert.equal((await fallback.goto(origin + '/events/missing-recovery-test', { waitUntil: 'load' }))?.status(), 404);
-    assert.equal(await fallback.locator('main a').count(), 5);
-    await fallback.getByRole('link', { name: 'Go to homepage' }).click();
-    await fallback.waitForURL(origin + '/');
-    await noJs.close();
-    const result = { status: 'passed', contexts: cases.length, destinations: Object.keys(RECOVERY_SECTIONS).length + 1, viewports, catalogOrApiRequestsOn404: dataRequests.length, keyboardNavigation: true, noJavaScriptFallback: 'static unmatched-route 404', queryStringsExcludedFromDisplay: true, browserErrors: errors };
-    fs.writeFileSync(`${output}/results.json`, `${JSON.stringify(result, null, 2)}\n`);
-    console.log(JSON.stringify(result, null, 2));
-    await context.close();
+    diagnostics.successfulScripts = successfulScripts.size;
+    fs.writeFileSync(`${output}/results.json`, JSON.stringify(diagnostics, null, 2) + '\n');
+    assert.deepEqual(resourceFailures, [], 'Standalone hydration resources');
+    assert.deepEqual(errors, [], 'Browser console/page errors, including React hydration errors');
+    const result = { status: 'passed', catalogSnapshot, destinations: destinations.size, aliases, socialSuffixes: Object.keys(SOCIAL_UTM_MAP).length, recoveryCasesPerMode: recoveryPaths.length, successfulScripts: successfulScripts.size, resourceFailures, browserErrors: errors, consoleMessages, navigations, clientNavigations };
+    diagnostics = result;
+    console.log(JSON.stringify({ ...result, navigations: navigations.length, consoleMessages: consoleMessages.length }, null, 2));
+  } catch (error) {
+    diagnostics.status = 'failed';
+    diagnostics.failure = error instanceof Error ? error.stack : String(error);
+    throw error;
   } finally {
+    fs.writeFileSync(`${output}/results.json`, JSON.stringify(diagnostics, null, 2) + '\n');
     await browser?.close();
-    server.kill('SIGTERM');
+    server?.kill('SIGTERM');
     fs.writeFileSync(`${output}/server.log`, logs);
   }
 }

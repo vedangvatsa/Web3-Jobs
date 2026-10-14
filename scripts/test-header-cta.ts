@@ -22,6 +22,11 @@ assert.equal(getHeaderCta('/popups'), 'popup');
 assert.equal(getHeaderCta('/popups/'), 'popup');
 assert.equal(getHeaderCta('/community'), 'partner');
 assert.equal(getHeaderCta('/community/'), 'partner');
+for (const route of ['/', '/jobs', '/community', '/events', '/about']) {
+  assert.equal(getHeaderCta(`/job-listing-cache/123456${route === '/' ? '' : route}`), getHeaderCta(route), route);
+  assert.equal(getHeaderCta(`/job-listing-cache/123456${route === '/' ? '' : route}/`), getHeaderCta(route), route);
+}
+assert.equal(getHeaderCta('/job-listing-cache/not-an-epoch/jobs'), null);
 for (const href of employerJobCtaPaths) {
   assert.equal(getHeaderCta(href), 'job', href);
   assert.equal(getHeaderCta(`${href}/`), 'job', `${href}/`);
@@ -34,6 +39,7 @@ for (const slug of slugTypes.staticPages) {
 for (const job of jobs) {
   if (!job.slug || classifySlug(job.slug) !== 'job' || slugTypes.staticPages.includes(job.slug)) continue;
   assert.equal(getHeaderCta(`/${job.slug}`), 'job', job.slug);
+  assert.equal(getHeaderCta(`/job-listing-cache/123456/${job.slug}`), 'job', job.slug);
 }
 for (const event of events) {
   if (!event.slug || slugTypes.staticPages.includes(event.slug)) continue;

@@ -109,6 +109,18 @@ async function main() {
   const injected: CompanySocialLinks = { twitter: 'https://x.com/wrongbrand' };
   const wins = buildCompaniesFromJobs([current], { bit2me: profiles.bit2me }, { bit2me: injected })[0];
   assert.equal(wins.website, 'https://bit2me.com/'); assert.deepEqual(wins.socialLinks, profiles.bit2me.socialLinks);
+  const detail = (await getCompanyBySlug('bit2me'))!;
+  const expectedDetail = structuredClone(detail);
+  detail.socialLinks!.twitter = 'https://x.com/wrongbrand';
+  detail.jobs[0].company = 'Wrong employer';
+  detail.jobs[0].active = false;
+  detail.jobs.splice(0);
+  assert.deepEqual(await getCompanyBySlug('bit2me'), expectedDetail, 'Returned details must not mutate cached company socials, jobs or counts');
+  const summaries = await getCompanies(true);
+  const summary = summaries.find(company => company.slug === 'coinmotion')!;
+  summary.socialLinks!.linkedin = 'https://www.linkedin.com/company/wrongbrand/';
+  assert.deepEqual((await getCompanyBySlug('coinmotion'))!.socialLinks, profiles.coinmotion.socialLinks, 'Returned directory socials must not mutate cached profiles');
+  assert.deepEqual((await getCompanies(true)).find(company => company.slug === 'coinmotion')!.socialLinks, profiles.coinmotion.socialLinks, 'Subsequent catalog calls retain verified socials');
   console.log(`Expansion company audit passed: ${Object.keys(overrides).length} employers; ${withSocials} with verified socials; ${zeroJobs} honest zero-job overviews; source, original-date and retained-job fields unchanged.`);
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });

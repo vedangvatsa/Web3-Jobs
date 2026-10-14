@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { buildCompaniesFromJobs, getCompanies, getCompanyBySlug } from '../src/lib/companies';
 import { getJobs } from '../src/lib/jobs';
-import { getJobContentKey } from '../src/lib/job-slugs';
+import { getCompanySlug, getJobContentKey } from '../src/lib/job-slugs';
 import { classifySlug } from '../src/lib/slug-classifier';
 import type { Job } from '../src/types';
 
@@ -36,6 +36,14 @@ async function main() {
   assert.equal(fixture[0].name, 'Optimism');
   assert.equal(fixture[0].jobCount, 1);
   assert.equal(fixture[0].jobs[0].slug, 'one');
+  const evidenceJob = jobs.find(job => job.dateEvidence);
+  assert.ok(evidenceJob, 'The catalog contains a source-backed posting-date evidence sample');
+  const evidenceCompany = (await getCompanyBySlug(getCompanySlug(evidenceJob.company)))!;
+  const returnedJob = evidenceCompany.jobs.find(job => job.slug === evidenceJob.slug)!;
+  const expectedEvidence = structuredClone(returnedJob.dateEvidence);
+  returnedJob.dateEvidence!.bodySha256 = 'changed-by-caller';
+  assert.deepEqual((await getCompanyBySlug(evidenceCompany.slug))!.jobs.find(job => job.slug === evidenceJob.slug)!.dateEvidence, expectedEvidence, 'Nested source evidence must be isolated from returned company jobs');
+  assert.deepEqual((await getJobs()).find(job => job.slug === evidenceJob.slug)!.dateEvidence, expectedEvidence, 'Company callers must not mutate the shared job source evidence');
   console.log(`Company pages passed: ${summaries.length} companies, ${covered.size} active jobs, zero count/list mismatches.`);
 }
 void main().catch(error => { console.error(error); process.exitCode = 1; });

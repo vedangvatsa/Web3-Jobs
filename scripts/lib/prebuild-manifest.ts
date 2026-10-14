@@ -2,6 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { hashPaths, outputsReady } from './hash-files';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP, type PrebuildStep } from './prebuild-steps';
+import { publicRootFiles } from './public-page-files';
 
 const ROOT = process.cwd();
 export const MANIFEST_PATH = path.join(ROOT, 'content', 'prebuild-input-hashes.json');
@@ -25,7 +26,7 @@ export function saveManifest(manifest: HashManifest): void {
 }
 
 export function stepInputHash(step: PrebuildStep, root = ROOT): string {
-  return hashPaths(root, [...step.inputs]);
+  return hashPaths(root, [...step.inputs, ...(step.id === 'slug-types' ? publicRootFiles(root) : [])]);
 }
 
 export function shouldRunStep(

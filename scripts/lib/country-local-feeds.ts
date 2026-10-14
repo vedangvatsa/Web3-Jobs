@@ -56,17 +56,19 @@ export async function candidates(s:FeedSource,board:CountryPage,read=countryGet)
   return results;
 }
 export function verifyPrimary(job:Job,s:FeedSource,p:CountryPage,now=Date.now()){
-  if(p.status!==200||!owned(p.finalUrl,s)||getJobIdentity({...job,link:p.finalUrl})!==getJobIdentity(job)||now-Date.parse(p.checkedAt)>86400000||Date.parse(p.checkedAt)>now+300000)throw new Error('Wrong or stale primary page');
+  if(p.status!==200||!owned(p.finalUrl,s)||getJobIdentity({...job,link:p.finalUrl})!==getJobIdentity(job)||!Number.isFinite(Date.parse(p.checkedAt))||now-Date.parse(p.checkedAt)>86400000||Date.parse(p.checkedAt)>now+300000)throw new Error('Wrong or stale primary page');
   const $=load(p.body);
-  if(/just a moment|access denied/i.test($('title').text())||/no longer accepting|position (?:has been|is) closed/i.test($.text()))throw new Error('Closed or challenged job');
+  const visible=$('body').clone();visible.find('script,style,noscript').remove();
+  if(/just a moment|access denied|captcha/i.test($('title').text())||/no longer accepting|no longer available|position (?:has been|is) closed|job (?:not found|has been closed)/i.test(visible.text()))throw new Error('Closed or challenged job');
   if(s.provider==='breezy'){
     const proof=extractBreezyPostingDate(job,p.body,{url:p.finalUrl,checkedAt:p.checkedAt,bodySha256:p.bodySha256});
-    if(!proof)throw new Error('Unverified Breezy original date');const{description,...fields}=proof;return{job:{...job,...fields},description:description||''};
+    if(!proof)throw new Error('Unverified Breezy original date');if(Date.parse(proof.date)>now)throw new Error('Future original date');const{description,...fields}=proof;return{job:{...job,...fields},description:description||''};
   }
   const rows=postings(p.body),r=rows[0];
   if(rows.length!==1||titleKey(r.title||'')!==titleKey(job.title)||titleKey(r.hiringOrganization?.name||'')!==titleKey(s.company)||r.url&&getJobIdentity({...job,link:r.url})!==getJobIdentity(job))throw new Error('Primary job/employer mismatch');
   if(!$('h1,h2').toArray().some(e=>titleKey($(e).text())===titleKey(job.title)))throw new Error('Missing matching visible title');
   const date=originalDate(r.datePosted,s.provider);if(!date)throw new Error('Missing original date');
+  if(Date.parse(date)>now)throw new Error('Future original date');
   if(r.validThrough&&(!normalizeSourcePostingDate(r.validThrough)||Date.parse(r.validThrough)<now))throw new Error('Expired application');
   const description=[r.description,r.experienceRequirements?.description].filter(Boolean).join('\n');
   if(load(description).text().length<100)throw new Error('Insufficient source description');

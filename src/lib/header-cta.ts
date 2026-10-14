@@ -14,7 +14,8 @@ const staticPages = new Set((slugTypes as typeof slugTypes & { staticPages?: str
 
 export function getHeaderCta(pathname: string | null): HeaderCta | null {
   if (!pathname) return null;
-  const path = pathname.replace(/\/+$/, '') || '/';
+  // SSR sees the cache rewrite; hydration sees the public URL.
+  const path = pathname.replace(/^\/job-listing-cache\/\d+(?=\/|$)/, '').replace(/\/+$/, '') || '/';
   if (path === '/' || path === '/jobs') return 'job';
   if (path === '/events') return 'event';
   if (path === '/popups') return 'popup';

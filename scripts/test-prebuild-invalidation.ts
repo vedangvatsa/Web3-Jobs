@@ -5,6 +5,7 @@ import { execFileSync } from 'node:child_process';
 import test from 'node:test';
 import { recordCompletedSteps, recordStep, shouldRunStep, stepInputHash, type HashManifest } from './lib/prebuild-manifest';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
+import { appRootPageSlugs, publicRootFiles } from './lib/public-page-files';
 
 const articleStep = PREBUILD_DATA_STEPS.find(step => step.id === 'articles-index')!;
 const eventStep = PREBUILD_DATA_STEPS.find(step => step.id === 'events-runtime')!;
@@ -80,6 +81,18 @@ test('new article metadata reaches data, root-slug and sitemap generation', () =
   }
 });
 
+test('company metadata updates invalidate the sitemap without changing company slugs', t => {
+  const { root, write } = fixture(t);
+  write('content/slug-types.json', '{"companies":["coinmotion"]}');
+  write('content/companies-runtime.json', '{"coinmotion":{"lastUpdated":"2026-10-13T12:00:00Z"}}');
+  for (const output of SITEMAP_STEP.outputs) write(output, '[]');
+  const manifest: HashManifest = { version: 1, steps: {} };
+  recordStep(manifest, SITEMAP_STEP, root);
+  for (const fast of [false, true]) assert.equal(shouldRunStep(SITEMAP_STEP, manifest, fast, undefined, root), false);
+  write('content/companies-runtime.json', '{"coinmotion":{"lastUpdated":"2026-10-14T12:00:00Z"}}');
+  for (const fast of [false, true]) assert.equal(shouldRunStep(SITEMAP_STEP, manifest, fast, undefined, root), true, 'Company source timestamps must refresh sitemap lastmod even when the slug inventory is unchanged');
+});
+
 test('a missing public article index is restored even when all input hashes are unchanged', t => {
   const { root, write } = fixture(t);
   for (const script of ['sync-public-catalog-assets.sh', 'sync-public-catalog-assets.ts']) write(`scripts/${script}`, fs.readFileSync(`scripts/${script}`, 'utf8'));
@@ -98,4 +111,36 @@ test('a missing public article index is restored even when all input hashes are 
   write('content/citizenship.json', citizenship);
   fs.unlinkSync(path.join(root, 'content/articles-index.json'));
   assert.throws(sync, /Command failed/, 'A missing source catalogue must fail instead of silently preserving a stale mirror');
+});
+
+test('root page discovery and fast-build hashes follow new, renamed and deleted routes and public files', t => {
+  const { root, write } = fixture(t);
+  const step = PREBUILD_DATA_STEPS.find(step => step.id === 'slug-types')!;
+  write('content/slug-types.json', '{}');
+  write('src/app/existing/page.tsx', 'export default function Page() { return null; }');
+  write('public/existing.txt', 'public');
+  const manifest: HashManifest = { version: 1, steps: {} };
+  recordStep(manifest, step, root);
+  const changed = (change: () => void) => {
+    change();
+    assert.equal(shouldRunStep(step, manifest, true, undefined, root), true);
+    recordStep(manifest, step, root);
+    assert.equal(shouldRunStep(step, manifest, true, undefined, root), false);
+  };
+  changed(() => write('src/app/future/page.tsx', 'export default function Page() { return null; }'));
+  changed(() => fs.renameSync(path.join(root, 'src/app/future'), path.join(root, 'src/app/renamed')));
+  changed(() => fs.rmSync(path.join(root, 'src/app/renamed'), { recursive: true }));
+  changed(() => write('src/app/(public)/grouped/page.tsx', 'export default function Page() { return null; }'));
+  write('src/app/_private/page.tsx', 'private');
+  write('src/app/[slug]/page.tsx', 'dynamic');
+  write('src/app/existing/nested/page.tsx', 'nested');
+  assert.deepEqual(appRootPageSlugs(root), ['existing', 'grouped']);
+  recordStep(manifest, step, root);
+  changed(() => write('public/new-file.ico', 'same bytes'));
+  changed(() => fs.renameSync(path.join(root, 'public/new-file.ico'), path.join(root, 'public/renamed.ico')));
+  changed(() => fs.unlinkSync(path.join(root, 'public/renamed.ico')));
+  assert.deepEqual(publicRootFiles(root), ['public/existing.txt']);
+  for (const file of ['content/nomads/cities.json', 'content/learn-routes.json', 'scripts/lib/public-page-files.ts']) {
+    changed(() => write(file, 'changed source'));
+  }
 });

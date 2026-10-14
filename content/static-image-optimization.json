@@ -14145,18 +14145,6 @@
       "sha256": "5c943414eca0263d02c9fb2463c2ab32e79c13892976fa62fb823d6906e3ec10",
       "status": "retained"
     },
-    "/og/jobs/aska.png": {
-      "sha256": "ffb99caef58653c59fbe8451676f698cd54e63f809f36ab6eb51d87c77b19ea0",
-      "status": "retained"
-    },
-    "/og/jobs/askl.png": {
-      "sha256": "fa95c2819eef9cc52319e0fb67247f8551bc9c86d1adca415dcc36b23f68f7f9",
-      "status": "retained"
-    },
-    "/og/jobs/askm.png": {
-      "sha256": "0a72226c2d8be040d6679114be98a310ab1377fde2203e548dc438bdfc7c51d4",
-      "status": "retained"
-    },
     "/og/jobs/asns.png": {
       "sha256": "b6c3c090d74b02f98d5ffb0600f198f09a26dc0180a865b8564427ef3b5ee70a",
       "status": "retained"
@@ -14419,10 +14407,6 @@
     },
     "/og/jobs/be75.png": {
       "sha256": "22fe5a5d5f833287c55cd5527d6cfa2311f9233a490f6625aef75c4572287988",
-      "status": "retained"
-    },
-    "/og/jobs/be9.png": {
-      "sha256": "b2525dbf834056959554e9f4feba7b495854562a54a16a6265ccea2581ecd232",
       "status": "retained"
     },
     "/og/jobs/bifc.png": {
@@ -15133,10 +15117,6 @@
       "sha256": "e9275284ad23e66c7276194fcb57dfabe47917ae173f700b3370b831db622a3c",
       "status": "retained"
     },
-    "/og/jobs/ds7.png": {
-      "sha256": "45e313ef1a76fcbb92c1aef6521f7fc490511a896e67c13d64ff937a8408bc59",
-      "status": "retained"
-    },
     "/og/jobs/dsae.png": {
       "sha256": "65af9f4da9d9a13a4cfb47c957277f6e71c00b6bf7187ac19b770d952482bdc8",
       "status": "retained"
@@ -15565,10 +15545,6 @@
       "sha256": "76544eabac7d7932096ef244c80859b3517e9eb5201eb6e00242b90e80cc88b2",
       "status": "retained"
     },
-    "/og/jobs/eng34.png": {
-      "sha256": "9e3f62701e91071446ce573d5963213c57c116e489d2fb3184cf370a162a9cdb",
-      "status": "retained"
-    },
     "/og/jobs/eng340.png": {
       "sha256": "78a0c48e67ebf8558d4dd927aa14240db8ac60b1b3cea9465303e599874a64d6",
       "status": "retained"
@@ -15599,10 +15575,6 @@
     },
     "/og/jobs/eng349.png": {
       "sha256": "0cf8b5a63e48fccfee3270dca08d6f02fb5f9230f7464b41dfb4776fe192af0a",
-      "status": "retained"
-    },
-    "/og/jobs/eng35.png": {
-      "sha256": "9e0a0f2e91a24d3be450901754cf70617d4f348edcf015138f3bb7ade60dd2aa",
       "status": "retained"
     },
     "/og/jobs/eng355.png": {
@@ -15661,10 +15633,6 @@
       "sha256": "c39669c14d373e3a1bc1cac7e2cb635edd61e11e00a158ecb20ca8eb4ff425c7",
       "status": "retained"
     },
-    "/og/jobs/eng37.png": {
-      "sha256": "d2a3e5f60f1210d077bfce6b8388e651ee6d19ceae0bba83d4ec62aa89f55b8d",
-      "status": "retained"
-    },
     "/og/jobs/eng370.png": {
       "sha256": "a6a455d55fb28d2ae9ae4c9d1aca0e047b5f2b7fcd71bcaa7371358ad64961de",
       "status": "retained"
@@ -15675,10 +15643,6 @@
     },
     "/og/jobs/eng379.png": {
       "sha256": "689f7097ed4bc5c939bd6603f4f5a70ee0484bc7e36cbba34ee9c0ecdab25e05",
-      "status": "retained"
-    },
-    "/og/jobs/eng38.png": {
-      "sha256": "021f593111db5757cde2587ce94a20d294d69687a071c21b3328538f71f7a4e0",
       "status": "retained"
     },
     "/og/jobs/eng380.png": {

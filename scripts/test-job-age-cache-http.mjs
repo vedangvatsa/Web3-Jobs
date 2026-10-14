@@ -9,6 +9,9 @@ import { getJobContentKey } from '../src/lib/job-slugs.ts';
 import { getJobDescriptionShardFilename, getJobDescriptionShardIndex } from '../src/lib/job-description-shards.ts';
 import { getJobShardFilename, getJobSlugShardIndex } from '../src/lib/job-shards.ts';
 import { jobExpiryTime } from '../src/lib/job-age-cache.mjs';
+import { chromium } from 'playwright';
+import puppeteer from 'puppeteer';
+import { recoveryPaths } from './lib/page-recovery-cases.ts';
 
 // This fixture compiles only test pages, using the real middleware, cache router and catalog handler.
 const project = process.cwd();
@@ -23,6 +26,7 @@ const write = (file, data) => { const target = path.join(root, file); fs.mkdirSy
 const json = (file, data) => write(file, JSON.stringify(data));
 const copy = (source, target = source) => write(target, fs.readFileSync(path.join(project, source)));
 let child;
+let browserInstance;
 let serverLog = '';
 try {
   fs.symlinkSync(path.join(project, 'node_modules'), path.join(root, 'node_modules'), 'dir');
@@ -36,13 +40,16 @@ try {
   json('package.json', { private: true, type: 'module', dependencies: { next: '15.5.25', react: '^18', 'react-dom': '^18' } });
   json('tsconfig.json', { compilerOptions: { target: 'ES2022', module: 'esnext', moduleResolution: 'bundler', jsx: 'preserve', allowJs: true, resolveJsonModule: true, esModuleInterop: true, skipLibCheck: true, paths: { '@/*': ['./src/*'] } } });
   for (const file of ['removed-job-listings', 'removed-job-paths', 'recovered-job-redirects', 'rejected-ats-boards', 'legacy-slugs-archive', 'event-tombstones', 'image-redirects', 'company-profiles-runtime', 'company-socials']) json(`content/${file}.json`, file === 'removed-job-paths' ? [] : {});
+  copy('content/removed-job-paths.json');
+  copy('content/event-tombstones.json');
   json('content/learn-routes.json', { courses: {}, lessons: {} });
   json('content/events/redirects.json', {});
   json('content/events-runtime.json', []);
   json('content/citizenship.json', { programs: [] });
   for (const file of ['tool-paths', 'legacy-routes', 'cities']) json(`content/nomads/${file}.json`, file === 'cities' ? [] : {});
   json('content/jobs-runtime.json', jobs);
-  json('content/job-age-paths.json', Object.fromEntries(jobs.map(job => [job.slug, job.date])));
+  json('content/slug-types.json', { pages: ['jobs', 'companies', 'community', 'lesson', 'article'], companies: ['fixture-employer', 'later-employer'], jobs: ['near', 'later'], events: [], popups: [], staticPages: ['jobs', 'companies', 'community', 'lesson', 'article'] });
+  json('content/job-age-paths.json', { ...Object.fromEntries(jobs.map(job => [job.slug, job.date])), marketing4: new Date(base - 31 * 86400000).toISOString() });
   json('content/job-age-page-scopes.json', { '/': 'catalog', '/jobs': 'catalog', '/companies': 'catalog', '/community': [expiry], '/fixture-employer': [expiry], '/later-employer': [jobExpiryTime(jobs[1])] });
   json('content/sitemap-routes.json', [...jobs.map(job => ({ url: `https://hashtagweb3.com/${job.slug}` })), { url: 'https://hashtagweb3.com/lesson' }]);
   json('public/data/catalog-freshness.json', { version: 1, builtAt: new Date(base).toISOString(), snapshotId: 'fixture', catalogs: { jobs: { path: '/data/jobs-runtime.json' }, companies: { path: '/data/companies-runtime.json' } } });
@@ -64,7 +71,11 @@ try {
     copy(`src/app/jobs/feed.${format}/route.ts`, `src/app/jobs/feed.${format}/core-route.ts`);
     write(`src/app/jobs/feed.${format}/route.ts`, `import { GET as core } from './core-route'; export const dynamic = 'force-dynamic'; export async function GET(request) { Date.now = () => Number(request.headers.get('x-fixture-clock') || ${base}); return core(); }`);
   }
-  write('src/app/layout.tsx', `export default function Layout({children}) { return <html><body>{children}</body></html>; }`);
+  copy('src/app/not-found.tsx');
+  copy('src/components/page-recovery.tsx');
+  copy('src/components/x-brand-icon.tsx');
+  write('src/components/fixture-header.tsx', `'use client'; import { usePathname } from 'next/navigation'; import { getHeaderCta } from '@/lib/header-cta'; export default function Header() { const cta = getHeaderCta(usePathname()); return <header>{cta && <a data-header-cta={cta} href="/jobs">Post a Job</a>}</header>; }`);
+  write('src/app/layout.tsx', `import Header from '@/components/fixture-header'; export default function Layout({children}) { return <html><body><Header/>{children}</body></html>; }`);
   const listing = `import { getJobs } from '@/lib/jobs'; export const dynamic = 'force-static'; export const revalidate = 3600; export const metadata = { title: 'Fixture listing' }; export default async function Page() { const jobs = await getJobs(); return <main>{jobs.map(job => <p key={job.id}>{job.title}</p>)}</main>; }`;
   for (const page of ['', 'jobs/', 'companies/', 'community/']) write(`src/app/${page}page.tsx`, listing);
   write('src/app/[slug]/page.tsx', `import { getJobs } from '@/lib/jobs'; import { notFound } from 'next/navigation'; export const dynamic = 'force-static'; export const revalidate = 3600; export const dynamicParams = true; export function generateStaticParams() { return [{slug:'lesson'}, {slug:'article'}]; } export async function generateMetadata() { return {title:'Fixture detail'}; } export default async function Detail({params}) { const {slug} = await params; if (slug === 'lesson' || slug === 'article') return <h1>Unrelated static content</h1>; const jobs = await getJobs(); if (slug.endsWith('-employer')) return <main>{jobs.filter(job => job.company.toLowerCase().replace(' ', '-') === slug).map(job => <p key={job.id}>{job.title}</p>)}</main>; const job = jobs.find(job => job.slug === slug); if (!job) notFound(); return <main><h1>{job.title}</h1><script type="application/ld+json">{JSON.stringify({'@type':'JobPosting', title:job.title})}</script></main>; }`);
@@ -82,12 +93,12 @@ try {
   child = spawn(process.execPath, [nextBin, 'start', '-p', String(port), '-H', '127.0.0.1'], { cwd: root, env: { ...process.env, NEXT_TELEMETRY_DISABLED: '1' }, stdio: ['ignore', 'pipe', 'pipe'] });
   child.stdout.on('data', data => { serverLog += data; });
   child.stderr.on('data', data => { serverLog += data; });
-  const origin = `http://127.0.0.1:${port}`;
+  const origin = `http://localhost:${port}`;
   for (let i = 0; i < 100 && !serverLog.includes('Ready'); i++) { if (child.exitCode !== null) throw new Error(serverLog); await delay(100); }
   assert.match(serverLog, /Ready/);
   const browser = { 'user-agent': 'Mozilla/5.0', 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document' };
-  const request = async (url, now = base, headers = browser) => {
-    const response = await fetch(origin + url, { headers: { ...headers, 'x-fixture-clock': String(now) } });
+  const request = async (url, now = base, headers = browser, options = {}) => {
+    const response = await fetch(origin + url, { headers: { ...headers, 'x-fixture-clock': String(now) }, ...options });
     return { status: response.status, headers: response.headers, body: await response.text() };
   };
   const ttl = result => Number(result.headers.get('cache-control')?.match(/s-maxage=(\d+)/)?.[1] || 0);
@@ -154,19 +165,74 @@ try {
   assert.doesNotMatch(staleHeader.body, /Near expiry role/);
   const unrelatedHeader = await request('/article', expiry, { ...browser, 'x-hw3-job-cache-window': '999999' });
   assert.equal(unrelatedHeader.headers.get('x-nextjs-cache'), 'HIT', 'Window headers cannot reroute unrelated pages');
-  for (const url of ['/near', '/%6eear', '/near/li', '/preview/near.html', '/og/jobs/near.png', '/job-listing-cache/0', '/%6aob-listing-cache/0']) {
-    for (const headers of [browser, { 'user-agent': 'LinkedInBot' }]) {
-      const result = await request(url, expiry, headers);
-      assert.equal(result.status, 410, url);
+  for (const url of ['/near', '/%6eear', '/near/li', '/preview/near.html', '/preview/%6eear.html', '/og/jobs/near.png', '/%6fg/jobs/near.png', '/job-listing-cache/0', '/%6aob-listing-cache/0']) {
+    for (const headers of [browser, { 'user-agent': 'LinkedInBot' }]) for (const method of ['GET', 'HEAD']) {
+      const result = await request(url, expiry, headers, { redirect: 'manual', method });
+      const redirectHome = headers === browser && !/^\/(?:preview|og)\//.test(decodeURIComponent(url));
+      assert.equal(result.status, redirectHome ? 307 : 410, url);
+      assert.equal(result.headers.get('location'), redirectHome ? `${origin}/` : null, url);
+      if (redirectHome) assert.equal(result.headers.get('cache-control'), 'no-store');
       assert.doesNotMatch(result.body, /Near expiry role|JobPosting|Apply/);
     }
   }
   for (const url of ['/lesson', '/article', '/later-employer']) assert.equal((await request(url, expiry)).headers.get('x-nextjs-cache'), 'HIT', `${url}: unrelated ISR was lost`);
-  console.log('PASS: bounded shared caching, zero stale allowance, exact-boundary filtering, warm ISR rollover, old snapshot/detail/bot 410s, unrelated article/course ISR HIT.');
+  for (const url of ['/unknown-root', '/api/wrong-id', '/unmatched/nested']) {
+    const result = await request(url, expiry, browser, { method: 'POST', redirect: 'manual' });
+    assert.equal(result.status, 404, url);
+    assert.equal(result.headers.get('location'), null);
+    assert.doesNotMatch(result.body, /<meta|<script/);
+  }
+  const expiredPost = await request('/near', expiry, browser, { method: 'POST', redirect: 'manual' });
+  assert.equal(expiredPost.status, 410);
+  assert.equal(expiredPost.headers.get('location'), null);
+  assert.doesNotMatch(expiredPost.body, /<meta|<script/);
+  const unknown = await request('/unknown-root?private=1', expiry, browser, { redirect: 'manual' });
+  assert.equal(unknown.status, 307);
+  assert.equal(unknown.headers.get('location'), `${origin}/`);
+  const fallback = await request('/unmatched/nested', expiry);
+  assert.equal(fallback.status, 404);
+  assert.match(fallback.body, /http-equiv="refresh" content="0;url=\/"/);
+  assert.match(fallback.body, /name="robots" content="noindex/);
+  browserInstance = await chromium.launch({ executablePath: process.env.CHROME_BIN || await puppeteer.executablePath(), headless: true });
+  const errors = [], failedScripts = [];
+  for (const javaScriptEnabled of [true, false]) {
+    const context = await browserInstance.newContext({ javaScriptEnabled, extraHTTPHeaders: { 'x-fixture-clock': String(expiry) } });
+    const page = await context.newPage();
+    page.on('pageerror', error => errors.push(error.message));
+    page.on('console', message => { if (message.type() === 'error' && !message.text().startsWith('Failed to load resource:')) errors.push(message.text()); });
+    let scriptsLoaded = 0;
+    page.on('response', response => {
+      if (response.request().resourceType() === 'script') {
+        if (response.ok()) scriptsLoaded++;
+        else failedScripts.push(`${response.status()} ${response.url()}`);
+      }
+    });
+    page.on('requestfailed', request => {
+      if (javaScriptEnabled && request.resourceType() === 'script' && request.failure()?.errorText !== 'net::ERR_ABORTED') failedScripts.push(`${request.failure()?.errorText} ${request.url()}`);
+    });
+    assert.equal(recoveryPaths.length, 47);
+    for (const url of [...recoveryPaths, '/near', '/near/li', '/%6eear']) {
+      await page.goto(origin + url, { waitUntil: 'load' });
+      await page.waitForURL(url => url.origin === origin && url.pathname === '/' && !url.search, { waitUntil: 'load' });
+      const finalUrl = new URL(page.url());
+      assert.equal(finalUrl.origin + finalUrl.pathname + finalUrl.search, `${origin}/`, `${javaScriptEnabled ? 'JS' : 'NoJS'} ${url}`);
+      assert.equal(await page.locator('header [data-header-cta="job"]').count(), 1, 'SSR/hydrated home CTA');
+      assert.doesNotMatch(await page.locator('body').innerText(), /Near expiry role/);
+      if (javaScriptEnabled) await page.waitForFunction(() => Object.keys(document.querySelector('header a') || {}).some(key => key.startsWith('__reactProps$')));
+    }
+    if (javaScriptEnabled) {
+      assert.ok(scriptsLoaded > 0, 'The fixture must actually load hydration scripts');
+    }
+    await context.close();
+  }
+  assert.deepEqual(errors, [], 'React/hydration console errors');
+  assert.deepEqual(failedScripts, [], 'Missing hydration resources');
+  console.log(`PASS: bounded caches, exact-boundary filtering, warm ISR rollover, machine/resource 410s, unrelated ISR HIT, ${recoveryPaths.length} missing/gone paths plus 3 expiry paths in each JS/NoJS browser, loaded scripts, no React errors, and matching SSR/hydrated header CTA.`);
 } catch (error) {
   console.error(serverLog);
   throw error;
 } finally {
+  await browserInstance?.close();
   if (child && child.exitCode === null) { child.kill('SIGTERM'); await new Promise(resolve => child.once('exit', resolve)); }
   fs.rmSync(root, { recursive: true, force: true });
 }

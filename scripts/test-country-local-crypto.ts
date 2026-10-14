@@ -24,9 +24,12 @@ test('original timezone dates reject rollover, missing timezone, future and stal
   for(const date of ['2026-02-30 14:04:37 +0200','2026-10-05 25:04:37 +0200','2026-10-05 14:04:37','5 de Octubre'])assert.equal(originalDate(date,'bizneo'),'');
   assert.equal(jobAgeExclusionReason(verifyPrimary(job,source,primary()).job,Date.parse('2026-10-14T12:00:00Z')),null);
   assert.equal(jobAgeExclusionReason(verifyPrimary(job,source,primary({datePosted:'2025-01-01'})).job),'expired');
-  assert.equal(jobAgeExclusionReason(verifyPrimary(job,source,primary({datePosted:'2099-01-01'})).job),'future-date');
+  assert.throws(()=>verifyPrimary(job,source,primary({datePosted:'2099-01-01'})),/Future original date/);
   assert.throws(()=>verifyPrimary(job,source,primary({datePosted:'',updatedAt:'2026-10-14'})),/Missing original/);
   assert.throws(()=>verifyPrimary(job,source,primary({hiringOrganization:{name:'Another company'}})),/mismatch/);
+  assert.throws(()=>verifyPrimary(job,source,{...primary(),checkedAt:'invalid'}),/stale/);
+  const closed=primary();closed.body='<p>This job is no longer available</p>'+closed.body;
+  assert.throws(()=>verifyPrimary(job,source,closed),/Closed/);
 });
 test('Bizneo pagination fails closed on missing page and malformed primary data',async()=>{
   const board=page(source.boardUrl,'<a href="/jobs/legal-intern">Role</a><a href="/jobs?page=2">2</a>');

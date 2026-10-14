@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-14T21:02:14.709Z",
+  "checkedAt": "2026-10-14T23:35:12.789Z",
   "mode": "production-standalone",
   "employers": 81,
   "companyPages": 81,
@@ -9,6 +9,87 @@
     "axiom",
     "eco-protocol",
     "double-jump-tokyo"
+  ],
+  "homepageHydrated": true,
+  "browserEvidence": [
+    {
+      "path": "/bit2me",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 2
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    },
+    {
+      "path": "/coinmotion",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 2
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    },
+    {
+      "path": "/axiom",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 2
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    },
+    {
+      "path": "/eco-protocol",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 2
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    },
+    {
+      "path": "/double-jump-tokyo",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 2
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    },
+    {
+      "path": "/",
+      "interaction": "resources-menu-click-open-escape-close",
+      "resources": {
+        "scripts": 24,
+        "stylesheets": 3,
+        "fonts": 1,
+        "images": 56
+      },
+      "localRequestFailures": 0,
+      "consoleErrors": 0,
+      "pageErrors": 0
+    }
   ],
   "zeroJobPages": 77,
   "legacyEcoStatus": 200,

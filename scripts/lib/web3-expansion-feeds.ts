@@ -3,20 +3,26 @@ import records from '../../content/web3-expansion-sources.json';
 import type { Job } from '../../src/types';
 import { getAtsBoardFromUrl, atsBoardKey } from '../../src/lib/ats-board-identity';
 import { getJobIdentity } from '../../src/lib/job-slugs';
-import { normalizeSourcePostingDate } from '../../src/lib/job-source-date';
+import { normalizeSourcePostingDate, preserveOriginalJobDate, type JobDateHistory } from '../../src/lib/job-source-date';
+import { jobAgeExclusionReason } from '../../src/lib/job-age-policy.mjs';
 import { assertAtsSourceAllowed } from '../../src/lib/job-source-policy';
 import { candidates, hasForm, postings, verifyPrimary, verifyApplication, type FeedSource } from './country-local-feeds';
 import { links, sameUrl } from './country-local-sources';
 import { countryGet, pageEvidence, type CountryPage } from './country-source-http';
 import { validateAshbyOrganization } from './ashby-employer-verification';
-export type ExpansionSource=FeedSource & {website:string;country:null;geography:null;apiUrl:string|null;officialCareersUrl:string;status:string;ownership:{linkedUrl:string};web3:{quote:string}};
+export type ExpansionSource=FeedSource & {website:string;country:null;geography:null;apiUrl:string|null;officialCareersUrl:string;status:string;ownership:{linkedUrl:string;finalUrl:string};web3:{quote:string}};
 export const EXPANSION_SOURCES=records as ExpansionSource[];
+export function rememberExpansionDate(job:Job,history:JobDateHistory,now=Date.now()) {
+  if(!job.dateVerified||!normalizeSourcePostingDate(job.date)||jobAgeExclusionReason(job,now)==='future-date')return {...job,dateVerified:false};
+  return preserveOriginalJobDate(job,history);
+}
 const clean=(s:string)=>load(s).text().normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
 export function matchesBoard(url:string,s:FeedSource){const b=getAtsBoardFromUrl(url);return !!b&&atsBoardKey(b.provider,b.board)===atsBoardKey(s.provider,s.board);}
 export async function verifyExpansionSource(s:ExpansionSource,read=countryGet){
   assertAtsSourceAllowed(s.provider,s.board);
   const official=await read(s.officialCareersUrl);
-  if(official.status!==200||/just a moment|access denied|captcha/i.test(load(official.body)('title').text())||!links(official).includes(s.ownership.linkedUrl))throw new Error('Official outbound missing or unavailable');
+  if(official.status!==200||!sameUrl(official.finalUrl,s.ownership.finalUrl)||/just a moment|access denied|captcha/i.test(load(official.body)('title').text())||!links(official).includes(s.ownership.linkedUrl))throw new Error('Official outbound missing or unavailable');
+  if(s.status==='recurring'&&!matchesBoard(s.ownership.linkedUrl,s))throw new Error('Official outbound targets another board');
   const board=await read(s.boardUrl);
   if(board.status!==200||!sameUrl(board.finalUrl,s.boardUrl)||/just a moment|access denied|page not found|404/i.test(load(board.body)('title').text()))throw new Error('Board unavailable or moved');
   if(s.provider==='ashby'){
@@ -44,18 +50,27 @@ export async function expansionCandidates(s:ExpansionSource,board:CountryPage,re
 }
 export async function verifyExpansionJob(job:Job,s:ExpansionSource,p:CountryPage,read=countryGet,now=Date.now()){
   if(s.provider!=='greenhouse')return{...verifyPrimary(job,s,p,now),application:await verifyApplication(job,s,p,read)};
-  if(p.status!==200||!matchesBoard(p.finalUrl,s)||getJobIdentity({...job,link:p.finalUrl})!==getJobIdentity(job)||now-Date.parse(p.checkedAt)>86400000||Date.parse(p.checkedAt)>now+300000)throw new Error('Primary identity unavailable or stale');
+  if(p.status!==200||!matchesBoard(p.finalUrl,s)||getJobIdentity({...job,link:p.finalUrl})!==getJobIdentity(job)||!Number.isFinite(Date.parse(p.checkedAt))||now-Date.parse(p.checkedAt)>86400000||Date.parse(p.checkedAt)>now+300000)throw new Error('Primary identity unavailable or stale');
   const $=load(p.body),visible=$('body').clone();visible.find('script,style,noscript').remove();
   if(/no longer accepting|no longer available|position (?:has been|is) closed|job (?:not found|has been closed)/i.test(visible.text()))throw new Error('Closed or soft-404 job');
   if(!$('h1,h2').toArray().some(e=>clean($(e).text())===clean(job.title)))throw new Error('Wrong visible job title');
   const rows=postings(p.body),r=rows.find(r=>clean(r.title||'')===clean(job.title)&&clean(r.hiringOrganization?.name||'')===clean(s.company));
   if(rows.length&&(rows.length!==1||!r||r.url&&getJobIdentity({...job,link:r.url})!==getJobIdentity(job)))throw new Error('Primary employer/job mismatch');
   if(!rows.length&&!clean($('title').text()).endsWith(`at ${clean(s.company)}`))throw new Error('Primary employer mismatch');
+  const apiDate=normalizeSourcePostingDate(job.date);
+  if(!apiDate||job.dateVerified===false||Date.parse(apiDate)>now)throw new Error('Invalid or future API original date');
+  let datedJob=job;
+  if(r&&Object.hasOwn(r,'datePosted')){
+    const primaryDate=normalizeSourcePostingDate(r.datePosted);
+    if(!primaryDate||Date.parse(primaryDate)>now)throw new Error('Invalid or future primary original date');
+    // A newer API timestamp cannot erase an older date on the same employer posting.
+    if(Date.parse(primaryDate)<Date.parse(apiDate))datedJob={...job,date:primaryDate,dateVerified:true,dateSource:'Greenhouse.JobPosting.datePosted'};
+  }
   if(!$('form').toArray().some(e=>{try{const u=new URL($(e).attr('action')||'',p.finalUrl);return u.origin===new URL(p.finalUrl).origin&&u.pathname===new URL(p.finalUrl).pathname;}catch{return false;}}))throw new Error('Wrong application job identity');
   if(r?.validThrough&&(!normalizeSourcePostingDate(r.validThrough)||Date.parse(r.validThrough)<now))throw new Error('Expired application');
   const description=r?.description||$('.job__description').html()||'';if(load(description).text().length<100)throw new Error('Missing job description');
   const apply=links(p).find(l=>{try{const u=new URL(l);return u.origin===new URL(p.finalUrl).origin&&u.pathname===new URL(p.finalUrl).pathname&&u.searchParams.get('gh_jid')===job.id;}catch{return false;}});
   const application=hasForm(p)?p:apply?await read(apply):null;
   if(!application||application.status!==200||getJobIdentity({...job,link:application.finalUrl})!==getJobIdentity(job)||!hasForm(application)||!clean(load(application.body).text()).includes(clean(job.title)))throw new Error('No usable exact-job application form on direct GET');
-  return{job,description,application:pageEvidence(application)};
+  return{job:datedJob,description,application:pageEvidence(application)};
 }

@@ -36,6 +36,12 @@
         "responses": { "200": { "description": "JSON array of jobs without descriptions. Only original source posting dates within the last 30 days are eligible (exact boundary inclusive). Inactive, unverified, missing, invalid and future dates are excluded. Shared-cache lifetime is at most one hour, bounded by the earliest job expiry, with mandatory revalidation and no stale allowance." } }
       }
     },
+    "/data/companies-runtime.json": {
+      "get": {
+        "summary": "Company profiles and current role counts",
+        "responses": { "200": { "description": "JSON object keyed by company slug. Rows contain slug, name, website, description, jobCount, lastUpdated, jobIds and optional socialLinks. Verified published profiles remain available with jobCount 0 and an empty jobIds array; inclusion does not imply active hiring. Role counts and jobIds use the same eligibility rules as the current jobs catalog. The companies freshness count includes these zero-job profiles." } }
+      }
+    },
     "/data/events-runtime.json": {
       "get": {
         "summary": "Events catalog snapshot",

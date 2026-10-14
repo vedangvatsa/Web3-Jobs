@@ -9,8 +9,7 @@ import removedSlugs from '../content/removed-job-paths.json';
 import type { Job } from '../src/types';
 
 async function main() {
-  const standalone = path.resolve('.next/standalone'), origin = 'http://127.0.0.1:3198';
-  fs.cpSync('.next/static', path.join(standalone, '.next/static'), { recursive: true });
+  const standalone = path.resolve('.next/standalone'), origin = 'http://localhost:3198';
   const server = spawn(process.execPath, [path.join(standalone, 'server.js')], { cwd: standalone, env: { ...process.env, HOSTNAME: '127.0.0.1', PORT: '3198' }, stdio: ['ignore', 'pipe', 'pipe'] });
   let logs = '', browser: Browser | undefined;
   server.stdout.on('data', chunk => logs += chunk); server.stderr.on('data', chunk => logs += chunk);
@@ -23,8 +22,10 @@ async function main() {
     await Promise.all(Array.from({ length: 8 }, async () => {
       while (cursor < removedSlugs.length) {
         const slug = removedSlugs[cursor++];
-        const response = await fetch(`${origin}/${slug}`, { headers: humanHeaders });
-        assert.equal(response.status, 410, `Removed URL is still served: /${slug}`);
+        const response = await fetch(`${origin}/${slug}`, { headers: humanHeaders, redirect: 'manual' });
+        assert.equal(response.status, 307, `Removed URL must redirect visitors home: /${slug}`);
+        assert.equal(response.headers.get('location'), `${origin}/`);
+        assert.equal(response.headers.get('cache-control'), 'no-store');
         assert.equal(response.headers.get('x-robots-tag'), 'noindex');
         await response.arrayBuffer();
       }

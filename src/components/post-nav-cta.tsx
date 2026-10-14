@@ -27,6 +27,7 @@ export function PostNavCta() {
 
   return (
     <PrimaryActionLink
+      className="h-11"
       href={POSTING_URL}
       target="_blank"
       rel="noopener noreferrer"
