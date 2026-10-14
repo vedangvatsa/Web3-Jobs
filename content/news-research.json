@@ -30510,23 +30510,23 @@
       "id": "9438a7b8a36c2e7d785a",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:03:39.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CoinJournal lead, not opened; needs KuCoin announcement and a second outlet.",
+      "note": "Read the CoinJournal piece; the Oct 9 upgrade is company-sourced with CEO quotes. KuCoin announcement plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://coinjournal.net/news/kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:42.905Z",
+      "reviewedAt": "2026-10-14T04:00:18.043Z",
       "retrySearches": [
-        "KuCoin 5.0 upgrade unified account October 2026 second outlet"
+        "KuCoin 5.0 upgrade unified account announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "32e3b340e6cca32e8d70": {
       "source": "The Defiant",
@@ -66899,6 +66899,21 @@
           "reviewedAt": "2026-10-14T04:00:13.191Z",
           "retrySearches": [
             "Ledger CryptoBilis confirmed loss total second outlet October 2026"
+          ]
+        },
+        "9438a7b8a36c2e7d785a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinJournal piece; the Oct 9 upgrade is company-sourced with CEO quotes. KuCoin announcement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:18.043Z",
+          "retrySearches": [
+            "KuCoin 5.0 upgrade unified account announcement second outlet"
           ]
         }
       },
