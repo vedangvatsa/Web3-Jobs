@@ -34068,23 +34068,23 @@
       "id": "d2b79c8e5909ea246ef9",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T07:44:31.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Defiant blocked; CZ hacker-buyout allegation needs primary post and a readable second outlet.",
+      "note": "CZ allegation page blocked on re-attempt; CZ statement record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:38.878Z",
+      "reviewedAt": "2026-10-14T04:02:58.267Z",
       "retrySearches": [
-        "CZ CryptoBilis hackers bought allegation October 12 second outlet"
+        "CZ CryptoBilis hackers claim statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "87fc7695b2300eda2c89": {
       "source": "CoinJournal",
@@ -67370,6 +67370,21 @@
           "reviewedAt": "2026-10-14T04:02:56.184Z",
           "retrySearches": [
             "Bybit USDC stocks ETFs announcement second outlet"
+          ]
+        },
+        "d2b79c8e5909ea246ef9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CZ allegation page blocked on re-attempt; CZ statement record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:02:58.267Z",
+          "retrySearches": [
+            "CZ CryptoBilis hackers claim statement second outlet"
           ]
         }
       },
