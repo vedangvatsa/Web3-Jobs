@@ -35681,11 +35681,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7ea3a45e4d839c9f0ad6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:17:03.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Video interview on dollar-bitcoin views; commentary without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:22.226Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "5db0583be2447982611a": {
       "source": "Unchained",
@@ -66699,6 +66704,13 @@
           "note": "Video interview on bitcoin-AI convergence and freedom; commentary without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:20.280Z"
+        },
+        "7ea3a45e4d839c9f0ad6": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Video interview on dollar-bitcoin views; commentary without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:22.226Z"
         }
       },
       "baselineSlugs": [
