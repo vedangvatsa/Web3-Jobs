@@ -35791,11 +35791,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b7cc3e2ad82cda592c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:06:39.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin and ether slip-and-rebound tied to Korean stocks; price action without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:19.490Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "2408c19a41b4962de261": {
       "source": "Bitcoin Magazine",
@@ -66099,6 +66104,13 @@
           "note": "STX four-week price surge; price move without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:17.562Z"
+        },
+        "74b7cc3e2ad82cda592c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin and ether slip-and-rebound tied to Korean stocks; price action without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:19.490Z"
         }
       },
       "baselineSlugs": [
