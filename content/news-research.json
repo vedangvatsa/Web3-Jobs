@@ -31081,23 +31081,23 @@
       "id": "842f7eb226953ce33540",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:18:10.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "ENSv2 DAO proposal lead, not opened; needs forum record and a second outlet beyond Unchained.",
+      "note": "Read the Unchained piece; the Oct 11 forum executable with 15 calls is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:40.753Z",
+      "reviewedAt": "2026-10-14T04:00:41.757Z",
       "retrySearches": [
-        "ENSv2 activation DAO proposal October 2026 forum second outlet"
+        "ENSv2 activation DAO vote date second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "7316ad777152a1220780": {
       "source": "Unchained",
@@ -66959,6 +66959,21 @@
           "reviewedAt": "2026-10-14T04:00:32.475Z",
           "retrySearches": [
             "Eclair Lightning fee fix release ACINQ second outlet"
+          ]
+        },
+        "842f7eb226953ce33540": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; the Oct 11 forum executable with 15 calls is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:41.757Z",
+          "retrySearches": [
+            "ENSv2 activation DAO vote date second outlet"
           ]
         }
       },
