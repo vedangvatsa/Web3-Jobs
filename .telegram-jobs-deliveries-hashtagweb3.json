@@ -1757,5 +1757,78 @@
     "slotKey": "2026-10-13:evening",
     "messageId": 155750,
     "sentAt": "2026-10-13T19:39:54.409Z"
+  },
+  "fa9dbb4c-5692-4bd9-ae84-f4cbc89d520e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T04:29:15.491Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
+          "title": "Senior/ Principal Product Manager, Trading(Crypto.com App)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
+          "date": "2026-09-22T06:26:36.965Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Dubai)",
+          "workplaceType": "hybrid",
+          "department": "Product Management & Product Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm96"
+        },
+        "key": "9b9a56cd-0aaf-46ec-8704-538dcecb72dc",
+        "slug": "pm96",
+        "url": "https://hashtagweb3.com/pm96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/ Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4969765101",
+          "title": "Backend Development Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4969765101",
+          "date": "2026-09-22T09:23:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Spots Business Unit (SBU)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be28"
+        },
+        "key": "4969765101",
+        "slug": "be28",
+        "url": "https://hashtagweb3.com/be28?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Backend Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5438239008",
+          "title": "Global Operations Excellence & Business Operations Lead",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5438239008?gh_jid=5438239008",
+          "date": "2026-10-05T23:52:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "20333 S&M - Sales - GSO",
+          "active": true,
+          "salary": "$148.7k – $223.1k/yr",
+          "dateVerified": true,
+          "slug": "ops91"
+        },
+        "key": "5438239008",
+        "slug": "ops91",
+        "url": "https://hashtagweb3.com/ops91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Global Operations Excellence & Business Operations Lead"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/ Principal Product Manager, Trading(Crypto.com App)</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/be28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Development Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/ops91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Operations Excellence &amp; Business Operations Lead</a>",
+    "slotKey": "2026-10-14:morning"
   }
 }
