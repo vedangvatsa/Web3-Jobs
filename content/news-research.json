@@ -37131,11 +37131,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "93d8156cb990f20244a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:16:04.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "AI-companion company bankruptcy and bid; tech story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:00.769Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "75b04625da3e7c38421c": {
       "source": "The Defiant",
@@ -66591,6 +66596,13 @@
           "note": "Arrest report at an AI company; crime story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:58.840Z"
+        },
+        "93d8156cb990f20244a7": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-companion company bankruptcy and bid; tech story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:00.769Z"
         }
       },
       "baselineSlugs": [
