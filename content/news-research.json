@@ -28391,23 +28391,23 @@
       "id": "61902e795ff9451fa380",
       "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T22:37:12.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Prior-round CryptoBriefing read retained; openable primary and second outlet still missing.",
+      "note": "Read the CryptoBriefing piece; it confirms the Oct 7-8 Owning Intelligence blog as primary. No reputable second outlet yet; benchmark is proprietary and unverified.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:15.504Z",
+      "reviewedAt": "2026-10-14T03:59:36.776Z",
       "retrySearches": [
-        "Coinbase Qwen fraud benchmark Owning Intelligence second outlet"
+        "Coinbase Qwen Onramp fraud post reputable second outlet engineering blog"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "f5bdf74ccc0550a1f8a4": {
       "source": "Crypto Briefing",
@@ -66809,6 +66809,21 @@
           "reviewedAt": "2026-10-14T03:56:41.622Z",
           "retrySearches": [
             "Kraken Maker Protection held-order fill independent coverage beyond CryptoSlate"
+          ]
+        },
+        "61902e795ff9451fa380": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; it confirms the Oct 7-8 Owning Intelligence blog as primary. No reputable second outlet yet; benchmark is proprietary and unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:59:36.776Z",
+          "retrySearches": [
+            "Coinbase Qwen Onramp fraud post reputable second outlet engineering blog"
           ]
         }
       },
