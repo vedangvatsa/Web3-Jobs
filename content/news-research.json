@@ -34393,11 +34393,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a8daa03f3187bc9203a4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T14:14:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "IBKR staking page blocked on re-attempt; IBKR or Zerohash notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:02.725Z",
+      "retrySearches": [
+        "Interactive Brokers Zerohash staking notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "4290898c702f6ddce11c": {
       "source": "The Block",
@@ -67400,6 +67414,21 @@
           "reviewedAt": "2026-10-14T04:03:00.667Z",
           "retrySearches": [
             "Binance AI trading tool announcement second outlet"
+          ]
+        },
+        "a8daa03f3187bc9203a4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "IBKR staking page blocked on re-attempt; IBKR or Zerohash notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:02.725Z",
+          "retrySearches": [
+            "Interactive Brokers Zerohash staking notice second outlet"
           ]
         }
       },
