@@ -33394,23 +33394,23 @@
       "id": "5828c8cb461e5c101f9a",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T15:00:00.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single-source product lead, not opened; needs issuer record and a second outlet.",
+      "note": "Read the CoinDesk piece; Harneys-droppRWA cat-bond issuance is planned for early 2027 with executive quotes. Issuer materials plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:03.142Z",
+      "reviewedAt": "2026-10-14T04:05:46.457Z",
       "retrySearches": [
-        "tokenized catastrophe bonds October 2026 issuance"
+        "Harneys droppRWA tokenized catastrophe bonds issuance second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "03d4ca870b0fffbb1b9c": {
       "source": "The Block",
@@ -68717,6 +68717,21 @@
           "reviewedAt": "2026-10-14T04:05:44.516Z",
           "retrySearches": [
             "Unichain OP Enterprise migration Uniswap primary second outlet"
+          ]
+        },
+        "5828c8cb461e5c101f9a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Harneys-droppRWA cat-bond issuance is planned for early 2027 with executive quotes. Issuer materials plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:46.457Z",
+          "retrySearches": [
+            "Harneys droppRWA tokenized catastrophe bonds issuance second outlet"
           ]
         }
       },
