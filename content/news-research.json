@@ -38597,11 +38597,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9fffb4e8aa87cd8b09f0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T06:46:55.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Ledger LTE page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:42.183Z",
+      "retrySearches": [
+        "Ledger CryptoBilis LTE implant statement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "40c41e0e0d84e4d8a44a": {
       "source": "Cointelegraph",
@@ -67835,6 +67849,21 @@
           "reviewedAt": "2026-10-14T04:03:39.882Z",
           "retrySearches": [
             "Karpeles Ledger Flex implant evidence second outlet"
+          ]
+        },
+        "9fffb4e8aa87cd8b09f0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger LTE page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:42.183Z",
+          "retrySearches": [
+            "Ledger CryptoBilis LTE implant statement second outlet"
           ]
         }
       },
