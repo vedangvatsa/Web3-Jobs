@@ -36214,11 +36214,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4c774a89c65de4668e2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:06:10.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Defiant lead blocked on re-attempt; the same 52B yen bond plan verified via the shared Cointelegraph read. Company disclosure plus a readable second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:26.919Z",
+      "retrySearches": [
+        "Metaplanet bond sale disclosure readable second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "2adf22d1d146bf2d1880": {
       "source": "Cointelegraph",
@@ -68923,6 +68941,25 @@
           "reviewedAt": "2026-10-14T04:06:24.911Z",
           "retrySearches": [
             "Metaplanet buyback program disclosure CryptoSlate confirmation"
+          ]
+        },
+        "b4c774a89c65de4668e2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant lead blocked on re-attempt; the same 52B yen bond plan verified via the shared Cointelegraph read. Company disclosure plus a readable second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:26.919Z",
+          "retrySearches": [
+            "Metaplanet bond sale disclosure readable second outlet"
           ]
         }
       },
