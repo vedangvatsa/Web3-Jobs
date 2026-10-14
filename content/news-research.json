@@ -30405,23 +30405,23 @@
       "id": "0f27222910efd1c10573",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:50:16.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Defiant blocked (403 pattern); Ontology restart needs team post and a readable second outlet.",
+      "note": "Ontology restart page blocked on re-attempt; team post and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:39.309Z",
+      "reviewedAt": "2026-10-14T04:01:45.399Z",
       "retrySearches": [
-        "Ontology mainnet restart 43-hour halt October 2026 second outlet"
+        "Ontology mainnet restart halt team post second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "89a6f4eaa44f8851ec4d": {
       "source": "Decrypt",
@@ -67190,6 +67190,21 @@
           "reviewedAt": "2026-10-14T04:01:43.519Z",
           "retrySearches": [
             "Pando Solana ETF Hong Kong listing HKEX notice second outlet"
+          ]
+        },
+        "0f27222910efd1c10573": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ontology restart page blocked on re-attempt; team post and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:45.399Z",
+          "retrySearches": [
+            "Ontology mainnet restart halt team post second outlet"
           ]
         }
       },
