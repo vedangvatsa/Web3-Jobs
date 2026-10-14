@@ -35843,11 +35843,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ee343bfd761fbbbcc2e5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:11:27.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:00:54.099Z",
+      "retrySearches": [
+        "ENS DAO ENSv2 upgrade vote date Cointelegraph confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "74b7cc3e2ad82cda592c": {
       "source": "CoinDesk",
@@ -67026,6 +67040,21 @@
           "reviewedAt": "2026-10-14T04:00:51.952Z",
           "retrySearches": [
             "ENS ENSv2 overhaul vote date CryptoSlate confirmation"
+          ]
+        },
+        "ee343bfd761fbbbcc2e5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:54.099Z",
+          "retrySearches": [
+            "ENS DAO ENSv2 upgrade vote date Cointelegraph confirmation"
           ]
         }
       },
