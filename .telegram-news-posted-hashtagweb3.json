@@ -725,6 +725,9 @@
   "https://hashtagweb3.com/esma-stablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thailand-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mining-pool?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/blur-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/usdkg-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2083,6 +2086,12 @@
   "Tether blacklists four THORChain vaults, then reverses within hours",
   "Thailand finalizes bitcoin and ether ETF regulations",
   "Thailand finalizes bitcoin and ether ETF rules effective Oct. 16",
+  "Binance Discontinues Mining Pool Services Effective November 10",
+  "Binance to shut mining pool and cloud services on Nov. 10",
+  "Blur to close website and halt new loans November 12",
+  "Blur to retire marketplace site and end new Blend loans on Nov. 12",
+  "Kyrgyzstan orders liquidation of USDKG and state crypto exchange",
+  "Kyrgyzstan winds down gold-backed USDKG and state exchange",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2358,5 +2367,8 @@
   "fp:30m|chain|data|foundation|invest|migration|natively|network|protocol|rebuild",
   "fp:customer|deadlin|down|end|esma|exposur|firm|giv|jan8|january2027",
   "fp:145m|access|address|bas|blacklist|block|four|freez|hour|october9",
-  "fp:access|barr|can|effectiv|etf|ether|finaliz|foreign|fund|institutional"
+  "fp:access|barr|can|effectiv|etf|ether|finaliz|foreign|fund|institutional",
+  "fp:at07|binanc|cloud|discontinu|down|effectiv|featur|four|hash|hav",
+  "fp:activ|blend|blur|clos|contract|deprecation|despit|end|frontend|halt",
+  "fp:asset|august20|back|cabinet|coin|deadlin|down|eva|exchang|gold"
 ]
