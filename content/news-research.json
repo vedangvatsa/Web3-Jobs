@@ -36166,11 +36166,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c73f4dac66bf8af1f18",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T04:18:20.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin rebound and decoupling narrative; price commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:54:02.701Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "ca8b1ba703adf7a16045": {
       "source": "Crypto Briefing",
@@ -66183,6 +66188,13 @@
           "note": "Tokenized-stock liquidation tally amid chip rout; liquidation commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:54:00.721Z"
+        },
+        "6c73f4dac66bf8af1f18": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin rebound and decoupling narrative; price commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:54:02.701Z"
         }
       },
       "baselineSlugs": [
