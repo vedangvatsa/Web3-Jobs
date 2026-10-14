@@ -34664,11 +34664,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "889865057fdbfcd5e9e4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:03:30.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Blockchain.com CFTC page blocked on re-attempt; filing record and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:03:06.749Z",
+      "retrySearches": [
+        "Blockchain.com CFTC licenses filing second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "e5928b7ca1b7cb3e8e2a": {
       "source": "Cointelegraph",
@@ -67458,6 +67472,21 @@
           "reviewedAt": "2026-10-14T04:03:04.653Z",
           "retrySearches": [
             "Interactive Brokers Zerohash staking notice second outlet"
+          ]
+        },
+        "889865057fdbfcd5e9e4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Blockchain.com CFTC page blocked on re-attempt; filing record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:03:06.749Z",
+          "retrySearches": [
+            "Blockchain.com CFTC licenses filing second outlet"
           ]
         }
       },
