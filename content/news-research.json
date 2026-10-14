@@ -27408,25 +27408,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f16a7b553033e9f2f33",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T18:00:02.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "needs-corroboration",
-      "note": "Prior-round CryptoSlate read retained; Optech newsletter and second outlet still missing.",
+      "reason": "verified-event",
+      "note": "LDK Oct 1 security releases v0.2.7/v0.1.13 verified via Optech 426 primary plus CryptoSlate; 5057 reconnect theft, 5042 LSPS2 and 5046 stale-state fixes confirmed.",
       "sourceChecks": [
+        {
+          "url": "https://bitcoinops.org/en/newsletters/2026/10/09/",
+          "outcome": "read"
+        },
         {
           "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:06.268Z",
+      "reviewedAt": "2026-10-14T03:49:07.986Z",
       "retrySearches": [
         "LDK 0.2.7 reconnect fix Optech second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "articleSlug": "ldk-fix"
     },
     "2480131e6223cf3240bb": {
       "source": "Crypto Briefing",
@@ -65792,6 +65796,23 @@
           ],
           "reviewedAt": "2026-10-14T03:48:10.182Z",
           "articleSlug": "iphone-spyware"
+        },
+        "4f16a7b553033e9f2f33": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "LDK Oct 1 security releases v0.2.7/v0.1.13 verified via Optech 426 primary plus CryptoSlate; 5057 reconnect theft, 5042 LSPS2 and 5046 stale-state fixes confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinops.org/en/newsletters/2026/10/09/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:49:07.986Z",
+          "articleSlug": "ldk-fix"
         }
       },
       "baselineSlugs": [
