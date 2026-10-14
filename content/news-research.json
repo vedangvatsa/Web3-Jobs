@@ -31046,23 +31046,23 @@
       "id": "77d661a00d106648ad23",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:20:36.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CryptoSlate lead, not opened; needs ACINQ release note and a second outlet.",
+      "note": "Read the CryptoSlate piece; Oct 2 and 5 merges with no packaged release yet. ACINQ release note plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:50.735Z",
+      "reviewedAt": "2026-10-14T04:00:32.475Z",
       "retrySearches": [
-        "Eclair Lightning fee loss fix October 2026 ACINQ release"
+        "Eclair Lightning fee fix release ACINQ second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "842f7eb226953ce33540": {
       "source": "Unchained",
@@ -66944,6 +66944,21 @@
           "reviewedAt": "2026-10-14T04:00:27.712Z",
           "retrySearches": [
             "Solana offline signing durable nonce SIMD developer doc second outlet"
+          ]
+        },
+        "77d661a00d106648ad23": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Oct 2 and 5 merges with no packaged release yet. ACINQ release note plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:32.475Z",
+          "retrySearches": [
+            "Eclair Lightning fee fix release ACINQ second outlet"
           ]
         }
       },
