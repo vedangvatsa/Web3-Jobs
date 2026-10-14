@@ -35629,11 +35629,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1d9fafb2ac7b69686af",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:30:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Magazine essay questioning the Lightning Network; analysis without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:14.925Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "9d594b5b8aead0cb9976": {
       "source": "Bitcoin Magazine",
@@ -66675,6 +66680,13 @@
           "note": "Commentator self-custody advice after the Ledger incident; opinion without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:12.913Z"
+        },
+        "d1d9fafb2ac7b69686af": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Magazine essay questioning the Lightning Network; analysis without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:14.925Z"
         }
       },
       "baselineSlugs": [
