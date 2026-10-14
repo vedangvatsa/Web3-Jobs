@@ -37935,11 +37935,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "53da82d0289c4ef5526d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T17:00:31.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same ASIC crypto-derivatives proposal verified via the shared Cointelegraph read. ASIC paper plus confirmation of this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:53.709Z",
+      "retrySearches": [
+        "Australia crypto derivatives loophole A458M ASIC confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "23ad72f79904c21dd430": {
       "source": "The Defiant",
@@ -68747,6 +68761,21 @@
           "reviewedAt": "2026-10-14T04:05:51.726Z",
           "retrySearches": [
             "ASIC crypto-settled CFD proposal consultation second outlet"
+          ]
+        },
+        "53da82d0289c4ef5526d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same ASIC crypto-derivatives proposal verified via the shared Cointelegraph read. ASIC paper plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:53.709Z",
+          "retrySearches": [
+            "Australia crypto derivatives loophole A458M ASIC confirmation"
           ]
         }
       },
