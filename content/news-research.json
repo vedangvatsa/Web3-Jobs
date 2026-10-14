@@ -37084,11 +37084,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c308bacb4e42be4adcd3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:46:04.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Arrest report at an AI company; crime story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:58.840Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "e59c38ffabbdfd1f0eec": {
       "source": "The Defiant",
@@ -66579,6 +66584,13 @@
           "note": "Commentary on an AI-lab leadership stint; personnel story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:56.374Z"
+        },
+        "c308bacb4e42be4adcd3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Arrest report at an AI company; crime story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:58.840Z"
         }
       },
       "baselineSlugs": [
