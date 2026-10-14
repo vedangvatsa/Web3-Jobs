@@ -37270,11 +37270,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1012637363ff01cebbc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:53:08.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "promotional",
+      "note": "Exchange trading-competition promotion entering a new phase; marketing without a reportable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:33.713Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "8514cb5e27de78e73859": {
       "source": "The Defiant",
@@ -66771,6 +66776,13 @@
           "note": "Single-outlet product update on an app redesign and token swap tool; company promotion without a second outlet.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:31.692Z"
+        },
+        "f1012637363ff01cebbc": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Exchange trading-competition promotion entering a new phase; marketing without a reportable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:33.713Z"
         }
       },
       "baselineSlugs": [
