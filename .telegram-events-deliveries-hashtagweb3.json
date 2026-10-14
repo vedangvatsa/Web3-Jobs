@@ -1830,5 +1830,54 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 155752,
     "sentAt": "2026-10-14T04:28:40.609Z"
+  },
+  "f2d2b545-c1d1-4db8-943f-14a2fd27e4a1": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:31:50.272Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtmWdmu40qCxBTk",
+        "slug": "my-first-bitcoin-education-is-freedom",
+        "name": "My First Bitcoin: Education Is Freedom",
+        "startDate": "2026-10-22T22:00:00.000Z",
+        "keys": [
+          "luma-batch-evtmwdmu40qcxbtk",
+          "hsodwfgy",
+          "page:my-first-bitcoin-education-is-freedom:2026-10-22",
+          "luma:evt-mwdmu40qcxbtkma",
+          "luma-url:/hsodwfgy",
+          "event:myfirstbitcoineducationisfreedom:2026-10-22:new york"
+        ]
+      },
+      {
+        "id": "premier-planblugano",
+        "slug": "plan-b-forum-lugano",
+        "name": "Plan B Forum Lugano 2026",
+        "startDate": "2026-10-23",
+        "keys": [
+          "premier-planblugano",
+          "plan",
+          "page:plan-b-forum-lugano:2026-10-23",
+          "url:planb.lugano.ch/planb-forum:2026-10-23",
+          "event:planbforumlugano2026:2026-10-23:lugano"
+        ]
+      },
+      {
+        "id": "premier-toksummituk",
+        "slug": "uk-tokenisation-summit",
+        "name": "UK Tokenisation Summit 2026",
+        "startDate": "2026-10-23T09:00:00.000Z",
+        "keys": [
+          "premier-toksummituk",
+          "uk3",
+          "uk",
+          "page:uk-tokenisation-summit:2026-10-23",
+          "event:uktokenisationsummit2026:2026-10-23:birmingham"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon"
   }
 }
