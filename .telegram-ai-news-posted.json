@@ -731,6 +731,9 @@
   "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
   "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
   "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+  "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1976,6 +1979,12 @@
   "Researchers use AI to design proteins that cut up other proteins",
   "Apate uses AI agents to gather intelligence from scammers",
   "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+  "FBI charges former OpenAI engineer with foreign espionage",
+  "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+  "Anthropic warns small AI models could create computer worms",
+  "Anthropic warns small AI models could self-replicate through IoT devices",
+  "Researchers bypass safety filters in OpenAI and Google models",
+  "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2224,5 +2233,8 @@
   "fp:activ|battlefield|blood|combat|creat|develop|dur|emergency|evacuation|fak",
   "fp:assist|content|creat|display|flood|generat|improv|indicator|introduc|label",
   "fp:application|bond|break|capabl|chemical|computational|custom|cut|degrad|design",
-  "fp:agent|apat|bot|can|detection|fraud|gather|get|help|improv"
+  "fp:agent|apat|bot|can|detection|fraud|gather|get|help|improv",
+  "fp:allegedly|charg|devic|employe|engineer|espionag|fac|fbi|federal|foreign",
+  "fp:anthropic|autonomous|capabl|computer|connect|creat|devic|found|human|internet",
+  "fp:attack|bypass|current|easily|explicit|filter|generat|googl|guardrail|imagery"
 ]

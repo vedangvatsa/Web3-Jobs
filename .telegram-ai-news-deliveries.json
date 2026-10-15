@@ -1384,7 +1384,7 @@
     "sentAt": "2026-10-14T19:33:33.635Z"
   },
   "219a5639-b5b4-44b1-a48c-2ad19ec06e75": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T03:53:43.869Z",
     "stories": [
       {
@@ -1418,6 +1418,8 @@
         "originalTitle": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
       }
     ],
-    "slotKey": "2026-10-15:morning"
+    "slotKey": "2026-10-15:morning",
+    "messageId": 193350,
+    "sentAt": "2026-10-15T03:53:46.444Z"
   }
 }
