@@ -31013,25 +31013,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "77d661a00d106648ad23",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:20:36.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Oct 2 and 5 merges with no packaged release yet. ACINQ release note plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:00:32.475Z",
+      "reason": "not-a-concrete-event",
+      "note": "Eclair merge commits with no packaged release or deployment; development activity, not a user-facing event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:34.822Z",
       "retrySearches": [
         "Eclair Lightning fee fix release ACINQ second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15"
     },
     "842f7eb226953ce33540": {
       "source": "Unchained",
@@ -75044,6 +75038,13 @@
           "note": "Solana offline-signing analysis describes a Foundation deprecation plan with no fixed date or final design; proposal discussion, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:32.903Z"
+        },
+        "77d661a00d106648ad23": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Eclair merge commits with no packaged release or deployment; development activity, not a user-facing event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:34.822Z"
         }
       },
       "baselineSlugs": [
