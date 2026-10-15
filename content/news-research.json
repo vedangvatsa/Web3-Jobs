@@ -38557,23 +38557,23 @@
       "id": "e4216324f4fe1c40d411",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T12:20:50.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "DRW-Marex page blocked on re-attempt; trade confirmation and a readable second outlet still missing.",
+      "note": "DRW-Marex Canton page blocked again in this run; participant notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:22.676Z",
+      "reviewedAt": "2026-10-15T11:54:37.987Z",
       "retrySearches": [
-        "DRW Marex Canton swap confirmation second outlet"
+        "DRW Marex bond index swap Canton notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "93a81e33466a01eb00b9": {
       "source": "The Defiant",
@@ -75626,6 +75626,21 @@
           "reviewedAt": "2026-10-15T11:54:35.941Z",
           "retrySearches": [
             "Trezor reseller network cut notice second outlet"
+          ]
+        },
+        "e4216324f4fe1c40d411": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DRW-Marex Canton page blocked again in this run; participant notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:37.987Z",
+          "retrySearches": [
+            "DRW Marex bond index swap Canton notice second outlet"
           ]
         }
       },
