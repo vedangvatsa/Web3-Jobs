@@ -42593,11 +42593,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "99d09b1604248185600a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:03:43.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing take on Yan regulatory push; its page is prediction-market framed. Interview record plus policy detail still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operatio",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T12:00:53.016Z",
+      "retrySearches": [
+        "Hyperliquid Yan interview policy detail second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "268e5c9654a10916ffec": {
       "source": "BeInCrypto",
@@ -78495,6 +78509,21 @@
           "note": "Promotional video interview on a fund buying engine; marketing content with no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T12:00:50.987Z"
+        },
+        "99d09b1604248185600a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing take on Yan regulatory push; its page is prediction-market framed. Interview record plus policy detail still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operatio",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T12:00:53.016Z",
+          "retrySearches": [
+            "Hyperliquid Yan interview policy detail second outlet"
+          ]
         }
       },
       "baselineSlugs": [
