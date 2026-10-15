@@ -40376,11 +40376,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "84f2457e7ce69ceffc78",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:14:28.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; Babylon proposal is at ARFC stage with votes and reviews pending. Proposal record plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:14.540Z",
+      "retrySearches": [
+        "Babylon Aave V4 proposal ARFC second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9463281292522d2c10ec": {
       "source": "BeInCrypto",
@@ -77087,6 +77101,21 @@
           "reviewedAt": "2026-10-15T11:57:12.586Z",
           "retrySearches": [
             "Binance bStocks AUM Dune data second outlet"
+          ]
+        },
+        "84f2457e7ce69ceffc78": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Babylon proposal is at ARFC stage with votes and reviews pending. Proposal record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:14.540Z",
+          "retrySearches": [
+            "Babylon Aave V4 proposal ARFC second outlet"
           ]
         }
       },
