@@ -33601,23 +33601,23 @@
       "id": "a3067f1fcfa32873953f",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T11:50:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Bybit stocks page blocked on re-attempt; Bybit announcement and a readable second outlet still missing.",
+      "note": "Bybit stocks page blocked again in this run; Bybit announcement and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:02:56.184Z",
+      "reviewedAt": "2026-10-15T11:53:52.180Z",
       "retrySearches": [
         "Bybit USDC stocks ETFs announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "3fe0e363b669e3610520": {
       "source": "Cointelegraph",
@@ -75315,6 +75315,21 @@
           "reviewedAt": "2026-10-15T11:53:49.710Z",
           "retrySearches": [
             "Bitquery CryptoBilis frozen funds report second outlet"
+          ]
+        },
+        "a3067f1fcfa32873953f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bybit stocks page blocked again in this run; Bybit announcement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:52.180Z",
+          "retrySearches": [
+            "Bybit USDC stocks ETFs announcement second outlet"
           ]
         }
       },
