@@ -30418,25 +30418,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a6f4eaa44f8851ec4d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:32:17.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Decrypt 72-hour update; Ledger says all confirmed cases trace to CryptoBilis with limited devices. Independent loss-total confirmation still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:00:13.191Z",
+      "reason": "duplicate",
+      "note": "This covers the same CryptoBilis drain attribution as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:10.762Z",
       "retrySearches": [
         "Ledger CryptoBilis confirmed loss total second outlet October 2026"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "0e8abffcdf4823387f24": {
       "source": "The Defiant",
@@ -74202,6 +74197,14 @@
           "note": "This covers the same implant confirmation as ledger-implant; MediaMarkt angle tracked via deferred MediaMarkt candidate; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:08.792Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "89a6f4eaa44f8851ec4d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same CryptoBilis drain attribution as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:10.762Z",
           "duplicateOf": "ledger-implant"
         }
       },
