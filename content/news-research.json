@@ -41117,11 +41117,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0be72ed48d308e58f3be",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:07:23.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Evernorth Defiant page blocked again in this run; Evernorth notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:03.341Z",
+      "retrySearches": [
+        "Evernorth Ripple Kraken Coinbase XRP yield notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "57e22c5974de7bf33fcc": {
       "source": "CoinDesk",
@@ -75904,6 +75918,21 @@
           "reviewedAt": "2026-10-15T11:55:00.915Z",
           "retrySearches": [
             "Strive 235 million bitcoin warrant filing second outlet"
+          ]
+        },
+        "0be72ed48d308e58f3be": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Evernorth Defiant page blocked again in this run; Evernorth notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:03.341Z",
+          "retrySearches": [
+            "Evernorth Ripple Kraken Coinbase XRP yield notice second outlet"
           ]
         }
       },
