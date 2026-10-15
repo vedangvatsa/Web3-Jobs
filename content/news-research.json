@@ -43768,11 +43768,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c5914da46c47c039dc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T02:53:59.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Ledger-explainer page blocked again in this run; Ledger guidance and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:45.169Z",
+      "retrySearches": [
+        "Ledger wallet tampering confirmed guidance second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     }
   },
   "runs": {
@@ -76484,6 +76498,21 @@
           "reviewedAt": "2026-10-15T11:55:43.060Z",
           "retrySearches": [
             "L2 Capital Newton pre-IPO AI shares notice second outlet"
+          ]
+        },
+        "8c5914da46c47c039dc4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger-explainer page blocked again in this run; Ledger guidance and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:45.169Z",
+          "retrySearches": [
+            "Ledger wallet tampering confirmed guidance second outlet"
           ]
         }
       },
