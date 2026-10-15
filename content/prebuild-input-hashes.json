@@ -26,19 +26,19 @@
       "inputHash": "fdfd0f7d16a59746"
     },
     "articles-index": {
-      "inputHash": "8d409f874e9b0776"
+      "inputHash": "22d8a298653ef455"
     },
     "articles-data": {
-      "inputHash": "2756d9940de78fc5"
+      "inputHash": "08aabf7062478782"
     },
     "slug-types": {
-      "inputHash": "ac9e2a0ad4bc4e2f"
+      "inputHash": "9b572ca3cd110c7d"
     },
     "sitemap": {
-      "inputHash": "cc58cc0708a604cc"
+      "inputHash": "4649da09db3042ba"
     },
     "public-catalog-sync": {
-      "inputHash": "578c6eaa90fedefc"
+      "inputHash": "63d7c885c600cf3f"
     },
     "nomad-catalogs": {
       "inputHash": "4ec2923d69ac6027"
@@ -50,7 +50,7 @@
       "inputHash": "ea4496b7198aea07"
     },
     "removed-job-paths": {
-      "inputHash": "b8fec635c510c1bb"
+      "inputHash": "4684cdbb385a2a24"
     }
   }
 }

@@ -201,8 +201,8 @@ const nextConfig = {
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
-      { source: '/jio-perpetuals', destination: '/jio', permanent: true },
-      { source: `/jio-perpetuals/:platform(${socialSuffixPattern})`, destination: '/jio/:platform', permanent: true },
+      { source: '/jio', destination: '/jio-perpetuals', permanent: true },
+      { source: `/jio/:platform(${socialSuffixPattern})`, destination: '/jio-perpetuals/:platform', permanent: true },
       ...Object.entries(canonicalEventRedirects).filter(([source, destination]) => source !== destination).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
       { source: '/terms-of-use', destination: '/terms-of-use.md', permanent: false },
       { source: '/terms', destination: '/terms-of-use.md', permanent: false },

@@ -2,7 +2,7 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-15T12:58:38.679Z",
+  "generatedAt": "2026-10-15T13:14:39.979Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
@@ -9706,7 +9706,7 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/jio",
+      "url": "https://hashtagweb3.com/jio-perpetuals",
       "lastmod": "2026-10-15",
       "changefreq": "monthly",
       "priority": 0.7
