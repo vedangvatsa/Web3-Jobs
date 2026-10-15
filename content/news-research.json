@@ -39792,11 +39792,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "db146f78beff33154545",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:19:45.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "EQX markets page blocked again in this run; EQX notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:50.464Z",
+      "retrySearches": [
+        "EQX tokenized stock ETF Hyperliquid markets notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "6c54fa996690747182a1": {
       "source": "Cointelegraph",
@@ -75730,6 +75744,21 @@
           "reviewedAt": "2026-10-15T11:54:48.379Z",
           "retrySearches": [
             "SEC small business advisory committee IPO crowdfunding notice second outlet"
+          ]
+        },
+        "db146f78beff33154545": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "EQX markets page blocked again in this run; EQX notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:50.464Z",
+          "retrySearches": [
+            "EQX tokenized stock ETF Hyperliquid markets notice second outlet"
           ]
         }
       },
