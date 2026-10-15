@@ -37720,23 +37720,23 @@
       "id": "e72102a8a0e4d3cbf140",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T19:10:25.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Robinhood feed page blocked on re-attempt; Robinhood notice and a readable second outlet still missing.",
+      "note": "Robinhood social-feed page blocked again in this run; Robinhood notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:50.581Z",
+      "reviewedAt": "2026-10-15T11:54:16.320Z",
       "retrySearches": [
-        "Robinhood social trading feed notice second outlet"
+        "Robinhood social trading feed launch notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "3ccc74f42f175d6209b4": {
       "source": "Cointelegraph",
@@ -75491,6 +75491,21 @@
           "reviewedAt": "2026-10-15T11:54:14.364Z",
           "retrySearches": [
             "DOJ North Korean laptop farm arrests release second outlet"
+          ]
+        },
+        "e72102a8a0e4d3cbf140": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Robinhood social-feed page blocked again in this run; Robinhood notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:16.320Z",
+          "retrySearches": [
+            "Robinhood social trading feed launch notice second outlet"
           ]
         }
       },
