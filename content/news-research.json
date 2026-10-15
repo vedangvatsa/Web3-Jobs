@@ -40926,11 +40926,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7f600f0c9e746c02b33",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:30:22.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin slip below $83,000 on CPI data; price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:50:05.818Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "8c83a29afe09bc11778e": {
       "source": "Bitcoin Magazine",
@@ -74490,6 +74495,13 @@
           "note": "Bitcoin fall on hot inflation and Fed hike odds; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:50:03.878Z"
+        },
+        "d7f600f0c9e746c02b33": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin slip below $83,000 on CPI data; price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:50:05.818Z"
         }
       },
       "baselineSlugs": [
