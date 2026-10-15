@@ -16517,10 +16517,6 @@
       "sha256": "cd515e3ffdbe5e40df758223b7fe1c2889d8414e8676fbee135556ca7a105b53",
       "status": "retained"
     },
-    "/og/jobs/ksi.png": {
-      "sha256": "f235f80a53908c4b14f4ddba774145f2b507007e382a16664666972d1afc90c0",
-      "status": "retained"
-    },
     "/og/jobs/kyc2.png": {
       "sha256": "206a50eebbaa6323d089e9b93fcbd4a4316a79468dc83eb053a22588b563d61d",
       "status": "retained"
@@ -16579,10 +16575,6 @@
     },
     "/og/jobs/mgr108.png": {
       "sha256": "a471d3113d12d3d8777ee2bd61026af91f83cec7a98bb4c2da9ea55219f0c943",
-      "status": "retained"
-    },
-    "/og/jobs/mgr11.png": {
-      "sha256": "969225dba2b9c1e925b46d2eb06442738665f2aa033258d3db66adc0e2a024f9",
       "status": "retained"
     },
     "/og/jobs/mgr110.png": {
@@ -21576,6 +21568,102 @@
     "/popups/zuberlin/zuberlingallery3.webp": {
       "sha256": "449fd166dacba59db731b8054f863faeeb056eb154381c28884ae0dbb4c64c94",
       "status": "retained"
+    },
+    "/events/luma-evt-7gk0vts1zaumjxj-0abf9460.webp": {
+      "sha256": "0349b2202330c8dbe17af7485f03fd6172ab1a694c0da1d4bc2ccdefc83c64c7",
+      "status": "optimized"
+    },
+    "/events/luma-evt-addbsnvds2srn5q-ccfa0152.webp": {
+      "sha256": "32aa6fedce6ca1a07ef033949827a9dd9ee764c7896a819b55ef569cb7ae5b08",
+      "status": "optimized"
+    },
+    "/events/luma-evt-ba1lglmurq2v4vm-1fbee779.webp": {
+      "sha256": "2561099c5418c78ed223c4df517ed895221307a203633d3329445d894f4edbdc",
+      "status": "optimized"
+    },
+    "/events/luma-evt-brhuxbjescff5uy-45b6ca79.webp": {
+      "sha256": "6c3b2657139e18d1041e4a6a85056e8e1944aeb96b21ef871d37b0b414dbb8f7",
+      "status": "optimized"
+    },
+    "/events/luma-evt-cxgiggtf5wxigvm-16493986.webp": {
+      "sha256": "90f0a36855f06b0cd6b42c929a754813e526c58c5ef142ed5a89e54c0f7d5179",
+      "status": "optimized"
+    },
+    "/events/luma-evt-dsbcp1wxq7tt3am-0b140d63.webp": {
+      "sha256": "2988449cdb5f989f5be4d179fcc85bbee1d8ba67a044ba9affbf09105e92f15b",
+      "status": "optimized"
+    },
+    "/events/luma-evt-enpjjbemdte9tf8-17ed771a.webp": {
+      "sha256": "cafc18e305c448078a403ee33a3891bade6b83600fac83d984355ec661ff8946",
+      "status": "optimized"
+    },
+    "/events/luma-evt-foy0qjfhrstodck-d868492e.webp": {
+      "sha256": "ca5a5f98f666ee1bc1c94104729b8437cacf7f49a1cbd7ffe5b79f221b4441eb",
+      "status": "optimized"
+    },
+    "/events/luma-evt-gqdlgiezobtn2as-fc8cf13e.webp": {
+      "sha256": "7c977aaf2426b42b74d5d6ed90bf6850d8a9058165e6ad907e3ba48f446d8be2",
+      "status": "optimized"
+    },
+    "/events/luma-evt-gvfhfccl5fof4as-71162dfb.webp": {
+      "sha256": "d7c36c490585a996a281f4b10a8a8d9ae7287a51038b0a4eb53ef71a50778c3a",
+      "status": "optimized"
+    },
+    "/events/luma-evt-pklill648diydfr-d4664079.webp": {
+      "sha256": "c5fb38a21609e4e9badf950b69e73201b00e0fa9b1e146e5340aa317f088ad4e",
+      "status": "optimized"
+    },
+    "/events/luma-evt-ptzvhlruwszlqfh-7a71e8cd.webp": {
+      "sha256": "2943f745e1731cebb44aaee88b0e713a49efaa0b3b86ae8e6bb54f96d6e327b4",
+      "status": "optimized"
+    },
+    "/events/luma-evt-rhh3nk93nvmf7s1-e65d96a6.webp": {
+      "sha256": "bcc967ea6a7fa73f3ffd66b9a35859b983f4494c2898ec7f08da9c3db47492a9",
+      "status": "optimized"
+    },
+    "/events/luma-evt-uirbeiwerk8qlsq-fecd9ac5.webp": {
+      "sha256": "184644a3d252eb0134bef499320984ba5664aa8e40e2c6885213f5beb754b569",
+      "status": "optimized"
+    },
+    "/events/luma-evt-zzwxrf39aqgyecg-f83039b6.webp": {
+      "sha256": "fe0c29cdb41606afb578af3320cad5d590669f6a83df9d3f30d595244b975eca",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-9eg9apaofm0ma0n-383c1665.webp": {
+      "sha256": "20c9a5d26a597d7d74777ec7cc014b8689a7b98185e070959597b1fdbf29fb3f",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-aih5owwcovedwmw-ea5b8cc3.webp": {
+      "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp": {
+      "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-dwufcjm1rss2idb-3bcbff60.webp": {
+      "sha256": "9e4ab04aae58c25e94427581f577b24d7d3fdb3ae7069aae2f10d512f9b418f3",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-dz0mxgbpcszczxs-7463ac70.webp": {
+      "sha256": "c14734c0d92e44ec796ac889ce298f9664e3ddff55db6939671be6fe025c97c7",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-e6ew4rhjnywy2uf-1f0aaa71.webp": {
+      "sha256": "91bb0c4f034e041fd274be0698aa2ddb1aa76b187f65cd9f1ab4a8c37627b0d6",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-jh2hreymg1ynkpj-d107e70b.webp": {
+      "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-sv4yx5hdhlqpdja-607dfbb0.webp": {
+      "sha256": "bac63917bf58bec8aec94080c3d6187d709d9affc13bb7baf33e838b2dd011e3",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-xdzrcpdha2tj2qu-66a40b5a.webp": {
+      "sha256": "2522b4707e3069012b05971033ac715c5bf78dae17c3a22196aa394182dda98d",
+      "status": "optimized"
     }
   }
 }

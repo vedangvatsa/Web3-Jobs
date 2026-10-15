@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-15T11:36:10.145Z",
+  "generatedAt": "2026-10-15T11:50:09.346Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3603,
+  "count": 3601,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -3006,12 +3006,6 @@
     {
       "url": "https://hashtagweb3.com/cmp",
       "lastmod": "2026-09-22",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/cmp10",
-      "lastmod": "2026-09-15",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -18457,12 +18451,6 @@
       "url": "https://hashtagweb3.com/tel-aviv",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/telcoin",
-      "lastmod": "2026-09-15",
-      "changefreq": "weekly",
       "priority": 0.6
     },
     {
