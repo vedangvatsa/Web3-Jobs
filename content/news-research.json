@@ -41957,11 +41957,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "443a4e34c253229e2509",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:10:29.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Bank of England remarks on UK economic resilience; macro commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:56.009Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "99d09b1604248185600a": {
       "source": "Crypto Briefing",
@@ -74838,6 +74843,13 @@
           "note": "Iranian religious-authority commentary; politics with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:53.992Z"
+        },
+        "443a4e34c253229e2509": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bank of England remarks on UK economic resilience; macro commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:56.009Z"
         }
       },
       "baselineSlugs": [
