@@ -38008,23 +38008,23 @@
       "id": "23ad72f79904c21dd430",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:44:38.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Mezo deadline page blocked on re-attempt; Mezo notice and a readable second outlet still missing.",
+      "note": "Mezo deadline page blocked again in this run; Mezo notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:26.583Z",
+      "reviewedAt": "2026-10-15T11:54:26.422Z",
       "retrySearches": [
-        "Mezo bridge-out deadline notice second outlet"
+        "Mezo bridge-out deadline swBTC USDe notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "60a23d774c9b8a0228af": {
       "source": "Bankless",
@@ -75551,6 +75551,21 @@
           "reviewedAt": "2026-10-15T11:54:23.589Z",
           "retrySearches": [
             "MNX pre-IPO AI futures launch notice second outlet"
+          ]
+        },
+        "23ad72f79904c21dd430": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Mezo deadline page blocked again in this run; Mezo notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:26.422Z",
+          "retrySearches": [
+            "Mezo bridge-out deadline swBTC USDe notice second outlet"
           ]
         }
       },
