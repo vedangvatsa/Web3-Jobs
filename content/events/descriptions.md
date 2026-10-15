@@ -19329,82 +19329,6 @@ The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovati
 
 Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
-<a id="event-e8b23c0ef09ff8a5"></a>
-
-## Dubai Tech Tuesdays No. 115 - Block & Chill Dubai: Africa Blockchain Festival 2026 X World Token Summit 4.0 Global Mixer
-
-- Record: `luma-crypto-A7U4SwG0pRYBHPa`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dubaitechtues115>
-
-### About the event
-
-PLEASE MAKE SURE YOU REGISTER FOR EASIER ACCESS
-
-DATE: Our 115th Dubai Tech Tuesdays event will be held on Tuesday, September 15, 2026, from 6:00 - 11:30 PM.
-
-For this Special Edition, Dubai Tech Tuesdays is honored to collaborate with...
-
-EVENT PARTNER: BLOCK & CHILL GLOBAL MIXER SERIES. This roadshow of the iconic World Token Summit 4.0 X Africa Blockchain Festival 2026 activates at major cities around the world to promote the summit and festival taking place 15 to 17 of October, 2026 in Nairobi, Kenya. [Follow the global roadshow mixers on luma.comblocknchill](https://luma.com/blocknchill). [Register for WTS 4.0 X ABF 26 on WorldTokenSummit.net](https://WorldTokenSummit.net) [or Africablockchainfestival.com](https://Africablockchainfestival.com). And, huge [gratitude Tech Tuesdays friends Ahmed Rafaie rafaelloangel](https://www.instagram.com/rafaelloangel/?utm_source=luma) [and Olubunmi Fabanwo /olubxnmi](https://www.
-
-instagram.com/olubxnmi/?utm_source=luma) for making this happen.
-
-VENUE: Come mingle with fellow technologists at our lovely venue - the amazing BELCANTO RESTAURANT AT THE DUBAI OPERA. https://www.instagram.com/belcantodxb/
-
-DRINK SPECIALS: FREE entrance for women. Men - 150 AED gets you 3 beverages (mandatory, but note that venue's mocktails are very nice).
-
-6:00 - 8:00 pm GATHER and SOCIALIZE. We know traffic and parking is crazy! Do NOT stress. Take your time and get here.
-
-8:00 - 9:00 pm SPEAKERS & PRESENTATIONS. Dubai Tech Tuesdays features the best tech projects and intellectual content. Think well-done TED or Davos talks. We are like that. For this Special Edition we are honored to feature top tier speakers selected by Block & Chill.
-
-FAEZEH GHAVIDEL, Multidisciplinary Artist, Author & Curator. Faezeh is a multidisciplinary artist working across painting, digital media, motion, sound, and text. Her work explores emotional and psychological states through a visual language shaped by intimacy, vulnerability, transformation, and the complexities of human experience. She has created over 300 physical artworks alongside an extensive body of motion-based works, sometimes accompanied by her own music.
-
-Her work has been exhibited internationally across Dubai, Beijing, Paris, Istanbul, and the United States, including New York's Times Square and the Oculus at the World Trade Center, and is held in private collections internationally. She is also a writer and musician, allowing image, sound, and text to intersect within her artistic language. https://www.instagram.com/faa.videl & https://www.linkedin.
-
-BAIBA BROKA, General Counsel at ZIGChain and ZIG Markets. Baiba is General Counsel at ZIGChain and ZIG Markets and founder of Grand Stream, a consultancy company providing legal and crypto licensing services in the UAE and Europe. In Web3 since 2014, she brings traditional capital markets on-chain within the ZIG ecosystem, including Zamanat, a Shariah-compliant RWA platform, and its Zamanat CEIG Fund in DIFC. She has over 20 years of academic and research experience, teaching financial law and international transactions. She advised ministers and served as Minister of Justice.
-
-Baiba is an ad honorem member of UNIDROIT, she contributed to its 2023 Principles on Digital Assets and Private Law. Passionate about democratizing capital markets and financial inclusion, she believes everyone deserves better ways to manage money, invest, and build their future. https://www.instagram.com/bbaiba1 & https://www.linkedin.
-
-NICOLE PURIN, Legal & Regulatory Advisor | Financial Services, Digital Assets & AI. Nicole is an international legal and regulatory advisor specialising in financial services, digital assets and emerging technologies. She is currently Head of Legal & Regulatory at a leading fintech company and has previously worked with top-tier cryptocurrency exchanges and financial institutions. A Solicitor of England & Wales, Nicole has extensive experience advising on complex regulatory, governance and compliance matters across multiple jurisdictions, with particular expertise in digital assets, payments, financial crime, cybersecurity and AI. https://www.instagram.com/contessa_lifestyle/ & https://www.
-
-linkedin.
-
-BRYAN TOROMO, Senior Software Engineer | Financial Systems & AI. Bryan is a senior software engineer working across financial platforms and applied AI. He is currently helping build a neobank and crypto-to-card payment solutions. He is also co-founder of Waingoo, a conversational shopping platform serving the Kenyan market through WhatsApp and Telegram. His content explores emerging technology through an engineer's lens: how systems work, what new tools can deliver, and how to test their limits.
-
-He is exploring how human specialists can retain the understanding needed to judge and direct AI-produced software as systems evolve, with the longer-term aim of preparing human expertise for the possibility of artificial superintelligence (ASI). https://www.instagram.com/bryan_toromo/ & https://www.linkedin.
-
-9:00 - 9:30 pm COMMUNITY INTRODUCTIONS. 15 or so guests will be invited to introduce themselves to the community for a minutes each, microphone in hand. Do not miss this opportunity for everyone to get to know you! Do not be shy... the shy eat alone.
-
-9:30 pm - Midnight NETWORKING + DINNER. Now is the time to meet everyone else you might have missed before. Grab a (new) friend, grab a drink, and grab a table. Create and deepen your connections with good conversation. Everyone is friendly and open - so introduce yourself to someone new.
-
-[MEDIA PARTNER: DUBAI.NEWS](https://DUBAI.NEWS) (https://www.instagram.com/dubai.newsnow/?utm_source=luma)- UAE's First News Network Run by AI and Amplified to the World. Founded by Sheeraz Hasan No.1 Fame Strategist in the World. https://www.instagram.com/dubai.newsnow/
-
-MEDIA PARTNER: UR Dream Media (UDM) (https://urdreammedia.com/?utm_source=luma) is the only full service studio in town. UDM in its state-of-the-art and extremely flexible setting studio offers Music Production and Recording, Podcast, Videography, Photography and Studio Rental all under one roof. https://www.instagram.com/udmdxb/
-
-PHOTOGRAPHY [PARTNER: We are thrilled to be supported by TITUS PHOTOGRAPHY](https://www.instagram.com/_titus_photography/?utm_source=luma)[as our media/photography partner. /_titus_photography](https://www.instagram.com/_titus_photography/?utm_source=luma)
-
-COMMUNITY SUPPORT: Thanks to Web3 Future [Space for their continued support. https://web3future.space](https://web3future.space)
-
-And additional special thanks to our special event collaboration partners...
-
-Community
-
-- [www.blockdelta.com](https://www.blockdelta.com)
-- [www.EcoX.pro](https://www.EcoX.pro)
-
-Ecosystem
-
-- [www.DSRPTD.net](https://www.DSRPTD.net)
-- [www.Web3District.xyz](https://www.Web3District.xyz)
-
-[Media www.Cryptonite.ae](https://www.Cryptonite.ae)
-
-DRESSCODE: Please dress to impress - this is a high-level business and social event. *** NO caps/shorts NO open toe shoes / sneakers *** Be classy (please). Men - try wearing a suit or sports jacket. Don't wear some random T-shirt/raggedy jeans. Women - this is your chance to be elegant. The venue WILL block access in case of inappropriate, sloppy, or indecent attire.
-
-ALSO we welcome the referral of other quality guests.
-
 <a id="event-38e430f4426f4f12"></a>
 
 ## GirlsWhoML & PhysicsX Hackathon
@@ -54318,50 +54242,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-9f507dffe20d172c"></a>
-
-## Zcash Privacy Night
-
-- Record: `w3v-zcash-privacy-night`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-15T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/38g5p8ai>
-
-### About the event
-
-¡Barcelona se prepara para uno de los momentos más importantes del año en el ecosistema cripto! Antes de que arranque la European Blockchain Convention 12 (EBC12), nos reunimos en el Zcash Privacy Night: un encuentro informal, fresco y dinámico pensado para conectar a la comunidad local de la privacidad, defensores de la soberanía digital y apasionados de la Web3.
-
-No es otra charla aburrida de diapositivas. Ven a calentar motores para la EBC12, a pasar un buen rato y a poner a prueba lo que sabes mientras nos tomamos algo en un ambiente 100% cypherpunk y relajado.
-
-¿Qué haremos esa noche?
-
-- Juegos & Trivia Cripto: Desafíos interactivos con preguntas sobre privacidad, Zcash, tecnología ZK y cultura libre. ¡Habrá premios y coleccionables para los ganadores!
-- Debate & EBC12 Warm-up: Charlaremos sobre lo que se viene en la convención, las tendencias regulatorias en Europa, las nuevas tecnologías shielded y la actualidad del ecosistema.
-- Networking & Snacks: Conecta con desarrolladores, creadores, emprendedores y miembros del Club Zcash Barcelona mientras compartimos bebidas y picoteo.
-
-Tanto si eres un veterano de las finanzas privadas como si acabas de instalar tu primera wallet, este espacio es para ti. Entrada 100% gratuita con registro previo.
-
-### ¡Sorpresa de última hora!
-
-> Tendremos [de invitado en el meetup a un miembro de la comunidad de JET](https://www.jet-europa.eu/), y nos hablará un poco de lo que se viene en ese proyecto, [su comunidad, y también su plataforma de trading, JTX](https://jtx.com/). ¡Habrá merch! No te lo pierdas.
-
-¡Aforo limitado! Reserva tu plaza y asegura tu lugar en la noche de la privacidad en Barcelona.
-
----
-
-Términos y condiciones de la actividad
-
-- Esta es una actividad para adultos, por lo que el acceso con niños o menores de edad queda prohibido.
-- Al inscribirte para este evento aceptas la posibilidad de que aparezcas en fotos o videos que son usados como reseña del mismo. En caso de no querer salir en las fotos o videos, debes mencionarlo con anticipación.
-- No recomendamos ni hablamos de trading o inversión. La inversión en criptomonedas conlleva un riesgo financiero que cada usuario debe asumir de forma individual.
-- Este evento tiene fines informativos y de networking, y no constituye en forma alguna una recomendación de inversión.
-- Zcash es un proyecto de privacidad, y en el caso de uso de sus billeteras, te recomendamos siempre guardar tu frase semilla, ya que solo tú tienes el control y custodia de tu wallet.
-- Este es un evento gratuito, por lo que el pago de la entrada es totalmente voluntario.
-- El Club Zcash Barcelona es una comunidad sin fines de lucro, y si deseas hacer algún aporte, donación, o quieres patrocinar nuestras actividades y convertirte en un aliado, [ponte en contacto con los organizadores o entra a este link.](https://zcashesp.com/club-zcash-barcelona/?utm_source=luma)
-- Desde el Club Zcash Barcelona promovemos el respeto y la inclusión entre todos sus miembros, los speakers, aliados y colaboradores.
-- Nos reservamos el derecho de admisión a quienes no deseen cumplir con estos términos.
-
 <a id="event-54bde1fb63711b2c"></a>
 
 ## Capitol City Bitcoin meetup - virtual
@@ -72957,7 +72837,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `luma-evt-enPJJbeMdTe9TF8`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T23:00:00.000Z
+- Starts: 2026-10-15T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/7x4mumgw>
 
@@ -73210,6 +73090,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-66f8c0f37ee628d3"></a>
+
+## TWIF Stablecoin Day
+
+- Record: `w3v-twif-stablecoin-day-powered-alcove-wallet-26-10-18`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/1yhb99bu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3cc993212d73a112"></a>
+
+## Uncharted waters, trusted transfers with Persona, Crossmint, Mastercard, OpenFX, and Circle
+
+- Record: `w3v-uncharted-waters-trusted-transfers-persona-crossmint-26-10-18`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T00:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/unchartedwaters-trustedtransfers>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9472d1a65aa6afdf"></a>
 
 ## The Digital Asset Conference IV
@@ -73294,6 +73198,150 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-3aeb4c1bcab25e8e"></a>
+
+## Ethereum Stablecoin Summit @ Money20/20 Las Vegas
+
+- Record: `w3v-ethereum-stablecoin-summit-money20-20-las-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T20:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ethereum-stablecoin-summit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e627e600eaa97dfa"></a>
+
+## The Onchain Hour
+
+- Record: `w3v-onchain-hour-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T23:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/n9q07ojo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c69f2aefe2d2591d"></a>
+
+## Rollups and Rounds \| Hosted by Succinct & Optimism
+
+- Record: `w3v-rollups-rounds-hosted-succinct-optimism-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T23:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/w7zwmx95>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1d122ac018585fcf"></a>
+
+## The Stablecoin Speakeasy at Money20/20
+
+- Record: `w3v-stablecoin-speakeasy-money20-20-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T23:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/hjry17hl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d18abd036744b7db"></a>
+
+## CryptoMondays Vegas - M2020
+
+- Record: `w3v-cryptomondays-vegas-m2020-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T00:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/yj9xk3yr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3ef97625fcacf948"></a>
+
+## TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting
+
+- Record: `w3v-twif-checker-money20-20-happy-hour-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T00:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/7w12th4d>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-47c3a4a5d63e13ad"></a>
+
+## The Lavo Lounge with Fireblocks, Yellow Card and Cyclops
+
+- Record: `w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T01:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/wx3qkng0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-23b64f174a77940b"></a>
+
+## Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only)
+
+- Record: `w3v-stablecoin-leaders-dinner-money-20-20-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T01:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/cybrid-money-20-20>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ec801cf6b57b6912"></a>
+
+## OpenFX & Stablecon: Money20/20 Stable Salon
+
+- Record: `w3v-openfx-stablecon-money20-20-stable-salon-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T02:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/OpenFXM202026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d19f713e10563e10"></a>
+
+## The Pacific Table: What Are You Seeing That We’re Not?
+
+- Record: `w3v-pacific-table-what-you-seeing-that-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T02:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/pqvvm54y>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-59c714296f39e197"></a>
+
+## The T+0 Dinner
+
+- Record: `w3v-t-0-dinner-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T02:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/0ddmn81e>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4f66615994893985"></a>
+
+## Crypto Ignite: Vegas Executive Night
+
+- Record: `w3v-crypto-ignite-vegas-executive-night-26-10-19`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T02:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/nj4h7cb6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9a801993a65e6fef"></a>
 
 ## Scientific Bitcoin Institute-Academic Day
@@ -73315,6 +73363,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.bffs.media/summit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a99c6df28cd33756"></a>
+
+## The Wake-Up Series: Stablecoins as the Future of Payments
+
+- Record: `w3v-wake-up-series-stablecoins-future-payments-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T15:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/wakeupseriesvegas>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73392,6 +73452,18 @@ https://www.encodeclub.com/
 
 A global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!
 
+<a id="event-58763f6fea7db2dc"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-316788764`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T18:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-98e61dba18043a58"></a>
 
 ## Capitol City Bitcoin meetup - virtual
@@ -73401,6 +73473,18 @@ A global developer community empowering builders through hackathons, accelerator
 - Starts: 2026-10-20T19:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396578/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8d659ca2ed669e08"></a>
+
+## Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin
+
+- Record: `w3v-merkle-science-meet-las-vegas-enterprise-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T20:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/yqb3o4cs>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73437,6 +73521,66 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bq0qztmu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a9a129ec0fafafe5"></a>
+
+## On the House with Privy & Bridge
+
+- Record: `w3v-house-privy-bridge-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/qg80sbib>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5a54d60f4e223e94"></a>
+
+## Money20/20 Happy Hour
+
+- Record: `w3v-money20-20-happy-hour-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/dt73awy1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f70664a80e9e6705"></a>
+
+## Money Moves & Martinis: Happy Hour with Rain and Solana
+
+- Record: `w3v-money-moves-martinis-happy-hour-rain-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T01:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/moneymovesandmartinisrainsolana>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0e422bd0f07dff4b"></a>
+
+## Onchain Finance Happy Hour
+
+- Record: `w3v-onchain-finance-happy-hour-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T01:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/onchain-finance-lv>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b0039253b1ec77bd"></a>
+
+## Stablecoin Era Dinner at Money 20/20
+
+- Record: `w3v-stablecoin-era-dinner-money-20-20-26-10-20`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T02:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/bejec3zs>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73596,6 +73740,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5010fd745045624e"></a>
+
+## Stablecoin Circuit Dinner
+
+- Record: `w3v-stablecoin-circuit-dinner-hosted-m-crypto-26-10-21`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T00:15:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/e5ooqshw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8c3ec81263c782c2"></a>
+
+## Money Moves: Fintech After Hours
+
+- Record: `w3v-money-moves-fintech-hours-money-20-26-10-21`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T01:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/3g2aif77>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-674ba5a4d6469ff3"></a>
 
 ## The Future Of Capital Markets
@@ -73629,6 +73797,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T11:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/yawcgo0t>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-93f6401bf1545d1b"></a>
+
+## ETHGlobal Happy Hour New Delhi
+
+- Record: `luma-host-evt-evt-9qbXxI87FMFkdFf`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T12:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/ethglobal-hh-newdelhi>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74311,6 +74491,18 @@ ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet publ
 
 ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.
 
+<a id="event-bfa931ad357927ae"></a>
+
+## MIP-20: Road to Devcon
+
+- Record: `w3v-mip-20-road-devcon-26-10-30`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T09:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ndrr1yqe>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-65d435f1cb08417e"></a>
 
 ## LABITCONF 26
@@ -74532,6 +74724,18 @@ Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program add
 
 Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.
 
+<a id="event-0eb6c3dcd5a46b0f"></a>
+
+## ArbiVerse Mumbai
+
+- Record: `w3v-arbiverse-mumbai-26-11-02`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T05:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/arbiverse-mumbai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fe7981dc6db5abfb"></a>
 
 ## Onchain Dev City - Devcon 8 INDIA 🇮🇳
@@ -74553,6 +74757,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T12:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/9bhu9f28>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f65f58f2e99c62c8"></a>
+
+## Team1 India: Networking Gala Mumbai
+
+- Record: `w3v-team1-india-networking-gala-mumbai-26-11-02`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/Team1Mumbai>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74870,6 +75086,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-874a09c4160032a1"></a>
+
+## Biggest CT G.A.Y Party
+
+- Record: `w3v-biggest-ct-g-y-party-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ena53peq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-89f0e7f8a0a01847"></a>
 
 ## Boston ~ Women in Recruiting Speaker Panel: Defining Excellence in an AI-Driven World
@@ -74918,6 +75146,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-427e1846e43897fe"></a>
+
+## Devcon Afterparty
+
+- Record: `w3v-devcon-afterparty-26-11-06`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T16:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/tswdcctj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-bd828881ec45f600"></a>
 
 ## Bitcoin Korea Conference - COEX
@@ -74942,6 +75182,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c8897524f07e6827"></a>
+
+## Mumbai Edition: Crypto Afterhours
+
+- Record: `w3v-mumbai-edition-crypto-afterhours-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T14:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/v0fimew1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e3df002d8dfd3938"></a>
 
 ## CodeCup: AI x Solana Builder Arena — Breakpoint 2026
@@ -74959,6 +75211,18 @@ An organizer description has not been verified for this record. Any previous cop
 Join us for the CodeCup: AI x Solana Builder Arena - Breakpoint Edition, an electrifying day of innovation and collaboration! On Sunday, November 15, 2026, we're gathering at the iconic Olympia London for an extraordinary exploration of AI and blockchain technology, focusing on the Solana ecosystem. Whether you're a developer, entrepreneur, or tech enthusiast, this event is your gateway to cutting-edge insights and networking opportunities with industry leaders and peers.
 
 Dive into a dynamic schedule packed with engaging talks, hands-on workshops, and spirited competitions that will challenge and inspire. The arena will buzz with creativity as participants collaborate on groundbreaking projects, exchanging ideas with some of the brightest minds in the field. Don't miss out on this unique chance to elevate your skills and be part of the future of technology!
+
+<a id="event-ccfb469670842ac2"></a>
+
+## ETHwali
+
+- Record: `w3v-ethwali-26-11-08`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-08T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/0ej7kbb0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-acb5f3db181a977d"></a>
 

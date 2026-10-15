@@ -386,5 +386,19 @@
       "luma-crypto-lifv34zztygz7ny",
       "stcws"
     ]
+  },
+  "w3v-zcash-privacy-night": {
+    "until": "2027-10-15T19:31:29.953Z",
+    "slugs": [
+      "w3v-zcash-privacy-night",
+      "zpn"
+    ]
+  },
+  "luma-crypto-A7U4SwG0pRYBHPa": {
+    "until": "2027-10-15T19:31:29.953Z",
+    "slugs": [
+      "luma-crypto-a7u4swg0prybhpa",
+      "ttn1bc"
+    ]
   }
 }

@@ -1705,7 +1705,7 @@
     "description": "Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.\n\nThe tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/arbiverse-mumbai",
-    "coverImage": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+    "coverImage": "/events/india-luma-arbiverse-mumbai-cf1e6766.webp",
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": true,

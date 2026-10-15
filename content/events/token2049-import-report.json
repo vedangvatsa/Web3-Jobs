@@ -1,32 +1,23 @@
 {
-  "checkedAt": "2026-10-15T11:32:09.172Z",
+  "checkedAt": "2026-10-15T19:31:35.129Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 4,
+    "https://luma.com/2049events": 3,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 608,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 516
   },
   "counts": {
-    "existing": 242,
-    "excluded": 375,
-    "needs-review": 41,
+    "existing": 241,
+    "excluded": 373,
+    "needs-review": 43,
     "duplicate": 1
   },
   "importedTotal": 256,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/d1uqegez",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "get-down-for-real"
-    },
     {
       "url": "https://luma.com/openhouse-singapore",
       "name": "Founder House Singapore 🇸🇬",
@@ -52,7 +43,7 @@
         "https://luma.com/2049events"
       ],
       "status": "existing",
-      "slug": "ai-agents-space-yacht-fireside"
+      "slug": "fcsy"
     },
     {
       "url": "https://luma.com/circlehouse2026",
@@ -3812,8 +3803,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/buidl-3t46",
@@ -6099,8 +6090,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/kud3zbnk",

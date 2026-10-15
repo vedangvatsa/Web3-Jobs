@@ -2113,10 +2113,6 @@
       "sha256": "0b0eb4e3d74e3aacb1c524cfa38cfd7afe8b4896d04f622531b7119cada8ed5b",
       "status": "optimized"
     },
-    "/events/luma-evt-enpjjbemdte9tf8-17ed771a.webp": {
-      "sha256": "cafc18e305c448078a403ee33a3891bade6b83600fac83d984355ec661ff8946",
-      "status": "optimized"
-    },
     "/events/luma-evt-erhdhiy7cnafvua-140f5cc2.webp": {
       "sha256": "8f9a63c7015dfdc9b0b48d00deadacd2cd19f2472fa4c8eab05d9c6ad048a046",
       "status": "optimized"
@@ -4704,10 +4700,6 @@
     "/events/w3v-yield-layer-social-impact-26-11-04-35f52683.webp": {
       "sha256": "b87e6ca6ae39a1bc36368fa405cf69f734d867237cd214b0e252a52ab05be420",
       "status": "optimized"
-    },
-    "/events/w3v-zcash-privacy-night-6392e184.webp": {
-      "sha256": "00a58f60987f17462914173ec4f651e165908edbda878d9f3c8a0fc1d2768963",
-      "status": "retained"
     },
     "/icon.png": {
       "sha256": "b0ba4437f156e529e7f0f8422a268831086d85e1c41e87c29788b35b190e4cce",

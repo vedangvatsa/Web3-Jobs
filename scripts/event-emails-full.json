@@ -1272,21 +1272,7 @@
       "info@staatslabor.ch",
       "hello@staatslabor.ch",
       "u003ehello@staatslabor.ch"
-    ],
-    "event": {
-      "id": "luma-evt-pgJND5mu7XhHNnI",
-      "name": "So werden Teams & Prozesse fit für künstliche Intelligenz - KI-Management in der öffentlichen Verwaltung",
-      "description": "",
-      "startDate": "2026-09-15T07:15:00.000Z",
-      "endDate": "2026-09-15T15:00:00.000Z",
-      "city": "Luzern",
-      "country": "Switzerland",
-      "location": "Luzern, Switzerland",
-      "url": "https://lu.ma/euoyna8c",
-      "coverImage": "https://images.lumacdn.com/event-covers/4x/bcd21ad6-f2cb-4d09-a710-61962dafecc0.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Bitcoin 203: Multi-Sig Transactions: Securing Your Bitcoin with Multiple Keys",
