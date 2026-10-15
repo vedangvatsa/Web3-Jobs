@@ -31044,23 +31044,23 @@
       "id": "842f7eb226953ce33540",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:18:10.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; the Oct 11 forum executable with 15 calls is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
+      "note": "Read the Unchained piece; the Oct 11 ENSv2 executable is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:41.757Z",
+      "reviewedAt": "2026-10-15T11:59:24.318Z",
       "retrySearches": [
         "ENSv2 activation DAO vote date second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7316ad777152a1220780": {
       "source": "Unchained",
@@ -78199,6 +78199,21 @@
           "reviewedAt": "2026-10-15T11:59:22.223Z",
           "retrySearches": [
             "Chainalysis x402 payments methodology second outlet"
+          ]
+        },
+        "842f7eb226953ce33540": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; the Oct 11 ENSv2 executable is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:24.318Z",
+          "retrySearches": [
+            "ENSv2 activation DAO vote date second outlet"
           ]
         }
       },
