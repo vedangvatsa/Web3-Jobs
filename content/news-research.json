@@ -40261,11 +40261,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e22211ee92fa03377976",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:48:07.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin dip tied to KOSPI close; price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:38.245Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "ca7fb5937c7b53ab1189": {
       "source": "CryptoSlate",
@@ -74322,6 +74327,13 @@
           "note": "Live price updates blog on bitcoin under a level; rolling market chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:36.318Z"
+        },
+        "e22211ee92fa03377976": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin dip tied to KOSPI close; price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:38.245Z"
         }
       },
       "baselineSlugs": [
