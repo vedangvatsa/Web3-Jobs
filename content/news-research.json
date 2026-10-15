@@ -39919,11 +39919,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e12a8488c2c1726eec3e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:59:33.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "AI-assisted breach of a North African government database; identity-records story with no crypto-asset nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:30.305Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "bc8839c132f1a9406f93": {
       "source": "Crypto Briefing",
@@ -74682,6 +74687,13 @@
           "note": "Commentary piece built around CZ remarks on Solana in China; punditry, no verifiable concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:28.121Z"
+        },
+        "e12a8488c2c1726eec3e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-assisted breach of a North African government database; identity-records story with no crypto-asset nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:30.305Z"
         }
       },
       "baselineSlugs": [
