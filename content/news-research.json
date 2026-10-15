@@ -38176,23 +38176,23 @@
       "id": "0871965a45abb9720683",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T15:52:09.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Tuesday launch on MegaETH with 2027-expiry AI futures confirmed. MNX announcement plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:38.158Z",
+      "reviewedAt": "2026-10-15T11:56:41.649Z",
       "retrySearches": [
-        "MNX exchange launch pre-IPO futures announcement second outlet"
+        "MNX pre-IPO AI futures terms second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "65e1bdb7fc61aadaa055": {
       "source": "CoinDesk",
@@ -76735,6 +76735,21 @@
           "reviewedAt": "2026-10-15T11:56:39.625Z",
           "retrySearches": [
             "Lido NEST budget buyback forum second outlet"
+          ]
+        },
+        "0871965a45abb9720683": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:41.649Z",
+          "retrySearches": [
+            "MNX pre-IPO AI futures terms second outlet"
           ]
         }
       },
