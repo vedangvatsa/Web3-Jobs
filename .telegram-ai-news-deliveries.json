@@ -1382,5 +1382,42 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 193348,
     "sentAt": "2026-10-14T19:33:33.635Z"
+  },
+  "219a5639-b5b4-44b1-a48c-2ad19ec06e75": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:53:43.869Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+        "headline": "FBI charges former OpenAI engineer with foreign espionage",
+        "summary": "A former employee faces federal charges for allegedly hiding recording devices in secure meeting rooms to steal proprietary information.",
+        "event_rationale": "This covers a criminal security breach and espionage case involving a leading AI lab's internal secrets.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+        "source": "Ars Technica",
+        "originalTitle": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room"
+      },
+      {
+        "index": 7,
+        "original_title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "headline": "Anthropic warns small AI models could create computer worms",
+        "summary": "Researchers found that lightweight models may soon be capable of autonomous self-replication across internet-connected devices without human intervention.",
+        "event_rationale": "This is a specific safety warning regarding model capabilities and cybersecurity risks from a major AI developer.",
+        "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "source": "Ars Technica",
+        "originalTitle": "Anthropic warns small AI models could self-replicate through IoT devices"
+      },
+      {
+        "index": 9,
+        "original_title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "headline": "Researchers bypass safety filters in OpenAI and Google models",
+        "summary": "New attack methods successfully tricked leading AI systems into generating explicit imagery, revealing vulnerabilities in current safety guardrails.",
+        "event_rationale": "This covers a specific technical vulnerability and safety failure in the industry's most prominent commercial models.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "source": "Ars Technica",
+        "originalTitle": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say"
+      }
+    ],
+    "slotKey": "2026-10-15:morning"
   }
 }
