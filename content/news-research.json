@@ -42286,11 +42286,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "abe33c9e985db1a9e48b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:46:04.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "AI-models-offline letter from scientists; AI-safety story with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:07.974Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "312c1cc8ce01a8f2750b": {
       "source": "Bitcoin Magazine",
@@ -74910,6 +74915,13 @@
           "note": "Anthropic IPO pitch and revenue slowdown; AI-company financing with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:05.980Z"
+        },
+        "abe33c9e985db1a9e48b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-models-offline letter from scientists; AI-safety story with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:07.974Z"
         }
       },
       "baselineSlugs": [
