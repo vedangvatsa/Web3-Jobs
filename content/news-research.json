@@ -41412,11 +41412,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8889f7d445db1cf651c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:38:26.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "BNY quarterly earnings report; bank earnings with no crypto-asset event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:38.239Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "22707ccaee06c7871444": {
       "source": "Crypto Briefing",
@@ -74730,6 +74735,13 @@
           "note": "TSMC and Musk Terafab fab-control talks; semiconductor story with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:36.237Z"
+        },
+        "8889f7d445db1cf651c7": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "BNY quarterly earnings report; bank earnings with no crypto-asset event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:38.239Z"
         }
       },
       "baselineSlugs": [
