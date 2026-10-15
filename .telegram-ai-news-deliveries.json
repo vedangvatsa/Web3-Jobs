@@ -1456,5 +1456,42 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 193351,
     "sentAt": "2026-10-15T12:07:58.840Z"
+  },
+  "ea2e0369-1270-4f0e-ac8a-6c577a64c908": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:32:14.442Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "headline": "Anthropic gives safety researchers full internal system access",
+        "summary": "An independent auditing group will evaluate model risks and publish uncensored assessments without corporate oversight.",
+        "event_rationale": "This covers Anthropic granting METR direct internal access for safety auditing, which is distinct from all previously posted Anthropic stories.",
+        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic is letting METR researchers look under the hood with employee-level access"
+      },
+      {
+        "index": 3,
+        "original_title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+        "headline": "FTC launches investigation into Anthropic and OpenAI",
+        "summary": "Federal regulators are reviewing safety practices and potential consumer harm violations across leading technology firms.",
+        "event_rationale": "This covers an FTC regulatory investigation into OpenAI and Anthropic, an event distinct from previously posted regulatory stories.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+        "source": "Ars Technica",
+        "originalTitle": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”"
+      },
+      {
+        "index": 6,
+        "original_title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "headline": "Amazon subsidiary Bee launches two personal AI devices",
+        "summary": "The new consumer wearables record audio, summarize conversations, and manage tasks starting at $75.",
+        "event_rationale": "This covers Bee launching consumer AI hardware, an event distinct from all previously posted hardware and robotics announcements.",
+        "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "source": "TechCrunch",
+        "originalTitle": "Amazon’s Bee launches two new personal AI devices, starting at $75"
+      }
+    ],
+    "slotKey": "2026-10-15:evening"
   }
 }
