@@ -1426,5 +1426,36 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 65750,
     "sentAt": "2026-10-14T19:33:43.769Z"
+  },
+  "bf5a5d91-feb4-4ba8-8ddc-24f451ad43a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:55:18.016Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Standard Chartered Dubai adds Ripple RLUSD custody and collateral support",
+        "summary": "Institutional clients can store the token and use it as trading collateral on the LMAX exchange.",
+        "link": "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered holds Ripple's RLUSD in Dubai, plans collateral link with LMAX"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger adds account delegation feature for institutions",
+        "summary": "The update allows organizations to assign account responsibilities to delegates without sharing private keys.",
+        "link": "https://hashtagweb3.com/xrpl-delegation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger activates account delegation for banks and stablecoin issuers"
+      },
+      {
+        "index": -1,
+        "headline": "Igloo Inc. to Shut Down Abstract Network on December 15",
+        "summary": "Users must bridge their funds off the Ethereum layer 2 network before the final shutdown date.",
+        "link": "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline"
+      }
+    ],
+    "slotKey": "2026-10-15:morning"
   }
 }
