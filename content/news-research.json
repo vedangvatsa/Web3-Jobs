@@ -33114,23 +33114,23 @@
       "id": "12f78cf5e3151c408693",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T15:48:21.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Story-to-Sui page blocked on re-attempt; Sui or Story announcement and a second outlet still missing.",
+      "note": "Story-to-Sui page blocked again in this run; Sui or Story announcement and a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:58.838Z",
+      "reviewedAt": "2026-10-15T11:53:39.599Z",
       "retrySearches": [
         "Story DATA Sui migration announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e5bb97261b54e603e867": {
       "source": "The Defiant",
@@ -75225,6 +75225,21 @@
           "reviewedAt": "2026-10-15T11:53:37.620Z",
           "retrySearches": [
             "Canton Q3 fees CertiK report second outlet"
+          ]
+        },
+        "12f78cf5e3151c408693": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Story-to-Sui page blocked again in this run; Sui or Story announcement and a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:39.599Z",
+          "retrySearches": [
+            "Story DATA Sui migration announcement second outlet"
           ]
         }
       },
