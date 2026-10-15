@@ -4624,7 +4624,7 @@
     "sentAt": "2026-10-15T19:32:09.931Z"
   },
   "7dd81f61-d815-4c44-a588-06584c6937c4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T19:32:12.445Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4737,6 +4737,8 @@
       }
     ],
     "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/infra9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Controls Engineer, Mission-Critical Infrastructure</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Critical Support Manager - Escalations</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pm228?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager | Procurement</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Digital Assets</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/fs26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer, Investigator Tools</a>",
-    "slotKey": "2026-10-15:evening"
+    "slotKey": "2026-10-15:evening",
+    "messageId": 129,
+    "sentAt": "2026-10-15T19:32:15.602Z"
   }
 }
