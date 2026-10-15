@@ -42511,11 +42511,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a518eb9bd5236b75fd3c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:20:09.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Algorand resignations page blocked again in this run; company notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:49.263Z",
+      "retrySearches": [
+        "Algorand marketing chief resignation notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7a1b878d8c69bfa86f56": {
       "source": "Decrypt",
@@ -76542,6 +76556,21 @@
           "reviewedAt": "2026-10-15T11:55:47.287Z",
           "retrySearches": [
             "Tempo Zones privacy Deel production notice second outlet"
+          ]
+        },
+        "a518eb9bd5236b75fd3c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Algorand resignations page blocked again in this run; company notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:49.263Z",
+          "retrySearches": [
+            "Algorand marketing chief resignation notice second outlet"
           ]
         }
       },
