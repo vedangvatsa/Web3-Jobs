@@ -40858,11 +40858,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b9b7c16a80af6d813269",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:51:44.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin fall on hot inflation and Fed hike odds; price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:50:03.878Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "f42c13aeeddfc086db9f": {
       "source": "The Defiant",
@@ -74478,6 +74483,13 @@
           "note": "Bitcoin fall below a level on CPI revival; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:50:01.864Z"
+        },
+        "b9b7c16a80af6d813269": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin fall on hot inflation and Fed hike odds; price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:50:03.878Z"
         }
       },
       "baselineSlugs": [
