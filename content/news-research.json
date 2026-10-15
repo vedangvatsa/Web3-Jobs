@@ -38773,23 +38773,23 @@
       "id": "e98e0dee2df9744aba85",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:23:07.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; 52B yen zero-coupon bonds due 2031 split between loan repayment and buybacks. Company disclosure plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece; Y52B zero-coupon bonds due 2031 to repay loans and fund buybacks. Company filing plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:22.866Z",
+      "reviewedAt": "2026-10-15T11:56:49.934Z",
       "retrySearches": [
-        "Metaplanet convertible bonds disclosure second outlet"
+        "Metaplanet convertible bonds filing second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cc02128e785afeaddb06": {
       "source": "Unchained",
@@ -76795,6 +76795,21 @@
           "reviewedAt": "2026-10-15T11:56:47.939Z",
           "retrySearches": [
             "Metaplanet buyback bond filing second outlet"
+          ]
+        },
+        "e98e0dee2df9744aba85": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Y52B zero-coupon bonds due 2031 to repay loans and fund buybacks. Company filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:49.934Z",
+          "retrySearches": [
+            "Metaplanet convertible bonds filing second outlet"
           ]
         }
       },
