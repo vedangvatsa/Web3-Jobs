@@ -40920,11 +40920,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "374bf63c642dee162c49",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:46:03.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Decrypt piece; Bank of Russia added Sberbank to the exchange register on Oct 12 with Dec 1 products planned. Regulator register plus Interfax confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:11.668Z",
+      "retrySearches": [
+        "Sberbank Bank of Russia register Interfax second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5a1f68cae2407821f2ac": {
       "source": "Cointelegraph",
@@ -78025,6 +78039,21 @@
           "reviewedAt": "2026-10-15T11:59:09.656Z",
           "retrySearches": [
             "UK knifepoint robbery police confirmation second outlet"
+          ]
+        },
+        "374bf63c642dee162c49": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Decrypt piece; Bank of Russia added Sberbank to the exchange register on Oct 12 with Dec 1 products planned. Regulator register plus Interfax confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:11.668Z",
+          "retrySearches": [
+            "Sberbank Bank of Russia register Interfax second outlet"
           ]
         }
       },
