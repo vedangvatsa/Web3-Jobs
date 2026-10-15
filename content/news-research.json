@@ -32990,25 +32990,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "2098bbe999d09c2957ef",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:23:03.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; Bitquery at 93.2M and YFarmX at 103.4M disagree with no Ledger total. Loss confirmation plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/ledger-says-all-confirmed-cases-trace-to-reseller-cryptobilis-gives-no-loss-total/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:01:41.549Z",
+      "reason": "duplicate",
+      "note": "This covers the same confirmed-cases attribution as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:14.608Z",
       "retrySearches": [
         "Ledger CryptoBilis loss total Bitquery YFarmX second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "04b3fd9c7145da46b45d": {
       "source": "BeInCrypto",
@@ -74208,6 +74203,14 @@
           "note": "This covers the same CryptoBilis implant probe as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:12.740Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "2098bbe999d09c2957ef": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same confirmed-cases attribution as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:14.608Z",
           "duplicateOf": "ledger-implant"
         }
       },
