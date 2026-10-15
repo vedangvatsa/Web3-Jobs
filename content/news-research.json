@@ -32679,23 +32679,23 @@
       "id": "d14521213957084bdf90",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T20:02:22.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from Oct. Kalshi or CBS notice plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from October. Kalshi or CBS notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:19.688Z",
+      "reviewedAt": "2026-10-15T11:57:16.567Z",
       "retrySearches": [
         "Kalshi CBS News prediction market sponsor notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7180bc45f02fe42dc952": {
       "source": "Crypto Briefing",
@@ -77116,6 +77116,21 @@
           "reviewedAt": "2026-10-15T11:57:14.540Z",
           "retrySearches": [
             "Babylon Aave V4 proposal ARFC second outlet"
+          ]
+        },
+        "d14521213957084bdf90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from October. Kalshi or CBS notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:16.567Z",
+          "retrySearches": [
+            "Kalshi CBS News prediction market sponsor notice second outlet"
           ]
         }
       },
