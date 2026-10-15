@@ -41486,11 +41486,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "071d484945d3a5682dcd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:45:57.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "HashKey admin-move page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:07.888Z",
+      "retrySearches": [
+        "HashKey Chain admin USDT contract swap evidence second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "8889f7d445db1cf651c7": {
       "source": "Crypto Briefing",
@@ -75962,6 +75976,21 @@
           "reviewedAt": "2026-10-15T11:55:05.639Z",
           "retrySearches": [
             "Evernorth 648 million XRP treasury notice second outlet"
+          ]
+        },
+        "071d484945d3a5682dcd": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "HashKey admin-move page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:07.888Z",
+          "retrySearches": [
+            "HashKey Chain admin USDT contract swap evidence second outlet"
           ]
         }
       },
