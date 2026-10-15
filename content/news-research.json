@@ -43195,11 +43195,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a7262ff37a34a16baa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:00:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "not-a-concrete-event",
+      "note": "Chainalysis remittance-surge statistic; data report, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:42.436Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "764e432b27115b0c7c27": {
       "source": "The Block",
@@ -75048,6 +75053,13 @@
           "note": "Researcher claim of cheaper quantum protection for bitcoin; study publicity without a deployment event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:40.531Z"
+        },
+        "89a7262ff37a34a16baa": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Chainalysis remittance-surge statistic; data report, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:42.436Z"
         }
       },
       "baselineSlugs": [
