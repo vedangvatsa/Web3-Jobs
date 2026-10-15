@@ -35993,23 +35993,23 @@
       "id": "ee343bfd761fbbbcc2e5",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T11:11:27.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+      "note": "Read the Cointelegraph piece on the same ENSv2 proposal with transition-pause detail. Vote record plus second-outlet confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:54.099Z",
+      "reviewedAt": "2026-10-15T11:59:28.507Z",
       "retrySearches": [
-        "ENS DAO ENSv2 upgrade vote date Cointelegraph confirmation"
+        "ENSv2 proposal vote record second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "74b7cc3e2ad82cda592c": {
       "source": "CoinDesk",
@@ -78229,6 +78229,21 @@
           "reviewedAt": "2026-10-15T11:59:26.436Z",
           "retrySearches": [
             "ENSv2 vote record launch date second outlet"
+          ]
+        },
+        "ee343bfd761fbbbcc2e5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece on the same ENSv2 proposal with transition-pause detail. Vote record plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:28.507Z",
+          "retrySearches": [
+            "ENSv2 proposal vote record second outlet"
           ]
         }
       },
