@@ -36744,23 +36744,23 @@
       "id": "8368331cd113dec88465",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T01:00:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same BSP scrutiny verified via the shared CryptoBriefing read. BSP statement plus confirmation of this outlet account still needed.",
+      "note": "Read the CoinDesk piece with customer counts and the Coins.ph funds-safe statement. BSP order plus scope confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:39.610Z",
+      "reviewedAt": "2026-10-15T11:58:38.130Z",
       "retrySearches": [
-        "Coins.ph central bank action CoinDesk confirmation BSP statement"
+        "Coins.ph BSP order scope confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9e609fcefdc5312a8997": {
       "source": "Crypto Briefing",
@@ -77721,6 +77721,21 @@
           "reviewedAt": "2026-10-15T11:58:36.031Z",
           "retrySearches": [
             "Coins.ph BSP deposit restrictions statement second outlet"
+          ]
+        },
+        "8368331cd113dec88465": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece with customer counts and the Coins.ph funds-safe statement. BSP order plus scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:38.130Z",
+          "retrySearches": [
+            "Coins.ph BSP order scope confirmation second outlet"
           ]
         }
       },
