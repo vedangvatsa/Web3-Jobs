@@ -42218,11 +42218,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c0e49fb539cfa63e081",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:51:17.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic IPO pitch and revenue slowdown; AI-company financing with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:05.980Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "b883039d71d58faa5a57": {
       "source": "Cointelegraph",
@@ -74898,6 +74903,13 @@
           "note": "Anthropic extinction warnings versus IPO plans; AI commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:03.869Z"
+        },
+        "0c0e49fb539cfa63e081": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic IPO pitch and revenue slowdown; AI-company financing with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:05.980Z"
         }
       },
       "baselineSlugs": [
