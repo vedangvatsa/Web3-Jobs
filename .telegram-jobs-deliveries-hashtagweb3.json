@@ -2100,5 +2100,122 @@
     "slotKey": "2026-10-15:morning",
     "messageId": 155774,
     "sentAt": "2026-10-15T03:53:22.028Z"
+  },
+  "3e0af3f3-a942-41e8-a44a-31d97eefc42e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:06:54.018Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8190036",
+          "title": "Account Executive, Product - Local Payment Methods",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8190036",
+          "date": "2026-09-25T18:57:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "US-CA",
+          "department": "1640 Product Sales - Payments",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm156"
+        },
+        "key": "8190036",
+        "slug": "pm156",
+        "url": "https://hashtagweb3.com/pm156?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8010225003",
+          "title": "Technology and Security Risk Director",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8010225003",
+          "date": "2026-10-01T03:52:24-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec14"
+        },
+        "key": "8010225003",
+        "slug": "sec14",
+        "url": "https://hashtagweb3.com/sec14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Technology and Security Risk Director"
+      },
+      {
+        "snapshot": {
+          "id": "b66be397-240b-41a6-9b05-493299b270a9",
+          "title": "Software Engineering Intern, iOS",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+          "date": "2026-09-24T01:01:49.394+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng309"
+        },
+        "key": "b66be397-240b-41a6-9b05-493299b270a9",
+        "slug": "eng309",
+        "url": "https://hashtagweb3.com/eng309?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineering Intern"
+      },
+      {
+        "snapshot": {
+          "id": "23bf3de2-7343-4147-a380-84450a9c22e3",
+          "title": "Senior Software Engineer - Full-stack - Growth Product",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/23bf3de2-7343-4147-a380-84450a9c22e3",
+          "date": "2026-09-29T08:05:54.903+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm183"
+        },
+        "key": "23bf3de2-7343-4147-a380-84450a9c22e3",
+        "slug": "pm183",
+        "url": "https://hashtagweb3.com/pm183?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5428275008",
+          "title": "Territory Account Executive, Newcastle",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5428275008?gh_jid=5428275008",
+          "date": "2026-10-01T16:06:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Newcastle, Australia",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "salary": "$198.2k – $297.4k/yr",
+          "dateVerified": true,
+          "slug": "sls203"
+        },
+        "key": "5428275008",
+        "slug": "sls203",
+        "url": "https://hashtagweb3.com/sls203?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm156?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product - Local Payment Methods</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sec14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technology and Security Risk Director</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/eng309?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineering Intern, iOS</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm183?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Full-stack - Growth Product</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls203?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, Newcastle</a>",
+    "slotKey": "2026-10-15:afternoon"
   }
 }
