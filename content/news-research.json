@@ -43317,11 +43317,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a61996d0167fd41c5a1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:11:35.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "not-a-concrete-event",
+      "note": "Morning market-brief roundup; newsletter format with no single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:46.265Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "4f73a3f2edd83665919a": {
       "source": "The Defiant",
@@ -75072,6 +75077,13 @@
           "note": "Explainer on quantum defense being built in the open; analysis roundup, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:44.310Z"
+        },
+        "5a61996d0167fd41c5a1": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Morning market-brief roundup; newsletter format with no single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:46.265Z"
         }
       },
       "baselineSlugs": [
