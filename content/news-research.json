@@ -40931,11 +40931,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "356e9b33c575a7e73f4b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:15:19.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Coinbase blog urges starting Bitcoin quantum migration now. Coinbase post plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:22.854Z",
+      "retrySearches": [
+        "Coinbase Bitcoin quantum migration blog second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "8cf2e25e2a9cc92881b0": {
       "source": "CoinDesk",
@@ -77175,6 +77189,21 @@
           "reviewedAt": "2026-10-15T11:57:20.761Z",
           "retrySearches": [
             "Perpetuals tokenized stocks SEC exemption notice second outlet"
+          ]
+        },
+        "356e9b33c575a7e73f4b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Coinbase blog urges starting Bitcoin quantum migration now. Coinbase post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:22.854Z",
+          "retrySearches": [
+            "Coinbase Bitcoin quantum migration blog second outlet"
           ]
         }
       },
