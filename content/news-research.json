@@ -39525,11 +39525,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1103c928088308ad184",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:37:33.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Zcash price-risk commentary weighing ETF inflows against inflation fears; market prediction, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:22.531Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "c2099901aa126604003f": {
       "source": "The Defiant",
@@ -74226,6 +74231,13 @@
           "note": "XRP price commentary asking why ETF inflows have not moved the price; prediction-tinged market chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:20.531Z"
+        },
+        "b1103c928088308ad184": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Zcash price-risk commentary weighing ETF inflows against inflation fears; market prediction, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:22.531Z"
         }
       },
       "baselineSlugs": [
