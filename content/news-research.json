@@ -41608,11 +41608,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d69869309831ed8a482",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:39:32.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Arthur Hayes market-positioning commentary; trader opinion and prediction, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:14.211Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "79d478743567526d0389": {
       "source": "Crypto Briefing",
@@ -74586,6 +74591,13 @@
           "note": "Interview commentary from Kalshi CEO on state oversight; opinion without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:12.187Z"
+        },
+        "0d69869309831ed8a482": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Arthur Hayes market-positioning commentary; trader opinion and prediction, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:14.211Z"
         }
       },
       "baselineSlugs": [
