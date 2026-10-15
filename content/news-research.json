@@ -36158,27 +36158,23 @@
       "id": "b4c774a89c65de4668e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:06:10.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Defiant lead blocked on re-attempt; the same 52B yen bond plan verified via the shared Cointelegraph read. Company disclosure plus a readable second outlet still needed.",
+      "note": "Metaplanet bond page blocked again in this run; company filing and a readable second outlet still missing.",
       "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:26.919Z",
+      "reviewedAt": "2026-10-15T11:54:08.113Z",
       "retrySearches": [
-        "Metaplanet bond sale disclosure readable second outlet"
+        "Metaplanet 52 billion yen bond sale filing second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "2adf22d1d146bf2d1880": {
       "source": "Cointelegraph",
@@ -75435,6 +75431,21 @@
           "reviewedAt": "2026-10-15T11:54:06.083Z",
           "retrySearches": [
             "Ripple Privy embedded wallets XRP Ledger announcement second outlet"
+          ]
+        },
+        "b4c774a89c65de4668e2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Metaplanet bond page blocked again in this run; company filing and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:08.113Z",
+          "retrySearches": [
+            "Metaplanet 52 billion yen bond sale filing second outlet"
           ]
         }
       },
