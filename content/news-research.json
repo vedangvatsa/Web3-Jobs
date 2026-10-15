@@ -40063,11 +40063,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a9a9d7cdae467ab8072",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:56:45.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece on the same 112-server takedown with FBI loss context. DA release plus arrest-status confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:33.549Z",
+      "retrySearches": [
+        "Brooklyn FBI scam takedown arrests DA release second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ab08dc2dbefb8e581cc7": {
       "source": "Decrypt",
@@ -77677,6 +77691,21 @@
           "reviewedAt": "2026-10-15T11:58:31.438Z",
           "retrySearches": [
             "Brooklyn DA 112 servers scam DA release inventory second outlet"
+          ]
+        },
+        "0a9a9d7cdae467ab8072": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece on the same 112-server takedown with FBI loss context. DA release plus arrest-status confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:33.549Z",
+          "retrySearches": [
+            "Brooklyn FBI scam takedown arrests DA release second outlet"
           ]
         }
       },
