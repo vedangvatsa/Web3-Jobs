@@ -40334,11 +40334,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9463281292522d2c10ec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:54:34.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin whale-accumulation speculation after CPI; price chatter framed as a question, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:42.138Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "c39bf1c6e08e70338630": {
       "source": "CoinJournal",
@@ -74346,6 +74351,13 @@
           "note": "Liquidation-trap price speculation toward $78,000; prediction, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:40.155Z"
+        },
+        "9463281292522d2c10ec": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin whale-accumulation speculation after CPI; price chatter framed as a question, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:42.138Z"
         }
       },
       "baselineSlugs": [
