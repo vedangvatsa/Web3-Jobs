@@ -30147,23 +30147,23 @@
       "id": "fb494b8b3eb1d9f9ff39",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T18:55:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
       "note": "Read the Cointelegraph piece; it details FEC filings with per-candidate figures. Direct FEC record check plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms",
+          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T03:59:48.912Z",
+      "reviewedAt": "2026-10-15T11:58:42.166Z",
       "retrySearches": [
         "Fairshake Defend American Jobs FEC filing second outlet October 2026"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0542d530c8a30db504c3": {
       "source": "CryptoSlate",
@@ -77765,6 +77765,21 @@
           "reviewedAt": "2026-10-15T11:58:40.113Z",
           "retrySearches": [
             "Coins.ph advisory restoration timeline second outlet"
+          ]
+        },
+        "fb494b8b3eb1d9f9ff39": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; it details FEC filings with per-candidate figures. Direct FEC record check plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:42.166Z",
+          "retrySearches": [
+            "Fairshake Defend American Jobs FEC filing second outlet October 2026"
           ]
         }
       },
