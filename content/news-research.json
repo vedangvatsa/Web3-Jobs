@@ -43364,11 +43364,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0d6927b8f76c4340b46",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T11:59:42.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "not-a-concrete-event",
+      "note": "Hardware-wallet supply-chain explainer pegged to the Ledger incident; analysis, not a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:48.326Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "8c5914da46c47c039dc4": {
       "source": "The Defiant",
@@ -75084,6 +75089,13 @@
           "note": "Morning market-brief roundup; newsletter format with no single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:46.265Z"
+        },
+        "a0d6927b8f76c4340b46": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Hardware-wallet supply-chain explainer pegged to the Ledger incident; analysis, not a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:48.326Z"
         }
       },
       "baselineSlugs": [
