@@ -34506,7 +34506,7 @@
       "id": "5efd684dc286826e49ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T01:24:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
@@ -34517,12 +34517,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:37.606Z",
+      "reviewedAt": "2026-10-15T11:58:36.031Z",
       "retrySearches": [
         "Coins.ph BSP deposit restrictions statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "65afd8ed565fe446f4ae": {
       "source": "Crypto Briefing",
@@ -77706,6 +77706,21 @@
           "reviewedAt": "2026-10-15T11:58:33.549Z",
           "retrySearches": [
             "Brooklyn FBI scam takedown arrests DA release second outlet"
+          ]
+        },
+        "5efd684dc286826e49ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; BSP deposit restrictions and compliance departures reported. BSP statement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:36.031Z",
+          "retrySearches": [
+            "Coins.ph BSP deposit restrictions statement second outlet"
           ]
         }
       },
