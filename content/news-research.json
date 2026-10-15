@@ -41313,11 +41313,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b945f5119461715da8c2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:56:10.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "CERN and Mistral physics-model partnership; science computing story with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:32.213Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "a3aaef7d677e4e8db1f2": {
       "source": "Crypto Briefing",
@@ -74694,6 +74699,13 @@
           "note": "AI-assisted breach of a North African government database; identity-records story with no crypto-asset nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:30.305Z"
+        },
+        "b945f5119461715da8c2": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "CERN and Mistral physics-model partnership; science computing story with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:32.213Z"
         }
       },
       "baselineSlugs": [
