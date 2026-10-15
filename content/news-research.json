@@ -38605,25 +38605,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "ebce0371d77122f95e96",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T12:32:30.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:05:16.316Z",
+      "reason": "duplicate",
+      "note": "This covers the same unauthorized-component confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:04.874Z",
       "retrySearches": [
         "Ledger CryptoBilis unauthorized component cellular Unchained confirmation"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "e4216324f4fe1c40d411": {
       "source": "The Defiant",
@@ -74193,6 +74188,14 @@
           "note": "This covers the same LTE-implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:02.869Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "ebce0371d77122f95e96": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same unauthorized-component confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:04.874Z",
           "duplicateOf": "ledger-implant"
         }
       },
