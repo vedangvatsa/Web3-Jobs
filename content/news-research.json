@@ -38389,25 +38389,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "a38eef23289a120208a6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T14:45:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Ledger implant confirmation page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:03:37.822Z",
+      "reason": "duplicate",
+      "note": "This covers the same implant confirmation as ledger-implant; MediaMarkt angle tracked via deferred MediaMarkt candidate; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:08.792Z",
       "retrySearches": [
         "Ledger CryptoBilis implant MediaMarkt statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "cfe13c0851acf96b67b8": {
       "source": "The Defiant",
@@ -74199,6 +74194,14 @@
           "note": "This covers the same CryptoBilis implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:06.889Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "a38eef23289a120208a6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same implant confirmation as ledger-implant; MediaMarkt angle tracked via deferred MediaMarkt candidate; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:08.792Z",
           "duplicateOf": "ledger-implant"
         }
       },
