@@ -40124,11 +40124,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cec269b920ee656024db",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; WSJ-reported Tether payments via a middleman are explicitly unverified. WSJ records plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/tether-payments-reportedly-traced-to-bo-hines-firm-through-a-marketing-middleman/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:10.587Z",
+      "retrySearches": [
+        "Tether Bo Hines payments records second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0ef6cef8a65b5699e2c5": {
       "source": "Unchained",
@@ -77029,6 +77043,21 @@
           "reviewedAt": "2026-10-15T11:57:08.503Z",
           "retrySearches": [
             "Hacken Q3 hacks report second outlet"
+          ]
+        },
+        "cec269b920ee656024db": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; WSJ-reported Tether payments via a middleman are explicitly unverified. WSJ records plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/tether-payments-reportedly-traced-to-bo-hines-firm-through-a-marketing-middleman/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:10.587Z",
+          "retrySearches": [
+            "Tether Bo Hines payments records second outlet"
           ]
         }
       },
