@@ -37222,23 +37222,23 @@
       "id": "60da7de4add3e6ccdd4e",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T22:12:02.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Ledger halt page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
+      "note": "Ledger halt page blocked again in this run; Ledger notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:09.138Z",
+      "reviewedAt": "2026-10-15T11:54:10.081Z",
       "retrySearches": [
-        "Ledger reseller halt statement second outlet"
+        "Ledger resellers halt sales seven Asian markets notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7cf32ec891375e6ff1af": {
       "source": "Crypto Briefing",
@@ -75446,6 +75446,21 @@
           "reviewedAt": "2026-10-15T11:54:08.113Z",
           "retrySearches": [
             "Metaplanet 52 billion yen bond sale filing second outlet"
+          ]
+        },
+        "60da7de4add3e6ccdd4e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger halt page blocked again in this run; Ledger notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:10.081Z",
+          "retrySearches": [
+            "Ledger resellers halt sales seven Asian markets notice second outlet"
           ]
         }
       },
