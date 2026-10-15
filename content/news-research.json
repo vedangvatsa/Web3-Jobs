@@ -40983,11 +40983,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "652c43541eaddb6a4842",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:32:39.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Strive Block page blocked again in this run; company filing and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:00.915Z",
+      "retrySearches": [
+        "Strive 235 million bitcoin warrant filing second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d7f600f0c9e746c02b33": {
       "source": "Bitcoin Magazine",
@@ -75875,6 +75889,21 @@
           "reviewedAt": "2026-10-15T11:54:58.839Z",
           "retrySearches": [
             "Babylon native Bitcoin collateral Aave V4 proposal second outlet"
+          ]
+        },
+        "652c43541eaddb6a4842": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Strive Block page blocked again in this run; company filing and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:00.915Z",
+          "retrySearches": [
+            "Strive 235 million bitcoin warrant filing second outlet"
           ]
         }
       },
