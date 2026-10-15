@@ -41574,11 +41574,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b9e17de68886de03c02e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:56:18.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic growth slowdown and stock selloff; AI-equity story with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:01.886Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "edfcca84d9f6220441bc": {
       "source": "CoinDesk",
@@ -74874,6 +74879,13 @@
           "note": "Korea memory-chip cycle and Musk remarks; semiconductor commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:59.985Z"
+        },
+        "b9e17de68886de03c02e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic growth slowdown and stock selloff; AI-equity story with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:01.886Z"
         }
       },
       "baselineSlugs": [
