@@ -4104,5 +4104,78 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 126,
     "sentAt": "2026-10-14T19:32:00.477Z"
+  },
+  "ad3a66ae-d1ea-4dd7-8b19-cba9991590a6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:53:06.275Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4b449e56-1fca-4814-b28a-d6242465cba1",
+          "title": "Senior Data Scientist",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/4b449e56-1fca-4814-b28a-d6242465cba1",
+          "date": "2026-09-23T07:29:28.754+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds5"
+        },
+        "key": "4b449e56-1fca-4814-b28a-d6242465cba1",
+        "slug": "ds5",
+        "url": "https://hashtagweb3.com/ds5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "7cd46077-05fe-4cd7-816f-5528638342f1",
+          "title": "Software Engineer, Frontend, Growth",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+          "date": "2026-09-21T22:38:37.920+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fe7"
+        },
+        "key": "7cd46077-05fe-4cd7-816f-5528638342f1",
+        "slug": "fe7",
+        "url": "https://hashtagweb3.com/fe7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "53af43a7-ef87-4605-a527-d8a196975919",
+          "title": "Director, Category Management - Data Center Electrical Infrastructure",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/53af43a7-ef87-4605-a527-d8a196975919",
+          "date": "2026-09-30T14:50:04.011000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Procurement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra30"
+        },
+        "key": "53af43a7-ef87-4605-a527-d8a196975919",
+        "slug": "infra30",
+        "url": "https://hashtagweb3.com/infra30?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Director, Category Management"
+      }
+    ],
+    "message": "- Bitvavo is hiring <a href=\"https://hashtagweb3.com/ds5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/fe7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Frontend, Growth</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/infra30?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Category Management - Data Center Electrical Infrastructure</a>",
+    "slotKey": "2026-10-15:morning"
   }
 }
