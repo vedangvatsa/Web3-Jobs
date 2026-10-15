@@ -37938,23 +37938,23 @@
       "id": "8ac2d2e38d613a67ac19",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T17:03:26.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "MNX futures page blocked on re-attempt; MNX announcement and a readable second outlet still missing.",
+      "note": "MNX futures page blocked again in this run; MNX notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:03.350Z",
+      "reviewedAt": "2026-10-15T11:54:23.589Z",
       "retrySearches": [
-        "MNX pre-IPO futures announcement second outlet"
+        "MNX pre-IPO AI futures launch notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "53da82d0289c4ef5526d": {
       "source": "CryptoSlate",
@@ -75536,6 +75536,21 @@
           "reviewedAt": "2026-10-15T11:54:20.535Z",
           "retrySearches": [
             "Avalanche KSD Korea 2027 tokenization announcement second outlet"
+          ]
+        },
+        "8ac2d2e38d613a67ac19": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "MNX futures page blocked again in this run; MNX notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:23.589Z",
+          "retrySearches": [
+            "MNX pre-IPO AI futures launch notice second outlet"
           ]
         }
       },
