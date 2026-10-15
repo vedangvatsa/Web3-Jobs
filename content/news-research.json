@@ -33508,23 +33508,23 @@
       "id": "4e1e6ed09ce98e683288",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T12:25:19.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Bitquery freeze page blocked on re-attempt; Bitquery report and a readable second outlet still missing.",
+      "note": "Bitquery freeze page blocked again in this run; Bitquery report and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:02:09.022Z",
+      "reviewedAt": "2026-10-15T11:53:49.710Z",
       "retrySearches": [
         "Bitquery CryptoBilis frozen funds report second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e2317ae037bf746b45cc": {
       "source": "CoinDesk",
@@ -75300,6 +75300,21 @@
           "reviewedAt": "2026-10-15T11:53:47.698Z",
           "retrySearches": [
             "Karpeles Ledger implant device evidence second outlet"
+          ]
+        },
+        "4e1e6ed09ce98e683288": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bitquery freeze page blocked again in this run; Bitquery report and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:49.710Z",
+          "retrySearches": [
+            "Bitquery CryptoBilis frozen funds report second outlet"
           ]
         }
       },
