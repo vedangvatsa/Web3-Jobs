@@ -41009,11 +41009,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa5dde8070a7d867a093",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:20:46.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Analyst take on Strategy preferred-stock financing attributed to K33; third-party opinion, no company action.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:08.004Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "0be72ed48d308e58f3be": {
       "source": "The Defiant",
@@ -74550,6 +74555,13 @@
           "note": "Opinion column on gold and bitcoin portfolios; commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:05.874Z"
+        },
+        "fa5dde8070a7d867a093": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analyst take on Strategy preferred-stock financing attributed to K33; third-party opinion, no company action.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:08.004Z"
         }
       },
       "baselineSlugs": [
