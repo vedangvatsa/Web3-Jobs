@@ -40508,11 +40508,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "64af41b921e85537471d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:25:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Crypto liquidation tally near $1 billion; market recap, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:50.061Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "c92ba30c7ec07091b856": {
       "source": "CoinDesk",
@@ -74394,6 +74399,13 @@
           "note": "Bitcoin drop tied to Asian equities; market commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:48.151Z"
+        },
+        "64af41b921e85537471d": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Crypto liquidation tally near $1 billion; market recap, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:50.061Z"
         }
       },
       "baselineSlugs": [
