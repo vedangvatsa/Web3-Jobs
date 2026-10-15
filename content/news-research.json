@@ -42225,11 +42225,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "91700f2ab83a1dd4bb0f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:22:41.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "NBA hack page blocked again in this run; incident evidence and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/nba-instagram-hack-fake-meme-coin/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:51.294Z",
+      "retrySearches": [
+        "NBA Instagram hack meme coin post evidence second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7623fde913b3c730779a": {
       "source": "BeInCrypto",
@@ -76571,6 +76585,21 @@
           "reviewedAt": "2026-10-15T11:55:49.263Z",
           "retrySearches": [
             "Algorand marketing chief resignation notice second outlet"
+          ]
+        },
+        "91700f2ab83a1dd4bb0f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "NBA hack page blocked again in this run; incident evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/nba-instagram-hack-fake-meme-coin/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:51.294Z",
+          "retrySearches": [
+            "NBA Instagram hack meme coin post evidence second outlet"
           ]
         }
       },
