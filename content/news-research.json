@@ -41339,11 +41339,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3aaef7d677e4e8db1f2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:54:06.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Deutsche Bank rating on CoreWeave stock; equity commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:34.239Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "229e0fea27db85adc00e": {
       "source": "Crypto Briefing",
@@ -74706,6 +74711,13 @@
           "note": "CERN and Mistral physics-model partnership; science computing story with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:32.213Z"
+        },
+        "a3aaef7d677e4e8db1f2": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Deutsche Bank rating on CoreWeave stock; equity commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:34.239Z"
         }
       },
       "baselineSlugs": [
