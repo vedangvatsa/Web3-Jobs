@@ -36501,23 +36501,23 @@
       "id": "f89115770f5a301a3fdd",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T02:50:59.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; an exploratory staged partnership with no live deployment. Ripple or Meritz notice plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; Ripple-Meritz custody exploration is first with a Korean securities firm. Partner notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:42.547Z",
+      "reviewedAt": "2026-10-15T11:56:46.041Z",
       "retrySearches": [
-        "Ripple Meritz Securities partnership notice second outlet"
+        "Ripple Meritz custody tokenization notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "bf32da252a4b29aaac0a": {
       "source": "Crypto Briefing",
@@ -76765,6 +76765,21 @@
           "reviewedAt": "2026-10-15T11:56:43.688Z",
           "retrySearches": [
             "ASIC crypto-settled CFD proposal consultation second outlet"
+          ]
+        },
+        "f89115770f5a301a3fdd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; Ripple-Meritz custody exploration is first with a Korean securities firm. Partner notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ripple-meritz-securities-south-korea-partnership/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:46.041Z",
+          "retrySearches": [
+            "Ripple Meritz custody tokenization notice second outlet"
           ]
         }
       },
