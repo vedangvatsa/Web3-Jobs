@@ -38184,16 +38184,20 @@
       "expiresAt": "2026-10-16T15:52:09.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece on the live MNX pre-IPO futures; the Defiant version is blocked. Contract terms plus settlement confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:41.649Z",
+      "reviewedAt": "2026-10-15T11:59:45.085Z",
       "retrySearches": [
-        "MNX pre-IPO AI futures terms second outlet"
+        "MNX futures contract terms settlement second outlet"
       ],
       "lastReviewedDay": "2026-10-15",
       "nextReviewDate": "2026-10-16"
@@ -77328,16 +77332,20 @@
         "0871965a45abb9720683": {
           "status": "deferred",
           "reason": "needs-corroboration",
-          "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
+          "note": "Read the CoinDesk piece on the live MNX pre-IPO futures; the Defiant version is blocked. Contract terms plus settlement confirmation still needed.",
           "sourceChecks": [
             {
               "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
               "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+              "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-10-15T11:56:41.649Z",
+          "reviewedAt": "2026-10-15T11:59:45.085Z",
           "retrySearches": [
-            "MNX pre-IPO AI futures terms second outlet"
+            "MNX futures contract terms settlement second outlet"
           ]
         },
         "53da82d0289c4ef5526d": {
