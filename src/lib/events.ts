@@ -38,7 +38,7 @@ export interface Web3Event {
     method: 'event-jsonld' | 'official-section' | 'official-meta' | 'matched-organizer-record' | 'reviewed-primary-sources' | 'reviewed-stored-organizer-copy';
     pageTitle: string;
     sha256: string;
-    evidence?: Array<{ url: string; fetchedAt: string; sha256: string; retrievedVia?: string; representation?: 'html' | 'rendered-text' }>;
+    evidence?: Array<{ url: string; fetchedAt: string; sha256: string; retrievedVia?: string; representation?: 'html' | 'rendered-text' | 'json' | 'javascript' }>;
   };
   startDate: string;
   endDate?: string;

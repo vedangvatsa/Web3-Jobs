@@ -9,6 +9,8 @@ function separateAgendaEntries(text: string): string {
   return text.split('\n').map(line => {
     const starts = Array.from(line.matchAll(slot), match => match.index!);
     if (starts.length < 2) return line;
+    const prefix = line.slice(0, starts[0]);
+    if (!/^\s*(?:Day\s+\d[\p{L}\p{N}\s,().\-:]*|[A-Z][\p{L} &/\-]{1,30}:\s*)?\s*$/u.test(prefix)) return line;
     for (let i = starts.length - 1; i >= 0; i--) {
       const index = starts[i];
       const label = /\b[A-Z][\p{L} &/\-]{1,30}:\s*$/u.exec(line.slice(0, index));

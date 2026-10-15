@@ -449,7 +449,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
     const editorial = await resolveEventGuide(event);
     const hasSpeakerSection = editorial.sections.some((section) =>
-      /^speakers?\b/i.test(section.heading.trim()),
+      /^(?:(?:announced|confirmed|published)(?:\s+\d{4})?\s+)?speakers?\b/i.test(section.heading.trim()),
     );
     const speakerSummary = hasSpeakerSection
       ? undefined

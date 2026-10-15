@@ -4505,5 +4505,87 @@
       "pageTitle": "Hong Kong FinTech Week x StartmeupHK 2026 | Nov 2-6"
     },
     "coverImage": "/events/hong-kong-fintech-week-2026.webp"
+  },
+  {
+    "id": "luma-evt-b6kmwqzyuuetkip",
+    "slug": "free-society-hackathon",
+    "aliases": [
+      "freesocietyhackathon"
+    ],
+    "name": "Zcash Presents: FREE SOCIETY HACKATHON",
+    "description": "WebZero Events and Zcash host Free Society Hackathon at True Tramm Trunk BKC in Mumbai on 4 and 5 November 2026, during Devcon. The organizers are selecting 75 in-person builders to develop working products using Zcash, with an Agentic Commerce track from Bitrefill.\n\n## Who can take part\n\nEngineers, developers, product people, marketers and founders can apply, including people without a technical background or prior Zcash experience. The program starts with a tooling walkthrough, and mentors from Zcash projects provide workshops and one-to-one guidance throughout the build day.\n\nTeams can have one to four people. Bring a team or find teammates at the venue. A project can enter both tracks if it meets each track's requirements.\n\n## Tracks and prizes\n\nThe organizers advertise USD 5,000 in cash prizes. The published breakdown includes USD 4,800 in competition awards and USD 200 in conditional follow-up bonuses:\n\n- The Zcash Privacy track awards USD 1,300 to the top project, two second prizes of USD 300 each and two third prizes of USD 200 each, totaling USD 2,300 across five projects.\n- The Bitrefill Agentic Commerce track requires projects to use Bitrefill. It offers USD 1,000 for the most innovative project, USD 800 for second place, USD 600 for third and USD 100 for the best feedback, totaling USD 2,500.\n\nBoth USD 300 Privacy track winners are also named Zcash Ecosystem Prize winners. Each can earn a further USD 100 by agreeing on a milestone relevant to their submission and delivering it publicly. Those two milestone-dependent bonuses account for the remaining USD 200 in the advertised total.\n\n## Schedule\n\nAll times are IST (Asia/Kolkata). Luma lists the event from 11:00 on Wednesday 4 November to 15:00 on Thursday 5 November 2026.\n\nWednesday 4 November is the hack day:\n\n- 11:00: welcome and tooling walkthrough.\n- 11:30: building begins, with workshops and mentors.\n- Midnight at the end of hack day, listed as 00:00: submissions close.\n\nJudges score every project overnight and select the teams that will demo on stage.\n\nThursday 5 November is demo day:\n\n- 11:00: top teams announced.\n- 12:00: demos and winners announced on stage.\n\n## Food and facilities\n\nBreakfast, lunch and dinner on hack day, plus an afterparty, are included. The venue provides hacking areas, fast internet and group seating. The organizers also advertise merchandise and describe the location as a short tuk-tuk ride from the main Devcon venue.\n\n## After the hackathon\n\nWinning teams will be paired with an ecosystem partner to agree, deliver and publicly share one small milestone within 30 days, with mentorship and support. The organizers say the same milestone-based follow-up is open to builders who do not win.\n\n## Registration and venue\n\nThe Hacker Pass is free, but registration requires host approval. Applications are reviewed on a rolling basis for the 75 selected places. Participants must be in Mumbai in person on Wednesday 4 November; remote participation is not available.\n\nThe public venue is True Tramm Trunk BKC, G2-B, Ground Floor, Trade Centre Bkc, opposite MTNL, G Block, MMRDA Area, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.",
+    "startDate": "2026-11-04T05:30:00.000Z",
+    "endDate": "2026-11-05T09:30:00.000Z",
+    "timezone": "Asia/Kolkata",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "True Tramm Trunk BKC, G2-B, Ground Floor, Trade Centre Bkc, opposite MTNL, G Block, MMRDA Area, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
+    "venueName": "True Tramm Trunk BKC",
+    "streetAddress": "G2-B, Ground Floor, Trade Centre Bkc, opposite MTNL, G Block, MMRDA Area, Bandra Kurla Complex, Bandra East",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "postalCode": "400098",
+    "addressCountry": "IN",
+    "neighborhood": "MMRDA Area",
+    "coordinates": {
+      "latitude": 19.0727556,
+      "longitude": 72.8711671
+    },
+    "url": "https://luma.com/freesocietyhackathon",
+    "website": "https://luma.com/freesocietyhackathon",
+    "registrationUrl": "https://luma.com/freesocietyhackathon",
+    "coverImage": "/events/free-society-hackathon-7229f1f8.webp",
+    "twitter": "https://x.com/joinwebzero",
+    "source": "curated-premier",
+    "category": "Hackathon",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "hosts": [
+      "WebZero Events",
+      "Zcash"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "WebZero",
+      "url": "https://www.joinwebzero.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Hacker Pass",
+        "url": "https://luma.com/freesocietyhackathon",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "eventStatus": "EventScheduled",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "sourceVerification": {
+      "url": "https://luma.com/freesocietyhackathon",
+      "eventId": "evt-B6kmWqZYUUeTkIP",
+      "fetchedAt": "2026-10-15T09:30:26.172Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/freesocietyhackathon",
+      "fetchedAt": "2026-10-15T09:30:26.172Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Zcash Presents: FREE SOCIETY HACKATHON · Luma",
+      "sha256": "be83145f97c54e84ac9798fcc4a45acaaa8d038e5fe37df40c16e41c9046af63",
+      "evidence": [
+        {
+          "url": "https://luma.com/freesocietyhackathon",
+          "fetchedAt": "2026-10-15T09:30:26.172Z",
+          "sha256": "24578ebfa634c62fab189f2abb89e75625323ec72a85212e4559ad9efa6987bf",
+          "representation": "html"
+        }
+      ]
+    }
   }
 ]

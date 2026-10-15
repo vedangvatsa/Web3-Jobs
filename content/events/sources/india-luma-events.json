@@ -43,60 +43,6 @@
     }
   },
   {
-    "id": "india-luma-r59zi0kh",
-    "name": "Solana Across Campuses - Smt. Indira Gandhi College of engineering",
-    "description": "## Solana Across Campuses – Smt. Indira Gandhi College of engineering\n\n📍 Location: Smt. Indira Gandhi College of engineering, Navi Mumbai\n🗓 Date: 15 Sep\n🤝 [Powered by: College.xyz](https://College.xyz) × Solana Foundation\n\n## About the Event\n\nEver heard of cryptocurrency or blockchain but never really understood what they are?\n\nOr maybe you've heard names like Bitcoin, Ethereum, or Solana but never had the chance to explore how they actually work?\n\nSolana Across Campuses is a student-focused initiative bringing an introduction to blockchain technology and the Solana ecosystem directly to university campuses.\n\nOur campus meetup is designed especially for beginners. You don't need to know anything about blockchain, cryptocurrency, programming, or Web3 to attend.\n\nThe goal is simple: learn, explore, and experience the technology yourself.\n\nDuring the session, we'll break down what blockchain and cryptocurrency actually mean in simple terms, introduce you to Solana, show you how digital wallets work, and demonstrate some real applications built using this technology.\n\nWhether you're a computer science student, designer, entrepreneur, finance enthusiast, or simply someone curious about new technology, you're welcome.\n\nNo prior experience. No technical background. Just curiosity.\n\n## What Will You Learn?\n\n🌐 What is Blockchain?\n\nWe'll start from the very beginning.\n\n• What exactly is a blockchain?\n• Why do people use it?\n• How is it different from a normal database?\n• Where is cryptocurrency used?\n• What problems can this technology solve?\n\nNo complicated terminology — we'll keep it simple and practical.\n\n🪙 What is Solana?\n\nYou'll get an introduction to Solana, a blockchain network designed for fast and low-cost digital transactions and applications.\n\nWe'll explore:\n\n• What Solana is\n• How it works at a basic level\n• What people are building on it\n• Why developers and startups are interested in it\n• How students can start exploring the ecosystem\n\n👛 Create Your First Digital Wallet\n\nGet a hands-on introduction to how a crypto wallet works.\n\nYou'll learn:\n\n• What a digital wallet is\n• How wallets store and manage digital assets\n• How transactions work\n• How to safely use a wallet\n\nDepending on the event setup, participants may also have an opportunity to receive a small amount of SOL, the native cryptocurrency of the Solana network, to experience a transaction themselves.\n\n🚀 Explore Real Applications\n\nBlockchain isn't just about buying and selling cryptocurrency.\n\nWe'll demonstrate some of the applications being built using blockchain technology and show how the ecosystem is being used by developers, creators, entrepreneurs, and communities.\n\n💡 Opportunities for Students\n\nInterested in technology or building something of your own?\n\nWe'll also introduce opportunities available in the ecosystem, including:\n\n• Hackathons\n• Developer programs\n• Student communities\n• Workshops\n• Grants and startup opportunities\n• Ways to start building on Solana\n\nYou don't have to be an expert or an experienced developer to get started.\n\n## Agenda\n\n🎟️ Welcome & Check-in\nMeet other students and get introduced to the event.\n\n🧠 Blockchain & Crypto — Explained Simply\nUnderstand the basics without assuming any prior knowledge.\n\n☀️ Introduction to Solana\nLearn what Solana is and why it has become an ecosystem for developers and applications.\n\n👛 Hands-on Wallet Setup\nLearn how a digital wallet works and, where applicable, create your first wallet.\n\n🔎 Live Demonstrations\nExplore real applications and see how blockchain technology works in practice.\n\n💻 Building & Opportunities\nDiscover how students can participate in hackathons, communities, developer programs, and projects.\n\n🎯 Interactive Activity / Challenge\nTake part in a fun activity to test what you've learned and get a chance to win rewards.\n\n🤝 Networking\nMeet students interested in technology, startups, development, and emerging technologies.\n\n📸 Closing & Group Photo\nWrap up the session, connect with fellow participants, and stay connected with the campus community.\n\n## Why Should You Attend?\n\n✨ Start From Zero\nNever heard of blockchain before? That's completely fine. This event starts from the basics.\n\n🧠 Learn a New Technology\nGet a practical introduction to one of the technologies gaining attention across the global technology industry.\n\n👛 Try It Yourself\nDon't just listen to explanations — experience how a digital wallet and blockchain transaction work.\n\n🚀 Discover Opportunities\nLearn about hackathons, developer programs, communities, and other opportunities for students.\n\n🤝 Meet Like-Minded Students\nConnect with students who are curious about technology, startups, development, and innovation.\n\n🎁 Rewards & Swag\nParticipants may have opportunities to receive SOL, merchandise, or other event rewards, depending on availability.\n\n## Who Can Attend?\n\nEveryone.\n\nYou don't need to be:\n\n❌ A blockchain developer\n❌ A crypto trader\n❌ A computer science student\n❌ A Web3 expert\n\nYou can be:\n\n✅ A complete beginner\n✅ A developer\n✅ A designer\n✅ An entrepreneur\n✅ A finance or business student\n✅ A startup enthusiast\n✅ Someone curious about new technology\n\nNo prior knowledge of blockchain or cryptocurrency is required.\n\n## One Question to Bring With You\n\n\"What exactly is this blockchain thing everyone keeps talking about?\"\n\nCome find out.\n\nJoin us for Solana Across Campuses and take your first step into the world of blockchain technology — no prior experience required.",
-    "startDate": "2026-09-15T08:00:00.000Z",
-    "endDate": "2026-09-15T10:30:00.000Z",
-    "city": "Navi Mumbai",
-    "country": "India",
-    "location": "Smt. Indira Gandhi College Of Engineering, 400701, Sector 8, Plot 1, Ghansoli, Sector 8, Jijamata Nagar, Ghansoli, Navi Mumbai, Maharashtra 400701, India",
-    "url": "https://luma.com/r59zi0kh",
-    "coverImage": "/events/india-luma-r59zi0kh-c5e9f5de.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Rahul Kumar",
-      "Aaron Solanki",
-      "college.xyz",
-      "Mohammed Kaif",
-      "Swapnali Jadhav",
-      "Saket Maurya"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Sector 8",
-    "slug": "sacsigce",
-    "registrationUrl": "https://luma.com/r59zi0kh",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Smt. Indira Gandhi College Of Engineering",
-    "addressLocality": "Navi Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 19.1202124,
-      "longitude": 72.9976926
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/r59zi0kh",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/r59zi0kh",
-      "eventId": "evt-RgnGulrz4nTtjjC",
-      "fetchedAt": "2026-09-19T23:30:13.546Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-cbnpunesep",
     "name": "MetaMask Community Builder Night Pune - India Edition",
     "description": "Community Builder Night is a community-first version of MetaMask’s global Builder Nights bringing Web3 education, onboarding and conversations closer to local ecosystems.\n\nThis in-person meetup is designed for developers, students, founders, DAO contributors and Web3 enthusiasts who want to understand self-custody, community building and real-world Web3 use cases all in a friendly and welcoming environment.\n\n[This event is hosted by OSEN](https://osen.live/) in collaboration with Trinity College of Engineering and Research , bringing together students, developers, and tech enthusiasts to learn, build, and connect. We’re looking forward to hearing new ideas, enjoying some tasty snacks, and making new developer friends. 🚀\n\nJoin us for an evening of Web3 conversations...\n\n📅 Date:  16th september 2026\n\n⏰ Time: 10.00 AM - 4PM\n\n📍 Location:\n\nTrinity College of Engineering and Research\n\n⚠️ Important: Due to limited venue capacity, this event will be First Come First Serve (FCFS) only.\n\nTo stay updated with announcements, session instructions, and last-minute coordination for this event , please make sure to join the official WhatsApp group using the link below:\n\n[Join WhatsApp Group](https://chat.whatsapp.com/EZbu0VCrtUp3frGXSzNJeR)\n\nAgenda\n\n🚪 10:00 AM — Doors Open\n\n🎙️ 10:30 AM — Welcome & Opening Remarks\n\n💬 11:00  AM — Vikash Yadav (MetaMask &  Craftora) — Talk\n\n🍽️ 12:30 PM — Break & Lunch\n\n🎨 1:30 PM — Eshan —  (OSEN)  - Talk\n\n🏆 2:00 PM — Swags & Certificates Distribution\n\n🗣️ 2:35 PM — Networking & Hangout\n\n👋 4:00 PM — Doors Close\n\n## What to bring\n\nYou don't really need to bring anything. But if you want, you're welcome to come armed with things like:\n\n• Your laptop\n• Questions, comments, and feedback\n\n## Food & Drink\n\nWe plan to serve burgers and some non-alcoholic drinks.\n\nAbout OSEN\n\nOSEN is a community-driven organization in India that empowers developers, students, and builders. We organize and sponsor hackathons, workshops, meetups, builder programs, and open-source initiatives.\n\nWe provide swag, sponsorships, mentors, speakers, and end-to-end execution support for hackathons hosted by colleges and communities.\n\nImpact: 150+ events sponsored | 50,000+ students impacted | 10,000+ active members.\n\n🌐 [X : /osenofficial](https://x.com/osenofficial?utm_source=luma)\n\n💼 [Linkedin : /osenofficial](https://www.linkedin.com/company/osenofficial/?utm_source=luma)\n\n🏗️ About Consensys\n\nConsensys is a leading blockchain and Web3 software company founded in 2014. It has been at the forefront of Web3 innovation, empowering developers, creators and communities through tools that make decentralized technology easier to build with and use.\n\nFrom dApps and NFTs to DAOs and DeFi, Consensys supports builders shaping the future of the internet.\n\n## 🦊 About MetaMask\n\nMetaMask is the world’s leading self-custody Web3 platform, trusted by millions of users globally. Developed by Consensys, MetaMask enables people to safely manage their digital identity, interact with dApps, mint NFTs, join DAOs and participate in DeFi — all while maintaining full control over their assets.",

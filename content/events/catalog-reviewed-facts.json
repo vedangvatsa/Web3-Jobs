@@ -3804,7 +3804,7 @@
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": false,
-    "location": "Location to be announced",
+    "location": "Courtyard by Marriott Mumbai International Airport, CTS 215, Andheri-Kurla Road, opposite Carnival Cinemas, Andheri East, Mumbai, Maharashtra 400093, India",
     "venueName": "Courtyard by Marriott Mumbai International Airport",
     "hosts": [
       "DeFi Security Summit",
@@ -3829,9 +3829,11 @@
     "sourceVerification": {
       "url": "https://luma.com/9qtxqqxx",
       "eventId": "evt-GotDuGQ76BanHoQ",
-      "fetchedAt": "2026-10-12T11:41:39.301Z",
+      "fetchedAt": "2026-10-15T08:48:23.405Z",
       "method": "luma-page"
-    }
+    },
+    "city": "Mumbai",
+    "country": "India"
   },
   "india-luma-83ujl6ms": {
     "name": "Zcash World - Mumbai",
@@ -4077,9 +4079,10 @@
     "sourceVerification": {
       "url": "https://luma.com/spsnos9t",
       "eventId": "evt-CyZRiDdLECiCPRS",
-      "fetchedAt": "2026-10-12T11:41:54.516Z",
+      "fetchedAt": "2026-10-15T08:48:25.748Z",
       "method": "luma-page"
-    }
+    },
+    "website": "https://congress.web3privacy.info/"
   },
   "ibw-official-solana-summit-india-11-02": {
     "name": "Solana Summit India",
@@ -4588,8 +4591,8 @@
   },
   "india-luma-2kj0jqf9": {
     "name": "Sidequest: Happy Hour",
-    "startDate": "2026-11-03T12:30:00.000Z",
-    "endDate": "2026-11-06T14:30:00.000Z",
+    "startDate": "2026-11-04T14:00:00.000Z",
+    "endDate": "2026-11-04T18:00:00.000Z",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/2kj0jqf9",
     "attendanceMode": "offline",
@@ -4628,7 +4631,7 @@
     "sourceVerification": {
       "url": "https://luma.com/2kj0jqf9",
       "eventId": "evt-wzzJVTgvUeLjCX0",
-      "fetchedAt": "2026-10-12T11:42:22.099Z",
+      "fetchedAt": "2026-10-15T08:48:33.889Z",
       "method": "luma-page"
     }
   },
@@ -4935,9 +4938,9 @@
     "locationHidden": false,
     "city": "Mumbai",
     "country": "India",
-    "location": "Trilegal, One World Center, Tower 2A, 10th floor, and 2B, Senapati Bapat Marg, Lower Parel West, Parel, Mumbai, Maharashtra 400013, India",
+    "location": "Trilegal, 7th Floor, Tower 2A, One World Centre, Lower Parel, Mumbai, India",
     "venueName": "Trilegal",
-    "streetAddress": "10th floor, and 2B, One World Center, Tower 2A, Senapati Bapat Marg, Lower Parel West, Mumbai",
+    "streetAddress": "7th Floor, Tower 2A, One World Centre, Lower Parel, Mumbai",
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
@@ -4964,7 +4967,7 @@
     "sourceVerification": {
       "url": "https://luma.com/6gnkjcqx",
       "eventId": "evt-p8GBiNmZfRmAhS9",
-      "fetchedAt": "2026-10-12T11:42:45.943Z",
+      "fetchedAt": "2026-10-15T08:48:37.108Z",
       "method": "luma-page"
     }
   },
@@ -5108,8 +5111,8 @@
   },
   "india-luma-xuofsg0p": {
     "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
-    "startDate": "2026-11-04T12:30:00.000Z",
-    "endDate": "2026-11-04T15:30:00.000Z",
+    "startDate": "2026-11-05T12:30:00.000Z",
+    "endDate": "2026-11-05T15:30:00.000Z",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/xuofsg0p",
     "attendanceMode": "offline",
@@ -5141,7 +5144,7 @@
     "sourceVerification": {
       "url": "https://luma.com/xuofsg0p",
       "eventId": "evt-MAFgva0mxz3MYuB",
-      "fetchedAt": "2026-10-12T11:42:55.784Z",
+      "fetchedAt": "2026-10-15T08:48:38.177Z",
       "method": "luma-page"
     }
   },
@@ -5444,7 +5447,7 @@
       "name": "The Best Event",
       "url": "https://thebestevent.com/"
     },
-    "price": "Free",
+    "price": "Free general admission; US$99 VIP",
     "approvalRequired": false,
     "ticketOffers": [
       {
@@ -5465,9 +5468,10 @@
     "sourceVerification": {
       "url": "https://luma.com/TBE-Devcon26",
       "eventId": "evt-aPGKR2FFDEuckm2",
-      "fetchedAt": "2026-10-12T11:43:17.150Z",
+      "fetchedAt": "2026-10-15T08:48:41.885Z",
       "method": "luma-page"
-    }
+    },
+    "venueName": "Bağlami"
   },
   "luma-batch-KupO2QEcLws6KMf": {
     "name": "Community Call",
@@ -7305,5 +7309,107 @@
       "checkedAt": "2026-10-12T11:25:32.832Z",
       "reason": "Primary page body checked against catalog-fact-revisions.json."
     }
+  },
+  "premier-indiabw-2026": {
+    "speakers": [
+      "Eli Ben-Sasson",
+      "Keone Hon",
+      "Dr. Dipesh Shah",
+      "SB Seker",
+      "Aishwary Gupta",
+      "Ashish Singhal",
+      "Sumit Gupta",
+      "Marcin Kazmierczak",
+      "Doug Hsu",
+      "Abdulfatai Suleiman",
+      "Prabal Banerjee",
+      "Tobias Bauer",
+      "Chibuotu Amadi",
+      "Harshit Tiwari",
+      "Ronak Jethava"
+    ],
+    "speakerDetails": [
+      {
+        "name": "Eli Ben-Sasson",
+        "title": "Co-Founder & CEO",
+        "organization": "StarkWare"
+      },
+      {
+        "name": "Keone Hon",
+        "title": "GM and Co-Founder",
+        "organization": "Monad Foundation"
+      },
+      {
+        "name": "Dr. Dipesh Shah",
+        "title": "Executive Director",
+        "organization": "IFSCA"
+      },
+      {
+        "name": "SB Seker",
+        "title": "Head of APAC",
+        "organization": "Binance"
+      },
+      {
+        "name": "Aishwary Gupta",
+        "title": "Global Head of Payments and RWA",
+        "organization": "Polygon Labs"
+      },
+      {
+        "name": "Ashish Singhal",
+        "title": "Co-founder",
+        "organization": "CoinSwitch"
+      },
+      {
+        "name": "Sumit Gupta",
+        "title": "Co-founder",
+        "organization": "CoinDCX"
+      },
+      {
+        "name": "Marcin Kazmierczak",
+        "title": "Co-Founder & COO",
+        "organization": "RedStone Oracles"
+      },
+      {
+        "name": "Doug Hsu",
+        "title": "Investor",
+        "organization": "CMT Digital"
+      },
+      {
+        "name": "Abdulfatai Suleiman",
+        "title": "Co-Founder & CEO",
+        "organization": "Blockradar"
+      },
+      {
+        "name": "Prabal Banerjee",
+        "title": "Co-Founder",
+        "organization": "Avail"
+      },
+      {
+        "name": "Tobias Bauer",
+        "title": "General Partner & Co-Founder",
+        "organization": "TBV (TB Ventures)"
+      },
+      {
+        "name": "Chibuotu Amadi",
+        "title": "CEO & Co-Founder",
+        "organization": "Paycrest"
+      },
+      {
+        "name": "Harshit Tiwari",
+        "title": "VP of Growth",
+        "organization": "NEAR Foundation"
+      },
+      {
+        "name": "Ronak Jethava",
+        "title": "Head of UAE",
+        "organization": "Startale Group"
+      }
+    ]
+  },
+  "ibw-official-ibw-institutional-forum-11-02": {
+    "registrationUrl": "https://indiablockchainweek.com/institutional-forum/apply"
+  },
+  "premier-ethmumbai-2026": {
+    "approvalRequired": true
   }
 }

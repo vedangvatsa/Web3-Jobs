@@ -3628,8 +3628,10 @@
     ]
   },
   "premier-ibt-mumbai-2026": {
-    "slug": "ibt-mumbai",
-    "aliases": []
+    "slug": "india-blockchain-ai-tour-mumbai",
+    "aliases": [
+      "ibt-mumbai"
+    ]
   },
   "india-luma-co5dtixa": {
     "slug": "ready-for-the-run-pune",
@@ -3843,8 +3845,10 @@
     "aliases": []
   },
   "luma-batch-evtaPGKR2FFDEuck": {
-    "slug": "tbe-devcon26",
-    "aliases": []
+    "slug": "afterdark-devcon",
+    "aliases": [
+      "tbe-devcon26"
+    ]
   },
   "luma-batch-hIZnQMK5SVTWgj8": {
     "slug": "ena53peq",
@@ -4385,5 +4389,11 @@
     "slug": "global-blockchain-show-abu-dhabi-2026",
     "aliases": [],
     "canonicalId": "premier-gbshow"
+  },
+  "luma-evt-b6kmwqzyuuetkip": {
+    "slug": "free-society-hackathon",
+    "aliases": [
+      "freesocietyhackathon"
+    ]
   }
 }

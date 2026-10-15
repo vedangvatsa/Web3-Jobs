@@ -1,5 +1,13 @@
 [
   {
+    "slug": "jio-perpetuals",
+    "title": "Bitget Lists Jio Pre-IPO Perpetual Futures",
+    "description": "Bitget's JIOUSDT pre-IPO futures are live with a 20x trading limit as Jio Platforms prepares its October 21-23 share offering in India.",
+    "category": "News",
+    "publishedDate": "2026-10-15",
+    "image": "/images/articles/jio-perpetuals.webp"
+  },
+  {
     "slug": "blur-shutdown",
     "title": "Blur to retire marketplace site and end new Blend loans on Nov. 12",
     "description": "Blur will deprecate the blur.io frontend on Nov. 12 while its Ethereum marketplace contracts stay live onchain, and its Blend lending service will stop matching new loans the same day.",
@@ -30,13 +38,5 @@
     "category": "News",
     "publishedDate": "2026-10-14",
     "image": "/images/news/mining-pool.jpg"
-  },
-  {
-    "slug": "sberbank-crypto",
-    "title": "Sberbank wins crypto exchange approval, targets Dec. 1 launch",
-    "description": "The Bank of Russia added Sberbank to its crypto exchange register on Oct. 12, and the bank plans to offer crypto trading through familiar app interfaces from Dec. 1.",
-    "category": "News",
-    "publishedDate": "2026-10-14",
-    "image": "/images/news/sberbank-crypto.jpg"
   }
 ]

@@ -42,4 +42,9 @@ const schedule = splitEventDescriptionBlocks('Day 1, Wednesday 16 September 11:3
 assert.equal(schedule.filter(block => block.type === 'agenda').length, 4);
 const prose = 'The morning starts with coffee at 8:30 a.m., a panel at 9:00, then networking from 9:45. Doors close at 9:00 a.m. sharp.';
 assert.deepEqual(splitEventDescriptionBlocks(prose), [{ type: 'p', text: prose }]);
+const studyGroup = 'The gathering has a Bitcoin study group from 13:30 to 15:00, followed by a cypherpunk discussion from 16:00 to 17:30. Everyone is welcome.';
+assert.deepEqual(splitEventDescriptionBlocks(studyGroup), [{ type: 'p', text: studyGroup }], 'time ranges inside prose must not split it into agenda fragments');
+const proseEvent = { ...event, description: studyGroup };
+const proseHtml = renderToStaticMarkup(createElement(EventGuideContent, { editorial: buildEditorialFromOrganizerDescription(proseEvent) }));
+assert.equal(cheerio.load(proseHtml)('p').text(), studyGroup, 'rendered prose retains spaces before inline times');
 console.log('Event formatting regression passed: agenda, nested lists, numbering, long headings, code, emphasis and safe links.');

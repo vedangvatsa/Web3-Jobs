@@ -358,5 +358,26 @@
       "luma-host-evt-evt-uyvg6h6qz48fu0y",
       "sme"
     ]
+  },
+  "luma-evt-f8Prol8DOi1m4Go": {
+    "until": "2027-10-15T10:37:26.240Z",
+    "slugs": [
+      "luma-evt-f8prol8doi1m4go",
+      "ccclam"
+    ]
+  },
+  "w3v-serve-rally-connect": {
+    "until": "2027-10-15T10:37:26.240Z",
+    "slugs": [
+      "w3v-serve-rally-connect",
+      "srcpmcfl"
+    ]
+  },
+  "india-luma-r59zi0kh": {
+    "until": "2027-10-15T10:37:26.240Z",
+    "slugs": [
+      "india-luma-r59zi0kh",
+      "sacsigce"
+    ]
   }
 }

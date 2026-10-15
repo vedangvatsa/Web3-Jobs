@@ -119,6 +119,7 @@ export function CityExplorer({ cities, date, referencePeriod }: { cities: Explor
           {Boolean(q || region || budget || speed || weatherFilterCount) && <Button variant="ghost" onClick={reset}>Clear filters</Button>}
           <Button asChild variant="ghost"><Link href="/visas" prefetch={false}>Visas</Link></Button>
           <Button asChild variant="ghost"><Link href="/citizenship" prefetch={false}>Citizenship</Link></Button>
+          <Button asChild variant="ghost"><Link href="/popups" prefetch={false}>Popups</Link></Button>
           <Button variant="ghost" size="icon" className="h-11 w-11" disabled={!filtered.length || !!report} aria-label={report ? 'Preparing city report' : 'Print city report'} title="Print / save city report as PDF" onClick={() => setReport({ cities: filtered.slice(0, 50), ranking: `${definition.label}${climate ? ` · ${CLIMATE_MONTHS[month]}` : ''}` })}><Printer className="h-4 w-4" aria-hidden /></Button>
         </div>
       </div>
