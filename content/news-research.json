@@ -43105,11 +43105,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a2d325c766442810ce5e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:16:05.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Chainalysis counts 138M agent payments via x402 with 87 percent micro-transactions. Chainalysis report plus genuine-demand assessment still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:19.855Z",
+      "retrySearches": [
+        "Chainalysis agentic commerce report genuine demand second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d6b7e20f1bb6736be847": {
       "source": "Bankless",
@@ -78141,6 +78155,21 @@
           "reviewedAt": "2026-10-15T11:59:17.790Z",
           "retrySearches": [
             "Standard Chartered UAE bitcoin trading timeline second outlet"
+          ]
+        },
+        "a2d325c766442810ce5e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Chainalysis counts 138M agent payments via x402 with 87 percent micro-transactions. Chainalysis report plus genuine-demand assessment still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:19.855Z",
+          "retrySearches": [
+            "Chainalysis agentic commerce report genuine demand second outlet"
           ]
         }
       },
