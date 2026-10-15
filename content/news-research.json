@@ -40103,11 +40103,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8cc48719b25d5482c8f2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:09:32.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; $1B bStocks AUM and $40B volume are exchange-reported Dune figures. Dune data plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-bstocks-surpasses-1-billion-aum/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:12.586Z",
+      "retrySearches": [
+        "Binance bStocks AUM Dune data second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cec269b920ee656024db": {
       "source": "Unchained",
@@ -77058,6 +77072,21 @@
           "reviewedAt": "2026-10-15T11:57:10.587Z",
           "retrySearches": [
             "Tether Bo Hines payments records second outlet"
+          ]
+        },
+        "8cc48719b25d5482c8f2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; $1B bStocks AUM and $40B volume are exchange-reported Dune figures. Dune data plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-bstocks-surpasses-1-billion-aum/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:12.586Z",
+          "retrySearches": [
+            "Binance bStocks AUM Dune data second outlet"
           ]
         }
       },
