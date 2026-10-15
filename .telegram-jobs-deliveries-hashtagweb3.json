@@ -2102,7 +2102,7 @@
     "sentAt": "2026-10-15T03:53:22.028Z"
   },
   "3e0af3f3-a942-41e8-a44a-31d97eefc42e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T12:06:54.018Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2216,6 +2216,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm156?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product - Local Payment Methods</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sec14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technology and Security Risk Director</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/eng309?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineering Intern, iOS</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm183?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Full-stack - Growth Product</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls203?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, Newcastle</a>",
-    "slotKey": "2026-10-15:afternoon"
+    "slotKey": "2026-10-15:afternoon",
+    "messageId": 155777,
+    "sentAt": "2026-10-15T12:06:58.075Z"
   }
 }
