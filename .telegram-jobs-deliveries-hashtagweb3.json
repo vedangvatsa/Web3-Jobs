@@ -2026,7 +2026,7 @@
     "sentAt": "2026-10-14T19:32:13.121Z"
   },
   "528b1741-a504-4aa5-b975-4f33a4cb1c60": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T03:53:18.420Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2097,6 +2097,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/pmce?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Paid Media Creative Expert</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/eng586?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Risk Manager</a>",
-    "slotKey": "2026-10-15:morning"
+    "slotKey": "2026-10-15:morning",
+    "messageId": 155774,
+    "sentAt": "2026-10-15T03:53:22.028Z"
   }
 }
