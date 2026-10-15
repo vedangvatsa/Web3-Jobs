@@ -40772,11 +40772,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "323315298a1576ef8c33",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T18:25:54.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "SkyAI shareholder page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:56.538Z",
+      "retrySearches": [
+        "Bastion SkyAI tender price board letter second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "f6927a833cb46682dda6": {
       "source": "Decrypt",
@@ -75817,6 +75831,21 @@
           "reviewedAt": "2026-10-15T11:54:54.368Z",
           "retrySearches": [
             "EBA Circle USDC significant e-money token notice second outlet"
+          ]
+        },
+        "323315298a1576ef8c33": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SkyAI shareholder page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:56.538Z",
+          "retrySearches": [
+            "Bastion SkyAI tender price board letter second outlet"
           ]
         }
       },
