@@ -33581,29 +33581,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b2c81a2bf1d8a26956d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T12:01:53.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Lead reachable; 93M-traced and 10M-frozen claims sit in the arc verified via the shared Decrypt, Unchained and Bankless reads. Tracker confirmation plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:08:03.022Z",
+      "reason": "duplicate",
+      "note": "This covers the same incident as ledger-implant; $93M-traced and $10M-frozen figures remain third-party estimates Ledger has not verified; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:16.522Z",
       "retrySearches": [
         "Ledger CryptoBilis 93M traced 10M frozen tracker confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "a3067f1fcfa32873953f": {
       "source": "The Defiant",
@@ -74211,6 +74202,14 @@
           "note": "This covers the same confirmed-cases attribution as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:14.608Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "8b2c81a2bf1d8a26956d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same incident as ledger-implant; $93M-traced and $10M-frozen figures remain third-party estimates Ledger has not verified; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:16.522Z",
           "duplicateOf": "ledger-implant"
         }
       },
