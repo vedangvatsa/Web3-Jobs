@@ -1,32 +1,23 @@
 {
-  "checkedAt": "2026-10-13T01:32:11.311Z",
+  "checkedAt": "2026-10-15T11:32:09.172Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
     "https://luma.com/2049events": 4,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
-    "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
-    "https://miragather.com/TOKEN2049SGSideEvents2026": 517
+    "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 608,
+    "https://miragather.com/TOKEN2049SGSideEvents2026": 516
   },
   "counts": {
     "existing": 242,
     "excluded": 375,
-    "needs-review": 33,
+    "needs-review": 41,
     "duplicate": 1
   },
   "importedTotal": 256,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/n6e4pmtn",
-      "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "fcsy"
-    },
     {
       "url": "https://luma.com/d1uqegez",
       "name": "Get Down For Real",
@@ -34,7 +25,7 @@
         "https://luma.com/2049events"
       ],
       "status": "existing",
-      "slug": "gdr"
+      "slug": "get-down-for-real"
     },
     {
       "url": "https://luma.com/openhouse-singapore",
@@ -53,6 +44,15 @@
       ],
       "status": "existing",
       "slug": "plug-play"
+    },
+    {
+      "url": "https://luma.com/n6e4pmtn",
+      "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "ai-agents-space-yacht-fireside"
     },
     {
       "url": "https://luma.com/circlehouse2026",
@@ -2972,8 +2972,7 @@
       "name": "Gamma Prime Investing Summit 2026 Singapore 🇸🇬",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -6826,6 +6825,78 @@
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
+    },
+    {
+      "url": "",
+      "name": "i960 LIVE B",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 fieldtest",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 PRIV PUT2",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 VERIFY TEST",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 MASS",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999XSS</b><img src=x onerror=alert(1)>MARKZ",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 MASS2",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
+    },
+    {
+      "url": "",
+      "name": "i999 VF",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
     },
     {
       "url": "",
