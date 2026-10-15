@@ -4181,7 +4181,7 @@
     "sentAt": "2026-10-15T03:53:08.853Z"
   },
   "b4e6e9d4-d941-45d5-97a6-ca94d48b0957": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T03:53:11.011Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4251,6 +4251,8 @@
       }
     ],
     "message": "- Bitvavo is hiring <a href=\"https://hashtagweb3.com/ds5?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/fe7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Frontend, Growth</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/infra30?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Category Management - Data Center Electrical Infrastructure</a>",
-    "slotKey": "2026-10-15:morning"
+    "slotKey": "2026-10-15:morning",
+    "messageId": 127,
+    "sentAt": "2026-10-15T03:53:13.214Z"
   }
 }
