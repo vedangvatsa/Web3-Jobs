@@ -39983,11 +39983,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6b39e8be6f18ca107868",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:19:31.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; Fission raised 0M for tokenized-fund exits. Raise terms plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/fission-raises-10m-tokenized-fund-liquidity/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T12:00:45.861Z",
+      "retrySearches": [
+        "Fission 10M raise tokenized funds terms second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ecfb7737c3d4f367ca17": {
       "source": "Unchained",
@@ -78424,6 +78438,21 @@
           "reviewedAt": "2026-10-15T11:59:43.194Z",
           "retrySearches": [
             "Hyperliquid Yan interview policy detail second outlet"
+          ]
+        },
+        "6b39e8be6f18ca107868": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; Fission raised 0M for tokenized-fund exits. Raise terms plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/fission-raises-10m-tokenized-fund-liquidity/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T12:00:45.861Z",
+          "retrySearches": [
+            "Fission 10M raise tokenized funds terms second outlet"
           ]
         }
       },
