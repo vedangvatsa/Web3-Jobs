@@ -2024,5 +2024,79 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 155768,
     "sentAt": "2026-10-14T19:32:13.121Z"
+  },
+  "528b1741-a504-4aa5-b975-4f33a4cb1c60": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:53:18.420Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4947308101",
+          "title": "Paid Media Creative Expert",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4947308101",
+          "date": "2026-10-14T13:47:36-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+          "department": "Marketing Ops",
+          "active": true,
+          "slug": "pmce",
+          "dateVerified": true
+        },
+        "key": "4947308101",
+        "slug": "pmce",
+        "url": "https://hashtagweb3.com/pmce?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Paid Media Creative Expert"
+      },
+      {
+        "snapshot": {
+          "id": "37fa4765-8e1d-4c61-ba52-071e2d6bead0",
+          "title": "Senior Data Engineer",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/37fa4765-8e1d-4c61-ba52-071e2d6bead0",
+          "date": "2026-10-13T16:19:27.699+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng586"
+        },
+        "key": "37fa4765-8e1d-4c61-ba52-071e2d6bead0",
+        "slug": "eng586",
+        "url": "https://hashtagweb3.com/eng586?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8008766003",
+          "title": "Senior Fraud Risk Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8008766003",
+          "date": "2026-09-29T18:00:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "New York, NY",
+          "department": "Risk",
+          "active": true,
+          "salary": "$143k – $214k/yr",
+          "dateVerified": true,
+          "slug": "mgr110"
+        },
+        "key": "8008766003",
+        "slug": "mgr110",
+        "url": "https://hashtagweb3.com/mgr110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Fraud Risk Manager"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/pmce?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Paid Media Creative Expert</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/eng586?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Risk Manager</a>",
+    "slotKey": "2026-10-15:morning"
   }
 }
