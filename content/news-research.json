@@ -34894,23 +34894,23 @@
       "id": "491c3f0b8d7d93f36b60",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T14:15:25.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; Trezor announced a preventive reseller cut Tuesday with no numbers. Trezor post plus a second outlet still needed.",
+      "note": "Read the Unchained piece; Trezor post gave no count, names or date. Trezor notice plus detail confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:58.645Z",
+      "reviewedAt": "2026-10-15T11:59:03.275Z",
       "retrySearches": [
-        "Trezor reseller cut preventive announcement second outlet"
+        "Trezor reseller cut detail confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "73883317c8b31c574688": {
       "source": "Cointelegraph",
@@ -77957,6 +77957,21 @@
           "reviewedAt": "2026-10-15T11:59:01.268Z",
           "retrySearches": [
             "Trezor reseller cut confirmation second outlet"
+          ]
+        },
+        "491c3f0b8d7d93f36b60": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; Trezor post gave no count, names or date. Trezor notice plus detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:03.275Z",
+          "retrySearches": [
+            "Trezor reseller cut detail confirmation second outlet"
           ]
         }
       },
