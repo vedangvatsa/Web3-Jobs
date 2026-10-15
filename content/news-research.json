@@ -43548,11 +43548,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "764e432b27115b0c7c27",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:00:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "DriveWealth-Block page blocked again in this run; DriveWealth or Ripple notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:36.553Z",
+      "retrySearches": [
+        "DriveWealth Ripple RLUSD settlement notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "1f915b89eb965e8094bb": {
       "source": "The Block",
@@ -76368,6 +76382,21 @@
           "reviewedAt": "2026-10-15T11:55:34.546Z",
           "retrySearches": [
             "BNY Citadel Treasury repo triparty notice second outlet"
+          ]
+        },
+        "764e432b27115b0c7c27": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DriveWealth-Block page blocked again in this run; DriveWealth or Ripple notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:36.553Z",
+          "retrySearches": [
+            "DriveWealth Ripple RLUSD settlement notice second outlet"
           ]
         }
       },
