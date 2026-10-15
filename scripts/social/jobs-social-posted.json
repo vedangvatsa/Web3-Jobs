@@ -1,5 +1,5 @@
 {
-  "lastIndex": 418,
+  "lastIndex": 420,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -197,7 +197,9 @@
     "is2",
     "tsa",
     "dr3",
-    "be71"
+    "be71",
+    "sls259",
+    "int44"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5439,498 +5441,6 @@
       "verification": "verified"
     },
     {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x6193f0711507eb6488af02deedae443d84ba681e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x9fc12994f44eea48c988219474a0314b924bc042",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0xc60a744116172df3c872e210995328f77f63bfc8",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x2159ca71abe0aeb826f11f482c74798349acab5f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x07b5e613cdf6070b36b11a9b3b557a63fe16c112",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0xd48d21010d1c659ae3a63875530fa0ae789f79d3",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x812d70c92f00b4e22a443ac4249313981814d908",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "0x097fa27a58c37b9d28301a30b9715bbe60d5573e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "6acc6302ea568e911a509716",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "6acc630d63ff33d8c9a80acf",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "urn:li:share:7515268379364986881",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng106",
-      "company": "Circle",
-      "title": "Staff Software Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-10-12T04:32:43.942Z",
-      "postId": "691827047618629_1113121664628401",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "x",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "6acc63218e8dd50ffc683caa",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "CoinDesk is hiring Creative Producer\n\nhttps://hashtagweb3.com/cp3/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2109502727436792296"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "threads",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "18096877607401002",
-      "verification": "verified",
-      "expectedText": "CoinDesk is hiring Creative Producer: https://hashtagweb3.com/cp3/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeYYpXjkdxf",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxnoubvgdk2j",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xa161bea97acf81fea7abcad8954adb993251e3bb",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xdae4781bcb615d9690cce20492a5c52caa7a7867",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x0db4900c479983caf2e3dcfe40311257309c9798",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x96293db0ed4c3edc443ca947953fe2a6c17ee3f0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x05445b799106187632a65f32b2b6a9ecd666254c",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xe7480824918265c54b0bcbfa97357b8e15db620c",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x59721bf75b0e4918f25584d9a543f83334110ed1",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x327a606ca458e573eaa4bb20c38fb56a52b1cc4b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xf1dce6a65a16ef6a04dc85e534601478f721df7c",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x538f4f1e5b1602b15bcfd5d3381796ac91eb6a5a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x7dcbf3c332d0e0d14778c55285134d165dfe47fd",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x3b5c0498142753682ac6e0bdf2db1ea1602a5861",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x9281933b2c76141e447fc9095d9eb9c5250bf9b9",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xc22c03ad343223a86f25a9f639c1cc58ad83565e",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xc9f1930394f05b374ffd0ace6c55bc28ffe602ee",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0x653ccd9f023eac5a64bd136ef34de8e187d5e33d",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "0xb1c422cdc8c92588c1675570f03fa65b4b3fea74",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "6acc63347db619a2915ad3e7",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "6acc633ea9411fbcc56d0ac4",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "urn:li:share:7515268586026770432",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp3",
-      "company": "CoinDesk",
-      "title": "Creative Producer",
-      "platform": "facebook",
-      "postedAt": "2026-10-12T04:33:36.975Z",
-      "postId": "691827047618629_1113122167961684",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "x",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "6accc529bc52bd4504d8c0d7",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Bullish is hiring Creative Producer\n\nhttps://hashtagweb3.com/cp4/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2109607988688282111"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "threads",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "18337529470277491",
-      "verification": "verified",
-      "expectedText": "Bullish is hiring Creative Producer: https://hashtagweb3.com/cp4/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeZIg2woBdO",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxoga6nwm52h",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xeff369a1a6cee482da2f200b4f3d25a286e3b8e4",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xd05967b51504753938cd6aa9ae55f108bb0876a5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0x2609206fb34a5b339abf1d27a11e956e14e3abcc",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xb2520a116cf5fac77431bd7267200a0d630634f8",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xf84951ea796336eaa26c42c265b2523f05ae684a",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xfc54fada5e043357dc3d6b70e7bb61039bdcb6dc",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0x0eab04fba445098fe532ecde201edd1e8f26ae79",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0xb735e55d9bde41a35c2c831e120493f84e6eaed3",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cp4",
-      "company": "Bullish",
-      "title": "Creative Producer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-12T11:31:53.301Z",
-      "postId": "0x5bfa183ed790980ce4b2db885b5688d06779ad4a",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
       "slug": "cp4",
       "company": "Bullish",
       "title": "Creative Producer",
@@ -10199,6 +9709,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-15T03:53:42.109Z",
       "postId": "691827047618629_1115959917677909",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "x",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "6ad0c1c833cbd4f851b99e81",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Chainalysis is hiring Head of Sales Enablement\n\nhttps://hashtagweb3.com/sls259/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110703870095581634"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "threads",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "18250903276312473",
+      "verification": "verified",
+      "expectedText": "Chainalysis is hiring Head of Sales Enablement: https://hashtagweb3.com/sls259/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Deg63KxG0qG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "bluesky",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxvzkvcdhs2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xda8cce7b878416882c8dc75468a5317f281a7a52",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xe02df6bad02beec9651d54269e78b0889f1d1243",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xc879118289e5af00c94e7b6c3d7241b5b1e93016",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xbfea167d7b6c4c9a4855416da6cd3654da7a3bb6",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x7285051fd9fb5626e9112798942bf6262ad4091f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xec1f778d0bdabd1a5d711f314a4350ca759fc665",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x2f47d7bbadff0659ada2f8721f11299ba8c3cc40",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x4f41b60bfe0f312fa56464ec905eb7c3682e82d5",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xbb8703053cbda6d8591f7a3e534fb2bf4ac58090",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x47331ebc4fbb03553e3f7c90a0e79cd1da62af9a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xc6cd0efb912d9343f0b58f3483f42dfbbe5d3b1f",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x328407b95b22499587db190a0c99ab2d4d6851cd",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xfd8bc88b387da87b7a6679f8bc47b0b437924bd8",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xe0d108935ccfc07fba350fcefaf3c4e2537574ab",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x7ee53500e9549f052b526b8f2e0b13f99343e66d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0x7c872b6d2fae96e35955b23cebf565be122edec4",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "0xd9d6ead116f3041701e27b96ecd07243ef7e4e00",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "6ad0c1da4f1ca4dbda77d77d",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "6ad0c1e47d5e788a72f6b0d4",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "urn:li:share:7516469729054732289",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls259",
+      "company": "Chainalysis",
+      "title": "Head of Sales Enablement",
+      "platform": "facebook",
+      "postedAt": "2026-10-15T12:06:31.634Z",
+      "postId": "691827047618629_1116286107645290",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "x",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "6ad0c1f97ea6b746e8cd6bcb",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bitpanda is hiring Intern, Business Intelligence\n\nhttps://hashtagweb3.com/int44/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110704076803514767"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "threads",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "17944001541094050",
+      "verification": "verified",
+      "expectedText": "Bitpanda is hiring Intern, Business Intelligence: https://hashtagweb3.com/int44/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Deg69NoGzXF",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "bluesky",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxvzmfn2vg2c",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x6d8ee3fa4bb41ed131634f49c2574463e73394d3",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x776e4f4b1b5acd2ba5c3b33709e21192a21230a9",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x0e2742d47db2fd6d260c0412ecd351097fec995d",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0xd86e45710389c0f995d7c1cc0792d93be216b13d",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x393a97636f36a2e2a5314f189a7edff7eb220c9f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0xb7674bff22eefe41ddb04a535235773f43d1fc90",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0xe2d3bb16f13a4ac99db884035f7407b3d564b877",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x0bedb447e39e10230d651bf9c1cb9f14d6cc24ba",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x045ab4a0f5958524b2d92df4fca8ccb8675c0c72",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x3cf8b68c5ccc724fb4af4a540e196c2edbd57c47",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x89e62a4bff42769808058b1ea60fb634e5a47cc8",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x1b9343f1588628eeb0dd40203eed14b43f64f002",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0xd747458c6fe37b94dd479c3ef852dc76ae7246b5",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x1f41b47e9a96830219d40d07e049db2738cedbbb",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x77a35d48ea7538f619a99935c96ef7999277d278",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x2e6315ea8daa83dee1af8c0717b364c08be145e9",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "farcaster",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "0x45ad2d3ab9ec72ee992833d4669eeb2ca0d45d5f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "6ad0c214d38f38895d8efff5",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "6ad0c21e5c95af65ffe01fc5",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "linkedin",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "urn:li:share:7516469973251342336",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "int44",
+      "company": "Bitpanda",
+      "title": "Intern, Business Intelligence",
+      "platform": "facebook",
+      "postedAt": "2026-10-15T12:07:20.777Z",
+      "postId": "691827047618629_1116286744311893",
       "verification": "verified"
     }
   ]
