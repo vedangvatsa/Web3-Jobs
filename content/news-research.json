@@ -34746,23 +34746,23 @@
       "id": "79003a0ed35caac2fb63",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T03:02:54.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; Aug 2-7 campaign went public Oct 13 with patched CVEs. XBOW or Google disclosure plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; XBOW chained three zero-days for a $250K Chrome bounty. Google bulletin plus independent confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:51.035Z",
+      "reviewedAt": "2026-10-15T11:58:46.361Z",
       "retrySearches": [
-        "XBOW Chrome full-chain bounty Google disclosure second outlet"
+        "XBOW Chrome exploit Google bulletin second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "6b572352d87c446080ff": {
       "source": "Crypto Briefing",
@@ -77809,6 +77809,21 @@
           "reviewedAt": "2026-10-15T11:58:44.296Z",
           "retrySearches": [
             "Musk 158M Senate Leadership Fund FEC filing second outlet"
+          ]
+        },
+        "79003a0ed35caac2fb63": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; XBOW chained three zero-days for a $250K Chrome bounty. Google bulletin plus independent confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:46.361Z",
+          "retrySearches": [
+            "XBOW Chrome exploit Google bulletin second outlet"
           ]
         }
       },
