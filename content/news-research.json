@@ -42650,11 +42650,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f57f71bbd9169e93a5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:26:31.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Stablecoin forecast revision to 2030; prediction update, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:22.057Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "0e55f22f09c0b6d6ba62": {
       "source": "Bankless",
@@ -74634,6 +74639,13 @@
           "note": "Magazine critics piece on bunker-mode custody; commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:20.134Z"
+        },
+        "f1f57f71bbd9169e93a5": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Stablecoin forecast revision to 2030; prediction update, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:22.057Z"
         }
       },
       "baselineSlugs": [
