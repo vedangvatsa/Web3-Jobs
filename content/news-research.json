@@ -41655,11 +41655,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b70ae6802acae6a5a11",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:36:20.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "CoinShares prediction of a slow start for Thailand crypto ETFs; forecast, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:18.074Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "40c1204cafa8f3330eaf": {
       "source": "Crypto Briefing",
@@ -74610,6 +74615,13 @@
           "note": "Musk $100 trillion SpaceX valuation forecast; speculative prediction, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:16.167Z"
+        },
+        "7b70ae6802acae6a5a11": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "CoinShares prediction of a slow start for Thailand crypto ETFs; forecast, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:18.074Z"
         }
       },
       "baselineSlugs": [
