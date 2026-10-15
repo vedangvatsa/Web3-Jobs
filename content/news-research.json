@@ -43246,11 +43246,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf1792dac3bcb8d84be6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:09:05.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Ekubo page blocked again in this run; Ekubo notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:28.434Z",
+      "retrySearches": [
+        "Ekubo shadow accounts liquidity providers notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "057f08e3beb88c98d686": {
       "source": "The Defiant",
@@ -76252,6 +76266,21 @@
           "reviewedAt": "2026-10-15T11:55:26.425Z",
           "retrySearches": [
             "StarkWare OffMarket Polymarket privacy notice second outlet"
+          ]
+        },
+        "cf1792dac3bcb8d84be6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ekubo page blocked again in this run; Ekubo notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:28.434Z",
+          "retrySearches": [
+            "Ekubo shadow accounts liquidity providers notice second outlet"
           ]
         }
       },
