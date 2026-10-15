@@ -33634,25 +33634,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "3fe0e363b669e3610520",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T11:41:58.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives with feedback to Nov 9. ASIC paper plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:05:51.726Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours; ASIC proposal corroboration with the consultation paper and a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:54.109Z",
       "retrySearches": [
         "ASIC crypto-settled CFD proposal consultation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15"
     },
     "376be79203bc54aa7fc4": {
       "source": "CoinDesk",
@@ -75120,6 +75114,13 @@
           "note": "Evergreen how-bitcoin-works explainer; educational content, not news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:52.195Z"
+        },
+        "3fe0e363b669e3610520": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours; ASIC proposal corroboration with the consultation paper and a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:54.109Z"
         }
       },
       "baselineSlugs": [
