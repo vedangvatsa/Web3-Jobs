@@ -42866,11 +42866,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ff41bd56820b278a6ccd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:56:22.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; CCI and BA join the Digital Chamber tax case for expedited judgment. Court filing plus merits-timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:25.222Z",
+      "retrySearches": [
+        "Illinois crypto tax CCI filing merits timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "a3bdf59061251c92a93a": {
       "source": "The Defiant",
@@ -77553,6 +77567,21 @@
           "reviewedAt": "2026-10-15T11:58:23.219Z",
           "retrySearches": [
             "South Korea FIU 27 exchanges block notice second outlet"
+          ]
+        },
+        "ff41bd56820b278a6ccd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; CCI and BA join the Digital Chamber tax case for expedited judgment. Court filing plus merits-timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:25.222Z",
+          "retrySearches": [
+            "Illinois crypto tax CCI filing merits timeline second outlet"
           ]
         }
       },
