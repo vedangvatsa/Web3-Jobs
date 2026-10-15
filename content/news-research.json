@@ -40807,11 +40807,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a1f68cae2407821f2ac",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:03:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; EBA names USDC the first significant e-money token under MiCA. EBA notice plus reserve-split confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:00.819Z",
+      "retrySearches": [
+        "EBA USDC significant token notice reserve split second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "323315298a1576ef8c33": {
       "source": "The Block",
@@ -77219,6 +77233,21 @@
           "reviewedAt": "2026-10-15T11:57:58.749Z",
           "retrySearches": [
             "EU Council ESMA crypto supervision October 9 press release second outlet"
+          ]
+        },
+        "5a1f68cae2407821f2ac": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; EBA names USDC the first significant e-money token under MiCA. EBA notice plus reserve-split confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:00.819Z",
+          "retrySearches": [
+            "EBA USDC significant token notice reserve split second outlet"
           ]
         }
       },
