@@ -36805,23 +36805,23 @@
       "id": "56b8b4503b2bb3a3df5a",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T00:30:45.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; the same 52B yen bond and 60B yen buyback program verified via the shared Cointelegraph read. Company disclosure plus confirmation of this outlet account still needed.",
+      "note": "Read the CryptoSlate piece; $380M buyback alongside $329M bond plan after 90% slide. Company filing plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks",
+          "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:24.911Z",
+      "reviewedAt": "2026-10-15T11:56:47.939Z",
       "retrySearches": [
-        "Metaplanet buyback program disclosure CryptoSlate confirmation"
+        "Metaplanet buyback bond filing second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "72fff0a7246e1876b504": {
       "source": "Crypto Briefing",
@@ -76780,6 +76780,21 @@
           "reviewedAt": "2026-10-15T11:56:46.041Z",
           "retrySearches": [
             "Ripple Meritz custody tokenization notice second outlet"
+          ]
+        },
+        "56b8b4503b2bb3a3df5a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; $380M buyback alongside $329M bond plan after 90% slide. Company filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:47.939Z",
+          "retrySearches": [
+            "Metaplanet buyback bond filing second outlet"
           ]
         }
       },
