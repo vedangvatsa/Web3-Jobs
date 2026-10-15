@@ -39530,11 +39530,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c2099901aa126604003f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T02:53:06.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "not-a-concrete-event",
+      "note": "CFTC event-contract rules explainer; analysis piece without a fresh CFTC action.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:50.277Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "90999d705a2c87614d7d": {
       "source": "Cointelegraph",
@@ -75096,6 +75101,13 @@
           "note": "Hardware-wallet supply-chain explainer pegged to the Ledger incident; analysis, not a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:48.326Z"
+        },
+        "c2099901aa126604003f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "CFTC event-contract rules explainer; analysis piece without a fresh CFTC action.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:50.277Z"
         }
       },
       "baselineSlugs": [
