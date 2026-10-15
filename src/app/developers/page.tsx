@@ -41,7 +41,6 @@ const files = [
   { label: 'Agent Plugin', path: '/plugin.json', detail: 'Portable Agent Plugins 1.0 manifest.' },
   { label: 'Agent mode', path: '/?mode=agent', detail: 'Compact JSON capability index (static).' },
   { label: 'LLM context', path: '/llms.txt', detail: 'A concise platform index.' },
-  { label: 'Source & Agent Config', path: 'https://github.com/vedangvatsa/Web3-Jobs', detail: 'Public AGENTS.md and skills.' },
 ];
 
 const curlExample = [

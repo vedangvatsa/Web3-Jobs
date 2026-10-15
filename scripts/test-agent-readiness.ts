@@ -48,11 +48,11 @@ async function run() {
 
   const developerPortal = fs.readFileSync(path.join(root, 'src/app/developers/page.tsx'), 'utf8');
   assert(developerPortal.includes("title: 'Hashtag Web3 API Docs & Developer Portal'"), 'Developer portal title includes the product name');
-  assert(developerPortal.includes('https://github.com/vedangvatsa/Web3-Jobs'), 'Developer portal links the public agent configuration');
+  assert(!developerPortal.includes('https://github.com/vedangvatsa/Web3-Jobs'), 'Developer portal does not expose the website repository');
 
   const llms = fs.readFileSync(path.join(root, 'public/llms.txt'), 'utf8');
   assert(llms.includes('https://hashtagweb3.com/?mode=agent'), 'LLM context links the agent-mode view');
-  assert(llms.includes('https://github.com/vedangvatsa/Web3-Jobs'), 'LLM context links the public repository');
+  assert(!llms.includes('https://github.com/vedangvatsa/Web3-Jobs'), 'LLM context does not expose the website repository');
   assert(llms.includes('/data/jobs-runtime.json'), 'LLM context links the static jobs catalog');
 
   const agentsManifest = readJson('public/.well-known/agents.json');

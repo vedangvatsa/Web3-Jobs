@@ -24,7 +24,7 @@ curl -sS 'https://hashtagweb3.com/data/jobs-runtime.json' -H 'Accept: applicatio
 
 ## Private / fork deployments
 
-The WorkOS-style **agent_auth** flow (`register` → `claim` → bearer token) may be implemented in a fork. It is **not** available on the public site. See the [AGENTS.md](https://github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md) repo guide for optional patterns.
+The WorkOS-style **agent_auth** flow (`register` → `claim` → bearer token) may be implemented in a private deployment. It is **not** available on the public site.
 
 ## Discovery
 
