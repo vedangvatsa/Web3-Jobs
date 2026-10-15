@@ -40482,11 +40482,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a8a9caa8adba4b68da0a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:38:48.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin drop tied to Asian equities; market commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:48.151Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "64af41b921e85537471d": {
       "source": "CoinDesk",
@@ -74382,6 +74387,13 @@
           "note": "Weekly ETF outflow tally with XRP exception; flow chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:46.256Z"
+        },
+        "a8a9caa8adba4b68da0a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin drop tied to Asian equities; market commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:48.151Z"
         }
       },
       "baselineSlugs": [
