@@ -40014,11 +40014,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cbe8fdb942ed31fb0863",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:15:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Intraday market daybook across bitcoin, copper, stocks and yields; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:26.417Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "452dba63e1b03be4d626": {
       "source": "The Block",
@@ -74250,6 +74255,13 @@
           "note": "ETF asset tally and flow commentary on BlackRock crypto funds; data roundup, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:24.414Z"
+        },
+        "cbe8fdb942ed31fb0863": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Intraday market daybook across bitcoin, copper, stocks and yields; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:26.417Z"
         }
       },
       "baselineSlugs": [
