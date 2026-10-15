@@ -2031,5 +2031,52 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 155776,
     "sentAt": "2026-10-15T12:06:18.956Z"
+  },
+  "359db9f4-2f2f-40c5-b2ff-ce6a19e379ba": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:31:55.445Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evt9GgBM7ScK61zT",
+        "slug": "tbc26",
+        "name": "TUM Blockchain Conference 26 / Digital Assets Day + Hackathon",
+        "startDate": "2026-10-28T23:00:00.000Z",
+        "keys": [
+          "luma-batch-evt9ggbm7sck61zt",
+          "page:tbc26:2026-10-29",
+          "luma:evt-9ggbm7sck61ztbb",
+          "luma-url:/tbc26",
+          "event:tumblockchainconference26digitalassetsdayhackathon:2026-10-29:munich"
+        ]
+      },
+      {
+        "id": "luma-batch-evtrN879vRTa1NBn",
+        "slug": "crypto-compliance-legal-drinks-hong-kong",
+        "name": "Crypto Compliance and Legal Community Drinks - Hong Kong",
+        "startDate": "2026-10-29T10:00:00.000Z",
+        "keys": [
+          "luma-batch-evtrn879vrta1nbn",
+          "yjhzi8vg",
+          "page:crypto-compliance-legal-drinks-hong-kong:2026-10-29",
+          "luma:evt-rn879vrta1nbn6a",
+          "luma-url:/yjhzi8vg",
+          "event:cryptocomplianceandlegalcommunitydrinkshongkong:2026-10-29:hong kong"
+        ]
+      },
+      {
+        "id": "premier-labitconf-2026",
+        "slug": "labitconf",
+        "name": "LABITCONF 2026",
+        "startDate": "2026-10-30",
+        "keys": [
+          "premier-labitconf-2026",
+          "page:labitconf:2026-10-30",
+          "event:labitconf2026:2026-10-30:mexico city"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-15:evening"
   }
 }
