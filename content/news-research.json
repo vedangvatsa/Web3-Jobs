@@ -32934,25 +32934,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "753a46e93684238dc519",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T17:19:33.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Bitcoin Magazine piece; it tracks the Friday probe through the Sunday limited-devices update with the 6M figure unconfirmed. Loss confirmation plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:01:26.169Z",
+      "reason": "duplicate",
+      "note": "This covers the same CryptoBilis implant probe as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:12.740Z",
       "retrySearches": [
         "Ledger CryptoBilis implant investigation loss confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "3b1b1dda1f03dccb42a6": {
       "source": "BeInCrypto",
@@ -74205,6 +74200,14 @@
           "note": "This covers the same CryptoBilis drain attribution as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:10.762Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "753a46e93684238dc519": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same CryptoBilis implant probe as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:12.740Z",
           "duplicateOf": "ledger-implant"
         }
       },
