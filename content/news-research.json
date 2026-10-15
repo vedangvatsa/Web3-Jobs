@@ -38738,23 +38738,23 @@
       "id": "6aa45f2713c1657bbf94",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:30:37.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; the committee adopted the wallet-reporting amendment but then rejected the revenue section, so re-tabling is needed. Assembly record plus a second outlet still needed.",
+      "note": "Read the Decrypt piece; French proposal to report wallets over 100K euros with fines. Bill text plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:00.754Z",
+      "reviewedAt": "2026-10-15T11:56:55.704Z",
       "retrySearches": [
-        "France wallet reporting amendment Assembly re-table second outlet"
+        "France crypto holdings reporting proposal bill text second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e98e0dee2df9744aba85": {
       "source": "Cointelegraph",
@@ -76840,6 +76840,21 @@
           "reviewedAt": "2026-10-15T11:56:53.786Z",
           "retrySearches": [
             "Federated Hermes tokenized fund shares Prometheum notice second outlet"
+          ]
+        },
+        "6aa45f2713c1657bbf94": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; French proposal to report wallets over 100K euros with fines. Bill text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:55.704Z",
+          "retrySearches": [
+            "France crypto holdings reporting proposal bill text second outlet"
           ]
         }
       },
