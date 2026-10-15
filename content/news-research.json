@@ -34471,23 +34471,23 @@
       "id": "cedb10fc747d425655e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T02:20:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional 201M tender starting around Oct 15. Filing confirmation plus a second outlet still needed.",
+      "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional tender. Filing confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:31.248Z",
+      "reviewedAt": "2026-10-15T11:57:18.649Z",
       "retrySearches": [
-        "SkyAI tender offer filing second outlet October 15"
+        "SkyAI tender offer filing second outlet October"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5efd684dc286826e49ca": {
       "source": "Crypto Briefing",
@@ -77131,6 +77131,21 @@
           "reviewedAt": "2026-10-15T11:57:16.567Z",
           "retrySearches": [
             "Kalshi CBS News prediction market sponsor notice second outlet"
+          ]
+        },
+        "cedb10fc747d425655e2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional tender. Filing confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:18.649Z",
+          "retrySearches": [
+            "SkyAI tender offer filing second outlet October"
           ]
         }
       },
