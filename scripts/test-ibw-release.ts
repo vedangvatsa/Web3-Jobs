@@ -11,6 +11,7 @@ import eventsJson from '../content/events-runtime.json';
 import audit from '../content/events/ibw-description-audit.json';
 import { buildEventSlugIndex } from '../src/lib/event-slug-index';
 import type { Web3Event } from '../src/lib/events';
+import { SOCIAL_UTM_MAP } from '../src/lib/social-share';
 
 const events = eventsJson as Web3Event[];
 const index = buildEventSlugIndex(events);
@@ -79,6 +80,18 @@ async function main() {
       }
     }
     const request = (pathname: string) => fetch(origin + pathname, { headers: human, redirect: 'manual', signal: AbortSignal.timeout(60000) });
+    for (const [suffix, attribution] of Object.entries(SOCIAL_UTM_MAP)) {
+      const response = await request(`/popups/${suffix}?utm_campaign=nomad-resource-list`);
+      assert.equal(response.status, 307, `/popups/${suffix}`);
+      const target: URL = new URL(response.headers.get('location')!, origin);
+      assert.equal(target.pathname, '/popups', 'A directory share must not become a legacy popup detail URL');
+      assert.equal(target.searchParams.get('utm_source'), attribution.utm_source);
+      assert.equal(target.searchParams.get('utm_medium'), attribution.utm_medium);
+      assert.equal(target.searchParams.get('utm_campaign'), 'nomad-resource-list');
+    }
+    const legacyPopup = await request('/popups/ns');
+    assert.equal(legacyPopup.status, 308);
+    assert.equal(new URL(legacyPopup.headers.get('location')!, origin).pathname, '/ns');
     for (const event of sideEvents) {
       const response = await request(`/${event.slug}`);
       assert.equal(response.status, 200, event.slug);

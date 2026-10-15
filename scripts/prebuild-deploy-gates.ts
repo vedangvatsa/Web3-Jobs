@@ -1,10 +1,11 @@
 #!/usr/bin/env tsx
 import { execSync } from 'node:child_process';
+import { JOB_AGE_BUILD_SNAPSHOT_ENV, withJobAgeBuildSnapshot } from './lib/job-age-build-snapshot';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
-function run(cmd: string): void {
-  execSync(cmd, { stdio: 'inherit', cwd: process.cwd(), env: process.env });
+function run(cmd: string, env: NodeJS.ProcessEnv = process.env): void {
+  execSync(cmd, { stdio: 'inherit', cwd: process.cwd(), env });
 }
 
 function fullGates(): void {
@@ -42,7 +43,8 @@ function fastGates(): void {
 }
 
 function main(): void {
-  run('npm run test:job-age');
+  run('npx tsx --test scripts/test-job-age-build-snapshot.ts');
+  withJobAgeBuildSnapshot(authorization => run('npm run test:job-age', { ...process.env, [JOB_AGE_BUILD_SNAPSHOT_ENV]: authorization }));
   run('npm run test:prebuild-invalidation');
   run('npm run test:catalog-publication');
   run('npx tsx --test scripts/test-verified-job-corrections.ts');

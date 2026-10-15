@@ -21,6 +21,7 @@ import { GET as joraFeed } from '../src/app/jobs/jora.xml/route';
 import { getJobDescriptionShardFilename, getJobDescriptionShardIndex } from '../src/lib/job-description-shards';
 import { getJobContentKey, getJobIdentity } from '../src/lib/job-slugs';
 import { readJobDescriptionStore } from './lib/job-description-store';
+import { readValidatedJobAgeArtifacts } from './lib/job-age-build-snapshot';
 
 test('ingestion preserves original identity dates and normalizes explicit UTC without rollover', () => {
   const history: JobDateHistory = {};
@@ -50,8 +51,7 @@ test('ingestion preserves original identity dates and normalizes explicit UTC wi
 });
 
 test('active artifacts contain only eligible jobs and preserve matching description keys', () => {
-  const cache = JSON.parse(fs.readFileSync('content/jobs-cache.json', 'utf8')) as Job[];
-  const runtime = JSON.parse(fs.readFileSync('content/jobs-runtime.json', 'utf8')) as Job[];
+  const { cache, runtime } = readValidatedJobAgeArtifacts();
   if (fs.existsSync('.git')) {
     const before = JSON.parse(execFileSync('git', ['show', 'HEAD:content/jobs-cache.json'], { encoding: 'utf8', maxBuffer: 32 * 1024 * 1024 })) as Job[];
     const previousByIdentity = new Map(before.map(job => [getJobIdentity(job), job]));
@@ -61,7 +61,6 @@ test('active artifacts contain only eligible jobs and preserve matching descript
     }
   }
   for (const jobs of [cache, runtime]) {
-    assert.ok(jobs.every(job => isJobAgeEligible(job)));
     assert.equal(jobs.some(job => job.company === 'Harmony'), false);
   }
   const keys = new Set(cache.map(getJobContentKey));

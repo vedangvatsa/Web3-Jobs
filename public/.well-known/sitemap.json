@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-15T10:44:42.488Z",
+  "generatedAt": "2026-10-15T11:36:10.145Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3605,
+  "count": 3603,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -9904,12 +9904,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/ksi",
-      "lastmod": "2026-09-15",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/kuala-lumpur",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
@@ -10578,12 +10572,6 @@
     {
       "url": "https://hashtagweb3.com/mgr108",
       "lastmod": "2026-09-29",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mgr11",
-      "lastmod": "2026-09-15",
       "changefreq": "daily",
       "priority": 0.8
     },

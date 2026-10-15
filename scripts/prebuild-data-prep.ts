@@ -11,6 +11,7 @@ import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
 import { retireRejectedJobSources } from './lib/retire-rejected-job-sources';
 import { writeCatalogFreshness } from './lib/catalog-freshness.mjs';
 import { retireIneligibleJobs } from './lib/retire-ineligible-jobs';
+import { beginJobAgeBuildSnapshot, captureJobAgeBuildSnapshot, completeJobAgeBuildSnapshot, hasExpiredJobArtifacts } from './lib/job-age-build-snapshot';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
@@ -23,6 +24,8 @@ function syncPublicAssets(): void {
 }
 
 function main(): void {
+  const ageBuild = beginJobAgeBuildSnapshot();
+  let ageSnapshot: ReturnType<typeof captureJobAgeBuildSnapshot> | undefined;
   run('node scripts/retain-events.mjs');
   // The optimizer's content hashes avoid repeated lossy encoding, including on fast builds.
   run('npx tsx scripts/optimize-static-images.ts');
@@ -37,11 +40,16 @@ function main(): void {
   const jobSlugs = assignJobSlugsInCacheFile('content/jobs-cache.json');
   if (jobSlugs.wrote) dirtyOutputs.add('content/jobs-cache.json');
   for (const step of PREBUILD_DATA_STEPS) {
-    if (!shouldRunStep(step, manifest, fast, dirtyOutputs)) continue;
-    run(step.command);
-    recordStep(manifest, step);
-    for (const output of step.outputs) dirtyOutputs.add(output);
-    ran += 1;
+    const cutoff = Date.now();
+    const agedOut = step.id === 'jobs-runtime' && hasExpiredJobArtifacts(process.cwd(), cutoff);
+    if (shouldRunStep(step, manifest, fast, dirtyOutputs) || agedOut) {
+      if (agedOut) console.log('[prebuild-data] jobs-runtime: posting deadline crossed → refresh');
+      run(step.command);
+      recordStep(manifest, step);
+      for (const output of step.outputs) dirtyOutputs.add(output);
+      ran += 1;
+    }
+    if (step.id === 'jobs-runtime') ageSnapshot = captureJobAgeBuildSnapshot(ageBuild, cutoff);
   }
 
   // Sitemap validation runs in the next prebuild stage, so refresh it first.
@@ -58,6 +66,7 @@ function main(): void {
   run('npx tsx scripts/precompute-og-previews.ts');
   run('npx tsx scripts/prune-responsive-images.ts --apply');
   writeCatalogFreshness(process.cwd());
+  completeJobAgeBuildSnapshot(ageSnapshot);
   console.log(`[prebuild-data-prep] finished (${ran} step(s) executed, FAH_FAST=${fast})`);
 }
 

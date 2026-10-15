@@ -24086,34 +24086,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp10"
-  },
-  {
-    "id": "9d32b3a2-7067-46b8-bb0e-6232d2d9a068",
-    "title": "KOL Lead, Spain & Iberia",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/9d32b3a2-7067-46b8-bb0e-6232d2d9a068",
-    "date": "2026-09-15T11:07:50.976+00:00",
-    "source": "Ashby: Kraken [kraken.com]",
-    "location": "Remote (Spain)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Marketing",
-    "active": true,
-    "dateVerified": true,
-    "slug": "ksi"
-  },
-  {
-    "id": "8202831",
-    "title": "Benefits Program Manager, EMEA",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8202831",
-    "date": "2026-09-15T07:05:28-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Dublin, London",
-    "department": "6532 Benefits",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr11"
   }
 ]

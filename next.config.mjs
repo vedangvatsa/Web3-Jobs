@@ -15,10 +15,10 @@ const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'conten
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
 const jobPageScopes = JSON.parse(readFileSync(path.join(projectRoot, 'content/job-age-page-scopes.json'), 'utf8'));
 const citizenshipPrograms = JSON.parse(readFileSync(path.join(projectRoot, 'content/citizenship.json'), 'utf8')).programs;
-const citizenshipSocialSuffixes = 'li|linkedin|x|tw|twitter|yt|youtube|th|threads|ig|insta|instagram|tg|telegram|rd|reddit|dc|discord|fc|warp|farcaster|bsky|bluesky|fb|facebook|tt|tiktok|hn|wa|whatsapp|nl|email';
+const socialSuffixPattern = 'li|linkedin|x|tw|twitter|yt|youtube|th|threads|ig|insta|instagram|tg|telegram|rd|reddit|dc|discord|fc|warp|farcaster|bsky|bluesky|fb|facebook|tt|tiktok|hn|wa|whatsapp|nl|email';
 const citizenshipRedirects = citizenshipPrograms.flatMap(({ slug }) => [
   { source: `/citizenship/${slug}`, destination: `/citizenship#${slug}`, permanent: true },
-  { source: `/citizenship/${slug}/:platform(${citizenshipSocialSuffixes})`, destination: `/citizenship/:platform#${slug}`, permanent: true },
+  { source: `/citizenship/${slug}/:platform(${socialSuffixPattern})`, destination: `/citizenship/:platform#${slug}`, permanent: true },
 ]);
 function nomadRedirect(source, destination) {
   const [pathname, query] = destination.split('?');
@@ -197,7 +197,7 @@ const nextConfig = {
       { source: '/popups/logos', destination: '/logos-society', permanent: true },
       { source: '/popups/logos-society', destination: '/logos-society', permanent: true },
       // Legacy /popups/:slug bookmarks → canonical root popup pages (content only on /[slug]).
-      { source: '/popups/:slug', destination: '/:slug', permanent: true },
+      { source: `/popups/:slug((?!(?:${socialSuffixPattern})(?:/|$))[^/]+)`, destination: '/:slug', permanent: true },
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
