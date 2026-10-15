@@ -37368,23 +37368,27 @@
       "id": "c6e4972c0a7ed67a1242",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T21:52:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Tuesday tokenized-Treasuries transaction with executive quotes confirmed. BNY or Citadel notice plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece on the BNY-Citadel tokenized Treasury test. Participant notice plus triparty-platform confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:32.043Z",
+      "reviewedAt": "2026-10-15T11:59:41.095Z",
       "retrySearches": [
-        "BNY Citadel tokenized Treasuries transaction notice second outlet"
+        "BNY Citadel tokenized Treasury triparty confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "92accb5e69d70a640573": {
       "source": "CryptoSlate",
@@ -78356,6 +78360,25 @@
           "reviewedAt": "2026-10-15T11:59:36.712Z",
           "retrySearches": [
             "DriveWealth RLUSD rollout confirmation second outlet"
+          ]
+        },
+        "c6e4972c0a7ed67a1242": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on the BNY-Citadel tokenized Treasury test. Participant notice plus triparty-platform confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:41.095Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasury triparty confirmation second outlet"
           ]
         }
       },
