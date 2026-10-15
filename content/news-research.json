@@ -41083,11 +41083,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "cd704594eaa35d571926",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:30.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "verified-event",
+      "note": "Verified the Oct 14 Istanbul detention of Richard Heart across Turkish media and two crypto outlets; Finnish Red Notice basis, seizure totals differ.",
+      "sourceChecks": [
+        {
+          "url": "https://www.dailysabah.com/business/tech/turkiye-nabs-interpol-wanted-crypto-fugitive-in-istanbul-operation",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/hex-founder-richard-heart-detained-in-turkey",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/hex-founder-richard-heart-reportedly-taken-into-custody-in-turkey-at-finlands-request/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:41:59.781Z",
+      "articleSlug": "heart-arrest",
+      "lastReviewedDay": "2026-10-15"
     },
     "b945f5119461715da8c2": {
       "source": "Crypto Briefing",
@@ -73799,6 +73818,27 @@
           ],
           "reviewedAt": "2026-10-15T11:41:57.769Z",
           "articleSlug": "alpenglow"
+        },
+        "cd704594eaa35d571926": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 14 Istanbul detention of Richard Heart across Turkish media and two crypto outlets; Finnish Red Notice basis, seizure totals differ.",
+          "sourceChecks": [
+            {
+              "url": "https://www.dailysabah.com/business/tech/turkiye-nabs-interpol-wanted-crypto-fugitive-in-istanbul-operation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/hex-founder-richard-heart-detained-in-turkey",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/hex-founder-richard-heart-reportedly-taken-into-custody-in-turkey-at-finlands-request/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:41:59.781Z",
+          "articleSlug": "heart-arrest"
         }
       },
       "baselineSlugs": [
