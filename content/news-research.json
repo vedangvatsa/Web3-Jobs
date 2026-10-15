@@ -40287,11 +40287,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca7fb5937c7b53ab1189",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:40:18.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Liquidation-trap price speculation toward $78,000; prediction, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:40.155Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "84f2457e7ce69ceffc78": {
       "source": "Cointelegraph",
@@ -74334,6 +74339,13 @@
           "note": "Bitcoin dip tied to KOSPI close; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:38.245Z"
+        },
+        "ca7fb5937c7b53ab1189": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Liquidation-trap price speculation toward $78,000; prediction, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:40.155Z"
         }
       },
       "baselineSlugs": [
