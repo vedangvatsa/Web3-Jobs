@@ -1933,5 +1933,53 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 155767,
     "sentAt": "2026-10-14T19:31:54.321Z"
+  },
+  "3e100020-ec2d-430e-b0ac-d73f55df256c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:52:36.865Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-KdgiJ5gO82TXRB9",
+        "slug": "ai-gtm-day",
+        "name": "AI × GTM Day: Growth Hackathon, Talks & Social",
+        "startDate": "2026-10-24T18:00:00.000Z",
+        "keys": [
+          "luma-crypto-kdgij5go82txrb9",
+          "la3agghs",
+          "page:ai-gtm-day:2026-10-24",
+          "luma:evt-kdgij5go82txrb9",
+          "luma-url:/bo69pa9j",
+          "event:aigtmdaygrowthhackathontalkssocial:2026-10-24:santa clara"
+        ]
+      },
+      {
+        "id": "premier-hackmeridian",
+        "slug": "hackmeridian",
+        "name": "HackMeridian 2026",
+        "startDate": "2026-10-25",
+        "keys": [
+          "premier-hackmeridian",
+          "page:hackmeridian:2026-10-25",
+          "event:hackmeridian2026:2026-10-25:lisbon"
+        ]
+      },
+      {
+        "id": "luma-crypto-pMblGmFDgWwshUx",
+        "slug": "bay-area-ai-car-hackathon",
+        "name": "Bay Area AI+car hackathon",
+        "startDate": "2026-10-25T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-pmblgmfdgwwshux",
+          "baach",
+          "page:bay-area-ai-car-hackathon:2026-10-25",
+          "luma:evt-pmblgmfdgwwshux",
+          "luma-url:/jgl2tejn",
+          "event:bayareaaicarhackathon:2026-10-25:oakland"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-15:morning"
   }
 }
