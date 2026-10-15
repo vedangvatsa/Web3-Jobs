@@ -4381,7 +4381,7 @@
     "sentAt": "2026-10-15T12:06:40.985Z"
   },
   "94f3817c-2c05-4942-9d1a-97baccb220a3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T12:06:44.038Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4501,6 +4501,8 @@
       }
     ],
     "message": "- Transak is hiring <a href=\"https://hashtagweb3.com/pm107?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Compliance &amp; KYC</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/tr68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Digital Assets Trader</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/bifc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Blockchain Investigator, Financial Crimes, Malta</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/pm196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Product Manager - Tokenization</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/tr26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Junior Derivatives Trader</a>",
-    "slotKey": "2026-10-15:afternoon"
+    "slotKey": "2026-10-15:afternoon",
+    "messageId": 128,
+    "sentAt": "2026-10-15T12:06:48.238Z"
   }
 }
