@@ -43164,11 +43164,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c6b6e77855a6766796f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:00:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "OffMarket Block page blocked again in this run; StarkWare notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:26.425Z",
+      "retrySearches": [
+        "StarkWare OffMarket Polymarket privacy notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d8d3338815c934ba99f2": {
       "source": "CoinDesk",
@@ -76223,6 +76237,21 @@
           "reviewedAt": "2026-10-15T11:55:24.047Z",
           "retrySearches": [
             "Standard Chartered stablecoin forecast report second outlet"
+          ]
+        },
+        "4c6b6e77855a6766796f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "OffMarket Block page blocked again in this run; StarkWare notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:26.425Z",
+          "retrySearches": [
+            "StarkWare OffMarket Polymarket privacy notice second outlet"
           ]
         }
       },
