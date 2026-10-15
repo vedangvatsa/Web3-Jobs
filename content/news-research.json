@@ -42375,11 +42375,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7a1b878d8c69bfa86f56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:16:03.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Developer cloning office software with AI; tech novelty with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:09.999Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "ff41bd56820b278a6ccd": {
       "source": "Cointelegraph",
@@ -74922,6 +74927,13 @@
           "note": "AI-models-offline letter from scientists; AI-safety story with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:07.974Z"
+        },
+        "7a1b878d8c69bfa86f56": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Developer cloning office software with AI; tech novelty with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:09.999Z"
         }
       },
       "baselineSlugs": [
