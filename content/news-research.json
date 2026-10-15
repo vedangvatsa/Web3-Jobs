@@ -42944,11 +42944,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "37a52ca03b47daf0f639",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:31:47.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Uniswap pool page blocked again in this run; Uniswap notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:22.068Z",
+      "retrySearches": [
+        "Uniswap ETH USDC separate fees pool notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7dd8207ecce8d0629ae3": {
       "source": "Bitcoin Magazine",
@@ -76165,6 +76179,21 @@
           "reviewedAt": "2026-10-15T11:55:20.059Z",
           "retrySearches": [
             "UNCX vesting pool exploit Blockaid report second outlet"
+          ]
+        },
+        "37a52ca03b47daf0f639": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Uniswap pool page blocked again in this run; Uniswap notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:22.068Z",
+          "retrySearches": [
+            "Uniswap ETH USDC separate fees pool notice second outlet"
           ]
         }
       },
