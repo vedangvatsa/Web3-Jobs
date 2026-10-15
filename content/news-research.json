@@ -39295,11 +39295,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c3f8abc2b8fc69ddface",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:16:36.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "BlackRock CEO macro warning about data-center bans and recession; executive prediction, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:24.034Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "fc2d9e45ee1983505dcb": {
       "source": "BeInCrypto",
@@ -74646,6 +74651,13 @@
           "note": "Stablecoin forecast revision to 2030; prediction update, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:22.057Z"
+        },
+        "c3f8abc2b8fc69ddface": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "BlackRock CEO macro warning about data-center bans and recession; executive prediction, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:24.034Z"
         }
       },
       "baselineSlugs": [
