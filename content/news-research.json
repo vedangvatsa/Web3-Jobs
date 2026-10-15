@@ -35600,23 +35600,23 @@
       "id": "4efa360a77461ed8e72c",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:00:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Ripple-Privy page blocked on re-attempt; Ripple or Privy notice and a readable second outlet still missing.",
+      "note": "Ripple-Privy page blocked again in this run; Ripple or Privy notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:20.695Z",
+      "reviewedAt": "2026-10-15T11:54:06.083Z",
       "retrySearches": [
-        "Ripple Privy XRPL wallets notice second outlet"
+        "Ripple Privy embedded wallets XRP Ledger announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "2ebd702130a2a7c79532": {
       "source": "Cointelegraph",
@@ -75420,6 +75420,21 @@
           "reviewedAt": "2026-10-15T11:54:04.158Z",
           "retrySearches": [
             "Coinbase Bitcoin post-quantum migration designs post second outlet"
+          ]
+        },
+        "4efa360a77461ed8e72c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ripple-Privy page blocked again in this run; Ripple or Privy notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:06.083Z",
+          "retrySearches": [
+            "Ripple Privy embedded wallets XRP Ledger announcement second outlet"
           ]
         }
       },
