@@ -30182,10 +30182,10 @@
       "id": "0542d530c8a30db504c3",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T13:20:55.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
+      "reason": "missing-primary-source",
       "note": "Read the CryptoSlate piece; it reports an Oct 9 Council political agreement with ESMA thresholds via Reuters. Council press release plus a second outlet still needed.",
       "sourceChecks": [
         {
@@ -30193,12 +30193,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T03:59:53.684Z",
+      "reviewedAt": "2026-10-15T11:57:58.749Z",
       "retrySearches": [
         "EU Council ESMA crypto supervision October 9 press release second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "eb17a57f81a083faf797": {
       "source": "CoinDesk",
@@ -77204,6 +77204,21 @@
           "reviewedAt": "2026-10-15T11:57:22.854Z",
           "retrySearches": [
             "Coinbase Bitcoin quantum migration blog second outlet"
+          ]
+        },
+        "0542d530c8a30db504c3": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoSlate piece; it reports an Oct 9 Council political agreement with ESMA thresholds via Reuters. Council press release plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:58.749Z",
+          "retrySearches": [
+            "EU Council ESMA crypto supervision October 9 press release second outlet"
           ]
         }
       },
