@@ -42514,11 +42514,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "81402f6b91659afa6f02",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:26:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on quantum defense being built in the open; analysis roundup, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:44.310Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "4b93d338baa8d083f481": {
       "source": "The Defiant",
@@ -75060,6 +75065,13 @@
           "note": "Chainalysis remittance-surge statistic; data report, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:42.436Z"
+        },
+        "81402f6b91659afa6f02": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on quantum defense being built in the open; analysis roundup, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:44.310Z"
         }
       },
       "baselineSlugs": [
