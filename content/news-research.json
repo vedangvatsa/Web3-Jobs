@@ -34685,23 +34685,23 @@
       "id": "1e2fdcda2d2c1e06be00",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T11:29:24.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinJournal piece; conditional ARIP entry confirmed as non-operational. SEC Nigeria record plus a second outlet still needed.",
+      "note": "Read the CoinJournal piece; conditional Approval-in-Principle bars launch and onboarding. SEC Nigeria record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://coinjournal.net/news/kucoin-nigeria-secures-conditional-entry-into-sec-nigerias-arip/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:44.874Z",
+      "reviewedAt": "2026-10-15T11:56:33.585Z",
       "retrySearches": [
         "KuCoin Nigeria ARIP SEC Nigeria record second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "307732c174c9b627cb3c": {
       "source": "CoinJournal",
@@ -76675,6 +76675,21 @@
           "reviewedAt": "2026-10-15T11:56:31.544Z",
           "retrySearches": [
             "Harneys droppRWA tokenized catastrophe bonds issuance second outlet"
+          ]
+        },
+        "1e2fdcda2d2c1e06be00": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinJournal piece; conditional Approval-in-Principle bars launch and onboarding. SEC Nigeria record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/kucoin-nigeria-secures-conditional-entry-into-sec-nigerias-arip/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:33.585Z",
+          "retrySearches": [
+            "KuCoin Nigeria ARIP SEC Nigeria record second outlet"
           ]
         }
       },
