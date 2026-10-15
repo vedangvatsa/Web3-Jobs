@@ -43337,11 +43337,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "76ac1901414dba06b726",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:59:39.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Bastion-SkyAI page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:30.403Z",
+      "retrySearches": [
+        "Bastion SkyAI tender price demands letter second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "dcd19462e41b3e4b2f25": {
       "source": "Decrypt",
@@ -76281,6 +76295,21 @@
           "reviewedAt": "2026-10-15T11:55:28.434Z",
           "retrySearches": [
             "Ekubo shadow accounts liquidity providers notice second outlet"
+          ]
+        },
+        "76ac1901414dba06b726": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bastion-SkyAI page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:30.403Z",
+          "retrySearches": [
+            "Bastion SkyAI tender price demands letter second outlet"
           ]
         }
       },
