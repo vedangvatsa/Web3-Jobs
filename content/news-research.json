@@ -37516,23 +37516,23 @@
       "id": "75b04625da3e7c38421c",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T20:47:14.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "BNY repo page blocked on re-attempt; BNY or Citadel notice and a readable second outlet still missing.",
+      "note": "BNY repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:07.232Z",
+      "reviewedAt": "2026-10-15T11:54:12.079Z",
       "retrySearches": [
-        "BNY Citadel tokenized repo notice second outlet"
+        "BNY Citadel tokenized Treasury repo notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "22edeeec337a1317053a": {
       "source": "CryptoSlate",
@@ -75461,6 +75461,21 @@
           "reviewedAt": "2026-10-15T11:54:10.081Z",
           "retrySearches": [
             "Ledger resellers halt sales seven Asian markets notice second outlet"
+          ]
+        },
+        "75b04625da3e7c38421c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BNY repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:12.079Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasury repo notice second outlet"
           ]
         }
       },
