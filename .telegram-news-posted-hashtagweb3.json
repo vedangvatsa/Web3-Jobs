@@ -734,6 +734,9 @@
   "https://hashtagweb3.com/seized-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kraken-dubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/uk-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/genesis-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrpl-delegation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ondo-private?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2110,6 +2113,12 @@
   "Kraken parent wins full Dubai approval, targets UAE launch in weeks",
   "UK Sanctions Crypto Exchanges Linked to Russia",
   "UK sanctions crypto exchanges Cryptomus, Heleket and TokenSpot over Russia links",
+  "SWI raises $894 million to convert facilities for AI",
+  "SWI raises $894 million to turn former FTX miner toward AI",
+  "XRP Ledger enables account delegation for institutions",
+  "XRP Ledger activates account delegation for banks and stablecoin issuers",
+  "Ondo launches tokenized notes tied to pre-IPO AI firm",
+  "Ondo launches Private Markets with tokenized notes tied to pre-IPO AI company",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2394,5 +2403,8 @@
   "fp:280m|311|773|adds3|buys3|exercis|expiry|follow|increas|near",
   "fp:000|apply|chines|claim|claimant|court|cryptocurrency|harder|law|london",
   "fp:approval|com|customer|dubai|exchang|financial|full|kraken|offer|operat",
-  "fp:allegedly|britain|cryptomus|evad|exchang|financial|heleket|help|link|network"
+  "fp:allegedly|britain|cryptomus|evad|exchang|financial|heleket|help|link|network",
+  "fp:61b|894m|center|convert|data|euro|facility|former|ftx|group",
+  "fp:account|activat|allow|assign|bank|delegat|delegation|enabl|institution|issuer",
+  "fp:asset|begin|expect|firm|ipo|market|newly|not|ondo|pre"
 ]

@@ -1395,7 +1395,7 @@
     "sentAt": "2026-10-15T03:54:44.007Z"
   },
   "f0f1f81b-a280-4ca7-a7be-42461944a423": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T12:07:44.249Z",
     "stories": [
       {
@@ -1423,6 +1423,8 @@
         "originalTitle": "Ondo launches Private Markets with tokenized notes tied to pre-IPO AI company"
       }
     ],
-    "slotKey": "2026-10-15:afternoon"
+    "slotKey": "2026-10-15:afternoon",
+    "messageId": 155778,
+    "sentAt": "2026-10-15T12:07:47.625Z"
   }
 }
