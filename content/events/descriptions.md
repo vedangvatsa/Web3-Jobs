@@ -2617,25 +2617,15 @@ The organizer's website includes an archive of earlier conferences and speakers.
 - Description: Source-backed
 - Original page: <https://www.edcon.io/>
 
-### Sponsorship Application
+### About the event
 
-Partner with EDCON 2026 and put your brand in front of the global Ethereum community.
+EDCON 2026 takes place on October 17 and 18 at Menara KEN TTDI, Level 2, in Kuala Lumpur. The published program includes Ethereum talks, lightning sessions, panels and hands-on workshops. Doors open at 09:30 each day and sessions begin at 10:00. All times are local to Kuala Lumpur.
 
-### Community Events Application
+Saturday covers practical read privacy with Steffen Kux, AI's social impacts with Bing of Lodestar, parallel execution, shared liquidity and the intersection of traditional finance and DeFi. Afternoon sessions include verified wallet simulation, AI-assisted security triage and an Etherscan Flow workshop with Harith, followed by a student blockchain-club panel.
 
-Host your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose.
+Sunday includes Arbitrum builder support, decentralized social networks, sovereign AI and a Partitioned Binary Tree talk by Ashraf of Nethermind. Suji Yan discusses social protocols, WenKang covers offchain components for dApps, and Nic leads a build-with-AI tools workshop. The day closes with a White Paper Reading Club from 16:00 to 18:00.
 
-### Apply to Speak
-
-Speaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026.
-
-### Join as Volunteer
-
-Volunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen.
-
-### Strategic Partner: Geode Labs
-
-Geode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most.
+Tickets are linked from the organizer's website to its Luma registration page. Check the published agenda for the final order of sessions.
 
 <a id="event-76be3d5b5d16f0b7"></a>
 
@@ -2667,9 +2657,9 @@ The organizer's city ticket link currently returns the tour-wide page, which doe
 
 ### About the event
 
-Money20/20 USA brings together participants from banking, payments, technology, retail and fintech startups. The event combines industry talks and product discovery with meetings between companies, investors and potential partners.
+Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
 
-The organizer provides an attendee brochure, speaker information and pass options through its official site. Use the current agenda and registration pages to choose sessions and arrange meetings; sponsorship and exhibition participation are handled separately.
+Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
 
 <a id="event-5ecdadb4607140a3"></a>
 
@@ -2760,33 +2750,13 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://tokenisation.org.uk>
 
-### The TokenisationLandscape
+### About the event
 
-Tokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today.
+MeridenDAO and timesthree organize UK Tokenisation Summit in Birmingham, bringing blockchain networks together with universities, startups, investors, enterprises and public-sector participants.
 
-### Real-World Assets
+The primary sources currently disagree about the edition and date. The organizer's website advertises UK Tokenisation Summit 2027 for April 28 in central Birmingham, while its linked Luma registration page remains titled UK Tokenisation Summit 2026 and describes an October 2026 event. Confirm the edition and attendance date with the organizer before making plans.
 
-From bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets.
-
-### DeFi & Digital Finance
-
-Decentralised finance protocols are reshaping lending, trading, and payments -- creating open, permissionless financial infrastructure accessible to everyone.
-
-### Supply Chain & Provenance
-
-Blockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf.
-
-### Digital Identity
-
-Blockchain-backed digital IDs and verifiable credentials are giving individuals control over their data while reducing identity fraud across sectors.
-
-### Creator Economy & IP
-
-Artists, musicians, and creators are using tokenisation to monetise work directly, manage royalties transparently, and build new models of community ownership.
-
-### Public Sector & Infrastructure
-
-From land registries to healthcare records, governments and institutions are adopting tokenisation to improve transparency, reduce costs, and modernise public services.
+The website's 2027 program lists digital assets, AI and blockchain, DeFi and real-world asset tokenization, regulation, and enterprise and public-sector case studies. Those sessions should not be assumed to confirm a program for the October 2026 listing.
 
 <a id="event-0957e54fece99aba"></a>
 
@@ -2929,6 +2899,22 @@ Tickets are available through the organizer's Mumbai ticket page. The city page 
 - Original page: <https://indiablockchainweek.com>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d2f31883102959e2"></a>
+
+## ShanHaiWoo Mumbai Devcon Extension
+
+- Record: `curated-shanhaiwoo-mumbai-extension-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-01
+- Description: Source-backed
+- Original page: <https://luma.com/47rm8enp>
+
+### About the event
+
+ShanHaiWoo announces a Mumbai Devcon extension from November 1 to 6, following its October 15 to 31 core program in Shenzhen. The Mumbai segment focuses on connections with global developers and technology communities during Devcon.
+
+The linked registration page covers the wider Global Builder Village program and lists Shenzhen as its main location. A Mumbai-specific venue and daily timetable have not been published. Accommodation and intercity transportation are not included in the program passes.
 
 <a id="event-98762cc73455f7a9"></a>
 
@@ -3201,6 +3187,22 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5ad60e8cb3f19fd2"></a>
+
+## Alchemy Meetings at Devcon Mumbai
+
+- Record: `curated-alchemy-devcon-meetings-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-03
+- Description: Source-backed
+- Original page: <https://www.alchemy.com/events/devcon-2026>
+
+### About the event
+
+Alchemy is accepting requests to meet its team during Devcon week in Mumbai, November 3 to 6. Use the organizer form to provide your name, email, company URL and what you would like help with. The team will arrange the meeting.
+
+This is a meeting-request opportunity, with no published session timetable or meeting venue. Alchemy says its additional side events will be announced once details are confirmed.
+
 <a id="event-f9a587c68b53731a"></a>
 
 ## Devcon 2026
@@ -3448,9 +3450,11 @@ The venue address is C.T.S. No. 215, Andheri Kurla Road, Andheri East, Mumbai, M
 
 ### About the event
 
-Bitcoin Amsterdam 2026 returns to SugarFactory for a gathering of Bitcoin builders, investors and other industry participants. The conference focuses on Bitcoin technology and adoption, alongside political and regulatory questions affecting Europe.
+Bitcoin Amsterdam takes place at SugarFactory on November 5 and 6, 2026. Its fifth edition brings together capital allocators, founders, developers and legislators. The organizer's explicitly labeled 2026 speaker list includes Jack Mallers of Strike, David Bailey of Nakamoto, Khing Oei of Treasury and Willem Middelkoop of Commodity Discovery Fund.
 
-General ticket and VIP options are available through the organizer. The website also displays past sponsors and speaker biographies; check the current agenda before treating those lists as a confirmed session lineup.
+The program includes stages, demos and workshops, private small-group roundtables, speed networking and an expo floor. Meetup of Meetups is scheduled on the expo floor on November 5. Attendees can also meet hiring companies and explore job opportunities.
+
+The Bitcoin for Corporations Symposium takes place the day before the main conference, with closed-door sessions on institutional adoption and treasury strategy. Check its separate registration rather than assuming it is included in a conference pass.
 
 <a id="event-5f74a11441d9e42a"></a>
 
@@ -3567,9 +3571,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-The National Bitcoin Office of El Salvador and CUBO+ organize Bitcoin Histórico in San Salvador. The two-day event includes activities across the city, with keynote speeches at the National Palace streamed to screens in Plaza Gerardo Barrios.
+The National Bitcoin Office of El Salvador and CUBO+ organize Bitcoin Histórico in San Salvador on November 11 and 12, 2026. Talks, workshops and other activities take place across the Centro Histórico, including the National Palace, National Theater, BINAES and Plaza Gerardo Barrios. Keynote speeches at the National Palace are streamed to giant screens in the plaza.
 
-The organizer's 2026 speaker list includes Max Keiser, Stacy Herbert, Jimmy Song, Giacomo Zucco, Saifedean Ammous and Pierre Rochard. Tickets and the current program are available through the official site.
+The organizer's 2026 speaker list includes Max Keiser, Stacy Herbert, Jimmy Song, Giacomo Zucco, Saifedean Ammous and Pierre Rochard. The main conference language is English, with Spanish translations for key sessions.
+
+Tickets are payable exclusively in Bitcoin. They are non-refundable but transferable through the organizer's contact form. Genesis Crown Pass holders receive priority speaker-networking opportunities; other attendees can participate in public Q&A and community meetups.
 
 <a id="event-66fb176a2bb6d0c2"></a>
 
@@ -3666,9 +3672,11 @@ The Delhi ticket link currently returns general tour information. The page does 
 
 ### About the event
 
-Solana Breakpoint 2026 takes place at Olympia Convention Centre in London. The conference brings together Solana builders and industry participants, including teams working on institutional uses of the network.
+Solana Breakpoint runs from November 15 to 17, 2026 at Olympia Convention Centre in London. The announced Token Supercycle theme covers stablecoins, tokenized assets, payments and AI-driven economic activity moving onchain. The audience includes financial institutions, technology companies, investors, policymakers and Solana builders.
 
-The organizer offers general-admission tickets and categories for developers and students. Surrounding events include Solana Hacker House London, Scale or Die and BlockZero, each with its own dates and registration. Consult the official Breakpoint agenda and ticket conditions before planning attendance.
+The current speaker list includes Anatoly Yakovenko of Solana Labs, Kash Dhanda of Jupiter, Alexandra Lang of Zelle, Andrew Price of xStocks and Payward, and Annabel Spring of Allfunds. General-admission, developer and student tickets have separate categories on the official registration page.
+
+Solana Hacker House London runs earlier, from November 1 to 12, and has its own registration. The Breakpoint site's Abu Dhabi recap describes the 2025 edition.
 
 <a id="event-73315e351d01a40a"></a>
 
@@ -3700,29 +3708,11 @@ The linked page currently presents the whole tour rather than a Jaipur program. 
 
 ### About the event
 
-Join us for the 6th Edition of ETHWomen, a free, female-focused, and inclusive event taking place on November 17-18, 2026.
+ETHWomen Florida is a free, female-focused and inclusive event on November 17 and 18, 2026 at Entice Nightclub inside the Seminole Hard Rock Hotel property. Its sixth edition welcomes all skill levels for speakers, hands-on learning and networking around blockchain, cryptocurrency, AI and DeFi.
 
-This event invites women to dive into the world of Web3 through an educational program featuring inspiring speakers, hands-on learning, and valuable networking opportunities.
+The organizer says ETHWomen participants also receive access to the second US edition of Blockchain Futurist Conference, which runs alongside it. Registration requires approval.
 
-Open to all skill levels, ETHWomen creates a welcoming space for women to explore blockchain technology, cryptocurrency, AI, DeFi, and more.
-
-Running alongside Blockchain Futurist Conference, all participants of ETHWomen will also get access to the 2nd US edition of Canada's Largest Web3 event.
-
-Register now to be part of the future!
-
-For more info go to: https://www.ethwomen.com/
-
- - IMPORTANT INFO--
-
-ETHWomen Location: Entice Nightclub
-
-ETHWomen Address: 1 Lucky St. Hollywood, Florida 33314
-
-When taking an uber select DAER Nightclub as your destination. This will take you to the 1 Lucky Street entrance located inside the Seminole Hard Rock Hotel.
-
-Free Parking is also available. Use the Lucky Street Garage located at 1 Lucky Street, Hollywood, Florida.
-
-This event is located inside the Seminole Hard Rock Hotel property, which is quite large. Please make your way to Entice Nightclub or DAER Nightclub and follow the event signage from there.
+For arrival, the organizer directs rideshare users to DAER Nightclub at the 1 Lucky Street entrance, then to follow event signs to Entice Nightclub. Free parking is available in the Lucky Street Garage. Check your registration confirmation for entry instructions.
 
 <a id="event-ed9a908c0ce606a6"></a>
 
@@ -3736,17 +3726,9 @@ This event is located inside the Seminole Hard Rock Hotel property, which is qui
 
 ### About the event
 
-The era of speculation is over. Blueprints reflects our collective mission to finalize the technical, energetic, and regulatory frameworks that will define North American leadership for decades to come. Attend NABS to get hands-on with the people securing our digital future and deploying the next generation of infrastructure.
+The Digital Infrastructure Network hosts North American Blockchain Summit under the theme Blueprints. This edition expands beyond digital assets to cover data centers and compute, AI, energy and the grid, quantum technologies, and the investment and policy supporting those systems.
 
-NABS is the conference for the leaders architecting the future of digital infrastructure. Focused on the core pillars of strategic infrastructure, capital, partnerships, and global leadership, the Summit convenes C-suite executives, policymakers, and innovators to secure and deploy the next generation of North American legacy.
-
-This is where the industry's blueprints are refined and the partnerships that drive global scale are solidified.Hosted by the Digital Infrastructure Network, the Summit provides an unprecedented look through the lens of a state bringing leadership to the global economy.
-
-This year, NABS is expanding into the full digital infrastructure conversation. Our focus includes data centers and compute, AI, energy and the grid, quantum technologies, Bitcoin and digital assets, and the capital and policy that support all of them.
-
-What ties those areas together is that none can develop in isolation. AI needs compute; compute needs power, cooling, and networks; emerging technologies need security, investment, and clear policy.
-
-We're bringing together the operators, technology leaders, investors, researchers, policymakers, and advisers working through those questions. We want people to leave with useful relationships, a clearer understanding of the challenges, and opportunities to move actual projects forward.
+The intended audience includes operators, technology leaders, investors, researchers, policymakers and advisers. Discussions examine how compute depends on power, cooling and networks, and how emerging infrastructure needs security, capital and regulatory frameworks. Bitcoin and digital assets remain part of that wider program. Consult the organizer's current agenda for individual sessions and confirmed speakers.
 
 <a id="event-601cfb7882340b87"></a>
 
@@ -3941,11 +3923,11 @@ Standard, Business and VIP passes have different inclusions. Check the official 
 
 ### About the event
 
-Global Trading Show 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. The expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.
+Global Trading Show takes place in Abu Dhabi on December 10 and 11, 2026. Presented by Times of Trading and organized by VAP Group, the expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.
 
-The announced programme includes an exhibition, main-stage talks, structured networking and strategy workshops. Registration is available through the official tickets page, with Standard, Business and VIP passes.
+The planned format combines an exhibition, main-stage discussions, structured networking and smaller strategy workshops with limited seats. The 2026 speaker list includes Christos Christou of Lulu Financial Holdings, Marcin Kaźmierczak of RedStone, Evgeny Gokhberg of Re7 Capital and Mahmoud Hamouda of Banque Misr.
 
-The event is presented by Times of Trading and organised by VAP Group.
+Standard, Business and VIP passes have different inclusions. Compare the official ticket options for workshop, meal and networking access; the detailed session timetable should be checked separately from the speaker list.
 
 <a id="event-b3688887bea35093"></a>
 
@@ -9087,13 +9069,13 @@ The October 15 listing starts at 22:30 Singapore time. Avenue's Thursday music p
 
 ### About the event
 
-Founder House Singapore 🇸🇬 is scheduled for 23 October 2026 at 09:30 (Asia/Singapore) in Singapore. Hosted by Arbitrum, Aditi Chopra.
+Arbitrum hosts Founder House Singapore from October 23 to 25, 2026 in collaboration with Robinhood Chain. This application-only, three-day program is for solo founders and teams with an existing product, prototype or business that can use Arbitrum. It follows a separate online Buildathon held from September 14 to October 4.
 
-Eligibility varies by track; the full Founder House prize pool is not limited to Robinhood Chain projects.
+Selected teams receive product, technical, go-to-market and fundraising guidance, workshops on Arbitrum tooling, and feedback from mentors and ecosystem participants. Come with an existing project to build a new feature or test a product assumption. Areas of interest include payments, stablecoins, tokenization, DeFi, AI agents, privacy applications and developer infrastructure.
 
-By attending, you grant the event organizer and its affiliates the right and permission to use and publish, in any media or format, for any lawful business purpose, your image, likeness, name, voice, and other identifying characteristics captured at the event, without compensation or liability.
+The organizer advertises US$300,000 in prizes and grants across several opportunities, including a US$120,000 General Builder Track, a US$60,000 Robinhood Chain Founder-in-Residence Award and a US$30,000 Robinhood Chain Innovation Award. Eligibility varies by track and most awards use milestone-based funding; attendance does not guarantee funding.
 
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+Applications are reviewed on a rolling basis for 120 places. The organizer says the Join Waitlist button is the application route for this screened program. Accepted participants receive logistics, meals and onsite support. The exact Singapore location is shared with approved guests.
 
 <a id="event-629c37644de8f77d"></a>
 
@@ -19063,6 +19045,8 @@ Infini3's Ready for the Run meetup in Lucknow carries the theme Trust, covering 
 
 The circuit is co-led by Raajeev Anand of TechHybr. See the organizer's registration page for current attendance details.
 
+Discussion topics are selected by the community through surveys on goinfini3.com. The organizer explicitly excludes panel discussions, keynotes, product demonstrations and company pitches from this edition's format.
+
 <a id="event-581a2298f97e9118"></a>
 
 ## Bitshala BOSS Summit 2026 \| Jaipur \| 26 Oct - 31 Oct
@@ -19191,6 +19175,8 @@ The Pune stop of Infini3's Ready for the Run series carries the theme Momentum. 
 
 The format combines community discussion, live polling and informal networking. Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's registration page for the current venue and admission details.
 
+The Pune edition names Dev Spark as its local community partner, a group of developers, students and innovators. The organizer lists it separately from the circuit's wider ecosystem partners.
+
 <a id="event-89c8a0266a009666"></a>
 
 ## Solana Summit India
@@ -19218,6 +19204,22 @@ Solana Summit India is a one-day program of talks, panels and workshops about th
 ### About the event
 
 Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.
+
+<a id="event-f1836482d782d78d"></a>
+
+## ArbiVerse Mumbai
+
+- Record: `india-luma-arbiverse-mumbai`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-02T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/arbiverse-mumbai>
+
+### About the event
+
+Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.
+
+The tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.
 
 <a id="event-f409b4f5059fe299"></a>
 
@@ -19684,73 +19686,23 @@ See you there!
 - Description: Source-backed
 - Original page: <https://luma.com/26fqf3hy>
 
-### Tencent Cloud AI CAN DO IT Hackathon Singapore 2026
+### About the event
 
-Co-hosted by Tencent Cloud and AI Singapore, the AI CAN DO IT Tencent Cloud Hackathon Singapore 2026 brings together industry expertise, leading AI technologies, and academic talent to empower the next generation of AI innovators.
+Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Participants build agentic AI solutions using Tencent Cloud products including CodeBuddy, WorkBuddy and Miora, responding to business challenges supplied by industry organizations.
 
-Participants will develop practical Agentic AI solutions using Tencent Cloud's latest AI products, including CodeBuddy, WorkBuddy and Miora, to tackle real world business challenges contributed by leading organizations across industries.
+### Challenge tracks
 
-This year's Hackathon features five industry tracks.
+- DBS: a Direct Conversational Transaction Agent for banking.
+- Keppel: AI HARVEST, turning expert knowledge into reusable intelligence.
+- Aspire: an internal enterprise knowledge system with role-based access control, security logging and an audit trail.
+- Ryde: a multi-agent autonomous dispute-resolution system.
+- NTU LKCMedicine: intelligent self-triage and care navigation, or support for long-term self-care.
 
-### Five Industry Tracks. Real Challenges. Real Impact
+### Timeline and awards
 
-Banking Track - DBS
+The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
-Challenge: Direct Conversational Transaction Agent (DCTA)
-
-Real Estate Track - Keppel
-
-Challenge: AI HARVEST - Turning Expert Know-How into Reusable Intelligence
-
-FinTech Track - Aspire
-
-Challenge: The Internal Brain - Building a Context-Aware Enterprise Knowledge System with RBAC, Security Logging & Audit Trail
-
-Digital Native Track - Ryde
-
-Challenge: Multi-Agent Autonomous Dispute Resolution System
-
-Healthcare Track - NTU LKCMedicine
-
-Challenge 1: AI Grandma Knows Best: Intelligent Self-Triage and Care Navigation
-
-Challenge 2: AI Healthier Every Day: Intelligent Support for Long-Term Self-Care
-
-Each track is supported by industry organizations contributing real-world challenge statements and participating in the evaluation and judging of solutions.
-
-From industry challenges to hands-on AI workshops and demos, participants will have the opportunity to build, experiment, and innovate with Tencent Cloud's AI technologies.
-
-### Hackathon Journey
-
-16 Sep - Kick-off Event
-
-16 Oct - Submission Deadline
-
-23 Oct - Finalists Announcement
-
-3 Nov - Demo Day
-
-### Prizes & Participant Benefits
-
-All participants will receive CodeBuddy and WorkBuddy credits to support their hackathon journey. Top-performing teams at the Demo Day will receive:
-
-First Prize - SGD 10,000
-
-Second Prize - SGD 5,000
-
-Third Prize - SGD 2,000
-
-Watch the Kick-off Livestream:
-
-YouTube: https://youtube.com/live/RFz_N8K2ZHA?feature=share
-
-Sign Up Your Team for the Hackathon:
-
-https://qdrl.qq.com/65xN1yft
-
-Submit Your Project
-
-https://tinyurl.com/TCHackathonSGProjectSubmission
+Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
 <a id="event-9735664a39e9bcbc"></a>
 
@@ -53374,15 +53326,19 @@ Organized by Personal. Venue: Publik Coffee Roasters, Publik Coffee Roasters, 97
 
 ### About the event
 
+This Kyoto gathering marks the anniversary of the Bitcoin white paper with two sessions: a Bitcoin study group from 13:30 to 15:00, followed by a discussion of cypherpunk history from 16:00 to 17:30. Everyone is welcome, and attendees may come and go between sessions. Nostr users can also register through the organizer's linked Nostr site.
+
+日本語の開催案内:
+
 どなたも参加歓迎！
 
 「東京ではなく京都で」をコンセプトにイベントを開催します。
 
 ビットコインのホワイトペーパの公開日にちなみ2部構成にてビットコイン勉強会とサイファーパンクの歴史を議論するイベントです。
 
-1部：ビットコイン勉強会　　　 13:30~15:00
+1部：ビットコイン勉強会 13:30~15:00
 
-2部：サイファーパンクトーク　16:00~17:30
+2部：サイファーパンクトーク 16:00~17:30
 
 出入り自由！ゆったりとした雰囲気で交流しましょう
 
@@ -53538,13 +53494,9 @@ The organizer describes a meetup for crypto traders, builders and creators. Its 
 
 ### About the event
 
-Hey! Get ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. https://discord.gg/vgt4M7jJfGHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.
+Superteam Canada's Community Call is a 30-minute online gathering on Discord, hosted by Simon, for people interested in Solana and the Canadian community. Attendees can ask questions and learn how to get involved.
 
-Join us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!
-
-### Event details
-
-Organized by Superteam Canada. The event takes place on November 5.
+The organizer's structured listing schedules November 5, 2026, from noon to 12:30 Toronto time, but its description still says July 3. Confirm the date through the organizer before joining. Discord: https://discord.gg/vgt4M7jJfG
 
 <a id="event-dbebf1c5328edd3d"></a>
 
@@ -53882,19 +53834,9 @@ We look forward to welcoming you in November!
 
 ### About the event
 
-More details to be shared soon.About Rayls
+Rayls hosts a community meetup in London on November 18, from 17:00 to 19:30 local time. It is part of the organizer's city meetup series for builders, partners and community members. Registration requires approval, and the exact venue is shared with registered guests.
 
-Rayls is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.
-
-Register to secure your spot and we'll share the venue with you straight away.
-
-### Event details
-
-Hosted by Rayls. (Bringing Finance Onchain.). The event takes place on November 18. Registration requires organizer approval.
-
-Doors open at 5:00 PM local time.
-
-Entry is free.
+Rayls works on financial-institution infrastructure combining private networks with an EVM-compatible public chain. The organizer has not yet published an agenda or speaker list for the London gathering.
 
 <a id="event-e8a23d94a0e6f9fa"></a>
 
@@ -54077,9 +54019,9 @@ Os temas anunciados incluem o impacto da inteligência artificial, blockchain e 
 
 ### About the event
 
-TechEmbassy hosts Finnovation Day alongside Money20/20 Asia, focused on APAC money movement across cross-border payments, banking and digital assets. Svitlanka Serhiichuk, TechEmbassy's FinTech Ambassador and Neofin co-founder, hosts the event in partnership with Future Finance Fest 3(f).
+TechEmbassy hosts Finnovation Day as part of its global fintech event series. Svitlanka Serhiichuk, TechEmbassy's FinTech Ambassador and Neofin co-founder, hosts the gathering in partnership with Future Finance Fest 3(f).
 
-The planned format includes an expert discussion, a company and technology showcase, and networking among financial institutions, fintech teams and other industry participants. The program is still in development; speakers and detailed sessions have not been announced.
+The planned format includes an expert discussion, a company and technology showcase, and networking among financial institutions, fintech companies and technology providers. The organizer says the central theme and program are still being developed with industry participants. Speakers and detailed sessions have not been announced.
 
 <a id="event-8cfc4701b5f824cc"></a>
 
@@ -73240,9 +73182,9 @@ Powered by Lost Art
 
 ### About the event
 
-Money20/20 USA brings together participants from banking, payments, technology, retail and fintech startups. The event combines industry talks and product discovery with meetings between companies, investors and potential partners.
+Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
 
-The organizer provides an attendee brochure, speaker information and pass options through its official site. Use the current agenda and registration pages to choose sessions and arrange meetings; sponsorship and exhibition participation are handled separately.
+Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
 
 <a id="event-8dae74092e03a2d9"></a>
 

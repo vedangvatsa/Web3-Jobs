@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-15T13:14:39.979Z",
+  "generatedAt": "2026-10-15T14:13:21.093Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3605,
+  "count": 3606,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -316,12 +316,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/ai-agents-space-yacht-fireside",
-      "lastmod": "2026-10-15",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/ai-and-web3-engineering-careers",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -456,6 +450,12 @@
     {
       "url": "https://hashtagweb3.com/alchemy",
       "lastmod": "2026-10-13",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/alchemy-devcon-meetings",
+      "lastmod": "2026-11-03",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -968,6 +968,12 @@
       "lastmod": "2026-10-06",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/arbiverse-mumbai",
+      "lastmod": "2026-11-02",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/arc",
@@ -13522,12 +13528,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/pm180",
-      "lastmod": "2026-09-15",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/pm181",
       "lastmod": "2026-09-29",
       "changefreq": "daily",
@@ -16471,6 +16471,12 @@
       "url": "https://hashtagweb3.com/shanghai",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/shanhaiwoo-mumbai-extension",
+      "lastmod": "2026-11-01",
+      "changefreq": "weekly",
       "priority": 0.6
     },
     {

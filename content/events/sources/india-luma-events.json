@@ -1697,5 +1697,74 @@
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
+  },
+  {
+    "name": "ArbiVerse Mumbai",
+    "startDate": "2026-11-02T05:00:00.000Z",
+    "endDate": "2026-11-02T13:00:00.000Z",
+    "description": "Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.\n\nThe tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/arbiverse-mumbai",
+    "coverImage": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "Arbitrum",
+      "Aditi Chopra"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Arbitrum"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/arbiverse-mumbai",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/arbiverse-mumbai",
+      "eventId": "evt-xrda0Zu3y25TDES",
+      "fetchedAt": "2026-10-15T14:02:54.200Z",
+      "method": "luma-page"
+    },
+    "id": "india-luma-arbiverse-mumbai",
+    "slug": "arbiverse-mumbai",
+    "url": "https://luma.com/arbiverse-mumbai",
+    "source": "luma-india",
+    "descriptionSource": {
+      "url": "https://luma.com/arbitrum-summit-mumbai",
+      "fetchedAt": "2026-10-15T14:02:54.200Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ArbiVerse Mumbai",
+      "sha256": "bc52bf04775c3d15932eba667aa991494c27b5537b6d64c5d730f11711b09e29",
+      "evidence": [
+        {
+          "url": "https://luma.com/arbitrum-summit-mumbai",
+          "fetchedAt": "2026-10-14T11:12:49.064Z",
+          "sha256": "caeb65ba578a01ae87e1bd1002ed1033df0e9f090ddcd0f70f9c2fc2e2d7e91a",
+          "representation": "html"
+        },
+        {
+          "url": "https://luma.com/arbiverse-mumbai",
+          "fetchedAt": "2026-10-15T14:02:54.200Z",
+          "sha256": "d5a317d202bd624708c9427771dc2a7b0a9ef7fd9ea673eb345e110b85b7c4e3",
+          "representation": "html"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "devcon",
+      "ibw"
+    ]
   }
 ]

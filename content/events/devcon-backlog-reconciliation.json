@@ -1,0 +1,1603 @@
+{
+  "reconciledAt": "2026-10-15T14:05:42.325Z",
+  "currentHead": "fcb00131c6adb400d4a1b97742282040dae89fd3",
+  "olderHead": "3a5d0a2ae030bb7b885f123b035ff42116bddba0",
+  "sourceReports": [
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/DEVCON_DIRECTORY_AUDIT.md",
+      "sha256": "c0e4ae45b0652faf4f74503000b78339a74cefd4c6595da208de737804db151a"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/SHORT_CONTENT_AUDIT.md",
+      "sha256": "da93cef43a100f1aba6d3b028fcf766b9825337518442bbd511b50646dd49c7e"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/devcon-directory-audit.json",
+      "sha256": "fd1f0609cb1e6aa6ebbc0101ac481b99036c66f5fd6d1859fa2d1fd6dc19ed45"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/devcon-directory-primary-evidence.json",
+      "sha256": "b1759bf726f209c4cd71b52aac2ebb21c8fd59169757b39140c3b46e76eea55d"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/short-content-audit.json",
+      "sha256": "e876462beec32a9f7c43badcbd96bc089b53b1d19227425df2a03fb5c3b7872b"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/short-content-baseline.json",
+      "sha256": "91ec9ef0c2907e286d1bc0605d91212580e164a916f727c6b6c7aecf224b9fc0"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/short-content-primary-evidence.json",
+      "sha256": "23d26234f25575776647511d420e560a35ea42ea7771028999f3102590f7fcfa"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/short-content-revisions.json",
+      "sha256": "a400f740b61e8e96997b44525aef55f8622cea93143b997cd997a9352119d7e2"
+    },
+    {
+      "path": "/Users/vedang/ZCodeProject/Web3-Jobs-devcon-directory/content/events/short-content-validation.json",
+      "sha256": "d3368cf17ccc179d2a75fff3a43cba833e0810e772f27093fcfbd0d54ac9db07"
+    }
+  ],
+  "descriptionRows": [
+    {
+      "id": "luma-batch-evtxsQpQLAW6ikXL",
+      "slug": "privacy-technology-bitcoin",
+      "olderSlug": "privacy-technology-bitcoin",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Japanese copy already contains a substantive agenda; add an English translation for directory readers while retaining the original. Whitespace words are not a valid measure of Japanese content.",
+      "baselineHash": "2ecd86eecf7fddfec52861c203e1ff3cffe3d3ac3045eff90f7fcf9ae367e5d9",
+      "currentHash": "2ecd86eecf7fddfec52861c203e1ff3cffe3d3ac3045eff90f7fcf9ae367e5d9",
+      "olderHash": "e1eaf645f6db7c93b8f1b24fe170d1f8ba9411a4727ff5a04dcb659cef81bc5a",
+      "proposedHash": "e1eaf645f6db7c93b8f1b24fe170d1f8ba9411a4727ff5a04dcb659cef81bc5a",
+      "currentSource": null,
+      "olderSource": {
+        "url": "https://luma.com/fd2jiski",
+        "fetchedAt": "2026-10-14T11:49:50.261Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Privacy,Technology,and Bitcoin",
+        "sha256": "e1eaf645f6db7c93b8f1b24fe170d1f8ba9411a4727ff5a04dcb659cef81bc5a",
+        "evidence": [
+          {
+            "url": "https://luma.com/fd2jiski",
+            "fetchedAt": "2026-10-14T11:49:50.261Z",
+            "sha256": "0004a8d48d1420081fa6f54acb753c5dd177a21277f8e4888a383efc2e807b3c"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/fd2jiski",
+          "resolvedUrl": "https://luma.com/fd2jiski",
+          "checkedAt": "2026-10-14T11:49:50.261Z",
+          "status": 200,
+          "sha256": "0004a8d48d1420081fa6f54acb753c5dd177a21277f8e4888a383efc2e807b3c",
+          "title": "Privacy,Technology,and Bitcoin · Luma",
+          "descriptions": [
+            "どなたも参加歓迎！\n「東京ではなく京都で」をコンセプトにイベントを開催します。\n\nビットコインのホワイトペーパの公開日にちなみ2部構成にてビットコイン勉強会とサイファーパンクの歴史を議論するイベントです。\n1部：ビットコイン勉強会　　　 13:30~15:00\n\n2部：サイファーパンクトーク　16:00~17:30\n\n出入り自由！ゆったりとした雰囲気で交流しましょう\n\nNostr民は以下のサイトより参加登録可能\nhttps://npub1lg9whpm99hhaghtqf7qdku44ypdm0e7lvfcdmvzcz0ckzxpjx3lsp5htk4.nsite.run/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india-luma-li3sv90r",
+      "slug": "shaktipith-women-residency",
+      "olderSlug": "shaktipith-women-residency",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "7d1281099c11a5bc64920ffa2f5b09039a6220c834f7266cb2995d5c70fbed3b",
+      "currentHash": "5b6ccf3ecbfade07311d8467491d42cca487579c7332740809f63b0d4a72e163",
+      "olderHash": "e91a9fcf4d4cee8eeca3f135534eee3d025ff4f7cf393f0be2f63c78cb1b24f9",
+      "proposedHash": "5b6ccf3ecbfade07311d8467491d42cca487579c7332740809f63b0d4a72e163",
+      "currentSource": {
+        "url": "https://luma.com/li3sv90r",
+        "fetchedAt": "2026-10-15T08:57:01.191Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Shaktipith - Women only residency",
+        "sha256": "5b6ccf3ecbfade07311d8467491d42cca487579c7332740809f63b0d4a72e163",
+        "evidence": [
+          {
+            "url": "https://luma.com/li3sv90r",
+            "fetchedAt": "2026-10-15T08:48:25.042Z",
+            "sha256": "1b79cc3a33cb559b1adcdb50b5251b0fc45fcab3aab581d6bde562485687b4b4",
+            "representation": "html"
+          },
+          {
+            "url": "https://shakti.web3events.in/",
+            "fetchedAt": "2026-10-15T08:57:01.191Z",
+            "sha256": "c298a5168ac5b773de4fe6a685869d56674138fa7f250427063eadf77e0dc39e",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/li3sv90r",
+        "fetchedAt": "2026-10-14T11:49:55.597Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Shaktipith - Women only residency",
+        "sha256": "e91a9fcf4d4cee8eeca3f135534eee3d025ff4f7cf393f0be2f63c78cb1b24f9",
+        "evidence": [
+          {
+            "url": "https://luma.com/li3sv90r",
+            "fetchedAt": "2026-10-14T11:49:55.597Z",
+            "sha256": "eb98fc56aeb6c3ce2ac1f4e5fbd6d7f5277fddf5be1e214445bf8ca740448d9c"
+          },
+          {
+            "url": "https://shakti.web3events.in/",
+            "fetchedAt": "2026-10-14T11:53:02.763Z",
+            "sha256": "c298a5168ac5b773de4fe6a685869d56674138fa7f250427063eadf77e0dc39e"
+          }
+        ]
+      },
+      "proof": []
+    },
+    {
+      "id": "premier-ibt-mumbai-2026",
+      "slug": "india-blockchain-ai-tour-mumbai",
+      "olderSlug": "ibt-mumbai",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "e3b73bb132527302db17f972457f676bc0545c13c70d0c8ec55c4fb4f04261d4",
+      "currentHash": "60cbbb11bac89980ed8e8420ce1637691750cbe6cacb46b51a6d3a083f443c70",
+      "olderHash": "0b3862afede5431ccf6b1c94f9e384ffadf5cbbfef8ec76dbfc2463a54b10a40",
+      "proposedHash": "60cbbb11bac89980ed8e8420ce1637691750cbe6cacb46b51a6d3a083f443c70",
+      "currentSource": {
+        "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+        "fetchedAt": "2026-10-15T08:56:00.428Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "India Blockchain & AI Tour 2026 - Mumbai",
+        "sha256": "60cbbb11bac89980ed8e8420ce1637691750cbe6cacb46b51a6d3a083f443c70",
+        "evidence": [
+          {
+            "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+            "fetchedAt": "2026-10-15T08:48:21.945Z",
+            "sha256": "5393ff88d527e5b859b1ff70f8e9acbe0a3b850d41b9a57f2463c68741eaa16a",
+            "representation": "html"
+          },
+          {
+            "url": "https://indiablockchaintour.com/2026-nodes/mumbai",
+            "fetchedAt": "2026-10-15T08:56:00.428Z",
+            "sha256": "5d807588befe73405ca41ef06bca8647cf3bb69e58eac4dedef3c5206dc0ce7d",
+            "representation": "html"
+          },
+          {
+            "url": "https://indiablockchaintour.com/",
+            "fetchedAt": "2026-10-15T08:48:23.510Z",
+            "sha256": "bc353148af4e2c68ef1630811b9bdb0158b34dadb2c40147b788a95e5c4bb6e7",
+            "representation": "html"
+          },
+          {
+            "url": "https://indiablockchaintour.com/2026-nodes/mumbai/ticket",
+            "fetchedAt": "2026-10-15T08:48:22.555Z",
+            "sha256": "bd991a8ee5216c5b5b7c527793d005506efb0ce7fad8eb0d1eb6ceec2fe1c35f",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+        "fetchedAt": "2026-10-14T11:49:51.544Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "India Blockchain & AI Tour 2026 - Mumbai",
+        "sha256": "0b3862afede5431ccf6b1c94f9e384ffadf5cbbfef8ec76dbfc2463a54b10a40",
+        "evidence": [
+          {
+            "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+            "fetchedAt": "2026-10-14T11:49:51.544Z",
+            "sha256": "992681202151814caf40158252bf4b340ffccfdbc8aa9c7cb4ff8dafdb82d11d"
+          },
+          {
+            "url": "https://indiablockchaintour.com/2026-nodes/mumbai",
+            "fetchedAt": "2026-10-14T11:53:02.691Z",
+            "sha256": "af55bebcd6fcc622f0a137a9dd853acd3bcea5ef9abd597d9ccc3cf1e948b594"
+          },
+          {
+            "url": "https://indiablockchaintour.com/",
+            "fetchedAt": "2026-10-14T11:49:40.160Z",
+            "sha256": "93ac972b8925ea7b59a0ee13c1d7fc1d6a63bb192b125cc02d72f0b1841bd2c9"
+          }
+        ]
+      },
+      "proof": []
+    },
+    {
+      "id": "india-luma-2kj0jqf9",
+      "slug": "sidequest-happy-hour",
+      "olderSlug": "sidequest-happy-hour",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "ae61188a30764d81cf2718028f814692f84808ba3f6456b024ad0d02f6fc4a21",
+      "currentHash": "cf898be77ac781e979ad2cb2e2bba296ab246c1bbc1a56be97db8af248b88550",
+      "olderHash": "b7eafbe8728eaa27d5890366ad83a081308b6937727521ecce505896b6030a5e",
+      "proposedHash": "cf898be77ac781e979ad2cb2e2bba296ab246c1bbc1a56be97db8af248b88550",
+      "currentSource": {
+        "url": "https://luma.com/2kj0jqf9",
+        "fetchedAt": "2026-10-15T08:57:08.027Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Sidequest: Happy Hour",
+        "sha256": "cf898be77ac781e979ad2cb2e2bba296ab246c1bbc1a56be97db8af248b88550",
+        "evidence": [
+          {
+            "url": "https://luma.com/2kj0jqf9",
+            "fetchedAt": "2026-10-15T08:48:33.889Z",
+            "sha256": "85c899eb832dc951dc2b0febd273b6462eef992f22ef6acea9784ff05f4250e2",
+            "representation": "html"
+          },
+          {
+            "url": "https://luma.com/SidequestMumbai?k=c",
+            "fetchedAt": "2026-10-15T08:57:08.027Z",
+            "sha256": "2b9c1a6e29ebc690ec46b94ff13976bf9598bb7b868a68aa9063d85906a1e2b1",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/2kj0jqf9",
+        "fetchedAt": "2026-10-14T11:50:02.217Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Sidequest: Happy Hour",
+        "sha256": "b7eafbe8728eaa27d5890366ad83a081308b6937727521ecce505896b6030a5e",
+        "evidence": [
+          {
+            "url": "https://luma.com/2kj0jqf9",
+            "fetchedAt": "2026-10-14T11:50:02.217Z",
+            "sha256": "4694b546d8c0bab6ac50fc35dc3ff0171fdb9307b8988bde46da11b11abacaad"
+          }
+        ]
+      },
+      "proof": []
+    },
+    {
+      "id": "ma-money-20-20-usa",
+      "slug": "money2020-usa",
+      "olderSlug": "money2020-usa",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Current primary homepage supplies specific topics, named speakers and meeting access.",
+      "baselineHash": "c337001d2aa91c5cd209dbaeb91a2de5fc294b6e1199efdc1ea58e939d0e27b5",
+      "currentHash": "c337001d2aa91c5cd209dbaeb91a2de5fc294b6e1199efdc1ea58e939d0e27b5",
+      "olderHash": "1c12dbb0225562c76a9f4d2e92530cc747b7417ed68acea5c4ee34bb92df5921",
+      "proposedHash": "1c12dbb0225562c76a9f4d2e92530cc747b7417ed68acea5c4ee34bb92df5921",
+      "currentSource": {
+        "url": "https://us.money2020.com/",
+        "fetchedAt": "2026-10-12T11:25:08.262Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Money20/20 USA",
+        "sha256": "c337001d2aa91c5cd209dbaeb91a2de5fc294b6e1199efdc1ea58e939d0e27b5",
+        "evidence": [
+          {
+            "url": "https://us.money2020.com/",
+            "fetchedAt": "2026-10-12T11:25:08.262Z",
+            "sha256": "32f99a73b0b50c432cb714eeb338cbf7b93a4f61c340c0cb96157298810f1488",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://us.money2020.com/",
+        "fetchedAt": "2026-10-14T11:49:39.278Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Money20/20 USA",
+        "sha256": "1c12dbb0225562c76a9f4d2e92530cc747b7417ed68acea5c4ee34bb92df5921",
+        "evidence": [
+          {
+            "url": "https://us.money2020.com/",
+            "fetchedAt": "2026-10-14T11:49:39.278Z",
+            "sha256": "0b4024b01aae6525df49a77f2414ad95dd2aa8a4bc45ded2f5661fef72992aec"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://us.money2020.com/",
+          "resolvedUrl": "https://us.money2020.com/",
+          "checkedAt": "2026-10-14T11:49:39.278Z",
+          "status": 200,
+          "sha256": "0b4024b01aae6525df49a77f2414ad95dd2aa8a4bc45ded2f5661fef72992aec",
+          "title": "Money20/20 USA in Las Vegas | October 18-21, 2026",
+          "descriptions": [
+            "## TIME'S RUNNING OUT TO JOIN USA's #1 Fintech Event\n\n## Our Latest Show Updates\n\n## THE STRATEGIC INSIGHTS YOU'LL LEARN.\n\n## THE LEADERS YOU'LL DO BUSINESS WITH.\n\n## ALL THE WAYS YOU WILL NETWORK HERE.\n\n## MEET WITH FINTECH'S BIGGEST BRANDS\n\n## Now Live: Money20/20 Connect. Book Your Meetings Today.\n\nIt's time to book your 1:1 meetings with the leaders, investors, and innovators who can grow your business! Access Money20/20 Connect now by downloading the app or on your web browser to set yourself up for success.\n\n## Why Join Money20/20 USA?\n\nMoney20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:\n\n• Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.\n\n• Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.\n\n• Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.\n\n• Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top industry speakers.\n\n## Get 1:1 Access to Fintech's Most Influential Leaders\n\n## Download Our Attendee Brochure\n\nThis just in! Everything you need to know about why Money20/20 USA is where you come to grow your business.\n\n## Get The Latest Insights From Top Industry Experts\n\nGet real, actionable insights and takeaways from cross-sector industry experts.\n\n## Hear What Your Fintech Community Is Saying\n\n## Meet Leading Banks, These Attendees Did.\n\n\"I met the head of Discover's Network\", \" I met the engineering director at EQ bank\", \"I met one of the large U.S. banks.\"\n\n## Meet Payment Pros, These Attendees Did.\n\nPlus, how many meetings are attendees having? This is what they they had to say.\n\n## Quick! One Sentence To Describe Money20/20.\n\n## How Money20/20 USA Delivers Value for You\n\n## Top-Tier Content\n\n## Strategic Networking\n\n## The Latest Innovations\n\n## Quality Attendees\n\n## The Speakers\n\n## Industry Recognition\n\n## Ready To Join Money20/20 USA? Of Course You Are!\n\n## Get Your Pass Now\n\nJoin 1 in 3 C-Suite leaders at fintech's #1 event in Las Vegas October 18-21, 2026. Get ready to accelerate deals and build game-changing partnerships.\n\n## Explore Sponsorship\n\nAmplify your brand presence and maximize ROI with curated sponsorship packages based on your business goals. Explore your options today.\n\n## What could take a month or two over Zoom - to really connect with people - at Money20/20 you’re able to do it in person, quickly, in a very efficient way. It’s that awesome in person energy that drives our deal flow.\n\n## Alexandra Genovese\n\n## Join Where Money Does Business Now"
+          ]
+        },
+        {
+          "url": "https://us.money2020.com/agenda/agenda",
+          "resolvedUrl": "https://us.money2020.com/agenda/agenda",
+          "checkedAt": "2026-10-14T11:55:49.155Z",
+          "status": 200,
+          "sha256": "c32783232f6100531a99659c69b0d5bfb9cc7147f97c14261c47605c88996894",
+          "title": "2026 Agenda | Money20/20 USA",
+          "descriptions": [
+            "Get the latest insights on Agentic AI, Banking, Fraud, FaaS, Payments, Regulation, Retail & more."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-bitcoin-amsterdam-2026",
+      "slug": "bitcoin-amsterdam",
+      "olderSlug": "bitcoin-amsterdam",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Primary page now explicitly distinguishes 2026 speakers and names practical program formats.",
+      "baselineHash": "b7f661d9005b95ecb211b784adcd71016321a1d08c5c919e0094074941295dd1",
+      "currentHash": "b7f661d9005b95ecb211b784adcd71016321a1d08c5c919e0094074941295dd1",
+      "olderHash": "671db22067f1392dcb7b223f4d81ad740c6660b97ed739333e3c2d7419dbc1f1",
+      "proposedHash": "671db22067f1392dcb7b223f4d81ad740c6660b97ed739333e3c2d7419dbc1f1",
+      "currentSource": {
+        "url": "https://www.bitcoin.amsterdam/",
+        "fetchedAt": "2026-10-12T11:25:23.356Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Bitcoin Amsterdam 2026",
+        "sha256": "b7f661d9005b95ecb211b784adcd71016321a1d08c5c919e0094074941295dd1",
+        "evidence": [
+          {
+            "url": "https://www.bitcoin.amsterdam/",
+            "fetchedAt": "2026-10-12T11:25:23.356Z",
+            "sha256": "42430b9e75ed4ac838741ae480b06ef7150b08066990d5a169a3aa9f34bee33f",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://www.bitcoin.amsterdam/",
+        "fetchedAt": "2026-10-14T11:50:09.942Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Bitcoin Amsterdam 2026",
+        "sha256": "671db22067f1392dcb7b223f4d81ad740c6660b97ed739333e3c2d7419dbc1f1",
+        "evidence": [
+          {
+            "url": "https://www.bitcoin.amsterdam/",
+            "fetchedAt": "2026-10-14T11:50:09.942Z",
+            "sha256": "9f34f375de9800ee597bca86d57bb7cf8451f784a2b9e78a9f770bc440694c35"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://www.bitcoin.amsterdam/",
+          "resolvedUrl": "https://www.bitcoin.amsterdam/",
+          "checkedAt": "2026-10-14T11:50:09.942Z",
+          "status": 200,
+          "sha256": "9f34f375de9800ee597bca86d57bb7cf8451f784a2b9e78a9f770bc440694c35",
+          "title": "Bitcoin Amsterdam 2026 | Nov 5-6, SugarFactory, Amsterdam",
+          "descriptions": [
+            "Bitcoin Amsterdam brings together the global Bitcoin community for talks, networking, and experiences in Amsterdam."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-bitcoinhistorico",
+      "slug": "bitcoin-historico",
+      "olderSlug": "bitcoin-historico",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Primary FAQ adds languages, payment and transfer conditions, and named public venues.",
+      "baselineHash": "19d8738d5b68b3488bf5dd3bcef8fcd42491c266dd44f9a4dfa97ad9bd03e8eb",
+      "currentHash": "19d8738d5b68b3488bf5dd3bcef8fcd42491c266dd44f9a4dfa97ad9bd03e8eb",
+      "olderHash": "8b6e756c84a6a2dcfb93aee6eec9085cb34ec9fd5e5970cf2921cf43cdfd06fc",
+      "proposedHash": "8b6e756c84a6a2dcfb93aee6eec9085cb34ec9fd5e5970cf2921cf43cdfd06fc",
+      "currentSource": {
+        "url": "https://bitcoinhistorico.com/",
+        "fetchedAt": "2026-10-12T11:25:25.501Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Bitcoin Histórico 2026",
+        "sha256": "19d8738d5b68b3488bf5dd3bcef8fcd42491c266dd44f9a4dfa97ad9bd03e8eb",
+        "evidence": [
+          {
+            "url": "https://bitcoinhistorico.com/",
+            "fetchedAt": "2026-10-12T11:25:25.501Z",
+            "sha256": "0d71a33911d41401f8ec4304b2d351b71ff988551017b3945f5f1ee2d15f2441",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://bitcoinhistorico.com/",
+        "fetchedAt": "2026-10-14T11:50:13.011Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Bitcoin Histórico 2026",
+        "sha256": "8b6e756c84a6a2dcfb93aee6eec9085cb34ec9fd5e5970cf2921cf43cdfd06fc",
+        "evidence": [
+          {
+            "url": "https://bitcoinhistorico.com/",
+            "fetchedAt": "2026-10-14T11:50:13.011Z",
+            "sha256": "780055970e09f8579b8e79f8968f24cada71e35182feb244a26d5f886e867a86"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://bitcoinhistorico.com/",
+          "resolvedUrl": "https://bitcoinhistorico.com/",
+          "checkedAt": "2026-10-14T11:50:13.011Z",
+          "status": 200,
+          "sha256": "780055970e09f8579b8e79f8968f24cada71e35182feb244a26d5f886e867a86",
+          "title": "Home - Bitcoin Histórico",
+          "descriptions": [
+            "## A Conference by the National Bitcoin Office of El Salvador\n\nBitcoin Histórico celebrates financial freedom in the heart of San Salvador, itself the living example of the liberation of the people of El Salvador. Participate in two days of immersive activities across the landmarks of our capital.\n\n## National Palace\n\nKeynote speeches live-streamed to giant LED screens on Plaza Gerardo Barrios\n\n## Speakers 2026\n\n## Main Stage\n\n## Max Keiser\n\n## Stacy Herbert\n\n## Jimmy Song\n\n## Giacomo Zucco\n\n## Saifedean Ammous\n\n## Pierre Rochard\n\n## Knut Svanholm\n\n## Jon Atack\n\n## Lina Seiche\n\n## Fadi Elsalameen\n\n## Milena Mayorga\n\n## Isabella Santos\n\n## Julian Liniger\n\n## Seb Gouspillou\n\n## Roman Martínez\n\n## Eric Yakes\n\n## Gerson Martinez\n\n## Katie Ananina\n\n## George McBride\n\n## Pamela Posada\n\n## Bitstein\n\n## Tom Taber\n\n## Nelson Inno\n\n## Adam Nili\n\n## Parker Lewis\n\n## Efrat Fenigson\n\n## Adam O\n\n## Aaron Murphy\n\n## Mike Peterson\n\n## Michael Ruiz\n\n## Michelle Weekley\n\n## Nacho Pauls\n\n## Viktor Ihnatiuk\n\n## Luca Esposito\n\n## Juan Diego Sol\n\n## Mike Germano\n\n## Mir Liponi\n\n## Birkan Kayadibi\n\n## Aleks Svetski\n\n## Marc Seal\n\n## Bob McDonell\n\n## Julián Figueroa\n\n## Beau Turner\n\n## Bruno Vaccotti\n\n## Francis Mars\n\n## Terence Michael\n\n## Ronny Avendaño\n\n## Tickets\n\n## Sponsors\n\n## The Team\n\n## Bitcoin Office & CUBO+\n\nBitcoin Histórico is put together by the National Bitcoin Office and CUBO+, the team behind Bitcoin education in El Salvador. They built the conference, and they are the ones who will meet you at the door.\n\n## FAQ\n\nBitcoin Histórico is a two-day conference (11–12 November 2026) organized by the National Bitcoin Office of El Salvador. It celebrates Bitcoin, financial freedom, and El Salvador’s transformation, featuring talks, workshops, and immersive experiences across San Salvador’s historic landmarks.\n\nThe conference takes place at multiple venues in the Centro Histórico of San Salvador, including the National Palace, National Theater, BINAES, and Plaza Gerardo Barrios (with giant LED screens for live broadcasts).\n\nYes, keynote speeches will be streamed to giant LED screens on Plaza Gerardo Barrios.\n\nThe main conference language is English, with Spanish translations provided for key sessions.\n\nYes. El Salvador is the safest country in the Western Hemisphere. The Centro Histórico is vibrant and secure and an emerging tourist destination.\n\nGenesis Crown Pass holders get priority networking opportunities with keynote speakers. Other attendees can participate in public Q&A sessions and community meet-ups.\n\nCentro Histórico is easily accessible by car, Uber, public transportation, and local taxis.\n\nYes, we exclusively accept Bitcoin payments for all ticket types.\n\nTickets are non-refundable but transferable. To transfer your ticket to another person, please get in touch via our contact form.\n\n## Join the Renaissance.\n\n## Contact"
+          ]
+        },
+        {
+          "url": "https://bitcoinhistorico.com",
+          "resolvedUrl": "https://bitcoinhistorico.com/",
+          "checkedAt": "2026-10-14T11:50:15.583Z",
+          "status": 200,
+          "sha256": "780055970e09f8579b8e79f8968f24cada71e35182feb244a26d5f886e867a86",
+          "title": "Home - Bitcoin Histórico",
+          "descriptions": [
+            "## A Conference by the National Bitcoin Office of El Salvador\n\nBitcoin Histórico celebrates financial freedom in the heart of San Salvador, itself the living example of the liberation of the people of El Salvador. Participate in two days of immersive activities across the landmarks of our capital.\n\n## National Palace\n\nKeynote speeches live-streamed to giant LED screens on Plaza Gerardo Barrios\n\n## Speakers 2026\n\n## Main Stage\n\n## Max Keiser\n\n## Stacy Herbert\n\n## Jimmy Song\n\n## Giacomo Zucco\n\n## Saifedean Ammous\n\n## Pierre Rochard\n\n## Knut Svanholm\n\n## Jon Atack\n\n## Lina Seiche\n\n## Fadi Elsalameen\n\n## Milena Mayorga\n\n## Isabella Santos\n\n## Julian Liniger\n\n## Seb Gouspillou\n\n## Roman Martínez\n\n## Eric Yakes\n\n## Gerson Martinez\n\n## Katie Ananina\n\n## George McBride\n\n## Pamela Posada\n\n## Bitstein\n\n## Tom Taber\n\n## Nelson Inno\n\n## Adam Nili\n\n## Parker Lewis\n\n## Efrat Fenigson\n\n## Adam O\n\n## Aaron Murphy\n\n## Mike Peterson\n\n## Michael Ruiz\n\n## Michelle Weekley\n\n## Nacho Pauls\n\n## Viktor Ihnatiuk\n\n## Luca Esposito\n\n## Juan Diego Sol\n\n## Mike Germano\n\n## Mir Liponi\n\n## Birkan Kayadibi\n\n## Aleks Svetski\n\n## Marc Seal\n\n## Bob McDonell\n\n## Julián Figueroa\n\n## Beau Turner\n\n## Bruno Vaccotti\n\n## Francis Mars\n\n## Terence Michael\n\n## Ronny Avendaño\n\n## Tickets\n\n## Sponsors\n\n## The Team\n\n## Bitcoin Office & CUBO+\n\nBitcoin Histórico is put together by the National Bitcoin Office and CUBO+, the team behind Bitcoin education in El Salvador. They built the conference, and they are the ones who will meet you at the door.\n\n## FAQ\n\nBitcoin Histórico is a two-day conference (11–12 November 2026) organized by the National Bitcoin Office of El Salvador. It celebrates Bitcoin, financial freedom, and El Salvador’s transformation, featuring talks, workshops, and immersive experiences across San Salvador’s historic landmarks.\n\nThe conference takes place at multiple venues in the Centro Histórico of San Salvador, including the National Palace, National Theater, BINAES, and Plaza Gerardo Barrios (with giant LED screens for live broadcasts).\n\nYes, keynote speeches will be streamed to giant LED screens on Plaza Gerardo Barrios.\n\nThe main conference language is English, with Spanish translations provided for key sessions.\n\nYes. El Salvador is the safest country in the Western Hemisphere. The Centro Histórico is vibrant and secure and an emerging tourist destination.\n\nGenesis Crown Pass holders get priority networking opportunities with keynote speakers. Other attendees can participate in public Q&A sessions and community meet-ups.\n\nCentro Histórico is easily accessible by car, Uber, public transportation, and local taxis.\n\nYes, we exclusively accept Bitcoin payments for all ticket types.\n\nTickets are non-refundable but transferable. To transfer your ticket to another person, please get in touch via our contact form.\n\n## Join the Renaissance.\n\n## Contact"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-breakpoint-2026",
+      "slug": "solana-breakpoint",
+      "olderSlug": "solana-breakpoint",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Fresh primary page identifies actual themes and speaker names, separate from sponsor lists and 2025 recap.",
+      "baselineHash": "9297a943df4a18747fc161fd7c7605b9b1b341286e65b2358b19fc6b3d1fdd10",
+      "currentHash": "9297a943df4a18747fc161fd7c7605b9b1b341286e65b2358b19fc6b3d1fdd10",
+      "olderHash": "dc4b766269b5d50d764f9157afaac0b7ddc53ed277fac14dd89483e4fac22e50",
+      "proposedHash": "dc4b766269b5d50d764f9157afaac0b7ddc53ed277fac14dd89483e4fac22e50",
+      "currentSource": {
+        "url": "https://solana.com/breakpoint",
+        "fetchedAt": "2026-10-12T11:25:27.425Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Solana Breakpoint 2026",
+        "sha256": "9297a943df4a18747fc161fd7c7605b9b1b341286e65b2358b19fc6b3d1fdd10",
+        "evidence": [
+          {
+            "url": "https://solana.com/breakpoint",
+            "fetchedAt": "2026-10-12T11:25:27.425Z",
+            "sha256": "76f1c88254003f460750671b9e7d5899994d28e7ddd4a8e4f6f0108dfa33a95e",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://solana.com/breakpoint",
+        "fetchedAt": "2026-10-14T11:50:15.399Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Solana Breakpoint 2026",
+        "sha256": "dc4b766269b5d50d764f9157afaac0b7ddc53ed277fac14dd89483e4fac22e50",
+        "evidence": [
+          {
+            "url": "https://solana.com/breakpoint",
+            "fetchedAt": "2026-10-14T11:50:15.399Z",
+            "sha256": "f15c585bc157bf975200f48896871c9a185fe64e6af2f7b38e4c1fa2b68c9b80"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://solana.com/breakpoint",
+          "resolvedUrl": "https://solana.com/breakpoint",
+          "checkedAt": "2026-10-14T11:50:15.399Z",
+          "status": 200,
+          "sha256": "f15c585bc157bf975200f48896871c9a185fe64e6af2f7b38e4c1fa2b68c9b80",
+          "title": "Breakpoint 2026: Solana Conference | London Nov 15–17",
+          "descriptions": [
+            "## The Token Supercycle Is Here\n\n## Tickets\n\n## General Admission\n\n## Developers\n\n## Students\n\n## Late Bird\n\n## Find ways to take part\n\n## Why Breakpoint\n\nLast year, J.P. Morgan, Goldman Sachs, BlackRock, State Street, and Citigroup all deployed production capital on Solana. At Breakpoint, the teams behind these integrations share what's next - and what they need from builders.\n\n• Alexandra LangZelleVP, Digital Assets Partnerships & Strategy\n\n• Andrew PricexStocks | PaywardDirector, xStocks & Exchange Partnerships\n\n## Highlights from Solana builders at Breakpoint\n\n## Latest announcements\n\n• EventsSolana Hacker House London: Nov 1 - 12 ↗(opens in a new tab)\n\n## FAQ\n\nBreakpoint 2026 will take place at Olympia Convention Centre in London."
+          ]
+        },
+        {
+          "url": "https://luma.com/breakpoint2026",
+          "resolvedUrl": "https://luma.com/breakpoint2026",
+          "checkedAt": "2026-10-14T11:55:51.322Z",
+          "status": 200,
+          "sha256": "f7a65d3512437b0853d8b963cfb783b9aa78195a650a711145174abc666e35dd",
+          "title": "Solana Breakpoint 2026 · Luma",
+          "descriptions": [
+            "Breakpoint 2026 brings together the leaders, builders, investors, institutions, and creators shaping the future of the Solana ecosystem. Designed as a high-signal gathering, the event creates space for meaningful connections, new ideas, and the unveiling of products and technologies pushing the network forward. Attendees will experience a curated program of keynotes, lightning talks, debates, workshops, and networking designed to spark collaboration and accelerate the next phase of growth across the ecosystem.\n\nBreakpoint 2026 will take place November 15 -17 at Olympia London, bringing the global Solana community to one of the world’s most influential financial centers. London sits at the intersection of global capital. It is where money is accumulated, structured, legitimized, and redeployed, home to family offices, sovereign wealth funds, hedge funds, commodity traders, private credit firms, insurers, and the legal and financial infrastructure that connects markets across continents.\n\nLondon sits at the intersection of global capital. Winning London means gaining distribution across Europe, the Middle East, Africa, and beyond - making it the ideal stage for the next chapter of Solana’s growth.\n\nFor more information, check out solana.com/breakpoint (https://solana.com/breakpoint)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-gts-2026",
+      "slug": "global-trading-show",
+      "olderSlug": "global-trading-show",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Primary body supplies actual 2026 speakers and capped workshop format beyond generic metadata.",
+      "baselineHash": "9f52034d8492463474d2f97df978ba6c621969ec9b61e23c5d7ba75e5d760ae9",
+      "currentHash": "9f52034d8492463474d2f97df978ba6c621969ec9b61e23c5d7ba75e5d760ae9",
+      "olderHash": "62b6a6b5557ac7940c236519963e55628723e75121f202c1f0fe629f8b8a3446",
+      "proposedHash": "62b6a6b5557ac7940c236519963e55628723e75121f202c1f0fe629f8b8a3446",
+      "currentSource": {
+        "url": "https://www.globaltradingshow.com/",
+        "fetchedAt": "2026-10-06T11:55:41.462Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Global Trading Show | Premier Multi-Asset Trading Event",
+        "sha256": "9f52034d8492463474d2f97df978ba6c621969ec9b61e23c5d7ba75e5d760ae9"
+      },
+      "olderSource": {
+        "url": "https://www.globaltradingshow.com/",
+        "fetchedAt": "2026-10-14T11:50:20.401Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Global Trading Show 2026",
+        "sha256": "62b6a6b5557ac7940c236519963e55628723e75121f202c1f0fe629f8b8a3446",
+        "evidence": [
+          {
+            "url": "https://www.globaltradingshow.com/",
+            "fetchedAt": "2026-10-14T11:50:20.401Z",
+            "sha256": "b099d9019a9c4926b3d5eaf4258fd97fade1b1396540ca5e7d64673d7ab5e452"
+          },
+          {
+            "url": "https://www.globaltradingshow.com/tickets/",
+            "fetchedAt": "2026-10-14T11:50:22.818Z",
+            "sha256": "bb7f0b441cb520fddfda703ed822550a02cc7cb4d004ba8491028653fd364394"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://www.globaltradingshow.com/",
+          "resolvedUrl": "https://www.globaltradingshow.com/",
+          "checkedAt": "2026-10-14T11:50:20.401Z",
+          "status": 200,
+          "sha256": "b099d9019a9c4926b3d5eaf4258fd97fade1b1396540ca5e7d64673d7ab5e452",
+          "title": "Global Trading Show | Premier Multi-Asset Trading Event",
+          "descriptions": [
+            "Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading. Register now!"
+          ]
+        },
+        {
+          "url": "https://www.globaltradingshow.com/tickets/",
+          "resolvedUrl": "https://www.globaltradingshow.com/tickets/",
+          "checkedAt": "2026-10-14T11:50:22.818Z",
+          "status": 200,
+          "sha256": "bb7f0b441cb520fddfda703ed822550a02cc7cb4d004ba8491028653fd364394",
+          "title": "Global Trading Show Tickets 2026 | Book Your Pass",
+          "descriptions": [
+            "Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading. Register now!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india-luma-co5dtixa",
+      "slug": "ready-for-the-run-pune",
+      "olderSlug": "ready-for-the-run-pune",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Add named local partner, avoiding generic circuit sponsor boilerplate.",
+      "baselineHash": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
+      "currentHash": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
+      "olderHash": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
+      "proposedHash": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
+      "currentSource": {
+        "url": "https://luma.com/co5dtixa",
+        "fetchedAt": "2026-10-12T11:41:34.599Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Ready for the Run @ Pune",
+        "sha256": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
+        "evidence": [
+          {
+            "url": "https://luma.com/co5dtixa",
+            "fetchedAt": "2026-10-12T11:41:34.599Z",
+            "sha256": "03906bfb914a89d30bf3d66d7d720f700ebab18662cbdc77d84e7d9332f9405a",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/co5dtixa",
+        "fetchedAt": "2026-10-14T11:49:50.641Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Ready for the Run @ Pune",
+        "sha256": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
+        "evidence": [
+          {
+            "url": "https://luma.com/co5dtixa",
+            "fetchedAt": "2026-10-14T11:49:50.641Z",
+            "sha256": "04d5a1e2350b71ed9d38a9b044b029ac9bc645082c681fb7b076aad97f6a634b"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/co5dtixa",
+          "resolvedUrl": "https://luma.com/co5dtixa",
+          "checkedAt": "2026-10-14T11:49:50.641Z",
+          "status": 200,
+          "sha256": "04d5a1e2350b71ed9d38a9b044b029ac9bc645082c681fb7b076aad97f6a634b",
+          "title": "Ready for the Run @ Pune · Luma",
+          "descriptions": [
+            "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\n\n## Pune carries the theme Momentum. Six cities into the circuit, the conversation stops being separate rooms and starts reading like one trendline - what's compounding, what's stalling, and where the next cycle is actually headed.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n\n## Special Mention - Local Community Partner\n\n\n## Dev Spark\n\nDev Spark is one of Pune's most active tech communities - a genuinely energetic crew of developers, students, and innovators who show up to learn, build, and back each other's growth. Their on-ground pull among Pune's builder crowd makes them a natural fit for this stop of the run.\n\nX (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n\n\n## Partners\n\n\n## Ecosystem Partners\n\n\n• OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n• KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)\n• Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)\n• Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)\n• QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)\n• Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)\n• Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)\n• BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)\n• 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)\n\n\n## Media Partners\n\n\n• CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)\n• Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)\n• Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)\n• TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)\n• Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)\n\n\n## Community Partners\n\n\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n• Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)\n• Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)\n• Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)\n• Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)\n• Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)\n• BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)\n• Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)\n• Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n• Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)\n• Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)\n• Stackhouse: Website (https://www.stackhouse.social/)\n• AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)\n• KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)\n• Builders Verse: X (https://x.com/buildersverse_)\n• Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)\n• ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)\n\n\n## Co-Host\n\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nX (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india-luma-76s6hwzv",
+      "slug": "ready-for-the-run-lucknow",
+      "olderSlug": "ready-for-the-run-lucknow",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Primary source adds community-selected format and concrete exclusions.",
+      "baselineHash": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
+      "currentHash": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
+      "olderHash": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
+      "proposedHash": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
+      "currentSource": {
+        "url": "https://luma.com/76s6hwzv",
+        "fetchedAt": "2026-10-12T11:25:13.784Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Ready for the Run @ Lucknow",
+        "sha256": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
+        "evidence": [
+          {
+            "url": "https://luma.com/76s6hwzv",
+            "fetchedAt": "2026-10-12T11:25:13.784Z",
+            "sha256": "3c63e507e8cec00fdfb5f61b723a8a72d28a8a21f563fedff6620eb146822e3f",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/76s6hwzv",
+        "fetchedAt": "2026-10-14T11:49:43.595Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Ready for the Run @ Lucknow",
+        "sha256": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
+        "evidence": [
+          {
+            "url": "https://luma.com/76s6hwzv",
+            "fetchedAt": "2026-10-14T11:49:43.595Z",
+            "sha256": "91a40636ee282fc8c5ce104930818fd50686e0f39a10eb82374071b82f97e02a"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/76s6hwzv",
+          "resolvedUrl": "https://luma.com/76s6hwzv",
+          "checkedAt": "2026-10-14T11:49:43.595Z",
+          "status": 200,
+          "sha256": "91a40636ee282fc8c5ce104930818fd50686e0f39a10eb82374071b82f97e02a",
+          "title": "Ready for the Run @ Lucknow · Luma",
+          "descriptions": [
+            "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\n\n• NO Panel Discussions\n• NO Keynotes\n• NO Product Demos\n• NO Company Pitches\n\nEach Topic selected by the Community via surveys done on the Infini3 website:  https://goinfini3.com/\n\nLucknow carries the theme Trust. No market runs without it - regulation, custody, who you believe and why - and few cities are better suited to a conversation about relationships and reputation than this one.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n\n## Partners\n\n\n## Ecosystem Partners\n\n\n• OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n• KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)\n• Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)\n• Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)\n• QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)\n• Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)\n• Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)\n• BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)\n• 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)\n\n\n## Media Partners\n\n\n• CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)\n• Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)\n• Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)\n• TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)\n• Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)\n\n\n## Community Partners\n\n\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n• Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)\n• Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)\n• Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)\n• Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)\n• Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)\n• BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)\n• Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)\n• Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n• Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)\n• Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)\n• Stackhouse: Website (https://www.stackhouse.social/)\n• AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)\n• KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)\n• Builders Verse: X (https://x.com/buildersverse_)\n• Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)\n• ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)\n\n\n## Co-Host\n\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nWebsite (https://goinfini3.com/) | X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "india-luma-qzzu690f",
+      "slug": "alpend-collateral-call",
+      "olderSlug": "alpend-collateral-call",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "6415af540b9b84a2dd819f5c8c39c02053adcb2fb7d53157518352b1f44175e9",
+      "currentHash": "d857a6940cbdeaf7db3748cb5a5ee88726bddf8addc37a26cb1cdc6a96996cb0",
+      "olderHash": "088fa70fff69a09477ef73690f0c59e6f1f1e330a3ccdf316d1d39e47b154186",
+      "proposedHash": "d857a6940cbdeaf7db3748cb5a5ee88726bddf8addc37a26cb1cdc6a96996cb0",
+      "currentSource": {
+        "url": "https://luma.com/qzzu690f",
+        "fetchedAt": "2026-10-15T08:48:38.569Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Collateral Call: Institutional Credit Night by Alpend",
+        "sha256": "d857a6940cbdeaf7db3748cb5a5ee88726bddf8addc37a26cb1cdc6a96996cb0",
+        "evidence": [
+          {
+            "url": "https://luma.com/qzzu690f",
+            "fetchedAt": "2026-10-15T08:48:38.569Z",
+            "sha256": "8b495140085250359ffe5d84dac532f492328264fe700548cad119d78b53e75c",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/qzzu690f",
+        "fetchedAt": "2026-10-14T11:50:05.404Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Collateral Call: Institutional Credit Night by Alpend",
+        "sha256": "088fa70fff69a09477ef73690f0c59e6f1f1e330a3ccdf316d1d39e47b154186",
+        "evidence": [
+          {
+            "url": "https://luma.com/qzzu690f",
+            "fetchedAt": "2026-10-14T11:50:05.404Z",
+            "sha256": "41192dd31ab5c4b0097ea65e7fd213b8bb0dd74aa39a5c4faf74de845074449c"
+          }
+        ]
+      },
+      "proof": []
+    },
+    {
+      "id": "luma-batch-evtaPGKR2FFDEuck",
+      "slug": "afterdark-devcon",
+      "olderSlug": "tbe-devcon26",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "96dc19ccb858c0180f837d5c04a5d1596a274fc2f05e0ee282f98b76ad1cc11d",
+      "currentHash": "745e9d7168c20e376b98318305bf805a9868670880e75e974621c2c0604d5058",
+      "olderHash": "7893f216c64a77b4502f0788c917900f8f7d47111c4aa31d9b6cedaae5c03519",
+      "proposedHash": "745e9d7168c20e376b98318305bf805a9868670880e75e974621c2c0604d5058",
+      "currentSource": {
+        "url": "https://luma.com/TBE-Devcon26",
+        "fetchedAt": "2026-10-15T08:48:41.885Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "The Best Event: Afterdark Devcon",
+        "sha256": "745e9d7168c20e376b98318305bf805a9868670880e75e974621c2c0604d5058",
+        "evidence": [
+          {
+            "url": "https://luma.com/TBE-Devcon26",
+            "fetchedAt": "2026-10-15T08:48:41.885Z",
+            "sha256": "bc1551d711f60f00f6f45494fcb55b4c9dfdc9921f012ad383bbc0a5f3142d72",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/TBE-Devcon26",
+        "fetchedAt": "2026-10-14T11:50:10.227Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "The Best Event: Afterdark Devcon",
+        "sha256": "7893f216c64a77b4502f0788c917900f8f7d47111c4aa31d9b6cedaae5c03519",
+        "evidence": [
+          {
+            "url": "https://luma.com/TBE-Devcon26",
+            "fetchedAt": "2026-10-14T11:50:10.227Z",
+            "sha256": "cb591e3eca69912538d149704e5fe8ea15a24b22c27acf5bd4deb00799fffd2a"
+          }
+        ]
+      },
+      "proof": []
+    },
+    {
+      "id": "token2049-evt-2gHTqhbNIut9G5D",
+      "slug": "founder-house",
+      "olderSlug": "founder-house",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Live copy had lost almost the entire program and retained a media release; restore primary-backed founder eligibility, format and conditional awards.",
+      "baselineHash": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
+      "currentHash": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
+      "olderHash": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
+      "proposedHash": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
+      "currentSource": {
+        "url": "https://luma.com/openhouse-singapore",
+        "fetchedAt": "2026-09-27T20:19:33.768Z",
+        "method": "matched-organizer-record",
+        "pageTitle": "Founder House Singapore 🇸🇬",
+        "sha256": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
+        "evidence": [
+          {
+            "url": "https://luma.com/openhouse-singapore",
+            "fetchedAt": "2026-09-27T20:19:33.768Z",
+            "sha256": "828a94d99be3bc911893264ea78455477331cdf44d6cfeb7dbaf50d4601e0570"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/openhouse-singapore",
+        "fetchedAt": "2026-10-14T11:55:49.189Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Founder House Singapore 🇸🇬",
+        "sha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
+        "evidence": [
+          {
+            "url": "https://luma.com/openhouse-singapore",
+            "fetchedAt": "2026-10-14T11:55:49.189Z",
+            "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/openhouse-singapore",
+          "resolvedUrl": "https://luma.com/openhouse-singapore",
+          "checkedAt": "2026-10-14T11:55:49.189Z",
+          "status": 200,
+          "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b",
+          "title": "Founder House Singapore 🇸🇬 · Luma",
+          "descriptions": [
+            "## Arbitrum Founder House Singapore 🇸🇬\n\nIn collaboration with Robinhood Chain\n\n\n> Please note: Applications are open. If you see \"Join Waitlist,\" the event is not full. It simply means Founder House is a screening-based program. Click Join Waitlist to apply for one of the 120 Founder House spots, and selected applicants will be approved after their application is reviewed.\n\nOpen House brings together founders and teams building the next generation of onchain businesses. Following editions in New York City and London, which engaged 2,160 builders across online and in-person activations and received 177 and 273 project submissions respectively, Open House is coming to Singapore.\n\nThe program began with a global online Buildathon from September 14 to October 4, followed by Founder House Singapore, an application-only, three-day experience for founders with an existing product, prototype, or business. Founder House gives selected teams focused time to build, test their direction, and connect with the Arbitrum ecosystem. \n\nNote: This form is for Founder House applications only.\n\n📅 Online Buildathon: September 14–October 4, 2026\n📅 Founder House: October 23–25, 2026\n📍 Singapore\n\n\n## About Founder House\n\nFounder House Singapore is part of Arbitrum Open House, in collaboration with Robinhood Chain. It is designed for founders who are already building and are ready to make meaningful progress on their product.\n\nOver three days, selected teams will build alongside other founders, receive feedback from mentors and ecosystem participants, and work through product, technical, and go-to-market challenges.\n\nCome with an existing project. Use Founder House to build or launch a meaningful new feature, validate a key assumption, and leave with a clearer path forward.\n\n\n## Prizes and Grants\n\nFounder House participants will have access to $300K in prizes and grants across several opportunities:\n\n\n• General Builder Track: $120K in prizes for three standout teams building innovative products on Arbitrum and Robinhood Chain\n• Robinhood Chain Founder-in-Residence Award: A $60K award for an eligible team building on Robinhood Chain\n• Robinhood Chain Innovation Award: A $30K award for eligible innovation on Robinhood Chain\n• Promising Products Track: For emerging products exploring areas such as AI agents and new financial primitives\n• Ecosystem Grants: For teams with strong potential and ecosystem alignment\n\nMost prize tracks include milestone-based funding to support continued execution after Founder House. The Promising Products Track is evaluated separately. Eligibility varies by track; the full Founder House prize pool is not limited to Robinhood Chain projects.\n\n\n## Who Should Apply\n\nWe’re looking for solo founders and teams with an existing product, prototype, or business that can meaningfully use Arbitrum. Areas of interest include:\n\n\n• Stablecoins and payments\n• Tokenization and real-world assets\n• DeFi and financial infrastructure\n• AI and agentic finance\n• Privacy-preserving applications\n• Consumer crypto products\n• Developer tooling and infrastructure\n\nThese are examples, not a requirement to start a new project for Founder House. Teams building in other areas of the programmable economy are welcome to apply. Teams building on Robinhood Chain may also be eligible for its dedicated awards.\n\n\n## What to Expect\n\n\n• Focused time to build and make progress on your product\n• Product, technical, go-to-market, and fundraising guidance\n• Workshops on tools and infrastructure for building on Arbitrum\n• Feedback and connections across the Arbitrum ecosystem\n• Opportunities to meet fellow founders, investors, partners, and ecosystem leaders\n\n\n## Important Information\n\n\n• Founder House applications are reviewed on a rolling basis. Places are limited, and selection is based on product quality, execution potential, and ecosystem alignment.\n• Event logistics, meals, swag, and on-site support will be provided to accepted participants.\n\n\n## Media Release\n\nBy attending, you grant the event organizer and its affiliates the right and permission to use and publish, in any media or format, for any lawful business purpose, your image, likeness, name, voice, and other identifying characteristics captured at the event, without compensation or liability. Please refer to Arbitrum’s privacy policy (https://arbitrum.io/privacy) for more details."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-edcon-2026",
+      "slug": "edcon",
+      "olderSlug": "edcon",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Replace obsolete application and sponsor-only scrape with the newly published two-day agenda.",
+      "baselineHash": "057de2665f3981dacb3d16f37f417cdc03d980695d4a4b29846449a8aa5a6f11",
+      "currentHash": "057de2665f3981dacb3d16f37f417cdc03d980695d4a4b29846449a8aa5a6f11",
+      "olderHash": "8364d939b40a7c4c26ea66c9e4114f72662af247ae83522da51d9faa20705f37",
+      "proposedHash": "8364d939b40a7c4c26ea66c9e4114f72662af247ae83522da51d9faa20705f37",
+      "currentSource": {
+        "url": "https://www.edcon.io/en/",
+        "fetchedAt": "2026-09-20T00:20:49.682Z",
+        "method": "official-section",
+        "pageTitle": "EDCON Kuala Lumpur",
+        "sha256": "057de2665f3981dacb3d16f37f417cdc03d980695d4a4b29846449a8aa5a6f11"
+      },
+      "olderSource": {
+        "url": "https://www.edcon.io/en/",
+        "fetchedAt": "2026-10-14T11:53:03.586Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "EDCON 2026",
+        "sha256": "8364d939b40a7c4c26ea66c9e4114f72662af247ae83522da51d9faa20705f37",
+        "evidence": [
+          {
+            "url": "https://www.edcon.io/en/",
+            "fetchedAt": "2026-10-14T11:53:03.586Z",
+            "sha256": "08c2be421e8da6d95a7e7b2866e27c084ede0e41015ac5fc23dae0a43b177243"
+          },
+          {
+            "url": "https://luma.com/x54fvix6",
+            "fetchedAt": "2026-10-14T11:55:49.066Z",
+            "sha256": "d65aa62146d937892935784530ab46355556bd3bb4c25827d3b18161ae523af2"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://www.edcon.io/en/",
+          "resolvedUrl": "https://www.edcon.io/en/",
+          "checkedAt": "2026-10-14T11:53:03.586Z",
+          "status": 200,
+          "sha256": "08c2be421e8da6d95a7e7b2866e27c084ede0e41015ac5fc23dae0a43b177243",
+          "title": "EDCON Kuala Lumpur",
+          "descriptions": [
+            "## Agenda\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most.\n\n## Community Committee\n\n## Speakers\n\n## Community Partner"
+          ]
+        },
+        {
+          "url": "https://www.edcon.io/",
+          "resolvedUrl": "https://www.edcon.io/en/",
+          "checkedAt": "2026-10-14T11:53:05.546Z",
+          "status": 200,
+          "sha256": "08c2be421e8da6d95a7e7b2866e27c084ede0e41015ac5fc23dae0a43b177243",
+          "title": "EDCON Kuala Lumpur",
+          "descriptions": [
+            "## Agenda\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most.\n\n## Community Committee\n\n## Speakers\n\n## Community Partner"
+          ]
+        },
+        {
+          "url": "https://luma.com/x54fvix6",
+          "resolvedUrl": "https://luma.com/x54fvix6",
+          "checkedAt": "2026-10-14T11:55:49.066Z",
+          "status": 200,
+          "sha256": "d65aa62146d937892935784530ab46355556bd3bb4c25827d3b18161ae523af2",
+          "title": "EDCON2026 Kuala Lumpur · Luma",
+          "descriptions": [
+            "EDCON2026, the global non-profit Ethereum conference heads to Kuala Lumpur this October 17th -18th. Two days of Ethereum, open-source tech, privacy tools, etc, for real human autonomy.\n\n📅 October 17th - 18th, 2026\n📍 Menara KEN TTDI, Level 2\n\n\n## Core Tracks & Themes\n\n\n• Ethereum Core & Scaling\n• Crypto Applications\n• Real-World Adoption\n• Sovereign AI & Local Inference\n• Beyond Crypto: Privacy & Self-Sovereignty tech, open hardware, pro-human research, etc.\n\n\n\n## Speakers\n\nAnd more...\n\n\n## Partners:\n\nStrategic Partner: Geode Labs\n\nGeode Labs (https://x.com/geodelabs?utm_source=luma) is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most.\n\n\n## Community Committee\n\n\nApply to speak, sponsor, and volunteer 👇\n\nWebsite: https://www.edcon.io/\n\nFollow us on: https://x.com/EDCON_Official\n\nEDCON\n\nCommunity Ethereum Development Conference\n\nOnce a year, the most impactful speakers, mentors and projects from around the world are invited to attend and share their message. Prior years include: Paris 2017, Toronto 2018, Sydney 2019, Online 2020-21, San Francisco 2022, Montenegro 2023, Tokyo 2024, and Osaka 2025."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-nabsummit",
+      "slug": "north-american-blockchain-summit",
+      "olderSlug": "north-american-blockchain-summit",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Remove slogans and empty Speakers heading, preserving substantive current scope.",
+      "baselineHash": "c288be8c1bc9b978dfab5e99f9f788fa333ba9d67ae482ae7d7e0179fa53c6c1",
+      "currentHash": "c288be8c1bc9b978dfab5e99f9f788fa333ba9d67ae482ae7d7e0179fa53c6c1",
+      "olderHash": "fdbd8e2a6e471fc2c23fb9e993a229ea46053d92772c1acbc1caff8a5a3375a4",
+      "proposedHash": "fdbd8e2a6e471fc2c23fb9e993a229ea46053d92772c1acbc1caff8a5a3375a4",
+      "currentSource": {
+        "url": "https://www.northamericanblockchainsummit.com/",
+        "fetchedAt": "2026-09-20T00:20:23.048Z",
+        "method": "official-section",
+        "pageTitle": "NABS - The Energy and Digital Infrastructure Conference",
+        "sha256": "1f37d45447e45533ca42a932e7097760da7aa65541edeb65ec2fea3691ff2a1d"
+      },
+      "olderSource": {
+        "url": "https://www.northamericanblockchainsummit.com/",
+        "fetchedAt": "2026-10-14T11:50:16.206Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "North American Blockchain Summit 2026",
+        "sha256": "fdbd8e2a6e471fc2c23fb9e993a229ea46053d92772c1acbc1caff8a5a3375a4",
+        "evidence": [
+          {
+            "url": "https://www.northamericanblockchainsummit.com/",
+            "fetchedAt": "2026-10-14T11:50:16.206Z",
+            "sha256": "5da50c2e25f9520ffc0757f084a525d2c12768a2b612bc4ba097e6ad7e4cd588"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://www.northamericanblockchainsummit.com/",
+          "resolvedUrl": "https://www.northamericanblockchainsummit.com/",
+          "checkedAt": "2026-10-14T11:50:16.206Z",
+          "status": 200,
+          "sha256": "5da50c2e25f9520ffc0757f084a525d2c12768a2b612bc4ba097e6ad7e4cd588",
+          "title": "NABS - Powered By Digital Infrastructure Network",
+          "descriptions": [
+            "The era of speculation is over. Blueprints reflects our collective mission to finalize the technical, energetic, and regulatory frameworks that will define North American leadership for decades to come. Attend NABS to get hands-on with the people securing our digital future and deploying the next generation of infrastructure.\n\nNABS is the conference for the leaders architecting the future of digital infrastructure. Focused on the core pillars of strategic infrastructure, capital, partnerships, and global leadership, the Summit convenes C-suite executives, policymakers, and innovators to secure and deploy the next generation of North American legacy.\n\nThis is where the industry’s blueprints are refined and the partnerships that drive global scale are solidified.Hosted by the Digital Infrastructure Network, the Summit provides an unprecedented look through the lens of a state bringing leadership to the global economy.\n\nThis year, NABS is expanding into the full digital infrastructure conversation. Our focus includes data centers and compute, AI, energy and the grid, quantum technologies, Bitcoin and digital assets, and the capital and policy that support all of them.\n\nWhat ties those areas together is that none can develop in isolation. AI needs compute; compute needs power, cooling, and networks; emerging technologies need security, investment, and clear policy.\n\nWe’re bringing together the operators, technology leaders, investors, researchers, policymakers, and advisers working through those questions. We want people to leave with useful relationships, a clearer understanding of the challenges, and opportunities to move actual projects forward.\n\n## Where leaders scaleinfrastructure, deploy capital, and secure global leadership.\n\n## Speakers"
+          ]
+        },
+        {
+          "url": "https://www.northamericanblockchainsummit.com",
+          "resolvedUrl": "https://www.northamericanblockchainsummit.com/",
+          "checkedAt": "2026-10-14T11:50:19.267Z",
+          "status": 200,
+          "sha256": "5da50c2e25f9520ffc0757f084a525d2c12768a2b612bc4ba097e6ad7e4cd588",
+          "title": "NABS - Powered By Digital Infrastructure Network",
+          "descriptions": [
+            "The era of speculation is over. Blueprints reflects our collective mission to finalize the technical, energetic, and regulatory frameworks that will define North American leadership for decades to come. Attend NABS to get hands-on with the people securing our digital future and deploying the next generation of infrastructure.\n\nNABS is the conference for the leaders architecting the future of digital infrastructure. Focused on the core pillars of strategic infrastructure, capital, partnerships, and global leadership, the Summit convenes C-suite executives, policymakers, and innovators to secure and deploy the next generation of North American legacy.\n\nThis is where the industry’s blueprints are refined and the partnerships that drive global scale are solidified.Hosted by the Digital Infrastructure Network, the Summit provides an unprecedented look through the lens of a state bringing leadership to the global economy.\n\nThis year, NABS is expanding into the full digital infrastructure conversation. Our focus includes data centers and compute, AI, energy and the grid, quantum technologies, Bitcoin and digital assets, and the capital and policy that support all of them.\n\nWhat ties those areas together is that none can develop in isolation. AI needs compute; compute needs power, cooling, and networks; emerging technologies need security, investment, and clear policy.\n\nWe’re bringing together the operators, technology leaders, investors, researchers, policymakers, and advisers working through those questions. We want people to leave with useful relationships, a clearer understanding of the challenges, and opportunities to move actual projects forward.\n\n## Where leaders scaleinfrastructure, deploy capital, and secure global leadership.\n\n## Speakers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luma-batch-KupO2QEcLws6KMf",
+      "slug": "community-call",
+      "olderSlug": "community-call",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Remove stale invitation slogans and disclose the primary source's unresolved date conflict.",
+      "baselineHash": "fef8ef6dc98ce8296e3dd505a0ccca71b706e3fe3b97ec41de2f362a2d4a1646",
+      "currentHash": "fef8ef6dc98ce8296e3dd505a0ccca71b706e3fe3b97ec41de2f362a2d4a1646",
+      "olderHash": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
+      "proposedHash": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
+      "currentSource": null,
+      "olderSource": {
+        "url": "https://luma.com/8uhc300o",
+        "fetchedAt": "2026-10-14T11:55:50.993Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Community Call",
+        "sha256": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
+        "evidence": [
+          {
+            "url": "https://luma.com/8uhc300o",
+            "fetchedAt": "2026-10-14T11:55:50.993Z",
+            "sha256": "c8616b98ae6d1ccf0371068bed80f4946609819495abc4c6e99ff8dfb8e139f0"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/8uhc300o",
+          "resolvedUrl": "https://luma.com/8uhc300o",
+          "checkedAt": "2026-10-14T11:55:50.993Z",
+          "status": 200,
+          "sha256": "c8616b98ae6d1ccf0371068bed80f4946609819495abc4c6e99ff8dfb8e139f0",
+          "title": "Community Call · Luma",
+          "descriptions": [
+            "Hey! \n\nGet ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. \n\nhttps://discord.gg/vgt4M7jJfG\n\nHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone. \n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.\n\nGot questions? Bring 'em on! Want to get more involved? This is your chance! \n\nCan't wait to see you there!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-toksummituk",
+      "slug": "uk-tokenisation-summit",
+      "olderSlug": "uk-tokenisation-summit",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Rendered official website and its linked registration page conflict on date and edition. Surface the conflict; preserve the current record identity without silently converting it to a new edition.",
+      "baselineHash": "1f9a01819756257f6ccf313d3f0c4165e7782e9d181d619c138c7d98a91d3694",
+      "currentHash": "1f9a01819756257f6ccf313d3f0c4165e7782e9d181d619c138c7d98a91d3694",
+      "olderHash": "f9167cde42019925d9b7f36f422ec5853f105f71d79cccb48e6928a5a1a31706",
+      "proposedHash": "f9167cde42019925d9b7f36f422ec5853f105f71d79cccb48e6928a5a1a31706",
+      "currentSource": {
+        "url": "https://www.tokenisation.org.uk/",
+        "fetchedAt": "2026-09-20T00:45:08.870Z",
+        "method": "official-section",
+        "pageTitle": "UK Tokenisation Summit 2026",
+        "sha256": "1f9a01819756257f6ccf313d3f0c4165e7782e9d181d619c138c7d98a91d3694"
+      },
+      "olderSource": {
+        "url": "https://www.tokenisation.org.uk/",
+        "fetchedAt": "2026-10-14T12:02:02.154Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "UK Tokenisation Summit 2026",
+        "sha256": "f9167cde42019925d9b7f36f422ec5853f105f71d79cccb48e6928a5a1a31706",
+        "evidence": [
+          {
+            "url": "https://www.tokenisation.org.uk/",
+            "fetchedAt": "2026-10-14T12:02:02.154Z",
+            "sha256": "d6bb33c740a9aa077485d8917f73a98c04f762cde97eb64775f00ab752eed764",
+            "representation": "rendered-text"
+          },
+          {
+            "url": "https://luma.com/pykn5dz4",
+            "fetchedAt": "2026-10-14T12:03:26.955Z",
+            "sha256": "86a93cb61d1a828944ad4fe2dd681ac3dae1a93a77db749933a0b6dc851f30b1"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://www.tokenisation.org.uk/",
+          "resolvedUrl": "https://www.tokenisation.org.uk/",
+          "checkedAt": "2026-10-14T11:55:49.195Z",
+          "status": 200,
+          "sha256": "097f038c2348a4dfaf91ef854267411463025691bc999e304588d7537fc7ac67",
+          "title": "UK Tokenisation Summit 2027 · 28 April · Birmingham",
+          "descriptions": [],
+          "extractionReason": "different-event-edition",
+          "body": ""
+        },
+        {
+          "url": "https://tokenisation.org.uk/",
+          "resolvedUrl": "https://www.tokenisation.org.uk/",
+          "checkedAt": "2026-10-14T11:55:49.957Z",
+          "status": 200,
+          "sha256": "097f038c2348a4dfaf91ef854267411463025691bc999e304588d7537fc7ac67",
+          "title": "UK Tokenisation Summit 2027 · 28 April · Birmingham",
+          "descriptions": [],
+          "extractionReason": "different-event-edition",
+          "body": ""
+        },
+        {
+          "url": "https://tokenisation.org.uk",
+          "resolvedUrl": "https://www.tokenisation.org.uk/",
+          "checkedAt": "2026-10-14T11:55:52.406Z",
+          "status": 200,
+          "sha256": "097f038c2348a4dfaf91ef854267411463025691bc999e304588d7537fc7ac67",
+          "title": "UK Tokenisation Summit 2027 · 28 April · Birmingham",
+          "descriptions": [],
+          "extractionReason": "different-event-edition",
+          "body": ""
+        },
+        {
+          "url": "https://luma.com/pykn5dz4",
+          "resolvedUrl": "https://luma.com/pykn5dz4",
+          "checkedAt": "2026-10-14T12:03:26.955Z",
+          "status": 200,
+          "sha256": "86a93cb61d1a828944ad4fe2dd681ac3dae1a93a77db749933a0b6dc851f30b1",
+          "title": "UK Tokenisation Summit 2026 · Luma",
+          "descriptions": [
+            "Hosted by MeridenDAO and timesthree, this landmark event will take place in October 2026 — marking the West Midlands’ first large-scale blockchain conference, aligned with Birmingham Tech Week 2026.\n\nWhy Attend?\n\n🌍 Get Connected — Link global blockchain networks with local universities, startups, investors, and enterprises.\n\n🏙 See Impact in Action — Discover how AI × Blockchain can unlock productivity gains and support urban regeneration in Birmingham and beyond.\n\n🤝 Shape the Future — Join academia, industry, and government in catalysing long-term growth, investment, and real-world adoption opportunities.\n\nThe Vision\n\nThe UK Tokenisation Summit 2026 aims to establish the West Midlands as a national and global hub for AI × Blockchain innovation. More than just a conference, it’s a catalyst for talent development, ecosystem growth, and lasting collaboration.\n\nFull programme details and sponsor announcements coming soon!"
+          ]
+        },
+        {
+          "url": "https://tokenisation.org.uk/#rendered",
+          "checkedAt": "2026-10-14T12:02:02.154Z",
+          "status": 200,
+          "representation": "rendered-text",
+          "sha256": "d6bb33c740a9aa077485d8917f73a98c04f762cde97eb64775f00ab752eed764",
+          "text": "Skip to content\nUTS 2027\nTRACKS\nPARTNERS\nPROGRAMME\nRegister\nUK\nTOKENISATION\nSUMMIT\n\nWednesday 28 April 2027 — Central Birmingham\n\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nDAYS\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nHRS\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nMIN\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nSEC\nRegister now\nAdd to calendar\n\nONE ASSET, MANY PARTS · PRESS TO RESHAPE\n\nCONFERENCE TRACKS\nThe Tokenisation\nLandscape\n\nTokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today.\n\n01\nReal-World Assets\nReal-World Assets\nFrom bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets.\n02\nDeFi & Digital Finance\nDeFi & Digital Finance\nDecentralised finance protocols are reshaping lending, trading, and payments, creating open, permissionless financial infrastructure accessible to everyone.\n03\nSupply Chain & Provenance\nSupply Chain & Provenance\nBlockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf.\n04\nDigital Identity\nDigital Identity\nBlockchain-backed digital IDs and verifiable credentials are giving individuals control over their data while reducing identity fraud across sectors.\n05\nCreator Economy & IP\nCreator Economy & IP\nArtists, musicians, and creators are using tokenisation to monetise work directly, manage royalties transparently, and build new models of community ownership.\n06\nPublic Sector & Infrastructure\nPublic Sector & Infrastructure\nFrom land registries to healthcare records, governments and institutions are adopting tokenisation to improve transparency, reduce costs, and modernise public services.\nORGANISING PARTNERS\nMeridenDAO\n·\ntimesthree\nMEDIA BY\nWEDNESDAY 28 APRIL 2027\nProgramme\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10:00\n11:00\nON AT 10:30\n\nThe State of Digital Assets\n\nDrag the ruler, use the arrow keys, or pick a session to jump to it.\n\n10:30\nThe State of Digital Assets\nPANEL\n11:00\nAI x Blockchain\nPANEL\n11:30\nDeFi & Real-World Asset Tokenisation\nKEYNOTE\n12:00\nTokenisation Across Industries\nKEYNOTE\n13:00\nNetworking Lunch\nSOCIAL\n14:30\nRegulation & Policy Landscape\nKEYNOTE\n14:45\nBuilders & Creators Panel\nPANEL\n15:15\nEnterprise & Public Sector Case Studies\nKEYNOTE\n15:45\nInvestor & Ecosystem Keynotes\nKEYNOTE\n17:30\nClosing Reception\nSOCIAL\nWEDNESDAY 28 APRIL 2027\nThe UK's flagship\ntokenisation event\n\n500+ builders, investors, creators, and industry leaders. One day. Central Birmingham.\n\nSlide to register\nOpening Luma\nOr register on Luma\nAdd to calendar\n\nLimited spaces · Early registration open\n\nEVENT\n\nUK Tokenisation Summit 2027\n\nWednesday 28 April 2027\n\nCentral Birmingham\n\nNAVIGATE\nTracks\nPartners\nProgramme\nRESOURCES\nSocial Media Kit\nPress Kit\nSTAY CONNECTED\n\nSpeaker, venue and ticket news, a few times before the day.\n\nEmail\nNotify me\nYou’ll be notified\n\nUK Tokenisation Summit 2027\n\n© 2026 UK Tokenisation Assembly",
+          "links": [
+            {
+              "text": "Skip to content",
+              "href": "https://www.tokenisation.org.uk/#main"
+            },
+            {
+              "text": "UTS 2027",
+              "href": "https://www.tokenisation.org.uk/"
+            },
+            {
+              "text": "Register",
+              "href": "https://lu.ma/pykn5dz4"
+            },
+            {
+              "text": "Register now",
+              "href": "https://lu.ma/pykn5dz4"
+            },
+            {
+              "text": "Or register on Luma",
+              "href": "https://lu.ma/pykn5dz4"
+            }
+          ],
+          "title": "UK Tokenisation Summit 2027",
+          "descriptions": [],
+          "resolvedUrl": "https://www.tokenisation.org.uk/",
+          "body": "Skip to content\nUTS 2027\nTRACKS\nPARTNERS\nPROGRAMME\nRegister\nUK\nTOKENISATION\nSUMMIT\n\nWednesday 28 April 2027 — Central Birmingham\n\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nDAYS\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nHRS\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nMIN\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\nSEC\nRegister now\nAdd to calendar\n\nONE ASSET, MANY PARTS · PRESS TO RESHAPE\n\nCONFERENCE TRACKS\nThe Tokenisation\nLandscape\n\nTokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today.\n\n01\nReal-World Assets\nReal-World Assets\nFrom bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets.\n02\nDeFi & Digital Finance\nDeFi & Digital Finance\nDecentralised finance protocols are reshaping lending, trading, and payments, creating open, permissionless financial infrastructure accessible to everyone.\n03\nSupply Chain & Provenance\nSupply Chain & Provenance\nBlockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf.\n04\nDigital Identity\nDigital Identity\nBlockchain-backed digital IDs and verifiable credentials are giving individuals control over their data while reducing identity fraud across sectors.\n05\nCreator Economy & IP\nCreator Economy & IP\nArtists, musicians, and creators are using tokenisation to monetise work directly, manage royalties transparently, and build new models of community ownership.\n06\nPublic Sector & Infrastructure\nPublic Sector & Infrastructure\nFrom land registries to healthcare records, governments and institutions are adopting tokenisation to improve transparency, reduce costs, and modernise public services.\nORGANISING PARTNERS\nMeridenDAO\n·\ntimesthree\nMEDIA BY\nWEDNESDAY 28 APRIL 2027\nProgramme\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10:00\n11:00\nON AT 10:30\n\nThe State of Digital Assets\n\nDrag the ruler, use the arrow keys, or pick a session to jump to it.\n\n10:30\nThe State of Digital Assets\nPANEL\n11:00\nAI x Blockchain\nPANEL\n11:30\nDeFi & Real-World Asset Tokenisation\nKEYNOTE\n12:00\nTokenisation Across Industries\nKEYNOTE\n13:00\nNetworking Lunch\nSOCIAL\n14:30\nRegulation & Policy Landscape\nKEYNOTE\n14:45\nBuilders & Creators Panel\nPANEL\n15:15\nEnterprise & Public Sector Case Studies\nKEYNOTE\n15:45\nInvestor & Ecosystem Keynotes\nKEYNOTE\n17:30\nClosing Reception\nSOCIAL\nWEDNESDAY 28 APRIL 2027\nThe UK's flagship\ntokenisation event\n\n500+ builders, investors, creators, and industry leaders. One day. Central Birmingham.\n\nSlide to register\nOpening Luma\nOr register on Luma\nAdd to calendar\n\nLimited spaces · Early registration open\n\nEVENT\n\nUK Tokenisation Summit 2027\n\nWednesday 28 April 2027\n\nCentral Birmingham\n\nNAVIGATE\nTracks\nPartners\nProgramme\nRESOURCES\nSocial Media Kit\nPress Kit\nSTAY CONNECTED\n\nSpeaker, venue and ticket news, a few times before the day.\n\nEmail\nNotify me\nYou’ll be notified\n\nUK Tokenisation Summit 2027\n\n© 2026 UK Tokenisation Assembly"
+        }
+      ]
+    },
+    {
+      "id": "luma-batch-vcbQKpgSXxARqw7",
+      "slug": "finnovation-day-money2020-asia",
+      "olderSlug": "finnovation-day-money2020-asia",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Current organizer copy no longer confirms the previously described APAC cross-border-payments theme; retain only currently supported program facts.",
+      "baselineHash": "ee034ab0033465db4ce4718da4506dfb93397a97876db88bc9df6064d75f31ac",
+      "currentHash": "ee034ab0033465db4ce4718da4506dfb93397a97876db88bc9df6064d75f31ac",
+      "olderHash": "83f2dd0c55728ac80bd762942bee492a12b98ad6b18286b69defaae495571ac4",
+      "proposedHash": "83f2dd0c55728ac80bd762942bee492a12b98ad6b18286b69defaae495571ac4",
+      "currentSource": {
+        "url": "https://luma.com/okgj41gs",
+        "fetchedAt": "2026-10-12T11:44:45.775Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets",
+        "sha256": "ee034ab0033465db4ce4718da4506dfb93397a97876db88bc9df6064d75f31ac",
+        "evidence": [
+          {
+            "url": "https://luma.com/okgj41gs",
+            "fetchedAt": "2026-10-12T11:44:45.775Z",
+            "sha256": "bb96afc59058a791d79285aaff4597342a3b02af7d82eb99bb41070b6bbdbffc",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://luma.com/okgj41gs",
+        "fetchedAt": "2026-10-14T11:50:25.207Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets",
+        "sha256": "83f2dd0c55728ac80bd762942bee492a12b98ad6b18286b69defaae495571ac4",
+        "evidence": [
+          {
+            "url": "https://luma.com/okgj41gs",
+            "fetchedAt": "2026-10-14T11:50:25.207Z",
+            "sha256": "f2b72d2eb0794f943a5e7b1cc9649608e7a695fdae58dca828279d17b96da1eb"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/okgj41gs",
+          "resolvedUrl": "https://luma.com/okgj41gs",
+          "checkedAt": "2026-10-14T11:50:25.207Z",
+          "status": 200,
+          "sha256": "f2b72d2eb0794f943a5e7b1cc9649608e7a695fdae58dca828279d17b96da1eb",
+          "title": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets · Luma",
+          "descriptions": [
+            "## Part of the Finnovation Day Global Series\n\nFinnovation Day is TechEmbassy's global fintech event series, bringing together financial institutions, fintech companies, technology providers and industry leaders around the conversations shaping the future of financial services.\n\nHosted by Svitlanka Serhiichuk (https://www.linkedin.com/in/svitlanaromaniuk/), FinTech Ambassador at TechEmbassy and Co-Founder of Neofin.\n\nOrganized in partnership with Future Finance Fest 3(f) (https://www.linkedin.com/company/future-finance-fest/home/), an international platform connecting academia, industry, policymakers and technology leaders around the future of finance.\n\nThis edition of Finnovation Day will explore one of the key topics shaping financial services today.\n\nThe event concept and programme are currently being developed together with industry experts, financial institutions and technology leaders, with a focus on the most relevant challenges and opportunities for the local market and conference audience.\n\nWhat to Expect\n\n🎤 Expert Discussion\nA focused conversation with leaders from financial services, fintech and technology around the event's central theme.\n\n⚡ Innovation Showcase\nA curated look at selected companies and technologies shaping the next generation of financial services.\n\n🤝 Curated Networking\nMeaningful connections between financial institutions, fintech leaders, technology companies, founders and ecosystem partners.\n\nMore details about the programme will be announced soon.\n\n🎙 Speakers\n\nComing soon.\n\n🤝 Partners\n\nFinnovation Day is made possible through collaboration with our ecosystem partners, sponsors and local fintech communities.\n\nAbout TechEmbassy\n\nTechEmbassy builds curated communities around the world's leading technology conferences, creating meaningful connections between founders, enterprises, investors and industry experts.\n\nThrough Finnovation Day, we bring together the people shaping modern financial services — from financial institutions and fintech companies to technology providers, regulators and researchers.\n\nFinnovation Day is part of our Global Series — explore the full calendar of our events around the world.\n\n🌐 Website: https://techembassy.org/\n\n📅 Events calendar: https://luma.com/techembassy.org\n\n💼 LinkedIn: https://www.linkedin.com/company/tech-embassy/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-ethwomen",
+      "slug": "ethwomen",
+      "olderSlug": "ethwomen",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Remove empty heading and promotional copy while keeping inclusive audience, conference access and specific arrival instructions.",
+      "baselineHash": "507646ece5bca568291bc2b91c5d15ed880057b6be5405653740f4998c2d4425",
+      "currentHash": "507646ece5bca568291bc2b91c5d15ed880057b6be5405653740f4998c2d4425",
+      "olderHash": "0a93eb8e81d7fa0597bb374d76ac6f4f309d80cb2ec234fce751bce4976a5020",
+      "proposedHash": "0a93eb8e81d7fa0597bb374d76ac6f4f309d80cb2ec234fce751bce4976a5020",
+      "currentSource": null,
+      "olderSource": {
+        "url": "https://luma.com/ETHWomen_FL",
+        "fetchedAt": "2026-10-14T11:53:05.396Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "ETHWomen Florida",
+        "sha256": "0a93eb8e81d7fa0597bb374d76ac6f4f309d80cb2ec234fce751bce4976a5020",
+        "evidence": [
+          {
+            "url": "https://luma.com/ETHWomen_FL",
+            "fetchedAt": "2026-10-14T11:53:05.396Z",
+            "sha256": "6fae0710febe521f277b837701a725a3e37cd028c297294d2041a8ed6cd5498e"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/ETHWomen_FL",
+          "resolvedUrl": "https://luma.com/ETHWomen_FL",
+          "checkedAt": "2026-10-14T11:53:05.396Z",
+          "status": 200,
+          "sha256": "6fae0710febe521f277b837701a725a3e37cd028c297294d2041a8ed6cd5498e",
+          "title": "ETHWomen Florida · Luma",
+          "descriptions": [
+            "## Join us for the 6th Edition of ETHWomen, a free, female-focused, and inclusive event taking place on November 17–18, 2026.\n\n\n## ​This event invites women to dive into the world of Web3 through an educational program featuring inspiring speakers, hands-on learning, and valuable networking opportunities.\n\n\n## ​Open to all skill levels, ETHWomen creates a welcoming space for women to explore blockchain technology, cryptocurrency, AI, DeFi, and more.\n\n\n## ​Running alongside Blockchain Futurist Conference, all participants of ETHWomen will also get access to the 2nd US edition of Canada's Largest Web3 event.\n\nRegister now to be part of the future!\nFor more info go to: https://www.ethwomen.com/\n\n— IMPORTANT INFO--\n\nETHWomen Location: Entice Nightclub\nETHWomen Address: 1 Lucky St. Hollywood, Florida 33314\n\nWhen taking an uber select DAER Nightclub as your destination. This will take you to the 1 Lucky Street entrance located inside the Seminole Hard Rock Hotel.\n\nFree Parking is also available. Use the Lucky Street Garage located at 1 Lucky Street, Hollywood, Florida.\n\nThis event is located inside the Seminole Hard Rock Hotel property, which is quite large. Please make your way to Entice Nightclub or DAER Nightclub and follow the event signage from there."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luma-crypto-SmEV1KL3URBkN1p",
+      "slug": "tencent-cloud-ai-can-do-it-hackathon",
+      "olderSlug": "tencent-cloud-ai-can-do-it-hackathon",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Keep five concrete tracks, timeline and awards; remove empty label, sponsor placeholders and promotional repetition.",
+      "baselineHash": "64b469782d284add99fbd93dd1a3fdee39de505eec3abda60f224d88d904731a",
+      "currentHash": "64b469782d284add99fbd93dd1a3fdee39de505eec3abda60f224d88d904731a",
+      "olderHash": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
+      "proposedHash": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
+      "currentSource": null,
+      "olderSource": {
+        "url": "https://luma.com/26fqf3hy",
+        "fetchedAt": "2026-10-14T11:49:37.216Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
+        "sha256": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
+        "evidence": [
+          {
+            "url": "https://luma.com/26fqf3hy",
+            "fetchedAt": "2026-10-14T11:49:37.216Z",
+            "sha256": "cc5d82073b1278e493372392e552c24c1e0965ef97638f4e7608ee4cc7c5a3f4"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/26fqf3hy",
+          "resolvedUrl": "https://luma.com/26fqf3hy",
+          "checkedAt": "2026-10-14T11:49:37.216Z",
+          "status": 200,
+          "sha256": "cc5d82073b1278e493372392e552c24c1e0965ef97638f4e7608ee4cc7c5a3f4",
+          "title": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026 · Luma",
+          "descriptions": [
+            "## Tencent Cloud AI CAN DO IT Hackathon Singapore 2026\n\nCo-hosted by Tencent Cloud and AI Singapore, the AI CAN DO IT Tencent Cloud Hackathon Singapore 2026 brings together industry expertise, leading AI technologies, and academic talent to empower the next generation of AI innovators.\n\nParticipants will develop practical Agentic AI solutions using Tencent Cloud’s latest AI products, including CodeBuddy, WorkBuddy and Miora, to tackle real world business challenges contributed by leading organizations across industries.\n\nThis year’s Hackathon features five industry tracks.\n\n\n## 🚀 Five Industry Tracks. Real Challenges. Real Impact.\n\n\n🏦 Banking Track - DBS\n\nChallenge: Direct Conversational Transaction Agent (DCTA)\n\n🏢 Real Estate Track - Keppel\n\nChallenge: AI HARVEST – Turning Expert Know-How into Reusable Intelligence\n\n💳 FinTech Track - Aspire\n\nChallenge: The Internal Brain – Building a Context-Aware Enterprise Knowledge System with RBAC, Security Logging & Audit Trail\n\n🚗  Digital Native Track - Ryde\n\nChallenge: Multi-Agent Autonomous Dispute Resolution System\n\n🏥 Healthcare Track - NTU LKCMedicine\n\nChallenge 1: AI Grandma Knows Best: Intelligent Self-Triage and Care Navigation\n\nChallenge 2: AI Healthier Every Day: Intelligent Support for Long-Term Self-Care\n\n\nEach track is supported by industry organizations contributing real-world challenge statements and participating in the evaluation and judging of solutions.\n\nFrom industry challenges to hands-on AI workshops and demos, participants will have the opportunity to build, experiment, and innovate with Tencent Cloud’s AI technologies.\n\n\n## 📅  Hackathon Journey\n\n16 Sep — Kick-off Event\n\n16 Oct — Submission Deadline\n\n23 Oct — Finalists Announcement\n\n3 Nov — Demo Day 🎯\n\n\n## 🏆 Prizes & Participant Benefits\n\nAll participants will receive CodeBuddy and WorkBuddy credits to support their hackathon journey. Top-performing teams at the Demo Day will receive:\n\n🥇 First Prize — SGD 10,000\n\n🥈 Second Prize — SGD 5,000\n\n🥉 Third Prize — SGD 2,000\n\n\n🎥 Watch the Kick-off Livestream:\n\nYouTube: https://youtube.com/live/RFz_N8K2ZHA?feature=share\n\n🚀 Sign Up Your Team for the Hackathon:\n\nhttps://qdrl.qq.com/65xN1yft\n\n🚀 Submit Your Project\n\nhttps://tinyurl.com/TCHackathonSGProjectSubmission\n\n\n\n## The challenge starts here. The ideas start now.\n\n\n## AI CAN DO IT. Are you ready to build what’s next?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luma-batch-yCu03jZbXJloNc6",
+      "slug": "rayls-london-meetup",
+      "olderSlug": "rayls-london-meetup",
+      "decision": "apply-unsuperseded-description",
+      "reason": "Replace company-marketing filler with verified meetup facts and candid program status.",
+      "baselineHash": "a26bbed5a6aa30a1e935d88b97df3ecc76052f73853856b9ad3ea220bf2fd4ad",
+      "currentHash": "a26bbed5a6aa30a1e935d88b97df3ecc76052f73853856b9ad3ea220bf2fd4ad",
+      "olderHash": "d6bb9f1ef4b81af60ef5abbd0390a967b47be44c09adca45898c3fb7677010bb",
+      "proposedHash": "d6bb9f1ef4b81af60ef5abbd0390a967b47be44c09adca45898c3fb7677010bb",
+      "currentSource": null,
+      "olderSource": {
+        "url": "https://luma.com/yp556lph",
+        "fetchedAt": "2026-10-14T11:55:51.630Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Rayls Community Meetup: London",
+        "sha256": "d6bb9f1ef4b81af60ef5abbd0390a967b47be44c09adca45898c3fb7677010bb",
+        "evidence": [
+          {
+            "url": "https://luma.com/yp556lph",
+            "fetchedAt": "2026-10-14T11:55:51.630Z",
+            "sha256": "3251528c0d0ab1ec5e7f6db3aebb44241bbee7a5a162fdce333dc544ebef0ee6"
+          }
+        ]
+      },
+      "proof": [
+        {
+          "url": "https://luma.com/yp556lph",
+          "resolvedUrl": "https://luma.com/yp556lph",
+          "checkedAt": "2026-10-14T11:55:51.630Z",
+          "status": 200,
+          "sha256": "3251528c0d0ab1ec5e7f6db3aebb44241bbee7a5a162fdce333dc544ebef0ee6",
+          "title": "Rayls Community Meetup: London · Luma",
+          "descriptions": [
+            "## More details to be shared soon.\n\n​About Rayls (https://www.rayls.com/?utm_source=luma)\n\nRayls (https://www.rayls.com/?utm_source=luma) is a blockchain ecosystem that bridges traditional finance with decentralized finance by providing a compliant, private, and scalable infrastructure for financial institutions. Its hybrid architecture combines permissioned private networks with an EVM-compatible public chain to facilitate use cases like asset tokenization, cross-border payments, and central bank digital currency settlement.\n\nRegister to secure your spot and we'll share the venue with you straight away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premier-unchained-summit-india-2026",
+      "slug": "unchained-summit",
+      "olderSlug": "unchained-summit",
+      "decision": "keep-current-superseding-review",
+      "reason": "October 15 primary review supersedes October 14 copy; preserve entire current record.",
+      "baselineHash": "fa983403c0631f6de2d9a59ea41b59194a23017348483257b651111f58ab0759",
+      "currentHash": "8a63192462cafcb74d6ced469385e42802467dcf62af1b657f61cd6e8588e83b",
+      "olderHash": "55aadd3cfcf2d84b48554e7a578182935de643d23b0ed1bbea43fbb9c3c2ebb0",
+      "proposedHash": "8a63192462cafcb74d6ced469385e42802467dcf62af1b657f61cd6e8588e83b",
+      "currentSource": {
+        "url": "https://unchainedsummit.com/india/",
+        "fetchedAt": "2026-10-15T09:00:10.430Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Unchained Summit India 2026",
+        "sha256": "8a63192462cafcb74d6ced469385e42802467dcf62af1b657f61cd6e8588e83b",
+        "evidence": [
+          {
+            "url": "https://unchainedsummit.com/india/",
+            "fetchedAt": "2026-10-15T08:48:40.181Z",
+            "sha256": "861faaa354fa08493de2295a56052c7ed29a0b0f0460d134a9a831752f8ab0a7",
+            "representation": "html"
+          },
+          {
+            "url": "https://unchainedsummit.com/india/pitch-competition/",
+            "fetchedAt": "2026-10-15T08:56:23.705Z",
+            "sha256": "68ba2c92b82fb88d77c2d153b86f3290f8b8295a00b32f3c584403ce6592770b",
+            "representation": "html"
+          },
+          {
+            "url": "https://unchainedsummit.com/india/speakers",
+            "fetchedAt": "2026-10-15T08:57:22.947Z",
+            "sha256": "dd0c1dd2d46c6fbab3a8c689a034e056087f05d8fe6407ceaa33f58d80a8c3f5",
+            "representation": "html"
+          },
+          {
+            "url": "https://unchainedsummit.com/india/buy-tickets",
+            "fetchedAt": "2026-10-15T09:00:10.430Z",
+            "sha256": "f6e04697a1d7a76238e1720de2ae66ff31ce8cef96efa7fb01b0c40d1b660b35",
+            "representation": "html"
+          }
+        ]
+      },
+      "olderSource": {
+        "url": "https://unchainedsummit.com/india/pitch-competition/",
+        "fetchedAt": "2026-10-14T11:12:51.626Z",
+        "method": "reviewed-primary-sources",
+        "pageTitle": "Unchained Summit India 2026",
+        "sha256": "55aadd3cfcf2d84b48554e7a578182935de643d23b0ed1bbea43fbb9c3c2ebb0",
+        "evidence": [
+          {
+            "url": "https://unchainedsummit.com/india/",
+            "fetchedAt": "2026-10-11T18:39:09.228Z",
+            "sha256": "77ec204532b68b3501fbbfdb6d1c6d3d26c0d9a976ac24bcf295eb19485d917a"
+          },
+          {
+            "url": "https://unchainedsummit.com/india/pitch-competition/",
+            "fetchedAt": "2026-10-14T11:12:51.626Z",
+            "sha256": "a65834ad965b6f57cfe677b3701a2052b68e20c877959b405d1bb4ee237c715c",
+            "representation": "html"
+          }
+        ]
+      },
+      "proof": []
+    }
+  ],
+  "additions": [
+    {
+      "id": "curated-shanhaiwoo-mumbai-extension-2026",
+      "slug": "shanhaiwoo-mumbai-extension",
+      "decision": "add-primary-reverified-event",
+      "baselineHash": null,
+      "currentHash": null,
+      "olderHash": "1565998153b9388f9e2e6d595cefe99a484d40b79459e7e2b3eb684a3eea0cbd",
+      "proposedHash": "80bbd7ab28116b230a0f30ed74107832a0c66653e1c6620c191203c013a09698",
+      "proof": {
+        "url": "https://luma.com/47rm8enp",
+        "resolvedUrl": "https://luma.com/47rm8enp",
+        "status": 200,
+        "fetchedAt": "2026-10-15T14:02:54.454Z",
+        "sha256": "b205d2ce7437849b9567a71a9a2caf55e5087dfbd179a41bca8e5410241443da",
+        "contentType": "text/html; charset=utf-8",
+        "title": "ShanHaiWoo GBA 2026: Global Builder Village 山海坞·大湾区 2026：全球创造者共创营 · Luma",
+        "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/td/2da2ef84-03d5-426d-ba37-9cf54cff9a07.png",
+        "text": "Skip to ContentPresented byShanHaiWoo 山海坞FollowHosted ByShanHaiWooContact the HostReport EventAIShanHaiWoo GBA 2026: Global Builder Village 山海坞·大湾区 2026：全球创造者共创营ShanHaiWoo 山海坞Register to See AddressGet TicketsWelcome! Please choose your desired ticket type:Woo Connect Pass / 产业连接通行证 ​9 Left​Require ApprovalWoo Build Pass / 共建通行证​Require Approval Request to JoinAbout Event​Accelerating Next-Generation Applications​加速下一代应用落地​A Shenzhen-centered frontier technology builder village, with global extensions in Mumbai and Hong Kong.​以深圳为主场、孟买与香港为全球延伸的前沿科技共创计划。​📍 Oct. 15–31, 2026 · Shenzhen Core Program / 深圳主场​📍 Nov. 1–6, 2026 · Mumbai Devcon Extension / 孟买 Devcon 延伸​📍 Nov. 10, 2026 · Hong Kong Finale / 香港闭幕式​Building Tomorrow’s Tech, Together​一起构建明日科技​What Is ShanHaiWoo GBA?​什么是山海坞 GBA？​ShanHaiWoo GBA is a frontier technology co-creation program centered in Shenzhen.​This October, engineers, researchers, founders, designers, and creators from around the world will gather in Shenzhen to turn ideas and prototypes into real, usable products.​The core program takes place in Shenzhen from October 15–31, bringing together co-building, a 72-hour hackathon, industry connections, hard-tech visits, factory tours, and public programs.​Mumbai and Hong Kong serve as lighter global extensions after the Shenzhen Core Program, focusing on Devcon, international community connections, and the season finale.​山海坞 GBA 是一个以深圳为主场的前沿科技共创计划。​今年十月，来自全球的工程师、研究人员、创业者、设计师与创造者将在深圳相聚，把想法和原型转化为真实、可用的产品。​10 月 15–31 日，山海坞的核心活动将在深圳集中发生，包括共同建造、72 小时创客松、产业连接、硬科技参访、工厂行和公众活动。​孟买与香港是深圳主场之后的全球延伸节点，重点是 Devcon、国际社区连接与本季收官。​Come to move your ideas forward, find the right collaborators, and build something real.​在这里，推进你的想法，找到合适的伙伴，并把作品真正做出来。​Who’s Joining?​谁会加入？​We welcome individual builders and early-stage teams from different backgrounds.​我们欢迎不同背景的个人 Builder 与早期项目团队加入。​Individual Builders / 个人 Builder​Developers, researchers, designers, product builders, operators, growth professionals, AI-native builders, independent creators—and anyone who builds or wants to start building.​开发者、研究人员、设计师、产品经理、运营与增长从业者、AI 原生开发者、独立创作者，以及所有正在创造或准备开始创造的人。​Startups / 初创团队​Early-stage teams building real-world applications across AI, Physical AI, smart hardware, robotics, privacy, open source, or other frontier technologies.​正在 AI、Physical AI、智能硬件、机器人、隐私、开源或其他前沿技术领域构建真实应用的早期团队。​You can join with a working prototype, an early idea, or a problem you are determined to solve. What matters most is your commitment to building something real.​你可以带着产品原型、早期想法，或一个决心解决的问题加入。最重要的是，你愿意把它真正做出来。​What We’re Building​我们关注的方向​Technology is moving fast. What we need now are products and applications that create real value for people.​技术正在快速发展。现在更需要的是能够真正解决问题、为人们创造价值的产品与应用。​AI and Agentic Applications​AI 与智能体应用​AI-native products, autonomous agents, multimodal experiences, domain-specific copilots, developer tools, and new forms of human–AI collaboration.​AI 原生产品、自主 Agent、多模态体验、垂直领域 Copilot、开发者工具，以及新型人机协作方式。​Smart Hardware, Robotics and Physical AI​智能硬件、机器人与 Physical AI​Intelligent devices, robotics, embedded systems, wearables, sensors, edge AI, AI toys, and desktop robots.​智能设备、机器人、嵌入式系统、可穿戴设备、传感器、边缘 AI、AI 玩具与桌面机器人。​Privacy and Trusted Systems​隐私技术与可信系统​Privacy-enhancing technologies, secure data systems, local-first architectures, health data security, and tools that give people greater control over their data.​隐私增强技术、安全数据系统、本地优先架构、健康数据安全，以及帮助用户更好掌控个人数据的工具。​Open Source and Developer Infrastructure​开源与开发者基础设施​Open models, datasets, developer tools, research software, shared infrastructure, and sustainable open-source communities.​开放模型、数据集、开发者工具、科研软件、共享基础设施与可持续的开源社区。​AI Imaging and Digital Creativity​AI 影像与数字文创​AI short films, short-form series, visual storytelling, digital figurines, and new forms of cultural creativity.​AI 短片、短剧、视觉叙事、数字手办与新型数字文创。​These are examples, not limits. Cross-disciplinary ideas are especially welcome.​以上方向只是起点，而非限制。我们尤其欢迎跨领域的探索。​Key Program Dates​核心日程​Oct. 15–18｜ShanHai Cyber Opening​10.15–10.18｜山海赛博开园​Opening ceremony, hardware showcase, AI × hardware experiences, and community gatherings.​开幕式、硬件展、AI × 硬件体验与社区连接。​Oct. 17｜Woocon 0​10.17｜Woocon 0 坞民大会​Opening Ceremony: 14:30–15:30​ShanHaiWoo Town Hall 16:00–18:00​开幕式：14:30–15:30​坞民大会：16:00–18:00​Oct. 19｜Shenzhen Hardware Startup Map​10.19｜深圳硬件创业地图​Shenzhen’s hardware ecosystem, supply chain overview, and a closed-door technology company visit.​深圳硬件创业地图、产业链拆解与闭门科技企业参访。​The 15:00 company visit requires a separate application and approval.​15:00 科技企业参访为闭门活动，需要单独报名审核。​Oct. 20｜Woocon 1​10.20｜Woocon 1 坞民大会​15:00–17:00​Oct. 21–23｜72-Hour AI × Hardware Hackathon​10.21–10.23｜72 小时 AI × 硬件创客松​An open-application hackathon for around 80 participants, featuring:​面向公众开放报名、审核录取，预计约 80 人参与，包括：​Kunpeng Workshop: AI × Wearables × AR / 鲲鹏工作坊：AI × 可穿戴 × AR​Nüwa Workshop: AI Toys × Desktop Robots / 女娲工作坊：AI 玩具 × 桌面机器人​“Nomad Life” Co-Creation Workshop / “游民人生”共创工作坊​AI Imaging Workshop / AI 影像工作坊​30-minute Going Global Workshop / 约 30 分钟出海工作坊​Demo Day on the afternoon of Oct. 23 / 10 月 23 日下午 Demo Day​A pass is not required to apply. Woo Connect Pass holders receive priority review.​无需购买 Pass 即可报名。Woo Connect Pass 持有者享有优先审核权益。​Oct. 24｜Crazy Weekend: ShanHaiWoo Maker Festival​10.24｜Crazy Weekend：山海造物节​A public event for around 100–300 participants, featuring:​面向公众开放，预计约 100–300 人参与，包括：​Project showcases / 项目展示​Market stalls / 市集摆摊​Sellathon / 卖客松​AI Tavern / AI 小酒馆​AI imaging and digital creativity / AI 影像及文创展示​Music program / 音乐活动​Public open space / 公众开放空间​Oct. 26｜Hard Tech Frontier Overview​10.26｜硬科技前沿概览​Hard-tech product showcases, concept spaces, and visits to key partner companies.​硬科技产品展示、集合空间与重点合作企业参访。​Closed-door program for around 30 participants.​闭门活动，预计约 30 人参与。​Oct. 27–28｜Shenzhen Factory Tour​10.27–10.28｜深圳工厂行​A closed-door program exploring how products move from demos to prototyping, pilot production, and mass manufacturing.​了解产品如何从 Demo 进入打样、小批量试产与实际量产。​Around 30 participants. Priority application is available to Woo Connect Pass holders.​预计约 30 人参与，Woo Connect Pass 持有者享有优先申请权益。​Oct. 27｜Woocon 2​10.27｜Woocon 2 坞民大会​15:00–17:00​Oct. 29–30｜Frontier Technology Conference Visits​10.29–10.30｜前沿科技大会参访​AI conference, cloud technology, developer ecosystems, and industry connections.​AI大会、云技术、开发者生态与产业连接。​Oct. 31｜Shenzhen Demos, Recap and Founders’ Night​10.31｜深圳 Demo、Recap 与创业者之夜​Project demos, Shenzhen recap, founder and investor exchange, dinner, and party.​项目 Demo、深圳阶段 Recap、创业者与投资人交流、晚餐及 Party。​Around 80–100 participants.​预计约 80–100 人参与。​Resident Life​坞民日常​Woocon · ShanHaiWoo Town Hall​Woocon 坞民大会​Woocon is ShanHaiWoo’s recurring resident gathering. All Woo Connect and Woo Build residents may join.​Woocon 是山海坞的日常社区活动，Woo Connect 与 Woo Build 坞民均可参加。​SBT Soulbound Talks​SBT 灵魂对话​After each Woocon, residents are randomly placed into groups of three to four. Within two to three days, each group holds a three-hour in-depth conversation at a time decided by its members.​每次 Woocon 结束后，坞民将被随机分为 3–4 人小组。各小组在 Woocon 结束后的第 2–3 天内，完成一次持续 3 小时的深度对话，具体时间由小组成员自行决定。​What Does It Feel Like?​在山海坞会有怎样的体验？​The core ShanHaiWoo experience takes place in Shenzhen—not just to work, but to find your rhythm, your collaborators, and your reason to build again.​山海坞的核心体验发生在深圳。这不只是一段工作旅程，也是寻找创造节奏、合作伙伴和重新出发理由的过程。​Live and Build / 共同生活与创造​Stay wherever you choose. We will work with the venue and nearby hotels to seek discounted rates where possible.​住宿地点可自由选择。我们将与深圳活动场地及周边酒店沟通，尽量为坞民争取优惠价格。​Spend your days alongside other builders through shared workspaces, Woocon, SBT, workshops, and collaborative activities.​参与者将在共享工作空间中共同创造，并通过 Woocon、SBT、Workshop 和社区活动建立连接。​Sprint / 集中冲刺​Move from ideas to prototypes, from feedback to iteration, and from demos toward manufacturing.​从想法到原型，从反馈到迭代，再从 Demo 走向制造。​Learn / 深度学习​Learn from founders, engineers, researchers, product leaders, manufacturers, and industry partners.​向创业者、工程师、研究人员、产品负责人、制造企业与产业伙伴学习。​Share / 开放分享​Share projects, experiences, and lessons with the wider builder community.​与更广泛的 Builder 社区分享项目、经验与实践。​Grow / 持续成长​Find collaborators and connect with the ecosystem, partnerships, community, and opportunities that may support your next stage.​找到合适的合作伙伴，并连接下一阶段所需的生态、合作、社区与机会。​ShanHaiWoo Passes​山海坞通行证​Both pass holders are Woo Residents and may join Woocon, SBT, regular workshops, build sessions, Office Hours, and community programs.​两种 Pass 的持有者都是 Woo Residents／坞民，均可参加 Woocon、SBT、常规 Workshop、Build Sessions、Office Hours 与社区活动。​Woo Connect Pass｜产业连接通行证​Price: US$199​价格：US$199​Includes:​包含：​Main co-creation space / 主营地共创空间​Workshops and Build Sessions / Workshop 与 Build Sessions​All Woocon assemblies / 全部 Woocon 坞民大会​SBT Soulbound Talks / SBT 灵魂对话​Office Hours​Priority application for technology company visits / 科技企业参访优先申请​Priority application for hard-tech visits / 硬科技参访优先申请​Priority application for the Shenzhen Factory Tour / 深圳工厂行优先申请​Priority application for other closed-door programs / 其他闭门及限制人数活动优先申请​Selected meal benefits / 部分餐饮权益​Exclusive Woo Connect merchandise pack / Woo Connect 专属周边礼包​Best for builders who want to explore Shenzhen’s hard-tech and manufacturing ecosystem, connect with companies and factories, and understand how products move from demos to mass production.​适合希望深入了解深圳硬科技与制造生态，连接企业、工厂与供应链，并了解产品如何从 Demo 走向量产的 Builder。​Woo Build Pass｜共建通行证​Price: US$49​价格：US$49​Includes:​包含：​Main co-creation space / 主营地共创空间​Regular workshops and Build Sessions / 常规 Workshop 与 Build Sessions​All Woocon assemblies / 全部 Woocon 坞民大会​SBT Soulbound Talks / SBT 灵魂对话​Office Hours​Regular community programs / 山海坞日常社区活动​Best for builders who want to use the co-creation space, join community programs, and focus on building their own projects and prototypes.​适合希望使用共创空间、参加社区活动，并专注推进个人项目和原型的 Builder。​Woo Build Pass does not include priority access to closed-door industry programs. Holders may apply if additional places become available.​Woo Build Pass 不包含闭门产业活动的优先权益。如仍有开放名额，可根据单场活动规则另行申请。​Priority application does not guarantee admission. Closed-door and limited-capacity programs require a separate application, approval, or invitation.​优先申请不代表自动获得活动名额。闭门及限制人数活动需要单独报名审核或邀请。​Global Extensions​全球延伸​Nov. 1–6｜Mumbai Devcon Extension​11.1–11.6｜孟买 Devcon 延伸​Continue connecting with global developers and technology communities during Devcon.​在 Devcon 期间继续连接全球开发者与科技社区。​Nov. 10｜Hong Kong Finale​11.10｜香港闭幕式​A public closing event featuring the annual recap, project and community showcases, keynote, and panel discussions.​面向公众开放的本季闭幕活动，包括年度 Recap、项目与社区成果分享、Keynote 与主题 Panel。​Separate registration will be required.​需要通过单场活动页面另行登记。​Do I Need to Join the Whole Program?​我需要全程参与吗？​No. You may join based on your own schedule.​不需要。你可以根据自己的时间安排参与。​That said, we encourage you to stay for as long as possible during the Shenzhen Core Program. The more time you spend in the village, the more opportunities you will have to develop your work, build meaningful relationships, and experience the community in depth.​不过，我们仍建议尽可能长时间地参与深圳主场。停留得越久，就越有机会深入推进项目、建立长期连接，并获得更完整的社区体验。​Accommodation and Transportation​住宿与交通​Accommodation is not included. We will work with the Shenzhen venue and nearby hotels to seek discounted rates for Woo Residents where possible. Details will be shared in the pre-event guide.​Pass 不包含住宿。我们将与深圳活动场地及周边酒店沟通，尽量为坞民争取优惠价格，具体信息以行前指南为准。​Passes do not include intercity transportation.​Pass 不包含城市间交通。​About ShanHaiWoo​关于山海坞​Inspired by the imaginative worlds of Chinese mythology, ShanHaiWoo brings people from diverse backgrounds together to live, build, and create.​By fostering a culture of care, openness, mutual support, and professionalism, we encourage everyone to express themselves and contribute to the community. Together, participants shape ShanHaiWoo into the kind of community they most want to be part of.​山海坞从中国神话的想象世界中获得灵感，邀请不同背景的人共同生活、创造与协作。​我们希望营造一个真诚、开放、彼此支持且具有专业精神的环境。每位参与者不仅构建自己的作品，也共同塑造一个理想中的创造者社区。​Website 官网：https://www.shanhaiwoo.com​Telegram：https://t.me/+oK48BwpNhlRjN2U1​X：@shanhaiwooLocationPlease register to see the exact location of this event.Presented byShanHaiWoo 山海坞FollowHosted ByShanHaiWooContact the HostReport EventAI",
+        "event": {
+          "id": "evt-bGMOr0uNsEtzEBS",
+          "name": "ShanHaiWoo GBA 2026: Global Builder Village 山海坞·大湾区 2026：全球创造者共创营",
+          "start": "2026-10-15T01:00:00.000Z",
+          "end": "2026-11-10T10:00:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "cover": "https://images.lumacdn.com/uploads/ru/c7bcb94a-6f0d-4809-80d7-e8d21df0d7c7.png",
+          "locationHidden": true
+        }
+      },
+      "sourceFile": "content/events/sources/curated-events.json",
+      "coverCheck": {
+        "url": "https://images.lumacdn.com/uploads/ru/c7bcb94a-6f0d-4809-80d7-e8d21df0d7c7.png",
+        "status": 200,
+        "contentType": "image/png",
+        "fetchedAt": "2026-10-15T14:07:57.456Z",
+        "sha256": "63edc4fd3f7b561347af44375f4abe09c7425553cf5e26337aedc027b338e6c5"
+      }
+    },
+    {
+      "id": "curated-alchemy-devcon-meetings-2026",
+      "slug": "alchemy-devcon-meetings",
+      "decision": "add-primary-reverified-event",
+      "baselineHash": null,
+      "currentHash": null,
+      "olderHash": "94a959942ab5d04cb04e9c3d8c71cffcffa65df5b9b3544c53070078fa990e47",
+      "proposedHash": "a83ae40f83fa493e84a4c1a166bf5647c5acb8ae76fcecd7c4bda343770db7b2",
+      "proof": {
+        "url": "https://www.alchemy.com/events/devcon-2026",
+        "resolvedUrl": "https://www.alchemy.com/events/devcon-2026",
+        "status": 200,
+        "fetchedAt": "2026-10-15T14:02:53.793Z",
+        "sha256": "be1e642cd52874f8a6b2cb22c05bf8e9d7f83cbea811220f1b014329c6464a1d",
+        "contentType": "text/html; charset=utf-8",
+        "title": "Devcon 2026",
+        "image": "https://media.alchemy.com/events/devcon-2026-banner.jpg",
+        "text": "<iframe title=\"Google Tag Manager (noscript)\" src=\"https://www.googletagmanager.com/ns.html?id=GTM-MZCPFXZP\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>Skip to content3 November – 6 November 2026Devcon 2026Devcon returns in 2026 in Mumbai. Join us for the Ethereum Foundation's flagship gathering of developers, researchers, and builders.Want to meet our team during Devcon week in Mumbai? Fill in the form and we'll set it up.Mumbai, IndiaEvent websiteFull nameEmail addressCompany URLHow can we help?SubmitDevcon is heading to MumbaiThe Ethereum Foundation's flagship developer conference lands in Mumbai for its first-ever Indian edition. Devcon brings together blockchain developers, researchers, and crypto-native builders for four days of technical deep-dives, scaling research, and ecosystem-defining conversations.We're planning side events for the week and will share details as they're locked in. If you're a builder heading to Mumbai and want to talk infrastructure, fill in the form and we'll connect.We look forward to seeing you in Mumbai!Have questions for the events team?Reach out to: [email protected] and we will get back to you as soon as possible.Full nameEmail addressCompany URLHow can we help?Submit"
+      },
+      "sourceFile": "content/events/sources/curated-events.json",
+      "coverCheck": {
+        "url": "https://media.alchemy.com/events/devcon-2026-banner.jpg",
+        "status": 200,
+        "contentType": "image/jpeg",
+        "fetchedAt": "2026-10-15T14:07:58.397Z",
+        "sha256": "15608a1ecd231268a23ddd0c470b694f8732c88df6d976aac134a19e70449ae0"
+      }
+    },
+    {
+      "id": "india-luma-arbiverse-mumbai",
+      "slug": "arbiverse-mumbai",
+      "decision": "add-primary-reverified-event",
+      "baselineHash": null,
+      "currentHash": null,
+      "olderHash": "0b841e68f30c67b7e48e8d0f4d3c8c98ccf383f927eed56f37abc922fadb0515",
+      "proposedHash": "5aafd534287a2df5502db72d0291b13936aae12aae98bca808deb6fdf3118665",
+      "proof": {
+        "url": "https://luma.com/arbiverse-mumbai",
+        "resolvedUrl": "https://luma.com/arbiverse-mumbai",
+        "status": 200,
+        "fetchedAt": "2026-10-15T14:02:54.200Z",
+        "sha256": "d5a317d202bd624708c9427771dc2a7b0a9ef7fd9ea673eb345e110b85b7c4e3",
+        "contentType": "text/html; charset=utf-8",
+        "title": "ArbiVerse Mumbai 🇮🇳 · Luma",
+        "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2i/7a9a65b1-2e7f-4f08-95e7-0855cd091247.png",
+        "text": "Skip to ContentFeatured in MumbaiPresented byArbitrumFollowHosted ByArbitrumAditi ChopraContact the HostReport EventCryptoFeatured in MumbaiArbiVerse Mumbai 🇮🇳ArbitrumRegister to See AddressMumbai, MaharashtraRegistrationApproval RequiredYour registration is subject to host approval.Welcome! To join the event, please register below. Request to JoinAbout Event​ArbiVerse Mumbai 🇮🇳​Join the Arbitrum community in Mumbai during Devcon week for a full day of ecosystem insights, keynote talks, builder conversations, and networking.​ArbiVerse Mumbai brings together developers, founders, and ecosystem partners to explore what’s next on Arbitrum, from scaling infrastructure and zero-knowledge technology to agentic payments and AI-driven development.​Hear from teams across Arbitrum and Offchain, connect with fellow builders, and learn about the tools, grants, technical support, and ecosystem programs available to help you bring your ideas onchain. Whether you’re already building on Arbitrum or exploring where to start, there’s something here for you.​What to expect​Ecosystem updates: Explore the latest developments in Arbitrum and the programmable economy.​Technical insights: Sessions covering ZK, agentic payments, priority gas auctions, fast feeds, and AI-driven development.​Builder conversations: Panels and fireside chats with people shipping on Arbitrum.​Support for your next step: Discover Open House and other pathways to grants, technical support, and ecosystem connections.​Community connections: Meet developers, founders, and partners for afternoon and evening networking.​Agenda (tentative)​(All times are in IST. Sessions and timings are subject to change)​10:30 AM onwards: Registration​11:00–11:30 AM: The Next Wave of Onchain Demand: Use Cases Worth Building For - Radek, Sr Partnerships Manager at Arbitrum Foundation​11:30 AM–12:00 PM: Priority-gas-auctions and fast feed - Shruti Gandhi, Product at Offchain​12:00–12:30 PM: Workshop: Live demo of PGA & FF - Daniel Ortega, Dev Rel at Arbitrum Foundation​12:30–1:00 PM: The Economics of Contentious Blockspace: What Actually Drives Chain Revenue - David Bolger, Head of Consumer at Offchain​1:00–1:30 PM: Keynote: Steven Goldfeder, Co-founder and CEO at Offchain​1:30–2:30 PM: Lunch and networking​2:30–3:00 PM: ZK on Arbitrum - Daniel Lumi, Product at Offchain​3:00–3:30 PM: Workshop: AI-driven development on Arbitrum - Daniel Ortega, Dev Rel at Arbitrum Foundation​3:30–4:00 PM: How Arbitrum supports Builders - Swagtimus, Dev Rel at Arbitrum Foundation​4:00 - 6:00 PM: Networking​6:00–6:30 PM: Closing remarks & program announcements​Before you join​No laptop is required for general attendance. Bring one if you’d like to participate in demos or builder activities.​Media Release​By attending, you are granting to the event organizer and its affiliates the right and permission to use and publish in any media or format, for any lawful business purposes, your image, likeness, name, voice and any other identifying characteristics as may be captured at the event without compensation or liability. Please refer to our privacy policy for more details.LocationPlease register to see the exact location of this event.Mumbai, MaharashtraPresented byArbitrumFollowHosted ByArbitrumAditi ChopraContact the HostReport EventCrypto",
+        "event": {
+          "id": "evt-xrda0Zu3y25TDES",
+          "name": "ArbiVerse Mumbai 🇮🇳",
+          "start": "2026-11-02T05:00:00.000Z",
+          "end": "2026-11-02T13:00:00.000Z",
+          "timezone": "Asia/Kolkata",
+          "cover": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+          "locationHidden": true
+        }
+      },
+      "sourceFile": "content/events/sources/india-luma-events.json",
+      "coverCheck": {
+        "url": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+        "status": 200,
+        "contentType": "image/png",
+        "fetchedAt": "2026-10-15T14:07:59.986Z",
+        "sha256": "119ac90243d8c107bac224faa7b705471ce7f694bc5b0b09ef3b8457947d7c12"
+      }
+    }
+  ],
+  "protectedIds": [
+    "ibw-official-mip-20-road-to-devcon-10-24",
+    "premier-ibt-mumbai-2026",
+    "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+    "premier-indiabw-2026",
+    "ibw-official-ibw-institutional-forum-11-02",
+    "ibw-official-future-asset-forum-2026",
+    "india-luma-3doehm1b",
+    "ibw-official-defi-security-summit-day-1-11-01",
+    "india-luma-83ujl6ms",
+    "ibw-official-ravecon-b-ender-11-04",
+    "india-luma-li3sv90r",
+    "india-luma-jb4zsel1",
+    "premier-cypherpunk",
+    "ibw-official-solana-summit-india-11-02",
+    "ibw-official-onchain-dev-city-india-11-02",
+    "india-luma-team1mumbai",
+    "ibw-official-ibw-official-after-party-11-02",
+    "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+    "premier-devcon-2026",
+    "luma-batch-HWyWCSbQQ3n6tLU",
+    "india-luma-mc8pq06y",
+    "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+    "india-luma-h0x443s9",
+    "india-luma-08ogvz1i",
+    "ibw-official-media-accelerator-startup-cohort-11-03",
+    "india-luma-nyw6qigp",
+    "india-luma-2kj0jqf9",
+    "india-luma-uqmzpq5k",
+    "ibw-official-eip-hub-3-7-nov-11-03",
+    "india-luma-sgrf4yq5",
+    "india-luma-ib9j3xxe",
+    "premier-ethindia-2026",
+    "india-luma-qk93a446",
+    "luma-batch-G3fjJAlPZ0oK9GC",
+    "luma-batch-kBSIe7BSMtDFldg",
+    "india-luma-6gnkjcqx",
+    "india-luma-hr8w0hmd",
+    "india-luma-ai6owvhz",
+    "india-luma-xuofsg0p",
+    "india-luma-qzzu690f",
+    "india-luma-islzi7v3",
+    "ibw-official-quantstamp-mumbai-lounge-11-04",
+    "india-luma-kz3klqjq",
+    "premier-ethmumbai-2026",
+    "premier-unchained-summit-india-2026",
+    "india-luma-ub56pe38",
+    "india-luma-5u1evsou",
+    "luma-batch-evtaPGKR2FFDEuck",
+    "ibw-official-pragma-mumbai-11-05",
+    "luma-batch-cFXe8eT3nFr409n",
+    "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+    "india-luma-tswdcctj",
+    "india-luma-v0fimew1",
+    "india-luma-0ej7kbb0"
+  ],
+  "freshChecks": [
+    {
+      "url": "https://luma.com/arbitrum-summit-mumbai",
+      "resolvedUrl": "https://luma.com/arbiverse-mumbai",
+      "status": 200,
+      "fetchedAt": "2026-10-15T14:02:54.481Z",
+      "sha256": "ac4c3b0f3e381b618aedc4f10347f9c66f1b2666961ef525d2b42e2cda35c93b",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ArbiVerse Mumbai 🇮🇳 · Luma",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2i/7a9a65b1-2e7f-4f08-95e7-0855cd091247.png",
+      "event": {
+        "id": "evt-xrda0Zu3y25TDES",
+        "name": "ArbiVerse Mumbai 🇮🇳",
+        "start": "2026-11-02T05:00:00.000Z",
+        "end": "2026-11-02T13:00:00.000Z",
+        "timezone": "Asia/Kolkata",
+        "cover": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+        "locationHidden": true
+      }
+    },
+    {
+      "url": "https://luma.com/arbiverse-mumbai",
+      "resolvedUrl": "https://luma.com/arbiverse-mumbai",
+      "status": 200,
+      "fetchedAt": "2026-10-15T14:02:54.200Z",
+      "sha256": "d5a317d202bd624708c9427771dc2a7b0a9ef7fd9ea673eb345e110b85b7c4e3",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ArbiVerse Mumbai 🇮🇳 · Luma",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2i/7a9a65b1-2e7f-4f08-95e7-0855cd091247.png",
+      "event": {
+        "id": "evt-xrda0Zu3y25TDES",
+        "name": "ArbiVerse Mumbai 🇮🇳",
+        "start": "2026-11-02T05:00:00.000Z",
+        "end": "2026-11-02T13:00:00.000Z",
+        "timezone": "Asia/Kolkata",
+        "cover": "https://images.lumacdn.com/uploads/56/10633d3d-7d41-4ea6-a5f2-36ec512bb00e.png",
+        "locationHidden": true
+      }
+    },
+    {
+      "url": "https://luma.com/47rm8enp",
+      "resolvedUrl": "https://luma.com/47rm8enp",
+      "status": 200,
+      "fetchedAt": "2026-10-15T14:02:54.454Z",
+      "sha256": "b205d2ce7437849b9567a71a9a2caf55e5087dfbd179a41bca8e5410241443da",
+      "contentType": "text/html; charset=utf-8",
+      "title": "ShanHaiWoo GBA 2026: Global Builder Village 山海坞·大湾区 2026：全球创造者共创营 · Luma",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/td/2da2ef84-03d5-426d-ba37-9cf54cff9a07.png",
+      "event": {
+        "id": "evt-bGMOr0uNsEtzEBS",
+        "name": "ShanHaiWoo GBA 2026: Global Builder Village 山海坞·大湾区 2026：全球创造者共创营",
+        "start": "2026-10-15T01:00:00.000Z",
+        "end": "2026-11-10T10:00:00.000Z",
+        "timezone": "Asia/Shanghai",
+        "cover": "https://images.lumacdn.com/uploads/ru/c7bcb94a-6f0d-4809-80d7-e8d21df0d7c7.png",
+        "locationHidden": true
+      }
+    },
+    {
+      "url": "https://www.alchemy.com/events/devcon-2026",
+      "resolvedUrl": "https://www.alchemy.com/events/devcon-2026",
+      "status": 200,
+      "fetchedAt": "2026-10-15T14:02:53.793Z",
+      "sha256": "be1e642cd52874f8a6b2cb22c05bf8e9d7f83cbea811220f1b014329c6464a1d",
+      "contentType": "text/html; charset=utf-8",
+      "title": "Devcon 2026",
+      "image": "https://media.alchemy.com/events/devcon-2026-banner.jpg"
+    },
+    {
+      "url": "https://media.alchemy.com/events/devcon-2026-banner.jpg",
+      "resolvedUrl": "https://media.alchemy.com/events/devcon-2026-banner.jpg",
+      "status": 200,
+      "fetchedAt": "2026-10-15T14:02:54.928Z",
+      "sha256": "15608a1ecd231268a23ddd0c470b694f8732c88df6d976aac134a19e70449ae0",
+      "contentType": "image/jpeg"
+    }
+  ],
+  "notes": [
+    "Source captures from October 14 retain original hashes and dates. Only the three additions were fetched again.",
+    "Five of 22 short-content revisions superseded; separate Unchained Summit addition also superseded.",
+    "Only older facts change was Sidequest Happy Hour; current October 15 facts retained.",
+    "Historical reports are input evidence, not claims of current validation or deployment."
+  ],
+  "validation": {
+    "checkedAt": "2026-10-15T14:06:53.363Z",
+    "beforeCount": 214,
+    "afterCount": 216,
+    "protectedReviewedIds": 54,
+    "protectedIbwRecords": 55,
+    "protectedRecordsByteEquivalent": true,
+    "freeSocietyHackathonPresent": true,
+    "allTrackedNonEventFilesHashUnchanged": true,
+    "changedTrackedFiles": [
+      "content/event-slug-history.json",
+      "content/events-runtime.json",
+      "content/events/INDEX.md",
+      "content/events/catalog-reviewed-descriptions.json",
+      "content/events/descriptions.md",
+      "content/events/sources/curated-events.json",
+      "content/events/sources/india-luma-events.json"
+    ],
+    "removedRuntimeRecords": [
+      {
+        "id": "token2049-evt-rnmJyD2klnY67Ue",
+        "slug": "ai-agents-space-yacht-fireside",
+        "startDate": "2026-10-15T09:30:00.000Z",
+        "endDate": "2026-10-15T14:00:00.000Z"
+      }
+    ],
+    "allPublishedDescriptionsSourceBacked": 216,
+    "onlyIntendedRuntimeDescriptionsChanged": true,
+    "existingMetadataUnchanged": true,
+    "testsPassed": [
+      "test:event-descriptions",
+      "test:event-schema",
+      "test:event-public-data",
+      "check:event-content",
+      "scripts/test-event-formatting.ts",
+      "git diff --check"
+    ],
+    "preexistingTestFailure": {
+      "test": "test:event-source-recovery",
+      "reason": "w3v-crypto-worlds-fair-hackathon-by-colosseum is absent from both fcb00131c runtime and regenerated runtime; historical test assumes ended records remain published. Test left unchanged."
+    }
+  }
+}

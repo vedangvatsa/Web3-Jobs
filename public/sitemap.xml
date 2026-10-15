@@ -307,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ai-agents-space-yacht-fireside</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/ai-and-web3-engineering-careers</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -447,6 +441,12 @@
   <url>
     <loc>https://hashtagweb3.com/alchemy</loc>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/alchemy-devcon-meetings</loc>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -959,6 +959,12 @@
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/arbiverse-mumbai</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/arc</loc>
@@ -13513,12 +13519,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/pm180</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/pm181</loc>
     <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
@@ -16462,6 +16462,12 @@
     <loc>https://hashtagweb3.com/shanghai</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/shanhaiwoo-mumbai-extension</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>

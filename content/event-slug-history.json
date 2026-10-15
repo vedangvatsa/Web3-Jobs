@@ -4395,5 +4395,17 @@
     "aliases": [
       "freesocietyhackathon"
     ]
+  },
+  "curated-shanhaiwoo-mumbai-extension-2026": {
+    "slug": "shanhaiwoo-mumbai-extension",
+    "aliases": []
+  },
+  "india-luma-arbiverse-mumbai": {
+    "slug": "arbiverse-mumbai",
+    "aliases": []
+  },
+  "curated-alchemy-devcon-meetings-2026": {
+    "slug": "alchemy-devcon-meetings",
+    "aliases": []
   }
 }

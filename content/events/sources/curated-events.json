@@ -4587,5 +4587,98 @@
         }
       ]
     }
+  },
+  {
+    "id": "curated-shanhaiwoo-mumbai-extension-2026",
+    "slug": "shanhaiwoo-mumbai-extension",
+    "name": "ShanHaiWoo Mumbai Devcon Extension",
+    "description": "ShanHaiWoo announces a Mumbai Devcon extension from November 1 to 6, following its October 15 to 31 core program in Shenzhen. The Mumbai segment focuses on connections with global developers and technology communities during Devcon.\n\nThe linked registration page covers the wider Global Builder Village program and lists Shenzhen as its main location. A Mumbai-specific venue and daily timetable have not been published. Accommodation and intercity transportation are not included in the program passes.",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-06",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "url": "https://luma.com/47rm8enp",
+    "registrationUrl": "https://luma.com/47rm8enp",
+    "registrationAvailability": "to-be-announced",
+    "coverImage": "https://images.lumacdn.com/uploads/ru/c7bcb94a-6f0d-4809-80d7-e8d21df0d7c7.png",
+    "source": "curated-premier",
+    "organizer": {
+      "type": "Organization",
+      "name": "ShanHaiWoo",
+      "url": "https://www.shanhaiwoo.com/"
+    },
+    "sideEventFor": [
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/47rm8enp",
+      "fetchedAt": "2026-10-15T14:02:54.454Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ShanHaiWoo Mumbai Devcon Extension",
+      "sha256": "3e14418766ca1f1e63ff0c299d7b320420413c6f6467b6cc42223f68b6511a63",
+      "evidence": [
+        {
+          "url": "https://luma.com/47rm8enp",
+          "fetchedAt": "2026-10-14T11:12:50.118Z",
+          "sha256": "c37ca8685b328b2a4a1e3d941d4fa19be3166299e620515942de6eff4e35644e",
+          "representation": "html"
+        },
+        {
+          "url": "https://luma.com/47rm8enp",
+          "fetchedAt": "2026-10-15T14:02:54.454Z",
+          "sha256": "b205d2ce7437849b9567a71a9a2caf55e5087dfbd179a41bca8e5410241443da",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "curated-alchemy-devcon-meetings-2026",
+    "slug": "alchemy-devcon-meetings",
+    "name": "Alchemy Meetings at Devcon Mumbai",
+    "description": "Alchemy is accepting requests to meet its team during Devcon week in Mumbai, November 3 to 6. Use the organizer form to provide your name, email, company URL and what you would like help with. The team will arrange the meeting.\n\nThis is a meeting-request opportunity, with no published session timetable or meeting venue. Alchemy says its additional side events will be announced once details are confirmed.",
+    "startDate": "2026-11-03",
+    "endDate": "2026-11-06",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "url": "https://www.alchemy.com/events/devcon-2026",
+    "registrationUrl": "https://www.alchemy.com/events/devcon-2026",
+    "coverImage": "https://media.alchemy.com/events/devcon-2026-banner.jpg",
+    "source": "curated-premier",
+    "organizer": {
+      "type": "Organization",
+      "name": "Alchemy",
+      "url": "https://www.alchemy.com/"
+    },
+    "sideEventFor": [
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://www.alchemy.com/events/devcon-2026",
+      "fetchedAt": "2026-10-15T14:02:53.793Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Alchemy Meetings at Devcon Mumbai",
+      "sha256": "cc123586bc45f98b76557c12462c8f3448215634d5ec7939a8b6c2bc6060b41a",
+      "evidence": [
+        {
+          "url": "https://www.alchemy.com/events/devcon-2026",
+          "fetchedAt": "2026-10-14T11:12:50.750Z",
+          "sha256": "f8ae8de277f079ccded6d01a0fee90f7a9a0f3aca45fbc54e7fc441e91f79116",
+          "representation": "html"
+        },
+        {
+          "url": "https://www.alchemy.com/events/devcon-2026",
+          "fetchedAt": "2026-10-15T14:02:53.793Z",
+          "sha256": "be1e642cd52874f8a6b2cb22c05bf8e9d7f83cbea811220f1b014329c6464a1d",
+          "representation": "html"
+        }
+      ]
+    }
   }
 ]
