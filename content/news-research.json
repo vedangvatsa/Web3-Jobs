@@ -40307,11 +40307,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "4cf0fc9f4dd0182617df",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:23:12.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing take on the same Starknet vote; its page returned 200 with prediction-market framing. Governance post plus independent confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:29.364Z",
+      "retrySearches": [
+        "Starknet L1 vote governance post independent confirmation"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "29fcbcf90a5686414547": {
       "source": "Crypto Briefing",
@@ -77611,6 +77629,25 @@
           "reviewedAt": "2026-10-15T11:58:27.323Z",
           "retrySearches": [
             "Starknet L1 vote governance post second outlet"
+          ]
+        },
+        "4cf0fc9f4dd0182617df": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing take on the same Starknet vote; its page returned 200 with prediction-market framing. Governance post plus independent confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:29.364Z",
+          "retrySearches": [
+            "Starknet L1 vote governance post independent confirmation"
           ]
         }
       },
