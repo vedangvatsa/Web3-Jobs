@@ -42066,11 +42066,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6b87f257167f07344afd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:27:34.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Explosions in southern Saudi Arabia amid Houthi tensions; geopolitics with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:16.131Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "91700f2ab83a1dd4bb0f": {
       "source": "BeInCrypto",
@@ -74958,6 +74963,13 @@
           "note": "FTC subpoenas of OpenAI and Anthropic on consumer safety; AI-regulation story with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:14.156Z"
+        },
+        "6b87f257167f07344afd": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Explosions in southern Saudi Arabia amid Houthi tensions; geopolitics with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:16.131Z"
         }
       },
       "baselineSlugs": [
