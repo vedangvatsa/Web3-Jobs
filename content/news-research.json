@@ -42653,11 +42653,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "b883039d71d58faa5a57",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T00:55:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; Polygon closed Coinme with 37 licenses plus 11 exemptions. Polygon post plus registry confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:19.205Z",
+      "retrySearches": [
+        "Polygon Coinme acquisition licenses registry second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "f45197e38821d52b30eb": {
       "source": "CryptoSlate",
@@ -77480,6 +77494,21 @@
           "reviewedAt": "2026-10-15T11:58:17.295Z",
           "retrySearches": [
             "ASIC crypto platform rules final guidance timeline second outlet"
+          ]
+        },
+        "b883039d71d58faa5a57": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Polygon closed Coinme with 37 licenses plus 11 exemptions. Polygon post plus registry confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:19.205Z",
+          "retrySearches": [
+            "Polygon Coinme acquisition licenses registry second outlet"
           ]
         }
       },
