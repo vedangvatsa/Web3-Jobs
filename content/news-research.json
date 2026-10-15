@@ -43683,11 +43683,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a5297b67393fcae700c7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:35:36.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece on the same 138M agent payments with US-dominance figures. Chainalysis report plus methodology confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:22.223Z",
+      "retrySearches": [
+        "Chainalysis x402 payments methodology second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4c6b6e77855a6766796f": {
       "source": "The Block",
@@ -78170,6 +78184,21 @@
           "reviewedAt": "2026-10-15T11:59:19.855Z",
           "retrySearches": [
             "Chainalysis agentic commerce report genuine demand second outlet"
+          ]
+        },
+        "a5297b67393fcae700c7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on the same 138M agent payments with US-dominance figures. Chainalysis report plus methodology confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:22.223Z",
+          "retrySearches": [
+            "Chainalysis x402 payments methodology second outlet"
           ]
         }
       },
