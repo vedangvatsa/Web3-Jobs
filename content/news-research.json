@@ -39745,11 +39745,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "004449998deecc14e080",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:08:43.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; Perpetuals.com filed to run tokenized stocks under the SEC innovation exemption. SEC notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:20.761Z",
+      "retrySearches": [
+        "Perpetuals tokenized stocks SEC exemption notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "020c4edfe140d9bd39f6": {
       "source": "CoinDesk",
@@ -77146,6 +77160,21 @@
           "reviewedAt": "2026-10-15T11:57:18.649Z",
           "retrySearches": [
             "SkyAI tender offer filing second outlet October"
+          ]
+        },
+        "004449998deecc14e080": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Perpetuals.com filed to run tokenized stocks under the SEC innovation exemption. SEC notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:20.761Z",
+          "retrySearches": [
+            "Perpetuals tokenized stocks SEC exemption notice second outlet"
           ]
         }
       },
