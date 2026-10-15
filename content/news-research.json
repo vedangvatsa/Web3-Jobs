@@ -39396,11 +39396,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "79628ac23455106e0b41",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:33:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "Same VanEck Lido ETF withdrawal already drafted as vaneck-withdrawal in this batch; single draft covers both outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:58.714Z",
+      "duplicateOf": "vaneck-withdrawal",
+      "mergedInto": "90999d705a2c87614d7d",
+      "lastReviewedDay": "2026-10-15"
     },
     "611f6fc4da0f842d0279": {
       "source": "CoinDesk",
@@ -74140,6 +74147,15 @@
           "reviewedAt": "2026-10-15T11:42:56.363Z",
           "duplicateOf": "witt-exit",
           "mergedInto": "106ff5cf81fdd279dd02"
+        },
+        "79628ac23455106e0b41": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same VanEck Lido ETF withdrawal already drafted as vaneck-withdrawal in this batch; single draft covers both outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:58.714Z",
+          "duplicateOf": "vaneck-withdrawal",
+          "mergedInto": "90999d705a2c87614d7d"
         }
       },
       "baselineSlugs": [
