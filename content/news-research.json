@@ -42881,11 +42881,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba263a8d15472ae0ff07",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:34:03.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "UNCX exploit page blocked again in this run; Blockaid report and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:20.059Z",
+      "retrySearches": [
+        "UNCX vesting pool exploit Blockaid report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "353f0763d9cf6953ef84": {
       "source": "Bankless",
@@ -76136,6 +76150,21 @@
           "reviewedAt": "2026-10-15T11:55:18.079Z",
           "retrySearches": [
             "Bubblemaps Anglio pump.fun wallets evidence second outlet"
+          ]
+        },
+        "ba263a8d15472ae0ff07": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "UNCX exploit page blocked again in this run; Blockaid report and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:20.059Z",
+          "retrySearches": [
+            "UNCX vesting pool exploit Blockaid report second outlet"
           ]
         }
       },
