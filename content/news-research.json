@@ -43459,11 +43459,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf1edda8f4b5cf638cea",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:21:37.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "BNY-Block repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:34.546Z",
+      "retrySearches": [
+        "BNY Citadel Treasury repo triparty notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "8c6b7e01b9b4f7129122": {
       "source": "CoinDesk",
@@ -76339,6 +76353,21 @@
           "reviewedAt": "2026-10-15T11:55:32.505Z",
           "retrySearches": [
             "OCC debanking nine banks report second outlet"
+          ]
+        },
+        "cf1edda8f4b5cf638cea": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BNY-Block repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:34.546Z",
+          "retrySearches": [
+            "BNY Citadel Treasury repo triparty notice second outlet"
           ]
         }
       },
