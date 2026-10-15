@@ -40586,11 +40586,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "704b440b9701bc908c68",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T03:29:22.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin miner stock selloff recap; equity-price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:56.220Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "4582964dc6d28dba261b": {
       "source": "CryptoSlate",
@@ -74430,6 +74435,13 @@
           "note": "Bitcoin price recap tied to Fed uncertainty and Kospi plunge; market commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:54.353Z"
+        },
+        "704b440b9701bc908c68": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin miner stock selloff recap; equity-price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:56.220Z"
         }
       },
       "baselineSlugs": [
