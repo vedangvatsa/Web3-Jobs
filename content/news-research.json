@@ -43104,11 +43104,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dcd19462e41b3e4b2f25",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:41:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "Meme-coin promoter second-wave launchpad plan; promotional claim from an interested promoter.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:26.491Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "2b6d14cda0f74c061bcf": {
       "source": "Cointelegraph",
@@ -75018,6 +75023,13 @@
           "note": "Promotional video on a fund buying engine; marketing content, no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:24.255Z"
+        },
+        "dcd19462e41b3e4b2f25": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Meme-coin promoter second-wave launchpad plan; promotional claim from an interested promoter.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:26.491Z"
         }
       },
       "baselineSlugs": [
