@@ -42545,11 +42545,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4728b3fdc2b6c9d149d5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T05:52:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; FSC cyber overhaul follows incidents at 16 firms. FSC notice plus affected-firm confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:21.175Z",
+      "retrySearches": [
+        "South Korea FSC cyber overhaul notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5a150e7f770e0109c4f0": {
       "source": "BeInCrypto",
@@ -77509,6 +77523,21 @@
           "reviewedAt": "2026-10-15T11:58:19.205Z",
           "retrySearches": [
             "Polygon Coinme acquisition licenses registry second outlet"
+          ]
+        },
+        "4728b3fdc2b6c9d149d5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; FSC cyber overhaul follows incidents at 16 firms. FSC notice plus affected-firm confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:21.175Z",
+          "retrySearches": [
+            "South Korea FSC cyber overhaul notice second outlet"
           ]
         }
       },
