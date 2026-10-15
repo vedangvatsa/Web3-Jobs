@@ -38433,23 +38433,23 @@
       "id": "0930cf5fb75a44cf1e0d",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T13:51:05.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Trezor network page blocked on re-attempt; Trezor notice and a readable second outlet still missing.",
+      "note": "Trezor reseller page blocked again in this run; Trezor notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:30.596Z",
+      "reviewedAt": "2026-10-15T11:54:35.941Z",
       "retrySearches": [
-        "Trezor reseller network notice second outlet"
+        "Trezor reseller network cut notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "993147b9b3355a8e0769": {
       "source": "Cointelegraph",
@@ -75611,6 +75611,21 @@
           "reviewedAt": "2026-10-15T11:54:33.887Z",
           "retrySearches": [
             "StarkWare Shadow Accounts Starknet announcement second outlet"
+          ]
+        },
+        "0930cf5fb75a44cf1e0d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Trezor reseller page blocked again in this run; Trezor notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:35.941Z",
+          "retrySearches": [
+            "Trezor reseller network cut notice second outlet"
           ]
         }
       },
