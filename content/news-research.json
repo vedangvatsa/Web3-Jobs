@@ -39242,11 +39242,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "159037f1413ade874446",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:22:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece; Starknet opened a 7-day non-binding STRK vote on L1 exploration closing Oct 22. Governance post plus second-outlet confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:27.323Z",
+      "retrySearches": [
+        "Starknet L1 vote governance post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c3f8abc2b8fc69ddface": {
       "source": "Crypto Briefing",
@@ -77582,6 +77596,21 @@
           "reviewedAt": "2026-10-15T11:58:25.222Z",
           "retrySearches": [
             "Illinois crypto tax CCI filing merits timeline second outlet"
+          ]
+        },
+        "159037f1413ade874446": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece; Starknet opened a 7-day non-binding STRK vote on L1 exploration closing Oct 22. Governance post plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:27.323Z",
+          "retrySearches": [
+            "Starknet L1 vote governance post second outlet"
           ]
         }
       },
