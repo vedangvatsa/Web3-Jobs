@@ -38883,23 +38883,23 @@
       "id": "a96151503a157eaa3014",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:09:01.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; MediaMarkt suspension sits in the same CryptoBilis arc verified via the shared Decrypt read. Retailer confirmation plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece; MediaMarktSaturn pulled Ledger products after a German buyer report. Retailer notice plus device-evidence confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:22.177Z",
+      "reviewedAt": "2026-10-15T11:58:50.719Z",
       "retrySearches": [
-        "MediaMarkt Ledger suspension tampering confirmation second outlet"
+        "MediaMarkt Ledger pull retailer notice device evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c8b6f154eb1f152cd4b3": {
       "source": "CoinDesk",
@@ -77853,6 +77853,21 @@
           "reviewedAt": "2026-10-15T11:58:48.583Z",
           "retrySearches": [
             "Firelight FXRP lockup response exit confirmation second outlet"
+          ]
+        },
+        "a96151503a157eaa3014": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; MediaMarktSaturn pulled Ledger products after a German buyer report. Retailer notice plus device-evidence confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:50.719Z",
+          "retrySearches": [
+            "MediaMarkt Ledger pull retailer notice device evidence second outlet"
           ]
         }
       },
