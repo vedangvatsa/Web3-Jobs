@@ -41858,11 +41858,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4aa952f84e0f470af0d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:48:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "TSMC record profit and CEO remarks; semiconductor earnings with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:49.925Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "9ed6937254273458c75f": {
       "source": "Crypto Briefing",
@@ -74802,6 +74807,13 @@
           "note": "Anthropic $2 trillion IPO-valuation target; AI-company financing chatter with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:47.924Z"
+        },
+        "4aa952f84e0f470af0d6": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "TSMC record profit and CEO remarks; semiconductor earnings with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:49.925Z"
         }
       },
       "baselineSlugs": [
