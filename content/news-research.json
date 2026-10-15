@@ -43686,11 +43686,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e55f22f09c0b6d6ba62",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:05:54.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Bankless piece; OpenAI early acquisition talks per The Information with no price and talks possibly failing. Information report plus deal confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/report-openai-interested-in-acquiring-trail-of-bits",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T12:00:55.037Z",
+      "retrySearches": [
+        "OpenAI Trail of Bits acquisition talks confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d872248c42eb0de7f45a": {
       "source": "Bitcoin Magazine",
@@ -78523,6 +78537,21 @@
           "reviewedAt": "2026-10-15T12:00:53.016Z",
           "retrySearches": [
             "Hyperliquid Yan interview policy detail second outlet"
+          ]
+        },
+        "0e55f22f09c0b6d6ba62": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bankless piece; OpenAI early acquisition talks per The Information with no price and talks possibly failing. Information report plus deal confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/report-openai-interested-in-acquiring-trail-of-bits",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T12:00:55.037Z",
+          "retrySearches": [
+            "OpenAI Trail of Bits acquisition talks confirmation second outlet"
           ]
         }
       },
