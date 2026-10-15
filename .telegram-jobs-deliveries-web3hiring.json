@@ -4379,5 +4379,128 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 16539,
     "sentAt": "2026-10-15T12:06:40.985Z"
+  },
+  "94f3817c-2c05-4942-9d1a-97baccb220a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:06:44.038Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c116297fdd7901",
+          "title": "Senior Product Manager, Compliance & KYC",
+          "company": "Transak",
+          "link": "https://transak-inc.breezy.hr/p/c116297fdd7901-senior-product-manager-compliance-kyc",
+          "date": "2026-09-21",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Transak [transak-inc]",
+          "location": "United States",
+          "isRemote": false,
+          "department": "Product",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://transak-inc.breezy.hr/p/c116297fdd7901-senior-product-manager-compliance-kyc",
+            "checkedAt": "2026-10-12T21:35:59.363Z",
+            "bodySha256": "4228e0ebb91ca3e360c21b40d1f4ac9d695bde8abc090b98f1c1e1b0c973d6e9",
+            "provider": "breezy",
+            "datePosted": "2026-09-21"
+          },
+          "slug": "pm107"
+        },
+        "key": "c116297fdd7901",
+        "slug": "pm107",
+        "url": "https://hashtagweb3.com/pm107?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Transak",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8278361",
+          "title": "Digital Assets Trader",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8278361",
+          "date": "2026-10-13T10:24:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr68"
+        },
+        "key": "8278361",
+        "slug": "tr68",
+        "url": "https://hashtagweb3.com/tr68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Digital Assets Trader"
+      },
+      {
+        "snapshot": {
+          "id": "64cd245d-9483-4302-9f02-2f02d20d273c",
+          "title": "Blockchain Investigator, Financial Crimes, Malta",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/64cd245d-9483-4302-9f02-2f02d20d273c",
+          "date": "2026-10-14T08:51:23.221Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Saint Julian's, Malta)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "slug": "bifc3",
+          "dateVerified": true
+        },
+        "key": "64cd245d-9483-4302-9f02-2f02d20d273c",
+        "slug": "bifc3",
+        "url": "https://hashtagweb3.com/bifc3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Blockchain Investigator"
+      },
+      {
+        "snapshot": {
+          "id": "4401507009",
+          "title": "Principal Product Manager - Tokenization",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4401507009",
+          "date": "2026-09-30T16:01:25-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City",
+          "department": "Product - Apps",
+          "active": true,
+          "salary": "$225k – $247.5k/yr",
+          "dateVerified": true,
+          "slug": "pm196"
+        },
+        "key": "4401507009",
+        "slug": "pm196",
+        "url": "https://hashtagweb3.com/pm196?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4994956101",
+          "title": "[EU] Junior Derivatives Trader",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4994956101",
+          "date": "2026-10-01T04:28:55-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr26"
+        },
+        "key": "4994956101",
+        "slug": "tr26",
+        "url": "https://hashtagweb3.com/tr26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Junior Derivatives Trader"
+      }
+    ],
+    "message": "- Transak is hiring <a href=\"https://hashtagweb3.com/pm107?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Compliance &amp; KYC</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/tr68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Digital Assets Trader</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/bifc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Blockchain Investigator, Financial Crimes, Malta</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/pm196?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Product Manager - Tokenization</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/tr26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Junior Derivatives Trader</a>",
+    "slotKey": "2026-10-15:afternoon"
   }
 }
