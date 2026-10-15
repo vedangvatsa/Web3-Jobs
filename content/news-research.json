@@ -38043,23 +38043,23 @@
       "id": "60a23d774c9b8a0228af",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:33:24.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Bankless roundup; it confirms three implant generations plus Karpel es, Japan and MediaMarkt cases. Device-level confirmation plus a second outlet still needed.",
+      "note": "Read the Bankless roundup of the implant spread across Asia and Europe with unverified loss ranges. Lab confirmation plus loss-total verification still needed.",
       "sourceChecks": [
         {
           "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:08:01.098Z",
+      "reviewedAt": "2026-10-15T11:59:05.332Z",
       "retrySearches": [
-        "Ledger implant generations Karpel es MediaMarkt confirmation second outlet"
+        "Ledger implant spread lab confirmation loss verification second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ff229a246b036c1cd7e9": {
       "source": "Bankless",
@@ -77972,6 +77972,21 @@
           "reviewedAt": "2026-10-15T11:59:03.275Z",
           "retrySearches": [
             "Trezor reseller cut detail confirmation second outlet"
+          ]
+        },
+        "60a23d774c9b8a0228af": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bankless roundup of the implant spread across Asia and Europe with unverified loss ranges. Lab confirmation plus loss-total verification still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:05.332Z",
+          "retrySearches": [
+            "Ledger implant spread lab confirmation loss verification second outlet"
           ]
         }
       },
