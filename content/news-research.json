@@ -32531,23 +32531,23 @@
       "id": "57c064886bd2ad0f28aa",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T20:36:36.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "IMF tokenized-equity page blocked on re-attempt; IMF paper and a readable second outlet still missing.",
+      "note": "IMF tokenized-equity page blocked again in this run; IMF paper and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:55.070Z",
+      "reviewedAt": "2026-10-15T11:53:35.573Z",
       "retrySearches": [
         "IMF tokenized equity after-hours paper second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4450c76bafb99c25a446": {
       "source": "The Defiant",
@@ -75195,6 +75195,21 @@
           "reviewedAt": "2026-10-15T11:53:33.489Z",
           "retrySearches": [
             "USDGO Jupiter Fluid Solana announcement second outlet"
+          ]
+        },
+        "57c064886bd2ad0f28aa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "IMF tokenized-equity page blocked again in this run; IMF paper and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:35.573Z",
+          "retrySearches": [
+            "IMF tokenized equity after-hours paper second outlet"
           ]
         }
       },
