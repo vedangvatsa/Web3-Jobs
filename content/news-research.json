@@ -33290,23 +33290,23 @@
       "id": "ee1dbcf85768de37a3a7",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T15:21:38.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "MediaMarkt recall page blocked on re-attempt; buyer evidence and a readable second outlet still missing.",
+      "note": "MediaMarkt recall page blocked again in this run; buyer evidence and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:02:02.942Z",
+      "reviewedAt": "2026-10-15T11:53:43.734Z",
       "retrySearches": [
         "Ledger MediaMarkt tampered device buyer evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "f72f59fdcaeb100eefca": {
       "source": "BeInCrypto",
@@ -75255,6 +75255,21 @@
           "reviewedAt": "2026-10-15T11:53:41.749Z",
           "retrySearches": [
             "SkyAI SOL treasury sale buyback record second outlet"
+          ]
+        },
+        "ee1dbcf85768de37a3a7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "MediaMarkt recall page blocked again in this run; buyer evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:43.734Z",
+          "retrySearches": [
+            "Ledger MediaMarkt tampered device buyer evidence second outlet"
           ]
         }
       },
