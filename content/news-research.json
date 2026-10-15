@@ -43618,11 +43618,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1343322be145d460c7b0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:59:30.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Inflation-data page blocked again in this run; data source and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/us-inflation-accelerates-to-3-7-as-gasoline-prices-jump",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:40.906Z",
+      "retrySearches": [
+        "US inflation gasoline prices data source second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "1828f19640579e7c84c2": {
       "source": "Cointelegraph",
@@ -76426,6 +76440,21 @@
           "reviewedAt": "2026-10-15T11:55:38.553Z",
           "retrySearches": [
             "Polygon Coinme acquisition payments licenses notice second outlet"
+          ]
+        },
+        "1343322be145d460c7b0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Inflation-data page blocked again in this run; data source and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/us-inflation-accelerates-to-3-7-as-gasoline-prices-jump",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:40.906Z",
+          "retrySearches": [
+            "US inflation gasoline prices data source second outlet"
           ]
         }
       },
