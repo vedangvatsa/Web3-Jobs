@@ -40068,11 +40068,25 @@
         "The Defiant"
       ],
       "id": "452dba63e1b03be4d626",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:10:07.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "EBA designation page blocked again in this run; EBA notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:54.368Z",
+      "retrySearches": [
+        "EBA Circle USDC significant e-money token notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "8cc48719b25d5482c8f2": {
       "source": "Crypto Briefing",
@@ -75788,6 +75802,21 @@
           "reviewedAt": "2026-10-15T11:54:52.413Z",
           "retrySearches": [
             "Qivalis Dutch EMI license DNB register second outlet"
+          ]
+        },
+        "452dba63e1b03be4d626": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "EBA designation page blocked again in this run; EBA notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:54.368Z",
+          "retrySearches": [
+            "EBA Circle USDC significant e-money token notice second outlet"
           ]
         }
       },
