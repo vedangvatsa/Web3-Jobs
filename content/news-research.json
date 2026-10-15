@@ -34593,23 +34593,23 @@
       "id": "889865057fdbfcd5e9e4",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T19:03:30.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Blockchain.com CFTC page blocked on re-attempt; filing record and a readable second outlet still missing.",
+      "note": "Blockchain.com licensing page blocked again in this run; CFTC filing record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:06.749Z",
+      "reviewedAt": "2026-10-15T11:53:58.180Z",
       "retrySearches": [
-        "Blockchain.com CFTC licenses filing second outlet"
+        "Blockchain.com CFTC licenses derivatives prediction markets filing"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e5928b7ca1b7cb3e8e2a": {
       "source": "Cointelegraph",
@@ -75360,6 +75360,21 @@
           "reviewedAt": "2026-10-15T11:53:56.235Z",
           "retrySearches": [
             "Interactive Brokers Zerohash staking notice second outlet"
+          ]
+        },
+        "889865057fdbfcd5e9e4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Blockchain.com licensing page blocked again in this run; CFTC filing record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:58.180Z",
+          "retrySearches": [
+            "Blockchain.com CFTC licenses derivatives prediction markets filing"
           ]
         }
       },
