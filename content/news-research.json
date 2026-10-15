@@ -42490,11 +42490,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d6b7e20f1bb6736be847",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:55:44.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "Agent-competition announcement seeking participants; contest marketing, no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:30.916Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "dffa1d565375660b12f1": {
       "source": "CryptoSlate",
@@ -75031,6 +75036,13 @@
           "note": "Circle seven-part framework publication; corporate thought-leadership document, no market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:28.594Z"
+        },
+        "d6b7e20f1bb6736be847": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Agent-competition announcement seeking participants; contest marketing, no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:30.916Z"
         }
       },
       "baselineSlugs": [
