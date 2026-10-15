@@ -40110,11 +40110,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ef6cef8a65b5699e2c5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:44.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin price move tied to inflation print and Kospi circuit breaker; market commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:28.341Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "30c14958c9dd3ee9897c": {
       "source": "CryptoSlate",
@@ -74262,6 +74267,13 @@
           "note": "Intraday market daybook across bitcoin, copper, stocks and yields; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:26.417Z"
+        },
+        "0ef6cef8a65b5699e2c5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin price move tied to inflation print and Kospi circuit breaker; market commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:28.341Z"
         }
       },
       "baselineSlugs": [
