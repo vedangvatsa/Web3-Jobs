@@ -39316,11 +39316,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fc2d9e45ee1983505dcb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:04:09.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "XRP price commentary asking why ETF inflows have not moved the price; prediction-tinged market chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:20.531Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "79628ac23455106e0b41": {
       "source": "The Defiant",
@@ -74214,6 +74219,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:18.434Z",
           "duplicateOf": "ledger-implant"
+        },
+        "fc2d9e45ee1983505dcb": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP price commentary asking why ETF inflows have not moved the price; prediction-tinged market chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:20.531Z"
         }
       },
       "baselineSlugs": [
