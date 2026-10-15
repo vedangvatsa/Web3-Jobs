@@ -33473,23 +33473,23 @@
       "id": "9803a1534a0557632a54",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T13:12:44.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Karpeles implant page blocked on re-attempt; device evidence and a readable second outlet still missing.",
+      "note": "Karpeles implant page blocked again in this run; device evidence and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:02:07.055Z",
+      "reviewedAt": "2026-10-15T11:53:47.698Z",
       "retrySearches": [
         "Karpeles Ledger implant device evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4e1e6ed09ce98e683288": {
       "source": "The Defiant",
@@ -75285,6 +75285,21 @@
           "reviewedAt": "2026-10-15T11:53:45.745Z",
           "retrySearches": [
             "OneKey CryptoBilis cutoff replacement notice second outlet"
+          ]
+        },
+        "9803a1534a0557632a54": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Karpeles implant page blocked again in this run; device evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:47.698Z",
+          "retrySearches": [
+            "Karpeles Ledger implant device evidence second outlet"
           ]
         }
       },
