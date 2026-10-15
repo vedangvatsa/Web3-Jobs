@@ -41438,11 +41438,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "22707ccaee06c7871444",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:38:02.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic office and AI-oversight story; AI company news with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:40.231Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "c91bb68e9c6b9194609f": {
       "source": "The Defiant",
@@ -74742,6 +74747,13 @@
           "note": "BNY quarterly earnings report; bank earnings with no crypto-asset event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:38.239Z"
+        },
+        "22707ccaee06c7871444": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic office and AI-oversight story; AI company news with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:40.231Z"
         }
       },
       "baselineSlugs": [
