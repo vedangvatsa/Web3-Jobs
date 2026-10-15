@@ -41300,11 +41300,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfaa2c11db0682a9e8ca",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; N3XT joins Clear Markets collateral network with no live date or clients named. Partner notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/n3xt-joins-clear-markets-collateralizer-network-for-24-7-dollar-derivatives-collateral/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:02.339Z",
+      "retrySearches": [
+        "N3XT Clear Markets collateral network notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e88caed790e6bc8d1862": {
       "source": "Unchained",
@@ -76913,6 +76927,21 @@
           "reviewedAt": "2026-10-15T11:57:00.308Z",
           "retrySearches": [
             "Arkham Visualizer 2.0 release notice second outlet"
+          ]
+        },
+        "cfaa2c11db0682a9e8ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; N3XT joins Clear Markets collateral network with no live date or clients named. Partner notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/n3xt-joins-clear-markets-collateralizer-network-for-24-7-dollar-derivatives-collateral/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:02.339Z",
+          "retrySearches": [
+            "N3XT Clear Markets collateral network notice second outlet"
           ]
         }
       },
