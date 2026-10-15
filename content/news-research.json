@@ -42965,11 +42965,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b6d14cda0f74c061bcf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:30:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Magazine critics piece on bunker-mode custody; commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:20.134Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "cc25a343a2a55031982b": {
       "source": "The Defiant",
@@ -74622,6 +74627,13 @@
           "note": "CoinShares prediction of a slow start for Thailand crypto ETFs; forecast, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:18.074Z"
+        },
+        "2b6d14cda0f74c061bcf": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Magazine critics piece on bunker-mode custody; commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:20.134Z"
         }
       },
       "baselineSlugs": [
