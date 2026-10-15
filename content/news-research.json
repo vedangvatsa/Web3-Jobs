@@ -39668,11 +39668,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e3f500e544176c156b6e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:30:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "Same Patrick Witt White House exit already drafted as witt-exit in this batch; single draft covers both outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:56.363Z",
+      "duplicateOf": "witt-exit",
+      "mergedInto": "106ff5cf81fdd279dd02",
+      "lastReviewedDay": "2026-10-15"
     },
     "da977ff3ec0b468b4fbc": {
       "source": "Decrypt",
@@ -74124,6 +74131,15 @@
           "reviewedAt": "2026-10-15T11:42:54.399Z",
           "duplicateOf": "alpenglow",
           "mergedInto": "da977ff3ec0b468b4fbc"
+        },
+        "e3f500e544176c156b6e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Patrick Witt White House exit already drafted as witt-exit in this batch; single draft covers both outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:56.363Z",
+          "duplicateOf": "witt-exit",
+          "mergedInto": "106ff5cf81fdd279dd02"
         }
       },
       "baselineSlugs": [
