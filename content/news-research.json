@@ -41952,11 +41952,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a108866d7e567093560a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:40:13.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece on the same OCC findings including Letter 1183. OCC letters plus easing-scope confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:13.234Z",
+      "retrySearches": [
+        "OCC Letter 1183 banks easing scope second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0d69869309831ed8a482": {
       "source": "BeInCrypto",
@@ -77393,6 +77407,21 @@
           "reviewedAt": "2026-10-15T11:58:11.178Z",
           "retrySearches": [
             "OCC nine banks findings bank responses second outlet"
+          ]
+        },
+        "a108866d7e567093560a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece on the same OCC findings including Letter 1183. OCC letters plus easing-scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:13.234Z",
+          "retrySearches": [
+            "OCC Letter 1183 banks easing scope second outlet"
           ]
         }
       },
