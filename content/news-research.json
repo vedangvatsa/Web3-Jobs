@@ -40659,11 +40659,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a017d066736bf4a4c073",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:08:16.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "XLM 4% price lag versus bitcoin and ether; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:50:00.046Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "374bf63c642dee162c49": {
       "source": "Decrypt",
@@ -74454,6 +74459,13 @@
           "note": "Dollar-driven bitcoin selloff narrative; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:58.120Z"
+        },
+        "a017d066736bf4a4c073": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XLM 4% price lag versus bitcoin and ether; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:50:00.046Z"
         }
       },
       "baselineSlugs": [
