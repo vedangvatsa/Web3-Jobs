@@ -764,6 +764,9 @@
   "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xrpl-delegation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ondo-private?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2194,6 +2197,12 @@
   "XRP Ledger activates account delegation for banks and stablecoin issuers",
   "Igloo Inc. to Shut Down Abstract Network on December 15",
   "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline",
+  "Ondo launches tokenized notes linked to pre-IPO AI firm",
+  "Ondo launches Private Markets with tokenized notes tied to pre-IPO AI company",
+  "Spiko raises $90 million Series B led by NEA",
+  "Spiko raises $90M Series B led by NEA to expand tokenized cash funds",
+  "Umia Raises $6 Million in Base Token Auction",
+  "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2487,5 +2496,8 @@
   "fp:000|address|authority|bitfinex|controll|government|mov|october8|over12|seiz",
   "fp:add|can|charter|client|collateral|custody|dubai|exchang|institutional|link",
   "fp:account|activat|add|allow|assign|bank|delegat|delegation|featur|institution",
-  "fp:abstract|bridg|dat|deadlin|dec15|december15|down|final|fund|igloo"
+  "fp:abstract|bridg|dat|deadlin|dec15|december15|down|final|fund|igloo",
+  "fp:begin|expect|firm|ipo|link|market|not|oct5|ondo|platform",
+  "fp:120m|26b|90m|asset|bas|cash|expand|fintech|firm|fund",
+  "fp:18m|auction|bas|buyer|dcg|draper|galaxy|individual|join|rais"
 ]

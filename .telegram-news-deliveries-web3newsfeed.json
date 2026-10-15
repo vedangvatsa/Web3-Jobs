@@ -1461,7 +1461,7 @@
     "sentAt": "2026-10-15T03:55:20.747Z"
   },
   "4ebf1acb-8b04-4f2f-b8c5-863566f3f184": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T12:07:33.183Z",
     "stories": [
       {
@@ -1489,6 +1489,8 @@
         "originalTitle": "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper"
       }
     ],
-    "slotKey": "2026-10-15:afternoon"
+    "slotKey": "2026-10-15:afternoon",
+    "messageId": 65752,
+    "sentAt": "2026-10-15T12:07:36.092Z"
   }
 }
