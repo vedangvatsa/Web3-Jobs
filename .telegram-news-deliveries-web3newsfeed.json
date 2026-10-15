@@ -1492,5 +1492,36 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 65752,
     "sentAt": "2026-10-15T12:07:36.092Z"
+  },
+  "309ae692-0fe2-4654-986e-2fd91b76be90": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:35:29.618Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitget Launches Jio Pre-IPO Perpetual Futures Contracts",
+        "summary": "The JIOUSDT contracts offer up to 20x leverage ahead of the October 21-23 Indian share offering.",
+        "link": "https://hashtagweb3.com/jio-perpetuals?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitget Lists Jio Pre-IPO Perpetual Futures"
+      },
+      {
+        "index": -1,
+        "headline": "Strive buys 2,000 BTC and starts $500M stock buyback",
+        "summary": "An SEC filing shows total holdings reached 29,462 Bitcoin alongside a new repurchase option for SATA preferred shares.",
+        "link": "https://hashtagweb3.com/strive-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive buys 2,000 BTC and opens $500M buyback facility for SATA preferred stock"
+      },
+      {
+        "index": -1,
+        "headline": "ZachXBT Exposes Lazarus Group Launderers Linked to Bybit Hack",
+        "summary": "The investigator used 349,700 USDC to infiltrate a Chinese syndicate and trace $12 million in stolen funds.",
+        "link": "https://hashtagweb3.com/zachxbt-syndicate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ZachXBT Says He Posed as Client to Expose Lazarus Launderers"
+      }
+    ],
+    "slotKey": "2026-10-15:evening"
   }
 }
