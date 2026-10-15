@@ -41178,11 +41178,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "444f66bbc02cba1b30cd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:00:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Evernorth Block page blocked again in this run; Evernorth notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:05.639Z",
+      "retrySearches": [
+        "Evernorth 648 million XRP treasury notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "535bbe4818169de9a380": {
       "source": "The Block",
@@ -75933,6 +75947,21 @@
           "reviewedAt": "2026-10-15T11:55:03.341Z",
           "retrySearches": [
             "Evernorth Ripple Kraken Coinbase XRP yield notice second outlet"
+          ]
+        },
+        "444f66bbc02cba1b30cd": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Evernorth Block page blocked again in this run; Evernorth notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:05.639Z",
+          "retrySearches": [
+            "Evernorth 648 million XRP treasury notice second outlet"
           ]
         }
       },
