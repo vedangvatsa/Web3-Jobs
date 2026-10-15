@@ -41806,11 +41806,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f664a554077566d506b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:15:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "JPMorgan warning on the AI trade rebound; equity commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:46.019Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "1802ca49f6d7ad18474b": {
       "source": "Crypto Briefing",
@@ -74778,6 +74783,13 @@
           "note": "Apple Intelligence approval in China; consumer-tech regulation with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:44.113Z"
+        },
+        "4f664a554077566d506b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "JPMorgan warning on the AI trade rebound; equity commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:46.019Z"
         }
       },
       "baselineSlugs": [
