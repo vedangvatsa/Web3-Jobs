@@ -32050,10 +32050,10 @@
       "id": "4da9d7c8c714057dcb97",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T22:10:30.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
+      "reason": "missing-primary-source",
       "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
       "sourceChecks": [
         {
@@ -32061,12 +32061,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:05.341Z",
+      "reviewedAt": "2026-10-15T11:59:30.464Z",
       "retrySearches": [
         "FSB stablecoin run risk report October 2026 second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "b2f1f35770131e1896dc": {
       "source": "BeInCrypto",
@@ -78244,6 +78244,21 @@
           "reviewedAt": "2026-10-15T11:59:28.507Z",
           "retrySearches": [
             "ENSv2 proposal vote record second outlet"
+          ]
+        },
+        "4da9d7c8c714057dcb97": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:30.464Z",
+          "retrySearches": [
+            "FSB stablecoin run risk report October 2026 second outlet"
           ]
         }
       },
