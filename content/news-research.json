@@ -41577,11 +41577,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c757d3ba3f1d947d018c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:20:57.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:34.159Z",
+      "duplicateOf": "heart-arrest",
+      "mergedInto": "cd704594eaa35d571926",
+      "lastReviewedDay": "2026-10-15"
     },
     "4f664a554077566d506b": {
       "source": "Crypto Briefing",
@@ -73991,6 +73998,15 @@
           "reviewedAt": "2026-10-15T11:42:20.595Z",
           "duplicateOf": "saldo-bank",
           "mergedInto": "e88caed790e6bc8d1862"
+        },
+        "c757d3ba3f1d947d018c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:34.159Z",
+          "duplicateOf": "heart-arrest",
+          "mergedInto": "cd704594eaa35d571926"
         }
       },
       "baselineSlugs": [
