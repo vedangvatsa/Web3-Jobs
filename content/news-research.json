@@ -35204,23 +35204,23 @@
       "id": "9b30425c8214bd895459",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T22:49:07.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Bitcoin Magazine piece; university team claims a working hybrid design from a September paper. Paper plus a second outlet still needed.",
+      "note": "Read the Bitcoin Magazine piece; university team claims first post-quantum Lightning design. Paper and a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:24.607Z",
+      "reviewedAt": "2026-10-15T11:56:37.647Z",
       "retrySearches": [
-        "post-quantum Lightning defense paper second outlet Kurt"
+        "post-quantum Lightning Network paper second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "1b7b07c109b0b079ac82": {
       "source": "Crypto Briefing",
@@ -76705,6 +76705,21 @@
           "reviewedAt": "2026-10-15T11:56:35.632Z",
           "retrySearches": [
             "Strive SATS preferred 500M bitcoin filing second outlet"
+          ]
+        },
+        "9b30425c8214bd895459": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bitcoin Magazine piece; university team claims first post-quantum Lightning design. Paper and a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:37.647Z",
+          "retrySearches": [
+            "post-quantum Lightning Network paper second outlet"
           ]
         }
       },
