@@ -40209,11 +40209,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "29fcbcf90a5686414547",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:19:55.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "XRP whale inflow metric to Binance; flow chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:34.158Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "b79bccbf2ba1be6718b7": {
       "source": "CoinDesk",
@@ -74298,6 +74303,13 @@
           "note": "Bitcoin price holding above a level amid Asian equity rout; market commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:32.210Z"
+        },
+        "29fcbcf90a5686414547": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP whale inflow metric to Binance; flow chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:34.158Z"
         }
       },
       "baselineSlugs": [
