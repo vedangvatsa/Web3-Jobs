@@ -40386,11 +40386,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cd3c24972d0b6cff39f4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:23:43.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Weekly ETF outflow tally with XRP exception; flow chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:46.256Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "2c5388ffa1d1cc06e269": {
       "source": "The Defiant",
@@ -74370,6 +74375,13 @@
           "note": "Ethereum dip and long-liquidation recap; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:44.168Z"
+        },
+        "cd3c24972d0b6cff39f4": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly ETF outflow tally with XRP exception; flow chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:46.256Z"
         }
       },
       "baselineSlugs": [
