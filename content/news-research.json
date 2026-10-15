@@ -38106,23 +38106,23 @@
       "id": "065448ab6592e1688b95",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:14:50.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "note": "Read the Decrypt piece with Jan 2027 authorization end and sell-through detail. Trezor notice plus country-scope confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:00.889Z",
+      "reviewedAt": "2026-10-15T11:58:59.183Z",
       "retrySearches": [
-        "Trezor resellers cut Ledger implant Decrypt confirmation"
+        "Trezor resellers January 2027 scope second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9d966e2b82129fb8feb6": {
       "source": "Bitcoin Magazine",
@@ -77927,6 +77927,21 @@
           "reviewedAt": "2026-10-15T11:58:57.031Z",
           "retrySearches": [
             "Trezor reseller cut notice list second outlet"
+          ]
+        },
+        "065448ab6592e1688b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece with Jan 2027 authorization end and sell-through detail. Trezor notice plus country-scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:59.183Z",
+          "retrySearches": [
+            "Trezor resellers January 2027 scope second outlet"
           ]
         }
       },
