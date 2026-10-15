@@ -2221,7 +2221,7 @@
     "sentAt": "2026-10-15T12:06:58.075Z"
   },
   "797631fe-47d6-4cca-a380-50a8b9efc132": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T19:32:26.156Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2336,6 +2336,8 @@
       }
     ],
     "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/des3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Brand Designer</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/sec75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Application Engineer</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm179?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Payments Product Business Development Manager</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/snap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Power Strategist - Load</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Strategic Finance, Commerce Go-to-Market</a>",
-    "slotKey": "2026-10-15:evening"
+    "slotKey": "2026-10-15:evening",
+    "messageId": 155780,
+    "sentAt": "2026-10-15T19:32:29.287Z"
   }
 }
