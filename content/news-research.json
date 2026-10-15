@@ -42764,11 +42764,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "267992dfc40cd25604c7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:33:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Rocket Pool vote page blocked again in this run; vote record and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:16.036Z",
+      "retrySearches": [
+        "Rocket Pool rETH withdrawals vote record second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "3c2fe581f04e9f17876a": {
       "source": "The Defiant",
@@ -76078,6 +76092,21 @@
           "reviewedAt": "2026-10-15T11:55:14.016Z",
           "retrySearches": [
             "Kalshi CEO prediction markets interview second outlet"
+          ]
+        },
+        "267992dfc40cd25604c7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Rocket Pool vote page blocked again in this run; vote record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:16.036Z",
+          "retrySearches": [
+            "Rocket Pool rETH withdrawals vote record second outlet"
           ]
         }
       },
