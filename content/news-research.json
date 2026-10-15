@@ -40363,11 +40363,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c5388ffa1d1cc06e269",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T06:53:08.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "HEX price fall is the market reaction to the same Richard Heart detention already drafted as heart-arrest; covered in that draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:43.946Z",
+      "duplicateOf": "heart-arrest",
+      "mergedInto": "cd704594eaa35d571926",
+      "lastReviewedDay": "2026-10-15"
     },
     "c95d7052086fbf0f6757": {
       "source": "BeInCrypto",
@@ -74069,6 +74076,15 @@
           "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:42:42.022Z",
+          "duplicateOf": "heart-arrest",
+          "mergedInto": "cd704594eaa35d571926"
+        },
+        "2c5388ffa1d1cc06e269": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "HEX price fall is the market reaction to the same Richard Heart detention already drafted as heart-arrest; covered in that draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:43.946Z",
           "duplicateOf": "heart-arrest",
           "mergedInto": "cd704594eaa35d571926"
         }
