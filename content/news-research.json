@@ -39370,11 +39370,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "611f6fc4da0f842d0279",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:31:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "ETF asset tally and flow commentary on BlackRock crypto funds; data roundup, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:24.414Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "a2e6429f3797eeab3814": {
       "source": "Crypto Briefing",
@@ -74238,6 +74243,13 @@
           "note": "Zcash price-risk commentary weighing ETF inflows against inflation fears; market prediction, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:22.531Z"
+        },
+        "611f6fc4da0f842d0279": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "ETF asset tally and flow commentary on BlackRock crypto funds; data roundup, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:24.414Z"
         }
       },
       "baselineSlugs": [
