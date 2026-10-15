@@ -30450,23 +30450,23 @@
       "id": "0e8abffcdf4823387f24",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:20:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Derive proposal page blocked on re-attempt; forum record and a readable second outlet still missing.",
+      "note": "Derive proposal page blocked again in this run; forum record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:47.257Z",
+      "reviewedAt": "2026-10-15T11:53:29.039Z",
       "retrySearches": [
         "Derive US derivatives treasury proposal forum second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9438a7b8a36c2e7d785a": {
       "source": "CoinJournal",
@@ -75150,6 +75150,21 @@
           "reviewedAt": "2026-10-15T11:53:26.134Z",
           "retrySearches": [
             "Ontology mainnet restart halt team post second outlet"
+          ]
+        },
+        "0e8abffcdf4823387f24": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Derive proposal page blocked again in this run; forum record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:29.039Z",
+          "retrySearches": [
+            "Derive US derivatives treasury proposal forum second outlet"
           ]
         }
       },
