@@ -39081,23 +39081,23 @@
       "id": "8c16cfa28b8844e65e60",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T06:59:06.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "A7 payments page blocked on re-attempt; A7 notice and a readable second outlet still missing.",
+      "note": "Sanctioned-A7 page blocked again in this run; primary evidence and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:46.198Z",
+      "reviewedAt": "2026-10-15T11:54:46.357Z",
       "retrySearches": [
-        "A7 USDT SWIFT service notice second outlet"
+        "Sanctioned A7 USDT SWIFT service evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9fffb4e8aa87cd8b09f0": {
       "source": "The Defiant",
@@ -75686,6 +75686,21 @@
           "reviewedAt": "2026-10-15T11:54:44.317Z",
           "retrySearches": [
             "21Shares Anthropic synthetic ETP Vienna listing notice second outlet"
+          ]
+        },
+        "8c16cfa28b8844e65e60": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Sanctioned-A7 page blocked again in this run; primary evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:46.357Z",
+          "retrySearches": [
+            "Sanctioned A7 USDT SWIFT service evidence second outlet"
           ]
         }
       },
