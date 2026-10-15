@@ -42592,11 +42592,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "531b46a7684e1aa6eecb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T05:00:40.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece with capital-model detail and industry quotes on the same ASIC package. Final-guidance timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:17.295Z",
+      "retrySearches": [
+        "ASIC crypto platform rules final guidance timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0c0e49fb539cfa63e081": {
       "source": "BeInCrypto",
@@ -77451,6 +77465,21 @@
           "reviewedAt": "2026-10-15T11:58:15.270Z",
           "retrySearches": [
             "ASIC CP392 consultation paper industry response second outlet"
+          ]
+        },
+        "531b46a7684e1aa6eecb": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece with capital-model detail and industry quotes on the same ASIC package. Final-guidance timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:17.295Z",
+          "retrySearches": [
+            "ASIC crypto platform rules final guidance timeline second outlet"
           ]
         }
       },
