@@ -42980,11 +42980,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e419e97f39cd68ccea8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:14:59.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "Promotional video on a fund buying engine; marketing content, no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:24.255Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "cf1792dac3bcb8d84be6": {
       "source": "The Defiant",
@@ -75006,6 +75011,13 @@
           "note": "HTX quarterly scorecard and anniversary celebration; exchange marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:22.182Z"
+        },
+        "1e419e97f39cd68ccea8": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Promotional video on a fund buying engine; marketing content, no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:24.255Z"
         }
       },
       "baselineSlugs": [
