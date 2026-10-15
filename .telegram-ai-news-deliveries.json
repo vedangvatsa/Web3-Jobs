@@ -1421,5 +1421,38 @@
     "slotKey": "2026-10-15:morning",
     "messageId": 193350,
     "sentAt": "2026-10-15T03:53:46.444Z"
+  },
+  "22e65ddf-897c-40dc-af9c-323bf05a024f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:07:56.489Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "headline": "Industrial Next enables factory robots to switch tasks rapidly",
+        "summary": "The company's AI software allows industrial robots to transition between complex manufacturing tasks in minutes instead of weeks.",
+        "event_rationale": "This covers a shift in industrial automation allowing robots to reprogram for new tasks without manual intervention.",
+        "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "source": "TechCrunch",
+        "originalTitle": "Industrial Next wants factory robots to switch tasks in minutes, not weeks"
+      },
+      {
+        "index": 1,
+        "headline": "Six concepts for extending human consciousness",
+        "summary": "Researchers study how brain structures and neural connections relate to the long-term preservation of a person's identity.",
+        "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Six wild ideas for perpetuating your mind"
+      },
+      {
+        "index": 2,
+        "headline": "Scientists Successfully Rewarm Deep-Frozen Pig Kidneys",
+        "summary": "Stored at minus 150 Celsius for months, the organs worked after thawing, aiming for future human transplant trials.",
+        "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Pig kidneys that were “frozen” for a year have been brought back to life"
+      }
+    ],
+    "slotKey": "2026-10-15:afternoon"
   }
 }
