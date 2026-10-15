@@ -40973,11 +40973,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e81721ad48525db77eea",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:21:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin dip tied to oil-driven CPI; price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:50:07.866Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "fa5dde8070a7d867a093": {
       "source": "The Block",
@@ -74502,6 +74507,13 @@
           "note": "Bitcoin slip below $83,000 on CPI data; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:50:05.818Z"
+        },
+        "e81721ad48525db77eea": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin dip tied to oil-driven CPI; price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:50:07.866Z"
         }
       },
       "baselineSlugs": [
