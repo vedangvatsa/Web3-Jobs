@@ -39514,11 +39514,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ed1c56cde17649942e5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:47:02.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "EVEDEX tokenomics release with airdrop details; project marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:18.136Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "b1103c928088308ad184": {
       "source": "CoinJournal",
@@ -74970,6 +74975,13 @@
           "note": "Explosions in southern Saudi Arabia amid Houthi tensions; geopolitics with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:16.131Z"
+        },
+        "3ed1c56cde17649942e5": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "EVEDEX tokenomics release with airdrop details; project marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:18.136Z"
         }
       },
       "baselineSlugs": [
