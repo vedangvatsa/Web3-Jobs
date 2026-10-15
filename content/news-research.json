@@ -41905,11 +41905,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "edfcca84d9f6220441bc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:53:37.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; ASIC opened CP392 consultation for an April 2027 regime. ASIC paper plus industry-response confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:15.270Z",
+      "retrySearches": [
+        "ASIC CP392 consultation paper industry response second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "a72fa2a023627c7236b8": {
       "source": "Crypto Briefing",
@@ -77422,6 +77436,21 @@
           "reviewedAt": "2026-10-15T11:58:13.234Z",
           "retrySearches": [
             "OCC Letter 1183 banks easing scope second outlet"
+          ]
+        },
+        "edfcca84d9f6220441bc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; ASIC opened CP392 consultation for an April 2027 regime. ASIC paper plus industry-response confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:15.270Z",
+          "retrySearches": [
+            "ASIC CP392 consultation paper industry response second outlet"
           ]
         }
       },
