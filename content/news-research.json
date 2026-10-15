@@ -41376,11 +41376,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c83a29afe09bc11778e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:22:57.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "Promotional video interview on a fund buying engine; marketing content with no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T12:00:50.987Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "e81721ad48525db77eea": {
       "source": "Cointelegraph",
@@ -78483,6 +78488,13 @@
           "retrySearches": [
             "BitFuFu Finloop Hashrate Token terms second outlet"
           ]
+        },
+        "8c83a29afe09bc11778e": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Promotional video interview on a fund buying engine; marketing content with no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T12:00:50.987Z"
         }
       },
       "baselineSlugs": [
