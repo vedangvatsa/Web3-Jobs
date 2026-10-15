@@ -41910,11 +41910,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "907767a3a0662a9c0d1d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:24:25.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Iranian religious-authority commentary; politics with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:53.992Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "9b84c989c6ff0e2ed3b1": {
       "source": "CryptoSlate",
@@ -74826,6 +74831,13 @@
           "note": "Anthropic revenue and IPO-valuation story; AI-company financing with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:52.121Z"
+        },
+        "907767a3a0662a9c0d1d": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Iranian religious-authority commentary; politics with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:53.992Z"
         }
       },
       "baselineSlugs": [
