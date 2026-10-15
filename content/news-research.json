@@ -42817,11 +42817,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d872248c42eb0de7f45a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:02:31.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Artists project on making money visible; culture piece with no crypto-asset event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:12.113Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "ddd0908616b7160d8147": {
       "source": "The Block",
@@ -74934,6 +74939,13 @@
           "note": "Developer cloning office software with AI; tech novelty with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:09.999Z"
+        },
+        "d872248c42eb0de7f45a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Artists project on making money visible; culture piece with no crypto-asset event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:12.113Z"
         }
       },
       "baselineSlugs": [
