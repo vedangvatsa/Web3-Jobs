@@ -1459,5 +1459,36 @@
     "slotKey": "2026-10-15:morning",
     "messageId": 65751,
     "sentAt": "2026-10-15T03:55:20.747Z"
+  },
+  "4ebf1acb-8b04-4f2f-b8c5-863566f3f184": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:07:33.183Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ondo launches tokenized notes linked to pre-IPO AI firm",
+        "summary": "The Private Markets platform launched Oct. 5, with secondary trading expected to begin within the week.",
+        "link": "https://hashtagweb3.com/ondo-private?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ondo launches Private Markets with tokenized notes tied to pre-IPO AI company"
+      },
+      {
+        "index": -1,
+        "headline": "Spiko raises $90 million Series B led by NEA",
+        "summary": "The Paris-based fintech firm has reached $120 million in total funding and manages $2.6 billion in assets.",
+        "link": "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Spiko raises $90M Series B led by NEA to expand tokenized cash funds"
+      },
+      {
+        "index": -1,
+        "headline": "Umia Raises $6 Million in Base Token Auction",
+        "summary": "Galaxy, DCG, and Draper joined individual buyers in the sale, which valued Umia at $18 million.",
+        "link": "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper"
+      }
+    ],
+    "slotKey": "2026-10-15:afternoon"
   }
 }
