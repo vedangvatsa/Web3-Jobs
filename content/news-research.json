@@ -38592,23 +38592,23 @@
       "id": "93a81e33466a01eb00b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T12:10:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Mysten quantum page blocked on re-attempt; Mysten post and a readable second outlet still missing.",
+      "note": "Mysten quantum page blocked again in this run; Mysten notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:05.291Z",
+      "reviewedAt": "2026-10-15T11:54:40.023Z",
       "retrySearches": [
-        "Mysten Sui quantum-safe devnet post second outlet"
+        "Mysten Sui quantum-safe devnet transaction notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "251225b4b28010c9541a": {
       "source": "CoinDesk",
@@ -75641,6 +75641,21 @@
           "reviewedAt": "2026-10-15T11:54:37.987Z",
           "retrySearches": [
             "DRW Marex bond index swap Canton notice second outlet"
+          ]
+        },
+        "93a81e33466a01eb00b9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Mysten quantum page blocked again in this run; Mysten notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:40.023Z",
+          "retrySearches": [
+            "Mysten Sui quantum-safe devnet transaction notice second outlet"
           ]
         }
       },
