@@ -39194,25 +39194,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "9fffb4e8aa87cd8b09f0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T06:46:55.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Ledger LTE page blocked on re-attempt; Ledger statement and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:03:42.183Z",
+      "reason": "duplicate",
+      "note": "This covers the same CryptoBilis implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:06.889Z",
       "retrySearches": [
         "Ledger CryptoBilis LTE implant statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "40c41e0e0d84e4d8a44a": {
       "source": "Cointelegraph",
@@ -74196,6 +74191,14 @@
           "note": "This covers the same unauthorized-component confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:04.874Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "9fffb4e8aa87cd8b09f0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same CryptoBilis implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:06.889Z",
           "duplicateOf": "ledger-implant"
         }
       },
