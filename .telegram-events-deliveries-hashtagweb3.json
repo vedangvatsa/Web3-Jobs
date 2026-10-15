@@ -1983,5 +1983,51 @@
     "slotKey": "2026-10-15:morning",
     "messageId": 155773,
     "sentAt": "2026-10-15T03:52:39.611Z"
+  },
+  "07743590-6a6f-4a3f-b8ec-9e70a93f89c5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:06:16.227Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-swell-2026",
+        "slug": "ripple-swell-2026",
+        "name": "Ripple Swell 2026",
+        "startDate": "2026-10-27T09:00:00.000Z",
+        "keys": [
+          "premier-swell-2026",
+          "page:ripple-swell-2026:2026-10-27",
+          "url:ripple.com/events/swell:2026-10-27",
+          "event:rippleswell2026:2026-10-27:new york"
+        ]
+      },
+      {
+        "id": "premier-meridian",
+        "slug": "meridian",
+        "name": "Meridian 2026",
+        "startDate": "2026-10-28T09:00:00+01:00",
+        "keys": [
+          "premier-meridian",
+          "page:meridian:2026-10-28",
+          "event:meridian2026:2026-10-28:lisbon"
+        ]
+      },
+      {
+        "id": "luma-crypto-Q9pqBMhbxoTeN4u",
+        "slug": "solana-indoor-skydiving",
+        "name": "Solana Indoor Skydiving",
+        "startDate": "2026-10-28T09:30:00.000Z",
+        "keys": [
+          "luma-crypto-q9pqbmhbxoten4u",
+          "sis",
+          "page:solana-indoor-skydiving:2026-10-28",
+          "luma:evt-q9pqbmhbxoten4u",
+          "luma-url:/solanaskydiving",
+          "event:solanaindoorskydiving:2026-10-28:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-15:afternoon"
   }
 }
