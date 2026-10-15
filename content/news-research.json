@@ -42694,11 +42694,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b93d338baa8d083f481",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:11:18.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Specter-ProveX page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:11.964Z",
+      "retrySearches": [
+        "Specter ProveX Heart-linked funds evidence second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ef69fdc62ce46c3bc763": {
       "source": "The Block",
@@ -76020,6 +76034,21 @@
           "reviewedAt": "2026-10-15T11:55:09.874Z",
           "retrySearches": [
             "BVNK global money platform Mastercard notice second outlet"
+          ]
+        },
+        "4b93d338baa8d083f481": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Specter-ProveX page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:11.964Z",
+          "retrySearches": [
+            "Specter ProveX Heart-linked funds evidence second outlet"
           ]
         }
       },
