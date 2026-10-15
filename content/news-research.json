@@ -34694,25 +34694,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5d82450690fbeeb96a70",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T15:06:22.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Anza upgrade page blocked on re-attempt; Anza post and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:03:08.778Z",
+      "reason": "duplicate",
+      "note": "Same Solana Alpenglow Oct 21 activation event already drafted as alpenglow in this batch; single draft covers all outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:54.399Z",
       "retrySearches": [
         "Anza Alpenglow October 21 upgrade post second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "alpenglow",
+      "mergedInto": "da977ff3ec0b468b4fbc"
     },
     "1e2fdcda2d2c1e06be00": {
       "source": "CoinJournal",
@@ -74117,6 +74113,15 @@
           "note": "Same Solana Alpenglow Oct 21 activation event already drafted as alpenglow in this batch; single draft covers all outlets.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:42:52.489Z",
+          "duplicateOf": "alpenglow",
+          "mergedInto": "da977ff3ec0b468b4fbc"
+        },
+        "5d82450690fbeeb96a70": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Solana Alpenglow Oct 21 activation event already drafted as alpenglow in this batch; single draft covers all outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:54.399Z",
           "duplicateOf": "alpenglow",
           "mergedInto": "da977ff3ec0b468b4fbc"
         }
