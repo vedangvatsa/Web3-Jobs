@@ -42799,11 +42799,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c2fe581f04e9f17876a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:14:39.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Bubblemaps page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:18.079Z",
+      "retrySearches": [
+        "Bubblemaps Anglio pump.fun wallets evidence second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "32bab52af134db3e537c": {
       "source": "Cointelegraph",
@@ -76107,6 +76121,21 @@
           "reviewedAt": "2026-10-15T11:55:16.036Z",
           "retrySearches": [
             "Rocket Pool rETH withdrawals vote record second outlet"
+          ]
+        },
+        "3c2fe581f04e9f17876a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bubblemaps page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:18.079Z",
+          "retrySearches": [
+            "Bubblemaps Anglio pump.fun wallets evidence second outlet"
           ]
         }
       },
