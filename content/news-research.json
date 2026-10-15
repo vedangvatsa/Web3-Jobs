@@ -39996,11 +39996,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "ecfb7737c3d4f367ca17",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:39.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; DriveWealth uses RLUSD for client funding starting in Europe. Partner notice plus rollout confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/drivewealth-turns-to-ripples-rlusd-stablecoin-for-client-funding-with-europe-first/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:36.712Z",
+      "retrySearches": [
+        "DriveWealth RLUSD rollout confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e12a8488c2c1726eec3e": {
       "source": "Crypto Briefing",
@@ -78311,6 +78329,25 @@
           "reviewedAt": "2026-10-15T11:59:34.584Z",
           "retrySearches": [
             "Lido direct staking announcement second outlet"
+          ]
+        },
+        "ecfb7737c3d4f367ca17": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; DriveWealth uses RLUSD for client funding starting in Europe. Partner notice plus rollout confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/drivewealth-turns-to-ripples-rlusd-stablecoin-for-client-funding-with-europe-first/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:36.712Z",
+          "retrySearches": [
+            "DriveWealth RLUSD rollout confirmation second outlet"
           ]
         }
       },
