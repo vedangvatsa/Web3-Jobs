@@ -40471,11 +40471,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fc3619c0f82e88d5a3f3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T06:17:58.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "BlackRock CEO recession-trigger remarks and debt alarm; executive commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:26.028Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "a8a9caa8adba4b68da0a": {
       "source": "The Block",
@@ -74658,6 +74663,13 @@
           "note": "BlackRock CEO macro warning about data-center bans and recession; executive prediction, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:24.034Z"
+        },
+        "fc3619c0f82e88d5a3f3": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "BlackRock CEO recession-trigger remarks and debt alarm; executive commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:26.028Z"
         }
       },
       "baselineSlugs": [
