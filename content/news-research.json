@@ -42557,11 +42557,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ddd0908616b7160d8147",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:53:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:38.147Z",
+      "duplicateOf": "heart-arrest",
+      "mergedInto": "cd704594eaa35d571926",
+      "lastReviewedDay": "2026-10-15"
     },
     "cba298d980238161967d": {
       "source": "The Block",
@@ -74021,6 +74028,15 @@
           "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:42:36.196Z",
+          "duplicateOf": "heart-arrest",
+          "mergedInto": "cd704594eaa35d571926"
+        },
+        "ddd0908616b7160d8147": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Richard Heart Istanbul detention event already drafted as heart-arrest in this batch; single draft covers all outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:38.147Z",
           "duplicateOf": "heart-arrest",
           "mergedInto": "cd704594eaa35d571926"
         }
