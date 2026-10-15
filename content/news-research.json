@@ -39099,25 +39099,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ac2c70bde460b915dcd",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T08:45:10.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:05:20.214Z",
+      "reason": "duplicate",
+      "note": "This covers the same LTE-implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:02.869Z",
       "retrySearches": [
         "Ledger cellular implants CryptoBilis Cointelegraph confirmation"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "307f672c572d1d5ba82a": {
       "source": "The Defiant",
@@ -74190,6 +74185,14 @@
           "note": "This covers the same spy-chip mechanism confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:00.575Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "2ac2c70bde460b915dcd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same LTE-implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:02.869Z",
           "duplicateOf": "ledger-implant"
         }
       },
