@@ -41706,11 +41706,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa7a8d10341144b65d50",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:00:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; Hacken reports $1.18B across 107 Q3 incidents. Hacken report plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:08.503Z",
+      "retrySearches": [
+        "Hacken Q3 hacks report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9e6fda150fbd42ff60eb": {
       "source": "BeInCrypto",
@@ -77000,6 +77014,21 @@
           "reviewedAt": "2026-10-15T11:57:06.433Z",
           "retrySearches": [
             "Pendle USDC vault Morpho deposits second outlet"
+          ]
+        },
+        "aa7a8d10341144b65d50": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Hacken reports $1.18B across 107 Q3 incidents. Hacken report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:08.503Z",
+          "retrySearches": [
+            "Hacken Q3 hacks report second outlet"
           ]
         }
       },
