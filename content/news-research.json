@@ -33255,23 +33255,23 @@
       "id": "33cc2169760918bbe83f",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T15:23:33.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "SkyAI treasury page blocked on re-attempt; SkyAI record and a readable second outlet still missing.",
+      "note": "SkyAI treasury page blocked again in this run; SkyAI record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:02:00.795Z",
+      "reviewedAt": "2026-10-15T11:53:41.749Z",
       "retrySearches": [
         "SkyAI SOL treasury sale buyback record second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ee1dbcf85768de37a3a7": {
       "source": "The Defiant",
@@ -75240,6 +75240,21 @@
           "reviewedAt": "2026-10-15T11:53:39.599Z",
           "retrySearches": [
             "Story DATA Sui migration announcement second outlet"
+          ]
+        },
+        "33cc2169760918bbe83f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SkyAI treasury page blocked again in this run; SkyAI record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-half-its-sol-treasury-plans-201-million-cash-buyback",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:41.749Z",
+          "retrySearches": [
+            "SkyAI SOL treasury sale buyback record second outlet"
           ]
         }
       },
