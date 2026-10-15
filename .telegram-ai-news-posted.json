@@ -737,6 +737,9 @@
   "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
   "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
   "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+  "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+  "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+  "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1994,6 +1997,12 @@
   "Six wild ideas for perpetuating your mind",
   "Scientists Successfully Rewarm Deep-Frozen Pig Kidneys",
   "Pig kidneys that were “frozen” for a year have been brought back to life",
+  "Anthropic gives safety researchers full internal system access",
+  "Anthropic is letting METR researchers look under the hood with employee-level access",
+  "FTC launches investigation into Anthropic and OpenAI",
+  "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+  "Amazon subsidiary Bee launches two personal AI devices",
+  "Amazon’s Bee launches two new personal AI devices, starting at $75",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2248,5 +2257,8 @@
   "fp:attack|bypass|current|easily|explicit|filter|generat|googl|guardrail|imagery",
   "fp:allow|between|complex|enabl|factory|industrial|instead|manufactur|minut|next",
   "fp:brain|concept|connection|consciousness|extend|how|human|idea|identity|long",
-  "fp:aim|back|brought|celsius|deep|frozen|futur|hav|human|kidney"
+  "fp:aim|back|brought|celsius|deep|frozen|futur|hav|human|kidney",
+  "fp:access|anthropic|assessment|audit|corporat|employe|evaluat|full|giv|group",
+  "fp:anthropic|are|consumer|dismiss|fear|federal|firm|ftc|harm|hoax",
+  "fp:amazon|audio|bee|consumer|conversation|devic|manag|personal|record|start"
 ]

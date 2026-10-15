@@ -1458,7 +1458,7 @@
     "sentAt": "2026-10-15T12:07:58.840Z"
   },
   "ea2e0369-1270-4f0e-ac8a-6c577a64c908": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T19:32:14.442Z",
     "stories": [
       {
@@ -1492,6 +1492,8 @@
         "originalTitle": "Amazon’s Bee launches two new personal AI devices, starting at $75"
       }
     ],
-    "slotKey": "2026-10-15:evening"
+    "slotKey": "2026-10-15:evening",
+    "messageId": 193353,
+    "sentAt": "2026-10-15T19:32:17.108Z"
   }
 }
