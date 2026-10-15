@@ -1360,5 +1360,36 @@
     "slotKey": "2026-10-14:evening",
     "messageId": 155769,
     "sentAt": "2026-10-14T19:34:14.289Z"
+  },
+  "99406d7d-94e4-4644-a92d-944449a79abc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T03:54:41.001Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "UK Court Applies Chinese Law to Seized Bitcoin Claims",
+        "summary": "A London court ruling makes it harder for claimants to recover $5 billion in seized cryptocurrency.",
+        "link": "https://hashtagweb3.com/seized-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK court applies Chinese law to claims on 61,000 seized bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "Kraken receives regulatory approval to operate in Dubai",
+        "summary": "The exchange will offer spot trading and other financial services to UAE customers starting in the coming weeks.",
+        "link": "https://hashtagweb3.com/kraken-dubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kraken parent wins full Dubai approval, targets UAE launch in weeks"
+      },
+      {
+        "index": -1,
+        "headline": "UK Sanctions Crypto Exchanges Linked to Russia",
+        "summary": "Britain sanctioned several crypto platforms for allegedly helping Russia evade financial restrictions through the A7 network.",
+        "link": "https://hashtagweb3.com/uk-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK sanctions crypto exchanges Cryptomus, Heleket and TokenSpot over Russia links"
+      }
+    ],
+    "slotKey": "2026-10-15:morning"
   }
 }
