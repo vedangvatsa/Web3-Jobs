@@ -31303,23 +31303,23 @@
       "id": "d1ae5f3789231ab34e49",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T14:13:33.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "USDGO page blocked on re-attempt; Jupiter or Fluid record and a second outlet still missing.",
+      "note": "USDGO page blocked again in this run; Jupiter or Fluid record and a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:49.175Z",
+      "reviewedAt": "2026-10-15T11:53:33.489Z",
       "retrySearches": [
         "USDGO Jupiter Fluid Solana announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "71063c6b1f32f12943da": {
       "source": "Cointelegraph",
@@ -75180,6 +75180,21 @@
           "reviewedAt": "2026-10-15T11:53:31.319Z",
           "retrySearches": [
             "Binance AI trading tool announcement second outlet"
+          ]
+        },
+        "d1ae5f3789231ab34e49": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "USDGO page blocked again in this run; Jupiter or Fluid record and a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:33.489Z",
+          "retrySearches": [
+            "USDGO Jupiter Fluid Solana announcement second outlet"
           ]
         }
       },
