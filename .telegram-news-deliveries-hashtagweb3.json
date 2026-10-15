@@ -1393,5 +1393,36 @@
     "slotKey": "2026-10-15:morning",
     "messageId": 155775,
     "sentAt": "2026-10-15T03:54:44.007Z"
+  },
+  "f0f1f81b-a280-4ca7-a7be-42461944a423": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T12:07:44.249Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SWI raises $894 million to convert facilities for AI",
+        "summary": "Institutional investors valued SWI Group at 6.1 billion euros for US and Swedish data center projects.",
+        "link": "https://hashtagweb3.com/genesis-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SWI raises $894 million to turn former FTX miner toward AI"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger enables account delegation for institutions",
+        "summary": "This update allows institutions to assign account tasks to delegates without sharing private keys.",
+        "link": "https://hashtagweb3.com/xrpl-delegation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger activates account delegation for banks and stablecoin issuers"
+      },
+      {
+        "index": -1,
+        "headline": "Ondo launches tokenized notes tied to pre-IPO AI firm",
+        "summary": "Secondary trading for the newly launched Private Markets asset is expected to begin within a week.",
+        "link": "https://hashtagweb3.com/ondo-private?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ondo launches Private Markets with tokenized notes tied to pre-IPO AI company"
+      }
+    ],
+    "slotKey": "2026-10-15:afternoon"
   }
 }
