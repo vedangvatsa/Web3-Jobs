@@ -1426,5 +1426,36 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 155778,
     "sentAt": "2026-10-15T12:07:47.625Z"
+  },
+  "7afd33a0-07ec-4248-ab82-c0f40759ba76": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:33:36.259Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitget Lists Pre-IPO Perpetual Futures for Jio Platforms",
+        "summary": "The JIOUSDT contracts offer up to 20x leverage ahead of Jio's October 21-23 share offering in India.",
+        "link": "https://hashtagweb3.com/jio-perpetuals?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitget Lists Jio Pre-IPO Perpetual Futures"
+      },
+      {
+        "index": -1,
+        "headline": "US Government Moves $1 Billion in Seized Bitcoin",
+        "summary": "Authorities transferred over 12,000 bitcoin from a government-controlled wallet to new, unidentified addresses on October 8.",
+        "link": "https://hashtagweb3.com/bitfinex-move?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US government moves $1B in seized Bitfinex bitcoin to unlabeled wallets"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Launches Glamsterdam Upgrade on Sepolia Testnet",
+        "summary": "The update tests a 200 million gas limit and new block rules starting October 6.",
+        "link": "https://hashtagweb3.com/sepolia-fork?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Activates Glamsterdam Upgrade on Sepolia Testnet"
+      }
+    ],
+    "slotKey": "2026-10-15:evening"
   }
 }
