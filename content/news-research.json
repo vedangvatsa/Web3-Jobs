@@ -37755,23 +37755,23 @@
       "id": "3ccc74f42f175d6209b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T19:07:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "note": "Read the Cointelegraph piece; Trezor cuts resellers as a precaution with no compromise evidence. Trezor notice plus reseller-list confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:04.990Z",
+      "reviewedAt": "2026-10-15T11:58:57.031Z",
       "retrySearches": [
-        "Trezor preventative reseller step Cointelegraph confirmation"
+        "Trezor reseller cut notice list second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "dbd228880e58842a02dc": {
       "source": "The Defiant",
@@ -77912,6 +77912,21 @@
           "reviewedAt": "2026-10-15T11:58:54.977Z",
           "retrySearches": [
             "Ledger reseller halt custody probe update second outlet"
+          ]
+        },
+        "3ccc74f42f175d6209b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Trezor cuts resellers as a precaution with no compromise evidence. Trezor notice plus reseller-list confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:57.031Z",
+          "retrySearches": [
+            "Trezor reseller cut notice list second outlet"
           ]
         }
       },
