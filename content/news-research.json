@@ -30147,23 +30147,23 @@
       "id": "fb494b8b3eb1d9f9ff39",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T18:55:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
       "note": "Read the Cointelegraph piece; it details FEC filings with per-candidate figures. Direct FEC record check plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms",
+          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T03:59:48.912Z",
+      "reviewedAt": "2026-10-15T11:58:42.166Z",
       "retrySearches": [
         "Fairshake Defend American Jobs FEC filing second outlet October 2026"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0542d530c8a30db504c3": {
       "source": "CryptoSlate",
@@ -30182,10 +30182,10 @@
       "id": "0542d530c8a30db504c3",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T13:20:55.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
+      "reason": "missing-primary-source",
       "note": "Read the CryptoSlate piece; it reports an Oct 9 Council political agreement with ESMA thresholds via Reuters. Council press release plus a second outlet still needed.",
       "sourceChecks": [
         {
@@ -30193,12 +30193,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T03:59:53.684Z",
+      "reviewedAt": "2026-10-15T11:57:58.749Z",
       "retrySearches": [
         "EU Council ESMA crypto supervision October 9 press release second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "eb17a57f81a083faf797": {
       "source": "CoinDesk",
@@ -31044,23 +31044,23 @@
       "id": "842f7eb226953ce33540",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T16:18:10.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; the Oct 11 forum executable with 15 calls is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
+      "note": "Read the Unchained piece; the Oct 11 ENSv2 executable is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:41.757Z",
+      "reviewedAt": "2026-10-15T11:59:24.318Z",
       "retrySearches": [
         "ENSv2 activation DAO vote date second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7316ad777152a1220780": {
       "source": "Unchained",
@@ -32050,10 +32050,10 @@
       "id": "4da9d7c8c714057dcb97",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T22:10:30.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
-      "reason": "needs-corroboration",
+      "reason": "missing-primary-source",
       "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
       "sourceChecks": [
         {
@@ -32061,12 +32061,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:05.341Z",
+      "reviewedAt": "2026-10-15T11:59:30.464Z",
       "retrySearches": [
         "FSB stablecoin run risk report October 2026 second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "b2f1f35770131e1896dc": {
       "source": "BeInCrypto",
@@ -32679,23 +32679,23 @@
       "id": "d14521213957084bdf90",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T20:02:22.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from Oct. Kalshi or CBS notice plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from October. Kalshi or CBS notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:19.688Z",
+      "reviewedAt": "2026-10-15T11:57:16.567Z",
       "retrySearches": [
         "Kalshi CBS News prediction market sponsor notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "7180bc45f02fe42dc952": {
       "source": "Crypto Briefing",
@@ -34471,23 +34471,23 @@
       "id": "cedb10fc747d425655e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T02:20:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional 201M tender starting around Oct 15. Filing confirmation plus a second outlet still needed.",
+      "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional tender. Filing confirmation plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:31.248Z",
+      "reviewedAt": "2026-10-15T11:57:18.649Z",
       "retrySearches": [
-        "SkyAI tender offer filing second outlet October 15"
+        "SkyAI tender offer filing second outlet October"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5efd684dc286826e49ca": {
       "source": "Crypto Briefing",
@@ -34506,7 +34506,7 @@
       "id": "5efd684dc286826e49ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T01:24:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
@@ -34517,12 +34517,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:37.606Z",
+      "reviewedAt": "2026-10-15T11:58:36.031Z",
       "retrySearches": [
         "Coins.ph BSP deposit restrictions statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "65afd8ed565fe446f4ae": {
       "source": "Crypto Briefing",
@@ -34746,23 +34746,23 @@
       "id": "79003a0ed35caac2fb63",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T03:02:54.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; Aug 2-7 campaign went public Oct 13 with patched CVEs. XBOW or Google disclosure plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; XBOW chained three zero-days for a $250K Chrome bounty. Google bulletin plus independent confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:51.035Z",
+      "reviewedAt": "2026-10-15T11:58:46.361Z",
       "retrySearches": [
-        "XBOW Chrome full-chain bounty Google disclosure second outlet"
+        "XBOW Chrome exploit Google bulletin second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "6b572352d87c446080ff": {
       "source": "Crypto Briefing",
@@ -34894,23 +34894,23 @@
       "id": "491c3f0b8d7d93f36b60",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T14:15:25.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; Trezor announced a preventive reseller cut Tuesday with no numbers. Trezor post plus a second outlet still needed.",
+      "note": "Read the Unchained piece; Trezor post gave no count, names or date. Trezor notice plus detail confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:58.645Z",
+      "reviewedAt": "2026-10-15T11:59:03.275Z",
       "retrySearches": [
-        "Trezor reseller cut preventive announcement second outlet"
+        "Trezor reseller cut detail confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "73883317c8b31c574688": {
       "source": "Cointelegraph",
@@ -35468,23 +35468,23 @@
       "id": "3f87fa5ce83e2d11a731",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T18:20:02.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+      "note": "Read the CryptoSlate analysis; fee and migration terms reported with DAO approval pending. Vote record plus launch-date confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:51.952Z",
+      "reviewedAt": "2026-10-15T11:59:26.436Z",
       "retrySearches": [
-        "ENS ENSv2 overhaul vote date CryptoSlate confirmation"
+        "ENSv2 vote record launch date second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e611ef9e08fc6de725a6": {
       "source": "Decrypt",
@@ -35993,23 +35993,23 @@
       "id": "ee343bfd761fbbbcc2e5",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T11:11:27.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+      "note": "Read the Cointelegraph piece on the same ENSv2 proposal with transition-pause detail. Vote record plus second-outlet confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:54.099Z",
+      "reviewedAt": "2026-10-15T11:59:28.507Z",
       "retrySearches": [
-        "ENS DAO ENSv2 upgrade vote date Cointelegraph confirmation"
+        "ENSv2 proposal vote record second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "74b7cc3e2ad82cda592c": {
       "source": "CoinDesk",
@@ -36744,23 +36744,23 @@
       "id": "8368331cd113dec88465",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T01:00:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same BSP scrutiny verified via the shared CryptoBriefing read. BSP statement plus confirmation of this outlet account still needed.",
+      "note": "Read the CoinDesk piece with customer counts and the Coins.ph funds-safe statement. BSP order plus scope confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+          "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:04:39.610Z",
+      "reviewedAt": "2026-10-15T11:58:38.130Z",
       "retrySearches": [
-        "Coins.ph central bank action CoinDesk confirmation BSP statement"
+        "Coins.ph BSP order scope confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9e609fcefdc5312a8997": {
       "source": "Crypto Briefing",
@@ -36953,23 +36953,23 @@
       "id": "483dbe4d6afc03878ab6",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T23:28:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; reseller-halt request sits in the same CryptoBilis arc verified via the shared Decrypt read. Ledger statement plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece on the same seven-market halt request. Ledger notice plus chain-of-custody update still needed.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:24.159Z",
+      "reviewedAt": "2026-10-15T11:58:54.977Z",
       "retrySearches": [
-        "Ledger resellers halt sales Asia statement second outlet"
+        "Ledger reseller halt custody probe update second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "804438d101e4c015ea8e": {
       "source": "Crypto Briefing",
@@ -37368,23 +37368,27 @@
       "id": "c6e4972c0a7ed67a1242",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T21:52:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Tuesday tokenized-Treasuries transaction with executive quotes confirmed. BNY or Citadel notice plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece on the BNY-Citadel tokenized Treasury test. Participant notice plus triparty-platform confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:32.043Z",
+      "reviewedAt": "2026-10-15T11:59:41.095Z",
       "retrySearches": [
-        "BNY Citadel tokenized Treasuries transaction notice second outlet"
+        "BNY Citadel tokenized Treasury triparty confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "92accb5e69d70a640573": {
       "source": "CryptoSlate",
@@ -37755,23 +37759,23 @@
       "id": "3ccc74f42f175d6209b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T19:07:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "note": "Read the Cointelegraph piece; Trezor cuts resellers as a precaution with no compromise evidence. Trezor notice plus reseller-list confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:04.990Z",
+      "reviewedAt": "2026-10-15T11:58:57.031Z",
       "retrySearches": [
-        "Trezor preventative reseller step Cointelegraph confirmation"
+        "Trezor reseller cut notice list second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "dbd228880e58842a02dc": {
       "source": "The Defiant",
@@ -38043,23 +38047,23 @@
       "id": "60a23d774c9b8a0228af",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:33:24.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Bankless roundup; it confirms three implant generations plus Karpel es, Japan and MediaMarkt cases. Device-level confirmation plus a second outlet still needed.",
+      "note": "Read the Bankless roundup of the implant spread across Asia and Europe with unverified loss ranges. Lab confirmation plus loss-total verification still needed.",
       "sourceChecks": [
         {
           "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:08:01.098Z",
+      "reviewedAt": "2026-10-15T11:59:05.332Z",
       "retrySearches": [
-        "Ledger implant generations Karpel es MediaMarkt confirmation second outlet"
+        "Ledger implant spread lab confirmation loss verification second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ff229a246b036c1cd7e9": {
       "source": "Bankless",
@@ -38106,23 +38110,23 @@
       "id": "065448ab6592e1688b95",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:14:50.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "note": "Read the Decrypt piece with Jan 2027 authorization end and sell-through detail. Trezor notice plus country-scope confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:00.889Z",
+      "reviewedAt": "2026-10-15T11:58:59.183Z",
       "retrySearches": [
-        "Trezor resellers cut Ledger implant Decrypt confirmation"
+        "Trezor resellers January 2027 scope second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9d966e2b82129fb8feb6": {
       "source": "Bitcoin Magazine",
@@ -38141,23 +38145,23 @@
       "id": "9d966e2b82129fb8feb6",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T16:01:03.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
+      "note": "Read the Bitcoin Magazine piece on the same Trezor cut with breach-history context. Trezor notice plus confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+          "url": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:02.885Z",
+      "reviewedAt": "2026-10-15T11:59:01.268Z",
       "retrySearches": [
-        "Trezor resellers reduced Ledger mess confirmation"
+        "Trezor reseller cut confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0871965a45abb9720683": {
       "source": "CoinDesk",
@@ -38180,16 +38184,20 @@
       "expiresAt": "2026-10-16T15:52:09.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece on the live MNX pre-IPO futures; the Defiant version is blocked. Contract terms plus settlement confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:41.649Z",
+      "reviewedAt": "2026-10-15T11:59:45.085Z",
       "retrySearches": [
-        "MNX pre-IPO AI futures terms second outlet"
+        "MNX futures contract terms settlement second outlet"
       ],
       "lastReviewedDay": "2026-10-15",
       "nextReviewDate": "2026-10-16"
@@ -38211,23 +38219,23 @@
       "id": "65e1bdb7fc61aadaa055",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T15:24:52.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; the X-posted robbery account is police-unconfirmed with trend data from Chainalysis. Police confirmation plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece; the $800K knifepoint robbery rests on the victim X account with police unconfirmed. Police confirmation plus on-chain proof still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:43.367Z",
+      "reviewedAt": "2026-10-15T11:59:07.404Z",
       "retrySearches": [
-        "UK crypto trader knifepoint robbery police confirmation second outlet"
+        "UK knifepoint robbery police confirmation chain proof second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e4d122aa059fcbbe1765": {
       "source": "The Defiant",
@@ -38627,23 +38635,23 @@
       "id": "251225b4b28010c9541a",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T11:58:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; FIU Tuesday website-blocking announcement with KuCoin comment confirmed. FIU notice plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece; FIU website blocks hit 27 unregistered exchanges including KuCoin. FIU notice plus exchange-response confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:48.784Z",
+      "reviewedAt": "2026-10-15T11:58:23.219Z",
       "retrySearches": [
-        "Korea FIU 27 exchanges website block notice second outlet"
+        "South Korea FIU 27 exchanges block notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "bb59847c809ee22181b3": {
       "source": "CoinDesk",
@@ -38808,23 +38816,23 @@
       "id": "cc02128e785afeaddb06",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:19:40.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; it links the Oct 12 FSB note and Bailey letter with multi-issuer risk detail. G20 outcome plus a second outlet confirmation still needed.",
+      "reason": "missing-primary-source",
+      "note": "Read the Unchained piece on the same FSB note to G20 chiefs. FSB text plus failure-planning detail still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:08.217Z",
+      "reviewedAt": "2026-10-15T11:59:32.571Z",
       "retrySearches": [
-        "FSB stablecoin note G20 outcome second outlet"
+        "FSB G20 stablecoin note text second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "30077f4772a43384fe99": {
       "source": "Unchained",
@@ -38883,23 +38891,23 @@
       "id": "a96151503a157eaa3014",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:09:01.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; MediaMarkt suspension sits in the same CryptoBilis arc verified via the shared Decrypt read. Retailer confirmation plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece; MediaMarktSaturn pulled Ledger products after a German buyer report. Retailer notice plus device-evidence confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:22.177Z",
+      "reviewedAt": "2026-10-15T11:58:50.719Z",
       "retrySearches": [
-        "MediaMarkt Ledger suspension tampering confirmation second outlet"
+        "MediaMarkt Ledger pull retailer notice device evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c8b6f154eb1f152cd4b3": {
       "source": "CoinDesk",
@@ -39174,23 +39182,27 @@
       "id": "81b2c5c70aa7aadb27b7",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T04:36:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Realist robbery page blocked on re-attempt; police record and a readable second outlet still missing.",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk account of the same UK robbery; the Defiant version is blocked and police have not confirmed. Police confirmation plus second-outlet confirmation still needed.",
       "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:48.442Z",
+      "reviewedAt": "2026-10-15T11:59:09.656Z",
       "retrySearches": [
-        "Realist knifepoint robbery police record second outlet"
+        "UK knifepoint robbery police confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "627591d0728987efa33f": {
       "source": "CryptoSlate",
@@ -39207,11 +39219,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "627591d0728987efa33f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:40:28.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; Qivalis won DNB EMI authorization but the token is not live. DNB register entry plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:05.054Z",
+      "retrySearches": [
+        "Qivalis DNB EMI register token launch second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "159037f1413ade874446": {
       "source": "Cointelegraph",
@@ -39228,11 +39254,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "159037f1413ade874446",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:22:00.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece; Starknet opened a 7-day non-binding STRK vote on L1 exploration closing Oct 22. Governance post plus second-outlet confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:27.323Z",
+      "retrySearches": [
+        "Starknet L1 vote governance post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c3f8abc2b8fc69ddface": {
       "source": "Crypto Briefing",
@@ -39355,11 +39395,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "a2e6429f3797eeab3814",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:54:08.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the CryptoBriefing piece; Oct 15 one-transaction staking from four L2s with CCIP plumbing. Lido announcement plus a second readable outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:34.584Z",
+      "retrySearches": [
+        "Lido direct staking announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c508fffb47602c7c6a05": {
       "source": "The Defiant",
@@ -39447,11 +39505,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ebcf47a4315bf68ca54",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:05:51.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; the $158M via leadership PACs rests on a single Axios account with no FEC doc. FEC filing plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/elon-musk-donates-158m-to-boost-republicans-in-texas-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:44.296Z",
+      "retrySearches": [
+        "Musk 158M Senate Leadership Fund FEC filing second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "3ed1c56cde17649942e5": {
       "source": "BeInCrypto",
@@ -39745,11 +39817,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "004449998deecc14e080",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:08:43.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; Perpetuals.com filed to run tokenized stocks under the SEC innovation exemption. SEC notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:20.761Z",
+      "retrySearches": [
+        "Perpetuals tokenized stocks SEC exemption notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "020c4edfe140d9bd39f6": {
       "source": "CoinDesk",
@@ -39827,11 +39913,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c54fa996690747182a1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:53:41.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; Qivalis EMI confirmed with CEO quote and market context. DNB register entry plus issuance-date confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:07.029Z",
+      "retrySearches": [
+        "Qivalis DNB EMI CEO issuance date second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "61db92a7a4ac4b9ebfcf": {
       "source": "The Defiant",
@@ -39904,11 +40004,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "ecfb7737c3d4f367ca17",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:39.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; DriveWealth uses RLUSD for client funding starting in Europe. Partner notice plus rollout confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/drivewealth-turns-to-ripples-rlusd-stablecoin-for-client-funding-with-europe-first/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:36.712Z",
+      "retrySearches": [
+        "DriveWealth RLUSD rollout confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e12a8488c2c1726eec3e": {
       "source": "Crypto Briefing",
@@ -39972,11 +40090,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d791f7a15f5dd38a0a73",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:01:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Decrypt piece; Brooklyn DA and FBI disrupted 112 servers and 241 domains in a Russian-speaker scam probe. DA release plus domain-inventory confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:31.438Z",
+      "retrySearches": [
+        "Brooklyn DA 112 servers scam DA release inventory second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0a9a9d7cdae467ab8072": {
       "source": "Cointelegraph",
@@ -39993,11 +40125,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a9a9d7cdae467ab8072",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:56:45.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece on the same 112-server takedown with FBI loss context. DA release plus arrest-status confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:33.549Z",
+      "retrySearches": [
+        "Brooklyn FBI scam takedown arrests DA release second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ab08dc2dbefb8e581cc7": {
       "source": "Decrypt",
@@ -40014,11 +40160,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ab08dc2dbefb8e581cc7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:47:44.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Ledger asks seven Asian markets to pull devices with only SE Asia drains confirmed. Ledger notice plus scope confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:52.855Z",
+      "retrySearches": [
+        "Ledger seven markets pull notice scope second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cbe8fdb942ed31fb0863": {
       "source": "CoinDesk",
@@ -40251,11 +40411,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "4cf0fc9f4dd0182617df",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:23:12.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing take on the same Starknet vote; its page returned 200 with prediction-market framing. Governance post plus independent confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:29.364Z",
+      "retrySearches": [
+        "Starknet L1 vote governance post independent confirmation"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "29fcbcf90a5686414547": {
       "source": "Crypto Briefing",
@@ -40699,11 +40877,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4582964dc6d28dba261b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T01:30:51.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate on-chain analysis; Firelight lockup mechanics are single-outlet technical claims. Firelight response plus exit-completion confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:48.583Z",
+      "retrySearches": [
+        "Firelight FXRP lockup response exit confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "78009d4c1c69ebee7908": {
       "source": "CryptoSlate",
@@ -40772,11 +40964,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "374bf63c642dee162c49",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:46:03.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Decrypt piece; Bank of Russia added Sberbank to the exchange register on Oct 12 with Dec 1 products planned. Regulator register plus Interfax confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:11.668Z",
+      "retrySearches": [
+        "Sberbank Bank of Russia register Interfax second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5a1f68cae2407821f2ac": {
       "source": "Cointelegraph",
@@ -40793,11 +40999,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a1f68cae2407821f2ac",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T19:03:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; EBA names USDC the first significant e-money token under MiCA. EBA notice plus reserve-split confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:00.819Z",
+      "retrySearches": [
+        "EBA USDC significant token notice reserve split second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "323315298a1576ef8c33": {
       "source": "The Block",
@@ -40849,11 +41069,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6927a833cb46682dda6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:46:05.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; StanChart opened BTC and ETH trading for UAE professionals under VARA approval. Bank notice plus custody-detail confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:15.696Z",
+      "retrySearches": [
+        "Standard Chartered UAE trading VARA notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cc02e00afa67466045e2": {
       "source": "The Block",
@@ -40896,11 +41130,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c3f856d2eba0654187ff",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:22:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Bitcoin Magazine piece on the same StanChart UAE debut. Bank notice plus expansion-timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:17.790Z",
+      "retrySearches": [
+        "Standard Chartered UAE bitcoin trading timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "356e9b33c575a7e73f4b": {
       "source": "Decrypt",
@@ -40917,11 +41165,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "356e9b33c575a7e73f4b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:15:19.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Coinbase blog urges starting Bitcoin quantum migration now. Coinbase post plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:22.854Z",
+      "retrySearches": [
+        "Coinbase Bitcoin quantum migration blog second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "8cf2e25e2a9cc92881b0": {
       "source": "CoinDesk",
@@ -41727,11 +41989,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5b83e31da270755e01c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:00:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:43.194Z",
+      "retrySearches": [
+        "Hyperliquid Yan interview policy detail second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "aa7a8d10341144b65d50": {
       "source": "Cointelegraph",
@@ -41835,11 +42115,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "edfcca84d9f6220441bc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:53:37.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; ASIC opened CP392 consultation for an April 2027 regime. ASIC paper plus industry-response confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:15.270Z",
+      "retrySearches": [
+        "ASIC CP392 consultation paper industry response second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "a72fa2a023627c7236b8": {
       "source": "Crypto Briefing",
@@ -41882,11 +42176,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a108866d7e567093560a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:40:13.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece on the same OCC findings including Letter 1183. OCC letters plus easing-scope confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:13.234Z",
+      "retrySearches": [
+        "OCC Letter 1183 banks easing scope second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0d69869309831ed8a482": {
       "source": "BeInCrypto",
@@ -42191,11 +42499,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b84c989c6ff0e2ed3b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:20:16.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate deep-dive on the OCC nine-bank findings with BNY example. OCC report plus bank-response confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:11.178Z",
+      "retrySearches": [
+        "OCC nine banks findings bank responses second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "443a4e34c253229e2509": {
       "source": "Crypto Briefing",
@@ -42398,11 +42720,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7775d94031a98b2262f8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T06:30:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; USDC splits reserves with a Nov 12 EBA handover. Circle white paper plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:02.900Z",
+      "retrySearches": [
+        "USDC EBA November 12 handover Circle white paper second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4728b3fdc2b6c9d149d5": {
       "source": "Cointelegraph",
@@ -42419,11 +42755,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4728b3fdc2b6c9d149d5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T05:52:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; FSC cyber overhaul follows incidents at 16 firms. FSC notice plus affected-firm confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:21.175Z",
+      "retrySearches": [
+        "South Korea FSC cyber overhaul notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5a150e7f770e0109c4f0": {
       "source": "BeInCrypto",
@@ -42466,11 +42816,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "531b46a7684e1aa6eecb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T05:00:40.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece with capital-model detail and industry quotes on the same ASIC package. Final-guidance timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:17.295Z",
+      "retrySearches": [
+        "ASIC crypto platform rules final guidance timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "0c0e49fb539cfa63e081": {
       "source": "BeInCrypto",
@@ -42513,11 +42877,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "b883039d71d58faa5a57",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T00:55:21.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece on the closed Coinme deal with license counts. Polygon post plus registry confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:39.044Z",
+      "retrySearches": [
+        "Polygon Coinme registry confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "f45197e38821d52b30eb": {
       "source": "CryptoSlate",
@@ -42534,11 +42916,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f45197e38821d52b30eb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T22:30:33.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece parsing the Coins.ph statement; no restoration date or service list given. Advisory text plus timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:40.113Z",
+      "retrySearches": [
+        "Coins.ph advisory restoration timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "abe33c9e985db1a9e48b": {
       "source": "Decrypt",
@@ -42581,11 +42977,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "312c1cc8ce01a8f2750b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:30:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Bitcoin Magazine piece on the same Sberbank authorization with VTB context. Regulator register plus launch-date confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:13.702Z",
+      "retrySearches": [
+        "Sberbank crypto license launch date second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "62d2e0a9aca8000268c3": {
       "source": "The Defiant",
@@ -42698,11 +43108,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ff41bd56820b278a6ccd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:56:22.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; CCI and BA join the Digital Chamber tax case for expedited judgment. Court filing plus merits-timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:25.222Z",
+      "retrySearches": [
+        "Illinois crypto tax CCI filing merits timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "a3bdf59061251c92a93a": {
       "source": "The Defiant",
@@ -42747,11 +43171,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a2d325c766442810ce5e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T20:16:05.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Chainalysis counts 138M agent payments via x402 with 87 percent micro-transactions. Chainalysis report plus genuine-demand assessment still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:19.855Z",
+      "retrySearches": [
+        "Chainalysis agentic commerce report genuine demand second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d6b7e20f1bb6736be847": {
       "source": "Bankless",
@@ -42988,11 +43426,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "32bab52af134db3e537c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:03:20.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece; OCC 47-page debanking report covers nine banks under the 2025 order. OCC report PDF plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:09.052Z",
+      "retrySearches": [
+        "OCC debanking report nine banks PDF second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cf88ddc5337a7c210c64": {
       "source": "CoinDesk",
@@ -43297,11 +43749,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a5297b67393fcae700c7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:35:36.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece on the same 138M agent payments with US-dominance figures. Chainalysis report plus methodology confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:22.223Z",
+      "retrySearches": [
+        "Chainalysis x402 payments methodology second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4c6b6e77855a6766796f": {
       "source": "The Block",
@@ -76866,16 +77332,20 @@
         "0871965a45abb9720683": {
           "status": "deferred",
           "reason": "needs-corroboration",
-          "note": "Read the CoinDesk piece; MNX went live with pre-IPO AI futures, $6.4M raised. MNX terms plus a second outlet still needed.",
+          "note": "Read the CoinDesk piece on the live MNX pre-IPO futures; the Defiant version is blocked. Contract terms plus settlement confirmation still needed.",
           "sourceChecks": [
             {
               "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
               "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+              "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-10-15T11:56:41.649Z",
+          "reviewedAt": "2026-10-15T11:59:45.085Z",
           "retrySearches": [
-            "MNX pre-IPO AI futures terms second outlet"
+            "MNX futures contract terms settlement second outlet"
           ]
         },
         "53da82d0289c4ef5526d": {
@@ -77116,6 +77586,844 @@
           "reviewedAt": "2026-10-15T11:57:14.540Z",
           "retrySearches": [
             "Babylon Aave V4 proposal ARFC second outlet"
+          ]
+        },
+        "d14521213957084bdf90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from October. Kalshi or CBS notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:16.567Z",
+          "retrySearches": [
+            "Kalshi CBS News prediction market sponsor notice second outlet"
+          ]
+        },
+        "cedb10fc747d425655e2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional tender. Filing confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:18.649Z",
+          "retrySearches": [
+            "SkyAI tender offer filing second outlet October"
+          ]
+        },
+        "004449998deecc14e080": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Perpetuals.com filed to run tokenized stocks under the SEC innovation exemption. SEC notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:20.761Z",
+          "retrySearches": [
+            "Perpetuals tokenized stocks SEC exemption notice second outlet"
+          ]
+        },
+        "356e9b33c575a7e73f4b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Coinbase blog urges starting Bitcoin quantum migration now. Coinbase post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:22.854Z",
+          "retrySearches": [
+            "Coinbase Bitcoin quantum migration blog second outlet"
+          ]
+        },
+        "0542d530c8a30db504c3": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoSlate piece; it reports an Oct 9 Council political agreement with ESMA thresholds via Reuters. Council press release plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:58.749Z",
+          "retrySearches": [
+            "EU Council ESMA crypto supervision October 9 press release second outlet"
+          ]
+        },
+        "5a1f68cae2407821f2ac": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; EBA names USDC the first significant e-money token under MiCA. EBA notice plus reserve-split confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:00.819Z",
+          "retrySearches": [
+            "EBA USDC significant token notice reserve split second outlet"
+          ]
+        },
+        "7775d94031a98b2262f8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; USDC splits reserves with a Nov 12 EBA handover. Circle white paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:02.900Z",
+          "retrySearches": [
+            "USDC EBA November 12 handover Circle white paper second outlet"
+          ]
+        },
+        "627591d0728987efa33f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Qivalis won DNB EMI authorization but the token is not live. DNB register entry plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:05.054Z",
+          "retrySearches": [
+            "Qivalis DNB EMI register token launch second outlet"
+          ]
+        },
+        "6c54fa996690747182a1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Qivalis EMI confirmed with CEO quote and market context. DNB register entry plus issuance-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:07.029Z",
+          "retrySearches": [
+            "Qivalis DNB EMI CEO issuance date second outlet"
+          ]
+        },
+        "32bab52af134db3e537c": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece; OCC 47-page debanking report covers nine banks under the 2025 order. OCC report PDF plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:09.052Z",
+          "retrySearches": [
+            "OCC debanking report nine banks PDF second outlet"
+          ]
+        },
+        "9b84c989c6ff0e2ed3b1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate deep-dive on the OCC nine-bank findings with BNY example. OCC report plus bank-response confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:11.178Z",
+          "retrySearches": [
+            "OCC nine banks findings bank responses second outlet"
+          ]
+        },
+        "a108866d7e567093560a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece on the same OCC findings including Letter 1183. OCC letters plus easing-scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:13.234Z",
+          "retrySearches": [
+            "OCC Letter 1183 banks easing scope second outlet"
+          ]
+        },
+        "edfcca84d9f6220441bc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; ASIC opened CP392 consultation for an April 2027 regime. ASIC paper plus industry-response confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:15.270Z",
+          "retrySearches": [
+            "ASIC CP392 consultation paper industry response second outlet"
+          ]
+        },
+        "531b46a7684e1aa6eecb": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece with capital-model detail and industry quotes on the same ASIC package. Final-guidance timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:17.295Z",
+          "retrySearches": [
+            "ASIC crypto platform rules final guidance timeline second outlet"
+          ]
+        },
+        "b883039d71d58faa5a57": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece on the closed Coinme deal with license counts. Polygon post plus registry confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:39.044Z",
+          "retrySearches": [
+            "Polygon Coinme registry confirmation second outlet"
+          ]
+        },
+        "4728b3fdc2b6c9d149d5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; FSC cyber overhaul follows incidents at 16 firms. FSC notice plus affected-firm confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:21.175Z",
+          "retrySearches": [
+            "South Korea FSC cyber overhaul notice second outlet"
+          ]
+        },
+        "251225b4b28010c9541a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; FIU website blocks hit 27 unregistered exchanges including KuCoin. FIU notice plus exchange-response confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:23.219Z",
+          "retrySearches": [
+            "South Korea FIU 27 exchanges block notice second outlet"
+          ]
+        },
+        "ff41bd56820b278a6ccd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; CCI and BA join the Digital Chamber tax case for expedited judgment. Court filing plus merits-timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:25.222Z",
+          "retrySearches": [
+            "Illinois crypto tax CCI filing merits timeline second outlet"
+          ]
+        },
+        "159037f1413ade874446": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece; Starknet opened a 7-day non-binding STRK vote on L1 exploration closing Oct 22. Governance post plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:27.323Z",
+          "retrySearches": [
+            "Starknet L1 vote governance post second outlet"
+          ]
+        },
+        "4cf0fc9f4dd0182617df": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing take on the same Starknet vote; its page returned 200 with prediction-market framing. Governance post plus independent confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:29.364Z",
+          "retrySearches": [
+            "Starknet L1 vote governance post independent confirmation"
+          ]
+        },
+        "d791f7a15f5dd38a0a73": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Decrypt piece; Brooklyn DA and FBI disrupted 112 servers and 241 domains in a Russian-speaker scam probe. DA release plus domain-inventory confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:31.438Z",
+          "retrySearches": [
+            "Brooklyn DA 112 servers scam DA release inventory second outlet"
+          ]
+        },
+        "0a9a9d7cdae467ab8072": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece on the same 112-server takedown with FBI loss context. DA release plus arrest-status confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:33.549Z",
+          "retrySearches": [
+            "Brooklyn FBI scam takedown arrests DA release second outlet"
+          ]
+        },
+        "5efd684dc286826e49ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; BSP deposit restrictions and compliance departures reported. BSP statement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:36.031Z",
+          "retrySearches": [
+            "Coins.ph BSP deposit restrictions statement second outlet"
+          ]
+        },
+        "8368331cd113dec88465": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece with customer counts and the Coins.ph funds-safe statement. BSP order plus scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:38.130Z",
+          "retrySearches": [
+            "Coins.ph BSP order scope confirmation second outlet"
+          ]
+        },
+        "f45197e38821d52b30eb": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece parsing the Coins.ph statement; no restoration date or service list given. Advisory text plus timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:40.113Z",
+          "retrySearches": [
+            "Coins.ph advisory restoration timeline second outlet"
+          ]
+        },
+        "fb494b8b3eb1d9f9ff39": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; it details FEC filings with per-candidate figures. Direct FEC record check plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:42.166Z",
+          "retrySearches": [
+            "Fairshake Defend American Jobs FEC filing second outlet October 2026"
+          ]
+        },
+        "0ebcf47a4315bf68ca54": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; the $158M via leadership PACs rests on a single Axios account with no FEC doc. FEC filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/elon-musk-donates-158m-to-boost-republicans-in-texas-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:44.296Z",
+          "retrySearches": [
+            "Musk 158M Senate Leadership Fund FEC filing second outlet"
+          ]
+        },
+        "79003a0ed35caac2fb63": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; XBOW chained three zero-days for a $250K Chrome bounty. Google bulletin plus independent confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:46.361Z",
+          "retrySearches": [
+            "XBOW Chrome exploit Google bulletin second outlet"
+          ]
+        },
+        "4582964dc6d28dba261b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate on-chain analysis; Firelight lockup mechanics are single-outlet technical claims. Firelight response plus exit-completion confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:48.583Z",
+          "retrySearches": [
+            "Firelight FXRP lockup response exit confirmation second outlet"
+          ]
+        },
+        "a96151503a157eaa3014": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; MediaMarktSaturn pulled Ledger products after a German buyer report. Retailer notice plus device-evidence confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:50.719Z",
+          "retrySearches": [
+            "MediaMarkt Ledger pull retailer notice device evidence second outlet"
+          ]
+        },
+        "ab08dc2dbefb8e581cc7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Ledger asks seven Asian markets to pull devices with only SE Asia drains confirmed. Ledger notice plus scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:52.855Z",
+          "retrySearches": [
+            "Ledger seven markets pull notice scope second outlet"
+          ]
+        },
+        "483dbe4d6afc03878ab6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece on the same seven-market halt request. Ledger notice plus chain-of-custody update still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:54.977Z",
+          "retrySearches": [
+            "Ledger reseller halt custody probe update second outlet"
+          ]
+        },
+        "3ccc74f42f175d6209b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Trezor cuts resellers as a precaution with no compromise evidence. Trezor notice plus reseller-list confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:57.031Z",
+          "retrySearches": [
+            "Trezor reseller cut notice list second outlet"
+          ]
+        },
+        "065448ab6592e1688b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece with Jan 2027 authorization end and sell-through detail. Trezor notice plus country-scope confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:59.183Z",
+          "retrySearches": [
+            "Trezor resellers January 2027 scope second outlet"
+          ]
+        },
+        "9d966e2b82129fb8feb6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bitcoin Magazine piece on the same Trezor cut with breach-history context. Trezor notice plus confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:01.268Z",
+          "retrySearches": [
+            "Trezor reseller cut confirmation second outlet"
+          ]
+        },
+        "491c3f0b8d7d93f36b60": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; Trezor post gave no count, names or date. Trezor notice plus detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:03.275Z",
+          "retrySearches": [
+            "Trezor reseller cut detail confirmation second outlet"
+          ]
+        },
+        "60a23d774c9b8a0228af": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bankless roundup of the implant spread across Asia and Europe with unverified loss ranges. Lab confirmation plus loss-total verification still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:05.332Z",
+          "retrySearches": [
+            "Ledger implant spread lab confirmation loss verification second outlet"
+          ]
+        },
+        "65e1bdb7fc61aadaa055": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; the $800K knifepoint robbery rests on the victim X account with police unconfirmed. Police confirmation plus on-chain proof still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:07.404Z",
+          "retrySearches": [
+            "UK knifepoint robbery police confirmation chain proof second outlet"
+          ]
+        },
+        "81b2c5c70aa7aadb27b7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk account of the same UK robbery; the Defiant version is blocked and police have not confirmed. Police confirmation plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:09.656Z",
+          "retrySearches": [
+            "UK knifepoint robbery police confirmation second outlet"
+          ]
+        },
+        "374bf63c642dee162c49": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Decrypt piece; Bank of Russia added Sberbank to the exchange register on Oct 12 with Dec 1 products planned. Regulator register plus Interfax confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:11.668Z",
+          "retrySearches": [
+            "Sberbank Bank of Russia register Interfax second outlet"
+          ]
+        },
+        "312c1cc8ce01a8f2750b": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Bitcoin Magazine piece on the same Sberbank authorization with VTB context. Regulator register plus launch-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:13.702Z",
+          "retrySearches": [
+            "Sberbank crypto license launch date second outlet"
+          ]
+        },
+        "f6927a833cb46682dda6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; StanChart opened BTC and ETH trading for UAE professionals under VARA approval. Bank notice plus custody-detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:15.696Z",
+          "retrySearches": [
+            "Standard Chartered UAE trading VARA notice second outlet"
+          ]
+        },
+        "c3f856d2eba0654187ff": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bitcoin Magazine piece on the same StanChart UAE debut. Bank notice plus expansion-timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:17.790Z",
+          "retrySearches": [
+            "Standard Chartered UAE bitcoin trading timeline second outlet"
+          ]
+        },
+        "a2d325c766442810ce5e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Chainalysis counts 138M agent payments via x402 with 87 percent micro-transactions. Chainalysis report plus genuine-demand assessment still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:19.855Z",
+          "retrySearches": [
+            "Chainalysis agentic commerce report genuine demand second outlet"
+          ]
+        },
+        "a5297b67393fcae700c7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on the same 138M agent payments with US-dominance figures. Chainalysis report plus methodology confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:22.223Z",
+          "retrySearches": [
+            "Chainalysis x402 payments methodology second outlet"
+          ]
+        },
+        "842f7eb226953ce33540": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; the Oct 11 ENSv2 executable is confirmed but no vote date is set. A linked vote plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:24.318Z",
+          "retrySearches": [
+            "ENSv2 activation DAO vote date second outlet"
+          ]
+        },
+        "3f87fa5ce83e2d11a731": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate analysis; fee and migration terms reported with DAO approval pending. Vote record plus launch-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:26.436Z",
+          "retrySearches": [
+            "ENSv2 vote record launch date second outlet"
+          ]
+        },
+        "ee343bfd761fbbbcc2e5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece on the same ENSv2 proposal with transition-pause detail. Vote record plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:28.507Z",
+          "retrySearches": [
+            "ENSv2 proposal vote record second outlet"
+          ]
+        },
+        "4da9d7c8c714057dcb97": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoSlate piece; it reports the Oct 12 FSB report ahead of the Oct 15 G20 meeting. FSB report text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:30.464Z",
+          "retrySearches": [
+            "FSB stablecoin run risk report October 2026 second outlet"
+          ]
+        },
+        "cc02128e785afeaddb06": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Unchained piece on the same FSB note to G20 chiefs. FSB text plus failure-planning detail still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:32.571Z",
+          "retrySearches": [
+            "FSB G20 stablecoin note text second outlet"
+          ]
+        },
+        "a2e6429f3797eeab3814": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoBriefing piece; Oct 15 one-transaction staking from four L2s with CCIP plumbing. Lido announcement plus a second readable outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:34.584Z",
+          "retrySearches": [
+            "Lido direct staking announcement second outlet"
+          ]
+        },
+        "ecfb7737c3d4f367ca17": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; DriveWealth uses RLUSD for client funding starting in Europe. Partner notice plus rollout confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/drivewealth-turns-to-ripples-rlusd-stablecoin-for-client-funding-with-europe-first/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:36.712Z",
+          "retrySearches": [
+            "DriveWealth RLUSD rollout confirmation second outlet"
+          ]
+        },
+        "c6e4972c0a7ed67a1242": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on the BNY-Citadel tokenized Treasury test. Participant notice plus triparty-platform confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:41.095Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasury triparty confirmation second outlet"
+          ]
+        },
+        "b5b83e31da270755e01c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:43.194Z",
+          "retrySearches": [
+            "Hyperliquid Yan interview policy detail second outlet"
           ]
         }
       },
