@@ -41025,11 +41025,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6927a833cb46682dda6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:46:05.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; StanChart opened BTC and ETH trading for UAE professionals under VARA approval. Bank notice plus custody-detail confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:15.696Z",
+      "retrySearches": [
+        "Standard Chartered UAE trading VARA notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cc02e00afa67466045e2": {
       "source": "The Block",
@@ -78083,6 +78097,21 @@
           "reviewedAt": "2026-10-15T11:59:13.702Z",
           "retrySearches": [
             "Sberbank crypto license launch date second outlet"
+          ]
+        },
+        "f6927a833cb46682dda6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; StanChart opened BTC and ETH trading for UAE professionals under VARA approval. Bank notice plus custody-detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:15.696Z",
+          "retrySearches": [
+            "Standard Chartered UAE trading VARA notice second outlet"
           ]
         }
       },
