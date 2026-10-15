@@ -39466,11 +39466,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c508fffb47602c7c6a05",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:49:25.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Correction: this is the Lido direct-staking story, not Alpenglow. Defiant page returned HTTP 403 in this run; CryptoBriefing version read separately. Lido announcement plus second readable outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:48:04.683Z",
+      "retrySearches": [
+        "Lido direct ETH staking Arbitrum Base Linea Optimism announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "106ff5cf81fdd279dd02": {
       "source": "Cointelegraph",
@@ -74156,6 +74170,21 @@
           "reviewedAt": "2026-10-15T11:42:58.714Z",
           "duplicateOf": "vaneck-withdrawal",
           "mergedInto": "90999d705a2c87614d7d"
+        },
+        "c508fffb47602c7c6a05": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Correction: this is the Lido direct-staking story, not Alpenglow. Defiant page returned HTTP 403 in this run; CryptoBriefing version read separately. Lido announcement plus second readable outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:48:04.683Z",
+          "retrySearches": [
+            "Lido direct ETH staking Arbitrum Base Linea Optimism announcement second outlet"
+          ]
         }
       },
       "baselineSlugs": [
