@@ -35169,23 +35169,23 @@
       "id": "c6133711326de303b968",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T23:23:05.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Tuesday SATS preferred announcement for 500M is distinct from the reported bitcoin buy. Filing plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece; Strive targets $500M via SATS preferred at 15% fixed. Company filing plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:19.341Z",
+      "reviewedAt": "2026-10-15T11:56:35.632Z",
       "retrySearches": [
-        "Strive SATS preferred offering filing second outlet"
+        "Strive SATS preferred 500M bitcoin filing second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "9b30425c8214bd895459": {
       "source": "Bitcoin Magazine",
@@ -76690,6 +76690,21 @@
           "reviewedAt": "2026-10-15T11:56:33.585Z",
           "retrySearches": [
             "KuCoin Nigeria ARIP SEC Nigeria record second outlet"
+          ]
+        },
+        "c6133711326de303b968": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Strive targets $500M via SATS preferred at 15% fixed. Company filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:35.632Z",
+          "retrySearches": [
+            "Strive SATS preferred 500M bitcoin filing second outlet"
           ]
         }
       },
