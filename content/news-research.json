@@ -43072,11 +43072,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "32bab52af134db3e537c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:03:20.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Cointelegraph piece; OCC 47-page debanking report covers nine banks under the 2025 order. OCC report PDF plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:09.052Z",
+      "retrySearches": [
+        "OCC debanking report nine banks PDF second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cf88ddc5337a7c210c64": {
       "source": "CoinDesk",
@@ -77335,6 +77349,21 @@
           "reviewedAt": "2026-10-15T11:58:07.029Z",
           "retrySearches": [
             "Qivalis DNB EMI CEO issuance date second outlet"
+          ]
+        },
+        "32bab52af134db3e537c": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Cointelegraph piece; OCC 47-page debanking report covers nine banks under the 2025 order. OCC report PDF plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:09.052Z",
+          "retrySearches": [
+            "OCC debanking report nine banks PDF second outlet"
           ]
         }
       },
