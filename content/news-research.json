@@ -37595,25 +37595,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "22edeeec337a1317053a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T20:40:49.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Lead reachable; same Trezor preventive cut verified via the shared Unchained read. Trezor post plus confirmation of this outlet account still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/after-ledgers-reseller-breach-trezor-pares-back-who-can-sell-its-hardware-wallets/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:05:07.099Z",
+      "reason": "duplicate",
+      "note": "This covers the same implant scare plus Trezor reaction already covered between ledger-implant and deferred Trezor candidates; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:18.434Z",
       "retrySearches": [
         "Trezor reseller crackdown Ledger scare CryptoSlate confirmation"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "cc819dc57b19f373bb5b": {
       "source": "Bankless",
@@ -74210,6 +74205,14 @@
           "note": "This covers the same incident as ledger-implant; $93M-traced and $10M-frozen figures remain third-party estimates Ledger has not verified; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:16.522Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "22edeeec337a1317053a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same implant scare plus Trezor reaction already covered between ledger-implant and deferred Trezor candidates; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:18.434Z",
           "duplicateOf": "ledger-implant"
         }
       },
