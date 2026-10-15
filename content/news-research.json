@@ -40534,11 +40534,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c92ba30c7ec07091b856",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:13:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Mining-pool shutdown framed around hashrate drop; industry data point without verifiable closure filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:52.254Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "01ec7b0645e584405350": {
       "source": "CoinDesk",
@@ -74406,6 +74411,13 @@
           "note": "Crypto liquidation tally near $1 billion; market recap, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:50.061Z"
+        },
+        "c92ba30c7ec07091b856": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Mining-pool shutdown framed around hashrate drop; industry data point without verifiable closure filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:52.254Z"
         }
       },
       "baselineSlugs": [
