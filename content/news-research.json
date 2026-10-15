@@ -30820,23 +30820,23 @@
       "id": "a2699c39cccee48e6823",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T18:44:10.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Binance AI-tool page blocked on re-attempt; Binance announcement and a readable second outlet still missing.",
+      "note": "Binance AI-tool page blocked again in this run; Binance announcement and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:00.667Z",
+      "reviewedAt": "2026-10-15T11:53:31.319Z",
       "retrySearches": [
         "Binance AI trading tool announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "701a5eb99a20e73f7a40": {
       "source": "CryptoSlate",
@@ -75165,6 +75165,21 @@
           "reviewedAt": "2026-10-15T11:53:29.039Z",
           "retrySearches": [
             "Derive US derivatives treasury proposal forum second outlet"
+          ]
+        },
+        "a2699c39cccee48e6823": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Binance AI-tool page blocked again in this run; Binance announcement and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:31.319Z",
+          "retrySearches": [
+            "Binance AI trading tool announcement second outlet"
           ]
         }
       },
