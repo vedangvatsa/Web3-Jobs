@@ -42511,11 +42511,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf88ddc5337a7c210c64",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T16:34:53.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Interview commentary from Kalshi CEO on state oversight; opinion without a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:12.187Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "ba263a8d15472ae0ff07": {
       "source": "The Defiant",
@@ -74574,6 +74579,13 @@
           "note": "Interview commentary from Kalshi CEO on prediction-market oversight; opinion without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:10.088Z"
+        },
+        "cf88ddc5337a7c210c64": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Interview commentary from Kalshi CEO on state oversight; opinion without a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:12.187Z"
         }
       },
       "baselineSlugs": [
