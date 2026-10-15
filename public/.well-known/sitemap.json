@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-15T11:50:09.346Z",
+  "generatedAt": "2026-10-15T12:58:38.679Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3601,
+  "count": 3605,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -482,6 +482,12 @@
       "lastmod": "2026-11-04",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/alpenglow",
+      "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/altcoin",
@@ -8092,6 +8098,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/heart-arrest",
+      "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/hedera",
       "lastmod": "2026-09-21",
       "changefreq": "weekly",
@@ -9694,7 +9706,7 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/jio-perpetuals",
+      "url": "https://hashtagweb3.com/jio",
       "lastmod": "2026-10-15",
       "changefreq": "monthly",
       "priority": 0.7
@@ -15628,6 +15640,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/saldo-bank",
+      "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/sales-career-progression-path",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -17124,12 +17142,6 @@
     {
       "url": "https://hashtagweb3.com/sls218",
       "lastmod": "2026-10-06",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls22",
-      "lastmod": "2026-09-15",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19648,6 +19660,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/vaneck-withdrawal",
+      "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/vechain-interstellar",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -21260,6 +21278,12 @@
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/witt-exit",
+      "lastmod": "2026-10-15",
+      "changefreq": "monthly",
+      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/women-in-tech-global-summit",

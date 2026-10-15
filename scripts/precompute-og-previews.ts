@@ -9,6 +9,7 @@ import { isRemovedJobPath } from '../src/lib/removed-job-path';
 import { isExpiredJobPath } from '../src/lib/job-age-path';
 import eventTombstones from '../content/event-tombstones.json';
 import { removedEventStatus } from './lib/event-retention.mjs';
+import nextConfig from '../next.config.mjs';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -43,6 +44,10 @@ async function main() {
   fs.mkdirSync(OUT_ROOT, { recursive: true });
 
   const paths = await collectOgPreviewPaths();
+  const rootRedirects = new Map((await nextConfig.redirects())
+    .filter(entry => entry.permanent && /^\/[a-z0-9-]+$/.test(entry.source) && /^\/[a-z0-9-]+$/.test(entry.destination))
+    .filter(entry => fs.existsSync(path.join(process.cwd(), 'content/articles', `${entry.destination.slice(1)}.md`)))
+    .map(entry => [entry.source, entry.destination]));
   const manifest = FULL_REBUILD ? {} : loadManifest();
   let written = 0;
   let skipped = 0;
@@ -92,9 +97,9 @@ async function main() {
     }
     if (livePaths.has(contentPath) || relative === 'default') continue;
     const before = fs.readFileSync(file, 'utf8');
-    const nomadDestination = legacyNomadDestination(contentPath);
-    if (nomadDestination) {
-      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(nomadDestination)));
+    const canonicalDestination = legacyNomadDestination(contentPath) || rootRedirects.get(contentPath);
+    if (canonicalDestination) {
+      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalDestination)));
       if (before !== html) { fs.writeFileSync(file, html); written++; }
       continue;
     }

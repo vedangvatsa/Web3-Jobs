@@ -120,16 +120,17 @@ async function main() {
       assert.equal(target.searchParams.get('audit'), 'ibw');
       aliases++;
     }
-    const article = await request('/jio-perpetuals');
+    const article = await request('/jio');
     assert.equal(article.status, 200);
     const $ = load(await article.text());
+    assert.equal($('link[rel="canonical"]').attr('href'), 'https://hashtagweb3.com/jio');
     assert.equal($('h1').first().text(), 'Bitget Lists Jio Pre-IPO Perpetual Futures');
     assert.equal($('.article-tweet-card').length, 2);
     for (const id of ['2110561653758816627', '2110313996469633507']) assert.ok($(`.article-tweet-card a[href*="/status/${id}"]`).length);
     assert.ok($('script[type="application/ld+json"]').toArray().some(element => $(element).text().includes('NewsArticle')));
     const news = await request('/news');
     assert.equal(news.status, 200);
-    assert.ok(load(await news.text())('a[href="/jio-perpetuals"]').length, 'Native report appears on /news');
+    assert.ok(load(await news.text())('a[href="/jio"]').length, 'Native report appears on /news');
 
     browser = await chromium.launch({ headless: true });
     const failures: string[] = [];
@@ -140,7 +141,7 @@ async function main() {
     page.on('pageerror', error => failures.push(error.message));
     page.on('console', message => { if (message.type() === 'error') failures.push(message.text()); });
     page.on('response', response => { if (response.url().startsWith(origin!) && response.status() >= 400) failures.push(`${response.status()} ${response.url()}`); });
-    const samples = ['/ibw', '/defi-security-summit', '/ethereum-cypherpunk-congress', '/ethglobal-mumbai', '/eip-hub-devcon', '/free-society-hackathon', '/afterdark-devcon', '/india-blockchain-ai-tour-mumbai', '/jio-perpetuals', '/nomads'];
+    const samples = ['/ibw', '/defi-security-summit', '/ethereum-cypherpunk-congress', '/ethglobal-mumbai', '/eip-hub-devcon', '/free-society-hackathon', '/afterdark-devcon', '/india-blockchain-ai-tour-mumbai', '/jio', '/nomads'];
     for (const width of [320, 390, 1440]) for (const pathname of samples) {
       await page.setViewportSize({ width, height: 900 });
       await page.goto(origin + pathname, { waitUntil: 'networkidle', timeout: 60000 });
@@ -159,7 +160,7 @@ async function main() {
         await page.waitForURL(origin + '/popups');
         await page.locator('main h1').waitFor();
       }
-      if (pathname === '/jio-perpetuals') assert.equal(await page.locator('.article-tweet-card').count(), 2);
+      if (pathname === '/jio') assert.equal(await page.locator('.article-tweet-card').count(), 2);
     }
     assert.deepEqual(failures, [], 'Browser errors and local failed resources');
     console.log(JSON.stringify({ events: events.length, reviewed: audit.reviewed, changedDescriptions: audit.changed, ibwPages: sideEvents.length, aliases, readableSlugs: true, newEvent: added.slug, tweets: 2, newsListing: true, popupsLink: true, viewports: [320, 390, 1440], themes: ['light', 'dark'], browserFailures: failures }, null, 2));

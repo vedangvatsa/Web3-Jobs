@@ -19327,46 +19327,6 @@ The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovati
 
 Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
-<a id="event-96ca96bed8008af3"></a>
-
-## Superteam Thailand Co-working Session: Colosseum Edition
-
-- Record: `luma-crypto-LIfV34zzTygz7nY`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gepb0cmv>
-
-### About the event
-
-Tuesday - Bel Club, Bangkok
-
-Colosseum is here. This week, we're turning our regular co-working session into a focused build session for anyone participating in the Solana hackathon.
-
-Bring your idea, your product, your questions, or your blockers.
-
-What we'll work on:
-
-- Find teammates across product, engineering, design, growth and business
-- Validate your idea with other builders and founders
-- Get feedback on your product and direction
-- Work through technical, product and execution blockers
-- Discuss your hackathon strategy and submission
-- Meet other participants building in Thailand
-- Find collaborators, advisors and potential co-founders
-
-Come with a project or come looking for one. The goal is simple: meet builders, form teams, solve problems and keep building.
-
-Who should join:
-
-Developers, founders, designers, product people, marketers, students, creators and anyone serious about building for Colosseum.
-
-Location: Bel Club, Bangkok
-
-Day: Tuesday
-
-Format: Open co-working + builder discussions
-
 <a id="event-e8b23c0ef09ff8a5"></a>
 
 ## Dubai Tech Tuesdays No. 115 - Block & Chill Dubai: Africa Blockchain Festival 2026 X World Token Summit 4.0 Global Mixer

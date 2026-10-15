@@ -1,6 +1,22 @@
 [
   {
-    "slug": "jio-perpetuals",
+    "slug": "alpenglow",
+    "title": "Solana sets Oct. 21 for Alpenglow consensus switch",
+    "description": "The Solana Foundation said Alpenglow activates at epoch 1064 on Oct. 21, 2026, replacing TowerBFT voting with a system targeting 150-millisecond finality.",
+    "category": "News",
+    "publishedDate": "2026-10-15",
+    "image": "/images/news/alpenglow.jpg"
+  },
+  {
+    "slug": "heart-arrest",
+    "title": "Richard Heart detained in Istanbul on Finnish request",
+    "description": "Turkish media reported on Oct. 14, 2026 that HEX founder Richard Heart was detained in Istanbul under an Interpol Red Notice sought by Finland.",
+    "category": "News",
+    "publishedDate": "2026-10-15",
+    "image": "/images/news/heart-arrest.jpg"
+  },
+  {
+    "slug": "jio",
     "title": "Bitget Lists Jio Pre-IPO Perpetual Futures",
     "description": "Bitget's JIOUSDT pre-IPO futures are live with a 20x trading limit as Jio Platforms prepares its October 21-23 share offering in India.",
     "category": "News",
@@ -8,35 +24,19 @@
     "image": "/images/articles/jio-perpetuals.webp"
   },
   {
-    "slug": "blur-shutdown",
-    "title": "Blur to retire marketplace site and end new Blend loans on Nov. 12",
-    "description": "Blur will deprecate the blur.io frontend on Nov. 12 while its Ethereum marketplace contracts stay live onchain, and its Blend lending service will stop matching new loans the same day.",
+    "slug": "saldo-bank",
+    "title": "Payward agrees to buy Saldo Bank for EU banking license",
+    "description": "Payward said on Oct. 14, 2026 it signed a deal to acquire Saldo Bank, a Lithuania-licensed bank, with closing expected in 2027 pending regulatory approval.",
     "category": "News",
-    "publishedDate": "2026-10-14",
-    "image": "/images/news/blur-shutdown.jpg"
+    "publishedDate": "2026-10-15",
+    "image": "/images/news/saldo-bank.jpg"
   },
   {
-    "slug": "iphone-spyware",
-    "title": "New iPhone spyware scans crypto wallets, iVerify finds",
-    "description": "iVerify disclosed a DarkSword variant called P7 that scans infected iPhones for wallet apps, pulls imToken data and Keychain passwords, and checks for orders every 15 seconds.",
+    "slug": "vaneck-withdrawal",
+    "title": "VanEck withdraws Lido staked ether ETF filing",
+    "description": "VanEck said in an Oct. 14, 2026 SEC filing it will not proceed with its Lido staked ether ETF, ending the first American attempt at a stETH fund.",
     "category": "News",
-    "publishedDate": "2026-10-14",
-    "image": "/images/news/iphone-spyware.jpg"
-  },
-  {
-    "slug": "ldk-fix",
-    "title": "LDK patches reconnect flaw that let peers steal forwarded bitcoin",
-    "description": "LDK's Oct. 1 security releases v0.2.7 and v0.1.13 fix a channel-reconnect lie that could cost forwarding nodes a payment, plus an LSPS2 amount check and a stale-state loss.",
-    "category": "News",
-    "publishedDate": "2026-10-14",
-    "image": "/images/news/ldk-fix.jpg"
-  },
-  {
-    "slug": "mining-pool",
-    "title": "Binance to shut mining pool and cloud services on Nov. 10",
-    "description": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining and Transaction Accelerator at 07:00 UTC on Nov. 10, giving miners four weeks to move hashrate elsewhere.",
-    "category": "News",
-    "publishedDate": "2026-10-14",
-    "image": "/images/news/mining-pool.jpg"
+    "publishedDate": "2026-10-15",
+    "image": "/images/news/vaneck-withdrawal.jpg"
   }
 ]
