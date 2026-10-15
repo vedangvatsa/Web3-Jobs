@@ -42440,11 +42440,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7775d94031a98b2262f8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T06:30:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; USDC splits reserves with a Nov 12 EBA handover. Circle white paper plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:02.900Z",
+      "retrySearches": [
+        "USDC EBA November 12 handover Circle white paper second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "4728b3fdc2b6c9d149d5": {
       "source": "Cointelegraph",
@@ -77248,6 +77262,21 @@
           "reviewedAt": "2026-10-15T11:58:00.819Z",
           "retrySearches": [
             "EBA USDC significant token notice reserve split second outlet"
+          ]
+        },
+        "7775d94031a98b2262f8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; USDC splits reserves with a Nov 12 EBA handover. Circle white paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:02.900Z",
+          "retrySearches": [
+            "USDC EBA November 12 handover Circle white paper second outlet"
           ]
         }
       },
