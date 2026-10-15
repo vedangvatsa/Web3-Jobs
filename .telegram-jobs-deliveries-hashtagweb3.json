@@ -2219,5 +2219,123 @@
     "slotKey": "2026-10-15:afternoon",
     "messageId": 155777,
     "sentAt": "2026-10-15T12:06:58.075Z"
+  },
+  "797631fe-47d6-4cca-a380-50a8b9efc132": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:32:26.156Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+          "title": "Principal Brand Designer",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+          "date": "2026-09-25T21:05:27.698+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des3"
+        },
+        "key": "72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+        "slug": "des3",
+        "url": "https://hashtagweb3.com/des3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Principal Brand Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8857515002",
+          "title": "Senior Security Application Engineer",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8857515002",
+          "date": "2026-09-29T23:08:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "New York, NY",
+          "department": "Security",
+          "active": true,
+          "salary": "$200k – $235k/yr",
+          "dateVerified": true,
+          "slug": "sec75"
+        },
+        "key": "8857515002",
+        "slug": "sec75",
+        "url": "https://hashtagweb3.com/sec75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Security Application Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4996016101",
+          "title": "[EU] Payments Product Business Development Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4996016101",
+          "date": "2026-10-02T03:06:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm179"
+        },
+        "key": "4996016101",
+        "slug": "pm179",
+        "url": "https://hashtagweb3.com/pm179?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Payments Product Business Development Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8237191",
+          "title": "Senior Power Strategist - Load",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8237191",
+          "date": "2026-09-28T11:22:54-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "New York or Houston",
+          "department": "Energy",
+          "active": true,
+          "salary": "$150k – $250k/yr",
+          "dateVerified": true,
+          "slug": "snap"
+        },
+        "key": "8237191",
+        "slug": "snap",
+        "url": "https://hashtagweb3.com/snap?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Senior Power Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "5263425008",
+          "title": "Senior Manager, Strategic Finance, Commerce Go-to-Market",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5263425008?gh_jid=5263425008",
+          "date": "2026-09-22T14:01:02-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "30421 Foundational - Guidance - Strategic Finance",
+          "active": true,
+          "salary": "$163.6k – $245.4k/yr",
+          "dateVerified": true,
+          "slug": "mgr71"
+        },
+        "key": "5263425008",
+        "slug": "mgr71",
+        "url": "https://hashtagweb3.com/mgr71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Manager"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/des3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Brand Designer</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/sec75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Application Engineer</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm179?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Payments Product Business Development Manager</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/snap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Power Strategist - Load</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Strategic Finance, Commerce Go-to-Market</a>",
+    "slotKey": "2026-10-15:evening"
   }
 }
