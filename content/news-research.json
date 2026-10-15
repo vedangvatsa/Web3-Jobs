@@ -39855,11 +39855,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c54fa996690747182a1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:53:41.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Cointelegraph piece; Qivalis EMI confirmed with CEO quote and market context. DNB register entry plus issuance-date confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:07.029Z",
+      "retrySearches": [
+        "Qivalis DNB EMI CEO issuance date second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "61db92a7a4ac4b9ebfcf": {
       "source": "The Defiant",
@@ -77306,6 +77320,21 @@
           "reviewedAt": "2026-10-15T11:58:05.054Z",
           "retrySearches": [
             "Qivalis DNB EMI register token launch second outlet"
+          ]
+        },
+        "6c54fa996690747182a1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Qivalis EMI confirmed with CEO quote and market context. DNB register entry plus issuance-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:07.029Z",
+          "retrySearches": [
+            "Qivalis DNB EMI CEO issuance date second outlet"
           ]
         }
       },
