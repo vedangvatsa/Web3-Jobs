@@ -31833,23 +31833,23 @@
       "id": "5d1338fd8d65a3744eb9",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T00:52:52.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; Encrypted Mempool is live on mainnet as opt-in with 2x gas floor. Aptos Labs post plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece; Encrypted Mempool is live on mainnet as opt-in. Aptos Labs post plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks",
+          "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:59.157Z",
+      "reviewedAt": "2026-10-15T11:56:27.524Z",
       "retrySearches": [
         "Aptos encrypted mempool mainnet Aptos Labs post second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "2dc192562b7cd49ca4dd": {
       "source": "Crypto Briefing",
@@ -76630,6 +76630,21 @@
           "reviewedAt": "2026-10-15T11:56:25.516Z",
           "retrySearches": [
             "Coinbase Celestia transfer delay status page second outlet"
+          ]
+        },
+        "5d1338fd8d65a3744eb9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; Encrypted Mempool is live on mainnet as opt-in. Aptos Labs post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:27.524Z",
+          "retrySearches": [
+            "Aptos encrypted mempool mainnet Aptos Labs post second outlet"
           ]
         }
       },
