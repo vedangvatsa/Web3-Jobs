@@ -39484,11 +39484,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "106ff5cf81fdd279dd02",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:41:09.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "verified-event",
+      "note": "Verified Patrick Witt Oct 14-15 exit as White House crypto council chief across two outlets; detail expired, no successor named, Clarity Act stalled.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/patrick-witt-white-house-clarity-act/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:42:04.188Z",
+      "articleSlug": "witt-exit",
+      "lastReviewedDay": "2026-10-15"
     },
     "0ebcf47a4315bf68ca54": {
       "source": "Crypto Briefing",
@@ -73839,6 +73854,23 @@
           ],
           "reviewedAt": "2026-10-15T11:41:59.781Z",
           "articleSlug": "heart-arrest"
+        },
+        "106ff5cf81fdd279dd02": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Patrick Witt Oct 14-15 exit as White House crypto council chief across two outlets; detail expired, no successor named, Clarity Act stalled.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/patrick-witt-white-house-clarity-act/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:42:04.188Z",
+          "articleSlug": "witt-exit"
         }
       },
       "baselineSlugs": [
