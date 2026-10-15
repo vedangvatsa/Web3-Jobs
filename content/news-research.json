@@ -41650,11 +41650,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea82f8aa05827999312d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:03:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; $15.76M vault deposits at 8.31% APY are single-outlet figures. Morpho data plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/pendle-high-yield-usdc-vault-morpho/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:06.433Z",
+      "retrySearches": [
+        "Pendle USDC vault Morpho deposits second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "b5b83e31da270755e01c": {
       "source": "CoinDesk",
@@ -76971,6 +76985,21 @@
           "reviewedAt": "2026-10-15T11:57:04.345Z",
           "retrySearches": [
             "PancakeSwap Flip fees proposal forum second outlet"
+          ]
+        },
+        "ea82f8aa05827999312d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; $15.76M vault deposits at 8.31% APY are single-outlet figures. Morpho data plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/pendle-high-yield-usdc-vault-morpho/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:06.433Z",
+          "retrySearches": [
+            "Pendle USDC vault Morpho deposits second outlet"
           ]
         }
       },
