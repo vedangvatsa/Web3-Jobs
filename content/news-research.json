@@ -42029,11 +42029,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "268e5c9654a10916ffec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:37:46.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "Sectora product-testing and token-availability notice; project marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:20.147Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "ec5bbb16c0cd36a48eeb": {
       "source": "BeInCrypto",
@@ -74982,6 +74987,13 @@
           "note": "EVEDEX tokenomics release with airdrop details; project marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:18.136Z"
+        },
+        "268e5c9654a10916ffec": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Sectora product-testing and token-availability notice; project marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:20.147Z"
         }
       },
       "baselineSlugs": [
