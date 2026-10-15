@@ -29893,23 +29893,23 @@
       "id": "1858e50514b80a485489",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T15:23:48.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Pando Oct 13 listing page blocked on re-attempt; HKEX notice and a readable second outlet still missing.",
+      "note": "Pando Oct 13 Solana ETF listing page blocked again in this run; HKEX notice and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:43.519Z",
+      "reviewedAt": "2026-10-15T11:53:22.853Z",
       "retrySearches": [
         "Pando Solana ETF Hong Kong listing HKEX notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "6f9996c34ea3526ec463": {
       "source": "CryptoSlate",
@@ -75121,6 +75121,21 @@
           "note": "Verification window ended after 72 hours; ASIC proposal corroboration with the consultation paper and a second outlet still missing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:54.109Z"
+        },
+        "1858e50514b80a485489": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Pando Oct 13 Solana ETF listing page blocked again in this run; HKEX notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:22.853Z",
+          "retrySearches": [
+            "Pando Solana ETF Hong Kong listing HKEX notice second outlet"
+          ]
         }
       },
       "baselineSlugs": [
