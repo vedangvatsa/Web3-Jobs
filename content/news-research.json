@@ -41548,11 +41548,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e6fda150fbd42ff60eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:57:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Korea memory-chip cycle and Musk remarks; semiconductor commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:59.985Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "b9e17de68886de03c02e": {
       "source": "Crypto Briefing",
@@ -74862,6 +74867,13 @@
           "note": "Dell stock and Barclays analysis; equity commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:58.078Z"
+        },
+        "9e6fda150fbd42ff60eb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Korea memory-chip cycle and Musk remarks; semiconductor commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:59.985Z"
         }
       },
       "baselineSlugs": [
