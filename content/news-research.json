@@ -37403,23 +37403,23 @@
       "id": "92accb5e69d70a640573",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T21:50:56.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Oct 7 forum budget-link debate with no NEST purchases yet. Forum record plus a second outlet still needed.",
+      "note": "Read the CryptoSlate piece; Oct 7 NEST budget-link debate with no allocator purchases as of Oct 13. Forum record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:53.322Z",
+      "reviewedAt": "2026-10-15T11:56:39.625Z",
       "retrySearches": [
         "Lido NEST budget buyback forum second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c308bacb4e42be4adcd3": {
       "source": "Decrypt",
@@ -76720,6 +76720,21 @@
           "reviewedAt": "2026-10-15T11:56:37.647Z",
           "retrySearches": [
             "post-quantum Lightning Network paper second outlet"
+          ]
+        },
+        "92accb5e69d70a640573": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Oct 7 NEST budget-link debate with no allocator purchases as of Oct 13. Forum record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:39.625Z",
+          "retrySearches": [
+            "Lido NEST budget buyback forum second outlet"
           ]
         }
       },
