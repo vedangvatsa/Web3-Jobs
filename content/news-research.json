@@ -41573,11 +41573,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c91bb68e9c6b9194609f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:34:38.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "BVNK platform page blocked again in this run; BVNK notice and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:09.874Z",
+      "retrySearches": [
+        "BVNK global money platform Mastercard notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "ea82f8aa05827999312d": {
       "source": "Crypto Briefing",
@@ -75991,6 +76005,21 @@
           "reviewedAt": "2026-10-15T11:55:07.888Z",
           "retrySearches": [
             "HashKey Chain admin USDT contract swap evidence second outlet"
+          ]
+        },
+        "c91bb68e9c6b9194609f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BVNK platform page blocked again in this run; BVNK notice and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:09.874Z",
+          "retrySearches": [
+            "BVNK global money platform Mastercard notice second outlet"
           ]
         }
       },
