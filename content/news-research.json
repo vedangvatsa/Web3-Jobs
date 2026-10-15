@@ -39848,11 +39848,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "61db92a7a4ac4b9ebfcf",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T11:33:11.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Qivalis Defiant page blocked again in this run; DNB register entry and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:52.413Z",
+      "retrySearches": [
+        "Qivalis Dutch EMI license DNB register second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "6b39e8be6f18ca107868": {
       "source": "Crypto Briefing",
@@ -75759,6 +75773,21 @@
           "reviewedAt": "2026-10-15T11:54:50.464Z",
           "retrySearches": [
             "EQX tokenized stock ETF Hyperliquid markets notice second outlet"
+          ]
+        },
+        "61db92a7a4ac4b9ebfcf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Qivalis Defiant page blocked again in this run; DNB register entry and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:52.413Z",
+          "retrySearches": [
+            "Qivalis Dutch EMI license DNB register second outlet"
           ]
         }
       },
