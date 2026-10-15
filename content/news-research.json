@@ -39475,11 +39475,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ebcf47a4315bf68ca54",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:05:51.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; the $158M via leadership PACs rests on a single Axios account with no FEC doc. FEC filing plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/elon-musk-donates-158m-to-boost-republicans-in-texas-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:44.296Z",
+      "retrySearches": [
+        "Musk 158M Senate Leadership Fund FEC filing second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "3ed1c56cde17649942e5": {
       "source": "BeInCrypto",
@@ -77780,6 +77794,21 @@
           "reviewedAt": "2026-10-15T11:58:42.166Z",
           "retrySearches": [
             "Fairshake Defend American Jobs FEC filing second outlet October 2026"
+          ]
+        },
+        "0ebcf47a4315bf68ca54": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; the $158M via leadership PACs rests on a single Axios account with no FEC doc. FEC filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/elon-musk-donates-158m-to-boost-republicans-in-texas-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:44.296Z",
+          "retrySearches": [
+            "Musk 158M Senate Leadership Fund FEC filing second outlet"
           ]
         }
       },
