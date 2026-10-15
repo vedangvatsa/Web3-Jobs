@@ -36953,23 +36953,23 @@
       "id": "483dbe4d6afc03878ab6",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T23:28:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; reseller-halt request sits in the same CryptoBilis arc verified via the shared Decrypt read. Ledger statement plus a second outlet still needed.",
+      "note": "Read the Cointelegraph piece on the same seven-market halt request. Ledger notice plus chain-of-custody update still needed.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:24.159Z",
+      "reviewedAt": "2026-10-15T11:58:54.977Z",
       "retrySearches": [
-        "Ledger resellers halt sales Asia statement second outlet"
+        "Ledger reseller halt custody probe update second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "804438d101e4c015ea8e": {
       "source": "Crypto Briefing",
@@ -77897,6 +77897,21 @@
           "reviewedAt": "2026-10-15T11:58:52.855Z",
           "retrySearches": [
             "Ledger seven markets pull notice scope second outlet"
+          ]
+        },
+        "483dbe4d6afc03878ab6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece on the same seven-market halt request. Ledger notice plus chain-of-custody update still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:54.977Z",
+          "retrySearches": [
+            "Ledger reseller halt custody probe update second outlet"
           ]
         }
       },
