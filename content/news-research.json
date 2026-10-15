@@ -42883,11 +42883,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "312c1cc8ce01a8f2750b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T21:30:14.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the Bitcoin Magazine piece on the same Sberbank authorization with VTB context. Regulator register plus launch-date confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:13.702Z",
+      "retrySearches": [
+        "Sberbank crypto license launch date second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "62d2e0a9aca8000268c3": {
       "source": "The Defiant",
@@ -78054,6 +78068,21 @@
           "reviewedAt": "2026-10-15T11:59:11.668Z",
           "retrySearches": [
             "Sberbank Bank of Russia register Interfax second outlet"
+          ]
+        },
+        "312c1cc8ce01a8f2750b": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Bitcoin Magazine piece on the same Sberbank authorization with VTB context. Regulator register plus launch-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:13.702Z",
+          "retrySearches": [
+            "Sberbank crypto license launch date second outlet"
           ]
         }
       },
