@@ -42028,7 +42028,7 @@
       "expiresAt": "2026-10-18T10:00:56.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+      "note": "Read the CoinDesk piece on the Yan Bloomberg interview and the prediction-framed CryptoBriefing version. Interview record plus policy-detail confirmation still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
@@ -42036,10 +42036,10 @@
         },
         {
           "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
-          "outcome": "blocked"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:43.194Z",
+      "reviewedAt": "2026-10-15T12:03:18.898Z",
       "retrySearches": [
         "Hyperliquid Yan interview policy detail second outlet"
       ],
@@ -78471,7 +78471,7 @@
         "b5b83e31da270755e01c": {
           "status": "deferred",
           "reason": "needs-corroboration",
-          "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+          "note": "Read the CoinDesk piece on the Yan Bloomberg interview and the prediction-framed CryptoBriefing version. Interview record plus policy-detail confirmation still needed.",
           "sourceChecks": [
             {
               "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
@@ -78479,10 +78479,10 @@
             },
             {
               "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
-              "outcome": "blocked"
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-15T11:59:43.194Z",
+          "reviewedAt": "2026-10-15T12:03:18.898Z",
           "retrySearches": [
             "Hyperliquid Yan interview policy detail second outlet"
           ]
