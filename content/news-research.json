@@ -41003,11 +41003,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e88caed790e6bc8d1862",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:48.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "verified-event",
+      "note": "Verified the Oct 14 Payward acquisition of Saldo Bank across the company release and two outlets; terms undisclosed, 2027 close pending approval.",
+      "sourceChecks": [
+        {
+          "url": "https://www.payward.com/press-release/payward-acquires-saldo-bank",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/payward-signs-deal-for-saldo-bank-giving-krakens-owner-a-foothold-in-eu-banking/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:41:52.591Z",
+      "articleSlug": "saldo-bank",
+      "lastReviewedDay": "2026-10-15"
     },
     "0f6a057dabe7f82146dc": {
       "source": "Unchained",
@@ -73719,6 +73738,27 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:31:34.799Z",
           "automatic": true
+        },
+        "e88caed790e6bc8d1862": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 14 Payward acquisition of Saldo Bank across the company release and two outlets; terms undisclosed, 2027 close pending approval.",
+          "sourceChecks": [
+            {
+              "url": "https://www.payward.com/press-release/payward-acquires-saldo-bank",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/payward-signs-deal-for-saldo-bank-giving-krakens-owner-a-foothold-in-eu-banking/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:41:52.591Z",
+          "articleSlug": "saldo-bank"
         }
       },
       "baselineSlugs": [
