@@ -39783,11 +39783,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "020c4edfe140d9bd39f6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:51:12.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Opinion essay on power-grid costs for the digital economy; commentary without a concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:03.800Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "db146f78beff33154545": {
       "source": "The Defiant",
@@ -74526,6 +74531,13 @@
           "note": "September CPI reaction piece; macro price commentary, no concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:50:10.026Z"
+        },
+        "020c4edfe140d9bd39f6": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Opinion essay on power-grid costs for the digital economy; commentary without a concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:03.800Z"
         }
       },
       "baselineSlugs": [
