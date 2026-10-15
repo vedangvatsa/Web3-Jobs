@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-10-15T03:31:34.184Z",
+  "generatedAt": "2026-10-15T08:28:37.855Z",
   "items": [
+    {
+      "title": "Solana (SOL) proposes geo-aware leader schedule to cut handoff latency",
+      "link": "https://Blockchain.News/news/solana-geo-aware-leader-schedule-handoff-latency",
+      "pubDate": "Thu, 15 Oct 2026 08:06:17 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Solana (SOL)’s geo-aware leader schedule analysis says lower latency comes with more regional persistence; the suggested range is σ around 10% and γ b...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 07:23:43 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Bitcoin ETFs have recorded $151 million in net outflows since Monday, after investors withdrew $681 million the previous week.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "California Man Allegedly Poses as 49ers Player in Fake High-Yield Investment Scheme, Splurges on Travel, Vehicles and More",
+      "link": "https://dailyhodl.com/2026/10/15/california-man-posing-as-49ers-player-allegedly-masterminds-fake-high-yield-investment-scheme-splurges-on-travel-vehicles-and-more/",
+      "pubDate": "Thu, 15 Oct 2026 07:04:05 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Federal prosecutors have charged a California man with conspiracy to commit wire fraud after he allegedly posed as a San Francisco 49ers player or rea...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "link": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 05:52:21 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "link": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 05:00:40 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The consultation follows Parliament’s passage of digital asset legislation in April, with Australia’s securities regulator now proposing capital, cust...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+      "pubDate": "Thu, 15 Oct 2026 04:38:48 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
+      "source": "The Block"
+    },
+    {
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "pubDate": "Thu, 15 Oct 2026 04:25:15 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "pubDate": "Thu, 15 Oct 2026 04:13:56 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "pubDate": "Thu, 15 Oct 2026 03:57:45 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July  ",
+      "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 03:29:22 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Mexico and Brazil Lead Stablecoin Adoption, Ripple (XRP) Survey Says",
       "link": "https://Blockchain.News/news/mexico-brazil-lead-stablecoin-adoption-ripple-survey",
@@ -442,14 +522,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-      "pubDate": "Tue, 13 Oct 2026 23:23:05 +0000",
-      "creator": "Stephen Alpher",
-      "contentSnippet": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
       "link": "https://dailyhodl.com/2026/10/13/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform/",
       "pubDate": "Tue, 13 Oct 2026 20:31:22 +0000",
@@ -506,30 +578,6 @@
       "source": "The Block"
     },
     {
-      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-      "pubDate": "Tue, 13 Oct 2026 15:52:09 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 13 Oct 2026 15:27:32 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea’s tech-stock rout.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "pubDate": "Tue, 13 Oct 2026 15:24:52 +0000",
-      "creator": "Jamie Crawley",
-      "contentSnippet": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" sp...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
       "pubDate": "Tue, 13 Oct 2026 15:24:14 +0000",
@@ -544,30 +592,6 @@
       "creator": "Jason Shubnell",
       "contentSnippet": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
       "source": "The Block"
-    },
-    {
-      "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
-      "link": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
-      "pubDate": "Tue, 13 Oct 2026 14:45:08 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
-      "source": "The Block"
-    },
-    {
-      "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
-      "link": "https://dailyhodl.com/2026/10/13/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem/",
-      "pubDate": "Tue, 13 Oct 2026 14:10:22 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Panama City, Panama, 13th October 2026, Chainwire\nThe post Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 13 Oct 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain o...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
