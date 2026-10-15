@@ -351,7 +351,6 @@ export default function Web3HiringReport() {
             <li><a className={linkStyle} href="/data/hiring-report-stats.json">Download the report figures and input-file checksums (JSON)</a></li>
             <li><a className={linkStyle} href="/data/hiring-report-salary-sample.json">Download the salary ranges, excerpts, and listing links (JSON)</a></li>
             <li><a className={linkStyle} href="/data/hiring-report-analysis-evidence.json">Download the per-listing skill matches, experience excerpts, and work-arrangement excerpts (JSON)</a></li>
-            <li><a className={linkStyle} href="https://github.com/vedangvatsa/Web3-Jobs/blob/main/scripts/compute-hiring-report-stats.ts">View the calculation script</a></li>
             <li><Link className={linkStyle} href="/jobs">Browse the current jobs board</Link></li>
           </ul>
         </Section>

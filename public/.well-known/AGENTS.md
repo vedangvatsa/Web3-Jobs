@@ -31,5 +31,3 @@ Filter client-side after download. See [`/developers`](https://hashtagweb3.com/d
 
 - [`/.well-known/agents.json`](https://hashtagweb3.com/.well-known/agents.json)
 - [`/llms.txt`](https://hashtagweb3.com/llms.txt)
-
-Source repo guide: [github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md](https://github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md)

@@ -86,7 +86,6 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Agent-plugins.org bundle (discovery metadata).
 - [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Crawl and usage boundaries for autonomous agents.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Coding agent instructions for contributors.
-- [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Public repo with `AGENTS.md`, catalogs, and agent skills.
 - **NPM SDK**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
 - **CLI**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity` (reads `/data/*`)
 - [Hashtag Web3 Integrator Policy](https://hashtagweb3.com/api-policy.md): Static catalog stability and deprecation notice for integrators.

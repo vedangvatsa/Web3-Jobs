@@ -12,7 +12,6 @@
   "agents_txt": "https://hashtagweb3.com/agents.txt",
   "terms_of_use": "https://hashtagweb3.com/terms-of-use.md",
   "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
-  "repository": "https://github.com/vedangvatsa/Web3-Jobs",
   "agent_plugin": "https://hashtagweb3.com/plugin.json",
   "authentication": {
     "type": "zero-auth",
