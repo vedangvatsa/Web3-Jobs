@@ -38808,23 +38808,23 @@
       "id": "cc02128e785afeaddb06",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T10:19:40.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; it links the Oct 12 FSB note and Bailey letter with multi-issuer risk detail. G20 outcome plus a second outlet confirmation still needed.",
+      "reason": "missing-primary-source",
+      "note": "Read the Unchained piece on the same FSB note to G20 chiefs. FSB text plus failure-planning detail still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:07:08.217Z",
+      "reviewedAt": "2026-10-15T11:59:32.571Z",
       "retrySearches": [
-        "FSB stablecoin note G20 outcome second outlet"
+        "FSB G20 stablecoin note text second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "30077f4772a43384fe99": {
       "source": "Unchained",
@@ -78259,6 +78259,21 @@
           "reviewedAt": "2026-10-15T11:59:30.464Z",
           "retrySearches": [
             "FSB stablecoin run risk report October 2026 second outlet"
+          ]
+        },
+        "cc02128e785afeaddb06": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the Unchained piece on the same FSB note to G20 chiefs. FSB text plus failure-planning detail still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:32.571Z",
+          "retrySearches": [
+            "FSB G20 stablecoin note text second outlet"
           ]
         }
       },
