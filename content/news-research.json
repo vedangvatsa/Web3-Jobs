@@ -41375,11 +41375,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f6a057dabe7f82146dc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:01:35.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; The Flip fee proposal is still in forum discussion with holder pushback. Forum post plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/pancakeswap-floats-handing-liquidity-providers-88-of-swap-fees-while-cutting-cake-issuance/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:04.345Z",
+      "retrySearches": [
+        "PancakeSwap Flip fees proposal forum second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cd704594eaa35d571926": {
       "source": "Unchained",
@@ -76942,6 +76956,21 @@
           "reviewedAt": "2026-10-15T11:57:02.339Z",
           "retrySearches": [
             "N3XT Clear Markets collateral network notice second outlet"
+          ]
+        },
+        "0f6a057dabe7f82146dc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; The Flip fee proposal is still in forum discussion with holder pushback. Forum post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/pancakeswap-floats-handing-liquidity-providers-88-of-swap-fees-while-cutting-cake-issuance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:04.345Z",
+          "retrySearches": [
+            "PancakeSwap Flip fees proposal forum second outlet"
           ]
         }
       },
