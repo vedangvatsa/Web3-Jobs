@@ -41239,11 +41239,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ed5fb89d8c3cdac5045d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:29:45.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; Arkham Visualizer 2.0 launched Oct 15 with real-time graphs. Arkham notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/arkham-visualizer-2-real-time-graphs/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:57:00.308Z",
+      "retrySearches": [
+        "Arkham Visualizer 2.0 release notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "1a1ff36baf687edd54b7": {
       "source": "Unchained",
@@ -76884,6 +76898,21 @@
           "reviewedAt": "2026-10-15T11:56:58.234Z",
           "retrySearches": [
             "EasyA valuation listing filing second outlet"
+          ]
+        },
+        "ed5fb89d8c3cdac5045d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; Arkham Visualizer 2.0 launched Oct 15 with real-time graphs. Arkham notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/arkham-visualizer-2-real-time-graphs/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:57:00.308Z",
+          "retrySearches": [
+            "Arkham Visualizer 2.0 release notice second outlet"
           ]
         }
       },
