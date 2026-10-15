@@ -41832,11 +41832,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1802ca49f6d7ad18474b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:49:42.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic $2 trillion IPO-valuation target; AI-company financing chatter with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:47.924Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "4aa952f84e0f470af0d6": {
       "source": "Crypto Briefing",
@@ -74790,6 +74795,13 @@
           "note": "JPMorgan warning on the AI trade rebound; equity commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:46.019Z"
+        },
+        "1802ca49f6d7ad18474b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic $2 trillion IPO-valuation target; AI-company financing chatter with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:47.924Z"
         }
       },
       "baselineSlugs": [
