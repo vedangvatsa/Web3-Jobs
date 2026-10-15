@@ -400,5 +400,12 @@
       "luma-crypto-a7u4swg0prybhpa",
       "ttn1bc"
     ]
+  },
+  "luma-crypto-z6IEGsiZumLi2vk": {
+    "until": "2027-10-15T23:07:44.562Z",
+    "slugs": [
+      "luma-crypto-z6iegsizumli2vk",
+      "gph"
+    ]
   }
 }

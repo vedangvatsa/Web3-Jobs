@@ -19329,58 +19329,6 @@ The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovati
 
 Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
-<a id="event-38e430f4426f4f12"></a>
-
-## GirlsWhoML & PhysicsX Hackathon
-
-- Record: `luma-crypto-z6IEGsiZumLi2vk`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cvpxxlpq>
-
-### About the event
-
-If commercial space flights land on Mars tomorrow, what would you build to create the Martian city?
-
-[APPLICATIONS CLOSED]
-
-[Join GirlsWhoML](https://www.girlswhoml.com/) [and PhysicsX](https://www.physicsx.ai/) for an evening hackathon in London to tackle the first human landing on Mars, supported by Cursor. You arrive on an empty, rust-red planet with no city, no roads, and no infrastructure. What do you build first?
-
-You'll design and prototype one core system for the Martian city, across three tracks: Architecture, Vehicles, and Life Support. Every build should combine engineering, machine learning, or 3D modelling.
-
-The window is short, but that's the point: see how far you can push what's possible in a single evening. Mentors will be on the floor throughout, your work will be reviewed by a panel of industry judges, and every participant gets Cursor credits supported by Francisco Terpolilli, Cursor's EU Ambassador and Regional Leader.
-
-Bring a team of 2-3, or turn up solo and we'll help you find a crew, at our team formation session. Women, non-binary, and allies are all welcome.
-
-[Prizes provided by PhysicsX](https://www.physicsx.ai/), including career coaching and mentorship opportunities, to be announced.
-
-Bring your curiosity, your laptop, and your ambition. The city starts with you.
-
-### Schedule
-
-5:30pm - launch pad
-
-6:00pm - mission briefing
-
-6:20pm - ignition
-
-8:00pm - mid mission check
-
-8:30pm - code freeze
-
-8:38pm - demos
-
-9:30pm - judging
-
-9:45pm - close
-
-Thank you so much for the incredible response to this hackathon. We've been genuinely overwhelmed (in the best way!) by the interest, which far exceeds our venue's capacity.
-
-Because space is limited, we've had to carefully curate a group that reflects our community and fits the hack's brief. With so many strong applications, this was a difficult process.
-
-If you don't receive a spot this time, please know it comes down to capacity and fit for this specific event not a judgment on your talent or potential. Thank you again for your enthusiasm and for taking the time to apply.
-
 <a id="event-567e35c8db483b6a"></a>
 
 ## HAPPY HOUR AT THE RIPPLE ROOM FOR PODCAST LOVERS (AKA TINK DRINKS)
@@ -54241,18 +54189,6 @@ Each participant will receive a Certificate of Completion presented by all three
 Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
-
-<a id="event-54bde1fb63711b2c"></a>
-
-## Capitol City Bitcoin meetup - virtual
-
-- Record: `mu-314396577`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-15T19:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396577/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f176338099636e23"></a>
 

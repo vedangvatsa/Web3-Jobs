@@ -24,19 +24,19 @@
     "image": "/images/articles/jio-perpetuals.webp"
   },
   {
+    "slug": "nsfarcaster",
+    "title": "Network School Acquires Farcaster From Neynar",
+    "description": "Network School is taking over Farcaster from Neynar and asking users to accept new client rules, while promising to keep the protocol open.",
+    "category": "News",
+    "publishedDate": "2026-10-15",
+    "image": "/images/articles/farcaster.webp"
+  },
+  {
     "slug": "saldo-bank",
     "title": "Payward agrees to buy Saldo Bank for EU banking license",
     "description": "Payward said on Oct. 14, 2026 it signed a deal to acquire Saldo Bank, a Lithuania-licensed bank, with closing expected in 2027 pending regulatory approval.",
     "category": "News",
     "publishedDate": "2026-10-15",
     "image": "/images/news/saldo-bank.jpg"
-  },
-  {
-    "slug": "vaneck-withdrawal",
-    "title": "VanEck withdraws Lido staked ether ETF filing",
-    "description": "VanEck said in an Oct. 14, 2026 SEC filing it will not proceed with its Lido staked ether ETF, ending the first American attempt at a stETH fund.",
-    "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/news/vaneck-withdrawal.jpg"
   }
 ]

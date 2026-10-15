@@ -934,22 +934,7 @@
     "url": "https://token2049.com",
     "emails": [
       "info@token2049.com"
-    ],
-    "event": {
-      "id": "side-token2049-vip-gala-2026",
-      "slug": "token20492",
-      "name": "TOKEN2049 Official Opening VIP Gala & Rooftop Mixer",
-      "description": "Exclusive executive networking dinner and cocktail reception overlooking Marina Bay Sands for founders, VCs, and institutional allocators.",
-      "startDate": "2026-09-15T18:00:00.000Z",
-      "endDate": "2026-09-15T23:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
-      "url": "https://token2049.com",
-      "website": "https://token2049.com",
-      "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",

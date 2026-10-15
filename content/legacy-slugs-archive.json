@@ -145536,5 +145536,203 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8196259",
     "title": "Account Executive, Product (Payouts) - Hunter",
     "company": "Stripe"
+  },
+  "mgr14": {
+    "id": "ab74a687-4545-47c9-870d-bfd7e7cde576",
+    "link": "https://jobs.ashbyhq.com/ramp/ab74a687-4545-47c9-870d-bfd7e7cde576",
+    "title": "Enterprise Customer Activation Manager | Bill Pay & Procurement",
+    "company": "Ramp"
+  },
+  "eng51": {
+    "id": "5e599120-22ec-46c8-b933-6c833139d59f",
+    "link": "https://jobs.ashbyhq.com/Conduit/5e599120-22ec-46c8-b933-6c833139d59f",
+    "title": "Software Engineer, Control Plane",
+    "company": "Conduit"
+  },
+  "sec11": {
+    "id": "8205278",
+    "link": "https://stripe.com/jobs/search?gh_jid=8205278",
+    "title": "Internal Audit - Regulatory Lead, EMEA",
+    "company": "Stripe"
+  },
+  "dac": {
+    "id": "5415999008",
+    "link": "http://block.xyz/careers/jobs/5415999008?gh_jid=5415999008",
+    "title": "Director, AI Commercialization",
+    "company": "Block"
+  },
+  "tce": {
+    "id": "7fd0e6c9-202b-44ad-9742-4284b69b88a1",
+    "link": "https://jobs.ashbyhq.com/ramp/7fd0e6c9-202b-44ad-9742-4284b69b88a1",
+    "title": "Technical Consultant, Enterprise",
+    "company": "Ramp"
+  },
+  "sls26": {
+    "id": "5415993008",
+    "link": "http://block.xyz/careers/jobs/5415993008?gh_jid=5415993008",
+    "title": "Business Development Lead, AI Commercialization",
+    "company": "Block"
+  },
+  "tax8": {
+    "id": "6187272004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6187272004",
+    "title": "Head of Tax",
+    "company": "Alpaca"
+  },
+  "spyc": {
+    "id": "8181026",
+    "link": "https://stripe.com/jobs/search?gh_jid=8181026",
+    "title": "Startup Partnerships - Y Combinator",
+    "company": "Stripe"
+  },
+  "infra5": {
+    "id": "8189867",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8189867?t=gh_src=&gh_jid=8189867",
+    "title": "Senior Staff Software Engineer, Developer Infrastructure",
+    "company": "Robinhood"
+  },
+  "eng50": {
+    "id": "8205280",
+    "link": "https://stripe.com/jobs/search?gh_jid=8205280",
+    "title": "Engineering Manager, Machine Learning - Credit Risk",
+    "company": "Stripe"
+  },
+  "aso8": {
+    "id": "8202091",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8202091&gh_jid=8202091",
+    "title": "Office Assistant",
+    "company": "Gemini"
+  },
+  "pm23": {
+    "id": "8203423",
+    "link": "https://stripe.com/jobs/search?gh_jid=8203423",
+    "title": "Product Manager, Employee Experiences",
+    "company": "Stripe"
+  },
+  "cmp12": {
+    "id": "8202118",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8202118&gh_jid=8202118",
+    "title": "Head of Consumer and Lending Compliance",
+    "company": "Gemini"
+  },
+  "sls25": {
+    "id": "8191718",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191718",
+    "title": "Sales Manager, Enterprise - Hunter",
+    "company": "Stripe"
+  },
+  "mkt12": {
+    "id": "8191714",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191714",
+    "title": "Sales Manager, Enterprise - Growth",
+    "company": "Stripe"
+  },
+  "eng49": {
+    "id": "d3f05097-329e-422a-8dcb-41f6a774bc90",
+    "link": "https://jobs.eu.lever.co/aavelabs/d3f05097-329e-422a-8dcb-41f6a774bc90",
+    "title": "Principal iOS Engineer",
+    "company": "Aave Labs"
+  },
+  "eng48": {
+    "id": "7996305003",
+    "link": "https://job-boards.greenhouse.io/grayscaleinvestments/jobs/7996305003",
+    "title": "DevSecOps Staff Engineer",
+    "company": "Grayscale"
+  },
+  "aso7": {
+    "id": "6186981004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6186981004",
+    "title": "Global Settlements Associate 1",
+    "company": "Alpaca"
+  },
+  "cmp11": {
+    "id": "7996196003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996196003",
+    "title": "Senior Compliance Analyst",
+    "company": "OKX"
+  },
+  "wor": {
+    "id": "aab1a878-ae4c-46df-8735-58b27b67051b",
+    "link": "https://jobs.ashbyhq.com/Polymarket/aab1a878-ae4c-46df-8735-58b27b67051b",
+    "title": "Workplace Lead",
+    "company": "Polymarket"
+  },
+  "sls23": {
+    "id": "af2117a8-69c2-408a-9ca4-08c4ccac08c1",
+    "link": "https://ats.rippling.com/the-block/jobs/af2117a8-69c2-408a-9ca4-08c4ccac08c1",
+    "title": "Sponsorship Sales Representative",
+    "company": "The Block"
+  },
+  "mgr13": {
+    "id": "5355727008",
+    "link": "http://block.xyz/careers/jobs/5355727008?gh_jid=5355727008",
+    "title": "Manager, KYC Due Diligence Policy & Strategy",
+    "company": "Block"
+  },
+  "rs": {
+    "id": "b2a32764-7b75-4c6d-a45a-58b7af0887ad",
+    "link": "https://jobs.ashbyhq.com/kraken.com/b2a32764-7b75-4c6d-a45a-58b7af0887ad",
+    "title": "Senior Software Engineer - Rust - Core Services",
+    "company": "Kraken"
+  },
+  "pm21": {
+    "id": "8204571",
+    "link": "https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571",
+    "title": "Product Manager II, Growth - Notifications",
+    "company": "Coinbase"
+  },
+  "pm20": {
+    "id": "8204521",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8204521?t=gh_src=&gh_jid=8204521",
+    "title": "Senior Product Manager, Capital Markets",
+    "company": "Robinhood"
+  },
+  "pm19": {
+    "id": "9141b1dd-abd5-45ad-9778-41cb5395d08e",
+    "link": "https://jobs.ashbyhq.com/Blockworks/9141b1dd-abd5-45ad-9778-41cb5395d08e",
+    "title": "Senior Product Manager",
+    "company": "Blockworks"
+  },
+  "sswa": {
+    "id": "7974904003",
+    "link": "https://job-boards.greenhouse.io/xapo61/jobs/7974904003",
+    "title": "Head of Structured Solutions (Remote - Work from Anywhere)",
+    "company": "Xapo Bank"
+  },
+  "wec2": {
+    "id": "4721331005",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4721331005",
+    "title": "Workplace and Executive Coordinator",
+    "company": "Shakepay"
+  },
+  "mkt11": {
+    "id": "8192485",
+    "link": "https://www.coinbase.com/careers/positions/8192485?gh_jid=8192485",
+    "title": "Senior Performance Marketing Manager, Global Paid Social & Mobile UA",
+    "company": "Coinbase"
+  },
+  "eng274": {
+    "id": "8190605",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8190605",
+    "title": "Senior FPGA Engineer",
+    "company": "DRW"
+  },
+  "pm17": {
+    "id": "8204227",
+    "link": "https://stripe.com/jobs/search?gh_jid=8204227",
+    "title": "Product Manager - Developer Experience, Bridge",
+    "company": "Stripe"
+  },
+  "sagd": {
+    "id": "1d412e8b-767b-489d-9357-3f61fcc2d48a",
+    "link": "https://jobs.ashbyhq.com/chainalysis-government-solutions/1d412e8b-767b-489d-9357-3f61fcc2d48a",
+    "title": "Systems Administrator - Government Deployments (Maryland)",
+    "company": "Chainalysis"
+  },
+  "aso33": {
+    "id": "8201188",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8201188",
+    "title": "Administrative Assistant - FICCO Trading Group",
+    "company": "DRW"
   }
 }

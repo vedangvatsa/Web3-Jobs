@@ -2597,10 +2597,6 @@
       "sha256": "9ca912d1e31debfca40aad0f6fe6fd9529f467a9e045f3a4db7d84a3bd38aa95",
       "status": "retained"
     },
-    "/events/mu-314396577-6cbe4585.webp": {
-      "sha256": "e72bc3983ee8c4fc04032c9be58454d5abc7ed4cf87c53d0219aa3b253a5c711",
-      "status": "optimized"
-    },
     "/events/mu-316118454-a56414bb.webp": {
       "sha256": "d0e051563f078bc07151cbe488e7fc1330ac840d4bd247763237656c91e308bf",
       "status": "retained"
@@ -4365,6 +4361,10 @@
       "sha256": "32cbb12a94fafcbadc05a1d640bb860d3d55c8e3384ac4a37fe7e4f95efb29f6",
       "status": "optimized"
     },
+    "/events/w3v-ethereum-stablecoin-summit-money20-20-las-26-1-7ce35a8a.webp": {
+      "sha256": "3cb67ea0a7efc214d59406d09bfeb77b3e75299e6dd9cf9f60bc9607e9591d11",
+      "status": "retained"
+    },
     "/events/w3v-eva-symposium-iii-26-11-04-b20846b7.webp": {
       "sha256": "4bfecc0f209ccaa0afcbcff0337ffc4d019a5adfa6a0a69b4202366a52187060",
       "status": "optimized"
@@ -4445,6 +4445,10 @@
       "sha256": "663a5677609f2247c8170d6e9f0103d328d947a6803f411a684e30abcde65828",
       "status": "retained"
     },
+    "/events/w3v-mip-20-road-devcon-26-10-30-1807edd7.webp": {
+      "sha256": "ddfb5e62615e5d054606f9c09de6c2563de77d38b45bd4ab4ab6e78fcbdce7f6",
+      "status": "retained"
+    },
     "/events/w3v-monad-blitz-mumbai-devcon-edition-26-11-04-63efe811.webp": {
       "sha256": "cec8dee68d6554972a33caba0f8c4bed66420ebb1aa2cc6fdb7399e67f2c6808",
       "status": "optimized"
@@ -4464,6 +4468,10 @@
     "/events/w3v-money-maker-26-11-06-0eac1ad5.webp": {
       "sha256": "c5336fdbdf3dda903113f2afb2f60d8a0173fb12a7c6ca4e6e028950f92b7243",
       "status": "optimized"
+    },
+    "/events/w3v-money-moves-martinis-happy-hour-rain-26-10-20-c0f8388b.webp": {
+      "sha256": "80630cf0c310f514ed546419f13b6694e26f290e385e1a3c37940a7a632448e8",
+      "status": "retained"
     },
     "/events/w3v-mst-blockchain-offchain-hours-consensus-cockta-2f0b35af.webp": {
       "sha256": "988d64801d157fd8f0d8521d69291ff6d95e09942739db02fe492f09fac97348",
@@ -4617,6 +4625,18 @@
       "sha256": "2b573b1152224e4afc5d082bc2030a2d3ef1c9c11d19533e14bb3ae053d6a880",
       "status": "optimized"
     },
+    "/events/w3v-stablecoin-circuit-dinner-hosted-m-crypto-26-1-82809f5f.webp": {
+      "sha256": "986d341d93797a4d2826793a3bca8a10eda40f779bab36c10c9afc532157ca8f",
+      "status": "retained"
+    },
+    "/events/w3v-stablecoin-era-dinner-money-20-20-26-10-20-4ef8745e.webp": {
+      "sha256": "b041dd8391666a969547ff1fd10a527ab0cdc80ab054f9617b967a13af7cf88f",
+      "status": "retained"
+    },
+    "/events/w3v-stablecoin-speakeasy-money20-20-26-10-19-a8c18a4d.webp": {
+      "sha256": "854927c230eac71d2dfbd482e471b5436e5706258a9f87536cb652f7d4dba126",
+      "status": "retained"
+    },
     "/events/w3v-stablecoins-from-tokens-to-rails-a-debate-b5b8dc25.webp": {
       "sha256": "efff1a65d971c3994b0215f511271808c98f262bef3f70c868396a419a233621",
       "status": "retained"
@@ -4671,6 +4691,10 @@
     },
     "/events/w3v-vip-dinner-for-white-case-and-kbw-8c2b3951.webp": {
       "sha256": "39c55da79a2ea1f4e928069714454748c6d4e81edaf2b7024f04d48333099e67",
+      "status": "retained"
+    },
+    "/events/w3v-wake-up-series-stablecoins-future-payments-26--18d72c73.webp": {
+      "sha256": "b8963b92d9586c1e0d3f0cdbb986e53d52dae8533d5d75910f4856726a9046d6",
       "status": "retained"
     },
     "/events/w3v-web3-accountant-meet-2026-e6732539.webp": {
@@ -4800,6 +4824,10 @@
     "/images/articles/b2b-stablecoins/chart4.webp": {
       "sha256": "216a4143fd6dc6ca3b94c56937846ea2cb36d32c270e60d7726a60f072d6694f",
       "status": "optimized"
+    },
+    "/images/articles/farcaster.webp": {
+      "sha256": "0bcf8640652acacad66dfbf4be421bcfba7face05cbea95d96bdc9638713a378",
+      "status": "retained"
     },
     "/images/articles/jio-perpetuals.webp": {
       "sha256": "f253e514973c2f07d88471be6bf252fdd8976c57ca232ec67a08ea77499b8d85",
@@ -18089,10 +18117,6 @@
       "sha256": "403da7f9be71e94ac18ee9ecb60a612e27ed670b1c8c74e3becf2f82a3dc330b",
       "status": "retained"
     },
-    "/og/jobs/pm180.png": {
-      "sha256": "4dd2aa38f9228b6b34d367a1e952938ba4aa9ab727111bbb7e17dca0c3f83ed0",
-      "status": "retained"
-    },
     "/og/jobs/pm181.png": {
       "sha256": "6178f49a160d0350e556b62e1ab1cd77bd985675798390641f14b716d3195aca",
       "status": "retained"
@@ -21668,6 +21692,122 @@
     "/popups/zuberlin/zuberlingallery3.webp": {
       "sha256": "449fd166dacba59db731b8054f863faeeb056eb154381c28884ae0dbb4c64c94",
       "status": "retained"
+    },
+    "/events/curated-alchemy-devcon-meetings-2026-b0653256.webp": {
+      "sha256": "1b8417426152670b1d01ef8786a3e92c5087a11e363c11d1290c58416c29e77f",
+      "status": "optimized"
+    },
+    "/events/curated-shanhaiwoo-mumbai-extension-2026-c8a731f4.webp": {
+      "sha256": "cf31559fd3ade43efb3d0013cf5c4744ba7eb499b7d948ce500189f7b4899f8d",
+      "status": "optimized"
+    },
+    "/events/india-luma-arbiverse-mumbai-cf1e6766.webp": {
+      "sha256": "e0dbb8a131d39ff4d591c6ccb9b174f6e95d47f74b159c19f6a2423f3a85df26",
+      "status": "optimized"
+    },
+    "/events/luma-evt-enpjjbemdte9tf8-0d608e56.webp": {
+      "sha256": "cafc18e305c448078a403ee33a3891bade6b83600fac83d984355ec661ff8946",
+      "status": "optimized"
+    },
+    "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp": {
+      "sha256": "c1fc08773073589d88ad2e15008d2809d9078d8d2ccf40931991fd6f6d65b881",
+      "status": "optimized"
+    },
+    "/events/mu-316749553-4ef65602.webp": {
+      "sha256": "e42e178c806c87a394c5597655576cba6b3ed12c9647e719b3d017335fb87c13",
+      "status": "optimized"
+    },
+    "/events/w3v-arbiverse-mumbai-26-11-02-893f8c9c.webp": {
+      "sha256": "9b63f8e08e34548234a51fd53613bdb105001cc01c628f8544fc5373600a6bcb",
+      "status": "optimized"
+    },
+    "/events/w3v-biggest-ct-g-y-party-26-11-05-527a1cc1.webp": {
+      "sha256": "3cba55b0ed63a5440b55eafe35e9d07623068db8690f6d5d7101d78cb2617a80",
+      "status": "optimized"
+    },
+    "/events/w3v-crypto-ignite-vegas-executive-night-26-10-19-08659fdb.webp": {
+      "sha256": "d68f626ce8b6be2aee6cb32b59439a5811ef799c955a3f3a1fac20f8f46c71ed",
+      "status": "optimized"
+    },
+    "/events/w3v-cryptomondays-vegas-m2020-26-10-19-7e412756.webp": {
+      "sha256": "d62f1ffe9021644826d9b9ea18534449614ee1b3e66c3ea19dacb238db31940c",
+      "status": "optimized"
+    },
+    "/events/w3v-devcon-afterparty-26-11-06-ab11e104.webp": {
+      "sha256": "719156f25df8530dffef273123d1f599f9afb4012ba326be65adc79dbac6a2e4",
+      "status": "optimized"
+    },
+    "/events/w3v-ethwali-26-11-08-b0a036fc.webp": {
+      "sha256": "6ad3aa6a611bbe5bcf4443f8469149c252123d44d609034cb9b6dbfed9c6941f",
+      "status": "optimized"
+    },
+    "/events/w3v-house-privy-bridge-26-10-20-2f981f38.webp": {
+      "sha256": "fe76e2d86e2f91aa291d003235a2052e29bd9b0e3af19e547ebf23a7b4c0c3bd",
+      "status": "optimized"
+    },
+    "/events/w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26--f031ade5.webp": {
+      "sha256": "82113dd5fc8384935c22b6f8071915ffec80d76756dabcbc4045a907efd5e21f",
+      "status": "optimized"
+    },
+    "/events/w3v-merkle-science-meet-las-vegas-enterprise-26-10-7b8ec9b0.webp": {
+      "sha256": "7139d510b3dcf96b65d5442738453613d5fce08a466cd0970211c3f94bc86fe3",
+      "status": "optimized"
+    },
+    "/events/w3v-money-moves-fintech-hours-money-20-26-10-21-8b90c831.webp": {
+      "sha256": "b17a9a4f4321cbe033dcbd2631c343e0a88fc15620e46c85d6e370873c57b5c8",
+      "status": "optimized"
+    },
+    "/events/w3v-money20-20-happy-hour-26-10-20-b2c5db0e.webp": {
+      "sha256": "ca13675f78247ff3ce320ee5d537003191153f137cd87966896b7046a152171b",
+      "status": "optimized"
+    },
+    "/events/w3v-mumbai-edition-crypto-afterhours-26-11-07-8be3e8e6.webp": {
+      "sha256": "ca2af64f8e7e109ecdbbaa38512b533c86023457fed6aaedffd5d97e491e9287",
+      "status": "optimized"
+    },
+    "/events/w3v-onchain-finance-happy-hour-26-10-20-95ce53fe.webp": {
+      "sha256": "a65dadc73c8cec339e985d05a20ceb9a4bc899e1122258a31872f39a22046c15",
+      "status": "optimized"
+    },
+    "/events/w3v-onchain-hour-26-10-19-af524030.webp": {
+      "sha256": "4e2ae3decd771ef0eb0afc8bb67ed3e2489979c8b257667e6b3338acf31c8fc3",
+      "status": "optimized"
+    },
+    "/events/w3v-openfx-stablecon-money20-20-stable-salon-26-10-48e43949.webp": {
+      "sha256": "2e9ddac6c3dc79a089ec05cf957f5179a6bd9d6919cd8c97a06150db2218c2fa",
+      "status": "optimized"
+    },
+    "/events/w3v-pacific-table-what-you-seeing-that-26-10-19-3281bfad.webp": {
+      "sha256": "49805dd1aa2e77e2c131a44e5c6fd0d4c4c5531f2d942d324484db253c189918",
+      "status": "optimized"
+    },
+    "/events/w3v-rollups-rounds-hosted-succinct-optimism-26-10--6f51199e.webp": {
+      "sha256": "3c31670141267e69834cb2ab69852ab53748fe4e9f1b23a14a2401d5336959f1",
+      "status": "optimized"
+    },
+    "/events/w3v-stablecoin-leaders-dinner-money-20-20-26-10-19-e8a2b6ee.webp": {
+      "sha256": "8a510a3748ad16b1a152bc8c16a7c698545293482e538eab5e50ef9467596e02",
+      "status": "optimized"
+    },
+    "/events/w3v-t-0-dinner-26-10-19-557ecfa4.webp": {
+      "sha256": "dec2ff48687a21fa32049b414358c3094275bd6e44f3b6f8f5fad7179f10419d",
+      "status": "optimized"
+    },
+    "/events/w3v-team1-india-networking-gala-mumbai-26-11-02-cdcf1d30.webp": {
+      "sha256": "831b374852c77cc5b396050690e59e7e70fe1b292aeff33789eea3c258d88fb1",
+      "status": "optimized"
+    },
+    "/events/w3v-twif-checker-money20-20-happy-hour-26-10-19-37b6b1f6.webp": {
+      "sha256": "0bc30ba0006731ab6e5458a7d8dd994f639f2f8e9e7fe58a72252721834e42ec",
+      "status": "optimized"
+    },
+    "/events/w3v-twif-stablecoin-day-powered-alcove-wallet-26-1-6f03d7c5.webp": {
+      "sha256": "7f96f5d055762511f10827b744a33a1f819a498b38076e831b785c43f08d6e56",
+      "status": "optimized"
+    },
+    "/events/w3v-uncharted-waters-trusted-transfers-persona-cro-662eb397.webp": {
+      "sha256": "28feb805b86eb64152ee3d13da4eaaa7c1bb344ed6e12f3d4cbdbc39d10dd25f",
+      "status": "optimized"
     }
   }
 }

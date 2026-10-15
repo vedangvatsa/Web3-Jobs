@@ -60,53 +60,6 @@
     }
   },
   {
-    "id": "luma-crypto-z6IEGsiZumLi2vk",
-    "slug": "gph",
-    "name": "GirlsWhoML & PhysicsX Hackathon",
-    "description": "## If commercial space flights land on Mars tomorrow, what would you build to create the Martian city?\n\n[APPLICATIONS CLOSED]\n\n[Join GirlsWhoML](https://www.girlswhoml.com/) [and PhysicsX](https://www.physicsx.ai/) for an evening hackathon in London to tackle the first human landing on Mars, supported by Cursor. You arrive on an empty, rust-red planet with no city, no roads, and no infrastructure. What do you build first?\n\nYou’ll design and prototype one core system for the Martian city, across three tracks: Architecture, Vehicles, and Life Support. Every build should combine engineering, machine learning, or 3D modelling.\n\nThe window is short, but that’s the point: see how far you can push what’s possible in a single evening. Mentors will be on the floor throughout, your work will be reviewed by a panel of industry judges, and every participant gets Cursor credits supported by Francisco Terpolilli, Cursor's EU Ambassador and Regional Leader.\n\nBring a team of 2-3, or turn up solo and we’ll help you find a crew, at our team formation session. Women, non-binary, and allies are all welcome.\n\n[Prizes provided by PhysicsX](https://www.physicsx.ai/), including career coaching and mentorship opportunities, to be announced.\n\nBring your curiosity, your laptop, and your ambition. The city starts with you.\n\n## Schedule 🛸\n\n5:30pm - launch pad\n6:00pm - mission briefing\n6:20pm - ignition\n8:00pm - mid mission check\n8:30pm - code freeze\n8:38pm - demos\n9:30pm - judging\n9:45pm - close\n\nThank you so much for the incredible response to this hackathon. We’ve been genuinely overwhelmed (in the best way!) by the interest, which far exceeds our venue’s capacity.\n\nBecause space is limited, we’ve had to carefully curate a group that reflects our community and fits the hack’s brief. With so many strong applications, this was a difficult process.\n\nIf you don’t receive a spot this time, please know it comes down to capacity and fit for this specific event not a judgment on your talent or potential. Thank you again for your enthusiasm and for taking the time to apply.",
-    "startDate": "2026-09-15T16:30:00.000Z",
-    "endDate": "2026-09-15T21:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/cvpxxlpq",
-    "registrationUrl": "https://luma.com/cvpxxlpq",
-    "coverImage": "/events/luma-crypto-z6iegsizumli2vk-68b06848.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Melanie Preen",
-      "Saskia Munks",
-      "Francisco Terpolilli 🤌",
-      "Mathusa Thiruchenthoor"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "GirlsWhoML",
-      "url": "https://www.girlswhoml.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/cvpxxlpq",
-        "price": 0
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/cvpxxlpq",
-      "eventId": "evt-z6IEGsiZumLi2vk",
-      "fetchedAt": "2026-09-19T23:45:11.862Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-zuDksxJDUNwJPeA",
     "slug": "hhrrplatd",
     "name": "HAPPY HOUR AT THE RIPPLE ROOM FOR PODCAST LOVERS (AKA TINK DRINKS)",
