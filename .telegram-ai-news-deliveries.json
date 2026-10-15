@@ -1423,7 +1423,7 @@
     "sentAt": "2026-10-15T03:53:46.444Z"
   },
   "22e65ddf-897c-40dc-af9c-323bf05a024f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T12:07:56.489Z",
     "stories": [
       {
@@ -1453,6 +1453,8 @@
         "originalTitle": "Pig kidneys that were “frozen” for a year have been brought back to life"
       }
     ],
-    "slotKey": "2026-10-15:afternoon"
+    "slotKey": "2026-10-15:afternoon",
+    "messageId": 193351,
+    "sentAt": "2026-10-15T12:07:58.840Z"
   }
 }

@@ -734,6 +734,9 @@
   "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
   "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
   "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+  "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+  "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+  "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1985,6 +1988,12 @@
   "Anthropic warns small AI models could self-replicate through IoT devices",
   "Researchers bypass safety filters in OpenAI and Google models",
   "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+  "Industrial Next enables factory robots to switch tasks rapidly",
+  "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+  "Six concepts for extending human consciousness",
+  "Six wild ideas for perpetuating your mind",
+  "Scientists Successfully Rewarm Deep-Frozen Pig Kidneys",
+  "Pig kidneys that were “frozen” for a year have been brought back to life",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2236,5 +2245,8 @@
   "fp:agent|apat|bot|can|detection|fraud|gather|get|help|improv",
   "fp:allegedly|charg|devic|employe|engineer|espionag|fac|fbi|federal|foreign",
   "fp:anthropic|autonomous|capabl|computer|connect|creat|devic|found|human|internet",
-  "fp:attack|bypass|current|easily|explicit|filter|generat|googl|guardrail|imagery"
+  "fp:attack|bypass|current|easily|explicit|filter|generat|googl|guardrail|imagery",
+  "fp:allow|between|complex|enabl|factory|industrial|instead|manufactur|minut|next",
+  "fp:brain|concept|connection|consciousness|extend|how|human|idea|identity|long",
+  "fp:aim|back|brought|celsius|deep|frozen|futur|hav|human|kidney"
 ]
