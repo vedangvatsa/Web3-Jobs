@@ -39174,23 +39174,27 @@
       "id": "81b2c5c70aa7aadb27b7",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T04:36:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Realist robbery page blocked on re-attempt; police record and a readable second outlet still missing.",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk account of the same UK robbery; the Defiant version is blocked and police have not confirmed. Police confirmation plus second-outlet confirmation still needed.",
       "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:48.442Z",
+      "reviewedAt": "2026-10-15T11:59:09.656Z",
       "retrySearches": [
-        "Realist knifepoint robbery police record second outlet"
+        "UK knifepoint robbery police confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "627591d0728987efa33f": {
       "source": "CryptoSlate",
@@ -78002,6 +78006,25 @@
           "reviewedAt": "2026-10-15T11:59:07.404Z",
           "retrySearches": [
             "UK knifepoint robbery police confirmation chain proof second outlet"
+          ]
+        },
+        "81b2c5c70aa7aadb27b7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk account of the same UK robbery; the Defiant version is blocked and police have not confirmed. Police confirmation plus second-outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:09.656Z",
+          "retrySearches": [
+            "UK knifepoint robbery police confirmation second outlet"
           ]
         }
       },
