@@ -41621,11 +41621,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a72fa2a023627c7236b8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:47:09.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic extinction warnings versus IPO plans; AI commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:03.869Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "a108866d7e567093560a": {
       "source": "Crypto Briefing",
@@ -74886,6 +74891,13 @@
           "note": "Anthropic growth slowdown and stock selloff; AI-equity story with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:01.886Z"
+        },
+        "a72fa2a023627c7236b8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic extinction warnings versus IPO plans; AI commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:03.869Z"
         }
       },
       "baselineSlugs": [
