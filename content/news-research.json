@@ -39001,25 +39001,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "c8b6f154eb1f152cd4b3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T09:27:47.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-14T04:05:18.296Z",
+      "reason": "duplicate",
+      "note": "This covers the same spy-chip mechanism confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:00.575Z",
       "retrySearches": [
         "Ledger spy chip CryptoBilis mobile network CoinDesk confirmation"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "duplicateOf": "ledger-implant"
     },
     "26346814125211b7b8c3": {
       "source": "The Defiant",
@@ -74187,6 +74182,14 @@
           "note": "This covers the same LTE-implant confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:48:58.487Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "c8b6f154eb1f152cd4b3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "This covers the same spy-chip mechanism confirmation as the Oct 11 ledger-implant report; no new freestanding event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:00.575Z",
           "duplicateOf": "ledger-implant"
         }
       },
