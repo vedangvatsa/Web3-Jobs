@@ -41985,11 +41985,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5b83e31da270755e01c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:00:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:43.194Z",
+      "retrySearches": [
+        "Hyperliquid Yan interview policy detail second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "aa7a8d10341144b65d50": {
       "source": "Cointelegraph",
@@ -78379,6 +78397,25 @@
           "reviewedAt": "2026-10-15T11:59:41.095Z",
           "retrySearches": [
             "BNY Citadel tokenized Treasury triparty confirmation second outlet"
+          ]
+        },
+        "b5b83e31da270755e01c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece on Yan Bloomberg interview; the CryptoBriefing version is prediction-framed. Interview record plus policy-detail confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:43.194Z",
+          "retrySearches": [
+            "Hyperliquid Yan interview policy detail second outlet"
           ]
         }
       },
