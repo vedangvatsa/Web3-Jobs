@@ -41752,11 +41752,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "66aefde5a8057938a6fc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:26:36.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Apple Intelligence approval in China; consumer-tech regulation with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:44.113Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "c757d3ba3f1d947d018c": {
       "source": "CoinDesk",
@@ -74766,6 +74771,13 @@
           "note": "Houthi missile attacks on Saudi airports; geopolitics with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:42.171Z"
+        },
+        "66aefde5a8057938a6fc": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Apple Intelligence approval in China; consumer-tech regulation with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:44.113Z"
         }
       },
       "baselineSlugs": [
