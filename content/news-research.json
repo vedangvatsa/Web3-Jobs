@@ -42729,11 +42729,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ef69fdc62ce46c3bc763",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T17:47:18.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Kalshi-CEO Block page blocked again in this run; interview record and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:14.016Z",
+      "retrySearches": [
+        "Kalshi CEO prediction markets interview second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "267992dfc40cd25604c7": {
       "source": "The Defiant",
@@ -76049,6 +76063,21 @@
           "reviewedAt": "2026-10-15T11:55:11.964Z",
           "retrySearches": [
             "Specter ProveX Heart-linked funds evidence second outlet"
+          ]
+        },
+        "ef69fdc62ce46c3bc763": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Kalshi-CEO Block page blocked again in this run; interview record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:14.016Z",
+          "retrySearches": [
+            "Kalshi CEO prediction markets interview second outlet"
           ]
         }
       },
