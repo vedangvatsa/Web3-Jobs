@@ -767,6 +767,9 @@
   "https://hashtagweb3.com/ondo-private?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/jio-perpetuals?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strive-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zachxbt-syndicate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2203,6 +2206,12 @@
   "Spiko raises $90M Series B led by NEA to expand tokenized cash funds",
   "Umia Raises $6 Million in Base Token Auction",
   "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper",
+  "Bitget Launches Jio Pre-IPO Perpetual Futures Contracts",
+  "Bitget Lists Jio Pre-IPO Perpetual Futures",
+  "Strive buys 2,000 BTC and starts $500M stock buyback",
+  "Strive buys 2,000 BTC and opens $500M buyback facility for SATA preferred stock",
+  "ZachXBT Exposes Lazarus Group Launderers Linked to Bybit Hack",
+  "ZachXBT Says He Posed as Client to Expose Lazarus Launderers",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2499,5 +2508,8 @@
   "fp:abstract|bridg|dat|deadlin|dec15|december15|down|final|fund|igloo",
   "fp:begin|expect|firm|ipo|link|market|not|oct5|ondo|platform",
   "fp:120m|26b|90m|asset|bas|cash|expand|fintech|firm|fund",
-  "fp:18m|auction|bas|buyer|dcg|draper|galaxy|individual|join|rais"
+  "fp:18m|auction|bas|buyer|dcg|draper|galaxy|individual|join|rais",
+  "fp:20x|ahead|bitget|contract|futur|indian|ipo|jio|jiousdt|leverag",
+  "fp:000|462|500m|alongsid|btc|buyback|buys2|facility|fil|open",
+  "fp:12m|700|bybit|chines|client|expos|fund|group|hack|infiltrat"
 ]
