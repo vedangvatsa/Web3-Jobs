@@ -761,6 +761,9 @@
   "https://hashtagweb3.com/ldk-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc-swaps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitfinex-move?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrpl-delegation?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2185,6 +2188,12 @@
   "CFTC proposes swap status for event contracts, excludes casino wagers",
   "US Government Moves $1 Billion in Seized Bitcoin",
   "US government moves $1B in seized Bitfinex bitcoin to unlabeled wallets",
+  "Standard Chartered Dubai adds Ripple RLUSD custody and collateral support",
+  "Standard Chartered holds Ripple's RLUSD in Dubai, plans collateral link with LMAX",
+  "XRP Ledger adds account delegation feature for institutions",
+  "XRP Ledger activates account delegation for banks and stablecoin issuers",
+  "Igloo Inc. to Shut Down Abstract Network on December 15",
+  "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2475,5 +2484,8 @@
   "fp:208m|280m|311|773|adds3|btc|buys3|exercis|expiry|firm",
   "fp:caus|channel|dur|fix|flaw|forward|fund|ldk|let|los",
   "fp:agency|casino|category|cftc|classify|contract|defin|event|exclud|gambl",
-  "fp:000|address|authority|bitfinex|controll|government|mov|october8|over12|seiz"
+  "fp:000|address|authority|bitfinex|controll|government|mov|october8|over12|seiz",
+  "fp:add|can|charter|client|collateral|custody|dubai|exchang|institutional|link",
+  "fp:account|activat|add|allow|assign|bank|delegat|delegation|featur|institution",
+  "fp:abstract|bridg|dat|deadlin|dec15|december15|down|final|fund|igloo"
 ]

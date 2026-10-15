@@ -1428,7 +1428,7 @@
     "sentAt": "2026-10-14T19:33:43.769Z"
   },
   "bf5a5d91-feb4-4ba8-8ddc-24f451ad43a3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-15T03:55:18.016Z",
     "stories": [
       {
@@ -1456,6 +1456,8 @@
         "originalTitle": "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline"
       }
     ],
-    "slotKey": "2026-10-15:morning"
+    "slotKey": "2026-10-15:morning",
+    "messageId": 65751,
+    "sentAt": "2026-10-15T03:55:20.747Z"
   }
 }
