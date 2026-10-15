@@ -4622,5 +4622,121 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 16541,
     "sentAt": "2026-10-15T19:32:09.931Z"
+  },
+  "7dd81f61-d815-4c44-a588-06584c6937c4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-15T19:32:12.445Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f4d1cabb-de6b-42b7-a8f3-20add07ace9e",
+          "title": "Controls Engineer, Mission-Critical Infrastructure",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/f4d1cabb-de6b-42b7-a8f3-20add07ace9e",
+          "date": "2026-09-16T22:32:56.655000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Austin, TX, Rockdale, TX",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra9"
+        },
+        "key": "f4d1cabb-de6b-42b7-a8f3-20add07ace9e",
+        "slug": "infra9",
+        "url": "https://hashtagweb3.com/infra9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Controls Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8190032",
+          "title": "Critical Support Manager - Escalations",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8190032",
+          "date": "2026-10-01T05:25:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle or San Francisco",
+          "department": "4119 Product Support",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr122"
+        },
+        "key": "8190032",
+        "slug": "mgr122",
+        "url": "https://hashtagweb3.com/mgr122?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Critical Support Manager"
+      },
+      {
+        "snapshot": {
+          "id": "3f4509ad-1858-478b-a7fb-bcd792d9575a",
+          "title": "Product Manager | Procurement",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a",
+          "date": "2026-10-05T16:09:02.202+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm228"
+        },
+        "key": "3f4509ad-1858-478b-a7fb-bcd792d9575a",
+        "slug": "pm228",
+        "url": "https://hashtagweb3.com/pm228?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Product Manager | Procurement"
+      },
+      {
+        "snapshot": {
+          "id": "8129106",
+          "title": "Engineering Manager, Digital Assets",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8129106?gh_jid=8129106",
+          "date": "2026-09-17T14:30:10-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "San Francisco, CA, United States",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$212k – $265k/yr",
+          "dateVerified": true,
+          "slug": "eng98"
+        },
+        "key": "8129106",
+        "slug": "eng98",
+        "url": "https://hashtagweb3.com/eng98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
+          "title": "Fullstack Engineer, Investigator Tools",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
+          "date": "2026-10-14T22:17:38.253+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (United Kingdom / Europe)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "fs26",
+          "dateVerified": true
+        },
+        "key": "8e9d4ba5-92f9-48f4-925d-090fd5d6e303",
+        "slug": "fs26",
+        "url": "https://hashtagweb3.com/fs26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Fullstack Engineer"
+      }
+    ],
+    "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/infra9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Controls Engineer, Mission-Critical Infrastructure</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Critical Support Manager - Escalations</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pm228?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager | Procurement</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Digital Assets</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/fs26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer, Investigator Tools</a>",
+    "slotKey": "2026-10-15:evening"
   }
 }
