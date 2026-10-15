@@ -43424,11 +43424,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc25a343a2a55031982b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:28:38.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "OCC Defiant page blocked again in this run; OCC report and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:32.505Z",
+      "retrySearches": [
+        "OCC debanking nine banks report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "cf1edda8f4b5cf638cea": {
       "source": "The Block",
@@ -76310,6 +76324,21 @@
           "reviewedAt": "2026-10-15T11:55:30.403Z",
           "retrySearches": [
             "Bastion SkyAI tender price demands letter second outlet"
+          ]
+        },
+        "cc25a343a2a55031982b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "OCC Defiant page blocked again in this run; OCC report and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:32.505Z",
+          "retrySearches": [
+            "OCC debanking nine banks report second outlet"
           ]
         }
       },
