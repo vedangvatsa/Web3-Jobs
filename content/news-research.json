@@ -32566,23 +32566,23 @@
       "id": "4450c76bafb99c25a446",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T20:36:19.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Canton fees page blocked on re-attempt; CertiK report and a readable second outlet still missing.",
+      "note": "Canton fees page blocked again in this run; CertiK report and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:01:56.954Z",
+      "reviewedAt": "2026-10-15T11:53:37.620Z",
       "retrySearches": [
         "Canton Q3 fees CertiK report second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "fc660e1d205307a6a6e2": {
       "source": "BeInCrypto",
@@ -75210,6 +75210,21 @@
           "reviewedAt": "2026-10-15T11:53:35.573Z",
           "retrySearches": [
             "IMF tokenized equity after-hours paper second outlet"
+          ]
+        },
+        "4450c76bafb99c25a446": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Canton fees page blocked again in this run; CertiK report and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:53:37.620Z",
+          "retrySearches": [
+            "Canton Q3 fees CertiK report second outlet"
           ]
         }
       },
