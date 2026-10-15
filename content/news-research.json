@@ -41041,11 +41041,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "57e22c5974de7bf33fcc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T12:33:56.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "September CPI reaction piece; macro price commentary, no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:50:10.026Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "444f66bbc02cba1b30cd": {
       "source": "The Block",
@@ -74514,6 +74519,13 @@
           "note": "Bitcoin dip tied to oil-driven CPI; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:50:07.866Z"
+        },
+        "57e22c5974de7bf33fcc": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "September CPI reaction piece; macro price commentary, no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:50:10.026Z"
         }
       },
       "baselineSlugs": [
