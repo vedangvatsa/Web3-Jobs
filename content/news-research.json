@@ -40948,11 +40948,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f42c13aeeddfc086db9f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:39:12.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "Babylon-Aave page blocked again in this run; proposal record and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:58.839Z",
+      "retrySearches": [
+        "Babylon native Bitcoin collateral Aave V4 proposal second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "652c43541eaddb6a4842": {
       "source": "The Block",
@@ -75846,6 +75860,21 @@
           "reviewedAt": "2026-10-15T11:54:56.538Z",
           "retrySearches": [
             "Bastion SkyAI tender price board letter second outlet"
+          ]
+        },
+        "f42c13aeeddfc086db9f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Babylon-Aave page blocked again in this run; proposal record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:58.839Z",
+          "retrySearches": [
+            "Babylon native Bitcoin collateral Aave V4 proposal second outlet"
           ]
         }
       },
