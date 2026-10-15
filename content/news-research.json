@@ -39207,11 +39207,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "627591d0728987efa33f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T04:40:28.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; Qivalis won DNB EMI authorization but the token is not live. DNB register entry plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:05.054Z",
+      "retrySearches": [
+        "Qivalis DNB EMI register token launch second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "159037f1413ade874446": {
       "source": "Cointelegraph",
@@ -77277,6 +77291,21 @@
           "reviewedAt": "2026-10-15T11:58:02.900Z",
           "retrySearches": [
             "USDC EBA November 12 handover Circle white paper second outlet"
+          ]
+        },
+        "627591d0728987efa33f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Qivalis won DNB EMI authorization but the token is not live. DNB register entry plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:05.054Z",
+          "retrySearches": [
+            "Qivalis DNB EMI register token launch second outlet"
           ]
         }
       },
