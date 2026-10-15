@@ -39710,11 +39710,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9975dfcd27144cc7ad3e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T14:30:47.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "SEC meeting-notice page blocked again in this run; SEC release and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:54:48.379Z",
+      "retrySearches": [
+        "SEC small business advisory committee IPO crowdfunding notice second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "004449998deecc14e080": {
       "source": "CoinDesk",
@@ -75701,6 +75715,21 @@
           "reviewedAt": "2026-10-15T11:54:46.357Z",
           "retrySearches": [
             "Sanctioned A7 USDT SWIFT service evidence second outlet"
+          ]
+        },
+        "9975dfcd27144cc7ad3e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SEC meeting-notice page blocked again in this run; SEC release and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:48.379Z",
+          "retrySearches": [
+            "SEC small business advisory committee IPO crowdfunding notice second outlet"
           ]
         }
       },
