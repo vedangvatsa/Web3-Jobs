@@ -42055,11 +42055,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ec5bbb16c0cd36a48eeb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T07:31:47.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "promotional",
+      "note": "HTX quarterly scorecard and anniversary celebration; exchange marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:22.182Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "6b87f257167f07344afd": {
       "source": "Crypto Briefing",
@@ -74994,6 +74999,13 @@
           "note": "Sectora product-testing and token-availability notice; project marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:20.147Z"
+        },
+        "ec5bbb16c0cd36a48eeb": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "HTX quarterly scorecard and anniversary celebration; exchange marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:22.182Z"
         }
       },
       "baselineSlugs": [
