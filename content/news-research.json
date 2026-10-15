@@ -37973,23 +37973,23 @@
       "id": "53da82d0289c4ef5526d",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T17:00:31.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; same ASIC crypto-derivatives proposal verified via the shared Cointelegraph read. ASIC paper plus confirmation of this outlet account still needed.",
+      "note": "Read the CryptoSlate piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives. ASIC paper plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
+          "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:05:53.709Z",
+      "reviewedAt": "2026-10-15T11:56:43.688Z",
       "retrySearches": [
-        "Australia crypto derivatives loophole A458M ASIC confirmation"
+        "ASIC crypto-settled CFD proposal consultation second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "23ad72f79904c21dd430": {
       "source": "The Defiant",
@@ -76750,6 +76750,21 @@
           "reviewedAt": "2026-10-15T11:56:41.649Z",
           "retrySearches": [
             "MNX pre-IPO AI futures terms second outlet"
+          ]
+        },
+        "53da82d0289c4ef5526d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives. ASIC paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:43.688Z",
+          "retrySearches": [
+            "ASIC crypto-settled CFD proposal consultation second outlet"
           ]
         }
       },
