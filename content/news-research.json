@@ -42261,11 +42261,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b84c989c6ff0e2ed3b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T08:20:16.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate deep-dive on the OCC nine-bank findings with BNY example. OCC report plus bank-response confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:11.178Z",
+      "retrySearches": [
+        "OCC nine banks findings bank responses second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "443a4e34c253229e2509": {
       "source": "Crypto Briefing",
@@ -77364,6 +77378,21 @@
           "reviewedAt": "2026-10-15T11:58:09.052Z",
           "retrySearches": [
             "OCC debanking report nine banks PDF second outlet"
+          ]
+        },
+        "9b84c989c6ff0e2ed3b1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate deep-dive on the OCC nine-bank findings with BNY example. OCC report plus bank-response confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:11.178Z",
+          "retrySearches": [
+            "OCC nine banks findings bank responses second outlet"
           ]
         }
       },
