@@ -40815,11 +40815,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4582964dc6d28dba261b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T01:30:51.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate on-chain analysis; Firelight lockup mechanics are single-outlet technical claims. Firelight response plus exit-completion confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:48.583Z",
+      "retrySearches": [
+        "Firelight FXRP lockup response exit confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "78009d4c1c69ebee7908": {
       "source": "CryptoSlate",
@@ -77824,6 +77838,21 @@
           "reviewedAt": "2026-10-15T11:58:46.361Z",
           "retrySearches": [
             "XBOW Chrome exploit Google bulletin second outlet"
+          ]
+        },
+        "4582964dc6d28dba261b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate on-chain analysis; Firelight lockup mechanics are single-outlet technical claims. Firelight response plus exit-completion confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:48.583Z",
+          "retrySearches": [
+            "Firelight FXRP lockup response exit confirmation second outlet"
           ]
         }
       },
