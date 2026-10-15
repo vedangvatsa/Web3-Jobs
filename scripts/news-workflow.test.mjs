@@ -42,7 +42,11 @@ test('job and event workflows acknowledge only generators they ran, leaving arti
     assert.ok(ids.length, 'Hash refreshes need an explicit completed-step list');
     return ids;
   });
-  assert.deepEqual(recorded(ingest.jobs.ingest.steps).sort(), ['companies-runtime', 'jobs-runtime', 'sitemap', 'slug-types']);
+  assert.deepEqual(recorded(ingest.jobs.ingest.steps).sort(), ['companies-runtime', 'company-profiles', 'jobs-runtime', 'sitemap', 'slug-types']);
+  const profileGeneration = ingest.jobs.ingest.steps.findIndex(step => step.run?.includes('scripts/precompute-company-profiles.ts'));
+  const profileHash = ingest.jobs.ingest.steps.findIndex(step => step.run?.includes('--step=company-profiles'));
+  assert.ok(profileGeneration >= 0 && profileGeneration < profileHash);
+  assert.notEqual(ingest.jobs.ingest.steps[profileGeneration]['continue-on-error'], true);
   assert.deepEqual(recorded(workflow.jobs['refresh-events'].steps), ['events-runtime']);
 });
 

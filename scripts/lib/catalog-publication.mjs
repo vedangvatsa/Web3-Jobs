@@ -12,7 +12,33 @@ export const CATALOG_PATHS = {
 CATALOG_PATHS.jobs.push('content/company-profile-overrides.json', 'content/company-profile-editorial.json', 'content/company-profiles-runtime.json', 'content/company-branding.json', 'content/company-socials.json', 'content/company-logos-index.json');
 CATALOG_PATHS.jobs.push('content/sources/country-local-import.json', 'content/sources/hiring-links-636-import.json');
 const SHARED_MAPS = new Set(['content/prebuild-input-hashes.json', 'content/social-image-info.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'public/og/manifest.json', 'public/preview/.preview-manifest.json']);
+const PREVIEW_MANIFEST = 'public/preview/.preview-manifest.json';
 const RECEIPT = 'content/catalog-refresh-state.json';
+
+function eventPreviewPaths(cwd, base, jsonAt) {
+  const paths = new Set(['/events']);
+  const add = slug => { if (typeof slug === 'string' && /^[a-z0-9][a-z0-9_-]*$/i.test(slug)) paths.add(`/${slug}`); };
+  for (const file of ['content/events-runtime.json', 'content/event-slug-history.json', 'content/event-tombstones.json']) {
+    const absolute = path.join(cwd, file);
+    const versions = [jsonAt(base, file), fs.existsSync(absolute) ? JSON.parse(fs.readFileSync(absolute, 'utf8')) : undefined];
+    for (const version of versions) {
+      for (const record of Object.values(version || {})) {
+        add(record.slug);
+        for (const slug of [...(record.aliases || []), ...(record.slugs || [])]) add(slug);
+      }
+    }
+  }
+  return paths;
+}
+
+function scopePreviewManifest(base, local, paths) {
+  const scoped = { ...base };
+  for (const key of paths) {
+    if (Object.hasOwn(local, key)) scoped[key] = local[key];
+    else delete scoped[key];
+  }
+  return scoped;
+}
 
 export function mergeCatalogMap(base, local, remote, key = '') {
   if (isDeepStrictEqual(local, base)) return remote;
@@ -34,21 +60,31 @@ export async function publishCatalog({ kind, cwd = process.cwd(), attempts = 8, 
   if (!Object.hasOwn(CATALOG_PATHS, kind)) throw new Error('Unknown catalogue kind');
   const git = (args, options = {}) => execFileSync('git', args, { cwd, encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'], maxBuffer: 64 * 1024 * 1024, ...options }).trim();
   const base = git(['rev-parse', 'HEAD']);
+  const at = (ref, file) => { try { return git(['rev-parse', '--verify', `${ref}:${file}`]); } catch { return null; } };
+  const jsonAt = (ref, file) => { const blob = at(ref, file); return blob ? JSON.parse(git(['show', `${ref}:${file}`])) : undefined; };
+  const previewPaths = kind === 'events' ? eventPreviewPaths(cwd, base, jsonAt) : null;
   const paths = CATALOG_PATHS[kind];
-  const allowed = file => paths.some(scope => scope.endsWith('/') ? file.startsWith(scope) : file === scope);
+  const allowed = file => paths.some(scope => scope.endsWith('/') ? file.startsWith(scope) : file === scope)
+    && (!previewPaths || !file.startsWith('public/preview/') || file === PREVIEW_MANIFEST
+      || (file.endsWith('.html') && previewPaths.has(file.slice('public/preview'.length, -'.html'.length))));
   const names = args => git(args).split('\0').filter(Boolean);
   const files = [...new Set([...names(['diff', '--name-only', '-z', base]), ...names(['ls-files', '--others', '--exclude-standard', '-z'])])].filter(allowed);
+  if (previewPaths && files.includes(PREVIEW_MANIFEST) && !fs.existsSync(path.join(cwd, PREVIEW_MANIFEST))) {
+    throw new Error('Event publication cannot delete the shared preview manifest');
+  }
   const cache = path.join(cwd, '.cache/catalog-publication', kind);
   fs.mkdirSync(cache, { recursive: true });
   const temporary = fs.mkdtempSync(path.join(cache, 'index-'));
   const env = { ...process.env, GIT_INDEX_FILE: path.join(temporary, 'index'), GIT_AUTHOR_NAME: 'github-actions[bot]', GIT_AUTHOR_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com', GIT_COMMITTER_NAME: 'github-actions[bot]', GIT_COMMITTER_EMAIL: '41898282+github-actions[bot]@users.noreply.github.com' };
-  const at = (ref, file) => { try { return git(['rev-parse', '--verify', `${ref}:${file}`]); } catch { return null; } };
-  const jsonAt = (ref, file) => { const blob = at(ref, file); return blob ? JSON.parse(git(['show', `${ref}:${file}`])) : undefined; };
   const snapshot = files.map(file => {
     const absolute = path.join(cwd, file), old = at(base, file);
     if (!fs.existsSync(absolute)) return { file, old, blob: null };
     if (!fs.lstatSync(absolute).isFile()) throw new Error(`Refusing non-file catalogue output: ${file}`);
-    const raw = fs.readFileSync(absolute);
+    let raw = fs.readFileSync(absolute);
+    if (previewPaths && file === PREVIEW_MANIFEST) {
+      const scoped = scopePreviewManifest(jsonAt(base, file), JSON.parse(raw.toString()), previewPaths);
+      raw = Buffer.from(`${JSON.stringify(scoped)}\n`);
+    }
     const backup = path.join(cache, 'files', file);
     fs.mkdirSync(path.dirname(backup), { recursive: true }); fs.writeFileSync(backup, raw);
     return { file, old, blob: git(['hash-object', '-w', '--stdin'], { input: raw }), ...(SHARED_MAPS.has(file) ? { json: JSON.parse(raw.toString()) } : {}) };

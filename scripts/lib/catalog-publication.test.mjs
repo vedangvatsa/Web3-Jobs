@@ -15,6 +15,7 @@ function fixture(t) {
   const write = (directory, file, data) => { fs.mkdirSync(path.dirname(path.join(directory, file)), { recursive: true }); fs.writeFileSync(path.join(directory, file), data); };
   git(['init', '--bare', remote], root); git(['init', '--initial-branch=main', cwd], root);
   write(cwd, 'content/jobs-runtime.json', '["old"]');
+  write(cwd, 'content/events-runtime.json', '[{"id":"old-event","slug":"old"}]');
   write(cwd, 'content/news-research.json', '{}');
   write(cwd, 'content/prebuild-input-hashes.json', '{"version":1,"steps":{"jobs":{"inputHash":"old"},"events":{"inputHash":"old"}}}');
   write(cwd, 'public/og/jobs/old.png', 'old asset');
@@ -107,4 +108,71 @@ test('job publication retains original-date evidence and expiry indexes with ass
   assert.throws(() => git(['--git-dir', remote, 'show', 'main:public/og/jobs/old.png']));
   assert.throws(() => git(['--git-dir', remote, 'show', 'main:unrelated.json']));
   for (const name of ['content/sources/raw-response.json', 'content/sources/research-leads.csv']) assert.throws(() => git(['--git-dir', remote, 'show', `main:${name}`]));
+});
+
+test('event publication preserves concurrently refreshed job and company previews, including expired job deletions from its stale checkout', async t => {
+  const { cwd, remote, peer, git, write, run } = fixture(t);
+  const manifestPath = 'public/preview/.preview-manifest.json';
+  const baseManifest = { '/eng41': 'old-job', '/bitget': 'old-company', '/old': 'old-event', '/old-alias': 'old-alias', '/retired': 'old-retired', '/events': 'old-hub', __default__: 'old-default' };
+  write(cwd, manifestPath, JSON.stringify(baseManifest));
+  write(cwd, 'content/event-slug-history.json', '{"old-event":{"slug":"old","aliases":["old-alias"]}}');
+  write(cwd, 'content/event-tombstones.json', '{"retired-event":{"slugs":["retired"],"until":"2027-10-15T00:00:00Z"}}');
+  for (const slug of ['eng41', 'bitget', 'old', 'old-alias', 'retired', 'events', 'default']) write(cwd, `public/preview/${slug}.html`, `old ${slug}`);
+  git(['add', '.']); git(['commit', '-m', 'Shared preview fixture']); git(['push', 'origin', 'main']);
+  git(['pull', '--ff-only', 'origin', 'main'], peer);
+
+  write(cwd, 'content/events-runtime.json', '[{"id":"old-event","slug":"old","aliases":["new-alias"]}]');
+  write(cwd, manifestPath, JSON.stringify({ '/bitget': 'stale-company', '/old': 'new-event', '/new-alias': 'new-alias', '/events': 'new-hub', __default__: 'stale-default' }));
+  for (const slug of ['eng41', 'old-alias', 'retired']) fs.unlinkSync(path.join(cwd, `public/preview/${slug}.html`));
+  for (const slug of ['old', 'new-alias', 'events', 'bitget', 'default', 'unrelated']) write(cwd, `public/preview/${slug}.html`, `local ${slug}`);
+
+  const remoteManifest = { ...baseManifest, '/eng41': 'new-job', '/bitget': 'new-company', '/remote-story': 'remote-story', __default__: 'remote-default' };
+  write(peer, manifestPath, JSON.stringify(remoteManifest));
+  write(peer, 'public/preview/eng41.html', 'new job');
+  write(peer, 'public/preview/bitget.html', 'new company');
+  write(peer, 'public/preview/default.html', 'remote default');
+  write(peer, 'public/preview/remote-story.html', 'remote story');
+  git(['add', '.'], peer); git(['commit', '-m', 'Concurrent job previews'], peer); git(['push', 'origin', 'main'], peer);
+
+  await run({ kind: 'events' });
+  const published = JSON.parse(git(['--git-dir', remote, 'show', `main:${manifestPath}`]));
+  const expected = { ...remoteManifest, '/old': 'new-event', '/new-alias': 'new-alias', '/events': 'new-hub' };
+  delete expected['/old-alias']; delete expected['/retired'];
+  assert.deepEqual(published, expected);
+  assert.equal(git(['--git-dir', remote, 'show', 'main:public/preview/eng41.html']), 'new job');
+  assert.equal(git(['--git-dir', remote, 'show', 'main:public/preview/bitget.html']), 'new company');
+  assert.equal(git(['--git-dir', remote, 'show', 'main:public/preview/default.html']), 'remote default');
+  for (const slug of ['old', 'new-alias', 'events']) assert.equal(git(['--git-dir', remote, 'show', `main:public/preview/${slug}.html`]), `local ${slug}`);
+  for (const slug of ['old-alias', 'retired', 'unrelated']) assert.throws(() => git(['--git-dir', remote, 'show', `main:public/preview/${slug}.html`]));
+  assert.equal(fs.existsSync(path.join(cwd, 'public/preview/eng41.html')), false);
+  assert.equal(fs.readFileSync(path.join(cwd, 'public/preview/bitget.html'), 'utf8'), 'local bitget');
+});
+
+test('event preview scoping still rejects conflicting event fingerprints and HTML', async t => {
+  for (const file of ['public/preview/.preview-manifest.json', 'public/preview/old.html']) {
+    await t.test(file, async t => {
+      const { cwd, remote, peer, git, write, run } = fixture(t);
+      const data = value => file.endsWith('.json') ? JSON.stringify({ '/old': value }) : value;
+      write(cwd, file, data('base'));
+      git(['add', '.']); git(['commit', '-m', 'Event preview fixture']); git(['push', 'origin', 'main']);
+      git(['pull', '--ff-only', 'origin', 'main'], peer);
+      write(cwd, file, data('local'));
+      write(peer, file, data('remote'));
+      git(['add', '.'], peer); git(['commit', '-m', 'Concurrent event preview'], peer); git(['push', 'origin', 'main'], peer);
+      await assert.rejects(run({ kind: 'events' }), /Concurrent catalogue conflict|Newer main changed/);
+      assert.equal(git(['--git-dir', remote, 'show', `main:${file}`]), data('remote'));
+      assert.ok(fs.existsSync(path.join(cwd, '.cache/catalog-publication/events/snapshot.json')));
+    });
+  }
+});
+
+test('event publication cannot remove the shared preview manifest', async t => {
+  const { cwd, remote, git, write, run } = fixture(t);
+  const file = 'public/preview/.preview-manifest.json';
+  const manifest = JSON.stringify({ '/old': 'event', '/eng41': 'job', __default__: 'default' });
+  write(cwd, file, manifest);
+  git(['add', '.']); git(['commit', '-m', 'Shared manifest']); git(['push', 'origin', 'main']);
+  fs.unlinkSync(path.join(cwd, file));
+  await assert.rejects(run({ kind: 'events' }), /cannot delete the shared preview manifest/);
+  assert.equal(git(['--git-dir', remote, 'show', `main:${file}`]), manifest);
 });

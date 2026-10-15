@@ -1,0 +1,7 @@
+{
+  "paused": true,
+  "requestedAtUtc": "2026-10-15T10:11:52Z",
+  "requestedBy": "user",
+  "reason": "pause resend broadcasts untill i say further.",
+  "resumeRequires": "Explicit user instruction to resume Resend broadcasts. No automatic expiry."
+}

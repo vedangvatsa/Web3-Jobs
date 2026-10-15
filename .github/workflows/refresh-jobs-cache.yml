@@ -161,7 +161,7 @@ jobs:
 
   job-alerts:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
+    if: ${{ always() && vars.RESEND_BROADCASTS_PAUSED != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
@@ -597,6 +597,7 @@ jobs:
           NEWS_DUE: ${{ needs.gate.outputs.news }}
           WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
           ALERTS: ${{ needs.job-alerts.result }}
+          RESEND_BROADCASTS_PAUSED: ${{ vars.RESEND_BROADCASTS_PAUSED }}
           POSTS: ${{ needs.post-openings.result }}
           VIDEOS: ${{ needs.post-videos.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
@@ -624,7 +625,7 @@ jobs:
             echo "::warning::publish-news was $NEWS; news remains due independently."
             fail=1
           fi
-          if [ "$MORNING" = "true" ] && [ "$WEBSITE_RECOVERY" != "true" ] && [ "$ALERTS" != "success" ]; then
+          if [ "$MORNING" = "true" ] && [ "$WEBSITE_RECOVERY" != "true" ] && [ "$RESEND_BROADCASTS_PAUSED" != "true" ] && [ "$ALERTS" != "success" ]; then
             echo "::warning::job-alerts was $ALERTS."
             fail=1
           fi
