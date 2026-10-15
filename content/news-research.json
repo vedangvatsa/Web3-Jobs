@@ -41694,11 +41694,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "79d478743567526d0389",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:37:32.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "FTC subpoenas of OpenAI and Anthropic on consumer safety; AI-regulation story with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:52:14.156Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "7b70ae6802acae6a5a11": {
       "source": "Cointelegraph",
@@ -74946,6 +74951,13 @@
           "note": "Artists project on making money visible; culture piece with no crypto-asset event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:52:12.113Z"
+        },
+        "79d478743567526d0389": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "FTC subpoenas of OpenAI and Anthropic on consumer safety; AI-regulation story with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:52:14.156Z"
         }
       },
       "baselineSlugs": [
