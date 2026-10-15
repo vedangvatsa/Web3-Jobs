@@ -39604,11 +39604,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "90999d705a2c87614d7d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T01:21:52.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "verified-event",
+      "note": "Verified VanEck Oct 14 withdrawal of the Lido staked ether ETF registration across two outlets and the SEC filing; no reason given, no shares issued.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/vanecklidostakedethereumet.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:42:06.741Z",
+      "articleSlug": "vaneck-withdrawal",
+      "lastReviewedDay": "2026-10-15"
     },
     "72c1ff7dbeef19731ae6": {
       "source": "CryptoSlate",
@@ -73871,6 +73890,27 @@
           ],
           "reviewedAt": "2026-10-15T11:42:04.188Z",
           "articleSlug": "witt-exit"
+        },
+        "90999d705a2c87614d7d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified VanEck Oct 14 withdrawal of the Lido staked ether ETF registration across two outlets and the SEC filing; no reason given, no shares issued.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/vaneck-withdraws-lido-staked-ethereum-etf/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/vanecklidostakedethereumet.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:42:06.741Z",
+          "articleSlug": "vaneck-withdrawal"
         }
       },
       "baselineSlugs": [
