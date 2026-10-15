@@ -39387,11 +39387,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "a2e6429f3797eeab3814",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T10:54:08.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "missing-primary-source",
+      "note": "Read the CryptoBriefing piece; Oct 15 one-transaction staking from four L2s with CCIP plumbing. Lido announcement plus a second readable outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:59:34.584Z",
+      "retrySearches": [
+        "Lido direct staking announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "c508fffb47602c7c6a05": {
       "source": "The Defiant",
@@ -78274,6 +78292,25 @@
           "reviewedAt": "2026-10-15T11:59:32.571Z",
           "retrySearches": [
             "FSB G20 stablecoin note text second outlet"
+          ]
+        },
+        "a2e6429f3797eeab3814": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Read the CryptoBriefing piece; Oct 15 one-transaction staking from four L2s with CCIP plumbing. Lido announcement plus a second readable outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:34.584Z",
+          "retrySearches": [
+            "Lido direct staking announcement second outlet"
           ]
         }
       },
