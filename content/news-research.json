@@ -38662,23 +38662,23 @@
       "id": "bb59847c809ee22181b3",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T11:56:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; early-2027 tokenized share plan with Prometheum and Barr interview confirmed. Company release plus a second outlet still needed.",
+      "note": "Read the CoinDesk piece; Federated Hermes plans first onchain fund shares in early 2027 with Prometheum. Partner notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:06:54.142Z",
+      "reviewedAt": "2026-10-15T11:56:53.786Z",
       "retrySearches": [
-        "Federated Hermes tokenized fund shares release second outlet"
+        "Federated Hermes tokenized fund shares Prometheum notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "70a7368a909cafa0624d": {
       "source": "CoinDesk",
@@ -76825,6 +76825,21 @@
           "reviewedAt": "2026-10-15T11:56:51.827Z",
           "retrySearches": [
             "Starknet Shadow Accounts StarkWare docs second outlet"
+          ]
+        },
+        "bb59847c809ee22181b3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; Federated Hermes plans first onchain fund shares in early 2027 with Prometheum. Partner notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:53.786Z",
+          "retrySearches": [
+            "Federated Hermes tokenized fund shares Prometheum notice second outlet"
           ]
         }
       },
