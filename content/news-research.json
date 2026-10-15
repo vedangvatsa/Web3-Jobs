@@ -42762,11 +42762,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f45197e38821d52b30eb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T22:30:33.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece parsing the Coins.ph statement; no restoration date or service list given. Advisory text plus timeline confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:58:40.113Z",
+      "retrySearches": [
+        "Coins.ph advisory restoration timeline second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "abe33c9e985db1a9e48b": {
       "source": "Decrypt",
@@ -77736,6 +77750,21 @@
           "reviewedAt": "2026-10-15T11:58:38.130Z",
           "retrySearches": [
             "Coins.ph BSP order scope confirmation second outlet"
+          ]
+        },
+        "f45197e38821d52b30eb": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece parsing the Coins.ph statement; no restoration date or service list given. Advisory text plus timeline confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:58:40.113Z",
+          "retrySearches": [
+            "Coins.ph advisory restoration timeline second outlet"
           ]
         }
       },
