@@ -40136,11 +40136,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "30c14958c9dd3ee9897c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:00:07.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "price-chatter",
+      "note": "Opinion essay on AI-driven rally risks for workers; commentary, no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:49:30.288Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "3694e90b2371a9469542": {
       "source": "CoinDesk",
@@ -74274,6 +74279,13 @@
           "note": "Bitcoin price move tied to inflation print and Kospi circuit breaker; market commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:49:28.341Z"
+        },
+        "30c14958c9dd3ee9897c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Opinion essay on AI-driven rally risks for workers; commentary, no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:49:30.288Z"
         }
       },
       "baselineSlugs": [
