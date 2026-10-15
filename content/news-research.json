@@ -35018,23 +35018,23 @@
       "id": "868ad9e7fda75ddebe55",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T09:17:57.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Autheo exploit page blocked on re-attempt; bridge forensics and a readable second outlet still missing.",
+      "note": "Autheo exploit page blocked again in this run; bridge-exploit evidence and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-14T04:03:16.868Z",
+      "reviewedAt": "2026-10-15T11:54:02.108Z",
       "retrySearches": [
-        "Autheo THEO bridge exploit forensics second outlet"
+        "Autheo THEO bridge exploit Base evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "d1557a7dcfa39aa50265": {
       "source": "Chainwire",
@@ -75390,6 +75390,21 @@
           "reviewedAt": "2026-10-15T11:54:00.117Z",
           "retrySearches": [
             "FBI 17 billion scam centers West Africa raids report"
+          ]
+        },
+        "868ad9e7fda75ddebe55": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Autheo exploit page blocked again in this run; bridge-exploit evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:54:02.108Z",
+          "retrySearches": [
+            "Autheo THEO bridge exploit Base evidence second outlet"
           ]
         }
       },
