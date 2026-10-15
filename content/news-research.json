@@ -30599,23 +30599,23 @@
       "id": "04dabb7be0884b4be6a5",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-15T22:36:02.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; a routine recurring TIA transfer delay with trading unaffected. Coinbase status page plus a second outlet still needed.",
+      "note": "Read the CryptoBriefing piece; a recurring TIA transfer delay with trading unaffected. Coinbase status page plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:22.890Z",
+      "reviewedAt": "2026-10-15T11:56:25.516Z",
       "retrySearches": [
         "Coinbase Celestia transfer delay status page second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "5572ee93bde904b02d8e": {
       "source": "Crypto Briefing",
@@ -76615,6 +76615,21 @@
           "reviewedAt": "2026-10-15T11:56:23.441Z",
           "retrySearches": [
             "KuCoin 5.0 upgrade unified account announcement second outlet"
+          ]
+        },
+        "04dabb7be0884b4be6a5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; a recurring TIA transfer delay with trading unaffected. Coinbase status page plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:56:25.516Z",
+          "retrySearches": [
+            "Coinbase Celestia transfer delay status page second outlet"
           ]
         }
       },
