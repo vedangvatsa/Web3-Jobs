@@ -40842,11 +40842,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8cf2e25e2a9cc92881b0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:05:15.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "opinion",
+      "note": "Opinion column on gold and bitcoin portfolios; commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:05.874Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "b9b7c16a80af6d813269": {
       "source": "Decrypt",
@@ -74538,6 +74543,13 @@
           "note": "Opinion essay on power-grid costs for the digital economy; commentary without a concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:03.800Z"
+        },
+        "8cf2e25e2a9cc92881b0": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Opinion column on gold and bitcoin portfolios; commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:05.874Z"
         }
       },
       "baselineSlugs": [
