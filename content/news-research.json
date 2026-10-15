@@ -43108,11 +43108,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cba298d980238161967d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T15:47:18.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "source-blocked",
+      "note": "StanChart forecast Block page blocked again in this run; report and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-15T11:55:24.047Z",
+      "retrySearches": [
+        "Standard Chartered stablecoin forecast report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "a5297b67393fcae700c7": {
       "source": "CoinDesk",
@@ -76194,6 +76208,21 @@
           "reviewedAt": "2026-10-15T11:55:22.068Z",
           "retrySearches": [
             "Uniswap ETH USDC separate fees pool notice second outlet"
+          ]
+        },
+        "cba298d980238161967d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "StanChart forecast Block page blocked again in this run; report and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:55:24.047Z",
+          "retrySearches": [
+            "Standard Chartered stablecoin forecast report second outlet"
           ]
         }
       },
