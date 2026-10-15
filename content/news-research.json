@@ -42837,11 +42837,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c6b7e01b9b4f7129122",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T13:07:45.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "duplicate",
+      "note": "Same Payward-Saldo Bank acquisition event already drafted as saldo-bank in this batch; single draft covers all outlets.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:42:18.608Z",
+      "duplicateOf": "saldo-bank",
+      "mergedInto": "e88caed790e6bc8d1862",
+      "lastReviewedDay": "2026-10-15"
     },
     "89a7262ff37a34a16baa": {
       "source": "Cointelegraph",
@@ -73957,6 +73964,15 @@
           "note": "Same Payward-Saldo Bank acquisition event already drafted as saldo-bank in this batch; single draft covers all outlets.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:42:16.638Z",
+          "duplicateOf": "saldo-bank",
+          "mergedInto": "e88caed790e6bc8d1862"
+        },
+        "8c6b7e01b9b4f7129122": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Payward-Saldo Bank acquisition event already drafted as saldo-bank in this batch; single draft covers all outlets.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:42:18.608Z",
           "duplicateOf": "saldo-bank",
           "mergedInto": "e88caed790e6bc8d1862"
         }
