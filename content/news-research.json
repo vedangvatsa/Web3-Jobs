@@ -41726,11 +41726,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "40c1204cafa8f3330eaf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T09:32:13.000Z",
-      "lastSeenAt": "2026-10-15T11:31:34.799Z"
+      "lastSeenAt": "2026-10-15T11:31:34.799Z",
+      "reason": "out-of-scope",
+      "note": "Houthi missile attacks on Saudi airports; geopolitics with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-15T11:51:42.171Z",
+      "lastReviewedDay": "2026-10-15"
     },
     "66aefde5a8057938a6fc": {
       "source": "Crypto Briefing",
@@ -74754,6 +74759,13 @@
           "note": "Anthropic office and AI-oversight story; AI company news with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-15T11:51:40.231Z"
+        },
+        "40c1204cafa8f3330eaf": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Houthi missile attacks on Saudi airports; geopolitics with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-15T11:51:42.171Z"
         }
       },
       "baselineSlugs": [
