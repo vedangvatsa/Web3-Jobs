@@ -35468,23 +35468,23 @@
       "id": "3f87fa5ce83e2d11a731",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-16T18:20:02.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Lead reachable; the ENSv2 executable verified via the shared Unchained read. Vote date plus confirmation of this outlet account still needed.",
+      "note": "Read the CryptoSlate analysis; fee and migration terms reported with DAO approval pending. Vote record plus launch-date confirmation still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/ethereum-name-service-team-asks-dao-to-switch-on-ensv2-and-freeze-new-eth-sign-ups-on-v1/",
+          "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-14T04:00:51.952Z",
+      "reviewedAt": "2026-10-15T11:59:26.436Z",
       "retrySearches": [
-        "ENS ENSv2 overhaul vote date CryptoSlate confirmation"
+        "ENSv2 vote record launch date second outlet"
       ],
-      "lastReviewedDay": "2026-10-14",
-      "nextReviewDate": "2026-10-15"
+      "lastReviewedDay": "2026-10-15",
+      "nextReviewDate": "2026-10-16"
     },
     "e611ef9e08fc6de725a6": {
       "source": "Decrypt",
@@ -78214,6 +78214,21 @@
           "reviewedAt": "2026-10-15T11:59:24.318Z",
           "retrySearches": [
             "ENSv2 activation DAO vote date second outlet"
+          ]
+        },
+        "3f87fa5ce83e2d11a731": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate analysis; fee and migration terms reported with DAO approval pending. Vote record plus launch-date confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-15T11:59:26.436Z",
+          "retrySearches": [
+            "ENSv2 vote record launch date second outlet"
           ]
         }
       },
