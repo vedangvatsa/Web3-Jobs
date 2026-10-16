@@ -44922,11 +44922,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f16a5ac75e4bf7e1da1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:28:50.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Decrypt piece on the Mastercard-BVNK Global Money Platform. Company notices plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:24.986Z",
+      "retrySearches": [
+        "Mastercard BVNK Global Money Platform stablecoin announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1b54d32806ecaf004e81": {
       "source": "The Block",
@@ -85039,6 +85053,21 @@
           "reviewedAt": "2026-10-16T03:57:22.648Z",
           "retrySearches": [
             "South Korea 27 exchanges block KuCoin BitMart regulator notice"
+          ]
+        },
+        "2f16a5ac75e4bf7e1da1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on the Mastercard-BVNK Global Money Platform. Company notices plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:24.986Z",
+          "retrySearches": [
+            "Mastercard BVNK Global Money Platform stablecoin announcement"
           ]
         }
       },
