@@ -40192,25 +40192,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "8cc48719b25d5482c8f2",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T11:09:32.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; $1B bStocks AUM and $40B volume are exchange-reported Dune figures. Dune data plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/binance-bstocks-surpasses-1-billion-aum/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:57:12.586Z",
+      "reason": "promotional",
+      "note": "Binance bStocks crossing 1 billion in assets; company-reported milestone marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:41:54.472Z",
       "retrySearches": [
         "Binance bStocks AUM Dune data second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "cec269b920ee656024db": {
       "source": "Unchained",
@@ -82939,6 +82933,13 @@
           "note": "Arkham Visualizer 2.0 product update; single-source product marketing without independent verification.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:41:52.173Z"
+        },
+        "8cc48719b25d5482c8f2": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Binance bStocks crossing 1 billion in assets; company-reported milestone marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:41:54.472Z"
         }
       },
       "baselineSlugs": [
