@@ -42948,23 +42948,23 @@
       "id": "ff41bd56820b278a6ccd",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T20:56:22.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; CCI and BA join the Digital Chamber tax case for expedited judgment. Court filing plus merits-timeline confirmation still needed.",
+      "note": "Opened the Cointelegraph piece on the court push after the pause. Court filing plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:25.222Z",
+      "reviewedAt": "2026-10-16T04:00:11.833Z",
       "retrySearches": [
-        "Illinois crypto tax CCI filing merits timeline second outlet"
+        "Illinois crypto tax lawsuit CCI expedite court filing"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a3bdf59061251c92a93a": {
       "source": "The Defiant",
@@ -86421,6 +86421,21 @@
           "reviewedAt": "2026-10-16T04:00:09.356Z",
           "retrySearches": [
             "Mastercard BVNK stablecoin balances banking cards announcement"
+          ]
+        },
+        "ff41bd56820b278a6ccd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on the court push after the pause. Court filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T04:00:11.833Z",
+          "retrySearches": [
+            "Illinois crypto tax lawsuit CCI expedite court filing"
           ]
         }
       },
