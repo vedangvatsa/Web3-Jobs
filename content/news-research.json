@@ -43607,23 +43607,23 @@
       "id": "a5297b67393fcae700c7",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T15:35:36.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece on the same 138M agent payments with US-dominance figures. Chainalysis report plus methodology confirmation still needed.",
+      "note": "Opened the CoinDesk piece on 138M agent payments and US AI spending. Report plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:22.223Z",
+      "reviewedAt": "2026-10-16T03:58:53.019Z",
       "retrySearches": [
-        "Chainalysis x402 payments methodology second outlet"
+        "AI agents crypto payments 138 million report US spending"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "4c6b6e77855a6766796f": {
       "source": "The Block",
@@ -85731,6 +85731,21 @@
           "reviewedAt": "2026-10-16T03:58:50.616Z",
           "retrySearches": [
             "Lido direct ETH staking Arbitrum Base Linea Optimism announcement"
+          ]
+        },
+        "a5297b67393fcae700c7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece on 138M agent payments and US AI spending. Report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:53.019Z",
+          "retrySearches": [
+            "AI agents crypto payments 138 million report US spending"
           ]
         }
       },
