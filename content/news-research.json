@@ -40856,23 +40856,23 @@
       "id": "5a1f68cae2407821f2ac",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T19:03:52.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; EBA names USDC the first significant e-money token under MiCA. EBA notice plus reserve-split confirmation still needed.",
+      "note": "Opened the Cointelegraph piece; USDC named first significant e-money token. EBA decision plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:00.819Z",
+      "reviewedAt": "2026-10-16T03:58:01.768Z",
       "retrySearches": [
-        "EBA USDC significant token notice reserve split second outlet"
+        "EBA Circle USDC significant e-money token decision"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "323315298a1576ef8c33": {
       "source": "The Block",
@@ -85363,6 +85363,21 @@
           "reviewedAt": "2026-10-16T03:57:59.403Z",
           "retrySearches": [
             "Binance.US 1 billion valuation 100M funding confirmation"
+          ]
+        },
+        "5a1f68cae2407821f2ac": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece; USDC named first significant e-money token. EBA decision plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:01.768Z",
+          "retrySearches": [
+            "EBA Circle USDC significant e-money token decision"
           ]
         }
       },
