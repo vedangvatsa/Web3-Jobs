@@ -12824,7 +12824,8 @@
         "description": "Join Anchorage Digital as Member of Custody Operations, Digi. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "f4ae008d-f089-4b4d-8983-bcd764aca8da",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxyicbnzxv26"
     }
   ]
 }
