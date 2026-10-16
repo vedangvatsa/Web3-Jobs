@@ -12657,9 +12657,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "4acb150c-b37f-45a0-8637-1a3a47000b05",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad20bb725d13dd62ee376ae",
-      "error": "LinkedIn CVin.Bio receipt 6ad20bb725d13dd62ee376ae remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad20bb725d13dd62ee376ae remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7516823914937958400"
     },
     {
       "slug": "pm269",
