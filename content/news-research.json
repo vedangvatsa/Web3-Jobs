@@ -38963,23 +38963,23 @@
       "id": "8c16cfa28b8844e65e60",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T06:59:06.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Sanctioned-A7 page blocked again in this run; primary evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; sanctions-record check plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:46.357Z",
+      "reviewedAt": "2026-10-16T03:53:48.641Z",
       "retrySearches": [
-        "Sanctioned A7 USDT SWIFT service evidence second outlet"
+        "A7 USDT SWIFT payment service sanctions second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "9fffb4e8aa87cd8b09f0": {
       "source": "The Defiant",
@@ -83435,6 +83435,21 @@
           "reviewedAt": "2026-10-16T03:53:46.316Z",
           "retrySearches": [
             "UK crypto trader knifepoint robbery police report second outlet"
+          ]
+        },
+        "8c16cfa28b8844e65e60": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; sanctions-record check plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:53:48.641Z",
+          "retrySearches": [
+            "A7 USDT SWIFT payment service sanctions second outlet"
           ]
         }
       },
