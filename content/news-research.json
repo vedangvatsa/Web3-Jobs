@@ -43648,25 +43648,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "cba298d980238161967d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T15:47:18.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "source-blocked",
-      "note": "StanChart forecast Block page blocked again in this run; report and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:55:24.047Z",
+      "reason": "not-a-concrete-event",
+      "note": "Standard Chartered pushing a 2 trillion stablecoin forecast to 2030; analyst prediction, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:42:15.828Z",
       "retrySearches": [
         "Standard Chartered stablecoin forecast report second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "a5297b67393fcae700c7": {
       "source": "CoinDesk",
@@ -82956,6 +82950,13 @@
           "note": "Explainer on what is confirmed in Ledger tampering; roundup explainer, not a new concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:42:06.336Z"
+        },
+        "cba298d980238161967d": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Standard Chartered pushing a 2 trillion stablecoin forecast to 2030; analyst prediction, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:42:15.828Z"
         }
       },
       "baselineSlugs": [
