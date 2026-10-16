@@ -15213,6 +15213,48 @@
       "verification": "pending",
       "postId": "6ad27d2d5720e82b418df530",
       "error": "LinkedIn CVin.Bio receipt 6ad27d2d5720e82b418df530 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "dev29",
+      "company": "Alchemy",
+      "title": "Senior Software Engineer, Developer Experience",
+      "platform": "linkedin",
+      "postedAt": "2026-10-16T19:36:22.637Z",
+      "expectedText": "Alchemy is hiring Senior Software Engineer, Developer Experience: https://hashtagweb3.com/dev29/li?og=7",
+      "snapshot": {
+        "id": "fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "title": "Senior Software Engineer, Developer Experience",
+        "company": "Alchemy",
+        "link": "https://jobs.ashbyhq.com/alchemy/fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "date": "2026-10-09T18:11:40.726+00:00",
+        "source": "Ashby: Alchemy [alchemy]",
+        "location": "Hybrid (San Francisco)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev29"
+      },
+      "payload": {
+        "text": "Alchemy is hiring Senior Software Engineer, Developer Experience: https://hashtagweb3.com/dev29/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dev29/li?og=7",
+          "title": "Senior Software Engineer, Developer Experience at Alchemy",
+          "description": "Join Alchemy as Senior Software Engineer, Develope. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dev29.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "249bfad3-2edb-44a6-9ee9-44411295a654",
+      "verification": "creating"
     }
   ]
 }
