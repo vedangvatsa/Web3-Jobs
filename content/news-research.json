@@ -38544,23 +38544,23 @@
       "id": "bb59847c809ee22181b3",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T11:56:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Federated Hermes plans first onchain fund shares in early 2027 with Prometheum. Partner notice plus a second outlet still needed.",
+      "note": "Opened the CoinDesk piece on first onchain fund shares planned for 2027. Company notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:53.786Z",
+      "reviewedAt": "2026-10-16T03:59:04.533Z",
       "retrySearches": [
-        "Federated Hermes tokenized fund shares Prometheum notice second outlet"
+        "Federated Hermes tokenized fund shares 2027 announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "70a7368a909cafa0624d": {
       "source": "CoinDesk",
@@ -85812,6 +85812,21 @@
           "reviewedAt": "2026-10-16T03:59:02.238Z",
           "retrySearches": [
             "Polygon Coinme acquisition 37 money transmitter licenses announcement"
+          ]
+        },
+        "bb59847c809ee22181b3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece on first onchain fund shares planned for 2027. Company notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:04.533Z",
+          "retrySearches": [
+            "Federated Hermes tokenized fund shares 2027 announcement"
           ]
         }
       },
