@@ -42580,23 +42580,23 @@
       "id": "7775d94031a98b2262f8",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T06:30:14.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; USDC splits reserves with a Nov 12 EBA handover. Circle white paper plus a second outlet still needed.",
+      "note": "Opened the CryptoSlate piece on the Nov 12 reserve handover. EBA notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:02.900Z",
+      "reviewedAt": "2026-10-16T03:58:22.497Z",
       "retrySearches": [
-        "USDC EBA November 12 handover Circle white paper second outlet"
+        "USDC EBA supervision November 12 reserves handover Circle"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "4728b3fdc2b6c9d149d5": {
       "source": "Cointelegraph",
@@ -85526,6 +85526,21 @@
           "reviewedAt": "2026-10-16T03:58:20.211Z",
           "retrySearches": [
             "Qivalis EMI authorization Dutch central bank euro stablecoin"
+          ]
+        },
+        "7775d94031a98b2262f8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on the Nov 12 reserve handover. EBA notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:22.497Z",
+          "retrySearches": [
+            "USDC EBA supervision November 12 reserves handover Circle"
           ]
         }
       },
