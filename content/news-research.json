@@ -39979,25 +39979,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d791f7a15f5dd38a0a73",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:01:21.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Decrypt piece; Brooklyn DA and FBI disrupted 112 servers and 241 domains in a Russian-speaker scam probe. DA release plus domain-inventory confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:31.438Z",
+      "reason": "duplicate",
+      "note": "Same Brooklyn 112-server Russian-speaker scam takedown as covered in /brooklyn.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:52:26.480Z",
       "retrySearches": [
         "Brooklyn DA 112 servers scam DA release inventory second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "brooklyn",
+      "mergedInto": "4c9fccd65ca7115a6f14"
     },
     "0a9a9d7cdae467ab8072": {
       "source": "Cointelegraph",
@@ -83399,6 +83395,15 @@
           ],
           "reviewedAt": "2026-10-16T03:52:20.322Z",
           "articleSlug": "brooklyn"
+        },
+        "d791f7a15f5dd38a0a73": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Brooklyn 112-server Russian-speaker scam takedown as covered in /brooklyn.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:52:26.480Z",
+          "duplicateOf": "brooklyn",
+          "mergedInto": "4c9fccd65ca7115a6f14"
         }
       },
       "baselineSlugs": [
