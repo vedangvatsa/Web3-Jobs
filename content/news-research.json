@@ -42911,23 +42911,23 @@
       "id": "a518eb9bd5236b75fd3c",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T21:20:09.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Algorand resignations page blocked again in this run; company notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Algorand statement plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:49.263Z",
+      "reviewedAt": "2026-10-16T03:55:29.016Z",
       "retrySearches": [
-        "Algorand marketing chief resignation notice second outlet"
+        "Algorand marketing chief resignation CEO CTO departures statement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "7a1b878d8c69bfa86f56": {
       "source": "Decrypt",
@@ -84080,6 +84080,21 @@
           "reviewedAt": "2026-10-16T03:55:26.813Z",
           "retrySearches": [
             "Specter ProveX ETH inflows Heart-linked funds report"
+          ]
+        },
+        "a518eb9bd5236b75fd3c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Algorand statement plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:29.016Z",
+          "retrySearches": [
+            "Algorand marketing chief resignation CEO CTO departures statement"
           ]
         }
       },
