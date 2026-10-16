@@ -58,10 +58,13 @@
         },
         {
           "index": 4,
-          "status": "accepted",
+          "status": "verified",
           "startedAt": "2026-10-16T21:54:01.531Z",
           "containerId": "18097382924199925",
-          "postId": "18021317708930773"
+          "postId": "18021317708930773",
+          "permalink": "https://www.threads.com/@hashtagweb3/post/Deki5FtgU4d",
+          "verifiedAt": "2026-10-16T21:54:20.791Z",
+          "replyTo": "18133217161665730"
         }
       ]
     }
