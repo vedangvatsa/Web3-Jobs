@@ -44961,11 +44961,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "53064bdff4f3266a49a5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T02:36:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Yield-versus-Bitcoin correlation musing; price chatter without a concrete verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:57.907Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "508bbe386b313e8734fd": {
       "source": "Crypto Briefing",
@@ -82288,6 +82293,13 @@
           "note": "XRP exchange-wallet inflow framed against price slip; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:55.636Z"
+        },
+        "53064bdff4f3266a49a5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Yield-versus-Bitcoin correlation musing; price chatter without a concrete verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:57.907Z"
         }
       },
       "baselineSlugs": [
