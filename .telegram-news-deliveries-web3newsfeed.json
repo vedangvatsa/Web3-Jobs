@@ -1593,7 +1593,7 @@
     "sentAt": "2026-10-16T11:34:01.731Z"
   },
   "3a59dc13-0843-42dd-afa4-6b4639c9beba": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T19:34:45.225Z",
     "stories": [
       {
@@ -1621,6 +1621,8 @@
         "originalTitle": "Payward agrees to buy Saldo Bank for EU banking license"
       }
     ],
-    "slotKey": "2026-10-16:evening"
+    "slotKey": "2026-10-16:evening",
+    "messageId": 65756,
+    "sentAt": "2026-10-16T19:36:11.462Z"
   }
 }
