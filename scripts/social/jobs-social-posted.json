@@ -13385,6 +13385,46 @@
       "attemptId": "aa6d54d1-4fbd-4e83-a41e-9f4c99ea3020",
       "verification": "verified",
       "postId": "0x424c47b086ce3e4d38f45c26fcfa2e40fcc04919"
+    },
+    {
+      "slug": "ops40",
+      "company": "Anchorage Digital",
+      "title": "Member of Custody Operations, Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-16T11:35:04.863Z",
+      "expectedText": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/li?og=7",
+      "snapshot": {
+        "id": "3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "title": "Member of Custody Operations, Digital Assets",
+        "company": "Anchorage Digital",
+        "link": "https://jobs.lever.co/anchorage/3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "date": "2026-09-22T13:32:12.406Z",
+        "source": "Lever: Anchorage Digital [anchorage]",
+        "location": "Remote (United States)",
+        "workplaceType": "remote",
+        "department": "Global Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops40"
+      },
+      "payload": {
+        "text": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops40/li?og=7",
+          "title": "Member of Custody Operations, Digital Assets at Anchorage Digital",
+          "description": "Join Anchorage Digital as Member of Custody Operations, Digi. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops40.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "273dedeb-de88-4cfb-a80c-c94cd86fcfa4",
+      "verification": "creating"
     }
   ]
 }
