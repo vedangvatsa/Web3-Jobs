@@ -47222,11 +47222,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7982013c7666ef1e5bdb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:40:17.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Ledger implant response and reseller fallout as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:50:06.832Z",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95",
+      "lastReviewedDay": "2026-10-16"
     },
     "cdb0bcb4c6c3fea81f65": {
       "source": "The Defiant",
@@ -83343,6 +83350,15 @@
           "note": "BitFuFu and Finloop hashrate-token product launch; single-source product marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:50:04.475Z"
+        },
+        "7982013c7666ef1e5bdb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger implant response and reseller fallout as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:50:06.832Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
         }
       },
       "baselineSlugs": [
