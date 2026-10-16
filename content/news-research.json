@@ -44887,11 +44887,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e34c70066528987887bd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:38:38.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on the 39.8M ARRR mint and rollback plan. Team statement plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/pirate-chain-exploit-arrr-rollback/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:41.699Z",
+      "retrySearches": [
+        "Pirate Chain ARRR exploit rollback team statement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1dd703b984701cf2cbc0": {
       "source": "The Defiant",
@@ -86146,6 +86160,21 @@
           "reviewedAt": "2026-10-16T03:59:39.408Z",
           "retrySearches": [
             "Trump CFTC Hyperliquid US market integration remarks"
+          ]
+        },
+        "e34c70066528987887bd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on the 39.8M ARRR mint and rollback plan. Team statement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/pirate-chain-exploit-arrr-rollback/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:41.699Z",
+          "retrySearches": [
+            "Pirate Chain ARRR exploit rollback team statement"
           ]
         }
       },
