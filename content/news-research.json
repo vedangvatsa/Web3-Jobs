@@ -45169,11 +45169,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e51a9375f41b62a8e624",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T18:28:34.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Report summary on US bitcoin accumulation and dollar dominance; analytical roundup, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:54.445Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "74f6e589f5f2fe265538": {
       "source": "Decrypt",
@@ -82540,6 +82545,13 @@
           "note": "Analysis that two firms dominate corporate bitcoin buys; research observation, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:52.113Z"
+        },
+        "e51a9375f41b62a8e624": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Report summary on US bitcoin accumulation and dollar dominance; analytical roundup, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:54.445Z"
         }
       },
       "baselineSlugs": [
