@@ -44341,11 +44341,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1950b19fe78af4d37979",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:39:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Defiant page text; 5M penalty paid with injunction and non-denial limits intact. Court order plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:15.846Z",
+      "retrySearches": [
+        "Gemini CFTC $5 million settlement judge order vacate denial"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "92385a42a0f0356abb13": {
       "source": "Crypto Briefing",
@@ -84951,6 +84965,21 @@
           "reviewedAt": "2026-10-16T03:57:13.553Z",
           "retrySearches": [
             "Ledger supply chain 60 BTC scammer wallet onchain"
+          ]
+        },
+        "1950b19fe78af4d37979": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Defiant page text; 5M penalty paid with injunction and non-denial limits intact. Court order plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:15.846Z",
+          "retrySearches": [
+            "Gemini CFTC $5 million settlement judge order vacate denial"
           ]
         }
       },
