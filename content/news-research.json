@@ -47125,11 +47125,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7ad1ec9ad2d0c878763",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T17:08:03.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Defiant page text on self-custody withdrawal bars. Central bank text plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:25.364Z",
+      "retrySearches": [
+        "Russia self-custody withdrawals regulated accounts ban"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a82f5304a32cecac9271": {
       "source": "Cointelegraph",
@@ -85971,6 +85985,21 @@
           "reviewedAt": "2026-10-16T03:59:23.086Z",
           "retrySearches": [
             "Russia peer-to-peer bitcoin trading ban central bank confirms"
+          ]
+        },
+        "d7ad1ec9ad2d0c878763": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Defiant page text on self-custody withdrawal bars. Central bank text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:25.364Z",
+          "retrySearches": [
+            "Russia self-custody withdrawals regulated accounts ban"
           ]
         }
       },
