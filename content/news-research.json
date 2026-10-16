@@ -47259,11 +47259,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cdb0bcb4c6c3fea81f65",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:38:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Safe notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:55.990Z",
+      "retrySearches": [
+        "Safe Safenet Aegis security network launch announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "4b6f6a936b2a5ed38e20": {
       "source": "Bitcoin Magazine",
@@ -84330,6 +84344,21 @@
           "reviewedAt": "2026-10-16T03:55:53.645Z",
           "retrySearches": [
             "Stripe Plasma multi-currency stablecoin cards announcement"
+          ]
+        },
+        "cdb0bcb4c6c3fea81f65": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Safe notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:55.990Z",
+          "retrySearches": [
+            "Safe Safenet Aegis security network launch announcement"
           ]
         }
       },
