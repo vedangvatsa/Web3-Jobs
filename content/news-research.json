@@ -47640,11 +47640,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "db78d3d8bdcb3fc1fa06",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:16:55.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece on the $200M ATM for TRX buys. SEC filing plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:32.426Z",
+      "retrySearches": [
+        "Tron 200M ATM offering TRX acquisitions SEC filing"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "99c2eae6538e57bb0124": {
       "source": "Unchained",
@@ -86030,6 +86044,21 @@
           "reviewedAt": "2026-10-16T03:59:30.162Z",
           "retrySearches": [
             "Starknet Shadow Accounts STRK20 launch docs Vesu"
+          ]
+        },
+        "db78d3d8bdcb3fc1fa06": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on the $200M ATM for TRX buys. SEC filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:32.426Z",
+          "retrySearches": [
+            "Tron 200M ATM offering TRX acquisitions SEC filing"
           ]
         }
       },
