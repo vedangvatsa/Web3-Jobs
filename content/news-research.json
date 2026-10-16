@@ -39087,23 +39087,23 @@
       "id": "627591d0728987efa33f",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T04:40:28.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Qivalis won DNB EMI authorization but the token is not live. DNB register entry plus a second outlet still needed.",
+      "note": "Opened the CryptoSlate piece; EMI granted but MiCA blocks launch. DNB record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:05.054Z",
+      "reviewedAt": "2026-10-16T03:58:11.027Z",
       "retrySearches": [
-        "Qivalis DNB EMI register token launch second outlet"
+        "Qivalis Dutch EMI MiCA euro stablecoin DNB"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "159037f1413ade874446": {
       "source": "Cointelegraph",
@@ -85451,6 +85451,21 @@
           "reviewedAt": "2026-10-16T03:58:08.602Z",
           "retrySearches": [
             "Hyperliquid Jeff Yan US compliance operators not chain remarks"
+          ]
+        },
+        "627591d0728987efa33f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece; EMI granted but MiCA blocks launch. DNB record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:11.027Z",
+          "retrySearches": [
+            "Qivalis Dutch EMI MiCA euro stablecoin DNB"
           ]
         }
       },
