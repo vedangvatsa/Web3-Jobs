@@ -12,6 +12,11 @@
       "verifiedAt": "2026-10-16T21:47:22.245Z",
       "threadCount": 7,
       "imageCount": 7
+    },
+    "threads": {
+      "status": "started",
+      "startedAt": "2026-10-16T21:47:23.789Z",
+      "posts": []
     }
   }
 }
