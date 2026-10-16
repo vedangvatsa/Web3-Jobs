@@ -46609,11 +46609,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1e1d9b7e1618dd01579",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T19:29:39.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "promotional",
+      "note": "Rakuten physical SHIB coin giveaway; marketing promotion, not a verifiable concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:41:48.176Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "857aff714f94618e8c4d": {
       "source": "BeInCrypto",
@@ -82926,6 +82931,13 @@
           "note": "US wholesale inflation at 6.3 percent with bitcoin slip; macro data, not a Web3 concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:33.544Z"
+        },
+        "d1e1d9b7e1618dd01579": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Rakuten physical SHIB coin giveaway; marketing promotion, not a verifiable concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:41:48.176Z"
         }
       },
       "baselineSlugs": [
