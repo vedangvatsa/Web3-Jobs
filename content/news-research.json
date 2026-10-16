@@ -46642,11 +46642,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f1524aa2610fcaa70d2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T17:36:05.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Google statement on AI-written code share; AI industry story, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:42.643Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "23342593d5d3baddac13": {
       "source": "The Defiant",
@@ -82661,6 +82666,13 @@
           "note": "Iran central bank on inflation and rial claims; monetary politics, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:40.483Z"
+        },
+        "5f1524aa2610fcaa70d2": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google statement on AI-written code share; AI industry story, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:42.643Z"
         }
       },
       "baselineSlugs": [
