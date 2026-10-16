@@ -12613,7 +12613,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7fdd1c46-bad6-4d49-bd75-1bc63da4e473",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad20ba41ffe4709802992e4"
     }
   ]
 }
