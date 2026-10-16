@@ -1527,7 +1527,7 @@
     "sentAt": "2026-10-16T11:34:08.990Z"
   },
   "a4fd6cfc-4e4c-4695-bad1-0c76b4cf07c5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T19:33:49.221Z",
     "stories": [
       {
@@ -1555,6 +1555,8 @@
         "originalTitle": "Network School Acquires Farcaster From Neynar"
       }
     ],
-    "slotKey": "2026-10-16:evening"
+    "slotKey": "2026-10-16:evening",
+    "messageId": 155791,
+    "sentAt": "2026-10-16T19:33:56.798Z"
   }
 }

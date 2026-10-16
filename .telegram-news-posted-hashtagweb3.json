@@ -746,6 +746,9 @@
   "https://hashtagweb3.com/brooklyn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/msci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/starknet-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/atom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nsfarcaster?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2146,6 +2149,11 @@
   "MSCI adopts rules that could oust Strategy from indexes",
   "Starknet polls token holders on becoming an independent network",
   "Starknet opens vote on becoming an independent layer 1",
+  "Ledger to release $849 Atom Android device in 2027",
+  "Ledger unveils $849 Atom device with Solana Seeker app",
+  "Trezor ends reseller deals as Ledger pauses regional sales",
+  "Trezor cuts resellers as Ledger halts sales in seven markets",
+  "Network School Acquires Farcaster From Neynar",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2442,5 +2450,8 @@
   "fp:asset|custody|etf|fee|fil|firm|gemini|nasdaq|percent|servic",
   "fp:000|300|aim|and112|brooklyn|dismantl|domain|down|fraud|investment",
   "fp:adopt|affect|effect|expect|final|firm|global|index|list|may",
-  "fp:are|becom|blockchain|holder|independent|layer1|network|october22|open|poll"
+  "fp:are|becom|blockchain|holder|independent|layer1|network|october22|open|poll",
+  "fp:849|android|app|application|atom|com|devic|edition|founder|in2027",
+  "fp:asian|authorization|cut|dur|end|halt|in2027|investigation|ledger|market",
+  "fp:accept|acquir|buyer|client|farcaster|keep|must|network|neynar|open"
 ]
