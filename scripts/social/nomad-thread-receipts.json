@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "campaign": "nomad-resources-2026-10-16",
+  "contentDigest": "358a34eb68f32596e6bd53298319e3cd0ba96ee6b1d29a71ecffe5e04b58880d",
+  "assetCommit": "2b70f55cf6473a6415ec7326a0dea615fc6da491",
+  "platforms": {
+    "x": {
+      "status": "claimed",
+      "startedAt": "2026-10-16T21:47:15.151Z"
+    }
+  }
+}
