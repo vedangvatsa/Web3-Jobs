@@ -44815,11 +44815,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "07e0c945e140dca48493",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:03:27.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Brooklyn DA crypto scam network takedown as covered in /brooklyn.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:52:29.090Z",
+      "duplicateOf": "brooklyn",
+      "mergedInto": "4c9fccd65ca7115a6f14",
+      "lastReviewedDay": "2026-10-16"
     },
     "decf5764a15e13d3aaca": {
       "source": "CryptoSlate",
@@ -83402,6 +83409,15 @@
           "note": "Same Brooklyn 112-server Russian-speaker scam takedown as covered in /brooklyn.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:52:26.480Z",
+          "duplicateOf": "brooklyn",
+          "mergedInto": "4c9fccd65ca7115a6f14"
+        },
+        "07e0c945e140dca48493": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Brooklyn DA crypto scam network takedown as covered in /brooklyn.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:52:29.090Z",
           "duplicateOf": "brooklyn",
           "mergedInto": "4c9fccd65ca7115a6f14"
         }
