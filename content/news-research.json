@@ -45431,11 +45431,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1612f45e7a2918f3084",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:01:06.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Bitwise CIO arguing bitcoin wins whether AI booms or busts; pundit opinion, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:25.069Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "fd96a989a69c39b0cbfb": {
       "source": "The Defiant",
@@ -82384,6 +82389,13 @@
           "note": "Analytical question-piece on Strategy STRC buyback cash; speculation without a new concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:22.790Z"
+        },
+        "e1612f45e7a2918f3084": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitwise CIO arguing bitcoin wins whether AI booms or busts; pundit opinion, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:25.069Z"
         }
       },
       "baselineSlugs": [
