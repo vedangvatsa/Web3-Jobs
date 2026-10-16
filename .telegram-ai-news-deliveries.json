@@ -1495,5 +1495,36 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 193353,
     "sentAt": "2026-10-15T19:32:17.108Z"
+  },
+  "d1546ef4-2db0-4940-8f3c-f192a3c0ff20": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:23:51.750Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "MyFitnessPal acquires Cal AI after $30 million revenue growth",
+        "summary": "The startup used influencer marketing to reach $30 million in revenue before its sale for an undisclosed amount.",
+        "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "source": "TechCrunch",
+        "originalTitle": "When it came to Cal AI’s viral success, a small army of influencers paid off"
+      },
+      {
+        "index": 3,
+        "headline": "Amazon executive predicts AI devices will replace mobile apps",
+        "summary": "Panos Panay envisions background AI that anticipates user needs without requiring manual input through individual applications.",
+        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+        "source": "TechCrunch",
+        "originalTitle": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps"
+      },
+      {
+        "index": 5,
+        "headline": "Rivian to integrate AI agents into vehicles",
+        "summary": "The company plans to share details about this technology during its December AI and Autonomy Day event.",
+        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "source": "TechCrunch",
+        "originalTitle": "AI agents are coming to Rivian’s cars"
+      }
+    ],
+    "slotKey": "2026-10-16:morning"
   }
 }
