@@ -47243,11 +47243,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9e26c4e4ee35d7a9f2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:32:21.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "verified-event",
+      "note": "Verified 49 Founder Edition, summer 2027 ship, Solana Seeker preinstall in the official release, Solana post and Decrypt report.",
+      "sourceChecks": [
+        {
+          "url": "https://via.ritzau.dk/pressemeddelelse/15227061/introducing-ledger-atomtmeverything-you-value-finally-secure?lang=en",
+          "outcome": "read"
+        },
+        {
+          "url": "https://solanamobile.com/blog/solana-mobile-announces-ledger-as-its-first-hardware-expansion-partner",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:47:35.508Z",
+      "articleSlug": "atom",
+      "lastReviewedDay": "2026-10-16"
     },
     "38a4cef8d0d0fd1d2ad4": {
       "source": "Bitcoin Magazine",
@@ -82957,6 +82976,27 @@
           "note": "Standard Chartered pushing a 2 trillion stablecoin forecast to 2030; analyst prediction, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:42:15.828Z"
+        },
+        "6e9e26c4e4ee35d7a9f2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 49 Founder Edition, summer 2027 ship, Solana Seeker preinstall in the official release, Solana post and Decrypt report.",
+          "sourceChecks": [
+            {
+              "url": "https://via.ritzau.dk/pressemeddelelse/15227061/introducing-ledger-atomtmeverything-you-value-finally-secure?lang=en",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solanamobile.com/blog/solana-mobile-announces-ledger-as-its-first-hardware-expansion-partner",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:47:35.508Z",
+          "articleSlug": "atom"
         }
       },
       "baselineSlugs": [
