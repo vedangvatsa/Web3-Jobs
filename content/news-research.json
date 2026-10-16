@@ -34589,23 +34589,23 @@
       "id": "1e2fdcda2d2c1e06be00",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T11:29:24.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinJournal piece; conditional Approval-in-Principle bars launch and onboarding. SEC Nigeria record plus a second outlet still needed.",
+      "note": "Opened the CoinJournal piece; conditional ARIP entry bars launch and onboarding. SEC Nigeria record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://coinjournal.net/news/kucoin-nigeria-secures-conditional-entry-into-sec-nigerias-arip/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:33.585Z",
+      "reviewedAt": "2026-10-16T03:57:18.135Z",
       "retrySearches": [
-        "KuCoin Nigeria ARIP SEC Nigeria record second outlet"
+        "KuCoin Nigeria ARIP SEC Nigeria Approval-in-Principle record"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "307732c174c9b627cb3c": {
       "source": "CoinJournal",
@@ -84980,6 +84980,21 @@
           "reviewedAt": "2026-10-16T03:57:15.846Z",
           "retrySearches": [
             "Gemini CFTC $5 million settlement judge order vacate denial"
+          ]
+        },
+        "1e2fdcda2d2c1e06be00": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinJournal piece; conditional ARIP entry bars launch and onboarding. SEC Nigeria record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/kucoin-nigeria-secures-conditional-entry-into-sec-nigerias-arip/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:18.135Z",
+          "retrySearches": [
+            "KuCoin Nigeria ARIP SEC Nigeria Approval-in-Principle record"
           ]
         }
       },
