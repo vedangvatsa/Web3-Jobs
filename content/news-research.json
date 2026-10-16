@@ -47627,11 +47627,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5534a85802a5fd7c2c2b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:00:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Ledger Atom 849-dollar device and ship timing as covered in /atom.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:23.556Z",
+      "duplicateOf": "atom",
+      "mergedInto": "6e9e26c4e4ee35d7a9f2",
+      "lastReviewedDay": "2026-10-16"
     }
   },
   "runs": {
@@ -83136,6 +83143,15 @@
           "note": "Same Oct 15 Ledger Atom device plan and pricing as covered in /atom.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:21.093Z",
+          "duplicateOf": "atom",
+          "mergedInto": "6e9e26c4e4ee35d7a9f2"
+        },
+        "5534a85802a5fd7c2c2b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Ledger Atom 849-dollar device and ship timing as covered in /atom.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:23.556Z",
           "duplicateOf": "atom",
           "mergedInto": "6e9e26c4e4ee35d7a9f2"
         }
