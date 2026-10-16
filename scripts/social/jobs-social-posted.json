@@ -14296,7 +14296,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "44e1c140-d830-4614-8ca4-ac7d18d6fdfc",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad27c7ec88f5833b532d9e4"
     }
   ]
 }
