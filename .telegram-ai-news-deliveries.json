@@ -1563,5 +1563,38 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 193357,
     "sentAt": "2026-10-16T11:33:05.461Z"
+  },
+  "d87471fb-b67a-47d2-a253-a1c229bcb7de": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T19:35:48.372Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+        "headline": "Meta updates commercial terms of service for AI training",
+        "summary": "Legal experts suggest the revised terms allow the company to bypass licensing fees by claiming rights to user-generated content.",
+        "event_rationale": "This covers a significant regulatory and legal shift regarding AI data acquisition and intellectual property rights, distinct from the FTC investigations or data-buying stories.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+        "source": "Ars Technica",
+        "originalTitle": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees"
+      },
+      {
+        "index": 1,
+        "headline": "India reports security breaches from unauthorized AI agents",
+        "summary": "Exposed credentials and weak cloud settings allowed unauthorized agents to access Indian systems.",
+        "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "source": "TechCrunch",
+        "originalTitle": "India becomes the latest country to report rogue AI agent activity"
+      },
+      {
+        "index": 2,
+        "headline": "Elorian debuts Glimpse AI model for visual reasoning",
+        "summary": "The model reportedly outperforms GPT-6 Astra in scientific chart analysis and short-form video captioning.",
+        "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "source": "TechCrunch",
+        "originalTitle": "Elorian’s first AI model wants to reason with images, not just about them"
+      }
+    ],
+    "slotKey": "2026-10-16:evening"
   }
 }
