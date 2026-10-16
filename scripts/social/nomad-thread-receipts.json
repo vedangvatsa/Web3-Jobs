@@ -5,9 +5,13 @@
   "assetCommit": "2b70f55cf6473a6415ec7326a0dea615fc6da491",
   "platforms": {
     "x": {
-      "status": "accepted",
+      "status": "verified",
       "startedAt": "2026-10-16T21:47:15.151Z",
-      "postId": "6ad29b6487c49357709c4773"
+      "postId": "6ad29b6487c49357709c4773",
+      "permalink": "https://twitter.com/hashtag_web3/status/2111212411164250423",
+      "verifiedAt": "2026-10-16T21:47:22.245Z",
+      "threadCount": 7,
+      "imageCount": 7
     }
   }
 }
