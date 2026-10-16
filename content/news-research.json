@@ -45816,11 +45816,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "09ec391b386d8ed8985c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T01:16:58.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Speculation about a Tesla-SpaceX merger hint; corporate rumor outside Web3 news scope.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:22.669Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "6c59b48dc370bbd1fc14": {
       "source": "Cointelegraph",
@@ -82565,6 +82570,13 @@
           "note": "Musk political donation to a Texas Senate race; campaign finance, not a Web3 concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:18.646Z"
+        },
+        "09ec391b386d8ed8985c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Speculation about a Tesla-SpaceX merger hint; corporate rumor outside Web3 news scope.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:22.669Z"
         }
       },
       "baselineSlugs": [
