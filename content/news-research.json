@@ -44310,11 +44310,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "423dbdd07330a327f083",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:31:28.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; WSJ original plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:00.478Z",
+      "retrySearches": [
+        "WSJ Tether Hines stablecoin payments investigation"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1950b19fe78af4d37979": {
       "source": "The Defiant",
@@ -84388,6 +84402,21 @@
           "reviewedAt": "2026-10-16T03:55:58.188Z",
           "retrySearches": [
             "Firelight Kraken USDC vault cover announcement"
+          ]
+        },
+        "423dbdd07330a327f083": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; WSJ original plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:00.478Z",
+          "retrySearches": [
+            "WSJ Tether Hines stablecoin payments investigation"
           ]
         }
       },
