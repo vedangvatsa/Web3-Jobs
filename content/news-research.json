@@ -41477,25 +41477,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "ed5fb89d8c3cdac5045d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T11:29:45.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; Arkham Visualizer 2.0 launched Oct 15 with real-time graphs. Arkham notice plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/arkham-visualizer-2-real-time-graphs/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:57:00.308Z",
+      "reason": "promotional",
+      "note": "Arkham Visualizer 2.0 product update; single-source product marketing without independent verification.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:41:52.173Z",
       "retrySearches": [
         "Arkham Visualizer 2.0 release notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "1a1ff36baf687edd54b7": {
       "source": "Unchained",
@@ -82938,6 +82932,13 @@
           "note": "Rakuten physical SHIB coin giveaway; marketing promotion, not a verifiable concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:41:48.176Z"
+        },
+        "ed5fb89d8c3cdac5045d": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Arkham Visualizer 2.0 product update; single-source product marketing without independent verification.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:41:52.173Z"
         }
       },
       "baselineSlugs": [
