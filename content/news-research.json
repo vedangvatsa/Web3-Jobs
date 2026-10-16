@@ -36792,23 +36792,23 @@
       "id": "db48ec069ac23cf95109",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T23:43:23.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; Oct 13 Shadow Accounts launch inside STRK20. StarkWare docs plus a second outlet still needed.",
+      "note": "Opened the Crypto Briefing piece on the Oct 13 Shadow Accounts launch. StarkWare docs plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:51.827Z",
+      "reviewedAt": "2026-10-16T03:59:30.162Z",
       "retrySearches": [
-        "Starknet Shadow Accounts StarkWare docs second outlet"
+        "Starknet Shadow Accounts STRK20 launch docs Vesu"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "de40f76e739ea62d19d0": {
       "source": "Crypto Briefing",
@@ -86015,6 +86015,21 @@
           "reviewedAt": "2026-10-16T03:59:27.637Z",
           "retrySearches": [
             "EasyA 1.1 billion valuation 2027 listing tokenized shares"
+          ]
+        },
+        "db48ec069ac23cf95109": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on the Oct 13 Shadow Accounts launch. StarkWare docs plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/starknet-shadow-accounts-private-defi/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:30.162Z",
+          "retrySearches": [
+            "Starknet Shadow Accounts STRK20 launch docs Vesu"
           ]
         }
       },
