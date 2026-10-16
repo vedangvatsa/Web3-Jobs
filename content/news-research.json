@@ -40734,23 +40734,23 @@
       "id": "4582964dc6d28dba261b",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T01:30:51.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate on-chain analysis; Firelight lockup mechanics are single-outlet technical claims. Firelight response plus exit-completion confirmation still needed.",
+      "note": "Opened the CryptoSlate piece; XRP-linked token lockup as the withdrawal queue grows. Firelight notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:48.583Z",
+      "reviewedAt": "2026-10-16T03:57:38.751Z",
       "retrySearches": [
-        "Firelight FXRP lockup response exit confirmation second outlet"
+        "Firelight XRP tokens lockup withdrawal delay notice"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "78009d4c1c69ebee7908": {
       "source": "CryptoSlate",
@@ -85143,6 +85143,21 @@
           "reviewedAt": "2026-10-16T03:57:36.392Z",
           "retrySearches": [
             "ENS ENSv2 upgrade DAO proposal vote .eth migration"
+          ]
+        },
+        "4582964dc6d28dba261b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece; XRP-linked token lockup as the withdrawal queue grows. Firelight notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:38.751Z",
+          "retrySearches": [
+            "Firelight XRP tokens lockup withdrawal delay notice"
           ]
         }
       },
