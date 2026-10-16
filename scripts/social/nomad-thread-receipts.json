@@ -19,10 +19,12 @@
       "posts": [
         {
           "index": 0,
-          "status": "accepted",
+          "status": "verified",
           "startedAt": "2026-10-16T21:47:24.933Z",
           "containerId": "18097382537199925",
-          "postId": "18079593212403646"
+          "postId": "18079593212403646",
+          "permalink": "https://www.threads.com/@hashtagweb3/post/DekiIkGiY7Q",
+          "verifiedAt": "2026-10-16T21:52:58.804Z"
         }
       ]
     }
