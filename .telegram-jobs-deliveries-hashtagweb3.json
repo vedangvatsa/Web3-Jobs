@@ -2341,7 +2341,7 @@
     "sentAt": "2026-10-15T19:32:29.287Z"
   },
   "e10828e9-bc4d-4595-bf1d-9f606d669e24": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T04:21:08.084Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2432,6 +2432,8 @@
       }
     ],
     "message": "- Binance is hiring <a href=\"https://hashtagweb3.com/pm148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Binance Accelerator Programm - Product Manager (meme)</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/mgr72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Market Expansion Manager</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/eng72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/an10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance &amp; Strategy Senior Analyst</a>",
-    "slotKey": "2026-10-16:morning"
+    "slotKey": "2026-10-16:morning",
+    "messageId": 155785,
+    "sentAt": "2026-10-16T04:21:12.146Z"
   }
 }
