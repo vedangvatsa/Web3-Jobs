@@ -34211,23 +34211,23 @@
       "id": "a8daa03f3187bc9203a4",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T14:14:06.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "IBKR staking page blocked again in this run; IBKR or Zerohash notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; IBKR or Zerohash notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:53:56.235Z",
+      "reviewedAt": "2026-10-16T03:54:05.167Z",
       "retrySearches": [
-        "Interactive Brokers Zerohash staking notice second outlet"
+        "Interactive Brokers Zerohash Ethereum staking announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "4290898c702f6ddce11c": {
       "source": "The Block",
@@ -83540,6 +83540,21 @@
           "reviewedAt": "2026-10-16T03:54:02.747Z",
           "retrySearches": [
             "DRW Marex Canton bond-index swap announcement"
+          ]
+        },
+        "a8daa03f3187bc9203a4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; IBKR or Zerohash notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:05.167Z",
+          "retrySearches": [
+            "Interactive Brokers Zerohash Ethereum staking announcement"
           ]
         }
       },
