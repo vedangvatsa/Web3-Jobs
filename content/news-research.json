@@ -46509,11 +46509,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "46561a1ea0df111ae5d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:15:56.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 MSCI non-operating index rules as covered in /msci.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:31.139Z",
+      "duplicateOf": "msci",
+      "mergedInto": "6c59b48dc370bbd1fc14",
+      "lastReviewedDay": "2026-10-16"
     },
     "c59e5a092499c3be5b1c": {
       "source": "Crypto Briefing",
@@ -83186,6 +83193,15 @@
           "reviewedAt": "2026-10-16T03:48:28.816Z",
           "duplicateOf": "atom",
           "mergedInto": "6e9e26c4e4ee35d7a9f2"
+        },
+        "46561a1ea0df111ae5d6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 MSCI non-operating index rules as covered in /msci.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:31.139Z",
+          "duplicateOf": "msci",
+          "mergedInto": "6c59b48dc370bbd1fc14"
         }
       },
       "baselineSlugs": [
