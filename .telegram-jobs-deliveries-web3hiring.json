@@ -4836,7 +4836,7 @@
     "sentAt": "2026-10-16T04:20:53.467Z"
   },
   "2b42ec1b-c5d1-469e-8ddf-eca0800fa0c2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T04:20:58.348Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4925,6 +4925,8 @@
       }
     ],
     "message": "- Solflare is hiring <a href=\"https://hashtagweb3.com/qa46?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Quality Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mkt20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Creative Strategist, Performance Marketing</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dcmd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Category Management - Data Center Cooling &amp; Mechanical System</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/mgr90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager, Taiwan</a>",
-    "slotKey": "2026-10-16:morning"
+    "slotKey": "2026-10-16:morning",
+    "messageId": 130,
+    "sentAt": "2026-10-16T04:21:01.796Z"
   }
 }
