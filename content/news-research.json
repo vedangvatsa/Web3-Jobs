@@ -41113,23 +41113,23 @@
       "id": "f42c13aeeddfc086db9f",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T14:39:12.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Babylon-Aave page blocked again in this run; proposal record and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; forum proposal plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:58.839Z",
+      "reviewedAt": "2026-10-16T03:55:08.650Z",
       "retrySearches": [
-        "Babylon native Bitcoin collateral Aave V4 proposal second outlet"
+        "Babylon native bitcoin collateral Aave V4 proposal forum"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "652c43541eaddb6a4842": {
       "source": "The Block",
@@ -83945,6 +83945,21 @@
           "reviewedAt": "2026-10-16T03:55:06.424Z",
           "retrySearches": [
             "Strive SATS preferred 500M bitcoin treasury filing"
+          ]
+        },
+        "f42c13aeeddfc086db9f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; forum proposal plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:08.650Z",
+          "retrySearches": [
+            "Babylon native bitcoin collateral Aave V4 proposal forum"
           ]
         }
       },
