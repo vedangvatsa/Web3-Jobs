@@ -47172,11 +47172,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "772b2f7c265e903cd64b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:42:30.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Zcash intraday price drop framed around leverage buildup; price chatter without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:34.793Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "4c9fccd65ca7115a6f14": {
       "source": "CoinDesk",
@@ -82168,6 +82173,13 @@
           "note": "Intraday Bitcoin price move tied to inflation-data fears; no concrete event, only market commentary.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:32.317Z"
+        },
+        "772b2f7c265e903cd64b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Zcash intraday price drop framed around leverage buildup; price chatter without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:34.793Z"
         }
       },
       "baselineSlugs": [
