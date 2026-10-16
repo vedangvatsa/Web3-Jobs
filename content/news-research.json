@@ -46302,11 +46302,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "808fbb224f7795b8ac15",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:28:02.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "CoreWeave debt-insurance costs; AI-cloud credit story, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:58.778Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "f2d40bf907c032ce603f": {
       "source": "Crypto Briefing",
@@ -82745,6 +82750,13 @@
           "note": "Google AI news program with CNN and Axios; media deal, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:56.409Z"
+        },
+        "808fbb224f7795b8ac15": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "CoreWeave debt-insurance costs; AI-cloud credit story, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:58.778Z"
         }
       },
       "baselineSlugs": [
