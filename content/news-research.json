@@ -40895,23 +40895,23 @@
       "id": "323315298a1576ef8c33",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T18:25:54.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "SkyAI shareholder page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; shareholder letter plus SkyAI response still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:56.538Z",
+      "reviewedAt": "2026-10-16T03:55:24.570Z",
       "retrySearches": [
-        "Bastion SkyAI tender price board letter second outlet"
+        "SkyAI Solana sales treasury shareholder Bastion tender"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "f6927a833cb46682dda6": {
       "source": "Decrypt",
@@ -84050,6 +84050,21 @@
           "reviewedAt": "2026-10-16T03:55:22.308Z",
           "retrySearches": [
             "Kalshi CEO prediction markets insider trading defense remarks"
+          ]
+        },
+        "323315298a1576ef8c33": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; shareholder letter plus SkyAI response still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:24.570Z",
+          "retrySearches": [
+            "SkyAI Solana sales treasury shareholder Bastion tender"
           ]
         }
       },
