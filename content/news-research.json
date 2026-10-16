@@ -44855,11 +44855,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "207e044d113a58322a5f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:08:17.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Senator touting Maine project funding; US politics, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:08.293Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "07e0c945e140dca48493": {
       "source": "Bitcoin Magazine",
@@ -82793,6 +82798,13 @@
           "note": "Cursor editor adding a Meta model; dev-tools release, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:05.669Z"
+        },
+        "207e044d113a58322a5f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Senator touting Maine project funding; US politics, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:08.293Z"
         }
       },
       "baselineSlugs": [
