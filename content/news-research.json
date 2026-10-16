@@ -47036,11 +47036,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4442ad8fd3ed0cbe26f9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:12:13.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Crypto.com notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:07.873Z",
+      "retrySearches": [
+        "Crypto.com Predict Pro order books sports combos launch"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "c901cad87a831b64244f": {
       "source": "CoinDesk",
@@ -84475,6 +84489,21 @@
           "reviewedAt": "2026-10-16T03:56:05.527Z",
           "retrySearches": [
             "Ripple Prime RWA swaps Hyperliquid perpetuals announcement"
+          ]
+        },
+        "4442ad8fd3ed0cbe26f9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Crypto.com notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:07.873Z",
+          "retrySearches": [
+            "Crypto.com Predict Pro order books sports combos launch"
           ]
         }
       },
