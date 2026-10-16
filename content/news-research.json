@@ -45339,11 +45339,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e32f649ba3d0d9d9a07",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:44:59.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin selloff explainer asking what triggered it; price chatter without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:39.467Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "3c93c49133f8b0cabfcd": {
       "source": "Decrypt",
@@ -82192,6 +82197,13 @@
           "note": "Altcoin drawdown commentary attributed to macro pressures; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:37.233Z"
+        },
+        "9e32f649ba3d0d9d9a07": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin selloff explainer asking what triggered it; price chatter without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:39.467Z"
         }
       },
       "baselineSlugs": [
