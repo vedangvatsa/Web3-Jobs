@@ -43959,23 +43959,23 @@
       "id": "cf1edda8f4b5cf638cea",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:21:37.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "BNY-Block repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; triparty-platform confirmation plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:34.546Z",
+      "reviewedAt": "2026-10-16T03:54:57.430Z",
       "retrySearches": [
-        "BNY Citadel Treasury repo triparty notice second outlet"
+        "BNY Citadel tokenized Treasury triparty repo confirmation"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "8c6b7e01b9b4f7129122": {
       "source": "CoinDesk",
@@ -83870,6 +83870,21 @@
           "reviewedAt": "2026-10-16T03:54:55.139Z",
           "retrySearches": [
             "EQX 11 tokenized stock ETF markets Hyperliquid announcement"
+          ]
+        },
+        "cf1edda8f4b5cf638cea": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; triparty-platform confirmation plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:57.430Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasury triparty repo confirmation"
           ]
         }
       },
