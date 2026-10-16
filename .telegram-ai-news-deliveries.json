@@ -1565,7 +1565,7 @@
     "sentAt": "2026-10-16T11:33:05.461Z"
   },
   "d87471fb-b67a-47d2-a253-a1c229bcb7de": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T19:35:48.372Z",
     "stories": [
       {
@@ -1595,6 +1595,8 @@
         "originalTitle": "Elorian’s first AI model wants to reason with images, not just about them"
       }
     ],
-    "slotKey": "2026-10-16:evening"
+    "slotKey": "2026-10-16:evening",
+    "messageId": 193359,
+    "sentAt": "2026-10-16T19:35:51.173Z"
   }
 }

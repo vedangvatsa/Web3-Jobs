@@ -746,6 +746,9 @@
   "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
   "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
   "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+  "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+  "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+  "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2021,6 +2024,12 @@
   "This implant can restore sight for patients with macular degeneration",
   "Barnabas and Mainspring Increase Local Operational Collaboration",
   "Love is infrastructure",
+  "Meta updates commercial terms of service for AI training",
+  "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+  "India reports security breaches from unauthorized AI agents",
+  "India becomes the latest country to report rogue AI agent activity",
+  "Elorian debuts Glimpse AI model for visual reasoning",
+  "Elorian’s first AI model wants to reason with images, not just about them",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2284,5 +2293,8 @@
   "fp:agent|are|autonomy|car|com|day|december|detail|dur|event",
   "fp:accelerat|address|automat|bett|chip|comput|creation|crisis|design|develop",
   "fp:age|approval|await|camera|can|degeneration|implant|loss|macular|patient",
-  "fp:barnaba|collaboration|communicat|contact|despit|distant|historically|increas|infrastructur|limit"
+  "fp:barnaba|collaboration|communicat|contact|despit|distant|historically|increas|infrastructur|limit",
+  "fp:allow|avoid|bypass|claim|commercial|content|expert|fee|generat|legal",
+  "fp:access|activity|agent|allow|becom|breach|cloud|country|credential|expos",
+  "fp:analysis|astra|caption|debut|elorian|form|glimps|gpt6|imag|not"
 ]
