@@ -37865,23 +37865,23 @@
       "id": "53da82d0289c4ef5526d",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T17:00:31.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives. ASIC paper plus a second outlet still needed.",
+      "note": "Opened the CryptoSlate piece; 10-year CFD-style crackdown after A$458M losses. ASIC paper plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:43.688Z",
+      "reviewedAt": "2026-10-16T03:57:50.272Z",
       "retrySearches": [
-        "ASIC crypto-settled CFD proposal consultation second outlet"
+        "ASIC crypto derivatives CFD leverage caps consultation"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "23ad72f79904c21dd430": {
       "source": "The Defiant",
@@ -85246,6 +85246,21 @@
           "reviewedAt": "2026-10-16T03:57:47.947Z",
           "retrySearches": [
             "Australia crypto platform rules consultation custody capital 2027"
+          ]
+        },
+        "53da82d0289c4ef5526d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece; 10-year CFD-style crackdown after A$458M losses. ASIC paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:50.272Z",
+          "retrySearches": [
+            "ASIC crypto derivatives CFD leverage caps consultation"
           ]
         }
       },
