@@ -45997,11 +45997,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e1e659da519c2c0a3b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:40:41.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "SpaceX AI-compute target with Nvidia chips; AI infrastructure, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:19.684Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "109cb20cf7154bb324d7": {
       "source": "Crypto Briefing",
@@ -82853,6 +82858,13 @@
           "note": "Google Willow quantum error-reduction claim; general tech research, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:17.387Z"
+        },
+        "6e1e659da519c2c0a3b1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "SpaceX AI-compute target with Nvidia chips; AI infrastructure, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:19.684Z"
         }
       },
       "baselineSlugs": [
