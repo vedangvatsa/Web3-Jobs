@@ -39743,23 +39743,23 @@
       "id": "db146f78beff33154545",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:19:45.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "EQX markets page blocked again in this run; EQX notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; EQX notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:50.464Z",
+      "reviewedAt": "2026-10-16T03:54:55.139Z",
       "retrySearches": [
-        "EQX tokenized stock ETF Hyperliquid markets notice second outlet"
+        "EQX 11 tokenized stock ETF markets Hyperliquid announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "6c54fa996690747182a1": {
       "source": "Cointelegraph",
@@ -83855,6 +83855,21 @@
           "reviewedAt": "2026-10-16T03:54:52.929Z",
           "retrySearches": [
             "Evernorth XRP yield Ripple Kraken Coinbase BitGo"
+          ]
+        },
+        "db146f78beff33154545": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; EQX notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:55.139Z",
+          "retrySearches": [
+            "EQX 11 tokenized stock ETF markets Hyperliquid announcement"
           ]
         }
       },
