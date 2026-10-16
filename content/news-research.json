@@ -39410,25 +39410,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ebcf47a4315bf68ca54",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T09:05:51.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; the $158M via leadership PACs rests on a single Axios account with no FEC doc. FEC filing plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/elon-musk-donates-158m-to-boost-republicans-in-texas-senate-race/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:44.296Z",
+      "reason": "out-of-scope",
+      "note": "Musk political donation to a Texas Senate race; campaign finance, not a Web3 concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:18.646Z",
       "retrySearches": [
         "Musk 158M Senate Leadership Fund FEC filing second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "3ed1c56cde17649942e5": {
       "source": "BeInCrypto",
@@ -82564,6 +82558,13 @@
           "note": "Aztec 2030 post-quantum migration target; distant roadmap goal, not a concrete event in window.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:56.648Z"
+        },
+        "0ebcf47a4315bf68ca54": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Musk political donation to a Texas Senate race; campaign finance, not a Web3 concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:18.646Z"
         }
       },
       "baselineSlugs": [
