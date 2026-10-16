@@ -45013,11 +45013,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "04e86ba4d7952075963f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:00:19.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Grayscale volatility study putting bitcoin at 43 percent; same single-study note, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:49.827Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5e0c7debaabf7aede50f": {
       "source": "CryptoSlate",
@@ -82516,6 +82521,13 @@
           "note": "Single-study claim that bitcoin volatility sits within S and P ranks; research note, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:47.549Z"
+        },
+        "04e86ba4d7952075963f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Grayscale volatility study putting bitcoin at 43 percent; same single-study note, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:49.827Z"
         }
       },
       "baselineSlugs": [
