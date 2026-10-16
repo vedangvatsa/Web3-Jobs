@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import { validatePosts, bufferInput, assertBufferReceipt } from './publish-nomad-thread.mjs';
+import { validatePosts, bufferInput, assertBufferReceipt, durableState } from './publish-nomad-thread.mjs';
 
 const manifest = JSON.parse(await fs.readFile(new URL('../../social-assets/nomad-resources-thread/posts.json', import.meta.url), 'utf8'));
 
@@ -30,4 +30,38 @@ test('verification rejects another account, missing replies, changed text, missi
   for (const change of [value => { value.channelId = 'other'; }, value => { value.metadata.thread.pop(); }, value => { value.metadata.thread[4].text = 'wrong'; }, value => { value.metadata.thread[2].assets = []; }, value => { value.metadata.thread[6].assets[0].mimeType = 'video/mp4'; }]) {
     const value = structuredClone(post); change(value); assert.throws(() => assertBufferReceipt(value, manifest.posts));
   }
+});
+
+test('stale GitHub reads cannot erase an acknowledged post ID or create a false concurrent-write failure', async () => {
+  let current = null;
+  const stale = [], writes = [], recorded = [];
+  const state = { status: 'claimed' };
+  const save = durableState(state, null, {
+    read: async () => ({ text: stale.length ? stale.shift() : current, sha: current ? 'blob-sha' : null }),
+    write: async (_method, body) => { current = Buffer.from(body.content, 'base64').toString(); writes.push(current); return { ok: true }; },
+    wait: async () => {},
+    record: async text => recorded.push(text),
+  });
+  await save();
+  const claim = current;
+  state.status = 'accepted'; state.postId = 'provider-post-id';
+  stale.push(null);
+  await save();
+  state.status = 'verified';
+  stale.push(claim, null);
+  await save();
+  assert.equal(writes.length, 3);
+  assert.deepEqual(JSON.parse(current), { status: 'verified', postId: 'provider-post-id' });
+  assert.equal(recorded.length, 3);
+});
+
+test('unrecognized concurrent receipt changes stop before overwriting provider evidence', async () => {
+  let writes = 0;
+  const save = durableState({ status: 'accepted', postId: 'our-id' }, null, {
+    read: async () => ({ text: JSON.stringify({ postId: 'other-id' }), sha: 'other' }),
+    write: async () => { writes++; return { ok: true }; },
+    record: async () => {}, wait: async () => {},
+  });
+  await assert.rejects(save(), /Concurrent receipt change/);
+  assert.equal(writes, 0);
 });

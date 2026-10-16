@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { createHash } from 'node:crypto';
+import { createHash, randomUUID } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import assert from 'node:assert/strict';
 import sharp from 'sharp';
@@ -90,7 +90,7 @@ async function accounts() {
 
 async function github(method, body) {
   assert.ok(process.env.GITHUB_TOKEN, 'GITHUB_TOKEN required for durable receipts');
-  return fetch(`https://api.github.com/repos/${REPO}/contents/${RECEIPT}${method === 'GET' ? '?ref=main' : ''}`, { method, headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}`, Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' }, body: body ? JSON.stringify(body) : undefined, signal: AbortSignal.timeout(30000) });
+  return fetch(`https://api.github.com/repos/${REPO}/contents/${RECEIPT}${method === 'GET' ? `?ref=main&read=${randomUUID()}` : ''}`, { method, headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}`, Accept: 'application/vnd.github+json', 'Cache-Control': 'no-cache', 'X-GitHub-Api-Version': '2022-11-28' }, body: body ? JSON.stringify(body) : undefined, signal: AbortSignal.timeout(30000) });
 }
 
 async function remoteState() {
@@ -102,23 +102,32 @@ async function remoteState() {
   return { state: JSON.parse(text), sha: result.sha, text };
 }
 
-function durableState(initial, expectedRemoteText) {
-  let remoteText = expectedRemoteText;
-  return async function save() {
-    const text = JSON.stringify(initial, null, 2) + '\n';
+async function checkpoint(text, initial) {
     const temporary = path.join(WORK, 'receipt.json.tmp');
     await fs.writeFile(temporary, text);
     await fs.rename(temporary, path.join(WORK, 'receipt.json'));
     await fs.appendFile(path.join(WORK, 'journal.jsonl'), JSON.stringify({ at: new Date().toISOString(), state: initial }) + '\n');
+}
+
+export function durableState(initial, expectedRemoteText, { read = remoteState, write = github, wait = sleep, record = checkpoint } = {}) {
+  let remoteText = expectedRemoteText;
+  const acknowledged = new Set([expectedRemoteText]);
+  return async function save() {
+    const text = JSON.stringify(initial, null, 2) + '\n';
+    await record(text, initial);
     for (let attempt = 0; attempt < 8; attempt++) {
-      const latest = await remoteState();
-      if (latest.text === text) { remoteText = text; return; }
+      const latest = await read();
+      if (latest.text === text) { remoteText = text; acknowledged.add(text); return; }
+      if (latest.text !== remoteText && acknowledged.has(latest.text)) {
+        await wait(1000 * (attempt + 1));
+        continue;
+      }
       assert.equal(latest.text, remoteText, 'Concurrent receipt change requires reconciliation');
-      const response = await github('PUT', { message: 'chore(social): checkpoint nomad resource thread [skip ci]', branch: 'main', ...(latest.sha ? { sha: latest.sha } : {}), content: Buffer.from(text).toString('base64') });
-      if (response.ok) { remoteText = text; return; }
+      const response = await write('PUT', { message: 'chore(social): checkpoint nomad resource thread [skip ci]', branch: 'main', ...(latest.sha ? { sha: latest.sha } : {}), content: Buffer.from(text).toString('base64') });
+      if (response.ok) { remoteText = text; acknowledged.add(text); return; }
       const error = await response.json();
       if (![409, 422].includes(response.status) || !/sha|expected|reference|fast forward|conflict|does not match/i.test(error.message || '')) throw new Error(`Receipt write failed: HTTP ${response.status}`);
-      await sleep(1000 * (attempt + 1));
+      await wait(1000 * (attempt + 1));
     }
     throw new Error('Receipt CAS exhausted; subsequent publishing stopped');
   };
