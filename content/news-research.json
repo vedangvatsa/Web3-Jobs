@@ -45018,11 +45018,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "508bbe386b313e8734fd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:38:05.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on dollar-euro borrowing on Arc. Aave or Circle notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/aave-v4-forex-spoke-eurc-usdc-arc/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:45.714Z",
+      "retrySearches": [
+        "Aave V4 forex spoke EURC USDC Arc launch"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "04e86ba4d7952075963f": {
       "source": "BeInCrypto",
@@ -85202,6 +85216,21 @@
           "reviewedAt": "2026-10-16T03:57:43.436Z",
           "retrySearches": [
             "Capital B H1 2026 results net loss revenue report"
+          ]
+        },
+        "508bbe386b313e8734fd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on dollar-euro borrowing on Arc. Aave or Circle notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/aave-v4-forex-spoke-eurc-usdc-arc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:45.714Z",
+          "retrySearches": [
+            "Aave V4 forex spoke EURC USDC Arc launch"
           ]
         }
       },
