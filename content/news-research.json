@@ -45034,11 +45034,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e0c7debaabf7aede50f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:40:17.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on quantum fixes and lockout risk for owners; technical analysis, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:38.563Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5704d422b3548d92038a": {
       "source": "CryptoSlate",
@@ -82456,6 +82461,13 @@
           "note": "Think-piece on tokenization being about more than onchain assets; commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:36.355Z"
+        },
+        "5e0c7debaabf7aede50f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on quantum fixes and lockout risk for owners; technical analysis, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:38.563Z"
         }
       },
       "baselineSlugs": [
