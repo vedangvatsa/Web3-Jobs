@@ -38478,23 +38478,23 @@
       "id": "93a81e33466a01eb00b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T12:10:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Mysten quantum page blocked again in this run; Mysten notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Mysten release plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:40.023Z",
+      "reviewedAt": "2026-10-16T03:54:00.392Z",
       "retrySearches": [
-        "Mysten Sui quantum-safe devnet transaction notice second outlet"
+        "Mysten Sui quantum-safe devnet transaction announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "251225b4b28010c9541a": {
       "source": "CoinDesk",
@@ -83510,6 +83510,21 @@
           "reviewedAt": "2026-10-16T03:53:58.075Z",
           "retrySearches": [
             "Metaplanet 52 billion yen bond filing October 2026"
+          ]
+        },
+        "93a81e33466a01eb00b9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Mysten release plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:00.392Z",
+          "retrySearches": [
+            "Mysten Sui quantum-safe devnet transaction announcement"
           ]
         }
       },
