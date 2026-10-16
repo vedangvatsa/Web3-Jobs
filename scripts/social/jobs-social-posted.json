@@ -13426,9 +13426,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "273dedeb-de88-4cfb-a80c-c94cd86fcfa4",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad20c701ffe47098029bd74",
-      "error": "LinkedIn #Web3 receipt 6ad20c701ffe47098029bd74 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad20c701ffe47098029bd74 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7516824687130275842"
     },
     {
       "slug": "ops40",
