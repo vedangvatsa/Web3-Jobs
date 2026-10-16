@@ -46344,11 +46344,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "597d06247ddfff74ee20",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:23:57.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Epoch AI compute estimates in NYT visuals; AI research coverage, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:54.130Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "bd9a49823a4cdb6c9016": {
       "source": "Crypto Briefing",
@@ -82721,6 +82726,13 @@
           "note": "CoreWeave financial-distress chatter on bond yields; AI-cloud credit story, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:51.816Z"
+        },
+        "597d06247ddfff74ee20": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Epoch AI compute estimates in NYT visuals; AI research coverage, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:54.130Z"
         }
       },
       "baselineSlugs": [
