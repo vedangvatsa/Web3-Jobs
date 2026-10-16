@@ -46961,11 +46961,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "219c9592bca0bf66265a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:36:52.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Visa or Inyo notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:10.157Z",
+      "retrySearches": [
+        "Visa Direct USDC prefunding Inyo Global production announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a0efd8457a3debade0a7": {
       "source": "Unchained",
@@ -84504,6 +84518,21 @@
           "reviewedAt": "2026-10-16T03:56:07.873Z",
           "retrySearches": [
             "Crypto.com Predict Pro order books sports combos launch"
+          ]
+        },
+        "219c9592bca0bf66265a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Visa or Inyo notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:10.157Z",
+          "retrySearches": [
+            "Visa Direct USDC prefunding Inyo Global production announcement"
           ]
         }
       },
