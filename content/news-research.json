@@ -45081,11 +45081,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "df4f05388583190f5f6c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T20:30:46.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Single-study claim that bitcoin volatility sits within S and P ranks; research note, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:47.549Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "732d1ebaa4bd0ba0e844": {
       "source": "CryptoSlate",
@@ -82504,6 +82509,13 @@
           "note": "Q3 liquidation-risk data analysis; retrospective market study, not a fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:45.230Z"
+        },
+        "df4f05388583190f5f6c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Single-study claim that bitcoin volatility sits within S and P ranks; research note, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:47.549Z"
         }
       },
       "baselineSlugs": [
