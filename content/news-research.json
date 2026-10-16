@@ -45795,11 +45795,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c30f373446e848dcf20",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T01:21:25.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Cramer stock picks on Reddit and SiTime; equities punditry, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:25.118Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "09ec391b386d8ed8985c": {
       "source": "BeInCrypto",
@@ -82577,6 +82582,13 @@
           "note": "Speculation about a Tesla-SpaceX merger hint; corporate rumor outside Web3 news scope.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:22.669Z"
+        },
+        "6c30f373446e848dcf20": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Cramer stock picks on Reddit and SiTime; equities punditry, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:25.118Z"
         }
       },
       "baselineSlugs": [
