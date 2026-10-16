@@ -40063,25 +40063,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ab08dc2dbefb8e581cc7",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:47:44.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; Ledger asks seven Asian markets to pull devices with only SE Asia drains confirmed. Ledger notice plus scope confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:52.855Z",
+      "reason": "duplicate",
+      "note": "Same Oct 14 Ledger seven-market pull after suspected drain as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:49:01.408Z",
       "retrySearches": [
         "Ledger seven markets pull notice scope second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "cbe8fdb942ed31fb0863": {
       "source": "CoinDesk",
@@ -83300,6 +83296,15 @@
           "note": "Same Oct 13 Ledger halt in Southeast Asia and Hong Kong as covered in /resellers.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:59.113Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
+        },
+        "ab08dc2dbefb8e581cc7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 14 Ledger seven-market pull after suspected drain as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:49:01.408Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
         }
