@@ -42837,23 +42837,23 @@
       "id": "312c1cc8ce01a8f2750b",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T21:30:14.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Bitcoin Magazine piece on the same Sberbank authorization with VTB context. Regulator register plus launch-date confirmation still needed.",
+      "reason": "needs-corroboration",
+      "note": "Opened the Bitcoin Magazine piece; central-bank license for Sberbank crypto exchange. CBR record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:13.702Z",
+      "reviewedAt": "2026-10-16T03:57:27.270Z",
       "retrySearches": [
-        "Sberbank crypto license launch date second outlet"
+        "Sberbank cryptocurrency exchange license central bank Russia"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "62d2e0a9aca8000268c3": {
       "source": "The Defiant",
@@ -85068,6 +85068,21 @@
           "reviewedAt": "2026-10-16T03:57:24.986Z",
           "retrySearches": [
             "Mastercard BVNK Global Money Platform stablecoin announcement"
+          ]
+        },
+        "312c1cc8ce01a8f2750b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Bitcoin Magazine piece; central-bank license for Sberbank crypto exchange. CBR record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:27.270Z",
+          "retrySearches": [
+            "Sberbank cryptocurrency exchange license central bank Russia"
           ]
         }
       },
