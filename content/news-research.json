@@ -45318,11 +45318,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f657b7de6b92568cc49",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:10:44.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin slipping under 80K after PPI data; macro-driven price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:41.809Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "9e32f649ba3d0d9d9a07": {
       "source": "BeInCrypto",
@@ -82204,6 +82209,13 @@
           "note": "Bitcoin selloff explainer asking what triggered it; price chatter without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:39.467Z"
+        },
+        "0f657b7de6b92568cc49": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin slipping under 80K after PPI data; macro-driven price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:41.809Z"
         }
       },
       "baselineSlugs": [
