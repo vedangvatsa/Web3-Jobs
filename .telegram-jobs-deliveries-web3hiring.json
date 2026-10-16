@@ -4740,5 +4740,97 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 129,
     "sentAt": "2026-10-15T19:32:15.602Z"
+  },
+  "dd232722-1bdf-4938-b2f2-65b88deb722e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:20:49.496Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "744000151850899",
+          "title": "Senior Quality Engineer",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000151850899-senior-quality-engineer",
+          "date": "2026-09-25T13:13:06.677Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Zagreb, Croatia",
+          "department": "Quality Assurance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "qa46"
+        },
+        "key": "744000151850899",
+        "slug": "qa46",
+        "url": "https://hashtagweb3.com/qa46?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Quality Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5427795008",
+          "title": "Senior Creative Strategist, Performance Marketing",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5427795008?gh_jid=5427795008",
+          "date": "2026-10-07T12:45:14-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "20201 Business - Marketing - Square Demand Generation",
+          "active": true,
+          "salary": "$163.6k – $245.4k/yr",
+          "dateVerified": true,
+          "slug": "mkt20"
+        },
+        "key": "5427795008",
+        "slug": "mkt20",
+        "url": "https://hashtagweb3.com/mkt20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Creative Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "e99ff3f7-2075-4dbb-8982-5aa39660de02",
+          "title": "Director, Category Management - Data Center Cooling & Mechanical System",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/e99ff3f7-2075-4dbb-8982-5aa39660de02",
+          "date": "2026-09-30T14:43:54.682000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Procurement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dcmd"
+        },
+        "key": "e99ff3f7-2075-4dbb-8982-5aa39660de02",
+        "slug": "dcmd",
+        "url": "https://hashtagweb3.com/dcmd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Director, Category Management"
+      },
+      {
+        "snapshot": {
+          "id": "8005945003",
+          "title": "Relationship Manager, Taiwan",
+          "company": "DriveWealth",
+          "link": "https://boards.greenhouse.io/drivewealth/jobs/8005945003?gh_jid=8005945003",
+          "date": "2026-09-25T23:18:56-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DriveWealth [drivewealth]",
+          "location": "APAC - Remote",
+          "department": "Revenue",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr90"
+        },
+        "key": "8005945003",
+        "slug": "mgr90",
+        "url": "https://hashtagweb3.com/mgr90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Relationship Manager"
+      }
+    ],
+    "message": "- Solflare is hiring <a href=\"https://hashtagweb3.com/qa46?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Quality Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mkt20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Creative Strategist, Performance Marketing</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dcmd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Category Management - Data Center Cooling &amp; Mechanical System</a>\n- DriveWealth is hiring <a href=\"https://hashtagweb3.com/mgr90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager, Taiwan</a>",
+    "slotKey": "2026-10-16:morning"
   }
 }
