@@ -44269,11 +44269,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d79c96220f3feacf0fb8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T20:31:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Decrypt piece on the confirmed P2P trading ban. Central bank text plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:23.086Z",
+      "retrySearches": [
+        "Russia peer-to-peer bitcoin trading ban central bank confirms"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "423dbdd07330a327f083": {
       "source": "The Defiant",
@@ -85942,6 +85956,21 @@
           "reviewedAt": "2026-10-16T03:59:20.828Z",
           "retrySearches": [
             "SkyAI tender offer SEC filing SOL 600K condition"
+          ]
+        },
+        "d79c96220f3feacf0fb8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on the confirmed P2P trading ban. Central bank text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:23.086Z",
+          "retrySearches": [
+            "Russia peer-to-peer bitcoin trading ban central bank confirms"
           ]
         }
       },
