@@ -40821,23 +40821,23 @@
       "id": "374bf63c642dee162c49",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T19:46:03.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Decrypt piece; Bank of Russia added Sberbank to the exchange register on Oct 12 with Dec 1 products planned. Regulator register plus Interfax confirmation still needed.",
+      "reason": "needs-corroboration",
+      "note": "Opened the Decrypt piece on Sberbank approval to trade bitcoin. CBR record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:11.668Z",
+      "reviewedAt": "2026-10-16T03:57:34.079Z",
       "retrySearches": [
-        "Sberbank Bank of Russia register Interfax second outlet"
+        "Sberbank bitcoin trading approval Russia central bank"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "5a1f68cae2407821f2ac": {
       "source": "Cointelegraph",
@@ -85113,6 +85113,21 @@
           "reviewedAt": "2026-10-16T03:57:31.848Z",
           "retrySearches": [
             "Coinbase Bitcoin post-quantum migration designs post"
+          ]
+        },
+        "374bf63c642dee162c49": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on Sberbank approval to trade bitcoin. CBR record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:34.079Z",
+          "retrySearches": [
+            "Sberbank bitcoin trading approval Russia central bank"
           ]
         }
       },
