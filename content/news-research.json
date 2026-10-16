@@ -47537,11 +47537,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c9fccd65ca7115a6f14",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:35:24.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "verified-event",
+      "note": "Verified 241 domains and 112 servers, three-year probe, recovery scam and 300K seized in DA release, CoinDesk and Decrypt.",
+      "sourceChecks": [
+        {
+          "url": "https://www.brooklynda.org/2026/10/14/brooklyn-das-virtual-currency-unit-dismantles-infrastructure-of-multinational-crypto-investment-scam-that-targeted-russian-speakers/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:52:20.322Z",
+      "articleSlug": "brooklyn",
+      "lastReviewedDay": "2026-10-16"
     },
     "23be1511b0ccc0f21363": {
       "source": "The Defiant",
@@ -83359,6 +83378,27 @@
           "reviewedAt": "2026-10-16T03:50:06.832Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
+        },
+        "4c9fccd65ca7115a6f14": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 241 domains and 112 servers, three-year probe, recovery scam and 300K seized in DA release, CoinDesk and Decrypt.",
+          "sourceChecks": [
+            {
+              "url": "https://www.brooklynda.org/2026/10/14/brooklyn-das-virtual-currency-unit-dismantles-infrastructure-of-multinational-crypto-investment-scam-that-targeted-russian-speakers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:52:20.322Z",
+          "articleSlug": "brooklyn"
         }
       },
       "baselineSlugs": [
