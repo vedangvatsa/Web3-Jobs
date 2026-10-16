@@ -38345,25 +38345,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0930cf5fb75a44cf1e0d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T13:51:05.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "source-blocked",
-      "note": "Trezor reseller page blocked again in this run; Trezor notice and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:54:35.941Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 Trezor reseller-network cut as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:47.407Z",
       "retrySearches": [
         "Trezor reseller network cut notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "993147b9b3355a8e0769": {
       "source": "Cointelegraph",
@@ -83272,6 +83268,15 @@
           "reviewedAt": "2026-10-16T03:48:45.092Z",
           "duplicateOf": "starknet-vote",
           "mergedInto": "031208ac91461642af08"
+        },
+        "0930cf5fb75a44cf1e0d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 Trezor reseller-network cut as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:47.407Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
         }
       },
       "baselineSlugs": [
