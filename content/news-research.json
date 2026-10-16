@@ -46055,11 +46055,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "95ee04480f78d7f3cbf7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:27:08.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Trump Iowa rally scheduling; campaign news, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:10.517Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "ec5b0c457a7ec847dbc5": {
       "source": "The Defiant",
@@ -82805,6 +82810,13 @@
           "note": "Senator touting Maine project funding; US politics, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:08.293Z"
+        },
+        "95ee04480f78d7f3cbf7": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Trump Iowa rally scheduling; campaign news, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:10.517Z"
         }
       },
       "baselineSlugs": [
