@@ -28,8 +28,9 @@
         },
         {
           "index": 1,
-          "status": "claimed",
-          "startedAt": "2026-10-16T21:53:00.067Z"
+          "status": "container-created",
+          "startedAt": "2026-10-16T21:53:00.067Z",
+          "containerId": "18097382822199925"
         }
       ]
     }
