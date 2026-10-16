@@ -1459,5 +1459,36 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 155781,
     "sentAt": "2026-10-15T19:33:39.406Z"
+  },
+  "2932f20c-9f92-4d32-9985-cf1506d97c96": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:22:34.355Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Spiko raises $90 million Series B led by NEA",
+        "summary": "The Paris-based fintech company has reached $120 million in total funding while managing $2.6 billion in assets.",
+        "link": "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Spiko raises $90M Series B led by NEA to expand tokenized cash funds"
+      },
+      {
+        "index": -1,
+        "headline": "Umia raises $6 million via Base token auction",
+        "summary": "The company sold tokens at an $18 million valuation to various investors including Galaxy and DCG.",
+        "link": "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper"
+      },
+      {
+        "index": -1,
+        "headline": "Winklevoss Asset Services Files for Spot Zcash ETF",
+        "summary": "The firm filed an S-1 for a Zcash ETF on Nasdaq with a 0.25 percent fee and Gemini custody.",
+        "link": "https://hashtagweb3.com/zec-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Winklevoss Files for Spot Zcash ETF With WINK Ticker"
+      }
+    ],
+    "slotKey": "2026-10-16:morning"
   }
 }
