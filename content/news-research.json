@@ -46719,11 +46719,25 @@
         "The Defiant"
       ],
       "id": "857aff714f94618e8c4d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T19:26:54.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the BeInCrypto page today; IPX raise notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/ipx-4m-funding-celebrity-tokenization-base-launch/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:23.679Z",
+      "retrySearches": [
+        "IPX Exchange 4M seed agentic tokenized IP announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "8f9bc246e601ddf638cd": {
       "source": "Bankless",
@@ -84678,6 +84692,21 @@
           "reviewedAt": "2026-10-16T03:56:21.341Z",
           "retrySearches": [
             "Ripple Prime traditional-asset perps Trade.xyz Bloomberg"
+          ]
+        },
+        "857aff714f94618e8c4d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the BeInCrypto page today; IPX raise notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ipx-4m-funding-celebrity-tokenization-base-launch/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:23.679Z",
+          "retrySearches": [
+            "IPX Exchange 4M seed agentic tokenized IP announcement"
           ]
         }
       },
