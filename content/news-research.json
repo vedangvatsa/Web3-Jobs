@@ -45468,11 +45468,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d0507d3c7ccfd3877f06",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:23:35.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Fund-manager supercycle prediction for Bitcoin; forecast commentary, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:13.696Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "2c4b130c65aaaac0b139": {
       "source": "Bitcoin Magazine",
@@ -82324,6 +82329,13 @@
           "note": "Interview arguing number-go-up solves Bitcoin marketing; commentary without a concrete news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:11.539Z"
+        },
+        "d0507d3c7ccfd3877f06": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Fund-manager supercycle prediction for Bitcoin; forecast commentary, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:13.696Z"
         }
       },
       "baselineSlugs": [
