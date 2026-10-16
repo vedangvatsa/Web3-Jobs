@@ -37260,27 +37260,23 @@
       "id": "c6e4972c0a7ed67a1242",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T21:52:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece on the BNY-Citadel tokenized Treasury test. Participant notice plus triparty-platform confirmation still needed.",
+      "note": "Opened the CoinDesk piece on the tokenized Treasury financing test. Participant notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
           "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:41.095Z",
+      "reviewedAt": "2026-10-16T03:59:11.492Z",
       "retrySearches": [
-        "BNY Citadel tokenized Treasury triparty confirmation second outlet"
+        "BNY Citadel tokenized Treasuries financing test triparty"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "92accb5e69d70a640573": {
       "source": "CryptoSlate",
@@ -85857,6 +85853,21 @@
           "reviewedAt": "2026-10-16T03:59:09.218Z",
           "retrySearches": [
             "Strive SATS preferred 500M bitcoin treasury SEC filing"
+          ]
+        },
+        "c6e4972c0a7ed67a1242": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece on the tokenized Treasury financing test. Participant notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:11.492Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasuries financing test triparty"
           ]
         }
       },
