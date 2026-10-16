@@ -44575,11 +44575,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7eeb64fa6a37a8224f5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T18:48:02.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the CoinDesk analysis of the White House policy vacancy. Staffing confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:43.961Z",
+      "retrySearches": [
+        "White House crypto negotiator vacancy Witt policy analysis"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "5740f6269331a5ee0b94": {
       "source": "Cointelegraph",
@@ -86175,6 +86189,21 @@
           "reviewedAt": "2026-10-16T03:59:41.699Z",
           "retrySearches": [
             "Pirate Chain ARRR exploit rollback team statement"
+          ]
+        },
+        "e7eeb64fa6a37a8224f5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk analysis of the White House policy vacancy. Staffing confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:43.961Z",
+          "retrySearches": [
+            "White House crypto negotiator vacancy Witt policy analysis"
           ]
         }
       },
