@@ -13138,7 +13138,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1c58bd4a-6e4b-485a-9cc2-750e2fe3ad49",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
