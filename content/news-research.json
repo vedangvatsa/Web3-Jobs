@@ -46977,11 +46977,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0efd8457a3debade0a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:23:10.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Ledger Atom device beyond signers as covered in /atom.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:25.898Z",
+      "duplicateOf": "atom",
+      "mergedInto": "6e9e26c4e4ee35d7a9f2",
+      "lastReviewedDay": "2026-10-16"
     },
     "d5b44001981c9e99f004": {
       "source": "CoinJournal",
@@ -83152,6 +83159,15 @@
           "note": "Same Oct 15 Ledger Atom 849-dollar device and ship timing as covered in /atom.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:23.556Z",
+          "duplicateOf": "atom",
+          "mergedInto": "6e9e26c4e4ee35d7a9f2"
+        },
+        "a0efd8457a3debade0a7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Ledger Atom device beyond signers as covered in /atom.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:25.898Z",
           "duplicateOf": "atom",
           "mergedInto": "6e9e26c4e4ee35d7a9f2"
         }
