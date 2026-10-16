@@ -47412,11 +47412,25 @@
         "Bankless"
       ],
       "id": "ee84679490f2153d1205",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:00:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; NEAR Foundation notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:49.074Z",
+      "retrySearches": [
+        "Mert Mumtaz NEAR Foundation Council appointment"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "633ca025031484e2b127": {
       "source": "Unchained",
@@ -84243,6 +84257,21 @@
           "reviewedAt": "2026-10-16T03:55:46.848Z",
           "retrySearches": [
             "Ledger organized criminal group wallet tampering statement"
+          ]
+        },
+        "ee84679490f2153d1205": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; NEAR Foundation notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:49.074Z",
+          "retrySearches": [
+            "Mert Mumtaz NEAR Foundation Council appointment"
           ]
         }
       },
