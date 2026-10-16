@@ -38171,23 +38171,23 @@
       "id": "7534ed35e0a52842c3d3",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T15:00:29.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "DRW-Marex swap page blocked again in this run; participant notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; participant notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:31.765Z",
+      "reviewedAt": "2026-10-16T03:54:09.986Z",
       "retrySearches": [
-        "DRW Marex tokenized SP iBoxx swap notice second outlet"
+        "DRW Marex tokenized S&P iBoxx OTC swap Canton"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a38eef23289a120208a6": {
       "source": "The Block",
@@ -83570,6 +83570,21 @@
           "reviewedAt": "2026-10-16T03:54:07.538Z",
           "retrySearches": [
             "Starknet Shadow Accounts StarkWare docs launch"
+          ]
+        },
+        "7534ed35e0a52842c3d3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; participant notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:09.986Z",
+          "retrySearches": [
+            "DRW Marex tokenized S&P iBoxx OTC swap Canton"
           ]
         }
       },
