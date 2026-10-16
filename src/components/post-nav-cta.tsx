@@ -8,9 +8,9 @@ import { trackCTAClick } from '@/lib/posthog';
 const POSTING_URL = 'https://t.me/web3jobs_rep';
 
 const CTA_LABEL: Record<'job' | 'event' | 'popup' | 'partner', string> = {
-  job: 'Post a Job',
-  event: 'Post an Event',
-  popup: 'Add a Society',
+  job: 'Post Job',
+  event: 'Post Event',
+  popup: 'Add Society',
   partner: 'Partner',
 };
 
@@ -27,7 +27,6 @@ export function PostNavCta() {
 
   return (
     <PrimaryActionLink
-      className="h-11"
       href={POSTING_URL}
       target="_blank"
       rel="noopener noreferrer"
