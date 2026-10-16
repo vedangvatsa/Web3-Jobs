@@ -36705,23 +36705,23 @@
       "id": "56b8b4503b2bb3a3df5a",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T00:30:45.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; $380M buyback alongside $329M bond plan after 90% slide. Company filing plus a second outlet still needed.",
+      "note": "Opened the CryptoSlate piece; $380M buyback after the slide from peak. Company filing plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:47.939Z",
+      "reviewedAt": "2026-10-16T03:57:54.891Z",
       "retrySearches": [
-        "Metaplanet buyback bond filing second outlet"
+        "Metaplanet 380 million share buyback filing October 2026"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "72fff0a7246e1876b504": {
       "source": "Crypto Briefing",
@@ -85290,6 +85290,21 @@
           "reviewedAt": "2026-10-16T03:57:52.686Z",
           "retrySearches": [
             "Ledger organized crime group millions wallet tampering statement"
+          ]
+        },
+        "56b8b4503b2bb3a3df5a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece; $380M buyback after the slide from peak. Company filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:54.891Z",
+          "retrySearches": [
+            "Metaplanet 380 million share buyback filing October 2026"
           ]
         }
       },
