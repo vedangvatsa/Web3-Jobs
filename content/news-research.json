@@ -34737,23 +34737,23 @@
       "id": "60379db62514ce4429a7",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T20:39:35.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "FBI scam-tally page blocked again in this run; FBI release and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; FBI release plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:00.117Z",
+      "reviewedAt": "2026-10-16T03:54:34.374Z",
       "retrySearches": [
-        "FBI 17 billion scam centers West Africa raids report"
+        "FBI 17 billion scam centers West Africa raids"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "44fdb8b2c06c21599b30": {
       "source": "Decrypt",
@@ -83720,6 +83720,21 @@
           "reviewedAt": "2026-10-16T03:54:32.025Z",
           "retrySearches": [
             "DOJ North Korean laptop farm arrests press release"
+          ]
+        },
+        "60379db62514ce4429a7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; FBI release plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:34.374Z",
+          "retrySearches": [
+            "FBI 17 billion scam centers West Africa raids"
           ]
         }
       },
