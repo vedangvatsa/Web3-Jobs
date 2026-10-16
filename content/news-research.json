@@ -46365,11 +46365,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd9a49823a4cdb6c9016",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:22:26.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "CoreWeave financial-distress chatter on bond yields; AI-cloud credit story, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:51.816Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "1f5dbf747556d5141015": {
       "source": "Decrypt",
@@ -82709,6 +82714,13 @@
           "note": "AI-agent prompt-injection research; AI safety story, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:49.599Z"
+        },
+        "bd9a49823a4cdb6c9016": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "CoreWeave financial-distress chatter on bond yields; AI-cloud credit story, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:51.816Z"
         }
       },
       "baselineSlugs": [
