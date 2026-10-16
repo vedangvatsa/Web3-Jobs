@@ -5025,5 +5025,100 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 16543,
     "sentAt": "2026-10-16T11:32:09.058Z"
+  },
+  "7f823f3b-6d16-4ae4-a9c0-346d5e826fbe": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T11:32:17.311Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "2a42c549-793f-4b2b-83c8-b87a94730e31",
+          "title": "Senior Product Designer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31",
+          "date": "2026-09-29T00:06:50.258+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm177"
+        },
+        "key": "2a42c549-793f-4b2b-83c8-b87a94730e31",
+        "slug": "pm177",
+        "url": "https://hashtagweb3.com/pm177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8034314003",
+          "title": "Senior Growth Manager, Web3",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8034314003",
+          "date": "2026-10-15T01:17:58-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Crypto Ecosystem Development",
+          "active": true,
+          "slug": "mkt13",
+          "dateVerified": true
+        },
+        "key": "8034314003",
+        "slug": "mkt13",
+        "url": "https://hashtagweb3.com/mkt13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Growth Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8261970",
+          "title": "Talent Acquisition Coordinator",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8261970",
+          "date": "2026-10-07T12:59:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "Talent Acquisition Operations",
+          "active": true,
+          "salary": "$60k – $70k/yr",
+          "dateVerified": true,
+          "slug": "rec33"
+        },
+        "key": "8261970",
+        "slug": "rec33",
+        "url": "https://hashtagweb3.com/rec33?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Talent Acquisition Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "8019375003",
+          "title": "Financial Controller (Remote - Work from Anywhere)",
+          "company": "Xapo Bank",
+          "link": "https://job-boards.greenhouse.io/xapo61/jobs/8019375003",
+          "date": "2026-10-14T04:02:26-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Xapo Bank [xapo61]",
+          "location": "Gibraltar - Remote",
+          "department": "Finance ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fcwa"
+        },
+        "key": "8019375003",
+        "slug": "fcwa",
+        "url": "https://hashtagweb3.com/fcwa?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Xapo Bank",
+        "title": "Financial Controller"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/pm177?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mkt13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Growth Manager, Web3</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/rec33?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition Coordinator</a>\n- Xapo Bank is hiring <a href=\"https://hashtagweb3.com/fcwa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controller (Remote - Work from Anywhere)</a>",
+    "slotKey": "2026-10-16:afternoon"
   }
 }
