@@ -46665,11 +46665,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "83b9931d3c32ef52c8d6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T21:18:33.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Aave or Circle notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:25.991Z",
+      "retrySearches": [
+        "Aave V4 Arc dollar euro loans shared liquidity announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "d1e1d9b7e1618dd01579": {
       "source": "BeInCrypto",
@@ -84707,6 +84721,21 @@
           "reviewedAt": "2026-10-16T03:56:23.679Z",
           "retrySearches": [
             "IPX Exchange 4M seed agentic tokenized IP announcement"
+          ]
+        },
+        "83b9931d3c32ef52c8d6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Aave or Circle notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:25.991Z",
+          "retrySearches": [
+            "Aave V4 Arc dollar euro loans shared liquidity announcement"
           ]
         }
       },
