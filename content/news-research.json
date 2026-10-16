@@ -45690,11 +45690,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "54fb3a2a702113dc377a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T02:23:55.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "JPMorgan and Goldman terms on a 5 billion AI loan; traditional credit, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:33.687Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "1f86c45c2c4dd21e1897": {
       "source": "CryptoSlate",
@@ -82613,6 +82618,13 @@
           "note": "Bank of England remarks on inflation and cost-cutting; macro policy, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:29.655Z"
+        },
+        "54fb3a2a702113dc377a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "JPMorgan and Goldman terms on a 5 billion AI loan; traditional credit, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:33.687Z"
         }
       },
       "baselineSlugs": [
