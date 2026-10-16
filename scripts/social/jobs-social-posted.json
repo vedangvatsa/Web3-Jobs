@@ -13313,7 +13313,8 @@
       },
       "account": "channel:product",
       "attemptId": "3eb5ad41-2427-4e0e-9924-a0631a472924",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x21756ff66c868df270e03617c70467424831c769"
     }
   ]
 }
