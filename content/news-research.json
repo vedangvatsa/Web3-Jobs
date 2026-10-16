@@ -41480,25 +41480,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfaa2c11db0682a9e8ca",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T11:01:56.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Unchained piece; N3XT joins Clear Markets collateral network with no live date or clients named. Partner notice plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/n3xt-joins-clear-markets-collateralizer-network-for-24-7-dollar-derivatives-collateral/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:57:02.339Z",
+      "reason": "promotional",
+      "note": "N3XT joining a derivatives collateral network; single-source institutional PR, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:50:02.050Z",
       "retrySearches": [
         "N3XT Clear Markets collateral network notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "e88caed790e6bc8d1862": {
       "source": "Unchained",
@@ -83341,6 +83335,13 @@
           "note": "XDC-Concordium identity partnership announcement; single-source partner PR without independent verification.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:49:59.639Z"
+        },
+        "cfaa2c11db0682a9e8ca": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "N3XT joining a derivatives collateral network; single-source institutional PR, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:50:02.050Z"
         }
       },
       "baselineSlugs": [
