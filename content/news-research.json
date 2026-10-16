@@ -35104,23 +35104,23 @@
       "id": "9b30425c8214bd895459",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T22:49:07.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Bitcoin Magazine piece; university team claims first post-quantum Lightning design. Paper and a second outlet still needed.",
+      "note": "Opened the Bitcoin Magazine piece on the post-quantum Lightning design. Paper plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:37.647Z",
+      "reviewedAt": "2026-10-16T03:58:40.990Z",
       "retrySearches": [
-        "post-quantum Lightning Network paper second outlet"
+        "post-quantum Lightning Network defense paper researchers"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1b7b07c109b0b079ac82": {
       "source": "Crypto Briefing",
@@ -85660,6 +85660,21 @@
           "reviewedAt": "2026-10-16T03:58:38.593Z",
           "retrySearches": [
             "Hyperliquid founder US regulatory exemption letter CFTC"
+          ]
+        },
+        "9b30425c8214bd895459": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Bitcoin Magazine piece on the post-quantum Lightning design. Paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:40.990Z",
+          "retrySearches": [
+            "post-quantum Lightning Network defense paper researchers"
           ]
         }
       },
