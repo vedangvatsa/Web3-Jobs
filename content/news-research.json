@@ -47372,11 +47372,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1cd4adb56f4ebe23687",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:09:51.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Stripe or Plasma notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:53.645Z",
+      "retrySearches": [
+        "Stripe Plasma multi-currency stablecoin cards announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "b31c8b330d4ab43a5edc": {
       "source": "BeInCrypto",
@@ -84301,6 +84315,21 @@
           "reviewedAt": "2026-10-16T03:55:51.328Z",
           "retrySearches": [
             "BingX EU MiCAR license record announcement"
+          ]
+        },
+        "f1cd4adb56f4ebe23687": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Stripe or Plasma notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:53.645Z",
+          "retrySearches": [
+            "Stripe Plasma multi-currency stablecoin cards announcement"
           ]
         }
       },
