@@ -40411,23 +40411,23 @@
       "id": "84f2457e7ce69ceffc78",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T09:14:28.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; Babylon proposal is at ARFC stage with votes and reviews pending. Proposal record plus a second outlet still needed.",
+      "note": "Opened the Cointelegraph piece on native bitcoin collateral for Aave V4. Forum proposal plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:57:14.540Z",
+      "reviewedAt": "2026-10-16T03:58:29.499Z",
       "retrySearches": [
-        "Babylon Aave V4 proposal ARFC second outlet"
+        "Babylon native bitcoin collateral Aave V4 proposal"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "9463281292522d2c10ec": {
       "source": "BeInCrypto",
@@ -85571,6 +85571,21 @@
           "reviewedAt": "2026-10-16T03:58:27.207Z",
           "retrySearches": [
             "Coins.ph central bank regulatory action BSP order scope"
+          ]
+        },
+        "84f2457e7ce69ceffc78": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on native bitcoin collateral for Aave V4. Forum proposal plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:29.499Z",
+          "retrySearches": [
+            "Babylon native bitcoin collateral Aave V4 proposal"
           ]
         }
       },
