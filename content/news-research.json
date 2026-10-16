@@ -35368,23 +35368,23 @@
       "id": "3f87fa5ce83e2d11a731",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T18:20:02.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate analysis; fee and migration terms reported with DAO approval pending. Vote record plus launch-date confirmation still needed.",
+      "note": "Opened the CryptoSlate piece on the ENSv2 overhaul and migration catch. DAO proposal record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:26.436Z",
+      "reviewedAt": "2026-10-16T03:57:36.392Z",
       "retrySearches": [
-        "ENSv2 vote record launch date second outlet"
+        "ENS ENSv2 upgrade DAO proposal vote .eth migration"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e611ef9e08fc6de725a6": {
       "source": "Decrypt",
@@ -85128,6 +85128,21 @@
           "reviewedAt": "2026-10-16T03:57:34.079Z",
           "retrySearches": [
             "Sberbank bitcoin trading approval Russia central bank"
+          ]
+        },
+        "3f87fa5ce83e2d11a731": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on the ENSv2 overhaul and migration catch. DAO proposal record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:36.392Z",
+          "retrySearches": [
+            "ENS ENSv2 upgrade DAO proposal vote .eth migration"
           ]
         }
       },
