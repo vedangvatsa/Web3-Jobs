@@ -2554,7 +2554,7 @@
     "sentAt": "2026-10-16T11:32:36.686Z"
   },
   "b0de5f7f-e2f4-4a72-8116-7397c16a8ed8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T19:34:56.019Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2603,6 +2603,8 @@
       }
     ],
     "message": "- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/com3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compensation Lead</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/pm164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager - Customer Growth</a>",
-    "slotKey": "2026-10-16:evening"
+    "slotKey": "2026-10-16:evening",
+    "messageId": 155792,
+    "sentAt": "2026-10-16T19:35:37.018Z"
   }
 }
