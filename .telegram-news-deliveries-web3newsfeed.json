@@ -1558,5 +1558,36 @@
     "slotKey": "2026-10-16:morning",
     "messageId": 65754,
     "sentAt": "2026-10-16T04:22:34.202Z"
+  },
+  "1410e8b9-87d3-4f53-b1f2-ed75f4acc3a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T11:32:48.505Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Authorities Seize Crypto Scam Infrastructure Targeting Russian Speakers",
+        "summary": "The FBI and prosecutors seized 241 domains and 112 servers, recovering approximately $300,000 from the scheme.",
+        "link": "https://hashtagweb3.com/brooklyn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Brooklyn prosecutors dismantle crypto scam aimed at Russian speakers"
+      },
+      {
+        "index": -1,
+        "headline": "MSCI rule change may remove MicroStrategy from global indexes",
+        "summary": "A new methodology for non-operating firms takes effect November 30, with the final exclusion list expected November 11.",
+        "link": "https://hashtagweb3.com/msci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MSCI adopts rules that could oust Strategy from indexes"
+      },
+      {
+        "index": -1,
+        "headline": "Starknet polls holders on researching independent layer 1 status",
+        "summary": "This non-binding vote asks if the network should study developing its own post-quantum blockchain.",
+        "link": "https://hashtagweb3.com/starknet-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Starknet opens vote on becoming an independent layer 1"
+      }
+    ],
+    "slotKey": "2026-10-16:afternoon"
   }
 }
