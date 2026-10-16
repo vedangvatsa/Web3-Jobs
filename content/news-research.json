@@ -44776,11 +44776,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf284122cef1364d67eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:20:32.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Starknet independent-L1 research vote as covered in /starknet-vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:38.078Z",
+      "duplicateOf": "starknet-vote",
+      "mergedInto": "031208ac91461642af08",
+      "lastReviewedDay": "2026-10-16"
     },
     "e34c70066528987887bd": {
       "source": "Crypto Briefing",
@@ -83234,6 +83241,15 @@
           "reviewedAt": "2026-10-16T03:48:35.777Z",
           "duplicateOf": "msci",
           "mergedInto": "6c59b48dc370bbd1fc14"
+        },
+        "cf284122cef1364d67eb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Starknet independent-L1 research vote as covered in /starknet-vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:38.078Z",
+          "duplicateOf": "starknet-vote",
+          "mergedInto": "031208ac91461642af08"
         }
       },
       "baselineSlugs": [
