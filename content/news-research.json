@@ -39160,25 +39160,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "159037f1413ade874446",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:22:00.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Cointelegraph piece; Starknet opened a 7-day non-binding STRK vote on L1 exploration closing Oct 22. Governance post plus second-outlet confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:27.323Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Starknet L2-exit vote as covered in /starknet-vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:42.712Z",
       "retrySearches": [
         "Starknet L1 vote governance post second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "starknet-vote",
+      "mergedInto": "031208ac91461642af08"
     },
     "c3f8abc2b8fc69ddface": {
       "source": "Crypto Briefing",
@@ -83264,6 +83260,15 @@
           "note": "Same Oct 15 Starknet seven-day quantum vote as covered in /starknet-vote.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:40.429Z",
+          "duplicateOf": "starknet-vote",
+          "mergedInto": "031208ac91461642af08"
+        },
+        "159037f1413ade874446": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Starknet L2-exit vote as covered in /starknet-vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:42.712Z",
           "duplicateOf": "starknet-vote",
           "mergedInto": "031208ac91461642af08"
         }
