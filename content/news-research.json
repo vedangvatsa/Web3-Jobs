@@ -38651,23 +38651,23 @@
       "id": "e98e0dee2df9744aba85",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T10:23:07.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; Y52B zero-coupon bonds due 2031 to repay loans and fund buybacks. Company filing plus a second outlet still needed.",
+      "note": "Opened the Cointelegraph piece on $329M convertibles for debt and buybacks. Company filing plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:49.934Z",
+      "reviewedAt": "2026-10-16T03:59:46.208Z",
       "retrySearches": [
-        "Metaplanet convertible bonds filing second outlet"
+        "Metaplanet 329M convertible bonds debt buyback filing"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "cc02128e785afeaddb06": {
       "source": "Unchained",
@@ -86204,6 +86204,21 @@
           "reviewedAt": "2026-10-16T03:59:43.961Z",
           "retrySearches": [
             "White House crypto negotiator vacancy Witt policy analysis"
+          ]
+        },
+        "e98e0dee2df9744aba85": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on $329M convertibles for debt and buybacks. Company filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:46.208Z",
+          "retrySearches": [
+            "Metaplanet 329M convertible bonds debt buyback filing"
           ]
         }
       },
