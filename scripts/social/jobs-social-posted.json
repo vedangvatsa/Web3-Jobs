@@ -12656,7 +12656,8 @@
       "provider": "buffer",
       "attemptId": "4acb150c-b37f-45a0-8637-1a3a47000b05",
       "verification": "pending",
-      "postId": "6ad20bb725d13dd62ee376ae"
+      "postId": "6ad20bb725d13dd62ee376ae",
+      "error": "LinkedIn CVin.Bio receipt 6ad20bb725d13dd62ee376ae remains pending; read-only reconciliation required"
     }
   ]
 }
