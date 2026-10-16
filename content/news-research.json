@@ -46281,11 +46281,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ddd5edbee98d192ff431",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:35:15.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Meta speech-recognition prize listing; AI product story, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:01.097Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "808fbb224f7795b8ac15": {
       "source": "Crypto Briefing",
@@ -82757,6 +82762,13 @@
           "note": "CoreWeave debt-insurance costs; AI-cloud credit story, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:58.778Z"
+        },
+        "ddd5edbee98d192ff431": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Meta speech-recognition prize listing; AI product story, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:01.097Z"
         }
       },
       "baselineSlugs": [
