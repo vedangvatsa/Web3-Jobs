@@ -47132,11 +47132,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "55131e319e7dfd67d8fe",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:58:08.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Bitcoin Magazine piece; organized group allegedly spent millions on tampering. Ledger statement plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:52.686Z",
+      "retrySearches": [
+        "Ledger organized crime group millions wallet tampering statement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "01a4847bd2658aa68ab4": {
       "source": "CryptoSlate",
@@ -85261,6 +85275,21 @@
           "reviewedAt": "2026-10-16T03:57:50.272Z",
           "retrySearches": [
             "ASIC crypto derivatives CFD leverage caps consultation"
+          ]
+        },
+        "55131e319e7dfd67d8fe": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Bitcoin Magazine piece; organized group allegedly spent millions on tampering. Ledger statement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:52.686Z",
+          "retrySearches": [
+            "Ledger organized crime group millions wallet tampering statement"
           ]
         }
       },
