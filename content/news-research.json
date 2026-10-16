@@ -43351,23 +43351,23 @@
       "id": "ba263a8d15472ae0ff07",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T16:34:03.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "UNCX exploit page blocked again in this run; Blockaid report and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Blockaid report plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:20.059Z",
+      "reviewedAt": "2026-10-16T03:55:15.484Z",
       "retrySearches": [
-        "UNCX vesting pool exploit Blockaid report second outlet"
+        "UNCX vesting pool exploit Blockaid 86000"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "353f0763d9cf6953ef84": {
       "source": "Bankless",
@@ -83990,6 +83990,21 @@
           "reviewedAt": "2026-10-16T03:55:13.258Z",
           "retrySearches": [
             "Uniswap ETH USDC separate buy sell fees pool launch"
+          ]
+        },
+        "ba263a8d15472ae0ff07": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Blockaid report plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:15.484Z",
+          "retrySearches": [
+            "UNCX vesting pool exploit Blockaid 86000"
           ]
         }
       },
