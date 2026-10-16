@@ -1591,5 +1591,36 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 65755,
     "sentAt": "2026-10-16T11:34:01.731Z"
+  },
+  "3a59dc13-0843-42dd-afa4-6b4639c9beba": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T19:34:45.225Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ledger announces $849 Atom Android device with Solana app",
+        "summary": "The device includes a secure operating mode and is scheduled for release in summer 2027.",
+        "link": "https://hashtagweb3.com/atom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ledger unveils $849 Atom device with Solana Seeker app"
+      },
+      {
+        "index": -1,
+        "headline": "Network School Acquires Farcaster From Neynar",
+        "summary": "The buyer is implementing new client rules while promising to keep the underlying protocol open.",
+        "link": "https://hashtagweb3.com/nsfarcaster?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Network School Acquires Farcaster From Neynar"
+      },
+      {
+        "index": -1,
+        "headline": "Payward to acquire Saldo Bank for EU banking license",
+        "summary": "The deal for the Lithuanian institution requires regulatory approval and should conclude in 2027.",
+        "link": "https://hashtagweb3.com/saldo-bank?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Payward agrees to buy Saldo Bank for EU banking license"
+      }
+    ],
+    "slotKey": "2026-10-16:evening"
   }
 }
