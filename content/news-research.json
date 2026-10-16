@@ -45234,11 +45234,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea48cb3dadc6274a11a6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:53:12.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin briefly sliding below 80K on inflation data; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:48.558Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "49aad686e8625b158b74": {
       "source": "The Block",
@@ -82240,6 +82245,13 @@
           "note": "Bitcoin holding above 81K alongside producer-price data; price commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:46.319Z"
+        },
+        "ea48cb3dadc6274a11a6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin briefly sliding below 80K on inflation data; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:48.558Z"
         }
       },
       "baselineSlugs": [
