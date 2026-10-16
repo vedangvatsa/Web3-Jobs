@@ -42345,23 +42345,23 @@
       "id": "9b84c989c6ff0e2ed3b1",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T08:20:16.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate deep-dive on the OCC nine-bank findings with BNY example. OCC report plus bank-response confirmation still needed.",
+      "note": "Opened the CryptoSlate piece on nine banks and new OCC rules. OCC report plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:11.178Z",
+      "reviewedAt": "2026-10-16T03:58:43.596Z",
       "retrySearches": [
-        "OCC nine banks findings bank responses second outlet"
+        "OCC nine banks crypto accounts debanking report"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "443a4e34c253229e2509": {
       "source": "Crypto Briefing",
@@ -85675,6 +85675,21 @@
           "reviewedAt": "2026-10-16T03:58:40.990Z",
           "retrySearches": [
             "post-quantum Lightning Network defense paper researchers"
+          ]
+        },
+        "9b84c989c6ff0e2ed3b1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on nine banks and new OCC rules. OCC report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:43.596Z",
+          "retrySearches": [
+            "OCC nine banks crypto accounts debanking report"
           ]
         }
       },
