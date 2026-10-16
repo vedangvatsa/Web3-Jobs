@@ -44610,11 +44610,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "031208ac91461642af08",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:23:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "verified-event",
+      "note": "Verified seven-day STRK poll to Oct 22, research-only scope and early tally in forum post, Unchained and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/starknet-opens-its-first-vote-on-becoming-an-independent-post-quantum-layer-1/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:47:40.414Z",
+      "articleSlug": "starknet-vote",
+      "lastReviewedDay": "2026-10-16"
     },
     "76d8b2e8fbe48e46567f": {
       "source": "The Block",
@@ -83037,6 +83056,27 @@
           ],
           "reviewedAt": "2026-10-16T03:47:37.940Z",
           "articleSlug": "msci"
+        },
+        "031208ac91461642af08": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified seven-day STRK poll to Oct 22, research-only scope and early tally in forum post, Unchained and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://community.starknet.io/t/should-starknet-become-an-independent-post-quantum-l1/116392",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/starknet-opens-its-first-vote-on-becoming-an-independent-post-quantum-layer-1/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:47:40.414Z",
+          "articleSlug": "starknet-vote"
         }
       },
       "baselineSlugs": [
