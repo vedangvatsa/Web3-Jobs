@@ -4930,7 +4930,7 @@
     "sentAt": "2026-10-16T04:21:01.796Z"
   },
   "bbf7a0a9-1549-4a73-8276-e8879946d5fe": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T11:32:05.799Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -5022,6 +5022,8 @@
       }
     ],
     "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/pm177?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mkt13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Growth Manager, Web3</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/rec33?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Acquisition Coordinator</a>\n- Xapo Bank is hiring <a href=\"https://hashtagweb3.com/fcwa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Controller (Remote - Work from Anywhere)</a>",
-    "slotKey": "2026-10-16:afternoon"
+    "slotKey": "2026-10-16:afternoon",
+    "messageId": 16543,
+    "sentAt": "2026-10-16T11:32:09.058Z"
   }
 }
