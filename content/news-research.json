@@ -46940,11 +46940,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2e66c90f32d5d9c24dbe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:25:08.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Think-piece on tokenization being about more than onchain assets; commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:36.355Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "bfe1cfe597885aabdedd": {
       "source": "The Defiant",
@@ -82444,6 +82449,13 @@
           "note": "Essay asking whether stablecoins replace banks; future-of-money speculation, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:34.040Z"
+        },
+        "2e66c90f32d5d9c24dbe": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Think-piece on tokenization being about more than onchain assets; commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:36.355Z"
         }
       },
       "baselineSlugs": [
