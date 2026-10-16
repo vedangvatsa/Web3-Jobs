@@ -39259,27 +39259,23 @@
       "id": "a2e6429f3797eeab3814",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:54:08.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "missing-primary-source",
-      "note": "Read the CryptoBriefing piece; Oct 15 one-transaction staking from four L2s with CCIP plumbing. Lido announcement plus a second readable outlet still needed.",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on one-transaction L2 staking. Lido notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
           "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:34.584Z",
+      "reviewedAt": "2026-10-16T03:58:50.616Z",
       "retrySearches": [
-        "Lido direct staking announcement second outlet"
+        "Lido direct ETH staking Arbitrum Base Linea Optimism announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "c508fffb47602c7c6a05": {
       "source": "The Defiant",
@@ -85720,6 +85716,21 @@
           "reviewedAt": "2026-10-16T03:58:48.232Z",
           "retrySearches": [
             "AI agents 138 million crypto payments report micropayments"
+          ]
+        },
+        "a2e6429f3797eeab3814": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on one-transaction L2 staking. Lido notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/lido-direct-eth-staking-layer-2s/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:50.616Z",
+          "retrySearches": [
+            "Lido direct ETH staking Arbitrum Base Linea Optimism announcement"
           ]
         }
       },
