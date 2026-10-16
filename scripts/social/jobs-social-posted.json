@@ -13033,7 +13033,8 @@
       },
       "account": "channel:dev",
       "attemptId": "4ddf32c3-d72e-47ae-8a19-a88f743a2d05",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1eedbaeb3b440994760f7e80e22afeb577d8d915"
     }
   ]
 }
