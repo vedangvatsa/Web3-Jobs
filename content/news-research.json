@@ -43837,23 +43837,23 @@
       "id": "76ac1901414dba06b726",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:59:39.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Bastion-SkyAI page blocked again in this run; Bastion letter and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Bastion letter plus SkyAI response still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:30.403Z",
+      "reviewedAt": "2026-10-16T03:55:01.924Z",
       "retrySearches": [
-        "Bastion SkyAI tender price demands letter second outlet"
+        "Bastion SkyAI tender price board overhaul letter"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "dcd19462e41b3e4b2f25": {
       "source": "Decrypt",
@@ -83900,6 +83900,21 @@
           "reviewedAt": "2026-10-16T03:54:59.646Z",
           "retrySearches": [
             "OCC debanking report nine banks crypto"
+          ]
+        },
+        "76ac1901414dba06b726": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Bastion letter plus SkyAI response still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:01.924Z",
+          "retrySearches": [
+            "Bastion SkyAI tender price board overhaul letter"
           ]
         }
       },
