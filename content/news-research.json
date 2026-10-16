@@ -45808,11 +45808,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f86c45c2c4dd21e1897",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T02:20:21.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the CryptoSlate piece; 82 charges after an armed crypto abduction. Police record plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/82-criminal-charges-follow-armed-crypto-abduction-in-toronto/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:20.420Z",
+      "retrySearches": [
+        "Toronto armed crypto abduction 82 charges police"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "32a0ffc425115af008ac": {
       "source": "Crypto Briefing",
@@ -84995,6 +85009,21 @@
           "reviewedAt": "2026-10-16T03:57:18.135Z",
           "retrySearches": [
             "KuCoin Nigeria ARIP SEC Nigeria Approval-in-Principle record"
+          ]
+        },
+        "1f86c45c2c4dd21e1897": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece; 82 charges after an armed crypto abduction. Police record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/82-criminal-charges-follow-armed-crypto-abduction-in-toronto/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:20.420Z",
+          "retrySearches": [
+            "Toronto armed crypto abduction 82 charges police"
           ]
         }
       },
