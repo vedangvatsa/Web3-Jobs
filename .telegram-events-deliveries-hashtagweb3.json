@@ -2129,5 +2129,50 @@
     "slotKey": "2026-10-16:morning",
     "messageId": 155784,
     "sentAt": "2026-10-16T04:20:47.311Z"
+  },
+  "ca232f20-c34d-4f34-ae1d-e98142fa42dd": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T11:31:37.626Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-indiabw-2026",
+        "slug": "ibw",
+        "name": "India Blockchain Week 2026",
+        "startDate": "2026-11-01",
+        "keys": [
+          "premier-indiabw-2026",
+          "w3v-india-blockchain-week-2026",
+          "page:ibw:2026-11-01",
+          "event:indiablockchainweek2026:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "curated-shanhaiwoo-mumbai-extension-2026",
+        "slug": "shanhaiwoo-mumbai-extension",
+        "name": "ShanHaiWoo Mumbai Devcon Extension",
+        "startDate": "2026-11-01",
+        "keys": [
+          "curated-shanhaiwoo-mumbai-extension-2026",
+          "page:shanhaiwoo-mumbai-extension:2026-11-01",
+          "luma-url:/47rm8enp",
+          "event:shanhaiwoomumbaidevconextension:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "premier-ibt-pune-2026",
+        "slug": "ibt-pune",
+        "name": "India Blockchain & AI Tour 2026 - Pune",
+        "startDate": "2026-11-01T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-pune-2026",
+          "page:ibt-pune:2026-11-01",
+          "url:indiablockchaintour.com/2026-nodes/pune/ticket:2026-11-01",
+          "event:indiablockchainaitour2026pune:2026-11-01:pune"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-16:afternoon"
   }
 }
