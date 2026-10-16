@@ -13278,7 +13278,8 @@
       },
       "account": "channel:ai",
       "attemptId": "091474af-6118-4cd2-a2d6-ac0e21a40390",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xec6dec49a81cc8b7f5d667445720538ddfd1efec"
     }
   ]
 }
