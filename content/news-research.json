@@ -44435,11 +44435,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "dec78173f17a07a31085",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:34:19.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece on the draft CARF bill. Bill text plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:34.710Z",
+      "retrySearches": [
+        "Australia OECD crypto tax reporting CARF draft bill"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e1724b3ee3420c7efc38": {
       "source": "Crypto Briefing",
@@ -86059,6 +86073,21 @@
           "reviewedAt": "2026-10-16T03:59:32.426Z",
           "retrySearches": [
             "Tron 200M ATM offering TRX acquisitions SEC filing"
+          ]
+        },
+        "dec78173f17a07a31085": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on the draft CARF bill. Bill text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:34.710Z",
+          "retrySearches": [
+            "Australia OECD crypto tax reporting CARF draft bill"
           ]
         }
       },
