@@ -740,6 +740,9 @@
   "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
   "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
   "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+  "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2003,6 +2006,12 @@
   "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
   "Amazon subsidiary Bee launches two personal AI devices",
   "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "MyFitnessPal acquires Cal AI after $30 million revenue growth",
+  "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "Amazon executive predicts AI devices will replace mobile apps",
+  "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+  "Rivian to integrate AI agents into vehicles",
+  "AI agents are coming to Rivian’s cars",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2260,5 +2269,8 @@
   "fp:aim|back|brought|celsius|deep|frozen|futur|hav|human|kidney",
   "fp:access|anthropic|assessment|audit|corporat|employe|evaluat|full|giv|group",
   "fp:anthropic|are|consumer|dismiss|fear|federal|firm|ftc|harm|hoax",
-  "fp:amazon|audio|bee|consumer|conversation|devic|manag|personal|record|start"
+  "fp:amazon|audio|bee|consumer|conversation|devic|manag|personal|record|start",
+  "fp:30m|acquir|amount|army|cal|cam|growth|influencer|market|myfitnesspal",
+  "fp:amazon|anticipat|app|application|background|chief|devic|envision|executiv|futur",
+  "fp:agent|are|autonomy|car|com|day|december|detail|dur|event"
 ]
