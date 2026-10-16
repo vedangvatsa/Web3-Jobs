@@ -38686,23 +38686,23 @@
       "id": "cc02128e785afeaddb06",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T10:19:40.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Unchained piece on the same FSB note to G20 chiefs. FSB text plus failure-planning detail still needed.",
+      "reason": "needs-corroboration",
+      "note": "Opened the Unchained piece on the G20 run-risk note. FSB report plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:32.571Z",
+      "reviewedAt": "2026-10-16T03:59:16.278Z",
       "retrySearches": [
-        "FSB G20 stablecoin note text second outlet"
+        "FSB stablecoin run risk affiliated issuers G20 report"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "30077f4772a43384fe99": {
       "source": "Unchained",
@@ -85897,6 +85897,21 @@
           "reviewedAt": "2026-10-16T03:59:13.848Z",
           "retrySearches": [
             "Patrick Witt White House crypto negotiator exit confirmation"
+          ]
+        },
+        "cc02128e785afeaddb06": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Unchained piece on the G20 run-risk note. FSB report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:16.278Z",
+          "retrySearches": [
+            "FSB stablecoin run risk affiliated issuers G20 report"
           ]
         }
       },
