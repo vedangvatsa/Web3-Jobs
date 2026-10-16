@@ -47420,11 +47420,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "faec9021384cb81c99a3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:46:05.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece on stablecoin balances in banking rails. Company notices plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T04:00:09.356Z",
+      "retrySearches": [
+        "Mastercard BVNK stablecoin balances banking cards announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "219c9592bca0bf66265a": {
       "source": "The Defiant",
@@ -86392,6 +86406,21 @@
           "reviewedAt": "2026-10-16T04:00:06.931Z",
           "retrySearches": [
             "Ripple Meritz Securities custody tokenization Korea notice"
+          ]
+        },
+        "faec9021384cb81c99a3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on stablecoin balances in banking rails. Company notices plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T04:00:09.356Z",
+          "retrySearches": [
+            "Mastercard BVNK stablecoin balances banking cards announcement"
           ]
         }
       },
