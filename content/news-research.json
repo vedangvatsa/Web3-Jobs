@@ -47438,11 +47438,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "633ca025031484e2b127",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:00:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "promotional",
+      "note": "Fireblocks stablecoin marketplace launch with no-spread claim; single-source product marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:49:56.826Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "d5e45dfb3679fa0e69ac": {
       "source": "BeInCrypto",
@@ -83317,6 +83322,13 @@
           "reviewedAt": "2026-10-16T03:49:05.850Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
+        },
+        "633ca025031484e2b127": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Fireblocks stablecoin marketplace launch with no-spread claim; single-source product marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:49:56.826Z"
         }
       },
       "baselineSlugs": [
