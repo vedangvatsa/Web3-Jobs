@@ -46999,11 +46999,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d5b44001981c9e99f004",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:14:07.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "promotional",
+      "note": "XDC-Concordium identity partnership announcement; single-source partner PR without independent verification.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:49:59.639Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "4442ad8fd3ed0cbe26f9": {
       "source": "The Defiant",
@@ -83329,6 +83334,13 @@
           "note": "Fireblocks stablecoin marketplace launch with no-spread claim; single-source product marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:49:56.826Z"
+        },
+        "d5b44001981c9e99f004": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "XDC-Concordium identity partnership announcement; single-source partner PR without independent verification.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:49:59.639Z"
         }
       },
       "baselineSlugs": [
