@@ -44485,11 +44485,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ac2f789a80c9d2b916a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:35:06.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Medicaid vote criticism in Maine Senate race; US politics, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:12.816Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "dec78173f17a07a31085": {
       "source": "Cointelegraph",
@@ -82817,6 +82822,13 @@
           "note": "Trump Iowa rally scheduling; campaign news, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:10.517Z"
+        },
+        "ac2f789a80c9d2b916a3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Medicaid vote criticism in Maine Senate race; US politics, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:12.816Z"
         }
       },
       "baselineSlugs": [
