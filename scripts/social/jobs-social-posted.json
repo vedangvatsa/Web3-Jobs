@@ -15167,7 +15167,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "05880f2b-fadc-4316-9b9e-e7ee5ac2c0bd",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad27d1c7aeb2cc623c27f82"
     }
   ]
 }
