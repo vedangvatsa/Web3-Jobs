@@ -39302,23 +39302,23 @@
       "id": "c508fffb47602c7c6a05",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:49:25.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
       "reason": "source-blocked",
-      "note": "Correction: this is the Lido direct-staking story, not Alpenglow. Defiant page returned HTTP 403 in this run; CryptoBriefing version read separately. Lido announcement plus second readable outlet still needed.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Lido notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:48:04.683Z",
+      "reviewedAt": "2026-10-16T03:55:40.003Z",
       "retrySearches": [
-        "Lido direct ETH staking Arbitrum Base Linea Optimism announcement second outlet"
+        "Lido direct ETH staking layer 2s interface announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "106ff5cf81fdd279dd02": {
       "source": "Cointelegraph",
@@ -84155,6 +84155,21 @@
           "reviewedAt": "2026-10-16T03:55:37.766Z",
           "retrySearches": [
             "HashKey Chain admin USDT contract swap statement"
+          ]
+        },
+        "c508fffb47602c7c6a05": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Lido notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:40.003Z",
+          "retrySearches": [
+            "Lido direct ETH staking layer 2s interface announcement"
           ]
         }
       },
