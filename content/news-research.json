@@ -47290,11 +47290,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "351e7924750b209663e1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:12:57.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "HEX selloff tally following unverified arrest reports; price chatter resting on a single weak rumor.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:00.301Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "a34934a4fa4b784c02f1": {
       "source": "CoinDesk",
@@ -82300,6 +82305,13 @@
           "note": "Yield-versus-Bitcoin correlation musing; price chatter without a concrete verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:57.907Z"
+        },
+        "351e7924750b209663e1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "HEX selloff tally following unverified arrest reports; price chatter resting on a single weak rumor.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:00.301Z"
         }
       },
       "baselineSlugs": [
