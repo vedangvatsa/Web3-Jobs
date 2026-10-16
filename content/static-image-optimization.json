@@ -2573,10 +2573,6 @@
       "sha256": "593e44be7293c0cb1998be0355c8bbbecdb15fbafb5c455005a59e5db5e4fdd3",
       "status": "optimized"
     },
-    "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp": {
-      "sha256": "95600360d496b7a1b450efd51625d5d6b635af2456bfd7992f58d61539439cfd",
-      "status": "optimized"
-    },
     "/events/ma-ethcc-10-2027-5a9e98af.webp": {
       "sha256": "3d3ad3f441487a7c7cb40f20f891ae50e10136af35281408b42ca391d4c15c7c",
       "status": "optimized"
@@ -2639,10 +2635,6 @@
     },
     "/events/ma-web-summit-2027-b6238e2b.webp": {
       "sha256": "c30a54237d40084b7352946c64cb8b1793749e697dffdd79165b37c0eb1c6ab1",
-      "status": "optimized"
-    },
-    "/events/ma-webx-2027-86bdb833.webp": {
-      "sha256": "6cce9a61d06363f3482393cf63e893ca86a26723ab4d9e04f31ae33ea057741f",
       "status": "optimized"
     },
     "/events/meridian.webp": {
@@ -4313,10 +4305,6 @@
       "sha256": "6d7b4a2e08ae390077f4479add714077151622edfee51dd378140c5c336db313",
       "status": "optimized"
     },
-    "/events/w3v-beyond-compliance-27d9ecac.webp": {
-      "sha256": "f6b0edf82c94d2ec252189252ecbf25e73bbe852353bcc453cc7a422540a9672",
-      "status": "retained"
-    },
     "/events/w3v-beyond-frame-immersive-art-activation-render-2-3e56eeba.webp": {
       "sha256": "f7cf906c8ed90fa8d990fe66fab6d6168cf42514c6e8a0fffa193988e9fc0a6a",
       "status": "retained"
@@ -4419,10 +4407,6 @@
     },
     "/events/w3v-diyas-devcon-26-11-04-58039a2f.webp": {
       "sha256": "0b8fb1886ff3b72f9528cd25674030da08c49274df4b94f00c3eb1bab7044c67",
-      "status": "retained"
-    },
-    "/events/w3v-dutch-drinks-by-bcnl-bitvavo-bffb4bde.webp": {
-      "sha256": "8850f88a9f04b1c3f934d897886b36974368446e2f08856ac5a18351745b8ac6",
       "status": "retained"
     },
     "/events/w3v-dwf-labs-haus-080a24b1.webp": {
@@ -4840,10 +4824,6 @@
     "/events/w3v-utxo-pitch-night-3779db0d.webp": {
       "sha256": "dae3d378954942813f48d0b221f0da32975312d9fe47ef435830c97ae5f7e87f",
       "status": "optimized"
-    },
-    "/events/w3v-vaneck-investors-lunch-e1659aea.webp": {
-      "sha256": "caa4400ffcfed4fe29347a3a6782fd823e589d282eb36e687126efced2f0d368",
-      "status": "retained"
     },
     "/events/w3v-vcs-lps-cocktail-hour-725b69cd.webp": {
       "sha256": "cc76cfb89e6dd740540b86c488e4e26ead7fd9cdf6b4904dcf62784d28f08754",

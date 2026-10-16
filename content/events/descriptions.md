@@ -16,30 +16,6 @@ Generated from `sources/`. Formatting uses the event-page organizer-copy formatt
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-6371ffa9578e9600"></a>
-
-## CONF3RENCE 2026
-
-- Record: `premier-conf3rence-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-15T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.conf3rence.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-b8302ab119871d88"></a>
-
-## Modular Summit 2026
-
-- Record: `premier-modular-summit-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-15T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://modular.xyz/summit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-13485e4f9c982815"></a>
 
 ## Avalanche Summit NYC 2026
@@ -61,18 +37,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-09-16T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://eblockchainconvention.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ee9c55608664f7af"></a>
-
-## Arbitrum Stylus & Rust Dev House Singapore
-
-- Record: `side-sg-arbitrum-stylus-hacker-house`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-16T10:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://arbitrum.io>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -19524,199 +19488,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-52c53bb634c86f21"></a>
-
-## Colosseum Hackathonの勝ち方 — Winners’ Playbook
-
-- Record: `luma-crypto-7BZOrpnKYojGaRB`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/colosseum-winners-playbook>
-
-### Colosseum Hackathonの「勝ち方」を、経験者から学ぶ。
-
-アイデアは、どう選ぶのか。
-
-限られた期間で、どこまで作り込むのか。
-
-そして、審査員に何を伝えればいいのか。
-
-今回は、
-
-- LootGO Co-Founder Yuki
-- Daiko Co-Founder zkYuki
-
-Colosseum Hackathonの入賞経験者を迎え、実践的なPlaybookを共有します。
-
-単なる体験談ではなく、
-
-「何を作るか」
-
-「どこに時間を使うか」
-
-「どう見せるか」
-
-「何が勝敗を分けるのか」
-
-といった、Hackathonに挑戦するBuilderが知っておきたいポイントを、Fireside Chatとレクチャー形式で掘り下げます。
-
-### 開催日時
-
-2026年9月16日(水) 20:00
-
-Superteam Japan Discord
-
-### 登壇者情報
-
-hax (@256hax (https://x.com/256hax))
-
-Co-Country Lead & CTO, Superteam Japan
-
-https://x.com/SuperteamJapan
-
-zkYuki (@[zkyuki_Ditto](https://x.com/zkyuki_Ditto))
-
-Co-Founder, Daiko
-
-https://x.com/DaikoAI
-
-Yuki (@[yuki__app](https://x.com/yuki__app))
-
-Co-Founder, LootGO
-
-https://x.com/lootgo_official
-
-### イベント参加が初めての方へ
-
-イベントにスムーズに参加するため、以下のSTEPに沿って準備をお願いします。3分ほどで完了します。
-
-STEP 1：Luma（ルマ）で参加登録をする
-
-まずは、このページで申し込みを完了させましょう。
-
-右上の [ログイン] を押し、Googleアカウント等でログインします。
-
-その後、このページで [参加登録] ボタンを押せば完了です！
-
-登録したメールアドレスに案内が届きます。
-
-STEP 2：会場「Discord（ディスコード）」の準備
-
-今回のイベント会場は、スマホやPCで使えるコミュニケーションアプリ「Discord」になります。
-
-参加URL： [Discordサーバーに参加](https://discord.com/invite/stjp?utm_source=luma)
-
-スマホで参加の方 事前にアプリをインストールしておくと、当日の参加がとてもスムーズです。
-
-[iPhoneの方（App Store）](https://apps.apple.com/jp/app/discord-%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%97%E3%82%83%E3%81%B9%E3%81%A3%E3%81%A6%E9%81%8A%E3%82%93%E3%81%A7%E9%9B%86%E3%81%BE%E3%82%8D%E3%81%86/id985746746?utm_source=luma)
-
-[Androidの方（Google Play）](https://play.google.com/store/apps/details?id=com.discord&hl=ja&utm_source=luma)
-
-PCで参加の方 アプリを入れなくても、いつものブラウザ（ChromeやSafariなど）でそのまま開けます。
-
-STEP 3：イベント参加と「認証（Verify）」
-
-アカウントの準備ができたら、以下の手順でDiscordへお入りください。
-
-「人間であること」の確認（認証）： Discordに入った直後は、まだ中身（チャンネル）が見えない設定になっています。セキュリティのため、以下のURLをクリックして認証を行ってください。
-
-ここをクリックして認証ページを開く (https://discord.com/channels/1106919982224384081/1111570304708390975?utm_source=luma)
-
-画面に表示される指示（対象の文字にあう絵文字を選択）に従うと、すべてのチャンネルが見えるようになります。
-
-<a id="event-ecb09937fe25d441"></a>
-
-## BLOCK71 Founder Dinner Club #2
-
-- Record: `luma-crypto-bqI9LfgAu67H9Zb`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/u4rnpi51>
-
-### About the event
-
-Founder Dinner Club - Why Are We Building?
-
-BLOCK71's second exclusive Founder Dinner Clubs this semester is taking place on 16 September, 7-9pm at the i3 Building, NUS Enterprise.
-
-Designed as an intimate dinner for around 20 participants, Founder Dinner Club bring students and founders together for candid conversations around the entrepreneurial journey. This session will explore why founders choose to build, the challenges that test their conviction, and the future they hope to create - particularly in climate tech and biotech.
-
-Meet our founders:
-
-Eugene Chia - Co-Founder & COO of Ecovolt
-
-Ecovolt is a sustainability and energy-tech startup developing smart systems that help buildings monitor, manage and reduce electricity use. Its technology tracks plug-load energy consumption and helps identify wasted or idle energy, enabling buildings to operate more efficiently and lower emissions without major rewiring.
-
-[LinkedIn: Eugene Chia](https://sg.linkedin.com/in/eugenechiaannyao)
-
-[Ecovolt: Website](https://www.ecovolt.ai/)
-
-Kyle Lao - Co-founder & CEO, MenSC Labs
-
-MenSC Labs is a women's health biotech startup developing regenerative medicine technologies using menstrual blood-derived mesenchymal stem cells (MSCs) and exosomes. It aims to turn menstrual blood, a renewable and non-invasive source of stem cells, into scalable research products and future applications for women's health, while also exploring menstrual-blood-based testing for uterine health
-
-[LinkedIn: Kyle Lao](https://sg.linkedin.com/in/kyle-daniel-lao)
-
-[MenSC Labs: Website](https://mensc-labs.com/index.html)
-
-Come ready to challenge founder myths, ask candid questions and hear what building a startup actually looks like beyond the pitch deck. Spots are limited to keep the conversation small and interactive.
-
-Stay in touch with us [on Telegram to stay posted for more exciting events @nussec](https://t.me/nussec?utm_source=luma)!
-
-<a id="event-55c3b2b2bd41e08e"></a>
-
-## 2026 AI Web3 投資：如何打造一人 AI 研究團隊
-
-- Record: `luma-crypto-EjoD89X0CHsHeV7`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wvj4gjep>
-
-### About the event
-
-AI 工具經常聽到，但到底怎樣用在「投資」上面？
-
-學得再多功能，如果最後不能夠變成你的資產，其實完全沒有用。而 AI 最能夠落地的地方，一定是投資。
-
-以前一間機構要一隊人才做得到的研究，今日一個人加一部電腦就做得到。
-
-這一晚會講三件事
-
-① 如何建立你的第一個 AI 員工
-
-打造一個 '有記憶' 的 AI ，24/7 隨時候命的私人員工。
-
-② 如何解決 AI 有幻覺的問題
-
-AI 最擅長的，是把不確定的事寫得好像很肯定。你不敢用它的結論去做決定，問題就在這裡。
-
-解決這個問題，AI 的產出才算真的可以用 - - 否則做得越快，錯得越快。
-
-③ 了解完整 AI Full Investment Team 的能力
-
-一個員工，其實只是開始。
-
-最後我會給你看一支完整的 AI Investment Team：情報收集、深度研究、風險檢查各自分工。
-
-你會看到差距在哪裡，也會知道由「一個員工」走到「一支團隊」，中間實際上需要什麼。
-
-適合邊個
-
-對 crypto / 投資有興趣、想學識用 AI 幫自己做判斷嘅你 - - 完全新手都歡迎。
-
-費用：完全免費
-
-時間：9月16號 晚上7點 - 9點
-
-（建議帶備個人電腦，方便一起實戰操作）
-
-關於講者
-
-Matthew - CFA / FRM,前對沖基金投資總監, Chainlab 創辦人。
 
 <a id="event-c88c4503834e23be"></a>
 
@@ -54125,140 +53896,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-9889eab85e9cd679"></a>
-
-## Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever
-
-- Record: `w3v-beyond-compliance`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/s55wtmo5>
-
-### About the event
-
-Join us for a frank, peer-level conversation with the people building what comes next.
-
-Regulation is no longer a future consideration; it's live, and it's reshaping how institutions run digital asset operations day to day. This invite-only lunch moves past the basics to focus on what growth and operational efficiency look like under current compliance requirements. Topics include running an efficient regulatory compliance operation, covering the audit and reconciliation tooling institutions are adopting to stay reporting-ready; new product lines entering the market, including non-custodial wallet infrastructure; and how institutions are putting idle stablecoin holdings to work through yield-generating products such as Fireblocks Earn.
-
-Space is limited and attendance is by invitation only.
-
-Fireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians.
-
-Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.
-
-Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*
-
-*This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation email of registration for approval for entry.
-
-Security note: Fireblocks will never transfer you NFTs/tokens or ask for your wallet information to attend our events.
-
-<a id="event-80e6682509c305a6"></a>
-
-## VanEck Investors Lunch
-
-- Record: `w3v-vaneck-investors-lunch`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/8hr1p4ru>
-
-### About the event
-
-An intimate lunch - limited to 12 seats, by invitation only, for qualified allocators.
-
-VanEck - 70 years of conviction over convention
-
-VanEck was founded in 1955 by John C. van Eck on a simple but bold idea: understand the world better than the market, and you create real opportunity. That belief led to one of the first international mutual funds in the US, the first gold equity fund in 1968, early conviction in emerging markets, and a pioneering role in ETFs. Today VanEck manages $237 billion in assets across the globe - still privately owned by the van Eck family, guided by the same philosophy it started with.
-
-Crypto ETNs - regulated access to digital assets
-
-VanEck is one of Europe's leading providers of crypto exchange-traded notes, offering investors listed, fully-collateralized exposure to bitcoin, ethereum, and a broad basket of digital assets - without the complexity of self-custody. Simple, transparent, and competitively priced.
-
-VanEck Alpha Fund - owning what goes from relevant to indispensable
-
-The VanEck Alpha Fund is a concentrated, long-biased hedge fund built around the great technology platform shifts of our time: crypto and AI. Since inception in June 2022, the fund has returned +338% net of fees - versus +177% for bitcoin and +103% for the S&P 500 over the same period. The strategy is straightforward: own the right assets, size into conviction, protect the gains.
-
-Join us for an intimate lunch to discuss markets, digital assets, and what comes next.
-
-By registering, you acknowledge [that you have read and accepted the VanEck Privacy Policy](https://www.vaneck.com/globalassets/home/ucits/home/privacy-policy/privacy-policy-from-vaneck.com.pdf).
-
-Disclaimer: Investment in digital assets and digital asset products is subject to extreme volatility and may result in loss of principal.
-
-<a id="event-d67a769a374628dc"></a>
-
-## Solana Padel Game
-
-- Record: `luma-host-evt-evt-eaqLPxJPtTQaJ0H`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/SolanaPadelGame>
-- Original page: <https://luma.com/SolanaPadelGame>
-
-### About the event
-
-Solana Padel Game
-
-Date: Wednesday, 16 September
-
-Time: 7:00 PM - 9:00 PM
-
-Venue: To be shared upon approval
-
-[Superteam UAE](https://uae.superteam.fun/?utm_source=luma) is bringing the Solana community together for a padel evening built around friendly competition and good energy. Come for the games, stay for the people you meet along the way.
-
-### Agenda
-
-19:00 - 19:30 : Arrival
-
-19:30 - 21:00 : Games
-
-### Please Note
-
-This event has limited spots and operates on a first-come, first-served basis.
-
-Please arrive on time to secure your spot.
-
-Dress Code: Sporty attire
-
-Photos will be taken during the event. By participating, you agree to their use for promotional purposes.
-
-[Follow us on X: @SuperteamAE](https://x.com/SuperteamAE?utm_source=luma)
-
-<a id="event-f6b2d822c04f2f4b"></a>
-
-## Dutch Drinks by BCNL & Bitvavo
-
-- Record: `w3v-dutch-drinks-by-bcnl--bitvavo`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/b39lps9b?tk=u5H1PJ>
-- Original page: <https://luma.com/b39lps9b>
-
-### About the event
-
-Are you joining the European Blockchain Convention in Barcelona?
-
-Join us for the Dutch Drinks event, a special gathering for our Dutch community, held between 6pm and 8pm at Carpe Diem.
-
-Just like last year, we will provide you with light snacks and some drinks, creating the perfect atmosphere to unwind, network, and discuss the latest trends in blockchain technology.
-
-### Details
-
-Date: 16th of September
-
-Time: 18:00 - 20:00
-
-Location: Carpe Diem Lounge Club, Paseo Marítimo de la Barceloneta 32, Cataluña, 08003
-
-Capacity: Limited to 100 guests - be sure to arrive early, as space is limited and it's first-come, first-served!
-
-Don't miss this opportunity to connect with fellow blockchain enthusiasts and professionals from the Netherlands. Enjoy the warm hospitality, engage in insightful conversations, and expand your network in a relaxed setting.
-
-We look forward to seeing you there!
-
 <a id="event-04939aa47f521c2c"></a>
 
 ## VIP Dinner for White & Case and KBW
@@ -73547,6 +73184,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-55551e9db996fd6e"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316843996`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T08:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/316843996/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-047c7ca2225a3343"></a>
 
 ## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
@@ -74290,6 +73939,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6963af194a348637"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859689`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T09:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/316859689/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-08b1033be48b6dd2"></a>
 
 ## Modeling Your Business with Ontologies in Fabric IQ
@@ -74386,6 +74047,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7e220347a2d6f896"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802785`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T11:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/316802785/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7ad39596e2488d7f"></a>
 
 ## ZK Learning Group: Quantum resistance and ZKP
@@ -74419,6 +74092,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T13:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaEcosystemClubDXB>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7f1861cc9859a9c3"></a>
+
+## Lido Poolside: Decentralization, October 2026
+
+- Record: `luma-host-evt-evt-ItZJjbEZhnJ1BsB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T14:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/c6t2hftd>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

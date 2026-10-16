@@ -208,38 +208,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-conf3rence-2026",
-    "slug": "conf3rence",
-    "name": "CONF3RENCE 2026",
-    "description": "The largest crypto and Web3 event in the DACH region, bringing traditional business and technology together in Dortmund. Takes place 15 to 16 September 2026 at Kokerei Hansa, Dortmund, Germany.",
-    "startDate": "2026-09-15T09:00:00.000Z",
-    "endDate": "2026-09-16T18:00:00.000Z",
-    "city": "Dortmund",
-    "country": "Germany",
-    "location": "Kokerei Hansa, Dortmund, Germany",
-    "url": "https://www.conf3rence.com",
-    "website": "https://www.conf3rence.com",
-    "coverImage": "/events/conf3rence-banner.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-modular-summit-2026",
-    "slug": "modular",
-    "name": "Modular Summit 2026",
-    "description": "The modular blockchain thesis's home conference - Celestia, EigenDA, rollup teams and shared sequencing protocols in Lisbon. Takes place 15 to 16 September 2026 in Lisbon.",
-    "startDate": "2026-09-15T09:00:00.000Z",
-    "endDate": "2026-09-16T18:00:00.000Z",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "location": "Lisbon, Portugal",
-    "url": "https://modular.xyz/summit",
-    "website": "https://modular.xyz/summit",
-    "coverImage": "/events/modular-summit-og.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-ebc-2026",
     "slug": "ebc",
     "name": "European Blockchain Convention 2026",
@@ -2837,21 +2805,6 @@
     "website": "https://ethdenver.com",
     "coverImage": "/events/ethdenver-1e085e9e.webp",
     "source": "curated-premier"
-  },
-  {
-    "id": "side-sg-arbitrum-stylus-hacker-house",
-    "name": "Arbitrum Stylus & Rust Dev House Singapore",
-    "description": "Technical workshops and WASM/Rust smart contract hacking hosted by Offchain Labs engineers. Takes place 16 September 2026 at WeWork 71 Robinson Road, Singapore.",
-    "startDate": "2026-09-16T10:00:00.000Z",
-    "endDate": "2026-09-16T18:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "WeWork 71 Robinson Road, Singapore",
-    "url": "https://arbitrum.io",
-    "website": "https://arbitrum.io",
-    "source": "curated-premier",
-    "slug": "arbitrum",
-    "coverImage": "/events/arbitrum-stylus.webp"
   },
   {
     "id": "side-denver-zk-proofs-summit",

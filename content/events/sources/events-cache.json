@@ -359,51 +359,6 @@
     }
   },
   {
-    "id": "luma-host-evt-evt-eaqLPxJPtTQaJ0H",
-    "name": "Solana Padel Game",
-    "description": "Solana Padel Game\n\n🗓 Date: Wednesday, 16 September\n🕢 Time: 7:00 PM – 9:00 PM\n📍 Venue: To be shared upon approval\n\n[Superteam UAE](https://uae.superteam.fun/?utm_source=luma) is bringing the Solana community together for a padel evening built around friendly competition and good energy. Come for the games, stay for the people you meet along the way.\n\nAgenda\n🕖 19:00 – 19:30 : Arrival\n🎾 19:30 – 21:00 : Games\n\nPlease Note:\n🔸 This event has limited spots and operates on a first-come, first-served basis.\n🔸 Please arrive on time to secure your spot.\n🔸 Dress Code: Sporty attire\n\n📸 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.\n\n[Follow us on X: @SuperteamAE](https://x.com/SuperteamAE?utm_source=luma)",
-    "startDate": "2026-09-16T15:00:00.000Z",
-    "endDate": "2026-09-16T17:00:00.000Z",
-    "country": "United Arab Emirates",
-    "location": "United Arab Emirates",
-    "url": "https://lu.ma/SolanaPadelGame",
-    "coverImage": "/events/luma-host-evt-evt-eaqlpxjpttqaj0h-512fafd4.webp",
-    "source": "luma-trusted",
-    "month": "September 2026",
-    "slug": "spg",
-    "timezone": "Asia/Dubai",
-    "registrationUrl": "https://luma.com/SolanaPadelGame",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Superteam Middle East"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Middle East",
-      "url": "https://uae.superteam.fun/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/SolanaPadelGame",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/SolanaPadelGame",
-      "eventId": "evt-eaqLPxJPtTQaJ0H",
-      "fetchedAt": "2026-09-19T23:49:34.695Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-BqKCLXa8nn2x0pW",
     "name": "Lido Poolside: Institutional, September 2026",
     "description": "Join Lido contributors on Thursday, September 17th, to discuss the latest institutional Ethereum staking developments.\n\n[Hosted by Isidoros Passadis](https://x.com/IsdrsP), Chief of Staking at Lido.\n\nRegister [above to add this Call to your calendar. Watch on YouTube](https://www.youtube.com/watch?v=a8z9pC4bwN4), also streamed on Lido X (Twitter) (https://x.com/LidoFinance) [and LinkedIn](https://www.linkedin.com/company/lidofi).\n\n## Speakers:\n\n• [Joseph Lubin](https://x.com/ethereumJoseph), Chairman and CEO of MetaMask and Founder at Consensys\n• [Joseph Chalom](https://x.com/joechalom), CEO at Sharplink\n• [Aleksandra Gusakova](https://x.com/sasha_gusakova), Lido Core Lead at Lido Labs\n\nMissed the previous calls? Check the curated collection of best moments [and key insights in the Lido Poolside Spotlight playlist](https://www.youtube.com/playlist?list=PLhvXP1-8VKZTW5wOGI60pZqBETC-MXJGK&utm_source=luma).",
@@ -443,143 +398,6 @@
       "url": "https://luma.com/bn0ikjyg",
       "eventId": "evt-BqKCLXa8nn2x0pW",
       "fetchedAt": "2026-09-19T23:49:36.013Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-vaneck-investors-lunch",
-    "name": "VanEck Investors Lunch",
-    "description": "An intimate lunch — limited to 12 seats, by invitation only, for qualified allocators.\n\nVanEck — 70 years of conviction over convention\nVanEck was founded in 1955 by John C. van Eck on a simple but bold idea: understand the world better than the market, and you create real opportunity. That belief led to one of the first international mutual funds in the US, the first gold equity fund in 1968, early conviction in emerging markets, and a pioneering role in ETFs. Today VanEck manages $237 billion in assets across the globe — still privately owned by the van Eck family, guided by the same philosophy it started with.\n\nCrypto ETNs — regulated access to digital assets\nVanEck is one of Europe's leading providers of crypto exchange-traded notes, offering investors listed, fully-collateralized exposure to bitcoin, ethereum, and a broad basket of digital assets — without the complexity of self-custody. Simple, transparent, and competitively priced.\n\nVanEck Alpha Fund — owning what goes from relevant to indispensable\nThe VanEck Alpha Fund is a concentrated, long-biased hedge fund built around the great technology platform shifts of our time: crypto and AI. Since inception in June 2022, the fund has returned +338% net of fees — versus +177% for bitcoin and +103% for the S&P 500 over the same period. The strategy is straightforward: own the right assets, size into conviction, protect the gains.\n\nJoin us for an intimate lunch to discuss markets, digital assets, and what comes next.\n\nBy registering, you acknowledge [that you have read and accepted the VanEck Privacy Policy](https://www.vaneck.com/globalassets/home/ucits/home/privacy-policy/privacy-policy-from-vaneck.com.pdf).\n\nDisclaimer: Investment in digital assets and digital asset products is subject to extreme volatility and may result in loss of principal.",
-    "startDate": "2026-09-16T11:00:00.000Z",
-    "endDate": "2026-09-16T13:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/8hr1p4ru",
-    "coverImage": "/events/w3v-vaneck-investors-lunch-e1659aea.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Thijs Van boven"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "vil",
-    "registrationUrl": "https://luma.com/8hr1p4ru",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/8hr1p4ru",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/8hr1p4ru",
-      "eventId": "evt-NEspXLIfiFPhwhg",
-      "fetchedAt": "2026-09-19T23:49:37.490Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-beyond-compliance",
-    "name": "Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever",
-    "description": "Join us for a frank, peer-level conversation with the people building what comes next.\n\nRegulation is no longer a future consideration; it’s live, and it’s reshaping how institutions run digital asset operations day to day. This invite-only lunch moves past the basics to focus on what growth and operational efficiency look like under current compliance requirements. Topics include running an efficient regulatory compliance operation, covering the audit and reconciliation tooling institutions are adopting to stay reporting-ready; new product lines entering the market, including non-custodial wallet infrastructure; and how institutions are putting idle stablecoin holdings to work through yield-generating products such as Fireblocks Earn.\n\nSpace is limited and attendance is by invitation only.\n\nFireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians. Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.com)\n\nNote: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*\n\n*This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation email of registration for approval for entry.\nSecurity note: Fireblocks will never transfer you NFTs/tokens or ask for your wallet information to attend our events.",
-    "startDate": "2026-09-16T11:00:00.000Z",
-    "endDate": "2026-09-16T13:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/s55wtmo5",
-    "coverImage": "/events/w3v-beyond-compliance-27d9ecac.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Fireblocks"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "beyond-compliance",
-    "registrationUrl": "https://luma.com/s55wtmo5",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "EBC Barcelona 2026",
-      "url": "https://eblockchainconvention.com/european-blockchain-convention-12/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/s55wtmo5",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/s55wtmo5",
-      "eventId": "evt-GMwDL6gULzsiG6K",
-      "fetchedAt": "2026-09-19T23:49:37.403Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-dutch-drinks-by-bcnl--bitvavo",
-    "name": "Dutch Drinks by BCNL & Bitvavo",
-    "description": "Are you joining the European Blockchain Convention in Barcelona?\n\nJoin us for the Dutch Drinks event, a special gathering for our Dutch community, held between 6pm and 8pm at Carpe Diem.\n\nJust like last year, we will provide you with light snacks and some drinks, creating the perfect atmosphere to unwind, network, and discuss the latest trends in blockchain technology.\n\nDetails:\nDate: 16th of September\nTime: 18:00 - 20:00\n\nLocation: Carpe Diem Lounge Club, Paseo Marítimo de la Barceloneta 32, Cataluña, 08003\n\nCapacity: Limited to 100 guests – be sure to arrive early, as space is limited and it's first-come, first-served!\n\nDon't miss this opportunity to connect with fellow blockchain enthusiasts and professionals from the Netherlands. Enjoy the warm hospitality, engage in insightful conversations, and expand your network in a relaxed setting.\n\nWe look forward to seeing you there!",
-    "startDate": "2026-09-16T16:00:00.000Z",
-    "endDate": "2026-09-16T18:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/b39lps9b?tk=u5H1PJ",
-    "coverImage": "/events/w3v-dutch-drinks-by-bcnl-bitvavo-bffb4bde.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "BCNL Foundation",
-      "Bitvavo Events"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "ddbb",
-    "registrationUrl": "https://luma.com/b39lps9b",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "BCNL Foundation",
-      "url": "https://www.bcnl.foundation/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/b39lps9b",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/b39lps9b",
-      "eventId": "evt-8pSe80QNkASyC0c",
-      "fetchedAt": "2026-09-19T23:49:38.683Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -20736,7 +20554,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "May 2027"
   },
@@ -21000,7 +20818,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://webx-asia.com/",
-    "coverImage": "/events/ma-webx-2027-86bdb833.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21042,7 +20860,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21084,7 +20902,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22136,7 +21954,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22493,7 +22314,7 @@
     "name": "Fintech x Crypto",
     "description": "",
     "startDate": "2026-10-21T17:00:00.000Z",
-    "endDate": "2026-10-21T19:00:00.000Z",
+    "endDate": "2026-10-21T20:00:00.000Z",
     "city": "Lisboa",
     "country": "Portugal",
     "location": "Lisboa, Portugal",
@@ -24527,5 +24348,61 @@
     "url": "https://luma.com/83ujl6ms",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "mu-316843996",
+    "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
+    "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
+    "startDate": "2026-10-21T08:00:00-06:00",
+    "endDate": "2026-10-21T08:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-denver/events/316843996/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-ItZJjbEZhnJ1BsB",
+    "name": "Lido Poolside: Decentralization, October 2026",
+    "description": "",
+    "startDate": "2026-10-29T14:00:00.000Z",
+    "endDate": "2026-10-29T15:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/c6t2hftd",
+    "coverImage": "/events/luma-host-evt-evt-itzjjbezhnj1bsb-8908b126.webp",
+    "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316859689",
+    "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+    "description": "The new Blockchain Decentralisation Index Lab is an open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyon",
+    "startDate": "2026-10-29T09:00:00-06:00",
+    "endDate": "2026-10-29T09:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-denver/events/316859689/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316802785",
+    "name": "ZK Learning Group: Quantum resistance and ZKP",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-10-29T11:00:00-06:00",
+    "endDate": "2026-10-29T11:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]
