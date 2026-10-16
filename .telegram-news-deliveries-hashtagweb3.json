@@ -1525,5 +1525,36 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 155789,
     "sentAt": "2026-10-16T11:34:08.990Z"
+  },
+  "a4fd6cfc-4e4c-4695-bad1-0c76b4cf07c5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T19:33:49.221Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ledger to release $849 Atom Android device in 2027",
+        "summary": "The Founder's Edition includes a secure operating mode and comes with the Solana Seeker application preinstalled.",
+        "link": "https://hashtagweb3.com/atom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ledger unveils $849 Atom device with Solana Seeker app"
+      },
+      {
+        "index": -1,
+        "headline": "Trezor ends reseller deals as Ledger pauses regional sales",
+        "summary": "Trezor will end reseller authorizations in 2027, while Ledger suspended sales across seven Asian markets during an investigation.",
+        "link": "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trezor cuts resellers as Ledger halts sales in seven markets"
+      },
+      {
+        "index": -1,
+        "headline": "Network School Acquires Farcaster From Neynar",
+        "summary": "Users must accept new client rules, though the buyer promised to keep the protocol open.",
+        "link": "https://hashtagweb3.com/nsfarcaster?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Network School Acquires Farcaster From Neynar"
+      }
+    ],
+    "slotKey": "2026-10-16:evening"
   }
 }
