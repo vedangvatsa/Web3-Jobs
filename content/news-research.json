@@ -34176,23 +34176,23 @@
       "id": "d95eaa4ee08fc8ad19e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T15:24:14.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "IBKR staking page blocked again in this run; IBKR or Zerohash notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; IBKR or Zerohash notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:53:54.302Z",
+      "reviewedAt": "2026-10-16T03:54:15.202Z",
       "retrySearches": [
-        "Interactive Brokers Zerohash staking notice second outlet"
+        "Interactive Brokers Zerohash staking second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a8daa03f3187bc9203a4": {
       "source": "The Defiant",
@@ -83600,6 +83600,21 @@
           "reviewedAt": "2026-10-16T03:54:12.820Z",
           "retrySearches": [
             "Zest aeUSDC Stacks market exit deadline notice"
+          ]
+        },
+        "d95eaa4ee08fc8ad19e2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; IBKR or Zerohash notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:15.202Z",
+          "retrySearches": [
+            "Interactive Brokers Zerohash staking second outlet"
           ]
         }
       },
