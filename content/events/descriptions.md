@@ -19525,20 +19525,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-9735664a39e9bcbc"></a>
-
-## SAMADHAN: Beyond the Hackathon, From Ideas to Impact \| Hosted by UPAY
-
-- Record: `luma-crypto-CDd03W9DGurs9Es`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/impact-q274>
-
-### About the event
-
-SAMADHAN by UPAY connects NGOs and social enterprises with student innovators to solve specific, real-world challenges identified on the ground. The session will explore how solutions developed through the hackathon can be tested, adapted with community inputs, and taken forward for sustained implementation beyond the competition.
-
 <a id="event-52c53bb634c86f21"></a>
 
 ## Colosseum Hackathonの勝ち方 — Winners’ Playbook
@@ -73477,6 +73463,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5ec65eb4e811c4cf"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316843995`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/316843995/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ef69c4d85ed5ea5a"></a>
 
 ## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
@@ -73621,6 +73619,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4bd9752f6603cb32"></a>
+
+## Fintech x Crypto
+
+- Record: `luma-evt-rCOXkFRTs9cgPc2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/jzkyiiz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-80da32eceb765dbb"></a>
 
 ## Fintech x Crypto
@@ -73690,6 +73700,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T11:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/carpoolcrypto/events/316816714/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-745a66ac5fa64e07"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-316816718`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T11:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/los-angeles-double-your-crypto-club/events/316816718/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73786,6 +73808,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T16:45:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/mwmzbdb0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-26a5bf3fc3fd66b5"></a>
+
+## Crypto talk - Money is Freedom; currency is slavery
+
+- Record: `mu-316823041`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/cashflow-271/events/316823041/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74208,6 +74242,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-386add8861b0cde4"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859713`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/316859713/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2cb8292d333762ff"></a>
 
 ## Measuring Ledgers With The Blockchain Decentralisation Index Lab
@@ -74313,6 +74359,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T10:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316802693/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-881bd2f113dabc7a"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802761`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/316802761/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74452,6 +74510,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9fea1f23fc4d4449"></a>
+
+## BTC Balkans 2026
+
+- Record: `w3v-btc-balkans-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T07:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://btcbalkans.com/en>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e18f039573962889"></a>
 
 ## Boston - Silicon Valley AI Film Festival Screening Showcase
@@ -74525,6 +74595,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-01T04:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/n5pzchya>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3b4d64ec6cc37c2c"></a>
+
+## Zcash World - Mumbai
+
+- Record: `w3v-zcash-world---mumbai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T05:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/83ujl6ms>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

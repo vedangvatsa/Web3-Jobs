@@ -20627,7 +20627,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027"
   },
@@ -21933,7 +21933,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/the-future-of-capital-markets-2026",
-    "coverImage": "/events/w3v-the-future-of-capital-markets-f08846ec.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -21946,7 +21946,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/yawcgo0t",
-    "coverImage": "/events/w3v-securing-bitcoin-by-bitvault-064b2363.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -21959,7 +21959,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/x4j5dthl",
-    "coverImage": "/events/w3v-bitcoin-red-team-f605167b.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -21972,7 +21972,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/glo37kdr",
-    "coverImage": "/events/w3v-one-year-of-the-starboard-sygnum-bitcoin-alpha-2ac4dfe2.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -21985,7 +21985,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/8ledskyk",
-    "coverImage": "/events/w3v-when-a-bank-goes-down-the-rabbit-hole-e344a066.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -21998,7 +21998,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/mwmzbdb0",
-    "coverImage": "/events/w3v-put-your-bitcoin-to-work-without-selling-apero-4a9deaa2.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -22040,7 +22040,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/qlt7isbb",
-    "coverImage": "/events/w3v-stablecoin-summit-905738d3.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -22053,7 +22053,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/eaap2buy",
-    "coverImage": "/events/w3v-bitdevs-switzerland-socratic-seminar-4-3e585ed1.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -22136,10 +22136,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22242,7 +22239,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/sol-demo-day",
-    "coverImage": "/events/w3v-solana-demo-day-london-2026-dcc333bb.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22255,7 +22252,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/intelligence-summit",
-    "coverImage": "/events/w3v-solana-intelligence-summit-2d134317.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22268,7 +22265,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/scale-or-die-26",
-    "coverImage": "/events/w3v-scale-or-die-131800b3.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22281,7 +22278,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/yrxbkvmn",
-    "coverImage": "/events/w3v-new-friendship-tech-london-e7b99cf5.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22487,7 +22484,7 @@
     "country": "us",
     "location": "Corte Madera, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/316893127/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316893127-54f7516b.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23247,7 +23244,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n6r4k7vb",
-    "coverImage": "/events/w3v-445-crew-x-solana-breakpoint-community-run-04dd2a26.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -23260,7 +23257,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -23329,7 +23326,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/316844001/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844001-d05f8c3f.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23650,7 +23647,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/m7hhy05h",
-    "coverImage": "/events/w3v-merge-x-optimism-vip-cocktail-lunch-514cb9bb.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -23663,7 +23660,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/hhu8bhta",
-    "coverImage": "/events/w3v-riserva-madrid-stablecoins-over-wine-at-merge--5e09c669.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -23676,7 +23673,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/4w2zk12q",
-    "coverImage": "/events/w3v-bit2me-side-event-at-merge-madrid-2026-e0474a2c.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -23703,7 +23700,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/a0e6b8at",
-    "coverImage": "/events/w3v-ai-economic-forum-mumbai-2026-e6058bab.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -23730,7 +23727,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/freesocietyhackathon",
-    "coverImage": "/events/w3v-zcash-presents-free-society-hackathon-d385c627.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -23743,7 +23740,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/2kj0jqf9",
-    "coverImage": "/events/w3v-sidequest-happy-hour-e3806b27.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -24067,7 +24064,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316788764-23ca9f72.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24420,5 +24417,115 @@
     "coverImage": "/events/luma-evt-arwz688leghmzka-a077ce3d.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-rCOXkFRTs9cgPc2",
+    "name": "Fintech x Crypto",
+    "description": "",
+    "startDate": "2026-10-21T17:00:00.000Z",
+    "endDate": "2026-10-21T20:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/jzkyiiz8",
+    "coverImage": "/events/luma-evt-rcoxkfrts9cgpc2-524f2cfd.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316843995",
+    "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
+    "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
+    "startDate": "2026-10-21T07:00:00-07:00",
+    "endDate": "2026-10-21T07:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/316843995/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316816718",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-10-22T11:00:00-07:00",
+    "endDate": "2026-10-22T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316816718/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316823041",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-10-22T19:00:00-07:00",
+    "endDate": "2026-10-22T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/316823041/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316859713",
+    "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+    "description": "The new Blockchain Decentralisation Index Lab is an open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyon",
+    "startDate": "2026-10-29T08:00:00-07:00",
+    "endDate": "2026-10-29T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/316859713/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316802761",
+    "name": "ZK Learning Group: Quantum resistance and ZKP",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-10-29T10:00:00-07:00",
+    "endDate": "2026-10-29T10:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-btc-balkans-2026",
+    "name": "BTC Balkans 2026",
+    "description": "BTC Balkans 2026: a two-day Bitcoin conference in Sofia with talks, panels, workshops and regional community sessions.",
+    "startDate": "2026-10-31T07:00:00.000Z",
+    "endDate": "2026-11-01T16:00:00.000Z",
+    "city": "Sofia",
+    "country": "BG",
+    "location": "Sofia, BG",
+    "url": "https://btcbalkans.com/en",
+    "coverImage": "/events/w3v-btc-balkans-2026-d4dff6c7.webp",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-zcash-world---mumbai",
+    "name": "Zcash World - Mumbai",
+    "description": "Zcash World – Mumbai: a Devcon week event on privacy, ZK and Zcash with real ZEC, shielded wallets, talks and project booths.",
+    "startDate": "2026-11-01T05:30:00.000Z",
+    "endDate": "2026-11-01T13:00:00.000Z",
+    "city": "Mumbai",
+    "country": "IN",
+    "location": "Mumbai, IN",
+    "url": "https://luma.com/83ujl6ms",
+    "coverImage": null,
+    "month": "November 2026"
   }
 ]

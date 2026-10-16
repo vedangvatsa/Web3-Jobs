@@ -4261,10 +4261,6 @@
       "sha256": "627f13eb99cc378b4737676b993c7a2a7c3afb040c284cabcde1a49d070036e8",
       "status": "retained"
     },
-    "/events/w3v-445-crew-x-solana-breakpoint-community-run-04dd2a26.webp": {
-      "sha256": "e7563841f1de1631574a84716988274828e06d5a157ff9cdfe2fb527eb6a31d6",
-      "status": "optimized"
-    },
     "/events/w3v-above-the-rails-9c1ab809.webp": {
       "sha256": "d7a81b0382109fcdc9c40aeb3cadf3a8bea0875ffdea9733cd87a133817362c1",
       "status": "retained"
@@ -4279,10 +4275,6 @@
     },
     "/events/w3v-agentic-money-2026-bf3fb6d9.webp": {
       "sha256": "4ee838ec1f01ec1b323d63088d7484a5a6c5f44564271cb66537ce4d535fd4fa",
-      "status": "optimized"
-    },
-    "/events/w3v-ai-economic-forum-mumbai-2026-e6058bab.webp": {
-      "sha256": "e978272ab3e561ae73ac7759e315bb9fd205d56e3ff4c3d451d9662e474deee6",
       "status": "optimized"
     },
     "/events/w3v-ai-formal-verification-for-onchain-finance-0ec7f514.webp": {
@@ -4333,20 +4325,8 @@
       "sha256": "3cba55b0ed63a5440b55eafe35e9d07623068db8690f6d5d7101d78cb2617a80",
       "status": "optimized"
     },
-    "/events/w3v-bit2me-side-event-at-merge-madrid-2026-e0474a2c.webp": {
-      "sha256": "bba5523ac8870053abec82f59962a5c0ec7de2c908e5f8d31a248421dfb433ae",
-      "status": "optimized"
-    },
-    "/events/w3v-bitcoin-red-team-f605167b.webp": {
-      "sha256": "d96848e59420f5a4444f56986a82f3b6d6af170fed63852cc7c04deb5d4a5ffd",
-      "status": "optimized"
-    },
     "/events/w3v-bitcoin-thailand-conference-2026-4222799d.webp": {
       "sha256": "1748ae23010e1e57149eeb0d2618c92bf1422826e88cc08414425ff5ee584424",
-      "status": "optimized"
-    },
-    "/events/w3v-bitdevs-switzerland-socratic-seminar-4-3e585ed1.webp": {
-      "sha256": "2d94ad244d5355462c319422b457bd25826c6e57caa9e6d7bf6f3fdbead64a58",
       "status": "optimized"
     },
     "/events/w3v-blockchaincom-the-restaurant-at-the-end-of-the-ffb6508c.webp": {
@@ -4557,10 +4537,6 @@
       "sha256": "66e4a590ea1492d2b53eb51d6fa176b8fa6ebcd4b68ed7ce02812017022f2c4a",
       "status": "retained"
     },
-    "/events/w3v-merge-x-optimism-vip-cocktail-lunch-514cb9bb.webp": {
-      "sha256": "89dc8a8981188c809b7d95e21edf6b6169a188d83a87d02157ab3490403c0d95",
-      "status": "optimized"
-    },
     "/events/w3v-merkle-science-meet-las-vegas-enterprise-26-10-7b8ec9b0.webp": {
       "sha256": "7139d510b3dcf96b65d5442738453613d5fce08a466cd0970211c3f94bc86fe3",
       "status": "optimized"
@@ -4613,10 +4589,6 @@
       "sha256": "ca2af64f8e7e109ecdbbaa38512b533c86023457fed6aaedffd5d97e491e9287",
       "status": "optimized"
     },
-    "/events/w3v-new-friendship-tech-london-e7b99cf5.webp": {
-      "sha256": "aacd35568571727aadc01a99831e4d2a251e1f9c719afdebd43c443c2d1d1021",
-      "status": "optimized"
-    },
     "/events/w3v-night-by-the-pool-e20072f5.webp": {
       "sha256": "e8a5005b10743eadec20931a765238c0e130c20cfddfd2a89355ac2c21957141",
       "status": "optimized"
@@ -4647,10 +4619,6 @@
     },
     "/events/w3v-onchain-legal-summit-devcon-india-26-11-04-37f6d87d.webp": {
       "sha256": "d47c2ce701d5dbf28351cf300e7b272fb991ad2b0e4a1de306ff48213cb253a2",
-      "status": "optimized"
-    },
-    "/events/w3v-one-year-of-the-starboard-sygnum-bitcoin-alpha-2ac4dfe2.webp": {
-      "sha256": "9e340db0181cf372c1f2d6e6bad30d0e365474b223b7c0562be8a6784d34104f",
       "status": "optimized"
     },
     "/events/w3v-open-61705d53.webp": {
@@ -4709,10 +4677,6 @@
       "sha256": "8a45de965d086f0d6b99ad7ea769177d1495be74a0c1c3b144723f3410e05710",
       "status": "retained"
     },
-    "/events/w3v-put-your-bitcoin-to-work-without-selling-apero-4a9deaa2.webp": {
-      "sha256": "566fab83a1454b9c57e4a8b9e708eb3e053fb457f150aae3ad126bc93ebd910d",
-      "status": "optimized"
-    },
     "/events/w3v-quantstamp-x-common-defense-singapore-sips-dbf5dbb2.webp": {
       "sha256": "610800aca6e567ecc775ce6cf9b11e85e7e1f6c54d8931c0632cd839d51e09fe",
       "status": "optimized"
@@ -4737,10 +4701,6 @@
       "sha256": "62ce6d34a3c7eb92374637f693c6451475563ecc319ff9ae3c86f4ff7289c46f",
       "status": "retained"
     },
-    "/events/w3v-riserva-madrid-stablecoins-over-wine-at-merge--5e09c669.webp": {
-      "sha256": "6a25d9fea22cef60b29e7b68a1d2dbaf6a4217910dcb3b44207b3ed1eb302fe5",
-      "status": "optimized"
-    },
     "/events/w3v-rollups-rounds-hosted-succinct-optimism-26-10--6f51199e.webp": {
       "sha256": "3c31670141267e69834cb2ab69852ab53748fe4e9f1b23a14a2401d5336959f1",
       "status": "optimized"
@@ -4761,14 +4721,6 @@
       "sha256": "4d428def599ecfb94d40a615a4350180ea07317ef0faf41b24432664c200ceb5",
       "status": "optimized"
     },
-    "/events/w3v-scale-or-die-131800b3.webp": {
-      "sha256": "3b3d9f6134ec23262f9ef0b7821dfddd0e047847ac1a84bab42b96120bbe4bbc",
-      "status": "optimized"
-    },
-    "/events/w3v-securing-bitcoin-by-bitvault-064b2363.webp": {
-      "sha256": "83cd8b50d0f950327cd55b377383e0396aaceaf01063e35c6f2fd4de8e26f013",
-      "status": "optimized"
-    },
     "/events/w3v-seracx-stablecoins-liquidity-meet-flow-8efbda77.webp": {
       "sha256": "a933a4f0295ff7b21f1d85dad05fd507fa25692fda1510fef5a8fe9608a16638",
       "status": "retained"
@@ -4776,10 +4728,6 @@
     "/events/w3v-ship-safe-devcon-mumbai-security-sessions-26-1-ae6e400e.webp": {
       "sha256": "6741366d726177e53f62d1f0478c065bdc6577e1b90b832c9703d5ca13e66460",
       "status": "retained"
-    },
-    "/events/w3v-sidequest-happy-hour-e3806b27.webp": {
-      "sha256": "2b0dc126174420dfcc413eaeea8b6bc4a5ada887a1a03eadbd46240535785cea",
-      "status": "optimized"
     },
     "/events/w3v-signal-week-2027-22b988b4.webp": {
       "sha256": "2e0d53b7000cdd68df50124dd70e209cb5586b18c9c6c53b6f81505aa4342383",
@@ -4793,24 +4741,12 @@
       "sha256": "60ab2e3dec1302b26e07fccafef0fd3a06d4d7541cf9ed4116ef95497b0d158f",
       "status": "retained"
     },
-    "/events/w3v-solana-demo-day-london-2026-dcc333bb.webp": {
-      "sha256": "f712110c1fe2275b4769034b5619ad2798ee12ef7d520d1e95c7268597517f0c",
-      "status": "optimized"
-    },
     "/events/w3v-solana-developer-hackathon-2026-5369c9cc.webp": {
       "sha256": "5eb7df9bdea9678359ac0e1bca9e89feb9489de12cff5da73ae2c0336f72ffaa",
       "status": "optimized"
     },
     "/events/w3v-solana-hacker-house-london-26-11-01-fe495214.webp": {
       "sha256": "e6439f5c859f215a798b45fd469e4b9695562cbf0ed90be52142f1fba514d5c3",
-      "status": "optimized"
-    },
-    "/events/w3v-solana-intelligence-summit-2d134317.webp": {
-      "sha256": "215e058b28c743b9584cb8297c4eaed4d534e120ad752b1c3641d0f1f419aee7",
-      "status": "optimized"
-    },
-    "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp": {
-      "sha256": "a4bf7557fca4f77a8eeb3680580aec5074c9fc522c4ec4d2b89f33ddee617458",
       "status": "optimized"
     },
     "/events/w3v-spacey-ventures-web3-synergy-night-ad411a81.webp": {
@@ -4841,10 +4777,6 @@
       "sha256": "854927c230eac71d2dfbd482e471b5436e5706258a9f87536cb652f7d4dba126",
       "status": "retained"
     },
-    "/events/w3v-stablecoin-summit-905738d3.webp": {
-      "sha256": "6472e949665cf47b8df9c2c492b4fcaf9e7bcb4f7d5f516b94aad843aec73402",
-      "status": "optimized"
-    },
     "/events/w3v-stablecoins-from-tokens-to-rails-a-debate-b5b8dc25.webp": {
       "sha256": "efff1a65d971c3994b0215f511271808c98f262bef3f70c868396a419a233621",
       "status": "retained"
@@ -4867,10 +4799,6 @@
     },
     "/events/w3v-the-blue-party-c74a3c2b.webp": {
       "sha256": "b412035770593cbc004947436da0a2d57679065fa9f4020a9850fe2b37539c76",
-      "status": "optimized"
-    },
-    "/events/w3v-the-future-of-capital-markets-f08846ec.webp": {
-      "sha256": "f91d6b6c5bb2eda76b0139cda556cc89dc3054b1199dcf454269a12a1e18ff08",
       "status": "optimized"
     },
     "/events/w3v-the-future-of-money-payments-ed17fe8b.webp": {
@@ -4933,10 +4861,6 @@
       "sha256": "37b8c74a35d5038e37d6297eb1b2359d9697f58b8e1b8f259f562ff761e93cd0",
       "status": "retained"
     },
-    "/events/w3v-when-a-bank-goes-down-the-rabbit-hole-e344a066.webp": {
-      "sha256": "b3795540aa5a09690d2f3af7a4939675fe3a64225c94cd8b592ec371837df03b",
-      "status": "optimized"
-    },
     "/events/w3v-where-europes-digital-asset-leaders-come-toget-250dd4e8.webp": {
       "sha256": "8de68ba8b107532cb8f3cfb4f7cdc850481129d57d5d219d1f3cc668bb47552d",
       "status": "retained"
@@ -4959,10 +4883,6 @@
     },
     "/events/w3v-yield-layer-social-impact-26-11-04-35f52683.webp": {
       "sha256": "b87e6ca6ae39a1bc36368fa405cf69f734d867237cd214b0e252a52ab05be420",
-      "status": "optimized"
-    },
-    "/events/w3v-zcash-presents-free-society-hackathon-d385c627.webp": {
-      "sha256": "c318f7ecaea1d03155205ab8fcd225befed79b53d9747b8bc9de199402469680",
       "status": "optimized"
     },
     "/icon.png": {

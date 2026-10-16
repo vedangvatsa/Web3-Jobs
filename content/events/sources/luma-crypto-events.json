@@ -155,60 +155,6 @@
     }
   },
   {
-    "id": "luma-crypto-CDd03W9DGurs9Es",
-    "slug": "samadhan",
-    "name": "SAMADHAN: Beyond the Hackathon, From Ideas to Impact | Hosted by UPAY",
-    "description": "SAMADHAN by UPAY connects NGOs and social enterprises with student innovators to solve specific, real-world challenges identified on the ground. The session will explore how solutions developed through the hackathon can be tested, adapted with community inputs, and taken forward for sustained implementation beyond the competition.",
-    "startDate": "2026-09-16T10:30:00.000Z",
-    "endDate": "2026-09-16T11:30:00.000Z",
-    "city": "New Delhi",
-    "country": "India",
-    "location": "Juniper Hall, Habitat World,, H6QG+Q9W MAIN BUILDING, Lodhi Rd, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
-    "url": "https://luma.com/impact-q274",
-    "registrationUrl": "https://luma.com/impact-q274",
-    "coverImage": "/events/luma-crypto-cdd03w9dgurs9es-f9d231eb.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Impact House"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Institutional Area",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Juniper Hall, Habitat World,",
-    "addressLocality": "New Delhi",
-    "addressRegion": "Delhi",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 28.589492999999997,
-      "longitude": 77.22593839999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Impact House",
-      "url": "https://luma.com/ImpactHouse"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/impact-q274",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/impact-q274",
-      "eventId": "evt-CDd03W9DGurs9Es",
-      "fetchedAt": "2026-09-19T23:45:16.468Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-EjoD89X0CHsHeV7",
     "slug": "awa",
     "name": "2026 AI Web3 投資：如何打造一人 AI 研究團隊",

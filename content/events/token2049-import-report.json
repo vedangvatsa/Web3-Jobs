@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-16T08:22:21.886Z",
+  "checkedAt": "2026-10-16T11:31:36.053Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,26 +10,23 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 239,
-    "added": 2,
-    "excluded": 370,
-    "needs-review": 46,
+    "existing": 241,
+    "excluded": 373,
+    "needs-review": 43,
     "duplicate": 1
   },
   "importedTotal": 258,
-  "added": [
-    {
-      "id": "token2049-evt-t9Ts4NTXVMW7o9r",
-      "slug": "get-down-real",
-      "name": "Get Down For Real"
-    },
-    {
-      "id": "token2049-evt-k5CCYE5vIpcBRt6",
-      "slug": "get-down-for",
-      "name": "Get Down For Real"
-    }
-  ],
+  "added": [],
   "receipts": [
+    {
+      "url": "https://luma.com/0nxi588e",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-real"
+    },
     {
       "url": "https://luma.com/openhouse-singapore",
       "name": "Founder House Singapore 🇸🇬",
@@ -38,6 +35,15 @@
       ],
       "status": "existing",
       "slug": "founder-house"
+    },
+    {
+      "url": "https://luma.com/tw82xsrs",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "get-down-for"
     },
     {
       "url": "https://luma.com/fazra9qw",
@@ -2530,26 +2536,6 @@
       ],
       "status": "existing",
       "slug": "tech-week"
-    },
-    {
-      "url": "https://luma.com/0nxi588e",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-real",
-      "eventId": "evt-t9Ts4NTXVMW7o9r"
-    },
-    {
-      "url": "https://luma.com/tw82xsrs",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "get-down-for",
-      "eventId": "evt-k5CCYE5vIpcBRt6"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",
@@ -6788,8 +6774,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6806,8 +6792,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6815,8 +6801,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "needs-review",
-      "reason": "Luma page returned HTTP 429"
+      "status": "excluded",
+      "reason": "Primary source event has ended"
     },
     {
       "url": "",
