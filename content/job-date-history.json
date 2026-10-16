@@ -28375,5 +28375,715 @@
     "date": "2025-11-14T05:47:15-05:00",
     "dateVerified": true,
     "dateSource": "Greenhouse.first_published"
+  },
+  "lever:892fedee-03b9-4b82-a2ce-720dada161ad": {
+    "date": "2026-10-15T09:14:20.929Z",
+    "dateVerified": true
+  },
+  "lever:e1d3b43d-4208-4bbe-a4b0-2115037e3874": {
+    "date": "2026-10-15T09:56:11.370Z",
+    "dateVerified": true
+  },
+  "greenhouse:5006785101": {
+    "date": "2026-10-15T05:18:09-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:89c7e4b0-b5a0-4fec-b243-8554e3652b8f": {
+    "date": "2026-10-15T12:48:28.000Z",
+    "dateVerified": true
+  },
+  "ashby:36b25aed-0e53-4a38-9dab-b4593f142b23": {
+    "date": "2026-10-15T12:48:27.000Z",
+    "dateVerified": true
+  },
+  "ashby:0848f774-3e75-4ddf-9886-a572dc52fc1e": {
+    "date": "2026-10-15T12:48:26.000Z",
+    "dateVerified": true
+  },
+  "ashby:3c574639-8e05-4bef-8d29-6c822dc3be4e": {
+    "date": "2026-10-15T12:48:25.000Z",
+    "dateVerified": true
+  },
+  "ashby:f5961d4a-cd6f-49ca-b3cc-e68272fd94e7": {
+    "date": "2026-10-15T12:48:24.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101170": {
+    "date": "2026-10-15T14:00:09.000Z",
+    "dateVerified": true
+  },
+  "ashby:a831f2fe-fd7f-4379-b7f9-bde67710b661": {
+    "date": "2026-10-15T11:59:43.962+00:00",
+    "dateVerified": true
+  },
+  "ashby:bc3f3540-2764-497a-86ba-ed8078ad9b2f": {
+    "date": "2026-10-15T12:55:44.893+00:00",
+    "dateVerified": true
+  },
+  "ashby:feb54ac3-0bff-44bf-a6a2-b56f6db1fc83": {
+    "date": "2026-10-15T12:56:47.414+00:00",
+    "dateVerified": true
+  },
+  "https://yellowcard.bamboohr.com/careers/428": {
+    "date": "2026-10-15",
+    "dateVerified": true
+  },
+  "https://uk.linkedin.com/jobs/view/strategy-business-development-associate-at-aave-labs-4478803553": {
+    "date": "2026-10-15T09:42:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/senior-react-native-engineer-at-aave-labs-4478157569": {
+    "date": "2026-10-15T09:42:09.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/strategy-business-development-associate-at-aave-labs-4478820012": {
+    "date": "2026-10-15T09:42:08.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/legal-counsel-commercial-at-aave-labs-4478809352": {
+    "date": "2026-10-15T09:42:08.000Z",
+    "dateVerified": true
+  },
+  "https://ie.linkedin.com/jobs/view/director-of-operations-at-aave-labs-4478487660": {
+    "date": "2026-10-15T09:42:07.000Z",
+    "dateVerified": true
+  },
+  "https://uk.linkedin.com/jobs/view/senior-react-native-engineer-at-aave-labs-4478157562": {
+    "date": "2026-10-15T09:42:07.000Z",
+    "dateVerified": true
+  },
+  "ashby:b5a10115-0386-47c5-80f2-9c382e606dfd": {
+    "date": "2026-10-15T13:13:41.000Z",
+    "dateVerified": true
+  },
+  "ashby:8293ce8f-a4c0-499f-971a-761153c14a85": {
+    "date": "2026-10-15T13:13:40.000Z",
+    "dateVerified": true
+  },
+  "ashby:c86697dd-aacf-4112-b2e2-08dd69d50430": {
+    "date": "2026-10-15T13:13:40.000Z",
+    "dateVerified": true
+  },
+  "ashby:8fbc6d1a-eac7-4c1e-91e6-e2a68b7d9368": {
+    "date": "2026-10-15T13:13:40.000Z",
+    "dateVerified": true
+  },
+  "https://de.linkedin.com/jobs/view/internship-talent-acquisition-at-augustus-4479546120": {
+    "date": "2026-10-15T09:53:17.000Z",
+    "dateVerified": true
+  },
+  "ashby:147d0ac4-56cc-43f3-9770-d8e9dbed24b8": {
+    "date": "2026-10-15T07:04:38.248+00:00",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/hylo-2/jobs/97132369-marketing-growth-lead": {
+    "date": "2026-10-15T20:34:32.000Z",
+    "dateVerified": true
+  },
+  "ashby:861f0e17-1f0c-4c7f-a212-e6240834b9cd": {
+    "date": "2026-10-15T14:26:39.000Z",
+    "dateVerified": true
+  },
+  "https://durianpay.kantorku.id/job/senior-software-engineer-10": {
+    "date": "2026-10-15T13:41:29.000Z",
+    "dateVerified": true
+  },
+  "https://durianpay.kantorku.id/job/product-manager-132": {
+    "date": "2026-10-15T13:41:28.000Z",
+    "dateVerified": true
+  },
+  "lever:31c164c9-1af0-4e20-ab81-3ef7cc172c7f": {
+    "date": "2026-10-15T07:46:10.634Z",
+    "dateVerified": true
+  },
+  "dover:7ba6be40-ad66-4c27-a619-ffdea3b8b854": {
+    "date": "2026-10-15T10:57:14.000Z",
+    "dateVerified": true
+  },
+  "workable:1fca44cdb9": {
+    "date": "2026-10-15T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:aee1576cc7": {
+    "date": "2026-10-15T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/director-technical-data-modernization-at-hadrian-4477056990": {
+    "date": "2026-10-15T09:49:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/manufacturing-engineer-capabilities-at-hadrian-4476630202": {
+    "date": "2026-10-15T09:49:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/sr-manager-sales-operations-planning-s-op-at-hadrian-4477038702": {
+    "date": "2026-10-15T09:49:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/pay-transparency-at-hadrian-4476623474": {
+    "date": "2026-10-15T09:49:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/facility-engineer-at-hadrian-4477003723": {
+    "date": "2026-10-15T09:49:14.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/sr-manager-production-planning-scheduling-at-hadrian-4476696957": {
+    "date": "2026-10-15T09:49:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/manufacturing-engineer-capabilities-at-hadrian-4476633033": {
+    "date": "2026-10-15T09:49:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/metal-manufacturing-engineer-additive-at-hadrian-4473184561": {
+    "date": "2026-10-15T09:49:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/facility-engineer-electrical-at-hadrian-4477052012": {
+    "date": "2026-10-15T09:49:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/maintenance-specialist-at-hadrian-4477043452": {
+    "date": "2026-10-15T09:49:13.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/training-specialist-welding-at-hadrian-4476624391": {
+    "date": "2026-10-15T09:49:12.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/polymer-manufacturing-engineer-additive-at-hadrian-4476077859": {
+    "date": "2026-10-15T09:49:11.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8034511003": {
+    "date": "2026-10-15T09:58:50-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8215824": {
+    "date": "2026-10-15T11:50:50-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8273743": {
+    "date": "2026-10-15T05:47:42-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8273713": {
+    "date": "2026-10-15T06:29:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8238489": {
+    "date": "2026-10-15T14:58:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8267105": {
+    "date": "2026-10-15T00:40:29-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8210230": {
+    "date": "2026-10-15T11:55:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8257935": {
+    "date": "2026-10-15T12:48:50-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8282859": {
+    "date": "2026-10-15T09:22:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8022703": {
+    "date": "2026-09-02T02:23:15-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8260302": {
+    "date": "2026-10-15T16:21:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8287668": {
+    "date": "2026-10-15T19:40:55-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8269052": {
+    "date": "2026-10-15T14:24:44-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8260306": {
+    "date": "2026-10-15T17:36:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8269104": {
+    "date": "2026-10-15T14:29:14-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8287392": {
+    "date": "2026-10-15T16:38:12-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7344201002": {
+    "date": "2024-04-22T14:15:14-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8853156002": {
+    "date": "2026-10-15T13:54:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8893460002": {
+    "date": "2026-10-15T19:03:55-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8893459002": {
+    "date": "2026-10-15T19:02:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8860535002": {
+    "date": "2026-10-06T15:27:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5006646101": {
+    "date": "2026-10-15T02:04:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5428149008": {
+    "date": "2026-10-15T13:35:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5442203008": {
+    "date": "2026-10-15T17:39:25-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5427855008": {
+    "date": "2026-10-15T19:23:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6224587004": {
+    "date": "2026-10-15T15:38:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6225504004": {
+    "date": "2026-10-15T12:17:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8034338003": {
+    "date": "2026-10-15T03:40:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8034314003": {
+    "date": "2026-10-15T01:17:58-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008058101": {
+    "date": "2026-10-15T15:18:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5007387101": {
+    "date": "2026-10-15T10:23:21-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4744168005": {
+    "date": "2026-10-15T15:42:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4736720005": {
+    "date": "2026-09-22T14:30:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4744268005": {
+    "date": "2026-10-15T15:03:30-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4744284005": {
+    "date": "2026-10-15T15:05:02-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6226254004": {
+    "date": "2026-10-15T21:08:27-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6195696004": {
+    "date": "2026-09-21T13:21:54-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:e8ea9700-b49c-457a-bcdf-a928b42f25df": {
+    "date": "2026-05-05T03:19:48.353Z",
+    "dateVerified": true
+  },
+  "lever:052237f0-54e5-43c6-a72d-036eb66f8603": {
+    "date": "2024-06-25T08:05:38.917Z",
+    "dateVerified": true
+  },
+  "lever:5dd729d3-d8f9-45da-9544-f57696cb216a": {
+    "date": "2024-11-19T04:31:31.049Z",
+    "dateVerified": true
+  },
+  "lever:a90333e6-777f-41fd-9bf5-50f5895ffde3": {
+    "date": "2023-03-27T14:55:29.099Z",
+    "dateVerified": true
+  },
+  "lever:80a64970-528f-4d90-aada-84284bd6f1f3": {
+    "date": "2022-09-09T15:13:55.168Z",
+    "dateVerified": true
+  },
+  "lever:58cacd4c-78f1-423b-b6e4-9bab15e01ba1": {
+    "date": "2023-11-23T03:28:37.589Z",
+    "dateVerified": true
+  },
+  "lever:6b7e43d1-66f0-4d41-bde2-827ae1168a03": {
+    "date": "2025-06-20T22:49:42.871Z",
+    "dateVerified": true
+  },
+  "lever:d8b10545-45f5-42f3-a483-c03a36d6f288": {
+    "date": "2026-09-17T00:03:43.530Z",
+    "dateVerified": true
+  },
+  "ashby:96250bac-465c-4524-bc7c-ba0f0b05310f": {
+    "date": "2026-10-15T21:33:08.330+00:00",
+    "dateVerified": true
+  },
+  "ashby:d7c117f8-45e4-4212-8bc5-233ff60c7038": {
+    "date": "2026-10-15T14:48:11.878+00:00",
+    "dateVerified": true
+  },
+  "ashby:7e531974-caac-46a2-804e-c6c3140bfda4": {
+    "date": "2026-10-15T13:17:35.182+00:00",
+    "dateVerified": true
+  },
+  "ashby:83e5a0bb-c7c4-4118-9526-0215f260bfc2": {
+    "date": "2026-10-15T13:23:59.449+00:00",
+    "dateVerified": true
+  },
+  "ashby:126997ee-a784-46ee-ae3f-12d819289ff5": {
+    "date": "2026-09-14T10:54:37.579+00:00",
+    "dateVerified": true
+  },
+  "ashby:7766a226-be08-4d46-abe9-822449731186": {
+    "date": "2026-10-15T16:20:10.088+00:00",
+    "dateVerified": true
+  },
+  "ashby:1e7c38ce-3bd3-46a7-878f-f551ccbeebcb": {
+    "date": "2026-10-15T16:20:12.299+00:00",
+    "dateVerified": true
+  },
+  "ashby:3104d146-60dd-47d7-9726-f008a0f893ec": {
+    "date": "2026-10-15T16:55:01.995+00:00",
+    "dateVerified": true
+  },
+  "ashby:3d25a6ac-30b7-424c-a93c-54ccf2e538b6": {
+    "date": "2026-10-15T19:57:17.110+00:00",
+    "dateVerified": true
+  },
+  "ashby:b853c28e-15a7-4dac-be01-b0fbc00cd006": {
+    "date": "2026-10-15T16:48:04.085+00:00",
+    "dateVerified": true
+  },
+  "ashby:be3b7975-e7af-4dc7-b982-2c66fbfaccbf": {
+    "date": "2026-10-15T21:45:43.408+00:00",
+    "dateVerified": true
+  },
+  "ashby:cf393aee-7cfd-421d-bc42-903b3f42dd41": {
+    "date": "2026-10-15T21:45:40.875+00:00",
+    "dateVerified": true
+  },
+  "ashby:fdab8fd4-2d27-4878-990c-c2b940340336": {
+    "date": "2026-10-15T22:14:11.426+00:00",
+    "dateVerified": true
+  },
+  "ashby:6e56727a-f0f3-4e10-9834-e7f99b089702": {
+    "date": "2026-10-15T19:04:12.797+00:00",
+    "dateVerified": true
+  },
+  "ashby:e4e52261-16bf-4285-aced-636fa7f6c28d": {
+    "date": "2026-10-15T12:13:54.769+00:00",
+    "dateVerified": true
+  },
+  "ashby:e3014dea-286f-488b-b662-14454301c489": {
+    "date": "2026-10-15T16:04:20.588+00:00",
+    "dateVerified": true
+  },
+  "ashby:ef6c1253-c7bb-466e-8a7c-9a451df784b2": {
+    "date": "2026-10-15T07:50:14.257+00:00",
+    "dateVerified": true
+  },
+  "workable:00deea9e08": {
+    "date": "2026-10-15T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-global-events-and-travel-100-remote-2": {
+    "date": "2026-10-15T14:19:35Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-global-events-and-travel-100-remote-1": {
+    "date": "2026-10-15T14:18:18Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise": {
+    "date": "2026-10-15T12:47:57Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-7": {
+    "date": "2026-10-15T12:07:13Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-6": {
+    "date": "2026-10-15T12:02:42Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-5": {
+    "date": "2026-10-15T12:01:28Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-4": {
+    "date": "2026-10-15T12:00:26Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-2": {
+    "date": "2026-10-15T11:58:25Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-3": {
+    "date": "2026-10-15T11:59:05Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote-1": {
+    "date": "2026-10-15T11:57:09Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/developer-productivity-engineer-100-remote": {
+    "date": "2026-10-15T11:56:13Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-15": {
+    "date": "2026-10-15T11:36:50Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-13": {
+    "date": "2026-10-15T11:35:41Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-12": {
+    "date": "2026-10-15T11:35:08Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-14": {
+    "date": "2026-10-15T11:36:15Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-16": {
+    "date": "2026-10-15T11:37:18Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-10": {
+    "date": "2026-10-15T11:33:24Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-11": {
+    "date": "2026-10-15T11:33:54Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote-9": {
+    "date": "2026-10-15T11:32:37Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/fullstack-engineer-agenticops-100-remote": {
+    "date": "2026-10-15T11:30:25Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-financial-infrastructure-expansion-digital-assets-expertise-4": {
+    "date": "2026-10-14T16:11:45Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-financial-infrastructure-expansion-digital-assets-expertise-3": {
+    "date": "2026-10-14T16:09:40Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise-1": {
+    "date": "2026-10-14T16:08:56Z",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise-2": {
+    "date": "2026-10-14T16:01:26Z",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:9042714e62f1": {
+    "date": "2026-09-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/9042714e62f1-billing-analyst-managed-k8s",
+      "checkedAt": "2026-10-16T03:33:37.932Z",
+      "bodySha256": "0685544235fbfd86377cc0408a2c88a20fb2cc36b1f477b870754a83bba8c609",
+      "provider": "breezy",
+      "datePosted": "2026-09-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:c068334ff2ce": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+      "checkedAt": "2026-10-16T03:33:37.932Z",
+      "bodySha256": "1808192a9e3b38ddad7539fae91cd65d7060918f05cc86751d6a20726214accc",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:503c06a18926": {
+    "date": "2026-09-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/503c06a18926-developer-experience-engineer-managed-k8s",
+      "checkedAt": "2026-10-16T03:33:38.813Z",
+      "bodySha256": "4f85956ec823ac9f84a7dea5e19b551b38d36d7f340cd8c7980801852b539774",
+      "provider": "breezy",
+      "datePosted": "2026-09-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:e2218c4bb69a": {
+    "date": "2026-09-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/e2218c4bb69a-integration-engineer-maas",
+      "checkedAt": "2026-10-16T03:33:39.210Z",
+      "bodySha256": "2b1ddcb82eb33aef9c5c2af0bc51daf92bde0129985e44a577b0da7fe88f338e",
+      "provider": "breezy",
+      "datePosted": "2026-09-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:4fa5df6fdc87": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/4fa5df6fdc87-inference-performance-engineer-maas",
+      "checkedAt": "2026-10-16T03:33:39.210Z",
+      "bodySha256": "23807d503de83128e47e5689f55307f53feca700e43975a046b2fb06122ff328",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:97b0e5263096": {
+    "date": "2026-09-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/97b0e5263096-technical-writer-managed-k8s",
+      "checkedAt": "2026-10-16T03:33:42.199Z",
+      "bodySha256": "088c698d51889ba011685b8473bf91072c74731788fdc0be6fcd286d05de32f0",
+      "provider": "breezy",
+      "datePosted": "2026-09-28"
+    }
+  },
+  "breezy:bitdeer.breezy.hr:1f88dc208215": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/1f88dc208215-technical-writer-maas",
+      "checkedAt": "2026-10-16T03:33:42.199Z",
+      "bodySha256": "d42b69937e7d95fc175999853057e9fb636109f0a7aa8e3fbe90a3fdffb38e3e",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:421c5b813857": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/421c5b813857-integrations-engineer",
+      "checkedAt": "2026-10-16T03:33:44.761Z",
+      "bodySha256": "7794eaca99b79b5e063ba2add83c0e10efcbbb9da3983362cf2355ebc2cc9d13",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:c00124c46538": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/c00124c46538-senior-software-engineer",
+      "checkedAt": "2026-10-16T03:33:45.236Z",
+      "bodySha256": "db2fbbacff807a1fe389a86751c798985717b384d6a87f01aacee9d9a0075afe",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:4bfdd67fe181": {
+    "date": "2026-10-15",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/4bfdd67fe181-senior-blockchain-engineer",
+      "checkedAt": "2026-10-16T03:33:45.236Z",
+      "bodySha256": "d1d0cfe4dd0d3aaec047fecc0f863c7d9f2575791b611be75b12e010fd6e54ed",
+      "provider": "breezy",
+      "datePosted": "2026-10-15"
+    }
+  },
+  "https://bitcoin.bamboohr.com/careers/48": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/d8e17ce3-3336-465e-97db-857b76ab2d1e": {
+    "date": "2026-10-14T21:53:22.496000-07:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/7b9478e4-cb92-4274-929a-661dca9fe855": {
+    "date": "2026-10-14T20:42:01.826000-07:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/9fd110f4-cf41-4434-adc2-c975918cd28e": {
+    "date": "2026-10-14T20:48:50.040000-07:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/49da8864-0401-44e3-ad68-f862b07b4aa6": {
+    "date": "2026-10-15T07:29:56.527000-07:00",
+    "dateVerified": true
+  },
+  "ashby:7e7e5e09-9e60-4ec0-9837-d87e379d5f29": {
+    "date": "2026-10-15T17:24:36.700+00:00",
+    "dateVerified": true
   }
 }

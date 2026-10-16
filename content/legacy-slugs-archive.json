@@ -145734,5 +145734,227 @@
     "link": "https://job-boards.greenhouse.io/drweng/jobs/8201188",
     "title": "Administrative Assistant - FICCO Trading Group",
     "company": "DRW"
+  },
+  "eng600": {
+    "id": "8886040002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8886040002",
+    "company": "BitGo",
+    "title": "Software Engineer - Trade"
+  },
+  "infra42": {
+    "id": "7a26acef-3fc6-4f87-8483-be6fb83ef474",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/7a26acef-3fc6-4f87-8483-be6fb83ef474",
+    "company": "Chainlink Labs",
+    "title": "Senior Site Reliability Engineer, Data Infrastructure"
+  },
+  "ops101": {
+    "id": "5448295008",
+    "link": "http://block.xyz/careers/jobs/5448295008?gh_jid=5448295008",
+    "company": "Block",
+    "title": "Global Fulfillment Operations Specialist"
+  },
+  "ob6": {
+    "id": "4996981101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4996981101",
+    "company": "StraitsX",
+    "title": "Account Onboarding Associate"
+  },
+  "eng327": {
+    "id": "eabc5915-b37f-429b-a182-d7aa205de077",
+    "link": "https://jobs.ashbyhq.com/Parity/eabc5915-b37f-429b-a182-d7aa205de077",
+    "company": "Parity Technologies",
+    "title": "Senior Experience Engineer"
+  },
+  "mgr148": {
+    "id": "8231202",
+    "link": "https://stripe.com/jobs/search?gh_jid=8231202",
+    "company": "Stripe",
+    "title": "Technical Program Manager"
+  },
+  "tr79": {
+    "id": "8256366",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8256366",
+    "company": "DRW",
+    "title": "Quantitative Researcher - Prediction Markets"
+  },
+  "ops88": {
+    "id": "8175653",
+    "link": "https://stripe.com/jobs/search?gh_jid=8175653",
+    "company": "Stripe",
+    "title": "Commercial Operations Associate"
+  },
+  "mgr138": {
+    "id": "8241654",
+    "link": "https://ripple.com/careers/all-jobs/job/8241654?gh_jid=8241654",
+    "company": "Ripple",
+    "title": "Customer Success Senior Manager"
+  },
+  "mkt71": {
+    "id": "8009030003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8009030003",
+    "company": "OKX",
+    "title": "Senior Manager / Expert, DEX Ecosystem Growth"
+  },
+  "mkt70": {
+    "id": "8009028003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8009028003",
+    "company": "OKX",
+    "title": "Senior Manager / Expert, DeFi Ecosystem Growth"
+  },
+  "sls179": {
+    "id": "5322123008",
+    "link": "http://block.xyz/careers/jobs/5322123008?gh_jid=5322123008",
+    "company": "Block",
+    "title": "Mid Market Account Executive"
+  },
+  "rec21": {
+    "id": "e19d0263-f3b5-4c70-b6f4-d6af5b5cbabf",
+    "link": "https://jobs.ashbyhq.com/ramp/e19d0263-f3b5-4c70-b6f4-d6af5b5cbabf",
+    "company": "Ramp",
+    "title": "Senior Recruiter | G&A"
+  },
+  "pm170": {
+    "id": "8196267",
+    "link": "https://stripe.com/jobs/search?gh_jid=8196267",
+    "company": "Stripe",
+    "title": "Account Executive, Product - Local Payment Methods"
+  },
+  "rec12": {
+    "id": "5b87c3ae-888a-4170-a9f0-cb8385c3f941",
+    "link": "https://jobs.ashbyhq.com/kraken.com/5b87c3ae-888a-4170-a9f0-cb8385c3f941",
+    "company": "Kraken",
+    "title": "Tech Recruiter"
+  },
+  "cmp68": {
+    "id": "d0e313e2-3f7e-4ea0-8cc9-984f0a90aab1",
+    "link": "https://jobs.lever.co/binance/d0e313e2-3f7e-4ea0-8cc9-984f0a90aab1",
+    "company": "Binance",
+    "title": "Compliance Analyst"
+  },
+  "fe17": {
+    "id": "8194604",
+    "link": "https://stripe.com/jobs/search?gh_jid=8194604",
+    "company": "Stripe",
+    "title": "Frontend Engineer, Data Product Experiences"
+  },
+  "eng201": {
+    "id": "8185014",
+    "link": "https://stripe.com/jobs/search?gh_jid=8185014",
+    "company": "Stripe",
+    "title": "Staff Engineer, Payments"
+  },
+  "cmp31": {
+    "id": "fcdce8e6-0c93-4ac7-bea0-c9d43d868275",
+    "link": "https://jobs.ashbyhq.com/allium/fcdce8e6-0c93-4ac7-bea0-c9d43d868275",
+    "company": "Allium",
+    "title": "Head of Legal"
+  },
+  "pm78": {
+    "id": "925fce22-61af-4d26-8f20-90696a3b6704",
+    "link": "https://jobs.ashbyhq.com/ramp/925fce22-61af-4d26-8f20-90696a3b6704",
+    "company": "Ramp",
+    "title": "Product Operations Specialist | Travel"
+  },
+  "eng112": {
+    "id": "8195974",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8195974",
+    "company": "Flow Traders",
+    "title": "Infrastructure Platform Engineer"
+  },
+  "pm52": {
+    "id": "JR101117",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101117",
+    "company": "Circle",
+    "title": "Principal Product Manager, Core Network"
+  },
+  "ops16": {
+    "id": "7996702003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996702003",
+    "company": "OKX",
+    "title": "Senior Manager, Risk Operations Strategy"
+  },
+  "tr8": {
+    "id": "4733877005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005",
+    "company": "DV Trading",
+    "title": "2027 Quantitative Research Intern (DV Equities)"
+  },
+  "mkt13": {
+    "id": "8176256",
+    "link": "https://stripe.com/jobs/search?gh_jid=8176256",
+    "company": "Stripe",
+    "title": "Marketing Operations Manager, APAC Events"
+  },
+  "pm31": {
+    "id": "7996698003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996698003",
+    "company": "OKX",
+    "title": "Product Manager / Director, Institutional Product"
+  },
+  "pm30": {
+    "id": "7996697003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996697003",
+    "company": "OKX",
+    "title": "Product Manager / Director, Institutional Product"
+  },
+  "fs13": {
+    "id": "8195058",
+    "link": "https://stripe.com/jobs/search?gh_jid=8195058",
+    "company": "Stripe",
+    "title": "Fraud Strategist"
+  },
+  "ops15": {
+    "id": "7996695003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996695003",
+    "company": "OKX",
+    "title": "Head of Finance Operations"
+  },
+  "pm28": {
+    "id": "7984217003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7984217003",
+    "company": "OKX",
+    "title": "Product Director, Localisation & AI Evals"
+  },
+  "sls27": {
+    "id": "6194255004",
+    "link": "https://job-boards.greenhouse.io/taxbit/jobs/6194255004",
+    "company": "TaxBit",
+    "title": "Enterprise Account Executive, Singapore"
+  },
+  "eng54": {
+    "id": "57f4a6737b1c",
+    "link": "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer",
+    "company": "Bitdeer",
+    "title": "SRE Monitoring Platform Software Engineer"
+  },
+  "sls39": {
+    "id": "JR2001274",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Director--Exchange-Sales_JR2001274",
+    "company": "CoinDesk",
+    "title": "Director, Exchange Sales"
+  },
+  "sls40": {
+    "id": "JR2001274",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Director--Exchange-Sales_JR2001274-1",
+    "company": "Bullish",
+    "title": "Director, Exchange Sales"
+  },
+  "an8": {
+    "id": "d81d6ff1-cedc-47d5-952f-292861d3acbd",
+    "link": "https://jobs.lever.co/crypto/d81d6ff1-cedc-47d5-952f-292861d3acbd",
+    "company": "Crypto.com",
+    "title": "Corporate Development & Investment Analyst"
+  },
+  "tr7": {
+    "id": "a8f161f3-2126-4888-aa6e-74e23ae49686",
+    "link": "https://jobs.ashbyhq.com/Polymarket/a8f161f3-2126-4888-aa6e-74e23ae49686",
+    "company": "Polymarket",
+    "title": "Quantitative Researcher"
+  },
+  "pm26": {
+    "id": "8175828",
+    "link": "https://stripe.com/jobs/search?gh_jid=8175828",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management"
   }
 }
