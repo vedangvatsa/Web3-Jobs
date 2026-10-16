@@ -38771,25 +38771,21 @@
         "The Defiant"
       ],
       "id": "a96151503a157eaa3014",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T10:09:01.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; MediaMarktSaturn pulled Ledger products after a German buyer report. Retailer notice plus device-evidence confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:50.719Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 MediaMarktSaturn Ledger pull as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:49:03.622Z",
       "retrySearches": [
         "MediaMarkt Ledger pull retailer notice device evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "c8b6f154eb1f152cd4b3": {
       "source": "CoinDesk",
@@ -83305,6 +83301,15 @@
           "note": "Same Oct 14 Ledger seven-market pull after suspected drain as covered in /resellers.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:49:01.408Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
+        },
+        "a96151503a157eaa3014": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 MediaMarktSaturn Ledger pull as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:49:03.622Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
         }
