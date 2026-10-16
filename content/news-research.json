@@ -36851,25 +36851,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "483dbe4d6afc03878ab6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T23:28:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece on the same seven-market halt request. Ledger notice plus chain-of-custody update still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:54.977Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 Ledger halt in Southeast Asia and Hong Kong as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:59.113Z",
       "retrySearches": [
         "Ledger reseller halt custody probe update second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "804438d101e4c015ea8e": {
       "source": "Crypto Briefing",
@@ -83295,6 +83291,15 @@
           "note": "Same Oct 13 Ledger seven-market halt request as covered in /resellers.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:56.726Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
+        },
+        "483dbe4d6afc03878ab6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 Ledger halt in Southeast Asia and Hong Kong as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:59.113Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
         }
