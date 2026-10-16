@@ -45975,11 +45975,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c2145048c18064b2e252",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:00:02.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Ledger Atom trust and tamper context as covered in /atom.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:28.816Z",
+      "duplicateOf": "atom",
+      "mergedInto": "6e9e26c4e4ee35d7a9f2",
+      "lastReviewedDay": "2026-10-16"
     },
     "4620e14236b3f8bdf854": {
       "source": "The Defiant",
@@ -83168,6 +83175,15 @@
           "note": "Same Oct 15 Ledger Atom device beyond signers as covered in /atom.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:25.898Z",
+          "duplicateOf": "atom",
+          "mergedInto": "6e9e26c4e4ee35d7a9f2"
+        },
+        "c2145048c18064b2e252": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Ledger Atom trust and tamper context as covered in /atom.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:28.816Z",
           "duplicateOf": "atom",
           "mergedInto": "6e9e26c4e4ee35d7a9f2"
         }
