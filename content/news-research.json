@@ -45123,11 +45123,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "12a0bd24742738aa97ed",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T19:16:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Repackaged Bitwise CIO bull-bear argument on the AI trade; pundit opinion, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:29.510Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "e51a9375f41b62a8e624": {
       "source": "Bitcoin Magazine",
@@ -82408,6 +82413,13 @@
           "note": "Advisors column on Wall Street waiting for Congress; commentary, not a concrete news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:27.318Z"
+        },
+        "12a0bd24742738aa97ed": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Repackaged Bitwise CIO bull-bear argument on the AI trade; pundit opinion, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:29.510Z"
         }
       },
       "baselineSlugs": [
