@@ -38136,23 +38136,23 @@
       "id": "e4d122aa059fcbbe1765",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T15:10:56.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Zest deadline page blocked again in this run; Zest notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Zest notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:29.423Z",
+      "reviewedAt": "2026-10-16T03:54:12.820Z",
       "retrySearches": [
-        "Zest exit aeUSDC Stacks market notice second outlet"
+        "Zest aeUSDC Stacks market exit deadline notice"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "7534ed35e0a52842c3d3": {
       "source": "The Block",
@@ -83585,6 +83585,21 @@
           "reviewedAt": "2026-10-16T03:54:09.986Z",
           "retrySearches": [
             "DRW Marex tokenized S&P iBoxx OTC swap Canton"
+          ]
+        },
+        "e4d122aa059fcbbe1765": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Zest notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:12.820Z",
+          "retrySearches": [
+            "Zest aeUSDC Stacks market exit deadline notice"
           ]
         }
       },
