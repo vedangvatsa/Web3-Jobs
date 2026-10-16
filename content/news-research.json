@@ -37412,23 +37412,23 @@
       "id": "75b04625da3e7c38421c",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T20:47:14.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "BNY repo page blocked again in this run; BNY or Citadel notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; BNY or Citadel notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:12.079Z",
+      "reviewedAt": "2026-10-16T03:54:36.755Z",
       "retrySearches": [
-        "BNY Citadel tokenized Treasury repo notice second outlet"
+        "BNY Citadel tokenized Treasury overnight repo announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "22edeeec337a1317053a": {
       "source": "CryptoSlate",
@@ -83735,6 +83735,21 @@
           "reviewedAt": "2026-10-16T03:54:34.374Z",
           "retrySearches": [
             "FBI 17 billion scam centers West Africa raids"
+          ]
+        },
+        "75b04625da3e7c38421c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; BNY or Citadel notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:36.755Z",
+          "retrySearches": [
+            "BNY Citadel tokenized Treasury overnight repo announcement"
           ]
         }
       },
