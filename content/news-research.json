@@ -45849,11 +45849,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c59b48dc370bbd1fc14",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:48:20.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "verified-event",
+      "note": "Verified MSCI Oct 15 non-operating screens, Nov 11 list and Nov 30 effect in the official notice plus two outlet reports.",
+      "sourceChecks": [
+        {
+          "url": "https://app2.msci.com/webapp/index_ann/DocGet?format=html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://lcx.com/en/cryptonews/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2167637-20261016",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:47:37.940Z",
+      "articleSlug": "msci",
+      "lastReviewedDay": "2026-10-16"
     },
     "1a94a607086657d884bb": {
       "source": "Crypto Briefing",
@@ -82997,6 +83016,27 @@
           ],
           "reviewedAt": "2026-10-16T03:47:35.508Z",
           "articleSlug": "atom"
+        },
+        "6c59b48dc370bbd1fc14": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified MSCI Oct 15 non-operating screens, Nov 11 list and Nov 30 effect in the official notice plus two outlet reports.",
+          "sourceChecks": [
+            {
+              "url": "https://app2.msci.com/webapp/index_ann/DocGet?format=html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://lcx.com/en/cryptonews/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2167637-20261016",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:47:37.940Z",
+          "articleSlug": "msci"
         }
       },
       "baselineSlugs": [
