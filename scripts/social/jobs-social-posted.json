@@ -13930,7 +13930,8 @@
       },
       "account": "channel:build",
       "attemptId": "88e7f314-0c27-46f4-8fd8-0dc3cb54ec41",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf9c8c93531ba3fe7e5ecacc363448a69f2da6848"
     }
   ]
 }
