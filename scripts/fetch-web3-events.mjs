@@ -402,6 +402,7 @@ const LUMA_COMMUNITIES = [
   'cryptocanal', 'napuleth', 'urbe-eth',
 
   // ── Major Conferences & Side Events ──
+  'devcon8',
   'consensus2026', 'token2049-sideevents', 'pbw-paris',
   'koreaBlockchainWeek', 'singaporeBlockchainWeek',
   'istanbulBlockchainWeek', 'berlinBlockchainWeek',
@@ -486,6 +487,7 @@ async function fetchLumaCommunity(slug) {
           return response;
         },
       });
+      console.log(`[Luma calendar ${slug}] ${result.entries.length} entries across ${result.pages} pages; pagination exhausted`);
       extractEvents(result.entries);
     } else extractEvents(initial);
     return events;

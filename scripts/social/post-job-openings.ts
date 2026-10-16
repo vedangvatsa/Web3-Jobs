@@ -40,23 +40,21 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
 
-import * as fs from 'fs';
 import * as path from 'path';
 import dotenv from 'dotenv';
 import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x';
-import { linkedInTargets, hasLinkedInReceipt, publishLinkedInTargets, type LinkedInTarget } from './linkedin-targets';
+import { linkedInTargets, hasLinkedInReceipt, type LinkedInTarget } from './linkedin-targets';
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
 import { assertPublishableJob, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES } from '../lib/job-publish-guard.mjs';
+import { createSocialStateStore, deliverSocialPost, hasVerifiedPostReceipt, SocialStateError, type SocialState, type SocialHistoryEntry } from './job-social-state';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
 dotenv.config({ path: path.join(rootDir, '.env') });
 dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
-
-const STATE_FILE = path.join(__dirname, 'jobs-social-posted.json');
 
 interface Job {
   id?: string;
@@ -68,27 +66,6 @@ interface Job {
   link: string;
   date?: string;
   active?: boolean;
-}
-
-interface SocialState {
-  lastIndex: number;
-  postedSlugs: string[];
-  pendingSlugs: string[];
-  history: SocialHistoryEntry[];
-}
-
-interface SocialHistoryEntry {
-  slug: string;
-  company: string;
-  title: string;
-  platform: string;
-  postedAt: string;
-  postId?: string;
-  permalink?: string;
-  account?: string;
-  verification?: 'pending' | 'verified';
-  expectedText?: string;
-  provider?: 'buffer' | 'linkedin-direct';
 }
 
 const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook'] as const;
@@ -119,66 +96,8 @@ async function loadJobs(): Promise<Job[]> {
   });
 }
 
-function loadState(): SocialState {
-  if (fs.existsSync(STATE_FILE)) {
-    try {
-      const state = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8')) as Partial<SocialState>;
-      if (typeof state.lastIndex !== 'number' || !Number.isInteger(state.lastIndex) || !Array.isArray(state.postedSlugs) || !Array.isArray(state.history)) {
-        throw new Error('state is missing lastIndex, postedSlugs, or history');
-      }
-      return {
-        lastIndex: state.lastIndex,
-        postedSlugs: state.postedSlugs,
-        pendingSlugs: Array.isArray(state.pendingSlugs) ? state.pendingSlugs : [],
-        history: state.history,
-      };
-    } catch (error) {
-      throw new Error(`Unable to load social posting state: ${(error as Error).message}`);
-    }
-  }
-  return {
-    lastIndex: 0,
-    postedSlugs: [],
-    pendingSlugs: [],
-    history: [],
-  };
-}
-
-function saveState(state: SocialState) {
-  state.postedSlugs = [...new Set(state.postedSlugs)].slice(-1000);
-  state.pendingSlugs = [...new Set(state.pendingSlugs)];
-
-  if (state.history.length > 1000) {
-    const pendingSlugs = new Set(state.pendingSlugs);
-    const pendingEntries = state.history.filter((entry) => pendingSlugs.has(entry.slug));
-    const completedEntries = state.history.filter((entry) => !pendingSlugs.has(entry.slug));
-    const completedSlots = Math.max(0, 1000 - pendingEntries.length);
-    const retainedCompletedEntries = new Set(
-      completedSlots === 0 ? [] : completedEntries.slice(-completedSlots)
-    );
-    state.history = state.history.filter(
-      (entry) => pendingSlugs.has(entry.slug) || retainedCompletedEntries.has(entry)
-    );
-  }
-
-  const tempStateFile = `${STATE_FILE}.${process.pid}.tmp`;
-  fs.writeFileSync(tempStateFile, JSON.stringify(state, null, 2));
-  fs.renameSync(tempStateFile, STATE_FILE);
-}
-
-const LEGACY_INVALID_POST_IDS = new Set(['unknown', 'published']);
-
 function isSocialPlatform(platform: string): platform is SocialPlatform {
   return (SOCIAL_PLATFORMS as readonly string[]).includes(platform);
-}
-
-function hasVerifiedPostReceipt(entry: SocialHistoryEntry): boolean {
-  if (entry.verification === 'pending') return false;
-  if (entry.verification === 'verified') return true;
-
-  // Legacy state predates explicit verification. Retain real receipts while
-  // rejecting the placeholder values previously used after malformed replies.
-  return Boolean(entry.postId?.trim()) && !LEGACY_INVALID_POST_IDS.has(entry.postId!);
 }
 
 function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialPlatform> {
@@ -204,13 +123,14 @@ function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialP
   return platforms;
 }
 
-function missingRequestedPlatforms(
+function publishableRequestedPlatforms(
   state: SocialState,
   slug: string,
   requested: readonly SocialPlatform[],
 ): SocialPlatform[] {
   const verified = verifiedPlatformsForSlug(state, slug);
-  return requested.filter((name) => !verified.has(name));
+  const blocked = new Set(state.history.filter(entry => entry.slug === slug && entry.verification && entry.verification !== 'verified').map(entry => entry.platform));
+  return requested.filter((name) => !verified.has(name) && !blocked.has(name));
 }
 
 function findPendingJob(
@@ -221,7 +141,7 @@ function findPendingJob(
   for (const slug of state.pendingSlugs) {
     const job = jobs.find((entry) => entry.slug === slug);
     if (!job) continue;
-    const missing = missingRequestedPlatforms(state, job.slug, requestedPlatforms);
+    const missing = publishableRequestedPlatforms(state, job.slug, requestedPlatforms);
     if (missing.length === 0) continue;
     return job;
   }
@@ -232,7 +152,7 @@ function isFreshRotationJob(state: SocialState, slug: string, postedSet: Set<str
   if (postedSet.has(slug)) return false;
   // Partially posted pending jobs (e.g. LinkedIn done, Facebook missing) must
   // not be treated as fresh rotations or LinkedIn/Facebook stay skipped forever.
-  return verifiedPlatformsForSlug(state, slug).size === 0;
+  return !state.history.some(entry => entry.slug === slug);
 }
 
 function pickNextUnpostedJob(
@@ -308,25 +228,21 @@ function reconcileCompletedPendingSlugs(state: SocialState): boolean {
   return changed;
 }
 
-function recordVerifiedPost(state: SocialState, entry: SocialHistoryEntry): void {
-  state.history.push({ ...entry, verification: 'verified' });
-  saveState(state);
-}
-
 function xBufferClient(): BufferXClient {
   return new BufferXClient(process.env.BUFFER_ACCESS_TOKEN || '', process.env.BUFFER_X_CHANNEL_ID || BUFFER_X_CHANNEL_ID);
 }
 
-async function reconcilePendingXPosts(state: SocialState): Promise<void> {
+async function reconcilePendingXPosts(state: SocialState, save: () => Promise<void>): Promise<void> {
   for (const entry of state.history) {
     if (entry.platform !== 'x' || entry.provider !== 'buffer' || entry.verification !== 'pending') continue;
     try {
       if (!entry.postId || !entry.expectedText) throw new Error('Pending Buffer X receipt is incomplete');
       entry.permalink = await xBufferClient().verify(entry.postId, entry.expectedText, 1);
       entry.verification = 'verified';
-      saveState(state);
+      await save();
       console.log(`X post confirmed through Buffer: ${entry.permalink}`);
     } catch (error) {
+      if (error instanceof SocialStateError) throw error;
       console.warn(`X receipt remains pending for ${entry.slug}: ${(error as Error).message}`);
     }
   }
@@ -416,7 +332,7 @@ async function verifyThreadsPost(mediaId: string, expected: ThreadsPostExpectati
   throw new Error(`Threads post ${mediaId} could not be verified: ${lastError}`);
 }
 
-async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
+async function reconcilePendingThreadsPosts(state: SocialState, save: () => Promise<void>): Promise<void> {
   const pendingSlugs = new Set(state.pendingSlugs);
   const pending = state.history.filter((entry) => (
     entry.platform === 'threads' &&
@@ -425,7 +341,6 @@ async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
   ));
   if (pending.length === 0) return;
 
-  let changed = false;
   for (const entry of pending) {
     try {
       const verified = await verifyThreadsPost(entry.postId!, {
@@ -438,20 +353,20 @@ async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
       entry.account = verified.username;
       entry.expectedText = verified.text;
       entry.verification = 'verified';
-      changed = true;
+      await save();
       console.log(`Recovered pending Threads post: ${verified.permalink}`);
     } catch (error) {
+      if (error instanceof SocialStateError) throw error;
       if (entry.verification !== 'pending') {
         entry.verification = 'pending';
-        changed = true;
+        await save();
       }
       console.warn(`Threads post ${entry.postId} remains pending: ${(error as Error).message}`);
     }
   }
-  if (changed) saveState(state);
 }
 
-export async function postToThreads(text: string, linkAttachment: string, beforeSend: () => Promise<void>): Promise<string> {
+export async function postToThreads(text: string, linkAttachment: string, beforeSend: () => Promise<void>, checkpoint?: (fields: {containerId: string}) => Promise<void>): Promise<string> {
   const { accessToken, threadsUserId } = getThreadsCredentials();
   const account = await getThreadsAccount(accessToken);
   if (account.id !== threadsUserId) {
@@ -483,6 +398,7 @@ export async function postToThreads(text: string, linkAttachment: string, before
   const containerData = (await createRes.json()) as { id?: string };
   const containerId = containerData.id;
   if (!containerId) throw new Error('Threads container creation response did not include an ID');
+  await checkpoint?.({containerId});
 
   // Wait 3 seconds for Meta container processing
   await new Promise((resolve) => setTimeout(resolve, 3000));
@@ -851,6 +767,37 @@ export async function postToLinkedInBuffer(
 
 const LINKEDIN_BOT_UA = 'LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient)';
 
+export async function verifyLinkedInBuffer(target: LinkedInTarget, postId: string, expectedText: string): Promise<{permalink: string}> {
+  const response = await fetch('https://api.buffer.com/graphql', {
+    method: 'POST', headers: {'Content-Type': 'application/json', Authorization: `Bearer ${process.env.BUFFER_ACCESS_TOKEN || ''}`},
+    body: JSON.stringify({query: 'query ($id: PostId!) { post(input: {id: $id}) { id text channelId channelService status externalLink } }', variables: {id: postId}}),
+    signal: AbortSignal.timeout(30000),
+  });
+  const data = await response.json();
+  const post = data.data?.post;
+  if (!response.ok || data.errors?.length || post?.id !== postId || post.channelId !== target.channelId
+    || post.channelService !== 'linkedin' || post.text !== expectedText || post.status !== 'sent'
+    || typeof post.externalLink !== 'string' || !/^https:\/\/(?:www\.)?linkedin\.com\/(?:posts\/|feed\/update\/)/.test(post.externalLink)) {
+    throw new Error(`LinkedIn ${target.label} receipt ${postId} remains pending; read-only reconciliation required`);
+  }
+  return {permalink: post.externalLink};
+}
+
+async function reconcilePendingLinkedInPosts(state: SocialState, save: () => Promise<void>) {
+  for (const entry of state.history) {
+    if (entry.platform !== 'linkedin' || entry.provider !== 'buffer' || entry.verification !== 'pending' || !entry.postId || !entry.expectedText) continue;
+    const target = linkedInTargets().find(target => target.channelId === entry.account);
+    if (!target) continue;
+    try {
+      Object.assign(entry, await verifyLinkedInBuffer(target, entry.postId, entry.expectedText), {verification: 'verified'});
+      await save();
+    } catch (error) {
+      if (error instanceof SocialStateError) throw error;
+      console.warn((error as Error).message);
+    }
+  }
+}
+
 function decodeEntities(s: string): string {
   return s
     .replace(/&amp;/g, '&')
@@ -1112,7 +1059,7 @@ const PREVIEW_TARGETS = [
 
 // ── Main Scheduling & Selection ──
 
-export async function main() {
+export async function main(options: {store?: ReturnType<typeof createSocialStateStore>} = {}) {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
   const platformIdx = args.indexOf('--platform');
@@ -1134,11 +1081,15 @@ export async function main() {
   console.log(`========================================\n`);
 
   const jobs = await loadJobs();
-  const state = loadState();
+  const store = options.store || createSocialStateStore({file: path.join(__dirname, 'jobs-social-posted.json')});
+  const state = await store.loadState(!isDryRun);
+  const save = () => store.saveState(state);
   if (!isDryRun) {
-    if (requestedPlatforms.includes('x')) await reconcilePendingXPosts(state);
-    await reconcilePendingThreadsPosts(state);
-    if (reconcileCompletedPendingSlugs(state)) saveState(state);
+    await save();
+    if (requestedPlatforms.includes('x')) await reconcilePendingXPosts(state, save);
+    await reconcilePendingThreadsPosts(state, save);
+    if (requestedPlatforms.includes('linkedin')) await reconcilePendingLinkedInPosts(state, save);
+    if (reconcileCompletedPendingSlugs(state)) await save();
   }
 
   const postedSet = new Set(state.postedSlugs);
@@ -1151,6 +1102,11 @@ export async function main() {
     if (!selectedJob) {
       console.error(`Requested job slug "${targetSlug}" not found in cache.`);
       process.exit(1);
+    }
+    if (!isDryRun && !publishableRequestedPlatforms(state, targetSlug, requestedPlatforms).length
+      && state.history.some(entry => entry.slug === targetSlug && requestedPlatforms.includes(entry.platform as SocialPlatform)
+        && entry.verification && entry.verification !== 'verified')) {
+      throw new Error(`Requested job ${targetSlug} is blocked by pending or quarantined deliveries; read-only reconciliation required`);
     }
   } else if (platform === 'all' || platform === 'both') {
     // Full rotation runs should keep LinkedIn and other link-card feeds moving.
@@ -1226,6 +1182,7 @@ export async function main() {
 
   const jobsToPost: Job[] = [selectedJob as Job];
   const rejectedPreviewSlugs = new Set<string>();
+  const incompletePublications: string[] = [];
   let checkedCandidates = 0;
   for (let round = 0; round < jobsToPost.length; round++) {
     const currentJob = jobsToPost[round];
@@ -1274,9 +1231,7 @@ export async function main() {
   console.log(`  Slug    : ${slug}`);
   console.log(`  OG Image: ${ogImageUrl}`);
 
-  // Do this before warming or publishing. The state commit is deliberately
-  // delayed until after publishing, so this run must not begin during a
-  // rollout that could serve mixed metadata to social crawlers.
+  // Avoid mixed preview metadata while a production rollout is in flight.
   if (!isDryRun) {
     await waitForQuietDeploy();
   }
@@ -1337,7 +1292,7 @@ export async function main() {
    const alreadyPublished = verifiedPlatformsForSlug(state, slug);
    const pendingPlatforms = new Set(
      state.history
-       .filter((entry) => entry.slug === slug && entry.verification === 'pending')
+        .filter((entry) => entry.slug === slug && entry.verification && entry.verification !== 'verified')
        .map((entry) => entry.platform)
    );
    const blockedThisRound = new Set<SocialPlatform>();
@@ -1380,10 +1335,20 @@ export async function main() {
   }
 
    if (requestedPlatforms.some(shouldPublishPlatform) && markSlugPending(state, slug)) {
-     saveState(state);
+     await save();
    }
 
   const now = new Date().toISOString();
+  const deliver = (
+    name: SocialPlatform, text: string, payload: Record<string, unknown>,
+    send: Parameters<typeof deliverSocialPost>[0]['send'],
+    details: Partial<SocialHistoryEntry> = {},
+    verify?: Parameters<typeof deliverSocialPost>[0]['verify'],
+  ) => deliverSocialPost({
+    state, save, beforeSend, send, verify,
+    entry: {slug, company, title, platform: name, postedAt: now, expectedText: text,
+      snapshot: structuredClone({...currentJob}), payload: structuredClone(payload), ...details},
+  });
 
   let postedSuccessCount = 0;
   const attemptedPlatforms = new Set<SocialPlatform>();
@@ -1394,28 +1359,14 @@ export async function main() {
     try {
       console.log(`Publishing to X @${BUFFER_X_ACCOUNT} via Buffer...`);
       const buffer = xBufferClient();
-       const bufferPostId = await buffer.create(xPostText, beforeSend);
-      const entry: SocialHistoryEntry = {
-        slug,
-        company,
-        title,
-        platform: 'x',
-        postedAt: now,
-        postId: bufferPostId,
-        provider: 'buffer',
-        account: BUFFER_X_ACCOUNT,
-        expectedText: xPostText,
-        verification: 'pending',
-      };
-      state.history.push(entry);
-      saveState(state);
-      entry.permalink = await buffer.verify(bufferPostId, xPostText);
-      entry.verification = 'verified';
-      saveState(state);
+      const entry = await deliver('x', xPostText, {text: xPostText, channelId: process.env.BUFFER_X_CHANNEL_ID || BUFFER_X_CHANNEL_ID},
+        () => buffer.create(xPostText, beforeSend), {provider: 'buffer', account: BUFFER_X_ACCOUNT},
+        async id => ({permalink: await buffer.verify(id, xPostText)}));
       console.log(`✓ Published to X via Buffer: ${entry.permalink}`);
       newlyVerifiedPlatforms.add('x');
       postedSuccessCount++;
     } catch (err) {
+      if (err instanceof SocialStateError) throw err;
       const message = (err as Error).message;
       console.error(`✗ Failed to post to X:`, message);
     }
@@ -1425,35 +1376,16 @@ export async function main() {
     attemptedPlatforms.add('threads');
     try {
       console.log('Publishing to Threads (with link attachment preview)...');
-      const threadsId = await postToThreads(threadsPostText, threadsUrl, beforeSend);
-       const threadsEntry: SocialHistoryEntry = {
-         slug,
-         company,
-         title,
-         platform: 'threads',
-          postedAt: now,
-          postId: threadsId,
-          verification: 'pending',
-          expectedText: threadsPostText,
-       };
-       // Persist this receipt before verification so a transient Graph read
-       // failure can be reconciled later without duplicating the Threads post.
-       state.history.push(threadsEntry);
-       saveState(state);
-        const verified = await verifyThreadsPost(threadsId, {
-          slug,
-          company,
-          title,
-          expectedText: threadsPostText,
+      const entry = await deliver('threads', threadsPostText, {text: threadsPostText, link_attachment: threadsUrl},
+        checkpoint => postToThreads(threadsPostText, threadsUrl, beforeSend, checkpoint), {}, async id => {
+          const verified = await verifyThreadsPost(id, {slug, company, title, expectedText: threadsPostText});
+          return {permalink: verified.permalink, account: verified.username};
         });
-       threadsEntry.permalink = verified.permalink;
-       threadsEntry.account = verified.username;
-        threadsEntry.verification = 'verified';
-        saveState(state);
-        console.log(`✓ Successfully published to Threads! ${verified.permalink}`);
+        console.log(`✓ Successfully published to Threads! ${entry.permalink}`);
         newlyVerifiedPlatforms.add('threads');
         postedSuccessCount++;
     } catch (err) {
+      if (err instanceof SocialStateError) throw err;
       console.error(`✗ Failed to post to Threads:`, (err as Error).message);
     }
   }
@@ -1463,19 +1395,13 @@ export async function main() {
     try {
       console.log('Publishing to Bluesky...');
       const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
-      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc, beforeSend);
-      console.log(`✓ Successfully published to Bluesky! Post URI: ${bskyUri}`);
-      recordVerifiedPost(state, {
-        slug,
-        company,
-        title,
-        platform: 'bluesky',
-        postedAt: now,
-        postId: bskyUri,
-      });
+      const entry = await deliver('bluesky', blueskyPostText, {text: blueskyPostText, linkUrl: blueskyUrl, ogImageUrl, company, title, description: metaDesc},
+        () => postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc, beforeSend));
+      console.log(`✓ Successfully published to Bluesky! Post URI: ${entry.postId}`);
       newlyVerifiedPlatforms.add('bluesky');
       postedSuccessCount++;
     } catch (err) {
+      if (err instanceof SocialStateError) throw err;
       console.error(`✗ Failed to post to Bluesky:`, (err as Error).message);
     }
   }
@@ -1494,19 +1420,12 @@ export async function main() {
         }
         try {
           console.log(`Publishing to Farcaster (${farcasterTargetLabel(target)})...`);
-          const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, target.channelId, beforeSend);
-          console.log(`✓ Farcaster ${farcasterTargetLabel(target)} cast hash: ${castHash}`);
-          recordVerifiedPost(state, {
-            slug,
-            company,
-            title,
-            platform: 'farcaster',
-            postedAt: now,
-            postId: castHash,
-            account: target.key,
-          });
+          const entry = await deliver('farcaster', farcasterPostText, {text: farcasterPostText, embeds: [{url: farcasterUrl}], ...(target.channelId ? {channel_id: target.channelId} : {})},
+            () => postToFarcaster(farcasterPostText, farcasterUrl, target.channelId, beforeSend), {account: target.key});
+          console.log(`✓ Farcaster ${farcasterTargetLabel(target)} cast hash: ${entry.postId}`);
           postedSuccessCount++;
         } catch (err) {
+          if (err instanceof SocialStateError) throw err;
           farcasterFailures++;
           console.error(
             `✗ Failed to post to Farcaster (${farcasterTargetLabel(target)}):`,
@@ -1531,27 +1450,27 @@ export async function main() {
         console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
       } else {
         const targets = linkedInTargets();
-        const results = await publishLinkedInTargets(
-          state.history, slug, targets,
-          (target) => {
-            const link = { url: linkedinUrl, title: preview.title, description: preview.description || undefined, thumbnail: preview.image };
-            return target.transport === 'direct'
-              ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link, beforeSend)
-              : postToLinkedInBuffer(target, linkedinPostText, link, beforeSend);
-          },
-          (target, bufferPostId) => recordVerifiedPost(state, {
-            slug, company, title, platform: 'linkedin', postedAt: now,
-            postId: bufferPostId, account: target.channelId, provider: target.transport === 'direct' ? 'linkedin-direct' : 'buffer',
-          }),
-          false,
-        );
-        for (const result of results) {
-          console.log(`LinkedIn ${result.target.label}: ${result.status}${result.error ? ` — ${result.error}` : ''}`);
-          if (result.status === 'submitted') postedSuccessCount++;
+        for (const target of targets) {
+          if (hasLinkedInReceipt(state.history, slug, target)) continue;
+          try {
+            const link = {url: linkedinUrl, title: preview.title, description: preview.description || undefined, thumbnail: preview.image};
+            const entry = await deliver('linkedin', linkedinPostText, {text: linkedinPostText, link, target},
+              () => target.transport === 'direct'
+                ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link, beforeSend)
+                : postToLinkedInBuffer(target, linkedinPostText, link, beforeSend),
+              {account: target.channelId, provider: target.transport === 'direct' ? 'linkedin-direct' : 'buffer'},
+              target.transport === 'direct' ? undefined : id => verifyLinkedInBuffer(target, id, linkedinPostText));
+            console.log(`LinkedIn ${target.label}: ${entry.verification} ${entry.postId}`);
+            postedSuccessCount++;
+          } catch (error) {
+            if (error instanceof SocialStateError) throw error;
+            console.error(`LinkedIn ${target.label}: ${(error as Error).message}`);
+          }
         }
-        if (results.every((result) => result.status !== 'failed')) newlyVerifiedPlatforms.add('linkedin');
+        if (targets.every(target => hasLinkedInReceipt(state.history, slug, target))) newlyVerifiedPlatforms.add('linkedin');
       }
     } catch (err) {
+      if (err instanceof SocialStateError) throw err;
       console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);
     }
   }
@@ -1563,19 +1482,13 @@ export async function main() {
        const preview = verifiedPreviews.get('facebook');
        if (!preview) throw new Error('Facebook publish skipped because its preview was not verified');
        await refreshFacebookPreview(facebookUrl, preview);
-       const fbPostId = await postToFacebook(facebookPostText, facebookUrl, beforeSend);
-      console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
-      recordVerifiedPost(state, {
-        slug,
-        company,
-        title,
-        platform: 'facebook',
-        postedAt: now,
-        postId: fbPostId,
-      });
+      const entry = await deliver('facebook', facebookPostText, {message: facebookPostText, link: facebookUrl},
+        () => postToFacebook(facebookPostText, facebookUrl, beforeSend));
+      console.log(`✓ Successfully published to Facebook! Post ID: ${entry.postId}`);
       newlyVerifiedPlatforms.add('facebook');
       postedSuccessCount++;
     } catch (err) {
+      if (err instanceof SocialStateError) throw err;
       console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
     }
   }
@@ -1586,7 +1499,7 @@ export async function main() {
    const completionChanged = allPlatformsSucceeded && markSlugComplete(state, slug);
 
    if (postedSuccessCount > 0 || completionChanged) {
-      saveState(state);
+      await save();
       console.log(`\nState saved (${postedSuccessCount} platforms newly verified${allPlatformsSucceeded ? '; all platforms complete' : ''}). Done.`);
    } else {
      console.warn(`\nNo new platform succeeded for ${slug}. State remains incomplete and will retry missing platforms.`);
@@ -1596,6 +1509,7 @@ export async function main() {
      return !verifiedPlatforms.has(name);
    });
    if (missingPlatforms.length > 0) {
+     incompletePublications.push(`${slug}: ${missingPlatforms.join(', ')}`);
      if (postedSuccessCount === 0) {
        throw new Error(`Incomplete social publish for ${slug}; awaiting verified posts on: ${missingPlatforms.join(', ')}`);
      }
@@ -1619,6 +1533,7 @@ export async function main() {
       }
     }
   }
+  if (incompletePublications.length) throw new Error(`Unverified social deliveries remain: ${incompletePublications.join('; ')}. Receipts retained for read-only reconciliation.`);
 }
 
 if (require.main === module) main().catch((err) => {

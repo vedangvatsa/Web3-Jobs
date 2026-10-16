@@ -3,6 +3,7 @@ import * as path from 'path';
 import { hashPaths, outputsReady } from './hash-files';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP, type PrebuildStep } from './prebuild-steps';
 import { publicRootFiles } from './public-page-files';
+import { hasExpiredPassportArtifacts } from './passport-artifact-expiry';
 
 const ROOT = process.cwd();
 export const MANIFEST_PATH = path.join(ROOT, 'content', 'prebuild-input-hashes.json');
@@ -35,6 +36,7 @@ export function shouldRunStep(
   fast: boolean,
   dirtyOutputs?: Set<string>,
   root = ROOT,
+  today = new Date().toISOString().slice(0, 10),
 ): boolean {
   const current = stepInputHash(step, root);
   const stored = manifest.steps[step.id]?.inputHash;
@@ -42,6 +44,11 @@ export function shouldRunStep(
   const upstreamChanged = dirtyOutputs
     ? step.inputs.some((input) => dirtyOutputs.has(input))
     : false;
+
+  if (step.id === 'nomad-catalogs' && ready && hasExpiredPassportArtifacts(step.outputs, root, today)) {
+    console.log('[prebuild-data] nomad-catalogs: passport exemption expired → run');
+    return true;
+  }
 
   if (fast) {
     if (ready && !upstreamChanged && stored === current) {

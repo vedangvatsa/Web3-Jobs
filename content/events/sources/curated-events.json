@@ -4680,5 +4680,158 @@
         }
       ]
     }
+  },
+  {
+    "id": "curated-field-station-rajasthan-2026",
+    "name": "Field Station Rajasthan 2026",
+    "startDate": "2026-10-23",
+    "location": "Dhun, Rajasthan, India",
+    "coverImage": null,
+    "source": "curated",
+    "url": "https://logos.co/field-station",
+    "slug": "field-station-rajasthan",
+    "endDate": "2026-10-31",
+    "country": "India",
+    "venueName": "Dhun",
+    "approvalRequired": true,
+    "description": "Logos and Zu-Grama run Field Station at Dhun, a 500-acre regenerative site in Rajasthan, from October 23 to 31, 2026. The residency brings scientists, engineers, cryptographers, developers and community organizers together to build prototypes. The organizer's page specifies the October dates; the Devcon 8 calendar supplies the 2026 year. No daily start or finish time has been confirmed.\n\nThe program selects 30 residents. Scholarships cover eight nights of accommodation, food and drinks, on-site activities and the closing summit on October 30. Applicants can request domestic travel assistance. Rooms are shared, with five to seven people in single-sex rooms. The published application window was September 11 to 26.\n\nParticipants choose among the Logos Civic Prize, Logos Sovereignty and Privacy, Zu-Grama d/acc, and a non-builder track for activists, community organizers and artists. Technical work includes privacy-preserving blockchain, decentralized governance, censorship-resistant storage and secure payments. Creatives, designers and testers can also apply.\n\nThe schedule includes stand-ups, mentoring, dedicated build time, workshops and demos. Residents present prototypes at the closing summit. The strongest Logos-track prototypes are eligible for milestone-based grant funding. Applicants are asked to install Logos Basecamp, add its blockchain module and note the block height; an existing demo or prototype is helpful but not required.",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "descriptionSource": {
+      "url": "https://logos.co/field-station",
+      "fetchedAt": "2026-10-16T08:51:31.523Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Field Station: Rajasthan Builder Residency | Logos x Zu-Grama",
+      "sha256": "d5dde384b806b60c7bc2a837d89331f417615a6e4aaca0eacf898e41866999ba",
+      "evidence": [
+        {
+          "url": "https://logos.co/field-station",
+          "fetchedAt": "2026-10-16T08:51:31.523Z",
+          "sha256": "1b9dd77ebf00a2bf6858a1b6a43d4eb0d9743c524ccc24f8a652791af07526a9",
+          "representation": "html"
+        },
+        {
+          "url": "https://luma.com/devcon8",
+          "fetchedAt": "2026-10-16T08:51:26.385Z",
+          "sha256": "e7a2d809adfe9a15823f40ddf14692a8128a96aeaef34fa33e3044be76bc184a",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "curated-tokeniq-mumbai-2026",
+    "name": "TokenIQ Mumbai 2026",
+    "startDate": "2026-10-24",
+    "location": "CIDCO Exhibition and Convention Centre, Navi Mumbai, India",
+    "coverImage": null,
+    "source": "curated",
+    "url": "https://joinfingrad.com/tokeniq",
+    "slug": "tokeniq-mumbai",
+    "endDate": "2026-10-25",
+    "city": "Navi Mumbai",
+    "country": "India",
+    "venueName": "CIDCO Exhibition and Convention Centre",
+    "description": "FinGrad organizes TokenIQ on October 24 and 25, 2026, at CIDCO Exhibition and Convention Centre in Navi Mumbai. The two-day crypto event is aimed at traders, developers, Web3 startups, investors and policymakers. Daily clock times are not confirmed on the primary page.\n\nThe program includes conference sessions, master classes, Q&A, product demos and a live trading competition. Announced subjects include digital asset custody, NFTs beyond art, metaverse infrastructure, crypto trading, AI agents, DeFi and Layer 2 technology. The speaker lineup is still to be announced.\n\nFive areas are planned: a Learning Zone for sessions and master classes; an Exhibition Zone for booths and demos; a Trade War Zone for live trading and technical analysis; a Creators Zone for podcasts and creator meetings; and an Experience Zone with workshops, food and music. A hackathon is advertised, with details to follow through its waitlist.\n\nThe page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.",
+    "price": "INR 199",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "descriptionSource": {
+      "url": "https://joinfingrad.com/tokeniq",
+      "fetchedAt": "2026-10-16T08:51:33.871Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "TokenIQ: FinGrad's Premier Crypto Event in India 2026",
+      "sha256": "8ab4f503aea0a10dc85071d12587d181650130e7f2d869b4afffd34c66830d1f",
+      "evidence": [
+        {
+          "url": "https://joinfingrad.com/tokeniq",
+          "fetchedAt": "2026-10-16T08:51:33.871Z",
+          "sha256": "bfc330fdc8bb12da22ee5e7499c25da94eec3f870d6caa219b66a02e2a1906a2",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "curated-dev3pack-career-fair-2026",
+    "name": "Dev3pack Devcon Career Fair 2026",
+    "startDate": "2026-11-06",
+    "location": "Jio World Centre, Mumbai, India",
+    "coverImage": null,
+    "source": "curated",
+    "url": "https://www.dev3pack.xyz/programs/career-fair",
+    "slug": "dev3pack-devcon-career-fair",
+    "endDate": "2026-11-06",
+    "city": "Mumbai",
+    "country": "India",
+    "venueName": "Jio World Centre",
+    "approvalRequired": true,
+    "description": "Dev3pack's Career Fair takes place at Jio World Centre in Mumbai on November 6, 2026, inside the Devcon India campus. It is open to women and students with a valid Devcon ticket. The primary page confirms the day and venue but does not publish clock times.\n\nThe program includes a hiring floor with partner booths, career workshops on portfolios and interviews, a professional headshot setup with grooming, and a talent competition where builders can pitch and demo their work. A CV is optional but recommended for the application.\n\nCareer Fair registration is free, but a Devcon ticket is required to enter. Accepted applicants who do not already have a ticket can receive a $99 Day Pass voucher for Career Fair attendance or a 10% discount on a full four-day Devcon ticket. Application approval is required before those offers are sent.\n\nHiring partners must have at least three open roles and keep a team member at their booth throughout the day. Booths are free, places are limited, and participating companies receive a curated set of candidate profiles before the event. The organizer specifically welcomes applications from Indian startups.",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "descriptionSource": {
+      "url": "https://www.dev3pack.xyz/programs/career-fair",
+      "fetchedAt": "2026-10-16T08:52:16.902Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Devcon Career Fair",
+      "sha256": "62e8a33fef776c56a1077258e5bf8d60e41679af69c371cfee5b0c6da19e5f41",
+      "evidence": [
+        {
+          "url": "https://www.dev3pack.xyz/programs/career-fair",
+          "fetchedAt": "2026-10-16T08:52:16.902Z",
+          "sha256": "c72c64bcc13162a088e652cdae6dfb666e1b8e0d44d9d202651e3ddcc007d70e",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "id": "curated-edge-city-india-2026",
+    "name": "Edge City India 2026",
+    "startDate": "2026-10-11",
+    "location": "Mandrem, Goa, India",
+    "coverImage": null,
+    "source": "curated",
+    "url": "https://www.edgecity.live/india26",
+    "slug": "edge-city-india-village",
+    "endDate": "2026-11-01",
+    "city": "Mandrem",
+    "country": "India",
+    "venueName": "The Circle, Mandrem",
+    "approvalRequired": true,
+    "description": "Edge City India is a three-week popup village in Mandrem, North Goa, from October 11 to November 1, 2026. Founders, researchers, engineers and creators live and work around The Circle's beach-facing coworking hub. The program includes coworking, talks, workshops, salons and demo days.\n\nThe first week, October 11 to 17, focuses on new urbanism, energy, food systems and education. October 18 to 24 covers longevity and consciousness. The final week, October 25 to November 1, focuses on deep tech, AI, decentralized technologies, governance, policy and hackathons.\n\nThe announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi residency, Hacker House Goa with 2:47PM Studio on October 28 to 31, and an October 30 Project Odin workshop with the Ethereum Foundation Funding Coordination team on sustainable funding for open-source software and digital infrastructure. Light DAO and SingularityNET also host a residency. These programs sit within the wider village rather than replacing its full date range.\n\nApplications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "descriptionSource": {
+      "url": "https://www.edgecity.live/india26",
+      "fetchedAt": "2026-10-16T08:54:17.307Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Edge City India 2026Edge City India 2026",
+      "sha256": "dc4015d778742534e783a60af35d9eeef6e5cb9083fcef08f2caefbf302aca92",
+      "evidence": [
+        {
+          "url": "https://www.edgecity.live/india26",
+          "fetchedAt": "2026-10-16T08:54:17.307Z",
+          "sha256": "32b4e98f78730e95357c78c1815674c60210a996a7a0c1fb8f213a34a3d5281b",
+          "representation": "html"
+        }
+      ]
+    }
   }
 ]

@@ -4407,5 +4407,61 @@
   "curated-alchemy-devcon-meetings-2026": {
     "slug": "alchemy-devcon-meetings",
     "aliases": []
+  },
+  "curated-edge-city-india-2026": {
+    "slug": "edge-city-india-village",
+    "aliases": []
+  },
+  "india-luma-6sp22vxd": {
+    "slug": "road-to-devcon-mumbai-a36",
+    "aliases": []
+  },
+  "india-luma-6tjoddyg": {
+    "slug": "road-to-devcon-bhopal-a36",
+    "aliases": []
+  },
+  "curated-field-station-rajasthan-2026": {
+    "slug": "field-station-rajasthan",
+    "aliases": []
+  },
+  "india-luma-ppg3gw8l": {
+    "slug": "road-to-devcon-pune-a36",
+    "aliases": []
+  },
+  "curated-tokeniq-mumbai-2026": {
+    "slug": "tokeniq-mumbai",
+    "aliases": []
+  },
+  "w3v-hacker-house-goa-26-10-28": {
+    "slug": "hacker-house-goa",
+    "aliases": []
+  },
+  "india-luma-bornlive-tpiy": {
+    "slug": "born-up-ibw-mumbai",
+    "aliases": []
+  },
+  "india-luma-m8jxna31": {
+    "slug": "off-chain-padel-mumbai",
+    "aliases": []
+  },
+  "india-luma-4al1ai5x": {
+    "slug": "born-up-devcon-mumbai",
+    "aliases": []
+  },
+  "india-luma-86nrj6he": {
+    "slug": "midweek-block-party-mumbai",
+    "aliases": []
+  },
+  "india-luma-kfh8wkql": {
+    "slug": "notneils-stealth-founder-dinner",
+    "aliases": []
+  },
+  "curated-dev3pack-career-fair-2026": {
+    "slug": "dev3pack-devcon-career-fair",
+    "aliases": []
+  },
+  "w3v-perps--chai-with-hyprearn": {
+    "slug": "perps-and-chai-hyprearn-mumbai",
+    "aliases": []
   }
 }

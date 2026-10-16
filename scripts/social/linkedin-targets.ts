@@ -13,7 +13,7 @@ export interface LinkedInReceipt {
   platform: string;
   account?: string;
   postId?: string;
-  verification?: 'pending' | 'verified';
+  verification?: 'creating' | 'pending' | 'quarantined' | 'verified';
 }
 
 export function linkedInTargets(env = process.env): LinkedInTarget[] {
@@ -33,7 +33,7 @@ export function linkedInTargets(env = process.env): LinkedInTarget[] {
 
 export function hasLinkedInReceipt(history: LinkedInReceipt[], slug: string, target: LinkedInTarget): boolean {
   return history.some((entry) =>
-    entry.slug === slug && entry.platform === 'linkedin' && entry.verification !== 'pending' &&
+    entry.slug === slug && entry.platform === 'linkedin' && (!entry.verification || entry.verification === 'verified') &&
     Boolean(entry.postId?.trim()) && !['unknown', 'published'].includes(entry.postId!) &&
     // Account-less receipts were produced by the original #Web3-only publisher.
     (entry.account || WEB3_LINKEDIN_CHANNEL_ID) === target.channelId,

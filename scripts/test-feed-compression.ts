@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import http from 'node:http';
 import { spawn } from 'node:child_process';
-import { gunzipSync, inflateSync } from 'node:zlib';
+import { deflateSync, gunzipSync, gzipSync, inflateSync } from 'node:zlib';
 import { setTimeout as delay } from 'node:timers/promises';
 import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
 import { jobExpiryTime } from '../src/lib/job-age-cache.mjs';
@@ -21,7 +21,11 @@ const feeds = new Map([
   ['/myjobhelper.xml', 'application/xml; charset=utf-8'],
 ]);
 
-function request(pathname: string, encoding?: string, method = 'GET', extraHeaders: http.OutgoingHttpHeaders = {}): Promise<{ status: number; headers: http.IncomingHttpHeaders; body: Buffer }> {
+type ResponseTiming = { startedAt: number; completedAt: number };
+type FeedResponse = ResponseTiming & { status: number; headers: http.IncomingHttpHeaders; body: Buffer };
+
+function request(pathname: string, encoding?: string, method = 'GET', extraHeaders: http.OutgoingHttpHeaders = {}): Promise<FeedResponse> {
+  const startedAt = Date.now();
   return new Promise((resolve, reject) => {
     const req = http.request(origin + pathname, {
       method,
@@ -30,7 +34,10 @@ function request(pathname: string, encoding?: string, method = 'GET', extraHeade
     }, response => {
       const chunks: Buffer[] = [];
       response.on('data', chunk => chunks.push(chunk));
-      response.on('end', () => resolve({ status: response.statusCode || 0, headers: response.headers, body: Buffer.concat(chunks) }));
+      response.on('end', () => {
+        const completedAt = Date.now();
+        resolve({ status: response.statusCode || 0, headers: response.headers, body: Buffer.concat(chunks), startedAt, completedAt });
+      });
       response.on('error', reject);
     });
     req.on('timeout', () => req.destroy(new Error(`Timed out: ${pathname}`)));
@@ -46,15 +53,65 @@ function decoded(response: Awaited<ReturnType<typeof request>>) {
   return response.body;
 }
 
-function comparableFeed(body: Buffer, pathname: string): Buffer {
+function comparableFeed(body: Buffer, pathname: string, { startedAt, completedAt }: ResponseTiming): Buffer {
   if (pathname !== '/jobs/feed.xml') return body;
-  return Buffer.from(body.toString().replace(/<lastBuildDate>([^<]+)<\/lastBuildDate>/, (_, date) => {
-    assert.ok(Number.isFinite(Date.parse(date)) && Math.abs(Date.now() - Date.parse(date)) < 60000, 'Dynamic RSS build date must describe this response');
-    return '<lastBuildDate>response-time</lastBuildDate>';
-  }));
+  const xml = body.toString();
+  const match = /<lastBuildDate>([^<]*)<\/lastBuildDate>/.exec(xml);
+  assert.ok(match, `Missing dynamic RSS build date: ${pathname}`);
+  const builtAt = Date.parse(match[1]);
+  // RSS dates truncate milliseconds; use this response's interval, even when compared much later.
+  assert.ok(Number.isFinite(builtAt) && builtAt >= Math.floor(startedAt / 1000) * 1000 && builtAt <= completedAt,
+    `Dynamic RSS build date must describe this response: ${pathname}, date=${match[1]}, startedAt=${startedAt}, completedAt=${completedAt}`);
+  return Buffer.from(xml.replace(match[0], '<lastBuildDate>response-time</lastBuildDate>'));
+}
+
+function testResponseTiming() {
+  const pathname = '/jobs/feed.xml';
+  const startedAt = Date.parse('2026-10-16T04:15:00.999Z');
+  const timing = { startedAt, completedAt: startedAt + 25 };
+  const xml = (date: string, title = 'Fixture job') => Buffer.from(`<rss><channel><lastBuildDate>${date}</lastBuildDate><item><title>${title}</title><pubDate>Fri, 16 Oct 2026 03:00:00 GMT</pubDate></item></channel></rss>`);
+  const body = xml(new Date(startedAt).toUTCString());
+  const originalNow = Date.now;
+  let now = timing.completedAt;
+  Date.now = () => now;
+  try {
+    const expected = comparableFeed(body, pathname, timing);
+    now += 65000;
+    assert.deepEqual(comparableFeed(body, pathname, timing), expected, 'A saved baseline remains valid after other feed checks take over a minute');
+
+    const slowTiming = { startedAt: now, completedAt: now + 65000 };
+    const slowBody = xml(new Date(now + 1200).toUTCString());
+    now = slowTiming.completedAt + 65000;
+    for (const [encoding, compress] of [['gzip', gzipSync], ['deflate', deflateSync]] as const) {
+      const response: FeedResponse = { ...slowTiming, status: 200, headers: { 'content-encoding': encoding }, body: compress(slowBody) };
+      assert.deepEqual(comparableFeed(decoded(response), pathname, response), expected, `${encoding}: valid slow transfer and delayed decoding`);
+    }
+
+    assert.throws(() => comparableFeed(body, pathname, slowTiming), /Dynamic RSS build date/, 'Replaying the baseline as a later response must fail');
+    for (const date of [
+      new Date(Math.floor(timing.startedAt / 1000) * 1000 - 1000).toUTCString(),
+      new Date(Math.floor(timing.completedAt / 1000) * 1000 + 1000).toUTCString(),
+      'not-a-date',
+      '',
+    ]) {
+      assert.throws(() => comparableFeed(xml(date), pathname, timing), /Dynamic RSS build date/, `Reject out-of-interval or invalid date: ${date}`);
+    }
+    assert.throws(() => comparableFeed(Buffer.from('<rss><channel/></rss>'), pathname, timing), /Missing dynamic RSS build date/);
+    const changed = xml(new Date(timing.startedAt).toUTCString(), 'Changed job');
+    assert.throws(() => assert.deepEqual(comparableFeed(changed, pathname, timing), expected), assert.AssertionError, 'Only the build date may differ');
+
+    const eventBody = xml('Thu, 15 Oct 2026 12:00:00 GMT');
+    assert.deepEqual(comparableFeed(eventBody, '/events/feed.xml', timing), eventBody, 'ISR event dates stay byte-identical');
+    assert.deepEqual(comparableFeed(body, '/jobs/feed.json', timing), body, 'Other feed paths are not normalized');
+    console.log('RSS response timing passed: second precision, delayed baseline, slow gzip/deflate, stale/future/invalid/missing rejection, content-byte identity and static event dates.');
+  } finally {
+    Date.now = originalNow;
+  }
 }
 
 async function main() {
+  testResponseTiming();
+  if (process.argv.includes('--self-test')) return;
   const standalone = path.resolve('.next/standalone');
   const manifest = JSON.parse(fs.readFileSync('.next/prerender-manifest.json', 'utf8'));
   const server = spawn(process.execPath, [path.join(standalone, 'server.js')], {
@@ -84,7 +141,8 @@ async function main() {
       const identity = await request(pathname, 'identity');
       const gzip = await request(pathname, 'gzip');
       const expected = isEventFeed ? fs.readFileSync(`.next/server/app${pathname}.body`) : decoded(identity);
-      expectedBodies.set(pathname, expected);
+      const comparableExpected = comparableFeed(expected, pathname, identity);
+      expectedBodies.set(pathname, comparableExpected);
       for (const response of [identity, gzip]) {
         assert.equal(response.status, 200, pathname);
         assert.equal(response.headers['content-type'], contentType, pathname);
@@ -100,7 +158,7 @@ async function main() {
           if (ttl) assert.equal(Date.parse(String(response.headers.expires)), Date.parse(String(response.headers.date)) + ttl * 1000, pathname);
         }
         assert.match(String(response.headers.vary), /\bAccept-Encoding\b/i, pathname);
-        assert.deepEqual(comparableFeed(decoded(response), pathname), comparableFeed(expected, pathname), `Feed bytes changed: ${pathname}`);
+        assert.deepEqual(comparableFeed(decoded(response), pathname, response), comparableExpected, `Feed bytes changed: ${pathname}`);
       }
       if (pathname === '/jobs/feed.json') {
         const items = JSON.parse(expected.toString()).items;
@@ -142,11 +200,11 @@ async function main() {
         const response = await request(`${pathname}?source=encoding-check`, accept);
         assert.equal(response.status, 200);
         assert.equal(response.headers['content-encoding'], encoding, `${pathname}: ${accept}`);
-        assert.deepEqual(comparableFeed(decoded(response), pathname), comparableFeed(expected, pathname), `${pathname}: ${accept}`);
+        assert.deepEqual(comparableFeed(decoded(response), pathname, response), expected, `${pathname}: ${accept}`);
       }
       const conditional = await request(pathname, 'gzip', 'GET', { 'If-None-Match': '"not-this-feed"' });
       assert.equal(conditional.status, 200);
-      assert.deepEqual(comparableFeed(decoded(conditional), pathname), comparableFeed(expected, pathname));
+      assert.deepEqual(comparableFeed(decoded(conditional), pathname, conditional), expected);
       assert.equal((await request(pathname, 'gzip', 'POST')).status, 405);
       const options = await request(pathname, 'gzip', 'OPTIONS');
       assert.equal(options.status, 204);

@@ -1,42 +1,42 @@
 [
   {
-    "slug": "alpenglow",
-    "title": "Solana sets Oct. 21 for Alpenglow consensus switch",
-    "description": "The Solana Foundation said Alpenglow activates at epoch 1064 on Oct. 21, 2026, replacing TowerBFT voting with a system targeting 150-millisecond finality.",
+    "slug": "atom",
+    "title": "Ledger unveils $849 Atom device with Solana Seeker app",
+    "description": "Ledger unveiled the Atom, an Android device with a Ledger OS Secure Mode, priced at $849 for a Founder's Edition and due in summer 2027, with Solana Mobile's Seeker app preinstalled.",
     "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/news/alpenglow.jpg"
+    "publishedDate": "2026-10-16",
+    "image": "/images/news/atom.jpg"
   },
   {
-    "slug": "heart-arrest",
-    "title": "Richard Heart detained in Istanbul on Finnish request",
-    "description": "Turkish media reported on Oct. 14, 2026 that HEX founder Richard Heart was detained in Istanbul under an Interpol Red Notice sought by Finland.",
+    "slug": "brooklyn",
+    "title": "Brooklyn prosecutors dismantle crypto scam aimed at Russian speakers",
+    "description": "Brooklyn prosecutors and the FBI seized 241 domains and 112 servers from a crypto investment scam aimed at Russian speakers, with about $300,000 recovered so far.",
     "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/news/heart-arrest.jpg"
+    "publishedDate": "2026-10-16",
+    "image": "/images/news/brooklyn.jpg"
   },
   {
-    "slug": "jio-perpetuals",
-    "title": "Bitget Lists Jio Pre-IPO Perpetual Futures",
-    "description": "Bitget's JIOUSDT pre-IPO futures are live with a 20x trading limit as Jio Platforms prepares its October 21-23 share offering in India.",
+    "slug": "msci",
+    "title": "MSCI adopts rules that could oust Strategy from indexes",
+    "description": "MSCI adopted a non-operating company methodology effective Nov. 30, with a final list due Nov. 11, that could remove Strategy and other treasury firms from its global indexes.",
     "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/articles/jio-perpetuals.webp"
+    "publishedDate": "2026-10-16",
+    "image": "/images/news/msci.jpg"
   },
   {
-    "slug": "nsfarcaster",
-    "title": "Network School Acquires Farcaster From Neynar",
-    "description": "Network School is taking over Farcaster from Neynar and asking users to accept new client rules, while promising to keep the protocol open.",
+    "slug": "resellers",
+    "title": "Trezor cuts resellers as Ledger halts sales in seven markets",
+    "description": "Trezor told resellers their authorizations end Jan. 1, 2027, while Ledger asked distributors in six Southeast Asian countries and Hong Kong to suspend sales during its implant probe.",
     "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/articles/farcaster.webp"
+    "publishedDate": "2026-10-16",
+    "image": "/images/news/resellers.jpg"
   },
   {
-    "slug": "saldo-bank",
-    "title": "Payward agrees to buy Saldo Bank for EU banking license",
-    "description": "Payward said on Oct. 14, 2026 it signed a deal to acquire Saldo Bank, a Lithuania-licensed bank, with closing expected in 2027 pending regulatory approval.",
+    "slug": "starknet-vote",
+    "title": "Starknet opens vote on becoming an independent layer 1",
+    "description": "Starknet opened a seven-day non-binding poll on Oct. 15 asking STRK holders whether to research becoming an independent post-quantum layer 1, with voting closing Oct. 22.",
     "category": "News",
-    "publishedDate": "2026-10-15",
-    "image": "/images/news/saldo-bank.jpg"
+    "publishedDate": "2026-10-16",
+    "image": "/images/news/starknet-vote.jpg"
   }
 ]

@@ -6,10 +6,54 @@ import test from 'node:test';
 import { recordCompletedSteps, recordStep, shouldRunStep, stepInputHash, type HashManifest } from './lib/prebuild-manifest';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
 import { appRootPageSlugs, publicRootFiles } from './lib/public-page-files';
+import countries from '../content/nomads/countries.json';
+import policies from '../content/nomads/entry-policies.json';
+import { compilePassportRules } from './lib/passport-policies';
+import type { Factchecks } from './lib/passport-factchecks';
+import type { PassportIndexSnapshot } from './lib/passport-index';
 
 const articleStep = PREBUILD_DATA_STEPS.find(step => step.id === 'articles-index')!;
 const eventStep = PREBUILD_DATA_STEPS.find(step => step.id === 'events-runtime')!;
 const project = process.cwd();
+
+test('normal and FAST nomad prebuilds refresh expired passport rules with unchanged source hashes', t => {
+  const { root, write, manifest } = fixture(t);
+  const step = PREBUILD_DATA_STEPS.find(step => step.id === 'nomad-catalogs')!;
+  const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
+  const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
+  for (const file of ['countries', 'entry-policies', 'entry-factchecks', 'passport-index']) {
+    write(`content/nomads/${file}.json`, fs.readFileSync(`content/nomads/${file}.json`, 'utf8'));
+  }
+  for (const output of step.outputs) write(output, '{}');
+  const generate = (today: string) => {
+    for (const country of countries) {
+      const data = compilePassportRules(country, countries, policies, today, reference, audit);
+      write(`public/data/nomads/passports/${country.id}.json`, JSON.stringify(data));
+      if (['CN', 'HK', 'MO'].includes(country.iso!)) {
+        const cambodia = data.destinations.find(destination => destination.iso === 'KH')!;
+        assert.equal(cambodia.rule.until, '2026-10-15');
+        assert.equal(cambodia.rule.t, today === '2026-10-15' ? 'vf' : 'unknown');
+        assert.equal(cambodia.rule.d, today === '2026-10-15' ? 14 : 0);
+        assert.equal(cambodia.review, today === '2026-10-15' ? 'checked' : 'unresolved');
+      }
+    }
+  };
+  generate('2026-10-15');
+  recordStep(manifest, step, root);
+  const hash = stepInputHash(step, root);
+  for (const fast of [false, true]) {
+    assert.equal(shouldRunStep(step, manifest, fast, undefined, root, '2026-10-15'), false);
+    assert.equal(shouldRunStep(step, manifest, fast, undefined, root, '2026-10-16'), true);
+    assert.equal(shouldRunStep(articleStep, manifest, fast, undefined, root, '2026-10-16'), false);
+  }
+  generate('2026-10-16');
+  assert.equal(stepInputHash(step, root), hash);
+  assert.equal(manifest.steps[step.id].inputHash, hash);
+  for (const fast of [false, true]) {
+    assert.equal(shouldRunStep(step, manifest, fast, undefined, root, '2026-10-16'), false);
+    assert.equal(shouldRunStep(step, manifest, fast, undefined, root, '2026-10-17'), false);
+  }
+});
 
 function fixture(t: { after: (callback: () => void) => void }) {
   fs.mkdirSync('.cache', { recursive: true });

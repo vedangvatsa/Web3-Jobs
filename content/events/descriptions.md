@@ -2539,6 +2539,26 @@ For more information, visit:
 - X: https://x.com/FinalityForum
 - LinkedIn: https://www.linkedin.com/company/finality-forum/
 
+<a id="event-53bf92ec5c54fb9d"></a>
+
+## Edge City India 2026
+
+- Record: `curated-edge-city-india-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-11
+- Description: Source-backed
+- Original page: <https://www.edgecity.live/india26>
+
+### About the event
+
+Edge City India is a three-week popup village in Mandrem, North Goa, from October 11 to November 1, 2026. Founders, researchers, engineers and creators live and work around The Circle's beach-facing coworking hub. The program includes coworking, talks, workshops, salons and demo days.
+
+The first week, October 11 to 17, focuses on new urbanism, energy, food systems and education. October 18 to 24 covers longevity and consciousness. The final week, October 25 to November 1, focuses on deep tech, AI, decentralized technologies, governance, policy and hackathons.
+
+The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi residency, Hacker House Goa with 2:47PM Studio on October 28 to 31, and an October 30 Project Odin workshop with the Ethereum Foundation Funding Coordination team on sustainable funding for open-source software and digital infrastructure. Light DAO and SingularityNET also host a residency. These programs sit within the wider village rather than replacing its full date range.
+
+Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
+
 <a id="event-599c9fb2732808a8"></a>
 
 ## TABConf 8 2026
@@ -2697,6 +2717,26 @@ October 22 includes workshops and a closed-door founder and investor gathering. 
 
 Passes cover different combinations of conference, workshops and VIP activities. Tickets are non-refundable and transferable until October 16; consult the organizer's pass comparison before booking.
 
+<a id="event-40dfb5d62972a21c"></a>
+
+## Field Station Rajasthan 2026
+
+- Record: `curated-field-station-rajasthan-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-23
+- Description: Source-backed
+- Original page: <https://logos.co/field-station>
+
+### About the event
+
+Logos and Zu-Grama run Field Station at Dhun, a 500-acre regenerative site in Rajasthan, from October 23 to 31, 2026. The residency brings scientists, engineers, cryptographers, developers and community organizers together to build prototypes. The organizer's page specifies the October dates; the Devcon 8 calendar supplies the 2026 year. No daily start or finish time has been confirmed.
+
+The program selects 30 residents. Scholarships cover eight nights of accommodation, food and drinks, on-site activities and the closing summit on October 30. Applicants can request domestic travel assistance. Rooms are shared, with five to seven people in single-sex rooms. The published application window was September 11 to 26.
+
+Participants choose among the Logos Civic Prize, Logos Sovereignty and Privacy, Zu-Grama d/acc, and a non-builder track for activists, community organizers and artists. Technical work includes privacy-preserving blockchain, decentralized governance, censorship-resistant storage and secure payments. Creatives, designers and testers can also apply.
+
+The schedule includes stand-ups, mentoring, dedicated build time, workshops and demos. Residents present prototypes at the closing summit. The strongest Logos-track prototypes are eligible for milestone-based grant funding. Applicants are asked to install Logos Basecamp, add its blockchain module and note the block height; an existing demo or prototype is helpful but not required.
+
 <a id="event-bb9b15ba8e97af97"></a>
 
 ## Plan B Forum Lugano 2026
@@ -2757,6 +2797,26 @@ MeridenDAO and timesthree organize UK Tokenisation Summit in Birmingham, bringin
 The primary sources currently disagree about the edition and date. The organizer's website advertises UK Tokenisation Summit 2027 for April 28 in central Birmingham, while its linked Luma registration page remains titled UK Tokenisation Summit 2026 and describes an October 2026 event. Confirm the edition and attendance date with the organizer before making plans.
 
 The website's 2027 program lists digital assets, AI and blockchain, DeFi and real-world asset tokenization, regulation, and enterprise and public-sector case studies. Those sessions should not be assumed to confirm a program for the October 2026 listing.
+
+<a id="event-95205bc11c8ac6de"></a>
+
+## TokenIQ Mumbai 2026
+
+- Record: `curated-tokeniq-mumbai-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-24
+- Description: Source-backed
+- Original page: <https://joinfingrad.com/tokeniq>
+
+### About the event
+
+FinGrad organizes TokenIQ on October 24 and 25, 2026, at CIDCO Exhibition and Convention Centre in Navi Mumbai. The two-day crypto event is aimed at traders, developers, Web3 startups, investors and policymakers. Daily clock times are not confirmed on the primary page.
+
+The program includes conference sessions, master classes, Q&A, product demos and a live trading competition. Announced subjects include digital asset custody, NFTs beyond art, metaverse infrastructure, crypto trading, AI agents, DeFi and Layer 2 technology. The speaker lineup is still to be announced.
+
+Five areas are planned: a Learning Zone for sessions and master classes; an Exhibition Zone for booths and demos; a Trade War Zone for live trading and technical analysis; a Creators Zone for podcasts and creator meetings; and an Experience Zone with workshops, food and music. A hackathon is advertised, with details to follow through its waitlist.
+
+The page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.
 
 <a id="event-0957e54fece99aba"></a>
 
@@ -3455,6 +3515,26 @@ Bitcoin Amsterdam takes place at SugarFactory on November 5 and 6, 2026. Its fif
 The program includes stages, demos and workshops, private small-group roundtables, speed networking and an expo floor. Meetup of Meetups is scheduled on the expo floor on November 5. Attendees can also meet hiring companies and explore job opportunities.
 
 The Bitcoin for Corporations Symposium takes place the day before the main conference, with closed-door sessions on institutional adoption and treasury strategy. Check its separate registration rather than assuming it is included in a conference pass.
+
+<a id="event-1350ecb19d99619a"></a>
+
+## Dev3pack Devcon Career Fair 2026
+
+- Record: `curated-dev3pack-career-fair-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-06
+- Description: Source-backed
+- Original page: <https://www.dev3pack.xyz/programs/career-fair>
+
+### About the event
+
+Dev3pack's Career Fair takes place at Jio World Centre in Mumbai on November 6, 2026, inside the Devcon India campus. It is open to women and students with a valid Devcon ticket. The primary page confirms the day and venue but does not publish clock times.
+
+The program includes a hiring floor with partner booths, career workshops on portfolios and interviews, a professional headshot setup with grooming, and a talent competition where builders can pitch and demo their work. A CV is optional but recommended for the application.
+
+Career Fair registration is free, but a Devcon ticket is required to enter. Accepted applicants who do not already have a ticket can receive a $99 Day Pass voucher for Career Fair attendance or a 10% discount on a full four-day Devcon ticket. Application approval is required before those offers are sent.
+
+Hiring partners must have at least three open roles and keep a team member at their booth throughout the day. Booths are free, places are limited, and participating companies receive a curated set of candidate profiles before the event. The organizer specifically welcomes applications from Indian startups.
 
 <a id="event-5f74a11441d9e42a"></a>
 
@@ -18034,154 +18114,6 @@ Secret Society hosts ETHwali, a Diwali celebration for the Ethereum community in
 
 The invitation welcomes protocol builders, developers, founders, open-source contributors, creators, people exploring Web3 and others interested in meeting the community. Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
-<a id="event-c8c581a04621aec9"></a>
-
-## MetaMask Community Builder Night Pune - India Edition
-
-- Record: `india-luma-cbnpunesep`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-16T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cbnpunesep>
-
-### About the event
-
-Community Builder Night is a community-first version of MetaMask's global Builder Nights bringing Web3 education, onboarding and conversations closer to local ecosystems.
-
-This in-person meetup is designed for developers, students, founders, DAO contributors and Web3 enthusiasts who want to understand self-custody, community building and real-world Web3 use cases all in a friendly and welcoming environment.
-
-[This event is hosted by OSEN](https://osen.live/) in collaboration with Trinity College of Engineering and Research, bringing together students, developers, and tech enthusiasts to learn, build, and connect. We're looking forward to hearing new ideas, enjoying some tasty snacks, and making new developer friends.
-
-Join us for an evening of Web3 conversations...
-
-Date: 16th september 2026
-
-Time: 10.00 AM - 4PM
-
-### Location
-
-Trinity College of Engineering and Research
-
-Important: Due to limited venue capacity, this event will be First Come First Serve (FCFS) only.
-
-To stay updated with announcements, session instructions, and last-minute coordination for this event, please make sure to join the official WhatsApp group using the link below:
-
-[Join WhatsApp Group](https://chat.whatsapp.com/EZbu0VCrtUp3frGXSzNJeR)
-
-### Agenda
-
-10:00 AM - Doors Open
-
-10:30 AM - Welcome & Opening Remarks
-
-11:00 AM - Vikash Yadav (MetaMask & Craftora) - Talk
-
-12:30 PM - Break & Lunch
-
-1:30 PM - Eshan - (OSEN) - Talk
-
-2:00 PM - Swags & Certificates Distribution
-
-2:35 PM - Networking & Hangout
-
-4:00 PM - Doors Close
-
-### What to bring
-
-You don't really need to bring anything. But if you want, you're welcome to come armed with things like:
-
-- Your laptop
-- Questions, comments, and feedback
-
-### Food & Drink
-
-We plan to serve burgers and some non-alcoholic drinks.
-
-### About OSEN
-
-OSEN is a community-driven organization in India that empowers developers, students, and builders. We organize and sponsor hackathons, workshops, meetups, builder programs, and open-source initiatives.
-
-We provide swag, sponsorships, mentors, speakers, and end-to-end execution support for hackathons hosted by colleges and communities.
-
-Impact: 150+ events sponsored | 50,000+ students impacted | 10,000+ active members.
-
-[X : /osenofficial](https://x.com/osenofficial?utm_source=luma)
-
-[Linkedin : /osenofficial](https://www.linkedin.com/company/osenofficial/?utm_source=luma)
-
-### About Consensys
-
-Consensys is a leading blockchain and Web3 software company founded in 2014. It has been at the forefront of Web3 innovation, empowering developers, creators and communities through tools that make decentralized technology easier to build with and use.
-
-From dApps and NFTs to DAOs and DeFi, Consensys supports builders shaping the future of the internet.
-
-### About MetaMask
-
-MetaMask is the world's leading self-custody Web3 platform, trusted by millions of users globally. Developed by Consensys, MetaMask enables people to safely manage their digital identity, interact with dApps, mint NFTs, join DAOs and participate in DeFi - all while maintaining full control over their assets.
-
-<a id="event-e0534a4cd5f9dc7f"></a>
-
-## Team1 India University Workshop - PVG, Nashik
-
-- Record: `india-luma-qtv4687s`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-16T05:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qtv4687s>
-
-### Introduction
-
-Welcome to Team1 Builders Connect at PVG, Nashik - a developer-focused gathering designed for students, aspiring builders, and technology enthusiasts who want to explore the world of Web3, blockchain, and the Avalanche ecosystem.
-
-Whether you're completely new to Web3, curious about blockchain development, or already building projects, this session is your opportunity to learn, build, connect, and explore new opportunities.
-
-Join fellow students and developers from PVG, Nashik for an interactive evening featuring ecosystem insights, a hands-on introduction to Avalanche, discussions with the community, and networking with like-minded builders.
-
-Come with curiosity. Leave with ideas, connections, and the inspiration to start building.
-
-Note: A laptop is mandatory and needed to attend this workshop.
-
-### Event Program
-
-11:00 AM - Doors Open & Attendee Check-in
-
-11:15 AM - Welcome & Opening Remarks
-
-11:30 AM - Introduction to Web3, Blockchain & the Avalanche Ecosystem
-
-12:00 PM - Hands-on Builder Session: Getting Started with Avalanche
-
-12:40 PM - Student Builder Opportunities & Community Spotlight
-
-1:00 PM - Interactive Q&A Session
-
-1:20 PM - Networking, Community Connect & Refreshments
-
-2:00 PM - Closing
-
-### What You'll Explore
-
-- Introduction to Web3 and Blockchain Development
-- Understanding the Avalanche Ecosystem
-- How students can start their journey as Web3 builders
-- Hands-on learning and building opportunities
-- Developer communities, hackathons, grants, and ecosystem opportunities
-- Connecting with fellow student builders and technology enthusiasts
-
-### Who Should Attend?
-
-Students, developers, aspiring Web3 builders, blockchain enthusiasts, and anyone interested in exploring emerging technologies.
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
-
 <a id="event-6e078e0e607248c1"></a>
 
 ## Trezor Academy: Jaipur
@@ -19029,6 +18961,60 @@ X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (http
 
 28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
 
+<a id="event-3a6e9449b4741f47"></a>
+
+## Road to Devcon India \| Mumbai Edition
+
+- Record: `india-luma-6sp22vxd`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-10-17T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6sp22vxd>
+
+### About the event
+
+A36 Labs hosts a free Ethereum meetup at ATLAS SkillTech University, Building 2, BKC51, in Mumbai on October 17, 2026, from 10:30 to 12:30 IST. Registration requires host approval. The event is intended for developers, students, founders, designers, researchers and open-source contributors.
+
+The announced program covers the Ethereum ecosystem and CROPS values, developer tools, grants, jobs and other builder opportunities. It also includes an introduction to open-source contributions, lightning demos from local builders and preparation for Devcon 8.
+
+Up to 15 builders can give a short product demo. The organizer says the top three demos will receive Devcon 8 tickets, advertised at a value of $350 each. Photos and videos will be taken; attendees who prefer not to be recorded should tell the event team.
+
+<a id="event-0ebd2c3fcef9d46c"></a>
+
+## Road to Devcon India \| Bhopal Edition
+
+- Record: `india-luma-6tjoddyg`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-10-18T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6tjoddyg>
+
+### About the event
+
+A36 Labs hosts the Bhopal edition of Road to Devcon India at Sheryians Coding School on October 18, 2026, from 15:00 to 18:00 IST. The event is free, with host approval required. Developers, students, founders, designers, researchers and open-source contributors are invited.
+
+The published program covers Ethereum and CROPS values, developer tools, grants, jobs and builder opportunities. Sessions include getting started with open-source contributions, lightning demos from local builders and guidance on preparing for Devcon 8.
+
+Up to 15 builders can present a short product demo. The organizer advertises Devcon 8 tickets worth $350 each for the top three demos. Event photography and filming are planned; attendees may tell the team if they prefer not to be recorded.
+
+<a id="event-ce7b539118446278"></a>
+
+## Road to Devcon India \| Pune Edition
+
+- Record: `india-luma-ppg3gw8l`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-10-23T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ppg3gw8l>
+
+### About the event
+
+A36 Labs hosts Road to Devcon India in Pune on October 23, 2026, from 16:00 to 18:00 IST. This free meetup requires host approval. The exact venue is restricted to registered guests. The audience includes developers, students, founders, designers, researchers and open-source contributors.
+
+The program covers Ethereum and CROPS values, developer tools, grants, jobs and builder opportunities. It includes an introduction to open-source contributions, local builder demos and guidance on preparing for Devcon 8.
+
+Up to ten builders can present short product demos. The organizer says the top three will receive Devcon 8 tickets. Photos and videos will be captured during the meetup; attendees who prefer not to be recorded should inform the team.
+
 <a id="event-1b751940591ae01a"></a>
 
 ## Ready for the Run @ Lucknow
@@ -19177,6 +19163,40 @@ The format combines community discussion, live polling and informal networking. 
 
 The Pune edition names Dev Spark as its local community partner, a group of developers, students and innovators. The organizer lists it separately from the circuit's wider ecosystem partners.
 
+<a id="event-62499dd821c68170"></a>
+
+## BORN UP - India Blockchain Week Mumbai Community Networking Meetup
+
+- Record: `india-luma-bornlive-tpiy`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-01T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bornlive-tpiy>
+
+### About the event
+
+BORN.LIVE hosts a free, 30-minute community meetup on November 1, 2026, from 11:30 to 12:00 IST. The listed location is Fairmont Mumbai, with the exact meeting point and venue access arrangements still to be confirmed.
+
+The meetup is intended for founders, builders, investors and people working across blockchain, Web3, fintech and startups. It is a casual introduction session on the first day of India Blockchain Week, with no panels or required pitches.
+
+This is an independent BORN.LIVE meetup, not an event organized or endorsed by India Blockchain Week or Hashed Emergent. Free registration does not include IBW conference admission or guarantee access to conference-controlled areas. The organizer asks attendees to check the final public meeting point before arriving.
+
+<a id="event-48925f37c39237dd"></a>
+
+## Off-Chain Padel
+
+- Record: `india-luma-m8jxna31`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-02T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/m8jxna31>
+
+### About the event
+
+Orviq hosts Off-Chain Padel in Bandra, Mumbai, on November 2, 2026. The public event schedule runs from 07:00 to 09:30 IST.
+
+The morning brings together Web3 founders, builders, investors and other ecosystem participants between India Blockchain Week and Devcon. The organizer welcomes both regular padel players and people trying the sport for the first time. The format is padel and informal conversation rather than conference sessions.
+
 <a id="event-89c8a0266a009666"></a>
 
 ## Solana Summit India
@@ -19249,6 +19269,24 @@ BackersStage hosts Onchain Dev City during Devcon week. The announced program in
 
 Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and Web3, investment, enterprise applications and policy. The announced program includes keynotes, panels, product demonstrations and founder sessions.
 
+<a id="event-8b85cca78749a472"></a>
+
+## BORN UP - Devcon Mumbai Community Networking Meetup
+
+- Record: `india-luma-4al1ai5x`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-03T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4al1ai5x>
+
+### About the event
+
+BORN.LIVE hosts a 30-minute community meetup inside Devcon at Jio World Centre, Mumbai, on November 3, 2026, from 11:30 to 12:00 IST. The exact meeting point is still to be confirmed.
+
+Attendees can introduce themselves, discuss what they are building and meet other Devcon participants. The BORN.LIVE team plans to help with introductions. No BORN account, product signup or wristband is required.
+
+A valid Devcon conference ticket is required to enter the venue. Registering for this meetup does not include conference admission. BORN.LIVE describes it as independently hosted and not affiliated with, organized by or endorsed by Devcon or the Ethereum Foundation.
+
 <a id="event-631560fc520fba19"></a>
 
 ## Ready for the Run @ Mumbai
@@ -19296,6 +19334,40 @@ BFM Times hosts a startup cohort during Devcon week, offering media exposure, me
 ### About the event
 
 EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards and protocol upgrades. The planned program covers the EIP process, core protocol development, application standards and enterprise adoption through talks, workshops and office hours. A valid Devcon ticket is required to enter.
+
+<a id="event-3dab3d3e38e969f3"></a>
+
+## Midweek Block Party
+
+- Record: `india-luma-86nrj6he`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-04T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/86nrj6he>
+
+### About the event
+
+Orviq hosts Midweek Block Party in Mumbai on November 4, 2026. The public event schedule lists 20:00 to 23:30 IST.
+
+This Devcon-week social event is aimed at builders, founders, creators and the wider Web3 community. The announced format is a DJ night and dance floor, with no panels or pitches.
+
+<a id="event-1f9a3e2b790f4f5c"></a>
+
+## notneils' stealth founder dinner
+
+- Record: `india-luma-kfh8wkql`
+- Source: [india-luma-events.json](sources/india-luma-events.json)
+- Starts: 2026-11-05T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kfh8wkql>
+
+### About the event
+
+notneils hosts a small founder dinner during Devcon on November 5, 2026, from 19:00 to 22:00 IST. The public listing invites applications from founders planning to launch a token in the next few months.
+
+The host is developing a product for teams launching tokens, focused on alignment between founders and token holders. Details of the stealth project will be discussed in person. A small number of VC partners are expected to join the founders, with conversation about introductions, fundraising and go-to-market work.
+
+The host pays for dinner. Registration requires host approval.
 
 <a id="event-ad2da74e978aa585"></a>
 
@@ -54031,47 +54103,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-5666d6e95a642bc1"></a>
-
-## Digital Assets from Pilot to Production with Tatra Banka \| Banking Breakfast
-
-- Record: `w3v-digital-assets-from-pilot-to-production-with-tatra-banka--banking-breakfast`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/djqap9zg>
-
-### About the event
-
-On September 16, we are bringing together 10 senior executives from Europe's leading financial institutions [for an invite-only breakfast - with insights into Tatra Banka](https://www.tatrabanka.sk/sk/personal/)'s digital asset approach.
-
-The morning should bring value to banks and brokers exploring digital assets and will focus on:
-
-- What triggered Tatra banka's decision to explore a crypto offering
-- How did the bank structure the journey towards a compliant, production-ready offering
-- Lessons learned along the way
-
-### Agenda
-
-08:00 - 08:15 | Arrival
-
-08:15 - 08:45 | Fireside Chat with Matej Darovec, Head of Retail Wealth Growth at Tatra Banka
-
-08:45 - 09:30 | Open Discussion
-
-Who Qualifies?
-
-Senior executives from digital asset, innovation and strategy departments at
-
-- Banks and
-- Brokers.
-
-This is a curated, closed-door event designed to keep the conversation focused and the group genuinely senior. Attendance is limited and for approved guests only. In cooperation with European Blockchain Convention.
-
-### About Trever
-
-Trever GmbH is an EU-based technology company providing financial infrastructure for stablecoins, cryptocurrencies, tokenized securities and more digital assets. It enables licensed financial institutions to execute, move, and record digital assets in one integrated system - the Digital Asset Operating System. Connecting to 40+ providers such as custodians, exchanges, liquidity providers and more, it reduces friction and operational gaps in digital asset operations. Clients include V-Bank, futurum bank, Tradias, and others.
-
 <a id="event-9889eab85e9cd679"></a>
 
 ## Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever
@@ -73991,15 +74022,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-9c60b2c746426e83"></a>
 
-## HACKER HOUSE GOA 2026
+## Hacker House Goa 2026
 
 - Record: `w3v-hacker-house-goa-26-10-28`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T23:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-10-28
+- Description: Source-backed
 - Original page: <https://hacker-house-goa-2026.devfolio.co/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+2:47PM Studio organizes Hacker House Goa from October 28 to 31, 2026. The four-day AI and crypto builder residency takes place at a private beach resort in Goa. The public page does not identify the property or confirm daily clock times.
+
+The organizer plans to select 247 builders, including developers, designers, marketers and AI-native creators. Teams may have one to three members. Registration is free, and participation is selective.
+
+The program includes structured building, daily product reviews, on-site mentors and investors, and a public demo day with on-chain voting. The organizer advertises more than $50,000 in bounties and more than 50 speakers, mentors and judges; these are announced plans, not attendance or award outcomes.
+
+House of NGMI, an AI and crypto creator house, runs in parallel. Participants are expected to work on products through building, launching and marketing during the residency.
 
 <a id="event-e7ddea65e7c8cd0b"></a>
 
@@ -74974,15 +75013,21 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-562a929f919c1b54"></a>
 
-## Perps & Chai with HyprEarn
+## Perps & Chai with HyprEarn @Devcon 8
 
 - Record: `w3v-perps--chai-with-hyprearn`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-06T11:00:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/58b4n6e6>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+HyprEarn hosts Perps & Chai in Mumbai on November 6, 2026, from 16:30 to 19:30 IST during Devcon 8. Registration requires host approval, and the exact venue is shared with registered guests.
+
+The event brings perpetual-futures traders, builders, protocol and ecosystem teams, and investors active in DeFi together for conversations over chai. Topics include perpetuals, DeFi and the development of on-chain trading. The published format is curated networking rather than a schedule of talks or pitches.
+
+HyprEarn describes its product as an AI trading desk connecting perpetual DEXs, including Hyperliquid, Lighter, Pacifica, Arcus and Decibel on Aptos. Its stated features include AI-generated entry, exit and sizing suggestions, one-click execution and non-custodial agents.
 
 <a id="event-427e1846e43897fe"></a>
 

@@ -448,53 +448,6 @@
     }
   },
   {
-    "id": "w3v-digital-assets-from-pilot-to-production-with-tatra-banka--banking-breakfast",
-    "name": "Digital Assets from Pilot to Production with Tatra Banka | Banking Breakfast",
-    "description": "On September 16, we are bringing together 10 senior executives from Europe’s leading financial institutions [for an invite-only breakfast - with insights into Tatra Banka](https://www.tatrabanka.sk/sk/personal/)'s digital asset approach.\n\nThe morning should bring value to banks and brokers exploring digital assets and will focus on:\n\n• What triggered Tatra banka’s decision to explore a crypto offering\n• How did the bank structure the journey towards a compliant, production-ready offering\n• Lessons learned along the way\n\nAgenda\n08:00 – 08:15 | Arrival\n08:15 – 08:45 | Fireside Chat with Matej Darovec, Head of Retail Wealth Growth at Tatra Banka\n08:45 – 09:30 | Open Discussion\n\nWho Qualifies?\nSenior executives from digital asset, innovation and strategy departments at\n\n• Banks and\n• Brokers.\n\nThis is a curated, closed-door event designed to keep the conversation focused and the group genuinely senior. Attendance is limited and for approved guests only. In cooperation with European Blockchain Convention.\n\nAbout Trever\nTrever GmbH is an EU-based technology company providing financial infrastructure for stablecoins, cryptocurrencies, tokenized securities and more digital assets. It enables licensed financial institutions to execute, move, and record digital assets in one integrated system - the Digital Asset Operating System. Connecting to 40+ providers such as custodians, exchanges, liquidity providers and more, it reduces friction and operational gaps in digital asset operations. Clients include V-Bank, futurum bank, Tradias, and others.",
-    "startDate": "2026-09-16T06:00:00.000Z",
-    "endDate": "2026-09-16T07:30:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/djqap9zg",
-    "coverImage": "/events/w3v-digital-assets-from-pilot-to-production-with-t-9ec52af2.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Trever GmbH"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "dapptb",
-    "registrationUrl": "https://luma.com/djqap9zg",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Trever GmbH",
-      "url": "https://luma.com/trevergmbh"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/djqap9zg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/djqap9zg",
-      "eventId": "evt-jlDs6SbdC4v2c4C",
-      "fetchedAt": "2026-09-19T23:49:36.015Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-vaneck-investors-lunch",
     "name": "VanEck Investors Lunch",
     "description": "An intimate lunch — limited to 12 seats, by invitation only, for qualified allocators.\n\nVanEck — 70 years of conviction over convention\nVanEck was founded in 1955 by John C. van Eck on a simple but bold idea: understand the world better than the market, and you create real opportunity. That belief led to one of the first international mutual funds in the US, the first gold equity fund in 1968, early conviction in emerging markets, and a pioneering role in ETFs. Today VanEck manages $237 billion in assets across the globe — still privately owned by the van Eck family, guided by the same philosophy it started with.\n\nCrypto ETNs — regulated access to digital assets\nVanEck is one of Europe's leading providers of crypto exchange-traded notes, offering investors listed, fully-collateralized exposure to bitcoin, ethereum, and a broad basket of digital assets — without the complexity of self-custody. Simple, transparent, and competitively priced.\n\nVanEck Alpha Fund — owning what goes from relevant to indispensable\nThe VanEck Alpha Fund is a concentrated, long-biased hedge fund built around the great technology platform shifts of our time: crypto and AI. Since inception in June 2022, the fund has returned +338% net of fees — versus +177% for bitcoin and +103% for the S&P 500 over the same period. The strategy is straightforward: own the right assets, size into conviction, protect the gains.\n\nJoin us for an intimate lunch to discuss markets, digital assets, and what comes next.\n\nBy registering, you acknowledge [that you have read and accepted the VanEck Privacy Policy](https://www.vaneck.com/globalassets/home/ucits/home/privacy-policy/privacy-policy-from-vaneck.com.pdf).\n\nDisclaimer: Investment in digital assets and digital asset products is subject to extreme volatility and may result in loss of principal.",
@@ -19758,16 +19711,42 @@
   },
   {
     "id": "w3v-hacker-house-goa-26-10-28",
-    "name": "HACKER HOUSE GOA 2026",
-    "description": "HACKER HOUSE GOA 2026: four-day builder residency in Goa with 247 selected creators, $50,000+ bounties, and demo day.",
-    "startDate": "2026-10-27T23:00:00.000Z",
-    "endDate": "2026-10-31T15:00:00.000Z",
-    "city": "Global",
-    "country": "IN",
-    "location": "Global, IN",
+    "name": "Hacker House Goa 2026",
+    "description": "2:47PM Studio organizes Hacker House Goa from October 28 to 31, 2026. The four-day AI and crypto builder residency takes place at a private beach resort in Goa. The public page does not identify the property or confirm daily clock times.\n\nThe organizer plans to select 247 builders, including developers, designers, marketers and AI-native creators. Teams may have one to three members. Registration is free, and participation is selective.\n\nThe program includes structured building, daily product reviews, on-site mentors and investors, and a public demo day with on-chain voting. The organizer advertises more than $50,000 in bounties and more than 50 speakers, mentors and judges; these are announced plans, not attendance or award outcomes.\n\nHouse of NGMI, an AI and crypto creator house, runs in parallel. Participants are expected to work on products through building, launching and marketing during the residency.",
+    "startDate": "2026-10-28",
+    "endDate": "2026-10-31",
+    "city": "Goa",
+    "country": "India",
+    "location": "Goa, India",
     "url": "https://hacker-house-goa-2026.devfolio.co/",
     "coverImage": "/events/w3v-hacker-house-goa-26-10-28-61a5de58.webp",
-    "month": "October 2026"
+    "month": "October 2026",
+    "source": "curated",
+    "slug": "hacker-house-goa",
+    "locationHidden": true,
+    "approvalRequired": true,
+    "price": "Free",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "descriptionSource": {
+      "url": "https://hacker-house-goa-2026.devfolio.co/",
+      "fetchedAt": "2026-10-16T08:51:36.460Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "HACKER HOUSE GOA 2026 | Devfolio",
+      "sha256": "10b7d0593a77d734d451d080c38af39e93de73bf988b67909b3b1887d781dec4",
+      "evidence": [
+        {
+          "url": "https://hacker-house-goa-2026.devfolio.co/",
+          "fetchedAt": "2026-10-16T08:51:36.460Z",
+          "sha256": "87089c28d4fda9dcac8dcedf5a4f3bb549f13b66f8ea591f64ef1ee9f55623ea",
+          "representation": "html"
+        }
+      ]
+    }
   },
   {
     "id": "w3v-blockchain-cryptocurrency-conference-b2c-26-10-28",
@@ -23769,16 +23748,64 @@
   },
   {
     "id": "w3v-perps--chai-with-hyprearn",
-    "name": "Perps & Chai with HyprEarn ",
-    "description": "Perps & Chai with HyprEarn @Devcon 8: a Mumbai networking event for perp traders, builders, protocol teams and DeFi investors.",
+    "name": "Perps & Chai with HyprEarn @Devcon 8",
+    "description": "HyprEarn hosts Perps & Chai in Mumbai on November 6, 2026, from 16:30 to 19:30 IST during Devcon 8. Registration requires host approval, and the exact venue is shared with registered guests.\n\nThe event brings perpetual-futures traders, builders, protocol and ecosystem teams, and investors active in DeFi together for conversations over chai. Topics include perpetuals, DeFi and the development of on-chain trading. The published format is curated networking rather than a schedule of talks or pitches.\n\nHyprEarn describes its product as an AI trading desk connecting perpetual DEXs, including Hyperliquid, Lighter, Pacifica, Arcus and Decibel on Aptos. Its stated features include AI-generated entry, exit and sizing suggestions, one-click execution and non-custodial agents.",
     "startDate": "2026-11-06T11:00:00.000Z",
     "endDate": "2026-11-06T14:00:00.000Z",
     "city": "Mumbai",
-    "country": "IN",
-    "location": "Mumbai, IN",
+    "country": "India",
+    "location": "Mumbai, India",
     "url": "https://luma.com/58b4n6e6",
-    "coverImage": null,
-    "month": "November 2026"
+    "coverImage": "https://images.lumacdn.com/uploads/rt/db019e46-0c8c-4bad-b213-34b2bb300058.png",
+    "month": "November 2026",
+    "source": "luma-india",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/58b4n6e6",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "hosts": [
+      "Abhay S",
+      "Abhinav",
+      "HyprEarn",
+      "DappLooker"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/58b4n6e6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/58b4n6e6",
+      "eventId": "evt-iDGxZPHdJdh7Gdq",
+      "fetchedAt": "2026-10-16T08:52:19.197Z",
+      "method": "luma-page"
+    },
+    "slug": "perps-and-chai-hyprearn-mumbai",
+    "sideEventFor": [
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/58b4n6e6",
+      "fetchedAt": "2026-10-16T08:52:19.197Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Perps & Chai with HyprEarn @Devcon 8 · Luma",
+      "sha256": "e01c130d19fc424b7749839697b7e9c716493d29b816558a7f6983df32cbe769",
+      "evidence": [
+        {
+          "url": "https://luma.com/58b4n6e6",
+          "fetchedAt": "2026-10-16T08:52:19.197Z",
+          "sha256": "c2dd81696575fe5eee1fc9571c11b08d5a455db592e35c01cc2c8dbd836acd07",
+          "representation": "html"
+        }
+      ]
+    }
   },
   {
     "id": "luma-host-evt-evt-SV4yx5HDhLqpdja",

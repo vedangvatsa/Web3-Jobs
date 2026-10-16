@@ -61,6 +61,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
@@ -73,7 +74,7 @@ jobs:
         run: npm ci
 
       - name: Test Buffer publishing and account-specific receipts
-        run: npx tsx --test scripts/lib/job-publish-guard.test.mjs scripts/social/job-publisher-age.test.ts scripts/job-alert-publish.test.ts scripts/telegram-ai-jobs.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts scripts/social/job-image-policy.test.ts
+        run: npx tsx --test scripts/lib/job-publish-guard.test.mjs scripts/social/job-publisher-age.test.ts scripts/job-alert-publish.test.ts scripts/telegram-ai-jobs.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts scripts/social/job-image-policy.test.ts scripts/social/job-social-*.test.ts
 
       - name: Post Job Opening
         id: publish
@@ -117,36 +118,21 @@ jobs:
           echo "Running social poster for platform: $SOCIAL_PLATFORM"
           npx tsx scripts/social/post-job-openings.ts "${ARGS[@]}"
 
-      - name: Commit and Push Posted State
-        id: persist_state
-        if: ${{ always() && !inputs.dry_run }}
-        continue-on-error: true
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scripts/social/jobs-social-posted.json
-          if git diff --staged --quiet; then
-            echo "No state changes to commit."
-          else
-            git commit -m "chore(social): update social job posting state [skip ci]"
-            for i in 1 2 3; do
-              git pull --rebase origin main || true
-              if git push origin main; then
-                exit 0
-              fi
-              sleep 2
-            done
-            echo "Unable to push social posting state after three attempts."
-            exit 1
-          fi
+      - name: Preserve social receipt checkpoints
+        id: receipts
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-social-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            scripts/social/jobs-social-posted.json
+            scripts/social/jobs-social-posted.recovery.jsonl
+            scripts/social/jobs-social-posted.json.*.tmp
+          if-no-files-found: error
+          retention-days: 90
 
       - name: Fail incomplete social publish or state persistence
-        if: ${{ always() && !inputs.dry_run && (steps.publish.outcome == 'failure' || steps.persist_state.outcome == 'failure') }}
+        if: ${{ always() && (steps.publish.outcome == 'failure' || steps.receipts.outcome == 'failure') }}
         run: |
-          if [ "${{ steps.publish.outcome }}" = "failure" ]; then
-            echo "Social publishing did not verify every requested platform. Any verified partial state was persisted for safe retry."
-          fi
-          if [ "${{ steps.persist_state.outcome }}" = "failure" ]; then
-            echo "Social posting state could not be persisted; retry before publishing again."
-          fi
+          echo "Social publishing or receipt persistence failed. Inspect the receipt artifact and reconcile unresolved deliveries before retrying."
           exit 1

@@ -1,0 +1,60 @@
+{
+  "auditAt": "2026-10-16T09:34:41.058Z",
+  "baselineHead": "635f31ff014aa4bc0c60f54a681d1a3a47864f17",
+  "provenance": "Sanitized projection of the pre-import baseline and three public calendar responses captured on 2026-10-16. Record digests use recursively sorted object keys and ID-sorted arrays; response digests identify original bodies, not this projection.",
+  "runtime": {
+    "count": 207,
+    "preservedSha256": "83a3516fcaf6212dd41025c4213ce76ed92676658dd62f53eecdd788624784b7",
+    "removed": [{ "id": "luma-crypto-yogNb1gnuUEJWFz", "startDate": "2026-10-16T01:30:00.000Z", "endDate": "2026-10-16T04:00:00.000Z", "timezone": "America/Los_Angeles" }]
+  },
+  "sources": [
+    { "file": "curated-events.json", "count": 143, "preservedSha256": "62726e07d7219ead810896af508eb344bb7b92a3abcf4a3b354de78cf096e620", "enrichedIds": [], "removed": [] },
+    { "file": "token2049-discovered.json", "count": 256, "preservedSha256": "0640940fb4814d8f35224d9e641201b36d898797d6712ae5f6ed5b7dfa744e6d", "enrichedIds": [], "removed": [] },
+    { "file": "kbw-luma-events.json", "count": 92, "preservedSha256": "37557582fd0e6bbe5e02979228c5854c8d20cb7bb501d89f0f5dde22c492ddca", "enrichedIds": [], "removed": [] },
+    { "file": "ibw-side-events.json", "count": 49, "preservedSha256": "927780ef1c30839121cc04edcaebb8f930e3c56f99d45dbbe166dfda25d126a6", "enrichedIds": [], "removed": [] },
+    { "file": "india-luma-events.json", "count": 28, "preservedSha256": "fd2280fa052cebb536d86d02ab7ef36243ac076ddee21496d7872eb9d09c0c9e", "enrichedIds": [], "removed": [{ "id": "india-luma-qtv4687s", "startDate": "2026-09-16T05:30:00.000Z", "endDate": "2026-09-16T08:30:00.000Z", "timezone": "Asia/Kolkata" }] },
+    { "file": "luma-crypto-events.json", "count": 153, "preservedSha256": "11ba8e2a3c6078f8451186553d982c9e8b04af1fb185c1eca5ab0fb57012cc54", "enrichedIds": [], "removed": [] },
+    { "file": "luma-batch-events.json", "count": 526, "preservedSha256": "53414d90ab0fc45709dc0deb4cb44181471fadb3a1a03e9b37f648d92b0b47f5", "enrichedIds": [], "removed": [] },
+    { "file": "events-cache.json", "count": 974, "preservedSha256": "d4005603ea089da11bf905425c142948867a9a2fd85f4e1a7fdc7f820e383383", "enrichedIds": ["w3v-hacker-house-goa-26-10-28", "w3v-perps--chai-with-hyprearn"], "removed": [{ "id": "w3v-digital-assets-from-pilot-to-production-with-tatra-banka--banking-breakfast", "startDate": "2026-09-16T06:00:00.000Z", "endDate": "2026-09-16T07:30:00.000Z", "timezone": "Europe/Madrid" }] }
+  ],
+  "protectedHashes": {
+    "content/events/catalog-reviewed-descriptions.json": "2aa3b043cafab24f631ced4ee4ba7980ade4e056ac20ea510526b614d5a2fc9e",
+    "content/events/catalog-reviewed-facts.json": "75373a2e34a1f5d4baef30afe932bb33f99c215c52cbdb8b4ac69ebc2e77959f"
+  },
+  "pages": [
+    {
+      "period": "future", "cursor": null,
+      "nextCursor": "eyJzdiI6IjIwMjYtMTEtMDRUMDU6MzA6MDAuMDAwWiIsImZiIjoiY2FsZXYtdGszYXBLWVVwNmoyVmdvIn0",
+      "hasMore": true, "sha256": "17800f68ea616b89d6ebf92129f92af3b5ecb09ba6963566973ee83478b5a255",
+      "entryIds": [
+        "calev-utmRYOaRAovEJ0N", "calev-JAmhm3q1wFwRRs6", "calev-s1ATQmXBQoaQsRD", "calev-1FNOHxNd6R0dg1V", "calev-kRGCxc6MLByzJqT",
+        "calev-qYla8Nu7tsGn5XH", "calev-voBgkNXq3lODKn6", "calev-f9qea3npo2JsQaz", "calev-VlEJZbm0M5g9JBs", "calev-0o9z05V45LW1L84",
+        "calev-zd9PwImsiAzhkwv", "calev-rARv2eDuWtGGX5i", "calev-srkZX5R8hyT8hqB", "calev-OAPQ4HKvF5yc4Bn", "calev-isdf9JqhcIbOn7o",
+        "calev-L4JDGdZfW3lXjku", "calev-G21UOQHjO1UjhZA", "calev-rRyvizc2pJZxWxI", "calev-pMPYX45Ig1YJHLB", "calev-rKzzp6vnXdEHt8B",
+        "calev-WXoO0uyfmweuE9o", "calev-xqOa3WsBj7AwvJ5", "calev-UOvX3vAkJcIL378", "calev-KiDa6Ijtuh89RDx", "calev-xJuCFnHIoNfWMAF",
+        "calev-XKG49upljr6n7Js", "calev-QFcl9b0kEFWDVJQ", "calev-w1iqCAXFMWCPvm7", "calev-Nyy3whDYAROEAK1", "calev-PZkPQWU98zzxTaj",
+        "calev-ihUDkKez9gcctEk", "calev-ugVOYzayvQbtQEc", "calev-3EDSFoPhkGE0h4k", "calev-aMCiz40qiCPPIg4", "calev-Z7H3CEkECxsKxru",
+        "calev-LvgeEkOYh96Hr02", "calev-L1u8f7BAUQ2zSYe", "calev-YrQrCTDknkvmglM", "calev-nhanNy6WhomWkrj", "calev-uElohLOA5PAZ4fn",
+        "calev-hwkoQzPuYUIoPJy", "calev-VqtTCkgJU4nOJ9j", "calev-GEALPZ5yBP0vdnt", "calev-MZFsT7WHmjmWGR4", "calev-UKtFMztCUoHm4xS",
+        "calev-73WXQ4oi9ufLmpm", "calev-LJvbyHKztrX40Cy", "calev-68j8NYfvfsWHwlj", "calev-jaKbGKyYJ098Mkr", "calev-tk3apKYUp6j2Vgo"
+      ]
+    },
+    {
+      "period": "future", "cursor": "eyJzdiI6IjIwMjYtMTEtMDRUMDU6MzA6MDAuMDAwWiIsImZiIjoiY2FsZXYtdGszYXBLWVVwNmoyVmdvIn0",
+      "nextCursor": null, "hasMore": false, "sha256": "dfeb4392ef6f76027a2641642cb1cfa04abed1d055b32652f43dd59620b992a8",
+      "entryIds": [
+        "calev-dzLA513VbkVnhso", "calev-ksrsRzsqpFwFGSP", "calev-iEqAsrKuPrmLymD", "calev-eNpF0g3wwdpPVbe", "calev-GtAmBvQOq5FrB27",
+        "calev-YXefekByajfDLws", "calev-0wbjm9pD47Pq5ZF", "calev-aeHBYECNWVa6Gnf", "calev-09TUSGQC9x44t8p", "calev-bfV9ypWQ72didAL",
+        "calev-vCGQ3mvmqbyPkzN", "calev-5J7TYc7v20gmNBL", "calev-lGkGbxmdBd8zlpl", "calev-AtJHjdGFhHnLvHn", "calev-oBqyxAIbBy3HwgV",
+        "calev-arJNDXRw96s5Dwz", "calev-FufOpzGAfWQDtAj", "calev-OB6iiny3kEPBx9o", "calev-Rk2NhkRHr4rMJiU", "calev-MYRxh8JKab30IoJ",
+        "calev-9cQnhKGEVNCLpGX", "calev-pg0EElO4ziT4LzT", "calev-h9GyTiphD0e5tGz", "calev-2LA1wBhVcYtdMon", "calev-NXBh9BLkQOXZmKQ",
+        "calev-SBEOxbm2KqHtGdH", "calev-ukaH4YXzxbl0JBd", "calev-WP94IOiqfVrwPfY"
+      ]
+    },
+    {
+      "period": "past", "cursor": null, "nextCursor": null, "hasMore": false,
+      "sha256": "62032097fb2cdb4195ac3435e56548807a7747078995f94fc827ea4246c451c5",
+      "entryIds": ["calev-IDZgHnoSzdOR1dz", "calev-sLZr3Al23l5RZe2", "calev-eRRGE6RrhgAP4fm", "calev-iCTMQKw4mNOODDp", "calev-1vvF4Ge7A2LSirL"]
+    }
+  ]
+}

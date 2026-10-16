@@ -106,6 +106,7 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'indore|IN': [22.72, 75.86],
   'jaipur|IN': [26.91, 75.79],
   'lucknow|IN': [26.85, 80.95],
+  'mandrem|IN': [15.66, 73.71],
   'mumbai|IN': [19.08, 72.88],
   'nashik|IN': [19.99, 73.79],
   'pune|IN': [18.52, 73.86],

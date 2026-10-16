@@ -145956,5 +145956,47 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8175828",
     "company": "Stripe",
     "title": "Account Executive, Product Sales - Currency Management"
+  },
+  "eng67": {
+    "id": "8207374",
+    "link": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
+    "title": "Software Engineer",
+    "company": "Coinbase"
+  },
+  "sls32": {
+    "id": "8130729",
+    "link": "https://stripe.com/jobs/search?gh_jid=8130729",
+    "title": "Account Executive, UK Commercial Hunter",
+    "company": "Stripe"
+  },
+  "sls31": {
+    "id": "add01889-5796-4331-8b00-aa3e7ee7b713",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/add01889-5796-4331-8b00-aa3e7ee7b713",
+    "title": "Sales Associate, New York",
+    "company": "Talos"
+  },
+  "eng169": {
+    "id": "76eae4d3-adcc-4421-b12b-02945911c70f",
+    "link": "https://jobs.ashbyhq.com/Aspora/76eae4d3-adcc-4421-b12b-02945911c70f",
+    "title": "Engineering Manager",
+    "company": "Aspora"
+  },
+  "cda": {
+    "id": "7799516003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7799516003",
+    "title": "Commercial Director, AU",
+    "company": "OKX"
+  },
+  "tr10": {
+    "id": "4733876005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4733876005",
+    "title": "Quantitative Researcher - Experienced (DV Equities)",
+    "company": "DV Trading"
+  },
+  "dev5": {
+    "id": "4733880005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005",
+    "title": "2027 Software Developer Intern (DV Equities)",
+    "company": "DV Trading"
   }
 }
