@@ -45087,11 +45087,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "732d1ebaa4bd0ba0e844",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T20:00:30.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "XRP exchange-wallet inflow framed against price slip; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:55.636Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "12a0bd24742738aa97ed": {
       "source": "Decrypt",
@@ -82276,6 +82281,13 @@
           "note": "Individual trader perpetual loss and re-entry; trader PnL chatter, not a concrete market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:53.314Z"
+        },
+        "732d1ebaa4bd0ba0e844": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP exchange-wallet inflow framed against price slip; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:55.636Z"
         }
       },
       "baselineSlugs": [
