@@ -773,6 +773,9 @@
   "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/core-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/brooklyn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/msci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/starknet-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2221,6 +2224,12 @@
   "Bitcoin Core Merged Fix for SIGHASH_SINGLE Signing Gap on September 25",
   "Circle Proposes Changes to EU MiCA Stablecoin Regulations",
   "Circle Asks EU to Keep Multi-Issuance and Ease MiCA Reserve Rules",
+  "Authorities Seize Crypto Scam Infrastructure Targeting Russian Speakers",
+  "Brooklyn prosecutors dismantle crypto scam aimed at Russian speakers",
+  "MSCI rule change may remove MicroStrategy from global indexes",
+  "MSCI adopts rules that could oust Strategy from indexes",
+  "Starknet polls holders on researching independent layer 1 status",
+  "Starknet opens vote on becoming an independent layer 1",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2523,5 +2532,8 @@
   "fp:12m|700|bybit|chines|client|expos|fund|group|hack|infiltrat",
   "fp:145m|access|blacklist|brief|briefly|four|freez|fund|hour|lock",
   "fp:cor|developer|fix|gap|integrat|issu|merg|patch|september25|sighash",
-  "fp:allow|ask|bank|chang|circl|deposit|eas|issuanc|keep|liquidity"
+  "fp:allow|ask|bank|chang|circl|deposit|eas|issuanc|keep|liquidity",
+  "fp:000|300|aim|and112|approximately|authority|brooklyn|dismantl|domain|fbi",
+  "fp:adopt|chang|effect|exclusion|expect|final|firm|global|index|list",
+  "fp:ask|becom|bind|blockchain|develop|holder|independent|layer1|network|non"
 ]
