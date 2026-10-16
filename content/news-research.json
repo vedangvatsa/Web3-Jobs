@@ -47130,11 +47130,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6700b8038974ca93e926",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:34:52.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; OKX notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:02.731Z",
+      "retrySearches": [
+        "OKX onchain spot perps beta simulated TradFi announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "2e66c90f32d5d9c24dbe": {
       "source": "The Defiant",
@@ -84417,6 +84431,21 @@
           "reviewedAt": "2026-10-16T03:56:00.478Z",
           "retrySearches": [
             "WSJ Tether Hines stablecoin payments investigation"
+          ]
+        },
+        "6700b8038974ca93e926": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; OKX notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:02.731Z",
+          "retrySearches": [
+            "OKX onchain spot perps beta simulated TradFi announcement"
           ]
         }
       },
