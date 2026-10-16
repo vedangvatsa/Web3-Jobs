@@ -45360,11 +45360,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c93c49133f8b0cabfcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:27:18.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Altcoin drawdown commentary attributed to macro pressures; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:37.233Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "e1612f45e7a2918f3084": {
       "source": "The Block",
@@ -82180,6 +82185,13 @@
           "note": "Zcash intraday price drop framed around leverage buildup; price chatter without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:34.793Z"
+        },
+        "3c93c49133f8b0cabfcd": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Altcoin drawdown commentary attributed to macro pressures; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:37.233Z"
         }
       },
       "baselineSlugs": [
