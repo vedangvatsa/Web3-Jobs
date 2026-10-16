@@ -47185,11 +47185,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b31c8b330d4ab43a5edc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:00:34.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Q3 liquidation-risk data analysis; retrospective market study, not a fresh concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:45.230Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "ee84679490f2153d1205": {
       "source": "The Block",
@@ -82492,6 +82497,13 @@
           "note": "Opinion column asking who to trust with keys after Ledger hack; commentary, no new concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:42.992Z"
+        },
+        "b31c8b330d4ab43a5edc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Q3 liquidation-risk data analysis; retrospective market study, not a fresh concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:45.230Z"
         }
       },
       "baselineSlugs": [
