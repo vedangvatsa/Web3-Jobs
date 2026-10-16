@@ -267,13 +267,13 @@ export async function main() {
   console.log(JSON.stringify({ contentDigest: digest, posts: 7, images: 7, links: 'bare hashtagweb3.com/<resource>/x on both platforms', mode, platform }));
   if (mode === 'validate') return;
   await fs.mkdir(WORK, { recursive: true });
-  await resourceLinks(manifest.posts);
   const verified = await accounts();
   const remote = await remoteState();
   const state = remote.state || { version: 1, campaign: manifest.id, contentDigest: digest, assetCommit: process.env.GITHUB_SHA, platforms: {} };
   assert.equal(state.contentDigest, digest, 'Approved content changed after publication began');
   const urls = await verifyImages(manifest, state.assetCommit);
   await assertPublishableJobs(manifest.picturedJobs);
+  await resourceLinks(manifest.posts);
   await fs.writeFile(path.join(WORK, 'preflight.json'), JSON.stringify({ digest, assetCommit: state.assetCommit, accounts: { x: verified.channel.name, threads: verified.account.username }, imageUrls: urls, checkedAt: new Date().toISOString() }, null, 2));
   if (mode === 'preflight') { console.log('Preflight passed; no social mutations made.'); return; }
   const save = durableState(state, remote.text);
