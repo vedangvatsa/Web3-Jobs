@@ -45507,11 +45507,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc75b5a7808b7004d909",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T11:48:42.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Intraday Bitcoin price move tied to inflation-data fears; no concrete event, only market commentary.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:32.317Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "830b687a54372f3509d9": {
       "source": "Crypto Briefing",
@@ -82156,6 +82161,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:31:52.126Z",
           "automatic": true
+        },
+        "cc75b5a7808b7004d909": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Intraday Bitcoin price move tied to inflation-data fears; no concrete event, only market commentary.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:32.317Z"
         }
       },
       "baselineSlugs": [
