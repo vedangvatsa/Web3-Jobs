@@ -38006,25 +38006,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "065448ab6592e1688b95",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T16:14:50.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece with Jan 2027 authorization end and sell-through detail. Trezor notice plus country-scope confirmation still needed.",
+      "reason": "verified-event",
+      "note": "Verified Trezor Jan 2027 reseller cutoff, Ledger seven-market halt and MediaMarkt pull across two Decrypt reports and Cointelegraph.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
           "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:59.183Z",
+      "reviewedAt": "2026-10-16T03:47:42.938Z",
       "retrySearches": [
         "Trezor resellers January 2027 scope second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "articleSlug": "resellers"
     },
     "9d966e2b82129fb8feb6": {
       "source": "Bitcoin Magazine",
@@ -83077,6 +83085,27 @@
           ],
           "reviewedAt": "2026-10-16T03:47:40.414Z",
           "articleSlug": "starknet-vote"
+        },
+        "065448ab6592e1688b95": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Trezor Jan 2027 reseller cutoff, Ledger seven-market halt and MediaMarkt pull across two Decrypt reports and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:47:42.938Z",
+          "articleSlug": "resellers"
         }
       },
       "baselineSlugs": [
