@@ -38620,23 +38620,23 @@
       "id": "6aa45f2713c1657bbf94",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T10:30:37.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; French proposal to report wallets over 100K euros with fines. Bill text plus a second outlet still needed.",
+      "note": "Opened the Decrypt piece on the wallet-reporting proposal backlash. Proposal text plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:55.704Z",
+      "reviewedAt": "2026-10-16T03:58:15.651Z",
       "retrySearches": [
-        "France crypto holdings reporting proposal bill text second outlet"
+        "France crypto wallets 112K reporting proposal backlash"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e98e0dee2df9744aba85": {
       "source": "Cointelegraph",
@@ -85481,6 +85481,21 @@
           "reviewedAt": "2026-10-16T03:58:13.307Z",
           "retrySearches": [
             "UK crypto trader knifepoint 800000 wrench attack police"
+          ]
+        },
+        "6aa45f2713c1657bbf94": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on the wallet-reporting proposal backlash. Proposal text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:15.651Z",
+          "retrySearches": [
+            "France crypto wallets 112K reporting proposal backlash"
           ]
         }
       },
