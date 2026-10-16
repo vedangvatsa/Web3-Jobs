@@ -44451,11 +44451,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f4551cc10ee5322bfbb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T21:54:33.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece; another free-writing prospectus is on file. SEC EDGAR record plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/t-rowe-price-active-crypto-etf-fwp/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:09.030Z",
+      "retrySearches": [
+        "T. Rowe Price Active Crypto ETF free writing prospectus SEC EDGAR"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "57a4487f426820e1dac1": {
       "source": "Cointelegraph",
@@ -84878,6 +84892,21 @@
           "reviewedAt": "2026-10-16T03:57:06.706Z",
           "retrySearches": [
             "MNX MegaETH pre-IPO futures OpenAI Anthropic launch"
+          ]
+        },
+        "0f4551cc10ee5322bfbb": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece; another free-writing prospectus is on file. SEC EDGAR record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/t-rowe-price-active-crypto-etf-fwp/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:09.030Z",
+          "retrySearches": [
+            "T. Rowe Price Active Crypto ETF free writing prospectus SEC EDGAR"
           ]
         }
       },
