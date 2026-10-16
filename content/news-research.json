@@ -42523,23 +42523,23 @@
       "id": "91700f2ab83a1dd4bb0f",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T07:22:41.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "NBA hack page blocked again in this run; incident evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the BeInCrypto page today; team statement plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/nba-instagram-hack-fake-meme-coin/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:51.294Z",
+      "reviewedAt": "2026-10-16T03:55:33.361Z",
       "retrySearches": [
-        "NBA Instagram hack meme coin post evidence second outlet"
+        "NBA Instagram fake meme coin hack statement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "7623fde913b3c730779a": {
       "source": "BeInCrypto",
@@ -84110,6 +84110,21 @@
           "reviewedAt": "2026-10-16T03:55:31.181Z",
           "retrySearches": [
             "Tempo Zones privacy Deel production announcement"
+          ]
+        },
+        "91700f2ab83a1dd4bb0f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the BeInCrypto page today; team statement plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/nba-instagram-hack-fake-meme-coin/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:33.361Z",
+          "retrySearches": [
+            "NBA Instagram fake meme coin hack statement"
           ]
         }
       },
