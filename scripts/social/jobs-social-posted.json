@@ -14383,7 +14383,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "834faa2b-ff8c-43e8-804c-4d5bc2fd7ded",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7516945060551168000"
     }
   ]
 }
