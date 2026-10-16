@@ -45276,11 +45276,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "55e0421d5e216b7a0988",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:48:05.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin holding above 81K alongside producer-price data; price commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:46.319Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5e3eea2f93a6f0665567": {
       "source": "Decrypt",
@@ -82228,6 +82233,13 @@
           "note": "Bitcoin whipsaw and liquidation tally; price chatter without a concrete verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:44.104Z"
+        },
+        "55e0421d5e216b7a0988": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin holding above 81K alongside producer-price data; price commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:46.319Z"
         }
       },
       "baselineSlugs": [
