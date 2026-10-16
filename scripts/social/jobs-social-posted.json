@@ -13383,7 +13383,8 @@
       },
       "account": "channel:growth",
       "attemptId": "aa6d54d1-4fbd-4e83-a41e-9f4c99ea3020",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x424c47b086ce3e4d38f45c26fcfa2e40fcc04919"
     }
   ]
 }
