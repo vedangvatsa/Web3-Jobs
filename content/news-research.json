@@ -34497,23 +34497,23 @@
       "id": "889865057fdbfcd5e9e4",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T19:03:30.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Blockchain.com licensing page blocked again in this run; CFTC filing record and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; CFTC filing record plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:53:58.180Z",
+      "reviewedAt": "2026-10-16T03:54:27.354Z",
       "retrySearches": [
-        "Blockchain.com CFTC licenses derivatives prediction markets filing"
+        "Blockchain.com CFTC licenses derivatives prediction markets"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e5928b7ca1b7cb3e8e2a": {
       "source": "Cointelegraph",
@@ -83675,6 +83675,21 @@
           "reviewedAt": "2026-10-16T03:54:25.030Z",
           "retrySearches": [
             "Base Earn Borrow Aave Morpho announcement"
+          ]
+        },
+        "889865057fdbfcd5e9e4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; CFTC filing record plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:27.354Z",
+          "retrySearches": [
+            "Blockchain.com CFTC licenses derivatives prediction markets"
           ]
         }
       },
