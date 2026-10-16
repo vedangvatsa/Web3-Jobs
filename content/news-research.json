@@ -43414,23 +43414,23 @@
       "id": "37a52ca03b47daf0f639",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T16:31:47.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Uniswap pool page blocked again in this run; Uniswap notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Uniswap notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:22.068Z",
+      "reviewedAt": "2026-10-16T03:55:13.258Z",
       "retrySearches": [
-        "Uniswap ETH USDC separate fees pool notice second outlet"
+        "Uniswap ETH USDC separate buy sell fees pool launch"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "7dd8207ecce8d0629ae3": {
       "source": "Bitcoin Magazine",
@@ -83975,6 +83975,21 @@
           "reviewedAt": "2026-10-16T03:55:10.992Z",
           "retrySearches": [
             "StarkWare OffMarket Polymarket private trading announcement"
+          ]
+        },
+        "37a52ca03b47daf0f639": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Uniswap notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:13.258Z",
+          "retrySearches": [
+            "Uniswap ETH USDC separate buy sell fees pool launch"
           ]
         }
       },
