@@ -13427,6 +13427,46 @@
       "verification": "pending",
       "postId": "6ad20c701ffe47098029bd74",
       "error": "LinkedIn #Web3 receipt 6ad20c701ffe47098029bd74 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "ops40",
+      "company": "Anchorage Digital",
+      "title": "Member of Custody Operations, Digital Assets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-16T11:35:04.863Z",
+      "expectedText": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/li?og=7",
+      "snapshot": {
+        "id": "3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "title": "Member of Custody Operations, Digital Assets",
+        "company": "Anchorage Digital",
+        "link": "https://jobs.lever.co/anchorage/3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "date": "2026-09-22T13:32:12.406Z",
+        "source": "Lever: Anchorage Digital [anchorage]",
+        "location": "Remote (United States)",
+        "workplaceType": "remote",
+        "department": "Global Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops40"
+      },
+      "payload": {
+        "text": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops40/li?og=7",
+          "title": "Member of Custody Operations, Digital Assets at Anchorage Digital",
+          "description": "Join Anchorage Digital as Member of Custody Operations, Digi. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops40.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "9311b1c4-be3d-4451-92a0-93ab0783b4d7",
+      "verification": "creating"
     }
   ]
 }
