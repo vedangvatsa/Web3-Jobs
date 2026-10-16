@@ -43571,25 +43571,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e55f22f09c0b6d6ba62",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T16:05:54.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Bankless piece; OpenAI early acquisition talks per The Information with no price and talks possibly failing. Information report plus deal confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/news/report-openai-interested-in-acquiring-trail-of-bits",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T12:00:55.037Z",
+      "reason": "out-of-scope",
+      "note": "Reported OpenAI interest in acquiring Trail of Bits; AI-industry M and A rumor, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:42:01.753Z",
       "retrySearches": [
         "OpenAI Trail of Bits acquisition talks confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "d872248c42eb0de7f45a": {
       "source": "Bitcoin Magazine",
@@ -82953,6 +82947,13 @@
           "note": "Pendle vault topping 15M in a day; company-reported yield-product marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:41:59.062Z"
+        },
+        "0e55f22f09c0b6d6ba62": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Reported OpenAI interest in acquiring Trail of Bits; AI-industry M and A rumor, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:42:01.753Z"
         }
       },
       "baselineSlugs": [
