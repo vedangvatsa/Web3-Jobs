@@ -34375,23 +34375,23 @@
       "id": "cedb10fc747d425655e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T02:20:08.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoSlate piece; Oct 13 filing shows 600K SOL and 80 percent cash for a conditional tender. Filing confirmation plus a second outlet still needed.",
+      "note": "Opened the CryptoSlate piece on the conditional tender and SOL floor. Filing plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:57:18.649Z",
+      "reviewedAt": "2026-10-16T03:59:20.828Z",
       "retrySearches": [
-        "SkyAI tender offer filing second outlet October"
+        "SkyAI tender offer SEC filing SOL 600K condition"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "5efd684dc286826e49ca": {
       "source": "Crypto Briefing",
@@ -85927,6 +85927,21 @@
           "reviewedAt": "2026-10-16T03:59:18.561Z",
           "retrySearches": [
             "Tether Hines firm payments marketing middleman WSJ"
+          ]
+        },
+        "cedb10fc747d425655e2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on the conditional tender and SOL floor. Filing plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:20.828Z",
+          "retrySearches": [
+            "SkyAI tender offer SEC filing SOL 600K condition"
           ]
         }
       },
