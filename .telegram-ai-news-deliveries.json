@@ -1530,7 +1530,7 @@
     "sentAt": "2026-10-16T04:23:54.718Z"
   },
   "10192a37-fb71-4022-a66c-7394f4e69875": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T11:33:00.074Z",
     "stories": [
       {
@@ -1560,6 +1560,8 @@
         "originalTitle": "Love is infrastructure"
       }
     ],
-    "slotKey": "2026-10-16:afternoon"
+    "slotKey": "2026-10-16:afternoon",
+    "messageId": 193357,
+    "sentAt": "2026-10-16T11:33:05.461Z"
   }
 }
