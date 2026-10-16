@@ -41775,23 +41775,23 @@
       "id": "c91bb68e9c6b9194609f",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:34:38.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
       "reason": "source-blocked",
-      "note": "BVNK platform page blocked again in this run; BVNK notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; BVNK or Mastercard notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:09.874Z",
+      "reviewedAt": "2026-10-16T03:55:35.568Z",
       "retrySearches": [
-        "BVNK global money platform Mastercard notice second outlet"
+        "BVNK Mastercard Global Money Platform stablecoin announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ea82f8aa05827999312d": {
       "source": "Crypto Briefing",
@@ -84125,6 +84125,21 @@
           "reviewedAt": "2026-10-16T03:55:33.361Z",
           "retrySearches": [
             "NBA Instagram fake meme coin hack statement"
+          ]
+        },
+        "c91bb68e9c6b9194609f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; BVNK or Mastercard notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:35.568Z",
+          "retrySearches": [
+            "BVNK Mastercard Global Money Platform stablecoin announcement"
           ]
         }
       },
