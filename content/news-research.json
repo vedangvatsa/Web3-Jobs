@@ -43031,23 +43031,23 @@
       "id": "a2d325c766442810ce5e",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T20:16:05.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; Chainalysis counts 138M agent payments via x402 with 87 percent micro-transactions. Chainalysis report plus genuine-demand assessment still needed.",
+      "note": "Opened the Decrypt piece on 138M tiny agent payments. Report plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:19.855Z",
+      "reviewedAt": "2026-10-16T03:58:48.232Z",
       "retrySearches": [
-        "Chainalysis agentic commerce report genuine demand second outlet"
+        "AI agents 138 million crypto payments report micropayments"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "d6b7e20f1bb6736be847": {
       "source": "Bankless",
@@ -85705,6 +85705,21 @@
           "reviewedAt": "2026-10-16T03:58:45.928Z",
           "retrySearches": [
             "OCC banks digital asset restrictions easing statement"
+          ]
+        },
+        "a2d325c766442810ce5e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on 138M tiny agent payments. Report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:48.232Z",
+          "retrySearches": [
+            "AI agents 138 million crypto payments report micropayments"
           ]
         }
       },
