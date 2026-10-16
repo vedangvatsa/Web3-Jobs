@@ -47419,11 +47419,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d5e45dfb3679fa0e69ac",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:52:14.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Silver price near 2026 low as bargain debate; commodities chatter, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:28.847Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "7f9e4058161d99b22b7b": {
       "source": "The Defiant",
@@ -82901,6 +82906,13 @@
           "note": "Bank of America fund-manager survey on tech overweight; equities sentiment, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:26.618Z"
+        },
+        "d5e45dfb3679fa0e69ac": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Silver price near 2026 low as bargain debate; commodities chatter, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:28.847Z"
         }
       },
       "baselineSlugs": [
