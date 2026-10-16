@@ -38830,23 +38830,23 @@
       "id": "26346814125211b7b8c3",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T09:15:07.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Karpeles airport-Ledger page blocked again in this run; device evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; device evidence and Ledger word on the Singapore case still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:42.291Z",
+      "reviewedAt": "2026-10-16T03:53:53.409Z",
       "retrySearches": [
-        "Karpeles airport Ledger Flex implant evidence second outlet"
+        "Karpeles airport Ledger Flex implant evidence Ledger response"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "c9e860bd8d938dd1ce43": {
       "source": "Decrypt",
@@ -83465,6 +83465,21 @@
           "reviewedAt": "2026-10-16T03:53:51.062Z",
           "retrySearches": [
             "21Shares Anthropic synthetic ETP Vienna listing notice"
+          ]
+        },
+        "26346814125211b7b8c3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; device evidence and Ledger word on the Singapore case still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:53:53.409Z",
+          "retrySearches": [
+            "Karpeles airport Ledger Flex implant evidence Ledger response"
           ]
         }
       },
