@@ -43665,23 +43665,23 @@
       "id": "d8d3338815c934ba99f2",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T14:49:32.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; EasyA claims $1.1B valuation and H1 2027 listing plan. SEC draft filing plus a second outlet still needed.",
+      "note": "Opened the CoinDesk piece on the $1.1B valuation and 2027 listing target. Company notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:56:58.234Z",
+      "reviewedAt": "2026-10-16T03:59:27.637Z",
       "retrySearches": [
-        "EasyA valuation listing filing second outlet"
+        "EasyA 1.1 billion valuation 2027 listing tokenized shares"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1e419e97f39cd68ccea8": {
       "source": "Bitcoin Magazine",
@@ -86000,6 +86000,21 @@
           "reviewedAt": "2026-10-16T03:59:25.364Z",
           "retrySearches": [
             "Russia self-custody withdrawals regulated accounts ban"
+          ]
+        },
+        "d8d3338815c934ba99f2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece on the $1.1B valuation and 2027 listing target. Company notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:27.637Z",
+          "retrySearches": [
+            "EasyA 1.1 billion valuation 2027 listing tokenized shares"
           ]
         }
       },
