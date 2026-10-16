@@ -1,29 +1,117 @@
 {
-  "generatedAt": "2026-10-16T08:21:40.512Z",
+  "generatedAt": "2026-10-16T11:31:33.534Z",
   "items": [
     {
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge ",
-      "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 07:59:46 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $...",
+      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+      "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+      "pubDate": "Fri, 16 Oct 2026 11:25:12 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
+      "source": "The Block"
+    },
+    {
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "pubDate": "Fri, 16 Oct 2026 11:15:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Your day-ahead look for Oct. 16, 2026",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "pubDate": "Fri, 16 Oct 2026 10:54:35 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and paym...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+      "pubDate": "Fri, 16 Oct 2026 10:52:26 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and wheth...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "pubDate": "Fri, 16 Oct 2026 10:41:03 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on i...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+      "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+      "pubDate": "Fri, 16 Oct 2026 10:39:08 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 16 Oct 2026 10:27:18 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the e...",
       "source": "Cointelegraph"
     },
     {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement ",
-      "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 07:43:29 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini’s Ja...",
+      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "pubDate": "Fri, 16 Oct 2026 10:24:30 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+      "link": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
+      "pubDate": "Fri, 16 Oct 2026 10:16:06 +0000",
+      "creator": "Ryan Gladwin",
+      "contentSnippet": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+      "pubDate": "Fri, 16 Oct 2026 09:48:14 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Crypto bounced a day after bitcoin’s brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+      "pubDate": "Fri, 16 Oct 2026 09:36:21 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+      "pubDate": "Fri, 16 Oct 2026 09:30:21 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant ",
+      "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 16 Oct 2026 09:22:13 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new hig...",
       "source": "Cointelegraph"
     },
     {
-      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-      "link": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 06:11:22 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitte...",
-      "source": "Cointelegraph"
+      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+      "pubDate": "Fri, 16 Oct 2026 09:10:48 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
+      "source": "Decrypt"
     },
     {
       "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
@@ -55,14 +143,6 @@
       "pubDate": "Thu, 15 Oct 2026 23:34:19 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 22:42:58 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and Sou...",
       "source": "Cointelegraph"
     },
     {
@@ -354,14 +434,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-      "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-      "pubDate": "Thu, 15 Oct 2026 10:16:15 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Stocks also turned positive after big early losses, helped by sharply lower bond yields.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
       "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
       "pubDate": "Thu, 15 Oct 2026 10:00:56 +0000",
@@ -458,14 +530,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-      "pubDate": "Thu, 15 Oct 2026 03:57:45 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday’s inflation report, but have since cooled.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July  ",
       "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 15 Oct 2026 03:29:22 +0000",
@@ -514,52 +578,20 @@
       "source": "Daily Hodl"
     },
     {
+      "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
+      "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+      "pubDate": "Wed, 14 Oct 2026 16:51:54 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.",
+      "source": "The Block"
+    },
+    {
       "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
       "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
       "pubDate": "Wed, 14 Oct 2026 16:15:19 +0000",
       "creator": "Staff",
       "contentSnippet": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” layi...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
-      "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-      "pubDate": "Wed, 14 Oct 2026 15:47:18 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
-      "source": "The Block"
-    },
-    {
-      "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
-      "source": "The Block"
-    },
-    {
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "pubDate": "Wed, 14 Oct 2026 14:49:32 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "pubDate": "Wed, 14 Oct 2026 14:31:14 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "pubDate": "Wed, 14 Oct 2026 14:08:43 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint ventu...",
-      "source": "Coindesk"
     },
     {
       "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
@@ -578,19 +610,19 @@
       "source": "Decrypt"
     },
     {
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-      "pubDate": "Wed, 14 Oct 2026 13:07:45 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Morning Minute: Move Over, Saylor, There’s a New Top Buyer in Town",
       "link": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
       "pubDate": "Wed, 14 Oct 2026 12:11:35 +0000",
       "creator": "Tyler Warner",
       "contentSnippet": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+      "link": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+      "pubDate": "Wed, 14 Oct 2026 10:21:34 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards.",
       "source": "Decrypt"
     },
     {
@@ -623,14 +655,6 @@
       "pubDate": "Tue, 13 Oct 2026 18:15:05 +0000",
       "creator": "Agent",
       "contentSnippet": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,77...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-      "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-      "pubDate": "Tue, 13 Oct 2026 16:46:05 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
       "source": "Decrypt"
     }
   ]
