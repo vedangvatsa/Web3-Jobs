@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-15T19:31:31.652Z",
+  "generatedAt": "2026-10-16T03:31:57.269Z",
   "items": [
+    {
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework ",
+      "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 23:34:19 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 22:42:58 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and Sou...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+      "link": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+      "pubDate": "Thu, 15 Oct 2026 22:15:56 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
+      "source": "The Block"
+    },
+    {
+      "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+      "pubDate": "Thu, 15 Oct 2026 21:41:14 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
+      "source": "The Block"
+    },
+    {
+      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "pubDate": "Thu, 15 Oct 2026 20:31:04 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved b...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 20:21:11 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authoritie...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
       "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
@@ -146,14 +194,6 @@
       "source": "The Block"
     },
     {
-      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-      "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 14:22:43 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody ...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
       "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 15 Oct 2026 14:16:55 +0000",
@@ -274,11 +314,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "pubDate": "Thu, 15 Oct 2026 10:16:15 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "Stocks have also turned positive after big early losses, helped by sharply lower bond yields.",
+      "contentSnippet": "Stocks also turned positive after big early losses, helped by sharply lower bond yields.",
       "source": "Coindesk"
     },
     {
@@ -410,14 +450,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-      "pubDate": "Wed, 14 Oct 2026 19:46:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 m...",
-      "source": "Decrypt"
-    },
-    {
       "title": "Solana Sets a Date for Its Next Major Upgrade",
       "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
       "pubDate": "Wed, 14 Oct 2026 19:16:04 +0000",
@@ -474,20 +506,20 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow ",
-      "link": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 14 Oct 2026 16:26:31 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
       "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
       "pubDate": "Wed, 14 Oct 2026 16:15:19 +0000",
       "creator": "Staff",
       "contentSnippet": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” layi...",
       "source": "Decrypt"
+    },
+    {
+      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+      "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+      "pubDate": "Wed, 14 Oct 2026 15:47:18 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
+      "source": "The Block"
     },
     {
       "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
@@ -522,14 +554,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 14 Oct 2026 14:21:15 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
       "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
       "pubDate": "Wed, 14 Oct 2026 14:08:43 +0000",
@@ -554,36 +578,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "‘Bunker mode’ won’t protect your crypto, critics say ",
-      "link": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 14 Oct 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Even if Justin Drake’s prediction that AI could break cryptography proves correct, critics say “bunker mode” is an impractical suggestion that’s unlik...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
-      "link": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
-      "pubDate": "Wed, 14 Oct 2026 13:20:46 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
-      "source": "The Block"
-    },
-    {
       "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
       "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
       "pubDate": "Wed, 14 Oct 2026 13:07:45 +0000",
       "creator": "Olivier Acuna",
       "contentSnippet": "Payward agreed to buy Lithuania’s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-      "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61...",
-      "source": "Cointelegraph"
     },
     {
       "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
@@ -655,14 +655,6 @@
       "pubDate": "Tue, 13 Oct 2026 16:14:50 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden i...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
-      "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
-      "pubDate": "Tue, 13 Oct 2026 10:51:33 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
       "source": "Decrypt"
     }
   ]
