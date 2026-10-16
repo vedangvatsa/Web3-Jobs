@@ -1494,7 +1494,7 @@
     "sentAt": "2026-10-16T04:22:40.144Z"
   },
   "d076fa48-892a-49cf-a1d4-695ad6f6068e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T11:34:00.122Z",
     "stories": [
       {
@@ -1522,6 +1522,8 @@
         "originalTitle": "Starknet opens vote on becoming an independent layer 1"
       }
     ],
-    "slotKey": "2026-10-16:afternoon"
+    "slotKey": "2026-10-16:afternoon",
+    "messageId": 155789,
+    "sentAt": "2026-10-16T11:34:08.990Z"
   }
 }

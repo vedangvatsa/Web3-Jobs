@@ -743,6 +743,9 @@
   "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zec-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/brooklyn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/msci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/starknet-vote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2137,6 +2140,12 @@
   "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper",
   "Winklevoss Asset Services Files for Spot Zcash ETF",
   "Winklevoss Files for Spot Zcash ETF With WINK Ticker",
+  "Brooklyn Prosecutors Shut Down Russian-Language Crypto Investment Scam",
+  "Brooklyn prosecutors dismantle crypto scam aimed at Russian speakers",
+  "MSCI rules may remove treasury firms from global indexes",
+  "MSCI adopts rules that could oust Strategy from indexes",
+  "Starknet polls token holders on becoming an independent network",
+  "Starknet opens vote on becoming an independent layer 1",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2430,5 +2439,8 @@
   "fp:200m|activat|block|glamsterdam|limit|october6|rul|sepolia|start|test",
   "fp:120m|26b|90m|asset|bas|cash|expand|fintech|fund|manag",
   "fp:18m|auction|bas|dcg|draper|galaxy|includ|investor|join|rais",
-  "fp:asset|custody|etf|fee|fil|firm|gemini|nasdaq|percent|servic"
+  "fp:asset|custody|etf|fee|fil|firm|gemini|nasdaq|percent|servic",
+  "fp:000|300|aim|and112|brooklyn|dismantl|domain|down|fraud|investment",
+  "fp:adopt|affect|effect|expect|final|firm|global|index|list|may",
+  "fp:are|becom|blockchain|holder|independent|layer1|network|october22|open|poll"
 ]
