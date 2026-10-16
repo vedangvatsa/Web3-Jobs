@@ -40983,23 +40983,23 @@
       "id": "c3f856d2eba0654187ff",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T16:22:15.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Bitcoin Magazine piece on the same StanChart UAE debut. Bank notice plus expansion-timeline confirmation still needed.",
+      "note": "Opened the Bitcoin Magazine piece on UAE wealthy-client trading. Company notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:17.790Z",
+      "reviewedAt": "2026-10-16T03:59:06.872Z",
       "retrySearches": [
-        "Standard Chartered UAE bitcoin trading timeline second outlet"
+        "Standard Chartered bitcoin trading UAE wealthy clients announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "356e9b33c575a7e73f4b": {
       "source": "Decrypt",
@@ -85827,6 +85827,21 @@
           "reviewedAt": "2026-10-16T03:59:04.533Z",
           "retrySearches": [
             "Federated Hermes tokenized fund shares 2027 announcement"
+          ]
+        },
+        "c3f856d2eba0654187ff": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Bitcoin Magazine piece on UAE wealthy-client trading. Company notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:06.872Z",
+          "retrySearches": [
+            "Standard Chartered bitcoin trading UAE wealthy clients announcement"
           ]
         }
       },
