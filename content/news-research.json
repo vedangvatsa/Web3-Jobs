@@ -46536,11 +46536,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5be38a55d7382b913be2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T18:14:31.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Opinion column asking who to trust with keys after Ledger hack; commentary, no new concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:42.992Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "e8835cab9cd5b40c66f6": {
       "source": "CryptoSlate",
@@ -82480,6 +82485,13 @@
           "note": "Morning Minute newsletter roundup on Solana speed; digest format, not a single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:40.740Z"
+        },
+        "5be38a55d7382b913be2": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Opinion column asking who to trust with keys after Ledger hack; commentary, no new concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:42.992Z"
         }
       },
       "baselineSlugs": [
