@@ -13788,6 +13788,41 @@
       "attemptId": "8e6df6d8-c15c-4830-8de1-1d8b3131d740",
       "verification": "verified",
       "postId": "0xee7bb6e1147024441b909f70651774caf801490d"
+    },
+    {
+      "slug": "sls227",
+      "company": "Chainalysis",
+      "title": "Enterprise Account Executive | Fintech",
+      "platform": "farcaster",
+      "postedAt": "2026-10-16T19:33:45.490Z",
+      "expectedText": "Chainalysis is hiring Enterprise Account Executive | Fintech\n\nhttps://hashtagweb3.com/sls227/fc?og=7",
+      "snapshot": {
+        "id": "44489558-9b34-4113-b44d-9d11d6acc8e6",
+        "title": "Enterprise Account Executive | Fintech",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/44489558-9b34-4113-b44d-9d11d6acc8e6",
+        "date": "2026-10-06T19:15:09.759+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "New York Office",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls227"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Enterprise Account Executive | Fintech\n\nhttps://hashtagweb3.com/sls227/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls227/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "4e876609-9bf5-473f-9b63-846cccc50acb",
+      "verification": "creating"
     }
   ]
 }
