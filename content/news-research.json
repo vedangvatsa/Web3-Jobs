@@ -35893,23 +35893,23 @@
       "id": "ee343bfd761fbbbcc2e5",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T11:11:27.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece on the same ENSv2 proposal with transition-pause detail. Vote record plus second-outlet confirmation still needed.",
+      "note": "Opened the Cointelegraph piece on the ENSv2 activation request. DAO proposal plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:28.507Z",
+      "reviewedAt": "2026-10-16T03:59:52.939Z",
       "retrySearches": [
-        "ENSv2 proposal vote record second outlet"
+        "ENS DAO ENSv2 upgrade vote proposal"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "74b7cc3e2ad82cda592c": {
       "source": "CoinDesk",
@@ -86245,6 +86245,21 @@
           "reviewedAt": "2026-10-16T03:59:50.644Z",
           "retrySearches": [
             "Australia ASIC crypto exchange safeguard rules licensing deadline"
+          ]
+        },
+        "ee343bfd761fbbbcc2e5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on the ENSv2 activation request. DAO proposal plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:52.939Z",
+          "retrySearches": [
+            "ENS DAO ENSv2 upgrade vote proposal"
           ]
         }
       },
