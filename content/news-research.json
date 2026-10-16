@@ -38509,23 +38509,23 @@
       "id": "251225b4b28010c9541a",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T11:58:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; FIU website blocks hit 27 unregistered exchanges including KuCoin. FIU notice plus exchange-response confirmation still needed.",
+      "note": "Opened the CoinDesk piece; KuCoin, BitMart and MEXC web access targeted. Regulator notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:23.219Z",
+      "reviewedAt": "2026-10-16T03:57:22.648Z",
       "retrySearches": [
-        "South Korea FIU 27 exchanges block notice second outlet"
+        "South Korea 27 exchanges block KuCoin BitMart regulator notice"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "bb59847c809ee22181b3": {
       "source": "CoinDesk",
@@ -85024,6 +85024,21 @@
           "reviewedAt": "2026-10-16T03:57:20.420Z",
           "retrySearches": [
             "Toronto armed crypto abduction 82 charges police"
+          ]
+        },
+        "251225b4b28010c9541a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece; KuCoin, BitMart and MEXC web access targeted. Regulator notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:22.648Z",
+          "retrySearches": [
+            "South Korea 27 exchanges block KuCoin BitMart regulator notice"
           ]
         }
       },
