@@ -68,7 +68,7 @@
         },
         {
           "index": 5,
-          "status": "container-created",
+          "status": "publishing",
           "startedAt": "2026-10-16T21:54:22.165Z",
           "containerId": "18097382957199925"
         }
