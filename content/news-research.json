@@ -42022,23 +42022,23 @@
       "id": "a108866d7e567093560a",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T09:40:13.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece on the same OCC findings including Letter 1183. OCC letters plus easing-scope confirmation still needed.",
+      "note": "Opened the Crypto Briefing piece on easing restrictions with limits. OCC statement plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:13.234Z",
+      "reviewedAt": "2026-10-16T03:58:45.928Z",
       "retrySearches": [
-        "OCC Letter 1183 banks easing scope second outlet"
+        "OCC banks digital asset restrictions easing statement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "0d69869309831ed8a482": {
       "source": "BeInCrypto",
@@ -85690,6 +85690,21 @@
           "reviewedAt": "2026-10-16T03:58:43.596Z",
           "retrySearches": [
             "OCC nine banks crypto accounts debanking report"
+          ]
+        },
+        "a108866d7e567093560a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on easing restrictions with limits. OCC statement plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/occ-banks-ease-digital-asset-restrictions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:45.928Z",
+          "retrySearches": [
+            "OCC banks digital asset restrictions easing statement"
           ]
         }
       },
