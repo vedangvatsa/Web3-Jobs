@@ -14839,6 +14839,41 @@
       "attemptId": "53ff93a8-abce-452b-b453-f51be2c6510e",
       "verification": "verified",
       "postId": "0x11a0457c347208880a93e17b2a588000f02b5e57"
+    },
+    {
+      "slug": "dev29",
+      "company": "Alchemy",
+      "title": "Senior Software Engineer, Developer Experience",
+      "platform": "farcaster",
+      "postedAt": "2026-10-16T19:36:22.637Z",
+      "expectedText": "Alchemy is hiring Senior Software Engineer, Developer Experience\n\nhttps://hashtagweb3.com/dev29/fc?og=7",
+      "snapshot": {
+        "id": "fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "title": "Senior Software Engineer, Developer Experience",
+        "company": "Alchemy",
+        "link": "https://jobs.ashbyhq.com/alchemy/fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "date": "2026-10-09T18:11:40.726+00:00",
+        "source": "Ashby: Alchemy [alchemy]",
+        "location": "Hybrid (San Francisco)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev29"
+      },
+      "payload": {
+        "text": "Alchemy is hiring Senior Software Engineer, Developer Experience\n\nhttps://hashtagweb3.com/dev29/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dev29/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "9f3522e1-ac6b-4858-a2b1-4450be50b495",
+      "verification": "creating"
     }
   ]
 }
