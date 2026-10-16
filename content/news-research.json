@@ -47163,11 +47163,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bfe1cfe597885aabdedd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:21:46.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Firelight notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:58.188Z",
+      "retrySearches": [
+        "Firelight Kraken USDC vault cover announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "db78d3d8bdcb3fc1fa06": {
       "source": "Cointelegraph",
@@ -84359,6 +84373,21 @@
           "reviewedAt": "2026-10-16T03:55:55.990Z",
           "retrySearches": [
             "Safe Safenet Aegis security network launch announcement"
+          ]
+        },
+        "bfe1cfe597885aabdedd": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Firelight notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:58.188Z",
+          "retrySearches": [
+            "Firelight Kraken USDC vault cover announcement"
           ]
         }
       },
