@@ -41831,27 +41831,23 @@
       "id": "b5b83e31da270755e01c",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:00:56.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece on the Yan Bloomberg interview and the prediction-framed CryptoBriefing version. Interview record plus policy-detail confirmation still needed.",
+      "note": "Opened the CoinDesk piece on targeting deployers not the chain. Full remarks plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
           "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/hyperliquid-founder-seeks-us-regulatory-exemption-for-blockchain-operations/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T12:03:18.898Z",
+      "reviewedAt": "2026-10-16T03:58:59.883Z",
       "retrySearches": [
-        "Hyperliquid Yan interview policy detail second outlet"
+        "Hyperliquid Jeff Yan deployers not blockchain CoinDesk remarks"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "aa7a8d10341144b65d50": {
       "source": "Cointelegraph",
@@ -85790,6 +85786,21 @@
           "reviewedAt": "2026-10-16T03:58:57.573Z",
           "retrySearches": [
             "Bitget Liquid Q3 crypto hacks 1.2B dataset"
+          ]
+        },
+        "b5b83e31da270755e01c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece on targeting deployers not the chain. Full remarks plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:59.883Z",
+          "retrySearches": [
+            "Hyperliquid Jeff Yan deployers not blockchain CoinDesk remarks"
           ]
         }
       },
