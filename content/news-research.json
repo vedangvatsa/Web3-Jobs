@@ -34918,23 +34918,23 @@
       "id": "868ad9e7fda75ddebe55",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T09:17:57.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Autheo exploit page blocked again in this run; bridge-exploit evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; bridge-exploit evidence plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:02.108Z",
+      "reviewedAt": "2026-10-16T03:53:55.801Z",
       "retrySearches": [
-        "Autheo THEO bridge exploit Base evidence second outlet"
+        "Autheo THEO bridge exploit Base evidence"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "d1557a7dcfa39aa50265": {
       "source": "Chainwire",
@@ -83480,6 +83480,21 @@
           "reviewedAt": "2026-10-16T03:53:53.409Z",
           "retrySearches": [
             "Karpeles airport Ledger Flex implant evidence Ledger response"
+          ]
+        },
+        "868ad9e7fda75ddebe55": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; bridge-exploit evidence plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:53:55.801Z",
+          "retrySearches": [
+            "Autheo THEO bridge exploit Base evidence"
           ]
         }
       },
