@@ -12614,9 +12614,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7fdd1c46-bad6-4d49-bd75-1bc63da4e473",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad20ba41ffe4709802992e4",
-      "error": "LinkedIn #Web3 receipt 6ad20ba41ffe4709802992e4 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad20ba41ffe4709802992e4 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7516823834042236929"
     },
     {
       "slug": "pm269",
