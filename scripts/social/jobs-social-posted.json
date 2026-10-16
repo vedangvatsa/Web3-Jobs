@@ -12187,7 +12187,8 @@
       },
       "account": "channel:dev",
       "attemptId": "94601247-1348-404b-96cf-50bd60b1c276",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4f7b63ca708426fbfba4bf0071be6c11312252ed"
     }
   ]
 }
