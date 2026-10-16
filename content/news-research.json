@@ -46239,11 +46239,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3162edc1f03e6108a527",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:46:46.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Texas voter-registration backlog; election administration, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:03.380Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "f37be905c165b5b4eeb8": {
       "source": "Cointelegraph",
@@ -82769,6 +82774,13 @@
           "note": "Meta speech-recognition prize listing; AI product story, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:01.097Z"
+        },
+        "3162edc1f03e6108a527": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Texas voter-registration backlog; election administration, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:03.380Z"
         }
       },
       "baselineSlugs": [
