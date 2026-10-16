@@ -41870,23 +41870,23 @@
       "id": "aa7a8d10341144b65d50",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:00:00.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; Hacken reports $1.18B across 107 Q3 incidents. Hacken report plus a second outlet still needed.",
+      "note": "Opened the Cointelegraph piece on Bitget and Liquid pushing Q3 toward $1.2B. Hack dataset plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:57:08.503Z",
+      "reviewedAt": "2026-10-16T03:58:57.573Z",
       "retrySearches": [
-        "Hacken Q3 hacks report second outlet"
+        "Bitget Liquid Q3 crypto hacks 1.2B dataset"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "9e6fda150fbd42ff60eb": {
       "source": "BeInCrypto",
@@ -85775,6 +85775,21 @@
           "reviewedAt": "2026-10-16T03:58:55.232Z",
           "retrySearches": [
             "Riksbank digital krona legislation recommendation ECB euro"
+          ]
+        },
+        "aa7a8d10341144b65d50": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on Bitget and Liquid pushing Q3 toward $1.2B. Hack dataset plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:57.573Z",
+          "retrySearches": [
+            "Bitget Liquid Q3 crypto hacks 1.2B dataset"
           ]
         }
       },
