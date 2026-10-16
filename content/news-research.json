@@ -47572,11 +47572,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "23be1511b0ccc0f21363",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:32:49.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Jupiter notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:44.586Z",
+      "retrySearches": [
+        "Jupiter YOLO beta 1000x leverage launch notice"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "351e7924750b209663e1": {
       "source": "Cointelegraph",
@@ -84185,6 +84199,21 @@
           "reviewedAt": "2026-10-16T03:55:42.309Z",
           "retrySearches": [
             "EBA Circle USDC significant e-money token decision"
+          ]
+        },
+        "23be1511b0ccc0f21363": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Jupiter notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:44.586Z",
+          "retrySearches": [
+            "Jupiter YOLO beta 1000x leverage launch notice"
           ]
         }
       },
