@@ -2441,10 +2441,6 @@
       "sha256": "d1639d7479b1bb738dead46d5c1db416eab76487251bdb18e87a1197670970df",
       "status": "optimized"
     },
-    "/events/ma-bitcoin-asia-2027-54b71ef7.webp": {
-      "sha256": "2d822bdf35a0e4d71696f3aac6a0f8e3231d2b6960bba73e4c1053c5e92d7915",
-      "status": "optimized"
-    },
     "/events/ma-bitcoin-mena-2027-d3c41f8b.webp": {
       "sha256": "2d822bdf35a0e4d71696f3aac6a0f8e3231d2b6960bba73e4c1053c5e92d7915",
       "status": "optimized"
@@ -2568,10 +2564,6 @@
     "/events/ma-taipei-blockchain-week-2027-d8e6fe4d.webp": {
       "sha256": "e2827312ca38bb4e260de1f85703e8900699e3a1e436fbdb6e86f59610c7a584",
       "status": "optimized"
-    },
-    "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp": {
-      "sha256": "a06a57d4a07b57e6fb814ad4fa9688859bfdc1088dde0dc75df55e03b7b30b39",
-      "status": "retained"
     },
     "/events/ma-token2049-dubai-2027-053271c6.webp": {
       "sha256": "59e9a93ef57d86b4379d26093b09c3470c0ac43c2d36f669397c48f78ee75021",
@@ -4323,10 +4315,6 @@
     },
     "/events/w3v-digital-asset-regulation-policy-global-complia-bb4b64e8.webp": {
       "sha256": "163d7c215b718b6e67544654eb00ec89e6d2c6db4dea91e3efb79c58d96d8a46",
-      "status": "optimized"
-    },
-    "/events/w3v-digital-assets-from-pilot-to-production-with-t-9ec52af2.webp": {
-      "sha256": "f9da14f4f4d68b9dea58dd922a03e3343364f9a9a3140956600238e9860dd749",
       "status": "optimized"
     },
     "/events/w3v-diyas-devcon-26-11-04-58039a2f.webp": {

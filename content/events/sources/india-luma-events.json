@@ -96,62 +96,6 @@
     }
   },
   {
-    "id": "india-luma-qtv4687s",
-    "name": "Team1 India University Workshop - PVG, Nashik",
-    "description": "## Team1 Builders Connect at PVG, Nashik 🚀\n\n## Introduction\n\nWelcome to Team1 Builders Connect at PVG, Nashik - a developer-focused gathering designed for students, aspiring builders, and technology enthusiasts who want to explore the world of Web3, blockchain, and the Avalanche ecosystem.\n\nWhether you're completely new to Web3, curious about blockchain development, or already building projects, this session is your opportunity to learn, build, connect, and explore new opportunities.\n\nJoin fellow students and developers from PVG, Nashik for an interactive evening featuring ecosystem insights, a hands-on introduction to Avalanche, discussions with the community, and networking with like-minded builders.\n\nCome with curiosity. Leave with ideas, connections, and the inspiration to start building. ⚡\n\nNote: A laptop is mandatory and needed to attend this workshop.\n\n## 🗓️ Event Program\n\n11:00 AM — Doors Open & Attendee Check-in\n\n11:15 AM — Welcome & Opening Remarks\n\n11:30 AM — Introduction to Web3, Blockchain & the Avalanche Ecosystem\n\n12:00 PM — Hands-on Builder Session: Getting Started with Avalanche\n\n12:40 PM — Student Builder Opportunities & Community Spotlight\n\n1:00 PM — Interactive Q&A Session\n\n1:20 PM — Networking, Community Connect & Refreshments\n\n2:00 PM — Closing\n\n## What You'll Explore\n\n• Introduction to Web3 and Blockchain Development\n• Understanding the Avalanche Ecosystem\n• How students can start their journey as Web3 builders\n• Hands-on learning and building opportunities\n• Developer communities, hackathons, grants, and ecosystem opportunities\n• Connecting with fellow student builders and technology enthusiasts\n\n🎯 Who Should Attend?\n\nStudents, developers, aspiring Web3 builders, blockchain enthusiasts, and anyone interested in exploring emerging technologies.\n\n## 🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, & community members who grow Avalanche.\n\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\nhttps://x.com/AvaxTeam1",
-    "startDate": "2026-09-16T05:30:00.000Z",
-    "endDate": "2026-09-16T08:30:00.000Z",
-    "city": "Nashik",
-    "country": "India",
-    "location": "Pune Vidyarthi Griha's College of Engineering & S. S. Dhamankar Institute of Management, Nashik, 206, Dindori Rd, behind Reliance Petrol Pump, Gorksha Nagar, Mhasrul Gaon, Nashik, Maharashtra 422004, India",
-    "url": "https://luma.com/qtv4687s",
-    "coverImage": "/events/india-luma-qtv4687s-d7caf037.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Shriyash Pandey",
-      "Siddhesh Sawant"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Gorksha Nagar",
-    "slug": "tiuwpn",
-    "registrationUrl": "https://luma.com/qtv4687s",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Pune Vidyarthi Griha's College of Engineering & S. S. Dhamankar Institute of Management, Nashik",
-    "streetAddress": "206, Dindori Rd, Reliance Petrol Pump, Gorksha Nagar, Mhasrul Gaon, Nashik",
-    "addressLocality": "Nashik",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 20.036269100000002,
-      "longitude": 73.80050159999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Team1 India",
-      "url": "https://team1.network/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/qtv4687s",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/qtv4687s",
-      "eventId": "evt-ZfXoKirEuecGlrs",
-      "fetchedAt": "2026-09-19T23:30:13.681Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-7f2xpc87",
     "name": "Trezor Academy: Jaipur",
     "description": "Road to Bitmela × Trezor Academy — Jaipur\n\nStudents, professionals, curious minds, and entrepreneurs will come together for 3 days of structured Bitcoin education, learning how to use it correctly and discovering the opportunities it offers.\n\nThe program covers:\n\n🟠 Understanding why bitcoin\n🟠 How to use bitcoin\n🟠 Adopting good security practices\n🟠 Recommendations of bitcoin-specific educational tools\n\nNo prior experience needed. Just curiosity.\n\nThis is part of the Road to Bitmela, a city tour leading up to India's first festival on what comes next for money. October 30–31, Jaipur.\n\nMore Details here: https://thebitmela.com/\n\nLet's get you up to speed on Bitcoin!",

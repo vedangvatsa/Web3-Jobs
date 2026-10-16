@@ -16377,5 +16377,135 @@
         }
       ]
     }
+  },
+  {
+    "id": "token2049-evt-t9Ts4NTXVMW7o9r",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 22 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-22T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/0nxi588e",
+    "registrationUrl": "https://luma.com/0nxi588e",
+    "coverImage": "/events/token2049-evt-t9ts4ntxvmw7o9r-fda95852.webp",
+    "endDate": "2026-10-22T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/0nxi588e",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/0nxi588e",
+      "eventId": "evt-t9Ts4NTXVMW7o9r",
+      "fetchedAt": "2026-10-16T08:22:24.543Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-real",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/0nxi588e",
+      "fetchedAt": "2026-10-16T08:22:24.543Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "e095a0d18c3ba39287222c00dd52d6c797e99e2dee230cd44b0bb3b2917e9e12",
+      "evidence": [
+        {
+          "url": "https://luma.com/0nxi588e",
+          "fetchedAt": "2026-10-16T08:22:24.543Z",
+          "sha256": "808b83e820ce8aff1ffbd42c969c431477cc004fdda4e3e497c9e02eb0e8ce03"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-k5CCYE5vIpcBRt6",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 29 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-29T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/tw82xsrs",
+    "registrationUrl": "https://luma.com/tw82xsrs",
+    "coverImage": "/events/token2049-evt-k5ccye5vipcbrt6-8623539f.webp",
+    "endDate": "2026-10-29T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/tw82xsrs",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/tw82xsrs",
+      "eventId": "evt-k5CCYE5vIpcBRt6",
+      "fetchedAt": "2026-10-16T08:22:24.667Z",
+      "method": "luma-api"
+    },
+    "slug": "get-down-for",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/tw82xsrs",
+      "fetchedAt": "2026-10-16T08:22:24.667Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "5f8b7fce9ef78908e2763ca8c22a17efabd17a828b0e85a3b3740d85bbfb8d5b",
+      "evidence": [
+        {
+          "url": "https://luma.com/tw82xsrs",
+          "fetchedAt": "2026-10-16T08:22:24.667Z",
+          "sha256": "03292d7d83cd706296ef339453c760235bb56eb0f3095a697007d2fe92162030"
+        }
+      ]
+    }
   }
 ]

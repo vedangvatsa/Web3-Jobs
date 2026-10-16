@@ -9057,6 +9057,24 @@ Get Down For Real is an after-hours gathering at Avenue Singapore for founders, 
 
 The October 15 listing starts at 22:30 Singapore time. Avenue's Thursday music program mixes current hits, throwbacks and hip-hop. The organizer advertises complimentary house pours from 22:00 to 01:00. Registration is listed as free and requires approval.
 
+<a id="event-7447e82f21786bbb"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-t9Ts4NTXVMW7o9r`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-22T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0nxi588e>
+
+### About the event
+
+Get Down For Real is scheduled for 22 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
 <a id="event-35f008becd0d9687"></a>
 
 ## Founder House Singapore 🇸🇬
@@ -9076,6 +9094,24 @@ Selected teams receive product, technical, go-to-market and fundraising guidance
 The organizer advertises US$300,000 in prizes and grants across several opportunities, including a US$120,000 General Builder Track, a US$60,000 Robinhood Chain Founder-in-Residence Award and a US$30,000 Robinhood Chain Innovation Award. Eligibility varies by track and most awards use milestone-based funding; attendance does not guarantee funding.
 
 Applications are reviewed on a rolling basis for 120 places. The organizer says the Join Waitlist button is the application route for this screened program. Accepted participants receive logistics, meals and onsite support. The exact Singapore location is shared with approved guests.
+
+<a id="event-2a897b3e327664be"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-k5CCYE5vIpcBRt6`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-29T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tw82xsrs>
+
+### About the event
+
+Get Down For Real is scheduled for 29 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
 
 <a id="event-629c37644de8f77d"></a>
 
@@ -18118,69 +18154,6 @@ From dApps and NFTs to DAOs and DeFi, Consensys supports builders shaping the fu
 ### About MetaMask
 
 MetaMask is the world's leading self-custody Web3 platform, trusted by millions of users globally. Developed by Consensys, MetaMask enables people to safely manage their digital identity, interact with dApps, mint NFTs, join DAOs and participate in DeFi - all while maintaining full control over their assets.
-
-<a id="event-e0534a4cd5f9dc7f"></a>
-
-## Team1 India University Workshop - PVG, Nashik
-
-- Record: `india-luma-qtv4687s`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-16T05:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qtv4687s>
-
-### Introduction
-
-Welcome to Team1 Builders Connect at PVG, Nashik - a developer-focused gathering designed for students, aspiring builders, and technology enthusiasts who want to explore the world of Web3, blockchain, and the Avalanche ecosystem.
-
-Whether you're completely new to Web3, curious about blockchain development, or already building projects, this session is your opportunity to learn, build, connect, and explore new opportunities.
-
-Join fellow students and developers from PVG, Nashik for an interactive evening featuring ecosystem insights, a hands-on introduction to Avalanche, discussions with the community, and networking with like-minded builders.
-
-Come with curiosity. Leave with ideas, connections, and the inspiration to start building.
-
-Note: A laptop is mandatory and needed to attend this workshop.
-
-### Event Program
-
-11:00 AM - Doors Open & Attendee Check-in
-
-11:15 AM - Welcome & Opening Remarks
-
-11:30 AM - Introduction to Web3, Blockchain & the Avalanche Ecosystem
-
-12:00 PM - Hands-on Builder Session: Getting Started with Avalanche
-
-12:40 PM - Student Builder Opportunities & Community Spotlight
-
-1:00 PM - Interactive Q&A Session
-
-1:20 PM - Networking, Community Connect & Refreshments
-
-2:00 PM - Closing
-
-### What You'll Explore
-
-- Introduction to Web3 and Blockchain Development
-- Understanding the Avalanche Ecosystem
-- How students can start their journey as Web3 builders
-- Hands-on learning and building opportunities
-- Developer communities, hackathons, grants, and ecosystem opportunities
-- Connecting with fellow student builders and technology enthusiasts
-
-### Who Should Attend?
-
-Students, developers, aspiring Web3 builders, blockchain enthusiasts, and anyone interested in exploring emerging technologies.
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
 
 <a id="event-6e078e0e607248c1"></a>
 
@@ -54031,47 +54004,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-5666d6e95a642bc1"></a>
-
-## Digital Assets from Pilot to Production with Tatra Banka \| Banking Breakfast
-
-- Record: `w3v-digital-assets-from-pilot-to-production-with-tatra-banka--banking-breakfast`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/djqap9zg>
-
-### About the event
-
-On September 16, we are bringing together 10 senior executives from Europe's leading financial institutions [for an invite-only breakfast - with insights into Tatra Banka](https://www.tatrabanka.sk/sk/personal/)'s digital asset approach.
-
-The morning should bring value to banks and brokers exploring digital assets and will focus on:
-
-- What triggered Tatra banka's decision to explore a crypto offering
-- How did the bank structure the journey towards a compliant, production-ready offering
-- Lessons learned along the way
-
-### Agenda
-
-08:00 - 08:15 | Arrival
-
-08:15 - 08:45 | Fireside Chat with Matej Darovec, Head of Retail Wealth Growth at Tatra Banka
-
-08:45 - 09:30 | Open Discussion
-
-Who Qualifies?
-
-Senior executives from digital asset, innovation and strategy departments at
-
-- Banks and
-- Brokers.
-
-This is a curated, closed-door event designed to keep the conversation focused and the group genuinely senior. Attendance is limited and for approved guests only. In cooperation with European Blockchain Convention.
-
-### About Trever
-
-Trever GmbH is an EU-based technology company providing financial infrastructure for stablecoins, cryptocurrencies, tokenized securities and more digital assets. It enables licensed financial institutions to execute, move, and record digital assets in one integrated system - the Digital Asset Operating System. Connecting to 40+ providers such as custodians, exchanges, liquidity providers and more, it reduces friction and operational gaps in digital asset operations. Clients include V-Bank, futurum bank, Tradias, and others.
-
 <a id="event-9889eab85e9cd679"></a>
 
 ## Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever
@@ -73323,6 +73255,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bq0qztmu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2e3062d5a0646227"></a>
+
+## Private LP Cocktails with Astronaut & Planet Cofounder Chris Boshuizen
+
+- Record: `luma-evt-ArwZ688lEgHMzKa`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/17a1mlon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-cb49aa82567cc9c2"></a>
+
+## EdTech Forward: Content, Community & What's Next
+
+- Record: `luma-evt-EDv0S8qAEOI8hQe`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y0v184eu>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
