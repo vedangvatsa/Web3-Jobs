@@ -46231,11 +46231,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d60f087c4eb2699cc91",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:18:39.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; team notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:28.224Z",
+      "retrySearches": [
+        "bOSMO bug backing holder compensation Osmosis announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "5294cd162b5cb6902201": {
       "source": "BeInCrypto",
@@ -84736,6 +84750,21 @@
           "reviewedAt": "2026-10-16T03:56:25.991Z",
           "retrySearches": [
             "Aave V4 Arc dollar euro loans shared liquidity announcement"
+          ]
+        },
+        "1d60f087c4eb2699cc91": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; team notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:28.224Z",
+          "retrySearches": [
+            "bOSMO bug backing holder compensation Osmosis announcement"
           ]
         }
       },
