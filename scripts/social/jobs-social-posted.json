@@ -13511,6 +13511,34 @@
       "attemptId": "10a4c842-83d2-4b50-864d-cdcb9ecdd988",
       "verification": "creating",
       "error": "Employer application unverified: The operation was aborted due to timeout"
+    },
+    {
+      "slug": "ops40",
+      "company": "Anchorage Digital",
+      "title": "Member of Custody Operations, Digital Assets",
+      "platform": "facebook",
+      "postedAt": "2026-10-16T11:35:04.863Z",
+      "expectedText": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/fb?og=7",
+      "snapshot": {
+        "id": "3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "title": "Member of Custody Operations, Digital Assets",
+        "company": "Anchorage Digital",
+        "link": "https://jobs.lever.co/anchorage/3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "date": "2026-09-22T13:32:12.406Z",
+        "source": "Lever: Anchorage Digital [anchorage]",
+        "location": "Remote (United States)",
+        "workplaceType": "remote",
+        "department": "Global Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops40"
+      },
+      "payload": {
+        "message": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets: https://hashtagweb3.com/ops40/fb?og=7",
+        "link": "https://hashtagweb3.com/ops40/fb?og=7"
+      },
+      "attemptId": "1052495d-81af-4944-969d-269c97f5a275",
+      "verification": "creating"
     }
   ]
 }
