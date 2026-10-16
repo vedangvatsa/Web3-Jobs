@@ -41878,25 +41878,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea82f8aa05827999312d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:03:52.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; $15.76M vault deposits at 8.31% APY are single-outlet figures. Morpho data plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/pendle-high-yield-usdc-vault-morpho/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:57:06.433Z",
+      "reason": "promotional",
+      "note": "Pendle vault topping 15M in a day; company-reported yield-product marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:41:59.062Z",
       "retrySearches": [
         "Pendle USDC vault Morpho deposits second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "b5b83e31da270755e01c": {
       "source": "CoinDesk",
@@ -82952,6 +82946,13 @@
           "note": "Phantom crossing 50 billion in perps volume; company-reported milestone marketing, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:41:56.803Z"
+        },
+        "ea82f8aa05827999312d": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Pendle vault topping 15M in a day; company-reported yield-product marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:41:59.062Z"
         }
       },
       "baselineSlugs": [
