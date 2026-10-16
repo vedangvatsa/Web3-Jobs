@@ -41287,23 +41287,23 @@
       "id": "0be72ed48d308e58f3be",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:07:23.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Evernorth Defiant page blocked again in this run; Evernorth notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Evernorth yield-push detail plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:03.341Z",
+      "reviewedAt": "2026-10-16T03:54:52.929Z",
       "retrySearches": [
-        "Evernorth Ripple Kraken Coinbase XRP yield notice second outlet"
+        "Evernorth XRP yield Ripple Kraken Coinbase BitGo"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "57e22c5974de7bf33fcc": {
       "source": "CoinDesk",
@@ -83840,6 +83840,21 @@
           "reviewedAt": "2026-10-16T03:54:50.523Z",
           "retrySearches": [
             "Polygon Coinme acquisition payments licenses announcement"
+          ]
+        },
+        "0be72ed48d308e58f3be": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Evernorth yield-push detail plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:52.929Z",
+          "retrySearches": [
+            "Evernorth XRP yield Ripple Kraken Coinbase BitGo"
           ]
         }
       },
