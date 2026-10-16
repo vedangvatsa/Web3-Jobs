@@ -1,0 +1,46 @@
+{
+  "id": "nomad-resources-2026-10-16",
+  "imageDirectory": "social-assets/nomad-resources-thread/images",
+  "posts": [
+    {
+      "text": "If you follow us for Web3 jobs, you might have missed these.\n\nWe’ve also built free resources for comparing cities, researching visas and finding communities around the world.\n\nHere’s what you can use.",
+      "image": "01-cover.jpg",
+      "alt": "Hashtag Web3's free resources for remote work and living abroad. A live city map and a Chiang Mai comparison card illustrate the collection of city, visa, community and job resources."
+    },
+    {
+      "text": "Where would you like to live?\n\nCompare 100 cities by estimated living costs, internet speed, safety, walkability and weather. Change the ranking based on what matters to you, then compare your favourites.\n\nhashtagweb3.com/nomads/x",
+      "image": "02-cities.jpg",
+      "alt": "Lisbon and Chiang Mai compared on Hashtag Web3. Their estimated monthly costs are USD 2,000 and USD 900 respectively. Also compare internet, monthly weather, safety and walkability. These are estimates, not accommodation quotes."
+    },
+    {
+      "text": "Visa-free entry doesn’t automatically give you permission to live and work somewhere.\n\nOur visa directory covers remote-work programs, income requirements and stay lengths. There’s also a passport checker for short visits.\n\nhashtagweb3.com/visas/x",
+      "image": "03-visas.jpg",
+      "alt": "Longer-stay visa programs and short-visit passport checks, illustrated with a Brazil program card and an entry map for an Indian passport. Confirm current requirements with the issuing authority."
+    },
+    {
+      "text": "You can spend time working alongside people you’d otherwise only meet online.\n\nOur Popups directory includes builder villages, coliving communities and startup societies. Some host temporary gatherings; others have a permanent home.\n\nhashtagweb3.com/popups/x",
+      "image": "04-communities.jpg",
+      "alt": "Real photographs from Edge City, Crecimiento in Buenos Aires, and 4Seas in Chiang Mai. The directory includes temporary gatherings and permanent coliving and coworking communities. Photos from the communities' galleries via xyz.city."
+    },
+    {
+      "text": "Looking for work?\n\nWe list Web3 roles in marketing, content, community, design, operations and engineering.\n\nRead the location requirements carefully. A remote role can still require you to live in a particular country.\n\nhashtagweb3.com/jobs/x",
+      "image": "05-jobs.jpg",
+      "alt": "Listing examples captured 16 October 2026: Content Lead at Superteam Talent, Project Management Officer at Trust Wallet, and Staff Software Engineer at Phantom. Location labels are shown. Read each role's eligibility requirements."
+    },
+    {
+      "text": "Researching citizenship by investment?\n\nCompare published routes, required contributions or investments, additional costs and official sources.\n\nThe advertised minimum is only part of the bill. Check the fees and requirements alongside it.\n\nhashtagweb3.com/citizenship/x",
+      "image": "06-citizenship.jpg",
+      "alt": "A Nauru and Vanuatu citizenship comparison highlights additional fees beyond advertised minimum contributions. Application fees, due diligence and agent charges can add to the total. Official program sources are linked on the site."
+    },
+    {
+      "text": "You can use these to research a move, plan a longer trip or see what your options are.\n\nWhat would you like us to cover next?\n\n• Cities and living costs\n• Visa options\n• Communities to visit\n• Jobs open to applicants worldwide",
+      "image": "07-resource-links.jpg",
+      "alt": "Five free Hashtag Web3 resources: hashtagweb3.com/nomads, hashtagweb3.com/visas, hashtagweb3.com/popups, hashtagweb3.com/jobs and hashtagweb3.com/citizenship. What would you like us to cover next?"
+    }
+  ],
+  "picturedJobs": [
+    { "id": "955eca58-f234-4fc9-ae95-8cde7377bbe5", "slug": "con2", "title": "Content Lead", "company": "Superteam Talent", "link": "https://talent.superteam.fun/jobs/content-lead-at-superteam-talent-955eca58-f234-4fc9-ae95-8cde7377bbe5", "date": "2026-10-07T16:49:59.344992+00:00", "dateVerified": true, "active": true },
+    { "id": "ef6c1253-c7bb-466e-8a7c-9a451df784b2", "slug": "pmop", "title": "Project Management Officer (PMO) - Web3", "company": "Trust Wallet", "link": "https://jobs.ashbyhq.com/trust-wallet/ef6c1253-c7bb-466e-8a7c-9a451df784b2", "date": "2026-10-15T07:50:14.257+00:00", "dateVerified": true, "active": true },
+    { "id": "b853c28e-15a7-4dac-be01-b0fbc00cd006", "slug": "eng611", "title": "Staff Software Engineer (SRE)", "company": "Phantom", "link": "https://jobs.ashbyhq.com/Phantom/b853c28e-15a7-4dac-be01-b0fbc00cd006", "date": "2026-10-15T16:48:04.085+00:00", "dateVerified": true, "active": true }
+  ]
+}

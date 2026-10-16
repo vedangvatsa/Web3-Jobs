@@ -1,0 +1,55 @@
+name: Publish approved nomad resource thread
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Read-only preflight or publish the approved seven-post thread
+        type: choice
+        options: [preflight, publish]
+        default: preflight
+      platform:
+        description: Target platform
+        type: choice
+        options: [both, x, threads]
+        default: both
+
+concurrency:
+  group: approved-nomad-resource-thread
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Check approved text, images and receipt validation
+        run: |
+          node --import tsx --test scripts/social/publish-nomad-thread.test.mjs
+          node --import tsx scripts/social/publish-nomad-thread.mjs --mode=validate
+      - name: Publish or verify approved resource thread
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_MODE: ${{ inputs.mode }}
+          PUBLISH_PLATFORM: ${{ inputs.platform }}
+        run: node --import tsx scripts/social/publish-nomad-thread.mjs --mode="$PUBLISH_MODE" --platform="$PUBLISH_PLATFORM"
+      - name: Preserve publication receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nomad-thread-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .cache/nomad-thread-publish/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
