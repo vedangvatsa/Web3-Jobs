@@ -770,6 +770,9 @@
   "https://hashtagweb3.com/jio-perpetuals?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strive-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zachxbt-syndicate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/core-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2212,6 +2215,12 @@
   "Strive buys 2,000 BTC and opens $500M buyback facility for SATA preferred stock",
   "ZachXBT Exposes Lazarus Group Launderers Linked to Bybit Hack",
   "ZachXBT Says He Posed as Client to Expose Lazarus Launderers",
+  "Tether unblocks THORChain Tron vaults after brief freeze",
+  "Tether blacklists four THORChain vaults, then reverses within hours",
+  "Bitcoin Core Patches SIGHASH_SINGLE Vulnerability",
+  "Bitcoin Core Merged Fix for SIGHASH_SINGLE Signing Gap on September 25",
+  "Circle Proposes Changes to EU MiCA Stablecoin Regulations",
+  "Circle Asks EU to Keep Multi-Issuance and Ease MiCA Reserve Rules",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2511,5 +2520,8 @@
   "fp:18m|auction|bas|buyer|dcg|draper|galaxy|individual|join|rais",
   "fp:20x|ahead|bitget|contract|futur|indian|ipo|jio|jiousdt|leverag",
   "fp:000|462|500m|alongsid|btc|buyback|buys2|facility|fil|open",
-  "fp:12m|700|bybit|chines|client|expos|fund|group|hack|infiltrat"
+  "fp:12m|700|bybit|chines|client|expos|fund|group|hack|infiltrat",
+  "fp:145m|access|blacklist|brief|briefly|four|freez|fund|hour|lock",
+  "fp:cor|developer|fix|gap|integrat|issu|merg|patch|september25|sighash",
+  "fp:allow|ask|bank|chang|circl|deposit|eas|issuanc|keep|liquidity"
 ]
