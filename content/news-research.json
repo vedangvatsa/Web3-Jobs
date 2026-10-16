@@ -44680,11 +44680,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a4a98c04d2da6374bb1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:22:43.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece; direct P2P trades banned from July 2027. Central bank text plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:58:04.166Z",
+      "retrySearches": [
+        "Russia P2P crypto ban July 2027 central bank self-custody"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "17a17a5ab814738ae2e5": {
       "source": "Bankless",
@@ -85378,6 +85392,21 @@
           "reviewedAt": "2026-10-16T03:58:01.768Z",
           "retrySearches": [
             "EBA Circle USDC significant e-money token decision"
+          ]
+        },
+        "5a4a98c04d2da6374bb1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece; direct P2P trades banned from July 2027. Central bank text plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:04.166Z",
+          "retrySearches": [
+            "Russia P2P crypto ban July 2027 central bank self-custody"
           ]
         }
       },
