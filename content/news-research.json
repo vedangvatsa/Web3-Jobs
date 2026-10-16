@@ -46323,11 +46323,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f2d40bf907c032ce603f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:24:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Google AI news program with CNN and Axios; media deal, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:56.409Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "597d06247ddfff74ee20": {
       "source": "Crypto Briefing",
@@ -82733,6 +82738,13 @@
           "note": "Epoch AI compute estimates in NYT visuals; AI research coverage, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:54.130Z"
+        },
+        "f2d40bf907c032ce603f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google AI news program with CNN and Axios; media deal, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:56.409Z"
         }
       },
       "baselineSlugs": [
