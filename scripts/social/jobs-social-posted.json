@@ -13469,9 +13469,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "9311b1c4-be3d-4451-92a0-93ab0783b4d7",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad20c801ffe47098029c26e",
-      "error": "LinkedIn CVin.Bio receipt 6ad20c801ffe47098029c26e remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad20c801ffe47098029c26e remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7516824756327993345"
     },
     {
       "slug": "ops40",
