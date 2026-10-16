@@ -46071,11 +46071,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "47940b0c31cdc5ead5b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:34:48.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 MSCI Strategy and Metaplanet index risk as covered in /msci.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:35.777Z",
+      "duplicateOf": "msci",
+      "mergedInto": "6c59b48dc370bbd1fc14",
+      "lastReviewedDay": "2026-10-16"
     },
     "95ee04480f78d7f3cbf7": {
       "source": "Crypto Briefing",
@@ -83216,6 +83223,15 @@
           "note": "Same Oct 15 MSCI Strategy removal risk as covered in /msci.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:33.449Z",
+          "duplicateOf": "msci",
+          "mergedInto": "6c59b48dc370bbd1fc14"
+        },
+        "47940b0c31cdc5ead5b1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 MSCI Strategy and Metaplanet index risk as covered in /msci.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:35.777Z",
           "duplicateOf": "msci",
           "mergedInto": "6c59b48dc370bbd1fc14"
         }
