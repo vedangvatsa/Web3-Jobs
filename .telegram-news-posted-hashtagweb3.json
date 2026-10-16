@@ -740,6 +740,9 @@
   "https://hashtagweb3.com/jio-perpetuals?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitfinex-move?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sepolia-fork?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/spiko-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/umia-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zec-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2128,6 +2131,12 @@
   "US government moves $1B in seized Bitfinex bitcoin to unlabeled wallets",
   "Ethereum Launches Glamsterdam Upgrade on Sepolia Testnet",
   "Ethereum Activates Glamsterdam Upgrade on Sepolia Testnet",
+  "Spiko raises $90 million Series B led by NEA",
+  "Spiko raises $90M Series B led by NEA to expand tokenized cash funds",
+  "Umia raises $6 million via Base token auction",
+  "Umia raises $6M through Base token auction joined by Galaxy, DCG and Draper",
+  "Winklevoss Asset Services Files for Spot Zcash ETF",
+  "Winklevoss Files for Spot Zcash ETF With WINK Ticker",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2418,5 +2427,8 @@
   "fp:asset|begin|expect|firm|ipo|market|newly|not|ondo|pre",
   "fp:20x|ahead|bitget|contract|futur|india|ipo|jio|jiousdt|leverag",
   "fp:000|address|authority|bitfinex|controll|government|mov|october8|over12|seiz",
-  "fp:200m|activat|block|glamsterdam|limit|october6|rul|sepolia|start|test"
+  "fp:200m|activat|block|glamsterdam|limit|october6|rul|sepolia|start|test",
+  "fp:120m|26b|90m|asset|bas|cash|expand|fintech|fund|manag",
+  "fp:18m|auction|bas|dcg|draper|galaxy|includ|investor|join|rais",
+  "fp:asset|custody|etf|fee|fil|firm|gemini|nasdaq|percent|servic"
 ]

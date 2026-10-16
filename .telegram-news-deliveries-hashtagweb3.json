@@ -1461,7 +1461,7 @@
     "sentAt": "2026-10-15T19:33:39.406Z"
   },
   "2932f20c-9f92-4d32-9985-cf1506d97c96": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T04:22:34.355Z",
     "stories": [
       {
@@ -1489,6 +1489,8 @@
         "originalTitle": "Winklevoss Files for Spot Zcash ETF With WINK Ticker"
       }
     ],
-    "slotKey": "2026-10-16:morning"
+    "slotKey": "2026-10-16:morning",
+    "messageId": 155786,
+    "sentAt": "2026-10-16T04:22:40.144Z"
   }
 }
