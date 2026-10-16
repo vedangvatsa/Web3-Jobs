@@ -39056,27 +39056,23 @@
       "id": "81b2c5c70aa7aadb27b7",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T04:36:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CoinDesk account of the same UK robbery; the Defiant version is blocked and police have not confirmed. Police confirmation plus second-outlet confirmation still needed.",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; second-outlet confirmation of the police report still missing.",
       "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:09.656Z",
+      "reviewedAt": "2026-10-16T03:53:46.316Z",
       "retrySearches": [
-        "UK knifepoint robbery police confirmation second outlet"
+        "UK crypto trader knifepoint robbery police report second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "627591d0728987efa33f": {
       "source": "CryptoSlate",
@@ -83425,6 +83421,21 @@
           "reviewedAt": "2026-10-16T03:52:31.546Z",
           "duplicateOf": "brooklyn",
           "mergedInto": "4c9fccd65ca7115a6f14"
+        },
+        "81b2c5c70aa7aadb27b7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; second-outlet confirmation of the police report still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:53:46.316Z",
+          "retrySearches": [
+            "UK crypto trader knifepoint robbery police report second outlet"
+          ]
         }
       },
       "baselineSlugs": [
