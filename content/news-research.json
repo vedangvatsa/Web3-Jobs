@@ -46458,11 +46458,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f5d9ad6cbe8dd92354a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:07:30.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on regulating operators not the chain. Full remarks plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/hyperliquid-jeff-yan-us-compliance-plan/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:58:08.602Z",
+      "retrySearches": [
+        "Hyperliquid Jeff Yan US compliance operators not chain remarks"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "352a9579f15f7c9e221f": {
       "source": "Crypto Briefing",
@@ -85422,6 +85436,21 @@
           "reviewedAt": "2026-10-16T03:58:06.358Z",
           "retrySearches": [
             "Coins.ph BSP license gambling links order"
+          ]
+        },
+        "5f5d9ad6cbe8dd92354a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on regulating operators not the chain. Full remarks plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/hyperliquid-jeff-yan-us-compliance-plan/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:08.602Z",
+          "retrySearches": [
+            "Hyperliquid Jeff Yan US compliance operators not chain remarks"
           ]
         }
       },
