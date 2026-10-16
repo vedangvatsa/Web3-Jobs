@@ -36644,23 +36644,23 @@
       "id": "8368331cd113dec88465",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T01:00:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece with customer counts and the Coins.ph funds-safe statement. BSP order plus scope confirmation still needed.",
+      "note": "Opened the CoinDesk piece with customer counts and the funds-safe claim. BSP order plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:38.130Z",
+      "reviewedAt": "2026-10-16T03:58:27.207Z",
       "retrySearches": [
-        "Coins.ph BSP order scope confirmation second outlet"
+        "Coins.ph central bank regulatory action BSP order scope"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "9e609fcefdc5312a8997": {
       "source": "Crypto Briefing",
@@ -85556,6 +85556,21 @@
           "reviewedAt": "2026-10-16T03:58:24.830Z",
           "retrySearches": [
             "XBOW Chrome exploit GPT bounty Google bulletin"
+          ]
+        },
+        "8368331cd113dec88465": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece with customer counts and the funds-safe claim. BSP order plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:27.207Z",
+          "retrySearches": [
+            "Coins.ph central bank regulatory action BSP order scope"
           ]
         }
       },
