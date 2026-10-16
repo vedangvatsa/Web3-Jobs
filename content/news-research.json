@@ -46663,11 +46663,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f37be905c165b5b4eeb8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:42:58.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph column on the scammer's $4.8M tampered-Ledger loss. Loss evidence plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:57.491Z",
+      "retrySearches": [
+        "scammer 4.8M tampered Ledgers Asia Express evidence"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ddd5edbee98d192ff431": {
       "source": "Crypto Briefing",
@@ -86289,6 +86303,21 @@
           "reviewedAt": "2026-10-16T03:59:55.164Z",
           "retrySearches": [
             "USDC EBA supervision Circle EU reserves November 12"
+          ]
+        },
+        "f37be905c165b5b4eeb8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph column on the scammer's $4.8M tampered-Ledger loss. Loss evidence plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:57.491Z",
+          "retrySearches": [
+            "scammer 4.8M tampered Ledgers Asia Express evidence"
           ]
         }
       },
