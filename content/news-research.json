@@ -46212,11 +46212,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5294cd162b5cb6902201",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:08:51.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 MSCI Strategy removal risk as covered in /msci.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:33.449Z",
+      "duplicateOf": "msci",
+      "mergedInto": "6c59b48dc370bbd1fc14",
+      "lastReviewedDay": "2026-10-16"
     },
     "5f5d9ad6cbe8dd92354a": {
       "source": "Crypto Briefing",
@@ -83200,6 +83207,15 @@
           "note": "Same Oct 15 MSCI non-operating index rules as covered in /msci.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:31.139Z",
+          "duplicateOf": "msci",
+          "mergedInto": "6c59b48dc370bbd1fc14"
+        },
+        "5294cd162b5cb6902201": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 MSCI Strategy removal risk as covered in /msci.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:33.449Z",
           "duplicateOf": "msci",
           "mergedInto": "6c59b48dc370bbd1fc14"
         }
