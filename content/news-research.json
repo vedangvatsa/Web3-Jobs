@@ -45189,11 +45189,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "74f6e589f5f2fe265538",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T18:16:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Fink warning on AI data-center halt and recession; macro commentary, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:45.096Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "3425f1d23186e4280d8a": {
       "source": "CryptoSlate",
@@ -82673,6 +82678,13 @@
           "note": "Google statement on AI-written code share; AI industry story, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:42.643Z"
+        },
+        "74f6e589f5f2fe265538": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Fink warning on AI data-center halt and recession; macro commentary, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:45.096Z"
         }
       },
       "baselineSlugs": [
