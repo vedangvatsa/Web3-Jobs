@@ -2176,5 +2176,57 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 155787,
     "sentAt": "2026-10-16T11:31:40.413Z"
+  },
+  "f752516b-1327-4e51-a0e3-5794d576d1ca": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T19:33:00.784Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-official-defi-security-summit-day-1-11-01",
+        "slug": "defi-security-summit",
+        "name": "DeFi Security Summit 2026",
+        "startDate": "2026-11-01T04:30:00.000Z",
+        "keys": [
+          "ibw-official-defi-security-summit-day-1-11-01",
+          "dssd1",
+          "ibw-official-defi-security-summit-day-2-11-02",
+          "dssd2",
+          "page:defi-security-summit:2026-11-01",
+          "luma:evt-gotdugq76banhoq",
+          "luma-url:/9qtxqqxx",
+          "event:defisecuritysummit2026:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "india-luma-bornlive-tpiy",
+        "slug": "born-up-ibw-mumbai",
+        "name": "BORN UP - India Blockchain Week Mumbai Community Networking Meetup",
+        "startDate": "2026-11-01T06:00:00.000Z",
+        "keys": [
+          "india-luma-bornlive-tpiy",
+          "page:born-up-ibw-mumbai:2026-11-01",
+          "luma:evt-8auyraqull9tgpm",
+          "luma-url:/bornlive-tpiy",
+          "event:bornupindiablockchainweekmumbaicommunitynetworkingmeetup:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "luma-crypto-8dntupEO60aiWT5",
+        "slug": "solana-hacker-house-london",
+        "name": "Solana Hacker House - London",
+        "startDate": "2026-11-01T10:00:00.000Z",
+        "keys": [
+          "luma-crypto-8dntupeo60aiwt5",
+          "shhlon",
+          "page:solana-hacker-house-london:2026-11-01",
+          "luma:evt-8dntupeo60aiwt5",
+          "luma-url:/london-hh-26",
+          "event:solanahackerhouselondon:2026-11-01:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-16:evening"
   }
 }
