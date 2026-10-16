@@ -34410,23 +34410,23 @@
       "id": "5efd684dc286826e49ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T01:24:19.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; BSP deposit restrictions and compliance departures reported. BSP statement plus a second outlet still needed.",
+      "note": "Opened the Crypto Briefing piece on gambling-link license risk. BSP order plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:36.031Z",
+      "reviewedAt": "2026-10-16T03:58:06.358Z",
       "retrySearches": [
-        "Coins.ph BSP deposit restrictions statement second outlet"
+        "Coins.ph BSP license gambling links order"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "65afd8ed565fe446f4ae": {
       "source": "Crypto Briefing",
@@ -85407,6 +85407,21 @@
           "reviewedAt": "2026-10-16T03:58:04.166Z",
           "retrySearches": [
             "Russia P2P crypto ban July 2027 central bank self-custody"
+          ]
+        },
+        "5efd684dc286826e49ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on gambling-link license risk. BSP order plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coins-ph-potential-license-loss-gambling/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:06.358Z",
+          "retrySearches": [
+            "Coins.ph BSP license gambling links order"
           ]
         }
       },
