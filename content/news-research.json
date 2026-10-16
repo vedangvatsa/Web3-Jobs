@@ -44500,11 +44500,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "57a4487f426820e1dac1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T20:21:11.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece; $1B valuation and $100M round per report. Company confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:59.403Z",
+      "retrySearches": [
+        "Binance.US 1 billion valuation 100M funding confirmation"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e7eeb64fa6a37a8224f5": {
       "source": "CoinDesk",
@@ -85334,6 +85348,21 @@
           "reviewedAt": "2026-10-16T03:57:57.177Z",
           "retrySearches": [
             "Bo Hines Tether payments GENIUS Act WSJ report"
+          ]
+        },
+        "57a4487f426820e1dac1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece; $1B valuation and $100M round per report. Company confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:59.403Z",
+          "retrySearches": [
+            "Binance.US 1 billion valuation 100M funding confirmation"
           ]
         }
       },
