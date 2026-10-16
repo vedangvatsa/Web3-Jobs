@@ -407,5 +407,40 @@
       "luma-crypto-z6iegsizumli2vk",
       "gph"
     ]
+  },
+  "luma-evt-6JkeUvDvzC7PPVG": {
+    "until": "2027-10-16T03:32:17.519Z",
+    "slugs": [
+      "luma-evt-6jkeuvdvzc7ppvg",
+      "bitcoin-203"
+    ]
+  },
+  "luma-crypto-zuDksxJDUNwJPeA": {
+    "until": "2027-10-16T03:32:17.519Z",
+    "slugs": [
+      "luma-crypto-zudksxjdunwjpea",
+      "hhrrplatd"
+    ]
+  },
+  "luma-crypto-zl6DtS5kcStwRD4": {
+    "until": "2027-10-16T03:32:17.519Z",
+    "slugs": [
+      "luma-crypto-zl6dts5kcstwrd4",
+      "csgts1akim"
+    ]
+  },
+  "luma-crypto-6yaihxXw5L1PwvS": {
+    "until": "2027-10-16T03:32:17.519Z",
+    "slugs": [
+      "luma-crypto-6yaihxxw5l1pwvs",
+      "tech-tuesd"
+    ]
+  },
+  "luma-crypto-jveLeulkGyCSqU2": {
+    "until": "2027-10-16T03:32:17.519Z",
+    "slugs": [
+      "luma-crypto-jveleulkgycsqu2",
+      "dafrl"
+    ]
   }
 }

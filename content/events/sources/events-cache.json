@@ -313,62 +313,6 @@
     }
   },
   {
-    "id": "luma-evt-6JkeUvDvzC7PPVG",
-    "name": "Bitcoin 203: Multi-Sig Transactions: Securing Your Bitcoin with Multiple Keys",
-    "description": "Looking for the ultimate in Bitcoin security? Locking your bitcoin with multiple keys is a simple, effective solution!\n\nBitcoin educator and Space member, Tim McTavish, will teach you how to easily create your own multi-sig solution using Sparrow Wallet. No third-party needed!\n\nDuring this session, we will create a 2-of-3 multi-sig using three keys from participants. We will send ~$20 USD worth of bitcoin to this wallet. From there, we will randomly select a participant to receive this bitcoin. We will then execute a 2-of-3 signature, sending the bitcoin from our multi-sig to this lucky participant!\n\nWhat you'll learn:\nWhat is a multi-sig?\nWhy and when should I use multi-sig?\nHow do you best manage multi-sig keys?\nWhat is a PSBT file and how/when might I use it?\n\nWhat to bring (optional):\nA \"receive\" address in case you are the lucky winner of $20 worth of bitcoin!\nYour laptop with Sparrow Wallet installed\nYour signing device\n\nAgenda:\nDoors open: 530pm\nDiscussion: 6pm - 7pm\nDiscussion/Q&A: 7pm - 8pm\nDrinks will be provided",
-    "startDate": "2026-09-15T23:30:00.000Z",
-    "endDate": "2026-09-16T02:00:00.000Z",
-    "city": "Denver",
-    "country": "United States",
-    "location": "3700 Franklin St, Denver, CO 80205, USA",
-    "url": "https://lu.ma/4p3q8raj",
-    "coverImage": "/events/luma-evt-6jkeuvdvzc7ppvg-6258548d.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bitcoin-203",
-    "timezone": "America/Denver",
-    "registrationUrl": "https://luma.com/4p3q8raj",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "3700 Franklin St",
-    "streetAddress": "3700 Franklin St, Denver",
-    "addressLocality": "Denver",
-    "addressRegion": "Colorado",
-    "addressCountry": "US",
-    "neighborhood": "Cole",
-    "coordinates": {
-      "latitude": 39.7682611,
-      "longitude": -104.96813019999999
-    },
-    "hosts": [
-      "The Space"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "The Space - Event Calendar",
-      "url": "https://denver.space/"
-    },
-    "price": "Free",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/4p3q8raj",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/4p3q8raj",
-      "eventId": "evt-6JkeUvDvzC7PPVG",
-      "fetchedAt": "2026-09-19T23:49:33.389Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-oGq7JRJkO9n7UNV",
     "name": "Superteam member office hours",
     "description": "Office hours for Superteam Members.Every Wednesday at 2:30pm UTC.Come rant and ask any questions regarding:- marketing support- grants and milestones- product feedback- pitch feedback- ecosystem intros- fundraising etc.Hosted by Josip Volarević\n\n## Event details\n\nHosted by Josip Volarević (Technical founder), Superteam. The event takes place on September 23. Registration requires organizer approval.",
@@ -3251,7 +3195,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316361033/",
     "coverImage": "/events/zk-learning-group-zero-knowledge-bridges-9c50f897.webp",
     "source": "meetup",
-    "month": "September 2026"
+    "month": "September 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-rayls-in-seoul",
@@ -21161,7 +21108,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22213,10 +22160,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22796,13 +22740,13 @@
     "id": "luma-host-evt-evt-jAsxvsyCZCb8JkA",
     "name": "Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)",
     "description": "",
-    "startDate": "2026-10-27T18:30:00.000Z",
-    "endDate": "2026-10-27T21:30:00.000Z",
+    "startDate": "2026-10-27T16:00:00.000Z",
+    "endDate": "2026-10-27T19:30:00.000Z",
     "city": "Lisboa",
     "country": "Portugal",
     "location": "Lisboa, Portugal",
     "url": "https://luma.com/5u109wun",
-    "coverImage": "/events/luma-host-evt-evt-jasxvsyczcb8jka-7ca17909.webp",
+    "coverImage": "/events/luma-host-evt-evt-jasxvsyczcb8jka-8eca6057.webp",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -24295,5 +24239,131 @@
     "url": "https://luma.com/0ej7kbb0",
     "coverImage": "/events/w3v-ethwali-26-11-08-b0a036fc.webp",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-1JE349eq1rNgf3w",
+    "name": "Intro to Soldering & Electronics: Make A Mini Piano",
+    "description": "",
+    "startDate": "2026-10-17T18:00:00.000Z",
+    "endDate": "2026-10-17T21:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/mfq4ajz9",
+    "coverImage": "/events/luma-evt-1je349eq1rngf3w-dee74ab2.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-D7XC7EDEpLaQI2A",
+    "name": "Solo Unicorn Roundtable · Series 04",
+    "description": "",
+    "startDate": "2026-10-17T18:00:00.000Z",
+    "endDate": "2026-10-17T21:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/y4uu0xv2",
+    "coverImage": "/events/luma-evt-d7xc7edeplaqi2a-1262cec7.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-Icr0U7ovq9nQQ2Q",
+    "name": "places i saw you last: Live Ambient Electronic Set",
+    "description": "",
+    "startDate": "2026-10-18T00:30:00.000Z",
+    "endDate": "2026-10-18T02:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/nmh0sozp",
+    "coverImage": "/events/luma-evt-icr0u7ovq9nqq2q-8aad8584.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-UemBh6MGbhbQgud",
+    "name": "[Free women only hike]: Siete Picos (moderate-hard)",
+    "description": "",
+    "startDate": "2026-10-18T07:00:00.000Z",
+    "endDate": "2026-10-18T15:30:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/il2yq5cy",
+    "coverImage": "/events/luma-evt-uembh6mgbhbqgud-b2546067.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-43nq7ewgXJQdbAr",
+    "name": "⚡ ENERGY TRANSITION VALLEY GOES TO SILICON VALLEY!",
+    "description": "",
+    "startDate": "2026-10-20T00:05:00.000Z",
+    "endDate": "2026-10-20T02:07:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/b2xxmxxr",
+    "coverImage": "/events/luma-evt-43nq7ewgxjqdbar-fee6c649.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-H1GEOEuxvdcGh7m",
+    "name": "Building Apps and Communities on Solana",
+    "description": "",
+    "startDate": "2026-10-20T17:00:00.000Z",
+    "endDate": "2026-10-20T19:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://luma.com/vgqemfnq",
+    "coverImage": "/events/luma-host-evt-evt-h1geoeuxvdcgh7m-17c29a20.webp",
+    "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-gB6aUcbSSSmFnBB",
+    "name": "InPulse: Taller práctico: Estrategia vs ruido: ¿para qué sirven realmente las redes sociales en un proyecto cultural?",
+    "description": "",
+    "startDate": "2026-10-21T15:00:00.000Z",
+    "endDate": "2026-10-21T17:00:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/4yisttd3",
+    "coverImage": "/events/luma-evt-gb6aucbsssmfnbb-90abd81a.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-sABP038MPW4T97y",
+    "name": "Chef Night with Nico",
+    "description": "",
+    "startDate": "2026-10-23T02:00:00.000Z",
+    "endDate": "2026-10-23T05:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/a3q4ytie",
+    "coverImage": "/events/luma-evt-sabp038mpw4t97y-04c6b530.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-315688633",
+    "name": "Modeling Your Business with Ontologies in Fabric IQ",
+    "description": "Learn how to create the semantic foundation that powers business-aware agents. In this session, we'll explore how ontologies in Fabric IQ model the entities, relationships, and concepts that define yo",
+    "startDate": "2026-10-29T09:00:00-07:00",
+    "endDate": "2026-10-29T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315688633/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]

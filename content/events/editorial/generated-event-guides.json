@@ -479,41 +479,6 @@
       }
     ]
   },
-  "luma-evt-6JkeUvDvzC7PPVG": {
-    "summaryLead": "Bitcoin 203 at The Space in Denver walks attendees through multi-sig security live on September 15-16, 2026: build a 2-of-3 wallet with Sparrow, load it with about $20 of bitcoin, then watch a random participant walk out with the coins.",
-    "sections": [
-      {
-        "heading": "Bring Keys, Leave With Someone Else's Bitcoin",
-        "content": [
-          "Most security talks end with a checklist. This one ends with a transaction. The Space, Denver's self-described Bitcoin hub at 3700 Franklin St, is running Bitcoin 203: Multi-Sig Transactions - Securing Your Bitcoin with Multiple Keys, listed across September 15 and 16, 2026, and built around a demonstration you can lose money to or win money from.",
-          "Here is the setup as the hosts describe it: participants contribute three keys to create a 2-of-3 multi-sig wallet using Sparrow Wallet, no third party required. About twenty dollars' worth of bitcoin goes in. A random participant is selected, and the room then executes a proper two-of-three signing ceremony to move those coins to the winner. Security education disguised as a raffle - the best kind."
-        ]
-      },
-      {
-        "heading": "The Live Demo, Step by Step",
-        "content": [
-          "Tim McTavish, a Bitcoin educator and Space member, leads the session. The evening shape is straightforward: doors open at 5:30 p.m., discussion runs 6 to 7 p.m., and a second hour of discussion and Q&A carries things to 8 p.m., drinks provided throughout. Registration is free, which makes the cost of admission versus the potential twenty-dollar payout a genuinely funny trade.",
-          "The hands-on angle is the point. Watching someone construct a multi-sig on a projector teaches you the mechanics; constructing it yourself, with your own signing device on the table, teaches you where the failure modes hide. Bring your laptop with Sparrow installed and your hardware signer if you want the full experience."
-        ]
-      },
-      {
-        "heading": "Syllabus: Multi-Sig, Key Custody and PSBTs",
-        "content": [
-          "The stated learning goals cover four questions: what a multi-sig actually is, when and why you should use one, how to manage multiple keys responsibly, and what a PSBT file is along with when it earns its keep. That last item - partially signed Bitcoin transactions - is the unglamorous plumbing that makes collaborative custody and air-gapped signing workable.",
-          "Optional homework before arrival: have a receive address ready in case you win the demo payout, and install Sparrow Wallet ahead of time so the room isn't stuck on downloads. Nobody needs another evening spent watching a progress bar."
-        ]
-      },
-      {
-        "heading": "The Space, Denver's Bitcoin Hub",
-        "content": [
-          "Context helps: The Space operates as a dedicated Denver venue and event calendar for Bitcoin programming, with an active YouTube channel and a community that treats self-custody as a teachable skill rather than a product upsell. Bitcoin 203 implies earlier chapters, and the numbering suggests a curriculum, not a one-off.",
-          "For Coloradans holding coins on an exchange and meaning to fix that someday, this is the rare low-stakes entry point - free to attend, small enough to ask embarrassing questions, and structured so the abstract horror of losing keys becomes a concrete procedure you have literally practiced.",
-          "Worth noting for skeptics: teaching multi-sig through a live payout cleverly aligns incentives. Participants watch real coins move under real constraints, so the difference between a signed transaction and an unsigned one stops being theory by evening's end. The Space has built its reputation on exactly this style of applied programming - workshops and community nights run out of the Franklin Street venue with a YouTube archive behind them - and the Bitcoin 203 numbering implies earlier sessions covered fundamentals. Anyone who missed those can still follow along; the structure assumes curiosity rather than expertise, and the second hour exists precisely for questions people hesitate to ask elsewhere. Worst case, you leave understanding why your exchange balance deserves better; best case, you win twenty dollars for holding a key correctly.",
-          "Doors at 5:30 p.m.; bring a signer."
-        ]
-      }
-    ]
-  },
   "luma-evt-XVgMezNYKSfYZHA": {
     "summaryLead": "MyWeb3 throws its official launch party in Fullerton, California on Saturday, September 12, 2026 - part celebration, part hands-on training where creators and small-business owners set up profiles live, eat free food and learn to accept payments across PayPal, Venmo, Zelle, CashApp and crypto.",
     "sections": [

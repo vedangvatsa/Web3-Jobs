@@ -19329,165 +19329,6 @@ The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovati
 
 Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
-<a id="event-567e35c8db483b6a"></a>
-
-## HAPPY HOUR AT THE RIPPLE ROOM FOR PODCAST LOVERS (AKA TINK DRINKS)
-
-- Record: `luma-crypto-zuDksxJDUNwJPeA`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/yu2ik5pq>
-
-### About the event
-
-We'll be at The Ripple Room with cool podcast people and would love to see you there! We'll be hanging out upstairs.
-
-Hosted by Lauren Passell and Arielle Nissenblatt, this is the Podcast Movement version of Lauren's semi-regular TINK DRINKS at The Ripple Room. Come by for a drink, some salty chips, and to mingle with some podcast people. Whether you're in town for Podcast Movement or you're just a podcast person, this is for you!
-
-[Learn more about Tink Media](https://tinkmedia.co/)
-
-[Learn more about EarBuds](https://www.earbudspodcastcollective.org/)
-
-[Learn more about Well It Depends Labs](https://wellitdependslabs.com/)
-
-<a id="event-bd12c3ca2843ab83"></a>
-
-## Tech Tuesdays: Blockchain Week - UNGA Edition
-
-- Record: `luma-crypto-6yaihxXw5L1PwvS`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tech-tuesdays>
-
-### About the event
-
-The official Liberland meetup of the week
-
-Join us for a special edition of Tech Tuesdays in the heart of Times Square during Blockchain Week - UNGA Edition, September 10 to 19, 2026.
-
-As the United Nations General Assembly convenes in New York, we are bringing together builders, founders, developers, investors, creatives and impact-focused professionals for an evening of meaningful conversation and high-quality networking.
-
-Liberland at Times Square
-
-This is the official meetup spot for Liberlanders and supporters of Liberland during Blockchain Week - UNGA Edition. If you are in New York for the week, this is where the Liberland community gathers. Come meet fellow citizens, supporters and the curious, and hear where the project stands heading into 2027.
-
-Liberland has been part of Blockchain Week for years, and President Vít Jedlička returns to the program again this year. Whether you hold a Liberland passport, follow the project, or are hearing about it for the first time, you are welcome here.
-
-### What to Expect
-
-Multiple high-level panels on emerging technology and how blockchain creates real-world impact: sustainability, transparent aid, AI and energy, digital public infrastructure, space technology, and fashion innovation.
-
-Relaxed, vibrant networking in one of the most energetic locations in the world.
-
-A prime spot in iconic Times Square, steps from our three-screen marquee on the front of the Hard Rock, which runs throughout the event.
-
-Whether you are deep in Web3 or simply blockchain-curious, this event is free and open to everyone.
-
-### Details
-
-Date: Tuesday, September 15, 2026
-
-Time: 6:00 PM to 9:00 PM
-
-Location: Legends Bar and the New York Room, Hard Rock Cafe Times Square, Manhattan, NY
-
-Free to attend. RSVP here so we can plan the room.
-
-The Rest of the Week
-
-Tech Tuesdays is one of 12+ official events across the 10-day program, September 10 to 19. The week includes the Orbital Runway opening night on the 10th, the two-day flagship conference on the 16th and 17th, BitcoinPalooza as the official after party, the Washington Elite Investment Summit and Gala on the 18th, and the Pause the World for Peace concert in Times Square on the 19th.
-
-[Full program and tickets at blockchainweek.ai](https://blockchainweek.ai)
-
-Blockchain Week 2026 (UNGA Edition) is an independent initiative and is not affiliated with the United Nations.
-
-<a id="event-73756bfc922a898f"></a>
-
-## CryptoMondays Stamford/Greenwich - Tuesday, September 15 with Alden Knowlton, Invariant, on Midterms, Clarity Act & DC Buzz + special guest
-
-- Record: `luma-crypto-zl6DtS5kcStwRD4`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-15T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/f09ijm3n>
-
-### About the event
-
-We've got a great Crypto Mondays Stamford/Greenwich on September 15 in Stamford, CT featuring Alden Knowlton, Senior Director - Economic Policy at Invariant, and special guest, Stamford Mayor Caroline Simmons.
-
-Alden, based in Washington DC, focuses on navigating the intersection of technology, financial services, and economic policy.
-
-Previously, Alden led Democratic lobbying and political strategy at Coinbase, where she secured historic bipartisan support for digital asset legislation and built the company's PAC and political engagement infrastructure.
-
-Before that, she served as Vice President of Legislative and Political Affairs at the Mortgage Bankers Association, where she delivered key policy wins and developed one of the industry's most effective PAC and grassroots programs. Earlier in her career, Alden held leadership roles in political consulting and advocacy, managing multimillion-dollar PAC efforts and providing strategic counsel to congressional campaigns and national trade associations.
-
-We are also pleased to welcome Mayor Caroline Simmons, who will discuss Stamford's growing innovation and technology ecosystem - and what that growth could mean for businesses, investors, entrepreneurs, and the broader Fairfield County economy.
-
-Why Attend?
-
-- Gain firsthand insights into the latest U.S. crypto policy and regulatory landscape from one of Washington's leading digital asset policy experts.
-- Explore how policy and innovation are shaping the future of digital assets, stablecoins, and tokenization.
-- Hear from Alden, a distinguished speaker offering perspectives on the industry's next chapter.
-- Hear from Mayor Simmons regarding the exciting innovation ecosystem in Stamford.
-- Participate in an interactive audience Q&A.
-- Network with Connecticut's growing community of leaders in crypto, fintech, AI, quantum computing, venture, and capital markets.
-
-SUBSCRIBE FOR FUTURE UPDATES AND EVENTS!
-
-LUMA (THIS INVITE)
-
-TELEGRAM COMMUNITY (Join using this invite) https://t.me/+ewjh8MBi77E5Nzhh
-
-LINKEDIN PAGE (Follow Page) https://www.linkedin.com/company/crypto-mondays-stamford-ct/?viewAsMember=true
-
-X/Twitter PAGE (Follow Page) https://x.com/CtCryptomo64438
-
-SPONSORS: Special thanks to our sponsors: CT Blockchain Association ([Alan Deckman](https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter ([Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), President) [and @Ondo.Finance](https://Ondo.Finance) ([Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Ceo of @Oasis Pro, Inc., an Ondo.Finance](https://Ondo.Finance) company)
-
-YOUR CRYPTOMONDAYS HOSTS:
-
-[Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Emily Goodman,](https://www.linkedin.com/in/emilyhgoodman/) [Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), [Keith Strycula, Jason Cabral](https://www.linkedin.com/in/jason-cabral-3923b5b1/), [David Mikulecky](https://www.linkedin.com/in/davidmikulecky/), [Roger Benites](https://www.linkedin.com/in/rogermbenites)
-
-### Location
-
-Venue: Stamford, CT. Exact Location will be provided to registered attendees. Attendance is limited, signup soon (also, please let us know if you cannot attend after signing up. CM Stamford/Greenwich is a free event but with limited capacity and no shows do not help the community build with potential other attendees on the wait list- Thank you)
-
-CryptoMondays, founded in NYC in 2018 is the largest global decentralized IRL community bringing together individuals passionate about cryptocurrency and blockchain technology.
-
-SUBSCRIBE FOR FUTURE UPDATES AND EVENTS!
-
-LUMA (THIS INVITE)
-
-TELEGRAM COMMUNITY (Join using this invite) https://t.me/+ewjh8MBi77E5Nzhh
-
-LINKEDIN PAGE (Follow Page) https://www.linkedin.com/company/crypto-mondays-stamford-ct/?viewAsMember=true
-
-X/Twitter PAGE (Follow Page) https://x.com/CtCryptomo64438
-
-SPONSORS: Special thanks to our sponsors: CT Blockchain Association ([Alan Deckman](https://www.linkedin.com/in/alan-j-deckman/), Founder and President) and Stand With Crypto, Connecticut Chapter ([Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), President) [and @Ondo.Finance](https://Ondo.Finance) ([Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Ceo of @Oasis Pro, Inc., an Ondo.Finance](https://Ondo.Finance) company)
-
-YOUR CRYPTOMONDAYS HOSTS:
-
-[Pat LaVecchia](https://www.linkedin.com/in/patlavecchia/), [Emily Goodman,](https://www.linkedin.com/in/emilyhgoodman/) [Lorrie Landis](https://www.linkedin.com/in/lorrielandis2026/), [Keith Strycula, Jason Cabral](https://www.linkedin.com/in/jason-cabral-3923b5b1/), [David Mikulecky](https://www.linkedin.com/in/davidmikulecky/), [Roger Benites](https://www.linkedin.com/in/rogermbenites)
-
-<a id="event-ff42029c17c8a283"></a>
-
-## Dreamforce Afterparty for Founders and Revenue Leaders
-
-- Record: `luma-crypto-jveLeulkGyCSqU2`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/clarify-aonz>
-
-### About the event
-
-Join a group of 15 founders and revenue leaders for a Dreamforce afterparty with drinks, food, and pool.
-
-Hosted by Clarify - The Autonomous CRM
-
 <a id="event-fe8976c7c3e9585d"></a>
 
 ## Crypto World's Fair Buildstation, Kathmandu
@@ -54190,53 +54031,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-f176338099636e23"></a>
-
-## Bitcoin 203: Multi-Sig Transactions: Securing Your Bitcoin with Multiple Keys
-
-- Record: `luma-evt-6JkeUvDvzC7PPVG`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-15T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/4p3q8raj>
-- Original page: <https://luma.com/4p3q8raj>
-
-### About the event
-
-Looking for the ultimate in Bitcoin security? Locking your bitcoin with multiple keys is a simple, effective solution!
-
-Bitcoin educator and Space member, Tim McTavish, will teach you how to easily create your own multi-sig solution using Sparrow Wallet. No third-party needed!
-
-During this session, we will create a 2-of-3 multi-sig using three keys from participants. We will send ~$20 USD worth of bitcoin to this wallet. From there, we will randomly select a participant to receive this bitcoin. We will then execute a 2-of-3 signature, sending the bitcoin from our multi-sig to this lucky participant!
-
-What you'll learn:
-
-What is a multi-sig?
-
-Why and when should I use multi-sig?
-
-How do you best manage multi-sig keys?
-
-What is a PSBT file and how/when might I use it?
-
-What to bring (optional):
-
-A "receive" address in case you are the lucky winner of $20 worth of bitcoin!
-
-Your laptop with Sparrow Wallet installed
-
-Your signing device
-
-### Agenda
-
-Doors open: 530pm
-
-Discussion: 6pm - 7pm
-
-Discussion/Q&A: 7pm - 8pm
-
-Drinks will be provided
-
 <a id="event-5666d6e95a642bc1"></a>
 
 ## Digital Assets from Pilot to Production with Tatra Banka \| Banking Breakfast
@@ -72935,6 +72729,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9e6841c0a4b0bc8c"></a>
+
+## Intro to Soldering & Electronics: Make A Mini Piano
+
+- Record: `luma-evt-1JE349eq1rNgf3w`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-17T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mfq4ajz9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-16acfdafb030da7f"></a>
+
+## Solo Unicorn Roundtable · Series 04
+
+- Record: `luma-evt-D7XC7EDEpLaQI2A`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-17T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y4uu0xv2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-32a51948369128e8"></a>
 
 ## 2026 Good Morning Silicon Valley Association \| Youth Innovators: From Design Thinking to Impact Workshop for High School Students
@@ -73002,6 +72820,18 @@ Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together 
 
 Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
 
+<a id="event-fb3e53ae5e8ad695"></a>
+
+## places i saw you last: Live Ambient Electronic Set
+
+- Record: `luma-evt-Icr0U7ovq9nQQ2Q`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nmh0sozp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8dae74092e03a2d9"></a>
 
 ## HACK GENESIS 2026
@@ -73011,6 +72841,18 @@ Attendees can use Money20/20 Connect in the app or browser to book one-to-one me
 - Starts: 2026-10-18T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://hackindia.org/2026/hack-genesis-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9b540c5590ec7351"></a>
+
+## Free women only hike: Siete Picos (moderate-hard)
+
+- Record: `luma-evt-UemBh6MGbhbQgud`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T07:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/il2yq5cy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73182,6 +73024,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-eff4cebd47e9a54b"></a>
+
+## ⚡ ENERGY TRANSITION VALLEY GOES TO SILICON VALLEY!
+
+- Record: `luma-evt-43nq7ewgXJQdbAr`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T00:05:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/b2xxmxxr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d18abd036744b7db"></a>
 
 ## CryptoMondays Vegas - M2020
@@ -73323,6 +73177,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T16:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/des-moines-data-analytics/events/316665472/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7f641649536f26eb"></a>
+
+## Building Apps and Communities on Solana
+
+- Record: `luma-host-evt-evt-H1GEOEuxvdcGh7m`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T17:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/vgqemfnq>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73640,6 +73506,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-42ae1c6d9ee94573"></a>
+
+## InPulse: Taller práctico: Estrategia vs ruido: ¿para qué sirven realmente las redes sociales en un proyecto cultural?
+
+- Record: `luma-evt-gB6aUcbSSSmFnBB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T15:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4yisttd3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d0bc4d361016cf05"></a>
 
 ## AI for Sales: Turn Leads into Booked Meetings—Automatically (a Lunch&Learn)
@@ -73868,6 +73746,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d24014c4dc3cca42"></a>
+
+## Chef Night with Nico
+
+- Record: `luma-evt-sABP038MPW4T97y`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/a3q4ytie>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b6fcd3081282a07c"></a>
 
 ## Spazio 21
@@ -74075,6 +73965,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-338ebe2120a8a8bb"></a>
+
+## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
+
+- Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T16:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/5u109wun>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ec86766ae50ffd9f"></a>
 
 ## Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology
@@ -74084,18 +73986,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T17:30:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-338ebe2120a8a8bb"></a>
-
-## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
-
-- Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T18:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/5u109wun>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74252,6 +74142,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://conference26.tum-blockchain.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-08b1033be48b6dd2"></a>
+
+## Modeling Your Business with Ontologies in Fabric IQ
+
+- Record: `mu-315688633`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/315688633/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
