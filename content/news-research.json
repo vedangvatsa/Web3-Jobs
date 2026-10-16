@@ -38045,25 +38045,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9d966e2b82129fb8feb6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T16:01:03.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Bitcoin Magazine piece on the same Trezor cut with breach-history context. Trezor notice plus confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:59:01.268Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 Trezor reseller reduction as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:51.958Z",
       "retrySearches": [
         "Trezor reseller cut confirmation second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "0871965a45abb9720683": {
       "source": "CoinDesk",
@@ -83280,6 +83276,15 @@
           "note": "Same Oct 13 Trezor reseller pare-back as covered in /resellers.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:49.748Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
+        },
+        "9d966e2b82129fb8feb6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 Trezor reseller reduction as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:51.958Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
         }
