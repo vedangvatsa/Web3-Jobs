@@ -2437,7 +2437,7 @@
     "sentAt": "2026-10-16T04:21:12.146Z"
   },
   "2471d520-f3aa-42cd-845c-9f124aa2b53c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-16T11:32:28.313Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2549,6 +2549,8 @@
       }
     ],
     "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/rec40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr35?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Customer Success Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Financial Operations Platform Director</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/an45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Due Diligence Analyst - APAC</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior VIP Relationship Manager (MENA)</a>",
-    "slotKey": "2026-10-16:afternoon"
+    "slotKey": "2026-10-16:afternoon",
+    "messageId": 155788,
+    "sentAt": "2026-10-16T11:32:36.686Z"
   }
 }
