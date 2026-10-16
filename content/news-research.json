@@ -46218,11 +46218,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b35096e0b35aee7197cd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:02:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Cursor editor adding a Meta model; dev-tools release, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:05.669Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "3162edc1f03e6108a527": {
       "source": "Crypto Briefing",
@@ -82781,6 +82786,13 @@
           "note": "Texas voter-registration backlog; election administration, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:03.380Z"
+        },
+        "b35096e0b35aee7197cd": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Cursor editor adding a Meta model; dev-tools release, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:05.669Z"
         }
       },
       "baselineSlugs": [
