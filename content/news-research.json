@@ -43255,23 +43255,23 @@
       "id": "3c2fe581f04e9f17876a",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T17:14:39.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Bubblemaps page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Bubblemaps evidence plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:18.079Z",
+      "reviewedAt": "2026-10-16T03:55:17.739Z",
       "retrySearches": [
-        "Bubblemaps Anglio pump.fun wallets evidence second outlet"
+        "Bubblemaps Anglio wallets pump.fun insider evidence"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "32bab52af134db3e537c": {
       "source": "Cointelegraph",
@@ -84005,6 +84005,21 @@
           "reviewedAt": "2026-10-16T03:55:15.484Z",
           "retrySearches": [
             "UNCX vesting pool exploit Blockaid 86000"
+          ]
+        },
+        "3c2fe581f04e9f17876a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Bubblemaps evidence plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:17.739Z",
+          "retrySearches": [
+            "Bubblemaps Anglio wallets pump.fun insider evidence"
           ]
         }
       },
