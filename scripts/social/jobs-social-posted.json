@@ -12700,6 +12700,34 @@
       "attemptId": "825d6fa5-c00d-448e-8db2-6fc0a7c5938d",
       "verification": "verified",
       "postId": "urn:li:share:7516823897623654401"
+    },
+    {
+      "slug": "pm269",
+      "company": "BVNK",
+      "title": "Senior Legal Counsel - Product & Commercial",
+      "platform": "facebook",
+      "postedAt": "2026-10-16T11:32:03.072Z",
+      "expectedText": "BVNK is hiring Senior Legal Counsel - Product & Commercial: https://hashtagweb3.com/pm269/fb?og=7",
+      "snapshot": {
+        "id": "5000663101",
+        "title": "Senior Legal Counsel - Product & Commercial",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000663101",
+        "date": "2026-10-09T09:18:48-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London / EU",
+        "department": "Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm269"
+      },
+      "payload": {
+        "message": "BVNK is hiring Senior Legal Counsel - Product & Commercial: https://hashtagweb3.com/pm269/fb?og=7",
+        "link": "https://hashtagweb3.com/pm269/fb?og=7"
+      },
+      "attemptId": "8ab715bf-8ca5-432e-ac19-18ef22eb1e8e",
+      "verification": "creating"
     }
   ]
 }
