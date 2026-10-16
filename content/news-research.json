@@ -47041,11 +47041,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b6f6a936b2a5ed38e20",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:34:18.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Founder interview on running the Saylor playbook in Brazil; profile feature, no fresh concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:20.380Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "6e9e26c4e4ee35d7a9f2": {
       "source": "Decrypt",
@@ -82360,6 +82365,13 @@
           "note": "Legal opinion essay on whether pro-crypto rules can be overturned; analysis, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:18.209Z"
+        },
+        "4b6f6a936b2a5ed38e20": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Founder interview on running the Saylor playbook in Brazil; profile feature, no fresh concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:20.380Z"
         }
       },
       "baselineSlugs": [
