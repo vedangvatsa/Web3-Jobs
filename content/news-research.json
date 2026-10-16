@@ -41148,23 +41148,23 @@
       "id": "652c43541eaddb6a4842",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T14:32:39.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Strive Block page blocked again in this run; company filing and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Strive filing plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:00.915Z",
+      "reviewedAt": "2026-10-16T03:55:06.424Z",
       "retrySearches": [
-        "Strive 235 million bitcoin warrant filing second outlet"
+        "Strive SATS preferred 500M bitcoin treasury filing"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "d7f600f0c9e746c02b33": {
       "source": "Bitcoin Magazine",
@@ -83930,6 +83930,21 @@
           "reviewedAt": "2026-10-16T03:55:04.165Z",
           "retrySearches": [
             "Ekubo Shadow Accounts liquidity providers announcement"
+          ]
+        },
+        "652c43541eaddb6a4842": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Strive filing plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:06.424Z",
+          "retrySearches": [
+            "Strive SATS preferred 500M bitcoin treasury filing"
           ]
         }
       },
