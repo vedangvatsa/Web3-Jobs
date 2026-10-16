@@ -2435,5 +2435,120 @@
     "slotKey": "2026-10-16:morning",
     "messageId": 155785,
     "sentAt": "2026-10-16T04:21:12.146Z"
+  },
+  "2471d520-f3aa-42cd-845c-9f124aa2b53c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T11:32:28.313Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8893459002",
+          "title": "Recruiter (Contract)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893459002",
+          "date": "2026-10-15T19:02:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "San Francisco, CA",
+          "department": "People",
+          "active": true,
+          "salary": "$50 – $75/hr",
+          "slug": "rec40",
+          "dateVerified": true
+        },
+        "key": "8893459002",
+        "slug": "rec40",
+        "url": "https://hashtagweb3.com/rec40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Recruiter (Contract)"
+      },
+      {
+        "snapshot": {
+          "id": "8181034",
+          "title": "Manager, Customer Success Manager",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8181034",
+          "date": "2026-09-17T15:47:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Chicago",
+          "department": "1340 Customer Success Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr35"
+        },
+        "key": "8181034",
+        "slug": "mgr35",
+        "url": "https://hashtagweb3.com/mgr35?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Manager, Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8010134003",
+          "title": "Global Financial Operations Platform Director",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8010134003",
+          "date": "2026-09-30T22:23:56-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong; Singapore",
+          "department": "Finance Department",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops78"
+        },
+        "key": "8010134003",
+        "slug": "ops78",
+        "url": "https://hashtagweb3.com/ops78?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Global Financial Operations Platform Director"
+      },
+      {
+        "snapshot": {
+          "id": "6212193004",
+          "title": "Due Diligence Analyst - APAC",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6212193004",
+          "date": "2026-10-01T00:25:01-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote",
+          "department": "Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an45"
+        },
+        "key": "6212193004",
+        "slug": "an45",
+        "url": "https://hashtagweb3.com/an45?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Due Diligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "4998992101",
+          "title": "Senior VIP Relationship Manager (MENA)",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4998992101",
+          "date": "2026-10-06T11:51:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "Wealth Business Unit (WBU)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr150"
+        },
+        "key": "4998992101",
+        "slug": "mgr150",
+        "url": "https://hashtagweb3.com/mgr150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior VIP Relationship Manager"
+      }
+    ],
+    "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/rec40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr35?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Customer Success Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Financial Operations Platform Director</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/an45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Due Diligence Analyst - APAC</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior VIP Relationship Manager (MENA)</a>",
+    "slotKey": "2026-10-16:afternoon"
   }
 }
