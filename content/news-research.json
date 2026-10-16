@@ -46507,11 +46507,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8835cab9cd5b40c66f6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T18:00:37.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "price-chatter",
+      "note": "Individual trader perpetual loss and re-entry; trader PnL chatter, not a concrete market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:37:53.314Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5f1524aa2610fcaa70d2": {
       "source": "Decrypt",
@@ -82264,6 +82269,13 @@
           "note": "Bitcoin 100K dream slipping framing with wipeout tally; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:37:50.972Z"
+        },
+        "e8835cab9cd5b40c66f6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Individual trader perpetual loss and re-entry; trader PnL chatter, not a concrete market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:37:53.314Z"
         }
       },
       "baselineSlugs": [
