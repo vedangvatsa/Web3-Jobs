@@ -42876,23 +42876,23 @@
       "id": "62d2e0a9aca8000268c3",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T21:21:53.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Tempo-Zones page blocked again in this run; Tempo or Deel notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Tempo or Deel notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:47.287Z",
+      "reviewedAt": "2026-10-16T03:55:31.181Z",
       "retrySearches": [
-        "Tempo Zones privacy Deel production notice second outlet"
+        "Tempo Zones privacy Deel production announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "a518eb9bd5236b75fd3c": {
       "source": "The Defiant",
@@ -84095,6 +84095,21 @@
           "reviewedAt": "2026-10-16T03:55:29.016Z",
           "retrySearches": [
             "Algorand marketing chief resignation CEO CTO departures statement"
+          ]
+        },
+        "62d2e0a9aca8000268c3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Tempo or Deel notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:31.181Z",
+          "retrySearches": [
+            "Tempo Zones privacy Deel production announcement"
           ]
         }
       },
