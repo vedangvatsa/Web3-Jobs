@@ -46449,11 +46449,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "07f22e1506309ba88be8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T21:46:04.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Google quantum-computing bottleneck claim; general tech research, not a Web3 concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:47.274Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "67595a69eb4850ef5691": {
       "source": "The Block",
@@ -82685,6 +82690,13 @@
           "note": "Fink warning on AI data-center halt and recession; macro commentary, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:45.096Z"
+        },
+        "07f22e1506309ba88be8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google quantum-computing bottleneck claim; general tech research, not a Web3 concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:47.274Z"
         }
       },
       "baselineSlugs": [
