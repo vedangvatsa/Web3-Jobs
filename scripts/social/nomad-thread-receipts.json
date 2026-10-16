@@ -38,9 +38,10 @@
         },
         {
           "index": 2,
-          "status": "publishing",
+          "status": "accepted",
           "startedAt": "2026-10-16T21:53:20.663Z",
-          "containerId": "18097382852199925"
+          "containerId": "18097382852199925",
+          "postId": "18176252065452912"
         }
       ]
     }
