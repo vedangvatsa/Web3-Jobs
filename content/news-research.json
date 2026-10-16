@@ -45909,11 +45909,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a04df312515daee3bcc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T01:59:35.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece; 69.5M euro H1 net loss with revenue up 3.5%. Company report plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/capital-b-h1-2026-net-loss-bitcoin/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:43.436Z",
+      "retrySearches": [
+        "Capital B H1 2026 results net loss revenue report"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "6c30f373446e848dcf20": {
       "source": "BeInCrypto",
@@ -85173,6 +85187,21 @@
           "reviewedAt": "2026-10-16T03:57:41.099Z",
           "retrySearches": [
             "South Korea cybersecurity overhaul crypto exchanges banks plan"
+          ]
+        },
+        "4a04df312515daee3bcc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece; 69.5M euro H1 net loss with revenue up 3.5%. Company report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/capital-b-h1-2026-net-loss-bitcoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:43.436Z",
+          "retrySearches": [
+            "Capital B H1 2026 results net loss revenue report"
           ]
         }
       },
