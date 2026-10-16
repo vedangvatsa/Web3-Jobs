@@ -12965,6 +12965,40 @@
       "attemptId": "33eaeba7-0382-4dee-9735-bfe8c8efdb8b",
       "verification": "verified",
       "postId": "0x09d3994f37f67ae78a9155ce10ebe6ebe5019efc"
+    },
+    {
+      "slug": "ops40",
+      "company": "Anchorage Digital",
+      "title": "Member of Custody Operations, Digital Assets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-16T11:35:04.863Z",
+      "expectedText": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets\n\nhttps://hashtagweb3.com/ops40/fc?og=7",
+      "snapshot": {
+        "id": "3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "title": "Member of Custody Operations, Digital Assets",
+        "company": "Anchorage Digital",
+        "link": "https://jobs.lever.co/anchorage/3b5c3e6e-7518-4a4d-9ea8-06b8c75e2a59",
+        "date": "2026-09-22T13:32:12.406Z",
+        "source": "Lever: Anchorage Digital [anchorage]",
+        "location": "Remote (United States)",
+        "workplaceType": "remote",
+        "department": "Global Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops40"
+      },
+      "payload": {
+        "text": "Anchorage Digital is hiring Member of Custody Operations, Digital Assets\n\nhttps://hashtagweb3.com/ops40/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops40/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "a9ea1f7d-c1f0-445f-94f6-e4490c5a597c",
+      "verification": "creating"
     }
   ]
 }
