@@ -45489,11 +45489,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c4b130c65aaaac0b139",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:18:09.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Interview arguing number-go-up solves Bitcoin marketing; commentary without a concrete news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:11.539Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "e16cce52577b98c8ef0e": {
       "source": "Decrypt",
@@ -82312,6 +82317,13 @@
           "note": "HEX selloff tally following unverified arrest reports; price chatter resting on a single weak rumor.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:00.301Z"
+        },
+        "2c4b130c65aaaac0b139": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Interview arguing number-go-up solves Bitcoin marketing; commentary without a concrete news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:11.539Z"
         }
       },
       "baselineSlugs": [
