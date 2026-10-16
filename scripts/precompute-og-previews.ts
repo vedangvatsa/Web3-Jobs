@@ -17,38 +17,36 @@ import {
   resolveOgPreviewMeta,
 } from '../src/lib/og-preview';
 
-const OUT_ROOT = path.join(process.cwd(), 'public', 'preview');
-const MANIFEST_PATH = path.join(OUT_ROOT, '.preview-manifest.json');
-const FULL_REBUILD = process.argv.includes('--full');
-
 type PreviewManifest = Record<string, string>;
 
 function sha(input: string): string {
   return crypto.createHash('sha1').update(input).digest('hex').slice(0, 16);
 }
 
-function loadManifest(): PreviewManifest {
+function loadManifest(manifestPath: string): PreviewManifest {
   try {
-    return JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8')) as PreviewManifest;
+    return JSON.parse(fs.readFileSync(manifestPath, 'utf8')) as PreviewManifest;
   } catch {
     return {};
   }
 }
 
-function saveManifest(manifest: PreviewManifest): void {
+export async function precomputeOgPreviews({ root = process.cwd(), paths, fullRebuild = false }: {
+  root?: string;
+  paths?: string[];
+  fullRebuild?: boolean;
+} = {}) {
+  const OUT_ROOT = path.join(root, 'public', 'preview');
+  const MANIFEST_PATH = path.join(OUT_ROOT, '.preview-manifest.json');
+  const FULL_REBUILD = fullRebuild;
   fs.mkdirSync(OUT_ROOT, { recursive: true });
-  fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest), 'utf8');
-}
 
-async function main() {
-  fs.mkdirSync(OUT_ROOT, { recursive: true });
-
-  const paths = await collectOgPreviewPaths();
+  paths ??= await collectOgPreviewPaths();
   const rootRedirects = new Map((await nextConfig.redirects())
     .filter(entry => entry.permanent && /^\/[a-z0-9-]+$/.test(entry.source) && /^\/[a-z0-9-]+$/.test(entry.destination))
-    .filter(entry => fs.existsSync(path.join(process.cwd(), 'content/articles', `${entry.destination.slice(1)}.md`)))
+    .filter(entry => fs.existsSync(path.join(root, 'content/articles', `${entry.destination.slice(1)}.md`)))
     .map(entry => [entry.source, entry.destination]));
-  const manifest = FULL_REBUILD ? {} : loadManifest();
+  const manifest = FULL_REBUILD ? {} : loadManifest(MANIFEST_PATH);
   let written = 0;
   let skipped = 0;
   const livePaths = new Set<string>();
@@ -56,10 +54,10 @@ async function main() {
   for (const contentPath of paths) {
     if (isExpiredJobPath(contentPath) || isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) continue;
     livePaths.add(contentPath);
-    const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath));
+    const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath), root);
     const fingerprint = sha(JSON.stringify(meta));
     const asset = previewAssetPath(contentPath);
-    const outFile = path.join(process.cwd(), 'public', asset.replace(/^\//, ''));
+    const outFile = path.join(root, 'public', asset.replace(/^\//, ''));
     const manifestKey = contentPath || '/';
 
     if (!FULL_REBUILD && manifest[manifestKey] === fingerprint && fs.existsSync(outFile)) {
@@ -99,14 +97,14 @@ async function main() {
     const before = fs.readFileSync(file, 'utf8');
     const canonicalDestination = legacyNomadDestination(contentPath) || rootRedirects.get(contentPath);
     if (canonicalDestination) {
-      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalDestination)));
+      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalDestination), root));
       if (before !== html) { fs.writeFileSync(file, html); written++; }
       continue;
     }
     const $ = load(before);
     const canonicalPath = new URL($('link[rel="canonical"]').attr('href') || contentPath, 'https://hashtagweb3.com').pathname;
     if (isRemediatedJobSlug(canonicalPath.replace(/^\/(?:jobs\/)?/, ''))) {
-      const meta = await preparePreviewImage(await resolveOgPreviewMeta(`/${canonicalPath.split('/').filter(Boolean).pop()}`));
+      const meta = await preparePreviewImage(await resolveOgPreviewMeta(`/${canonicalPath.split('/').filter(Boolean).pop()}`), root);
       const html = buildOgPreviewHtml(meta);
       if (before !== html) { fs.writeFileSync(file, html); written++; }
       continue;
@@ -114,7 +112,7 @@ async function main() {
     const image = $('meta[property="og:image"]').attr('content');
     if (!image) throw new Error(`Missing OG image in ${file}`);
     if (image.includes('/og/companies/')) {
-      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalPath)));
+      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalPath), root));
       if (before !== html) { fs.writeFileSync(file, html); written++; }
       continue;
     }
@@ -123,12 +121,12 @@ async function main() {
       description: $('meta[property="og:description"]').attr('content') || '',
       canonicalUrl: $('link[rel="canonical"]').attr('href') || `https://hashtagweb3.com${contentPath}`,
       ogImageUrl: image,
-    });
+    }, root);
     const html = buildOgPreviewHtml(meta);
     if (before !== html) { fs.writeFileSync(file, html); written++; }
   }
 
-  const fallbackMeta = await preparePreviewImage(await resolveOgPreviewMeta('/'));
+  const fallbackMeta = await preparePreviewImage(await resolveOgPreviewMeta('/'), root);
   const fallbackFp = sha(JSON.stringify(fallbackMeta));
   const fallbackPath = path.join(OUT_ROOT, 'default.html');
   if (FULL_REBUILD || manifest.__default__ !== fallbackFp || !fs.existsSync(fallbackPath)) {
@@ -139,14 +137,14 @@ async function main() {
     skipped += 1;
   }
 
-  saveManifest(manifest);
-  writeSocialImageInfo();
+  fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest), 'utf8');
+  writeSocialImageInfo(root);
   console.log(
     `[precompute-og-previews] wrote ${written}, skipped ${skipped}, paths=${paths.length} → ${OUT_ROOT}`,
   );
 }
 
-main().catch((error) => {
+if (require.main === module) precomputeOgPreviews({ fullRebuild: process.argv.includes('--full') }).catch((error) => {
   console.error(error);
   process.exit(1);
 });

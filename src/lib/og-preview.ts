@@ -150,6 +150,11 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       description: 'Join 60,000+ Web3 builders and professionals across Telegram, Discord, and LinkedIn.',
       ogImageUrl: STATIC_OG.default,
     },
+    '/popups': {
+      title: `Startup Societies | ${SITE_NAME}`,
+      description: 'Directory of popup cities, permanent nodes, SEZs, and builder villages for Web3 and frontier tech. Filter by type and region.',
+      ogImageUrl: `${SITE_URL}/og/pages/popups.png`,
+    },
     '/companies': {
       title: `Web3 Companies Hiring | ${SITE_NAME}`,
       description: 'Browse 200+ Web3 companies actively hiring — from DeFi protocols to blockchain infrastructure.',
@@ -322,6 +327,7 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
     '/glossary',
     '/companies',
     '/community',
+    '/popups',
     '/developers',
     '/contact',
     '/learn',

@@ -53,7 +53,7 @@
     "test:citizenship:browser": "tsx scripts/test-citizenship-browser.ts",
     "precompute:nomads": "tsx scripts/precompute-nomads.ts",
     "test:bandwidth:browser": "tsx scripts/test-bandwidth-browser.ts",
-    "test:social-previews": "tsx scripts/test-social-preview-assets.ts",
+    "test:social-previews": "tsx --test scripts/test-popups-preview.ts && tsx scripts/test-social-preview-assets.ts",
     "cache:social-images": "tsx scripts/cache-social-preview-images.ts",
     "images:responsive": "tsx scripts/generate-responsive-images.ts",
     "test:responsive-images": "tsx scripts/test-responsive-images.ts",
