@@ -44083,23 +44083,23 @@
       "id": "1f915b89eb965e8094bb",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:00:00.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Polygon-Block acquisition page blocked again in this run; Polygon notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Polygon or Coinme notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:38.553Z",
+      "reviewedAt": "2026-10-16T03:54:50.523Z",
       "retrySearches": [
-        "Polygon Coinme acquisition payments licenses notice second outlet"
+        "Polygon Coinme acquisition payments licenses announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1343322be145d460c7b0": {
       "source": "The Defiant",
@@ -83825,6 +83825,21 @@
           "reviewedAt": "2026-10-16T03:54:48.264Z",
           "retrySearches": [
             "DriveWealth RLUSD stablecoin settlement announcement"
+          ]
+        },
+        "1f915b89eb965e8094bb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Polygon or Coinme notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:50.523Z",
+          "retrySearches": [
+            "Polygon Coinme acquisition payments licenses announcement"
           ]
         }
       },
