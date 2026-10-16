@@ -45221,11 +45221,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7de1791b963b67c6cc0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:30:41.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Schwab notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:19.124Z",
+      "retrySearches": [
+        "Schwab retail bitcoin ether rollout crypto transfers announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "064d0c55604609705c31": {
       "source": "The Block",
@@ -84620,6 +84634,21 @@
           "reviewedAt": "2026-10-16T03:56:16.897Z",
           "retrySearches": [
             "CleanSpark BitFuFu September bitcoin production Canaan report"
+          ]
+        },
+        "e7de1791b963b67c6cc0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Schwab notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:19.124Z",
+          "retrySearches": [
+            "Schwab retail bitcoin ether rollout crypto transfers announcement"
           ]
         }
       },
