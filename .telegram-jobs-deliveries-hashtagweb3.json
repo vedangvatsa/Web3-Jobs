@@ -2552,5 +2552,57 @@
     "slotKey": "2026-10-16:afternoon",
     "messageId": 155788,
     "sentAt": "2026-10-16T11:32:36.686Z"
+  },
+  "b0de5f7f-e2f4-4a72-8116-7397c16a8ed8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T19:34:56.019Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "542e8fc1-4a19-4aa2-802e-1e5546694491",
+          "title": "Compensation Lead",
+          "company": "Chainlink Labs",
+          "link": "https://jobs.ashbyhq.com/chainlink-labs/542e8fc1-4a19-4aa2-802e-1e5546694491",
+          "date": "2026-09-23",
+          "dateVerified": true,
+          "source": "Ashby: Chainlink Labs [chainlink-labs]",
+          "location": "Remote (Boston)",
+          "workplaceType": "Remote",
+          "department": "People",
+          "active": true,
+          "slug": "com3"
+        },
+        "key": "542e8fc1-4a19-4aa2-802e-1e5546694491",
+        "slug": "com3",
+        "url": "https://hashtagweb3.com/com3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainlink Labs",
+        "title": "Compensation Lead"
+      },
+      {
+        "snapshot": {
+          "id": "9ab951bc-7535-446d-9955-23fe97e2abd6",
+          "title": "Senior Product Marketing Manager - Customer Growth",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/9ab951bc-7535-446d-9955-23fe97e2abd6",
+          "date": "2026-09-28T12:32:33.616+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm164"
+        },
+        "key": "9ab951bc-7535-446d-9955-23fe97e2abd6",
+        "slug": "pm164",
+        "url": "https://hashtagweb3.com/pm164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Product Marketing Manager"
+      }
+    ],
+    "message": "- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/com3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compensation Lead</a>\n- Bitvavo is hiring <a href=\"https://hashtagweb3.com/pm164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager - Customer Growth</a>",
+    "slotKey": "2026-10-16:evening"
   }
 }
