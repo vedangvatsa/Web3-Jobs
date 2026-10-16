@@ -44905,11 +44905,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b54d32806ecaf004e81",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:00:02.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Multiliquid raise notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:14.630Z",
+      "retrySearches": [
+        "Multiliquid 8 million tokenized assets settlement raise"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "53064bdff4f3266a49a5": {
       "source": "BeInCrypto",
@@ -84562,6 +84576,21 @@
           "reviewedAt": "2026-10-16T03:56:12.372Z",
           "retrySearches": [
             "DeFi Development CHAD dividend 14% Solana holdings announcement"
+          ]
+        },
+        "1b54d32806ecaf004e81": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Multiliquid raise notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:14.630Z",
+          "retrySearches": [
+            "Multiliquid 8 million tokenized assets settlement raise"
           ]
         }
       },
