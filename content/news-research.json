@@ -44751,11 +44751,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c7b45e420e6f14a470f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:30:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Legal opinion essay on whether pro-crypto rules can be overturned; analysis, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:18.209Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "f17cdc46a720d0b012c2": {
       "source": "BeInCrypto",
@@ -82348,6 +82353,13 @@
           "note": "Pundit claim that quantum risk is a Bitcoin upside catalyst; speculative opinion, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:15.918Z"
+        },
+        "7c7b45e420e6f14a470f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Legal opinion essay on whether pro-crypto rules can be overturned; analysis, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:18.209Z"
         }
       },
       "baselineSlugs": [
