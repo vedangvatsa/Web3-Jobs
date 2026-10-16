@@ -14,7 +14,7 @@
       "imageCount": 7
     },
     "threads": {
-      "status": "started",
+      "status": "verified",
       "startedAt": "2026-10-16T21:47:23.789Z",
       "posts": [
         {
@@ -86,7 +86,8 @@
           "verifiedAt": "2026-10-16T21:54:58.993Z",
           "replyTo": "17878751499632633"
         }
-      ]
+      ],
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DekiIkGiY7Q"
     }
   }
 }
