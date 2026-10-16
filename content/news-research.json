@@ -38236,23 +38236,23 @@
       "id": "cfe13c0851acf96b67b8",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T14:42:17.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "StarkWare shadow page blocked again in this run; StarkWare notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; StarkWare docs plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:33.887Z",
+      "reviewedAt": "2026-10-16T03:54:07.538Z",
       "retrySearches": [
-        "StarkWare Shadow Accounts Starknet announcement second outlet"
+        "Starknet Shadow Accounts StarkWare docs launch"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "e82697af4587b73e3be8": {
       "source": "BeInCrypto",
@@ -83555,6 +83555,21 @@
           "reviewedAt": "2026-10-16T03:54:05.167Z",
           "retrySearches": [
             "Interactive Brokers Zerohash Ethereum staking announcement"
+          ]
+        },
+        "cfe13c0851acf96b67b8": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; StarkWare docs plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:07.538Z",
+          "retrySearches": [
+            "Starknet Shadow Accounts StarkWare docs launch"
           ]
         }
       },
