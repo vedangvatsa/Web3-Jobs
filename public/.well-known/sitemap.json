@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-16T10:30:22.251Z",
+  "generatedAt": "2026-10-16T10:51:07.963Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3618,
+  "count": 3620,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -7886,6 +7886,18 @@
       "lastmod": "2026-10-13",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/get-down-for",
+      "lastmod": "2026-10-29",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/get-down-real",
+      "lastmod": "2026-10-22",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/gilt-pilot",

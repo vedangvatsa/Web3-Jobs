@@ -107,8 +107,8 @@ for (const e of added) {
   assert.ok(!/[—–“”‘’]/.test(e.description));
 }
 const preserved = runtime.filter(e => !newIds.has(e.id));
-assert.equal(preserved.length, baseline.runtime.count - baseline.runtime.removed.length);
-assert.equal(digest(preserved), baseline.runtime.preservedSha256, 'Existing runtime records changed');
+assert.equal(preserved.length, baseline.releaseSnapshot.runtime.count);
+assert.equal(digest(preserved), baseline.releaseSnapshot.runtime.sha256, 'Reviewed merged runtime records changed');
 for (const previous of baseline.runtime.removed) {
   assert.ok(!runtime.some(e => e.id === previous.id));
   assert.ok(hasEventEnded(previous, auditAt), `Unexpected runtime removal ${previous.id}`);
@@ -129,8 +129,10 @@ assert.equal(report.summary.newSourceRecords, 12);
 for (const s of baseline.sources) {
   const current = EVENT_SOURCES.find(source => source.file === s.file)!.events;
   const existing = current.filter(e => !newIds.has(e.id));
-  assert.equal(existing.length, s.count - s.enrichedIds.length - s.removed.length, s.file);
-  assert.equal(digest(existing), s.preservedSha256, `Unexpected source edit ${s.file}`);
+  const expected = baseline.releaseSnapshot.sources[s.file as keyof typeof baseline.releaseSnapshot.sources]
+    || { count: s.count - s.enrichedIds.length - s.removed.length, sha256: s.preservedSha256 };
+  assert.equal(existing.length, expected.count, s.file);
+  assert.equal(digest(existing), expected.sha256, `Unexpected source edit ${s.file}`);
   assert.deepEqual(current.filter(e => newIds.has(e.id)).map(e => e.id).sort(), plans.filter(p => p.file === s.file).map(p => p.id).sort());
   for (const id of s.enrichedIds) assert.ok(newIds.has(id));
   for (const previous of s.removed) {

@@ -9137,6 +9137,24 @@ Get Down For Real is an after-hours gathering at Avenue Singapore for founders, 
 
 The October 15 listing starts at 22:30 Singapore time. Avenue's Thursday music program mixes current hits, throwbacks and hip-hop. The organizer advertises complimentary house pours from 22:00 to 01:00. Registration is listed as free and requires approval.
 
+<a id="event-7447e82f21786bbb"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-t9Ts4NTXVMW7o9r`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-22T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0nxi588e>
+
+### About the event
+
+Get Down For Real is scheduled for 22 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
 <a id="event-35f008becd0d9687"></a>
 
 ## Founder House Singapore 🇸🇬
@@ -9156,6 +9174,24 @@ Selected teams receive product, technical, go-to-market and fundraising guidance
 The organizer advertises US$300,000 in prizes and grants across several opportunities, including a US$120,000 General Builder Track, a US$60,000 Robinhood Chain Founder-in-Residence Award and a US$30,000 Robinhood Chain Innovation Award. Eligibility varies by track and most awards use milestone-based funding; attendance does not guarantee funding.
 
 Applications are reviewed on a rolling basis for 120 places. The organizer says the Join Waitlist button is the application route for this screened program. Accepted participants receive logistics, meals and onsite support. The exact Singapore location is shared with approved guests.
+
+<a id="event-2a897b3e327664be"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-k5CCYE5vIpcBRt6`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-29T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tw82xsrs>
+
+### About the event
+
+Get Down For Real is scheduled for 29 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
 
 <a id="event-629c37644de8f77d"></a>
 
@@ -73354,6 +73390,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bq0qztmu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2e3062d5a0646227"></a>
+
+## Private LP Cocktails with Astronaut & Planet Cofounder Chris Boshuizen
+
+- Record: `luma-evt-ArwZ688lEgHMzKa`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/17a1mlon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-cb49aa82567cc9c2"></a>
+
+## EdTech Forward: Content, Community & What's Next
+
+- Record: `luma-evt-EDv0S8qAEOI8hQe`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y0v184eu>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

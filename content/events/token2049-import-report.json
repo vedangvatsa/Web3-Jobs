@@ -1,22 +1,34 @@
 {
-  "checkedAt": "2026-10-16T03:32:23.649Z",
+  "checkedAt": "2026-10-16T08:22:21.886Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 3,
+    "https://luma.com/2049events": 5,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 608,
-    "https://miragather.com/TOKEN2049SGSideEvents2026": 516
+    "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 241,
-    "excluded": 373,
-    "needs-review": 43,
+    "existing": 239,
+    "added": 2,
+    "excluded": 370,
+    "needs-review": 46,
     "duplicate": 1
   },
-  "importedTotal": 256,
-  "added": [],
+  "importedTotal": 258,
+  "added": [
+    {
+      "id": "token2049-evt-t9Ts4NTXVMW7o9r",
+      "slug": "get-down-real",
+      "name": "Get Down For Real"
+    },
+    {
+      "id": "token2049-evt-k5CCYE5vIpcBRt6",
+      "slug": "get-down-for",
+      "name": "Get Down For Real"
+    }
+  ],
   "receipts": [
     {
       "url": "https://luma.com/openhouse-singapore",
@@ -2484,15 +2496,6 @@
       "slug": "superreturn-asia"
     },
     {
-      "url": "https://www.forbesglobalceoconference.com/2026",
-      "name": "Forbes Global CEO Conference",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "fgcc"
-    },
-    {
       "url": "https://informaconnect.com/fundforumasia",
       "name": "FundForum Asia",
       "sources": [
@@ -2520,15 +2523,6 @@
       "slug": "days"
     },
     {
-      "url": "https://informaconnect.com/superreturnasia/lpgp-relations-fundraising-summit",
-      "name": "LP/GP Summit",
-      "sources": [
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "lpgp-relations"
-    },
-    {
       "url": "https://www.singaporetechnologyweek.com",
       "name": "Singapore Tech Week",
       "sources": [
@@ -2536,6 +2530,26 @@
       ],
       "status": "existing",
       "slug": "tech-week"
+    },
+    {
+      "url": "https://luma.com/0nxi588e",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-real",
+      "eventId": "evt-t9Ts4NTXVMW7o9r"
+    },
+    {
+      "url": "https://luma.com/tw82xsrs",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "get-down-for",
+      "eventId": "evt-k5CCYE5vIpcBRt6"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",
@@ -2984,8 +2998,7 @@
       "name": "Solana Summit",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -3114,8 +3127,7 @@
       "name": "DeltaV Demo Day",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -4015,8 +4027,7 @@
       "name": "Milken Institute Asia Summit - Day 1",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -5777,8 +5788,7 @@
       "name": "Network State Conference: Singapore Oct 9, 2026",
       "sources": [
         "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
@@ -6778,8 +6788,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://luma.com/9eycszeo",
@@ -6796,8 +6806,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "https://www.sui.io/basecamp",
@@ -6805,8 +6815,8 @@
       "sources": [
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 429"
     },
     {
       "url": "",

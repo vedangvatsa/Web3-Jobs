@@ -1,6 +1,16 @@
 {
   "auditAt": "2026-10-16T09:34:41.058Z",
   "baselineHead": "635f31ff014aa4bc0c60f54a681d1a3a47864f17",
+  "releaseSnapshot": {
+    "mergedRemote": "ce24211a2",
+    "provenance": "Release reconciliation after merging remote automation: two Token2049 runtime additions, two source-only Luma additions, incoming cover/speaker updates, and the additional normal expiry of india-luma-cbnpunesep. All original audit expectations below remain recorded. Release digests use the regression test's canonical serialization and retain exact whole-record assertions.",
+    "runtime": { "count": 208, "sha256": "f212ea77588a98cec26ff3a368e75417ee8fda1f43c84f0556be0e194e31653a" },
+    "sources": {
+      "token2049-discovered.json": { "count": 258, "sha256": "239b4b1f832c4361134b6fddd4b1197e1168224fa1528fc8b6b3c4da85784da7" },
+      "india-luma-events.json": { "count": 26, "sha256": "e5919d5af697d8a125db8864f8226854b2097c38c08e7be7d58c61efa1e0d78e" },
+      "events-cache.json": { "count": 973, "sha256": "76011e908726069801cdd6cd1edc65f73c227f4b446ccf5300335bf7700721e3" }
+    }
+  },
   "provenance": "Sanitized projection of the pre-import baseline and three public calendar responses captured on 2026-10-16. Record digests use recursively sorted object keys and ID-sorted arrays; response digests identify original bodies, not this projection.",
   "runtime": {
     "count": 207,

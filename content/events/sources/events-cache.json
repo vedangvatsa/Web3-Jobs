@@ -3148,10 +3148,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316361033/",
     "coverImage": "/events/zk-learning-group-zero-knowledge-bridges-9c50f897.webp",
     "source": "meetup",
-    "month": "September 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "September 2026"
   },
   {
     "id": "w3v-rayls-in-seoul",
@@ -20630,7 +20627,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027"
   },
@@ -21045,7 +21042,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21087,7 +21084,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21936,7 +21933,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/the-future-of-capital-markets-2026",
-    "coverImage": null,
+    "coverImage": "/events/w3v-the-future-of-capital-markets-f08846ec.webp",
     "month": "October 2026"
   },
   {
@@ -21949,7 +21946,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/yawcgo0t",
-    "coverImage": null,
+    "coverImage": "/events/w3v-securing-bitcoin-by-bitvault-064b2363.webp",
     "month": "October 2026"
   },
   {
@@ -21962,7 +21959,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/x4j5dthl",
-    "coverImage": null,
+    "coverImage": "/events/w3v-bitcoin-red-team-f605167b.webp",
     "month": "October 2026"
   },
   {
@@ -21975,7 +21972,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/glo37kdr",
-    "coverImage": null,
+    "coverImage": "/events/w3v-one-year-of-the-starboard-sygnum-bitcoin-alpha-2ac4dfe2.webp",
     "month": "October 2026"
   },
   {
@@ -21988,7 +21985,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/8ledskyk",
-    "coverImage": null,
+    "coverImage": "/events/w3v-when-a-bank-goes-down-the-rabbit-hole-e344a066.webp",
     "month": "October 2026"
   },
   {
@@ -22001,7 +21998,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/mwmzbdb0",
-    "coverImage": null,
+    "coverImage": "/events/w3v-put-your-bitcoin-to-work-without-selling-apero-4a9deaa2.webp",
     "month": "October 2026"
   },
   {
@@ -22043,7 +22040,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/qlt7isbb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-stablecoin-summit-905738d3.webp",
     "month": "October 2026"
   },
   {
@@ -22056,7 +22053,7 @@
     "country": "CH",
     "location": "Lugano, CH",
     "url": "https://luma.com/eaap2buy",
-    "coverImage": null,
+    "coverImage": "/events/w3v-bitdevs-switzerland-socratic-seminar-4-3e585ed1.webp",
     "month": "October 2026"
   },
   {
@@ -22139,7 +22136,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22242,7 +22242,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/sol-demo-day",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-demo-day-london-2026-dcc333bb.webp",
     "month": "November 2026"
   },
   {
@@ -22255,7 +22255,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/intelligence-summit",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-intelligence-summit-2d134317.webp",
     "month": "November 2026"
   },
   {
@@ -22268,7 +22268,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/scale-or-die-26",
-    "coverImage": null,
+    "coverImage": "/events/w3v-scale-or-die-131800b3.webp",
     "month": "November 2026"
   },
   {
@@ -22281,7 +22281,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/yrxbkvmn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-new-friendship-tech-london-e7b99cf5.webp",
     "month": "November 2026"
   },
   {
@@ -22599,7 +22599,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802686-b08fd60c.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23247,7 +23247,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n6r4k7vb",
-    "coverImage": null,
+    "coverImage": "/events/w3v-445-crew-x-solana-breakpoint-community-run-04dd2a26.webp",
     "month": "November 2026"
   },
   {
@@ -23260,7 +23260,7 @@
     "country": "",
     "location": "Global",
     "url": "https://luma.com/eqwsf08t",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solanas-challenges-getblocks-solutions-94692c3f.webp",
     "month": "November 2026"
   },
   {
@@ -23650,7 +23650,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/m7hhy05h",
-    "coverImage": null,
+    "coverImage": "/events/w3v-merge-x-optimism-vip-cocktail-lunch-514cb9bb.webp",
     "month": "October 2026"
   },
   {
@@ -23663,7 +23663,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/hhu8bhta",
-    "coverImage": null,
+    "coverImage": "/events/w3v-riserva-madrid-stablecoins-over-wine-at-merge--5e09c669.webp",
     "month": "October 2026"
   },
   {
@@ -23676,7 +23676,7 @@
     "country": "ES",
     "location": "Madrid, ES",
     "url": "https://luma.com/4w2zk12q",
-    "coverImage": null,
+    "coverImage": "/events/w3v-bit2me-side-event-at-merge-madrid-2026-e0474a2c.webp",
     "month": "October 2026"
   },
   {
@@ -23703,7 +23703,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/a0e6b8at",
-    "coverImage": null,
+    "coverImage": "/events/w3v-ai-economic-forum-mumbai-2026-e6058bab.webp",
     "month": "November 2026"
   },
   {
@@ -23730,7 +23730,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/freesocietyhackathon",
-    "coverImage": null,
+    "coverImage": "/events/w3v-zcash-presents-free-society-hackathon-d385c627.webp",
     "month": "November 2026"
   },
   {
@@ -23743,7 +23743,7 @@
     "country": "IN",
     "location": "Mumbai, IN",
     "url": "https://luma.com/2kj0jqf9",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sidequest-happy-hour-e3806b27.webp",
     "month": "November 2026"
   },
   {
@@ -23756,7 +23756,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/58b4n6e6",
-    "coverImage": "https://images.lumacdn.com/uploads/rt/db019e46-0c8c-4bad-b213-34b2bb300058.png",
+    "coverImage": "/events/w3v-perps-chai-with-hyprearn-d4be7d4b.webp",
     "month": "November 2026",
     "source": "luma-india",
     "timezone": "Asia/Kolkata",
@@ -24391,6 +24391,34 @@
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315688633/",
     "coverImage": null,
     "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-EDv0S8qAEOI8hQe",
+    "name": "EdTech Forward: Content, Community & What's Next",
+    "description": "",
+    "startDate": "2026-10-21T00:00:00.000Z",
+    "endDate": "2026-10-21T02:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/y0v184eu",
+    "coverImage": "/events/luma-evt-edv0s8qaeoi8hqe-aa8defb8.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-ArwZ688lEgHMzKa",
+    "name": "Private LP Cocktails with Astronaut & Planet Cofounder Chris Boshuizen",
+    "description": "",
+    "startDate": "2026-10-21T00:00:00.000Z",
+    "endDate": "2026-10-21T02:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/17a1mlon",
+    "coverImage": "/events/luma-evt-arwz688leghmzka-a077ce3d.webp",
+    "source": "luma",
     "month": "October 2026"
   }
 ]
