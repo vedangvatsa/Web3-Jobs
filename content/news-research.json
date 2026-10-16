@@ -46933,11 +46933,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "62b635a212ea34d9d2e2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:37:31.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Aztec 2030 post-quantum migration target; distant roadmap goal, not a concrete event in window.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:56.648Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "6700b8038974ca93e926": {
       "source": "The Defiant",
@@ -82552,6 +82557,13 @@
           "note": "Report summary on US bitcoin accumulation and dollar dominance; analytical roundup, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:54.445Z"
+        },
+        "62b635a212ea34d9d2e2": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Aztec 2030 post-quantum migration target; distant roadmap goal, not a concrete event in window.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:56.648Z"
         }
       },
       "baselineSlugs": [
