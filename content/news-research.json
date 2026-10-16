@@ -43924,23 +43924,23 @@
       "id": "cc25a343a2a55031982b",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:28:38.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "OCC Defiant page blocked again in this run; OCC report and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; OCC report text plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:32.505Z",
+      "reviewedAt": "2026-10-16T03:54:59.646Z",
       "retrySearches": [
-        "OCC debanking nine banks report second outlet"
+        "OCC debanking report nine banks crypto"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "cf1edda8f4b5cf638cea": {
       "source": "The Block",
@@ -83885,6 +83885,21 @@
           "reviewedAt": "2026-10-16T03:54:57.430Z",
           "retrySearches": [
             "BNY Citadel tokenized Treasury triparty repo confirmation"
+          ]
+        },
+        "cc25a343a2a55031982b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; OCC report text plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:59.646Z",
+          "retrySearches": [
+            "OCC debanking report nine banks crypto"
           ]
         }
       },
