@@ -45934,11 +45934,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7845824bd149a71442f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:13:36.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Generic AI-competition essay after safety pause; AI commentary, not a Web3 concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:21.845Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "c2145048c18064b2e252": {
       "source": "CryptoSlate",
@@ -82865,6 +82870,13 @@
           "note": "SpaceX AI-compute target with Nvidia chips; AI infrastructure, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:19.684Z"
+        },
+        "7845824bd149a71442f5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Generic AI-competition essay after safety pause; AI commentary, not a Web3 concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:21.845Z"
         }
       },
       "baselineSlugs": [
