@@ -46678,11 +46678,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ede866d36daad4934a58",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:06:58.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Essay asking whether stablecoins replace banks; future-of-money speculation, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:34.040Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "55131e319e7dfd67d8fe": {
       "source": "Bitcoin Magazine",
@@ -82432,6 +82437,13 @@
           "note": "Feature on privacy apps having a moment; trend observation without a concrete verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:31.728Z"
+        },
+        "ede866d36daad4934a58": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Essay asking whether stablecoins replace banks; future-of-money speculation, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:34.040Z"
         }
       },
       "baselineSlugs": [
