@@ -45579,11 +45579,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc32a4c5c8d74de9378c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:00:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Ledger Atom launch with Solana Mobile integration as covered in /atom.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:18.736Z",
+      "duplicateOf": "atom",
+      "mergedInto": "6e9e26c4e4ee35d7a9f2",
+      "lastReviewedDay": "2026-10-16"
     },
     "cc75b5a7808b7004d909": {
       "source": "Decrypt",
@@ -83106,6 +83113,15 @@
           ],
           "reviewedAt": "2026-10-16T03:47:42.938Z",
           "articleSlug": "resellers"
+        },
+        "dc32a4c5c8d74de9378c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Ledger Atom launch with Solana Mobile integration as covered in /atom.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:18.736Z",
+          "duplicateOf": "atom",
+          "mergedInto": "6e9e26c4e4ee35d7a9f2"
         }
       },
       "baselineSlugs": [
