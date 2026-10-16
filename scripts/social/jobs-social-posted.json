@@ -12012,7 +12012,8 @@
       },
       "account": "profile",
       "attemptId": "e55ec437-26ce-46c4-9369-5013b67a6ccb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x83a43af5ab1a0ed14da0ca99bfbfd4190bd3090b"
     }
   ]
 }
