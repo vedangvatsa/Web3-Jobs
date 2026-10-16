@@ -46386,11 +46386,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f5dbf747556d5141015",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T22:16:03.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "AI-agent prompt-injection research; AI safety story, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:49.599Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "46561a1ea0df111ae5d6": {
       "source": "The Block",
@@ -82697,6 +82702,13 @@
           "note": "Google quantum-computing bottleneck claim; general tech research, not a Web3 concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:47.274Z"
+        },
+        "1f5dbf747556d5141015": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-agent prompt-injection research; AI safety story, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:49.599Z"
         }
       },
       "baselineSlugs": [
