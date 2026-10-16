@@ -37982,7 +37982,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "065448ab6592e1688b95",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
       "attempts": 3,
       "expiresAt": "2026-10-16T16:14:50.000Z",
@@ -38008,7 +38008,8 @@
         "Trezor resellers January 2027 scope second outlet"
       ],
       "lastReviewedDay": "2026-10-16",
-      "articleSlug": "resellers"
+      "articleSlug": "resellers",
+      "publishedAt": "2026-10-16T04:06:23.934Z"
     },
     "9d966e2b82129fb8feb6": {
       "source": "Bitcoin Magazine",
@@ -44676,7 +44677,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "031208ac91461642af08",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:23:04.000Z",
@@ -44699,7 +44700,8 @@
       ],
       "reviewedAt": "2026-10-16T03:47:40.414Z",
       "articleSlug": "starknet-vote",
-      "lastReviewedDay": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "publishedAt": "2026-10-16T04:06:23.934Z"
     },
     "76d8b2e8fbe48e46567f": {
       "source": "The Block",
@@ -46144,7 +46146,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c59b48dc370bbd1fc14",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-19T00:48:20.000Z",
@@ -46167,7 +46169,8 @@
       ],
       "reviewedAt": "2026-10-16T03:47:37.940Z",
       "articleSlug": "msci",
-      "lastReviewedDay": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "publishedAt": "2026-10-16T04:06:23.934Z"
     },
     "1a94a607086657d884bb": {
       "source": "Crypto Briefing",
@@ -47912,7 +47915,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9e26c4e4ee35d7a9f2",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T13:32:21.000Z",
@@ -47935,7 +47938,8 @@
       ],
       "reviewedAt": "2026-10-16T03:47:35.508Z",
       "articleSlug": "atom",
-      "lastReviewedDay": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "publishedAt": "2026-10-16T04:06:23.934Z"
     },
     "38a4cef8d0d0fd1d2ad4": {
       "source": "Bitcoin Magazine",
@@ -48194,7 +48198,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c9fccd65ca7115a6f14",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T12:35:24.000Z",
@@ -48217,7 +48221,8 @@
       ],
       "reviewedAt": "2026-10-16T03:52:20.322Z",
       "articleSlug": "brooklyn",
-      "lastReviewedDay": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "publishedAt": "2026-10-16T04:06:23.934Z"
     },
     "23be1511b0ccc0f21363": {
       "source": "The Defiant",
@@ -82710,7 +82715,7 @@
     "2026-10-16": {
       "day": "2026-10-16",
       "startedAt": "2026-10-16T03:31:52.126Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "1858e50514b80a485489",
         "fb494b8b3eb1d9f9ff39",
@@ -83741,7 +83746,7 @@
           "reviewedAt": "2026-10-16T03:42:15.828Z"
         },
         "6e9e26c4e4ee35d7a9f2": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified 49 Founder Edition, summer 2027 ship, Solana Seeker preinstall in the official release, Solana post and Decrypt report.",
           "sourceChecks": [
@@ -83759,10 +83764,11 @@
             }
           ],
           "reviewedAt": "2026-10-16T03:47:35.508Z",
-          "articleSlug": "atom"
+          "articleSlug": "atom",
+          "publishedAt": "2026-10-16T04:06:23.934Z"
         },
         "6c59b48dc370bbd1fc14": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified MSCI Oct 15 non-operating screens, Nov 11 list and Nov 30 effect in the official notice plus two outlet reports.",
           "sourceChecks": [
@@ -83780,10 +83786,11 @@
             }
           ],
           "reviewedAt": "2026-10-16T03:47:37.940Z",
-          "articleSlug": "msci"
+          "articleSlug": "msci",
+          "publishedAt": "2026-10-16T04:06:23.934Z"
         },
         "031208ac91461642af08": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified seven-day STRK poll to Oct 22, research-only scope and early tally in forum post, Unchained and Cointelegraph.",
           "sourceChecks": [
@@ -83801,10 +83808,11 @@
             }
           ],
           "reviewedAt": "2026-10-16T03:47:40.414Z",
-          "articleSlug": "starknet-vote"
+          "articleSlug": "starknet-vote",
+          "publishedAt": "2026-10-16T04:06:23.934Z"
         },
         "065448ab6592e1688b95": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Trezor Jan 2027 reseller cutoff, Ledger seven-market halt and MediaMarkt pull across two Decrypt reports and Cointelegraph.",
           "sourceChecks": [
@@ -83822,7 +83830,8 @@
             }
           ],
           "reviewedAt": "2026-10-16T03:47:42.938Z",
-          "articleSlug": "resellers"
+          "articleSlug": "resellers",
+          "publishedAt": "2026-10-16T04:06:23.934Z"
         },
         "dc32a4c5c8d74de9378c": {
           "status": "rejected",
@@ -84051,7 +84060,7 @@
           "mergedInto": "065448ab6592e1688b95"
         },
         "4c9fccd65ca7115a6f14": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified 241 domains and 112 servers, three-year probe, recovery scam and 300K seized in DA release, CoinDesk and Decrypt.",
           "sourceChecks": [
@@ -84069,7 +84078,8 @@
             }
           ],
           "reviewedAt": "2026-10-16T03:52:20.322Z",
-          "articleSlug": "brooklyn"
+          "articleSlug": "brooklyn",
+          "publishedAt": "2026-10-16T04:06:23.934Z"
         },
         "d791f7a15f5dd38a0a73": {
           "status": "rejected",
@@ -86735,7 +86745,9 @@
         ],
         "total": 170,
         "checkedAt": "2026-10-16T03:31:52.126Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-16T04:06:23.934Z"
     }
   }
 }
