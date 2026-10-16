@@ -46836,11 +46836,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c901cad87a831b64244f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:00:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Advisors column on Wall Street waiting for Congress; commentary, not a concrete news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:27.318Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5608d4647969272d8dc3": {
       "source": "The Block",
@@ -82396,6 +82401,13 @@
           "note": "Bitwise CIO arguing bitcoin wins whether AI booms or busts; pundit opinion, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:25.069Z"
+        },
+        "c901cad87a831b64244f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Advisors column on Wall Street waiting for Congress; commentary, not a concrete news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:27.318Z"
         }
       },
       "baselineSlugs": [
