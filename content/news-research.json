@@ -37657,25 +37657,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ccc74f42f175d6209b4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T19:07:04.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
-      "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece; Trezor cuts resellers as a precaution with no compromise evidence. Trezor notice plus reseller-list confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:57.031Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 Trezor preventative reseller step as covered in /resellers.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:54.308Z",
       "retrySearches": [
         "Trezor reseller cut notice list second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "resellers",
+      "mergedInto": "065448ab6592e1688b95"
     },
     "dbd228880e58842a02dc": {
       "source": "The Defiant",
@@ -83285,6 +83281,15 @@
           "note": "Same Oct 13 Trezor reseller reduction as covered in /resellers.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:51.958Z",
+          "duplicateOf": "resellers",
+          "mergedInto": "065448ab6592e1688b95"
+        },
+        "3ccc74f42f175d6209b4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 Trezor preventative reseller step as covered in /resellers.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:54.308Z",
           "duplicateOf": "resellers",
           "mergedInto": "065448ab6592e1688b95"
         }
