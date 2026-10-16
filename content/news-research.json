@@ -46500,11 +46500,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f9bc246e601ddf638cd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T19:16:27.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Feature on privacy apps having a moment; trend observation without a concrete verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:31.728Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "5be38a55d7382b913be2": {
       "source": "The Defiant",
@@ -82420,6 +82425,13 @@
           "note": "Repackaged Bitwise CIO bull-bear argument on the AI trade; pundit opinion, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:29.510Z"
+        },
+        "8f9bc246e601ddf638cd": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Feature on privacy apps having a moment; trend observation without a concrete verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:31.728Z"
         }
       },
       "baselineSlugs": [
