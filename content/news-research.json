@@ -34650,23 +34650,23 @@
       "id": "79003a0ed35caac2fb63",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T03:02:54.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; XBOW chained three zero-days for a $250K Chrome bounty. Google bulletin plus independent confirmation still needed.",
+      "note": "Opened the Crypto Briefing piece on the $250K Chrome bounty via GPT-5.6. Google bulletin plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:58:46.361Z",
+      "reviewedAt": "2026-10-16T03:58:24.830Z",
       "retrySearches": [
-        "XBOW Chrome exploit Google bulletin second outlet"
+        "XBOW Chrome exploit GPT bounty Google bulletin"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "6b572352d87c446080ff": {
       "source": "Crypto Briefing",
@@ -85541,6 +85541,21 @@
           "reviewedAt": "2026-10-16T03:58:22.497Z",
           "retrySearches": [
             "USDC EBA supervision November 12 reserves handover Circle"
+          ]
+        },
+        "79003a0ed35caac2fb63": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on the $250K Chrome bounty via GPT-5.6. Google bulletin plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/xbow-gpt-5-6-chrome-exploit-bounty/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:24.830Z",
+          "retrySearches": [
+            "XBOW Chrome exploit GPT bounty Google bulletin"
           ]
         }
       },
