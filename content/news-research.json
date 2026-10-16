@@ -43150,23 +43150,23 @@
       "id": "4b93d338baa8d083f481",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T19:11:18.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "Specter-ProveX page blocked again in this run; on-chain evidence and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Specter findings plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:11.964Z",
+      "reviewedAt": "2026-10-16T03:55:26.813Z",
       "retrySearches": [
-        "Specter ProveX Heart-linked funds evidence second outlet"
+        "Specter ProveX ETH inflows Heart-linked funds report"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ef69fdc62ce46c3bc763": {
       "source": "The Block",
@@ -84065,6 +84065,21 @@
           "reviewedAt": "2026-10-16T03:55:24.570Z",
           "retrySearches": [
             "SkyAI Solana sales treasury shareholder Bastion tender"
+          ]
+        },
+        "4b93d338baa8d083f481": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Specter findings plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:26.813Z",
+          "retrySearches": [
+            "Specter ProveX ETH inflows Heart-linked funds report"
           ]
         }
       },
