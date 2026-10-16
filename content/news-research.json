@@ -37682,23 +37682,23 @@
       "id": "dbd228880e58842a02dc",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T19:01:43.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Base earn-borrow page blocked again in this run; Base or Aave notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Base or Aave notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:18.214Z",
+      "reviewedAt": "2026-10-16T03:54:25.030Z",
       "retrySearches": [
-        "Base Earn Borrow Aave Morpho announcement second outlet"
+        "Base Earn Borrow Aave Morpho announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "7b5767d6a69642f175ed": {
       "source": "The Defiant",
@@ -83660,6 +83660,21 @@
           "reviewedAt": "2026-10-16T03:54:22.650Z",
           "retrySearches": [
             "Avalanche KSD Korea tokenization 2027 announcement"
+          ]
+        },
+        "dbd228880e58842a02dc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Base or Aave notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:25.030Z",
+          "retrySearches": [
+            "Base Earn Borrow Aave Morpho announcement"
           ]
         }
       },
