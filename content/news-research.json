@@ -44048,23 +44048,23 @@
       "id": "764e432b27115b0c7c27",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T13:00:00.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "source-blocked",
-      "note": "DriveWealth-Block page blocked again in this run; DriveWealth or Ripple notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; DriveWealth or Ripple notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:55:36.553Z",
+      "reviewedAt": "2026-10-16T03:54:48.264Z",
       "retrySearches": [
-        "DriveWealth Ripple RLUSD settlement notice second outlet"
+        "DriveWealth RLUSD stablecoin settlement announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1f915b89eb965e8094bb": {
       "source": "The Block",
@@ -83810,6 +83810,21 @@
           "reviewedAt": "2026-10-16T03:54:45.928Z",
           "retrySearches": [
             "L2 Capital Newton 500M pre-IPO AI shares tokenization"
+          ]
+        },
+        "764e432b27115b0c7c27": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; DriveWealth or Ripple notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:48.264Z",
+          "retrySearches": [
+            "DriveWealth RLUSD stablecoin settlement announcement"
           ]
         }
       },
