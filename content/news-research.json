@@ -45242,11 +45242,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "064d0c55604609705c31",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:06:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; company production reports plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:16.897Z",
+      "retrySearches": [
+        "CleanSpark BitFuFu September bitcoin production Canaan report"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ea48cb3dadc6274a11a6": {
       "source": "Bitcoin Magazine",
@@ -84591,6 +84605,21 @@
           "reviewedAt": "2026-10-16T03:56:14.630Z",
           "retrySearches": [
             "Multiliquid 8 million tokenized assets settlement raise"
+          ]
+        },
+        "064d0c55604609705c31": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; company production reports plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:16.897Z",
+          "retrySearches": [
+            "CleanSpark BitFuFu September bitcoin production Canaan report"
           ]
         }
       },
