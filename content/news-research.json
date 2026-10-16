@@ -47078,11 +47078,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "38a4cef8d0d0fd1d2ad4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T13:28:48.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "opinion",
+      "note": "Pundit claim that quantum risk is a Bitcoin upside catalyst; speculative opinion, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:15.918Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "f1cd4adb56f4ebe23687": {
       "source": "The Defiant",
@@ -82336,6 +82341,13 @@
           "note": "Fund-manager supercycle prediction for Bitcoin; forecast commentary, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:13.696Z"
+        },
+        "38a4cef8d0d0fd1d2ad4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Pundit claim that quantum risk is a Bitcoin upside catalyst; speculative opinion, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:15.918Z"
         }
       },
       "baselineSlugs": [
