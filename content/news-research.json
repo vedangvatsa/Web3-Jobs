@@ -39950,25 +39950,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc8839c132f1a9406f93",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T10:18:38.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "needs-corroboration",
-      "note": "Read the CryptoBriefing piece; BitFuFu and Finloop launched a BTC-denominated hashrate note. Note terms plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/bitfufu-finloop-launch-hashrate-token-hash/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T12:00:48.832Z",
+      "reason": "promotional",
+      "note": "BitFuFu and Finloop hashrate-token product launch; single-source product marketing, no independent event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:50:04.475Z",
       "retrySearches": [
         "BitFuFu Finloop Hashrate Token terms second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "d791f7a15f5dd38a0a73": {
       "source": "Decrypt",
@@ -83342,6 +83336,13 @@
           "note": "N3XT joining a derivatives collateral network; single-source institutional PR, no independent event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:50:02.050Z"
+        },
+        "bc8839c132f1a9406f93": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "BitFuFu and Finloop hashrate-token product launch; single-source product marketing, no independent event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:50:04.475Z"
         }
       },
       "baselineSlugs": [
