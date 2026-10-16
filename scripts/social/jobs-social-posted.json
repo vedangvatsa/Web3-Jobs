@@ -15127,6 +15127,47 @@
       "attemptId": "ea80315b-0a18-4f3d-a0ed-ec1a6234cd44",
       "verification": "verified",
       "postId": "0x02b9d00bbcfceb81ed81670ba528ab75c2fbb4cf"
+    },
+    {
+      "slug": "dev29",
+      "company": "Alchemy",
+      "title": "Senior Software Engineer, Developer Experience",
+      "platform": "linkedin",
+      "postedAt": "2026-10-16T19:36:22.637Z",
+      "expectedText": "Alchemy is hiring Senior Software Engineer, Developer Experience: https://hashtagweb3.com/dev29/li?og=7",
+      "snapshot": {
+        "id": "fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "title": "Senior Software Engineer, Developer Experience",
+        "company": "Alchemy",
+        "link": "https://jobs.ashbyhq.com/alchemy/fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+        "date": "2026-10-09T18:11:40.726+00:00",
+        "source": "Ashby: Alchemy [alchemy]",
+        "location": "Hybrid (San Francisco)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev29"
+      },
+      "payload": {
+        "text": "Alchemy is hiring Senior Software Engineer, Developer Experience: https://hashtagweb3.com/dev29/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dev29/li?og=7",
+          "title": "Senior Software Engineer, Developer Experience at Alchemy",
+          "description": "Join Alchemy as Senior Software Engineer, Develope. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dev29.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "05880f2b-fadc-4316-9b9e-e7ee5ac2c0bd",
+      "verification": "creating"
     }
   ]
 }
