@@ -46978,11 +46978,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "99c2eae6538e57bb0124",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:00:38.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Analytical question-piece on Strategy STRC buyback cash; speculation without a new concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:22.790Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "7982013c7666ef1e5bdb": {
       "source": "Bankless",
@@ -82372,6 +82377,13 @@
           "note": "Founder interview on running the Saylor playbook in Brazil; profile feature, no fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:20.380Z"
+        },
+        "99c2eae6538e57bb0124": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Analytical question-piece on Strategy STRC buyback cash; speculation without a new concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:22.790Z"
         }
       },
       "baselineSlugs": [
