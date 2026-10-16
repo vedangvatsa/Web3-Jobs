@@ -45065,11 +45065,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5704d422b3548d92038a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T21:10:08.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Analysis that two firms dominate corporate bitcoin buys; research observation, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:52.113Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "df4f05388583190f5f6c": {
       "source": "Bitcoin Magazine",
@@ -82528,6 +82533,13 @@
           "note": "Grayscale volatility study putting bitcoin at 43 percent; same single-study note, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:49.827Z"
+        },
+        "5704d422b3548d92038a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Analysis that two firms dominate corporate bitcoin buys; research observation, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:52.113Z"
         }
       },
       "baselineSlugs": [
