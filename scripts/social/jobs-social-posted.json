@@ -12759,7 +12759,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "5098c7ee-6318-43b1-8ecc-d356c9e1ba2f",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
