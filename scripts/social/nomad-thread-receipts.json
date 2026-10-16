@@ -16,7 +16,13 @@
     "threads": {
       "status": "started",
       "startedAt": "2026-10-16T21:47:23.789Z",
-      "posts": []
+      "posts": [
+        {
+          "index": 0,
+          "status": "claimed",
+          "startedAt": "2026-10-16T21:47:24.933Z"
+        }
+      ]
     }
   }
 }
