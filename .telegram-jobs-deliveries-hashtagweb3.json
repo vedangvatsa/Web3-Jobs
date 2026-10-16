@@ -2339,5 +2339,99 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 155780,
     "sentAt": "2026-10-15T19:32:29.287Z"
+  },
+  "e10828e9-bc4d-4595-bf1d-9f606d669e24": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:21:08.084Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "de72d087-7b79-4496-80b6-d6110276b1e6",
+          "title": "Binance Accelerator Programm - Product Manager (meme)",
+          "company": "Binance",
+          "link": "https://jobs.lever.co/binance/de72d087-7b79-4496-80b6-d6110276b1e6",
+          "date": "2026-09-25T01:48:36.477Z",
+          "source": "Lever: Binance [binance]",
+          "location": "Remote (Hong Kong)",
+          "workplaceType": "remote",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm148"
+        },
+        "key": "de72d087-7b79-4496-80b6-d6110276b1e6",
+        "slug": "pm148",
+        "url": "https://hashtagweb3.com/pm148?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Binance Accelerator Programm"
+      },
+      {
+        "snapshot": {
+          "id": "752846dd-8ae4-4143-a624-f744817b31f1",
+          "title": "Market Expansion Manager",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/752846dd-8ae4-4143-a624-f744817b31f1",
+          "date": "2026-09-23T14:04:57.034+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "New York, NY",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr72"
+        },
+        "key": "752846dd-8ae4-4143-a624-f744817b31f1",
+        "slug": "mgr72",
+        "url": "https://hashtagweb3.com/mgr72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Market Expansion Manager"
+      },
+      {
+        "snapshot": {
+          "id": "744000149885459",
+          "title": "Senior Data Engineer",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000149885459-senior-data-engineer",
+          "date": "2026-09-16T14:23:13.947Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Novi Sad, Vojvodina, Serbia",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng72"
+        },
+        "key": "744000149885459",
+        "slug": "eng72",
+        "url": "https://hashtagweb3.com/eng72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8211233",
+          "title": "Finance & Strategy Senior Analyst",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8211233?t=gh_src=&gh_jid=8211233",
+          "date": "2026-09-24T20:06:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+          "department": "Finance Division",
+          "active": true,
+          "salary": "$111k – $130k/yr",
+          "dateVerified": true,
+          "slug": "an10"
+        },
+        "key": "8211233",
+        "slug": "an10",
+        "url": "https://hashtagweb3.com/an10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Finance & Strategy Senior Analyst"
+      }
+    ],
+    "message": "- Binance is hiring <a href=\"https://hashtagweb3.com/pm148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Binance Accelerator Programm - Product Manager (meme)</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/mgr72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Market Expansion Manager</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/eng72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/an10?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance &amp; Strategy Senior Analyst</a>",
+    "slotKey": "2026-10-16:morning"
   }
 }
