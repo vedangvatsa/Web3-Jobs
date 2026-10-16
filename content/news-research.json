@@ -34979,23 +34979,23 @@
       "id": "88a956aebd85b727440a",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-17T02:49:34.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Coinbase quantum page blocked again in this run; Coinbase post and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Coinbase post plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:04.158Z",
+      "reviewedAt": "2026-10-16T03:54:39.172Z",
       "retrySearches": [
-        "Coinbase Bitcoin post-quantum migration designs post second outlet"
+        "Coinbase Bitcoin post-quantum migration flexible designs post"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "81dcb981dd533acbac1c": {
       "source": "BeInCrypto",
@@ -83750,6 +83750,21 @@
           "reviewedAt": "2026-10-16T03:54:36.755Z",
           "retrySearches": [
             "BNY Citadel tokenized Treasury overnight repo announcement"
+          ]
+        },
+        "88a956aebd85b727440a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Coinbase post plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:39.172Z",
+          "retrySearches": [
+            "Coinbase Bitcoin post-quantum migration flexible designs post"
           ]
         }
       },
