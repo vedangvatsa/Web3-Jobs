@@ -47485,11 +47485,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7f9e4058161d99b22b7b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:48:22.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Ledger statement on the organized group plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/ledger-blames-organized-group-for-months-long-wallet-tampering-campaign",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:55:46.848Z",
+      "retrySearches": [
+        "Ledger organized criminal group wallet tampering statement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "772b2f7c265e903cd64b": {
       "source": "Decrypt",
@@ -84214,6 +84228,21 @@
           "reviewedAt": "2026-10-16T03:55:44.586Z",
           "retrySearches": [
             "Jupiter YOLO beta 1000x leverage launch notice"
+          ]
+        },
+        "7f9e4058161d99b22b7b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; Ledger statement on the organized group plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/ledger-blames-organized-group-for-months-long-wallet-tampering-campaign",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:55:46.848Z",
+          "retrySearches": [
+            "Ledger organized criminal group wallet tampering statement"
           ]
         }
       },
