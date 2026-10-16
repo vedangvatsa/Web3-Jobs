@@ -36058,23 +36058,23 @@
       "id": "b4c774a89c65de4668e2",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T10:06:10.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Metaplanet bond page blocked again in this run; company filing and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Defiant page today; company filing plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:08.113Z",
+      "reviewedAt": "2026-10-16T03:53:58.075Z",
       "retrySearches": [
-        "Metaplanet 52 billion yen bond sale filing second outlet"
+        "Metaplanet 52 billion yen bond filing October 2026"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "2adf22d1d146bf2d1880": {
       "source": "Cointelegraph",
@@ -83495,6 +83495,21 @@
           "reviewedAt": "2026-10-16T03:53:55.801Z",
           "retrySearches": [
             "Autheo THEO bridge exploit Base evidence"
+          ]
+        },
+        "b4c774a89c65de4668e2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Defiant page today; company filing plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:53:58.075Z",
+          "retrySearches": [
+            "Metaplanet 52 billion yen bond filing October 2026"
           ]
         }
       },
