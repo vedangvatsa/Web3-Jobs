@@ -47059,11 +47059,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "01a4847bd2658aa68ab4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:50:10.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the CryptoSlate piece on the A$14M capital rule. ASIC paper plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:04.331Z",
+      "retrySearches": [
+        "Australia A$14 million capital rule crypto ASIC consultation"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "faec9021384cb81c99a3": {
       "source": "Cointelegraph",
@@ -84838,6 +84852,21 @@
           "reviewedAt": "2026-10-16T03:57:02.078Z",
           "retrySearches": [
             "Perpetuals PDC SEC exemption tokenized stocks filing"
+          ]
+        },
+        "01a4847bd2658aa68ab4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on the A$14M capital rule. ASIC paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:04.331Z",
+          "retrySearches": [
+            "Australia A$14 million capital rule crypto ASIC consultation"
           ]
         }
       },
