@@ -45540,11 +45540,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e16cce52577b98c8ef0e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T12:07:08.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "not-a-concrete-event",
+      "note": "Morning Minute newsletter roundup on Solana speed; digest format, not a single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:38:40.740Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "dc32a4c5c8d74de9378c": {
       "source": "The Block",
@@ -82468,6 +82473,13 @@
           "note": "Explainer on quantum fixes and lockout risk for owners; technical analysis, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:38:38.563Z"
+        },
+        "e16cce52577b98c8ef0e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Morning Minute newsletter roundup on Solana speed; digest format, not a single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:38:40.740Z"
         }
       },
       "baselineSlugs": [
