@@ -44658,11 +44658,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "76d8b2e8fbe48e46567f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:26:53.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "duplicate",
+      "note": "Same Oct 15 Starknet seven-day quantum vote as covered in /starknet-vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:48:40.429Z",
+      "duplicateOf": "starknet-vote",
+      "mergedInto": "031208ac91461642af08",
+      "lastReviewedDay": "2026-10-16"
     },
     "5a4a98c04d2da6374bb1": {
       "source": "Cointelegraph",
@@ -83248,6 +83255,15 @@
           "note": "Same Oct 15 Starknet independent-L1 research vote as covered in /starknet-vote.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:48:38.078Z",
+          "duplicateOf": "starknet-vote",
+          "mergedInto": "031208ac91461642af08"
+        },
+        "76d8b2e8fbe48e46567f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 15 Starknet seven-day quantum vote as covered in /starknet-vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:48:40.429Z",
           "duplicateOf": "starknet-vote",
           "mergedInto": "031208ac91461642af08"
         }
