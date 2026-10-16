@@ -46466,11 +46466,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3f35a7f045f7c6ac8fc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T23:22:01.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on the backing bug and compensation plan. Team notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bosmo-bug-holder-compensation-osmosis/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:59.689Z",
+      "retrySearches": [
+        "bOSMO bug compensation Osmosis team announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "1d60f087c4eb2699cc91": {
       "source": "The Defiant",
@@ -86318,6 +86332,21 @@
           "reviewedAt": "2026-10-16T03:59:57.491Z",
           "retrySearches": [
             "scammer 4.8M tampered Ledgers Asia Express evidence"
+          ]
+        },
+        "f3f35a7f045f7c6ac8fc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on the backing bug and compensation plan. Team notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bosmo-bug-holder-compensation-osmosis/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:59.689Z",
+          "retrySearches": [
+            "bOSMO bug compensation Osmosis team announcement"
           ]
         }
       },
