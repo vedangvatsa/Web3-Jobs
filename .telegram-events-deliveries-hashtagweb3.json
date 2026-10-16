@@ -2080,5 +2080,52 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 155779,
     "sentAt": "2026-10-15T19:31:58.641Z"
+  },
+  "a713071a-95ab-4528-917e-495b9730efb1": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:20:44.924Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-bitmela-2026",
+        "slug": "bitmela",
+        "name": "Bitmela 2026",
+        "startDate": "2026-10-30",
+        "keys": [
+          "premier-bitmela-2026",
+          "page:bitmela:2026-10-30",
+          "event:bitmela2026:2026-10-30:jaipur"
+        ]
+      },
+      {
+        "id": "luma-batch-evtxsQpQLAW6ikXL",
+        "slug": "privacy-technology-bitcoin",
+        "name": "Privacy,Technology,and Bitcoin",
+        "startDate": "2026-10-31T04:00:00.000Z",
+        "keys": [
+          "luma-batch-evtxsqpqlaw6ikxl",
+          "fd2jiski",
+          "page:privacy-technology-bitcoin:2026-10-31",
+          "luma:evt-xsqpqlaw6ikxlwx",
+          "luma-url:/fd2jiski",
+          "event:privacytechnologyandbitcoin:2026-10-31:kyoto"
+        ]
+      },
+      {
+        "id": "premier-ibt-mumbai-2026",
+        "slug": "india-blockchain-ai-tour-mumbai",
+        "name": "India Blockchain & AI Tour 2026 - Mumbai",
+        "startDate": "2026-10-31T12:00:00+05:30",
+        "keys": [
+          "premier-ibt-mumbai-2026",
+          "ibt-mumbai",
+          "page:india-blockchain-ai-tour-mumbai:2026-10-31",
+          "url:indiablockchaintour.com/2026-nodes/mumbai/ticket:2026-10-31",
+          "event:indiablockchainaitour2026mumbai:2026-10-31:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-16:morning"
   }
 }
