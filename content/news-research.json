@@ -44330,25 +44330,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c5914da46c47c039dc4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T02:53:59.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "source-blocked",
-      "note": "Ledger-explainer page blocked again in this run; Ledger guidance and a readable second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:55:45.169Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on what is confirmed in Ledger tampering; roundup explainer, not a new concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:42:06.336Z",
       "retrySearches": [
         "Ledger wallet tampering confirmed guidance second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16"
     },
     "d79c96220f3feacf0fb8": {
       "source": "Decrypt",
@@ -82955,6 +82949,13 @@
           "note": "Mezo bridge-out deadline dated Oct 13 has passed with no fresh development; verification window effectively ended.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:42:04.098Z"
+        },
+        "8c5914da46c47c039dc4": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on what is confirmed in Ledger tampering; roundup explainer, not a new concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:42:06.336Z"
         }
       },
       "baselineSlugs": [
