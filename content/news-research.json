@@ -35500,23 +35500,23 @@
       "id": "4efa360a77461ed8e72c",
       "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-16T16:00:00.000Z",
       "lastSeenAt": "2026-10-14T03:31:22.931Z",
       "reason": "source-blocked",
-      "note": "Ripple-Privy page blocked again in this run; Ripple or Privy notice and a readable second outlet still missing.",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Ripple or Privy notice plus a second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:54:06.083Z",
+      "reviewedAt": "2026-10-16T03:54:17.557Z",
       "retrySearches": [
-        "Ripple Privy embedded wallets XRP Ledger announcement second outlet"
+        "Ripple Privy embedded wallets XRP Ledger announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "2ebd702130a2a7c79532": {
       "source": "Cointelegraph",
@@ -83615,6 +83615,21 @@
           "reviewedAt": "2026-10-16T03:54:15.202Z",
           "retrySearches": [
             "Interactive Brokers Zerohash staking second outlet"
+          ]
+        },
+        "4efa360a77461ed8e72c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Ripple or Privy notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:54:17.557Z",
+          "retrySearches": [
+            "Ripple Privy embedded wallets XRP Ledger announcement"
           ]
         }
       },
