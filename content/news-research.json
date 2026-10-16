@@ -45275,11 +45275,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "49aad686e8625b158b74",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T15:48:32.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; DeFi Development notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:12.372Z",
+      "retrySearches": [
+        "DeFi Development CHAD dividend 14% Solana holdings announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "55e0421d5e216b7a0988": {
       "source": "The Defiant",
@@ -84533,6 +84547,21 @@
           "reviewedAt": "2026-10-16T03:56:10.157Z",
           "retrySearches": [
             "Visa Direct USDC prefunding Inyo Global production announcement"
+          ]
+        },
+        "49aad686e8625b158b74": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; DeFi Development notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:12.372Z",
+          "retrySearches": [
+            "DeFi Development CHAD dividend 14% Solana holdings announcement"
           ]
         }
       },
