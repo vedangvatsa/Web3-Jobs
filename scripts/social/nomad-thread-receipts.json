@@ -5,8 +5,9 @@
   "assetCommit": "2b70f55cf6473a6415ec7326a0dea615fc6da491",
   "platforms": {
     "x": {
-      "status": "claimed",
-      "startedAt": "2026-10-16T21:47:15.151Z"
+      "status": "accepted",
+      "startedAt": "2026-10-16T21:47:15.151Z",
+      "postId": "6ad29b6487c49357709c4773"
     }
   }
 }
