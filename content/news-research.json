@@ -39682,23 +39682,23 @@
       "id": "004449998deecc14e080",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T14:08:43.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the CoinDesk piece; Perpetuals.com filed to run tokenized stocks under the SEC innovation exemption. SEC notice plus a second outlet still needed.",
+      "note": "Opened the CoinDesk piece; Perpetuals plans tokenized stocks under an SEC framework. SEC filing record plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:57:20.761Z",
+      "reviewedAt": "2026-10-16T03:57:02.078Z",
       "retrySearches": [
-        "Perpetuals tokenized stocks SEC exemption notice second outlet"
+        "Perpetuals PDC SEC exemption tokenized stocks filing"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "020c4edfe140d9bd39f6": {
       "source": "CoinDesk",
@@ -84823,6 +84823,21 @@
           "reviewedAt": "2026-10-16T03:56:32.700Z",
           "retrySearches": [
             "CoreWeave Broadcom OKX ICE stock tokenization objection letters"
+          ]
+        },
+        "004449998deecc14e080": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CoinDesk piece; Perpetuals plans tokenized stocks under an SEC framework. SEC filing record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:02.078Z",
+          "retrySearches": [
+            "Perpetuals PDC SEC exemption tokenized stocks filing"
           ]
         }
       },
