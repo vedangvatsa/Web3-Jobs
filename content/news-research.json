@@ -42729,27 +42729,23 @@
       "id": "b883039d71d58faa5a57",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-18T00:55:21.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Cointelegraph piece on the closed Coinme deal with license counts. Polygon post plus registry confirmation still needed.",
+      "note": "Opened the Cointelegraph piece; 37 money-transmitter licenses via Coinme. Company notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:39.044Z",
+      "reviewedAt": "2026-10-16T03:59:02.238Z",
       "retrySearches": [
-        "Polygon Coinme registry confirmation second outlet"
+        "Polygon Coinme acquisition 37 money transmitter licenses announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "f45197e38821d52b30eb": {
       "source": "CryptoSlate",
@@ -85801,6 +85797,21 @@
           "reviewedAt": "2026-10-16T03:58:59.883Z",
           "retrySearches": [
             "Hyperliquid Jeff Yan deployers not blockchain CoinDesk remarks"
+          ]
+        },
+        "b883039d71d58faa5a57": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece; 37 money-transmitter licenses via Coinme. Company notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:02.238Z",
+          "retrySearches": [
+            "Polygon Coinme acquisition 37 money transmitter licenses announcement"
           ]
         }
       },
