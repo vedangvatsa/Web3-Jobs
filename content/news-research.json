@@ -47083,11 +47083,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5608d4647969272d8dc3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T14:43:35.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "source-blocked",
+      "note": "Automated fetch returned HTTP 403 for the Block page today; Ripple Prime notice plus a second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:56:05.527Z",
+      "retrySearches": [
+        "Ripple Prime RWA swaps Hyperliquid perpetuals announcement"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "62b635a212ea34d9d2e2": {
       "source": "The Defiant",
@@ -84446,6 +84460,21 @@
           "reviewedAt": "2026-10-16T03:56:02.731Z",
           "retrySearches": [
             "OKX onchain spot perps beta simulated TradFi announcement"
+          ]
+        },
+        "5608d4647969272d8dc3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Automated fetch returned HTTP 403 for the Block page today; Ripple Prime notice plus a second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:56:05.527Z",
+          "retrySearches": [
+            "Ripple Prime RWA swaps Hyperliquid perpetuals announcement"
           ]
         }
       },
