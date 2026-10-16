@@ -44589,11 +44589,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cab35860214bc86bcf69",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T17:00:01.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the CryptoSlate piece on the White House negotiator exit. Confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:13.848Z",
+      "retrySearches": [
+        "Patrick Witt White House crypto negotiator exit confirmation"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "031208ac91461642af08": {
       "source": "Unchained",
@@ -85868,6 +85882,21 @@
           "reviewedAt": "2026-10-16T03:59:11.492Z",
           "retrySearches": [
             "BNY Citadel tokenized Treasuries financing test triparty"
+          ]
+        },
+        "cab35860214bc86bcf69": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the CryptoSlate piece on the White House negotiator exit. Confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:13.848Z",
+          "retrySearches": [
+            "Patrick Witt White House crypto negotiator exit confirmation"
           ]
         }
       },
