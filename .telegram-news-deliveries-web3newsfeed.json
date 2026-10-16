@@ -1525,5 +1525,36 @@
     "slotKey": "2026-10-15:evening",
     "messageId": 65753,
     "sentAt": "2026-10-15T19:35:32.486Z"
+  },
+  "9ca991ea-9d22-438b-995e-80e642056182": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T04:22:31.910Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Tether unblocks THORChain Tron vaults after brief freeze",
+        "summary": "Tether briefly locked $1.45 million in protocol funds on Oct. 9 before restoring access without loss.",
+        "link": "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether blacklists four THORChain vaults, then reverses within hours"
+      },
+      {
+        "index": -1,
+        "headline": "Bitcoin Core Patches SIGHASH_SINGLE Vulnerability",
+        "summary": "Developers integrated a fix for a specific transaction signing issue into the Bitcoin Core software on September 25.",
+        "link": "https://hashtagweb3.com/core-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitcoin Core Merged Fix for SIGHASH_SINGLE Signing Gap on September 25"
+      },
+      {
+        "index": -1,
+        "headline": "Circle Proposes Changes to EU MiCA Stablecoin Regulations",
+        "summary": "The company requested that regulators allow multi-issuance and replace bank deposit requirements with new liquidity standards.",
+        "link": "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Circle Asks EU to Keep Multi-Issuance and Ease MiCA Reserve Rules"
+      }
+    ],
+    "slotKey": "2026-10-16:morning"
   }
 }
