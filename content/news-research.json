@@ -47261,11 +47261,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3243c0f677df6108cd1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:38:10.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Unchained piece on EBA supervision from Nov 12. EBA notice plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/usdcs-eu-reserves-and-capital-shift-to-eba-supervision-in-micas-first-significant-call/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:59:55.164Z",
+      "retrySearches": [
+        "USDC EBA supervision Circle EU reserves November 12"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ede866d36daad4934a58": {
       "source": "CoinJournal",
@@ -86260,6 +86274,21 @@
           "reviewedAt": "2026-10-16T03:59:52.939Z",
           "retrySearches": [
             "ENS DAO ENSv2 upgrade vote proposal"
+          ]
+        },
+        "f3243c0f677df6108cd1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Unchained piece on EBA supervision from Nov 12. EBA notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/usdcs-eu-reserves-and-capital-shift-to-eba-supervision-in-micas-first-significant-call/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:59:55.164Z",
+          "retrySearches": [
+            "USDC EBA supervision Circle EU reserves November 12"
           ]
         }
       },
