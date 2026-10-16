@@ -45732,11 +45732,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "32a0ffc425115af008ac",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T02:12:26.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Bank of England remarks on inflation and cost-cutting; macro policy, not Web3 news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:39:29.655Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "19298917112923b343ca": {
       "source": "BeInCrypto",
@@ -82601,6 +82606,13 @@
           "note": "Fundstrat technician on buying the tech dip; equities commentary, not Web3 news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:39:27.406Z"
+        },
+        "32a0ffc425115af008ac": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bank of England remarks on inflation and cost-cutting; macro policy, not Web3 news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:39:29.655Z"
         }
       },
       "baselineSlugs": [
