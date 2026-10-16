@@ -45913,11 +45913,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1a94a607086657d884bb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:20:35.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "out-of-scope",
+      "note": "Ark buying CoreWeave shares on a slide; equities trade, not a Web3 concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:40:24.258Z",
+      "lastReviewedDay": "2026-10-16"
     },
     "7845824bd149a71442f5": {
       "source": "Crypto Briefing",
@@ -82877,6 +82882,13 @@
           "note": "Generic AI-competition essay after safety pause; AI commentary, not a Web3 concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:40:21.845Z"
+        },
+        "1a94a607086657d884bb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Ark buying CoreWeave shares on a slide; equities trade, not a Web3 concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:40:24.258Z"
         }
       },
       "baselineSlugs": [
