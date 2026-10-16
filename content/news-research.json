@@ -44542,11 +44542,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5740f6269331a5ee0b94",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T17:14:45.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece on WSJ-reported GENIUS Act profits. WSJ original plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:57:57.177Z",
+      "retrySearches": [
+        "Bo Hines Tether payments GENIUS Act WSJ report"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "cab35860214bc86bcf69": {
       "source": "CryptoSlate",
@@ -85305,6 +85319,21 @@
           "reviewedAt": "2026-10-16T03:57:54.891Z",
           "retrySearches": [
             "Metaplanet 380 million share buyback filing October 2026"
+          ]
+        },
+        "5740f6269331a5ee0b94": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on WSJ-reported GENIUS Act profits. WSJ original plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:57.177Z",
+          "retrySearches": [
+            "Bo Hines Tether payments GENIUS Act WSJ report"
           ]
         }
       },
