@@ -47130,11 +47130,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a82f5304a32cecac9271",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-18T16:49:59.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Cointelegraph piece on the Riksbank legislation call. Riksbank report plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:58:55.232Z",
+      "retrySearches": [
+        "Riksbank digital krona legislation recommendation ECB euro"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "f3243c0f677df6108cd1": {
       "source": "Unchained",
@@ -85746,6 +85760,21 @@
           "reviewedAt": "2026-10-16T03:58:53.019Z",
           "retrySearches": [
             "AI agents crypto payments 138 million report US spending"
+          ]
+        },
+        "a82f5304a32cecac9271": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Cointelegraph piece on the Riksbank legislation call. Riksbank report plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:55.232Z",
+          "retrySearches": [
+            "Riksbank digital krona legislation recommendation ECB euro"
           ]
         }
       },
