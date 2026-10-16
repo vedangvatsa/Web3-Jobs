@@ -40914,23 +40914,23 @@
       "id": "f6927a833cb46682dda6",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T17:46:05.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; StanChart opened BTC and ETH trading for UAE professionals under VARA approval. Bank notice plus custody-detail confirmation still needed.",
+      "note": "Opened the Decrypt piece on UAE bitcoin and ether trading. Company notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:59:15.696Z",
+      "reviewedAt": "2026-10-16T04:00:04.328Z",
       "retrySearches": [
-        "Standard Chartered UAE trading VARA notice second outlet"
+        "Standard Chartered UAE bitcoin ethereum trading announcement"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "cc02e00afa67466045e2": {
       "source": "The Block",
@@ -86362,6 +86362,21 @@
           "reviewedAt": "2026-10-16T04:00:01.928Z",
           "retrySearches": [
             "Coins.ph app lockout central bank intervention BSP"
+          ]
+        },
+        "f6927a833cb46682dda6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece on UAE bitcoin and ether trading. Company notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T04:00:04.328Z",
+          "retrySearches": [
+            "Standard Chartered UAE bitcoin ethereum trading announcement"
           ]
         }
       },
