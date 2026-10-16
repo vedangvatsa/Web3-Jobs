@@ -1528,5 +1528,38 @@
     "slotKey": "2026-10-16:morning",
     "messageId": 193355,
     "sentAt": "2026-10-16T04:23:54.718Z"
+  },
+  "10192a37-fb71-4022-a66c-7394f4e69875": {
+    "status": "reserved",
+    "reservedAt": "2026-10-16T11:33:00.074Z",
+    "stories": [
+      {
+        "index": 8,
+        "original_title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "headline": "Ricursive Intelligence develops AI to automate chip design",
+        "summary": "The startup uses iterative machine learning to accelerate the creation of hardware and address global computing shortages.",
+        "event_rationale": "This covers the application of machine learning to automate hardware design and improve semiconductor production efficiency.",
+        "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "source": "TechCrunch",
+        "originalTitle": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
+      },
+      {
+        "index": 1,
+        "headline": "Retinal implant restores vision for age-related macular degeneration patients",
+        "summary": "The Prima system uses a camera and implant to treat sight loss and is awaiting US approval.",
+        "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+        "source": "MIT Tech Review",
+        "originalTitle": "This implant can restore sight for patients with macular degeneration"
+      },
+      {
+        "index": 2,
+        "headline": "Barnabas and Mainspring Increase Local Operational Collaboration",
+        "summary": "Despite physical proximity, Barnabas and Mainspring historically maintained limited contact while communicating mostly with distant partners.",
+        "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Love is infrastructure"
+      }
+    ],
+    "slotKey": "2026-10-16:afternoon"
   }
 }
