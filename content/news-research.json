@@ -44376,11 +44376,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "92385a42a0f0356abb13",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-19T00:34:00.000Z",
-      "lastSeenAt": "2026-10-16T03:31:52.126Z"
+      "lastSeenAt": "2026-10-16T03:31:52.126Z",
+      "reason": "needs-corroboration",
+      "note": "Opened the Crypto Briefing piece on the refused vacatur. Court order plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/judge-denies-gemini-cftc-vacate-penalty/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-16T03:58:31.818Z",
+      "retrySearches": [
+        "Gemini CFTC settlement judge refuses vacate order"
+      ],
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "ac2f789a80c9d2b916a3": {
       "source": "Crypto Briefing",
@@ -85586,6 +85600,21 @@
           "reviewedAt": "2026-10-16T03:58:29.499Z",
           "retrySearches": [
             "Babylon native bitcoin collateral Aave V4 proposal"
+          ]
+        },
+        "92385a42a0f0356abb13": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Crypto Briefing piece on the refused vacatur. Court order plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/judge-denies-gemini-cftc-vacate-penalty/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:58:31.818Z",
+          "retrySearches": [
+            "Gemini CFTC settlement judge refuses vacate order"
           ]
         }
       },
