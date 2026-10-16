@@ -41022,23 +41022,23 @@
       "id": "356e9b33c575a7e73f4b",
       "status": "deferred",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T16:15:19.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
       "reason": "needs-corroboration",
-      "note": "Read the Decrypt piece; Coinbase blog urges starting Bitcoin quantum migration now. Coinbase post plus a second outlet still needed.",
+      "note": "Opened the Decrypt piece pressing a Bitcoin quantum migration start. Coinbase post plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-15T11:57:22.854Z",
+      "reviewedAt": "2026-10-16T03:57:31.848Z",
       "retrySearches": [
-        "Coinbase Bitcoin quantum migration blog second outlet"
+        "Coinbase Bitcoin post-quantum migration designs post"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "nextReviewDate": "2026-10-17"
     },
     "8cf2e25e2a9cc92881b0": {
       "source": "CoinDesk",
@@ -85098,6 +85098,21 @@
           "reviewedAt": "2026-10-16T03:57:29.603Z",
           "retrySearches": [
             "OCC debanking report crypto activities nine banks"
+          ]
+        },
+        "356e9b33c575a7e73f4b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Opened the Decrypt piece pressing a Bitcoin quantum migration start. Coinbase post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-16T03:57:31.848Z",
+          "retrySearches": [
+            "Coinbase Bitcoin post-quantum migration designs post"
           ]
         }
       },
