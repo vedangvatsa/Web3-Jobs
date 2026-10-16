@@ -40010,25 +40010,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a9a9d7cdae467ab8072",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-15T11:31:34.799Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-17T17:56:45.000Z",
       "lastSeenAt": "2026-10-15T11:31:34.799Z",
-      "reason": "missing-primary-source",
-      "note": "Read the Cointelegraph piece on the same 112-server takedown with FBI loss context. DA release plus arrest-status confirmation still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-15T11:58:33.549Z",
+      "reason": "duplicate",
+      "note": "Same US authorities dismantling of the Russian-speaker crypto scam network as covered in /brooklyn.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-16T03:52:31.546Z",
       "retrySearches": [
         "Brooklyn FBI scam takedown arrests DA release second outlet"
       ],
-      "lastReviewedDay": "2026-10-15",
-      "nextReviewDate": "2026-10-16"
+      "lastReviewedDay": "2026-10-16",
+      "duplicateOf": "brooklyn",
+      "mergedInto": "4c9fccd65ca7115a6f14"
     },
     "ab08dc2dbefb8e581cc7": {
       "source": "Decrypt",
@@ -83418,6 +83414,15 @@
           "note": "Same Brooklyn DA crypto scam network takedown as covered in /brooklyn.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-16T03:52:29.090Z",
+          "duplicateOf": "brooklyn",
+          "mergedInto": "4c9fccd65ca7115a6f14"
+        },
+        "0a9a9d7cdae467ab8072": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US authorities dismantling of the Russian-speaker crypto scam network as covered in /brooklyn.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-16T03:52:31.546Z",
           "duplicateOf": "brooklyn",
           "mergedInto": "4c9fccd65ca7115a6f14"
         }
