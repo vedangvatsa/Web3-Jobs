@@ -15490,7 +15490,8 @@
       },
       "account": "channel:web3",
       "attemptId": "c1bab98d-5d4c-4d32-ba2a-44854515d54e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xca173b7b40127f46da16352b396b739b64a2e75a"
     }
   ]
 }
