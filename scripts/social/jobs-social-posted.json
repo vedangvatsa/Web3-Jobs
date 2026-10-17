@@ -20309,7 +20309,8 @@
       },
       "account": "channel:growth",
       "attemptId": "0acef99f-8f09-4024-add2-46af30856f1e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2af21320c02b3254d420fc2627f9bf88e9b193f2"
     }
   ]
 }
