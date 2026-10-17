@@ -782,6 +782,9 @@
   "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/heart-arrest?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/alpenglow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/witt-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/seized-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2247,6 +2250,12 @@
   "Richard Heart detained in Istanbul on Finnish request",
   "Solana schedules Alpenglow consensus activation for October 21 2026",
   "Solana sets Oct. 21 for Alpenglow consensus switch",
+  "White House Crypto Director Patrick Witt Resigns",
+  "White House crypto chief Patrick Witt steps down",
+  "UK Court Applies Chinese Law to Seized Bitcoin Case",
+  "UK court applies Chinese law to claims on 61,000 seized bitcoin",
+  "Drift Foundation Opens DFX Claims for April Exploit Victims",
+  "Drift opens DFX claims with redemptions near one cent per dollar",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2558,5 +2567,8 @@
   "fp:acquir|agre|approval|bank|buy|conclud|in2027|institution|licens|lithuanian",
   "fp:asian|by2027|cut|dur|end|halt|ledger|market|paus|prob",
   "fp:2026|authority|custody|detain|finland|finnish|follow|founder|heart|hex",
-  "fp:2026|activation|alpenglow|chang|consensus|epoch1064|finality|millisecond|oct21|october21"
+  "fp:2026|activation|alpenglow|chang|consensus|epoch1064|finality|millisecond|oct21|october21",
+  "fp:2026|announc|chief|departur|director|down|his|hous|leav|nam",
+  "fp:000|apply|asset|can|cas|chines|claim|court|decision|forfeitur",
+  "fp:2995m|affect|against|april|can|cent|claim|dfx|dollar|drift"
 ]
