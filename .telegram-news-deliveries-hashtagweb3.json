@@ -1591,5 +1591,36 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 155805,
     "sentAt": "2026-10-17T03:55:25.873Z"
+  },
+  "01900d8d-5cee-4a6f-b4cc-15744beb5320": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:34:48.861Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Patrick Witt Resigns as White House Crypto Council Director",
+        "summary": "He announced his departure on Oct. 15, 2026, with no successor immediately named.",
+        "link": "https://hashtagweb3.com/witt-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "White House crypto chief Patrick Witt steps down"
+      },
+      {
+        "index": -1,
+        "headline": "Strive buys 2,000 BTC and opens $500 million buyback facility",
+        "summary": "An SEC filing shows total holdings reached 29,462 BTC alongside a new repurchase option for SATA preferred shares.",
+        "link": "https://hashtagweb3.com/strive-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive buys 2,000 BTC and opens $500M buyback facility for SATA preferred stock"
+      },
+      {
+        "index": -1,
+        "headline": "ZachXBT Infiltrates Crypto Laundering Network Tied to Bybit Hack",
+        "summary": "Posing as a client, the investigator provided 349,700 USDC on October 5 to trace $12 million in stolen funds.",
+        "link": "https://hashtagweb3.com/zachxbt-syndicate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ZachXBT Says He Posed as Client to Expose Lazarus Launderers"
+      }
+    ],
+    "slotKey": "2026-10-17:afternoon"
   }
 }
