@@ -1690,5 +1690,36 @@
     "slotKey": "2026-10-17:afternoon",
     "messageId": 65758,
     "sentAt": "2026-10-17T11:34:39.518Z"
+  },
+  "e8a010fd-e740-47d8-a386-2138aafdb359": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:35:37.599Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Rain applies for US national trust bank charter",
+        "summary": "The company intends to provide custody, reserve management, and stablecoin issuance through the proposed entity.",
+        "link": "https://hashtagweb3.com/rain-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Rain Files OCC Bid to Charter National Trust Bank for Stablecoin Business"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Staking Queues Reach Multi-Year Highs",
+        "summary": "Over 786,000 ETH awaits exit and 1.5 million ETH awaits entry following precautionary validator withdrawals by MetaMask.",
+        "link": "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators"
+      },
+      {
+        "index": -1,
+        "headline": "Illinois Officials Propose Delaying Crypto Tax to July 2027",
+        "summary": "A joint court motion seeks to postpone the 0.2% tax implementation from January to July 2027.",
+        "link": "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027"
+      }
+    ],
+    "slotKey": "2026-10-17:evening"
   }
 }
