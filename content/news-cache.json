@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-17T11:31:35.882Z",
+  "generatedAt": "2026-10-17T14:20:22.915Z",
   "items": [
+    {
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "pubDate": "Sat, 17 Oct 2026 13:01:04 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 17 Oct 2026 12:58:03 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Brooklyn Prosecutors Seize 112 Servers in Crypto Investment Scam Targeting Russian Community in US",
+      "link": "https://dailyhodl.com/2026/10/17/brooklyn-prosecutors-seize-112-servers-in-crypto-investment-scam-targeting-russian-community-in-us/",
+      "pubDate": "Sat, 17 Oct 2026 11:45:24 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Brooklyn DA's Virtual Currency Unit dismantled a multinational crypto investment scam, seizing 241 domains and 112 servers after it stole tens of mill...",
+      "source": "Daily Hodl"
+    },
     {
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -143,14 +175,6 @@
       "pubDate": "Fri, 16 Oct 2026 14:10:43 GMT",
       "creator": "Blockchain.News",
       "contentSnippet": "Tether said it signed an MoU with Kazakhstan's National Bank and Alatau City Authority to study stablecoin use cases and asset tokenization. (Read Mor...",
-      "source": "Blockchain.News"
-    },
-    {
-      "title": "Tether invests in EFY Finance to expand stablecoin rails in Latin America",
-      "link": "https://Blockchain.News/news/tether-invests-efy-finance-expand-stablecoin-rails-latin-america",
-      "pubDate": "Fri, 16 Oct 2026 14:02:43 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Tether said it invested in EFY Finance’s seed round to support institutional USD₮ and USA₮ use across Latin America. (Read More)",
       "source": "Blockchain.News"
     },
     {
@@ -490,22 +514,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-      "pubDate": "Thu, 15 Oct 2026 12:35:24 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest ",
-      "link": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 12:12:57 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpo...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: Solana Is About To Get Faster",
       "link": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
       "pubDate": "Thu, 15 Oct 2026 12:07:08 +0000",
@@ -554,14 +562,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
-      "pubDate": "Thu, 15 Oct 2026 09:53:37 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial st...",
-      "source": "Coindesk"
-    },
-    {
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
       "pubDate": "Wed, 14 Oct 2026 20:16:05 +0000",
@@ -586,11 +586,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-      "link": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-      "pubDate": "Wed, 14 Oct 2026 13:47:44 +0000",
+      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+      "link": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
+      "pubDate": "Wed, 14 Oct 2026 14:03:20 +0000",
       "creator": "Agent",
-      "contentSnippet": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.",
+      "contentSnippet": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.",
       "source": "Decrypt"
     }
   ]
