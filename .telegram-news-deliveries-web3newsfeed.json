@@ -1624,5 +1624,36 @@
     "slotKey": "2026-10-16:evening",
     "messageId": 65756,
     "sentAt": "2026-10-16T19:36:11.462Z"
+  },
+  "0f33c565-c79a-4540-925a-f0eef890a286": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:55:12.174Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Trezor ends reseller deals as Ledger pauses Asian sales",
+        "summary": "Trezor will revoke reseller status by 2027, while Ledger requested sales suspensions in seven Asian markets during a probe.",
+        "link": "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trezor cuts resellers as Ledger halts sales in seven markets"
+      },
+      {
+        "index": -1,
+        "headline": "HEX founder Richard Heart detained in Istanbul",
+        "summary": "Turkish authorities took Heart into custody on October 14, 2026, following an Interpol Red Notice requested by Finland.",
+        "link": "https://hashtagweb3.com/heart-arrest?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Richard Heart detained in Istanbul on Finnish request"
+      },
+      {
+        "index": -1,
+        "headline": "Solana schedules Alpenglow consensus activation for October 21 2026",
+        "summary": "This change replaces TowerBFT at epoch 1064 to reach 150-millisecond transaction finality.",
+        "link": "https://hashtagweb3.com/alpenglow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana sets Oct. 21 for Alpenglow consensus switch"
+      }
+    ],
+    "slotKey": "2026-10-17:morning"
   }
 }
