@@ -17173,7 +17173,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "d5f9382c-94db-474b-99c5-4d9a741970b3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x50a1b7b6e3f6cbdd8805768e62d88a2f04e45da5"
     }
   ]
 }
