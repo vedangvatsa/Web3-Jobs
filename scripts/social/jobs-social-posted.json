@@ -19913,7 +19913,8 @@
       },
       "account": "channel:dev",
       "attemptId": "ade6d8e8-b7ef-43f8-9db4-7379b054d6ad",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5e9f06f5f7c20dd55910561bd255770edd0559c8"
     }
   ]
 }
