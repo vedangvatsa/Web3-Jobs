@@ -534,53 +534,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-where-europes-digital-asset-leaders-come-together",
-    "name": "Where Europe's Digital Asset Leaders Come Together",
-    "description": "Join Fireblocks at EBC Barcelona for afternoon drinks and conversation with digital asset leaders from across Europe.\n\nAs Stablecoin and agentic AI reshape the infrastructure conversation, this gathering brings the players who are building for what comes next and defining the ecosystem. A relaxed setting to make the connections that matter, with peers who are already fluent in what's changing.\n\nSpace is limited and attendance is by invitation only.\n\nFireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians. Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.com)\n\nNote: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*\n\n*This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation email of registration for approval for entry.\nSecurity note: Fireblocks will never transfer you NFTs/tokens or ask for your wallet information to attend our events.",
-    "startDate": "2026-09-17T10:00:00.000Z",
-    "endDate": "2026-09-17T11:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/rbfq82xs",
-    "coverImage": "/events/w3v-where-europes-digital-asset-leaders-come-toget-250dd4e8.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Fireblocks"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Madrid",
-    "slug": "wedalct",
-    "registrationUrl": "https://luma.com/rbfq82xs",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "EBC Barcelona 2026",
-      "url": "https://eblockchainconvention.com/european-blockchain-convention-12/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rbfq82xs",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/rbfq82xs",
-      "eventId": "evt-TvZ3OPpZhvHsnyL",
-      "fetchedAt": "2026-09-19T23:49:42.577Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-softstack-vip-dinner-1787258914817",
     "name": "Softstack VIP Dinner",
     "description": "## VIP Dinner by Softstack\n\nAn invitation only evening for founders, investors and partners in Barcelona.\n\nJoin Softstack for a private rooftop dinner during EBC Barcelona, bringing together a curated group of  ecosystem partners, investors and selected Web3 founders.\n\n## No pitching. No noise. No big crowds.\n\nJust good food, drinks, a strong room and meaningful conversations with people building, funding, securing and scaling the next generation of Web3 products.\n\nThis evening is designed for high quality networking in a more personal setting.\n\nWho this is for\n\n• Existing Softstack clients & Partners\n• Early Stage Founders working on exciting Web3 products\n• Selected teams exploring security, development or partnership support in the next six months https://softstack.io/service-partner-program-spp/\n\n## About Softstack\n\nSoftstack is the leading German web3 development & end-to-end security firm. Around since 2017, 0 exploits.\n\nSoftstack is EBC's partner for the Startup Battle. If you're interested in the same perks for your portfolio firms, accelerator or hackathon, RSVP or get in touch with Michael at EBC.\n\nLocation\n\nBarcelona rooftop venue\nExact location shared with approved guests only\n\nFormat\n\nPrivate dinner\nCurated guest list\nHigh signal networking\n\nAfter\n\nAfter dinner feel free to join us at EBC's closing party !",
@@ -21492,7 +21445,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316844007/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844007-27555cfc.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21762,7 +21715,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22154,7 +22107,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316844014/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844014-cca17803.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22350,7 +22303,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316844003/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844003-9f7255b0.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24180,7 +24133,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316843996/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316843996-ed02cbb2.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24309,5 +24262,116 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "w3v-qie-hackathon-3-0-5-1792208960420",
+    "name": "QIE Hackathon 3.0",
+    "description": "QIE Mainnet Hackathon 3.0: a four-month online hackathon with five tracks, mainnet deployment requirements and a $17,000 prize pool.",
+    "startDate": "2026-08-01T22:00:00.000Z",
+    "endDate": "2026-12-10T21:59:00.000Z",
+    "city": "Global",
+    "country": "",
+    "location": "Global",
+    "url": "https://hackathon.qie.digital",
+    "coverImage": null,
+    "month": "August 2026"
+  },
+  {
+    "id": "mu-316759259",
+    "name": "Good Stocks.  Current Crypto strategy. Beginners welcome - ",
+    "description": "",
+    "startDate": "2026-10-18T21:00:00-04:00",
+    "endDate": "2026-10-18T21:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/boston_crypto-traders_and_investors/events/316759259/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316843990",
+    "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
+    "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
+    "startDate": "2026-10-21T10:00:00-04:00",
+    "endDate": "2026-10-21T10:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-montreal/events/316843990/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-tqQWKI8FKhhBJLd",
+    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
+    "description": "",
+    "startDate": "2026-10-22T07:15:00.000Z",
+    "endDate": "2026-10-22T15:00:00.000Z",
+    "city": "Luzern",
+    "country": "Switzerland",
+    "location": "Luzern, Switzerland",
+    "url": "https://lu.ma/d5xp3mvp",
+    "coverImage": "/events/luma-evt-tqqwki8fkhhbjld-351a9272.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-f4kr9gtDbAniGt2",
+    "name": "Crypto Valley Cycling Club - Zug",
+    "description": "",
+    "startDate": "2026-10-23T14:00:00.000Z",
+    "endDate": "2026-10-23T16:00:00.000Z",
+    "city": "Zug",
+    "country": "Switzerland",
+    "location": "Zug, Switzerland",
+    "url": "https://lu.ma/CVCC-Zug-Oct23",
+    "coverImage": "/events/luma-evt-f4kr9gtdbanigt2-1e74e27f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-CC0ATdhtuy5KNt2",
+    "name": "Zug Ethereum Meetup #1 - Ethereum Economic Zone [WS]",
+    "description": "",
+    "startDate": "2026-10-23T14:30:00.000Z",
+    "endDate": "2026-10-23T17:30:00.000Z",
+    "city": "Zug",
+    "country": "Switzerland",
+    "location": "Zug, Switzerland",
+    "url": "https://lu.ma/omfwmnbr",
+    "coverImage": "/events/luma-evt-cc0atdhtuy5knt2-2bef6a88.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316859623",
+    "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+    "description": "The new Blockchain Decentralisation Index Lab is an open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyon",
+    "startDate": "2026-10-29T11:00:00-04:00",
+    "endDate": "2026-10-29T11:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-montreal/events/316859623/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316802708",
+    "name": "ZK Learning Group: Quantum resistance and ZKP",
+    "description": "A learning group for zero knowledge and SNARK application development.\n\nDuring the year we will systematically explore different aspects of zero knowledge and SNARK programming in application developm",
+    "startDate": "2026-10-29T13:00:00-04:00",
+    "endDate": "2026-10-29T13:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]

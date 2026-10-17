@@ -19489,159 +19489,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-41bf18313e31719c"></a>
-
-## Building from Ideas to Code (and back) w/ Miro & Codex
-
-- Record: `luma-crypto-CXEnXQMqj1Meuty`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/miro-codex>
-
-### About the event
-
-What happens when your team's ideas can move straight from the canvas into working code?
-
-Join the Miro and Codex communities for an afternoon of demos, building, and experimentation. Explore what happens when frontier intelligence meets multi-player collective intelligence.
-
-Hear the latest from OpenAI, explore Miro's newest AI features, and see how the two can work together to take a project from shared visual thinking into working code, and bring what's being built back into a space your team can discuss and iterate on together.
-
-Get a first look at Miro's new plugin for ChatGPT Work and Codex, powered by Miro's MCP Server, before getting time to build and experiment for yourself.
-
-Just bring your laptop, an idea if you have one, and come ready to build.
-
-### What'll Happen
-
-- 3-3.30 PM: Registration + Networking
-- 3.30-3.40 PM: Welcome + Latest OpenAI Updates
-- 3.40-3.50 PM: Getting Started with Miro AI, with Pete Bradd (Chief Evangelist, Miro)
-- 3.50-4.00 PM: Demo by Gabriel Chua (DX Engineer, OpenAI)
-- 4.00-5.00 PM: Build Time
-- 5.00-5.20 PM: Show & Tell
-- 5.20-6.00 PM: Networking
-
-Psst...got something interesting to show? Let us know when you register if you'd like to demo what you've built to the community.
-
-Do note:
-
-- Space is limited and registration is subject to approval. Registering indicates your interest in attending, and confirmed participants will receive a ticket by 15 September.
-- Please bring an internet-connected laptop for the build portion of the session.
-
-More About the Series
-
-Tinker Time is Lorong AI's hands-on meetup combining guided workshops with open collaboration time for builders to share code, troubleshoot together, and experiment with AI development techniques.
-
-[Get involved: Learn more about Lorong AI](https://lorong.ai/?utm_source=luma) | [Speaker Sign-up](https://go.gov.sg/lai-share?utm_source=luma)| [WhatsApp Community](https://go.gov.sg/aiweds-community?utm_source=luma)| [LinkedIn](https://go.gov.sg/lai-li?utm_source=luma)| [X](https://go.gov.sg/lai-x?utm_source=luma)
-
-<a id="event-28a63b3d723ddd68"></a>
-
-## Crossing the Fiat–Crypto Boundary: Basel III, Compliance and Control
-
-- Record: `luma-crypto-AMhTnCWXTOkbooi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1czivcbs>
-
-### About the event
-
-UPDATE: due to overwhelming demand, this event is now at capacity! Please register anyway to join the waiting list and we'll notify you if a seat is available. Thank you for your interest!
-
-Hong Kong has moved beyond the question of whether crypto should be regulated. The harder question is how banks, securities firms, exchanges, and stablecoin payment providers make different regulatory regimes and control systems work together.
-
-Basel III shapes how banks approach cryptoasset exposure. Securities and virtual asset firms face their own licensing, custody, and market-conduct obligations. Across the chain, compliance teams must detect financial crime using customer records, fiat transactions, wallet activity, and blockchain data that rarely sit in the same system.
-
-One panel. Every side of the fiat-crypto boundary.
-
-These speakers have sat on every side of the table: regulating financial markets, leading compliance inside banks and securities firms, operating global crypto exchanges, advising law enforcement, and applying those rules to stablecoin payments.
-
-- Angelina Kwan, CEO at Stratford Finance Limited, formerly Global COO at BitMEX and HashKey Group, HKEX, and SFC.
-- Avina Lobo, Regulatory Compliance Lead at Reap, formerly Animoca Brands and Bitget
-- Debra Au, Co-chair of Global Coalition Fighting for Financial Crime APAC and Cyber Crime Policing Advisory Panel Member at Hong Kong Police Force. Previously Head of Financial Crime at HSBC HK, Societe Generale, and DBS.
-- Lorraine Li, Head of Compliance at Mirae Asset Securities. Previously Head of Compliance Advisory at HSBC HK.
-- Moderated by Teodora Irimia, Senior Account Executive, Flagright
-
-Together, they will examine:
-
-- Who monitors a transaction that passes through a bank, exchange, stablecoin provider, and self-hosted wallet?
-- What changes when an established financial group acquires or partners with a crypto business?
-- When is de-risking prudent, and when does it push activity beyond the regulated perimeter?
-- What controls and evidence should regulators expect when monitoring spans both fiat and on-chain activity?
-
-A practitioner-led discussion for people working in virtual assets, regulatory policy, compliance, payments, securities, and institutional treasury.
-
-### AGENDA
-
-04:00 PM: Doors open, registration, and coffee refreshments
-
-04:45 PM: Panel discussion: Crossing the Fiat-Crypto Boundary: Basel III, Compliance and Control
-
-- Audience Q&A and moderated discussion
-- Live Demo
-
-05:30 PM: Networking
-
-7:00 PM: Close
-
-[Notice: there may be photos taken during this event, please advise the host if you do not wish to have your photo shared.]
-
-<a id="event-fbeb92bfe566e4f1"></a>
-
-## House of Sol Workshops - Privacy on Solana
-
-- Record: `luma-crypto-bggUZdKABBZZcLz`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hos-workshops-privacy>
-
-### About the event
-
-A practitioner workshop on how confidential transactions work on Solana, and what they mean for institutions moving regulated assets onchain.
-
-Led by Andre Correia at the Solana Foundation, this session covers the privacy primitives available today, where they sit in the transaction lifecycle and how firms can meet confidentiality expectations without giving up auditability. Pitched at people who need to explain this internally, not at engineers.
-
-Part of a full day at House of Sol on 17 September, alongside Tokenisation 101, all day co-working and an evening reception.
-
-### Event details
-
-Thursday 17th September 2026
-
-09:00 - 10:00
-
-Led by Andre Correia, Solana Foundation
-
-Invite-only. RSVP required via Luma
-
-Who this is for
-
-- Product and operations leads at asset managers and fund administrators
-- Digital asset teams at custodians and transfer agents
-- Risk, compliance and legal professionals evaluating on chain issuance
-- Market infrastructure teams
-- No prior blockchain background assumed
-
-### About Solana Foundation
-
-The Solana Foundation is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption ◎ Fast, composable, green, and globally distributed.
-
-### About House of Sol
-
-House of Sol is a sanctuary for institutions and DeFi on Solana. Located in London, it serves as an exclusive members club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
-
-[Learn more and apply for membership at houseofsol.org](https://houseofsol.org)
-
-This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
-
-Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
-
-By signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.
-
-### Location
-
-Please register to see the exact location of this event.
-
 <a id="event-cfe2a96ff2befa10"></a>
 
 ## Flight3 x Superteam UK: Go-To-Market
@@ -53429,6 +53276,18 @@ The full lineup, vendors, and partners drop on the microsite: www.webflea.xyz
 
 Event Photo Release: By attending, you agree to be included in photographs or footage that may be used by Web Flea and partners for documentation and promotion.
 
+<a id="event-fcd5a05b6ff367f2"></a>
+
+## QIE Hackathon 3.0
+
+- Record: `w3v-qie-hackathon-3-0-5-1792208960420`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-08-01T22:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://hackathon.qie.digital>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6476b641d78d0d23"></a>
 
 ## Blockchain Week - UNGA Edition 2026 \| 10 Days (Sept 10–19)
@@ -53681,34 +53540,6 @@ Spots are very limited and will be filled on a first-come, first-served basis.
 - Original page: <https://eblockchainconvention.com/european-blockchain-convention-12/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d97265de8b1ca64f"></a>
-
-## Where Europe's Digital Asset Leaders Come Together
-
-- Record: `w3v-where-europes-digital-asset-leaders-come-together`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rbfq82xs>
-
-### About the event
-
-Join Fireblocks at EBC Barcelona for afternoon drinks and conversation with digital asset leaders from across Europe.
-
-As Stablecoin and agentic AI reshape the infrastructure conversation, this gathering brings the players who are building for what comes next and defining the ecosystem. A relaxed setting to make the connections that matter, with peers who are already fluent in what's changing.
-
-Space is limited and attendance is by invitation only.
-
-Fireblocks is the world's most trusted digital asset infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain. With the industry's most scalable and secure platform, we streamline stablecoin payments, settlement, custody, tokenization, trading, accounting operations, and compliance reporting- enabling everything from institutional finance to consumer-facing digital experiences across the largest ecosystem of banks, payment providers, stablecoin issuers, exchanges and custodians.
-
-Thousands of organizations - including Worldpay, BNY, Galaxy, and Revolut - trust Fireblocks to secure more than $14 trillion in digital asset transactions [across 150+ blockchains. Learn more at fireblocks.com](https://fireblocks.com). (http://fireblocks.
-
-Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.*
-
-*This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation email of registration for approval for entry.
-
-Security note: Fireblocks will never transfer you NFTs/tokens or ask for your wallet information to attend our events.
 
 <a id="event-9eeb91d52eb78aa9"></a>
 
@@ -72241,6 +72072,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5412e3152b686a40"></a>
+
+## Good Stocks.  Current Crypto strategy. Beginners welcome -
+
+- Record: `mu-316759259`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T21:00:00-04:00
+- Description: Missing
+- Original page: <https://www.meetup.com/boston_crypto-traders_and_investors/events/316759259/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3cc993212d73a112"></a>
 
 ## Uncharted waters, trusted transfers with Persona, Crossmint, Mastercard, OpenFX, and Circle
@@ -72939,6 +72782,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c3751c4b54452e39"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316843990`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T10:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-montreal/events/316843990/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9c691fb90d048b91"></a>
 
 ## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
@@ -73068,6 +72923,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/the-future-of-capital-markets-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f4d39426248f0697"></a>
+
+## Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung
+
+- Record: `luma-evt-tqQWKI8FKhhBJLd`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T07:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/d5xp3mvp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73272,6 +73139,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-23T10:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://spazio21.com>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e771b7eba21ec955"></a>
+
+## Crypto Valley Cycling Club - Zug
+
+- Record: `luma-evt-f4kr9gtDbAniGt2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/CVCC-Zug-Oct23>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6d6dfc21785f0bc0"></a>
+
+## Zug Ethereum Meetup #1 - Ethereum Economic Zone WS
+
+- Record: `luma-evt-CC0ATdhtuy5KNt2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T14:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/omfwmnbr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73766,6 +73657,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9cbd812832d00e3f"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859623`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T11:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-montreal/events/316859623/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-08545275424d31dc"></a>
 
 ## Measuring Ledgers With The Blockchain Decentralisation Index Lab
@@ -73799,6 +73702,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T12:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-austin/events/316802775/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-50ecf2d5ebfbc442"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802708`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T13:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-montreal/events/316802708/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
