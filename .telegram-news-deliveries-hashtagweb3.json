@@ -1593,7 +1593,7 @@
     "sentAt": "2026-10-17T03:55:25.873Z"
   },
   "01900d8d-5cee-4a6f-b4cc-15744beb5320": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T11:34:48.861Z",
     "stories": [
       {
@@ -1621,6 +1621,8 @@
         "originalTitle": "ZachXBT Says He Posed as Client to Expose Lazarus Launderers"
       }
     ],
-    "slotKey": "2026-10-17:afternoon"
+    "slotKey": "2026-10-17:afternoon",
+    "messageId": 155815,
+    "sentAt": "2026-10-17T11:35:11.340Z"
   }
 }
