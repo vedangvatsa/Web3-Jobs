@@ -5244,7 +5244,7 @@
     "sentAt": "2026-10-17T03:54:37.064Z"
   },
   "a23c5219-e7d1-4a1e-9d1d-ae790b7eb594": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T03:54:39.377Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5359,6 +5359,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/mgr110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Risk Manager</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/mgr149?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Partnerships Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/an63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/tr126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Fixed Income Relative Value Trader</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/infra12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Executive - AI Infrastructure</a>",
-    "slotKey": "2026-10-17:morning"
+    "slotKey": "2026-10-17:morning",
+    "messageId": 132,
+    "sentAt": "2026-10-17T03:54:44.971Z"
   }
 }
