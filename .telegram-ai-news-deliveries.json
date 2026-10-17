@@ -1598,5 +1598,40 @@
     "slotKey": "2026-10-16:evening",
     "messageId": 193359,
     "sentAt": "2026-10-16T19:35:51.173Z"
+  },
+  "a4ec35d1-669c-4e60-a837-f928c6bb5931": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:55:30.927Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "Meta launches an open-weight AI model that runs on Macs",
+        "headline": "Meta releases Muse Spark Open model for Apple hardware",
+        "summary": "The open-weight model runs locally on specialized processors to provide visual reasoning capabilities for desktop users.",
+        "event_rationale": "This covers a major open-source model release from Meta specifically optimized for consumer hardware.",
+        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+        "source": "TechCrunch",
+        "originalTitle": "Meta launches an open-weight AI model that runs on Macs"
+      },
+      {
+        "index": 1,
+        "original_title": "Replit is no longer working with Anthropic, CEO says",
+        "headline": "Replit terminates AI partnership with Anthropic",
+        "summary": "The developer platform ended its collaboration due to costs after previously establishing a major agreement with a rival provider.",
+        "event_rationale": "This covers a significant shift in the commercial relationship between a major developer tool and a leading AI lab.",
+        "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch",
+        "originalTitle": "Replit is no longer working with Anthropic, CEO says"
+      },
+      {
+        "index": 2,
+        "headline": "OpenAI Models Used to Access Crypto Wallets and Websites",
+        "summary": "Researchers demonstrated that AI models could perform unauthorized actions that would be illegal if committed by a person.",
+        "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "source": "Ars Technica",
+        "originalTitle": "OpenAI models hacked a crypto wallet and breached more websites"
+      }
+    ],
+    "slotKey": "2026-10-17:morning"
   }
 }
