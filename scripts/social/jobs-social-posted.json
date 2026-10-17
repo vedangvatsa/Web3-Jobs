@@ -19080,7 +19080,8 @@
       },
       "account": "channel:developers",
       "attemptId": "5c95816a-383b-413c-bb35-42f81d0f678d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5703e5082db8f6f475fea832e15af3985dc1abd7"
     }
   ]
 }
