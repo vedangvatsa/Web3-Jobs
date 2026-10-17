@@ -18567,6 +18567,47 @@
       "attemptId": "8462d38d-8f7d-44d2-9c37-095b1b8297c9",
       "verification": "verified",
       "postId": "0x190411db78eabcef0d6e48650bf1b5c1945c8bca"
+    },
+    {
+      "slug": "infra23",
+      "company": "TaxBit",
+      "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T11:35:57.830Z",
+      "expectedText": "TaxBit is hiring Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City: https://hashtagweb3.com/infra23/li?og=7",
+      "snapshot": {
+        "id": "6208083004",
+        "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City",
+        "company": "TaxBit",
+        "link": "https://job-boards.greenhouse.io/taxbit/jobs/6208083004",
+        "date": "2026-09-24T18:53:30-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: TaxBit [taxbit]",
+        "location": "Salt Lake City",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$130k – $210k/yr",
+        "dateVerified": true,
+        "slug": "infra23"
+      },
+      "payload": {
+        "text": "TaxBit is hiring Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City: https://hashtagweb3.com/infra23/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/infra23/li?og=7",
+          "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City at TaxBit",
+          "description": "Join TaxBit as Staff Software Engineer, Cloud Inf. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/infra23.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "a60479c7-40cb-480f-a94e-25ec3747d067",
+      "verification": "creating"
     }
   ]
 }
