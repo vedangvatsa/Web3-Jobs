@@ -16,42 +16,6 @@ Generated from `sources/`. Formatting uses the event-page organizer-copy formatt
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-13485e4f9c982815"></a>
-
-## Avalanche Summit NYC 2026
-
-- Record: `premier-avax-summit-nyc-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-16T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.avalanchesummit.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-39b22387030a9157"></a>
-
-## European Blockchain Convention 2026
-
-- Record: `premier-ebc-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-16T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://eblockchainconvention.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a159d281dfabaa20"></a>
-
-## ETHSpain 2026
-
-- Record: `premier-ethspain`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-17T09:00:00+02:00
-- Description: Unverified stored copy
-- Original page: <https://ethspain.org/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e53a3c8a2a598c1d"></a>
 
 ## AfroChain 2026
@@ -61,18 +25,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-09-17T09:00:00+03:00
 - Description: Unverified stored copy
 - Original page: <https://www.afrochainsummit.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7bf21b80caee4d0d"></a>
-
-## DeSci Singapore: On-Chain Science & IP-NFT Showcase
-
-- Record: `side-desci-singapore-summit-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-17T14:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://molecule.to>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -19488,92 +19440,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-cfe2a96ff2befa10"></a>
-
-## Flight3 x Superteam UK: Go-To-Market
-
-- Record: `luma-crypto-zjtEvb04wHyQJgV`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/b80wzjig>
-
-### About the event
-
-Led by Harry Horsfall, CEO & Co-founder, Flight3
-
-Attention isn't traction. Plenty of projects earn the first and never convert it into the second.
-
-We'll share how we turn visibility into users, partners and pipeline: channel strategy, distribution, and how to plan for before, during and after the event, so the momentum carries past the closing party. You'll build your own plan in the room as we go.
-
-Walk out with a GTM plan built around the Breakpoint window, timed for when it actually counts.
-
-<a id="event-01640f875c78e4b1"></a>
-
-## Flight3 x Superteam UK: Narrative & Commercial Refinement
-
-- Record: `luma-crypto-ha5kCXkEPytNhvM`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T14:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lmralyot>
-
-### About the event
-
-Led by Jolyon Layard Horsfall, CFO & Co-founder, Flight3
-
-If you can't say what you do in one line, you're invisible in a room this dense with signal. We've watched it happen to good projects.
-
-This workshop is about sharpening your positioning, your one-liner, and the story underneath it. We'll show you how to build a narrative that holds up in front of investors and press, that your whole team can repeat without thinking about it, and that ties back to the value you're actually building.
-
-By the end you'll have a positioning line that lands and a narrative your team will use for real.
-
-<a id="event-0d4e0237e8376d59"></a>
-
-## Meet Team1 Vietnam at Blockchain Week 2026 – UNGA Edition
-
-- Record: `luma-crypto-GDvXlADsEWJ30es`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T14:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xr38ua38>
-
-### Team1 Vietnam at Blockchain Week 2026 - UNGA Edition
-
-As part of the Avalanche ecosystem, Team1 Vietnam is joining Blockchain Week 2026 in New York, connecting with builders, founders, investors, and ecosystem leaders shaping the future of blockchain and digital finance.
-
-On September 17, Astrid Dang, Team1 Vietnam Collaborator, will join the panel "The Global Dollar's Last Mile: Can Stablecoins Build a Fairer Financial System for Emerging Markets?" to discuss stablecoins, financial inclusion, and real world adoption in emerging markets.
-
-The week also sets the stage for the broader Avalanche community as the ecosystem looks ahead to Avalanche Summit.
-
-September 17, 2026 | 10:45 AM to 11:20 AM
-
-Hard Rock MainStage, Times Square, New York
-
-Blockchain Week 2026 runs September 10-19, with the main conference taking place on September 16-17.
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
-
-Stay Connected
-
-Follow Team1 Vietnam for upcoming events, builder programs, and ecosystem opportunities.
-
-Telegram chat: https://t.me/avalanche_vn
-
-Builders chat: https://t.me/Team1VNbuilders
-
-X: https://x.com/Team1VN
-
-Direct contact on Telegram: @AstridnDAG
 
 <a id="event-72ea0df0a0f292d3"></a>
 
@@ -53541,105 +53407,6 @@ Spots are very limited and will be filled on a first-come, first-served basis.
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-9eeb91d52eb78aa9"></a>
-
-## Start your UNBOUND day strong with Equinox × GrowthX
-
-- Record: `luma-evt-p6Unv9lQEqxP3st`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/growthx-unbound-2026-equinox17>
-- Original page: <https://luma.com/growthx-unbound-2026-equinox17>
-
-### About the event
-
-Join Equinox and GrowthX for an energizing morning workout designed to get you moving, reset your brain, and set the tone for a big day at UNBOUND.
-
-The Experience
-
-Outdoor Pilates + Low-Impact Conditioning
-
-Ease into the day with a feel-good outdoor session focused on movement, mobility, and getting your body switched on before the conference.
-
-Then keep the momentum going: Grab a coffee from our Little Wolf pop-up, refresh at Equinox Seaport, and get ready to take on the day.
-
-Pack your conference fit - we'll bring the rest.
-
-Show up. Sweat it out. Coffee up. Then take on UNBOUND.
-
-IMPORTANT: You must register and be accepted to attend.
-
-GrowthX AI helps companies win AI visibility, SEO, and organic awareness. We build AI and human expert systems that produce high-quality content at scale and distribute it so brands show up in ChatGPT, Perplexity, Gemini, and search. Clients like Webflow, Lovable, Ramp, and Brex run a compounding content engine with us.
-
-<a id="event-f7f5aaa7d637ac67"></a>
-
-## Superteam India Community Call 2026
-
-- Record: `luma-host-evt-evt-T2tQkKnZEqXWxYO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/stin-commcall-2026>
-- Original page: <https://luma.com/stin-commcall-2026>
-
-### About the event
-
-Superteam is a network of operators, devs & grantees working on promising Solana projects.
-
-Simply put, it is a gated Slack Workspace for those who satisfy the membership criteria. There's no treasury, take-rate/commissions, or token sale. From its inception, Superteam has chosen to be a collective of sovereigns over a sovereign collective. Any revenue generated is captured by the individual members or teams that self-organize and win a bounty, and secure a grant or venture funding for their ideas.
-
-The community is the product. And members have exclusive access to the product.
-
-Our community call is the one time every week when Superteam India members get together to,
-
-- celebrate wins
-- share project updates & demos
-- find teammates or ask for help
-- hear from the occasional guest speakers
-- get updates, alpha & news you can use about Superteam & the wider Solana ecosystem
-
-Every Thursday, 6pm. Join us!
-
-<a id="event-2841a252f73ba375"></a>
-
-## Lido Poolside: Institutional, September 2026
-
-- Record: `luma-host-evt-evt-BqKCLXa8nn2x0pW`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/bn0ikjyg>
-- Original page: <https://luma.com/bn0ikjyg>
-
-### About the event
-
-Join Lido contributors on Thursday, September 17th, to discuss the latest institutional Ethereum staking developments.
-
-[Hosted by Isidoros Passadis](https://x.com/IsdrsP), Chief of Staking at Lido.
-
-Register [above to add this Call to your calendar. Watch on YouTube](https://www.youtube.com/watch?v=a8z9pC4bwN4), also streamed on Lido X (Twitter) (https://x.com/LidoFinance) [and LinkedIn](https://www.linkedin.com/company/lidofi).
-
-### Speakers
-
-- [Joseph Lubin](https://x.com/ethereumJoseph), Chairman and CEO of MetaMask and Founder at Consensys
-- [Joseph Chalom](https://x.com/joechalom), CEO at Sharplink
-- [Aleksandra Gusakova](https://x.com/sasha_gusakova), Lido Core Lead at Lido Labs
-
-Missed the previous calls? Check the curated collection of best moments [and key insights in the Lido Poolside Spotlight playlist](https://www.youtube.com/playlist?list=PLhvXP1-8VKZTW5wOGI60pZqBETC-MXJGK&utm_source=luma).
-
-<a id="event-ead845cbd3ab1f6a"></a>
-
-## ETHSpain 2026
-
-- Record: `w3v-ethspain-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T14:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethspain.org>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-10adc3846fd505de"></a>
 
 ## Softstack VIP Dinner
@@ -72144,6 +71911,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-bf5f0f20719de9a7"></a>
+
+## Stablecoins Grow Up: From Crypto Rails to Real-World Money
+
+- Record: `luma-evt-FXp0Cx9ZFgTnmub`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/56472dr4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9baf305317776d7f"></a>
 
 ## Octant’s Model for Sustainable Ethereum Growth
@@ -72213,6 +71992,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/gpf2lii9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-388d88d5f0d6e926"></a>
+
+## Intro to Electronics, Part 4!
+
+- Record: `luma-evt-1S16V1L7HQBOhQi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/j53ket8g>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72369,6 +72160,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T11:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/40aayf5j>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8b0c6df59d44ac31"></a>
+
+## Deadly Good Growth Session by Superwall
+
+- Record: `luma-evt-RyAmJgxofwkyvM5`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T13:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/sw-growth-session>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73755,7 +73558,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-0277fbb6d600021f"></a>
 
-## SEA AI WEEK Fireside Chat with David McJannet, ex-CEO HashiCorp
+## AI Week Fireside Chat with David McJannet, ex-CEO HashiCorp
 
 - Record: `luma-evt-PTzVHlRUwSZLQfH`
 - Source: [events-cache.json](sources/events-cache.json)

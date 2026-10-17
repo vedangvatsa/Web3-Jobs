@@ -94,30 +94,6 @@
     }
   },
   {
-    "name": "Avalanche Summit NYC 2026",
-    "url": "https://www.avalanchesummit.com",
-    "emails": [
-      "events@avalabs.org",
-      "press@avalabs.org"
-    ],
-    "event": {
-      "id": "premier-avax-summit-nyc-2026",
-      "slug": "avalanche",
-      "name": "Avalanche Summit NYC 2026",
-      "description": "The Avalanche ecosystem's institutional summit covering asset tokenization, on-chain finance and consumer Web3 applications in New York.",
-      "startDate": "2026-09-16T09:00:00.000Z",
-      "endDate": "2026-09-17T18:00:00.000Z",
-      "city": "New York",
-      "country": "United States",
-      "location": "Chelsea Industrial, New York, USA",
-      "url": "https://www.avalanchesummit.com",
-      "website": "https://www.avalanchesummit.com",
-      "coverImage": "https://irp.cdn-website.com/02019734/dms3rep/multi/opt/170412-1920w.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Cardano Summit 2026",
     "url": "https://summit.cardano.org",
     "emails": [
@@ -473,29 +449,6 @@
       "url": "https://input.global",
       "website": "https://input.global",
       "coverImage": "/events/crypto1.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "ETHSpain 2026",
-    "url": "https://ethspain.org",
-    "emails": [
-      "hello@ethspain.org"
-    ],
-    "event": {
-      "id": "premier-ethspain",
-      "slug": "ethspain",
-      "name": "ETHSpain 2026",
-      "description": "Spain's Ethereum conference bringing protocol builders, DeFi teams, and the local community together in Barcelona.",
-      "startDate": "2026-09-17T09:00:00.000Z",
-      "endDate": "2026-09-18T18:00:00.000Z",
-      "city": "Barcelona",
-      "country": "Spain",
-      "location": "Barcelona, Spain",
-      "url": "https://ethspain.org",
-      "website": "https://ethspain.org",
-      "coverImage": "/events/ethspain.png",
       "twitter": null,
       "source": "curated-premier"
     }

@@ -208,43 +208,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-ebc-2026",
-    "slug": "ebc",
-    "name": "European Blockchain Convention 2026",
-    "description": "The European Blockchain Convention is Europe’s most incredible festival of blockchain, crypto, and Web3. Each year, thousands of visionaries, creators, and industry leaders gather to shape the future of finance and celebrate the power of decentralization. More than a conference, it’s a hub of inspiration, collaboration, and discovery.",
-    "startDate": "2026-09-16T09:00:00.000Z",
-    "endDate": "2026-09-17T18:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://eblockchainconvention.com",
-    "website": "https://eblockchainconvention.com",
-    "coverImage": "/events/ebc-barcelona-hashtagweb3.webp",
-    "twitter": null,
-    "partnerOffer": {
-      "text": "European Blockchain Convention in Barcelona is offering our community 15% off with an exclusive code: HASTAGW315"
-    },
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-avax-summit-nyc-2026",
-    "slug": "avalanche",
-    "name": "Avalanche Summit NYC 2026",
-    "description": "The Avalanche ecosystem's institutional summit covering asset tokenization, on-chain finance and consumer Web3 applications in New York.",
-    "startDate": "2026-09-16T09:00:00.000Z",
-    "endDate": "2026-09-17T18:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Chelsea Industrial, 535 West 28th Street, New York, NY 10001",
-    "url": "https://www.avalanchesummit.com",
-    "website": "https://www.avalanchesummit.com",
-    "coverImage": "/events/premier-avax-summit-nyc-2026-2443783f.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Chelsea Industrial",
-    "streetAddress": "535 West 28th Street"
-  },
-  {
     "id": "premier-ethtokyo-2026",
     "slug": "ethglobal",
     "name": "ETHGlobal Tokyo 2026",
@@ -1801,23 +1764,6 @@
     }
   },
   {
-    "id": "premier-ethspain",
-    "slug": "ethspain",
-    "name": "ETHSpain 2026",
-    "description": "Spain's Ethereum conference bringing protocol builders, DeFi teams, and the local community together in Barcelona. Takes place 17 September 2026 at Leonardo Royal Hotel Fira Barcelona, Barcelona, Spain.",
-    "startDate": "2026-09-17T09:00:00+02:00",
-    "endDate": "2026-09-17T21:00:00+02:00",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Leonardo Royal Hotel Fira Barcelona, Barcelona, Spain",
-    "url": "https://ethspain.org/",
-    "website": "https://ethspain.org/",
-    "coverImage": "/events/ethspain.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "Leonardo Royal Hotel Fira Barcelona"
-  },
-  {
     "id": "premier-stablecoinsg",
     "slug": "stablecoin-summit-2026",
     "name": "Stablecoin Summit Singapore 2026",
@@ -2775,21 +2721,6 @@
       "fetchedAt": "2026-09-20T07:56:56.828Z",
       "method": "luma-page"
     }
-  },
-  {
-    "id": "side-desci-singapore-summit-2026",
-    "slug": "desci",
-    "name": "DeSci Singapore: On-Chain Science & IP-NFT Showcase",
-    "description": "Dedicated DeSci side event exploring decentralized drug discovery, biotech BioDAOs, and academic funding protocols powered by Molecule. Takes place 17 September 2026 at Biopolis Science Hub, Singapore.",
-    "startDate": "2026-09-17T14:00:00.000Z",
-    "endDate": "2026-09-17T19:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Biopolis Science Hub, Singapore",
-    "url": "https://molecule.to",
-    "website": "https://molecule.to",
-    "coverImage": "/events/desci.webp",
-    "source": "curated-premier"
   },
   {
     "id": "side-ethdenver-buidl-afterparty-2027",

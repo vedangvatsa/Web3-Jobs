@@ -640,5 +640,78 @@
       "luma-crypto-bgguzdkabbzzclz",
       "hswps"
     ]
+  },
+  "premier-ebc-2026": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "premier-ebc-2026",
+      "ebc-2026",
+      "ebc"
+    ]
+  },
+  "premier-avax-summit-nyc-2026": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "premier-avax-summit-nyc-2026",
+      "avax-summit-nyc-2026",
+      "avalanche"
+    ]
+  },
+  "premier-ethspain": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "premier-ethspain",
+      "ethspain"
+    ]
+  },
+  "side-desci-singapore-summit-2026": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "side-desci-singapore-summit-2026",
+      "desci-singapore-summit-2026",
+      "desci"
+    ]
+  },
+  "luma-host-evt-evt-T2tQkKnZEqXWxYO": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-host-evt-evt-t2tqkknzeqxwxyo",
+      "sicc"
+    ]
+  },
+  "luma-host-evt-evt-BqKCLXa8nn2x0pW": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-host-evt-evt-bqkclxa8nn2x0pw",
+      "lido-poolside"
+    ]
+  },
+  "luma-evt-p6Unv9lQEqxP3st": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-evt-p6unv9lqeqxp3st",
+      "syudseg"
+    ]
+  },
+  "luma-crypto-zjtEvb04wHyQJgV": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-crypto-zjtevb04whyqjgv",
+      "fxsu"
+    ]
+  },
+  "luma-crypto-ha5kCXkEPytNhvM": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-crypto-ha5kcxkepytnhvm",
+      "fxsulmr"
+    ]
+  },
+  "luma-crypto-GDvXlADsEWJ30es": {
+    "until": "2027-10-17T19:31:49.464Z",
+    "slugs": [
+      "luma-crypto-gdvxladsewj30es",
+      "mtvbwue"
+    ]
   }
 }

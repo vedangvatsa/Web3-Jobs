@@ -35,70 +35,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  ebc: {
-    summaryLead:
-      "The twelfth European Blockchain Convention lands in Barcelona on September 16 and 17 with more than 200 speakers across three stages. Its distinguishing feature is logistics: the organizers run Europe's largest pre-arranged meetings program, with over 10,000 one-on-one meetings booked through the official app before doors open, turning the convention floor into structured deal flow rather than chance encounters.",
-    expectedAttendance: "Thousands of institutional and startup attendees",
-    sections: [
-      {
-        heading: "Built for meetings, not keynotes",
-        content: [
-          "EBC treats matchmaking as the product. Attendees publish availability into the app, filter counterparts by sector and company size, and arrive with calendars full of twenty-minute meetings. Banks, asset managers, corporate innovation teams, and vetted startups dominate the participant mix, which shifts conversations toward partnerships, pilots, and allocations rather than token launches.",
-          "The Startup Battle puts fifty selected companies in front of an investor jury, and dedicated roundtables give institutional participants closed-door settings for the discussions they cannot have on stage. If your goals are measurable meetings per hour, no European event structures that outcome better.",
-        ],
-      },
-      {
-        heading: "Barcelona advantage",
-        content: [
-          "Barcelona pairs a major international airport with a walkable, restaurant-dense city center, and mid-September sits comfortably outside peak tourist crush. Evening networking runs characteristically late by northern European standards, with beachside venues in season.",
-          "Chaining EBC with Modular Summit in Lisbon the prior days or CV Summit in Zurich later in the month forms a complete European institutional circuit; several sponsors coordinate passes across the three, so check partner pages for bundles.",
-        ],
-      },
-      {
-        heading: "Maximizing the meetings program",
-        content: [
-          "The convention's meeting app opens scheduling well before doors open, and the highest-value counterparts fill their calendars weeks ahead. Prepare a crisp twenty-minute narrative: who you are, traction metrics, specific ask. European institutional participants respect directness punctuated by working coffee meetings rather than extended entertainment.",
-          "Barcelona's Fira and city-center venues host EBC depending on edition scale, with reliable transit from El Prat airport. Post-conference, the beachside chiringuitos transform debriefs into rituals, and many attendees extend weekends for the Costa Brava. Combine with Zurich's CV Summit later in September for complete European institutional coverage.",
-                  "European Blockchain Convention's Barcelona roots run deep: Catalan and Spanish institutional participation combines with EU-level policy attention, and Spain's retail crypto adoption rates rank among Europe's highest, giving the convention genuine domestic grounding beneath international ambitions. Editions consistently feature Spanish banking groups describing digital-asset custody deployments, Mediterranean-region family offices discussing allocation frameworks, and EU policy staff explaining implementation timelines with unusual specificity. The pre-arranged meeting program deserves preparation investment: attendees completing profiles thoroughly and booking strategically report ten-plus qualified meetings daily, transforming conference ROI calculations compared with the passive attendance models most events still operate on.",
-                  "Barcelona's transit connects airport, venue, and city-center hotels cleanly, and September sea temperatures still permit morning swims before meetings. The convention's startup battle applications close months ahead, so founding teams targeting the investor jury should track official timelines from summer onward.",
-                  "Attendees consistently rank EBC's meeting program among Europe's most effective; preparation determines whether that reputation transfers into personal results or remains marketing copy on the official site.",
-        ],
-      },
-    ],
-  },
-
-  avaxsummit: {
-    summaryLead:
-      "Avalanche Summit comes to Chelsea Industrial in New York on September 16 and 17, focused on institutions and enterprises actually running commercial workloads on Avalanche: tokenized funds settling on-chain, payment and capital-markets products, gaming studios using subnet architecture, and the developer stack underneath all of it.",
-    sections: [
-      {
-        heading: "Case studies over roadmaps",
-        content: [
-          "The program is organized around production deployments rather than promises. Expect asset managers describing tokenized vehicle operations end to end, payment companies reporting settlement volumes, gaming teams explaining subnet economics, and the Ava Labs engineering organization detailing upgrades to consensus, subnets, and interoperability with the specificity of a maintainer rather than a marketer.",
-          "Developer tracks go deep on Evergreen subnets for institutional compliance, permissioning frameworks, and tooling for launching application-specific chains, which makes the summit useful for technical decision-makers evaluating Avalanche against alternatives, not just existing community members.",
-        ],
-      },
-      {
-        heading: "New York timing",
-        content: [
-          "Chelsea Industrial sits in Manhattan's art-gallery corridor, and holding the summit in New York puts it inside the densest concentration of TradFi counterparties anywhere. Many attendees fold it into pre-existing trips for UNGA-adjacent meetings and fall institutional calendars, which raises the seniority of the average badge.",
-          "Between sessions, the High Line and Hudson Yards are steps away, and evening side events spread toward Chelsea Market and the Meatpacking District. Register through the official summit site; capacity is deliberately moderate, and the event has sold out in past editions.",
-        ],
-      },
-      {
-        heading: "Avalanche ecosystem context",
-        content: [
-          "Avalanche's subnet architecture lets institutions launch application-specific networks with custom compliance rules, and summit programming showcases production examples: tokenized credit funds, game studios running dedicated chains, and enterprise pilots moving real volume. Ava Labs engineering sessions detail upcoming consensus and interoperability improvements with maintainer-level candor.",
-          "Chelsea Industrial's gallery-district setting keeps the event intimate relative to its speaker caliber, and registration capacity reflects that deliberately. Evening events spread along the High Line corridor, and Manhattan hotel pricing during September demands early bookings. Developers should bring laptops; hands-on subnet deployment workshops have become a fixture.",
-                  "Avalanche's institutional positioning differentiates its summit from general chain conferences. The network's subnet architecture permits application-specific blockchains with custom validator sets, compliance rules, and fee markets, attracting regulated entities requiring sovereignty that shared smart-contract platforms cannot offer. Summit case studies document this concretely: asset managers running permissioned tokenization environments, gaming companies isolating economies from network congestion, and enterprises deploying private chains bridging to public Avalanche liquidity. New York attendance includes meaningful representation from traditional market infrastructure personnel, exchange listing teams, and fund administrators, making hallway conversations valuable for teams selling into institutional pipelines regardless of chain allegiance.",
-                  "Registration tiers historically include builder discounts, and Avalanche's grant program staff maintain visible presence for teams pitching subnet deployments. Manhattan gallery-district hotels fill early for September, so book upon registration; Chelsea's restaurant scene handles post-session dinners admirably.",
-                  "Avalanche Foundation representatives maintain visible presence for teams seeking ecosystem funding, and subnet deployment workshops provide laptop-required hands-on time unavailable at larger, more passive conferences.",
-                  "Past summits recorded keynotes for later release while keeping workshops exclusively in-person, a structure that rewards attending physically for anyone serious about subnet deployment work.",
-        ],
-      },
-    ],
-  },
-
   ethtokyo: {
     summaryLead:
       "ETHGlobal Tokyo runs September 25 to 27, bringing the standard ETHGlobal hackathon format to Japan: team formation on Friday night, forty-eight hours of building with mentors from major protocols circulating continuously, project submissions Sunday afternoon, and judging across ecosystem prize tracks.",
@@ -781,35 +717,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         content: [
           "The event calendar runs on Luma and is updated through the week, with side events, panels, runways, and networking nights across the city. The listed contact address is 26 Broadway in Manhattan, and the organizers note the program is an independent initiative with no UN affiliation. Booking lodging early is standard advice for this week, when delegations fill Midtown hotels.",
           "Subway travel beats cars during General Assembly week, when motorcades slow Midtown traffic. Evening programming spreads beyond the main venues, so grouping meetings by neighborhood keeps days workable. Anyone needing a visa invitation should use the dedicated page on the official site.",
-        ],
-      },
-    ],
-  },
-  avalanche: {
-    summaryLead:
-      "Avalanche Summit takes place September 16 and 17 at Chelsea Industrial, 535 West 28th Street in New York. The program centers on two tracks, onchain finance and consumer applications, with keynotes, panels, and fireside chats aimed at companies and investors using the network. The site names Kevin O'Leary as headline speaker and lists Ava Labs CEO Emin Gun Sirer as a keynote speaker. General Admission is listed at $150 with a Student Pass at $50, and tickets cover both days including sessions, builder activations, and food. Main-stage sessions will be livestreamed.",
-    ticketPricing: "General Admission $150 (last-minute $200 listed) / Student Pass $50",
-    speakers: "Kevin O'Leary (headliner), Emin Gun Sirer (Ava Labs CEO)",
-    sections: [
-      {
-        heading: "Two tracks for business and builders",
-        content: [
-          "The agenda divides into onchain finance and consumer applications. The finance side covers tokenized assets, blockchain-native liquidity, and regulated capital markets, while the consumer side covers digital experiences, ownership, and fan-driven economies. The framing throughout is commercial rather than academic, with enterprises, financial institutions, and investors as the stated audience.",
-          "Keynotes, panels, and fireside chats carry the program rather than workshops. The site links a full agenda page and invites speaker and sponsor applications through posted forms, which suggests the lineup is still being filled out.",
-        ],
-      },
-      {
-        heading: "Speakers named so far",
-        content: [
-          "Kevin O'Leary is billed as the headline speaker, described on the site as an entrepreneur, investor, and star of ABC's Shark Tank. Emin Gun Sirer, CEO of Ava Labs, is listed for a keynote on the changing Web3 landscape. The speakers page holds the rest of the lineup.",
-          "Past editions in London, Buenos Aires, and Barcelona are recapped on the page with video links. Those archives give a fair read on tone and production before committing to travel.",
-        ],
-      },
-      {
-        heading: "Tickets and venue",
-        content: [
-          "General Admission is listed at $150 with a $200 last-minute rate also shown, and the Student Pass is $50 with ID required at check-in. Tickets cover both days, all sessions, builder and ecosystem activations, networking, and food and drinks. Payment is by credit card or crypto in USD, and the FAQ states there are no refunds, though tickets can be transferred to another person.",
-          "The venue is Chelsea Industrial in West Chelsea, reachable by subway on the C and E to 23rd Street or the 1 to 28th Street. The organizers point hotel bookers to a TravelCare portal where rooms can be paid by card or crypto including AVAX. Main-stage sessions stream live and other stages are recorded, with recordings expected about a month after the event.",
         ],
       },
     ],

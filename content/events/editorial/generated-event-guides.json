@@ -1835,39 +1835,6 @@
       }
     ]
   },
-  "premier-ethspain": {
-    "summaryLead": "ETHSpain 2026 brings Spain's Ethereum community conference to Barcelona on 17-18 September, gathering protocol builders, DeFi teams and the local ecosystem for two days of what the organizers call an Ethereum community conference in the truest sense.",
-    "sections": [
-      {
-        "heading": "Barcelona Gets Its Own Ethereum Conference",
-        "content": [
-          "Spain's Ethereum scene has long had the ingredients - active meetups, university groups, a handful of serious protocol teams - without a dedicated national conference to anchor it. ETHSpain 2026 steps into that space on 17-18 September in Barcelona, described simply as Spain's Ethereum conference bringing protocol builders, DeFi teams and the local community together.",
-          "The word community in the title carries weight here. This is framed as an Ethereum community conference, not an investor summit wearing a blockchain costume. The distinction matters for expectations: think working sessions, technical talks and ecosystem updates rather than price speculation and product launches. Barcelona itself needs little introduction - a city with deep developer culture, strong universities and a track record of hosting major tech gatherings, all of which lowers the friction of getting the right room together."
-        ]
-      },
-      {
-        "heading": "Who Shows Up at an Event Like This",
-        "content": [
-          "The stated audience breaks into three overlapping circles. Protocol builders come for the engineering conversations - client updates, scaling paths, tooling - the kind of content that travels poorly through blog posts but lands instantly face to face. DeFi teams attend because Spanish-language markets remain underexplored relative to their size, and Barcelona puts them in front of both local talent and regional users. The local community - students, freelancers, employees of traditional companies quietly exploring - forms the connective tissue that turns two days into an actual network.",
-          "If you fall into none of those circles but work adjacent to the ecosystem, the calculus is still reasonable: community conferences are where hiring happens cheaply and where partnerships form before they become press releases. Just calibrate expectations accordingly - the dealflow room at an investor forum and the whiteboard room at a community conference are different rooms."
-        ]
-      },
-      {
-        "heading": "Mid-September Practicalities",
-        "content": [
-          "Barcelona in mid-September is about as good as European conference travel gets: warm but not brutal, beaches still usable, and the summer tourist wave receding. Book flights and accommodation soon regardless - the city hosts large events year-round and central hotels tighten quickly whenever multiple calendars collide. The venue, speaker lineup and ticket details roll out through the official site at ethspain.org, which is currently carrying the essentials; treat that page as the single source of truth as September approaches.",
-          "One scheduling note: mid-September in Catalonia includes local holidays and festivals that make the city livelier and busier than usual. That is mostly a bonus - plan dinner reservations ahead and enjoy the fact that a conference trip occasionally coincides with a street party."
-        ]
-      },
-      {
-        "heading": "Why a National Ethereum Conference Matters",
-        "content": [
-          "National-scale Ethereum events do quiet, unglamorous work. They give local developers a reason to stay plugged into the global protocol conversation, give universities a bridge into industry, and give policymakers a visible constituency to understand before regulation gets written. Spain's digital-asset sector has grown steadily, and a recurring conference is often the institution that holds an ecosystem together between funding cycles.",
-          "Whether ETHSpain earns a permanent slot in the European calendar depends on what happens across those two days in Barcelona. Watch the official channels for the program and speaker announcements, and if you go, introduce yourself to the volunteers - in community-run conferences, they usually are the community."
-        ]
-      }
-    ]
-  },
   "premier-stablecoinsg": {
     "summaryLead": "Stablecoin Summit Singapore compresses the entire stablecoin debate - payments, issuance, regulatory frameworks - into a single day on 8 October 2026, organized by XREX and timed deliberately alongside TOKEN2049 week when the industry's attention concentrates on Singapore.",
     "sections": [
