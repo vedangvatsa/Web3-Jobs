@@ -18650,7 +18650,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a3d3f385-dc64-4ad8-a3db-28481dbcda10",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad35e0cae173d6e00b40e1a"
     }
   ]
 }
