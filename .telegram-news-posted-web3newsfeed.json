@@ -785,6 +785,9 @@
   "https://hashtagweb3.com/witt-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/seized-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/rain-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2256,6 +2259,12 @@
   "UK court applies Chinese law to claims on 61,000 seized bitcoin",
   "Drift Foundation Opens DFX Claims for April Exploit Victims",
   "Drift opens DFX claims with redemptions near one cent per dollar",
+  "Rain applies for US national trust bank charter",
+  "Rain Files OCC Bid to Charter National Trust Bank for Stablecoin Business",
+  "Ethereum Staking Queues Reach Multi-Year Highs",
+  "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators",
+  "Illinois Officials Propose Delaying Crypto Tax to July 2027",
+  "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2570,5 +2579,8 @@
   "fp:2026|activation|alpenglow|chang|consensus|epoch1064|finality|millisecond|oct21|october21",
   "fp:2026|announc|chief|departur|director|down|his|hous|leav|nam",
   "fp:000|apply|asset|can|cas|chines|claim|court|decision|forfeitur",
-  "fp:2995m|affect|against|april|can|cent|claim|dfx|dollar|drift"
+  "fp:2995m|affect|against|april|can|cent|claim|dfx|dollar|drift",
+  "fp:apply|bank|bid|business|charter|custody|entity|fil|intend|issuanc",
+  "fp:000|15m|await|entry|eth|exit|follow|high|hits2026|metamask",
+  "fp:asset|bid|court|delay|digital|illinois|implementation|january|join|joint"
 ]

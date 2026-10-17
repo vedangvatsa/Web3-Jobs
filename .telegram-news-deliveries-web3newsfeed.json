@@ -1692,7 +1692,7 @@
     "sentAt": "2026-10-17T11:34:39.518Z"
   },
   "e8a010fd-e740-47d8-a386-2138aafdb359": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T19:35:37.599Z",
     "stories": [
       {
@@ -1720,6 +1720,8 @@
         "originalTitle": "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027"
       }
     ],
-    "slotKey": "2026-10-17:evening"
+    "slotKey": "2026-10-17:evening",
+    "messageId": 65759,
+    "sentAt": "2026-10-17T19:35:42.845Z"
   }
 }
