@@ -2230,5 +2230,63 @@
     "slotKey": "2026-10-16:evening",
     "messageId": 155790,
     "sentAt": "2026-10-16T19:33:03.503Z"
+  },
+  "e47948bf-e3a0-4420-aa43-2e20c5eb39de": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:54:26.490Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-hk-fintech-week-2026",
+        "slug": "hong-kong-fintech-week-2026",
+        "name": "Hong Kong FinTech Week x StartmeupHK Festival 2026",
+        "startDate": "2026-11-02",
+        "keys": [
+          "premier-hk-fintech-week-2026",
+          "page:hong-kong-fintech-week-2026:2026-11-02",
+          "event:hongkongfintechweekxstartmeuphkfestival2026:2026-11-02:hong kong"
+        ]
+      },
+      {
+        "id": "premier-cypherpunk",
+        "slug": "ethereum-cypherpunk-congress",
+        "name": "Ethereum Cypherpunk Congress #3",
+        "startDate": "2026-11-02T04:30:00.000Z",
+        "keys": [
+          "premier-cypherpunk",
+          "ethereum2",
+          "ecc3",
+          "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+          "india-luma-spsnos9t",
+          "eccm",
+          "w3v-ethereum-cypherpunk-congress-mumbai",
+          "ecc3i2ont",
+          "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-",
+          "page:ethereum-cypherpunk-congress:2026-11-02",
+          "luma:evt-cyzriddlecicprs",
+          "luma-url:/spsnos9t",
+          "event:ethereumcypherpunkcongress3:2026-11-02:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-official-solana-summit-india-11-02",
+        "slug": "solana-summit-india",
+        "name": "Solana Summit India",
+        "startDate": "2026-11-02T04:30:00.000Z",
+        "keys": [
+          "ibw-official-solana-summit-india-11-02",
+          "ssi",
+          "india-luma-solana-summit-india",
+          "w3v-solana-summit-india",
+          "luma-host-evt-evt-hadjh0ytflq1cra",
+          "page:solana-summit-india:2026-11-02",
+          "luma:evt-hadjh0ytflq1cra",
+          "luma-url:/solana-summit-india",
+          "event:solanasummitindia:2026-11-02:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-17:morning"
   }
 }
