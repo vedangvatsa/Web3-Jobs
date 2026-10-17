@@ -1624,5 +1624,36 @@
     "slotKey": "2026-10-17:afternoon",
     "messageId": 155815,
     "sentAt": "2026-10-17T11:35:11.340Z"
+  },
+  "f873e5b7-2477-423e-bed0-2c10cd453e84": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:35:10.065Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Circle asks EU to revise MiCA stablecoin reserve requirements",
+        "summary": "Circle's response to the European Commission recommends a liquidity standard and an equivalence regime for stablecoin issuers.",
+        "link": "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Circle Asks EU to Keep Multi-Issuance and Ease MiCA Reserve Rules"
+      },
+      {
+        "index": -1,
+        "headline": "Drift Foundation opens DFX claims for April exploit victims",
+        "summary": "The redemption rate is approximately 0.0104 USDT per token for nearly 300 million in verified losses.",
+        "link": "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift opens DFX claims with redemptions near one cent per dollar"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Staking Exit Queue Reaches Highest Level in October",
+        "summary": "MetaMask withdrew validators, leaving 786,000 ETH waiting to exit and 1.5 million ETH waiting to enter.",
+        "link": "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators"
+      }
+    ],
+    "slotKey": "2026-10-17:evening"
   }
 }
