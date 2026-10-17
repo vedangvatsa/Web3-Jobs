@@ -19118,6 +19118,41 @@
       "attemptId": "6cfe93e6-563c-421c-97b6-6acd7d4e7926",
       "verification": "verified",
       "postId": "0xe128c4bb0b356736a518f8c994333ed6d0b2175e"
+    },
+    {
+      "slug": "associate52",
+      "company": "Talos",
+      "title": "Senior Associate, Recruiting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-17T19:33:32.141Z",
+      "expectedText": "Talos is hiring Senior Associate, Recruiting\n\nhttps://hashtagweb3.com/associate52/fc?og=7",
+      "snapshot": {
+        "id": "827ce474-38b6-4640-b3cc-58528e54aac6",
+        "title": "Senior Associate, Recruiting",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/827ce474-38b6-4640-b3cc-58528e54aac6",
+        "date": "2026-09-28T16:05:17.199+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Talent Acquisition",
+        "active": true,
+        "dateVerified": true,
+        "slug": "associate52"
+      },
+      "payload": {
+        "text": "Talos is hiring Senior Associate, Recruiting\n\nhttps://hashtagweb3.com/associate52/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/associate52/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "831e04f9-1b61-4291-a976-8e038328ef72",
+      "verification": "creating"
     }
   ]
 }
