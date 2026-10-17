@@ -2735,5 +2735,123 @@
     "slotKey": "2026-10-17:afternoon",
     "messageId": 155814,
     "sentAt": "2026-10-17T11:34:02.682Z"
+  },
+  "c9e08f3d-b259-414b-b4b4-4dff6793c523": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:33:54.690Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "74f21d23-7a78-40af-acf8-663de8d734ab",
+          "title": "Finance Lead",
+          "company": "Ava Labs",
+          "link": "https://jobs.ashbyhq.com/ava-labs/74f21d23-7a78-40af-acf8-663de8d734ab",
+          "date": "2026-10-16T15:36:25.839+00:00",
+          "source": "Ashby: Ava Labs [ava-labs]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Finance & Accounting",
+          "active": true,
+          "slug": "fin4",
+          "dateVerified": true
+        },
+        "key": "74f21d23-7a78-40af-acf8-663de8d734ab",
+        "slug": "fin4",
+        "url": "https://hashtagweb3.com/fin4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ava Labs",
+        "title": "Finance Lead"
+      },
+      {
+        "snapshot": {
+          "id": "46511827-37d8-4b0f-8491-5c808e70e830",
+          "title": "Events Lead",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/46511827-37d8-4b0f-8491-5c808e70e830",
+          "date": "2026-10-16T16:12:24.825+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "slug": "eve2",
+          "dateVerified": true
+        },
+        "key": "46511827-37d8-4b0f-8491-5c808e70e830",
+        "slug": "eve2",
+        "url": "https://hashtagweb3.com/eve2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Events Lead"
+      },
+      {
+        "snapshot": {
+          "id": "53f9adfb-b37d-40e1-bff9-83df3ff7c7fd",
+          "title": "Executive Community Relations Lead",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/53f9adfb-b37d-40e1-bff9-83df3ff7c7fd",
+          "date": "2026-10-01T20:29:23.897+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "CX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cm9"
+        },
+        "key": "53f9adfb-b37d-40e1-bff9-83df3ff7c7fd",
+        "slug": "cm9",
+        "url": "https://hashtagweb3.com/cm9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Executive Community Relations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "566c4ad0-03ea-4022-8f11-04f0d8969f97",
+          "title": "Growth Creative Designer, International",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
+          "date": "2026-09-25T17:55:21.295+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "London, UK",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt61"
+        },
+        "key": "566c4ad0-03ea-4022-8f11-04f0d8969f97",
+        "slug": "mkt61",
+        "url": "https://hashtagweb3.com/mkt61?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Growth Creative Designer"
+      },
+      {
+        "snapshot": {
+          "id": "5005462101",
+          "title": "Senior Site Reliability Engineer",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5005462101",
+          "date": "2026-10-14T03:33:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Jakarta, Indonesia",
+          "department": "STX - Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng591"
+        },
+        "key": "5005462101",
+        "slug": "eng591",
+        "url": "https://hashtagweb3.com/eng591?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Senior Site Reliability Engineer"
+      }
+    ],
+    "message": "- Ava Labs is hiring <a href=\"https://hashtagweb3.com/fin4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Lead</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/eve2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Lead</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/cm9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Community Relations Lead</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/mkt61?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Growth Creative Designer, International</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng591?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Site Reliability Engineer</a>",
+    "slotKey": "2026-10-17:evening"
   }
 }
