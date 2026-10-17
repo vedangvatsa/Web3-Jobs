@@ -15213,9 +15213,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "fef72ebc-e50d-4e65-8c6d-a2237c3608c0",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad27d2d5720e82b418df530",
-      "error": "LinkedIn CVin.Bio receipt 6ad27d2d5720e82b418df530 remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad27d2d5720e82b418df530 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7516945738874966016"
     },
     {
       "slug": "dev29",
