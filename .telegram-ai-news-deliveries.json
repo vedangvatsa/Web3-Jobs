@@ -1674,5 +1674,42 @@
     "slotKey": "2026-10-17:afternoon",
     "messageId": 193363,
     "sentAt": "2026-10-17T11:33:57.171Z"
+  },
+  "935b043d-4ec5-4299-b7c9-676f8356f7d3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:33:10.569Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+        "headline": "Ars Technica previews documentary tracking online romance scammers",
+        "summary": "An investigative film follows a fraud victim tracking cybercriminals operating complex financial deception schemes across borders.",
+        "event_rationale": "This covers the release of a documentary clip on romance scam tracking, distinct from all prior posted stories.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+        "source": "Ars Technica",
+        "originalTitle": "Super Scam Me documentary shows what it takes to catch a romance scammer"
+      },
+      {
+        "index": 2,
+        "original_title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "headline": "Veritas expands anti-counterfeit chip to luxury consumer goods",
+        "summary": "The startup embeds microscopic silicon identifiers into items to help brands verify authenticity and combat fake products.",
+        "event_rationale": "This covers Veritas expanding its microchip authentication system to physical luxury goods, distinct from all past posted events.",
+        "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+        "source": "TechCrunch",
+        "originalTitle": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles"
+      },
+      {
+        "index": 5,
+        "original_title": "They war-gamed dimming the Sun. It went even worse than you think.",
+        "headline": "Researchers simulate solar geoengineering risks during geopolitical conflicts",
+        "summary": "Computer models show solar radiation management failure could trigger rapid catastrophic temperature increases if abruptly halted.",
+        "event_rationale": "This covers a solar geoengineering climate simulation experiment, distinct from all past posted stories.",
+        "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+        "source": "Ars Technica",
+        "originalTitle": "They war-gamed dimming the Sun. It went even worse than you think."
+      }
+    ],
+    "slotKey": "2026-10-17:evening"
   }
 }
