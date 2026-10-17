@@ -5462,7 +5462,7 @@
     "sentAt": "2026-10-17T11:33:37.827Z"
   },
   "48651f06-b7fc-4081-8012-2625fab1d1c9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T11:33:39.559Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5555,6 +5555,8 @@
       }
     ],
     "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ec?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Escalations And Complaints Lead</a>\n- Sorare is hiring <a href=\"https://hashtagweb3.com/fe2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Frontend</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Fiat &amp; FCM</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Lead</a>",
-    "slotKey": "2026-10-17:afternoon"
+    "slotKey": "2026-10-17:afternoon",
+    "messageId": 133,
+    "sentAt": "2026-10-17T11:33:41.597Z"
   }
 }
