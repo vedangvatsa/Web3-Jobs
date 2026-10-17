@@ -15700,7 +15700,8 @@
       },
       "account": "channel:founders",
       "attemptId": "16afa0b3-7fcf-48b0-8487-b72213ede333",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa9bcae6e112231734f8ac42a64c638e5f7783af8"
     }
   ]
 }
