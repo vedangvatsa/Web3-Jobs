@@ -1635,5 +1635,42 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 193361,
     "sentAt": "2026-10-17T03:55:43.767Z"
+  },
+  "ab8c0b57-b0df-4d58-bfe0-ef0f161d7455": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:33:35.439Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+        "headline": "New Jersey prosecutor arrested for generating AI child abuse media",
+        "summary": "Law enforcement officers apprehended a state deputy attorney general following online reports regarding illegal synthetic media generation.",
+        "event_rationale": "Covers the criminal arrest of a state prosecutor for AI-generated child sexual abuse material, distinct from previous law enforcement or safety reports.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+        "source": "Ars Technica",
+        "originalTitle": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops"
+      },
+      {
+        "index": 2,
+        "original_title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "headline": "Vercel reports rapid developer adoption of Jev AI model",
+        "summary": "The newly connected model achieved the platform's fastest usage growth rate among software developers building web applications.",
+        "event_rationale": "Covers developer adoption metrics for the Jev model on Vercel's platform, representing a unique usage milestone distinct from past model releases.",
+        "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "source": "TechCrunch",
+        "originalTitle": "Jev is Vercel’s fastest-adopted AI model ever"
+      },
+      {
+        "index": 3,
+        "original_title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "headline": "Mark Wahlberg approves AI digital clones for future films",
+        "summary": "The actor stated he supports synthetic likenesses in cinema if technology enhances storytelling without replacing human creativity.",
+        "event_rationale": "Covers public statements by actor Mark Wahlberg regarding AI likeness licensing, distinct from other entertainment or copyright stories.",
+        "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+        "source": "TechCrunch",
+        "originalTitle": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy"
+      }
+    ],
+    "slotKey": "2026-10-17:afternoon"
   }
 }
