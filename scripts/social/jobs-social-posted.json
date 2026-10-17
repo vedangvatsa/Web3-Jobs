@@ -19485,6 +19485,47 @@
       "verification": "pending",
       "postId": "6ad3cde90b0d72757af07600",
       "error": "LinkedIn #Web3 receipt 6ad3cde90b0d72757af07600 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "associate52",
+      "company": "Talos",
+      "title": "Senior Associate, Recruiting",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T19:33:32.141Z",
+      "expectedText": "Talos is hiring Senior Associate, Recruiting: https://hashtagweb3.com/associate52/li?og=7",
+      "snapshot": {
+        "id": "827ce474-38b6-4640-b3cc-58528e54aac6",
+        "title": "Senior Associate, Recruiting",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/827ce474-38b6-4640-b3cc-58528e54aac6",
+        "date": "2026-09-28T16:05:17.199+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Talent Acquisition",
+        "active": true,
+        "dateVerified": true,
+        "slug": "associate52"
+      },
+      "payload": {
+        "text": "Talos is hiring Senior Associate, Recruiting: https://hashtagweb3.com/associate52/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/associate52/li?og=7",
+          "title": "Senior Associate, Recruiting at Talos",
+          "description": "Join Talos as Senior Associate, Recruiting. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/associate52.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "89323f4c-eb78-4959-b75d-925aaecd37c6",
+      "verification": "creating"
     }
   ]
 }
