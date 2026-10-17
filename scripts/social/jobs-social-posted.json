@@ -19525,7 +19525,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "89323f4c-eb78-4959-b75d-925aaecd37c6",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad3cdf8938409f1d09db463"
     }
   ]
 }
