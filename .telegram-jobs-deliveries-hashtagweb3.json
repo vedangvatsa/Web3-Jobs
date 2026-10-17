@@ -2681,5 +2681,57 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 155804,
     "sentAt": "2026-10-17T03:55:13.612Z"
+  },
+  "fe1bd3da-5dba-4fe7-b86b-32fe0f6a1ca2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:33:50.804Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8267851",
+          "title": "Account Executive, Enterprise Grower (Benelux)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8267851",
+          "date": "2026-10-16T09:31:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Amsterdam",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "slug": "sls55",
+          "dateVerified": true
+        },
+        "key": "8267851",
+        "slug": "sls55",
+        "url": "https://hashtagweb3.com/sls55?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8230558",
+          "title": "Senior Offensive Security Engineer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8230558",
+          "date": "2026-10-06T12:26:47-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "Security",
+          "active": true,
+          "salary": "$175k – $275k/yr",
+          "dateVerified": true,
+          "slug": "sec93"
+        },
+        "key": "8230558",
+        "slug": "sec93",
+        "url": "https://hashtagweb3.com/sec93?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Senior Offensive Security Engineer"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls55?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Enterprise Grower (Benelux)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/sec93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Offensive Security Engineer</a>",
+    "slotKey": "2026-10-17:afternoon"
   }
 }
