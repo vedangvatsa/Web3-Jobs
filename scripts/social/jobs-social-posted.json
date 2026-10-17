@@ -20311,6 +20311,47 @@
       "attemptId": "0acef99f-8f09-4024-add2-46af30856f1e",
       "verification": "verified",
       "postId": "0x2af21320c02b3254d420fc2627f9bf88e9b193f2"
+    },
+    {
+      "slug": "eccf",
+      "company": "Elliptic",
+      "title": "Education Content Creator - FTC",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T19:35:58.298Z",
+      "expectedText": "Elliptic is hiring Education Content Creator - FTC: https://hashtagweb3.com/eccf/li?og=7",
+      "snapshot": {
+        "id": "c6221876-7dd3-4a72-acd0-932bc89e9a1f",
+        "title": "Education Content Creator - FTC",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/c6221876-7dd3-4a72-acd0-932bc89e9a1f",
+        "date": "2026-10-02T12:43:43.895+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eccf"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Education Content Creator - FTC: https://hashtagweb3.com/eccf/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eccf/li?og=7",
+          "title": "Education Content Creator - FTC at Elliptic",
+          "description": "Join Elliptic as Education Content Creator - FTC. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eccf.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "54240890-1969-4079-8da6-e9bf18ebd17a",
+      "verification": "creating"
     }
   ]
 }
