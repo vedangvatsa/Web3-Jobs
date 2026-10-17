@@ -5242,5 +5242,123 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 16546,
     "sentAt": "2026-10-17T03:54:37.064Z"
+  },
+  "a23c5219-e7d1-4a1e-9d1d-ae790b7eb594": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:54:39.377Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8008766003",
+          "title": "Senior Fraud Risk Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8008766003",
+          "date": "2026-09-29T18:00:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "New York, NY",
+          "department": "Risk",
+          "active": true,
+          "salary": "$143k – $214k/yr",
+          "dateVerified": true,
+          "slug": "mgr110"
+        },
+        "key": "8008766003",
+        "slug": "mgr110",
+        "url": "https://hashtagweb3.com/mgr110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Fraud Risk Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cc0af88a-2a19-493d-93cf-c5090f986f1f",
+          "title": "AI Partnerships Manager",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/cc0af88a-2a19-493d-93cf-c5090f986f1f",
+          "date": "2026-10-06T12:46:25.219+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (San Francisco, CA)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr149"
+        },
+        "key": "cc0af88a-2a19-493d-93cf-c5090f986f1f",
+        "slug": "mgr149",
+        "url": "https://hashtagweb3.com/mgr149?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "AI Partnerships Manager"
+      },
+      {
+        "snapshot": {
+          "id": "3a3ce52f-6949-451e-95f8-9e98019d7686",
+          "title": "Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/3a3ce52f-6949-451e-95f8-9e98019d7686",
+          "date": "2026-10-01T22:23:02.403+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (Washington D.C.)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an63"
+        },
+        "key": "3a3ce52f-6949-451e-95f8-9e98019d7686",
+        "slug": "an63",
+        "url": "https://hashtagweb3.com/an63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Cyber Threat Intelligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "4742897005",
+          "title": "Junior Fixed Income Relative Value Trader",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742897005",
+          "date": "2026-10-12T10:32:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "Chicago",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr126"
+        },
+        "key": "4742897005",
+        "slug": "tr126",
+        "url": "https://hashtagweb3.com/tr126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Junior Fixed Income Relative Value Trader"
+      },
+      {
+        "snapshot": {
+          "id": "47f2edae-ba5e-4573-99ac-a3e6e508bc85",
+          "title": "Strategic Account Executive - AI Infrastructure",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/47f2edae-ba5e-4573-99ac-a3e6e508bc85",
+          "date": "2026-10-14T05:09:19.228+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra12"
+        },
+        "key": "47f2edae-ba5e-4573-99ac-a3e6e508bc85",
+        "slug": "infra12",
+        "url": "https://hashtagweb3.com/infra12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Strategic Account Executive"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/mgr110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Risk Manager</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/mgr149?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Partnerships Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/an63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/tr126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Fixed Income Relative Value Trader</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/infra12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Executive - AI Infrastructure</a>",
+    "slotKey": "2026-10-17:morning"
   }
 }
