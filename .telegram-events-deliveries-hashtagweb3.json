@@ -2290,5 +2290,53 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 155803,
     "sentAt": "2026-10-17T03:54:31.086Z"
+  },
+  "9af8ca2a-1d9b-4a75-81fd-c30eb42d2cbb": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:33:26.800Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-official-onchain-dev-city-india-11-02",
+        "slug": "onchain-dev-city",
+        "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
+        "startDate": "2026-11-02T10:30:00.000Z",
+        "keys": [
+          "ibw-official-onchain-dev-city-india-11-02",
+          "odci",
+          "odcd8i",
+          "india-luma-n0a39ago",
+          "page:onchain-dev-city:2026-11-02",
+          "luma:evt-txzsskhrutnidin",
+          "luma-url:/n0a39ago",
+          "event:onchaindevcitydevcon8india:2026-11-02:mumbai"
+        ]
+      },
+      {
+        "id": "premier-devcon-2026",
+        "slug": "devcon",
+        "name": "Devcon 2026",
+        "startDate": "2026-11-03",
+        "keys": [
+          "premier-devcon-2026",
+          "page:devcon:2026-11-03",
+          "event:devcon2026:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "curated-alchemy-devcon-meetings-2026",
+        "slug": "alchemy-devcon-meetings",
+        "name": "Alchemy Meetings at Devcon Mumbai",
+        "startDate": "2026-11-03",
+        "keys": [
+          "curated-alchemy-devcon-meetings-2026",
+          "page:alchemy-devcon-meetings:2026-11-03",
+          "url:alchemy.com/events/devcon-2026:2026-11-03",
+          "event:alchemymeetingsatdevconmumbai:2026-11-03:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-17:afternoon"
   }
 }
