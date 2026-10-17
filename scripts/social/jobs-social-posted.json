@@ -16168,8 +16168,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "77daab0f-16f9-4c0f-b26b-2aef73a916e8",
-      "verification": "pending",
-      "postId": "6ad2f2208ac6cfe5442be184"
+      "verification": "verified",
+      "postId": "6ad2f2208ac6cfe5442be184",
+      "permalink": "https://twitter.com/hashtag_web3/status/2111305538101207067"
     }
   ]
 }
