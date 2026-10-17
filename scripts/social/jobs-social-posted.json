@@ -17210,6 +17210,40 @@
       "attemptId": "0dc9e666-2128-4c6c-ac02-68be1c79424b",
       "verification": "verified",
       "postId": "0x2ec2a3f520b6f4621a02460a7e036fcae7b0db99"
+    },
+    {
+      "slug": "eng155",
+      "company": "Ondo Finance",
+      "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+      "platform": "farcaster",
+      "postedAt": "2026-10-17T11:33:15.793Z",
+      "expectedText": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems\n\nhttps://hashtagweb3.com/eng155/fc?og=7",
+      "snapshot": {
+        "id": "4360091009",
+        "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4360091009",
+        "date": "2026-09-18T12:24:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote (US)",
+        "department": "Software Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng155"
+      },
+      "payload": {
+        "text": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems\n\nhttps://hashtagweb3.com/eng155/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng155/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "98fbf666-1125-4b57-bee5-3cee77c1b75a",
+      "verification": "creating"
     }
   ]
 }
