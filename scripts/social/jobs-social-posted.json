@@ -15667,6 +15667,40 @@
       "attemptId": "65db81ee-c9a5-480b-844b-5e4506aa6fa6",
       "verification": "verified",
       "postId": "0x90f84be2c5f2ad08cfdf80dfa45536880f7ee43e"
+    },
+    {
+      "slug": "be13",
+      "company": "Mesh",
+      "title": "Staff Backend Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-17T03:54:18.702Z",
+      "expectedText": "Mesh is hiring Staff Backend Engineer\n\nhttps://hashtagweb3.com/be13/fc?og=7",
+      "snapshot": {
+        "id": "5424582008",
+        "title": "Staff Backend Engineer",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5424582008",
+        "date": "2026-09-17T12:42:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "Bangalore, India",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be13"
+      },
+      "payload": {
+        "text": "Mesh is hiring Staff Backend Engineer\n\nhttps://hashtagweb3.com/be13/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/be13/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "16afa0b3-7fcf-48b0-8487-b72213ede333",
+      "verification": "creating"
     }
   ]
 }
