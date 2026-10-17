@@ -16063,7 +16063,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a49ac1b0-5659-4e1d-88c9-c87c8625332a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad2f1fac34368e4b0a675a1"
     }
   ]
 }
