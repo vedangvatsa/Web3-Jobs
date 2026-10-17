@@ -20057,7 +20057,8 @@
       },
       "account": "channel:base",
       "attemptId": "c21a7869-1445-41c9-b870-64eaceffe962",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb2d845ebb216bc8aec6266ae8ec1b3e55fb39091"
     }
   ]
 }
