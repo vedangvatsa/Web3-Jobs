@@ -1626,7 +1626,7 @@
     "sentAt": "2026-10-16T19:36:11.462Z"
   },
   "0f33c565-c79a-4540-925a-f0eef890a286": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T03:55:12.174Z",
     "stories": [
       {
@@ -1654,6 +1654,8 @@
         "originalTitle": "Solana sets Oct. 21 for Alpenglow consensus switch"
       }
     ],
-    "slotKey": "2026-10-17:morning"
+    "slotKey": "2026-10-17:morning",
+    "messageId": 65757,
+    "sentAt": "2026-10-17T03:55:14.510Z"
   }
 }

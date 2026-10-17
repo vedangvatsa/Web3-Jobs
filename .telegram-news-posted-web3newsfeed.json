@@ -779,6 +779,9 @@
   "https://hashtagweb3.com/atom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nsfarcaster?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/saldo-bank?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/heart-arrest?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/alpenglow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2238,6 +2241,12 @@
   "Network School Acquires Farcaster From Neynar",
   "Payward to acquire Saldo Bank for EU banking license",
   "Payward agrees to buy Saldo Bank for EU banking license",
+  "Trezor ends reseller deals as Ledger pauses Asian sales",
+  "Trezor cuts resellers as Ledger halts sales in seven markets",
+  "HEX founder Richard Heart detained in Istanbul",
+  "Richard Heart detained in Istanbul on Finnish request",
+  "Solana schedules Alpenglow consensus activation for October 21 2026",
+  "Solana sets Oct. 21 for Alpenglow consensus switch",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2546,5 +2555,8 @@
   "fp:ask|becom|bind|blockchain|develop|holder|independent|layer1|network|non",
   "fp:849|android|announc|app|atom|devic|includ|ledger|mod|operat",
   "fp:acquir|buyer|client|farcaster|implement|keep|network|neynar|open|promis",
-  "fp:acquir|agre|approval|bank|buy|conclud|in2027|institution|licens|lithuanian"
+  "fp:acquir|agre|approval|bank|buy|conclud|in2027|institution|licens|lithuanian",
+  "fp:asian|by2027|cut|dur|end|halt|ledger|market|paus|prob",
+  "fp:2026|authority|custody|detain|finland|finnish|follow|founder|heart|hex",
+  "fp:2026|activation|alpenglow|chang|consensus|epoch1064|finality|millisecond|oct21|october21"
 ]
