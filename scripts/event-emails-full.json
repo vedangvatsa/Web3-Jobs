@@ -941,22 +941,7 @@
     "url": "https://superteam.fun",
     "emails": [
       "support@superteam.fun"
-    ],
-    "event": {
-      "id": "side-solana-superteam-singapore-2026",
-      "slug": "solana1",
-      "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",
-      "description": "High-energy side event bringing together 500+ Solana developers, DeFi protocols, and ecosystem project teams during TOKEN2049 week.",
-      "startDate": "2026-09-16T17:00:00.000Z",
-      "endDate": "2026-09-16T22:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "National Gallery Singapore, Singapore",
-      "url": "https://superteam.fun",
-      "website": "https://superteam.fun",
-      "coverImage": "/events/superteam-asia.png",
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "The Institutional Table: Private Dinner",
@@ -1264,21 +1249,7 @@
     "url": "https://lu.ma/bn0ikjyg",
     "emails": [
       "info@lido.fi"
-    ],
-    "event": {
-      "id": "luma-host-evt-evt-BqKCLXa8nn2x0pW",
-      "name": "Lido Poolside: Institutional, September 2026",
-      "description": "",
-      "startDate": "2026-09-16T23:00:00.000Z",
-      "endDate": "2026-09-17T00:00:00.000Z",
-      "city": "",
-      "country": "",
-      "location": "TBA",
-      "url": "https://lu.ma/bn0ikjyg",
-      "coverImage": "https://images.lumacdn.com/uploads/oy/8721ed95-6745-49f4-8a5e-ef32d90e636c.png",
-      "source": "luma-trusted",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Crypto & Cocktails: September",

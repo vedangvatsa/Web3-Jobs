@@ -1933,10 +1933,6 @@
       "sha256": "24d5f4429b01c54670d529715ad79ea787cd59ffb4003ad622c96daf82af522e",
       "status": "retained"
     },
-    "/events/luma-crypto-n7kjzcfphuagltn-5b8763a5.webp": {
-      "sha256": "32c8713578ed6d9c05510c1e718616c946ed0091e0d189a1076c0c5dc5bfa575",
-      "status": "retained"
-    },
     "/events/luma-crypto-pmblgmfdgwwshux-5bd53a7a.webp": {
       "sha256": "2f4b31e9192f8230740cbf7954c686814f4eee66fff0c6a1683e003f78a7b263",
       "status": "optimized"
@@ -4297,10 +4293,6 @@
       "sha256": "9b63f8e08e34548234a51fd53613bdb105001cc01c628f8544fc5373600a6bcb",
       "status": "optimized"
     },
-    "/events/w3v-art-digital-assets-aad9865f.webp": {
-      "sha256": "18660aea0712cda5e23a4fd2b38e2c088f2c27850cf89850403aea448bb72c5a",
-      "status": "retained"
-    },
     "/events/w3v-best-event-afterdark-devcon-26-11-05-1ab0cd13.webp": {
       "sha256": "6d7b4a2e08ae390077f4479add714077151622edfee51dd378140c5c336db313",
       "status": "optimized"
@@ -4380,10 +4372,6 @@
     "/events/w3v-deai-summit-26-11-25-07bffff9.webp": {
       "sha256": "2279c73296f4d1b6b2979026405006f1227ef0e07b35227876e454104a6c3d8c",
       "status": "retained"
-    },
-    "/events/w3v-dealflow-drinks-ebc-5980e75f.webp": {
-      "sha256": "0f0bb9f7820e80772afa640b63f97c0d08b4474573eeba7b97f37b158e87992a",
-      "status": "optimized"
     },
     "/events/w3v-defi-security-summit-26-11-01-9ddc8b9b.webp": {
       "sha256": "8d24946d61b902a034bf9bbbd37f4cc70a1187ce2f82d669dc20a695315bc0eb",
@@ -4827,10 +4815,6 @@
     },
     "/events/w3v-vcs-lps-cocktail-hour-725b69cd.webp": {
       "sha256": "cc76cfb89e6dd740540b86c488e4e26ead7fd9cdf6b4904dcf62784d28f08754",
-      "status": "retained"
-    },
-    "/events/w3v-vip-dinner-for-white-case-and-kbw-8c2b3951.webp": {
-      "sha256": "39c55da79a2ea1f4e928069714454748c6d4e81edaf2b7024f04d48333099e67",
       "status": "retained"
     },
     "/events/w3v-wake-up-series-stablecoins-future-payments-26--18d72c73.webp": {

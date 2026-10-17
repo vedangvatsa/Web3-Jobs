@@ -19489,232 +19489,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-c88c4503834e23be"></a>
-
-## Coinbase Office Hours
-
-- Record: `luma-crypto-AmIuE47cLpCMRzA`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/913voyqv>
-
-### About the event
-
-Coinbase Office Hours - Runtime Agent Week
-
-Drop by Coinbase's NYC office (Training Room 1) Wed Sep 16, 1-5pm ET for open office hours with the Coinbase team. Bring questions, WIPs, and demos, get feedback live during Agent Week.
-
-Part of Runtime Agent Week (Sep 13-19): https://luma.com/agentweek
-
-Hosted with Bankr x Propaganda.
-
-<a id="event-4e36c745ec222b92"></a>
-
-## Equisafe MEGA Party x Starknet x Rcube
-
-- Record: `luma-crypto-HwPpT83iiCzXDlJ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/equisafemegaparty>
-
-### About the event
-
-Save the date - Equisafe, Starknet Foundation and Rcube invite you to a signature evening celebrating the launch of the European institutional tokenization rail.
-
-### An evening to mark a new chapter
-
-After several years building the regulated infrastructure that allows finance professionals to structure, issue and distribute their investment products, Equisafe is entering a new era.
-
-New brand. New platform. And a strategic partnership with Starknet to bring about the European institutional tokenization rail, shared across distributors, banks, protocols and asset managers like Rcube.
-
-We are delighted to invite you to an evening bringing together those who are building this rail with us: a consortium of active partners and a wider circle of players shaping the future of asset management in Europe.
-
-### When & where
-
-- 16th September 2026
-- 7:00 PM to 11:00 PM
-- Hôtel Le Marois - 9-11 Avenue Franklin D. Roosevelt, 75008 Paris
-
-> A 19th-century private mansion, home to the prestigious France Amériques club, tucked between Avenue Montaigne and the Grand Palais.
-
-### Programme
-
-7:00 PM - Welcome
-
-A glass of champagne to set the tone.
-
-7:30 PM - Conference
-
-- Opening: introducing the Equisafe × Starknet x Rcube tokenization rail: vision, architecture, and multi-month programme.
-- Demo: Demo & presentation of use cases (on-chain payments, tokenization for asset managers, DeFi vaults, pre-IPO, SMA...).
-- Open Q&A
-
-8:15 PM - Cocktail dinner
-
-Cuisine by Butard Enescot, to carry the conversations on in the exceptional setting of the hôtel particulier.
-
-We'll do our best to accommodate dietary requirements and allergies shared in advance, but can't guarantee full coverage.
-
-### Who will be there
-
-Around fifty guests, hand-picked among the partners and friends of the house:
-
-- Fintech & web3 startup founders
-- Fund managers (PE, VC, SGP)
-- Banking partners
-- Protocols & market infrastructures
-- Investors, family offices, club deals
-- Influential voices in European finance
-
-<a id="event-55145a7ad04c29cf"></a>
-
-## Cocktails & Networking with Bitwave and Wall Street Blockchain Alliance
-
-- Record: `luma-crypto-ecYSpzgJcgQSWfi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bitwave-pmuu>
-
-### About the event
-
-Join Bitwave and the Wall Street Blockchain Alliance for a curated happy hour mixer in New York City! Location disclosed after registration approval.
-
-<a id="event-f77e28919ed2134a"></a>
-
-## consumer ai dinner
-
-- Record: `luma-crypto-DyWseSsKyWgf30g`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cwuvgsop>
-
-### About the event
-
-come hang with 8 of the best consumer ai founders in nyc who have:
-
-- shipped to millions of users
-- making millions in revenue
-- all in the hardest space to build in
-
-the table is intentionally a very small group of people.
-
-feel free to vent, rant, compare notes and have conversations you can't have with people who just don't quite get it.
-
-accepting a seat for a GP
-
-<a id="event-443dc14e397d8fdd"></a>
-
-## Founder Dinner
-
-- Record: `luma-crypto-A1I9w7kTgTbv6Gg`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ciolirkj>
-
-### About the event
-
-Join us for an intimate evening with a highly curated group of Series A+ founders that are scaling at the most beautiful venue in San Francisco.
-
-### Who Should Attend?
-
-- Founders who have raised Series A and beyond building in AI.
-- Founders who have raised Seed with at least $2M ARR.
-
-Why Attend?
-
-- Honest conversations with the best founders at similar stages
-- Tactical insights on fundraising, GTM, and scaling from peers who get it
-
-What Is Included?
-
-- 3-course dinner
-- The builders behind some of the fastest-growing companies in the country
-
-Important Reminders:
-
-- Dress Code: Business, smart casual
-- [Stay Connected: Follow us on Instagram](https://www.instagram.com/brderless/) [or LinkedIn](https://www.linkedin.com/company/brderless/) for updates on our community, events and opportunities.
-- Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes.
-
-### About the Hosts & Sponsors
-
-[Brderless](https://www.linkedin.com/company/brderless) brings together the most extraordinary founders through a carefully curated community.
-
-[Keka](https://www.keka.com) is an HR software platform, a "PeopleOS" built to handle the core functions companies need to manage their workforce. It brings together payroll processing, attendance and leave tracking, performance management, hiring and onboarding, and employee engagement into one system, so HR teams don't have to juggle separate tools.
-
-[MongoDB](https://www.mongodb.com/company/ventures?utm_source=luma)is a document database with the scalability and flexibility that you want with the querying and indexing that [you need. Build, scale, and succeed with MongoDB for Startups](https://www.mongodb.com/solutions/startups?
-
-utm_source=google&utm_campaign=search_gs_pl_evergreen_pd-null_startups_prosp-brand_gic-null_ww-multi_ps-all_dv-all_eng_formsubmit&utm_term=mongodb%20startup%20program&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=20457804147&adgroup=152554839516&cq_cmp=20457804147&gad_source=1&gad_campaignid=20457804147&gbraid=0AAAAADQ1400LYw5ROyWXP2Oqyg9R3Cfis&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxhF7earE2vqDP404-N1s0GL_mW7XbUSyLQn3UBHYe_yuBA3eqwaFwgaArPrEALw_wcB).
-
-[Fellow](https://fellow.legal) is a boutique law firm for Bay Area startups and their investors, from Seed to Series C, who want an outsourced general counsel rather than a document vendor. We handle the full startup legal stack across commercial work, corporate matters, and fundraising and exits. We do it AI-first and on deterministic workflows, with fixed rates for most work and clear pricing up front, all delivered where your team already works (e.g., Slack). Over 250 founders (incl. from YC, Neo, Speedrun, and more) have trusted us with their legal in less than two years.
-
-<a id="event-8bb135199dea7470"></a>
-
-## V11 x Frontier Founders: Private Founder Dinner
-
-- Record: `luma-crypto-N7kJzcfPHUAgLTn`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9dsyw7iy>
-
-### About the event
-
-An intimate gathering of exceptional founders building at the frontier will gather in SF for an intimate 3-course, private room dinner.
-
-<a id="event-178f28fb117dc16c"></a>
-
-## Robotics Founder Dinner with Nosh @ Flux AI \| Physical AI, Robotics, and Sensors
-
-- Record: `luma-crypto-wCndLTQpb6cwxbh`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cxos1yb9>
-
-### About the event
-
-Come join us for this robotics focused dinner with food cooked by Nosh Robotics at the new Flux AI HQ!
-
-We have 30 spots, great food, a great venue, and a curated experience.
-
-### This is for any hardware founder, engineer, and investor
-
-- All stages of startups and companies welcome.
-
-### Agenda
-
-6:30-7:00 - Arrival, mingle, grab refreshments
-
-7:00-8:15 - Dinner + Discuss
-
-8:15-8:30 - Asks + Offers
-
-### What to expect
-
-- Food prepared by Nosh Robotics
-- 1x mixed drink with extra options
-- 2hrs to connect over dinner discussion
-- All emails + intros will be sent after the event for further connection
-
-### Thank you to our co-hosts!
-
-Our dinners are usually $50 a person, thank you to our partners for helping make the ticket 50% off!
-
-- Flux AI (https://flux.ai )is a cloud-native, AI-powered PCB design platform that handles part research, schematic generation, component placement, routing, and design rule checks.
-- Nosh Robotics (https://letsnosh.io ) is an autonomous countertop cooking robot: load the ingredients, tap the screen, and it prepares the meal for you, with 500+ recipes and app-based remote start.
-
-If you want to help host a future SF Hardware Dinner, reach out to us at michael (at) hardwaremeetup (dot) com.
-
-Hardware Meetup is a volunteer organization and relies on sponsorships to cover the costs of putting on these events.
-
-We share the RSVP list with sponsors who support 3 or more events. By RSVPing to this event you consent to us sharing your email address and other registration information with our sponsors.
-
 <a id="event-41bf18313e31719c"></a>
 
 ## Building from Ideas to Code (and back) w/ Miro & Codex
@@ -53896,109 +53670,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-04939aa47f521c2c"></a>
-
-## VIP Dinner for White & Case and KBW
-
-- Record: `w3v-vip-dinner-for-white--case-and-kbw`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T16:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/s4b2nnmg>
-
-### About the event
-
-We are delighted to invite you to an exclusive VIP Dinner during the European Blockchain Convention, hosted by White&Case, KBW & European Blockchain Conventino.
-
-This intimate evening will take place at a wonderful Basque cuisine restaurant, offering an unforgettable culinary experience in the company of fellow leaders, investors, and innovators.
-
-### Event Details
-
-- Venue: EGUR Private Room, Torre Melina Hotel
-- Date: 16th of September 2026
-- Time: 6:45pm CET
-
-Seats are extremely limited and only accepted guests are confirmed.
-
-<a id="event-e36e3e92fc23403d"></a>
-
-## Art & Digital Assets
-
-- Record: `w3v-art--digital-assets`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hacken-bg5c>
-
-### About the event
-
-Join us for exclusive networking evening in Barcelona set in an immersive contemporary art space.
-
-Bringing together leaders from the digital assets ecosystem, Web3 leaders, investors, and innovators, this evening is designed to spark meaningful conversations, foster new partnerships, and explore the future of digital assets in an inspiring artistic setting.
-
-More than just a networking event, it's an unforgettable experience where art, music, and the digital assets industry come together to inspire creativity, collaboration, and fresh ideas.
-
-Exclusive Experiences:
-
-- Sketch Portraits - Personalized wine sketch portraits in real-time
-- Curated Catering - Savor signature bites and light alcoholic drinks inspired by digital art and Barcelona's vibrant culinary flair
-
-Capacity is limited - make sure to secure your spot early!
-
-### About the Hosts
-
-[Hacken](https://hacken.io/?referrer=luma) is an end-to-end blockchain security & compliance partner for digital assets. Unlike traditional providers, Hacken was born on blockchain - combining deep Web3/DLT expertise with enterprise-grade quality, AI-powered offensive security, and globally recognized certifications. Since 2017, Hacken has been trusted by 1,500 adopters including the European Commission, ADGM, MetaMask, Ethereum Foundation, and Binance to secure the new digital frontier.
-
-[The Vault](https://thevault.inc)is a regulated institutional infrastructure platform for digital assets, serving corporate treasuries, financial institutions, family offices, and payment providers. It covers the full lifecycle, from secure custody and treasury operations to structured investments, and is built on proprietary threshold MPC cryptography developed by an in-house research team. It is available in three deployment models, SaaS, Hybrid, and On-Premise, with a bespoke modular architecture that can be customised to each company's needs and frameworks.
-
-<a id="event-9366a06a18ec2d63"></a>
-
-## Convergence Barcelona EBC
-
-- Record: `w3v-dealflow-drinks-ebc`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-16T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5gmf3h7j>
-
-### Convergence Barcelona - EBC Edition
-
-Where Web3's builders, investors, founders, and industry leaders converge.
-
-Convergence Barcelona brings together the people shaping the next chapter of Crypto and Digital Assets during European Blockchain Convention.
-
-Join us for an evening of high-quality networking, conversations, and connections with leading founders, investors, protocols, and industry professionals from across the ecosystem.
-
-No pitches. No noise. Just the right people in the right room.
-
-Hosted by:
-
-[Kenomic - kenomic.ai](https://kenomic.ai)
-
-Kenomic is an all-in-one token lifecycle platform that helps teams design, validate, launch, and manage tokens without juggling multiple vendors.
-
-Use AI to build tokenomics, simulate millions of market scenarios before launch, deploy audit-grade smart contracts across 9+ chains, and manage vesting, lockups, staking, airdrops, and treasury operations from one platform.
-
-Live today with 80+ teams already building.
-
-[Cryptic - crypticweb3.com](https://crypticweb3.com)
-
-Cryptic is the leading crypto marketing agency helping Web3 companies build brands, launch products, and scale their growth.
-
-From go-to-market strategy and positioning to KOL campaigns, PR, social media, content, and founder branding, Cryptic provides the strategy, network, and execution needed to win in crypto.
-
-Strategy. Attention. Growth. One agency.
-
-[Pipo.VC](https://Pipo.VC) - pipo.vc
-
-Private markets are closed by design. A company compounds for a decade behind a wall, and by the time it lists, the upside has already been split between a few dozen funds. Everyone else gets to buy the exit.
-
-PIPO opens it. We tokenize equity exposure and put them on real venues: private companies on the way to a listing, public issuers with shares and warrants going nowhere. One instrument, tradable from day one instead of unlocked in five years.
-
-Not a wrapper. A market.
-
-pipo.vc
-
 <a id="event-03281a392caa9442"></a>
 
 ## European Blockchain Convention 12
@@ -72630,6 +72301,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9baf305317776d7f"></a>
+
+## Octant’s Model for Sustainable Ethereum Growth
+
+- Record: `luma-evt-3mmc2cCRwR8KMAA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/lvguduh1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c42aa5dd731b1100"></a>
 
 ## Web3 and AI networking at The Rose & Crown
@@ -72675,6 +72358,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T20:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/ethereum-stablecoin-summit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8cc08d172546bba5"></a>
+
+## BitcoinMondays: Multisig Workshop - Basics, Options, & Tradeoffs
+
+- Record: `luma-evt-vVTTImXJFXhadYX`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-19T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gpf2lii9>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72944,6 +72639,18 @@ https://www.encodeclub.com/
 
 A global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!
 
+<a id="event-77e3930708d2abed"></a>
+
+## Change Data Capture: The Shouldas, Couldas, and Wouldas
+
+- Record: `mu-316879993`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T18:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/tripass/events/316879993/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-58763f6fea7db2dc"></a>
 
 ## Bienvenidos a charla en Español.
@@ -73085,6 +72792,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T01:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/onchain-finance-lv>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-68bbecbff91e9418"></a>
+
+## Bitcoin & Brews Port Moody
+
+- Record: `luma-evt-ycWrx5n01IFcfSP`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2nrn1c75>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73289,6 +73008,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T17:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/jzkyiiz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-46aa56b65f869626"></a>
+
+## Open Bitcoin Q&A chat!
+
+- Record: `mu-316047395`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T20:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047395/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74497,6 +74228,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T18:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/polsky-11-02-2026-event-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2a036387e264aaca"></a>
+
+## Online Bitcoin Hangout
+
+- Record: `mu-316966313`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T18:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bitcoincharlotte/events/316966313/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

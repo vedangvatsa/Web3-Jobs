@@ -941,22 +941,7 @@
     "url": "https://superteam.fun",
     "emails": [
       "support@superteam.fun"
-    ],
-    "event": {
-      "id": "side-solana-superteam-singapore-2026",
-      "slug": "solana1",
-      "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",
-      "description": "High-energy side event bringing together 500+ Solana developers, DeFi protocols, and ecosystem project teams during TOKEN2049 week.",
-      "startDate": "2026-09-16T17:00:00.000Z",
-      "endDate": "2026-09-16T22:00:00.000Z",
-      "city": "Singapore",
-      "country": "Singapore",
-      "location": "National Gallery Singapore, Singapore",
-      "url": "https://superteam.fun",
-      "website": "https://superteam.fun",
-      "coverImage": "/events/superteam-asia.png",
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "The Institutional Table: Private Dinner",

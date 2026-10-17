@@ -403,182 +403,6 @@
     }
   },
   {
-    "id": "w3v-vip-dinner-for-white--case-and-kbw",
-    "name": "VIP Dinner for White & Case and KBW",
-    "description": "We are delighted to invite you to an exclusive VIP Dinner during the European Blockchain Convention, hosted by White&Case, KBW & European Blockchain Conventino.\n\nThis intimate evening will take place at a wonderful Basque cuisine restaurant, offering an unforgettable culinary experience in the company of fellow leaders, investors, and innovators.\n\nEvent Details:\n\n• Venue: EGUR Private Room, Torre Melina Hotel\n• Date: 16th of September 2026\n• Time: 6:45pm CET\n\nSeats are extremely limited and only accepted guests are confirmed.",
-    "startDate": "2026-09-16T16:45:00.000Z",
-    "endDate": "2026-09-16T20:45:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Torre Melina, a Gran Meliá Hotel, Av. Diagonal, 671, Les Corts, 08028 Barcelona, Spain",
-    "url": "https://luma.com/s4b2nnmg",
-    "coverImage": "/events/w3v-vip-dinner-for-white-case-and-kbw-8c2b3951.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "European Blockchain Convention"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "neighborhood": "La Maternitat i Sant Ramon",
-    "slug": "vdwck",
-    "registrationUrl": "https://luma.com/s4b2nnmg",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Torre Melina, a Gran Meliá Hotel",
-    "streetAddress": "Av. Diagonal, 671, Barcelona",
-    "addressLocality": "Barcelona",
-    "addressRegion": "Catalunya",
-    "addressCountry": "ES",
-    "coordinates": {
-      "latitude": 41.381487,
-      "longitude": 2.1089469999999997
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "European Blockchain Convention - Official Side Events",
-      "url": "https://eblockchainconvention.com/european-blockchain-convention-12/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/s4b2nnmg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/s4b2nnmg",
-      "eventId": "evt-QtHVy6veHS7wYeD",
-      "fetchedAt": "2026-09-19T23:49:38.767Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-art--digital-assets",
-    "name": "Art & Digital Assets",
-    "description": "Join us for exclusive networking evening in Barcelona set in an immersive contemporary art space.\n\nBringing together leaders from the digital assets ecosystem, Web3 leaders, investors, and innovators, this evening is designed to spark meaningful conversations, foster new partnerships, and explore the future of digital assets in an inspiring artistic setting.\n\nMore than just a networking event, it’s an unforgettable experience where art, music, and the digital assets industry come together to inspire creativity, collaboration, and fresh ideas.\n\n✨ Exclusive Experiences:\n\n• 🎨🍷 Sketch Portraits – Personalized wine sketch portraits in real-time\n\n• 🍴 Curated Catering – Savor signature bites and light alcoholic drinks inspired by digital art and Barcelona’s vibrant culinary flair\n\nCapacity is limited - make sure to secure your spot early!\n\nAbout the Hosts:\n\n[Hacken](https://hacken.io/?referrer=luma) is an end-to-end blockchain security & compliance partner for digital assets. Unlike traditional providers, Hacken was born on blockchain - combining deep Web3/DLT expertise with enterprise-grade quality, AI-powered offensive security, and globally recognized certifications. Since 2017, Hacken has been trusted by 1,500 adopters including the European Commission, ADGM, MetaMask, Ethereum Foundation, and Binance to secure the new digital frontier.\n\n[The Vault](https://thevault.inc)is a regulated institutional infrastructure platform for digital assets, serving corporate treasuries, financial institutions, family offices, and payment providers. It covers the full lifecycle, from secure custody and treasury operations to structured investments, and is built on proprietary threshold MPC cryptography developed by an in-house research team. It is available in three deployment models, SaaS, Hybrid, and On-Premise, with a bespoke modular architecture that can be customised to each company’s needs and frameworks.",
-    "startDate": "2026-09-16T17:00:00.000Z",
-    "endDate": "2026-09-16T20:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/hacken-bg5c",
-    "coverImage": "/events/w3v-art-digital-assets-aad9865f.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Hacken",
-      "Bryn Bennett",
-      "Boban"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "ada",
-    "registrationUrl": "https://luma.com/hacken-bg5c",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Hacken Events",
-      "url": "https://hacken.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hacken-bg5c",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hacken-bg5c",
-      "eventId": "evt-G4UIlSr1uCcVxWA",
-      "fetchedAt": "2026-09-19T23:49:39.994Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-dealflow-drinks-ebc",
-    "name": "Convergence Barcelona EBC",
-    "description": "## Convergence Barcelona — EBC Edition\n\nWhere Web3’s builders, investors, founders, and industry leaders converge.\n\nConvergence Barcelona brings together the people shaping the next chapter of Crypto and Digital Assets during European Blockchain Convention.\n\nJoin us for an evening of high-quality networking, conversations, and connections with leading founders, investors, protocols, and industry professionals from across the ecosystem.\n\nNo pitches. No noise. Just the right people in the right room.\n\nHosted by:\n\n[Kenomic - kenomic.ai](https://kenomic.ai)\nKenomic is an all-in-one token lifecycle platform that helps teams design, validate, launch, and manage tokens without juggling multiple vendors.\n\nUse AI to build tokenomics, simulate millions of market scenarios before launch, deploy audit-grade smart contracts across 9+ chains, and manage vesting, lockups, staking, airdrops, and treasury operations from one platform.\n\nLive today with 80+ teams already building.\n\n[Cryptic - crypticweb3.com](https://crypticweb3.com)\n\nCryptic is the leading crypto marketing agency helping Web3 companies build brands, launch products, and scale their growth.\n\nFrom go-to-market strategy and positioning to KOL campaigns, PR, social media, content, and founder branding, Cryptic provides the strategy, network, and execution needed to win in crypto.\n\nStrategy. Attention. Growth. One agency.\n\n[Pipo.VC](https://Pipo.VC) - pipo.vc\n\nPrivate markets are closed by design. A company compounds for a decade behind a wall, and by the time it lists, the upside has already been split between a few dozen funds. Everyone else gets to buy the exit.\n\nPIPO opens it. We tokenize equity exposure and put them on real venues: private companies on the way to a listing, public issuers with shares and warrants going nowhere. One instrument, tradable from day one instead of unlocked in five years.\n\nNot a wrapper. A market.\n\npipo.vc",
-    "startDate": "2026-09-16T17:00:00.000Z",
-    "endDate": "2026-09-16T20:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Metric Barcelona, Av. Diagonal, 505, Les Corts, 08029 Barcelona, Spain",
-    "url": "https://luma.com/5gmf3h7j",
-    "coverImage": "/events/w3v-dealflow-drinks-ebc-5980e75f.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Cryptic",
-      "Kenomic"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "neighborhood": "Les Corts",
-    "slug": "cbee",
-    "registrationUrl": "https://luma.com/5gmf3h7j",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Metric Barcelona",
-    "streetAddress": "Av. Diagonal, 505, Barcelona",
-    "addressLocality": "Barcelona",
-    "addressRegion": "Catalunya",
-    "addressCountry": "ES",
-    "coordinates": {
-      "latitude": 41.391602299999995,
-      "longitude": 2.1416443
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Cryptic",
-      "url": "https://luma.com/Cryptic"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/5gmf3h7j",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Kenomic VIP",
-        "url": "https://luma.com/5gmf3h7j",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Cryptic VIP",
-        "url": "https://luma.com/5gmf3h7j",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/5gmf3h7j",
-      "eventId": "evt-XK1avKzPx2cmJvS",
-      "fetchedAt": "2026-09-19T23:49:40.043Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-p6Unv9lQEqxP3st",
     "name": "Start your UNBOUND day strong with Equinox × GrowthX",
     "description": "Join Equinox and GrowthX for an energizing morning workout designed to get you moving, reset your brain, and set the tone for a big day at UNBOUND.\n\nThe Experience\n\nOutdoor Pilates + Low-Impact Conditioning\n\nEase into the day with a feel-good outdoor session focused on movement, mobility, and getting your body switched on before the conference.\n\nThen keep the momentum going: Grab a coffee from our Little Wolf pop-up, refresh at Equinox Seaport, and get ready to take on the day.\n\nPack your conference fit — we’ll bring the rest.\n\nShow up. Sweat it out. Coffee up. Then take on UNBOUND.\n\nIMPORTANT: You must register and be accepted to attend.\n\nGrowthX AI helps companies win AI visibility, SEO, and organic awareness. We build AI and human expert systems that produce high-quality content at scale and distribute it so brands show up in ChatGPT, Perplexity, Gemini, and search. Clients like Webflow, Lovable, Ramp, and Brex run a compounding content engine with us.",
@@ -20554,7 +20378,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
     "source": "marketacross",
     "month": "May 2027"
   },
@@ -20818,7 +20642,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://webx-asia.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-webx-2027-86bdb833.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20902,7 +20726,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21668,7 +21492,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316844007/",
-    "coverImage": "/events/mu-316844007-27555cfc.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21938,7 +21762,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
-    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21952,12 +21776,9 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
-    "coverImage": "/events/mu-316802767-2db74201.webp",
+    "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22046,7 +21867,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/",
-    "coverImage": "/events/mu-315962979-975e4753.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23133,7 +22954,7 @@
     "country": "us",
     "location": "Des Moines, us",
     "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316665472-cd887090.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24387,7 +24208,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316859689/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859689-269ebffe.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24404,5 +24225,89 @@
     "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-3mmc2cCRwR8KMAA",
+    "name": "Octant’s Model for Sustainable Ethereum Growth",
+    "description": "",
+    "startDate": "2026-10-19T18:00:00.000Z",
+    "endDate": "2026-10-19T19:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/lvguduh1",
+    "coverImage": "/events/luma-evt-3mmc2ccrwr8kmaa-ae7398ce.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-vVTTImXJFXhadYX",
+    "name": "BitcoinMondays: Multisig Workshop - Basics, Options, & Tradeoffs",
+    "description": "",
+    "startDate": "2026-10-19T22:00:00.000Z",
+    "endDate": "2026-10-20T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/gpf2lii9",
+    "coverImage": "/events/luma-evt-vvttimxjfxhadyx-b5b0090e.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316879993",
+    "name": "Change Data Capture: The Shouldas, Couldas, and Wouldas",
+    "description": "Change Data Capture (CDC) looks straightforward on paper: enable it on the database, enable it on a table, and you're off. But what happens when your log fills up? What if you have to set it up in an ",
+    "startDate": "2026-10-20T18:00:00-04:00",
+    "endDate": "2026-10-20T18:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/tripass/events/316879993/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-ycWrx5n01IFcfSP",
+    "name": "Bitcoin & Brews Port Moody",
+    "description": "",
+    "startDate": "2026-10-21T02:00:00.000Z",
+    "endDate": "2026-10-21T04:00:00.000Z",
+    "city": "Port Moody",
+    "country": "Canada",
+    "location": "Port Moody, Canada",
+    "url": "https://lu.ma/2nrn1c75",
+    "coverImage": "/events/luma-evt-ycwrx5n01ifcfsp-cd2556b8.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316047395",
+    "name": "Open Bitcoin Q&A chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* Bitcoin.rocks\n* Bitcoin-Only.com\n* Bitcoiner.Guide\n* The",
+    "startDate": "2026-10-21T20:00:00-04:00",
+    "endDate": "2026-10-21T20:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/316047395/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316966313",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-11-02T18:30:00-05:00",
+    "endDate": "2026-11-02T18:30:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/316966313/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
