@@ -1558,5 +1558,36 @@
     "slotKey": "2026-10-16:evening",
     "messageId": 155791,
     "sentAt": "2026-10-16T19:33:56.798Z"
+  },
+  "87f64cf5-cc8c-465b-902b-7473cf329fe3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:55:05.300Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Payward to acquire Saldo Bank for EU banking license",
+        "summary": "The deal for the Lithuanian bank expects to close in 2027 following regulatory approval.",
+        "link": "https://hashtagweb3.com/saldo-bank?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Payward agrees to buy Saldo Bank for EU banking license"
+      },
+      {
+        "index": -1,
+        "headline": "HEX founder Richard Heart arrested in Istanbul",
+        "summary": "Turkish authorities took the crypto entrepreneur into custody on October 14, 2026, following an Interpol request from Finland.",
+        "link": "https://hashtagweb3.com/heart-arrest?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Richard Heart detained in Istanbul on Finnish request"
+      },
+      {
+        "index": -1,
+        "headline": "Solana to implement Alpenglow consensus update on October 21",
+        "summary": "The network will switch to a new consensus system aiming for 150-millisecond transaction finality at epoch 1064.",
+        "link": "https://hashtagweb3.com/alpenglow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana sets Oct. 21 for Alpenglow consensus switch"
+      }
+    ],
+    "slotKey": "2026-10-17:morning"
   }
 }
