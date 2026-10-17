@@ -755,6 +755,9 @@
   "https://hashtagweb3.com/witt-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strive-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zachxbt-syndicate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2172,6 +2175,12 @@
   "Strive buys 2,000 BTC and opens $500M buyback facility for SATA preferred stock",
   "ZachXBT Infiltrates Crypto Laundering Network Tied to Bybit Hack",
   "ZachXBT Says He Posed as Client to Expose Lazarus Launderers",
+  "Circle asks EU to revise MiCA stablecoin reserve requirements",
+  "Circle Asks EU to Keep Multi-Issuance and Ease MiCA Reserve Rules",
+  "Drift Foundation opens DFX claims for April exploit victims",
+  "Drift opens DFX claims with redemptions near one cent per dollar",
+  "Ethereum Staking Exit Queue Reaches Highest Level in October",
+  "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2477,5 +2486,8 @@
   "fp:aim|alpenglow|consensus|epoch1064|finality|for150|implement|millisecond|network|oct21",
   "fp:2026|announc|chief|council|departur|director|down|his|hous|immediately",
   "fp:000|462|500m|alongsid|btc|buyback|buys2|facility|fil|open",
-  "fp:12m|700|bybit|client|expos|fund|hack|infiltrat|investigator|launder"
+  "fp:12m|700|bybit|client|expos|fund|hack|infiltrat|investigator|launder",
+  "fp:ask|circl|commission|eas|equivalenc|european|issuanc|issuer|keep|liquidity",
+  "fp:300m|approximately00104|april|cent|claim|dfx|dollar|drift|exploit|foundation",
+  "fp:000|15m|enter|eth|exit|high|highest|hits2026|leaving786|level"
 ]
