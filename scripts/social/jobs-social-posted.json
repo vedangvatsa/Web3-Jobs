@@ -16930,7 +16930,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c4cbdb08-e1b6-49ee-8f19-3b4ad3774377",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad2f28f1c7e49ea4c36fadb"
     }
   ]
 }
