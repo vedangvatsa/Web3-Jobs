@@ -17784,6 +17784,47 @@
       "verification": "pending",
       "postId": "6ad35d7b0b0d72757ad4fe88",
       "error": "LinkedIn CVin.Bio receipt 6ad35d7b0b0d72757ad4fe88 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "eng155",
+      "company": "Ondo Finance",
+      "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T11:33:15.793Z",
+      "expectedText": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/li?og=7",
+      "snapshot": {
+        "id": "4360091009",
+        "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4360091009",
+        "date": "2026-09-18T12:24:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote (US)",
+        "department": "Software Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng155"
+      },
+      "payload": {
+        "text": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng155/li?og=7",
+          "title": "Site Reliability Engineer - Low-Latency Trading Systems at Ondo Finance",
+          "description": "Join Ondo Finance as Site Reliability Engineer - Low-La. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng155.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "df5a0127-1109-4378-a659-ec3136017a73",
+      "verification": "creating"
     }
   ]
 }
