@@ -16847,6 +16847,47 @@
       "attemptId": "498494f6-e33a-40c6-be53-ecfd18734432",
       "verification": "verified",
       "postId": "0xc67d4fd8ffc9802ba6b22f91a2fa6fa395b8708f"
+    },
+    {
+      "slug": "an83",
+      "company": "Figure",
+      "title": "Senior Data Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T03:57:18.131Z",
+      "expectedText": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/li?og=7",
+      "snapshot": {
+        "id": "8860479002",
+        "title": "Senior Data Analyst",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8860479002",
+        "date": "2026-10-08T15:13:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Analytics",
+        "active": true,
+        "salary": "$110k – $140k/yr",
+        "dateVerified": true,
+        "slug": "an83"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an83/li?og=7",
+          "title": "Senior Data Analyst at Figure",
+          "description": "Join Figure as Senior Data Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an83.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "0b44c712-b271-46b7-8570-6a2b7b806cfb",
+      "verification": "creating"
     }
   ]
 }
