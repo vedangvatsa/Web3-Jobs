@@ -749,6 +749,9 @@
   "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
   "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
   "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+  "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+  "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2030,6 +2033,12 @@
   "India becomes the latest country to report rogue AI agent activity",
   "Elorian debuts Glimpse AI model for visual reasoning",
   "Elorian’s first AI model wants to reason with images, not just about them",
+  "Meta releases Muse Spark Open model for Apple hardware",
+  "Meta launches an open-weight AI model that runs on Macs",
+  "Replit terminates AI partnership with Anthropic",
+  "Replit is no longer working with Anthropic, CEO says",
+  "OpenAI Models Used to Access Crypto Wallets and Websites",
+  "OpenAI models hacked a crypto wallet and breached more websites",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2296,5 +2305,8 @@
   "fp:barnaba|collaboration|communicat|contact|despit|distant|historically|increas|infrastructur|limit",
   "fp:allow|avoid|bypass|claim|commercial|content|expert|fee|generat|legal",
   "fp:access|activity|agent|allow|becom|breach|cloud|country|credential|expos",
-  "fp:analysis|astra|caption|debut|elorian|form|glimps|gpt6|imag|not"
+  "fp:analysis|astra|caption|debut|elorian|form|glimps|gpt6|imag|not",
+  "fp:appl|capability|desktop|hardwar|locally|mac|meta|mus|open|processor",
+  "fp:agreement|anthropic|ceo|collaboration|cost|developer|due|end|establish|longer",
+  "fp:access|action|breach|committ|demonstrat|hack|illegal|mor|openai|perform"
 ]
