@@ -2608,7 +2608,7 @@
     "sentAt": "2026-10-16T19:35:37.018Z"
   },
   "63de18b9-18e6-49ec-b999-27a39d661a9d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T03:54:50.348Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2678,6 +2678,8 @@
       }
     ],
     "message": "- Merkle Science is hiring <a href=\"https://hashtagweb3.com/fe18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Intern (Frontend)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops107?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Monetization Operations Analyst</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sls110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Representative, Trump Accounts</a>",
-    "slotKey": "2026-10-17:morning"
+    "slotKey": "2026-10-17:morning",
+    "messageId": 155804,
+    "sentAt": "2026-10-17T03:55:13.612Z"
   }
 }
