@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-17T14:20:22.915Z",
+  "generatedAt": "2026-10-17T19:31:36.446Z",
   "items": [
+    {
+      "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
+      "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+      "pubDate": "Sat, 17 Oct 2026 18:14:43 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
+      "source": "The Block"
+    },
+    {
+      "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+      "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+      "pubDate": "Sat, 17 Oct 2026 17:01:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "pubDate": "Sat, 17 Oct 2026 16:01:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts p...",
+      "source": "Decrypt"
+    },
     {
       "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
       "link": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
@@ -88,14 +112,6 @@
       "creator": "Agent",
       "contentSnippet": "The index provider will classify “non-operating companies” as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a sin...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 17:30:09 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown’s return to the Senate.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds ",
@@ -546,22 +562,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
-      "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-      "pubDate": "Thu, 15 Oct 2026 11:10:07 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "The EBA classified Circle’s USDC as the EU’s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
-      "source": "The Block"
-    },
-    {
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
-      "pubDate": "Thu, 15 Oct 2026 10:00:56 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
-      "source": "Coindesk"
-    },
-    {
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
       "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
       "pubDate": "Wed, 14 Oct 2026 20:16:05 +0000",
@@ -575,22 +575,6 @@
       "pubDate": "Wed, 14 Oct 2026 19:16:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-      "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-      "pubDate": "Wed, 14 Oct 2026 16:15:19 +0000",
-      "creator": "Staff",
-      "contentSnippet": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” layi...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-      "link": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-      "pubDate": "Wed, 14 Oct 2026 14:03:20 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Beşiktaş.",
       "source": "Decrypt"
     }
   ]
