@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import type { Job } from '../src/types';
 import { EXPANSION_SOURCES, verifyExpansionSource, expansionCandidates, verifyExpansionJob, rememberExpansionDate } from './lib/web3-expansion-feeds';
 import { countryGet, pageEvidence } from './lib/country-source-http';
-import { getJobIdentity,getJobContentKey,assignJobSlugsAndSyncLegacyArchive } from '../src/lib/job-slugs';
+import { getCompanySlug,getJobIdentity,getJobContentKey,assignJobSlugsAndSyncLegacyArchive } from '../src/lib/job-slugs';
 import { preserveOriginalJobDate } from '../src/lib/job-source-date';
 import { jobAgeExclusionReason } from '../src/lib/job-age-policy.mjs';
 import { isConcreteJobOpening } from '../src/lib/job-filters';
@@ -15,8 +15,12 @@ import { loadReservedRootSlugsSync,loadPublishedRootSlugsSync } from '../src/lib
 async function main(){
   const dryRun=process.argv.includes('--dry-run'),before=JSON.parse(fs.readFileSync('content/jobs-cache.json','utf8')) as Job[];
   const history=readJobDateHistory(),store=readJobDescriptionStore(),archive=loadJobLegacyArchive();
+  const originalHistory=JSON.stringify(history);
+  const company=process.argv.find(arg=>arg.startsWith('--company='))?.slice('--company='.length);
+  const sources=company===undefined?EXPANSION_SOURCES:EXPANSION_SOURCES.filter(source=>source.company.toLowerCase()===company.toLowerCase());
+  if(!sources.length)throw new Error(`Unknown expansion company: ${company}`);
   const current=new Map(before.map(j=>[getJobIdentity(j),j])),added:Job[]=[],reports:object[]=[];let failures=0;
-  for(const s of EXPANSION_SOURCES){
+  for(const s of sources){
     const roles:object[]=[];
     try{
       const verification=await verifyExpansionSource(s);
@@ -43,14 +47,15 @@ async function main(){
     console.log(`${s.company}: checked`);
   }
   const result=[...current.values()];
-  if(!dryRun)writeJobDateHistory(history);
+  if(!dryRun&&JSON.stringify(history)!==originalHistory)writeJobDateHistory(history);
   if(added.length){
     assignJobSlugsAndSyncLegacyArchive(result,archive,loadReservedRootSlugsSync(),loadPublishedRootSlugsSync());
     for(const old of before)assert.deepEqual(current.get(getJobIdentity(old)),old);
     if(!dryRun){writeJobLegacyArchive(archive);fs.writeFileSync('content/jobs-cache.json',JSON.stringify(result,null,2)+'\n');writeJobDescriptionStore({descriptions:store.descriptions,aliases:{...store.aliases,...buildJobDescriptionAliases(result,store.descriptions)}});}
   }
   const report={checkedAt:new Date().toISOString(),dryRun,before:before.length,after:result.length,added:added.map(j=>({id:j.id,title:j.title,company:j.company,link:j.link,date:j.date,slug:j.slug})),removed:[],expiryRemovals:[],failures,reports};
-  fs.writeFileSync(`content/sources/hiring-links-636-import${dryRun?'-dry-run':''}.json`,JSON.stringify(report,null,2)+'\n');
+  const reportName=company===undefined?'hiring-links-636-import':`expansion-import-${getCompanySlug(sources[0].company)}`;
+  fs.writeFileSync(`content/sources/${reportName}${dryRun?'-dry-run':''}.json`,JSON.stringify(report,null,2)+'\n');
   console.log(JSON.stringify(report,null,2));if(failures)process.exitCode=1;
 }
 main().catch(e=>{console.error(e);process.exitCode=1;});

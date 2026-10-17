@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>30 knowledge threads | Hashtag Web3 image review</title>
+  <style>
+    @font-face{font-family:Brand;src:url('./assets/inter.woff2') format('woff2');font-weight:100 900;font-display:swap}
+    *{box-sizing:border-box}body{margin:0;background:#f5f4ef;color:#171719;font-family:Brand,Inter,Arial,sans-serif}header,main{max-width:1500px;margin:auto;padding:24px}header{border-bottom:1px solid #b6b8ae}h1{font-size:clamp(30px,4vw,54px);line-height:1.1;letter-spacing:-1.8px;margin:24px 0 16px;font-weight:650}header img{width:145px;height:auto}p{line-height:1.5}nav{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0}a{color:#176349}nav a,.master{display:inline-flex;min-height:44px;align-items:center;padding:8px 12px;border:1px solid #b6b8ae;text-decoration:none;border-radius:3px}a:focus-visible{outline:3px solid #176349;outline-offset:4px}section{padding:24px 0 36px;border-bottom:1px solid #b6b8ae;scroll-margin-top:20px}h2{font-size:clamp(24px,2.4vw,36px);letter-spacing:-.8px;line-height:1.2}h2 span{color:#176349} .grid{display:grid;grid-template-columns:1fr;gap:28px}figure{margin:0;min-width:0}figure>a{display:block}figure img{display:block;width:100%;height:auto;aspect-ratio:4/5;background:#deded8}figcaption{padding:12px 0;line-height:1.5;font-size:14px}.master{font-size:14px}.alt{color:#44473f;font-size:14px}details{margin-top:8px}summary{cursor:pointer;min-height:44px;padding:12px 0}#status{padding:16px 0}.mobile-mode .grid{grid-template-columns:repeat(auto-fit,minmax(0,390px));justify-content:start}.mode{min-height:44px;padding:10px 14px;font:inherit;background:#171719;color:white;border:0;border-radius:3px;cursor:pointer}.mode:focus-visible{outline:3px solid #176349;outline-offset:3px}@media(min-width:760px){.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}header,main{padding:32px}}@media(min-width:1220px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:420px){header,main{padding:16px}nav{gap:6px}}
+  </style>
+</head>
+<body>
+  <header><img src="./assets/wordmark.png" alt="Hashtag Web3"><h1>30 knowledge threads.<br>180 finished images.</h1><p>Six images per thread. Open any image for the 1200 × 1500 JPEG master. The reading order follows the manuscript sequence.</p><button class="mode" type="button" aria-pressed="false">Show 390 px mobile previews</button><nav aria-label="Thread navigation" id="nav"></nav><p id="status" role="status">Loading the image manifest...</p></header>
+  <main id="gallery"></main>
+  <script type="module">
+    const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const mode=document.querySelector('.mode');
+    mode.addEventListener('click',()=>{const active=document.body.classList.toggle('mobile-mode');mode.setAttribute('aria-pressed',String(active));mode.textContent=active?'Show responsive gallery':'Show 390 px mobile previews';});
+    try{
+      const response=await fetch('./image-manifest.json');if(!response.ok)throw new Error('Manifest unavailable');
+      const data=await response.json();
+      if(!data.images.length){document.querySelector('#status').textContent='No rendered images are listed yet.';}else{
+        const groups=Map.groupBy(data.images,i=>i.threadId);
+        document.querySelector('#nav').innerHTML=[...groups.keys()].map(id=>`<a href="#${id}">${id}</a>`).join('');
+        document.querySelector('#gallery').innerHTML=[...groups].map(([id,images])=>`<section id="${id}"><h2><span>${id}</span> ${esc(images[0].threadTitle)}</h2><p><a class="master" href="./contact-sheets/${id}.jpg">Open six-image contact sheet</a></p><div class="grid">${images.map(i=>`<figure><a href="./${esc(i.path)}" aria-label="Open ${id} image ${i.postNumber} full resolution"><img src="./${esc(i.path)}" width="1200" height="1500" alt="${esc(i.alt)}" loading="lazy"></a><figcaption>${id}-${String(i.postNumber).padStart(2,'0')} · ${Math.round(i.bytes/1024)} KB<details><summary>Read image description</summary><p class="alt">${esc(i.alt)}</p></details></figcaption></figure>`).join('')}</div></section>`).join('');
+        document.querySelector('#status').textContent=`${data.images.length} JPEG masters · ${data.threadCount} threads · ${ (data.totalBytes/1048576).toFixed(2)} MiB`;
+      }
+    }catch(error){document.querySelector('#status').textContent='The image manifest could not load. Serve this folder over local HTTP and reload.';console.error(error);}
+  </script>
+</body>
+</html>

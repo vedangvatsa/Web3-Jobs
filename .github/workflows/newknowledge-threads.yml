@@ -1,0 +1,109 @@
+name: Knowledge image threads
+
+on:
+  workflow_call:
+    inputs:
+      date:
+        type: string
+        required: true
+      slot:
+        type: string
+        required: true
+      mode:
+        type: string
+        default: publish
+    secrets:
+      BUFFER_ACCESS_TOKEN:
+        required: true
+      THREADS_USER_ID:
+        required: true
+      THREADS_ACCESS_TOKEN:
+        required: true
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Preflight reads only; reconcile never sends provider mutations
+        type: choice
+        options: [preflight, reconcile, publish]
+        default: preflight
+      date:
+        description: Calendar date (2026-10-18 through 2026-11-16); publish still requires its live window
+        type: string
+        required: true
+        default: '2026-10-18'
+      platform:
+        type: choice
+        options: [both, x, threads]
+        default: both
+      post_id:
+        description: Optional verified provider post ID for manual reconciliation
+        type: string
+      post_number:
+        description: Post number for Threads reconciliation (1 through 6)
+        type: string
+        default: '1'
+
+concurrency:
+  group: knowledge-threads-month
+  cancel-in-progress: false
+
+jobs:
+  knowledge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    env:
+      KNOWLEDGE_DATE: ${{ inputs.date }}
+      KNOWLEDGE_SLOT: ${{ inputs.slot || 'afternoon' }}
+      KNOWLEDGE_WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
+      KNOWLEDGE_ONLY_NEWS: ${{ github.event.inputs.only_news }}
+      KNOWLEDGE_NEWS_DRY_RUN: ${{ github.event.inputs.news_dry_run }}
+      KNOWLEDGE_DRY_RUN: ${{ github.event.inputs.dry_run }}
+      KNOWLEDGE_DIAGNOSE_TELEGRAM: ${{ github.event.inputs.diagnose_telegram }}
+      KNOWLEDGE_DIAGNOSE_CONTENT: ${{ github.event.inputs.diagnose_content }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Select the current date window
+        id: plan
+        run: node scripts/social/newknowledge-plan.mjs
+      - name: Test date, receipt and provider safeguards offline
+        run: node --test scripts/social/platform-links.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-state.test.mjs scripts/social/newknowledge-publisher.test.mjs scripts/social/newknowledge-workflow.test.mjs
+      - name: Install image validation dependencies
+        if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
+        run: npm ci --no-audit --no-fund
+      - name: Pin checked-out asset commit
+        if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
+        run: echo "KNOWLEDGE_ASSET_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Test pinned image verification offline
+        if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
+        run: node --test scripts/social/newknowledge-images.test.mjs scripts/social/newknowledge-workflow-yaml.test.mjs
+      - name: Publish or inspect today's knowledge thread
+        if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          MODE: ${{ inputs.mode }}
+          PLATFORM: ${{ inputs.platform || 'both' }}
+          POST_ID: ${{ inputs.post_id }}
+          POST_NUMBER: ${{ inputs.post_number || '1' }}
+        run: |
+          args=(--mode="$MODE" --platform="$PLATFORM")
+          if [ -n "$POST_ID" ]; then args+=(--post-id="$POST_ID" --post-number="$POST_NUMBER"); fi
+          node scripts/social/newknowledge.mjs "${args[@]}"
+      - name: Preserve knowledge claims and provider receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: knowledge-receipts-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .cache/newknowledge/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90

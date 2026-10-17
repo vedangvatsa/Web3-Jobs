@@ -13,6 +13,7 @@
 
 import * as fs from 'fs';
 import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
+import { renderOwnSiteLinks } from './platform-links.mjs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
@@ -547,9 +548,7 @@ async function postToThreads(text: string, imagePath: string, remoteImageUrl?: s
     imageUrl = `${process.env.SOCIAL_IMAGE_BASE_URL}/${path.basename(imagePath)}`;
   }
 
-  // Customize text specifically for Threads: use hashtagweb3.com/th for attribution
-  const threadsText = text.replace(/https?:\/\/hashtagweb3\.com(?!\/th\b)/gi, 'https://hashtagweb3.com/th')
-                          .replace(/hashtagweb3\.com(?!\/th\b)/gi, 'hashtagweb3.com/th');
+  const threadsText = renderOwnSiteLinks(text, 'threads');
 
   const urlParams = new URLSearchParams();
   urlParams.append('access_token', accessToken);
@@ -869,10 +868,7 @@ async function main() {
    candidateText = candidate.linkedin?.text || candidate.title;
  }
 
- if (platform === 'linkedin') {
-   candidateText = candidateText.replace(/hashtagweb3\.com\/th/g, 'hashtagweb3.com/li')
-                                .replace(/hashtagweb3\.com(?!\/)/g, 'hashtagweb3.com/li');
- }
+  candidateText = renderOwnSiteLinks(candidateText, platform);
  
  console.log(`🔍 Pre-flight check for ${candidate.id} on ${platform}...`);
  const alreadyPosted = await checkIfAlreadyPostedOnPlatform(platform, candidateText);

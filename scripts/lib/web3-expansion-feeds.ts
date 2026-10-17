@@ -9,8 +9,8 @@ import { assertAtsSourceAllowed } from '../../src/lib/job-source-policy';
 import { candidates, hasForm, postings, verifyPrimary, verifyApplication, type FeedSource } from './country-local-feeds';
 import { links, sameUrl } from './country-local-sources';
 import { countryGet, pageEvidence, type CountryPage } from './country-source-http';
-import { validateAshbyOrganization } from './ashby-employer-verification';
-export type ExpansionSource=FeedSource & {website:string;country:null;geography:null;apiUrl:string|null;officialCareersUrl:string;status:string;ownership:{linkedUrl:string;finalUrl:string};web3:{quote:string}};
+import { assertReviewedAshbyEmployer, validateAshbyOrganization } from './ashby-employer-verification';
+export type ExpansionSource=FeedSource & {website:string;country:null;geography:null;apiUrl:string|null;officialCareersUrl:string;status:string;ownership:{linkedUrl:string;finalUrl:string;kind?:string};web3:{quote:string}};
 export const EXPANSION_SOURCES=records as ExpansionSource[];
 export function rememberExpansionDate(job:Job,history:JobDateHistory,now=Date.now()) {
   if(!job.dateVerified||!normalizeSourcePostingDate(job.date)||jobAgeExclusionReason(job,now)==='future-date')return {...job,dateVerified:false};
@@ -20,15 +20,23 @@ const clean=(s:string)=>load(s).text().normalize('NFKC').toLowerCase().replace(/
 export function matchesBoard(url:string,s:FeedSource){const b=getAtsBoardFromUrl(url);return !!b&&atsBoardKey(b.provider,b.board)===atsBoardKey(s.provider,s.board);}
 export async function verifyExpansionSource(s:ExpansionSource,read=countryGet){
   assertAtsSourceAllowed(s.provider,s.board);
+  const reviewedOrganization=s.ownership.kind==='reviewed-ashby-organization';
+  if(reviewedOrganization&&(s.provider!=='ashby'||!sameUrl(s.officialCareersUrl,s.website)||!sameUrl(s.ownership.linkedUrl,s.boardUrl)))throw new Error('Invalid reviewed Ashby ownership mapping');
   const official=await read(s.officialCareersUrl);
-  if(official.status!==200||!sameUrl(official.finalUrl,s.ownership.finalUrl)||/just a moment|access denied|captcha/i.test(load(official.body)('title').text())||!links(official).includes(s.ownership.linkedUrl))throw new Error('Official outbound missing or unavailable');
+  if(official.status!==200||!sameUrl(official.finalUrl,s.ownership.finalUrl)||/just a moment|access denied|captcha/i.test(load(official.body)('title').text())||!reviewedOrganization&&!links(official).includes(s.ownership.linkedUrl))throw new Error('Official outbound missing or unavailable');
+  if(reviewedOrganization&&(!sameUrl(official.finalUrl,s.website)||!s.web3.quote||!official.body.includes(s.web3.quote)))throw new Error('Reviewed official company evidence changed');
   if(s.status==='recurring'&&!matchesBoard(s.ownership.linkedUrl,s))throw new Error('Official outbound targets another board');
   const board=await read(s.boardUrl);
   if(board.status!==200||!sameUrl(board.finalUrl,s.boardUrl)||/just a moment|access denied|page not found|404/i.test(load(board.body)('title').text()))throw new Error('Board unavailable or moved');
   if(s.provider==='ashby'){
     const match=board.body.match(/window\.__appData\s*=\s*(\{[^\n\r]*\});/);
     if(!match)throw new Error('Missing Ashby organization identity');
-    validateAshbyOrganization(s.board,s.company,JSON.parse(match[1]).organization||{});
+    const organization=JSON.parse(match[1]).organization||{};
+    validateAshbyOrganization(s.board,s.company,organization);
+    if(reviewedOrganization){
+      const identity=assertReviewedAshbyEmployer(s.board,s.company);
+      if(!identity.website||!sameUrl(identity.website,s.website)||!sameUrl(organization.publicWebsite||'https://invalid.example',s.website)||organization.name!==identity.owner||organization.hostedJobsPageSlug!==s.board||organization.isDemoOrg!==false)throw new Error('Reviewed Ashby company identity changed');
+    }
   }
   return {official:pageEvidence(official),board:pageEvidence(board),page:board};
 }

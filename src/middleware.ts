@@ -1,7 +1,9 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import {
+  canonicalSocialPagePath,
   isLinkPreviewCrawlerRequest,
+  isResourcePath,
   linkPreviewPreviewPath,
   SOCIAL_UTM_MAP,
   stripSocialPathSuffix,
@@ -111,10 +113,6 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
   return response;
 }
 
-function isResourcePath(pathname: string): boolean {
-  return pathname.includes('.') || /^\/(?:api|_next|data|job-catalog|job-shards|job-description-shards|articles-data|preview|og|images|logo|fonts)(?:\/|$)/i.test(pathname);
-}
-
 export function missingPageResponse(request: NextRequest, status: 404 | 410 = 404, cacheControl = 'no-store'): NextResponse {
   const path = normalizeJobAgePath(request.nextUrl.pathname);
   const safeMethod = request.method === 'GET' || request.method === 'HEAD';
@@ -140,12 +138,17 @@ export function missingPageResponse(request: NextRequest, status: 404 | 410 = 40
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const agePathname = normalizeJobAgePath(pathname);
+  const socialBasePath = stripSocialPathSuffix(agePathname);
+  const socialPagePath = canonicalSocialPagePath(socialBasePath);
+  const hasSocialAlias = socialPagePath.toLowerCase() !== socialBasePath.toLowerCase();
   if ((agePathname === JOB_LISTING_CACHE_PREFIX || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)) && !validJobListingCachePath(pathname)) {
     return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
   }
-  const eventStatus = removedEventStatus(stripSocialPathSuffix(agePathname), eventTombstones);
+  const eventStatus = removedEventStatus(socialBasePath, eventTombstones)
+    || (hasSocialAlias && removedEventStatus(socialPagePath, eventTombstones));
   if (eventStatus) return missingPageResponse(request, eventStatus);
-  if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)) {
+  if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)
+    || (hasSocialAlias && (isRemovedJobPath(socialPagePath) || isExpiredJobPath(socialPagePath)))) {
     return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
   }
   if (isRetiredOrProbePath(agePathname)) return missingPageResponse(request);
@@ -157,7 +160,7 @@ export async function middleware(request: NextRequest) {
   if (request.method !== 'GET' && request.method !== 'HEAD' && !/^\/api(?:\/|$)/.test(agePathname)) {
     return missingPageResponse(request);
   }
-  if (isMissingRootPagePath(pathname)) return missingPageResponse(request);
+  if (isMissingRootPagePath(hasSocialAlias ? socialPagePath : pathname)) return missingPageResponse(request);
   if (pathname.includes('%') && agePathname !== pathname && (
     isKnownJobPath(agePathname) || jobAgePageCache(agePathname) || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
     || /^\/(?:data\/(?:jobs-runtime|companies-runtime|catalog-freshness)\.json|job-(?:description-)?shards\/|(?:\.well-known\/)?sitemap\.(?:xml|json))/.test(agePathname)
@@ -178,7 +181,7 @@ export async function middleware(request: NextRequest) {
     url.pathname = recoveredDestination;
     return NextResponse.redirect(url, 308);
   }
-  const normalizedLearnPath = pathname.replace(/\/+$/, '');
+  const normalizedLearnPath = pathname.replace(/\/+$/, '').toLowerCase();
   const exactLearnDestination = getLearnRedirectPath(normalizedLearnPath);
   const learnBasePath = exactLearnDestination ? normalizedLearnPath : stripSocialPathSuffix(normalizedLearnPath);
   const learnDestination = exactLearnDestination || getLearnRedirectPath(learnBasePath);
@@ -187,7 +190,7 @@ export async function middleware(request: NextRequest) {
     url.pathname = learnDestination + normalizedLearnPath.slice(learnBasePath.length);
     return NextResponse.redirect(url, 308);
   }
-  if (normalizedLearnPath.startsWith('/learn/') && !normalizedLearnPath.includes('.')) {
+  if (learnBasePath.startsWith('/learn/') && !learnBasePath.includes('.')) {
     return missingPageResponse(request);
   }
   const searchParams = request.nextUrl.searchParams;
@@ -211,13 +214,13 @@ export async function middleware(request: NextRequest) {
     pathname.startsWith('/job-description-shards/') ||
     pathname.startsWith('/logo/') ||
     pathname.startsWith('/images/') ||
-    pathname.startsWith('/events/') ||
+    (pathname.startsWith('/events/') && isResourcePath(pathname)) ||
     pathname === '/favicon-preview.html'
   ) {
     return NextResponse.next();
   }
 
-  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
+  if (!isResourcePath(agePathname)) {
     const ua = request.headers.get('user-agent') || '';
     const previewPath = linkPreviewPreviewPath(pathname, ua, isLinkPreviewCrawlerRequest(request));
     if (previewPath) {
@@ -229,7 +232,7 @@ export async function middleware(request: NextRequest) {
   }
 
   // Only apply rate limiting to /api/ routes
-  if (pathname.startsWith('/api')) {
+  if (/^\/api(?:\/|$)/.test(pathname)) {
     const { limit, remaining, reset, isRateLimited } = getRateLimitInfo(request);
 
     if (isRateLimited) {
@@ -266,10 +269,7 @@ export async function middleware(request: NextRequest) {
     }
   }
 
-  // 1. Social UTM suffix shortcuts
-  // Strip recognised social-suffix path segments and replace with UTM params.
-  // Only runs for non-API, non-static paths.
-  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.endsWith('.xml') && !/\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$/i.test(pathname)) {
+  if (!isResourcePath(agePathname)) {
     const normalised = pathname.replace(/\/+$/, '');
     const lastSlashIdx = normalised.lastIndexOf('/');
 
@@ -278,7 +278,7 @@ export async function middleware(request: NextRequest) {
 
       if (segment && Object.hasOwn(SOCIAL_UTM_MAP, segment)) {
         const config = SOCIAL_UTM_MAP[segment];
-        const basePath = normalised.slice(0, lastSlashIdx) || '/';
+        const basePath = normalised.slice(0, lastSlashIdx).toLowerCase() || '/';
 
         const url = request.nextUrl.clone();
         url.pathname = basePath;
@@ -288,23 +288,6 @@ export async function middleware(request: NextRequest) {
           url.searchParams.set('utm_campaign', 'share');
         }
 
-        // Serve link preview bots a 200 with OG tags directly: LinkedIn and Meta
-        // do not reliably follow 307 redirects when scraping previews.
-        //
-        // Firebase App Hosting's dataplane does not reliably forward the client
-        // User-Agent to middleware on GET requests, so UA matching alone can miss
-        // bots in production. Every modern browser sets the Sec-Fetch-* headers on
-        // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
-        // Treat "bot UA OR no browser navigation signals" as a crawler.
-        if (isLinkPreviewCrawlerRequest(request)) {
-          const crawlerRewrite = request.nextUrl.clone();
-          crawlerRewrite.pathname =
-            basePath === '/' ? '/preview/index.html' : `/preview${basePath}.html`;
-          crawlerRewrite.search = '';
-          return NextResponse.rewrite(crawlerRewrite);
-        }
-
-        // For human visitors, redirect with absolute URL and UTM parameters
         const response = NextResponse.redirect(url, 307);
         response.headers.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains; preload');
         response.headers.set('X-Content-Type-Options', 'nosniff');

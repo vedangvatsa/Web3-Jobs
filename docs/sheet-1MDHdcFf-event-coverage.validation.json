@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2026-10-16T23:53:54.580Z",
+  "command": "node --import tsx docs/sheet-1MDHdcFf-event-coverage.mjs validate",
+  "passed": true,
+  "checks": [
+    {
+      "name": "Every exported event occurrence and every non-event row is accounted for",
+      "passed": true
+    },
+    {
+      "name": "Deduplication preserves 78 repeated/variant occurrences and all five variants",
+      "passed": true
+    },
+    {
+      "name": "Presence, held, ended and missing counts are independent and internally consistent",
+      "passed": true
+    },
+    {
+      "name": "All four missing public events have fresh exact primary IDs; no similar-title substitution",
+      "passed": true
+    },
+    {
+      "name": "Standalone and embedded identities are separately proven, including renamed and rescheduled events",
+      "passed": true
+    },
+    {
+      "name": "Private primary projections omit program, dates, venue and hidden location data",
+      "passed": true
+    },
+    {
+      "name": "Source/runtime/history/override/tombstone evidence pointers resolve with exact record hashes",
+      "passed": true
+    },
+    {
+      "name": "Previous review actually contains 83 rows/77 identities; overlap is recomputed",
+      "passed": true
+    },
+    {
+      "name": "Public captures are bounded and all reused public body hashes validate",
+      "passed": true
+    },
+    {
+      "name": "Deployed catalogue independently contains all 62 represented groups and both embedded programs",
+      "passed": true
+    },
+    {
+      "name": "CSV exactly represents all 152 JSON event-row dispositions",
+      "passed": true
+    },
+    {
+      "name": "All 56 pre-existing event and input files, including protected reviews, remain byte-identical",
+      "passed": true
+    }
+  ],
+  "primaryProjections": 73,
+  "freshPublicEventCaptures": 9,
+  "protectedInputs": 56,
+  "artifacts": [
+    {
+      "file": "content/sources/sheet-1MDHdcFf-event-coverage.json",
+      "sha256": "16bc2e14b82dadfa85aa1ff83dd3bfb9881e6373598bb86a60f42e3843801beb",
+      "bytes": 1315535
+    },
+    {
+      "file": "content/sources/sheet-1MDHdcFf-event-coverage.csv",
+      "sha256": "977b15831b205c2db755b6f6763f3d2d19370eef506d262f3eacf4cb1bd456bc",
+      "bytes": 90840
+    },
+    {
+      "file": "docs/sheet-1MDHdcFf-event-coverage.md",
+      "sha256": "8b6f3e008a216d65121b2ee5c2e17bd5495a66436bac305bf4946c743f31fb35",
+      "bytes": 23360
+    },
+    {
+      "file": "docs/sheet-1MDHdcFf-event-coverage.primary.json",
+      "sha256": "2ae93e718423c7235a55fe6d745d9bebeb5fad3622996d0e8c78a282a44e1c44",
+      "bytes": 360260
+    },
+    {
+      "file": "docs/sheet-1MDHdcFf-event-coverage.decisions.json",
+      "sha256": "fbb02eb147134eb50a9daee6d0828c967fe773b425a7efe6cfa4233850e80739",
+      "bytes": 11069
+    },
+    {
+      "file": "docs/sheet-1MDHdcFf-event-coverage.baseline.json",
+      "sha256": "ec8394c3b9bb78a078ab58e9cc3ba49277017123a6cc127e74bb1e23dbceb7fb",
+      "bytes": 8831
+    },
+    {
+      "file": "docs/sheet-1MDHdcFf-event-coverage.mjs",
+      "sha256": "869444b65a393f715b0b7cc3b657e482d2e4147de88ead30d24bc94a8690d4b4",
+      "bytes": 57271
+    }
+  ]
+}

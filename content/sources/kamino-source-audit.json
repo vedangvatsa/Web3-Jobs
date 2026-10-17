@@ -1,0 +1,289 @@
+{
+  "checkedAt": "2026-10-16T22:59:09.245Z",
+  "company": "Kamino",
+  "website": {
+    "url": "https://kamino.com",
+    "finalUrl": "https://kamino.com",
+    "status": 200,
+    "checkedAt": "2026-10-16T22:59:04.163Z",
+    "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df"
+  },
+  "description": "Kamino is an open source credit and liquidity protocol built on Solana. The protocol enables institutions and retail users to generate returns on their assets and borrow against their crypto collateral, all via transparent and secure onchain markets.",
+  "board": {
+    "url": "https://jobs.ashbyhq.com/kamino",
+    "finalUrl": "https://jobs.ashbyhq.com/kamino",
+    "status": 200,
+    "checkedAt": "2026-10-16T22:59:05.206Z",
+    "bodySha256": "d521524eafdf04eaf36d75fb0eed5704b0647152aba1062716dfa7f26a5e7e95"
+  },
+  "organization": {
+    "organizationId": "04a17be0-2c28-41ad-b45b-4bf703b8d84b",
+    "name": "Kamino",
+    "publicWebsite": "https://kamino.com",
+    "hostedJobsPageSlug": "kamino",
+    "isDemoOrg": false
+  },
+  "api": {
+    "url": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
+    "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
+    "status": 200,
+    "checkedAt": "2026-10-16T22:59:05.278Z",
+    "bodySha256": "af1d8f18b39e0a8ddeb4527c2dd0466d0ed9748486c31adfbed7255ba9854b78"
+  },
+  "ownershipBasis": "User-supplied board and website; pinned public Ashby organization ID, name, hosted slug and publicWebsite. No official-site outbound careers link observed.",
+  "officialSiteBoardLinkObserved": false,
+  "socials": [
+    {
+      "key": "twitter",
+      "url": "https://x.com/kamino",
+      "source": {
+        "url": "https://kamino.com/docs",
+        "finalUrl": "https://kamino.com/docs",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:05.140Z",
+        "bodySha256": "d0b87d476adceb66a06a57aea5ceba570938ba6434cfa29d1775388072fb904b"
+      }
+    }
+  ],
+  "branding": {
+    "url": "https://kamino.com/apple-touch-icon.png",
+    "sourceUrl": "https://kamino.com",
+    "kind": "apple-touch-icon",
+    "finalUrl": "https://kamino.com/apple-touch-icon.png",
+    "checkedAt": "2026-10-16T22:59:09.245Z",
+    "bodySha256": "b4b67efcbad4b2f0af9f5f1c5f97621816b71573953548a1cf939d7a3e32913c",
+    "localPath": "/logo/companies/kamino.png",
+    "localSha256": "b4b67efcbad4b2f0af9f5f1c5f97621816b71573953548a1cf939d7a3e32913c",
+    "width": 180,
+    "height": 180
+  },
+  "datePolicy": {
+    "maxAgeDays": 30,
+    "inclusive": true,
+    "documentation": "https://developers.ashbyhq.com/docs/public-job-posting-api",
+    "publishedAtMeaning": "ISO DateTime when the job was last published",
+    "decision": "Matching primary datePosted and last-published calendar dates do not independently establish original publication. Keep the existing Ashby quarantine; do not write posting dates or date history."
+  },
+  "apiJobCount": 10,
+  "primaryPagesChecked": 10,
+  "acceptedCount": 0,
+  "roles": [
+    {
+      "id": "b39e05bf-cea4-478a-8db8-8f70db5aa0a1",
+      "title": "Executive Assistant to the CEO",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/b39e05bf-cea4-478a-8db8-8f70db5aa0a1",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/b39e05bf-cea4-478a-8db8-8f70db5aa0a1/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-10T15:58:15.451+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/b39e05bf-cea4-478a-8db8-8f70db5aa0a1",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/b39e05bf-cea4-478a-8db8-8f70db5aa0a1",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:05.636Z",
+        "bodySha256": "43a4ec5f3cc21a649c465729611e94b8dcc3e3e6e8d8db043f6f0b39bdf5ab62"
+      },
+      "primaryDatePosted": "2026-10-10",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "b04fc70b-0735-4958-acdf-8ec7f9435895",
+      "title": "General Counsel",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/b04fc70b-0735-4958-acdf-8ec7f9435895",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/b04fc70b-0735-4958-acdf-8ec7f9435895/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-12T21:02:49.054+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/b04fc70b-0735-4958-acdf-8ec7f9435895",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/b04fc70b-0735-4958-acdf-8ec7f9435895",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:06.011Z",
+        "bodySha256": "887739f8810052fcc4c2727d3306c17e4eb67e2cd51a0fd074d143229d6e2636"
+      },
+      "primaryDatePosted": "2026-10-12",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "d317234a-6f79-46dd-ae87-0c9e4e89aae0",
+      "title": "Head of Business Development",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/d317234a-6f79-46dd-ae87-0c9e4e89aae0",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/d317234a-6f79-46dd-ae87-0c9e4e89aae0/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-11T14:01:03.091+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/d317234a-6f79-46dd-ae87-0c9e4e89aae0",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/d317234a-6f79-46dd-ae87-0c9e4e89aae0",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:06.378Z",
+        "bodySha256": "978860833ea536f8f33fdab6ceb3a22f30da6293f35836b3b83157b92ff99202"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "2f125d53-ddda-4cb6-8b6c-800b480be287",
+      "title": "Smart Contract Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/2f125d53-ddda-4cb6-8b6c-800b480be287",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/2f125d53-ddda-4cb6-8b6c-800b480be287/application",
+      "location": "Remote",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:56:50.378+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/2f125d53-ddda-4cb6-8b6c-800b480be287",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/2f125d53-ddda-4cb6-8b6c-800b480be287",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:06.748Z",
+        "bodySha256": "96a33edc934962b9bbac6e5477ea1a5bb065ebac3cea620af5b4a86e5d604d69"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "4013c730-d5a6-40a7-99f1-da2fe8338bb9",
+      "title": "Senior Frontend Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/4013c730-d5a6-40a7-99f1-da2fe8338bb9",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/4013c730-d5a6-40a7-99f1-da2fe8338bb9/application",
+      "location": "Remote",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:57:40.891+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/4013c730-d5a6-40a7-99f1-da2fe8338bb9",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/4013c730-d5a6-40a7-99f1-da2fe8338bb9",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:07.196Z",
+        "bodySha256": "a0ce5b7edec31a02c0657664844356da4f9c19fef21e0610d0903e5663066ac5"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "78ee8e14-735c-4507-a857-6c471162d101",
+      "title": "DevOps Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/78ee8e14-735c-4507-a857-6c471162d101",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/78ee8e14-735c-4507-a857-6c471162d101/application",
+      "location": "Remote",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:57:55.344+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/78ee8e14-735c-4507-a857-6c471162d101",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/78ee8e14-735c-4507-a857-6c471162d101",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:07.564Z",
+        "bodySha256": "3f3a60fea96eb21173544f5e0a3b4dedd0b1330f2d8b3917b5ee8e995e2a9e5d"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "043a9b0c-e3e6-441b-a9b1-724b39e34737",
+      "title": "Backend Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/043a9b0c-e3e6-441b-a9b1-724b39e34737",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/043a9b0c-e3e6-441b-a9b1-724b39e34737/application",
+      "location": "Remote",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:58:49.862+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/043a9b0c-e3e6-441b-a9b1-724b39e34737",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/043a9b0c-e3e6-441b-a9b1-724b39e34737",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:07.941Z",
+        "bodySha256": "100ccfb19d5c5a3b6ca994e922c836898cb0eacc709b06744638b66404956720"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "e454653c-47d3-4fc6-bde6-98d1dd670283",
+      "title": "Director of Product Marketing",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/e454653c-47d3-4fc6-bde6-98d1dd670283",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/e454653c-47d3-4fc6-bde6-98d1dd670283/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:59:16.091+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/e454653c-47d3-4fc6-bde6-98d1dd670283",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/e454653c-47d3-4fc6-bde6-98d1dd670283",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:08.315Z",
+        "bodySha256": "34327383b16670e5f230012848b6069f3583721c26c446edfa838530934b74ef"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+      "title": "Senior Product Data Analyst",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-11T13:59:53.974+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:08.766Z",
+        "bodySha256": "207239484a20a5da261e672a74eaacf2e6af03535a5bf9999a44c0b4076f3927"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    },
+    {
+      "id": "ffe7cc32-a86c-486b-a30f-a0e7b27fd45a",
+      "title": "Staff Product Manager",
+      "jobUrl": "https://jobs.ashbyhq.com/kamino/ffe7cc32-a86c-486b-a30f-a0e7b27fd45a",
+      "applyUrl": "https://jobs.ashbyhq.com/kamino/ffe7cc32-a86c-486b-a30f-a0e7b27fd45a/application",
+      "location": "New York",
+      "isListed": true,
+      "publishedAt": "2026-10-11T14:00:08.840+00:00",
+      "primary": {
+        "url": "https://jobs.ashbyhq.com/kamino/ffe7cc32-a86c-486b-a30f-a0e7b27fd45a",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino/ffe7cc32-a86c-486b-a30f-a0e7b27fd45a",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:09.131Z",
+        "bodySha256": "aa58224298a93edb56aaf80ffe8cd26a0fb73d7743c54df646630903433b63a7"
+      },
+      "primaryDatePosted": "2026-10-11",
+      "primaryDateMatchesLastPublished": true,
+      "originalPostingDate": null,
+      "dateVerified": false,
+      "outcome": "quarantined-unverified-original-date"
+    }
+  ],
+  "preservationHashes": {
+    "content/jobs-cache.json": "c18cff807821ef91541ad72ddcfb4fbd8c3b6c96604647557a69b342d2cc6e56",
+    "content/jobs-runtime.json": "b9225907808a149e4e75dd7e71eb64eaa13394bd6a8d12412ee0e81b9d0c0065",
+    "content/job-date-history.json": "07ef194b6c8399f96fd076e2c2d01e12fbb4bcc74c85ea05115d3c9c7e1658fb",
+    "content/job-date-provenance.json": "8db670df8d63b333a2a73c08efb53bdbaf569c79ba4a8546fa55ea595544810e",
+    "content/legacy-slugs-archive.json": "1975f2094c04b9c191fa63f8a951204025001f1f3eec4c34cfad35c9e815d9d8"
+  }
+}

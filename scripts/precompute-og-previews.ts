@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { load } from 'cheerio';
 import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-assets';
+import { assertStaticPagePreviewCoverage } from './lib/og-preview-discovery';
 import { isRemediatedJobSlug } from '../src/lib/job-guides';
 import { legacyNomadDestination } from '../src/lib/nomads/metadata';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
@@ -14,6 +15,7 @@ import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
   previewAssetPath,
+  resolveKnownOgPreviewMeta,
   resolveOgPreviewMeta,
 } from '../src/lib/og-preview';
 
@@ -41,8 +43,11 @@ export async function precomputeOgPreviews({ root = process.cwd(), paths, fullRe
   const FULL_REBUILD = fullRebuild;
   fs.mkdirSync(OUT_ROOT, { recursive: true });
 
-  paths ??= await collectOgPreviewPaths();
-  const rootRedirects = new Map((await nextConfig.redirects())
+  if (!paths) {
+    paths = await collectOgPreviewPaths();
+    assertStaticPagePreviewCoverage(paths);
+  }
+  const rootRedirects = new Map(((await nextConfig.redirects?.()) || [])
     .filter(entry => entry.permanent && /^\/[a-z0-9-]+$/.test(entry.source) && /^\/[a-z0-9-]+$/.test(entry.destination))
     .filter(entry => fs.existsSync(path.join(root, 'content/articles', `${entry.destination.slice(1)}.md`)))
     .map(entry => [entry.source, entry.destination]));
@@ -54,7 +59,9 @@ export async function precomputeOgPreviews({ root = process.cwd(), paths, fullRe
   for (const contentPath of paths) {
     if (isExpiredJobPath(contentPath) || isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) continue;
     livePaths.add(contentPath);
-    const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath), root);
+    const resolved = await resolveKnownOgPreviewMeta(contentPath);
+    if (!resolved) throw new Error(`Missing OG preview metadata for ${contentPath}`);
+    const meta = await preparePreviewImage(resolved, root);
     const fingerprint = sha(JSON.stringify(meta));
     const asset = previewAssetPath(contentPath);
     const outFile = path.join(root, 'public', asset.replace(/^\//, ''));
@@ -101,8 +108,19 @@ export async function precomputeOgPreviews({ root = process.cwd(), paths, fullRe
       if (before !== html) { fs.writeFileSync(file, html); written++; }
       continue;
     }
+    const knownMeta = await resolveKnownOgPreviewMeta(contentPath);
+    if (knownMeta) {
+      const html = buildOgPreviewHtml(await preparePreviewImage(knownMeta, root));
+      if (before !== html) { fs.writeFileSync(file, html); written++; }
+      continue;
+    }
     const $ = load(before);
     const canonicalPath = new URL($('link[rel="canonical"]').attr('href') || contentPath, 'https://hashtagweb3.com').pathname;
+    if (isExpiredJobPath(canonicalPath) || isRemovedJobPath(canonicalPath) || removedEventStatus(canonicalPath, eventTombstones)) {
+      fs.unlinkSync(file);
+      delete manifest[contentPath];
+      continue;
+    }
     if (isRemediatedJobSlug(canonicalPath.replace(/^\/(?:jobs\/)?/, ''))) {
       const meta = await preparePreviewImage(await resolveOgPreviewMeta(`/${canonicalPath.split('/').filter(Boolean).pop()}`), root);
       const html = buildOgPreviewHtml(meta);

@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-16T23:07:32.525Z",
+  "node": "v24.21.0",
+  "isolation": "/var/folders/9v/95v6_ny50fq2t6wnlhc140dh0000gn/T/opencode/kamino-http-BWNTDV",
+  "mode": "Next development HTTP; real company generators in isolated copy; no production build",
+  "temporaryCopyRemovedAfterVerification": true,
+  "checks": [
+    {
+      "command": "npx tsx --test scripts/test-country-source-http.ts scripts/test-web3-expansion-feeds.ts scripts/test-job-age-policy.mjs",
+      "passed": 21,
+      "failed": 0,
+      "node": "v24.21.0"
+    },
+    {
+      "command": "npx tsx scripts/test-ats-source-ownership.ts --sources-only",
+      "configuredMappings": 427,
+      "cachedJobs": 1665,
+      "passed": true
+    },
+    {
+      "check": "Focused tsc --noEmit for the expansion importer, audit and source tests",
+      "passed": true,
+      "node": "v24.21.0"
+    },
+    {
+      "command": "npx tsx scripts/ingest-web3-expansion.ts --company=Kamino",
+      "apiJobCount": 10,
+      "quarantinedUnknownOriginalDate": 10,
+      "newJobs": 0,
+      "removedJobs": 0,
+      "failures": 0,
+      "report": "content/sources/expansion-import-kamino.json"
+    }
+  ],
+  "generators": [
+    "precompute-company-profiles.ts",
+    "precompute-companies-runtime.ts",
+    "generate-slug-types.ts"
+  ],
+  "http": {
+    "path": "/kamino",
+    "status": 200,
+    "heading": "Kamino",
+    "canonical": "https://hashtagweb3.com/kamino",
+    "website": "https://kamino.com/",
+    "jobCount": 0,
+    "emptyStateVerified": true,
+    "organizationSchemaVerified": true,
+    "logoStatus": 200,
+    "companyCatalogStatus": 200
+  },
+  "existingSourceRecordsPreserved": true,
+  "preservationHashes": {
+    "content/jobs-cache.json": "c18cff807821ef91541ad72ddcfb4fbd8c3b6c96604647557a69b342d2cc6e56",
+    "content/jobs-runtime.json": "b9225907808a149e4e75dd7e71eb64eaa13394bd6a8d12412ee0e81b9d0c0065",
+    "content/job-date-history.json": "07ef194b6c8399f96fd076e2c2d01e12fbb4bcc74c85ea05115d3c9c7e1658fb",
+    "content/job-date-provenance.json": "8db670df8d63b333a2a73c08efb53bdbaf569c79ba4a8546fa55ea595544810e",
+    "content/legacy-slugs-archive.json": "1975f2094c04b9c191fa63f8a951204025001f1f3eec4c34cfad35c9e815d9d8"
+  }
+}

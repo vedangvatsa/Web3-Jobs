@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-16T23:00:37.590Z",
+  "dryRun": false,
+  "before": 1665,
+  "after": 1665,
+  "added": [],
+  "removed": [],
+  "expiryRemovals": [],
+  "failures": 0,
+  "reports": [
+    {
+      "company": "Kamino",
+      "status": "checked-additive-feed",
+      "official": {
+        "url": "https://kamino.com",
+        "finalUrl": "https://kamino.com",
+        "status": 200,
+        "checkedAt": "2026-10-16T23:00:36.841Z",
+        "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df"
+      },
+      "board": {
+        "url": "https://jobs.ashbyhq.com/kamino",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino",
+        "status": 200,
+        "checkedAt": "2026-10-16T23:00:37.192Z",
+        "bodySha256": "b43b8a32b5951b1cf1f79e69086d5404c5bc88075e5a130b4d2640371e31bec7"
+      },
+      "api": {
+        "url": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
+        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
+        "status": 200,
+        "checkedAt": "2026-10-16T23:00:37.583Z",
+        "bodySha256": "af1d8f18b39e0a8ddeb4527c2dd0466d0ed9748486c31adfbed7255ba9854b78"
+      },
+      "apiJobCount": 10,
+      "quarantinedUnknownOriginalDate": 10,
+      "acceptedCount": 0,
+      "roles": []
+    }
+  ]
+}

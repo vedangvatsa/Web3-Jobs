@@ -1,4 +1,12 @@
 {
+  "ashby:kamino": {
+    "companies": [
+      "Kamino"
+    ],
+    "organizationId": "04a17be0-2c28-41ad-b45b-4bf703b8d84b",
+    "owner": "Kamino",
+    "website": "https://kamino.com"
+  },
   "ashby:0g": {
     "companies": [
       "0G Labs"

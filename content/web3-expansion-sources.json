@@ -1,5 +1,47 @@
 [
   {
+    "company": "Kamino",
+    "website": "https://kamino.com",
+    "country": null,
+    "geography": null,
+    "provider": "ashby",
+    "board": "kamino",
+    "boardUrl": "https://jobs.ashbyhq.com/kamino",
+    "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
+    "officialCareersUrl": "https://kamino.com",
+    "status": "recurring",
+    "ownership": {
+      "url": "https://kamino.com",
+      "finalUrl": "https://kamino.com",
+      "status": 200,
+      "checkedAt": "2026-10-16T22:59:04.163Z",
+      "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df",
+      "linkedUrl": "https://jobs.ashbyhq.com/kamino",
+      "kind": "reviewed-ashby-organization",
+      "basis": "User-supplied board and website; no official-site outbound careers link observed. Verify the pinned Ashby organization ID, owner, hosted slug and publicWebsite on every run.",
+      "boardEvidence": {
+        "url": "https://jobs.ashbyhq.com/kamino",
+        "finalUrl": "https://jobs.ashbyhq.com/kamino",
+        "status": 200,
+        "checkedAt": "2026-10-16T22:59:05.206Z",
+        "bodySha256": "d521524eafdf04eaf36d75fb0eed5704b0647152aba1062716dfa7f26a5e7e95",
+        "organizationId": "04a17be0-2c28-41ad-b45b-4bf703b8d84b",
+        "name": "Kamino",
+        "publicWebsite": "https://kamino.com",
+        "hostedJobsPageSlug": "kamino"
+      }
+    },
+    "web3": {
+      "url": "https://kamino.com",
+      "finalUrl": "https://kamino.com",
+      "status": 200,
+      "checkedAt": "2026-10-16T22:59:04.163Z",
+      "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df",
+      "quote": "Kamino is an open source credit and liquidity protocol built on Solana."
+    },
+    "note": "Public snapshot monitored. Ashby publishedAt is last publication; matching primary datePosted does not independently prove the original date. Unknown original dates remain quarantined. Evidence: content/sources/kamino-source-audit.json."
+  },
+  {
     "company": "Ankr",
     "website": "https://ankr.com",
     "country": null,

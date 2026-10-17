@@ -1,0 +1,44 @@
+{
+  "recordedAt": "2026-10-17T00:22:26.091Z",
+  "brand": [
+    {
+      "file": "assets/wordmark.png",
+      "copiedFrom": "social-assets/nomad-resources-thread/assets/wordmark.png",
+      "credit": "Hashtag Web3 existing approved wordmark"
+    },
+    {
+      "file": "assets/inter.woff2",
+      "copiedFrom": "social-assets/nomad-resources-thread/assets/inter.woff2",
+      "sourceUrl": "https://hashtagweb3.com/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "credit": "Existing Hashtag Web3 Inter webfont"
+    }
+  ],
+  "photos": [
+    {
+      "file": "assets/edge-city.jpg",
+      "copiedFrom": "social-assets/nomad-resources-thread/assets/edge-city.jpg",
+      "sourceUrl": "https://xyz.city/network-states/edge-city",
+      "imageUrl": "https://hashtagweb3.com/popups/xyz/edge-city/edgecitygallery1.webp",
+      "credit": "Edge City, via xyz.city",
+      "creditIsPublisherNotNamedPhotographer": true,
+      "usedIn": [
+        "N05-03"
+      ]
+    },
+    {
+      "file": "assets/4seas.jpg",
+      "copiedFrom": "social-assets/nomad-resources-thread/assets/4seas.jpg",
+      "sourceUrl": "https://xyz.city/network-states/4seas",
+      "imageUrl": "https://hashtagweb3.com/popups/xyz/4seas/4seasgallery2.webp",
+      "credit": "4Seas, via xyz.city",
+      "creditIsPublisherNotNamedPhotographer": true,
+      "usedIn": []
+    }
+  ],
+  "productCaptures": "assets/capture-credits.json",
+  "diagrams": {
+    "credit": "Original educational graphics by Hashtag Web3, authored for the supplied manuscript",
+    "factSource": "content.json per-post source mappings",
+    "examples": "Explicitly labeled exercises or blank personal worksheets"
+  }
+}

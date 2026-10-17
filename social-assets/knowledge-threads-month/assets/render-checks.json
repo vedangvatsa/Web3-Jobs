@@ -1,0 +1,1449 @@
+{
+  "checkedAt": "2026-10-17T00:22:26.091Z",
+  "contentSha256": "0746fb349f7f2dec4813b8df5ecaf50ef9443ae6f66709d549c738ca28afd761",
+  "pageErrors": [],
+  "issueCount": 0,
+  "contrastFailureCount": 0,
+  "images": [
+    {
+      "id": "C04-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nMatch invoice to receipt\n\nInvoice Generator: actual fields\n\nPayment method\nNotes\nInvoice reference\n\nMatch it to the receipt.\n\nNetwork note\n\nRecord the agreed network.\n\nDefault values cleared. Keep grant terms in the contract.\n\nhashtagweb3.com/invoice-generator\n06 / 06"
+    },
+    {
+      "id": "N09-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nCompare terms with their sources\n\nCitizenship comparison: actual row crops\n\nInvestment\nHolding conditions\nAdditional fees\nPresence\nOfficial source\nKeep dated notes\n\nVerify the route with the authority and an adviser.\n\nSeparate real row and link crops. Country-specific cells excluded.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C01-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nMake your work inspectable\n\nPortfolio structure\n\n01\nProblem\n\nWhat needed to change?\n\n02\nYour contribution\n\nMark the part you owned.\n\n03\nEvidence\n\nLink an artifact a reviewer can inspect.\n\nGive the reviewer a path from your claim to your work.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C01-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nShow the failure case\n\nTeaching example: withdrawal tests\n\nAllowed caller\n\nTransfer succeeds\n\nCheck the expected result\n\nRejected caller\n\nCaller lacks permission\n\nCheck the rejection\n\nInclude setup steps, the test command and known limits.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C01-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nConnect content to an action\n\nProposed wallet-tutorial funnel\n\n01\nTutorial reader\n\nAudience for the guide\n\n02\nSetup attempt\n\nUser starts the task\n\n03\nSetup completion\n\nUser reaches the intended action\n\nRecord measurement limits. Impressions do not show setup completion.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C01-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nDocument a repeatable task\n\nSample support runbook\n\nUser\n\nSends an error report\n\nModerator\n\nAssigns an owner and next update\n\nEngineer\n\nInvestigates and records the resolution\n\nMake the next handoff explicit.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C01-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nLabel the evidence honestly\n\nThree evidence formats\n\nPublic work\n\nLink the artifact\n\nName your contribution\n\nApproved redaction\n\nExplain the constraint\n\nShow permitted material\n\nPersonal exercise\n\nLabel it as practice\n\nDescribe your decisions\n\nUse the evidence status that matches the work.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C01-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Portfolio evidence\n\nCareer & practical work / C01\n\nRun the reviewer check\n\nBefore applying\n\nEvidence link\n\nOpen it while logged out.\n\nRelevant sample first\n\nMake the role match visible.\n\nAuthorship clear\n\nName your contribution.\n\nLimits stated\n\nExplain one limitation.\n\nThe reviewer should not need to request access.\n\nhashtagweb3.com/building-web3-portfolio\n06 / 06"
+    },
+    {
+      "id": "E01-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nRead the permission you are granting\n\nERC-20 approval\n\nToken holder\n\nAccount granting permission\n\nApproved spender\n\nAddress receiving permission\n\nToken contract\n\nRecords the allowance for this token and spender on this network.\n\nCheck token, spender, amount and network before approving.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E01-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nCompare the trade and the cap\n\nHypothetical token-quantity example\n\nPlanned trade\n20 tokens\nRequested cap\n200\n\nReview the difference.\nWhere supported, set a cap for the intended use.\n\nThe requested allowance is larger than the planned trade.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E01-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nDisconnecting and revoking differ\n\nTwo separate states\n\nDisconnect website\n\nChanges the site connection\n\nOnchain allowance remains\n\nRevoke allowance\n\nSubmit on the relevant network\n\nCheck confirmation; fee normally applies\n\nOnly the revocation changes the spending permission.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E01-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nA signature can carry spending authority\n\nERC-2612 permit\n\n01\nRead the permit\n\nSpender, amount and submission deadline\n\n02\nSign the approval\n\nNo gas paid at this signing step\n\n03\nLater onchain submission\n\nSomeone can submit the signed permit\n\nThe deadline limits submission, not the resulting allowance lifetime.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E01-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nCheck the NFT permission scope\n\nNFT operator permissions\n\nOne-item approval\nA\nB\nC\n\nOne approved NFT\n\nCollection-wide\nA\nB\nC\n\nEvery NFT you own from this collection contract\n\nCheck the named operator.\n\nCollection-wide means one collection contract, not every NFT in a wallet.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E01-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token approvals\n\nWeb3 explained / E01\n\nKeep an allowance review record\n\nAllowance review inventory\n\nAccount and network\n\n[scope to review]\n\nSpender\n\n[approved spender]\n\nRemaining allowance\n\n[current permission]\n\nRevocation receipt\n\n[confirmed transaction]\n\nRevocation cannot reverse a transfer or repair an exposed private key.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N01-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 99,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nStart with the workweek\n\nHypothetical work patterns\n\nRecruiter\n\nPrivate calls\n\nScheduled team overlap\n\nAsync engineer\n\nLong focus blocks\n\nRoutine that fits the team\n\nWrite the conditions your own workweek needs.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N01-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nSeparate requirements from preferences\n\nSample decision matrix, no city scores\n\nRequirements\n\nPrivate call space: [check]\n\nTeam overlap: [check]\n\nPreferences\n\nWalkability: [check]\n\nWarm weather: [check]\n\nA high overall score cannot replace a missing requirement.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N01-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nChange the comparison question\n\nCity directory: actual controls\n\nQuestion: living costs\nQuestion: internet\nCompare your selections\nOther categories\n\nSafety, walkability and weather\n\nSeparate control states. Costs, rankings and counts are excluded.\n\nhashtagweb3.com/nomads\n03 / 06"
+    },
+    {
+      "id": "N01-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nCheck the actual room\n\nFrom city research to room checks\n\nCity-level research\nNeighborhood\nActual room\n\nDesk + call privacy + connection + host confirmation\n\nAsk the host about the actual accommodation.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N01-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nUse the dates you would stay\n\nUndated stay-planning diagram\n\nYour intended stay dates\nWeather by month\n\nCompare the months you will be there.\n\nTeam meeting dates\n\nMap calls to your local work hours.\n\nCheck the daily routine as well as the city.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N01-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "City research\n\nRemote work & community / N01\n\nKeep the unknowns beside the shortlist\n\nBlank city shortlist\n\nCity\n\n[your option]\n\nHost question\n\n[quote or room detail]\n\nEmployer question\n\n[work arrangement]\n\nEntry check\n\n[official source to verify]\n\nKeep unanswered questions beside each option.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C02-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nGive the interview a starting point\n\nSample wording\n\nResponsibility\n\nManaged community\n\nLeaves the work unspecified\n\nInspectable output\n\nWrote a moderator handoff guide\n\nFor unresolved support tickets\n\nGive an interviewer a specific piece of work to discuss.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C02-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nBuild one truthful bullet\n\nSample wording: use only if true\n\nAction\n\nRewrote\n\nScope\n\nThe wallet setup guide\n\nEvidence\n\nWrong-network screenshots and linked product docs\n\nEach piece should describe work you actually did.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C02-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nGive numbers a definition\n\nMetric worksheet\n\nCount\n\n[count from records]\n\nTime period\n\n[period measured]\n\nExclusions\n\n[for example, spam]\n\nSource record\n\n[link to evidence]\n\nKeep the placeholders until you have records.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C02-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nName your part in team work\n\nSample launch workflow\n\nTeam launch workflow\nDesign\nEngineering\nMarketing\nYour task\n\nMark your owned output and evidence.\n\nA team result does not establish one person caused every change.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C02-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nReorder without rewriting history\n\nOne evidence library, different ordering\n\nOperations\n\nWorkflows first; then writing and tests\n\nContent\n\nWriting first; then workflows and tests\n\nEngineering\n\nTests first; then workflows and writing\n\nSelect truthful details. Keep one full history.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C02-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Resume bullets\n\nCareer & practical work / C02\n\nCheck the exported resume\n\nResume Builder: actual controls\n\nProjects\nExperience\nReplace sample entries\n\nUse your own work.\n\nOpen links and select text\n\nCheck the exported PDF.\n\nReview every claim\n\nThe template cannot verify it.\n\nSeparate control crops from hashtagweb3.com/resume-builder.\n\nhashtagweb3.com/resume-builder\n06 / 06"
+    },
+    {
+      "id": "E02-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nKnow what each secret controls\n\nSeed-based wallet\n\nRecovery phrase\nIndividual key A\n\nControls account A\n\nIndividual key B\n\nControls account B\n\nThe phrase can restore accounts derived from it. Keep both kinds of secret private.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E02-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nLocal password and recovery differ\n\nMetaMask: direct recovery-phrase setup\n\nApp password\n\nProtects local device access\n\nCan be changed on that device\n\nRecovery phrase\n\nRestores derived accounts\n\nUnchanged by a new password\n\nA copied phrase still permits independent restoration.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E02-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nCheck your wallet's recovery method\n\nRecovery-method check\n\nOffline backup\n\nBlank illustration. No recovery words.\n\nCheck word order\n\nWhen recording your backup.\n\nCloud-sync risk\n\nScreenshots may sync off-device.\n\nWallet-specific method\n\nRead its recovery instructions.\n\nFor social login or another design, read that wallet's instructions.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E02-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nAccount labels do not isolate keys\n\nShared root secret\n\nOne recovery phrase\nAccount A\n\nDerived from the shared phrase\n\nAccount B\n\nDerived from the shared phrase\n\nA leaked phrase exposes both. Renaming accounts does not separate keys.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E02-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nCheck the action as well as keys\n\nDifferent checks\n\nKey storage\n\nHardware wallet keeps keys on device\n\nProtect the recovery setup\n\nTransaction review\n\nRead the destination\n\nRead the requested permission\n\nAn offline key does not prevent a harmful approval.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E02-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Wallet recovery\n\nWeb3 explained / E02\n\nShare the receiving address only\n\nPayment details versus secrets\n\nShare for receiving\n\nPublic address\n\nAgreed network\n\nKeep private\n\nRecovery phrase\n\nPrivate key\n\nIf asked for secrets, stop and use the official help channel.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N02-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nSeparate estimates from quotes\n\nBlank cost worksheet\n\nDirectory estimate\n\nAmount: [reference]\n\nIncluded items: [check]\n\nChecked date: [date]\n\nQuote for your dates\n\nAmount: [quoted]\n\nIncluded items: [check]\n\nChecked date: [date]\n\nAn estimate is a starting reference, not a quote for your stay.\n\nhashtagweb3.com/nomads\n01 / 06"
+    },
+    {
+      "id": "N02-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nSeparate spending from tied-up cash\n\nPersonal cash-flow categories\n\nUpfront cash needed\n\nUse your own amounts.\n\nRecurring\n\n[amount]\n\nOne-off\n\n[amount]\n\nDeposit\n\n[amount]\n\nReturn depends on refund conditions.\n\nA refundable deposit can still tie up cash upfront.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N02-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nCompare the complete working setup\n\nHypothetical working setups\n\nRoom without usable desk\n\nAccommodation\n\n+ Coworking\n\n+ Transport\n\nRoom with needed workspace\n\nAccommodation\n\nCheck included amenities\n\nCheck combined setup\n\nCompare the complete working arrangement using your own quotes.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N02-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nKeep the quote's conditions\n\nQuote conditions to record\n\nInclusions\n\n[what the quote covers]\n\nExtra charges\n\n[utilities, cleaning, access, fees]\n\nCurrency\n\n[quoted currency]\n\nConversion date\n\n[date, if converting]\n\nKeep each quote linked to its conditions.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N02-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nModel a specific disruption\n\nHypothetical canceled-booking case\n\nExpected stay\n\n[your original quoted plan]\n\nDisruption items\n\nTemporary lodging + extra transfer\n\nRevised total\n\n[recalculate using your quotes]\n\nName the added items. Leave the amounts personal.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N02-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Stay planning\n\nRemote work & community / N02\n\nKeep the worksheet updateable\n\nSource-linked planning worksheet\n\nDue now\n\n[amount] / [quote link]\n\nRecurring\n\n[amount] / [quote link]\n\nRefund terms\n\n[conditions] / [source]\n\nUnknowns\n\n[question] / [who to ask]\n\nUpdate the plan when dates or working needs change.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C03-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nVerify through another channel\n\nIndependent verification\n\nIncoming message\n\nAn unverified approach\n\nCompany channel\n\nFind it independently.\n\nVerify the person and role\n\nCompare the two contact routes.\n\nA matching profile or role title is only a starting point.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C03-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nA matching title is insufficient\n\nCompare before you proceed\n\nRole\n\nDoes it match the careers page?\n\nApplication domain\n\nWhere does the company send applicants?\n\nNamed contact\n\nWho is approaching you?\n\nIndependent confirmation\n\nCan the company confirm the contact?\n\nFind the company channel yourself.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C03-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nSeparate tests from valuable access\n\nAssessment-code review\n\nUntrusted assessment repository\n\nRequest a written task first.\n\nAgreed assessment boundary\nIsolated test environment\nNo work credentials\nNo wallet keys\n\nIsolation is a precaution, not a guarantee that unfamiliar code is safe.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C03-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nCheck the interview software\n\nUnexpected meeting-software request\n\n01\nPause the install\n\nDo not run a camera-fix command.\n\n02\nFind the official provider\n\nOpen its site independently.\n\n03\nConfirm with the hiring team\n\nUse a separate contact route.\n\nAn unexpected installer deserves another check.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C03-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nKeep applications free of transfers\n\nReasons to stop and verify\n\nJob deposit\n\nDo not pay to receive a job.\n\nToken purchase\n\nDo not buy tokens to qualify for an interview.\n\nSeed phrase request\n\nKeep recovery material private.\n\nKeep payroll details separate from early screening.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C03-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Job verification\n\nCareer & practical work / C03\n\nKeep a verification record\n\nBlank application-verification record\n\nRole URL\n\n[employer application page]\n\nContact\n\n[recruiter contact]\n\nConfirmation source\n\n[independent channel]\n\nChecked date\n\n[date checked]\n\nA listing and a polished profile are not guarantees.\n\nhashtagweb3.com/jobs\n06 / 06"
+    },
+    {
+      "id": "E03-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nA network switch is not a bridge\n\nCross-chain route\n\nWallet network selector\n\nChanges the view, not asset location.\n\nSeparate cross-chain mechanism\nSource chain\nBridge\nDestination\n\nName the source, destination and exact asset you expect to receive.\n\nSwitching the wallet view does not move assets.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E03-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nCheck what arrives on the other side\n\nGeneric bridged-asset example\n\nOriginal asset\n\nAsset on the source chain\n\nRead the issuer's docs\n\nBridged representation\n\nCheck destination contract\n\nCheck its redemption path\n\nA familiar ticker does not establish the asset. Bridge designs vary.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E03-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nIdentify the bridge's dependencies\n\nBridge design questions\n\nBridge\nMessage verification\nUpgrade control\nCustody\nContract code\n\nThe source chain's reputation does not answer these checks.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E03-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nPlan the destination transaction\n\nPlan beyond arrival\n\n01\nReview output\n\nQuoted asset and bridge fees\n\n02\nCheck waiting steps\n\nUnderstand the route.\n\n03\nPlan the next action\n\nFund destination gas if needed.\n\nReceiving a token may not provide the destination fee-paying asset.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E03-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nTrack both sides of the transfer\n\nIllustrative transfer tracking\n\n01\nSource receipt\n\nSource transaction confirmed\n\n02\nBridge status\n\nMiddle stage may still be pending\n\n03\nDestination receipt\n\nCheck arrival on the destination explorer\n\nCheck both sides before retrying.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E03-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Bridge routes\n\nWeb3 explained / E03\n\nA test checks the route\n\nTwo different assessments\n\nTest the route\n\nAsset and recipient\n\nFees and withdrawal path\n\nAssess bridge security\n\nContracts and dependencies\n\nRecheck changed conditions\n\nA small successful transfer cannot prove bridge security.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N03-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nSeparate entry, stay and work\n\nSeparate permission questions\n\nEntry\n\nCan you enter for the stated purpose?\n\nStay\n\nHow long may you remain?\n\nWork\n\nIs your planned activity permitted?\n\nVisa-free entry does not automatically authorize remote work.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N03-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nDefine the case you are researching\n\nBlank private research profile\n\nPassport\n\n[travel document]\n\nResidence\n\n[current residence]\n\nWork type\n\n[activity planned]\n\nEmployer or clients\n\n[your arrangement]\n\nIntended stay\n\n[dates and duration]\n\nResearch your circumstances rather than another person's approval.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N03-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nFollow the program to its source\n\nVisa directory: actual controls\n\nChoose the research mode\nSearch program requirements\nRequirements heading\nOfficial-source link\nAt the authority\n\nVerify current amount, currency and evidence rules.\n\nControls are separate crops. Country amounts and stay durations excluded.\n\nhashtagweb3.com/visas\n03 / 06"
+    },
+    {
+      "id": "N03-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nCheck acceptable income evidence\n\nQuestions for the issuing authority\n\nEmployment letter\n\nIs one required for this case?\n\nInvoices\n\nAre they accepted as income evidence?\n\nAccount statements\n\nWhich records are needed?\n\nToken income\n\nWhether and how is it accepted?\n\nThese are questions, not a universal document list.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N03-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nKeep different approvals separate\n\nTwo approval tracks\n\nOfficial program\n\nDependents and insurance\n\nApplication location\n\nRenewal conditions\n\nEmployer permission\n\nApproval for the work arrangement\n\nWritten policy\n\nRelevant restrictions\n\nAn answer in one track does not settle the other.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N03-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Work permissions\n\nRemote work & community / N03\n\nKeep a dated research record\n\nBlank source log\n\nOfficial URL\n\n[issuing authority]\n\nChecked date\n\n[date reviewed]\n\nUnanswered question\n\n[your specific question]\n\nWritten response\n\n[authority or adviser reply]\n\nResolve unclear requirements before making nonrefundable plans.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C04-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nSeparate the compensation questions\n\nContract questions\n\nAmount\n\nWhat is the fee or grant?\n\nEarned date\n\nWhen do the terms say you earn it?\n\nTransfer date\n\nWhen can you transfer it?\n\nPayment method\n\nHow does it reach you?\n\nEarning, release and payment can be separate obligations.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C04-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nDefine the unit of payment\n\nTwo payment models\n\nFixed token quantity\n\nAgree the number of tokens\n\nName the exact asset\n\nCurrency-denominated fee\n\nAgree the currency amount\n\nSpecify conversion source and time\n\nWrite the unit into the agreement.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C04-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nRead the vesting terms\n\nIllustrative timeline, no dates\n\nStart\nCliff\nVesting\nCliff\n\nDelays initial vesting.\n\nTransfer restrictions\n\nMay remain after vesting.\n\nCheck departure terms and any separate transfer restrictions.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C04-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nSpecify what the fee covers\n\nSample content-contract outline\n\nDeliverable\n\n[output and format]\n\nReviewer\n\n[acceptance owner]\n\nRevision scope\n\n[revisions, files, translation]\n\nPayment deadline\n\n[agreed deadline]\n\nPayer\n\n[legal name]\n\nAgree on scope before the transfer.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C04-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Token-paid contracts\n\nCareer & practical work / C04\n\nWrite complete payment instructions\n\nBlank payment instructions\n\nAsset identifier\n\n[exact asset]\n\nNetwork\n\n[agreed network]\n\nRecipient\n\n[verified address]\n\nFee handling\n\n[who covers fees]\n\nConfirm these details through the agreed channel.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E04-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nSame target, different mechanisms\n\nMechanisms to compare\n\nReserve-backed\n\nRead backing assets\n\nCheck issuer access\n\nCollateral borrowing\n\nRead collateral rules\n\nCheck liquidation risk\n\nSynthetic strategy\n\nRead hedging design\n\nCheck custody arrangements\n\nCompare issuance, redemption and market price. A target is not a guarantee.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E04-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nRead reserves and redemption terms\n\nUSDC: reserve-backed example\n\nReserve assets\n\nCash and cash equivalents\n\nIssuer\n\nCircle publishes reserve reports.\n\nToken holder\n\nCheck redemption conditions.\n\nHeld separately from operating funds.\n\nDirect issuer redemption is subject to applicable terms.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E04-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nBorrowing creates a collateral obligation\n\nGHO: Aave borrowing-facilitator example\n\n01\nSupply eligible collateral\n\nSupports the borrowing position.\n\n02\nBorrow GHO\n\nCreates a collateral obligation.\n\n03\nMonitor collateral checks\n\nUndercollateralization can trigger liquidation.\n\nThis is one GHO borrowing path, not every issuance mechanism.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E04-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nIdentify the synthetic-dollar strategy\n\nUSDe: simplified strategy\n\nBacking assets\n\nPart of the synthetic-dollar design.\n\nOffsetting shorts\n\nStrategies include short futures.\n\n+\n\nUSDe mechanism\n\nRead trading and custody dependencies.\n\nRead the trading and custody arrangements. This is not the full portfolio.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E04-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nCompare the exit routes\n\nSeparate exit paths\n\nExchange sale\n\nDepends on market liquidity\n\nDepends on your access\n\nIssuer redemption\n\nDepends on issuer terms\n\nDepends on your eligibility\n\nA near-target price does not make the routes interchangeable.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E04-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Dollar-token mechanisms\n\nWeb3 explained / E04\n\nSeparate the token from the yield\n\nAsset and extra-product research\n\nToken held\n\nExact asset and backing\n\nExtra product\n\nLending or rewards arrangement\n\nAdded dependencies\n\nReturn source and exit conditions\n\nA yield offer adds its own mechanism and conditions.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N04-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nCheck the traveler, not just destination\n\nTwo blank traveler profiles\n\nTraveler A\n\nPassport: [check]\n\nPurpose: [check]\n\nDates: [check]\n\nTraveler B\n\nPassport: [check]\n\nPurpose: [check]\n\nDates: [check]\n\nSame destination. Research each traveler's actual conditions.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N04-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nRead beyond the entry label\n\nTurn entry labels into questions\n\nBefore departure\n\nMust you apply first?\n\nOn arrival\n\nIs a process required there?\n\nExemption conditions\n\nWhich conditions must you meet?\n\nApplication method\n\nIs an online application available?\n\nAn entry category is not the complete answer.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N04-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nRead the evidence status\n\nPassport checker: actual evidence labels\n\nChecked baseline\nHistorical evidence\nUnresolved review\nOpen the underlying conditions\nSource date\n\nRead when the evidence was checked.\n\nSeparate label crops. Destination-specific outcomes excluded.\n\nhashtagweb3.com/visas\n03 / 06"
+    },
+    {
+      "id": "N04-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nCheck whether the baseline fits you\n\nScope: passport and visitor baseline\n\nPassport type\n\nDoes the baseline match your document?\n\nResidence\n\nDoes it change the conditions?\n\nOther visas\n\nDo they affect this route?\n\nVisit purpose\n\nDoes the visitor scope fit your activity?\n\nA tourist-entry baseline is not a work permit or admission promise.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N04-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nCheck the whole travel route\n\nGeneric travel route\n\n01\nDeparture\n\nCheck airline document requirements.\n\n02\nTransit\n\nCheck conditions at each stop.\n\n03\nDestination\n\nVerify official immigration conditions.\n\nCheck validity, onward travel and prior approval where relevant.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N04-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Passport research\n\nRemote work & community / N04\n\nTurn the map into a checklist\n\nResearch-to-document workflow\n\n01\nMap view\n\nOrganize the route research.\n\n02\nOfficial conditions\n\nSave links and written clarification.\n\n03\nDated checklist\n\nDocuments and open questions\n\n04\nBefore departure\n\nRecheck the conditions.\n\nUse the underlying rules to decide what to prepare.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C05-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 101,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nFind the approval path\n\nSample DAO approval path\n\n01\nTask sponsor\n\nProposes the work\n\n02\nReviewer\n\nChecks the deliverable\n\n03\nBudget authority\n\nApproves spending\n\n04\nPayment executor\n\nCarries out payment\n\nRoles and governance differ by DAO.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C05-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nMake the first task reviewable\n\nSample governance-summary structure\n\nProposal link\n\n[source discussion]\n\nDisputed points\n\n[what is contested]\n\nOpen questions\n\n[what remains unanswered]\n\nScope boundary\n\nOne discussion summary\n\nAgree on the first deliverable before expanding the work.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C05-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nDefine what completion means\n\nSample tutorial brief\n\nOutput and format\n\nA tutorial on the stated test network\n\nReviewer\n\n[person who can accept the work]\n\nAcceptance test\n\nA newcomer can complete the documented steps\n\nA reader-completion check makes the task reviewable.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C05-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nTrack approval and payment separately\n\nSample payment sequence\n\n01\nBudget approval\n\nCheck the required process.\n\n02\nWork accepted\n\nRecord the reviewer decision.\n\n03\nPayment authorized\n\nCheck votes or treasury signatures.\n\n04\nReceipt verified\n\nConfirm the actual payment.\n\nGovernance varies. A passed discussion is not a receipt.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C05-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nMake review easy to complete\n\nSample review packet\n\nReview link\nDeliverable\nChange summary\nFeedback location\nScope changes\n\nRecord scope and payment changes before continuing.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C05-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "DAO contribution\n\nCareer & practical work / C05\n\nKeep a contribution record\n\nBlank contribution log\n\nScope\n\n[agreed output]\n\nEvidence\n\n[work link]\n\nReviewer\n\n[acceptance owner]\n\nPayment status\n\n[current status]\n\nPaid or volunteer\n\n[label the arrangement]\n\nKeep unfinished commitments visible.\n\nhashtagweb3.com/\nhow-to-contribute-to-daos-and-get-paid\n06 / 06"
+    },
+    {
+      "id": "E05-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nLook up the status, not just hash\n\nExplorer lookup\n\nCorrect network + transaction hash\nPending\n\nNot yet included in a block\n\nFailed\n\nIntended action did not succeed\n\nSuccessful\n\nInspect what the action did\n\nA hash alone is not proof of completed payment.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E05-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nContract destination and recipient can differ\n\nEthereum token-transfer relationship\n\n01\nSender\n\nCalls the token contract.\n\n02\nTransaction to: contract\n\nContract executes the token action.\n\n03\nToken recipient\n\nBalance is updated by the contract.\n\nRead decoded action and token-transfer details for recipient and amount.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E05-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nETH value is not token value\n\nSeparate explorer records\n\nNative ETH value\n\nETH sent with the call\n\nCan be zero\n\nToken movement\n\nERC-20 transfer details\n\nCheck the asset contract\n\nZero ETH value can accompany a token transfer.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E05-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nA fee can accompany failure\n\nEthereum: included execution fails\n\nExecution attempted\nAction reverts\n\nIntended state changes do not persist.\n\nGas consumed\n\nWork performed can still cost a fee.\n\nThis excludes transactions rejected before execution.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E05-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nMatch the receipt to your payment\n\nPayment-to-explorer check\n\nAgreed recipient\nExplorer recipient\nAgreed asset\nExplorer asset\nAgreed network\nExplorer network\nAgreed reference\nExplorer reference\n\nPublic addresses do not necessarily identify the people behind them.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E05-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction records\n\nWeb3 explained / E05\n\nPrepare a useful transaction report\n\nBlank transaction-support report\n\nNetwork\n\n[correct network]\n\nHash\n\n[public reference]\n\nStatus\n\n[observed status]\n\nExpected result\n\n[what should have happened]\n\nShare needed context only. Public links can reveal activity; keys stay private.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N05-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 101,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nChoose the format first\n\nPopups: actual type-filter states\n\nTemporary format\nOngoing format\nCity-project format\nCurrent operator details\n\nConfirm the format and what participation covers.\n\nSeparate filter captures. A listing does not establish availability.\n\nhashtagweb3.com/popups\n01 / 06"
+    },
+    {
+      "id": "N05-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nMatch the community to your purpose\n\nIllustrative goals to discuss with organizers\n\nPrototype feedback\n\nAsk about a review session.\n\nResearch time\n\nAsk about focused coworking.\n\nGovernance discussion\n\nAsk about a discussion format.\n\nConfirm the activity instead of choosing only from photographs.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N05-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nAsk about the ordinary workday\n\nQuestions about an ordinary workday\n\nAn existing community photo, not a promised venue or event.\n\nQuiet work\n\nWhat space is available?\n\nCall space\n\nWhere can calls be private?\n\nWorkshops\n\nWhat is the working format?\n\nSocial time\n\nWhich activities are optional?\n\nPhoto: Edge City, via xyz.city. Ask the venue about your own work needs.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N05-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nConfirm the participation terms\n\nOrganizer questions\n\nIncluded services\n\nAccommodation, workspace, meals, sessions?\n\nApplication process\n\nWhat does participation require?\n\nCancellation\n\nWhat are the terms?\n\nAccessibility\n\nCan the venue meet your needs?\n\nConfirm the terms directly with the organizer.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N05-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nOffer a specific contribution\n\nSample documentation-review session\n\nAudience\n\nPeople improving a guide\n\nSession task\n\nReview the documented steps\n\nWhat to bring\n\nA draft and a specific question\n\nUseful output\n\nA list of steps to clarify\n\nOffer a contribution you can realistically deliver.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N05-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community formats\n\nRemote work & community / N05\n\nKeep the booking checks distinct\n\nBefore-booking checks\n\nYour decision\nCommunity fit\nOrganizer confirmation\nEntry and work\nEmployer arrangement\n\nConfirm current details. A good fit in one area does not settle the others.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C06-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nConnect requirements to evidence\n\nRequirement-to-assessment map\n\n01\nWork needed\n\nWhat must this person deliver?\n\n02\nRequired skill\n\nWhat knowledge does that work need?\n\n03\nEvidence\n\nWhat would demonstrate the skill?\n\n04\nAssessment\n\nHow will the team review it?\n\nReplace an undefined label with assessable knowledge.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C06-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nDescribe the output\n\nIllustrative content-role brief\n\n01\nSupport feedback\n\nCollect recurring questions.\n\n02\nOnboarding docs\n\nTurn questions into updates.\n\n03\nReview cycle\n\nCheck and maintain the guide.\n\nDescribe the output a candidate would own.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C06-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nSeparate required from teachable\n\nContent-role example\n\nRequired on arrival\n\nWriting judgment\n\nAssess a writing sample\n\nTeachable in onboarding\n\nTeam publishing workflow\n\nLearn the software and process\n\nSeparate what you need now from what you can teach.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C06-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nExplain how the work happens\n\nWorking-conditions fields\n\nEligible locations\n\n[where the role can be held]\n\nOverlap hours\n\n[dates and reference zone]\n\nOn-call rota\n\n[coverage expectations]\n\nEngagement type\n\n[employment or contract]\n\nComplete these fields before calling the role remote.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C06-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nScope the assessment upfront\n\nSample assessment brief\n\nTask\n\n[agreed terms]\n\nTime limit\n\n[agreed terms]\n\nReview criteria\n\n[agreed terms]\n\nCompensation\n\n[agreed terms]\n\nExample task\n\nA sample support reply\n\nLarger work request\n\nA complete launch campaign\n\nAgree payment and scope for substantial usable work.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C06-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Hiring requirements\n\nCareer & practical work / C06\n\nReview the role before publishing\n\nJD Builder: actual controls\n\nResponsibilities\nRequired skills\nPreferred skills\nEditing control\nInterview match\n\nMap every requirement to review evidence.\n\nSection crops exclude default company and salary details.\n\nhashtagweb3.com/jd-builder\n06 / 06"
+    },
+    {
+      "id": "E06-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nSeparate work from unit price\n\nEthereum execution fee\n\nGas used\n×\nEffective\nprice per gas\n=\nExecution fee\n\nDifferent actions can use different amounts of computational work.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E06-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nWhere Ethereum execution fees go\n\nEthereum fee distribution\n\nExecution fee\nBase-fee component\n\nBurned\n\nPriority-fee component\n\nGoes to the validator\n\nEthereum scope. This is not an OP Mainnet distribution chart.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E06-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nA lower limit cannot reduce work\n\nExecution-limit comparison\n\nSchematic: same required work in both cases\n\nSufficient limit\nInsufficient limit\n\nLimit\n\nLimit\n\nOut of gas: action reverts; supplied execution gas is consumed.\n\nLowering the limit does not make the operation need less work.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E06-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nRead the whole L2 fee\n\nOP Mainnet fee components\n\nExecution\n\nLocal transaction execution\n\nL1 data\n\nEthereum data component\n\nOperator component\n\nDocumented operator fee\n\nAdd the applicable components. This model is not every L2's model.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E06-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nCount the actions in the workflow\n\nExample approval-and-swap workflow\n\nCheck existing permission\n\nDoes this flow need an onchain approval?\n\nApproval if needed\n\nCheck its separate fee.\n\nSwap\n\nCheck the swap fee separately.\n\nExisting permission or another authorization design\n\nCheck existing permissions and the authorization design the app uses.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E06-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Transaction fees\n\nWeb3 explained / E06\n\nCompare like-for-like fee estimates\n\nBlank fee-comparison worksheet\n\nSame action\n\n[action being compared]\n\nNetwork and fee asset\n\n[network] / [asset]\n\nEstimate time\n\n[time of estimate]\n\nExtra charges\n\n[bridge or service charge]\n\nActual receipt\n\n[components that applied]\n\nCompare like for like. No fixed cheapest-chain ranking.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N06-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nDefine what people can finish\n\nPossible session outputs: examples\n\nReviewed README\n\nBring the current draft\n\nChoose a review question\n\nClearer onboarding page\n\nBring the current steps\n\nChoose a confusing step\n\nName a small, visible task people can work on.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N06-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nMake the invitation specific\n\nUndated invitation template\n\nWho it suits\n\n[audience; can beginners observe?]\n\nPreparation\n\n[what to bring]\n\nLanguage\n\n[session language]\n\nPlace or link\n\n[venue or call link]\n\nDate and zone\n\n[date] / [time] / [zone]\n\nState the preparation before someone joins.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N06-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nAn example coworking format\n\nSuggested 80-minute format\n\n80 minutes\n10 min\n\nName tasks\n\n50 min\n\nQuiet work\n\n20 min\n\nOptional feedback\n\nAn example agenda, not an upcoming event or an optimal-duration claim.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N06-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nAsk for a specific review\n\nSample task-board structure\n\nWork item\n\n[link to the work]\n\nReview question\n\nSample: Does this setup guide skip a step?\n\nVisibility\n\n[public or private]\n\nReviewer\n\n[volunteer reviewer]\n\nLet people choose public sharing or private work.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N06-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nAgree on what will be shared\n\nHost sharing checklist\n\nRecording consent\n\nAsk before recording.\n\nPhoto consent\n\nAsk before photographing or publishing.\n\nDemo accounts\n\nUse accounts without valuable funds.\n\nNo secrets on screen\n\nKeep recovery material private.\n\nTell participants what will be visible before they join.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N06-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Coworking sessions\n\nRemote work & community / N06\n\nClose the session with follow-through\n\nAfter-session follow-through\n\n01\nAgreed notes\n\nShare the outputs people agreed to share.\n\n02\nOpen questions\n\nAssign a follow-up owner.\n\n03\nFormat feedback\n\nAsk what helped people do their work.\n\nUse the feedback to decide what to repeat or change.\n\nhashtagweb3.com/\nbuilding-relationships-in-web3\n06 / 06"
+    },
+    {
+      "id": "C07-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nExplain a decision you made\n\nPrepare a real decision\n\n01\nConstraint\n\nWhat limited your options?\n\n02\nOptions\n\nWhat did you consider?\n\n03\nChoice\n\nWhat did you decide and why?\n\n04\nResult\n\nWhat evidence supports the outcome?\n\nChoose a real piece of work.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C07-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nPractice the rejected-signature case\n\nInterview exercise: rejected signature\n\n01\nSignature requested\n\nThe user is asked to sign.\n\n02\nUser declines\n\nNo signature is supplied.\n\n03\nClear status\n\nExplain what happened.\n\n04\nRetry available\n\nShow how the user can continue.\n\nProposed interface states, not a product screenshot.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C07-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nExplain the response under uncertainty\n\nPractice scenario: withdrawal report\n\n01\nVerify report\n\nCheck what is known.\n\n02\nState known facts\n\nName the uncertainty.\n\n03\nAssign investigation\n\nChoose who should inspect it.\n\n04\nSet next update\n\nGive a clear update plan.\n\nThis is a practice scenario, not a reported incident.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C07-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nExplain what the campaign measures\n\nProposed campaign measurement plan\n\nUser action\nAudience\nChannel choice\nEvidence to collect\nAttribution limits\n\nAttributed sign-ups and additional sign-ups are different questions.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C07-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nSeparate experience from a proposal\n\nMake the answer status explicit\n\nWork completed\n\nExplain what you did\n\nLink supporting evidence\n\nPersonal project\n\nName it as your project\n\nExplain its limits\n\nProposed approach\n\nLabel the scenario\n\nCheck unknowns in docs\n\nUse the evidence you have.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C07-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Interview decisions\n\nCareer & practical work / C07\n\nPractice the follow-up\n\nQuestion Bank: actual navigation and rubric\n\nRole navigation\nScoring guide\nFollow-up checks\n\nEvidence, failure case and trade-off\n\nUse consistent criteria. Rehearse decisions, not memorized paragraphs.\n\nhashtagweb3.com/interview-questions\n06 / 06"
+    },
+    {
+      "id": "E07-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nFollow the external data path\n\nExternal-data dependency\n\nExternal source\n\nOffchain information\n\nOracle mechanism\n\nCollects and delivers data\n\nOnchain consumption\nOnchain data\n\nAvailable to the application.\n\nConsumer contract\n\nUses the supplied input.\n\nA smart contract cannot fetch a website by itself during execution.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E07-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nCorrect math can use bad data\n\nHypothetical lending calculation\n\nCollateral\n\nAmount to value\n\nPrice input\n\nCheck accuracy and freshness.\n\nValuation\n\nCorrect arithmetic can still use a bad input.\n\nCheck how the application handles stale or unavailable inputs.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E07-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nDecode the feed's units\n\nHypothetical arithmetic, not a market quote\n\nAnswer: 123400\nDecimals: 4\n\n123400 ÷ 10⁴\n=\n12.34\n\nThe scaled value of this teaching input.\n\nRead decimals and description. Check the feed's units and pair.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E07-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nCheck when the feed updated\n\nChainlink latestRoundData review\n\n01\nAnswer + updatedAt\n\nRead the value and its timestamp.\n\n02\nApplication freshness rule\n\nCompare with the allowed age.\n\n03\nFailure behavior\n\nDefine what happens if data is too old.\n\nLatest does not guarantee recent enough. Set a rule for the application.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E07-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nCount independent sources, not only nodes\n\nSource diversity comparison\n\nShared source\n\nIndependent sources\n\nX\nY\nZ\nA\nB\nC\nA\nB\nC\nMultiple reporters\n\nCan share one upstream failure.\n\nIndependent inputs\n\nAsk about source diversity.\n\nSeveral reporters can share the same upstream failure.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E07-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Oracle dependencies\n\nWeb3 explained / E07\n\nDocument the oracle dependency\n\nFeature-review checklist\n\nFeed and network\n\nWhich dependency is used?\n\nUnits\n\nWhat does the value represent?\n\nFreshness\n\nWhen is it too old?\n\nFailure behavior\n\nWhat does the feature do?\n\nUser action\n\nHow can the user continue?\n\nMake the dependency visible to engineering and content teams.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N07-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 101,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nTest your actual work\n\nTask-based workspace tests\n\nVideo call\n\nCan you complete the call?\n\nFile upload\n\nCan you send the work?\n\nWork-system access\n\nCan you reach required tools?\n\nReal work hours\n\nCheck when you will use the room.\n\nA speed-test screenshot alone does not establish task fit.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N07-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nCheck the desk and call space\n\nDifferent space needs\n\nWriting\n\nUsable desk and chair\n\nShared room may suit the task\n\nConfidential call\n\nPrivate call space\n\nShared room may not suit the task\n\nAsk for a photo of the actual desk and chair.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N07-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nTest the backup connection\n\nBackup-connection test\n\n01\nConnect the laptop\n\nJoin the hotspot.\n\n02\nReach the work tools\n\nTest the actual task.\n\n03\nCheck the provider terms\n\nLocal coverage and account conditions\n\nOwning a second connection is not the same as testing it.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N07-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nPlan around a power interruption\n\nHypothetical power interruption\n\nPower or charging unavailable\nAlternate workspace\n\nWhere could you continue?\n\nCoverage owner\n\nWho could cover the urgent task?\n\nCheck power access and cables. Agree the fallback with the team.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N07-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nCheck access recovery before departure\n\nWork-account access review\n\nBackups\n\nCheck them while the normal setup is available.\n\nRecovery method\n\nKnow how access is restored.\n\nProtected codes\n\nKeep recovery codes protected.\n\nDevice policy\n\nFollow your employer's requirements.\n\nWork-account recovery codes are distinct from wallet recovery phrases.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N07-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Workspace checks\n\nRemote work & community / N07\n\nAdapt the checklist to your work\n\nRemote Work Checklist: actual sections\n\nWorkspace\nCommunication\nBackups\nAdd role-specific tests\n\nCall, backup connection and recovery checks\n\nCrops exclude hardware-size recommendations and unrelated defaults.\n\nhashtagweb3.com/remote-work-checklist\n06 / 06"
+    },
+    {
+      "id": "C08-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 101,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nGive the reader a task\n\nLearning-objective example\n\nTopic\n\nExplain wallet approvals\n\nNames the subject\n\nReader task\n\nIdentify spender and cap\n\nBefore approving\n\nDefine what the reader will be able to do.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C08-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nKeep the question's context\n\nQuestion research note\n\nQuestion\n\n[exact question]\n\nSource\n\n[support, docs or research]\n\nUser task\n\n[what they were trying to do]\n\nEvidence status\n\n[observed or hypothetical]\n\nKeep an invented question labeled as hypothetical.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C08-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nBuild a claim sheet\n\nBlank claim sheet\n\nStatement\nPrimary source\nNetwork / version\nReviewer\n\nOne row per claim.\nBlank fields are for your source records.\n\nRecord the passage that supports the statement.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C08-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nTeach the failure path too\n\nProposed tutorial paths\n\nWallet signature request\nNormal flow\n\nExplain the next step.\n\nUser rejection\n\nExplain how to continue.\n\nUse test-account screenshots. Keep secrets and private data out of frame.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C08-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nGive reviewers different jobs\n\nTwo review passes, one tutorial\n\nTechnical reviewer\n\nFind an incorrect claim\n\nCheck the mechanics\n\nTarget reader\n\nFollow the steps\n\nIdentify the blocked step\n\nAssign a revision owner for each finding.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C08-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Technical content\n\nCareer & practical work / C08\n\nPlan the next revision\n\nContent maintenance loop\n\nSource changes\n\nA screen or function changes.\n\nContent owner\n\nReviews the affected step.\n\nMaintained guide\n\nReference for the full task.\n\nSocial excerpt\n\nTeach one specific part.\n\nRecheck\n\nUse focused social excerpts to teach one part of the reference guide.\n\nhashtagweb3.com/\ncontent-strategy-for-web3-projects\n06 / 06"
+    },
+    {
+      "id": "E08-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nSame address, different implementation\n\nUpgradeable proxy\n\nUser\nProxy address\n\nSame entry point\n\nImplementation A\n\nPrevious logic target\n\nImplementation B\n\nUpdated logic target\n\nAuthority changes the target.\n\nThe user's entry address can stay fixed while the logic changes.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E08-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nSeparate code from stored state\n\nDelegatecall-based proxy\n\nProxy\n\nHolds stored state\n\nBalances and settings remain here\n\nImplementation\n\nSupplies logic\n\nMust respect storage compatibility\n\nKeep state attached to the proxy as the implementation changes.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E08-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nFind the upgrade authority\n\nAlternative upgrade authorities\n\nSingle address\n\nInspect its permissions\n\nMultisig\n\nInspect owners and threshold\n\nGovernance\n\nInspect the actual process\n\nA decentralization label does not identify who can authorize an upgrade.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E08-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nVerification is one check\n\nDifferent review questions\n\nSource verification\n\nPublished source matches bytecode\n\nInspect proxy and implementation\n\nSecurity review\n\nAnalyze logic and controls\n\nVerification is not an audit\n\nA verified source page is not a safety guarantee.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E08-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nCheck the alternate control path\n\nHypothetical review question\n\nParameter change\n\nStated restricted function\n\nUpgrade authority\n\nCan it replace the logic?\n\nStated delay\n\nCheck the restricted path.\n\nAlternate path\n\nDoes the same delay apply?\n\nReview question only. No named protocol vulnerability is alleged.\n\nAsk whether another permission can bypass the stated delay.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E08-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 83,
+      "missingImages": [],
+      "renderedText": "Contract upgrades\n\nWeb3 explained / E08\n\nRecord which implementation you reviewed\n\nBlank implementation-review record\n\nNetwork\n\n[network checked]\n\nProxy\n\n[entry address]\n\nImplementation\n\n[logic reviewed]\n\nUpgrade authority\n\n[permission path]\n\nChecked date\n\n[date of review]\n\nAn old audit may describe an earlier implementation.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N08-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nRead the remote conditions\n\nRemote-role condition fields\n\nEligible location\n\n[where work is permitted]\n\nEmployment arrangement\n\n[agreement type]\n\nOverlap\n\n[required hours and zone]\n\nTravel policy\n\n[temporary-work conditions]\n\nRemote does not mean permission to work from any country.\n\nhashtagweb3.com/jobs\n01 / 06"
+    },
+    {
+      "id": "N08-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nHiring location and travel can differ\n\nSeparate questions for the employer\n\nHiring location\n\nCan you hire someone living where I live?\n\nTemporary travel\n\nCan I temporarily work elsewhere?\n\nGet the relevant policy in writing.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N08-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nTranslate overlap into actual hours\n\nBlank schedule comparison\n\nDates + reference zones\n\n[dates] / [team zone] / [your zone]\n\nTeam hours\nLocal hours\n\nOverlap: [confirm]\n\nOn-call coverage: [confirm]\n\nAsk whether the reference is fixed UTC or changing local business hours.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N08-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nIdentify the working arrangement\n\nWorking-arrangement questions\n\nContracting entity\n\n[who signs the agreement]\n\nEngagement type\n\n[employment or contracting]\n\nPayroll\n\n[who handles it]\n\nBenefits and paperwork\n\n[responsibilities to confirm]\n\nPayment in crypto does not determine the arrangement or work permission.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N08-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nCheck the access your role needs\n\nRole responsibility to policy question\n\nCustomer data\n\nDoes travel affect permitted access?\n\nInternal systems\n\nCan required systems be reached?\n\nSigning duties\n\nWhat does the treasury policy require?\n\nPolicy owner\n\nWho can confirm each answer?\n\nAsk the owner of each relevant policy.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N08-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Remote-role conditions\n\nRemote work & community / N08\n\nKeep the eligibility answer with the role\n\nBlank application-eligibility note\n\nLocation\n\n[confirmed answer]\n\nOverlap\n\n[hours and zone]\n\nAgreement type\n\n[confirmed arrangement]\n\nOpen questions\n\n[what remains unclear]\n\nConfirmed source\n\n[written policy or reply]\n\nConfirm changes before moving.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "C09-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nMake unresolved work visible\n\nProposed support queue\n\nNew\n\nOwner: [assign]\n\nInvestigating\n\nOwner: [assign]\n\nWaiting on user\n\nOwner: [assign]\n\nResolved\n\nOwner: [record]\n\nAn acknowledgment alone does not assign an investigator.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C09-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nCollect only useful diagnostics\n\nSupport intake template\n\nNetwork\n\n[network used]\n\nAttempted action\n\n[what the user tried]\n\nExact error\n\n[error text]\n\nHash if relevant\n\n[public transaction reference]\n\nNever request recovery phrases or private keys. Hashes can expose activity.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C09-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nRoute by the next action\n\nSample issue-to-owner routing\n\nBroken docs link\n\nContent: correct the guide\n\nTransaction error\n\nEngineering: reproduce the failure\n\nSuspected phishing\n\nSecurity contact: investigate\n\nRoute by the next action. Team structures vary.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C09-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nKeep one incident update record\n\nBlank incident-update structure\n\nConfirmed facts\n\n[known facts and timestamp]\n\nUser action\n\n[what users should do]\n\nUnknowns\n\n[what remains unverified]\n\nNext update\n\n[when to expect an update]\n\nKeep one timestamped record for moderators.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C09-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nTurn repeated questions into fixes\n\nHypothetical network-selector issue\n\n01\nRepeated question\n\nUsers miss the network selector.\n\n02\nObserved obstacle\n\nLink the original reports.\n\n03\nProposed change\n\nClarify the interface or guide.\n\nKeep reports attached to the proposed fix.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C09-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Community support\n\nCareer & practical work / C09\n\nMeasure response and resolution separately\n\nDifferent support milestones\n\nFirst response\n\nMessage acknowledged\n\nIssue may still be open\n\nResolution\n\nIssue addressed\n\nRecord the result\n\nAt handoff: unresolved owner + promised update.\n\nhashtagweb3.com/\nweb3-community-manager-career\n06 / 06"
+    },
+    {
+      "id": "E09-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nRead the threshold and the permissions\n\nIllustrative 2-of-3 Safe\n\nOwner A\n\nAuthorizes\n\nOwner B\n\nAuthorizes\n\nOwner C\n\nNot needed for this example\n\n2 authorizations meet the threshold\n\nStandard signature path\n\nStandard owner-signature path. Review other permissions separately.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E09-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nSeparate signatures from independent review\n\nSignature count versus review\n\nOne operator, several keys\n\nCan supply multiple signatures\n\nStill one reviewer\n\nIndependent reviewers\n\nEach checks recipient and asset\n\nEach checks the purpose\n\nA threshold counts signatures, not whether someone read the request.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E09-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nApproval is not a payment receipt\n\nSafe payment lifecycle\n\n01\nProposed\n\nPayment request prepared\n\n02\nSigned\n\nEnough authorizations collected\n\n03\nExecuted\n\nTransaction submitted onchain\n\n04\nConfirmed\n\nExecution receipt checked\n\nSignature collection alone is not a payment receipt.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E09-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nReview the module path\n\nSafe execution permissions\n\nOwner signatures\n\nUsual threshold checks\n\nEnabled module\n\nSeparate permission path\n\nOnchain execution\n\nModule path can bypass owner-signature checks.\n\nA module is a separate path only if enabled. Review what it can do.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E09-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nTest signer availability\n\nIllustrative 2-of-3 standard path\n\nOne unavailable\nA\nB\n×\n\nTwo remain.\nThreshold can be met.\n\nTwo unavailable\nA\n×\n×\n\nOne remains.\nStandard path is blocked.\n\nReview modules and recovery separately.\n\nWrite replacement and recovery procedures while access is available.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E09-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Multisig operations\n\nWeb3 explained / E09\n\nKeep the payment record complete\n\nTreasury-operation record\n\nPayment record\n\nRequest + reviewer checks + execution receipt\n\nAccount-permission review\n\nOwners + threshold + enabled modules\n\nReview configuration when responsibilities change.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N09-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nCheck status before comparing routes\n\nCitizenship reference checks\n\nPublished reference\n\nWhat route is described?\n\nIntake status\n\nAre applications currently accepted?\n\nOfficial authority\n\nWho confirms the terms?\n\nChecked date\n\nWhen was this verified?\n\nAn announced route is not the same as open intake.\n\nhashtagweb3.com/citizenship\n01 / 06"
+    },
+    {
+      "id": "N09-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nIdentify the actual outcome\n\nDifferent possible outcomes\n\nCitizenship\n\nCheck the authority's description\n\nResidence\n\nCheck the permission granted\n\nVisitor permission\n\nCheck the stated visit scope\n\nAn investment or relocation offer is not automatically a passport route.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N09-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nBuild the complete cost question\n\nPossible cost categories\n\nContribution or investment\n\nCheck the specified route.\n\nApplication + due diligence\n\nAsk what applies to your case.\n\nAgent + dependents\n\nAsk what is additional.\n\nThe advertised minimum is not a complete household quote.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N09-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nRead the holding and exit conditions\n\nUndated investment-lifecycle questions\n\n01\nHolding period\n\nHow long must the investment be held?\n\n02\nExit restrictions\n\nWhen and how could you sell?\n\n03\nCapital at risk\n\nWhat could be lost?\n\nDo not assume the investment is a refundable deposit.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N09-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Citizenship research\n\nRemote work & community / N09\n\nCheck the applicant-specific conditions\n\nQuestions for your actual case\n\nDocuments\n\nWhich records are required?\n\nBackground checks\n\nWhat process applies?\n\nPresence\n\nMust the applicant attend or reside?\n\nDependents\n\nWho qualifies under the terms?\n\nProcessing conditions\n\nWhat could affect completion?\n\nA headline processing time is not a completion promise.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C10-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nLeave enough to continue\n\nHandoff structure\n\nCurrent state\n\nWhat is true now?\n\nEvidence\n\nWhere can the next person inspect it?\n\nNext action\n\nWhat should happen next?\n\nOwner\n\nWho can continue?\n\nLeave enough context for someone working while you are offline.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "C10-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nRecord the attempted fix\n\nHypothetical debugging handoff\n\nIssue link\n\n[branch or issue]\n\nAttempted change\n\nSwitched RPC provider\n\nObserved result\n\nRetry still fails\n\nNext hypothesis\n\n[what to check next]\n\nLink logs in the issue. This is sample wording, not captured output.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "C10-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nState what blocks publication\n\nSample content handoff\n\n01\nApproved draft\n\nCopy is ready.\n\n02\nOpen question\n\nConfirm the feature name.\n\n03\nReviewer\n\nProduct sign-off needed.\n\n04\nRelease condition\n\nPublish after confirmation.\n\nA file name does not explain the blocker.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "C10-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nMake the deadline unambiguous\n\nDeadline wording\n\nAmbiguous\n\nBy tomorrow\n\nReader must infer the day\n\nExplicit template\n\n[date] at [time] [zone]\n\n[working-hours response window]\n\nUse a separate escalation route for urgent incidents.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "C10-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nKeep the reason with the decision\n\nDecision note attached to the task\n\nWork item\nChosen option\nReason\nDecider\nReview trigger\n\nLink the decision record from the work item.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "C10-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Async handoffs\n\nCareer & practical work / C10\n\nTry the no-history check\n\nBefore logging off\n\nChat history\n\nNot needed for this check.\n\nLocate the work\n\nCan you open the evidence?\n\nUnderstand the blocker\n\nCan you identify what is missing?\n\nIdentify the next owner\n\nCan someone continue offline?\n\nRead the handoff without relying on the surrounding conversation.\n\nhashtagweb3.com/remote-work-in-web3\n06 / 06"
+    },
+    {
+      "id": "E10-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nMint and token accounts differ\n\nSolana token-account model\n\nMint\n\nToken identity\n\nToken account A\n\nHoldings for owner A\n\nToken account B\n\nHoldings for owner B\n\nOwner A\n\nAuthority\n\nOwner B\n\nAuthority\n\nMint identity, holdings and owner authority are different roles.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "E10-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nRead the token's authority fields\n\nMint-account fields\n\nSupply\n\nRead the actual field.\n\nDecimals\n\nRead the unit scale.\n\nMint authority\n\nIf present, can create more units.\n\nFreeze authority\n\nIf present, can freeze token accounts.\n\nAuthorities are optional. Do not infer them from a token name.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "E10-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nOne wallet can own several accounts\n\nSame-mint example\n\nOne wallet owner\nToken account A\n\nHolds units of mint X\n\nToken account B\n\nAlso holds units of mint X\n\nA wallet can own several token accounts, even for one mint.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "E10-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nAccount payer and owner can differ\n\nAssociated token account\n\nOwner\nMint\nToken program\nDerived ATA\n\nStandard token account\n\nStorage payer\n\nFunds creation. Can be different from the owner.\n\nThe storage payer can differ from the recipient owner.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "E10-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nInstructions succeed or revert together\n\nHypothetical Solana transaction\n\nOne transaction: atomic instruction group\nCreate account\n\nHypothetical instruction\n\nTransfer tokens\n\nHypothetical instruction\n\nAll succeed\n\nChanges persist.\n\nExecution fails\n\nChanges revert together.\n\nExecution fees can still be charged when changes revert.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "E10-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Solana accounts\n\nWeb3 explained / E10\n\nFollow the token receipt to its owner\n\nReceipt-reading checklist\n\n01\nNetwork and status\n\nCheck the transaction context.\n\n02\nMint\n\nIdentify the exact token.\n\n03\nDestination token account\n\nInspect the receiving account.\n\n04\nOwner\n\nConfirm the intended wallet.\n\nA familiar symbol alone does not establish the intended asset or wallet.\n\nhashtagweb3.com\n06 / 06"
+    },
+    {
+      "id": "N10-01",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nKeep the context of the conversation\n\nBlank private follow-up note\n\nTheir work\n\n[relevant context]\n\nTopic discussed\n\n[conversation context]\n\nPromised follow-up\n\n[what you agreed to send]\n\nDate\n\n[when you spoke]\n\nGive the next message a specific reason to exist.\n\nhashtagweb3.com\n01 / 06"
+    },
+    {
+      "id": "N10-02",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nAsk about a specific decision\n\nSample wording, not an attributed exchange\n\nPublished work\n\n[the actual onboarding guide]\n\nReal observation\n\nIt separates setup from first use.\n\nFocused question\n\nWhat led you to that structure?\n\nUse a real observation. Leave room for a written reply.\n\nhashtagweb3.com\n02 / 06"
+    },
+    {
+      "id": "N10-03",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nGive the request a clear scope\n\nOutreach-note structure\n\nWhy this person\n\nName the relevant work or experience.\n\nTopic\n\nState the specific question.\n\nTime requested\n\nMake the scope clear.\n\nAsync option\n\nOffer a written reply.\n\nLet the recipient assess the request.\n\nhashtagweb3.com\n03 / 06"
+    },
+    {
+      "id": "N10-04",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nGet consent before connecting people\n\nTwo-sided introduction consent\n\nAsk person A\n\nExplain the shared context.\n\nAsk person B\n\nExplain the shared context.\n\nAgreed introduction\n\nConnect them after both consent.\n\nKnowing a handle is not permission to share it or add someone to a group.\n\nhashtagweb3.com\n04 / 06"
+    },
+    {
+      "id": "N10-05",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nReport the useful next step\n\nTemplate: use only after a real action\n\nSuggestion\n\n[the advice you received]\n\nAction taken\n\nClarified the setup step\n\nRevision link\n\n[the actual revision]\n\nRemaining question\n\n[specific follow-up, if needed]\n\nDescribe what you actually did, rather than inventing an anecdote.\n\nhashtagweb3.com\n05 / 06"
+    },
+    {
+      "id": "N10-06",
+      "issues": [],
+      "contrastFailures": [],
+      "headingFont": 94,
+      "missingImages": [],
+      "renderedText": "Professional follow-up\n\nRemote work & community / N10\n\nKeep only the context you need\n\nMinimal private relationship note\n\nConversation context\n\n[relevant topic only]\n\nAgreed follow-up\n\n[commitment to remember]\n\nPreferred channel\n\n[agreed way to contact]\n\nRemove sensitive details you do not need.\n\nhashtagweb3.com/\ncoffee-chat-etiquette-for-professionals\n06 / 06"
+    }
+  ]
+}

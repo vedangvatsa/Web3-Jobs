@@ -2,6 +2,7 @@ import path from 'node:path';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
+import { PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from './src/lib/social-share.ts';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
@@ -15,7 +16,8 @@ const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'conten
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
 const jobPageScopes = JSON.parse(readFileSync(path.join(projectRoot, 'content/job-age-page-scopes.json'), 'utf8'));
 const citizenshipPrograms = JSON.parse(readFileSync(path.join(projectRoot, 'content/citizenship.json'), 'utf8')).programs;
-const socialSuffixPattern = 'li|linkedin|x|tw|twitter|yt|youtube|th|threads|ig|insta|instagram|tg|telegram|rd|reddit|dc|discord|fc|warp|farcaster|bsky|bluesky|fb|facebook|tt|tiktok|hn|wa|whatsapp|nl|email';
+const socialSuffixPattern = Object.keys(SOCIAL_UTM_MAP).join('|');
+const glossaryCategoryPattern = 'blockchain-fundamentals|cryptocurrencies|defi|nfts|smart-contracts|protocols|governance|security|trading|technical';
 const citizenshipRedirects = citizenshipPrograms.flatMap(({ slug }) => [
   { source: `/citizenship/${slug}`, destination: `/citizenship#${slug}`, permanent: true },
   { source: `/citizenship/${slug}/:platform(${socialSuffixPattern})`, destination: `/citizenship/:platform#${slug}`, permanent: true },
@@ -141,72 +143,32 @@ const nextConfig = {
       },
       // Same jobs RSS as /jobs/feed.xml (legacy short URL)
       { source: '/feed.xml', destination: '/jobs/feed.xml', permanent: true },
-      { source: '/docs', destination: '/developers', permanent: true },
-      { source: '/api-docs', destination: '/developers', permanent: true },
-      { source: '/auth', destination: '/developers', permanent: true },
-      { source: '/api-policy', destination: '/api-policy.md', permanent: true },
+      ...Object.entries(PUBLIC_PAGE_ALIASES).map(([source, destination]) => ({
+        source,
+        destination,
+        permanent: !['/terms-of-use', '/terms', '/tos'].includes(source),
+      })),
       { source: '/docs/llms.txt', destination: '/developers/llms.txt', permanent: true },
       {
-        source: '/blog/:slug((?!llms\\.txt$).*)',
+        source: `/blog/:slug((?!(?:${socialSuffixPattern})(?:/|$)|llms\\.txt$).*)`,
         destination: '/:slug',
         permanent: true,
       },
       {
-        source: '/companies/:slug((?!llms\\.txt$).*)',
+        source: `/companies/:slug((?!(?:${socialSuffixPattern})(?:/|$)|llms\\.txt$).*)`,
         destination: '/:slug',
         permanent: true,
       },
       {
         source:
-          '/glossary/:slug((?!blockchain-fundamentals|cryptocurrencies|defi|nfts|smart-contracts|protocols|governance|security|trading|technical$).*)',
+          `/glossary/:slug((?!(?:${glossaryCategoryPattern}|${socialSuffixPattern})(?:/|$)).*)`,
         destination: '/:slug',
         permanent: true,
       },
-      { source: '/the-shape-of-ethereum-topological-anomaly-detection', destination: '/shape-of-ethereum', permanent: true },
-      { source: '/arbitrum-offchain-labs', destination: '/offchain-labs', permanent: true },
-      { source: '/arbitrum', destination: '/offchain-labs', permanent: true },
-      { source: '/certik-detailed', destination: '/certik', permanent: true },
-      { source: '/aztec-labs-privacy-l2', destination: '/aztec', permanent: true },
-      { source: '/aztec-labs', destination: '/aztec', permanent: true },
-      { source: '/aztec-network', destination: '/aztec', permanent: true },
-      // Tools and guides alias redirects
-      { source: '/tools/interview-questions', destination: '/interview-questions', permanent: true },
-      { source: '/tools/salary-calculator', destination: '/salary-calculator', permanent: true },
-      { source: '/tools/resume-builder', destination: '/resume-builder', permanent: true },
-      { source: '/tools', destination: '/', permanent: true },
-      { source: '/guides/web3-salaries', destination: '/salary-calculator', permanent: true },
-      { source: '/guides', destination: '/', permanent: true },
-      // what-is-* redirects for glossary terms
-      { source: '/what-is-bitcoin', destination: '/bitcoin', permanent: true },
-      { source: '/what-is-ethereum', destination: '/ethereum', permanent: true },
-      { source: '/what-is-solana', destination: '/jobs', permanent: true },
-      { source: '/what-is-defi', destination: '/defi', permanent: true },
-      { source: '/what-is-nft', destination: '/nft', permanent: true },
-      { source: '/what-is-web3', destination: '/web3', permanent: true },
-      { source: '/what-is-blockchain', destination: '/blockchain', permanent: true },
-       { source: '/where-b2b-stablecoin-money-actually-flows', destination: '/b2b-stablecoin-flows', permanent: true },
-       { source: '/what-is-dao', destination: '/dao', permanent: true },
-      { source: '/what-is-staking', destination: '/staking', permanent: true },
-      { source: '/what-is-a-token', destination: '/token', permanent: true },
-      { source: '/how-to-build-a-web3-resume', destination: '/how-to-build-a-web3-resume-that-stands-out', permanent: true },
-      { source: '/gas-optimization-guide-for-solidity-developers', destination: '/gas-optimization-techniques-for-solidity-developers', permanent: true },
-      { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
-      { source: '/deprecation-policy', destination: '/api-policy.md', permanent: true },
-      { source: '/versioning-policy', destination: '/api-policy.md', permanent: true },
-      { source: '/popups/ns', destination: '/ns', permanent: true },
-      { source: '/popups/logos', destination: '/logos-society', permanent: true },
-      { source: '/popups/logos-society', destination: '/logos-society', permanent: true },
       // Legacy /popups/:slug bookmarks → canonical root popup pages (content only on /[slug]).
       { source: `/popups/:slug((?!(?:${socialSuffixPattern})(?:/|$))[^/]+)`, destination: '/:slug', permanent: true },
-      // Renamed Sept 2026 news slugs
-      { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
-      { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
-      { source: '/jio', destination: '/jio-perpetuals', permanent: true },
       { source: `/jio/:platform(${socialSuffixPattern})`, destination: '/jio-perpetuals/:platform', permanent: true },
       ...Object.entries(canonicalEventRedirects).filter(([source, destination]) => source !== destination).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
-      { source: '/terms-of-use', destination: '/terms-of-use.md', permanent: false },
-      { source: '/terms', destination: '/terms-of-use.md', permanent: false },
-      { source: '/tos', destination: '/terms-of-use.md', permanent: false },
     ]
   },
   async rewrites() {

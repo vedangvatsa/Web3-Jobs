@@ -79,6 +79,7 @@ jobs:
       skip: ${{ steps.set.outputs.skip }}
       deploy: ${{ steps.set.outputs.deploy }}
       date: ${{ steps.set.outputs.date }}
+      knowledge_due: ${{ steps.knowledge.outputs.due }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -142,6 +143,20 @@ jobs:
           node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
           node scripts/social/job-video-slot.mjs "$SLOT" "$TODAY" >> "$GITHUB_OUTPUT"
 
+      - id: knowledge
+        name: Check independent knowledge thread window
+        continue-on-error: true
+        env:
+          KNOWLEDGE_DATE: ${{ steps.set.outputs.date }}
+          KNOWLEDGE_SLOT: ${{ steps.set.outputs.slot }}
+          KNOWLEDGE_WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
+          KNOWLEDGE_ONLY_NEWS: ${{ github.event.inputs.only_news }}
+          KNOWLEDGE_NEWS_DRY_RUN: ${{ github.event.inputs.news_dry_run }}
+          KNOWLEDGE_DRY_RUN: ${{ github.event.inputs.dry_run }}
+          KNOWLEDGE_DIAGNOSE_TELEGRAM: ${{ github.event.inputs.diagnose_telegram }}
+          KNOWLEDGE_DIAGNOSE_CONTENT: ${{ github.event.inputs.diagnose_content }}
+        run: node scripts/social/newknowledge-plan.mjs
+
   ingest:
     needs: [gate]
     if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' }}
@@ -185,6 +200,18 @@ jobs:
     with:
       slot: ${{ needs.gate.outputs.slot }}
       date: ${{ needs.gate.outputs.date }}
+    secrets: inherit
+
+  knowledge-threads:
+    needs: [gate]
+    if: ${{ needs.gate.outputs.knowledge_due == 'true' }}
+    permissions:
+      contents: write
+    uses: ./.github/workflows/newknowledge-threads.yml
+    with:
+      date: ${{ needs.gate.outputs.date }}
+      slot: ${{ needs.gate.outputs.slot }}
+      mode: publish
     secrets: inherit
 
   diagnose:

@@ -1,4 +1,57 @@
 {
+  "kamino": {
+    "name": "Kamino",
+    "website": "https://kamino.com/",
+    "description": "Kamino is an open source credit and liquidity protocol built on Solana.",
+    "published": true,
+    "verified": true,
+    "checkedAt": "2026-10-16T22:59:04.163Z",
+    "socialLinks": {
+      "twitter": "https://x.com/kamino"
+    },
+    "logo": "/logo/companies/kamino.png",
+    "provenance": {
+      "website": {
+        "url": "https://kamino.com",
+        "checkedAt": "2026-10-16T22:59:04.163Z",
+        "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df"
+      },
+      "about": [
+        {
+          "url": "https://kamino.com",
+          "checkedAt": "2026-10-16T22:59:04.163Z",
+          "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df",
+          "title": "Kamino | Solana DeFi Protocol",
+          "excerpt": "Kamino is an open source credit and liquidity protocol built on Solana. The protocol enables institutions and retail users to generate returns on their assets and borrow against their crypto collateral, all via transparent and secure onchain markets."
+        }
+      ],
+      "socials": [
+        {
+          "key": "twitter",
+          "url": "https://x.com/kamino",
+          "sourceUrl": "https://kamino.com/docs",
+          "checkedAt": "2026-10-16T22:59:05.140Z",
+          "bodySha256": "d0b87d476adceb66a06a57aea5ceba570938ba6434cfa29d1775388072fb904b"
+        }
+      ],
+      "branding": {
+        "url": "https://kamino.com/apple-touch-icon.png",
+        "sourceUrl": "https://kamino.com",
+        "kind": "apple-touch-icon",
+        "finalUrl": "https://kamino.com/apple-touch-icon.png",
+        "checkedAt": "2026-10-16T22:59:09.245Z",
+        "bodySha256": "b4b67efcbad4b2f0af9f5f1c5f97621816b71573953548a1cf939d7a3e32913c",
+        "localPath": "/logo/companies/kamino.png",
+        "localSha256": "b4b67efcbad4b2f0af9f5f1c5f97621816b71573953548a1cf939d7a3e32913c",
+        "width": 180,
+        "height": 180
+      }
+    },
+    "gaps": [
+      "No official-site outbound careers link observed; the user-supplied Ashby board is pinned to its public organization identity and website.",
+      "Original posting dates for the 10 observed roles are unverified; no jobs imported."
+    ]
+  },
   "coinmotion": {
     "name": "Coinmotion",
     "website": "https://coinmotion.com/",

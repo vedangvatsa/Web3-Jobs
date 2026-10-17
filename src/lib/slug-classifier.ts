@@ -1,7 +1,11 @@
 import slugTypesJson from '../../content/slug-types.json';
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
+import jobsRuntimeJson from '../../content/jobs-runtime.json';
+import type { Job } from '@/types';
 import { getPopupSlugs } from '@/lib/popups';
 import { resolveLearnRoute } from '@/lib/learn-routes';
+import { hasLiveJobRootOwner } from '@/lib/job-root-ownership';
+import type { ArchivedSlugRecord } from '@/lib/job-guides';
 
 export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job' | 'learn';
 
@@ -30,9 +34,9 @@ const glossarySet = new Set(data.glossary);
 const resourceSet = new Set(data.resources);
 const articleSet = new Set(data.articles);
 
-/** Historical job slugs from Telegram / bookmarks — must win over glossary & articles. */
+const legacyArchive = legacyArchiveJson as Record<string, ArchivedSlugRecord>;
 const legacyJobSlugSet = new Set(
-  Object.keys(legacyArchiveJson as Record<string, unknown>).map((s) => s.toLowerCase().trim()),
+  Object.keys(legacyArchive).map((s) => s.toLowerCase().trim()),
 );
 
 export function classifySlug(slug: string): SlugType {
@@ -41,7 +45,12 @@ export function classifySlug(slug: string): SlugType {
   if (eventSet.has(norm)) return 'event';
   if (companySet.has(norm)) return 'company';
   if (popupSet.has(norm)) return 'popup';
-  if (legacyJobSlugSet.has(norm)) return 'job';
+  // An archive reservation alone cannot shadow published content. Keep job
+  // precedence only while its canonical posting or identity-verified alias resolves.
+  if (legacyJobSlugSet.has(norm) && (
+    (!glossarySet.has(norm) && !resourceSet.has(norm) && !articleSet.has(norm))
+    || hasLiveJobRootOwner(norm, legacyArchive[norm], jobsRuntimeJson as Job[])
+  )) return 'job';
   if (glossarySet.has(norm)) return 'glossary';
   if (resourceSet.has(norm)) return 'resource';
   if (articleSet.has(norm)) return 'article';

@@ -1,0 +1,332 @@
+[
+  {
+    "file": "assets/resume-project-control.jpg",
+    "url": "https://hashtagweb3.com/resume-builder",
+    "capturedAt": "2026-10-17T00:02:05.385Z",
+    "title": "Resume Builder | Hashtag Web3",
+    "visibleText": "Add Project",
+    "detail": "Real add-project control, all sample entries excluded.",
+    "width": 290,
+    "height": 80
+  },
+  {
+    "file": "assets/resume-experience-control.jpg",
+    "url": "https://hashtagweb3.com/resume-builder",
+    "capturedAt": "2026-10-17T00:02:05.495Z",
+    "title": "Resume Builder | Hashtag Web3",
+    "visibleText": "Add Experience",
+    "detail": "Real add-experience control, all personal and sample values excluded.",
+    "width": 344,
+    "height": 80
+  },
+  {
+    "file": "assets/nomads-rank-cost.jpg",
+    "url": "https://hashtagweb3.com/nomads?category=cost",
+    "capturedAt": "2026-10-17T00:02:13.335Z",
+    "title": "Digital Nomad Resources | Hashtag Web3",
+    "visibleText": "Rank by\nOverall score\nLiving costs\nInternet speed\nSafety\nWalkability\nTemperature\nRainfall\nHumidity",
+    "detail": "Ranking selector in Living costs state; results excluded.",
+    "width": 352,
+    "height": 88
+  },
+  {
+    "file": "assets/nomads-rank-internet.jpg",
+    "url": "https://hashtagweb3.com/nomads?category=internet",
+    "capturedAt": "2026-10-17T00:02:13.478Z",
+    "title": "Digital Nomad Resources | Hashtag Web3",
+    "visibleText": "Rank by\nOverall score\nLiving costs\nInternet speed\nSafety\nWalkability\nTemperature\nRainfall\nHumidity",
+    "detail": "Ranking selector in Internet speed state; results excluded.",
+    "width": 352,
+    "height": 88
+  },
+  {
+    "file": "assets/nomads-compare.jpg",
+    "url": "https://hashtagweb3.com/nomads?category=internet",
+    "capturedAt": "2026-10-17T00:02:13.595Z",
+    "title": "Digital Nomad Resources | Hashtag Web3",
+    "visibleText": "Compare",
+    "detail": "Compare control only, without city identity, cost or ranking.",
+    "width": 224,
+    "height": 88
+  },
+  {
+    "file": "assets/popups-popup.jpg",
+    "url": "https://hashtagweb3.com/popups",
+    "capturedAt": "2026-10-17T00:02:19.845Z",
+    "title": "Startup Societies | Hashtag Web3",
+    "visibleText": "Types\nPopup\nPermanent\nCity / SEZ",
+    "detail": "Genuine type filter state; listings and all availability details excluded.",
+    "width": 236,
+    "height": 90
+  },
+  {
+    "file": "assets/popups-permanent.jpg",
+    "url": "https://hashtagweb3.com/popups",
+    "capturedAt": "2026-10-17T00:02:19.963Z",
+    "title": "Startup Societies | Hashtag Web3",
+    "visibleText": "Types\nPopup\nPermanent\nCity / SEZ",
+    "detail": "Genuine type filter state; listings and all availability details excluded.",
+    "width": 236,
+    "height": 90
+  },
+  {
+    "file": "assets/popups-city.jpg",
+    "url": "https://hashtagweb3.com/popups",
+    "capturedAt": "2026-10-17T00:02:20.078Z",
+    "title": "Startup Societies | Hashtag Web3",
+    "visibleText": "Types\nPopup\nPermanent\nCity / SEZ",
+    "detail": "Genuine type filter state; listings and all availability details excluded.",
+    "width": 236,
+    "height": 90
+  },
+  {
+    "file": "assets/jd-responsibilities.jpg",
+    "url": "https://hashtagweb3.com/jd-builder",
+    "capturedAt": "2026-10-17T00:13:54.460Z",
+    "title": "JD Builder | Hashtag Web3",
+    "visibleText": "Responsibilities",
+    "detail": "Real form section heading; sample employer and compensation content excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 358,
+    "height": 61
+  },
+  {
+    "file": "assets/jd-required.jpg",
+    "url": "https://hashtagweb3.com/jd-builder",
+    "capturedAt": "2026-10-17T00:13:54.550Z",
+    "title": "JD Builder | Hashtag Web3",
+    "visibleText": "Qualifications",
+    "detail": "Real form section heading; sample employer and compensation content excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 318,
+    "height": 57
+  },
+  {
+    "file": "assets/jd-preferred.jpg",
+    "url": "https://hashtagweb3.com/jd-builder",
+    "capturedAt": "2026-10-17T00:13:54.676Z",
+    "title": "JD Builder | Hashtag Web3",
+    "visibleText": "Preferred Qualifications",
+    "detail": "Real form section heading; sample employer and compensation content excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 536,
+    "height": 57
+  },
+  {
+    "file": "assets/jd-add-control.jpg",
+    "url": "https://hashtagweb3.com/jd-builder",
+    "capturedAt": "2026-10-17T00:13:54.782Z",
+    "title": "JD Builder | Hashtag Web3",
+    "visibleText": "Add",
+    "detail": "Real list-item editing control.",
+    "width": 188,
+    "height": 80
+  },
+  {
+    "file": "assets/interview-navigation.jpg",
+    "url": "https://hashtagweb3.com/interview-questions",
+    "capturedAt": "2026-10-17T00:13:57.087Z",
+    "title": "Interview Questions | Hashtag Web3",
+    "visibleText": "Frontend dApp Engineer",
+    "detail": "Real role navigation link. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 289,
+    "height": 40
+  },
+  {
+    "file": "assets/interview-scoring.jpg",
+    "url": "https://hashtagweb3.com/interview-questions",
+    "capturedAt": "2026-10-17T00:13:57.207Z",
+    "title": "Interview Questions | Hashtag Web3",
+    "visibleText": "Appendix B: Scoring Guide",
+    "detail": "Actual scoring-guide section heading, tightly cropped for mobile legibility. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 537,
+    "height": 57
+  },
+  {
+    "file": "assets/visa-tabs.jpg",
+    "url": "https://hashtagweb3.com/visas",
+    "capturedAt": "2026-10-17T00:13:58.582Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Visa programs\nPassport checker",
+    "detail": "Actual program and passport-checker navigation.",
+    "width": 582,
+    "height": 88
+  },
+  {
+    "file": "assets/visa-search.jpg",
+    "url": "https://hashtagweb3.com/visas",
+    "capturedAt": "2026-10-17T00:13:58.700Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "",
+    "detail": "Empty program search.",
+    "width": 868,
+    "height": 88
+  },
+  {
+    "file": "assets/visa-official-source.jpg",
+    "url": "https://hashtagweb3.com/visas",
+    "capturedAt": "2026-10-17T00:13:58.816Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "",
+    "detail": "Official-source icon control only; its country-specific card is excluded.",
+    "width": 88,
+    "height": 88
+  },
+  {
+    "file": "assets/visa-requirements.jpg",
+    "url": "https://hashtagweb3.com/visas",
+    "capturedAt": "2026-10-17T00:13:58.950Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Key Requirements",
+    "detail": "Actual field heading without eligibility details. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 202,
+    "height": 38
+  },
+  {
+    "file": "assets/checker-checked.jpg",
+    "url": "https://hashtagweb3.com/visas?tab=checker&passport=india",
+    "capturedAt": "2026-10-17T00:14:00.402Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Checked · government-backed baseline",
+    "detail": "Genuine evidence-status label. Destination and entry outcomes excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 467,
+    "height": 40
+  },
+  {
+    "file": "assets/checker-historical.jpg",
+    "url": "https://hashtagweb3.com/visas?tab=checker&passport=india",
+    "capturedAt": "2026-10-17T00:14:00.518Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Historical official evidence",
+    "detail": "Genuine evidence-status label. Destination and entry outcomes excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 313,
+    "height": 36
+  },
+  {
+    "file": "assets/checker-unresolved.jpg",
+    "url": "https://hashtagweb3.com/visas?tab=checker&passport=india",
+    "capturedAt": "2026-10-17T00:14:00.634Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Unresolved official review",
+    "detail": "Genuine evidence-status label. Destination and entry outcomes excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 307,
+    "height": 36
+  },
+  {
+    "file": "assets/checker-conditions.jpg",
+    "url": "https://hashtagweb3.com/visas?tab=checker&passport=india",
+    "capturedAt": "2026-10-17T00:14:00.753Z",
+    "title": "Visas for Digital Nomads | Hashtag Web3",
+    "visibleText": "Conditions & sources",
+    "detail": "Actual conditions disclosure control; destination and rule excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 282,
+    "height": 35
+  },
+  {
+    "file": "assets/remote-workspace.jpg",
+    "url": "https://hashtagweb3.com/remote-work-checklist",
+    "capturedAt": "2026-10-17T00:14:02.290Z",
+    "title": "Remote Work Checklist | Hashtag Web3",
+    "visibleText": "Workspace Setup",
+    "detail": "Actual checklist section heading. Equipment recommendations excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 409,
+    "height": 61
+  },
+  {
+    "file": "assets/remote-communication.jpg",
+    "url": "https://hashtagweb3.com/remote-work-checklist",
+    "capturedAt": "2026-10-17T00:14:02.409Z",
+    "title": "Remote Work Checklist | Hashtag Web3",
+    "visibleText": "Communication & Collaboration",
+    "detail": "Actual checklist section heading. Equipment recommendations excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 409,
+    "height": 102
+  },
+  {
+    "file": "assets/remote-backup-control.jpg",
+    "url": "https://hashtagweb3.com/remote-work-checklist",
+    "capturedAt": "2026-10-17T00:14:02.516Z",
+    "title": "Remote Work Checklist | Hashtag Web3",
+    "visibleText": "Automated file and code backups are enabled",
+    "detail": "Actual unchecked backup task control.",
+    "width": 604,
+    "height": 104
+  },
+  {
+    "file": "assets/invoice-payment-control.jpg",
+    "url": "https://hashtagweb3.com/invoice-generator",
+    "capturedAt": "2026-10-17T00:22:21.628Z",
+    "title": "Invoice Generator | Hashtag Web3",
+    "visibleText": "Payment Method",
+    "detail": "Real payment method label and text input.",
+    "width": 586,
+    "height": 136
+  },
+  {
+    "file": "assets/invoice-notes-control.jpg",
+    "url": "https://hashtagweb3.com/invoice-generator",
+    "capturedAt": "2026-10-17T00:22:21.739Z",
+    "title": "Invoice Generator | Hashtag Web3",
+    "visibleText": "Notes",
+    "detail": "Real empty notes field. Default text cleared through normal input interaction.",
+    "width": 1200,
+    "height": 216
+  },
+  {
+    "file": "assets/citizenship-investment.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:23.967Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Investment",
+    "detail": "Real comparison row header only. Country-specific cells excluded. Tight crop uses the rendered text bounds of the genuine table cell. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 163,
+    "height": 39
+  },
+  {
+    "file": "assets/citizenship-holding-conditions.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:24.083Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Holding conditions",
+    "detail": "Real comparison row header only. Country-specific cells excluded. Tight crop uses the rendered text bounds of the genuine table cell. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 264,
+    "height": 44
+  },
+  {
+    "file": "assets/citizenship-additional-fees.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:24.198Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Additional fees",
+    "detail": "Real comparison row header only. Country-specific cells excluded. Tight crop uses the rendered text bounds of the genuine table cell. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 214,
+    "height": 40
+  },
+  {
+    "file": "assets/citizenship-presence.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:24.316Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Presence",
+    "detail": "Real comparison row header only. Country-specific cells excluded. Tight crop uses the rendered text bounds of the genuine table cell. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 140,
+    "height": 38
+  },
+  {
+    "file": "assets/citizenship-sources.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:24.444Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Sources",
+    "detail": "Real comparison row header only. Country-specific cells excluded. Tight crop uses the rendered text bounds of the genuine table cell. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 124,
+    "height": 39
+  },
+  {
+    "file": "assets/citizenship-source-control.jpg",
+    "url": "https://hashtagweb3.com/citizenship?compare=nauru,vanuatu",
+    "capturedAt": "2026-10-17T00:22:24.547Z",
+    "title": "Citizenship by investment | Hashtag Web3",
+    "visibleText": "Official program",
+    "detail": "Actual official-source link control; country data excluded. Outer blank screenshot margin cropped; content unchanged.",
+    "width": 264,
+    "height": 44
+  }
+]

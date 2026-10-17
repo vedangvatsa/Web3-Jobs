@@ -1,4 +1,5 @@
 import test from 'node:test';
+import './test-kamino-source';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { createHash } from 'node:crypto';
