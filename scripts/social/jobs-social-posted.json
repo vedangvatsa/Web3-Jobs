@@ -18609,9 +18609,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "a60479c7-40cb-480f-a94e-25ec3747d067",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad35dfc0a208cb3231a679d",
-      "error": "LinkedIn #Web3 receipt 6ad35dfc0a208cb3231a679d remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad35dfc0a208cb3231a679d remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517187126191382528"
     },
     {
       "slug": "infra23",
