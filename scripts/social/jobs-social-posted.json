@@ -17826,6 +17826,34 @@
       "attemptId": "df5a0127-1109-4378-a659-ec3136017a73",
       "verification": "verified",
       "postId": "urn:li:share:7517186567111852032"
+    },
+    {
+      "slug": "eng155",
+      "company": "Ondo Finance",
+      "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+      "platform": "facebook",
+      "postedAt": "2026-10-17T11:33:15.793Z",
+      "expectedText": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/fb?og=7",
+      "snapshot": {
+        "id": "4360091009",
+        "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4360091009",
+        "date": "2026-09-18T12:24:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote (US)",
+        "department": "Software Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng155"
+      },
+      "payload": {
+        "message": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/fb?og=7",
+        "link": "https://hashtagweb3.com/eng155/fb?og=7"
+      },
+      "attemptId": "6ec31eb9-0ce8-4319-a093-b4cab96949de",
+      "verification": "creating"
     }
   ]
 }
