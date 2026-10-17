@@ -16202,6 +16202,39 @@
       "verification": "creating",
       "containerId": "18097409849199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"A-2oqFcjhx3E-T4er72Gz6d\"}}"
+    },
+    {
+      "slug": "an83",
+      "company": "Figure",
+      "title": "Senior Data Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-10-17T03:57:18.131Z",
+      "expectedText": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/bsky?og=7",
+      "snapshot": {
+        "id": "8860479002",
+        "title": "Senior Data Analyst",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8860479002",
+        "date": "2026-10-08T15:13:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Analytics",
+        "active": true,
+        "salary": "$110k – $140k/yr",
+        "dateVerified": true,
+        "slug": "an83"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/an83/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/an83.png?v=7",
+        "company": "Figure",
+        "title": "Senior Data Analyst",
+        "description": "Join Figure as Senior Data Analyst. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "fa476b3c-688f-4fae-ae16-6d051f6177d0",
+      "verification": "creating"
     }
   ]
 }
