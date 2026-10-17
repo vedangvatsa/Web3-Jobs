@@ -16171,6 +16171,35 @@
       "verification": "verified",
       "postId": "6ad2f2208ac6cfe5442be184",
       "permalink": "https://twitter.com/hashtag_web3/status/2111305538101207067"
+    },
+    {
+      "slug": "an83",
+      "company": "Figure",
+      "title": "Senior Data Analyst",
+      "platform": "threads",
+      "postedAt": "2026-10-17T03:57:18.131Z",
+      "expectedText": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/th?og=7",
+      "snapshot": {
+        "id": "8860479002",
+        "title": "Senior Data Analyst",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8860479002",
+        "date": "2026-10-08T15:13:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Analytics",
+        "active": true,
+        "salary": "$110k – $140k/yr",
+        "dateVerified": true,
+        "slug": "an83"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Analyst: https://hashtagweb3.com/an83/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/an83/th?og=7"
+      },
+      "attemptId": "4029c8d3-e475-49b7-8601-597c7031571c",
+      "verification": "creating"
     }
   ]
 }
