@@ -2606,5 +2606,78 @@
     "slotKey": "2026-10-16:evening",
     "messageId": 155792,
     "sentAt": "2026-10-16T19:35:37.018Z"
+  },
+  "63de18b9-18e6-49ec-b999-27a39d661a9d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T03:54:50.348Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "20675d00-156c-4f3f-a9bf-4cacee176bc2",
+          "title": "Software Engineer - Intern (Frontend)",
+          "company": "Merkle Science",
+          "link": "https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2",
+          "date": "2026-09-28T18:34:13.631Z",
+          "source": "Lever: Merkle Science [merklescience]",
+          "location": "Hybrid (Bangalore)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fe18"
+        },
+        "key": "20675d00-156c-4f3f-a9bf-4cacee176bc2",
+        "slug": "fe18",
+        "url": "https://hashtagweb3.com/fe18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Merkle Science",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8247120",
+          "title": "Monetization Operations Analyst",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8247120",
+          "date": "2026-10-16T04:16:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Bengaluru",
+          "department": "4202 BFin - FinOps (SDC)",
+          "active": true,
+          "slug": "ops107",
+          "dateVerified": true
+        },
+        "key": "8247120",
+        "slug": "ops107",
+        "url": "https://hashtagweb3.com/ops107?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Monetization Operations Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8230730",
+          "title": "Customer Experience Representative, Trump Accounts",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8230730?t=gh_src=&gh_jid=8230730",
+          "date": "2026-09-25T12:24:54-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Westlake, TX",
+          "department": "Customer Care",
+          "active": true,
+          "salary": "$25 – $29/hr",
+          "dateVerified": true,
+          "slug": "sls110"
+        },
+        "key": "8230730",
+        "slug": "sls110",
+        "url": "https://hashtagweb3.com/sls110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Customer Experience Representative"
+      }
+    ],
+    "message": "- Merkle Science is hiring <a href=\"https://hashtagweb3.com/fe18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Intern (Frontend)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops107?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Monetization Operations Analyst</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/sls110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Representative, Trump Accounts</a>",
+    "slotKey": "2026-10-17:morning"
   }
 }
