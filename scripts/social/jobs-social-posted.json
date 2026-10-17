@@ -17781,7 +17781,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0ebb496b-6807-4fec-980d-12329922e255",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad35d7b0b0d72757ad4fe88"
     }
   ]
 }
