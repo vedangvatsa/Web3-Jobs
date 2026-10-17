@@ -17742,6 +17742,46 @@
       "verification": "pending",
       "postId": "6ad35d6c0b0d72757ad4fb86",
       "error": "LinkedIn #Web3 receipt 6ad35d6c0b0d72757ad4fb86 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "eng155",
+      "company": "Ondo Finance",
+      "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T11:33:15.793Z",
+      "expectedText": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/li?og=7",
+      "snapshot": {
+        "id": "4360091009",
+        "title": "Site Reliability Engineer - Low-Latency Trading Systems",
+        "company": "Ondo Finance",
+        "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4360091009",
+        "date": "2026-09-18T12:24:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ondo Finance [ondofinance]",
+        "location": "Remote (US)",
+        "department": "Software Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng155"
+      },
+      "payload": {
+        "text": "Ondo Finance is hiring Site Reliability Engineer - Low-Latency Trading Systems: https://hashtagweb3.com/eng155/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng155/li?og=7",
+          "title": "Site Reliability Engineer - Low-Latency Trading Systems at Ondo Finance",
+          "description": "Join Ondo Finance as Site Reliability Engineer - Low-La. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng155.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "0ebb496b-6807-4fec-980d-12329922e255",
+      "verification": "creating"
     }
   ]
 }
