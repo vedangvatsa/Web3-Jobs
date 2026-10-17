@@ -749,6 +749,9 @@
   "https://hashtagweb3.com/atom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/resellers?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nsfarcaster?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/saldo-bank?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/heart-arrest?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/alpenglow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2154,6 +2157,12 @@
   "Trezor ends reseller deals as Ledger pauses regional sales",
   "Trezor cuts resellers as Ledger halts sales in seven markets",
   "Network School Acquires Farcaster From Neynar",
+  "Payward to acquire Saldo Bank for EU banking license",
+  "Payward agrees to buy Saldo Bank for EU banking license",
+  "HEX founder Richard Heart arrested in Istanbul",
+  "Richard Heart detained in Istanbul on Finnish request",
+  "Solana to implement Alpenglow consensus update on October 21",
+  "Solana sets Oct. 21 for Alpenglow consensus switch",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2453,5 +2462,8 @@
   "fp:are|becom|blockchain|holder|independent|layer1|network|october22|open|poll",
   "fp:849|android|app|application|atom|com|devic|edition|founder|in2027",
   "fp:asian|authorization|cut|dur|end|halt|in2027|investigation|ledger|market",
-  "fp:accept|acquir|buyer|client|farcaster|keep|must|network|neynar|open"
+  "fp:accept|acquir|buyer|client|farcaster|keep|must|network|neynar|open",
+  "fp:acquir|agre|approval|bank|buy|clos|expect|follow|in2027|licens",
+  "fp:2026|arrest|authority|custody|detain|entrepreneur|finland|finnish|follow|founder",
+  "fp:aim|alpenglow|consensus|epoch1064|finality|for150|implement|millisecond|network|oct21"
 ]
