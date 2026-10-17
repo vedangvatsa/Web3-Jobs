@@ -755,6 +755,9 @@
   "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
   "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
   "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+  "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+  "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+  "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2048,6 +2051,12 @@
   "Jev is Vercel’s fastest-adopted AI model ever",
   "Mark Wahlberg approves AI digital clones for future films",
   "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+  "Ars Technica previews documentary tracking online romance scammers",
+  "Super Scam Me documentary shows what it takes to catch a romance scammer",
+  "Veritas expands anti-counterfeit chip to luxury consumer goods",
+  "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+  "Researchers simulate solar geoengineering risks during geopolitical conflicts",
+  "They war-gamed dimming the Sun. It went even worse than you think.",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2320,5 +2329,8 @@
   "fp:access|action|breach|committ|demonstrat|hack|illegal|mor|openai|perform",
   "fp:abus|apprehend|arrest|attorney|child|cop|csam|deputy|enforcement|follow",
   "fp:achiev|adopt|adoption|among|application|build|connect|developer|ever|fastest",
-  "fp:actor|approv|carry|cinema|clon|creativity|digital|enhanc|film|futur"
+  "fp:actor|approv|carry|cinema|clon|creativity|digital|enhanc|film|futur",
+  "fp:border|catch|complex|cybercriminal|deception|documentary|film|financial|follow|fraud",
+  "fp:anti|authenticity|bottl|brand|chip|combat|consumer|counterfeit|emb|expand",
+  "fp:abruptly|catastrophic|computer|conflict|dimm|dur|even|failur|gam|geoengineer"
 ]

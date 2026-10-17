@@ -1676,7 +1676,7 @@
     "sentAt": "2026-10-17T11:33:57.171Z"
   },
   "935b043d-4ec5-4299-b7c9-676f8356f7d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T19:33:10.569Z",
     "stories": [
       {
@@ -1710,6 +1710,8 @@
         "originalTitle": "They war-gamed dimming the Sun. It went even worse than you think."
       }
     ],
-    "slotKey": "2026-10-17:evening"
+    "slotKey": "2026-10-17:evening",
+    "messageId": 193366,
+    "sentAt": "2026-10-17T19:33:12.939Z"
   }
 }
