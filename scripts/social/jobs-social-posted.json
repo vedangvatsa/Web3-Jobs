@@ -15982,6 +15982,46 @@
       "attemptId": "60296fa5-de21-4f3a-b136-8eb8785965d8",
       "verification": "verified",
       "postId": "0x304eae940a86f99699b79e462226fbe503083ccc"
+    },
+    {
+      "slug": "be13",
+      "company": "Mesh",
+      "title": "Staff Backend Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-17T03:54:18.702Z",
+      "expectedText": "Mesh is hiring Staff Backend Engineer: https://hashtagweb3.com/be13/li?og=7",
+      "snapshot": {
+        "id": "5424582008",
+        "title": "Staff Backend Engineer",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5424582008",
+        "date": "2026-09-17T12:42:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "Bangalore, India",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be13"
+      },
+      "payload": {
+        "text": "Mesh is hiring Staff Backend Engineer: https://hashtagweb3.com/be13/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/be13/li?og=7",
+          "title": "Staff Backend Engineer at Mesh",
+          "description": "Join Mesh as Staff Backend Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/be13.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "f35b7a29-b58c-4472-a2a6-ac40f12d8b38",
+      "verification": "creating"
     }
   ]
 }
