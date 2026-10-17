@@ -5362,5 +5362,101 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 132,
     "sentAt": "2026-10-17T03:54:44.971Z"
+  },
+  "0d74f5ab-5cc8-4661-b5cc-3fa59f843ba2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:33:30.597Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "1f8a5f5c-06b7-4b1d-8fa3-8bb43f9dbbbd",
+          "title": "Escalations And Complaints Lead",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/1f8a5f5c-06b7-4b1d-8fa3-8bb43f9dbbbd",
+          "date": "2026-10-01T20:40:50.990+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "CX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ec"
+        },
+        "key": "1f8a5f5c-06b7-4b1d-8fa3-8bb43f9dbbbd",
+        "slug": "ec",
+        "url": "https://hashtagweb3.com/ec?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Escalations And Complaints Lead"
+      },
+      {
+        "snapshot": {
+          "id": "0c80fbcd-cbbc-4ae4-afd6-98f4e69e9f08",
+          "title": "Senior Software Engineer, Frontend",
+          "company": "Sorare",
+          "link": "https://jobs.ashbyhq.com/Sorare/0c80fbcd-cbbc-4ae4-afd6-98f4e69e9f08",
+          "date": "2026-09-18T09:10:00.763+00:00",
+          "source": "Ashby: Sorare [Sorare]",
+          "location": "Paris",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fe2"
+        },
+        "key": "0c80fbcd-cbbc-4ae4-afd6-98f4e69e9f08",
+        "slug": "fe2",
+        "url": "https://hashtagweb3.com/fe2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sorare",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4557d4e7-7588-404d-860c-edf68a1ab200",
+          "title": "Product Manager, Fiat & FCM",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/4557d4e7-7588-404d-860c-edf68a1ab200",
+          "date": "2026-09-24T23:44:45.706Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Malta)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm146"
+        },
+        "key": "4557d4e7-7588-404d-860c-edf68a1ab200",
+        "slug": "pm146",
+        "url": "https://hashtagweb3.com/pm146?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "dac100e9-01f6-4bf5-9285-221d572f8278",
+          "title": "Trading Operations Lead",
+          "company": "Gauntlet",
+          "link": "https://jobs.lever.co/gauntlet/dac100e9-01f6-4bf5-9285-221d572f8278",
+          "date": "2026-10-12T13:54:41.299Z",
+          "source": "Lever: Gauntlet [gauntlet]",
+          "location": "Remote (Singapore / Hong Kong)",
+          "workplaceType": "remote",
+          "department": "Engineering",
+          "salary": "USD 120,000 - USD 140,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops103"
+        },
+        "key": "dac100e9-01f6-4bf5-9285-221d572f8278",
+        "slug": "ops103",
+        "url": "https://hashtagweb3.com/ops103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gauntlet",
+        "title": "Trading Operations Lead"
+      }
+    ],
+    "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ec?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Escalations And Complaints Lead</a>\n- Sorare is hiring <a href=\"https://hashtagweb3.com/fe2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Frontend</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Fiat &amp; FCM</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading Operations Lead</a>",
+    "slotKey": "2026-10-17:afternoon"
   }
 }
