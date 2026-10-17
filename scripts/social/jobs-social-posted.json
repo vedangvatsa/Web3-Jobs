@@ -15320,8 +15320,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "5a0b1a27-6b0c-4aa0-9647-df06de6c3108",
-      "verification": "pending",
-      "postId": "6ad2f16dc34368e4b0a665d0"
+      "verification": "verified",
+      "postId": "6ad2f16dc34368e4b0a665d0",
+      "permalink": "https://twitter.com/hashtag_web3/status/2111304786234528192"
     }
   ]
 }
