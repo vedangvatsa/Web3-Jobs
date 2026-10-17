@@ -5654,5 +5654,99 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 16549,
     "sentAt": "2026-10-17T19:33:41.077Z"
+  },
+  "7474c25a-0b8c-4606-a40b-d2ec93a40d65": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:33:45.466Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "26c41d54-f823-4aac-8fdf-4e78fc760184",
+          "title": "Member of Technical Staff - Sandbox Platform",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/26c41d54-f823-4aac-8fdf-4e78fc760184",
+          "date": "2026-09-23T17:20:12.976+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "member9"
+        },
+        "key": "26c41d54-f823-4aac-8fdf-4e78fc760184",
+        "slug": "member9",
+        "url": "https://hashtagweb3.com/member9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Member of Technical Staff"
+      },
+      {
+        "snapshot": {
+          "id": "4987239101",
+          "title": "Manager, Growth Analytics",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987239101",
+          "date": "2026-09-25T05:01:44-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "București, Bucharest, Romania",
+          "department": "Commercial, Marketing & Comms",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt54"
+        },
+        "key": "4987239101",
+        "slug": "mkt54",
+        "url": "https://hashtagweb3.com/mkt54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Manager, Growth Analytics"
+      },
+      {
+        "snapshot": {
+          "id": "8880834002",
+          "title": "Senior Software Engineer - Accounting & Ledger Systems",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880834002",
+          "date": "2026-10-08T19:42:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng479"
+        },
+        "key": "8880834002",
+        "slug": "eng479",
+        "url": "https://hashtagweb3.com/eng479?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8224772",
+          "title": "Program Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8224772?gh_jid=8224772",
+          "date": "2026-09-23T00:05:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Dubai, United Arab Emirates",
+          "department": "Service & Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr62"
+        },
+        "key": "8224772",
+        "slug": "mgr62",
+        "url": "https://hashtagweb3.com/mgr62?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Program Manager"
+      }
+    ],
+    "message": "- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/member9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - Sandbox Platform</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/mkt54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Growth Analytics</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng479?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Accounting &amp; Ledger Systems</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Program Manager</a>",
+    "slotKey": "2026-10-17:evening"
   }
 }
