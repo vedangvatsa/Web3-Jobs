@@ -17856,6 +17856,37 @@
       "attemptId": "6ec31eb9-0ce8-4319-a093-b4cab96949de",
       "verification": "verified",
       "postId": "691827047618629_1118114260795808"
+    },
+    {
+      "slug": "infra23",
+      "company": "TaxBit",
+      "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City",
+      "platform": "x",
+      "postedAt": "2026-10-17T11:35:57.830Z",
+      "expectedText": "TaxBit is hiring Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City\n\nhttps://hashtagweb3.com/infra23/x?og=7",
+      "snapshot": {
+        "id": "6208083004",
+        "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City",
+        "company": "TaxBit",
+        "link": "https://job-boards.greenhouse.io/taxbit/jobs/6208083004",
+        "date": "2026-09-24T18:53:30-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: TaxBit [taxbit]",
+        "location": "Salt Lake City",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$130k – $210k/yr",
+        "dateVerified": true,
+        "slug": "infra23"
+      },
+      "payload": {
+        "text": "TaxBit is hiring Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City\n\nhttps://hashtagweb3.com/infra23/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "1eddc18f-af99-47d4-a7f0-72d7ee5933bb",
+      "verification": "creating"
     }
   ]
 }
