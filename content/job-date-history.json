@@ -29085,5 +29085,656 @@
   "ashby:7e7e5e09-9e60-4ec0-9837-d87e379d5f29": {
     "date": "2026-10-15T17:24:36.700+00:00",
     "dateVerified": true
+  },
+  "ashby:b9ca6b48-29ef-4442-aa51-f55ab360d2c7": {
+    "date": "2026-10-16T12:22:49.000Z",
+    "dateVerified": true
+  },
+  "ashby:a8ec0fc2-d32c-46d7-9bd7-da01ea8f17fe": {
+    "date": "2026-10-16T12:22:48.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:4454289009": {
+    "date": "2026-10-16T12:12:14.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5008303101": {
+    "date": "2026-10-16T04:31:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://www.linkedin.com/jobs/view/senior-dealmaker-ai-at-mysten-labs-4422657706": {
+    "date": "2026-10-16T14:51:53.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/senior-dealmaker-ai-at-mysten-labs-4422672498": {
+    "date": "2026-10-16T14:51:53.000Z",
+    "dateVerified": true
+  },
+  "https://perfectbit.ai/jobs": {
+    "date": "2026-10-16T17:18:46.000Z",
+    "dateVerified": true
+  },
+  "https://in.linkedin.com/jobs/view/pricing-analyst-at-cinch-4479560387": {
+    "date": "2026-10-16T14:41:00.000Z",
+    "dateVerified": true
+  },
+  "https://id.linkedin.com/jobs/view/fp-a-analyst-at-cinch-4478727920": {
+    "date": "2026-10-16T14:41:00.000Z",
+    "dateVerified": true
+  },
+  "https://jp.linkedin.com/jobs/view/project-manager-at-cinch-4480112241": {
+    "date": "2026-10-16T14:41:00.000Z",
+    "dateVerified": true
+  },
+  "https://in.linkedin.com/jobs/view/fp-a-analyst-at-cinch-4479568050": {
+    "date": "2026-10-16T14:41:00.000Z",
+    "dateVerified": true
+  },
+  "https://jp.linkedin.com/jobs/view/associate-ceo%E2%80%99s-office-japan-at-cinch-4480312441": {
+    "date": "2026-10-16T14:41:00.000Z",
+    "dateVerified": true
+  },
+  "https://id.linkedin.com/jobs/view/pricing-analyst-at-cinch-4478735656": {
+    "date": "2026-10-16T14:40:59.000Z",
+    "dateVerified": true
+  },
+  "lever:3c41459a-5207-4232-b26a-56425bb55ccb": {
+    "date": "2026-10-16T13:15:29.000Z",
+    "dateVerified": true
+  },
+  "lever:e130e3e7-d501-4c2f-9f3d-8975cfbcab34": {
+    "date": "2026-10-16T13:15:29.000Z",
+    "dateVerified": true
+  },
+  "lever:9ecb12cf-e891-41ad-9714-96ce63261b81": {
+    "date": "2026-10-16T13:15:28.000Z",
+    "dateVerified": true
+  },
+  "lever:88afcb8b-8ad1-4f3c-b2b9-893d1be71d65": {
+    "date": "2026-10-16T13:15:28.000Z",
+    "dateVerified": true
+  },
+  "lever:f6a3b1b1-c73e-4e36-b810-96e55b4da40c": {
+    "date": "2026-10-16T13:15:27.000Z",
+    "dateVerified": true
+  },
+  "lever:cdeb9046-6049-489f-822d-0abfe8acd9a2": {
+    "date": "2026-10-16T13:15:27.000Z",
+    "dateVerified": true
+  },
+  "lever:30b9815b-f9d6-4709-ac48-407ffe9ea82e": {
+    "date": "2026-10-16T13:15:27.000Z",
+    "dateVerified": true
+  },
+  "lever:8151292a-16f2-4a74-876e-2056b02b041d": {
+    "date": "2026-10-16T13:15:26.000Z",
+    "dateVerified": true
+  },
+  "https://br.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478511422": {
+    "date": "2026-10-15T15:53:45.000Z",
+    "dateVerified": true
+  },
+  "https://ca.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478509536": {
+    "date": "2026-10-15T15:53:44.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4479000041": {
+    "date": "2026-10-15T15:53:44.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4478785756": {
+    "date": "2026-10-15T15:53:44.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4429994044": {
+    "date": "2026-10-15T15:53:44.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4429997037": {
+    "date": "2026-10-15T15:53:44.000Z",
+    "dateVerified": true
+  },
+  "https://ar.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478522041": {
+    "date": "2026-10-15T15:53:43.000Z",
+    "dateVerified": true
+  },
+  "https://co.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478514327": {
+    "date": "2026-10-15T15:53:43.000Z",
+    "dateVerified": true
+  },
+  "https://mx.linkedin.com/jobs/view/senior-site-reliability-engineer-data-infrastructure-at-chainlink-labs-4478519141": {
+    "date": "2026-10-15T15:53:43.000Z",
+    "dateVerified": true
+  },
+  "https://br.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478513356": {
+    "date": "2026-10-15T15:53:43.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4429991055": {
+    "date": "2026-10-15T15:53:43.000Z",
+    "dateVerified": true
+  },
+  "https://co.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478507642": {
+    "date": "2026-10-15T15:53:42.000Z",
+    "dateVerified": true
+  },
+  "https://mx.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478523040": {
+    "date": "2026-10-15T15:53:42.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4478785755": {
+    "date": "2026-10-15T15:53:42.000Z",
+    "dateVerified": true
+  },
+  "https://www.linkedin.com/jobs/view/us-international-tax-manager-at-chainlink-labs-4478789592": {
+    "date": "2026-10-15T15:53:42.000Z",
+    "dateVerified": true
+  },
+  "https://ar.linkedin.com/jobs/view/site-reliability-engineer-connectivity-at-chainlink-labs-4478507643": {
+    "date": "2026-10-15T15:53:41.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/bakkt-llc/jobs/2751f8fa-3b37-4e10-a416-44082fd33b5e": {
+    "date": "2026-10-16T13:36:40.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/bakkt-llc/jobs/77a5df0c-e583-45e9-bf44-de14d374e657": {
+    "date": "2026-10-16T13:36:40.000Z",
+    "dateVerified": true
+  },
+  "ashby:9b82e5a8-8922-4661-a92d-6836ad2b966e": {
+    "date": "2026-10-16T10:50:57.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8287662": {
+    "date": "2026-10-16T02:25:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://careers.kula.ai/relay/59319": {
+    "date": "2026-10-16T16:01:55.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/54803": {
+    "date": "2026-10-16T16:01:54.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/53261": {
+    "date": "2026-10-16T16:01:53.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/52709": {
+    "date": "2026-10-16T16:01:51.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/51288": {
+    "date": "2026-10-16T16:01:51.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/52725": {
+    "date": "2026-10-16T16:01:51.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/50053": {
+    "date": "2026-10-16T16:01:49.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/temporal-2-0e59b0f4-74c3-42dc-8847-5e62e8055075/jobs/97264636-senior-product-engineer": {
+    "date": "2026-10-16T20:05:23.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8267851": {
+    "date": "2026-10-16T09:31:53-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288561": {
+    "date": "2026-10-16T05:07:26-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8286680": {
+    "date": "2026-10-16T04:43:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289847": {
+    "date": "2026-10-16T14:45:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8286655": {
+    "date": "2026-10-16T07:40:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288876": {
+    "date": "2026-10-16T10:22:23-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8271659": {
+    "date": "2026-10-16T12:54:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8282721": {
+    "date": "2026-10-16T15:27:40-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8172491": {
+    "date": "2026-09-04T11:26:03-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8247120": {
+    "date": "2026-10-16T04:16:28-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8267519": {
+    "date": "2026-10-16T05:52:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8204652": {
+    "date": "2026-10-16T15:53:25-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7618977": {
+    "date": "2026-03-03T05:41:25-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8198323": {
+    "date": "2026-10-16T15:00:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288538": {
+    "date": "2026-10-16T09:02:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8275261": {
+    "date": "2026-10-15T16:09:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8285182": {
+    "date": "2026-10-16T13:04:18-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8292793": {
+    "date": "2026-10-16T17:53:42-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7701645": {
+    "date": "2026-06-15T18:53:46-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7767519": {
+    "date": "2026-10-16T18:43:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8205083": {
+    "date": "2026-10-16T18:26:04-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8274810": {
+    "date": "2026-10-16T14:42:08-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289388": {
+    "date": "2026-10-16T13:28:14-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8250300": {
+    "date": "2026-10-16T20:19:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8384217002": {
+    "date": "2026-10-16T13:48:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8895178002": {
+    "date": "2026-10-16T13:55:48-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8288570": {
+    "date": "2026-10-16T12:10:09-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008751101": {
+    "date": "2026-10-16T10:43:12-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455038008": {
+    "date": "2026-10-16T15:37:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455053008": {
+    "date": "2026-10-16T11:51:48-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455065008": {
+    "date": "2026-10-16T15:37:56-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455070008": {
+    "date": "2026-10-16T15:38:01-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455347008": {
+    "date": "2026-10-16T15:38:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455392008": {
+    "date": "2026-10-16T15:38:10-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455342008": {
+    "date": "2026-10-16T15:38:14-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5455079008": {
+    "date": "2026-10-16T15:38:19-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008130101": {
+    "date": "2026-10-15T23:42:47-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008131101": {
+    "date": "2026-10-15T23:45:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4431828009": {
+    "date": "2026-10-16T17:16:24-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4453246009": {
+    "date": "2026-10-16T15:54:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5422288008": {
+    "date": "2026-09-11T14:58:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5451225008": {
+    "date": "2026-10-16T15:49:11-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5448037008": {
+    "date": "2026-10-16T02:05:32-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8213490": {
+    "date": "2026-10-16T11:47:50-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289214": {
+    "date": "2026-10-16T11:52:57-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289239": {
+    "date": "2026-10-16T11:59:41-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289231": {
+    "date": "2026-10-16T11:55:53-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8036167003": {
+    "date": "2026-10-16T18:30:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8034335003": {
+    "date": "2026-10-16T11:49:05-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8035255003": {
+    "date": "2026-10-16T06:41:18-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5008607101": {
+    "date": "2026-10-16T07:58:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4953468101": {
+    "date": "2026-10-16T09:57:42-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5000450101": {
+    "date": "2026-10-16T09:35:36-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8258529": {
+    "date": "2026-10-16T09:02:17-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4744586005": {
+    "date": "2026-10-16T14:59:34-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4742079005": {
+    "date": "2026-10-16T13:55:13-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8894763002": {
+    "date": "2026-10-16T12:27:00-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8289397": {
+    "date": "2026-10-16T13:08:17-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4744801005": {
+    "date": "2026-10-16T17:02:52-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8259659": {
+    "date": "2026-10-16T11:00:21-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:7bd4beca-6c73-4a38-9a6b-09dfa855dcf0": {
+    "date": "2026-10-16T13:54:28.845+00:00",
+    "dateVerified": true
+  },
+  "ashby:eecf9af5-46fb-4b62-b8c8-921098fd6514": {
+    "date": "2026-10-16T14:44:40.384+00:00",
+    "dateVerified": true
+  },
+  "ashby:7ef14297-51c3-45b1-abe4-890489a0bddb": {
+    "date": "2026-10-16T14:44:39.894+00:00",
+    "dateVerified": true
+  },
+  "ashby:22f9eb18-a449-40fe-bcb5-1d661c0d6b3d": {
+    "date": "2026-10-16T13:57:42.427+00:00",
+    "dateVerified": true
+  },
+  "ashby:3103e1a4-2515-4ae0-a2f0-784e25d30cfe": {
+    "date": "2026-10-16T14:44:28.971+00:00",
+    "dateVerified": true
+  },
+  "ashby:9dae2470-0e2c-4d42-8e7f-20b7f534440e": {
+    "date": "2026-10-16T14:44:39.749+00:00",
+    "dateVerified": true
+  },
+  "ashby:abd1360f-bd9d-4649-ac02-9af2a437ff98": {
+    "date": "2026-10-16T21:05:12.511+00:00",
+    "dateVerified": true
+  },
+  "ashby:b4366e7a-d1e7-498b-8630-4dfea67caca0": {
+    "date": "2026-10-16T20:52:37.741+00:00",
+    "dateVerified": true
+  },
+  "ashby:fc753f8d-7f2f-4b12-9db2-a5694ce4e74c": {
+    "date": "2026-10-16T18:17:38.962+00:00",
+    "dateVerified": true
+  },
+  "ashby:8be55ffc-d512-4ef3-a14d-3a4cb29a60d4": {
+    "date": "2026-10-16T18:04:33.419+00:00",
+    "dateVerified": true
+  },
+  "ashby:993557d9-7482-4f63-aae0-5817998b2368": {
+    "date": "2026-10-16T10:44:16.327+00:00",
+    "dateVerified": true
+  },
+  "ashby:f82dbb89-b7da-4130-b690-eb1ca4aeaa50": {
+    "date": "2026-10-16T10:44:14.133+00:00",
+    "dateVerified": true
+  },
+  "ashby:cb0b46c6-bdb1-4928-8112-da1d5ac4d36f": {
+    "date": "2026-10-16T20:42:48.657+00:00",
+    "dateVerified": true
+  },
+  "ashby:d715661e-fe7e-4836-8c65-629de06eed8b": {
+    "date": "2026-10-16T19:23:13.172+00:00",
+    "dateVerified": true
+  },
+  "ashby:a6df5ed6-8dfc-460f-bc74-06129163e858": {
+    "date": "2026-10-16T19:40:07.002+00:00",
+    "dateVerified": true
+  },
+  "ashby:2d76aae2-f388-45cc-8c7b-70da9118c5f6": {
+    "date": "2026-10-16T17:19:31.284+00:00",
+    "dateVerified": true
+  },
+  "ashby:b444d95c-7142-4981-b4dd-b26fc2954309": {
+    "date": "2026-10-16T18:54:04.321+00:00",
+    "dateVerified": true
+  },
+  "ashby:8422810e-c792-4828-8af4-083078d0911d": {
+    "date": "2026-10-16T13:53:57.600+00:00",
+    "dateVerified": true
+  },
+  "ashby:f9698535-7237-4656-b4ce-57df8fd7d801": {
+    "date": "2026-10-16T20:54:38.353+00:00",
+    "dateVerified": true
+  },
+  "ashby:46511827-37d8-4b0f-8491-5c808e70e830": {
+    "date": "2026-10-16T16:12:24.825+00:00",
+    "dateVerified": true
+  },
+  "ashby:ecab0e59-ed35-4df0-867b-cbe106c7237e": {
+    "date": "2026-10-16T07:14:28.191+00:00",
+    "dateVerified": true
+  },
+  "ashby:83c125fb-85fb-41b2-83d2-528d85a66354": {
+    "date": "2026-10-16T07:15:12.551+00:00",
+    "dateVerified": true
+  },
+  "ashby:74f21d23-7a78-40af-acf8-663de8d734ab": {
+    "date": "2026-10-16T15:36:25.839+00:00",
+    "dateVerified": true
+  },
+  "ashby:7e1c3eef-5ee0-45d5-8586-eca4c95b195b": {
+    "date": "2026-10-16T23:42:19.563+00:00",
+    "dateVerified": true
+  },
+  "ashby:b17ffbbe-2257-477f-ba2d-27b907f7c434": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "workable:97a1ef0f16": {
+    "date": "2026-10-16T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:49159e5b84": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "https://careers.tether.io/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-12": {
+    "date": "2026-10-16T12:28:24Z",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Scientist_JR101174-1": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Analyst_JR101173": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Circle-Summer-Intern-2026_JR100709": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Special-Counsel--Transactions--M-A-and-Bank-Partnerships-_JR101171-1": {
+    "date": "2026-10-16",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:a7fd9c53b61b": {
+    "date": "2026-10-14",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/a7fd9c53b61b-asset-manager",
+      "checkedAt": "2026-10-17T03:33:10.408Z",
+      "bodySha256": "c8a72944acb175d1f7da39fda626edcac03c8731bd406330a455c7e56a4574d7",
+      "provider": "breezy",
+      "datePosted": "2026-10-14"
+    }
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/cdb80779-5cce-4f4d-a1f8-fc689770c14b": {
+    "date": "2026-10-16T13:13:45.488000-07:00",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/riot-platforms-careers/jobs/7ac99d1e-9dc1-4050-9e71-8e4e93948191": {
+    "date": "2026-10-16T09:12:17.430000-07:00",
+    "dateVerified": true
+  },
+  "greenhouse:8259660": {
+    "date": "2026-10-16T11:08:55-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
   }
 }
