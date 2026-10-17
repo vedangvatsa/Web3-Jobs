@@ -2340,5 +2340,57 @@
     "slotKey": "2026-10-17:afternoon",
     "messageId": 155813,
     "sentAt": "2026-10-17T11:33:29.003Z"
+  },
+  "4f7755c9-ec37-4c3e-9a21-1fc5c3c2d79c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T19:33:12.402Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+        "slug": "ai-economic-forum-mumbai",
+        "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+        "startDate": "2026-11-03T04:00:00.000Z",
+        "keys": [
+          "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "aefatis",
+          "aefamtisoaseibwd8",
+          "india-luma-a0e6b8at",
+          "page:ai-economic-forum-mumbai:2026-11-03",
+          "luma:evt-i0cnxui32ull2ek",
+          "luma-url:/a0e6b8at",
+          "event:aieconomicforumaiefmumbai2026truthintelligencesummitofficialaisideeventofindiablockchainweek2026devcon8:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "ibw-official-eip-hub-3-7-nov-11-03",
+        "slug": "eip-hub-devcon",
+        "name": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
+        "startDate": "2026-11-03T15:30:00.000Z",
+        "keys": [
+          "ibw-official-eip-hub-3-7-nov-11-03",
+          "eh37n",
+          "ehd8i",
+          "india-luma-czi58jpe",
+          "page:eip-hub-devcon:2026-11-03",
+          "luma:evt-wa1k9h6tjnof3wg",
+          "luma-url:/czi58jpe",
+          "event:eiphubdevcon8indiawhereethereumstandardscometogether:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "premier-ethindia-2026",
+        "slug": "ethindia",
+        "name": "ETHIndia 2026",
+        "startDate": "2026-11-04",
+        "keys": [
+          "premier-ethindia-2026",
+          "page:ethindia:2026-11-04",
+          "event:ethindia2026:2026-11-04:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-17:evening"
   }
 }
