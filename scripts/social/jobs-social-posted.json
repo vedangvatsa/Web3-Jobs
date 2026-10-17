@@ -20201,7 +20201,8 @@
       },
       "account": "channel:ai",
       "attemptId": "f42e7afb-c848-4965-a6a2-1362ef0808e9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x35c3777332957ff6cd20e869b2c704cce7fae70a"
     }
   ]
 }
