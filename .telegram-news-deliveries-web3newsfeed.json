@@ -1657,5 +1657,36 @@
     "slotKey": "2026-10-17:morning",
     "messageId": 65757,
     "sentAt": "2026-10-17T03:55:14.510Z"
+  },
+  "be380dae-9d9c-46cd-beb5-481ce8080140": {
+    "status": "reserved",
+    "reservedAt": "2026-10-17T11:34:33.015Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Crypto Director Patrick Witt Resigns",
+        "summary": "Witt announced his departure on Oct. 15, 2026, leaving the position without a named successor.",
+        "link": "https://hashtagweb3.com/witt-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "White House crypto chief Patrick Witt steps down"
+      },
+      {
+        "index": -1,
+        "headline": "UK Court Applies Chinese Law to Seized Bitcoin Case",
+        "summary": "This decision narrows how victims can claim $5 billion in assets, making UK state forfeiture more likely.",
+        "link": "https://hashtagweb3.com/seized-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK court applies Chinese law to claims on 61,000 seized bitcoin"
+      },
+      {
+        "index": -1,
+        "headline": "Drift Foundation Opens DFX Claims for April Exploit Victims",
+        "summary": "Affected users can redeem tokens at roughly 0.0104 USDT each against $299.5 million in total losses.",
+        "link": "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift opens DFX claims with redemptions near one cent per dollar"
+      }
+    ],
+    "slotKey": "2026-10-17:afternoon"
   }
 }
