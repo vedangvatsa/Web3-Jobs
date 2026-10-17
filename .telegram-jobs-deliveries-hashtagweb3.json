@@ -2737,7 +2737,7 @@
     "sentAt": "2026-10-17T11:34:02.682Z"
   },
   "c9e08f3d-b259-414b-b4b4-4dff6793c523": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-17T19:33:54.690Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2852,6 +2852,8 @@
       }
     ],
     "message": "- Ava Labs is hiring <a href=\"https://hashtagweb3.com/fin4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Lead</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/eve2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Lead</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/cm9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Community Relations Lead</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/mkt61?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Growth Creative Designer, International</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng591?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Site Reliability Engineer</a>",
-    "slotKey": "2026-10-17:evening"
+    "slotKey": "2026-10-17:evening",
+    "messageId": 155825,
+    "sentAt": "2026-10-17T19:33:57.657Z"
   }
 }
