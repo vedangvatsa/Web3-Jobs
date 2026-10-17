@@ -20394,7 +20394,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "22721c4a-7582-41ce-8232-f55d95dc1ef4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad3ce840a208cb32335df51"
     }
   ]
 }
