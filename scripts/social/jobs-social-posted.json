@@ -15735,7 +15735,8 @@
       },
       "account": "channel:base",
       "attemptId": "b6810adf-0a93-4b76-90e2-9908f9954f5c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfc57bf6e8d64bd0adfe1106a86a712bc15dbf9b2"
     }
   ]
 }
