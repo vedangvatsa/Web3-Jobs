@@ -201,7 +201,9 @@
     "sls259",
     "int44",
     "tr101",
-    "pm269"
+    "pm269",
+    "sls227",
+    "dev29"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -254,9 +256,7 @@
     "an81",
     "cmp101",
     "mgr89",
-    "ops40",
-    "sls227",
-    "dev29"
+    "ops40"
   ],
   "history": [
     {
