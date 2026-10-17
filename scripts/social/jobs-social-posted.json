@@ -19635,6 +19635,35 @@
       "verification": "verified",
       "postId": "6ad3ce200b0d72757af07fd4",
       "permalink": "https://twitter.com/hashtag_web3/status/2111541759373185508"
+    },
+    {
+      "slug": "eccf",
+      "company": "Elliptic",
+      "title": "Education Content Creator - FTC",
+      "platform": "threads",
+      "postedAt": "2026-10-17T19:35:58.298Z",
+      "expectedText": "Elliptic is hiring Education Content Creator - FTC: https://hashtagweb3.com/eccf/th?og=7",
+      "snapshot": {
+        "id": "c6221876-7dd3-4a72-acd0-932bc89e9a1f",
+        "title": "Education Content Creator - FTC",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/c6221876-7dd3-4a72-acd0-932bc89e9a1f",
+        "date": "2026-10-02T12:43:43.895+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eccf"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Education Content Creator - FTC: https://hashtagweb3.com/eccf/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eccf/th?og=7"
+      },
+      "attemptId": "6dc57a4f-39f5-4e38-9be4-3dff3530b947",
+      "verification": "creating"
     }
   ]
 }
