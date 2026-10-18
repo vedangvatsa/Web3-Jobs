@@ -2857,7 +2857,7 @@
     "sentAt": "2026-10-17T19:33:57.657Z"
   },
   "3c6df57d-e5fc-462e-a0aa-4890dfe94cd4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T04:04:41.193Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2946,6 +2946,8 @@
       }
     ],
     "message": "- CoinMarketCap is hiring <a href=\"https://hashtagweb3.com/pm192?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer - CoinGlass</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Critical Support Manager - Escalations</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/mgr98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fixed Assets Business Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/eng436?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Staff Engineer, Payment</a>",
-    "slotKey": "2026-10-18:morning"
+    "slotKey": "2026-10-18:morning",
+    "messageId": 155828,
+    "sentAt": "2026-10-18T04:04:45.995Z"
   }
 }

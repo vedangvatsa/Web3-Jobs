@@ -1912,6 +1912,14 @@
     "lastUrl": "https://hashtagweb3.com/mgr35",
     "updatedAt": "2026-10-16T11:32:36.686Z"
   },
+  "8190032": {
+    "slugs": [
+      "mgr122"
+    ],
+    "lastSlug": "mgr122",
+    "lastUrl": "https://hashtagweb3.com/mgr122",
+    "updatedAt": "2026-10-18T04:04:45.995Z"
+  },
   "8190036": {
     "slugs": [
       "pm156"
@@ -7966,5 +7974,29 @@
     "lastSlug": "eng591",
     "lastUrl": "https://hashtagweb3.com/eng591",
     "updatedAt": "2026-10-17T19:33:57.657Z"
+  },
+  "02318fa1-e707-41ee-a218-35a8cfd5797b": {
+    "slugs": [
+      "pm192"
+    ],
+    "lastSlug": "pm192",
+    "lastUrl": "https://hashtagweb3.com/pm192",
+    "updatedAt": "2026-10-18T04:04:45.995Z"
+  },
+  "6e08038a-1786-4b96-8b7d-543ca774fa87": {
+    "slugs": [
+      "mgr98"
+    ],
+    "lastSlug": "mgr98",
+    "lastUrl": "https://hashtagweb3.com/mgr98",
+    "updatedAt": "2026-10-18T04:04:45.995Z"
+  },
+  "8016081003": {
+    "slugs": [
+      "eng436"
+    ],
+    "lastSlug": "eng436",
+    "lastUrl": "https://hashtagweb3.com/eng436",
+    "updatedAt": "2026-10-18T04:04:45.995Z"
   }
 }
