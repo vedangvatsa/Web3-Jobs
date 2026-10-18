@@ -21515,7 +21515,8 @@
       },
       "account": "channel:web3",
       "attemptId": "b524cc2a-1c4e-4df5-8c76-93a646fea0b4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd179ae19ae4e3e087cf1ab5d3624d8d1c81b331d"
     }
   ]
 }
