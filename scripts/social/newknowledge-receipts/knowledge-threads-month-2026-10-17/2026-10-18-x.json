@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-18",
+    "threadId": "C01",
+    "sequence": 1,
+    "platform": "x",
+    "assetCommit": "d9c5c4e8e97919cb27a56930689a0054f371bb34",
+    "contentDigest": "fe029d33eccaad65e7826ef8645626d1baf871ea1c986af768962f4d36dad41f",
+    "posts": [
+      {
+        "number": 1,
+        "text": "A Web3 portfolio needs a path from claim to evidence. For each project, show the problem, your contribution and something a reviewer can inspect. A title like 'growth lead' leaves all of that unanswered.",
+        "alt": "Make your work inspectable. Problem. Your contribution. Evidence.",
+        "image": "social-assets/knowledge-threads-month/images/C01-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "For an engineering sample, include a README with setup steps and tests for failure cases. Example: a withdrawal test should check what happens when the caller lacks permission, not only when the transfer succeeds.",
+        "alt": "Show the failure case. Allowed caller. Rejected caller. Test command. Known limits.",
+        "image": "social-assets/knowledge-threads-month/images/C01-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "For a marketing sample, write a campaign brief with an audience, a user action and a measurement plan. Example: a wallet tutorial can measure setup completion. Impressions alone won't tell you whether readers finished setup.",
+        "alt": "Connect content to an action. Tutorial reader. Setup attempt. Setup completion. Measurement limits.",
+        "image": "social-assets/knowledge-threads-month/images/C01-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "For community or operations work, show the system you built. A sample support runbook could explain how to collect an error report, assign an owner and tell the user when to expect an update.",
+        "alt": "Document a repeatable task. Error report. Assigned owner. Next update. Resolution record.",
+        "image": "social-assets/knowledge-threads-month/images/C01-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Private work can still make a useful case study. Describe the constraint and your decision using approved, redacted material. Label a personal exercise as an exercise; don't turn it into a fictional client project.",
+        "alt": "Label the evidence honestly. Public work. Approved redaction. Personal exercise.",
+        "image": "social-assets/knowledge-threads-month/images/C01-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Before applying, open every portfolio link while logged out. Put the most relevant sample first, name your part in it and explain one limitation. A reviewer should be able to follow the evidence without requesting access.\n\nhashtagweb3.com/building-web3-portfolio/x",
+        "alt": "Run the reviewer check. Logged-out access. Relevant sample first. Authorship clear. Limits stated.",
+        "image": "social-assets/knowledge-threads-month/images/C01-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-01.jpg",
+        "sha256": "6689cb9288d1752b3aec5251775c8605395783b69584b528a375457a3a8cc888",
+        "bytes": 102287,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-02.jpg",
+        "sha256": "997e1990fad3136c5fc7ce1fdd12c9ab40850c46ab25c03983673aa2ac11654c",
+        "bytes": 98891,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-03.jpg",
+        "sha256": "193ea4d4dce804f4b6ded3d8578a31ec0861b8d57392e028d214fe7422376c76",
+        "bytes": 101545,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-04.jpg",
+        "sha256": "bdef837c401df2ef3ca752610fe93a0b9894e836c9319df84cfe31a5dff004f0",
+        "bytes": 88125,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-05.jpg",
+        "sha256": "0a6677ee5d2f3d97ca9901e63ff520cb35a40fe72f2c03c09235f641a20ecc75",
+        "bytes": 110539,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C01-06.jpg",
+        "sha256": "e6d765091feb90b584ba340ca835f468740c88a13c53b03b72c62045a9eaa84e",
+        "bytes": 104341,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/d9c5c4e8e97919cb27a56930689a0054f371bb34/social-assets/knowledge-threads-month/images/C01-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "40fa2fc1-bce5-4363-b28f-4a634d679242",
+  "startedAt": "2026-10-18T11:31:31.896Z",
+  "status": "claimed",
+  "steps": {}
+}
