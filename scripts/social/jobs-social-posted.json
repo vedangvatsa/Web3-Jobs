@@ -23790,7 +23790,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "05595d8e-938d-4cfb-8443-7d108b72052a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad4afbca48c8f837195e847"
     }
   ]
 }
