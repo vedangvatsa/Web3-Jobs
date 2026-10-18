@@ -760,6 +760,7 @@
   "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
   "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
   "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+  "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2063,6 +2064,8 @@
   "Anthropic says its workforce has become less junior and is spending more time in meetings",
   "Biotech startups develop therapies to extend pet lifespans",
   "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+  "MIT Technology Review reports on social media regulation",
+  "The Download: failed social media bans, and extending pets’ lives",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2340,5 +2343,6 @@
   "fp:anti|authenticity|bottl|brand|chip|combat|consumer|counterfeit|emb|expand",
   "fp:abruptly|catastrophic|computer|conflict|dimm|dur|even|failur|gam|geoengineer",
   "fp:anthropic|becam|becom|data|duration|employe|experienc|increas|internal|junior",
-  "fp:are|biotech|can|cellular|cover|delay|design|develop|domestic|extend"
+  "fp:are|biotech|can|cellular|cover|delay|design|develop|domestic|extend",
+  "fp:access|analyz|attempt|ban|download|extend|fail|failur|legislativ|liv"
 ]
