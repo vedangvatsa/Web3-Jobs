@@ -21993,6 +21993,45 @@
       "attemptId": "cca39604-32b0-432a-8dee-768651a2dddf",
       "verification": "verified",
       "postId": "0x9dfeaee38bf777aecb9dcf456ca61df2d20ef372"
+    },
+    {
+      "slug": "an52",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-10-18T04:07:47.796Z",
+      "expectedText": "Solflare is hiring Senior Data Analyst: https://hashtagweb3.com/an52/li?og=7",
+      "snapshot": {
+        "id": "744000151850559",
+        "title": "Senior Data Analyst",
+        "company": "Solflare",
+        "link": "https://jobs.smartrecruiters.com/Solflare/744000151850559-senior-data-analyst",
+        "date": "2026-09-25T13:11:46.414Z",
+        "source": "SmartRecruiters: Solflare [Solflare]",
+        "location": "Novi Sad, Vojvodina, Serbia",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an52"
+      },
+      "payload": {
+        "text": "Solflare is hiring Senior Data Analyst: https://hashtagweb3.com/an52/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an52/li?og=7",
+          "title": "Senior Data Analyst at Solflare",
+          "description": "Join Solflare as Senior Data Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an52.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "f1906850-cdad-447e-8706-532a8a0ed8b6",
+      "verification": "creating"
     }
   ]
 }
