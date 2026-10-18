@@ -1725,7 +1725,7 @@
     "sentAt": "2026-10-17T19:35:42.845Z"
   },
   "888a3168-f172-492e-bae0-d48bc33ad1a8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T04:07:28.085Z",
     "stories": [
       {
@@ -1753,6 +1753,8 @@
         "originalTitle": "Russia finance ministry pays staff wages in digital rubles"
       }
     ],
-    "slotKey": "2026-10-18:morning"
+    "slotKey": "2026-10-18:morning",
+    "messageId": 65760,
+    "sentAt": "2026-10-18T04:07:30.993Z"
   }
 }

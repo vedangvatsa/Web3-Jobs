@@ -788,6 +788,9 @@
   "https://hashtagweb3.com/rain-charter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/india-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ruble-wages?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2265,6 +2268,12 @@
   "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators",
   "Illinois Officials Propose Delaying Crypto Tax to July 2027",
   "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027",
+  "VanEck withdraws application for Lido staked ether ETF",
+  "VanEck withdraws Lido staked ether ETF filing",
+  "India crypto exchange inflows reached $88.4 billion",
+  "India-attributed exchange inflows hit $88.4B as domestic platforms keep 0.7%",
+  "Russian Finance Ministry begins paying staff in digital rubles",
+  "Russia finance ministry pays staff wages in digital rubles",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2582,5 +2591,8 @@
   "fp:2995m|affect|against|april|can|cent|claim|dfx|dollar|drift",
   "fp:apply|bank|bid|business|charter|custody|entity|fil|intend|issuanc",
   "fp:000|15m|await|entry|eth|exit|follow|high|hits2026|metamask",
-  "fp:asset|bid|court|delay|digital|illinois|implementation|january|join|joint"
+  "fp:asset|bid|court|delay|digital|illinois|implementation|january|join|joint",
+  "fp:application|asset|attempt|bas|confirm|end|etf|ether|fil|lido",
+  "fp:884b|attribut|domestic|exchang|hit|india|indian|inflow|june2026|keep07",
+  "fp:2026|begin|digital|employe|financ|ministry|october1|pay|payment|receiv"
 ]
