@@ -3026,5 +3026,79 @@
     "slotKey": "2026-10-18:afternoon",
     "messageId": 155831,
     "sentAt": "2026-10-18T11:34:53.696Z"
+  },
+  "bb10be3e-d97c-4dff-b14c-5610d6adc1de": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T19:33:28.000Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a82e3953-2f34-43bb-b0da-16f8bb06da93",
+          "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/a82e3953-2f34-43bb-b0da-16f8bb06da93",
+          "date": "2026-09-28T13:53:48.412Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Taipei)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm168"
+        },
+        "key": "a82e3953-2f34-43bb-b0da-16f8bb06da93",
+        "slug": "pm168",
+        "url": "https://hashtagweb3.com/pm168?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/Principal Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4744801005",
+          "title": "Junior Property Manager",
+          "company": "Groma",
+          "link": "https://job-boards.greenhouse.io/groma/jobs/4744801005",
+          "date": "2026-10-16T17:02:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Groma [groma]",
+          "location": "Boston, MA",
+          "department": "Property Management",
+          "active": true,
+          "salary": "$80k – $88k/yr",
+          "dateVerified": true,
+          "slug": "mgr189"
+        },
+        "key": "4744801005",
+        "slug": "mgr189",
+        "url": "https://hashtagweb3.com/mgr189?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Groma",
+        "title": "Junior Property Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8034261003",
+          "title": "Deputy General Counsel, Employment Law",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8034261003",
+          "date": "2026-10-14T20:55:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "New York, NY; San Jose, CA",
+          "department": "Legal",
+          "active": true,
+          "salary": "$200.4k – $300.5k/yr",
+          "dateVerified": true,
+          "slug": "dgce"
+        },
+        "key": "8034261003",
+        "slug": "dgce",
+        "url": "https://hashtagweb3.com/dgce?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Deputy General Counsel"
+      }
+    ],
+    "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm168?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>\n- Groma is hiring <a href=\"https://hashtagweb3.com/mgr189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Property Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/dgce?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel, Employment Law</a>",
+    "slotKey": "2026-10-18:evening"
   }
 }
