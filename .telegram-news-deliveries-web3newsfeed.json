@@ -1789,5 +1789,36 @@
     "slotKey": "2026-10-18:afternoon",
     "messageId": 65761,
     "sentAt": "2026-10-18T11:34:51.153Z"
+  },
+  "1230021e-83ea-4558-8361-9a3f89c2abde": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T19:37:05.702Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "House Oversight Committee expands prediction market insider trading investigation",
+        "summary": "Lawmakers requested documents from three prediction platforms regarding their identity verification and suspicious trading detection practices.",
+        "link": "https://hashtagweb3.com/house-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "House Oversight widens prediction market insider trading probe"
+      },
+      {
+        "index": -1,
+        "headline": "Polymarket Targeted by $10 Million Stolen Card Fraud Attempt",
+        "summary": "Fraudsters attempted to use stolen debit cards on the platform, but payment processors blocked most of the deposits.",
+        "link": "https://hashtagweb3.com/polymarket-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported"
+      },
+      {
+        "index": -1,
+        "headline": "Visa Restricts Credit Card Rewards for Meme Coin Purchases",
+        "summary": "Visa is requiring payment processors to stop classifying meme coin transactions as digital media to prevent reward eligibility.",
+        "link": "https://hashtagweb3.com/visa-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole"
+      }
+    ],
+    "slotKey": "2026-10-18:evening"
   }
 }
