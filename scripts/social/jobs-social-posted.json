@@ -23835,6 +23835,34 @@
       "attemptId": "4d324481-4c6a-441f-984b-a809005c8e64",
       "verification": "verified",
       "postId": "urn:li:share:7517549768554934273"
+    },
+    {
+      "slug": "sls41",
+      "company": "Ripple",
+      "title": "Senior Sales Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-18T11:36:25.987Z",
+      "expectedText": "Ripple is hiring Senior Sales Manager: https://hashtagweb3.com/sls41/fb?og=7",
+      "snapshot": {
+        "id": "8257746",
+        "title": "Senior Sales Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8257746?gh_jid=8257746",
+        "date": "2026-10-08T09:30:41-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "London, UK",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls41"
+      },
+      "payload": {
+        "message": "Ripple is hiring Senior Sales Manager: https://hashtagweb3.com/sls41/fb?og=7",
+        "link": "https://hashtagweb3.com/sls41/fb?og=7"
+      },
+      "attemptId": "1afd52a6-87fc-454d-8323-c77b3b7b351d",
+      "verification": "creating"
     }
   ]
 }
