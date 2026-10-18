@@ -3028,7 +3028,7 @@
     "sentAt": "2026-10-18T11:34:53.696Z"
   },
   "bb10be3e-d97c-4dff-b14c-5610d6adc1de": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T19:33:28.000Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3099,6 +3099,8 @@
       }
     ],
     "message": "- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm168?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>\n- Groma is hiring <a href=\"https://hashtagweb3.com/mgr189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Junior Property Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/dgce?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel, Employment Law</a>",
-    "slotKey": "2026-10-18:evening"
+    "slotKey": "2026-10-18:evening",
+    "messageId": 155834,
+    "sentAt": "2026-10-18T19:33:31.197Z"
   }
 }
