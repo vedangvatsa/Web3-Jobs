@@ -22316,7 +22316,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "d290a2a8-ff88-45f2-a796-5b7086c71da5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2e581b329cc01f0b64f1fac25bf6ad2c8b165c1d"
     }
   ]
 }
