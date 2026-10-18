@@ -22177,7 +22177,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "4b083355-6581-4d15-b478-efcd078cc234",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad4ae89769b457934bdb7f0"
     }
   ]
 }
