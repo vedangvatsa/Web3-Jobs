@@ -92838,7 +92838,7 @@
     "2026-10-18": {
       "day": "2026-10-18",
       "startedAt": "2026-10-18T03:34:32.104Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "627591d0728987efa33f",
         "a2e6429f3797eeab3814",
@@ -93484,7 +93484,8 @@
         ],
         "total": 75,
         "checkedAt": "2026-10-18T03:34:32.104Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
