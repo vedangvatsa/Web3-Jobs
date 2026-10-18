@@ -21350,7 +21350,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "8f1af349-9f65-4060-b74c-a6d48782c24d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad44617ae173d6e00e65be3"
     }
   ]
 }
