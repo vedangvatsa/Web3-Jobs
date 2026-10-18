@@ -2394,5 +2394,54 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 155824,
     "sentAt": "2026-10-17T19:33:14.640Z"
+  },
+  "19deb6d4-a540-494a-b1e9-5198c6cc142a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:04:14.242Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-b6kmwqzyuuetkip",
+        "slug": "free-society-hackathon",
+        "name": "Zcash Presents: FREE SOCIETY HACKATHON",
+        "startDate": "2026-11-04T05:30:00.000Z",
+        "keys": [
+          "luma-evt-b6kmwqzyuuetkip",
+          "freesocietyhackathon",
+          "page:free-society-hackathon:2026-11-04",
+          "luma:evt-b6kmwqzyuuetkip",
+          "luma-url:/freesocietyhackathon",
+          "event:zcashpresentsfreesocietyhackathon:2026-11-04:mumbai"
+        ]
+      },
+      {
+        "id": "luma-batch-kBSIe7BSMtDFldg",
+        "slug": "onchain-legal-summit",
+        "name": "Onchain Legal Summit :: Devcon India 2026",
+        "startDate": "2026-11-04T05:30:00.000Z",
+        "keys": [
+          "luma-batch-kbsie7bsmtdfldg",
+          "cw0h549b",
+          "page:onchain-legal-summit:2026-11-04",
+          "luma:evt-kbsie7bsmtdfldg",
+          "luma-url:/cw0h549b",
+          "event:onchainlegalsummitdevconindia2026:2026-11-04:mumbai"
+        ]
+      },
+      {
+        "id": "premier-blockchain-summit-latam-2026",
+        "slug": "blockchain-summit-latam",
+        "name": "Blockchain Summit Latam Colombia 2026",
+        "startDate": "2026-11-04T08:00:00-05:00",
+        "keys": [
+          "premier-blockchain-summit-latam-2026",
+          "page:blockchain-summit-latam:2026-11-04",
+          "url:blockchainsummit.la/colombia2026:2026-11-04",
+          "event:blockchainsummitlatamcolombia2026:2026-11-04:bogota"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-18:morning"
   }
 }
