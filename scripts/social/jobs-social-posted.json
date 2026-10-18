@@ -22352,7 +22352,8 @@
       },
       "account": "channel:web3",
       "attemptId": "5668ffeb-bec5-4e81-8843-438ad56f5725",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf8892e95a206bb3996558daa2781ff87acea7901"
     }
   ]
 }
