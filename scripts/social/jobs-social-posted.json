@@ -21247,7 +21247,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "0229496c-39a9-4a6e-b78a-ac43632fccd1",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad445eaae173d6e00e65294"
     }
   ]
 }
