@@ -19441,301 +19441,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-72ea0df0a0f292d3"></a>
-
-## MantisGrid AI Hackathon & Summit 2026
-
-- Record: `luma-crypto-O5yIm9jHUFEK4Sn`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/d6g5mb9o>
-
-### [MantisGrid AI] Hackathon & Summit
-
-https://www.mantisgrid.ai/
-
-Build the Future of AI Reliability
-
-September 17, 2026 - Palo Alto, California
-
-### About the Event
-
-Powerful AI requires more than advanced models - it depends on infrastructure that is reliable, observable, fast, and efficient.
-
-Spend one day building practical tools for mining infrastructure data, intelligent model routing, or AI reliability. Compete for a share of our $10,000 cash prize pool. Choose one challenge track or combine ideas across multiple tracks.
-
-We'll provide APIs, $25 inference credits for every participant, public infrastructure datasets, a starter notebook and a community of builders to support you throughout the hackathon.
-
-After the competition, join the AI Reliability Summit, featuring industry leaders, founders, and investors discussing the future of AI infrastructure and reliability. Wrap up the day with an evening networking reception providing food, beer, and non-alcoholic beverages.
-
-### Timeline
-
-- 8:00 AM - Doors Open, Breakfast & Networking
-- 9:00 AM - Welcome Keynote
-- 9:30 AM - Hackathon begins
-- 12:00 PM - Lunch
-- 3:00 PM - Project Submissions Close
-- 3:05 PM - Finalist Demos
-- 4:30 PM - Keynote & Demo
-- 5:30 PM - The Future of AI Infrastructure Panel
-- 6:00 PM - AI Reliability Beyond the Model Panel
-- 6:30 PM - Award Ceremony
-- 6:45 PM - Networking Reception (Dinner, Beer & Wine Service Begins)
-- 7:45 PM - Event Concludes
-
-### Compete across multiple award categories for a $10,000 cash prize pool
-
-- Best Overall Solution
-- Most Innovative
-- Highest Business Impact
-
-### Panel: The Future of AI Infrastructure
-
-[Boris Scholl.](https://www.linkedin.com/in/bscholl/) [VP & Architect, Cloud & AI Engineering at Microsoft.](https://www.microsoft.com/en-us)
-
-[Vijay Vusirikala.](http://linkedin.com/in/vijayvusiri) [Distinguished Lead - AI Systems & Networks at Arista](https://www.arista.com/en/).
-
-Malhar [Thakkar, Global AI ISV Solutions & Ecosystem Leader at Intel](https://www.linkedin.com/in/malhar4/).
-
-[Sam Aldrin, Distinguished Engineer, Nvidia](https://www.linkedin.com/in/sam-aldrin-02443/).
-
-### Panel: AI Reliability Beyond the Model
-
-[Vijay Krishnan.](https://linkedin.com/in/vijay0) [Founder & CTO of Turing.com.](http://turing.com/)
-
-[Mahesh Ram.](https://linkedin.com/in/rammahesh) [Ex-Head of AI, Zoom.](https://www.zoom.com/)
-
-[Jared Quincy Davis](https://linkedin.com/in/jaredquincydavis). [Founder & CEO of Mithril.](https://mithril.ai/)
-
-### Featured Keynote
-
-[Muckai Girish.](https://www.linkedin.com/in/muckaigirish/) [Co-founder & CEO of Rockfish Data.](https://www.rockfish.ai/)
-
-[William Vambenepe.](https://www.linkedin.com/in/vambenepe) [VP of Product at](https://mithril.ai/)[Mithril.](https://Mithril.ai)
-
-[Brian Laing.](https://www.linkedin.com/in/blaing) [Chief Solutions Officer at AccuKnox](https://accuknox.com/).
-
-### Good to know
-
-Who should join
-
-University students, researchers, developers, founders, and industry professionals
-
-Team format
-
-Teams up to 5
-
-What to bring
-
-Laptop and charger
-
-Food and drinks
-
-Lunch and dinner provided - Non-alcoholic options available
-
-Beer and wine available for guests 21+ with valid ID
-
-### Registration
-
-Free to attend
-
-<a id="event-5cf582cd5ff2aa75"></a>
-
-## Musly × London Fashion Week \| In Conversation with Rita Qaranbach, Lebanese Designer Redefining Fashion \| Sept 17 \| London
-
-- Record: `luma-crypto-NhNHlkuRIWWeHcN`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pjkzox1s>
-
-### About the event
-
-Members will gather in London during Fashion Week for an intimate evening with Rita Qaranbach, the London based Lebanese designer whose work has sparked global conversations around fashion, culture, and representation.
-
-Rita's designs have reached millions online, including the viral Spider Man sari worn by creator Atifa Arshad and Zainab Jiwa's widely celebrated Devil Wears Prada look.
-
-As fashion continues to evolve beyond runways and magazines, designers today are shaping culture in real time. The pieces that resonate most are often those that tell a deeper story about identity, heritage, belonging, and the communities they represent.
-
-Topics on the table include:
-
-- How fashion became one of the internet's most powerful forms of storytelling
-- Building a distinctive creative voice in a crowded industry
-- Representation, identity, and designing for communities that have historically been overlooked
-- The cultural impact of viral fashion moments
-- What luxury brands still get wrong about authenticity
-- The future of fashion, craftsmanship, and cultural influence
-
-Following the conversation, members will have the opportunity to ask questions, continue the discussion, and connect with fellow designers, founders, creatives, and cultural leaders over dinner.
-
-Expect a room filled with people building brands, telling stories, shaping culture, and contributing to the future of fashion from a range of perspectives.
-
-### About Rita Qaranbach
-
-A London based Lebanese fashion designer whose work sits at the intersection of fashion, culture, and storytelling.
-
-Many people discovered Rita through the viral fashion moments that captured millions online, including the Spider Man sari worn by Atifa Arshad and Zainab Jiwa's Devil Wears Prada look. But behind those moments is a designer who has spent years exploring how fashion can express identity, heritage, and representation in a way that feels both contemporary and deeply personal.
-
-Included in your ticket
-
-- Wide selection of Lebanese Appetizers
-- Mixed grills and rice
-- Dessert
-- Mocktails
-
-Attendance is by invitation. Reservations are confirmed upon approval.
-
--
-
-Event Policy
-
-Placement on the interest list does not guarantee attendance. Reservations are only confirmed upon approval. Payment is processed only once approval is extended.
-
-Due to the curated nature of Musly gatherings, bookings are final. Cancellations or non-attendance within 15 days of the event cannot be refunded, credited, or transferred.
-
-Guest access is extended selectively. Unless otherwise noted, events are reserved for members only. Attendance is verified at the door.
-
-Musly reserves the right to confirm attendance in alignment with the intended composition of the evening.
-
-<a id="event-0e6efd066bce8fdb"></a>
-
-## Launch Party: Banking on Blockchain, Second Edition 📚 2️⃣
-
-- Record: `luma-crypto-l4oAFIzgsjHGUbR`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hkfo1rv9>
-
-### About the event
-
-Let's Run It Back! You are cordially invited to join us for the launch of Banking [on] Blockchain'[s Second Edition, with creators + editors Sumeet Chugani](https://www.linkedin.com/in/sumeet-chugani/?utm_source=luma), [Steve Gannon](https://www.linkedin.com/in/stephentgannon/?utm_source=luma), [David Stier](https://www.linkedin.com/in/david-stier-817576/), [Emily Honsa Hicks](https://www.linkedin.com/in/emilyhonsahicks/), [Liz Davis](https://www.linkedin.com/in/elizabeth-lan-davis/), + [Samridhi Jain](https://www.linkedin.com/in/samridhi-jain-samridhi-writes-legally/).
-
-"Banking [on] [Blockchain: A Legal and Regulatory Guide, Second Edition](https://www.americanbar.org/products/inv/book/459082578/)" published by the ABA this month, is an updated + expanded comprehensive guide to the legal and regulatory landscape of blockchain technology covering relevant legal topics on blockchain, digital assets, cryptocurrency, and more. With the acceleration of crypto adoption, our second edition addresses all aspects of digital asset products and services, including use cases, infrastructure, risks, and market structure.
-
-Space is limited! We look forward to seeing you there.
-
-[Sponsored by DLA Piper (http://dlapiper.com/?utm_source=luma) + DWT](http://dwt.com/?utm_source=luma)
-
-<a id="event-7ce0f8a8122abe82"></a>
-
-## The Software Factory with SuperPlane & Elastic - When Agents Build, Ship, and Fix Your Code
-
-- Record: `luma-crypto-EdxcyBvKjWGpHRo`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/you-9pwk>
-
-### About the event
-
-Software factories are here. AI agents write code, open PRs, run tests, deploy to production, and respond to incidents - all without waiting for a human to click a button.
-
-Join SuperPlane and Elastic for an evening where engineering leaders, platform teams, and SREs explore what it actually takes to run a software factory: how agents ship code, how Elastic monitors what happens in production, and how SuperPlane orchestrates the full loop from commit → deploy to incident to fix. SuperPlane is the agent orchestrator that turns your tools into a software factory. Elastic is the observability engine that tells you what's happening inside it.
-
-This is an unconference, you bring the topics, we bring the structure (and drinks). Come with opinions about how far you'd let agents go.
-
-Date: Thursday, September 17th from 6:00-9:00 PM
-
-Location: Elastic NYC Office
-
-1250 Broadway, Floor 16, Training Room
-
-New York, NY 10001
-
-Some topics we would discuss:
-
-- How much autonomy should agents have in production?
-- Building the feedback loop: deploy → observe → respond → learn
-- Agents that fix what agents broke - is that a loop or a spiral?
-- What does "human in the loop" actually mean when agents ship 10x faster?
-- Observability as the control plane for your software factory
-- From Kibana alert to automated rollback - what's your threshold?
-- The trust problem: when do you stop reviewing agent PRs?
-
-### Format
-
-- Topics proposed by attendees at the beginning
-- Sessions run in small groups (~5-7 people)
-- 30 minutes of facilitated discussion per session
-- Open participation and movement between sessions encouraged
-
-### Schedule
-
-- 6:00 - 6:30 PM → Arrival, food & drinks, networking
-- 6:30 - 6:50 PM → Welcome + software factories w/ Elastic & Superplane
-- 6:50 - 7:00 PM → Topic proposals & voting
-- 7:00 - 7:30 PM → Session 1
-- 7:30 - 7:40 PM → Short break
-- 7:40 - 8:10 PM → Session 2
-- 8:10 - 8:20 PM → Short break
-- 8:20 - 8:50 PM → Session 3
-- 8:50 - 9:00 PM → Wrap-up & key takeaways
-- 9:00 PM → Closing
-
-Coming up: ElasticON NYC
-
-Join us October 8 for a free day of hands-on learning, expert insights, and real-world AI, search, [observability, and security sessions. Register for fre](https://www.elastic.co/events/elasticon/new-york-city)[e](https://www.elastic.co/events/elasticon/new-york-city?utm_source=luma&utm_medium=event_page&utm_campaign=elasticon_nyc_2026&utm_content=superplane_meetup_sep17).
-
-### About SuperPlane
-
-[SuperPlane](https://superplane.com/) Software Factory platform that transforms software delivery from a collection of manual tasks into an orchestrated, AI-powered production system. It coordinates AI agents, developers, infrastructure, and operational tools to build, test, deploy, and maintain software with speed, consistency, and governance.
-
-### About Elastic
-
-[Elastic](https://www.elastic.co/?utm_source=luma) is the observability stack behind high-velocity engineering teams. With Elasticsearch, Kibana, and the rest of Elastic Stack, engineers, SREs and platform engineers get real-time visibility into logs, metrics, traces, and security events correlated in one place, not scattered across tools. As release cadence increases with the adoption of software factories, Elastic keeps you in control of what's running and why.
-
-<a id="event-6d8bd475bd4e5e80"></a>
-
-## NYC Founders Dinner \| Hosted by: T Palmer Agency & InsurtechNY
-
-- Record: `luma-crypto-K0dmnW28nE7WIoA`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tpafd0917>
-
-### About
-
-Join us for our exclusive 26th Founders Dinner in New York City! Our Founders Dinner invites Series A, B, and C Founders, VC, industry leaders, innovators, and key influencers in the Insurtech and AI industries to gather for a night of inspiration, collaboration, and networking.
-
-Throughout the evening, you'll have the opportunity to engage in insightful conversations, share ideas, and explore potential collaborations in an intimate and inviting setting. Whether you're reconnecting with familiar faces or meeting new industry peers, this Founders Dinner is an evening you won't want to miss. Come prepared to savor exquisite cuisine, enjoy delightful company, and leave inspired by the possibilities ahead. We're excited to have you join our NYC dinner, where we'll bring our industry expertise and fresh insights to the table.
-
-[Who is T Palmer Agency?](https://tpalmeragency.com/)
-
-T Palmer is a full turnkey agency that helps founders - particularly in sectors like Insurtech, HealthTech, Fintech, Wellness, and AI - tell their stories effectively. We focus on leading your GTM strategy and amplifying thought leadership, securing media coverage, and building strong brand narratives through PR, content, and partnerships. For these Founder's Dinners, we curate a complimentary meal and networking experience that helps founders create a strong community and foundation in their cities.
-
-[Who is InsurtechNY?](https://www.insurtechny.com/?utm_source=luma)
-
-InsurTechNY is a New York-based organization focused on accelerating innovation in the insurance industry by connecting insurers, brokers, startups, and investors. It operates as both a community hub and an accelerator, hosting conferences, pitch days, and educational programs that help early-stage companies gain visibility and support while giving industry leaders access to emerging technologies. Through its events, mentorship, and networking opportunities, InsurTechNY aims to modernize the insurance ecosystem and foster collaboration across all sides of the insurance and technology landscape.
-
-<a id="event-660c75cb0d86aa6a"></a>
-
-## founder dinner !!
-
-- Record: `luma-crypto-59e3uEcrxQW20PU`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0lpo6cho>
-
-### About the event
-
-chancery x the letter company
-
-a few things
-
-- three-course dinner
-- dress code: smart casual
-- photography: by attending you consent to being photographed for promotional use
-
-### about the hosts
-
-[The Letter Company](https://letter.company/?utm_source=luma) is a computational marketing company. The Letter framework exposes marketing tools for coding agents and forward-thinking marketers. For example, [companies looking to improve AI search can launch phantoms](https://phantomstory.com/?utm_source=luma), autonomous third-party publications that intelligently build rank.
-
-[chancery](https://thechancery.co/?utm_source=luma) hosts experiential dinners and events in the new york tech scene.
-
 <a id="event-af68ca47456b6f15"></a>
 
 ## BitcoinPalooza NYC 2026 — Music · Art · Fashion · Freedom
@@ -19812,48 +19517,6 @@ Visit https://bitcoinpalooza.nyc for the complete lineup and ongoing updates.
 Download materials at https://bitcoinpalooza.nyc/press
 
 We look forward to celebrating with you on September 17 - see you in Times Square.
-
-<a id="event-a8878fb45ed84ffe"></a>
-
-## App Founders Dinner NYC
-
-- Record: `luma-crypto-mZIljCm2XCvGbtQ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/udfkr3mz>
-
-### About the event
-
-The best growth learnings don't come from generic panels or webinars, they come from the founder sitting next to you at the dinner who solved your exact problem last quarter, sharing what's actually moving the needle.
-
-Join Valid, AppCap and PlayKit for an intimate evening where app growth leaders connect. No decks. No pitches. Just great drinks, even better bites, and a room full of people who drive user growth for a living.
-
-Intimate & unfiltered conversations drive the best mobile app performance insights, sharing dinner with a small group of industry leaders leaves the best lasting impact in your business strategy.
-
-AppCap, a product of Emigrant Bank, Member FDIC, provides early access to app store payouts to double down on user acquisition, paid marketing, and growth campaigns. Advance against your earned app store revenue with a flat fee capped at 2% per advance, no equity required, and repayment tied to your [payouts. Terms and eligibility apply. Visit useappcap.com](https://useappcap.com) for more details.
-
-<a id="event-114ecae6c167407e"></a>
-
-## The Agent-Native Founders Dinner \| Maritime x Rho
-
-- Record: `luma-crypto-MjQiOCDFo3HCHGp`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/j4o3tf37>
-
-### About the event
-
-Join Rho and Maritime for an intimate, highly selective dinner bringing together founders building the future of the agent economy. We'll explore what it takes to bring AI agents to mass adoption, deploy thousands or millions of agents in production, and build the infrastructure powering this new era. Expect ambitious ideas, candid conversations, and meaningful connections with the people building what comes next. #SF
-
-### About the hosts
-
-[Maritime](https://maritime.sh/) is the cloud built for AI agents - the simplest way to deploy, manage, and scale them. Each agent runs on its own isolated micro-VM that sleeps when idle and wakes on demand, bringing costs down to $1 per agent per month. Builders at companies like Google, TikTok, and MIT ship agents on Maritime with a single command, no infrastructure to wire up.
-
-[Rho](http://rho.co/) is the all-in-one banking platform for startups and the accountants supporting them. With banking setup in minutes, cashback cards, and powerful tools for managing spend, paying bills, and closing the books, Rho helps high-growth startups move fast and stay focused - backed by support that goes to the end of the earth to help you win.
-
-[Rho](http://rho.co/) is a fintech company, not a bank. Checking and card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. and its partner banks.
 
 <a id="event-e0b47950e022be3a"></a>
 
@@ -53395,95 +53058,6 @@ Registration is non-refundable and non-transferable.
 
 Spots are very limited and will be filled on a first-come, first-served basis.
 
-<a id="event-03281a392caa9442"></a>
-
-## European Blockchain Convention 12
-
-- Record: `ma-european-blockchain-convention-12`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://eblockchainconvention.com/european-blockchain-convention-12/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-10adc3846fd505de"></a>
-
-## Softstack VIP Dinner
-
-- Record: `w3v-softstack-vip-dinner-1787258914817`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ckojxzw4>
-
-### VIP Dinner by Softstack
-
-An invitation only evening for founders, investors and partners in Barcelona.
-
-Join Softstack for a private rooftop dinner during EBC Barcelona, bringing together a curated group of ecosystem partners, investors and selected Web3 founders.
-
-### No pitching. No noise. No big crowds
-
-Just good food, drinks, a strong room and meaningful conversations with people building, funding, securing and scaling the next generation of Web3 products.
-
-This evening is designed for high quality networking in a more personal setting.
-
-Who this is for
-
-- Existing Softstack clients & Partners
-- Early Stage Founders working on exciting Web3 products
-- Selected teams exploring security, development or partnership support in the next six months https://softstack.io/service-partner-program-spp/
-
-### About Softstack
-
-Softstack is the leading German web3 development & end-to-end security firm. Around since 2017, 0 exploits.
-
-Softstack is EBC's partner for the Startup Battle. If you're interested in the same perks for your portfolio firms, accelerator or hackathon, RSVP or get in touch with Michael at EBC.
-
-### Location
-
-Barcelona rooftop venue
-
-Exact location shared with approved guests only
-
-### Format
-
-Private dinner
-
-Curated guest list
-
-High signal networking
-
-After
-
-After dinner feel free to join us at EBC's closing party !
-
-<a id="event-0c7b397c66854b6f"></a>
-
-## Crypto & Cocktails: September
-
-- Record: `luma-evt-xtQuAxi8CBWWOcE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-17T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/3i1w4n8j>
-- Original page: <https://luma.com/3i1w4n8j>
-
-### About the event
-
-Welcome to Crypto & Cocktails - a laid-back monthly meetup for builders, traders, degens, and investors.
-
-No panel. No pitch. Just good networking & conversation. Whether you're launching a protocol, deep in DeFi, or just trying to survive another bear market, this is where Austin's crypto crowd connects.
-
-Thursday, September 17
-
-5:00 PM - 7:30 PM
-
-Industry Austin - 1211 E 5th St, Unit 150
-
-Events will resume being hosted on the 3rd Thursday of the month. So be sure to join the community and stay up to date with us on Telegram: https://t.me/cryptoandcocktails
-
 <a id="event-b379dc1a01098f6d"></a>
 
 ## HackIndia Spark-12 Jaipur
@@ -72151,6 +71725,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-230d80d27c431cc0"></a>
+
+## Stream Forward London
+
+- Record: `luma-evt-cF5BS5dsg05vwN8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z1rtoeb7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9a801993a65e6fef"></a>
 
 ## Scientific Bitcoin Institute-Academic Day
@@ -72208,6 +71794,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T16:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/des-moines-data-analytics/events/316665472/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4a2a59e27b18a406"></a>
+
+## Building Apps and Communities on Solana
+
+- Record: `luma-evt-H1GEOEuxvdcGh7m`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vgqemfnq>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73886,6 +73484,18 @@ Solana Summit India is a one-day program of talks, panels and workshops about th
 - Starts: 2026-11-02T05:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/arbiverse-mumbai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7c91b3aad8055053"></a>
+
+## Model Mondays - Spotlight on NVIDIA models
+
+- Record: `mu-316423209`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T10:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316423209/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

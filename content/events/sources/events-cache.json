@@ -315,119 +315,6 @@
     }
   },
   {
-    "id": "luma-evt-xtQuAxi8CBWWOcE",
-    "name": "Crypto & Cocktails: September",
-    "description": "Welcome to Crypto & Cocktails – a laid-back monthly meetup for builders, traders, degens, and investors.\n\nNo panel. No pitch. Just good networking & conversation. Whether you're launching a protocol, deep in DeFi, or just trying to survive another bear market, this is where Austin's crypto crowd connects.\n\n🗓 Thursday, September 17\n🕠 5:00 PM - 7:30 PM\n📍Industry Austin – 1211 E 5th St, Unit 150\n\nEvents will resume being hosted on the 3rd Thursday of the month. So be sure to join the community and stay up to date with us on Telegram: https://t.me/cryptoandcocktails",
-    "startDate": "2026-09-17T22:00:00.000Z",
-    "endDate": "2026-09-18T00:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Industry Austin, 1211 E 5th St. Ste 150, Austin, TX 78702, USA",
-    "url": "https://lu.ma/3i1w4n8j",
-    "coverImage": "/events/luma-evt-xtquaxi8cbwwoce-7c9ad3b8.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "crypto-cocktails",
-    "timezone": "America/Chicago",
-    "registrationUrl": "https://luma.com/3i1w4n8j",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Industry Austin",
-    "streetAddress": "1211 E 5th St. Ste 150, Austin",
-    "addressLocality": "Austin",
-    "addressRegion": "Texas",
-    "addressCountry": "US",
-    "neighborhood": "East Cesar Chavez",
-    "coordinates": {
-      "latitude": 30.2629956,
-      "longitude": -97.7301213
-    },
-    "hosts": [
-      "Matt Farrow",
-      "Austin Lee"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Crypto & Cocktails (Austin)"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/3i1w4n8j",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/3i1w4n8j",
-      "eventId": "evt-xtQuAxi8CBWWOcE",
-      "fetchedAt": "2026-09-19T23:49:41.318Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "ma-european-blockchain-convention-12",
-    "name": "European Blockchain Convention 12",
-    "description": "The European Blockchain Convention remains true to its founding vision and mission of accelerating the European blockchain ecosystem. It welcomes thousands of visitors, leading blockchain and crypto s",
-    "startDate": "2026-09-17T00:00:00.000Z",
-    "endDate": "2026-09-18T00:00:00.000Z",
-    "city": "Barcelona, Spain",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://eblockchainconvention.com/european-blockchain-convention-12/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-softstack-vip-dinner-1787258914817",
-    "name": "Softstack VIP Dinner",
-    "description": "## VIP Dinner by Softstack\n\nAn invitation only evening for founders, investors and partners in Barcelona.\n\nJoin Softstack for a private rooftop dinner during EBC Barcelona, bringing together a curated group of  ecosystem partners, investors and selected Web3 founders.\n\n## No pitching. No noise. No big crowds.\n\nJust good food, drinks, a strong room and meaningful conversations with people building, funding, securing and scaling the next generation of Web3 products.\n\nThis evening is designed for high quality networking in a more personal setting.\n\nWho this is for\n\n• Existing Softstack clients & Partners\n• Early Stage Founders working on exciting Web3 products\n• Selected teams exploring security, development or partnership support in the next six months https://softstack.io/service-partner-program-spp/\n\n## About Softstack\n\nSoftstack is the leading German web3 development & end-to-end security firm. Around since 2017, 0 exploits.\n\nSoftstack is EBC's partner for the Startup Battle. If you're interested in the same perks for your portfolio firms, accelerator or hackathon, RSVP or get in touch with Michael at EBC.\n\nLocation\n\nBarcelona rooftop venue\nExact location shared with approved guests only\n\nFormat\n\nPrivate dinner\nCurated guest list\nHigh signal networking\n\nAfter\n\nAfter dinner feel free to join us at EBC's closing party !",
-    "startDate": "2026-09-17T17:30:00.000Z",
-    "endDate": "2026-09-17T20:30:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/ckojxzw4",
-    "coverImage": "/events/w3v-softstack-vip-dinner-1787258914817-a05dcc00.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Michael Van Baelen",
-      "Softstack.io ⧉"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "svd",
-    "registrationUrl": "https://luma.com/ckojxzw4",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ckojxzw4",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/ckojxzw4",
-      "eventId": "evt-b2FQSAXCANMuco5",
-      "fetchedAt": "2026-09-19T23:49:42.624Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-hackindia-spark-12-jaipur",
     "name": "HackIndia Spark-12 Jaipur",
     "description": "HackIndia Spark-12: a September 18–19, 2026 hackathon covering AI, Web3, blockchain, DeepTech and IoT.",
@@ -21582,10 +21469,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22157,7 +22041,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316844003/",
-    "coverImage": "/events/mu-316844003-9f7255b0.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22185,7 +22069,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/316870652/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316870652-396fe18a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22352,7 +22236,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316859694/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859694-f23c50d1.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24269,5 +24153,47 @@
     "coverImage": "/events/luma-evt-ryamjgxofwkyvm5-5f18f93b.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-cF5BS5dsg05vwN8",
+    "name": "Stream Forward London",
+    "description": "",
+    "startDate": "2026-10-20T07:30:00.000Z",
+    "endDate": "2026-10-20T18:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/z1rtoeb7",
+    "coverImage": "/events/luma-evt-cf5bs5dsg05vwn8-55365157.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-H1GEOEuxvdcGh7m",
+    "name": "Building Apps and Communities on Solana",
+    "description": "",
+    "startDate": "2026-10-20T17:00:00.000Z",
+    "endDate": "2026-10-20T19:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/vgqemfnq",
+    "coverImage": "/events/luma-evt-h1geoeuxvdcgh7m-a21e2e21.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316423209",
+    "name": "Model Mondays - Spotlight on NVIDIA models",
+    "description": "NVIDIA models give developers options for building and deploying AI workloads that require strong reasoning, generation, and accelerated inference across a range of application scenarios.\n\nJoin us as ",
+    "startDate": "2026-11-02T10:30:00-08:00",
+    "endDate": "2026-11-02T10:30:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/316423209/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
