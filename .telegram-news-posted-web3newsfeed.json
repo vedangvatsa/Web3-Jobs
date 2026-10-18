@@ -794,6 +794,9 @@
   "https://hashtagweb3.com/okx-venue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hamas-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcash-lobbyist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/house-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/polymarket-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/visa-memecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2283,6 +2286,11 @@
   "US sanctions Hamas financing network over France-linked crypto transfers",
   "Zcash Advocacy Group Hires First Washington Lobbyist",
   "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1",
+  "House Oversight Committee expands prediction market insider trading investigation",
+  "House Oversight widens prediction market insider trading probe",
+  "Polymarket Targeted by $10 Million Stolen Card Fraud Attempt",
+  "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported",
+  "Visa Restricts Credit Card Rewards for Meme Coin Purchases",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2606,5 +2614,8 @@
   "fp:2026|begin|digital|employe|financ|ministry|october1|pay|payment|receiv",
   "fp:clock|fil|for63|ice|launch24|market|notic|okx|okxic|operat",
   "fp:accus|charity|cryptocurrency|designat|entity|fak|financ|fiv|franc|french",
-  "fp:advocacy|director|divij|effectiv|executiv|group|hir|issu|lobby|lobbyist"
+  "fp:advocacy|director|divij|effectiv|executiv|group|hir|issu|lobby|lobbyist",
+  "fp:committe|detection|document|expand|hous|identity|insider|investigation|lawmaker|market",
+  "fp:10m|attempt|block|card|debit|deposit|fac|fraud|fraudster|journal",
+  "fp:card|classify|clos|coin|credit|digital|eligibility|loophol|media|mem"
 ]

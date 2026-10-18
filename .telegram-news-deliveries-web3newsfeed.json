@@ -1791,7 +1791,7 @@
     "sentAt": "2026-10-18T11:34:51.153Z"
   },
   "1230021e-83ea-4558-8361-9a3f89c2abde": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T19:37:05.702Z",
     "stories": [
       {
@@ -1819,6 +1819,8 @@
         "originalTitle": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole"
       }
     ],
-    "slotKey": "2026-10-18:evening"
+    "slotKey": "2026-10-18:evening",
+    "messageId": 65762,
+    "sentAt": "2026-10-18T19:37:18.109Z"
   }
 }
