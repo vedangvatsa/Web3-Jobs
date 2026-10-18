@@ -24705,7 +24705,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "8d8e968a-f275-410c-ba21-5fb4078c20bf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7517669766329815040"
     }
   ]
 }
