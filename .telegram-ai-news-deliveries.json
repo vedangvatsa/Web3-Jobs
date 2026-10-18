@@ -1742,5 +1742,22 @@
     "slotKey": "2026-10-18:morning",
     "messageId": 193367,
     "sentAt": "2026-10-18T04:05:05.733Z"
+  },
+  "1fd8b64b-ba44-41c8-9356-5674a60fbf70": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T11:35:13.874Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "The Download: failed social media bans, and extending pets’ lives",
+        "headline": "MIT Technology Review reports on social media regulation",
+        "summary": "The publication analyzed the failure of recent legislative attempts to restrict social media access for minors.",
+        "event_rationale": "This covers the analysis of legislative failures in social media regulation, which is distinct from AI-specific infrastructure or model development.",
+        "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The Download: failed social media bans, and extending pets’ lives"
+      }
+    ],
+    "slotKey": "2026-10-18:afternoon"
   }
 }
