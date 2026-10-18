@@ -1758,7 +1758,7 @@
     "sentAt": "2026-10-18T04:07:30.993Z"
   },
   "cc1c062a-a213-45e8-a951-058fc677c78e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T11:34:46.665Z",
     "stories": [
       {
@@ -1786,6 +1786,8 @@
         "originalTitle": "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1"
       }
     ],
-    "slotKey": "2026-10-18:afternoon"
+    "slotKey": "2026-10-18:afternoon",
+    "messageId": 65761,
+    "sentAt": "2026-10-18T11:34:51.153Z"
   }
 }
