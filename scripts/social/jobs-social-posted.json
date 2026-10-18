@@ -24999,7 +24999,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "7fa6d899-3add-46d0-9d33-e1ff39b5dd04",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd82a2788890e24ca7ec599414e5045efa0bcfaa9"
     }
   ]
 }
