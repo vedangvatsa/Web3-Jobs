@@ -23047,7 +23047,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "3ab5555b-4d42-44d4-8498-3a5beb617c7e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad4af3c0b0d72757a1d5f8c"
     }
   ]
 }
