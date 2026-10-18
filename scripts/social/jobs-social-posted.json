@@ -21350,8 +21350,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "8f1af349-9f65-4060-b74c-a6d48782c24d",
-      "verification": "pending",
-      "postId": "6ad44617ae173d6e00e65be3"
+      "verification": "verified",
+      "postId": "6ad44617ae173d6e00e65be3",
+      "permalink": "https://twitter.com/hashtag_web3/status/2111670569460486342"
     }
   ]
 }
