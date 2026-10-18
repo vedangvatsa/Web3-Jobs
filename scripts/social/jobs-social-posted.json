@@ -23147,7 +23147,8 @@
       },
       "account": "profile",
       "attemptId": "fd7138ec-a775-4abd-8291-aeb2317e8f14",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3ae38f9e7f194aa9c22aeca88ddbd880b916cba0"
     }
   ]
 }
