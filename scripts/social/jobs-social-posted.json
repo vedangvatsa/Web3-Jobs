@@ -24576,7 +24576,8 @@
       },
       "account": "channel:growth",
       "attemptId": "9c41ca8f-5d84-4aec-b214-31657bd54bce",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa955caba3d8cd1c7205cafaec79311b45b6d3ba7"
     }
   ]
 }
