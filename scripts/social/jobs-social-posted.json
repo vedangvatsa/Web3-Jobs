@@ -21583,7 +21583,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "321cb7ef-710e-4430-9f69-b9969a0c0769",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc56ae9db9ad957fcb9e0db8ca923e28fb88ebdad"
     }
   ]
 }
