@@ -25447,7 +25447,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "da8d016b-7432-4210-ad2f-3f332407ff38",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad5200fa48c8f8371b0151f"
     }
   ]
 }
