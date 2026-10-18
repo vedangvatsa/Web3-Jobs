@@ -1756,5 +1756,36 @@
     "slotKey": "2026-10-18:morning",
     "messageId": 65760,
     "sentAt": "2026-10-18T04:07:30.993Z"
+  },
+  "cc1c062a-a213-45e8-a951-058fc677c78e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T11:34:46.665Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OKX and ICE Plan 24/7 Tokenized US Stock Trading",
+        "summary": "The OKXICE venture submitted a notice to operate a round-the-clock market for 63 US stocks.",
+        "link": "https://hashtagweb3.com/okx-venue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX and ICE Venture Files to Launch 24-7 Tokenized Stock Venue"
+      },
+      {
+        "index": -1,
+        "headline": "US sanctions five targets over Hamas crypto financing",
+        "summary": "The Treasury designated entities accused of moving $2 million through fake French charities and cryptocurrency transfers.",
+        "link": "https://hashtagweb3.com/hamas-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US sanctions Hamas financing network over France-linked crypto transfers"
+      },
+      {
+        "index": -1,
+        "headline": "Zcash Advocacy Group Hires First Washington Lobbyist",
+        "summary": "Executive director Divij Pandya will lobby on tax and market-structure issues starting October 1.",
+        "link": "https://hashtagweb3.com/zcash-lobbyist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1"
+      }
+    ],
+    "slotKey": "2026-10-18:afternoon"
   }
 }
