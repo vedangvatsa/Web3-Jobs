@@ -1,10 +1,50 @@
 {
-  "generatedAt": "2026-10-18T11:31:35.656Z",
+  "generatedAt": "2026-10-18T14:45:49.696Z",
   "items": [
+    {
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "pubDate": "Sun, 18 Oct 2026 13:01:04 +0000",
+      "creator": "Agent",
+      "contentSnippet": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sen...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their v...",
+      "source": "Coindesk"
+    },
     {
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 18 Oct 2026 10:43:12 +0000",
+      "pubDate": "Sun, 18 Oct 2026 10:46:00 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
       "source": "Cointelegraph"
@@ -28,7 +68,7 @@
     {
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 18 Oct 2026 06:26:53 +0000",
+      "pubDate": "Sun, 18 Oct 2026 06:29:00 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "The round brings AIsa’s total funding to more than $9 million.",
       "source": "Cointelegraph"
@@ -88,14 +128,6 @@
       "creator": "Michael Millard",
       "contentSnippet": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a ...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
-      "source": "Coindesk"
     },
     {
       "title": "Brooklyn Prosecutors Seize 112 Servers in Crypto Investment Scam Targeting Russian Community in US",
@@ -394,14 +426,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "At the White House, crypto policy vacancy looms large",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-      "pubDate": "Thu, 15 Oct 2026 18:48:02 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
       "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 15 Oct 2026 17:14:45 +0000",
@@ -442,28 +466,12 @@
       "source": "The Block"
     },
     {
-      "title": "Mastercard brings stablecoin balances into traditional banking and card payments ",
-      "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 15:46:05 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among th...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
       "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
       "pubDate": "Thu, 15 Oct 2026 15:20:41 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 15:10:44 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
@@ -520,14 +528,6 @@
       "creator": "Tyler Warner",
       "contentSnippet": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds—some 85 times faster.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "creator": "Jamie Crawley",
-      "contentSnippet": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital a...",
-      "source": "Coindesk"
     },
     {
       "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
