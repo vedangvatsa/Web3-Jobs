@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-18T08:12:33.024Z",
+  "generatedAt": "2026-10-18T11:31:35.656Z",
   "items": [
+    {
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 10:43:12 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds",
       "link": "https://dailyhodl.com/2026/10/18/scammer-loses-4800000-in-bitcoin-as-thieves-drain-ledger-wallets-holding-task-scam-proceeds/",
@@ -68,7 +84,7 @@
     {
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 17 Oct 2026 12:58:03 +0000",
+      "pubDate": "Sat, 17 Oct 2026 13:01:00 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a ...",
       "source": "Cointelegraph"
@@ -92,7 +108,7 @@
     {
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
       "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 17 Oct 2026 10:00:07 +0000",
+      "pubDate": "Sat, 17 Oct 2026 10:03:00 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
       "source": "Cointelegraph"
@@ -472,14 +488,6 @@
       "creator": "Brian Danga",
       "contentSnippet": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
       "source": "The Block"
-    },
-    {
-      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 14:16:55 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its d...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Ledger Announces Atom Touchscreen Android Device",
