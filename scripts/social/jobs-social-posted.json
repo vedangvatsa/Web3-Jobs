@@ -21292,6 +21292,34 @@
       "attemptId": "ae5cd43d-dc84-4691-873a-8a92314b8df8",
       "verification": "verified",
       "postId": "urn:li:share:7517436147736875009"
+    },
+    {
+      "slug": "eng321",
+      "company": "Binance",
+      "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+      "platform": "facebook",
+      "postedAt": "2026-10-18T04:04:40.282Z",
+      "expectedText": "Binance is hiring Binance Accelerator Programm - Software Engineer (KYB): https://hashtagweb3.com/eng321/fb?og=7",
+      "snapshot": {
+        "id": "0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
+        "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+        "company": "Binance",
+        "link": "https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
+        "date": "2026-09-25T01:44:31.971Z",
+        "source": "Lever: Binance [binance]",
+        "location": "Remote (Asia)",
+        "workplaceType": "remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng321"
+      },
+      "payload": {
+        "message": "Binance is hiring Binance Accelerator Programm - Software Engineer (KYB): https://hashtagweb3.com/eng321/fb?og=7",
+        "link": "https://hashtagweb3.com/eng321/fb?og=7"
+      },
+      "attemptId": "b64c1421-6401-4a87-9e2a-249ca6e44787",
+      "verification": "creating"
     }
   ]
 }
