@@ -25033,7 +25033,8 @@
       },
       "account": "channel:dev",
       "attemptId": "c65758ab-8033-4b67-9299-d21502384833",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8ab6f1ceee879d4eaa872d6da5389f37940dd323"
     }
   ]
 }
