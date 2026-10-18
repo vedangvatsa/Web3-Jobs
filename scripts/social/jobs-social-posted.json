@@ -25373,7 +25373,8 @@
       },
       "account": "channel:design",
       "attemptId": "2c0a340e-2d4a-4e2f-b12b-7dcb8a9d4a4d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd599dc616b8891c71cee5c8f8b8ceb825846b122"
     }
   ]
 }
