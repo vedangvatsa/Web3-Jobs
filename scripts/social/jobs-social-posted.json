@@ -22031,7 +22031,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "f1906850-cdad-447e-8706-532a8a0ed8b6",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad446910a208cb3234cfa0c"
     }
   ]
 }
