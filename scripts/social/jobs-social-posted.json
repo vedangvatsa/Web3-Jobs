@@ -21617,7 +21617,8 @@
       },
       "account": "channel:dev",
       "attemptId": "3ec24e07-1c8f-41e6-91c7-5ab63e6709af",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x972603114d90f767664ec6eef83fd1724cc0cdc9"
     }
   ]
 }
