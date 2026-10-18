@@ -100,6 +100,7 @@
   "accountId": "6ab62682ea19ca0bdee284bd",
   "claimId": "40fa2fc1-bce5-4363-b28f-4a634d679242",
   "startedAt": "2026-10-18T11:31:31.896Z",
-  "status": "claimed",
-  "steps": {}
+  "status": "accepted",
+  "steps": {},
+  "postId": "6ad4ae150b0d72757a1d2218"
 }
