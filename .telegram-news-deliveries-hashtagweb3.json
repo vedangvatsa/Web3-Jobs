@@ -1725,7 +1725,7 @@
     "sentAt": "2026-10-18T11:35:46.426Z"
   },
   "a8e3e6a6-178e-4118-9dcd-72e5a53d082b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T19:36:50.909Z",
     "stories": [
       {
@@ -1753,6 +1753,8 @@
         "originalTitle": "US sanctions Hamas financing network over France-linked crypto transfers"
       }
     ],
-    "slotKey": "2026-10-18:evening"
+    "slotKey": "2026-10-18:evening",
+    "messageId": 155836,
+    "sentAt": "2026-10-18T19:36:56.944Z"
   }
 }

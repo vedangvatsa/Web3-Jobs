@@ -764,6 +764,9 @@
   "https://hashtagweb3.com/cftc-swaps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kraken-settlement?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/clayton-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/triple-funds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hamas-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2199,6 +2202,12 @@
   "Kraken operator Payward adds 24-7 dollar settlement with Singapore Gulf Bank",
   "Trump Appoints Jay Clayton to Lead Federal AI Group",
   "Trump names Jay Clayton to lead new Super Intelligence Force on AI",
+  "Illinois Officials Seek Delay for Digital Asset Tax",
+  "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027",
+  "SEC Approves Cboe Listing Rules for Six Volatility Funds",
+  "SEC clears Cboe listing rules for six 3x Volatility Shares funds",
+  "US Sanctions Hamas Network Using Crypto and French Charities",
+  "US sanctions Hamas financing network over France-linked crypto transfers",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2513,5 +2522,8 @@
   "fp:clock|exemption|fil|for63|ice|innovation|intend|joint|launch24|offer",
   "fp:casino|cftc|classify|contract|cover|event|exclud|exempt|interim|politic",
   "fp:adds24|any|asia|bank|can|client|dollar|enables24|gulf|institutional",
-  "fp:announc|appoint|chair|clayton|coordinat|federal|forc|former|group|jay"
+  "fp:announc|appoint|chair|clayton|coordinat|federal|forc|former|group|jay",
+  "fp:asset|bid|court|delay|digital|group|illinois|implementation|join|july2027",
+  "fp:approv|asset|authoriz|cbo|clear|commodity|cover|energy|ether|fund",
+  "fp:charity|cryptocurrency|entity|financ|fiv|franc|fraudulent|french|hama|link"
 ]
