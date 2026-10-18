@@ -20604,7 +20604,8 @@
       },
       "account": "profile",
       "attemptId": "52951e40-b33e-4690-a47d-49ac2f2cda6a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x15e0b4b02279b2103371b786137f13a1d525d91d"
     }
   ]
 }
