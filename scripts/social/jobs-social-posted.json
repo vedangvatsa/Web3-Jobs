@@ -22941,7 +22941,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "7143e1c3-53af-4914-bc64-47154eddfda3",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad4af150a208cb323622a4d"
     }
   ]
 }
