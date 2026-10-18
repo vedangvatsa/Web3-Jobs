@@ -22899,9 +22899,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "78455db1-253c-40be-a26f-a8c7c4920f15",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad4af020a208cb3236223c0",
-      "error": "LinkedIn #Web3 receipt 6ad4af020a208cb3236223c0 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad4af020a208cb3236223c0 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517549003052388352"
     },
     {
       "slug": "mgr188",
