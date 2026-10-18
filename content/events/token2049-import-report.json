@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-18T11:31:59.697Z",
+  "checkedAt": "2026-10-18T19:31:55.626Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -11,8 +11,8 @@
   },
   "counts": {
     "existing": 241,
-    "excluded": 373,
-    "needs-review": 46,
+    "excluded": 370,
+    "needs-review": 49,
     "duplicate": 1
   },
   "importedTotal": 258,
@@ -2890,8 +2890,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/utila-run-club",
@@ -3376,8 +3376,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/ysowrmcf",
@@ -5917,8 +5917,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/0e4smoq9",

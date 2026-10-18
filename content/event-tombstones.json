@@ -796,5 +796,33 @@
       "luma-crypto-aunikwvwseadez2",
       "fds"
     ]
+  },
+  "india-luma-6xtj7ikp": {
+    "until": "2027-10-18T19:31:49.913Z",
+    "slugs": [
+      "india-luma-6xtj7ikp",
+      "sacbi"
+    ]
+  },
+  "luma-crypto-eGhHQz8y2WSda3Z": {
+    "until": "2027-10-18T19:31:49.913Z",
+    "slugs": [
+      "luma-crypto-eghhqz8y2wsda3z",
+      "cfis"
+    ]
+  },
+  "luma-crypto-Dja1fFLflKdoc3r": {
+    "until": "2027-10-18T19:31:49.913Z",
+    "slugs": [
+      "luma-crypto-dja1fflflkdoc3r",
+      "zbha"
+    ]
+  },
+  "luma-crypto-hzgEMbo2e4w1juo": {
+    "until": "2027-10-18T19:31:49.913Z",
+    "slugs": [
+      "luma-crypto-hzgembo2e4w1juo",
+      "wsad"
+    ]
   }
 }

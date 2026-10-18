@@ -18100,92 +18100,6 @@ More Details here: https://thebitmela.com/
 
 Let's get you up to speed on Bitcoin!
 
-<a id="event-9e3c84535172cbc9"></a>
-
-## Solana Across Campuses - Bhopal India
-
-- Record: `india-luma-6xtj7ikp`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-18T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6xtj7ikp>
-
-### Solana Across Campuses - Bhopal | India
-
-Location: TBA after approval
-
-Date: Tuesday, September 16, 2026
-
-Time: 2:30 PM Onwards
-
-[Organizer: Aniket Sahu](https://www.linkedin.com/in/aniketsahu115) & [The Origin Guild Community](https://x.com/og_guild?utm_source=luma)
-
-### About the Event
-
-Join us for Solana Across Campuses - India, [a nationwide student-led initiative powered by College.xyz](https://College.xyz) supported by the Solana Foundation and The Origin Guild Community, a student first Web3 collective empowering builders through workshops, mentorship and hackathon support to bring builders, creators and innovators together to explore the Solana ecosystem.
-
-This Bhopal edition, hosted in Bhopal, is your chance to dive deep into Web3, learn how to get started on Solana, meet like-minded students and experience the decentralized future - all in one day!
-
-If you are a developer, designer, community builder or just curious about crypto, this meetup will help you understand how to build, earn and grow on Solana.
-
-### Agenda
-
-- Welcome & Check-in- Meet fellow student
-- [Introduction to Solana & College.xyz](https://College.xyz)
-  Learn about the Solana ecosystem, why it's the [fastest-growing blockchain for developers and how College.xyz](https://College.xyz) empowers student builders globally.
-- Wallet Setup & On-chain Demo
-  Hands-on session to set up your first Solana wallet (Phantom / Backpack) and experience on-chain apps like Jupiter Exchange and Solana Pay.
-- Building on Solana - Student Stories & Opportunities
-  Discover real student projects built on Solana and how you can participate in hackathons, grants and the Colosseum Cypherpunk Bounty.
-- Mini Workshop / Quiz Challenge
-  Engage in a fun on-chain quiz and mini challenge to test your Solana knowledge - winners earn some free SOL
-- Networking & Open Discussion
-  Meet local builders, discuss ideas and explore future collaborations or projects under the Solana student network.
-- Closing Remarks & Group Photo
-  Wrap up the evening with closing notes and community announcements, followed by group pictures and refreshments.
-- The Origin Guild Community Intro - learn about their local initiatives, mentorship opportunities and how to join future workshops events and hackathons
-
-Why You Should Attend
-
-- Earn Free SOL: Complete the onboarding tasks and on-chain quiz to win rewards.
-- Win Solana Breakpoint Travel Subsidies: Top student builders of Colosseum hackathon can qualify for travel support to attend Solana Breakpoint 2026.
-- Exclusive Learning Access: Early access [to the Solana Developer Curriculum curated by College.xyz](https://College.xyz) and Solana Foundation.
-- Free Swags & Merch: Limited-edition Solana goodies for active participants(Yet to Finalize).
-- Network with Builders: Connect with like-minded students, mentors and community leaders in the Web3 ecosystem.
-- Get Certified: Receive an official participation badge via Luma (NFT-based certification coming soon).
-- Exclusive access to The Origin Guild Community mentorship channels and invites to future local build nights and hacktrains
-
-Who Can Attend
-
-- University students (developers, designers and enthusiasts)
-- Web2 and Web3 beginners curious about Solana
-- Hackathon participants or aspiring builders
-- Community organizers & tech club members
-
-No prior blockchain experience needed - just curiosity and excitement to learn something new!
-
-Limited Slots Available
-
-So grab your spot early and be part of India's biggest Solana student onboarding campaign.
-
-Powered by
-
-[Solana Foundation x College.xyz](https://College.xyz)
-
-Stay Connected
-
-Join The Origin Guild Community to stay updated with announcements, collaborations, and upcoming Solana ecosystem opportunities.
-
-Telegram: https://t.me/tog_guild
-
-[WhatsApp: Join WhatsApp Group](https://chat.whatsapp.com/Ij3DzAbeA3M7bzA7zkhtHx?utm_source=luma)
-
-Stay in the loop for community calls, build sessions and future campus activations powered by The Origin Guild.
-
-[Solana Across Campuses is a nationwide initiative powered by](http://college.xyz/?utm_source=luma)[College.xyz](https://College.xyz) and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators and curious minds together to explore what's happening on Solana.
-
-These events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.
-
 <a id="event-1bdc7ef1197a1c1a"></a>
 
 ## Monad Blitz Mumbai V4
@@ -19441,94 +19355,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-67d0bb357dfe5659"></a>
-
-## 💻 Coworking Fridays Istanbul — SuperteamTR
-
-- Record: `luma-crypto-eGhHQz8y2WSda3Z`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/psea3jry>
-
-### Free coworking in Istanbul, every Friday
-
-Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
-
-Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
-
-### What to expect
-
-→ Free coworking
-
-→ Superteam Türkiye team on-site
-
-→ Founder & builder community
-
-→ Feedback, intros, and ecosystem support
-
-→ Coffee, conversations, and heads-down building
-
-Open to founders, developers, designers, creators, students - basically anyone building something.
-
-You don't need to be a Superteam member to join.
-
-Bring your laptop. See you Friday.
-
-By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
-<a id="event-5ed63577d986ef36"></a>
-
-## Zaro's BizOps Hackathon @ AWS
-
-- Record: `luma-crypto-Dja1fFLflKdoc3r`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gehfjmwq>
-
-### About the event
-
-Pick an operations headache. Build an AI agent that kills it by 6 PM. The winner walks away with dinner for two at the three-Michelin-starred Restaurant Gordon Ramsay. No coding skills needed. If you can write a simple email, you can build agents on Zaro's platform.
-
-### Description
-
-Got a business operations task you dread making time for?
-
-Come and try your hand at solving it with Zaro.ai. Bring one real pain, build an agent that kills it over the afternoon, and leave with something that runs. No coding knowledge required.
-
-### Running order
-
-2:00 PM - Welcome from ShallWeTech, then Zaro sets the stage.
-
-2:10 PM - Live demo: one AI agent built start to finish in 15 minutes. The only demo of the day.
-
-2:25 PM - Build time. You, your problem, and Zaro builders on the floor. Check-ins at 3:00 and 4:00 so nobody stays stuck.
-
-4:45 PM - Judges walk the room and see every agent running at your laptop
-
-5:15 PM - Shortlist demos: five builders, two minutes each, in front of the room
-
-5:50 PM - Prize and close
-
-6:00 PM - Wrap
-
-Refreshments and snacks throughout.
-
-### What to bring
-
-One real work headache. A laptop. That's it.
-
-### Our partner
-
-ShallWeTech is a global innovation platform connecting founders, venture capital and industry specialists with deep market insight and a curated investment network behind it. They bring reach and will open [the afternoon by introducing their community. shallwe.tech](https://shallwe.tech)
-
-### Powered by Zaro
-
-Zaro brings the platform you build on, two builders on the floor, five ready-made starter agents, and a workspace of your own.
-
-Places are limited and allocated by registration. Please tell us your one problem when you sign up. We'll [have a starter agent pointed at it before you arrive. Zaro.ai](https://Zaro.ai)
-
 <a id="event-0463352010d3e285"></a>
 
 ## Wallet Max Emerald Summit: Sustainability & AI for Business
@@ -19790,58 +19616,6 @@ We'll select a curated group of ambitious software developers and send official 
 Presented By
 
 [Viam](https://www.viam.com/) - The robotics software platform we'll use to configure, control, and deploy models to your robot. Viam makes it easy to get a robot up and running quickly.
-
-<a id="event-5c6608bde148dc6c"></a>
-
-## Dubai Web3 Social - Arts Dao
-
-- Record: `luma-crypto-hzgEMbo2e4w1juo`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/arts-4qgu>
-
-### About the event
-
-Dubai is back in full swing !!!!
-
-After a crazy few months in the region, the city is buzzing, market is picking up, and the energy is high again. So what better way to celebrate than getting the Arts DAO community together for drinks?
-
-Join us for a relaxed evening of drinks, conversations, and good vibes with fellow founders, investors, builders, creators, and friends of the Arts DAO community. No agenda, no panels - just good people, good conversations, and a chance to reconnect after the summer.
-
-Arts DAO members get first priority for registration, with a limited number of spots allocated to non-members.
-
-Capacity is limited, so if you want to join, you got to be quick.
-
-18 September 2026
-
-6:00 PM onwards
-
-Location TBA
-
-Welcome drink Included
-
-We look forward to seeing you for another memorable evening with the Arts DAO community.
-
-The Arts DAO Team
-
-### About Arts DAO
-
-Arts DAO is a curated, application-based private members club headquartered in Dubai, bringing together founders, investors, executives, creators, and innovators shaping the future of technology, AI, Web3, venture capital, and digital innovation.
-
-Since its launch in 2021, Arts DAO has grown into one of the region's most influential innovation communities, with 800+ carefully selected members from around the world. Through a selective membership process, Arts DAO cultivates a trusted environment where exceptional people connect, collaborate, invest, and build lasting relationships.
-
-Our mission is simple: to create meaningful connections among people who are shaping the future.
-
-[Learn more or apply for membership at artsdao.io](https://artsdao.io)
-
-### Photography & Videography Notice
-
-Photography and videography may take place during this event. By attending, you consent to Arts DAO capturing and using photographs and video recordings that may appear across our website, social media channels, marketing materials, and future promotional campaigns.
-
-### Refund Policy
-
-Once your registration has been approved and payment has been processed, tickets are non-refundable and non-transferable, unless the event is cancelled by Arts DAO.
 
 <a id="event-8a3e910483ca0a71"></a>
 
@@ -71852,6 +71626,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-37fcab1d7fbef94a"></a>
+
+## Start Your Engine: NRTHRN Strong x Hyrox Launch
+
+- Record: `luma-evt-rWiaMcqH0pOEnEQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/3c0mlbpz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2eed187b794da219"></a>
 
 ## 2026 Bitcoin for Financial Services Welcome Party
@@ -71861,6 +71647,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bq0qztmu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fc38130c184dfd76"></a>
+
+## PEI Operating Partners Dinner at Delmonico's
+
+- Record: `luma-evt-eReKZEWtRHRwn9P`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/v1ipxjqz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72113,6 +71911,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T11:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/2f3k1vw5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f7431ab3ca1e38bc"></a>
+
+## CRETech Careers in PropTech and ConTech (Sponsored by FIRE) - NYU, Cambridge, Columbia + ICPTC
+
+- Record: `luma-evt-dhHvUTlh8ZXHYf2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T15:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/xa54uitp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73160,6 +72970,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-30T12:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.labitconf.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e1e86560f8e01cd9"></a>
+
+## AI & Web3 Music Meetup
+
+- Record: `luma-evt-lzupoprFFkUQski`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/eitsogbg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
