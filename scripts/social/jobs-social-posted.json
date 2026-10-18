@@ -21129,7 +21129,8 @@
       },
       "account": "channel:design",
       "attemptId": "b1d5eba6-fa4a-49d0-88bd-556a9afbed25",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc2461ee592b15147bfafce55d355b59bc41db0c1"
     }
   ]
 }
