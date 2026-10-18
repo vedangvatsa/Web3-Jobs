@@ -19527,9 +19527,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "89323f4c-eb78-4959-b75d-925aaecd37c6",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad3cdf8938409f1d09db463",
-      "error": "LinkedIn CVin.Bio receipt 6ad3cdf8938409f1d09db463 remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad3cdf8938409f1d09db463 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517307370172100608"
     },
     {
       "slug": "associate52",
