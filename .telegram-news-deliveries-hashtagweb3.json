@@ -1657,5 +1657,36 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 155826,
     "sentAt": "2026-10-17T19:35:13.622Z"
+  },
+  "3ebafc37-b07b-4d03-a5da-42da63b5599c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:07:43.973Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitcoin Core merges fix for SIGHASH_SINGLE signing issue",
+        "summary": "Developers integrated code to resolve a vulnerability affecting transaction signatures within the Bitcoin network software.",
+        "link": "https://hashtagweb3.com/core-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitcoin Core Merged Fix for SIGHASH_SINGLE Signing Gap on September 25"
+      },
+      {
+        "index": -1,
+        "headline": "India-Linked Crypto Exchange Inflows Total $88.4 Billion",
+        "summary": "Domestic platforms processed 0.7% of the total value sent to centralized exchanges during the twelve-month period.",
+        "link": "https://hashtagweb3.com/india-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "India-attributed exchange inflows hit $88.4B as domestic platforms keep 0.7%"
+      },
+      {
+        "index": -1,
+        "headline": "OKX and ICE Plan 24-7 Tokenized Stock Trading Venue",
+        "summary": "The joint venture intends to offer round-the-clock trading for 63 US stocks using an SEC innovation exemption.",
+        "link": "https://hashtagweb3.com/okx-venue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX and ICE Venture Files to Launch 24-7 Tokenized Stock Venue"
+      }
+    ],
+    "slotKey": "2026-10-18:morning"
   }
 }
