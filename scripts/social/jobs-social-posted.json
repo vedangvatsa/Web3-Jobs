@@ -21753,7 +21753,8 @@
       },
       "account": "channel:base",
       "attemptId": "dcd5826e-73b0-4818-b9f8-65affc6032c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0de06b5b6dbf07b85660436118aadd67fd26026f"
     }
   ]
 }
