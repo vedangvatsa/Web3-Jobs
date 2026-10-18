@@ -22944,6 +22944,48 @@
       "verification": "pending",
       "postId": "6ad4af150a208cb323622a4d",
       "error": "LinkedIn CVin.Bio receipt 6ad4af150a208cb323622a4d remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "mgr188",
+      "company": "Robinhood",
+      "title": "Futures Risk Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-18T11:33:26.883Z",
+      "expectedText": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/li?og=7",
+      "snapshot": {
+        "id": "8287392",
+        "title": "Futures Risk Program Manager",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
+        "date": "2026-10-15T16:38:12-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL",
+        "department": "[INACTIVE] Talent Acquisition",
+        "active": true,
+        "salary": "$138.6k – $175k/yr",
+        "dateVerified": true,
+        "slug": "mgr188"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr188/li?og=7",
+          "title": "Futures Risk Program Manager at Robinhood",
+          "description": "Join Robinhood as Futures Risk Program Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr188.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "fcc01dae-d261-47ed-a399-6b4a95da91f7",
+      "verification": "creating"
     }
   ]
 }
