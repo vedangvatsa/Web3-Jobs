@@ -789,7 +789,7 @@
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
       "attempts": 1,
       "expiresAt": "2026-10-07T18:51:50.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z",
       "reason": "not-a-concrete-event",
       "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
       "sourceChecks": [],
@@ -44144,25 +44144,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7eeb64fa6a37a8224f5",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T18:48:02.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the CoinDesk analysis of the White House policy vacancy. Staffing confirmation plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:59:43.961Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the CoinDesk analysis of the White House policy vacancy. Staffing confirmation plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "White House crypto negotiator vacancy Witt policy analysis"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "5740f6269331a5ee0b94": {
       "source": "Cointelegraph",
@@ -44179,25 +44175,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5740f6269331a5ee0b94",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T17:14:45.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Cointelegraph piece on WSJ-reported GENIUS Act profits. WSJ original plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:57:57.177Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on WSJ-reported GENIUS Act profits. WSJ original plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Bo Hines Tether payments GENIUS Act WSJ report"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "cab35860214bc86bcf69": {
       "source": "CryptoSlate",
@@ -44214,25 +44206,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "cab35860214bc86bcf69",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T17:00:01.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the CryptoSlate piece on the White House negotiator exit. Confirmation plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:59:13.848Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece on the White House negotiator exit. Confirmation plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Patrick Witt White House crypto negotiator exit confirmation"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "031208ac91461642af08": {
       "source": "Unchained",
@@ -44587,25 +44575,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "decf5764a15e13d3aaca",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T19:00:53.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the CryptoSlate piece naming two firms in the breach wave. Regulator notice plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/south-korea-names-two-crypto-firms-in-breach-wave-that-also-hit-major-banks/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:59:36.931Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece naming two firms in the breach wave. Regulator notice plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "South Korea crypto firms breach banks names regulator"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "2f16a5ac75e4bf7e1da1": {
       "source": "Decrypt",
@@ -44622,25 +44606,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f16a5ac75e4bf7e1da1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:28:50.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Decrypt piece on the Mastercard-BVNK Global Money Platform. Company notices plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:57:24.986Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Decrypt piece on the Mastercard-BVNK Global Money Platform. Company notices plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Mastercard BVNK Global Money Platform stablecoin announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "1b54d32806ecaf004e81": {
       "source": "The Block",
@@ -44657,25 +44637,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b54d32806ecaf004e81",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:00:02.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Block page today; Multiliquid raise notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:14.630Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; Multiliquid raise notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Multiliquid 8 million tokenized assets settlement raise"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "53064bdff4f3266a49a5": {
       "source": "BeInCrypto",
@@ -44987,25 +44963,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7de1791b963b67c6cc0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:30:41.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Schwab notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:19.124Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Schwab notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Schwab retail bitcoin ether rollout crypto transfers announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "064d0c55604609705c31": {
       "source": "The Block",
@@ -45022,25 +44994,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "064d0c55604609705c31",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:06:00.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Block page today; company production reports plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:16.897Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; company production reports plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "CleanSpark BitFuFu September bitcoin production Canaan report"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "ea48cb3dadc6274a11a6": {
       "source": "Bitcoin Magazine",
@@ -45083,25 +45051,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "49aad686e8625b158b74",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:48:32.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Block page today; DeFi Development notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:12.372Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; DeFi Development notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "DeFi Development CHAD dividend 14% Solana holdings announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "55e0421d5e216b7a0988": {
       "source": "The Defiant",
@@ -46612,25 +46576,21 @@
         "The Defiant"
       ],
       "id": "857aff714f94618e8c4d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T19:26:54.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the BeInCrypto page today; IPX raise notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/ipx-4m-funding-celebrity-tokenization-base-launch/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:23.679Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the BeInCrypto page today; IPX raise notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "IPX Exchange 4M seed agentic tokenized IP announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "8f9bc246e601ddf638cd": {
       "source": "Bankless",
@@ -46751,25 +46711,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "23342593d5d3baddac13",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T17:18:56.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Ripple Prime notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-prime-rolls-out-traditional-asset-perps-linked-to-trade-xyz-bloomberg-reports",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:21.341Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Ripple Prime notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Ripple Prime traditional-asset perps Trade.xyz Bloomberg"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "d7ad1ec9ad2d0c878763": {
       "source": "The Defiant",
@@ -46786,25 +46742,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7ad1ec9ad2d0c878763",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T17:08:03.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Defiant page text on self-custody withdrawal bars. Central bank text plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:59:25.364Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Defiant page text on self-custody withdrawal bars. Central bank text plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Russia self-custody withdrawals regulated accounts ban"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "a82f5304a32cecac9271": {
       "source": "Cointelegraph",
@@ -46821,25 +46773,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a82f5304a32cecac9271",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:49:59.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Cointelegraph piece on the Riksbank legislation call. Riksbank report plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:58:55.232Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on the Riksbank legislation call. Riksbank report plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Riksbank digital krona legislation recommendation ECB euro"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "f3243c0f677df6108cd1": {
       "source": "Unchained",
@@ -46856,25 +46804,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3243c0f677df6108cd1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T16:38:10.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Unchained piece on EBA supervision from Nov 12. EBA notice plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/usdcs-eu-reserves-and-capital-shift-to-eba-supervision-in-micas-first-significant-call/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:59:55.164Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Unchained piece on EBA supervision from Nov 12. EBA notice plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "USDC EBA supervision Circle EU reserves November 12"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "ede866d36daad4934a58": {
       "source": "CoinJournal",
@@ -46917,25 +46861,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "55131e319e7dfd67d8fe",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:58:08.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Bitcoin Magazine piece; organized group allegedly spent millions on tampering. Ledger statement plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:57:52.686Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Bitcoin Magazine piece; organized group allegedly spent millions on tampering. Ledger statement plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Ledger organized crime group millions wallet tampering statement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "01a4847bd2658aa68ab4": {
       "source": "CryptoSlate",
@@ -46952,25 +46892,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "01a4847bd2658aa68ab4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:50:10.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the CryptoSlate piece on the A$14M capital rule. ASIC paper plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:57:04.331Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece on the A$14M capital rule. ASIC paper plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Australia A$14 million capital rule crypto ASIC consultation"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "faec9021384cb81c99a3": {
       "source": "Cointelegraph",
@@ -46987,25 +46923,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "faec9021384cb81c99a3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:46:05.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "needs-corroboration",
-      "note": "Opened the Cointelegraph piece on stablecoin balances in banking rails. Company notices plus a second outlet still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-16T04:00:09.356Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on stablecoin balances in banking rails. Company notices plus a second outlet still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Mastercard BVNK stablecoin balances banking cards announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "219c9592bca0bf66265a": {
       "source": "The Defiant",
@@ -47027,25 +46959,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "219c9592bca0bf66265a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:36:52.000Z",
       "lastSeenAt": "2026-10-17T07:57:15.110Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Visa or Inyo notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:10.157Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Visa or Inyo notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Visa Direct USDC prefunding Inyo Global production announcement"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "a0efd8457a3debade0a7": {
       "source": "Unchained",
@@ -47116,25 +47044,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4442ad8fd3ed0cbe26f9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-16T03:31:52.126Z",
       "attempts": 1,
       "expiresAt": "2026-10-18T15:12:13.000Z",
       "lastSeenAt": "2026-10-16T03:31:52.126Z",
-      "reason": "source-blocked",
-      "note": "Automated fetch returned HTTP 403 for the Defiant page today; Crypto.com notice plus a second outlet still missing.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-16T03:56:07.873Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Crypto.com notice plus a second outlet still missing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-18T19:31:44.408Z",
       "retrySearches": [
         "Crypto.com Predict Pro order books sports combos launch"
       ],
-      "lastReviewedDay": "2026-10-16",
-      "nextReviewDate": "2026-10-17"
+      "lastReviewedDay": "2026-10-18",
+      "nextReviewDate": "2026-10-17",
+      "automatic": true
     },
     "c901cad87a831b64244f": {
       "source": "CoinDesk",
@@ -52602,7 +52526,7 @@
       "firstSeenAt": "2026-10-17T21:35:10.129Z",
       "attempts": 0,
       "expiresAt": "2026-10-20T19:42:21.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "28f9ff58999ee1e3eb73": {
       "source": "Crypto Briefing",
@@ -52728,7 +52652,7 @@
       "firstSeenAt": "2026-10-17T21:35:10.129Z",
       "attempts": 0,
       "expiresAt": "2026-10-20T19:56:25.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "adf6aa8fbaf09f07c585": {
       "source": "CoinDesk",
@@ -52749,7 +52673,7 @@
       "firstSeenAt": "2026-10-18T03:34:32.104Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T01:06:35.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "41c589c188a2873fadab": {
       "source": "Crypto Briefing",
@@ -52812,7 +52736,7 @@
       "firstSeenAt": "2026-10-18T03:34:32.104Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T03:00:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "972ed9dbc897d1436976": {
       "source": "BeInCrypto",
@@ -52833,7 +52757,7 @@
       "firstSeenAt": "2026-10-18T03:34:32.104Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T01:11:15.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "f27fbb1d7520bf41ece1": {
       "source": "Crypto Briefing",
@@ -52896,7 +52820,7 @@
       "firstSeenAt": "2026-10-18T03:34:32.104Z",
       "attempts": 0,
       "expiresAt": "2026-10-20T23:17:31.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "a8c5215a8fe54daa5716": {
       "source": "Crypto Briefing",
@@ -52959,7 +52883,7 @@
       "firstSeenAt": "2026-10-18T08:12:33.453Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T06:26:53.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "e3a6c255ec9f3029a749": {
       "source": "BeInCrypto",
@@ -52980,7 +52904,7 @@
       "firstSeenAt": "2026-10-18T08:12:33.453Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T07:39:29.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "277e76dc9e90ab685a42": {
       "source": "BeInCrypto",
@@ -53001,7 +52925,7 @@
       "firstSeenAt": "2026-10-18T08:12:33.453Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T07:22:03.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "b7a6244f04a825582ba7": {
       "source": "Crypto Briefing",
@@ -53043,7 +52967,7 @@
       "firstSeenAt": "2026-10-18T08:12:33.453Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T07:13:32.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "b3f7b0d2265a8e6aceb7": {
       "source": "CryptoSlate",
@@ -53253,7 +53177,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:08:44.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "2e617bcc4c8272224cb6": {
       "source": "Crypto Briefing",
@@ -53274,7 +53198,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:25:41.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "29d05033bf665c7da741": {
       "source": "Crypto Briefing",
@@ -53295,7 +53219,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T11:30:25.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "04dc2aa83ff0e22c3590": {
       "source": "Crypto Briefing",
@@ -53316,7 +53240,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T11:15:11.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "4f8fb6f70b475d9dda2a": {
       "source": "The Defiant",
@@ -53337,7 +53261,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T11:10:38.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "422f909b7144c6b4d92a": {
       "source": "Crypto Briefing",
@@ -53358,7 +53282,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:59:13.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "686ba26ae9612dcea442": {
       "source": "Cointelegraph",
@@ -53386,7 +53310,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:43:12.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "3cd4b68978c48ae040f4": {
       "source": "BeInCrypto",
@@ -53407,7 +53331,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:29:13.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "0686338af40c5fd5cabe": {
       "source": "Crypto Briefing",
@@ -53428,7 +53352,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T10:14:31.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "1125e1f7f1936fbf6049": {
       "source": "Crypto Briefing",
@@ -53470,7 +53394,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T09:14:26.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "d9bb3583d6d0282fc481": {
       "source": "BeInCrypto",
@@ -53491,7 +53415,7 @@
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T09:13:56.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "08a0275d979618a2f427": {
       "source": "Crypto Briefing",
@@ -53554,7 +53478,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T12:00:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "1bf230ec24a5424f2c5a": {
       "source": "CryptoSlate",
@@ -53575,7 +53499,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:00:41.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "7001e6f258beab13eae0": {
       "source": "CoinDesk",
@@ -53596,7 +53520,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:00:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "5f562a9c08713dbfedde": {
       "source": "BeInCrypto",
@@ -53617,7 +53541,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T12:47:58.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "8d85347cfacc9ea1395c": {
       "source": "Crypto Briefing",
@@ -53638,7 +53562,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T12:46:52.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "adb13602b45cde82d62d": {
       "source": "CryptoSlate",
@@ -53659,7 +53583,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T12:30:34.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "3f3034286bc06f561702": {
       "source": "Crypto Briefing",
@@ -53680,7 +53604,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:42:50.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "707e0aea619eab2433bf": {
       "source": "Crypto Briefing",
@@ -53701,7 +53625,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:39:40.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "15e9c743551cf4182f44": {
       "source": "Crypto Briefing",
@@ -53722,7 +53646,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:36:59.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "4bb51e4167af9b7a702d": {
       "source": "Crypto Briefing",
@@ -53743,7 +53667,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:34:19.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "7d8f3e69f1281b9a87cd": {
       "source": "Crypto Briefing",
@@ -53764,7 +53688,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:04:10.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "47969ab1d4229d8be20f": {
       "source": "Crypto Briefing",
@@ -53785,7 +53709,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:03:32.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "2f402f749c50f3f2ecf2": {
       "source": "CoinDesk",
@@ -53806,7 +53730,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T14:00:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "fdd7f5b737aefc0ae94f": {
       "source": "Crypto Briefing",
@@ -53827,7 +53751,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:49:04.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "d08aed992fd884d6da42": {
       "source": "Cointelegraph",
@@ -53848,7 +53772,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:48:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "86320cea0ba3b6f35d66": {
       "source": "Crypto Briefing",
@@ -53869,7 +53793,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:29:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "29bf345a52d9516c7a34": {
       "source": "Decrypt",
@@ -53890,7 +53814,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:01:04.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "2c24af12de05acf009aa": {
       "source": "CryptoSlate",
@@ -53911,7 +53835,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:00:30.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "47592c95ae4bcd5d3b71": {
       "source": "CoinDesk",
@@ -53932,7 +53856,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T13:00:00.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "5a8c4be221758aafeb2e": {
       "source": "CryptoSlate",
@@ -53953,7 +53877,7 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T12:00:10.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     },
     "cb8e9a09fbb4086f8ece": {
       "source": "CryptoSlate",
@@ -53995,7 +53919,637 @@
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
       "attempts": 0,
       "expiresAt": "2026-10-21T11:35:43.000Z",
-      "lastSeenAt": "2026-10-18T14:45:20.470Z"
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "6745ec31a902387701f7": {
+      "source": "Crypto Briefing",
+      "title": "Qubic halts mainnet after wallet drain empties 1,404 accounts",
+      "link": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/",
+      "published": "2026-10-18T15:18:32.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/",
+          "published": "2026-10-18T15:18:32.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "6745ec31a902387701f7",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:18:32.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "2263d0b8177c0560e0ed": {
+      "source": "CryptoSlate",
+      "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
+      "link": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
+      "published": "2026-10-18T15:00:36.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
+          "published": "2026-10-18T15:00:36.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "2263d0b8177c0560e0ed",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:00:36.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "4ee00a5f0bb3e7d99fec": {
+      "source": "CoinDesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "published": "2026-10-18T18:30:00.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+          "published": "2026-10-18T18:30:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4ee00a5f0bb3e7d99fec",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T18:30:00.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "6e184ac8bc21aa7dd8a5": {
+      "source": "Crypto Briefing",
+      "title": "Legal risks mount for AI companies after autonomous agents breach outside systems",
+      "link": "https://cryptobriefing.com/legal-risks-ai-companies-agent-hacking/",
+      "published": "2026-10-18T16:48:29.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/legal-risks-ai-companies-agent-hacking/",
+          "published": "2026-10-18T16:48:29.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "6e184ac8bc21aa7dd8a5",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:48:29.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "3da8b206a46fae652c17": {
+      "source": "CryptoSlate",
+      "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
+      "link": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/",
+      "published": "2026-10-18T15:45:05.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/",
+          "published": "2026-10-18T15:45:05.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3da8b206a46fae652c17",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:45:05.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "d22401ca1c5c91e9d68e": {
+      "source": "The Defiant",
+      "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
+      "link": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+      "published": "2026-10-18T15:09:55.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+          "published": "2026-10-18T15:09:55.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "d22401ca1c5c91e9d68e",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:09:55.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "c3dd58c1cc366cc7144b": {
+      "source": "Crypto Briefing",
+      "title": "Small and mid-cap crypto outpaces Bitcoin since late August, CryptoQuant analyst says",
+      "link": "https://cryptobriefing.com/small-mid-cap-crypto-outpaces-bitcoin-cryptoquant/",
+      "published": "2026-10-18T17:34:17.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/small-mid-cap-crypto-outpaces-bitcoin-cryptoquant/",
+          "published": "2026-10-18T17:34:17.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "c3dd58c1cc366cc7144b",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T17:34:17.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "c753e432ec0e5f29ccbe": {
+      "source": "CoinDesk",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "published": "2026-10-18T16:33:00.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+          "published": "2026-10-18T16:33:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "c753e432ec0e5f29ccbe",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:33:00.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "502045f1b7395b31ecb4": {
+      "source": "The Block",
+      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+      "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+      "published": "2026-10-18T16:07:43.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+          "published": "2026-10-18T16:07:43.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "502045f1b7395b31ecb4",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:07:43.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "9bd2563d57c5a43ef5b2": {
+      "source": "Crypto Briefing",
+      "title": "Solana ecosystem growth suggests potential undervaluation at $105",
+      "link": "https://cryptobriefing.com/solana-ecosystem-growth-suggests-potential-undervaluation-at-105/",
+      "published": "2026-10-18T15:59:04.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/solana-ecosystem-growth-suggests-potential-undervaluation-at-105/",
+          "published": "2026-10-18T15:59:04.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9bd2563d57c5a43ef5b2",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:59:04.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "c908ec0f7d1986247ea3": {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "published": "2026-10-18T15:01:04.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+          "published": "2026-10-18T15:01:04.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "c908ec0f7d1986247ea3",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:01:04.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "fcbfa78bad64f7912c67": {
+      "source": "BeInCrypto",
+      "title": "Could Bitcoin Price Drop to $10,000? Bloomberg Analyst Gives Grim Warning",
+      "link": "https://beincrypto.com/bitcoin-price-crash-warning-bloomberg-analyst/",
+      "published": "2026-10-18T14:39:53.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/bitcoin-price-crash-warning-bloomberg-analyst/",
+          "published": "2026-10-18T14:39:53.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "fcbfa78bad64f7912c67",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T14:39:53.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "ff0025a4f994e050236a": {
+      "source": "Crypto Briefing",
+      "title": "TSMC posts record Q3 as AI chip demand pushes revenue up 50.9%",
+      "link": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/",
+      "published": "2026-10-18T19:26:27.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/tsmc-record-q3-ai-chip-demand/",
+          "published": "2026-10-18T19:26:27.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "ff0025a4f994e050236a",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T19:26:27.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "a7c7a9bbce9adc4c9274": {
+      "source": "BeInCrypto",
+      "title": "Anthropic Pledges $48 Billion in Stock Before Its IPO: What Does It Mean for Buyers?",
+      "link": "https://beincrypto.com/anthropic-48-billion-stock-ipo-buyers/",
+      "published": "2026-10-18T19:01:32.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/anthropic-48-billion-stock-ipo-buyers/",
+          "published": "2026-10-18T19:01:32.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "a7c7a9bbce9adc4c9274",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T19:01:32.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "3dce1474ff570c71d95f": {
+      "source": "CryptoSlate",
+      "title": "Zcash’s planned Sprout freeze would leave private keys unable to move funds",
+      "link": "https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/",
+      "published": "2026-10-18T19:00:34.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/",
+          "published": "2026-10-18T19:00:34.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3dce1474ff570c71d95f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T19:00:34.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "47873b62671064b33a95": {
+      "source": "Crypto Briefing",
+      "title": "DeepSeek-V4.1-Flash takes the top open model spot in Code Arena",
+      "link": "https://cryptobriefing.com/deepseek-v4-1-flash-tops-code-arena/",
+      "published": "2026-10-18T19:00:23.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/deepseek-v4-1-flash-tops-code-arena/",
+          "published": "2026-10-18T19:00:23.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "47873b62671064b33a95",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T19:00:23.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "ad1ef87bf9ba8441124d": {
+      "source": "Crypto Briefing",
+      "title": "Anthropic ties its giving to its equity, from founder pledges to $200 million research funds",
+      "link": "https://cryptobriefing.com/anthropic-philanthropy-pledges-research-funds/",
+      "published": "2026-10-18T18:11:21.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/anthropic-philanthropy-pledges-research-funds/",
+          "published": "2026-10-18T18:11:21.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "ad1ef87bf9ba8441124d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T18:11:21.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "2e94d7ce231676d0a9ee": {
+      "source": "CryptoSlate",
+      "title": "Fidelity’s $500,000 crypto settlement leaves IRAs outside wallet-transfer terms",
+      "link": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms/",
+      "published": "2026-10-18T18:00:10.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms/",
+          "published": "2026-10-18T18:00:10.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "2e94d7ce231676d0a9ee",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T18:00:10.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "316bb6338ee38f809d4b": {
+      "source": "Crypto Briefing",
+      "title": "TeraWulf secures Google backing for its Lake Mariner data center campus",
+      "link": "https://cryptobriefing.com/terawulf-google-backing-lake-mariner/",
+      "published": "2026-10-18T17:53:13.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/terawulf-google-backing-lake-mariner/",
+          "published": "2026-10-18T17:53:13.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "316bb6338ee38f809d4b",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T17:53:13.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "608cf2dc19b22cac7404": {
+      "source": "BeInCrypto",
+      "title": "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
+      "link": "https://beincrypto.com/black-monday-traders-lose-ai-stock-bets/",
+      "published": "2026-10-18T17:51:27.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/black-monday-traders-lose-ai-stock-bets/",
+          "published": "2026-10-18T17:51:27.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "608cf2dc19b22cac7404",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T17:51:27.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "f99669acc94e710c88fc": {
+      "source": "Crypto Briefing",
+      "title": "Stacks outlines Q4 priorities to grow BTC bonding and ship Epoch 4.1",
+      "link": "https://cryptobriefing.com/stacks-q4-btc-bonding-epoch-4-1/",
+      "published": "2026-10-18T17:06:12.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/stacks-q4-btc-bonding-epoch-4-1/",
+          "published": "2026-10-18T17:06:12.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "f99669acc94e710c88fc",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T17:06:12.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "54961a100db2c15324a8": {
+      "source": "CryptoSlate",
+      "title": "Crypto doesn’t need your party to win, just its candidates",
+      "link": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+      "published": "2026-10-18T17:00:57.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+          "published": "2026-10-18T17:00:57.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "54961a100db2c15324a8",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T17:00:57.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "9e661874f9409358910a": {
+      "source": "BeInCrypto",
+      "title": "Priceless Pink Diamond Returns After 100 Years as Prices Crash",
+      "link": "https://beincrypto.com/pink-diamond-display-diamond-prices-record-low/",
+      "published": "2026-10-18T16:36:10.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/pink-diamond-display-diamond-prices-record-low/",
+          "published": "2026-10-18T16:36:10.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9e661874f9409358910a",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:36:10.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "ed8571d511b0e42e0f85": {
+      "source": "Crypto Briefing",
+      "title": "AI model improvements see diminishing developer engagement: report",
+      "link": "https://cryptobriefing.com/ai-model-improvements-see-diminishing-developer-engagement-report/",
+      "published": "2026-10-18T16:32:26.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/ai-model-improvements-see-diminishing-developer-engagement-report/",
+          "published": "2026-10-18T16:32:26.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "ed8571d511b0e42e0f85",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:32:26.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "fc544dab22a34259a8f4": {
+      "source": "Decrypt",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "link": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "published": "2026-10-18T16:31:03.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+          "published": "2026-10-18T16:31:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "fc544dab22a34259a8f4",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:31:03.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "2c3e5cc7aba1710657fd": {
+      "source": "Crypto Briefing",
+      "title": "Latvia plans a one-time 10% crypto tax declaration window in 2027",
+      "link": "https://cryptobriefing.com/latvia-crypto-tax-declaration-2027/",
+      "published": "2026-10-18T16:04:06.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/latvia-crypto-tax-declaration-2027/",
+          "published": "2026-10-18T16:04:06.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "2c3e5cc7aba1710657fd",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:04:06.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "bd17041b4504a1155c3a": {
+      "source": "CryptoSlate",
+      "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
+      "link": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/",
+      "published": "2026-10-18T16:00:22.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/",
+          "published": "2026-10-18T16:00:22.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "bd17041b4504a1155c3a",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:00:22.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "1e1b1d2b8d7bb6d7be81": {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "published": "2026-10-18T16:00:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+          "published": "2026-10-18T16:00:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "1e1b1d2b8d7bb6d7be81",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T16:00:00.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "88cc9108087f00277769": {
+      "source": "Crypto Briefing",
+      "title": "TSMC to build base dies for Nvidia’s custom HBM chips",
+      "link": "https://cryptobriefing.com/tsmc-nvidia-custom-hbm-base-dies/",
+      "published": "2026-10-18T15:12:13.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/tsmc-nvidia-custom-hbm-base-dies/",
+          "published": "2026-10-18T15:12:13.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "88cc9108087f00277769",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:12:13.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
+    },
+    "29fe5aa6eea3e25f5fcc": {
+      "source": "Crypto Briefing",
+      "title": "Starknet brings programmable privacy to Zcash-style assets",
+      "link": "https://cryptobriefing.com/starknet-programmable-privacy-zcash-strk20/",
+      "published": "2026-10-18T15:03:15.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/starknet-programmable-privacy-zcash-strk20/",
+          "published": "2026-10-18T15:03:15.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "29fe5aa6eea3e25f5fcc",
+      "status": "pending",
+      "firstSeenAt": "2026-10-18T19:31:44.408Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-21T15:03:15.000Z",
+      "lastSeenAt": "2026-10-18T19:31:44.408Z"
     }
   },
   "runs": {
@@ -94129,7 +94683,37 @@
         "47592c95ae4bcd5d3b71",
         "5a8c4be221758aafeb2e",
         "cb8e9a09fbb4086f8ece",
-        "faf8baed1769fd965e0a"
+        "faf8baed1769fd965e0a",
+        "6745ec31a902387701f7",
+        "2263d0b8177c0560e0ed",
+        "4ee00a5f0bb3e7d99fec",
+        "6e184ac8bc21aa7dd8a5",
+        "3da8b206a46fae652c17",
+        "d22401ca1c5c91e9d68e",
+        "c3dd58c1cc366cc7144b",
+        "c753e432ec0e5f29ccbe",
+        "502045f1b7395b31ecb4",
+        "9bd2563d57c5a43ef5b2",
+        "c908ec0f7d1986247ea3",
+        "fcbfa78bad64f7912c67",
+        "ff0025a4f994e050236a",
+        "a7c7a9bbce9adc4c9274",
+        "3dce1474ff570c71d95f",
+        "47873b62671064b33a95",
+        "ad1ef87bf9ba8441124d",
+        "2e94d7ce231676d0a9ee",
+        "316bb6338ee38f809d4b",
+        "608cf2dc19b22cac7404",
+        "f99669acc94e710c88fc",
+        "54961a100db2c15324a8",
+        "9e661874f9409358910a",
+        "ed8571d511b0e42e0f85",
+        "fc544dab22a34259a8f4",
+        "2c3e5cc7aba1710657fd",
+        "bd17041b4504a1155c3a",
+        "1e1b1d2b8d7bb6d7be81",
+        "88cc9108087f00277769",
+        "29fe5aa6eea3e25f5fcc"
       ],
       "outcomes": {
         "4582964dc6d28dba261b": {
@@ -94419,6 +95003,158 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-18T14:45:20.470Z",
           "automatic": true
+        },
+        "e7eeb64fa6a37a8224f5": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the CoinDesk analysis of the White House policy vacancy. Staffing confirmation plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "5740f6269331a5ee0b94": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on WSJ-reported GENIUS Act profits. WSJ original plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "cab35860214bc86bcf69": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece on the White House negotiator exit. Confirmation plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "decf5764a15e13d3aaca": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece naming two firms in the breach wave. Regulator notice plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "2f16a5ac75e4bf7e1da1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Decrypt piece on the Mastercard-BVNK Global Money Platform. Company notices plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "1b54d32806ecaf004e81": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; Multiliquid raise notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "e7de1791b963b67c6cc0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Schwab notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "064d0c55604609705c31": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; company production reports plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "49aad686e8625b158b74": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Block page today; DeFi Development notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "857aff714f94618e8c4d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the BeInCrypto page today; IPX raise notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "23342593d5d3baddac13": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Ripple Prime notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "d7ad1ec9ad2d0c878763": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Defiant page text on self-custody withdrawal bars. Central bank text plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "a82f5304a32cecac9271": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on the Riksbank legislation call. Riksbank report plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "f3243c0f677df6108cd1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Unchained piece on EBA supervision from Nov 12. EBA notice plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "55131e319e7dfd67d8fe": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Bitcoin Magazine piece; organized group allegedly spent millions on tampering. Ledger statement plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "01a4847bd2658aa68ab4": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the CryptoSlate piece on the A$14M capital rule. ASIC paper plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "faec9021384cb81c99a3": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Opened the Cointelegraph piece on stablecoin balances in banking rails. Company notices plus a second outlet still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "219c9592bca0bf66265a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Visa or Inyo notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
+        },
+        "4442ad8fd3ed0cbe26f9": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Automated fetch returned HTTP 403 for the Defiant page today; Crypto.com notice plus a second outlet still missing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-18T19:31:44.408Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -94651,7 +95387,7 @@
             "source": "Decrypt",
             "url": "https://decrypt.co/feed",
             "ok": true,
-            "items": 37
+            "items": 57
           },
           {
             "source": "Crypto Briefing",
@@ -94680,9 +95416,8 @@
           {
             "source": "CoinJournal",
             "url": "https://coinjournal.net/feed/",
-            "ok": false,
-            "error": "Error: HTTP 500",
-            "items": 0
+            "ok": true,
+            "items": 9
           },
           {
             "source": "The Defiant",
@@ -94721,10 +95456,9 @@
             "items": 643
           }
         ],
-        "total": 72,
-        "checkedAt": "2026-10-18T14:45:20.470Z"
-      },
-      "validationErrors": []
+        "total": 73,
+        "checkedAt": "2026-10-18T19:31:44.408Z"
+      }
     }
   }
 }
