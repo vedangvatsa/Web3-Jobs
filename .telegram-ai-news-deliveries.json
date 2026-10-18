@@ -1713,5 +1713,32 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 193366,
     "sentAt": "2026-10-17T19:33:12.939Z"
+  },
+  "02d7c6f2-2a88-4ca0-adbe-27ebf505012c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:05:02.627Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "headline": "Anthropic reports shifts in employee experience and meeting times",
+        "summary": "Internal operational data shows the workforce became more senior over the past year with increased meeting duration.",
+        "event_rationale": "Details internal staffing changes at Anthropic, distinct from previous reports on model vulnerabilities or safety researcher access.",
+        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "source": "TechCrunch",
+        "originalTitle": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+      },
+      {
+        "index": 4,
+        "original_title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+        "headline": "Biotech startups develop therapies to extend pet lifespans",
+        "summary": "Researchers are pursuing cellular and genetic treatments designed to delay aging and prolong life in domestic pets.",
+        "event_rationale": "Focuses on biotechnology research in pet longevity, entirely distinct from software algorithms and artificial intelligence regulation.",
+        "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Can’t bear to say goodbye to your pet? Biotech’s got you covered."
+      }
+    ],
+    "slotKey": "2026-10-18:morning"
   }
 }
