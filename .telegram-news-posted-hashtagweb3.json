@@ -758,6 +758,9 @@
   "https://hashtagweb3.com/mica-review?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/drift-claims?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/staking-queue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/core-fix?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/india-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okx-venue?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2181,6 +2184,12 @@
   "Drift opens DFX claims with redemptions near one cent per dollar",
   "Ethereum Staking Exit Queue Reaches Highest Level in October",
   "Ethereum Exit Queue Hits 2026 High as MetaMask Withdraws Validators",
+  "Bitcoin Core merges fix for SIGHASH_SINGLE signing issue",
+  "Bitcoin Core Merged Fix for SIGHASH_SINGLE Signing Gap on September 25",
+  "India-Linked Crypto Exchange Inflows Total $88.4 Billion",
+  "India-attributed exchange inflows hit $88.4B as domestic platforms keep 0.7%",
+  "OKX and ICE Plan 24-7 Tokenized Stock Trading Venue",
+  "OKX and ICE Venture Files to Launch 24-7 Tokenized Stock Venue",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2489,5 +2498,8 @@
   "fp:12m|700|bybit|client|expos|fund|hack|infiltrat|investigator|launder",
   "fp:ask|circl|commission|eas|equivalenc|european|issuanc|issuer|keep|liquidity",
   "fp:300m|approximately00104|april|cent|claim|dfx|dollar|drift|exploit|foundation",
-  "fp:000|15m|enter|eth|exit|high|highest|hits2026|leaving786|level"
+  "fp:000|15m|enter|eth|exit|high|highest|hits2026|leaving786|level",
+  "fp:affect|cod|cor|developer|fix|gap|integrat|issu|merg|network",
+  "fp:884b|attribut|centraliz|domestic|dur|exchang|hit|india|inflow|keep07",
+  "fp:clock|exemption|fil|for63|ice|innovation|intend|joint|launch24|offer"
 ]
