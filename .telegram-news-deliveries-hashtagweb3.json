@@ -1692,7 +1692,7 @@
     "sentAt": "2026-10-18T04:07:46.641Z"
   },
   "3fe57caf-d0b7-43b0-9a70-e4dc3569c2fa": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T11:35:40.535Z",
     "stories": [
       {
@@ -1720,6 +1720,8 @@
         "originalTitle": "Trump names Jay Clayton to lead new Super Intelligence Force on AI"
       }
     ],
-    "slotKey": "2026-10-18:afternoon"
+    "slotKey": "2026-10-18:afternoon",
+    "messageId": 155832,
+    "sentAt": "2026-10-18T11:35:46.426Z"
   }
 }
