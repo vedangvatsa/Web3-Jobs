@@ -1176,6 +1176,14 @@
     "lastUrl": "https://hashtagweb3.com/sls238",
     "updatedAt": "2026-10-13T19:39:44.970Z"
   },
+  "8256366": {
+    "slugs": [
+      "tr127"
+    ],
+    "lastSlug": "tr127",
+    "lastUrl": "https://hashtagweb3.com/tr127",
+    "updatedAt": "2026-10-18T04:04:30.778Z"
+  },
   "8260052": {
     "slugs": [
       "an75"
@@ -5145,5 +5153,37 @@
     "lastSlug": "eng479",
     "lastUrl": "https://hashtagweb3.com/eng479",
     "updatedAt": "2026-10-17T19:33:50.116Z"
+  },
+  "54aa9c0b-64dd-4e9d-bda0-2aee750589e8": {
+    "slugs": [
+      "an29"
+    ],
+    "lastSlug": "an29",
+    "lastUrl": "https://hashtagweb3.com/an29",
+    "updatedAt": "2026-10-18T04:04:30.778Z"
+  },
+  "8860479002": {
+    "slugs": [
+      "an83"
+    ],
+    "lastSlug": "an83",
+    "lastUrl": "https://hashtagweb3.com/an83",
+    "updatedAt": "2026-10-18T04:04:30.778Z"
+  },
+  "6779d8a3-adf3-401d-aeb8-df92747d6b24": {
+    "slugs": [
+      "pm101"
+    ],
+    "lastSlug": "pm101",
+    "lastUrl": "https://hashtagweb3.com/pm101",
+    "updatedAt": "2026-10-18T04:04:30.778Z"
+  },
+  "3bc9fcc6-ab9c-4679-a514-e8e8a59a9836": {
+    "slugs": [
+      "ko"
+    ],
+    "lastSlug": "ko",
+    "lastUrl": "https://hashtagweb3.com/ko",
+    "updatedAt": "2026-10-18T04:04:30.778Z"
   }
 }
