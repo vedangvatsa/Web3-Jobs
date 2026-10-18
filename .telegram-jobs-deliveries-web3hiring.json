@@ -5869,5 +5869,122 @@
     "slotKey": "2026-10-18:morning",
     "messageId": 16550,
     "sentAt": "2026-10-18T04:04:30.778Z"
+  },
+  "44cd73ab-5f84-4bd3-8d16-974bded5f128": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:04:32.875Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "54aa9c0b-64dd-4e9d-bda0-2aee750589e8",
+          "title": "Senior Intelligence Analyst, DPRK & China Focus",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/54aa9c0b-64dd-4e9d-bda0-2aee750589e8",
+          "date": "2026-09-23T10:20:03.687+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Hybrid (London Office)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an29"
+        },
+        "key": "54aa9c0b-64dd-4e9d-bda0-2aee750589e8",
+        "slug": "an29",
+        "url": "https://hashtagweb3.com/an29?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Senior Intelligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8860479002",
+          "title": "Senior Data Analyst",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8860479002",
+          "date": "2026-10-08T15:13:10-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Data Analytics",
+          "active": true,
+          "salary": "$110k – $140k/yr",
+          "dateVerified": true,
+          "slug": "an83"
+        },
+        "key": "8860479002",
+        "slug": "an83",
+        "url": "https://hashtagweb3.com/an83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Data Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "6779d8a3-adf3-401d-aeb8-df92747d6b24",
+          "title": "Senior Product Manager",
+          "company": "R3",
+          "link": "https://talent.superteam.fun/jobs/senior-product-manager-at-r3-6779d8a3-adf3-401d-aeb8-df92747d6b24",
+          "date": "2026-09-22T12:31:14.258830+00:00",
+          "source": "Superteam: R3 [superteam]",
+          "location": "Remote · Europe",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm101"
+        },
+        "key": "6779d8a3-adf3-401d-aeb8-df92747d6b24",
+        "slug": "pm101",
+        "url": "https://hashtagweb3.com/pm101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "R3",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8256366",
+          "title": "Quantitative Researcher - Prediction Markets",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8256366",
+          "date": "2026-10-05T13:37:36-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "New York",
+          "department": "Prediction Markets",
+          "active": true,
+          "salary": "$200k – $300k/yr",
+          "dateVerified": true,
+          "slug": "tr127"
+        },
+        "key": "8256366",
+        "slug": "tr127",
+        "url": "https://hashtagweb3.com/tr127?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Quantitative Researcher"
+      },
+      {
+        "snapshot": {
+          "id": "3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
+          "title": "KYC Officer",
+          "company": "Coinhako",
+          "link": "https://jobs.ashbyhq.com/coinhako/3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
+          "date": "2026-10-02T03:30:57.148+00:00",
+          "source": "Ashby: Coinhako [coinhako]",
+          "location": "Singapore",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ko"
+        },
+        "key": "3bc9fcc6-ab9c-4679-a514-e8e8a59a9836",
+        "slug": "ko",
+        "url": "https://hashtagweb3.com/ko?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinhako",
+        "title": "KYC Officer"
+      }
+    ],
+    "message": "- Chainalysis is hiring <a href=\"https://hashtagweb3.com/an29?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Intelligence Analyst, DPRK &amp; China Focus</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/an83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- R3 is hiring <a href=\"https://hashtagweb3.com/pm101?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative Researcher - Prediction Markets</a>\n- Coinhako is hiring <a href=\"https://hashtagweb3.com/ko?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KYC Officer</a>",
+    "slotKey": "2026-10-18:morning"
   }
 }
