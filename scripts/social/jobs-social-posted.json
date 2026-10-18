@@ -25530,7 +25530,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4abc719d-0a44-423a-87ac-d3862615fec0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7517670439066730497"
     }
   ]
 }
