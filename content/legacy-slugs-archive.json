@@ -146461,5 +146461,449 @@
     "company": "Open Standard",
     "title": "Smart Contract Engineer",
     "newSlug": "eng625"
+  },
+  "qa88": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "eng108": {
+    "id": "8212740",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8212740",
+    "company": "Flow Traders",
+    "title": "Senior Software Engineer, C++ (Market Data)"
+  },
+  "mkt23": {
+    "id": "364e76dd-6b42-43f5-a27d-a0d1fd4b37c7",
+    "link": "https://jobs.ashbyhq.com/0g/364e76dd-6b42-43f5-a27d-a0d1fd4b37c7",
+    "company": "0G Labs",
+    "title": "Growth Engineer"
+  },
+  "mkt16": {
+    "id": "8175627",
+    "link": "https://stripe.com/jobs/search?gh_jid=8175627",
+    "company": "Stripe",
+    "title": "Scale Partner Marketing Lead"
+  },
+  "an18": {
+    "id": "JR101148",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bermuda/Senior-Analyst--Fund-Management_JR101148",
+    "company": "Circle",
+    "title": "Senior Analyst, Fund Management"
+  },
+  "ob": {
+    "id": "JR101119",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "company": "Circle",
+    "title": "Senior Analyst, Network Onboarding"
+  },
+  "fs3": {
+    "id": "JR2001278",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Frankfurt/Finance-Specialist_JR2001278",
+    "company": "Bullish",
+    "title": "Finance Specialist"
+  },
+  "pm51": {
+    "id": "b989f17f-a2a2-42b1-9c6c-f2253fb11f6b",
+    "link": "https://jobs.ashbyhq.com/Sardine/b989f17f-a2a2-42b1-9c6c-f2253fb11f6b",
+    "company": "Sardine",
+    "title": "Head of Fraud Product"
+  },
+  "eng104": {
+    "id": "8212517",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212517",
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career — Immediate Start"
+  },
+  "eng103": {
+    "id": "8212508",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212508",
+    "company": "Stripe",
+    "title": "Software Engineer, Early Career — Immediate Start"
+  },
+  "mta": {
+    "id": "8597d151-46db-4c67-a809-5d40daae7185",
+    "link": "https://jobs.ashbyhq.com/primeintellect/8597d151-46db-4c67-a809-5d40daae7185",
+    "company": "Prime Intellect",
+    "title": "Member of Technical Staff - Prime Agent"
+  },
+  "sls70": {
+    "id": "8191710",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191710",
+    "company": "Stripe",
+    "title": "Sales Manager, Commercial Grower (Healthcare)"
+  },
+  "sls69": {
+    "id": "5427912008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5427912008",
+    "company": "Breeze Cash",
+    "title": "Senior Account Executive - Payments"
+  },
+  "p3cp": {
+    "id": "7998862003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7998862003",
+    "company": "a16z crypto",
+    "title": "Partner 36, Communications Partner, Bio"
+  },
+  "sls68": {
+    "id": "5427902008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5427902008",
+    "company": "Breeze Cash",
+    "title": "Business Development Representative"
+  },
+  "sls67": {
+    "id": "8191722",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191722",
+    "company": "Stripe",
+    "title": "Sales Manager, Commercial (Grower)"
+  },
+  "sls66": {
+    "id": "8212325",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212325",
+    "company": "Stripe",
+    "title": "Strategic Accounts Sales Leader, AI GTM"
+  },
+  "sls65": {
+    "id": "8816329002",
+    "link": "https://complyadvantage.com/careers/jobs/8816329002?gh_jid=8816329002",
+    "company": "ComplyAdvantage",
+    "title": "Business Development Representative"
+  },
+  "an39": {
+    "id": "8189730",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8189730",
+    "company": "DRW",
+    "title": "Data Analyst, Stewardship"
+  },
+  "eng102": {
+    "id": "4410460009",
+    "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4410460009",
+    "company": "Ondo Finance",
+    "title": "IT Engineer"
+  },
+  "cf": {
+    "id": "5e0b6548-2be4-42ad-ae44-447bcdde6358",
+    "link": "https://jobs.ashbyhq.com/Polymarket/5e0b6548-2be4-42ad-ae44-447bcdde6358",
+    "company": "Polymarket",
+    "title": "CFO, FCM"
+  },
+  "sls64": {
+    "id": "4405705009",
+    "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4405705009",
+    "company": "Digital Asset",
+    "title": "Director of Sales - RWA"
+  },
+  "pm50": {
+    "id": "8202750",
+    "link": "https://job-boards.greenhouse.io/consensys/jobs/8202750",
+    "company": "Consensys",
+    "title": "Lead Product Designer"
+  },
+  "mgr36": {
+    "id": "8181032",
+    "link": "https://stripe.com/jobs/search?gh_jid=8181032",
+    "company": "Stripe",
+    "title": "Manager, Customer Success Enterprise"
+  },
+  "mgr35": {
+    "id": "8181034",
+    "link": "https://stripe.com/jobs/search?gh_jid=8181034",
+    "company": "Stripe",
+    "title": "Manager, Customer Success Manager"
+  },
+  "mgr34": {
+    "id": "8181022",
+    "link": "https://stripe.com/jobs/search?gh_jid=8181022",
+    "company": "Stripe",
+    "title": "Manager, Customer Success Platforms"
+  },
+  "eng573": {
+    "id": "8211486",
+    "link": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "company": "Coinbase",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)"
+  },
+  "eng277": {
+    "id": "8211846",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8211846",
+    "company": "DRW",
+    "title": "Senior Database Engineer - Postgres"
+  },
+  "eng99": {
+    "id": "8129118",
+    "link": "https://ripple.com/careers/all-jobs/job/8129118?gh_jid=8129118",
+    "company": "Ripple",
+    "title": "Engineering Manager, Digital Assets"
+  },
+  "eng98": {
+    "id": "8129106",
+    "link": "https://ripple.com/careers/all-jobs/job/8129106?gh_jid=8129106",
+    "company": "Ripple",
+    "title": "Engineering Manager, Digital Assets"
+  },
+  "eng95": {
+    "id": "8211490",
+    "link": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490",
+    "company": "Coinbase",
+    "title": "Senior Machine Learning Platform Engineer - Identity"
+  },
+  "sls63": {
+    "id": "8191706",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191706",
+    "company": "Stripe",
+    "title": "Sales Manager, Startups - Hunter"
+  },
+  "pm49": {
+    "id": "051d74a6-983e-4cec-81f6-840f6d057de1",
+    "link": "https://jobs.ashbyhq.com/trm-labs/051d74a6-983e-4cec-81f6-840f6d057de1",
+    "company": "TRM Labs",
+    "title": "Tech Lead, Staff Software Engineer, Data (US)"
+  },
+  "sls62": {
+    "id": "8191704",
+    "link": "https://stripe.com/jobs/search?gh_jid=8191704",
+    "company": "Stripe",
+    "title": "Sales Manager, Enterprise - LATAM"
+  },
+  "be13": {
+    "id": "5424582008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5424582008",
+    "company": "Mesh",
+    "title": "Staff Backend Engineer"
+  },
+  "eng94": {
+    "id": "8171220",
+    "link": "https://stripe.com/jobs/search?gh_jid=8171220",
+    "company": "Stripe",
+    "title": "Technical Support Engineer, Metronome"
+  },
+  "eng93": {
+    "id": "5424561008",
+    "link": "http://block.xyz/careers/jobs/5424561008?gh_jid=5424561008",
+    "company": "Block",
+    "title": "Senior Analytics Engineer, AI & DX Analytics"
+  },
+  "sec26": {
+    "id": "8211180",
+    "link": "https://stripe.com/jobs/search?gh_jid=8211180",
+    "company": "Stripe",
+    "title": "Staff Security Engineer, Abuse Control"
+  },
+  "sec25": {
+    "id": "8174963",
+    "link": "https://stripe.com/jobs/search?gh_jid=8174963",
+    "company": "Stripe",
+    "title": "Staff Security Engineer, Abuse Control"
+  },
+  "tr15": {
+    "id": "4978886101",
+    "link": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4978886101",
+    "company": "GSR Markets",
+    "title": "Quant Developer"
+  },
+  "eng395": {
+    "id": "8203712",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8203712",
+    "company": "Flow Traders",
+    "title": "Data Center Engineer"
+  },
+  "eng88": {
+    "id": "a40a998a-acfd-403d-8de9-0d4365030503",
+    "link": "https://jobs.ashbyhq.com/kraken.com/a40a998a-acfd-403d-8de9-0d4365030503",
+    "company": "Kraken",
+    "title": "AI Platform Engineer, Enablement and Governance Operations"
+  },
+  "eng12": {
+    "id": "7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+    "link": "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+    "company": "Kraken",
+    "title": "AI Platform Engineer, Enablement and Governance Operations"
+  },
+  "sec109": {
+    "id": "8167546",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546",
+    "company": "Robinhood",
+    "title": "Staff Software Engineer, Security Platform"
+  },
+  "sls58": {
+    "id": "8202836",
+    "link": "https://stripe.com/jobs/search?gh_jid=8202836",
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Hunter (French-speaking)"
+  },
+  "de2": {
+    "id": "4734952005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4734952005",
+    "company": "DV Trading",
+    "title": "Chief of Staff (DV Equities)"
+  },
+  "sls57": {
+    "id": "4734954005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4734954005",
+    "company": "DV Trading",
+    "title": "Business Development (Asia)"
+  },
+  "sls56": {
+    "id": "4734953005",
+    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4734953005",
+    "company": "DV Trading",
+    "title": "Institutional Sales and Trading (DV Equities)"
+  },
+  "sls54": {
+    "id": "8176737",
+    "link": "https://stripe.com/jobs/search?gh_jid=8176737",
+    "company": "Stripe",
+    "title": "Sales Manager, Enterprise (Grower)"
+  },
+  "dgp": {
+    "id": "8209626",
+    "link": "https://stripe.com/jobs/search?gh_jid=8209626",
+    "company": "Stripe",
+    "title": "EMEA Demand Generation, Platforms"
+  },
+  "abpo": {
+    "id": "8209639",
+    "link": "https://stripe.com/jobs/search?gh_jid=8209639",
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Office of the President"
+  },
+  "mgr18": {
+    "id": "8187566",
+    "link": "https://stripe.com/jobs/search?gh_jid=8187566",
+    "company": "Stripe",
+    "title": "Partner Development Manager, AMER Bank Partnerships"
+  },
+  "infra11": {
+    "id": "e781688a-34b4-4b74-a817-f689cbddb1b7",
+    "link": "https://jobs.ashbyhq.com/kraken.com/e781688a-34b4-4b74-a817-f689cbddb1b7",
+    "company": "Kraken",
+    "title": "Head of Exchange Infrastructure"
+  },
+  "infra10": {
+    "id": "d7e00f01-4b21-4953-8b2f-1ec1bec71a24",
+    "link": "https://jobs.ashbyhq.com/kraken.com/d7e00f01-4b21-4953-8b2f-1ec1bec71a24",
+    "company": "Kraken",
+    "title": "Head of Exchange Infrastructure"
+  },
+  "sls53": {
+    "id": "5424800008",
+    "link": "http://block.xyz/careers/jobs/5424800008?gh_jid=5424800008",
+    "company": "Block",
+    "title": "Senior Strategic Account Manager"
+  },
+  "eng443": {
+    "id": "8203625",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8203625",
+    "company": "Flow Traders",
+    "title": "Senior Technical Support Engineer"
+  },
+  "sls52": {
+    "id": "f1ebd439-56ed-4d12-a8fd-979c74604eca",
+    "link": "https://jobs.ashbyhq.com/ramp/f1ebd439-56ed-4d12-a8fd-979c74604eca",
+    "company": "Ramp",
+    "title": "Manager, Sales Development | SMB"
+  },
+  "arc3": {
+    "id": "265d1103-aa21-4322-82a2-0a1c1f65b26f",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/265d1103-aa21-4322-82a2-0a1c1f65b26f",
+    "company": "Chainalysis",
+    "title": "Solutions Architect"
+  },
+  "mkt22": {
+    "id": "7998002003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7998002003",
+    "company": "OKX",
+    "title": "Growth Manager - Influencer Program"
+  },
+  "cmp23": {
+    "id": "29f6d54a-03ee-4b57-b904-1e9e8b4bf1e2",
+    "link": "https://jobs.ashbyhq.com/kraken.com/29f6d54a-03ee-4b57-b904-1e9e8b4bf1e2",
+    "company": "Kraken",
+    "title": "MLRO, UK"
+  },
+  "cmp21": {
+    "id": "4976401101",
+    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4976401101",
+    "company": "Copper.co",
+    "title": "Deputy MLRO Switzerland"
+  },
+  "sls51": {
+    "id": "8207708",
+    "link": "https://stripe.com/jobs/search?gh_jid=8207708",
+    "company": "Stripe",
+    "title": "Account Executive, Retail (Grower)"
+  },
+  "eng86": {
+    "id": "6177332004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6177332004",
+    "company": "Alpaca",
+    "title": "Senior Software Engineer - New Markets Japan (JLPT N1 Fluent)"
+  },
+  "pm129": {
+    "id": "8190416",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190416",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Currency Management"
+  },
+  "pm43": {
+    "id": "8196269",
+    "link": "https://stripe.com/jobs/search?gh_jid=8196269",
+    "company": "Stripe",
+    "title": "Account Executive, Product (Payouts) - Hunter"
+  },
+  "ica": {
+    "id": "8179347",
+    "link": "https://stripe.com/jobs/search?gh_jid=8179347",
+    "company": "Stripe",
+    "title": "Implementation Consultant (AUNZ)"
+  },
+  "pm42": {
+    "id": "f421685a-fc97-46f9-bcce-db991f4d25ee",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/f421685a-fc97-46f9-bcce-db991f4d25ee",
+    "company": "Trust Wallet",
+    "title": "Senior Product Manager - Data Platform (Web3)"
+  },
+  "mgr32": {
+    "id": "27faab2d-e491-4f9a-878f-0bc5e7cee746",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/27faab2d-e491-4f9a-878f-0bc5e7cee746",
+    "company": "Riot Platforms",
+    "title": "Critical Vendor Manager - Operational Readiness"
+  },
+  "sls48": {
+    "id": "7b2d8797-40b1-4430-bcfd-fe9d0559532e",
+    "link": "https://jobs.ashbyhq.com/trm-labs/7b2d8797-40b1-4430-bcfd-fe9d0559532e",
+    "company": "TRM Labs",
+    "title": "Business Development Executive, APAC Public Sector (ANZ)"
+  },
+  "infra9": {
+    "id": "f4d1cabb-de6b-42b7-a8f3-20add07ace9e",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/f4d1cabb-de6b-42b7-a8f3-20add07ace9e",
+    "company": "Riot Platforms",
+    "title": "Controls Engineer, Mission-Critical Infrastructure"
+  },
+  "sls47": {
+    "id": "829bde30-0868-4c67-ac80-b414ce1c7935",
+    "link": "https://jobs.lever.co/coins/829bde30-0868-4c67-ac80-b414ce1c7935",
+    "company": "Coins.ph",
+    "title": "Sales Associate (Vismin)"
+  },
+  "pm41": {
+    "id": "59b28bcb-4cc0-4d85-95e8-2889927e0984",
+    "link": "https://jobs.lever.co/merklescience/59b28bcb-4cc0-4d85-95e8-2889927e0984",
+    "company": "Merkle Science",
+    "title": "Senior Product Manager"
+  },
+  "an13": {
+    "id": "a11f7720-f3a8-4e86-9cc6-562bb11420b2",
+    "link": "https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2",
+    "company": "Ramp",
+    "title": "HRIS Analyst (Workday)"
+  },
+  "cmp19": {
+    "id": "7996990003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996990003",
+    "company": "OKX",
+    "title": "OEML - Senior Compliance Analyst"
   }
 }
