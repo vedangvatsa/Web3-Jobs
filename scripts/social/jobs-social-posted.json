@@ -20539,6 +20539,38 @@
       "postId": "18099564212540550",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DenyHqvG4U_",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng321",
+      "company": "Binance",
+      "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-18T04:04:40.282Z",
+      "expectedText": "Binance is hiring Binance Accelerator Programm - Software Engineer (KYB): https://hashtagweb3.com/eng321/bsky?og=7",
+      "snapshot": {
+        "id": "0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
+        "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+        "company": "Binance",
+        "link": "https://jobs.lever.co/binance/0e95f863-3dd6-4ffe-a01d-4a3c2b473aff",
+        "date": "2026-09-25T01:44:31.971Z",
+        "source": "Lever: Binance [binance]",
+        "location": "Remote (Asia)",
+        "workplaceType": "remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng321"
+      },
+      "payload": {
+        "text": "Binance is hiring Binance Accelerator Programm - Software Engineer (KYB): https://hashtagweb3.com/eng321/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng321/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng321.png?v=7",
+        "company": "Binance",
+        "title": "Binance Accelerator Programm - Software Engineer (KYB)",
+        "description": "Join Binance as Binance Accelerator Programm - Sof. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "4a1d9742-94a9-4447-a042-f745da3fd37d",
+      "verification": "creating"
     }
   ]
 }
