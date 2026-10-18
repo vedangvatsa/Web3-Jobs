@@ -24216,7 +24216,8 @@
       },
       "account": "channel:developers",
       "attemptId": "6fc779c8-128d-47e2-8e5b-8a7ec734b66d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x28be6c98a35a40ac659020f9639188c20c1018bb"
     }
   ]
 }
