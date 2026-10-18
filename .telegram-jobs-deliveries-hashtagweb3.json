@@ -2951,7 +2951,7 @@
     "sentAt": "2026-10-18T04:04:45.995Z"
   },
   "9371b8bb-f1ae-45fd-b6ce-9426e895bc93": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T11:34:50.747Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3023,6 +3023,8 @@
       }
     ],
     "message": "- Sei Labs is hiring <a href=\"https://hashtagweb3.com/ops97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Lead - Trading</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/ds17?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Science Lead</a>\n- Blockdaemon is hiring <a href=\"https://hashtagweb3.com/arc21?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, US</a>",
-    "slotKey": "2026-10-18:afternoon"
+    "slotKey": "2026-10-18:afternoon",
+    "messageId": 155831,
+    "sentAt": "2026-10-18T11:34:53.696Z"
   }
 }
