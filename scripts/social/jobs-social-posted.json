@@ -25450,6 +25450,45 @@
       "verification": "pending",
       "postId": "6ad5200fa48c8f8371b0151f",
       "error": "LinkedIn #Web3 receipt 6ad5200fa48c8f8371b0151f remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "eng610",
+      "company": "Riot Platforms",
+      "title": "Senior Engineer, Identity & Access Management (IAM)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-18T19:36:01.221Z",
+      "expectedText": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng610/li?og=7",
+      "snapshot": {
+        "id": "9fd110f4-cf41-4434-adc2-c975918cd28e",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/9fd110f4-cf41-4434-adc2-c975918cd28e",
+        "date": "2026-10-14T20:48:50.040000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Austin, TX",
+        "department": "Cybersecurity",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng610"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM): https://hashtagweb3.com/eng610/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng610/li?og=7",
+          "title": "Senior Engineer, Identity & Access Management (IAM) at Riot Platforms",
+          "description": "Join Riot Platforms as Senior Engineer, Identity & Access. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng610.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "35a7f826-4827-4b9e-9fec-9c5d45e36d22",
+      "verification": "creating"
     }
   ]
 }
