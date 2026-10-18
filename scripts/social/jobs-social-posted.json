@@ -21755,6 +21755,39 @@
       "attemptId": "dcd5826e-73b0-4818-b9f8-65affc6032c5",
       "verification": "verified",
       "postId": "0x0de06b5b6dbf07b85660436118aadd67fd26026f"
+    },
+    {
+      "slug": "an52",
+      "company": "Solflare",
+      "title": "Senior Data Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-10-18T04:07:47.796Z",
+      "expectedText": "Solflare is hiring Senior Data Analyst\n\nhttps://hashtagweb3.com/an52/fc?og=7",
+      "snapshot": {
+        "id": "744000151850559",
+        "title": "Senior Data Analyst",
+        "company": "Solflare",
+        "link": "https://jobs.smartrecruiters.com/Solflare/744000151850559-senior-data-analyst",
+        "date": "2026-09-25T13:11:46.414Z",
+        "source": "SmartRecruiters: Solflare [Solflare]",
+        "location": "Novi Sad, Vojvodina, Serbia",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an52"
+      },
+      "payload": {
+        "text": "Solflare is hiring Senior Data Analyst\n\nhttps://hashtagweb3.com/an52/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an52/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "4b54cec3-4008-44f3-90f0-513d9f8cd9b6",
+      "verification": "creating"
     }
   ]
 }
