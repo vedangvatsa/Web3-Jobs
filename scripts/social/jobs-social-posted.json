@@ -22213,6 +22213,39 @@
       "postId": "17979258386918605",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DeolelCG1nA",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr188",
+      "company": "Robinhood",
+      "title": "Futures Risk Program Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-18T11:33:26.883Z",
+      "expectedText": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/bsky?og=7",
+      "snapshot": {
+        "id": "8287392",
+        "title": "Futures Risk Program Manager",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
+        "date": "2026-10-15T16:38:12-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL",
+        "department": "[INACTIVE] Talent Acquisition",
+        "active": true,
+        "salary": "$138.6k – $175k/yr",
+        "dateVerified": true,
+        "slug": "mgr188"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/mgr188/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/mgr188.png?v=7",
+        "company": "Robinhood",
+        "title": "Futures Risk Program Manager",
+        "description": "Join Robinhood as Futures Risk Program Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "691a2936-0ea2-4be1-b8bd-4819461ccec1",
+      "verification": "creating"
     }
   ]
 }
