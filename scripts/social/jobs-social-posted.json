@@ -24540,7 +24540,8 @@
       },
       "account": "channel:design",
       "attemptId": "426e5a15-1d0f-4387-bf28-5f8ba047ade0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x450fb137fb92a57c4b6945d5e2079af31be3cbd3"
     }
   ]
 }
