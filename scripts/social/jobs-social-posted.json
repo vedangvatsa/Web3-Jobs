@@ -21991,7 +21991,8 @@
       },
       "account": "channel:growth",
       "attemptId": "cca39604-32b0-432a-8dee-768651a2dddf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9dfeaee38bf777aecb9dcf456ca61df2d20ef372"
     }
   ]
 }
