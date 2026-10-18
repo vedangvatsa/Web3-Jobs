@@ -2445,5 +2445,60 @@
     "slotKey": "2026-10-18:morning",
     "messageId": 155827,
     "sentAt": "2026-10-18T04:04:17.011Z"
+  },
+  "66f47a08-f4f3-4385-847d-906e89fad02c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T11:33:34.007Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-cosmoverse-2026",
+        "slug": "cosmoverse",
+        "name": "Hong Kong Digital Asset Summit by Cosmoverse",
+        "startDate": "2026-11-05",
+        "keys": [
+          "premier-cosmoverse-2026",
+          "hong-kong-digital-asset-summit",
+          "hkdasc",
+          "luma-crypto-ktytj2edperflqd",
+          "page:cosmoverse:2026-11-05",
+          "luma-url:/cosmoversehongkong",
+          "event:hongkongdigitalassetsummitbycosmoverse:2026-11-05:hong kong"
+        ]
+      },
+      {
+        "id": "premier-ethmumbai-2026",
+        "slug": "ethglobal-mumbai",
+        "name": "ETHGlobal Mumbai 2026",
+        "startDate": "2026-11-05",
+        "keys": [
+          "premier-ethmumbai-2026",
+          "ethglobal1",
+          "page:ethglobal-mumbai:2026-11-05",
+          "url:ethglobal.com/events/mumbai:2026-11-05",
+          "event:ethglobalmumbai2026:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "premier-unchained-summit-india-2026",
+        "slug": "unchained-summit",
+        "name": "Unchained Summit India 2026",
+        "startDate": "2026-11-05",
+        "keys": [
+          "premier-unchained-summit-india-2026",
+          "usd1",
+          "ibw-official-unchained-summit-day-1-11-05",
+          "ibw-official-unchained-summit-day-2-11-06",
+          "usi",
+          "w3v-unchained-summit-india-26-11-05",
+          "usd2",
+          "page:unchained-summit:2026-11-05",
+          "url:unchainedsummit.com/india:2026-11-05",
+          "event:unchainedsummitindia2026:2026-11-05:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-18:afternoon"
   }
 }
