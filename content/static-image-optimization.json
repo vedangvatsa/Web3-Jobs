@@ -2645,10 +2645,6 @@
       "sha256": "8b25c115297fafca0aeffdface5dbd14bf08b5b0034bc2b183f24a30fbf95a90",
       "status": "optimized"
     },
-    "/events/mu-316749553-4ef65602.webp": {
-      "sha256": "e42e178c806c87a394c5597655576cba6b3ed12c9647e719b3d017335fb87c13",
-      "status": "optimized"
-    },
     "/events/mu-316802686-b08fd60c.webp": {
       "sha256": "2c4ede3c6c4ddf42e9befd3d72ab222275036ced260c883973a2917f8c3d2d5c",
       "status": "retained"

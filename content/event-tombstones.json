@@ -782,5 +782,19 @@
       "luma-crypto-mjqiocdfo3hchgp",
       "anfd"
     ]
+  },
+  "luma-crypto-6LIYnYgQg83xqIJ": {
+    "until": "2027-10-18T11:31:53.928Z",
+    "slugs": [
+      "luma-crypto-6liynygqg83xqij",
+      "bmaff"
+    ]
+  },
+  "luma-crypto-auNiKwVWsEADEz2": {
+    "until": "2027-10-18T11:31:53.928Z",
+    "slugs": [
+      "luma-crypto-aunikwvwseadez2",
+      "fds"
+    ]
   }
 }

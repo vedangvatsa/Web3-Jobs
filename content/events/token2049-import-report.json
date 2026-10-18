@@ -1,18 +1,18 @@
 {
-  "checkedAt": "2026-10-18T03:35:09.736Z",
+  "checkedAt": "2026-10-18T11:31:59.697Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
     "https://luma.com/2049events": 5,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
-    "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 608,
+    "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 611,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
     "existing": 241,
     "excluded": 373,
-    "needs-review": 43,
+    "needs-review": 46,
     "duplicate": 1
   },
   "importedTotal": 258,
@@ -6319,6 +6319,24 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://example.com/probeurl-12546",
+      "name": "ZZ Probe URL Test 12546",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No verified event date"
+    },
+    {
+      "url": "https://example.com/pt6153",
+      "name": "PT6153TEST Event Alpha",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No verified event date"
+    },
+    {
       "url": "https://arbitrum-singapore.hackquest.io",
       "name": "Arbitrum HackHouse",
       "sources": [
@@ -6902,6 +6920,15 @@
       ],
       "status": "excluded",
       "reason": "Primary source event has ended"
+    },
+    {
+      "url": "",
+      "name": "PT6153TEST E Own2",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view"
+      ],
+      "status": "needs-review",
+      "reason": "No public registration URL; match against primary records needed"
     },
     {
       "url": "",

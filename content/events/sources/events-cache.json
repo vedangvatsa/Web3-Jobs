@@ -21901,7 +21901,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316859718/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859718-2ce05fca.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21915,7 +21915,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802689-552e19c6.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22041,7 +22041,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316844003/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844003-9f7255b0.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22083,7 +22083,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316859677/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859677-2b6b6871.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22097,7 +22097,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22659,7 +22659,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/316844001/",
-    "coverImage": "/events/mu-316844001-d05f8c3f.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22673,7 +22673,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": "/events/mu-316749553-4ef65602.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23913,7 +23913,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802785-79c48422.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24195,5 +24195,47 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-8K1elqZrQ0GrkBa",
+    "name": "SuperteamTR | Malatya Touch Grass 🌿",
+    "description": "",
+    "startDate": "2026-10-18T10:30:00.000Z",
+    "endDate": "2026-10-18T12:00:00.000Z",
+    "city": "Malatya Merkez",
+    "country": "Türkiye",
+    "location": "Malatya Merkez, Türkiye",
+    "url": "https://luma.com/vbywm11f",
+    "coverImage": "/events/luma-host-evt-evt-8k1elqzrq0grkba-5f0137ad.webp",
+    "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-HxZ8vjpKas7fc0D",
+    "name": "AWS Innovation Breakfast by TIDORA · Madrid",
+    "description": "",
+    "startDate": "2026-10-22T07:30:00.000Z",
+    "endDate": "2026-10-22T10:00:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/89hx79ly",
+    "coverImage": "/events/luma-evt-hxz8vjpkas7fc0d-9f1cf1ba.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-jzeQT9y6KASPJZO",
+    "name": "IV Monográfico del Monitor de Absentismo Laboral de Madrid Foro Empresarial y ADiReLab",
+    "description": "",
+    "startDate": "2026-10-22T07:30:00.000Z",
+    "endDate": "2026-10-22T08:30:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/15rjlr8p",
+    "coverImage": "/events/luma-evt-jzeqt9y6kaspjzo-a65011e9.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]

@@ -19441,121 +19441,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-af68ca47456b6f15"></a>
-
-## BitcoinPalooza NYC 2026 — Music · Art · Fashion · Freedom
-
-- Record: `luma-crypto-6LIYnYgQg83xqIJ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-17T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bitcoinpaloozaunga81>
-
-### About the Event
-
-The Official After-Party of Blockchain Week
-
-Date: Thursday, September 17, 2026
-
-Venue: Sugar Mouse NYC, 47 3rd Ave, New York, NY 10003
-
-Doors Open: 7:00 PM
-
-Programming Until: Midnight
-
-Age Restriction: 18+ with government-issued photo ID
-
-Most crypto events stop at panels. This one doesn't.
-
-BitcoinPalooza is New York City's premier celebration of Bitcoin culture, returning for its fourth year. We close Day Two of the flagship Blockchain Week conference with an immersive evening of live music, curated art, fashion, and conversation - right in the heart of Times Square.
-
-No lanyards, no stuffy receptions - just a genuine cultural night for the crypto community and beyond.
-
-### What's Happening
-
-- Live Music - Performances by NYC's own crypto‑degen band The Coinheads, alongside recording artists Emily Lazar and others.
-- Fashion Show - Presented by artist and creative director Alejandro Glatt.
-- Visual Art - Curated works displayed throughout the venue, featured across Blockchain Week venues for all ten days.
-- Conversations - Featuring industry leaders and thought provocateurs:
-  - Karla Ballard
-  - Lou Kerner
-  - Brian J. Esposito
-  - Thomas Walls
-
-More announcements to come from our newly appointed curator, Lara Moreno, whose sole mission is to make this feel like a true cultural night, not a conference reception.
-
-### Who's in the Room
-
-Founders, investors, diplomats, artists, and musicians - all in New York for UN General Assembly week, gathering under one roof without the formalities.
-
-### Tickets
-
-General Admission is $89. VIP Access is $249 and adds priority entry from 6:30 PM, lounge access, reserved seating, meet-and-greet opportunities, limited-edition merch and a welcome drink.
-
-Capacity is limited and the room is smaller than the interest in it. Prices rise as September gets closer.
-
-All attendees must be 18+ and present valid government‑issued photo ID.
-
-### Call for Artists, Musicians, and Designers
-
-Submissions for the 2026 edition are open until Friday, September 4.
-
-Send links to your work to lara@bitcoinpalooza.nyc with a short note describing what you'd like to present. No formal proposal required - every submission receives a reply.
-
-### Good to Know
-
-- No Blockchain Week conference pass is required. This event is ticketed separately and open to everyone.
-- A BitcoinPalooza ticket admits you to September 17 only. The full twelve‑[event program is available at blockchainweek.ai/program](https://blockchainweek.ai/program).
-- Blockchain Week - UNGA Edition is an independent initiative and is not affiliated with the United Nations.
-
-### Full Lineup & Details
-
-Visit https://bitcoinpalooza.nyc for the complete lineup and ongoing updates.
-
-### Press & Media Kit
-
-Download materials at https://bitcoinpalooza.nyc/press
-
-We look forward to celebrating with you on September 17 - see you in Times Square.
-
-<a id="event-e0b47950e022be3a"></a>
-
-## Founder Dinner Series
-
-- Record: `luma-crypto-auNiKwVWsEADEz2`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/f2agbtho>
-
-### About the event
-
-A monthly invite-only dinner series for startup founders and CEOs in San Francisco.
-
-8 people, 1 table, no agenda - just come and hangout.
-
-### WHO THIS IS FOR
-
-Founders and co-founders at Series A companies with a B2B customer. If you are pre-A with real revenue and a B2B motion, request a seat anyway and tell me where you are.
-
-### WHO'S HOSTING
-
-I'm Dar, founder of Little Pursuits and host of The Little Pursuits Podcast. I've spent the past year interviewing founders about what actually happened rather than the version that made the announcement, and this dinner exists because the best conversations were always the ones that started after we stopped recording.
-
-Connecting with peers helps you to be an even better founder and organizing this curation isn't easy. So I help to create this bridge through monthly dinners for specific category of founders.
-
-### DETAILS
-
-7:00 PM - 9:00 PM
-
-Wildseed
-
-9/10/2026
-
-***Everyone covers their own food and drinks
-
-If this month fills, you carry over to the next one.
-
 <a id="event-67d0bb357dfe5659"></a>
 
 ## 💻 Coworking Fridays Istanbul — SuperteamTR
@@ -71389,6 +71274,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-3f5e808a962cc698"></a>
+
+## SuperteamTR \| Malatya Touch Grass 🌿
+
+- Record: `luma-host-evt-evt-8K1elqZrQ0GrkBa`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T10:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/vbywm11f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5482d940eebd2262"></a>
 
 ## Corte Madera - Bitcoin Meetup
@@ -72336,6 +72233,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T07:15:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/d5xp3mvp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-85922d2109e845ea"></a>
+
+## AWS Innovation Breakfast by TIDORA · Madrid
+
+- Record: `luma-evt-HxZ8vjpKas7fc0D`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/89hx79ly>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a6f7bae384359637"></a>
+
+## IV Monográfico del Monitor de Absentismo Laboral de Madrid Foro Empresarial y ADiReLab
+
+- Record: `luma-evt-jzeQT9y6KASPJZO`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/15rjlr8p>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
