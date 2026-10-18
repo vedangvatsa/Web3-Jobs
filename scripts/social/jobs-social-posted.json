@@ -22280,7 +22280,8 @@
       },
       "account": "profile",
       "attemptId": "7b15e884-0e90-46bc-acc6-cd24ed63f7cd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x06bf8ebef47ae75b35261cfb62d03bc4021fec42"
     }
   ]
 }
