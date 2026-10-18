@@ -1723,5 +1723,36 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 65759,
     "sentAt": "2026-10-17T19:35:42.845Z"
+  },
+  "888a3168-f172-492e-bae0-d48bc33ad1a8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:07:28.085Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "VanEck withdraws application for Lido staked ether ETF",
+        "summary": "An SEC filing confirms the asset manager is ending its attempt to launch the first US-based stETH product.",
+        "link": "https://hashtagweb3.com/vaneck-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck withdraws Lido staked ether ETF filing"
+      },
+      {
+        "index": -1,
+        "headline": "India crypto exchange inflows reached $88.4 billion",
+        "summary": "Domestic platforms processed only 0.7% of the total crypto volume attributed to Indian users through June 2026.",
+        "link": "https://hashtagweb3.com/india-inflows?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "India-attributed exchange inflows hit $88.4B as domestic platforms keep 0.7%"
+      },
+      {
+        "index": -1,
+        "headline": "Russian Finance Ministry begins paying staff in digital rubles",
+        "summary": "Employees started receiving voluntary digital ruble salary payments on October 1, 2026.",
+        "link": "https://hashtagweb3.com/ruble-wages?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Russia finance ministry pays staff wages in digital rubles"
+      }
+    ],
+    "slotKey": "2026-10-18:morning"
   }
 }
