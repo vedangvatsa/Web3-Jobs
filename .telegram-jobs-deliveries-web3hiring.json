@@ -5990,7 +5990,7 @@
     "sentAt": "2026-10-18T04:04:35.242Z"
   },
   "9ad88695-e7c8-4efe-badd-8321cd4ce1a6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T19:33:13.112Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -6061,6 +6061,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/infra41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Technical Recruiter, Infrastructure</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/tok?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tokenization</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/pm306?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Product, Tokenization</a>",
-    "slotKey": "2026-10-18:evening"
+    "slotKey": "2026-10-18:evening",
+    "messageId": 16552,
+    "sentAt": "2026-10-18T19:33:16.467Z"
   }
 }
