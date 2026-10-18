@@ -2855,5 +2855,97 @@
     "slotKey": "2026-10-17:evening",
     "messageId": 155825,
     "sentAt": "2026-10-17T19:33:57.657Z"
+  },
+  "3c6df57d-e5fc-462e-a0aa-4890dfe94cd4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T04:04:41.193Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "02318fa1-e707-41ee-a218-35a8cfd5797b",
+          "title": "Senior Product Designer - CoinGlass",
+          "company": "CoinMarketCap",
+          "link": "https://jobs.lever.co/coinmarketcap/02318fa1-e707-41ee-a218-35a8cfd5797b",
+          "date": "2026-09-30T03:40:07.208Z",
+          "source": "Lever: CoinMarketCap [coinmarketcap]",
+          "location": "Remote (Global)",
+          "workplaceType": "remote",
+          "department": "CMC - Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm192"
+        },
+        "key": "02318fa1-e707-41ee-a218-35a8cfd5797b",
+        "slug": "pm192",
+        "url": "https://hashtagweb3.com/pm192?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinMarketCap",
+        "title": "Senior Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8190032",
+          "title": "Critical Support Manager - Escalations",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8190032",
+          "date": "2026-10-01T05:25:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle or San Francisco",
+          "department": "4119 Product Support",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr122"
+        },
+        "key": "8190032",
+        "slug": "mgr122",
+        "url": "https://hashtagweb3.com/mgr122?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Critical Support Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6e08038a-1786-4b96-8b7d-543ca774fa87",
+          "title": "Fixed Assets Business Manager",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/6e08038a-1786-4b96-8b7d-543ca774fa87",
+          "date": "2026-09-28T14:35:16.503000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Remote",
+          "department": "Accounting & Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr98"
+        },
+        "key": "6e08038a-1786-4b96-8b7d-543ca774fa87",
+        "slug": "mgr98",
+        "url": "https://hashtagweb3.com/mgr98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Fixed Assets Business Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8016081003",
+          "title": "Senior Staff Engineer, Payment",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8016081003",
+          "date": "2026-10-07T15:33:11-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng436"
+        },
+        "key": "8016081003",
+        "slug": "eng436",
+        "url": "https://hashtagweb3.com/eng436?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Staff Engineer"
+      }
+    ],
+    "message": "- CoinMarketCap is hiring <a href=\"https://hashtagweb3.com/pm192?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Designer - CoinGlass</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Critical Support Manager - Escalations</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/mgr98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fixed Assets Business Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/eng436?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Staff Engineer, Payment</a>",
+    "slotKey": "2026-10-18:morning"
   }
 }
