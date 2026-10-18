@@ -24000,7 +24000,8 @@
       },
       "account": "profile",
       "attemptId": "87e3e3ad-74a9-4e8c-a953-1289531281d4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4ddb1066a0cc65d204d9d9241440c242fc1bd606"
     }
   ]
 }
