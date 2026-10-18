@@ -21447,7 +21447,8 @@
       },
       "account": "profile",
       "attemptId": "daded013-1500-4e0c-b6b5-b32f6dd1aa4b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe3e24134d29f6cfc916d7acf2c2d100600b73287"
     }
   ]
 }
