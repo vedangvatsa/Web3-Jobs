@@ -21379,8 +21379,9 @@
         "link_attachment": "https://hashtagweb3.com/an52/th?og=7"
       },
       "attemptId": "7a2d240b-678b-4abe-9fc4-568a57fe6292",
-      "verification": "creating",
-      "containerId": "18097547462199925"
+      "verification": "pending",
+      "containerId": "18097547462199925",
+      "postId": "18027637985916558"
     }
   ]
 }
