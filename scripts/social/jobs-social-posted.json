@@ -25001,6 +25001,39 @@
       "attemptId": "7fa6d899-3add-46d0-9d33-e1ff39b5dd04",
       "verification": "verified",
       "postId": "0xd82a2788890e24ca7ec599414e5045efa0bcfaa9"
+    },
+    {
+      "slug": "eng610",
+      "company": "Riot Platforms",
+      "title": "Senior Engineer, Identity & Access Management (IAM)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-18T19:36:01.221Z",
+      "expectedText": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM)\n\nhttps://hashtagweb3.com/eng610/fc?og=7",
+      "snapshot": {
+        "id": "9fd110f4-cf41-4434-adc2-c975918cd28e",
+        "title": "Senior Engineer, Identity & Access Management (IAM)",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/9fd110f4-cf41-4434-adc2-c975918cd28e",
+        "date": "2026-10-14T20:48:50.040000-07:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Austin, TX",
+        "department": "Cybersecurity",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng610"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Senior Engineer, Identity & Access Management (IAM)\n\nhttps://hashtagweb3.com/eng610/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng610/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "c65758ab-8033-4b67-9299-d21502384833",
+      "verification": "creating"
     }
   ]
 }
