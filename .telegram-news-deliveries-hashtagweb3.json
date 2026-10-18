@@ -1723,5 +1723,36 @@
     "slotKey": "2026-10-18:afternoon",
     "messageId": 155832,
     "sentAt": "2026-10-18T11:35:46.426Z"
+  },
+  "a8e3e6a6-178e-4118-9dcd-72e5a53d082b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T19:36:50.909Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Illinois Officials Seek Delay for Digital Asset Tax",
+        "summary": "State officials and industry groups requested a court postpone the new tax implementation until July 2027.",
+        "link": "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Illinois Officials Join Industry Bid to Delay Digital Asset Tax to July 2027"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Approves Cboe Listing Rules for Six Volatility Funds",
+        "summary": "The regulator authorized the listing of six triple-leveraged commodity trusts covering gold, silver, bitcoin, ether, and energy assets.",
+        "link": "https://hashtagweb3.com/triple-funds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC clears Cboe listing rules for six 3x Volatility Shares funds"
+      },
+      {
+        "index": -1,
+        "headline": "US Sanctions Hamas Network Using Crypto and French Charities",
+        "summary": "The Treasury sanctioned five entities for moving $2 million through fraudulent charities and cryptocurrency transactions.",
+        "link": "https://hashtagweb3.com/hamas-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US sanctions Hamas financing network over France-linked crypto transfers"
+      }
+    ],
+    "slotKey": "2026-10-18:evening"
   }
 }
