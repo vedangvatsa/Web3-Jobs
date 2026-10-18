@@ -23749,9 +23749,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b94b81a6-f0e7-4d02-8a2d-7aa3727a441c",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad4afabae173d6e00fc3009",
-      "error": "LinkedIn #Web3 receipt 6ad4afabae173d6e00fc3009 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad4afabae173d6e00fc3009 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517549712401678336"
     },
     {
       "slug": "sls41",
