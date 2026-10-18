@@ -2502,5 +2502,51 @@
     "slotKey": "2026-10-18:afternoon",
     "messageId": 155830,
     "sentAt": "2026-10-18T11:33:47.008Z"
+  },
+  "39490b97-49a3-4bc2-b648-05dc565dc603": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T19:33:48.770Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "india-luma-ub56pe38",
+        "slug": "frontier-of-intelligence-hackathon",
+        "name": "Frontier Of Intelligence Hackathon",
+        "startDate": "2026-11-05T03:30:00.000Z",
+        "keys": [
+          "india-luma-ub56pe38",
+          "ub56pe38",
+          "page:frontier-of-intelligence-hackathon:2026-11-05",
+          "luma:evt-tuojyvkpdsffxsj",
+          "luma-url:/ub56pe38",
+          "event:frontierofintelligencehackathon:2026-11-05:mumbai"
+        ]
+      },
+      {
+        "id": "premier-bitcoin-amsterdam-2026",
+        "slug": "bitcoin-amsterdam",
+        "name": "Bitcoin Amsterdam 2026",
+        "startDate": "2026-11-05T09:00:00+01:00",
+        "keys": [
+          "premier-bitcoin-amsterdam-2026",
+          "page:bitcoin-amsterdam:2026-11-05",
+          "event:bitcoinamsterdam2026:2026-11-05:amsterdam"
+        ]
+      },
+      {
+        "id": "premier-bitcoin-korea-2026",
+        "slug": "bitcoin-korea",
+        "name": "Bitcoin Korea Conference 2026",
+        "startDate": "2026-11-07T09:00:00+09:00",
+        "keys": [
+          "premier-bitcoin-korea-2026",
+          "page:bitcoin-korea:2026-11-07",
+          "url:bitcoinkoreaconference.com/en:2026-11-07",
+          "event:bitcoinkoreaconference2026:2026-11-07:seoul"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-18:evening"
   }
 }
