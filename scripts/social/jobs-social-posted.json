@@ -23567,7 +23567,8 @@
       },
       "account": "channel:defi",
       "attemptId": "58cbe7b2-b9df-498b-abe7-ce61646f9562",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8dbd9c3de60e6c79a1b04edca42e4fcce574b8da"
     }
   ]
 }
