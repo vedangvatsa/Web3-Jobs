@@ -22073,9 +22073,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "f513b424-0048-4803-8e91-1a159717ec37",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad446a2e272c4918fb3ac39",
-      "error": "LinkedIn CVin.Bio receipt 6ad446a2e272c4918fb3ac39 remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad446a2e272c4918fb3ac39 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517436933942394881"
     },
     {
       "slug": "an52",
