@@ -5988,5 +5988,79 @@
     "slotKey": "2026-10-18:morning",
     "messageId": 135,
     "sentAt": "2026-10-18T04:04:35.242Z"
+  },
+  "9ad88695-e7c8-4efe-badd-8321cd4ce1a6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-18T19:33:13.112Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8259694",
+          "title": "Senior Technical Recruiter, Infrastructure",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8259694?t=gh_src=&gh_jid=8259694",
+          "date": "2026-10-09T16:13:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Menlo Park, CA",
+          "department": "Talent Acquisition",
+          "active": true,
+          "salary": "$128k – $150k/yr",
+          "dateVerified": true,
+          "slug": "infra41"
+        },
+        "key": "8259694",
+        "slug": "infra41",
+        "url": "https://hashtagweb3.com/infra41?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Technical Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+          "title": "Head of Tokenization",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+          "date": "2026-10-09T08:21:44.060+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (London, NYC)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tok"
+        },
+        "key": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "slug": "tok",
+        "url": "https://hashtagweb3.com/tok?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Head of Tokenization"
+      },
+      {
+        "snapshot": {
+          "id": "d0716e17-7a46-46db-84ca-2ab17a6b6501",
+          "title": "Member of Product, Tokenization",
+          "company": "Anchorage Digital",
+          "link": "https://jobs.lever.co/anchorage/d0716e17-7a46-46db-84ca-2ab17a6b6501",
+          "date": "2026-10-14T17:28:19.706Z",
+          "source": "Lever: Anchorage Digital [anchorage]",
+          "location": "Remote (United States)",
+          "workplaceType": "remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm306"
+        },
+        "key": "d0716e17-7a46-46db-84ca-2ab17a6b6501",
+        "slug": "pm306",
+        "url": "https://hashtagweb3.com/pm306?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Anchorage Digital",
+        "title": "Member of Product"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/infra41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Technical Recruiter, Infrastructure</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/tok?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tokenization</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/pm306?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Product, Tokenization</a>",
+    "slotKey": "2026-10-18:evening"
   }
 }
