@@ -23833,7 +23833,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4d324481-4c6a-441f-984b-a809005c8e64",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7517549768554934273"
     }
   ]
 }
