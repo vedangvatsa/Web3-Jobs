@@ -22987,6 +22987,35 @@
       "attemptId": "fcc01dae-d261-47ed-a399-6b4a95da91f7",
       "verification": "verified",
       "postId": "urn:li:share:7517549067179053056"
+    },
+    {
+      "slug": "mgr188",
+      "company": "Robinhood",
+      "title": "Futures Risk Program Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-18T11:33:26.883Z",
+      "expectedText": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/fb?og=7",
+      "snapshot": {
+        "id": "8287392",
+        "title": "Futures Risk Program Manager",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
+        "date": "2026-10-15T16:38:12-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL",
+        "department": "[INACTIVE] Talent Acquisition",
+        "active": true,
+        "salary": "$138.6k – $175k/yr",
+        "dateVerified": true,
+        "slug": "mgr188"
+      },
+      "payload": {
+        "message": "Robinhood is hiring Futures Risk Program Manager: https://hashtagweb3.com/mgr188/fb?og=7",
+        "link": "https://hashtagweb3.com/mgr188/fb?og=7"
+      },
+      "attemptId": "d5d666de-f56d-4dce-adb1-c65f9de8bbc9",
+      "verification": "creating"
     }
   ]
 }
