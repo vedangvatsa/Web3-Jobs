@@ -21923,7 +21923,8 @@
       },
       "account": "channel:product",
       "attemptId": "829a4fe2-eeb9-4994-ba1e-2f6240bd9b89",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1d06ab2e87f13cac4c2acb18afd604a6ac8b3091"
     }
   ]
 }
