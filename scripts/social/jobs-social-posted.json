@@ -21957,7 +21957,8 @@
       },
       "account": "channel:design",
       "attemptId": "6373cc00-03a8-40b5-b7d7-3ca243bf26e8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfb416c846be9ee088a8e83ca4dec41240f05fc87"
     }
   ]
 }
