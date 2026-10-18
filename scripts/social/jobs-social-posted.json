@@ -21290,7 +21290,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "ae5cd43d-dc84-4691-873a-8a92314b8df8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7517436147736875009"
     }
   ]
 }
