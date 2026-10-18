@@ -5871,7 +5871,7 @@
     "sentAt": "2026-10-18T04:04:30.778Z"
   },
   "44cd73ab-5f84-4bd3-8d16-974bded5f128": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-18T04:04:32.875Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5985,6 +5985,8 @@
       }
     ],
     "message": "- Chainalysis is hiring <a href=\"https://hashtagweb3.com/an29?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Intelligence Analyst, DPRK &amp; China Focus</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/an83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- R3 is hiring <a href=\"https://hashtagweb3.com/pm101?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative Researcher - Prediction Markets</a>\n- Coinhako is hiring <a href=\"https://hashtagweb3.com/ko?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KYC Officer</a>",
-    "slotKey": "2026-10-18:morning"
+    "slotKey": "2026-10-18:morning",
+    "messageId": 135,
+    "sentAt": "2026-10-18T04:04:35.242Z"
   }
 }
