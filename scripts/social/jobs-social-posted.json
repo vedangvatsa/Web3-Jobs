@@ -22114,7 +22114,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "838a8df9-2b9e-4b3e-8f46-2f92c19d257c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7517436919522230272"
     }
   ]
 }
