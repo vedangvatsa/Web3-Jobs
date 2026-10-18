@@ -22496,7 +22496,8 @@
       },
       "account": "channel:developers",
       "attemptId": "a6148407-34a6-41cd-9245-4e16a84e6d36",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
