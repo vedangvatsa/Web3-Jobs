@@ -24182,6 +24182,41 @@
       "attemptId": "e9270f9e-85b2-4a37-8b0d-6333f27bab8c",
       "verification": "verified",
       "postId": "0x3da50579f3b7734c05821aa4917de281781db69c"
+    },
+    {
+      "slug": "eng70",
+      "company": "Kraken",
+      "title": "Senior Analytics Engineer - Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-18T19:33:41.389Z",
+      "expectedText": "Kraken is hiring Senior Analytics Engineer - Finance\n\nhttps://hashtagweb3.com/eng70/fc?og=7",
+      "snapshot": {
+        "id": "f82dbb89-b7da-4130-b690-eb1ca4aeaa50",
+        "title": "Senior Analytics Engineer - Finance",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/f82dbb89-b7da-4130-b690-eb1ca4aeaa50",
+        "date": "2026-10-16T10:44:14.133+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Brazil)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng70"
+      },
+      "payload": {
+        "text": "Kraken is hiring Senior Analytics Engineer - Finance\n\nhttps://hashtagweb3.com/eng70/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng70/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "6fc779c8-128d-47e2-8e5b-8a7ec734b66d",
+      "verification": "creating"
     }
   ]
 }
