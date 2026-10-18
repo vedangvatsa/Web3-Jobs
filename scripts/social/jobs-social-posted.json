@@ -21164,7 +21164,8 @@
       },
       "account": "channel:growth",
       "attemptId": "52c2e3b7-3554-4d9e-865e-24a19f275ded",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: The operation was aborted due to timeout"
     }
   ]
 }
