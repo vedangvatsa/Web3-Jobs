@@ -758,6 +758,8 @@
   "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
   "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
   "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+  "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2057,6 +2059,10 @@
   "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
   "Researchers simulate solar geoengineering risks during geopolitical conflicts",
   "They war-gamed dimming the Sun. It went even worse than you think.",
+  "Anthropic reports shifts in employee experience and meeting times",
+  "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "Biotech startups develop therapies to extend pet lifespans",
+  "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2332,5 +2338,7 @@
   "fp:actor|approv|carry|cinema|clon|creativity|digital|enhanc|film|futur",
   "fp:border|catch|complex|cybercriminal|deception|documentary|film|financial|follow|fraud",
   "fp:anti|authenticity|bottl|brand|chip|combat|consumer|counterfeit|emb|expand",
-  "fp:abruptly|catastrophic|computer|conflict|dimm|dur|even|failur|gam|geoengineer"
+  "fp:abruptly|catastrophic|computer|conflict|dimm|dur|even|failur|gam|geoengineer",
+  "fp:anthropic|becam|becom|data|duration|employe|experienc|increas|internal|junior",
+  "fp:are|biotech|can|cellular|cover|delay|design|develop|domestic|extend"
 ]
