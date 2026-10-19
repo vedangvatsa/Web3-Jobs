@@ -2550,5 +2550,53 @@
     "slotKey": "2026-10-18:evening",
     "messageId": 155835,
     "sentAt": "2026-10-18T19:33:51.628Z"
+  },
+  "957cf606-f68e-4f81-b646-b70ac4a684fc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T11:33:28.168Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-ibt-goa-2026",
+        "slug": "ibt-goa",
+        "name": "India Blockchain & AI Tour 2026 - Goa",
+        "startDate": "2026-11-07T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-goa-2026",
+          "page:ibt-goa:2026-11-07",
+          "url:indiablockchaintour.com/2026-nodes/goa/ticket:2026-11-07",
+          "event:indiablockchainaitour2026goa:2026-11-07:goa"
+        ]
+      },
+      {
+        "id": "india-luma-v0fimew1",
+        "slug": "crypto-afterhours-mumbai",
+        "name": "Mumbai Edition: Crypto Afterhours",
+        "startDate": "2026-11-07T14:30:00.000Z",
+        "keys": [
+          "india-luma-v0fimew1",
+          "v0fimew1",
+          "page:crypto-afterhours-mumbai:2026-11-07",
+          "luma:evt-hkztbg5xy9mg8ih",
+          "luma-url:/v0fimew1",
+          "event:mumbaieditioncryptoafterhours:2026-11-07:"
+        ]
+      },
+      {
+        "id": "w3v-codecup-ai-x-solana-builder-arena-26-11-08",
+        "slug": "codecup",
+        "name": "CodeCup: AI x Solana Builder Arena - Breakpoint 2026",
+        "startDate": "2026-11-08T10:00:00.000Z",
+        "keys": [
+          "w3v-codecup-ai-x-solana-builder-arena-26-11-08",
+          "page:codecup:2026-11-08",
+          "luma:evt-vgwxb5qezoxeuvs",
+          "luma-url:/ol25ta77",
+          "event:codecupaixsolanabuilderarenabreakpoint2026:2026-11-08:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-19:afternoon"
   }
 }
