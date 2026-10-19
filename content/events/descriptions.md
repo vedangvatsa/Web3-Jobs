@@ -28,18 +28,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4c2d21ade620802b"></a>
-
-## Blockchain Beach 2026
-
-- Record: `premier-blockchain-beach-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-18T09:00:00+02:00
-- Description: Unverified stored copy
-- Original page: <https://www.officinadefi.com/blockchain-beach-2026/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-022aa29ddfd52afa"></a>
 
 ## Web3Conf Enugu 2026
@@ -72095,6 +72083,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f38178bb41de6304"></a>
+
+## AI OMEGA DEVELOPER BUILDATHON - LISBON
+
+- Record: `luma-evt-9IVH4kDQBDOK2XF`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T09:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1s715pz4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b6fcd3081282a07c"></a>
 
 ## Spazio 21
@@ -72395,6 +72395,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T20:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/55hewd0g>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c17c48a528f03f5d"></a>
+
+## Good Stocks.  Current Crypto strategy. Beginners welcome -
+
+- Record: `mu-314252749`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T21:00:00-04:00
+- Description: Missing
+- Original page: <https://www.meetup.com/boston_crypto-traders_and_investors/events/314252749/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

@@ -20417,7 +20417,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22155,10 +22155,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316118454/",
     "coverImage": "/events/mu-316118454-a56414bb.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Pereowei Daniel"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-GlZMAS0XBYyINU3",
@@ -23960,10 +23957,7 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Jordan Boich"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -25741,5 +25735,33 @@
     "coverImage": "/events/luma-evt-dtmixkriz3wbrud-60161e47.webp",
     "source": "luma",
     "month": "February 2027"
+  },
+  {
+    "id": "luma-evt-9IVH4kDQBDOK2XF",
+    "name": "AI OMEGA DEVELOPER BUILDATHON - LISBON",
+    "description": "",
+    "startDate": "2026-10-23T09:30:00.000Z",
+    "endDate": "2026-10-30T17:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/1s715pz4",
+    "coverImage": "/events/luma-evt-9ivh4kdqbdok2xf-ef62d02b.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-314252749",
+    "name": "Good Stocks.  Current Crypto strategy. Beginners welcome - ",
+    "description": "",
+    "startDate": "2026-10-25T21:00:00-04:00",
+    "endDate": "2026-10-25T21:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/boston_crypto-traders_and_investors/events/314252749/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]

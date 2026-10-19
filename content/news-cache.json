@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-19T15:15:56.778Z",
+  "generatedAt": "2026-10-19T16:13:13.434Z",
   "items": [
+    {
+      "title": "Mesh taps Visa to let users spend crypto without a separate card",
+      "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+      "pubDate": "Mon, 19 Oct 2026 16:10:02 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+      "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+      "pubDate": "Mon, 19 Oct 2026 16:05:09 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+      "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+      "source": "The Block"
+    },
+    {
+      "title": "Binance rolls out AI Pro for strategy building, testing and trading",
+      "link": "https://Blockchain.News/news/binance-ai-pro-launch-strategy-building-testing-trading",
+      "pubDate": "Mon, 19 Oct 2026 15:43:09 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance says its AI Pro product can turn natural-language prompts into trading strategies, with free and paid plans launched on Oct. 19, 2026. (Read M...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Wintermute says crypto market update published on 19 October 2026",
+      "link": "https://Blockchain.News/news/wintermute-market-update-19-october-2026",
+      "pubDate": "Mon, 19 Oct 2026 15:34:09 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Wintermute published a 19 October 2026 market update, but the indexed page text provided here does not include substantive market details. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
+      "link": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+      "pubDate": "Mon, 19 Oct 2026 15:28:43 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.",
+      "source": "The Block"
+    },
     {
       "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
       "link": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
@@ -298,14 +346,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-      "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto ...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
       "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
       "pubDate": "Sun, 18 Oct 2026 13:01:04 +0000",
@@ -522,14 +562,6 @@
       "source": "The Block"
     },
     {
-      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-      "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-      "pubDate": "Fri, 16 Oct 2026 11:25:12 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
-      "source": "The Block"
-    },
-    {
       "title": "Solana’s Liu says Shanghai event postponed over registration surge",
       "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 16 Oct 2026 11:22:47 +0000",
@@ -544,14 +576,6 @@
       "creator": "Ryan Gladwin",
       "contentSnippet": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-      "pubDate": "Fri, 16 Oct 2026 09:30:21 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
-      "source": "The Block"
     },
     {
       "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
@@ -591,14 +615,6 @@
       "pubDate": "Thu, 15 Oct 2026 15:20:41 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-      "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-      "pubDate": "Thu, 15 Oct 2026 14:27:18 +0000",
-      "creator": "Ryan Gladwin",
-      "contentSnippet": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
       "source": "Decrypt"
     }
   ]
