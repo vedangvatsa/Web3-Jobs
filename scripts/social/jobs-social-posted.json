@@ -26182,7 +26182,8 @@
       },
       "account": "channel:product",
       "attemptId": "0224a15c-1687-4e8e-ba77-bbffa99e9132",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8576076084a767175ba74c29e0cf2d752e7dcfe9"
     }
   ]
 }
