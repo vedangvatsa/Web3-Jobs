@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-10-18T21:40:09.842Z",
+  "generatedAt": "2026-10-19T09:09:28.046Z",
   "items": [
+    {
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 08:58:45 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset tr...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 07:54:13 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two wee...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Deutsche Bank Weeks Away From Launching Crypto Custody",
+      "link": "https://dailyhodl.com/2026/10/19/deutsche-bank-weeks-away-from-launching-crypto-custody/",
+      "pubDate": "Mon, 19 Oct 2026 07:04:41 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Deutsche Bank is weeks away from launching crypto custody in Germany and plans to expand the platform into Asian financial centers next year, a top ex...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "pubDate": "Mon, 19 Oct 2026 06:23:16 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "pubDate": "Mon, 19 Oct 2026 05:23:02 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 05:14:06 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "pubDate": "Mon, 19 Oct 2026 04:54:31 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "pubDate": "Mon, 19 Oct 2026 03:36:58 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+      "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 01:03:27 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recov...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "pubDate": "Sun, 18 Oct 2026 23:28:06 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 22:58:17 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all si...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
       "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
@@ -18,7 +106,7 @@
       "source": "Coindesk"
     },
     {
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
       "creator": "Omkar Godbole",
@@ -120,14 +208,6 @@
       "creator": "Francisco Rodrigues",
       "contentSnippet": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
       "source": "Coindesk"
-    },
-    {
-      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
-      "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
-      "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
-      "source": "The Block"
     },
     {
       "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
@@ -250,14 +330,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading ",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 15:52:28 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules cou...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
       "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 16 Oct 2026 15:45:43 +0000",
@@ -279,14 +351,6 @@
       "pubDate": "Fri, 16 Oct 2026 13:51:35 +0000",
       "creator": "Helen Partz",
       "contentSnippet": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report ",
-      "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 13:33:40 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset...",
       "source": "Cointelegraph"
     },
     {
@@ -338,14 +402,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "pubDate": "Fri, 16 Oct 2026 10:41:03 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on i...",
-      "source": "Coindesk"
-    },
-    {
       "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
       "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 16 Oct 2026 10:27:18 +0000",
@@ -360,14 +416,6 @@
       "creator": "Ryan Gladwin",
       "contentSnippet": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "pubDate": "Fri, 16 Oct 2026 09:48:14 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
-      "source": "Coindesk"
     },
     {
       "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
@@ -394,14 +442,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework ",
-      "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 23:34:19 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
       "pubDate": "Thu, 15 Oct 2026 21:41:14 +0000",
@@ -418,36 +458,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 20:21:11 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authoritie...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
       "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
       "pubDate": "Thu, 15 Oct 2026 19:16:04 +0000",
       "creator": "Staff",
       "contentSnippet": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 17:14:45 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans ",
-      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 16:49:59 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the futur...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
@@ -482,28 +498,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
-      "link": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
-      "pubDate": "Thu, 15 Oct 2026 14:43:35 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
-      "source": "The Block"
-    },
-    {
       "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
       "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
       "pubDate": "Thu, 15 Oct 2026 14:27:18 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-      "pubDate": "Thu, 15 Oct 2026 14:26:53 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
-      "source": "The Block"
     },
     {
       "title": "Ledger Announces Atom Touchscreen Android Device",
