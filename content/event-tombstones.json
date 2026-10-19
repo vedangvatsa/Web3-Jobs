@@ -852,5 +852,19 @@
       "luma-crypto-faqnwihbv5fjs7g",
       "cmpn"
     ]
+  },
+  "india-luma-7f2xpc87": {
+    "until": "2027-10-19T11:32:02.528Z",
+    "slugs": [
+      "india-luma-7f2xpc87",
+      "trezor-academy"
+    ]
+  },
+  "india-luma-x7p1zqx2": {
+    "until": "2027-10-19T11:32:02.528Z",
+    "slugs": [
+      "india-luma-x7p1zqx2",
+      "rrdn"
+    ]
   }
 }
