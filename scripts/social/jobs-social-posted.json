@@ -26714,6 +26714,40 @@
       "attemptId": "cb317807-0e78-41b6-a6e4-34363ca52480",
       "verification": "verified",
       "postId": "0x0d5545a51574f9e0e0bbffcc694827e0d0472b40"
+    },
+    {
+      "slug": "sup6",
+      "company": "Hut 8",
+      "title": "NOC Engineer, Supervisor - Highrise AI",
+      "platform": "farcaster",
+      "postedAt": "2026-10-19T11:37:04.170Z",
+      "expectedText": "Hut 8 is hiring NOC Engineer, Supervisor - Highrise AI\n\nhttps://hashtagweb3.com/sup6/fc?og=7",
+      "snapshot": {
+        "id": "5455070008",
+        "title": "NOC Engineer, Supervisor - Highrise AI",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5455070008",
+        "date": "2026-10-16T15:38:01-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Remote",
+        "department": "Highrise.ai",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sup6"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring NOC Engineer, Supervisor - Highrise AI\n\nhttps://hashtagweb3.com/sup6/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sup6/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "70abc42b-f4d9-470c-bf4e-201d8104becf",
+      "verification": "creating"
     }
   ]
 }
