@@ -100295,7 +100295,8 @@
         ],
         "total": 121,
         "checkedAt": "2026-10-19T15:08:09.557Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
