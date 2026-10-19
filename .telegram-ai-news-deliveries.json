@@ -1761,5 +1761,38 @@
     "slotKey": "2026-10-18:afternoon",
     "messageId": 193369,
     "sentAt": "2026-10-18T11:35:18.558Z"
+  },
+  "55cae452-5b22-46d3-ab88-3c3ac73f3e41": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T19:33:26.069Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "headline": "Tenstorrent raises $1.5 billion to scale AI chips",
+        "summary": "The semiconductor startup secured funding at a $6.2 billion valuation to remain independent and produce open-weight chips.",
+        "event_rationale": "Tenstorrent raised $1.5 billion in new capital to manufacture hardware, representing a unique funding event not covered in previous posts.",
+        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "source": "TechCrunch",
+        "originalTitle": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+      },
+      {
+        "index": 1,
+        "headline": "Hackers steal user API keys from OpenCode platform",
+        "summary": "The breach caused unauthorized account charges as AI safety filters blocked analysis of the attackers' code.",
+        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "source": "TechCrunch",
+        "originalTitle": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts"
+      },
+      {
+        "index": 2,
+        "headline": "Tolan raises $30 million for AI companion app",
+        "summary": "The startup currently serves more than 250,000 active users on its life management platform.",
+        "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "source": "TechCrunch",
+        "originalTitle": "Tolan snags $30M for its AI companion that helps users navigate life"
+      }
+    ],
+    "slotKey": "2026-10-19:evening"
   }
 }
