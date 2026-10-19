@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-18T03:38:49.840Z",
+  "checkedAt": "2026-10-19T09:14:21.032Z",
   "dryRun": false,
-  "before": 1612,
-  "after": 1612,
+  "before": 1560,
+  "after": 1560,
   "added": [],
   "removed": [],
   "expiryRemovals": [],
-  "failures": 3,
+  "failures": 4,
   "reports": [
     {
       "company": "Kamino",
@@ -15,21 +15,21 @@
         "url": "https://kamino.com",
         "finalUrl": "https://kamino.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:22.123Z",
-        "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df"
+        "checkedAt": "2026-10-19T09:13:55.246Z",
+        "bodySha256": "e98f2f9dd8b94994bc9618df759b610d8161d72eb8acb6abb1935f8b450c0c5a"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/kamino",
         "finalUrl": "https://jobs.ashbyhq.com/kamino",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:22.287Z",
-        "bodySha256": "cfbad5eff7926ebfae1a507ffc46d88ce57a4c4769e7d592ddff716306a49ab1"
+        "checkedAt": "2026-10-19T09:13:55.445Z",
+        "bodySha256": "5f519f6b2718b758435f62283c8f7483943932f9060a8f42e6af94e75c515b81"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:22.454Z",
+        "checkedAt": "2026-10-19T09:13:55.633Z",
         "bodySha256": "af1d8f18b39e0a8ddeb4527c2dd0466d0ed9748486c31adfbed7255ba9854b78"
       },
       "apiJobCount": 10,
@@ -44,15 +44,15 @@
         "url": "https://ankr.com",
         "finalUrl": "https://www.ankr.com/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:22.780Z",
+        "checkedAt": "2026-10-19T09:13:55.753Z",
         "bodySha256": "c792e769c7b800645d0d105ac367456c0e33dc426aa37cf76eb890f773111dbf"
       },
       "board": {
         "url": "https://ankr-pbc.breezy.hr",
         "finalUrl": "https://ankr-pbc.breezy.hr",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:23.316Z",
-        "bodySha256": "f99bce3417ee9535e51924babcec0d369199410efee2e1888b7f0ecd17122382"
+        "checkedAt": "2026-10-19T09:13:56.267Z",
+        "bodySha256": "bde5aab241276507050d5911f0bc61cb792aeb78c39a59635ac0c9f9655984fd"
       },
       "apiJobCount": 0,
       "quarantinedUnknownOriginalDate": 0,
@@ -66,15 +66,15 @@
         "url": "https://www.appliedblockchain.com/careers",
         "finalUrl": "https://www.appliedblockchain.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:23.934Z",
+        "checkedAt": "2026-10-19T09:13:56.893Z",
         "bodySha256": "9252f4c51b6a2c5efb73d53b7bc574d3cf48270207cdf5b19baac8a794922184"
       },
       "board": {
         "url": "https://apply.workable.com/appliedblockchain",
         "finalUrl": "https://apply.workable.com/appliedblockchain",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:24.091Z",
-        "bodySha256": "acc0e1bb78c23930ee8c51548bf06290852f7bb60e3701ca37998c1c96816719"
+        "checkedAt": "2026-10-19T09:13:57.038Z",
+        "bodySha256": "8d9557248c1e822a28cbe28c7a7f19c749794c06e7960f192004315efd6d8e80"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -87,15 +87,15 @@
         "url": "https://arcus.xyz/careers",
         "finalUrl": "https://arcus.xyz/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:24.353Z",
+        "checkedAt": "2026-10-19T09:13:57.189Z",
         "bodySha256": "f5e692daa7af013c46c2fdf39852398c67787263466b68b4c759884e4e6c35ff"
       },
       "board": {
         "url": "https://jobs.gem.com/arcus",
         "finalUrl": "https://jobs.gem.com/arcus",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:24.573Z",
-        "bodySha256": "3869e4f6f0dfd8905c6dfe933027f2fa61aae9dfef159e541d9b573b5da92395"
+        "checkedAt": "2026-10-19T09:13:57.427Z",
+        "bodySha256": "209ca2cce83b8514fd8ee7c19df980cca63cdeca250338a38ac90c4d13479c17"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -108,15 +108,15 @@
         "url": "https://argus.gg",
         "finalUrl": "https://argus.gg",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:24.929Z",
-        "bodySha256": "dd17d24ab305014dd1d9e6c1a2b97543da9217c004891609bea79d73e8b52608"
+        "checkedAt": "2026-10-19T09:13:57.668Z",
+        "bodySha256": "8cb957414a426c018ef4d8578023592cac1b8246edbfb710fc9fb1216a8a48a5"
       },
       "board": {
         "url": "https://jobs.gem.com/argus-labs",
         "finalUrl": "https://jobs.gem.com/argus-labs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:25.138Z",
-        "bodySha256": "0a5c32459c81117b2f709ae0e5380bc0441428938d18b169f402a5f23287d881"
+        "checkedAt": "2026-10-19T09:13:57.935Z",
+        "bodySha256": "852f7b111a831570d8631ae93663808c9fc653bea20d63d4b5844dae007b2d41"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -124,30 +124,9 @@
     },
     {
       "company": "Arrakis Finance",
-      "status": "checked-additive-feed",
-      "official": {
-        "url": "https://arrakis.finance/careers",
-        "finalUrl": "https://arrakis.finance/careers",
-        "status": 200,
-        "checkedAt": "2026-10-18T03:38:25.629Z",
-        "bodySha256": "725c9978c05e361f3cafe9d1dd87b154218e7decb88f77ff5e908810d060c716"
-      },
-      "board": {
-        "url": "https://jobs.ashbyhq.com/Arrakis",
-        "finalUrl": "https://jobs.ashbyhq.com/Arrakis",
-        "status": 200,
-        "checkedAt": "2026-10-18T03:38:25.819Z",
-        "bodySha256": "27005bd4ae7f19c66a9cc2dbec40a90d85587e2672adf2e5de1c8caaaeec9b40"
-      },
-      "api": {
-        "url": "https://api.ashbyhq.com/posting-api/job-board/Arrakis",
-        "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Arrakis",
-        "status": 200,
-        "checkedAt": "2026-10-18T03:38:26.051Z",
-        "bodySha256": "bd2449496265a96d8802509ebfffc559a6dfd209e69053fb30d781c032b09142"
-      },
-      "apiJobCount": 3,
-      "quarantinedUnknownOriginalDate": 3,
+      "status": "blocked",
+      "error": "Error: Ashby employer identity unavailable or changed for Arrakis → Arrakis Finance; preserving the previous snapshot.",
+      "apiJobCount": null,
       "acceptedCount": 0,
       "roles": []
     },
@@ -158,21 +137,21 @@
         "url": "https://www.auros.global/careers",
         "finalUrl": "https://www.auros.global/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:26.285Z",
-        "bodySha256": "b05f56535adec0f281fb52246050aa5266586aa76020013a6f37b8642486316c"
+        "checkedAt": "2026-10-19T09:13:58.573Z",
+        "bodySha256": "bc0bb6373d23ed0e2b3c9c02e284fb6a40efafdd2603dfc52a3bfde3baeb6445"
       },
       "board": {
         "url": "https://job-boards.greenhouse.io/aurosglobal",
         "finalUrl": "https://job-boards.greenhouse.io/aurosglobal",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:26.410Z",
+        "checkedAt": "2026-10-19T09:13:58.694Z",
         "bodySha256": "f3199fd784fe397726a0ac3b8a1cbb095c91de5c1c40973432fe91beb490fcb9"
       },
       "api": {
         "url": "https://boards-api.greenhouse.io/v1/boards/aurosglobal/jobs?content=true",
         "finalUrl": "https://boards-api.greenhouse.io/v1/boards/aurosglobal/jobs?content=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:26.505Z",
+        "checkedAt": "2026-10-19T09:13:58.771Z",
         "bodySha256": "baefe43af7ac597937bd1a0914bc30f84e893e188be5a8bcfc28a963963501bb"
       },
       "apiJobCount": 3,
@@ -206,21 +185,21 @@
         "url": "https://axiom.xyz",
         "finalUrl": "https://www.axiom.xyz/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:26.845Z",
+        "checkedAt": "2026-10-19T09:13:59.110Z",
         "bodySha256": "048bc82197f2629268d183fbc47866756ebc332be3f19ecb1728088c806a6494"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/axiom",
         "finalUrl": "https://jobs.ashbyhq.com/axiom",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:27.018Z",
-        "bodySha256": "aa430fc4fdaed13f2710a5cd1f50c29f4b87f049dd3ec6f0402f2e5ec99a51c0"
+        "checkedAt": "2026-10-19T09:13:59.139Z",
+        "bodySha256": "45aeec6d2c24a7bbc657719b1751c6927bb9906b97aa2127644e06aa1e691d88"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/axiom",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/axiom",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:27.042Z",
+        "checkedAt": "2026-10-19T09:13:59.152Z",
         "bodySha256": "b8eb0405f053ec0766542899697d72fa42141865e46ca14a3a7e0e8268cfd3dd"
       },
       "apiJobCount": 3,
@@ -235,15 +214,15 @@
         "url": "https://bitaccess.ca",
         "finalUrl": "https://bitaccess.ca",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:27.379Z",
+        "checkedAt": "2026-10-19T09:13:59.461Z",
         "bodySha256": "6863f3aee1d1e36cdfba73849d0cee389d6eddf5eac46aa3c9951446dfab17b7"
       },
       "board": {
         "url": "https://apply.workable.com/bitaccess",
         "finalUrl": "https://apply.workable.com/bitaccess",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:27.505Z",
-        "bodySha256": "ff5ab030420b8a90ee3b61371061c17f6b1bb1cb30684c53a0d4dab667caa40c"
+        "checkedAt": "2026-10-19T09:13:59.602Z",
+        "bodySha256": "361e72cecd2cb75448139a78265ef5d6e6707791f6b8bc57d6acfd8bca479b29"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -256,14 +235,14 @@
         "url": "https://bitonic.nl/nl/jobs",
         "finalUrl": "https://bitonic.nl/nl/jobs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:28.295Z",
+        "checkedAt": "2026-10-19T09:14:00.587Z",
         "bodySha256": "d31ea83ce1ea08d17cb86dfbef6469e029e4b0deb8acb5a541acf3d44af2815c"
       },
       "board": {
         "url": "https://bitonic.homerun.co",
         "finalUrl": "https://bitonic.homerun.co",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:28.965Z",
+        "checkedAt": "2026-10-19T09:14:01.303Z",
         "bodySha256": "07cae7958d8c31a50a1b48a84a40128f1627cabcd1ac5f29c8717a8371dd50bf"
       },
       "apiJobCount": null,
@@ -277,15 +256,15 @@
         "url": "https://bluefin.io/careers",
         "finalUrl": "https://bluefin.io/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:29.095Z",
+        "checkedAt": "2026-10-19T09:14:01.373Z",
         "bodySha256": "d24f1ec6abb4f1344fa4bdb9b1ee8bbcfc3f8d7fd7458d13fe330af221ce65ce"
       },
       "board": {
         "url": "https://apply.workable.com/bluefin",
         "finalUrl": "https://apply.workable.com/bluefin",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:29.224Z",
-        "bodySha256": "160957c455eeefb98ec0c6304210b4e69731ba73a1f1987df7fa6f044da4b85d"
+        "checkedAt": "2026-10-19T09:14:01.491Z",
+        "bodySha256": "536f47bb4b56f6d9252ce990662b705c327f66de9ff58b6ef3b455c8ad0a3504"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -298,15 +277,15 @@
         "url": "https://gobob.xyz",
         "finalUrl": "https://www.gobob.xyz/en",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:29.986Z",
+        "checkedAt": "2026-10-19T09:14:02.823Z",
         "bodySha256": "761e840d6ef92ed36d9ddd23b29f08aba0642358c887ff390ae70944fa7d6e14"
       },
       "board": {
         "url": "https://apply.workable.com/distributedcrafts",
         "finalUrl": "https://apply.workable.com/distributedcrafts",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:30.162Z",
-        "bodySha256": "56b04ed31fdada5d3c823a028f128c964fd74f2c3ace10b724a6ac02fd5baf3e"
+        "checkedAt": "2026-10-19T09:14:03.008Z",
+        "bodySha256": "ea2f752c1ec0b4519f5a61b13f303bbaec6730a747fe893b2891635c0df1ff3e"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -319,21 +298,21 @@
         "url": "https://boost.xyz",
         "finalUrl": "https://www.boost.xyz/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:30.454Z",
+        "checkedAt": "2026-10-19T09:14:03.249Z",
         "bodySha256": "4c50b11f6f98d09e144dc987e0c455ad15cb4cea6140ac1fa61209bc9095dfe1"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/Boost",
         "finalUrl": "https://jobs.ashbyhq.com/Boost",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:30.592Z",
-        "bodySha256": "8820da8b1ff63ff26fb3d6e891b28e871618be66c368b86ad4e911f9b0e778e3"
+        "checkedAt": "2026-10-19T09:14:03.395Z",
+        "bodySha256": "33bc1bcb182dc12facb27720c0833574b0c1770885a4cda35ad09e8872ffa678"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/Boost",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Boost",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:30.701Z",
+        "checkedAt": "2026-10-19T09:14:03.508Z",
         "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
       },
       "apiJobCount": 0,
@@ -356,21 +335,21 @@
         "url": "https://dialectic.com/jobs",
         "finalUrl": "https://dialectic.com/jobs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:31.456Z",
+        "checkedAt": "2026-10-19T09:14:04.251Z",
         "bodySha256": "4d374fa93f8d1f4ad0c71554e7de27de0943227c158a29725c3f3ad50f13eb1b"
       },
       "board": {
         "url": "https://job-boards.greenhouse.io/dialecticch",
         "finalUrl": "https://job-boards.greenhouse.io/dialecticch",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:31.597Z",
+        "checkedAt": "2026-10-19T09:14:04.342Z",
         "bodySha256": "3e87cfd5b06e894390d75b98031b57fa11b8b320be5e4162895090fea298092b"
       },
       "api": {
         "url": "https://boards-api.greenhouse.io/v1/boards/dialecticch/jobs?content=true",
         "finalUrl": "https://boards-api.greenhouse.io/v1/boards/dialecticch/jobs?content=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:31.666Z",
+        "checkedAt": "2026-10-19T09:14:04.393Z",
         "bodySha256": "a0d9b92dda5b8149fb906f8d6ebbd2cdcb6e9b43966c77f989f34f6b36d13d4f"
       },
       "apiJobCount": 5,
@@ -416,21 +395,21 @@
         "url": "https://eco.com",
         "finalUrl": "https://eco.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:32.094Z",
+        "checkedAt": "2026-10-19T09:14:04.602Z",
         "bodySha256": "c62edf80819ea6d638d8201e54586a1df6a9d26d5e4b00fe583f87a85dda9804"
       },
       "board": {
         "url": "https://job-boards.greenhouse.io/ecoinc",
         "finalUrl": "https://job-boards.greenhouse.io/ecoinc",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:32.285Z",
+        "checkedAt": "2026-10-19T09:14:04.783Z",
         "bodySha256": "833d3c843b9e1626325fa26b2f8481c355866a97b598232559800c6e33993d74"
       },
       "api": {
         "url": "https://boards-api.greenhouse.io/v1/boards/ecoinc/jobs?content=true",
         "finalUrl": "https://boards-api.greenhouse.io/v1/boards/ecoinc/jobs?content=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:32.354Z",
+        "checkedAt": "2026-10-19T09:14:04.830Z",
         "bodySha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
       },
       "apiJobCount": 0,
@@ -445,15 +424,15 @@
         "url": "https://hy.pe",
         "finalUrl": "https://www.hy.pe/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:32.866Z",
+        "checkedAt": "2026-10-19T09:14:05.242Z",
         "bodySha256": "7c1ca51d3ecfe64b7727bffc3f10cdfa93ac33c7a2e2e5fd52577ac50513783a"
       },
       "board": {
         "url": "https://hypepartners.recruitee.com",
         "finalUrl": "https://hypepartners.recruitee.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:33.335Z",
-        "bodySha256": "ca79a5ed5e224854bdd6a6fd8436bbeeb218982e6de2bb169c34c3c8577a0b47"
+        "checkedAt": "2026-10-19T09:14:05.815Z",
+        "bodySha256": "f64ed754405d2a46cec457cb0f4bcfb2215708a558efce6f03b5005fd6c1fc60"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -466,21 +445,21 @@
         "url": "https://injectivelabs.org/careers",
         "finalUrl": "https://injectivelabs.org/careers/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:34.224Z",
+        "checkedAt": "2026-10-19T09:14:07.110Z",
         "bodySha256": "7e1dfe10b364a390eca8142dfc6762ff0e0980673b19c7a1738df8e8438a7378"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/injective-labs",
         "finalUrl": "https://jobs.ashbyhq.com/injective-labs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:34.364Z",
-        "bodySha256": "be6587323016bccc1de9b45c6b1a7e43c1b4dbb0094025a15ebb49472771a1f6"
+        "checkedAt": "2026-10-19T09:14:07.124Z",
+        "bodySha256": "d9c0a94877049654b7175560e8d05ffd0fd4f7d20725bd69fa0f425fdf3f6bc7"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:34.386Z",
+        "checkedAt": "2026-10-19T09:14:07.137Z",
         "bodySha256": "876ebf3af3dad718ab766c8c4bb0a8c4771260eb855a0caeea412d5dc9b4c77e"
       },
       "apiJobCount": 8,
@@ -495,21 +474,21 @@
         "url": "https://free.technology/jobs",
         "finalUrl": "https://free.technology/jobs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:34.896Z",
-        "bodySha256": "cc055e8003972cc9b35d07b9e00be3444ff3beb900fd68269e069a9fccf84f00"
+        "checkedAt": "2026-10-19T09:14:07.749Z",
+        "bodySha256": "75be62430204e26750ae82b410bc9b1e5f77f8a21c8d0519afe8284ee1d4f97e"
       },
       "board": {
         "url": "https://job-boards.greenhouse.io/iftother",
         "finalUrl": "https://job-boards.greenhouse.io/iftother",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:35.022Z",
+        "checkedAt": "2026-10-19T09:14:07.835Z",
         "bodySha256": "1cbd3875f96712e8051015878aa6f9e2a8d77daa05c20ca384770c01057f8828"
       },
       "api": {
         "url": "https://boards-api.greenhouse.io/v1/boards/iftother/jobs?content=true",
         "finalUrl": "https://boards-api.greenhouse.io/v1/boards/iftother/jobs?content=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:35.091Z",
+        "checkedAt": "2026-10-19T09:14:07.881Z",
         "bodySha256": "963d27a334b47996e92f955ac1e513513519cff56dae1f79ae6fb17c5d49e614"
       },
       "apiJobCount": 4,
@@ -549,15 +528,15 @@
         "url": "https://www.intellecteu.com/careers",
         "finalUrl": "https://www.intellecteu.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:35.794Z",
+        "checkedAt": "2026-10-19T09:14:08.419Z",
         "bodySha256": "27d3b03a0025e46fdb39e52d08d9701f080e4b39bd889a49c73bc45f6ce13a5b"
       },
       "board": {
         "url": "https://intellecteu.bamboohr.com/careers",
         "finalUrl": "https://intellecteu.bamboohr.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:36.889Z",
-        "bodySha256": "edc77224f129a535ef19b4f39a2ee33bb96a0d767c6aeaf2ef8dbf7d2e4f5d68"
+        "checkedAt": "2026-10-19T09:14:09.388Z",
+        "bodySha256": "a9c1559b5efa14dd41a464d6d5aca565f0cc7defbe28879626c2b3a1ac83a89d"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -570,14 +549,14 @@
         "url": "https://kappalab.io/team#career",
         "finalUrl": "https://kappalab.io/team#career",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:37.001Z",
+        "checkedAt": "2026-10-19T09:14:09.461Z",
         "bodySha256": "cdf2791f1dcbdaaa438c9f532f7f65661e354a8e1b8cc10f8d329789d2cb8c66"
       },
       "board": {
         "url": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
         "finalUrl": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:37.717Z",
+        "checkedAt": "2026-10-19T09:14:10.229Z",
         "bodySha256": "beef83c5ee75713c308634b4008cb7e7eaa5992f125d36922f25baaecc47f893"
       },
       "apiJobCount": null,
@@ -591,22 +570,22 @@
         "url": "https://legend.xyz",
         "finalUrl": "https://legend.xyz",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:37.886Z",
-        "bodySha256": "4ab26e69fc7859780cca7abf8f4faca691c3e203344bde39903f11af0a173704"
+        "checkedAt": "2026-10-19T09:14:10.383Z",
+        "bodySha256": "1cfd4e30c8aed1cf00c345fe7d78d7f8ad5bb7de361f2fb94d9e64c891d9201f"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/legend-xyz",
         "finalUrl": "https://jobs.ashbyhq.com/legend-xyz",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:38.040Z",
-        "bodySha256": "1a56d28ff9fa5a566f36e12e2bc5c9d8b7f431ca4c4b58b6e1acf1aae198422a"
+        "checkedAt": "2026-10-19T09:14:10.531Z",
+        "bodySha256": "1a30afcb2353f35a4fc72012d1b2a00e5a6e2bd2eab352929de196b5e630a79f"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/legend-xyz",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/legend-xyz",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:38.062Z",
-        "bodySha256": "51c0c25ff882c6a8446757e8583dfd1cb0749ae6ae3254390d98827cf7d95de7"
+        "checkedAt": "2026-10-19T09:14:10.624Z",
+        "bodySha256": "707ebdd24d0deb430613394dfefb267b01bf5cca4782236b1435c37ca5a6eb11"
       },
       "apiJobCount": 2,
       "quarantinedUnknownOriginalDate": 2,
@@ -620,15 +599,15 @@
         "url": "https://lisk.com",
         "finalUrl": "https://lisk.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:38.193Z",
+        "checkedAt": "2026-10-19T09:14:10.696Z",
         "bodySha256": "6df7c16380e96c2dfe4f3f1575a92385bf10cc58a603e15f0bebe3ec008d35af"
       },
       "board": {
         "url": "https://lisk.jobs.personio.com",
         "finalUrl": "https://lisk.jobs.personio.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:39.274Z",
-        "bodySha256": "6a387c47e0cf81fb2fe6c9b10261c2129f67d9b0a2fa4f16085c9df89ed2e17d"
+        "checkedAt": "2026-10-19T09:14:11.623Z",
+        "bodySha256": "d3a4cd578bde9d91335714ae024acdc68f08f4366fd0214484de8972130372b8"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -649,21 +628,21 @@
         "url": "https://n1.xyz",
         "finalUrl": "https://www.n1.xyz/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:39.962Z",
+        "checkedAt": "2026-10-19T09:14:11.880Z",
         "bodySha256": "e42656e6d609acbd8fa7b3c51b995521f7f0795bf9931d81162cfff26b3f7c12"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/n1",
         "finalUrl": "https://jobs.ashbyhq.com/n1",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:40.105Z",
-        "bodySha256": "b786cd9cef353c0481c2b26cab69596f8c0fc23117797e345f0a1ad9dc789ce8"
+        "checkedAt": "2026-10-19T09:14:11.979Z",
+        "bodySha256": "5fbe05392886bf4765ec7805d0c41addb6880dfc9a8c1cf2aefd26afed69eacd"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/n1",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/n1",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:40.128Z",
+        "checkedAt": "2026-10-19T09:14:11.995Z",
         "bodySha256": "0859274ab39a6fcf916c5383c4610e604ebb7891f75463ca4c970c81e2559031"
       },
       "apiJobCount": 10,
@@ -678,21 +657,21 @@
         "url": "https://nimbus.team/join-us",
         "finalUrl": "https://nimbus.team/join-us",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.028Z",
+        "checkedAt": "2026-10-19T09:14:12.632Z",
         "bodySha256": "2ded467335f5b74acbe4baa103d6f8631eb59d3d94028e3964715658423e21fb"
       },
       "board": {
         "url": "https://job-boards.greenhouse.io/nimbus",
         "finalUrl": "https://job-boards.greenhouse.io/nimbus",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.147Z",
+        "checkedAt": "2026-10-19T09:14:12.728Z",
         "bodySha256": "64fa965e9d239ba7d84c8fd2f521c9e6ef6407a05a4b330ca8dd62906191db80"
       },
       "api": {
         "url": "https://boards-api.greenhouse.io/v1/boards/nimbus/jobs?content=true",
         "finalUrl": "https://boards-api.greenhouse.io/v1/boards/nimbus/jobs?content=true",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.221Z",
+        "checkedAt": "2026-10-19T09:14:12.772Z",
         "bodySha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
       },
       "apiJobCount": 0,
@@ -707,21 +686,21 @@
         "url": "https://optimism.io/careers",
         "finalUrl": "https://optimism.io/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.629Z",
-        "bodySha256": "41f555fe9392407e1ebb1d201d422043e8d58edcb79a1539e4459c7d7e1eb983"
+        "checkedAt": "2026-10-19T09:14:13.127Z",
+        "bodySha256": "e1c32a0320b3ba12f246fae77e5362802ab86e7ef8de9de6ee2ff6dd3a4e8578"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/opfoundation",
         "finalUrl": "https://jobs.ashbyhq.com/opfoundation",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.767Z",
-        "bodySha256": "739a108ee845f268218d54048dc5771428a69a40da1316dc56db6d4f023b5921"
+        "checkedAt": "2026-10-19T09:14:13.325Z",
+        "bodySha256": "243d031f2ddaba7ae095dca21826d471f770671c1d4162a4da36b34452eab67d"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/opfoundation",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/opfoundation",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:41.849Z",
+        "checkedAt": "2026-10-19T09:14:13.417Z",
         "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
       },
       "apiJobCount": 0,
@@ -744,21 +723,21 @@
         "url": "https://quantstamp.com/careers",
         "finalUrl": "https://quantstamp.com/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:42.333Z",
+        "checkedAt": "2026-10-19T09:14:13.764Z",
         "bodySha256": "5ad0974aa0a374261a104962df0f6b4dfb725061947e3a2c84c05161cf4bbdf1"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/quantstamp",
         "finalUrl": "https://jobs.ashbyhq.com/quantstamp",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:42.456Z",
-        "bodySha256": "0b708b7fac11978b1aefe001277cbb4d1cb392aad7a08dd6f0fcdede87a431d7"
+        "checkedAt": "2026-10-19T09:14:13.917Z",
+        "bodySha256": "5cc033c188eb0b5ec77b03e0a165dd6c12b4df267400c6ed21378659b64aca73"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:42.478Z",
+        "checkedAt": "2026-10-19T09:14:14.010Z",
         "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
       },
       "apiJobCount": 0,
@@ -773,21 +752,21 @@
         "url": "https://bettermoney.com",
         "finalUrl": "https://bettermoney.com",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:42.648Z",
+        "checkedAt": "2026-10-19T09:14:14.159Z",
         "bodySha256": "4e70e7cdacd174818bffd3ceed62008e263a51967daf8d3dcd7899997840ecf9"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/bettermoney",
         "finalUrl": "https://jobs.ashbyhq.com/bettermoney",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:42.954Z",
-        "bodySha256": "860ce6459dae1b2fdc4c83fd61e2a5074aa5d03453a3f4851cfc088da431f97b"
+        "checkedAt": "2026-10-19T09:14:14.423Z",
+        "bodySha256": "e9ec6a9dbb4fea38e599348b19ea91e1dfac904f15895d1fc335231567bbc6ad"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/bettermoney",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/bettermoney",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:43.042Z",
+        "checkedAt": "2026-10-19T09:14:14.517Z",
         "bodySha256": "bdf3438471b439b5d5183fb00e5e914ddf7d24b92ba08b8fd49dbf80cfd23ea8"
       },
       "apiJobCount": 7,
@@ -802,21 +781,21 @@
         "url": "https://www.trili.tech/careers",
         "finalUrl": "https://www.trili.tech/careers",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:43.315Z",
+        "checkedAt": "2026-10-19T09:14:14.743Z",
         "bodySha256": "b37b8551e64a6ea2741a59027a728ef4820dbd4584938b2f8887ea9965043f25"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/trilitech",
         "finalUrl": "https://jobs.ashbyhq.com/trilitech",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:43.440Z",
-        "bodySha256": "ed1c7b276d5c4448e5218661cefd7c2c21aa58b419590abca61a95eff3860efb"
+        "checkedAt": "2026-10-19T09:14:14.918Z",
+        "bodySha256": "9922a95375cb1a7038b7ad89b3b2dc5e3520d9d6ee1e917ac6f7ed18b6742478"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/trilitech",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/trilitech",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:43.467Z",
+        "checkedAt": "2026-10-19T09:14:15.013Z",
         "bodySha256": "c01e93c452d130fd787e56f1da265de884d1535d9559f9fd9aff199a47729a43"
       },
       "apiJobCount": 3,
@@ -831,15 +810,15 @@
         "url": "https://usual.money",
         "finalUrl": "https://usual.money",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:44.309Z",
+        "checkedAt": "2026-10-19T09:14:15.432Z",
         "bodySha256": "b46ac609cd0b549643f66f427b2aa83f7cd123efb07ef904075a54208b4708bc"
       },
       "board": {
         "url": "https://usual.breezy.hr",
         "finalUrl": "https://usual.breezy.hr",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:45.029Z",
-        "bodySha256": "8207561a046aa7eba4995c45b5cbaecc8c8a7c32f4670d5a162cb144e07b1eb9"
+        "checkedAt": "2026-10-19T09:14:16.117Z",
+        "bodySha256": "bf532179d4d8580590777b0e38c54788ce4a66c8ae1fedab3584630039f9c6cf"
       },
       "apiJobCount": 0,
       "quarantinedUnknownOriginalDate": 0,
@@ -853,15 +832,15 @@
         "url": "https://veefriends.com/jobs",
         "finalUrl": "https://veefriends.com/jobs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:46.560Z",
-        "bodySha256": "907090953b6b24b9ab28102adb41bea1cc63aa63e228029f43a870e988918d58"
+        "checkedAt": "2026-10-19T09:14:17.728Z",
+        "bodySha256": "7c5ac4872f11fbeabbcc8b7cdc24f56e93a9c582566974712187aae39d55a16f"
       },
       "board": {
         "url": "https://ats.rippling.com/veefriends-llc/jobs",
         "finalUrl": "https://ats.rippling.com/veefriends-llc/jobs",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:46.941Z",
-        "bodySha256": "7242f8e18d9118cbf839fb1891bbbcb09518cef788cc1d3c8555f998b523379f"
+        "checkedAt": "2026-10-19T09:14:18.057Z",
+        "bodySha256": "0f19d66f502d8b9025ee8ddd7f0ec7c8f0916a52fffe652696cca8bc1e77cf0b"
       },
       "apiJobCount": null,
       "acceptedCount": 0,
@@ -874,15 +853,15 @@
         "url": "https://violet.co",
         "finalUrl": "https://www.violet.co/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:47.179Z",
+        "checkedAt": "2026-10-19T09:14:18.152Z",
         "bodySha256": "baf12aa2c5fe9cafb29907011255ea1a70343d154fc2af14a74d08159c37a166"
       },
       "board": {
         "url": "https://violet.breezy.hr",
         "finalUrl": "https://violet.breezy.hr",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:47.850Z",
-        "bodySha256": "6001728e578c88a34acfdcefc8203d1cfe357e00a59df2adb4745cf9f54577ab"
+        "checkedAt": "2026-10-19T09:14:19.100Z",
+        "bodySha256": "fc8626448eb27e054fa27db12d51bc6a968b60c358e5de350fcdc2726dfb1730"
       },
       "apiJobCount": 0,
       "quarantinedUnknownOriginalDate": 0,
@@ -896,15 +875,15 @@
         "url": "https://zenledger.io",
         "finalUrl": "https://zenledger.io",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:48.525Z",
-        "bodySha256": "60073ec2e904990e0ba34d50883c14a8e974a09656c9c8a83e41f7027fa5b895"
+        "checkedAt": "2026-10-19T09:14:19.719Z",
+        "bodySha256": "c384c6b2a74005335065578a2218fd46bd3ed80bce8bbbd8c1ea899b27704a44"
       },
       "board": {
         "url": "https://zenledger.breezy.hr",
         "finalUrl": "https://zenledger.breezy.hr",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:49.030Z",
-        "bodySha256": "afb6eb3cc33a655d6ab3488f04751fcdd3b9a9b6e424c1bd1570ced986d8d4d1"
+        "checkedAt": "2026-10-19T09:14:20.259Z",
+        "bodySha256": "6de450d939b060e2026e0f77cc5a0d7bafaa41bdbb65e7e0c11e5a246d3b0e98"
       },
       "apiJobCount": 0,
       "quarantinedUnknownOriginalDate": 0,
@@ -918,21 +897,21 @@
         "url": "https://www.zircuit.com/",
         "finalUrl": "https://www.zircuit.com/",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:49.577Z",
+        "checkedAt": "2026-10-19T09:14:20.761Z",
         "bodySha256": "1b04677ece766df1abbb06fa0368da641dd1585763bfc634694f73f613ed0ac4"
       },
       "board": {
         "url": "https://jobs.ashbyhq.com/Zircuit",
         "finalUrl": "https://jobs.ashbyhq.com/Zircuit",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:49.729Z",
-        "bodySha256": "cc77d98f42612a7bc52ef8d92d4e696dc17d10d4c6e3cccff85010cfca857684"
+        "checkedAt": "2026-10-19T09:14:20.916Z",
+        "bodySha256": "1227029de90755783e2f0ddc8a05378281f00e1038d5ffeec8012ad7f4589ce1"
       },
       "api": {
         "url": "https://api.ashbyhq.com/posting-api/job-board/Zircuit",
         "finalUrl": "https://api.ashbyhq.com/posting-api/job-board/Zircuit",
         "status": 200,
-        "checkedAt": "2026-10-18T03:38:49.836Z",
+        "checkedAt": "2026-10-19T09:14:21.028Z",
         "bodySha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
       },
       "apiJobCount": 0,
