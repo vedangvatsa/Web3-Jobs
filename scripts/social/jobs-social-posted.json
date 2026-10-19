@@ -28943,7 +28943,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "986f0954-4dc7-4697-b6b4-478461b653d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518032552675250177"
     }
   ]
 }
