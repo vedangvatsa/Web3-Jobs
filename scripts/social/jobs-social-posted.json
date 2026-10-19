@@ -26147,7 +26147,8 @@
       },
       "account": "channel:ai",
       "attemptId": "89c9306b-e59c-40b6-adbc-3d97adf61604",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f489adf47763256f30e07c3893525f7492e19e4"
     }
   ]
 }
