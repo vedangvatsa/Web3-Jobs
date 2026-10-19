@@ -26572,7 +26572,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "54791106-7e3f-461b-9344-b39afafb60f1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe789729d82ba7dee1ac248e3b98c37ac504c7810"
     }
   ]
 }
