@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-19",
+    "threadId": "E01",
+    "sequence": 2,
+    "platform": "threads",
+    "assetCommit": "b829afc199a615f5f0e4bb61c11c21624f5c97c0",
+    "contentDigest": "0230d86daafde1c3fb11fde8423a947f2d658e3d868611c75bfbd00a68e9eeb7",
+    "posts": [
+      {
+        "number": 1,
+        "text": "An ERC-20 token approval gives another address permission to spend a specified token from your account. It is different from connecting a wallet to a website. Check the token, spender and amount before you approve.",
+        "alt": "Read the permission you are granting. Token. Spender. Amount. Network.",
+        "image": "social-assets/knowledge-threads-month/images/E01-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Example: you plan to swap 20 tokens, but the app requests an allowance of 200. That permission is larger than this trade. Where supported, set a cap that matches your intended use rather than accepting the requested amount automatically.",
+        "alt": "Compare the trade and the cap. Example only. Trade: 20 tokens. Requested cap: 200. Review the difference.",
+        "image": "social-assets/knowledge-threads-month/images/E01-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Disconnecting a website does not revoke an onchain token allowance. To remove that spending permission, submit a revocation on the relevant network and check that it confirms. An onchain revocation normally requires a network fee.",
+        "alt": "Disconnecting and revoking differ. Website connection. Onchain allowance. Revocation transaction. Confirmation.",
+        "image": "social-assets/knowledge-threads-month/images/E01-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "A signature can authorize spending even when you pay no gas at signing. ERC-2612 permits let someone submit a signed approval onchain later. Read the spender, amount and deadline; a gasless prompt is not automatically a harmless login.",
+        "alt": "A signature can carry spending authority. Signed permit. Spender. Amount. Submission deadline.",
+        "image": "social-assets/knowledge-threads-month/images/E01-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "NFT permissions use different scopes. setApprovalForAll can let an operator move every NFT you own from that collection contract. It is broader than approving one item, so check which collection and operator the request names.",
+        "alt": "Check the NFT permission scope. One NFT. Collection-wide permission. Named operator.",
+        "image": "social-assets/knowledge-threads-month/images/E01-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Review allowances by account and network, then remove ones you no longer need. Keep the approval and revocation receipts. Revoking permission cannot reverse a transfer that already happened, and it does not repair an exposed private key.",
+        "alt": "Keep an allowance review record. Account. Network. Spender. Remaining allowance. Revocation receipt.",
+        "image": "social-assets/knowledge-threads-month/images/E01-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-01.jpg",
+        "sha256": "f0d44638497a436f81c5e08c5a093f797178acb6be9fd8f3972172f4b93a445e",
+        "bytes": 125475,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-02.jpg",
+        "sha256": "1dfb6d27bb30531c2957c66e03d19ae754294b07bfc634f7c174af7c52c48a4c",
+        "bytes": 104977,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-03.jpg",
+        "sha256": "2dc5e9208f7938f7e5bff59852d26476eaa8961d338cdf83d116d7a7f7be7f8c",
+        "bytes": 117032,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-04.jpg",
+        "sha256": "2229a9fd6c711ee580686e098ab8ab7997d3436a504eefcdd71ed5b964756bef",
+        "bytes": 125141,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-05.jpg",
+        "sha256": "eb82dd291c2aa90252f7becafc9fbf79ab3545c88d2b04904831bad86c7e4b17",
+        "bytes": 118281,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E01-06.jpg",
+        "sha256": "9fd9c21eb1f1118b656cfbc36a912fefb07926399303ac3343392031de6ec933",
+        "bytes": 109105,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b829afc199a615f5f0e4bb61c11c21624f5c97c0/social-assets/knowledge-threads-month/images/E01-06.jpg"
+      }
+    ]
+  },
+  "accountId": "28140464265581606",
+  "claimId": "f402a559-2363-4b29-8d8b-5d1b6b5f68b0",
+  "startedAt": "2026-10-19T11:32:05.275Z",
+  "status": "claimed",
+  "steps": {}
+}
