@@ -1,4 +1,30 @@
 {
+  "ma-bitcoin-mena": {
+    "eventStatus": "EventPostponed",
+    "sourceReview": {
+      "url": "https://mena.b.tc/event-update",
+      "checkedAt": "2026-10-19T19:55:55.277Z",
+      "reason": "The organizer postponed Bitcoin MENA to 2027 and has not announced precise replacement dates. Retain the original dates for identity/history and display postponed status; do not reuse the 2025 venue address."
+    }
+  },
+  "premier-nabsummit": {
+    "startDate": "2026-11-18",
+    "endDate": "2026-11-19",
+    "sourceReview": {
+      "url": "https://www.northamericanblockchainsummit.com/sponsor-nabs",
+      "checkedAt": "2026-10-19T20:06:07.139Z",
+      "reason": "The organizer-linked 2026 sponsorship prospectus explicitly lists November 18–19 at the National Medal of Honor Museum. Exact session hours were not supplied. Address evidence is retained in venue-address-audit.json."
+    }
+  },
+  "ma-blockcon-punta-cana-2026": {
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-28",
+    "sourceReview": {
+      "url": "https://www.blockcon.co/",
+      "checkedAt": "2026-10-19T20:01:29.615Z",
+      "reason": "The current organizer page and existing reviewed description agree on November 25–28, 2026. Replace the single-day placeholder without inventing opening or closing times."
+    }
+  },
   "luma-crypto-SmEV1KL3URBkN1p": {
     "name": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
     "startDate": "2026-09-16T07:00:00.000Z",
@@ -7266,12 +7292,15 @@
   },
   "premier-africapredict": {
     "name": "Africa Prediction Markets Summit 2027",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "location": "Cape Town, South Africa",
     "startDate": "2027-06-03",
     "endDate": "2027-06-04",
     "sourceReview": {
       "url": "https://www.africapredictionmarketssummit.com/",
-      "checkedAt": "2026-10-12T11:25:29.699Z",
-      "reason": "Primary page body checked against catalog-fact-revisions.json."
+      "checkedAt": "2026-10-19T19:55:56.539Z",
+      "reason": "The organizer's current June 3–4, 2027 page identifies Cape Town, South Africa. A named venue is not announced; no street address is inferred."
     }
   },
   "premier-gbshow": {

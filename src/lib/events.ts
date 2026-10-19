@@ -28,6 +28,28 @@ export type EventTicketOffer = {
   validFrom?: string;
 };
 
+export type EventVenueAddressVerification = {
+  checkedAt: string;
+  urls: string[];
+  venueName: string;
+  streetAddress: string;
+  addressLocality?: string;
+  addressCountry?: string;
+  location: string;
+};
+
+export type EventVenueAddress = {
+  name: string;
+  streetAddress?: string;
+  addressLocality?: string;
+  addressRegion?: string;
+  postalCode?: string;
+  addressCountry?: string;
+  dateLabel?: string;
+  sourceUrl?: string;
+  verification?: EventVenueAddressVerification;
+};
+
 export interface Web3Event {
   id: string;
   name: string;
@@ -55,6 +77,9 @@ export interface Web3Event {
   addressRegion?: string;
   postalCode?: string;
   addressCountry?: string;
+  venueAddressSource?: EventVenueAddressVerification;
+  /** Known locations within a multi-venue event; the list can be incomplete. */
+  venueAddresses?: EventVenueAddress[];
   organizer?: EventParty;
   performer?: EventParty;
   /** Host names from the source page (e.g. Luma hosts). */
@@ -131,7 +156,7 @@ export const COUNTRY_NAMES: Record<string, string> = {
   NZ: 'New Zealand', PA: 'Panama', PE: 'Peru', PH: 'Philippines', PK: 'Pakistan',
   PL: 'Poland', PR: 'Puerto Rico', PT: 'Portugal', QA: 'Qatar', RO: 'Romania',
   RS: 'Serbia', RU: 'Russia', RW: 'Rwanda', SA: 'Saudi Arabia', SE: 'Sweden',
-  SG: 'Singapore', SI: 'Slovenia', SK: 'Slovakia', TH: 'Thailand', TN: 'Tunisia',
+  SG: 'Singapore', SI: 'Slovenia', SK: 'Slovakia', SV: 'El Salvador', TH: 'Thailand', TN: 'Tunisia',
   TR: 'Turkey', TW: 'Taiwan', TZ: 'Tanzania', UA: 'Ukraine', UG: 'Uganda',
   US: 'United States', UY: 'Uruguay', UZ: 'Uzbekistan', VE: 'Venezuela',
   VN: 'Vietnam', ZA: 'South Africa',

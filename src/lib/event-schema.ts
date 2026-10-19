@@ -1,6 +1,6 @@
 import type { EventParty as SourceEventParty, Web3Event } from './events';
 import { getEventExternalUrl } from './event-external-url';
-import { hasDetailedStreetAddress } from './event-address';
+import { hasDetailedStreetAddress, hasDetailedVenueAddress, hasVerifiedVenueAddress } from './event-address';
 import { getVerifiedEventDescription } from './event-description-source';
 
 type SchemaParty = {
@@ -111,6 +111,8 @@ function isValidIsoDate(value?: string | null): value is string {
 }
 
 function hasDetailedSourceLocation(event: Web3Event): boolean {
+  if (event.venueAddresses?.length) return event.venueAddresses.every(hasDetailedVenueAddress);
+  if (hasVerifiedVenueAddress(event)) return true;
   const streetAddress = text(event.streetAddress);
   if (streetAddress) return hasDetailedStreetAddress(streetAddress);
 
@@ -188,6 +190,7 @@ export function getGoogleEventSchemaIssues(event: Web3Event): string[] {
   if (isOnlineEventVenue(event) || (!['offline', 'mixed'].includes(event.attendanceMode || '') && VIRTUAL_EVENT_MODE.test(text(event.description)))) issues.push('online-only');
   if (event.approvalRequired || event.visibility === 'private' || event.visibility === 'unlisted' || PRIVATE_EVENT.test(`${name} ${text(event.description)}`)) issues.push('restricted-registration');
   if (event.locationHidden) issues.push('hidden-address');
+  if (event.venueAddresses?.length) issues.push('multiple-venues');
   if (!location || UNKNOWN_LOCATION.test(location)) issues.push('missing-location');
   if (!hasDetailedSourceLocation(event)) issues.push('missing-detailed-address');
   return issues;

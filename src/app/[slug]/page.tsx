@@ -35,6 +35,7 @@ import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
 import { EventCard } from '@/components/event-card';
 import { EventGuideContent } from '@/components/event-guide-content';
+import { EventVenueAddresses } from '@/components/event-venue-addresses';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
@@ -552,6 +553,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               />
 
               <EventHeroImage src={event.coverImage} name={event.name} imageVariants={getImageVariants(event.coverImage)} />
+              <EventVenueAddresses event={event} />
 
               {/* Quick Facts Grid */}
               {(event.partnerOffer || ticketPricing || expectedAttendance || speakerFact) && (

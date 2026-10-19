@@ -1,0 +1,1390 @@
+{
+  "curated-edge-city-india-2026": {
+    "expectedStartDate": "2026-10-11",
+    "checkedAt": "2026-10-19T19:56:15.933Z",
+    "patch": {
+      "venueName": "The Circle.Work Ashvem Beach, Goa",
+      "streetAddress": "Cuebebar on the Beach, 224/1-A, Ashvem Beach Road, Ashvem, Mandrem",
+      "addressLocality": "Pernem",
+      "addressRegion": "Goa",
+      "postalCode": "403527",
+      "addressCountry": "IN",
+      "location": "The Circle.Work Ashvem Beach, Goa, Cuebebar on the Beach, 224/1-A, Ashvem Beach Road, Ashvem, Mandrem, Pernem, Goa 403527, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:15.933Z",
+        "urls": [
+          "https://www.edgecity.live/india26",
+          "https://www.thecircle.work/goa"
+        ],
+        "venueName": "The Circle.Work Ashvem Beach, Goa",
+        "streetAddress": "Cuebebar on the Beach, 224/1-A, Ashvem Beach Road, Ashvem, Mandrem",
+        "addressLocality": "Pernem",
+        "addressCountry": "IN",
+        "location": "The Circle.Work Ashvem Beach, Goa, Cuebebar on the Beach, 224/1-A, Ashvem Beach Road, Ashvem, Mandrem, Pernem, Goa 403527, India"
+      }
+    }
+  },
+  "curated-field-station-rajasthan-2026": {
+    "expectedStartDate": "2026-10-23",
+    "checkedAt": "2026-10-19T19:59:24.268Z",
+    "patch": {
+      "venueName": "Dhun",
+      "streetAddress": "Chak Gulabpura",
+      "addressLocality": "Jaipur",
+      "addressRegion": "Rajasthan",
+      "postalCode": "303904",
+      "addressCountry": "IN",
+      "location": "Dhun, Chak Gulabpura, Jaipur, Rajasthan 303904, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:59:24.268Z",
+        "urls": [
+          "https://logos.co/field-station",
+          "https://luma.com/devcon8",
+          "https://dhun.life/"
+        ],
+        "venueName": "Dhun",
+        "streetAddress": "Chak Gulabpura",
+        "addressLocality": "Jaipur",
+        "addressCountry": "IN",
+        "location": "Dhun, Chak Gulabpura, Jaipur, Rajasthan 303904, India"
+      }
+    }
+  },
+  "curated-tokeniq-mumbai-2026": {
+    "expectedStartDate": "2026-10-24",
+    "checkedAt": "2026-10-19T19:59:24.268Z",
+    "patch": {
+      "venueName": "CIDCO Exhibition & Convention Centre",
+      "streetAddress": "Swami Pranabananda Marg, Sector 30-A, Vashi",
+      "addressLocality": "Navi Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400703",
+      "addressCountry": "IN",
+      "location": "CIDCO Exhibition & Convention Centre, Swami Pranabananda Marg, Sector 30-A, Vashi, Navi Mumbai, Maharashtra 400703, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:59:24.268Z",
+        "urls": [
+          "https://joinfingrad.com/tokeniq",
+          "https://acecec.com/contact.php",
+          "https://luma.com/devcon8"
+        ],
+        "venueName": "CIDCO Exhibition & Convention Centre",
+        "streetAddress": "Swami Pranabananda Marg, Sector 30-A, Vashi",
+        "addressLocality": "Navi Mumbai",
+        "addressCountry": "IN",
+        "location": "CIDCO Exhibition & Convention Centre, Swami Pranabananda Marg, Sector 30-A, Vashi, Navi Mumbai, Maharashtra 400703, India"
+      }
+    }
+  },
+  "premier-bitmela-2026": {
+    "expectedStartDate": "2026-10-30",
+    "checkedAt": "2026-10-19T19:56:19.504Z",
+    "patch": {
+      "venueName": "InterContinental Jaipur Tonk Road",
+      "streetAddress": "Sitapura Industrial Area, Tonk Road",
+      "addressLocality": "Jaipur",
+      "addressRegion": "Rajasthan",
+      "postalCode": "302022",
+      "addressCountry": "IN",
+      "location": "InterContinental Jaipur Tonk Road, Sitapura Industrial Area, Tonk Road, Jaipur, Rajasthan 302022, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:19.504Z",
+        "urls": [
+          "https://thebitmela.com/",
+          "https://www.ihg.com/intercontinental/hotels/us/en/jaipur/jaitr/hoteldetail"
+        ],
+        "venueName": "InterContinental Jaipur Tonk Road",
+        "streetAddress": "Sitapura Industrial Area, Tonk Road",
+        "addressLocality": "Jaipur",
+        "addressCountry": "IN",
+        "location": "InterContinental Jaipur Tonk Road, Sitapura Industrial Area, Tonk Road, Jaipur, Rajasthan 302022, India"
+      }
+    }
+  },
+  "ibw-official-ibw-institutional-forum-11-02": {
+    "expectedStartDate": "2026-11-01",
+    "checkedAt": "2026-10-19T19:56:53.774Z",
+    "patch": {
+      "venueName": "Fairmont Mumbai",
+      "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400099",
+      "addressCountry": "IN",
+      "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai, Maharashtra 400099, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:53.774Z",
+        "urls": [
+          "https://indiablockchainweek.com/institutional-forum",
+          "https://indiablockchainweek.com/institutional-forum/apply",
+          "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai/location-contact.html"
+        ],
+        "venueName": "Fairmont Mumbai",
+        "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai, Maharashtra 400099, India"
+      }
+    }
+  },
+  "ibw-official-future-asset-forum-2026": {
+    "expectedStartDate": "2026-11-01",
+    "checkedAt": "2026-10-19T19:56:53.779Z",
+    "patch": {
+      "venueName": "Fairmont Mumbai",
+      "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400099",
+      "addressCountry": "IN",
+      "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai, Maharashtra 400099, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:53.779Z",
+        "urls": [
+          "https://indiablockchainweek.com/future-asset-forum",
+          "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai/location-contact.html"
+        ],
+        "venueName": "Fairmont Mumbai",
+        "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai, Maharashtra 400099, India"
+      }
+    }
+  },
+  "premier-ethindia-2026": {
+    "expectedStartDate": "2026-11-04",
+    "checkedAt": "2026-10-19T19:56:56.010Z",
+    "patch": {
+      "venueName": "Jio World Centre",
+      "streetAddress": "G Block, Bandra Kurla Complex",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400098",
+      "addressCountry": "IN",
+      "location": "Jio World Centre, G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400098, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:56.010Z",
+        "urls": [
+          "https://ethindia.co/",
+          "https://devcon.org/en/",
+          "https://www.jioworldcentre.com/contact-us/"
+        ],
+        "venueName": "Jio World Centre",
+        "streetAddress": "G Block, Bandra Kurla Complex",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Jio World Centre, G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400098, India"
+      }
+    }
+  },
+  "premier-unchained-summit-india-2026": {
+    "expectedStartDate": "2026-11-05",
+    "checkedAt": "2026-10-19T19:54:58.431Z",
+    "patch": {
+      "venueName": "Courtyard by Marriott Mumbai International Airport",
+      "streetAddress": "CTS 215, Opposite PVR Cinemas Sangam, Andheri Kurla Road, Andheri East",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400059",
+      "addressCountry": "IN",
+      "location": "Courtyard by Marriott Mumbai International Airport, CTS 215, Opposite PVR Cinemas Sangam, Andheri Kurla Road, Andheri East, Mumbai, Maharashtra 400059, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:54:58.431Z",
+        "urls": [
+          "https://unchainedsummit.com/india/",
+          "https://www.marriott.com/en-us/hotels/bomcy-courtyard-mumbai-international-airport/events/"
+        ],
+        "venueName": "Courtyard by Marriott Mumbai International Airport",
+        "streetAddress": "CTS 215, Opposite PVR Cinemas Sangam, Andheri Kurla Road, Andheri East",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Courtyard by Marriott Mumbai International Airport, CTS 215, Opposite PVR Cinemas Sangam, Andheri Kurla Road, Andheri East, Mumbai, Maharashtra 400059, India"
+      }
+    }
+  },
+  "curated-dev3pack-career-fair-2026": {
+    "expectedStartDate": "2026-11-06",
+    "checkedAt": "2026-10-19T19:56:56.808Z",
+    "patch": {
+      "venueName": "Jio World Centre",
+      "streetAddress": "G Block, Bandra Kurla Complex",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400098",
+      "addressCountry": "IN",
+      "location": "Jio World Centre, G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400098, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:56:56.808Z",
+        "urls": [
+          "https://www.dev3pack.xyz/programs/career-fair",
+          "https://www.jioworldcentre.com/contact-us/"
+        ],
+        "venueName": "Jio World Centre",
+        "streetAddress": "G Block, Bandra Kurla Complex",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Jio World Centre, G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400098, India"
+      }
+    }
+  },
+  "premier-planblugano": {
+    "expectedStartDate": "2026-10-23",
+    "checkedAt": "2026-10-19T19:54:47.802Z",
+    "patch": {
+      "venueAddresses": [
+        {
+          "name": "Palazzo dei Congressi",
+          "streetAddress": "Piazza Indipendenza 4",
+          "addressLocality": "Lugano",
+          "postalCode": "6900",
+          "addressCountry": "CH",
+          "sourceUrl": "https://luganoconventions.com/it/strutture/palazzo-congressi",
+          "verification": {
+            "checkedAt": "2026-10-19T19:54:47.802Z",
+            "urls": [
+              "https://planb.lugano.ch/planb-forum/",
+              "https://luganoconventions.com/it/strutture/palazzo-congressi",
+              "https://www.luganoconventions.com/en/venues/villa-ciani",
+              "https://www.luganoconventions.com/en/venues/asilo-ciani"
+            ],
+            "venueName": "Palazzo dei Congressi",
+            "streetAddress": "Piazza Indipendenza 4",
+            "addressLocality": "Lugano",
+            "addressCountry": "CH",
+            "location": "Piazza Indipendenza 4, Lugano, 6900, CH"
+          }
+        },
+        {
+          "name": "Villa Ciani",
+          "streetAddress": "Via Canova",
+          "addressLocality": "Lugano",
+          "postalCode": "6900",
+          "addressCountry": "CH",
+          "sourceUrl": "https://www.luganoconventions.com/en/venues/villa-ciani",
+          "verification": {
+            "checkedAt": "2026-10-19T19:54:47.802Z",
+            "urls": [
+              "https://planb.lugano.ch/planb-forum/",
+              "https://luganoconventions.com/it/strutture/palazzo-congressi",
+              "https://www.luganoconventions.com/en/venues/villa-ciani",
+              "https://www.luganoconventions.com/en/venues/asilo-ciani"
+            ],
+            "venueName": "Villa Ciani",
+            "streetAddress": "Via Canova",
+            "addressLocality": "Lugano",
+            "addressCountry": "CH",
+            "location": "Via Canova, Lugano, 6900, CH"
+          }
+        },
+        {
+          "name": "Asilo Ciani",
+          "streetAddress": "Viale Carlo Cattaneo 5",
+          "addressLocality": "Lugano",
+          "postalCode": "6900",
+          "addressCountry": "CH",
+          "sourceUrl": "https://www.luganoconventions.com/en/venues/asilo-ciani",
+          "verification": {
+            "checkedAt": "2026-10-19T19:54:47.802Z",
+            "urls": [
+              "https://planb.lugano.ch/planb-forum/",
+              "https://luganoconventions.com/it/strutture/palazzo-congressi",
+              "https://www.luganoconventions.com/en/venues/villa-ciani",
+              "https://www.luganoconventions.com/en/venues/asilo-ciani"
+            ],
+            "venueName": "Asilo Ciani",
+            "streetAddress": "Viale Carlo Cattaneo 5",
+            "addressLocality": "Lugano",
+            "addressCountry": "CH",
+            "location": "Viale Carlo Cattaneo 5, Lugano, 6900, CH"
+          }
+        }
+      ],
+      "location": "Palazzo dei Congressi, Lugano, Switzerland"
+    }
+  },
+  "premier-meridian": {
+    "expectedStartDate": "2026-10-28T09:00:00+01:00",
+    "checkedAt": "2026-10-19T19:55:26.943Z",
+    "patch": {
+      "venueName": "Convento do Beato",
+      "streetAddress": "Alameda do Beato",
+      "addressLocality": "Lisboa",
+      "postalCode": "1950-042",
+      "addressCountry": "PT",
+      "location": "Convento do Beato, Alameda do Beato, 1950-042 Lisboa, Portugal",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:26.943Z",
+        "urls": [
+          "https://meridian.stellar.org/event-details",
+          "https://www.conventodobeato.com/contact/"
+        ],
+        "venueName": "Convento do Beato",
+        "streetAddress": "Alameda do Beato",
+        "addressLocality": "Lisboa",
+        "addressCountry": "PT",
+        "location": "Convento do Beato, Alameda do Beato, 1950-042 Lisboa, Portugal"
+      }
+    }
+  },
+  "premier-bitcoin-amsterdam-2026": {
+    "expectedStartDate": "2026-11-05T09:00:00+01:00",
+    "checkedAt": "2026-10-19T19:54:53.238Z",
+    "patch": {
+      "venueName": "SugarFactory",
+      "streetAddress": "Kristalpromenade 7",
+      "addressLocality": "Halfweg",
+      "postalCode": "1165 PD",
+      "addressCountry": "NL",
+      "location": "SugarFactory, Kristalpromenade 7, 1165 PD Halfweg, Netherlands",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:54:53.238Z",
+        "urls": [
+          "https://www.bitcoin.amsterdam/",
+          "https://sugarfactory.nl/en/contact/"
+        ],
+        "venueName": "SugarFactory",
+        "streetAddress": "Kristalpromenade 7",
+        "addressLocality": "Halfweg",
+        "addressCountry": "NL",
+        "location": "SugarFactory, Kristalpromenade 7, 1165 PD Halfweg, Netherlands"
+      }
+    }
+  },
+  "premier-unbanked": {
+    "expectedStartDate": "2026-11-09",
+    "checkedAt": "2026-10-19T19:55:23.517Z",
+    "patch": {
+      "venueName": "Landing Canary Wharf",
+      "streetAddress": "1st Floor, 12 Bank Street",
+      "addressLocality": "London",
+      "postalCode": "E14 4DD",
+      "addressCountry": "GB",
+      "location": "Landing Canary Wharf, 1st Floor, 12 Bank Street, Canary Wharf Estate, London E14 4DD, United Kingdom",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:23.517Z",
+        "urls": [
+          "https://theunbanked.finance/london",
+          "https://luma.com/TheUnBanked",
+          "https://landingcanarywharf.com/location/"
+        ],
+        "venueName": "Landing Canary Wharf",
+        "streetAddress": "1st Floor, 12 Bank Street",
+        "addressLocality": "London",
+        "addressCountry": "GB",
+        "location": "Landing Canary Wharf, 1st Floor, 12 Bank Street, Canary Wharf Estate, London E14 4DD, United Kingdom"
+      }
+    }
+  },
+  "premier-bigwhale": {
+    "expectedStartDate": "2026-11-12",
+    "checkedAt": "2026-10-19T19:55:22.932Z",
+    "patch": {
+      "venueName": "Hotel President Wilson",
+      "streetAddress": "47 Quai Wilson",
+      "addressLocality": "Geneva",
+      "postalCode": "1211",
+      "addressCountry": "CH",
+      "location": "Hotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:22.932Z",
+        "urls": [
+          "https://www.thebigwhale.io/summit"
+        ],
+        "venueName": "Hotel President Wilson",
+        "streetAddress": "47 Quai Wilson",
+        "addressLocality": "Geneva",
+        "addressCountry": "CH",
+        "location": "Hotel President Wilson, 47 Quai Wilson, 1211 Geneva 8, Switzerland"
+      }
+    }
+  },
+  "premier-breakpoint-2026": {
+    "expectedStartDate": "2026-11-15T09:00:00+00:00",
+    "checkedAt": "2026-10-19T19:55:27.618Z",
+    "patch": {
+      "venueName": "Olympia Convention Centre",
+      "streetAddress": "Hammersmith Road",
+      "addressLocality": "London",
+      "postalCode": "W14 8UX",
+      "addressCountry": "GB",
+      "location": "Olympia Convention Centre, Hammersmith Road, London W14 8UX, United Kingdom",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:27.618Z",
+        "urls": [
+          "https://solana.com/breakpoint",
+          "https://www.olympia.co.uk/space/the-international-convention-centre"
+        ],
+        "venueName": "Olympia Convention Centre",
+        "streetAddress": "Hammersmith Road",
+        "addressLocality": "London",
+        "addressCountry": "GB",
+        "location": "Olympia Convention Centre, Hammersmith Road, London W14 8UX, United Kingdom"
+      }
+    }
+  },
+  "premier-world-token-congress-2026": {
+    "expectedStartDate": "2026-11-25T09:00:00+01:00",
+    "checkedAt": "2026-10-19T19:55:29.262Z",
+    "patch": {
+      "venueName": "Foment del Treball",
+      "streetAddress": "Via Laietana 32",
+      "addressLocality": "Barcelona",
+      "addressRegion": "Cataluña",
+      "postalCode": "08003",
+      "addressCountry": "ES",
+      "location": "Foment del Treball, Via Laietana 32, 08003 Barcelona, Spain",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:29.262Z",
+        "urls": [
+          "https://worldtokencongress.com/"
+        ],
+        "venueName": "Foment del Treball",
+        "streetAddress": "Via Laietana 32",
+        "addressLocality": "Barcelona",
+        "addressCountry": "ES",
+        "location": "Foment del Treball, Via Laietana 32, 08003 Barcelona, Spain"
+      }
+    }
+  },
+  "premier-signal-week-2027": {
+    "expectedStartDate": "2027-07-06T09:00:00+02:00",
+    "checkedAt": "2026-10-19T19:54:07.512Z",
+    "patch": {
+      "venueName": "Palais des Congrès de Paris",
+      "streetAddress": "2 Place de la Porte Maillot",
+      "addressLocality": "Paris",
+      "postalCode": "75017",
+      "location": "Palais des Congrès de Paris, 2 Place de la Porte Maillot, 75017 Paris",
+      "addressCountry": "France",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:54:07.512Z",
+        "urls": [
+          "https://signalweek.com/sponsor",
+          "https://signalweek.com/ethos",
+          "https://www.viparis.com/en/our-venues/palais-des-congres-de-paris-en/access"
+        ],
+        "venueName": "Palais des Congrès de Paris",
+        "streetAddress": "2 Place de la Porte Maillot",
+        "addressLocality": "Paris",
+        "addressCountry": "France",
+        "location": "Palais des Congrès de Paris, 2 Place de la Porte Maillot, 75017 Paris"
+      }
+    }
+  },
+  "ma-money-20-20-usa": {
+    "expectedStartDate": "2026-10-18T00:00:00.000Z",
+    "checkedAt": "2026-10-19T20:00:39.577Z",
+    "patch": {
+      "venueName": "The Venetian Resort Las Vegas",
+      "streetAddress": "3355 Las Vegas Blvd. South",
+      "addressLocality": "Las Vegas",
+      "addressRegion": "NV",
+      "postalCode": "89109",
+      "addressCountry": "US",
+      "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:00:39.577Z",
+        "urls": [
+          "https://us.money2020.com/attend/plan-your-trip",
+          "https://www.venetianlasvegas.com/resort/contact.html"
+        ],
+        "venueName": "The Venetian Resort Las Vegas",
+        "streetAddress": "3355 Las Vegas Blvd. South",
+        "addressLocality": "Las Vegas",
+        "addressCountry": "US",
+        "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States"
+      }
+    }
+  },
+  "premier-blockfest-africa-2026": {
+    "expectedStartDate": "2026-10-22T08:00:00+01:00",
+    "checkedAt": "2026-10-19T20:00:30.437Z",
+    "patch": {
+      "venueName": "National Art Theatre",
+      "streetAddress": "Ijora Causeway, Iganmu, Surulere",
+      "addressLocality": "Lagos",
+      "addressCountry": "NG",
+      "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:00:30.437Z",
+        "urls": [
+          "https://blockfestafrica.com/travel",
+          "https://nationaltheatre.gov.ng/contacts"
+        ],
+        "venueName": "National Art Theatre",
+        "streetAddress": "Ijora Causeway, Iganmu, Surulere",
+        "addressLocality": "Lagos",
+        "addressCountry": "NG",
+        "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria"
+      }
+    }
+  },
+  "premier-labitconf-2026": {
+    "expectedStartDate": "2026-10-30",
+    "checkedAt": "2026-10-19T20:02:12.690Z",
+    "patch": {
+      "venueName": "Centro Costa Salguero",
+      "streetAddress": "Av. Costanera Rafael Obligado y Jerónimo Salguero",
+      "addressLocality": "Buenos Aires",
+      "addressCountry": "AR",
+      "location": "Centro Costa Salguero, Av. Costanera Rafael Obligado y Jerónimo Salguero, Buenos Aires, Argentina",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:02:12.690Z",
+        "urls": [
+          "https://www.labitconf.com/",
+          "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/centro-costa-salguero"
+        ],
+        "venueName": "Centro Costa Salguero",
+        "streetAddress": "Av. Costanera Rafael Obligado y Jerónimo Salguero",
+        "addressLocality": "Buenos Aires",
+        "addressCountry": "AR",
+        "location": "Centro Costa Salguero, Av. Costanera Rafael Obligado y Jerónimo Salguero, Buenos Aires, Argentina"
+      }
+    }
+  },
+  "premier-hk-fintech-week-2026": {
+    "expectedStartDate": "2026-11-02",
+    "checkedAt": "2026-10-19T20:25:57.997Z",
+    "patch": {
+      "venueAddresses": [
+        {
+          "name": "Hong Kong Convention and Exhibition Centre",
+          "streetAddress": "1 Expo Drive, Wanchai",
+          "addressLocality": "Hong Kong",
+          "addressCountry": "HK",
+          "dateLabel": "2–3 November 2026 (main conference and exhibition)",
+          "sourceUrl": "https://www.fintechweek.hk/faq",
+          "verification": {
+            "checkedAt": "2026-10-19T20:25:57.997Z",
+            "urls": [
+              "https://www.fintechweek.hk/faq",
+              "https://restaurants.hkcec.com/en/CongressPlus",
+              "https://www.hkcec.com/en/useful-materials",
+              "https://www.hkcec.com/sites/default/files/2025-07/hkcec_marketing_brochure_en.pdf",
+              "https://www.marriott.com/en-us/hotels/szxrb-renaissance-shenzhen-bay-hotel/events/",
+              "https://www.marriott.com/en-us/hotels/szxrb-renaissance-shenzhen-bay-hotel/reviews/"
+            ],
+            "venueName": "Hong Kong Convention and Exhibition Centre",
+            "streetAddress": "1 Expo Drive, Wanchai",
+            "addressLocality": "Hong Kong",
+            "addressCountry": "HK",
+            "location": "1 Expo Drive, Wanchai, Hong Kong, HK"
+          }
+        },
+        {
+          "name": "Renaissance Shenzhen Bay Hotel",
+          "streetAddress": "No. 18 Keji South Road, Nanshan District",
+          "addressLocality": "Shenzhen",
+          "addressRegion": "Guangdong",
+          "postalCode": "518057",
+          "addressCountry": "CN",
+          "dateLabel": "4 November 2026 (morning conference)",
+          "sourceUrl": "https://www.fintechweek.hk/faq",
+          "verification": {
+            "checkedAt": "2026-10-19T20:25:57.997Z",
+            "urls": [
+              "https://www.fintechweek.hk/faq",
+              "https://restaurants.hkcec.com/en/CongressPlus",
+              "https://www.hkcec.com/en/useful-materials",
+              "https://www.hkcec.com/sites/default/files/2025-07/hkcec_marketing_brochure_en.pdf",
+              "https://www.marriott.com/en-us/hotels/szxrb-renaissance-shenzhen-bay-hotel/events/",
+              "https://www.marriott.com/en-us/hotels/szxrb-renaissance-shenzhen-bay-hotel/reviews/"
+            ],
+            "venueName": "Renaissance Shenzhen Bay Hotel",
+            "streetAddress": "No. 18 Keji South Road, Nanshan District",
+            "addressLocality": "Shenzhen",
+            "addressCountry": "CN",
+            "location": "No. 18 Keji South Road, Nanshan District, Shenzhen, Guangdong, 518057, CN"
+          }
+        }
+      ],
+      "location": "Hong Kong"
+    }
+  },
+  "premier-blockchain-summit-latam-2026": {
+    "expectedStartDate": "2026-11-04T08:00:00-05:00",
+    "checkedAt": "2026-10-19T20:00:38.946Z",
+    "patch": {
+      "venueName": "Universidad Externado de Colombia (Edificios H e I)",
+      "streetAddress": "Carrera 5 Este #12B-54",
+      "addressLocality": "Bogotá",
+      "addressRegion": "Bogotá D.C.",
+      "addressCountry": "CO",
+      "location": "Universidad Externado de Colombia, Edificios H e I (dirección publicada: Edificio I), Carrera 5 Este #12B-54, Bogotá D.C., Colombia",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:00:38.946Z",
+        "urls": [
+          "https://blockchainsummit.la/colombia2026/",
+          "https://bsl.blckchn.xyz/e/bsl-colombia-2026"
+        ],
+        "venueName": "Universidad Externado de Colombia (Edificios H e I)",
+        "streetAddress": "Carrera 5 Este #12B-54",
+        "addressLocality": "Bogotá",
+        "addressCountry": "CO",
+        "location": "Universidad Externado de Colombia, Edificios H e I (dirección publicada: Edificio I), Carrera 5 Este #12B-54, Bogotá D.C., Colombia"
+      }
+    }
+  },
+  "premier-bitcoin-korea-2026": {
+    "expectedStartDate": "2026-11-07T09:00:00+09:00",
+    "checkedAt": "2026-10-19T20:01:33.330Z",
+    "patch": {
+      "venueAddresses": [
+        {
+          "name": "COEX",
+          "streetAddress": "513 Yeongdong-daero, Gangnam-gu",
+          "addressLocality": "Seoul",
+          "dateLabel": "7 November 2026",
+          "sourceUrl": "https://www.bitcoinkoreaconference.com/en",
+          "verification": {
+            "checkedAt": "2026-10-19T20:01:33.330Z",
+            "urls": [
+              "https://www.bitcoinkoreaconference.com/en"
+            ],
+            "venueName": "COEX",
+            "streetAddress": "513 Yeongdong-daero, Gangnam-gu",
+            "addressLocality": "Seoul",
+            "location": "513 Yeongdong-daero, Gangnam-gu, Seoul"
+          }
+        },
+        {
+          "name": "Korea Federation of Banks",
+          "streetAddress": "19 Myeongdong 11-gil, Jung-gu (2F International Conference Room)",
+          "addressLocality": "Seoul",
+          "dateLabel": "8 November 2026",
+          "sourceUrl": "https://www.bitcoinkoreaconference.com/en",
+          "verification": {
+            "checkedAt": "2026-10-19T20:01:33.330Z",
+            "urls": [
+              "https://www.bitcoinkoreaconference.com/en"
+            ],
+            "venueName": "Korea Federation of Banks",
+            "streetAddress": "19 Myeongdong 11-gil, Jung-gu (2F International Conference Room)",
+            "addressLocality": "Seoul",
+            "location": "19 Myeongdong 11-gil, Jung-gu (2F International Conference Room), Seoul"
+          }
+        },
+        {
+          "name": "Community House Masil",
+          "streetAddress": "14 Myeongdong 11-gil, Jung-gu",
+          "addressLocality": "Seoul",
+          "dateLabel": "8 November 2026",
+          "sourceUrl": "https://www.bitcoinkoreaconference.com/en",
+          "verification": {
+            "checkedAt": "2026-10-19T20:01:33.330Z",
+            "urls": [
+              "https://www.bitcoinkoreaconference.com/en"
+            ],
+            "venueName": "Community House Masil",
+            "streetAddress": "14 Myeongdong 11-gil, Jung-gu",
+            "addressLocality": "Seoul",
+            "location": "14 Myeongdong 11-gil, Jung-gu, Seoul"
+          }
+        }
+      ],
+      "location": "Seoul, South Korea"
+    }
+  },
+  "premier-bitcoinhistorico": {
+    "expectedStartDate": "2026-11-11T09:00:00.000Z",
+    "checkedAt": "2026-10-19T20:22:40.240Z",
+    "patch": {
+      "venueAddresses": [
+        {
+          "name": "Palacio Nacional",
+          "streetAddress": "4a Calle Poniente, entre 4a y 6a Av. Sur, Centro Histórico",
+          "addressLocality": "San Salvador",
+          "addressCountry": "SV",
+          "sourceUrl": "https://bitcoinhistorico.com/",
+          "verification": {
+            "checkedAt": "2026-10-19T20:22:40.240Z",
+            "urls": [
+              "https://bitcoinhistorico.com/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/palacio-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/teatro-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/binaes-biblioteca-nacional-de-el-salvador/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/plaza-gerardo-barrios/",
+              "https://centrohistorico.gob.sv/directorio/?cat_slug=plazas-y-parques"
+            ],
+            "venueName": "Palacio Nacional",
+            "streetAddress": "4a Calle Poniente, entre 4a y 6a Av. Sur, Centro Histórico",
+            "addressLocality": "San Salvador",
+            "addressCountry": "SV",
+            "location": "4a Calle Poniente, entre 4a y 6a Av. Sur, Centro Histórico, San Salvador, SV"
+          }
+        },
+        {
+          "name": "Teatro Nacional",
+          "streetAddress": "Calle Delgado y 2a Avenida Norte, Centro Histórico",
+          "addressLocality": "San Salvador",
+          "addressCountry": "SV",
+          "sourceUrl": "https://bitcoinhistorico.com/",
+          "verification": {
+            "checkedAt": "2026-10-19T20:22:40.240Z",
+            "urls": [
+              "https://bitcoinhistorico.com/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/palacio-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/teatro-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/binaes-biblioteca-nacional-de-el-salvador/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/plaza-gerardo-barrios/",
+              "https://centrohistorico.gob.sv/directorio/?cat_slug=plazas-y-parques"
+            ],
+            "venueName": "Teatro Nacional",
+            "streetAddress": "Calle Delgado y 2a Avenida Norte, Centro Histórico",
+            "addressLocality": "San Salvador",
+            "addressCountry": "SV",
+            "location": "Calle Delgado y 2a Avenida Norte, Centro Histórico, San Salvador, SV"
+          }
+        },
+        {
+          "name": "Biblioteca Nacional de El Salvador (BINAES)",
+          "streetAddress": "4ª Calle Oriente #124, frente a la Catedral Metropolitana",
+          "addressLocality": "San Salvador",
+          "addressCountry": "SV",
+          "sourceUrl": "https://bitcoinhistorico.com/",
+          "verification": {
+            "checkedAt": "2026-10-19T20:22:40.240Z",
+            "urls": [
+              "https://bitcoinhistorico.com/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/palacio-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/teatro-nacional/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/binaes-biblioteca-nacional-de-el-salvador/",
+              "https://centrohistorico.gob.sv/destinos-turisticos/plaza-gerardo-barrios/",
+              "https://centrohistorico.gob.sv/directorio/?cat_slug=plazas-y-parques"
+            ],
+            "venueName": "Biblioteca Nacional de El Salvador (BINAES)",
+            "streetAddress": "4ª Calle Oriente #124, frente a la Catedral Metropolitana",
+            "addressLocality": "San Salvador",
+            "addressCountry": "SV",
+            "location": "4ª Calle Oriente #124, frente a la Catedral Metropolitana, San Salvador, SV"
+          }
+        },
+        {
+          "name": "Plaza Gerardo Barrios",
+          "addressLocality": "San Salvador",
+          "addressCountry": "SV",
+          "sourceUrl": "https://bitcoinhistorico.com/"
+        }
+      ],
+      "location": "Centro Histórico, San Salvador, El Salvador",
+      "city": "San Salvador",
+      "country": "El Salvador"
+    }
+  },
+  "premier-africastablecoin": {
+    "expectedStartDate": "2026-11-12T09:00:00.000Z",
+    "checkedAt": "2026-10-19T20:02:15.187Z",
+    "patch": {
+      "venueName": "Baxter Theatre Centre",
+      "streetAddress": "Main Road, Rondebosch",
+      "addressLocality": "Cape Town",
+      "addressCountry": "ZA",
+      "location": "Baxter Theatre Centre, Main Road, Rondebosch, Cape Town, South Africa",
+      "city": "Cape Town",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:02:15.187Z",
+        "urls": [
+          "https://africastablecoinsummit.io/",
+          "https://baxter.uct.ac.za/contact-us-59"
+        ],
+        "venueName": "Baxter Theatre Centre",
+        "streetAddress": "Main Road, Rondebosch",
+        "addressLocality": "Cape Town",
+        "addressCountry": "ZA",
+        "location": "Baxter Theatre Centre, Main Road, Rondebosch, Cape Town, South Africa"
+      }
+    }
+  },
+  "premier-nabsummit": {
+    "expectedStartDate": "2026-11-18T09:00:00.000Z",
+    "checkedAt": "2026-10-19T20:06:07.139Z",
+    "patch": {
+      "venueName": "National Medal of Honor Museum",
+      "streetAddress": "1861 AT&T Way",
+      "addressLocality": "Arlington",
+      "addressRegion": "TX",
+      "postalCode": "76011",
+      "addressCountry": "US",
+      "location": "National Medal of Honor Museum, 1861 AT&T Way, Arlington, TX 76011, United States",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:06:07.139Z",
+        "urls": [
+          "https://www.northamericanblockchainsummit.com/sponsor-nabs",
+          "https://online.flippingbook.com/view/499693237/",
+          "https://www.northamericanblockchainsummit.com/airport",
+          "https://mohmuseum.org/plan-your-visit/hours-directions-and-parking"
+        ],
+        "venueName": "National Medal of Honor Museum",
+        "streetAddress": "1861 AT&T Way",
+        "addressLocality": "Arlington",
+        "addressCountry": "US",
+        "location": "National Medal of Honor Museum, 1861 AT&T Way, Arlington, TX 76011, United States"
+      }
+    }
+  },
+  "premier-cryptofest": {
+    "expectedStartDate": "2026-11-20T09:00:00.000Z",
+    "checkedAt": "2026-10-19T20:02:14.965Z",
+    "patch": {
+      "venueName": "Workshop17 Watershed",
+      "streetAddress": "17 Dock Road, V&A Waterfront",
+      "addressLocality": "Cape Town",
+      "postalCode": "8002",
+      "addressCountry": "ZA",
+      "location": "Workshop17 Watershed, 17 Dock Road, V&A Waterfront, Cape Town, 8002, South Africa",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:02:14.965Z",
+        "urls": [
+          "https://cryptofest.co.za/venue/",
+          "https://www.workshop17.co.za/va-waterfront"
+        ],
+        "venueName": "Workshop17 Watershed",
+        "streetAddress": "17 Dock Road, V&A Waterfront",
+        "addressLocality": "Cape Town",
+        "addressCountry": "ZA",
+        "location": "Workshop17 Watershed, 17 Dock Road, V&A Waterfront, Cape Town, 8002, South Africa"
+      }
+    }
+  },
+  "premier-planx": {
+    "expectedStartDate": "2026-11-25",
+    "checkedAt": "2026-10-19T20:06:13.002Z",
+    "patch": {
+      "venueName": "Grand Hyatt Dubai Conference & Exhibition Centre",
+      "streetAddress": "Riyadh Street, Sheikh Rashid Road",
+      "addressLocality": "Dubai",
+      "addressCountry": "AE",
+      "location": "Grand Hyatt Dubai Conference & Exhibition Centre, Riyadh Street, Sheikh Rashid Road, Dubai, United Arab Emirates",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:06:13.002Z",
+        "urls": [
+          "https://planxconf.com/",
+          "https://www.hyatt.com/grand-hyatt/en-US/dxbgh-grand-hyatt-dubai/parking-and-transportation"
+        ],
+        "venueName": "Grand Hyatt Dubai Conference & Exhibition Centre",
+        "streetAddress": "Riyadh Street, Sheikh Rashid Road",
+        "addressLocality": "Dubai",
+        "addressCountry": "AE",
+        "location": "Grand Hyatt Dubai Conference & Exhibition Centre, Riyadh Street, Sheikh Rashid Road, Dubai, United Arab Emirates"
+      }
+    }
+  },
+  "ma-blockcon-punta-cana-2026": {
+    "expectedStartDate": "2026-11-25T00:00:00.000Z",
+    "checkedAt": "2026-10-19T20:02:47Z",
+    "patch": {
+      "venueName": "Barceló Bávaro Beach",
+      "streetAddress": "Playa Bavaro km 1",
+      "addressLocality": "Punta Cana Higuey",
+      "postalCode": "03177",
+      "addressCountry": "DO",
+      "location": "Barceló Bávaro Beach, Playa Bavaro km 1, 03177 Punta Cana Higuey, Dominican Republic",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:02:47Z",
+        "urls": [
+          "https://www.blockcon.co/",
+          "https://www.barcelo.com/en-ie/barcelo-bavaro-beach/"
+        ],
+        "venueName": "Barceló Bávaro Beach",
+        "streetAddress": "Playa Bavaro km 1",
+        "addressLocality": "Punta Cana Higuey",
+        "addressCountry": "DO",
+        "location": "Barceló Bávaro Beach, Playa Bavaro km 1, 03177 Punta Cana Higuey, Dominican Republic"
+      }
+    }
+  },
+  "premier-auscryptocon-2026": {
+    "expectedStartDate": "2026-11-28T09:00:00+11:00",
+    "checkedAt": "2026-10-19T19:55:24.013Z",
+    "patch": {
+      "venueName": "ICC Sydney",
+      "streetAddress": "14 Darling Drive",
+      "addressLocality": "Sydney",
+      "addressRegion": "NSW",
+      "postalCode": "2000",
+      "addressCountry": "AU",
+      "location": "ICC Sydney, 14 Darling Drive, Sydney NSW 2000, Australia",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:24.013Z",
+        "urls": [
+          "https://auscryptocon.com/",
+          "https://iccsydney.com.au/visitors/getting-here/"
+        ],
+        "venueName": "ICC Sydney",
+        "streetAddress": "14 Darling Drive",
+        "addressLocality": "Sydney",
+        "addressCountry": "AU",
+        "location": "ICC Sydney, 14 Darling Drive, Sydney NSW 2000, Australia"
+      }
+    }
+  },
+  "premier-binancebw-2026": {
+    "expectedStartDate": "2026-11-28T09:00:00.000Z",
+    "checkedAt": "2026-10-19T19:55:25.489Z",
+    "patch": {
+      "venueName": "Queen Sirikit National Convention Center",
+      "streetAddress": "60 Ratchadaphisek Road, Khlong Toei Sub-district, Khlong Toei District",
+      "addressLocality": "Bangkok",
+      "postalCode": "10110",
+      "addressCountry": "TH",
+      "location": "Queen Sirikit National Convention Center, 60 Ratchadaphisek Road, Khlong Toei, Bangkok 10110, Thailand",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:25.489Z",
+        "urls": [
+          "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
+          "https://www.qsncc.com/en/contact-us/"
+        ],
+        "venueName": "Queen Sirikit National Convention Center",
+        "streetAddress": "60 Ratchadaphisek Road, Khlong Toei Sub-district, Khlong Toei District",
+        "addressLocality": "Bangkok",
+        "addressCountry": "TH",
+        "location": "Queen Sirikit National Convention Center, 60 Ratchadaphisek Road, Khlong Toei, Bangkok 10110, Thailand"
+      }
+    }
+  },
+  "premier-blockchain-life-2026": {
+    "expectedStartDate": "2026-12-01T09:00:00+04:00",
+    "checkedAt": "2026-10-19T19:55:30.630Z",
+    "patch": {
+      "venueName": "Festival Arena",
+      "streetAddress": "Al Badia Blvd, Dubai Festival City",
+      "addressLocality": "Dubai",
+      "addressCountry": "AE",
+      "location": "Festival Arena, Al Badia Blvd, Dubai Festival City, Dubai, United Arab Emirates",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:30.630Z",
+        "urls": [
+          "https://blockchain-life.com/",
+          "https://blockchain-life.com/location/"
+        ],
+        "venueName": "Festival Arena",
+        "streetAddress": "Al Badia Blvd, Dubai Festival City",
+        "addressLocality": "Dubai",
+        "addressCountry": "AE",
+        "location": "Festival Arena, Al Badia Blvd, Dubai Festival City, Dubai, United Arab Emirates"
+      }
+    }
+  },
+  "premier-africabitcoin": {
+    "expectedStartDate": "2026-12-02T09:00:00.000Z",
+    "checkedAt": "2026-10-19T19:55:26.260Z",
+    "patch": {
+      "venueName": "Amaryllis Hotel Blantyre",
+      "streetAddress": "2 Laws Road",
+      "addressLocality": "Blantyre",
+      "addressCountry": "MW",
+      "location": "Amaryllis Hotel Blantyre, 2 Laws Road, Blantyre, Malawi",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:26.260Z",
+        "urls": [
+          "https://afrobitcoin.org/",
+          "https://amaryllishotels.com/contact.html"
+        ],
+        "venueName": "Amaryllis Hotel Blantyre",
+        "streetAddress": "2 Laws Road",
+        "addressLocality": "Blantyre",
+        "addressCountry": "MW",
+        "location": "Amaryllis Hotel Blantyre, 2 Laws Road, Blantyre, Malawi"
+      }
+    }
+  },
+  "w3v-proof-of-talk-abu-dhabi": {
+    "expectedStartDate": "2026-12-03",
+    "checkedAt": "2026-10-19T19:55:26.148Z",
+    "patch": {
+      "venueName": "Louvre Abu Dhabi",
+      "streetAddress": "Saadiyat Cultural District, Saadiyat Island",
+      "addressLocality": "Abu Dhabi",
+      "addressCountry": "AE",
+      "location": "Louvre Abu Dhabi, Saadiyat Cultural District, Saadiyat Island, Abu Dhabi, United Arab Emirates",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:26.148Z",
+        "urls": [
+          "https://proofoftalk.io/abu-dhabi/",
+          "https://www.louvreabudhabi.ae/en/about-us/contact-us",
+          "https://www.louvreabudhabi.ae/en/visit-us"
+        ],
+        "venueName": "Louvre Abu Dhabi",
+        "streetAddress": "Saadiyat Cultural District, Saadiyat Island",
+        "addressLocality": "Abu Dhabi",
+        "addressCountry": "AE",
+        "location": "Louvre Abu Dhabi, Saadiyat Cultural District, Saadiyat Island, Abu Dhabi, United Arab Emirates"
+      }
+    }
+  },
+  "premier-consensus-hk-2027": {
+    "expectedStartDate": "2027-02-01T09:00:00.000Z",
+    "checkedAt": "2026-10-19T19:55:28.918Z",
+    "patch": {
+      "venueName": "Hong Kong Convention and Exhibition Centre",
+      "streetAddress": "1 Expo Dr",
+      "addressLocality": "Wan Chai",
+      "addressCountry": "HK",
+      "location": "Hong Kong Convention and Exhibition Centre, 1 Expo Dr, Wan Chai, Hong Kong",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:28.918Z",
+        "urls": [
+          "https://consensus-hongkong.coindesk.com/",
+          "https://consensus-hongkong.coindesk.com/faq/"
+        ],
+        "venueName": "Hong Kong Convention and Exhibition Centre",
+        "streetAddress": "1 Expo Dr",
+        "addressLocality": "Wan Chai",
+        "addressCountry": "HK",
+        "location": "Hong Kong Convention and Exhibition Centre, 1 Expo Dr, Wan Chai, Hong Kong"
+      }
+    }
+  },
+  "premier-token2049-dubai-2027": {
+    "expectedStartDate": "2027-04-21",
+    "checkedAt": "2026-10-19T19:55:27.376Z",
+    "patch": {
+      "venueName": "Madinat Jumeirah",
+      "streetAddress": "King Salman bin Abdulaziz Al Saud Street - Umm Suqeim St",
+      "addressLocality": "Dubai",
+      "addressCountry": "AE",
+      "location": "Madinat Jumeirah, King Salman bin Abdulaziz Al Saud Street - Umm Suqeim St, Dubai, United Arab Emirates",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:55:27.376Z",
+        "urls": [
+          "https://token2049.com/dubai",
+          "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah"
+        ],
+        "venueName": "Madinat Jumeirah",
+        "streetAddress": "King Salman bin Abdulaziz Al Saud Street - Umm Suqeim St",
+        "addressLocality": "Dubai",
+        "addressCountry": "AE",
+        "location": "Madinat Jumeirah, King Salman bin Abdulaziz Al Saud Street - Umm Suqeim St, Dubai, United Arab Emirates"
+      }
+    }
+  },
+  "premier-consensus-miami-2027": {
+    "expectedStartDate": "2027-05-04T09:00:00-04:00",
+    "checkedAt": "2026-10-19T19:58:50.968Z",
+    "patch": {
+      "venueName": "Miami Beach Convention Center",
+      "streetAddress": "1901 Convention Center Drive",
+      "addressLocality": "Miami Beach",
+      "addressRegion": "FL",
+      "postalCode": "33139",
+      "addressCountry": "US",
+      "location": "Miami Beach Convention Center, 1901 Convention Center Drive, Miami Beach, FL 33139, United States",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T19:58:50.968Z",
+        "urls": [
+          "https://consensus.coindesk.com/",
+          "https://www.miamibeachconvention.com/contact",
+          "https://consensus.coindesk.com/faq/"
+        ],
+        "venueName": "Miami Beach Convention Center",
+        "streetAddress": "1901 Convention Center Drive",
+        "addressLocality": "Miami Beach",
+        "addressCountry": "US",
+        "location": "Miami Beach Convention Center, 1901 Convention Center Drive, Miami Beach, FL 33139, United States"
+      }
+    }
+  },
+  "luma-batch-hPFyfHyof2hYVIp": {
+    "expectedStartDate": "2026-10-22T16:00:00.000Z",
+    "checkedAt": "2026-10-19T20:14:18.189Z",
+    "expectedSourceEventId": "evt-hPFyfHyof2hYVIp",
+    "patch": {
+      "venueName": "Ojin AixHaus",
+      "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
+      "addressLocality": "Berlin",
+      "addressRegion": "Berlin",
+      "addressCountry": "DE",
+      "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:14:18.189Z",
+        "urls": [
+          "https://luma.com/kv670yys"
+        ],
+        "venueName": "Ojin AixHaus",
+        "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
+        "addressLocality": "Berlin",
+        "addressCountry": "DE",
+        "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany"
+      }
+    }
+  },
+  "luma-batch-evtPICyDbNudDA4Z": {
+    "expectedStartDate": "2026-10-24T06:00:00.000Z",
+    "checkedAt": "2026-10-19T20:14:20.822Z",
+    "expectedSourceEventId": "evt-PICyDbNudDA4Zpp",
+    "patch": {
+      "venueName": "The Coffee Mine",
+      "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
+      "addressLocality": "Kota Jakarta Pusat",
+      "addressRegion": "Daerah Khusus Ibukota Jakarta",
+      "addressCountry": "ID",
+      "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:14:20.822Z",
+        "urls": [
+          "https://luma.com/fan9g1ft"
+        ],
+        "venueName": "The Coffee Mine",
+        "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
+        "addressLocality": "Kota Jakarta Pusat",
+        "addressCountry": "ID",
+        "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
+      }
+    }
+  },
+  "luma-batch-evt9GgBM7ScK61zT": {
+    "expectedStartDate": "2026-10-28T23:00:00.000Z",
+    "checkedAt": "2026-10-19T20:14:27.080Z",
+    "expectedSourceEventId": "evt-9GgBM7ScK61zTbb",
+    "patch": {
+      "venueName": "House of Communication",
+      "streetAddress": "Friedenstraße 24, München",
+      "addressLocality": "München",
+      "addressRegion": "Bayern",
+      "addressCountry": "DE",
+      "location": "House of Communication, Friedenstraße 24, 81671 München, Germany",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:14:27.080Z",
+        "urls": [
+          "https://luma.com/tbc26"
+        ],
+        "venueName": "House of Communication",
+        "streetAddress": "Friedenstraße 24, München",
+        "addressLocality": "München",
+        "addressCountry": "DE",
+        "location": "House of Communication, Friedenstraße 24, 81671 München, Germany"
+      }
+    }
+  },
+  "luma-batch-evt2wOUBYvOivoW1": {
+    "expectedStartDate": "2026-11-04T11:00:00.000Z",
+    "checkedAt": "2026-10-19T20:14:51.026Z",
+    "expectedSourceEventId": "evt-2wOUBYvOivoW1Cn",
+    "patch": {
+      "venueName": "Pakhuis de Zwijger",
+      "streetAddress": "Piet Heinkade 179, Amsterdam",
+      "addressLocality": "Amsterdam",
+      "addressRegion": "Noord-Holland",
+      "addressCountry": "NL",
+      "location": "Pakhuis de Zwijger, Piet Heinkade 179, 1019 HC Amsterdam, Netherlands",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:14:51.026Z",
+        "urls": [
+          "https://luma.com/bfc-ams-26"
+        ],
+        "venueName": "Pakhuis de Zwijger",
+        "streetAddress": "Piet Heinkade 179, Amsterdam",
+        "addressLocality": "Amsterdam",
+        "addressCountry": "NL",
+        "location": "Pakhuis de Zwijger, Piet Heinkade 179, 1019 HC Amsterdam, Netherlands"
+      }
+    }
+  },
+  "w3v-blockzero-26-11-15": {
+    "expectedStartDate": "2026-11-15T08:30:00.000Z",
+    "checkedAt": "2026-10-19T20:15:09.248Z",
+    "expectedSourceEventId": "evt-pbPYGrgkazAy7Bw",
+    "patch": {
+      "venueName": "International Convention Centre at Olympia (ICC)",
+      "streetAddress": "Hammersmith Rd, London",
+      "addressLocality": "London",
+      "addressRegion": "England",
+      "addressCountry": "GB",
+      "location": "International Convention Centre at Olympia (ICC), Hammersmith Rd, London W14 8UX, UK",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:15:09.248Z",
+        "urls": [
+          "https://luma.com/dmxdc394"
+        ],
+        "venueName": "International Convention Centre at Olympia (ICC)",
+        "streetAddress": "Hammersmith Rd, London",
+        "addressLocality": "London",
+        "addressCountry": "GB",
+        "location": "International Convention Centre at Olympia (ICC), Hammersmith Rd, London W14 8UX, UK"
+      }
+    }
+  },
+  "luma-batch-evt8JjOeNcaN4TA5": {
+    "expectedStartDate": "2026-11-16T06:30:00.000Z",
+    "checkedAt": "2026-10-19T20:15:11.402Z",
+    "expectedSourceEventId": "evt-8JjOeNcaN4TA5hq",
+    "patch": {
+      "venueName": "The Sentry C",
+      "streetAddress": "15 Lê Thánh Tôn, Sài Gòn",
+      "addressLocality": "Thành phố Hồ Chí Minh",
+      "addressRegion": "Hồ Chí Minh",
+      "addressCountry": "VN",
+      "location": "The Sentry C, 15 Lê Thánh Tôn, Sài Gòn, Hồ Chí Minh 70000, Vietnam",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:15:11.402Z",
+        "urls": [
+          "https://luma.com/xumr6pca"
+        ],
+        "venueName": "The Sentry C",
+        "streetAddress": "15 Lê Thánh Tôn, Sài Gòn",
+        "addressLocality": "Thành phố Hồ Chí Minh",
+        "addressCountry": "VN",
+        "location": "The Sentry C, 15 Lê Thánh Tôn, Sài Gòn, Hồ Chí Minh 70000, Vietnam"
+      }
+    }
+  },
+  "luma-evt-mPCGxeHyKlTeEgN": {
+    "expectedStartDate": "2026-11-20T15:00:00.000Z",
+    "checkedAt": "2026-10-19T20:15:15.456Z",
+    "expectedSourceEventId": "evt-mPCGxeHyKlTeEgN",
+    "patch": {
+      "venueName": "The University of Texas at Austin",
+      "streetAddress": "2515 Speedway, Austin",
+      "addressLocality": "Austin",
+      "addressRegion": "Texas",
+      "addressCountry": "US",
+      "location": "The University of Texas at Austin, 2515 Speedway, Austin, TX 78712, USA",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:15:15.456Z",
+        "urls": [
+          "https://luma.com/n4ad0k9m"
+        ],
+        "venueName": "The University of Texas at Austin",
+        "streetAddress": "2515 Speedway, Austin",
+        "addressLocality": "Austin",
+        "addressCountry": "US",
+        "location": "The University of Texas at Austin, 2515 Speedway, Austin, TX 78712, USA"
+      }
+    }
+  },
+  "luma-batch-evtt671wDnUAzkDr": {
+    "expectedStartDate": "2026-12-22T13:00:00.000Z",
+    "checkedAt": "2026-10-19T20:15:18.529Z",
+    "expectedSourceEventId": "evt-t671wDnUAzkDrvu",
+    "patch": {
+      "venueName": "Café One Ikeja",
+      "streetAddress": "Ikeja Town Square, Obafemi Awolowo Wy, Ikeja",
+      "addressLocality": "Ikeja",
+      "addressRegion": "Lagos",
+      "addressCountry": "NG",
+      "location": "Café One Ikeja, Ikeja Town Square, Obafemi Awolowo Wy, Ikeja, 101233, Lagos, Nigeria",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:15:18.529Z",
+        "urls": [
+          "https://luma.com/lpe4mdxt"
+        ],
+        "venueName": "Café One Ikeja",
+        "streetAddress": "Ikeja Town Square, Obafemi Awolowo Wy, Ikeja",
+        "addressLocality": "Ikeja",
+        "addressCountry": "NG",
+        "location": "Café One Ikeja, Ikeja Town Square, Obafemi Awolowo Wy, Ikeja, 101233, Lagos, Nigeria"
+      }
+    }
+  },
+  "luma-host-evt-evt-r6tADv4L8KdncKD": {
+    "expectedStartDate": "2027-06-14T12:30:00.000Z",
+    "checkedAt": "2026-10-19T20:15:22.470Z",
+    "expectedSourceEventId": "evt-r6tADv4L8KdncKD",
+    "patch": {
+      "venueName": "Javits Center",
+      "streetAddress": "429 11th Ave Entrance / Exit, New York",
+      "addressLocality": "New York",
+      "addressRegion": "New York",
+      "addressCountry": "US",
+      "location": "Javits Center, 429 11th Ave, New York, NY 10001, USA",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T20:15:22.470Z",
+        "urls": [
+          "https://luma.com/ethconf2027"
+        ],
+        "venueName": "Javits Center",
+        "streetAddress": "429 11th Ave Entrance / Exit, New York",
+        "addressLocality": "New York",
+        "addressCountry": "US",
+        "location": "Javits Center, 429 11th Ave, New York, NY 10001, USA"
+      }
+    }
+  },
+  "premier-ethmumbai-2026": {
+    "expectedStartDate": "2026-11-05",
+    "checkedAt": "2026-10-19T21:00:46.593Z",
+    "patch": {
+      "venueName": "Jio World Convention Centre",
+      "streetAddress": "G Block, Bandra Kurla Complex, Bandra East",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400098",
+      "addressCountry": "IN",
+      "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T21:00:46.593Z",
+        "urls": [
+          "https://ethglobal.com/events",
+          "https://ethglobal.com/events/mumbai/info/start",
+          "https://ethglobal.com/events/mumbai/info/details",
+          "https://www.jioworldcentre.com/contact-us/",
+          "https://ethglobal.com/events/mumbai"
+        ],
+        "venueName": "Jio World Convention Centre",
+        "streetAddress": "G Block, Bandra Kurla Complex, Bandra East",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India"
+      }
+    }
+  },
+  "ibw-official-pragma-mumbai-11-05": {
+    "expectedStartDate": "2026-11-06",
+    "checkedAt": "2026-10-19T21:00:47.811Z",
+    "patch": {
+      "venueName": "Jio World Convention Centre",
+      "streetAddress": "G Block, Bandra Kurla Complex, Bandra East",
+      "addressLocality": "Mumbai",
+      "addressRegion": "Maharashtra",
+      "postalCode": "400098",
+      "addressCountry": "IN",
+      "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T21:00:47.811Z",
+        "urls": [
+          "https://ethglobal.com/pragma",
+          "https://ethglobal.com/events/pragma-mumbai/info/start",
+          "https://ethglobal.com/events/pragma-mumbai/info/details",
+          "https://www.jioworldcentre.com/contact-us/",
+          "https://ethglobal.com/events/pragma-mumbai"
+        ],
+        "venueName": "Jio World Convention Centre",
+        "streetAddress": "G Block, Bandra Kurla Complex, Bandra East",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN",
+        "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India"
+      }
+    }
+  },
+  "ma-aibc-world": {
+    "expectedStartDate": "2026-11-02T00:00:00.000Z",
+    "checkedAt": "2026-10-19T21:00:19.940Z",
+    "patch": {
+      "venueName": "Fiera Roma",
+      "streetAddress": "Via Portuense 1645-1647",
+      "addressLocality": "Roma",
+      "postalCode": "00148",
+      "addressCountry": "IT",
+      "location": "Fiera Roma, Via Portuense 1645-1647, 00148 Roma, Italy",
+      "venueAddressSource": {
+        "checkedAt": "2026-10-19T21:00:19.940Z",
+        "urls": [
+          "https://sigma.world/summits/world/",
+          "https://sigma.world/summits/world/agenda/",
+          "https://sigma.world/news/giancarlo-fisichella-sigma-world-rome-2026/",
+          "https://www.fieraroma.it/en/contacts/how-to-get-to-fiera-roma/",
+          "https://tickets.sigma.world/sigma-world-2026/",
+          "https://aibc.world/europe/"
+        ],
+        "venueName": "Fiera Roma",
+        "streetAddress": "Via Portuense 1645-1647",
+        "addressLocality": "Roma",
+        "addressCountry": "IT",
+        "location": "Fiera Roma, Via Portuense 1645-1647, 00148 Roma, Italy"
+      }
+    }
+  }
+}

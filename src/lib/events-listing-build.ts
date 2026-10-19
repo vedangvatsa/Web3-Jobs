@@ -15,6 +15,7 @@ import { canImportEvent, tombstoneSlugs } from '../../scripts/lib/event-retentio
 import eventTombstones from '../../content/event-tombstones.json';
 import { assignStableEventSlugs, type EventSlugHistory } from './event-slug-assignment';
 import identityMerges from '../../content/events/identity-merges.json';
+import { hasVerifiedVenueAddress } from './event-address';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -361,7 +362,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
         : e.month || 'Upcoming';
 
       const normalizedCountry = normalizeCountry(cleanCountry);
-      const formattedLocation = formatEventLocation({
+      const formattedLocation = hasVerifiedVenueAddress(e) ? e.location : formatEventLocation({
         location: cleanLocation,
         city: cleanCity,
         country: normalizedCountry,

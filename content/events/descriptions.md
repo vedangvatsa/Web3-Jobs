@@ -3668,7 +3668,7 @@ For arrival, the organizer directs rideshare users to DAER Nightclub at the 1 Lu
 
 - Record: `premier-nabsummit`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-18T09:00:00.000Z
+- Starts: 2026-11-18
 - Description: Source-backed
 - Original page: <https://www.northamericanblockchainsummit.com>
 
@@ -74911,7 +74911,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `ma-blockcon-punta-cana-2026`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-25T00:00:00.000Z
+- Starts: 2026-11-25
 - Description: Source-backed
 - Original page: <https://www.blockcon.co>
 

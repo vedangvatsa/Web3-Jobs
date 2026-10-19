@@ -16,6 +16,7 @@ export const EVENT_MAP_COUNTRY_CODES: Record<string, string> = {
   bulgaria: 'BG',
   canada: 'CA',
   'dominican republic': 'DO',
+  'el salvador': 'SV',
   finland: 'FI',
   france: 'FR',
   germany: 'DE',
@@ -86,6 +87,8 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'sofia|BG': [42.7, 23.32],
   'toronto|CA': [43.65, -79.38],
   'punta cana|DO': [18.56, -68.37],
+  // City centroid, not an event venue pin: Wikidata Q3110.
+  'san salvador|SV': [13.697597, -89.191156],
   'helsinki|FI': [60.17, 24.94],
   'biarritz|FR': [43.48, -1.56],
   'cannes|FR': [43.55, 7.02],

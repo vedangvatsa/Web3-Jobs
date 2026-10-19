@@ -1,10 +1,11 @@
 {
-  "total": 205,
-  "eligible": 25,
+  "total": 203,
+  "eligible": 54,
   "exclusions": {
-    "missing-detailed-address": 156,
-    "restricted-registration": 113,
-    "hidden-address": 66,
+    "missing-detailed-address": 107,
+    "restricted-registration": 111,
+    "hidden-address": 65,
+    "multiple-venues": 4,
     "online-only": 2,
     "missing-location": 2
   },
@@ -28,8 +29,7 @@
       "url": "https://hashtagweb3.com/edge-city-india-village",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -55,10 +55,8 @@
       "id": "ma-money-20-20-usa",
       "name": "Money20/20 USA",
       "url": "https://hashtagweb3.com/money2020-usa",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -70,34 +68,6 @@
       "url": "https://hashtagweb3.com/islanddao-v5",
       "eligible": false,
       "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evtFpoA3O65CsEdJ",
-      "name": "Blockstories Horizon 2026: Frankfurt Summit 🇩🇪",
-      "url": "https://hashtagweb3.com/horizonfrankfurtsummit",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-batch-evttdoYjLUc0hLUU",
-      "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-      "url": "https://hashtagweb3.com/harmonia-frankfurt",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
         "hidden-address",
         "missing-detailed-address"
       ],
@@ -276,10 +246,8 @@
       "id": "premier-blockfest-africa-2026",
       "name": "Blockf3st Africa 2026",
       "url": "https://hashtagweb3.com/blockfest-africa",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -315,14 +283,9 @@
       "id": "luma-batch-hPFyfHyof2hYVIp",
       "name": "SOIRÉE XD #20",
       "url": "https://hashtagweb3.com/soiree-xd-20",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-batch-evtdYbK287YZ3bbj",
@@ -346,7 +309,7 @@
       "url": "https://hashtagweb3.com/plan-b-forum-lugano",
       "eligible": false,
       "issues": [
-        "missing-detailed-address"
+        "multiple-venues"
       ],
       "missingRecommended": [
         "offers",
@@ -359,8 +322,7 @@
       "url": "https://hashtagweb3.com/field-station-rajasthan",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -442,12 +404,9 @@
       "id": "curated-tokeniq-mumbai-2026",
       "name": "TokenIQ Mumbai 2026",
       "url": "https://hashtagweb3.com/tokeniq-mumbai",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
         "organizer"
       ]
     },
@@ -455,14 +414,9 @@
       "id": "luma-batch-evtPICyDbNudDA4Z",
       "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
       "url": "https://hashtagweb3.com/bitcoin-indonesia-jakarta-meetup",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "india-luma-76s6hwzv",
@@ -613,10 +567,8 @@
       "id": "premier-meridian",
       "name": "Meridian 2026",
       "url": "https://hashtagweb3.com/meridian",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -673,8 +625,7 @@
       "url": "https://hashtagweb3.com/tbc26",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -736,10 +687,8 @@
       "id": "premier-labitconf-2026",
       "name": "LABITCONF 2026",
       "url": "https://hashtagweb3.com/labitconf",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -749,10 +698,8 @@
       "id": "premier-bitmela-2026",
       "name": "Bitmela 2026",
       "url": "https://hashtagweb3.com/bitmela",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -917,8 +864,7 @@
       "url": "https://hashtagweb3.com/ibw-institutional-forum",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -931,8 +877,7 @@
       "url": "https://hashtagweb3.com/ibw-future-asset-forum",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1066,7 +1011,7 @@
       "url": "https://hashtagweb3.com/hong-kong-fintech-week-2026",
       "eligible": false,
       "issues": [
-        "missing-detailed-address"
+        "multiple-venues"
       ],
       "missingRecommended": [
         "offers",
@@ -1077,10 +1022,8 @@
       "id": "ma-aibc-world",
       "name": "AIBC World",
       "url": "https://hashtagweb3.com/aibc-world",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -1371,10 +1314,8 @@
       "id": "premier-ethindia-2026",
       "name": "ETHIndia 2026",
       "url": "https://hashtagweb3.com/ethindia",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -1469,8 +1410,7 @@
       "url": "https://hashtagweb3.com/bfc-ams-26",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1496,10 +1436,8 @@
       "id": "premier-blockchain-summit-latam-2026",
       "name": "Blockchain Summit Latam Colombia 2026",
       "url": "https://hashtagweb3.com/blockchain-summit-latam",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -1611,8 +1549,7 @@
       "url": "https://hashtagweb3.com/ethglobal-mumbai",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1623,10 +1560,8 @@
       "id": "premier-unchained-summit-india-2026",
       "name": "Unchained Summit India 2026",
       "url": "https://hashtagweb3.com/unchained-summit",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -1668,8 +1603,7 @@
       "url": "https://hashtagweb3.com/bitcoin-amsterdam",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1740,8 +1674,7 @@
       "url": "https://hashtagweb3.com/dev3pack-devcon-career-fair",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1754,8 +1687,7 @@
       "url": "https://hashtagweb3.com/pragma-mumbai",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1838,7 +1770,7 @@
       "url": "https://hashtagweb3.com/bitcoin-korea",
       "eligible": false,
       "issues": [
-        "missing-detailed-address"
+        "multiple-venues"
       ],
       "missingRecommended": [
         "offers",
@@ -1908,8 +1840,7 @@
       "url": "https://hashtagweb3.com/unbanked-london",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1963,6 +1894,7 @@
       "url": "https://hashtagweb3.com/bitcoin-historico",
       "eligible": false,
       "issues": [
+        "multiple-venues",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1976,8 +1908,7 @@
       "url": "https://hashtagweb3.com/big-whale-geneva-summit",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1988,10 +1919,8 @@
       "id": "premier-africastablecoin",
       "name": "Africa Stablecoin Summit 2026",
       "url": "https://hashtagweb3.com/africa-stablecoin-summit",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2108,8 +2037,7 @@
       "url": "https://hashtagweb3.com/blockzero",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2120,10 +2048,8 @@
       "id": "premier-breakpoint-2026",
       "name": "Solana Breakpoint 2026",
       "url": "https://hashtagweb3.com/solana-breakpoint",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2162,12 +2088,9 @@
       "id": "luma-batch-evt8JjOeNcaN4TA5",
       "name": "Cộng đồng Web3 Việt Nam | Quantova QVM TP. Hồ Chí Minh 🇻🇳",
       "url": "https://hashtagweb3.com/quantova-web3-ho-chi-minh-city",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
         "organizer"
       ]
     },
@@ -2225,10 +2148,8 @@
       "id": "premier-nabsummit",
       "name": "North American Blockchain Summit 2026",
       "url": "https://hashtagweb3.com/north-american-blockchain-summit",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2283,10 +2204,8 @@
       "id": "premier-cryptofest",
       "name": "Crypto Fest 2026",
       "url": "https://hashtagweb3.com/cryptofest",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2296,14 +2215,9 @@
       "id": "luma-evt-mPCGxeHyKlTeEgN",
       "name": "University Blockchain Conference 2026",
       "url": "https://hashtagweb3.com/university-blockchain-conference",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "premier-ibt-lucknow-2026",
@@ -2350,10 +2264,8 @@
       "id": "premier-planx",
       "name": "PlanX Conference 2026",
       "url": "https://hashtagweb3.com/planx",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2365,8 +2277,7 @@
       "url": "https://hashtagweb3.com/blockcon-punta-cana",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2377,10 +2288,8 @@
       "id": "premier-world-token-congress-2026",
       "name": "World Token Congress 2026",
       "url": "https://hashtagweb3.com/world-token-congress",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2390,10 +2299,8 @@
       "id": "premier-auscryptocon-2026",
       "name": "CryptoCon Sydney 2026",
       "url": "https://hashtagweb3.com/auscryptocon",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2417,10 +2324,8 @@
       "id": "premier-binancebw-2026",
       "name": "Binance Blockchain Week 2026",
       "url": "https://hashtagweb3.com/binance-blockchain-week",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2430,10 +2335,8 @@
       "id": "premier-blockchain-life-2026",
       "name": "Blockchain Life 2026",
       "url": "https://hashtagweb3.com/blockchain-life",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2443,10 +2346,8 @@
       "id": "premier-africabitcoin",
       "name": "Africa Bitcoin Conference 2026",
       "url": "https://hashtagweb3.com/africa-bitcoin-conference",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2458,8 +2359,7 @@
       "url": "https://hashtagweb3.com/proof-of-talk-abu-dhabi",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2549,8 +2449,7 @@
       "url": "https://hashtagweb3.com/web3-digest-coffee-chat",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2576,10 +2475,8 @@
       "id": "premier-consensus-hk-2027",
       "name": "Consensus Hong Kong 2027",
       "url": "https://hashtagweb3.com/consensus",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2615,10 +2512,8 @@
       "id": "premier-token2049-dubai-2027",
       "name": "TOKEN2049 Dubai 2027",
       "url": "https://hashtagweb3.com/token2049-dubai",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2655,10 +2550,8 @@
       "id": "premier-consensus-miami-2027",
       "name": "Consensus Miami 2027",
       "url": "https://hashtagweb3.com/consensus-miami",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2708,10 +2601,8 @@
       "id": "luma-host-evt-evt-r6tADv4L8KdncKD",
       "name": "ETHConf 2027",
       "url": "https://hashtagweb3.com/ethconf",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -2721,10 +2612,8 @@
       "id": "premier-signal-week-2027",
       "name": "Signal Week 2027",
       "url": "https://hashtagweb3.com/signal-week",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
         "offers",
         "organizer"
