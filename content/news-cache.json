@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-19T17:40:05.727Z",
+  "generatedAt": "2026-10-19T19:31:50.957Z",
   "items": [
+    {
+      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+      "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 19:16:19 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Mesh will connect crypto and stablecoin wallets to Visa’s global payment network, allowing users to spend digital assets without a separate card.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+      "pubDate": "Mon, 19 Oct 2026 19:16:04 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
+      "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+      "pubDate": "Mon, 19 Oct 2026 18:46:05 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue...",
+      "source": "Decrypt"
+    },
     {
       "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
       "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
@@ -50,14 +74,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Mesh taps Visa to let users spend crypto without a separate card",
-      "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-      "pubDate": "Mon, 19 Oct 2026 16:10:02 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities ",
       "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 19 Oct 2026 16:05:57 +0000",
@@ -72,14 +88,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-      "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
-      "pubDate": "Mon, 19 Oct 2026 16:00:00 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
-      "source": "The Block"
     },
     {
       "title": "Binance rolls out AI Pro for strategy building, testing and trading",
@@ -442,14 +450,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
-      "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
-      "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
-      "source": "The Block"
-    },
-    {
       "title": "Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets",
       "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
       "pubDate": "Sat, 17 Oct 2026 18:14:43 +0000",
@@ -546,14 +546,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 15:45:43 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
       "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
       "pubDate": "Fri, 16 Oct 2026 15:43:58 +0000",
@@ -607,14 +599,6 @@
       "pubDate": "Thu, 15 Oct 2026 20:31:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved b...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-      "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
-      "pubDate": "Thu, 15 Oct 2026 19:16:04 +0000",
-      "creator": "Staff",
-      "contentSnippet": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy ...",
       "source": "Decrypt"
     }
   ]
