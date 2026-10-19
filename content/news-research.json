@@ -101754,7 +101754,24 @@
         ],
         "total": 127,
         "checkedAt": "2026-10-19T16:13:05.278Z"
-      }
+      },
+      "validationErrors": [
+        "Draft has no ready review outcome: content/articles/circle.md",
+        "Draft has no ready review outcome: content/articles/cysic.md",
+        "Draft has no ready review outcome: content/articles/france.md",
+        "Draft has no ready review outcome: content/articles/gemini.md",
+        "Draft has no ready review outcome: content/articles/kinexys.md",
+        "Draft has no ready review outcome: content/articles/latvia.md",
+        "Draft has no ready review outcome: content/articles/mtgox.md",
+        "Draft has no ready review outcome: content/articles/novig.md",
+        "Draft has no ready review outcome: content/articles/okxice.md",
+        "Draft has no ready review outcome: content/articles/qubic.md",
+        "Draft has no ready review outcome: content/articles/stablecoin.md",
+        "Draft has no ready review outcome: content/articles/strategy.md",
+        "Draft has no ready review outcome: content/articles/strive.md",
+        "Draft has no ready review outcome: content/articles/usdc.md",
+        "Draft has no ready review outcome: content/articles/zakura.md"
+      ]
     }
   }
 }
