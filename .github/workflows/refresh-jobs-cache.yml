@@ -167,7 +167,7 @@ jobs:
 
   deploy:
     needs: [gate, ingest, publish-news]
-    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.deploy == 'true' && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && needs.publish-news.result != 'cancelled' }}
+    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && github.event.inputs.only_news != 'true' && github.event.inputs.news_dry_run != 'true' && github.event.inputs.website_recovery != 'true' && (needs.gate.outputs.deploy == 'true' || needs.publish-news.outputs.articles_changed == 'true') && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && needs.publish-news.result != 'cancelled' }}
     permissions:
       contents: read
       id-token: write
@@ -278,6 +278,8 @@ jobs:
     timeout-minutes: 180
     permissions:
       contents: write
+    outputs:
+      articles_changed: ${{ steps.publish.outputs.articles_changed }}
     concurrency:
       group: publish-news
       cancel-in-progress: false
@@ -286,6 +288,7 @@ jobs:
       NEWS_MODEL: ${{ inputs.news_model || 'opencode/muse-spark-1.3-contributor-free' }}
       NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
       NEWS_DATE: ${{ needs.gate.outputs.date }}
+      NEWS_OPENCODE_VERSION: v1.19.2
     steps:
       - uses: actions/checkout@v4
         with:
@@ -308,28 +311,19 @@ jobs:
 
       - name: Install opencode
         if: ${{ steps.research.outputs.needs_writer == 'true' }}
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           # opencode.ai sits behind Cloudflare and answers GitHub-hosted
           # runners with a non-200. curl -fsSL then exits 1 with an empty log.
           mkdir -p "$HOME/.opencode/bin"
-          VERSION=$(curl -fsSL --retry 5 --retry-delay 2 \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/anomalyco/opencode/releases/latest \
-            | jq -r '.tag_name')
-          if [ -z "$VERSION" ] || [ "$VERSION" = "null" ]; then
-            echo "Could not read the latest opencode release tag"
-            exit 1
-          fi
+          VERSION="$NEWS_OPENCODE_VERSION"
           echo "Installing opencode $VERSION"
           curl -fL --retry 5 --retry-delay 2 -o /tmp/opencode.tar.gz \
             "https://github.com/anomalyco/opencode/releases/download/${VERSION}/opencode-linux-x64.tar.gz"
           tar -xzf /tmp/opencode.tar.gz -C "$HOME/.opencode/bin" opencode
           chmod 755 "$HOME/.opencode/bin/opencode"
           "$HOME/.opencode/bin/opencode" --version
+          test "$("$HOME/.opencode/bin/opencode" --version)" = "${VERSION#v}"
 
       - name: Install image tooling (Pillow fallback for Linux resize)
         if: ${{ steps.research.outputs.needs_writer == 'true' }}
@@ -629,7 +623,7 @@ jobs:
           VIDEOS: ${{ needs.post-videos.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
           SNAPSHOT: ${{ needs.refresh-news-snapshot.result }}
-          DEPLOY_DUE: ${{ needs.gate.outputs.deploy }}
+          DEPLOY_DUE: ${{ needs.gate.outputs.deploy == 'true' || needs.publish-news.outputs.articles_changed == 'true' }}
           DEPLOY: ${{ needs.deploy.result }}
         run: |
           set -euo pipefail
@@ -674,7 +668,7 @@ jobs:
         if: always()
         env:
           PUBLISH_PLAN: ${{ toJSON(needs.gate.outputs) }}
-          PUBLISH_RESULTS: '{"ingest":"${{ needs.ingest.result }}","news":"${{ needs.publish-news.result }}","deploy":"${{ needs.deploy.result }}","posts":"${{ needs.post-openings.result }}","telegram":"${{ needs.refresh-and-post.result }}"}'
+          PUBLISH_RESULTS: '{"ingest":"${{ needs.ingest.result }}","news":"${{ needs.publish-news.result }}","newsChanged":"${{ needs.publish-news.outputs.articles_changed }}","deploy":"${{ needs.deploy.result }}","posts":"${{ needs.post-openings.result }}","telegram":"${{ needs.refresh-and-post.result }}"}'
         run: |
           set -euo pipefail
           SLOT="${{ needs.gate.outputs.slot }}"

@@ -9,7 +9,7 @@ export function planSlot(state, slot, today, now) {
   const morning = state.ingested !== today && state.morning !== today;
   const news = state.news !== today && state.morning !== today;
   // Legacy morning stamps did not prove a rollout succeeded.
-  const deploy = state.deployed !== today;
+  const deploy = state.deployed !== today || state.newsDeployPending === true;
   const completed = state.slots?.[slot] ?? (slot === 'morning' ? undefined : state[slot]);
   const social = completed !== today && (now === undefined || isPostingWindow(postingSlot(slot, today), new Date(now).getTime()));
   return { morning, news, deploy, social, slot, skip: !morning && !news && !deploy && !social, date: today };
@@ -20,7 +20,11 @@ export function recordSlot(state, plan, results) {
   if (plan.morning && results.ingest === 'success') next.ingested = plan.date;
   if (plan.news && results.news === 'success') next.news = plan.date;
   if (next.ingested === plan.date && next.news === plan.date) next.morning = plan.date;
-  if (plan.deploy && results.deploy === 'success') next.deployed = plan.date;
+  if (results.newsChanged === true || results.newsChanged === 'true') next.newsDeployPending = true;
+  if (results.deploy === 'success') {
+    next.deployed = plan.date;
+    delete next.newsDeployPending;
+  }
   if (plan.social && results.posts === 'success' && results.telegram === 'success') next.slots[plan.slot] = plan.date;
   return next;
 }

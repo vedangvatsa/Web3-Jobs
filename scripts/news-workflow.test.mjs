@@ -6,13 +6,24 @@ const require = createRequire(import.meta.url);
 const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
 const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
 
-test('one daily research batch feeds the existing single daily deployment gate', () => {
+test('daily research deploys recovered articles even after the jobs rollout', () => {
   assert.match(workflow.jobs['publish-news'].if, /outputs.news == 'true'/);
   assert.match(workflow.jobs.deploy.if, /outputs.deploy == 'true'/);
-  assert.doesNotMatch(workflow.jobs.deploy.if, /articles_changed/);
+  assert.match(workflow.jobs.deploy.if, /outputs.deploy == 'true' \|\| needs.publish-news.outputs.articles_changed == 'true'/);
+  for (const mode of ['only_news', 'news_dry_run', 'website_recovery']) assert.ok(workflow.jobs.deploy.if.includes(`github.event.inputs.${mode} != 'true'`));
+  assert.equal(workflow.jobs['publish-news'].outputs.articles_changed, '${{ steps.publish.outputs.articles_changed }}');
   assert.equal(workflow.jobs['publish-news'].concurrency.group, 'publish-news');
   assert.equal(workflow.jobs['publish-news'].steps[0].with.ref, 'main');
   assert.equal(workflow.jobs['refresh-and-post'].steps[0].with.ref, 'main');
+});
+
+test('news uses the verified OpenCode release rather than upgrading each day', () => {
+  const news = workflow.jobs['publish-news'];
+  assert.match(news.env.NEWS_OPENCODE_VERSION, /^v\d+\.\d+\.\d+$/);
+  const install = news.steps.find(step => step.name === 'Install opencode').run;
+  assert.doesNotMatch(install, /releases\/latest/);
+  assert.match(install, /VERSION="\$NEWS_OPENCODE_VERSION"/);
+  assert.match(install, /test .*--version/);
 });
 
 test('research coverage and audits own publication, not a raw article-count increase', () => {

@@ -59,3 +59,24 @@ test('next day resets due work and records the original run date', () => {
   assert.deepEqual([nextDay.morning, nextDay.deploy, nextDay.social], [true, true, true]);
   assert.equal(state.deployed, today);
 });
+
+test('news recovered after the jobs rollout stays deployment-due until shipped', () => {
+  const morning = recordSlot({}, planSlot({}, 'morning', today), { ingest: 'success', news: 'failure', deploy: 'success' });
+  const recovery = planSlot(morning, 'afternoon', today);
+  assert.equal(recovery.deploy, false);
+  assert.equal(recovery.news, true);
+  for (const deploy of ['failure', 'cancelled', 'skipped']) {
+    const pending = recordSlot(morning, recovery, { news: 'success', newsChanged: 'true', deploy });
+    const retry = planSlot(pending, 'evening', today);
+    assert.equal(retry.deploy, true);
+    assert.equal(retry.morning, false);
+    assert.equal(retry.news, false);
+    const done = recordSlot(pending, retry, { deploy: 'success' });
+    assert.equal(planSlot(done, 'evening', today).deploy, false);
+    assert.equal(done.newsDeployPending, undefined);
+  }
+  const shipped = recordSlot(morning, recovery, { news: 'success', newsChanged: 'true', deploy: 'success' });
+  assert.equal(planSlot(shipped, 'evening', today).deploy, false);
+  const quiet = recordSlot(morning, recovery, { news: 'success', newsChanged: 'false', deploy: 'skipped' });
+  assert.equal(planSlot(quiet, 'evening', today).deploy, false);
+});
