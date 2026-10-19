@@ -25627,6 +25627,38 @@
       "postId": "18135953752632739",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DerKV_Om3Hp",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls299",
+      "company": "Block",
+      "title": "Mid-Market Account Excutive",
+      "platform": "bluesky",
+      "postedAt": "2026-10-19T11:34:01.814Z",
+      "expectedText": "Block is hiring Mid-Market Account Excutive: https://hashtagweb3.com/sls299/bsky?og=7",
+      "snapshot": {
+        "id": "5428149008",
+        "title": "Mid-Market Account Excutive",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5428149008?gh_jid=5428149008",
+        "date": "2026-10-15T13:35:24-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Sydney, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls299"
+      },
+      "payload": {
+        "text": "Block is hiring Mid-Market Account Excutive: https://hashtagweb3.com/sls299/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls299/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls299.png?v=7",
+        "company": "Block",
+        "title": "Mid-Market Account Excutive",
+        "description": "Join Block as Mid-Market Account Excutive. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "966658c5-3ba2-480a-8404-4c6a0878824b",
+      "verification": "creating"
     }
   ]
 }
