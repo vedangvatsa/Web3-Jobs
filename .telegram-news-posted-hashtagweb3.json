@@ -770,6 +770,9 @@
   "https://hashtagweb3.com/zkapi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ruble-wages?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcash-lobbyist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/circlemarkets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/circlemargin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cysicmint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2217,6 +2220,12 @@
   "Russia finance ministry pays staff wages in digital rubles",
   "Zcash Advocacy Group Registers First Washington Lobbyist",
   "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1",
+  "Circle Plans Expansion Into 40 Developing Markets",
+  "Circle plans push into about 40 emerging markets, Allaire says",
+  "Circle reports seven percent net profit for first half",
+  "Circle says it kept 7 cents of each USDC revenue dollar in first half",
+  "Cysic Suspends Bridge After Unauthorized 10 Million Token Mint",
+  "Cysic halts bridge after unauthorized mint of 10 million CYS",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2537,5 +2546,8 @@
   "fp:charity|cryptocurrency|entity|financ|fiv|franc|fraudulent|french|hama|link",
   "fp:api|apis|credit|enabl|foundation|identity|knowledg|mainnet|meter|pay",
   "fp:2026|currency|digital|financ|group|ministry|october1|pay|payment|pilot",
-  "fp:2026|advocacy|director|divij|effectiv|executiv|group|lobby|lobbyist|market"
+  "fp:2026|advocacy|director|divij|effectiv|executiv|group|lobby|lobbyist|market",
+  "fp:about40|africa|allair|america|asia|ceo|circl|cit|demand|develop",
+  "fp:cent|circl|consumed59|cost|dollar|each|half|kept7|net|operation",
+  "fp:10m|28m|address|blacklist|bnb|bridg|chain|contain|cysic|exploiter"
 ]

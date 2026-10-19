@@ -1791,7 +1791,7 @@
     "sentAt": "2026-10-19T11:35:48.945Z"
   },
   "22ecfa2e-3887-4168-933d-942f797f41e6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T19:34:00.447Z",
     "stories": [
       {
@@ -1819,6 +1819,8 @@
         "originalTitle": "Cysic halts bridge after unauthorized mint of 10 million CYS"
       }
     ],
-    "slotKey": "2026-10-19:evening"
+    "slotKey": "2026-10-19:evening",
+    "messageId": 155849,
+    "sentAt": "2026-10-19T19:34:09.245Z"
   }
 }
