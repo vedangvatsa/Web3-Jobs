@@ -6140,5 +6140,119 @@
     "slotKey": "2026-10-18:evening",
     "messageId": 136,
     "sentAt": "2026-10-18T19:33:21.907Z"
+  },
+  "4652835b-e974-4b93-a41b-e594ca6aa963": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T11:33:50.718Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "744000151849386",
+          "title": "Senior Data Analyst",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000151849386-senior-data-analyst",
+          "date": "2026-09-25T13:12:03.428Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Belgrade, Serbia",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an53"
+        },
+        "key": "744000151849386",
+        "slug": "an53",
+        "url": "https://hashtagweb3.com/an53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "6218665004",
+          "title": "VP, Campus Construction Manager",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6218665004",
+          "date": "2026-10-06T16:55:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Afton, Texas",
+          "department": "Data Centers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr154"
+        },
+        "key": "6218665004",
+        "slug": "mgr154",
+        "url": "https://hashtagweb3.com/mgr154?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Campus Construction Manager"
+      },
+      {
+        "snapshot": {
+          "id": "38f7f771-954a-400a-8af3-2b049a4c82ab",
+          "title": "Customer Success Manager",
+          "company": "Merkle Science",
+          "link": "https://jobs.lever.co/merklescience/38f7f771-954a-400a-8af3-2b049a4c82ab",
+          "date": "2026-09-30T12:05:40.928Z",
+          "source": "Lever: Merkle Science [merklescience]",
+          "location": "Remote (New York)",
+          "workplaceType": "remote",
+          "department": "Customer Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr91"
+        },
+        "key": "38f7f771-954a-400a-8af3-2b049a4c82ab",
+        "slug": "mgr91",
+        "url": "https://hashtagweb3.com/mgr91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Merkle Science",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5435406008",
+          "title": "Financial Planning & Analysis, Principal",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5435406008",
+          "date": "2026-09-25T15:17:24-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fpa2"
+        },
+        "key": "5435406008",
+        "slug": "fpa2",
+        "url": "https://hashtagweb3.com/fpa2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Financial Planning & Analysis"
+      },
+      {
+        "snapshot": {
+          "id": "8893459002",
+          "title": "Recruiter (Contract)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893459002",
+          "date": "2026-10-15T19:02:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "San Francisco, CA",
+          "department": "People",
+          "active": true,
+          "salary": "$50 – $75/hr",
+          "dateVerified": true,
+          "slug": "rec40"
+        },
+        "key": "8893459002",
+        "slug": "rec40",
+        "url": "https://hashtagweb3.com/rec40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Recruiter (Contract)"
+      }
+    ],
+    "message": "- Solflare is hiring <a href=\"https://hashtagweb3.com/an53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/mgr154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Campus Construction Manager</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/mgr91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/fpa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Planning &amp; Analysis, Principal</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/rec40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>",
+    "slotKey": "2026-10-19:afternoon"
   }
 }
