@@ -28327,7 +28327,8 @@
       },
       "account": "channel:web3",
       "attemptId": "8a2d8d70-9e67-46df-8d36-ec455c81f381",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31c7f99e67040a1991e7a8281eae285588c4671b"
     }
   ]
 }
