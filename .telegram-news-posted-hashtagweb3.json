@@ -767,6 +767,9 @@
   "https://hashtagweb3.com/illinois-tax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/triple-funds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hamas-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zkapi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ruble-wages?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcash-lobbyist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2208,6 +2211,12 @@
   "SEC clears Cboe listing rules for six 3x Volatility Shares funds",
   "US Sanctions Hamas Network Using Crypto and French Charities",
   "US sanctions Hamas financing network over France-linked crypto transfers",
+  "Ethereum Foundation Launches Private API Payment System on Mainnet",
+  "Ethereum Foundation launches zkAPI private metered credits on mainnet",
+  "Russia pays ministry staff in digital ruble pilot",
+  "Russia finance ministry pays staff wages in digital rubles",
+  "Zcash Advocacy Group Registers First Washington Lobbyist",
+  "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2525,5 +2534,8 @@
   "fp:announc|appoint|chair|clayton|coordinat|federal|forc|former|group|jay",
   "fp:asset|bid|court|delay|digital|group|illinois|implementation|join|july2027",
   "fp:approv|asset|authoriz|cbo|clear|commodity|cover|energy|ether|fund",
-  "fp:charity|cryptocurrency|entity|financ|fiv|franc|fraudulent|french|hama|link"
+  "fp:charity|cryptocurrency|entity|financ|fiv|franc|fraudulent|french|hama|link",
+  "fp:api|apis|credit|enabl|foundation|identity|knowledg|mainnet|meter|pay",
+  "fp:2026|currency|digital|financ|group|ministry|october1|pay|payment|pilot",
+  "fp:2026|advocacy|director|divij|effectiv|executiv|group|lobby|lobbyist|market"
 ]
