@@ -26335,7 +26335,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "059c0ca1-2671-4776-bc07-36f8f219de22",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad600ba189a03b5ff221a99"
     }
   ]
 }
