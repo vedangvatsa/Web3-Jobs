@@ -14908,7 +14908,10 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316361088/",
     "coverImage": null,
     "source": "meetup",
-    "month": "September 2026"
+    "month": "September 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-seoul-creators-lunch-injective-26-10-01",
@@ -21467,7 +21470,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22645,7 +22648,7 @@
     "country": "us",
     "location": "Des Moines, us",
     "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "coverImage": "/events/mu-316665472-cd887090.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23397,7 +23400,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/",
-    "coverImage": "/events/mu-316788764-23ca9f72.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23957,7 +23960,10 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Jordan Boich"
+    ]
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
