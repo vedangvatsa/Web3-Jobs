@@ -28011,6 +28011,47 @@
       "verification": "pending",
       "postId": "6ad670aecded3e5c06c43242",
       "error": "LinkedIn #Web3 receipt 6ad670aecded3e5c06c43242 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "mkt109",
+      "company": "BitGo",
+      "title": "Marketing Generalist, BitGo Labs (Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-19T19:32:13.106Z",
+      "expectedText": "BitGo is hiring Marketing Generalist, BitGo Labs (Contract): https://hashtagweb3.com/mkt109/li?og=7",
+      "snapshot": {
+        "id": "8853156002",
+        "title": "Marketing Generalist, BitGo Labs (Contract)",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8853156002",
+        "date": "2026-10-15T13:54:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "Marketing",
+        "active": true,
+        "salary": "$10k – $13k/mo",
+        "dateVerified": true,
+        "slug": "mkt109"
+      },
+      "payload": {
+        "text": "BitGo is hiring Marketing Generalist, BitGo Labs (Contract): https://hashtagweb3.com/mkt109/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mkt109/li?og=7",
+          "title": "Marketing Generalist, BitGo Labs (Contract) at BitGo",
+          "description": "Join BitGo as Marketing Generalist, BitGo Labs. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mkt109.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "a7397051-61f3-4704-8018-aeae9abb2d6a",
+      "verification": "creating"
     }
   ]
 }
