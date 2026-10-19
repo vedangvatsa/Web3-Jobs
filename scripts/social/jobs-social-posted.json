@@ -28223,7 +28223,8 @@
         "description": "Join FalconX as Customer Due Diligence Associate. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "1b3550d4-2526-48c6-b081-85e3be5efe6c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myauizwhji2f"
     }
   ]
 }
