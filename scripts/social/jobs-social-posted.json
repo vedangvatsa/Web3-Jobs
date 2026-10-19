@@ -28861,6 +28861,46 @@
       "verification": "pending",
       "postId": "6ad6714ecded3e5c06c44e75",
       "error": "LinkedIn #Web3 receipt 6ad6714ecded3e5c06c44e75 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "aso23",
+      "company": "FalconX",
+      "title": "Customer Due Diligence Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-10-19T19:35:00.521Z",
+      "expectedText": "FalconX is hiring Customer Due Diligence Associate: https://hashtagweb3.com/aso23/li?og=7",
+      "snapshot": {
+        "id": "4741248005",
+        "title": "Customer Due Diligence Associate",
+        "company": "FalconX",
+        "link": "https://job-boards.greenhouse.io/falconx/jobs/4741248005",
+        "date": "2026-10-13T01:55:46-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: FalconX [falconx]",
+        "location": "Malta",
+        "department": "Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso23"
+      },
+      "payload": {
+        "text": "FalconX is hiring Customer Due Diligence Associate: https://hashtagweb3.com/aso23/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso23/li?og=7",
+          "title": "Customer Due Diligence Associate at FalconX",
+          "description": "Join FalconX as Customer Due Diligence Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso23.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "539e7691-2226-4fee-b876-73a92605e6bd",
+      "verification": "creating"
     }
   ]
 }
