@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-19T16:44:41.227Z",
+  "generatedAt": "2026-10-19T17:40:05.727Z",
   "items": [
+    {
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+      "pubDate": "Mon, 19 Oct 2026 17:31:04 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 17:24:49 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific cou...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+      "pubDate": "Mon, 19 Oct 2026 16:47:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "pubDate": "Mon, 19 Oct 2026 16:46:05 +0000",
+      "creator": "Staff",
+      "contentSnippet": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal ",
+      "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 19 Oct 2026 16:41:55 +0000",
+      "creator": "Sam Bourgi",
+      "contentSnippet": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purc...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC  ",
       "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -154,14 +194,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-      "link": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
-      "pubDate": "Mon, 19 Oct 2026 10:42:07 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
-      "source": "The Block"
-    },
-    {
       "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
       "link": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
       "pubDate": "Mon, 19 Oct 2026 10:31:09 +0000",
@@ -200,14 +232,6 @@
       "creator": "Agent",
       "contentSnippet": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
       "source": "Decrypt"
-    },
-    {
-      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-      "pubDate": "Mon, 19 Oct 2026 10:03:47 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-      "source": "Coindesk"
     },
     {
       "title": "StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
@@ -538,14 +562,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-      "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 16 Oct 2026 13:51:35 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpelès questioning...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "How Ethereum Works",
       "link": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
       "pubDate": "Fri, 16 Oct 2026 13:31:07 +0000",
@@ -599,22 +615,6 @@
       "pubDate": "Thu, 15 Oct 2026 19:16:04 +0000",
       "creator": "Staff",
       "contentSnippet": "In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-      "pubDate": "Thu, 15 Oct 2026 16:28:50 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and st...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-      "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-      "pubDate": "Thu, 15 Oct 2026 15:20:41 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
       "source": "Decrypt"
     }
   ]
