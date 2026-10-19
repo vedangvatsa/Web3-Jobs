@@ -69,31 +69,6 @@
     }
   },
   {
-    "name": "UN Blockchain Week 2026",
-    "url": "https://unblockchainweek.com",
-    "emails": [
-      "you@company.com",
-      "sponsorships@blockchainweek.ai",
-      "contact@blockchainweek.ai"
-    ],
-    "event": {
-      "id": "premier-unbw-2026",
-      "slug": "un",
-      "name": "UN Blockchain Week 2026",
-      "description": "A series of blockchain, AI and digital-asset summits in New York held alongside the UN General Assembly, including the AI x Blockchain Summit.",
-      "startDate": "2026-09-10T09:00:00.000Z",
-      "endDate": "2026-09-19T18:00:00.000Z",
-      "city": "New York",
-      "country": "United States",
-      "location": "Times Square, New York, USA",
-      "url": "https://unblockchainweek.com",
-      "website": "https://unblockchainweek.com",
-      "coverImage": "https://www.blockchainweek.ai/opengraph-image.png?opengraph-image.0c6-04-u9_oc0.png?dpl=dpl_7prKPNcDo1WkRVtBPS3Wq1wjthrH",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Cardano Summit 2026",
     "url": "https://summit.cardano.org",
     "emails": [
@@ -779,29 +754,6 @@
       "url": "https://www.rayls.com",
       "website": "https://www.rayls.com",
       "coverImage": "/events/rayls.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "HackIndia Spark-12 Jaipur 2026",
-    "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-    "emails": [
-      "sponsors@hackindia.org"
-    ],
-    "event": {
-      "id": "premier-hackindia",
-      "slug": "hackindia",
-      "name": "HackIndia Spark-12 Jaipur 2026",
-      "description": "HackIndia's Jaipur edition of its national student hackathon series, with web3 and AI tracks for emerging developers.",
-      "startDate": "2026-09-18T09:00:00.000Z",
-      "endDate": "2026-09-19T18:00:00.000Z",
-      "city": "Jaipur",
-      "country": "India",
-      "location": "Jaipur, Rajasthan, India",
-      "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-      "website": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-      "coverImage": "/events/hackindia.png",
       "twitter": null,
       "source": "curated-premier"
     }

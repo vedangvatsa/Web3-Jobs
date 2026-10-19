@@ -4,37 +4,6 @@ import type { EventEditorialArticle } from "./events";
 // Facts sourced from each event's official website / organizer announcements.
 export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
-  unbw: {
-    summaryLead:
-      "UN Blockchain Week spans September 10 to 19 across New York City, deliberately scheduled inside UN General Assembly week and New York Fashion Week. Rather than one conference, it is a series: a flagship two-day UN Blockchain Week Conference, an AI and blockchain summit, a fashion-tech summit timed to NYFW, a space-economy event called SpaceDAO and Orbital Finance, and an investment summit in Washington, with more than one hundred side events threaded throughout.",
-    sections: [
-      {
-        heading: "The format",
-        content: [
-          "The anchor conference covers Bitcoin, artificial intelligence, energy, and the space economy, with government officials, mission-driven organizations, and investors in town for UNGA week. The AI x Blockchain Summit digs into autonomous agents, decentralized compute markets, and verification for machine-generated content. The NYFW Fashion-Tech Summit explores digital identity, luxury authentication, and NFT applications with fashion-industry participants rather than crypto-native ones, and SpaceDAO brings satellite operators and orbital-economy founders into conversation with token economists.",
-          "That breadth divides opinion; generalists get an unusual cross-section, while single-topic specialists should pick their days carefully and treat the rest as networking time.",
-        ],
-      },
-      {
-        heading: "Navigating UNGA week",
-        content: [
-          "When the United Nations is in session, Manhattan changes: security perimeters close streets around Midtown East, hotel rates triple, and movement slows to a crawl during motorcades. Book accommodation near your priority venues rather than cheapest-available, use the subway instead of cars, and expect Secret Service-level delays on the East Side.",
-          "The upside is density. Delegations, foundations, and Fortune 500 executives are all in town, which is exactly why the organizers anchor to UNGA; the formal agenda matters less than the rooms it puts you in.",
-        ],
-      },
-      {
-        heading: "Choosing your days",
-        content: [
-          "With events spanning ten days, serial attendance burns out even seasoned conference-goers. The flagship UN Blockchain Week Conference draws the broadest audience, AI x Blockchain pulls technical builders and researchers, Fashion-Tech attracts brand and luxury-industry people, and SpaceDAO remains the nicheiest but most memorable for its genuinely unusual speaker mix.",
-          "September New York weather cooperates, but UNGA security means subway commutes beat cars decisively, hotels require booking months ahead for sane rates, and restaurant reservations around Midtown become strategic assets. Build each day around one anchor meeting location and let everything else orbit it.",
-                  "The UN-week anchoring produces speaker access unavailable at any other blockchain event. Diplomats, multilateral organization representatives, sovereign development funds, and government delegations populate sessions examining blockchain applications in development finance, digital public infrastructure, remittance corridors for developing economies, and credentialing systems. For teams building solutions targeting emerging-market governments or international organizations, these rooms concentrate buyers who otherwise require months of diplomatic scheduling. The fashion-tech and space tracks extend reach into industries where blockchain penetration remains early, offering first-mover networking to consumer brands exploring digital product passports and aerospace companies evaluating satellite-data monetization through tokenized markets.",
-                  "Ticketing operates per-event rather than as a single pass, so build your week deliberately from the official calendar. New York hotel minimums during UNGA week run three to four times normal rates, making early booking the highest-ROI decision of the entire trip.",
-                  "Comfortable shoes matter more than business cards here; UNGA-week security perimeters turn five-minute taxi rides into thirty-minute walks with pleasing regularity throughout Manhattan.",
-        ],
-      },
-    ],
-  },
-
   ethtokyo: {
     summaryLead:
       "ETHGlobal Tokyo runs September 25 to 27, bringing the standard ETHGlobal hackathon format to Japan: team formation on Friday night, forty-eight hours of building with mentors from major protocols circulating continuously, project submissions Sunday afternoon, and judging across ecosystem prize tracks.",
@@ -687,36 +656,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Southeast Asia's emerging developer hub",
         content: [
           "Malaysia is rapidly emerging as a crypto-forward nation in Southeast Asia with active university blockchain chapters and progressive digital economy initiatives. ETHKL provides a welcoming entry point for regional talent into the global Ethereum ecosystem.",
-        ],
-      },
-    ],
-  },
-  un: {
-    summaryLead:
-      "UN Blockchain Week runs September 10 to 19 across New York City, timed to overlap with the UN General Assembly and New York Fashion Week. It is organized as a series rather than a single conference, with tracks covering Bitcoin and money, AI agents, the space economy, energy, identity, and a fashion-tech summit tied to NYFW. The site lists General Admission at $399 and a VIP pass at $1,499 that includes the Washington Elite Investment Summit and Gala on September 18 at Gallery MC. The organizers describe it as an independent initiative with no UN affiliation.",
-    ticketPricing: "General Admission $399 / VIP Pass $1,499 (includes Sept 18 gala)",
-    speakers: "Brock Pierce, Vit Jedlicka, Michael Terpin, Hugh Dugan, Lou Kerner, Karla Ballard, Alex Lightman, Jimmy Nguyen",
-    expectedAttendance: "1,000+ visionaries (per ticket page)",
-    sections: [
-      {
-        heading: "A series, not a single conference",
-        content: [
-          "The week bundles several distinct programs under one banner. The site lists a flagship two-day conference, an AI and blockchain summit, a fashion-tech summit timed to NYFW, space economy programming under the SpaceDAO name, and the Washington Elite Investment Summit and Gala. Focus areas named on the page are Bitcoin and money, autonomous AI agents, orbital assets, fashion and technology, energy markets, and decentralized identity.",
-          "General Admission covers public events, panels, and runways across the ten days, according to the ticket bullets. The gala and investment summit are reserved for VIP pass holders. Visitors with a narrow interest should pick the days matching their track rather than attending end to end.",
-        ],
-      },
-      {
-        heading: "Tickets and the gala",
-        content: [
-          "General Admission is listed at $399 and includes panels, runways, networking, the live calendar of side events, and a digital pass with recordings. The $1,499 VIP pass adds the September 18 summit and gala, a premium lounge, priority seating, a swag bag, photo opportunities, and private after-parties and investor dinners. Both tiers check out through Stripe.",
-          "The gala takes place September 18 at Gallery MC, 549 West 52nd Street, and the page describes it as a black-tie evening with investors, officials, and fashion figures. Since the gala is the priciest single component of the week, buyers who only want the conference days can stop at General Admission.",
-        ],
-      },
-      {
-        heading: "Getting around during UNGA week",
-        content: [
-          "The event calendar runs on Luma and is updated through the week, with side events, panels, runways, and networking nights across the city. The listed contact address is 26 Broadway in Manhattan, and the organizers note the program is an independent initiative with no UN affiliation. Booking lodging early is standard advice for this week, when delegations fill Midtown hotels.",
-          "Subway travel beats cars during General Assembly week, when motorcades slow Midtown traffic. Evening programming spreads beyond the main venues, so grouping meetings by neighborhood keeps days workable. Anyone needing a visa invitation should use the dedicated page on the official site.",
         ],
       },
     ],

@@ -279,50 +279,6 @@
     }
   },
   {
-    "id": "luma-crypto-1o1FB3qFyWCYtEi",
-    "slug": "cohvpj",
-    "name": "Customer Onboarding Hackathon",
-    "description": "## Description\n\nThis is a full-day hackathon that lets you ship and build a new onboarding experience that helps users reach their activation moment faster and understand value immediately.\n\nYou’ll get Lovable to help you ship and build the end-to-end onboarding journey. Also, you get the product context, design system, existing onboarding experience, and the right tools, including Mobbin and Build for Mars. Your job is to research and decide what should change, build it, and ship a working solution with Lovable\n\n## Who Can Join\n\nDesigners, engineers, PMs, founders, growth people, data people and curious builders. You do not need to know how to code. Build solo or with a team of up to three. Coming alone? We’ll help match people into teams on the day.\n\n## Sponsors & Challenge\n\nSupported by Lovable\n\nLovable is the primary sponsor and core build platform for the hackathon. Participants will use Lovable to build and ship their working solutions during the day.\n\nWith support from\n\nMobbin\nAccess to product and onboarding design references, plus three months of Mobbin Pro for every participant.\n\nBuild for Mars\nAccess to 1,000+ onboarding case studies and behavioural psychology principles.\n\nElevenLabs\nSupporting the hackathon with AI voice capabilities participants can explore as part of what they build during the day.\n\nDori\nUse synthetic users to test your live onboarding experience, identify where users may drop off or experience friction, understand why, and iterate on your flow before the final presentation.\n\nChallenge by Perlego\n\nParticipants will work on a product onboarding challenge, following the design system, brand guidelines and relevant product context.\n\n## Why Join\n\n• Build with AI\n  Use Lovable to ship and build\n• Get access to great tools\n  Get 3 months of BFM+ free ( £50)\n  Get a 1 month subscription to Eleven Labs ($22)\n  Get 3 months of Mobbin access\n  Get access to Dori for your own personas to validate and test what you've built\n• Ship something real\n  Go from problem to working product in one day with Lovable\n• Work with real constraints.\n  Use an existing product, design system and business context\n• Meet people who make things\n  Work alongside designers, engineers, founders and product people.\n• Get your work judged\n  Present your solution and get feedback from experienced product, growth, design and engineering people\n\n## Judging\n\nA panel spanning growth, UX and engineering will evaluate the final builds against a clear set of criteria, including problem understanding, onboarding effectiveness, usability, originality and quality of execution.\n\n• Peter Ramsey - Founder, Built for Mars\n• Samuel Faroun Amin - Founder, Dori\n• Olamide Jegede - Lead Product Designer, Perlego\n• Ishan Kalra - Founding Engineer, Astute\n\n## Schedule & Venue\n\nSaturday, September 19 | 10:00 AM to 5:30 PM- In person\n\nIn person in central London.\n\n• 10:00 Welcome & Team building\n• 10:40 Challenge and sponsors demo\n• 11:00 Build begins\n• 13:00 Lunch\n• 15:45 Submissions open\n• 16:30 Submissions closes\n• 17:10 Announce winner\n• 17:40 Wrap up\n\n## Prize Note\n\n1st: Wins a 1-year Mobbin Pro prize. To be eligible for this prize, your team must show that you used Mobbin during the hackathon.\n\n2nd: Wins 3 months of Eleven Labs Scale tier (worth $990)\n\n## What to bring\n\n• Your laptop + charger\n• Headphones\n• Curiosity.\n\n## Photography & video\n\nPhotos and video will be taken throughout the event and may be used to document and promote the event, including on social media, websites, future event materials and event write-ups.\n\nBy registering and attending, you consent to being photographed and recorded.\n\n## Food & allergies\n\nFood and refreshments will be provided during the event.\n\nFood may contain or come into contact with common allergens, including gluten, dairy and nuts, and separate allergen-free preparation cannot be guaranteed.\n\nIf you have a serious allergy, intolerance or specific dietary requirement, please plan accordingly and bring anything you need.\n\n## Community & event guidelines\n\nWe want this to be a respectful, inclusive and collaborative space. Participants are expected to treat others respectfully, give constructive feedback, respect privacy and other people's work, and behave honestly throughout the event.\n\nAs this event is a Lovable-supported community event, participants are also [expected to follow the Lovable Community Code of Conduct.](https://lovable.dev/community-code-of-conduct)\n\nParticipants using Lovable [during the event are subject to Lovable's Terms & Conditions](https://lovable.dev/terms)  and Platform Rules.\n\nLovable age requirement: You must be at least 18 years old, or the age of majority in your jurisdiction, to use Lovable. If you are under 18, you must have permission from a parent or legal guardian.\n\n## Hosted at Ramen Space\n\nThis hackathon will take place at Ramen Space.\nRamen Space is a coworking space and community for SaaS, AI and tech founders building alongside each other. It brings together founders at different stages to work, share feedback and keep building.\nIf you’re building a product yourself and would like to experience the space, Ramen Space also offers a free trial day.\n[Book a free trial day at Ramen Space](https://ramenclub.com/ramen-space/#freetrial)",
-    "startDate": "2026-09-19T09:00:00.000Z",
-    "endDate": "2026-09-19T17:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/vpjma1oe",
-    "registrationUrl": "https://luma.com/vpjma1oe",
-    "coverImage": "/events/luma-crypto-1o1fb3qfywcytei-7f33fc65.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Mahshid Atabaki"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Event"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/vpjma1oe",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/vpjma1oe",
-      "eventId": "evt-1o1FB3qFyWCYtEi",
-      "fetchedAt": "2026-09-19T23:45:36.163Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-miNdmkakNF9C33M",
     "slug": "n8n-hackat",
     "name": "n8n Hackathon: Automate with K2 Horizon",

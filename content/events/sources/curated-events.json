@@ -192,22 +192,6 @@
     }
   },
   {
-    "id": "premier-unbw-2026",
-    "slug": "un",
-    "name": "UN Blockchain Week 2026",
-    "description": "A series of blockchain, AI and digital-asset summits in New York held alongside the UN General Assembly, including the AI x Blockchain Summit.",
-    "startDate": "2026-09-10T09:00:00.000Z",
-    "endDate": "2026-09-19T18:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Times Square, New York, USA",
-    "url": "https://unblockchainweek.com",
-    "website": "https://unblockchainweek.com",
-    "coverImage": "/events/premier-unbw-2026-1e0bfc10.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-ethtokyo-2026",
     "slug": "ethglobal",
     "name": "ETHGlobal Tokyo 2026",
@@ -2619,22 +2603,6 @@
       "pageTitle": "Rayls",
       "sha256": "70671a274708ce7bb60401707e7ad77e6170e07015d5e79b3acaac9e1d58f410"
     }
-  },
-  {
-    "id": "premier-hackindia",
-    "slug": "hackindia",
-    "name": "HackIndia Spark-12 Jaipur 2026",
-    "description": "HackIndia's Jaipur edition of its national student hackathon series, with web3 and AI tracks for emerging developers. Takes place 18 to 19 September 2026 at Jaipur, Rajasthan, India.",
-    "startDate": "2026-09-18T09:00:00.000Z",
-    "endDate": "2026-09-19T18:00:00.000Z",
-    "city": "Jaipur",
-    "country": "India",
-    "location": "Jaipur, Rajasthan, India",
-    "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-    "website": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-    "coverImage": "/events/hackindia.webp",
-    "twitter": null,
-    "source": "curated-premier"
   },
   {
     "id": "premier-gbshow",

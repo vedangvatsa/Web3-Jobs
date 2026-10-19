@@ -1,69 +1,5 @@
 [
   {
-    "id": "luma-evt-vdDlObrPPBf7c6K",
-    "name": "Blockchain Week - UNGA Edition 2026 | 10 Days (Sept 10–19)",
-    "description": "## The Most Important Event of the Year\n\nWhere Global Leaders, Policymakers and Visionaries Shape the Future\nSeptember 10 to 19, 2026 · Times Square, New York City\n\nAbout the Event\n\nIn an increasingly unpredictable world, one gathering rises above the noise as the single most strategic opportunity of 2026: Blockchain Week - UNGA Edition.\n\nThe centerpiece of the 10-day week is an exclusive two-day conference on September 16 and 17, timed with the United Nations General Assembly (UNGA 81) and New York Fashion Week, staged in Midtown Manhattan with our marquee presence in Times Square.\n\nThis is not another blockchain conference. This is where senior policymakers, institutional investors, government officials, energy executives and the world's top builders converge for high-signal dialogue on real-world adoption, nation-state strategy, and the future of finance, AI, energy and the space economy.\n\nThe world's leaders will be in New York. The most important conversations in blockchain will happen here.\n\nSpeakers\n\nBrock Pierce. President Vít Jedlička of Liberland. Michael Terpin. Hugh Dugan, former US diplomat. Alex Lightman. Nikita Sachdev. Dr. Levan Bodzashvili. Karla Ballard. Lou Kerner. Jimmy Nguyen. Rick Tumlinson.\n\n[Full confirmed lineup at blockchainweek.ai/speakers](https://blockchainweek.ai/speakers)\n\nFeatured Artist: KOVO\n\nKOVO (Steven Koveleski) is a contemporary artist, creative director and cultural strategist working at the intersection of art, technology, community and impact. His work explores human connection, collective progress and the systems shaping our shared future. Through Kovo Art, he builds visual experiences and collaborations that bring people together and turn complex ideas into powerful, human-centered stories.\n\nAs Featured Artist for Blockchain Week 2026, KOVO brings that practice to New York, giving a week of conversation about technology, trust and governance a visual language anyone can walk up to and feel. His work appears across the week and is showcased at BitcoinPalooza on September 17.\n\nWhy This Is the Most Important Week of the Year\n\nUnmatched access. Direct proximity to the global governance class during the one week they are all physically in New York.\n\nHigh-signal programming. Focused, curated content at the true intersection of policy and innovation.\n\nElite audience. Institutional investors, government advisors, energy leaders and technologists already in Manhattan for UNGA.\n\nCulture on the same stage as policy. Art, music and fashion programmed alongside the boardroom conversation, not as an afterthought to it.\n\nReal impact. These are the conversations that influence policy outcomes and strategic national positioning.\n\nSep 16 · Conference Day 1, from 9am, Gallery MC, 549 W 52nd St, New York, NY 10019. Bitcoin, Policy and Institutional Infrastructure. Opening keynote on blockchain's role in global governance. Nation-state Bitcoin adoption. Regulatory outlook post-UNGA season. Institutional readiness, capital markets and compliance architecture. Blockchain and the energy system.\n\nSep 17 · Conference Day 2, from 9am, Gallery MC, 549 W 52nd St. AI, Energy, Space and Real-World Impact. Keynote on the convergence of AI and blockchain. AI agents and decentralized systems. Tokenization of real-world assets. The space economy. Climate and energy applications, and measurable progress against the SDGs.\n\nSep 17 · BitcoinPalooza, Sugar Mouse NYC, 47 3rd Ave, New York, NY 10003. Doors 7pm. The official after party, following Day 2. Live performances, a fashion show, select talks, and work from Featured Artist KOVO. Included for conference attendees.\n\nSep 18 · Washington Elite Investment Summit and Gala, from 4pm, Gallery MC, 549 W 52nd St. Returning for a 4th year as the flagship closing night. Black tie. Investors, family offices, institutional leaders and decision-makers. Included with VIP tickets only.\n\nSep 19 · Pause the World for Peace, 11am to 1pm, Times Square. The 24th annual live clean energy International Day of Peace Concert, in collaboration with Paul Sladkus.\n\n12+ official events. 10 days. Midtown, the East Village and Times Square.\n\nWho Attends\n\nA curated audience across the week, including senior policymakers and government officials, institutional investors and family offices, energy executives and sustainability leaders, blockchain builders and protocol teams, AI and space economy pioneers, and fashion-tech and creative industry leaders.\n\nTickets\n\nWe are inside the final week before doors open, and VIP is capped.\n\nGeneral Admission, full week access. $399. Access to all public events, panels and runways. Bitcoin, AI, energy, space and fashion-tech content. Networking across the full week. Live calendar and side events. Digital pass and recordings.\n\nVIP Pass, all-access plus Gala. $1,499. Everything in General Admission, plus the Washington Elite Investment Summit and Gala on September 18. Premium networking lounge. VIP swag bag and photo ops. Priority seating at all key events. Private after-parties and investor dinners.\n\nLimited VIP tickets available.\n\nSecure your [ticket right here on this Luma page, or at blockchainweek.ai](https://blockchainweek.ai)\n\nBlockchain Week 2026 (UNGA Edition) is an independent initiative and is not affiliated with the United Nations.",
-    "startDate": "2026-09-10T22:00:00.000Z",
-    "endDate": "2026-09-19T19:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Gallery MC, 549 W 52nd St, New York, NY 10019, USA",
-    "url": "https://lu.ma/UNBlockchainWeek2026",
-    "coverImage": "/events/luma-evt-vddlobrppbf7c6k-cb855474.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bwue",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/UNBlockchainWeek2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Gallery MC",
-    "streetAddress": "549 W 52nd St, New York",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "neighborhood": "Hell's Kitchen",
-    "coordinates": {
-      "latitude": 40.7669429,
-      "longitude": -73.9929777
-    },
-    "hosts": [
-      "Bruce Porter Jr",
-      "David Porter",
-      "Lou Kerner",
-      "David Fung",
-      "Space DAO",
-      "Alexandra Reynolds"
-    ],
-    "price": "USD 399",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/UNBlockchainWeek2026",
-        "price": 399,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "VIP",
-        "url": "https://luma.com/UNBlockchainWeek2026",
-        "price": 1499,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/UNBlockchainWeek2026",
-      "eventId": "evt-vdDlObrPPBf7c6K",
-      "fetchedAt": "2026-09-19T23:49:17.661Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-JRloloPOnjwowzA",
     "name": "Coworking Fridays Belgrade | Superteam Balkan",
     "description": "## Free coworking in Belgrade, every Friday\n\nJoin founders, builders, and frens from the Solana and Balkan Web3 community.\n\nAttendance is free. Just register here.\n\n## What to expect?\n\n• friendly vibes\n• in-person help from the Superteam Balkan crew\n• great networking, free coffee and a cozy space\n\n## Who it's for?\n\n• founders, developers, designers, students (basically everyone)\n• anyone curious about Solana and building startups\n\n## Who are we?\n\nSuperteam Balkan is a non-profit community.\n\nWe incubate and fund the next wave of Balkan tech talent.\n\nWe help builders learn, build, and ship future-proof startups that use the Solana blockchain under the hood.\n\nWe don’t sell anything or offer investment advice.\n\n[Learn more about us](https://melted-replace-3a8.notion.site/Onboarding-13ed7c260a4d80e2a21cf9b223020e73)\n\n## What is Solana?\n\nSolana is a high-performance blockchain for building internet-scale apps that are fast, low-cost, and energy-efficient.\n\nDevelopers from around the world are building apps on Solana for a fast, secure, scalable, global and user-friendly future. A future that's only possible on Solana.\n\nBy signing up, you agree that Superteam Balkan can contact you about future events and updates.",
@@ -313,21 +249,6 @@
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
-  },
-  {
-    "id": "w3v-hackindia-spark-12-jaipur",
-    "name": "HackIndia Spark-12 Jaipur",
-    "description": "HackIndia Spark-12: a September 18–19, 2026 hackathon covering AI, Web3, blockchain, DeepTech and IoT.",
-    "startDate": "2026-09-18T07:00:00.000Z",
-    "endDate": "2026-09-19T19:00:00.000Z",
-    "city": "Jaipur",
-    "country": "India",
-    "location": "Jaipur, IN",
-    "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan-north-india-region",
-    "coverImage": "/events/w3v-hackindia-spark-12-jaipur-06af4c3c.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026"
   },
   {
     "id": "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky",
@@ -14908,10 +14829,7 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/316361088/",
     "coverImage": null,
     "source": "meetup",
-    "month": "September 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "September 2026"
   },
   {
     "id": "w3v-seoul-creators-lunch-injective-26-10-01",
@@ -20420,7 +20338,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21472,7 +21390,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22676,7 +22597,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316749553-4ef65602.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23960,10 +23881,7 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Jordan Boich"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",

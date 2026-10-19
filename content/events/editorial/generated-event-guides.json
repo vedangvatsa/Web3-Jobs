@@ -2640,40 +2640,6 @@
       }
     ]
   },
-  "premier-hackindia": {
-    "summaryLead": "HackIndia Spark-12 brings the national student hackathon series to Jaipur on September 18-19, 2026, with web3 and AI tracks aimed at emerging developers. Two days, one city, and a platform that claims the title of India's largest hackathon operation behind it.",
-    "sections": [
-      {
-        "heading": "Two days of shipping in the Pink City",
-        "content": [
-          "The format is familiar to anyone who has done a collegiate hackathon: teams form, mentors circulate, sleep becomes optional, and Sunday afternoon turns into a judging gauntlet. What distinguishes the Spark series is scale and repetition. HackIndia runs editions across Indian cities throughout the year, and Jaipur's installment slots in mid-September, giving Rajasthan's student developer community a top-tier event without the train ride to Bangalore or Delhi.",
-          "One caveat worth stating plainly: the specific event page on hackindia.org was not resolving when we checked, so confirm dates, venue, and prize details directly with the organizers before booking travel. The series itself is very much active, and the national platform continues to publish upcoming editions through its hackathons portal."
-        ]
-      },
-      {
-        "heading": "Web3 and AI tracks for emerging developers",
-        "content": [
-          "The dual web3-plus-AI structure mirrors where Indian student interest has actually gone. Campus builders increasingly treat the two as complementary rather than competing: smart contracts for verification and settlement, models for intelligence and automation. Projects at these events tend to range from DeFi primitives reimagined for UPI-era users to AI agents wired to on-chain data feeds.",
-          "For students, the value extends beyond prizes. HackIndia maintains networks of judges, mentors, and partner companies through its platform, publishes a gallery of winning hacks from past editions, and lists internships separately from its competition pages. Several participants treat the weekend as a hiring funnel as much as a contest, which is precisely how the organizers position it."
-        ]
-      },
-      {
-        "heading": "How the wider machine works",
-        "content": [
-          "HackIndia describes itself as India's largest hackathon platform, and the surrounding apparatus supports the claim: participating college lists, board of advisors, brand ambassadors across campuses, and an ecosystem directory that maps the projects and companies feeding off the events. There is even a prompt optimizer tool on the site, a small but telling nod to how its audience builds now.",
-          "The series' cadence matters for students planning a season. Spark editions run city by city through the year, which means a strong showing in Jaipur can feed into later rounds, mentor relationships, and visibility with partner companies that follow the whole circuit. Treat it as an entry point into a pipeline rather than a standalone weekend.",
-          "Community channels run through WhatsApp, Telegram-style group chats, GitHub, and the usual social platforms, with a contact number published for direct questions. First-timers should join those channels early; team formation, track announcements, and mentor office hours tend to flow through them in the weeks before kickoff."
-        ]
-      },
-      {
-        "heading": "Who should sign up",
-        "content": [
-          "Second- and third-year engineering students with some Solidity or Python under their belts fit the core profile, but the series consistently welcomes complete beginners who bring design or product skills instead. Mixed teams routinely outperform pure-technical squads at events like this, because judging rewards working demos over architectural ambition.",
-          "Jaipur's own developer scene has grown alongside Rajasthan's technical institutes, and a hometown event lowers the cost of entry considerably. Register through hackindia.org, watch the platform's news feed for the Jaipur page going live, and start forming teams before September arrives; the strongest hackathon outcomes begin weeks before anyone opens a laptop."
-        ]
-      }
-    ]
-  },
   "premier-connectseoul": {
     "summaryLead": "CONNECT by Cointelegraph lands in Seoul on September 28, 2026, bringing the media outlet's forum format to Korea Blockchain Week for a day of panels, networking, and the particular energy of a newsroom playing host.",
     "sections": [

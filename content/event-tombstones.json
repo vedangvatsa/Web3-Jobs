@@ -903,5 +903,34 @@
       "blockchain-beach-2026",
       "blockchain-beach"
     ]
+  },
+  "premier-unbw-2026": {
+    "until": "2027-10-19T19:31:40.465Z",
+    "slugs": [
+      "premier-unbw-2026",
+      "unbw-2026",
+      "un"
+    ]
+  },
+  "premier-hackindia": {
+    "until": "2027-10-19T19:31:40.465Z",
+    "slugs": [
+      "premier-hackindia",
+      "hackindia"
+    ]
+  },
+  "luma-evt-vdDlObrPPBf7c6K": {
+    "until": "2027-10-19T19:31:40.465Z",
+    "slugs": [
+      "luma-evt-vddlobrppbf7c6k",
+      "bwue"
+    ]
+  },
+  "luma-crypto-1o1FB3qFyWCYtEi": {
+    "until": "2027-10-19T19:31:40.465Z",
+    "slugs": [
+      "luma-crypto-1o1fb3qfywcytei",
+      "cohvpj"
+    ]
   }
 }
