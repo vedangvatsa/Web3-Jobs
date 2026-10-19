@@ -27139,9 +27139,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b4e22925-15a2-4157-b94c-2dfe81559952",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad60156be29a9b16b35b8ba",
-      "error": "LinkedIn #Web3 receipt 6ad60156be29a9b16b35b8ba remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad60156be29a9b16b35b8ba remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517912279149973504"
     },
     {
       "slug": "sup6",
