@@ -27287,8 +27287,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "13a28f41-44c4-4448-b457-9714e68c3a93",
-      "verification": "pending",
-      "postId": "6ad6703f642abc3846c37c21"
+      "verification": "verified",
+      "postId": "6ad6703f642abc3846c37c21",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112265591268511765"
     }
   ]
 }
