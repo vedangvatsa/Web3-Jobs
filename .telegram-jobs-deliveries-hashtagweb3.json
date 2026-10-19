@@ -3104,7 +3104,7 @@
     "sentAt": "2026-10-18T19:33:31.197Z"
   },
   "2ae4cf7a-858f-4308-8253-6cae8c4f87b6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T11:34:19.805Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3154,6 +3154,8 @@
       }
     ],
     "message": "- Aspora is hiring <a href=\"https://hashtagweb3.com/eng446?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/pm219?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Compliance Product</a>",
-    "slotKey": "2026-10-19:afternoon"
+    "slotKey": "2026-10-19:afternoon",
+    "messageId": 155845,
+    "sentAt": "2026-10-19T11:34:22.460Z"
   }
 }
