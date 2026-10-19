@@ -1756,5 +1756,36 @@
     "slotKey": "2026-10-18:evening",
     "messageId": 155836,
     "sentAt": "2026-10-18T19:36:56.944Z"
+  },
+  "18b817ce-5530-4dea-a8cd-9ec745dc777d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T11:35:41.735Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum Foundation Launches Private API Payment System on Mainnet",
+        "summary": "The zero-knowledge tool enables users to pay for metered APIs without revealing their identities.",
+        "link": "https://hashtagweb3.com/zkapi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Foundation launches zkAPI private metered credits on mainnet"
+      },
+      {
+        "index": -1,
+        "headline": "Russia pays ministry staff in digital ruble pilot",
+        "summary": "A group of ministry workers received voluntary salary payments in the new currency on October 1, 2026.",
+        "link": "https://hashtagweb3.com/ruble-wages?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Russia finance ministry pays staff wages in digital rubles"
+      },
+      {
+        "index": -1,
+        "headline": "Zcash Advocacy Group Registers First Washington Lobbyist",
+        "summary": "Executive director Divij Pandya will lobby on market-structure and tax measures starting October 1, 2026.",
+        "link": "https://hashtagweb3.com/zcash-lobbyist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Advocacy Group Registers Its First Washington Lobbyist Effective October 1"
+      }
+    ],
+    "slotKey": "2026-10-19:afternoon"
   }
 }
