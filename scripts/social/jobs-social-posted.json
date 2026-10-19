@@ -26007,7 +26007,8 @@
       },
       "account": "channel:base",
       "attemptId": "25d5d57d-46d8-4286-9d6c-d92c0bca281d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x81e24f29ed8a4d4ac8841b6779795e470ac2bf1e"
     }
   ]
 }
