@@ -3159,7 +3159,7 @@
     "sentAt": "2026-10-19T11:34:22.460Z"
   },
   "4ecbd2ee-4b01-4fe7-846a-fce3dfde928d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T19:32:03.685Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3229,6 +3229,8 @@
       }
     ],
     "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Compensation</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/be40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Backend</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/ops109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Manager, Global Treasury Operations</a>",
-    "slotKey": "2026-10-19:evening"
+    "slotKey": "2026-10-19:evening",
+    "messageId": 155847,
+    "sentAt": "2026-10-19T19:32:10.278Z"
   }
 }
