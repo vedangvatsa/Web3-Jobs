@@ -3157,5 +3157,78 @@
     "slotKey": "2026-10-19:afternoon",
     "messageId": 155845,
     "sentAt": "2026-10-19T11:34:22.460Z"
+  },
+  "4ecbd2ee-4b01-4fe7-846a-fce3dfde928d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T19:32:03.685Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "cdb80779-5cce-4f4d-a1f8-fc689770c14b",
+          "title": "Director, Compensation",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/cdb80779-5cce-4f4d-a1f8-fc689770c14b",
+          "date": "2026-10-16T13:13:45.488000-07:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Austin, TX - Hybrid",
+          "department": "People Operations ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dc"
+        },
+        "key": "cdb80779-5cce-4f4d-a1f8-fc689770c14b",
+        "slug": "dc",
+        "url": "https://hashtagweb3.com/dc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Director, Compensation"
+      },
+      {
+        "snapshot": {
+          "id": "8230952",
+          "title": "Senior Software Engineer, Backend",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8230952",
+          "date": "2026-09-24T12:53:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle, WA",
+          "department": "Global Operations",
+          "active": true,
+          "salary": "$206.1k – $285.6k/yr",
+          "dateVerified": true,
+          "slug": "be40"
+        },
+        "key": "8230952",
+        "slug": "be40",
+        "url": "https://hashtagweb3.com/be40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "7767519",
+          "title": "Treasury Manager, Global Treasury Operations",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/7767519?gh_jid=7767519",
+          "date": "2026-10-16T18:43:24-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "San Francisco, CA, United States",
+          "department": "Finance",
+          "active": true,
+          "salary": "$152k – $190k/yr",
+          "dateVerified": true,
+          "slug": "ops109"
+        },
+        "key": "7767519",
+        "slug": "ops109",
+        "url": "https://hashtagweb3.com/ops109?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Treasury Manager"
+      }
+    ],
+    "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/dc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Compensation</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/be40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Backend</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/ops109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Manager, Global Treasury Operations</a>",
+    "slotKey": "2026-10-19:evening"
   }
 }
