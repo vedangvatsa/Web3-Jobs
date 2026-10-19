@@ -28607,7 +28607,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "3931f83c-d81a-4c56-acb8-8fd624cf721b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x76f88830270bc2112ff97686412f10dc45a0e86b"
     }
   ]
 }
