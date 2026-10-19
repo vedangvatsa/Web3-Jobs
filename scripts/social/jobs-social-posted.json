@@ -28095,7 +28095,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "b873e098-5ad8-4268-8b7f-750cea1885f0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518031901828407296"
     }
   ]
 }
