@@ -28294,6 +28294,40 @@
       "attemptId": "0465b01a-878f-4174-8871-508ac1c157ee",
       "verification": "verified",
       "postId": "0xa2095314f83fbeda14eff54ba9f3650804df2aa3"
+    },
+    {
+      "slug": "aso23",
+      "company": "FalconX",
+      "title": "Customer Due Diligence Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-19T19:35:00.521Z",
+      "expectedText": "FalconX is hiring Customer Due Diligence Associate\n\nhttps://hashtagweb3.com/aso23/fc?og=7",
+      "snapshot": {
+        "id": "4741248005",
+        "title": "Customer Due Diligence Associate",
+        "company": "FalconX",
+        "link": "https://job-boards.greenhouse.io/falconx/jobs/4741248005",
+        "date": "2026-10-13T01:55:46-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: FalconX [falconx]",
+        "location": "Malta",
+        "department": "Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso23"
+      },
+      "payload": {
+        "text": "FalconX is hiring Customer Due Diligence Associate\n\nhttps://hashtagweb3.com/aso23/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso23/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "8a2d8d70-9e67-46df-8d36-ec455c81f381",
+      "verification": "creating"
     }
   ]
 }
