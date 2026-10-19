@@ -6258,7 +6258,7 @@
     "sentAt": "2026-10-19T11:33:53.709Z"
   },
   "dde1ee3a-6d88-405d-aba3-cc6e517aafed": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T11:34:01.321Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -6369,6 +6369,8 @@
       }
     ],
     "message": "- Solflare is hiring <a href=\"https://hashtagweb3.com/an53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Analyst</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/mgr154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Campus Construction Manager</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/mgr91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/fpa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Planning &amp; Analysis, Principal</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/rec40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>",
-    "slotKey": "2026-10-19:afternoon"
+    "slotKey": "2026-10-19:afternoon",
+    "messageId": 137,
+    "sentAt": "2026-10-19T11:34:12.764Z"
   }
 }
