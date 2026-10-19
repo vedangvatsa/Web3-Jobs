@@ -1822,5 +1822,36 @@
     "slotKey": "2026-10-18:evening",
     "messageId": 65762,
     "sentAt": "2026-10-18T19:37:18.109Z"
+  },
+  "cf97835f-fa4d-4992-87ee-78fdd92e758d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T11:35:17.143Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum Foundation launches private API payment tool zkAPI",
+        "summary": "The zero-knowledge system enables users to pay for metered APIs without revealing their personal identity.",
+        "link": "https://hashtagweb3.com/zkapi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Foundation launches zkAPI private metered credits on mainnet"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Submits Proposed Crypto Rules to White House",
+        "summary": "The agency submitted its prerule proposal on Sept. 17, 2026, days after the Senate blocked the Clarity Act.",
+        "link": "https://hashtagweb3.com/cftc-markets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Sends Crypto Market Rulemaking to White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "ECB President Lagarde Reportedly Delayed Binance License in Greece",
+        "summary": "The ECB leader allegedly blocked the Greek application while the exchange reaffirmed its commitment to operating within Europe.",
+        "link": "https://hashtagweb3.com/binance-mica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "WSJ Reports Lagarde Intervened to Stall Binance MiCA License"
+      }
+    ],
+    "slotKey": "2026-10-19:afternoon"
   }
 }
