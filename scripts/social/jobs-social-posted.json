@@ -26217,7 +26217,8 @@
       },
       "account": "channel:design",
       "attemptId": "a14263b4-90b9-488d-8090-c40c9fb00243",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7bb19ad71cd660d9316fbf3cf6f2cf83dd1e3d56"
     }
   ]
 }
