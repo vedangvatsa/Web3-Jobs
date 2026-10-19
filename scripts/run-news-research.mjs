@@ -42,7 +42,7 @@ async function main() {
   if (researchReport(loadResearch(), day).status === 'completed') return;
   const brief = fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
   const binary = process.env.OPENCODE_BIN || path.join(os.homedir(), '.opencode/bin/opencode');
-  const invoke = prompt => execFileSync(binary, ['run', '--model', process.env.NEWS_MODEL || 'opencode/muse-spark-1.3-contributor-free', prompt], { stdio: 'inherit' });
+  const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', process.env.NEWS_MODEL || 'opencode/minimax-m3.1-flash-free', prompt], { stdio: 'inherit' });
   await runValidatedResearch({
     remaining: () => writeReport(loadResearch(), day).counts.unreviewed,
     reviewed: () => { const report = researchReport(loadResearch(), day); return report.candidates - report.counts.unreviewed; },
