@@ -14,6 +14,7 @@ async function main() {
   const slugs = process.argv.slice(2), files = slugs.map(slug => `${slug}.md`), errors: string[] = [], urls = new Set<string>();
   if (!slugs.length || slugs.some(slug => !/^[a-z0-9]+(?:-[a-z0-9]+)?$/.test(slug))) throw new Error('Provide new article slugs');
   for (const slug of slugs) {
+    if (!/^[a-z0-9]+$/.test(slug)) errors.push(`${slug}: new news URLs must use one lowercase word without hyphens`);
     const file = path.join('content/articles', `${slug}.md`);
     const { data, content } = matter(fs.readFileSync(file, 'utf8'));
     if (data.category !== 'News') errors.push(`${slug}: category must be News`);

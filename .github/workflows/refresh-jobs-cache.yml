@@ -61,6 +61,10 @@ on:
         description: 'Draft news articles only. No ingest, email, posts, or deploy'
         type: boolean
         default: false
+      news_recovery_run:
+        description: 'Recover same-day news drafts and deploy, without social/email; only_news keeps deployment off'
+        type: string
+        default: ''
 
 concurrency:
   # One group per slot so the afternoon run cannot cancel a morning run still going.
@@ -85,6 +89,8 @@ jobs:
         with:
           ref: main
       - id: set
+        env:
+          NEWS_RECOVERY_RUN: ${{ inputs.news_recovery_run }}
         run: |
           set -euo pipefail
           node --test scripts/social/publish-slot-plan.test.mjs
@@ -106,6 +112,18 @@ jobs:
             echo "social=false" >> "$GITHUB_OUTPUT"
             echo "videos=false" >> "$GITHUB_OUTPUT"
             echo "slot=morning" >> "$GITHUB_OUTPUT"
+            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ -n "$NEWS_RECOVERY_RUN" ] && [ "${{ github.event.inputs.only_news }}" != "true" ] && [ "${{ github.event.inputs.news_dry_run }}" != "true" ]; then
+            [[ "$NEWS_RECOVERY_RUN" =~ ^[0-9]+$ ]] || exit 1
+            echo "morning=false" >> "$GITHUB_OUTPUT"
+            echo "news=true" >> "$GITHUB_OUTPUT"
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+            echo "social=false" >> "$GITHUB_OUTPUT"
+            echo "videos=false" >> "$GITHUB_OUTPUT"
+            echo "slot=recovery" >> "$GITHUB_OUTPUT"
             echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
             echo "skip=false" >> "$GITHUB_OUTPUT"
             exit 0
@@ -278,6 +296,7 @@ jobs:
     timeout-minutes: 180
     permissions:
       contents: write
+      actions: read
     outputs:
       articles_changed: ${{ steps.publish.outputs.articles_changed }}
     concurrency:
@@ -303,11 +322,25 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Test daily news discovery and publication
-        run: node --test scripts/check-news-writer.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+        run: node --test scripts/check-news-writer.test.mjs scripts/restore-news-drafts.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
       - name: Prepare the daily candidate queue
         id: research
         run: node scripts/news-research.mjs prepare
+
+      - name: Download unpublished news recovery
+        if: ${{ inputs.news_recovery_run != '' && steps.research.outputs.needs_writer == 'true' }}
+        uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          run-id: ${{ inputs.news_recovery_run }}
+          name: news-research-${{ inputs.news_recovery_run }}-1
+          path: .cache/news-research-restore
+
+      - name: Restore unpublished drafts for fresh review
+        if: ${{ inputs.news_recovery_run != '' && steps.research.outputs.needs_writer == 'true' }}
+        run: node scripts/restore-news-drafts.mjs
 
       - name: Install opencode
         if: ${{ steps.research.outputs.needs_writer == 'true' }}

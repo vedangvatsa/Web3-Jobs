@@ -75,7 +75,7 @@ names, or plans.
 
 ## 3. Write (follow content/articles/AGENTS.md exactly)
 
-- File: content/articles/<one-or-two-word-slug>.md, `category: News`, complete
+- File: content/articles/<single-lowercase-word>.md (no hyphens), `category: News`, complete
   front matter (title, ogTitle UPPER, description, image, data-ai-hint,
   publishedDate/lastUpdated = today, never future).
 - 600+ words of body prose (target 650-900).
@@ -176,7 +176,7 @@ CI can invoke up to three further repair rounds using this feedback.
 - `npx tsc --noEmit` → zero errors (if unrelated files fail, report and stop
   without pushing anything — never push on a red tree).
 - Every outbound link in your articles returns HTTP 200 (curl check).
-- Slug is 1-2 lowercase hyphenated words, no collision with existing files.
+- Slug is one lowercase word without hyphens, with no collision with existing files. Never rename published URLs; this rule applies to new articles only.
 - Never touch unrelated files.
 
 ## 6. Finish the daily review

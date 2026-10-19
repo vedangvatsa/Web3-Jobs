@@ -36,7 +36,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
     for (const [key, value] of Object.entries(planSlot(state, slot, today, new Date()))) console.log(`${key}=${value}`);
   } else if (action === 'record') {
     const plan = JSON.parse(process.env.PUBLISH_PLAN);
-    if (SLOTS.includes(plan.slot)) {
+    if (SLOTS.includes(plan.slot) || plan.slot === 'recovery') {
       for (const key of ['morning', 'news', 'deploy', 'social']) plan[key] = plan[key] === 'true';
       fs.writeFileSync(file, `${JSON.stringify(recordSlot(state, plan, JSON.parse(process.env.PUBLISH_RESULTS)), null, 2)}\n`);
     }

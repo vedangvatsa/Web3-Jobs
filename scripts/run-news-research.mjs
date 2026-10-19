@@ -41,7 +41,10 @@ export async function runValidatedResearch({ remaining, reviewed, write, validat
 async function main() {
   const { day } = currentRun();
   if (researchReport(loadResearch(), day).status === 'completed') return;
-  const brief = fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
+  const recovery = fs.existsSync('.cache/news-research/restored.json')
+    ? 'Saved unpublished drafts and images were restored. Read .cache/news-research/restored.json for their previous source checks. Re-review them against the current queue and editorial guide before recording ready outcomes. They are not published or approved. Repair noncompliant slugs and content; reuse verified work instead of drafting it again.\n\n'
+    : '';
+  const brief = recovery + fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
   const binary = process.env.OPENCODE_BIN || path.join(os.homedir(), '.opencode/bin/opencode');
   const model = requireFreeNewsModel(process.env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free');
   const config = { ...JSON.parse(process.env.OPENCODE_CONFIG_CONTENT || '{}'), small_model: model, autoupdate: false };

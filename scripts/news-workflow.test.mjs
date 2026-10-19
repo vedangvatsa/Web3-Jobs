@@ -69,3 +69,16 @@ test('website recovery refreshes content without social, email or an overlapping
   assert.match(workflow.jobs['job-alerts'].if, /website_recovery != 'true'/);
   assert.deepEqual(workflow.jobs['refresh-events'].needs, ['gate']);
 });
+
+test('saved news recovery restores only after preparing a fresh queue and deploys without social', () => {
+  const news = workflow.jobs['publish-news'];
+  assert.equal(news.permissions.actions, 'read');
+  const prepare = news.steps.findIndex(step => step.id === 'research');
+  const restore = news.steps.findIndex(step => step.run === 'node scripts/restore-news-drafts.mjs');
+  const writer = news.steps.findIndex(step => step.id === 'draft');
+  assert.ok(prepare < restore && restore < writer);
+  const gate = workflow.jobs.gate.steps.find(step => step.id === 'set').run;
+  const recovery = gate.slice(gate.indexOf('if [ -n "$NEWS_RECOVERY_RUN" ]'), gate.indexOf('if [ "${{ github.event.inputs.only_news }}" ='));
+  for (const flag of ['morning=false', 'news=true', 'deploy=true', 'social=false', 'videos=false', 'slot=recovery']) assert.ok(recovery.includes(flag));
+  assert.ok(recovery.includes('inputs.news_dry_run }}" != "true"'));
+});

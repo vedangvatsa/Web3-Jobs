@@ -80,3 +80,11 @@ test('news recovered after the jobs rollout stays deployment-due until shipped',
   const quiet = recordSlot(morning, recovery, { news: 'success', newsChanged: 'false', deploy: 'skipped' });
   assert.equal(planSlot(quiet, 'evening', today).deploy, false);
 });
+
+test('news-only recovery records publication and failed rollout without stamping social slots', () => {
+  const state = { ingested: today, deployed: today, slots: { afternoon: today } };
+  const next = recordSlot(state, { date: today, slot: 'recovery', morning: false, news: true, deploy: true, social: false }, { news: 'success', newsChanged: 'true', deploy: 'failure' });
+  assert.equal(next.news, today);
+  assert.equal(planSlot(next, 'evening', today).deploy, true);
+  assert.deepEqual(next.slots, state.slots);
+});

@@ -29,4 +29,8 @@
 
 The user replaced the expired credential on October 19. The initial tools-denied readiness probe then hit [OpenCode issue #50627](https://github.com/anomalyco/opencode/issues/50627): removing the normal tool definitions triggers a misleading free-tier origin error. Using approval-required permissions instead produced `NEWS_WRITER_READY` with reported cost zero on the official 1.19.2 CLI and `opencode/deepseek-v4.1-flash-free`. No tool calls or approvals occurred. A briefly dispatched paid-model probe was cancelled before its research step; the repository model variable was restored to the free variant.
 
-Publication and live deployment still require verification after the corrected readiness probe ships.
+The corrected GitHub runner passed readiness and produced 15 draft articles before interruption. The recovery artifact `news-research-39276184030-1` was downloaded and its 15 articles plus 15 images were successfully restored into an isolated validation directory. They remain unpublished and require fresh review and the full publication gates.
+
+To resume a saved same-day artifact, dispatch `refresh-jobs-cache.yml` with `news_recovery_run=39276184030`. This prepares a fresh queue, restores only unpublished article/image paths without overwriting anything, re-reviews the drafts, and deploys after publication. It disables job ingestion, email, videos, and social sending. Add `only_news=true` to keep deployment off as well. Cross-day recovery is rejected rather than silently changing publication dates.
+
+GitHub reported [degraded Actions, Pages, and Webhooks](https://stspg.io/nrv2k8s68bwn) during recovery on October 19. API job statuses and logs were intermittently stale or returned 502. Read-only artifact recovery confirmed the saved drafts despite the misleading run status. Publication and live deployment still require verification after the queued recovery and deployment jobs finish.
