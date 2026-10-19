@@ -2600,5 +2600,53 @@
     "slotKey": "2026-10-19:afternoon",
     "messageId": 155844,
     "sentAt": "2026-10-19T11:33:30.665Z"
+  },
+  "a6361f35-0a60-49e1-aa90-7f57b9833636": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T19:31:56.940Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "india-luma-0ej7kbb0",
+        "slug": "ethwali",
+        "name": "ETHwali",
+        "startDate": "2026-11-08T12:30:00.000Z",
+        "keys": [
+          "india-luma-0ej7kbb0",
+          "0ej7kbb0",
+          "page:ethwali:2026-11-08",
+          "luma:evt-8ive1cpkacmdv2h",
+          "luma-url:/0ej7kbb0",
+          "event:ethwali:2026-11-08:mumbai"
+        ]
+      },
+      {
+        "id": "premier-unbanked",
+        "slug": "unbanked-london",
+        "name": "The (un)Banked London 2026",
+        "startDate": "2026-11-09",
+        "keys": [
+          "premier-unbanked",
+          "the",
+          "page:unbanked-london:2026-11-09",
+          "url:theunbanked.finance/london:2026-11-09",
+          "event:theunbankedlondon2026:2026-11-09:london"
+        ]
+      },
+      {
+        "id": "premier-bitcoinhistorico",
+        "slug": "bitcoin-historico",
+        "name": "Bitcoin Histórico 2026",
+        "startDate": "2026-11-11T09:00:00.000Z",
+        "keys": [
+          "premier-bitcoinhistorico",
+          "bitcoin2",
+          "page:bitcoin-historico:2026-11-11",
+          "event:bitcoinhistórico2026:2026-11-11:mexico city"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-19:evening"
   }
 }
