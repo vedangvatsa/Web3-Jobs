@@ -285,7 +285,7 @@ jobs:
       cancel-in-progress: false
     env:
       OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-      NEWS_MODEL: ${{ inputs.news_model || 'opencode/minimax-m3.1-flash-free' }}
+      NEWS_MODEL: ${{ inputs.news_model || vars.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free' }}
       NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
       NEWS_DATE: ${{ needs.gate.outputs.date }}
       NEWS_OPENCODE_VERSION: v1.19.2
@@ -303,7 +303,7 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Test daily news discovery and publication
-        run: node --test scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+        run: node --test scripts/check-news-writer.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
       - name: Prepare the daily candidate queue
         id: research
@@ -324,6 +324,10 @@ jobs:
           chmod 755 "$HOME/.opencode/bin/opencode"
           "$HOME/.opencode/bin/opencode" --version
           test "$("$HOME/.opencode/bin/opencode" --version)" = "${VERSION#v}"
+
+      - name: Check news model availability and response
+        if: ${{ steps.research.outputs.needs_writer == 'true' }}
+        run: node scripts/check-news-writer.mjs
 
       - name: Install image tooling (Pillow fallback for Linux resize)
         if: ${{ steps.research.outputs.needs_writer == 'true' }}

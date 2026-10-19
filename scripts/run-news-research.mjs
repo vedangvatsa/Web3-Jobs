@@ -42,7 +42,11 @@ async function main() {
   if (researchReport(loadResearch(), day).status === 'completed') return;
   const brief = fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
   const binary = process.env.OPENCODE_BIN || path.join(os.homedir(), '.opencode/bin/opencode');
-  const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', process.env.NEWS_MODEL || 'opencode/minimax-m3.1-flash-free', prompt], { stdio: 'inherit' });
+  const model = process.env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free';
+  const config = { ...JSON.parse(process.env.OPENCODE_CONFIG_CONTENT || '{}'), small_model: model, autoupdate: false };
+  const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', model, prompt], {
+    stdio: 'inherit', env: { ...process.env, OPENCODE_CONFIG_CONTENT: JSON.stringify(config) },
+  });
   await runValidatedResearch({
     remaining: () => writeReport(loadResearch(), day).counts.unreviewed,
     reviewed: () => { const report = researchReport(loadResearch(), day); return report.candidates - report.counts.unreviewed; },
