@@ -115,9 +115,10 @@
     "1": {
       "createClaim": "1c465c58-9f32-4483-80d6-8f71d32771b9",
       "startedAt": "2026-10-19T11:32:22.363Z",
-      "status": "container-created",
+      "status": "publishing",
       "replyTo": "18193780786398609",
-      "containerId": "18097705814199925"
+      "containerId": "18097705814199925",
+      "publishClaim": "b6e75ff1-8d81-4d48-958b-2760da47f07e"
     }
   }
 }
