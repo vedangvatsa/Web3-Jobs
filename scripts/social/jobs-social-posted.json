@@ -25764,6 +25764,40 @@
       "attemptId": "636a63d5-9a2b-4f63-bc2d-6fe07684c22a",
       "verification": "verified",
       "postId": "0xee35b9e1f80bd40da3f4a58f3af763cf38acd234"
+    },
+    {
+      "slug": "sls299",
+      "company": "Block",
+      "title": "Mid-Market Account Excutive",
+      "platform": "farcaster",
+      "postedAt": "2026-10-19T11:34:01.814Z",
+      "expectedText": "Block is hiring Mid-Market Account Excutive\n\nhttps://hashtagweb3.com/sls299/fc?og=7",
+      "snapshot": {
+        "id": "5428149008",
+        "title": "Mid-Market Account Excutive",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5428149008?gh_jid=5428149008",
+        "date": "2026-10-15T13:35:24-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Sydney, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls299"
+      },
+      "payload": {
+        "text": "Block is hiring Mid-Market Account Excutive\n\nhttps://hashtagweb3.com/sls299/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls299/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "3779e662-3b91-4847-9552-dc549e7f2d2a",
+      "verification": "creating"
     }
   ]
 }
