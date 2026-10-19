@@ -12,7 +12,7 @@
 ## Changes
 
 - Pin the CLI release rather than installing an untested latest release every day.
-- Default to `opencode/deepseek-v4.1-flash-free`, also used for session-title generation. A workflow input or the `NEWS_MODEL` repository variable can override it.
+- The `NEWS_MODEL` repository variable is now `opencode/mimo-v2.6-flash-free`, the model that completed recovery. The code fallback is `opencode/deepseek-v4.1-flash-free`; both are among the four approved free variants. The selected model also handles session-title generation.
 - Refresh the model catalog and require a real readiness response before research starts. The probe requires approval for tools, supplies no approvals, and rejects tool-call events. CLI exit code zero alone is not enough: OpenCode can return an error event with that exit code.
 - Limit writer models to the four approved free variants (DeepSeek, GLM, MiniMax, MiMo); never substitute a paid counterpart. The selected free model also handles title generation.
 - Print warning/error diagnostics so missing models and expired credentials are visible in Actions.
@@ -33,6 +33,15 @@ The corrected GitHub runner passed readiness and produced 15 draft articles befo
 
 To resume a saved same-day artifact, dispatch `refresh-jobs-cache.yml` with `news_recovery_run=39276184030`. This prepares a fresh queue, restores only unpublished article/image paths without overwriting anything, re-reviews the drafts, and deploys after publication. It disables job ingestion, email, videos, and social sending. Add `only_news=true` to keep deployment off as well. Cross-day recovery is rejected rather than silently changing publication dates.
 
-GitHub reported [degraded Actions, Pages, and Webhooks](https://stspg.io/nrv2k8s68bwn) during recovery on October 19. API job statuses and logs were intermittently stale or returned 502. Read-only artifact recovery confirmed the saved drafts despite the misleading run status. Publication and live deployment still require verification after the queued recovery and deployment jobs finish.
+GitHub reported [degraded Actions, Pages, and Webhooks](https://stspg.io/nrv2k8s68bwn) during recovery on October 19. API job statuses and logs were intermittently stale or returned 502. Read-only artifact recovery confirmed the saved drafts despite the misleading run status. At that stage, publication and live deployment still required verification.
 
-The first recovery restored all drafts and renamed them, but the writer built shell command strings whose quoted notes were split into separate arguments. The CLI correctly rejected those incomplete review notes, and publication remained blocked. `record-batch --reviews=<JSON file>` now preserves quotes/currency signs and validates all outcomes before writing a checkpoint. The brief also identifies the queue/report JSON shapes and existing root-URL reservations. Recovery uses its own workflow concurrency group and skips unrelated event crawling. The next recovery invocation uses the approved free MiMo model; the normal default remains the approved free DeepSeek model.
+The first recovery restored all drafts and renamed them, but the writer built shell command strings whose quoted notes were split into separate arguments. The CLI correctly rejected those incomplete review notes, and publication remained blocked. `record-batch --reviews=<JSON file>` now preserves quotes/currency signs and validates all outcomes before writing a checkpoint. The brief also identifies the queue/report JSON shapes and existing root-URL reservations. Recovery uses its own workflow concurrency group and skips unrelated event crawling.
+
+## Resolved and verified
+
+- Recovery run [39287451994](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39287451994) completed successfully, including research, publication, deployment, live-catalog verification, and completion stamps.
+- The October 19 batch completed at 17:20 UTC: **532 candidates, 15 published, 411 rejected, 106 deferred**, with no validation errors. Deferred candidates retain their documented retry reasons; there is no 15-article quota.
+- Publication commit: `6bde0e1f9b77abee06ed9a89c54b9336aad440a2`.
+- Firebase build `manual-1792430494` and rollout `rollout-manual-1792431894` succeeded; rollout completed at 17:45 UTC.
+- Verified all 15 new URLs return HTTP 200, self-referencing canonicals, NewsArticle JSON-LD, and accessible hero images. All 15 appear in the live `/news` listing and `/data/articles-index.json`, dated October 19.
+- Configured future daily runs to use `opencode/mimo-v2.6-flash-free`; paid models remain rejected by the writer guard. Resend broadcasts remain paused, and recovery did not replay social posts or email.
