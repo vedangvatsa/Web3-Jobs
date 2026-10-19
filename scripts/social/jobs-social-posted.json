@@ -26607,7 +26607,8 @@
       },
       "account": "channel:web3",
       "attemptId": "1ecc54e1-b2f0-4653-9df5-bc68bcb681e7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc6addb8ad28a781210c3d71842422aa1665f63fc"
     }
   ]
 }
