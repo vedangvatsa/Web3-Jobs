@@ -276,7 +276,7 @@ export async function middleware(request: NextRequest) {
     if (lastSlashIdx !== -1 || normalised) {
       const segment = normalised.slice(lastSlashIdx + 1).toLowerCase();
 
-      if (segment && Object.hasOwn(SOCIAL_UTM_MAP, segment)) {
+      if (segment && Object.hasOwn(SOCIAL_UTM_MAP, segment) && stripSocialPathSuffix(normalised) !== normalised) {
         const config = SOCIAL_UTM_MAP[segment];
         const basePath = normalised.slice(0, lastSlashIdx).toLowerCase() || '/';
 

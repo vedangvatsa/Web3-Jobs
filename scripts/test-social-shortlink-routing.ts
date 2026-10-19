@@ -13,7 +13,7 @@ import nextConfig from '../next.config.mjs';
 import { config, middleware } from '../src/middleware';
 import { isExpiredJobPath } from '../src/lib/job-age-path';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
-import { isLinkPreviewCrawlerRequest, linkPreviewPreviewPath, PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from '../src/lib/social-share';
+import { isLinkPreviewCrawlerRequest, linkPreviewPreviewPath, PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP, stripSocialPathSuffix } from '../src/lib/social-share';
 import { GLOSSARY_CATEGORIES } from '../src/types/glossary';
 import jobDates from '../content/job-age-paths.json';
 import events from '../content/events-runtime.json';
@@ -97,6 +97,7 @@ test('all public app pages, nested glossary categories and content types accept 
   ])];
   let checked = 0;
   for (const page of pages) for (const [suffix, attribution] of suffixes) for (const method of ['GET', 'HEAD']) {
+    if (page === '/' && suffix === 'dc') continue;
     const path = `${page === '/' ? '' : page}/${suffix}${attributionQuery}`;
     const browser = await routeRequest(path, method);
     assert.equal(browser.status, 307, `${method} ${path}`);
@@ -112,6 +113,28 @@ test('all public app pages, nested glossary categories and content types accept 
     checked++;
   }
   t.diagnostic(`${pages.length} public paths, ${suffixes.length} suffixes, GET/HEAD, browser and five crawler profiles: ${checked} requests`);
+});
+
+test('the assigned /dc job URL cannot become a homepage Discord shortlink', async () => {
+  assert.equal(stripSocialPathSuffix('/dc'), '/dc');
+  assert.equal(stripSocialPathSuffix('/DC/'), '/DC');
+  assert.equal(stripSocialPathSuffix('/dc/dc'), '/dc');
+  assert.equal(stripSocialPathSuffix('/discord'), '/');
+  assert.equal(linkPreviewPreviewPath('/dc', 'Googlebot/2.1', true), null);
+  assert.equal(linkPreviewPreviewPath('/dc', 'Twitterbot/1.0', true), '/preview/dc.html');
+  assert.equal(linkPreviewPreviewPath('/dc/x', 'node-fetch/1.0', true), '/preview/dc.html');
+  if (!isExpiredJobPath('/dc') && !isRemovedJobPath('/dc')) {
+    for (const method of ['GET', 'HEAD']) {
+      const response = await routeRequest('/dc', method);
+      assert.equal(response.headers.get('location'), null);
+      assert.equal(response.headers.get('x-middleware-rewrite'), null);
+    }
+    for (const [suffix, attribution] of suffixes) {
+      const response = await routeRequest(`/dc/${suffix}${attributionQuery}`);
+      assert.equal(response.status, 307);
+      assertAttribution(new URL(response.headers.get('location')!), '/dc', attribution);
+    }
+  }
 });
 
 test('suffix and page casing, trailing slashes, campaign defaults and RSC navigations preserve attribution', async () => {

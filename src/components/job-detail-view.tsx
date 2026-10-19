@@ -7,10 +7,14 @@ import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
-import { cleanJobLocation, getPrimaryJobLocation, isRemoteJob } from '@/lib/job-location';
+import { resolveJobLocation } from '@/lib/job-location';
+import { buildJobPostingSchema } from '@/lib/job-posting-schema';
+import { isGenericJobTemplateHtml } from '@/lib/job-guides';
 import { getImageVariants } from '@/lib/responsive-images-server';
-import { isJobAgeEligible, MAX_JOB_AGE_DAYS } from '@/lib/job-age-policy.mjs';
+import { isJobAgeEligible } from '@/lib/job-age-policy.mjs';
 import { notFound } from 'next/navigation';
+
+export { parseJobAddress, ensureAddressCountry, toAddressCountryCode } from '@/lib/job-posting-location';
 
 interface JobDetailViewProps {
   job: Job;
@@ -31,202 +35,6 @@ function getPostedLabel(date: string): string | null {
   return `Posted ${daysAgo} days ago`;
 }
 
-/** US state/territory names (lowercased) to ISO subdivision abbreviations. */
-const US_STATE_ABBRS: Record<string, string> = {
-  alabama: 'AL', alaska: 'AK', arizona: 'AZ', arkansas: 'AR', california: 'CA',
-  colorado: 'CO', connecticut: 'CT', delaware: 'DE', 'district of columbia': 'DC',
-  florida: 'FL', georgia: 'GA', hawaii: 'HI', idaho: 'ID', illinois: 'IL',
-  indiana: 'IN', iowa: 'IA', kansas: 'KS', kentucky: 'KY', louisiana: 'LA',
-  maine: 'ME', maryland: 'MD', massachusetts: 'MA', michigan: 'MI', minnesota: 'MN',
-  mississippi: 'MS', missouri: 'MO', montana: 'MT', nebraska: 'NE', nevada: 'NV',
-  'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
-  'north carolina': 'NC', 'north dakota': 'ND', ohio: 'OH', oklahoma: 'OK',
-  oregon: 'OR', pennsylvania: 'PA', 'rhode island': 'RI', 'south carolina': 'SC',
-  'south dakota': 'SD', tennessee: 'TN', texas: 'TX', utah: 'UT', vermont: 'VT',
-  virginia: 'VA', washington: 'WA', 'west virginia': 'WV', wisconsin: 'WI',
-  wyoming: 'WY', 'puerto rico': 'PR',
-};
-const US_STATE_CODES = new Set([...Object.values(US_STATE_ABBRS), 'AA', 'AE', 'AP']);
-
-/** Country names/aliases (lowercased) to ISO 3166-1 alpha-2 codes. */
-const COUNTRY_CODES: Record<string, string> = {
-  'united states': 'US', 'united states of america': 'US', usa: 'US', us: 'US',
-  'united kingdom': 'GB', uk: 'GB', britain: 'GB', england: 'GB', scotland: 'GB', wales: 'GB',
-  'united arab emirates': 'AE', uae: 'AE',
-  canada: 'CA', germany: 'DE', deutschland: 'DE', france: 'FR', spain: 'ES', españa: 'ES',
-  italy: 'IT', italia: 'IT', netherlands: 'NL', holland: 'NL', switzerland: 'CH',
-  austria: 'AT', belgium: 'BE', ireland: 'IE', portugal: 'PT', poland: 'PL',
-  sweden: 'SE', norway: 'NO', denmark: 'DK', finland: 'FI', greece: 'GR',
-  czechia: 'CZ', 'czech republic': 'CZ', hungary: 'HU', romania: 'RO', croatia: 'HR',
-  serbia: 'RS', bulgaria: 'BG', ukraine: 'UA', cyprus: 'CY', malta: 'MT',
-  estonia: 'EE', latvia: 'LV', lithuania: 'LT', georgia: 'GE', armenia: 'AM',
-  turkey: 'TR', türkiye: 'TR', israel: 'IL', japan: 'JP', 'south korea': 'KR',
-  korea: 'KR', china: 'CN', india: 'IN', singapore: 'SG', malaysia: 'MY',
-  indonesia: 'ID', thailand: 'TH', vietnam: 'VN', philippines: 'PH', taiwan: 'TW',
-  'hong kong': 'HK', australia: 'AU', 'new zealand': 'NZ', brazil: 'BR',
-  argentina: 'AR', mexico: 'MX', colombia: 'CO', chile: 'CL', nigeria: 'NG',
-  kenya: 'KE', 'south africa': 'ZA', egypt: 'EG', guatemala: 'GT', panama: 'PA',
-  'costa rica': 'CR', uruguay: 'UY', peru: 'PE', belize: 'BZ', romania_2: 'RO',
-  eswatini: 'SZ', iceland: 'IS', luxembourg: 'LU', slovenia: 'SI',
-  slovakia: 'SK', moldova: 'MD', kazakhstan: 'KZ', uzbekistan: 'UZ',
-};
-/** ISO codes seen in the wild as bare region tokens (checked AFTER US states). */
-const BARE_COUNTRY_CODES = new Set([
-  'GB', 'SG', 'MY', 'AE', 'CY', 'MT', 'HK', 'NZ', 'ZA', 'KR', 'JP', 'CH', 'NO',
-  'IS', 'IE', 'PT', 'NL', 'SE', 'DK', 'FI', 'GR', 'CZ', 'HU', 'RO', 'HR', 'RS',
-  'BG', 'UA', 'EE', 'LV', 'LT', 'GE', 'AM', 'TR', 'IL', 'IN', 'ID', 'TH', 'VN',
-  'PH', 'TW', 'AU', 'BR', 'AR', 'MX', 'CO', 'CL', 'NG', 'KE', 'EG', 'GT', 'PA',
-  'CR', 'UY', 'PE', 'BZ', 'SZ', 'LU', 'SI', 'SK', 'MD', 'KZ', 'UZ', 'DE', 'FR',
-  'ES', 'IT', 'BE', 'PL', 'CA',
-]);
-
-function normalizeCountryToken(token: string): string | null {
-  const key = token.trim().toLowerCase().replace(/\./g, '');
-  if (!key) return null;
-  const direct = COUNTRY_CODES[key];
-  if (direct) return direct;
-  if (/^[a-z]{2}$/.test(key)) {
-    const upper = key.toUpperCase();
-    // US states win ties (CA = California, not Canada, in job-location context).
-    if (US_STATE_CODES.has(upper)) return null;
-    if (BARE_COUNTRY_CODES.has(upper)) return upper;
-  }
-  return null;
-}
-
-export interface ParsedJobAddress {
-  addressLocality?: string;
-  addressRegion?: string;
-  addressCountry?: string;
-}
-
-/**
- * Splits a free-text job location ("New York, NY (HQ)", "Kuala Lumpur,
- * Malaysia", "Palo Alto, California, United States") into structured address
- * parts. Only emits what the source string actually states — streetAddress
- * and postalCode are unknowable from ATS feeds and are deliberately omitted
- * (fabricating them would be misleading structured data).
- */
-export function parseJobAddress(location: unknown): ParsedJobAddress {
-  if (typeof location !== 'string') return {};
-  // First site wins for multi-site postings ("Abu Dhabi, UAE; Kuala Lumpur",
-  // "Cyprus / Georgia / Poland" multi-country lists). Use primary cleaned location
-  // to avoid picking broad parent country tags ("Australia; Sydney, NSW, Australia").
-  let text = getPrimaryJobLocation(location.replace(/^(?:remote|hybrid)\s*\((.*)\)$/i, '$1').replace(/^(?:remote|hybrid)\s*[·:–-]\s*/i, ''));
-  text = text.split('/')[0] ?? '';
-  // Alternatives ("Vancouver, BC or New York City") and trailing qualifiers
-  // ("New York, NY / Hybrid", "Bengaluru, India (Hybrid)", "New York Office").
-  text = text.split(/\s+or\s+/i)[0] ?? '';
-  text = text.replace(/\(.*?\)/g, ' ').replace(/\s*\/\s*(hybrid|onsite|on-site)\s*$/i, ' ').replace(/\s+office\s*$/i, ' ');
-  const parts = text.split(',').map((p) => p.trim().replace(/\.+$/, '')).filter(Boolean);
-  if (parts.length === 0) return {};
-
-  if (parts.length === 1) {
-    const only = parts[0]!;
-    const asCountry = normalizeCountryToken(only);
-    if (/^(singapore|hong kong)$/i.test(only) && asCountry) {
-      return { addressLocality: only, addressCountry: asCountry };
-    }
-    if (/^dubai$/i.test(only)) {
-      return { addressLocality: only, addressCountry: 'AE' };
-    }
-    // Bare country tokens ("Guatemala", "United States") carry no locality.
-    if (asCountry) return { addressCountry: asCountry };
-    return { addressLocality: only };
-  }
-
-  const out: ParsedJobAddress = { addressLocality: parts[0] };
-  if (parts.length >= 3) {
-    const regionRaw = parts[1]!;
-    out.addressRegion = US_STATE_ABBRS[regionRaw.toLowerCase()] ?? regionRaw;
-    out.addressCountry = normalizeCountryToken(parts[2]!) ?? undefined;
-  } else {
-    const tail = parts[1]!;
-    const asCountry = normalizeCountryToken(tail);
-    if (asCountry) {
-      out.addressCountry = asCountry;
-    } else if (US_STATE_ABBRS[tail.toLowerCase()]) {
-      out.addressRegion = US_STATE_ABBRS[tail.toLowerCase()];
-      out.addressCountry = 'US';
-    } else if (/^[A-Za-z]{2}$/.test(tail) && US_STATE_CODES.has(tail.toUpperCase())) {
-      out.addressRegion = tail.toUpperCase();
-      out.addressCountry = 'US';
-    } else {
-      out.addressRegion = tail;
-    }
-  }
-  return out;
-}
-
-/** ISO 3166-1 alpha-2 for schema.org `addressCountry` when the value is known. */
-export function toAddressCountryCode(value: string | undefined): string | undefined {
-  if (!value?.trim()) return undefined;
-  const fromName = normalizeCountryToken(value);
-  if (fromName) return fromName;
-  const upper = value.trim().toUpperCase();
-  if (/^[A-Z]{2}$/.test(upper) && BARE_COUNTRY_CODES.has(upper)) return upper;
-  return undefined;
-}
-
-function inferCountryFromLocationText(location: string): string | undefined {
-  const locLower = location.toLowerCase();
-  if (/\b(us|usa|u\.s\.?|united states)\b/.test(locLower)) return 'US';
-  if (/\buk\b/.test(locLower) || locLower.includes('united kingdom') || locLower.includes('britain')) return 'GB';
-  if (locLower.includes('canada')) return 'CA';
-  if (locLower.includes('australia')) return 'AU';
-  if (locLower.includes('germany') || locLower.includes('deutschland')) return 'DE';
-  if (locLower.includes('france')) return 'FR';
-  if (locLower.includes('netherlands') || locLower.includes('holland')) return 'NL';
-  if (locLower.includes('switzerland')) return 'CH';
-  if (locLower.includes('india')) return 'IN';
-  if (locLower.includes('japan')) return 'JP';
-  if (locLower.includes('mexico')) return 'MX';
-  if (locLower.includes('brazil')) return 'BR';
-  if (locLower.includes('uae') || locLower.includes('united arab emirates') || locLower.includes('dubai')) {
-    return 'AE';
-  }
-  const segments = location.split(/[,;/|]/).map((s) => s.trim()).filter(Boolean);
-  for (let i = segments.length - 1; i >= 0; i--) {
-    const code = normalizeCountryToken(segments[i]!);
-    if (code) return code;
-  }
-  return undefined;
-}
-
-/** Ensures onsite JobPosting addresses include `addressCountry` when inferable from the source string. */
-export function ensureAddressCountry(parsed: ParsedJobAddress, rawLocation: string): ParsedJobAddress {
-  const existing = toAddressCountryCode(parsed.addressCountry);
-  if (existing) return { ...parsed, addressCountry: existing };
-
-  const next = { ...parsed };
-  if (next.addressRegion && US_STATE_CODES.has(next.addressRegion.toUpperCase())) {
-    next.addressCountry = 'US';
-    return next;
-  }
-
-  if (next.addressLocality) {
-    const fromLocality = toAddressCountryCode(next.addressLocality);
-    if (fromLocality && /^(singapore|hong kong)$/i.test(next.addressLocality)) {
-      next.addressCountry = fromLocality;
-      return next;
-    }
-    if (/^dubai$/i.test(next.addressLocality)) {
-      next.addressCountry = 'AE';
-      return next;
-    }
-  }
-
-  if (rawLocation.trim()) {
-    const inferred = inferCountryFromLocationText(rawLocation);
-    if (inferred) {
-      next.addressCountry = inferred;
-      return next;
-    }
-  }
-
-  return next;
-}
-
 export function JobDetailView({
   job,
   contentHtml,
@@ -241,7 +49,6 @@ export function JobDetailView({
   const canonicalUrl = `${siteUrl}/${slug}`;
   const companyUrl = `${siteUrl}/${companySlug}`;
   const postedLabel = job.dateVerified === false ? null : getPostedLabel(job.date);
-  const postedDate = new Date(job.date);
   const websiteHostname = (() => {
     // A malformed company.website must never 500 the whole page.
     if (!company?.website) return null;
@@ -258,122 +65,16 @@ export function JobDetailView({
       : `${siteUrl}${logoSrc.startsWith('/') ? '' : '/'}${logoSrc}`
     : null;
 
-  const hiringOrganization = {
-    '@type': 'Organization',
-    name: job.company,
-    url: companyUrl,
-    ...(company?.website && { sameAs: company.website }),
-    ...(absoluteLogoUrl && { logo: absoluteLogoUrl }),
-  };
-
-  const datePostedIso = postedDate.toISOString();
-  const validThroughDate = new Date(
-    postedDate.getTime() + MAX_JOB_AGE_DAYS * 24 * 60 * 60 * 1000
-  ).toISOString();
-
-  const titleLower = job.title.toLowerCase();
-  const deptLower = (typeof job.department === 'string' ? job.department : (job.department as any)?.name || '').toLowerCase();
-  const locLower = (typeof job.location === 'string' ? job.location : (job.location as any)?.name || '').toLowerCase();
-
-  const descriptionText = contentHtml ? contentHtml.toLowerCase() : '';
-
-  const employmentType = (() => {
-    if (titleLower.includes('intern') || deptLower.includes('intern') || descriptionText.includes('internship') || descriptionText.includes('intern position')) return 'INTERN';
-    if (titleLower.includes('contract') || titleLower.includes('freelance') || deptLower.includes('contract') || descriptionText.includes('contractor') || descriptionText.includes('contract position') || descriptionText.includes('freelance')) return 'CONTRACTOR';
-    if (titleLower.includes('part-time') || titleLower.includes('part time') || descriptionText.includes('part-time') || descriptionText.includes('part time')) return 'PART_TIME';
-    if (titleLower.includes('full-time') || titleLower.includes('full time') || descriptionText.includes('full-time') || descriptionText.includes('full time') || descriptionText.includes('permanent')) return 'FULL_TIME';
-    return 'FULL_TIME';
-  })();
-
-  const isRemote = isRemoteJob(job);
-
-  // Word-boundary matching throughout: bare substring tests misfire badly
-  // here ('Austin' contains 'us', 'Eurasia' contains 'asia', 'Lucknow'
-  // contains 'uk' patterns, etc.).
-  const applicantLocationName = (() => {
-    if (/\b(us|usa|u\.s\.?|united states)\b/.test(locLower)) return 'United States';
-    if (/\b(emea|europe|european|eu)\b/.test(locLower)) return 'Europe';
-    if (/\bapac\b/.test(locLower) || /\basia\b/.test(locLower)) return 'Asia';
-    if (/\blatam\b/.test(locLower) || locLower.includes('latin america')) return 'Latin America';
-    if (/\buk\b/.test(locLower) || locLower.includes('united kingdom') || locLower.includes('britain')) return 'United Kingdom';
-    if (locLower.includes('canada')) return 'Canada';
-    const country = toAddressCountryCode(ensureAddressCountry(parseJobAddress(job.location), job.location || '').addressCountry);
-    return country ? new Intl.DisplayNames(['en'], { type: 'region' }).of(country) || 'Worldwide' : 'Worldwide';
-  })();
-
-  // Structured work address for non-remote postings. Only locality/region/
-  // country are emitted: streetAddress and postalCode are unknowable from
-  // ATS-sourced locations and must not be fabricated.
-  const rawLocation = cleanJobLocation(typeof job.location === 'string' ? job.location : '');
-  let jobAddress: ParsedJobAddress = !isRemote ? parseJobAddress(job.location) : {};
-  if (
-    !isRemote &&
-    !jobAddress.addressLocality &&
-    !jobAddress.addressRegion &&
-    !jobAddress.addressCountry &&
-    rawLocation.trim()
-  ) {
-    // Last resort: keep the raw string as the locality (previous behavior).
-    jobAddress.addressLocality = rawLocation.trim();
-  }
-  if (!isRemote && rawLocation.trim()) {
-    jobAddress = ensureAddressCountry(jobAddress, rawLocation);
-  }
-  const jobAddressCountry = toAddressCountryCode(jobAddress.addressCountry);
-
+  const rawLocation = resolveJobLocation(job);
   const salaryInfo = getJobSalaryInfo(job, contentHtml);
-
-  const jobPostingSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'JobPosting',
-    title: job.title,
-    description: contentHtml,
-    // Stable cross-crawl ID so Google dedups re-scrapes instead of
-    // treating refreshed listings as new postings.
-    identifier: {
-      '@type': 'PropertyValue',
-      name: 'hashtagweb3.com',
-      value: job.id,
-    },
-    datePosted: datePostedIso,
-    validThrough: validThroughDate,
-    employmentType,
-    directApply: true,
-    hiringOrganization,
-    industry: 'Web3 / Blockchain / Cryptocurrency',
-    // Google forbids estimated/fabricated pay in structured data: only emit
-    // baseSalary when parsed explicitly from the posting (never benchmarks).
-    ...(!salaryInfo.isEstimated ? { baseSalary: salaryInfo.schema } : {}),
-    ...(job.department && { occupationalCategory: typeof job.department === 'string' ? job.department : (job.department as any)?.name || String(job.department) }),
-    ...(isRemote
-      ? {
-          jobLocationType: 'TELECOMMUTE',
-          // Only emit when resolved to a real region: "Worldwide" is not a
-          // valid schema.org Country and fails Google's rich-result checks.
-          ...(applicantLocationName !== 'Worldwide'
-            ? {
-                applicantLocationRequirements: {
-                  '@type': ['Europe', 'Asia', 'Latin America'].includes(applicantLocationName) ? 'AdministrativeArea' : 'Country',
-                  name: applicantLocationName,
-                },
-              }
-            : {}),
-        }
-      : jobAddressCountry
-        ? {
-            jobLocation: {
-              '@type': 'Place',
-              address: {
-                '@type': 'PostalAddress',
-                ...(jobAddress.addressLocality && { addressLocality: jobAddress.addressLocality }),
-                ...(jobAddress.addressRegion && { addressRegion: jobAddress.addressRegion }),
-                addressCountry: jobAddressCountry,
-              },
-            },
-          }
-        : {}),
-    url: canonicalUrl,
-  };
+  const { schema: jobPostingSchema, reasons: schemaOmissionReasons } = buildJobPostingSchema({
+    job,
+    contentHtml,
+    descriptionIsFallback: isGenericJobTemplateHtml(contentHtml),
+    company,
+    siteUrl,
+    logoUrl: absoluteLogoUrl,
+  });
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
@@ -387,14 +88,21 @@ export function JobDetailView({
   };
 
   return (
-    <article className="site-container py-10 sm:py-14" data-job-page>
+    <article
+      className="site-container py-10 sm:py-14"
+      data-job-page
+      data-job-posting-schema={jobPostingSchema ? 'eligible' : 'suppressed'}
+      data-job-posting-schema-reasons={schemaOmissionReasons.length ? schemaOmissionReasons.join(',') : undefined}
+    >
+      {jobPostingSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema).replace(/</g, '\\u003c') }}
+        />
+      )}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, '\\u003c') }}
       />
 
       <DetailPageHeader

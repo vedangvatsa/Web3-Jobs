@@ -104,6 +104,8 @@ export const LINK_PREVIEW_BOT_RE =
 export function stripSocialPathSuffix(pathname: string): string {
   const parts = pathname.split('/').filter(Boolean);
   const last = parts[parts.length - 1]?.toLowerCase();
+  // /dc is an assigned job URL. Discord attribution remains /<page>/dc or /discord for home.
+  if (parts.length === 1 && last === 'dc') return `/${parts[0]}`;
   if (last && SOCIAL_PATH_SUFFIXES.has(last)) {
     parts.pop();
   }
