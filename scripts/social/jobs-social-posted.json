@@ -26296,6 +26296,46 @@
       "verification": "pending",
       "postId": "6ad600aa059eb1800646ce2a",
       "error": "LinkedIn #Web3 receipt 6ad600aa059eb1800646ce2a remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "sls299",
+      "company": "Block",
+      "title": "Mid-Market Account Excutive",
+      "platform": "linkedin",
+      "postedAt": "2026-10-19T11:34:01.814Z",
+      "expectedText": "Block is hiring Mid-Market Account Excutive: https://hashtagweb3.com/sls299/li?og=7",
+      "snapshot": {
+        "id": "5428149008",
+        "title": "Mid-Market Account Excutive",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5428149008?gh_jid=5428149008",
+        "date": "2026-10-15T13:35:24-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Sydney, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls299"
+      },
+      "payload": {
+        "text": "Block is hiring Mid-Market Account Excutive: https://hashtagweb3.com/sls299/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls299/li?og=7",
+          "title": "Mid-Market Account Excutive at Block",
+          "description": "Join Block as Mid-Market Account Excutive. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls299.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "059c0ca1-2671-4776-bc07-36f8f219de22",
+      "verification": "creating"
     }
   ]
 }
