@@ -46,3 +46,11 @@ Google's [Event requirements](https://developers.google.com/search/docs/appearan
 - Regenerated the 205-event runtime catalog and the event schema audit. The normal retention step removed four source records that ended more than 30 days ago and retained their URL tombstones.
 
 After deployment, check representative eligible URLs in [Rich Results Test](https://search.google.com/test/rich-results) and the site's Search Console URL Inspection tool. Request validation/recrawling for fixed pages. Valid markup makes a page eligible; it does not guarantee inclusion in Google's job or event search results.
+
+## Live verification
+
+Firebase build `manual-1792427001` reached READY and rollout `rollout-manual-1792428147` succeeded on October 19 at 16:42 UTC, deploying revision `4a81734f6290ddcddeef4c09249d5fee49ddc964` (which contains the schema fixes). Firebase API confirmation was used because GitHub Actions status reporting was degraded.
+
+Subsequent Google-InspectionTool requests confirmed HTTP 200, self-referencing canonicals, and the updated markup on `/mgr48`, `/int15`, `/eng45`, `/dc`, `/devcon`, and `/ibw`. `/eng621` retains its visible job page but omits JobPosting with `remote-country-missing`. Devcon and IBW now include Event JSON-LD with the verified addresses above. The invalid employment/direct-application defaults are absent.
+
+The unauthenticated Rich Results Test session returned “Something went wrong — Log in and try again.” No Google validation or indexing success is claimed from that attempt; owner-authenticated Search Console validation remains the next external check.

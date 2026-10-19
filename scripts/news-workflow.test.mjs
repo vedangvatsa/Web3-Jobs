@@ -73,6 +73,8 @@ test('website recovery refreshes content without social, email or an overlapping
 test('saved news recovery restores only after preparing a fresh queue and deploys without social', () => {
   const news = workflow.jobs['publish-news'];
   assert.equal(news.permissions.actions, 'read');
+  assert.match(workflow.concurrency.group, /news_recovery_run != '' && 'publish-news-recovery'/);
+  assert.match(workflow.jobs['refresh-events'].if, /outputs.slot != 'recovery'/);
   const prepare = news.steps.findIndex(step => step.id === 'research');
   const restore = news.steps.findIndex(step => step.run === 'node scripts/restore-news-drafts.mjs');
   const writer = news.steps.findIndex(step => step.id === 'draft');

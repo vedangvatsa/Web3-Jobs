@@ -4,7 +4,7 @@
 
 Source worktree: `/var/folders/9v/95v6_ny50fq2t6wnlhc140dh0000gn/T/opencode/navbar-push`.
 
-Reviewed Google's [current JobPosting documentation](https://developers.google.com/search/docs/appearance/structured-data/job-posting?hl=en), the detail component, `Job` type, location and salary helpers, date policy, and existing address tests. Changes are local; this audit did not deploy them.
+Reviewed Google's [current JobPosting documentation](https://developers.google.com/search/docs/appearance/structured-data/job-posting?hl=en), the detail component, `Job` type, location and salary helpers, date policy, and existing address tests. The initial audit was local; the subsequent release and live verification are recorded in [the combined detail-page audit](GOOGLE_DETAIL_PAGE_AUDIT_2026-10-19.md#live-verification).
 
 Live catalog checked: <https://hashtagweb3.com/data/jobs-runtime.json>.
 
@@ -120,7 +120,7 @@ npx tsx scripts/audit-job-posting-schema.ts
 
 ## Remaining work
 
-1. Parent release must deploy these local changes, then validate representative eligible and suppressed URLs with Google's Rich Results Test and URL Inspection. Browser tooling was unavailable here because Chrome was not installed; this audit used fetched HTML, code inspection, SSR tests, and typecheck.
+1. The release is deployed and representative eligible/suppressed responses are verified. Owner-authenticated Rich Results Test and URL Inspection remain necessary to inspect Google's own validation and indexing state; the unauthenticated validator requested sign-in.
 2. Recover structured employer location evidence for suppressed jobs. Generic remote/continent labels alone cannot establish eligible countries. Precise sub-country restrictions need a representation that preserves those restrictions.
 3. Preserve explicit employer employment type, expiration, salary currency/period, and application-flow evidence before restoring those optional properties. Do not derive these from discovery dates or arbitrary defaults.
 4. **Routing fix included:** `/dc` belongs to an active catalog job (Director, Compensation), but `dc` also appears in `SOCIAL_UTM_MAP`. Previously, `stripSocialPathSuffix('/dc')` selected the homepage shell. The assigned job root now takes precedence; `/dc/x` and `/dc/dc` still attach attribution to the job, and `/discord` remains the homepage Discord link. The shortlink regression suite passes 20,340 matrix requests plus the dedicated collision checks. This preserves `/dc` for the original posting even after expiry.

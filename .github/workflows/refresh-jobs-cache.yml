@@ -68,7 +68,7 @@ on:
 
 concurrency:
   # One group per slot so the afternoon run cannot cancel a morning run still going.
-  group: "${{ github.event.inputs.only_news == 'true' && 'publish-news-only' || github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
+  group: "${{ github.event.inputs.news_recovery_run != '' && 'publish-news-recovery' || github.event.inputs.only_news == 'true' && 'publish-news-only' || github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
   cancel-in-progress: false
 
 jobs:
@@ -569,7 +569,7 @@ jobs:
       group: event-catalogue
       cancel-in-progress: false
     needs: [gate]
-    if: ${{ needs.gate.outputs.skip != 'true' && (needs.gate.outputs.morning == 'true' || needs.gate.outputs.deploy == 'true' || needs.gate.outputs.social == 'true') && github.event.inputs.diagnose_telegram != 'true' }}
+    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.slot != 'recovery' && (needs.gate.outputs.morning == 'true' || needs.gate.outputs.deploy == 'true' || needs.gate.outputs.social == 'true') && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
