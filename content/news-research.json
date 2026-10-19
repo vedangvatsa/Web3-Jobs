@@ -96683,7 +96683,7 @@
     "2026-10-19": {
       "day": "2026-10-19",
       "startedAt": "2026-10-19T09:09:26.098Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "1950b19fe78af4d37979",
         "92385a42a0f0356abb13",
@@ -97607,7 +97607,8 @@
         ],
         "total": 84,
         "checkedAt": "2026-10-19T09:09:26.098Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
