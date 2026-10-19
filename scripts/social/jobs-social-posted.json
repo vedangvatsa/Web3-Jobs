@@ -25832,7 +25832,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "3d18f960-4e82-41c1-be0e-6556e7a08eab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x64e70957893a91208bc5922976eec8e8c2b20426"
     }
   ]
 }
