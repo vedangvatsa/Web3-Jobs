@@ -24662,9 +24662,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "f7518e32-b37c-4e9b-b071-46204d2d50d7",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad51f7d0b0d72757a3770e2",
-      "error": "LinkedIn CVin.Bio receipt 6ad51f7d0b0d72757a3770e2 remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad51f7d0b0d72757a3770e2 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7517669780057796608"
     },
     {
       "slug": "eng70",
