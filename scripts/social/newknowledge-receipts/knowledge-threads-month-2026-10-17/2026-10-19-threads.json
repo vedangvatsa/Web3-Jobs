@@ -159,11 +159,13 @@
     "5": {
       "createClaim": "9af523e3-9885-45a3-87a9-c4f2ee22d044",
       "startedAt": "2026-10-19T11:33:32.252Z",
-      "status": "accepted",
+      "status": "verified",
       "replyTo": "17880146607631379",
       "containerId": "18097706669199925",
       "publishClaim": "68f4837b-a8c0-4d71-93bb-9e36ff73904a",
-      "postId": "18095939408662319"
+      "postId": "18095939408662319",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DerKQ_3G7Jj",
+      "verifiedAt": "2026-10-19T11:33:53.587Z"
     }
   }
 }
