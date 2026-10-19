@@ -27390,7 +27390,8 @@
       },
       "account": "profile",
       "attemptId": "4d3760d1-342d-47b8-88f4-92d6e0fd0580",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6094e169fa37f98687cb35c5854cdb64689e0d5f"
     }
   ]
 }
