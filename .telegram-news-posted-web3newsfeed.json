@@ -800,6 +800,9 @@
   "https://hashtagweb3.com/zkapi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc-markets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binance-mica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/circlemarkets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cysicmint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2300,6 +2303,12 @@
   "CFTC Sends Crypto Market Rulemaking to White House Review",
   "ECB President Lagarde Reportedly Delayed Binance License in Greece",
   "WSJ Reports Lagarde Intervened to Stall Binance MiCA License",
+  "Circle Plans Expansion Into 40 Emerging Markets",
+  "Circle plans push into about 40 emerging markets, Allaire says",
+  "Cysic suspends bridge after unauthorized 10 million token mint",
+  "Cysic halts bridge after unauthorized mint of 10 million CYS",
+  "JPMorgan launches JPM Coin on Ethereum mainnet",
+  "JPMorgan brings JPM Coin to Ethereum for institutional clients",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2629,5 +2638,8 @@
   "fp:card|classify|clos|coin|credit|digital|eligibility|loophol|media|mem",
   "fp:api|apis|credit|enabl|foundation|identity|knowledg|mainnet|meter|pay",
   "fp:2026|act|agency|block|cftc|clarity|day|hous|market|prerul",
-  "fp:allegedly|application|binanc|block|commitment|delay|ecb|europ|exchang|greec"
+  "fp:allegedly|application|binanc|block|commitment|delay|ecb|europ|exchang|greec",
+  "fp:about40|africa|allair|america|asia|attribut|ceo|circl|demand|east",
+  "fp:10m|28m|address|blacklist|bnb|bridg|chain|cysic|freez|halt",
+  "fp:access|approv|back|bank|client|coin|deposit|gain|institutional|jpm"
 ]

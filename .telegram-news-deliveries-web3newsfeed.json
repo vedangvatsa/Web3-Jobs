@@ -1857,7 +1857,7 @@
     "sentAt": "2026-10-19T11:35:24.983Z"
   },
   "c85eb25f-1898-4af7-980b-b5a6714c5743": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T19:34:04.574Z",
     "stories": [
       {
@@ -1885,6 +1885,8 @@
         "originalTitle": "JPMorgan brings JPM Coin to Ethereum for institutional clients"
       }
     ],
-    "slotKey": "2026-10-19:evening"
+    "slotKey": "2026-10-19:evening",
+    "messageId": 65764,
+    "sentAt": "2026-10-19T19:34:18.212Z"
   }
 }
