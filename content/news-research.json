@@ -47848,16 +47848,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2e5cb2077f966ececadc",
-      "status": "rejected",
+      "status": "ready",
       "firstSeenAt": "2026-10-17T03:31:31.693Z",
       "attempts": 1,
       "expiresAt": "2026-10-19T16:36:04.000Z",
       "lastSeenAt": "2026-10-17T14:20:10.146Z",
-      "reason": "stale",
-      "note": "Verification window ended after 72 hours. Previous blocker: Judge Hellerstein denied the joint Gemini and CFTC motion to vacate the exchange's $5M settlement on Oct 15; drafted /gemini-cftc from Decrypt and CoinDesk reads.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-19T16:44:57.110Z",
-      "articleSlug": "gemini-cftc",
+      "reason": "verified-event",
+      "note": "Judge Hellerstein denied the joint Gemini and CFTC motion to vacate the exchange's $5M settlement on Oct 15; drafted /gemini-cftc from Decrypt and CoinDesk reads.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-19T17:05:53.573Z",
+      "articleSlug": "geminiorder",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": [],
       "automatic": true
@@ -48314,9 +48323,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "6b95b633f4c2b72607b3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-17T03:31:31.693Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-19T19:50:21.000Z",
       "lastSeenAt": "2026-10-17T14:20:10.146Z",
       "reason": "verified-event",
@@ -48343,8 +48352,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:37:26.892Z",
-      "articleSlug": "circle-margin",
+      "reviewedAt": "2026-10-19T17:05:53.573Z",
+      "articleSlug": "circlemargin",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -48405,9 +48414,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "550a58cbd6170a4b1e2a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-17T03:31:31.693Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-19T18:55:37.000Z",
       "lastSeenAt": "2026-10-17T14:20:10.146Z",
       "reason": "verified-event",
@@ -48422,8 +48431,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:37:30.266Z",
-      "articleSlug": "circle-markets",
+      "reviewedAt": "2026-10-19T17:05:53.573Z",
+      "articleSlug": "circlemarkets",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -53837,9 +53846,9 @@
         "Crypto Briefing"
       ],
       "id": "686ba26ae9612dcea442",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-18T11:31:35.858Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-21T10:43:12.000Z",
       "lastSeenAt": "2026-10-19T09:09:26.098Z",
       "reason": "verified-event",
@@ -53858,8 +53867,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:31:59.671Z",
-      "articleSlug": "cysic-bridge",
+      "reviewedAt": "2026-10-19T17:05:53.573Z",
+      "articleSlug": "cysicmint",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -54289,9 +54298,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f402f749c50f3f2ecf2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-18T14:45:20.470Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-21T14:00:00.000Z",
       "lastSeenAt": "2026-10-19T13:59:50.159Z",
       "reason": "verified-event",
@@ -54306,8 +54315,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:42:10.308Z",
-      "articleSlug": "stablecoin-payments",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "stablecoinpay",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -55106,9 +55115,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e1b1d2b8d7bb6d7be81",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-18T19:31:44.408Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-21T16:00:00.000Z",
       "lastSeenAt": "2026-10-19T15:15:55.701Z",
       "reason": "verified-event",
@@ -55123,8 +55132,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:39:54.531Z",
-      "articleSlug": "latvia-tax",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "latviatax",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -55809,9 +55818,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "046be951bd4920f882b5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T09:09:26.098Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T08:40:29.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -55830,8 +55839,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:35:00.341Z",
-      "articleSlug": "mtgox-delay",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "mtgoxdelay",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -56227,9 +56236,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d5d12bc40d9c12bac1c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T09:09:26.098Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T01:03:27.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -56248,8 +56257,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:33:11.648Z",
-      "articleSlug": "qubic-drain",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "qubicdrain",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -56667,9 +56676,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "9508036deed53ad26787",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T11:31:54.937Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T10:03:47.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -56688,8 +56697,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:30:25.603Z",
-      "articleSlug": "jpm-coin",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "jpmcoin",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -56855,9 +56864,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a4a37f8f0d8596cd606",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T11:31:54.937Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T10:22:30.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -56876,8 +56885,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:36:20.331Z",
-      "articleSlug": "france-tax",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "francetax",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -57124,9 +57133,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "f8acb7396fb1f7408149",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T11:31:54.937Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T09:30:54.000Z",
       "lastSeenAt": "2026-10-19T15:15:55.701Z",
       "reason": "verified-event",
@@ -57141,7 +57150,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:39:57.217Z",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
       "articleSlug": "novig",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
@@ -57182,9 +57191,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4ad2eccce244b2af805",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T11:31:54.937Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T09:15:21.000Z",
       "lastSeenAt": "2026-10-19T15:15:55.701Z",
       "reason": "verified-event",
@@ -57203,8 +57212,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:40:55.312Z",
-      "articleSlug": "zcash-quantum",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "zcashquantum",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -57307,9 +57316,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "79f4ee84262fbbd26645",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T13:50:09.994Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T12:39:55.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -57328,8 +57337,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:26:24.993Z",
-      "articleSlug": "strategy-strc",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "strategystrc",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -57422,9 +57431,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "56cbf9693cea54e62d0b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T13:50:09.994Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T13:09:55.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -57443,8 +57452,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:28:34.309Z",
-      "articleSlug": "strive-sats",
+      "reviewedAt": "2026-10-19T17:05:53.574Z",
+      "articleSlug": "strivesats",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -57755,9 +57764,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "092e0dc0c590dbc91001",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-19T13:50:09.994Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-22T13:13:53.000Z",
       "lastSeenAt": "2026-10-19T16:44:57.110Z",
       "reason": "verified-event",
@@ -57776,8 +57785,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-19T15:33:56.970Z",
-      "articleSlug": "okx-ice",
+      "reviewedAt": "2026-10-19T17:05:53.575Z",
+      "articleSlug": "okxice",
       "lastReviewedDay": "2026-10-19",
       "lastValidationErrors": []
     },
@@ -101800,12 +101809,21 @@
           "automatic": true
         },
         "2e5cb2077f966ececadc": {
-          "status": "rejected",
-          "reason": "stale",
-          "note": "Verification window ended after 72 hours. Previous blocker: Judge Hellerstein denied the joint Gemini and CFTC motion to vacate the exchange's $5M settlement on Oct 15; drafted /gemini-cftc from Decrypt and CoinDesk reads.",
-          "sourceChecks": [],
-          "reviewedAt": "2026-10-19T16:44:57.110Z",
-          "automatic": true
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Judge Hellerstein denied the joint Gemini and CFTC motion to vacate the exchange's $5M settlement on Oct 15; drafted /gemini-cftc from Decrypt and CoinDesk reads.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.573Z",
+          "articleSlug": "geminiorder"
         },
         "6db2c85b76b3f4c31225": {
           "status": "rejected",
@@ -101846,6 +101864,292 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-19T16:44:57.110Z",
           "automatic": true
+        },
+        "6b95b633f4c2b72607b3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from the Circle economics blog post plus CryptoSlate, Unchained, CoinDesk and Crypto Briefing: H1 2026 revenue $1.4B, 59 cents to partners and transaction costs, 34 cents reinvested, 7 cents net profit.",
+          "sourceChecks": [
+            {
+              "url": "https://www.circle.com/blog/the-economics-of-usdc-and-why-our-partners-win",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/usdc-processed-36-trillion-in-h1-transactions-but-circle-kept-just-7-cents-of-every-revenue-dollar/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/circle-says-59-cents-of-each-revenue-dollar-went-to-usdc-partners-and-transaction-costs/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/circle-usdc-model-7-cents-profit-per-dollar/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.573Z",
+          "articleSlug": "circlemargin"
+        },
+        "550a58cbd6170a4b1e2a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from Decrypt and Cointelegraph reporting on Allaire Reuters interview: Circle plans about 40 emerging markets, USDC at roughly 25% share, Tazapay deal and banking charters.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.573Z",
+          "articleSlug": "circlemarkets"
+        },
+        "686ba26ae9612dcea442": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from Cointelegraph, Crypto Briefing and the Cysic Foundation incident report: 10M CYS unauthorized mint, bridge suspended, 2.8M CYS frozen.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cysic-halts-bridge-unauthorized-cys-mint/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/cysic_fdn/status/2111761749116637687",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.573Z",
+          "articleSlug": "cysicmint"
+        },
+        "2f402f749c50f3f2ecf2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Allium Q3 report on stablecoin payments rising 45% to $482B while supply stayed flat, with Visa, Mastercard and Stripe rails; drafted /stablecoin-payments from CoinDesk and Crypto Briefing reads.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/stablecoin-payments-rise-45-percent-482b/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "stablecoinpay"
+        },
+        "1e1b1d2b8d7bb6d7be81": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Latvia's Saeima passed urgent personal income tax amendments on Oct 15 creating a 2027 crypto declaration window and investment-account model; drafted /latvia-tax from Crypto Briefing and CoinDesk reads.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/latvia-crypto-tax-declaration-2027/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "latviatax"
+        },
+        "046be951bd4920f882b5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from the Oct 16 trustee notice on mtgox.com plus CryptoSlate: repayment deadline moved from Oct 31 2026 to Oct 31 2027 with court approval, fourth yearly extension.",
+          "sourceChecks": [
+            {
+              "url": "https://www.mtgox.com/img/pdf/20261016_b3a13e0f-55f6-4653-913b-be80762390e8_announcement_en.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/mt-gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.mtgox.com/img/pdf/20250327_50441ef4-dc28-473a-9fd2-495db2da4bbd_announcement_en.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "mtgoxdelay"
+        },
+        "0d5d12bc40d9c12bac1c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from the Qubic incident statement on X plus Cointelegraph and Crypto Briefing: 1,404 wallets drained of about 2.94T QU, chain halted at tick 85,371,949, weak seed cause fixed in v4.26.4.",
+          "sourceChecks": [
+            {
+              "url": "https://x.com/_qubic_/status/2111796725677715474",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/qubic-halts-mainnet-wallet-drain/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "qubicdrain"
+        },
+        "9508036deed53ad26787": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from CoinDesk, Cointelegraph and JPMorgan Kinexys: JPM Coin deployed on Ethereum mainnet Oct. 19 for approved institutional clients.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.jpmorgan.com/kinexys/jpm-coin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "jpmcoin"
+        },
+        "8a4a37f8f0d8596cd606": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from the Assembly vote record plus Cointelegraph and The Defiant: Amendment I-3898 adopted 38-37-25 on Oct 16 to tax certain crypto-to-stablecoin swaps from 2027; exit tax and wallet reporting still under review.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "francetax"
+        },
+        "f8acb7396fb1f7408149": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Novig and Crypto.com's U.S. derivatives exchange sued Missouri on Oct 16 over sports event contracts; drafted /novig from Unchained and Crypto Briefing reads.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/novig-and-crypto-coms-exchange-ask-federal-courts-to-shield-them-from-missouri-enforcement/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/crypto-com-novig-sue-missouri-sports-wagering/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "novig"
+        },
+        "c4ad2eccce244b2af805": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Zakura published a per-swap viewing-key design for Zcash NEAR Intents swaps to limit quantum linking; drafted /zcash-quantum from CoinDesk, Decrypt and Unchained reads.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/zcash-builder-zakura-proposes-per-swap-viewing-keys-to-close-a-quantum-privacy-gap/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "zcashquantum"
+        },
+        "79f4ee84262fbbd26645": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from Cointelegraph, Unchained and Decrypt: 267 BTC bought for $22.1M, 1.94M STRC repurchased for $193.1M, and the preferred buyback cap raised to $3B.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strategy-raises-its-preferred-buyback-cap-to-3-billion-after-another-193-million-strc-week/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "strategystrc"
+        },
+        "56cbf9693cea54e62d0b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from Unchained, Crypto Briefing and CryptoSlate: 1,223 BTC purchase to 36,818 BTC, 4,045 BTC week, $700M SATS pricing and Oct. 20 settlement.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/strive-lifts-bitcoin-holdings-to-36818-btc-ahead-of-700-million-sats-settlement/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/strive-bitcoin-accumulation-expansion/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.574Z",
+          "articleSlug": "strivesats"
+        },
+        "092e0dc0c590dbc91001": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted from the Oct 15 OKXICE notice plus CoinDesk, Unchained and Cointelegraph: nine issuers objected to tokenized shares on the OKX and ICE venue under the SEC Innovation Exemption.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/objections-to-ice-and-okxs-tokenized-stock-venue-climb-to-nine-as-broadcom-verizon-opt-out/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-19T17:05:53.575Z",
+          "articleSlug": "okxice"
         }
       },
       "baselineSlugs": [
