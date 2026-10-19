@@ -28157,7 +28157,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "6729417c-8388-454c-8d09-1f169094dc7a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad670e7a569186c79ce8ac9"
     }
   ]
 }
