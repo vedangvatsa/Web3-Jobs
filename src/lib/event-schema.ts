@@ -61,7 +61,7 @@ export type EventSchemaContext = {
 
 const VIRTUAL_ONLY = /\b(?:online|virtual|remote|webinar|livestream|live[- ]stream|zoom|google meet|discord|(?:twitter|x) spaces?)\b/i;
 /** The event itself is held online (not incidental words like Discord links or "released online"). */
-const VIRTUAL_EVENT_MODE = /\b(?:virtual|online)[- ](?:only|event|events|meetup|meetups|summit|conference|hackathon|livestream|live[- ]?stream)\b|\bjoin (?:us )?(?:online|virtually)\b|\b100%\s+(?:virtual|online)\b|\bheld (?:entirely )?online\b/i;
+const VIRTUAL_EVENT_MODE = /\b(?:virtual|online)(?:[- ]only)?[- ](?:events?|meetups?|summit|conference|hackathon|livestream|live[- ]?stream)\b|\b(?:event|conference|meetup|summit|hackathon)\s+(?:is|will be|takes place|is held)\s+(?:entirely\s+)?(?:virtual|online)\b|\bjoin (?:us )?(?:online|virtually)\b|\b100%\s+(?:virtual|online)\b|\bheld (?:entirely )?online\b/i;
 const UNKNOWN_LOCATION = /\b(?:tba|tbd|to be (?:announced|determined)|unknown|coming soon)\b/i;
 const PRIVATE_EVENT = /\b(?:invite[- ]only|invitation[- ]only|members?[- ]only|approval[- ]based|application[- ]only|closed event|private\b(?!\s+(?:credit|equity|key|sale|network|chain)))\b/i;
 const ISO_CURRENCIES = new Set([
@@ -185,7 +185,7 @@ export function getGoogleEventSchemaIssues(event: Web3Event): string[] {
   if (!isValidIsoDate(event.startDate)) issues.push('invalid-start-date');
   if (event.endDate && (!isValidIsoDate(event.endDate) || Date.parse(event.endDate) < Date.parse(event.startDate))) issues.push('invalid-end-date');
   // Google's Event experience excludes virtual-only and invitation/membership-gated events.
-  if (isOnlineEventVenue(event) || (event.attendanceMode !== 'mixed' && VIRTUAL_EVENT_MODE.test(text(event.description)))) issues.push('online-only');
+  if (isOnlineEventVenue(event) || (!['offline', 'mixed'].includes(event.attendanceMode || '') && VIRTUAL_EVENT_MODE.test(text(event.description)))) issues.push('online-only');
   if (event.approvalRequired || event.visibility === 'private' || event.visibility === 'unlisted' || PRIVATE_EVENT.test(`${name} ${text(event.description)}`)) issues.push('restricted-registration');
   if (event.locationHidden) issues.push('hidden-address');
   if (!location || UNKNOWN_LOCATION.test(location)) issues.push('missing-location');

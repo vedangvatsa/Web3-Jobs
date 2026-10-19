@@ -23,10 +23,11 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, formatEventLocation, normalizeCountry } from '@/lib/events';
+import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, formatEventLocation } from '@/lib/events';
 import { getEventExternalUrl } from '@/lib/event-external-url';
 import { getEventListItem } from '@/lib/event-public';
-import { buildGoogleEventSchema } from '@/lib/event-schema';
+import { buildGoogleEventSchema, getGoogleEventSchemaIssues } from '@/lib/event-schema';
+import { getEventVenueLabel } from '@/lib/event-address';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
 import { hasCuratedEventGuide } from '@/lib/event-page-quality';
@@ -510,7 +511,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <JsonLd data={breadcrumbSchema} />
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
-          <main className="flex-1 pb-16" data-event-page>
+          <main className="flex-1 pb-16" data-event-page data-event-schema={eventSchema ? 'eligible' : 'suppressed'} data-event-schema-reasons={!eventSchema ? getGoogleEventSchemaIssues(event).join(',') : undefined}>
             <article className="site-container py-10 sm:py-14">
               <DetailPageHeader
                 breadcrumbs={[{ href: '/', label: 'Home' }, { href: '/events', label: 'Events' }]}
@@ -529,14 +530,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 metadata={
                   <>
                       <div className="flex min-w-0 items-center gap-1.5">
+                        <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" aria-hidden="true" />
+                        <span>{event.eventStatus === 'EventPostponed' ? 'Postponed — new date to be announced' : formatEventDate(event.startDate, event.endDate, event.timezone)}</span>
+                      </div>
+                      <div className="flex min-w-0 items-center gap-1.5">
                         <MapPin className="h-4 w-4 shrink-0 text-muted-foreground" />
                         <span className="break-words">
-                          {event.city &&
-                          event.country &&
-                          event.city.trim().toLowerCase() !==
-                            normalizeCountry(event.country).trim().toLowerCase()
-                            ? `${event.city}, ${normalizeCountry(event.country)}`
-                            : formatEventLocation(event)}
+                          {getEventVenueLabel(event) || formatEventLocation(event)}
                         </span>
                       </div>
                   </>

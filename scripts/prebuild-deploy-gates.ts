@@ -46,6 +46,7 @@ function main(): void {
   run('npx tsx --test scripts/test-job-age-build-snapshot.ts');
   withJobAgeBuildSnapshot(authorization => run('npm run test:job-age', { ...process.env, [JOB_AGE_BUILD_SNAPSHOT_ENV]: authorization }));
   run('npm run test:job-schema');
+  run('npx tsx scripts/test-event-schema.ts');
   run('npm run test:prebuild-invalidation');
   run('npm run test:catalog-publication');
   run('npx tsx --test scripts/test-verified-job-corrections.ts');

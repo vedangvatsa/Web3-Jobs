@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-19",
+  "events": {
+    "premier-devcon-2026": {
+      "eventSource": "https://devcon.org/en/",
+      "venue": "Jio World Centre",
+      "address": "G Block, Bandra Kurla Complex (BKC), Mumbai, India",
+      "attendance": "Physical four-day conference; general admission has no eligibility criteria. Student discount restrictions do not restrict general admission."
+    },
+    "premier-indiabw-2026": {
+      "eventSource": "https://www.indiablockchainweek.com/",
+      "venueSource": "https://www.fairmont.com/en/hotels/mumbai/fairmont-mumbai.html",
+      "venue": "Fairmont Mumbai",
+      "address": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai 400099, India",
+      "attendance": "The organizer identifies Fairmont Mumbai for November 1–2 and sells general passes. Separate institutional-forum application rules do not restrict the general conference."
+    }
+  }
+}

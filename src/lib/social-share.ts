@@ -101,6 +101,8 @@ export function canonicalSocialPagePath(contentPath: string): string {
 export const LINK_PREVIEW_BOT_RE =
   /LinkedInBot|LinkedIn|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|Slackbot|Slack-ImgProxy|Twitterbot|WhatsApp|TelegramBot|Telegram|Discordbot|Pinterest|vkShare|Applebot|redditbot|embedly|quora link preview|outbrain|Buffer|bufferbot|Bluesky|Warpcast|Farcaster|Iframely|SkypeUriPreview|Viber|Line\/|Google-PageRenderer|bingpreview|YahooLinkPreview|NotionEmbedder|Mattermost|Rocket\.Chat|W3C_Validator|BitlyBot|Tumblr|Xing.Bot|Screaming FrogSEOSpider/i;
 
+const GOOGLE_SEARCH_CRAWLER_RE = /Googlebot|Google-InspectionTool|Google-PageRenderer/i;
+
 export function stripSocialPathSuffix(pathname: string): string {
   const parts = pathname.split('/').filter(Boolean);
   const last = parts[parts.length - 1]?.toLowerCase();
@@ -121,6 +123,7 @@ export function isLinkPreviewCrawlerRequest(request: {
   const method = request.method.toUpperCase();
   if (method !== 'GET' && method !== 'HEAD') return false;
   const ua = request.headers.get('user-agent') || '';
+  if (GOOGLE_SEARCH_CRAWLER_RE.test(ua)) return false;
   if (LINK_PREVIEW_BOT_RE.test(ua)) return true;
 
   const fetchMode = request.headers.get('sec-fetch-mode');
@@ -138,6 +141,7 @@ export function linkPreviewPreviewPath(
   headlessOrBot: boolean,
 ): string | null {
   const normalizedPath = pathname.replace(/\/+$/, '') || '/';
+  if (GOOGLE_SEARCH_CRAWLER_RE.test(userAgent)) return null;
   if (isResourcePath(normalizedPath)) return null;
   const contentPath = stripSocialPathSuffix(normalizedPath);
   const hasSocialSuffix = contentPath !== normalizedPath;

@@ -377,55 +377,6 @@
     }
   },
   {
-    "id": "luma-crypto-PJA3o7ucniYAKBP",
-    "slug": "crypto-blo",
-    "name": "Crypto And Blockchain.",
-    "description": "Crypto & Blockchain Networking Meetup 🚀\n\nA space for crypto, blockchain, Web3, and technology enthusiasts to connect, exchange ideas, and explore what’s next in the industry.\n\nThis is a networking-first event—no fixed agenda, no sales pitches, and no pressure. Just genuine conversations with people who are building, investing, experimenting, or simply curious about the future of crypto.\n\nWhat to Expect\n\n• 🤝 Meet and network with people from the crypto & blockchain ecosystem\n• 💡 Share new ideas, projects, and perspectives\n• ⛓️ Discuss blockchain, DeFi, Web3, AI × Crypto, and emerging technologies\n• 🚀 Discover potential collaborations and opportunities\n• 🧠 Learn from different experiences and viewpoints\n• 🌐 Build meaningful connections within the community\n\nWhether you’re a founder, trader, developer, investor, creator, researcher, or simply interested in crypto, you’re welcome.\n\nBring your ideas. Bring your questions. Bring your network.\n\nLet’s connect, exchange perspectives, and see what we can build together. 🌍",
-    "startDate": "2026-09-19T10:30:00.000Z",
-    "endDate": "2026-09-19T14:30:00.000Z",
-    "city": "New Delhi",
-    "country": "India",
-    "location": "Tim Hortons, 13, Ground Floor, NWA, Extn, Punjabi Bagh, New Delhi, Delhi, 110026, India",
-    "url": "https://luma.com/of9hwrqv",
-    "registrationUrl": "https://luma.com/of9hwrqv",
-    "coverImage": "/events/luma-crypto-pja3o7ucniyakbp-4f2f1801.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Sagar Balwani"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "Extn",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Tim Hortons",
-    "addressLocality": "New Delhi",
-    "addressRegion": "Delhi",
-    "addressCountry": "IN",
-    "coordinates": {
-      "latitude": 28.666808900000003,
-      "longitude": 77.1223321
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/of9hwrqv",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/of9hwrqv",
-      "eventId": "evt-PJA3o7ucniYAKBP",
-      "fetchedAt": "2026-09-19T23:45:36.916Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-gNAU0bATPxVTH63",
     "slug": "fashion-we",
     "name": "LONDON FASHION WEEK: ONE2MANY 5 YEAR ANNIVERSARY POP UP + AFTERPARTY",
@@ -475,52 +426,6 @@
       "url": "https://luma.com/kun14koi",
       "eventId": "evt-gNAU0bATPxVTH63",
       "fetchedAt": "2026-09-19T23:45:37.442Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-j11uBoW2oHUUFkW",
-    "slug": "rxbf",
-    "name": "Ripple x Beyond Fitness: Saturday Reset",
-    "description": "## Ripple x Beyond Fitness: Saturday Reset\n\n[find out what we've been up to he](https://ripplesocialclub.com)[re](https://ripplesocialclub.com/archive)\n\n## details.\n\nJoin us for a Saturday session at BEYOND for a high-intensity, low-impact strength workout.\n\nExpect 50 minutes of movement, good energy, and a chance to meet ambitious people outside your usual circles - all while training on BEYOND’s custom-built resistance machines.\n\nWhether you're new to strength training or already a regular, the session is designed for all levels, all bodies and both men and women.\n\n11 spots via apply-to-join\n\nLocation: Beyond Fitness London\nCost: 10 GBP\n\nNote: Every attendee must create a BEYOND account and sign the required waiver before attending.\n\nWho is this for?\n\nFounders, creatives, marketers, operators, and builders in London who want to move, meet new people, and try something a little different on a Saturday.\n\nHosted by Ripple Social Club & BEYOND FITNESS\n\n## Ripple Social Club.\n\nWe host experimental social experiences for London's most highly agentic.\n\nA curation of invite-only, high-momentum experiences to compound your growth.\n\nDesigned to create meaningful connections through question prompts, unique event locations and a small guest list.\n\nWe make ambition socially contagious.\n\n[Find us on our website here](https://ripplesocialclub.com/)\n\n[Stay updated via Linkedin](https://www.linkedin.com/company/107183424/) [and Instagram](https://www.instagram.com/ripple.social.club/)\n\n----\n\nTickets are non-refundable, but may [be transferred to another person. More info on Refund Policy.](https://luma.com/ripplesocialclub/refund-policy)",
-    "startDate": "2026-09-19T11:00:00.000Z",
-    "endDate": "2026-09-19T12:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/kiztd80e",
-    "registrationUrl": "https://luma.com/kiztd80e",
-    "coverImage": "/events/luma-crypto-j11ubow2ohuufkw-8df9f49a.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Ripple Team"
-    ],
-    "price": "GBP 10",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Ripple Social Club",
-      "url": "https://ripplesocialclub.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/kiztd80e",
-        "price": 10,
-        "priceCurrency": "GBP",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/kiztd80e",
-      "eventId": "evt-j11uBoW2oHUUFkW",
-      "fetchedAt": "2026-09-19T23:45:38.254Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

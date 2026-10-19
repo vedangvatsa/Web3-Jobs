@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { buildGoogleEventSchema } from '../src/lib/event-schema';
 import type { Web3Event } from '../src/lib/events';
+import { getEventVenueLabel, hasDetailedStreetAddress } from '../src/lib/event-address';
 
 const sourceUrl = 'https://events.example.com/register';
 const pageUrl = 'https://hashtagweb3.com/example-event';
@@ -57,6 +58,17 @@ assert.equal(schema({ streetAddress: 'Mumbai' }), null, 'a city in streetAddress
 assert.equal(schema({ streetAddress: 'Jio World Centre' }), null, 'a venue-only streetAddress must suppress schema');
 assert.equal(schema({ streetAddress: '10' }), null, 'a bare streetAddress number must suppress schema');
 assert.ok(schema({ streetAddress: '42 Rue de Rivoli, 75001 Paris' }), 'a detailed international streetAddress should emit schema');
+assert.ok(schema({ description: 'Student tickets exclude online-only programs and short courses.' }), 'student eligibility must not turn an in-person conference into an online-only event');
+assert.ok(schema({ attendanceMode: 'offline', description: 'Attend the conference in person. Join us online for the recorded sessions afterward.' }), 'confirmed physical attendance is not invalidated by a recording option');
+assert.equal(schema({ description: 'This conference is online-only.' }), null);
+assert.equal(schema({ attendanceMode: 'offline', location: 'Online' }), null, 'an explicit online venue still wins over inconsistent metadata');
+for (const address of ['G Block, Bandra Kurla Complex (BKC)', 'Bennelong Point, Sydney NSW 2000, Australia', 'T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2']) {
+  assert.ok(hasDetailedStreetAddress(address), address);
+  assert.ok(schema({ streetAddress: address }), address);
+}
+for (const address of ['G Block', 'Bandra Kurla Complex', 'Mumbai', 'Jio World Centre']) assert.equal(hasDetailedStreetAddress(address), false, address);
+assert.equal(getEventVenueLabel(event({ venueName: 'The Shed', location: 'The Shed, New York', streetAddress: '545 W 30th St', addressLocality: 'New York', addressCountry: 'US' })), 'The Shed, 545 W 30th St, New York, US');
+assert.equal(getEventVenueLabel(event({ locationHidden: true, streetAddress: '100 Hidden Street', venueName: 'Hidden Venue', city: 'Mumbai', country: 'India' })), 'Mumbai, India');
 
 const free = schema({ price: 'Free' });
 assert.ok(free?.offers, 'Free should emit an offer');

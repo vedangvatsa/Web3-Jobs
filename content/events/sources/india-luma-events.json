@@ -84,54 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-monad-blitz-mumbai-september-2026",
-    "name": "Monad Blitz Mumbai V4",
-    "description": "## One Day. No Limits. Just Ship.\n\nMonad Blitz is storming into Mumbai for Blitz V4! This isn't your typical multi-day hackathon. It's a high-intensity, one-day IRL build sprint where you'll learn Monad, ship fast, and plug directly into one of the most exciting high-performance blockchain ecosystems today.\n\nSince launching in 2025, Monad Blitz has energized builders from Shenzhen to San Francisco through 50+ Blitz Hacks. Now, the energy continues in Mumbai.\n\nGet ready for an all-action day where you learn, build, vibe, and ship, all at ludicrous speed.\n\n## ⚡ THE VIBE\n\nMumbai Blitz isn't about fancy zones or over-engineered setups. It's about pure builder energy and a day dedicated to creating, collaborating, and shipping at speed.\n\n🤝 Connect with Mumbai's Sharpest Builders\n\nMeet some of the city's most talented developers. Share ideas, spark new ones, form teams instantly, and build alongside people who move as fast as you do.\n\n💡 Collaborate & Ship Wild Ideas\n\nCome with an idea or discover one on the spot. Blitz is designed for momentum. Prototype fast, get real feedback, iterate quickly, and ship a consumer-ready dApp on Monad by evening.\n\n🍽️ Energise, Build, Repeat\n\nGood food, good conversations, and a lot of code. Expect a full day of vibes, velocity, and execution.\n\n## 🎯 THE STAKES\n\n$1,500 Prize Pool\n\n• 🥇 1st Place: $500\n• 🥈 2nd Place: $400\n• 🥉 3rd Place: $300\n• 🎖️ 4th Place: $200\n• 🎗️ 5th Place: $100\n\nPeer-Judged: Your fellow builders choose the winners. Zero Constraints: Build any consumer app on Monad. If it runs, it's fair game.\n\n## THE FLOW\n\n1. Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.\n2. Build: 7 hours of high-speed execution. Form a team or go solo.\n3. Ship: Demo your MVP to the crowd.\n4. Win: Claim your share of the prize.\n\n## WHY BLITZ?\n\nMonad is built for speed, and Blitz is how we prove it.\n\nWe provide the environment, the mentors, and the brain fuel (yes, everything is purple). You bring the code.\n\nWhether you're a seasoned EVM developer or just curious about high-performance blockchains, if you can ship, you belong here.\n\n📅 Event Date: 19 September\n📝 Applications close: 17 September\n\nCapacity is limited. Apply early to secure your spot.\n\n## 🧑‍💻 WHO SHOULD APPLY?\n\nMumbai's best builders:\n\n• Proven Builders: Show off your GitHub, portfolio, or past projects.\n• Experimenters & Innovators: Bring that idea you've been itching to test.\n• Fast Learners: You thrive in high-tempo environments.\n• Community-Minded Devs: Ready to connect and join the Monad ecosystem.\n\nTeams of up to 3 members allowed.\n\n## About Monad\n\nMonad is a high-performance, EVM-compatible Layer 1 blockchain built from the ground up for parallel execution.\n\nWith innovations in consensus and execution, Monad can scale to 10,000 TPS, enabling new classes of hyper-responsive, consumer-ready applications.\n\n## About Monad Blitz\n\nMonad Blitz is a global one-day hackathon series designed for speed, experimentation, and real output.\n\nIt has traveled from Shenzhen to San Francisco, empowering thousands of developers and producing hundreds of prototypes, all in a single day per city.\n\nIf you like working fast, this is where you belong.\n\n## Disclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.\n\nYour entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any recorded media of your appearance, voice, and name for any purpose in connection with Monad Foundation and its initiatives.\n\nBy attending the event, you waive and release any claims related to the use of such media.",
-    "startDate": "2026-09-19T03:30:00.000Z",
-    "endDate": "2026-09-19T15:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/monad-blitz-mumbai-september-2026",
-    "coverImage": "/events/india-luma-monad-blitz-mumbai-september-2026-938db638.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Monad Foundation",
-      "Kartikey Garg",
-      "Arsh Goyal",
-      "Kushal Vijay"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "mbmv",
-    "registrationUrl": "https://luma.com/monad-blitz-mumbai-september-2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Monad Foundation Events",
-      "url": "https://monad.xyz/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/monad-blitz-mumbai-september-2026",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/monad-blitz-mumbai-september-2026",
-      "eventId": "evt-aCK2a8CyKWUsxU7",
-      "fetchedAt": "2026-09-19T23:30:14.595Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-team1-indore",
     "name": "Team1 India Workshop | Indore",
     "description": "## Welcome to the Team1 India Avalanche Workshop in Indore\n\n## Introduction\n\nJoin Team1 India in Indore for a hands-on developer workshop where you'll go from zero to deploying your first smart contract on Avalanche Fuji C-Chain.\n\nThis session is designed for developers, engineering students, beginner Solidity builders, hackathon participants, and anyone curious about building on Avalanche.\n\nNo previous blockchain experience is required.\n\nDuring the workshop, you'll:\n\n• Set up a Core or compatible wallet\n• Connect to Avalanche Fuji C-Chain\n• Claim free testnet AVAX\n• Learn the basics of Solidity\n• Write and compile a smart contract in Remix\n• Deploy it to Avalanche Fuji\n• Interact with your contract on-chain\n• Verify your deployment on Snowtrace\n• Leave with a public proof-of-work link you can share\n\n💻 Bring your laptop\n🌐 Reliable Wi-Fi will be available\n🎟️ Limited to approximately 45 participants\n\nAfter the workshop, stick around for food, networking, and conversations with fellow developers and builders from Indore.\n\n## 🗓️ Event Program\n\n5:30 PM — Doors open, registrations & networking\n\n6:00 PM — Welcome & opening by Team1 host\n[Laksh Dilliwal](https://x.com/lakshdilliwal)\n\n6:10 PM — Introduction to Team1, Avalanche & the C-Chain ecosystem\n\n6:25 PM — Wallet setup, wallet safety & Avalanche Fuji Testnet\n\n6:40 PM — Claim testnet AVAX & introduction to Avalanche Builder Hub\n\n6:55 PM — Introduction to Remix IDE & Solidity basics\n\n7:10 PM — Build your first NumberStorage smart contract\n\n7:30 PM — Compile & deploy the contract to Avalanche Fuji C-Chain\n\n7:45 PM — Interact with the contract & understand storage vs memory\n\n8:00 PM — Verify deployments and transactions on Snowtrace\n\n8:15 PM — Share proof of work, developer resources & what's next on Avalanche\n\n8:25 PM — Q&A\n\n8:35 PM — Food, networking & builder conversations\n\n9:00 PM — Closing\n\n## 👨‍💻 Who Should Attend?\n\nThis workshop is ideal for:\n\n• Developers and engineering students\n• Beginner Solidity developers\n• Web3 and blockchain builders\n• Hackathon participants\n• Developers exploring Avalanche\n• Anyone who wants their first hands-on smart contract deployment\n\nYou do not need prior Solidity or blockchain experience.\n\nJust bring your laptop, browser, and curiosity.\n\n## 🛠️ What You'll Build\n\nDuring the workshop, you'll build and deploy a simple smart contract that stores a number on-chain and reads it back.\n\nAlong the way, you'll learn one of the most important Solidity concepts:\n\nStorage vs Memory\n\nYou'll experience the difference between:\n\n• Writing data on-chain and paying gas\n• Reading blockchain state for free\n• Temporary memory and permanent blockchain storage\n\nBy the end of the workshop, your contract will be live on Avalanche Fuji and publicly verifiable through the block explorer.\n\n## 🎯 Workshop Outcomes\n\nOur goal is not just attendance.\n\nWe want participants to leave having actually used Avalanche.\n\nExpected outcomes include:\n\n• New developer wallets created\n• Developers onboarded to Avalanche Fuji\n• Smart contracts successfully deployed\n• Public contract and transaction links generated\n• Developers introduced to Avalanche Builder Hub, Academy and Docs\n• New builders identified for future Team1 workshops and ecosystem opportunities\n\n## 🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, and community members who grow Avalanche.\n\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation, and community-led initiatives.\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\nhttps://x.com/AvaxTeam1\n\nWhat to bring\n\n💻 Laptop\n🔋 Charger\n🧠 No prior blockchain experience required\n\nEverything during the workshop runs on Avalanche Fuji Testnet, so no real funds are required.\n\nCome curious. Leave with your first smart contract deployed on Avalanche. 🔺\nhttps://x.com/AvaxTeam1",

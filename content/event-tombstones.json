@@ -866,5 +866,34 @@
       "india-luma-x7p1zqx2",
       "rrdn"
     ]
+  },
+  "premier-afrochain-2026": {
+    "until": "2027-10-19T15:41:56.832Z",
+    "slugs": [
+      "premier-afrochain-2026",
+      "afrochain-2026",
+      "afrochain"
+    ]
+  },
+  "india-luma-monad-blitz-mumbai-september-2026": {
+    "until": "2027-10-19T15:41:56.832Z",
+    "slugs": [
+      "india-luma-monad-blitz-mumbai-september-2026",
+      "mbmv"
+    ]
+  },
+  "luma-crypto-PJA3o7ucniYAKBP": {
+    "until": "2027-10-19T15:41:56.832Z",
+    "slugs": [
+      "luma-crypto-pja3o7ucniyakbp",
+      "crypto-blo"
+    ]
+  },
+  "luma-crypto-j11uBoW2oHUUFkW": {
+    "until": "2027-10-19T15:41:56.832Z",
+    "slugs": [
+      "luma-crypto-j11ubow2ohuufkw",
+      "rxbf"
+    ]
   }
 }

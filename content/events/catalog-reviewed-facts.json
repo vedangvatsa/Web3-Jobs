@@ -7311,6 +7311,14 @@
     }
   },
   "premier-indiabw-2026": {
+    "attendanceMode": "offline",
+    "organizer": { "type": "Organization", "name": "Hashed Emergent", "url": "https://www.hashedem.com/" },
+    "venueName": "Fairmont Mumbai",
+    "location": "Fairmont Mumbai, T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2, Mumbai 400099, India",
+    "streetAddress": "T2 C06 At C T S No 1405 (Part), Chhatrapati Shivaji Maharaj International Airport T2",
+    "addressLocality": "Mumbai",
+    "postalCode": "400099",
+    "addressCountry": "IN",
     "speakers": [
       "Eli Ben-Sasson",
       "Keone Hon",
@@ -7411,5 +7419,19 @@
   },
   "premier-ethmumbai-2026": {
     "approvalRequired": true
+  },
+  "premier-devcon-2026": {
+    "attendanceMode": "offline",
+    "organizer": { "type": "Organization", "name": "Ethereum Foundation", "url": "https://ethereum.foundation/" },
+    "venueName": "Jio World Centre",
+    "location": "Jio World Centre, G Block, Bandra Kurla Complex (BKC), Mumbai, India",
+    "streetAddress": "G Block, Bandra Kurla Complex (BKC)",
+    "addressLocality": "Mumbai",
+    "addressCountry": "IN",
+    "sourceReview": {
+      "url": "https://devcon.org/en/",
+      "checkedAt": "2026-10-19",
+      "reason": "Organizer homepage identifies the physical venue and G Block address; general-admission tickets are available without membership or invitation. Online-only programs refers to student-discount eligibility, not the conference attendance mode."
+    }
   }
 }

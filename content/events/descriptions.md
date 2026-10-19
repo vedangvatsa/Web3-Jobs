@@ -16,18 +16,6 @@ Generated from `sources/`. Formatting uses the event-page organizer-copy formatt
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-e53a3c8a2a598c1d"></a>
-
-## AfroChain 2026
-
-- Record: `premier-afrochain-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-17T09:00:00+03:00
-- Description: Unverified stored copy
-- Original page: <https://www.afrochainsummit.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-2437e324ed29a7cb"></a>
 
 ## HackIndia Spark-12 Jaipur 2026
@@ -18066,106 +18054,6 @@ Secret Society hosts ETHwali, a Diwali celebration for the Ethereum community in
 
 The invitation welcomes protocol builders, developers, founders, open-source contributors, creators, people exploring Web3 and others interested in meeting the community. Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
-<a id="event-1bdc7ef1197a1c1a"></a>
-
-## Monad Blitz Mumbai V4
-
-- Record: `india-luma-monad-blitz-mumbai-september-2026`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-19T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/monad-blitz-mumbai-september-2026>
-
-### One Day. No Limits. Just Ship
-
-Monad Blitz is storming into Mumbai for Blitz V4! This isn't your typical multi-day hackathon. It's a high-intensity, one-day IRL build sprint where you'll learn Monad, ship fast, and plug directly into one of the most exciting high-performance blockchain ecosystems today.
-
-Since launching in 2025, Monad Blitz has energized builders from Shenzhen to San Francisco through 50+ Blitz Hacks. Now, the energy continues in Mumbai.
-
-Get ready for an all-action day where you learn, build, vibe, and ship, all at ludicrous speed.
-
-### THE VIBE
-
-Mumbai Blitz isn't about fancy zones or over-engineered setups. It's about pure builder energy and a day dedicated to creating, collaborating, and shipping at speed.
-
-Connect with Mumbai's Sharpest Builders
-
-Meet some of the city's most talented developers. Share ideas, spark new ones, form teams instantly, and build alongside people who move as fast as you do.
-
-Collaborate & Ship Wild Ideas
-
-Come with an idea or discover one on the spot. Blitz is designed for momentum. Prototype fast, get real feedback, iterate quickly, and ship a consumer-ready dApp on Monad by evening.
-
-Energise, Build, Repeat
-
-Good food, good conversations, and a lot of code. Expect a full day of vibes, velocity, and execution.
-
-### THE STAKES
-
-$1,500 Prize Pool
-
-- 1st Place: $500
-- 2nd Place: $400
-- 3rd Place: $300
-- 4th Place: $200
-- 5th Place: $100
-
-Peer-Judged: Your fellow builders choose the winners. Zero Constraints: Build any consumer app on Monad. If it runs, it's fair game.
-
-### THE FLOW
-
-1. Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.
-2. Build: 7 hours of high-speed execution. Form a team or go solo.
-3. Ship: Demo your MVP to the crowd.
-4. Win: Claim your share of the prize.
-
-### WHY BLITZ?
-
-Monad is built for speed, and Blitz is how we prove it.
-
-We provide the environment, the mentors, and the brain fuel (yes, everything is purple). You bring the code.
-
-Whether you're a seasoned EVM developer or just curious about high-performance blockchains, if you can ship, you belong here.
-
-Event Date: 19 September
-
-Applications close: 17 September
-
-Capacity is limited. Apply early to secure your spot.
-
-### WHO SHOULD APPLY?
-
-Mumbai's best builders:
-
-- Proven Builders: Show off your GitHub, portfolio, or past projects.
-- Experimenters & Innovators: Bring that idea you've been itching to test.
-- Fast Learners: You thrive in high-tempo environments.
-- Community-Minded Devs: Ready to connect and join the Monad ecosystem.
-
-Teams of up to 3 members allowed.
-
-### About Monad
-
-Monad is a high-performance, EVM-compatible Layer 1 blockchain built from the ground up for parallel execution.
-
-With innovations in consensus and execution, Monad can scale to 10,000 TPS, enabling new classes of hyper-responsive, consumer-ready applications.
-
-### About Monad Blitz
-
-Monad Blitz is a global one-day hackathon series designed for speed, experimentation, and real output.
-
-It has traveled from Shenzhen to San Francisco, empowering thousands of developers and producing hundreds of prototypes, all in a single day per city.
-
-If you like working fast, this is where you belong.
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.
-
-Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any recorded media of your appearance, voice, and name for any purpose in connection with Monad Foundation and its initiatives.
-
-By attending the event, you waive and release any claims related to the use of such media.
-
 <a id="event-0516e54857179b6a"></a>
 
 ## Team1 India Workshop \| Indore
@@ -19585,39 +19473,6 @@ If you're building a product yourself and would like to experience the space, Ra
 
 [Book a free trial day at Ramen Space](https://ramenclub.com/ramen-space/#freetrial)
 
-<a id="event-b334397c59f37685"></a>
-
-## Crypto And Blockchain.
-
-- Record: `luma-crypto-PJA3o7ucniYAKBP`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/of9hwrqv>
-
-### About the event
-
-Crypto & Blockchain Networking Meetup
-
-A space for crypto, blockchain, Web3, and technology enthusiasts to connect, exchange ideas, and explore what's next in the industry.
-
-This is a networking-first event - no fixed agenda, no sales pitches, and no pressure. Just genuine conversations with people who are building, investing, experimenting, or simply curious about the future of crypto.
-
-### What to Expect
-
-- Meet and network with people from the crypto & blockchain ecosystem
-- Share new ideas, projects, and perspectives
-- Discuss blockchain, DeFi, Web3, AI × Crypto, and emerging technologies
-- Discover potential collaborations and opportunities
-- Learn from different experiences and viewpoints
-- Build meaningful connections within the community
-
-Whether you're a founder, trader, developer, investor, creator, researcher, or simply interested in crypto, you're welcome.
-
-Bring your ideas. Bring your questions. Bring your network.
-
-Let's connect, exchange perspectives, and see what we can build together.
-
 <a id="event-e933b66669ef0bc2"></a>
 
 ## LONDON FASHION WEEK: ONE2MANY 5 YEAR ANNIVERSARY POP UP + AFTERPARTY
@@ -19639,60 +19494,6 @@ the world of One2Many and allowing guests to view pieces up close and connect wi
 In the evening, the showroom transitions into an intimate LFW afterparty - bringing together friends of the brand, creatives and fashion insiders for an
 
 evening of curated music from our in-house DJs, complimentary drinks and good company.
-
-<a id="event-b8ec6fa451bd7fd1"></a>
-
-## Ripple x Beyond Fitness: Saturday Reset
-
-- Record: `luma-crypto-j11uBoW2oHUUFkW`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kiztd80e>
-
-### Ripple x Beyond Fitness: Saturday Reset
-
-[find out what we've been up to he](https://ripplesocialclub.com)[re](https://ripplesocialclub.com/archive)
-
-### details
-
-Join us for a Saturday session at BEYOND for a high-intensity, low-impact strength workout.
-
-Expect 50 minutes of movement, good energy, and a chance to meet ambitious people outside your usual circles - all while training on BEYOND's custom-built resistance machines.
-
-Whether you're new to strength training or already a regular, the session is designed for all levels, all bodies and both men and women.
-
-11 spots via apply-to-join
-
-Location: Beyond Fitness London
-
-Cost: 10 GBP
-
-Note: Every attendee must create a BEYOND account and sign the required waiver before attending.
-
-### Who is this for?
-
-Founders, creatives, marketers, operators, and builders in London who want to move, meet new people, and try something a little different on a Saturday.
-
-Hosted by Ripple Social Club & BEYOND FITNESS
-
-### Ripple Social Club
-
-We host experimental social experiences for London's most highly agentic.
-
-A curation of invite-only, high-momentum experiences to compound your growth.
-
-Designed to create meaningful connections through question prompts, unique event locations and a small guest list.
-
-We make ambition socially contagious.
-
-[Find us on our website here](https://ripplesocialclub.com/)
-
-[Stay updated via Linkedin](https://www.linkedin.com/company/107183424/) [and Instagram](https://www.instagram.com/ripple.social.club/)
-
-----
-
-Tickets are non-refundable, but may [be transferred to another person. More info on Refund Policy.](https://luma.com/ripplesocialclub/refund-policy)
 
 <a id="event-ee7f5f376ef49b29"></a>
 
