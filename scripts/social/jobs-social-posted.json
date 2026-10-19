@@ -28257,7 +28257,8 @@
       },
       "account": "profile",
       "attemptId": "0f1a55c1-1f3d-45d6-adb5-81d6c4b5d5be",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3993a2e223353b0b2e9e53c44fe901056032aa11"
     }
   ]
 }
