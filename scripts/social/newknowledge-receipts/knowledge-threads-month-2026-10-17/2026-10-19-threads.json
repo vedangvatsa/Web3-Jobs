@@ -101,5 +101,11 @@
   "claimId": "f402a559-2363-4b29-8d8b-5d1b6b5f68b0",
   "startedAt": "2026-10-19T11:32:05.275Z",
   "status": "claimed",
-  "steps": {}
+  "steps": {
+    "0": {
+      "createClaim": "e0879600-11ed-45f1-bd31-f147e37e74a6",
+      "startedAt": "2026-10-19T11:32:06.403Z",
+      "status": "claimed"
+    }
+  }
 }
