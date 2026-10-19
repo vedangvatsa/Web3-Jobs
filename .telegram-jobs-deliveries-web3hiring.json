@@ -6374,7 +6374,7 @@
     "sentAt": "2026-10-19T11:34:12.764Z"
   },
   "854dfc8b-3672-4476-a186-29bb5880c784": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T19:31:46.598Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -6486,6 +6486,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr177?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Intelligence Manager</a>\n- Aave Labs is hiring <a href=\"https://hashtagweb3.com/eng45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Smart Contract Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Analyst - Team Lead</a>\n- Wintermute is hiring <a href=\"https://hashtagweb3.com/infra24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Infrastructure Engineer</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/scda?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Consultant, Digital Assets</a>",
-    "slotKey": "2026-10-19:evening"
+    "slotKey": "2026-10-19:evening",
+    "messageId": 16554,
+    "sentAt": "2026-10-19T19:31:49.876Z"
   }
 }
