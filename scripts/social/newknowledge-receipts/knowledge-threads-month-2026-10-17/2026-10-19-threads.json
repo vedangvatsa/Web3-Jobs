@@ -111,6 +111,12 @@
       "postId": "18193780786398609",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DerKGilG_Sk",
       "verifiedAt": "2026-10-19T11:32:20.980Z"
+    },
+    "1": {
+      "createClaim": "1c465c58-9f32-4483-80d6-8f71d32771b9",
+      "startedAt": "2026-10-19T11:32:22.363Z",
+      "status": "claimed",
+      "replyTo": "18193780786398609"
     }
   }
 }
