@@ -26782,7 +26782,8 @@
       },
       "account": "channel:build",
       "attemptId": "2534508d-fb26-43f6-ba74-0edaa73a282d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3e3dc3a8a53f0a10f995a6822cdd0d098643cbb2"
     }
   ]
 }
