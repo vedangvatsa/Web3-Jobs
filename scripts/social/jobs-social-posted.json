@@ -28747,7 +28747,8 @@
       },
       "account": "channel:product",
       "attemptId": "e2383221-05fd-4d55-9409-0ab8d64d3981",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f066f5617e77c736f4ab09743eea5950134d285"
     }
   ]
 }
