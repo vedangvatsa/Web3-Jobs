@@ -26537,7 +26537,8 @@
       },
       "account": "profile",
       "attemptId": "84f2810b-e014-4279-9514-b8159bdf3732",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb099a6e49548ceae61db49bb0fe74895da5d91f2"
     }
   ]
 }
