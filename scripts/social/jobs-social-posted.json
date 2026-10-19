@@ -25658,7 +25658,8 @@
         "description": "Join Block as Mid-Market Account Excutive. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "966658c5-3ba2-480a-8404-4c6a0878824b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3my7zn2i77v2f"
     }
   ]
 }
