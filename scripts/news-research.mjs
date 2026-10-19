@@ -27,6 +27,16 @@ export function writeReport(ledger, day, cwd = process.cwd()) {
 export function currentRun(cwd = process.cwd()) {
   return JSON.parse(fs.readFileSync(path.join(cwd, RESEARCH_DIR, 'current.json'), 'utf8'));
 }
+
+export function recordResearchBatch(ledger, day, reviews, articles) {
+  if (!Array.isArray(reviews) || !reviews.length) throw new Error('Provide a non-empty JSON array of review outcomes');
+  const next = structuredClone(ledger);
+  for (const review of reviews) {
+    try { reviewCandidate(next, day, review, { articles }); }
+    catch (error) { throw new Error(`Review ${review?.id || '(missing id)'}: ${error.message}`); }
+  }
+  return next;
+}
 function checkpoint(current) {
   if (!current.persist || process.env.GITHUB_ACTIONS !== 'true' || process.env.NEWS_DRY_RUN === 'true') return;
   current.checkpointSha = pushNewsFiles({ baseSha: current.baseSha, expectedBaseSha: current.checkpointSha, files: [LEDGER_PATH], day: current.day, message: `news: checkpoint daily research for ${current.day} [skip ci]` });
@@ -41,6 +51,7 @@ async function main() {
     date: { type: 'string' }, id: { type: 'string' }, status: { type: 'string' }, reason: { type: 'string' }, note: { type: 'string' }, article: { type: 'string' }, duplicate: { type: 'string' },
     title: { type: 'string' }, link: { type: 'string' }, published: { type: 'string' }, source: { type: 'string' },
     read: { type: 'string', multiple: true }, blocked: { type: 'string', multiple: true }, unavailable: { type: 'string', multiple: true }, search: { type: 'string', multiple: true },
+    reviews: { type: 'string' },
   } });
   const action = positionals[0], ledger = loadResearch();
   if (action === 'prepare') {
@@ -65,6 +76,13 @@ async function main() {
     const id = addResearchCandidate(ledger, current.day, values);
     writeResearch(ledger); writeReport(ledger, current.day); checkpoint(current);
     console.log(JSON.stringify({ id }));
+  } else if (action === 'record-batch') {
+    if (!values.reviews) throw new Error('Use record-batch --reviews=.cache/news-research/reviews.json');
+    const current = currentRun();
+    const next = recordResearchBatch(ledger, current.day, JSON.parse(fs.readFileSync(values.reviews, 'utf8')), readNewsArticles());
+    writeResearch(next);
+    console.log(JSON.stringify(writeReport(next, current.day).counts));
+    checkpoint(current);
   } else if (action === 'record') {
     const current = currentRun(), { day } = current;
     const sourceChecks = ['read', 'blocked', 'unavailable'].flatMap(outcome => (values[outcome] || []).map(url => ({ url, outcome })));
@@ -77,6 +95,6 @@ async function main() {
     console.log(fs.readFileSync(path.join(RESEARCH_DIR, 'queue.json'), 'utf8'));
   } else if (action === 'report') {
     const { day } = currentRun(); console.log(reportMarkdown(writeReport(ledger, day)));
-  } else throw new Error('Use prepare, add, queue, record or report');
+  } else throw new Error('Use prepare, add, queue, record, record-batch or report');
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) main().catch(error => { console.error(error.message); process.exitCode = 1; });

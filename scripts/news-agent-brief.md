@@ -75,6 +75,10 @@ names, or plans.
 
 ## 3. Write (follow content/articles/AGENTS.md exactly)
 
+For multiple review outcomes, write a JSON array to `.cache/news-research/reviews.json` and run `node scripts/news-research.mjs record-batch --reviews=.cache/news-research/reviews.json`. Each object uses `id`, `status`, `note`, `articleSlug` (ready), `reason`, `duplicateOf` (duplicate), `sourceChecks: [{url, outcome}]`, and `retrySearches` (deferred). All existing validation still applies. Record a ready article before its duplicate leads. Do not construct shell command strings or use `eval`; quotes and dollar amounts in notes must remain exact. A batch fails atomically and reports the offending candidate ID. Fix that outcome before retrying.
+
+The queue is an object with a `candidates` array; the research report has an `outcomes` array. Do not guess their JSON shapes. Keep checkpoints small enough that useful progress survives interruption.
+
 - File: content/articles/<single-lowercase-word>.md (no hyphens), `category: News`, complete
   front matter (title, ogTitle UPPER, description, image, data-ai-hint,
   publishedDate/lastUpdated = today, never future).
@@ -177,6 +181,7 @@ CI can invoke up to three further repair rounds using this feedback.
   without pushing anything — never push on a red tree).
 - Every outbound link in your articles returns HTTP 200 (curl check).
 - Slug is one lowercase word without hyphens, with no collision with existing files. Never rename published URLs; this rule applies to new articles only.
+- Check root ownership in `content/slug-types.json`, `content/legacy-slugs-archive.json`, `content/event-slug-history.json`, and `public/preview/<slug>.html`. Company and glossary names such as `circle`, `usdc`, `strategy`, and `gemini` may already own root URLs; choose a new, specific one-word slug instead.
 - Never touch unrelated files.
 
 ## 6. Finish the daily review
