@@ -1855,5 +1855,36 @@
     "slotKey": "2026-10-19:afternoon",
     "messageId": 65763,
     "sentAt": "2026-10-19T11:35:24.983Z"
+  },
+  "c85eb25f-1898-4af7-980b-b5a6714c5743": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T19:34:04.574Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Circle Plans Expansion Into 40 Emerging Markets",
+        "summary": "CEO Jeremy Allaire attributed the move to rising demand in Southeast Asia, Latin America, Africa, and the Middle East.",
+        "link": "https://hashtagweb3.com/circlemarkets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Circle plans push into about 40 emerging markets, Allaire says"
+      },
+      {
+        "index": -1,
+        "headline": "Cysic suspends bridge after unauthorized 10 million token mint",
+        "summary": "The team blacklisted the recipient's address on BNB Smart Chain, freezing 2.8 million of the unauthorized tokens.",
+        "link": "https://hashtagweb3.com/cysicmint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Cysic halts bridge after unauthorized mint of 10 million CYS"
+      },
+      {
+        "index": -1,
+        "headline": "JPMorgan launches JPM Coin on Ethereum mainnet",
+        "summary": "Approved institutional clients gained access to the bank-backed deposit token on October 19.",
+        "link": "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "JPMorgan brings JPM Coin to Ethereum for institutional clients"
+      }
+    ],
+    "slotKey": "2026-10-19:evening"
   }
 }
