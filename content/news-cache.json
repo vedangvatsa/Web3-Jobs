@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-19T14:04:50.088Z",
+  "generatedAt": "2026-10-19T15:08:09.968Z",
   "items": [
+    {
+      "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
+      "link": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
+      "pubDate": "Mon, 19 Oct 2026 15:00:00 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
+      "source": "The Block"
+    },
+    {
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "pubDate": "Mon, 19 Oct 2026 14:58:40 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The launch comes as Zerohash bids for a federal trust charter.",
+      "source": "Coindesk"
+    },
     {
       "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
       "link": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
@@ -74,11 +90,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
       "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
       "pubDate": "Mon, 19 Oct 2026 11:05:54 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "Tech futures bounced after last week’s 5.5% rout; earnings this week put the AI trade to the test again.",
+      "contentSnippet": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amoun...",
       "source": "Coindesk"
     },
     {
@@ -130,7 +146,7 @@
       "source": "Decrypt"
     },
     {
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum",
+      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
       "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
       "pubDate": "Mon, 19 Oct 2026 10:03:47 +0000",
       "creator": "Omkar Godbole",
