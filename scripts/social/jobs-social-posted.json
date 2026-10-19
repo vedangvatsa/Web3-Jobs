@@ -28054,6 +28054,48 @@
       "verification": "pending",
       "postId": "6ad670c1a569186c79ce85e8",
       "error": "LinkedIn CVin.Bio receipt 6ad670c1a569186c79ce85e8 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "mkt109",
+      "company": "BitGo",
+      "title": "Marketing Generalist, BitGo Labs (Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-19T19:32:13.106Z",
+      "expectedText": "BitGo is hiring Marketing Generalist, BitGo Labs (Contract): https://hashtagweb3.com/mkt109/li?og=7",
+      "snapshot": {
+        "id": "8853156002",
+        "title": "Marketing Generalist, BitGo Labs (Contract)",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8853156002",
+        "date": "2026-10-15T13:54:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Palo Alto, CA",
+        "department": "Marketing",
+        "active": true,
+        "salary": "$10k – $13k/mo",
+        "dateVerified": true,
+        "slug": "mkt109"
+      },
+      "payload": {
+        "text": "BitGo is hiring Marketing Generalist, BitGo Labs (Contract): https://hashtagweb3.com/mkt109/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mkt109/li?og=7",
+          "title": "Marketing Generalist, BitGo Labs (Contract) at BitGo",
+          "description": "Join BitGo as Marketing Generalist, BitGo Labs. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mkt109.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b873e098-5ad8-4268-8b7f-750cea1885f0",
+      "verification": "creating"
     }
   ]
 }
