@@ -1763,7 +1763,7 @@
     "sentAt": "2026-10-18T11:35:18.558Z"
   },
   "55cae452-5b22-46d3-ab88-3c3ac73f3e41": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T19:33:26.069Z",
     "stories": [
       {
@@ -1793,6 +1793,8 @@
         "originalTitle": "Tolan snags $30M for its AI companion that helps users navigate life"
       }
     ],
-    "slotKey": "2026-10-19:evening"
+    "slotKey": "2026-10-19:evening",
+    "messageId": 193374,
+    "sentAt": "2026-10-19T19:33:36.611Z"
   }
 }

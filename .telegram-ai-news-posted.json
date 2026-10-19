@@ -761,6 +761,9 @@
   "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
   "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
   "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+  "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+  "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+  "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2066,6 +2069,12 @@
   "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
   "MIT Technology Review reports on social media regulation",
   "The Download: failed social media bans, and extending pets’ lives",
+  "Tenstorrent raises $1.5 billion to scale AI chips",
+  "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+  "Hackers steal user API keys from OpenCode platform",
+  "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+  "Tolan raises $30 million for AI companion app",
+  "Tolan snags $30M for its AI companion that helps users navigate life",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2344,5 +2353,8 @@
   "fp:abruptly|catastrophic|computer|conflict|dimm|dur|even|failur|gam|geoengineer",
   "fp:anthropic|becam|becom|data|duration|employe|experienc|increas|internal|junior",
   "fp:are|biotech|can|cellular|cover|delay|design|develop|domestic|extend",
-  "fp:access|analyz|attempt|ban|download|extend|fail|failur|legislativ|liv"
+  "fp:access|analyz|attempt|ban|download|extend|fail|failur|legislativ|liv",
+  "fp:15b|62b|chip|fund|hit|independent|open|produc|rais|remain",
+  "fp:account|analysis|api|attacker|block|breach|caus|charg|cod|filter",
+  "fp:000|30m|activ|app|companion|currently|help|lif|management|mor"
 ]
