@@ -27930,7 +27930,8 @@
       },
       "account": "channel:design",
       "attemptId": "69374607-ff27-4a25-9189-829127d2304f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4c476b843477097a9e0ab87d36cb82c2a29e1ee8"
     }
   ]
 }
