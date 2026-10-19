@@ -19960,7 +19960,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027"
   },
@@ -20417,7 +20417,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21183,7 +21183,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316844007/",
-    "coverImage": "/events/mu-316844007-27555cfc.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21453,7 +21453,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
-    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -21467,12 +21467,9 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
-    "coverImage": "/events/mu-316802767-2db74201.webp",
+    "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -21561,7 +21558,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/",
-    "coverImage": "/events/mu-315962979-975e4753.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22225,7 +22222,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316843977/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316843977-eff83e66.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23834,7 +23831,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802761-53bc0fb8.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23960,7 +23957,10 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Jordan Boich"
+    ]
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -24294,6 +24294,34 @@
     "location": "Seattle, United States",
     "url": "https://lu.ma/eitsogbg",
     "coverImage": "/events/luma-evt-lzupoprffkuqski-8ab933ff.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-5O8lZuQ7B05WQd4",
+    "name": "Unicorn Battle - Ukrainian Founders",
+    "description": "",
+    "startDate": "2026-10-22T00:00:00.000Z",
+    "endDate": "2026-10-22T03:00:00.000Z",
+    "city": "Menlo Park",
+    "country": "United States",
+    "location": "Menlo Park, United States",
+    "url": "https://lu.ma/1nroh9a0",
+    "coverImage": "/events/luma-evt-5o8lzuq7b05wqd4-e8b8adfc.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-V53ojWka5tr7GSw",
+    "name": "Hands-On Bitcoin Multisig Workshop",
+    "description": "",
+    "startDate": "2026-10-24T21:00:00.000Z",
+    "endDate": "2026-10-24T23:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/r4vintbd",
+    "coverImage": "/events/luma-evt-v53ojwka5tr7gsw-31cdd280.webp",
     "source": "luma",
     "month": "October 2026"
   }

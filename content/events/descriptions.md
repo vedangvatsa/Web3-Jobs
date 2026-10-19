@@ -19355,153 +19355,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-0463352010d3e285"></a>
-
-## Wallet Max Emerald Summit: Sustainability & AI for Business
-
-- Record: `luma-crypto-LX1ZgHPjJxfSRg4`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/emeraldsummitwm26>
-
-### Emerald Summit: AI in Action for People and Planet
-
-Join us at #ClimateWeekNYC 2026: Wallet Max Emerald Summit: Sustainability & AI for Business - to fund sustainable and profitable tech for people, planet, and global communities!
-
-- Our themes this September are Fundraising Community and AI Sustainability, with a special emphasis on Enterprise Transformation.
-
-### Summit Website
-
-- Stay in the know, and receive real time programming updates, speaker profiles, and networking opportunities [on our dedicated event page: www.getwalletmax.com/summit](https://www.getwalletmax.com/summit)
-
-### What's in it for you?
-
-Discover the next generation of bold, INNOVATIVE, and sustainable fintech solutions that are driving our planet forward.
-
-Learn, network, collaborate, and take action: along with global/local startups/founders, impact investors, corporate executives/CEOs/CxOs, climate talent/leaders/researchers, sustainable policymakers, press/media strategists, and many more with a common mission and futuristic mindset.
-
-### From Startups to C-Suite: A Curated Ecosystem of Climate Enthusiasts
-
-Who's in the Room at Emerald Summit:
-
-Taking place at the intersection of NYC Climate Week, the UN General Assembly (UNGA), and NYC Fashion Week - our Summit annually brings diverse groups of impact enthusiasts and future innovators.
-
-- As climate intersects with all sectors, we see corporate executives in healthcare, food, climate, fintech, tech/AI, fashion, and more.
-- Startup founders, small-medium-businesses, tech builders - climate, fintech, AI, data, infrastructure (from Seed to Series B+).
-- Investors (Angels, Venture Capital, Private Equity, Family Offices, Fund of Funds) - investing from pre-seed through IPOs.
-- Corporate Boards, Executives, Middle Management - Board directors, CEOs, C-Suite (CTO, CIO, CFO, AI Officers, Sustainability Officers).
-- Policymakers and public sector leaders - NYC state/city officials, local regulators, financial institutions, Wall Street professionals.
-- Additional participants - students, university leaders, community organizations, local/global media representatives (covering NYC Climate Week, UNGA, and NYC Fashion Week both on the ground and virtually).
-
-### Emerald Summit 2026 Agenda
-
-09:00 AM | Registration, Breakfast & Networking
-
-- Start the NYC Climate Week with light snacks and networking with registration.
-
-10:30 AM | Welcome Keynote: Shaping Sustainable Futures With Community
-
-- [Alissa Miky](https://www.linkedin.com/in/alissa-miky-21a8673b/), Aqua Theon
-- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
-
-11:00 AM | Unlocking Capital Flows For Climate Solutions
-
-- [Eric Williams](https://www.linkedin.com/in/eric-c-williams/), Detroit Justice Center
-- [Martin Avidan](https://www.linkedin.com/in/martin-avidan-cfa/), Spruce Road Consulting
-- [Neha Arora](https://www.linkedin.com/in/drnehaaroraphd/), Founder, The Climate Chain Reaction
-- [Parichat Wrolstad](https://www.linkedin.com/in/parichatcha/), ESG & Sustainability Advisor
-
-11:45 AM | Sustainability Playbook: How Overlooked Founders Build On Their Own Terms
-
-- [Betsy Fore](https://www.linkedin.com/in/betsyfore/), Velveteen Ventures
-- [Blair Carl Smith](https://www.linkedin.com/in/blaircsmith/), Ex-Milken Institute Financial Markets
-- [Elana Margulies-Snyderman](https://www.linkedin.com/in/elanamarguliessnyderman/), EMS Network
-- [Sacha Awwa](https://www.linkedin.com/in/sachaawwa/), SAMG Marketing Group
-- [Will Hogan](https://www.linkedin.com/in/willhogan/), Umergence
-
-12:30 PM | Climate Fintech: Fireside Chat
-
-- [Shameek Bose](https://www.linkedin.com/in/shameek-bose-m-p-a-19a39813/), Ex-WEF, Accenture, JPMorgan
-- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
-
-1:00 PM | Lunch & Networking
-
-- Network over lunch with executives, investors, media, entrepreneurs, and policy makers in climate, fintech, AI.
-
-2:00 PM | Finding The Right Mix Of Advisors For A Startup
-
-- [Enes Karakullukcu](https://www.linkedin.com/in/eneskarakullukcu/), Klaris Capital
-- [Katie Palencsar](https://www.linkedin.com/in/katiepalencsar/), Starmoire
-- [Scott Ryan](https://www.linkedin.com/in/scottwilliamryan/), Investature
-- [Sonam Velani](https://www.linkedin.com/in/sonamvelani/), Streetlife Ventures
-- [Tiya Gordon](https://www.linkedin.com/in/tiya-gordon-itselectric/), it's electric
-
-3:00 PM | The Scarcity Trade: Investing In What We Cannot Live Without
-
-- [Cody Ley](https://www.linkedin.com/in/h4hcody/), Hemp for Humanity
-- [David Chan](https://www.linkedin.com/in/dachan/), Homestead Capital
-- [David Lanning](https://www.linkedin.com/in/david-lanning-0ba3735a/), Water Asset Management
-- [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
-- [Richard Freund](https://www.linkedin.com/in/richardkfreund/), CDP
-
-3:45 PM | Powering Tomorrow: Innovation, Policy, and the Future of Renewables
-
-- [Eddy van der Paardt](https://www.linkedin.com/in/eddy-van-der-paardt-193a4/), Virtu Capital Partners
-- [Jillian Foster](https://www.linkedin.com/in/jillianjfoster/), Global Insight
-- [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency
-- [Kayla Urquhart](https://www.linkedin.com/in/kayla-urquhart-331163127/), The Energy Co-op
-- [Manail Anis Ahmed](https://www.linkedin.com/in/manailahmed/), Columbia University
-
-4:30 PM | Closing Keynote: Accelerate Impact Beyond Climate Week
-
-- [Peter Fusaro](https://www.linkedin.com/in/fusaroglobalchange/), Wall Street Green Summit
-- [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max
-
-5:00 - 6:00 PM | Networking Lounge
-
-- End the day with casual networking and meet with industry experts.
-
-Climate tech is about directing capital toward a livable planet - and that makes it fintech.
-
-From funding clean energy and scaling carbon markets to embedding sustainability in everyday transactions, these innovations rely on the same tools that power financial systems.
-
-And just like fintech, climate tech isn't only about technology - it's about access. When climate solutions are paired with financial inclusion, we unlock regenerative systems that work for People, planet, AND PROFIT.
-
-CLIMATE FINTECH isn't the future - it's the now.
-
-### Why The Emerald Summit Matters
-
-When climate solutions are paired with financial inclusion, we unlock regenerative systems that work for people, planet, and profit.
-
-Climate fintech isn't the future. It's the now.
-
-If you're a changemaker, entrepreneur, or professional passionate about impacting our world: you won't miss this Summit.
-
-Reserve your space today and make your mark as a leader in climate tech.
-
-### MEET YOUR HOST
-
-[Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/) (she/her) is the futuristic [founder and CEO driving sustainable innovation at Wallet Max](https://www.getwalletmax.com/), a global community of corporate executives, policy leaders, and venture capital investors expanding fundraising access for high-growth impact startups. With an MBA from Columbia University in New York and as a senior executive director on Wall Street for three decades, Bhuva has managed diverse financial portfolios and launched several digital transformation products for investment banks, capital markets, and payment networks.
-
-Bhuva's leadership and risk governance oversight, during the global financial crisis and the pandemic, was pivotal for the success of regulatory compliance and mergers acquisitions at the world's top banks and credit rating institutions. Bhuva is a board director and C-Suite advisor for people and planet friendly businesses, without compromising profits, and a keynote and TEDx speaker advancing economic inclusion and climate-fintech partnerships.
-
-Bhuva is the USA country director for World Business Angels Investment Forum and the Chief Ethics & Culture Officer for Women in AI worldwide. She leads fundraising strategy and product operations for market expansion and manages investor relations from diligence [to investment. Bhuva is the founder of Bhuva's Impact Global](https://www.bhuvas-impact.global/), offering board and enterprise risk advisory services for public and private corporations.
-
-### About Wallet Max
-
-[Wallet Max](https://www.getwalletmax.com/events) is an inclusive global community of corporate executives and venture capitalists with a mission to expand fundraising access for high-growth startups in the technology, AI, fintech, and climate sustainability sectors.
-
-With more than 10 investments directly in impact entrepreneurs thus far, Wallet Max's network of 2,000 innovators and 60 partners regularly meet in person and virtually throughout the year to mutually exchange connections and drive collective action. Wallet Max ecosystem of events and initiatives are prominent during the New York Fintech Week, the New York Tech Week, and the New York Climate Week every year.
-
-[Wallet Max's Planet Positive Podcast](https://www.getwalletmax.com/podcast) is a monthly interview with investors driving impact globally. Aligned with our mission to challenge the status quo, we showcase personal and professional journeys of diverse investors (Angels, VCs, PEs, Family Office, Corporate Venture) looking to leverage inclusion and impact without compromising growth of investments. Supporting sustainable innovations is good for people's wellbeing, planet survival, and financial profits.
-
-Learn more about Wallet Max success and 2026 global initiatives: https://getwalletmax.com/climate-forward
-
-Note that photographs and video will be taken throughout the event and will be used for marketing purposes only.
-
-Once your seat at the table has been approved, your payment method on Luma will be charged. Please note that there are no refunds for this event given the exclusive nature.
-
 <a id="event-a90ad091c67e358a"></a>
 
 ## Robot Hackathon: Fine Motor Skills
@@ -19617,50 +19470,6 @@ Presented By
 
 [Viam](https://www.viam.com/) - The robotics software platform we'll use to configure, control, and deploy models to your robot. Viam makes it easy to get a robot up and running quickly.
 
-<a id="event-8a3e910483ca0a71"></a>
-
-## Metropolis Hackathon Builder Day: NYC \| $250,000 in prizes
-
-- Record: `luma-crypto-x8a9zaULCtPZTV2`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/metropolis-nyc-sep-2026>
-
-### About the event
-
-Metropolis is Monad's flagship six-week global hackathon, bringing builders together to design, ship, and scale the next generation of onchain applications, with over $250,000 in prizes up for grabs.
-
-Join us for a full-day IRL builder activation during the Metropolis build window - hear from experts and VCs, co-work alongside other teams and get hands-on support from mentors.
-
-The day runs from a relaxed co-working morning through structured programming: an opening track overview, a live panel with judges from Metropolis, afternoon workshops and rotating mentor office hours, and an evening happy hour to close things out.
-
-Whether you're already building for Metropolis or just active in the local ecosystem, come meet other builders, get face time with the people judging the hackathon, and make progress alongside the community.
-
-### What to expect
-
-- Co-working and builder networking all day
-- A live panel with VCs from Metropolis's judging panel - a rare chance to hear directly from the people evaluating submissions
-- Opening remarks and a Metropolis track overview
-- Rotating mentor office hours
-- Sponsor and partner touchpoints
-- Light food throughout, plus an evening happy hour
-
-### Schedule
-
-- 11:00 AM - Brunch & networking
-- 12:00 PM - Opening remarks & track overview
-- 12:30 [PM - Panel, featuring Drake Evans](https://x.com/drakeevans)([Agora](https://www.agora.finance/)), [Will Nuelle](https://x.com/willnuelle) ([Galaxy](https://ventures.galaxy.com/))
-- 2:00 PM - Co-working & rotating mentor office hours
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.
-
-Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.
-
-By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
-
 <a id="event-1d8484897fcfa579"></a>
 
 ## AI Databricks Hackathon + Networking Mixer NYC
@@ -19734,48 +19543,6 @@ Databricks - Queens College Tech Incubator - WAGMI-Connect
 No proceeds go to Databricks. Spots are limited, reserve yours below!
 
 Contact the host on Linkedin for any questions/concerns: https://www.linkedin.com/in/kaurpriyanka
-
-<a id="event-3b3cb2220e0df797"></a>
-
-## Crypto Meetup & Professional Networking
-
-- Record: `luma-crypto-FaqnWiHbv5fjS7g`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T01:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/zgiywrhk>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-27e3354f485544cc"></a>
-
-## Colosseum Kickoff + How to Win the Hackathon
-
-- Record: `luma-crypto-IGJw8bkmSkQW3r1`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gxhipc87>
-
-### About the event
-
-Colosseum Kickoff + How to Win the Hackathon
-
-Colosseum is live. This session is your starting point for building, shipping, and competing at a high level.
-
-Superteam Thailand brings together builders, founders, designers, and ecosystem contributors to break down the hackathon from start to finish - what the judges look for, how winning teams approach product, distribution, technical execution, and storytelling, and how to turn four weeks of work into a strong submission.
-
-What we'll cover
-
-- Colosseum 101: format, timeline, tracks, and prizes
-- What makes a project stand out
-- Product, technical execution, and user traction
-- Distribution and building attention around your project
-- Submission strategy and judging
-- Pitching, demos, and storytelling
-- How Superteam Thailand can support your team throughout the hackathon
-
-Come with your idea, your team, or simply the ambition to build. Leave with a clear strategy for the next four weeks.
 
 <a id="event-68a9e4914530b1be"></a>
 
@@ -71986,6 +71753,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-be173f7f18d7df2a"></a>
+
+## Unicorn Battle - Ukrainian Founders
+
+- Record: `luma-evt-5O8lZuQ7B05WQd4`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1nroh9a0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cfe8c8ad6d86b8d8"></a>
 
 ## Iconic Open House Event
@@ -72382,6 +72161,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.ch/e/biglietti-novus-codex-vernissage-2002192812600>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2f948ff196ec6dbe"></a>
+
+## Hands-On Bitcoin Multisig Workshop
+
+- Record: `luma-evt-V53ojWka5tr7GSw`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T21:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/r4vintbd>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

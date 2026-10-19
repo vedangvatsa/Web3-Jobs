@@ -155,50 +155,6 @@
     }
   },
   {
-    "id": "luma-crypto-IGJw8bkmSkQW3r1",
-    "slug": "ckhwh",
-    "name": "Colosseum Kickoff + How to Win the Hackathon",
-    "description": "Colosseum Kickoff + How to Win the Hackathon\n\nColosseum is live. This session is your starting point for building, shipping, and competing at a high level.\n\nSuperteam Thailand brings together builders, founders, designers, and ecosystem contributors to break down the hackathon from start to finish — what the judges look for, how winning teams approach product, distribution, technical execution, and storytelling, and how to turn four weeks of work into a strong submission.\n\nWhat we’ll cover\n\n• Colosseum 101: format, timeline, tracks, and prizes\n• What makes a project stand out\n• Product, technical execution, and user traction\n• Distribution and building attention around your project\n• Submission strategy and judging\n• Pitching, demos, and storytelling\n• How Superteam Thailand can support your team throughout the hackathon\n\nCome with your idea, your team, or simply the ambition to build. Leave with a clear strategy for the next four weeks.",
-    "startDate": "2026-09-19T07:00:00.000Z",
-    "endDate": "2026-09-19T08:30:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/gxhipc87",
-    "registrationUrl": "https://luma.com/gxhipc87",
-    "coverImage": "/events/luma-crypto-igjw8bkmskqw3r1-ed4432f6.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "OnlyFounders",
-      "Superteam Thailand",
-      "Superteam TH"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Bangkok",
-    "visibility": "public",
-    "locationHidden": false,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Thailand",
-      "url": "https://linktr.ee/superteam_TH"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/gxhipc87",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/gxhipc87",
-      "eventId": "evt-IGJw8bkmSkQW3r1",
-      "fetchedAt": "2026-09-19T23:45:32.335Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-ojo8Xh2wktYW9od",
     "slug": "robot-hack",
     "name": "Robot Hackathon: Fine Motor Skills",
@@ -250,99 +206,6 @@
       "url": "https://luma.com/wuo6ynis",
       "eventId": "evt-ojo8Xh2wktYW9od",
       "fetchedAt": "2026-09-19T23:45:32.990Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-LX1ZgHPjJxfSRg4",
-    "slug": "wmes",
-    "name": "Wallet Max Emerald Summit: Sustainability & AI for Business",
-    "description": "## Emerald Summit: AI in Action for People and Planet\n\nJoin us at #ClimateWeekNYC 2026: Wallet Max Emerald Summit: Sustainability & AI for Business - to fund sustainable and profitable tech for people, planet, and global communities!\n\n• Our themes this September are Fundraising Community and AI Sustainability, with a special emphasis on Enterprise Transformation.\n\n## Summit Website:\n\n• Stay in the know, and receive real time programming updates, speaker profiles, and networking opportunities [on our dedicated event page: www.getwalletmax.com/summit](https://www.getwalletmax.com/summit)\n\n## What's in it for you?\n\n✅ Discover the next generation of bold, INNOVATIVE, and sustainable fintech solutions that are driving our planet forward.\n\n✅ Learn, network, collaborate, and take action: along with global/local startups/founders, impact investors, corporate executives/CEOs/CxOs, climate talent/leaders/researchers, sustainable policymakers, press/media strategists, and many more with a common mission and futuristic mindset.\n\n## From Startups to C-Suite: A Curated Ecosystem of Climate Enthusiasts\n\nWho’s in the Room at Emerald Summit:\nTaking place at the intersection of NYC Climate Week, the UN General Assembly (UNGA), and NYC Fashion Week—our Summit annually brings diverse groups of impact enthusiasts and future innovators.\n\n• As climate intersects with all sectors, we see corporate executives in healthcare, food, climate, fintech, tech/AI, fashion, and more.\n• Startup founders, small-medium-businesses, tech builders - climate, fintech, AI, data, infrastructure (from Seed to Series B+).\n• Investors (Angels, Venture Capital, Private Equity, Family Offices, Fund of Funds) - investing from pre-seed through IPOs.\n• Corporate Boards, Executives, Middle Management - Board directors, CEOs, C-Suite (CTO, CIO, CFO, AI Officers, Sustainability Officers).\n• Policymakers and public sector leaders - NYC state/city officials, local regulators, financial institutions, Wall Street professionals.\n• Additional participants - students, university leaders, community organizations, local/global media representatives (covering NYC Climate Week, UNGA, and NYC Fashion Week both on the ground and virtually).\n\n## Emerald Summit 2026 Agenda\n\n09:00 AM | Registration, Breakfast & Networking\n\n• Start the NYC Climate Week with light snacks and networking with registration.\n\n10:30 AM | Welcome Keynote: Shaping Sustainable Futures With Community\n\n• [Alissa Miky](https://www.linkedin.com/in/alissa-miky-21a8673b/), Aqua Theon\n• [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max\n\n11:00 AM | Unlocking Capital Flows For Climate Solutions\n\n• [Eric Williams](https://www.linkedin.com/in/eric-c-williams/), Detroit Justice Center\n• [Martin Avidan](https://www.linkedin.com/in/martin-avidan-cfa/), Spruce Road Consulting\n• [Neha Arora](https://www.linkedin.com/in/drnehaaroraphd/), Founder, The Climate Chain Reaction\n• [Parichat Wrolstad](https://www.linkedin.com/in/parichatcha/), ESG & Sustainability Advisor\n\n11:45 AM | Sustainability Playbook: How Overlooked Founders Build On Their Own Terms\n\n• [Betsy Fore](https://www.linkedin.com/in/betsyfore/), Velveteen Ventures\n• [Blair Carl Smith](https://www.linkedin.com/in/blaircsmith/), Ex-Milken Institute Financial Markets\n• [Elana Margulies-Snyderman](https://www.linkedin.com/in/elanamarguliessnyderman/), EMS Network\n• [Sacha Awwa](https://www.linkedin.com/in/sachaawwa/), SAMG Marketing Group\n• [Will Hogan](https://www.linkedin.com/in/willhogan/), Umergence\n\n12:30 PM | Climate Fintech: Fireside Chat\n\n• [Shameek Bose](https://www.linkedin.com/in/shameek-bose-m-p-a-19a39813/), Ex-WEF, Accenture, JPMorgan\n• [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max\n\n1:00 PM | Lunch & Networking\n\n• Network over lunch with executives, investors, media, entrepreneurs, and policy makers in climate, fintech, AI.\n\n2:00 PM | Finding The Right Mix Of Advisors For A Startup\n\n• [Enes Karakullukcu](https://www.linkedin.com/in/eneskarakullukcu/), Klaris Capital\n• [Katie Palencsar](https://www.linkedin.com/in/katiepalencsar/), Starmoire\n• [Scott Ryan](https://www.linkedin.com/in/scottwilliamryan/), Investature\n• [Sonam Velani](https://www.linkedin.com/in/sonamvelani/), Streetlife Ventures\n• [Tiya Gordon](https://www.linkedin.com/in/tiya-gordon-itselectric/), it's electric\n\n3:00 PM | The Scarcity Trade: Investing In What We Cannot Live Without\n\n• [Cody Ley](https://www.linkedin.com/in/h4hcody/), Hemp for Humanity\n• [David Chan](https://www.linkedin.com/in/dachan/), Homestead Capital\n• [David Lanning](https://www.linkedin.com/in/david-lanning-0ba3735a/), Water Asset Management\n• [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency\n• [Richard Freund](https://www.linkedin.com/in/richardkfreund/), CDP\n\n3:45 PM | Powering Tomorrow: Innovation, Policy, and the Future of Renewables\n\n• [Eddy van der Paardt](https://www.linkedin.com/in/eddy-van-der-paardt-193a4/), Virtu Capital Partners\n• [Jillian Foster](https://www.linkedin.com/in/jillianjfoster/), Global Insight\n• [Karen Gamba](https://www.linkedin.com/in/karen-l-gamba-04537089/), ExV Agency\n• [Kayla Urquhart](https://www.linkedin.com/in/kayla-urquhart-331163127/), The Energy Co-op\n• [Manail Anis Ahmed](https://www.linkedin.com/in/manailahmed/), Columbia University\n\n4:30 PM | Closing Keynote: Accelerate Impact Beyond Climate Week\n\n• [Peter Fusaro](https://www.linkedin.com/in/fusaroglobalchange/), Wall Street Green Summit\n• [Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/), Wallet Max\n\n5:00 - 6:00 PM | Networking Lounge\n\n• End the day with casual networking and meet with industry experts.\n\nClimate tech is about directing capital toward a livable planet—and that makes it fintech.\n\nFrom funding clean energy and scaling carbon markets to embedding sustainability in everyday transactions, these innovations rely on the same tools that power financial systems.\n\nAnd just like fintech, climate tech isn’t only about technology—it’s about access. When climate solutions are paired with financial inclusion, we unlock regenerative systems that work for People, planet, AND PROFIT.\n\nCLIMATE FINTECH isn’t the future—it’s the now.\n\n## Why The Emerald Summit Matters:\n\nWhen climate solutions are paired with financial inclusion, we unlock regenerative systems that work for people, planet, and profit.\n\nClimate fintech isn’t the future. It's the now.\n\nIf you’re a changemaker, entrepreneur, or professional passionate about impacting our world: you won’t miss this Summit.\n\nReserve your space today and make your mark as a leader in climate tech.\n\n## MEET YOUR HOST\n\n[Bhuva Shakti](https://www.linkedin.com/in/bhuvashakti/) (she/her) is the futuristic [founder and CEO driving sustainable innovation at Wallet Max](https://www.getwalletmax.com/), a global community of corporate executives, policy leaders, and venture capital investors expanding fundraising access for high-growth impact startups. With an MBA from Columbia University in New York and as a senior executive director on Wall Street for three decades, Bhuva has managed diverse financial portfolios and launched several digital transformation products for investment banks, capital markets, and payment networks.\n\nBhuva’s leadership and risk governance oversight, during the global financial crisis and the pandemic, was pivotal for the success of regulatory compliance and mergers acquisitions at the world's top banks and credit rating institutions. Bhuva is a board director and C-Suite advisor for people and planet friendly businesses, without compromising profits, and a keynote and TEDx speaker advancing economic inclusion and climate-fintech partnerships.\n\nBhuva is the USA country director for World Business Angels Investment Forum and the Chief Ethics & Culture Officer for Women in AI worldwide. She leads fundraising strategy and product operations for market expansion and manages investor relations from diligence [to investment. Bhuva is the founder of Bhuva’s Impact Global](https://www.bhuvas-impact.global/), offering board and enterprise risk advisory services for public and private corporations.\n\n## About Wallet Max:\n\n[Wallet Max](https://www.getwalletmax.com/events) is an inclusive global community of corporate executives and venture capitalists with a mission to expand fundraising access for high-growth startups in the technology, AI, fintech, and climate sustainability sectors.\n\nWith more than 10 investments directly in impact entrepreneurs thus far, Wallet Max’s network of 2,000 innovators and 60 partners regularly meet in person and virtually throughout the year to mutually exchange connections and drive collective action. Wallet Max ecosystem of events and initiatives are prominent during the New York Fintech Week, the New York Tech Week, and the New York Climate Week every year.\n\n[Wallet Max's Planet Positive Podcast](https://www.getwalletmax.com/podcast) is a monthly interview with investors driving impact globally. Aligned with our mission to challenge the status quo, we showcase personal and professional journeys of diverse investors (Angels, VCs, PEs, Family Office, Corporate Venture) looking to leverage inclusion and impact without compromising growth of investments. Supporting sustainable innovations is good for people's wellbeing, planet survival, and financial profits.\n\nLearn more about Wallet Max success and 2026 global initiatives: https://getwalletmax.com/climate-forward\n\nNote that photographs and video will be taken throughout the event and will be used for marketing purposes only.\n\nOnce your seat at the table has been approved, your payment method on Luma will be charged. Please note that there are no refunds for this event given the exclusive nature.",
-    "startDate": "2026-09-18T13:00:00.000Z",
-    "endDate": "2026-09-18T22:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://luma.com/emeraldsummitwm26",
-    "registrationUrl": "https://luma.com/emeraldsummitwm26",
-    "coverImage": "/events/luma-crypto-lx1zghpjjxfsrg4-8b5b736e.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Bhuva Shakti",
-      "Wallet Max",
-      "Bhuva's Impact Global"
-    ],
-    "price": "USD 100",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Wallet Max",
-      "url": "https://www.getwalletmax.com/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Summit Only - All Day Access",
-        "url": "https://luma.com/emeraldsummitwm26",
-        "price": 100,
-        "priceCurrency": "USD",
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/emeraldsummitwm26",
-      "eventId": "evt-LX1ZgHPjJxfSRg4",
-      "fetchedAt": "2026-09-19T23:53:58.497Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-x8a9zaULCtPZTV2",
-    "slug": "mmhhmet",
-    "name": "Metropolis Hackathon Builder Day: NYC | $250,000 in prizes",
-    "description": "Metropolis is Monad's flagship six-week global hackathon, bringing builders together to design, ship, and scale the next generation of onchain applications, with over $250,000 in prizes up for grabs.\n\nJoin us for a full-day IRL builder activation during the Metropolis build window — hear from experts and VCs, co-work alongside other teams and get hands-on support from mentors.\n\nThe day runs from a relaxed co-working morning through structured programming: an opening track overview, a live panel with judges from Metropolis, afternoon workshops and rotating mentor office hours, and an evening happy hour to close things out.\n\nWhether you're already building for Metropolis or just active in the local ecosystem, come meet other builders, get face time with the people judging the hackathon, and make progress alongside the community.\n\nWhat to expect\n\n• Co-working and builder networking all day\n• A live panel with VCs from Metropolis's judging panel — a rare chance to hear directly from the people evaluating submissions\n• Opening remarks and a Metropolis track overview\n• Rotating mentor office hours\n• Sponsor and partner touchpoints\n• Light food throughout, plus an evening happy hour\n\nSchedule\n\n• 11:00 AM – Brunch & networking\n• 12:00 PM – Opening remarks & track overview\n• 12:30 [PM – Panel, featuring Drake Evans](https://x.com/drakeevans)([Agora](https://www.agora.finance/)), [Will Nuelle](https://x.com/willnuelle) ([Galaxy](https://ventures.galaxy.com/))\n• 2:00 PM – Co-working & rotating mentor office hours\n\nDisclaimer:\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur.\n\nYour entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives.\n\nBy attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-09-18T15:00:00.000Z",
-    "endDate": "2026-09-18T22:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://luma.com/metropolis-nyc-sep-2026",
-    "registrationUrl": "https://luma.com/metropolis-nyc-sep-2026",
-    "coverImage": "/events/luma-crypto-x8a9zaulctpztv2-a5246958.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Monad Foundation"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Monad Foundation Events",
-      "url": "https://monad.xyz/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/metropolis-nyc-sep-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/metropolis-nyc-sep-2026",
-      "eventId": "evt-x8a9zaULCtPZTV2",
-      "fetchedAt": "2026-09-19T23:45:34.891Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -414,29 +277,6 @@
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
-  },
-  {
-    "id": "luma-crypto-FaqnWiHbv5fjS7g",
-    "slug": "cmpn",
-    "name": "Crypto Meetup & Professional Networking",
-    "description": "Crypto Meetup & Professional Networking\n\n 📍 Dublin, CA\n\n 📅 Friday, September 18, 2026\n\n 🕕 6:00–7:30 PM\n\n 🍽️ Lite Dinner Provided Ready to talk crypto over some good food and even better company? Come hang out in Dublin for an evening of casual conversation about all things blockchain, from market moves to new projects worth watching. Whether you're deep in the space already or just curious about where things are headed, this is a laid back spot to swap ideas and meet people who get it.\n\n We'll have a lite dinner provided so you can grab a bite while you mingle. No pressure, no pitches, just good conversation and good vibes. Come through, bring a friend, and let's talk crypto.\n Grab your spot and swing by Dublin, CA this Friday evening. See you there!",
-    "startDate": "2026-09-19T01:00:00.000Z",
-    "endDate": "2026-09-19T03:00:00.000Z",
-    "city": "Dublin",
-    "country": "United States",
-    "location": "Dublin, CA 94568, USA",
-    "url": "https://luma.com/zgiywrhk",
-    "registrationUrl": "https://luma.com/zgiywrhk",
-    "coverImage": "/events/luma-crypto-faqnwihbv5fjs7g-905cf69b.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "USTPN Contact",
-      "Govind Gopal",
-      "govind@ustpn.org",
-      "Events USTPN"
-    ],
-    "price": "$10 USD",
-    "timezone": "America/Los_Angeles"
   },
   {
     "id": "luma-crypto-1o1FB3qFyWCYtEi",
