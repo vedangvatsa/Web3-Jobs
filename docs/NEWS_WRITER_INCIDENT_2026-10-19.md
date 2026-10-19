@@ -13,7 +13,8 @@
 
 - Pin the CLI release rather than installing an untested latest release every day.
 - Default to `opencode/deepseek-v4.1-flash-free`, also used for session-title generation. A workflow input or the `NEWS_MODEL` repository variable can override it.
-- Refresh the model catalog and require a real, tools-disabled readiness response before research starts. CLI exit code zero alone is not enough: OpenCode can return an error event with that exit code.
+- Refresh the model catalog and require a real readiness response before research starts. The probe requires approval for tools, supplies no approvals, and rejects tool-call events. CLI exit code zero alone is not enough: OpenCode can return an error event with that exit code.
+- Limit writer models to the four approved free variants (DeepSeek, GLM, MiniMax, MiMo); never substitute a paid counterpart. The selected free model also handles title generation.
 - Print warning/error diagnostics so missing models and expired credentials are visible in Actions.
 - Deploy newly published articles even if the daily job catalog already shipped. Retain a pending deployment flag if that follow-up rollout fails.
 - Preserve existing source verification, editorial audits, publication receipts, news-only recovery mode, and the Resend pause.
@@ -26,4 +27,6 @@
 4. Verify the writer readiness check, research coverage, article audits, and publication commit. A successful feed refresh alone does not prove that native articles were published.
 5. After publication, run `fah-fix-and-deploy.yml` and verify the new articles in `/data/articles-index.json`, `/news`, and their canonical URLs.
 
-The investigation did not mark the outage resolved: the expired credential still required replacement when this note was written.
+The user replaced the expired credential on October 19. The initial tools-denied readiness probe then hit [OpenCode issue #50627](https://github.com/anomalyco/opencode/issues/50627): removing the normal tool definitions triggers a misleading free-tier origin error. Using approval-required permissions instead produced `NEWS_WRITER_READY` with reported cost zero on the official 1.19.2 CLI and `opencode/deepseek-v4.1-flash-free`. No tool calls or approvals occurred. A briefly dispatched paid-model probe was cancelled before its research step; the repository model variable was restored to the free variant.
+
+Publication and live deployment still require verification after the corrected readiness probe ships.

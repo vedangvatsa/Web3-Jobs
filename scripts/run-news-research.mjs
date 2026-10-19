@@ -6,6 +6,7 @@ import { pathToFileURL } from 'node:url';
 import { currentRun, loadResearch, writeReport } from './news-research.mjs';
 import { researchReport } from './lib/news-research.mjs';
 import { validateNewsRun } from './validate-news-run.mjs';
+import { requireFreeNewsModel } from './check-news-writer.mjs';
 
 export async function runResearchRounds({ remaining, reviewed = () => 0, write, log = console.log, idleLimit = 2 }) {
   let idle = 0;
@@ -42,7 +43,7 @@ async function main() {
   if (researchReport(loadResearch(), day).status === 'completed') return;
   const brief = fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
   const binary = process.env.OPENCODE_BIN || path.join(os.homedir(), '.opencode/bin/opencode');
-  const model = process.env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free';
+  const model = requireFreeNewsModel(process.env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free');
   const config = { ...JSON.parse(process.env.OPENCODE_CONFIG_CONTENT || '{}'), small_model: model, autoupdate: false };
   const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', model, prompt], {
     stdio: 'inherit', env: { ...process.env, OPENCODE_CONFIG_CONTENT: JSON.stringify(config) },
