@@ -27570,7 +27570,8 @@
       },
       "account": "channel:dev",
       "attemptId": "4dac3b55-2c13-439f-8f17-d894852b6554",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xebe5f5b9bfa959dcc71048ced4901eed601f9146"
     }
   ]
 }
