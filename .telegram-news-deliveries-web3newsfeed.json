@@ -1824,7 +1824,7 @@
     "sentAt": "2026-10-18T19:37:18.109Z"
   },
   "cf97835f-fa4d-4992-87ee-78fdd92e758d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-19T11:35:17.143Z",
     "stories": [
       {
@@ -1852,6 +1852,8 @@
         "originalTitle": "WSJ Reports Lagarde Intervened to Stall Binance MiCA License"
       }
     ],
-    "slotKey": "2026-10-19:afternoon"
+    "slotKey": "2026-10-19:afternoon",
+    "messageId": 65763,
+    "sentAt": "2026-10-19T11:35:24.983Z"
   }
 }
