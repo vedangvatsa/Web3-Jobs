@@ -59,3 +59,11 @@ npm run typecheck -- --incremental false
 Research inputs remain in the ignored `.cache/event-address-enrichment/` working directory. `scripts/import-event-address-reviews.ts` previews the vetted import and applies it with `--apply`; unrelated prior address reviews are preserved, and older evidence cannot overwrite newer reviews.
 
 The historical `test-devcon8-coverage.ts` release-snapshot check was also attempted. It already fails against the pre-change revision `db387bd1485e4a9e196788ddb1d724ceaf0bb9e1`: the October 16 snapshot expects `india-luma-6sp22vxd`, which is absent from that newer baseline catalog. Its exact historical catalog hashes are not current-data expectations. The current-catalog, privacy, address, and protected-description checks pass; the historical fixture was not changed and retired events were not resurrected to satisfy it.
+
+## Deployment verification
+
+Commit `9963009dc` was deployed by successful workflow [39328444854](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39328444854).
+
+At 21:52 UTC on October 19, the live catalog contained 203 events, 54 passing the Event schema gate and 107 missing-detailed-address exclusions. All **49 updated event pages** returned HTTP 200 with self-referencing canonical URLs. Their verified addresses were present in visible content, and Event JSON-LD appeared only where the eligibility checks passed. All organizer-hidden catalog records omitted street/address verification and venue-list fields.
+
+Chromium checks at 390px and 1440px verified Solana Breakpoint and the Plan B, Hong Kong FinTech Week, and Bitcoin Histórico multi-venue pages without horizontal overflow. The venue lists preserve date scopes and the explicitly incomplete Plaza Gerardo Barrios street-address result.
