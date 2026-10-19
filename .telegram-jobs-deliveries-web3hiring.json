@@ -6372,5 +6372,120 @@
     "slotKey": "2026-10-19:afternoon",
     "messageId": 137,
     "sentAt": "2026-10-19T11:34:12.764Z"
+  },
+  "854dfc8b-3672-4476-a186-29bb5880c784": {
+    "status": "reserved",
+    "reservedAt": "2026-10-19T19:31:46.598Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5003052101",
+          "title": "Senior Business Intelligence Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5003052101",
+          "date": "2026-10-12T02:28:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Hong Kong SAR; Kuala Lumpur, Malaysia",
+          "department": "Business Intelligence",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr177"
+        },
+        "key": "5003052101",
+        "slug": "mgr177",
+        "url": "https://hashtagweb3.com/mgr177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Business Intelligence Manager"
+      },
+      {
+        "snapshot": {
+          "id": "992c5de1-1cee-4002-bcc5-8f2131630d0b",
+          "title": "Senior Smart Contract Engineer",
+          "company": "Aave Labs",
+          "link": "https://jobs.eu.lever.co/aavelabs/992c5de1-1cee-4002-bcc5-8f2131630d0b",
+          "date": "2026-09-22T14:31:27.832Z",
+          "source": "Lever: Aave Labs [aavelabs]",
+          "location": "Remote, US",
+          "workplaceType": "remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng45"
+        },
+        "key": "992c5de1-1cee-4002-bcc5-8f2131630d0b",
+        "slug": "eng45",
+        "url": "https://hashtagweb3.com/eng45?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aave Labs",
+        "title": "Senior Smart Contract Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "9aac086d-4289-4b5d-a488-1189dde5254e",
+          "title": "Senior Fraud Analyst - Team Lead",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/9aac086d-4289-4b5d-a488-1189dde5254e",
+          "date": "2026-10-12T17:16:05.695+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Risk & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an89"
+        },
+        "key": "9aac086d-4289-4b5d-a488-1189dde5254e",
+        "slug": "an89",
+        "url": "https://hashtagweb3.com/an89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Senior Fraud Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "62f77abd-1f4a-44dc-858e-06ebe45d51a3",
+          "title": "Infrastructure Engineer",
+          "company": "Wintermute",
+          "link": "https://jobs.lever.co/wintermute-trading/62f77abd-1f4a-44dc-858e-06ebe45d51a3",
+          "date": "2026-10-02T15:13:58.375Z",
+          "source": "Lever: Wintermute [wintermute-trading]",
+          "location": "Hybrid (London / Singapore)",
+          "workplaceType": "hybrid",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra24"
+        },
+        "key": "62f77abd-1f4a-44dc-858e-06ebe45d51a3",
+        "slug": "infra24",
+        "url": "https://hashtagweb3.com/infra24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Wintermute",
+        "title": "Infrastructure Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "90a1766e-ab70-4303-9819-1d9f9178e55d",
+          "title": "Solutions Consultant, Digital Assets",
+          "company": "CertiK",
+          "link": "https://jobs.lever.co/certik/90a1766e-ab70-4303-9819-1d9f9178e55d",
+          "date": "2026-10-06T05:27:56.090Z",
+          "source": "Lever: CertiK [certik]",
+          "location": "Remote (Dubai)",
+          "workplaceType": "remote",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "scda"
+        },
+        "key": "90a1766e-ab70-4303-9819-1d9f9178e55d",
+        "slug": "scda",
+        "url": "https://hashtagweb3.com/scda?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Solutions Consultant"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr177?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Intelligence Manager</a>\n- Aave Labs is hiring <a href=\"https://hashtagweb3.com/eng45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Smart Contract Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Analyst - Team Lead</a>\n- Wintermute is hiring <a href=\"https://hashtagweb3.com/infra24?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Infrastructure Engineer</a>\n- CertiK is hiring <a href=\"https://hashtagweb3.com/scda?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Consultant, Digital Assets</a>",
+    "slotKey": "2026-10-19:evening"
   }
 }
