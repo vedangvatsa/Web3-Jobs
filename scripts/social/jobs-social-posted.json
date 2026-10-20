@@ -33312,6 +33312,36 @@
       "attemptId": "cb630b2b-6309-4241-a065-4f30d3b1930e",
       "verification": "verified",
       "postId": "691827047618629_1121272783813289"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/x?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "f3f2c1e7-4fc2-433c-aa7c-940c3fde5af1",
+      "verification": "creating"
     }
   ]
 }
