@@ -31002,6 +31002,41 @@
       "attemptId": "db81eb92-0f0f-4394-9640-e328f6038e0f",
       "verification": "verified",
       "postId": "0xbf80a4b7c8ee7d0bf68e3aae607ca97bddbda528"
+    },
+    {
+      "slug": "arny",
+      "company": "Prime Intellect",
+      "title": "Applied Research Lead - New York",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T11:32:13.416Z",
+      "expectedText": "Prime Intellect is hiring Applied Research Lead - New York\n\nhttps://hashtagweb3.com/arny/fc?og=7",
+      "snapshot": {
+        "id": "d63b3277-651e-4a81-85d8-888f0aef14f5",
+        "title": "Applied Research Lead - New York",
+        "company": "Prime Intellect",
+        "link": "https://jobs.ashbyhq.com/primeintellect/d63b3277-651e-4a81-85d8-888f0aef14f5",
+        "date": "2026-10-19T15:29:31.942+00:00",
+        "source": "Ashby: Prime Intellect [primeintellect]",
+        "location": "New York",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Applied Research",
+        "active": true,
+        "slug": "arny",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Prime Intellect is hiring Applied Research Lead - New York\n\nhttps://hashtagweb3.com/arny/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/arny/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "5e7db6f6-7102-470a-91fc-b81cc5cb6423",
+      "verification": "creating"
     }
   ]
 }
