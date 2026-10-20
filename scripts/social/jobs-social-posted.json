@@ -31324,7 +31324,8 @@
       },
       "account": "channel:ai",
       "attemptId": "9942583e-52c6-493b-9ae6-1a55498b05cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0ea16c40ab245c0db723409019692b49df731ab1"
     }
   ]
 }
