@@ -30307,7 +30307,8 @@
       },
       "account": "channel:base",
       "attemptId": "a0148ac4-0972-492b-8bd1-684f022f8ffd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x50da385c4fef39ea9a4397f28c3815e38e5b1ed9"
     }
   ]
 }
