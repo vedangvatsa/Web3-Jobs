@@ -33280,7 +33280,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "6ef75b98-3ab5-4b15-94f2-929c90a2e2c3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518394349924036608"
     }
   ]
 }
