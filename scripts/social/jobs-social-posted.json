@@ -32233,6 +32233,41 @@
       "attemptId": "1961ae71-1cef-4924-aa46-5e89b44d1c1e",
       "verification": "verified",
       "postId": "0xd0267477582b66c1b1073115c97253aaaf3be23f"
+    },
+    {
+      "slug": "dcf",
+      "company": "TRM Labs",
+      "title": "Head of Corporate FP&A",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T11:35:30.698Z",
+      "expectedText": "TRM Labs is hiring Head of Corporate FP&A\n\nhttps://hashtagweb3.com/dcf/fc?og=7",
+      "snapshot": {
+        "id": "0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+        "title": "Head of Corporate FP&A",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+        "date": "2026-10-14T17:09:59.822+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dcf"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Head of Corporate FP&A\n\nhttps://hashtagweb3.com/dcf/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dcf/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "28e31801-6a4c-44cf-81c3-df626743947e",
+      "verification": "creating"
     }
   ]
 }
