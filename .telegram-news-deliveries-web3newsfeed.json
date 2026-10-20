@@ -1890,7 +1890,7 @@
     "sentAt": "2026-10-19T19:34:18.212Z"
   },
   "19518fa4-1145-45de-bb79-1023308b66bd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-20T11:32:51.760Z",
     "stories": [
       {
@@ -1918,6 +1918,8 @@
         "originalTitle": "Germany's Sparkasse banks turn on crypto trading inside their app"
       }
     ],
-    "slotKey": "2026-10-20:afternoon"
+    "slotKey": "2026-10-20:afternoon",
+    "messageId": 65765,
+    "sentAt": "2026-10-20T11:32:56.907Z"
   }
 }

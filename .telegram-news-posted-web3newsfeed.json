@@ -803,6 +803,9 @@
   "https://hashtagweb3.com/circlemarkets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cysicmint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/jpmcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hoodiupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2309,6 +2312,12 @@
   "Cysic halts bridge after unauthorized mint of 10 million CYS",
   "JPMorgan launches JPM Coin on Ethereum mainnet",
   "JPMorgan brings JPM Coin to Ethereum for institutional clients",
+  "Binance launches free tier for AI Pro strategy agent",
+  "Binance opens its AI Pro strategy agent to all users with a free tier",
+  "Ethereum sets Oct. 26 for Hoodi testnet Glamsterdam upgrade",
+  "Ethereum sets Oct. 26 for Glamsterdam's Hoodi testnet activation",
+  "German Sparkasse Banks Launch In-App Crypto Trading",
+  "Germany's Sparkasse banks turn on crypto trading inside their app",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2641,5 +2650,8 @@
   "fp:allegedly|application|binanc|block|commitment|delay|ecb|europ|exchang|greec",
   "fp:about40|africa|allair|america|asia|attribut|ceo|circl|demand|east",
   "fp:10m|28m|address|blacklist|bnb|bridg|chain|cysic|freez|halt",
-  "fp:access|approv|back|bank|client|coin|deposit|gain|institutional|jpm"
+  "fp:access|approv|back|bank|client|coin|deposit|gain|institutional|jpm",
+  "fp:000|agent|all|began|beta|binanc|credit|fre|march|monthly",
+  "fp:200m|activation|glamsterdam|hoodi|increas|must|nod|oct26|operator|softwar",
+  "fp:app|bank|can|cryptocurrency|customer|dekabank|directly|fiv|german|germany"
 ]
