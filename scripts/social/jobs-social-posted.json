@@ -33443,6 +33443,40 @@
       "attemptId": "5b18fa73-0668-4093-9233-91bfc75fefd0",
       "verification": "verified",
       "postId": "0x5b443a3d9fbbfef3166beedbf9ae3cf2bfabe9f6"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "7cd57e61-1eb6-48fd-9244-53ea251da3a9",
+      "verification": "creating"
     }
   ]
 }
