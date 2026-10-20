@@ -30127,7 +30127,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "1e58d0e7-7212-42fb-adbd-d343def6966d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf4ff65eeecb038940cca9bcdc3fed5748626bf1e"
     }
   ]
 }
