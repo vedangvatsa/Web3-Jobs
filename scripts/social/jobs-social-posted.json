@@ -29774,9 +29774,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "490fdbc4-8fac-4648-a0f9-b99511f897a4",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad705ece9c669def5f1db83",
-      "error": "LinkedIn CVin.Bio receipt 6ad705ece9c669def5f1db83 remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad705ece9c669def5f1db83 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518192080624574465"
     },
     {
       "slug": "pm219",
