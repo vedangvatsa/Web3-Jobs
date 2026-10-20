@@ -4471,5 +4471,777 @@
   "w3v-perps--chai-with-hyprearn": {
     "slug": "perps-and-chai-hyprearn-mumbai",
     "aliases": []
+  },
+  "mu-317025728": {
+    "slug": "timechain-tuesdays-coffee-bitcoin",
+    "aliases": []
+  },
+  "luma-host-evt-evt-H1GEOEuxvdcGh7m": {
+    "slug": "building-apps-communities-solana",
+    "aliases": []
+  },
+  "mu-316316148": {
+    "slug": "south-beach-miami-bitcoin-happy-hour",
+    "aliases": []
+  },
+  "discovery-evt-XzdNZYQvs1Okah0": {
+    "slug": "20-20-vision-solana-x-huma-happy-hour",
+    "aliases": []
+  },
+  "mu-316790235": {
+    "slug": "crypto-clubhouse-privacy-tap-gotv-trivia-giveaways-6-9pm-goat",
+    "aliases": []
+  },
+  "luma-host-evt-evt-CgjAsxd2TK5PXtq": {
+    "slug": "superteam-poland-co-work-krakow-2026-10-21",
+    "aliases": []
+  },
+  "w3v-arcade-day-2026": {
+    "slug": "arkade-day",
+    "aliases": []
+  },
+  "discovery-evt-rYg9kJJBZfME4d1": {
+    "slug": "bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-10-21",
+    "aliases": []
+  },
+  "discovery-evt-LvRdeiNaeZflUIs": {
+    "slug": "what-if-someone-tried-create-1-million-extra-bitcoin-vadodara",
+    "aliases": []
+  },
+  "mu-316413134": {
+    "slug": "duc-bitcoin-paris-montmartre",
+    "aliases": []
+  },
+  "discovery-evt-UMNVKyy1Q3q7JgE": {
+    "slug": "community-roundtable-2026-10-21",
+    "aliases": []
+  },
+  "mu-312264805": {
+    "slug": "bitcoin-am-holzmarkt-stammtisch",
+    "aliases": []
+  },
+  "discovery-evt-xcJ3hkBPmdfgdHm": {
+    "slug": "21meetup-octubre",
+    "aliases": []
+  },
+  "mu-316573253": {
+    "slug": "houston-crypto-meetup-43",
+    "aliases": []
+  },
+  "discovery-evt-HlX4KTQytAD4DH7": {
+    "slug": "team1-india-university-workshop-mit-wpu-pune",
+    "aliases": []
+  },
+  "discovery-evt-S85peLd1TLeNc05": {
+    "slug": "solana-student-bootcamp-ai",
+    "aliases": []
+  },
+  "luma-host-evt-evt-3vTAJvXoBBaY3HB": {
+    "slug": "cowork-ethglobal-vadodara-pu-dao-near-protocol",
+    "aliases": []
+  },
+  "luma-host-evt-evt-9qbXxI87FMFkdFf": {
+    "slug": "ethglobal-happy-hour-new-delhi",
+    "aliases": []
+  },
+  "mu-316952339": {
+    "slug": "blockchain-age-quantum",
+    "aliases": []
+  },
+  "discovery-evt-GBKABMGTvkCfyPg": {
+    "slug": "build-breakpoint-how-we-exited-knownorigin-ebay",
+    "aliases": []
+  },
+  "discovery-evt-q3nE7Ggih7EifUJ": {
+    "slug": "linklab-ccip-2-0",
+    "aliases": []
+  },
+  "mu-316850208": {
+    "slug": "coldcard-post-mortem-que-paso-debate-abierto",
+    "aliases": []
+  },
+  "mu-313235525": {
+    "slug": "austin-bitcoin-club-presents-gamenight",
+    "aliases": []
+  },
+  "mu-316716892": {
+    "slug": "austin-bitcoin-developers-meetup",
+    "aliases": []
+  },
+  "mu-316822252": {
+    "slug": "ethvan-weekly-meetup",
+    "aliases": []
+  },
+  "discovery-evt-Jiz1nYxlG75X1SX": {
+    "slug": "team1-india-university-workshop-indira-college-engineering-management-pune",
+    "aliases": []
+  },
+  "luma-host-evt-evt-JRloloPOnjwowzA": {
+    "slug": "coworking-fridays-belgrade-superteam-balkan",
+    "aliases": [
+      "cfb"
+    ]
+  },
+  "discovery-evt-haz6jOnoJHBqX0Q": {
+    "slug": "build-breakpoint-sailing-through-sales",
+    "aliases": []
+  },
+  "discovery-evt-UCVyELUtCmRFEgU": {
+    "slug": "montreal-vibestation-2026-10-23",
+    "aliases": []
+  },
+  "discovery-evt-FCjHbklpkjJhS08": {
+    "slug": "toronto-vibestation-2026-10-23",
+    "aliases": []
+  },
+  "discovery-evt-7IqcX8M9irXvPE3": {
+    "slug": "skyline-coworking-2026-10-23",
+    "aliases": []
+  },
+  "discovery-evt-61qMI4lIR0KZSDR": {
+    "slug": "vancouver-vibestation-2026-10-23",
+    "aliases": []
+  },
+  "luma-evt-eKm7z2RHvU2RJ7B": {
+    "slug": "ignite-room-devcon-mumbai",
+    "aliases": []
+  },
+  "discovery-evt-TiZnPxscDelGhid": {
+    "slug": "eth-shenzhen",
+    "aliases": []
+  },
+  "discovery-evt-eEhN4p4N79AW1PR": {
+    "slug": "team1-india-university-workshop-vishwakarma-institute-technology-pune",
+    "aliases": []
+  },
+  "luma-evt-sAAM7t4xPhiGJtV": {
+    "slug": "bitgo-x-giottus-crypto-custody-action",
+    "aliases": []
+  },
+  "mu-316839883": {
+    "slug": "crypto-social-networking-night-web3-ai-blockchain-defi-nfts",
+    "aliases": []
+  },
+  "luma-evt-V53ojWka5tr7GSw": {
+    "slug": "hands-bitcoin-multisig-workshop",
+    "aliases": []
+  },
+  "discovery-evt-UhNfhuMgGZHqE7F": {
+    "slug": "bitcoin-indonesia-community-meetup-magelang-25-oktober",
+    "aliases": []
+  },
+  "discovery-evt-vJUx9grI6doLBwb": {
+    "slug": "bitcoin-indonesia-community-meetup-bandung-barat-25-oktober",
+    "aliases": []
+  },
+  "mu-316810808": {
+    "slug": "bitcoin-women-meetup-mit-les-femmes-orange",
+    "aliases": []
+  },
+  "mu-317049329": {
+    "slug": "bitcoin-beginners-2026-10-25",
+    "aliases": []
+  },
+  "discovery-evt-XFoMM2nGSakEMj8": {
+    "slug": "mid-chain-conference-blockchain-decentralized-economics",
+    "aliases": []
+  },
+  "discovery-evt-H7r7sZBCzbTUXsJ": {
+    "slug": "build-breakpoint-laptops-terminals-how-ecosystem-helps-you-scale-retail",
+    "aliases": []
+  },
+  "mu-316869344": {
+    "slug": "crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts",
+    "aliases": []
+  },
+  "discovery-evt-vxHTXfYAtLW0JqS": {
+    "slug": "near-x-svrn-happy-hour-bridge",
+    "aliases": []
+  },
+  "discovery-evt-pb7TG5mtKrOmFwr": {
+    "slug": "cryptomondays-bahamas-launch",
+    "aliases": []
+  },
+  "curated-zcon-7-2026-10-27": {
+    "slug": "zcon-7",
+    "aliases": []
+  },
+  "discovery-evt-angHOkD4gtGuepG": {
+    "slug": "mariblock-house-moonshot-edition",
+    "aliases": []
+  },
+  "luma-evt-hrybBLtJ4Gzmaba": {
+    "slug": "ethereum-meetup-tokyo-vol-26",
+    "aliases": []
+  },
+  "discovery-evt-4GbxA81G5iwo5UA": {
+    "slug": "bitcoin-en-las-universidades-en-universidad-de-belgrano",
+    "aliases": []
+  },
+  "discovery-evt-RDHzi9B3vL2FkcZ": {
+    "slug": "road-ethprague",
+    "aliases": []
+  },
+  "mu-316885523": {
+    "slug": "linux-foundation-decentralized-trust-lfdt-berlin-monthly-live-gathering",
+    "aliases": []
+  },
+  "luma-host-evt-evt-aIh5owwCOVedwMw": {
+    "slug": "superteam-poland-co-work-krakow-2026-10-28",
+    "aliases": []
+  },
+  "luma-evt-jfJFCNApP1oVyb2": {
+    "slug": "india-onchain-tour-50-haryana-edition",
+    "aliases": []
+  },
+  "discovery-evt-1DcDrdOjAH9DBML": {
+    "slug": "future-value-ai-tokenised-assets",
+    "aliases": []
+  },
+  "mu-316768752": {
+    "slug": "oslo-blockchain-meetup-nexa",
+    "aliases": []
+  },
+  "discovery-evt-BSnrt893V7uhtCu": {
+    "slug": "community-roundtable-2026-10-28",
+    "aliases": []
+  },
+  "discovery-evt-b30Bmhw4B0gQehq": {
+    "slug": "founders-society-meetup",
+    "aliases": []
+  },
+  "w3v-linknyc": {
+    "slug": "link-nyc",
+    "aliases": []
+  },
+  "mu-316905431": {
+    "slug": "crypto-halloween-chill-socialize-discuss-learn-about-crypto",
+    "aliases": []
+  },
+  "luma-evt-rLBYBxQDjgYF9wR": {
+    "slug": "labitconf-bitcoin-college",
+    "aliases": []
+  },
+  "curated-crafting-cryptoeconomy-conference-2026-10-29": {
+    "slug": "crafting-cryptoeconomy-conference",
+    "aliases": []
+  },
+  "luma-host-evt-evt-S1a3G141Dsg60pk": {
+    "slug": "solana-ecosystem-call-october",
+    "aliases": [
+      "sec"
+    ]
+  },
+  "mu-316859645": {
+    "slug": "measuring-ledgers-blockchain-decentralisation-index-lab",
+    "aliases": []
+  },
+  "mu-316802767": {
+    "slug": "zk-learning-group-quantum-resistance-zkp",
+    "aliases": []
+  },
+  "mu-316754646": {
+    "slug": "gaming-ethereum-how-trading-bots-cut-line-threaten-consensus",
+    "aliases": []
+  },
+  "mu-316914263": {
+    "slug": "bitcoin-manchester-monthly",
+    "aliases": []
+  },
+  "mu-316836791": {
+    "slug": "bitcoin-builder-miami",
+    "aliases": []
+  },
+  "mu-313246741": {
+    "slug": "bitcoin-bay-sauga-meetup",
+    "aliases": []
+  },
+  "discovery-evt-VGgpJ5y4iCEv7z0": {
+    "slug": "hackathon-edu-labitconf",
+    "aliases": []
+  },
+  "discovery-evt-lney7efAlAR4ckm": {
+    "slug": "bitcoin-indonesia-community-online-meetup",
+    "aliases": []
+  },
+  "discovery-evt-Hjvm4014VjuSoa4": {
+    "slug": "toronto-vibestation-2026-10-30",
+    "aliases": []
+  },
+  "discovery-evt-N8Y7ox5RWrVULyV": {
+    "slug": "montreal-vibestation-2026-10-30",
+    "aliases": []
+  },
+  "discovery-evt-aY6cwqLQyssLxaR": {
+    "slug": "skyline-coworking-2026-10-30",
+    "aliases": []
+  },
+  "discovery-evt-N58HD6XQiQjOqyw": {
+    "slug": "vancouver-vibestation-2026-10-30",
+    "aliases": []
+  },
+  "mu-316958855": {
+    "slug": "crypto-taxation-greece",
+    "aliases": []
+  },
+  "luma-evt-lzupoprFFkUQski": {
+    "slug": "ai-web3-music-meetup",
+    "aliases": []
+  },
+  "curated-bce-3-bitcoin-white-paper-day-2026-10-31": {
+    "slug": "bce-3-bitcoin-white-paper-day",
+    "aliases": []
+  },
+  "w3v-btc-balkans-2026": {
+    "slug": "btc-balkans",
+    "aliases": []
+  },
+  "discovery-evt-C3uwilHHM2nQueB": {
+    "slug": "base-builder-meetup",
+    "aliases": []
+  },
+  "discovery-evt-RHhcoJ4MoApAvw1": {
+    "slug": "suihub-lagos-linq-experience",
+    "aliases": []
+  },
+  "mu-316996838": {
+    "slug": "bitcoin-turns-18",
+    "aliases": []
+  },
+  "mu-317050872": {
+    "slug": "whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only",
+    "aliases": []
+  },
+  "discovery-evt-dH0OIQgV4mlarUH": {
+    "slug": "bitcoin-indonesia-community-meetup-jakarta-barat-01-november",
+    "aliases": []
+  },
+  "luma-evt-szEAISbh7eCdngg": {
+    "slug": "iconx-new-delhi",
+    "aliases": []
+  },
+  "curated-dubai-fintech-summit-2026-11-02": {
+    "slug": "dubai-fintech-summit",
+    "aliases": []
+  },
+  "mu-316962667": {
+    "slug": "de-bitcoin-beginner-workshops-entdecke-bitcoin",
+    "aliases": []
+  },
+  "luma-evt-r8RE9W5oFCCIL0x": {
+    "slug": "future-institutional-finance-ai-digital-assets",
+    "aliases": []
+  },
+  "discovery-evt-jHFnev6fVW7VZNJ": {
+    "slug": "p2p-networking-hub-devcon-8",
+    "aliases": []
+  },
+  "discovery-evt-cVDcqDjlhhn9LvU": {
+    "slug": "tokenised-hong-kong-vip-event-hong-kong-fintech-week",
+    "aliases": []
+  },
+  "luma-evt-G5BtB9gzQtmxuzo": {
+    "slug": "why-financial-crime-investigations-fail-digital-asset-angle",
+    "aliases": []
+  },
+  "luma-evt-8r1XuPjp1xyA9EO": {
+    "slug": "hkghh-networking-night-hong-kong-fintech-week-side-event",
+    "aliases": []
+  },
+  "curated-6th-annual-canadian-bitcoin-summit-2026-11-03": {
+    "slug": "6th-annual-canadian-bitcoin-summit",
+    "aliases": []
+  },
+  "luma-evt-Mr3xwAWeAXMdGam": {
+    "slug": "zyhperpunks-dinner-devcon",
+    "aliases": []
+  },
+  "discovery-evt-mBETGg2pLhndBTP": {
+    "slug": "mev-sangam-mumbai",
+    "aliases": []
+  },
+  "discovery-evt-n7ByAuH2ZtA86Jf": {
+    "slug": "logos-circle-mumbai-run-club",
+    "aliases": []
+  },
+  "luma-evt-nRvFLfwAHjMqMTo": {
+    "slug": "bitcoin-dev-day-traditional-korea",
+    "aliases": []
+  },
+  "luma-evt-47w3UgAAyV9kHHi": {
+    "slug": "merkle-science-meet-hong-kong-asias-digital-asset-compliance-gateway",
+    "aliases": []
+  },
+  "discovery-evt-CrfUNgdw4aVQtjy": {
+    "slug": "unfollow-002-mumbai-afterparty-zcash-bitrefill",
+    "aliases": []
+  },
+  "discovery-evt-jMB76t6BDXdYFbP": {
+    "slug": "community-roundtable-2026-11-04",
+    "aliases": []
+  },
+  "mu-316542881": {
+    "slug": "crypto-wednesday-unconference-meetup-dao-gathering",
+    "aliases": []
+  },
+  "curated-bba-digital-assets-series-digital-assets-crossroads-2026-11-04": {
+    "slug": "bba-digital-assets-series-digital-assets-crossroads",
+    "aliases": []
+  },
+  "w3v-bitcoin-seoul-privacy-edition-26-11-05": {
+    "slug": "bitcoin-seoul-privacy-edition",
+    "aliases": []
+  },
+  "discovery-evt-mC0qvi7LT4zh1da": {
+    "slug": "devcon-builders-evening-canton-x-ledger-x-openzeppelin",
+    "aliases": []
+  },
+  "discovery-evt-7zy6MxoDBJx7klg": {
+    "slug": "mastering-bitcoin-mb-cohort-season-8-orientation-session",
+    "aliases": []
+  },
+  "mu-316893847": {
+    "slug": "socratic-seminar-bitcoinamsterdam-november-5",
+    "aliases": []
+  },
+  "mu-312669067": {
+    "slug": "stockholm-bitcoin-meetup-54",
+    "aliases": []
+  },
+  "mu-316748938": {
+    "slug": "satoshi-radio-meetup-bitcoin-amsterdam",
+    "aliases": []
+  },
+  "discovery-evt-FDr8AjPGzuXH10L": {
+    "slug": "bitcoin-games-night",
+    "aliases": []
+  },
+  "discovery-evt-9GcHU8LiDqzsXhJ": {
+    "slug": "montreal-vibestation-2026-11-06",
+    "aliases": []
+  },
+  "discovery-evt-Cf2DX1IsDlCw6ND": {
+    "slug": "toronto-vibestation-2026-11-06",
+    "aliases": []
+  },
+  "discovery-evt-bN8FJAZ0ukYeTOL": {
+    "slug": "skyline-coworking-2026-11-06",
+    "aliases": []
+  },
+  "discovery-evt-1u0oRbzo0ZHzK0Q": {
+    "slug": "vancouver-vibestation-2026-11-06",
+    "aliases": []
+  },
+  "w3v-b-only-26-11-07": {
+    "slug": "b-only",
+    "aliases": []
+  },
+  "discovery-evt-Nr9CNLkcyZkdgCa": {
+    "slug": "bitcoin-indonesia-community-meetup-tangerang-07-november",
+    "aliases": []
+  },
+  "discovery-evt-iuADCcH9Q16yvM0": {
+    "slug": "bitcoin-indonesia-community-meetup-bekasi-07-november",
+    "aliases": []
+  },
+  "discovery-evt-A7RyC6d7MsaBgEm": {
+    "slug": "bitcoin-indonesia-community-meetup-bogor-07-november",
+    "aliases": []
+  },
+  "discovery-evt-L7t2B9ipCCZ8g6Z": {
+    "slug": "bitcoin-indonesia-community-meetup-makassar-07-november",
+    "aliases": []
+  },
+  "mu-316925041": {
+    "slug": "crypto-coffee-hangout",
+    "aliases": []
+  },
+  "discovery-evt-D20BjeUukzo2qyO": {
+    "slug": "bitcoin-indonesia-community-meetup-yogyakarta-08-november",
+    "aliases": []
+  },
+  "discovery-evt-WfbYLayE3xUknIz": {
+    "slug": "md-blockchain-association-virtual-happy-hour",
+    "aliases": []
+  },
+  "w3v-bluechip26-crypto-safety-conference-26-11-10": {
+    "slug": "bluechip26-crypto-safety-conference",
+    "aliases": []
+  },
+  "discovery-evt-BqdpbfI1RojW350": {
+    "slug": "crypto-mondays-culver-city-la-meetup",
+    "aliases": []
+  },
+  "discovery-evt-MRAfeaIFhOGrtMv": {
+    "slug": "get-tech-vibes-get-connected-get-funded",
+    "aliases": []
+  },
+  "discovery-evt-OXTmaGCYwsFUJLV": {
+    "slug": "community-roundtable-2026-11-11",
+    "aliases": []
+  },
+  "discovery-evt-XJ9Iuk18S1g2ZzT": {
+    "slug": "near-x-ondo-mixer-daslondon",
+    "aliases": []
+  },
+  "curated-w3node-conference-hackathon-2026-11-12": {
+    "slug": "w3node-conference-hackathon",
+    "aliases": []
+  },
+  "w3v-solana-demo-day--london-2026": {
+    "slug": "solana-demo-day-london",
+    "aliases": []
+  },
+  "discovery-evt-no4dPWhKPtAMNU0": {
+    "slug": "local-w-m-c-breakpoint-das-edition",
+    "aliases": []
+  },
+  "discovery-evt-dqMVS2PrUBDRnF3": {
+    "slug": "bitcoin-beginners-2026-11-13",
+    "aliases": []
+  },
+  "w3v-solana-intelligence-summit": {
+    "slug": "solana-intelligence-summit",
+    "aliases": []
+  },
+  "curated-digital-assets-forum-new-york-2026-11-13": {
+    "slug": "digital-assets-forum-new-york",
+    "aliases": []
+  },
+  "curated-ubc-hackathon-2026-11-13": {
+    "slug": "ubc-hackathon",
+    "aliases": []
+  },
+  "w3v-445-crew-x-solana-breakpoint--community-run": {
+    "slug": "445-crew-x-solana-breakpoint-community-run",
+    "aliases": []
+  },
+  "w3v-scale-or-die": {
+    "slug": "scale-or-die",
+    "aliases": []
+  },
+  "discovery-evt-gKhtfAiuAFPHESR": {
+    "slug": "solana-cup-breakpoint",
+    "aliases": []
+  },
+  "curated-money-shift-crypto-ai-future-money-2026-11-14": {
+    "slug": "money-shift-crypto-ai-future-money",
+    "aliases": []
+  },
+  "discovery-evt-zgDyaoeNsB7r9bo": {
+    "slug": "bitcoin-indonesia-community-meetup-bandung-15-november",
+    "aliases": []
+  },
+  "discovery-evt-JgYTRzXo6yWgqCd": {
+    "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15",
+    "aliases": []
+  },
+  "discovery-evt-P1laFzLdOaT7vik": {
+    "slug": "tilt-pay-morning-coffee-breakpoint-26",
+    "aliases": []
+  },
+  "discovery-evt-F0ZHBEyHynGIlVo": {
+    "slug": "solana-fitness-zone-women-solana-yoga-offline-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-vL3kHCN39reaPwE": {
+    "slug": "solana-fitness-zone-mental-reset-workshop-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-dG5O5F5HU9O4ikF": {
+    "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-16",
+    "aliases": []
+  },
+  "discovery-evt-yqbouX052XUmpA8": {
+    "slug": "solana-fitness-zone-group-boxing-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-IME1HwTy1ywWmub": {
+    "slug": "solana-fitness-zone-rise-shine-yoga-monkedao-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-vvQI67NJtBlP4qH": {
+    "slug": "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17",
+    "aliases": []
+  },
+  "discovery-evt-gjNVvhgcknTCwpc": {
+    "slug": "solana-fitness-zone-hiit-class-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-nn6OreUXqAcO2wA": {
+    "slug": "solana-fitness-zone-sound-healing-breathwork-breakpoint",
+    "aliases": []
+  },
+  "discovery-evt-EYXjEVxXQ9dbkmf": {
+    "slug": "solana-fitness-zone-aerial-yoga-breakpoint",
+    "aliases": []
+  },
+  "mu-316825220": {
+    "slug": "crypto-cigars",
+    "aliases": []
+  },
+  "w3v-borneo-blockchain-conference-26-11-18": {
+    "slug": "borneo-blockchain-conference",
+    "aliases": []
+  },
+  "discovery-evt-oqwcWOYQmqqNHgi": {
+    "slug": "mastering-lightning-ml-season-5-orientation-session",
+    "aliases": []
+  },
+  "mu-316959157": {
+    "slug": "onchainaustria-weihnachtsfeier-bunker-mode",
+    "aliases": []
+  },
+  "discovery-evt-d2jbH5c6zkZDRCH": {
+    "slug": "crypto-dinner-rotterdam",
+    "aliases": []
+  },
+  "discovery-evt-JGCnNvxry6bJozI": {
+    "slug": "community-roundtable-2026-11-18",
+    "aliases": []
+  },
+  "curated-global-bitcoin-circular-economies-summit-2026-11-19": {
+    "slug": "global-bitcoin-circular-economies-summit",
+    "aliases": []
+  },
+  "curated-bitfest-2026-11-19": {
+    "slug": "bitfest",
+    "aliases": []
+  },
+  "mu-316585521": {
+    "slug": "bitcoin-was-unser-geld-morgen-wert-ist",
+    "aliases": []
+  },
+  "discovery-evt-DnwWNYAbNYeW8oC": {
+    "slug": "crypto-dinner-amsterdam",
+    "aliases": []
+  },
+  "discovery-evt-fqCdStFvtJYB08q": {
+    "slug": "bitcoin-indonesia-community-meetup-malang-21-november",
+    "aliases": []
+  },
+  "discovery-evt-WHx7rX6yOb8hK4S": {
+    "slug": "bitcoin-indonesia-community-meetup-jakarta-21-november",
+    "aliases": []
+  },
+  "discovery-evt-E4l4HG2CAI9ljHe": {
+    "slug": "bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-11-21",
+    "aliases": []
+  },
+  "discovery-evt-xodkzqBmzveUbjB": {
+    "slug": "bitcoin-indonesia-community-meetup-magelang-22-november",
+    "aliases": []
+  },
+  "mu-316768461": {
+    "slug": "krypto-skatt-v-reese-legal",
+    "aliases": []
+  },
+  "discovery-evt-3BQ0bAwC0Zr5l8H": {
+    "slug": "community-roundtable-2026-11-25",
+    "aliases": []
+  },
+  "w3v-bitcoin-japan-26-11-27": {
+    "slug": "bitcoin-japan",
+    "aliases": []
+  },
+  "discovery-evt-3OzyUMXsLNiVr57": {
+    "slug": "montreal-vibestation-2026-11-27",
+    "aliases": []
+  },
+  "discovery-evt-SGziONOytDR21GD": {
+    "slug": "toronto-vibestation-2026-11-27",
+    "aliases": []
+  },
+  "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30": {
+    "slug": "bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering",
+    "aliases": []
+  },
+  "mu-313235527": {
+    "slug": "austin-bitcoin-club",
+    "aliases": []
+  },
+  "discovery-evt-pp8byfBBIuDs1mx": {
+    "slug": "toronto-vibestation-2026-12-04",
+    "aliases": []
+  },
+  "discovery-evt-VNxCBFaf8gbSOl1": {
+    "slug": "montreal-vibestation-2026-12-04",
+    "aliases": []
+  },
+  "discovery-evt-Ka8BADDI3GzanUg": {
+    "slug": "eth-cali-frontier-city",
+    "aliases": []
+  },
+  "luma-host-evt-evt-vZ1HR9Rka8ch50U": {
+    "slug": "superteam-canada-community-call",
+    "aliases": []
+  },
+  "w3v-blockdown-dubai-27-01-26": {
+    "slug": "blockdown-dubai",
+    "aliases": []
+  },
+  "curated-plan-forum-el-salvador-2027-01-29": {
+    "slug": "plan-forum-el-salvador",
+    "aliases": []
+  },
+  "ma-digital-assets-forum-2027": {
+    "slug": "digital-assets-forum-london",
+    "aliases": []
+  },
+  "curated-cbc-summit-europe-2027-03-04": {
+    "slug": "cbc-summit-europe",
+    "aliases": []
+  },
+  "curated-mining-disrupt-2027-03-22": {
+    "slug": "mining-disrupt",
+    "aliases": []
+  },
+  "ma-digital-asset-summit-2027": {
+    "slug": "digital-asset-summit-nyc",
+    "aliases": []
+  },
+  "ma-dc-blockchain-summit-2027": {
+    "slug": "dc-blockchain-summit",
+    "aliases": []
+  },
+  "ma-teamz-web3-ai-summit-2027": {
+    "slug": "teamz-summit-ai-edition",
+    "aliases": []
+  },
+  "curated-stablecon-emea-2027-04-14": {
+    "slug": "stablecon-emea",
+    "aliases": []
+  },
+  "w3v-btc-prague-27-05-06": {
+    "slug": "btc-prague",
+    "aliases": []
+  },
+  "ma-dutch-blockchain-week-2027": {
+    "slug": "dutch-blockchain-week-summit",
+    "aliases": []
+  },
+  "w3v-nfc-summit-27-05-27": {
+    "slug": "nfc-summit",
+    "aliases": []
+  },
+  "w3v-adopting-bitcoin-arnhem-27-05-28": {
+    "slug": "adopting-bitcoin-arnhem",
+    "aliases": []
+  },
+  "curated-token2049-new-york-2027-06-16": {
+    "slug": "token2049-new-york",
+    "aliases": []
+  },
+  "w3v-bitcoin-27-07-15": {
+    "slug": "bitcoin-nashville",
+    "aliases": []
+  },
+  "curated-blockchain-tech-summit-4th-annual-2027-09-28": {
+    "slug": "blockchain-tech-summit-4th-annual",
+    "aliases": []
+  },
+  "ma-token2049-singapore-2027": {
+    "slug": "token2049-singapore",
+    "aliases": []
   }
 }

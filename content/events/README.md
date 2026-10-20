@@ -7,6 +7,7 @@ Start with [INDEX.md](INDEX.md) to find an event by name, date, or source feed. 
 | Location | Purpose | Edit directly? |
 | --- | --- | --- |
 | `sources/curated-events.json` | Curated events, including Luma imports | Yes |
+| `sources/verified-discovery.json` | Individually reviewed primary-source discoveries | Yes |
 | `sources/kbw-luma-events.json` | Korea Blockchain Week side events | Yes |
 | `sources/ibw-side-events.json` | India Blockchain Week / Devcon side events | Yes |
 | `sources/india-luma-events.json` | India Luma events | Yes |
@@ -105,7 +106,7 @@ The fetcher checks event identity and edition before accepting Event JSON-LD, or
 
 ## How pages use this content
 
-- `src/lib/event-sources.ts` registers the six source feeds in listing-precedence order.
+- `src/lib/event-sources.ts` registers source feeds in listing-precedence order.
 - `src/lib/events-listing-build.ts` normalizes and deduplicates listings, then filters ended events.
 - `content/events-runtime.json` and `public/data/events-runtime.json` are generated delivery files. Edit the source records instead.
 - `src/lib/event-guide-store.ts` and the compatibility `getEventEditorialGuide` export both use `src/lib/event-content.ts`. Source-backed descriptions are the only body content they can return.
@@ -115,6 +116,12 @@ The fetcher checks event identity and edition before accepting Event JSON-LD, or
 - Historical handwritten guides remain in `src/lib/event-guides.ts` as an unused reference; image overrides remain in `content/event-image-overrides.json`.
 
 The page presentation follows the existing Hashtagweb3 event typography and colors. Section spacing separates topics; list markers distinguish steps from prose. The content remains static for reading (energy 1, rhythm 1, motion 1).
+
+## Verified discovery
+
+`sources/verified-discovery.json` stores new identities checked individually against organizer or registration pages. Recoveries update their existing source IDs. The `curated-reviewed` source marker requires a source-backed description with the `reviewed-primary-sources` method; it allows reviewed official community activities to pass the automated feed's keyword filter. Date, cancellation, publication-hold, tombstone and identity checks still apply.
+
+`discovery-audit-2026-10-20.json` records the October 20 additions, recoveries, exclusions, source checks and cover-image receipts. Hidden locations remain city-only, and restricted entry is disclosed. Calendar rate limits are recorded as incomplete coverage. Run `npx tsx scripts/test-event-discovery.ts` to check the release's provenance, preserved URLs and descriptions, privacy, artwork and map coverage.
 
 ## Reviewed source recovery
 

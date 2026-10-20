@@ -6019,18 +6019,10 @@
     "registrationUrl": "https://luma.com/6xip72je",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": false,
+    "locationHidden": true,
     "city": "London",
     "country": "United Kingdom",
-    "location": "Olympia, Hammersmith Rd, London W14 8UX, UK",
-    "venueName": "Olympia",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.4963566,
-      "longitude": -0.2107637
-    },
+    "location": "London, United Kingdom",
     "hosts": [],
     "organizer": {
       "type": "Organization",
@@ -6050,7 +6042,7 @@
     "sourceVerification": {
       "url": "https://luma.com/6xip72je",
       "eventId": "evt-UqUVnzhZE8gFPkd",
-      "fetchedAt": "2026-10-12T11:43:48.954Z",
+      "fetchedAt": "2026-10-20T09:31:25.057Z",
       "method": "luma-page"
     }
   },

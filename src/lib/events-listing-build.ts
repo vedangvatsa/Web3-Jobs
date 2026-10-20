@@ -170,6 +170,8 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
 
 function isQualityEvent(e: Web3Event): boolean {
   if (e.source === 'token2049-verified' && getVerifiedEventDescription(e)) return true;
+  // Reviewed primary sources include official community activities as well as technical sessions.
+  if (e.source === 'curated-reviewed' && e.descriptionSource?.method === 'reviewed-primary-sources' && getVerifiedEventDescription(e)) return true;
   if (e.source === 'curated-premier' || e.source === 'luma-crypto' || e.source === 'curated-series') return true;
   // ConferenceIndex listings do not provide a native organizer destination.
   if (e.source === 'conferenceindex') return false;

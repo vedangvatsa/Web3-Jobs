@@ -2353,10 +2353,6 @@
       "sha256": "c1fc08773073589d88ad2e15008d2809d9078d8d2ccf40931991fd6f6d65b881",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-aih5owwcovedwmw-ea5b8cc3.webp": {
-      "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-awaxxyscgl4amxv-9311fb9e.webp": {
       "sha256": "ea216c05cbc5fc43e74998bc4d44922746c2e8bdb454b05a3064c088cee9f679",
       "status": "optimized"
@@ -2557,10 +2553,6 @@
       "sha256": "1f5ce29776e5b1d434dce3f0eb20ac89ffd7d21b76d5d1848e69cf341cc9ea9d",
       "status": "optimized"
     },
-    "/events/ma-dc-blockchain-summit-2027-02ad55cc.webp": {
-      "sha256": "31c084ae6d8de823b29576220dfc3ab8000b337cd6d83e0925d50c1c9072cd19",
-      "status": "optimized"
-    },
     "/events/ma-devconnect-2027-f20d9c2e.webp": {
       "sha256": "593e44be7293c0cb1998be0355c8bbbecdb15fbafb5c455005a59e5db5e4fdd3",
       "status": "optimized"
@@ -2619,10 +2611,6 @@
     },
     "/events/ma-token2049-dubai-2027-053271c6.webp": {
       "sha256": "59e9a93ef57d86b4379d26093b09c3470c0ac43c2d36f669397c48f78ee75021",
-      "status": "optimized"
-    },
-    "/events/ma-token2049-singapore-2027-d2b3a862.webp": {
-      "sha256": "dd2d2b1661ce413b60a02541cb6f10b8a3879d169ff6e5750c09fdaa83d80b8d",
       "status": "optimized"
     },
     "/events/ma-web-summit-2027-b6238e2b.webp": {

@@ -4153,6 +4153,2037 @@ Past stages have hosted Changpeng Zhao (Binance), Jeremy Allaire (Circle), Lily 
 
 Participants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.
 
+<a id="event-446a4eaa04fada1e"></a>
+
+## Timechain Tuesdays - Coffee & Bitcoin
+
+- Record: `mu-317025728`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-20T08:00:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/miamibitcoinevents/events/317025728/>
+
+### About the event
+
+A morning Bitcoin meetup at the Dock's coffee shop in Wynwood, hosted by Miami Bitcoin Events.
+
+<a id="event-772191189e668953"></a>
+
+## South Beach Miami Bitcoin Happy Hour
+
+- Record: `mu-316316148`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-20T17:00:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/miamibitcoinevents/events/316316148/>
+
+### About the event
+
+Miami Bitcoin Events hosts a casual happy hour for local Bitcoiners at Monty's. There is no formal agenda, and all experience levels are welcome.
+
+<a id="event-aa2c9cc7df7265ad"></a>
+
+## Crypto Clubhouse: Privacy on Tap + GOTV Trivia + Giveaways 6-9pm Goat Bar
+
+- Record: `mu-316790235`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-20T18:00:00-07:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/vegas-crypto-group/events/316790235/>
+
+### About the event
+
+Vegas Crypto Group hosts presentations and a fireside discussion about Monero, Litecoin MWEB and privacy technology, followed by trivia and bingo. An Edge Wallet table offers hands-on crypto tipping. Entry is free and attendees must be 21 or older.
+
+<a id="event-54829bb6c73d0f26"></a>
+
+## 20/20 Vision: Solana x Huma Happy Hour
+
+- Record: `discovery-evt-XzdNZYQvs1Okah0`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solana-huma-happy-hour>
+
+### About the event
+
+Huma and Solana Foundation host a happy hour alongside Money20/20 for people working in payments and crypto. The gathering is at The Venetian in Las Vegas; the organizer will share the exact location closer to the event. Registration requires approval.
+
+<a id="event-b0bf37c763ebd33a"></a>
+
+## What If Someone Tried to Create 1 million Extra Bitcoin? \| Vadodara
+
+- Record: `discovery-evt-LvRdeiNaeZflUIs`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gxc30cgz>
+
+### About the event
+
+Bitshala's ninth Vadodara meetup explains Bitcoin's supply limit, proof of work, difficulty adjustment and how full nodes reject invalid blocks. The beginner-to-intermediate session includes technical demonstrations. A laptop is optional; register to receive the venue address.
+
+<a id="event-b2260b5b66227121"></a>
+
+## Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)
+
+- Record: `discovery-evt-rYg9kJJBZfME4d1`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T16:30:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/j364pw04>
+
+### About the event
+
+Bitcoin Indonesia runs a merchant-onboarding workshop at Bitcoin House Bali for business owners interested in using Bitcoin. The session introduces business use cases and offers a chance to see a point-of-sale device, hardware wallets and mining equipment at the venue. The workshop is free and uses English and Bahasa Indonesia.
+
+<a id="event-8d8e1ec173167f10"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-UMNVKyy1Q3q7JgE`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/40guwnej>
+
+### About the event
+
+Fort Worth DAO's community roundtable covers how the DAO works, active event planning, programs and current topics. All are welcome to bring questions about the group or deep technology.
+
+<a id="event-a777b0e335f0b63e"></a>
+
+## DUC Bitcoin Paris Montmartre
+
+- Record: `mu-316413134`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T18:30:00+02:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/duc-bitcoin-meetup-paris/events/316413134/>
+
+### About the event
+
+DUC Bitcoin's Montmartre meetup reviews recent Bitcoin news before opening the discussion to attendees' questions and experiences. Beginners can get help creating and securing a Bitcoin wallet. The meeting takes place at Chez Ginette.
+
+<a id="event-903bb6f4282e5e4a"></a>
+
+## Houston Crypto Meetup #43
+
+- Record: `mu-316573253`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T19:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/houston-crypto-group/events/316573253/>
+
+### About the event
+
+Houston Crypto meets at Heights Bier Garten to discuss Bitcoin, crypto and Web3. The listed discussion topics include market cycles and lessons from past markets. Attendance is free.
+
+<a id="event-5e9628248e1b8a3d"></a>
+
+## Bitcoin am Holzmarkt (Stammtisch)
+
+- Record: `mu-312264805`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T19:00:00+02:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-lab-berlin/events/312264805/>
+
+### About the event
+
+Bitcoin Lab Berlin holds an informal discussion at Café Holzmarktperle. Beginners and experienced Bitcoin users can ask questions and exchange knowledge. The café accepts Bitcoin and Lightning payments.
+
+<a id="event-4faeecc84173c898"></a>
+
+## 21MeetUp \| Octubre 🎃👻
+
+- Record: `discovery-evt-xcJ3hkBPmdfgdHm`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-21T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/e7vevovt>
+
+### About the event
+
+ONG Bitcoin Argentina hosts an evening gathering for the Bitcoin community in Núñez ahead of LABITCONF. Admission is free; attendees pay for their own food and drinks.
+
+<a id="event-f2085358ad0adda6"></a>
+
+## Team1 India University Workshop - MIT - WPU, Pune
+
+- Record: `discovery-evt-HlX4KTQytAD4DH7`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2y0p2tkd>
+
+### About the event
+
+Team1 introduces blockchain and the Avalanche ecosystem, followed by a hands-on builder session, student opportunities and Q&A. A laptop is mandatory. Registration requires host approval.
+
+<a id="event-5933a9c7eebdac11"></a>
+
+## Build For Breakpoint: How We Exited KnownOrigin to eBay
+
+- Record: `discovery-evt-GBKABMGTvkCfyPg`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/build-for-breakpoint-how-we-sold-knownorigin-to>
+
+### About the event
+
+Andy Gray leads office hours on KnownOrigin's acquisition by eBay, covering due diligence, valuation of crypto-native companies and post-acquisition decisions. Founders can bring specific M&A questions. Attendance requires an approved invitation.
+
+<a id="event-d5cfcd49598385f4"></a>
+
+## LinkLab \| CCIP 2.0
+
+- Record: `discovery-evt-q3nE7Ggih7EifUJ`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/LinkLabCCIP>
+
+### About the event
+
+Chainlink's online workshop covers the CCIP 2.0 SDK, CLI and APIs, conventional and AI-assisted development, configurable finality, Cross-Chain Verifiers and programmable compliance with Chainlink ACE. Speakers include Dave Isbistki, Solange Gueiros and Julian Ma. A hands-on setup guide is linked from registration.
+
+<a id="event-a0efe6f7b5a92772"></a>
+
+## Blockchain In the Age of Quantum
+
+- Record: `mu-316952339`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T17:00:00+03:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/quantumke/events/316952339/>
+
+### About the event
+
+QuantumKE and Blockchain Centre NBO host a beginner-friendly discussion on quantum computing and blockchain security, with Web3 Clubs as a partner. Topics include risks to existing cryptography, post-quantum defenses and a live problem-solving clinic. Announced participants include Joylizza Mwangi, Darlington Baraka, Shannon Mujera and Wycliffe Osano.
+
+<a id="event-d925ae97b2a66c13"></a>
+
+## Solana Student Bootcamp \| AIで始める、ブロックチェーン開発
+
+- Record: `discovery-evt-S85peLd1TLeNc05`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T17:00:00+09:00
+- Description: Source-backed
+- Original page: <https://luma.com/lmy1gn6j>
+
+### About the event
+
+A practical student programme on using AI to develop products on Solana. The 22 October session is part of a four-session course co-organized by Solana Foundation DevRel Japan, CAC, Chiba Institute of Technology's web3 study group, xFin Labs and Superteam Japan. Participants should bring a laptop. Registration requires host approval; the exact address is shared with approved attendees.
+
+<a id="event-db47b4ca24384904"></a>
+
+## Austin Bitcoin Club Presents: Gamenight!
+
+- Record: `mu-313235525`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T18:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-park-austin/events/313235525/>
+
+### About the event
+
+Bitcoin Park Austin hosts a Bitcoin board-game night with pizza. Listed games include Hodl Up, Channel Up and BIP-39 Seed Phrase. RSVP is requested because space is limited.
+
+<a id="event-53aaf53b2a27271c"></a>
+
+## EthVan weekly meetup
+
+- Record: `mu-316822252`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T18:00:00-07:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/ethvancouver-meetup-group/events/316822252/>
+
+### About the event
+
+Ethereum Vancouver's weekly meetup takes place at DCTRL. The organizer directs attendees to the Vancouver Crypto Events calendar for current updates.
+
+<a id="event-622b6dd9a10979d3"></a>
+
+## Austin Bitcoin Developers Meetup
+
+- Record: `mu-316716892`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T19:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/austin-computer-club/events/316716892/>
+
+### About the event
+
+Austin's Bitcoin developer community reviews the past month's events and news from Bitcoin open-source development. The organizer publishes agendas and past discussions at austinbitdevs.com.
+
+<a id="event-f1081cd741e834e3"></a>
+
+## Coldcard post-mortem: ¿Qué pasó? + Debate abierto
+
+- Record: `mu-316850208`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-22T19:00:00+02:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-barcelona/events/316850208/>
+
+### About the event
+
+Counterweight leads a Spanish-language analysis of the Coldcard incident described by Bitcoin Barcelona, followed by questions and open discussion. The meetup at MOB Barcelona is free. The organizers ask attendees to RSVP and exclude price speculation from the programme.
+
+<a id="event-cd0b5b279b03c665"></a>
+
+## Team1 India University Workshop - Indira College of Engineering & Management, Pune
+
+- Record: `discovery-evt-Jiz1nYxlG75X1SX`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1h9gbkl3>
+
+### About the event
+
+Team1 runs an introduction to blockchain and Avalanche, a hands-on builder session, student opportunity discussions and Q&A. Participants must bring a laptop. Registration requires host approval.
+
+<a id="event-31703086bcac34d3"></a>
+
+## Build For Breakpoint: Sailing Through Sales
+
+- Record: `discovery-evt-haz6jOnoJHBqX0Q`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/build-for-breakpoint-sailing-through-sales>
+
+### About the event
+
+Mark Wilson leads a founder workshop on outbound sales, closing conversations, pricing and objections. Participants are asked to bring a real prospect or deal to use in the exercises. Attendance requires an approved invitation.
+
+<a id="event-b0f03920d61ef40a"></a>
+
+## Skyline Coworking
+
+- Record: `discovery-evt-7IqcX8M9irXvPE3`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ppzx23ic>
+
+### About the event
+
+Skyline hosts open Friday coworking for the Solana community in New York, with coffee and snacks. Registration requires approval, and the address is shared with guests.
+
+<a id="event-0b08bce04ea6327f"></a>
+
+## Toronto VibeStation
+
+- Record: `discovery-evt-FCjHbklpkjJhS08`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vi07rwlu>
+
+### About the event
+
+Superteam Canada offers a coworking day with space for project work and finding teammates. Lunch, snacks and drinks are provided. Attendance is free with approval, and the Toronto address is shared with guests.
+
+<a id="event-e66e76d3449378be"></a>
+
+## Montreal VibeStation
+
+- Record: `discovery-evt-UCVyELUtCmRFEgU`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/izc6bvfp>
+
+### About the event
+
+Superteam Canada hosts a coworking day for builders and creatives in Montréal. Participants can work on projects and meet potential teammates; lunch, snacks and drinks are provided. Attendance is free with approval, and the address is shared with guests.
+
+<a id="event-6c4c59a5062f57c1"></a>
+
+## Vancouver VibeStation
+
+- Record: `discovery-evt-61qMI4lIR0KZSDR`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-23T16:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ydg8swsd>
+
+### About the event
+
+A Superteam Canada coworking day for builders and creatives in Vancouver. Attendees can work on projects, find collaborators or join a team. Lunch, snacks and drinks are included. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-74a492180efd6917"></a>
+
+## ETH Shenzhen 2026
+
+- Record: `discovery-evt-TiZnPxscDelGhid`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-24T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7ggxnhbh>
+
+### About the event
+
+OpenBuild and ETHTAO host a hackathon build and demo day on October 24, followed by the main conference on October 25. Tracks cover agent infrastructure and onchain payments, ZK/FHE privacy, and verifiable AI. The organizer says program details remain subject to confirmation. Register to receive the venue address; selected evening sessions are invitation-only.
+
+<a id="event-be9a8325dd6d3db7"></a>
+
+## Team1 India University Workshop - Vishwakarma Institute of Technology, Pune
+
+- Record: `discovery-evt-eEhN4p4N79AW1PR`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-24T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/917zvizr>
+
+### About the event
+
+Team1 and VIT's Microsoft Learn Student Club host an Avalanche developer workshop with blockchain fundamentals, a hands-on builder session, student opportunities and Q&A. Bring a laptop. Registration requires host approval.
+
+<a id="event-42791a14b4cba813"></a>
+
+## Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
+
+- Record: `mu-316839883`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-24T19:00:00+04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/blockchain-workshop-dubai/events/316839883/>
+
+### About the event
+
+Blockchain Dubai hosts an informal social meetup for its Web3 community, including developers, founders and NFT creators. Discussion areas listed by the organizer include DeFi, tokenized assets and blockchain applications. Guests must RSVP on Meetup and follow the organizer's registration instructions for venue details. The public page identifies only Dubai.
+
+<a id="event-1a642738c94d4e6c"></a>
+
+## Bitcoin for Beginners
+
+- Record: `mu-317049329`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-25T14:00:00-07:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/317049329/>
+
+### About the event
+
+Participants practice sending Bitcoin on testnet, using test funds rather than real money. The organizer asks attendees to install the Blockstream wallet on an Android phone or iPhone before the workshop.
+
+<a id="event-06c0ad171a855ece"></a>
+
+## Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026
+
+- Record: `discovery-evt-UhNfhuMgGZHqE7F`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-25T14:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/oxti87c7>
+
+### About the event
+
+Bitcoin Indonesia's Magelang community discusses control over money and Bitcoin self-custody. The session covers storing Bitcoin yourself and the difference between direct control and reliance on an intermediary. Admission is free; attendees buy their own food and drinks.
+
+<a id="event-074924dc774d12c3"></a>
+
+## Bitcoin Women Meetup mit Les Femmes Orange
+
+- Record: `mu-316810808`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-25T15:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-lab-berlin/events/316810808/>
+
+### About the event
+
+Les Femmes Orange meets at Royals & Rice in Berlin for women interested in Bitcoin. The gathering welcomes both newcomers and people already involved in the Bitcoin community.
+
+<a id="event-346c411c08375883"></a>
+
+## Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026
+
+- Record: `discovery-evt-vJUx9grI6doLBwb`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-25T15:30:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/fv97vshu>
+
+### About the event
+
+Bitcoin Indonesia's Bandung Barat meetup discusses Bitcoin from Islamic perspectives, including the different views behind questions about whether its use is permitted. The format is an informal community discussion. Admission is free; participants pay for their own food and drinks.
+
+<a id="event-782c3efce165a59a"></a>
+
+## Mid-Chain Conference: Blockchain & Decentralized Economics
+
+- Record: `discovery-evt-XFoMM2nGSakEMj8`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-26T06:45:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rzaklefv>
+
+### About the event
+
+An academic-industry conference at Ben-Gurion University covering blockchain protocols, decentralized finance, governance and cryptographic mechanisms. The program includes research talks, a lunch poster session and a closing panel with Yehuda Lindell. Registration is free and requires approval.
+
+<a id="event-1df408db7e1b3831"></a>
+
+## Build For Breakpoint: Laptops to Terminals - How Ecosystem Helps You Scale From Retail to Institutions
+
+- Record: `discovery-evt-H7r7sZBCzbTUXsJ`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-26T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/build-for-breakpoint-laptops-to-terminals-how>
+
+### About the event
+
+Mario Bernardi leads a workshop on moving from retail adoption to institutional customers. Topics include partnership structures, ecosystem development, institutional sales cycles and a first draft of a partnership strategy. Attendance requires an approved invitation.
+
+<a id="event-45291e89e887580f"></a>
+
+## Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
+
+- Record: `mu-316869344`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-26T19:00:00+04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/blockchain-workshop-dubai/events/316869344/>
+
+### About the event
+
+Blockchain Dubai hosts a coffee meetup for people working with Web3, DeFi, NFTs and tokenized assets. The format is informal conversation rather than a published talk programme. Guests must RSVP on Meetup and follow the organizer's registration instructions for venue details. The public page identifies only Dubai.
+
+<a id="event-f177be3c9209eba6"></a>
+
+## NEAR x SVRN Happy Hour @ The Bridge
+
+- Record: `discovery-evt-vxHTXfYAtLW0JqS`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-26T20:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1m2qy8jh>
+
+### About the event
+
+NEAR Foundation and SVRN host an informal gathering for allocators, trading desks, issuers and builders before The Bridge conference. The event centers on confidential execution and onchain settlement. Registration requires approval, and the address is shared with guests.
+
+<a id="event-fb3664f51646d296"></a>
+
+## CryptoMondays Bahamas Launch
+
+- Record: `discovery-evt-pb7TG5mtKrOmFwr`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-26T22:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/r6yn3i6o>
+
+### About the event
+
+CryptoMondays lists its Bahamas chapter launch in Nassau, hosted by Rosalyn Brown. Registration requires approval. The page gives West Bay Street as the location but does not name a venue.
+
+<a id="event-bd2cf3e00136f673"></a>
+
+## Zcon 7
+
+- Record: `curated-zcon-7-2026-10-27`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-27
+- Description: Source-backed
+- Original page: <https://zfnd.org/zcon7/>
+
+### About the event
+
+Zcash Foundation's conference covers Zcash and privacy-preserving technologies, with sessions on consensus, financial privacy and the cypherpunk movement. Attendance requires an accepted application. Conference tickets are free, but accepted attendees must pay for accommodation at the venue resort through the organizer's booking link.
+
+<a id="event-7567348899dce93e"></a>
+
+## Mariblock House: Moonshot Edition
+
+- Record: `discovery-evt-angHOkD4gtGuepG`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-27T10:00:00+01:00
+- Description: Source-backed
+- Original page: <https://luma.com/1q9pykam>
+
+### About the event
+
+Mariblock editors conduct on-record, filmed interviews with people working in Africa's blockchain and digital-asset industry. The announced topics include exchanges, stablecoin payments, liquidity, local-currency stablecoins, tokenization and regulation. This edition takes place alongside Moonshot by TechCabal. Registration requires approval, and the organizer shares the exact location with approved attendees.
+
+<a id="event-fe7c2be5f99c52a5"></a>
+
+## Bitcoin en las Universidades en Universidad de Belgrano
+
+- Record: `discovery-evt-4GbxA81G5iwo5UA`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-27T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/u0uhl239>
+
+### About the event
+
+ONG Bitcoin Argentina offers introductory sessions on Bitcoin, blockchain, mining, exchanges and decentralized finance at Universidad de Belgrano. The sessions take place on October 27 and November 2, each from 11 AM to 1 PM. The program also includes scam prevention, practical activities and questions with the instructors.
+
+<a id="event-87e8ab0d1fdcafc9"></a>
+
+## Road to ETHPrague
+
+- Record: `discovery-evt-RDHzi9B3vL2FkcZ`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-27T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2ns5lk31>
+
+### About the event
+
+ETHPrague hosts an evening at FIT ČVUT to discuss plans for Devcon Mumbai and ideas for the next ETHPrague. Students, researchers and Ethereum builders can share feedback with the organizers. The meetup is in rooms 152/153.
+
+<a id="event-55f045e83a486f97"></a>
+
+## Linux Foundation Decentralized Trust (LFDT) Berlin Monthly Live Gathering
+
+- Record: `mu-316885523`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-27T19:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lfdt-berlin/events/316885523/>
+
+### About the event
+
+LFDT Berlin meets at BRLO Brwhouse for open discussion of decentralized-technology projects, implementation challenges and the LFDT ecosystem. The gathering has no formal agenda and welcomes both newcomers and people already working with these technologies.
+
+<a id="event-fe77b8efe48a0a0a"></a>
+
+## Founders' Society Meetup
+
+- Record: `discovery-evt-b30Bmhw4B0gQehq`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-28T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/FoundersSociety>
+
+### About the event
+
+Superteam Poland hosts founder talks and Q&A during Poland Tech Week. The announced programme includes Antoni Kiszka of Derpetual and Jakub of Reflect, followed by discussion, pizza and drinks. Registration requires host approval.
+
+<a id="event-ec8cb3ca119a81d4"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-BSnrt893V7uhtCu`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-28T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5p4tuanp>
+
+### About the event
+
+Fort Worth DAO hosts an open discussion of its programs, event planning and current topics. Participants can learn how the DAO works and bring questions about deep technology.
+
+<a id="event-7c3e1686f56e056d"></a>
+
+## Oslo Blockchain Meetup - Nexa
+
+- Record: `mu-316768752`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-28T17:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/oslo-blockchain-meetup/events/316768752/>
+
+### About the event
+
+Bitcoin Unlimited member jQrgen presents Nexa's design and development work. An interactive demonstration follows, giving participants hands-on experience with Wally Wallet and a website built using Nexa AI skills. The event includes pizza.
+
+<a id="event-03c9bb0a0c0cc1bf"></a>
+
+## Crypto Halloween & Chill - Socialize, Discuss & Learn About CRYPTO
+
+- Record: `mu-316905431`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-28T18:00:00-07:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/crypto-and-chill/events/316905431/>
+
+### About the event
+
+Crypto and Chill holds a Halloween-themed discussion at Fashion Island's food court. Topics include decentralized finance, blockchain security, governance and Web3 applications. Attendees can buy food from the vendors or bring their own.
+
+<a id="event-01fadd9df3a25b56"></a>
+
+## The Future of Value: AI & Tokenised Assets
+
+- Record: `discovery-evt-1DcDrdOjAH9DBML`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-28T18:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/tmhfb4wl>
+
+### About the event
+
+Stratford Finance, FinSTEP Asia and Asia Insight Circle host a panel on AI in financial services and tokenized real-world assets. Announced speakers include Nicholos Soo of HSBC, Angelina Kwan and Musheer Ahmed, with Walter Jennings moderating. The evening includes a keynote, panel and reception at Garage Society Central. Admission is HK$100.
+
+<a id="event-d1c5514ab883d569"></a>
+
+## Crafting the Cryptoeconomy Conference 2026
+
+- Record: `curated-crafting-cryptoeconomy-conference-2026-10-29`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-29T08:30:00-04:00
+- Description: Source-backed
+- Original page: <https://columbiaengineering.campusgroups.com/CDFT/rsvp_boot?id=376457>
+
+### About the event
+
+Columbia's Center for Digital Finance & Technologies hosts two days of research talks and discussions on prediction markets, stablecoins, quantum threats to blockchains, Ethereum, rollup economics and tokenized assets. Registration is offered separately for each day.
+
+<a id="event-277af93c37ee90ad"></a>
+
+## Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus
+
+- Record: `mu-316754646`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-29T18:15:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/papers-we-love-zurich/events/316754646/>
+
+### About the event
+
+Security engineer Simran Tinani presents the paper Flash Boys 2.0, covering decentralized-exchange frontrunning, sandwich attacks, priority gas auctions and MEV's implications for consensus. The 45-60 minute talk is followed by discussion and Q&A. No blockchain or finance background is required, though familiarity with distributed systems is helpful.
+
+<a id="event-a405d740a92161ab"></a>
+
+## ₿uilder Miami
+
+- Record: `mu-316836791`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-29T18:30:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/miamibitcoinevents/events/316836791/>
+
+### About the event
+
+Bitcoin Grove's meetup focuses on building Bitcoin products, design and AI tools. The agenda includes a Socratic seminar from 7 to 8 PM, followed by demos and a startup showcase. People at all experience levels can participate.
+
+<a id="event-596adc4a8296a2b0"></a>
+
+## Bitcoin Manchester Monthly
+
+- Record: `mu-316914263`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-29T19:00:00Z
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-manchester/events/316914263/>
+
+### About the event
+
+Bitcoin Manchester's monthly meetup takes place at Joshua Brooks. The organizer welcomes newcomers to the local Bitcoin group.
+
+<a id="event-be291ccd7d53a485"></a>
+
+## Bitcoin Bay Sauga Meetup
+
+- Record: `mu-313246741`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-29T19:30:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/the-bitcoin-bay/events/313246741/>
+
+### About the event
+
+The Bitcoin Bay hosts an in-person discussion of Bitcoin, cryptocurrencies and blockchain technology at Chuck's Roadhouse in Mississauga.
+
+<a id="event-fa9a3de2e77bbcb8"></a>
+
+## Hackathon EDU by LABITCONF
+
+- Record: `discovery-evt-VGgpJ5y4iCEv7z0`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cwhw1uls>
+
+### About the event
+
+A two-day hackathon for EDU HUB members whose universities are accredited for LABITCONF 2026. Teams of four or five choose a track in community impact, education, financial inclusion or the creator economy, then build and pitch a project. Every participant must register individually; solo applicants can be assigned to a team. Registration requires approval. Universities seeking accreditation can contact the organizer.
+
+<a id="event-cb729d7fe21e606c"></a>
+
+## Skyline Coworking
+
+- Record: `discovery-evt-aY6cwqLQyssLxaR`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bpcyytyu>
+
+### About the event
+
+Skyline offers Friday coworking for the Solana community in New York. Coffee and snacks are provided. Registration requires approval, and the address is shared with guests.
+
+<a id="event-0eb4951dde13db7f"></a>
+
+## Toronto VibeStation
+
+- Record: `discovery-evt-Hjvm4014VjuSoa4`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mspwm8hn>
+
+### About the event
+
+Superteam Canada hosts a Toronto coworking day for project work and meeting collaborators. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-4f5ccbf1c47d9134"></a>
+
+## Montreal VibeStation
+
+- Record: `discovery-evt-N8Y7ox5RWrVULyV`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/auj78wwi>
+
+### About the event
+
+Superteam Canada's Montréal coworking session offers workspace for projects and opportunities to find teammates. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-8b9be8e7bec9b095"></a>
+
+## Vancouver VibeStation
+
+- Record: `discovery-evt-N58HD6XQiQjOqyw`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T16:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7kc2frg9>
+
+### About the event
+
+Superteam Canada hosts a Vancouver coworking day for working on projects and meeting potential teammates. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-74d5c96af5e4db9e"></a>
+
+## Crypto Taxation in Greece (Φορολογία Κρυπτονομισμάτων στην Ελλάδα)
+
+- Record: `mu-316958855`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T19:30:00+02:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/blockchaingreece-0/events/316958855/>
+
+### About the event
+
+Bitcoin & Blockchain Tech Meetup Athens hosts lawyer Vangelis Aidonis and tax adviser Konstantinos Nanopoulos for questions about cryptocurrency taxation in Greece. Topics include the proposed tax framework, DAC8/CARF reporting, transaction records, mining, staking and inheritance. The free session is in Greek; attendees may ask questions in English.
+
+<a id="event-2c829712d8c367b6"></a>
+
+## Bitcoin Indonesia Community Online Meetup
+
+- Record: `discovery-evt-lney7efAlAR4ckm`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-30T19:30:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/w6dkwyri>
+
+### About the event
+
+Bitcoin Indonesia holds an online community session through its Telegram group. The announced format includes presentations, tutorials and discussion about how Bitcoin works and how to use the technology. Beginners and experienced participants are welcome to ask questions and share knowledge.
+
+<a id="event-824149ae87fe2689"></a>
+
+## BCE#3: Bitcoin White Paper Day
+
+- Record: `curated-bce-3-bitcoin-white-paper-day-2026-10-31`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-31
+- Description: Source-backed
+- Original page: <https://bce-bip21.fr/>
+
+### About the event
+
+BIP-21 organizes two days of Bitcoin talks in Paris. Saturday covers the whitepaper, Bitcoin's purpose and the Ark protocol; Sunday's programme includes multisig and MPC wallets, Bitcoin accounting and Lightning routing. Wallet-setup and security assistance is available. Saturday takes place at Espace Dubail and Sunday at Chez Ginette.
+
+<a id="event-f1dd64032e70af75"></a>
+
+## Base Builder Meetup
+
+- Record: `discovery-evt-C3uwilHHM2nQueB`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-31T12:00:00+01:00
+- Description: Source-backed
+- Original page: <https://luma.com/nv0py8nu>
+
+### About the event
+
+Michael Eric and Fuad ALIPHATIC host a meetup for people building on Base at the University of Lagos. The discussion focuses on developing onchain products, shipping them and finding users. The organizer plans a group of 30 builders. Registration requires host approval.
+
+<a id="event-616a342e3cadadee"></a>
+
+## SuiHub Lagos: The Linq Experience
+
+- Record: `discovery-evt-RHhcoJ4MoApAvw1`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-31T12:00:00+01:00
+- Description: Source-backed
+- Original page: <https://luma.com/n35ilz33>
+
+### About the event
+
+SuiHub Lagos hosts Linq co-founders Daniel, Emmanuel and Favour for demonstrations and discussion of crypto payments in Nigeria. The programme covers stablecoin spending, naira settlement, Linq's Telegram bot, merchant QR payments, API integration and the team's Sui architecture. Builders, merchants and users can try the products and ask questions. No technical background is required.
+
+<a id="event-20bb0dbabc2800ca"></a>
+
+## Bitcoin Turns 18
+
+- Record: `mu-316996838`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-31T13:00:00Z
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lisbon-bitcoin-maximalists/events/316996838/>
+
+### About the event
+
+Lisbon Bitcoin Maximalists marks the Bitcoin whitepaper's eighteenth anniversary with lunch at Nina in Parque das Nações. Attendees can order food and drinks and discuss the whitepaper; the organizer suggests reading it before coming.
+
+<a id="event-8326c36c535638ce"></a>
+
+## Whitepaper Day BBQ acto asociado a Barcelona Bitcoin Only
+
+- Record: `mu-317050872`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-10-31T14:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-barcelona/events/317050872/>
+
+### About the event
+
+Barcelona Cypherpunk Conference organizes a Whitepaper Day barbecue for the local Bitcoin community and plans to share updates about its next edition. A Meetup RSVP alone does not reserve a place; the organizers require booking through the linked Satlantis event.
+
+<a id="event-b542e7863cd92d73"></a>
+
+## Bitcoin Indonesia Community Meetup Jakarta Barat 01 November 2026
+
+- Record: `discovery-evt-dH0OIQgV4mlarUH`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-01T15:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/yo5uyb5d>
+
+### About the event
+
+Bitcoin Indonesia's West Jakarta community discusses financial privacy when using Bitcoin. Topics include the visibility of blockchain transactions and practical steps to protect personal information. Admission is free, and attendees pay for their own food and drinks.
+
+<a id="event-6e1d4b636d993402"></a>
+
+## Dubai FinTech Summit 2026
+
+- Record: `curated-dubai-fintech-summit-2026-11-02`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-02
+- Description: Source-backed
+- Original page: <https://dubaifintechsummit.com/>
+
+### About the event
+
+DIFC's summit includes sessions on digital assets and tokenization, custody and blockchain infrastructure, and crypto-asset policy and regulation. The wider program covers banking, payments, investment and financial technology.
+
+<a id="event-0f6e4ba1435fa60b"></a>
+
+## DE Bitcoin Beginner Workshops - Entdecke Bitcoin
+
+- Record: `mu-316962667`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-02T19:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-lab-berlin/events/316962667/>
+
+### About the event
+
+The November 2 session in Bitcoin Lab Berlin's free German-language beginner series covers Bitcoin inheritance. New participants can join the series at any point. The organizers prohibit recordings that identify attendees.
+
+<a id="event-4fcff1c73acbebe9"></a>
+
+## P2P Networking Hub @ Devcon 8
+
+- Record: `discovery-evt-jHFnev6fVW7VZNJ`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-03T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cz51ibrc>
+
+### About the event
+
+ProbeLab, Ethereum Foundation, HOPR and Optimum host workshops, debugging clinics and discussions on Ethereum peer discovery, broadcast, privacy and network resilience. The draft program runs 09:00-18:00 on November 3-5 and closes at 15:00 on November 6. A valid Devcon ticket is required; hub registration does not grant conference access.
+
+<a id="event-9446726eb444aa44"></a>
+
+## 6th Annual Canadian Bitcoin Summit
+
+- Record: `curated-6th-annual-canadian-bitcoin-summit-2026-11-03`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-03T08:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.eventbrite.ca/e/6th-annual-canadian-bitcoin-summit-tickets-1999307226735>
+
+### About the event
+
+The Canadian Bitcoin Consortium hosts a full-day summit at Osler's Toronto office. Announced topics include prediction markets, Bitcoin ATMs, access through TFSAs, stablecoin issuers and Canadian payments infrastructure. The published agenda opens with a panel on tokenized deposits.
+
+<a id="event-a7d3d340a9be63ef"></a>
+
+## MeV Sangam: Mumbai
+
+- Record: `discovery-evt-mBETGg2pLhndBTP`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-03T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tzvdnkkj>
+
+### About the event
+
+Astralane hosts an off-the-record gathering for searchers, validators, builders, market makers and researchers during Solana Summit India and Devcon week. Discussion themes include block building, latency, inclusion and order flow across Ethereum and Solana. There are no panels or pitches. Registration requires approval; the venue is shared with accepted guests.
+
+<a id="event-d768697a25efd0d5"></a>
+
+## TOKENISED HONG KONG - VIP EVENT (HONG KONG FINTECH WEEK)
+
+- Record: `discovery-evt-cVDcqDjlhhn9LvU`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-03T16:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/tokenised0311>
+
+### About the event
+
+UVECON.VC and Chambre host a Hong Kong edition of the TOKENISED GLOBAL series. The discussion focuses on metals trading and tokenization technology, including gold and silver. Registration requires host approval, and the organizer shares the exact address after approval.
+
+<a id="event-f1dbb361dfae83f0"></a>
+
+## Logos Circle Mumbai: Run Club
+
+- Record: `discovery-evt-n7ByAuH2ZtA86Jf`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-04T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/iumnt6zf>
+
+### About the event
+
+Logos Circle Mumbai hosts a 3 km run along Marine Drive, with warm-up activities, games and refreshments. The event includes an optional donation drive for local education and clean-up projects. All paces are welcome, including people new to Logos and decentralized technology. Registration requires host approval.
+
+<a id="event-b8a586efb1300020"></a>
+
+## UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill
+
+- Record: `discovery-evt-CrfUNgdw4aVQtjy`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-04T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/unfollowbombay>
+
+### About the event
+
+WebZero, Zcash and Bitrefill host the afterparty for Free Society Hackathon during Devcon. The program includes DJ sets and AK's live audiovisual performance combining modular synthesis, live coding and visuals. Registration requires approval; the exact venue is shared with accepted guests.
+
+<a id="event-5b7774d6f4625ab1"></a>
+
+## BBA Digital Assets Series: Digital Assets at the Crossroads
+
+- Record: `curated-bba-digital-assets-series-digital-assets-crossroads-2026-11-04`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-04T14:30:00-05:00
+- Description: Source-backed
+- Original page: <https://www.eventbrite.com/e/bba-digital-assets-series-digital-assets-at-the-crossroads-tickets-1998819348478>
+
+### About the event
+
+Boston Blockchain Association brings its institutional series to Aon's New York office. The program includes a fireside chat with Wyoming Stable Token Commission's Debra Brookes, panels on institutional DeFi and digital-asset adoption, and a reception. Doors open at 2:30 PM and talks begin at 3 PM.
+
+<a id="event-8cc16e1c0095aecd"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-jMB76t6BDXdYFbP`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-04T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/f31xe7ho>
+
+### About the event
+
+Fort Worth DAO's open community roundtable discusses programs, event planning and current topics. Participants can learn how the DAO operates and bring questions about deep technology.
+
+<a id="event-89135f1396a4ca06"></a>
+
+## Crypto Wednesday: unconference, meetup and DAO gathering
+
+- Record: `mu-316542881`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-04T19:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/daobrussels/events/316542881/>
+
+### About the event
+
+DAO Brussels meets at Commons Hub Brussels for its monthly crypto gathering. The organizers offer free daytime coworking and an evening meetup, with participant-led workshops, conversations or presentations in an unconference format.
+
+<a id="event-43d34fee4cd81f61"></a>
+
+## Devcon Builders Evening by Canton x Ledger x OpenZeppelin
+
+- Record: `discovery-evt-mC0qvi7LT4zh1da`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-05T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4s9s062i>
+
+### About the event
+
+Canton Foundation, Ledger and OpenZeppelin host keynotes and Q&A for smart-contract developers, security researchers and teams building in tokenization, custody and fintech. Speakers and keynote topics are still to be announced. WAGMI Tribe curates the event; attendance requires an approved RSVP and QR check-in.
+
+<a id="event-d5c9a760fd36487f"></a>
+
+## Mastering Bitcoin (MB) Cohort - Season 8 - Orientation Session
+
+- Record: `discovery-evt-7zy6MxoDBJx7klg`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-05T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qito7z0l>
+
+### About the event
+
+Online orientation for Bitshala's eight-week study cohort based on Mastering Bitcoin, third edition. The cohort covers transactions, wallets, mining and consensus through self-study and live discussions. No coding experience is required. Apply through Bitshala's learning portal and join its Discord for the sessions.
+
+<a id="event-49e89c79f382adf9"></a>
+
+## Stockholm Bitcoin Meetup #54
+
+- Record: `mu-312669067`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-05T17:30:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/swedish-bitcoin-meetups/events/312669067/>
+
+### About the event
+
+Swedish Bitcoin Meetups hosts a discussion of Bitcoin and its role in the global economy at Sue Ellen. Newcomers and experienced participants are welcome. The organizer limits the discussion to Bitcoin rather than NFTs, altcoins or general blockchain topics.
+
+<a id="event-ba1aa2d68ce1543d"></a>
+
+## Socratic seminar BitcoinAmsterdam, November 5, 2026
+
+- Record: `mu-316893847`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-05T17:30:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitdevs-amsterdam/events/316893847/>
+
+### About the event
+
+BitDevs Amsterdam hosts a Socratic seminar at SugarFactory during Bitcoin Amsterdam. Doors open at 17:00 and the seminar starts at 17:30. No conference ticket is required; the organizers plan to publish the discussion agenda a few days before the event.
+
+<a id="event-16c89eaa9bbd60ad"></a>
+
+## Satoshi Radio Meetup (Bitcoin Amsterdam)
+
+- Record: `mu-316748938`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-05T18:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/satoshi-radio-meetup/events/316748938/>
+
+### About the event
+
+Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam. Registration is free and capacity is limited. An optional buffet is paid separately; the café accepts Bitcoin payments.
+
+<a id="event-4b8c7c7b8bf9c18a"></a>
+
+## Montreal VibeStation
+
+- Record: `discovery-evt-9GcHU8LiDqzsXhJ`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-06T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8mzapssx>
+
+### About the event
+
+A Superteam Canada coworking day in Montréal, with workspace for projects and opportunities to meet collaborators. Lunch, snacks and drinks are included. Attendance is free with approval, and the address is shared with guests.
+
+<a id="event-c3d4df5ec500bb67"></a>
+
+## Skyline Coworking
+
+- Record: `discovery-evt-bN8FJAZ0ukYeTOL`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-06T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8hday6u7>
+
+### About the event
+
+The Solana community meets for Friday coworking hosted by Skyline in New York. Coffee and snacks are included. Registration requires approval; the address is shared with guests.
+
+<a id="event-c31954b28b28b591"></a>
+
+## Toronto VibeStation
+
+- Record: `discovery-evt-Cf2DX1IsDlCw6ND`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-06T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/axcqt5r3>
+
+### About the event
+
+Superteam Canada's Toronto coworking day provides space for project work and meeting potential teammates. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-4103a4214ae4406c"></a>
+
+## Vancouver VibeStation
+
+- Record: `discovery-evt-1u0oRbzo0ZHzK0Q`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-06T16:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8auwgdns>
+
+### About the event
+
+Superteam Canada hosts a coworking day in Vancouver for project work and finding collaborators. Lunch, snacks and drinks are included. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-00e49e4bf27ce15d"></a>
+
+## Bitcoin Games Night
+
+- Record: `discovery-evt-FDr8AjPGzuXH10L`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-06T17:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/gs1dx4j4>
+
+### About the event
+
+Bitcoin House Bali hosts an educational games evening with Bitcoin-themed board games, including Blockhunters, The Inflation Monster Game and SHAmory. Bitcoin Indonesia runs the activity in English and Bahasa Indonesia for beginners and experienced community members.
+
+<a id="event-2bee32439aa71708"></a>
+
+## Bitcoin Indonesia Community Meetup Tangerang 07 November 2026
+
+- Record: `discovery-evt-Nr9CNLkcyZkdgCa`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-07T10:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/1s6rr12e>
+
+### About the event
+
+Bitcoin Indonesia's Tangerang meetup discusses managing business profits for the long term and Bitcoin's proposed role as a store of value. The organizer invites business owners to exchange experiences and questions. Admission is free, with food and drinks paid individually. Attendees must also complete the confirmation form linked on the event page.
+
+<a id="event-2ce96bfd1f0c56d3"></a>
+
+## Crypto Coffee Hangout
+
+- Record: `mu-316925041`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-07T12:00:00Z
+- Description: Source-backed
+- Original page: <https://www.meetup.com/mcr_crypto/events/316925041/>
+
+### About the event
+
+Manchester Crypto Renegades meets for coffee and conversation at The Gallery Café. The group welcomes attendees regardless of their familiarity with crypto.
+
+<a id="event-ac470533b44a2b86"></a>
+
+## Bitcoin Indonesia Community Meetup Bogor 07 November 2026
+
+- Record: `discovery-evt-A7RyC6d7MsaBgEm`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-07T13:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/q8584lzq>
+
+### About the event
+
+Bitcoin Indonesia's Bogor meetup compares centralized and decentralized exchanges. The discussion covers how CEXs and DEXs work, their trade-offs and the risks users should understand. Participants can bring questions and share experience. Admission is free, with food and drinks paid individually.
+
+<a id="event-94915813eecbe362"></a>
+
+## Bitcoin Indonesia Community Meetup Bekasi 07 November 2026
+
+- Record: `discovery-evt-iuADCcH9Q16yvM0`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-07T13:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/ovna9s86>
+
+### About the event
+
+Bitcoin Indonesia's Bekasi community uses Zimbabwe's hyperinflation as a starting point for discussing money supply, scarcity and the idea of hard money. The session examines Bitcoin's issuance rules rather than short-term price movements. Admission is free; attendees buy their own food and drinks.
+
+<a id="event-4b569427f969ecb2"></a>
+
+## Bitcoin Indonesia Community Meetup Makassar 07 November 2026
+
+- Record: `discovery-evt-L7t2B9ipCCZ8g6Z`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-07T15:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/kp77kvd3>
+
+### About the event
+
+Bitcoin Indonesia's Makassar community discusses why people choose to hold Bitcoin. Topics include its limited supply, issuance rules, views of the monetary system and the risks of long-term holding. The educational meetup is free; the organizer asks attendees to purchase food and drinks to support the venue.
+
+<a id="event-6e1559d5ff8dbc6a"></a>
+
+## Bitcoin Indonesia Community Meetup Yogyakarta 08 November 2026
+
+- Record: `discovery-evt-D20BjeUukzo2qyO`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-08T10:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/cwcni6mx>
+
+### About the event
+
+Bitcoin Indonesia's Yogyakarta meetup focuses on self-custody, private keys and practical considerations for keeping Bitcoin secure. The discussion is intended to be accessible without advanced technical knowledge. Admission is free; attendees pay for their own food and drinks.
+
+<a id="event-865434a2af6375b5"></a>
+
+## MD Blockchain Association Virtual Happy Hour
+
+- Record: `discovery-evt-WfbYLayE3xUknIz`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-10T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/s2dc5b7l>
+
+### About the event
+
+Maryland Blockchain Association hosts an online learning panel for blockchain professionals, developers and other participants from Maryland, the DMV and beyond, in partnership with Blockchain Legal Institute. The organizer will share a Zoom link. Registration requires approval.
+
+<a id="event-ed8607c9d95c874a"></a>
+
+## Crypto Mondays Culver City LA Meetup
+
+- Record: `discovery-evt-BqdpbfI1RojW350`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-10T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/oany4azd>
+
+### About the event
+
+CryptoMondays LA meets at Simonette Restaurant for discussion of current cryptocurrency topics, including Bitcoin and Ethereum. The organizer welcomes newcomers as well as experienced participants.
+
+<a id="event-c9a6c034d6725a2e"></a>
+
+## Get Tech Vibes. Get Connected. Get Funded.
+
+- Record: `discovery-evt-MRAfeaIFhOGrtMv`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-11T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lqr28m0r>
+
+### About the event
+
+The Vancouver event includes a 6 PM founder AMA with Hussein Hallak and Mike Nabavi. Hallak's announced topic is Momentable and bringing museum artwork into Web3 on Flow. The program also includes time to meet other founders and investors. Attendance is free.
+
+<a id="event-b04ff1db014911a7"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-OXTmaGCYwsFUJLV`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-11T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qfu068o3>
+
+### About the event
+
+An open Fort Worth DAO roundtable about the group's programs, active event planning and current topics. Participants can ask how the DAO works or bring questions about deep technology.
+
+<a id="event-c487faf40c9b6791"></a>
+
+## NEAR x Ondo Mixer @ DASLondon
+
+- Record: `discovery-evt-XJ9Iuk18S1g2ZzT`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-11T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wdgr3mvf>
+
+### About the event
+
+NEAR Foundation and Ondo Finance host a mixer during Digital Asset Summit London for teams working on tokenized assets and onchain financial infrastructure. Discussion topics include their tokenized stock and ETF integration, confidential trading and cross-chain access. Registration requires approval.
+
+<a id="event-7b2b1ff1f004fdd3"></a>
+
+## W3Node Conference & Hackathon 2026
+
+- Record: `curated-w3node-conference-hackathon-2026-11-12`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-12
+- Description: Source-backed
+- Original page: <https://w3node.io/>
+
+### About the event
+
+W3Node's Cape Town program includes keynotes, technical workshops and a three-day Web3 hackathon. It is aimed at developers, founders, community leads and ecosystem teams. The Node Engine program also offers a separate hacker-house residency and travel-grant application.
+
+<a id="event-3ac481b0b7f0d070"></a>
+
+## The LOCAL W.M.C - Breakpoint/DAS Edition
+
+- Record: `discovery-evt-no4dPWhKPtAMNU0`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-12T19:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lo-qqld>
+
+### About the event
+
+LO:TECH and Superteam UK host a crypto community social at Bethnal Green Working Men's Club during DAS and Breakpoint week. The programme includes a live Oasis tribute band and a DJ until 01:00. Applications are reviewed and an approved ticket is required for entry.
+
+<a id="event-725e60f0d2036cff"></a>
+
+## Digital Assets Forum New York 2026
+
+- Record: `curated-digital-assets-forum-new-york-2026-11-13`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-13T08:30:00-05:00
+- Description: Source-backed
+- Original page: <https://eblockchainconvention.com/digital-assets-forum-new-york/>
+- Original page: <https://www.tickettailor.com/events/europeanblockchainconvention/2189276>
+
+### About the event
+
+European Blockchain Convention's New York forum covers tokenization, stablecoins, institutional adoption, custody, market structure, regulation and capital formation. The program is intended for banks, asset managers, funds, infrastructure providers, crypto firms and policymakers.
+
+<a id="event-14e5c00367477a69"></a>
+
+## UBC 2026 Hackathon
+
+- Record: `curated-ubc-hackathon-2026-11-13`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-13T12:00:00-06:00
+- Description: Source-backed
+- Original page: <https://www.universityblockchain.org/programs/hackathon>
+
+### About the event
+
+UBC's hackathon runs online from November 13 to 20, with live finals at UT Austin on November 21. Projects enter one of four tracks: tokenized equities and real-world assets, agentic payments and AI, DeFi and onchain apps, or consumer apps. Hacking starts at noon CST on November 13 and submissions close at noon CST on November 20. The organizer links registration through Devpost.
+
+<a id="event-9480177935011dba"></a>
+
+## Bitcoin for Beginners
+
+- Record: `discovery-evt-dqMVS2PrUBDRnF3`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-13T17:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/3mubvjso>
+
+### About the event
+
+Bitcoin Indonesia offers an introductory workshop at Bitcoin House Bali covering what Bitcoin is, how to buy and use it, and how to store it safely. No prior knowledge is needed, and the programme includes time for questions. The workshop is free and conducted in English and Bahasa Indonesia.
+
+<a id="event-d6575f1bc8ddf9a4"></a>
+
+## Solana ⚽ Cup at Breakpoint
+
+- Record: `discovery-evt-gKhtfAiuAFPHESR`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-14T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/5sf70a63>
+
+### About the event
+
+Cesto is hosting a football tournament during Breakpoint in London for ecosystem projects, Superteams and community players. Further tournament details will be announced through the organizer's linked community channel. The venue is not publicly disclosed.
+
+<a id="event-fe47578e802de607"></a>
+
+## The Money Shift: Crypto, AI & The Future of Money
+
+- Record: `curated-money-shift-crypto-ai-future-money-2026-11-14`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-14T11:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077>
+
+### About the event
+
+The Wright Success presents a Toronto and virtual masterclass combining talks and hands-on workshops about crypto, AI and wealth. The main program begins at 11 AM; the published agenda lists an earlier breakfast for VIP guests.
+
+<a id="event-108595d4e4ea9095"></a>
+
+## Solana Fitness Zone: Dynamic Pilates \| Breakpoint 2026
+
+- Record: `discovery-evt-JgYTRzXo6yWgqCd`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-15T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanapilates1>
+
+### About the event
+
+Solana Foundation and OFFLINE host a mat-based Pilates class for founders and builders at Breakpoint. The class uses flowing floor exercises without machines and welcomes all fitness levels. Bring water and fitness clothing; registration requires approval.
+
+<a id="event-6cb2be1770db8bed"></a>
+
+## Tilt Pay Morning Coffee \| Breakpoint '26
+
+- Record: `discovery-evt-P1laFzLdOaT7vik`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-15T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kk8dr4ty>
+
+### About the event
+
+The Tilt Pay team hosts a Sunday breakfast with coffee and croissants before Breakpoint. This is an informal social, with no panels. Attendance requires host approval and the address is shared with registered guests.
+
+<a id="event-a704bd6451c69f1d"></a>
+
+## Solana Fitness Zone: Women of Solana Yoga by OFFLINE \| Breakpoint 2026
+
+- Record: `discovery-evt-F0ZHBEyHynGIlVo`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-15T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/womenofsolana>
+
+### About the event
+
+Lena Grundhoefer leads an all-levels yoga class for female founders and builders on Solana. The class starts with an active yang flow and moves into slower yin poses, followed by a 30-minute community gathering. Solana Foundation and OFFLINE host the session; registration requires approval.
+
+<a id="event-85de9209a66b10d0"></a>
+
+## Bitcoin Indonesia Community Meetup Bandung 15 November 2026
+
+- Record: `discovery-evt-zgDyaoeNsB7r9bo`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-15T10:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/xdmgev1d>
+
+### About the event
+
+Bitcoin Indonesia's Bandung community combines a hike with informal discussion about Bitcoin and money. The organizer welcomes people without prior Bitcoin knowledge or hiking experience and recommends comfortable shoes. The meetup takes place at Taman Hutan Raya Ir. H. Djuanda.
+
+<a id="event-384349a287cd0a62"></a>
+
+## Solana Fitness Zone: Mental Reset Workshop \| Breakpoint 2026
+
+- Record: `discovery-evt-vL3kHCN39reaPwE`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-15T10:45:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanareset>
+
+### About the event
+
+Solana Foundation and OFFLINE host a guided session for founders and builders to pause and refocus before the conference. No prior experience is needed. Registration requires approval and space is limited.
+
+<a id="event-7ab59fdcfd989747"></a>
+
+## Solana Fitness Zone: Dynamic Pilates \| Breakpoint 2026
+
+- Record: `discovery-evt-dG5O5F5HU9O4ikF`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-16T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanapilates2>
+
+### About the event
+
+The November 16 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.
+
+<a id="event-caa44f24e4781b9c"></a>
+
+## Solana Fitness Zone: Group Boxing \| Breakpoint 2026
+
+- Record: `discovery-evt-yqbouX052XUmpA8`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-16T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanaboxing>
+
+### About the event
+
+Lisa from Loofta leads a boxing-inspired class combining punching sequences, footwork and conditioning drills for founders and builders at Breakpoint. Solana Foundation and OFFLINE host the session. No boxing experience is required; registration is subject to approval.
+
+<a id="event-c1936ac8447615d2"></a>
+
+## Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO \| Breakpoint 2026
+
+- Record: `discovery-evt-IME1HwTy1ywWmub`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-16T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/monkesflow>
+
+### About the event
+
+MonkeDAO member Mila leads a gentle yoga flow before the Breakpoint conference day. Solana Foundation and MonkeDAO host the session, which links movement with breathing and welcomes beginners. Registration requires approval.
+
+<a id="event-5fee6eb21eaf9872"></a>
+
+## Solana Fitness Zone: Dynamic Pilates \| Breakpoint 2026
+
+- Record: `discovery-evt-vvQI67NJtBlP4qH`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-17T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanapilates3>
+
+### About the event
+
+The November 17 Pilates session at Breakpoint is a mat-based class for founders and builders, hosted by Solana Foundation and OFFLINE. It uses flowing floor exercises without machines and welcomes all fitness levels. Registration requires approval.
+
+<a id="event-1fb591abffb54254"></a>
+
+## Solana Fitness Zone: HIIT Class \| Breakpoint 2026
+
+- Record: `discovery-evt-gjNVvhgcknTCwpc`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-17T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanahiits>
+
+### About the event
+
+Solana Foundation and OFFLINE host a 45-minute interval-training class for founders and builders on November 17. The workout alternates short effort periods with recovery and can be adjusted for different fitness levels. Bring water and fitness clothing; registration requires approval.
+
+<a id="event-8d72f76e2f20351a"></a>
+
+## Solana Fitness Zone: Sound Healing & Breathwork \| Breakpoint 2026
+
+- Record: `discovery-evt-nn6OreUXqAcO2wA`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-17T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanasoundheals>
+
+### About the event
+
+Solana Foundation and OFFLINE host guided breathing exercises paired with a sound bath for founders and builders at Breakpoint. No prior experience is needed. Registration requires approval and attendees are asked to arrive early.
+
+<a id="event-24d849a8e5ffa6c6"></a>
+
+## Solana Fitness Zone: Aerial Yoga \| Breakpoint 2026
+
+- Record: `discovery-evt-EYXjEVxXQ9dbkmf`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-17T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solanaerial>
+
+### About the event
+
+Solana Foundation and OFFLINE host an aerial yoga class using suspended fabric hammocks for founders and builders at Breakpoint. All experience levels are welcome. Attendees should bring water and wear fitted fitness clothing without zippers; registration requires approval.
+
+<a id="event-4335634580034f3f"></a>
+
+## Crypto and Cigars
+
+- Record: `mu-316825220`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-17T18:00:00-05:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/nj-blockchain/events/316825220/>
+
+### About the event
+
+Garden State Crypto hosts an informal discussion about what local members are building. The meeting is at CIGARROC in Hoboken, a BYOB lounge.
+
+<a id="event-7a1c34785e934846"></a>
+
+## Mastering Lightning (ML) - Season 5 - Orientation Session
+
+- Record: `discovery-evt-oqwcWOYQmqqNHgi`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-18T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nyeumys1>
+
+### About the event
+
+Online orientation for Bitshala's eight-week Lightning Network cohort. The program covers node operations, channels, routing and security through self-study, weekly live sessions and Q&A. Intermediate Bitcoin knowledge is required. Apply through Bitshala's learning portal and join its Discord for the sessions.
+
+<a id="event-77a40a91bedcf803"></a>
+
+## Crypto Dinner - Rotterdam
+
+- Record: `discovery-evt-d2jbH5c6zkZDRCH`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-18T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dinnerRotterdam>
+
+### About the event
+
+CryptoCanal hosts a small dinner in Rotterdam with OtterSec and BlockSight. Guests can discuss their crypto projects over dinner. Places are limited and the hosts select attendees by application.
+
+<a id="event-dd81a756c62b9560"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-JGCnNvxry6bJozI`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-18T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/i5yip7zr>
+
+### About the event
+
+Fort Worth DAO invites participants to discuss its programs, event planning and current topics. The open roundtable also takes questions about how the DAO works and deep technology.
+
+<a id="event-06e97f094f2bf4c9"></a>
+
+## onchainaustria.at Weihnachtsfeier 2026: BUNKER MODE
+
+- Record: `mu-316959157`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-18T18:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/onchainaustria/events/316959157/>
+
+### About the event
+
+OnchainAustria holds its year-end community gathering at Schankwirtschaft im Augarten, formerly the Bunkerei. The announced conversation topics include Bitcoin, Ethereum, DeFi, self-custody and hardware wallets. New participants are welcome.
+
+<a id="event-5ab33e32eb14bbb7"></a>
+
+## Bitfest 2026
+
+- Record: `curated-bitfest-2026-11-19`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-19
+- Description: Source-backed
+- Original page: <https://bitfest.uk/>
+
+### About the event
+
+Bitfest's four-day Manchester programme covers Bitcoin, Nostr and freedom technology. It includes Nostrshire on November 20, the main Bitcoin conference on November 21, and a Bitcoin/Nostr hackathon across November 20-21. Workshops, an exhibition, art and a Sunday community gathering are also announced.
+
+<a id="event-b134293d015d3ea1"></a>
+
+## Global Bitcoin Circular Economies Summit 2026
+
+- Record: `curated-global-bitcoin-circular-economies-summit-2026-11-19`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-19
+- Description: Source-backed
+- Original page: <https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026>
+
+### About the event
+
+Bitcoin Beach's summit examines practical Bitcoin use in local economies. Workshops, panels and fireside chats cover merchant payments, education, adoption and the tools supporting Bitcoin commerce. The 2026 edition opens to the public with limited seats.
+
+<a id="event-c8c138c4e03de227"></a>
+
+## Bitcoin - Was unser Geld morgen wert ist
+
+- Record: `mu-316585521`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-19T18:15:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/females-fit-for-finance/events/316585521/>
+
+### About the event
+
+Margot Richter gives an introductory Bitcoin talk for women at Females Fit for Finance's seventh event. She starts with how the monetary system works, then discusses Bitcoin, inflation and financial independence. The programme includes Q&A and discussion; attendance is free with optional donations.
+
+<a id="event-3890ad08f7383666"></a>
+
+## Crypto Dinner - Amsterdam
+
+- Record: `discovery-evt-DnwWNYAbNYeW8oC`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-20T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dinnerAmsterdam>
+
+### About the event
+
+CryptoCanal hosts an Amsterdam dinner with OtterSec and BlockSight for conversation about attendees' crypto projects. The hosts select guests by application because places are limited.
+
+<a id="event-31ffb89b3b2c82e7"></a>
+
+## Bitcoin Indonesia Community Meetup Malang 21 November 2026
+
+- Record: `discovery-evt-fqCdStFvtJYB08q`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-21T12:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/307ow0kn>
+
+### About the event
+
+Bitcoin Indonesia's Malang meetup examines Bitcoin's 21-million supply limit, how the issuance rules work and the role of scarcity in discussions about money. Attendees can ask questions and compare views with the community. Admission is free, with food and drinks paid individually.
+
+<a id="event-37b343178c41bb23"></a>
+
+## Bitcoin Indonesia Community Meetup Jakarta 21 November 2026
+
+- Record: `discovery-evt-WHx7rX6yOb8hK4S`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-21T13:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/of16ixug>
+
+### About the event
+
+Bitcoin Indonesia's Jakarta meetup offers practice in explaining Bitcoin to other people. Participants work on presenting ideas clearly, organizing a message and building confidence speaking in front of a group. Admission is free; the organizer asks attendees to buy their own food and drinks.
+
+<a id="event-1f21a6bd6fa4d273"></a>
+
+## Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)
+
+- Record: `discovery-evt-E4l4HG2CAI9ljHe`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-21T16:30:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/fsn6vdzc>
+
+### About the event
+
+Bitcoin Indonesia runs a merchant-onboarding workshop at Bitcoin House Bali for business owners interested in using Bitcoin. The session introduces business use cases and offers a chance to see a point-of-sale device, hardware wallets and mining equipment at the venue. The workshop is free and uses English and Bahasa Indonesia.
+
+<a id="event-7b07bae8586b21da"></a>
+
+## Bitcoin Indonesia Community Meetup Magelang 22 November 2026
+
+- Record: `discovery-evt-xodkzqBmzveUbjB`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-22T13:00:00+07:00
+- Description: Source-backed
+- Original page: <https://luma.com/epo8prov>
+
+### About the event
+
+Bitcoin Indonesia's Magelang community discusses dollar-cost averaging: buying at regular intervals using a predetermined amount. The session covers how the approach works, its risks and the importance of considering personal financial circumstances. Admission is free, with food and drinks paid individually.
+
+<a id="event-cec0232fb44a38ae"></a>
+
+## Krypto-skatt v/ Reese Legal
+
+- Record: `mu-316768461`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-25T17:00:00+01:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/oslo-blockchain-meetup/events/316768461/>
+
+### About the event
+
+Reese Legal presents Norwegian crypto-tax topics for Oslo Blockchain Meetup, including gains and losses, DeFi transactions, loans, gifts and holdings. The session covers calculation tools, documentation, tax-return reporting and common mistakes. Attendees can submit questions in advance.
+
+<a id="event-302612f672153088"></a>
+
+## Community Roundtable
+
+- Record: `discovery-evt-3BQ0bAwC0Zr5l8H`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-25T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/otbfbzcd>
+
+### About the event
+
+Fort Worth DAO holds an open roundtable on its programs, event planning and current topics. Participants can learn about the DAO's operations and bring questions about deep technology.
+
+<a id="event-5a83c832f4a5485a"></a>
+
+## Montreal VibeStation
+
+- Record: `discovery-evt-3OzyUMXsLNiVr57`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-27T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cfw1k6ge>
+
+### About the event
+
+Superteam Canada offers a Montréal coworking day for working on projects and meeting teammates. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-25113b3536807ca3"></a>
+
+## Toronto VibeStation
+
+- Record: `discovery-evt-SGziONOytDR21GD`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-27T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ih7o5t51>
+
+### About the event
+
+A Superteam Canada coworking day with space for project work and meeting collaborators. Lunch, snacks and drinks are provided. Attendance is free with approval, and the Toronto address is shared with guests.
+
+<a id="event-e6faa311df7e71c8"></a>
+
+## Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering
+
+- Record: `curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-11-30T18:30:00-05:00
+- Description: Source-backed
+- Original page: <https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827>
+
+### About the event
+
+Crypto Gatherings hosts a three-hour evening for cryptocurrency discussion at Dawson 39 Restaurant & Bar in New York.
+
+<a id="event-5188b6ca60e107ce"></a>
+
+## Austin Bitcoin Club
+
+- Record: `mu-313235527`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-12-03T18:00:00-06:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/bitcoin-park-austin/events/313235527/>
+
+### About the event
+
+Bitcoin Park Austin hosts a Bitcoin-focused community meetup. The organizer requests an RSVP because space is limited.
+
+<a id="event-a398003ad2f20235"></a>
+
+## Toronto VibeStation
+
+- Record: `discovery-evt-pp8byfBBIuDs1mx`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-12-04T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jrrdjwua>
+
+### About the event
+
+Superteam Canada hosts a coworking day for project work and meeting potential teammates. Lunch, snacks and drinks are included. Attendance is free with approval; the Toronto address is shared with guests.
+
+<a id="event-3a5397f198aaa7fe"></a>
+
+## Montreal VibeStation
+
+- Record: `discovery-evt-VNxCBFaf8gbSOl1`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-12-04T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pvuo6rrc>
+
+### About the event
+
+Superteam Canada's Montréal coworking day offers space for projects and meeting collaborators. Lunch, snacks and drinks are provided. Attendance is free with approval; the address is shared with guests.
+
+<a id="event-e6b4ea8b9601ad4b"></a>
+
+## ETH CALI, A FRONTIER CITY
+
+- Record: `discovery-evt-Ka8BADDI3GzanUg`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2026-12-25T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/soi886zk>
+
+### About the event
+
+ETH CALI's popup from December 25 to 29 combines morning coworking, afternoon founder sessions and hacker discussions. Topics include AI, privacy, longevity and governance within Ethereum and open-source communities. Attendance is free and curated for holders of the organizer's POAPs and participants in key Ethereum events; registration requires approval.
+
+<a id="event-cbae06af075e174a"></a>
+
+## Plan ₿ Forum El Salvador 2027
+
+- Record: `curated-plan-forum-el-salvador-2027-01-29`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-01-29
+- Description: Source-backed
+- Original page: <https://planb.sv/>
+
+### About the event
+
+A two-day Bitcoin conference on nation-state adoption, economics, financial freedom and freedom of speech. The program includes keynotes, panels, workshops, a Bitcoin art gallery and an exhibition. Ticket holders must be over 18; the Salvadoran-resident ticket requires proof of residency.
+
+<a id="event-ae9eb819cfe54282"></a>
+
+## CBC Summit Europe 2027
+
+- Record: `curated-cbc-summit-europe-2027-03-04`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-03-04
+- Description: Source-backed
+- Original page: <https://www.cbcsummit.io/europe>
+
+### About the event
+
+A one-day summit for executives and regulators addressing crypto banking, compliance and stablecoin challenges. The organizer announces panel discussions and keynote sessions at De Vere Grand Connaught in London.
+
+<a id="event-8d87cf0220e3801e"></a>
+
+## Mining Disrupt 2027
+
+- Record: `curated-mining-disrupt-2027-03-22`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-03-22T19:00:00-05:00
+- Description: Source-backed
+- Original page: <https://miningdisrupt.com/>
+
+### About the event
+
+Mining Disrupt covers Bitcoin mining alongside AI infrastructure and high-performance computing. The expo offers exhibitor booths and a speaker program; tickets also include the co-located Intelligence Disrupt event with the same pass benefits.
+
+<a id="event-769f8e0a88888941"></a>
+
+## Stablecon EMEA 2027
+
+- Record: `curated-stablecon-emea-2027-04-14`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-04-14
+- Description: Source-backed
+- Original page: <https://stablecon.com/emea/>
+
+### About the event
+
+Stablecon EMEA focuses on stablecoins, tokenization and digital-asset markets. Announced topics include payments and treasury use, cross-border settlement, real-world assets and regulation. The organizer's 2027 travel page places the event at FIL Lisbon Exposition Center.
+
+<a id="event-4284dc7d0539bd69"></a>
+
+## TOKEN2049 New York 2027
+
+- Record: `curated-token2049-new-york-2027-06-16`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-06-16
+- Description: Source-backed
+- Original page: <https://www.token2049.com/new-york>
+
+### About the event
+
+TOKEN2049's inaugural New York edition brings together crypto founders, investors, institutions and builders. The organizer has announced a two-day conference; a specific venue is not yet named on the event page.
+
+<a id="event-098fd15f48f76ba7"></a>
+
+## Blockchain Tech Summit (4th Annual)
+
+- Record: `curated-blockchain-tech-summit-4th-annual-2027-09-28`
+- Source: [verified-discovery.json](sources/verified-discovery.json)
+- Starts: 2027-09-28T11:00:00-04:00
+- Description: Source-backed
+- Original page: <https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349>
+
+### About the event
+
+Global Startup Ecosystem lists a two-hour blockchain gathering for entrepreneurs, investors and creatives in New York. The venue has not been announced.
+
 <a id="event-de7eadcd0491af1c"></a>
 
 ## LP/GP Relations & Fundraising Summit
@@ -19215,173 +21246,6 @@ More details here: https://www.healthinclimate.ai/hackathons/nyc/2026
 Please [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
 
 PS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.
-
-<a id="event-21d5a43e8074c41c"></a>
-
-## Dream AI Hackathon 2026
-
-- Record: `luma-crypto-8prxWB24DCRknYE`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/upjkn37w>
-
-### Dream AI Hackathon 2026
-
-One day to build an AI product worth launching.
-
-Dream AI Hackathon 2026 brings together builders, founders, students, and professionals in San Francisco for a full day of building.
-
-Identify a real problem. Build a working AI-powered MVP. Turn it into a compelling startup pitch - all in one day.
-
-This is not just an idea competition. We want to see what you can actually build.
-
-### What you'll build
-
-Create a new AI-powered product or add a substantial new capability to an existing project.
-
-Existing models, APIs, libraries, infrastructure, and codebases may be used as a starting point. Teams must clearly explain what existed before the hackathon and what they built during the event.
-
-Judges will evaluate the work completed during the hackathon, the quality of the product, and its potential as a real startup.
-
-### Who this is for
-
-This hackathon is designed for:
-
-- University students and recent graduates interested in AI and entrepreneurship
-- Aspiring founders looking to turn an idea into a working product
-- Early-stage startup teams, from idea stage through pre-seed or seed
-- Engineers, designers, product managers, researchers, and other working professionals interested in building and validating a new AI-powered solution
-
-Whether this is your first hackathon or you are already building an early-stage startup, you are welcome to apply.
-
-Projects should be newly created or meaningfully developed during the hackathon. Judging will focus primarily on the progress made during the event.
-
-### Team format
-
-Recommended team size: 3-5 people. Solo participation is also welcome.
-
-You may apply individually or with an existing team. If applying with a team, each member must submit a separate application and receive approval.
-
-Participants who are interested in joining a team will have an opportunity to connect with other participants during an on-site team formation session at the beginning of the hackathon. Team placement is not guaranteed.
-
-### 1. Startup Support & Investment Opportunities
-
-Selected standout teams may be eligible for startup funding and venture-building support from LIKELION US, as well as potential investment opportunities through funds backed by LIKELION US.
-
-### 2. The Top 3 Winning Teams Will Receive
-
-Founder Institute Fellowships - Full participation in an upcoming FI Core Program (Seraphina's cohort) at no cost upon successful graduation. Graduates will also receive access to over $2M in startup perks and benefits. [Learn more](https://fi.co/los-angeles?utm_source=luma)
-
-### 3. Cash Prizes
-
-Sponsored by Sazze Partners
-
-- 1st Place: $1,500
-- 2nd Place: $1,000
-- 3rd Place: $500
-
-### 4. ElevenLabs Prizes
-
-Overall Winning Team - Each team member will receive 3 months of the ElevenLabs Pro plan, valued at $297 per person, with 600K credits per month.
-
-Best Project Built with ElevenLabs - Each team member will receive 3 months of the ElevenLabs Scale plan, valued at $897 per person, with 1.8M credits per month.
-
-### Benefits for All Participants
-
-Every participant will receive $50 in Nebius credits, 1 month of the ElevenLabs Creator plan (a $22 value with 131K credits), and access to the evening networking reception, where they can connect with fellow builders, founders, mentors, and investors.
-
-To be eligible for ElevenLabs benefits, participants must register for Dream AI Hackathon 2026 by 4:00 PM PT on Wednesday, September 16, 2026, and be approved to attend.
-
-### Event Schedule
-
-9:00 AM - Check-in & Team Formation
-
-9:30 AM - Opening & Hackathon Kickoff
-
-10:00 AM-4:30 PM - Hackathon Sprint (Mentors available from 1:00 PM)
-
-12:30 PM - Lunch
-
-4:30 PM - Submission Deadline
-
-5:10 PM - Finalist Presentations
-
-6:20 PM - Awards & Closing
-
-7:00 PM - Evening Networking Reception
-
-9:00 PM - Event Concludes
-
-*Schedule is subject to change.
-
-### Dream AI Hackathon 2025 Highlights
-
-A look back at the builders, projects, and community that made last year's hackathon memorable.
-
-### Contact
-
-Questions? Reach out to us at simba@likelion.net.
-
-### Volunteer
-
-Help bring Dream AI Hackathon 2026 to life.
-
-[Apply to volunteer] (https://airtable.com/appHrm7DNnL86aigr/pagsIdBSw81qPNAF7/form)
-
-### Showcase your startup
-
-A limited number of startup showcase tables will be available during Dream AI Hackathon 2026. Selected startups will have the opportunity to showcase their products and connect with builders, founders, and mentors.
-
-If your startup is interested in participating, please contact simba@likelion.net for details.
-
-### Sponsors
-
-We're grateful to our sponsors for supporting Dream AI Hackathon 2026 and helping builders bring their ideas to life.
-
-### LIKELION US
-
-A student builder community connecting AI education, industry projects, and hackathon execution. With a network spanning 58 universities across 30+ states, LIKELION US helps emerging tech talent move from learning to building.
-
-### Founder Institute
-
-A global startup accelerator headquartered in Silicon Valley, Founder Institute has built one of the world's most proven networks for turning ideas into fundable startups - and startups into global businesses. Since 2009, our structured programs and global mentor network have supported more than 9,000 startups that have collectively raised over $1.9B in funding.
-
-[Apply to the Fall 2026 cohort led by General Partner at VC](https://fi.co/los-angeles) [firm; Serephina Ha](https://www.linkedin.com/in/serephina-ha/).
-
-### Sazze Partners
-
-A Silicon Valley-based venture capital firm supporting Korean and Korean-founded startups with global ambition through founder support, fundraising guidance, go-to-market strategy, and ecosystem connections.
-
-Venue details, the final schedule, judging criteria, prizes, and participant instructions will be shared with approved participants.
-
-Accepted participants will receive access to the official event Slack and final event instructions after confirming their attendance through Luma.
-
-This event may be photographed or recorded.
-
-<a id="event-6f16aa03265de602"></a>
-
-## Moms. Dinner & Dialogue To Redefine Motherhood
-
-- Record: `luma-crypto-JrCiiIu7jmCwsnU`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-20T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ct3wqjvg>
-
-### About the event
-
-Calling all Moms....of kids, of projects, of pets; books; businesses. Mothers of the friend group, the boardroom, the classroom. We welcome you; we need you; we are you, and we wanna hear your voices. Come. Eat. Let's chat.
-
-If this offering caught your eye, it's for you. We invite you, and all people pondering the complexity of motherhood, to join us for dinner and dialogue. Whether you're a mother, hope to become one, or know definitively that you're not and are very pleased with that decision, this is a space for you.
-
-Our aim is to bring unique thinkers - with hungry bellies - together to dialogue about the complex topic of motherhood. A special multi-course meal will fill your belly while fifteen other self identified moms fill the table. Through round-table discussion, guided breakout conversations, and moments for personal reflection, we invite you to open your heart and expand your mind around a topic you may have thought about often.
-
-Your hosts, Sura Hertzberg and Gwen Pelfini, are licensed therapists who work with relationships and consciousness expansion. We've spoken at length about these questions - with each other, with our patients, with our friends and communities, and, naturally, with our own mothers. Too often our voices get siloed: we see the glossy Instagram stories, but we lack spaces for real dialogue. We're especially interested in spaces where people share not only from their own experience, but in how they relate to the experiences of others. Through reflective dialogue and other group tools, we hope to deepen and enrich how we all communicate and process together.
-
-Food and the belly are their own complex questions for moms. We aim to feed your mind and your belly with equal intention - offering nourishment in every corner of your life, and caring deliberately for your digestive and your nervous system alike.
-
-We'd be honored to have you at the table.
 
 <a id="event-12f06366f581018d"></a>
 
@@ -51623,41 +53487,6 @@ youtube https://www.youtube.com/web3privacynow
 
 x https://x.com/web3privacy
 
-<a id="event-ef8342369f3401e4"></a>
-
-## The Solana Ecosystem Call \| September
-
-- Record: `luma-host-evt-evt-S1a3G141Dsg60pk`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-24T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/0j8gx7i1>
-- Original page: <https://luma.com/0j8gx7i1>
-
-### The Solana Ecosystem Call is BACK!
-
-The Solana Ecosystem Call is a monthly live show that brings the production quality and energy of late-night television to the fastest-moving ecosystem in crypto.
-
-Each episode breaks down what matters across Solana through sketches, in-depth interviews, data-driven segments, and unfiltered commentary. No fluff, yet cringe-intolerant: the boldest show in crypto.
-
-Hosted by SOL BROTHERS, the Ecosystem Call is coming to your timeline this month with fresh energy.
-
-[www.ecosystemcall.com](https://www.ecosystemcall.com)
-
-### How do I get on the show?
-
-Got something everyone in Solana needs to know about? Exciting product announcements? Timeline moments you deem worth making it on the show? Hosting any Solana events? Want to do a giveaway with your company?
-
-[Submit here](https://linktr.ee/SolanaEcosystemCall)!
-
-### About SOL BROTHERS Studio
-
-We're producing podcasts, host interviews and are the creators of the new [official Solana Ecosystem Call. Follow us on YouTube and X](https://link3.to/solbrothers) for updates.
-
-### About Solana
-
-Solana is a high performance network powering internet capital markets, payments, AI agents, and crypto applications. Solana operates as a single global state machine, and is open, interoperable and decentralized.
-
 <a id="event-8cad57aec3d6bdc0"></a>
 
 ## WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue
@@ -51716,54 +53545,6 @@ WoCS is the leading community for the best and brightest women in post-sales rol
 [Join the online community and register for our newsletter](https://womenofcustomersuccess.com/join)
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/women-of-customer-success/)
-
-<a id="event-7a397fe9050dd1b4"></a>
-
-## Coworking Fridays Belgrade \| Superteam Balkan
-
-- Record: `luma-host-evt-evt-JRloloPOnjwowzA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-25T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/coworking-fridays-belgrade>
-- Original page: <https://luma.com/coworking-fridays-belgrade>
-
-### Free coworking in Belgrade, every Friday
-
-Join founders, builders, and frens from the Solana and Balkan Web3 community.
-
-Attendance is free. Just register here.
-
-### What to expect?
-
-- friendly vibes
-- in-person help from the Superteam Balkan crew
-- great networking, free coffee and a cozy space
-
-### Who it's for?
-
-- founders, developers, designers, students (basically everyone)
-- anyone curious about Solana and building startups
-
-### Who are we?
-
-Superteam Balkan is a non-profit community.
-
-We incubate and fund the next wave of Balkan tech talent.
-
-We help builders learn, build, and ship future-proof startups that use the Solana blockchain under the hood.
-
-We don't sell anything or offer investment advice.
-
-[Learn more about us](https://melted-replace-3a8.notion.site/Onboarding-13ed7c260a4d80e2a21cf9b223020e73)
-
-### What is Solana?
-
-Solana is a high-performance blockchain for building internet-scale apps that are fast, low-cost, and energy-efficient.
-
-Developers from around the world are building apps on Solana for a fast, secure, scalable, global and user-friendly future. A future that's only possible on Solana.
-
-By signing up, you agree that Superteam Balkan can contact you about future events and updates.
 
 <a id="event-6ef3f51bd41b405d"></a>
 
@@ -69827,10 +71608,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-H1GEOEuxvdcGh7m`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-20T17:00:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://luma.com/vgqemfnq>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The Flipcash team joins the Solana community for lunch, a fireside chat about building consumer products on Solana, and a hands-on product demonstration. Doors open at 1 PM, the chat begins at 1:30 PM and demos start at 2:15 PM. Registration requires approval.
 
 <a id="event-13b24fc96fc94770"></a>
 
@@ -70189,10 +71972,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-CgjAsxd2TK5PXtq`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-21T07:00:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://luma.com/co-work37>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Superteam Poland hosts a coworking day for local developers, designers and Solana builders. Bring a laptop to work on a project, share ideas and discuss grants, jobs or hackathons. Attendance requires approval.
 
 <a id="event-c7315a62cbdae207"></a>
 
@@ -70213,10 +71998,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `w3v-arcade-day-2026`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-21T07:30:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/4usxgzkv>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Arkade Day combines a morning Capital Sessions programme on Bitcoin treasury management, credit, custody and risk with a public Builder Lab from 14:00. Ark Labs and H100 co-host the morning programme, which requires an application. The free afternoon covers Arkade payments, assets, liquidity and developer integrations.
 
 <a id="event-55551e9db996fd6e"></a>
 
@@ -70227,18 +72014,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T08:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-denver/events/316843996/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-28ce7cfe5cf35978"></a>
-
-## Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol
-
-- Record: `luma-host-evt-evt-3vTAJvXoBBaY3HB`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-21T08:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ethglobal-cowork-vadodara>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70602,6 +72377,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-28ce7cfe5cf35978"></a>
+
+## Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol
+
+- Record: `luma-host-evt-evt-3vTAJvXoBBaY3HB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ethglobal-cowork-vadodara>
+
+### About the event
+
+ETHGlobal and PU DAO host a community coworking event with an introduction to NEAR Protocol by NEAR Legion member Swayam. The presentation covers the ecosystem, technology and developer opportunities.
+
 <a id="event-353107942e9e3b3f"></a>
 
 ## Stablecoin Payments in Japan: From Pilot to Practice
@@ -70729,10 +72518,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-9qbXxI87FMFkdFf`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-22T12:30:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://luma.com/ethglobal-hh-newdelhi>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+ETHGlobal, GrowthFi Studio and 0xSpace host a gathering for Web3 founders, developers and crypto community members. Food and mocktails are provided. Registration requires approval, and the venue address is shared with accepted guests.
 
 <a id="event-7901339944292d4f"></a>
 
@@ -70938,6 +72729,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7a397fe9050dd1b4"></a>
+
+## Coworking Fridays Belgrade \| Superteam Balkan
+
+- Record: `luma-host-evt-evt-JRloloPOnjwowzA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/coworking-fridays-belgrade>
+
+### About the event
+
+Superteam Balkan offers free Friday coworking at AI Hub Belgrade by Startit. Founders, developers, designers and students can work alongside the Solana community and get in-person help from the Superteam team. Registration is requested.
+
 <a id="event-f38178bb41de6304"></a>
 
 ## AI OMEGA DEVELOPER BUILDATHON - LISBON
@@ -71025,15 +72830,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-5bd97fcbffefe140"></a>
 
-## Devcon Mumbai
+## Ignite Room: Devcon Mumbai
 
 - Record: `luma-evt-eKm7z2RHvU2RJ7B`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-24T04:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/vdetxnel>
+- Description: Source-backed
+- Original page: <https://luma.com/vdetxnel>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Ignite Room hosts introductory talks and hands-on workshops on Ethereum, smart contracts and decentralized applications. Beginners are welcome. Participants must bring a laptop, and registration requires approval.
 
 <a id="event-0295012ff12737b3"></a>
 
@@ -71090,10 +72897,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-sAAM7t4xPhiGJtV`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-24T10:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/39txuq8y>
+- Description: Source-backed
+- Original page: <https://luma.com/39txuq8y>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Giottus's CEO discusses building the Indian crypto exchange and its custody partnership with BitGo. The agenda includes a BitGo introduction, audience Q&A and refreshments. Registration requires host approval.
 
 <a id="event-f86cde1cfd0587be"></a>
 
@@ -71188,10 +72997,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-V53ojWka5tr7GSw`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-24T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/r4vintbd>
+- Description: Source-backed
+- Original page: <https://luma.com/r4vintbd>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Participants build a single-user, two-of-three multisignature Bitcoin wallet with devices from multiple vendors. The workshop covers signing methods, seed backups and wallet-configuration backups, with a setup worksheet and testnet bitcoin for practice. Bring Nunchuk on a phone or Sparrow Wallet on a laptop, plus two compatible signing devices.
 
 <a id="event-e3be10fd72ba9e36"></a>
 
@@ -71337,18 +73148,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-30b5482fb69ea1c4"></a>
-
-## Ethereum Meetup Tokyo Vol.26
-
-- Record: `luma-evt-hrybBLtJ4Gzmaba`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T10:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/lw4cn2jv>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-161e8a879852870b"></a>
 
 ## Episodio 2: IA Generativa – Creando, Innovando y Acelerando con IA
@@ -71384,6 +73183,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-30b5482fb69ea1c4"></a>
+
+## Ethereum Meetup Tokyo Vol.26
+
+- Record: `luma-evt-hrybBLtJ4Gzmaba`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T19:30:00+09:00
+- Description: Source-backed
+- Original page: <https://luma.com/lw4cn2jv>
+
+### About the event
+
+Fracton Ventures hosts a Japanese-language Ethereum meetup covering the Glamsterdam and Hegota upgrade plans, Soneium's proposed IP-licensing standard and institutional DeFi access. The announced schedule includes a protocol update, a Nyx Foundation session on DeFi Gateway, Q&A and informal discussion. Doors open at 19:15. Attendance is free with advance registration, and the organizer requires a business card at check-in.
 
 <a id="event-9c60b2c746426e83"></a>
 
@@ -71424,10 +73237,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-jfJFCNApP1oVyb2`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T08:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/0srsltaq>
+- Description: Source-backed
+- Original page: <https://luma.com/0srsltaq>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Sikka.fun's community session covers creator coins, token economies, digital ownership and launching an onchain community coin. The program is aimed at students, creators and Web3 builders.
 
 <a id="event-e7ddea65e7c8cd0b"></a>
 
@@ -71436,10 +73251,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-aIh5owwCOVedwMw`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T08:00:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://luma.com/co-work38>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A Superteam Poland coworking session for working on projects alongside local developers, designers and Solana enthusiasts. Participants can exchange ideas and discuss grants, jobs and hackathons. Host approval is required.
 
 <a id="event-be6272ab5c1dc34a"></a>
 
@@ -71573,6 +73390,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2d80ce8c24265715"></a>
+
+## Link:NYC 2026
+
+- Record: `w3v-linknyc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29
+- Description: Source-backed
+- Original page: <https://chain.link/events/linknyc>
+
+### About the event
+
+Chainlink's one-day forum for institutional finance leaders covers real-world assets, agentic finance, interoperability, financial-market infrastructure, and stablecoins and payments. Attendance is invitation-only through an application process. The organizer says programming will be livestreamed on its official social channels.
+
 <a id="event-917d984fb3d2f7a3"></a>
 
 ## Robotics x Ballet - Zabidou Lab-warming Party
@@ -71618,18 +73449,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T08:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-sf/events/316859718/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2d80ce8c24265715"></a>
-
-## Link:NYC
-
-- Record: `w3v-linknyc`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://chain.link/events/linknyc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71765,18 +73584,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-08545275424d31dc"></a>
-
-## Measuring Ledgers With The Blockchain Decentralisation Index Lab
-
-- Record: `mu-316859645`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T11:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316859645/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-7e220347a2d6f896"></a>
 
 ## ZK Learning Group: Quantum resistance and ZKP
@@ -71808,10 +73615,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-rLBYBxQDjgYF9wR`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T12:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/cqk6i6vd>
+- Description: Source-backed
+- Original page: <https://luma.com/cqk6i6vd>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A full day of Bitcoin education taught and certified jointly by Escuelita Bitcoin and Universidad Champagnat. The program includes theory, practical classes, digital study materials, refreshments and lunch. It is open to students, alumni and teachers from Argentina and neighboring countries, with approval required for registration.
 
 <a id="event-50ecf2d5ebfbc442"></a>
 
@@ -71822,18 +73631,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T13:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-montreal/events/316802708/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-502f509e6c12a731"></a>
-
-## ZK Learning Group: Quantum resistance and ZKP
-
-- Record: `mu-316802767`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T13:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316802767/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71873,6 +73670,34 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ef8342369f3401e4"></a>
+
+## The Solana Ecosystem Call \| October
+
+- Record: `luma-host-evt-evt-S1a3G141Dsg60pk`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0j8gx7i1>
+
+### About the event
+
+SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segments and commentary on developments across Solana. The live show is listed on X, with updates also available through its YouTube channel.
+
+<a id="event-08545275424d31dc"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859645`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T15:00:00Z
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lfdt-kenya/events/316859632/>
+
+### About the event
+
+An online introduction to the Blockchain Decentralisation Index Lab's open-source tools. The session explains how the tools collect blockchain data, convert it into a common format and calculate decentralization metrics across consensus, tokenomics, network and software layers. Participants can learn how to use the toolkit and contribute. LFDT chapters share the same global session.
+
 <a id="event-0277fbb6d600021f"></a>
 
 ## AI Week Fireside Chat with David McJannet, ex-CEO HashiCorp
@@ -71884,6 +73709,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://lu.ma/seaaiweek-thu-keynote>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-502f509e6c12a731"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802767`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T17:00:00Z
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lfdt-cape-town/events/316802769/>
+
+### About the event
+
+Linux Foundation Decentralized Trust's ZK Learning Group holds an online session on quantum resistance and zero-knowledge proofs. The group studies zero-knowledge and SNARK application development and publishes its learning material in an open-source repository. This is a shared global session advertised by multiple LFDT chapters, including Cape Town.
 
 <a id="event-0d89697bb587d4a6"></a>
 
@@ -72016,10 +73855,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-lzupoprFFkUQski`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-30T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/eitsogbg>
+- Description: Source-backed
+- Original page: <https://luma.com/eitsogbg>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Shawn Porter and Lady RJ of Ignite Radio host a Seattle AI Week gathering about AI-assisted music and onchain music-sharing platforms. The program includes conversation, a short presentation and recorded-music playback. Attendance is free; the brewery asks guests to buy food or a drink.
 
 <a id="event-9fea1f23fc4d4449"></a>
 
@@ -72027,11 +73868,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `w3v-btc-balkans-2026`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-31T07:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-10-31
+- Description: Source-backed
 - Original page: <https://btcbalkans.com/en>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+BTC Balkans brings regional Bitcoin communities and open-source contributors together in Sofia. The announced formats are keynotes, panels and hands-on workshops for developers, educators and newcomers, covering Bitcoin technology, money and practical adoption.
 
 <a id="event-e18f039573962889"></a>
 
@@ -72140,10 +73983,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-szEAISbh7eCdngg`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-01T09:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/5dgtda35>
+- Description: Source-backed
+- Original page: <https://luma.com/5dgtda35>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+ICONX presents updates on Mining Race and Mining Grid, Bitcoin-mining education and community-development discussions. Registration is open to the public and confirmed automatically, subject to capacity. The organizer requests business-casual attire.
 
 <a id="event-a4d50f4c4d090b54"></a>
 
@@ -72422,18 +74267,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-7dec3d7f2fd7cbc8"></a>
-
-## The Future of Institutional Finance: AI & Digital Assets
-
-- Record: `luma-evt-r8RE9W5oFCCIL0x`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-03T02:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/empjdzmc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-a2bd1fe0d50e1b68"></a>
 
 ## EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together
@@ -72530,29 +74363,19 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f734384b01dc3f10"></a>
+<a id="event-7dec3d7f2fd7cbc8"></a>
 
-## Why Financial Crime Investigations Fail: The Digital Asset Angle
+## The Future of Institutional Finance: AI & Digital Assets
 
-- Record: `luma-evt-G5BtB9gzQtmxuzo`
+- Record: `luma-evt-r8RE9W5oFCCIL0x`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-03T09:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/z7yudih6>
+- Starts: 2026-11-03T10:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/empjdzmc>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
 
-<a id="event-f85407c0427c59f5"></a>
-
-## HKGHH Event: Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟
-
-- Record: `luma-evt-8r1XuPjp1xyA9EO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-03T11:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nqz7gjqc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+HashKey Cloud and XDC Network, with BTCLOAN, host a Hong Kong FinTech Week discussion on AI in financial services, asset tokenization and blockchain infrastructure. The panel runs from 10:15 to 11:00, followed by refreshments and discussion. Registration requires approval and is subject to venue capacity.
 
 <a id="event-eff6599f43797031"></a>
 
@@ -72573,10 +74396,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-Mr3xwAWeAXMdGam`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-03T13:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/jlisaxzz>
+- Description: Source-backed
+- Original page: <https://luma.com/jlisaxzz>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A 30-minute introduction to Zcash is followed by dinner discussions about digital privacy and an onboarding session on using and contributing to the network. The gathering is capped at 50 attendees. Registration requires approval; the venue is shared with accepted guests.
 
 <a id="event-7fa9abed7836855b"></a>
 
@@ -72590,17 +74415,33 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-733e6cb068cab482"></a>
+<a id="event-f734384b01dc3f10"></a>
 
-## Bitcoin dev day in traditional Korea
+## Why Financial Crime Investigations Fail: The Digital Asset Angle
 
-- Record: `luma-evt-nRvFLfwAHjMqMTo`
+- Record: `luma-evt-G5BtB9gzQtmxuzo`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-04T01:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/1pmwtapp>
+- Starts: 2026-11-03T17:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/z7yudih6>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+CAT Investigators and Finoverse host short keynotes and a practitioner panel on stalled digital-asset investigations. Topics include fund ownership, attribution, fragmented intelligence and cross-border escalation. Announced panelists represent AlixPartners, CMS, PwC Hong Kong and The Synthetic Outlaw, with Devon J. Euring moderating. Attendance requires registration approval.
+
+<a id="event-f85407c0427c59f5"></a>
+
+## HKGHH Networking Night: Hong Kong FinTech Week Side Event
+
+- Record: `luma-evt-8r1XuPjp1xyA9EO`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T19:00:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/nqz7gjqc>
+
+### About the event
+
+HKGHH hosts an informal business and technology meetup at Chef's Cuts during Hong Kong FinTech Week. The stated audience includes blockchain professionals, developers, founders and investors. Doors open at 18:45. Attendees buy their own drinks, with a one-drink minimum, and the organizer asks guests to bring business cards and wear smart casual clothing.
 
 <a id="event-291f8d487a814b99"></a>
 
@@ -72623,18 +74464,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T04:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/7729jnr3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-60ecfdfc99d7074f"></a>
-
-## Merkle Science Meet Hong Kong: Asia’s Digital Asset & Compliance Gateway
-
-- Record: `luma-evt-47w3UgAAyV9kHHi`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-04T05:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/f092bwll>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72709,6 +74538,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://lu.ma/dunxx97m>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-733e6cb068cab482"></a>
+
+## Bitcoin dev day in traditional Korea
+
+- Record: `luma-evt-nRvFLfwAHjMqMTo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T10:00:00+09:00
+- Description: Source-backed
+- Original page: <https://luma.com/1pmwtapp>
+
+### About the event
+
+Calvin Kim hosts a day for Bitcoin developers to share open-source projects in Seoul. The schedule includes local and guest developer talks, group breakouts, lunch and a walk through Gyeongbokgung Palace, with a traditional Korean house as the meeting base. Registration requires host approval.
 
 <a id="event-701a0eba0b17e682"></a>
 
@@ -72794,6 +74637,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-60ecfdfc99d7074f"></a>
+
+## Merkle Science Meet Hong Kong: Asia's Digital Asset & Compliance Gateway
+
+- Record: `luma-evt-47w3UgAAyV9kHHi`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T13:30:00+08:00
+- Description: Source-backed
+- Original page: <https://luma.com/f092bwll>
+
+### About the event
+
+Merkle Science hosts an afternoon on digital-asset regulation and financial infrastructure in Asia-Pacific. The announced panels cover Hong Kong licensing, tokenized financial markets, cross-border compliance, and stablecoin payments. The programme also includes blockchain-intelligence and fraud-solution demonstrations, followed by drinks. Registration is required; the organizer notes that the programme and speaker lineup may change.
+
 <a id="event-989e4c4849e2ecf7"></a>
 
 ## Blockchain Summit Latam Colombia 2026
@@ -72830,6 +74687,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-802606c3cbeee11f"></a>
+
+## bitcoin++ Seoul, Privacy Edition 2026
+
+- Record: `w3v-bitcoin-seoul-privacy-edition-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05
+- Description: Source-backed
+- Original page: <https://btcpp.dev/seoul>
+
+### About the event
+
+A Bitcoin developer conference focused on transaction privacy, with talks and workshops on CoinJoin, silent payments, ecash and privacy-preserving wallets. An accompanying hackathon asks teams to build Bitcoin privacy protocols, applications or payment tools.
+
 <a id="event-46eb08c4023c199d"></a>
 
 ## Unchained Summit India 2026
@@ -72843,18 +74714,6 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.
-
-<a id="event-802606c3cbeee11f"></a>
-
-## bitcoin++ Seoul, privacy edition
-
-- Record: `w3v-bitcoin-seoul-privacy-edition-26-11-05`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-05T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://btcpp.dev/seoul>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-fcaabf5ff8529f81"></a>
 
@@ -73018,6 +74877,20 @@ HyprEarn describes its product as an AI trading desk connecting perpetual DEXs, 
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a7e777b06db9a4e8"></a>
+
+## B-Only 2026
+
+- Record: `w3v-b-only-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07
+- Description: Source-backed
+- Original page: <https://b-only.org/>
+
+### About the event
+
+AlpineChain's fourth B-Only conference in Annecy includes Bitcoin talks, workshops, pleb talks and two community evenings. The three-day pass includes the listed lunches and dinners. Accommodation and travel are not included.
+
 <a id="event-bd828881ec45f600"></a>
 
 ## Bitcoin Korea Conference - COEX
@@ -73027,18 +74900,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.bitcoinkoreaconference.com/en>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a7e777b06db9a4e8"></a>
-
-## B-Only
-
-- Record: `w3v-b-only-26-11-07`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-07T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://b-only.org/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73193,15 +75054,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-1e9de612b619c516"></a>
 
-## Bluechip26 - The Crypto Safety Conference
+## Bluechip26: The Crypto Safety Conference
 
 - Record: `w3v-bluechip26-crypto-safety-conference-26-11-10`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-10T08:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-11-10
+- Description: Source-backed
 - Original page: <https://conference.bluechip.org/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Bluechip's conference examines stablecoin risk, crypto security and institutional safeguards. Published sessions cover crypto derivatives regulation, risks in stablecoin payments, tokenized securities, onchain yield and AI-agent finance.
 
 <a id="event-5e74069346094ef3"></a>
 
@@ -73282,10 +75145,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `w3v-solana-demo-day--london-2026`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-12T10:00:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/sol-demo-day>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Teams present products and features at the closing day of Solana Hacker House London, hosted by Laguna from Solana Foundation and Cap from Superteam UK. Presentations will be streamed. In-person attendance requires approval; presenter applications give priority to teams not already presenting at Breakpoint or Scale or Die.
 
 <a id="event-ca231f23872093e7"></a>
 
@@ -73347,15 +75212,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-This event will focus on the Solana's microstructure and DeFi landscape: what's happening, how it impacts DeFi projects and what traders should know.
-
-Attendance will be free but selective. Priority is given for Solana builders, core developers, and on-chain traders.
-
-Thanks to all the sponsors: Anza, Ellipsis Labs, Helius, Jito Foundation, Multicoin Capital, Triton One, and Temporal.
-
-### Event details
-
-Venue: Olympia, Hammersmith Rd, London W14 8UX, UK. Organized by Jito Events. The event takes place on November 13. Registration requires organizer approval.
+200ms covers Solana's market microstructure and DeFi, including implications for protocol teams and traders. Attendance is free and selective, with priority for Solana builders, core developers and onchain traders. Registration requires approval; the organizer shares the venue with accepted guests.
 
 <a id="event-6eec44db0d04f3a8"></a>
 
@@ -73364,10 +75221,12 @@ Venue: Olympia, Hammersmith Rd, London W14 8UX, UK. Organized by Jito Events. Th
 - Record: `w3v-solana-intelligence-summit`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-13T10:00:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/intelligence-summit>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Solana Foundation's AI summit includes morning workshops, afternoon talks and AI-paper discussions, live demos and a closing happy hour. Attendance is invite-only and subject to approval. The event is currently full, with a public waitlist available.
 
 <a id="event-2b13fc48ff2256ac"></a>
 
@@ -73414,10 +75273,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `w3v-445-crew-x-solana-breakpoint--community-run`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-14T09:15:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/n6r4k7vb>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+445 CREW hosts a 5K run for the Solana community, with all paces welcome. Arrival is at 09:15 and the run starts at 09:30, followed by a gathering at Fulham Pier. Registration requires approval.
 
 <a id="event-90254936f7e7127c"></a>
 
@@ -73426,10 +75287,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `w3v-scale-or-die`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-14T09:30:00.000Z
-- Description: Unverified stored copy
+- Description: Source-backed
 - Original page: <https://luma.com/scale-or-die-26>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Solana's application-only technical summit covers validator performance, consensus, transaction landing, RPC, Firedancer, post-quantum readiness and agentic infrastructure. A DevCave runs throughout the day for debugging and technical collaboration. The exact venue is shared with approved attendees.
 
 <a id="event-6114f6f2e011a7b4"></a>
 
@@ -73851,11 +75714,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `w3v-borneo-blockchain-conference-26-11-18`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-18T01:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-11-18
+- Description: Source-backed
 - Original page: <https://borneoblockchain.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The Kuching conference focuses on blockchain, AI and digital infrastructure in Borneo and ASEAN. Its announced topics include real-world asset tokenization, AI-blockchain applications, post-quantum cryptography and startup pitching.
 
 <a id="event-054d0ff195c43730"></a>
 
@@ -74099,11 +75964,13 @@ Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event unitin
 
 - Record: `w3v-bitcoin-japan-26-11-27`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-27T00:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2026-11-27
+- Description: Source-backed
 - Original page: <https://btc-jpn.com/en>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Bitcoin Japan combines a business-focused summit on November 27 with a festival and Bitcoiner Expo on November 28. The summit examines business use cases; the expo offers talks, discussions and hands-on activities. Passes cover different parts of the program.
 
 <a id="event-932ae553dd4635fb"></a>
 
@@ -74428,10 +76295,12 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-vZ1HR9Rka8ch50U`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2027-01-07T17:00:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://luma.com/aq7rqqmn>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A 30-minute Google Meet call about Solana and Superteam Canada, hosted by Simon. Participants can ask questions and learn how to get involved in the community.
 
 <a id="event-31f3b9d29d5286e9"></a>
 
@@ -74471,15 +76340,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-06674a49db11dd4f"></a>
 
-## BlockDown Dubai
+## BlockDown Dubai 2027
 
 - Record: `w3v-blockdown-dubai-27-01-26`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-01-26T05:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-01-26
+- Description: Source-backed
 - Original page: <https://blockdownfestival.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A two-day festival covering Web3, AI and digital culture. Announced discussions include stablecoins, tokenized real-world assets, prediction markets and AI agents, alongside panels, demonstrations and practical masterclasses. It takes place at The Plaza at Uptown Dubai.
 
 <a id="event-db9360cc9aa59fe5"></a>
 
@@ -74493,6 +76364,21 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1f6f7fb8524e4d1b"></a>
+
+## Digital Assets Forum London 2027
+
+- Record: `ma-digital-assets-forum-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-01
+- Description: Source-backed
+- Original page: <https://eblockchainconvention.com/digital-assets-forum/>
+- Original page: <https://www.tickettailor.com/events/europeanblockchainconvention/2079609>
+
+### About the event
+
+European Blockchain Convention's fourth Digital Assets Forum is a two-day institutional event for financial institutions, crypto companies and regulators. The program includes talks and panels, an exhibition and scheduled one-to-one meetings.
+
 <a id="event-febd5816e1553777"></a>
 
 ## RWA SUMMIT HONG KONG 2027
@@ -74502,18 +76388,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-02-03T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rwasummit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1f6f7fb8524e4d1b"></a>
-
-## Digital Assets Forum 2027
-
-- Record: `ma-digital-assets-forum-2027`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-02-10T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://digitalassetsforum.com/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74553,18 +76427,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-52f06b74b89656bf"></a>
-
-## Digital Asset Summit 2027
-
-- Record: `ma-digital-asset-summit-2027`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-03-18T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://blockworks.com/events>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-1e92ee5d113550e3"></a>
 
 ## Next Block Expo 2027
@@ -74601,6 +76463,20 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://www.buildingblockstlv.com/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-52f06b74b89656bf"></a>
+
+## Digital Asset Summit NYC 2027
+
+- Record: `ma-digital-asset-summit-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-03-30T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dasnyc2027>
+
+### About the event
+
+Blockworks' three-day institutional summit covers onchain capital markets, stablecoins and payments, fintech infrastructure, portfolio allocation, US digital-asset policy and DeFi risk management. It takes place at Javits North in New York.
 
 <a id="event-1225a55999ceff63"></a>
 
@@ -74645,11 +76521,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `ma-dc-blockchain-summit-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-04-06T00:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-04-06
+- Description: Source-backed
 - Original page: <https://www.dcblockchainsummit.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The Digital Chamber's summit brings government and business leaders together to discuss blockchain and digital-asset policy, regulation and US competitiveness. The organizer names Capital Turnaround as the 2027 venue.
 
 <a id="event-39cbf775d829494e"></a>
 
@@ -74665,15 +76543,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-8e354a5edd9a3d58"></a>
 
-## TEAMZ Web3/AI Summit 2027
+## TEAMZ Summit 2027 (AI Edition)
 
 - Record: `ma-teamz-web3-ai-summit-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-04-06T00:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-04-06T09:00:00+09:00
+- Description: Source-backed
 - Original page: <https://www.teamz.co.jp/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+TEAMZ's tenth-anniversary summit at Happo-en runs April 6-7, 2027. Announced themes include AI infrastructure, software and robotics, plus digital assets, payments and transactions. The detailed 2027 program is still to be announced.
 
 <a id="event-2aab7fc401a624b5"></a>
 
@@ -74742,11 +76622,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `w3v-btc-prague-27-05-06`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-05-06T07:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-05-06
+- Description: Source-backed
 - Original page: <https://btcprague.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+A Bitcoin conference and exhibition in Prague. The organizer offers May 7-8 expo and two-day conference passes, plus three-day passes covering May 6-8 and the Bitcoin Living Masterclass. The displayed speaker roster is labeled as past speakers.
 
 <a id="event-4d023bcb5c77a5a4"></a>
 
@@ -74762,15 +76644,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-618e093418cb6f0f"></a>
 
-## Dutch Blockchain Week 2027
+## Dutch Blockchain Week Summit 2027
 
 - Record: `ma-dutch-blockchain-week-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-05-19T00:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-05-19
+- Description: Source-backed
 - Original page: <https://dutchblockchainweek.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+The main summit of Dutch Blockchain Week runs at Johan Cruijff ArenA on May 19-20. Its program covers digital assets, blockchain and institutional Web3 through panels, detailed sessions and breakout discussions. The wider city event week runs May 17-23.
 
 <a id="event-635ae9eb57c000a8"></a>
 
@@ -74790,11 +76674,27 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `w3v-nfc-summit-27-05-27`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-05-27T08:00:00.000Z
-- Description: Unverified stored copy
+- Starts: 2027-05-27
+- Description: Source-backed
 - Original page: <https://www.nonfungibleconference.com/>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Non Fungible Conference returns to Unicorn Factory in Lisbon on May 27-29, 2027. Tickets are on sale; the 2027 program has not yet been announced.
+
+<a id="event-9813b78a5d94c0c1"></a>
+
+## Adopting Bitcoin Arnhem 2027
+
+- Record: `w3v-adopting-bitcoin-arnhem-27-05-28`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-05-28
+- Description: Source-backed
+- Original page: <https://nl27.adoptingbitcoin.org/>
+
+### About the event
+
+Adopting Bitcoin Arnhem focuses on using Bitcoin as money and developing real-world adoption. The organizer has announced May 28-29, 2027 and opened ticket sales. The venue and 2027 speaker programme are still to be announced.
 
 <a id="event-d842aa7cef96f185"></a>
 
@@ -74805,18 +76705,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-05-28T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://ethprague.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9813b78a5d94c0c1"></a>
-
-## Adopting Bitcoin Arnhem 2027
-
-- Record: `w3v-adopting-bitcoin-arnhem-27-05-28`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-05-28T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://nl27.adoptingbitcoin.org/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74934,6 +76822,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9883b3a4c91a4a5a"></a>
+
+## Bitcoin 2027
+
+- Record: `w3v-bitcoin-27-07-15`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-07-15
+- Description: Source-backed
+- Original page: <https://conference.b.tc/>
+
+### About the event
+
+The Bitcoin Conference returns to Nashville's Music City Center. General admission covers July 16-17 and the main stage, Genesis Stage and expo hall. Pro and Whale passes include July 15; the Pro program includes the Bitcoin for Corporations Symposium. The site identifies its displayed speaker list as past speakers.
+
 <a id="event-a55e3aba26f92bc1"></a>
 
 ## Bitcoin 2027
@@ -74943,18 +76845,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-07-15T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://2027.b.tc/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9883b3a4c91a4a5a"></a>
-
-## Bitcoin 2027
-
-- Record: `w3v-bitcoin-27-07-15`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-07-15T14:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://conference.b.tc/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75072,11 +76962,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `ma-token2049-singapore-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-10-06T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.asia.token2049.com/>
+- Starts: 2027-10-06
+- Description: Source-backed
+- Original page: <https://www.token2049.com/singapore>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+TOKEN2049's two-day Singapore conference is announced for Marina Bay Sands. The organizer also schedules its NEXUS startup pitch competition for October 6-7. Separate Origins hackathon dates have not been announced on this page.
 
 <a id="event-22bbe65ad50c7443"></a>
 
