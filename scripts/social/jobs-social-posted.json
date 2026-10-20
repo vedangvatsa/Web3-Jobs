@@ -29112,7 +29112,8 @@
       },
       "account": "profile",
       "attemptId": "4a5729b9-adeb-4d89-b131-bd1761d83474",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1b1b904e83bf87c3ff077d130438cf054ebeea60"
     }
   ]
 }
