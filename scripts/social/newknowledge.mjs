@@ -3,7 +3,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
-import { ASSET_DIRECTORY, CAMPAIGN, sha256, renderThread, validateCampaign, selectKnowledgeDate, verifyPostLinks } from './newknowledge-content.mjs';
+import { ASSET_DIRECTORY, CAMPAIGN, sha256, renderThread, validateCampaign, selectKnowledgeDate, verifyPostLinks, assertThreadResourceFreshness } from './newknowledge-content.mjs';
 import { githubReceipt, localJournal } from './newknowledge-state.mjs';
 import { inspectImages, pinnedImages, verifyPinnedImages, providerImageVerifier } from './newknowledge-images.mjs';
 import { providerClient } from './newknowledge-providers.mjs';
@@ -63,6 +63,12 @@ export async function main(args = process.argv.slice(2), env = process.env) {
     try {
       const store = githubReceipt({ date, platform: target, token: env.GITHUB_TOKEN, record });
       const state = await store.load();
+      if (thread.freshness && mode !== 'reconcile') {
+        const events = JSON.parse(await fs.readFile(path.join(ROOT, 'content/events-runtime.json'), 'utf8'));
+        const reviewAt = Math.max(Date.now(), Date.parse(`${date}T11:30:00Z`));
+        assertThreadResourceFreshness(thread, events, reviewAt);
+        await record({ threadId: thread.id, eventIds: thread.freshness.eventIds, reviewedAt: new Date(reviewAt).toISOString() }, 'resource-freshness');
+      }
       const posts = renderThread(thread, target);
       const assets = await inspectImages(ROOT, posts);
       const assetCommit = state?.spec.assetCommit || env.KNOWLEDGE_ASSET_COMMIT;

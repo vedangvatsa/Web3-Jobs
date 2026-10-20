@@ -1,0 +1,505 @@
+{
+  "capturedAt": "2026-10-20T14:48:59.837Z",
+  "threads": [
+    {
+      "id": "C01",
+      "sequence": 1,
+      "category": "career",
+      "title": "Build a portfolio someone can verify",
+      "audience": [
+        "engineers",
+        "marketers",
+        "community",
+        "beginners"
+      ],
+      "posts": [
+        {
+          "number": 1,
+          "text": "A Web3 portfolio needs a path from claim to evidence. For each project, show the problem, your contribution and something a reviewer can inspect. A title like 'growth lead' leaves all of that unanswered.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Make your work inspectable",
+            "labels": [
+              "Problem",
+              "Your contribution",
+              "Evidence"
+            ],
+            "composition": "diagram",
+            "brief": "Connect a project claim to a concrete artifact, with authorship marked between them."
+          }
+        },
+        {
+          "number": 2,
+          "text": "For an engineering sample, include a README with setup steps and tests for failure cases. Example: a withdrawal test should check what happens when the caller lacks permission, not only when the transfer succeeds.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Show the failure case",
+            "labels": [
+              "Allowed caller",
+              "Rejected caller",
+              "Test command",
+              "Known limits"
+            ],
+            "composition": "comparison",
+            "brief": "Compare two labeled test scenarios. This is a teaching diagram, not fabricated test output."
+          }
+        },
+        {
+          "number": 3,
+          "text": "For a marketing sample, write a campaign brief with an audience, a user action and a measurement plan. Example: a wallet tutorial can measure setup completion. Impressions alone won't tell you whether readers finished setup.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Connect content to an action",
+            "labels": [
+              "Tutorial reader",
+              "Setup attempt",
+              "Setup completion",
+              "Measurement limits"
+            ],
+            "composition": "process",
+            "brief": "Map the proposed tutorial funnel without invented conversion rates."
+          }
+        },
+        {
+          "number": 4,
+          "text": "For community or operations work, show the system you built. A sample support runbook could explain how to collect an error report, assign an owner and tell the user when to expect an update.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Document a repeatable task",
+            "labels": [
+              "Error report",
+              "Assigned owner",
+              "Next update",
+              "Resolution record"
+            ],
+            "composition": "process",
+            "brief": "Draw a support ticket moving between user, moderator and engineer."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Private work can still make a useful case study. Describe the constraint and your decision using approved, redacted material. Label a personal exercise as an exercise; don't turn it into a fictional client project.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Label the evidence honestly",
+            "labels": [
+              "Public work",
+              "Approved redaction",
+              "Personal exercise"
+            ],
+            "composition": "comparison",
+            "brief": "Show three evidence formats with clear labels and no invented client identities."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Before applying, open every portfolio link while logged out. Put the most relevant sample first, name your part in it and explain one limitation. A reviewer should be able to follow the evidence without requesting access.",
+          "linkPath": "/building-web3-portfolio",
+          "visual": {
+            "headline": "Run the reviewer check",
+            "labels": [
+              "Logged-out access",
+              "Relevant sample first",
+              "Authorship clear",
+              "Limits stated"
+            ],
+            "composition": "checklist",
+            "brief": "Use a compact pre-application checklist with one evidence link as the focal point."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hashtagweb3.com/building-web3-portfolio",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                1,
+                2,
+                3,
+                4,
+                6
+              ],
+              "claims": "Role-specific portfolios, runnable repositories, tests, documented nontechnical work, and accessible evidence links."
+            }
+          ]
+        },
+        {
+          "url": "https://hashtagweb3.com/10-dos-and-donts-for-web3-resume",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                1,
+                5,
+                6
+              ],
+              "claims": "Authorship, confidentiality, accurate independent-work labels and logged-out link checks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E01",
+      "sequence": 2,
+      "category": "web3-education",
+      "title": "Understand token approvals before signing",
+      "audience": [
+        "beginners",
+        "engineers",
+        "community",
+        "operators"
+      ],
+      "posts": [
+        {
+          "number": 1,
+          "text": "An ERC-20 token approval gives another address permission to spend a specified token from your account. It is different from connecting a wallet to a website. Check the token, spender and amount before you approve.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Read the permission you are granting",
+            "labels": [
+              "Token",
+              "Spender",
+              "Amount",
+              "Network"
+            ],
+            "composition": "diagram",
+            "brief": "Draw the relationship between token holder, token contract and approved spender. No real addresses."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Example: you plan to swap 20 tokens, but the app requests an allowance of 200. That permission is larger than this trade. Where supported, set a cap that matches your intended use rather than accepting the requested amount automatically.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Compare the trade and the cap",
+            "labels": [
+              "Example only",
+              "Trade: 20 tokens",
+              "Requested cap: 200",
+              "Review the difference"
+            ],
+            "composition": "comparison",
+            "brief": "Use two proportional bars labeled as a hypothetical token-quantity example, not prices."
+          }
+        },
+        {
+          "number": 3,
+          "text": "Disconnecting a website does not revoke an onchain token allowance. To remove that spending permission, submit a revocation on the relevant network and check that it confirms. An onchain revocation normally requires a network fee.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Disconnecting and revoking differ",
+            "labels": [
+              "Website connection",
+              "Onchain allowance",
+              "Revocation transaction",
+              "Confirmation"
+            ],
+            "composition": "comparison",
+            "brief": "Separate connection state from token-contract permission; show only revocation changing the allowance."
+          }
+        },
+        {
+          "number": 4,
+          "text": "A signature can authorize spending even when you pay no gas at signing. ERC-2612 permits let someone submit a signed approval onchain later. Read the spender, amount and deadline; a gasless prompt is not automatically a harmless login.",
+          "linkPath": null,
+          "visual": {
+            "headline": "A signature can carry spending authority",
+            "labels": [
+              "Signed permit",
+              "Spender",
+              "Amount",
+              "Submission deadline"
+            ],
+            "composition": "process",
+            "brief": "Show signing followed by later onchain submission. Label the deadline as the permit submission deadline."
+          }
+        },
+        {
+          "number": 5,
+          "text": "NFT permissions use different scopes. setApprovalForAll can let an operator move every NFT you own from that collection contract. It is broader than approving one item, so check which collection and operator the request names.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Check the NFT permission scope",
+            "labels": [
+              "One NFT",
+              "Collection-wide permission",
+              "Named operator"
+            ],
+            "composition": "comparison",
+            "brief": "Compare single-item approval with all items under one collection contract, not all NFTs in a wallet."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Review allowances by account and network, then remove ones you no longer need. Keep the approval and revocation receipts. Revoking permission cannot reverse a transfer that already happened, and it does not repair an exposed private key.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Keep an allowance review record",
+            "labels": [
+              "Account",
+              "Network",
+              "Spender",
+              "Remaining allowance",
+              "Revocation receipt"
+            ],
+            "composition": "checklist",
+            "brief": "Show a permission inventory with no live balances. Distinguish permission cleanup from key compromise."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://support.metamask.io/stay-safe/safety-in-web3/what-is-a-token-approval/",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                1,
+                2,
+                5,
+                6
+              ],
+              "claims": "Token/spender/amount approval model, custom caps, collection-wide NFT operator approvals and limitations after assets are transferred."
+            }
+          ]
+        },
+        {
+          "url": "https://support.metamask.io/more-web3/learn/how-to-revoke-smart-contract-allowances-token-approvals",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                3,
+                6
+              ],
+              "claims": "Disconnecting differs from revocation, network-specific checks and onchain revocation gas fees."
+            }
+          ]
+        },
+        {
+          "url": "https://eips.ethereum.org/EIPS/eip-2612",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                4
+              ],
+              "claims": "Signed permits can be submitted by another address and include spender, value, nonce and deadline. The deadline limits permit submission, not the resulting allowance lifetime."
+            }
+          ]
+        },
+        {
+          "url": "https://ethereum.org/en/security/",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                6
+              ],
+              "claims": "Private keys independently control accounts; permission revocation does not change a key."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "N01",
+      "sequence": 3,
+      "category": "nomad-community",
+      "title": "Compare cities against a real workweek",
+      "audience": [
+        "remote workers",
+        "operators",
+        "founders",
+        "beginners"
+      ],
+      "posts": [
+        {
+          "number": 1,
+          "text": "Compare cities against your workweek before comparing their overall scores. A recruiter taking private calls and an engineer working mostly asynchronously need different setups. Write down the conditions your work actually requires.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Start with the workweek",
+            "labels": [
+              "Private calls",
+              "Focus time",
+              "Team overlap",
+              "Daily routine"
+            ],
+            "composition": "comparison",
+            "brief": "Compare two hypothetical work patterns without assigning them to nationalities or income levels."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Make two lists: requirements and preferences. Example requirements might be a private call space and workable team overlap. Walkability or warm weather may be preferences. A high overall score should not hide a missing requirement.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Separate requirements from preferences",
+            "labels": [
+              "Required conditions",
+              "Preferred conditions",
+              "Missing requirement"
+            ],
+            "composition": "comparison",
+            "brief": "Show a sample decision matrix with unscored fields, not invented city ratings."
+          }
+        },
+        {
+          "number": 3,
+          "text": "Use the city directory to compare living-cost estimates, internet, safety, walkability and weather. Change the ranking category to match your question. Sorting by internet answers a different question from sorting by living costs.",
+          "linkPath": "/nomads",
+          "visual": {
+            "headline": "Change the comparison question",
+            "labels": [
+              "Living costs",
+              "Internet",
+              "Safety",
+              "Walkability",
+              "Weather"
+            ],
+            "composition": "screenshot",
+            "brief": "Capture the real nomads ranking selector and Compare controls. Crop live costs, rankings and counts."
+          }
+        },
+        {
+          "number": 4,
+          "text": "Treat city-level information as a starting point for checking the actual place. Ask a host about the desk, call privacy and internet at the accommodation. A city's average cannot tell you whether a particular room suits your work.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Check the actual room",
+            "labels": [
+              "Desk",
+              "Call privacy",
+              "Connection",
+              "Host confirmation"
+            ],
+            "composition": "checklist",
+            "brief": "Zoom conceptually from city to neighborhood to room, without invented property photographs."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Compare the months you would be there, not only an annual weather summary. Also map team meetings to your local hours for those dates. A city can fit your preferences while the working schedule still does not fit your day.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Use the dates you would stay",
+            "labels": [
+              "Monthly weather",
+              "Meeting dates",
+              "Local working hours",
+              "Daily routine"
+            ],
+            "composition": "diagram",
+            "brief": "Connect an undated sample stay calendar to weather and schedule checks. Avoid forecasts and country claims."
+          }
+        },
+        {
+          "number": 6,
+          "text": "End with a shortlist and an unanswered-questions column. For each city, note what needs a host quote, an employer answer or an official entry check. A useful comparison shows what you still need to verify before booking.",
+          "linkPath": null,
+          "visual": {
+            "headline": "Keep the unknowns beside the shortlist",
+            "labels": [
+              "City",
+              "Host question",
+              "Employer question",
+              "Entry check"
+            ],
+            "composition": "example",
+            "brief": "Use a blank shortlist worksheet so the reader supplies cities and personal requirements."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hashtagweb3.com/nomads",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ],
+              "claims": "City comparison/ranking categories and estimated-cost context. Work-pattern and shortlist methods are editorial recommendations."
+            }
+          ]
+        },
+        {
+          "url": "https://hashtagweb3.com/coworking-spaces-vs-home-office",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                1,
+                2,
+                4
+              ],
+              "claims": "Workspace choice depends on noise, calls, amenities, commute and personal work requirements."
+            }
+          ]
+        },
+        {
+          "url": "https://hashtagweb3.com/remote-work-checklist",
+          "fetchedOn": "2026-10-17",
+          "supports": [
+            {
+              "posts": [
+                4,
+                5
+              ],
+              "claims": "Workspace, connection and correct calendar time-zone checks."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-10-18",
+      "id": "C01",
+      "title": "Build a portfolio someone can verify",
+      "sequence": 1
+    },
+    {
+      "date": "2026-10-19",
+      "id": "E01",
+      "title": "Understand token approvals before signing",
+      "sequence": 2
+    },
+    {
+      "date": "2026-10-20",
+      "id": "N01",
+      "title": "Compare cities against a real workweek",
+      "sequence": 3
+    }
+  ],
+  "imageHashes": {
+    "images/C01-01.jpg": "6689cb9288d1752b3aec5251775c8605395783b69584b528a375457a3a8cc888",
+    "images/C01-02.jpg": "997e1990fad3136c5fc7ce1fdd12c9ab40850c46ab25c03983673aa2ac11654c",
+    "images/C01-03.jpg": "193ea4d4dce804f4b6ded3d8578a31ec0861b8d57392e028d214fe7422376c76",
+    "images/C01-04.jpg": "bdef837c401df2ef3ca752610fe93a0b9894e836c9319df84cfe31a5dff004f0",
+    "images/C01-05.jpg": "0a6677ee5d2f3d97ca9901e63ff520cb35a40fe72f2c03c09235f641a20ecc75",
+    "images/C01-06.jpg": "e6d765091feb90b584ba340ca835f468740c88a13c53b03b72c62045a9eaa84e",
+    "images/E01-01.jpg": "f0d44638497a436f81c5e08c5a093f797178acb6be9fd8f3972172f4b93a445e",
+    "images/E01-02.jpg": "1dfb6d27bb30531c2957c66e03d19ae754294b07bfc634f7c174af7c52c48a4c",
+    "images/E01-03.jpg": "2dc5e9208f7938f7e5bff59852d26476eaa8961d338cdf83d116d7a7f7be7f8c",
+    "images/E01-04.jpg": "2229a9fd6c711ee580686e098ab8ab7997d3436a504eefcdd71ed5b964756bef",
+    "images/E01-05.jpg": "eb82dd291c2aa90252f7becafc9fbf79ab3545c88d2b04904831bad86c7e4b17",
+    "images/E01-06.jpg": "9fd9c21eb1f1118b656cfbc36a912fefb07926399303ac3343392031de6ec933",
+    "images/N01-01.jpg": "79070f48e1a01e72a096b725e5e6a3a503dbd4b948cdfb922eec7f291ff0af22",
+    "images/N01-02.jpg": "2ae1759fd669e347b4c67d1de46c7e56a7574b5a87fdcac4f9cf2b05a2ae5ae7",
+    "images/N01-03.jpg": "41f79d51503fa956022e04ba79c15eff5cff43c27bb9c28e367e294711941cef",
+    "images/N01-04.jpg": "691caabcf8b2d2e41d544a158861865d1d4e021755fcd76f3c30a671891a923f",
+    "images/N01-05.jpg": "276bf0def05c249bbcd956d8849b3166b2386f7653ff5814f82d72da9f86b747",
+    "images/N01-06.jpg": "8e14f49fac5ccd19ce42f522d30ed070a8b0ceb088d578c5d066914fe5e92e6b"
+  }
+}

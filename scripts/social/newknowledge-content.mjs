@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 import { assertCanonicalLinkPath, platformLink, SITE_ORIGIN } from './platform-links.mjs';
 import { postingSlot, isPostingWindow, assertPostingWindow } from './posting-slot.mjs';
+import { hasEventEnded } from '../lib/event-dates.mjs';
 
 export const CAMPAIGN = 'knowledge-threads-month-2026-10-17';
 export const ASSET_DIRECTORY = 'social-assets/knowledge-threads-month';
@@ -9,12 +10,13 @@ export const START = '2026-10-18';
 export const END = '2026-11-16';
 export const sha256 = value => createHash('sha256').update(value).digest('hex');
 const SITE_HOST = new URL(SITE_ORIGIN).hostname;
-const evergreenPaths = new Set([
+const resourcePaths = new Set([
   '/building-web3-portfolio', '/resume-builder', '/jobs', '/invoice-generator',
   '/how-to-contribute-to-daos-and-get-paid', '/jd-builder', '/interview-questions',
   '/content-strategy-for-web3-projects', '/web3-community-manager-career', '/remote-work-in-web3',
   '/nomads', '/visas', '/popups', '/building-relationships-in-web3', '/remote-work-checklist',
   '/citizenship', '/coffee-chat-etiquette-for-professionals',
+  '/salary-calculator', '/web3-career-quiz', '/learn', '/events',
 ]);
 
 export function assertKnowledgeOnly(value) {
@@ -30,7 +32,7 @@ export function renderThread(thread, platform) {
   return thread.posts.map(post => {
     if (post.linkPath !== null) {
       assertCanonicalLinkPath(post.linkPath);
-      assert.ok(evergreenPaths.has(post.linkPath), `Unapproved evergreen path: ${post.linkPath}`);
+      assert.ok(resourcePaths.has(post.linkPath), `Unapproved resource path: ${post.linkPath}`);
     }
     const text = post.text + (post.linkPath ? `\n\n${platformLink(`${SITE_HOST}${post.linkPath}`, platform)}` : '');
     const weightedText = post.text + (post.linkPath ? `\n\n${'x'.repeat(23)}` : '');
@@ -95,6 +97,37 @@ export function selectKnowledgeDate(calendar, { date, slot = 'afternoon', now = 
 export function assertKnowledgeWindow(date, now = Date.now()) {
   assert.ok(date >= START && date <= END, 'Outside campaign dates');
   assertPostingWindow(postingSlot('afternoon', date), now);
+}
+
+function eventCalendarDate(value, timezone) {
+  assert.ok(typeof value === 'string' && Number.isFinite(Date.parse(value)), 'Invalid event date');
+  if (/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
+  if (!timezone && /[+-]\d{2}:\d{2}$/.test(value)) return value.slice(0, 10);
+  const parts = new Intl.DateTimeFormat('en', { timeZone: timezone || 'UTC', year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(new Date(value));
+  const date = Object.fromEntries(parts.map(part => [part.type, part.value]));
+  return `${date.year}-${date.month}-${date.day}`;
+}
+
+export function assertThreadResourceFreshness(thread, events, now = Date.now()) {
+  if (!thread.freshness) return;
+  const { kind, eventIds, expectedDates, expectedDetails } = thread.freshness;
+  assert.equal(kind, 'events', 'Unsupported resource freshness rule');
+  assert.ok(Array.isArray(eventIds) && eventIds.length > 0 && new Set(eventIds).size === eventIds.length, 'Event threads need unique source identities');
+  assert.ok(Number.isFinite(now), 'Invalid resource review clock');
+  for (const id of eventIds) {
+    const event = events.find(item => item.id === id);
+    assert.ok(event, `${thread.id}: event no longer listed: ${id}`);
+    assert.ok(!['private', 'unlisted'].includes(event.visibility) && event.publicationStatus !== 'needs-review', `${thread.id}: event no longer public: ${id}`);
+    assert.ok(!['EventCancelled', 'EventPostponed'].includes(event.eventStatus), `${thread.id}: cancelled or postponed event: ${id}`);
+    assert.ok(!hasEventEnded(event, now), `${thread.id}: event has ended: ${id}`);
+    assert.ok(!['closed', 'sold-out'].includes(event.registrationAvailability), `${thread.id}: registration closed: ${id}`);
+    const expected = expectedDates?.[id];
+    assert.ok(expected, `${thread.id}: missing reviewed event dates: ${id}`);
+    assert.equal(eventCalendarDate(event.startDate, event.timezone), expected.startDate, `${thread.id}: start date changed: ${id}`);
+    assert.equal(eventCalendarDate(event.endDate || event.startDate, event.timezone), expected.endDate, `${thread.id}: end date changed: ${id}`);
+    assert.ok(expectedDetails?.[id], `${thread.id}: missing reviewed event details: ${id}`);
+    for (const [key, value] of Object.entries(expectedDetails[id])) assert.deepEqual(event[key] ?? null, value, `${thread.id}: ${key} changed: ${id}`);
+  }
 }
 
 export async function verifyPostLinks(posts, fetcher = fetch) {

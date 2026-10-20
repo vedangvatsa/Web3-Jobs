@@ -1,114 +1,1481 @@
 {
-  "validatedAt": "2026-10-17T00:22:43.165Z",
+  "validatedAt": "2026-10-20T17:24:42.955Z",
   "status": "PASS",
-  "masterCount": 180,
-  "threadCount": 30,
+  "replacementMasters": 162,
+  "allMasters": 180,
+  "uniqueImageHashes": 180,
+  "decodedMasters": 180,
   "dimensions": "1200x1500",
   "format": "JPEG",
   "colorSpace": "sRGB",
-  "uniqueHashes": 180,
-  "totalBytes": 20100841,
-  "totalMiB": 19.169655799865723,
   "minBytes": 88125,
-  "maxBytes": 171477,
+  "maxBytes": 356835,
+  "totalBytes": 36668726,
+  "totalMiB": 34.970022201538086,
   "limitBytes": 5000000,
-  "sourceManuscriptUnchanged": true,
-  "contentSha256": "0746fb349f7f2dec4813b8df5ecaf50ef9443ae6f66709d549c738ca28afd761",
+  "contentSha256": "7686e0316aa3d36c8623ff1c1f187da4ed44db9d284c8e2a4d5acbbd51072c45",
+  "calendarSha256": "ef167b0f06f96103045ba1a2df1848a14a83eb322f1449763bd17db3165e5ee2",
+  "currentPostHashesVerified": 180,
+  "protectedImages": {
+    "images/C01-01.jpg": "6689cb9288d1752b3aec5251775c8605395783b69584b528a375457a3a8cc888",
+    "images/C01-02.jpg": "997e1990fad3136c5fc7ce1fdd12c9ab40850c46ab25c03983673aa2ac11654c",
+    "images/C01-03.jpg": "193ea4d4dce804f4b6ded3d8578a31ec0861b8d57392e028d214fe7422376c76",
+    "images/C01-04.jpg": "bdef837c401df2ef3ca752610fe93a0b9894e836c9319df84cfe31a5dff004f0",
+    "images/C01-05.jpg": "0a6677ee5d2f3d97ca9901e63ff520cb35a40fe72f2c03c09235f641a20ecc75",
+    "images/C01-06.jpg": "e6d765091feb90b584ba340ca835f468740c88a13c53b03b72c62045a9eaa84e",
+    "images/E01-01.jpg": "f0d44638497a436f81c5e08c5a093f797178acb6be9fd8f3972172f4b93a445e",
+    "images/E01-02.jpg": "1dfb6d27bb30531c2957c66e03d19ae754294b07bfc634f7c174af7c52c48a4c",
+    "images/E01-03.jpg": "2dc5e9208f7938f7e5bff59852d26476eaa8961d338cdf83d116d7a7f7be7f8c",
+    "images/E01-04.jpg": "2229a9fd6c711ee580686e098ab8ab7997d3436a504eefcdd71ed5b964756bef",
+    "images/E01-05.jpg": "eb82dd291c2aa90252f7becafc9fbf79ab3545c88d2b04904831bad86c7e4b17",
+    "images/E01-06.jpg": "9fd9c21eb1f1118b656cfbc36a912fefb07926399303ac3343392031de6ec933",
+    "images/N01-01.jpg": "79070f48e1a01e72a096b725e5e6a3a503dbd4b948cdfb922eec7f291ff0af22",
+    "images/N01-02.jpg": "2ae1759fd669e347b4c67d1de46c7e56a7574b5a87fdcac4f9cf2b05a2ae5ae7",
+    "images/N01-03.jpg": "41f79d51503fa956022e04ba79c15eff5cff43c27bb9c28e367e294711941cef",
+    "images/N01-04.jpg": "691caabcf8b2d2e41d544a158861865d1d4e021755fcd76f3c30a671891a923f",
+    "images/N01-05.jpg": "276bf0def05c249bbcd956d8849b3166b2386f7653ff5814f82d72da9f86b747",
+    "images/N01-06.jpg": "8e14f49fac5ccd19ce42f522d30ed070a8b0ceb088d578c5d066914fe5e92e6b"
+  },
+  "protectedImageCount": 18,
+  "protectedThreads": [
+    {
+      "id": "C01",
+      "sha256": "4017eac89d8bcdb6d9af4e0e837e96592f9090417ae33c38bc6f69f19e5ecb10"
+    },
+    {
+      "id": "E01",
+      "sha256": "626c378feb425685ebebcd26e5a61cd5d763be76999852d58e24830c20596cfa"
+    },
+    {
+      "id": "N01",
+      "sha256": "fe73d60d187ac410cd565131e37c3af4936f2350b9ba597ea134e315cc79483d"
+    }
+  ],
+  "protectedManifestEntriesSha256": "4256de03abbf3d9d5a5227c043f6cb7355ab9d3a3f95cffcad807ddc17e54f85",
+  "protectedManifestEntriesUnchanged": 18,
+  "protectedContactSheets": {
+    "contact-sheets/C01.jpg": "b4f61079a6ebe035a4562866a0faa2d9824e627a7edd3ed6dde40e2185809694",
+    "contact-sheets/E01.jpg": "7c6442b31e0ee29517aec7d8b6b8257e41ce24e42857b651c9378a91525d25f7",
+    "contact-sheets/N01.jpg": "e7ed1b33982a422514810e6d3d0d38d715a14a267ce9c64014c7f5090e633de2",
+    "contact-sheets/mobile-01.jpg": "5094fdb0eb8de03d2f3aaa576cde502132032c77c6e46209f23fc71434d9cb48",
+    "contact-sheets/mobile-02.jpg": "ec14694db8eace2b788cb38c90cc3af5f3c790e3d5e618ce94ebb53254153c86",
+    "contact-sheets/mobile-03.jpg": "315a97cbdefc58c81f52fe441117682b393139d2f9b92eff357168a6a80426ff",
+    "contact-sheets/mobile-04.jpg": "0e45177eae23509f0de6a73d7904930ddcd87b6a45d621de1023b39757e71414",
+    "contact-sheets/mobile-05.jpg": "1f74ab7f82e5bef947fbc16829145b20140f9b11288837a6a8099887e6acce1f"
+  },
+  "newContactSheets": 27,
+  "contactSheets": [
+    {
+      "file": "contact-sheets/C01.jpg",
+      "sha256": "b4f61079a6ebe035a4562866a0faa2d9824e627a7edd3ed6dde40e2185809694",
+      "publishedHistory": true
+    },
+    {
+      "file": "contact-sheets/C02.jpg",
+      "sha256": "2f6708d399a7525ed49ba26250f401359d641d2d19add0c2fb01e3696d24405e",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C03.jpg",
+      "sha256": "3d43ae33fa972fe6e6eb200aba195ce435c33e4f5aa71b454de23a2f3fa9ce2c",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C04.jpg",
+      "sha256": "afc46ba3d6c5ce25dfad3d4caeb7f9a138709e94d864c04e32c8fec761c6e331",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C05.jpg",
+      "sha256": "5a305a581a7068b143f8c1ac9dee49b678eed0ffb961cdda2dd9eb7049af1e1f",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C06.jpg",
+      "sha256": "d2e79fd14e2b6d947623c89484edd1e99b4101c2df3986ae6bfe7c3e7d5944f0",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C07.jpg",
+      "sha256": "57c9affde1da039a6993dbc991f99a05d0e6f66d041cd8bc4e07a86128aed450",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C08.jpg",
+      "sha256": "7c6b863793460cd2a243b0a8836875a7a8ce3407d86f542177c300153bdba980",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C09.jpg",
+      "sha256": "1528a4f9eb9b0eb2d0cb0518b5783b4cb3653eae1c8d4b95acc8fab0a0bb17a8",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/C10.jpg",
+      "sha256": "63d3077ae82d3aab2ff5c57bc0667f493c22ddb0b026d8f27cc622ed338c312a",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E01.jpg",
+      "sha256": "7c6442b31e0ee29517aec7d8b6b8257e41ce24e42857b651c9378a91525d25f7",
+      "publishedHistory": true
+    },
+    {
+      "file": "contact-sheets/E02.jpg",
+      "sha256": "b7ade0bc0ef09356c5e227be9096c420c28c91f4cf623e0c7971d4924b9a0e35",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E03.jpg",
+      "sha256": "626a7b53905be0819fdd3d48e990e3dba216ef797abeefc38f0760afe7441862",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E04.jpg",
+      "sha256": "e0e2705a986a7ab9a0a9d1d54f548cb046ac0bf4e1fcd463244fd70f4ea914a9",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E05.jpg",
+      "sha256": "c96da2c85fd34eb2f6bb5423ccda808d75f7593b6c615734e9e7a111b68849bf",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E06.jpg",
+      "sha256": "0cdfc1e118f14fdefdeaca95d1006083777e26fa3089fa351e92c40d161083ab",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E07.jpg",
+      "sha256": "9cff8fe352c2e1ac8bdfe2879f207403c9f08c63209805e534e750ca27fdce85",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E08.jpg",
+      "sha256": "23234e00bcf8e92a32bc34a351832263373cad1728e43f5ff3c5a4fc3ef4585a",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E09.jpg",
+      "sha256": "390982f1b89612f4851ad4b352779fe1ff680b83c04b42a9339d95b5fd4321e4",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/E10.jpg",
+      "sha256": "1ad3b3f822f205cf43504d9a96ba90acd67a9bfb137615bb22f5b117646f90c9",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N01.jpg",
+      "sha256": "e7ed1b33982a422514810e6d3d0d38d715a14a267ce9c64014c7f5090e633de2",
+      "publishedHistory": true
+    },
+    {
+      "file": "contact-sheets/N02.jpg",
+      "sha256": "a117f00d5bc6ab4cafd1793bdcb85ea115767ab382e591904ce858ee75cb880b",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N03.jpg",
+      "sha256": "c88f540c39253abca642827b06c4854fb48f83f150544bb28a8876f062669570",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N04.jpg",
+      "sha256": "9100339f1b50c458b6209da2e296ccae6671a87f9b8a0baa5d5784d4ea32a240",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N05.jpg",
+      "sha256": "911f881851160bae28517b25eb3c589c2afa0c5a83f15089425bfca2bd3abf3a",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N06.jpg",
+      "sha256": "0294bd96aea757001789ad65226ab46dee2961b2dfd836f814c63956c485a9ce",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N07.jpg",
+      "sha256": "ced0fe6216226fd6210eac9f31b1eb4b19cbd1b0220242f0062778a73f280aa2",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N08.jpg",
+      "sha256": "89bb013f30545ae4ddd7c1d511c98e78a9808b37c4b34483d9c590e3bb118d6c",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N09.jpg",
+      "sha256": "6d2cef3c1ed5f6476d6b204dc3aab8ae2c442798ae8f6a65f58fc3dc575445b0",
+      "publishedHistory": false
+    },
+    {
+      "file": "contact-sheets/N10.jpg",
+      "sha256": "ab910a61f71bf35899f8bc6f217fe88d578b9f804387b938889f2f545783b0ad",
+      "publishedHistory": false
+    }
+  ],
   "layoutIssues": 0,
   "textCollisions": 0,
   "authoredTextContrastFailures": 0,
   "missingImages": 0,
-  "renderPageErrors": 0,
-  "screenshotBriefs": 10,
-  "productCaptureFiles": 33,
-  "layoutKinds": {
-    "flow": 25,
-    "compare": 34,
-    "lanes": 8,
-    "check": 15,
-    "allowance": 1,
-    "allowancebars": 1,
-    "nftscope": 1,
-    "record": 27,
-    "shot": 10,
-    "room": 1,
-    "branch": 9,
-    "stack": 7,
-    "contribution": 1,
-    "backup": 1,
-    "cashflow": 1,
-    "verify": 1,
-    "isolation": 1,
-    "bridge": 1,
-    "packet": 5,
-    "vesting": 1,
-    "reserves": 1,
-    "hedge": 1,
-    "receiptmatch": 1,
-    "communityday": 1,
-    "assessment": 1,
-    "gasformula": 1,
-    "gaslimit": 1,
-    "approvalroute": 1,
-    "agenda": 1,
-    "taskboard": 1,
-    "oraclepath": 1,
-    "valuation": 1,
-    "decimal": 1,
-    "sources": 1,
-    "claimsheet": 1,
-    "reviewloop": 1,
-    "proxy": 1,
-    "bypass": 1,
-    "overlap": 1,
-    "multisig": 1,
-    "module": 1,
-    "availability": 1,
-    "paymentrecord": 1,
-    "nohistory": 1,
-    "mint": 1,
-    "ata": 1,
-    "atomic": 1,
-    "outreach": 1,
-    "consent": 1
+  "minimumAuthoredBodyMasterPx": 44,
+  "minimumAuthoredBodyAt390Px": 14.3,
+  "sourceCoverage": {
+    "mastersWithGenuineAssets": 156,
+    "historicalAggregateCharts": 6,
+    "uniqueUsedSourceAssets": 146,
+    "exactSourceHashesVerified": 146,
+    "exactPixelCropsVerified": 54,
+    "originalQuestionPixelMatches": 15,
+    "lessonParagraphPixelMatches": 5,
+    "sourceKinds": [
+      "citizenship-capture",
+      "city-photograph",
+      "native-country-flag",
+      "event-poster",
+      "question-capture",
+      "tool-capture",
+      "event-organizer-capture",
+      "event-location-photograph",
+      "lesson-capture"
+    ]
   },
-  "contactSheets": 30,
-  "mobilePreviewSheets": 5,
+  "sourceProof": [
+    {
+      "file": "assets/revision/crops/citizenship-sao-tome-and-principe-contribution-price.png",
+      "sha256": "05e1b5827a1b42fd93023aae9fb6a45c450ee9034bfcc4e70c70909337761ebf",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-sao-tome-and-principe-contribution.png",
+      "originalHash": "988e5f20b4bc6f346a9224f002d412e8d1b616231bc3836efa9309aca68c39fe",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-turkiye-property-price.png",
+      "sha256": "aaec8cf7022d4d9334a151ece8b5240855889f06e88cdd4f2b791f15fcb57575",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-turkiye-property.png",
+      "originalHash": "2707b604fb0d20193c6f3b548d50acba69a286d44391225b0c175b4a6516f758",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-dominica-contribution-price.png",
+      "sha256": "edfdfcbe83a259e09c40011a46ee920620b96b286440704df47f673a87d42c86",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-dominica-contribution.png",
+      "originalHash": "b5b911df90f6a01e4dd4220c795a3f103b60f84f5e24652da6d5c5635fe2d322",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-antigua-and-barbuda-contribution-price.png",
+      "sha256": "eb6bb31bc7f3bda980a85aaa103614db09387fbca0db61a37c50a87a73225a23",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-antigua-and-barbuda-contribution.png",
+      "originalHash": "e234b1901bfe9383ee7667300e86676608b4495d638dccedebca64e7b64e0bce",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-grenada-contribution-price.png",
+      "sha256": "b7465e1cd7864ed5657baf7a58bbd878a12fc721fe47b74991375558ba3eafd0",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-grenada-contribution.png",
+      "originalHash": "38d42147955660c3cd60966fccdd054717ff1e694409aaa85cf835d56fda97dd",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-saint-lucia-contribution-price.png",
+      "sha256": "36481e8107ddbbf50522ceb152a89ab2a04538e8f43cb57d341963e021b3be40",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-saint-lucia-contribution.png",
+      "originalHash": "56fd7b8d31274325caf660fdb381c56976d0d61850014fa3eb56a838df752bef",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-saint-kitts-and-nevis-contribution-price.png",
+      "sha256": "0e4ca5b14c07f4dfd68bfcd88319aaa10ef5e9e6138e61cfcee2fa8e5d69a90a",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-saint-kitts-and-nevis-contribution.png",
+      "originalHash": "96f6aca5bcade6cc91b588e0c821e8fb11633b3db96ab243351a80655d3232e1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-nauru-contribution-price.png",
+      "sha256": "586ced683bc14e029f474d83b8bebb3962d2b1bf148f2294f3cd3fd574839002",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-nauru-contribution.png",
+      "originalHash": "265f47c6a24346d061f896fa69e9ebd0ad9da7970e440a55b710f89165cf1c3b",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-egypt-contribution-price.png",
+      "sha256": "0e4ca5b14c07f4dfd68bfcd88319aaa10ef5e9e6138e61cfcee2fa8e5d69a90a",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-egypt-contribution.png",
+      "originalHash": "b5f8301722684704e323358c8f8ba50970fa48d9724ede22aa58369a5e4c3c52",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-jordan-business-price.png",
+      "sha256": "0b4d68ac3381712016a8c9c6bd32e4f9e84f1b8186b69280e87d71d12f06edd3",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-jordan-business.png",
+      "originalHash": "b9f54ecc9ab5ad626a4e886da87034c2812985be4cc0853bd1249264fc4a7ddc",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/photos/batumi.webp",
+      "sha256": "277f024e2344c0a25202aefd58deb9b7ebfbd0cc345439ad342b2c685d9da7ec",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/batumi-33f9b086a4ae565b-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/da-nang.webp",
+      "sha256": "f057a1179a46a50d4aa1ff1d19b147f46e7323017bbc9a9fbed65ae63066efa3",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/da-nang-9879a8344b9b8085-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/tirana.webp",
+      "sha256": "6e3100babf08899ddd5650936d01644481802eb0696d923fbefe799fc710e51e",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/tirana-391f6c316cc74fee-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/accra.webp",
+      "sha256": "e0f26272b922fa996e2688b879d86195d56c0984a19acf28651b7913d48b992a",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/accra-34a9f5ef60c73224-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/merida.webp",
+      "sha256": "42964985c6da2d53d46c6106fd3e4990403257a4abedbdc3f10518e02ab9cb2e",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/merida-203779e1d882b296-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/kuala-lumpur.webp",
+      "sha256": "23c6f23f115dabba9344f56a180b766f6497a2db57fe48a9a13cba20585ab577",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/kuala-lumpur-236adaff7567263d-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/bangkok.webp",
+      "sha256": "92bbe165f7302ef68b603915fb815cea75d7f36ad95ce739008d46038f7e058d",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/bangkok-bbedeaa10e2ee13b-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/KZ.png",
+      "sha256": "52d3e5e0bc000ec626c0364a75a9f859f13b015c169faa8f20d7c25b1b69ba3f",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/manila.webp",
+      "sha256": "8ae243b32dcd69badcc6675bec2a8a4cfb00f3756d63d2d9200ef4f6a6d15c2c",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/manila-3db547613b69456b-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/MU.png",
+      "sha256": "55a5e05c7744331465642b4a467b76ebf22c95f0fc8e07219f22af93e0061987",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/osaka.webp",
+      "sha256": "006cace374013fa9b701d7f54c96c6e96c99a50aa361453d26e5853aa8c09ece",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/osaka-bbc9f1c10442777b-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/CR.png",
+      "sha256": "bec986fcf75b5ce6b717ac79b5d65fb2f2c744b6c56dc48ac906d7bab1634492",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/BB.png",
+      "sha256": "2ce073860614d472559ca6cb3dcaafe07c7126b351c6397eacb397b84b33fec5",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/premier-devcon-2026.webp",
+      "sha256": "90366ce62e7f92c8a4f912026b7759b7027ac8f55ce8656b5793c6777dca2552",
+      "kind": "event-poster",
+      "originalFile": "public/events/premier-devcon-2026-3cd5a51d.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/discovery-evt-Cf2DX1IsDlCw6ND.webp",
+      "sha256": "6b3848e6374e7dc5a55dfa540c2cb121d30a5884173d05fa663838852b61ff84",
+      "kind": "event-poster",
+      "originalFile": "public/events/discovery-evt-fcjhbklpkjjhs08-0f48898e.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/curated-w3node-conference-hackathon-2026-11-12.webp",
+      "sha256": "bf78d0878af10a1ecd03cac74033ebff040ae633539fae67ae20ff973ac30647",
+      "kind": "event-poster",
+      "originalFile": "public/events/curated-w3node-conference-hackathon-2026-11-12-c31ee7b8.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/premier-breakpoint-2026.webp",
+      "sha256": "811f9dcba47dfdb8da6461e40a1d4b7f8f282d69a45b03d930dd1cf7cb3d07ae",
+      "kind": "event-poster",
+      "originalFile": "public/events/premier-breakpoint-2026-5a195862.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/premier-auscryptocon-2026.webp",
+      "sha256": "5b139f2e05f41bfc42aece45dbbdb4369f85295589055b2ffbd56cb1208be3f0",
+      "kind": "event-poster",
+      "originalFile": "public/events/premier-auscryptocon-2026-256f4e02.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/C07-04-AUD-I-02.png",
+      "sha256": "9858ebcf4ebed18255f21194d8f0fb3a269da9d91260276290c86cba2ddfbacb",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/C07-02-AUD-F-02.png",
+      "sha256": "a7bcf7955cf1dbb56fd05e1e66c92317a3d64ac43bf718da4e0c960c32987fd6",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/C07-03-AUD-I-01.png",
+      "sha256": "7daef28205e63082257704b05b13e42bc9a016064da76d551c23f7b78b795eee",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/C07-05-AUD-A-02.png",
+      "sha256": "26db930fbcca06d0f5df0ef8c3fde65c4a2d9e84570a0ca4e48b234a332eb71b",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/C07-06-AUD-E-02.png",
+      "sha256": "ba0118bcdbe2a5d49dbc6f2fb198b3eeaf350961c4338f54a23d0a3e8037f5f9",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-builder-role-01.png",
+      "sha256": "f40044e2f321ee1cda725ad95dd38e886d107b72e80ccad1958577d33f112983",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-analyst-role-01.png",
+      "sha256": "48ff72f8d94949cba8b26acdb9ff88e41d8824934befd87a47a529dd7f696732",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-weaver-role-01.png",
+      "sha256": "1b1846647b9412ef98f2456c7c987465df199602b3043864ef54511e2fec64a9",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-analyst-role-02.png",
+      "sha256": "016ea527371c0e3d5ffa81be5e0ba2935d340a79a8a1160f6c5db90389b13883",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-analyst-role-03.png",
+      "sha256": "95d816ba92b5d7639ab1faa14d2935e47c267c9bf6715f2ff58acc203644792d",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-technical-project-before.png",
+      "sha256": "bc69c08b85c4696799647aceb8914bc260a7dd44edc977c2aff02b7d79f24fd7",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-technical-project-after.png",
+      "sha256": "2bc08752c80d16341194725bda31a7bd68856ea7f6579545973adef2e2219eb0",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-community-project-before.png",
+      "sha256": "3ae366006f02507dc2f25f856291d595e25e7d7165be4f2ac619b4215cef4226",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-community-project-after.png",
+      "sha256": "666a354e23f1b86aa18801a0633d62f5f8e44118c6fd0c1047a4d137d532829c",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-content-project-before.png",
+      "sha256": "4aa746fdba3dbb5a58aae491025e40b10158a671b03c6cf9e43cf3a1d44e146e",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-content-project-after.png",
+      "sha256": "6c4c4802eb8a1a3749d5575d782ec8a10f5bb7c0a32245276485bdf726b420ab",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/RESUME-technical-summary-text.png",
+      "sha256": "4149d7022d61f55033d8205dc06d2288aa358a22e0aebacf82385fa211cd76ae",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/RESUME-technical-summary.png",
+      "originalHash": "d791dcfdea02a8619c63efec1501dbbadc208bbab0391c6eea96aac7bb07229d",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/RESUME-community-summary-text.png",
+      "sha256": "93c476b271678d04450d6bf08d24791da5e1cecca6940ad201e8dd1386e9517a",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/RESUME-community-summary.png",
+      "originalHash": "371a75ea992771932a094cba2f975875c279525c969614d7c5896e013beac7d7",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/RESUME-content-summary-text.png",
+      "sha256": "a31d2fa10fadc2ca17e78109296ecfbc02be3a58b2fa21f232874362b29d2930",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/RESUME-content-summary.png",
+      "originalHash": "6678e34467d4283e345ae0f847af608df04010e81b69de11492ee9a15adc4004",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-egypt-deposit-price.png",
+      "sha256": "5ad9a66ca54f1458b39733a66e6cf427737ba643c0d0ee1cee3993f56243b4d3",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-egypt-deposit.png",
+      "originalHash": "f51b376629e3c4f6b430e0b36d445ae5ccc86e435737661eaca01c327be23060",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-saint-lucia-bonds-price.png",
+      "sha256": "8cafc1b27000bcd1a09d56aabf7df081e765881e516a0983661cbb683cb41bca",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-saint-lucia-bonds.png",
+      "originalHash": "27523001e687213d50adc22fa00b87f4da434f5304dd108395def1646de1e707",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-contract-controls-role.png",
+      "sha256": "d931e11a7fb35e786db33cf39eeca3272166c260c1f2948be324a068e2b26f60",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-contract-controls.png",
+      "originalHash": "1e3604c2086d37e1db315b79d8b58ce70c78cf542f73401a4f3d4f2057e32be1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-contract-result-value.png",
+      "sha256": "10d09edd6068062b6df7bd14821692c436c5f4890fa1b325fe5863481e7e1944",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-contract-result.png",
+      "originalHash": "63bfcfe263a39d33f47d9497974eacfc10c262eaeea399d4c88635cb8219b92b",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-auditor-controls-role.png",
+      "sha256": "35c5965a9000d5dce5a8c0052fa4eea846c4ad3eeaf87fbee02b4353db7d99cd",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-auditor-controls.png",
+      "originalHash": "869669e40a0f23faacc56c1305a3590099bf6ca6b13530400e5b4728b8506ffe",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-auditor-result-value.png",
+      "sha256": "bbfa81a8794f687f6b929792a0afac353a2c5c88ecc40141778d04b260f2e6ea",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-auditor-result.png",
+      "originalHash": "bf2a518b48367b74ed0cf683e00ad0ed0be2d75872f0e2bf1f7757ed2893605b",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-product-controls-role.png",
+      "sha256": "c9f19e8097a5d22414a3b99346415bb8b46957ff4b6535973f9032dad7e8831f",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-product-controls.png",
+      "originalHash": "f82c33c61b5cc7a451c9072b182db49b4ca94f838dcd00f51a6e7686a5bcc88a",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-product-result-value.png",
+      "sha256": "ec98a65c5e9404b987aead75f68c172ff4492a80b53218fbcd185845beb401dc",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-product-result.png",
+      "originalHash": "ce35b2c85923dc1d9b10a236a4ff46ec6f277526365447e062812cc805fee403",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-writer-controls-role.png",
+      "sha256": "5a082d15274e39fdc9e3c338bfe48e2a65a3d25948ed27aa1d4e41dae1348ebb",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-writer-controls.png",
+      "originalHash": "79e4d0dd4ae5eb500e10b67a2eee7c642c05fa1c556773483311ebfac80577c0",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-writer-result-value.png",
+      "sha256": "7e290dcbe4f07dd55b17a78309ab2eb26859d9e2a7beeda53b248f45de0411d6",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-writer-result.png",
+      "originalHash": "2d8949eb93622e5964ba77ac33db950f56e9d616d85ec0d5c88eaffb73dc7e23",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-community-controls-role.png",
+      "sha256": "0f538a843dcf5143c42ff3d5fce5e92a0dac4d0259ebee6155f357fb7db6001a",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-community-controls.png",
+      "originalHash": "9adb421e61999f619626c845b72e249e38528be38c4f153091e9a958923a623f",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-community-result-value.png",
+      "sha256": "442f8b1ba84dc93188ec4476fdc8bbbc43965d47e12f7fecb4654e7d710233b7",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-community-result.png",
+      "originalHash": "a76a47eb64c3c4638627b73972c36dfc2e1214978c251070efe85e8d44fac79f",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-auditor-result-amount.png",
+      "sha256": "ccb9dbc25cd22f72ba6d1499ca420a08c940f662e0a48e9718a386848a91bae0",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-auditor-result.png",
+      "originalHash": "bf2a518b48367b74ed0cf683e00ad0ed0be2d75872f0e2bf1f7757ed2893605b",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-contract-result-amount.png",
+      "sha256": "d5c65b48d0d08abc0f01b3733fbe01cfc579ec4d3964aff1ef6318b78dea8b96",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-contract-result.png",
+      "originalHash": "63bfcfe263a39d33f47d9497974eacfc10c262eaeea399d4c88635cb8219b92b",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-product-result-amount.png",
+      "sha256": "21a76eea379467d97be052e20888ad984f6056eebcf0cebf3e4f3d4a7cbcdbff",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-product-result.png",
+      "originalHash": "ce35b2c85923dc1d9b10a236a4ff46ec6f277526365447e062812cc805fee403",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-writer-result-amount.png",
+      "sha256": "15425bc02f18826373bb879c2ff9cd64b833188c81d76b00bf30aeef4b02471b",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-writer-result.png",
+      "originalHash": "2d8949eb93622e5964ba77ac33db950f56e9d616d85ec0d5c88eaffb73dc7e23",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E02-community-result-amount.png",
+      "sha256": "b297f6c9568c3113c2224e81ebc57840227282abc985301183e5db9a5b19594c",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E02-community-result.png",
+      "originalHash": "a76a47eb64c3c4638627b73972c36dfc2e1214978c251070efe85e8d44fac79f",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-builder-archetype.png",
+      "sha256": "bb9b19b85541a3f71709e55f4e825af22ee758ecb09f4dddc11a8c57f37bde51",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-strategist-archetype.png",
+      "sha256": "5e5a45eb399dc9f2b5031bb24e8c01d1a4b400e2cb3e1c6ca9306b6ebd3ea21c",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-strategist-role-01.png",
+      "sha256": "627e3da11b6cd9cf65b3b0a8222583bfeafcef21ab7712552916ad511dfd99ec",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-analyst-archetype.png",
+      "sha256": "a14633cae78af3e80e9ffac53f9ccf61dcaeb01a472b5e8404c95aec548ab6b4",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-weaver-archetype.png",
+      "sha256": "37c117cdbbdc26509a27ec210ab5f58116bdda14dc3e8196cec600a17c1265df",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-builder-role-02.png",
+      "sha256": "e77d62598209ffc38e3b56a0b121cd54798a935b8874f06f27f11d682d8213ee",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/QUIZ-builder-role-03.png",
+      "sha256": "0365c18d97211b3bec7f3f95eeccb9b89c042af0e6cea1f7928097305762c26f",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/chiang-mai.webp",
+      "sha256": "73f628ebf9ec9e8c5eadb8af697221673d0a578db74bd7d85cadcb27b744a9f4",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/chiang-mai-bd48a0e8cdae109b-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/bangalore.webp",
+      "sha256": "4940594e3071d0224352df91d1acef471204a98a8e5b201e5529707b23f0a48a",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/bangalore-3a538575b7cdfb87-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/siem-reap.webp",
+      "sha256": "1b374527c41e6937af90bfd3599b247cc7fdcfb9e803f085d2b4a6c2432cc372",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/siem-reap-9c732e73d65983d3-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/bali.webp",
+      "sha256": "8c736d28eeb242b7b9ecf95aa6667f23a7b6d9f7d599a51001d994c9fbe239b5",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/bali-3b7c62f8c826c11f-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/playa-del-carmen.webp",
+      "sha256": "e69aa5a5a453425a241b02d14ddf31fc2cfc207fe3fb8f74cdfb4b2cb5ca8361",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/playa-del-carmen-467c9027a822db8f-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/madrid.webp",
+      "sha256": "85c25a92bb1991adf631f035310b9fbcd36ec7e91f51bd351d2fcf534c225946",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/madrid-a9aab77af5f6f090-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/taipei.webp",
+      "sha256": "efb47c3ed0f5dab0c0d5c7de96632855862d3c8c022d21ddb4fcf126ccf682ec",
+      "kind": "city-photograph",
+      "originalFile": "social-assets/knowledge-threads-month/assets/revision/photo-references/taipei.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/singapore.webp",
+      "sha256": "40e91dab7e66bf537937c8dd315f09bd6ae1c57b4cf7828a4fe7b00ba3e262e7",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/singapore-9ef998a759f226d8-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/paris.webp",
+      "sha256": "e942ed0e01431be75658a699851bf592a8930487552f4841f7d43ba92843f784",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/paris-affed25d755cb3de-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/shanghai.webp",
+      "sha256": "35f01a3aeee5611ac2e057b9e0b61c6e524aa2f89dc4af02b838467f5c97aae8",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/shanghai-39a7d76d5c7aea5f-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/johor.webp",
+      "sha256": "99deb34bd8760fee242daef1d41af7284d7cba6683dfa8d71ccee308b42d61c6",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/johor-f6e9c078e5048150-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/santiago.webp",
+      "sha256": "41394843ed0e3f9ada44f092ddafa14da8098133d5f4db085a94bd0f9801929e",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/santiago-b89379c92d8230fc-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/citizenship-dominica-contribution-identity.png",
+      "sha256": "df7d5a4b0fc8d79623bf30fe99b5b52ba3774b2807475f83c2279904b60157a5",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-dominica-contribution.png",
+      "originalHash": "b5b911df90f6a01e4dd4220c795a3f103b60f84f5e24652da6d5c5635fe2d322",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/citizenship-saint-kitts-and-nevis-contribution-identity.png",
+      "sha256": "fec9068a9b2536c7117a269933f4350db28d18c1eab117f36b6765bfd2bde12e",
+      "kind": "citizenship-capture",
+      "originalFile": "assets/revision/detail/citizenship-saint-kitts-and-nevis-contribution.png",
+      "originalHash": "96f6aca5bcade6cc91b588e0c821e8fb11633b3db96ab243351a80655d3232e1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-contract-junior-result-value.png",
+      "sha256": "405cb90c5470416c2c90b42acc496a4cc9822d1c52d263b1b09038ce4bed6fdc",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-contract-junior-result.png",
+      "originalHash": "3afca23f9e9f08def9079f4a50aba905fe3ac0702274d4bd7698173ddc99fe11",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-contract-senior-result-value.png",
+      "sha256": "61989c81d333e043bea4fe4a33f8f6df569cc440c3f5e0de732f027e2525b480",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-contract-senior-result.png",
+      "originalHash": "3540b9036c47632c124981ea54935396d89796bddb1196bd8aa4dace1988a398",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-auditor-junior-result-value.png",
+      "sha256": "0622f96fc46ca09efc593293895c1265e804c39977ee2848c2a2e685d5681c2b",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-auditor-junior-result.png",
+      "originalHash": "6c3e3e4a9324688aeccb8a713be72e4196d0b1b2584065e49f8c930bd7febb3f",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-auditor-senior-result-value.png",
+      "sha256": "50234e19f6513dd1b7f61cdefdcaa3b13dec4c3c5558e7f56350da3689679fea",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-auditor-senior-result.png",
+      "originalHash": "113aa4b4c28ee78d90b86cb0465d4e9d3ccaa5af1a58acd18cd9745000d3d010",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-product-junior-result-value.png",
+      "sha256": "4f9d141835ba81b8c67f0e00326e48c18a2248e005ca2efcde47a003d7c7a18f",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-product-junior-result.png",
+      "originalHash": "1f9091650cd26177e3cbd4e8762e5ee5bec515c7218ee79bde6784018b4c21cc",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-product-senior-result-value.png",
+      "sha256": "6d28dce50a17084d5c1b6ec34c8cf9ca179d3c1db9e0bce1ccabb0b269d39446",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-product-senior-result.png",
+      "originalHash": "18eaef6a01b14d778be921bb1d82d820def652495a5e452d6f1c061d3203a78c",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-writer-junior-result-value.png",
+      "sha256": "f372ae9a30310c698af69391fe40afa940bf98fe0108e65b1eaf603ea84c9a5d",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-writer-junior-result.png",
+      "originalHash": "bc7f9c8535023090287cc13fed9a71ad483920ce7dc81850693bd1113c2c88af",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-writer-senior-result-value.png",
+      "sha256": "3904583b442458b4a87a9e9fa71dbe038501e1c4cf8f70f1c8220cffcea76d23",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-writer-senior-result.png",
+      "originalHash": "edeff0ec19f519a738387e17d3cec3e3d11ab9b19308ec52c5dc64079a666881",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-community-junior-result-value.png",
+      "sha256": "8c7dd6ef13bcfe7d1bbb3d9fd9b70939517ab3b063fa8bc6d5cff1aca783f9cc",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-community-junior-result.png",
+      "originalHash": "b64f3074eb25b3e38675a5bf9786ea8ed2aaa2b66d8185245eec437d6b4a0911",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-community-senior-result-value.png",
+      "sha256": "521e1a1511a54ae2c6f69752eb790191264a3c40ca2ad255170689f8753221f0",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-community-senior-result.png",
+      "originalHash": "60eac58602e79b68abb20f7fc66b74d70b77283ef2ca793b5de79351b2828fe1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-auditor-junior-result-amount.png",
+      "sha256": "d9d998944cda7078ad5d880bd67173a0447ccd11d67e25fe10215b8537c9a5f3",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-auditor-junior-result.png",
+      "originalHash": "6c3e3e4a9324688aeccb8a713be72e4196d0b1b2584065e49f8c930bd7febb3f",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-auditor-senior-result-amount.png",
+      "sha256": "7601dc5bccef7199680c45c06c6b00ebf9c9c1ce359e64c395540a34d496262b",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-auditor-senior-result.png",
+      "originalHash": "113aa4b4c28ee78d90b86cb0465d4e9d3ccaa5af1a58acd18cd9745000d3d010",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-community-junior-result-amount.png",
+      "sha256": "e1f8333a20ce8cfb833dda7111c862a5e1fa8654db9f5797b1111f6b8377c1fb",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-community-junior-result.png",
+      "originalHash": "b64f3074eb25b3e38675a5bf9786ea8ed2aaa2b66d8185245eec437d6b4a0911",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/E07-community-senior-result-amount.png",
+      "sha256": "d6f33439fdfa9da48fe7d4b00b09faee83559ff3b00cad89f493edb35dcf4f82",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/E07-community-senior-result.png",
+      "originalHash": "60eac58602e79b68abb20f7fc66b74d70b77283ef2ca793b5de79351b2828fe1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/photos/lagos.webp",
+      "sha256": "02d102dec4cdf6f84bf4841a32ba9daadf9dd00bbcc90ff91e57b4a15939a96f",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/lagos-e89ca2518beab8a4-720.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/cartagena.webp",
+      "sha256": "a2878f245dc715cf7b5901b09cec27816970d35c5ec60999819687aa2f20aa5c",
+      "kind": "city-photograph",
+      "originalFile": "social-assets/knowledge-threads-month/assets/revision/photo-references/cartagena.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/ho-chi-minh-city.webp",
+      "sha256": "db875b1e147706629e2ef4281c999861a8f8f2031dcf40cb5f6f204164ea8872",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/ho-chi-minh-city-e0aea997e55377a4-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/kathmandu.webp",
+      "sha256": "460f1b464d0025a83a85b2c8edf33f4ce2cc57a8079a972a3561d7a4e761e911",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/kathmandu-8fc645fe50006d19-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/BT.png",
+      "sha256": "e9a78fa289cdb9412ad88cff57983c62c708b8b8d43615556f7fd62fce9f0b01",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/flags/MV.png",
+      "sha256": "812a4857c0908c188d8f1b9f2fdcb50bf5b76f01c6cbd9d081126a9ca1fc8d1f",
+      "kind": "native-country-flag",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/prague.webp",
+      "sha256": "5298f17f54499a97dc54494ad553a7942a7812e41156a1656e56cfea79b43b3c",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/prague-224cbdb7a45afc52-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/budapest.webp",
+      "sha256": "0cd14f54ad29ca892d8e797fe3b6bef06603f0077e299cda1c8d63d65f6bb72c",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/budapest-bfd8afd63f6d6a6c-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/porto.webp",
+      "sha256": "394cde1634eaf5a7fc785c296c4e8b8252a53548eb04c53df07011e2a0e9f053",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/porto-21962e0aca290438-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N03-04-SOL-F-04.png",
+      "sha256": "ebba68cbc444d8cf57993657c1f62f32af9fdf41cc91b6820d8f6d7ab348ad53",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N03-02-SOL-F-01.png",
+      "sha256": "c1394041ed1e0f42265f06ed3ef92badbd605a7c02cdc8a2edad8d87d68552fe",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N03-03-SOL-F-02.png",
+      "sha256": "1a43d7a05b9c31d560139abe7502e55790ae7ea22a4d3b9d7a898729211f3d15",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N03-05-SOL-I-02.png",
+      "sha256": "fda4cd515f231cfb72a71dd5d42e7cf7c6133846a82eb8846d677f1b8b9c617b",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N03-06-SOL-I-03.png",
+      "sha256": "cb673a46aa7aa046593b6cc69220751a4936882989dbb83ab17cead1dfbe8c8a",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N04-03-FE-F-02.png",
+      "sha256": "ac414b2b7509850019430d7a5edcc4a25714ce9ceedd1e211c31ea7596a76684",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N04-02-FE-F-01.png",
+      "sha256": "409d328d5045e27b3fe4f3843f33c70439186f900812fb104b4ba6bff626e4a6",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N04-04-FE-I-01.png",
+      "sha256": "233ce425c2c849ed538b7fdf2716b8d2e6b9ad3d433069d369b1d090cda26268",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N04-05-FE-A-01.png",
+      "sha256": "320d312ba4a51ee4cf0383ced3aceb9e225bcce135be72739c5d9daa37b62520",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/N04-06-FE-E-01.png",
+      "sha256": "0cf58e017574291186b1fae35e35faeb41ced7047dbc8b6c7b0fbb620b68ffc6",
+      "kind": "question-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/RESUME-junior-summary.png",
+      "sha256": "ceae02743582d7f2dcbb6dff12a1953bfde7bbf06247f2f9c5d11fe7c305e1aa",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/RESUME-junior-project-name-role.png",
+      "sha256": "fb4842fc10b4a1e41ff6be0212c4d8abb1e754896a11bd6afa12402510f83389",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/RESUME-junior-fields-after.png",
+      "originalHash": "9d5eeca9263b3992fc7ae21cb526bd4ce2e105fc58780334277d3705e4842f09",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/tools/RESUME-junior-project-after.png",
+      "sha256": "3da4478df245708d8600ca94df53c762463d376d4a4e22633b137f8629193044",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/RESUME-junior-project-link.png",
+      "sha256": "90f545096d37a7b3efeae9b5e09d6a3bbddc34831909663cd655b1fa78c0a871",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/RESUME-junior-fields-after.png",
+      "originalHash": "9d5eeca9263b3992fc7ae21cb526bd4ce2e105fc58780334277d3705e4842f09",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/tools/RESUME-junior-skills.png",
+      "sha256": "b399575fbbac540132dda0aefb1b82729f8dcfc5bc53dba515b2abbd698530d8",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/bansko.webp",
+      "sha256": "741a94aa7a7bc09ee802bd33ed15aac56cbf54aa768750d409a590a30a315db1",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/bansko-d464520a884efaa5-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/krakow.webp",
+      "sha256": "6439fc731466f730f0ce9c1c2e1f1c72f269deb55545ca07c22434351ccc265d",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/krakow-ccb75aacf2447b23-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/vilnius.webp",
+      "sha256": "9f655370ceb3308eaf0ab948a5c15ce6bef1bc3bd80fa41489628d48c160bb91",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/vilnius-9bd5b0a13c3cb6d7-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/tallinn.webp",
+      "sha256": "3df729092bdd4f1f9f830bded8eb9ce03247e79db34722d489826539fdc6c7bb",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/tallinn-9b0e441f706e1c4f-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/toronto.webp",
+      "sha256": "09f0e2a98565a35996de5ac5ec2523cd7aa99a04a7e3bd82962f117a6f127a74",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/toronto-285e4e564d203614-1024.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/photos/london.webp",
+      "sha256": "5d9bb04adf059aa9837e015d2d80f7b73c7a2de63c7862a8966a8da9b68043ba",
+      "kind": "city-photograph",
+      "originalFile": "public/images/nomads/display/london-43d896d4f6f25540-800.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/consensus-hong-kong-2027.png",
+      "sha256": "832eabf0b485240090ef723c0e09d2cbccfe9659b7edff3c0545fad7b905ce48",
+      "kind": "event-organizer-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/premier-ethcc-2027.webp",
+      "sha256": "ccbdd5c5064dd26abe2f90e3e1ac9e5a6234e0eb88e784ca93e6b0eb5ac2dca9",
+      "kind": "event-location-photograph",
+      "originalFile": "public/events/ethcc.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/premier-token2049-dubai-2027.webp",
+      "sha256": "3a103d9bdfe644362bcf75a7ea7823391a1663bc643c2ecdc21d7f00ad7fb8e5",
+      "kind": "event-poster",
+      "originalFile": "public/events/premier-token2049-dubai-2027-f2a31610.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/ma-dutch-blockchain-week-2027.webp",
+      "sha256": "774bd0312f0fe4be7a4ca1d4b94d84b156b071bc0243c3ad4fb920027fb4458b",
+      "kind": "event-poster",
+      "originalFile": "public/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/posters/luma-host-evt-evt-r6tADv4L8KdncKD.webp",
+      "sha256": "29add0aac8f3c3163a1ab965d5ec82df51e383ba38bf7e941215d84c510c6fd8",
+      "kind": "event-poster",
+      "originalFile": "public/events/luma-host-evt-evt-r6tadv4l8kdnckd-d350f029.webp",
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/N09-01-library-excerpt.png",
+      "sha256": "3adf67ba9ad33e29c3c97b6b7ed1ba1771aff948009713db8476044eacca79ea",
+      "kind": "lesson-capture",
+      "originalFile": "assets/revision/learning/N09-01-library.png",
+      "originalHash": "c81af43c55a8ad4b222fed10755224a41e282be7940dbdd9cfa25990820b3a7d",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/detail/lesson-wallet.png",
+      "sha256": "7e60292efca2736910201a3469ea0a0944e09e7e612febf5ad555210a0d03a24",
+      "kind": "lesson-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/lesson-lending.png",
+      "sha256": "b92c9a0849b18fecb5cdfac738e31fb8030837d221b64d012e93b5a666992395",
+      "kind": "lesson-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/N09-04-transfer-excerpt.png",
+      "sha256": "6c08344e8832b215d6ad01930b290e5ed62dff181df3c2b24cc282037771263b",
+      "kind": "lesson-capture",
+      "originalFile": "assets/revision/learning/N09-04-transfer-code.png",
+      "originalHash": "0d00b546498bb1fdcd6ed00ce541492c8c6a2151a2fbda2a793e7b56f567e1a1",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/detail/lesson-growth.png",
+      "sha256": "4acb11c0eed8e0f445cd375ccaf6b67831aa280b4d5fb120c3281bad69914e75",
+      "kind": "lesson-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/detail/lesson-agents.png",
+      "sha256": "dd43efad37a540232ab62b76e74a93d4f33dcaccbc01191cb7ff5c8b70c97eed",
+      "kind": "lesson-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/tools/INVOICE-sample-header-dates.png",
+      "sha256": "93f441276f35e68556e4bf7052198527a607f81c5a7e3b01e0fbf649152feff2",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    },
+    {
+      "file": "assets/revision/crops/INVOICE-sample-first-row.png",
+      "sha256": "23b9cb91a301f5eb7b1fc0747b22b8005ae8afdff6686fc9b6320ad40c684c5c",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/INVOICE-sample-items-totals.png",
+      "originalHash": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/INVOICE-sample-subtotal.png",
+      "sha256": "c1557ee7dcff1f10af65224f676665d3e647ef6e0f4a6beff0b9528e4d097b89",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/INVOICE-sample-items-totals.png",
+      "originalHash": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/INVOICE-sample-tax-discount.png",
+      "sha256": "afd48facd6a34ad3c112d55c1f790b93824c8370cc86fdbb69c699feefaa1548",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/INVOICE-sample-item-fields.png",
+      "originalHash": "c486417e358b277748e34333df5578619a2051cf0bca38bf1e5139d2a54b4c79",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/crops/INVOICE-sample-totals.png",
+      "sha256": "375a89b1b19535d5d34052192c482be39a3b031df0732b68d15be6621222a79c",
+      "kind": "tool-capture",
+      "originalFile": "assets/revision/tools/INVOICE-sample-items-totals.png",
+      "originalHash": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
+      "exactCropPixels": true
+    },
+    {
+      "file": "assets/revision/detail/invoice-notes-readable.png",
+      "sha256": "1d84cfe4e4e059a65321fc59b751c21312c1981b9152ad6948f37fc15ab4be83",
+      "kind": "tool-capture",
+      "originalFile": null,
+      "originalHash": null,
+      "exactCropPixels": false
+    }
+  ],
+  "visualKinds": {
+    "genuine-citizenship-crop-and-comparison": 18,
+    "genuine-salary-results": 12,
+    "authored-historical-aggregate": 6,
+    "city-photo-ranking": 6,
+    "city-photo-metrics": 25,
+    "real-quiz-and-practice-caption": 9,
+    "actual-quiz-role-list": 2,
+    "real-question-and-authored-answer": 18,
+    "country-photo-and-rule-summary": 18,
+    "native-flag-and-rule-summary": 6,
+    "city-photo-comparison": 5,
+    "genuine-resume-example": 12,
+    "event-poster-index": 2,
+    "event-poster-and-facts": 10,
+    "actual-quiz-role-comparison": 1,
+    "real-lesson-and-authored-summary": 6,
+    "genuine-invoice-example": 6
+  },
   "gallery": {
     "viewports": [
       {
         "width": 360,
         "scrollWidth": 360,
-        "gridColumns": "328px",
-        "brokenImages": 0
+        "brokenLoadedImages": 0,
+        "postColumns": "none"
       },
       {
         "width": 390,
         "scrollWidth": 390,
-        "gridColumns": "358px",
-        "brokenImages": 0
+        "brokenLoadedImages": 0,
+        "postColumns": "none"
       },
       {
         "width": 768,
         "scrollWidth": 768,
-        "gridColumns": "340px 340px",
-        "brokenImages": 0
+        "brokenLoadedImages": 0,
+        "postColumns": "390px 322px"
       },
       {
         "width": 1440,
         "scrollWidth": 1440,
-        "gridColumns": "442.656px 442.672px 442.656px",
-        "brokenImages": 0
+        "brokenLoadedImages": 0,
+        "postColumns": "390px 994px"
       }
     ],
+    "exactPostTexts": 180,
+    "publicationDates": 180,
     "threadAnchors": 30,
     "masterLinks": 180,
     "contactSheetLinks": 30,
-    "descriptionToggles": 180,
+    "sourceDescriptionToggles": 180,
+    "publishedHistoryThreads": 3,
     "keyboardControls": true,
-    "mobileModeWidth": 390,
+    "reviewImageWidth": 390,
+    "expandedMobileSources": true,
     "emptyState": true,
-    "errorState": true
+    "errorState": true,
+    "normalPageErrors": 0,
+    "normalConsoleErrors": 0
   },
-  "altTextMaxCharacters": 501
+  "altTextMaxCharacters": 719,
+  "screenshots": [
+    "assets/revision/gallery-desktop.png",
+    "assets/revision/gallery-mobile.png"
+  ]
 }

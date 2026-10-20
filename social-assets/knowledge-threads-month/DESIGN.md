@@ -25,3 +25,21 @@ Reading this as: educational social sequences for Web3 professionals, beginners 
 ## Production boundary
 
 `content.json` and `SOURCES.md` belong to the editorial owner. The visual generator reads the manuscript without rewriting it. All visual files stay in this directory. Asset provenance is in `assets/source-credits.json` and `assets/capture-credits.json`. `image-manifest.json` maps each master to its source post and accessible description.
+
+## October 20 replacement batch
+
+The final practical whole-site manuscript replaces the future 27 threads. C01, E01 and N01 are published history. Their images, manifest entries and contact sheets remain frozen. The decisions above describe the original production; the following decisions govern the replacement renderer.
+
+Reading this as: practical evidence-led social sequences for Web3 professionals and remote workers, using the existing black/ivory Hashtag Web3 identity. ENERGY 2 / RHYTHM 3 / MOTION 1. Antislop applies during implementation.
+
+- Real results lead. Salary, career quiz, resume, invoice, citizenship, interview and lesson panels use genuine captured pixels. Source captions distinguish local app renders from live public captures.
+- A screenshot is never reconstructed as HTML. Contiguous detail crops retain the original pixels, with parent hashes and extraction coordinates in the manifest. Separate examples, arithmetic and answer summaries are visibly authored.
+- The layout follows its source: stacked salary scenarios, full-width photo ranking rows, paired city photos, before/after resume excerpts, original questions above answer summaries, and contained event artwork.
+- The existing Inter and wordmark provide continuity. Green identifies the scope or key comparison; black answer panels separate authored explanations from white source excerpts. No decorative window chrome, blank worksheets or placeholder controls are used.
+- Main authored text is at least 44 px on the master, equivalent to 14.3 px at 390 px wide. Dense source previews use readable excerpts; complete original previews remain linked in the gallery.
+- City photographs illustrate places, not price offers or measured connections. Costs remain estimates, safety/walkability remain site ratings, broadband is dated 2026 Q1, and monthly climate references are not forecasts.
+- Country flags are native emoji images for identification, not passport mockups. Entry-rule graphics identify the passport and purpose, preserve material conditions, and label photos as illustration rather than rule screenshots.
+- Event artwork uses `contain`. The runtime's Consensus 2027 image visibly contained 2026 dates, so a genuine live organizer 2027 date-panel capture replaces that source in this campaign only.
+- The gallery puts actual post text and calendar dates beside every image. The 27 future threads appear first; the three frozen threads are explicitly labeled published history. Narrow screens stack image and text.
+
+Current production records: `assets/revision/source-credits.json`, `assets/revision/capture-credits.json`, `assets/render-checks.json`, and `assets/revision/validation.json`. Reproduction commands and reviewed exceptions are in `REVISION.md`.

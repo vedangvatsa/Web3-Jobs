@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "taipei",
+    "sourceUrl": "https://www.travel.taipei/en/attraction/details/564",
+    "imageUrl": "https://www.travel.taipei/content/images/attractions/222129/1024x768_attractions-image-fjck6hgjre6acqcp2mhcqq.jpg",
+    "credit": "Taipei City Department of Information and Tourism, Travel Taipei; Xiangshan / Elephant Mountain photograph",
+    "reason": "The mapped Taipei image visibly shows Hotel Gracery and Godzilla in Tokyo, with Japanese street signs.",
+    "file": "assets/revision/photo-references/taipei.webp",
+    "sha256": "efb47c3ed0f5dab0c0d5c7de96632855862d3c8c022d21ddb4fcf126ccf682ec",
+    "width": 1024,
+    "height": 683,
+    "originalFile": "assets/revision/photo-references/taipei-original.jpg",
+    "downloadSha256": "fcadd90bc226d45aa39dfda529a32d83c784a1fdda767f83fafe3347cefa9e5a",
+    "fetchedAt": "2026-10-20T16:43:33.887Z",
+    "transform": "EXIF orientation, maximum width 1200, no enlargement, WebP quality 92",
+    "replacesDirectoryPhoto": {
+      "file": "public/images/nomads/display/taipei-937ad4e895c096ee-800.webp",
+      "sha256": "2e5182de858b59bfc7c0ca6e449707eb5ba0d0bf77887f73592dbac07fe0dd2d",
+      "reason": "The mapped Taipei image visibly shows Hotel Gracery and Godzilla in Tokyo, with Japanese street signs."
+    }
+  },
+  {
+    "slug": "cartagena",
+    "sourceUrl": "https://colombia.travel/en/cartagena",
+    "imageUrl": "https://colombia.travel/sites/default/files/actividades/Cartagena-82-Foto-ProColombia.jpg",
+    "credit": "Photo: ProColombia, Colombia Travel, Cartagena historic center",
+    "reason": "The mapped Cartagena image is a close-up of wooden boats without identifiable Cartagena context. Replaced with the official Cartagena historic-center photograph.",
+    "file": "assets/revision/photo-references/cartagena.webp",
+    "sha256": "a2878f245dc715cf7b5901b09cec27816970d35c5ec60999819687aa2f20aa5c",
+    "width": 1128,
+    "height": 627,
+    "originalFile": "assets/revision/photo-references/cartagena-original.jpg",
+    "downloadSha256": "21ca0258cf6a6ed1dfe1d34509d21385253535a1cc5dc95d9cf73f1333173b1c",
+    "fetchedAt": "2026-10-20T16:43:34.507Z",
+    "transform": "EXIF orientation, maximum width 1200, no enlargement, WebP quality 92",
+    "replacesDirectoryPhoto": {
+      "file": "public/images/nomads/display/cartagena-b83824da6ad3396a-800.webp",
+      "sha256": "74f64a272aa9f6008980075a5dfae61d33a26e38c1264d88e85f65b73d594602",
+      "reason": "The mapped Cartagena image is a close-up of wooden boats without identifiable Cartagena context. Replaced with the official Cartagena historic-center photograph."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "poster-premier-consensus-hk-2027",
+    "file": "assets/revision/detail/consensus-hong-kong-2027.png",
+    "kind": "event-organizer-capture",
+    "eventId": "premier-consensus-hk-2027",
+    "sourceUrl": "https://consensus-hongkong.coindesk.com/",
+    "sourceRevision": "response-sha256:ef036bc53ca9d3b787aa640594180849651be6aa64266e4c731b4521ace5e78d",
+    "capturedAt": "2026-10-20T16:20:30.796Z",
+    "sha256": "832eabf0b485240090ef723c0e09d2cbccfe9659b7edff3c0545fad7b905ce48",
+    "width": 440,
+    "height": 314,
+    "bytes": 33451,
+    "visibleText": "Feb 1-3, 2027\nHong Kong Convention &\nExhibition Centre\nExplore the exhibition from Feb 2-3, 2027",
+    "cssWidth": 220,
+    "cssHeight": 157,
+    "deviceScaleFactor": 2,
+    "provenance": "Live organizer page; genuine unretouched contiguous hero/date-panel screenshot. No DOM or stylesheet edits.",
+    "credit": "CoinDesk Consensus Hong Kong official 2027 page",
+    "replacesRuntimeCover": {
+      "file": "public/events/premier-consensus-hk-2027-90fdb900.webp",
+      "reason": "Runtime ID says 2027 but the image visibly says Feb 10-12, 2026. Original left untouched."
+    },
+    "fit": "contain"
+  }
+]

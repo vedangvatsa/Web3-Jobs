@@ -1,0 +1,20 @@
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const main=document.querySelector('main'),status=document.querySelector('#status');
+document.querySelector('.mode').addEventListener('click',event=>{const active=event.currentTarget.getAttribute('aria-pressed')!=='true';event.currentTarget.setAttribute('aria-pressed',String(active));document.body.classList.toggle('review390',active)});
+try {
+  const [manifest,content,calendar]=await Promise.all(['image-manifest.json','content.json','calendar.json'].map(async file=>{const response=await fetch(file);if(!response.ok)throw Error(file);return response.json()}));
+  if(!manifest.images.length){status.textContent='No rendered images are listed yet.';}else{
+    document.querySelector('#schedule').textContent=`Scheduled slot: ${calendar.timeUTC} UTC / ${calendar.timeIST} IST. Dates are from calendar.json.`;
+    const ordered=[...content.threads.filter(t=>t.sequence>3).sort((a,b)=>a.sequence-b.sequence),...content.threads.filter(t=>t.sequence<=3).sort((a,b)=>a.sequence-b.sequence)];
+    document.querySelector('#thread-links').innerHTML=ordered.map(t=>`<a href="#${t.id}">${esc(calendar.dates.find(d=>d.id===t.id).date)} · ${t.id} · ${esc(t.title)}${t.sequence<=3?' (published history)':''}</a>`).join('');
+    main.innerHTML=ordered.map(thread=>{
+      const date=calendar.dates.find(d=>d.id===thread.id).date,history=thread.sequence<=3;
+      return `${thread.sequence===1?'<div class="history-heading" id="published-history"><h2>Published history</h2><p>The first three threads below are preserved byte-for-byte, including their original image descriptions and contact sheets.</p></div>':''}<section class="thread${history?' history':''}" id="${thread.id}"><header class="thread-head"><p class="date">${history?'Published history':'Scheduled publication'} · <time datetime="${date}">${date}</time> · ${thread.id}</p><h2>${esc(thread.title)}</h2><a class="sheet" href="contact-sheets/${thread.id}.jpg">Open six-image contact sheet</a></header><div class="grid">${thread.posts.map(post=>{
+        const image=manifest.images.find(i=>i.threadId===thread.id&&i.postNumber===post.number);if(!image)throw Error(`Missing image ${thread.id}/${post.number}`);
+        const assets=[...(image.sourceAssets||image.assetPaths.map(file=>({file}))),...(image.referenceAssets||[])];
+        return `<figure class="post-card" data-post-id="${thread.id}-${post.number}"><a href="${image.path}" aria-label="Open full-resolution ${thread.id} image ${post.number}"><img src="${image.path}" width="1200" height="1500" loading="lazy" alt="${esc(image.alt)}"></a><figcaption><h3>${thread.id} · Post ${post.number}/6</h3><p class="date">${date}${history?' · Published history':''}</p><p class="post-text">${esc(post.text)}</p>${post.linkPath?`<a class="post-link" href="${esc(content.siteOrigin+post.linkPath)}">${esc(content.siteOrigin+post.linkPath)}</a>`:''}<a class="master" href="${image.path}">1200 × 1500 JPEG · ${Math.round(image.bytes/1024)} KB</a><details><summary>Sources and image description</summary><p class="alt">${esc(image.alt)}</p><p>${esc(image.actualHeading?'Rendered heading: '+image.actualHeading:'Preserved original image')}</p><ul class="asset-list">${assets.map(a=>`<li><a class="source-link" href="${esc(a.file)}">${esc(a.file.split('/').at(-1))}</a>${a.kind?`<br>${esc(a.kind)}`:''}${a.provenance?`<br>${esc(a.provenance)}`:''}${a.derivedFrom?`<br><a href="${esc(a.derivedFrom)}">Uncropped source image</a>`:''}${a.sha256?`<br>SHA-256: ${esc(a.sha256)}`:''}</li>`).join('')}</ul><ul class="source-list">${image.sourceUrls.map(url=>`<li><a href="${esc(url)}">${esc(url)}</a></li>`).join('')}</ul></details></figcaption></figure>`;
+      }).join('')}</div></section>`;
+    }).join('');
+    document.documentElement.dataset.ready='true';
+  }
+}catch(error){status.textContent='The image manifest could not load. Serve this folder over local HTTP and reload.';console.error(error);}

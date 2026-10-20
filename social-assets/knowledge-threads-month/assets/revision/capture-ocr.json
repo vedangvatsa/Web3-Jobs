@@ -1,0 +1,166 @@
+{
+  "checkedAt": "2026-10-20T17:24:24.894Z",
+  "normalization": "Case/punctuation ignored; isolated OCR Ul normalized to UI (capital I/lowercase l glyph ambiguity). Full question and paragraph wording otherwise matched.",
+  "captures": [
+    {
+      "id": "N03-02-SOL-F-01",
+      "file": "assets/revision/detail/N03-02-SOL-F-01.png",
+      "sha256": "c1394041ed1e0f42265f06ed3ef92badbd605a7c02cdc8a2edad8d87d68552fe",
+      "expected": "What is the difference between `storage`, `memory`, and `calldata` in Solidity?",
+      "recovered": "SOL-F-01 Foundation Knowledge\nWhat is the difference between ‘storage’,\n“memory, and ‘calldata’ in Solidity?\n",
+      "matched": true
+    },
+    {
+      "id": "N03-03-SOL-F-02",
+      "file": "assets/revision/detail/N03-03-SOL-F-02.png",
+      "sha256": "1a43d7a05b9c31d560139abe7502e55790ae7ea22a4d3b9d7a898729211f3d15",
+      "expected": "What is a function modifier and can you provide a simple example?",
+      "recovered": "SOL-F-02 Foundation Knowledge\nWhat is a function modifier and can you\nprovide a simple example?\n",
+      "matched": true
+    },
+    {
+      "id": "N03-04-SOL-F-04",
+      "file": "assets/revision/detail/N03-04-SOL-F-04.png",
+      "sha256": "ebba68cbc444d8cf57993657c1f62f32af9fdf41cc91b6820d8f6d7ab348ad53",
+      "expected": "What is the purpose of `view` and `pure` functions?",
+      "recovered": "SOL-F-04 Foundation Knowledge\nWhat is the purpose of ‘view’ and ‘pure’\nfunctions?\n",
+      "matched": true
+    },
+    {
+      "id": "N03-05-SOL-I-02",
+      "file": "assets/revision/detail/N03-05-SOL-I-02.png",
+      "sha256": "fda4cd515f231cfb72a71dd5d42e7cf7c6133846a82eb8846d677f1b8b9c617b",
+      "expected": "What is an upgradeability proxy pattern, and how does `delegatecall` enable it?",
+      "recovered": "SOL-I-02 Intermediate Architecture\nWhat is an upgradeability proxy pattern, and\nhow does ‘delegatecall’ enable it?\n",
+      "matched": true
+    },
+    {
+      "id": "N03-06-SOL-I-03",
+      "file": "assets/revision/detail/N03-06-SOL-I-03.png",
+      "sha256": "cb673a46aa7aa046593b6cc69220751a4936882989dbb83ab17cead1dfbe8c8a",
+      "expected": "When packing structs for gas efficiency, how should you order the variables? Give an example.",
+      "recovered": "SOL-I-03 Intermediate Gas Optimization\nWhen packing structs for gas efficiency, how\nshould you order the variables? Give an\nexample.\n",
+      "matched": true
+    },
+    {
+      "id": "N04-02-FE-F-01",
+      "file": "assets/revision/detail/N04-02-FE-F-01.png",
+      "sha256": "409d328d5045e27b3fe4f3843f33c70439186f900812fb104b4ba6bff626e4a6",
+      "expected": "What is a\"provider\" in Ethers.js or Viem and what is its role?",
+      "recovered": "FE-F-@1 Foundation Knowledge\nWhat is a\"provider\" in Ethers.js or Viem and\nwhat is its role?\n",
+      "matched": true
+    },
+    {
+      "id": "N04-03-FE-F-02",
+      "file": "assets/revision/detail/N04-03-FE-F-02.png",
+      "sha256": "ac414b2b7509850019430d7a5edcc4a25714ce9ceedd1e211c31ea7596a76684",
+      "expected": "How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?",
+      "recovered": "FE-F-02 Foundation Practical\nHow do you format a number from a ‘uint256°\nvalue, like an ERC-20 token balance, for display\nin a Ul?\n",
+      "matched": true
+    },
+    {
+      "id": "N04-04-FE-I-01",
+      "file": "assets/revision/detail/N04-04-FE-I-01.png",
+      "sha256": "233ce425c2c849ed538b7fdf2716b8d2e6b9ad3d433069d369b1d090cda26268",
+      "expected": "A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?",
+      "recovered": "FE-I-01 Intermediate Practical\nA user reports their transaction is\"stuck\" as\npending. What are the possible causes and\nhow could you handle this in the UI?\n",
+      "matched": true
+    },
+    {
+      "id": "N04-05-FE-A-01",
+      "file": "assets/revision/detail/N04-05-FE-A-01.png",
+      "sha256": "320d312ba4a51ee4cf0383ced3aceb9e225bcce135be72739c5d9daa37b62520",
+      "expected": "How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?",
+      "recovered": "FE-A-@1 Advanced Architecture\nHow would you design a frontend to display a\nuser's entire NFT collection, including images\nand metadata, across multiple contracts?\n",
+      "matched": true
+    },
+    {
+      "id": "N04-06-FE-E-01",
+      "file": "assets/revision/detail/N04-06-FE-E-01.png",
+      "sha256": "0cf58e017574291186b1fae35e35faeb41ced7047dbc8b6c7b0fbb620b68ffc6",
+      "expected": "You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`.",
+      "recovered": "FE-E-01 Expert Design\nYou are building a dApp that requires users to\nsign messages for off-chain actions (e.g.,\nvoting, placing orders on an off-chain order\nbook). Describe the EIP-712 standard and\nexplain why it is superior to signing a simple\nstring with ‘personal_sign’.\n",
+      "matched": true
+    },
+    {
+      "id": "C07-03-AUD-I-01",
+      "file": "assets/revision/detail/C07-03-AUD-I-01.png",
+      "sha256": "7daef28205e63082257704b05b13e42bc9a016064da76d551c23f7b78b795eee",
+      "expected": "You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?",
+      "recovered": "AUD-I-01 Intermediate Debugging\nYou are auditing a simple staking contract.\nWhat is the first thing you check for regarding\nthe ERC-20 token being staked?\n",
+      "matched": true
+    },
+    {
+      "id": "C07-04-AUD-I-02",
+      "file": "assets/revision/detail/C07-04-AUD-I-02.png",
+      "sha256": "9858ebcf4ebed18255f21194d8f0fb3a269da9d91260276290c86cba2ddfbacb",
+      "expected": "What is a signature replay attack and how can it be prevented?",
+      "recovered": "AUD-I-02 Intermediate Knowledge\nWhat is a signature replay attack and how can\nit be prevented?\n",
+      "matched": true
+    },
+    {
+      "id": "C07-05-AUD-A-02",
+      "file": "assets/revision/detail/C07-05-AUD-A-02.png",
+      "sha256": "26db930fbcca06d0f5df0ef8c3fde65c4a2d9e84570a0ca4e48b234a332eb71b",
+      "expected": "What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it.",
+      "recovered": "AUD-A-02 Advanced Practical\nWhat is fuzzing (or property-based testing) in\nthe context of smart contracts? Name a tool\nused for it.\n",
+      "matched": true
+    },
+    {
+      "id": "C07-06-AUD-E-02",
+      "file": "assets/revision/detail/C07-06-AUD-E-02.png",
+      "sha256": "ba0118bcdbe2a5d49dbc6f2fb198b3eeaf350961c4338f54a23d0a3e8037f5f9",
+      "expected": "Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas.",
+      "recovered": "AUD-E-02 Expert Architecture\nDescribe how\"unbounded loops\" in view\nfunctions can become a vector for a Denial of\nService (DoS) attack, even if they don't\nconsume transaction gas.\n",
+      "matched": true
+    },
+    {
+      "id": "lesson-wallet",
+      "file": "assets/revision/detail/lesson-wallet.png",
+      "sha256": "7e60292efca2736910201a3469ea0a0944e09e7e612febf5ad555210a0d03a24",
+      "expected": "In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity.",
+      "recovered": "In a self-custodial wallet, you control the\nkeys or account permissions. Custodial\nservices manage those controls on your\nbehalf. A signature proves control of an\naccount, not a person's legal identity.\n",
+      "matched": true
+    },
+    {
+      "id": "lesson-lending",
+      "file": "assets/revision/detail/lesson-lending.png",
+      "sha256": "b92c9a0849b18fecb5cdfac738e31fb8030837d221b64d012e93b5a666992395",
+      "expected": "A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters.",
+      "recovered": "A collateralized position generally needs\ncollateral worth more than the borrowed\namount. The permitted loan-to-value ratio\ndepends on the asset, market, and\nconfigured risk parameters.\n",
+      "matched": true
+    },
+    {
+      "id": "lesson-testing",
+      "file": "assets/revision/detail/lesson-testing.png",
+      "sha256": "0f410a68eb19ecd16a0d0525d282ec0968d1ecaab0a42fd814b3c7bc6c1a60a6",
+      "expected": "Tests check a contract's behavior before and after changes. Include permissions, accounting, external calls, and failure cases, especially where a defect could affect user assets.",
+      "recovered": "Tests check a contract's behavior before\nand after changes. Include permissions,\naccounting, external calls, and failure\ncases, especially where a defect could\naffect user assets.\n",
+      "matched": true
+    },
+    {
+      "id": "lesson-growth",
+      "file": "assets/revision/detail/lesson-growth.png",
+      "sha256": "4acb11c0eed8e0f445cd375ccaf6b67831aa280b4d5fb120c3281bad69914e75",
+      "expected": "Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit.",
+      "recovered": "Define what each dataset measures:\naccounts, addresses, transactions,\nsessions, or people. Avoid combining\nthese as though they were the same unit.\n",
+      "matched": true
+    },
+    {
+      "id": "lesson-agents",
+      "file": "assets/revision/detail/lesson-agents.png",
+      "sha256": "dd43efad37a540232ab62b76e74a93d4f33dcaccbc01191cb7ff5c8b70c97eed",
+      "expected": "Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access.",
+      "recovered": "Choose permissions per action. Reading a\nbalance, drafting a transaction, and\nsigning a transfer should not automatically\nreceive the same level of access.\n",
+      "matched": true
+    },
+    {
+      "id": "C07-02-AUD-F-02",
+      "file": "assets/revision/detail/C07-02-AUD-F-02.png",
+      "sha256": "a7bcf7955cf1dbb56fd05e1e66c92317a3d64ac43bf718da4e0c960c32987fd6",
+      "expected": "What is\"slither\" and what kind of issues can it find?",
+      "recovered": "AUD-F-02 Foundation Knowledge\nWhat is\"slither\" and what kind of issues can it\nfind?\n",
+      "matched": true
+    }
+  ]
+}

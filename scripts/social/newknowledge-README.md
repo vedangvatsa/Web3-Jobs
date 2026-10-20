@@ -26,7 +26,19 @@ node scripts/social/newknowledge.mjs --mode=validate
 
 The first validation checks all text, canonical links and calendar entries. The last command also requires all 180 JPEGs. Files are inferred from `images/<thread-ID>-01.jpg` through `-06.jpg`; the publisher does not depend on an image-manifest schema. Alt text uses a post's `alt` when available, otherwise its visual headline and labels.
 
-Actual vacancy records and specific vacancy URLs are rejected. The allowed `/jobs` destination is a general discovery page. Educational links come from an explicit evergreen page allowlist.
+Actual vacancy records and specific vacancy URLs are rejected. The allowed `/jobs` destination is a general discovery page; dated aggregate country counts do not advertise individual vacancies. Educational links come from an explicit resource-page allowlist, including salary, quiz, learning and event pages.
+
+## October 20 content revision
+
+The 27 unclaimed dates from October 21 through November 16 now use practical comparisons, worked examples and real tool/source screenshots across the website. The three earlier dates, their manuscripts, images and receipts remain unchanged.
+
+Topics include citizenship thresholds and fees; passport-specific visa-free entry; digital-nomad visas; city budgets, safety, broadband and climate; historical remote-work country counts; salary-calculator estimates; actual career-quiz archetypes; interview questions with answers; learning paths; practice resumes and invoices; and confirmed event dates.
+
+`social-assets/knowledge-threads-month/MANUSCRIPT.md` is the reading copy. The preview gallery shows actual post text, dates, images and citations. Run its `render-revision.mjs --serve --port=3103` command to open the review at `http://127.0.0.1:3103/preview.html`. Source captures and scenario inputs are retained under `assets/revision/`; `validate.mjs` checks current manifests and the frozen prefix rather than the superseded whole-manuscript hash.
+
+Salary figures are explicitly model estimates, city metrics retain their reference period, and invented resume/invoice inputs are labeled practice examples. Publication alt text matches the finished image descriptions.
+
+Event threads declare reviewed identities, local calendar dates and material details in `freshness`. Preflight and publication check the selected thread against the current event catalog before any provider mutation. Missing, ended, cancelled, postponed, private, closed or materially changed events stop that thread. These checks do not block unrelated topic dates or read-only receipt reconciliation.
 
 ## Read-only preflight after review and push
 

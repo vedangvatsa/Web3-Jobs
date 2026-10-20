@@ -73,7 +73,7 @@ jobs:
         id: plan
         run: node scripts/social/newknowledge-plan.mjs
       - name: Test date, receipt and provider safeguards offline
-        run: node --test scripts/social/platform-links.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-state.test.mjs scripts/social/newknowledge-publisher.test.mjs scripts/social/newknowledge-workflow.test.mjs
+        run: node --test scripts/social/platform-links.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-resources.test.mjs scripts/social/newknowledge-state.test.mjs scripts/social/newknowledge-publisher.test.mjs scripts/social/newknowledge-workflow.test.mjs
       - name: Install image validation dependencies
         if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
         run: npm ci --no-audit --no-fund

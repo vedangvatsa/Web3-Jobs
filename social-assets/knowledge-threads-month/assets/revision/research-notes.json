@@ -1,0 +1,324 @@
+[
+  {
+    "checkedAt": "2026-10-20",
+    "threadIds": [
+      "C02",
+      "C04",
+      "C05",
+      "E06",
+      "N07",
+      "E09",
+      "C10"
+    ],
+    "researchNotes": [
+      "Authored only the seven assigned IDs. Calendar mapping retained: C02 2026-10-21/4, C04 2026-10-27/10, C05 2026-10-30/13, E06 2026-11-03/17, N07 2026-11-07/21, E09 2026-11-12/26, C10 2026-11-14/28. Post text is original editorial copy; source claims also cover visual facts.",
+      "Read root AGENTS.md, topic-plan.json, calendar.json, content/citizenship.json, the formatted 71-entry reference visa file, entry-policies.json, entry-factchecks.json, passport-rules.json and passport compilation/source helpers. Official reviewed policies supersede the older reference matrix. Reference entries alone were not used to establish eligibility.",
+      "Citizenship baseline was checked October 12; all ten countries used in C02 were independently re-opened October 20. Live route/application pages support active availability: Dominica, Antigua and Barbuda, Grenada, Saint Lucia, Saint Kitts and Nevis, Turkiye, Sao Tome and Principe, Nauru, Egypt and Jordan. This is a selected ten, not the full directory. Austria/Malta discretionary routes and Argentina intake-unverified announcement were excluded.",
+      "C02 Jordan is an existing-business qualification with three audited years and employment tests, not a purchase of citizenship for JOD 350,000 in cash. JOD is never converted to or combined with USD. Temporary Jordanian passports and property residency are separate routes.",
+      "Nauru regular USD 115,000 is explicit in the August brochure; the USD 90,000 offer is temporary. Website says filed prior to December 31, 2026, brochure says received by that date. Copy uses the stricter before wording. Brochure prose and fee table differ on dependant age wording; no dependant contribution is quoted in these threads.",
+      "Grenada family-base exclusions are retained. USD 270,000 is per share of a qualifying tourism unit jointly purchased by at least two investors, not every approved-property purchase. Statute's five-year resale rule is tied to the next CBI applicant. Developer equity requirements are 6% for a defined Grenadian developer and 20% otherwise; developer due diligence figures in the 2025 amendment are not applicant fees. The baseline records IMA FAQ USD 6,000 due diligence versus detailed table USD 5,000 plus USD 1,000 interview; this conflict was not promoted into a new all-in fee example.",
+      "Saint Lucia's 2026 USD 350,000 financial-resources affidavit is an eligibility test, not an extra payment. The March 2026 regulations distinguish new built-property investment at USD 500,000 from older approved-project property. E06 uses the verified bond alternative rather than conflating those property categories or assuming new-project intake.",
+      "Fresh Thailand correction: current scheme effective September 15, 2026 is 30 days for Indian and US ordinary passports, with two exemption entries per calendar year in embassy guidance. Both passport rows were visually verified in the original government notice, saved as legal-thailand-official.jpg. The notice's yellow column describes reciprocal privileges for Thai travellers and must not be read backwards. TDAC is an arrival declaration, not a visa.",
+      "Malaysia Indian exemption is 30 days until December 31, 2026. The September 22, 2026 High Commission advisory was image-only; the original was saved as legal-malaysia-advisory.pdf and visually read. It supplies return ticket, accommodation, minimum six-month passport and MDAC guidance. These tourist permissions do not authorize employment.",
+      "Kazakhstan's current MFA table supplies the 14-day Indian ordinary-passport limit; the London embassy supplies 42 days within 180. The official content API was needed because the public article shell requires JavaScript. No other nationality's regime was inferred from the older London article.",
+      "Philippines 14-day ordinary Indian entry remains separate from the conditional AJACSSUK 30-day route. Singapore mission also explicitly requires a transit visa for transit-only Indian travel. The post preserves that exception instead of treating an onward ticket as proof of transit eligibility.",
+      "Mauritius is visa-free for Indian passports in the destination's country-wise table. Its official tourist ceiling is case-by-case six months in a calendar year, with each visit's duration set by the officer. No universal 60-day arrival visa was copied from commercial/reference summaries.",
+      "C05 covers five actual named routes, including permits where that is the legal form: Thailand DTV, Malaysia DE Rantau Professional Visit Pass, Japan Designated Activities Digital Nomad, Costa Rica remote-worker Estancia, Barbados Welcome Stamp. No tourist visa is presented as a remote-work permission and no tax benefit or approval timeframe is asserted.",
+      "Thailand DTV London instructions changed September 2026: permanent-residence proof and criminal clearance, alongside work evidence and funds. Washington independently requests three months of bank statements and FBI clearance within three months; that Washington-specific detail is not generalized worldwide. Both missions preserve THB 500,000, but their converted foreign-currency examples differ, so only THB is used.",
+      "Malaysia DE Rantau FAQ v10 (August 28, 2026) gives minimum USD 24,000 tech / USD 60,000 non-tech in section A, while some section B sentences use a strict greater-than sign. Copy uses the published minimum table; applicants exactly at the boundary need MDEC confirmation. Contracts must already have started three months before submission. Foreign employees and freelancers have different client/employer rules. Pass covers Peninsular Malaysia and Labuan, not a general right to reside/work in Sabah or Sarawak. All nationalities except Israel; main applicant over 18; passport more than 14 months on submission. Section E contradicts the reference library's blanket tax-free wording, which is omitted.",
+      "Costa Rica fresh discrepancy: official landing page says USD 5,000/month for families, but detailed application and renewal requirements both say USD 4,000. Used the operational requirements, documented the conflict, and retained previous-year evidence, foreign service recipient, full-stay insurance and 80-day renewal condition. The linked immigration regulation PDF encountered a verification challenge; no claim is attributed to a successfully read regulation PDF.",
+      "Estonia excluded from C05 after primary pages disagreed: government e-Residency marketing page says EUR 4,500 net/month; MFA D-visa page says EUR 132/day (EUR 3,960/month) with three months' income evidence. Linked consolidated regulation could not be read. No unsupported reconciliation or outdated six-month income-evidence claim was published. Source URLs are recorded in coverageLimitations.",
+      "Japan's principal-applicant nationality list includes the US and excludes India; accompanying spouse/child list is different. Avoided the reference library's fixed count of 49 eligible nationalities. Income and medical cover are two distinct JPY 10 million thresholds.",
+      "N07 fresh conditions: Taiwan BOCA currently says arrival card within seven days, and US passports only need validity for intended stay. Canada exempts US nationals from both visa and eTA. UK ETA is currently GBP 20; it is explicitly distinguished from an eVisa and from completely paperwork-free entry.",
+      "E09 destinations are Nepal, Bhutan, Maldives, Indonesia and Vietnam, distinct from C04's Malaysia, Thailand, Kazakhstan, Philippines and Mauritius. Bhutan's INR 6,000 is arithmetic for five inland adult nights of SDF, not a trip price. Nepal passport/voter-ID and Aadhaar distinction retained. Maldives is classified as arrival visa even though no pre-approval is needed; IMUGA is a separate declaration. Indonesia's 90-day e-VOA use-by period is not a 90-day stay.",
+      "Fee arithmetic is for one main applicant: Dominica 200000+1000+7500+500+1000=210000 USD; Antigua and Barbuda 230000+10000+8500+300=248800 USD; Sao Tome and Principe 90000+5000+750=95750 USD; Saint Lucia bonds 300000+50000+2000+8000=360000 USD; Egypt deposit 500000+10000=510000 USD. Professional/transaction/unlisted costs are excluded; sponsored Sao Tome applications add benefactor due diligence. No citizenship approval, investment return, USD deposit repayment or general refundability is promised.",
+      "Anti-slop was applied during drafting as requested: named countries, concrete amounts/durations/documents, one scope-setting hook and five answer posts, no generic wisdom or caution-only closing post. The referenced antislop skill files were not present in available skill directories; no configuration or skill installation was performed.",
+      "Visual instructions require genuine official/site captures, with editorial comparisons clearly outside the captured page. The two original official image/PDF evidence files are available locally. Chrome DevTools capture was unavailable because Google Chrome stable was not installed; authoring did not create simulated UI or claim screenshots had been rendered."
+    ],
+    "coverageLimitations": [
+      "Verification date is October 20, 2026; scheduled dates extend through November 14. Rules with explicit expiry dates retain those dates. Live source pages may change between research and scheduled use.",
+      "Post copy is a practical route comparison, not a complete application checklist. Sources preserve nationality, jurisdiction, dependants, document and discretionary-admission exceptions. Investment thresholds do not establish individual eligibility or guarantee citizenship.",
+      "The refreshed Maldives Immigration tourist page does not state a numerical initial stay; it supports visa-on-arrival and document conditions only. E09 therefore makes no unsupported 30-day claim. Its actual issued permission controls the visit. Nepal's retrieved Indian-national guidance likewise supplies no numerical stay cap. Bhutan's permit dates are not replaced with the general visa FAQ's 90-day ceiling.",
+      "Costa Rica's landing and operational pages disagree on family income. Detailed requirements and renewal both support USD 4,000; the landing-page USD 5,000 is excluded and the discrepancy remains visible in the research notes. No tax claim is based on promotional text.",
+      "Estonia primary-source conflict retained for future research: https://www.e-resident.gov.ee/nomadvisa/ says EUR 4,500 net/month; https://www.vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa says EUR 132/day (EUR 3,960/month). Both fetched October 20. Linked https://www.riigiteataja.ee/en/eli/509042026005/consolide returned a JavaScript shell/404 through proxy. Estonia is not one of the five published C05 examples.",
+      "Egypt direct official connections failed; the Cabinet Unit's original Arabic pages were read using a text-fetch proxy. Source URLs point to the authority, with retrieval method stated. Nauru, Grenada, Japan nationality and Saint Lucia regulation PDFs were likewise parsed via a text-fetch proxy where needed.",
+      "Azerbaijan ASAN country eligibility, Cambodia eVisa pages, several Maldives mission pages, Brazil's attempted London route, and Albania/Mexico candidate sources were inaccessible or failed to supply usable current evidence. Those candidate claims were not used. Croatia's reference URL redirected to its homepage; it was not treated as visa evidence.",
+      "Country images and finished thread graphics are a parent-rendering task. Only legal-thailand-official.jpg and legal-malaysia-advisory.pdf are original downloaded authority evidence; other briefs request genuine captures and do not claim existing image assets. All authored output and supporting evidence remain under the ignored research cache."
+    ]
+  },
+  {
+    "checkedAt": "2026-10-20",
+    "threadIds": [
+      "E02",
+      "E03",
+      "N05",
+      "E07",
+      "C08",
+      "C09",
+      "N10"
+    ],
+    "researchNotes": [
+      "Scope: seven authored research threads only. Dates and sequence come from social-assets/knowledge-threads-month/calendar.json: E02 2026-10-22 sequence 5; E03 2026-10-25 sequence 8; N05 2026-11-01 sequence 15; E07 2026-11-06 sequence 20; C08 2026-11-08 sequence 22; C09 2026-11-11 sequence 25; N10 2026-11-16 sequence 30. All seven topics are categorized career to match their new subject rather than the old ID prefix.",
+      "E03 factual correction: the topic plan asks for five archetypes, but src/lib/quiz.ts defines exactly four. E03 supplies five genuine role matches across the four actual archetypes, repeating The Builder for contract and frontend work. A fifth archetype would be fabricated.",
+      "Salary implementation: this is a deterministic role-value model. It makes no fetch to a pay dataset, has no observed sample or advertised offer input, and does not calculate tokens, equity, bonuses or benefits. The copy calls the result an annual salary estimate, never a measured market average or total compensation. The internal baseSalaries constant is a starting value, not a measured entry-level base-pay statistic.",
+      "E02 shared salary inputs: experience 2, location north_america (1.15), companyType series_a (1.0), companySize 11_50 (1.0). Experience factor is 1.10. Function order and Math.round(amount / 1000) * 1000 are reproduced exactly. E07 uses the same region, stage and size, with experience 1 or 7. Junior/senior are explicitly illustrative labels; no such category selector exists.",
+      "Salary UI recipe: open Primary Role and choose its uiLabels.role option; the other comboboxes are Location, Company Type and Company Size. Set the years slider with keyboard Home followed by ArrowRight once per year. Changing a slider or select after the form becomes valid updates the live estimate; if a first role selection still shows the placeholder card, move the slider away and back. There is no visible Calculate button.",
+      "Quiz verification: all 65,536 complete A/B combinations were evaluated against the actual exported getResult function. Four maximum-margin example runs below produce the four actual archetypes. The scores object order is builder, strategist, analyst, weaver; the strict greater-than reduction lets the later key win a tie. Selected capture scenarios avoid ties. Numerical totals are source calculations and are not displayed in the result UI.",
+      "Quiz UI recipe: start with a fresh page or Take Assessment Again. For question IDs 1 through 16, click A) or B) according to inputs.answers. The final click reveals the archetype and three recommended role cards. Do not click Share on X. The practice tasks in E03/C08 are separately labeled editorial examples, not personalized outputs or validated personality diagnoses.",
+      "Resume source use: read actual form and preview plus content/articles/10-dos-and-donts-for-web3-resume.md, content/learn/careers/resume.md, content/learn/careers/interviews.md and the relevant interview/resume articles. Use their recommendations for specific actions, tools, failure cases and evidence. No article hiring statistics, invented employment examples, token TVL or performance claims are repeated.",
+      "Resume UI recipe: all named fields in inputs.fields map to actual input or textarea name attributes. Replace every personal-detail default, including optional contact and social fields. Remove the default Professional Experience and Education cards with each card's trash button. Keep one project card and replace all four project fields. Their empty arrays are valid. Preview headings for those empty sections remain visible. For C09, fill the complete after-state, then apply beforeFields to capture the before version and restore the description from fields for the after version.",
+      "All resume names, summaries and bullets are explicitly fictional practice wording. Contact addresses use example.com; repository and social links are empty. No fake employer, institution, certificate, client, employment dates, deployed contract or performance statistic is entered. The artifact proposes wording, not a completed portfolio.",
+      "Invoice UI recipe: replace every text default and clear walletAddress before any capture. Add Item once and fill both named rows. Currency is the real combobox; paymentMethod and notes are text fields. issueDate and dueDate are calendar popovers, not text inputs. Select local calendar dates November 16 and November 30, 2026, then verify their long-form display. Do not use UTC-midnight conversion that could shift a day in a western timezone.",
+      "Invoice assumptions: fictional Sample Freelancer and Sample Client; deliberately nonpostal sample address labels; example.com email addresses; no phone numbers, logo or wallet. Currency USD denotes the invoice. Typed notes state an illustrative agreement to settle USD 750 as 750 USDC on Ethereum mainnet at 1 USD = 1 USDC. This is not an exchange-rate quote or an automatic tool conversion. Tax zero and the flat USD 50 discount are disclosed sample inputs. No payment is sent or requested.",
+      "Sources whose url values are relative paths are app-source or content-source files read from this workspace on 2026-10-20. Public tool routes, the resume advice article, the interview lesson and Circle's chain-support page were also fetched. Exact tool outputs are based on source execution and capture scenarios, not marketing metadata; metadata claims such as AI-powered resumes or live salary benchmarks are not adopted.",
+      "Anti-slop DURING applied from the original repository's .agents/skills/antislop/SKILL.md and antislop-copywriting/SKILL.md, plus AGENTS.md, ARTICLE_STYLE_GUIDE.md and noslop.md. Copy gate: concrete outputs or worked examples in all 42 posts; ASCII punctuation; no invented real-world results; specific canonical tool links in final posts. Visual purpose: screenshots prove the filled controls and output; comparison crops isolate the changed input; example captions distinguish authored practice work from UI output.",
+      "Visual briefs are instructions for parent capture, not supplied screenshots. Use genuine UI crops with sample/model labels and readable text. Do not insert new scores, network selectors, charts, result cards or other controls into the application. No image assets are created by this authoring task.",
+      "Verification helper: .cache/useful-threads-2026-10-20/verify-tools.ts executes the actual salary function extracted through the TypeScript AST, imports the actual quiz function, validates sample resume/invoice inputs against extracted Zod schemas, checks calendar sequence, recursive forbidden keys, ASCII, canonical links and all text limits. Counts include a blank line plus the full canonical URL for the strict 250-character check, and a blank line plus 23 characters for weighted X. Each thread has exactly six posts.",
+      "PASS - final content validation: 7 threads, 42 posts, 24 scenarios; maximum text 247 characters, maximum including two newlines and the full canonical URL 248, maximum weighted X length 247. All links are the four permitted canonical tool paths, used only on post 6. Recursive prohibited-key and ASCII checks pass. Thread sequence matches the calendar.",
+      "PASS - actual UI verification on 2026-10-20: node --import tsx .cache/useful-threads-2026-10-20/verify-tools.ts --browser completed all 24 scenarios against the existing app at http://127.0.0.1:3102 with zero page errors. It verified 15 salary displays, all 4 quiz archetypes and role lists, 4 filled resumes, all 3 before/after pairs, and the invoice's dates, subtotal, discount, total and blank wallet. The junior-resume and invoice PDF downloads succeeded with the expected filenames; temporary downloads were deleted.",
+      "Capture environment: the installed browser used for verification is /Users/vedang/Library/Caches/ms-playwright/chromium-1228/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing. Before capture, allow the site's five-second promotional dialog to appear, then use its real Close button once. This dismissal persists for that browser context. Close each date popover with Escape and wait for it to disappear before opening the other date. The helper uses only real form controls and keyboard/click interactions; it creates no screenshots or substitute UI.",
+      "PASS - anti-slop copy delivery gate: R-02 is supported by the all-ASCII check; R-17/R-36/R-38 by executed model outputs, actual quiz definitions and explicitly labeled fictional practice inputs; R-15/R-16 by specific field/output copy and canonical tool actions. Every post contains a concrete result, worked input, source calculation or example sentence. Quotes in the before/after posts carry the compared wording rather than decorative emphasis. UI-design gates do not apply to this research-only deliverable."
+    ]
+  },
+  {
+    "checkedAt": "2026-10-20",
+    "threadIds": [
+      "N03",
+      "N04",
+      "C07",
+      "N09"
+    ],
+    "researchNotes": [
+      "Calendar mapping from social-assets/knowledge-threads-month/calendar.json: N03 = 2026-10-26, sequence 9; N04 = 2026-10-29, sequence 12; C07 = 2026-11-05, sequence 19; N09 = 2026-11-13, sequence 27. Topic ownership comes from .cache/useful-threads-2026-10-20/topic-plan.json. These research drafts replace the assigned topics, not the calendar's existing titles in place.",
+      "Exactly six posts per thread: one substantive hook plus five question-and-answer or named-course lesson posts. Only post 6 links out. All post text is ASCII, so Unicode code-point count equals X weighted text length before appending a URL. The intended appended URL costs 23 weighted characters plus two newline characters; linked text is capped at 250 code points and the combined total at 280.",
+      "Validation PASS: node --import tsx .cache/useful-threads-2026-10-20/validate-learning.mjs --live checked all four IDs and calendar sequences, 24 posts, 15 interview Q/A posts, five named lesson posts, 40 source records, 26 capture targets, source coverage for every post, exact source-question text, library titles/counts/order, prohibited keys, punctuation, links and text limits. Maximum text length is 253 code points; maximum linked text is 226; maximum total X weight is 253 including any 23-character URL and two newlines.",
+      "Live source verification PASS: all 12 distinct capture routes returned HTTP 200. All 15 selected source IDs and full original questions matched the live interview page's serialized content after decoding its streamed script chunks. All capture selectors were present in fetched HTML, and all selected course/lesson capture headings matched. This establishes source presence, not a completed browser image capture.",
+      "Read the actual live /interview-questions page and src/lib/interview-questions.ts, plus src/app/interview-questions/page.tsx to locate question cards. The fetched text view initially exposes collapsed difficulty headings. Parent capture must open the correct accordion and locate the printed source ID. Question excerpts are shortened without changing the tested concept. Answer summaries are editorial explanations checked against the cited primary references, not verbatim quotations from the site's Ideal Answer.",
+      "Read /learn, all five selected course pages, all five selected lesson pages, content/learn-routes.json, src/lib/learn.ts, content/learn-runtime.json and the corresponding lesson Markdown. Canonical course and lesson paths are flat routes such as /web3-fundamentals and /wallet-basics. Link the thread to the existing /learn root, not an invented /learn module URL.",
+      "N03 context is Solidity 0.8.x on the EVM. memory is per external call frame, calldata is not limited to external function visibility, and transient storage means the three queried locations are not the only EVM data areas. view/pure concerns mutability, not a blanket exemption from gas. Packing advice applies to new compatible layouts; never reorder existing proxy fields merely to save slots. The primary storage guide rejects a universal smallest-to-largest or guaranteed-gas-savings rule.",
+      "N04 uses ethers v6 terminology and top-level formatUnits, not ethers.utils.formatUnits from v5. viem calls its abstractions Public Client and Wallet Client. The bank's 18-decimal USDC example is not reproduced; the post uses an explicitly generic six-decimal token. ERC-20 decimals() is optional, and token identity must include its chain and contract. viem's output '1' should not be mislabeled as ethers v6's '1.0'.",
+      "N04 pending-transaction guidance is for ordinary Ethereum-style account-nonce transactions, not a universal ERC-4337 or cross-chain cancellation mechanism. A same-nonce replacement can lose the race to the original, and fee-bump requirements differ between wallets and nodes. The source bank's claim that a cancellation will invalidate the original is intentionally qualified.",
+      "N04 and C07 distinguish EIP-712 domain separation from application replay protection. EIP-712 explicitly omits replay enforcement. One-use actions need a checked and consumed nonce or equivalent application state; deadlines alone do not prevent reuse. personal_sign is not inherently unreadable, and typed signing does not guarantee phishing resistance.",
+      "C07 avoids the bank's outdated rebasing-token version claim and its flawed same-transaction Uniswap v2 TWAP attack scenario. The selected staking answer states transfer-fee and rebase behavior without naming an unsupported historical token version. A deposit balance delta is useful only for compatible supported tokens and is not complete reentrancy or rebase protection.",
+      "C07's solvency invariant is explicitly for a simple custody vault and is not a universal property of lending, yield, fee-charging or rebasing systems. Fuzzing and invariant campaigns explore finite inputs and states; a passing run is not a proof. Geth RPC caps and timeouts are implementation-configurable, so the answer does not claim all providers share one default.",
+      "N09 teaches selected source material while avoiding unsupported course claims: no guaranteed APY, automatic transaction execution, universal tax result, test-speed claim, human-count inference from wallets, or claim that agents cannot use authorized banking APIs. The 80% LTV calculation is a labeled hypothetical from the lesson source, not a live market parameter. The 100/900 transfer values are raw units from the actual fixed-supply teaching example.",
+      "Visual design read: source-led educational cards for candidates and learners, using real Hashtag Web3 page crops and separately labeled summaries; ENERGY 1 / RHYTHM 2 / MOTION 1, static output. The source crop proves where the question or module lives. Large answer text carries the lesson. Comparisons and code examples vary with the content. Use the site's existing type and accent for identity, with the accent reserved for the decisive distinction and whitespace separating provenance from explanation.",
+      "Parent image specification: use authentic page captures, preferably a 1440px-wide browser at 2x scale, then compose at 1600x1000 or the parent's campaign size. Keep the source question/course title recognizable and all added answer text at least 32px at 1600px width. Keep a 64px safe margin, high-contrast text and a separate Answer summary or Lesson summary label. Test legibility at phone preview size. No generic illustrations, invented dashboards, fake receipts, fabricated test runs, or redrawn screens presented as captures.",
+      "For interview visuals, crop the original badge and question, not the site's full Ideal Answer, because several bank answers need the corrections recorded here. Capture each difficulty group separately: the role accordion is single-open. captureTargets selectors point to stable role containers or course/lesson elements from inspected source; heading text and printed IDs disambiguate the exact capture. Do not invent DOM IDs from the printed question IDs.",
+      "Chrome DevTools capture was unavailable because this environment could not find the Chrome executable. No images were captured in this author/research task. The parent has actual routes, headings, source IDs and image briefs for capture; browser legibility is a later image-production check, not claimed as verified here.",
+      "Anti-slop DURING review: PASS for source-specific hooks, concrete answers, named real modules, explicit version/context caveats, and separately identified arithmetic examples. PASS for avoiding generic preparation advice, decorative illustrations, invented metrics and punctuation prohibited by noslop.md. Image execution and browser checks are not asserted by this JSON research deliverable."
+    ]
+  },
+  {
+    "checkedAt": "2026-10-20",
+    "threadIds": [
+      "N02",
+      "C03",
+      "E04",
+      "E05",
+      "C06",
+      "N06",
+      "E08",
+      "N08",
+      "E10"
+    ],
+    "researchNotes": [
+      {
+        "scope": "City evidence and attribution",
+        "notes": [
+          "Exact city values were reviewed from .cache/useful-threads-2026-10-20/city-table.md, cities.json and data-pack.json against content/nomads/sources.json. Source URLs identify the corresponding public city pages; the cached structured records support ratings and upload figures that are not always visible in a page's text rendering.",
+          "On October 20, all 31 visually referenced city pages plus the Phnom Penh and Las Palmas comparison-reference pages returned HTTP 200. Each public page's displayed monthly budget, fixed-broadband download and 2026-Q1 period matched the cached record. The public /nomads page was also fetched and confirms a 100-entry directory.",
+          "Directory provenance: source repository https://github.com/vedangvatsa/PDFtoWebsite, commit d639e9d202ae625527d5c2000a01135629438910; imported 2026-10-02; general reference period June 2026. Internet records explicitly use 2026-Q1, rendered as 2026 Q1 in copy. Broadband attribution is https://github.com/teamookla/ookla-open-data. The exact metric aggregation and climate averaging years are not independently established here.",
+          "Monthly totals include the listed rent, food, transport, coworking and other categories. They are directory reference budgets, not current quotes or guaranteed travel totals. No airfare, visa, tax or insurance allowance is invented.",
+          "Safety, overall and walkability scores are site ratings. E04 preserves the directory's Bali base label instead of asserting that an island is an incorporated city. Johor likewise retains its exact directory label and image slug.",
+          "Use local city images by slug. If a real city-page screenshot is used during rendering, crop to the city/budget/broadband/climate panel; exclude the live hiring panel. Do not fabricate interfaces, maps, rental offers or weather screenshots."
+        ]
+      },
+      {
+        "threadId": "N02",
+        "remoteMarket": {
+          "asOf": "2026-10-20T14:48:59.826Z",
+          "countryExplicitRoles": 249,
+          "worldwide": 6,
+          "unresolved": 180,
+          "totalRemoteReviewed": 435,
+          "explicitRestrictionPercent": 57.24,
+          "countries": [
+            {
+              "country": "United States",
+              "count": 155,
+              "employerCount": 30
+            },
+            {
+              "country": "United Kingdom",
+              "count": 29,
+              "employerCount": 4
+            },
+            {
+              "country": "Cyprus",
+              "count": 11,
+              "employerCount": 2
+            },
+            {
+              "country": "Georgia",
+              "count": 11,
+              "employerCount": 1
+            },
+            {
+              "country": "Poland",
+              "count": 11,
+              "employerCount": 4
+            }
+          ]
+        },
+        "notes": [
+          "Publishes October 23 at unchanged sequence 6. Copy explicitly calls the October 20 counts a historical snapshot and does not imply that individual vacancies remain open.",
+          "Counts come only from the supplied remoteMarket aggregate. The preparation code excludes rows failing verified-original-date age checks and uses explicit applicant-location requirements for fully remote rows. Worldwide and unresolved locations are excluded from country ranking; employer headquarters do not determine eligibility.",
+          "249 + 6 + 180 = 435; 249 / 435 * 100 = 57.241379..., rounded to 57.24. This supports 'most' within the reviewed remote sample. Country totals overlap and must not be summed as unique vacancies.",
+          "No individual vacancy URL, ID, title, employer identity, application link or screenshot is included. The final catalog link is navigation to the current site, not evidence of continued availability."
+        ]
+      },
+      {
+        "threadId": "C06",
+        "notes": [
+          "Unchanged publication date November 2, sequence 16. All five start strictly after that date; no past India Blockchain Week conference or already-started popup is used.",
+          "All five organizer pages were checked on October 20. Runtime identities and descriptions were reviewed; discovery-audit-2026-10-20.json supplies the November 6 Toronto occurrence's structured primary date evidence and the W3Node provenance.",
+          "Toronto is publicly listed and accepts standard approval-based requests, alongside a separate members-only option. Approval and a guests-only address do not imply a private invitation-only event.",
+          "Devcon's student application deadline is October 23 in the runtime's cited FAQ, before publication; the thread therefore does not solicit student applications. W3Node's homepage shows inconsistent USD/ZAR numeric pass displays and an undated five-column schedule; only the explicit November 12-14 event range and verified admission routes are used.",
+          "Event metadata uses exact primary calendar dates only. Some runtime timestamps carry generic hours; none are presented as verified event times. Freshness expectedDates are date-only, for the parent to compare to event-local calendar dates and to reject date changes, cancellations or events no longer upcoming at publication."
+        ]
+      },
+      {
+        "threadId": "N08",
+        "notes": [
+          "Unchanged publication date November 10, sequence 24. All five are explicitly announced 2027 main conferences with exact primary dates and named venues. No edition is extrapolated from a past year's schedule.",
+          "Dutch Blockchain Week's main summit is May 19-20, not its May 17-23 umbrella week. Consensus Hong Kong's full event is February 1-3 but its exhibition is February 2-3.",
+          "The October 20 EthCC page has moved beyond the early-bird phase described in the older runtime prose. Numeric prices and availability promises are omitted. TOKEN2049's primary page still carries an older year in its OG filename and prior-edition recap; the current date banner and structured event date support 2027.",
+          "Two potentially ambiguous event assets were visually inspected. /events/ethcc.webp is an edition-neutral Cannes photograph. /events/premier-token2049-dubai-2027-f2a31610.webp visibly says 21-22 April 2027 and Madinat Jumeirah. Both can be used with the sourced facts; no old poster needs relabeling.",
+          "The parent publication guard should validate every event identity and date in freshness. It should also refresh the organizer evidence for program/admission claims before the future publication date."
+        ]
+      },
+      {
+        "scope": "Validation evidence",
+        "notes": [
+          "verify-city-event-threads.mjs passed JSON structure, recursive forbidden-key checks, ASCII copy, six posts per thread, source coverage and date checks, calendar/sequence preservation, numeric metric comparisons to cached city records, cost sums and stated arithmetic, all ranking/filter reproductions, image-path existence, event ID/slug matching and future-at-publication checks.",
+          "54 posts; maximum text length 232 characters; maximum weighted X length 257 including 23 URL characters and two newlines. 53 source entries covering 44 unique URLs, 31 distinct visual city slugs and 10 distinct event IDs. The public-city verification mode passed all 33 checked city/reference pages."
+        ]
+      },
+      {
+        "scope": "Selection and copy",
+        "notes": [
+          "C03 and E08 are explicitly editorial shortlists with regional variety, not global top-five claims. E05 and E10 are reproducible rankings within the 100-entry directory. N06 contains all five actual filter matches.",
+          "Each thread has one scope-setting opening and five fact-bearing body posts. E04 has exactly two countries in each body post. The last post links only to the relevant directory/catalog landing page.",
+          "ASCII punctuation is used throughout copy. Every linked post reserves 23 weighted characters for the final URL and two newline characters; no inline URL occurs in a post's text."
+        ]
+      }
+    ],
+    "rankingMethods": [
+      {
+        "threadId": "N02",
+        "method": "Use only data-pack.json remoteMarket country aggregates captured October 20. Rank country listing count descending, then country name ascending for ties. Select five. Each explicitly named country gets one count per eligible multi-country row; employerCount is distinct employers within that country. Exclude worldwide and unresolved rows. No employer-headquarters inference.",
+        "selected": [
+          "United States",
+          "United Kingdom",
+          "Cyprus",
+          "Georgia",
+          "Poland"
+        ]
+      },
+      {
+        "threadId": "C03",
+        "method": "Editorial five-country shortlist spanning Georgia, Southeast Asia, the Balkans, West Africa and Mexico. Require monthly_total <=1000. Sort selected entries by monthly_total ascending then city name ascending. Compare complete monthly USD cost components and 2026-Q1 download/upload; do not call these the five cheapest globally.",
+        "selected": [
+          "batumi",
+          "da-nang",
+          "tirana",
+          "accra",
+          "merida"
+        ]
+      },
+      {
+        "threadId": "E04",
+        "method": "Group all 100 directory city/base entries by country. Within each country select score descending, then monthly_total ascending, then city name ascending. Rank the representatives by score descending, then monthly_total ascending, then country name ascending. Select the first 10. The score belongs to the selected city/base, not the entire country. Directory base coverage includes Bali.",
+        "selected": [
+          "chiang-mai",
+          "bangalore",
+          "da-nang",
+          "kuala-lumpur",
+          "manila",
+          "siem-reap",
+          "bali",
+          "playa-del-carmen",
+          "madrid",
+          "taipei"
+        ]
+      },
+      {
+        "threadId": "E05",
+        "method": "Require finite city-level fixed-broadband download and upload figures for quarter 2026-Q1. Rank all eligible directory entries by download_mbps descending, then city name ascending if tied. Select five, and display upload and monthly cost alongside download. No nationwide or global-outside-directory ranking is claimed.",
+        "selected": [
+          "singapore",
+          "paris",
+          "shanghai",
+          "johor",
+          "santiago"
+        ]
+      },
+      {
+        "threadId": "C06",
+        "method": "Editorial five-city selection from current runtime identities, with primary organizer evidence. Require event start after publication date 2026-11-02 and within November 2026. Include different formats and entry routes; sort by local start date ascending. Exact city, program and admission conditions must be supported. No popularity ranking.",
+        "selected": [
+          "premier-devcon-2026",
+          "discovery-evt-Cf2DX1IsDlCw6ND",
+          "curated-w3node-conference-hackathon-2026-11-12",
+          "premier-breakpoint-2026",
+          "premier-auscryptocon-2026"
+        ]
+      },
+      {
+        "threadId": "N06",
+        "method": "Require finite site safety rating >=8 and monthly_total <=1500. All five matching directory entries are included. Sort by monthly_total ascending then city name ascending. Internet is supplementary 2026-Q1 data, not an additional selection filter. Do not label the site rating an official crime index.",
+        "selected": [
+          "chiang-mai",
+          "bansko",
+          "krakow",
+          "vilnius",
+          "tallinn"
+        ]
+      },
+      {
+        "threadId": "E08",
+        "method": "Use actual December monthly fields, not annual temperature or a forecast. Require finite December mean temperature >=25 C, rainfall <=80 mm and monthly_total <=1300. Editorially choose five different countries spanning Asia, Africa and South America, avoiding repetition of C03's selections. Sort selected cities by December rainfall ascending. Display humidity as a practical additional comparison; report Lagos's low site safety rating rather than implying overall suitability.",
+        "selected": [
+          "lagos",
+          "bangkok",
+          "siem-reap",
+          "cartagena",
+          "ho-chi-minh-city"
+        ]
+      },
+      {
+        "threadId": "N08",
+        "method": "Editorial selection of five main Web3 conferences explicitly announced for 2027 by their organizers, all later than publication date 2026-11-10. Require exact main-event date ranges and named venues. Sort by local start date ascending. Separate main-conference dates from exhibition-only, side-event and umbrella-week dates. No inferred annual recurrence or popularity ranking.",
+        "selected": [
+          "premier-consensus-hk-2027",
+          "premier-ethcc-2027",
+          "premier-token2049-dubai-2027",
+          "ma-dutch-blockchain-week-2027",
+          "luma-host-evt-evt-r6tADv4L8KdncKD"
+        ]
+      },
+      {
+        "threadId": "E10",
+        "method": "Exclude missing or nonnumeric walkability. Require walkability.walk >=7.5, monthly_total <=1800, finite internet.download_mbps >=200, and internet.quarter 2026-Q1. Sort walkability descending, then download descending, then city name ascending if still tied. Select five. Upload and transit values are supplementary, not undisclosed sort keys.",
+        "selected": [
+          "prague",
+          "budapest",
+          "osaka",
+          "taipei",
+          "porto"
+        ]
+      }
+    ]
+  }
+]

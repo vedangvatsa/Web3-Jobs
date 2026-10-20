@@ -1,0 +1,407 @@
+{
+  "recordedAt": "2026-10-20T15:50:53.875Z",
+  "protectedGuardSha256": "e63989be976169e51f9624ad503cd541504061c3de3299ddb9cf4cba21655e7c",
+  "manifestEntries": [
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 1,
+      "path": "images/C01-01.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-01.jpg",
+      "sha256": "6689cb9288d1752b3aec5251775c8605395783b69584b528a375457a3a8cc888",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 102287,
+      "alt": "Make your work inspectable. Portfolio structure. An ordered teaching sequence. Problem; What needed to change?; Your contribution; Mark the part you owned.; Evidence; Link an artifact a reviewer can inspect. Give the reviewer a path from your claim to your work.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "diagram",
+      "visualKind": "flow",
+      "contentPostSha256": "2452056f8d3ce8dc75c08e038f9dc4aca375738732764277639ea4bc61ce9fa2",
+      "sourceUrls": [
+        "https://hashtagweb3.com/building-web3-portfolio",
+        "https://hashtagweb3.com/10-dos-and-donts-for-web3-resume"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 2,
+      "path": "images/C01-02.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-02.jpg",
+      "sha256": "997e1990fad3136c5fc7ce1fdd12c9ab40850c46ab25c03983673aa2ac11654c",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 98891,
+      "alt": "Show the failure case. Teaching example: withdrawal tests. Side-by-side comparison. Allowed caller; Transfer succeeds; Check the expected result; Rejected caller; Caller lacks permission; Check the rejection. Include setup steps, the test command and known limits.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "compare",
+      "contentPostSha256": "79d55426ce1a1af26884c0daa758847d28d7e6a37ca13227204bf4aa9f2334c2",
+      "sourceUrls": [
+        "https://hashtagweb3.com/building-web3-portfolio"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 3,
+      "path": "images/C01-03.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-03.jpg",
+      "sha256": "193ea4d4dce804f4b6ded3d8578a31ec0861b8d57392e028d214fe7422376c76",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 101545,
+      "alt": "Connect content to an action. Proposed wallet-tutorial funnel. An ordered teaching sequence. Tutorial reader; Audience for the guide; Setup attempt; User starts the task; Setup completion; User reaches the intended action. Record measurement limits. Impressions do not show setup completion.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "process",
+      "visualKind": "flow",
+      "contentPostSha256": "0bae72a830def07d7328b450c8605acb0e450f388f897b0ef956ad7d3e614c33",
+      "sourceUrls": [
+        "https://hashtagweb3.com/building-web3-portfolio"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 4,
+      "path": "images/C01-04.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-04.jpg",
+      "sha256": "bdef837c401df2ef3ca752610fe93a0b9894e836c9319df84cfe31a5dff004f0",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 88125,
+      "alt": "Document a repeatable task. Sample support runbook. Paired rows link each subject to its action or condition. User; Sends an error report; Moderator; Assigns an owner and next update; Engineer; Investigates and records the resolution. Make the next handoff explicit.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "process",
+      "visualKind": "lanes",
+      "contentPostSha256": "575040b7a412fc190ff5769c2fb0d513b28f2ebe33343f6a42425cb849345db9",
+      "sourceUrls": [
+        "https://hashtagweb3.com/building-web3-portfolio"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 5,
+      "path": "images/C01-05.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-05.jpg",
+      "sha256": "0a6677ee5d2f3d97ca9901e63ff520cb35a40fe72f2c03c09235f641a20ecc75",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 110539,
+      "alt": "Label the evidence honestly. Three evidence formats. Side-by-side comparison. Public work; Link the artifact; Name your contribution; Approved redaction; Explain the constraint; Show permitted material; Personal exercise; Label it as practice; Describe your decisions. Use the evidence status that matches the work.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "compare",
+      "contentPostSha256": "d9af9c5575097eb7fe823bc2eca82c60884a7428590733b05c9379fbfca3c088",
+      "sourceUrls": [
+        "https://hashtagweb3.com/10-dos-and-donts-for-web3-resume"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "C01",
+      "threadSequence": 1,
+      "threadTitle": "Build a portfolio someone can verify",
+      "postNumber": 6,
+      "path": "images/C01-06.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/C01-06.jpg",
+      "sha256": "e6d765091feb90b584ba340ca835f468740c88a13c53b03b72c62045a9eaa84e",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 104341,
+      "alt": "Run the reviewer check. Before applying. A reusable checklist with empty checkboxes. Evidence link; Open it while logged out.; Relevant sample first; Make the role match visible.; Authorship clear; Name your contribution.; Limits stated; Explain one limitation. The reviewer should not need to request access.",
+      "canonicalUrl": "https://hashtagweb3.com/building-web3-portfolio",
+      "composition": "checklist",
+      "visualKind": "check",
+      "contentPostSha256": "1f926a0eaf11b5ab629435decdbe40ea4731811660bdd89a89eb6bea837fd26c",
+      "sourceUrls": [
+        "https://hashtagweb3.com/building-web3-portfolio",
+        "https://hashtagweb3.com/10-dos-and-donts-for-web3-resume"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 1,
+      "path": "images/E01-01.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-01.jpg",
+      "sha256": "f0d44638497a436f81c5e08c5a093f797178acb6be9fd8f3972172f4b93a445e",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 125475,
+      "alt": "Read the permission you are granting. ERC-20 approval. Educational relationship diagram. Token holder; Account granting permission; Approved spender; Address receiving permission; Token contract; Records the allowance for this token and spender on this network. Check token, spender, amount and network before approving.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "diagram",
+      "visualKind": "allowance",
+      "contentPostSha256": "f54c9a301dc25ca5f64a52b6aef96d7fd586cf8964f7e67a368f74044ac9e2ae",
+      "sourceUrls": [
+        "https://support.metamask.io/stay-safe/safety-in-web3/what-is-a-token-approval/"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 2,
+      "path": "images/E01-02.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-02.jpg",
+      "sha256": "1dfb6d27bb30531c2957c66e03d19ae754294b07bfc634f7c174af7c52c48a4c",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 104977,
+      "alt": "Compare the trade and the cap. Hypothetical token-quantity example. Two proportional bars: the 200-token cap is ten times the 20-token trade. Planned trade; 20 tokens; Requested cap; 200; Review the difference.; Where supported, set a cap for the intended use. The requested allowance is larger than the planned trade.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "allowancebars",
+      "contentPostSha256": "ad87ee5679608d461366a2f30c90e61f433a31c8c7159932d8d81c61fa178909",
+      "sourceUrls": [
+        "https://support.metamask.io/stay-safe/safety-in-web3/what-is-a-token-approval/"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 3,
+      "path": "images/E01-03.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-03.jpg",
+      "sha256": "2dc5e9208f7938f7e5bff59852d26476eaa8961d338cdf83d116d7a7f7be7f8c",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 117032,
+      "alt": "Disconnecting and revoking differ. Two separate states. Side-by-side comparison. Disconnect website; Changes the site connection; Onchain allowance remains; Revoke allowance; Submit on the relevant network; Check confirmation; fee normally applies. Only the revocation changes the spending permission.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "compare",
+      "contentPostSha256": "b29dbde7499e49cdc704a000ce978343b4419b444e42ef34f5b26e1b53662fa0",
+      "sourceUrls": [
+        "https://support.metamask.io/more-web3/learn/how-to-revoke-smart-contract-allowances-token-approvals"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 4,
+      "path": "images/E01-04.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-04.jpg",
+      "sha256": "2229a9fd6c711ee580686e098ab8ab7997d3436a504eefcdd71ed5b964756bef",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 125141,
+      "alt": "A signature can carry spending authority. ERC-2612 permit. An ordered teaching sequence. Read the permit; Spender, amount and submission deadline; Sign the approval; No gas paid at this signing step; Later onchain submission; Someone can submit the signed permit. The deadline limits submission, not the resulting allowance lifetime.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "process",
+      "visualKind": "flow",
+      "contentPostSha256": "fad1815ac5d6c2ad56d643030133155bab8a51bb311daf35a8c37e9fa9827dfc",
+      "sourceUrls": [
+        "https://eips.ethereum.org/EIPS/eip-2612"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 5,
+      "path": "images/E01-05.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-05.jpg",
+      "sha256": "eb82dd291c2aa90252f7becafc9fbf79ab3545c88d2b04904831bad86c7e4b17",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 118281,
+      "alt": "Check the NFT permission scope. NFT operator permissions. One highlighted NFT is contrasted with all NFTs in the same collection contract. One-item approval; A; B; C; One approved NFT; Collection-wide; A; B; C; Every NFT you own from this collection contract; Check the named operator. Collection-wide means one collection contract, not every NFT in a wallet.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "nftscope",
+      "contentPostSha256": "71f87cb205711e3af00599e565bd8e8b955aef23124e27d17162d186cde11876",
+      "sourceUrls": [
+        "https://support.metamask.io/stay-safe/safety-in-web3/what-is-a-token-approval/"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "E01",
+      "threadSequence": 2,
+      "threadTitle": "Understand token approvals before signing",
+      "postNumber": 6,
+      "path": "images/E01-06.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/E01-06.jpg",
+      "sha256": "9fd9c21eb1f1118b656cfbc36a912fefb07926399303ac3343392031de6ec933",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 109105,
+      "alt": "Keep an allowance review record. Allowance review inventory. A worksheet with explicitly labeled blank personal fields. Account and network; [scope to review]; Spender; [approved spender]; Remaining allowance; [current permission]; Revocation receipt; [confirmed transaction]. Revocation cannot reverse a transfer or repair an exposed private key.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "checklist",
+      "visualKind": "record",
+      "contentPostSha256": "aa931e857452eff95bb42ddc7f16713928cdd358690116a5467fadb550319efb",
+      "sourceUrls": [
+        "https://support.metamask.io/stay-safe/safety-in-web3/what-is-a-token-approval/",
+        "https://support.metamask.io/more-web3/learn/how-to-revoke-smart-contract-allowances-token-approvals",
+        "https://ethereum.org/en/security/"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 1,
+      "path": "images/N01-01.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-01.jpg",
+      "sha256": "79070f48e1a01e72a096b725e5e6a3a503dbd4b948cdfb922eec7f291ff0af22",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 101027,
+      "alt": "Start with the workweek. Hypothetical work patterns. Side-by-side comparison. Recruiter; Private calls; Scheduled team overlap; Async engineer; Long focus blocks; Routine that fits the team. Write the conditions your own workweek needs.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "compare",
+      "contentPostSha256": "85f2daa654465b0396d498d51b2d8b4aed2a20dfdbc4972e5b06a7a0f1311c55",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads",
+        "https://hashtagweb3.com/coworking-spaces-vs-home-office"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 2,
+      "path": "images/N01-02.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-02.jpg",
+      "sha256": "2ae1759fd669e347b4c67d1de46c7e56a7574b5a87fdcac4f9cf2b05a2ae5ae7",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 114360,
+      "alt": "Separate requirements from preferences. Sample decision matrix, no city scores. Side-by-side comparison. Requirements; Private call space: [check]; Team overlap: [check]; Preferences; Walkability: [check]; Warm weather: [check]. A high overall score cannot replace a missing requirement.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "comparison",
+      "visualKind": "compare",
+      "contentPostSha256": "1ac922461f49917ecec86bf78e0335028fa20f89ff463c1c2b3abe267a8afbaa",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads",
+        "https://hashtagweb3.com/coworking-spaces-vs-home-office"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 3,
+      "path": "images/N01-03.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-03.jpg",
+      "sha256": "41f79d51503fa956022e04ba79c15eff5cff43c27bb9c28e367e294711941cef",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 120632,
+      "alt": "Change the comparison question. City directory: actual controls. Genuine product control crops, arranged separately for reading. Question: living costs; Question: internet; Compare your selections; Other categories; Safety, walkability and weather. Separate control states. Costs, rankings and counts are excluded. Crops show ranking selector set to Living costs; ranking selector set to Internet speed; Compare control.",
+      "canonicalUrl": "https://hashtagweb3.com/nomads",
+      "composition": "screenshot",
+      "visualKind": "shot",
+      "contentPostSha256": "0f44cb7204e679b179b34332149963ad0547849ec92fccadcdefbd3851c85f29",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads"
+      ],
+      "assetPaths": [
+        "assets/nomads-rank-cost.jpg",
+        "assets/nomads-rank-internet.jpg",
+        "assets/nomads-compare.jpg"
+      ]
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 4,
+      "path": "images/N01-04.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-04.jpg",
+      "sha256": "691caabcf8b2d2e41d544a158861865d1d4e021755fcd76f3c30a671891a923f",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 99721,
+      "alt": "Check the actual room. From city research to room checks. Nested city, neighborhood and room scopes lead to checks of the actual accommodation. City-level research; Neighborhood; Actual room; Desk + call privacy + connection + host confirmation. Ask the host about the actual accommodation.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "checklist",
+      "visualKind": "room",
+      "contentPostSha256": "830689a2a82b3713aba3c93a991f49bcbea87786a0148d412fed28302a29d319",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads",
+        "https://hashtagweb3.com/coworking-spaces-vs-home-office",
+        "https://hashtagweb3.com/remote-work-checklist"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 5,
+      "path": "images/N01-05.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-05.jpg",
+      "sha256": "276bf0def05c249bbcd956d8849b3166b2386f7653ff5814f82d72da9f86b747",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 107477,
+      "alt": "Use the dates you would stay. Undated stay-planning diagram. A branching relationship diagram. Your intended stay dates; Weather by month; Compare the months you will be there.; Team meeting dates; Map calls to your local work hours. Check the daily routine as well as the city.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "diagram",
+      "visualKind": "branch",
+      "contentPostSha256": "c6d9dd1151e46d7d79e0a2f954d066eddf39bbf083acc2f5ba0b0cd1c4ffd881",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads",
+        "https://hashtagweb3.com/remote-work-checklist"
+      ],
+      "assetPaths": []
+    },
+    {
+      "threadId": "N01",
+      "threadSequence": 3,
+      "threadTitle": "Compare cities against a real workweek",
+      "postNumber": 6,
+      "path": "images/N01-06.jpg",
+      "repoPath": "social-assets/knowledge-threads-month/images/N01-06.jpg",
+      "sha256": "8e14f49fac5ccd19ce42f522d30ed070a8b0ceb088d578c5d066914fe5e92e6b",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 106307,
+      "alt": "Keep the unknowns beside the shortlist. Blank city shortlist. A worksheet with explicitly labeled blank personal fields. City; [your option]; Host question; [quote or room detail]; Employer question; [work arrangement]; Entry check; [official source to verify]. Keep unanswered questions beside each option.",
+      "canonicalUrl": "https://hashtagweb3.com",
+      "composition": "example",
+      "visualKind": "record",
+      "contentPostSha256": "13da3e69d2dcfcbf4431fe24eee4c6333147d2ffa7a19b8eae63e2937d75b318",
+      "sourceUrls": [
+        "https://hashtagweb3.com/nomads"
+      ],
+      "assetPaths": []
+    }
+  ],
+  "contactSheets": {
+    "contact-sheets/C01.jpg": "b4f61079a6ebe035a4562866a0faa2d9824e627a7edd3ed6dde40e2185809694",
+    "contact-sheets/E01.jpg": "7c6442b31e0ee29517aec7d8b6b8257e41ce24e42857b651c9378a91525d25f7",
+    "contact-sheets/N01.jpg": "e7ed1b33982a422514810e6d3d0d38d715a14a267ce9c64014c7f5090e633de2",
+    "contact-sheets/mobile-01.jpg": "5094fdb0eb8de03d2f3aaa576cde502132032c77c6e46209f23fc71434d9cb48",
+    "contact-sheets/mobile-02.jpg": "ec14694db8eace2b788cb38c90cc3af5f3c790e3d5e618ce94ebb53254153c86",
+    "contact-sheets/mobile-03.jpg": "315a97cbdefc58c81f52fe441117682b393139d2f9b92eff357168a6a80426ff",
+    "contact-sheets/mobile-04.jpg": "0e45177eae23509f0de6a73d7904930ddcd87b6a45d621de1023b39757e71414",
+    "contact-sheets/mobile-05.jpg": "1f74ab7f82e5bef947fbc16829145b20140f9b11288837a6a8099887e6acce1f"
+  }
+}

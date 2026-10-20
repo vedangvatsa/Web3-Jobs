@@ -1,0 +1,153 @@
+{
+  "reviewedIds": [
+    "C02",
+    "E02",
+    "N02",
+    "C03",
+    "E03",
+    "N03",
+    "C04",
+    "E04",
+    "N04",
+    "C05",
+    "E05",
+    "N05",
+    "C06",
+    "E06",
+    "N06",
+    "C07",
+    "E07",
+    "N07",
+    "C08",
+    "E08",
+    "N08",
+    "C09",
+    "E09",
+    "N09",
+    "C10",
+    "E10",
+    "N10"
+  ],
+  "issues": [
+    {
+      "threadId": "C02",
+      "postNumber": 1,
+      "severity": "must-fix",
+      "reason": "The 'from USD 90,000 ... to USD 400,000' opening reads as a price range for all ten routes. The selection includes Jordan's JOD-denominated existing-business test and mixes donations with assets. Present named examples rather than range endpoints.",
+      "replacementText": "10 selected citizenship routes: Sao Tome and Principe's USD 90,000 donation, Turkiye's USD 400,000 property and Jordan's JOD 350,000 existing-business test. One main applicant; fees extra, eligibility and approval required.",
+      "evidence": "legal-threads.json C02 contains exactly 10 unique countries, including Jordan and excluding Vanuatu. Posts 2-6 are not price-ascending. The Jordan Ministry of Investment primary page, independently checked on 2026-10-20, confirms a JOD 350,000 investor asset-share test over three audited years, not a USD cash price. No currency conversion establishes comparable endpoints."
+    },
+    {
+      "threadId": "N02",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The post exceeds the requested 250-character total when its link is included. Shorten it while retaining the historical date, exclusions and overlapping-country methodology.",
+      "replacementText": "Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.",
+      "evidence": "232 text characters + 25 link allowance = 257. The city/event validator passed counts and rankings but permits a weighted total of 280, which is looser than this review's 250 limit. data-pack.json remoteMarket supports all retained counts."
+    },
+    {
+      "threadId": "N03",
+      "postNumber": 5,
+      "severity": "must-fix",
+      "reason": "The technically sound proxy answer is 3 characters over the requested limit. Preserve the execution context and storage-compatibility condition when shortening.",
+      "replacementText": "Q: How does delegatecall enable an upgradeable proxy?\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.",
+      "evidence": "253 text characters, with no link. validate-learning.mjs allows 280 characters on unlinked posts, so its PASS does not establish compliance with the requested 250 limit. The replacement retains the claims supported by the cited Solidity and OpenZeppelin references."
+    },
+    {
+      "threadId": "N03",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The linked packing answer is 1 character over the requested total. Keep both slot counts and the qualification about write costs.",
+      "replacementText": "Q: How should you order struct fields for storage packing?\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.",
+      "evidence": "226 text characters + 25 link allowance = 251. The cited Solidity storage-layout reference supports the two-slot versus three-slot example and the packed-write qualification."
+    },
+    {
+      "threadId": "C05",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The Barbados post exceeds the requested linked-post limit. Retain the foreign-work scope and distinguish expected income from the fee paid after approval.",
+      "replacementText": "Barbados Welcome Stamp: 12 months of remote work for overseas clients or employers. Expected income: at least USD 50,000 over that year. Fee after approval: USD 2,000 individual or USD 3,000 family.",
+      "evidence": "242 text characters + 25 link allowance = 267. The thread's official Welcome Stamp source supports the duration, foreign work, income threshold and separate individual/family fees."
+    },
+    {
+      "threadId": "E06",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The Saint Lucia post exceeds the requested linked-post limit. Naming National Action Bonds already distinguishes the asset; preserve the family scope, five-year hold, lack of interest and administration fee.",
+      "replacementText": "Saint Lucia: USD 240,000 NEF for applicant + up to 3 qualifying dependants. Alternative: USD 300,000 National Action Bonds held 5 years without interest, plus USD 50,000 administration; other fees extra.",
+      "evidence": "236 text characters + 25 link allowance = 261. The cited CIP investment page supports the retained amounts and conditions. The existing visual facts also retain the separate USD 350,000 financial-resources declaration."
+    },
+    {
+      "threadId": "N07",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The Thailand post exceeds the requested linked-post limit. Keep the annual limit specific to exemption entries and retain the TDAC window and family funds alternative.",
+      "replacementText": "Thailand: US tourists get 30 visa-free days; max 2 exemption entries per calendar year. Free TDAC: within 3 days before arrival. Bring accommodation, onward-travel proof and THB 20,000/person or THB 40,000/family.",
+      "evidence": "233 text characters + 25 link allowance = 258. Independent check of Royal Thai Embassy London guidance on 2026-10-20 confirms the September 15, 2026 scheme, 30 days, two exemption entries per calendar year and the free TDAC window. The thread's Washington embassy source supplies the family funds alternative."
+    },
+    {
+      "threadId": "E09",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The Vietnam post exceeds the requested linked-post limit. Retain advance application, the maximum duration, distinct entry fees, non-refundability and approved dates/border gates.",
+      "replacementText": "Vietnam: Indian tourists can apply in advance for an eVisa of up to 90 days. USD 25 single-entry or USD 50 multiple-entry; no refund if refused. Follow the granted dates and use designated eVisa border gates.",
+      "evidence": "243 text characters + 25 link allowance = 268, the largest combined length in the 162-post set. The cited Vietnam Government News eVisa guidance supports the retained conditions."
+    },
+    {
+      "threadId": "N09",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The agent-permissions lesson is 1 character over the requested linked-post total. Shorten without losing the distinction between reading balances and authorizing transfers.",
+      "replacementText": "AI x Crypto Intersection (7 lessons): Autonomous Agents.\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.",
+      "evidence": "226 text characters + 25 link allowance = 251. The learning validator confirms the seven-lesson course and actual Autonomous Agents module; the cited lesson supports action-specific permissions and the named controls."
+    },
+    {
+      "threadId": "E10",
+      "postNumber": 6,
+      "severity": "must-fix",
+      "reason": "The Porto post is 1 character over the requested linked-post total. Preserve the estimate label, broadband period and walkability-first ranking explanation.",
+      "replacementText": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.",
+      "evidence": "226 text characters + 25 link allowance = 251. verify-city-event-threads.mjs reproduced the ranking and checked the numeric metrics against cities.json. Missing walkability values are excluded, not treated as zero."
+    },
+    {
+      "threadId": "C02",
+      "postNumber": 6,
+      "severity": "clarify",
+      "reason": "The post says qualifying business assets without saying the threshold applies to the investor's own share. A minority shareholder could read this as the whole business's asset value. The visual facts are already precise; bring that distinction into the text.",
+      "replacementText": "Egypt: USD 250,000 Treasury grant. Jordan, outside Capital Governorate: your eligible asset share must average at least JOD 350,000 over 3 audited years, with 10 Jordanian employees on average and at least 9 each month.",
+      "evidence": "Jordan Ministry of Investment, Direct Pathways / Existing Investments outside the Capital Governorate, independently checked on 2026-10-20: investor's average share in eligible fixed and non-current tangible assets, at least JOD 350,000 over the last three audited years; average at least 10 Jordanian employees and a 90% monthly floor. C02's existing visual facts already contain the investor-share distinction."
+    },
+    {
+      "threadId": "C08",
+      "postNumber": 3,
+      "severity": "clarify",
+      "reason": "Define the address field before calling distinct swap senders wallets. A pool's Swap event sender can be a router, while tx.from measures transaction originators and can represent a relayer or bundler. Specify the metric and update the visual headline, facts and alt to match.",
+      "replacementText": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.",
+      "evidence": "Primary code spot-check on 2026-10-20: Uniswap/v2-core/contracts/UniswapV2Pair.sol emits Swap(msg.sender, ...), and Uniswap/v2-periphery/contracts/UniswapV2Router02.sol::_swap calls pair.swap(). Thus the event sender can be the router rather than the originating wallet. C08/3 does not currently identify the field or schema."
+    },
+    {
+      "threadId": "E03",
+      "postNumber": 6,
+      "severity": "optional",
+      "reason": "Supports the already planned change: close on the displayed Builder role list and a concrete quiz action. Internal points do not help readers choose a role. Replace the point-based visual labels, facts and alt alongside the text.",
+      "replacementText": "The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.",
+      "evidence": "src/lib/quiz.ts:199-260 defines exactly four archetypes and three roles per result. src/components/web3-career-quiz.tsx:41-99 renders the archetype, traits and roles without numerical scores. verify-tools.ts passed the actual Builder scenario and role list."
+    },
+    {
+      "threadId": "E07",
+      "postNumber": 6,
+      "severity": "optional",
+      "reason": "The multiplier explanation is accurate, but a final comparison plus calculator action would give readers a more useful next step. Keep the derivation in research notes and use genuine result crops for the closing graphic.",
+      "replacementText": "Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.",
+      "evidence": "verify-tools.ts executed the actual calculateSalary function: Security Auditor USD 127,000/163,000 and Community Manager USD 60,000/78,000 at 1/7 years. These remain model estimates, not observed salaries or market averages."
+    },
+    {
+      "threadId": "C08",
+      "postNumber": 6,
+      "severity": "optional",
+      "reason": "This close repeats the source-only scoring approach being removed from E03. An actual Analyst result connects the preceding research and audit exercises to usable career options. Replace the Q3 points graphic with the genuine result and retain the exercise/example distinction.",
+      "replacementText": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.",
+      "evidence": "src/lib/quiz.ts:230-243 supplies these three Analyst roles. verify-tools.ts passed the actual Analyst scenario. The Q3 two-point weight exists in source but is not displayed by the question or result UI."
+    }
+  ]
+}

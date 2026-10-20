@@ -1,194 +1,112 @@
-# Finished-image delivery and quality record
+# Replacement-image quality record
 
-Status: **PASS**. Reviewed on 17 October 2026.
+October 20, 2026 revision. Current machine-readable results are in `assets/revision/validation.json`; `assets/render-checks.json` covers the complete 180-entry manifest.
 
-## Delivered masters
+## Delivery checks
 
-| Check | Result |
+| Check | Evidence |
 | --- | --- |
-| Threads and images | 30 threads, exactly six images each, 180 JPEG masters |
-| Dimensions | All 180 are 1200 x 1500 |
-| Color | All 180 decode as sRGB JPEG |
-| Master bytes | 20,100,841 bytes total, 20.10 MB / 19.17 MiB |
-| Individual size range | 88,125 to 171,477 bytes |
-| Required file limit | All below 5,000,000 bytes |
-| Names | Stable `C01-01.jpg` through `C10-06.jpg`, `E01-01.jpg` through `E10-06.jpg`, and `N01-01.jpg` through `N10-06.jpg` |
-| Integrity | 180 distinct SHA-256 hashes; every file rehashed against the manifest |
-| Master formats | Exactly 180 files in `images/`, all JPEG; no PNG master duplicates |
-| Visual bounds | Zero text outside the board or its layout container, zero stage overflow, zero text collisions |
-| Authored text contrast | Zero failures at the 4.5:1 threshold in both ink and ivory treatments |
-| Assets and renderer | Zero missing images; zero renderer page errors |
-| Product screenshots | All 10 screenshot briefs fulfilled with genuine Playwright captures; 33 crop provenance records |
-| Alt text | 180 descriptions derived from finished graphics, maximum 501 characters |
-| Canonical URLs | Match the source post's canonical link, or the site root for unlinked posts; no platform suffixes |
-| Manuscript integrity | Original `content.json` SHA-256 unchanged |
+| Replacement batch | 27 threads, six posts each, 162 replacement JPEG masters |
+| Complete campaign | 180 masters retained, including 18 frozen published images |
+| Image format | All 180 fully decoded; 1200 × 1500, sRGB JPEG, 4:4:4 sampling |
+| File size | Largest master below 357,000 bytes; all below 5,000,000 bytes |
+| Integrity | 180 unique image SHA-256 hashes; current per-post hashes checked against the final manuscript |
+| Reproducibility | All 162 replacement masters were rendered again and matched their existing JPEG hashes byte-for-byte; see `assets/revision/reproducibility.json` |
+| Layout | Zero overflow, out-of-container text, text/text or text/image collisions across the replacements |
+| Authored contrast | Zero failures at the computed 4.5:1 threshold |
+| Mobile body text | Minimum authored body size 44 px on the master, equivalent to 14.3 px at 390 px |
+| Source-image proof | 146 used source assets rehashed; 54 screenshot crops checked against their exact parent pixels |
+| Pixel-text checks | 15 original interview questions and five captured lesson paragraphs matched with OCR |
+| Source coverage | 156 masters use actual captures, photos or native flags; N02 is six labeled historical aggregate graphics |
+| Captions | Local app captures, live public captures, authored summaries, fictional examples and dated metrics are identified |
+| Alt descriptions | All 180 descriptions are 100-1000 characters; the published 18 retain their original descriptions |
+| Contact sheets | 27 replacement sheets generated; three published sheets and five original mobile sheets retain their hashes |
+| Preview | Exact post text and calendar dates for all 180 entries; 27 future threads first, three published threads labeled as history |
 
-JPEG encoding uses mozjpeg quality 89 with 4:4:4 chroma sampling to preserve type and restrained green lines. Temporary raster buffers stay in memory. The existing transparent wordmark remains a PNG source asset, not a master image.
+Source-image metadata and footer credits can be smaller than the teaching text. The substantive results, quantities, units and essential conditions were reviewed at 390 px. Complete tall source previews are linked in the gallery rather than squeezed into illegible full-document thumbnails.
 
-Machine-readable evidence: `assets/validation.json` and `assets/render-checks.json`.
+## Frozen prefix
 
-## Visual-read evidence
+`assets/revision/protected-prefix.json` remains the authority for C01/E01/N01. Validation checks:
 
-The production agent opened and visually read **all 30 six-image contact sheets**, covering **all 180 images**, using the image Read tool. Each sheet displays six 360 px-wide previews in post order, left to right and top to bottom. This was an actual visual inspection of the JPEG output, in addition to DOM measurements.
+- Exact thread objects and original calendar entries.
+- All 18 image byte hashes.
+- All 18 original manifest entries, including alt text, source URLs and asset paths.
+- The three original contact sheets and five existing mobile sheets against the pre-render baseline.
 
-| Sheets read | Images inspected | Result |
-| --- | --- | --- |
-| `contact-sheets/C01.jpg` through `C10.jpg` | C01-C10, posts 01-06, 60 images | PASS |
-| `contact-sheets/E01.jpg` through `E10.jpg` | E01-E10, posts 01-06, 60 images | PASS |
-| `contact-sheets/N01.jpg` through `N10.jpg` | N01-N10, posts 01-06, 60 images | PASS |
+The current manuscript is checked dynamically against `image-manifest.json`, including each post's own hash. The obsolete whole-manuscript hardcoded hash was removed from `validate.mjs`.
 
-Checks during the read: headline and example-label visibility, diagram direction, conceptual boundaries, whitespace, footer wrapping, screenshot legibility, type collisions, and six-image continuity. Revised sheets were reopened after the fixes below.
+## Actual visual review
 
-All five **390 px mobile-preview sheets** were also opened and read:
+All 27 replacement contact sheets were opened with the image read tool during production, together with individual 390 px samples and actual desktop/mobile gallery screenshots. Review covered every replacement thread and the source-specific conditions.
 
-| Mobile sheet | Samples |
-| --- | --- |
-| `mobile-01.jpg` | C01-01, C02-06, C04-06 |
-| `mobile-02.jpg` | C07-06, E01-02, E04-01 |
-| `mobile-03.jpg` | E07-03, E09-05, E10-01 |
-| `mobile-04.jpg` | N01-03, N04-03, N05-03 |
-| `mobile-05.jpg` | N06-03, N07-06, N09-06 |
+Corrections found by visual inspection:
 
-The mobile samples cover a dark cover, two- and three-column comparisons, numerical diagrams, multi-level account diagrams, the credited photo and dense product-control compositions. Main teaching labels remain legible at this scale. Small secondary interface placeholders remain contextual product details; the important field names and actions have large adjacent labels. Full-resolution JPEGs are available from every gallery image.
+1. The runtime Consensus Hong Kong 2027 cover visibly showed 2026 dates. The campaign now uses a genuine current organizer date-panel capture. The runtime original is unchanged.
+2. A Slither question capture shifted while the accordion animation settled. It was recaptured after waiting for animations; its actual question pixels now pass OCR.
+3. The original Taipei image visibly depicts Tokyo. A real Travel Taipei skyline photograph replaces its campaign copy.
+4. The original Cartagena image is an uninformative close-up of wooden boats. A credited ProColombia historic-center photograph replaces its campaign copy.
+5. Invoice notes and the Foundry code excerpt received tighter or narrower real captures so their substantive text remains readable at mobile width.
 
-### Issues found and corrected before delivery
+Photo exceptions, original file hashes, download hashes and source URLs are recorded in `assets/revision/photo-references.json`. Capture origins and source revisions are recorded in the revision capture manifests.
 
-- Dark boards initially inherited the body's ink color. Explicit board-level foreground inheritance fixed headings and primary labels. Automated contrast checks were then added and passed on every image.
-- E05-05 and C06-05 exceeded the diagram area. The receipt comparison was simplified to field matching, and the assessment examples received a compact two-column layout.
-- Enlarged product controls initially crowded several screenshots. Dedicated crop sizing and spacing resolved every measured overflow.
-- JD, checker, remote-checklist and citizenship labels were cropped more tightly around the real rendered text, improving mobile reading without replacing the interface.
-- The original full scoring-rubric screenshot became too small on mobile. The finished C07-06 uses the real role-navigation link and real Scoring Guide section heading, paired with the post's follow-up checks.
-- E07-05 now draws independent sources as distinct X, Y and Z nodes, contrasting them clearly with one shared upstream source.
-- E06-03 shows equal required-work bars with different limit markers, so lowering the limit cannot be mistaken for reducing required work.
-- E06-05 and E08-01 connectors were moved clear of their explanatory labels. C08-06 explicitly labels the review-loop return as a recheck.
-- N09-06's official-source control received a final tight crop and was reread in both the thread sheet and the 390 px sheet.
+## Gallery checks
 
-## Gallery verification
+`validate.mjs` checks the real browser page at 360, 390, 768 and 1440 px:
 
-`validate.mjs` exercised the actual `preview.html` page in Playwright:
+- No horizontal overflow or broken loaded images.
+- All 180 actual post texts and all publication dates match the source JSON.
+- All 30 thread anchors resolve; all master and contact-sheet URLs return HTTP 200 locally.
+- All 180 source/alt disclosures open and close.
+- The 390 px review button and disclosures work by keyboard, with visible focus indicators.
+- Expanded source URLs wrap on mobile.
+- Loading, empty and failed-manifest states have explicit text.
+- Normal use produces zero page or console errors.
 
-- 360, 390, 768 and 1440 px viewports: no horizontal overflow or broken loaded images.
-- 30 thread anchors: each clicked and resolved to an existing section.
-- 180 master links and 30 contact-sheet links: every destination returned HTTP 200 locally.
-- 180 native alt-description disclosures: each opened and closed.
-- Mobile-preview toggle: keyboard activation changes image width to 390 px and toggles back.
-- Keyboard navigation: focused thread link activated with Enter.
-- Loading text, empty manifest state and failed manifest state: verified.
-- No application page errors in normal gallery use. The intentional failed-manifest test displays its explanatory error state.
-
-The gallery uses local HTTP to load the manifest. From the repository root:
-
-```sh
-node social-assets/knowledge-threads-month/render.mjs --serve
-```
-
-Open the printed `/preview.html` URL. No public server or deployment is required.
-
-## Fact and asset boundaries
-
-- The manuscript supplies the facts. Visuals condense its examples and distinctions; the renderer never places a full post paragraph on a colored card.
-- Token quantities 20 and 200, oracle arithmetic 123400 / 10^4 = 12.34, the 2-of-3 multisig, and the 10/50/20-minute agenda are explicitly labeled teaching examples.
-- Worksheets use visible bracketed inputs. There are no realistic-looking invented client records, measured outcomes, wallet addresses, recovery words, private keys, contact identities or live transaction hashes.
-- Actual product screenshots show controls, headings and field labels. They exclude changing listings, costs, rankings, event details, counts and country-specific eligibility results. Invoice defaults were cleared through ordinary form interaction.
-- The photo in N05-03 is from the previously approved Edge City asset. Its on-image credit reads `Photo: Edge City, via xyz.city.` The provenance identifies this as a publisher credit, not a named photographer credit.
-- Brand assets are byte-identical to the approved prior folder. `assets/source-credits.json` records the original font URL, brand-copy paths and photo provenance. `assets/capture-credits.json` records public URL, timestamp, visible text and crop details.
-- No factual change to `content.json` was needed. No manuscript correction is pending from image production.
-
-Original and final manuscript SHA-256:
-
-```text
-0746fb349f7f2dec4813b8df5ecaf50ef9443ae6f66709d549c738ca28afd761
-```
+Actual browser captures: `assets/revision/gallery-desktop.png` and `assets/revision/gallery-mobile.png`.
 
 ## Antislop delivery gate
 
-The approved DURING mode was applied. Direction and purposes are recorded in `DESIGN.md`.
+The approved DURING mode and ENERGY 2 / RHYTHM 3 / MOTION 1 direction are documented in `DESIGN.md`.
 
-### Hard gates
+| Gate | Result and evidence |
+| --- | --- |
+| R-02 | PASS: authored labels use plain punctuation; editorial text is read unchanged. |
+| R-03 | PASS: per-master DOM bounds/collision checks and all four gallery widths pass. |
+| R-17 | PASS: displayed metrics come from the final post visuals or protected source data; source and post hashes are recorded. |
+| R-18 | PASS: no testimonials; resume and invoice identities are explicitly fictional practice examples. |
+| R-23 | PASS: approved brand assets reused, source assets recorded, native flags identify countries. |
+| R-24 | PASS: all 30 navigation destinations exercised. |
+| R-25 | PASS: authored contrast computed at 4.5:1; substantive source pixels reviewed at mobile size. |
+| R-26 | PASS: master links, contact sheets, review toggle and 180 disclosures exercised. |
+| R-27 | PASS: loading, empty and failed-manifest states present; latter two tested through intercepted responses. |
+| R-28 | PASS: no template FAQ. |
+| R-32 | PASS: native keyboard controls and explicit high-contrast focus outlines. |
+| R-33 | PASS: source edited with patches; scripts generate image/data outputs without rewriting app code or screenshot DOM text. |
+| R-34 | PASS: fixed brand palette; no incomplete alternate theme. |
+| R-35 | PASS: full batch rendered and validated, with contact sheets and browser screenshots actually opened. |
+| R-36 | PASS: no fabricated outcomes, vacancies, credentials, interfaces or test logs. |
+| R-37 | PASS: existing user-approved brand direction applied. |
+| R-38 | PASS: source pixels are genuine; added summaries, examples and comparisons are identified. |
+| R-01 / R-04 / R-06 | PASS: approved ink/ivory/green, existing Inter, real flag identifiers; purposes written in DESIGN.md. |
+| R-07 / R-08 / R-09 | PASS: rules separate data rows; scope labels identify actual units and conditions. No ornamental grid or badges. |
+| R-10 / R-12 / R-13 | PASS: no authored glass, decorative shadows or glows. Native source UI remains unaltered. |
+| R-14 / R-19 / R-22 | PASS: source-specific layouts, static masters, relevant actual photos and result screenshots. |
+| Liveliness | PASS: amounts, photos and source results lead; layout varies by source; restrained green marks scope or comparison. |
+| C-1 / R-31 | PASS: major decisions and exceptions have written reasons. |
+| C-2 / C-4 | PASS: interaction and responsive-state checks recorded in validation.json. |
+| C-3 / C-5 | PASS: every master maps to its actual post, source images and fact sources. |
+| R-05 / R-11 | PASS: comparisons, photo rows, contained posters and readable excerpts follow the content. |
+| R-15 / R-16 | PASS: gallery actions name their destination; no generic marketing filler added. |
+| R-20 / R-21 / R-29 / R-30 | PASS: existing Hashtag Web3 identity and palette; no unrelated product clone or theme. |
 
-- R-02 PASS: generated image copy was checked for forbidden dash and quotation characters; none found.
-- R-03 PASS: all image bounds passed, and the gallery passed all four tested widths.
-- R-17 PASS: quantitative teaching examples come from the manuscript and are explicitly labeled.
-- R-18 PASS: no testimonials or invented identities.
-- R-23 PASS: existing approved wordmark and font reused; graphics follow the authorized briefs.
-- R-24 PASS: all 30 gallery navigation destinations exist and were exercised.
-- R-25 PASS: all authored text passed computed 4.5:1 contrast; product crops were visually read at mobile size.
-- R-26 PASS: gallery links, mobile-mode control and native disclosures were exercised.
-- R-27 PASS: loading, empty and error states exist and were tested.
-- R-28 PASS: no FAQ was added.
-- R-32 PASS: native controls support keyboard use; focus styling is visible; Enter and Space were tested.
-- R-33 PASS: source edits used apply_patch; capture/render scripts produce assets and reports, rather than patching application source or CSS.
-- R-34 PASS: both image color treatments passed contrast and bounds checks; the gallery does not offer a theme toggle.
-- R-35 PASS: all 180 images were rendered, validated and visually inspected through contact sheets.
-- R-36 PASS: no invented security, performance, client or outcome claims.
-- R-37 PASS: user-approved brand direction and ENERGY 2 / RHYTHM 3 / MOTION 1 are explicit.
-- R-38 PASS: data comes from the manuscript, genuine controls or honestly labeled blank/example fields.
+## Reproduce
 
-### Purpose gates
-
-- R-01 PASS: black, ivory and green follow the approved visual reference; no decorative gradient.
-- R-04 PASS: checkboxes, source-link controls and mathematical operators have task-specific purposes; no decorative icon set.
-- R-06 PASS: the approved Inter font and large headings preserve brand continuity and hierarchy.
-- R-07 PASS: rules and boundaries encode document rows or scope; no background grid.
-- R-08 PASS: arrows express relationships and direction, not ornamental CTAs.
-- R-09 PASS: example and scope labels carry factual context; no promotional badges.
-- R-10 PASS: no glass effects.
-- R-12 PASS: no decorative shadows.
-- R-13 PASS: no glow effects.
-- R-14 PASS: compositions vary across comparisons, workflows, nested scopes, worksheets, proportional examples and real crops.
-- R-19 PASS: static artwork and native gallery interactions match MOTION 1.
-- R-22 PASS: diagrams explain specific mechanics; the credited community photo illustrates working format.
-
-### Liveliness and craftsmanship
-
-- Dials PASS: ENERGY 2 / RHYTHM 3 / MOTION 1, declared before generation and reflected in the output.
-- Focal point PASS: each frame has one large learning-task heading and one supporting teaching composition.
-- Whitespace PASS: spacing separates heading, scope, graphic, note and canonical footer.
-- Accent PASS: green marks a comparison distinction, relationship or final check, within the approved palette.
-- Identity PASS: approved wordmark, Inter hierarchy, editorial rules and six-part sequence motif recur consistently.
-- C-1 and R-31 PASS: visual decisions have written reasons in `DESIGN.md`.
-- C-2 PASS: the review gallery's interactive elements were exercised.
-- C-3 PASS: all 180 compositions address their corresponding visual briefs.
-- C-4 PASS: static masters passed bounds checks; the responsive gallery passed normal, empty and error states.
-- C-5 PASS: provenance and labeled examples distinguish source facts from teaching structures.
-- R-05 PASS: the image set varies relationships, comparisons, processes, examples and worksheets according to content.
-- R-11 PASS: restrained corners and straight document rules follow the approved reference.
-- R-15 and R-16 PASS: no generic marketing CTAs or promotional buzzwords were introduced.
-- R-20 and R-30 PASS: visual identity comes from the approved Hashtag Web3 work, not another product template.
-- R-21 and R-29 PASS: dark covers and ivory teaching pages follow the approved palette and editorial hierarchy.
-
-## Reproduction and validation
-
-The project already supplies `playwright` and `sharp`. Capture and rendering use the user-specified installed Chromium executable. No package installation is required.
-
-```sh
-node social-assets/knowledge-threads-month/capture.mjs capture
-node social-assets/knowledge-threads-month/render.mjs
+```bash
+node social-assets/knowledge-threads-month/prepare-revision.mjs
+node social-assets/knowledge-threads-month/render-revision.mjs --workers=3
 node social-assets/knowledge-threads-month/validate.mjs
+node social-assets/knowledge-threads-month/render-revision.mjs --serve --port=3103
 ```
 
-Final validation ran successfully at `2026-10-17T00:22:43.165Z`. Full rendering and targeted rerenders both produced zero final layout issues. `node --check` was also run on the authored rendering modules. The final JPEG hashes and per-post content hashes are in `image-manifest.json`.
-
-## Files for the visual handoff
-
-Stage these paths under `social-assets/knowledge-threads-month/`:
-
-```text
-images/
-assets/
-contact-sheets/
-boards.html
-boards.css
-boards.mjs
-visual-plan.mjs
-capture.mjs
-render.mjs
-validate.mjs
-preview.html
-image-manifest.json
-ALT-TEXT.md
-DESIGN.md
-QUALITY.md
-```
-
-The editorial/publisher owner manages `content.json`, `SOURCES.md` and `calendar.json`. This visual task made no commit, push, staging operation or real post.
+Preview: <http://127.0.0.1:3103/preview.html>. Full file descriptions and source boundaries are in `REVISION.md`.

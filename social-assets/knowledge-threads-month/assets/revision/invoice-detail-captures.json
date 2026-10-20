@@ -1,0 +1,85 @@
+[
+  {
+    "id": "INVOICE-sample-notes-readable",
+    "file": "assets/revision/detail/invoice-notes-readable.png",
+    "kind": "tool-capture",
+    "sourceUrl": "https://hashtagweb3.com/invoice-generator",
+    "localUrl": "http://127.0.0.1:3102/invoice-generator",
+    "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+    "sourceFileHashes": {
+      "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+      "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+      "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+      "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+      "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+      "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+      "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+      "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+      "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+      "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+      "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+      "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+      "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+      "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+      "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+      "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+      "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+      "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+    },
+    "provenance": "Real application rendered locally. Same full INVOICE-sample scenario, native viewport narrowed for a readable complete Notes excerpt. No DOM or stylesheet edits.",
+    "inputs": {
+      "fields": {
+        "logo": "",
+        "fromName": "Sample Freelancer",
+        "fromEmail": "freelancer@example.com",
+        "fromPhone": "",
+        "fromAddress": "Fictional sample address - no postal destination",
+        "toName": "Sample Client",
+        "toEmail": "client@example.com",
+        "toPhone": "",
+        "toAddress": "Fictional sample client address - no postal destination",
+        "invoiceNumber": "SAMPLE-016",
+        "issueDate": "2026-11-16",
+        "dueDate": "2026-11-30",
+        "lineItems": [
+          {
+            "description": "Documentation draft (hours)",
+            "quantity": 12,
+            "rate": 50
+          },
+          {
+            "description": "Revision and handoff (hours)",
+            "quantity": 4,
+            "rate": 50
+          }
+        ],
+        "tax": 0,
+        "discount": 50,
+        "currency": "USD",
+        "customCurrency": "",
+        "paymentMethod": "USDC on Ethereum mainnet - sample only",
+        "walletAddress": "",
+        "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+      },
+      "steps": [
+        "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
+        "Set Invoice # to SAMPLE-016. Use Issue Date and Due Date calendar buttons to choose November 16 and November 30, 2026.",
+        "Replace the first item, click Add Item once and fill the second item using the exact lineItems values.",
+        "Set Tax (%) to 0 and Discount (flat) to 50. Choose USD ($) in Currency.",
+        "Fill Payment Method and Notes exactly. Keep Wallet Address empty.",
+        "Verify both line totals, subtotal, flat discount, final total and date labels in the genuine preview, then capture. No payment action is involved."
+      ]
+    },
+    "visibleText": "Notes:\n\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
+    "capturedAt": "2026-10-20T16:23:31.140Z",
+    "sha256": "1d84cfe4e4e059a65321fc59b751c21312c1981b9152ad6948f37fc15ab4be83",
+    "width": 756,
+    "height": 270,
+    "bytes": 41219,
+    "deviceScaleFactor": 2,
+    "cssWidth": 378,
+    "cssHeight": 135,
+    "minimumTextCssPx": 17.5,
+    "browserDefaultFontSize": 20
+  }
+]
