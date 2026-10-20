@@ -30753,7 +30753,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "a51d9a20-75b8-40c8-af79-246eff95a067",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad7514259946a79ac75c22e"
     }
   ]
 }
