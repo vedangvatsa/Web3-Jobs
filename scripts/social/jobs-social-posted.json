@@ -29817,7 +29817,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "38ff809d-34a3-449c-b065-298a05cd9ffa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518192064585445376"
     }
   ]
 }
