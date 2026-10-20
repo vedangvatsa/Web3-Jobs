@@ -2650,5 +2650,51 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 155848,
     "sentAt": "2026-10-19T19:32:11.596Z"
+  },
+  "56a503ad-6472-4057-8821-459649406886": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T11:31:53.202Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-317025728",
+        "slug": "timechain-tuesdays-coffee-bitcoin",
+        "name": "Timechain Tuesdays - Coffee & Bitcoin",
+        "startDate": "2026-10-20T08:00:00-04:00",
+        "keys": [
+          "mu-317025728",
+          "page:timechain-tuesdays-coffee-bitcoin:2026-10-20",
+          "url:meetup.com/miamibitcoinevents/events/317025728:2026-10-20",
+          "event:timechaintuesdayscoffeebitcoin:2026-10-20:miami"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-H1GEOEuxvdcGh7m",
+        "slug": "building-apps-communities-solana",
+        "name": "Building Apps and Communities on Solana",
+        "startDate": "2026-10-20T17:00:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-h1geoeuxvdcgh7m",
+          "page:building-apps-communities-solana:2026-10-20",
+          "luma:evt-h1geoeuxvdcgh7m",
+          "luma-url:/vgqemfnq",
+          "event:buildingappsandcommunitiesonsolana:2026-10-20:new york"
+        ]
+      },
+      {
+        "id": "mu-316316148",
+        "slug": "south-beach-miami-bitcoin-happy-hour",
+        "name": "South Beach Miami Bitcoin Happy Hour",
+        "startDate": "2026-10-20T17:00:00-04:00",
+        "keys": [
+          "mu-316316148",
+          "page:south-beach-miami-bitcoin-happy-hour:2026-10-20",
+          "url:meetup.com/miamibitcoinevents/events/316316148:2026-10-20",
+          "event:southbeachmiamibitcoinhappyhour:2026-10-20:miami beach"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-20:afternoon"
   }
 }
