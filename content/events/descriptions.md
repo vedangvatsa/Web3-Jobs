@@ -72729,6 +72729,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-74d15e09286139d2"></a>
+
+## ClawMax.ai Build Night Silicon Valley
+
+- Record: `luma-evt-xF13FD4hLQMu3Cb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/clawmax-build-night-sv-1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9e8e9ff353d25ed9"></a>
+
+## Shift.Forward(): Bay Area Agentic AI
+
+- Record: `luma-evt-9iUgTMGrCkw4pg3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/jps7v0p8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d24014c4dc3cca42"></a>
 
 ## Chef Night with Nico
@@ -73596,6 +73620,20 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-08545275424d31dc"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859645`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T11:00:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316859645/>
+
+### About the event
+
+An online introduction to the Blockchain Decentralisation Index Lab's open-source tools. The session explains how the tools collect blockchain data, convert it into a common format and calculate decentralization metrics across consensus, tokenomics, network and software layers. Participants can learn how to use the toolkit and contribute. LFDT chapters share the same global session.
+
 <a id="event-7e220347a2d6f896"></a>
 
 ## ZK Learning Group: Quantum resistance and ZKP
@@ -73645,6 +73683,20 @@ A full day of Bitcoin education taught and certified jointly by Escuelita Bitcoi
 - Original page: <https://www.meetup.com/lfdt-montreal/events/316802708/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-502f509e6c12a731"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802767`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T13:00:00-04:00
+- Description: Source-backed
+- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316802767/>
+
+### About the event
+
+Linux Foundation Decentralized Trust's ZK Learning Group holds an online session on quantum resistance and zero-knowledge proofs. The group studies zero-knowledge and SNARK application development and publishes its learning material in an open-source repository. This is a shared global session advertised by multiple LFDT chapters, including Cape Town.
 
 <a id="event-3843caab2b5fe705"></a>
 
@@ -73696,20 +73748,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segments and commentary on developments across Solana. The live show is listed on X, with updates also available through its YouTube channel.
 
-<a id="event-08545275424d31dc"></a>
-
-## Measuring Ledgers With The Blockchain Decentralisation Index Lab
-
-- Record: `mu-316859645`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T15:00:00Z
-- Description: Source-backed
-- Original page: <https://www.meetup.com/lfdt-kenya/events/316859632/>
-
-### About the event
-
-An online introduction to the Blockchain Decentralisation Index Lab's open-source tools. The session explains how the tools collect blockchain data, convert it into a common format and calculate decentralization metrics across consensus, tokenomics, network and software layers. Participants can learn how to use the toolkit and contribute. LFDT chapters share the same global session.
-
 <a id="event-0277fbb6d600021f"></a>
 
 ## AI Week Fireside Chat with David McJannet, ex-CEO HashiCorp
@@ -73721,20 +73759,6 @@ An online introduction to the Blockchain Decentralisation Index Lab's open-sourc
 - Original page: <https://lu.ma/seaaiweek-thu-keynote>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-502f509e6c12a731"></a>
-
-## ZK Learning Group: Quantum resistance and ZKP
-
-- Record: `mu-316802767`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-29T17:00:00Z
-- Description: Source-backed
-- Original page: <https://www.meetup.com/lfdt-cape-town/events/316802769/>
-
-### About the event
-
-Linux Foundation Decentralized Trust's ZK Learning Group holds an online session on quantum resistance and zero-knowledge proofs. The group studies zero-knowledge and SNARK application development and publishes its learning material in an open-source repository. This is a shared global session advertised by multiple LFDT chapters, including Cape Town.
 
 <a id="event-0d89697bb587d4a6"></a>
 
@@ -73880,7 +73904,7 @@ Shawn Porter and Lady RJ of Ignite Radio host a Seattle AI Week gathering about 
 
 - Record: `w3v-btc-balkans-2026`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-31
+- Starts: 2026-10-31T07:00:00.000Z
 - Description: Source-backed
 - Original page: <https://btcbalkans.com/en>
 
@@ -73985,6 +74009,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-01T06:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/bornlive-tpiy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bfecf4882155a498"></a>
+
+## NEAR Hackathon
+
+- Record: `w3v-near-hackathon`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T09:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://nearhackathon.com/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74646,6 +74682,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T13:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/islzi7v3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-316a552bd3610bbe"></a>
+
+## UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill
+
+- Record: `w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T13:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/unfollowbombay>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -76376,21 +76424,6 @@ A two-day festival covering Web3, AI and digital culture. Announced discussions 
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-1f6f7fb8524e4d1b"></a>
-
-## Digital Assets Forum London 2027
-
-- Record: `ma-digital-assets-forum-2027`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-02-01
-- Description: Source-backed
-- Original page: <https://eblockchainconvention.com/digital-assets-forum/>
-- Original page: <https://www.tickettailor.com/events/europeanblockchainconvention/2079609>
-
-### About the event
-
-European Blockchain Convention's fourth Digital Assets Forum is a two-day institutional event for financial institutions, crypto companies and regulators. The program includes talks and panels, an exhibition and scheduled one-to-one meetings.
-
 <a id="event-febd5816e1553777"></a>
 
 ## RWA SUMMIT HONG KONG 2027
@@ -76402,6 +76435,20 @@ European Blockchain Convention's fourth Digital Assets Forum is a two-day instit
 - Original page: <https://lu.ma/rwasummit>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1f6f7fb8524e4d1b"></a>
+
+## Digital Assets Forum 2027
+
+- Record: `ma-digital-assets-forum-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-10T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://digitalassetsforum.com/>
+
+### About the event
+
+European Blockchain Convention's fourth Digital Assets Forum is a two-day institutional event for financial institutions, crypto companies and regulators. The program includes talks and panels, an exhibition and scheduled one-to-one meetings.
 
 <a id="event-82a2ce741b73957b"></a>
 
@@ -76533,7 +76580,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `ma-dc-blockchain-summit-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-04-06
+- Starts: 2027-04-06T00:00:00.000Z
 - Description: Source-backed
 - Original page: <https://www.dcblockchainsummit.com/>
 
@@ -76555,11 +76602,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-8e354a5edd9a3d58"></a>
 
-## TEAMZ Summit 2027 (AI Edition)
+## TEAMZ Web3/AI Summit 2027
 
 - Record: `ma-teamz-web3-ai-summit-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-04-06T09:00:00+09:00
+- Starts: 2027-04-06T00:00:00.000Z
 - Description: Source-backed
 - Original page: <https://www.teamz.co.jp/>
 
@@ -76656,11 +76703,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-618e093418cb6f0f"></a>
 
-## Dutch Blockchain Week Summit 2027
+## Dutch Blockchain Week 2027
 
 - Record: `ma-dutch-blockchain-week-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-05-19
+- Starts: 2027-05-19T00:00:00.000Z
 - Description: Source-backed
 - Original page: <https://dutchblockchainweek.com/>
 
@@ -76974,9 +77021,9 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `ma-token2049-singapore-2027`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-10-06
+- Starts: 2027-10-06T00:00:00.000Z
 - Description: Source-backed
-- Original page: <https://www.token2049.com/singapore>
+- Original page: <https://www.asia.token2049.com/>
 
 ### About the event
 

@@ -1,13 +1,18 @@
 [
   {
+    "id": "luma-host-evt-evt-JRloloPOnjwowzA",
     "name": "Coworking Fridays Belgrade | Superteam Balkan",
     "description": "Superteam Balkan offers free Friday coworking at AI Hub Belgrade by Startit. Founders, developers, designers and students can work alongside the Solana community and get in-person help from the Superteam team. Registration is requested.",
     "startDate": "2026-10-23T08:00:00.000Z",
     "endDate": "2026-10-23T15:00:00.000Z",
-    "timezone": "Europe/Belgrade",
     "city": "Beograd",
     "country": "Serbia",
     "location": "AI Hub Belgrade by Startit, Savska 5, Beograd 11000, Serbia",
+    "url": "https://luma.com/coworking-fridays-belgrade",
+    "coverImage": "/events/luma-host-evt-evt-jrloloponjwowza-4be33e4f.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Europe/Belgrade",
     "venueName": "AI Hub Belgrade by Startit",
     "streetAddress": "Savska 5",
     "postalCode": "11000",
@@ -39,7 +44,6 @@
     "hosts": [
       "Superteam Balkan"
     ],
-    "coverImage": "/events/luma-host-evt-evt-jrloloponjwowza-4be33e4f.webp",
     "descriptionSource": {
       "url": "https://luma.com/coworking-fridays-belgrade",
       "fetchedAt": "2026-10-20T09:30:41.476Z",
@@ -56,10 +60,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-JRloloPOnjwowzA",
-    "url": "https://luma.com/coworking-fridays-belgrade",
     "registrationUrl": "https://luma.com/coworking-fridays-belgrade",
-    "source": "curated-reviewed",
     "slug": "cfb",
     "venueAddressSource": {
       "checkedAt": "2026-10-20T09:30:41.476Z",
@@ -848,12 +849,19 @@
     }
   },
   {
+    "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | October",
     "description": "SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segments and commentary on developments across Solana. The live show is listed on X, with updates also available through its YouTube channel.",
     "startDate": "2026-10-29T14:00:00.000Z",
     "endDate": "2026-10-29T15:00:00.000Z",
-    "timezone": "Etc/GMT",
+    "city": "",
+    "country": "",
     "location": "Online on X",
+    "url": "https://luma.com/0j8gx7i1",
+    "coverImage": "/events/luma-host-evt-evt-s1a3g141dsg60pk-028f17b6.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Etc/GMT",
     "organizer": {
       "type": "Organization",
       "name": "SOL BROTHERS Studio and Solana Foundation",
@@ -863,7 +871,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "online",
-    "coverImage": "/events/luma-host-evt-evt-s1a3g141dsg60pk-028f17b6.webp",
     "sourceVerification": {
       "url": "https://luma.com/0j8gx7i1",
       "eventId": "evt-S1a3G141Dsg60pk",
@@ -908,10 +915,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
-    "url": "https://luma.com/0j8gx7i1",
     "registrationUrl": "https://luma.com/0j8gx7i1",
-    "source": "curated-reviewed",
     "slug": "sec"
   },
   {
@@ -14934,12 +14938,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-host-evt-evt-vZ1HR9Rka8ch50U",
     "name": "Superteam Canada Community Call",
     "description": "A 30-minute Google Meet call about Solana and Superteam Canada, hosted by Simon. Participants can ask questions and learn how to get involved in the community.",
     "startDate": "2027-01-07T17:00:00.000Z",
     "endDate": "2027-01-07T17:30:00.000Z",
-    "timezone": "America/Toronto",
+    "city": "",
+    "country": "",
     "location": "Online (Google Meet)",
+    "url": "https://luma.com/aq7rqqmn",
+    "coverImage": "/events/luma-host-evt-evt-vz1hr9rka8ch50u-4c4e3577.webp",
+    "source": "curated-reviewed",
+    "month": "January 2027",
+    "timezone": "America/Toronto",
     "organizer": {
       "type": "Organization",
       "name": "Superteam Canada"
@@ -14947,7 +14958,6 @@
     "approvalRequired": false,
     "visibility": "public",
     "attendanceMode": "online",
-    "coverImage": "/events/luma-host-evt-evt-vz1hr9rka8ch50u-4c4e3577.webp",
     "sourceVerification": {
       "url": "https://luma.com/aq7rqqmn",
       "eventId": "evt-vZ1HR9Rka8ch50U",
@@ -14989,10 +14999,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-vZ1HR9Rka8ch50U",
-    "url": "https://luma.com/aq7rqqmn",
-    "registrationUrl": "https://luma.com/aq7rqqmn",
-    "source": "curated-reviewed"
+    "registrationUrl": "https://luma.com/aq7rqqmn"
   },
   {
     "id": "luma-evt-A3LD8spkbZLai1Q",
@@ -20003,21 +20010,18 @@
     "month": "February 2027"
   },
   {
-    "name": "Digital Assets Forum London 2027",
+    "id": "ma-digital-assets-forum-2027",
+    "name": "Digital Assets Forum 2027",
     "description": "European Blockchain Convention's fourth Digital Assets Forum is a two-day institutional event for financial institutions, crypto companies and regulators. The program includes talks and panels, an exhibition and scheduled one-to-one meetings.",
-    "startDate": "2027-02-01",
-    "endDate": "2027-02-02",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "organizer": {
-      "type": "Organization",
-      "name": "European Blockchain Convention",
-      "url": "https://eblockchainconvention.com/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/ma-digital-assets-forum-2027-7b05c6ba.webp",
+    "startDate": "2027-02-10T00:00:00.000Z",
+    "endDate": "2027-02-11T00:00:00.000Z",
+    "city": "London, UK",
+    "country": "UK",
+    "location": "London, UK",
+    "url": "https://digitalassetsforum.com/",
+    "coverImage": null,
+    "source": "marketacross",
+    "month": "February 2027",
     "descriptionSource": {
       "url": "https://eblockchainconvention.com/digital-assets-forum/",
       "fetchedAt": "2026-10-20T08:05:23.386Z",
@@ -20040,11 +20044,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "ma-digital-assets-forum-2027",
-    "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "registrationUrl": "https://www.tickettailor.com/events/europeanblockchainconvention/2079609",
-    "source": "curated-reviewed"
+    }
   },
   {
     "id": "ma-ethdenver-2027",
@@ -20075,14 +20075,19 @@
     "month": "March 2027"
   },
   {
+    "id": "ma-digital-asset-summit-2027",
     "name": "Digital Asset Summit NYC 2027",
     "description": "Blockworks' three-day institutional summit covers onchain capital markets, stablecoins and payments, fintech infrastructure, portfolio allocation, US digital-asset policy and DeFi risk management. It takes place at Javits North in New York.",
     "startDate": "2027-03-30T11:00:00.000Z",
     "endDate": "2027-04-01T21:00:00.000Z",
-    "timezone": "America/New_York",
     "city": "New York",
     "country": "United States",
     "location": "North Javits, New York, United States",
+    "url": "https://luma.com/dasnyc2027",
+    "coverImage": "/events/ma-digital-asset-summit-2027-66bdc688.webp",
+    "source": "curated-reviewed",
+    "month": "March 2027",
+    "timezone": "America/New_York",
     "venueName": "North Javits",
     "streetAddress": "445 11th Ave",
     "addressLocality": "New York",
@@ -20097,7 +20102,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/ma-digital-asset-summit-2027-66bdc688.webp",
     "sourceVerification": {
       "url": "https://luma.com/dasnyc2027",
       "eventId": "evt-6CeDyFqcz5G2g3z",
@@ -20172,10 +20176,7 @@
         }
       ]
     },
-    "id": "ma-digital-asset-summit-2027",
-    "url": "https://luma.com/dasnyc2027",
     "registrationUrl": "https://luma.com/dasnyc2027",
-    "source": "curated-reviewed",
     "venueAddressSource": {
       "checkedAt": "2026-10-20T09:29:51.926Z",
       "urls": [
@@ -20245,22 +20246,18 @@
     "month": "April 2027"
   },
   {
+    "id": "ma-dc-blockchain-summit-2027",
     "name": "DC Blockchain Summit 2027",
     "description": "The Digital Chamber's summit brings government and business leaders together to discuss blockchain and digital-asset policy, regulation and US competitiveness. The organizer names Capital Turnaround as the 2027 venue.",
-    "startDate": "2027-04-06",
-    "endDate": "2027-04-07",
-    "city": "Washington, DC",
-    "country": "United States",
-    "location": "Capital Turnaround, Washington, DC, United States",
-    "venueName": "Capital Turnaround",
-    "organizer": {
-      "type": "Organization",
-      "name": "The Digital Chamber",
-      "url": "https://www.dcblockchainsummit.com/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/ma-dc-blockchain-summit-2027-3f63d393.webp",
+    "startDate": "2027-04-06T00:00:00.000Z",
+    "endDate": "2027-04-07T00:00:00.000Z",
+    "city": "Washington DC, USA",
+    "country": "USA",
+    "location": "Washington DC, USA",
+    "url": "https://www.dcblockchainsummit.com/",
+    "coverImage": "/events/ma-dc-blockchain-summit-2027-02ad55cc.webp",
+    "source": "marketacross",
+    "month": "April 2027",
     "descriptionSource": {
       "url": "https://www.dcblockchainsummit.com/",
       "fetchedAt": "2026-10-20T09:29:52.174Z",
@@ -20290,30 +20287,21 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "ma-dc-blockchain-summit-2027",
-    "url": "https://www.dcblockchainsummit.com/",
-    "registrationUrl": "https://www.dcblockchainsummit.com/",
-    "source": "curated-reviewed"
+    }
   },
   {
-    "name": "TEAMZ Summit 2027 (AI Edition)",
+    "id": "ma-teamz-web3-ai-summit-2027",
+    "name": "TEAMZ Web3/AI Summit 2027",
     "description": "TEAMZ's tenth-anniversary summit at Happo-en runs April 6-7, 2027. Announced themes include AI infrastructure, software and robotics, plus digital assets, payments and transactions. The detailed 2027 program is still to be announced.",
-    "startDate": "2027-04-06T09:00:00+09:00",
-    "endDate": "2027-04-07T18:00:00+09:00",
-    "timezone": "Asia/Tokyo",
-    "city": "Tokyo",
+    "startDate": "2027-04-06T00:00:00.000Z",
+    "endDate": "2027-04-07T00:00:00.000Z",
+    "city": "Tokyo, Japan",
     "country": "Japan",
-    "location": "Happo-en, Tokyo, Japan",
-    "venueName": "Happo-en",
-    "organizer": {
-      "type": "Organization",
-      "name": "TEAMZ",
-      "url": "https://www.teamz.co.jp/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-12d53b84.webp",
+    "location": "Tokyo, Japan",
+    "url": "https://www.teamz.co.jp/",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "source": "marketacross",
+    "month": "April 2027",
     "descriptionSource": {
       "url": "https://www.teamz.co.jp/",
       "fetchedAt": "2026-10-20T09:29:52.717Z",
@@ -20336,11 +20324,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "ma-teamz-web3-ai-summit-2027",
-    "url": "https://www.teamz.co.jp/",
-    "registrationUrl": "https://www.teamz.co.jp/",
-    "source": "curated-reviewed"
+    }
   },
   {
     "id": "ma-hong-kong-web3-festival-2027",
@@ -20469,22 +20453,18 @@
     "month": "May 2027"
   },
   {
-    "name": "Dutch Blockchain Week Summit 2027",
+    "id": "ma-dutch-blockchain-week-2027",
+    "name": "Dutch Blockchain Week 2027",
     "description": "The main summit of Dutch Blockchain Week runs at Johan Cruijff ArenA on May 19-20. Its program covers digital assets, blockchain and institutional Web3 through panels, detailed sessions and breakout discussions. The wider city event week runs May 17-23.",
-    "startDate": "2027-05-19",
-    "endDate": "2027-05-20",
-    "city": "Amsterdam",
+    "startDate": "2027-05-19T00:00:00.000Z",
+    "endDate": "2027-05-20T00:00:00.000Z",
+    "city": "Amsterdam, Netherlands",
     "country": "Netherlands",
-    "location": "Johan Cruijff ArenA, Amsterdam, Netherlands",
-    "venueName": "Johan Cruijff ArenA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Dutch Blockchain Week",
-      "url": "https://dutchblockchainweek.com/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/ma-dutch-blockchain-week-2027-fc72c74e.webp",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://dutchblockchainweek.com/",
+    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
+    "source": "marketacross",
+    "month": "May 2027",
     "descriptionSource": {
       "url": "https://dutchblockchainweek.com/",
       "fetchedAt": "2026-10-20T09:29:53.741Z",
@@ -20507,11 +20487,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "ma-dutch-blockchain-week-2027",
-    "url": "https://dutchblockchainweek.com/",
-    "registrationUrl": "https://dutchblockchainweek.com/",
-    "source": "curated-reviewed"
+    }
   },
   {
     "id": "ma-crypto-valley-conference-2027",
@@ -20966,22 +20942,18 @@
     "month": "September 2027"
   },
   {
+    "id": "ma-token2049-singapore-2027",
     "name": "TOKEN2049 Singapore 2027",
     "description": "TOKEN2049's two-day Singapore conference is announced for Marina Bay Sands. The organizer also schedules its NEXUS startup pitch competition for October 6-7. Separate Origins hackathon dates have not been announced on this page.",
-    "startDate": "2027-10-06",
-    "endDate": "2027-10-07",
-    "city": "Singapore",
+    "startDate": "2027-10-06T00:00:00.000Z",
+    "endDate": "2027-10-07T00:00:00.000Z",
+    "city": "Singapore, Singapore",
     "country": "Singapore",
-    "location": "Marina Bay Sands, Singapore",
-    "venueName": "Marina Bay Sands",
-    "organizer": {
-      "type": "Organization",
-      "name": "TOKEN2049",
-      "url": "https://www.token2049.com/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/ma-token2049-singapore-2027-135f6ea2.webp",
+    "location": "Singapore, Singapore",
+    "url": "https://www.asia.token2049.com/",
+    "coverImage": "/events/ma-token2049-singapore-2027-d2b3a862.webp",
+    "source": "marketacross",
+    "month": "October 2027",
     "descriptionSource": {
       "url": "https://www.token2049.com/singapore",
       "fetchedAt": "2026-10-20T09:29:55.433Z",
@@ -21004,11 +20976,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "ma-token2049-singapore-2027",
-    "url": "https://www.token2049.com/singapore",
-    "registrationUrl": "https://www.token2049.com/singapore",
-    "source": "curated-reviewed"
+    }
   },
   {
     "id": "ma-cardano-summit-2027",
@@ -21723,14 +21691,18 @@
     "month": "October 2026"
   },
   {
+    "id": "w3v-arcade-day-2026",
     "name": "Arkade Day 2026",
     "description": "Arkade Day combines a morning Capital Sessions programme on Bitcoin treasury management, credit, custody and risk with a public Builder Lab from 14:00. Ark Labs and H100 co-host the morning programme, which requires an application. The free afternoon covers Arkade payments, assets, liquidity and developer integrations.",
     "startDate": "2026-10-21T07:30:00.000Z",
     "endDate": "2026-10-21T17:30:00.000Z",
-    "timezone": "Europe/Zurich",
     "city": "Lugano",
     "country": "Switzerland",
     "location": "Lugano, Switzerland",
+    "url": "https://luma.com/4usxgzkv",
+    "coverImage": "/events/w3v-arcade-day-2026-eec48a51.webp",
+    "month": "October 2026",
+    "timezone": "Europe/Zurich",
     "organizer": {
       "type": "Organization",
       "name": "Ark Labs",
@@ -21767,7 +21739,6 @@
       "Alexandre Bergeron",
       "Marco Argentieri"
     ],
-    "coverImage": "/events/w3v-arcade-day-2026-eec48a51.webp",
     "descriptionSource": {
       "url": "https://luma.com/4usxgzkv",
       "fetchedAt": "2026-10-20T09:30:41.991Z",
@@ -21784,8 +21755,6 @@
         }
       ]
     },
-    "id": "w3v-arcade-day-2026",
-    "url": "https://luma.com/4usxgzkv",
     "registrationUrl": "https://luma.com/4usxgzkv",
     "source": "curated-reviewed"
   },
@@ -22073,20 +22042,18 @@
     "month": "October 2026"
   },
   {
+    "id": "mu-316859645",
     "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
     "description": "An online introduction to the Blockchain Decentralisation Index Lab's open-source tools. The session explains how the tools collect blockchain data, convert it into a common format and calculate decentralization metrics across consensus, tokenomics, network and software layers. Participants can learn how to use the toolkit and contribute. LFDT chapters share the same global session.",
-    "startDate": "2026-10-29T15:00:00Z",
-    "endDate": "2026-10-29T16:00:00Z",
-    "timezone": "UTC",
-    "location": "Online via Zoom",
-    "organizer": {
-      "type": "Organization",
-      "name": "Linux Foundation Decentralized Trust and Blockchain Decentralisation Index Lab",
-      "url": "https://www.meetup.com/lfdt-kenya/"
-    },
-    "visibility": "public",
-    "attendanceMode": "online",
-    "coverImage": "/events/mu-316859645-fa0d7f86.webp",
+    "startDate": "2026-10-29T11:00:00-04:00",
+    "endDate": "2026-10-29T11:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
+    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
+    "source": "meetup",
+    "month": "October 2026",
     "descriptionSource": {
       "url": "https://www.meetup.com/lfdt-kenya/events/316859632/",
       "fetchedAt": "2026-10-20T09:30:53.684Z",
@@ -22102,27 +22069,21 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "mu-316859645",
-    "url": "https://www.meetup.com/lfdt-kenya/events/316859632/",
-    "registrationUrl": "https://www.meetup.com/lfdt-kenya/events/316859632/",
-    "source": "curated-reviewed"
+    }
   },
   {
+    "id": "mu-316802767",
     "name": "ZK Learning Group: Quantum resistance and ZKP",
     "description": "Linux Foundation Decentralized Trust's ZK Learning Group holds an online session on quantum resistance and zero-knowledge proofs. The group studies zero-knowledge and SNARK application development and publishes its learning material in an open-source repository. This is a shared global session advertised by multiple LFDT chapters, including Cape Town.",
-    "startDate": "2026-10-29T17:00:00Z",
-    "endDate": "2026-10-29T18:00:00Z",
-    "timezone": "UTC",
-    "location": "Online via Zoom",
-    "organizer": {
-      "type": "Organization",
-      "name": "Linux Foundation Decentralized Trust ZK Learning Group",
-      "url": "https://github.com/LF-Decentralized-Trust-labs/zk-learning-group"
-    },
-    "visibility": "public",
-    "attendanceMode": "online",
-    "coverImage": "/events/mu-316802767-2bb3239d.webp",
+    "startDate": "2026-10-29T13:00:00-04:00",
+    "endDate": "2026-10-29T13:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
+    "coverImage": "/events/mu-316802767-2db74201.webp",
+    "source": "meetup",
+    "month": "October 2026",
     "descriptionSource": {
       "url": "https://www.meetup.com/lfdt-cape-town/events/316802769/",
       "fetchedAt": "2026-10-20T09:30:52.700Z",
@@ -22138,11 +22099,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "mu-316802767",
-    "url": "https://www.meetup.com/lfdt-cape-town/events/316802769/",
-    "registrationUrl": "https://www.meetup.com/lfdt-cape-town/events/316802769/",
-    "source": "curated-reviewed"
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22236,14 +22193,18 @@
     "month": "November 2026"
   },
   {
+    "id": "w3v-solana-demo-day--london-2026",
     "name": "Solana Demo Day | London 2026",
     "description": "Teams present products and features at the closing day of Solana Hacker House London, hosted by Laguna from Solana Foundation and Cap from Superteam UK. Presentations will be streamed. In-person attendance requires approval; presenter applications give priority to teams not already presenting at Breakpoint or Scale or Die.",
     "startDate": "2026-11-12T10:00:00.000Z",
     "endDate": "2026-11-12T18:30:00.000Z",
-    "timezone": "Europe/London",
     "city": "London",
     "country": "United Kingdom",
     "location": "London, United Kingdom",
+    "url": "https://luma.com/sol-demo-day",
+    "coverImage": "/events/w3v-solana-demo-day-london-2026-dcc333bb.webp",
+    "month": "November 2026",
+    "timezone": "Europe/London",
     "organizer": {
       "type": "Organization",
       "name": "Solana Foundation and Superteam UK",
@@ -22253,7 +22214,6 @@
     "locationHidden": true,
     "visibility": "public",
     "attendanceMode": "mixed",
-    "coverImage": "/events/w3v-solana-demo-day-london-2026-dcc333bb.webp",
     "sideEventFor": [
       "breakpoint"
     ],
@@ -22300,20 +22260,22 @@
         }
       ]
     },
-    "id": "w3v-solana-demo-day--london-2026",
-    "url": "https://luma.com/sol-demo-day",
     "registrationUrl": "https://luma.com/sol-demo-day",
     "source": "curated-reviewed"
   },
   {
+    "id": "w3v-solana-intelligence-summit",
     "name": "Solana Intelligence Summit",
     "description": "Solana Foundation's AI summit includes morning workshops, afternoon talks and AI-paper discussions, live demos and a closing happy hour. Attendance is invite-only and subject to approval. The event is currently full, with a public waitlist available.",
     "startDate": "2026-11-13T10:00:00.000Z",
     "endDate": "2026-11-13T18:00:00.000Z",
-    "timezone": "Europe/London",
     "city": "London",
     "country": "United Kingdom",
     "location": "Somerset House, Strand, London WC2R 1LA, UK",
+    "url": "https://luma.com/intelligence-summit",
+    "coverImage": "/events/w3v-solana-intelligence-summit-2d134317.webp",
+    "month": "November 2026",
+    "timezone": "Europe/London",
     "venueName": "Somerset House",
     "streetAddress": "Strand",
     "addressLocality": "London",
@@ -22329,7 +22291,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/w3v-solana-intelligence-summit-2d134317.webp",
     "sideEventFor": [
       "breakpoint"
     ],
@@ -22375,8 +22336,6 @@
         }
       ]
     },
-    "id": "w3v-solana-intelligence-summit",
-    "url": "https://luma.com/intelligence-summit",
     "registrationUrl": "https://luma.com/intelligence-summit",
     "source": "curated-reviewed",
     "venueAddressSource": {
@@ -22392,14 +22351,18 @@
     }
   },
   {
+    "id": "w3v-scale-or-die",
     "name": "Scale or Die",
     "description": "Solana's application-only technical summit covers validator performance, consensus, transaction landing, RPC, Firedancer, post-quantum readiness and agentic infrastructure. A DevCave runs throughout the day for debugging and technical collaboration. The exact venue is shared with approved attendees.",
     "startDate": "2026-11-14T09:30:00.000Z",
     "endDate": "2026-11-14T18:30:00.000Z",
-    "timezone": "Europe/London",
     "city": "London",
     "country": "United Kingdom",
     "location": "London, United Kingdom",
+    "url": "https://luma.com/scale-or-die-26",
+    "coverImage": "/events/w3v-scale-or-die-131800b3.webp",
+    "month": "November 2026",
+    "timezone": "Europe/London",
     "organizer": {
       "type": "Organization",
       "name": "Solana Foundation",
@@ -22409,7 +22372,6 @@
     "locationHidden": true,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/w3v-scale-or-die-131800b3.webp",
     "sideEventFor": [
       "breakpoint"
     ],
@@ -22455,8 +22417,6 @@
         }
       ]
     },
-    "id": "w3v-scale-or-die",
-    "url": "https://luma.com/scale-or-die-26",
     "registrationUrl": "https://luma.com/scale-or-die-26",
     "source": "curated-reviewed"
   },
@@ -22746,7 +22706,7 @@
     "country": "us",
     "location": "Belmont, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/316898768/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316898768-2130638a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23427,14 +23387,18 @@
     "month": "November 2026"
   },
   {
+    "id": "w3v-445-crew-x-solana-breakpoint--community-run",
     "name": "445 CREW x Solana Breakpoint | Community Run",
     "description": "445 CREW hosts a 5K run for the Solana community, with all paces welcome. Arrival is at 09:15 and the run starts at 09:30, followed by a gathering at Fulham Pier. Registration requires approval.",
     "startDate": "2026-11-14T09:15:00.000Z",
     "endDate": "2026-11-14T11:45:00.000Z",
-    "timezone": "Europe/London",
     "city": "London",
     "country": "United Kingdom",
     "location": "Fulham Pier, London SW6 6HH, UK",
+    "url": "https://luma.com/n6r4k7vb",
+    "coverImage": "/events/w3v-445-crew-x-solana-breakpoint-community-run-04dd2a26.webp",
+    "month": "November 2026",
+    "timezone": "Europe/London",
     "venueName": "Fulham Pier",
     "addressLocality": "London",
     "addressRegion": "England",
@@ -23449,7 +23413,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/w3v-445-crew-x-solana-breakpoint-community-run-04dd2a26.webp",
     "sideEventFor": [
       "breakpoint"
     ],
@@ -23495,8 +23458,6 @@
         }
       ]
     },
-    "id": "w3v-445-crew-x-solana-breakpoint--community-run",
-    "url": "https://luma.com/n6r4k7vb",
     "registrationUrl": "https://luma.com/n6r4k7vb",
     "source": "curated-reviewed"
   },
@@ -23836,14 +23797,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-host-evt-evt-CgjAsxd2TK5PXtq",
     "name": "Superteam Poland Co-work: Kraków",
     "description": "Superteam Poland hosts a coworking day for local developers, designers and Solana builders. Bring a laptop to work on a project, share ideas and discuss grants, jobs or hackathons. Attendance requires approval.",
     "startDate": "2026-10-21T07:00:00.000Z",
     "endDate": "2026-10-21T16:00:00.000Z",
-    "timezone": "Europe/Warsaw",
     "city": "Kraków",
     "country": "Poland",
     "location": "Kraków, Poland",
+    "url": "https://luma.com/co-work37",
+    "coverImage": "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Europe/Warsaw",
     "organizer": {
       "type": "Organization",
       "name": "Superteam Poland",
@@ -23872,7 +23838,6 @@
     "hosts": [
       "Superteam Poland"
     ],
-    "coverImage": "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp",
     "descriptionSource": {
       "url": "https://luma.com/co-work37",
       "fetchedAt": "2026-10-20T09:30:39.688Z",
@@ -23889,10 +23854,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-CgjAsxd2TK5PXtq",
-    "url": "https://luma.com/co-work37",
     "registrationUrl": "https://luma.com/co-work37",
-    "source": "curated-reviewed",
     "slug": "superteam-poland-co-work-krakow-2026-10-21"
   },
   {
@@ -23923,14 +23885,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-host-evt-evt-aIh5owwCOVedwMw",
     "name": "Superteam Poland Co-work: Kraków",
     "description": "A Superteam Poland coworking session for working on projects alongside local developers, designers and Solana enthusiasts. Participants can exchange ideas and discuss grants, jobs and hackathons. Host approval is required.",
     "startDate": "2026-10-28T08:00:00.000Z",
     "endDate": "2026-10-28T17:00:00.000Z",
-    "timezone": "Europe/Warsaw",
     "city": "Kraków",
     "country": "Poland",
     "location": "Kraków, Poland",
+    "url": "https://luma.com/co-work38",
+    "coverImage": "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Europe/Warsaw",
     "organizer": {
       "type": "Organization",
       "name": "Superteam Poland",
@@ -23959,7 +23926,6 @@
     "hosts": [
       "Superteam Poland"
     ],
-    "coverImage": "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp",
     "descriptionSource": {
       "url": "https://luma.com/co-work38",
       "fetchedAt": "2026-10-20T09:30:40.899Z",
@@ -23976,10 +23942,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-aIh5owwCOVedwMw",
-    "url": "https://luma.com/co-work38",
     "registrationUrl": "https://luma.com/co-work38",
-    "source": "curated-reviewed",
     "slug": "superteam-poland-co-work-krakow-2026-10-28"
   },
   {
@@ -24409,7 +24372,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316788764-23ca9f72.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24505,14 +24468,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
     "name": "ETHGlobal Happy Hour New Delhi",
     "description": "ETHGlobal, GrowthFi Studio and 0xSpace host a gathering for Web3 founders, developers and crypto community members. Food and mocktails are provided. Registration requires approval, and the venue address is shared with accepted guests.",
     "startDate": "2026-10-22T12:30:00.000Z",
     "endDate": "2026-10-22T15:30:00.000Z",
-    "timezone": "Asia/Kolkata",
     "city": "Delhi",
     "country": "India",
     "location": "Delhi, India",
+    "url": "https://luma.com/ethglobal-hh-newdelhi",
+    "coverImage": "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Asia/Kolkata",
     "organizer": {
       "type": "Organization",
       "name": "ETHGlobal, GrowthFi Studio and 0xSpace",
@@ -24522,7 +24490,6 @@
     "locationHidden": true,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp",
     "sourceVerification": {
       "url": "https://luma.com/ethglobal-hh-newdelhi",
       "eventId": "evt-9qbXxI87FMFkdFf",
@@ -24567,10 +24534,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
-    "url": "https://luma.com/ethglobal-hh-newdelhi",
-    "registrationUrl": "https://luma.com/ethglobal-hh-newdelhi",
-    "source": "curated-reviewed"
+    "registrationUrl": "https://luma.com/ethglobal-hh-newdelhi"
   },
   {
     "id": "w3v-mip-20-road-devcon-26-10-30",
@@ -24910,7 +24874,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316843995/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316843995-e308ae55.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24966,26 +24930,22 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802761-53bc0fb8.webp",
     "source": "meetup",
     "month": "October 2026"
   },
   {
+    "id": "w3v-btc-balkans-2026",
     "name": "BTC Balkans 2026",
     "description": "BTC Balkans brings regional Bitcoin communities and open-source contributors together in Sofia. The announced formats are keynotes, panels and hands-on workshops for developers, educators and newcomers, covering Bitcoin technology, money and practical adoption.",
-    "startDate": "2026-10-31",
-    "endDate": "2026-11-01",
+    "startDate": "2026-10-31T07:00:00.000Z",
+    "endDate": "2026-11-01T16:00:00.000Z",
     "city": "Sofia",
-    "country": "Bulgaria",
-    "location": "Inter Expo Center, Sofia, Bulgaria",
-    "venueName": "Inter Expo Center",
-    "organizer": {
-      "type": "Organization",
-      "name": "BTC Balkans",
-      "url": "https://btcbalkans.com/en"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
+    "country": "BG",
+    "location": "Sofia, BG",
+    "url": "https://btcbalkans.com/en",
+    "coverImage": "/events/w3v-btc-balkans-2026-d4dff6c7.webp",
+    "month": "October 2026",
     "descriptionSource": {
       "url": "https://btcbalkans.com/en",
       "fetchedAt": "2026-10-20T09:30:42.656Z",
@@ -25001,12 +24961,7 @@
           "representation": "html"
         }
       ]
-    },
-    "id": "w3v-btc-balkans-2026",
-    "url": "https://btcbalkans.com/en",
-    "registrationUrl": "https://btcbalkans.com/en",
-    "source": "curated-reviewed",
-    "coverImage": "/events/w3v-btc-balkans-2026-ef3c567a.webp"
+    }
   },
   {
     "id": "w3v-zcash-world---mumbai",
@@ -25117,7 +25072,10 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Jordan Boich"
+    ]
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -25441,14 +25399,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-evt-lzupoprFFkUQski",
     "name": "AI & Web3 Music Meetup",
     "description": "Shawn Porter and Lady RJ of Ignite Radio host a Seattle AI Week gathering about AI-assisted music and onchain music-sharing platforms. The program includes conversation, a short presentation and recorded-music playback. Attendance is free; the brewery asks guests to buy food or a drink.",
     "startDate": "2026-10-30T23:00:00.000Z",
     "endDate": "2026-10-31T01:00:00.000Z",
-    "timezone": "America/Los_Angeles",
     "city": "Seattle",
     "country": "United States",
     "location": "Big Time Brewery back room, 4133 University Wy NE, Seattle, WA 98105, USA",
+    "url": "https://luma.com/eitsogbg",
+    "coverImage": "/events/luma-evt-lzupoprffkuqski-f175fe2f.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "America/Los_Angeles",
     "venueName": "Big Time Brewery",
     "streetAddress": "4133 University Wy NE",
     "addressLocality": "Seattle",
@@ -25463,7 +25426,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/luma-evt-lzupoprffkuqski-f175fe2f.webp",
     "sourceVerification": {
       "url": "https://luma.com/eitsogbg",
       "eventId": "evt-lzupoprFFkUQski",
@@ -25506,10 +25468,7 @@
         }
       ]
     },
-    "id": "luma-evt-lzupoprFFkUQski",
-    "url": "https://luma.com/eitsogbg",
     "registrationUrl": "https://luma.com/eitsogbg",
-    "source": "curated-reviewed",
     "venueAddressSource": {
       "checkedAt": "2026-10-20T09:30:14.856Z",
       "urls": [
@@ -27823,14 +27782,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
     "name": "Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol",
     "description": "ETHGlobal and PU DAO host a community coworking event with an introduction to NEAR Protocol by NEAR Legion member Swayam. The presentation covers the ecosystem, technology and developer opportunities.",
     "startDate": "2026-10-22T08:00:00.000Z",
     "endDate": "2026-10-22T11:00:00.000Z",
-    "timezone": "Asia/Kolkata",
     "city": "Vadodara",
     "country": "India",
     "location": "Seminar Hall, Lakshya 2047 Building, Parul University, Limda, Vadodara, India",
+    "url": "https://luma.com/ethglobal-cowork-vadodara",
+    "coverImage": "/events/luma-host-evt-evt-3vtajvxobbay3hb-45f86f2a.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "Asia/Kolkata",
     "venueName": "Parul University, Seminar Hall, Lakshya 2047 Building",
     "streetAddress": "P.O, Ta, Waghodia, Limda",
     "addressLocality": "Limda",
@@ -27846,7 +27810,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/luma-host-evt-evt-3vtajvxobbay3hb-45f86f2a.webp",
     "sourceVerification": {
       "url": "https://luma.com/ethglobal-cowork-vadodara",
       "eventId": "evt-3vTAJvXoBBaY3HB",
@@ -27899,10 +27862,7 @@
         }
       ]
     },
-    "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
-    "url": "https://luma.com/ethglobal-cowork-vadodara",
     "registrationUrl": "https://luma.com/ethglobal-cowork-vadodara",
-    "source": "curated-reviewed",
     "venueAddressSource": {
       "checkedAt": "2026-10-20T09:31:10.319Z",
       "urls": [
@@ -27970,6 +27930,60 @@
     "url": "https://luma.com/encode-r77e",
     "coverImage": "/events/luma-host-evt-evt-pu0ximyxngt10dp-11d2e92c.webp",
     "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-xF13FD4hLQMu3Cb",
+    "name": "ClawMax.ai Build Night Silicon Valley",
+    "description": "",
+    "startDate": "2026-10-23T00:00:00.000Z",
+    "endDate": "2026-10-23T04:00:00.000Z",
+    "city": "Santa Clara",
+    "country": "United States",
+    "location": "Santa Clara, United States",
+    "url": "https://lu.ma/clawmax-build-night-sv-1",
+    "coverImage": "/events/luma-evt-xf13fd4hlqmu3cb-14a83674.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-9iUgTMGrCkw4pg3",
+    "name": "Shift.Forward(): Bay Area Agentic AI",
+    "description": "",
+    "startDate": "2026-10-23T00:30:00.000Z",
+    "endDate": "2026-10-23T03:00:00.000Z",
+    "city": "San Jose",
+    "country": "United States",
+    "location": "San Jose, United States",
+    "url": "https://lu.ma/jps7v0p8",
+    "coverImage": "/events/luma-evt-9iugtmgrckw4pg3-3d940a64.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-near-hackathon",
+    "name": "NEAR Hackathon",
+    "description": "NEAR Hackathon 2026: a two-week online hackathon with 13 tracks across DeFi, AI agents, privacy, payments, gaming and open innovation.",
+    "startDate": "2026-11-01T09:00:00.000Z",
+    "endDate": "2026-11-14T21:00:00.000Z",
+    "city": "Global",
+    "country": "",
+    "location": "Global",
+    "url": "https://nearhackathon.com/",
+    "coverImage": "/events/w3v-near-hackathon-36beeeda.webp",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004",
+    "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
+    "description": "UNFOLLOW_002 Mumbai: a Devcon week afterparty by WebZero Events, Zcash and Bitrefill in Mumbai.",
+    "startDate": "2026-11-04T13:30:00.000Z",
+    "endDate": "2026-11-04T19:30:00.000Z",
+    "city": "Mumbai",
+    "country": "IN",
+    "location": "Mumbai, IN",
+    "url": "https://luma.com/unfollowbombay",
+    "coverImage": null,
     "month": "November 2026"
   }
 ]
