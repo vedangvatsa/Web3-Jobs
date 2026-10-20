@@ -32388,7 +32388,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "d702605c-5936-46b9-a84f-254a78d3a325",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad7527b41bc4976d5435365"
     }
   ]
 }
