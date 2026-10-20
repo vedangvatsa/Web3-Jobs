@@ -34127,7 +34127,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "6637b7b5-aca2-4d66-b03d-fb45570d2964",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518395121952862208"
     }
   ]
 }
