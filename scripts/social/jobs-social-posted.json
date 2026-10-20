@@ -29292,7 +29292,8 @@
       },
       "account": "channel:dev",
       "attemptId": "360bcc1a-640e-46c7-9c70-4a7c755a7ce1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x133b6aa52e974261ca4a85ebab431602b07f46b2"
     }
   ]
 }
