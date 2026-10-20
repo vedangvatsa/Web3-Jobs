@@ -29220,7 +29220,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "cebc66a2-2db6-4b68-bf86-1d3670c844b2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe1f94824e4ef2bfb8d5b8f41a027b9a36cc3cebc"
     }
   ]
 }
