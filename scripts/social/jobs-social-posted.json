@@ -32345,7 +32345,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "410276e2-0f9b-47b1-bac5-c1761557069e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad7526931ed850c40df114b"
     }
   ]
 }
