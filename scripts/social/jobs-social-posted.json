@@ -33721,7 +33721,8 @@
       },
       "account": "channel:founders",
       "attemptId": "aff1fd91-f698-41da-8872-661d80b61df8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x23c0f9c548241b0736eaa94b1c00a317b5b7188b"
     }
   ]
 }
