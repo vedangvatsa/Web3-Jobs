@@ -29148,7 +29148,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "5077b7e2-0759-499d-9bbb-d3c0e7d36cfe",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3159954eb37a9d60c5a27bae2a6c299e9be3ccc1"
     }
   ]
 }
