@@ -33476,7 +33476,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "7cd57e61-1eb6-48fd-9244-53ea251da3a9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4bb1a5e510216dbf2b5c844a4fb2ea46db8e834b"
     }
   ]
 }
