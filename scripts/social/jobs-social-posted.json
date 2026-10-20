@@ -32303,7 +32303,8 @@
       },
       "account": "channel:growth",
       "attemptId": "f5df4e4a-183f-4878-b6fb-fa77ff2682ae",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xffbdc3f91eb9584b12f59add632d25b767f3c4fb"
     }
   ]
 }
