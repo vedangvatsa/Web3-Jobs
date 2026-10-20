@@ -29438,6 +29438,41 @@
       "attemptId": "2228a68e-06a8-4fd3-8ddb-666044e83e27",
       "verification": "verified",
       "postId": "0x90ba9ef839f69adaeb7159eb1659bb3155fea3d3"
+    },
+    {
+      "slug": "pm219",
+      "company": "Elliptic",
+      "title": "Head of Compliance Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T06:08:58.422Z",
+      "expectedText": "Elliptic is hiring Head of Compliance Product\n\nhttps://hashtagweb3.com/pm219/fc?og=7",
+      "snapshot": {
+        "id": "34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "title": "Head of Compliance Product",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "date": "2026-10-05T09:19:28.240+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm219"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Head of Compliance Product\n\nhttps://hashtagweb3.com/pm219/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm219/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "55df5006-713e-4add-9909-8a111abbac71",
+      "verification": "creating"
     }
   ]
 }
