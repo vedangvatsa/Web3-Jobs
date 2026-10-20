@@ -31360,7 +31360,8 @@
       },
       "account": "channel:product",
       "attemptId": "854001f9-67ab-42f8-b079-db57b48a2c29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x25d3dad88bb1ebadfd79824e568bf840065cfb0b"
     }
   ]
 }
