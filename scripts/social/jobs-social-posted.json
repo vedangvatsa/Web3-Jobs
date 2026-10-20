@@ -34003,6 +34003,46 @@
       "attemptId": "bd684a98-df48-4cd3-a705-27f9200faff2",
       "verification": "verified",
       "postId": "0x9aa27ea4ddd03978d9d46a49a2e9f986d5347c1c"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/fs25/li?og=7",
+          "title": "Staff Fullstack Engineer at Alpaca",
+          "description": "Join Alpaca as Staff Fullstack Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/fs25.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e9568b01-e82f-41dd-8475-008210575b2d",
+      "verification": "creating"
     }
   ]
 }
