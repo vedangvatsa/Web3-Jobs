@@ -29400,7 +29400,8 @@
       },
       "account": "channel:founders",
       "attemptId": "6ed9cdad-771e-46e3-af87-a2efa294dce6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf737514dc6cc3b3e435e82c70becce86af499598"
     }
   ]
 }
