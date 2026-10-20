@@ -105,10 +105,12 @@
     "0": {
       "createClaim": "10ba278b-99b4-438c-bf1f-4808ae86f71a",
       "startedAt": "2026-10-20T11:31:24.567Z",
-      "status": "accepted",
+      "status": "verified",
       "containerId": "18097838486199925",
       "publishClaim": "832bde4d-a118-4381-967b-d8d69b9131c0",
-      "postId": "18387305701227667"
+      "postId": "18387305701227667",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Detu0TxkXfW",
+      "verifiedAt": "2026-10-20T11:31:38.325Z"
     }
   }
 }
