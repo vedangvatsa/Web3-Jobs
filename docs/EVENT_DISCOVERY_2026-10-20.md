@@ -51,4 +51,18 @@ Checks ran with Node 24.21.0:
 
 The fresh checkout required normal generation of public catalogs, job shards, article data and an existing derived preview-image alias before site-wide checks could run. A new address-proof mismatch was corrected by carrying the already-verified locality/country into the event fields; all address tests then passed.
 
-Deployment and live verification are pending.
+## Deployment
+
+The discovery release deployed successfully in [run 39407660288](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39407660288), from revision `81eebeaeaeecad8db260d405f094eb9136cc0d60`.
+
+Live verification at `2026-10-20T10:54:07.480Z` confirmed all 192 additions/recoveries and the 200ms privacy correction: 193 HTTP-200 pages, matching canonicals and descriptions, correct Event schema eligibility, 169 decodable image assets, and complete sitemap coverage. The live catalog contains 390 events, 133 schema-eligible. Sample Googlebot and social-suffix requests also passed.
+
+## Follow-up grammar review
+
+The user subsequently requested corrections to the speaker wording on `/ibw` and grammar throughout the event pages. All 390 current descriptions were reviewed. The resulting 112 targeted corrections affect 60 pages; event facts, numbers, URLs and original source-fetch timestamps are preserved.
+
+`content/events/grammar-review-2026-10-20.json` records the exact before/after edits and their reasons, original and revised text hashes, and the structured facts that must remain unchanged. Historical source-audit hashes remain intact; regression checks recognize only explicitly recorded copy revisions whose original hash matches that audit.
+
+`test-event-grammar.ts` verifies all 60 corrected pages against their original structured facts and numeric/link tokens, including regeneration. Discovery, current-catalog, content-quality, schema, address-preservation and type checks pass. HTTP checks verified all 60 corrected local pages, with Chromium checks of `/ibw`, the AWIC speaker list, Horizon's agenda and DeFi Security Summit at 390px/1440px in both themes.
+
+The grammar follow-up is awaiting deployment and live verification.

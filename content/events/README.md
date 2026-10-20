@@ -123,6 +123,8 @@ The page presentation follows the existing Hashtagweb3 event typography and colo
 
 `discovery-audit-2026-10-20.json` records the October 20 additions, recoveries, exclusions, source checks and cover-image receipts. Hidden locations remain city-only, and restricted entry is disclosed. Calendar rate limits are recorded as incomplete coverage. Run `npx tsx scripts/test-event-discovery.ts` to check the release's provenance, preserved URLs and descriptions, privacy, artwork and map coverage.
 
+User-requested grammar corrections are applied through `catalog-reviewed-descriptions.json`. `grammar-review-2026-10-20.json` records exact edits, reasons, the original text hash and unchanged structured facts. Source-fetch timestamps retain their original meaning. `npx tsx scripts/test-event-grammar.ts` checks that only the approved copyedits reach the runtime and survive regeneration; source-audit hashes remain preserved.
+
 ## Reviewed source recovery
 
 The [Mumbai source audit](MUMBAI_AUDIT.md) covers the complete public future Devcon and IBW calendars, Team1 Mumbai and the official IBW spreadsheet. Its report records pagination, primary-page verification, row mappings, exclusions and canonical identity preservation.

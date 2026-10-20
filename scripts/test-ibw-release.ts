@@ -12,6 +12,7 @@ import audit from '../content/events/ibw-description-audit.json';
 import { buildEventSlugIndex } from '../src/lib/event-slug-index';
 import type { Web3Event } from '../src/lib/events';
 import { SOCIAL_UTM_MAP } from '../src/lib/social-share';
+import { expectedEventDescriptionHash } from './lib/event-grammar-audit';
 
 const events = eventsJson as Web3Event[];
 const index = buildEventSlugIndex(events);
@@ -33,7 +34,7 @@ async function main() {
   for (const row of audit.rows) {
     const event = index.get(row.slug);
     assert.equal(event?.id, row.id, `${row.slug}: keep the original identity through a rename`);
-    assert.equal(digest(event!.description!), row.afterSha256, `${row.slug}: reviewed copy reaches runtime in full`);
+    assert.equal(digest(event!.description!), expectedEventDescriptionHash(row.id, row.afterSha256), `${row.slug}: reviewed copy reaches runtime in full`);
     if (row.decision === 'source-unavailable') {
       assert.equal(row.changed, false);
       assert.equal(row.beforeSha256, row.afterSha256);

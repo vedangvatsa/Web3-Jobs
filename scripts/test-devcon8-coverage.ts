@@ -10,6 +10,7 @@ import { isEventRetentionDue } from './lib/event-retention.mjs';
 import report from '../content/events/devcon8-coverage.json';
 import plans from '../content/events/devcon8-reviewed-additions.json';
 import ibw from '../content/events/ibw-description-audit.json';
+import { expectedEventDescriptionHash } from './lib/event-grammar-audit';
 import history from '../content/event-slug-history.json';
 import baseline from './fixtures/devcon8-coverage.json';
 
@@ -118,7 +119,7 @@ assert.equal(ibw.rows.length, 54);
 for (const row of ibw.rows) {
   const e = runtime.find(e => e.id === row.id);
   assert.ok(e, `Missing protected IBW record ${row.id}`);
-  assert.equal(hash(e.description), row.afterSha256, `Protected IBW copy ${row.id}`);
+  assert.equal(hash(e.description), expectedEventDescriptionHash(row.id, row.afterSha256), `Protected IBW copy ${row.id}`);
 }
 assert.equal(index.get('free-society-hackathon')?.sourceVerification?.eventId, 'evt-B6kmWqZYUUeTkIP');
 const removed = baseline.sources.flatMap(s => s.removed);

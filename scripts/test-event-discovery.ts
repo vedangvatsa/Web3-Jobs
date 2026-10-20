@@ -8,6 +8,7 @@ import { buildEventSlugIndex } from '../src/lib/event-slug-index';
 import { listUnmappedMapEvents } from '../src/lib/event-map-locations';
 import { canImportEvent } from './lib/event-retention.mjs';
 import { hasEventEnded } from './lib/event-dates.mjs';
+import { expectedEventDescriptionHash } from './lib/event-grammar-audit';
 
 type AuditEvent = Pick<Web3Event, 'id' | 'startDate' | 'endDate' | 'timezone' | 'eventStatus'>;
 type DiscoveryAudit = {
@@ -62,7 +63,7 @@ for (const previous of audit.previousCatalog) {
   assert.equal(event.slug, previous.slug, `${previous.id}: published URL changed`);
   for (const alias of previous.aliases) assert.equal(index.get(alias)?.id, event.id, `${previous.id}: historical alias lost`);
   if (!corrected.has(previous.id)) {
-    assert.equal(createHash('sha256').update(event.description).digest('hex'), previous.descriptionSha256, `${previous.id}: existing description changed`);
+    assert.equal(createHash('sha256').update(event.description).digest('hex'), expectedEventDescriptionHash(previous.id, previous.descriptionSha256), `${previous.id}: existing description changed without a reviewed correction`);
   }
 }
 

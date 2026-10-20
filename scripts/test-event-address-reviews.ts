@@ -10,6 +10,7 @@ import { buildGoogleEventSchema, getGoogleEventSchemaIssues } from '../src/lib/e
 import { EventVenueAddresses } from '../src/components/event-venue-addresses';
 import runtime from '../content/events-runtime.json';
 import ibwAudit from '../content/events/ibw-description-audit.json';
+import { expectedEventDescriptionHash } from './lib/event-grammar-audit';
 
 Object.assign(globalThis, { React });
 const event: Web3Event = {
@@ -95,8 +96,8 @@ test('address enrichment preserves protected IBW descriptions and Free Society f
   const catalog = runtime as Web3Event[];
   for (const row of ibwAudit.rows) {
     const item = catalog.find(entry => entry.id === row.id);
-    // Ended events leave the runtime; retained descriptions must remain exact.
-    if (item) assert.equal(createHash('sha256').update(item.description).digest('hex'), row.afterSha256, row.id);
+    // Ended events leave the runtime; copy changes require an explicit reviewed revision.
+    if (item) assert.equal(createHash('sha256').update(item.description).digest('hex'), expectedEventDescriptionHash(row.id, row.afterSha256), row.id);
   }
   const freeSociety = catalog.find(entry => entry.slug === 'free-society-hackathon');
   if (!freeSociety) return;
