@@ -29436,7 +29436,8 @@
       },
       "account": "channel:base",
       "attemptId": "2228a68e-06a8-4fd3-8ddb-666044e83e27",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x90ba9ef839f69adaeb7159eb1659bb3155fea3d3"
     }
   ]
 }
