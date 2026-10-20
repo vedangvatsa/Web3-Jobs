@@ -32346,9 +32346,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "410276e2-0f9b-47b1-bac5-c1761557069e",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad7526931ed850c40df114b",
-      "error": "LinkedIn #Web3 receipt 6ad7526931ed850c40df114b remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad7526931ed850c40df114b remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518274220372578304"
     },
     {
       "slug": "dcf",
