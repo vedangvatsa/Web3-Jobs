@@ -29688,7 +29688,8 @@
       },
       "account": "channel:growth",
       "attemptId": "bb6b8c34-4458-4d4a-8fbe-cf7f91ecd95b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7e8d8395110c877b649d0d08feb3476f25aa2621"
     }
   ]
 }
