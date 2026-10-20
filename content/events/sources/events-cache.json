@@ -355,70 +355,6 @@
     }
   },
   {
-    "id": "luma-evt-fA9N79eMZZ6BgI6",
-    "name": "Awaken Thyself - A doorway to Lineage",
-    "description": "Maybe you feel there’s more. A deeper truth behind the noise. A spark still waiting to be lit.\n\nThis day is a doorway. A chance to explore the ancient path of a lineage. This is the path of progression —\n\nNot just a spark, but a way of life. A path that brings clarity, joy, and lightness into the everyday.\n\nUntil one day, you realize… it lives in each breath.\n\nEach moment.\n\nThat quiet radiance. That deeper knowing.\n\nThis is the path to Know Thyself: Living with joy. With direction. With magick. With purpose.\n\n✨ WHAT YOU’LL EXPERIENCE\n\n🔹 Awaken Thyself Workshop\n\n• Experience the essence of the ancient mysteries—echoes of a time-tested lineage passed down teacher to student, unbroken.\n• Connect to the energy of an initiatory lineage: grounding spiritual light into your life and sets transformation in motion.\n• Be guided through meditation and ritual—tools not just taught, but transmitted—so they remain pure, potent, and alive.\n• Make an educated and discerning decision: is this sacred journey to Know Thyself the path you choose to walk?",
-    "startDate": "2026-09-20T14:00:00.000Z",
-    "endDate": "2026-09-20T17:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Pluto: Fourth Space for Community, Co-Creation, & Coworking, 60 Sumach St Ground level, Toronto, ON M5A 3J7, Canada",
-    "url": "https://lu.ma/fa0cl3k7",
-    "coverImage": "/events/luma-evt-fa9n79emzz6bgi6-afc97736.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "atdl",
-    "timezone": "America/Toronto",
-    "registrationUrl": "https://luma.com/fa0cl3k7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Pluto: Fourth Space for Community, Co-Creation, & Coworking",
-    "streetAddress": "60 Sumach St Ground level, Toronto",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "neighborhood": "Corktown",
-    "coordinates": {
-      "latitude": 43.6563717,
-      "longitude": -79.35899669999999
-    },
-    "hosts": [
-      "Mike Popovici",
-      "Pluto Toronto"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Bardo Transformation",
-      "url": "https://bardotransformation.com/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fa0cl3k7",
-        "price": 50,
-        "priceCurrency": "CAD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Plutonian",
-        "url": "https://luma.com/fa0cl3k7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fa0cl3k7",
-      "eventId": "evt-fA9N79eMZZ6BgI6",
-      "fetchedAt": "2026-09-19T23:49:45.186Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-56muPluIvodVTSs",
     "name": "Reform Room X Lido house",
     "description": "You’re invited.\n\nReform Room x Lido House\nNewport Beach • September 20 • 1PM–3PM\n\n❕Dress Code: Butter Yellow 🍋\n\nJoin us for a luxury Pilates experience by the coast with vendors, sponsors, wellness, and more.\n\nEach guest will receive a custom yoga mat + curated goodie bag to take home.\n\nLimited availability.",
@@ -19591,7 +19527,6 @@
     "speakers": [
       "Mike Cagney",
       "Gareth Davies MP",
-      "Liz Martin",
       "Johann Kerbrat",
       "Emma Landriault",
       "Dan Tapiero",
@@ -19618,7 +19553,8 @@
       "Stephanie Ramezan",
       "Francisco Maroto Castro",
       "Kash Razzaghi",
-      "Alex Seddon"
+      "Alex Seddon",
+      "Lance Vitanza"
     ]
   },
   {
@@ -20696,7 +20632,7 @@
     "country": "Czech Republic",
     "location": "Prague, Czech Republic",
     "url": "https://btcprague.com/",
-    "coverImage": "/events/ma-btc-prague-2027-3c51e74b.webp",
+    "coverImage": "/events/w3v-btc-prague-27-05-06-ea15c78d.webp",
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -20923,7 +20859,7 @@
     "country": "South Korea",
     "location": "Seoul, South Korea",
     "url": "https://koreablockchainweek.com/",
-    "coverImage": "/events/ma-korea-blockchain-week-2027-d240e3e5.webp",
+    "coverImage": "/events/ma-korea-blockchain-week-2026-kbw2026-450007be.webp",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -20937,7 +20873,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21086,7 +21022,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -22099,7 +22035,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -23041,7 +22980,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316843977/",
-    "coverImage": "/events/mu-316843977-eff83e66.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23055,7 +22994,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316859694/",
-    "coverImage": "/events/mu-316859694-f23c50d1.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23069,7 +23008,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
-    "coverImage": "/events/mu-316802775-00c0322a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23526,7 +23465,7 @@
     "country": "us",
     "location": "Des Moines, us",
     "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316665472-cd887090.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -25072,10 +25011,7 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Jordan Boich"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -27985,5 +27921,75 @@
     "url": "https://luma.com/unfollowbombay",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-pFcQwUTOA8oLMMD",
+    "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
+    "description": "",
+    "startDate": "2026-10-20T17:30:00.000Z",
+    "endDate": "2026-10-20T20:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/encode-mmls",
+    "coverImage": "/events/luma-evt-pfcqwutoa8olmmd-30a706ed.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-8U0cUpXLZqLIgxB",
+    "name": "GIBLDN26 Rockchain - food drinks and crypto",
+    "description": "",
+    "startDate": "2026-10-21T16:00:00.000Z",
+    "endDate": "2026-10-21T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/vv3fj69q",
+    "coverImage": "/events/luma-evt-8u0cupxlzqligxb-461f7e95.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316789341",
+    "name": "Let's discuss Bitcoin and the Crypto Sector",
+    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
+    "startDate": "2026-10-20T19:00:00-05:00",
+    "endDate": "2026-10-20T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/316789341/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316047302",
+    "name": "Open Bitcoin Q&A Chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* https://Bitcoin.Rocks\n* https://Bitcoin-Only.com\n* https",
+    "startDate": "2026-10-21T19:00:00-05:00",
+    "endDate": "2026-10-21T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/satoshi-service-center/events/316047302/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-NSRzN2C60fRfFEK",
+    "name": "Proof of Work",
+    "description": "",
+    "startDate": "2026-10-29T22:00:00.000Z",
+    "endDate": "2026-10-30T01:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/ffglcmtz",
+    "coverImage": "/events/luma-evt-nsrzn2c60frffek-8d00b3b6.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]

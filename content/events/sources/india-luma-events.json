@@ -84,54 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-team1-indore",
-    "name": "Team1 India Workshop | Indore",
-    "description": "## Welcome to the Team1 India Avalanche Workshop in Indore\n\n## Introduction\n\nJoin Team1 India in Indore for a hands-on developer workshop where you'll go from zero to deploying your first smart contract on Avalanche Fuji C-Chain.\n\nThis session is designed for developers, engineering students, beginner Solidity builders, hackathon participants, and anyone curious about building on Avalanche.\n\nNo previous blockchain experience is required.\n\nDuring the workshop, you'll:\n\n• Set up a Core or compatible wallet\n• Connect to Avalanche Fuji C-Chain\n• Claim free testnet AVAX\n• Learn the basics of Solidity\n• Write and compile a smart contract in Remix\n• Deploy it to Avalanche Fuji\n• Interact with your contract on-chain\n• Verify your deployment on Snowtrace\n• Leave with a public proof-of-work link you can share\n\n💻 Bring your laptop\n🌐 Reliable Wi-Fi will be available\n🎟️ Limited to approximately 45 participants\n\nAfter the workshop, stick around for food, networking, and conversations with fellow developers and builders from Indore.\n\n## 🗓️ Event Program\n\n5:30 PM — Doors open, registrations & networking\n\n6:00 PM — Welcome & opening by Team1 host\n[Laksh Dilliwal](https://x.com/lakshdilliwal)\n\n6:10 PM — Introduction to Team1, Avalanche & the C-Chain ecosystem\n\n6:25 PM — Wallet setup, wallet safety & Avalanche Fuji Testnet\n\n6:40 PM — Claim testnet AVAX & introduction to Avalanche Builder Hub\n\n6:55 PM — Introduction to Remix IDE & Solidity basics\n\n7:10 PM — Build your first NumberStorage smart contract\n\n7:30 PM — Compile & deploy the contract to Avalanche Fuji C-Chain\n\n7:45 PM — Interact with the contract & understand storage vs memory\n\n8:00 PM — Verify deployments and transactions on Snowtrace\n\n8:15 PM — Share proof of work, developer resources & what's next on Avalanche\n\n8:25 PM — Q&A\n\n8:35 PM — Food, networking & builder conversations\n\n9:00 PM — Closing\n\n## 👨‍💻 Who Should Attend?\n\nThis workshop is ideal for:\n\n• Developers and engineering students\n• Beginner Solidity developers\n• Web3 and blockchain builders\n• Hackathon participants\n• Developers exploring Avalanche\n• Anyone who wants their first hands-on smart contract deployment\n\nYou do not need prior Solidity or blockchain experience.\n\nJust bring your laptop, browser, and curiosity.\n\n## 🛠️ What You'll Build\n\nDuring the workshop, you'll build and deploy a simple smart contract that stores a number on-chain and reads it back.\n\nAlong the way, you'll learn one of the most important Solidity concepts:\n\nStorage vs Memory\n\nYou'll experience the difference between:\n\n• Writing data on-chain and paying gas\n• Reading blockchain state for free\n• Temporary memory and permanent blockchain storage\n\nBy the end of the workshop, your contract will be live on Avalanche Fuji and publicly verifiable through the block explorer.\n\n## 🎯 Workshop Outcomes\n\nOur goal is not just attendance.\n\nWe want participants to leave having actually used Avalanche.\n\nExpected outcomes include:\n\n• New developer wallets created\n• Developers onboarded to Avalanche Fuji\n• Smart contracts successfully deployed\n• Public contract and transaction links generated\n• Developers introduced to Avalanche Builder Hub, Academy and Docs\n• New builders identified for future Team1 workshops and ecosystem opportunities\n\n## 🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, and community members who grow Avalanche.\n\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation, and community-led initiatives.\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\nhttps://x.com/AvaxTeam1\n\nWhat to bring\n\n💻 Laptop\n🔋 Charger\n🧠 No prior blockchain experience required\n\nEverything during the workshop runs on Avalanche Fuji Testnet, so no real funds are required.\n\nCome curious. Leave with your first smart contract deployed on Avalanche. 🔺\nhttps://x.com/AvaxTeam1",
-    "startDate": "2026-09-20T09:30:00.000Z",
-    "endDate": "2026-09-20T12:30:00.000Z",
-    "city": "Indore",
-    "country": "India",
-    "location": "Indore, India",
-    "url": "https://luma.com/team1-indore",
-    "coverImage": "/events/india-luma-team1-indore-c2422850.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Shriyash Pandey",
-      "Laksh Dilliwal",
-      "A36 Labs",
-      "Team1"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "tiw",
-    "registrationUrl": "https://luma.com/team1-indore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Team1 India",
-      "url": "https://team1.network/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/team1-indore",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/team1-indore",
-      "eventId": "evt-GVrl6vGCndkyWAM",
-      "fetchedAt": "2026-09-19T23:30:15.642Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-scetu",
     "name": "Team1 India University Workshop - SCET",
     "description": "Welcome to the Team1 Workshop at SCET University in Surat\nIntroduction\nCome meet the Avalanche community for an evening of networking, discovery and conversation.\nWhether you're building on-chain / exploring new ecosystems / new to Web3..., this meetup is your chance to connect with fellow builders / founders / community members... 🚀\nEnjoy good vibes, refreshments and a short presentation about Avalanche with Hands-on workshop and BUILD-STATIONS 🔺\n🗓️ Event Program\n[01:00 PM] - Doors open & welcome attendees\n[01:15 PM] - Opening words by anchor and Introduction to the speaker Mr. Saurabh Nage\n[01:20 AM] - Intro to Avalanche & the local ecosystem\n[02:00 AM] - Q&A Session\n[02:15 AM] - Hands-on workshop begins\n[03:00 PM] - Build-Stations begins\n[04:00 PM] - Swags Distribution according to winner declaration\n[04:20 PM] - Closing felicitation ceremony & Group Photo with Avalanche & Team1 Banner\n🤝 Partners & Sponsors\nPU DAO - Community Partner\nA grassroots Web3 community empowering students and developers through workshops, hackathons and hands-on builder initiatives across India.\nWeb3 Surat - Community Partner\nA technology-focused community fostering innovation, technical learning and collaboration among students and emerging builders.\nSCET University - Venue Partner\nOur host university, bringing students and the local tech community together for an engaging Web3 learning and builder experience.\n🎉 Huge thanks to all our partners for helping us bring this meetup to life!\n🧩 About Team1\nTeam1 is a global network of builders, developers, creatives, & community members who grow Avalanche.\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.",
