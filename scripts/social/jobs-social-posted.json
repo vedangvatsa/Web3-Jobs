@@ -33616,7 +33616,8 @@
       },
       "account": "channel:dev",
       "attemptId": "bdd3696a-9289-44f1-b5cf-ee083fb37e43",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb015fb2799662d98a5a3900ad789ac229c0a416a"
     }
   ]
 }
