@@ -30487,7 +30487,8 @@
       },
       "account": "channel:product",
       "attemptId": "140ed6c2-3468-4ada-a56e-76e23e5c48a6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa2968f4a1a1ebe3166584ec16ea817c2a905d451"
     }
   ]
 }
