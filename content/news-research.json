@@ -63296,7 +63296,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a5b9cb9bb862c5b96810",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-19T16:13:05.278Z",
       "attempts": 2,
       "expiresAt": "2026-10-22T15:25:00.000Z",
@@ -63323,7 +63323,8 @@
         "Unchained Charles Hoskinson Reveals Work on a Card primary source"
       ],
       "lastReviewedDay": "2026-10-20",
-      "articleSlug": "cardanolang"
+      "articleSlug": "cardanolang",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "25b00e00c16daaac3818": {
       "source": "CryptoSlate",
@@ -63982,7 +63983,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b6e5f6ddbbb7e39c3fc",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T03:11:48.000Z",
@@ -64001,7 +64002,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "hoodiupgrade",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "52c744763ac483bb5579": {
       "source": "BeInCrypto",
@@ -64725,7 +64727,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "08c7cce104d30dda0299",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T21:04:34.000Z",
@@ -64748,7 +64750,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.172Z",
       "articleSlug": "skyaitender",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "7fed7b87c0093c7f8524": {
       "source": "Decrypt",
@@ -64765,7 +64768,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7fed7b87c0093c7f8524",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T20:46:05.000Z",
@@ -64784,7 +64787,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "xrplending",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "04ea28590f269705a260": {
       "source": "CoinDesk",
@@ -64836,7 +64840,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d67e45b86a1f249e1472",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T19:54:38.000Z",
@@ -64855,7 +64859,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "binanceaipro",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "f8b875bf0792070a3976": {
       "source": "Bitcoin Magazine",
@@ -65843,7 +65848,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "085943eb1e4c4d28d6c1",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T22:14:31.000Z",
@@ -65866,7 +65871,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.172Z",
       "articleSlug": "ramptrust",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "679393c2deacbcd9a85d": {
       "source": "Crypto Briefing",
@@ -66168,7 +66174,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4719d751b86abb7b0c74",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T19:32:17.000Z",
@@ -66191,7 +66197,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "superplanet",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "da4c017263b49ac03d7d": {
       "source": "Cointelegraph",
@@ -66208,7 +66215,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "da4c017263b49ac03d7d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T19:16:19.000Z",
@@ -66235,7 +66242,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "visamesh",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "a61e2d9c6fb04b46c799": {
       "source": "Decrypt",
@@ -66252,7 +66260,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a61e2d9c6fb04b46c799",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 1,
       "expiresAt": "2026-10-22T19:16:04.000Z",
@@ -66271,7 +66279,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "mastercardrisk",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "936c292d9decb1ed3104": {
       "source": "Cointelegraph",
@@ -66564,7 +66573,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ce96064e709e3fa48d5f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T08:45:02.257Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T08:15:58.000Z",
@@ -66595,7 +66604,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.170Z",
       "articleSlug": "pbit",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "6e008c857b3e14b33cc5": {
       "source": "Cointelegraph",
@@ -66753,7 +66763,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "9232b08d23cd5d65594d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T08:45:02.257Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T05:24:18.000Z",
@@ -66772,7 +66782,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.171Z",
       "articleSlug": "sophon",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "1dea8e14c86326d4d02f": {
       "source": "Cointelegraph",
@@ -67405,7 +67416,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8e85ec6f78779bed192d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T08:45:02.257Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T06:19:34.000Z",
@@ -67428,7 +67439,8 @@
       ],
       "reviewedAt": "2026-10-20T09:52:43.172Z",
       "articleSlug": "sparkasse",
-      "lastReviewedDay": "2026-10-20"
+      "lastReviewedDay": "2026-10-20",
+      "publishedAt": "2026-10-20T09:55:01.204Z"
     },
     "bf133a9e1848da954470": {
       "source": "BeInCrypto",
@@ -116330,7 +116342,7 @@
     "2026-10-20": {
       "day": "2026-10-20",
       "startedAt": "2026-10-20T03:31:23.060Z",
-      "status": "incomplete",
+      "status": "completed",
       "candidateIds": [
         "1ce3481a2c86023fe141",
         "865d629bd4501048f5f0",
@@ -117412,7 +117424,7 @@
           "automatic": true
         },
         "ce96064e709e3fa48d5f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/pbit.md from the SEC Form 485APOS, Unchained, Cointelegraph and Crypto Briefing; structure, managers, fee placeholder and timing verified across four sources.",
           "sourceChecks": [
@@ -117438,10 +117450,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.170Z",
-          "articleSlug": "pbit"
+          "articleSlug": "pbit",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "4719d751b86abb7b0c74": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/superplanet.md; consideration, share counts, lock-up, Q4 close and ticker change confirmed by Bitcoin Magazine and Cointelegraph plus the SEC 8-K.",
           "sourceChecks": [
@@ -117459,10 +117472,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "superplanet"
+          "articleSlug": "superplanet",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "da4c017263b49ac03d7d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/visamesh.md; merchant count, credential provisioning, Mesh role and Azizi quote verified in Cointelegraph and Crypto Briefing.",
           "sourceChecks": [
@@ -117484,10 +117498,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "visamesh"
+          "articleSlug": "visamesh",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "a61e2d9c6fb04b46c799": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/mastercardrisk.md; Stablecoin Security launch, BIS study figures, partners and rollout timing verified in Decrypt and Cointelegraph.",
           "sourceChecks": [
@@ -117501,10 +117516,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "mastercardrisk"
+          "articleSlug": "mastercardrisk",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "9232b08d23cd5d65594d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/sophon.md; Nov. 25 and Nov. 30 dates, cost figures, token economics and Abstract parallel verified across Crypto Briefing and Cointelegraph.",
           "sourceChecks": [
@@ -117518,10 +117534,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "sophon"
+          "articleSlug": "sophon",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "1b6e5f6ddbbb7e39c3fc": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/hoodiupgrade.md; Oct. 26 17:42:48 UTC activation, 200M gas target and operator upgrade requirements verified in CryptoSlate and Crypto Briefing.",
           "sourceChecks": [
@@ -117535,10 +117552,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "hoodiupgrade"
+          "articleSlug": "hoodiupgrade",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "d67e45b86a1f249e1472": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/binanceaipro.md; free tier, 10-strategy cap, sub-account isolation and profitability disclaimer verified in Unchained and CryptoSlate.",
           "sourceChecks": [
@@ -117552,10 +117570,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "binanceaipro"
+          "articleSlug": "binanceaipro",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "7fed7b87c0093c7f8524": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/xrplending.md; V1_1 amendment, vote counts, Friday activation time and lending mechanics verified in Decrypt and CoinDesk.",
           "sourceChecks": [
@@ -117569,10 +117588,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.171Z",
-          "articleSlug": "xrplending"
+          "articleSlug": "xrplending",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "08c7cce104d30dda0299": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/skyaitender.md; cash position, tender size, per-share price and cost-basis history verified in Cointelegraph, Crypto Briefing and the SEC exhibit.",
           "sourceChecks": [
@@ -117590,10 +117610,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.172Z",
-          "articleSlug": "skyaitender"
+          "articleSlug": "skyaitender",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "a5b9cb9bb862c5b96810": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/cardanolang.md; X quote, Lucas Rosa identification and Cardano DeFi metrics verified across Unchained, CryptoSlate and CoinDesk.",
           "sourceChecks": [
@@ -117611,10 +117632,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.172Z",
-          "articleSlug": "cardanolang"
+          "articleSlug": "cardanolang",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "8e85ec6f78779bed192d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/sparkasse.md; Oct. 19 rollout, five assets, DekaBank custody model and fee verified in Crypto Briefing and crypto.news citing DekaBank product pages.",
           "sourceChecks": [
@@ -117632,10 +117654,11 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.172Z",
-          "articleSlug": "sparkasse"
+          "articleSlug": "sparkasse",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "085943eb1e4c4d28d6c1": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote content/articles/ramptrust.md; Oct. 16 OCC filing, charter scope, partner arrangements and peer applications verified in Crypto Briefing and crypto.news.",
           "sourceChecks": [
@@ -117653,7 +117676,8 @@
             }
           ],
           "reviewedAt": "2026-10-20T09:52:43.172Z",
-          "articleSlug": "ramptrust"
+          "articleSlug": "ramptrust",
+          "publishedAt": "2026-10-20T09:55:01.204Z"
         },
         "90f4309d8f50d690440d": {
           "status": "rejected",
@@ -119410,7 +119434,9 @@
         ],
         "total": 163,
         "checkedAt": "2026-10-20T08:45:02.257Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-20T09:55:01.204Z"
     }
   }
 }
