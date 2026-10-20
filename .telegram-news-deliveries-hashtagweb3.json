@@ -1822,5 +1822,36 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 155849,
     "sentAt": "2026-10-19T19:34:09.245Z"
+  },
+  "0bffa748-62d3-4663-a54f-1cabf7b962f2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T11:33:25.647Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance Opens AI Strategy Agent with Free Tier",
+        "summary": "Users receive 250,000 free monthly credits following a paid beta period that began in March.",
+        "link": "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance opens its AI Pro strategy agent to all users with a free tier"
+      },
+      {
+        "index": -1,
+        "headline": "German Sparkasse banks enable cryptocurrency trading in mobile apps",
+        "summary": "Customers can trade Bitcoin, Ether, XRP, Solana, and Polygon through DekaBank starting October 19.",
+        "link": "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Germany's Sparkasse banks turn on crypto trading inside their app"
+      },
+      {
+        "index": -1,
+        "headline": "Charles Hoskinson develops new Cardano language with Groth16 proofs",
+        "summary": "Working with Lucas Rosa, the project enables intents and proof-carrying data but lacks a name or release date.",
+        "link": "https://hashtagweb3.com/cardanolang?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hoskinson says he is writing a new Cardano language with Groth16 proofs"
+      }
+    ],
+    "slotKey": "2026-10-20:afternoon"
   }
 }
