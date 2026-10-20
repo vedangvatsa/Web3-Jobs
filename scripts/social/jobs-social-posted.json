@@ -29364,7 +29364,8 @@
       },
       "account": "channel:build",
       "attemptId": "8807fd4a-2e76-483e-93e9-457e93af7a29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x850e05c6ed5d39018d2b24037132d12d6c8e6988"
     }
   ]
 }
