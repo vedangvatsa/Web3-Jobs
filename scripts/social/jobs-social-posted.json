@@ -30237,6 +30237,41 @@
       "attemptId": "d31764b2-b6da-429c-9b88-bee890169eb2",
       "verification": "verified",
       "postId": "0x67f25d6dd340788e12683dd2db32ea09bb8b96ae"
+    },
+    {
+      "slug": "cmp34",
+      "company": "Ramp",
+      "title": "Compliance Innovation Senior Strategist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T06:11:29.187Z",
+      "expectedText": "Ramp is hiring Compliance Innovation Senior Strategist\n\nhttps://hashtagweb3.com/cmp34/fc?og=7",
+      "snapshot": {
+        "id": "fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+        "title": "Compliance Innovation Senior Strategist",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+        "date": "2026-10-16T18:17:38.962+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp34"
+      },
+      "payload": {
+        "text": "Ramp is hiring Compliance Innovation Senior Strategist\n\nhttps://hashtagweb3.com/cmp34/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp34/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "d5413e52-5d87-443c-84ec-a8068574c05f",
+      "verification": "creating"
     }
   ]
 }
