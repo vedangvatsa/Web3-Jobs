@@ -32391,6 +32391,48 @@
       "verification": "pending",
       "postId": "6ad7527b41bc4976d5435365",
       "error": "LinkedIn CVin.Bio receipt 6ad7527b41bc4976d5435365 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "dcf",
+      "company": "TRM Labs",
+      "title": "Head of Corporate FP&A",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T11:35:30.698Z",
+      "expectedText": "TRM Labs is hiring Head of Corporate FP&A: https://hashtagweb3.com/dcf/li?og=7",
+      "snapshot": {
+        "id": "0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+        "title": "Head of Corporate FP&A",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+        "date": "2026-10-14T17:09:59.822+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dcf"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Head of Corporate FP&A: https://hashtagweb3.com/dcf/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dcf/li?og=7",
+          "title": "Head of Corporate FP&A at TRM Labs",
+          "description": "Join TRM Labs as Head of Corporate FP&A. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dcf.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "10c26c7b-5985-4593-995a-e448f5be1752",
+      "verification": "creating"
     }
   ]
 }
