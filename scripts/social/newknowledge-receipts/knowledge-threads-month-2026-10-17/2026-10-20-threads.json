@@ -105,8 +105,9 @@
     "0": {
       "createClaim": "10ba278b-99b4-438c-bf1f-4808ae86f71a",
       "startedAt": "2026-10-20T11:31:24.567Z",
-      "status": "container-created",
-      "containerId": "18097838486199925"
+      "status": "publishing",
+      "containerId": "18097838486199925",
+      "publishClaim": "832bde4d-a118-4381-967b-d8d69b9131c0"
     }
   }
 }
