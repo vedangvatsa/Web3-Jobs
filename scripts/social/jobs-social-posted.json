@@ -31763,7 +31763,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "ad54dde3-7b03-41b8-ad83-de1cdd36b368",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa26d725f5f638077c41ea60f5b75a776a5bf73ef"
     }
   ]
 }
