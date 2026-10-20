@@ -32529,6 +32529,38 @@
       "verification": "creating",
       "containerId": "18097887743199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"Ao6Z8V7B7LNT2LhJ_KCWUVc\"}}"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "bluesky",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/bsky?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dshk/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dshk.png?v=7",
+        "company": "Galaxy Digital",
+        "title": "Senior Desktop Support, Hong Kong",
+        "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6f4087da-f149-4a52-bd80-014da30fba7f",
+      "verification": "creating"
     }
   ]
 }
