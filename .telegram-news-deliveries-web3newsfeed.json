@@ -1923,7 +1923,7 @@
     "sentAt": "2026-10-20T11:32:56.907Z"
   },
   "8fbfcd92-b319-48c6-abc8-b855e7b8b29b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-20T19:33:14.831Z",
     "stories": [
       {
@@ -1951,6 +1951,8 @@
         "originalTitle": "SkyAI sells its entire Solana treasury and offers a $201 million tender"
       }
     ],
-    "slotKey": "2026-10-20:evening"
+    "slotKey": "2026-10-20:evening",
+    "messageId": 65766,
+    "sentAt": "2026-10-20T19:33:22.999Z"
   }
 }

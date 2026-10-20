@@ -806,6 +806,9 @@
   "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hoodiupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/pbit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cardanolang?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/skyaitender?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2318,6 +2321,12 @@
   "Ethereum sets Oct. 26 for Glamsterdam's Hoodi testnet activation",
   "German Sparkasse Banks Launch In-App Crypto Trading",
   "Germany's Sparkasse banks turn on crypto trading inside their app",
+  "BlackRock files for Bitcoin ETF with downside protection",
+  "BlackRock files for third bitcoin ETF, a protected-outcome fund on IBIT",
+  "Hoskinson Developing New Cardano Language Using Groth16 Proofs",
+  "Hoskinson says he is writing a new Cardano language with Groth16 proofs",
+  "SkyAI sells all Solana holdings for $201 million tender offer",
+  "SkyAI sells its entire Solana treasury and offers a $201 million tender",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2653,5 +2662,8 @@
   "fp:access|approv|back|bank|client|coin|deposit|gain|institutional|jpm",
   "fp:000|agent|all|began|beta|binanc|credit|fre|march|monthly",
   "fp:200m|activation|glamsterdam|hoodi|increas|must|nod|oct26|operator|softwar",
-  "fp:app|bank|can|cryptocurrency|customer|dekabank|directly|fiv|german|germany"
+  "fp:app|bank|can|cryptocurrency|customer|dekabank|directly|fiv|german|germany",
+  "fp:blackrock|capp|downsid|etf|fil|fund|gain|ibit|investment|limit",
+  "fp:cardano|carry|creat|dat|data|develop|enabl|exist|groth16|hoskinson",
+  "fp:201m|all|back|buy|entir|firm|liquidat|october16|offer|per"
 ]
