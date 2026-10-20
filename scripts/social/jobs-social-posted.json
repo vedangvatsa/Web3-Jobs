@@ -33966,7 +33966,8 @@
       },
       "account": "channel:design",
       "attemptId": "ba9dd821-edab-47c1-804b-2e5a150e56cf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2eac9423ccb5a87d075ef85e0d96b99eae452676"
     }
   ]
 }
