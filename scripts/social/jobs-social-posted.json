@@ -32267,7 +32267,8 @@
       },
       "account": "channel:design",
       "attemptId": "28e31801-6a4c-44cf-81c3-df626743947e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf2d5393731cbd95819bd8637edc26e367ae6a4fe"
     }
   ]
 }
