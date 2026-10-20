@@ -29733,6 +29733,47 @@
       "verification": "pending",
       "postId": "6ad705db2fcafd0f1852a3d8",
       "error": "LinkedIn #Web3 receipt 6ad705db2fcafd0f1852a3d8 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "pm219",
+      "company": "Elliptic",
+      "title": "Head of Compliance Product",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T06:08:58.422Z",
+      "expectedText": "Elliptic is hiring Head of Compliance Product: https://hashtagweb3.com/pm219/li?og=7",
+      "snapshot": {
+        "id": "34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "title": "Head of Compliance Product",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "date": "2026-10-05T09:19:28.240+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm219"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Head of Compliance Product: https://hashtagweb3.com/pm219/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm219/li?og=7",
+          "title": "Head of Compliance Product at Elliptic",
+          "description": "Join Elliptic as Head of Compliance Product. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm219.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "490fdbc4-8fac-4648-a0f9-b99511f897a4",
+      "verification": "creating"
     }
   ]
 }
