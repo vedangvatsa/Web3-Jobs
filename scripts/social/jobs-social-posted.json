@@ -29880,7 +29880,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "752900cb-02cf-4651-87e8-20305f440305",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad706132fcafd0f1852b071"
     }
   ]
 }
