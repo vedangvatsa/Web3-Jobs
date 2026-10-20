@@ -206,7 +206,9 @@
     "dev29",
     "eng155",
     "infra23",
-    "associate52"
+    "associate52",
+    "mkt109",
+    "aso23"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -270,9 +272,7 @@
     "eng70",
     "eng610",
     "sls299",
-    "sup6",
-    "mkt109",
-    "aso23"
+    "sup6"
   ],
   "history": [
     {
