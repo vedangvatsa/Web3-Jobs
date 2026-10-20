@@ -1888,5 +1888,36 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 65764,
     "sentAt": "2026-10-19T19:34:18.212Z"
+  },
+  "19518fa4-1145-45de-bb79-1023308b66bd": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T11:32:51.760Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance launches free tier for AI Pro strategy agent",
+        "summary": "The platform now provides 250,000 monthly credits to all users after a beta phase that began in March.",
+        "link": "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance opens its AI Pro strategy agent to all users with a free tier"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum sets Oct. 26 for Hoodi testnet Glamsterdam upgrade",
+        "summary": "Node operators must update software as the update increases the testnet gas target to 200 million.",
+        "link": "https://hashtagweb3.com/hoodiupgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum sets Oct. 26 for Glamsterdam's Hoodi testnet activation"
+      },
+      {
+        "index": -1,
+        "headline": "German Sparkasse Banks Launch In-App Crypto Trading",
+        "summary": "Through DekaBank, customers can trade five major cryptocurrencies directly within the banking app starting Oct. 19.",
+        "link": "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Germany's Sparkasse banks turn on crypto trading inside their app"
+      }
+    ],
+    "slotKey": "2026-10-20:afternoon"
   }
 }
