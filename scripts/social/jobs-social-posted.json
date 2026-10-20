@@ -29916,6 +29916,39 @@
       "postId": "17952374109303749",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DetKOGqEXa4",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp34",
+      "company": "Ramp",
+      "title": "Compliance Innovation Senior Strategist",
+      "platform": "bluesky",
+      "postedAt": "2026-10-20T06:11:29.187Z",
+      "expectedText": "Ramp is hiring Compliance Innovation Senior Strategist: https://hashtagweb3.com/cmp34/bsky?og=7",
+      "snapshot": {
+        "id": "fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+        "title": "Compliance Innovation Senior Strategist",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+        "date": "2026-10-16T18:17:38.962+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp34"
+      },
+      "payload": {
+        "text": "Ramp is hiring Compliance Innovation Senior Strategist: https://hashtagweb3.com/cmp34/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cmp34/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cmp34.png?v=7",
+        "company": "Ramp",
+        "title": "Compliance Innovation Senior Strategist",
+        "description": "Join Ramp as Compliance Innovation Senior Strat. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6304f153-2b86-4f60-8115-f47541a196de",
+      "verification": "creating"
     }
   ]
 }
