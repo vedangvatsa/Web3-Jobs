@@ -1857,7 +1857,7 @@
     "sentAt": "2026-10-20T11:33:33.241Z"
   },
   "67e961ae-6b06-4cd4-9842-7c6a3d9f90e8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-20T19:33:43.797Z",
     "stories": [
       {
@@ -1885,6 +1885,8 @@
         "originalTitle": "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown"
       }
     ],
-    "slotKey": "2026-10-20:evening"
+    "slotKey": "2026-10-20:evening",
+    "messageId": 155866,
+    "sentAt": "2026-10-20T19:33:53.742Z"
   }
 }

@@ -776,6 +776,9 @@
   "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cardanolang?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/skyaitender?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sophon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2235,6 +2238,12 @@
   "Germany's Sparkasse banks turn on crypto trading inside their app",
   "Charles Hoskinson develops new Cardano language with Groth16 proofs",
   "Hoskinson says he is writing a new Cardano language with Groth16 proofs",
+  "Mastercard releases stablecoin fraud detection API",
+  "Mastercard scores stablecoin payments for fraud before they settle",
+  "SkyAI sells Solana treasury and launches $201 million tender offer",
+  "SkyAI sells its entire Solana treasury and offers a $201 million tender",
+  "Sophon sets November 25 deadline for asset withdrawals",
+  "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2561,5 +2570,8 @@
   "fp:10m|28m|address|blacklist|bnb|bridg|chain|contain|cysic|exploiter",
   "fp:000|agent|all|began|beta|binanc|credit|follow|fre|march",
   "fp:app|bank|can|cryptocurrency|customer|dekabank|enabl|ether|german|germany",
-  "fp:cardano|carry|charl|dat|data|develop|enabl|groth16|hoskinson|intent"
+  "fp:cardano|carry|charl|dat|data|develop|enabl|groth16|hoskinson|intent",
+  "fp:api|borderless|detection|early|evaluat|fraud|keyrail|mastercard|participant|payment",
+  "fp:201m|entir|firm|liquidat|now|october16|offer|outstand|per|security",
+  "fp:asset|chain|claim|clos|day|deadlin|entertainment|fiv|giv|infrastructur"
 ]
