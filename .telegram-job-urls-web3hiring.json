@@ -1015,6 +1015,14 @@
     "lastUrl": "https://hashtagweb3.com/sales79485",
     "updatedAt": "2026-09-20T09:03:28.572Z"
   },
+  "8179979": {
+    "slugs": [
+      "mgr180"
+    ],
+    "lastSlug": "mgr180",
+    "lastUrl": "https://hashtagweb3.com/mgr180",
+    "updatedAt": "2026-10-20T11:32:32.978Z"
+  },
   "8189909": {
     "slugs": [
       "analyst197",
@@ -5289,5 +5297,29 @@
     "lastSlug": "scda",
     "lastUrl": "https://hashtagweb3.com/scda",
     "updatedAt": "2026-10-19T19:31:58.016Z"
+  },
+  "871d2fc8-def8-4837-a9b0-7cc4fe126c2b": {
+    "slugs": [
+      "pm105"
+    ],
+    "lastSlug": "pm105",
+    "lastUrl": "https://hashtagweb3.com/pm105",
+    "updatedAt": "2026-10-20T11:32:32.978Z"
+  },
+  "aff3381c-aeef-40a1-a27e-21c88a897057": {
+    "slugs": [
+      "sls178"
+    ],
+    "lastSlug": "sls178",
+    "lastUrl": "https://hashtagweb3.com/sls178",
+    "updatedAt": "2026-10-20T11:32:32.978Z"
+  },
+  "c2f37ef6-d821-4d6c-a70a-17a576341a94": {
+    "slugs": [
+      "pbpt"
+    ],
+    "lastSlug": "pbpt",
+    "lastUrl": "https://hashtagweb3.com/pbpt",
+    "updatedAt": "2026-10-20T11:32:32.978Z"
   }
 }

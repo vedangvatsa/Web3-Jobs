@@ -6608,7 +6608,7 @@
     "sentAt": "2026-10-19T19:31:58.016Z"
   },
   "5d3b4eee-1650-4fd9-9d66-ef399cdeebcc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-20T11:32:27.759Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -6702,6 +6702,8 @@
       }
     ],
     "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/pm105?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations Specialist | Procurement</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/sls178?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive / Account Manager, Data Sales at Kalshi</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Global Indirect Tax</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/pbpt?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Business Partner - Tech</a>",
-    "slotKey": "2026-10-20:afternoon"
+    "slotKey": "2026-10-20:afternoon",
+    "messageId": 16557,
+    "sentAt": "2026-10-20T11:32:32.978Z"
   }
 }
