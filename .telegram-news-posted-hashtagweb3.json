@@ -773,6 +773,9 @@
   "https://hashtagweb3.com/circlemarkets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/circlemargin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cysicmint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceaipro?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sparkasse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cardanolang?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2226,6 +2229,12 @@
   "Circle says it kept 7 cents of each USDC revenue dollar in first half",
   "Cysic Suspends Bridge After Unauthorized 10 Million Token Mint",
   "Cysic halts bridge after unauthorized mint of 10 million CYS",
+  "Binance Opens AI Strategy Agent with Free Tier",
+  "Binance opens its AI Pro strategy agent to all users with a free tier",
+  "German Sparkasse banks enable cryptocurrency trading in mobile apps",
+  "Germany's Sparkasse banks turn on crypto trading inside their app",
+  "Charles Hoskinson develops new Cardano language with Groth16 proofs",
+  "Hoskinson says he is writing a new Cardano language with Groth16 proofs",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2549,5 +2558,8 @@
   "fp:2026|advocacy|director|divij|effectiv|executiv|group|lobby|lobbyist|market",
   "fp:about40|africa|allair|america|asia|ceo|circl|cit|demand|develop",
   "fp:cent|circl|consumed59|cost|dollar|each|half|kept7|net|operation",
-  "fp:10m|28m|address|blacklist|bnb|bridg|chain|contain|cysic|exploiter"
+  "fp:10m|28m|address|blacklist|bnb|bridg|chain|contain|cysic|exploiter",
+  "fp:000|agent|all|began|beta|binanc|credit|follow|fre|march",
+  "fp:app|bank|can|cryptocurrency|customer|dekabank|enabl|ether|german|germany",
+  "fp:cardano|carry|charl|dat|data|develop|enabl|groth16|hoskinson|intent"
 ]
