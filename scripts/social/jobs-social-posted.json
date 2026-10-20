@@ -33441,7 +33441,8 @@
       },
       "account": "profile",
       "attemptId": "5b18fa73-0668-4093-9233-91bfc75fefd0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5b443a3d9fbbfef3166beedbf9ae3cf2bfabe9f6"
     }
   ]
 }
