@@ -31477,6 +31477,47 @@
       "verification": "pending",
       "postId": "6ad751cc59946a79ac75dd5c",
       "error": "LinkedIn #Web3 receipt 6ad751cc59946a79ac75dd5c remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "arny",
+      "company": "Prime Intellect",
+      "title": "Applied Research Lead - New York",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T11:32:13.416Z",
+      "expectedText": "Prime Intellect is hiring Applied Research Lead - New York: https://hashtagweb3.com/arny/li?og=7",
+      "snapshot": {
+        "id": "d63b3277-651e-4a81-85d8-888f0aef14f5",
+        "title": "Applied Research Lead - New York",
+        "company": "Prime Intellect",
+        "link": "https://jobs.ashbyhq.com/primeintellect/d63b3277-651e-4a81-85d8-888f0aef14f5",
+        "date": "2026-10-19T15:29:31.942+00:00",
+        "source": "Ashby: Prime Intellect [primeintellect]",
+        "location": "New York",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Applied Research",
+        "active": true,
+        "slug": "arny",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Prime Intellect is hiring Applied Research Lead - New York: https://hashtagweb3.com/arny/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/arny/li?og=7",
+          "title": "Applied Research Lead - New York at Prime Intellect",
+          "description": "Join Prime Intellect as Applied Research Lead - New York. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/arny.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "b7478146-d7bb-4424-a940-57aa712a8d24",
+      "verification": "creating"
     }
   ]
 }
