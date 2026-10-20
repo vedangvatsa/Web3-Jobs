@@ -30019,7 +30019,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "0bd5f4ba-b16f-4243-864f-7ad830c94eb4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xffde0a3f0004fbe01fdf4d237bf6646ddca77d09"
     }
   ]
 }
