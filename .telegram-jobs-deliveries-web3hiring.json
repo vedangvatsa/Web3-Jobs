@@ -6606,5 +6606,102 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 138,
     "sentAt": "2026-10-19T19:31:58.016Z"
+  },
+  "5d3b4eee-1650-4fd9-9d66-ef399cdeebcc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T11:32:27.759Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+          "title": "Product Operations Specialist | Procurement",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+          "date": "2026-09-23T01:35:11.594+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm105"
+        },
+        "key": "871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+        "slug": "pm105",
+        "url": "https://hashtagweb3.com/pm105?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Product Operations Specialist | Procurement"
+      },
+      {
+        "snapshot": {
+          "id": "aff3381c-aeef-40a1-a27e-21c88a897057",
+          "title": "Account Executive / Account Manager, Data Sales at Kalshi",
+          "company": "Kalshi",
+          "link": "https://jobs.ashbyhq.com/kalshi/aff3381c-aeef-40a1-a27e-21c88a897057",
+          "date": "2026-09-29T01:03:17.092+00:00",
+          "source": "Ashby: Kalshi [kalshi]",
+          "location": "New York Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Policy & Business Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls178"
+        },
+        "key": "aff3381c-aeef-40a1-a27e-21c88a897057",
+        "slug": "sls178",
+        "url": "https://hashtagweb3.com/sls178?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Account Executive / Account Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8179979",
+          "title": "Manager, Global Indirect Tax",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8179979?t=gh_src=&gh_jid=8179979",
+          "date": "2026-10-12T13:44:10-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Tax",
+          "active": true,
+          "salary": "$140k – $165k/yr",
+          "dateVerified": true,
+          "slug": "mgr180"
+        },
+        "key": "8179979",
+        "slug": "mgr180",
+        "url": "https://hashtagweb3.com/mgr180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Manager, Global Indirect Tax"
+      },
+      {
+        "snapshot": {
+          "id": "c2f37ef6-d821-4d6c-a70a-17a576341a94",
+          "title": "People Business Partner - Tech",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/c2f37ef6-d821-4d6c-a70a-17a576341a94",
+          "date": "2026-10-13T18:56:55.116+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (Canada)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Talent and People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pbpt"
+        },
+        "key": "c2f37ef6-d821-4d6c-a70a-17a576341a94",
+        "slug": "pbpt",
+        "url": "https://hashtagweb3.com/pbpt?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "People Business Partner"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/pm105?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations Specialist | Procurement</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/sls178?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive / Account Manager, Data Sales at Kalshi</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Global Indirect Tax</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/pbpt?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">People Business Partner - Tech</a>",
+    "slotKey": "2026-10-20:afternoon"
   }
 }
