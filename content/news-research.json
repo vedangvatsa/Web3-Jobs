@@ -114477,7 +114477,7 @@
     "2026-10-20": {
       "day": "2026-10-20",
       "startedAt": "2026-10-20T03:31:23.060Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "1ce3481a2c86023fe141",
         "865d629bd4501048f5f0",
@@ -115808,7 +115808,51 @@
         ],
         "total": 162,
         "checkedAt": "2026-10-20T03:31:23.060Z"
-      }
+      },
+      "validationErrors": [
+        "Draft has no ready review outcome: content/articles/anchorwatch.md",
+        "Draft has no ready review outcome: content/articles/binanceai.md",
+        "Draft has no ready review outcome: content/articles/bitmineeth.md",
+        "Draft has no ready review outcome: content/articles/cardanolang.md",
+        "Draft has no ready review outcome: content/articles/cftcperps.md",
+        "Draft has no ready review outcome: content/articles/cmefutures.md",
+        "Draft has no ready review outcome: content/articles/coinbaseearnings.md",
+        "Draft has no ready review outcome: content/articles/dtcc.md",
+        "Draft has no ready review outcome: content/articles/echoshutdown.md",
+        "Draft has no ready review outcome: content/articles/eip8288.md",
+        "Draft has no ready review outcome: content/articles/elsalvador.md",
+        "Draft has no ready review outcome: content/articles/elysium.md",
+        "Draft has no ready review outcome: content/articles/eminifix.md",
+        "Draft has no ready review outcome: content/articles/fidelitysettle.md",
+        "Draft has no ready review outcome: content/articles/francebudget.md",
+        "Draft has no ready review outcome: content/articles/hackenq3.md",
+        "Draft has no ready review outcome: content/articles/hoodi.md",
+        "Draft has no ready review outcome: content/articles/injectivegas.md",
+        "Draft has no ready review outcome: content/articles/koreatax.md",
+        "Draft has no ready review outcome: content/articles/krakenxrp.md",
+        "Draft has no ready review outcome: content/articles/lendingfix.md",
+        "Draft has no ready review outcome: content/articles/meshvisa.md",
+        "Draft has no ready review outcome: content/articles/noahwallet.md",
+        "Draft has no ready review outcome: content/articles/papertransfer.md",
+        "Draft has no ready review outcome: content/articles/pbit.md",
+        "Draft has no ready review outcome: content/articles/polygoncoinme.md",
+        "Draft has no ready review outcome: content/articles/postbank.md",
+        "Draft has no ready review outcome: content/articles/prestocks.md",
+        "Draft has no ready review outcome: content/articles/provecost.md",
+        "Draft has no ready review outcome: content/articles/rampcharter.md",
+        "Draft has no ready review outcome: content/articles/revolutgibraltar.md",
+        "Draft has no ready review outcome: content/articles/skyaitender.md",
+        "Draft has no ready review outcome: content/articles/sparkassen.md",
+        "Draft has no ready review outcome: content/articles/sproutfreeze.md",
+        "Draft has no ready review outcome: content/articles/stablecoinsecurity.md",
+        "Draft has no ready review outcome: content/articles/superplanet.md",
+        "Draft has no ready review outcome: content/articles/taxcertainty.md",
+        "Draft has no ready review outcome: content/articles/tetheraisa.md",
+        "Draft has no ready review outcome: content/articles/tetheriran.md",
+        "Draft has no ready review outcome: content/articles/thunes.md",
+        "Draft has no ready review outcome: content/articles/uktrio.md",
+        "Draft has no ready review outcome: content/articles/usdcfees.md"
+      ]
     }
   }
 }
