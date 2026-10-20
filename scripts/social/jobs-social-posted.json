@@ -33240,6 +33240,47 @@
       "verification": "pending",
       "postId": "6ad7c24e9f8712d7ad7d7a6f",
       "error": "LinkedIn CVin.Bio receipt 6ad7c24e9f8712d7ad7d7a6f remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dshk/li?og=7",
+          "title": "Senior Desktop Support, Hong Kong at Galaxy Digital",
+          "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dshk.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "6ef75b98-3ab5-4b15-94f2-929c90a2e2c3",
+      "verification": "creating"
     }
   ]
 }
