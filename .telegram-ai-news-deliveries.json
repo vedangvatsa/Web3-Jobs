@@ -1796,5 +1796,38 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 193374,
     "sentAt": "2026-10-19T19:33:36.611Z"
+  },
+  "4cd8d0af-ec35-4d78-b4fa-b6a8658d2b03": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T11:32:07.521Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "[TechCrunch] Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "headline": "Anthropic negotiates $45 billion compute deal with Nscale",
+        "summary": "The proposed agreement would expand infrastructure capacity for training and running next-generation artificial intelligence models.",
+        "event_rationale": "Covers Anthropic negotiating a major infrastructure partnership, semantically distinct from all previously posted items.",
+        "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "source": "TechCrunch",
+        "originalTitle": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+      },
+      {
+        "index": 1,
+        "headline": "Otter.ai Raises $320 Million From General Catalyst Fund",
+        "summary": "The startup will use the non-dilutive capital to expand its enterprise meeting note-taking services.",
+        "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "source": "TechCrunch",
+        "originalTitle": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool"
+      },
+      {
+        "index": 3,
+        "headline": "Researchers Drill Alaskan Permafrost to Study Thawing Soil",
+        "summary": "A graduate student uses a double-handed drill to collect frozen soil samples in Alaska’s Denali National Park.",
+        "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+        "source": "MIT Tech Review",
+        "originalTitle": "How to study a swiftly melting climate disaster"
+      }
+    ],
+    "slotKey": "2026-10-20:afternoon"
   }
 }
