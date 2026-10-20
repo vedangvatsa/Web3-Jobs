@@ -32123,7 +32123,8 @@
       },
       "account": "channel:solana",
       "attemptId": "bda2a6d5-6769-4e9d-bc5d-9143e465067f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9cca619502859b9c2fb0a21156692961972bc3dd"
     }
   ]
 }
