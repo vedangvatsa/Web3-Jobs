@@ -31624,7 +31624,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "44b3ff2b-d8b9-4c6f-a22f-c16beee143c9",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad752046c8d6e1f630de41a"
     }
   ]
 }
