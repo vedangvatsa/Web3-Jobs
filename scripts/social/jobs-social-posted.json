@@ -29045,6 +29045,39 @@
       "postId": "18142961761610427",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DetJ7piEc7U",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm219",
+      "company": "Elliptic",
+      "title": "Head of Compliance Product",
+      "platform": "bluesky",
+      "postedAt": "2026-10-20T06:08:58.422Z",
+      "expectedText": "Elliptic is hiring Head of Compliance Product: https://hashtagweb3.com/pm219/bsky?og=7",
+      "snapshot": {
+        "id": "34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "title": "Head of Compliance Product",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "date": "2026-10-05T09:19:28.240+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (London, United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm219"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Head of Compliance Product: https://hashtagweb3.com/pm219/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm219/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm219.png?v=7",
+        "company": "Elliptic",
+        "title": "Head of Compliance Product",
+        "description": "Join Elliptic as Head of Compliance Product. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "606c077b-1b8c-4c2c-8bb7-f7d5ac577a09",
+      "verification": "creating"
     }
   ]
 }
