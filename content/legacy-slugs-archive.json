@@ -147253,5 +147253,96 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/7998943003",
     "company": "OKX",
     "title": "Tax Reporting Senior Manager"
+  },
+  "ops109": {
+    "id": "7767519",
+    "link": "https://ripple.com/careers/all-jobs/job/7767519?gh_jid=7767519",
+    "company": "Ripple",
+    "title": "Treasury Manager, Global Treasury Operations"
+  },
+  "es2": {
+    "id": "900c11da-539f-464a-99a6-d03fbcda2074",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/900c11da-539f-464a-99a6-d03fbcda2074",
+    "company": "Riot Platforms",
+    "title": "EHS Specialist"
+  },
+  "eng431": {
+    "id": "8039948",
+    "link": "https://stripe.com/jobs/search?gh_jid=8039948",
+    "company": "Stripe",
+    "title": "Technical Solutions Engineer"
+  },
+  "ob2": {
+    "id": "5438251008",
+    "link": "http://block.xyz/careers/jobs/5438251008?gh_jid=5438251008",
+    "company": "Block",
+    "title": "Head of International Onboarding Operations"
+  },
+  "eng402": {
+    "id": "6217871004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6217871004",
+    "company": "Alpaca",
+    "title": "Senior Sales Engineer"
+  },
+  "aso36": {
+    "id": "8241571",
+    "link": "https://stripe.com/jobs/search?gh_jid=8241571",
+    "company": "Stripe",
+    "title": "Junior Commercial Associate — Works in Progress"
+  },
+  "sls202": {
+    "id": "b4b4a875-a2b9-436e-9505-32c481b9dd2a",
+    "link": "https://jobs.ashbyhq.com/trm-labs/b4b4a875-a2b9-436e-9505-32c481b9dd2a",
+    "company": "TRM Labs",
+    "title": "Sales Recruiting Sourcer (Contract), APAC"
+  },
+  "rec19": {
+    "id": "4609e7c5-b5c1-421e-87c3-cc256193b6ba",
+    "link": "https://jobs.ashbyhq.com/trm-labs/4609e7c5-b5c1-421e-87c3-cc256193b6ba",
+    "company": "TRM Labs",
+    "title": "Senior Sales Recruiter (Contract), APAC"
+  },
+  "sls168": {
+    "id": "5435413008",
+    "link": "http://block.xyz/careers/jobs/5435413008?gh_jid=5435413008",
+    "company": "Block",
+    "title": "SMB Account Executive, London"
+  },
+  "qa89": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "eng208": {
+    "id": "4c6e1cb1-b9b4-4263-897f-830b09b593ae",
+    "link": "https://jobs.ashbyhq.com/kraken.com/4c6e1cb1-b9b4-4263-897f-830b09b593ae",
+    "company": "Kraken",
+    "title": "Senior Software Engineer - React Native - Business Services"
+  },
+  "mgr58": {
+    "id": "72d6220d-6db8-4104-b47a-0b6b0483d428",
+    "link": "https://jobs.ashbyhq.com/Polymarket/72d6220d-6db8-4104-b47a-0b6b0483d428",
+    "company": "Polymarket",
+    "title": "Sports Creator Manager"
+  },
+  "sls107": {
+    "id": "5427717008",
+    "link": "http://block.xyz/careers/jobs/5427717008?gh_jid=5427717008",
+    "company": "Block",
+    "title": "Territory Account Executive, Raleigh"
+  },
+  "eng183": {
+    "id": "8107212",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8107212?t=gh_src=&gh_jid=8107212",
+    "company": "Robinhood",
+    "title": "Staff Machine Learning Engineer, AI Platform & Agentic Apps"
+  },
+  "eng625": {
+    "id": "7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+    "link": "https://jobs.ashbyhq.com/openstandard/7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+    "company": "Open Standard",
+    "title": "Smart Contract Engineer",
+    "newSlug": "eng627"
   }
 }
