@@ -19112,121 +19112,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-a90ad091c67e358a"></a>
-
-## Robot Hackathon: Fine Motor Skills
-
-- Record: `luma-crypto-ojo8Xh2wktYW9od`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wuo6ynis>
-
-### About the Event
-
-Build physical AI applications with real robot arms @ Viam!
-
-We're excited to host a two-day, hands-on hackathon for curious, ambitious builders who want to go deep on physical AI. You'll get a real robot arm and support from Viam experts throughout.
-
-No prior robotics experience is required, just an interest in physical AI and some software experience.
-
-Space is limited! Apply through this page. Applicants will be accepted on a rolling basis.
-
-What You'll Build
-
-Working in a team of 2-3, you'll build an end-to-end robotics application using Viam and a real robot arm.
-
-Each team will have access to:
-
-- UFactory xArm or Universal Robots arm with a two-finger gripper attachment (feel free to also bring your own SO-101)
-- Linux compute machine
-- RealSense D435 or Orbbec Astra 2 camera (fixed to arm)
-- Webcams
-- [A free Viam](https://docs.viam.com/what-is-viam/) account
-
-We'll provide blocks, cups, pens, paper, and other objects for your robot to interact with, or bring something you'd like to experiment with.
-
-Please bring your own laptop.
-
-Challenges
-
-Accepted participants can select from predefined projects or bring your own idea.
-
-1) Benchmark ideas: pick one of five tasks and get scored on it.
-- Charger plugging: Sub-centimeter precision, occlusion at the moment of contact
-- Pouring liquid into a cup: Continuous control; a spill is a visible failure
-- Recycling sort: Perception in clutter
-- Egg transfer: Force control; failure is unambiguous and dramatic
-- Jenga pull: Precision plus force feedback; the tower falling ends your run
-2) Open: bring your own idea and get judged on ambition and execution.
-- Ideas from past events: playing chess, mixing a cocktail, quality inspection, drawing a picture, puzzle insertion, setting a table, folding clothes.
-
-### Prizes
-
-We'll award prizes to a total of three teams. Winning teams take home robot arms:
-
-- Gold: UFactory Lite6 arm + $5,000 in Viam credits
-- Silver: Seeed Studio reBot Arm B601-RS + $2,500 in Viam credits
-- Bronze: SO-101 arm + $1,000 in Viam credits
-
-Please bring your own [laptop. We recommend taking our free online course Viam 101](https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even if you only go through the first lessons, it will help you get the hang of things quickly.
-
-### Schedule
-
-Friday, September 18
-
-9:00 AM: Check-in and breakfast
-
-9:30 AM: Kickoff: Welcome & crash course on building with Viam
-
-10:30 AM: Teams and hardware
-
-11:00 AM: Hacking begins
-
-1:00 PM: Lunch
-
-6:00 PM: Dinner
-
-9:00 PM: Hard close: Robots power down, doors close (no overnight hacking)
-
-Saturday, September 19
-
-9:00 AM: Doors open, breakfast
-
-9:30 AM: Hacking resumes
-
-12:30 PM: Lunch
-
-3:30 PM: Demos and drinks
-
-5:00 PM: Awards
-
-6:00 PM: Event concludes
-
-What Skills You Need
-
-No robotics experience required, but you should be comfortable with:
-
-- Coding: Python, Go, TypeScript/JavaScript, or C++
-- Linux: Using SSH and running basic terminal commands
-- JSON: Reading and editing configuration files
-- Git: Basic workflows so your team can build together
-- Bonus: knowing how to plug in a pre-trained vision model (like YOLO or OpenCV) to help the robot see and identify objects (not required)
-
-Before the Event
-
-[We recommend taking our free online course Viam 101](https://www.viam.com/viam-101/?utm_medium=luma&utm_source=finemotorskills&utm_campaign=vmrk-luma-finemotorskills-viam101-learn&utm_content=lp_viam101) (est time: 45-90mins) ahead of time. Even the first few lessons will help you get the hang of things quickly.
-
-How to Join
-
-Space is limited! Apply through this page. Applicants will be accepted on a rolling basis.
-
-We'll select a curated group of ambitious software developers and send official confirmations to accepted participants.
-
-Presented By
-
-[Viam](https://www.viam.com/) - The robotics software platform we'll use to configure, control, and deploy models to your robot. Viam makes it easy to get a robot up and running quickly.
-
 <a id="event-1d8484897fcfa579"></a>
 
 ## AI Databricks Hackathon + Networking Mixer NYC
@@ -19301,28 +19186,6 @@ No proceeds go to Databricks. Spots are limited, reserve yours below!
 
 Contact the host on Linkedin for any questions/concerns: https://www.linkedin.com/in/kaurpriyanka
 
-<a id="event-e933b66669ef0bc2"></a>
-
-## LONDON FASHION WEEK: ONE2MANY 5 YEAR ANNIVERSARY POP UP + AFTERPARTY
-
-- Record: `luma-crypto-gNAU0bATPxVTH63`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kun14koi>
-
-### About the event
-
-For London Fashion Week, ONE2MANY takes over Mason & Fifth for a day of fashion, music and community.
-
-On the 19th September, guests of the house are invited to our private showroom showcasing the latest ONE2MANY collection, inviting people into
-
-the world of One2Many and allowing guests to view pieces up close and connect with the team behind the brand.
-
-In the evening, the showroom transitions into an intimate LFW afterparty - bringing together friends of the brand, creatives and fashion insiders for an
-
-evening of curated music from our in-house DJs, complimentary drinks and good company.
-
 <a id="event-ee7f5f376ef49b29"></a>
 
 ## Health in Climate AI Hackathon NYC
@@ -19352,153 +19215,6 @@ More details here: https://www.healthinclimate.ai/hackathons/nyc/2026
 Please [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
 
 PS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.
-
-<a id="event-f65d3258babc4fa5"></a>
-
-## Trust in the Hiring Funnel Hackathon @ NYU
-
-- Record: `luma-crypto-Z0WFxEEVYs4zahG`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hr-hack-nyc>
-
-### Event Description
-
-Generative AI broke hiring on both sides at once. Recruiters can't tell which applicants are real, and candidates can't tell which employers are. Come spend a day building something that fixes it - with the founders, engineers, and TA practitioners who live this problem every week.
-
-This is a full-day, in-person hackathon co-hosted by localhost:nyc, Integral Recruiting (IRD), and NYU - where builders team up with real talent-acquisition operators to ship working tools against a single, focused challenge.
-
-The Challenge: Trust in the Hiring Funnel
-
-Hiring has a trust crisis on both sides of the funnel - recruiters can't tell which applicants are real, and candidates can't tell which employers are. Talent acquisition runs on a basic assumption: that the person applying is who they say they are, and that the company reaching out is who it says it is. Generative AI has broken both halves of that assumption at once. Your job for the day is to rebuild it.
-
-You can attack either side of the funnel - or the seam between them.
-
-Side A - Trust coming in: the applicant flood. A role that used to draw 30 applicants now draws 500, and a growing share aren't real, aren't qualified, or are gaming the system. Candidates embed hidden prompt-injection text to manipulate the AI tools that screen resumes. And increasingly, applicants appear qualified but look strikingly alike - the same phrasing, the same structure, the same accomplishments - a tell that everyone is leaning on the same AI tools to write their applications. Recruiters are drowning, and the tools meant to help have no clear winner yet.
-
-The challenge: reliably separate real, qualified humans from AI-inflated noise - without punishing legitimate candidates who simply used AI to polish their resume.
-
-Questions worth chasing:
-
-- What signals - behavioral, identity, provenance - actually distinguish a real applicant from a manufactured one?
-- When applications converge on the same AI-generated look, how do you tell genuine signal from sameness?
-- How do you detect a manipulated or machine-generated application without false-flagging honest people?
-- How do you surface the candidates who deserve attention fast, inside an existing recruiting workflow rather than replacing it?
-
-Side B - Trust going out: impersonation and candidate scams. Bad actors register look-alike domains to send fake offer letters, run deepfake recruiter calls, and scam job seekers out of money and data. Employers have almost no way to detect it or warn candidates. The challenge: make it harder to impersonate a real employer, and easier for a candidate to verify that an offer or a recruiter is genuine.
-
-Questions worth chasing:
-
-- How would a candidate confirm that an offer or outreach is legitimately from the company?
-- Can impersonating domains be detected and flagged early?
-- What does a lightweight "trust signal" look like on a careers page or an offer letter?
-
-What a strong build looks like. A working tool that raises trust in the funnel and fits the way hiring actually happens - a triage or screening layer that plugs into an existing applicant tracking system rather than replacing it, or a candidate/employer verification tool that makes impersonation harder to pull off and easier to catch. We care more about a real, demonstrable solution to a narrow slice of the problem than a broad concept that doesn't run.
-
-You don't need HR or recruiting-software experience to compete here - that's the point of a single, focused theme. Engineers and builders can go straight at the detection, identity, and verification problems. HR-technology practitioners will be in the room to keep your build grounded in how hiring actually works, and to pressure-test whether a recruiter would trust what you've made.
-
-### What to Expect
-
-- A full day of building - 10:00 AM to 6:00 PM, hard stop
-- Small teams (or solo if you insist) working in one shared room
-- TA practitioners from the SAI community in the room to keep your build grounded in how hiring really works
-- A panel of expert judges: HR-tech founders, operators, and system admins who know these problems cold
-- End-of-day demos to judges, investors, and real TA leaders
-- The strongest teams get connected to investors - and, over time, to real customers
-
-### Prizes
-
-Winners walk away with build-tool and platform credits, expert consulting sessions, and investor time. Everyone in the room gets connections that outlast the day - this is a room full of builders and buyers.
-
-### Judges
-
-- Tiffany Jin: Eqo. Building in the employee-referral and hiring space; brings a founder's eye for what actually ships.
-- Steven Grover: Partnerspring. Operator and builder in the HR-tech ecosystem.
-- Shane Papp: Ex-iCIMS. Deep insider knowledge of the ATS world these tools have to live inside.
-- Adam Treitler: Related Industries. HR-tech operator with a practitioner's view of the funnel.
-- [Shiv Jethi](https://www.linkedin.com/in/shiv-jethi/?utm_source=luma) - Engineer at SpaceX.
-- [Olivia Iarmak](https://www.linkedin.com/in/olivia-iarmak107/) - Meta Reality Labs. AI quality and operations leader; researcher. Brings a practitioner's lens to trustworthy AI.
-- [D. J. Patel](https://www.linkedin.com/in/djpat/?utm_source=luma) - VC | 3x exited founder.
-- [Prince Rumi](https://www.linkedin.com/in/princerumi/?utm_source=luma) - [Excelsior Edge Ventures](https://11-11.madeline.one/?utm_source=luma), Partner | AI Researcher
-- [Rami Abouemira](https://www.linkedin.com/in/rami-abo/), formerly People Ops at Square and VMware, now building the future of work with All Good HR and Founders Foundry.
-- [Ishaan Das](https://www.linkedin.com/in/ishaanndas/)(TechBrig) - Leads AI transformation and product design for several recruiting firms and recruiting SaaS like SquarePeg.
-
-More judges to be announced - investors and TA buyers joining the panel.
-
-### Who Should Attend
-
-- Engineers - full-stack, backend, frontend, AI/ML
-- Founders and aspiring founders who like shipping fast
-- Recent grads, master's students, and NYC college builders
-- TA ops and recruiting-systems practitioners who want to build alongside engineers
-- HR / recruiting professionals newer to the space - join a team as a product advisor
-
-You do not need HR or recruiting-software experience to compete - that's the whole point of one focused theme. Engineers go straight at the detection, identity, and verification problems; practitioners keep it real. Just show up ready to build.
-
-### Credit Sponsors
-
-- [Solari](https://www.getsolari.com/) is the world's fastest agent infrastructure provider. Run headless browsers, sandboxes, and desktops from one API, and automate at scale.
-- [Block Convey](https://blockconvey.com) is an AI reliability and observability platform for AI agents. It helps teams see what an agent is doing across model calls, tools, retrieval and decisions, identify where it fails, and improve it.
-
-### Hosts
-
-- [Somya Gupta](https://www.linkedin.com/in/somya-gupta-sg): The face of NYC startup ecosystem.
-- Integral Recruiting (IRD): Enterprise talent-acquisition and iCIMS/ATS specialists, and stewards of the ~350-member SAI community of TA operators and system admins.
-- Greg Mendez: NYU. Bringing the university's builder and HR-analytics community into the room.
-- TechSHRM is NYU Tandon's, award-winning student chapter of the Society for Human Resource Management (SHRM). Established in 1987, we bridge data science, technology, and organizational strategy through people analytics - leveraging data to optimize workforce decision-making, recruitment, and employee performance.
-
-<a id="event-cc2404ac1026b6dd"></a>
-
-## A hackathon to kick off NYC Climate Week 2026
-
-- Record: `luma-crypto-XIU0SEGvG15wUVr`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/n0hzmjij>
-
-### About the event
-
-It's 2026 and we have all seen the simultaneous heating-up of both the AI economy and the average global temperature. Given the rapidly unfolding change, it's easy to feel helpless, uncertain, or concerned when AI usage and tokenmaxxing exist in one sphere and planetary boundaries and climate urgency exist in another. How much does compute usage matter anyway? What is our responsibility of AI in society? And what can we actually control both personally and professionally?
-
-As part of the kickoff to Climate Week 2026, we are going to engage directly with these questions, together. This is a multi-disciplinary hackathon, and you do not need to come in knowing how to code! Your solution can be a poem, a business plan, a research study. And yes, you can build software, but if you plan to build like a super regular normal app as your solution, please make sure to partner with a team members with interesting ideas that can expand your thinking.
-
-### Inspiration tracks for solutions
-
-- Solutionsmaxxing
-- Carbon positive AI setups
-- Emotions, ethics, and culture
-
-Compute used for this hackathon will be tracked/estimated, and carbon offsets will be purchased.
-
-Participants will have 4 hours to develop something to share. Whether you're into software, hardware, art, communication, policy, finance, business, or just somone who is curious, we hope to see you there.
-
-To attend only the demo portion of the event, please select the "demo only" option when registering, and please plan to attend from 4:30pm to 6:30pm.
-
-Food and beverages will be provided.
-
-### Agenda
-
-- 11:00am gather and meet
-- 11:30pm small teams are formed, problem context from industry experts
-- 12:00pm hack
-- 4:30pm hackers present their demos
-- 6:00pm judging and networking
-
-What to bring: your climate-interested and solutions-focused attitude, your laptop or pen+paper, and your unique skillset.
-
-Challenge Statements: the challenge statements will focus entirely on the intersection of AI usage and climate. More details and datasets for these challenge statements will be announced leading up to the event.
-
-Deliverables: the format is intentionally open-ended. More detail on how to format and submit the deliverables will be announced leading up to the event.
-
-Teams: you can create your team of three at the event, or come with a team already formed.
-
-Why this problem? It's one of the most often requested hackathon topics. Will we come out the other side with our beliefs intact? Who knows!
-
-This event is hosted in partnership with Clean Energy Commons. CEC is building a collaborative AI ecosystem for the clean energy industry. Through a cooperative model focused on data sovereignty, CEC brings together data from developers and operators to create AI that understands real-world challenges.
-
-Have an idea for the Challenge Statements, or want to help with this hackathon? Reach out to danbakke1@gmail.com
 
 <a id="event-21d5a43e8074c41c"></a>
 
@@ -19642,527 +19358,6 @@ Venue details, the final schedule, judging criteria, prizes, and participant ins
 Accepted participants will receive access to the official event Slack and final event instructions after confirming their attendance through Luma.
 
 This event may be photographed or recorded.
-
-<a id="event-b5d03477f0ccbabb"></a>
-
-## The Executable World: A Full Stack AI Hackathon & Mixer
-
-- Record: `luma-crypto-sZ0E2VnbKsJm90t`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/exruwpkp>
-
-### Event Format
-
-The Executable World is a one-day, in-person Full-Stack AI Hackathon, Demo Day, and Networking Mixer taking place on September 19, 2026.
-
-### Awards & Prizes
-
-Teams will be evaluated within their respective tracks.
-
-1st-3rd Place
-
-Each winning team receives:
-
-$25,000 AWS Credits
-
-4th-6th Place
-
-Each selected team receives:
-
-$4,500 AWS Credits
-
-Awards are offered independently within each hackathon track.
-
-### Tencent EdgeOne Makers Tokens - Awarded for Track 1
-
-1st-2nd Place Team
-
-50 Million Tokens
-
-3rd-4th Place Team
-
-30 Million Tokens
-
-5th-6th Place Team
-
-10 Million Tokens
-
-Each track will have 6 winning teams eligible for EdgeOne Makers Tokens.
-
-EdgeOne Makers Tokens can be used to access models available within the platform. Tokens are valid for 30 days from the date of issuance (T+30).
-
-All official building, project submission, judging, demonstrations, awards, and networking will take place in person during the event.
-
-The hackathon challenges, co-host and sponsor resources, judging criteria, and team-formation information will be released online one day before the event, giving participants time to understand the challenges, form teams, and prepare their development environments.
-
-### Co-hosts & Sponsors
-
-The event is co-hosted and supported by:
-
-- VeloDB
-- Tencent EdgeOne
-- WorkBuddy
-- AgentX.ai
-- [Memories.ai](https://Memories.ai)
-- AWS
-
-Each co-host and sponsor will contribute technology, technical resources, product guidance, workshops, mentors, judging support, or challenge opportunities for participating teams.
-
-### Pre-Event Challenge Release
-
-Hackathon tracks, challenge statements, and technical resources will be released one day before the event.
-
-Hacker Handbook is Live - You Can Start Building Now
-
-We've put together a full handbook covering tracks, judging criteria, prize details, schedule, submission guidelines, and FAQs.
-
-### [Handbook]
-
-https://agentx-ai.notion.site/The-Executable-World-3ab03378208e80579131cc26b769a94f
-
-Registered participants will be able to:
-
-- Review the hackathon tracks and challenge statements
-- Explore co-host and sponsor technologies
-- Access technical documentation and resources
-- Create participant profiles
-- Post or explore project ideas
-- Find potential teammates
-- Select a track
-- Define an initial product direction
-- Prepare their development environments
-
-Participants may discuss ideas, form teams, and prepare their technical setup in advance.
-
-However, all teams must attend and complete the official build sprint in person on September 19 to be eligible for judging and awards.
-
-Suggested Team Size
-
-2-5 participants per team
-
-Cross-functional teams combining engineering, product, design, AI infrastructure, and enterprise domain expertise are encouraged.
-
-### 8:30-9:00 AM | Doors Open
-
-The venue opens for organizers, co-hosts, sponsors, mentors, and early-arriving participants.
-
-### 9:00-10:00 AM | Participant Check-In & Final Team Formation
-
-Participants check in, meet other builders, confirm their teams, review the challenges, and prepare their development environments.
-
-Final team matching will be available for participants who arrive without a complete team.
-
-### 10:00-10:10 AM | Opening Remarks
-
-Welcome from the organizers and an introduction to The Executable World.
-
-The opening will cover:
-
-- Hackathon tracks
-- Challenge statements
-- Judging criteria
-- Submission requirements
-- Event schedule
-- Co-host and sponsor resources
-
-### 10:10-10:30 AM | Co-host & Sponsor Workshops
-
-Technology leaders from Tencent EdgeOne and WorkBuddy will deliver short, practical sessions introducing their platforms, tools, APIs, technical resources, and suggested hackathon use cases.
-
-Each company will have approximately 10-15 minutes to:
-
-- Introduce its technology
-- Present relevant APIs, platforms, or infrastructure
-- Explain available technical resources
-- Share example use cases
-- Help teams understand how its technology can be incorporated into a project
-
-### 10:30 AM-3:15 PM | In-Person Build Sprint
-
-Teams design, build, test, and prepare working AI products across the hackathon tracks.
-
-Support may include:
-
-- Co-host and sponsor technical assistance
-- Mentor office hours
-- Enterprise use-case feedback
-- Product and pitch guidance
-- Submission support
-- Demo preparation
-
-Lunch and light refreshments will be available during the build sprint so teams can continue working.
-
-### 3:15-3:30 PM | Final Submission
-
-All teams submit their completed projects through the official hackathon platform.
-
-Each submission may include:
-
-- Project name and description
-- Team information
-- Selected track
-- Product screenshots or demo video
-- Technology stack
-- Co-host or sponsor tools used
-- Repository or product link
-- Presentation materials
-
-In-person and remote judges will review and score the submitted projects through the platform.
-
-### 3:30-4:00 PM | Co-host & Sponsor Keynote
-
-Keynote presentations from VeloDB and AgentX, sharing perspectives on the evolving AI stack, infrastructure, agent systems, and how emerging technologies are enabling more capable and production-ready AI applications.
-
-### 4:00-5:00 PM | Judges Panel - Building the Executable AI Stack
-
-While judges review the submissions, technology leaders from ServiceNow and TikTok will discuss how different layers of the AI stack come together to create systems capable of executing real-world tasks.
-
-Discussion topics may include:
-
-- Real-time data infrastructure for AI applications
-- Building and deploying production-ready AI agents
-- Visual memory and multimodal intelligence
-- Cloud infrastructure for scalable AI systems
-- Reliability, security, and observability
-- Moving AI products from prototype to production
-- What founders need to build defensible AI companies
-- How infrastructure companies can support the next generation of AI builders
-
-The panel will be followed by a short audience Q&A.
-
-### 5:00-6:00 PM | Final Demos & Awards
-
-Selected teams will present their products on the main stage.
-
-The final demo format will be determined by the number of completed submissions.
-
-If there are 10 or fewer teams, each team may receive approximately three minutes to demonstrate its project.
-
-If there are more than 10 teams, judges will select a group of finalists to present on the main stage.
-
-Winning teams may be announced one at a time, followed by a short product demonstration and award presentation from each selected team.
-
-The program may include:
-
-- Finalist product demonstrations
-- Brief judge feedback
-- Audience voting
-- Co-host and sponsor awards
-- Overall hackathon awards
-
-### 6:00-7:00 PM | Networking Mixer
-
-Builders, founders, enterprise leaders, co-hosts, sponsors, mentors, and investors connect around:
-
-- Product pilots
-- Customer opportunities
-- Technology partnerships
-- Developer adoption
-- Recruiting
-- Investment
-- Future hackathons and ecosystem programs
-
-<a id="event-e08f1eb394be355c"></a>
-
-## The Agent Harness Hackathon
-
-- Record: `luma-crypto-x4XWFqVISgA8ctG`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/truefoundry-agent-harness-hackathon-sep19-2026>
-
-### Agent Harness Hackathon
-
-Organized by TrueFoundry and HackerSquad. Sponsored by OpenAI.
-
-AI agents are easy to prototype and much harder to run in production. Once an agent touches real users, tools, data, budgets, and internal systems, the work expands into routing, permissions, tracing, retries, evals, guardrails, cost controls, and deployment.
-
-[Join TrueFoundry](https://www.truefoundry.com/) [and HackerSquad](https://hackersquad.io) for a full-day hackathon focused on building [production-minded agentic applications with TrueForge](https://trueforge.dev), [with sponsorship from OpenAI](https://openai.com/).
-
-Take an agent use case from idea or prototype toward something you can observe, govern, evaluate, and operate. TrueFoundry's AI Gateway, Agent Gateway, and MCP Gateway will frame the day, with practical work on model routing, controlled tool access, MCP workflows, observability, eval loops, fallback behavior, budget controls, and deployment.
-
-Bring a laptop, a concrete use case, and a willingness to build under realistic production constraints.
-
-### What You Can Build
-
-- An agent workflow with model routing, retries, and fallback behavior
-- A tool-using agent with controlled MCP or API access
-- An observability layer for traces, tool calls, latency, usage, cost, and failures
-- An eval or test harness for agent behavior across repeated runs
-- A governance pattern for permissions, approvals, logging, blocking, or escalation
-- An agent application that demonstrates how it could run inside a real team or platform environment
-
-### The Challenges We'll Explore
-
-- Coordination: Connecting models, tools, permissions, memory, and context into reliable workflows
-- Visibility: Understanding what an agent did, why it did it, and what changed between runs
-- Reliability and cost: Managing quotas, budgets, latency, provider failures, retries, and fallbacks
-- Runtime controls: Defining what data agents can access, which tools they can call, and when human approval is required
-- Deployment: Connecting agents to internal systems while maintaining governance and reliability as usage grows
-
-### Who Should Apply
-
-- Platform, infrastructure, and backend engineers building or operating AI agent systems
-- AI and product engineers working with LLMs, tool calling, MCP, evals, or agent workflows
-- Technical founders moving agent prototypes toward production
-- Security, DevOps, and ML platform practitioners working on governance, observability, and cost control
-- Builders with a concrete agent use case and enough technical experience to build during the day
-
-### Format
-
-- Check-in, coffee, and setup
-- Welcome from HackerSquad and TrueFoundry
-- TrueFoundry Agent Harness introduction
-- Challenge brief, build tracks, and judging rubric
-- Focused build time with technical support available
-- Project submissions and supporting evidence
-- Selected demos, judging, awards, and closing remarks
-- Networking and follow-up conversations
-
-### Bring
-
-- Your laptop
-- An agent use case, workflow, prototype, or infrastructure problem to work on
-- Questions about model gateways, MCP tools, observability, evals, cost controls, deployment, or agent governance
-- Any teammates you plan to build with
-
-### Event Details
-
-When: Saturday, September 19, 2026 - 9:30 AM-8:00 PM PT
-
-Where: 3120 Scott Blvd, Santa Clara, CA 95054
-
-Admission: Free, with approval required. Space is limited, and applications will prioritize technical builders working on relevant agent infrastructure and application problems.
-
-Prizes for top demos
-
-1st - $2,000
-
-2nd - $1,000
-
-3rd - $500
-
-Thank you to [OpenAI for sponsoring the hackathon and to AI Global Campus](https://aiglobalcampus.com/about) for hosting us.
-
-<a id="event-d03c4b466bfff274"></a>
-
-## Pause the World for Peace \| UN Blockchain Week 2026
-
-- Record: `luma-crypto-8UrKJM3a64tNN6e`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pausetheworldforpeace>
-
-### About the event
-
-International Day of Peace Concert 2026: Live and Free in Times Square
-
-Subtitle line: 24th Annual. NYC Climate Week Kick-Off.
-
-Short description
-
-Six hours of live music, ceremony and global voices in the middle of Times Square, leading to a World Moment of Silence for Peace. Free, open to all, and streaming worldwide.
-
-### About this event
-
-Once a year, Times Square stops being Times Square.
-
-For 24 years, Good News Corporation has brought artists, faith leaders, UN Peace Ambassadors, elected officials and humanitarian organizations to the busiest intersection in the world for one purpose: a public act of peace, held in the open, free to anyone who walks up.
-
-This year's concert runs from 2 PM to 8 PM on September 19 and opens NYC Climate Week. The afternoon is a Peace Party of calmness and celebration, building toward a World Moment of Silence for Peace. The evening turns inward with OMMM, a slower gathering of musicians, teachers and wisdom keepers centered on breath, sound and shared intention.
-
-On the program:
-
-- A remembrance of 9/11 and the Towers of Light, with Dr. Judy Kuriansky and Rita Cosby
-- A tribute to Dolly Parton featuring Dionne Warwick, performing "Peace Like a River"
-- Woodstock Forever: Peace, Love & Hope, with Richie Havens
-- The HIS LIFE musical
-- BlingOne and K-Pop World
-- Katya Grineva on piano, Luna Valen, Amanda Abizaid, Georgia Fumanti, Gabrielle Garcia, Heidi Little and the WE The World Tour
-- Peace messages from Ringo Starr, Michael Douglas and Dr. Jane Goodall
-- Global Peace Poles, civic welcomes and humanitarian awards
-- OMMM from 5:30 PM, with the Earth Elders, Antonique Smith, Chris Deckker, Caz Coronel and the Monroe Institute, and more
-
-The UN's call for this day is a ceasefire everywhere and unconditional acts of peace. An estimated 1.6 billion people worldwide know the International Day of Peace. This is how New York answers it.
-
-Admission is free. No ticket required. Register here so we can tell you where to meet and what is happening when.
-
-The details
-
-Date: Saturday, September 19, 2026
-
-Time: 2:00 PM to 8:00 PM ET
-
-Where: Times Square, New York City
-
-Cost: Free and open to the public
-
-[Watch live: youtube.com/goodnewsbroadcast](https://youtube.com/goodnewsbroadcast)
-
-Rebroadcast: Monday, September 21 at 12:00 PM ET, on the UN International Day of Peace
-
-### Schedule
-
-PART ONE: MAIN STAGE, 2:00 PM to 5:05 PM
-
-- 2:00 Opening, with peace messages from Ringo Starr and Michael Douglas
-- 2:03 Civic and interfaith welcome, with Reverend Paul Sladkus, state and borough leadership, Gary Kong, Andrew Kaen and community partners
-- 2:11 9/11 Towers of Light remembrance, with Dr. Judy Kuriansky, Rita Cosby and Tomaczek Bednarek
-- 2:17 Dionne Warwick, tribute to Dolly Parton, "Peace Like a River"
-- 2:32 HIS LIFE
-- 2:44 BlingOne and K-Pop World
-- 3:03 Georgia Fumanti
-- 3:10 Kamilia, Dolly Parton song
-- 3:19 Soho Johnny presents, with Technology Dave, Gabrielle Garcia, Renee L. and an award to Dan Romano
-- 3:33 Heidi Little and the WE The World Tour
-- 3:41 Amanda Abizaid
-- 3:47 Alice Liu, introduced by Ivy Ma
-- 3:56 Dr. Jane Goodall, by video
-- 3:57 Andreas Deutschmann, Climate Week
-- 4:05 David Katzmire
-- 4:10 Reid Stowe and Maxine Hoover
-- 4:18 Kiona Foundation, with an award to a young cancer survivor
-- 4:24 Doug
-- 4:31 Katya Grineva, piano
-- 4:40 BlingOne returns
-- 4:50 Luna Valen, "Alive" and "Swept Away"
-- 4:57 Woodstock Forever: Peace, Love & Hope, and the closing moment
-
-PART TWO: OMMM, 5:30 PM to 8:00 PM
-
-- 5:30 Yogini Jaima
-- 5:37 Rex St. Onge
-- 5:47 The Earth Elders
-- 5:52 Rebecca Irby, UN
-- 5:58 Nicole Gibson
-- 6:07 Antonique Smith
-- 6:18 Chris Deckker
-- 6:29 Aaron Ableman
-- 6:40 Alenka Slavinec
-- 6:51 Love, Peace, Harmony with Ancient Youth
-- 7:02 Caz Coronel and the Monroe Institute
-- 7:23 Reachel Singh and Vinay Vyas
-- 7:53 Closing
-
-Lineup and times subject to change.
-
-Know before you go
-
-- The concert is outdoors in Times Square and free to attend. Come for an hour or stay all six.
-- Arrive early for the opening and again before the Woodstock Forever finale.
-- Can't be there? Watch live on the Good News Broadcast YouTube channel, or catch the rebroadcast September 21 at noon.
-- Volunteers are needed. If you can give a few hours, reply [on this page or reach out through pausetheworldforpeace.org](https://pausetheworldforpeace.org).
-- Good News Corporation is a 501(c)(3) nonprofit, established 2002. Donations keep this concert free.ace initiative.
-
-<a id="event-5549f9aaa2a342d8"></a>
-
-## NewsBreak x CMU-SV ECE Hackathon
-
-- Record: `luma-crypto-KHFO8PYdAo9iSsq`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T18:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/st9fa3gb>
-
-### About the event
-
-AI for Local Life - CMU SV ECE Hackathon with NewsBreak.
-
-Build an AI agent that solves a real problem in someone's day-to-day local life.
-
-Join us for an afternoon of building, hacking, and demoing with fellow CMU Silicon Valley students. This hackathon challenges you to design and prototype an AI agent that makes a tangible difference in everyday local life - think errands, discovery, safety, community, convenience, or anything else that touches how people actually live day to day.
-
-Teams
-
-Form teams of 2-5 people, either in advance or when you arrive. We recommend starting to think about your topic/theme beforehand - the more baked your idea going in, the more you can build during hacking hours.
-
-### Schedule
-
-- 11:30 AM - Doors open / event start
-- 11:45 - 12:00 PM - Intro, theme walkthrough, and welcome talk via Zoom, presented by NewsBreak
-- 12:00 PM - Hacking begins, free Shake Shack comes after!
-- 12:00 - 4:00 PM - Hacking hours - team up and build your product + demo
-- 4:00 - 6:00 PM - Demos, judge feedback, and winners announced, followed by socializing
-- After 6:00 PM - Wrap-up
-
-Judges
-
-Our judging panel includes Mary Zeng, Head of Finance, Investor Relations, and Corporate Development at NewsBreak, along with other members of the NewsBreak team.
-
-### Prizes
-
-- Interview opportunities for both new grad and internship positions at NewsBreak
-- ECE swag (courtesy of CMU-SV)
-- NewsBreak swag
-- More prizes to be announced!
-
-### Location
-
-Right near Castro Street in downtown Mountain View - easy walk to food, coffee, and parking.
-
-Getting There
-
-Carpooling is welcome and can be reimbursed - coordinate with your team!
-
-Questions
-
-Reach out to Lordphone Wen at 608-217-8920 with any questions.
-
-Important
-
-This event is limited to CMU Silicon Valley ECE students! Please use your CMU email to register.
-
-<a id="event-7bf16783f5e40742"></a>
-
-## Flushing Tech Meetup - Hackathon at TIQC
-
-- Record: `luma-crypto-9ALKhzfyHNOLmPZ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vxyn32lw>
-
-### About the event
-
-Get ready to dive into the world of innovation and collaboration at the Tech Incubator at Queens College, where the Flushing Tech Meetup is hosting an electrifying hackathon just for you! In-person event!
-
-What's in store for you?
-
-Bring your laptops, your brightest ideas, and ongoing projects - let's build something extraordinary together! The Flushing Tech Meetup invites you to a bi-weekly, freeform, self-organized 2-hour hackathon where creativity knows no bounds. Whether you're a seasoned pro, aspiring entrepreneur, or a passionate hobbyist, this event is tailor-made for tech enthusiasts like you!
-
-Why join the Flushing Tech Meetup?
-
-We're more than just a group - we're a vibrant community of tech enthusiasts from all walks of life! At the Flushing Tech Meetup, we connect, learn, share, and inspire. Whether you're a commuter or a local resident, our goal is to cultivate a thriving tech community in and around Flushing, NYC. Join us for engaging workshops, exciting demos, insightful presentations, and networking events that will keep you at the forefront of the latest tech trends.
-
-Don't miss out on this incredible opportunity to be part of something big! Mark your calendar, gather your tech gear, and join us at the Queens College Tech Incubator on Saturday from 4:00 PM to 6:00 PM. Let's build the future together!
-
-<a id="event-59278669300ee3a9"></a>
-
-## Flushing Tech Meetup - Hackathon at TIQC
-
-- Record: `luma-crypto-M1pQPPWlrttT8E0`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/f8x5s6ik>
-
-### About the event
-
-Get ready to dive into the world of innovation and collaboration at the Tech Incubator at Queens College, where the Flushing Tech Meetup is hosting an electrifying hackathon just for you! In-person event!
-
-What's in store for you?
-
-Bring your laptops, your brightest ideas, and ongoing projects - let's build something extraordinary together! The Flushing Tech Meetup invites you to a bi-weekly, freeform, self-organized 2-hour hackathon where creativity knows no bounds. Whether you're a seasoned pro, aspiring entrepreneur, or a passionate hobbyist, this event is tailor-made for tech enthusiasts like you!
-
-Why join the Flushing Tech Meetup?
-
-We're more than just a group - we're a vibrant community of tech enthusiasts from all walks of life! At the Flushing Tech Meetup, we connect, learn, share, and inspire. Whether you're a commuter or a local resident, our goal is to cultivate a thriving tech community in and around Flushing, NYC. Join us for engaging workshops, exciting demos, insightful presentations, and networking events that will keep you at the forefront of the latest tech trends.
-
-Don't miss out on this incredible opportunity to be part of something big! Mark your calendar, gather your tech gear, and join us at the Queens College Tech Incubator on Saturday from 4:00 PM to 6:00 PM. Let's build the future together!
 
 <a id="event-6f16aa03265de602"></a>
 
@@ -51890,53 +51085,6 @@ Join the tournament: https://app.fortraders.com/games/c0302874-fbb2-4f01-96a4-6c
 
 Any questions? Contact lenka@fortraders.com
 
-<a id="event-86db6e7982e616ab"></a>
-
-## Beginner Acting Workshop Presented by HAFA Art Studio, Starz Studio by Marwa Gabriel, and I Studio by Rafik El Rihany
-
-- Record: `luma-evt-Dd3eNd55rFmR8bj`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-15T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/5eaoiqfb>
-- Original page: <https://luma.com/5eaoiqfb>
-
-### About the event
-
-Join us for a 24-hours beginner acting workshop designed for aspiring actors who want to build a strong foundation in acting for both camera and theater.
-
-September 14-19, 2026
-
-### Schedule
-
-- Monday-Friday: 6:00 PM - 10:00 PM
-- Saturday: 11:00 AM - 3:00 PM
-
-HAFA Art Studio
-
-18386 Brookhurst St., Fountain Valley, CA 92708
-
-What You'll Learn
-
-- Acting for camera & theater
-- Scene study
-- Character development
-
-Participants will also have the opportunity to be considered for future casting opportunities through Starz by Marwa Gabriel.
-
-Language: English with Arabic support.
-
-Each participant will receive a Certificate of Completion presented by all three workshop partners.
-
-### Registration
-
-- Early Bird (through August 16): $400
-- Regular Registration (August 17-September 14): $600
-
-Registration is non-refundable and non-transferable.
-
-Spots are very limited and will be filled on a first-come, first-served basis.
-
 <a id="event-8f442dad9e1d58bc"></a>
 
 ## ETHTokyo Week 2026
@@ -51981,106 +51129,6 @@ It's free! Confirm the consents, then apply with your email or sign in to your R
 ### Pull up, plug in, build something
 
 Whether you ship code, run a startup or are just Web3-curious, there's a seat for you.
-
-<a id="event-6990d9ba04830a13"></a>
-
-## Canada-Africa Innovation Partnership Summit \| Implementing the Next Phase of Economic, Innovation, and Diplomatic Partnerships.
-
-- Record: `luma-evt-DRqQLOWEi20Pwa4`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-19T19:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/fa9gptw2>
-- Original page: <https://luma.com/fa9gptw2>
-
-### About the event
-
-Moving Canada's Africa Strategy from policy to implementation.
-
-Hosted By The Canada-Africa Strategic Innovation Partnership Alliance (CASIPA).
-
-The Canada-Africa Innovation Partnership Summit brings together decision-makers responsible for turning these national priorities into measurable action.
-
-This executive forum moves beyond policy discussion. Participants will identify partnership opportunities, institutional priorities, investment pathways, research collaboration, and implementation mechanisms that support Canada's long-term engagement with Africa.
-
-The summit will contribute to practical recommendations for governments, universities, investors, founders, corporations, innovation organizations, and the African diaspora.
-
-EVENT AGENDA:
-
-The summit will identify practical actions that strengthen Canada-Africa partnerships through innovation, trade, research, investment, diplomacy, entrepreneurship, education, and institutional collaboration.
-
-The discussion will support implementation priorities identified within Canada's Africa Strategy while creating opportunities for sustained collaboration between Canadian and African organizations.
-
-EXECUTIVE DISCUSSION THEMES
-
-Strengthening Canada-Africa Diplomatic Partnerships
-
-Discussion will examine new models for institutional cooperation between governments, universities, business associations, and international organizations while strengthening people-to-people engagement and diaspora participation.
-
-Trade, Investment and Economic Cooperation
-
-Participants will identify opportunities for investment, commercial partnerships, supply chain diversification, implementation of the African Continental Free Trade Area, and greater private sector collaboration between Canada and African economies.
-
-Innovation, Research and Commercialization
-
-Discussion will focus on joint research initiatives, technology commercialization, startup collaboration, university partnerships, artificial intelligence, advanced manufacturing, critical minerals, clean technology, health innovation, and knowledge transfer.
-
-Diaspora Leadership
-
-Participants will examine practical approaches for engaging African diaspora communities as strategic partners in investment, innovation, entrepreneurship, education, trade, and diplomacy, consistent with Canada's commitment to strengthen diaspora engagement.
-
-Youth, Skills and Future Workforce Development
-
-The discussion will identify collaborative approaches supporting entrepreneurship, technical education, research exchange, workforce development, and youth employment across Canada and Africa.
-
-IMPLEMENTATION PRIORITIES
-
-Participants will work toward practical recommendations for:
-
-- Canada-Africa Innovation Partnerships
-- Bilateral Research Collaborations
-- Institutional Memoranda of Understanding
-- Investment Readiness Programs
-- Startup Exchange Initiatives
-- University Partnership Networks
-- Trade and Investment Missions
-- Public-Private Partnerships
-- Talent Mobility Programs
-- Diaspora Engagement Frameworks
-- Policy Collaboration Mechanisms
-- Long-term Canada-Africa Partnership Roadmaps
-
-EXPECTED OUTCOMES
-
-- Executive implementation recommendations
-- Cross-sector partnership commitments
-- New institutional collaborations
-- Research and innovation initiatives
-- Investment opportunities
-- Government engagement priorities
-- University collaboration framework
-- Diaspora engagement recommendations
-- Canada-Africa implementation roadmap
-
-### EVENT DETAILS
-
-Canada-Africa Innovation Partnership Summit
-
-Implementing the Next Phase of Economic, Innovation, and Diplomatic Partnerships
-
-Thursday, August 19, 2026
-
-3:00 PM to 6:00 PM EDT
-
-Virtual Executive Conference
-
-Hosted by
-
-Canada-Africa Strategic Innovation Partnership Alliance
-
-REGISTRATION CALL TO ACTION
-
-Canada's renewed engagement with Africa requires coordinated action across government, industry, academia, investment, entrepreneurship, and civil society. This summit brings together leaders prepared to contribute practical ideas, establish institutional partnerships, and support long-term implementation of Canada's Africa Strategy. Join the discussion and help shape the next phase of Canada-Africa cooperation.
 
 <a id="event-31845725941fd6c0"></a>
 
@@ -70580,6 +69628,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8a24a4499a17f53b"></a>
+
+## Ethereum Stablecoin Happy Hour @ Money20/20 Las Vegas
+
+- Record: `luma-host-evt-evt-BhB7tB3f7dh3bty`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T01:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/ethereum-stablecoin-happyhour>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-47c3a4a5d63e13ad"></a>
 
 ## The Lavo Lounge with Fireblocks, Yellow Card and Cyclops
@@ -70906,6 +69966,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2054535ccc50a9f7"></a>
+
+## Studio Night: Dramatic
+
+- Record: `luma-evt-l5sGtz6TMmoPlOx`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nkob11aw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-60ab3de2c654f612"></a>
 
 ## CoinFund Miami: Crypto Snowbirds Return
@@ -71155,6 +70227,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T08:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-denver/events/316843996/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-28ce7cfe5cf35978"></a>
+
+## Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol
+
+- Record: `luma-host-evt-evt-3vTAJvXoBBaY3HB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T08:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/ethglobal-cowork-vadodara>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71431,6 +70515,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T00:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/otbxnj5u>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-dc45cb4780a4ccbb"></a>
+
+## A Fireside Chat with Derek Kan: Silicon Valley vs. DC, who runs America in the Age of AI?
+
+- Record: `luma-evt-VqN73RGOXFPmV5C`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/frm0egks>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71779,6 +70875,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/welovectos>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-964bc2737f1e5684"></a>
+
+## Atherton - Summer In Silicon Valley!
+
+- Record: `luma-evt-WWDBt5BPWV6ATs8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/focus-siml>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74546,6 +73654,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-76623e9446a26e35"></a>
+
+## Building the Next AI-Powered BeSci Unicorn
+
+- Record: `luma-host-evt-evt-461QGC3FVhObGdJ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T18:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/encode-t73d>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-239d4d7ce7c3db4b"></a>
 
 ## Pr1me London Series - Exclusive Dinner for Web3 Finance
@@ -74932,6 +74052,18 @@ Check the organizer's current pass comparison for meal, activity and invitation-
 - Starts: 2026-11-25T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://deaisummit.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ccce9c031580ff44"></a>
+
+## Beyond Lemonade & Tractable: How Insurers Win with AI
+
+- Record: `luma-host-evt-evt-Pu0xIMyxnGt10dp`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T18:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/encode-r77e>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
