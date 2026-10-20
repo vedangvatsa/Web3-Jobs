@@ -33051,6 +33051,40 @@
       "attemptId": "0084d5f0-c4e5-4cdd-be9e-a0ea393d9d40",
       "verification": "verified",
       "postId": "0xedf2bc62db45b8e7c8ff8332c6c114429239c745"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "deed1e32-5a1d-4bc2-85c3-e2aae9303662",
+      "verification": "creating"
     }
   ]
 }
