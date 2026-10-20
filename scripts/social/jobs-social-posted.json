@@ -28903,9 +28903,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "539e7691-2226-4fee-b876-73a92605e6bd",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad6715ea569186c79cea29d",
-      "error": "LinkedIn CVin.Bio receipt 6ad6715ea569186c79cea29d remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad6715ea569186c79cea29d remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518032576612073472"
     },
     {
       "slug": "aso23",
