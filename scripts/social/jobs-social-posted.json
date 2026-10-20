@@ -28009,9 +28009,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "83f756df-0c4e-4bfd-a70e-c67ab6a1ea65",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad670aecded3e5c06c43242",
-      "error": "LinkedIn #Web3 receipt 6ad670aecded3e5c06c43242 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad670aecded3e5c06c43242 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518031835348549632"
     },
     {
       "slug": "mkt109",
