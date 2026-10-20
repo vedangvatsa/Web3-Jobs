@@ -29983,7 +29983,8 @@
       },
       "account": "profile",
       "attemptId": "f5ab1a68-b132-451d-99ae-b8811f64660f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4eff7e26b4cb61ae561bda2bf683e83811e81e44"
     }
   ]
 }
