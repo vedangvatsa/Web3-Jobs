@@ -33511,7 +33511,8 @@
       },
       "account": "channel:web3",
       "attemptId": "63d52748-5857-4587-8201-5255080dbd89",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f29d4f8a716f3994728da2ddc5206481814283a"
     }
   ]
 }
