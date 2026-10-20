@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-20",
+    "threadId": "N01",
+    "sequence": 3,
+    "platform": "x",
+    "assetCommit": "e9a5da514b0d03dbddbfbce486c0ed9ca848aab2",
+    "contentDigest": "323e9ce4a295c1392843f858f6cc589533bf36ca4d1b9d129f4e59a89da2be15",
+    "posts": [
+      {
+        "number": 1,
+        "text": "Compare cities against your workweek before comparing their overall scores. A recruiter taking private calls and an engineer working mostly asynchronously need different setups. Write down the conditions your work actually requires.",
+        "alt": "Start with the workweek. Private calls. Focus time. Team overlap. Daily routine.",
+        "image": "social-assets/knowledge-threads-month/images/N01-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Make two lists: requirements and preferences. Example requirements might be a private call space and workable team overlap. Walkability or warm weather may be preferences. A high overall score should not hide a missing requirement.",
+        "alt": "Separate requirements from preferences. Required conditions. Preferred conditions. Missing requirement.",
+        "image": "social-assets/knowledge-threads-month/images/N01-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Use the city directory to compare living-cost estimates, internet, safety, walkability and weather. Change the ranking category to match your question. Sorting by internet answers a different question from sorting by living costs.\n\nhashtagweb3.com/nomads/x",
+        "alt": "Change the comparison question. Living costs. Internet. Safety. Walkability. Weather.",
+        "image": "social-assets/knowledge-threads-month/images/N01-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Treat city-level information as a starting point for checking the actual place. Ask a host about the desk, call privacy and internet at the accommodation. A city's average cannot tell you whether a particular room suits your work.",
+        "alt": "Check the actual room. Desk. Call privacy. Connection. Host confirmation.",
+        "image": "social-assets/knowledge-threads-month/images/N01-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Compare the months you would be there, not only an annual weather summary. Also map team meetings to your local hours for those dates. A city can fit your preferences while the working schedule still does not fit your day.",
+        "alt": "Use the dates you would stay. Monthly weather. Meeting dates. Local working hours. Daily routine.",
+        "image": "social-assets/knowledge-threads-month/images/N01-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "End with a shortlist and an unanswered-questions column. For each city, note what needs a host quote, an employer answer or an official entry check. A useful comparison shows what you still need to verify before booking.",
+        "alt": "Keep the unknowns beside the shortlist. City. Host question. Employer question. Entry check.",
+        "image": "social-assets/knowledge-threads-month/images/N01-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-01.jpg",
+        "sha256": "79070f48e1a01e72a096b725e5e6a3a503dbd4b948cdfb922eec7f291ff0af22",
+        "bytes": 101027,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-02.jpg",
+        "sha256": "2ae1759fd669e347b4c67d1de46c7e56a7574b5a87fdcac4f9cf2b05a2ae5ae7",
+        "bytes": 114360,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-03.jpg",
+        "sha256": "41f79d51503fa956022e04ba79c15eff5cff43c27bb9c28e367e294711941cef",
+        "bytes": 120632,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-04.jpg",
+        "sha256": "691caabcf8b2d2e41d544a158861865d1d4e021755fcd76f3c30a671891a923f",
+        "bytes": 99721,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-05.jpg",
+        "sha256": "276bf0def05c249bbcd956d8849b3166b2386f7653ff5814f82d72da9f86b747",
+        "bytes": 107477,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N01-06.jpg",
+        "sha256": "8e14f49fac5ccd19ce42f522d30ed070a8b0ceb088d578c5d066914fe5e92e6b",
+        "bytes": 106307,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e9a5da514b0d03dbddbfbce486c0ed9ca848aab2/social-assets/knowledge-threads-month/images/N01-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "a44b5413-8c5c-40c5-9585-780784a10675",
+  "startedAt": "2026-10-20T11:31:12.323Z",
+  "status": "claimed",
+  "steps": {}
+}
