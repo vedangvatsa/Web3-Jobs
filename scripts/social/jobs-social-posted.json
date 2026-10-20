@@ -31727,7 +31727,8 @@
       },
       "account": "profile",
       "attemptId": "28ab922c-f681-48bd-9b61-defa5b473ac5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd579355e2e985a45522f6daab5ab87c3033f26c9"
     }
   ]
 }
