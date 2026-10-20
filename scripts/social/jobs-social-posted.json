@@ -31180,7 +31180,8 @@
       },
       "account": "channel:base",
       "attemptId": "034eed18-f6ac-4aaa-ab5e-b02702f0ebb6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc74d306c60703d12964729bc4b99b39c06027cb0"
     }
   ]
 }
