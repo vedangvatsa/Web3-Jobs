@@ -29580,7 +29580,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a430e3fd-bb4a-416c-b83a-c8e5655a8e38",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x250a5f0487fc1ce6596ac3c75637853345eecae1"
     }
   ]
 }
