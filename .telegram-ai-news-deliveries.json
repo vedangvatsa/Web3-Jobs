@@ -1798,7 +1798,7 @@
     "sentAt": "2026-10-19T19:33:36.611Z"
   },
   "4cd8d0af-ec35-4d78-b4fa-b6a8658d2b03": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-20T11:32:07.521Z",
     "stories": [
       {
@@ -1828,6 +1828,8 @@
         "originalTitle": "How to study a swiftly melting climate disaster"
       }
     ],
-    "slotKey": "2026-10-20:afternoon"
+    "slotKey": "2026-10-20:afternoon",
+    "messageId": 193376,
+    "sentAt": "2026-10-20T11:32:12.513Z"
   }
 }

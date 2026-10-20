@@ -764,6 +764,9 @@
   "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
   "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
   "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+  "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+  "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2075,6 +2078,12 @@
   "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
   "Tolan raises $30 million for AI companion app",
   "Tolan snags $30M for its AI companion that helps users navigate life",
+  "Anthropic negotiates $45 billion compute deal with Nscale",
+  "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+  "Otter.ai Raises $320 Million From General Catalyst Fund",
+  "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+  "Researchers Drill Alaskan Permafrost to Study Thawing Soil",
+  "How to study a swiftly melting climate disaster",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2356,5 +2365,8 @@
   "fp:access|analyz|attempt|ban|download|extend|fail|failur|legislativ|liv",
   "fp:15b|62b|chip|fund|hit|independent|open|produc|rais|remain",
   "fp:account|analysis|api|attacker|block|breach|caus|charg|cod|filter",
-  "fp:000|30m|activ|app|companion|currently|help|lif|management|mor"
+  "fp:000|30m|activ|app|companion|currently|help|lif|management|mor",
+  "fp:45b|agreement|another|anthropic|are|capacity|comput|expand|generation|infrastructur",
+  "fp:320m|capital|catalyst|dilutiv|enterpris|expand|fund|general|growth|meet",
+  "fp:alaska|alaskan|climat|collect|denali|disaster|doubl|drill|frozen|graduat"
 ]
