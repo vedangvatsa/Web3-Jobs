@@ -1855,5 +1855,36 @@
     "slotKey": "2026-10-20:afternoon",
     "messageId": 155854,
     "sentAt": "2026-10-20T11:33:33.241Z"
+  },
+  "67e961ae-6b06-4cd4-9842-7c6a3d9f90e8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-20T19:33:43.797Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Mastercard releases stablecoin fraud detection API",
+        "summary": "The service evaluates transactions for scams and sanctions before settlement with early participants Borderless.xyz and Keyrails.",
+        "link": "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard scores stablecoin payments for fraud before they settle"
+      },
+      {
+        "index": -1,
+        "headline": "SkyAI sells Solana treasury and launches $201 million tender offer",
+        "summary": "The firm liquidated its SOL by October 16 and now offers $3 per share for outstanding securities.",
+        "link": "https://hashtagweb3.com/skyaitender?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SkyAI sells its entire Solana treasury and offers a $201 million tender"
+      },
+      {
+        "index": -1,
+        "headline": "Sophon sets November 25 deadline for asset withdrawals",
+        "summary": "The entertainment chain will close its infrastructure and mainnet, giving users five days to transfer assets and claim rewards.",
+        "link": "https://hashtagweb3.com/sophon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown"
+      }
+    ],
+    "slotKey": "2026-10-20:evening"
   }
 }
