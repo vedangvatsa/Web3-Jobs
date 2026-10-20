@@ -33084,7 +33084,8 @@
       },
       "account": "channel:product",
       "attemptId": "deed1e32-5a1d-4bc2-85c3-e2aae9303662",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e676c43b07eaa62fbaca89d2ed7651b21a824d0"
     }
   ]
 }
