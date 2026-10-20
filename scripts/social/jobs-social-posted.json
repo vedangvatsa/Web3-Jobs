@@ -32496,8 +32496,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "7761c244-5e57-4b3e-ba2a-4c8e2ddfcac6",
-      "verification": "pending",
-      "postId": "6ad7c1b99de2b8d1e174843b"
+      "verification": "verified",
+      "postId": "6ad7c1b99de2b8d1e174843b",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112627955058839995"
     }
   ]
 }
