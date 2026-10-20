@@ -32015,7 +32015,8 @@
       },
       "account": "channel:founders",
       "attemptId": "60c97778-5811-48c0-8b0c-c988acd96c83",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb3ad238a5553fb39e90b82e455b40e71e4f3a211"
     }
   ]
 }
