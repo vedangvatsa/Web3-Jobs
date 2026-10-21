@@ -36520,7 +36520,8 @@
       },
       "account": "channel:growth",
       "attemptId": "2a0577b1-f99c-460f-aea7-66db7804a3e8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4e0ff823d9208e532ac41dc5a6c1c0fa5d41245d"
     }
   ]
 }
