@@ -2233,10 +2233,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316361033/",
     "coverImage": "/events/zk-learning-group-zero-knowledge-bridges-9c50f897.webp",
     "source": "meetup",
-    "month": "September 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "September 2026"
   },
   {
     "id": "w3v-rayls-in-seoul",
@@ -12892,46 +12889,6 @@
     }
   },
   {
-    "id": "token2049-side-6a9ab0b3d567345aad683a7f",
-    "name": "SINGAPORE TRADING TOURNAMENT",
-    "description": "## 🚀 SINGAPORE TRADING TOURNAMENT 🚀\n\nWe're hunting for the best trader in Singapore. Free entry, a $100,000 virtual balance, one leaderboard — and up to $300,000 in Trading Challenges for the top three, handed over in person during TOKEN2049 & race week.\n\nFind all information at: https://fortraders.com/tournaments/singapore\n\nFor Traders is one of the world's leading prop trading firms, trusted by 60,000+ traders across 130+ countries and ranked among the Top 3 prop firms by verified reviews.\n\nWhether you're an experienced trader or just want to see how you perform under pressure, this tournament is your chance to compete against a global community—completely free.\n\n## 🏆 Tournament Prizes\n\n🥇 1st Place: 300K Trading Challenges\n🥈 2nd Place: 200K Trading Challenges\n🥉 3rd Place: 100K Trading Challenges\n\nEvery participant receives:\n\n• 💰 Virtual trading account\n• 📈 Live leaderboard with real-time rankings\n• 🌍 Competition against traders from around the globe\n• 🏆 Rankings based on trading performance\n\nThis is your opportunity to prove your trading skills in a transparent, competitive environment.\n\n## Win it here.\nToast it in Singapore.\n\nIn October the For Traders team lands in Singapore for the biggest week of the year — TOKEN2049 and the Marina Bay night race weekend. On 8 October at 8pm we invite the top three out for a drink and hand over the prizes in person.\n\n## 📋 Tournament Rules\n\n• ✅ Entry Fee: Free\n• ✅ Maximum Drawdown: 10%\n• ✅ One account per participant for each tournament\n• ✅ Once you reach the maximum drawdown, you cannot rejoin the same tournament\n• ✅ Fixed tournament start and end time\n• ✅ Trade anytime using any strategy, including during major news events\n• ✅ Participants must be 18 years of age or older\n\n## 🌍 Compete. Learn. Win.\n\nWhether you're looking to challenge yourself, compare your performance with other traders, or win a funded trading challenge, this tournament is built for you.\n\nNo deposits. No hidden fees. Just trading.\n\nJoin the tournament: https://app.fortraders.com/games/c0302874-fbb2-4f01-96a4-6c315264273a/tournaments/02e156e3-ad4f-4f84-a137-5366661b916b\n\nAny questions? Contact lenka@fortraders.com",
-    "startDate": "2026-09-14T11:00:00.000Z",
-    "endDate": "2026-09-21T11:00:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/6qgnmr5b",
-    "coverImage": "/events/token2049-side-6a9ab0b3d567345aad683a7f-ee1000ff.webp",
-    "source": "token2049-official",
-    "month": "October 2026",
-    "category": "Other",
-    "price": "Free",
-    "token2049SideEvent": true,
-    "hosts": [
-      "Lenka Roz"
-    ],
-    "timezone": "Europe/Prague",
-    "slug": "trading-tournament",
-    "registrationUrl": "https://luma.com/6qgnmr5b",
-    "visibility": "public",
-    "locationHidden": false,
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6qgnmr5b",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6qgnmr5b",
-      "eventId": "evt-sNn1FfcOhiBAxaD",
-      "fetchedAt": "2026-09-19T23:55:58.279Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "token2049-side-6a9a7f7b967be0befa88b723",
     "name": "FutureXcon | KOL Party 🇸🇬",
     "description": "[FutureXcon 2026 | KOL Party 🇸🇬](https://emojigraph.org/flag-singapore/)\n\nA party during Token2049 week for KOLs, meme communities, exchanges, traders, and the teams building around them. (secret KOL convo)\n\nEpic Evening in Singapore, panoramic views.\n\nEntry Policy: HoldDiamond hand and No entry without wristband\n\n## 10+ Tier 1 KOLs (Confirmed).\n\nToken2049 week brings world elite crowd into one city. This is where that crowd ends up after dark.\n\nThis is THE PARTY.\n\n## WHEN\n\n6 October, 8pm till late.\n\n([Cohost w/ us: @Tknigs](https://t.me/tknigs))\n\nKOLs and CT regulars from around the world. Meme communities, exchanges and trading platforms, launchpads, market makers, traders, founders and funds.\n\nMost of the value at an event like this is who's standing next to you, so we're being careful about who gets in.\n\nWHAT TO EXPECT\n\n🔥 Epic Marina Skyline view venue with panoramic city views\n🔥 DJs spinning techno, house and cyberpunk beats\n🔥 Immersive light and laser show with neon glitch visuals\n🔥 Signature crypto cocktails\n🔥 Live performances and secret drops throughout the night\n🔥 Exclusive VIP areas for sponsors and special guests\n\nENTRY\n\nApplication only. Limited capacity, every application reviewed.\n\nWe'll announce part of the guest list closer to the date.\n\nPREVIOUS EVENTS\n\nhttps://fancon.xyz/",
@@ -19481,27 +19438,27 @@
       "Nikhil Sharma",
       "Catherine Porter",
       "Dan Morehead",
-      "Rebecca Rettig",
       "Matthew Long",
+      "Rebecca Rettig",
       "Geoffrey Kendrick",
-      "Samantha Bohbot",
+      "Laurie Katz",
       "Konstantin Richter",
       "Jason Yanowitz",
-      "Laurie Katz",
       "Stani Kulechov",
-      "Lord Holmes of Richmond MBE",
       "David Mercer",
+      "Samantha Bohbot",
+      "Lord Holmes of Richmond MBE",
       "Katie Harries",
       "Theo Golden",
       "Anatoly Crachilov",
+      "Ryan Hayward",
       "Sophia Bantanidis",
       "Simon Taylor",
-      "Ryan Hayward",
-      "Stephanie Ramezan",
+      "Dr. Lin Han",
       "Francisco Maroto Castro",
+      "Stephanie Ramezan",
       "Kash Razzaghi",
-      "Alex Seddon",
-      "Lance Vitanza"
+      "Alex Seddon"
     ]
   },
   {
@@ -22749,7 +22706,7 @@
   },
   {
     "id": "luma-host-evt-evt-jAsxvsyCZCb8JkA",
-    "name": "Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (CASCAIS/LISBON)",
+    "name": "Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)",
     "description": "",
     "startDate": "2026-10-26T16:00:00.000Z",
     "endDate": "2026-10-26T19:30:00.000Z",
@@ -22924,7 +22881,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316843977/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316843977-eff83e66.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22952,7 +22909,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24757,7 +24714,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316843995/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316843995-e308ae55.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24813,7 +24770,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802761-53bc0fb8.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24869,7 +24826,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316843996/",
-    "coverImage": "/events/mu-316843996-ed02cbb2.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24897,7 +24854,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316859689/",
-    "coverImage": "/events/mu-316859689-269ebffe.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24911,7 +24868,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
-    "coverImage": "/events/mu-316802785-79c48422.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -25376,14 +25333,19 @@
     "month": "October 2026"
   },
   {
+    "id": "luma-evt-V53ojWka5tr7GSw",
     "name": "Hands-On Bitcoin Multisig Workshop",
     "description": "Participants build a single-user, two-of-three multisignature Bitcoin wallet with devices from multiple vendors. The workshop covers signing methods, seed backups and wallet-configuration backups, with a setup worksheet and testnet bitcoin for practice. Bring Nunchuk on a phone or Sparrow Wallet on a laptop, plus two compatible signing devices.",
     "startDate": "2026-10-24T21:00:00.000Z",
     "endDate": "2026-10-24T23:00:00.000Z",
-    "timezone": "America/Vancouver",
     "city": "Vancouver",
     "country": "Canada",
     "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada",
+    "url": "https://luma.com/r4vintbd",
+    "coverImage": "/events/luma-evt-v53ojwka5tr7gsw-2ac9d2fb.webp",
+    "source": "curated-reviewed",
+    "month": "October 2026",
+    "timezone": "America/Vancouver",
     "venueName": "DCTRL",
     "streetAddress": "328 W Hastings St",
     "addressLocality": "Vancouver",
@@ -25398,7 +25360,6 @@
     "locationHidden": false,
     "visibility": "public",
     "attendanceMode": "offline",
-    "coverImage": "/events/luma-evt-v53ojwka5tr7gsw-2ac9d2fb.webp",
     "sourceVerification": {
       "url": "https://luma.com/r4vintbd",
       "eventId": "evt-V53ojWka5tr7GSw",
@@ -25443,10 +25404,7 @@
         }
       ]
     },
-    "id": "luma-evt-V53ojWka5tr7GSw",
-    "url": "https://luma.com/r4vintbd",
     "registrationUrl": "https://luma.com/r4vintbd",
-    "source": "curated-reviewed",
     "venueAddressSource": {
       "checkedAt": "2026-10-20T09:30:13.649Z",
       "urls": [
@@ -28061,5 +28019,114 @@
     "coverImage": "/events/luma-evt-fgxy3n11exyjqvx-d4b9f0dd.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-C0v79oIECaLBUXz",
+    "name": "Bay to Bay | | From Silicon Valley to Hong Kong & Shenzhen Greater Bay Area",
+    "description": "",
+    "startDate": "2026-10-23T18:00:00.000Z",
+    "endDate": "2026-10-23T20:00:00.000Z",
+    "city": "Sunnyvale",
+    "country": "United States",
+    "location": "Sunnyvale, United States",
+    "url": "https://lu.ma/uu9xm7ns",
+    "coverImage": "/events/luma-evt-c0v79oiecalbuxz-42683261.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-rxaQFiotq1c9xcf",
+    "name": "Diagrammatics Meetup #3",
+    "description": "",
+    "startDate": "2026-10-26T00:00:00.000Z",
+    "endDate": "2026-10-26T03:30:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/3xy9xhrg",
+    "coverImage": "/events/luma-evt-rxaqfiotq1c9xcf-ea10ad32.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-tritemius-side-event",
+    "name": "Tritemius Side Event",
+    "description": "Tritemius Side Event: a private MERGE Madrid cocktail for institutional players, investors and digital asset industry partners.",
+    "startDate": "2026-10-28T17:00:00.000Z",
+    "endDate": "2026-10-28T22:30:00.000Z",
+    "city": "Madrid",
+    "country": "ES",
+    "location": "Madrid, ES",
+    "url": "https://luma.com/3mxml91b",
+    "coverImage": null,
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-la-velada-madrid",
+    "name": "La Velada Madrid",
+    "description": "La Velada Madrid: an invite-only MERGE Madrid dinner hosted by Figment for institutional digital asset leaders.",
+    "startDate": "2026-10-28T19:00:00.000Z",
+    "endDate": "2026-10-28T22:00:00.000Z",
+    "city": "Madrid",
+    "country": "ES",
+    "location": "Madrid, ES",
+    "url": "https://luma.com/LaVeladaMadrid",
+    "coverImage": null,
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-beyond-the-wallet-a-dinner-on-stablecoin-spend-cards--global-payments",
+    "name": "Beyond the Wallet: A Dinner on Stablecoin Spend, Cards & Global Payments",
+    "description": "Beyond the Wallet: an invite-only MERGE Madrid dinner for finance leaders working with stablecoins, cards and cross-border payments.",
+    "startDate": "2026-10-28T19:00:00.000Z",
+    "endDate": "2026-10-28T22:00:00.000Z",
+    "city": "Madrid",
+    "country": "ES",
+    "location": "Madrid, ES",
+    "url": "https://luma.com/926hkusn",
+    "coverImage": null,
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-46F3Ceg0DTqqh8u",
+    "name": "Crypto Halloween And Chill",
+    "description": "",
+    "startDate": "2026-10-29T01:00:00.000Z",
+    "endDate": "2026-10-29T03:00:00.000Z",
+    "city": "Newport Beach",
+    "country": "United States",
+    "location": "Newport Beach, United States",
+    "url": "https://lu.ma/hy4fwizj",
+    "coverImage": "/events/luma-evt-46f3ceg0dtqqh8u-148d3c44.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316576727",
+    "name": "The CS Talent Shift: What Our AI Survey Reveals About Titles, Hiring, and Skills",
+    "description": "AI is changing Customer Success faster than most organizations know how to respond. Titles are shifting, hiring priorities are evolving, and the skills that mattered two years ago are being redefined ",
+    "startDate": "2026-10-30T12:00:00-06:00",
+    "endDate": "2026-10-30T12:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/colorado-customer-success-meetup/events/316576727/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316912416",
+    "name": "From Job Description to Job Ready: Using AI to Close Your Skill Gaps",
+    "description": "What if AI could do more than polish your resume or write a cover letter?\n\nWhat if it could help you become a stronger candidate for the job you actually want?\n\nIn this practical demonstration, Jeremy",
+    "startDate": "2026-11-05T11:00:00-07:00",
+    "endDate": "2026-11-05T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]

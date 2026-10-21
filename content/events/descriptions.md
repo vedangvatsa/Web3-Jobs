@@ -52548,69 +52548,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
 
-<a id="event-7cb0a898ed6d817e"></a>
-
-## SINGAPORE TRADING TOURNAMENT
-
-- Record: `token2049-side-6a9ab0b3d567345aad683a7f`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-14T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6qgnmr5b>
-
-### SINGAPORE TRADING TOURNAMENT
-
-We're hunting for the best trader in Singapore. Free entry, a $100,000 virtual balance, one leaderboard - and up to $300,000 in Trading Challenges for the top three, handed over in person during TOKEN2049 & race week.
-
-Find all information at: https://fortraders.com/tournaments/singapore
-
-For Traders is one of the world's leading prop trading firms, trusted by 60,000+ traders across 130+ countries and ranked among the Top 3 prop firms by verified reviews.
-
-Whether you're an experienced trader or just want to see how you perform under pressure, this tournament is your chance to compete against a global community - completely free.
-
-### Tournament Prizes
-
-1st Place: 300K Trading Challenges
-
-2nd Place: 200K Trading Challenges
-
-3rd Place: 100K Trading Challenges
-
-Every participant receives:
-
-- Virtual trading account
-- Live leaderboard with real-time rankings
-- Competition against traders from around the globe
-- Rankings based on trading performance
-
-This is your opportunity to prove your trading skills in a transparent, competitive environment.
-
-### Win it here
-
-Toast it in Singapore.
-
-In October the For Traders team lands in Singapore for the biggest week of the year - TOKEN2049 and the Marina Bay night race weekend. On 8 October at 8pm we invite the top three out for a drink and hand over the prizes in person.
-
-### Tournament Rules
-
-- Entry Fee: Free
-- Maximum Drawdown: 10%
-- One account per participant for each tournament
-- Once you reach the maximum drawdown, you cannot rejoin the same tournament
-- Fixed tournament start and end time
-- Trade anytime using any strategy, including during major news events
-- Participants must be 18 years of age or older
-
-### Compete. Learn. Win
-
-Whether you're looking to challenge yourself, compare your performance with other traders, or win a funded trading challenge, this tournament is built for you.
-
-No deposits. No hidden fees. Just trading.
-
-Join the tournament: https://app.fortraders.com/games/c0302874-fbb2-4f01-96a4-6c315264273a/tournaments/02e156e3-ad4f-4f84-a137-5366661b916b
-
-Any questions? Contact lenka@fortraders.com
-
 <a id="event-8f442dad9e1d58bc"></a>
 
 ## ETHTokyo Week 2026
@@ -72558,6 +72495,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ec20a783fbe8a914"></a>
+
+## Bay to Bay \| \| From Silicon Valley to Hong Kong & Shenzhen Greater Bay Area
+
+- Record: `luma-evt-C0v79oIECaLBUXz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/uu9xm7ns>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-26e415aa477165e5"></a>
 
 ## Cloudways Prepathon: In-person, Mexico City 2026
@@ -72843,6 +72792,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e8e5fad5bd76b31a"></a>
+
+## Diagrammatics Meetup #3
+
+- Record: `luma-evt-rxaQFiotq1c9xcf`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/3xy9xhrg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-35ad6d2c38bd095f"></a>
 
 ## SWITCH Day 0 Lab Crawl - LaunchPad @ One-North (AM)
@@ -72893,7 +72854,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-338ebe2120a8a8bb"></a>
 
-## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (CASCAIS/LISBON)
+## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
 
 - Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -73109,6 +73070,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f613d7f83e70f51d"></a>
+
+## Tritemius Side Event
+
+- Record: `w3v-tritemius-side-event`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/3mxml91b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-96fd430b4192ab52"></a>
 
 ## Peninsula - Bitcoin Meetup
@@ -73142,6 +73115,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T18:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/4w2zk12q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7ca6f889703548e1"></a>
+
+## Beyond the Wallet: A Dinner on Stablecoin Spend, Cards & Global Payments
+
+- Record: `w3v-beyond-the-wallet-a-dinner-on-stablecoin-spend-cards--global-payments`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/926hkusn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-195909adc9aaf48e"></a>
+
+## La Velada Madrid
+
+- Record: `w3v-la-velada-madrid`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/LaVeladaMadrid>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73182,6 +73179,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Chainlink's one-day forum for institutional finance leaders covers real-world assets, agentic finance, interoperability, financial-market infrastructure, and stablecoins and payments. Attendance is invitation-only through an application process. The organizer says programming will be livestreamed on its official social channels.
+
+<a id="event-0f1d10bb1d628d10"></a>
+
+## Crypto Halloween And Chill
+
+- Record: `luma-evt-46F3Ceg0DTqqh8u`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/hy4fwizj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-917d984fb3d2f7a3"></a>
 
@@ -73600,6 +73609,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-30T09:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/ndrr1yqe>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e8622c2d291da210"></a>
+
+## The CS Talent Shift: What Our AI Survey Reveals About Titles, Hiring, and Skills
+
+- Record: `mu-316576727`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T12:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/colorado-customer-success-meetup/events/316576727/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74575,6 +74596,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T10:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/9lgrhxjn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d73fc5f29b8746c2"></a>
+
+## From Job Description to Job Ready: Using AI to Close Your Skill Gaps
+
+- Record: `mu-316912416`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T11:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bouldernet-meetup/events/316912416/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
