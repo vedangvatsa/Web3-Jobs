@@ -38104,7 +38104,8 @@
       },
       "account": "channel:defi",
       "attemptId": "0e17a02d-5aa9-431e-9ea9-64252f5e9be5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa04f131fd070d7494d9c41fbe46458ec0e622c91"
     }
   ]
 }
