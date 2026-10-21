@@ -36160,7 +36160,8 @@
       },
       "account": "channel:developers",
       "attemptId": "96ab8ab1-c86d-4dbf-8727-1897b0c9a72c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaef842f7bd5b404ba295ccd10d08642c5e269850"
     }
   ]
 }
