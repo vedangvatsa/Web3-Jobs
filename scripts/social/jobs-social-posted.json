@@ -37520,7 +37520,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "b0155dbb-91c6-40aa-8310-0d87b829ed65",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518636460871471105"
     }
   ]
 }
