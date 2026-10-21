@@ -36052,7 +36052,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "19f78300-66ea-4d83-b6a5-607025bc4b3e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xac21b5c13b3d4e4555612bcd30d66711d5d8c21b"
     }
   ]
 }
