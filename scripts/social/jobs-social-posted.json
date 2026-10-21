@@ -37522,6 +37522,35 @@
       "attemptId": "b0155dbb-91c6-40aa-8310-0d87b829ed65",
       "verification": "verified",
       "postId": "urn:li:share:7518636460871471105"
+    },
+    {
+      "slug": "sc",
+      "company": "Elliptic",
+      "title": "Principal Solutions Consultant",
+      "platform": "facebook",
+      "postedAt": "2026-10-21T11:35:02.319Z",
+      "expectedText": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/fb?og=7",
+      "snapshot": {
+        "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "title": "Principal Solutions Consultant",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "date": "2026-10-19T19:05:16.266+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Solutions Consulting",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sc"
+      },
+      "payload": {
+        "message": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/fb?og=7",
+        "link": "https://hashtagweb3.com/sc/fb?og=7"
+      },
+      "attemptId": "afe065ad-738b-47c0-9984-be29e4d920dd",
+      "verification": "creating"
     }
   ]
 }
