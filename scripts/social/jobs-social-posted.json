@@ -37283,7 +37283,8 @@
       },
       "account": "channel:ai",
       "attemptId": "73158c28-d56a-426a-9e0c-6dfdc5aa4ace",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e15efca5ad4a38f5ec390b19a9caf3396999a4f"
     }
   ]
 }
