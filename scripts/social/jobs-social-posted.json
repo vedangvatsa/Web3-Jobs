@@ -35911,6 +35911,40 @@
       "attemptId": "14cd6b81-e1c4-44e9-8c4e-8483aff14453",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myf2hg43ba2z"
+    },
+    {
+      "slug": "fs28",
+      "company": "Sardine",
+      "title": "Fullstack Engineer, Investigator Tools",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T11:31:57.606Z",
+      "expectedText": "Sardine is hiring Fullstack Engineer, Investigator Tools\n\nhttps://hashtagweb3.com/fs28/fc?og=7",
+      "snapshot": {
+        "id": "a29f881e-0256-4b63-91b8-ef7c9260255e",
+        "title": "Fullstack Engineer, Investigator Tools",
+        "company": "Sardine",
+        "link": "https://jobs.ashbyhq.com/Sardine/a29f881e-0256-4b63-91b8-ef7c9260255e",
+        "date": "2026-10-14T22:17:43.713+00:00",
+        "source": "Ashby: Sardine [Sardine]",
+        "location": "Remote (Ireland)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs28"
+      },
+      "payload": {
+        "text": "Sardine is hiring Fullstack Engineer, Investigator Tools\n\nhttps://hashtagweb3.com/fs28/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs28/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "91dd6c6f-dc93-4b40-af69-52f050e04d92",
+      "verification": "creating"
     }
   ]
 }
