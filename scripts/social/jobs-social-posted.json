@@ -38327,7 +38327,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "761ade04-0171-4a4c-809b-9384182119e7",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad913d7619e3bbb1d91c775"
     }
   ]
 }
