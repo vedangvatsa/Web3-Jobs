@@ -38370,7 +38370,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "3b7200cd-5e9b-42fa-8a5b-f6a884377e88",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518756776696074243"
     }
   ]
 }
