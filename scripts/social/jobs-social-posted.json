@@ -37067,7 +37067,8 @@
       },
       "account": "channel:build",
       "attemptId": "f7e8fa03-f219-4d66-9121-199c34cb5f09",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcb1044902a98931f19047a4c3a8c50c4a03e282b"
     }
   ]
 }
