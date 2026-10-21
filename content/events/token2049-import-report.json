@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-20T11:31:53.669Z",
+  "checkedAt": "2026-10-21T03:31:49.669Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,9 +10,9 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 242,
+    "existing": 241,
     "excluded": 369,
-    "needs-review": 49,
+    "needs-review": 50,
     "duplicate": 1
   },
   "importedTotal": 258,
@@ -829,17 +829,6 @@
       ],
       "status": "existing",
       "slug": "collably-matchmaking"
-    },
-    {
-      "url": "https://token2049.com/singapore",
-      "name": "TOKEN2049 Singapore - Day 1",
-      "sources": [
-        "https://week.token2049.com",
-        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
-        "https://miragather.com/TOKEN2049SGSideEvents2026"
-      ],
-      "status": "existing",
-      "slug": "token2049-singapore"
     },
     {
       "url": "https://luma.com/x6q6vmm9",
@@ -3978,6 +3967,17 @@
       "reason": "Primary source event has ended"
     },
     {
+      "url": "https://token2049.com/singapore",
+      "name": "TOKEN2049 Singapore - Day 1",
+      "sources": [
+        "https://week.token2049.com",
+        "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
+        "https://miragather.com/TOKEN2049SGSideEvents2026"
+      ],
+      "status": "excluded",
+      "reason": "Primary source event has ended"
+    },
+    {
       "url": "https://week.token2049.com",
       "name": "Forbes Global CEO Conference - Day 1",
       "sources": [
@@ -5960,8 +5960,8 @@
         "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view",
         "https://miragather.com/TOKEN2049SGSideEvents2026"
       ],
-      "status": "excluded",
-      "reason": "Primary source event has ended"
+      "status": "needs-review",
+      "reason": "Luma page returned HTTP 400"
     },
     {
       "url": "https://luma.com/66xw2zkq",

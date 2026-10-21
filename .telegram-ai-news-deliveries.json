@@ -1831,5 +1831,42 @@
     "slotKey": "2026-10-20:afternoon",
     "messageId": 193376,
     "sentAt": "2026-10-20T11:32:12.513Z"
+  },
+  "d0790835-4b01-4145-aa9e-baa5168d1e7d": {
+    "status": "sent",
+    "reservedAt": "2026-10-20T19:33:54.551Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "headline": "US government bans DeepSeek AI from federal agency systems",
+        "summary": "Federal civilian agencies must remove all software and services linked to the Chinese AI provider due to security risks.",
+        "event_rationale": "This is a major regulatory and national security action regarding AI software, distinct from private company internal policies.",
+        "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "source": "TechCrunch",
+        "originalTitle": "US orders federal agencies to remove China’s DeepSeek AI from their systems"
+      },
+      {
+        "index": 11,
+        "original_title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "headline": "Eka Robotics reaches $1.45 billion valuation for physical AI",
+        "summary": "The startup achieved unicorn status by developing robotic arms capable of manipulating diverse objects with human-like dexterity.",
+        "event_rationale": "This represents a significant funding and technical milestone in physical AI and robotics, distinct from software-only LLM developments.",
+        "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+        "source": "TechCrunch",
+        "originalTitle": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+      },
+      {
+        "index": 3,
+        "headline": "Ukraine uses drone to rescue wounded soldier",
+        "summary": "The remote-controlled aircraft moves injured personnel from active combat zones to safety.",
+        "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+        "source": "Ars Technica",
+        "originalTitle": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice"
+      }
+    ],
+    "slotKey": "2026-10-20:evening",
+    "messageId": 193378,
+    "sentAt": "2026-10-20T19:34:07.930Z"
   }
 }

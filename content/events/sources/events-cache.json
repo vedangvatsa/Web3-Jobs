@@ -355,126 +355,6 @@
     }
   },
   {
-    "id": "luma-evt-fA9N79eMZZ6BgI6",
-    "name": "Awaken Thyself - A doorway to Lineage",
-    "description": "Maybe you feel there’s more. A deeper truth behind the noise. A spark still waiting to be lit.\n\nThis day is a doorway. A chance to explore the ancient path of a lineage. This is the path of progression —\n\nNot just a spark, but a way of life. A path that brings clarity, joy, and lightness into the everyday.\n\nUntil one day, you realize… it lives in each breath.\n\nEach moment.\n\nThat quiet radiance. That deeper knowing.\n\nThis is the path to Know Thyself: Living with joy. With direction. With magick. With purpose.\n\n✨ WHAT YOU’LL EXPERIENCE\n\n🔹 Awaken Thyself Workshop\n\n• Experience the essence of the ancient mysteries—echoes of a time-tested lineage passed down teacher to student, unbroken.\n• Connect to the energy of an initiatory lineage: grounding spiritual light into your life and sets transformation in motion.\n• Be guided through meditation and ritual—tools not just taught, but transmitted—so they remain pure, potent, and alive.\n• Make an educated and discerning decision: is this sacred journey to Know Thyself the path you choose to walk?",
-    "startDate": "2026-09-20T14:00:00.000Z",
-    "endDate": "2026-09-20T17:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Pluto: Fourth Space for Community, Co-Creation, & Coworking, 60 Sumach St Ground level, Toronto, ON M5A 3J7, Canada",
-    "url": "https://lu.ma/fa0cl3k7",
-    "coverImage": "/events/luma-evt-fa9n79emzz6bgi6-afc97736.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "atdl",
-    "timezone": "America/Toronto",
-    "registrationUrl": "https://luma.com/fa0cl3k7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Pluto: Fourth Space for Community, Co-Creation, & Coworking",
-    "streetAddress": "60 Sumach St Ground level, Toronto",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "neighborhood": "Corktown",
-    "coordinates": {
-      "latitude": 43.6563717,
-      "longitude": -79.35899669999999
-    },
-    "hosts": [
-      "Mike Popovici",
-      "Pluto Toronto"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Bardo Transformation",
-      "url": "https://bardotransformation.com/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fa0cl3k7",
-        "price": 50,
-        "priceCurrency": "CAD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Plutonian",
-        "url": "https://luma.com/fa0cl3k7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fa0cl3k7",
-      "eventId": "evt-fA9N79eMZZ6BgI6",
-      "fetchedAt": "2026-09-19T23:49:45.186Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-evt-56muPluIvodVTSs",
-    "name": "Reform Room X Lido house",
-    "description": "You’re invited.\n\nReform Room x Lido House\nNewport Beach • September 20 • 1PM–3PM\n\n❕Dress Code: Butter Yellow 🍋\n\nJoin us for a luxury Pilates experience by the coast with vendors, sponsors, wellness, and more.\n\nEach guest will receive a custom yoga mat + curated goodie bag to take home.\n\nLimited availability.",
-    "startDate": "2026-09-20T20:00:00.000Z",
-    "endDate": "2026-09-20T22:00:00.000Z",
-    "city": "Newport Beach",
-    "country": "United States",
-    "location": "Lido House, Autograph Collection, 3300 Newport Blvd, Newport Beach, CA 92663, USA",
-    "url": "https://lu.ma/43s8rab9",
-    "coverImage": "/events/luma-evt-56mupluivodvtss-2639dd6d.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "rrxlh",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/43s8rab9",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Lido House, Autograph Collection",
-    "streetAddress": "3300 Newport Blvd, Newport Beach",
-    "addressLocality": "Newport Beach",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "neighborhood": "Balboa Peninsula",
-    "coordinates": {
-      "latitude": 33.6168378,
-      "longitude": -117.92975129999999
-    },
-    "hosts": [
-      "Ashley Dearden"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Stripe"
-    },
-    "price": "USD 85",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/43s8rab9",
-        "price": 85,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/43s8rab9",
-      "eventId": "evt-56muPluIvodVTSs",
-      "fetchedAt": "2026-09-19T23:49:46.733Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-t3oq217l83LaKGT",
     "name": "Bitcoin Builders Club",
     "description": "Bitcoin Builders Club is your monthly hangout in Austin, Texas, for devs, hackers, and founders come together to share ideas, demo projects, and explore the cutting edge of what's possible. Whether hacking on Bitcoin Lightning, developing open-source tools, or launching your next startup, this is your space to build in public, connect with peers, and get real-time feedback from a community of open-source creators.\n\nEvery month, expect Austin-style hospitality featuring homestyle food prepared by a local chef, cold drinks, and vibrant conversations with fellow hackers, builders, and founders dedicated to pushing bitcoin innovation forward in Austin.\n\n[Reach out to us on PlebLab Telegram](https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost.\n\nWhat to Expect:\n\nStart BBC: 6:15 – 6:20 PM\nCar will discuss community updates and other Austin Bitcoin scene happenings.\n\nNetworking, Food & Hack & Tell: 6:20 – 7:00 PM\nMeet friends as everyone pours in and gets settled before the main event. Eat, drink, and enjoy while catching some Hack & Tell updates from local builders.\n\nBuilder Presentation: 7:00 – 8:15 PM\n\n🔐 What can recent Bitcoin security incidents teach us as builders?\n\nThis Monday at Bitcoin Builders Club, we’ll take a closer look at two interesting cases involving Liquid and COLDCARD — and explore how software, key generation, and security assumptions can shape the safety of Bitcoin systems.\n\nA friendly, technical discussion on what happened, what we can learn, and how to build more robust systems together.\n\nHope to see you there! 🛠️🧡\n\nWe’ll wrap with open Q&A and a full room discussion where you can ask about your own product, pitch, or strategy.\n\nLate to the party? Come on in. There’s still plenty of time for any questions, conversations, and meeting good people building on Bitcoin.\n\nEvent Sponsors:\n\n[Station Austin](https://capitalfactory.com)\n“STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. [To sign up for a STATION Austin membership, click here](https://stationaustin.org/commons/).”\n\n[PlebLab](https://pleblab.dev)\n“Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin’s future. A hackerspace & community accelerator for the Bitcoin [Era in Austin, Texas since 2021. Sign up for a Builder Pass](https://pay.zaprite.com/order/od_EE4gqaRkjp) [and their Newsletter](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share).\"",
@@ -2353,7 +2233,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316361033/",
     "coverImage": "/events/zk-learning-group-zero-knowledge-bridges-9c50f897.webp",
     "source": "meetup",
-    "month": "September 2026"
+    "month": "September 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-rayls-in-seoul",
@@ -19591,7 +19474,6 @@
     "speakers": [
       "Mike Cagney",
       "Gareth Davies MP",
-      "Liz Martin",
       "Johann Kerbrat",
       "Emma Landriault",
       "Dan Tapiero",
@@ -19618,7 +19500,8 @@
       "Stephanie Ramezan",
       "Francisco Maroto Castro",
       "Kash Razzaghi",
-      "Alex Seddon"
+      "Alex Seddon",
+      "Lance Vitanza"
     ]
   },
   {
@@ -20937,7 +20820,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -23041,7 +22924,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316843977/",
-    "coverImage": "/events/mu-316843977-eff83e66.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23055,7 +22938,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316859694/",
-    "coverImage": "/events/mu-316859694-f23c50d1.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23069,7 +22952,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
-    "coverImage": "/events/mu-316802775-00c0322a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23526,7 +23409,7 @@
     "country": "us",
     "location": "Des Moines, us",
     "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316665472-cd887090.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23540,7 +23423,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/316844001/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844001-d05f8c3f.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23568,7 +23451,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/316859714/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859714-baa8b457.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24874,7 +24757,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316843995/",
-    "coverImage": "/events/mu-316843995-e308ae55.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -24930,7 +24813,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
-    "coverImage": "/events/mu-316802761-53bc0fb8.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -25072,10 +24955,7 @@
     "url": "https://www.meetup.com/tripass/events/316879993/",
     "coverImage": "/events/mu-316879993-ebac7e3a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Jordan Boich"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-evt-ycWrx5n01IFcfSP",
@@ -25310,7 +25190,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/316423209/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316423209-e3f471d6.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -27985,5 +27865,201 @@
     "url": "https://luma.com/unfollowbombay",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-pFcQwUTOA8oLMMD",
+    "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
+    "description": "",
+    "startDate": "2026-10-20T17:30:00.000Z",
+    "endDate": "2026-10-20T20:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/encode-mmls",
+    "coverImage": "/events/luma-evt-pfcqwutoa8olmmd-30a706ed.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-8U0cUpXLZqLIgxB",
+    "name": "GIBLDN26 Rockchain - food drinks and crypto",
+    "description": "",
+    "startDate": "2026-10-21T16:00:00.000Z",
+    "endDate": "2026-10-21T20:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/vv3fj69q",
+    "coverImage": "/events/luma-evt-8u0cupxlzqligxb-461f7e95.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316789341",
+    "name": "Let's discuss Bitcoin and the Crypto Sector",
+    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
+    "startDate": "2026-10-20T19:00:00-05:00",
+    "endDate": "2026-10-20T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/316789341/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316047302",
+    "name": "Open Bitcoin Q&A Chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* https://Bitcoin.Rocks\n* https://Bitcoin-Only.com\n* https",
+    "startDate": "2026-10-21T19:00:00-05:00",
+    "endDate": "2026-10-21T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/satoshi-service-center/events/316047302/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-NSRzN2C60fRfFEK",
+    "name": "Proof of Work",
+    "description": "",
+    "startDate": "2026-10-29T22:00:00.000Z",
+    "endDate": "2026-10-30T01:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/ffglcmtz",
+    "coverImage": "/events/luma-evt-nsrzn2c60frffek-8d00b3b6.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-dYbK287YZ3bbjQn",
+    "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
+    "description": "",
+    "startDate": "2026-10-22T20:15:00.000Z",
+    "endDate": "2026-10-22T22:45:00.000Z",
+    "city": "Newark",
+    "country": "United States",
+    "location": "Newark, United States",
+    "url": "https://lu.ma/fxu60rnk",
+    "coverImage": "/events/luma-evt-dybk287yz3bbjqn-675c63dd.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-MI68iswm4hoDGkz",
+    "name": "Workshop: Beyond the Build: Onchain Growth & GTM | Turning early traction into real distribution",
+    "description": "",
+    "startDate": "2026-10-22T21:00:00.000Z",
+    "endDate": "2026-10-22T22:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/n5k6x2nn",
+    "coverImage": "/events/luma-evt-mi68iswm4hodgkz-9e8a741d.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-3LOM4FGRx6RW5z1",
+    "name": "ETH NYC MEETUP",
+    "description": "",
+    "startDate": "2026-10-22T21:15:00.000Z",
+    "endDate": "2026-10-23T00:15:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/yajlntzq",
+    "coverImage": "/events/luma-evt-3lom4fgrx6rw5z1-44957de8.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-jKaJfI8YHApP93P",
+    "name": "session 1: charmed x snail mail w/ martina calvi + kelsey armstrong",
+    "description": "",
+    "startDate": "2026-10-22T21:30:00.000Z",
+    "endDate": "2026-10-22T23:30:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/craftnook-5pqs",
+    "coverImage": "/events/luma-evt-jkajfi8yhapp93p-ff1314db.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-0hQp1NQe1o59dF9",
+    "name": "The Creative Launchpad: Beyond the Feed",
+    "description": "",
+    "startDate": "2026-10-22T22:00:00.000Z",
+    "endDate": "2026-10-23T00:30:00.000Z",
+    "city": "Newark",
+    "country": "United States",
+    "location": "Newark, United States",
+    "url": "https://lu.ma/2dxmaoh4",
+    "coverImage": "/events/luma-evt-0hqp1nqe1o59df9-d31bd9eb.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-mWdmu40qCxBTkma",
+    "name": "My First Bitcoin: Education Is Freedom",
+    "description": "",
+    "startDate": "2026-10-22T22:00:00.000Z",
+    "endDate": "2026-10-23T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/hsodwfgy",
+    "coverImage": "/events/luma-evt-mwdmu40qcxbtkma-b48e0d81.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-Mhu0MM7WcH2hVNl",
+    "name": "Undefined + EvolveDigital / Oct 22nd 2026",
+    "description": "",
+    "startDate": "2026-10-22T22:00:00.000Z",
+    "endDate": "2026-10-23T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/undefined-20261022",
+    "coverImage": "/events/luma-evt-mhu0mm7wch2hvnl-2c288d00.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-zyv6TPbYczsVuy3",
+    "name": "Is taste the right question we should be asking? A fireside panel ft. Coinbase, Ruckus, and Graphite",
+    "description": "",
+    "startDate": "2026-10-23T01:00:00.000Z",
+    "endDate": "2026-10-23T03:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/5rst1oq5",
+    "coverImage": "/events/luma-evt-zyv6tpbyczsvuy3-e7bd201b.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-FGXy3n11ExYjQVx",
+    "name": "The Future of AI Computing: Why Photonic Infrastructure Could Redefine the Next Generation of Semiconductors",
+    "description": "",
+    "startDate": "2026-10-28T23:00:00.000Z",
+    "endDate": "2026-10-29T02:00:00.000Z",
+    "city": "Newport Beach",
+    "country": "United States",
+    "location": "Newport Beach, United States",
+    "url": "https://lu.ma/ry42ksz5",
+    "coverImage": "/events/luma-evt-fgxy3n11exyjqvx-d4b9f0dd.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]

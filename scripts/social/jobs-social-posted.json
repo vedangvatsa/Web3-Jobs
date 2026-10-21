@@ -1,5 +1,5 @@
 {
-  "lastIndex": 471,
+  "lastIndex": 476,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -208,7 +208,8 @@
     "infra23",
     "associate52",
     "mkt109",
-    "aso23"
+    "aso23",
+    "fs25"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -276,7 +277,10 @@
     "pm219",
     "cmp34",
     "arny",
-    "dcf"
+    "dcf",
+    "dshk",
+    "ops116",
+    "pm259"
   ],
   "history": [
     {
@@ -31475,9 +31479,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b0498848-7ce9-4a30-a750-acb22a8cbb89",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad751cc59946a79ac75dd5c",
-      "error": "LinkedIn #Web3 receipt 6ad751cc59946a79ac75dd5c remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad751cc59946a79ac75dd5c remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518273555130769408"
     },
     {
       "slug": "arny",
@@ -32345,9 +32350,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "410276e2-0f9b-47b1-bac5-c1761557069e",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad7526931ed850c40df114b",
-      "error": "LinkedIn #Web3 receipt 6ad7526931ed850c40df114b remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad7526931ed850c40df114b remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518274220372578304"
     },
     {
       "slug": "dcf",
@@ -32464,6 +32470,3344 @@
       "attemptId": "c39c8339-eae0-4b11-9b95-cdb954d6d735",
       "verification": "verified",
       "postId": "691827047618629_1120917653848802"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "x",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/x?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "7761c244-5e57-4b3e-ba2a-4c8e2ddfcac6",
+      "verification": "verified",
+      "postId": "6ad7c1b99de2b8d1e174843b",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112627955058839995"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "threads",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/th?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/dshk/th?og=7"
+      },
+      "attemptId": "573fba01-8822-44d0-8851-045a1c181234",
+      "verification": "creating",
+      "containerId": "18097887743199925",
+      "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"Ao6Z8V7B7LNT2LhJ_KCWUVc\"}}"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "bluesky",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/bsky?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dshk/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dshk.png?v=7",
+        "company": "Galaxy Digital",
+        "title": "Senior Desktop Support, Hong Kong",
+        "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6f4087da-f149-4a52-bd80-014da30fba7f",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mydesolq2t2v"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "717762f9-9f91-4abd-b758-9fde1d55aba0",
+      "verification": "verified",
+      "postId": "0xd83ab00fdeca52cb1e8d33407ebd7159264e88cf"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "b9eb7973-c230-472b-b50f-ca4715ccbcc1",
+      "verification": "verified",
+      "postId": "0x41807f38829ca7db6e5d5313f861b6199c7b5da5"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "d9fd2c4f-68ee-44fe-b5f5-e1f44856d978",
+      "verification": "verified",
+      "postId": "0x4af44c4ac0240a43084f2a24bc9fcce83c4b1e67"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "680baf03-3d53-4f01-8767-9410e76db5e0",
+      "verification": "verified",
+      "postId": "0x64c248db0014ace5a13330832077640abc976ca8"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "c69525a1-214e-4af1-917b-3719d93faa65",
+      "verification": "verified",
+      "postId": "0x3c10a5075578dd0c9bcc4b955e3ff3d348a702c9"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "a1e7225d-b9a8-4886-b8ee-9c87b79e7ad8",
+      "verification": "verified",
+      "postId": "0xa8c2623647fe2e1426091eb36515e9cc2f1be195"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "28429566-9fe3-4a99-8509-c71aac7bc0ab",
+      "verification": "verified",
+      "postId": "0x4d5df52d4eb77f8331281731547316c85794963b"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "8fc2521c-b8fa-465d-b303-f7bb33024d03",
+      "verification": "verified",
+      "postId": "0x0c640064e3f4942dbd9b7445c2fc04caa44cedee"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "c16a2d3e-79cf-4149-98fb-9228d62d49c5",
+      "verification": "verified",
+      "postId": "0xf0c4a0c98fb043972fcbe0128e07cab995c2f7cd"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "f1f1476b-3bb5-477e-be68-6945b9b390de",
+      "verification": "verified",
+      "postId": "0xad0ffa2bfc55d5cd0dad056f847e53bec2c565c1"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "8edc427c-940a-4deb-88ad-1ad4ee45e4e4",
+      "verification": "verified",
+      "postId": "0x818b1f4f1fe14bf5f6a315153559302ddc5ad3c2"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "e8f7978a-7243-4c22-9c46-b8ac66c2ef39",
+      "verification": "verified",
+      "postId": "0xe20ad0a733567f6e22aa5ace4bbc0a5ff7723a82"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "310ecfea-0b42-4469-912e-8bc3d9924cc4",
+      "verification": "verified",
+      "postId": "0xc577a02d1320b3fa97540752a0f443310b1c5fd2"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "0084d5f0-c4e5-4cdd-be9e-a0ea393d9d40",
+      "verification": "verified",
+      "postId": "0xedf2bc62db45b8e7c8ff8332c6c114429239c745"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "deed1e32-5a1d-4bc2-85c3-e2aae9303662",
+      "verification": "verified",
+      "postId": "0x8e676c43b07eaa62fbaca89d2ed7651b21a824d0"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "dfc0f078-51ad-44ed-a3e1-464ecef5b6c3",
+      "verification": "verified",
+      "postId": "0x8b798f2143b5394a38eed54850e22575726be3ad"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong\n\nhttps://hashtagweb3.com/dshk/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dshk/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "d2279fb0-5ccc-43d4-b52d-ccca66465ad2",
+      "verification": "verified",
+      "postId": "0xe912d4b9483bff89dc8cafb079ad17222a8b4174"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dshk/li?og=7",
+          "title": "Senior Desktop Support, Hong Kong at Galaxy Digital",
+          "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dshk.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "7cd2c463-4d58-43d9-b6ea-26d275d3f249",
+      "verification": "verified",
+      "postId": "6ad7c23c7f4365d4df45e337",
+      "error": "LinkedIn #Web3 receipt 6ad7c23c7f4365d4df45e337 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518394282140123136"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dshk/li?og=7",
+          "title": "Senior Desktop Support, Hong Kong at Galaxy Digital",
+          "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dshk.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "1b7231cf-2e92-43fe-9023-249dae468757",
+      "verification": "verified",
+      "postId": "6ad7c24e9f8712d7ad7d7a6f",
+      "error": "LinkedIn CVin.Bio receipt 6ad7c24e9f8712d7ad7d7a6f remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518394359072002048"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dshk/li?og=7",
+          "title": "Senior Desktop Support, Hong Kong at Galaxy Digital",
+          "description": "Join Galaxy Digital as Senior Desktop Support, Hong Kong. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dshk.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "6ef75b98-3ab5-4b15-94f2-929c90a2e2c3",
+      "verification": "verified",
+      "postId": "urn:li:share:7518394349924036608"
+    },
+    {
+      "slug": "dshk",
+      "company": "Galaxy Digital",
+      "title": "Senior Desktop Support, Hong Kong",
+      "platform": "facebook",
+      "postedAt": "2026-10-20T19:32:06.695Z",
+      "expectedText": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/fb?og=7",
+      "snapshot": {
+        "id": "6220131004",
+        "title": "Senior Desktop Support, Hong Kong",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6220131004",
+        "date": "2026-10-08T01:48:47-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Hong Kong",
+        "department": "IT, Infrastructure, Security ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dshk"
+      },
+      "payload": {
+        "message": "Galaxy Digital is hiring Senior Desktop Support, Hong Kong: https://hashtagweb3.com/dshk/fb?og=7",
+        "link": "https://hashtagweb3.com/dshk/fb?og=7"
+      },
+      "attemptId": "cb630b2b-6309-4241-a065-4f30d3b1930e",
+      "verification": "verified",
+      "postId": "691827047618629_1121272783813289"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/x?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "f3f2c1e7-4fc2-433c-aa7c-940c3fde5af1",
+      "verification": "verified",
+      "postId": "6ad7c27a7f4365d4df45eab4",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112628762525274195"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/th?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/fs25/th?og=7"
+      },
+      "attemptId": "c04859b9-a800-4d88-8edf-22f4cb371aa0",
+      "verification": "verified",
+      "containerId": "18097888355199925",
+      "postId": "18115524434119882",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeumN1djwkA",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/bsky?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/fs25/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/fs25.png?v=7",
+        "company": "Alpaca",
+        "title": "Staff Fullstack Engineer",
+        "description": "Join Alpaca as Staff Fullstack Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6fcb06c4-4c6a-4d39-95e7-42596326a187",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mydeylkhtj2t"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "5b18fa73-0668-4093-9233-91bfc75fefd0",
+      "verification": "verified",
+      "postId": "0x5b443a3d9fbbfef3166beedbf9ae3cf2bfabe9f6"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "7cd57e61-1eb6-48fd-9244-53ea251da3a9",
+      "verification": "verified",
+      "postId": "0x4bb1a5e510216dbf2b5c844a4fb2ea46db8e834b"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "63d52748-5857-4587-8201-5255080dbd89",
+      "verification": "verified",
+      "postId": "0x7f29d4f8a716f3994728da2ddc5206481814283a"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "c459d2a5-f676-452f-bd21-19d5dfa7ef00",
+      "verification": "verified",
+      "postId": "0x4638595d109dfe0e12cdda2a6b302e1af8580aa2"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "26c24efb-7756-4021-93f3-e7cb0ec465c5",
+      "verification": "verified",
+      "postId": "0xd6a81b12f47b0d2a629b6489205b710d0c40bed6"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "bdd3696a-9289-44f1-b5cf-ee083fb37e43",
+      "verification": "verified",
+      "postId": "0xb015fb2799662d98a5a3900ad789ac229c0a416a"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "159f4e16-1f52-4246-9d1b-b96ea6c25f47",
+      "verification": "verified",
+      "postId": "0x012c7dce5d74bf156fcd758cc551e95879b6376e"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "516a0b34-ee15-4fad-89e5-0b0e456bf975",
+      "verification": "verified",
+      "postId": "0x215a06f15967df5e20d688427c78f55a875c2592"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "aff1fd91-f698-41da-8872-661d80b61df8",
+      "verification": "verified",
+      "postId": "0x23c0f9c548241b0736eaa94b1c00a317b5b7188b"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "07cd6855-8719-422d-85a5-7bd4857e802f",
+      "verification": "verified",
+      "postId": "0x558ab927e25ec588a615d0ffc59ccaddb84af106"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "e4094924-8e95-4b57-8fdd-1f2c0a5de3c8",
+      "verification": "verified",
+      "postId": "0x5b23816c99fc0c5371bfbd8587770b7dbed2a579"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "291fce68-a7d0-41ac-96e8-e17e49eac412",
+      "verification": "verified",
+      "postId": "0xbde892711155b51f2b7fd98c966830c107456ec6"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "fbd9efd7-1590-4fe4-8f35-4f495eb0ffe2",
+      "verification": "verified",
+      "postId": "0x4e34484d7e25c050beccf874bec2709f9fb57529"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "46032ade-f717-4c0b-93e2-21ef4c68f5c2",
+      "verification": "verified",
+      "postId": "0x12d63803581b0da20e5b77c70d9d31a5f22ec334"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "393815de-ec83-4e16-adda-f85733cab1e2",
+      "verification": "verified",
+      "postId": "0x2b22b4aaa510fd21c6d9ae56b57fbabea1d5337c"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "ba9dd821-edab-47c1-804b-2e5a150e56cf",
+      "verification": "verified",
+      "postId": "0x2eac9423ccb5a87d075ef85e0d96b99eae452676"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer\n\nhttps://hashtagweb3.com/fs25/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/fs25/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "bd684a98-df48-4cd3-a705-27f9200faff2",
+      "verification": "verified",
+      "postId": "0x9aa27ea4ddd03978d9d46a49a2e9f986d5347c1c"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/fs25/li?og=7",
+          "title": "Staff Fullstack Engineer at Alpaca",
+          "description": "Join Alpaca as Staff Fullstack Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/fs25.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e9568b01-e82f-41dd-8475-008210575b2d",
+      "verification": "verified",
+      "postId": "6ad7c2f6d0c8e9932ba483b5",
+      "error": "LinkedIn #Web3 receipt 6ad7c2f6d0c8e9932ba483b5 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518395063014436865"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/fs25/li?og=7",
+          "title": "Staff Fullstack Engineer at Alpaca",
+          "description": "Join Alpaca as Staff Fullstack Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/fs25.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "6cd98b6b-d752-4593-8c34-be8c3430d518",
+      "verification": "verified",
+      "postId": "6ad7c308d0c8e9932ba486f4",
+      "error": "LinkedIn CVin.Bio receipt 6ad7c308d0c8e9932ba486f4 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518395136297353216"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/fs25/li?og=7",
+          "title": "Staff Fullstack Engineer at Alpaca",
+          "description": "Join Alpaca as Staff Fullstack Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/fs25.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "6637b7b5-aca2-4d66-b03d-fb45570d2964",
+      "verification": "verified",
+      "postId": "urn:li:share:7518395121952862208"
+    },
+    {
+      "slug": "fs25",
+      "company": "Alpaca",
+      "title": "Staff Fullstack Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-20T19:35:18.914Z",
+      "expectedText": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/fb?og=7",
+      "snapshot": {
+        "id": "6223595004",
+        "title": "Staff Fullstack Engineer",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004",
+        "date": "2026-10-13T18:59:54-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Americas or EU",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "fs25"
+      },
+      "payload": {
+        "message": "Alpaca is hiring Staff Fullstack Engineer: https://hashtagweb3.com/fs25/fb?og=7",
+        "link": "https://hashtagweb3.com/fs25/fb?og=7"
+      },
+      "attemptId": "d519e09d-2d60-4d9b-b4d5-0aa1d4bbb4e3",
+      "verification": "verified",
+      "postId": "691827047618629_1121274570479777"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "x",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/x?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "7d9c60a8-ca95-44d2-9798-635ab664969c",
+      "verification": "verified",
+      "postId": "6ad84302db7d8198214621b1",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112766773179081011"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/th?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ops116/th?og=7"
+      },
+      "attemptId": "2513887b-dd41-45f7-a546-fb8ed7cfec99",
+      "verification": "verified",
+      "containerId": "18097927772199925",
+      "postId": "18063472262529120",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Devk_kYGzz0",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/bsky?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops116/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops116.png?v=7",
+        "company": "OKX",
+        "title": "Senior Support Operations Manager",
+        "description": "Join OKX as Senior Support Operations Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e4aeb147-dea1-4341-bc52-5de702807ddb",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myednhhtsy2e"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "c5c6002c-5910-4e95-9bca-e5cf850f647a",
+      "verification": "verified",
+      "postId": "0xf31edf85010f9228b21a78022c74d6770bea2172"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "cc5aad4e-fac3-4dc8-9b3e-8457af8cd806",
+      "verification": "verified",
+      "postId": "0x28c5d49a492e875d7d791db35911c8970e5357cb"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "bdd00c9a-5617-4d5b-ae21-60f3b3fe3d92",
+      "verification": "verified",
+      "postId": "0x776537d473048443e5f09a73e28572532af4a291"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "46072312-2c95-4d9c-81b5-cf33b15e9742",
+      "verification": "verified",
+      "postId": "0x843fce0408542fca41468aeeb96869a0a5b051e6"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "047611f9-6e54-4f03-aa1f-008dece3c913",
+      "verification": "verified",
+      "postId": "0x52a9070ef154b088e0f6baf9229145847bc86bac"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "b3afc88f-82e3-4fa3-ad00-0ce033ed6466",
+      "verification": "verified",
+      "postId": "0x91260d847fb088b7efb2d19ee2a747a99ac6c19c"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "8e476316-acb4-4716-bfa4-80e0b82b09ce",
+      "verification": "verified",
+      "postId": "0x36dd94e7a542421cd5f50b455202d182da89cd6d"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "55a57015-19e8-482c-aa3e-056935d46483",
+      "verification": "verified",
+      "postId": "0x9269f4e0efc4a6009d44c3a2ed5e7e027ed25f6a"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "0d4d8474-5096-4cdd-9b57-4d3ca6ff634e",
+      "verification": "verified",
+      "postId": "0xc50863e7b99db18c6b4dc8b05fa75416fe183c42"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "8b7eb74b-75cf-4f7c-ae37-7126c2eb9d91",
+      "verification": "verified",
+      "postId": "0x720f39e29c1a17f8d3c195f8387f9804d351f689"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "877b6caf-930c-4ebd-a271-339a1147262d",
+      "verification": "verified",
+      "postId": "0x172b6d16b6207149fce9797ba637620cec513d7a"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "e8cdbccb-97c6-4514-bd85-1445fa753603",
+      "verification": "verified",
+      "postId": "0x8da96d1296e1d480ed0a8ed93553b54b50e7348b"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "f40da437-21a9-48f4-afaa-cf29aba408a5",
+      "verification": "verified",
+      "postId": "0x0836720a987c740c4b53dc1c288bd673f1cbdcb4"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "7c5a96d9-37a2-4b1d-940a-31524a96d68e",
+      "verification": "verified",
+      "postId": "0xe4be600b0d81f3172b55a8b91080bfe4d2fd0ae2"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "07d5dd25-ae46-4d27-92df-481fab4855df",
+      "verification": "verified",
+      "postId": "0xd1cb02075c7cde67888c8c468afff72cae0e93c0"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "201c09f4-cba9-4ee2-9c2f-833c190edccc",
+      "verification": "verified",
+      "postId": "0xf05206fd7a8ed8e7112553185503ab3acbc0341f"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager\n\nhttps://hashtagweb3.com/ops116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops116/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "b1fa26fe-fbf4-42bd-bda8-93db5de6f664",
+      "verification": "verified",
+      "postId": "0x06953dffa98e7f8d55aaa46b769454260ab3cd3c"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops116/li?og=7",
+          "title": "Senior Support Operations Manager at OKX",
+          "description": "Join OKX as Senior Support Operations Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops116.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "6084c728-5352-4c64-a21b-91b27f000b8a",
+      "verification": "pending",
+      "postId": "6ad843879fdbc474fbfeaad2",
+      "error": "LinkedIn #Web3 receipt 6ad843879fdbc474fbfeaad2 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops116/li?og=7",
+          "title": "Senior Support Operations Manager at OKX",
+          "description": "Join OKX as Senior Support Operations Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops116.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "51b07982-2ef7-46a1-b1f6-e92da4780ab8",
+      "verification": "pending",
+      "postId": "6ad84398a9967de0497539dd",
+      "error": "LinkedIn CVin.Bio receipt 6ad84398a9967de0497539dd remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops116/li?og=7",
+          "title": "Senior Support Operations Manager at OKX",
+          "description": "Join OKX as Senior Support Operations Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops116.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "433d4c9d-3cbb-45ea-8c36-5192a6787fb8",
+      "verification": "verified",
+      "postId": "urn:li:share:7518533166295506945"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/fb?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "message": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/fb?og=7",
+        "link": "https://hashtagweb3.com/ops116/fb?og=7"
+      },
+      "attemptId": "33693db7-26e5-4edf-a30d-66031a8c818b",
+      "verification": "verified",
+      "postId": "691827047618629_1121573347116566"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "x",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/x?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "978bd499-dce5-4faf-b675-1764f2e253e8",
+      "verification": "verified",
+      "postId": "6ad843bfa9967de049753d82",
+      "permalink": "https://twitter.com/hashtag_web3/status/2112767567743902190"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "threads",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/th?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pm259/th?og=7"
+      },
+      "attemptId": "c8fc80b7-c96e-449f-870d-874322a58ab5",
+      "verification": "verified",
+      "containerId": "18097927889199925",
+      "postId": "17974613883154166",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DevlVfOm-fR",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "bluesky",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/bsky?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm259/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm259.png?v=7",
+        "company": "Robinhood",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "c4a17f33-120e-43c5-98a6-db197109364e",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myedssu2y525"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "6000174c-7e9b-4776-9767-cb9b4902f33c",
+      "verification": "verified",
+      "postId": "0xef7117b49868657886af0862d36efdc5c5f4bcf8"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "4b0f9943-73db-4efe-ba8c-464ad7f51b2c",
+      "verification": "verified",
+      "postId": "0x685a8233763a4f9fea2fd6edc63985d06f8ca407"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "0da5217f-7a54-4dfd-8d7d-ada10da1bede",
+      "verification": "verified",
+      "postId": "0xf839de9c1d919ef16634816e58848f0cc1e5bc81"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "83374d02-0efa-44a7-bc1f-750d2a9ab51d",
+      "verification": "verified",
+      "postId": "0xb9db77871d6081318749e16feb92bd95611110dd"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "5138901e-c0db-41ed-99ab-61406b19f054",
+      "verification": "verified",
+      "postId": "0x4ea0f823f6521a25d43d634adb59dfbf84c414d7"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "2ba3e354-7765-4dc5-979f-59b35b2a121d",
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "4c74dceb-fef3-402e-8504-fb11ef5705c9",
+      "verification": "verified",
+      "postId": "0x69cda0ef3c49927907a4179e2cc0bd5d80918dc9"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "c7eb6325-8fa5-43b0-a1d6-f735a3d5b7ea",
+      "verification": "verified",
+      "postId": "0x43ef4fa00c75af0241e9c1913b6fe9e6a3615e2d"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "ec5ed9be-3363-4bc2-922d-14b6e30f3409",
+      "verification": "verified",
+      "postId": "0x25951e70afa384cd16702e8f0e0a8101acc5dcd6"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "454604b0-2c98-49bc-9a00-db7c8f4cf622",
+      "verification": "verified",
+      "postId": "0x89262e6625c6855fd6fd791b8d066eb0e1823c26"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "5679dfd1-05b6-4cbe-8718-f25b171349fb",
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "41501b2b-1161-4daa-b63c-a8ab6e047d3b",
+      "verification": "verified",
+      "postId": "0x2f2ec312ef6e2b7ed9af3b3e6c814138b736158a"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "dcaeaa96-dce3-40ec-a49c-dbbd07d12b23",
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "0235aea4-14ee-48db-81c7-cf720e112973",
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace\n\nhttps://hashtagweb3.com/pm259/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm259/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "c4127e6d-06ed-4d7e-89fe-9453b544b747",
+      "verification": "verified",
+      "postId": "0x3803572d8468e25d34778462032de6de0b73a2b4"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm259/li?og=7",
+          "title": "Senior Product Manager, Advisor Marketplace at Robinhood",
+          "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm259.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "184a8846-03c7-481d-94a5-2d1c16dc1c98",
+      "verification": "pending",
+      "postId": "6ad84425db7d819821464cbe",
+      "error": "LinkedIn #Web3 receipt 6ad84425db7d819821464cbe remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm259/li?og=7",
+          "title": "Senior Product Manager, Advisor Marketplace at Robinhood",
+          "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm259.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "1318f2ef-498d-4c6c-8fcb-f0e6fb26904f",
+      "verification": "pending",
+      "postId": "6ad84435d894396f66c7096b",
+      "error": "LinkedIn CVin.Bio receipt 6ad84435d894396f66c7096b remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm259/li?og=7",
+          "title": "Senior Product Manager, Advisor Marketplace at Robinhood",
+          "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm259.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "ea3922ab-b535-4c87-936f-e68c8b992108",
+      "verification": "verified",
+      "postId": "urn:li:share:7518533825191178240"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "facebook",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/fb?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "message": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/fb?og=7",
+        "link": "https://hashtagweb3.com/pm259/fb?og=7"
+      },
+      "attemptId": "c1f0107e-ad8d-499c-81b0-c8ed2f4ea9f0",
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }

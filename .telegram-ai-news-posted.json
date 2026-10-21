@@ -767,6 +767,9 @@
   "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
   "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
   "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+  "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+  "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2084,6 +2087,12 @@
   "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
   "Researchers Drill Alaskan Permafrost to Study Thawing Soil",
   "How to study a swiftly melting climate disaster",
+  "US government bans DeepSeek AI from federal agency systems",
+  "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+  "Eka Robotics reaches $1.45 billion valuation for physical AI",
+  "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+  "Ukraine uses drone to rescue wounded soldier",
+  "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2368,5 +2377,8 @@
   "fp:000|30m|activ|app|companion|currently|help|lif|management|mor",
   "fp:45b|agreement|another|anthropic|are|capacity|comput|expand|generation|infrastructur",
   "fp:320m|capital|catalyst|dilutiv|enterpris|expand|fund|general|growth|meet",
-  "fp:alaska|alaskan|climat|collect|denali|disaster|doubl|drill|frozen|graduat"
+  "fp:alaska|alaskan|climat|collect|denali|disaster|doubl|drill|frozen|graduat",
+  "fp:agency|all|ban|china|chines|civilian|deepseek|due|federal|government",
+  "fp:145b|achiev|arm|capabl|develop|dexterity|divers|eka|expert|human",
+  "fp:activ|aircraft|combat|controll|dron|idea|injur|mov|much|personnel"
 ]

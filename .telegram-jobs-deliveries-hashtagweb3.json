@@ -3232,5 +3232,131 @@
     "slotKey": "2026-10-19:evening",
     "messageId": 155847,
     "sentAt": "2026-10-19T19:32:10.278Z"
+  },
+  "7ad151f1-91a3-4aed-ab5b-56b81e892bf4": {
+    "status": "sent",
+    "reservedAt": "2026-10-20T19:32:16.104Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
+          "title": "Senior Blockchain Engineer, Moonshot",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
+          "date": "2026-10-13T16:29:02.993+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (Remote)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng588"
+        },
+        "key": "a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
+        "slug": "eng588",
+        "url": "https://hashtagweb3.com/eng588?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Senior Blockchain Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "af2f419f-6596-4805-8e83-9cee5016aa1a",
+          "title": "Applied Research - Forward-Deployed RL",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/af2f419f-6596-4805-8e83-9cee5016aa1a",
+          "date": "2026-10-19T15:29:13.997+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "slug": "arfd",
+          "dateVerified": true
+        },
+        "key": "af2f419f-6596-4805-8e83-9cee5016aa1a",
+        "slug": "arfd",
+        "url": "https://hashtagweb3.com/arfd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Research"
+      },
+      {
+        "snapshot": {
+          "id": "66c6bd95-742d-4dfd-974d-f6a25e6a81ee",
+          "title": "AI 产品经理 (Vertical AI Product Manager)",
+          "company": "Animoca Brands",
+          "link": "https://jobs.lever.co/animocabrands/66c6bd95-742d-4dfd-974d-f6a25e6a81ee",
+          "date": "2026-10-09T09:35:04.149Z",
+          "source": "Lever: Animoca Brands [animocabrands]",
+          "location": "Remote (China)",
+          "workplaceType": "remote",
+          "department": "Animoca Brands Limited",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm266"
+        },
+        "key": "66c6bd95-742d-4dfd-974d-f6a25e6a81ee",
+        "slug": "pm266",
+        "url": "https://hashtagweb3.com/pm266?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Animoca Brands",
+        "title": "AI 产品经理 (Vertical AI Product Manager)"
+      },
+      {
+        "snapshot": {
+          "id": "5001505101",
+          "title": "Front Office Associate",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5001505101",
+          "date": "2026-10-12T10:33:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Human Resources",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso57"
+        },
+        "key": "5001505101",
+        "slug": "aso57",
+        "url": "https://hashtagweb3.com/aso57?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Front Office Associate"
+      },
+      {
+        "snapshot": {
+          "id": "c47e26f2dbfb",
+          "title": "SVP / VP / Director of Product, AI Cloud",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/c47e26f2dbfb-svp-vp-director-of-product-ai-cloud",
+          "date": "2026-09-23",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "AI Cloud",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/c47e26f2dbfb-svp-vp-director-of-product-ai-cloud",
+            "checkedAt": "2026-10-12T21:36:29.178Z",
+            "bodySha256": "14600f4123016ca0ef73f555c3a1fbc062764e03f778947970a872373da16956",
+            "provider": "breezy",
+            "datePosted": "2026-09-23"
+          },
+          "slug": "pm136"
+        },
+        "key": "c47e26f2dbfb",
+        "slug": "pm136",
+        "url": "https://hashtagweb3.com/pm136?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "SVP / VP / Director of Product"
+      }
+    ],
+    "message": "- Alchemy is hiring <a href=\"https://hashtagweb3.com/eng588?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Blockchain Engineer, Moonshot</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arfd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Research - Forward-Deployed RL</a>\n- Animoca Brands is hiring <a href=\"https://hashtagweb3.com/pm266?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI 产品经理 (Vertical AI Product Manager)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/aso57?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Front Office Associate</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/pm136?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SVP / VP / Director of Product, AI Cloud</a>",
+    "slotKey": "2026-10-20:evening",
+    "messageId": 155865,
+    "sentAt": "2026-10-20T19:32:22.672Z"
   }
 }

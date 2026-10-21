@@ -20049,146 +20049,6 @@ Secret Society hosts ETHwali, a Diwali celebration for the Ethereum community in
 
 The invitation welcomes protocol builders, developers, founders, open-source contributors, creators, people exploring Web3 and others interested in meeting the community. Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
-<a id="event-0516e54857179b6a"></a>
-
-## Team1 India Workshop \| Indore
-
-- Record: `india-luma-team1-indore`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-20T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/team1-indore>
-
-### Introduction
-
-Join Team1 India in Indore for a hands-on developer workshop where you'll go from zero to deploying your first smart contract on Avalanche Fuji C-Chain.
-
-This session is designed for developers, engineering students, beginner Solidity builders, hackathon participants, and anyone curious about building on Avalanche.
-
-No previous blockchain experience is required.
-
-During the workshop, you'll:
-
-- Set up a Core or compatible wallet
-- Connect to Avalanche Fuji C-Chain
-- Claim free testnet AVAX
-- Learn the basics of Solidity
-- Write and compile a smart contract in Remix
-- Deploy it to Avalanche Fuji
-- Interact with your contract on-chain
-- Verify your deployment on Snowtrace
-- Leave with a public proof-of-work link you can share
-
-Bring your laptop
-
-Reliable Wi-Fi will be available
-
-Limited to approximately 45 participants
-
-After the workshop, stick around for food, networking, and conversations with fellow developers and builders from Indore.
-
-### Event Program
-
-5:30 PM - Doors open, registrations & networking
-
-6:00 PM - Welcome & opening by Team1 host
-
-[Laksh Dilliwal](https://x.com/lakshdilliwal)
-
-6:10 PM - Introduction to Team1, Avalanche & the C-Chain ecosystem
-
-6:25 PM - Wallet setup, wallet safety & Avalanche Fuji Testnet
-
-6:40 PM - Claim testnet AVAX & introduction to Avalanche Builder Hub
-
-6:55 PM - Introduction to Remix IDE & Solidity basics
-
-7:10 PM - Build your first NumberStorage smart contract
-
-7:30 PM - Compile & deploy the contract to Avalanche Fuji C-Chain
-
-7:45 PM - Interact with the contract & understand storage vs memory
-
-8:00 PM - Verify deployments and transactions on Snowtrace
-
-8:15 PM - Share proof of work, developer resources & what's next on Avalanche
-
-8:25 PM - Q&A
-
-8:35 PM - Food, networking & builder conversations
-
-9:00 PM - Closing
-
-### Who Should Attend?
-
-This workshop is ideal for:
-
-- Developers and engineering students
-- Beginner Solidity developers
-- Web3 and blockchain builders
-- Hackathon participants
-- Developers exploring Avalanche
-- Anyone who wants their first hands-on smart contract deployment
-
-You do not need prior Solidity or blockchain experience.
-
-Just bring your laptop, browser, and curiosity.
-
-### What You'll Build
-
-During the workshop, you'll build and deploy a simple smart contract that stores a number on-chain and reads it back.
-
-Along the way, you'll learn one of the most important Solidity concepts:
-
-Storage vs Memory
-
-You'll experience the difference between:
-
-- Writing data on-chain and paying gas
-- Reading blockchain state for free
-- Temporary memory and permanent blockchain storage
-
-By the end of the workshop, your contract will be live on Avalanche Fuji and publicly verifiable through the block explorer.
-
-### Workshop Outcomes
-
-Our goal is not just attendance.
-
-We want participants to leave having actually used Avalanche.
-
-Expected outcomes include:
-
-- New developer wallets created
-- Developers onboarded to Avalanche Fuji
-- Smart contracts successfully deployed
-- Public contract and transaction links generated
-- Developers introduced to Avalanche Builder Hub, Academy and Docs
-- New builders identified for future Team1 workshops and ecosystem opportunities
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, and community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation, and community-led initiatives.
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
-
-What to bring
-
-Laptop
-
-Charger
-
-No prior blockchain experience required
-
-Everything during the workshop runs on Avalanche Fuji Testnet, so no real funds are required.
-
-Come curious. Leave with your first smart contract deployed on Avalanche.
-
-https://x.com/AvaxTeam1
-
 <a id="event-6592998de92a620a"></a>
 
 ## Team1 India University Workshop - SCET
@@ -21055,66 +20915,6 @@ The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovati
 
 Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
-<a id="event-fe8976c7c3e9585d"></a>
-
-## Crypto World's Fair Buildstation, Kathmandu
-
-- Record: `luma-crypto-yrF0xKNWJBIqfo2`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-16T05:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/t8gq934u>
-
-### About the event
-
-From September 16 to 20 we are bringing builders together for five days at Draper Startup House to build for the World's Biggest Online Hackathon, Crypto World's Fair.
-
-It is a coworking week to build, collaborate and get your submission moving. Come with an idea, find your cofounder, join the workshops, get feedback, and learn from founders who have already built and raised. The week ends with a Demo Day where every team presents what it built.
-
-Register for [the hackathon first, then join us: Register for the hackathon](https://colosseum.com/worldsfair?utm_source=luma)
-
-### Schedule
-
-Day 1, Wednesday 16 September
-
-11:30 AM Doors open
-
-12:00 to 12:20 PM Kickoff and standup
-
-12:20 to 3:30 PM Focused work, lunch, cowork and team discussions
-
-3:30 PM onwards Mentor walk ins and cowork
-
-Day 2, Thursday 17 September
-
-11:30 AM Doors open
-
-12:00 to 12:20 PM Standup
-
-3:30 to 4:15 PM Roast My Idea
-
-4:15 PM onwards Mentor walk ins, cowork and pitching practice
-
-Day 3, Friday 18 September
-
-11:30 AM Doors open
-
-12:00 to 12:20 PM Standup
-
-3:30 to 4:15 PM Submission Clinic
-
-5:00 PM onwards Colosseum Mixer with eSatya and other blockchain communities
-
-Day 4, Saturday 19 September
-
-12:00 to 8:00 PM Builders Day. Every team pre assigns its issues and ships through the day in a capture the flag format. Top performers share the prize pool.
-
-Day 5, Sunday 20 September
-
-Judges and Demo Day. Every team presents what it built during the week.
-
-See you there!
-
 <a id="event-5567dba47ebcbd96"></a>
 
 ## Tencent Cloud AI CAN DO IT Hackathon Singapore 2026
@@ -21142,156 +20942,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-1d8484897fcfa579"></a>
-
-## AI Databricks Hackathon + Networking Mixer NYC
-
-- Record: `luma-crypto-8KyAuou22sLR6WZ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/databricks-hackathon>
-
-### About the event
-
-Databricks-Sponsored Hackathon AND Networking Mixer at Queens College
-
-Sept 18 to 20
-
-IMPORTANT NOTE: TECH NETWORKING MIXERS WILL TAKE PLACE ALL 3 DAYS.
-
-Spend a weekend building with AI on Databricks, guided by the engineers who work on the platform itself. Over three days at Queens College, you'll form a small team, take on a live challenge, and leave with a finished project, a professional network, and a real Databricks credential. No experience required, just come curious!
-
-What your ticket includes:
-
-Build with AI on Databricks with a team.
-
-The Academy Accreditation Corner - earn a real Databricks accreditation alongside others, and add it to your LinkedIn by Sunday night.
-
-The WAGMI-Connect networking corner - dedicated time with working tech professionals, so you leave with connections as well as a project.
-
-A professional headshot (available only Sunday), included in your ticket. Plus a goodie bag, Databricks credits to build with (on top of the free edition), and prizes for the top teams.
-
-Boba drink of your choice :)!
-
-The weekend
-
-Friday, Sept 18 - 3:00 - 8:00 PM (check-in from 2:00 PM)
-
-Pick up your badge and goodie bag, meet the room, and form a team of two or three. There will be a 1-hour "Introduction to Databricks" session, Q&A and helping students sign up on Free Edition.
-
-Experiment with PRISM (guided by team @ Block Convey).
-
-The challenge is revealed at kickoff... and the build begins.
-
-Saturday, Sept 19 - 9:00 AM - 6:00 PM
-
-A full day to build. Get unstuck by Databricks engineers (office hours 12-3 pm), make progress toward your accreditation, connect with professionals in the WAGMI-Connect networking corner, and book your headshot slot.
-
-1st submissions due at 1:00 am on Sunday, Sept 20
-
-Sunday, Sept 20 -
-
-9:00 AM - 5:00 PM
-
-Presentations will start after 10 am.
-
-Headshot section opens after noon.
-
-Every team presents, and judges select the top 5 to take the main stage for a 3 to 5 minute demo. Winners are chosen by the Databricks team.
-
-### Prizes
-
-Winning teams take home a Lululemon Everywhere Backpack and an Owala FreeSip Thermal bottle.
-
-### Who it's for
-
-Students and career-changers building with AI for the first time, and anyone already in tech who wants to sharpen their skills, meet the next wave of talent, and leave with a project and a credential worth showing.
-
-### Sponsors
-
-Databricks - Queens College Tech Incubator - WAGMI-Connect
-
-No proceeds go to Databricks. Spots are limited, reserve yours below!
-
-Contact the host on Linkedin for any questions/concerns: https://www.linkedin.com/in/kaurpriyanka
-
-<a id="event-ee7f5f376ef49b29"></a>
-
-## Health in Climate AI Hackathon NYC
-
-- Record: `luma-crypto-01e817k9Btt06et`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ka3uxc6b>
-
-### About the event
-
-[Health in Climate](https://www.healthinclimate.ai/) [with the United Nations Climate Change Global Innovation Hub](https://unfccc.int/topics/un-climate-change-global-innovation-hub) is back with [our third Hackathon on September 19-20, 2026 at Cornell Tech](https://tech.cornell.edu/) in New York City!
-
-Climate change is reshaping where we live and how we thrive. This hackathon brings together builders, clinicians, researchers, designers, and community leaders that have a bias towards action and building solutions around the focus of Resilient People, Resilient Places.
-
-Cash prizes more than $6,000 to be won!
-
-(food and coffee on both days is on us )
-
-We're looking for builders from various backgrounds (engineering, medicine, climate science, architecture, urban planning, policy, business etc.) to thoughtfully leverage AI to address the health impact of climate change.
-
-More details here: https://www.healthinclimate.ai/hackathons/nyc/2026
-
-(see "event" tab for day-wise schedule)
-
-Please [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
-
-PS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.
-
-<a id="event-12f06366f581018d"></a>
-
-## builders hangout @ superteams singapore
-
-- Record: `luma-crypto-wrdOXqFaeJnpiIZ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-20T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wq8cj18o>
-
-### About the event
-
-come hang, meet other builders, and share what you're working on.
-
-[hosted by Superteam Singapore](https://superteam.sg) × [LytheLabs](https://www.lythe.ai).
-
-<a id="event-4fe48d78c5c2ce7b"></a>
-
-## CRYPTO MARKET & WEB3 — Global Online Zoom Meetup
-
-- Record: `luma-crypto-GAXtNbuvGQjuuBp`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-20T14:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/luw5vqd9>
-
-### About the event
-
-Join Our Online Crypto Zoom Meetup! Explore the latest Crypto Market Trends, Blockchain Technology, Smart Contracts & Investment Strategies with industry experts. Connect with like-minded people, gain valuable insights, ask questions, and expand your crypto knowledge - 100% Online via Zoom.
-
-Crypto Online Zoom Meetup Learn - Connect - Explore the Future of Crypto & Blockchain.
-
-Online via Zoom |
-
-Sep 20, 2026 |
-
-8:00 PM IST |
-
-Ankit Khanna - Crypto Expert "Crypto & Blockchain Enthusiast with strong knowledge of digital assets, crypto market trends and emerging Web3 opportunities. He brings practical insights into market analysis, blockchain adoption, trading strategies and the evolving future of the digital-asset ecosystem."
-
-Sapan Choudhary - Blockchain Smart Contract Analyst "Blockchain & Smart Contract Analyst focused on understanding decentralized technologies, smart-contract mechanisms and on-chain ecosystems. He provides insights into blockchain architecture, transaction flows, contract functionality, security considerations and the rapidly evolving Web3 landscape."
-
-REMEMBER THE DATE - REGISTER NOW - JOIN LIVE
-
-Register today and be part of the Crypto Future!
 
 <a id="event-d15aff220845dd3d"></a>
 
@@ -53006,69 +52656,6 @@ It's free! Confirm the consents, then apply with your email or sign in to your R
 
 Whether you ship code, run a startup or are just Web3-curious, there's a seat for you.
 
-<a id="event-31845725941fd6c0"></a>
-
-## Awaken Thyself - A doorway to Lineage
-
-- Record: `luma-evt-fA9N79eMZZ6BgI6`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-20T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/fa0cl3k7>
-- Original page: <https://luma.com/fa0cl3k7>
-
-### About the event
-
-Maybe you feel there's more. A deeper truth behind the noise. A spark still waiting to be lit.
-
-This day is a doorway. A chance to explore the ancient path of a lineage. This is the path of progression -
-
-Not just a spark, but a way of life. A path that brings clarity, joy, and lightness into the everyday.
-
-Until one day, you realize... it lives in each breath.
-
-Each moment.
-
-That quiet radiance. That deeper knowing.
-
-This is the path to Know Thyself: Living with joy. With direction. With magick. With purpose.
-
-WHAT YOU'LL EXPERIENCE
-
-Awaken Thyself Workshop
-
-- Experience the essence of the ancient mysteries - echoes of a time-tested lineage passed down teacher to student, unbroken.
-- Connect to the energy of an initiatory lineage: grounding spiritual light into your life and sets transformation in motion.
-- Be guided through meditation and ritual - tools not just taught, but transmitted - so they remain pure, potent, and alive.
-- Make an educated and discerning decision: is this sacred journey to Know Thyself the path you choose to walk?
-
-<a id="event-cd0694f4e944966f"></a>
-
-## Reform Room X Lido house
-
-- Record: `luma-evt-56muPluIvodVTSs`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-20T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/43s8rab9>
-- Original page: <https://luma.com/43s8rab9>
-
-### About the event
-
-You're invited.
-
-Reform Room x Lido House
-
-Newport Beach - September 20 - 1PM-3PM
-
-Dress Code: Butter Yellow
-
-Join us for a luxury Pilates experience by the coast with vendors, sponsors, wellness, and more.
-
-Each guest will receive a custom yoga mat + curated goodie bag to take home.
-
-Limited availability.
-
 <a id="event-b16e1f340cf85f55"></a>
 
 ## Bitcoin Builders Club
@@ -71627,6 +71214,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 The Flipcash team joins the Solana community for lunch, a fireside chat about building consumer products on Solana, and a hands-on product demonstration. Doors open at 1 PM, the chat begins at 1:30 PM and demos start at 2:15 PM. Registration requires approval.
 
+<a id="event-61c6c2285c14c9aa"></a>
+
+## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
+
+- Record: `luma-evt-pFcQwUTOA8oLMMD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/encode-mmls>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-13b24fc96fc94770"></a>
 
 ## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
@@ -71722,6 +71321,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T19:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396578/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-441431ebc94bd5a5"></a>
+
+## Let's discuss Bitcoin and the Crypto Sector
+
+- Record: `mu-316789341`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316789341/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72233,6 +71844,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-de460c0089f05d4a"></a>
+
+## GIBLDN26 Rockchain - food drinks and crypto
+
+- Record: `luma-evt-8U0cUpXLZqLIgxB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vv3fj69q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-4bd9752f6603cb32"></a>
 
 ## Fintech x Crypto
@@ -72254,6 +71877,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T17:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/jzkyiiz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b536b763c588c0a4"></a>
+
+## Open Bitcoin Q&A Chat!
+
+- Record: `mu-316047302`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/satoshi-service-center/events/316047302/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72657,6 +72292,66 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2b8d737922fe571c"></a>
+
+## AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance
+
+- Record: `luma-evt-dYbK287YZ3bbjQn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T20:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fxu60rnk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-53f723e003a77600"></a>
+
+## Workshop: Beyond the Build: Onchain Growth & GTM \| Turning early traction into real distribution
+
+- Record: `luma-evt-MI68iswm4hoDGkz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n5k6x2nn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6087e237b121b4fe"></a>
+
+## ETH NYC MEETUP
+
+- Record: `luma-evt-3LOM4FGRx6RW5z1`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yajlntzq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-93b778639b0d1b84"></a>
+
+## session 1: charmed x snail mail w/ martina calvi + kelsey armstrong
+
+- Record: `luma-evt-jKaJfI8YHApP93P`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/craftnook-5pqs>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ec980b0f1b7e91bf"></a>
+
+## The Creative Launchpad: Beyond the Feed
+
+- Record: `luma-evt-0hQp1NQe1o59dF9`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2dxmaoh4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-10e581ffa566e07b"></a>
 
 ## Crypto Connect Networking Conference Fort Lauderdale
@@ -72678,6 +72373,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/welovectos>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-000aff7d212dd5f4"></a>
+
+## Undefined + EvolveDigital / Oct 22nd 2026
+
+- Record: `luma-evt-Mhu0MM7WcH2hVNl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/undefined-20261022>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-365bb18c1b1096d9"></a>
+
+## My First Bitcoin: Education Is Freedom
+
+- Record: `luma-evt-mWdmu40qCxBTkma`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/hsodwfgy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72750,6 +72469,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-23T00:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/jps7v0p8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7808ec7e27d7bd21"></a>
+
+## Is taste the right question we should be asking? A fireside panel ft. Coinbase, Ruckus, and Graphite
+
+- Record: `luma-evt-zyv6TPbYczsVuy3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5rst1oq5>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73426,6 +73157,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c886aa154267bf87"></a>
+
+## The Future of AI Computing: Why Photonic Infrastructure Could Redefine the Next Generation of Semiconductors
+
+- Record: `luma-evt-FGXy3n11ExYjQVx`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ry42ksz5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2d80ce8c24265715"></a>
 
 ## Link:NYC 2026
@@ -73769,6 +73512,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T17:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/ilonzhkx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7e6d1489dbf12e48"></a>
+
+## Proof of Work
+
+- Record: `luma-evt-NSRzN2C60fRfFEK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ffglcmtz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

@@ -2493,10 +2493,6 @@
       "sha256": "d1639d7479b1bb738dead46d5c1db416eab76487251bdb18e87a1197670970df",
       "status": "optimized"
     },
-    "/events/ma-bitcoin-mena-2027-d3c41f8b.webp": {
-      "sha256": "2d822bdf35a0e4d71696f3aac6a0f8e3231d2b6960bba73e4c1053c5e92d7915",
-      "status": "optimized"
-    },
     "/events/ma-bitcoin-mena-bfc9c9d4.webp": {
       "sha256": "4dc303e3134dea3a384663c0e6279a7867ab625499f80f21061ddfe2c1a3ad34",
       "status": "optimized"
@@ -2515,10 +2511,6 @@
     },
     "/events/ma-blockcon-punta-cana-2026-94943d93.webp": {
       "sha256": "f273e3213f75cbccfcd3d3674a42b344528039aee97d455ee712b19efb3180ec",
-      "status": "optimized"
-    },
-    "/events/ma-btc-prague-2027-3c51e74b.webp": {
-      "sha256": "65dfe879a6a9ff6ba0a8fd37d05906cff8c0e9d8e6095a083e7794a26fc0cd6e",
       "status": "optimized"
     },
     "/events/ma-building-blocks-tlv-2027-78087f2f.webp": {
@@ -2575,10 +2567,6 @@
     },
     "/events/ma-india-blockchain-week-2027-f845f14d.webp": {
       "sha256": "8167c77df949dc8a4dbc20b61a1c84722b25f62808d272daab69fe9e36effe7a",
-      "status": "optimized"
-    },
-    "/events/ma-korea-blockchain-week-2027-d240e3e5.webp": {
-      "sha256": "ea1044804684d0642d654cdff622f10ddf7e42b4519fdce44106d54b1e3d41ea",
       "status": "optimized"
     },
     "/events/ma-money-20-20-usa-cover.webp": {

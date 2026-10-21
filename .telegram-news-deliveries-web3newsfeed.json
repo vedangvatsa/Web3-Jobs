@@ -1921,5 +1921,38 @@
     "slotKey": "2026-10-20:afternoon",
     "messageId": 65765,
     "sentAt": "2026-10-20T11:32:56.907Z"
+  },
+  "8fbfcd92-b319-48c6-abc8-b855e7b8b29b": {
+    "status": "sent",
+    "reservedAt": "2026-10-20T19:33:14.831Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "BlackRock files for Bitcoin ETF with downside protection",
+        "summary": "The proposed fund uses options on IBIT to limit potential losses while capping maximum investment gains.",
+        "link": "https://hashtagweb3.com/pbit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BlackRock files for third bitcoin ETF, a protected-outcome fund on IBIT"
+      },
+      {
+        "index": -1,
+        "headline": "Hoskinson Developing New Cardano Language Using Groth16 Proofs",
+        "summary": "Co-created with Lucas Rosa, the unnamed language enables proof-carrying data and intents, though no launch date exists yet.",
+        "link": "https://hashtagweb3.com/cardanolang?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hoskinson says he is writing a new Cardano language with Groth16 proofs"
+      },
+      {
+        "index": -1,
+        "headline": "SkyAI sells all Solana holdings for $201 million tender offer",
+        "summary": "After liquidating its SOL by October 16, the firm is buying back shares and warrants at $3 per unit.",
+        "link": "https://hashtagweb3.com/skyaitender?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SkyAI sells its entire Solana treasury and offers a $201 million tender"
+      }
+    ],
+    "slotKey": "2026-10-20:evening",
+    "messageId": 65766,
+    "sentAt": "2026-10-20T19:33:22.999Z"
   }
 }
