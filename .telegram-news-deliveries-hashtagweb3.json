@@ -1890,7 +1890,7 @@
     "sentAt": "2026-10-20T19:33:53.742Z"
   },
   "59c8598b-c54a-401f-b9ae-9afad6a261b5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-21T11:34:50.082Z",
     "stories": [
       {
@@ -1918,6 +1918,8 @@
         "originalTitle": "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out"
       }
     ],
-    "slotKey": "2026-10-21:afternoon"
+    "slotKey": "2026-10-21:afternoon",
+    "messageId": 155871,
+    "sentAt": "2026-10-21T11:34:56.036Z"
   }
 }
