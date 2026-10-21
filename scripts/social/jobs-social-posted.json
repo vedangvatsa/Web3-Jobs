@@ -39174,7 +39174,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "2ce2dd10-ca2b-4e3d-8503-fbec736df407",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad914866f7e62fb4f1541fd"
     }
   ]
 }
