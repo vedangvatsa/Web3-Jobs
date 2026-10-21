@@ -147344,5 +147344,186 @@
     "company": "Open Standard",
     "title": "Smart Contract Engineer",
     "newSlug": "eng627"
+  },
+  "an102": {
+    "id": "8886061002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8886061002",
+    "company": "Figure",
+    "title": "Senior Treasury and FinOps Analyst"
+  },
+  "an101": {
+    "id": "0abb3614-b822-4814-86ca-a534c0d688e7",
+    "link": "https://jobs.ashbyhq.com/Stellar/0abb3614-b822-4814-86ca-a534c0d688e7",
+    "company": "Stellar",
+    "title": "Senior Business Analyst"
+  },
+  "an100": {
+    "id": "6c62eeba-164d-4cc2-ad03-e697910e27d9",
+    "link": "https://jobs.ashbyhq.com/Stellar/6c62eeba-164d-4cc2-ad03-e697910e27d9",
+    "company": "Stellar",
+    "title": "Senior Business Analyst"
+  },
+  "eng602": {
+    "id": "5006367101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5006367101",
+    "company": "BVNK",
+    "title": "Solutions Engineer"
+  },
+  "sls251": {
+    "id": "5445844008",
+    "link": "http://block.xyz/careers/jobs/5445844008?gh_jid=5445844008",
+    "company": "Block",
+    "title": "SMB Account Manager"
+  },
+  "pm259": {
+    "id": "2777082",
+    "link": "https://careers.tether.io/o/product-engineering-lead-keet-100-remote-worldwide-7",
+    "company": "Tether",
+    "title": "Product Engineering Lead, Keet (100% Remote, Worldwide)"
+  },
+  "sls302": {
+    "id": "8257711",
+    "link": "https://ripple.com/careers/all-jobs/job/8257711?gh_jid=8257711",
+    "company": "Ripple",
+    "title": "Senior Sales Manager"
+  },
+  "sup5": {
+    "id": "143f61e4-c061-4e4b-9378-58a7f2a84e26",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/143f61e4-c061-4e4b-9378-58a7f2a84e26",
+    "company": "Riot Platforms",
+    "title": "Shop Supervisor"
+  },
+  "cmp88": {
+    "id": "b25cdf04-fe31-4cb3-8be6-7b28aee27c43",
+    "link": "https://jobs.lever.co/crypto/b25cdf04-fe31-4cb3-8be6-7b28aee27c43",
+    "company": "Crypto.com",
+    "title": "Consumer Compliance Manager - UDAAP and Reg E focused"
+  },
+  "cp2": {
+    "id": "6495a3e4-5c5f-48a5-9b32-81e2b59db3c1",
+    "link": "https://jobs.ashbyhq.com/Polymarket/6495a3e4-5c5f-48a5-9b32-81e2b59db3c1",
+    "company": "Polymarket",
+    "title": "Capacity Planning Lead"
+  },
+  "mgr115": {
+    "id": "4990042101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4990042101",
+    "company": "BVNK",
+    "title": "Technical Implementation Manager"
+  },
+  "sls190": {
+    "id": "818b6fe1-f924-4530-b52c-6a84f0215449",
+    "link": "https://jobs.ashbyhq.com/trm-labs/818b6fe1-f924-4530-b52c-6a84f0215449",
+    "company": "TRM Labs",
+    "title": "Account Director, Crypto"
+  },
+  "sls193": {
+    "id": "5440011008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5440011008",
+    "company": "Breeze Cash",
+    "title": "Sales Director - Payments"
+  },
+  "mkt56": {
+    "id": "89a44dc9-43f5-4382-989f-b460b67323a0",
+    "link": "https://jobs.ashbyhq.com/kalshi/89a44dc9-43f5-4382-989f-b460b67323a0",
+    "company": "Kalshi",
+    "title": "Recruiter - Growth and Marketing"
+  },
+  "fs30": {
+    "id": "8214618",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "eng343": {
+    "id": "5435507008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435507008",
+    "company": "Hut 8",
+    "title": "Mechanical Engineer"
+  },
+  "eng342": {
+    "id": "5435528008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435528008",
+    "company": "Hut 8",
+    "title": "Electrical Engineer"
+  },
+  "eng341": {
+    "id": "5435537008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435537008",
+    "company": "Hut 8",
+    "title": "Civil/Structural Engineer"
+  },
+  "sch": {
+    "id": "5435567008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435567008",
+    "company": "Hut 8",
+    "title": "Scheduler"
+  },
+  "cmp56": {
+    "id": "95fe7a49-20ea-4e6a-a547-4dbcaea94049",
+    "link": "https://jobs.lever.co/animocabrands/95fe7a49-20ea-4e6a-a547-4dbcaea94049",
+    "company": "Animoca Brands",
+    "title": "Legal Counsel"
+  },
+  "an29": {
+    "id": "54aa9c0b-64dd-4e9d-bda0-2aee750589e8",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/54aa9c0b-64dd-4e9d-bda0-2aee750589e8",
+    "company": "Chainalysis",
+    "title": "Senior Intelligence Analyst, DPRK & China Focus"
+  },
+  "aso24": {
+    "id": "8818670002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8818670002",
+    "company": "Figure",
+    "title": "Customer Success Associate"
+  },
+  "rs4": {
+    "id": "4d630479-eb6f-422f-a6de-a13fd8af5a02",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/4d630479-eb6f-422f-a6de-a13fd8af5a02",
+    "company": "Chainlink Labs",
+    "title": "Manager, Insider Trust"
+  },
+  "arc7": {
+    "id": "005cba6f-0e37-40ec-814e-3e02b1aa3d9f",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/005cba6f-0e37-40ec-814e-3e02b1aa3d9f",
+    "company": "Chainlink Labs",
+    "title": "Senior Solutions Architect, Tokenisation"
+  },
+  "pm107": {
+    "id": "c116297fdd7901",
+    "link": "https://transak-inc.breezy.hr/p/c116297fdd7901-senior-product-manager-compliance-kyc",
+    "company": "Transak",
+    "title": "Senior Product Manager, Compliance & KYC"
+  },
+  "ps": {
+    "id": "JR101614",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Bangalore/Payroll-Specialist_JR101614",
+    "company": "Brevan Howard",
+    "title": "Payroll Specialist"
+  },
+  "tr70": {
+    "id": "JR101613",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613",
+    "company": "Brevan Howard",
+    "title": "2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi"
+  },
+  "int33": {
+    "id": "JR101594",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Venture-Capital--New-York_JR101594",
+    "company": "Brevan Howard",
+    "title": "2027 Summer Internship Program – Venture Capital, New York"
+  },
+  "pm86": {
+    "id": "8000313003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8000313003",
+    "company": "OKX",
+    "title": "Senior Growth Manager - Lifecycle & Product"
+  },
+  "eng627": {
+    "id": "7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+    "link": "https://jobs.ashbyhq.com/openstandard/7e7e5e09-9e60-4ec0-9837-d87e379d5f29",
+    "company": "Open Standard",
+    "title": "Smart Contract Engineer",
+    "newSlug": "eng645"
   }
 }
