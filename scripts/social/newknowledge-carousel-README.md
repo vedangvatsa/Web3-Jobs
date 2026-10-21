@@ -60,6 +60,10 @@ Preflight may inspect a future calendar date. It creates local artifact journals
 
 Live account inspection passed in [run 39644371730](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39644371730). Both platforms returned `ready` for E02 in [preflight 39644377259](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39644377259), using asset commit `1c8f9ce12`. At that check, Instagram reported 0 of 100 publications used in its rolling 24-hour quota. Quota is checked again before mutations. These runs verified readiness, not a new carousel publication.
 
+The post-readback field queries also succeeded against existing brand posts in [run 39647311986](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39647311986). That read-only check verified the Instagram media owner and support for the alt-text field. The first new six-page/six-image publication still needs its own matching receipt.
+
+LinkedIn permits `share` and `ugcPost` IDs in its [Posts API](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/posts-api?view=li-lms-2026-10). Receipt verification accepts their native feed permalinks and activity links. Buffer's [post metadata](https://developers.buffer.com/types/Post.html) is nullable; an explicit `null` is valid for a document without platform-specific options. A missing response field, a different metadata type or a link attachment fails verification.
+
 ## Receipts and recovery
 
 Receipts use a separate path:

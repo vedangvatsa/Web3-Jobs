@@ -83,8 +83,8 @@ export async function verifyCarouselReceipt(post, spec, { verifyImage, verifyDoc
   assert.ok(Array.isArray(post.assets), 'Carousel receipt assets missing');
   if (spec.platform === 'linkedin') {
     assert.equal(post.assets.length, 1, 'LinkedIn requires one native document');
-    assert.equal(post.metadata?.__typename, 'LinkedInPostMetadata');
-    assert.ok(!post.metadata.linkAttachment, 'Link attachment cannot accompany a document');
+    if (post.metadata !== null) assert.equal(post.metadata?.__typename, 'LinkedInPostMetadata');
+    assert.ok(!post.metadata?.linkAttachment, 'Link attachment cannot accompany a document');
     const asset = post.assets[0];
     assert.equal(asset.__typename, 'DocumentAsset');
     assert.equal(asset.type, 'document');
@@ -118,7 +118,7 @@ export async function verifyCarouselReceipt(post, spec, { verifyImage, verifyDoc
       assert.match(url.pathname, /^\/p\/[\w-]+\/?$/);
     } else {
       assert.ok(['linkedin.com', 'www.linkedin.com'].includes(url.hostname));
-      assert.match(url.pathname, /^\/(?:feed\/update\/urn:li:(?:activity|share):\d+|posts\/hashtagweb3_[\w-]+)\/?$/);
+      assert.match(url.pathname, /^\/(?:feed\/update\/urn:li:(?:activity|share|ugcPost):\d+|posts\/hashtagweb3_[\w-]+)\/?$/);
     }
   }
   return identity;

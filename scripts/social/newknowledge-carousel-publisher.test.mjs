@@ -107,6 +107,33 @@ test('preflight and reconcile without claims have no provider or receipt writes'
   }
 });
 
+test('LinkedIn document receipts accept native UGC permalinks and nullable platform metadata', async () => {
+  for (const kind of ['activity', 'share', 'ugcPost']) {
+    const h = harness('linkedin', { post: post => {
+      post.externalLink = `https://www.linkedin.com/feed/update/urn:li:${kind}:123456789/`;
+      post.metadata = null;
+    } });
+    assert.equal((await h.run()).status, 'verified');
+    assert.equal((await h.run('reconcile')).status, 'verified');
+    assert.equal(h.mutations.length, 1);
+  }
+  for (const change of [
+    post => { delete post.metadata; },
+    post => { post.metadata = { __typename: 'InstagramPostMetadata' }; },
+    post => { post.metadata.linkAttachment = { url: 'https://hashtagweb3.com/' }; },
+    post => { post.externalLink = 'https://www.linkedin.com/feed/update/urn:li:organization:123456789/'; },
+    post => { post.externalLink = 'https://www.linkedin.com/feed/update/urn:li:ugcPost:not-a-post/'; },
+    post => { post.externalLink = 'https://www.linkedin.com/company/hashtagweb3/'; },
+    post => { post.externalLink = 'https://linkedin.com.example/feed/update/urn:li:ugcPost:123456789/'; },
+  ]) {
+    const h = harness('linkedin', { post: change });
+    await assert.rejects(h.run());
+    await assert.rejects(h.run('reconcile'));
+    assert.equal(h.state().status, 'accepted');
+    assert.equal(h.mutations.length, 1);
+  }
+});
+
 test('unknown and ID-less creates cannot automatically resend, including on a later date', async () => {
   for (const platform of ['linkedin', 'instagram']) for (const fault of ['unknown', 'missingId']) {
     const h = harness(platform, { [fault]: true });
