@@ -2794,5 +2794,53 @@
     "slotKey": "2026-10-21:afternoon",
     "messageId": 155869,
     "sentAt": "2026-10-21T11:31:48.327Z"
+  },
+  "9070e193-f15e-4744-99a6-70e8aa669077": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T19:31:45.311Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-S85peLd1TLeNc05",
+        "slug": "solana-student-bootcamp-ai",
+        "name": "Solana Student Bootcamp | AIで始める、ブロックチェーン開発",
+        "startDate": "2026-10-22T17:00:00+09:00",
+        "keys": [
+          "discovery-evt-s85peld1tlenc05",
+          "page:solana-student-bootcamp-ai:2026-10-22",
+          "luma:evt-s85peld1tlenc05",
+          "luma-url:/lmy1gn6j",
+          "event:solanastudentbootcampaiで始めるブロックチェーン開発:2026-10-22:narashino"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
+        "slug": "cowork-ethglobal-vadodara-pu-dao-near-protocol",
+        "name": "Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol",
+        "startDate": "2026-10-22T08:00:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-3vtajvxobbay3hb",
+          "page:cowork-ethglobal-vadodara-pu-dao-near-protocol:2026-10-22",
+          "luma:evt-3vtajvxobbay3hb",
+          "luma-url:/ethglobal-cowork-vadodara",
+          "event:coworkwithethglobalinvadodarawithpudaonearprotocol:2026-10-22:vadodara"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
+        "slug": "ethglobal-happy-hour-new-delhi",
+        "name": "ETHGlobal Happy Hour New Delhi",
+        "startDate": "2026-10-22T12:30:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-9qbxxi87fmfkdff",
+          "page:ethglobal-happy-hour-new-delhi:2026-10-22",
+          "luma:evt-9qbxxi87fmfkdff",
+          "luma-url:/ethglobal-hh-newdelhi",
+          "event:ethglobalhappyhournewdelhi:2026-10-22:delhi ncr"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-21:evening"
   }
 }
