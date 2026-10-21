@@ -1870,7 +1870,7 @@
     "sentAt": "2026-10-20T19:34:07.930Z"
   },
   "adf8fadc-f4ba-4b6e-b2fd-587586f5f00b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-21T19:33:25.088Z",
     "stories": [
       {
@@ -1902,6 +1902,8 @@
         "originalTitle": "OpenAI's latest AI models are coming to Google Cloud and Antigravity"
       }
     ],
-    "slotKey": "2026-10-21:evening"
+    "slotKey": "2026-10-21:evening",
+    "messageId": 193382,
+    "sentAt": "2026-10-21T19:33:37.505Z"
   }
 }

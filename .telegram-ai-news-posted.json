@@ -770,6 +770,9 @@
   "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
   "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
   "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+  "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+  "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2093,6 +2096,12 @@
   "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
   "Ukraine uses drone to rescue wounded soldier",
   "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+  "Walmart introduces AI agent purchasing capabilities",
+  "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+  "OpenAI acquires Orchestra Bio for life sciences research",
+  "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+  "Google Cloud to Offer New OpenAI GPT 6.1 Models",
+  "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2380,5 +2389,8 @@
   "fp:alaska|alaskan|climat|collect|denali|disaster|doubl|drill|frozen|graduat",
   "fp:agency|all|ban|china|chines|civilian|deepseek|due|federal|government",
   "fp:145b|achiev|arm|capabl|develop|dexterity|divers|eka|expert|human",
-  "fp:activ|aircraft|combat|controll|dron|idea|injur|mov|much|personnel"
+  "fp:activ|aircraft|combat|controll|dron|idea|injur|mov|much|personnel",
+  "fp:agent|amazon|approval|block|capability|control|customer|enabl|execut|integrat",
+  "fp:acquir|acquisition|beef|bio|biotech|business|exist|experimental|integrat|lif",
+  "fp:antigravity|are|astra|availabl|becom|cloud|com|googl|gpt61|luna"
 ]
