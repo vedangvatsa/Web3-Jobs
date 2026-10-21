@@ -100,74 +100,6 @@
     }
   },
   {
-    "id": "luma-crypto-8KyAuou22sLR6WZ",
-    "slug": "adhnm",
-    "name": "AI Databricks Hackathon + Networking Mixer NYC",
-    "description": "Databricks-Sponsored Hackathon AND Networking Mixer at Queens College\nSept 18 to 20\n\nIMPORTANT NOTE: TECH NETWORKING MIXERS WILL TAKE PLACE ALL 3 DAYS.\n\nSpend a weekend building with AI on Databricks, guided by the engineers who work on the platform itself. Over three days at Queens College, you'll form a small team, take on a live challenge, and leave with a finished project, a professional network, and a real Databricks credential. No experience required, just come curious!\n\nWhat your ticket includes:\n\n💻 Build with AI on Databricks with a team.\n\n🎓 The Academy Accreditation Corner - earn a real Databricks accreditation alongside others, and add it to your LinkedIn by Sunday night.\n\n🤝 The WAGMI-Connect networking corner - dedicated time with working tech professionals, so you leave with connections as well as a project.\n\n📸 A professional headshot (available only Sunday), included in your ticket. Plus a goodie bag, Databricks credits to build with (on top of the free edition), and prizes for the top teams.\n\n🧋Boba drink of your choice :)!\n\nThe weekend\n\nFriday, Sept 18 · 3:00 - 8:00 PM (check-in from 2:00 PM)\nPick up your badge and goodie bag, meet the room, and form a team of two or three. There will be a 1-hour \"Introduction to Databricks\" session,  Q&A and helping students sign up on Free Edition.\n\nExperiment with PRISM (guided by team @ Block Convey).\n\nThe challenge is revealed at kickoff... and the build begins.\n\nSaturday, Sept 19 · 9:00 AM - 6:00 PM\nA full day to build. Get unstuck by Databricks engineers (office hours 12-3 pm), make progress toward your accreditation, connect with professionals in the WAGMI-Connect networking corner, and book your headshot slot.\n\n1st submissions due at 1:00 am on Sunday, Sept 20\n\nSunday, Sept 20 -\n\n9:00 AM - 5:00 PM\n\nPresentations will start after 10 am.\n\nHeadshot section opens after noon.\n\nEvery team presents, and judges select the top 5 to take the main stage for a 3 to 5 minute demo. Winners are chosen by the Databricks team.\n\nPrizes\nWinning teams take home a Lululemon Everywhere Backpack and an Owala FreeSip Thermal bottle.\n\nWho it's for\nStudents and career-changers building with AI for the first time, and anyone already in tech who wants to sharpen their skills, meet the next wave of talent, and leave with a project and a credential worth showing.\n\nSponsors\nDatabricks · Queens College Tech Incubator · WAGMI-Connect\n\nNo proceeds go to Databricks. Spots are limited, reserve yours below!\n\nContact the host on Linkedin for any questions/concerns: https://www.linkedin.com/in/kaurpriyanka",
-    "startDate": "2026-09-18T18:00:00.000Z",
-    "endDate": "2026-09-21T00:00:00.000Z",
-    "city": "Queens",
-    "country": "United States",
-    "location": "Queens, United States",
-    "url": "https://luma.com/databricks-hackathon",
-    "registrationUrl": "https://luma.com/databricks-hackathon",
-    "coverImage": "/events/luma-crypto-8kyauou22slr6wz-a696ef35.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Priyanka"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "NYC Tech Events",
-      "url": "https://luma.com/beenetwork"
-    },
-    "ticketOffers": [
-      {
-        "name": "Early Bird",
-        "url": "https://luma.com/databricks-hackathon",
-        "price": 20,
-        "priceCurrency": "USD",
-        "availability": "InStock",
-        "validFrom": "2026-08-17T22:00:00.000Z"
-      },
-      {
-        "name": "General Admission",
-        "url": "https://luma.com/databricks-hackathon",
-        "price": 25,
-        "priceCurrency": "USD",
-        "availability": "InStock",
-        "validFrom": "2026-08-31T04:00:00.000Z"
-      },
-      {
-        "name": "Networking Pass",
-        "url": "https://luma.com/databricks-hackathon",
-        "price": 10,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "QC Students (Full Access)",
-        "url": "https://luma.com/databricks-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/databricks-hackathon",
-      "eventId": "evt-8KyAuou22sLR6WZ",
-      "fetchedAt": "2026-09-19T23:45:35.638Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-miNdmkakNF9C33M",
     "slug": "n8n-hackat",
     "name": "n8n Hackathon: Automate with K2 Horizon",
@@ -218,49 +150,6 @@
       "eventId": "evt-miNdmkakNF9C33M",
       "fetchedAt": "2026-09-22T11:55:02.000Z",
       "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-01e817k9Btt06et",
-    "slug": "hcah",
-    "name": "Health in Climate AI Hackathon NYC",
-    "description": "[Health in Climate](https://www.healthinclimate.ai/) [with the United Nations Climate Change Global Innovation Hub](https://unfccc.int/topics/un-climate-change-global-innovation-hub) is back with [our third Hackathon on September 19–20, 2026 at Cornell Tech](https://tech.cornell.edu/) in New York City!\n\nClimate change is reshaping where we live and how we thrive. This hackathon brings together builders, clinicians, researchers, designers, and community leaders that have a bias towards action and building solutions around the focus of Resilient People, Resilient Places.\n\nCash prizes more than $6,000 to be won!\n(food and coffee on both days is on us 😄)\n\nWe’re looking for builders from various backgrounds (engineering, medicine, climate science, architecture, urban planning, policy, business etc.) to thoughtfully leverage AI to address the health impact of climate change.\n\nMore details here: https://www.healthinclimate.ai/hackathons/nyc/2026\n(see \"event\" tab for day-wise schedule)\n\nPlease [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.\n\nPS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.",
-    "startDate": "2026-09-19T12:00:00.000Z",
-    "endDate": "2026-09-20T20:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://luma.com/ka3uxc6b",
-    "registrationUrl": "https://luma.com/ka3uxc6b",
-    "coverImage": "/events/luma-crypto-01e817k9btt06et-f3da660d.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Seema Wadhwa",
-      "Chethan Sarabu",
-      "Manali Amitav",
-      "Rishabh Surendran"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ka3uxc6b",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/ka3uxc6b",
-      "eventId": "evt-01e817k9Btt06et",
-      "fetchedAt": "2026-09-19T23:45:38.768Z",
-      "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },

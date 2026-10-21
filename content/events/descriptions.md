@@ -20943,110 +20943,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-1d8484897fcfa579"></a>
-
-## AI Databricks Hackathon + Networking Mixer NYC
-
-- Record: `luma-crypto-8KyAuou22sLR6WZ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-18T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/databricks-hackathon>
-
-### About the event
-
-Databricks-Sponsored Hackathon AND Networking Mixer at Queens College
-
-Sept 18 to 20
-
-IMPORTANT NOTE: TECH NETWORKING MIXERS WILL TAKE PLACE ALL 3 DAYS.
-
-Spend a weekend building with AI on Databricks, guided by the engineers who work on the platform itself. Over three days at Queens College, you'll form a small team, take on a live challenge, and leave with a finished project, a professional network, and a real Databricks credential. No experience required, just come curious!
-
-What your ticket includes:
-
-Build with AI on Databricks with a team.
-
-The Academy Accreditation Corner - earn a real Databricks accreditation alongside others, and add it to your LinkedIn by Sunday night.
-
-The WAGMI-Connect networking corner - dedicated time with working tech professionals, so you leave with connections as well as a project.
-
-A professional headshot (available only Sunday), included in your ticket. Plus a goodie bag, Databricks credits to build with (on top of the free edition), and prizes for the top teams.
-
-Boba drink of your choice :)!
-
-The weekend
-
-Friday, Sept 18 - 3:00 - 8:00 PM (check-in from 2:00 PM)
-
-Pick up your badge and goodie bag, meet the room, and form a team of two or three. There will be a 1-hour "Introduction to Databricks" session, Q&A and helping students sign up on Free Edition.
-
-Experiment with PRISM (guided by team @ Block Convey).
-
-The challenge is revealed at kickoff... and the build begins.
-
-Saturday, Sept 19 - 9:00 AM - 6:00 PM
-
-A full day to build. Get unstuck by Databricks engineers (office hours 12-3 pm), make progress toward your accreditation, connect with professionals in the WAGMI-Connect networking corner, and book your headshot slot.
-
-1st submissions due at 1:00 am on Sunday, Sept 20
-
-Sunday, Sept 20 -
-
-9:00 AM - 5:00 PM
-
-Presentations will start after 10 am.
-
-Headshot section opens after noon.
-
-Every team presents, and judges select the top 5 to take the main stage for a 3 to 5 minute demo. Winners are chosen by the Databricks team.
-
-### Prizes
-
-Winning teams take home a Lululemon Everywhere Backpack and an Owala FreeSip Thermal bottle.
-
-### Who it's for
-
-Students and career-changers building with AI for the first time, and anyone already in tech who wants to sharpen their skills, meet the next wave of talent, and leave with a project and a credential worth showing.
-
-### Sponsors
-
-Databricks - Queens College Tech Incubator - WAGMI-Connect
-
-No proceeds go to Databricks. Spots are limited, reserve yours below!
-
-Contact the host on Linkedin for any questions/concerns: https://www.linkedin.com/in/kaurpriyanka
-
-<a id="event-ee7f5f376ef49b29"></a>
-
-## Health in Climate AI Hackathon NYC
-
-- Record: `luma-crypto-01e817k9Btt06et`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-19T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ka3uxc6b>
-
-### About the event
-
-[Health in Climate](https://www.healthinclimate.ai/) [with the United Nations Climate Change Global Innovation Hub](https://unfccc.int/topics/un-climate-change-global-innovation-hub) is back with [our third Hackathon on September 19-20, 2026 at Cornell Tech](https://tech.cornell.edu/) in New York City!
-
-Climate change is reshaping where we live and how we thrive. This hackathon brings together builders, clinicians, researchers, designers, and community leaders that have a bias towards action and building solutions around the focus of Resilient People, Resilient Places.
-
-Cash prizes more than $6,000 to be won!
-
-(food and coffee on both days is on us )
-
-We're looking for builders from various backgrounds (engineering, medicine, climate science, architecture, urban planning, policy, business etc.) to thoughtfully leverage AI to address the health impact of climate change.
-
-More details here: https://www.healthinclimate.ai/hackathons/nyc/2026
-
-(see "event" tab for day-wise schedule)
-
-Please [take a moment to read the participant agreement linked here](https://docs.google.com/document/d/1NksDJu8WepoWBv3WilInQnm4E_2Qb_uv9Uel6RkbXkQ/edit?usp=sharing). By signing up to the event, you confirm to comply with the listed terms.
-
-PS. This Luma form is the official registration form to have a confirmed spot in the hackathon on Sept 19-20. This is an in-person event only.
-
 <a id="event-d15aff220845dd3d"></a>
 
 ## Ecox Mondays- Season Opening Kick off Month - Networking Event - Tech, Ai, Blockchain and Business Meetup
@@ -52760,33 +52656,6 @@ It's free! Confirm the consents, then apply with your email or sign in to your R
 
 Whether you ship code, run a startup or are just Web3-curious, there's a seat for you.
 
-<a id="event-cd0694f4e944966f"></a>
-
-## Reform Room X Lido house
-
-- Record: `luma-evt-56muPluIvodVTSs`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-20T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/43s8rab9>
-- Original page: <https://luma.com/43s8rab9>
-
-### About the event
-
-You're invited.
-
-Reform Room x Lido House
-
-Newport Beach - September 20 - 1PM-3PM
-
-Dress Code: Butter Yellow
-
-Join us for a luxury Pilates experience by the coast with vendors, sponsors, wellness, and more.
-
-Each guest will receive a custom yoga mat + curated goodie bag to take home.
-
-Limited availability.
-
 <a id="event-b16e1f340cf85f55"></a>
 
 ## Bitcoin Builders Club
@@ -72423,6 +72292,66 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2b8d737922fe571c"></a>
+
+## AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance
+
+- Record: `luma-evt-dYbK287YZ3bbjQn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T20:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fxu60rnk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-53f723e003a77600"></a>
+
+## Workshop: Beyond the Build: Onchain Growth & GTM \| Turning early traction into real distribution
+
+- Record: `luma-evt-MI68iswm4hoDGkz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n5k6x2nn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6087e237b121b4fe"></a>
+
+## ETH NYC MEETUP
+
+- Record: `luma-evt-3LOM4FGRx6RW5z1`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yajlntzq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-93b778639b0d1b84"></a>
+
+## session 1: charmed x snail mail w/ martina calvi + kelsey armstrong
+
+- Record: `luma-evt-jKaJfI8YHApP93P`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/craftnook-5pqs>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ec980b0f1b7e91bf"></a>
+
+## The Creative Launchpad: Beyond the Feed
+
+- Record: `luma-evt-0hQp1NQe1o59dF9`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2dxmaoh4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-10e581ffa566e07b"></a>
 
 ## Crypto Connect Networking Conference Fort Lauderdale
@@ -72444,6 +72373,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/welovectos>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-000aff7d212dd5f4"></a>
+
+## Undefined + EvolveDigital / Oct 22nd 2026
+
+- Record: `luma-evt-Mhu0MM7WcH2hVNl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/undefined-20261022>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-365bb18c1b1096d9"></a>
+
+## My First Bitcoin: Education Is Freedom
+
+- Record: `luma-evt-mWdmu40qCxBTkma`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/hsodwfgy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72516,6 +72469,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-23T00:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/jps7v0p8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7808ec7e27d7bd21"></a>
+
+## Is taste the right question we should be asking? A fireside panel ft. Coinbase, Ruckus, and Graphite
+
+- Record: `luma-evt-zyv6TPbYczsVuy3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5rst1oq5>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73189,6 +73154,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/offline-atx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c886aa154267bf87"></a>
+
+## The Future of AI Computing: Why Photonic Infrastructure Could Redefine the Next Generation of Semiconductors
+
+- Record: `luma-evt-FGXy3n11ExYjQVx`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ry42ksz5>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
