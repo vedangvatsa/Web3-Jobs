@@ -35649,6 +35649,47 @@
       "attemptId": "c4127e6d-06ed-4d7e-89fe-9453b544b747",
       "verification": "verified",
       "postId": "0x3803572d8468e25d34778462032de6de0b73a2b4"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm259/li?og=7",
+          "title": "Senior Product Manager, Advisor Marketplace at Robinhood",
+          "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm259.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "184a8846-03c7-481d-94a5-2d1c16dc1c98",
+      "verification": "creating"
     }
   ]
 }
