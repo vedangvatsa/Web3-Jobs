@@ -39217,7 +39217,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4950cdf7-af6d-46da-bbe0-897bb2f8044a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518757506039324672"
     }
   ]
 }
