@@ -33239,9 +33239,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "1b7231cf-2e92-43fe-9023-249dae468757",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad7c24e9f8712d7ad7d7a6f",
-      "error": "LinkedIn CVin.Bio receipt 6ad7c24e9f8712d7ad7d7a6f remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad7c24e9f8712d7ad7d7a6f remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518394359072002048"
     },
     {
       "slug": "dshk",
