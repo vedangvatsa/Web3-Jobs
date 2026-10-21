@@ -34747,7 +34747,8 @@
       },
       "account": "channel:ai",
       "attemptId": "7c5a96d9-37a2-4b1d-940a-31524a96d68e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe4be600b0d81f3172b55a8b91080bfe4d2fd0ae2"
     }
   ]
 }
