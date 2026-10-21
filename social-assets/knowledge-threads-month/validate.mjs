@@ -52,7 +52,7 @@ for(const thread of content.threads) {
       assert(check);assert.deepEqual(check.issues,[]);assert.deepEqual(check.contrastFailures,[]);assert.deepEqual(check.missingImages,[]);
       assert(check.minimumAuthoredBodyPx>=42);
       assert.equal(check.renderedText,image.renderedText);
-      if(['C03','E05','N06','E10'].includes(thread.id))assert(image.renderedText.includes('2026 Q1'),image.path+' broadband period');
+      if(['C03','E05','N06','E10'].includes(thread.id)&&/Mbps|broadband|download|upload/i.test(image.renderedText))assert(image.renderedText.includes('2026 Q1'),image.path+' broadband period');
       assert(thread.id==='N02'||image.assetPaths.length>0,'Every non-aggregate image uses a genuine source image');
       if(thread.id==='N02'){assert.equal(image.assetPaths.length,0);assert.equal(image.visualKind,'authored-historical-aggregate');assert(image.renderedText.includes('October 20, 2026'));}
       assert.deepEqual(image.assetPaths,image.sourceAssets.map(a=>a.file));

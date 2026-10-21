@@ -1,5 +1,7 @@
 # Replacement-image quality record
 
+**October 21 update:** the user-requested white-background, spacious revision supersedes the visual treatment described below. See `WHITE-REVISION.md` and the current validation JSON. All 162 revised masters pass the white-background, 64 px gutter, readable-type and collision checks; the Tallinn image is corrected.
+
 October 20, 2026 revision. Current machine-readable results are in `assets/revision/validation.json`; `assets/render-checks.json` covers the complete 180-entry manifest.
 
 ## Delivery checks

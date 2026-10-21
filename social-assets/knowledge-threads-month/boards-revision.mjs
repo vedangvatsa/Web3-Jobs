@@ -12,30 +12,35 @@ const scope=text=>`<p class="scope">${esc(text)}</p>`;
 const note=text=>`<p class="note">${esc(text)}</p>`;
 const facts=items=>`<div class="facts">${items.map(f=>`<p class="fact">${esc(f)}</p>`).join('')}</div>`;
 const answer=(title,text,extra=[])=>`<section class="answer"><p class="eyebrow">${esc(title)}</p><p class="body">${esc(text)}</p>${facts(extra)}</section>`;
-const photo=(slug,height=360)=>image('photo-'+slug,'photo',`height:${height}px${slug==='taipei'?';object-position:center top':''}`);
+const landmarks=new Set(['singapore','paris','siem-reap','budapest','prague','bali','tallinn']);
+const photo=(slug,height=360)=>image('photo-'+slug,`photo${landmarks.has(slug)?' landmark':''}`,`height:${height}px${slug==='taipei'?';object-position:center top':''}`);
+const detailRows=rows=>`<dl class="detail-rows">${rows.map(([label,text])=>`<div class="detail-row"><dt>${esc(label)}</dt><dd>${esc(text)}</dd></div>`).join('')}</dl>`;
 const metric=(label,value,unit='',wide=false)=>`<div class="metric${wide?' wide':''}"><dt>${esc(label)}</dt><dd>${esc(value)}${unit?` <span class="unit">${esc(unit)}</span>`:''}</dd></div>`;
 const budget=rows=>`<div class="budget">${rows.map(([label,value,total])=>`<div class="budget-row${total?' total':''}"><span>${esc(label)}</span><strong>${esc(value)}</strong></div>`).join('')}</div>`;
 
 function cityPlan(thread,post) {
   const items=post.visual.items, kind=thread.id;
   const reference=items.some(i=>i.slug==='taipei')?'Travel Taipei':items.some(i=>i.slug==='cartagena')?'ProColombia':null;
-  const footer=reference?`${items.length>1?'Photos: directory / ':'Photo: '}${reference} · Authored directory metrics`:undefined;
-  const periods={C03:'Monthly USD estimates. Broadband: 2026 Q1.',E04:'City/base site scores /100. Monthly USD estimates.',E05:'Fixed broadband, 2026 Q1. Monthly USD estimates.',N06:'Site safety /10 · Broadband: 2026 Q1 · Monthly USD estimates',E08:'December monthly climate reference, not a forecast.',E10:'Walkability: site rating /10. Broadband: 2026 Q1.'};
+  const footer=items.some(i=>i.slug==='tallinn')?'Tallinn photo: Kaupo Kalda / Visit Tallinn':reference?`${items.length>1?'Photos via Hashtag Web3 / ':'Photo: '}${reference}`:undefined;
+  const periods={C03:'Monthly USD estimates',E04:'City site scores /100 · USD/month estimates',E05:'Fixed broadband: 2026 Q1 · USD/month estimates',N06:'Site safety /10 · 2026 Q1 broadband\nMonthly USD estimates',E08:'December reference · Not a forecast',E10:'Site walkability /10 · Broadband: 2026 Q1'};
   let headline=post.visual.headline, html=scope(periods[kind]);
-  if(post.number===1&&kind==='E08'){headline='December: five warm bases';html=scope('December reference, not a forecast');}
-  if(post.number===1&&kind==='E10'){headline='Walkable, connected cities';html=scope('Site walkability · Broadband: 2026 Q1');}
-  if(post.number===1&&kind==='N06')headline='Safety + budget: five cities';
+  if(post.number===1&&kind==='E08'){headline='December: five warm bases';html=scope('Monthly climate reference · USD/month estimates');}
+  if(post.number===1&&kind==='E10'){headline='Walkable, connected cities';html=scope('2026 Q1 download · USD/month estimates');}
+  if(post.number===1&&kind==='N06'){headline='Safety + budget: five cities';html=scope('Site safety /10 · USD/month estimates');}
+  if(post.number===1&&kind==='C03')headline='Five bases at USD 1,000 or less';
   if(items.length>=3) {
     html+=`<div class="rows">${items.map((item,index)=>{
       const city=cities.get(item.slug);let text=item.facts.join(' · ');
-      if(kind==='E08')text=`${city.december.temp}°C · ${city.december.rain} mm rain\nUSD ${num(city.cost.monthly_total)}/month estimated`;
-      if(kind==='E10')text=`Walk ${city.walkability.walk}/10 · ${city.internet.download_mbps} Mbps down\nUSD ${num(city.cost.monthly_total)}/month estimated`;
-      return `<div class="city-row${kind==='E08'||kind==='E10'?' dense':''}">${photo(item.slug,146)}<div><h2>${index+1}. ${esc(city.name)}${kind==='E04'?', '+esc(item.country):''}</h2><p>${esc(text).replaceAll('\n','<br>')}</p></div></div>`;
+      if(kind==='E05')text=`${city.internet.download_mbps} Mbps down · USD ${num(city.cost.monthly_total)}`;
+      if(kind==='C03'||kind==='N06')text=text.replaceAll('/month','').replaceAll(' estimated','');
+      if(kind==='E08')text=`${city.december.temp}°C · ${city.december.rain} mm rain · USD ${num(city.cost.monthly_total)}`;
+      if(kind==='E10')text=`${city.walkability.walk}/10 walk · ${city.internet.download_mbps} Mbps · USD ${num(city.cost.monthly_total)}`;
+      return `<div class="city-row${kind==='E08'||kind==='E10'?' dense':''}">${photo(item.slug,112)}<div><h2>${index+1}. ${esc(city.name)}${kind==='E04'?', '+esc(item.country):''}</h2><p>${esc(text).replaceAll('\n','<br>')}</p></div></div>`;
     }).join('')}</div>`;
-    if(kind==='E08')html+=note('Mean ≥25°C · Rain ≤80 mm · Cost ≤USD 1,300/month estimated. Rainfall order.');
-    else if(kind==='E10')html+=note('Walk ≥7.5; download ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded.');
+    if(kind==='E08')html+=note('Mean ≥25°C; rain ≤80 mm; cost ≤USD 1,300. Rainfall order; not a forecast.');
+    else if(kind==='E10')html+=note('Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded.');
     else if(kind==='E04')html+=note('Best-scoring base per country. Ties: lower cost, then name. City scores are not national scores.');
-    else if(kind==='N06')html+=note('Both filters: safety ≥8/10 and cost ≤USD 1,500/month. Safety is not an official crime index.');
+    else if(kind==='N06')html+=note('Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index.');
     else if(kind==='E05')html+=note('City-level reference speeds. Your accommodation connection can differ.');
     else html+=note('Regional shortlist, ordered by estimated total. Rent and coworking are included.');
     return {headline,html,kind:'city-photo-ranking',footer};
@@ -47,16 +52,17 @@ function cityPlan(thread,post) {
   }
   const item=items[0], city=cities.get(item.slug);
   headline=city.name===item.country?city.name:`${city.name}, ${item.country}`;
-  html+=photo(item.slug,kind==='C03'?310:355);
+  html+=photo(item.slug,kind==='C03'?220:kind==='E05'?360:320);
   if(kind==='C03') {
     html+=budget([['Monthly estimate',`USD ${num(city.cost.monthly_total)}`,true],...['rent','food','transport','coworking','other'].map(k=>[k[0].toUpperCase()+k.slice(1),num(city.cost[k])])]);
     html+=body(`2026 Q1 fixed broadband\n${city.internet.download_mbps} down / ${city.internet.upload_mbps} up Mbps`);
   } else if(kind==='E08') {
     html+=`<dl class="metric-grid">${metric('December mean',city.december.temp,'°C')}${metric('Monthly rain',city.december.rain,'mm')}${metric('Humidity',city.december.humidity,'%')}${metric('Monthly estimate',num(city.cost.monthly_total),'USD')}</dl>`;
-    html+=note(item.slug==='lagos'?'Site safety rating: 4/10. This is a weather-and-budget selection.':item.facts.at(-1));
+    const climateNotes={lagos:'Site safety: 4/10. Selected for weather and budget.',bangkok:'Same budget as Lagos; humidity 13 percentage points lower.','siem-reap':'Rent included: USD 280/month estimated.',cartagena:'Versus Siem Reap: 1 mm more rain; USD 500/month more.','ho-chi-minh-city':'Versus Bangkok: USD 100/month less; 46 mm more rain.'};
+    html+=note(climateNotes[item.slug]);
   } else {
     const metrics=item.metrics||[];
-    html+=`<dl class="metric-grid">${metrics.filter(m=>m.label!=='Rent'&&m.label!=='Site transit').map(m=>metric(m.label==='Monthly estimate'?'Monthly USD estimate':m.label,num(m.value),m.unit==='USD/month'?'':m.unit)).join('')}</dl>`;
+    html+=`<dl class="metric-grid${kind==='E05'?' thirds':''}">${metrics.filter(m=>m.label!=='Rent'&&m.label!=='Site transit').map(m=>kind==='E05'?metric(m.label==='Monthly estimate'?'Cost (USD/month)':`${m.label} (Mbps)`,num(m.value)):metric(m.label==='Monthly estimate'?'USD/month estimate':m.label,num(m.value),m.unit==='USD/month'?'':m.unit)).join('')}</dl>`;
     const extra=kind==='E05'?(item.facts[2]||'City-level reference, not apartment Wi-Fi.'):kind==='N06'?'Safety is a site rating, not an official crime index.':item.facts[0];
     html+=note(extra);
   }
@@ -67,23 +73,23 @@ const salaryRoles=['contract','auditor','product','writer','community'];
 const salaryNames=['Smart Contract Developer','Security Auditor','Product Manager','Technical Writer','Community Manager'];
 function salaryPlan(thread,post) {
   let html,headline;
-  const assumptions='North America · Series A/B · 11-50 employees';
-  const disclaimer='Model estimates, not observed pay. Tokens and equity excluded.';
+  const assumptions='North America · Series A/B · 11-50 staff';
+  const disclaimer='Model, not observed pay. Tokens/equity excluded.';
   if(thread.id==='E02') {
     if(post.number===6) {
       headline='Five roles, identical inputs';
-      html=scope('Annual USD model estimates · 2 years')+body(assumptions)+`<div>${post.visual.items.map(item=>{const i=salaryNames.indexOf(item.title);return `<div class="salary-row"><h2>${esc(item.title)}</h2>${image(`E02-${salaryRoles[i]}-result-amount`)}</div>`}).join('')}</div>`+note('USD 70,000 gap: Security Auditor minus Community Manager. '+disclaimer);
+      html=scope('Annual USD model estimates · 2 years')+body(assumptions)+`<div>${post.visual.items.map(item=>{const i=salaryNames.indexOf(item.title);return `<div class="salary-row"><h2>${esc(item.title)}</h2>${image(`E02-${salaryRoles[i]}-result-amount`)}</div>`}).join('')}</div>`+note('Auditor minus Community: USD 70,000/year. Model only; tokens/equity excluded.');
     } else {
       const role=salaryRoles[post.number-1];headline=salaryNames[post.number-1];
-      html=scope('Annual USD salary model · 2 years')+shot(`E02-${role}-controls-role`,820)+shot(`E02-${role}-result-value`,980)+body(assumptions)+note(disclaimer);
+      html=scope('Annual USD salary model · 2 years')+shot(`E02-${role}-result-value`,980)+body(assumptions)+note(disclaimer);
     }
   } else {
     if(post.number===6) {
       headline='The 1-to-7-year model gap';
-      html=scope('Annual USD estimates · Same assumptions')+body(assumptions)+['auditor','community'].map((r,i)=>`<section class="salary-gap"><h2>${i===0?'Security Auditor':'Community Manager'}</h2><div class="values"><div><p>1 year</p>${image(`E07-${r}-junior-result-amount`)}</div><div><p>7 years</p>${image(`E07-${r}-senior-result-amount`)}</div></div><p class="delta">Difference: USD ${i===0?'36,000':'18,000'}/year</p></section>`).join('')+note(disclaimer);
+      html=scope('USD/year model · 1 vs 7 years')+body(assumptions)+['auditor','community'].map((r,i)=>`<section class="salary-gap"><h2>${i===0?'Security Auditor':'Community Manager'}</h2><div class="values"><div>${image(`E07-${r}-junior-result-amount`)}</div><div>${image(`E07-${r}-senior-result-amount`)}</div></div><p class="delta">Gap: USD ${i===0?'36,000':'18,000'}/year</p></section>`).join('')+note(disclaimer);
     } else {
       const role=salaryRoles[post.number-1];headline=salaryNames[post.number-1];
-      html=scope('Annual USD model estimates')+body(assumptions)+['junior','senior'].map((variant,i)=>`<section class="salary-result"><p class="caption">${i===0?'Junior example: 1 year':'Senior example: 7 years'}</p>${shot(`E07-${role}-${variant}-result-value`,980)}</section>`).join('')+note(disclaimer);
+      html=scope('Annual USD model estimates')+body(assumptions)+['junior','senior'].map((variant,i)=>`<section class="salary-result"><p class="caption">${i===0?'Junior example: 1 year':'Senior example: 7 years'}</p>${shot(`E07-${role}-${variant}-result-amount`,980)}</section>`).join('')+note(disclaimer);
     }
   }
   return{headline,html,kind:'genuine-salary-results',footer:'Salary calculator · Real app, local capture'};
@@ -95,18 +101,19 @@ function marketPlan(thread,post) {
   if(post.number===1)html+=`<table class="counts-table"><thead><tr><th>Eligible country</th><th>Listings</th><th>Employers</th></tr></thead><tbody>${items.map(i=>`<tr><td>${esc(i.country)}</td><td class="number">${parseInt(i.facts[0])}</td><td class="number">${parseInt(i.facts[1])}</td></tr>`).join('')}</tbody></table>`+note('Explicit-country eligibility only. Multi-country listings count in each named country.');
   else {
     const item=items[0];html+=item.metrics.map(m=>`<section class="count-metric"><div class="big-number">${m.value}</div><p>${m.label==='Employers'?'Distinct employers':'Fully remote listings'}</p></section>`).join('');
-    html+=note(post.text);
+    const context={2:'Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters.',3:'US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters.',4:'11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively.',5:'Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration.',6:'Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap.'};
+    html+=note(context[post.number]);
   }
   return{headline:post.number===1?'Remote Web3: country counts':items[0].country,html,kind:'authored-historical-aggregate',footer:'Authored chart · Dated catalog counts, not live vacancies'};
 }
 
 function eventPlan(thread,post) {
   const items=post.visual.items;let html=scope(thread.id==='C06'?'November 2026 · Organizer checks: October 20':'Announced 2027 dates · Checked October 20, 2026');
-  if(items.length>1)html+=items.map(item=>`<section class="event-row">${image('poster-'+item.id)}<div><h2>${esc(item.title)}</h2><p>${esc(item.facts.join(' · '))}</p></div></section>`).join('');
+  if(items.length>1)html+=`<div class="event-index">${items.map(item=>`<section class="event-row">${image('poster-'+item.id)}<div><h2>${esc(item.title)}</h2><p>${esc(item.facts.join(' · '))}</p></div></section>`).join('')}</div>`;
   else {
     const item=items[0];html+=`<figure class="poster-frame">${image('poster-'+item.id)}</figure>`+`<p class="legal-summary">${esc(post.text)}</p>`;
   }
-  return{headline:thread.id==='N08'&&post.number===1?'Five 2027 main conferences':post.visual.headline,html,kind:items.length>1?'event-poster-index':'event-poster-and-facts',footer:thread.id==='N08'&&post.number===3?'Actual Cannes photo · Organizer-announced dates':thread.id==='N08'&&post.number<=2?'Live organizer date panel + imagery · Authored captions':'Actual organizer covers · Dates and admission: authored captions'};
+  return{headline:thread.id==='N08'&&post.number===5?'Dutch Blockchain Week':items.length===1?items[0].title:thread.id==='N08'?'Five 2027 main conferences':post.visual.headline,html,kind:items.length>1?'event-poster-index':'event-poster-and-facts',footer:thread.id==='N08'&&post.number===3?'Cannes photo · Organizer-announced dates':thread.id==='N08'&&post.number<=2?'Organizer date panel + imagery · Authored captions':'Organizer artwork · Dates and admission from organizer sources'};
 }
 
 function questionPlan(thread,post) {
@@ -114,10 +121,16 @@ function questionPlan(thread,post) {
   const introPost={N03:4,N04:3,C07:4}[thread.id];
   const n=post.number===1?introPost:post.number;
   const id=[...assets.keys()].find(k=>k.startsWith(`${thread.id}-${String(n).padStart(2,'0')}-`) && /-(SOL|FE|AUD)-/.test(k));
-  const summary=post.number===1?item.answer:post.text.split('A: ')[1]||item.answer;
+  const summary=(post.number===1?item.answer:post.text.split('A: ')[1]||item.answer).replace(/^Yes\. /,'');
   const extraIndex={'N03-3':1,'N03-6':2,'N04-3':1,'C07-3':2,'C07-5':2};
   const extra=extraIndex[thread.id+'-'+post.number]!==undefined?[item.facts[extraIndex[thread.id+'-'+post.number]]]:[];
-  return{headline:post.visual.headline,html:scope(post.visual.labels.join(' · '))+shot(id,1128)+answer('Answer summary · authored',summary,extra),kind:'real-question-and-authored-answer',footer:'Original question: live Hashtag Web3 interview bank'};
+  let explanation=answer('Answer summary · authored',summary,extra);
+  if(thread.id==='N03'&&post.number===3)explanation=`<section class="answer"><p class="eyebrow">Illustrative modifier fragment</p><pre class="code-fragment">modifier onlyOwner() {
+  require(msg.sender == owner);
+  _;
+}</pre>${body('The caller check runs before the function body.\n_; runs the body; code after it runs afterward.')}${facts(extra)}</section>`;
+  if(thread.id==='N03'&&post.number===6)explanation=`<section class="answer"><p class="eyebrow">Authored example · Each box is 32 bytes</p><div class="packing-row"><h2>2 slots</h2><p class="slot">2 × uint128</p><p class="slot">uint256</p></div><div class="packing-row"><h2>3 slots</h2><p class="slot">uint128</p><p class="slot">uint256</p><p class="slot">uint128</p></div>${body('Fewer slots do not guarantee cheaper writes; gas depends on access patterns.')}${facts(extra)}</section>`;
+  return{headline:thread.id==='N03'&&post.number===6?'Storage packing: 2 or 3 slots':thread.id==='C07'&&post.number===5?'Fuzzing a custody vault':post.visual.headline,html:(post.number===1?scope(post.visual.labels.join(' · ')):'')+shot(id,1072)+explanation,kind:'real-question-and-authored-answer',footer:'Original question: Hashtag Web3 interview bank · Authored explanation'};
 }
 
 function quizPlan(thread,post) {
@@ -125,14 +138,13 @@ function quizPlan(thread,post) {
   const map={'E03-1':['builder',1],'E03-2':['strategist',1],'E03-3':['analyst',1],'E03-4':['weaver',1],'E03-5':['builder',2],'C08-2':['builder',1],'C08-3':['analyst',1],'C08-4':['weaver',1],'C08-5':['analyst',2]};
   if(post.number===6) {
     const a=thread.id==='E03'?'builder':'analyst';
-    return{headline:`The ${a==='builder'?'Builder':'Analyst'}: three role matches`,html:scope('Actual 16-question quiz result')+[1,2,3].map(i=>shot(`QUIZ-${a}-role-0${i}`,1000)).join(''),kind:'actual-quiz-role-list',footer:'Career quiz · Three genuine role-card crops, local capture',className:'compact'};
+    return{headline:`The ${a==='builder'?'Builder':'Analyst'}: three role matches`,html:[1,2,3].map(i=>shot(`QUIZ-${a}-role-0${i}`,940)).join(''),kind:'actual-quiz-role-list',footer:'16-question career quiz · Local capture',className:'compact'};
   }
-  if(id==='C08-1')return{headline:'Code, research or community',html:[['builder','Builder · Example: contract + tests'],['analyst','Analyst · Example: query + methodology'],['weaver','Weaver · Example: support runbook']].map(([a,label])=>`<section class="quiz-role"><p class="caption">${esc(label)}</p>${shot(`QUIZ-${a}-role-01`,960)}</section>`).join(''),kind:'actual-quiz-role-comparison',footer:'Real recommendations · Proposed practice outputs, not quiz assignments',className:'compact'};
+  if(id==='C08-1')return{headline:'Code, query, support runbook',html:['builder','analyst','weaver'].map(a=>shot(`QUIZ-${a}-role-01`,960)).join(''),kind:'actual-quiz-role-comparison',footer:'Career quiz · Local capture · Practice outputs are examples',className:'compact'};
   const [archetype,role]=map[id],item=post.visual.items[0];
   let html=scope('Actual quiz result · Practice task is an example');
-  if(thread.id==='E03')html+=shot(`QUIZ-${archetype}-archetype`,archetype==='weaver'?640:900);
   html+=shot(`QUIZ-${archetype}-role-0${role}`,1060);
-  const proposed=thread.id==='C08'?item.facts.join('\n'):item.facts.filter(f=>f.startsWith('Example')).join('\n');
+  const proposed=id==='C08-5'?'Affected function\nFailing test\nProposed fix':thread.id==='C08'?item.facts.join('\n'):item.facts.filter(f=>f.startsWith('Example')).join('\n');
   html+=answer('Proposed practice output',proposed);
   return{headline:post.visual.headline,html,kind:'real-quiz-and-practice-caption',footer:'Career quiz · Real application rendered locally',className:archetype==='weaver'?'compact':''};
 }
@@ -141,25 +153,26 @@ function resumePlan(thread,post) {
   let html=scope('Fictional practice example · Actual Resume Builder');
   let headline=post.visual.headline;
   if(thread.id==='N05') {
-    if(post.number===1)html+=shot('RESUME-junior-summary',1050)+note('Example wording. No real candidate or employment claim.');
-    if(post.number===2)html+=shot('RESUME-junior-project-name-role',1000)+shot('RESUME-junior-project-after',1020);
-    if(post.number===3)html+=shot('RESUME-junior-project-after',1000)+answer('Example assertions','Unauthorized callers revert.\nRepeat withdrawals revert.',['These are example resume assertions, not results from a real repository.']);
-    if(post.number===4)html+=shot('RESUME-junior-project-after',1000)+shot('RESUME-junior-project-link',1000)+note('Proposed README command: forge test. The fictional sample has no repository.');
+    if(post.number===1){headline='A junior practice resume';html+=shot('RESUME-junior-summary',1050);}
+    if(post.number===2)html+=shot('RESUME-junior-project-after',1020);
+    if(post.number===3){headline='Name the failure cases';html+=shot('RESUME-junior-project-after',1000)+note('Example assertions, not real test results.');}
+    if(post.number===4)html+=shot('RESUME-junior-project-link',1000)+answer('Proposed README','Run forge test. Unauthorized callers and repeat withdrawals revert.',['This fictional sample has no repository.']);
     if(post.number===5)html+=shot('RESUME-junior-skills',1128)+note(post.text);
     if(post.number===6) {
       headline='Completed practice resume';
-      html=scope('Project + skills excerpts · No employment entries')+shot('RESUME-junior-project-after',900)+shot('RESUME-junior-skills',900);
+      html=scope('Fictional practice resume')+shot('RESUME-junior-project-after',900)+body('Skills: Solidity, Foundry, Git, README writing.')+note('Experience and Education are empty. Download PDF exports the preview.');
     }
   } else {
     if(post.number<=3) {
       const variant=['technical','community','content'][post.number-1];
-      html+=`<p class="caption">Before</p>`+shot(`RESUME-${variant}-project-before`,1080)+`<p class="caption">After</p>`+shot(`RESUME-${variant}-project-after`,1080);
+      html+=answer('Before · practice wording',post.visual.items[0].facts[0].replace('Example wording: ',''))+`<section class="quiz-role"><p class="caption">After · actual builder preview</p>${shot(`RESUME-${variant}-project-after`,1072)}</section>`;
     } else if(post.number===4) {
       headline='Three practice summaries';
-      html=['technical','community','content'].map((v,i)=>`<section class="quiz-role"><p class="caption">${esc(post.visual.items[i].title)}</p>${shot(`RESUME-${v}-summary-text`,1000)}</section>`).join('');
+      html=['technical','community','content'].map(v=>shot(`RESUME-${v}-summary-text`,1000)).join('');
     } else if(post.number===5) {
-      html=scope('Fictional practice projects · Walkthrough prompts')+shot('RESUME-technical-project-after',970)+shot('RESUME-community-project-after',970)+note('Technical: disconnect, load balance, simulate RPC error.\nSupport: classify, assign, record resolution.');
-    } else html+=shot('RESUME-content-project-after',1128)+answer('Key Projects & Portfolio','Project Name · Your Role · Description · Link',['The sample link is empty. Download PDF exports the preview.']);
+      headline='Interview walkthroughs';
+      html=scope('Fictional practice prompts')+`<section class="quiz-role">${shot('RESUME-technical-summary-text',970)}${body('Technical: disconnect the wallet, load a balance, simulate an RPC error.')}</section><section class="quiz-role">${shot('RESUME-community-summary-text',970)}${body('Support: classify, assign, record the resolution.')}</section>`;
+    } else {headline='Use the project fields';html+=shot('RESUME-content-project-after',1128)+answer('Key Projects & Portfolio','Project Name · Your Role · Description · Link',['The sample link is empty. Download PDF exports the preview.']);}
   }
   return{headline,html,kind:'genuine-resume-example',footer:'Resume Builder · Real app, local capture · Fictional sample',className:'compact'};
 }
@@ -173,7 +186,8 @@ function lessonPlan(thread,post) {
     html=scope(post.visual.labels.join(' · '))+shot('lesson-'+names[post.number-2],1128)+answer('Lesson summary · authored',post.text.split('\n').slice(1).join('\n'));
     if(post.number===4)html=scope(post.visual.labels.join(' · '))+shot('N09-04-transfer-excerpt',1128,'Actual test_Transfer excerpt; this is not a test-result log.')+answer('Lesson summary · Sample raw units',post.text.split('\n').slice(1).join('\n'));
   }
-  return{headline:post.visual.headline,html,kind:'real-lesson-and-authored-summary',footer:'Live Hashtag Web3 lesson excerpt · Course context from manuscript',className:post.number===4?'compact':''};
+  if(post.number===2)html=scope('Web3 Fundamentals · Lesson 5 of 15')+shot('lesson-wallet',1072)+answer('Lesson summary · authored','A wallet signs messages and transactions. A signature proves account control, not legal identity.');
+  return{headline:post.number===1?'Five course selections':post.visual.headline,html,kind:'real-lesson-and-authored-summary',footer:'Hashtag Web3 learning library · Live excerpt',className:post.number===4?'compact':''};
 }
 
 function legalPlan(thread,post) {
@@ -181,22 +195,44 @@ function legalPlan(thread,post) {
   let html=scope((thread.id==='C05'?'Remote-work route':thread.id==='N07'?'US ordinary passport · Tourism':'Indian ordinary passport · Tourism')+'\nRules checked October 20, 2026');
   const selected=items.find(i=>countryPhotos[i.country])||item;
   const photoSlug=countryPhotos[selected.country];
-  html+=photoSlug?photo(photoSlug,340):image('flag-'+selected.country,'flag-photo');
-  html+=`<p class="photo-credit">${esc(photoSlug==='taipei'?'Taipei photo: Travel Taipei. Rule summary below.':photoSlug?`Place illustration: ${photoSlug.replaceAll('-',' ')}. Rule summary below.`:'Country flag. Rule summary below is authored from official sources.')}</p>`;
-  html+=`<p class="legal-summary">${esc(post.text)}</p>`;
-  const extras={
-    'C04-3':'Extension up to 30 days is discretionary.',
-    'C04-6':'Actual visit length is decided at entry. Gainful activity requires a valid residence permit.',
-    'C05-3':'Foreign employer for employees; freelancers may serve Malaysian clients. Contracts must have started at least 3 months before application.',
-    'C05-5':'Renewal requires at least 80 days physically in Costa Rica. Each dependant needs full-stay medical cover.',
-    'N07-3':'Count starts the day after arrival. The ordinary tourist stay is non-extendable.',
-    'E09-3':'INR 6,000 is the adult SDF only, not a trip price. Stay follows the approved permit dates.',
-    'E09-4':'Admissibility is assessed at arrival. No numerical stay limit is asserted here.',
-    'E09-5':'The e-VOA must be used within 90 days of issue; this is not a 90-day stay.',
+  const excerpts={
+    'C04-1': {rows:[['Malaysia','Up to 30 visa-free days; exemption ends December 31, 2026.'],['Kazakhstan','Up to 14 days per entry; 42 days in any 180-day period.']],note:'Five destinations in this thread. Entry documents and conditions apply.'},
+    'C04-2': {rows:[['Stay','Up to 30 visa-free days; exemption ends December 31, 2026.'],['Documents','Passport valid 6 months, confirmed return ticket and hotel booking.'],['Arrival card','Submit Malaysia Digital Arrival Card 3 days before arrival.']]},
+    'C04-3': {rows:[['Stay','30 visa-free days; maximum 2 entries per calendar year. Effective September 15, 2026.'],['Before arrival','TDAC within 3 days; accommodation and onward travel within 30 days.'],['Funds','THB 20,000/person or THB 40,000/family.']],note:'An extension of up to 30 days is discretionary.',noPhoto:true},
+    'C04-4': {rows:[['Per entry','Up to 14 visa-free calendar days from border crossing.'],['Total limit','42 calendar days in any 180-day period.']],note:'Leaving and returning does not reset the 42-day allowance.'},
+    'C04-5': {rows:[['Stay','14 visa-free days, non-extendable and non-convertible.'],['Documents','Hotel, funds and onward/return proof. Passport valid 6 months beyond the stay.']],note:'Transit-only trips still require a transit visa.'},
+    'C04-6': {rows:[['Visa','No visa required for Indian passports.'],['Tourist ceiling','Up to 6 months per calendar year; actual visit length is decided at entry.'],['Documents','Return ticket, confirmed stay and funds. Passport must outlast the stay.']],note:'Gainful activity requires a valid residence permit.'},
+    'C05-1': {rows:[['Japan','Digital Nomad: 6 months, no extension.'],['Thailand DTV','5-year multiple-entry validity; 180 days per entry.']],note:'Five routes in this thread. Worker, money, nationality and application-location requirements differ.'},
+    'C05-2': {rows:[['Funds','THB 500,000 financial evidence, plus remote-work/freelance evidence.'],['Duration','5-year multiple-entry visa; 180 days per entry. One extension up to 180 days, then depart and re-enter.'],['London only','Permanent residence in UK, Ireland or British Overseas Territories; police clearance issued within 6 months.']],note:"Apply within London's consular jurisdiction."},
+    'C05-3': {rows:[['Tech income','USD 24,000/year minimum for freelancers or remote employees.'],['Non-tech income','USD 60,000/year minimum.'],['Pass + territory','3-12 months; up to 24 with renewal. Peninsular Malaysia and Labuan.']],note:'Employees need a foreign employer; freelancers may serve Malaysian clients. Contracts must have started at least 3 months before application.'},
+    'C05-4': {rows:[['Annual income','At least JPY 10 million for remote work.'],['Insurance','Death, injury or illness cover; at least JPY 10 million for injury/illness treatment.'],['Stay','6 months, no extension.']],note:'Principal-applicant nationality list: US included; India absent. The spouse/child list differs.'},
+    'C05-5': {rows:[['Monthly income','USD 3,000 individual / USD 4,000 with dependants, from overseas work. Evidence for the previous year.'],['Medical cover','At least USD 50,000 for the full stay; each dependant covered.'],['Estancia','1 year, renewable once.']],note:'Renewal requires at least 80 days physically in Costa Rica.'},
+    'C05-6': {rows:[['Expected income','At least USD 50,000 over the intended 12 months.'],['Fee after approval','USD 2,000 individual / USD 3,000 family; non-refundable.'],['Work + duration','12 months of remote work for overseas clients or employers.']],note:'Reapplication is possible after the year.'},
+    'N07-1': {rows:[['Japan','90-day short-stay visa exemption.'],['Thailand','30 tourist days under the September 15, 2026 scheme.'],['United Kingdom','Visa-exempt tourism; advance ETA required unless individually exempt.']],note:'Five destinations in this thread, with stay limits and entry documents.'},
+    'N07-2': {rows:[['Short stay','90 days under the visa exemption for US citizens.'],['Activity limit','No income-earning activities under this exemption.']],note:'Sightseeing fits this route. Paid work needs the appropriate immigration status.'},
+    'N07-3': {rows:[['Stay','Up to 90 days, counted from the day after arrival; non-extendable tourist stay.'],['Documents','US passport valid for the whole stay; confirmed return/onward travel and onward visa if required.'],['Arrival card','Submit within 7 days before arrival.']],noPhoto:true},
+    'N07-4': {rows:[['Permission','US citizens need neither visitor visa nor eTA.'],['Duration','Usually up to 6 months; the officer can set a different end date.'],['Passport','Valid US passport. Follow any date on the entry record.']],note:'Without a stamp, earlier passport expiry can shorten the default stay.',noPhoto:true},
+    'N07-5': {rows:[['Tourist stay','Visa-free for up to 6 months; passport must cover the stay.'],['ETA','Normally required before travel; GBP 20 per application. Each traveller, including children, needs one.'],['Entry evidence','Funds and plans to leave after the visit.']],note:'British/Irish citizenship or existing UK permission may exempt an individual from ETA.',noPhoto:true},
+    'N07-6': {rows:[['Stay','30 visa-free days; maximum 2 exemption entries per calendar year.'],['Before arrival','Free TDAC within 3 days. Accommodation and onward-travel proof within 30 days.'],['Funds','THB 20,000/person or THB 40,000/family.']],note:'The September 2026 scheme applies. A 30-day extension is discretionary.',noPhoto:true},
+    'E09-1': {rows:[['Nepal','Visa-free for Indian nationals.'],['Indonesia','B1 visa on arrival: IDR 500,000 for up to 30 days.'],['Vietnam','Advance eVisa, up to 90 days; single or multiple entry.']],note:'Five tourist-entry examples in this thread. These are different permission routes.'},
+    'E09-2': {rows:[['Visa','Indian nationals do not need a visa.'],['Accepted ID','Valid Indian passport or Election Commission voter card.']],note:'Nepal Tourism Board says Aadhaar is not an accepted travel document.'},
+    'E09-3': {rows:[['Entry permit','Required for Indian visitors. Carry Indian passport or voter ID; stay follows approved permit dates.'],['Adult SDF','INR 1,200/night. Five inland nights = INR 6,000 SDF only.'],['Other costs','Accommodation and mandatory guide are additional.']]},
+    'E09-4': {rows:[['Permission','Tourist visa issued on arrival; admissibility assessed at arrival.'],['Documents','MRZ passport valid at least 1 month, prepaid registered accommodation and return ticket.'],['Declaration','Each traveller submits free IMUGA within 96 hours before arrival.']],note:'Check the stay granted at arrival. IMUGA is a declaration, not an eVisa.'},
+    'E09-5': {rows:[['B1 tourist visa','IDR 500,000; up to 30 days, one extension to 60 days total. Indian passports eligible.'],['Documents','Passport valid at least 6 months; onward/return ticket.']],note:'Online e-VOA is available. Use within 90 days of issue; this is not a 90-day stay.'},
+    'E09-6': {rows:[['Advance eVisa','Up to 90 days for Indian tourists.'],['Fees','USD 25 single-entry / USD 50 multiple-entry; no refund if refused.'],['Entry conditions','Valid passport; follow granted dates and use designated eVisa gates.']]},
   };
-  if(extras[thread.id+'-'+post.number])html+=note(extras[thread.id+'-'+post.number]);
-  const source=thread.sources.find(s=>s.supports?.some(s=>s.posts.includes(post.number)));
-  return{headline:post.visual.headline,html,kind:photoSlug?'country-photo-and-rule-summary':'native-flag-and-rule-summary',footer:'Official rules: '+new URL(source.url).hostname.replace('www.','')};
+  const excerpt=excerpts[thread.id+'-'+post.number];
+  const usePhoto=items.length===1&&photoSlug&&thread.id!=='C05'&&!excerpt.noPhoto;
+  if(usePhoto)html+=photo(photoSlug,240);
+  else if(items.length===1&&!photoSlug)html=`<div class="legal-scope">${html}${image('flag-'+selected.country)}</div>`;
+  else html=`<div class="legal-scope">${html}${photo(photoSlug,96)}</div>`;
+  html+=detailRows(excerpt.rows);
+  if(excerpt.note)html+=note(excerpt.note);
+  const authorities=[...new Set(thread.sources.filter(s=>s.supports?.some(s=>s.posts.includes(post.number))).map(s=>new URL(s.url).hostname.replace('www.','')))];
+  const sourceLabels={'C04-1':'HCI Kuala Lumpur · Malaysia Immigration · Kazakhstan MFA','C05-1':'Japan MOFA · Royal Thai Embassy, London','N07-1':'Japan MOFA · Thai Embassy · GOV.UK','E09-1':'Nepal Tourism Board · Indonesia Immigration · Vietnam Government'};
+  const authorityLabels={'C04-2':'HCI Kuala Lumpur · Malaysia Immigration','C04-3':'Thai embassies · Thailand MFA','C05-2':'Royal Thai Embassy, London','C05-4':'Japan MOFA · Immigration Services Agency','N07-5':'GOV.UK','N07-6':'Thai embassies · Thailand MFA'};
+  const credit=photoSlug?` · Photo: ${cities.get(photoSlug)?.name||selected.country}${photoSlug==='taipei'?' / Travel Taipei':''} (illustration)`:'';
+  return{headline:thread.id==='C05'&&post.number===2?'Thailand DTV: eligibility':thread.id==='E09'&&post.number===5?'Indonesia: B1 tourist visa':post.visual.headline,html,kind:photoSlug?'country-photo-and-rule-summary':'native-flag-and-rule-summary',footer:'Official rules: '+(sourceLabels[thread.id+'-'+post.number]||authorityLabels[thread.id+'-'+post.number]||authorities.join(' · '))+credit};
 }
 
 function citizenshipAsset(thread,item) {
@@ -206,6 +242,20 @@ function citizenshipAsset(thread,item) {
 function citizenshipPlan(thread,post) {
   const items=post.visual.items;
   let headline=post.visual.headline, html=scope(thread.id==='E06'?'Published USD bases · Fees and approval checks additional':'One main applicant · Published currencies · Fees extra');
+  if(thread.id==='C10')headline=post.number===1?'Contribution or deposit':'Itemized costs: '+items[0].country;
+  if(thread.id==='E06') {
+    const comparisons={
+      1:{headline:'Property holds: 3, 5 or 7 years',rows:[['Dominica','3 years from citizenship; 5 years before resale to another CBI applicant.'],['Saint Kitts and Nevis','Approved developer property: minimum 7-year hold.']],note:'Five Caribbean programs. Qualifying family and asset conditions differ; fees additional.'},
+      2:{headline:'Dominica: contribution or property',rows:[['EDF contribution','USD 200,000 single / USD 250,000 applicant + up to 3 qualifying dependants.'],['Approved property','From USD 200,000 + USD 75,000 main-applicant government fee.'],['Property hold','3 years from citizenship; 5 years before resale to another CBI applicant.']],note:'Other fees are separate.'},
+      3:{headline:'Antigua and Barbuda: two routes',rows:[['NDF contribution','USD 230,000 for up to 4 qualifying family members + USD 20,000 processing.'],['Approved property','From USD 300,000.'],['Property hold','5 years from purchase, unless replaced with another officially approved property.']],note:'Larger NDF families retain the USD 230,000 base; incremental processing and other fees apply.'},
+      4:{headline:'Grenada: two routes',rows:[['NTF contribution','USD 235,000, up to 4 qualifying family members. Extra for siblings and parents/grandparents ≤55.'],['Tourism share','USD 270,000 + USD 50,000 government contribution. Approved units, 2+ joint buyers; developer equity conditions.'],['CBI resale','5 years from citizenship before resale to another CBI applicant.']],note:'General approved-project threshold: USD 350,000. Other fees additional.'},
+      5:{headline:'Saint Kitts and Nevis: a 7-year hold',rows:[['SISC contribution','USD 250,000 for one applicant or up to 4 qualifying family members.'],['Extra dependants','USD 25,000 under 18 / USD 50,000 at 18+.'],['Developer property','From USD 325,000; minimum 7-year hold. USD 25,000 main-applicant post-approval fee.']],note:'Approved developer units only. Due diligence and purchase costs extra.'},
+      6:{headline:'Saint Lucia: contribution or bonds',rows:[['NEF contribution','USD 240,000: applicant + up to 3 qualifying dependants.'],['National Action Bonds','USD 300,000 + USD 50,000 administration. Any number of qualifying dependants.'],['Bond hold',"5 years from first issue, in applicant's name; no interest."]],note:'USD 350,000 financial-resources declaration also applies. Processing, due diligence and other fees extra.'},
+    };
+    const comparison=comparisons[post.number];
+    html=shot(citizenshipAsset(thread,items[0])+'-identity',672)+detailRows(comparison.rows)+note(comparison.note+' Approval checks apply.');
+    return{headline:comparison.headline,html,kind:'genuine-citizenship-crop-and-comparison',footer:'Citizenship directory · Local capture; comparison from official program rules'};
+  }
   if(items.length===2) {
     const selections={
       'C02-1':[['USD 90,000 fund donation'],['Qualifying property · 3-year resale restriction']],
@@ -217,12 +267,12 @@ function citizenshipPlan(thread,post) {
       'E06-1':[['Property hold: 3 years from citizenship; 5 years for resale to another CBI applicant.'],['Approved developer property: minimum 7-year hold.']],
       'C10-1':[['EDF USD 200,000 + four listed fees USD 10,000 = USD 210,000 subtotal.'],['USD 500,000 deposit capital + USD 10,000 application fee. Capital repayment is in EGP.']],
     };
-    html+=items.map((item,i)=>`<section class="country-block"><h2>${esc(item.country)}</h2>${shot(citizenshipAsset(thread,item)+(thread.id==='E06'?'-identity':'-price'),960)}${facts(selections[thread.id+'-'+post.number][i])}</section>`).join('');
-    if(thread.id==='C02'&&post.number===1)html+=note('Selected from 10 routes in this thread. Eligibility and approval required; amounts are not all-inclusive prices.');
+    html+=items.map((item,i)=>`<section class="country-block"><div class="country-price"><h2>${esc(item.country)}</h2>${shot(citizenshipAsset(thread,item)+'-price',740)}</div>${facts(selections[thread.id+'-'+post.number][i])}</section>`).join('');
+    if(thread.id==='C02'&&post.number===1)html+=note('10 selected routes. Eligibility and approval required; amounts exclude fees.');
     else if(thread.id==='C02'&&post.number===5)html+=note('Submission, document and due-diligence fees are additional.');
     else if(thread.id==='C10')html+=note('Unlisted professional, document and transaction costs remain extra.');
   } else if(thread.id==='C10') {
-    const item=items[0];html+=shot(citizenshipAsset(thread,item)+'-price',980);
+    const item=items[0];html=scope('One main applicant · USD · Listed fees')+shot(citizenshipAsset(thread,item)+'-identity',672);
     const rows={
       2:[['EDF contribution','200,000'],['Processing','1,000'],['Due diligence','7,500'],['Naturalisation certificate','500'],['Interview','1,000']],
       3:[['NDF contribution','230,000'],['Processing','10,000'],['Due diligence','8,500'],['Passport','300']],
@@ -230,7 +280,7 @@ function citizenshipPlan(thread,post) {
       5:[['Bond capital','300,000'],['Administration','50,000'],['Processing','2,000'],['Due diligence','8,000']],
       6:[['Deposit capital','500,000'],['Non-refundable application fee','10,000']],
     };
-    html+=`<div class="fee-list">${budget(rows[post.number])}</div><p class="fee-total"><small>Authored itemized subtotal · USD</small>${['','', '210,000','248,800','95,750','360,000','510,000'][post.number]}</p>`;
+    html+=`<div class="fee-list">${budget(rows[post.number])}</div><p class="fee-total">USD ${['','', '210,000','248,800','95,750','360,000','510,000'][post.number]} subtotal</p>`;
     const conditions={
       2:'Agent, passport, bank and any enhanced-check costs remain extra.',
       3:'Single applicant. Agent charges additional.',
@@ -244,20 +294,20 @@ function citizenshipPlan(thread,post) {
     const extras={2:'Property government fee: USD 75,000 for the main applicant. Other fees separate.',3:'NDF family up to 4: USD 20,000 processing extra. Qualifying family members only.',4:'The USD 270,000 share is for qualifying approved tourism units, jointly purchased by 2 or more; developer equity conditions apply.',5:'Property post-approval fee: USD 25,000 for the main applicant. Due diligence and purchase costs extra.',6:'USD 350,000 financial-resources declaration also applies. Bond holding runs from first issue; other fees separate.'};
     html+=note(extras[post.number]);
   }
-  return{headline,html,kind:'genuine-citizenship-crop-and-comparison',footer:'Directory excerpt: local capture · Conditions and fees: authored from official sources',className:'compact'};
+  return{headline,html,kind:'genuine-citizenship-crop-and-comparison',footer:'Citizenship directory · Local capture; conditions from official program rules'};
 }
 
 function invoicePlan(thread,post) {
   let html=scope('Fictional sample · USD invoice · Not payable');
   let headline=post.visual.headline;
-  if(post.number===1)html+=shot('INVOICE-sample-header-dates',1128)+note('SAMPLE-016 · All parties fictional.\nWorked total: USD 750.');
-  if(post.number===2)html+=shot('INVOICE-sample-first-row',1128)+answer('Sample line item 1','12 hours × USD 50 = USD 600',['Hours is typed in Description; there is no separate hours selector.']);
+  if(post.number===1){headline='Sample invoice · USD 750';html+=shot('INVOICE-sample-header-dates',1128);}
+  if(post.number===2)html+=shot('INVOICE-sample-first-row',1072)+answer('Description carries the unit','"Hours" is typed in Description; there is no separate hours selector.');
   if(post.number===3)html+=shot('INVOICE-sample-subtotal',1128)+answer('Sample subtotal','USD 600 + USD 200 = USD 800');
-  if(post.number===4)html+=shot('INVOICE-sample-tax-discount',1100)+shot('INVOICE-sample-totals',1000)+note('Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row.');
-  if(post.number===5)html+=shot('INVOICE-sample-notes-readable',1128)+answer('Sample agreement, not a conversion feature','USD 750 billed. Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC.',['Wallet field is empty. Payment Method and Notes are typed text.']);
+  if(post.number===4)html+=shot('INVOICE-sample-totals',1000)+note('Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row.');
+  if(post.number===5)html+=shot('INVOICE-sample-notes-readable',1128)+answer('Typed payment instructions','Payment Method and Notes are text fields. The sample agreement does not convert currencies.',['Wallet field is empty; no payment requested.']);
   if(post.number===6) {
     headline='SAMPLE-016 · USD 750';
-    html=scope('Fictional sample · Due November 30, 2026')+shot('INVOICE-sample-totals',1128)+shot('INVOICE-sample-notes-readable',1128)+note('Payment Method: USDC on Ethereum mainnet, sample only. Wallet field empty. No payment requested.');
+    html=scope('Fictional sample · Due November 30, 2026')+shot('INVOICE-sample-totals',1128)+note('Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested.');
   }
   return{headline,html,kind:'genuine-invoice-example',footer:'Invoice Generator · Real local preview excerpts · No payment requested',className:'compact'};
 }
@@ -269,7 +319,7 @@ window.showRevision=async(threadId,number)=> {
   const fn={city:cityPlan,salary:salaryPlan,'country-market':marketPlan,event:eventPlan,interview:questionPlan,quiz:quizPlan,resume:resumePlan,learning:lessonPlan,passport:legalPlan,visa:legalPlan,citizenship:citizenshipPlan,invoice:invoicePlan}[type];
   if(!fn)throw Error(type);
   const plan=fn(thread,post);
-  const html=`<article class="board ${plan.className||''}" data-id="${thread.id}-${String(number).padStart(2,'0')}"><header><div class="masthead"><img class="wordmark" src="assets/wordmark.png" alt="Hashtag Web3"><p class="serial">${esc(topic[thread.id])}</p></div><h1 class="heading${plan.headline.length>65?' long':''}">${esc(plan.headline)}</h1></header><section class="stage">${plan.html}</section><footer class="footer"><p class="source">${esc(plan.footer||'City photos: existing directory assets · Authored data labels')}</p><p class="count">${thread.id} · ${number}/6</p></footer></article>`;
+  const html=`<article class="board ${plan.className||''}" data-id="${thread.id}-${String(number).padStart(2,'0')}"><header><div class="masthead"><img class="wordmark" src="assets/wordmark.png" alt="Hashtag Web3"><p class="serial">${esc(topic[thread.id])}</p></div><h1 class="heading${plan.headline.length>65?' long':''}">${esc(plan.headline)}</h1></header><section class="stage">${plan.html}</section><footer class="footer"><p class="source">${esc(plan.footer||'Source: Hashtag Web3 city directory')}</p><p class="count">${thread.id} · ${number}/6</p></footer></article>`;
   document.querySelector('#mount').innerHTML=html;
   await document.fonts.ready;
   await Promise.all([...document.images].map(i=>i.decode()));

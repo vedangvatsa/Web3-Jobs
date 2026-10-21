@@ -1,5 +1,7 @@
 # Practical whole-site image revision
 
+The October 21 white-background and spacing update is documented in `WHITE-REVISION.md`. It retains the same post text and dates, with new image hashes and matching publication alt text.
+
 The final `content.json` and `calendar.json` drive 27 future threads, six images each. The renderer produces 162 replacement 1200 × 1500 sRGB JPEGs and retains the 18 published C01/E01/N01 images. The manifest continues to contain all 180 entries.
 
 ## Preview and reproduce

@@ -28,6 +28,8 @@ const jobs=content.threads.filter(t=>t.sequence>3).sort((a,b)=>a.sequence-b.sequ
 function inspectBoard(board) {
   const issues=[],contrastFailures=[],textBoxes=[],fonts=[];
   const box=board.getBoundingClientRect(),stage=board.querySelector('.stage'),sb=stage.getBoundingClientRect(),footer=board.querySelector('.footer').getBoundingClientRect();
+  if(getComputedStyle(board).backgroundColor!=='rgb(255, 255, 255)')issues.push({type:'board-background-not-white'});
+  if(sb.left-box.left<64||box.right-sb.right<64)issues.push({type:'outer-gutter-too-small'});
   const lum=color=>{const c=color.match(/[\d.]+/g).slice(0,3).map(Number).map(v=>{v/=255;return v<=.04045?v/12.92:((v+.055)/1.055)**2.4});return .2126*c[0]+.7152*c[1]+.0722*c[2]};
   const walker=document.createTreeWalker(board,NodeFilter.SHOW_TEXT);let node;
   while((node=walker.nextNode())) {
@@ -44,14 +46,16 @@ function inspectBoard(board) {
     for(const r of rects) {
       if(r.left<box.left-1||r.right>box.right+1||r.top<box.top-1||r.bottom>box.bottom+1)issues.push({type:'glyph-outside-board',text:node.textContent});
       if(stage.contains(element)&&r.bottom>sb.bottom+1)issues.push({type:'stage-text-overflow',text:node.textContent,bottom:r.bottom,limit:sb.bottom});
-      const container=element.closest('.answer,.country-block,.salary-row,.city-row,.city-pair,.metric,.event-row');
+      const container=element.closest('.answer,.country-block,.salary-row,.city-row,.city-pair,.metric,.event-row,.detail-row,.slot');
       if(container){const c=container.getBoundingClientRect();if(r.left<c.left-1||r.right>c.right+1||r.bottom>c.bottom+1)issues.push({type:'text-outside-container',text:node.textContent});}
       for(const previous of textBoxes)if(previous.element!==element&&Math.min(previous.right,r.right)-Math.max(previous.left,r.left)>2&&Math.min(previous.bottom,r.bottom)-Math.max(previous.top,r.top)>2)issues.push({type:'text-collision',a:previous.text,b:node.textContent});
       textBoxes.push({left:r.left,right:r.right,top:r.top,bottom:r.bottom,text:node.textContent,element});
     }
   }
   const sourceImages=[...stage.querySelectorAll('img')].map(img=>{
-    const b=img.getBoundingClientRect();
+    const b=img.getBoundingClientRect(),style=getComputedStyle(img);
+    if(/capture/.test(img.dataset.sourceKind)&&style.objectFit!=='contain')issues.push({type:'capture-not-contained',file:img.getAttribute('src')});
+    if(img.classList.contains('landmark')&&style.objectFit!=='contain')issues.push({type:'landmark-not-contained',file:img.getAttribute('src')});
     if(b.bottom>sb.bottom+1||b.right>sb.right+1||b.left<sb.left-1)issues.push({type:'image-stage-overflow',file:img.getAttribute('src'),bottom:b.bottom,limit:sb.bottom});
     for(const text of textBoxes)if(Math.min(text.right,b.right)-Math.max(text.left,b.left)>2&&Math.min(text.bottom,b.bottom)-Math.max(text.top,b.top)>2)issues.push({type:'text-image-collision',text:text.text,file:img.getAttribute('src')});
     return{assetId:img.dataset.asset,path:img.getAttribute('src'),renderedWidth:b.width,renderedHeight:b.height,naturalWidth:img.naturalWidth,naturalHeight:img.naturalHeight,objectFit:getComputedStyle(img).objectFit};
@@ -151,10 +155,10 @@ await fs.mkdir(path.join(root,'assets/revision/mobile'),{recursive:true});
 for(const thread of content.threads.filter(t=>t.sequence>3)) {
   if(selected&&!selected.some(s=>s===thread.id||s.startsWith(thread.id+'-')))continue;
   const members=images.filter(i=>i.threadId===thread.id),layers=[];
-  const header=Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="1206" height="80"><rect width="100%" height="100%" fill="#f5f4ef"/><text x="12" y="28" font-family="Arial" font-size="21" fill="#171719">${esc(thread.id+' · '+thread.title)}</text><text x="12" y="59" font-family="Arial" font-size="20" fill="#176349">${esc(calendar.dates.find(d=>d.id===thread.id).date)} · Six replacement masters · Each image at 390 px</text></svg>`);
+  const header=Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="1206" height="80"><rect width="100%" height="100%" fill="#fff"/><text x="12" y="28" font-family="Arial" font-size="21" fill="#171719">${esc(thread.id+' · '+thread.title)}</text><text x="12" y="59" font-family="Arial" font-size="20" fill="#176349">${esc(calendar.dates.find(d=>d.id===thread.id).date)} · Six replacement masters · Each image at 390 px</text></svg>`);
   layers.push({input:header,left:0,top:0});
   for(const [index,image] of members.entries())layers.push({input:await sharp(path.join(root,image.path)).resize(390,488).toBuffer(),left:6+(index%3)*402,top:86+Math.floor(index/3)*500});
-  await sharp({create:{width:1206,height:1080,channels:3,background:'#deded8'}}).composite(layers).jpeg({quality:91,chromaSubsampling:'4:4:4'}).toFile(path.join(root,'contact-sheets',thread.id+'.jpg'));
+  await sharp({create:{width:1206,height:1080,channels:3,background:'#fff'}}).composite(layers).jpeg({quality:91,chromaSubsampling:'4:4:4'}).toFile(path.join(root,'contact-sheets',thread.id+'.jpg'));
   for(const image of members)await sharp(path.join(root,image.path)).resize(390,488).jpeg({quality:93,chromaSubsampling:'4:4:4'}).toFile(path.join(root,'assets/revision/mobile',path.basename(image.path)));
 }
 await protect();

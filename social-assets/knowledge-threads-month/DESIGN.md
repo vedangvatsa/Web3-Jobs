@@ -1,6 +1,6 @@
 # Knowledge threads visual direction
 
-Approved direction: the published nomad resource thread's black, white and ivory palette, existing Hashtag Web3 wordmark, existing Inter font, restrained green and large, mobile-readable headings. Antislop applies DURING production, as already approved by the user.
+Approved direction, updated October 21: pure white boards, black ink, the existing Hashtag Web3 wordmark and Inter font, restrained green, large mobile-readable headings, and more breathing room. The user specifically prefers whitespace over filling the canvas. Antislop applies DURING production, as already approved by the user. The historical decisions below document earlier batches; the October 21 section governs future frames.
 
 Reading this as: educational social sequences for Web3 professionals, beginners and remote workers, in the approved editorial resource-thread language. ENERGY 2 / RHYTHM 3 / MOTION 1.
 
@@ -43,3 +43,22 @@ Reading this as: practical evidence-led social sequences for Web3 professionals 
 - The gallery puts actual post text and calendar dates beside every image. The 27 future threads appear first; the three frozen threads are explicitly labeled published history. Narrow screens stack image and text.
 
 Current production records: `assets/revision/source-credits.json`, `assets/revision/capture-credits.json`, `assets/render-checks.json`, and `assets/revision/validation.json`. Reproduction commands and reviewed exceptions are in `REVISION.md`.
+
+## October 21 user-approved spacing revision
+
+Reading this as: calm, evidence-led educational sequences for Web3 professionals and remote workers, using the existing editorial identity with more local separation. ENERGY 2 / RHYTHM 3 / MOTION 1. The user's latest whitespace preference takes precedence over audit 002's suggestions to occupy unused space.
+
+- Board, gallery and replacement contact-sheet backgrounds are pure white `#fff`, as requested. Ink remains `#171719`; green `#176349` identifies scope and selected comparisons.
+- Outer gutters are 64 px. Major blocks are separated by 32 px; fact and answer groups use 28 px. Authored body copy stays at 44 px with 1.35–1.4 line height so the spacing improvement survives phone-size viewing.
+- The hierarchy is title, genuine evidence or place photograph, separated facts, a necessary qualification, then source credit. Short frames may leave open lower space; content is never stretched to fill it.
+- Answer areas are white, with a light divider rather than a padded black rectangle. Questions stay in their original captured pixels; the authored explanation stays visibly separate.
+- Duplicate headings, repeated full-post paragraphs and redundant screenshots are removed from visual excerpts. The full manuscript and gallery post text remain unchanged. Captured text is never reconstructed, clipped, recolored or distorted.
+- Fiscal comparisons use labeled rows with equal emphasis for alternatives. Currency, period, family coverage, extra fees, approval conditions, property restrictions, insurance and eligibility qualifications remain attached to their figures.
+- Flags identify the six countries compactly beside the scope. They do not occupy a decorative hero area. Destination photographs support legal comparisons without displacing the conditions.
+- Singapore, Paris, Siem Reap, Budapest, Prague and Bali photographs use `contain`, including their ranking thumbnails. This preserves the complete silhouette available in each original. Bali's original already cuts the very top of the pagoda; the renderer does not crop further.
+- Solidity examples use an explicitly illustrative modifier fragment and aligned 32-byte storage slots. They retain initialization, gas-access-pattern and deployed-proxy qualifications, without editor-window decoration.
+- Footers credit reader-facing sources and retain local-capture, authored-summary, model and fictional-sample labels. Multi-country legal openers identify the authorities for all displayed countries. Tallinn credits Kaupo Kalda / Visit Tallinn, following the parallel source correction.
+- The gallery remains stacked on narrow screens, with larger gaps and white surroundings. The published C01, E01 and N01 masters and contact sheets are frozen.
+- Existing 42 px authored-text minimum, 4.5:1 contrast, overflow and collision gates remain. Geometry checks additionally require white boards, at least 64 px outer gutters, contained captures and contained landmark photos. Audit-only runs write diagnostics, not masters; the parent owns the full production render.
+
+Validation: the 162-frame audit-only pass reported zero layout issues, contrast failures, missing images or page errors. Phone-size visual review covered C02-06, E06-04, C05-03, C04-04, E07-06, E03-04, C09-02, N03-06, N10-05, E05-02, E08-01 and C06-06. The gallery at 390 px has a white background, a single image/text stack and no horizontal overflow. The legal excerpt review checked the unchanged manuscript against the new visa and fiscal rows, including currency/period distinctions, jurisdiction and nationality, family qualifications, extra fees, holding periods and admission discretion. Production masters and the manifest are regenerated by the parent after handoff.

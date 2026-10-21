@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T16:45:27.246Z",
-  "contentSha256": "9c0125c909f990d1688c991baaf6d0be0ba6cf8e64d0e626498c8e0fef1fc5b8",
+  "generatedAt": "2026-10-21T10:46:44.187Z",
+  "contentSha256": "7686e0316aa3d36c8623ff1c1f187da4ed44db9d284c8e2a4d5acbbd51072c45",
   "assets": [
     {
       "file": "assets/revision/photos/batumi.webp",
@@ -418,16 +418,60 @@
     },
     {
       "file": "assets/revision/photos/tallinn.webp",
-      "sha256": "3df729092bdd4f1f9f830bded8eb9ce03247e79db34722d489826539fdc6c7bb",
-      "bytes": 119270,
-      "width": 800,
-      "height": 500,
+      "sha256": "3660e128279eb781d0884ee42711f2eb63b04d634f8a35eb7e5d77b00b0259ed",
+      "bytes": 309654,
+      "width": 1200,
+      "height": 800,
+      "slug": "tallinn",
+      "sourceUrl": "https://visittallinn.ee/eng/visitor/see-do/neighbourhoods/old-town",
+      "imageUrl": "https://file.visittallinn.ee/39lbk9/tallinn-old-town-kaupo-kalda-2025-4.jpg",
+      "credit": "Photo: Kaupo Kalda, Visit Tallinn; Toompea and Tallinn Old Town at sunset",
+      "reason": "The mapped Tallinn image visibly shows Barcelona with the Sagrada Familia. Replaced with the credited official Visit Tallinn photograph of Toompea and Tallinn Old Town.",
+      "sourceEvidence": {
+        "pageTitle": "Old Town - Visit Tallinn",
+        "heading": "Tallinn Old Town",
+        "publisher": "The Tourism Department of Tallinn Strategic Management Office",
+        "photoTitle": "Toompea and Tallinn Old Town at sunset",
+        "photoDescription": "View of Toompea and Tallinn Old Town at sunset with church towers and red rooftops in warm evening light",
+        "photoCredit": "Kaupo Kalda",
+        "mediaId": 35778,
+        "originalName": "tallinn old town_kaupo kalda_2025 (4).jpg",
+        "originalPath": "/39lbk9/tallinn-old-town-kaupo-kalda-2025-4.jpg",
+        "publishedWidth": 6000,
+        "publishedHeight": 4000,
+        "evidenceLocation": "Credited photo gallery and the matching IMAGE record in the public page __NUXT_DATA__ payload"
+      },
+      "visualVerification": {
+        "method": "Opened the public original photograph and visually inspected the skyline.",
+        "landmarks": [
+          "Niguliste (St Nicholas) Church tower on the left",
+          "Toompea Hill and its limestone retaining walls",
+          "St Mary's Cathedral bell tower above Toompea",
+          "Red-tiled roofs of Tallinn Old Town"
+        ],
+        "authenticity": "Named photographer and explicit Tallinn location on the municipal tourism page; original JPEG downloaded directly from the page's public image host. No generated imagery, compositing, retouching or content replacement."
+      },
+      "originalFile": "assets/revision/photo-references/tallinn-original.jpg",
+      "originalWidth": 6000,
+      "originalHeight": 4000,
+      "originalBytes": 4626241,
+      "downloadSha256": "21869e3ff97f781f3c1bc0c97e8644b4267b170c6b1b6ac75f67dffd67484838",
+      "download": {
+        "status": 200,
+        "contentType": "image/jpeg",
+        "resolvedUrl": "https://file.visittallinn.ee/39lbk9/tallinn-old-town-kaupo-kalda-2025-4.jpg"
+      },
+      "fetchedAt": "2026-10-21T10:08:33.449Z",
+      "transform": "EXIF orientation, maximum width 1200, no enlargement, WebP quality 92",
+      "replacesDirectoryPhoto": {
+        "file": "public/images/nomads/display/tallinn-9b0e441f706e1c4f-800.webp",
+        "sha256": "3df729092bdd4f1f9f830bded8eb9ce03247e79db34722d489826539fdc6c7bb",
+        "reason": "The mapped Tallinn image visibly shows Barcelona with the Sagrada Familia. Replaced with the credited official Visit Tallinn photograph of Toompea and Tallinn Old Town."
+      },
       "id": "photo-tallinn",
       "kind": "city-photograph",
-      "copiedFrom": "public/images/nomads/display/tallinn-9b0e441f706e1c4f-800.webp",
-      "sourceUrl": "https://images.unsplash.com/photo-1562883676-8c7feb83f09b?auto=format&fit=crop&w=800&q=80",
-      "credit": "Existing Hashtag Web3 nomad-directory image; publisher source recorded in source-data.json",
-      "caption": "tallinn photo. Illustration of place, not a screenshot of a price, rule or measured connection."
+      "copiedFrom": "social-assets/knowledge-threads-month/assets/revision/photo-references/tallinn.webp",
+      "caption": "Actual tallinn photograph from the official tourism source. Place illustration; measurements are separately authored."
     },
     {
       "file": "assets/revision/photos/toronto.webp",
