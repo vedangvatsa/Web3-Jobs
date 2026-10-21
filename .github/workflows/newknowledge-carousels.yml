@@ -1,0 +1,98 @@
+name: Knowledge native carousels
+
+on:
+  workflow_call:
+    inputs:
+      date:
+        type: string
+        required: true
+      mode:
+        type: string
+        default: preflight
+      platform:
+        type: string
+        default: both
+      slot:
+        type: string
+        default: afternoon
+      post_id:
+        type: string
+        default: ''
+    secrets:
+      BUFFER_ACCESS_TOKEN:
+        required: true
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Provider reads only; reconcile may persist a matching known post ID
+        type: choice
+        options: [preflight, reconcile, validate, plan, accounts]
+        default: preflight
+      date:
+        description: Calendar date, 2026-10-21 through 2026-11-16 (empty uses today)
+        type: string
+      platform:
+        type: choice
+        options: [both, linkedin, instagram]
+        default: both
+      post_id:
+        description: Optional Buffer post ID for one-platform reconciliation of an existing claim
+        type: string
+
+concurrency:
+  group: knowledge-carousels-month
+  cancel-in-progress: false
+
+jobs:
+  carousels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Install existing validation dependencies
+        run: npm ci --no-audit --no-fund
+      - name: Test carousel and durable receipt safeguards offline
+        run: node --test scripts/social/newknowledge-carousel-*.test.mjs scripts/social/newknowledge-state.test.mjs
+      - name: Pin checked-out carousel assets
+        run: |
+          node --input-type=module -e 'import fs from "node:fs"; import {execFileSync} from "node:child_process"; const sha=execFileSync("git",["rev-parse","HEAD"],{encoding:"utf8"}).trim(); if(!/^[a-f0-9]{40}$/.test(sha)) throw new Error("Invalid commit"); fs.appendFileSync(process.env.GITHUB_ENV,`KNOWLEDGE_CAROUSEL_ASSET_COMMIT=${sha}\n`);'
+      - name: Inspect or publish the selected native carousel
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          KNOWLEDGE_CAROUSEL_DATE: ${{ inputs.date }}
+          KNOWLEDGE_SLOT: ${{ inputs.slot || 'afternoon' }}
+          MODE: ${{ inputs.mode || 'preflight' }}
+          PLATFORM: ${{ inputs.platform || 'both' }}
+          POST_ID: ${{ inputs.post_id }}
+        run: |
+          args=(--mode="$MODE" --platform="$PLATFORM")
+          if [ -n "$POST_ID" ]; then args+=(--post-id="$POST_ID"); fi
+          node scripts/social/newknowledge-carousels.mjs "${args[@]}"
+      - name: Preserve LinkedIn claims and provider receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: knowledge-carousels-linkedin-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .cache/newknowledge-carousels/*/linkedin/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
+      - name: Preserve Instagram claims and provider receipts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: knowledge-carousels-instagram-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .cache/newknowledge-carousels/*/instagram/
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 90
