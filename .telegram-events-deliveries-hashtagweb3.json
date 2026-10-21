@@ -2747,5 +2747,50 @@
     "slotKey": "2026-10-20:evening",
     "messageId": 155864,
     "sentAt": "2026-10-20T19:32:04.063Z"
+  },
+  "5b9e5fcb-5ea1-46ed-b867-b489b732f75f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T11:31:45.498Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316413134",
+        "slug": "duc-bitcoin-paris-montmartre",
+        "name": "DUC Bitcoin Paris Montmartre",
+        "startDate": "2026-10-21T18:30:00+02:00",
+        "keys": [
+          "mu-316413134",
+          "page:duc-bitcoin-paris-montmartre:2026-10-21",
+          "url:meetup.com/duc-bitcoin-meetup-paris/events/316413134:2026-10-21",
+          "event:ducbitcoinparismontmartre:2026-10-21:paris"
+        ]
+      },
+      {
+        "id": "mu-312264805",
+        "slug": "bitcoin-am-holzmarkt-stammtisch",
+        "name": "Bitcoin am Holzmarkt (Stammtisch)",
+        "startDate": "2026-10-21T19:00:00+02:00",
+        "keys": [
+          "mu-312264805",
+          "page:bitcoin-am-holzmarkt-stammtisch:2026-10-21",
+          "url:meetup.com/bitcoin-lab-berlin/events/312264805:2026-10-21",
+          "event:bitcoinamholzmarktstammtisch:2026-10-21:berlin"
+        ]
+      },
+      {
+        "id": "mu-316573253",
+        "slug": "houston-crypto-meetup-43",
+        "name": "Houston Crypto Meetup #43",
+        "startDate": "2026-10-21T19:00:00-05:00",
+        "keys": [
+          "mu-316573253",
+          "page:houston-crypto-meetup-43:2026-10-22",
+          "url:meetup.com/houston-crypto-group/events/316573253:2026-10-22",
+          "event:houstoncryptomeetup43:2026-10-22:houston"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-21:afternoon"
   }
 }
