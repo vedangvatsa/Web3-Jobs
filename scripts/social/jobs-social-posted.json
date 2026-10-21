@@ -36605,7 +36605,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "6e93b415-de58-4ebf-a7b1-22836f506f10",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad8a344dd065d6158932400"
     }
   ]
 }
