@@ -37584,7 +37584,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "e8e23e86-eead-41b8-97cf-8ab130b84622",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad913487d80fe56e73052dd"
     }
   ]
 }
