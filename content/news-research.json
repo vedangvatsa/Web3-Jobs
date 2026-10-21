@@ -64093,7 +64093,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6dca617d0defbbfe3c4c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 2,
       "expiresAt": "2026-10-22T17:24:49.000Z",
@@ -64123,7 +64123,8 @@
         "Revolut Gibraltar DLT licence announcement second outlet next cycle"
       ],
       "lastReviewedDay": "2026-10-21",
-      "articleSlug": "revolutgib"
+      "articleSlug": "revolutgib",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "205af4907652055aab68": {
       "source": "SEC Press Releases",
@@ -64166,7 +64167,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a944e6e290272f35d0bc",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 2,
       "expiresAt": "2026-10-22T16:47:00.000Z",
@@ -64188,7 +64189,8 @@
         "CFTC CME perpetual futures legal fight order filing"
       ],
       "lastReviewedDay": "2026-10-21",
-      "articleSlug": "cftcperps"
+      "articleSlug": "cftcperps",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "7f027537c43f0a5d4a97": {
       "source": "Crypto Briefing",
@@ -65368,7 +65370,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "774d5fba4508e056932d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
       "attempts": 2,
       "expiresAt": "2026-10-22T22:55:40.000Z",
@@ -65390,7 +65392,8 @@
         "Papertrade PAPER non-transferable announcement next news cycle"
       ],
       "lastReviewedDay": "2026-10-21",
-      "articleSlug": "paperlock"
+      "articleSlug": "paperlock",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "483d74e1673902664736": {
       "source": "Crypto Briefing",
@@ -67852,7 +67855,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "21df07b9a93967d54207",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T13:10:00.000Z",
@@ -67875,7 +67878,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.488Z",
       "articleSlug": "swissetf",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "6d234bda1f982f8893fc": {
       "source": "The Block",
@@ -67951,7 +67955,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "acb3699f6b7c0735291f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T11:12:21.000Z",
@@ -67978,7 +67982,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.488Z",
       "articleSlug": "aifccourt",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "46507d41df7a281f9e7a": {
       "source": "The Defiant",
@@ -68228,7 +68233,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "9067fae932d5a33dd339",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T20:46:04.000Z",
@@ -68251,7 +68256,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.489Z",
       "articleSlug": "driftrancho",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "937795086993e67e6bed": {
       "source": "Cointelegraph",
@@ -68682,7 +68688,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b64aae87099ef6c24dd7",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T23:26:02.000Z",
@@ -68709,7 +68715,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.489Z",
       "articleSlug": "qubicreclaim",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "0b97a84f5176c2c27e11": {
       "source": "Crypto Briefing",
@@ -68839,7 +68846,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7514c2b9253d42b933fb",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T10:00:00.000Z",
@@ -68866,7 +68873,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.488Z",
       "articleSlug": "bitgetthai",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "be747958a2381ef83322": {
       "source": "BeInCrypto",
@@ -69378,7 +69386,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a74ed3db2d403cb14049",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T16:00:00.000Z",
@@ -69401,7 +69409,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.488Z",
       "articleSlug": "agentpay",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "71ccc7371910405863e6": {
       "source": "CryptoSlate",
@@ -70818,7 +70827,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "de22255e9d3ae298fa51",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T21:19:15.000Z",
@@ -70841,7 +70850,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.487Z",
       "articleSlug": "utahkalshi",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "411dbad7ebdb5e6dc778": {
       "source": "BeInCrypto",
@@ -71148,7 +71158,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea90e7a7e81c091a8fa9",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T16:47:48.000Z",
@@ -71171,7 +71181,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.489Z",
       "articleSlug": "injectivekrw",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "fbf2ab6b6c403f6fb6ca": {
       "source": "Cointelegraph",
@@ -71266,7 +71277,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "80642c6e161ec365346e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T16:23:17.000Z",
@@ -71293,7 +71304,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.488Z",
       "articleSlug": "okxobjections",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "f88efe29fd4f88f5f039": {
       "source": "The Block",
@@ -71439,7 +71451,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b13c7836f125db088b7b",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 1,
       "expiresAt": "2026-10-23T15:45:00.000Z",
@@ -71458,7 +71470,8 @@
       ],
       "reviewedAt": "2026-10-21T04:10:34.489Z",
       "articleSlug": "okxshield",
-      "lastReviewedDay": "2026-10-21"
+      "lastReviewedDay": "2026-10-21",
+      "publishedAt": "2026-10-21T04:16:54.297Z"
     },
     "6a066d3cdf54c94da394": {
       "source": "Unchained",
@@ -123874,7 +123887,7 @@
     "2026-10-21": {
       "day": "2026-10-21",
       "startedAt": "2026-10-21T03:31:28.541Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "11b1fcd4953ede934d20",
         "7635a003010366a31247",
@@ -124119,7 +124132,7 @@
           "automatic": true
         },
         "de22255e9d3ae298fa51": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/utahkalshi.md after verifying the Utah AG complaint, restitution range and Kalshi response across Cointelegraph and local TV coverage.",
           "sourceChecks": [
@@ -124137,10 +124150,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.487Z",
-          "articleSlug": "utahkalshi"
+          "articleSlug": "utahkalshi",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "21df07b9a93967d54207": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/swissetf.md after confirming FINMA retail bitcoin fund approval and issuer uncertainty across FINMA, Finews and Cointelegraph.",
           "sourceChecks": [
@@ -124158,10 +124172,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "swissetf"
+          "articleSlug": "swissetf",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "a74ed3db2d403cb14049": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/agentpay.md after verifying early access, x402 flow and pilot partners via Mastercard press materials and Decrypt.",
           "sourceChecks": [
@@ -124179,10 +124194,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "agentpay"
+          "articleSlug": "agentpay",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "7514c2b9253d42b933fb": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/bitgetthai.md after confirming the GMO share transfer structure, Bitget confirmation and hack context via Cointelegraph, Unchained and GMO filings.",
           "sourceChecks": [
@@ -124204,10 +124220,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "bitgetthai"
+          "articleSlug": "bitgetthai",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "acb3699f6b7c0735291f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/aifccourt.md after verifying the AFSA AIFC injunctions against six exchanges via AIFC announcement, CoinDesk and Cointelegraph.",
           "sourceChecks": [
@@ -124229,10 +124246,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "aifccourt"
+          "articleSlug": "aifccourt",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "a944e6e290272f35d0bc": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/cftcperps.md after verifying the CFTC standing brief against CME on perpetual futures via CoinDesk and Bankless.",
           "sourceChecks": [
@@ -124246,10 +124264,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "cftcperps"
+          "articleSlug": "cftcperps",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "6dca617d0defbbfe3c4c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/revolutgib.md after confirming the GFSC DLT licence for Revolut Global Digital Assets Limited via Revolut, Gibraltar government and Cointelegraph.",
           "sourceChecks": [
@@ -124271,10 +124290,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "revolutgib"
+          "articleSlug": "revolutgib",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "80642c6e161ec365346e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/okxobjections.md after verifying the 16-issuer objection count and notice language change via Decrypt, Cointelegraph and Unchained.",
           "sourceChecks": [
@@ -124296,10 +124316,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.488Z",
-          "articleSlug": "okxobjections"
+          "articleSlug": "okxobjections",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "774d5fba4508e056932d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/paperlock.md after confirming the non-transferable PAPER design, staking stats and rationale via Crypto Briefing and Bankless.",
           "sourceChecks": [
@@ -124313,10 +124334,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.489Z",
-          "articleSlug": "paperlock"
+          "articleSlug": "paperlock",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "9067fae932d5a33dd339": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/driftrancho.md after verifying the Tornado Cash deposits and remaining exploiter balances via Decrypt and related chain coverage.",
           "sourceChecks": [
@@ -124334,10 +124356,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.489Z",
-          "articleSlug": "driftrancho"
+          "articleSlug": "driftrancho",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "b13c7836f125db088b7b": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/okxshield.md after confirming US Shield tiers, security prerequisites and discretionary goodwill terms via Unchained and OKX terms.",
           "sourceChecks": [
@@ -124351,10 +124374,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.489Z",
-          "articleSlug": "okxshield"
+          "articleSlug": "okxshield",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "ea90e7a7e81c091a8fa9": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/injectivekrw.md after verifying the Injective-BDACS MOU, KRW1 settlement design and outflow data via Cointelegraph and Markets Insider.",
           "sourceChecks": [
@@ -124372,10 +124396,11 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.489Z",
-          "articleSlug": "injectivekrw"
+          "articleSlug": "injectivekrw",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "b64aae87099ef6c24dd7": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Published content/articles/qubicreclaim.md after confirming the mainnet restart tick, claims window and SlowMist seed analysis via Cointelegraph, Crypto Briefing and SlowMist.",
           "sourceChecks": [
@@ -124397,7 +124422,8 @@
             }
           ],
           "reviewedAt": "2026-10-21T04:10:34.489Z",
-          "articleSlug": "qubicreclaim"
+          "articleSlug": "qubicreclaim",
+          "publishedAt": "2026-10-21T04:16:54.297Z"
         },
         "49fa496cf674e67db3e3": {
           "status": "rejected",
@@ -126600,7 +126626,9 @@
         ],
         "total": 170,
         "checkedAt": "2026-10-21T03:31:28.541Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-21T04:16:54.297Z"
     }
   }
 }
