@@ -35806,7 +35806,8 @@
         "link": "https://hashtagweb3.com/pm259/fb?og=7"
       },
       "attemptId": "c1f0107e-ad8d-499c-81b0-c8ed2f4ea9f0",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
