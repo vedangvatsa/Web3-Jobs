@@ -3360,7 +3360,7 @@
     "sentAt": "2026-10-20T19:32:22.672Z"
   },
   "9519bcbd-d4ff-4eb1-800d-b724644af003": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-21T11:31:57.196Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3450,6 +3450,8 @@
       }
     ],
     "message": "- Bitpanda is hiring <a href=\"https://hashtagweb3.com/mkt53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Growth Analytics</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/dsam?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Dean of Students, Academy of Math and Programming (AMP)</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/ops52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager - Infrastructure</a>",
-    "slotKey": "2026-10-21:afternoon"
+    "slotKey": "2026-10-21:afternoon",
+    "messageId": 155870,
+    "sentAt": "2026-10-21T11:32:00.909Z"
   }
 }
