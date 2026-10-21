@@ -37213,6 +37213,41 @@
       "attemptId": "1ca4d4c5-131d-4ddd-840e-e2c609b637b8",
       "verification": "verified",
       "postId": "0xbb967c4754c71a0fb5bae8305605c7fa27abb47a"
+    },
+    {
+      "slug": "sc",
+      "company": "Elliptic",
+      "title": "Principal Solutions Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T11:35:02.319Z",
+      "expectedText": "Elliptic is hiring Principal Solutions Consultant\n\nhttps://hashtagweb3.com/sc/fc?og=7",
+      "snapshot": {
+        "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "title": "Principal Solutions Consultant",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "date": "2026-10-19T19:05:16.266+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Solutions Consulting",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sc"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Principal Solutions Consultant\n\nhttps://hashtagweb3.com/sc/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sc/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "a862eeb9-bee7-4a23-85a1-16c29bb49454",
+      "verification": "creating"
     }
   ]
 }
