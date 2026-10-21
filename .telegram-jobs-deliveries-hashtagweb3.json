@@ -3455,7 +3455,7 @@
     "sentAt": "2026-10-21T11:32:00.909Z"
   },
   "21f5bc65-a0dd-4a7b-80bd-c3c50ee4de7f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-21T19:32:04.995Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3568,6 +3568,8 @@
       }
     ],
     "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/cmp106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Senior Manager - Malta</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/sls18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Associate - Technical Accounting &amp; Financial Reporting</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/an102?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KYC Analyst</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm160?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product - Local Payment Methods</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sls208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounts Payable Specialist</a>",
-    "slotKey": "2026-10-21:evening"
+    "slotKey": "2026-10-21:evening",
+    "messageId": 155875,
+    "sentAt": "2026-10-21T19:32:17.262Z"
   }
 }

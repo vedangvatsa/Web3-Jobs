@@ -1896,6 +1896,14 @@
     "lastUrl": "https://hashtagweb3.com/manager74158",
     "updatedAt": "2026-09-17T08:51:18.112Z"
   },
+  "8174160": {
+    "slugs": [
+      "pm160"
+    ],
+    "lastSlug": "pm160",
+    "lastUrl": "https://hashtagweb3.com/pm160",
+    "updatedAt": "2026-10-21T19:32:17.262Z"
+  },
   "8175653": {
     "slugs": [
       "ops88"
@@ -8158,5 +8166,37 @@
     "lastSlug": "infra37",
     "lastUrl": "https://hashtagweb3.com/infra37",
     "updatedAt": "2026-10-21T11:32:00.909Z"
+  },
+  "5000933101": {
+    "slugs": [
+      "cmp106"
+    ],
+    "lastSlug": "cmp106",
+    "lastUrl": "https://hashtagweb3.com/cmp106",
+    "updatedAt": "2026-10-21T19:32:17.262Z"
+  },
+  "4740261005": {
+    "slugs": [
+      "sls18"
+    ],
+    "lastSlug": "sls18",
+    "lastUrl": "https://hashtagweb3.com/sls18",
+    "updatedAt": "2026-10-21T19:32:17.262Z"
+  },
+  "0b18bb05-a97a-427a-9c8c-28245f106863": {
+    "slugs": [
+      "an102"
+    ],
+    "lastSlug": "an102",
+    "lastUrl": "https://hashtagweb3.com/an102",
+    "updatedAt": "2026-10-21T19:32:17.262Z"
+  },
+  "f6e200ad-d6ac-401f-b029-d17b26909a47": {
+    "slugs": [
+      "sls208"
+    ],
+    "lastSlug": "sls208",
+    "lastUrl": "https://hashtagweb3.com/sls208",
+    "updatedAt": "2026-10-21T19:32:17.262Z"
   }
 }
