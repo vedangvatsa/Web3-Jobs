@@ -38209,7 +38209,8 @@
       },
       "account": "channel:design",
       "attemptId": "5a47fef3-db2b-4b25-89df-6851081abd90",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa190f2cccc2bce7f6562a890741f23cc774c7f13"
     }
   ]
 }
