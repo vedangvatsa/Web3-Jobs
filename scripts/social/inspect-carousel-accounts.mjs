@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
+import { CAROUSEL_POST_FIELDS, assertCarouselAccount } from './newknowledge-carousel-providers.mjs';
 const secrets = [process.env.BUFFER_ACCESS_TOKEN, process.env.META_PAGE_TOKEN].filter(Boolean);
 const redact = value => secrets.reduce((text, secret) => text.replaceAll(secret, '[redacted]').replaceAll(encodeURIComponent(secret), '[redacted]'), String(value));
 const fields = 'id name service serviceId type externalLink organizationId isDisconnected isLocked isQueuePaused allowedActions';
@@ -15,9 +16,19 @@ const results = { checkedAt: new Date().toISOString(), mode: 'read-only', linked
 try {
   const { channel } = await query(`query KnownBrandChannel($id:ChannelId!) {channel(input:{id:$id}) {${fields}}}`, { id: '69c5b139af47dacb695b5feb' });
   results.linkedin.configuredChannel = channel;
+  assertCarouselAccount(channel, 'linkedin');
   if (channel?.organizationId) {
     const { channels } = await query(`query BrandChannels($org:OrganizationId!) {channels(input:{organizationId:$org}) {${fields}}}`, { org: channel.organizationId });
     results.instagram.bufferCandidates = channels.filter(c => c.service === 'instagram' && (c.serviceId === '17841473830256790' || /^hashtag_?\s?web3$/i.test(c.name.replace(/^@/, ''))));
+    const { posts } = await query('query ExistingBrandPost($org:OrganizationId!) {posts(first:1,input:{organizationId:$org,filter:{channelIds:["69c5b139af47dacb695b5feb"],status:[sent]}}) {edges {node {id channelId}}}}', { org: channel.organizationId });
+    const existing = posts?.edges?.[0]?.node;
+    if (existing) {
+      assert.equal(existing.channelId, channel.id);
+      const { post } = await query(`query CarouselReadbackFields($id:PostId!) {post(input:{id:$id}) {${CAROUSEL_POST_FIELDS}}}`, { id: existing.id });
+      assert.equal(post.id, existing.id);
+      assertCarouselAccount(post.channel, 'linkedin');
+      results.linkedin.postReadback = { sourcePostId: post.id, status: post.status, supported: true, assetTypes: post.assets?.map(asset => asset.__typename) };
+    }
   }
 } catch (error) { results.linkedin.error = redact(error.message); }
 try {
@@ -37,6 +48,12 @@ if (process.env.META_PAGE_TOKEN) {
     if (mediaResponse.ok && Array.isArray(media.data) && media.data.length) {
       const example = media.data.find(item => item.media_type === 'IMAGE' || item.media_type === 'CAROUSEL_ALBUM') || media.data[0];
       assert.match(example.id, /^\d+$/);
+      const rootResponse = await fetch(`https://graph.facebook.com/v21.0/${example.id}?fields=id,owner,media_type,media_product_type,caption,permalink,timestamp`, { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
+      const root = await rootResponse.json();
+      if (!rootResponse.ok || root.error) throw new Error(`Meta post readback: HTTP ${rootResponse.status}; ${root.error?.message || 'unknown error'}`);
+      assert.equal(root.id, example.id);
+      assert.equal(root.owner?.id, body.id);
+      results.instagram.postReadback = { sourceMediaId: root.id, mediaType: root.media_type, supported: true, ownerVerified: true };
       const route = example.media_type === 'CAROUSEL_ALBUM' ? `${example.id}/children?fields=id,media_type,alt_text&limit=6` : `${example.id}?fields=id,media_type,alt_text`;
       const check = await fetch(`https://graph.facebook.com/v21.0/${route}`, { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
       const details = await check.json();

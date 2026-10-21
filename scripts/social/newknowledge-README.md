@@ -16,6 +16,8 @@ scripts/social/newknowledge-receipts/knowledge-threads-month-2026-10-17/<date>-<
 
 The date/platform key admits one thread. A failed platform does not prevent the other platform's attempt. Existing slot completion stamps do not control knowledge delivery.
 
+From October 22, the same daily window also runs a separate [LinkedIn PDF and Instagram carousel publisher](newknowledge-carousel-README.md). It uses the reviewed six-slide exports and independent claims.
+
 ## Local checks
 
 ```bash

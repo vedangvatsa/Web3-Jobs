@@ -38,7 +38,7 @@ on:
         options: [both, linkedin, instagram]
         default: both
       post_id:
-        description: Optional Buffer post ID for one-platform reconciliation of an existing claim
+        description: Existing Buffer post ID (LinkedIn) or published Meta media ID (Instagram)
         type: string
 
 concurrency:
@@ -63,7 +63,7 @@ jobs:
       - name: Install existing validation dependencies
         run: npm ci --no-audit --no-fund
       - name: Test carousel and durable receipt safeguards offline
-        run: node --test scripts/social/newknowledge-carousel-*.test.mjs scripts/social/newknowledge-instagram-carousel.test.mjs scripts/social/newknowledge-state.test.mjs
+        run: node --test scripts/social/newknowledge-carousel-*.test.mjs scripts/social/newknowledge-instagram-carousel.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-state.test.mjs
       - name: Pin checked-out carousel assets
         run: |
           node --input-type=module -e 'import fs from "node:fs"; import {execFileSync} from "node:child_process"; const sha=execFileSync("git",["rev-parse","HEAD"],{encoding:"utf8"}).trim(); if(!/^[a-f0-9]{40}$/.test(sha)) throw new Error("Invalid commit"); fs.appendFileSync(process.env.GITHUB_ENV,`KNOWLEDGE_CAROUSEL_ASSET_COMMIT=${sha}\n`);'

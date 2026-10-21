@@ -232,6 +232,19 @@ jobs:
       mode: publish
     secrets: inherit
 
+  knowledge-carousels:
+    needs: [gate]
+    if: ${{ needs.gate.outputs.knowledge_due == 'true' }}
+    permissions:
+      contents: write
+    uses: ./.github/workflows/newknowledge-carousels.yml
+    with:
+      date: ${{ needs.gate.outputs.date }}
+      slot: ${{ needs.gate.outputs.slot }}
+      mode: publish
+      platform: both
+    secrets: inherit
+
   diagnose:
     if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.diagnose_telegram == 'true' }}
     runs-on: ubuntu-latest
