@@ -36016,7 +36016,8 @@
       },
       "account": "channel:web3",
       "attemptId": "f145844c-26a6-4a7e-b269-69801a5b865d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x35738671bc93189a46ae2e479680417af02fb73b"
     }
   ]
 }
