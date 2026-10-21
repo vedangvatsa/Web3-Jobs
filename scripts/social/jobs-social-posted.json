@@ -34227,6 +34227,38 @@
       "postId": "18063472262529120",
       "permalink": "https://www.threads.com/@hashtagweb3/post/Devk_kYGzz0",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops116",
+      "company": "OKX",
+      "title": "Senior Support Operations Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-21T04:43:43.725Z",
+      "expectedText": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/bsky?og=7",
+      "snapshot": {
+        "id": "8038785003",
+        "title": "Senior Support Operations Manager",
+        "company": "OKX",
+        "link": "https://job-boards.greenhouse.io/okx/jobs/8038785003",
+        "date": "2026-10-20T06:16:07-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: OKX [okx]",
+        "location": "Singapore",
+        "department": "Strategic Markets",
+        "active": true,
+        "slug": "ops116",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "OKX is hiring Senior Support Operations Manager: https://hashtagweb3.com/ops116/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops116/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops116.png?v=7",
+        "company": "OKX",
+        "title": "Senior Support Operations Manager",
+        "description": "Join OKX as Senior Support Operations Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e4aeb147-dea1-4341-bc52-5de702807ddb",
+      "verification": "creating"
     }
   ]
 }
