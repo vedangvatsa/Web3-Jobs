@@ -35503,7 +35503,8 @@
       },
       "account": "channel:solana",
       "attemptId": "5679dfd1-05b6-4cbe-8718-f25b171349fb",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
