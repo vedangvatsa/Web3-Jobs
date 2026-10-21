@@ -35692,6 +35692,47 @@
       "verification": "pending",
       "postId": "6ad84425db7d819821464cbe",
       "error": "LinkedIn #Web3 receipt 6ad84425db7d819821464cbe remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm259/li?og=7",
+          "title": "Senior Product Manager, Advisor Marketplace at Robinhood",
+          "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm259.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "1318f2ef-498d-4c6c-8fcb-f0e6fb26904f",
+      "verification": "creating"
     }
   ]
 }
