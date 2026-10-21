@@ -1093,5 +1093,19 @@
       "token2049-side-6a9ab0b3d567345aad683a7f",
       "trading-tournament"
     ]
+  },
+  "luma-crypto-PfVTljhAgjnvSF4": {
+    "until": "2027-10-21T19:31:31.325Z",
+    "slugs": [
+      "luma-crypto-pfvtljhagjnvsf4",
+      "1pvh"
+    ]
+  },
+  "luma-crypto-43a6FFWG3SgKDEs": {
+    "until": "2027-10-21T19:31:31.325Z",
+    "slugs": [
+      "luma-crypto-43a6ffwg3sgkdes",
+      "emsokomnet"
+    ]
   }
 }

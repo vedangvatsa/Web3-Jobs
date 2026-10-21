@@ -893,27 +893,6 @@
     }
   },
   {
-    "name": "Stellar Pro Hackathon",
-    "url": "https://www.risein.com/programs/stellar-pro-hackathon",
-    "emails": [
-      "info@risein.com"
-    ],
-    "event": {
-      "id": "w3v-stellar-pro-hackathon",
-      "name": "Stellar Pro Hackathon",
-      "description": "Stellar Pro Hackathon: a September 19–20, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
-      "startDate": "2026-09-19T07:00:00.000Z",
-      "endDate": "2026-09-21T19:00:00.000Z",
-      "city": "Beyoğlu",
-      "country": "TR",
-      "location": "Beyoğlu, TR",
-      "url": "https://www.risein.com/programs/stellar-pro-hackathon",
-      "coverImage": null,
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "Agentic Summit",
     "url": "https://agentic-summit.org/",
     "emails": [

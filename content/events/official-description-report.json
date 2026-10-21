@@ -1727,21 +1727,6 @@
       ]
     },
     {
-      "id": "w3v-stellar-pro-hackathon",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.risein.com/programs/stellar-pro-hackathon",
-        "fetchedAt": "2026-09-20T00:20:55.581Z",
-        "method": "official-section",
-        "pageTitle": "Stellar Pro Hackathon  | Rise In",
-        "sha256": "ae37335aab312254051f7e8e551483e99d15a924b2201c6a889f09019cc9d246"
-      },
-      "previousStartDate": "2026-09-19T07:00:00.000Z",
-      "characters": 1480,
-      "preview": "## Stellar Pro Hackathon\n\n36 hours to build, meet ambitious builders, get hands-on support, and put your work in front of the Stellar ecosystem. Come with an idea, leave with something real!\n\n## Register to attend\n\nIt's free! Confirm the consents, then apply with your email or sign in to your Rise In account.\n\n## Join the Rise In x Stellar Pro Hackathon\n\n## September 19–20, 2026 · Grand Pera, Beyoğlu, Istanbul\n\n## Two Tracks. Two Different Starting Points.\n\n## Genesis Track\n\n## Scale Track\n\n## Submission & Final Presentations\n\n• Submission (required for everyone): Every team in both the Genesis and Scale Tracks must submit their project by the deadline.\n\n• Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project"
-    },
-    {
       "id": "w3v-ethereum-institutional-summit-2026",
       "file": "events-cache.json",
       "status": "source-backed",

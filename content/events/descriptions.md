@@ -20943,38 +20943,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-d15aff220845dd3d"></a>
-
-## Ecox Mondays- Season Opening Kick off Month - Networking Event - Tech, Ai, Blockchain and Business Meetup
-
-- Record: `luma-crypto-43a6FFWG3SgKDEs`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-21T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ecox-5ucp>
-
-### About the event
-
-New location with top views all over Dubai! EcoX Mondays: The AI Agent Edition - welcome to the new network hotspot at Tacenda Lounge. Connect, learn and collaborate with the EcoX global network; the evening runs 7:00-8:00 PM with an AI insights and agent-building session including 'Demystifying AI Agents - A Blueprint for Any Industry,' plus expert takes on AI workflows, automation and prompt architecture. Hosted by Franco Fiore and Jorge Sebastiao.
-
-<a id="event-ab5cdc6716482c7b"></a>
-
-## 1% for the Planet Volunteer Hackathon
-
-- Record: `luma-crypto-PfVTljhAgjnvSF4`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-21T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/r58e2nbe>
-
-### About the event
-
-The most meaningful volunteering happens when people's [skills meet organizations' real needs. This 1% for the Planet](https://www.onepercentfortheplanet.org/) [and The Social Society](https://www.thesocialsociety.org.uk/) skills-based volunteer [hackathon creates exactly that space. Join us at Hairstory](https://hairstory.com/)'s studio space in the Flatiron District for an event that's practical, collaborative, and focused on impact.
-
-1% for the Planet Impact Partners will share their most pressing challenges, from shaping a fundraising story to launching a new initiative. You'll join a table, collaborate with others, and sprint through ideas and solutions that make a difference.
-
-In just 75 minutes, impact partners will leave with clear, actionable solutions, and you'll leave knowing how your expertise can create lasting impact with pathways to continue supporting these partners beyond the session.
-
 <a id="event-e7c6d17d2e95ddd8"></a>
 
 ## Building Investable Market Roundtable - a UN General Assembly Side Event
@@ -52560,39 +52528,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-19c505e803f85c75"></a>
-
-## Stellar Pro Hackathon
-
-- Record: `w3v-stellar-pro-hackathon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-19T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://www.risein.com/programs/stellar-pro-hackathon>
-
-### Stellar Pro Hackathon
-
-36 hours to build, meet ambitious builders, get hands-on support, and put your work in front of the Stellar ecosystem. Come with an idea, leave with something real!
-
-### Register to attend
-
-It's free! Confirm the consents, then apply with your email or sign in to your Rise In account.
-
-### Submission & Final Presentations
-
-- Submission (required for everyone): Every team in both the Genesis and Scale Tracks must submit their project by the deadline.
-- Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project. A shortlist of teams from each track will be selected to move forward.
-- Final presentation: Only shortlisted teams will present live to the jury.
-- Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project. A shortlist of teams from each track will be selected to move forward. The shortlisting criteria will be shared with participants before the submission deadline.
-
-### What Happens During the 36 Hours
-
-- Opportunities for follow-on funding through SCF and InstAward
-
-### Pull up, plug in, build something
-
-Whether you ship code, run a startup or are just Web3-curious, there's a seat for you.
-
 <a id="event-b16e1f340cf85f55"></a>
 
 ## Bitcoin Builders Club
@@ -70482,18 +70417,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-34b711fa770ebb08"></a>
-
-## Superteam India Poker Night
-
-- Record: `luma-host-evt-evt-uZcNvXgLxoQ26if`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T16:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/stin-pokernight>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-9e6841c0a4b0bc8c"></a>
 
 ## Intro to Soldering & Electronics: Make A Mini Piano
@@ -72433,6 +72356,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-519eeb0e0df370b8"></a>
+
+## Solana Across Campuses: Claremont Colleges
+
+- Record: `luma-evt-M0QgvfwS1nwbN5r`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T03:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yc4iuef6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7a397fe9050dd1b4"></a>
 
 ## Coworking Fridays Belgrade \| Superteam Balkan
@@ -72706,6 +72641,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-34b711fa770ebb08"></a>
+
+## Superteam India Poker Night
+
+- Record: `luma-host-evt-evt-uZcNvXgLxoQ26if`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T16:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/stin-pokernight>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2f948ff196ec6dbe"></a>
 
 ## Hands-On Bitcoin Multisig Workshop
@@ -72925,6 +72872,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Fracton Ventures hosts a Japanese-language Ethereum meetup covering the Glamsterdam and Hegota upgrade plans, Soneium's proposed IP-licensing standard and institutional DeFi access. The announced schedule includes a protocol update, a Nyx Foundation session on DeFi Gateway, Q&A and informal discussion. Doors open at 19:15. Attendance is free with advance registration, and the organizer requires a business card at check-in.
+
+<a id="event-e06258a81270d032"></a>
+
+## Meet & Make #27 – Tricot 🧶
+
+- Record: `luma-evt-x1U2RBrqcnEBlTt`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/meet-and-make-27>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-9c60b2c746426e83"></a>
 
@@ -74647,6 +74606,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5c98611a9862ee6c"></a>
+
+## An Evening with Solana NYC \| Presented by the Incubator
+
+- Record: `luma-host-evt-evt-QDHRipbLQ3B980D`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T22:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/ylza1vtd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-89f0e7f8a0a01847"></a>
 
 ## Boston ~ Women in Recruiting Speaker Panel: Defining Excellence in an AI-Driven World
@@ -75569,6 +75540,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 The Kuching conference focuses on blockchain, AI and digital infrastructure in Borneo and ASEAN. Its announced topics include real-world asset tokenization, AI-blockchain applications, post-quantum cryptography and startup pitching.
+
+<a id="event-0c9aee3f718cdfd6"></a>
+
+## On Tap, Off the Record with VAST Data & TensorWave
+
+- Record: `luma-evt-vaLCyYfO783xaYn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/8hg81fe3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-054d0ff195c43730"></a>
 

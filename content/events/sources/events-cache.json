@@ -292,28 +292,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-stellar-pro-hackathon",
-    "name": "Stellar Pro Hackathon",
-    "description": "## Stellar Pro Hackathon\n\n36 hours to build, meet ambitious builders, get hands-on support, and put your work in front of the Stellar ecosystem. Come with an idea, leave with something real!\n\n## Register to attend\n\nIt's free! Confirm the consents, then apply with your email or sign in to your Rise In account.\n\n## Join the Rise In x Stellar Pro Hackathon\n\n## September 19–20, 2026 · Grand Pera, Beyoğlu, Istanbul\n\n## Two Tracks. Two Different Starting Points.\n\n## Genesis Track\n\n## Scale Track\n\n## Submission & Final Presentations\n\n• Submission (required for everyone): Every team in both the Genesis and Scale Tracks must submit their project by the deadline.\n\n• Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project. A shortlist of teams from each track will be selected to move forward.\n\n• Final presentation: Only shortlisted teams will present live to the jury.\n\n• Shortlisting: The Stellar team will review all submissions based on the hackathon criteria and the quality and progress of each project. A shortlist of teams from each track will be selected to move forward. The shortlisting criteria will be shared with participants before the submission deadline.\n\n## What Happens During the 36 Hours\n\n• Opportunities for follow-on funding through SCF and InstAward\n\n## Pull up, plug in, build something.\n\nWhether you ship code, run a startup or are just Web3-curious, there's a seat for you.",
-    "startDate": "2026-09-19T07:00:00.000Z",
-    "endDate": "2026-09-21T19:00:00.000Z",
-    "city": "Beyoğlu",
-    "country": "Turkey",
-    "location": "Beyoğlu, TR",
-    "url": "https://www.risein.com/programs/stellar-pro-hackathon",
-    "coverImage": "/events/w3v-stellar-pro-hackathon-d0be85ca.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "descriptionSource": {
-      "url": "https://www.risein.com/programs/stellar-pro-hackathon",
-      "fetchedAt": "2026-09-20T00:20:55.581Z",
-      "method": "official-section",
-      "pageTitle": "Stellar Pro Hackathon  | Rise In",
-      "sha256": "ae37335aab312254051f7e8e551483e99d15a924b2201c6a889f09019cc9d246"
-    }
-  },
-  {
     "id": "luma-evt-XVgMezNYKSfYZHA",
     "name": "MyWeb3 - Launch Party",
     "description": "Join us for MyWeb3’s Official Launch Party! Come set up your profile during our hands-on platform training session, enjoy free food & drinks, and network with local Orange County business owners.\n\nMyWeb3 gives creators, SMBs, artists, musicians, and more a free, personalized page to grow their following and customer base. Easily gain new followers across your platforms and let customers pay or donate however they want: PayPal, Venmo, Zelle, CashApp, Crypto, and more.\n\nTip: Bring your laptop and brand logo so we can help you set up your profile!\n\nIn addition, you can download and customize the following Profile Picture and Banner templates\n\nTemplates: https://drive.google.com/drive/folders/16TJ3nQ-peuicObRWBE0NiYhj16xpd4-O?usp=sharing\n\nLive Version launching soon with new features.\n\nPowered by Lost Art",
@@ -19429,6 +19407,7 @@
     "coverImage": "/events/w3v-digital-asset-summit-london-26-11-10-3625212f.webp",
     "month": "November 2026",
     "speakers": [
+      "George Osborne",
       "Mike Cagney",
       "Gareth Davies MP",
       "Johann Kerbrat",
@@ -19438,6 +19417,7 @@
       "Nikhil Sharma",
       "Catherine Porter",
       "Dan Morehead",
+      "Faryar Shirzad",
       "Matthew Long",
       "Rebecca Rettig",
       "Geoffrey Kendrick",
@@ -19456,9 +19436,7 @@
       "Simon Taylor",
       "Dr. Lin Han",
       "Francisco Maroto Castro",
-      "Stephanie Ramezan",
-      "Kash Razzaghi",
-      "Alex Seddon"
+      "Stephanie Ramezan"
     ]
   },
   {
@@ -20550,7 +20528,7 @@
     "country": "Sweden",
     "location": "Stockholm, Sweden",
     "url": "https://nordicblockchain.com/",
-    "coverImage": "/events/ma-nordic-blockchain-conference-2027-c8e1ba16.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -21423,13 +21401,13 @@
     "id": "luma-host-evt-evt-uZcNvXgLxoQ26if",
     "name": "Superteam India Poker Night",
     "description": "",
-    "startDate": "2026-10-17T16:00:00.000Z",
-    "endDate": "2026-10-17T17:00:00.000Z",
+    "startDate": "2026-10-24T16:00:00.000Z",
+    "endDate": "2026-10-24T17:00:00.000Z",
     "city": "",
     "country": "",
     "location": "TBA",
     "url": "https://luma.com/stin-pokernight",
-    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-8bbbad5b.webp",
+    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-810bcfc1.webp",
     "source": "luma-trusted",
     "month": "October 2026"
   },
@@ -21939,7 +21917,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -24770,7 +24751,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
-    "coverImage": "/events/mu-316802761-53bc0fb8.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28127,6 +28108,62 @@
     "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
     "coverImage": null,
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-M0QgvfwS1nwbN5r",
+    "name": "Solana Across Campuses: Claremont Colleges",
+    "description": "",
+    "startDate": "2026-10-23T03:00:00.000Z",
+    "endDate": "2026-10-23T04:00:00.000Z",
+    "city": "Claremont",
+    "country": "United States",
+    "location": "Claremont, United States",
+    "url": "https://lu.ma/yc4iuef6",
+    "coverImage": "/events/luma-evt-m0qgvfws1nwbn5r-7c738ac1.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-x1U2RBrqcnEBlTt",
+    "name": "Meet & Make #27 – Tricot 🧶",
+    "description": "",
+    "startDate": "2026-10-27T22:00:00.000Z",
+    "endDate": "2026-10-28T00:00:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://lu.ma/meet-and-make-27",
+    "coverImage": "/events/luma-evt-x1u2rbrqcnebltt-5b954a5a.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-QDHRipbLQ3B980D",
+    "name": "An Evening with Solana NYC | Presented by the Incubator",
+    "description": "",
+    "startDate": "2026-11-05T22:00:00.000Z",
+    "endDate": "2026-11-06T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://luma.com/ylza1vtd",
+    "coverImage": "/events/luma-host-evt-evt-qdhripblq3b980d-a96a30da.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-vaLCyYfO783xaYn",
+    "name": "On Tap, Off the Record with VAST Data & TensorWave",
+    "description": "",
+    "startDate": "2026-11-18T00:30:00.000Z",
+    "endDate": "2026-11-18T02:30:00.000Z",
+    "city": "Chicago",
+    "country": "United States",
+    "location": "Chicago, United States",
+    "url": "https://lu.ma/8hg81fe3",
+    "coverImage": "/events/luma-evt-valcyyfo783xayn-b21460d0.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]

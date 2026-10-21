@@ -2437,10 +2437,6 @@
       "sha256": "0e0328021a58d7928fec37b4f438ad6b1669893b380a600e966be15108d320ec",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-uzcnvxglxoq26if-8bbbad5b.webp": {
-      "sha256": "6600b7bc1036868baad396d28e61f5427688bf0a4487fbf663e3f3f5a8831fa1",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-vfysso13k4vqj7e-bca03bf6.webp": {
       "sha256": "b185bb47797775597e8030ccdb95737b81ee36dc82f48bd93a931ca40035598a",
       "status": "optimized"
@@ -2576,10 +2572,6 @@
     "/events/ma-next-block-expo-2027-7f98c62b.webp": {
       "sha256": "cd630028025417509b00cf09a5f1e2bb89ff5bffd48524063f7041bdea2f28bd",
       "status": "optimized"
-    },
-    "/events/ma-nordic-blockchain-conference-2027-c8e1ba16.webp": {
-      "sha256": "dc79028b6e908fc20dd3e93cfaf1688c0863716074b1ccd25ebec1f8a6080655",
-      "status": "retained"
     },
     "/events/ma-permissionless-2027-d82215d1.webp": {
       "sha256": "11ae35f2069dea33d2ad3a1f1b771c11d3f50b8378bdf844e87d2b721388f34d",
