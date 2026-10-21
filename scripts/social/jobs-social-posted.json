@@ -37686,6 +37686,40 @@
       "attemptId": "9ebbd2de-fc53-4b4b-bcae-67ddfae57058",
       "verification": "verified",
       "postId": "0x8da87b18f092af3a6fb2499b1e5f82569d4e05fa"
+    },
+    {
+      "slug": "aso58",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T19:32:17.303Z",
+      "expectedText": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso58/fc?og=7",
+      "snapshot": {
+        "id": "8821330002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8821330002",
+        "date": "2026-10-13T14:31:23-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Charlotte, NC",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso58"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate\n\nhttps://hashtagweb3.com/aso58/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso58/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "05f329cc-ec92-4beb-a37e-82315c7cbb31",
+      "verification": "creating"
     }
   ]
 }
