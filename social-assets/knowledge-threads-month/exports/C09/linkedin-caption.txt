@@ -1,0 +1,13 @@
+Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.
+
+1. Community practice rewrite: 'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.' Your Role: Personal practice project. This describes a sample artifact, not past employment.
+
+2. Content practice rewrite: 'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.' Project Name: Sample Token Approval Guide. This is example wording, not a published article claim.
+
+3. Example summaries connect each target to its sample: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals. Put the sentence in Professional Summary.
+
+4. The technical example gives an interview walkthrough: disconnect the wallet, load a balance, then simulate an RPC error. The community example gives a support walkthrough: classify, assign, record the resolution. These are practice prompts.
+
+5. In the builder, use Key Projects & Portfolio for these practice pieces. Project Name, Your Role, Description and Link are separate fields; Download PDF exports the preview.
+
+Full resource: hashtagweb3.com/resume-builder/li

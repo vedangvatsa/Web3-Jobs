@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.",
+        "alt": "1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Q: What does a provider do in ethers or viem?\nA: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.",
+        "alt": "Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a\"provider\" in Ethers.js or Viem and what is its role?",
+        "image": "social-assets/knowledge-threads-month/images/N04-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Q: How do you display a uint256 token balance?\nA: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.",
+        "alt": "Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Q: Why is an Ethereum transaction stuck, and what should the UI do?\nA: Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee.",
+        "alt": "A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Q: How do you show a wallet's NFTs across contracts?\nA: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection.",
+        "alt": "NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?",
+        "image": "social-assets/knowledge-threads-month/images/N04-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Q: Why use EIP-712 rather than personal_sign for orders?\nA: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nhashtagweb3.com/interview-questions/x",
+        "alt": "Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`.",
+        "image": "social-assets/knowledge-threads-month/images/N04-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.",
+        "alt": "1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Q: What does a provider do in ethers or viem?\nA: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.",
+        "alt": "Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a\"provider\" in Ethers.js or Viem and what is its role?",
+        "image": "social-assets/knowledge-threads-month/images/N04-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Q: How do you display a uint256 token balance?\nA: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.",
+        "alt": "Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Q: Why is an Ethereum transaction stuck, and what should the UI do?\nA: Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee.",
+        "alt": "A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?",
+        "image": "social-assets/knowledge-threads-month/images/N04-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Q: How do you show a wallet's NFTs across contracts?\nA: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection.",
+        "alt": "NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?",
+        "image": "social-assets/knowledge-threads-month/images/N04-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Q: Why use EIP-712 rather than personal_sign for orders?\nA: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nhashtagweb3.com/interview-questions/th",
+        "alt": "Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`.",
+        "image": "social-assets/knowledge-threads-month/images/N04-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.\n\n1. Q: What does a provider do in ethers or viem?\nA: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.\n\n2. Q: How do you display a uint256 token balance?\nA: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.\n\n3. Q: Why is an Ethereum transaction stuck, and what should the UI do?\nA: Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee.\n\n4. Q: How do you show a wallet's NFTs across contracts?\nA: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection.\n\n5. Q: Why use EIP-712 rather than personal_sign for orders?\nA: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nFull resource: hashtagweb3.com/interview-questions/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-01.jpg",
+        "sha256": "73428a37e4ed6d911ef49b13d09599f5c5fafec1357ae5ed6c5825a912e5a165",
+        "bytes": 154956,
+        "width": 1200,
+        "height": 1500,
+        "alt": "1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-02.jpg",
+        "sha256": "2fef3dd15820eb2813892f9c4314f1593ab6a3a20462feda7c5dbf984fdd25aa",
+        "bytes": 149882,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a\"provider\" in Ethers.js or Viem and what is its role?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-03.jpg",
+        "sha256": "c699aff1e19d860844b6082b699b173bbf376a39c16da4dedd46f4f470ab53b8",
+        "bytes": 193764,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-04.jpg",
+        "sha256": "90ded8f0f5a98c621f20ddf999964eb1d11217a53430f004efbbe3c0a1249a15",
+        "bytes": 174738,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-05.jpg",
+        "sha256": "83fb53f39cc16291b6a8c481d97e6c84d672c48bab8661fdd0f1140c4420627f",
+        "bytes": 174018,
+        "width": 1200,
+        "height": 1500,
+        "alt": "NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-06.jpg",
+        "sha256": "27904b8f5eb955a4b5f063ccbc06872bbad7168e92712592678724bb8235720d",
+        "bytes": 209073,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.\n\nhashtagweb3.com/interview-questions/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-01.jpg",
+        "sha256": "73428a37e4ed6d911ef49b13d09599f5c5fafec1357ae5ed6c5825a912e5a165",
+        "bytes": 154956,
+        "width": 1200,
+        "height": 1500,
+        "alt": "1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-02.jpg",
+        "sha256": "2fef3dd15820eb2813892f9c4314f1593ab6a3a20462feda7c5dbf984fdd25aa",
+        "bytes": 149882,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a\"provider\" in Ethers.js or Viem and what is its role?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-03.jpg",
+        "sha256": "c699aff1e19d860844b6082b699b173bbf376a39c16da4dedd46f4f470ab53b8",
+        "bytes": 193764,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-04.jpg",
+        "sha256": "90ded8f0f5a98c621f20ddf999964eb1d11217a53430f004efbbe3c0a1249a15",
+        "bytes": 174738,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-05.jpg",
+        "sha256": "83fb53f39cc16291b6a8c481d97e6c84d672c48bab8661fdd0f1140c4420627f",
+        "bytes": 174018,
+        "width": 1200,
+        "height": 1500,
+        "alt": "NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N04-06.jpg",
+        "sha256": "27904b8f5eb955a4b5f063ccbc06872bbad7168e92712592678724bb8235720d",
+        "bytes": 209073,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.\nFive frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.",
+        "image": "social-assets/knowledge-threads-month/images/N04-01.jpg",
+        "alt": "1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "text": "Q: What does a provider do in ethers or viem?\nA: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.",
+        "image": "social-assets/knowledge-threads-month/images/N04-02.jpg",
+        "alt": "Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a\"provider\" in Ethers.js or Viem and what is its role?"
+      },
+      {
+        "text": "Q: How do you display a uint256 token balance?\nA: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.",
+        "image": "social-assets/knowledge-threads-month/images/N04-03.jpg",
+        "alt": "Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?"
+      },
+      {
+        "text": "Q: Why is an Ethereum transaction stuck, and what should the UI do?\nA: Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee.",
+        "image": "social-assets/knowledge-threads-month/images/N04-04.jpg",
+        "alt": "A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is\"stuck\" as pending. What are the possible causes and how could you handle this in the UI?"
+      },
+      {
+        "text": "Q: How do you show a wallet's NFTs across contracts?\nA: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection.",
+        "image": "social-assets/knowledge-threads-month/images/N04-05.jpg",
+        "alt": "NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?"
+      },
+      {
+        "text": "Q: Why use EIP-712 rather than personal_sign for orders?\nA: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.\n\nhashtagweb3.com/interview-questions/bsky",
+        "image": "social-assets/knowledge-threads-month/images/N04-06.jpg",
+        "alt": "Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`."
+      }
+    ]
+  }
+}

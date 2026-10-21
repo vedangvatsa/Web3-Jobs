@@ -98,6 +98,30 @@ function network(options = {}) {
   return { requests, fetcher };
 }
 
+test('explicit Meta selection uses the brand Instagram account without touching its obsolete Buffer channel', async () => {
+  const buffer = network();
+  const metaRequests = [];
+  const output = [];
+  const metaEnv = { ...env, META_PAGE_TOKEN: 'mock-meta-secret', KNOWLEDGE_INSTAGRAM_TRANSPORT: 'meta' };
+  const fetcher = async (url, init = {}) => {
+    if (!url.startsWith('https://graph.facebook.com/')) return buffer.fetcher(url, init);
+    assert.equal(init.method, 'GET');
+    assert.equal(init.headers.Authorization, `Bearer ${metaEnv.META_PAGE_TOKEN}`);
+    assert.equal(init.body, undefined);
+    metaRequests.push(url);
+    const pathname = new URL(url).pathname;
+    const result = pathname.endsWith('/content_publishing_limit')
+      ? { data: [{ quota_usage: 2, config: { quota_total: 100, quota_duration: 86400 } }] }
+      : pathname.endsWith('/media') ? { data: [] } : { id: '17841473830256790', username: 'hashtagweb3' };
+    return new Response(JSON.stringify(result), { status: 200 });
+  };
+  const results = await main(['--mode=preflight', `--date=${date}`], metaEnv, { root, clock: () => now, fetcher, output: text => output.push(text) });
+  assert.deepEqual(results.map(result => result.status), ['ready', 'ready']);
+  assert.ok(metaRequests.some(url => url.includes('/content_publishing_limit')));
+  assert.ok(metaRequests.some(url => new URL(url).pathname.endsWith('/media')));
+  assert.ok(!output.join('').includes(metaEnv.META_PAGE_TOKEN));
+});
+
 test('offline validation checks all 27 exports even when --platform selects one', async () => {
   let calls = 0;
   const result = await main(['--mode=validate', '--platform=linkedin'], {}, { root, clock: () => now, output: () => {}, fetcher: async () => { calls++; throw new Error('offline only'); } });

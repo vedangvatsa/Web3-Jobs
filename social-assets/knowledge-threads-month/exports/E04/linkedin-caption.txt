@@ -1,0 +1,23 @@
+10 countries ranked by their best-scoring city/base in our 100-entry directory. Scores /100 are site ratings; USD/month costs are estimates. Ties: lower cost, then name. These are city results, not countrywide scores.
+
+1. 1. Thailand: Chiang Mai, 97/100; USD 900/month estimated.
+2. India: Bangalore, 94/100; USD 900/month estimated.
+Same budget, 3 points apart on the site's city score.
+
+2. 3. Vietnam: Da Nang, 93/100; USD 850/month estimated.
+4. Malaysia: Kuala Lumpur, 90/100; USD 1,000/month estimated.
+Da Nang's reference budget is USD 150 lower.
+
+3. 5. Philippines: Manila, 90/100; USD 1,000/month estimated.
+6. Cambodia: Siem Reap, 89/100; USD 800/month estimated.
+Siem Reap ties Phnom Penh's score but has a USD 50 lower budget.
+
+4. 7. Indonesia: Bali base, 88/100; USD 1,100/month estimated.
+8. Mexico: Playa del Carmen, 88/100; USD 1,500/month estimated.
+Equal site scores; the lower-budget tie-break puts Bali first.
+
+5. 9. Spain: Madrid, 88/100; USD 2,100/month estimated.
+10. Taiwan: Taipei, 87/100; USD 1,800/month estimated.
+Madrid is Spain's highest-scoring directory city, ahead of Las Palmas at 86.
+
+Full resource: hashtagweb3.com/nomads/li

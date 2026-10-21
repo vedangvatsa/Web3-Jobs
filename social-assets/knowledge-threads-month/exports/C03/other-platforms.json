@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.",
+        "alt": "Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included.",
+        "image": "social-assets/knowledge-threads-month/images/C03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Batumi, Georgia: USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other. Fixed broadband: 58.3 down / 34.1 up Mbps (2026 Q1).",
+        "alt": "Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Da Nang, Vietnam: USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other. Fixed broadband: 245.9 down / 198.4 up Mbps (2026 Q1).",
+        "alt": "Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Tirana, Albania: USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other. Fixed broadband: 52.1 down / 28.4 up Mbps (2026 Q1).",
+        "alt": "Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Accra, Ghana: USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other. Fixed broadband: 81.6 down / 46.5 up Mbps (2026 Q1).",
+        "alt": "Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Merida, Mexico: USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other. Fixed broadband: 72.4 down / 35.8 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/x",
+        "alt": "Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.",
+        "alt": "Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included.",
+        "image": "social-assets/knowledge-threads-month/images/C03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Batumi, Georgia: USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other. Fixed broadband: 58.3 down / 34.1 up Mbps (2026 Q1).",
+        "alt": "Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Da Nang, Vietnam: USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other. Fixed broadband: 245.9 down / 198.4 up Mbps (2026 Q1).",
+        "alt": "Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Tirana, Albania: USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other. Fixed broadband: 52.1 down / 28.4 up Mbps (2026 Q1).",
+        "alt": "Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Accra, Ghana: USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other. Fixed broadband: 81.6 down / 46.5 up Mbps (2026 Q1).",
+        "alt": "Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Merida, Mexico: USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other. Fixed broadband: 72.4 down / 35.8 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/th",
+        "alt": "Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps",
+        "image": "social-assets/knowledge-threads-month/images/C03-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.\n\n1. Batumi, Georgia: USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other. Fixed broadband: 58.3 down / 34.1 up Mbps (2026 Q1).\n\n2. Da Nang, Vietnam: USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other. Fixed broadband: 245.9 down / 198.4 up Mbps (2026 Q1).\n\n3. Tirana, Albania: USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other. Fixed broadband: 52.1 down / 28.4 up Mbps (2026 Q1).\n\n4. Accra, Ghana: USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other. Fixed broadband: 81.6 down / 46.5 up Mbps (2026 Q1).\n\n5. Merida, Mexico: USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other. Fixed broadband: 72.4 down / 35.8 up Mbps (2026 Q1).\n\nFull resource: hashtagweb3.com/nomads/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-01.jpg",
+        "sha256": "a81efeab04836405a0aea62aa77ab6f82cdcdc5255c7b59190347c0b318c6e09",
+        "bytes": 171240,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-02.jpg",
+        "sha256": "3df1e95e8485a69d173a787629fbe9d13f6c9c38848f320790b81f054c407896",
+        "bytes": 188472,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-03.jpg",
+        "sha256": "6af7f17348fe6f6a46b5b7307fcc2e78a2f55a427efd2e5f90c8d1867d9a6b57",
+        "bytes": 200172,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-04.jpg",
+        "sha256": "9f6f1b2de4491e545c0f677ba69c0917b2d673bf5f2ebc900c0a59e09ad7b96b",
+        "bytes": 198745,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-05.jpg",
+        "sha256": "e95a27635fa7c79575be94a415d070f3597293bba775a3e9bb7ed0ad566bba65",
+        "bytes": 202025,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-06.jpg",
+        "sha256": "b195c8a38c1faa85060c79507bfd3bbeb872c30e69f856596b37991f4b9ca6ab",
+        "bytes": 201461,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps"
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.\n\nhashtagweb3.com/nomads/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-01.jpg",
+        "sha256": "a81efeab04836405a0aea62aa77ab6f82cdcdc5255c7b59190347c0b318c6e09",
+        "bytes": 171240,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-02.jpg",
+        "sha256": "3df1e95e8485a69d173a787629fbe9d13f6c9c38848f320790b81f054c407896",
+        "bytes": 188472,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-03.jpg",
+        "sha256": "6af7f17348fe6f6a46b5b7307fcc2e78a2f55a427efd2e5f90c8d1867d9a6b57",
+        "bytes": 200172,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-04.jpg",
+        "sha256": "9f6f1b2de4491e545c0f677ba69c0917b2d673bf5f2ebc900c0a59e09ad7b96b",
+        "bytes": 198745,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-05.jpg",
+        "sha256": "e95a27635fa7c79575be94a415d070f3597293bba775a3e9bb7ed0ad566bba65",
+        "bytes": 202025,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C03-06.jpg",
+        "sha256": "b195c8a38c1faa85060c79507bfd3bbeb872c30e69f856596b37991f4b9ca6ab",
+        "bytes": 201461,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps"
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.",
+        "image": "social-assets/knowledge-threads-month/images/C03-01.jpg",
+        "alt": "Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included."
+      },
+      {
+        "text": "Batumi, Georgia: USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other. Fixed broadband: 58.3 down / 34.1 up Mbps (2026 Q1).",
+        "image": "social-assets/knowledge-threads-month/images/C03-02.jpg",
+        "alt": "Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps"
+      },
+      {
+        "text": "Da Nang, Vietnam: USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other. Fixed broadband: 245.9 down / 198.4 up Mbps (2026 Q1).",
+        "image": "social-assets/knowledge-threads-month/images/C03-03.jpg",
+        "alt": "Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps"
+      },
+      {
+        "text": "Tirana, Albania: USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other. Fixed broadband: 52.1 down / 28.4 up Mbps (2026 Q1).",
+        "image": "social-assets/knowledge-threads-month/images/C03-04.jpg",
+        "alt": "Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps"
+      },
+      {
+        "text": "Accra, Ghana: USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other. Fixed broadband: 81.6 down / 46.5 up Mbps (2026 Q1).",
+        "image": "social-assets/knowledge-threads-month/images/C03-05.jpg",
+        "alt": "Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps"
+      },
+      {
+        "text": "Merida, Mexico: USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other. Fixed broadband: 72.4 down / 35.8 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/bsky",
+        "image": "social-assets/knowledge-threads-month/images/C03-06.jpg",
+        "alt": "Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps"
+      }
+    ]
+  }
+}

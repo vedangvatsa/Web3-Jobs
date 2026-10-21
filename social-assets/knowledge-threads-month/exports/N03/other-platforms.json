@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "A view function can still cost gas, and a packed struct can still cost more to update.\nFive Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.",
+        "alt": "Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?",
+        "image": "social-assets/knowledge-threads-month/images/N03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Q: How do storage, memory and calldata differ?\nA: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.",
+        "alt": "Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?",
+        "image": "social-assets/knowledge-threads-month/images/N03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Q: What is a modifier? Give an example.\nA: Reusable logic around a function body. onlyOwner can run require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.",
+        "alt": "What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?",
+        "image": "social-assets/knowledge-threads-month/images/N03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Q: What are view and pure for?\nA: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.",
+        "alt": "Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?",
+        "image": "social-assets/knowledge-threads-month/images/N03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Q: How does delegatecall enable an upgradeable proxy?\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.",
+        "alt": "New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?",
+        "image": "social-assets/knowledge-threads-month/images/N03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Q: How should you order struct fields for storage packing?\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.\n\nhashtagweb3.com/interview-questions/x",
+        "alt": "Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example.",
+        "image": "social-assets/knowledge-threads-month/images/N03-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "A view function can still cost gas, and a packed struct can still cost more to update.\nFive Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.",
+        "alt": "Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?",
+        "image": "social-assets/knowledge-threads-month/images/N03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Q: How do storage, memory and calldata differ?\nA: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.",
+        "alt": "Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?",
+        "image": "social-assets/knowledge-threads-month/images/N03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Q: What is a modifier? Give an example.\nA: Reusable logic around a function body. onlyOwner can run require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.",
+        "alt": "What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?",
+        "image": "social-assets/knowledge-threads-month/images/N03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Q: What are view and pure for?\nA: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.",
+        "alt": "Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?",
+        "image": "social-assets/knowledge-threads-month/images/N03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Q: How does delegatecall enable an upgradeable proxy?\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.",
+        "alt": "New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?",
+        "image": "social-assets/knowledge-threads-month/images/N03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Q: How should you order struct fields for storage packing?\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.\n\nhashtagweb3.com/interview-questions/th",
+        "alt": "Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example.",
+        "image": "social-assets/knowledge-threads-month/images/N03-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "A view function can still cost gas, and a packed struct can still cost more to update.\nFive Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.\n\n1. Q: How do storage, memory and calldata differ?\nA: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.\n\n2. Q: What is a modifier? Give an example.\nA: Reusable logic around a function body. onlyOwner can run require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.\n\n3. Q: What are view and pure for?\nA: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.\n\n4. Q: How does delegatecall enable an upgradeable proxy?\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.\n\n5. Q: How should you order struct fields for storage packing?\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.\n\nFull resource: hashtagweb3.com/interview-questions/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-01.jpg",
+        "sha256": "62a555c1da2e1531922f4d730edb0bb499aa86ee48a226568b9c0205dd2352eb",
+        "bytes": 135838,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-02.jpg",
+        "sha256": "a9df46d6952626b17d6a39298669754a4c10555ac2a31876c96d3d8104df27aa",
+        "bytes": 155632,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-03.jpg",
+        "sha256": "d3501c253c412d6e313d19218960be1bc026f53a62cd2ce0b906a1bbbe9fd484",
+        "bytes": 169737,
+        "width": 1200,
+        "height": 1500,
+        "alt": "What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-04.jpg",
+        "sha256": "fe284f4b81b21bbef2a31f701b3df3993af16368eb10284a530b7f9dad569e10",
+        "bytes": 144612,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-05.jpg",
+        "sha256": "827b6fb9417a805ddd515ed20459743fe27ab6f997e43f67ddb97ca1d0011a0d",
+        "bytes": 157254,
+        "width": 1200,
+        "height": 1500,
+        "alt": "New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-06.jpg",
+        "sha256": "00cb75f30ed0c85be3920917047800312e7a69a342b211defb691e9cf7b021d0",
+        "bytes": 187455,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "A view function can still cost gas, and a packed struct can still cost more to update.\nFive Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.\n\nhashtagweb3.com/interview-questions/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-01.jpg",
+        "sha256": "62a555c1da2e1531922f4d730edb0bb499aa86ee48a226568b9c0205dd2352eb",
+        "bytes": 135838,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-02.jpg",
+        "sha256": "a9df46d6952626b17d6a39298669754a4c10555ac2a31876c96d3d8104df27aa",
+        "bytes": 155632,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-03.jpg",
+        "sha256": "d3501c253c412d6e313d19218960be1bc026f53a62cd2ce0b906a1bbbe9fd484",
+        "bytes": 169737,
+        "width": 1200,
+        "height": 1500,
+        "alt": "What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-04.jpg",
+        "sha256": "fe284f4b81b21bbef2a31f701b3df3993af16368eb10284a530b7f9dad569e10",
+        "bytes": 144612,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-05.jpg",
+        "sha256": "827b6fb9417a805ddd515ed20459743fe27ab6f997e43f67ddb97ca1d0011a0d",
+        "bytes": 157254,
+        "width": 1200,
+        "height": 1500,
+        "alt": "New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-06.jpg",
+        "sha256": "00cb75f30ed0c85be3920917047800312e7a69a342b211defb691e9cf7b021d0",
+        "bytes": 187455,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "A view function can still cost gas, and a packed struct can still cost more to update.\nFive Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.",
+        "image": "social-assets/knowledge-threads-month/images/N03-01.jpg",
+        "alt": "Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "text": "Q: How do storage, memory and calldata differ?\nA: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.",
+        "image": "social-assets/knowledge-threads-month/images/N03-02.jpg",
+        "alt": "Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?"
+      },
+      {
+        "text": "Q: What is a modifier? Give an example.\nA: Reusable logic around a function body. onlyOwner can run require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.",
+        "image": "social-assets/knowledge-threads-month/images/N03-03.jpg",
+        "alt": "What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?"
+      },
+      {
+        "text": "Q: What are view and pure for?\nA: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.",
+        "image": "social-assets/knowledge-threads-month/images/N03-04.jpg",
+        "alt": "Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?"
+      },
+      {
+        "text": "Q: How does delegatecall enable an upgradeable proxy?\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.",
+        "image": "social-assets/knowledge-threads-month/images/N03-05.jpg",
+        "alt": "New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?"
+      },
+      {
+        "text": "Q: How should you order struct fields for storage packing?\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.\n\nhashtagweb3.com/interview-questions/bsky",
+        "image": "social-assets/knowledge-threads-month/images/N03-06.jpg",
+        "alt": "Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example."
+      }
+    ]
+  }
+}

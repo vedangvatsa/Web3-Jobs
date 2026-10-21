@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.",
+        "alt": "Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country\tListings\tEmployers; United States\t155\t30; United Kingdom\t29\t4; Cyprus\t11\t2; Georgia\t11\t1; Poland\t11\t4; Explicit-country eligibility only. Multi-country listings count in each named country.",
+        "image": "social-assets/knowledge-threads-month/images/N02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog. Eligibility comes from the role's stated location, not the employer's headquarters.",
+        "alt": "United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "United Kingdom: 29 listings across 4 employers. In the Oct 20 catalog, the US had 126 more listings and 26 more employers. This is a comparison of explicitly eligible locations, not company headquarters.",
+        "alt": "United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Cyprus: 11 listings across 2 employers. Cyprus, Georgia and Poland tie on listing count in the Oct 20 catalog, but their employer counts differ: 2, 1 and 4 respectively.",
+        "alt": "Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively.",
+        "image": "social-assets/knowledge-threads-month/images/N02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers. Equal listing volume can hide very different employer concentration.",
+        "alt": "Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration.",
+        "image": "social-assets/knowledge-threads-month/images/N02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.\n\nhashtagweb3.com/jobs/x",
+        "alt": "Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap.",
+        "image": "social-assets/knowledge-threads-month/images/N02-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.",
+        "alt": "Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country\tListings\tEmployers; United States\t155\t30; United Kingdom\t29\t4; Cyprus\t11\t2; Georgia\t11\t1; Poland\t11\t4; Explicit-country eligibility only. Multi-country listings count in each named country.",
+        "image": "social-assets/knowledge-threads-month/images/N02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog. Eligibility comes from the role's stated location, not the employer's headquarters.",
+        "alt": "United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "United Kingdom: 29 listings across 4 employers. In the Oct 20 catalog, the US had 126 more listings and 26 more employers. This is a comparison of explicitly eligible locations, not company headquarters.",
+        "alt": "United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Cyprus: 11 listings across 2 employers. Cyprus, Georgia and Poland tie on listing count in the Oct 20 catalog, but their employer counts differ: 2, 1 and 4 respectively.",
+        "alt": "Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively.",
+        "image": "social-assets/knowledge-threads-month/images/N02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers. Equal listing volume can hide very different employer concentration.",
+        "alt": "Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration.",
+        "image": "social-assets/knowledge-threads-month/images/N02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.\n\nhashtagweb3.com/jobs/th",
+        "alt": "Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap.",
+        "image": "social-assets/knowledge-threads-month/images/N02-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.\n\n1. United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog. Eligibility comes from the role's stated location, not the employer's headquarters.\n\n2. United Kingdom: 29 listings across 4 employers. In the Oct 20 catalog, the US had 126 more listings and 26 more employers. This is a comparison of explicitly eligible locations, not company headquarters.\n\n3. Cyprus: 11 listings across 2 employers. Cyprus, Georgia and Poland tie on listing count in the Oct 20 catalog, but their employer counts differ: 2, 1 and 4 respectively.\n\n4. Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers. Equal listing volume can hide very different employer concentration.\n\n5. Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.\n\nFull resource: hashtagweb3.com/jobs/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-01.jpg",
+        "sha256": "1ec66a926ff6a15be3eea4412b6d169a60720209abe1d3b7069f509c4d179225",
+        "bytes": 133413,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country\tListings\tEmployers; United States\t155\t30; United Kingdom\t29\t4; Cyprus\t11\t2; Georgia\t11\t1; Poland\t11\t4; Explicit-country eligibility only. Multi-country listings count in each named country."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-02.jpg",
+        "sha256": "360256745de04583b9acdf678a51be19a154b7c1bbc5c2874a3820c19a71778f",
+        "bytes": 110313,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-03.jpg",
+        "sha256": "2e23a46b8d9d1ba85bcadb574ad4bcaf54557cb6ab3ba81faa77621463e33020",
+        "bytes": 104799,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-04.jpg",
+        "sha256": "05e653f1e7c33385eec43b6fa6d34065da8e689f324e72b0dba77db2f5d2e8b7",
+        "bytes": 99306,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-05.jpg",
+        "sha256": "d3200da80a986a2ead727203d05c5ab22e1aa9eb021b964226440cb60283512f",
+        "bytes": 104116,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-06.jpg",
+        "sha256": "b09cdbac5ff195b863d12a72c176a2e4de391dd43f0a0f11d747b9f02f0527ce",
+        "bytes": 110200,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.\n\nhashtagweb3.com/jobs/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-01.jpg",
+        "sha256": "1ec66a926ff6a15be3eea4412b6d169a60720209abe1d3b7069f509c4d179225",
+        "bytes": 133413,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country\tListings\tEmployers; United States\t155\t30; United Kingdom\t29\t4; Cyprus\t11\t2; Georgia\t11\t1; Poland\t11\t4; Explicit-country eligibility only. Multi-country listings count in each named country."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-02.jpg",
+        "sha256": "360256745de04583b9acdf678a51be19a154b7c1bbc5c2874a3820c19a71778f",
+        "bytes": 110313,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-03.jpg",
+        "sha256": "2e23a46b8d9d1ba85bcadb574ad4bcaf54557cb6ab3ba81faa77621463e33020",
+        "bytes": 104799,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-04.jpg",
+        "sha256": "05e653f1e7c33385eec43b6fa6d34065da8e689f324e72b0dba77db2f5d2e8b7",
+        "bytes": 99306,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-05.jpg",
+        "sha256": "d3200da80a986a2ead727203d05c5ab22e1aa9eb021b964226440cb60283512f",
+        "bytes": 104116,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-06.jpg",
+        "sha256": "b09cdbac5ff195b863d12a72c176a2e4de391dd43f0a0f11d747b9f02f0527ce",
+        "bytes": 110200,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.",
+        "image": "social-assets/knowledge-threads-month/images/N02-01.jpg",
+        "alt": "Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country\tListings\tEmployers; United States\t155\t30; United Kingdom\t29\t4; Cyprus\t11\t2; Georgia\t11\t1; Poland\t11\t4; Explicit-country eligibility only. Multi-country listings count in each named country."
+      },
+      {
+        "text": "United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog. Eligibility comes from the role's stated location, not the employer's headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-02.jpg",
+        "alt": "United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters."
+      },
+      {
+        "text": "United Kingdom: 29 listings across 4 employers. In the Oct 20 catalog, the US had 126 more listings and 26 more employers. This is a comparison of explicitly eligible locations, not company headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-03.jpg",
+        "alt": "United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters."
+      },
+      {
+        "text": "Cyprus: 11 listings across 2 employers. Cyprus, Georgia and Poland tie on listing count in the Oct 20 catalog, but their employer counts differ: 2, 1 and 4 respectively.",
+        "image": "social-assets/knowledge-threads-month/images/N02-04.jpg",
+        "alt": "Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively."
+      },
+      {
+        "text": "Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers. Equal listing volume can hide very different employer concentration.",
+        "image": "social-assets/knowledge-threads-month/images/N02-05.jpg",
+        "alt": "Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration."
+      },
+      {
+        "text": "Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.\n\nhashtagweb3.com/jobs/bsky",
+        "image": "social-assets/knowledge-threads-month/images/N02-06.jpg",
+        "alt": "Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap."
+      }
+    ]
+  }
+}

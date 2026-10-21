@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.",
+        "alt": "The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.",
+        "image": "social-assets/knowledge-threads-month/images/E03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "The Strategist -> Web3 Product Manager. The quiz describes work on a decentralized product's vision and roadmap. Example practice output: a wallet-onboarding spec covering connection, wrong-network and failed-transaction screens.",
+        "alt": "The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product.",
+        "image": "social-assets/knowledge-threads-month/images/E03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "The Analyst -> On-Chain Data Analyst. The quiz names Dune as a tool for analyzing blockchain data. Example practice output: a query counting daily active wallets, with the chain, time window and wallet definition stated.",
+        "alt": "The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.",
+        "image": "social-assets/knowledge-threads-month/images/E03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "The Community Weaver -> Community Manager. The quiz describes managing Discord; it also recommends Marketing / Growth Lead and DevRel. Example practice output: a support queue with issue category, escalation owner and resolution note.",
+        "alt": "The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.",
+        "image": "social-assets/knowledge-threads-month/images/E03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "A fifth role match is The Builder -> Frontend/Web3 Developer, which builds dApp interfaces. Example practice output: a token-balance screen with disconnected, loading and RPC-error states. This shares an archetype with contract development.",
+        "alt": "The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps.",
+        "image": "social-assets/knowledge-threads-month/images/E03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.\n\nhashtagweb3.com/web3-career-quiz/x",
+        "alt": "The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure.",
+        "image": "social-assets/knowledge-threads-month/images/E03-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.",
+        "alt": "The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.",
+        "image": "social-assets/knowledge-threads-month/images/E03-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "The Strategist -> Web3 Product Manager. The quiz describes work on a decentralized product's vision and roadmap. Example practice output: a wallet-onboarding spec covering connection, wrong-network and failed-transaction screens.",
+        "alt": "The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product.",
+        "image": "social-assets/knowledge-threads-month/images/E03-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "The Analyst -> On-Chain Data Analyst. The quiz names Dune as a tool for analyzing blockchain data. Example practice output: a query counting daily active wallets, with the chain, time window and wallet definition stated.",
+        "alt": "The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.",
+        "image": "social-assets/knowledge-threads-month/images/E03-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "The Community Weaver -> Community Manager. The quiz describes managing Discord; it also recommends Marketing / Growth Lead and DevRel. Example practice output: a support queue with issue category, escalation owner and resolution note.",
+        "alt": "The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.",
+        "image": "social-assets/knowledge-threads-month/images/E03-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "A fifth role match is The Builder -> Frontend/Web3 Developer, which builds dApp interfaces. Example practice output: a token-balance screen with disconnected, loading and RPC-error states. This shares an archetype with contract development.",
+        "alt": "The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps.",
+        "image": "social-assets/knowledge-threads-month/images/E03-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.\n\nhashtagweb3.com/web3-career-quiz/th",
+        "alt": "The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure.",
+        "image": "social-assets/knowledge-threads-month/images/E03-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.\n\n1. The Strategist -> Web3 Product Manager. The quiz describes work on a decentralized product's vision and roadmap. Example practice output: a wallet-onboarding spec covering connection, wrong-network and failed-transaction screens.\n\n2. The Analyst -> On-Chain Data Analyst. The quiz names Dune as a tool for analyzing blockchain data. Example practice output: a query counting daily active wallets, with the chain, time window and wallet definition stated.\n\n3. The Community Weaver -> Community Manager. The quiz describes managing Discord; it also recommends Marketing / Growth Lead and DevRel. Example practice output: a support queue with issue category, escalation owner and resolution note.\n\n4. A fifth role match is The Builder -> Frontend/Web3 Developer, which builds dApp interfaces. Example practice output: a token-balance screen with disconnected, loading and RPC-error states. This shares an archetype with contract development.\n\n5. The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.\n\nFull resource: hashtagweb3.com/web3-career-quiz/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-01.jpg",
+        "sha256": "7616cc7857d61249aac324c35d6374005b905f51e1451bd5af55186423a38eb2",
+        "bytes": 118401,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-02.jpg",
+        "sha256": "16c5dedb6ae45900f7b922687139df0c1f1367dadebaba5644ba242ba0072137",
+        "bytes": 120963,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-03.jpg",
+        "sha256": "f4884191f70f03b7ce75ea5e7aa791607a46a41f70d803e39bd163196e2dd152",
+        "bytes": 126410,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-04.jpg",
+        "sha256": "c7eda742dfe9d2f5fc65e07cbb5341b4392236cabc69322cde1a754d16f88301",
+        "bytes": 127569,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-05.jpg",
+        "sha256": "1dcf9b9698b8d7a0a7d3629f045d6a58f88ca583605a8918a0ea990d530ef026",
+        "bytes": 126939,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-06.jpg",
+        "sha256": "f009af5ba5dc682b61ac8133ae3a76aeed894d468b953ffdaac1484344a32abe",
+        "bytes": 112786,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.\n\nhashtagweb3.com/web3-career-quiz/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-01.jpg",
+        "sha256": "7616cc7857d61249aac324c35d6374005b905f51e1451bd5af55186423a38eb2",
+        "bytes": 118401,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-02.jpg",
+        "sha256": "16c5dedb6ae45900f7b922687139df0c1f1367dadebaba5644ba242ba0072137",
+        "bytes": 120963,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-03.jpg",
+        "sha256": "f4884191f70f03b7ce75ea5e7aa791607a46a41f70d803e39bd163196e2dd152",
+        "bytes": 126410,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-04.jpg",
+        "sha256": "c7eda742dfe9d2f5fc65e07cbb5341b4392236cabc69322cde1a754d16f88301",
+        "bytes": 127569,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-05.jpg",
+        "sha256": "1dcf9b9698b8d7a0a7d3629f045d6a58f88ca583605a8918a0ea990d530ef026",
+        "bytes": 126939,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-06.jpg",
+        "sha256": "f009af5ba5dc682b61ac8133ae3a76aeed894d468b953ffdaac1484344a32abe",
+        "bytes": 112786,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.",
+        "image": "social-assets/knowledge-threads-month/images/E03-01.jpg",
+        "alt": "The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+      },
+      {
+        "text": "The Strategist -> Web3 Product Manager. The quiz describes work on a decentralized product's vision and roadmap. Example practice output: a wallet-onboarding spec covering connection, wrong-network and failed-transaction screens.",
+        "image": "social-assets/knowledge-threads-month/images/E03-02.jpg",
+        "alt": "The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product."
+      },
+      {
+        "text": "The Analyst -> On-Chain Data Analyst. The quiz names Dune as a tool for analyzing blockchain data. Example practice output: a query counting daily active wallets, with the chain, time window and wallet definition stated.",
+        "image": "social-assets/knowledge-threads-month/images/E03-03.jpg",
+        "alt": "The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+      },
+      {
+        "text": "The Community Weaver -> Community Manager. The quiz describes managing Discord; it also recommends Marketing / Growth Lead and DevRel. Example practice output: a support queue with issue category, escalation owner and resolution note.",
+        "image": "social-assets/knowledge-threads-month/images/E03-04.jpg",
+        "alt": "The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+      },
+      {
+        "text": "A fifth role match is The Builder -> Frontend/Web3 Developer, which builds dApp interfaces. Example practice output: a token-balance screen with disconnected, loading and RPC-error states. This shares an archetype with contract development.",
+        "image": "social-assets/knowledge-threads-month/images/E03-05.jpg",
+        "alt": "The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps."
+      },
+      {
+        "text": "The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.\n\nhashtagweb3.com/web3-career-quiz/bsky",
+        "image": "social-assets/knowledge-threads-month/images/E03-06.jpg",
+        "alt": "The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure."
+      }
+    ]
+  }
+}

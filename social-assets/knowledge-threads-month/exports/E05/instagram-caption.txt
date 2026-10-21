@@ -1,0 +1,13 @@
+The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.
+
+1. 1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.
+
+2. 2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.
+
+3. 3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.
+
+4. 4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.
+
+5. 5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.
+
+Full resource: hashtagweb3.com/nomads/ig

@@ -1,0 +1,13 @@
+Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.
+
+1. Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.
+
+2. Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.
+
+3. Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.
+
+4. Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.
+
+5. The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.
+
+Full resource: hashtagweb3.com/resume-builder/ig

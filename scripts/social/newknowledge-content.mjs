@@ -132,7 +132,8 @@ export function assertThreadResourceFreshness(thread, events, now = Date.now()) 
 
 export async function verifyPostLinks(posts, fetcher = fetch) {
   const links = posts.flatMap(post => post.text.match(/https?:\/\/\S+|(?<![\w@./:-])(?:[a-z0-9-]+\.)+[a-z]{2,}(?:[/:?#@]\S*)?/gi) || []);
-  const urls = new Set(links.map(link => /^https?:\/\//i.test(link) ? link : `https://${link}`));
+  const codeMembers = new Set(['msg.sender', 'msg.value', 'tx.origin', 'tx.from']);
+  const urls = new Set(links.filter(link => !codeMembers.has(link)).map(link => /^https?:\/\//i.test(link) ? link : `https://${link}`));
   for (const url of urls) {
     const source = new URL(url);
     assert.equal(source.origin, SITE_ORIGIN, 'Only own-site links may be published');

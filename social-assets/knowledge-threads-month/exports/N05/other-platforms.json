@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.",
+        "alt": "A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+        "image": "social-assets/knowledge-threads-month/images/N05-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.",
+        "alt": "Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.",
+        "alt": "Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.",
+        "alt": "A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field.",
+        "image": "social-assets/knowledge-threads-month/images/N05-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.",
+        "alt": "Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing",
+        "image": "social-assets/knowledge-threads-month/images/N05-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.\n\nhashtagweb3.com/resume-builder/x",
+        "alt": "Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.",
+        "alt": "A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+        "image": "social-assets/knowledge-threads-month/images/N05-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.",
+        "alt": "Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.",
+        "alt": "Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.",
+        "alt": "A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field.",
+        "image": "social-assets/knowledge-threads-month/images/N05-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.",
+        "alt": "Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing",
+        "image": "social-assets/knowledge-threads-month/images/N05-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.\n\nhashtagweb3.com/resume-builder/th",
+        "alt": "Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+        "image": "social-assets/knowledge-threads-month/images/N05-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.\n\n1. Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.\n\n2. Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.\n\n3. Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.\n\n4. Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.\n\n5. The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.\n\nFull resource: hashtagweb3.com/resume-builder/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-01.jpg",
+        "sha256": "32bae913121c643d325bbb0628688b16372f94fcb6a9cf02300c14c13c7a4178",
+        "bytes": 148669,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-02.jpg",
+        "sha256": "0eb429f6394497ebc869e68d0eade2017f14065840710d1b64607817c6f283ed",
+        "bytes": 155423,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-03.jpg",
+        "sha256": "930c8c0a392fd60ebf56051555b57d9d49cd7b57f4231ea730e4f6f4c3448b0d",
+        "bytes": 163141,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-04.jpg",
+        "sha256": "79abde331e91782817cc4a66ff8877d59cb3a3432da90c82ce07d15cd8b4161b",
+        "bytes": 131434,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-05.jpg",
+        "sha256": "c8a46e6b5ae0064316fcaaf947b2d3c753e6a083e8c727ed7335a06c506815a2",
+        "bytes": 150809,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-06.jpg",
+        "sha256": "00951581e1492af1fc41e879656b29ae3833825e3f82b69249bf905c15eb10f2",
+        "bytes": 167607,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.\n\nhashtagweb3.com/resume-builder/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-01.jpg",
+        "sha256": "32bae913121c643d325bbb0628688b16372f94fcb6a9cf02300c14c13c7a4178",
+        "bytes": 148669,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-02.jpg",
+        "sha256": "0eb429f6394497ebc869e68d0eade2017f14065840710d1b64607817c6f283ed",
+        "bytes": 155423,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-03.jpg",
+        "sha256": "930c8c0a392fd60ebf56051555b57d9d49cd7b57f4231ea730e4f6f4c3448b0d",
+        "bytes": 163141,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-04.jpg",
+        "sha256": "79abde331e91782817cc4a66ff8877d59cb3a3432da90c82ce07d15cd8b4161b",
+        "bytes": 131434,
+        "width": 1200,
+        "height": 1500,
+        "alt": "A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-05.jpg",
+        "sha256": "c8a46e6b5ae0064316fcaaf947b2d3c753e6a083e8c727ed7335a06c506815a2",
+        "bytes": 150809,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N05-06.jpg",
+        "sha256": "00951581e1492af1fc41e879656b29ae3833825e3f82b69249bf905c15eb10f2",
+        "bytes": 167607,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.",
+        "image": "social-assets/knowledge-threads-month/images/N05-01.jpg",
+        "alt": "A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals."
+      },
+      {
+        "text": "Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.",
+        "image": "social-assets/knowledge-threads-month/images/N05-02.jpg",
+        "alt": "Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "text": "Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.",
+        "image": "social-assets/knowledge-threads-month/images/N05-03.jpg",
+        "alt": "Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      },
+      {
+        "text": "Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.",
+        "image": "social-assets/knowledge-threads-month/images/N05-04.jpg",
+        "alt": "A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field."
+      },
+      {
+        "text": "Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.",
+        "image": "social-assets/knowledge-threads-month/images/N05-05.jpg",
+        "alt": "Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing"
+      },
+      {
+        "text": "The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.\n\nhashtagweb3.com/resume-builder/bsky",
+        "image": "social-assets/knowledge-threads-month/images/N05-06.jpg",
+        "alt": "Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert."
+      }
+    ]
+  }
+}

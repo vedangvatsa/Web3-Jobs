@@ -1,0 +1,13 @@
+At 2 years, North America, Series A/B and 11-50 staff, the calculator estimates Smart Contract Developer salary at USD 101,000/year. Model output, not observed pay. Tokens and equity are outside this estimate.
+
+1. Security Auditor: USD 133,000/year with the same inputs. The model starts at USD 105,000, multiplies by 1.10 for experience and 1.15 for region, then rounds the result to the nearest USD 1,000.
+
+2. Product Manager: USD 95,000/year in the model at 2 years, North America, Series A/B and 11-50 staff. Its USD 75,000 starting value becomes USD 94,875 before rounding.
+
+3. Technical Writer: USD 76,000/year with those same settings. The model calculates USD 60,000 x 1.10 x 1.15 = USD 75,900 before rounding. Company stage and size each contribute a 1.0 multiplier here.
+
+4. Community Manager: USD 63,000/year at the same 2-year settings. The model's USD 50,000 starting value becomes USD 63,250 before rounding. These five results compare the calculator's assumptions, not employer offers.
+
+5. The model puts Security Auditor at USD 133,000/year and Community Manager at USD 63,000/year: a USD 70,000 gap under identical settings. Reproduce the comparison by changing only Primary Role.
+
+Full resource: hashtagweb3.com/salary-calculator/li

@@ -1,0 +1,13 @@
+Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.
+
+1. Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).
+
+2. Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).
+
+3. Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).
+
+4. Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.
+
+5. Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).
+
+Full resource: hashtagweb3.com/nomads/li

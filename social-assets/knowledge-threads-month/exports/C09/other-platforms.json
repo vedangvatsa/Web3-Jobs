@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.",
+        "alt": "Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "image": "social-assets/knowledge-threads-month/images/C09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Community practice rewrite: 'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.' Your Role: Personal practice project. This describes a sample artifact, not past employment.",
+        "alt": "Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "image": "social-assets/knowledge-threads-month/images/C09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Content practice rewrite: 'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.' Project Name: Sample Token Approval Guide. This is example wording, not a published article claim.",
+        "alt": "Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Example summaries connect each target to its sample: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals. Put the sentence in Professional Summary.",
+        "alt": "Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "The technical example gives an interview walkthrough: disconnect the wallet, load a balance, then simulate an RPC error. The community example gives a support walkthrough: classify, assign, record the resolution. These are practice prompts.",
+        "alt": "Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+        "image": "social-assets/knowledge-threads-month/images/C09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "In the builder, use Key Projects & Portfolio for these practice pieces. Project Name, Your Role, Description and Link are separate fields; Download PDF exports the preview.\n\nhashtagweb3.com/resume-builder/x",
+        "alt": "Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.",
+        "alt": "Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "image": "social-assets/knowledge-threads-month/images/C09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Community practice rewrite: 'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.' Your Role: Personal practice project. This describes a sample artifact, not past employment.",
+        "alt": "Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "image": "social-assets/knowledge-threads-month/images/C09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Content practice rewrite: 'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.' Project Name: Sample Token Approval Guide. This is example wording, not a published article claim.",
+        "alt": "Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Example summaries connect each target to its sample: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals. Put the sentence in Professional Summary.",
+        "alt": "Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "The technical example gives an interview walkthrough: disconnect the wallet, load a balance, then simulate an RPC error. The community example gives a support walkthrough: classify, assign, record the resolution. These are practice prompts.",
+        "alt": "Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+        "image": "social-assets/knowledge-threads-month/images/C09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "In the builder, use Key Projects & Portfolio for these practice pieces. Project Name, Your Role, Description and Link are separate fields; Download PDF exports the preview.\n\nhashtagweb3.com/resume-builder/th",
+        "alt": "Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "image": "social-assets/knowledge-threads-month/images/C09-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.\n\n1. Community practice rewrite: 'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.' Your Role: Personal practice project. This describes a sample artifact, not past employment.\n\n2. Content practice rewrite: 'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.' Project Name: Sample Token Approval Guide. This is example wording, not a published article claim.\n\n3. Example summaries connect each target to its sample: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals. Put the sentence in Professional Summary.\n\n4. The technical example gives an interview walkthrough: disconnect the wallet, load a balance, then simulate an RPC error. The community example gives a support walkthrough: classify, assign, record the resolution. These are practice prompts.\n\n5. In the builder, use Key Projects & Portfolio for these practice pieces. Project Name, Your Role, Description and Link are separate fields; Download PDF exports the preview.\n\nFull resource: hashtagweb3.com/resume-builder/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-01.jpg",
+        "sha256": "a24b102c09878cf458c45c3f96ccdb519071c61a3a3f42a61f922667e156ec1d",
+        "bytes": 163365,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-02.jpg",
+        "sha256": "0e19b8500566dca0b90d1f03c097c36dd933b66d9e24dbc28abcc1f364c05b3c",
+        "bytes": 166205,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-03.jpg",
+        "sha256": "a09e5a1d540a3023f70d1a890fcdb158a4263de3e9e1347e7d7b3665a7588389",
+        "bytes": 170277,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-04.jpg",
+        "sha256": "9e6a80f1d92ee4a279c3d1f5fd98323ddec9135cd80434d5bd0850da9b81b61f",
+        "bytes": 159698,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-05.jpg",
+        "sha256": "845401236cd2a855704c9432f795f638d966c407595024159295ab3d9bc8f75b",
+        "bytes": 161395,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-06.jpg",
+        "sha256": "6cd7f46896a9e512b4125e613e52c26cd96da653f553bdd93eba459fd7b86bd5",
+        "bytes": 172300,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.\n\nhashtagweb3.com/resume-builder/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-01.jpg",
+        "sha256": "a24b102c09878cf458c45c3f96ccdb519071c61a3a3f42a61f922667e156ec1d",
+        "bytes": 163365,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-02.jpg",
+        "sha256": "0e19b8500566dca0b90d1f03c097c36dd933b66d9e24dbc28abcc1f364c05b3c",
+        "bytes": 166205,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-03.jpg",
+        "sha256": "a09e5a1d540a3023f70d1a890fcdb158a4263de3e9e1347e7d7b3665a7588389",
+        "bytes": 170277,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-04.jpg",
+        "sha256": "9e6a80f1d92ee4a279c3d1f5fd98323ddec9135cd80434d5bd0850da9b81b61f",
+        "bytes": 159698,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-05.jpg",
+        "sha256": "845401236cd2a855704c9432f795f638d966c407595024159295ab3d9bc8f75b",
+        "bytes": 161395,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C09-06.jpg",
+        "sha256": "6cd7f46896a9e512b4125e613e52c26cd96da653f553bdd93eba459fd7b86bd5",
+        "bytes": 172300,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "Practice rewrite for a technical resume: 'Built a dApp' becomes 'Built a React token-balance view with disconnected, loading and RPC-error states.' Put it in the project's Description field. Example wording.",
+        "image": "social-assets/knowledge-threads-month/images/C09-01.jpg",
+        "alt": "Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states."
+      },
+      {
+        "text": "Community practice rewrite: 'Managed Discord' becomes 'Drafted a mock support queue with issue category, escalation owner and resolution note.' Your Role: Personal practice project. This describes a sample artifact, not past employment.",
+        "image": "social-assets/knowledge-threads-month/images/C09-02.jpg",
+        "alt": "Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note."
+      },
+      {
+        "text": "Content practice rewrite: 'Wrote about crypto' becomes 'Wrote a practice guide explaining approve and transferFrom with a worked allowance example.' Project Name: Sample Token Approval Guide. This is example wording, not a published article claim.",
+        "image": "social-assets/knowledge-threads-month/images/C09-03.jpg",
+        "alt": "Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      },
+      {
+        "text": "Example summaries connect each target to its sample: frontend developer building a balance view; community contributor drafting a support queue; content writer explaining token approvals. Put the sentence in Professional Summary.",
+        "image": "social-assets/knowledge-threads-month/images/C09-04.jpg",
+        "alt": "Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example."
+      },
+      {
+        "text": "The technical example gives an interview walkthrough: disconnect the wallet, load a balance, then simulate an RPC error. The community example gives a support walkthrough: classify, assign, record the resolution. These are practice prompts.",
+        "image": "social-assets/knowledge-threads-month/images/C09-05.jpg",
+        "alt": "Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff."
+      },
+      {
+        "text": "In the builder, use Key Projects & Portfolio for these practice pieces. Project Name, Your Role, Description and Link are separate fields; Download PDF exports the preview.\n\nhashtagweb3.com/resume-builder/bsky",
+        "image": "social-assets/knowledge-threads-month/images/C09-06.jpg",
+        "alt": "Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example."
+      }
+    ]
+  }
+}

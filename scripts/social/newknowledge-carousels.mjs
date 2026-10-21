@@ -8,11 +8,12 @@ import { providerImageVerifier } from './newknowledge-images.mjs';
 import { CAROUSEL_START, CAROUSEL_END, CAROUSEL_PLATFORMS, assertCarouselDate, githubCarouselReceipt, localJournal } from './newknowledge-carousel-state.mjs';
 import { carouselProviderClient } from './newknowledge-carousel-providers.mjs';
 import { loadCarouselSources, validateCarouselManifest, inspectCarouselExport, carouselSpec, verifyPinnedCarouselAssets, providerDocumentVerifier, runCarouselPlatform } from './newknowledge-carousel-publisher.mjs';
+import { createInstagramCarouselSpec, instagramCarouselClient, runInstagramCarousel } from './newknowledge-instagram-carousel.mjs';
 
 const ROOT = fileURLToPath(new URL('../../', import.meta.url));
 
 function redactor(env) {
-  const secrets = [env.BUFFER_ACCESS_TOKEN, env.GITHUB_TOKEN].filter(Boolean);
+  const secrets = [env.BUFFER_ACCESS_TOKEN, env.META_PAGE_TOKEN, env.GITHUB_TOKEN].filter(Boolean);
   return value => JSON.parse(JSON.stringify(value, (_key, item) => {
     if (typeof item !== 'string') return item;
     for (const secret of secrets) item = item.replaceAll(secret, '[redacted]').replaceAll(encodeURIComponent(secret), '[redacted]');
@@ -40,6 +41,9 @@ export async function main(args = process.argv.slice(2), env = process.env, { ro
   const date = values.date || new Date(clock()).toISOString().slice(0, 10);
   if (!['plan', 'validate', 'accounts'].includes(mode) || values.date) assertCarouselDate(date);
   const targets = platform === 'both' ? CAROUSEL_PLATFORMS : [platform];
+  const instagramTransport = env.KNOWLEDGE_INSTAGRAM_TRANSPORT || 'buffer';
+  assert.ok(['buffer', 'meta'].includes(instagramTransport), 'Unknown Instagram carousel transport');
+  const directInstagram = target => target === 'instagram' && instagramTransport === 'meta';
   const redact = redactor(env);
   const emit = value => output(JSON.stringify(redact(value), null, 2));
   const makeJournal = async (target, folder = date) => {
@@ -60,8 +64,9 @@ export async function main(args = process.argv.slice(2), env = process.env, { ro
       let journal;
       try {
         journal = await makeJournal(target, 'accounts');
-        const account = await carouselProviderClient(target, { env, fetcher, readOnly: true }).account();
-        const result = { platform: target, status: 'account-verified', account };
+        const client = directInstagram(target) ? instagramCarouselClient({ env, fetcher, readOnly: true }) : carouselProviderClient(target, { env, fetcher, readOnly: true });
+        const account = await client.account();
+        const result = { platform: target, transport: directInstagram(target) ? 'meta' : 'buffer', status: 'account-verified', account };
         await journal(result, 'account'); results.push(result);
       } catch (error) {
         const result = { platform: target, status: 'stopped', error: redact(error.message) };
@@ -99,12 +104,14 @@ export async function main(args = process.argv.slice(2), env = process.env, { ro
       }
       const inspected = await inspectCarouselExport(root, bundle, entry, target);
       const assetCommit = state?.spec.assetCommit || env.KNOWLEDGE_CAROUSEL_ASSET_COMMIT;
-      const spec = carouselSpec(bundle, entry, target, inspected, assetCommit);
+      const baseSpec = carouselSpec(bundle, entry, target, inspected, assetCommit);
+      const spec = directInstagram(target) ? createInstagramCarouselSpec(baseSpec) : baseSpec;
       const events = inspected.sourceThread.freshness && mode !== 'reconcile'
         ? JSON.parse(await fs.readFile(path.join(root, 'content/events-runtime.json'), 'utf8')) : [];
-      const result = await runCarouselPlatform({
+      const runPlatform = directInstagram(target) ? runInstagramCarousel : runCarouselPlatform;
+      const result = await runPlatform({
         spec, sourceThread: inspected.sourceThread, calendar: bundle.calendar, events, store, initialState: state, mode, recovery, clock, journal,
-        client: carouselProviderClient(target, { env, fetcher, readOnly: mode !== 'publish' || Boolean(state) }),
+        client: directInstagram(target) ? instagramCarouselClient({ env, fetcher, readOnly: mode !== 'publish' }) : carouselProviderClient(target, { env, fetcher, readOnly: mode !== 'publish' || Boolean(state) }),
         verifyAssets: async current => {
           await verifyPinnedCarouselAssets(current, fetcher);
           await verifyPostLinks([{ text: current.caption }], fetcher);

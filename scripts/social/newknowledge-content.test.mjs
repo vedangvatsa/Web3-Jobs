@@ -105,3 +105,14 @@ test('preflight rejects off-site and false-host input links before fetching', as
     assert.equal(requests, 0, link);
   }
 });
+
+test('technical member expressions are text, while explicit URLs and lookalikes remain checked', async () => {
+  const requested = [];
+  await verifyPostLinks([{ text: 'Compare msg.sender, msg.value, tx.origin and tx.from. Read hashtagweb3.com/interview-questions/th' }], async url => {
+    requested.push(url); return { status: 200, url };
+  });
+  assert.deepEqual(requested, ['https://hashtagweb3.com/interview-questions/th']);
+  for (const link of ['https://msg.sender', 'other.sender', 'msg.sender/private']) {
+    await assert.rejects(() => verifyPostLinks([{ text: link }], async () => { throw new Error('must reject before fetching'); }), /Only own-site links/);
+  }
+});

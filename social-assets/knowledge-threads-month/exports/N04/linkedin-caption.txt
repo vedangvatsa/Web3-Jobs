@@ -1,0 +1,19 @@
+Displaying 1000000 as a token balance can be a million-fold mistake. For a 6-decimal token, that is 1 token.
+Five frontend dApp interview questions on reads, units, pending transactions, NFTs and signing, with short answers.
+
+1. Q: What does a provider do in ethers or viem?
+A: In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account.
+
+2. Q: How do you display a uint256 token balance?
+A: Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.
+
+3. Q: Why is an Ethereum transaction stuck, and what should the UI do?
+A: Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee.
+
+4. Q: How do you show a wallet's NFTs across contracts?
+A: Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection.
+
+5. Q: Why use EIP-712 rather than personal_sign for orders?
+A: It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry.
+
+Full resource: hashtagweb3.com/interview-questions/li

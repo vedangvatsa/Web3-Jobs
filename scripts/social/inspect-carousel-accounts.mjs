@@ -26,12 +26,22 @@ try {
 } catch (error) { results.instagram.bufferError = redact(error.message); }
 if (process.env.META_PAGE_TOKEN) {
   try {
-    const response = await fetch('https://graph.facebook.com/v21.0/17841473830256790?fields=id,username,account_type', { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
+    const response = await fetch('https://graph.facebook.com/v21.0/17841473830256790?fields=id,username', { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
     const body = await response.json();
     if (!response.ok || body.error) throw new Error(`Meta read: HTTP ${response.status}; ${body.error?.message || 'unknown error'}`);
     assert.equal(body.id, '17841473830256790');
     assert.match(body.username, /^hashtag_?web3$/i);
     results.instagram.directAccount = body;
+    const mediaResponse = await fetch('https://graph.facebook.com/v21.0/17841473830256790/media?fields=id,media_type&limit=25', { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
+    const media = await mediaResponse.json();
+    if (mediaResponse.ok && Array.isArray(media.data) && media.data.length) {
+      const example = media.data.find(item => item.media_type === 'IMAGE' || item.media_type === 'CAROUSEL_ALBUM') || media.data[0];
+      assert.match(example.id, /^\d+$/);
+      const route = example.media_type === 'CAROUSEL_ALBUM' ? `${example.id}/children?fields=id,media_type,alt_text&limit=6` : `${example.id}?fields=id,media_type,alt_text`;
+      const check = await fetch(`https://graph.facebook.com/v21.0/${route}`, { headers: { Authorization: `Bearer ${process.env.META_PAGE_TOKEN}` }, signal: AbortSignal.timeout(30000) });
+      const details = await check.json();
+      results.instagram.altTextReadback = { sourceMediaId: example.id, mediaType: example.media_type, supported: check.ok && !details.error, ...(details.error ? { error: redact(details.error.message) } : {}) };
+    }
   } catch (error) { results.instagram.directError = redact(error.message); }
 }
 for (const platform of ['linkedin', 'instagram']) {

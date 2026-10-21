@@ -1,0 +1,19 @@
+A valid signature can be reused, and a token can transfer less than the amount requested.
+Five smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.
+
+1. Q: What is Slither, and what can it find?
+A: A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety.
+
+2. Q: What token behavior do you check first in a staking audit?
+A: Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.
+
+3. Q: What is signature replay, and how do you stop it?
+A: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.
+
+4. Q: What is fuzzing, and which tool supports it?
+A: Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.
+
+5. Q: Can an unbounded view loop cause denial of service?
+A: Yes. eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.
+
+Full resource: hashtagweb3.com/interview-questions/ig

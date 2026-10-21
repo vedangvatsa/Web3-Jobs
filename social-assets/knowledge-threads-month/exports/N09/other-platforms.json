@@ -1,0 +1,222 @@
+{
+  "x": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.\nFive courses in our learning library, with a named lesson and a concrete takeaway from each.",
+        "alt": "Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner",
+        "image": "social-assets/knowledge-threads-month/images/N09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Web3 Fundamentals (15 lessons): Wallets and Private Keys.\nA wallet signs messages and transactions. In self-custody, you control keys or permissions; a custodian controls them for you. A signature proves account control, not legal identity.",
+        "alt": "Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity.",
+        "image": "social-assets/knowledge-threads-month/images/N09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.",
+        "alt": "Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters.",
+        "image": "social-assets/knowledge-threads-month/images/N09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Smart Contract Development (9 lessons): Testing Smart Contracts.\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties.",
+        "alt": "Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);",
+        "image": "social-assets/knowledge-threads-month/images/N09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.\nUnique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later.",
+        "alt": "Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit.",
+        "image": "social-assets/knowledge-threads-month/images/N09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "AI x Crypto Intersection (7 lessons): Autonomous Agents.\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nhashtagweb3.com/learn/x",
+        "alt": "Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access.",
+        "image": "social-assets/knowledge-threads-month/images/N09-06.jpg"
+      }
+    ]
+  },
+  "threads": {
+    "posts": [
+      {
+        "number": 1,
+        "text": "A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.\nFive courses in our learning library, with a named lesson and a concrete takeaway from each.",
+        "alt": "Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner",
+        "image": "social-assets/knowledge-threads-month/images/N09-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Web3 Fundamentals (15 lessons): Wallets and Private Keys.\nA wallet signs messages and transactions. In self-custody, you control keys or permissions; a custodian controls them for you. A signature proves account control, not legal identity.",
+        "alt": "Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity.",
+        "image": "social-assets/knowledge-threads-month/images/N09-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.",
+        "alt": "Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters.",
+        "image": "social-assets/knowledge-threads-month/images/N09-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Smart Contract Development (9 lessons): Testing Smart Contracts.\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties.",
+        "alt": "Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);",
+        "image": "social-assets/knowledge-threads-month/images/N09-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.\nUnique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later.",
+        "alt": "Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit.",
+        "image": "social-assets/knowledge-threads-month/images/N09-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "AI x Crypto Intersection (7 lessons): Autonomous Agents.\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nhashtagweb3.com/learn/th",
+        "alt": "Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access.",
+        "image": "social-assets/knowledge-threads-month/images/N09-06.jpg"
+      }
+    ]
+  },
+  "facebook": {
+    "caption": "A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.\nFive courses in our learning library, with a named lesson and a concrete takeaway from each.\n\n1. Web3 Fundamentals (15 lessons): Wallets and Private Keys.\nA wallet signs messages and transactions. In self-custody, you control keys or permissions; a custodian controls them for you. A signature proves account control, not legal identity.\n\n2. Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.\n\n3. Smart Contract Development (9 lessons): Testing Smart Contracts.\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties.\n\n4. Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.\nUnique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later.\n\n5. AI x Crypto Intersection (7 lessons): Autonomous Agents.\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nFull resource: hashtagweb3.com/learn/fb",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-01.jpg",
+        "sha256": "fcb44f6d691308ecabdfc77f5882984ed4ff3457c0d3377391e15906bd17005f",
+        "bytes": 149286,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-02.jpg",
+        "sha256": "82388fa656b1153d8691c07570c95b95d61f1a9840f8fe874a291b058b196952",
+        "bytes": 152488,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-03.jpg",
+        "sha256": "29abe53393bc030f8334194288253d327e0fec02b2c37370c7a6c1660bdb2b6c",
+        "bytes": 176652,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-04.jpg",
+        "sha256": "af4e1e90dc148041e7be12557914775b5eecfa1ef1a630e819e32f47654a1cd4",
+        "bytes": 175446,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-05.jpg",
+        "sha256": "fe3b3084f978a0a862b94db13b36a7e55bfc0081187d20ab03c08036a5d466e3",
+        "bytes": 174134,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-06.jpg",
+        "sha256": "641f9973f90d6ea14b6c74a6de288789e0cc493aca285c30a8d416f5b5e3a9d6",
+        "bytes": 169044,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access."
+      }
+    ]
+  },
+  "telegram": {
+    "caption": "A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.\nFive courses in our learning library, with a named lesson and a concrete takeaway from each.\n\nhashtagweb3.com/learn/tg",
+    "images": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-01.jpg",
+        "sha256": "fcb44f6d691308ecabdfc77f5882984ed4ff3457c0d3377391e15906bd17005f",
+        "bytes": 149286,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-02.jpg",
+        "sha256": "82388fa656b1153d8691c07570c95b95d61f1a9840f8fe874a291b058b196952",
+        "bytes": 152488,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-03.jpg",
+        "sha256": "29abe53393bc030f8334194288253d327e0fec02b2c37370c7a6c1660bdb2b6c",
+        "bytes": 176652,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-04.jpg",
+        "sha256": "af4e1e90dc148041e7be12557914775b5eecfa1ef1a630e819e32f47654a1cd4",
+        "bytes": 175446,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-05.jpg",
+        "sha256": "fe3b3084f978a0a862b94db13b36a7e55bfc0081187d20ab03c08036a5d466e3",
+        "bytes": 174134,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit."
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N09-06.jpg",
+        "sha256": "641f9973f90d6ea14b6c74a6de288789e0cc493aca285c30a8d416f5b5e3a9d6",
+        "bytes": 169044,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access."
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "text": "A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.\nFive courses in our learning library, with a named lesson and a concrete takeaway from each.",
+        "image": "social-assets/knowledge-threads-month/images/N09-01.jpg",
+        "alt": "Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner"
+      },
+      {
+        "text": "Web3 Fundamentals (15 lessons): Wallets and Private Keys.\nA wallet signs messages and transactions. In self-custody, you control keys or permissions; a custodian controls them for you. A signature proves account control, not legal identity.",
+        "image": "social-assets/knowledge-threads-month/images/N09-02.jpg",
+        "alt": "Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity."
+      },
+      {
+        "text": "Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.\nExample: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.",
+        "image": "social-assets/knowledge-threads-month/images/N09-03.jpg",
+        "alt": "Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters."
+      },
+      {
+        "text": "Smart Contract Development (9 lessons): Testing Smart Contracts.\nThe sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties.",
+        "image": "social-assets/knowledge-threads-month/images/N09-04.jpg",
+        "alt": "Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);"
+      },
+      {
+        "text": "Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.\nUnique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later.",
+        "image": "social-assets/knowledge-threads-month/images/N09-05.jpg",
+        "alt": "Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit."
+      },
+      {
+        "text": "AI x Crypto Intersection (7 lessons): Autonomous Agents.\nSeparate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.\n\nhashtagweb3.com/learn/bsky",
+        "image": "social-assets/knowledge-threads-month/images/N09-06.jpg",
+        "alt": "Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access."
+      }
+    ]
+  }
+}

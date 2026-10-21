@@ -1,0 +1,19 @@
+A wallet signature proves account control, not legal identity. Active wallet counts also do not count people.
+Five courses in our learning library, with a named lesson and a concrete takeaway from each.
+
+1. Web3 Fundamentals (15 lessons): Wallets and Private Keys.
+A wallet signs messages and transactions. In self-custody, you control keys or permissions; a custodian controls them for you. A signature proves account control, not legal identity.
+
+2. Decentralized Finance (9 lessons): Lending and Borrowing in DeFi.
+Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market.
+
+3. Smart Contract Development (9 lessons): Testing Smart Contracts.
+The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties.
+
+4. Web3 Marketing & Community (8 lessons): Growth Metrics and Analytics.
+Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later.
+
+5. AI x Crypto Intersection (7 lessons): Autonomous Agents.
+Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists.
+
+Full resource: hashtagweb3.com/learn/li

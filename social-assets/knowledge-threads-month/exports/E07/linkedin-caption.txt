@@ -1,0 +1,13 @@
+Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.
+
+1. Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.
+
+2. Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.
+
+3. Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.
+
+4. Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.
+
+5. Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.
+
+Full resource: hashtagweb3.com/salary-calculator/li

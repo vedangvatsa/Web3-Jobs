@@ -1,0 +1,13 @@
+The quiz has four archetypes. One match is The Builder -> Smart Contract Developer: writes on-chain dApp logic. Example practice output: a local deposit/withdrawal contract with tests.
+
+1. The Strategist -> Web3 Product Manager. The quiz describes work on a decentralized product's vision and roadmap. Example practice output: a wallet-onboarding spec covering connection, wrong-network and failed-transaction screens.
+
+2. The Analyst -> On-Chain Data Analyst. The quiz names Dune as a tool for analyzing blockchain data. Example practice output: a query counting daily active wallets, with the chain, time window and wallet definition stated.
+
+3. The Community Weaver -> Community Manager. The quiz describes managing Discord; it also recommends Marketing / Growth Lead and DevRel. Example practice output: a support queue with issue category, escalation owner and resolution note.
+
+4. A fifth role match is The Builder -> Frontend/Web3 Developer, which builds dApp interfaces. Example practice output: a token-balance screen with disconnected, loading and RPC-error states. This shares an archetype with contract development.
+
+5. The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer. Answer 16 questions to see your archetype and its three suggested roles.
+
+Full resource: hashtagweb3.com/web3-career-quiz/li

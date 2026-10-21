@@ -1,0 +1,255 @@
+{
+  "checkedAt": "2026-10-21T17:21:28.337Z",
+  "sourceContentSha256": "a2547fc5842ffd98bceab9e06721d8c1d25a66d365f39ae4e5d3dfc981325ed2",
+  "documents": 27,
+  "totalPages": 162,
+  "embeddedOriginalImagesVerified": 162,
+  "instagramImages": 162,
+  "imagePacks": 27,
+  "maxInstagramCaptionUnits": 1469,
+  "records": [
+    {
+      "id": "C02",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1303,
+      "instagramUnits": 1321
+    },
+    {
+      "id": "E02",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1238,
+      "instagramUnits": 1262
+    },
+    {
+      "id": "N02",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1255,
+      "instagramUnits": 1266
+    },
+    {
+      "id": "C03",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1010,
+      "instagramUnits": 1023
+    },
+    {
+      "id": "E03",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1348,
+      "instagramUnits": 1371
+    },
+    {
+      "id": "N03",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1383,
+      "instagramUnits": 1372
+    },
+    {
+      "id": "C04",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1423,
+      "instagramUnits": 1435
+    },
+    {
+      "id": "E04",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1158,
+      "instagramUnits": 1181
+    },
+    {
+      "id": "N04",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1434,
+      "instagramUnits": 1466
+    },
+    {
+      "id": "C05",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1348,
+      "instagramUnits": 1360
+    },
+    {
+      "id": "E05",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1119,
+      "instagramUnits": 1132
+    },
+    {
+      "id": "N05",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1291,
+      "instagramUnits": 1312
+    },
+    {
+      "id": "C06",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1251,
+      "instagramUnits": 1264
+    },
+    {
+      "id": "E06",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1372,
+      "instagramUnits": 1390
+    },
+    {
+      "id": "N06",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1154,
+      "instagramUnits": 1167
+    },
+    {
+      "id": "C07",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1452,
+      "instagramUnits": 1469
+    },
+    {
+      "id": "E07",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1232,
+      "instagramUnits": 1256
+    },
+    {
+      "id": "N07",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1386,
+      "instagramUnits": 1398
+    },
+    {
+      "id": "C08",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1398,
+      "instagramUnits": 1404
+    },
+    {
+      "id": "E08",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1207,
+      "instagramUnits": 1220
+    },
+    {
+      "id": "N08",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1167,
+      "instagramUnits": 1180
+    },
+    {
+      "id": "C09",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1397,
+      "instagramUnits": 1418
+    },
+    {
+      "id": "E09",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1446,
+      "instagramUnits": 1458
+    },
+    {
+      "id": "N09",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1355,
+      "instagramUnits": 1373
+    },
+    {
+      "id": "C10",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1269,
+      "instagramUnits": 1287
+    },
+    {
+      "id": "E10",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1262,
+      "instagramUnits": 1275
+    },
+    {
+      "id": "N10",
+      "pages": 6,
+      "originalPdfImagesVerified": 6,
+      "instagramImages": 6,
+      "zipEntries": 8,
+      "linkedinUnits": 1292,
+      "instagramUnits": 1316
+    }
+  ]
+}
