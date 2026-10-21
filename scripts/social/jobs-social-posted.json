@@ -35076,6 +35076,39 @@
       "postId": "17974613883154166",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DevlVfOm-fR",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm259",
+      "company": "Robinhood",
+      "title": "Senior Product Manager, Advisor Marketplace",
+      "platform": "bluesky",
+      "postedAt": "2026-10-21T04:46:53.017Z",
+      "expectedText": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/bsky?og=7",
+      "snapshot": {
+        "id": "8265728",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8265728?t=gh_src=&gh_jid=8265728",
+        "date": "2026-10-20T10:04:39-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Menlo Park, CA; New York, NY",
+        "department": "TradePMR Product Management Division",
+        "active": true,
+        "salary": "$166k – $195k/yr",
+        "slug": "pm259",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Robinhood is hiring Senior Product Manager, Advisor Marketplace: https://hashtagweb3.com/pm259/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm259/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm259.png?v=7",
+        "company": "Robinhood",
+        "title": "Senior Product Manager, Advisor Marketplace",
+        "description": "Join Robinhood as Senior Product Manager, Advisor Ma. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "c4a17f33-120e-43c5-98a6-db197109364e",
+      "verification": "creating"
     }
   ]
 }
