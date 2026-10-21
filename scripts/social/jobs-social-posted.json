@@ -34327,7 +34327,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "cc5aad4e-fac3-4dc8-9b3e-8457af8cd806",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x28c5d49a492e875d7d791db35911c8970e5357cb"
     }
   ]
 }
