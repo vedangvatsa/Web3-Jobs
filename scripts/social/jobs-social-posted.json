@@ -35575,7 +35575,8 @@
       },
       "account": "channel:product",
       "attemptId": "dcaeaa96-dce3-40ec-a49c-dbbd07d12b23",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
