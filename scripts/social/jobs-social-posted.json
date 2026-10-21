@@ -38174,7 +38174,8 @@
       },
       "account": "channel:product",
       "attemptId": "d81072f1-2c4d-43e4-af76-59e8489bb28e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfcad1d6dc9f8cbf183984ca9bc67f29bdb337451"
     }
   ]
 }
