@@ -21,6 +21,8 @@ on:
     secrets:
       BUFFER_ACCESS_TOKEN:
         required: true
+      META_PAGE_TOKEN:
+        required: false
   workflow_dispatch:
     inputs:
       mode:
@@ -65,6 +67,12 @@ jobs:
       - name: Pin checked-out carousel assets
         run: |
           node --input-type=module -e 'import fs from "node:fs"; import {execFileSync} from "node:child_process"; const sha=execFileSync("git",["rev-parse","HEAD"],{encoding:"utf8"}).trim(); if(!/^[a-f0-9]{40}$/.test(sha)) throw new Error("Invalid commit"); fs.appendFileSync(process.env.GITHUB_ENV,`KNOWLEDGE_CAROUSEL_ASSET_COMMIT=${sha}\n`);'
+      - name: Inspect configured brand account mappings
+        if: ${{ inputs.mode == 'accounts' }}
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: node scripts/social/inspect-carousel-accounts.mjs
       - name: Inspect or publish the selected native carousel
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}

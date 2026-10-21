@@ -27,7 +27,9 @@ export function assertCarouselAccount(channel, platform) {
   assert.equal(channel.service, target.service, 'Wrong Buffer channel service');
   const serviceId = platform === 'linkedin' ? channel.serviceId?.replace(/^urn:li:organization:/, '') : channel.serviceId;
   assert.equal(serviceId, target.serviceId, 'Wrong Buffer profile serviceId');
-  assert.equal(profileURL(channel.externalLink), profileURL(target.profile), 'Wrong Buffer public profile');
+  const profiles = [profileURL(target.profile)];
+  if (platform === 'linkedin') profiles.push(`linkedin.com/company/${target.serviceId}`);
+  assert.ok(profiles.includes(profileURL(channel.externalLink)), 'Wrong Buffer public profile');
   if (platform === 'linkedin') assert.equal(channel.type, 'page', 'LinkedIn must be the brand Page');
   if (platform === 'instagram') {
     assert.ok(['business', 'account', 'profile'].includes(channel.type), 'Unsupported Instagram channel type');

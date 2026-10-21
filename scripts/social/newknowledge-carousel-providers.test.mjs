@@ -18,6 +18,8 @@ test('identity requires the brand serviceId and public profile, not a display na
   assert.throws(() => assertCarouselAccount({ ...account('linkedin'), type: 'profile', externalLink: 'https://www.linkedin.com/in/easton-augustine-7a45aa102/' }, 'linkedin'));
   assert.throws(() => assertCarouselAccount({ ...account('linkedin'), id: '6a134180c687a22dd420e089', externalLink: 'https://www.linkedin.com/company/cvinbio/' }, 'linkedin'));
   assert.equal(assertCarouselAccount({ ...account('linkedin'), serviceId: 'urn:li:organization:89714573' }, 'linkedin').serviceId, '89714573');
+  assert.equal(assertCarouselAccount({ ...account('linkedin'), externalLink: 'https://www.linkedin.com/company/89714573' }, 'linkedin').serviceId, '89714573');
+  assert.throws(() => assertCarouselAccount({ ...account('linkedin'), externalLink: 'https://www.linkedin.com/company/12345' }, 'linkedin'));
   assert.throws(() => assertCarouselAccount({ ...account('linkedin'), serviceId: 'urn:li:person:89714573' }, 'linkedin'));
   assert.throws(() => assertCarouselAccount({ ...account('instagram'), name: 'hashtag_web3' }, 'instagram'));
 });
