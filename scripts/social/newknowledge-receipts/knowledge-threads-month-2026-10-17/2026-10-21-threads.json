@@ -122,6 +122,12 @@
       "postId": "17976776784149105",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DewTtjnlh-p",
       "verifiedAt": "2026-10-21T11:32:31.364Z"
+    },
+    "2": {
+      "createClaim": "4015d3fc-cc0e-407e-886f-8358521a50a9",
+      "startedAt": "2026-10-21T11:32:32.625Z",
+      "status": "claimed",
+      "replyTo": "17976776784149105"
     }
   }
 }
