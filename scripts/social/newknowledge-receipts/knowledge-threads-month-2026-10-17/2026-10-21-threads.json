@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-21",
+    "threadId": "C02",
+    "sequence": 4,
+    "platform": "threads",
+    "assetCommit": "b837bee290ae142d8908c9f6b5333c5e08dfe297",
+    "contentDigest": "01ae15784b7eeabdedbdc5c29edbafc62372d889c5492eea60552733e290842a",
+    "posts": [
+      {
+        "number": 1,
+        "text": "10 selected citizenship routes: Sao Tome and Principe's USD 90,000 donation, Turkiye's USD 400,000 property and Jordan's JOD 350,000 existing-business test. One main applicant; fees extra, eligibility and approval required.",
+        "alt": "10 countries, different kinds of capital. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Sao Tome and Principe; USD 90,000 fund donation; Turkiye; Qualifying property · 3-year resale restriction; 10 selected routes. Eligibility and approval required; amounts exclude fees. Screenshot text: From USD 90,000 Contribution; From USD 400,000 Property",
+        "image": "social-assets/knowledge-threads-month/images/C02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Dominica: USD 200,000 to the Economic Diversification Fund. Antigua and Barbuda: USD 230,000 to the National Development Fund. Both use agent-submitted applications; these are contributions, not property purchases.",
+        "alt": "Dominica and Antigua and Barbuda. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Dominica; Non-refundable EDF contribution. Authorised agent submits.; Antigua and Barbuda; NDF contribution. Licensed local agent submits. Screenshot text: From USD 200,000 Contribution; From USD 230,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Grenada: USD 235,000 to the National Transformation Fund. Saint Lucia: USD 240,000 to the National Economic Fund, plus a sworn declaration of at least USD 350,000 in financial resources.",
+        "alt": "Contribution versus financial resources. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Grenada; NTF contribution; payment follows approval.; Saint Lucia; Sworn declaration: at least USD 350,000 financial resources. This is not another payment. Screenshot text: From USD 235,000 Contribution; From USD 240,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Saint Kitts and Nevis: USD 250,000 Sustainable Island State Contribution. Turkiye: USD 400,000 qualifying real estate, with a 3-year resale restriction and a presidential citizenship decision.",
+        "alt": "A contribution or a property purchase. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Saint Kitts and Nevis; Sustainable Island State Contribution. Main-applicant interview required.; Turkiye; Qualifying property. At least 3-year resale restriction; subject to presidential decision. Screenshot text: From USD 250,000 Contribution; From USD 400,000 Property",
+        "image": "social-assets/knowledge-threads-month/images/C02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Sao Tome and Principe: USD 90,000 National Transformation Fund donation. Nauru: USD 115,000 regular Treasury contribution; USD 90,000 offer for applications filed before December 31, 2026. Both add fees.",
+        "alt": "A standing price and a dated offer. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Sao Tome and Principe; Single-applicant donation after approval in principle.; Nauru; Regular: USD 115,000. Offer: USD 90,000 for applications filed prior to December 31, 2026.; Submission, document and due-diligence fees are additional. Screenshot text: From USD 90,000 Contribution; From USD 115,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Egypt: USD 250,000 Treasury grant. Jordan, outside Capital Governorate: your eligible asset share must average at least JOD 350,000 over 3 audited years, with 10 Jordanian employees on average and at least 9 each month.\n\nhashtagweb3.com/citizenship/th",
+        "alt": "Egypt's grant and Jordan's existing-business test. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Egypt; Non-refundable Treasury grant; transfer from abroad. USD 10,000 application fee separate.; Jordan; Outside Capital Governorate: eligible asset share averages JOD 350,000 over 3 audited years. Average 10 Jordanian employees, at least 9 each month. Screenshot text: From USD 250,000 Contribution; From JOD 350,000 Business",
+        "image": "social-assets/knowledge-threads-month/images/C02-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-01.jpg",
+        "sha256": "f2f506778866e782034d2c66157fa9f6e672c4421cf897fcc9970ccdd3880d48",
+        "bytes": 150921,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-02.jpg",
+        "sha256": "d74744b86bb64cf71344fbd830949624125ab7799d9fd98d841654d1d8a62279",
+        "bytes": 139667,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-03.jpg",
+        "sha256": "e48bf6fd7414b52fb4211c492416bf7bb8abe738736a4fe072a23c954e8672aa",
+        "bytes": 146005,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-04.jpg",
+        "sha256": "6c52b57921c4be562547e39eafb914c4a8c4ee67743dd4bb600d5707322cb5a4",
+        "bytes": 153774,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-05.jpg",
+        "sha256": "7fa8a32e9b24229d7adf97b3ceab70b105c060f9a708a6063c00606aa8862dff",
+        "bytes": 164757,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-06.jpg",
+        "sha256": "83fbb00b6f1b54152557017801c0fbaed7dc641838f42836ede3c3f166fe6b54",
+        "bytes": 180358,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-06.jpg"
+      }
+    ]
+  },
+  "accountId": "28140464265581606",
+  "claimId": "bb441ff5-9bad-4a4f-a496-fa3b3b56b33a",
+  "startedAt": "2026-10-21T11:31:46.184Z",
+  "status": "verified",
+  "steps": {
+    "0": {
+      "createClaim": "cb91a52a-dc9c-4b04-9fa3-a092990e768d",
+      "startedAt": "2026-10-21T11:32:02.238Z",
+      "status": "verified",
+      "containerId": "18097959506199925",
+      "publishClaim": "cbce8a75-748a-413b-b8c4-a1f4e7b2f6aa",
+      "postId": "18026223464875568",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewTr0jluka",
+      "verifiedAt": "2026-10-21T11:32:15.705Z"
+    },
+    "1": {
+      "createClaim": "6519b94c-f126-45cc-8e55-9fe46ac949cf",
+      "startedAt": "2026-10-21T11:32:16.844Z",
+      "status": "verified",
+      "replyTo": "18026223464875568",
+      "containerId": "18097959560199925",
+      "publishClaim": "93b3e096-57a5-4b2c-a163-e0826548a98a",
+      "postId": "17976776784149105",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewTtjnlh-p",
+      "verifiedAt": "2026-10-21T11:32:31.364Z"
+    },
+    "2": {
+      "createClaim": "4015d3fc-cc0e-407e-886f-8358521a50a9",
+      "startedAt": "2026-10-21T11:32:32.625Z",
+      "status": "verified",
+      "replyTo": "17976776784149105",
+      "containerId": "18097959698199925",
+      "publishClaim": "4f0aac58-eba8-4a8f-b051-38a6ed06dbe2",
+      "postId": "18089511413268165",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewTvjMlo5J",
+      "verifiedAt": "2026-10-21T11:32:58.591Z"
+    },
+    "3": {
+      "createClaim": "596959d4-905d-49c5-8c78-4332a3d95c16",
+      "startedAt": "2026-10-21T11:32:59.849Z",
+      "status": "verified",
+      "replyTo": "18089511413268165",
+      "containerId": "18097959740199925",
+      "publishClaim": "65b046b7-1322-4b3b-b310-f56cb3d8ed71",
+      "postId": "18103076969041458",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewTyzsFu9Y",
+      "verifiedAt": "2026-10-21T11:33:53.284Z"
+    },
+    "4": {
+      "createClaim": "60eb969e-8603-4b1b-bffd-d7536a69d70d",
+      "startedAt": "2026-10-21T11:33:54.605Z",
+      "status": "verified",
+      "replyTo": "18103076969041458",
+      "containerId": "18097959794199925",
+      "publishClaim": "7c545548-dfad-46e3-9680-8635b92b80bf",
+      "postId": "18062913542792568",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewT5kPFpiz",
+      "verifiedAt": "2026-10-21T11:34:13.548Z"
+    },
+    "5": {
+      "createClaim": "e5998e35-079f-4113-b2a9-d2687219bddc",
+      "startedAt": "2026-10-21T11:34:14.763Z",
+      "status": "verified",
+      "replyTo": "18062913542792568",
+      "containerId": "18097959839199925",
+      "publishClaim": "28eded40-ac31-40c2-b801-a14a701806af",
+      "postId": "17913596715517578",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DewT8CZFmWk",
+      "verifiedAt": "2026-10-21T11:34:30.437Z"
+    }
+  },
+  "permalink": "https://www.threads.com/@hashtagweb3/post/DewTr0jluka",
+  "verifiedAt": "2026-10-21T11:34:31.620Z"
+}

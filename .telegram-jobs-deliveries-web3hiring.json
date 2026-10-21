@@ -6705,5 +6705,122 @@
     "slotKey": "2026-10-20:afternoon",
     "messageId": 16557,
     "sentAt": "2026-10-20T11:32:32.978Z"
+  },
+  "ef9d989f-5941-4296-82e4-87526ad1a631": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T11:31:42.562Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "0f1aa8e9-96d3-4c7c-b115-a59f25cc076a",
+          "title": "Head of Liquidity and Capital Markets",
+          "company": "Open Standard",
+          "link": "https://jobs.ashbyhq.com/openstandard/0f1aa8e9-96d3-4c7c-b115-a59f25cc076a",
+          "date": "2026-09-23T05:50:59.242+00:00",
+          "source": "Ashby: Open Standard [openstandard]",
+          "location": "San Francisco",
+          "department": "Capital Markets",
+          "salary": "$225,000–$300,000 per year (USD)",
+          "applyUrl": "https://jobs.ashbyhq.com/openstandard/0f1aa8e9-96d3-4c7c-b115-a59f25cc076a/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "lcm"
+        },
+        "key": "0f1aa8e9-96d3-4c7c-b115-a59f25cc076a",
+        "slug": "lcm",
+        "url": "https://hashtagweb3.com/lcm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Open Standard",
+        "title": "Head of Liquidity and Capital Markets"
+      },
+      {
+        "snapshot": {
+          "id": "8262110",
+          "title": "Cashiering Support Associate",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8262110?t=gh_src=&gh_jid=8262110",
+          "date": "2026-10-07T14:36:44-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Clearwater, FL; Westlake, TX",
+          "department": "TradePMR Operations Division",
+          "active": true,
+          "salary": "$23 – $27/hr",
+          "dateVerified": true,
+          "slug": "aso49"
+        },
+        "key": "8262110",
+        "slug": "aso49",
+        "url": "https://hashtagweb3.com/aso49?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Cashiering Support Associate"
+      },
+      {
+        "snapshot": {
+          "id": "6212184004",
+          "title": "Product Manager - Trading API",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6212184004",
+          "date": "2026-10-07T11:18:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Global Anywhere",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm254"
+        },
+        "key": "6212184004",
+        "slug": "pm254",
+        "url": "https://hashtagweb3.com/pm254?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "a6df5ed6-8dfc-460f-bc74-06129163e858",
+          "title": "Senior Security Engineer - xStocks",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/a6df5ed6-8dfc-460f-bc74-06129163e858",
+          "date": "2026-10-16T19:40:07.002+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Poland)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec119"
+        },
+        "key": "a6df5ed6-8dfc-460f-bc74-06129163e858",
+        "slug": "sec119",
+        "url": "https://hashtagweb3.com/sec119?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8036167003",
+          "title": "Finance & Accounting Analyst",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8036167003",
+          "date": "2026-10-16T18:30:34-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "São Paulo, Brazil",
+          "department": "Finance Department",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls291"
+        },
+        "key": "8036167003",
+        "slug": "sls291",
+        "url": "https://hashtagweb3.com/sls291?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Finance & Accounting Analyst"
+      }
+    ],
+    "message": "- Open Standard is hiring <a href=\"https://hashtagweb3.com/lcm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Liquidity and Capital Markets</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cashiering Support Associate</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/pm254?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager - Trading API</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/sec119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer - xStocks</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sls291?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance &amp; Accounting Analyst</a>",
+    "slotKey": "2026-10-21:afternoon"
   }
 }

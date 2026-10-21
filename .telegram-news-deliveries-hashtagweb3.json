@@ -1888,5 +1888,38 @@
     "slotKey": "2026-10-20:evening",
     "messageId": 155866,
     "sentAt": "2026-10-20T19:33:53.742Z"
+  },
+  "59c8598b-c54a-401f-b9ae-9afad6a261b5": {
+    "status": "sent",
+    "reservedAt": "2026-10-21T11:34:50.082Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Injective and BDACS Partner on South Korean Won Stablecoin",
+        "summary": "The companies signed a memorandum of understanding to build real-world asset settlement infrastructure in South Korea.",
+        "link": "https://hashtagweb3.com/injectivekrw?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Injective and BDACS plan South Korean won stablecoin for RWA settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Kazakhstan Court Restricts Six Unlicensed Crypto Exchanges",
+        "summary": "An Astana court restricted Coinbase, BingX, HTX, BitMart, Huobi, and WEEX for offering unapproved financial services.",
+        "link": "https://hashtagweb3.com/aifccourt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kazakhstan court limits Coinbase, BingX and four others in AIFC"
+      },
+      {
+        "index": -1,
+        "headline": "Sixteen companies object to tokenized shares on OKXICE platform",
+        "summary": "Seven more issuers joined the opposition, bringing the total number of objectors to 16 out of 62.",
+        "link": "https://hashtagweb3.com/okxobjections?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out"
+      }
+    ],
+    "slotKey": "2026-10-21:afternoon",
+    "messageId": 155871,
+    "sentAt": "2026-10-21T11:34:56.036Z"
   }
 }

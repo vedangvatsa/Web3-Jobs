@@ -779,6 +779,9 @@
   "https://hashtagweb3.com/mastercardrisk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/skyaitender?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sophon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/injectivekrw?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aifccourt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okxobjections?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2244,6 +2247,12 @@
   "SkyAI sells its entire Solana treasury and offers a $201 million tender",
   "Sophon sets November 25 deadline for asset withdrawals",
   "Sophon sets Nov. 25 withdrawal deadline before mainnet shutdown",
+  "Injective and BDACS Partner on South Korean Won Stablecoin",
+  "Injective and BDACS plan South Korean won stablecoin for RWA settlement",
+  "Kazakhstan Court Restricts Six Unlicensed Crypto Exchanges",
+  "Kazakhstan court limits Coinbase, BingX and four others in AIFC",
+  "Sixteen companies object to tokenized shares on OKXICE platform",
+  "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2573,5 +2582,8 @@
   "fp:cardano|carry|charl|dat|data|develop|enabl|groth16|hoskinson|intent",
   "fp:api|borderless|detection|early|evaluat|fraud|keyrail|mastercard|participant|payment",
   "fp:201m|entir|firm|liquidat|now|october16|offer|outstand|per|security",
-  "fp:asset|chain|claim|clos|day|deadlin|entertainment|fiv|giv|infrastructur"
+  "fp:asset|chain|claim|clos|day|deadlin|entertainment|fiv|giv|infrastructur",
+  "fp:asset|bdac|build|infrastructur|injectiv|korea|korean|memorandum|partner|plan",
+  "fp:aifc|astana|bingx|bitmart|coinbas|court|exchang|financial|four|htx",
+  "fp:alphabet|bring|climb|goldman|issuer|join|microsoft|mor|number|object"
 ]

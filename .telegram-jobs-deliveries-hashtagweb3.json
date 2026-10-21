@@ -3358,5 +3358,100 @@
     "slotKey": "2026-10-20:evening",
     "messageId": 155865,
     "sentAt": "2026-10-20T19:32:22.672Z"
+  },
+  "9519bcbd-d4ff-4eb1-800d-b724644af003": {
+    "status": "sent",
+    "reservedAt": "2026-10-21T11:31:57.196Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4983426101",
+          "title": "Manager, Growth Analytics",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4983426101",
+          "date": "2026-09-25T05:01:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Commercial, Marketing & Comms",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt53"
+        },
+        "key": "4983426101",
+        "slug": "mkt53",
+        "url": "https://hashtagweb3.com/mkt53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Manager, Growth Analytics"
+      },
+      {
+        "snapshot": {
+          "id": "8827433002",
+          "title": "Dean of Students, Academy of Math and Programming (AMP)",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8827433002?gh_jid=8827433002",
+          "date": "2026-09-21T11:15:50-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "New York, NY",
+          "department": "Summer Enrichment Program",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsam"
+        },
+        "key": "8827433002",
+        "slug": "dsam",
+        "url": "https://hashtagweb3.com/dsam?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Dean of Students"
+      },
+      {
+        "snapshot": {
+          "id": "6199718004",
+          "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6199718004",
+          "date": "2026-09-23T08:53:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Japan",
+          "department": "Brokerage",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops52"
+        },
+        "key": "6199718004",
+        "slug": "ops52",
+        "url": "https://hashtagweb3.com/ops52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Broker-Dealer Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8880888002",
+          "title": "Engineering Manager - Infrastructure",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880888002",
+          "date": "2026-10-09T12:10:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra37"
+        },
+        "key": "8880888002",
+        "slug": "infra37",
+        "url": "https://hashtagweb3.com/infra37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Engineering Manager"
+      }
+    ],
+    "message": "- Bitpanda is hiring <a href=\"https://hashtagweb3.com/mkt53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Growth Analytics</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/dsam?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Dean of Students, Academy of Math and Programming (AMP)</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/ops52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager - Infrastructure</a>",
+    "slotKey": "2026-10-21:afternoon",
+    "messageId": 155870,
+    "sentAt": "2026-10-21T11:32:00.909Z"
   }
 }
