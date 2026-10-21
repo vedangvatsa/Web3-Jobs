@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-21",
+    "threadId": "C02",
+    "sequence": 4,
+    "platform": "x",
+    "assetCommit": "b837bee290ae142d8908c9f6b5333c5e08dfe297",
+    "contentDigest": "3e25e4da5ad3a8221fb7ed37386a0494470c78dcb6d4d0e1517b64fc81069004",
+    "posts": [
+      {
+        "number": 1,
+        "text": "10 selected citizenship routes: Sao Tome and Principe's USD 90,000 donation, Turkiye's USD 400,000 property and Jordan's JOD 350,000 existing-business test. One main applicant; fees extra, eligibility and approval required.",
+        "alt": "10 countries, different kinds of capital. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Sao Tome and Principe; USD 90,000 fund donation; Turkiye; Qualifying property · 3-year resale restriction; 10 selected routes. Eligibility and approval required; amounts exclude fees. Screenshot text: From USD 90,000 Contribution; From USD 400,000 Property",
+        "image": "social-assets/knowledge-threads-month/images/C02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Dominica: USD 200,000 to the Economic Diversification Fund. Antigua and Barbuda: USD 230,000 to the National Development Fund. Both use agent-submitted applications; these are contributions, not property purchases.",
+        "alt": "Dominica and Antigua and Barbuda. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Dominica; Non-refundable EDF contribution. Authorised agent submits.; Antigua and Barbuda; NDF contribution. Licensed local agent submits. Screenshot text: From USD 200,000 Contribution; From USD 230,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Grenada: USD 235,000 to the National Transformation Fund. Saint Lucia: USD 240,000 to the National Economic Fund, plus a sworn declaration of at least USD 350,000 in financial resources.",
+        "alt": "Contribution versus financial resources. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Grenada; NTF contribution; payment follows approval.; Saint Lucia; Sworn declaration: at least USD 350,000 financial resources. This is not another payment. Screenshot text: From USD 235,000 Contribution; From USD 240,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Saint Kitts and Nevis: USD 250,000 Sustainable Island State Contribution. Turkiye: USD 400,000 qualifying real estate, with a 3-year resale restriction and a presidential citizenship decision.",
+        "alt": "A contribution or a property purchase. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Saint Kitts and Nevis; Sustainable Island State Contribution. Main-applicant interview required.; Turkiye; Qualifying property. At least 3-year resale restriction; subject to presidential decision. Screenshot text: From USD 250,000 Contribution; From USD 400,000 Property",
+        "image": "social-assets/knowledge-threads-month/images/C02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Sao Tome and Principe: USD 90,000 National Transformation Fund donation. Nauru: USD 115,000 regular Treasury contribution; USD 90,000 offer for applications filed before December 31, 2026. Both add fees.",
+        "alt": "A standing price and a dated offer. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Sao Tome and Principe; Single-applicant donation after approval in principle.; Nauru; Regular: USD 115,000. Offer: USD 90,000 for applications filed prior to December 31, 2026.; Submission, document and due-diligence fees are additional. Screenshot text: From USD 90,000 Contribution; From USD 115,000 Contribution",
+        "image": "social-assets/knowledge-threads-month/images/C02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Egypt: USD 250,000 Treasury grant. Jordan, outside Capital Governorate: your eligible asset share must average at least JOD 350,000 over 3 audited years, with 10 Jordanian employees on average and at least 9 each month.\n\nhashtagweb3.com/citizenship/x",
+        "alt": "Egypt's grant and Jordan's existing-business test. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Egypt; Non-refundable Treasury grant; transfer from abroad. USD 10,000 application fee separate.; Jordan; Outside Capital Governorate: eligible asset share averages JOD 350,000 over 3 audited years. Average 10 Jordanian employees, at least 9 each month. Screenshot text: From USD 250,000 Contribution; From JOD 350,000 Business",
+        "image": "social-assets/knowledge-threads-month/images/C02-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-01.jpg",
+        "sha256": "f2f506778866e782034d2c66157fa9f6e672c4421cf897fcc9970ccdd3880d48",
+        "bytes": 150921,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-02.jpg",
+        "sha256": "d74744b86bb64cf71344fbd830949624125ab7799d9fd98d841654d1d8a62279",
+        "bytes": 139667,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-03.jpg",
+        "sha256": "e48bf6fd7414b52fb4211c492416bf7bb8abe738736a4fe072a23c954e8672aa",
+        "bytes": 146005,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-04.jpg",
+        "sha256": "6c52b57921c4be562547e39eafb914c4a8c4ee67743dd4bb600d5707322cb5a4",
+        "bytes": 153774,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-05.jpg",
+        "sha256": "7fa8a32e9b24229d7adf97b3ceab70b105c060f9a708a6063c00606aa8862dff",
+        "bytes": 164757,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C02-06.jpg",
+        "sha256": "83fbb00b6f1b54152557017801c0fbaed7dc641838f42836ede3c3f166fe6b54",
+        "bytes": 180358,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b837bee290ae142d8908c9f6b5333c5e08dfe297/social-assets/knowledge-threads-month/images/C02-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "0f7b12c5-1805-4341-91b7-8c1724172d35",
+  "startedAt": "2026-10-21T11:31:34.006Z",
+  "status": "claimed",
+  "steps": {}
+}
