@@ -37650,7 +37650,8 @@
         "description": "Join Figure as Customer Success Associate. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "84b1607a-f2c1-42eb-a574-ecec29f9f391",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myfvc7kfxt2q"
     }
   ]
 }
