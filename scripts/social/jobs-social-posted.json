@@ -37479,6 +37479,48 @@
       "verification": "pending",
       "postId": "6ad8a3cebefea41f139e1453",
       "error": "LinkedIn CVin.Bio receipt 6ad8a3cebefea41f139e1453 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "sc",
+      "company": "Elliptic",
+      "title": "Principal Solutions Consultant",
+      "platform": "linkedin",
+      "postedAt": "2026-10-21T11:35:02.319Z",
+      "expectedText": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/li?og=7",
+      "snapshot": {
+        "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "title": "Principal Solutions Consultant",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "date": "2026-10-19T19:05:16.266+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Solutions Consulting",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sc"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sc/li?og=7",
+          "title": "Principal Solutions Consultant at Elliptic",
+          "description": "Join Elliptic as Principal Solutions Consultant. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sc.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b0155dbb-91c6-40aa-8310-0d87b829ed65",
+      "verification": "creating"
     }
   ]
 }
