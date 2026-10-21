@@ -34607,7 +34607,8 @@
       },
       "account": "channel:base",
       "attemptId": "8b7eb74b-75cf-4f7c-ae37-7126c2eb9d91",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x720f39e29c1a17f8d3c195f8387f9804d351f689"
     }
   ]
 }
