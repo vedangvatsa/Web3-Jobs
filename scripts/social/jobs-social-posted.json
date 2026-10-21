@@ -36815,7 +36815,8 @@
       },
       "account": "profile",
       "attemptId": "bed3cabd-55ad-4180-bf9b-05e57137c9f4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x11fea977d3ddf28e81f2a6bb321021ec5f0f1c59"
     }
   ]
 }
