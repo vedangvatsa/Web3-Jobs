@@ -35733,9 +35733,10 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "1318f2ef-498d-4c6c-8fcb-f0e6fb26904f",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad84435d894396f66c7096b",
-      "error": "LinkedIn CVin.Bio receipt 6ad84435d894396f66c7096b remains pending; read-only reconciliation required"
+      "error": "LinkedIn CVin.Bio receipt 6ad84435d894396f66c7096b remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518533840743616512"
     },
     {
       "slug": "pm259",
