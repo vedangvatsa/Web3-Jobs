@@ -36124,7 +36124,8 @@
       },
       "account": "channel:dev",
       "attemptId": "1fa4a395-2345-4ca0-83d0-8bd6d39bd1c7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0c613f8730ea2838e2476eb86929bb2fb4fc7c4e"
     }
   ]
 }
