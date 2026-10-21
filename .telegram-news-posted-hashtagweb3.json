@@ -782,6 +782,9 @@
   "https://hashtagweb3.com/injectivekrw?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/aifccourt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/okxobjections?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftcperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/paperlock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2253,6 +2256,12 @@
   "Kazakhstan court limits Coinbase, BingX and four others in AIFC",
   "Sixteen companies object to tokenized shares on OKXICE platform",
   "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out",
+  "CFTC claims CME lacks standing to block perpetual futures policy",
+  "CFTC tells court CME lacks standing to block US perpetual futures",
+  "Papertrade restricts PAPER token to its own contract",
+  "Papertrade locks PAPER token to its own contract after launch week",
+  "Qubic restarts network and claims after $14 million theft",
+  "Qubic restarts mainnet and opens claims after $14 million drain",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2585,5 +2594,8 @@
   "fp:asset|chain|claim|clos|day|deadlin|entertainment|fiv|giv|infrastructur",
   "fp:asset|bdac|build|infrastructur|injectiv|korea|korean|memorandum|partner|plan",
   "fp:aifc|astana|bingx|bitmart|coinbas|court|exchang|financial|four|htx",
-  "fp:alphabet|bring|climb|goldman|issuer|join|microsoft|mor|number|object"
+  "fp:alphabet|bring|climb|goldman|issuer|join|microsoft|mor|number|object",
+  "fp:agency|argu|block|cftc|claim|cme|court|exchang|fail|futur",
+  "fp:all|block|contract|exchang|indefinitely|list|lock|own|paper|papertrad",
+  "fp:14m|activity|claim|day|drain|follow|halt|incident|mainnet|network"
 ]
