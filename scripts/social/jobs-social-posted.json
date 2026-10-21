@@ -37433,7 +37433,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "bfad1b1e-da16-46cb-9c7f-3318b188c08c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad8a3be9c5d256f65997865"
     }
   ]
 }
