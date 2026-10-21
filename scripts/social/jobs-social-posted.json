@@ -36887,7 +36887,8 @@
       },
       "account": "channel:web3",
       "attemptId": "68160b36-4b84-4f9c-8088-19bad3e08ebf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3980159b821806f5a89831da6f45aea1ab5fa624"
     }
   ]
 }
