@@ -38988,6 +38988,40 @@
       "attemptId": "0450dd99-6bfe-4ce8-824d-2c4bb75eb415",
       "verification": "verified",
       "postId": "0x70aa949ce7516dc0e0cd4b8cbf81b42f9534f3f0"
+    },
+    {
+      "slug": "mkt15",
+      "company": "Blockchain.com",
+      "title": "Head of Institutional Marketing",
+      "platform": "farcaster",
+      "postedAt": "2026-10-21T19:35:29.789Z",
+      "expectedText": "Blockchain.com is hiring Head of Institutional Marketing\n\nhttps://hashtagweb3.com/mkt15/fc?og=7",
+      "snapshot": {
+        "id": "8213490",
+        "title": "Head of Institutional Marketing",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8213490",
+        "date": "2026-10-16T11:47:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt15"
+      },
+      "payload": {
+        "text": "Blockchain.com is hiring Head of Institutional Marketing\n\nhttps://hashtagweb3.com/mkt15/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mkt15/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "a0f5853f-bbf3-4202-9012-da58dd0cf8bd",
+      "verification": "creating"
     }
   ]
 }
