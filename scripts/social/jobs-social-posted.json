@@ -35143,7 +35143,8 @@
       },
       "account": "profile",
       "attemptId": "6000174c-7e9b-4776-9767-cb9b4902f33c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xef7117b49868657886af0862d36efdc5c5f4bcf8"
     }
   ]
 }
