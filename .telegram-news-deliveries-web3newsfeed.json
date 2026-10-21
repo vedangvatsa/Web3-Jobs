@@ -1954,5 +1954,36 @@
     "slotKey": "2026-10-20:evening",
     "messageId": 65766,
     "sentAt": "2026-10-20T19:33:22.999Z"
+  },
+  "95605e94-b493-4751-9909-bcd303f2c743": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T11:33:02.771Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitget Seeks to Acquire Licensed Thai Crypto Exchange",
+        "summary": "The deal to purchase GMO Internet's licensed local platform requires regulatory approval following a major wallet hack.",
+        "link": "https://hashtagweb3.com/bitgetthai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitget plans Thai exchange acquisition after $388 million hack"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC argues CME lacks standing in perpetual futures lawsuit",
+        "summary": "Regulators state CME's rising crypto volume shows the exchange suffered no injury from the new futures policy.",
+        "link": "https://hashtagweb3.com/cftcperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC tells court CME lacks standing to block US perpetual futures"
+      },
+      {
+        "index": -1,
+        "headline": "Switzerland approves first retail bitcoin fund",
+        "summary": "Regulator FINMA authorized an unnamed issuer to offer the cryptocurrency product to individual investors.",
+        "link": "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FINMA clears Switzerland's first retail bitcoin ETF"
+      }
+    ],
+    "slotKey": "2026-10-21:afternoon"
   }
 }
