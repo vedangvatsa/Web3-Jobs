@@ -37929,7 +37929,8 @@
       },
       "account": "channel:build",
       "attemptId": "bd0f18ad-3690-4ccf-a427-41184514f444",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4a197726b4797f038a47d79f8f7e1aeb4e864163"
     }
   ]
 }
