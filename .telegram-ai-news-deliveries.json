@@ -1868,5 +1868,40 @@
     "slotKey": "2026-10-20:evening",
     "messageId": 193378,
     "sentAt": "2026-10-20T19:34:07.930Z"
+  },
+  "adf8fadc-f4ba-4b6e-b2fd-587586f5f00b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T19:33:25.088Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Walmart rolls out the welcome mat for AI agents",
+        "headline": "Walmart introduces AI agent purchasing capabilities",
+        "summary": "The retailer is enabling AI agents to execute customer transactions with integrated spending and approval controls.",
+        "event_rationale": "This covers the strategic shift in retail infrastructure to support autonomous AI purchasing agents, distinct from other industry news.",
+        "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "source": "TechCrunch",
+        "originalTitle": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+      },
+      {
+        "index": 17,
+        "original_title": "OpenAI acquires startup Orchestra Bio to beef up its biotech business",
+        "headline": "OpenAI acquires Orchestra Bio for life sciences research",
+        "summary": "The acquisition integrates new technology into the company's existing life sciences model and experimental workbench tools.",
+        "event_rationale": "This is a distinct corporate acquisition event focused on vertical integration within the specialized biotech AI sector.",
+        "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+      },
+      {
+        "index": 2,
+        "headline": "Google Cloud to Offer New OpenAI GPT 6.1 Models",
+        "summary": "The Astra, Sol, and Luna versions will become available on the platform in the coming weeks.",
+        "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+        "source": "Ars Technica",
+        "originalTitle": "OpenAI's latest AI models are coming to Google Cloud and Antigravity"
+      }
+    ],
+    "slotKey": "2026-10-21:evening"
   }
 }
