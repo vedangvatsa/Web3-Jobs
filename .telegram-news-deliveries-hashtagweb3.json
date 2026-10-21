@@ -1921,5 +1921,36 @@
     "slotKey": "2026-10-21:afternoon",
     "messageId": 155871,
     "sentAt": "2026-10-21T11:34:56.036Z"
+  },
+  "5fe889b0-f6d3-4920-afc4-7cfc9ed952f3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-21T19:34:53.550Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC claims CME lacks standing to block perpetual futures policy",
+        "summary": "The agency argued the exchange failed to show harm given its rising crypto futures volume since May.",
+        "link": "https://hashtagweb3.com/cftcperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC tells court CME lacks standing to block US perpetual futures"
+      },
+      {
+        "index": -1,
+        "headline": "Papertrade restricts PAPER token to its own contract",
+        "summary": "The protocol blocked all transfers and exchange listings for its reward token indefinitely.",
+        "link": "https://hashtagweb3.com/paperlock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Papertrade locks PAPER token to its own contract after launch week"
+      },
+      {
+        "index": -1,
+        "headline": "Qubic restarts network and claims after $14 million theft",
+        "summary": "The project restored its mainnet on October 19 following a security incident that halted activity for two days.",
+        "link": "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Qubic restarts mainnet and opens claims after $14 million drain"
+      }
+    ],
+    "slotKey": "2026-10-21:evening"
   }
 }
