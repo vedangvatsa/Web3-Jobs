@@ -36748,6 +36748,39 @@
       "postId": "18137827741630441",
       "permalink": "https://www.threads.com/@hashtagweb3/post/DewUCjUlmKR",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "sc",
+      "company": "Elliptic",
+      "title": "Principal Solutions Consultant",
+      "platform": "bluesky",
+      "postedAt": "2026-10-21T11:35:02.319Z",
+      "expectedText": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/bsky?og=7",
+      "snapshot": {
+        "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "title": "Principal Solutions Consultant",
+        "company": "Elliptic",
+        "link": "https://jobs.ashbyhq.com/Elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+        "date": "2026-10-19T19:05:16.266+00:00",
+        "source": "Ashby: Elliptic [Elliptic]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Solutions Consulting",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sc"
+      },
+      "payload": {
+        "text": "Elliptic is hiring Principal Solutions Consultant: https://hashtagweb3.com/sc/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sc/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sc.png?v=7",
+        "company": "Elliptic",
+        "title": "Principal Solutions Consultant",
+        "description": "Join Elliptic as Principal Solutions Consultant. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "30c55a7a-d9e5-4978-8105-0029bd0ab16c",
+      "verification": "creating"
     }
   ]
 }
