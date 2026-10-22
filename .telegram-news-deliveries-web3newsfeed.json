@@ -1987,5 +1987,36 @@
     "slotKey": "2026-10-21:afternoon",
     "messageId": 65767,
     "sentAt": "2026-10-21T11:33:05.634Z"
+  },
+  "6557122b-5566-4824-a2c7-03c03920fd27": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T11:32:33.774Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Injective, BDACS to develop South Korean won stablecoin",
+        "summary": "Both firms signed an agreement to build real-world asset settlement infrastructure in South Korea.",
+        "link": "https://hashtagweb3.com/injectivekrw?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Injective and BDACS plan South Korean won stablecoin for RWA settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Kazakh Court Restricts Six Unlicensed Crypto Exchanges",
+        "summary": "An Astana International Financial Centre court sanctioned the platforms for providing unauthorized crypto services within its jurisdiction.",
+        "link": "https://hashtagweb3.com/aifccourt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kazakhstan court limits Coinbase, BingX and four others in AIFC"
+      },
+      {
+        "index": -1,
+        "headline": "Mastercard Opens Early Access for AI Agent Payments",
+        "summary": "The new service lets automated agents buy digital products within human-controlled spending limits following recent pilots.",
+        "link": "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Mastercard opens early access for AI agent payments after pilots"
+      }
+    ],
+    "slotKey": "2026-10-22:afternoon"
   }
 }
