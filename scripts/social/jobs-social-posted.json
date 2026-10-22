@@ -39837,7 +39837,8 @@
       },
       "account": "channel:ai",
       "attemptId": "0e46ae6c-03cd-4aa3-91f9-dc9031cb5601",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x04d985414154dc3b21c0aa2b4f8b10c3b08c9179"
     }
   ]
 }
