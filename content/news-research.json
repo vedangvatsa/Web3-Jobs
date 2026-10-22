@@ -789,7 +789,7 @@
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
       "attempts": 1,
       "expiresAt": "2026-10-07T18:51:50.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
       "sourceChecks": [],
@@ -67733,11 +67733,11 @@
       "id": "665905ab039e4e58273a",
       "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T17:45:11.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Bitwise Q4 2026 Staking Report (published Oct. 20, covering Q3) verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage. Drafted content/articles/stakingrecord.md (679 words, 3 source hosts); hero image Matt Brown Ethereum plaque via Wikimedia (CC BY 2.0), compressed to 293KB. The Defiant link itself returned 403 and was recorded blocked.",
+      "note": "Bitwise Q4 2026 Staking Report verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage: 43.8M ETH staked, yields falling, Solana activity context. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/stakingrecord.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
@@ -67756,12 +67756,32 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T08:17:42.791Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says"
       ],
       "lastReviewedDay": "2026-10-22",
-      "articleSlug": "stakingrecord"
+      "articleSlug": "stakingrecord",
+      "lastValidationErrors": [
+        "Draft has no ready review outcome: content/articles/aeromerge.md",
+        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
+        "Draft has no ready review outcome: content/articles/cakeflip.md",
+        "Draft has no ready review outcome: content/articles/cardanomica.md",
+        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
+        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
+        "Draft has no ready review outcome: content/articles/eclairpatches.md",
+        "Draft has no ready review outcome: content/articles/emudhra.md",
+        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
+        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
+        "Draft has no ready review outcome: content/articles/malayssds.md",
+        "Draft has no ready review outcome: content/articles/occgenius.md",
+        "Draft has no ready review outcome: content/articles/phppanic.md",
+        "Draft has no ready review outcome: content/articles/shinhanstable.md",
+        "Draft has no ready review outcome: content/articles/spacextesla.md",
+        "Draft has no ready review outcome: content/articles/tethermural.md",
+        "Draft has no ready review outcome: content/articles/trumpscam.md",
+        "Draft has no ready review outcome: content/articles/zcashnu7.md"
+      ]
     },
     "0f0bff581db089300777": {
       "source": "The Block",
@@ -67780,22 +67800,18 @@
       "id": "0f0bff581db089300777",
       "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T16:31:24.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "Same event as the Defiant lead: Bitwise's Q4 2026 Staking Report on record Ethereum and Solana staking. Covered by the ready draft stakingrecord.md, which cites the primary report plus two independent outlets. The Block URL returned 403 and was recorded blocked.",
+      "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article; candidate URL returns HTTP 403 and was recorded blocked.",
       "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
-          "outcome": "read"
-        },
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T08:18:01.499Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
       ],
@@ -68133,25 +68149,57 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 3,
       "expiresAt": "2026-10-23T22:46:50.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "needs-corroboration",
-      "note": "Only one readable source (Crypto Briefing); The Block lead is blocked and no second independent outlet was confirmed.",
+      "reason": "verified-event",
+      "note": "TokenPost and Crypto Briefing both confirm the SEC keeps taking Reg Crypto comments after the Oct. 20 close; the SEC public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF) and the rulemaking page confirms the Aug. 18 issuance and exemption structure. Draft content/articles/regcrypto.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/36529",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find a second independent outlet on SEC Regulation Crypto comment close"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "regcrypto",
+      "lastValidationErrors": [
+        "Draft has no ready review outcome: content/articles/aeromerge.md",
+        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
+        "Draft has no ready review outcome: content/articles/cakeflip.md",
+        "Draft has no ready review outcome: content/articles/cardanomica.md",
+        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
+        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
+        "Draft has no ready review outcome: content/articles/eclairpatches.md",
+        "Draft has no ready review outcome: content/articles/emudhra.md",
+        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
+        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
+        "Draft has no ready review outcome: content/articles/malayssds.md",
+        "Draft has no ready review outcome: content/articles/occgenius.md",
+        "Draft has no ready review outcome: content/articles/phppanic.md",
+        "Draft has no ready review outcome: content/articles/shinhanstable.md",
+        "Draft has no ready review outcome: content/articles/spacextesla.md",
+        "Draft has no ready review outcome: content/articles/tethermural.md",
+        "Draft has no ready review outcome: content/articles/trumpscam.md",
+        "Draft has no ready review outcome: content/articles/zcashnu7.md"
+      ]
     },
     "7b17e4295a7a73ab2afd": {
       "source": "Crypto Briefing",
@@ -68194,25 +68242,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T21:38:18.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "NEAR forum HSP-029 (status Voting), Hokanews vote-open report (ballot Oct. 19 to Nov. 2), and Crypto Briefing proposal background all confirm the 2.5% to 1.6% issuance ramp, 90/10 split, 90-day grace, two-step validator adoption, and SVRN disclosure. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/nearissuance.md with local hero image.",
       "sourceChecks": [
+        {
+          "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: NEAR Opens Vote to Cut Token Issuance to 1.6%"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "nearissuance"
     },
     "0d29ea95331302f1149d": {
       "source": "CoinDesk",
@@ -68322,25 +68382,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7168518ec513546cf43",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T19:19:54.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "duplicate",
+      "note": "The Block covers the same Reg Crypto comment-close event and commenter pressure already reported in the ready regcrypto article; candidate URL returns HTTP 403 and was recorded blocked.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comment"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "duplicateOf": "regcrypto",
+      "mergedInto": "f3e86162ee7dcb7ad739"
     },
     "49fa496cf674e67db3e3": {
       "source": "The Block",
@@ -68390,25 +68451,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T17:11:47.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred HoneyB lead: The Block still returns 403, but the FinanceWire company announcement (via Markets Insider, Oct. 21) and Dealroom's independent report (Oct. 20, covering Gordon's interview: SAFE with 1:1 token warrant at $30M post-money, 2-4% net yield target, Q4 2026 non-U.S. institutional launch) both opened and were read. Drafted content/articles/honeyb.md (640+ words, hosts: markets.businessinsider.com, dealroom.co); hero photo Dover Delaware via Wikimedia (CC BY-SA 2.5), compressed to 318KB.",
       "sourceChecks": [
+        {
+          "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+          "outcome": "read"
+        },
+        {
+          "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+          "outcome": "read"
+        },
         {
           "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:17:48.932Z",
       "retrySearches": [
         "Find independent reporting on: Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuati"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "honeyb"
     },
     "3a8ec705ea29a2364e07": {
       "source": "Bankless",
@@ -68458,25 +68527,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0b5ba7979f5eaf98a43",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T16:24:01.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred Optimum lead: The Defiant still 403. Verified via CryptoSlate Chainwire press release (Oct. 20: 16 operators, ~22k keys, 1.4M+ ETH, ether.fi mandate for all 12 operators, Medard/Kopp/Spina quotes) and Cryptonomist independent report (Oct. 20: sidecar/RLNC mechanics, 2.42x/7.88x mainnet claims vs 6-20x Hoodi testnet product page, ether.fi published nothing on its own channels, API key caveat). Drafted content/articles/mump2p.md (660+ words, hosts: cryptoslate.com, en.cryptonomist.ch); hero Muriel Medard photo via Wikimedia (CC BY 4.0), 239KB. DefiLlama dashboard is JS-rendered and was not cited.",
       "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:22:22.566Z",
       "retrySearches": [
         "Find independent reporting on: Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "mump2p"
     },
     "f29ccd0c6d10f80f190b": {
       "source": "Decrypt",
@@ -68597,25 +68674,45 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b876bd7370c395bf9c8",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T11:53:34.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred France budget-vote lead: The Defiant URL now returns a JS-gated shell (headline/dek only, body not readable), marked unavailable. Verified the Oct 20 to Nov 3 postponement via the Assemblée nationale schedule page (primary: solemn vote on first part of PLF 2027 inscribed for Tue Nov 3 afternoon; debate resumes Oct 27-Nov 2) plus Infonet (delay confirmed by the chamber and conference of presidents; rejection on Nov 3 sends only the government text to the Senate) and DigitalToday (Oct 21, stablecoin-swap tax angle). Re-verified scrutin 8836 (I-3898, 38-37-25 on Oct 16) and read Decrypt (Oct 20) for amendment mechanics and the 31.4% rate path. Drafted content/articles/francevote.md (630+ words, hosts: assemblee-nationale.fr, infonet.fr, digitaltoday.co.kr, decrypt.co); hero Palais Bourbon NW view via Wikimedia (DXR, public domain), 271KB.",
       "sourceChecks": [
         {
+          "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+          "outcome": "read"
+        },
+        {
+          "url": "https://infonet.fr/actualite/juridique/vote-budget-2027-novembre",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.digitaltoday.co.kr/en/view/117675/france-delays-vote-on-stablecoin-tax-measure-eyes-nov-3",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:30:09.753Z",
       "retrySearches": [
         "Find independent reporting on: France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "francevote"
     },
     "f0ead9177af90e0b0e62": {
       "source": "CoinDesk",
@@ -72354,7 +72451,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:40:18.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "CryptoSlate's Oct. 21 piece re-explains the same CFTC ANPRM (Regulation CTX/CAM, FR doc 2026-20888) already covered by the published article cftc-leverage (Oct. 6), including the fully-paid-trade reading and actual-delivery exception. No new CFTC action since the Oct. 5 announcement and Oct. 13 Federal Register publication; a second native article would restate existing coverage.",
       "sourceChecks": [
@@ -72394,7 +72491,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T03:21:32.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "US heating oil reserve policy is not a Web3 or crypto event; outside the publication scope.",
       "sourceChecks": [],
@@ -72420,7 +72517,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T03:07:21.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Apple appeal of an Australian app store ruling concerns general big tech regulation, not crypto or Web3.",
       "sourceChecks": [],
@@ -72442,11 +72539,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "223942039ddb42dedd48",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T02:05:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "BeInCrypto returned 403; verified instead via the Motley Fool full Q3 call transcript and Bullished's same-day report plus the CourtListener copy of CME's June complaint. Duffy said on the Oct. 21 call the perpetual funding rate is deemed a swap under Dodd-Frank and CME is fairly confident; GC Marchese said the case is fully briefed to the judge in December. Drafted content/articles/duffyperps.md (662 words, hosts: fool.com, bullished.co, courtlistener.com); hero Terry Duffy photo via Wikimedia (CC BY-SA 4.0), 125KB.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.293632/gov.uscourts.dcd.293632.1.0.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:57:52.313Z",
+      "articleSlug": "duffyperps",
+      "lastReviewedDay": "2026-10-22"
     },
     "944f3719323a7c5d4899": {
       "source": "Crypto Briefing",
@@ -72467,7 +72587,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:05:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Michigan Senate race endorsement by the DSCC is US politics, not a crypto story.",
       "sourceChecks": [],
@@ -72489,13 +72609,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T23:24:01.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "OCC primary + Decrypt + CoinDesk + Cointelegraph",
+      "note": "Re-read the OCC Oct. 21 news release 2026-92, Decrypt and CoinDesk coverage: first GENIUS Act final rule, effective Jan. 18, 2027, reserve/redemption/risk standards, no safe harbor for pre-existing rewards programs. Drafted content/articles/occgenius.md (734 body words, hosts: occ.gov, decrypt.co, coindesk.com); hero image OCC HQ sign by MBisanz via Wikimedia (CC BY-SA 3.0), compressed to 218KB.",
       "sourceChecks": [
         {
           "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
@@ -72510,7 +72630,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:08:25.853Z",
+      "reviewedAt": "2026-10-22T09:47:27.700Z",
       "articleSlug": "occgenius",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -72530,17 +72650,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b8c0039794f871c2439a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T23:22:54.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "same OCC final rule story; covered by the ready draft.",
+      "note": "Same OCC GENIUS Act final rule story already covered by the ready occgenius draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-22T09:47:27.700Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "d827e4da47d80b199d72"
     },
     "877c888579d259ba11cc": {
       "source": "Crypto Briefing",
@@ -72557,11 +72678,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "877c888579d259ba11cc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:28:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "not-a-concrete-event",
+      "note": "Crypto Briefing's Oct. 21 item is prediction-market analysis recycling Selig's Oct. 5 WSJ op-ed, Fordham remarks and the CTX/CAM ANPRM, which cftc-leverage.md already covers. The CFTC public statements page lists no Selig statement after Oct. 5; no new filing, vote or rule accompanies the headline.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement100526",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/index.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:59:12.937Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "8a7f6d1fbe0ceeb8b59f": {
       "source": "Crypto Briefing",
@@ -72582,7 +72721,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:23:21.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Virginia district fundraising for House control is electoral politics, not Web3.",
       "sourceChecks": [],
@@ -72604,11 +72743,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "33e9137878190c73e286",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:42:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "Filed Oct 16 in S.D. Ohio, Judge Douglas Cole; AG Andy Wilson and OCCC defendants; two theories: Ohio licensing discriminates under Commerce Clause and Commodity Exchange Act preemption; CFTC Oct 9 interim final rule on casino-style swaps plus proposed event-contract rule cited as new landscape; no PI motion or Ohio response as of Oct 21; 10 commission notices with Oct 16 deadline, one confirmed compliance, two suing including Polymarket; Second litigant unidentified; DeWine quote; Sixth Circuit rehearing petition pending; Third Circuit SCOTUS split with NJ petition, Kalshi response due Nov 9.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-22T10:42:28.453Z",
+      "articleSlug": "polymarketohio",
+      "lastReviewedDay": "2026-10-22"
     },
     "cc2964f96502bc13620a": {
       "source": "Bitcoin Magazine",
@@ -72625,11 +72791,46 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc2964f96502bc13620a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:55:23.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "Three TSVs under SEC innovation exemption: TSV LLC (Puerto Rico, Abrar/Trinkle, Canton Network, notice Sept 23 revised Oct 19), OKXICE TSV (Texas JV 50% ICE 50% OKC USA, X Layer, notice Oct 4), Kephas Corp d/b/a Perpetuals.com (Delaware sub of Nasdaq: PDC, Kronos X Public L2, notice Oct 14). SEC Wednesday announcement confirms three names; inclusion does not mean exemption conditions met. OKXICE already faces 16 issuer objections including Microsoft Alphabet Goldman Sachs per TokenPost Oct 19 notice. Exemption: 5 years, 30-day public notice, 1 business day SEC submission, 30-day issuer objection window. None launched.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenizedstockvenue.com/notice.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/35202",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T10:51:44.768Z",
+      "articleSlug": "secstocks",
+      "lastReviewedDay": "2026-10-22"
     },
     "f706191a6a5b1a8cc8d8": {
       "source": "Cointelegraph",
@@ -72650,7 +72851,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T20:19:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Noting Trump did not say crypto at a cybercrime roundtable is a non-event observation.",
       "sourceChecks": [],
@@ -72676,7 +72877,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:11:29.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "5a09ce3eaeb9d8533e3f": {
       "source": "CryptoSlate",
@@ -72697,7 +72898,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:00:12.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "adc4fc8b62a62b83a76f": {
       "source": "The Defiant",
@@ -72718,7 +72919,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T19:48:15.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "65d72de1761a9560efb8": {
       "source": "Cointelegraph",
@@ -72739,7 +72940,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:57:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Cointelegraph + Cryptopolitan; 19-page Sept. 30 Commission response opposing standalone DeFi and staking regimes under MiCA.",
       "sourceChecks": [
@@ -72776,7 +72977,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:10:54.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "Bessent quote included in occgenius; covered by the ready draft.",
       "sourceChecks": [],
@@ -72803,7 +73004,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:53:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "c56190794627ccdc754f": {
       "source": "CoinDesk",
@@ -72824,7 +73025,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:23:44.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "CoinDesk + Bitcoin Magazine + Reuters; White House cybercrime event, $833M halted, FBI IC3 data.",
       "sourceChecks": [
@@ -72865,7 +73066,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:09:26.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Cointelegraph + Crypto Briefing + CoinGape + Inside Crypto + Bitcoin Sistemi; joint Oct. 20 letter from six chains asking SEC to put digital commodity definition in Regulation Crypto Assets operative text.",
       "sourceChecks": [
@@ -72918,7 +73119,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:40:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Decrypt + Cointelegraph + Foundation dashboard",
       "sourceChecks": [
@@ -72955,7 +73156,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T14:24:25.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Alpenglow mainnet activation; covered by the ready draft.",
       "sourceChecks": [],
@@ -72982,7 +73183,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:57:14.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Alpenglow mainnet activation; covered by the ready draft.",
       "sourceChecks": [],
@@ -73009,7 +73210,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:26:58.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same OCC final rule story; covered by the ready draft.",
       "sourceChecks": [],
@@ -73036,7 +73237,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:12:36.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Analysis of why centralized exchanges refuse legacy tokens without SEC immunity is commentary, not a discrete event.",
       "sourceChecks": [],
@@ -73062,7 +73263,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:03:07.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "78aef94bf455cda2b2bd": {
       "source": "Decrypt",
@@ -73083,7 +73284,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:52:23.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same OCC final rule story; covered by the ready draft.",
       "sourceChecks": [],
@@ -73110,7 +73311,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:12:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same OCC final rule, yield presumption angle covered; covered by the ready draft.",
       "sourceChecks": [],
@@ -73137,7 +73338,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:01:02.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same OCC final rule story; covered by the ready draft.",
       "sourceChecks": [],
@@ -73164,7 +73365,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same OCC final rule, yield angle covered; covered by the ready draft.",
       "sourceChecks": [],
@@ -73191,7 +73392,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:50:52.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Cointelegraph + PancakeSwap governance page; The Flip fee vote, 88% LP share, emissions cut, TVL $2.4B.",
       "sourceChecks": [
@@ -73318,7 +73519,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "CoinMarketCap + CoinLab; Aero live on seven chains, AERO 1:1 and VELO 0.044 conversion, Predictive Allocation.",
       "sourceChecks": [
@@ -73364,11 +73565,11 @@
       "id": "555b03b302d276314cb0",
       "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T22:43:45.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Re-read Crypto Briefing and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators. The Defiant mirror still returns HTTP 403.",
+      "note": "Crypto Briefing and the Obol v1.11.2 GitHub release both confirm the urgent Charon patch after the eMudhra CA incident (Go 1.27.3, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators). The Defiant mirror returns HTTP 403 and was recorded blocked. Draft content/articles/charonupgrade.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
@@ -73383,10 +73584,29 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T07:51:12.477Z",
+      "reviewedAt": "2026-10-22T09:31:30.098Z",
       "articleSlug": "charonupgrade",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": []
+      "lastValidationErrors": [
+        "Draft has no ready review outcome: content/articles/aeromerge.md",
+        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
+        "Draft has no ready review outcome: content/articles/cakeflip.md",
+        "Draft has no ready review outcome: content/articles/cardanomica.md",
+        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
+        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
+        "Draft has no ready review outcome: content/articles/eclairpatches.md",
+        "Draft has no ready review outcome: content/articles/emudhra.md",
+        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
+        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
+        "Draft has no ready review outcome: content/articles/malayssds.md",
+        "Draft has no ready review outcome: content/articles/occgenius.md",
+        "Draft has no ready review outcome: content/articles/phppanic.md",
+        "Draft has no ready review outcome: content/articles/shinhanstable.md",
+        "Draft has no ready review outcome: content/articles/spacextesla.md",
+        "Draft has no ready review outcome: content/articles/tethermural.md",
+        "Draft has no ready review outcome: content/articles/trumpscam.md",
+        "Draft has no ready review outcome: content/articles/zcashnu7.md"
+      ]
     },
     "7ca8220be803051b7f4f": {
       "source": "The Defiant",
@@ -73407,7 +73627,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T20:29:24.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Trump overseas crypto-scam crackdown event; covered by the ready draft.",
       "sourceChecks": [],
@@ -73434,7 +73654,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:44:01.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "8f157e31313ac6739c5c": {
       "source": "Unchained",
@@ -73482,7 +73702,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:34:37.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Crypto rising with Asian tech stocks and a zcash gain is market recap chatter.",
       "sourceChecks": [],
@@ -73545,7 +73765,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:13:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "16bcca1d5d77e1efa918": {
       "source": "Unchained",
@@ -73566,7 +73786,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:30:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "An executive estimate of $20 million a week in Coinbase tokenized stock volume is a data remark without a filing, launch or vote.",
       "sourceChecks": [],
@@ -73592,7 +73812,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T23:10:19.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "78f01b2f5907f44115e4": {
       "source": "Crypto Briefing",
@@ -73613,7 +73833,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T22:02:57.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "77c41a3aed6bd14008e4": {
       "source": "CryptoSlate",
@@ -73634,7 +73854,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:00:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Analysis of earning XRP yield through a wallet is commentary on product risk, not a concrete event.",
       "sourceChecks": [],
@@ -73660,7 +73880,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T21:00:13.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "CoinDesk + Decrypt full articles",
       "sourceChecks": [
@@ -73697,7 +73917,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:42:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "1fda25faaab210070688": {
       "source": "The Defiant",
@@ -73718,7 +73938,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:29:37.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "e673a22b7b5ad7f4f38b": {
       "source": "The Defiant",
@@ -73739,7 +73959,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:29:33.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "73cfddc3b3aa4b77c071": {
       "source": "Cointelegraph",
@@ -73760,7 +73980,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:26:07.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "7d1606694c45723a51f6": {
       "source": "The Defiant",
@@ -73781,7 +74001,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T19:52:18.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "f9efb4d09a2217461ad2": {
       "source": "Bankless",
@@ -73802,7 +74022,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:00:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Bankless quantum to-do list for bitcoin is an editorial agenda piece, not a concrete event.",
       "sourceChecks": [],
@@ -73828,7 +74048,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:31:03.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Bitcoin hitting a weekly high on a rebound is price recap, not a concrete event.",
       "sourceChecks": [],
@@ -73854,7 +74074,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:24:55.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "cbf0d8862095fa9ba23b": {
       "source": "The Defiant",
@@ -73875,7 +74095,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:38:20.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
       "sourceChecks": [],
@@ -73939,7 +74159,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:24:07.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4b829375aefcf8ebf7e7": {
       "source": "The Defiant",
@@ -73960,7 +74180,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:23:30.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "d1e9c14dfc82f7afd45e": {
       "source": "Decrypt",
@@ -73981,7 +74201,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:16:05.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
       "sourceChecks": [],
@@ -74008,7 +74228,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:11:52.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Bitcoin Magazine + Webull PRNewswire + iCoin Market; Kalshi Katalyst loans, BitGo Bank and Trust collateral, Webull Nov perps via KalshiEX.",
       "sourceChecks": [
@@ -74049,7 +74269,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:46:14.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Bitcoin nearing $85,000 on SpaceX earnings is price chatter.",
       "sourceChecks": [],
@@ -74075,7 +74295,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:13:17.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Bitcoin tagging $84.6K with US stocks higher is market recap, excluded.",
       "sourceChecks": [],
@@ -74127,7 +74347,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T14:24:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Alpenglow mainnet activation; covered by the ready draft.",
       "sourceChecks": [],
@@ -74154,7 +74374,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:56:27.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Same JPMorgan ten-year bitcoin price forecast restated; predictions and forecasts are excluded.",
       "sourceChecks": [],
@@ -74180,7 +74400,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:52:51.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Strive SATS yield accretion commentary is analysis and promotion of a treasury strategy, not a concrete event.",
       "sourceChecks": [],
@@ -74206,7 +74426,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:43:51.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Samson Mow interview on MSTR and bitcoin treasuries is opinion commentary.",
       "sourceChecks": [],
@@ -74232,7 +74452,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:30:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Listicle of Ledger alternatives is a buyer's guide, not a concrete event.",
       "sourceChecks": [],
@@ -74258,7 +74478,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T13:06:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "bff6fff64dd0f3c49035": {
       "source": "Decrypt",
@@ -74279,7 +74499,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:16:38.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Morning Minute column summarizing a JPMorgan forecast is an opinion brief, not original event reporting.",
       "sourceChecks": [],
@@ -74305,7 +74525,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:55:08.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Bitcoin volatility near 2026 lows ahead of the Fed and midterms is markets commentary.",
       "sourceChecks": [],
@@ -74331,7 +74551,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T11:23:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "dfe873cd695e05bdefba": {
       "source": "CoinDesk",
@@ -74352,7 +74572,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:15:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Analysis of bitcoin risk management trends lacks a discrete event; opinion and explainer coverage.",
       "sourceChecks": [],
@@ -74378,7 +74598,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:39:13.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Glassnode commentary on bitcoin top buyers at $87.7K is on-chain price analysis.",
       "sourceChecks": [],
@@ -74404,7 +74624,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:30:40.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Live updates on bitcoin holding $84,000 are market tick coverage, excluded.",
       "sourceChecks": [],
@@ -74430,7 +74650,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T09:23:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
       "sourceChecks": [],
@@ -74510,7 +74730,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T03:29:18.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Toy ECDSA example explainer is educational content, not news.",
       "sourceChecks": [],
@@ -74536,7 +74756,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T03:24:18.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Comparison of Mastercard Crypto Credential, KYC, Travel Rule and screening is an explainer, not a discrete event.",
       "sourceChecks": [],
@@ -74562,7 +74782,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T03:20:53.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "OCC waiver rule part of same final rule package; covered by the ready draft.",
       "sourceChecks": [],
@@ -74589,7 +74809,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T02:43:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4e4f8c5d2b6bee66e30f": {
       "source": "Crypto Briefing",
@@ -74610,7 +74830,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T02:34:11.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Wall Street banks metering AI compute spend is a general finance and AI story, not crypto.",
       "sourceChecks": [],
@@ -74636,7 +74856,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T02:12:57.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "0a2371c189fc93c4a6c6": {
       "source": "Crypto Briefing",
@@ -74657,7 +74877,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T01:54:45.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "promotional",
       "note": "Collector Crypt pack sales record is a company-reported volume milestone treated as promotional without independent verification.",
       "sourceChecks": [],
@@ -74683,7 +74903,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T01:44:47.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "promotional",
       "note": "Same Collector Crypt $24.3 million pack sales day restated by a second outlet; promotional volume claim without independent verification.",
       "sourceChecks": [],
@@ -74709,7 +74929,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T01:25:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "Same Aerodrome-Velodrome Aero merger and seven-chain launch covered by the ready draft.",
       "sourceChecks": [],
@@ -74736,7 +74956,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T01:18:15.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Bank of Korea rate decision and chip boom commentary is macro policy, not Web3.",
       "sourceChecks": [],
@@ -74762,7 +74982,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T01:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "US-Israel post-midterm Iran strike planning is geopolitics, outside crypto coverage.",
       "sourceChecks": [],
@@ -74788,7 +75008,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T01:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4effb7cc64e0a372e980": {
       "source": "Crypto Briefing",
@@ -74809,7 +75029,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:52:33.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Three dead in attacks on a Saudi oil field and airport is war reporting, not Web3.",
       "sourceChecks": [],
@@ -74835,7 +75055,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:44:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same PHP emergency patch and foundation failure story; covered by the ready draft.",
       "sourceChecks": [],
@@ -74862,7 +75082,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-25T00:32:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Wisconsin governor race budget coverage is state politics, not a crypto event.",
       "sourceChecks": [],
@@ -74914,7 +75134,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T23:46:20.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "OpenAI tightening usage limits and targeting a $1.4T valuation is AI corporate news, not crypto.",
       "sourceChecks": [],
@@ -74940,7 +75160,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T23:31:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
       "sourceChecks": [],
@@ -74967,7 +75187,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T23:16:49.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Meta stock rising on AI revenue expectations is equities coverage, not Web3.",
       "sourceChecks": [],
@@ -74993,7 +75213,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T23:15:58.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Project Eleven CEO claiming quantum labs withhold results is an interview opinion, not a verifiable discrete event.",
       "sourceChecks": [],
@@ -75045,7 +75265,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T23:05:41.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "158fd4ba7c18bdfe2aba": {
       "source": "Crypto Briefing",
@@ -75066,7 +75286,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T23:03:58.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "California county income thresholds amid rising costs is cost-of-living reporting, not Web3.",
       "sourceChecks": [],
@@ -75092,7 +75312,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:55:32.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Blackstone executive downplaying AI debt concerns is macro finance commentary, not crypto.",
       "sourceChecks": [],
@@ -75118,7 +75338,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T22:45:11.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "cecf79556092a6d40633": {
       "source": "BeInCrypto",
@@ -75166,7 +75386,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:34:10.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Railway secret rotation notice is a SaaS security incident outside the Web3 beat, with only one outlet.",
       "sourceChecks": [],
@@ -75192,7 +75412,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:30:23.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "promotional",
       "note": "Fireblocks executive suggesting its wallets power Fiserv bank transfers is speculative product promotion without a disclosed partnership.",
       "sourceChecks": [],
@@ -75218,7 +75438,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T22:03:53.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "ABA reaction to same OCC rule; covered by the ready draft.",
       "sourceChecks": [],
@@ -75271,7 +75491,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T21:53:48.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "ABA reaction to same OCC rule; covered by the ready draft.",
       "sourceChecks": [],
@@ -75371,7 +75591,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T21:31:02.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "e41158001119ab08ecc5": {
       "source": "Crypto Briefing",
@@ -75418,7 +75638,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T21:24:58.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same eMudhra weak-key certificate incident; covered by the ready draft.",
       "sourceChecks": [],
@@ -75544,7 +75764,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T21:13:40.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "0eb3f7f01827cd7b281e": {
       "source": "Unchained",
@@ -75565,7 +75785,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T21:12:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "1210e22131dbb15ede99": {
       "source": "Crypto Briefing",
@@ -75633,7 +75853,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T20:29:59.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4dcf8c907ce383b4bdcc": {
       "source": "Decrypt",
@@ -75654,7 +75874,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T20:16:02.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "Nvidia's blueprint to monitor AI agents is AI platform news, not crypto or blockchain.",
       "sourceChecks": [],
@@ -75680,7 +75900,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T19:47:52.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Fee and reach comparison of Krak, PayPal and Cash App is a product comparison, not news.",
       "sourceChecks": [],
@@ -75706,7 +75926,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T19:47:17.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "What a 100-contract Polymarket-US versus Kalshi trade costs is a fee comparison, not a concrete event.",
       "sourceChecks": [],
@@ -75758,7 +75978,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T19:00:01.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "OpenAI revealing agents disabled safety monitors is AI lab research, not a crypto event.",
       "sourceChecks": [],
@@ -75784,7 +76004,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:54:36.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Mizuho survey framing Robinhood single-stock perps as strong for HOOD shares is analyst equity opinion, not a discrete crypto event.",
       "sourceChecks": [],
@@ -75810,7 +76030,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:46:08.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
       "sourceChecks": [],
@@ -75863,7 +76083,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:16:03.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
       "sourceChecks": [],
@@ -75890,7 +76110,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:59:36.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "ABA reaction to same OCC rule; covered by the ready draft.",
       "sourceChecks": [],
@@ -75915,11 +76135,11 @@
       "id": "ce8fc79a80fcd65b9473",
       "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T17:28:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Re-read the Zodia primary statement, Cointelegraph and Bitcoin Magazine: Oct. 21 definitive agreements, 100% of Zodia Custody UK Limited, five regulated jurisdictions, Tan and Clark quotes verified against the statement.",
+      "note": "Restored draft. Zodia primary statement and Bitcoin Magazine confirm Standard Chartered signed definitive agreements to acquire 100% of Zodia Custody UK Ltd on Oct. 21; Cointelegraph covers the same definitive deal. Draft content/articles/zodia.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
@@ -75934,10 +76154,29 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T07:54:39.169Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "articleSlug": "zodia",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": []
+      "lastValidationErrors": [
+        "Draft has no ready review outcome: content/articles/aeromerge.md",
+        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
+        "Draft has no ready review outcome: content/articles/cakeflip.md",
+        "Draft has no ready review outcome: content/articles/cardanomica.md",
+        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
+        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
+        "Draft has no ready review outcome: content/articles/eclairpatches.md",
+        "Draft has no ready review outcome: content/articles/emudhra.md",
+        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
+        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
+        "Draft has no ready review outcome: content/articles/malayssds.md",
+        "Draft has no ready review outcome: content/articles/occgenius.md",
+        "Draft has no ready review outcome: content/articles/phppanic.md",
+        "Draft has no ready review outcome: content/articles/shinhanstable.md",
+        "Draft has no ready review outcome: content/articles/spacextesla.md",
+        "Draft has no ready review outcome: content/articles/tethermural.md",
+        "Draft has no ready review outcome: content/articles/trumpscam.md",
+        "Draft has no ready review outcome: content/articles/zcashnu7.md"
+      ]
     },
     "c1b26b9ab08d25cf2347": {
       "source": "Cointelegraph",
@@ -75958,7 +76197,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:25:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "618996273a71c03872de": {
       "source": "Bankless",
@@ -75979,7 +76218,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:20:27.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "Sprout migration deadline already explained in the ready draft.",
       "sourceChecks": [],
@@ -76006,7 +76245,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:19:19.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "1e0af0738e369b11404c": {
       "source": "Bankless",
@@ -76027,7 +76266,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:18:13.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "3265b04a99140b6b602c": {
       "source": "The Defiant",
@@ -76048,7 +76287,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:15:03.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "e23d5fd85d01cffa3e36": {
       "source": "CryptoSlate",
@@ -76069,7 +76308,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:00:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same PHP emergency patch scramble; covered by the ready draft.",
       "sourceChecks": [],
@@ -76096,7 +76335,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:54:03.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "c65d83384e3de8bd6278": {
       "source": "The Defiant",
@@ -76117,7 +76356,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:51:42.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
       "sourceChecks": [],
@@ -76144,7 +76383,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:50:48.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Eclair peer-exploitable Lightning bugs; covered by the ready draft.",
       "sourceChecks": [],
@@ -76171,7 +76410,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:46:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Decrypt + CoinDesk; Labs consolidates MyDoge, DogeOS, and Such App under Jefferson.",
       "sourceChecks": [
@@ -76229,7 +76468,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:35:16.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Decrypt + Cointelegraph; government unplug, foundation failure, Cloudflare attacks.",
       "sourceChecks": [
@@ -76266,7 +76505,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:22:46.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "How a16z-backed DATA is rethinking strategy after its Sui deal is retrospective analysis, not a new filing, launch or vote.",
       "sourceChecks": [],
@@ -76292,7 +76531,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T15:12:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "fac4fe43de127db77b32": {
       "source": "CoinDesk",
@@ -76313,7 +76552,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:09:22.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Bybit saying it will look for broker partnerships to take on Robinhood is interview ambition without a signed deal or launch.",
       "sourceChecks": [],
@@ -76339,7 +76578,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:01:45.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "Japan PM quote already in the ready draft's government-response section.",
       "sourceChecks": [],
@@ -76366,7 +76605,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:00:53.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Crypto Long & Short column on fixed-rate loans for real-world assets is an opinion column.",
       "sourceChecks": [],
@@ -76392,7 +76631,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T14:52:06.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same White House cybercrime event and FBI loss data; covered by the ready draft.",
       "sourceChecks": [],
@@ -76419,7 +76658,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T14:21:15.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "Polkadot forum primary + Crypto Briefing + CoinMarketCap + CryptoTicker; four extension versions leaked private keys, 17,286 DOT reported stolen across eight users.",
       "sourceChecks": [
@@ -76468,7 +76707,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:48:02.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Blockchain.com CEO interview calling it crypto spring is market opinion, not a discrete event.",
       "sourceChecks": [],
@@ -76494,7 +76733,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T13:46:22.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "7f382d2a31d03870af73": {
       "source": "The Defiant",
@@ -76515,7 +76754,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:35:28.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Doodles DOOD token surging 212% is token price movement, excluded.",
       "sourceChecks": [],
@@ -76541,7 +76780,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:31:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "CertiK crypto-exposure warning already in the ready draft.",
       "sourceChecks": [],
@@ -76568,7 +76807,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T13:16:04.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "GTA 6 trailer meme coin speculation is trader price prediction, excluded.",
       "sourceChecks": [],
@@ -76594,7 +76833,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:13:07.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
       "sourceChecks": [],
@@ -76621,7 +76860,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:10:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
       "note": "CoinDesk + Cointelegraph; Shinhan-SBI yen stablecoin travel and trade settlement pact.",
       "sourceChecks": [
@@ -76658,7 +76897,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:08:50.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "a5ed28ed9db5dc4c73f0": {
       "source": "The Defiant",
@@ -76679,7 +76918,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:08:20.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "33a328eb54f544deffa7": {
       "source": "Cointelegraph",
@@ -76705,18 +76944,18 @@
       "id": "33a328eb54f544deffa7",
       "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T12:06:23.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "Same Standard Chartered-Zodia definitive agreements reported by Cointelegraph and The Block; the event is covered by the ready zodia article.",
+      "note": "Cointelegraph covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T07:54:50.666Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "duplicateOf": "zodia",
       "lastReviewedDay": "2026-10-22",
       "mergedInto": "ce8fc79a80fcd65b9473"
@@ -76740,7 +76979,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:06:07.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "08e58a7df1a8b73120d9": {
       "source": "The Defiant",
@@ -76761,7 +77000,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:03:47.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "28378a43bbaa91257d94": {
       "source": "CoinDesk",
@@ -76782,7 +77021,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same wallet/app consolidation story from CoinDesk; covered by the ready draft.",
       "sourceChecks": [],
@@ -76809,7 +77048,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Labs launch including Such App; covered by the ready draft.",
       "sourceChecks": [],
@@ -76836,7 +77075,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T11:19:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "out-of-scope",
       "note": "PlayStation founder commenting on disc ownership is gaming industry news, not Web3.",
       "sourceChecks": [],
@@ -76862,7 +77101,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T11:00:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "5d749ed9de23fbc8afa4": {
       "source": "Cointelegraph",
@@ -76883,7 +77122,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:46:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "f84fafb9a4d8b5809eed": {
       "source": "Decrypt",
@@ -76904,7 +77143,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:29:41.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "fe8b65784bd1a0828f4c": {
       "source": "Cointelegraph",
@@ -76925,7 +77164,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:22:44.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same Shinhan-SBI yen stablecoin pilot; covered by the ready draft.",
       "sourceChecks": [],
@@ -76952,7 +77191,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:15:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
       "note": "same NU7 activation-height agreement; covered by the ready draft.",
       "sourceChecks": [],
@@ -76979,7 +77218,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:13:52.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "1b4a556b0a18686868a7": {
       "source": "The Defiant",
@@ -77000,7 +77239,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T10:12:12.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Aave collateral proposal opinion analysis piece, not a concrete new event with two independent readable sources",
       "sourceChecks": [
@@ -77031,7 +77270,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T09:33:59.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "opinion",
       "note": "Analysis that OpenStocks BNB tokens offer price exposure rather than shares is commentary on a token design, not a new event.",
       "sourceChecks": [],
@@ -77057,7 +77296,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T09:28:54.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "2f107f788c3c9a8181be": {
       "source": "The Defiant",
@@ -77078,7 +77317,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T09:09:53.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "39039581e8b719b7b383": {
       "source": "CoinDesk",
@@ -77099,7 +77338,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T08:57:29.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "price-chatter",
       "note": "Monero futures leverage and volatility risks are derivatives market chatter.",
       "sourceChecks": [],
@@ -77299,7 +77538,7 @@
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:43:32.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "not-a-concrete-event",
       "note": "Evergreen explainer on bitcoin-backed loans; educational resource, not a news event.",
       "sourceChecks": [],
@@ -77325,7 +77564,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:17:54.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "cb56100814459e5ef399": {
       "source": "The Defiant",
@@ -77346,7 +77585,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:39:17.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "3441bdd8a07b07b1faad": {
       "source": "CryptoSlate",
@@ -77367,7 +77606,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T07:10:36.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4396bf1e494c00615a9e": {
       "source": "The Defiant",
@@ -77388,7 +77627,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T06:42:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "c4feb5d10225be633b0f": {
       "source": "CoinDesk",
@@ -77409,7 +77648,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:24:58.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "9f209a9ef04e1d10f06f": {
       "source": "Crypto Briefing",
@@ -77430,7 +77669,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:05:28.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "6fc91c74b884b0ed3db6": {
       "source": "Crypto Briefing",
@@ -77451,7 +77690,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:05:21.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "9bc4a00a4c6f90502421": {
       "source": "CoinDesk",
@@ -77472,7 +77711,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:41:59.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "57ee2b7f6d0dd77c4fa0": {
       "source": "CoinDesk",
@@ -77493,7 +77732,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:36:20.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "fac1babc3933e0ff1128": {
       "source": "CoinDesk",
@@ -77514,7 +77753,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:51:34.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "f8f9999f5672d4412d7d": {
       "source": "CoinDesk",
@@ -77535,7 +77774,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T06:24:10.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "3a25bd7779c804df95c2": {
       "source": "BeInCrypto",
@@ -77556,7 +77795,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T06:24:01.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "575c2c592489ba67eb82": {
       "source": "Cointelegraph",
@@ -77577,7 +77816,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:35:38.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "b08909ce174f7cbd7a2a": {
       "source": "Crypto Briefing",
@@ -77598,7 +77837,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:21:23.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "4ed9cc2e488a22da1a16": {
       "source": "Crypto Briefing",
@@ -77619,7 +77858,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:56:14.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "e168a91c5a1812954ca3": {
       "source": "Crypto Briefing",
@@ -77640,7 +77879,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:42:03.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "8624164a55d37c1bf63f": {
       "source": "BeInCrypto",
@@ -77661,7 +77900,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:40:48.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "1ac21aaa79267139a752": {
       "source": "Crypto Briefing",
@@ -77682,7 +77921,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:28:15.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "394b2f405dc2245082be": {
       "source": "BeInCrypto",
@@ -77703,7 +77942,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:28:00.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "a64cebe4464a32f3e60f": {
       "source": "The Defiant",
@@ -77724,7 +77963,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:52:39.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "b2db9d9cb9fdcf04ebee": {
       "source": "Crypto Briefing",
@@ -77745,7 +77984,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:46:21.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "02a5728d74f4d10500aa": {
       "source": "The Defiant",
@@ -77766,7 +78005,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T03:42:40.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "56fb3e2ed4884660af64": {
       "source": "BeInCrypto",
@@ -77787,7 +78026,7 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T05:57:46.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     },
     "a27db91172f13ac219d3": {
       "source": "BeInCrypto",
@@ -77808,7 +78047,248 @@
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T04:04:45.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "febc4579e19a372f4e98": {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+      "link": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+      "published": "2026-10-22T08:40:20.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+          "published": "2026-10-22T08:40:20.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "febc4579e19a372f4e98",
+      "status": "rejected",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 1,
+      "expiresAt": "2026-10-25T08:40:20.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "price-chatter",
+      "note": "CryptoSlate piece is price-scenario and macro commentary on Bitcoin's $80,000 floor and Friday inflation data, not a concrete protocol or regulatory event to report.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:31:30.100Z",
+      "lastReviewedDay": "2026-10-22"
+    },
+    "851303db30a2633b418f": {
+      "source": "The Defiant",
+      "title": "CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert",
+      "link": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
+      "published": "2026-10-22T08:18:24.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
+          "published": "2026-10-22T08:18:24.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "851303db30a2633b418f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T08:18:24.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "3cc415a65591d91460bb": {
+      "source": "CoinDesk",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "published": "2026-10-22T08:49:08.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+          "published": "2026-10-22T08:49:08.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3cc415a65591d91460bb",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T08:49:08.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "1ee1ce5c251dca6e268f": {
+      "source": "Unchained",
+      "title": "China Opens Its Own Case to Confiscate 61,896 Bitcoin Held by UK Authorities",
+      "link": "https://unchainedcrypto.com/china-opens-its-own-case-to-confiscate-61896-bitcoin-held-by-uk-authorities/",
+      "published": "2026-10-22T08:45:57.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Unchained",
+          "url": "https://unchainedcrypto.com/china-opens-its-own-case-to-confiscate-61896-bitcoin-held-by-uk-authorities/",
+          "published": "2026-10-22T08:45:57.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "1ee1ce5c251dca6e268f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T08:45:57.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "691c804833cb167fdb4c": {
+      "source": "BeInCrypto",
+      "title": "David Schwartz Doesn’t Know Who Sent Him This XRP Meme Coin Gift",
+      "link": "https://beincrypto.com/xrp-meme-coin-fuzzy-schwartz-gift/",
+      "published": "2026-10-22T08:11:01.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/xrp-meme-coin-fuzzy-schwartz-gift/",
+          "published": "2026-10-22T08:11:01.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "691c804833cb167fdb4c",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T08:11:01.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "cb189cf7c5dc48bcc110": {
+      "source": "The Defiant",
+      "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
+      "link": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
+      "published": "2026-10-22T08:02:40.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
+          "published": "2026-10-22T08:02:40.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "cb189cf7c5dc48bcc110",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T08:02:40.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "9b6ee5d53389ff19f451": {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-22T07:37:32.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-22T07:37:32.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9b6ee5d53389ff19f451",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T07:37:32.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "4fc180d71d552835f3de": {
+      "source": "Crypto Briefing",
+      "title": "Attack on Saudi Arabia’s King Fahd Airport kills 2, injures 8",
+      "link": "https://cryptobriefing.com/attack-on-saudi-arabias-king-fahd-airport-kills-2-injures-8/",
+      "published": "2026-10-22T07:55:41.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/attack-on-saudi-arabias-king-fahd-airport-kills-2-injures-8/",
+          "published": "2026-10-22T07:55:41.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4fc180d71d552835f3de",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T07:55:41.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "5d4ef5441a0fb6f694c2": {
+      "source": "Crypto Briefing",
+      "title": "Tesla aims to sell Cybercab robotaxis by year-end amid federal probe",
+      "link": "https://cryptobriefing.com/tesla-cybercab-robotaxi-nhtsa-probe/",
+      "published": "2026-10-22T07:44:10.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/tesla-cybercab-robotaxi-nhtsa-probe/",
+          "published": "2026-10-22T07:44:10.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "5d4ef5441a0fb6f694c2",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T07:44:10.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "75a5edd7d5483763d127": {
+      "source": "BeInCrypto",
+      "title": "What Prediction Markets Can Express on XT Exchange",
+      "link": "https://beincrypto.com/prediction-market-express-xt-exchange/",
+      "published": "2026-10-22T07:41:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/prediction-market-express-xt-exchange/",
+          "published": "2026-10-22T07:41:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "75a5edd7d5483763d127",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T07:41:00.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+    },
+    "165ffe65ff77d2057bee": {
+      "source": "BeInCrypto",
+      "title": "CZ Reacts to Anthropic’s New Claude Duet AI Agent: ‘Now, It Controls Us’",
+      "link": "https://beincrypto.com/claude-duet-ai-agent-cz-reaction/",
+      "published": "2026-10-22T07:23:20.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/claude-duet-ai-agent-cz-reaction/",
+          "published": "2026-10-22T07:23:20.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "165ffe65ff77d2057bee",
+      "status": "pending",
+      "firstSeenAt": "2026-10-22T08:50:50.105Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-25T07:23:20.000Z",
+      "lastSeenAt": "2026-10-22T08:50:50.105Z"
     }
   },
   "runs": {
@@ -132363,7 +132843,18 @@
         "b2db9d9cb9fdcf04ebee",
         "02a5728d74f4d10500aa",
         "56fb3e2ed4884660af64",
-        "a27db91172f13ac219d3"
+        "a27db91172f13ac219d3",
+        "febc4579e19a372f4e98",
+        "851303db30a2633b418f",
+        "3cc415a65591d91460bb",
+        "1ee1ce5c251dca6e268f",
+        "691c804833cb167fdb4c",
+        "cb189cf7c5dc48bcc110",
+        "9b6ee5d53389ff19f451",
+        "4fc180d71d552835f3de",
+        "5d4ef5441a0fb6f694c2",
+        "75a5edd7d5483763d127",
+        "165ffe65ff77d2057bee"
       ],
       "outcomes": {
         "26b3bb0e3bc3ed7e6ca1": {
@@ -132899,105 +133390,6 @@
             "Blockchain Association Treasury GENIUS Act clearer rules"
           ]
         },
-        "555b03b302d276314cb0": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Crypto Briefing and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators. The Defiant mirror still returns HTTP 403.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T07:51:12.477Z",
-          "articleSlug": "charonupgrade"
-        },
-        "ce8fc79a80fcd65b9473": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read the Zodia primary statement, Cointelegraph and Bitcoin Magazine: Oct. 21 definitive agreements, 100% of Zodia Custody UK Limited, five regulated jurisdictions, Tan and Clark quotes verified against the statement.",
-          "sourceChecks": [
-            {
-              "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
-              "outcome": "read"
-            },
-            {
-              "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T07:54:39.169Z",
-          "articleSlug": "zodia"
-        },
-        "33a328eb54f544deffa7": {
-          "status": "rejected",
-          "reason": "duplicate",
-          "note": "Same Standard Chartered-Zodia definitive agreements reported by Cointelegraph and The Block; the event is covered by the ready zodia article.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T07:54:50.666Z",
-          "duplicateOf": "zodia",
-          "mergedInto": "ce8fc79a80fcd65b9473"
-        },
-        "665905ab039e4e58273a": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Bitwise Q4 2026 Staking Report (published Oct. 20, covering Q3) verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage. Drafted content/articles/stakingrecord.md (679 words, 3 source hosts); hero image Matt Brown Ethereum plaque via Wikimedia (CC BY 2.0), compressed to 293KB. The Defiant link itself returned 403 and was recorded blocked.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T08:17:42.791Z",
-          "articleSlug": "stakingrecord"
-        },
-        "0f0bff581db089300777": {
-          "status": "rejected",
-          "reason": "duplicate",
-          "note": "Same event as the Defiant lead: Bitwise's Q4 2026 Staking Report on record Ethereum and Solana staking. Covered by the ready draft stakingrecord.md, which cites the primary report plus two independent outlets. The Block URL returned 403 and was recorded blocked.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T08:18:01.499Z",
-          "duplicateOf": "stakingrecord",
-          "mergedInto": "665905ab039e4e58273a"
-        },
         "84d994d2658e17208b74": {
           "status": "rejected",
           "reason": "duplicate",
@@ -133035,6 +133427,393 @@
           ],
           "reviewedAt": "2026-10-22T08:23:41.608Z",
           "duplicateOf": "francetax"
+        },
+        "555b03b302d276314cb0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Crypto Briefing and the Obol v1.11.2 GitHub release both confirm the urgent Charon patch after the eMudhra CA incident (Go 1.27.3, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators). The Defiant mirror returns HTTP 403 and was recorded blocked. Draft content/articles/charonupgrade.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.098Z",
+          "articleSlug": "charonupgrade"
+        },
+        "665905ab039e4e58273a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitwise Q4 2026 Staking Report verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage: 43.8M ETH staked, yields falling, Solana activity context. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/stakingrecord.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "stakingrecord"
+        },
+        "f3e86162ee7dcb7ad739": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "TokenPost and Crypto Briefing both confirm the SEC keeps taking Reg Crypto comments after the Oct. 20 close; the SEC public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF) and the rulemaking page confirms the Aug. 18 issuance and exemption structure. Draft content/articles/regcrypto.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/36529",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "regcrypto"
+        },
+        "ce8fc79a80fcd65b9473": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Restored draft. Zodia primary statement and Bitcoin Magazine confirm Standard Chartered signed definitive agreements to acquire 100% of Zodia Custody UK Ltd on Oct. 21; Cointelegraph covers the same definitive deal. Draft content/articles/zodia.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "zodia"
+        },
+        "89a69374c6920c41cbfc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NEAR forum HSP-029 (status Voting), Hokanews vote-open report (ballot Oct. 19 to Nov. 2), and Crypto Briefing proposal background all confirm the 2.5% to 1.6% issuance ramp, 90/10 split, 90-day grace, two-step validator adoption, and SVRN disclosure. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/nearissuance.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "nearissuance"
+        },
+        "33a328eb54f544deffa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "0f0bff581db089300777": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article; candidate URL returns HTTP 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "stakingrecord",
+          "mergedInto": "665905ab039e4e58273a"
+        },
+        "b7168518ec513546cf43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Block covers the same Reg Crypto comment-close event and commenter pressure already reported in the ready regcrypto article; candidate URL returns HTTP 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "regcrypto",
+          "mergedInto": "f3e86162ee7dcb7ad739"
+        },
+        "febc4579e19a372f4e98": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "CryptoSlate piece is price-scenario and macro commentary on Bitcoin's $80,000 floor and Friday inflation data, not a concrete protocol or regulatory event to report.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.100Z"
+        },
+        "d827e4da47d80b199d72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the OCC Oct. 21 news release 2026-92, Decrypt and CoinDesk coverage: first GENIUS Act final rule, effective Jan. 18, 2027, reserve/redemption/risk standards, no safe harbor for pre-existing rewards programs. Drafted content/articles/occgenius.md (734 body words, hosts: occ.gov, decrypt.co, coindesk.com); hero image OCC HQ sign by MBisanz via Wikimedia (CC BY-SA 3.0), compressed to 218KB.",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:47:27.700Z",
+          "articleSlug": "occgenius"
+        },
+        "b8c0039794f871c2439a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OCC GENIUS Act final rule story already covered by the ready occgenius draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T09:47:27.700Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "223942039ddb42dedd48": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "BeInCrypto returned 403; verified instead via the Motley Fool full Q3 call transcript and Bullished's same-day report plus the CourtListener copy of CME's June complaint. Duffy said on the Oct. 21 call the perpetual funding rate is deemed a swap under Dodd-Frank and CME is fairly confident; GC Marchese said the case is fully briefed to the judge in December. Drafted content/articles/duffyperps.md (662 words, hosts: fool.com, bullished.co, courtlistener.com); hero Terry Duffy photo via Wikimedia (CC BY-SA 4.0), 125KB.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.293632/gov.uscourts.dcd.293632.1.0.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:57:52.313Z",
+          "articleSlug": "duffyperps"
+        },
+        "877c888579d259ba11cc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Crypto Briefing's Oct. 21 item is prediction-market analysis recycling Selig's Oct. 5 WSJ op-ed, Fordham remarks and the CTX/CAM ANPRM, which cftc-leverage.md already covers. The CFTC public statements page lists no Selig statement after Oct. 5; no new filing, vote or rule accompanies the headline.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement100526",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/index.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:59:12.937Z"
+        },
+        "0234a0b9cf8724213cf8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred HoneyB lead: The Block still returns 403, but the FinanceWire company announcement (via Markets Insider, Oct. 21) and Dealroom's independent report (Oct. 20, covering Gordon's interview: SAFE with 1:1 token warrant at $30M post-money, 2-4% net yield target, Q4 2026 non-U.S. institutional launch) both opened and were read. Drafted content/articles/honeyb.md (640+ words, hosts: markets.businessinsider.com, dealroom.co); hero photo Dover Delaware via Wikimedia (CC BY-SA 2.5), compressed to 318KB.",
+          "sourceChecks": [
+            {
+              "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:17:48.932Z",
+          "articleSlug": "honeyb"
+        },
+        "a0b5ba7979f5eaf98a43": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred Optimum lead: The Defiant still 403. Verified via CryptoSlate Chainwire press release (Oct. 20: 16 operators, ~22k keys, 1.4M+ ETH, ether.fi mandate for all 12 operators, Medard/Kopp/Spina quotes) and Cryptonomist independent report (Oct. 20: sidecar/RLNC mechanics, 2.42x/7.88x mainnet claims vs 6-20x Hoodi testnet product page, ether.fi published nothing on its own channels, API key caveat). Drafted content/articles/mump2p.md (660+ words, hosts: cryptoslate.com, en.cryptonomist.ch); hero Muriel Medard photo via Wikimedia (CC BY 4.0), 239KB. DefiLlama dashboard is JS-rendered and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:22:22.566Z",
+          "articleSlug": "mump2p"
+        },
+        "4b876bd7370c395bf9c8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred France budget-vote lead: The Defiant URL now returns a JS-gated shell (headline/dek only, body not readable), marked unavailable. Verified the Oct 20 to Nov 3 postponement via the Assemblée nationale schedule page (primary: solemn vote on first part of PLF 2027 inscribed for Tue Nov 3 afternoon; debate resumes Oct 27-Nov 2) plus Infonet (delay confirmed by the chamber and conference of presidents; rejection on Nov 3 sends only the government text to the Senate) and DigitalToday (Oct 21, stablecoin-swap tax angle). Re-verified scrutin 8836 (I-3898, 38-37-25 on Oct 16) and read Decrypt (Oct 20) for amendment mechanics and the 31.4% rate path. Drafted content/articles/francevote.md (630+ words, hosts: assemblee-nationale.fr, infonet.fr, digitaltoday.co.kr, decrypt.co); hero Palais Bourbon NW view via Wikimedia (DXR, public domain), 271KB.",
+          "sourceChecks": [
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+              "outcome": "read"
+            },
+            {
+              "url": "https://infonet.fr/actualite/juridique/vote-budget-2027-novembre",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.digitaltoday.co.kr/en/view/117675/france-delays-vote-on-stablecoin-tax-measure-eyes-nov-3",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:30:09.753Z",
+          "articleSlug": "francevote"
+        },
+        "33e9137878190c73e286": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Filed Oct 16 in S.D. Ohio, Judge Douglas Cole; AG Andy Wilson and OCCC defendants; two theories: Ohio licensing discriminates under Commerce Clause and Commodity Exchange Act preemption; CFTC Oct 9 interim final rule on casino-style swaps plus proposed event-contract rule cited as new landscape; no PI motion or Ohio response as of Oct 21; 10 commission notices with Oct 16 deadline, one confirmed compliance, two suing including Polymarket; Second litigant unidentified; DeWine quote; Sixth Circuit rehearing petition pending; Third Circuit SCOTUS split with NJ petition, Kalshi response due Nov 9.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:42:28.453Z",
+          "articleSlug": "polymarketohio"
+        },
+        "cc2964f96502bc13620a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Three TSVs under SEC innovation exemption: TSV LLC (Puerto Rico, Abrar/Trinkle, Canton Network, notice Sept 23 revised Oct 19), OKXICE TSV (Texas JV 50% ICE 50% OKC USA, X Layer, notice Oct 4), Kephas Corp d/b/a Perpetuals.com (Delaware sub of Nasdaq: PDC, Kronos X Public L2, notice Oct 14). SEC Wednesday announcement confirms three names; inclusion does not mean exemption conditions met. OKXICE already faces 16 issuer objections including Microsoft Alphabet Goldman Sachs per TokenPost Oct 19 notice. Exemption: 5 years, 30-day public notice, 1 business day SEC submission, 30-day issuer objection window. None launched.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenizedstockvenue.com/notice.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/35202",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:51:44.768Z",
+          "articleSlug": "secstocks"
         }
       },
       "baselineSlugs": [
@@ -133377,8 +134156,8 @@
             "items": 643
           }
         ],
-        "total": 192,
-        "checkedAt": "2026-10-22T07:44:05.017Z"
+        "total": 191,
+        "checkedAt": "2026-10-22T08:50:50.105Z"
       }
     }
   }
