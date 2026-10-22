@@ -68674,25 +68674,45 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b876bd7370c395bf9c8",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T11:53:34.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred France budget-vote lead: The Defiant URL now returns a JS-gated shell (headline/dek only, body not readable), marked unavailable. Verified the Oct 20 to Nov 3 postponement via the Assemblée nationale schedule page (primary: solemn vote on first part of PLF 2027 inscribed for Tue Nov 3 afternoon; debate resumes Oct 27-Nov 2) plus Infonet (delay confirmed by the chamber and conference of presidents; rejection on Nov 3 sends only the government text to the Senate) and DigitalToday (Oct 21, stablecoin-swap tax angle). Re-verified scrutin 8836 (I-3898, 38-37-25 on Oct 16) and read Decrypt (Oct 20) for amendment mechanics and the 31.4% rate path. Drafted content/articles/francevote.md (630+ words, hosts: assemblee-nationale.fr, infonet.fr, digitaltoday.co.kr, decrypt.co); hero Palais Bourbon NW view via Wikimedia (DXR, public domain), 271KB.",
       "sourceChecks": [
         {
+          "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+          "outcome": "read"
+        },
+        {
+          "url": "https://infonet.fr/actualite/juridique/vote-budget-2027-novembre",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.digitaltoday.co.kr/en/view/117675/france-delays-vote-on-stablecoin-tax-measure-eyes-nov-3",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:30:09.753Z",
       "retrySearches": [
         "Find independent reporting on: France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "francevote"
     },
     "f0ead9177af90e0b0e62": {
       "source": "CoinDesk",
@@ -133633,6 +133653,39 @@
           ],
           "reviewedAt": "2026-10-22T10:22:22.566Z",
           "articleSlug": "mump2p"
+        },
+        "4b876bd7370c395bf9c8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred France budget-vote lead: The Defiant URL now returns a JS-gated shell (headline/dek only, body not readable), marked unavailable. Verified the Oct 20 to Nov 3 postponement via the Assemblée nationale schedule page (primary: solemn vote on first part of PLF 2027 inscribed for Tue Nov 3 afternoon; debate resumes Oct 27-Nov 2) plus Infonet (delay confirmed by the chamber and conference of presidents; rejection on Nov 3 sends only the government text to the Senate) and DigitalToday (Oct 21, stablecoin-swap tax angle). Re-verified scrutin 8836 (I-3898, 38-37-25 on Oct 16) and read Decrypt (Oct 20) for amendment mechanics and the 31.4% rate path. Drafted content/articles/francevote.md (630+ words, hosts: assemblee-nationale.fr, infonet.fr, digitaltoday.co.kr, decrypt.co); hero Palais Bourbon NW view via Wikimedia (DXR, public domain), 271KB.",
+          "sourceChecks": [
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+              "outcome": "read"
+            },
+            {
+              "url": "https://infonet.fr/actualite/juridique/vote-budget-2027-novembre",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.digitaltoday.co.kr/en/view/117675/france-delays-vote-on-stablecoin-tax-measure-eyes-nov-3",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:30:09.753Z",
+          "articleSlug": "francevote"
         }
       },
       "baselineSlugs": [
