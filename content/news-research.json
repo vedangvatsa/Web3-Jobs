@@ -73469,24 +73469,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5bf88db82bc3cc461",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T10:50:52.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Re-reviewed Snapshot primary proposal, Cointelegraph, TokenPost, AltcoinBuzz and CryptoTicker. Vote open Oct 21-24; ~98% against with single wallet casting most no votes. Updated draft for opposition tally and two-step emissions; verified TVL and fee-split figures. Audits pass.",
+      "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct 21 (TVL +19%/$380M/$2.4B, V3 $336M-to-$739M, $4.67B volume/71%, BNB Chain TVL +8.3%/$5.84B), Altcoin Buzz Oct 22 (98.14% opposition, 999,486.88 vs 22,201.52, 0x3D...e1ad 765,559 three-quarters), TokenPost Oct 21 (Infinity 1% to 0.76%, supply 11.5% below April 2025, $62M extra LP fees) and CryptoTicker Oct 22 (quorum 1 unit met, veCAKE only, two-stage 22,500 to 7,000, 11 chains one per week). Verified live Snapshot GraphQL: For 22,205 / Against 1,229,913 / 32 votes / active, matching draft's 1.23M figure. Voting page and Wikimedia hero both HTTP 200. All draft claims verified; 684 words; slug unowned; quality audit clean; hero 245499 bytes.",
       "sourceChecks": [
         {
-          "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
-          "outcome": "read"
-        },
-        {
           "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/technology/36894",
           "outcome": "read"
         },
         {
@@ -73494,11 +73486,19 @@
           "outcome": "read"
         },
         {
+          "url": "https://www.tokenpost.com/news/technology/36894",
+          "outcome": "read"
+        },
+        {
           "url": "https://cryptoticker.io/en/pancakeswap-vote-cake-emissions/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T11:59:25.466Z",
+      "reviewedAt": "2026-10-22T14:04:41.253Z",
       "articleSlug": "cakeflip",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -135976,6 +135976,35 @@
           ],
           "reviewedAt": "2026-10-22T14:02:39.663Z",
           "articleSlug": "alpenglowlive"
+        },
+        "fdc5bf88db82bc3cc461": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct 21 (TVL +19%/$380M/$2.4B, V3 $336M-to-$739M, $4.67B volume/71%, BNB Chain TVL +8.3%/$5.84B), Altcoin Buzz Oct 22 (98.14% opposition, 999,486.88 vs 22,201.52, 0x3D...e1ad 765,559 three-quarters), TokenPost Oct 21 (Infinity 1% to 0.76%, supply 11.5% below April 2025, $62M extra LP fees) and CryptoTicker Oct 22 (quorum 1 unit met, veCAKE only, two-stage 22,500 to 7,000, 11 chains one per week). Verified live Snapshot GraphQL: For 22,205 / Against 1,229,913 / 32 votes / active, matching draft's 1.23M figure. Voting page and Wikimedia hero both HTTP 200. All draft claims verified; 684 words; slug unowned; quality audit clean; hero 245499 bytes.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/pancakeswap-s-the-flip-faces-98-opposition-ahead-of-vote-close",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/36894",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/pancakeswap-vote-cake-emissions/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T14:04:41.253Z",
+          "articleSlug": "cakeflip"
         }
       },
       "baselineSlugs": [
