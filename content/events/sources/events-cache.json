@@ -333,62 +333,6 @@
     }
   },
   {
-    "id": "luma-evt-t3oq217l83LaKGT",
-    "name": "Bitcoin Builders Club",
-    "description": "Bitcoin Builders Club is your monthly hangout in Austin, Texas, for devs, hackers, and founders come together to share ideas, demo projects, and explore the cutting edge of what's possible. Whether hacking on Bitcoin Lightning, developing open-source tools, or launching your next startup, this is your space to build in public, connect with peers, and get real-time feedback from a community of open-source creators.\n\nEvery month, expect Austin-style hospitality featuring homestyle food prepared by a local chef, cold drinks, and vibrant conversations with fellow hackers, builders, and founders dedicated to pushing bitcoin innovation forward in Austin.\n\n[Reach out to us on PlebLab Telegram](https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost.\n\nWhat to Expect:\n\nStart BBC: 6:15 – 6:20 PM\nCar will discuss community updates and other Austin Bitcoin scene happenings.\n\nNetworking, Food & Hack & Tell: 6:20 – 7:00 PM\nMeet friends as everyone pours in and gets settled before the main event. Eat, drink, and enjoy while catching some Hack & Tell updates from local builders.\n\nBuilder Presentation: 7:00 – 8:15 PM\n\n🔐 What can recent Bitcoin security incidents teach us as builders?\n\nThis Monday at Bitcoin Builders Club, we’ll take a closer look at two interesting cases involving Liquid and COLDCARD — and explore how software, key generation, and security assumptions can shape the safety of Bitcoin systems.\n\nA friendly, technical discussion on what happened, what we can learn, and how to build more robust systems together.\n\nHope to see you there! 🛠️🧡\n\nWe’ll wrap with open Q&A and a full room discussion where you can ask about your own product, pitch, or strategy.\n\nLate to the party? Come on in. There’s still plenty of time for any questions, conversations, and meeting good people building on Bitcoin.\n\nEvent Sponsors:\n\n[Station Austin](https://capitalfactory.com)\n“STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. [To sign up for a STATION Austin membership, click here](https://stationaustin.org/commons/).”\n\n[PlebLab](https://pleblab.dev)\n“Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin’s future. A hackerspace & community accelerator for the Bitcoin [Era in Austin, Texas since 2021. Sign up for a Builder Pass](https://pay.zaprite.com/order/od_EE4gqaRkjp) [and their Newsletter](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share).\"",
-    "startDate": "2026-09-21T23:30:00.000Z",
-    "endDate": "2026-09-22T02:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Capital Factory, 701 Brazos St, Austin, TX 78701, USA",
-    "url": "https://lu.ma/sfzgn95w",
-    "coverImage": "/events/luma-evt-t3oq217l83lakgt-0c7fdab7.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bbc",
-    "timezone": "America/Chicago",
-    "registrationUrl": "https://luma.com/sfzgn95w",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Capital Factory",
-    "streetAddress": "701 Brazos St, Austin",
-    "addressLocality": "Austin",
-    "addressRegion": "Texas",
-    "addressCountry": "US",
-    "neighborhood": "Financial District",
-    "coordinates": {
-      "latitude": 30.268889,
-      "longitude": -97.740556
-    },
-    "hosts": [
-      "Car"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitcoin Builders Club",
-      "url": "https://pleblab.dev/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/sfzgn95w",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/sfzgn95w",
-      "eventId": "evt-t3oq217l83LaKGT",
-      "fetchedAt": "2026-09-19T23:49:46.731Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-GQiEEZLgPSEOKxX",
     "name": "Digital Asset Summit Toronto 2026",
     "description": "## Toronto’s leading gathering for digital assets, financial innovation and the future of market infrastructure.\n\nDigital Asset Summit Toronto returns on Tuesday, September 22, 2026.\n\nJoin leaders from financial institutions, digital asset companies, government, venture capital, technology and professional services for a full day of thoughtful conversations, meaningful connections and industry insight.\n\nThe summit will explore how digital assets are moving into the financial mainstream. From stablecoins, payments and tokenization to institutional adoption, regulation, artificial intelligence and the infrastructure supporting the next financial system.\n\nDesigned as an intimate, high-value industry gathering, Digital Asset Summit Toronto brings together the people building, funding, regulating and adopting the future of finance.\n\nTopics will include:\n\n• Institutional adoption of digital assets\n• Stablecoins and the future of payments\n• Tokenization and real-world assets\n• Digital asset market infrastructure\n• Regulation, policy and compliance\n• Artificial intelligence and financial services\n• Investment, venture capital and innovation\n• Canada’s role in the global digital economy\n\nWho should attend?\n\nFinancial institutions, asset managers, fintech and digital asset companies, founders, investors, government representatives, regulators, legal and accounting professionals, technology leaders and ecosystem builders.\n\nExpect a full day of keynote conversations, executive panels, networking and opportunities to connect with leaders shaping the future of digital finance.\n\n## Event Details\n\nTuesday, September 22, 2026\n9:00 AM – 5:00 PM\nDowntown Toronto\n\nJoin us. Canada's next chapter of innovation starts here.\n—\n\nFor speaker and sponsor opportunities please contact info@web3to.ca",
@@ -19408,10 +19352,9 @@
     "month": "November 2026",
     "speakers": [
       "George Osborne",
-      "Mike Cagney",
       "Gareth Davies MP",
-      "Johann Kerbrat",
       "Emma Landriault",
+      "Johann Kerbrat",
       "Dan Tapiero",
       "Zach Abrams",
       "Nikhil Sharma",
@@ -19419,24 +19362,25 @@
       "Dan Morehead",
       "Faryar Shirzad",
       "Matthew Long",
-      "Rebecca Rettig",
-      "Geoffrey Kendrick",
       "Laurie Katz",
+      "Geoffrey Kendrick",
       "Konstantin Richter",
       "Jason Yanowitz",
       "Stani Kulechov",
+      "Rebecca Rettig",
       "David Mercer",
-      "Samantha Bohbot",
-      "Lord Holmes of Richmond MBE",
       "Katie Harries",
+      "Lord Holmes of Richmond MBE",
       "Theo Golden",
-      "Anatoly Crachilov",
       "Ryan Hayward",
+      "Kash Razzaghi",
+      "Anatoly Crachilov",
+      "Samantha Bohbot",
+      "Francisco Maroto Castro",
       "Sophia Bantanidis",
       "Simon Taylor",
       "Dr. Lin Han",
-      "Francisco Maroto Castro",
-      "Stephanie Ramezan"
+      "Lance Vitanza"
     ]
   },
   {
@@ -20528,7 +20472,7 @@
     "country": "Sweden",
     "location": "Stockholm, Sweden",
     "url": "https://nordicblockchain.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-nordic-blockchain-conference-2027-c8e1ba16.webp",
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -21917,10 +21861,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -23375,7 +23316,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": "/events/mu-316749553-4ef65602.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23389,7 +23330,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-chicago/events/316859714/",
-    "coverImage": "/events/mu-316859714-baa8b457.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27713,13 +27654,13 @@
     "id": "luma-evt-WWDBt5BPWV6ATs8",
     "name": "Atherton - Summer In Silicon Valley!",
     "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T01:30:00.000Z",
+    "startDate": "2026-10-23T22:00:00.000Z",
+    "endDate": "2026-10-24T01:30:00.000Z",
     "city": "Atherton",
     "country": "United States",
     "location": "Atherton, United States",
     "url": "https://lu.ma/focus-siml",
-    "coverImage": "/events/luma-evt-wwdbt5bpwv6ats8-7dc7adf5.webp",
+    "coverImage": "/events/luma-evt-wwdbt5bpwv6ats8-4d625d5a.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -28165,5 +28106,61 @@
     "coverImage": "/events/luma-evt-valcyyfo783xayn-b21460d0.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-n237uF3ERoiMc6A",
+    "name": "DeFi Homies Get Together",
+    "description": "",
+    "startDate": "2026-10-22T22:00:00.000Z",
+    "endDate": "2026-10-23T02:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/dp9xar1p",
+    "coverImage": "/events/luma-evt-n237uf3eroimc6a-cb578330.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-ovkyzfZsQN6Xgpl",
+    "name": "session 2: charmed x snail mail w/ martina calvi + kelsey armstrong",
+    "description": "",
+    "startDate": "2026-10-22T23:30:00.000Z",
+    "endDate": "2026-10-23T01:30:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/5lp2gju4",
+    "coverImage": "/events/luma-evt-ovkyzfzsqn6xgpl-9a4ea691.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-7AAxOtClIJt7DtI",
+    "name": "Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles",
+    "description": "",
+    "startDate": "2026-10-23T22:00:00.000Z",
+    "endDate": "2026-10-24T01:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/1g4swnho",
+    "coverImage": "/events/luma-evt-7aaxotclijt7dti-34a9b0dc.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316890023",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-10-27T18:30:00-05:00",
+    "endDate": "2026-10-27T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]

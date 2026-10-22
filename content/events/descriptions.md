@@ -20943,90 +20943,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-e7c6d17d2e95ddd8"></a>
-
-## Building Investable Market Roundtable - a UN General Assembly Side Event
-
-- Record: `luma-crypto-nAX1igzjCLW48OD`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-21T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/w378lww4>
-
-### About the event
-
-The U.S, Nigeria, and Indonesia are home to close to a billion people between them, three of the world's largest and most dynamic markets. Yet catalytic capital hasn't caught up. We need new models of funding to unlock what's possible here.
-
-CatalitiQ Capital is hosting a UNGA Week side event: "Building Investable Markets" a roundtable on mobilizing catalytic capital to unlock private investment in US Nigeria & Indonesia. 🇺🇸 🇳🇬 🇮🇩
-
-This isn't about one fund. It's about building the coalition, impact investors, policymakers, DFIs, philanthropies, and ecosystem leaders, needed to move real capital into these markets.
-
-Sept 21st | 12:00 - 4:00 PM
-
-52 Vanderbilt Ave 6th Floor, New York, NY
-
-Spots are limited. Register your interest below and we'll confirm your seat at the table.
-
-#[UNGA81](https://www.linkedin.com/search/results/all/?keywords=%23unga81&origin=HASH_TAG_FROM_FEED) #[CatalyticCapital](https://www.linkedin.com/search/results/all/?keywords=%23catalyticcapital&origin=HASH_TAG_FROM_FEED) #[ImpactInvesting](https://www.linkedin.com/search/results/all/?keywords=%23impactinvesting&origin=HASH_TAG_FROM_FEED) #[BlendedFinance](https://www.linkedin.com/search/results/all/?keywords=%23blendedfinance&origin=HASH_TAG_FROM_FEED)
-
-<a id="event-2d6276654357d5ee"></a>
-
-## TAO Social (Bittensor - The Decentralised AI crypto)
-
-- Record: `luma-crypto-wo4i2z8B7f2iTSR`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-21T18:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/10hexs52>
-
-### About the event
-
-Hey Bittensor community,
-
-The next London UK event is booked ( at a NEW LOCATION - see below ) !
-
-With Exploit Summit round the corner we had to find an appropriate date beforehand, alongside the availability of bitstarter which will be joining us to make this social even better than before.
-
-Therefore we are organising the TAO social on Monday the 21st of September (NEXT MONDAY)! With an exclusive section for $TAO enthusiasts.
-
-Whether you're deep in subnets or just getting started, come share knowledge or learn something new with some casual chats about TAO over a pint.
-
-### Details
-
-- 21st September, 7:30pm onwards
-- The Crown Tavern Clerkenwell (43 Clerkenwell Grn, Greater, London EC1R 0EG)
-- 5-min walk from Farringdon Station
-
-RSVP BELOW IF YOU CAN JOIN
-
-Decentralised connections, real conversations
-
-#Brittensor #TAOsocial #crypto #Bittensor
-
-<a id="event-1c2d8e8703818419"></a>
-
-## BitcoinMondays NYC - Featuring A Fireside Chat With Dr. W. Scott Stornetta
-
-- Record: `luma-crypto-XDAGPCSADvOPMzB`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-21T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4ps0ow9b>
-
-### About the event
-
-We've got an epic BitcoinMondays NYC on September 21st at Pubkey, featuring a Fireside Chat Dr. W. Scott Stornetta, the most cited person (at 3 mentions) in Satoshi's white paper! Scott's also widely considered to be the co-inventor of the Blockchain. From 1991, his pioneering series of papers and patents, written with Dr. Stuart Haber, laid the foundation for Bitcoin and other digital currencies.
-
-Today, Dr. W. Scott Stornetta is [an active investor, mentor, and the CEO of SureMark Digital](https://www.suremark.digital/). which uses the same techniques that undergird the blockchain to create peer-to-peer unforgeable identities.
-
-SureMark: Making Deepfakes Irrelevant
-
-Artificial intelligence makes it easy to create convincing video, audio, documents, and even real-time conversations. As synthetic media spreads, the internet's core problem shifts from detecting fakes to proving what is real. Rather than defeating deepfakes or even detecting deepfakes, SureMark makes them irrelevant.
-
-SureMark cryptographically binds identity to digital content, creating a universal way to verify identity, online content, and real-time communications. As AI proliferates, every platform, enterprise, and financial system will require this infrastructure.
-
-The United Nations has begun using SureMark credentials for official announcements. A major cybersecurity insurance company will quadruple coverage limits for any company implementing SureMark. SureMark is building channel partnerships across cybersecurity insurance, law firms, and news media verticals.
-
 <a id="event-b97983ad5bbbef58"></a>
 
 ## Battle of the Personal Brains Hackathon 🧠
@@ -52528,59 +52444,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-b16e1f340cf85f55"></a>
-
-## Bitcoin Builders Club
-
-- Record: `luma-evt-t3oq217l83LaKGT`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-21T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/sfzgn95w>
-- Original page: <https://luma.com/sfzgn95w>
-
-### About the event
-
-Bitcoin Builders Club is your monthly hangout in Austin, Texas, for devs, hackers, and founders come together to share ideas, demo projects, and explore the cutting edge of what's possible. Whether hacking on Bitcoin Lightning, developing open-source tools, or launching your next startup, this is your space to build in public, connect with peers, and get real-time feedback from a community of open-source creators.
-
-Every month, expect Austin-style hospitality featuring homestyle food prepared by a local chef, cold drinks, and vibrant conversations with fellow hackers, builders, and founders dedicated to pushing bitcoin innovation forward in Austin.
-
-[Reach out to us on PlebLab Telegram](https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost.
-
-### What to Expect
-
-Start BBC: 6:15 - 6:20 PM
-
-Car will discuss community updates and other Austin Bitcoin scene happenings.
-
-Networking, Food & Hack & Tell: 6:20 - 7:00 PM
-
-Meet friends as everyone pours in and gets settled before the main event. Eat, drink, and enjoy while catching some Hack & Tell updates from local builders.
-
-Builder Presentation: 7:00 - 8:15 PM
-
-What can recent Bitcoin security incidents teach us as builders?
-
-This Monday at Bitcoin Builders Club, we'll take a closer look at two interesting cases involving Liquid and COLDCARD - and explore how software, key generation, and security assumptions can shape the safety of Bitcoin systems.
-
-A friendly, technical discussion on what happened, what we can learn, and how to build more robust systems together.
-
-Hope to see you there!
-
-We'll wrap with open Q&A and a full room discussion where you can ask about your own product, pitch, or strategy.
-
-Late to the party? Come on in. There's still plenty of time for any questions, conversations, and meeting good people building on Bitcoin.
-
-Event Sponsors:
-
-[Station Austin](https://capitalfactory.com)
-
-"STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. [To sign up for a STATION Austin membership, click here](https://stationaustin.org/commons/)."
-
-[PlebLab](https://pleblab.dev)
-
-"Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin's future. A hackerspace & community accelerator for the Bitcoin [Era in Austin, Texas since 2021. Sign up for a Builder Pass](https://pay.zaprite.com/order/od_EE4gqaRkjp) [and their Newsletter](https://dashboard.mailerlite.com/forms/10467/51078046840522216/share)."
-
 <a id="event-08a577df123d8459"></a>
 
 ## Digital Asset Summit Toronto 2026
@@ -72260,15 +72123,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-964bc2737f1e5684"></a>
+<a id="event-e5c2e0c2b8e5e1d9"></a>
 
-## Atherton - Summer In Silicon Valley!
+## DeFi Homies Get Together
 
-- Record: `luma-evt-WWDBt5BPWV6ATs8`
+- Record: `luma-evt-n237uF3ERoiMc6A`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
-- Original page: <https://lu.ma/focus-siml>
+- Original page: <https://lu.ma/dp9xar1p>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72305,6 +72168,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/claudemexicocitymarketing>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1418aee505ab5241"></a>
+
+## session 2: charmed x snail mail w/ martina calvi + kelsey armstrong
+
+- Record: `luma-evt-ovkyzfZsQN6Xgpl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5lp2gju4>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72442,6 +72317,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8276ff89e65c71f0"></a>
+
+## Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles
+
+- Record: `luma-evt-7AAxOtClIJt7DtI`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/1g4swnho>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-26e415aa477165e5"></a>
 
 ## Cloudways Prepathon: In-person, Mexico City 2026
@@ -72451,6 +72338,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-23T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/2xms6avp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-964bc2737f1e5684"></a>
+
+## Atherton - Summer In Silicon Valley!
+
+- Record: `luma-evt-WWDBt5BPWV6ATs8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/focus-siml>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72856,6 +72755,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T17:30:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ab41b15db0c5cebc"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-316890023`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T18:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

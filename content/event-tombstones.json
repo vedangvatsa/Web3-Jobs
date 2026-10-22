@@ -1107,5 +1107,33 @@
       "luma-crypto-43a6ffwg3sgkdes",
       "emsokomnet"
     ]
+  },
+  "luma-evt-t3oq217l83LaKGT": {
+    "until": "2027-10-22T03:35:59.818Z",
+    "slugs": [
+      "luma-evt-t3oq217l83lakgt",
+      "bbc"
+    ]
+  },
+  "luma-crypto-nAX1igzjCLW48OD": {
+    "until": "2027-10-22T03:35:59.818Z",
+    "slugs": [
+      "luma-crypto-nax1igzjclw48od",
+      "bimrugase"
+    ]
+  },
+  "luma-crypto-wo4i2z8B7f2iTSR": {
+    "until": "2027-10-22T03:35:59.818Z",
+    "slugs": [
+      "luma-crypto-wo4i2z8b7f2itsr",
+      "tsbdac"
+    ]
+  },
+  "luma-crypto-XDAGPCSADvOPMzB": {
+    "until": "2027-10-22T03:35:59.818Z",
+    "slugs": [
+      "luma-crypto-xdagpcsadvopmzb",
+      "bffcdwss"
+    ]
   }
 }
