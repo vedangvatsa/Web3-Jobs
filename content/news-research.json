@@ -68345,25 +68345,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7168518ec513546cf43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T19:19:54.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "The Block covers the same Reg Crypto comment-close event and commenter pressure already reported in the ready regcrypto article; candidate URL returns HTTP 403 and was recorded blocked.",
+      "note": "Same Oct. 20 comment-close event on the SEC's Regulation Crypto Assets proposal, and the same commenter pressure, already covered by the ready regcrypto article: its body reports the Hyperliquid Policy Center and SIFMA pushes on airdrops and safe-harbor scope, the AIMA letter, and the stream of Oct. 20-21 filings on File No. S7-2026-27. The candidate URL slug (2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima) names that identical set. The Block returns HTTP 403 to both fetchers, so no new facts from it were incorporated.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T12:51:47.587Z",
       "retrySearches": [
         "Find independent reporting on: Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comment"
       ],
       "lastReviewedDay": "2026-10-22",
-      "duplicateOf": "regcrypto"
+      "duplicateOf": "regcrypto",
+      "mergedInto": "f3e86162ee7dcb7ad739"
     },
     "49fa496cf674e67db3e3": {
       "source": "The Block",
@@ -136076,6 +136077,20 @@
           ],
           "reviewedAt": "2026-10-22T12:50:58.234Z",
           "articleSlug": "nearissuance"
+        },
+        "b7168518ec513546cf43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 20 comment-close event on the SEC's Regulation Crypto Assets proposal, and the same commenter pressure, already covered by the ready regcrypto article: its body reports the Hyperliquid Policy Center and SIFMA pushes on airdrops and safe-harbor scope, the AIMA letter, and the stream of Oct. 20-21 filings on File No. S7-2026-27. The candidate URL slug (2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima) names that identical set. The Block returns HTTP 403 to both fetchers, so no new facts from it were incorporated.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:51:47.587Z",
+          "duplicateOf": "regcrypto",
+          "mergedInto": "f3e86162ee7dcb7ad739"
         }
       },
       "baselineSlugs": [
