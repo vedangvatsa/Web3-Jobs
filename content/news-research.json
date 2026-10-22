@@ -68451,25 +68451,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T17:11:47.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred HoneyB lead: The Block still returns 403, but the FinanceWire company announcement (via Markets Insider, Oct. 21) and Dealroom's independent report (Oct. 20, covering Gordon's interview: SAFE with 1:1 token warrant at $30M post-money, 2-4% net yield target, Q4 2026 non-U.S. institutional launch) both opened and were read. Drafted content/articles/honeyb.md (640+ words, hosts: markets.businessinsider.com, dealroom.co); hero photo Dover Delaware via Wikimedia (CC BY-SA 2.5), compressed to 318KB.",
       "sourceChecks": [
+        {
+          "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+          "outcome": "read"
+        },
+        {
+          "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+          "outcome": "read"
+        },
         {
           "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:17:48.932Z",
       "retrySearches": [
         "Find independent reporting on: Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuati"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "honeyb"
     },
     "3a8ec705ea29a2364e07": {
       "source": "Bankless",
@@ -133575,6 +133583,27 @@
             }
           ],
           "reviewedAt": "2026-10-22T09:59:12.937Z"
+        },
+        "0234a0b9cf8724213cf8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred HoneyB lead: The Block still returns 403, but the FinanceWire company announcement (via Markets Insider, Oct. 21) and Dealroom's independent report (Oct. 20, covering Gordon's interview: SAFE with 1:1 token warrant at $30M post-money, 2-4% net yield target, Q4 2026 non-U.S. institutional launch) both opened and were read. Drafted content/articles/honeyb.md (640+ words, hosts: markets.businessinsider.com, dealroom.co); hero photo Dover Delaware via Wikimedia (CC BY-SA 2.5), compressed to 318KB.",
+          "sourceChecks": [
+            {
+              "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:17:48.932Z",
+          "articleSlug": "honeyb"
         }
       },
       "baselineSlugs": [
