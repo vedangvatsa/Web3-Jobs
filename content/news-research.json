@@ -72635,17 +72635,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "b8c0039794f871c2439a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T23:22:54.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "Same OCC GENIUS Act final rule story already covered by the ready occgenius draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T09:47:27.700Z",
+      "note": "Read the candidate Crypto Briefing piece (Oct. 21, 23:22 UTC, Estefano Gomez): it describes a final rule implementing the GENIUS Act with reserve requirements and issuance parameters taking effect in January 2027, announced on social media. That is the same Oct. 21 OCC final rule (News Release 2026-92, effective Jan. 18, 2027) already covered by the ready occgenius article, published under a 'US Treasury' headline two minutes after Crypto Briefing's own OCC item. OCC is the Treasury bureau issuing the rule; no separate Treasury final rule exists for this event (BSA/AML/OFAC remain a future joint rulemaking, which occgenius states).",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T12:52:38.584Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "d827e4da47d80b199d72"
     },
     "877c888579d259ba11cc": {
       "source": "Crypto Briefing",
@@ -136091,6 +136097,20 @@
           "reviewedAt": "2026-10-22T12:51:47.587Z",
           "duplicateOf": "regcrypto",
           "mergedInto": "f3e86162ee7dcb7ad739"
+        },
+        "b8c0039794f871c2439a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the candidate Crypto Briefing piece (Oct. 21, 23:22 UTC, Estefano Gomez): it describes a final rule implementing the GENIUS Act with reserve requirements and issuance parameters taking effect in January 2027, announced on social media. That is the same Oct. 21 OCC final rule (News Release 2026-92, effective Jan. 18, 2027) already covered by the ready occgenius article, published under a 'US Treasury' headline two minutes after Crypto Briefing's own OCC item. OCC is the Treasury bureau issuing the rule; no separate Treasury final rule exists for this event (BSA/AML/OFAC remain a future joint rulemaking, which occgenius states).",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:52:38.584Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
         }
       },
       "baselineSlugs": [
