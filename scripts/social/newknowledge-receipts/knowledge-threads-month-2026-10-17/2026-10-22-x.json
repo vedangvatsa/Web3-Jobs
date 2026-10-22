@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-22",
+    "threadId": "E02",
+    "sequence": 5,
+    "platform": "x",
+    "assetCommit": "e97785ae3de96c946bd15e30c28daa5b6628af7c",
+    "contentDigest": "f44f468d3d1345fc4fc78fc6428741f8a2ab5d3c51bb33789f2444edaa7b68d6",
+    "posts": [
+      {
+        "number": 1,
+        "text": "At 2 years, North America, Series A/B and 11-50 staff, the calculator estimates Smart Contract Developer salary at USD 101,000/year. Model output, not observed pay. Tokens and equity are outside this estimate.",
+        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $101,000 per year (USD)",
+        "image": "social-assets/knowledge-threads-month/images/E02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Security Auditor: USD 133,000/year with the same inputs. The model starts at USD 105,000, multiplies by 1.10 for experience and 1.15 for region, then rounds the result to the nearest USD 1,000.",
+        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $133,000 per year (USD)",
+        "image": "social-assets/knowledge-threads-month/images/E02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Product Manager: USD 95,000/year in the model at 2 years, North America, Series A/B and 11-50 staff. Its USD 75,000 starting value becomes USD 94,875 before rounding.",
+        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $95,000 per year (USD)",
+        "image": "social-assets/knowledge-threads-month/images/E02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Technical Writer: USD 76,000/year with those same settings. The model calculates USD 60,000 x 1.10 x 1.15 = USD 75,900 before rounding. Company stage and size each contribute a 1.0 multiplier here.",
+        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $76,000 per year (USD)",
+        "image": "social-assets/knowledge-threads-month/images/E02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Community Manager: USD 63,000/year at the same 2-year settings. The model's USD 50,000 starting value becomes USD 63,250 before rounding. These five results compare the calculator's assumptions, not employer offers.",
+        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $63,000 per year (USD)",
+        "image": "social-assets/knowledge-threads-month/images/E02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "The model puts Security Auditor at USD 133,000/year and Community Manager at USD 63,000/year: a USD 70,000 gap under identical settings. Reproduce the comparison by changing only Primary Role.\n\nhashtagweb3.com/salary-calculator/x",
+        "alt": "Five roles, identical inputs. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates · 2 years; North America · Series A/B · 11-50 staff; Security Auditor; Smart Contract Developer; Product Manager; Technical Writer; Community Manager; Auditor minus Community: USD 70,000/year. Model only; tokens/equity excluded. Screenshot text: $133,000; $101,000; $95,000; $76,000; $63,000",
+        "image": "social-assets/knowledge-threads-month/images/E02-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-01.jpg",
+        "sha256": "7fbdc5fb67fb4ce6a50844cf69cd5e1213a50ada71ff2c9817ee2c24ffb3bf74",
+        "bytes": 103281,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-02.jpg",
+        "sha256": "ad92b60307f8c4238ec343f217dd01759d3de8c31bd7452e57c5d39e19fb44ea",
+        "bytes": 100249,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-03.jpg",
+        "sha256": "d1559ce64774d4ffb71ab720dd597eb8d546147b2324600340c18f180657fca5",
+        "bytes": 99475,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-04.jpg",
+        "sha256": "25627a3b018c20063f5fcf9b3e2bdc45f5b2d61f0824002db0d01fa353788b05",
+        "bytes": 98494,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-05.jpg",
+        "sha256": "c5489a742447e5ae900e4abfd53e37a7d3492ba723e7a734d193ef31bb85b200",
+        "bytes": 101782,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-06.jpg",
+        "sha256": "f0cf1750263bec68537c8773f9b81cd0524cdfdb0b474c26fa055a4c19510eb2",
+        "bytes": 168051,
+        "width": 1200,
+        "height": 1500,
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/images/E02-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "d40c6c83-596b-4ef3-8d14-db193cdcc23e",
+  "startedAt": "2026-10-22T11:31:31.621Z",
+  "status": "verified",
+  "steps": {},
+  "postId": "6ad9f415e0831046db0d9b7b",
+  "permalink": "https://twitter.com/hashtag_web3/status/2113231786469687484",
+  "verifiedAt": "2026-10-22T11:31:39.000Z"
+}

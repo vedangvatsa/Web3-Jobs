@@ -785,6 +785,9 @@
   "https://hashtagweb3.com/cftcperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/paperlock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/qubicreclaim?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okxshield?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/revolutgib?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/utahkalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2262,6 +2265,12 @@
   "Papertrade locks PAPER token to its own contract after launch week",
   "Qubic restarts network and claims after $14 million theft",
   "Qubic restarts mainnet and opens claims after $14 million drain",
+  "OKX Expands Security Reimbursement Program to US Users",
+  "OKX Shield extends customer reimbursements to US users",
+  "Gibraltar Grants Revolut DLT License for Crypto Expansion",
+  "Revolut gets Gibraltar DLT licence for international crypto expansion",
+  "Utah sues Kalshi and Susquehanna over prediction markets",
+  "Utah sues Kalshi and Susquehanna firms over prediction market betting",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2597,5 +2606,8 @@
   "fp:alphabet|bring|climb|goldman|issuer|join|microsoft|mor|number|object",
   "fp:agency|argu|block|cftc|claim|cme|court|exchang|fail|futur",
   "fp:all|block|contract|exchang|indefinitely|list|lock|own|paper|papertrad",
-  "fp:14m|activity|claim|day|drain|follow|halt|incident|mainnet|network"
+  "fp:14m|activity|claim|day|drain|follow|halt|incident|mainnet|network",
+  "fp:000|100|account|american|can|client|coverag|customer|discretionary|expand",
+  "fp:allow|approval|cryptocurrency|dlt|expansion|fintech|get|gibraltar|global|grant",
+  "fp:60m|bett|demand|firm|gambl|illegal|kalshi|label|market|official"
 ]

@@ -2844,5 +2844,52 @@
     "slotKey": "2026-10-21:evening",
     "messageId": 155874,
     "sentAt": "2026-10-21T19:31:48.072Z"
+  },
+  "8538a1ad-0bdc-41ff-8f0e-6ca9d424b703": {
+    "status": "sent",
+    "reservedAt": "2026-10-22T11:31:38.311Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316952339",
+        "slug": "blockchain-age-quantum",
+        "name": "Blockchain In the Age of Quantum",
+        "startDate": "2026-10-22T17:00:00+03:00",
+        "keys": [
+          "mu-316952339",
+          "page:blockchain-age-quantum:2026-10-22",
+          "url:meetup.com/quantumke/events/316952339:2026-10-22",
+          "event:blockchainintheageofquantum:2026-10-22:nairobi"
+        ]
+      },
+      {
+        "id": "mu-313235525",
+        "slug": "austin-bitcoin-club-presents-gamenight",
+        "name": "Austin Bitcoin Club Presents: Gamenight!",
+        "startDate": "2026-10-22T18:00:00-05:00",
+        "keys": [
+          "mu-313235525",
+          "page:austin-bitcoin-club-presents-gamenight:2026-10-22",
+          "url:meetup.com/bitcoin-park-austin/events/313235525:2026-10-22",
+          "event:austinbitcoinclubpresentsgamenight:2026-10-22:austin"
+        ]
+      },
+      {
+        "id": "mu-316716892",
+        "slug": "austin-bitcoin-developers-meetup",
+        "name": "Austin Bitcoin Developers Meetup",
+        "startDate": "2026-10-22T19:00:00-05:00",
+        "keys": [
+          "mu-316716892",
+          "page:austin-bitcoin-developers-meetup:2026-10-23",
+          "url:meetup.com/austin-computer-club/events/316716892:2026-10-23",
+          "event:austinbitcoindevelopersmeetup:2026-10-23:austin"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-22:afternoon",
+    "messageId": 155887,
+    "sentAt": "2026-10-22T11:31:43.646Z"
   }
 }
