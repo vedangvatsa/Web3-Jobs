@@ -44235,7 +44235,8 @@
       },
       "account": "channel:design",
       "attemptId": "c816755b-1095-4c0c-a7a0-a123c08dd928",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdae4d5e1db59b0f0f81bd741515a1ae54b24631a"
     }
   ]
 }
