@@ -44163,7 +44163,8 @@
       },
       "account": "channel:ai",
       "attemptId": "d3fa8c72-bef6-4da4-b700-94973f5e45e9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x88d3105994bfeafb2e4c51890072cb814a67012e"
     }
   ]
 }
