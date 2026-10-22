@@ -42463,7 +42463,8 @@
       },
       "account": "channel:product",
       "attemptId": "e059e1ae-17e1-4748-bad1-6c7170ce8ec2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5945e32f7b4312fcd0e167aab174f1c6b5b8a508"
     }
   ]
 }
