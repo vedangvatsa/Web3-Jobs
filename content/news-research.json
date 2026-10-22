@@ -67731,13 +67731,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T17:45:11.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Bitwise Q4 2026 Staking Report (published Oct. 20, covering Q3) verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage. Drafted content/articles/stakingrecord.md (679 words, 3 source hosts); hero image Matt Brown Ethereum plaque via Wikimedia (CC BY 2.0), compressed to 293KB. The Defiant link itself returned 403 and was recorded blocked.",
+      "note": "Bitwise Q4 2026 Staking Report verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage: 43.8M ETH staked, yields falling, Solana activity context. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/stakingrecord.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
@@ -67756,7 +67756,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T08:17:42.791Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says"
       ],
@@ -67798,29 +67798,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f0bff581db089300777",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T16:31:24.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "Same event as the Defiant lead: Bitwise's Q4 2026 Staking Report on record Ethereum and Solana staking. Covered by the ready draft stakingrecord.md, which cites the primary report plus two independent outlets. The Block URL returned 403 and was recorded blocked.",
+      "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article; candidate URL returns HTTP 403 and was recorded blocked.",
       "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
-          "outcome": "read"
-        },
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T08:18:01.499Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
       ],
       "lastReviewedDay": "2026-10-22",
-      "duplicateOf": "stakingrecord"
+      "duplicateOf": "stakingrecord",
+      "mergedInto": "665905ab039e4e58273a"
     },
     "19d3f2e2d40134eb80c7": {
       "source": "Bitcoin Magazine",
@@ -68152,13 +68149,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T22:46:50.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Corroboration found: TokenPost (Oct. 21, SEC spokesperson) and Crypto Briefing (Oct. 20) both confirm comments keep arriving after the Oct. 20 close; the SEC's public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF). Drafted content/articles/regcrypto.md (667 words, hosts: tokenpost.com, cryptobriefing.com, sec.gov); hero photo AgnosticPreachersKid SEC HQ via Wikimedia (CC BY-SA 3.0), 225KB. CCN was 403.",
+      "note": "TokenPost and Crypto Briefing both confirm the SEC keeps taking Reg Crypto comments after the Oct. 20 close; the SEC public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF) and the rulemaking page confirms the Aug. 18 issuance and exemption structure. Draft content/articles/regcrypto.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
@@ -68177,7 +68174,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T08:40:46.443Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find a second independent outlet on SEC Regulation Crypto comment close"
       ],
@@ -68245,25 +68242,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T21:38:18.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "NEAR forum HSP-029 (status Voting), Hokanews vote-open report (ballot Oct. 19 to Nov. 2), and Crypto Briefing proposal background all confirm the 2.5% to 1.6% issuance ramp, 90/10 split, 90-day grace, two-step validator adoption, and SVRN disclosure. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/nearissuance.md with local hero image.",
       "sourceChecks": [
+        {
+          "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: NEAR Opens Vote to Cut Token Issuance to 1.6%"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "nearissuance"
     },
     "0d29ea95331302f1149d": {
       "source": "CoinDesk",
@@ -68373,25 +68382,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7168518ec513546cf43",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T19:19:54.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "duplicate",
+      "note": "The Block covers the same Reg Crypto comment-close event and commenter pressure already reported in the ready regcrypto article; candidate URL returns HTTP 403 and was recorded blocked.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "retrySearches": [
         "Find independent reporting on: Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comment"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "duplicateOf": "regcrypto",
+      "mergedInto": "f3e86162ee7dcb7ad739"
     },
     "49fa496cf674e67db3e3": {
       "source": "The Block",
@@ -73413,13 +73423,13 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T22:43:45.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Re-read Crypto Briefing and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators. The Defiant mirror still returns HTTP 403.",
+      "note": "Crypto Briefing and the Obol v1.11.2 GitHub release both confirm the urgent Charon patch after the eMudhra CA incident (Go 1.27.3, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators). The Defiant mirror returns HTTP 403 and was recorded blocked. Draft content/articles/charonupgrade.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
@@ -73434,7 +73444,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T07:51:12.477Z",
+      "reviewedAt": "2026-10-22T09:31:30.098Z",
       "articleSlug": "charonupgrade",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -75983,13 +75993,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "ce8fc79a80fcd65b9473",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T17:28:34.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Re-read the Zodia primary statement, Cointelegraph and Bitcoin Magazine: Oct. 21 definitive agreements, 100% of Zodia Custody UK Limited, five regulated jurisdictions, Tan and Clark quotes verified against the statement.",
+      "note": "Restored draft. Zodia primary statement and Bitcoin Magazine confirm Standard Chartered signed definitive agreements to acquire 100% of Zodia Custody UK Ltd on Oct. 21; Cointelegraph covers the same definitive deal. Draft content/articles/zodia.md with local hero image.",
       "sourceChecks": [
         {
           "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
@@ -76004,7 +76014,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T07:54:39.169Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "articleSlug": "zodia",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -76792,22 +76802,23 @@
         "The Block"
       ],
       "id": "33a328eb54f544deffa7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T12:06:23.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "Same Standard Chartered-Zodia definitive agreements reported by Cointelegraph and The Block; the event is covered by the ready zodia article.",
+      "note": "Cointelegraph covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T07:54:50.666Z",
+      "reviewedAt": "2026-10-22T09:31:30.099Z",
       "duplicateOf": "zodia",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "ce8fc79a80fcd65b9473"
     },
     "39df26d5c4457ca6f06a": {
       "source": "The Defiant",
@@ -77913,11 +77924,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "febc4579e19a372f4e98",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T08:50:50.105Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T08:40:20.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "price-chatter",
+      "note": "CryptoSlate piece is price-scenario and macro commentary on Bitcoin's $80,000 floor and Friday inflation data, not a concrete protocol or regulatory event to report.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:31:30.100Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "851303db30a2633b418f": {
       "source": "The Defiant",
@@ -133266,6 +133287,177 @@
           ],
           "reviewedAt": "2026-10-22T08:23:41.608Z",
           "duplicateOf": "francetax"
+        },
+        "555b03b302d276314cb0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Crypto Briefing and the Obol v1.11.2 GitHub release both confirm the urgent Charon patch after the eMudhra CA incident (Go 1.27.3, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators). The Defiant mirror returns HTTP 403 and was recorded blocked. Draft content/articles/charonupgrade.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.098Z",
+          "articleSlug": "charonupgrade"
+        },
+        "665905ab039e4e58273a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitwise Q4 2026 Staking Report verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage: 43.8M ETH staked, yields falling, Solana activity context. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/stakingrecord.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "stakingrecord"
+        },
+        "f3e86162ee7dcb7ad739": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "TokenPost and Crypto Briefing both confirm the SEC keeps taking Reg Crypto comments after the Oct. 20 close; the SEC public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF) and the rulemaking page confirms the Aug. 18 issuance and exemption structure. Draft content/articles/regcrypto.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/36529",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "regcrypto"
+        },
+        "ce8fc79a80fcd65b9473": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Restored draft. Zodia primary statement and Bitcoin Magazine confirm Standard Chartered signed definitive agreements to acquire 100% of Zodia Custody UK Ltd on Oct. 21; Cointelegraph covers the same definitive deal. Draft content/articles/zodia.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "zodia"
+        },
+        "89a69374c6920c41cbfc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NEAR forum HSP-029 (status Voting), Hokanews vote-open report (ballot Oct. 19 to Nov. 2), and Crypto Briefing proposal background all confirm the 2.5% to 1.6% issuance ramp, 90/10 split, 90-day grace, two-step validator adoption, and SVRN disclosure. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/nearissuance.md with local hero image.",
+          "sourceChecks": [
+            {
+              "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "articleSlug": "nearissuance"
+        },
+        "33a328eb54f544deffa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "0f0bff581db089300777": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article; candidate URL returns HTTP 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "stakingrecord",
+          "mergedInto": "665905ab039e4e58273a"
+        },
+        "b7168518ec513546cf43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Block covers the same Reg Crypto comment-close event and commenter pressure already reported in the ready regcrypto article; candidate URL returns HTTP 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.099Z",
+          "duplicateOf": "regcrypto",
+          "mergedInto": "f3e86162ee7dcb7ad739"
+        },
+        "febc4579e19a372f4e98": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "CryptoSlate piece is price-scenario and macro commentary on Bitcoin's $80,000 floor and Friday inflation data, not a concrete protocol or regulatory event to report.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:31:30.100Z"
         }
       },
       "baselineSlugs": [
