@@ -64031,25 +64031,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d401361d31a6244a15",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-20T03:31:23.060Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-22T19:12:04.000Z",
       "lastSeenAt": "2026-10-20T08:45:02.257Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "duplicate",
+      "note": "Same French budget stablecoin-swap tax story already covered by the published article francetax (Oct. 19), which reports the 38-37 adoption of amendment I-3898, the 31.4% flat tax from Jan. 1, 2027 if enacted, and the pending parliamentary stages. The assigned lead's Oct. 20 budget-vote framing is superseded: The Defiant and Crypto Briefing reported the revenue-section vote moved to Nov. 3 with a full Assembly vote Nov. 17, a scheduling update with no new tax decision. The Defiant URL remains 403.",
       "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/france-stablecoin-tax-budget-vote-november/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T08:23:41.608Z",
       "retrySearches": [
         "Find independent reporting on: France’s Stablecoin Swap Tax Faces Oct. 20 Budget Vote"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "duplicateOf": "francetax"
     },
     "c66b09c4bc773b20d9dc": {
       "source": "Bankless",
@@ -133014,6 +133018,23 @@
           ],
           "reviewedAt": "2026-10-22T08:20:46.624Z",
           "duplicateOf": "cftc-leverage"
+        },
+        "65d401361d31a6244a15": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same French budget stablecoin-swap tax story already covered by the published article francetax (Oct. 19), which reports the 38-37 adoption of amendment I-3898, the 31.4% flat tax from Jan. 1, 2027 if enacted, and the pending parliamentary stages. The assigned lead's Oct. 20 budget-vote framing is superseded: The Defiant and Crypto Briefing reported the revenue-section vote moved to Nov. 3 with a full Assembly vote Nov. 17, a scheduling update with no new tax decision. The Defiant URL remains 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/france-stablecoin-tax-budget-vote-november/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T08:23:41.608Z",
+          "duplicateOf": "francetax"
         }
       },
       "baselineSlugs": [
