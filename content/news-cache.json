@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-10-22T11:31:20.358Z",
+  "generatedAt": "2026-10-22T14:32:01.748Z",
   "items": [
+    {
+      "title": "Circle outlines USDC treasury workflow for settlement and controls",
+      "link": "https://Blockchain.News/news/circle-outlines-usdc-treasury-workflow-for-settlement-and-controls",
+      "pubDate": "Thu, 22 Oct 2026 14:15:01 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Circle published a step-by-step guide to using USDC in treasury operations, covering onboarding, controls, testing, reconciliation and intercompany fl...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Algorand (ALGO) names Global x402 Challenge winners after 115 submissions",
+      "link": "https://Blockchain.News/news/algorand-global-x402-challenge-winners-2026",
+      "pubDate": "Thu, 22 Oct 2026 14:06:01 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Algorand (ALGO) said 115 projects deployed paid x402 endpoints on MainNet, with 20 winners sharing 500,000 ALGO and 10 finalists advancing to a USDC p...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+      "pubDate": "Thu, 22 Oct 2026 14:03:40 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
+      "source": "The Block"
+    },
+    {
+      "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "pubDate": "Thu, 22 Oct 2026 13:55:03 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+      "source": "The Block"
+    },
+    {
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions ",
+      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 13:42:34 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+      "pubDate": "Thu, 22 Oct 2026 13:27:54 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+      "source": "The Block"
+    },
+    {
+      "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+      "link": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 13:20:57 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Thailand’s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+      "link": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 13:13:45 +0000",
+      "creator": "Robert Lakin",
+      "contentSnippet": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and s...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy s...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "pubDate": "Thu, 22 Oct 2026 12:14:29 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up whil...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "creator": "Katie Harries",
+      "contentSnippet": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+      "source": "The Block"
+    },
     {
       "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
       "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
@@ -10,11 +114,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+      "title": "CoinDCX admits ‘operational losses’ after $16M wallet transfers draw scrutiny",
       "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 22 Oct 2026 10:53:10 +0000",
       "creator": "Zoltan Vardai",
-      "contentSnippet": "CoinDCX tied the transfers to wallets compromised in July 2025, but investigators said the addresses remained linked to its operations.",
+      "contentSnippet": "CoinDCX said it covered losses caused by a failed transfer process involving compromised wallets and credited all affected user accounts.",
       "source": "Cointelegraph"
     },
     {
@@ -74,11 +178,11 @@
       "source": "The Block"
     },
     {
-      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
       "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
       "pubDate": "Thu, 22 Oct 2026 09:54:26 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.",
+      "contentSnippet": "South Korea's Kospi tumbled 3.5% overnight, and oil gained nearly 3% on renewed Middle East hostilities.",
       "source": "Coindesk"
     },
     {
@@ -170,14 +274,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Ripple (XRP) summary of BCG research says custody is becoming digital finance layer",
-      "link": "https://Blockchain.News/news/ripple-bcg-custody-digital-finance-layer",
-      "pubDate": "Thu, 22 Oct 2026 00:30:03 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Ripple (XRP) says new BCG research finds institutional custody is shifting from safekeeping toward governance, interoperability and integration. (Read...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
       "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
       "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
@@ -186,28 +282,12 @@
       "source": "The Block"
     },
     {
-      "title": "Bitcoin swept to $80K and bids refilled as overhead supply built",
-      "link": "https://Blockchain.News/news/bitcoin-swept-to-80k-and-bids-refilled-as-overhead-supply-built",
-      "pubDate": "Wed, 21 Oct 2026 22:44:18 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Glassnode said Bitcoin swept to about $80K on Oct. 15, with ETF and treasury bids refilling and overhead supply clustered near $85K-$87.5K. (Read More...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress ",
       "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 21 Oct 2026 21:53:48 +0000",
       "creator": "Turner Wright",
       "contentSnippet": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Five new Tezos dApps spotlight community tools and creators",
-      "link": "https://Blockchain.News/news/five-new-tezos-dapps-community-tools-creators",
-      "pubDate": "Wed, 21 Oct 2026 20:26:28 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "A Tezos feature highlights five new dApps, including TezCity, Aleatory, TezTowers, The Wall Today and Teztree, amid a modest XTZ rise. (Read More)",
-      "source": "Blockchain.News"
     },
     {
       "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
@@ -224,14 +304,6 @@
       "creator": "Turner Wright",
       "contentSnippet": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Vietnam’s digital payments are mature; stablecoins may fit cross-border",
-      "link": "https://Blockchain.News/news/vietnams-digital-payments-are-mature-stablecoins-may-fit-cross-border",
-      "pubDate": "Wed, 21 Oct 2026 18:09:40 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Circle said Vietnam’s domestic payment rails are advanced, while stablecoins may be most useful in cross-border settlement, liquidity and remittances...",
-      "source": "Blockchain.News"
     },
     {
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
@@ -434,14 +506,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "BitGo launches innovation unit to design crypto’s next breakout application",
-      "link": "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502",
-      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.",
-      "source": "The Block"
-    },
-    {
       "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote ",
       "link": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 21 Oct 2026 10:50:52 +0000",
@@ -482,30 +546,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 10:15:00 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Zcash extended triple-digit year-to-date gains as developers agreed on the NU7 mainnet activation height, targeting Nov. 5, with node synchronization ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 10:13:52 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Wallets linked to the $295 million April hack still held $138 million in Ether after sending another $46 million to the mixer Wednesday.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-      "link": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-      "pubDate": "Wed, 21 Oct 2026 08:47:11 +0000",
-      "creator": "Jamie Crawley",
-      "contentSnippet": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28...",
-      "source": "Coindesk"
-    },
-    {
       "title": "JPMorgan Asset Management Predicts Bitcoin (BTC) Surging 10% a Year in Next 10 Years – But There’s a Catch",
       "link": "https://dailyhodl.com/2026/10/21/jpmorgan-asset-management/",
       "pubDate": "Wed, 21 Oct 2026 07:04:10 +0000",
@@ -514,19 +554,19 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "pubDate": "Wed, 21 Oct 2026 02:30:08 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-      "source": "The Block"
-    },
-    {
       "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
       "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
       "pubDate": "Tue, 20 Oct 2026 21:16:04 +0000",
       "creator": "Staff",
       "contentSnippet": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "pubDate": "Tue, 20 Oct 2026 20:46:04 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $...",
       "source": "Decrypt"
     },
     {
@@ -538,44 +578,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-      "pubDate": "Tue, 20 Oct 2026 19:19:54 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
-      "source": "The Block"
-    },
-    {
-      "title": "Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms",
-      "link": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-      "pubDate": "Tue, 20 Oct 2026 19:12:38 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
       "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
       "pubDate": "Tue, 20 Oct 2026 18:31:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Gray...",
       "source": "Decrypt"
-    },
-    {
-      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-      "pubDate": "Tue, 20 Oct 2026 18:14:28 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adopti...",
-      "source": "The Block"
-    },
-    {
-      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
-      "link": "https://dailyhodl.com/2026/10/20/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading/",
-      "pubDate": "Tue, 20 Oct 2026 17:45:14 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Mahe, Seychelles, 20th October 2026, Chainwire\nThe post Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading appeared first on The Da...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Bitcoin's Next Move: Here's What to Watch",
@@ -600,14 +608,6 @@
       "creator": "Logan Hitchcock",
       "contentSnippet": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Tether CEO Says Addresses Frozen Weeks Ahead of Sanctions, Driving 94% Drop in Iran-Linked Volumes",
-      "link": "https://dailyhodl.com/2026/10/20/tether-ceo-says-addresses-frozen-weeks-ahead-of-sanctions-driving-94-drop-in-iran-linked-volumes/",
-      "pubDate": "Tue, 20 Oct 2026 14:30:47 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Tether's proactive freezes of suspicious addresses have outpaced official sanctions and analytics labels, resulting in a sharp decline in Iran-linked ...",
-      "source": "Daily Hodl"
     },
     {
       "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
@@ -639,22 +639,6 @@
       "pubDate": "Mon, 19 Oct 2026 20:46:05 +0000",
       "creator": "Agent",
       "contentSnippet": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator appr...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "link": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
-      "pubDate": "Mon, 19 Oct 2026 19:16:04 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
-      "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
-      "pubDate": "Mon, 19 Oct 2026 18:46:05 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue...",
       "source": "Decrypt"
     }
   ]
