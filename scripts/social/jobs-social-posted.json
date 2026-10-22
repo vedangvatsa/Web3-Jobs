@@ -44313,7 +44313,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "785ab192-a508-478a-b360-1ec0f54cc23e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ada65f89a872e86219e39c5"
     }
   ]
 }
