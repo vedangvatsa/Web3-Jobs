@@ -2020,5 +2020,36 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 65768,
     "sentAt": "2026-10-22T11:33:29.513Z"
+  },
+  "348f20a0-c7d6-4703-8226-816a754a1654": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T19:34:08.220Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OKX expands security reimbursement program to US users",
+        "summary": "US customers can receive up to $100,000 in coverage if they activate specific security settings on their accounts.",
+        "link": "https://hashtagweb3.com/okxshield?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX Shield extends customer reimbursements to US users"
+      },
+      {
+        "index": -1,
+        "headline": "Sixteen companies object to tokenized share listings on OKXICE",
+        "summary": "Seven additional firms including Goldman Sachs joined the opposition, representing about one-quarter of all named issuers.",
+        "link": "https://hashtagweb3.com/okxobjections?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out"
+      },
+      {
+        "index": -1,
+        "headline": "Papertrade permanently blocks PAPER token transfers and exchange listings",
+        "summary": "The HyperEVM platform will keep the reward token in the contract to prevent any external trading.",
+        "link": "https://hashtagweb3.com/paperlock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Papertrade locks PAPER token to its own contract after launch week"
+      }
+    ],
+    "slotKey": "2026-10-22:evening"
   }
 }
