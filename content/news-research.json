@@ -73266,11 +73266,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f157e31313ac6739c5c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:10:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Dogecoin Labs formation with MyDoge and DogeOS; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "dogecoinlabs",
+      "mergedInto": "2ba9af4928788536e6a1",
+      "lastReviewedDay": "2026-10-22"
     },
     "df770122e01290679eec": {
       "source": "CoinDesk",
@@ -73313,11 +73320,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "aabb4d1716bd4636b5a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T08:10:12.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "CoinDesk + Cointelegraph; Nov. 5 activation height, Sprout shutdown, fee burn.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "articleSlug": "zcashnu7",
+      "lastReviewedDay": "2026-10-22"
     },
     "ffa615bd42df3312c6b5": {
       "source": "BeInCrypto",
@@ -74586,11 +74608,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "095addb5e2349dbc2c3f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:44:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same PHP emergency patch and foundation failure story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "8f369d8b7a77d3556dba": {
       "source": "Crypto Briefing",
@@ -74885,11 +74914,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "cecf79556092a6d40633",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:42:38.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same PHP flaw exchange-risk angle; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "0ccc737c7fc7e72f1e3a": {
       "source": "The Defiant",
@@ -75546,11 +75582,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "15cbc157d8cab5b8361d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T18:46:08.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "1f316939d81459316224": {
       "source": "BeInCrypto",
@@ -75710,11 +75753,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "618996273a71c03872de",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:20:27.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "Sprout migration deadline already explained in the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "zcashnu7",
+      "mergedInto": "aabb4d1716bd4636b5a6",
+      "lastReviewedDay": "2026-10-22"
     },
     "df1f2ceaf5a318c8e092": {
       "source": "Bankless",
@@ -75794,11 +75844,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e23d5fd85d01cffa3e36",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:00:04.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same PHP emergency patch scramble; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "e321cb9a105e51a02251": {
       "source": "The Defiant",
@@ -75836,11 +75893,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c65d83384e3de8bd6278",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:51:42.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "5bb86d1b41e7511dc650": {
       "source": "The Defiant",
@@ -75878,11 +75942,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ba9af4928788536e6a1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:46:04.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Decrypt + CoinDesk; Labs consolidates MyDoge, DogeOS, and Such App under Jefferson.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "articleSlug": "dogecoinlabs",
+      "lastReviewedDay": "2026-10-22"
     },
     "23ee4808d8c71cb91b82": {
       "source": "BeInCrypto",
@@ -75920,11 +75999,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf7fdde8b23e641d464d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:35:16.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Decrypt + Cointelegraph; government unplug, foundation failure, Cloudflare attacks.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:17:38.090Z",
+      "articleSlug": "phppanic",
+      "lastReviewedDay": "2026-10-22"
     },
     "6a2254c41806e2ad9f95": {
       "source": "CoinDesk",
@@ -76014,11 +76108,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c020efbda7b5a1346f0d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:01:45.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "Japan PM quote already in the ready draft's government-response section.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "19e9519781abf08e3005": {
       "source": "CoinDesk",
@@ -76391,11 +76492,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "28378a43bbaa91257d94",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:00:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same wallet/app consolidation story from CoinDesk; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "dogecoinlabs",
+      "mergedInto": "2ba9af4928788536e6a1",
+      "lastReviewedDay": "2026-10-22"
     },
     "39f796a596642ba463d6": {
       "source": "The Block",
@@ -76412,11 +76520,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "39f796a596642ba463d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:00:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Labs launch including Such App; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "dogecoinlabs",
+      "mergedInto": "2ba9af4928788536e6a1",
+      "lastReviewedDay": "2026-10-22"
     },
     "73d8f07f8eaa46f81ee8": {
       "source": "Decrypt",
@@ -76543,11 +76658,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "519de121f7bb5596577b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:15:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same NU7 activation-height agreement; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "zcashnu7",
+      "mergedInto": "aabb4d1716bd4636b5a6",
+      "lastReviewedDay": "2026-10-22"
     },
     "a8ebfa037a1049aee5ce": {
       "source": "Cointelegraph",
@@ -76710,11 +76832,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "dd35649536f92945b8c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T07:58:31.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "exploits-circulating angle already in the ready draft via Cloudflare/watchTowr.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "3b17d13d1a00a8a1c66f": {
       "source": "Cointelegraph",
@@ -76752,11 +76881,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "99b116b538836771f9a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T05:46:01.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "SlowMist crypto-exposure warning already in the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "duplicateOf": "phppanic",
+      "mergedInto": "cf7fdde8b23e641d464d",
+      "lastReviewedDay": "2026-10-22"
     },
     "fefbcd3eb2f50d97729c": {
       "source": "CoinDesk",
@@ -132176,6 +132312,174 @@
             "Blockchain Association GENIUS Act DeFi foreign issuer rules",
             "Blockchain Association Treasury GENIUS Act clearer rules"
           ]
+        },
+        "cf7fdde8b23e641d464d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Decrypt + Cointelegraph; government unplug, foundation failure, Cloudflare attacks.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:17:38.090Z",
+          "articleSlug": "phppanic"
+        },
+        "095addb5e2349dbc2c3f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same PHP emergency patch and foundation failure story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "cecf79556092a6d40633": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same PHP flaw exchange-risk angle; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "15cbc157d8cab5b8361d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "e23d5fd85d01cffa3e36": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same PHP emergency patch scramble; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "c65d83384e3de8bd6278": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "c020efbda7b5a1346f0d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Japan PM quote already in the ready draft's government-response section.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "dd35649536f92945b8c1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "exploits-circulating angle already in the ready draft via Cloudflare/watchTowr.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "99b116b538836771f9a3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "SlowMist crypto-exposure warning already in the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "phppanic",
+          "mergedInto": "cf7fdde8b23e641d464d"
+        },
+        "2ba9af4928788536e6a1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Decrypt + CoinDesk; Labs consolidates MyDoge, DogeOS, and Such App under Jefferson.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "articleSlug": "dogecoinlabs"
+        },
+        "8f157e31313ac6739c5c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Dogecoin Labs formation with MyDoge and DogeOS; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "dogecoinlabs",
+          "mergedInto": "2ba9af4928788536e6a1"
+        },
+        "28378a43bbaa91257d94": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same wallet/app consolidation story from CoinDesk; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "dogecoinlabs",
+          "mergedInto": "2ba9af4928788536e6a1"
+        },
+        "39f796a596642ba463d6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Labs launch including Such App; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "dogecoinlabs",
+          "mergedInto": "2ba9af4928788536e6a1"
+        },
+        "aabb4d1716bd4636b5a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CoinDesk + Cointelegraph; Nov. 5 activation height, Sprout shutdown, fee burn.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "articleSlug": "zcashnu7"
+        },
+        "519de121f7bb5596577b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same NU7 activation-height agreement; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "zcashnu7",
+          "mergedInto": "aabb4d1716bd4636b5a6"
+        },
+        "618996273a71c03872de": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Sprout migration deadline already explained in the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:17:38.091Z",
+          "duplicateOf": "zcashnu7",
+          "mergedInto": "aabb4d1716bd4636b5a6"
         }
       },
       "baselineSlugs": [
