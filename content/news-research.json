@@ -72598,16 +72598,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-24T23:24:01.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "Re-read OCC News Release 2026-92 (Oct. 21: final GENIUS Act rule, Bessent Lincoln quote, Gould quote, effective Jan. 18, 2027, BSA/AML/OFAC excluded to separate Treasury rulemaking, applications timing unannounced), Decrypt Oct. 21 (jurisdiction scope, new regulation section contents, Gould August November-target quote, FinCEN/OFAC April proposal) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, 'solely' analysis, rebuttable presumptions removed, other agencies' timelines, principles-based reserve change). All draft claims verified; updated front-matter dates to 2026-10-22. Formatting clean, image audit passes, slug occgenius unowned, hero 218KB.",
+      "note": "Re-reviewed restored draft against current sources: OCC News Release 2026-92 (Oct. 21 final rule, Gould and Bessent quotes, Jan. 18 2027 effective date, BSA/AML/OFAC excluded to separate Treasury rulemaking), OCC Bulletin 2026-50 (jurisdiction scope, 12 CFR 15 contents), Decrypt Oct. 21 (rebuttable presumptions removed, application timing, August November-target quote) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, solely analysis, other agencies' timelines). Cointelegraph Bessent article re-read confirming Lincoln comparison. All draft claims verified; 775 words; slug unowned; quality audit clean; hero 218KB on disk.",
       "sourceChecks": [
         {
           "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html",
           "outcome": "read"
         },
         {
@@ -72617,9 +72621,21 @@
         {
           "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
           "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T11:26:04.343Z",
+      "reviewedAt": "2026-10-22T13:52:50.031Z",
       "articleSlug": "occgenius",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -135754,6 +135770,43 @@
           ],
           "reviewedAt": "2026-10-22T13:50:04.063Z",
           "articleSlug": "duffyperps"
+        },
+        "d827e4da47d80b199d72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources: OCC News Release 2026-92 (Oct. 21 final rule, Gould and Bessent quotes, Jan. 18 2027 effective date, BSA/AML/OFAC excluded to separate Treasury rulemaking), OCC Bulletin 2026-50 (jurisdiction scope, 12 CFR 15 contents), Decrypt Oct. 21 (rebuttable presumptions removed, application timing, August November-target quote) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, solely analysis, other agencies' timelines). Cointelegraph Bessent article re-read confirming Lincoln comparison. All draft claims verified; 775 words; slug unowned; quality audit clean; hero 218KB on disk.",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:52:50.031Z",
+          "articleSlug": "occgenius"
         }
       },
       "baselineSlugs": [
