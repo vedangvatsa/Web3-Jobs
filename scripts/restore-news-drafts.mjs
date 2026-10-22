@@ -136,6 +136,12 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
       ignored.push({ file: relative, reason: 'Already published or in the checkout baseline' });
       continue;
     }
+    const ready = report.outcomes.some(item => item.id === owner.id && item.articleSlug === articleSlug && item.status === 'ready')
+      || (run?.outcomes[owner.id]?.status === 'ready' && run.outcomes[owner.id].articleSlug === articleSlug);
+    if (!ready && !checkedPath(root, `${RESEARCH}/recovery/${relative}`, { optional: true })) {
+      ignored.push({ file: relative, reason: 'Owned draft is absent from this artifact and still needs research; no publication approval restored' });
+      continue;
+    }
     const entry = { id: owner.id, articleSlug, inherited: owner.references.some(ref => ref.source === 'restored'), status: 'unreviewed', mustReview: true, approved: false, files: [], errors: [] };
     items.push(entry);
     try {

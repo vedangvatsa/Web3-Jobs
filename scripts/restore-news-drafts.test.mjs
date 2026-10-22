@@ -132,6 +132,18 @@ test('ledger ownership survives a reset outcome even without a prior restored ma
   assert.equal(f.manifest().drafts[0].previousStatus, 'pending');
 });
 
+test('an absent old pending draft does not block recoverable work, but a missing ready draft remains an error', t => {
+  const f = fixture(t), missing = f.addDraft('missing');
+  resetOutcome(f, missing);
+  fs.unlinkSync(path.join(f.artifact, `${RECOVERY}/content/articles/missing.md`));
+  assert.deepEqual(restoreNewsDrafts(f), { drafts: 1, files: 2 });
+  assert.equal(f.manifest().drafts[0].articleSlug, 'story');
+  assert.ok(f.manifest().ignored.some(item => item.file.endsWith('missing.md') && item.reason.includes('still needs research')));
+  const ready = fixture(t);
+  fs.unlinkSync(path.join(ready.artifact, `${RECOVERY}/content/articles/story.md`));
+  failsWithoutChanges(ready, /Missing recovery file/);
+});
+
 test('inherited ownership and full source history survive repeated restoration without any ready outcome', t => {
   const first = fixture(t);
   first.write(first.artifact, `${RECOVERY}/content/articles/story.md`, "---\r\ncategory: News\r\nimage: /images/news/story.jpg\r\npublishedDate: '2026-10-18'\r\nlastUpdated: '2026-10-18'\r\neventDate: '2026-10-17'\r\n---\r\nThe issuer announced the event on Oct. 17, 2026 — café.\r\n");
