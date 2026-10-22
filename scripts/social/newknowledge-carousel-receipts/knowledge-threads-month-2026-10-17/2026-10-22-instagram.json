@@ -139,7 +139,7 @@
   },
   "claimId": "ef7b9b4a-4a2f-414e-b62b-0e7694dab246",
   "startedAt": "2026-10-22T11:32:16.468Z",
-  "status": "publishing",
+  "status": "accepted",
   "children": {
     "0": {
       "createClaim": "27f3a5d4-a57b-40ab-b741-527071b100ea",
@@ -196,6 +196,8 @@
     "claimId": "046e12a2-a86c-4f82-8c78-2af1df1fcd6d",
     "startedAt": "2026-10-22T11:35:58.314Z",
     "creationId": "17918810919461009",
-    "status": "publishing"
-  }
+    "status": "accepted",
+    "postId": "18105484640224353"
+  },
+  "postId": "18105484640224353"
 }
