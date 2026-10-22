@@ -40068,7 +40068,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "7a26f9e6-864f-4b11-b898-8893280daf9a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7518906293915541505"
     }
   ]
 }
