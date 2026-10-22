@@ -39907,7 +39907,8 @@
       },
       "account": "channel:design",
       "attemptId": "e6830376-9466-490e-972f-306079e1680a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x72b237c1d56e01e88ffd3e9866b9a0af5656a0fd"
     }
   ]
 }
