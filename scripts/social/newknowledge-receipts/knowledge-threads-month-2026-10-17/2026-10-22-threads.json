@@ -137,8 +137,9 @@
     "3": {
       "createClaim": "8fad3d1c-3445-4024-967d-b992427bc8cd",
       "startedAt": "2026-10-22T11:32:48.230Z",
-      "status": "claimed",
-      "replyTo": "18131532607748314"
+      "status": "container-created",
+      "replyTo": "18131532607748314",
+      "containerId": "18098067926199925"
     }
   }
 }
