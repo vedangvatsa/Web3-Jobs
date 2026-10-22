@@ -43767,7 +43767,8 @@
       },
       "account": "channel:web3",
       "attemptId": "bf2dc145-13d2-428a-8c60-105a79efeae0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31b7f36c9aa9c2415081b3d78cd2107c818b4d91"
     }
   ]
 }
