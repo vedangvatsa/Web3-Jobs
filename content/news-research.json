@@ -74193,13 +74193,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f51632a46bcf765441d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T16:30:34.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "CryptoSlate + GitHub ACINQ release; Eclair 0.14.5 peer-exploitable flaws, second patch in five days.",
+      "note": "Re-read CryptoSlate and GitHub 0.14.5/0.14.4 releases; added CryptoBriefing on CSRF impact and HTTP Basic caching. 719 body words, three sources on separate sites, audits clean.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
@@ -74208,9 +74208,17 @@
         {
           "url": "https://github.com/ACINQ/eclair/releases/tag/v0.14.5",
           "outcome": "read"
+        },
+        {
+          "url": "https://github.com/ACINQ/eclair/releases/tag/v0.14.4",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/eclair-patches-lightning-network-theft-bugs/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:24:00.815Z",
+      "reviewedAt": "2026-10-22T12:17:15.454Z",
       "articleSlug": "eclairpatches",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135796,6 +135804,31 @@
           ],
           "reviewedAt": "2026-10-22T12:14:46.872Z",
           "articleSlug": "spacextesla"
+        },
+        "0f51632a46bcf765441d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CryptoSlate and GitHub 0.14.5/0.14.4 releases; added CryptoBriefing on CSRF impact and HTTP Basic caching. 719 body words, three sources on separate sites, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ACINQ/eclair/releases/tag/v0.14.5",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ACINQ/eclair/releases/tag/v0.14.4",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/eclair-patches-lightning-network-theft-bugs/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:17:15.454Z",
+          "articleSlug": "eclairpatches"
         }
       },
       "baselineSlugs": [
