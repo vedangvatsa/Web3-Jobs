@@ -42393,7 +42393,8 @@
       },
       "account": "channel:defi",
       "attemptId": "0bea6dee-a32b-427e-982e-e22b6b8d6ec1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6836edada07ec6d60a392f86859aea4de6f03b6a"
     }
   ]
 }
