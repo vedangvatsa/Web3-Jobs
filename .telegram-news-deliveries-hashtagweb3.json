@@ -1987,5 +1987,36 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 155889,
     "sentAt": "2026-10-22T11:33:36.163Z"
+  },
+  "dc7d5250-88c6-4cfe-8618-a8599fb04dda": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T19:34:58.356Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Drift Protocol exploiters move $61 million to Tornado Cash",
+        "summary": "Hackers deposited 25,700 ETH into the mixer and retain approximately $198 million in stolen assets.",
+        "link": "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift exploit wallets push $61 million in ETH to Tornado Cash"
+      },
+      {
+        "index": -1,
+        "headline": "BlackRock proposes third bitcoin ETF with downside protection",
+        "summary": "The proposed fund uses options on IBIT to limit potential losses while capping upside returns.",
+        "link": "https://hashtagweb3.com/pbit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BlackRock files for third bitcoin ETF, a protected-outcome fund on IBIT"
+      },
+      {
+        "index": -1,
+        "headline": "Visa and Mesh enable stablecoin payments at global merchants",
+        "summary": "Users can now spend crypto balances directly from digital wallets at 175 million locations without a physical card.",
+        "link": "https://hashtagweb3.com/visamesh?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa and Mesh let wallets spend stablecoins at 175 million merchants"
+      }
+    ],
+    "slotKey": "2026-10-22:evening"
   }
 }
