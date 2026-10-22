@@ -41142,7 +41142,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "c74071d9-4012-46be-bea4-ae00b1691376",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8c96058c8d2566cc3c604e057717b6b0024d1e47"
     }
   ]
 }
