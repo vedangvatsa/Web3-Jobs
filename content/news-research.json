@@ -67731,13 +67731,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T17:45:11.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Bitwise Q4 2026 Staking Report verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage: 43.8M ETH staked, yields falling, Solana activity context. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/stakingrecord.md with local hero image.",
+      "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
@@ -67750,13 +67750,9 @@
         {
           "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
           "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T11:21:11.805Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says"
       ],
@@ -135460,6 +135456,27 @@
           ],
           "reviewedAt": "2026-10-22T11:17:07.631Z",
           "articleSlug": "charonupgrade"
+        },
+        "665905ab039e4e58273a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:21:11.805Z",
+          "articleSlug": "stakingrecord"
         }
       },
       "baselineSlugs": [
