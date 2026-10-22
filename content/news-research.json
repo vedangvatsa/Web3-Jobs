@@ -68200,20 +68200,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T21:38:18.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "NEAR forum HSP-029 (status Voting), Hokanews vote-open report (ballot Oct. 19 to Nov. 2), and Crypto Briefing proposal background all confirm the 2.5% to 1.6% issuance ramp, 90/10 split, 90-day grace, two-step validator adoption, and SVRN disclosure. The Defiant candidate link returns HTTP 403 and was recorded blocked. Draft content/articles/nearissuance.md with local hero image.",
+      "note": "Re-reviewed HSP-029 on the NEAR forum (status Voting; 2.5% to 1.6% per-epoch ramp, 90/10 split retained, 90-day grace, yields 5.268% to 3.372% at 42.71% staking, 36% commission loss for operators without NEAR, SVRN 55M NEAR disclosure, two-step validator adoption, Oct 19-21 forum discussion), Foresight News Oct. 21 (vote open, closes Nov. 2, source-linked to houseofstake.org) and Crypto Briefing Oct. 2 background; the original hokanews vote-window report was read earlier today but now returns HTTP 403, so its claims were not cited. The Defiant candidate link still 403. Drafted content/articles/nearissuance.md (672 words; hosts: gov.near.org, foresightnews.pro, cryptobriefing.com); hero ballot-box photo via Wikimedia (W.carter, CC BY-SA 4.0) compressed to 187KB; quality, formatting, image and duplicate audits clean; all cited links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
           "outcome": "read"
         },
         {
-          "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+          "url": "https://foresightnews.pro/news/detail/115622",
           "outcome": "read"
         },
         {
@@ -68221,11 +68221,15 @@
           "outcome": "read"
         },
         {
+          "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T12:50:58.234Z",
       "retrySearches": [
         "Find independent reporting on: NEAR Opens Vote to Cut Token Issuance to 1.6%"
       ],
@@ -136043,6 +136047,35 @@
           "reviewedAt": "2026-10-22T12:36:49.891Z",
           "duplicateOf": "stakingrecord",
           "mergedInto": "665905ab039e4e58273a"
+        },
+        "89a69374c6920c41cbfc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed HSP-029 on the NEAR forum (status Voting; 2.5% to 1.6% per-epoch ramp, 90/10 split retained, 90-day grace, yields 5.268% to 3.372% at 42.71% staking, 36% commission loss for operators without NEAR, SVRN 55M NEAR disclosure, two-step validator adoption, Oct 19-21 forum discussion), Foresight News Oct. 21 (vote open, closes Nov. 2, source-linked to houseofstake.org) and Crypto Briefing Oct. 2 background; the original hokanews vote-window report was read earlier today but now returns HTTP 403, so its claims were not cited. The Defiant candidate link still 403. Drafted content/articles/nearissuance.md (672 words; hosts: gov.near.org, foresightnews.pro, cryptobriefing.com); hero ballot-box photo via Wikimedia (W.carter, CC BY-SA 4.0) compressed to 187KB; quality, formatting, image and duplicate audits clean; all cited links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+              "outcome": "read"
+            },
+            {
+              "url": "https://foresightnews.pro/news/detail/115622",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:50:58.234Z",
+          "articleSlug": "nearissuance"
         }
       },
       "baselineSlugs": [
