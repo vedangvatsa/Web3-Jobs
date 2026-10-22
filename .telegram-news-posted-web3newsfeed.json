@@ -812,6 +812,9 @@
   "https://hashtagweb3.com/bitgetthai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftcperps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/swissetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/injectivekrw?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aifccourt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/agentpay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2336,6 +2339,12 @@
   "CFTC tells court CME lacks standing to block US perpetual futures",
   "Switzerland approves first retail bitcoin fund",
   "FINMA clears Switzerland's first retail bitcoin ETF",
+  "Injective, BDACS to develop South Korean won stablecoin",
+  "Injective and BDACS plan South Korean won stablecoin for RWA settlement",
+  "Kazakh Court Restricts Six Unlicensed Crypto Exchanges",
+  "Kazakhstan court limits Coinbase, BingX and four others in AIFC",
+  "Mastercard Opens Early Access for AI Agent Payments",
+  "Mastercard opens early access for AI agent payments after pilots",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2677,5 +2686,8 @@
   "fp:201m|all|back|buy|entir|firm|liquidat|october16|offer|per",
   "fp:388m|acquir|acquisition|approval|bitget|exchang|follow|gmo|hack|internet",
   "fp:argu|block|cftc|cme|court|exchang|futur|injury|lack|lawsuit",
-  "fp:approv|authoriz|clear|cryptocurrency|etf|finma|fund|individual|investor|issuer"
+  "fp:approv|authoriz|clear|cryptocurrency|etf|finma|fund|individual|investor|issuer",
+  "fp:agreement|asset|bdac|both|build|develop|firm|infrastructur|injectiv|korea",
+  "fp:aifc|astana|bingx|centr|coinbas|court|exchang|financial|four|international",
+  "fp:access|agent|automat|buy|controll|digital|early|follow|human|let"
 ]
