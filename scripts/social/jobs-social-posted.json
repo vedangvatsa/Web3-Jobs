@@ -39984,7 +39984,8 @@
       "provider": "buffer",
       "attemptId": "7fabb6c3-fa79-483e-b445-e3f039140405",
       "verification": "pending",
-      "postId": "6ad99f0aecaa6cda042aff1a"
+      "postId": "6ad99f0aecaa6cda042aff1a",
+      "error": "LinkedIn #Web3 receipt 6ad99f0aecaa6cda042aff1a remains pending; read-only reconciliation required"
     }
   ]
 }
