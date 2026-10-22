@@ -40028,6 +40028,47 @@
       "verification": "pending",
       "postId": "6ad99f19deacf5d2532f4ec5",
       "error": "LinkedIn CVin.Bio receipt 6ad99f19deacf5d2532f4ec5 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "aso42",
+      "company": "Galaxy Digital",
+      "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T05:27:02.350Z",
+      "expectedText": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+      "snapshot": {
+        "id": "6223138004",
+        "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6223138004",
+        "date": "2026-10-13T11:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "India",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso42"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso42/li?og=7",
+          "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai at Galaxy Digital",
+          "description": "Join Galaxy Digital as Associate, Financial Planning and. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso42.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "7a26f9e6-864f-4b11-b898-8893280daf9a",
+      "verification": "creating"
     }
   ]
 }
