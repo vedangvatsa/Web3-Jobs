@@ -72791,11 +72791,46 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc2964f96502bc13620a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:55:23.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "Three TSVs under SEC innovation exemption: TSV LLC (Puerto Rico, Abrar/Trinkle, Canton Network, notice Sept 23 revised Oct 19), OKXICE TSV (Texas JV 50% ICE 50% OKC USA, X Layer, notice Oct 4), Kephas Corp d/b/a Perpetuals.com (Delaware sub of Nasdaq: PDC, Kronos X Public L2, notice Oct 14). SEC Wednesday announcement confirms three names; inclusion does not mean exemption conditions met. OKXICE already faces 16 issuer objections including Microsoft Alphabet Goldman Sachs per TokenPost Oct 19 notice. Exemption: 5 years, 30-day public notice, 1 business day SEC submission, 30-day issuer objection window. None launched.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenizedstockvenue.com/notice.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/35202",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T10:51:44.768Z",
+      "articleSlug": "secstocks",
+      "lastReviewedDay": "2026-10-22"
     },
     "f706191a6a5b1a8cc8d8": {
       "source": "Cointelegraph",
@@ -133742,6 +133777,43 @@
           ],
           "reviewedAt": "2026-10-22T10:42:28.453Z",
           "articleSlug": "polymarketohio"
+        },
+        "cc2964f96502bc13620a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Three TSVs under SEC innovation exemption: TSV LLC (Puerto Rico, Abrar/Trinkle, Canton Network, notice Sept 23 revised Oct 19), OKXICE TSV (Texas JV 50% ICE 50% OKC USA, X Layer, notice Oct 4), Kephas Corp d/b/a Perpetuals.com (Delaware sub of Nasdaq: PDC, Kronos X Public L2, notice Oct 14). SEC Wednesday announcement confirms three names; inclusion does not mean exemption conditions met. OKXICE already faces 16 issuer objections including Microsoft Alphabet Goldman Sachs per TokenPost Oct 19 notice. Exemption: 5 years, 30-day public notice, 1 business day SEC submission, 30-day issuer objection window. None launched.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenizedstockvenue.com/notice.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/35202",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:51:44.768Z",
+          "articleSlug": "secstocks"
         }
       },
       "baselineSlugs": [
