@@ -3573,7 +3573,7 @@
     "sentAt": "2026-10-21T19:32:17.262Z"
   },
   "0577a293-cbc7-4328-bc31-05a60c682886": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-22T11:32:09.039Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3663,6 +3663,8 @@
       }
     ],
     "message": "- Crystal Intelligence is hiring <a href=\"https://hashtagweb3.com/do7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DevOps Engineer</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sec124?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/fs27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer, Investigator Tools</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Operations Manager</a>",
-    "slotKey": "2026-10-22:afternoon"
+    "slotKey": "2026-10-22:afternoon",
+    "messageId": 155888,
+    "sentAt": "2026-10-22T11:32:12.629Z"
   }
 }
