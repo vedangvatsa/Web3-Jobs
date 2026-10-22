@@ -73943,24 +73943,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "843d2d337606d6824758",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T21:00:13.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "CoinDesk + Decrypt full articles",
+      "note": "Re-read Decrypt, CoinDesk and BBC; added Reuters exclusive via Euronext on early-stage talks and possible delay. Fixed stock-move attribution (SpaceX rose on earnings beats, not Tesla). 868 body words, all links 200, audits clean.",
       "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
           "outcome": "read"
         },
         {
-          "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+          "url": "https://live.euronext.com/en/financial-news/musks-public-endorsement-spacex-tesla-deal-may-throw-wrench-talks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-22T12:14:46.872Z",
       "articleSlug": "spacextesla",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135763,6 +135771,31 @@
           ],
           "reviewedAt": "2026-10-22T12:09:52.437Z",
           "articleSlug": "zcashnu7"
+        },
+        "843d2d337606d6824758": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt, CoinDesk and BBC; added Reuters exclusive via Euronext on early-stage talks and possible delay. Fixed stock-move attribution (SpaceX rose on earnings beats, not Tesla). 868 body words, all links 200, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://live.euronext.com/en/financial-news/musks-public-endorsement-spacex-tesla-deal-may-throw-wrench-talks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bbc.com/news/articles/cmlyl09xjke4o",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:14:46.872Z",
+          "articleSlug": "spacextesla"
         }
       },
       "baselineSlugs": [
