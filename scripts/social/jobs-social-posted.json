@@ -41908,6 +41908,38 @@
       "postId": "17977823115070781",
       "permalink": "https://www.threads.com/@hashtagweb3/post/Dey5BjZkT00",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "tr68",
+      "company": "Flow Traders",
+      "title": "Digital Assets Trader",
+      "platform": "bluesky",
+      "postedAt": "2026-10-22T11:36:39.392Z",
+      "expectedText": "Flow Traders is hiring Digital Assets Trader: https://hashtagweb3.com/tr68/bsky?og=7",
+      "snapshot": {
+        "id": "8278361",
+        "title": "Digital Assets Trader",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8278361",
+        "date": "2026-10-13T10:24:17-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Trading",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tr68"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Digital Assets Trader: https://hashtagweb3.com/tr68/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/tr68/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/tr68.png?v=7",
+        "company": "Flow Traders",
+        "title": "Digital Assets Trader",
+        "description": "Join Flow Traders as Digital Assets Trader. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "ee4626f7-856e-4fbf-8fba-873a877e53d1",
+      "verification": "creating"
     }
   ]
 }
