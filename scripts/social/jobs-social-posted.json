@@ -40377,7 +40377,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "9f08f1fc-4385-4546-b3dc-3f35bc6c5964",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf226ea10e6b0c413acfdaa33f9967bb9fa011ae7"
     }
   ]
 }
