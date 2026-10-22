@@ -67774,25 +67774,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f0bff581db089300777",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T16:31:24.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "duplicate",
+      "note": "Same event as the Defiant lead: Bitwise's Q4 2026 Staking Report on record Ethereum and Solana staking. Covered by the ready draft stakingrecord.md, which cites the primary report plus two independent outlets. The Block URL returned 403 and was recorded blocked.",
       "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+          "outcome": "read"
+        },
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T08:18:01.499Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "duplicateOf": "stakingrecord",
+      "mergedInto": "665905ab039e4e58273a"
     },
     "19d3f2e2d40134eb80c7": {
       "source": "Bitcoin Magazine",
@@ -132951,6 +132956,24 @@
           ],
           "reviewedAt": "2026-10-22T08:17:42.791Z",
           "articleSlug": "stakingrecord"
+        },
+        "0f0bff581db089300777": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as the Defiant lead: Bitwise's Q4 2026 Staking Report on record Ethereum and Solana staking. Covered by the ready draft stakingrecord.md, which cites the primary report plus two independent outlets. The Block URL returned 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T08:18:01.499Z",
+          "duplicateOf": "stakingrecord",
+          "mergedInto": "665905ab039e4e58273a"
         }
       },
       "baselineSlugs": [
