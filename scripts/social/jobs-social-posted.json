@@ -43911,7 +43911,8 @@
       },
       "account": "channel:developers",
       "attemptId": "b246bee3-28e7-4fc8-b9f0-01f24df7e1f9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5035e3bba7918bb21c6371a026249fdc9410900f"
     }
   ]
 }
