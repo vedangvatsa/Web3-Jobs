@@ -40200,6 +40200,40 @@
       "attemptId": "48978077-44cf-43c0-8156-288e3cf625d0",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mygwo6xg732w"
+    },
+    {
+      "slug": "sec116",
+      "company": "DriveWealth",
+      "title": "Security & Threat Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T05:29:32.057Z",
+      "expectedText": "DriveWealth is hiring Security & Threat Operations Manager\n\nhttps://hashtagweb3.com/sec116/fc?og=7",
+      "snapshot": {
+        "id": "8034511003",
+        "title": "Security & Threat Operations Manager",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8034511003?gh_jid=8034511003",
+        "date": "2026-10-15T09:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Remote (US); Austin, TX; Dallas, TX; Denver, CO; Miami, FL; San Francisco, CA; Seattle, WA",
+        "department": "Risk & Compliance",
+        "active": true,
+        "salary": "$200k – $250k/yr",
+        "dateVerified": true,
+        "slug": "sec116"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring Security & Threat Operations Manager\n\nhttps://hashtagweb3.com/sec116/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec116/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "2459cf55-9b7f-4221-9ee8-7992134f7167",
+      "verification": "creating"
     }
   ]
 }
