@@ -68133,25 +68133,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T22:46:50.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "needs-corroboration",
-      "note": "Only one readable source (Crypto Briefing); The Block lead is blocked and no second independent outlet was confirmed.",
+      "reason": "verified-event",
+      "note": "Corroboration found: TokenPost (Oct. 21, SEC spokesperson) and Crypto Briefing (Oct. 20) both confirm comments keep arriving after the Oct. 20 close; the SEC's public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF). Drafted content/articles/regcrypto.md (667 words, hosts: tokenpost.com, cryptobriefing.com, sec.gov); hero photo AgnosticPreachersKid SEC HQ via Wikimedia (CC BY-SA 3.0), 225KB. CCN was 403.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/36529",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T08:40:46.443Z",
       "retrySearches": [
         "Find a second independent outlet on SEC Regulation Crypto comment close"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "regcrypto"
     },
     "7b17e4295a7a73ab2afd": {
       "source": "Crypto Briefing",
@@ -133035,6 +133047,31 @@
           ],
           "reviewedAt": "2026-10-22T08:23:41.608Z",
           "duplicateOf": "francetax"
+        },
+        "f3e86162ee7dcb7ad739": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Corroboration found: TokenPost (Oct. 21, SEC spokesperson) and Crypto Briefing (Oct. 20) both confirm comments keep arriving after the Oct. 20 close; the SEC's public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF). Drafted content/articles/regcrypto.md (667 words, hosts: tokenpost.com, cryptobriefing.com, sec.gov); hero photo AgnosticPreachersKid SEC HQ via Wikimedia (CC BY-SA 3.0), 225KB. CCN was 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/36529",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T08:40:46.443Z",
+          "articleSlug": "regcrypto"
         }
       },
       "baselineSlugs": [
