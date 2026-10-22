@@ -76663,17 +76663,23 @@
         "The Block"
       ],
       "id": "33a328eb54f544deffa7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T12:06:23.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "duplicate",
-      "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "note": "Same Standard Chartered-Zodia definitive agreements reported by Cointelegraph and The Block; the event is covered by the ready zodia article.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T07:54:50.666Z",
       "duplicateOf": "zodia",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "ce8fc79a80fcd65b9473"
     },
     "39df26d5c4457ca6f06a": {
       "source": "The Defiant",
@@ -132894,6 +132900,20 @@
           ],
           "reviewedAt": "2026-10-22T07:54:39.169Z",
           "articleSlug": "zodia"
+        },
+        "33a328eb54f544deffa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Standard Chartered-Zodia definitive agreements reported by Cointelegraph and The Block; the event is covered by the ready zodia article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T07:54:50.666Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
         }
       },
       "baselineSlugs": [
