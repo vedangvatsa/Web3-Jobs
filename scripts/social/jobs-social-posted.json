@@ -40894,7 +40894,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a690142b-8906-4298-bc61-7cbcc414a3c1",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad99fb97dadc432f73ee6a5"
     }
   ]
 }
