@@ -39627,7 +39627,8 @@
       },
       "account": "channel:build",
       "attemptId": "f163637f-6b64-4b62-9423-8c7de1d940b6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6fadf93b6180aa21e9071bac66d0bf41f6b06e45"
     }
   ]
 }
