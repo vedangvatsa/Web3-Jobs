@@ -41003,7 +41003,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "12348146-f9a9-4eda-917c-fa71c29dcfdb",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad9f440b7096b8d3811ba6d"
     }
   ]
 }
