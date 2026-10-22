@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-22",
+    "threadId": "E02",
+    "sequence": 5,
+    "platform": "linkedin",
+    "sourceContentSha256": "a2547fc5842ffd98bceab9e06721d8c1d25a66d365f39ae4e5d3dfc981325ed2",
+    "calendarSha256": "ef167b0f06f96103045ba1a2df1848a14a83eb322f1449763bd17db3165e5ee2",
+    "sourceThreadSha256": "6a661a88db93584d0a9d81722eb1f418a144ff75f0d14358ccdd82adb022bf1e",
+    "sourcePostHashes": [
+      "65cc0359ff71350e8039cd842e3af48fe43e7397609dcea27c09170a9b5132f2",
+      "56f3d89b560614816071b0a9557dcba54890287d720d2dea8ab54ffb8b13259b",
+      "58ccc451ff7982010f4638baca02306e6f4b93a211f84569b9c71c17259ed169",
+      "00dd6151b56b74df245e7ed5adc9fd6d9b83206aa4971d835a3d6dae169f1077",
+      "1359e34ee65e4ef54557d779aaa48a5894757d07b268e6e88157a82479ae42f5",
+      "cd99feb22320102a652d19bd6208ddb6d11e58aab0e79ac4021cb899a2cf3d9f"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-01.jpg",
+        "sha256": "7fbdc5fb67fb4ce6a50844cf69cd5e1213a50ada71ff2c9817ee2c24ffb3bf74",
+        "bytes": 103281,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $101,000 per year (USD)"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-02.jpg",
+        "sha256": "ad92b60307f8c4238ec343f217dd01759d3de8c31bd7452e57c5d39e19fb44ea",
+        "bytes": 100249,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $133,000 per year (USD)"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-03.jpg",
+        "sha256": "d1559ce64774d4ffb71ab720dd597eb8d546147b2324600340c18f180657fca5",
+        "bytes": 99475,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $95,000 per year (USD)"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-04.jpg",
+        "sha256": "25627a3b018c20063f5fcf9b3e2bdc45f5b2d61f0824002db0d01fa353788b05",
+        "bytes": 98494,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $76,000 per year (USD)"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-05.jpg",
+        "sha256": "c5489a742447e5ae900e4abfd53e37a7d3492ba723e7a734d193ef31bb85b200",
+        "bytes": 101782,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $63,000 per year (USD)"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E02-06.jpg",
+        "sha256": "f0cf1750263bec68537c8773f9b81cd0524cdfdb0b474c26fa055a4c19510eb2",
+        "bytes": 168051,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Five roles, identical inputs. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates · 2 years; North America · Series A/B · 11-50 staff; Security Auditor; Smart Contract Developer; Product Manager; Technical Writer; Community Manager; Auditor minus Community: USD 70,000/year. Model only; tokens/equity excluded. Screenshot text: $133,000; $101,000; $95,000; $76,000; $63,000"
+      }
+    ],
+    "assetCommit": "e97785ae3de96c946bd15e30c28daa5b6628af7c",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "At 2 years, North America, Series A/B and 11-50 staff, the calculator estimates Smart Contract Developer salary at USD 101,000/year. Model output, not observed pay. Tokens and equity are outside this estimate.\n\n1. Security Auditor: USD 133,000/year with the same inputs. The model starts at USD 105,000, multiplies by 1.10 for experience and 1.15 for region, then rounds the result to the nearest USD 1,000.\n\n2. Product Manager: USD 95,000/year in the model at 2 years, North America, Series A/B and 11-50 staff. Its USD 75,000 starting value becomes USD 94,875 before rounding.\n\n3. Technical Writer: USD 76,000/year with those same settings. The model calculates USD 60,000 x 1.10 x 1.15 = USD 75,900 before rounding. Company stage and size each contribute a 1.0 multiplier here.\n\n4. Community Manager: USD 63,000/year at the same 2-year settings. The model's USD 50,000 starting value becomes USD 63,250 before rounding. These five results compare the calculator's assumptions, not employer offers.\n\n5. The model puts Security Auditor at USD 133,000/year and Community Manager at USD 63,000/year: a USD 70,000 gap under identical settings. Reproduce the comparison by changing only Primary Role.\n\nFull resource: hashtagweb3.com/salary-calculator/li",
+    "title": "Five role estimates from the salary calculator with the same inputs",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/E02/linkedin.pdf",
+      "sha256": "d7fae6bb612d12e7b01d8afefdbba8e8f0c95bee1c1b476ab7ec11b5095481dc",
+      "bytes": 675217,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/exports/E02/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/E02/cover.jpg",
+      "sha256": "7fbdc5fb67fb4ce6a50844cf69cd5e1213a50ada71ff2c9817ee2c24ffb3bf74",
+      "bytes": 103281,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD salary model · 2 years; North America · Series A/B · 11-50 staff; Model, not observed pay. Tokens/equity excluded. Screenshot text: $101,000 per year (USD)",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/e97785ae3de96c946bd15e30c28daa5b6628af7c/social-assets/knowledge-threads-month/exports/E02/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "323b62d0-dcfa-4ca4-8f3c-b976bd8db224",
+  "startedAt": "2026-10-22T11:31:29.617Z",
+  "status": "claimed"
+}
