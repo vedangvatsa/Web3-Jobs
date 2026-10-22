@@ -107,7 +107,9 @@ test('dry-run coordinator reports incomplete coverage without committing or chan
   fs.writeFileSync(path.join(cwd, 'content/news-research.json'), before);
   fs.mkdirSync(path.join(cwd, '.cache/news-research'), { recursive: true });
   fs.writeFileSync(path.join(cwd, '.cache/news-research/current.json'), JSON.stringify({ day, baseSha }));
-  assert.throws(() => execFileSync(process.execPath, [path.resolve('scripts/publish-news-run.mjs'), '--dry-run'], { cwd, encoding: 'utf8', stdio: 'pipe' }), /Command failed/);
+  assert.throws(() => execFileSync(process.execPath, [path.resolve('scripts/publish-news-run.mjs'), '--dry-run'], {
+    cwd, encoding: 'utf8', stdio: 'pipe', env: { ...process.env, NEWS_DATE: day, GITHUB_OUTPUT: '', GITHUB_STEP_SUMMARY: '' },
+  }), /Command failed/);
   const report = JSON.parse(fs.readFileSync(path.join(cwd, '.cache/news-research/report.json'), 'utf8'));
   assert.equal(report.complete, false);
   assert.equal(report.counts.unreviewed, 1);
@@ -170,7 +172,10 @@ function coordinatorFixture(t) {
   const audits = [], publications = [];
   const validate = (options, audit = () => []) => {
     assert.equal(options.publishReadyBatch, true);
-    return validateNewsDrafts({ ...options, audit: (slugs, context) => { audits.push(slugs); return audit(slugs, context); } });
+    const previous = process.env.NEWS_DATE;
+    process.env.NEWS_DATE = day;
+    try { return validateNewsDrafts({ ...options, audit: (slugs, context) => { audits.push(slugs); return audit(slugs, context); } }); }
+    finally { if (previous === undefined) delete process.env.NEWS_DATE; else process.env.NEWS_DATE = previous; }
   };
   const publish = options => {
     publications.push({ ...options, ledger: JSON.parse(read('content/news-research.json')) });

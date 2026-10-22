@@ -88,6 +88,17 @@ test('validator crashes and malformed output fail closed instead of authorizing 
   assert.equal(result.fatalErrors.length, 1);
 });
 
+test('a real workflow date mismatch remains fatal before audits or staging', t => {
+  const f = fixture(t), previous = process.env.NEWS_DATE;
+  process.env.NEWS_DATE = new Date(Date.parse(`${f.context.day}T00:00:00Z`) + 86400000).toISOString().slice(0, 10);
+  try {
+    const result = validateNewsDrafts({ cwd: f.cwd, context: f.context, ledger: f.ledger, publishReadyBatch: true, audit: () => assert.fail('Wrong workflow date') });
+    assert.ok(result.fatalErrors.includes('Research day changed during publication'));
+    assert.equal(result.safeToPersist, false);
+    assert.equal(result.draftsValid, false);
+  } finally { if (previous === undefined) delete process.env.NEWS_DATE; else process.env.NEWS_DATE = previous; }
+});
+
 test('an unfinished or unconfirmed writer blocks independent final publication before staging or audits', t => {
   for (const state of ['running', 'unsafe']) {
     const f = fixture(t);
