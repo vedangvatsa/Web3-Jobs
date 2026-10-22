@@ -68414,13 +68414,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T17:11:47.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Retried the deferred HoneyB lead: The Block still returns 403, but the FinanceWire company announcement (via Markets Insider, Oct. 21) and Dealroom's independent report (Oct. 20, covering Gordon's interview: SAFE with 1:1 token warrant at $30M post-money, 2-4% net yield target, Q4 2026 non-U.S. institutional launch) both opened and were read. Drafted content/articles/honeyb.md (640+ words, hosts: markets.businessinsider.com, dealroom.co); hero photo Dover Delaware via Wikimedia (CC BY-SA 2.5), compressed to 318KB.",
+      "note": "Nectar Group M seed for HoneyB Bitcoin yield platform. Sources: Markets Insider (FinanceWire release, HTTP 200), Dealroom (Gordon/The Block interview summary, HTTP 200), Grafa (HTTP 200). Hero: Casascius coin, Steve Jurvetson CC BY 2.0, 223KB. 669 words, 3 source hosts, audits clean.",
       "sourceChecks": [
         {
           "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
@@ -68431,11 +68431,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
-          "outcome": "blocked"
+          "url": "https://grafa.com/en/news/crypto/nectar-group-raises-5-million-for-bitcoin-yield-platform",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T10:17:48.932Z",
+      "reviewedAt": "2026-10-22T13:03:24.982Z",
       "retrySearches": [
         "Find independent reporting on: Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuati"
       ],
@@ -136111,6 +136111,27 @@
           "reviewedAt": "2026-10-22T12:52:38.584Z",
           "duplicateOf": "occgenius",
           "mergedInto": "d827e4da47d80b199d72"
+        },
+        "0234a0b9cf8724213cf8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Nectar Group M seed for HoneyB Bitcoin yield platform. Sources: Markets Insider (FinanceWire release, HTTP 200), Dealroom (Gordon/The Block interview summary, HTTP 200), Grafa (HTTP 200). Hero: Casascius coin, Steve Jurvetson CC BY 2.0, 223KB. 669 words, 3 source hosts, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://grafa.com/en/news/crypto/nectar-group-raises-5-million-for-bitcoin-yield-platform",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:03:24.982Z",
+          "articleSlug": "honeyb"
         }
       },
       "baselineSlugs": [
