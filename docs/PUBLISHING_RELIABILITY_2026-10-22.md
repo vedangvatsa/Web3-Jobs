@@ -87,3 +87,11 @@ and any necessary repairs still run before publication. Older-date or merely
 inherited reviews are not reused, and unfinished leads are not invented or approved.
 
 The unresolved Telegram reservation for `@web3hiring` from October 21 at 11:31 UTC requires evidence-based reconciliation. Do not delete it or send a replacement to clear an error. Job-video publishing separately requires fresh hosted video inputs; the schedule fix does not create those assets.
+
+## Verified recovery
+
+- [Run 39799768592](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39799768592) completed successfully. The saved-review recovery reran all article audits and repaired two source-link problems before publication.
+- At `2026-10-22T15:16:20.372Z`, 27 articles completed publication. Commit `829234a8391f75cfd831311373ff6a97144eb294` contains their 27 Markdown files and 27 local images.
+- The final validation artifact records `audited: true`, `draftsValid: true`, and empty validation/fatal error arrays.
+- Research remains truthful: 27 published, 78 rejected, 28 deferred and 174 unreviewed. `publicationComplete` is true; coverage remains incomplete and its pending IDs are retained.
+- A read-only check against the actual jobs/news data accepted all 27 published articles and confirmed that another October 22 deployment is disallowed. The recovery's deploy job was skipped. These articles are committed to main for the next daily website rollout, not claimed live from this content-only run.
