@@ -41071,7 +41071,8 @@
         "description": "Join Talos as Head of Tokenization. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "59dc2517-8c93-405d-9090-2af4f8c5e385",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myhkxbijn425"
     }
   ]
 }
