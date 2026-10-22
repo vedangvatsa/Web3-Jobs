@@ -72346,11 +72346,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "84d994d2658e17208b74",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:40:18.000Z",
-      "lastSeenAt": "2026-10-22T07:44:05.017Z"
+      "lastSeenAt": "2026-10-22T07:44:05.017Z",
+      "reason": "duplicate",
+      "note": "CryptoSlate's Oct. 21 piece re-explains the same CFTC ANPRM (Regulation CTX/CAM, FR doc 2026-20888) already covered by the published article cftc-leverage (Oct. 6), including the fully-paid-trade reading and actual-delivery exception. No new CFTC action since the Oct. 5 announcement and Oct. 13 Federal Register publication; a second native article would restate existing coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T08:20:46.624Z",
+      "duplicateOf": "cftc-leverage",
+      "lastReviewedDay": "2026-10-22"
     },
     "26b3bb0e3bc3ed7e6ca1": {
       "source": "Crypto Briefing",
@@ -132974,6 +132993,27 @@
           "reviewedAt": "2026-10-22T08:18:01.499Z",
           "duplicateOf": "stakingrecord",
           "mergedInto": "665905ab039e4e58273a"
+        },
+        "84d994d2658e17208b74": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CryptoSlate's Oct. 21 piece re-explains the same CFTC ANPRM (Regulation CTX/CAM, FR doc 2026-20888) already covered by the published article cftc-leverage (Oct. 6), including the fully-paid-trade reading and actual-delivery exception. No new CFTC action since the Oct. 5 announcement and Oct. 13 Federal Register publication; a second native article would restate existing coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T08:20:46.624Z",
+          "duplicateOf": "cftc-leverage"
         }
       },
       "baselineSlugs": [
