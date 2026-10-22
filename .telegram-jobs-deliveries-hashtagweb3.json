@@ -3571,5 +3571,98 @@
     "slotKey": "2026-10-21:evening",
     "messageId": 155875,
     "sentAt": "2026-10-21T19:32:17.262Z"
+  },
+  "0577a293-cbc7-4328-bc31-05a60c682886": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T11:32:09.039Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "ef28ae35-ef95-4a82-8013-597d378af89e",
+          "title": "DevOps Engineer",
+          "company": "Crystal Intelligence",
+          "link": "https://crystalintelligence.teamtailor.com/jobs/8486782-devops-engineer",
+          "date": "2026-10-01T13:50:15.000Z",
+          "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do7",
+          "location": "Not specified"
+        },
+        "key": "ef28ae35-ef95-4a82-8013-597d378af89e",
+        "slug": "do7",
+        "url": "https://hashtagweb3.com/do7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crystal Intelligence",
+        "title": "DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
+          "title": "Security Engineer",
+          "company": "Mysten Labs",
+          "link": "https://jobs.ashbyhq.com/mystenlabs/eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
+          "date": "2026-10-20T19:31:52.121+00:00",
+          "source": "Ashby: Mysten Labs [mystenlabs]",
+          "location": "USA (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec124"
+        },
+        "key": "eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
+        "slug": "sec124",
+        "url": "https://hashtagweb3.com/sec124?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mysten Labs",
+        "title": "Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5f63898a-6d71-4d60-815d-5ae7b9d2437d",
+          "title": "Fullstack Engineer, Investigator Tools",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/5f63898a-6d71-4d60-815d-5ae7b9d2437d",
+          "date": "2026-10-14T22:17:40.140+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (Germany)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fs27"
+        },
+        "key": "5f63898a-6d71-4d60-815d-5ae7b9d2437d",
+        "slug": "fs27",
+        "url": "https://hashtagweb3.com/fs27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Fullstack Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8248096",
+          "title": "Risk Operations Manager",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8248096",
+          "date": "2026-10-05T06:46:26-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Bangalore",
+          "department": "4899 SDC - Bridge RiskOps",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops87"
+        },
+        "key": "8248096",
+        "slug": "ops87",
+        "url": "https://hashtagweb3.com/ops87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Risk Operations Manager"
+      }
+    ],
+    "message": "- Crystal Intelligence is hiring <a href=\"https://hashtagweb3.com/do7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DevOps Engineer</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sec124?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/fs27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer, Investigator Tools</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops87?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Operations Manager</a>",
+    "slotKey": "2026-10-22:afternoon"
   }
 }
