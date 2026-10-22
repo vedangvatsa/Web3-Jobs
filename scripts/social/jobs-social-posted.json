@@ -40557,7 +40557,8 @@
       },
       "account": "channel:base",
       "attemptId": "8bae2233-5371-4d59-a9b2-15c7f4897d42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6d27b54a8a1659a57a9b3484702d27d7e56c4010"
     }
   ]
 }
