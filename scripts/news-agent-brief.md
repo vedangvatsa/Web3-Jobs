@@ -3,6 +3,12 @@
 You are publishing every qualifying News article for hashtagweb3.com. Today is $TODAY (UTC).
 Work in the repository root (current working directory on the runner).
 
+Keep shell working directories at that root. Temporary files, downloads and helper
+scripts belong in `.cache/news-research/scratch/`, also supplied as `TMPDIR`, `TMP`
+and `TEMP`. Run `node scripts/...` from the repository root. A command that changes
+into a temporary directory cannot resolve those relative script paths. The runner
+does not grant access to arbitrary `/tmp` paths.
+
 Do not launch the site. Do not signal or stop other processes.
 This is a fresh checkout. Do not assume an earlier run left uncommitted drafts.
 Read tips and run discovery on every run, including when the working tree is clean.
@@ -12,18 +18,26 @@ There is one daily news batch and one scheduled website deployment slot.
 
 ## 0. Tips first (mandatory)
 
-Read `content/news-tips.md` FIRST, then `.cache/news-research/queue.json`.
+Read `content/news-tips.md` FIRST, then `.cache/news-research/assignment.json` when
+the coordinator provides an assignment; otherwise read `.cache/news-research/queue.json`.
 The queue includes those tips, fresh feed candidates, and deferred leads from
 earlier daily runs. Verify dates and facts for tips just as for feed stories.
 Record their outcomes by candidate ID; CI removes resolved tip lines.
 
 ## 1. Review the entire daily queue
 
-Run `node scripts/news-research.mjs queue`. Review EVERY assigned candidate,
+Run `node scripts/news-research.mjs queue --assigned` for a coordinator assignment,
+or `node scripts/news-research.mjs queue` for an unpartitioned review. Review EVERY assigned candidate,
 including deferred leads. There is no two- or three-article target and no article
 count cap. Do not stop when the first few articles are done. Prefer candidates
 with several source URLs, then pursue alternate outlets and primary records when
 a source is blocked. A five-minute discovery pass is not a research deadline.
+
+An assignment is a small part of the same daily queue. Record each candidate's
+outcome as soon as its review finishes, then move to the next. When all assigned
+candidates have outcomes, return to the coordinator. It continues the remaining
+assignments until the entire queue is covered. Do not repeatedly dump the full
+ledger or redo candidates whose outcomes are already recorded.
 
 Write every story that qualifies. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
@@ -64,6 +78,8 @@ as a duplicate of that ready article slug.
 Run `node scripts/news-research.mjs report` before stopping. Zero articles is a
 valid outcome only when every candidate has an explained disposition. An
 unreviewed candidate makes the run incomplete even when other drafts are ready.
+After one assignment, other assignments may still be unreviewed. Report that
+state accurately; the coordinator owns whole-batch completion.
 
 ## 2. Research (mandatory)
 
@@ -165,6 +181,9 @@ This uses the same validator as the final publisher, writes exact failures to
 Read the errors and fix the unpublished drafts before stopping. A successful
 research report or a claimed word count does not replace this check. The actual
 word counter excludes Markdown links, including their linked anchor text.
+During an assignment, `complete: false` with no validation errors can mean other
+assignments remain. Finish your assigned outcomes and let the coordinator continue
+them; never fabricate outcomes for candidates you have not reviewed.
 Use source-backed detail to meet the minimum; do not add filler or invent facts.
 CI can invoke up to three further repair rounds using this feedback.
 

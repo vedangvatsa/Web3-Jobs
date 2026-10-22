@@ -28,6 +28,14 @@ export function currentRun(cwd = process.cwd()) {
   return JSON.parse(fs.readFileSync(path.join(cwd, RESEARCH_DIR, 'current.json'), 'utf8'));
 }
 
+export function assignedResearchQueue(ledger, day, assignment) {
+  if (assignment?.day !== day || !Array.isArray(assignment.candidates)) throw new Error('Research assignment does not match the current day');
+  const run = ledger.runs[day], ids = assignment.candidates.map(candidate => candidate.id);
+  if (new Set(ids).size !== ids.length || ids.some(id => !run?.candidateIds.includes(id))) throw new Error('Invalid assigned research candidates');
+  const candidates = ids.filter(id => !run.outcomes[id]).map(id => ledger.candidates[id]);
+  return { day, remaining: candidates.length, candidates };
+}
+
 export function recordResearchBatch(ledger, day, reviews, articles) {
   if (!Array.isArray(reviews) || !reviews.length) throw new Error('Provide a non-empty JSON array of review outcomes');
   const next = structuredClone(ledger);
@@ -51,7 +59,7 @@ async function main() {
     date: { type: 'string' }, id: { type: 'string' }, status: { type: 'string' }, reason: { type: 'string' }, note: { type: 'string' }, article: { type: 'string' }, duplicate: { type: 'string' },
     title: { type: 'string' }, link: { type: 'string' }, published: { type: 'string' }, source: { type: 'string' },
     read: { type: 'string', multiple: true }, blocked: { type: 'string', multiple: true }, unavailable: { type: 'string', multiple: true }, search: { type: 'string', multiple: true },
-    reviews: { type: 'string' },
+    reviews: { type: 'string' }, assigned: { type: 'boolean', default: false },
   } });
   const action = positionals[0], ledger = loadResearch();
   if (action === 'prepare') {
@@ -92,7 +100,9 @@ async function main() {
     checkpoint(current);
   } else if (action === 'queue') {
     const { day } = currentRun(); writeReport(ledger, day);
-    console.log(fs.readFileSync(path.join(RESEARCH_DIR, 'queue.json'), 'utf8'));
+    console.log(values.assigned
+      ? JSON.stringify(assignedResearchQueue(ledger, day, JSON.parse(fs.readFileSync(path.join(RESEARCH_DIR, 'assignment.json'), 'utf8'))), null, 2)
+      : fs.readFileSync(path.join(RESEARCH_DIR, 'queue.json'), 'utf8'));
   } else if (action === 'report') {
     const { day } = currentRun(); console.log(reportMarkdown(writeReport(ledger, day)));
   } else throw new Error('Use prepare, add, queue, record, record-batch or report');

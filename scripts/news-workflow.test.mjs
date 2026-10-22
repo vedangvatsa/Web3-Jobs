@@ -6,6 +6,23 @@ const require = createRequire(import.meta.url);
 const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
 const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
 
+test('on-time social fan-out retains one daily rollout after ingestion and news', () => {
+  assert.deepEqual(workflow.jobs['post-openings'].needs, ['gate']);
+  assert.deepEqual(workflow.jobs['refresh-and-post'].needs, ['gate']);
+  assert.deepEqual(workflow.jobs.ingest.needs, ['gate']);
+  assert.deepEqual(workflow.jobs.deploy.needs, ['gate', 'ingest', 'publish-news']);
+  assert.deepEqual(workflow.jobs['job-alerts'].needs, ['gate', 'ingest', 'deploy']);
+  const rollouts = Object.entries(workflow.jobs).filter(([, job]) => job.uses === './.github/workflows/fah-fix-and-deploy.yml');
+  assert.deepEqual(rollouts.map(([name]) => name), ['deploy']);
+  assert.match(workflow.jobs.deploy.if, /needs\.ingest\.result == 'success'/);
+  assert.match(workflow.jobs.deploy.if, /needs\.publish-news\.result != 'cancelled'/);
+  for (const name of ['post-videos', 'knowledge-threads', 'knowledge-carousels']) {
+    assert.deepEqual(workflow.jobs[name].needs, ['gate']);
+    assert.equal(workflow.jobs[name].with.slot, '${{ needs.gate.outputs.slot }}');
+    assert.equal(workflow.jobs[name].with.date, '${{ needs.gate.outputs.date }}');
+  }
+});
+
 test('daily research deploys recovered articles even after the jobs rollout', () => {
   assert.match(workflow.jobs['publish-news'].if, /outputs.news == 'true'/);
   assert.match(workflow.jobs.deploy.if, /outputs.deploy == 'true'/);
@@ -83,4 +100,46 @@ test('saved news recovery restores only after preparing a fresh queue and deploy
   const recovery = gate.slice(gate.indexOf('if [ -n "$NEWS_RECOVERY_RUN" ]'), gate.indexOf('if [ "${{ github.event.inputs.only_news }}" ='));
   for (const flag of ['morning=false', 'news=true', 'deploy=true', 'social=false', 'videos=false', 'slot=recovery']) assert.ok(recovery.includes(flag));
   assert.ok(recovery.includes('inputs.news_dry_run }}" != "true"'));
+});
+
+test('automatic same-day recovery selects an authenticated exact artifact before restoration and fresh review', () => {
+  const news = workflow.jobs['publish-news'], steps = news.steps;
+  const prepare = steps.findIndex(step => step.id === 'research');
+  const select = steps.findIndex(step => step.id === 'recovery');
+  const download = steps.findIndex(step => step.name === 'Download unpublished news recovery');
+  const restore = steps.findIndex(step => step.run === 'node scripts/restore-news-drafts.mjs');
+  const writer = steps.findIndex(step => step.id === 'draft');
+  const publish = steps.findIndex(step => step.id === 'publish');
+  assert.ok(prepare >= 0 && prepare < select && select < download && download < restore && restore < writer && writer < publish);
+  assert.equal(steps[select].run, 'node scripts/select-news-recovery.mjs');
+  assert.equal(steps[select].if, "${{ steps.research.outputs.needs_writer == 'true' }}");
+  assert.equal(steps[select].env.GITHUB_TOKEN, '${{ github.token }}');
+  assert.equal(steps[select].env.NEWS_RECOVERY_RUN, '${{ inputs.news_recovery_run }}');
+  assert.equal(steps[download].uses, 'actions/download-artifact@v4');
+  assert.deepEqual(steps[download].with, {
+    'github-token': '${{ github.token }}', repository: '${{ github.repository }}',
+    'run-id': '${{ steps.recovery.outputs.run_id }}', name: '${{ steps.recovery.outputs.artifact_name }}',
+    path: '.cache/news-research-restore',
+  });
+  for (const index of [select, download, restore]) assert.notEqual(steps[index]['continue-on-error'], true);
+  for (const index of [download, restore]) {
+    assert.equal(steps[index].if, "${{ steps.recovery.outputs.run_id != '' && steps.research.outputs.needs_writer == 'true' }}");
+  }
+  assert.equal(steps[writer].if, "${{ steps.research.outputs.needs_writer == 'true' }}");
+  assert.equal(steps[writer].run, 'node scripts/run-news-research.mjs');
+  const upload = steps.find(step => step.uses === 'actions/upload-artifact@v4');
+  assert.equal(upload.if, 'always()');
+  assert.equal(upload.with.name, 'news-research-${{ github.run_id }}-${{ github.run_attempt }}');
+  assert.equal(upload.with['include-hidden-files'], true);
+  assert.ok(upload.with.path.split('\n').includes('.cache/news-research/'));
+});
+
+test('daily news offline checks include recovery selection and existing restore safety tests', () => {
+  const steps = workflow.jobs['publish-news'].steps;
+  const checks = steps.findIndex(step => step.name === 'Test daily news discovery and publication');
+  assert.ok(checks >= 0 && checks < steps.findIndex(step => step.id === 'research'));
+  assert.match(steps[checks].run, /^node --test /);
+  for (const file of ['select-news-recovery.test.mjs', 'restore-news-drafts.test.mjs', 'news-workflow.test.mjs', 'run-news-research.test.mjs']) {
+    assert.ok(steps[checks].run.split(/\s+/).includes(`scripts/${file}`));
+  }
 });

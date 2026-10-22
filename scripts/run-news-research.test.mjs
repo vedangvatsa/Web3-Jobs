@@ -1,6 +1,83 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { runResearchRounds, runValidatedResearch } from './run-news-research.mjs';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { runResearchRounds, runValidatedResearch, researchAssignment, newsWriterRuntime } from './run-news-research.mjs';
+import { assignedResearchQueue } from './news-research.mjs';
+
+function pendingLedger(count = 21) {
+  const candidates = Object.fromEntries(Array.from({ length: count }, (_, i) => [String(i), { id: String(i), title: `Candidate ${i}`, sources: [{ url: `https://example.com/${i}` }] }]));
+  return { candidates, runs: { '2026-10-22': { status: 'prepared', candidateIds: Object.keys(candidates), outcomes: {} } } };
+}
+
+test('focused assignments cover the full queue, preserve outcomes and include newly discovered leads', async () => {
+  const ledger = pendingLedger(), day = '2026-10-22', seen = [];
+  ledger.runs[day].outcomes['0'] = { status: 'rejected' };
+  await runResearchRounds({ remaining: () => ledger.runs[day].candidateIds.filter(id => !ledger.runs[day].outcomes[id]).length, log: () => {},
+    write: (round, context) => {
+      const assignment = researchAssignment(ledger, day, { round, ...context });
+      assert.ok(assignment.candidates.length <= 8);
+      for (const candidate of assignment.candidates) {
+        assert.ok(!seen.includes(candidate.id)); seen.push(candidate.id);
+        ledger.runs[day].outcomes[candidate.id] = { status: 'deferred' };
+      }
+      if (round === 1) { ledger.candidates.new = { id: 'new', title: 'Discovered event' }; ledger.runs[day].candidateIds.push('new'); }
+    },
+  });
+  assert.equal(seen.length, 21); assert.ok(seen.includes('new')); assert.ok(!seen.includes('0'));
+});
+
+test('an idle batch retries one candidate and still stops if no real outcome is persisted', async () => {
+  const ledger = pendingLedger(), assigned = [];
+  await assert.rejects(runResearchRounds({ remaining: () => 21, log: () => {}, write: (round, context) => {
+    assigned.push(researchAssignment(ledger, '2026-10-22', { round, ...context }).candidates.length);
+  } }), /21 candidates remain unreviewed/);
+  assert.deepEqual(assigned, [8, 1]);
+});
+
+test('assigned queue reads current ledger state and refuses foreign, duplicate or wrong-day assignments', () => {
+  const ledger = pendingLedger(), day = '2026-10-22';
+  ledger.candidates['20'].manual = true;
+  const assignment = researchAssignment(ledger, day, { round: 1 });
+  assert.equal(assignment.candidates[0].id, '20');
+  ledger.runs[day].outcomes['20'] = { status: 'ready' };
+  assert.equal(assignedResearchQueue(ledger, day, assignment).remaining, 7);
+  assert.ok(!assignedResearchQueue(ledger, day, assignment).candidates.some(item => item.id === '20'));
+  for (const value of [{ ...assignment, day: '2026-10-21' }, { ...assignment, candidates: [{ id: 'missing' }] }, { ...assignment, candidates: [{ id: '1' }, { id: '1' }] }]) {
+    assert.throws(() => assignedResearchQueue(ledger, day, value));
+  }
+  for (const batchSize of [0, -1, 33, 1.5]) assert.throws(() => researchAssignment(ledger, day, { batchSize }));
+});
+
+test('writer subprocesses keep root cwd and workspace-owned temp paths without broad permission overrides', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'news-writer-runtime-'));
+  try {
+    const permission = { external_directory: 'ask', read: { '*.env': 'deny' } };
+    const env = { NEWS_MODEL: 'opencode/mimo-v2.6-flash-free', TMPDIR: '/tmp', OPENCODE_CONFIG_CONTENT: JSON.stringify({ permission }) };
+    const runtime = newsWriterRuntime({ cwd: root, env });
+    assert.equal(runtime.cwd, fs.realpathSync(root));
+    for (const key of ['TMPDIR', 'TMP', 'TEMP', 'NEWS_SCRATCH_DIR']) {
+      assert.equal(runtime.env[key], path.join(fs.realpathSync(root), '.cache/news-research/scratch'));
+      assert.ok(fs.statSync(runtime.env[key]).isDirectory());
+    }
+    assert.equal(env.TMPDIR, '/tmp');
+    assert.deepEqual(JSON.parse(runtime.env.OPENCODE_CONFIG_CONTENT).permission, permission);
+    assert.equal(JSON.parse(runtime.env.OPENCODE_CONFIG_CONTENT).small_model, env.NEWS_MODEL);
+    assert.match(runtime.instructions, /working directory at the repository root/);
+    assert.throws(() => newsWriterRuntime({ cwd: root, env: { NEWS_MODEL: 'paid-model' } }), /free/i);
+  } finally { fs.rmSync(root, { recursive: true, force: true }); }
+});
+
+test('a scratch symlink outside the checkout is refused', () => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'news-writer-symlink-'));
+  const outside = fs.mkdtempSync(path.join(os.tmpdir(), 'news-writer-external-'));
+  try {
+    fs.mkdirSync(path.join(root, '.cache/news-research'), { recursive: true });
+    fs.symlinkSync(outside, path.join(root, '.cache/news-research/scratch'));
+    assert.throws(() => newsWriterRuntime({ cwd: root, env: {} }), /inside the repository/);
+  } finally { fs.rmSync(root, { recursive: true, force: true }); fs.rmSync(outside, { recursive: true, force: true }); }
+});
 
 test('a writer that stops after three stories is continued inside the same daily batch', async () => {
   let remaining = 10, calls = 0;

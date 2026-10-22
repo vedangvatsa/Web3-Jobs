@@ -4,7 +4,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { pathToFileURL } from 'node:url';
 import { currentRun, loadResearch, writeReport } from './news-research.mjs';
-import { researchReport } from './lib/news-research.mjs';
+import { researchReport, RESEARCH_DIR } from './lib/news-research.mjs';
 import { validateNewsRun } from './validate-news-run.mjs';
 import { requireFreeNewsModel } from './check-news-writer.mjs';
 
@@ -14,12 +14,36 @@ export async function runResearchRounds({ remaining, reviewed = () => 0, write, 
     const before = remaining(), reviewedBefore = reviewed();
     if (before === 0) return;
     log(`Research round ${round}: ${before} candidates still need outcomes.`);
-    try { await write(round); } catch { log('Writer stopped; checking its persisted research progress.'); }
+    try { await write(round, { idle }); } catch { log('Writer stopped; checking its persisted research progress.'); }
     const after = remaining();
     if (after === 0) return;
     idle = after < before || reviewed() > reviewedBefore ? 0 : idle + 1;
     if (idle >= idleLimit) throw new Error(`${after} candidates remain unreviewed after ${idle} attempts without progress`);
   }
+}
+
+export function researchAssignment(ledger, day, { round, idle = 0, batchSize = 8 } = {}) {
+  if (!Number.isInteger(batchSize) || batchSize < 1 || batchSize > 32) throw new Error('News research batch size must be between 1 and 32');
+  const run = ledger.runs[day];
+  if (!run || run.status === 'completed') throw new Error('Assignment needs an open news research run');
+  const pending = run.candidateIds.filter(id => !run.outcomes[id]).map(id => ledger.candidates[id]);
+  pending.sort((a, b) => Number(Boolean(b.manual)) - Number(Boolean(a.manual))
+    || (b.sources?.length || 0) - (a.sources?.length || 0) || (b.score || 0) - (a.score || 0));
+  return { day, round, totalPending: pending.length, retryingWithoutProgress: idle > 0, candidates: pending.slice(0, idle > 0 ? 1 : batchSize) };
+}
+
+export function newsWriterRuntime({ cwd = process.cwd(), env = process.env, model } = {}) {
+  model = requireFreeNewsModel(model || env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free');
+  const root = fs.realpathSync(cwd);
+  const scratch = path.join(root, RESEARCH_DIR, 'scratch');
+  fs.mkdirSync(scratch, { recursive: true });
+  if (!fs.realpathSync(scratch).startsWith(`${root}${path.sep}`)) throw new Error('News scratch directory must stay inside the repository');
+  const config = { ...JSON.parse(env.OPENCODE_CONFIG_CONTENT || '{}'), small_model: model, autoupdate: false, share: 'disabled' };
+  return {
+    cwd: root,
+    env: { ...env, TMPDIR: scratch, TMP: scratch, TEMP: scratch, NEWS_WORKSPACE_ROOT: root, NEWS_SCRATCH_DIR: scratch, OPENCODE_CONFIG_CONTENT: JSON.stringify(config) },
+    instructions: `Repository root: ${root}\nScratch directory: ${scratch}\nKeep every shell command's working directory at the repository root. Put downloads, temporary scripts and source extracts in the scratch directory. Use repository-relative script paths from the root. Do not write to /tmp or change into a scratch directory to run repository scripts. Antislop DURING is already approved; this is an unattended run.\n\n`,
+  };
 }
 
 export async function runValidatedResearch({ remaining, reviewed, write, validate, repair, log = console.log, maxRepairRounds = 3 }) {
@@ -47,15 +71,17 @@ async function main() {
   const brief = recovery + fs.readFileSync('scripts/news-agent-brief.md', 'utf8').replaceAll('$TODAY', day).replaceAll('$DRY_RUN', process.env.NEWS_DRY_RUN || 'false');
   const binary = process.env.OPENCODE_BIN || path.join(os.homedir(), '.opencode/bin/opencode');
   const model = requireFreeNewsModel(process.env.NEWS_MODEL || 'opencode/deepseek-v4.1-flash-free');
-  const config = { ...JSON.parse(process.env.OPENCODE_CONFIG_CONTENT || '{}'), small_model: model, autoupdate: false };
-  const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', model, prompt], {
-    stdio: 'inherit', env: { ...process.env, OPENCODE_CONFIG_CONTENT: JSON.stringify(config) },
+  const runtime = newsWriterRuntime({ model });
+  const invoke = prompt => execFileSync(binary, ['--print-logs', '--log-level', 'WARN', 'run', '--model', model, runtime.instructions + prompt], {
+    stdio: 'inherit', cwd: runtime.cwd, env: runtime.env,
   });
   await runValidatedResearch({
     remaining: () => writeReport(loadResearch(), day).counts.unreviewed,
     reviewed: () => { const report = researchReport(loadResearch(), day); return report.candidates - report.counts.unreviewed; },
-    write: round => {
-      const prompt = `This is research round ${round} of the single daily batch. Read the current queue; earlier rounds may already have completed some candidates. Continue every remaining candidate. Apply the no-slop rules during writing. Do not ask interactive questions: record specific source blockers for retry. Do not launch the site, signal processes, edit existing articles, commit or push. CI owns publication.\n\n${brief}`;
+    write: (round, { idle }) => {
+      const assignment = researchAssignment(loadResearch(), day, { round, idle });
+      fs.writeFileSync(path.join(RESEARCH_DIR, 'assignment.json'), JSON.stringify(assignment, null, 2) + '\n');
+      const prompt = `This is research round ${round} of the single daily batch. Your assigned ${assignment.candidates.length} candidates are in .cache/news-research/assignment.json. Use node scripts/news-research.mjs queue --assigned for their current state. Review these candidates one at a time and checkpoint each outcome immediately; stop when this assignment is covered. The coordinator will assign the remaining ${assignment.totalPending} pending candidates in later rounds, so this is not an article-count cap. ${idle ? 'The previous invocation made no persisted progress. This retry assigns one candidate: finish its source checks and record its actual outcome before doing anything else. ' : ''}Do not reopen completed reviews. Reuse restored drafts when available and recheck their sources. Do not invent URLs or mark sources read from headlines alone. Apply the no-slop rules during writing. Do not ask interactive questions: record specific source blockers for retry. Do not launch the site, signal processes, edit existing articles, commit or push. CI owns publication.\n\n${brief}`;
       invoke(prompt);
     },
     validate: () => validateNewsRun({ persist: true }),

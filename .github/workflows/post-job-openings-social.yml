@@ -29,6 +29,14 @@ on:
         default: false
   workflow_call:
     inputs:
+      slot:
+        description: 'Scheduled posting slot'
+        type: string
+        required: true
+      date:
+        description: 'UTC date of the scheduled posting slot'
+        type: string
+        required: true
       platform:
         description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook). Instagram uses the video workflow.'
         type: string
@@ -104,6 +112,8 @@ jobs:
           SOCIAL_DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
           SOCIAL_SLUG: ${{ inputs.slug || '' }}
           SOCIAL_FORCE: ${{ inputs.force && 'true' || 'false' }}
+          SOCIAL_PUBLISH_SLOT: ${{ inputs.slot }}
+          SOCIAL_PUBLISH_DATE: ${{ inputs.date }}
         run: |
           ARGS=(--platform "$SOCIAL_PLATFORM")
           if [ "$SOCIAL_DRY_RUN" = "true" ]; then

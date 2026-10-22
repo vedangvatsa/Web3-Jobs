@@ -44,12 +44,15 @@ import * as path from 'path';
 import dotenv from 'dotenv';
 import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x';
 import { linkedInTargets, hasLinkedInReceipt, type LinkedInTarget } from './linkedin-targets';
+import { verifyLinkedInBuffer } from './job-linkedin-verification';
+export { verifyLinkedInBuffer } from './job-linkedin-verification';
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
 import { assertPublishableJob, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES } from '../lib/job-publish-guard.mjs';
 import { createSocialStateStore, deliverSocialPost, hasVerifiedPostReceipt, SocialStateError, type SocialState, type SocialHistoryEntry } from './job-social-state';
+import { createJobSocialSlotGuard } from './job-social-slot';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -463,6 +466,7 @@ export async function postToBluesky(
     const imgRes = await fetch(ogImageUrl);
     if (imgRes.ok) {
       const buffer = await imgRes.arrayBuffer();
+      await beforeSend();
       const uploadRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.uploadBlob', {
         method: 'POST',
         headers: {
@@ -767,29 +771,13 @@ export async function postToLinkedInBuffer(
 
 const LINKEDIN_BOT_UA = 'LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient)';
 
-export async function verifyLinkedInBuffer(target: LinkedInTarget, postId: string, expectedText: string): Promise<{permalink: string}> {
-  const response = await fetch('https://api.buffer.com/graphql', {
-    method: 'POST', headers: {'Content-Type': 'application/json', Authorization: `Bearer ${process.env.BUFFER_ACCESS_TOKEN || ''}`},
-    body: JSON.stringify({query: 'query ($id: PostId!) { post(input: {id: $id}) { id text channelId channelService status externalLink } }', variables: {id: postId}}),
-    signal: AbortSignal.timeout(30000),
-  });
-  const data = await response.json();
-  const post = data.data?.post;
-  if (!response.ok || data.errors?.length || post?.id !== postId || post.channelId !== target.channelId
-    || post.channelService !== 'linkedin' || post.text !== expectedText || post.status !== 'sent'
-    || typeof post.externalLink !== 'string' || !/^https:\/\/(?:www\.)?linkedin\.com\/(?:posts\/|feed\/update\/)/.test(post.externalLink)) {
-    throw new Error(`LinkedIn ${target.label} receipt ${postId} remains pending; read-only reconciliation required`);
-  }
-  return {permalink: post.externalLink};
-}
-
 async function reconcilePendingLinkedInPosts(state: SocialState, save: () => Promise<void>) {
   for (const entry of state.history) {
     if (entry.platform !== 'linkedin' || entry.provider !== 'buffer' || entry.verification !== 'pending' || !entry.postId || !entry.expectedText) continue;
     const target = linkedInTargets().find(target => target.channelId === entry.account);
     if (!target) continue;
     try {
-      Object.assign(entry, await verifyLinkedInBuffer(target, entry.postId, entry.expectedText), {verification: 'verified'});
+      Object.assign(entry, await verifyLinkedInBuffer(target, entry.postId, entry.expectedText, {attempts: 1}), {verification: 'verified'});
       await save();
     } catch (error) {
       if (error instanceof SocialStateError) throw error;
@@ -939,7 +927,7 @@ function hasExpectedJobOgImage(imageUrl: string, expectedImageUrl: string): bool
   );
 }
 
-async function refreshFacebookPreview(linkUrl: string, expectedPreview: LinkedInPreview): Promise<void> {
+async function refreshFacebookPreview(linkUrl: string, expectedPreview: LinkedInPreview, beforeSend: () => Promise<void>): Promise<void> {
   const { pageId, pageToken } = getFacebookPageCredentials();
   const accountRes = await fetch(
     `https://graph.facebook.com/v21.0/me?fields=id,name&access_token=${encodeURIComponent(pageToken)}`
@@ -950,6 +938,7 @@ async function refreshFacebookPreview(linkUrl: string, expectedPreview: LinkedIn
   }
 
   const params = new URLSearchParams({ id: linkUrl, scrape: 'true', access_token: pageToken });
+  await beforeSend();
   const scrapeRes = await fetch('https://graph.facebook.com/v21.0/', {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -1074,13 +1063,13 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
   const requestedPlatforms: readonly SocialPlatform[] = platform === 'all' || platform === 'both'
     ? SOCIAL_PLATFORMS
     : [platform];
+  const posting = createJobSocialSlotGuard();
 
   console.log(`\n========================================`);
   console.log(` Social Job Poster [${isDryRun ? 'DRY RUN' : 'LIVE'}]`);
   console.log(` Target Platform: ${platform.toUpperCase()}`);
   console.log(`========================================\n`);
 
-  const jobs = await loadJobs();
   const store = options.store || createSocialStateStore({file: path.join(__dirname, 'jobs-social-posted.json')});
   const state = await store.loadState(!isDryRun);
   const save = () => store.saveState(state);
@@ -1090,8 +1079,10 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     await reconcilePendingThreadsPosts(state, save);
     if (requestedPlatforms.includes('linkedin')) await reconcilePendingLinkedInPosts(state, save);
     if (reconcileCompletedPendingSlugs(state)) await save();
+    posting.assertOpen();
   }
 
+  const jobs = await loadJobs();
   const postedSet = new Set(state.postedSlugs);
 
   // Find next unposted job
@@ -1189,10 +1180,12 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     const { company, title, slug } = currentJob;
     const shouldPostAll = platform === 'all' || platform === 'both';
     if (++checkedCandidates > MAX_PREFLIGHT_CANDIDATES) throw new Error('Job preflight candidate limit reached; no unverified fallback permitted');
-    const beforeSend = () => assertPublishableJob(currentJob);
+    const preflight = () => assertPublishableJob(currentJob);
+    const beforeSend = isDryRun ? preflight : posting.beforeSend(preflight);
     try {
       await beforeSend();
     } catch (error) {
+      if (!isDryRun) posting.assertOpen();
       if (targetSlug) throw error;
       console.warn(`Skipped ${slug}: ${(error as Error).message}`);
       rejectedPreviewSlugs.add(slug);
@@ -1234,6 +1227,7 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
   // Avoid mixed preview metadata while a production rollout is in flight.
   if (!isDryRun) {
     await waitForQuietDeploy();
+    posting.assertOpen();
   }
 
   // Verify OG Image responds with 200
@@ -1334,6 +1328,7 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     continue;
   }
 
+   posting.assertOpen();
    if (requestedPlatforms.some(shouldPublishPlatform) && markSlugPending(state, slug)) {
      await save();
    }
@@ -1456,7 +1451,7 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
             const link = {url: linkedinUrl, title: preview.title, description: preview.description || undefined, thumbnail: preview.image};
             const entry = await deliver('linkedin', linkedinPostText, {text: linkedinPostText, link, target},
               () => target.transport === 'direct'
-                ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link, beforeSend)
+                ? new PersonalLinkedInClient(personalLinkedInConfig(), posting.guardRestMutations(fetch)).create(linkedinPostText, link, beforeSend)
                 : postToLinkedInBuffer(target, linkedinPostText, link, beforeSend),
               {account: target.channelId, provider: target.transport === 'direct' ? 'linkedin-direct' : 'buffer'},
               target.transport === 'direct' ? undefined : id => verifyLinkedInBuffer(target, id, linkedinPostText));
@@ -1481,7 +1476,7 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
       console.log('Publishing to Facebook Page (Meta Graph API link feed)...');
        const preview = verifiedPreviews.get('facebook');
        if (!preview) throw new Error('Facebook publish skipped because its preview was not verified');
-       await refreshFacebookPreview(facebookUrl, preview);
+       await refreshFacebookPreview(facebookUrl, preview, beforeSend);
       const entry = await deliver('facebook', facebookPostText, {message: facebookPostText, link: facebookUrl},
         () => postToFacebook(facebookPostText, facebookUrl, beforeSend));
       console.log(`✓ Successfully published to Facebook! Post ID: ${entry.postId}`);

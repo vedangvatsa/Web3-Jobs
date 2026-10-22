@@ -242,9 +242,10 @@ test('LinkedIn verification requires sent status plus exact channel, text and pe
     assert.doesNotMatch(JSON.parse(String(init?.body)).query, /mutation/);
     return Response.json({data: {post: actual}});
   });
-  assert.equal((await verifyLinkedInBuffer(target, 'buffer', 'original')).permalink, post.externalLink);
+  const options = {token: 'offline', attempts: 1};
+  assert.equal((await verifyLinkedInBuffer(target, 'buffer', 'original', options)).permalink, post.externalLink);
   for (const changed of [{status: 'scheduled'}, {channelId: 'other'}, {text: 'different'}, {externalLink: 'https://example.com/123'}]) {
-    actual = {...post, ...changed}; await assert.rejects(verifyLinkedInBuffer(target, 'buffer', 'original'), /remains pending/);
+    actual = {...post, ...changed}; await assert.rejects(verifyLinkedInBuffer(target, 'buffer', 'original', options), /remains pending/);
   }
 });
 

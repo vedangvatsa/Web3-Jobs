@@ -1,0 +1,48 @@
+name: Inspect known LinkedIn job receipts
+
+on:
+  workflow_dispatch:
+    inputs:
+      post_ids:
+        description: Comma-separated known Buffer post IDs from the job ledger
+        type: string
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - name: Test read-only LinkedIn diagnostics
+        run: node --import tsx --test scripts/social/job-social-linkedin.test.ts
+      - name: Read known company posts without creating or changing receipts
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_LINKEDIN_CHANNEL_ID: ${{ secrets.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb' }}
+          BUFFER_CVINBIO_CHANNEL_ID: ${{ vars.BUFFER_CVINBIO_CHANNEL_ID || '6a134180c687a22dd420e089' }}
+          POST_IDS: ${{ inputs.post_ids }}
+        run: |
+          mkdir -p .cache/job-provider-checks
+          IFS=',' read -r -a ids <<< "$POST_IDS"
+          args=()
+          for id in "${ids[@]}"; do args+=(--post-id="$id"); done
+          node --import tsx scripts/social/inspect-job-linkedin-receipts.ts "${args[@]}" | tee .cache/job-provider-checks/linkedin.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: linkedin-job-readback-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .cache/job-provider-checks/
+          include-hidden-files: true
+          retention-days: 30

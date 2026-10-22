@@ -5,11 +5,13 @@ name: Publish Jobs, Events & Social
 # so the on-time clock is an external workflow_dispatch (Mac launchd or
 # Cloud Scheduler). The cron below stays as a backup. Successful daily work,
 # rollouts, and social slots have separate completion stamps.
-# Telegram publishers run independently from event fetching. A slot can send
-# during its first 60 minutes; late backups cannot catch up with extra posts.
+# Social and Telegram start after the gate using already-published catalogs,
+# independently of ingestion, news drafting, event fetching, and deployment.
+# Telegram can send during a slot's first 60 minutes; late backups cannot
+# catch up with extra posts.
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
-# Resend alerts, social, and Telegram. Auto-deploy stays off.
+# Resend alerts. Social and Telegram run alongside this work. Auto-deploy stays off.
 # A news failure does not skip that rollout. The jobs catalog still ships.
 # If that morning run never starts, the next slot the same UTC day runs
 # the morning work instead of skipping it.
@@ -201,12 +203,15 @@ jobs:
     secrets: inherit
 
   post-openings:
-    needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' }}
+    needs: [gate]
+    if: ${{ needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' }}
     permissions:
       contents: write
       checks: read
     uses: ./.github/workflows/post-job-openings-social.yml
+    with:
+      slot: ${{ needs.gate.outputs.slot }}
+      date: ${{ needs.gate.outputs.date }}
     secrets: inherit
 
   post-videos:
@@ -335,24 +340,33 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Test daily news discovery and publication
-        run: node --test scripts/check-news-writer.test.mjs scripts/restore-news-drafts.test.mjs scripts/news-review-batch.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+        run: node --test scripts/check-news-writer.test.mjs scripts/select-news-recovery.test.mjs scripts/restore-news-drafts.test.mjs scripts/news-review-batch.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
       - name: Prepare the daily candidate queue
         id: research
         run: node scripts/news-research.mjs prepare
 
+      - name: Select same-day unpublished news recovery
+        id: recovery
+        if: ${{ steps.research.outputs.needs_writer == 'true' }}
+        timeout-minutes: 5
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          NEWS_RECOVERY_RUN: ${{ inputs.news_recovery_run }}
+        run: node scripts/select-news-recovery.mjs
+
       - name: Download unpublished news recovery
-        if: ${{ inputs.news_recovery_run != '' && steps.research.outputs.needs_writer == 'true' }}
+        if: ${{ steps.recovery.outputs.run_id != '' && steps.research.outputs.needs_writer == 'true' }}
         uses: actions/download-artifact@v4
         with:
           github-token: ${{ github.token }}
           repository: ${{ github.repository }}
-          run-id: ${{ inputs.news_recovery_run }}
-          name: news-research-${{ inputs.news_recovery_run }}-1
+          run-id: ${{ steps.recovery.outputs.run_id }}
+          name: ${{ steps.recovery.outputs.artifact_name }}
           path: .cache/news-research-restore
 
       - name: Restore unpublished drafts for fresh review
-        if: ${{ inputs.news_recovery_run != '' && steps.research.outputs.needs_writer == 'true' }}
+        if: ${{ steps.recovery.outputs.run_id != '' && steps.research.outputs.needs_writer == 'true' }}
         run: node scripts/restore-news-drafts.mjs
 
       - name: Install opencode
@@ -461,8 +475,8 @@ jobs:
 
   refresh-and-post:
     name: Telegram (${{ matrix.kind }})
-    needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
+    needs: [gate]
+    if: ${{ needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 25
     strategy:

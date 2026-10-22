@@ -8,6 +8,10 @@ import { assertPostingWindow, assertUnsentSlot, hasSentSlot, isPostingWindow, po
 import { planSlot } from './publish-slot-plan.mjs';
 import { prepareTelegramSlot } from './prepare-telegram-slot.mjs';
 
+const require = createRequire(import.meta.url);
+const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
+const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
+
 test('three daily windows use UTC, including the next-day IST evening slot', () => {
   for (const [name, utc, ist] of [['morning', '03:30', '09:00'], ['afternoon', '11:30', '17:00'], ['evening', '19:30', '01:00']]) {
     const slot = postingSlot(name, '2026-09-29');
@@ -31,6 +35,26 @@ test('observed late backup runs cannot trigger social posts or reset slot comple
   assert.equal(planSlot(state, 'afternoon', '2026-09-29', '2026-09-29T11:30:08Z').social, true);
   assert.equal(planSlot(state, 'afternoon', '2026-09-29', '2026-09-29T18:40:09Z').social, false);
   assert.equal(planSlot(state, 'evening', '2026-09-29', '2026-09-29T23:52:07Z').social, false);
+});
+
+test('Oct 22 publishers can start in the morning window before the delayed news and rollout finish', () => {
+  const date = '2026-10-22';
+  const slot = postingSlot('morning', date);
+  const finishedAt = Object.fromEntries(Object.entries({
+    gate: '03:33', ingest: '03:45', 'publish-news': '05:05', deploy: '05:25',
+  }).map(([job, time]) => [job, Date.parse(`${date}T${time}:00Z`)]));
+  assert.equal(planSlot({}, 'morning', date, finishedAt.gate).social, true);
+  assert.throws(() => assertPostingWindow(slot, finishedAt.deploy), /Outside posting window/);
+  for (const name of ['refresh-and-post', 'post-openings']) {
+    const job = workflow.jobs[name];
+    const readyAt = Math.max(...job.needs.map(dependency => finishedAt[dependency]));
+    assert.equal(readyAt, finishedAt.gate, `${name} must not wait for daily publication`);
+    assert.doesNotThrow(() => assertPostingWindow(slot, readyAt));
+    assert.match(job.if, /needs\.gate\.result == 'success'/);
+    assert.match(job.if, /needs\.gate\.outputs\.skip != 'true'/);
+    assert.match(job.if, /needs\.gate\.outputs\.social == 'true'/);
+    assert.doesNotMatch(job.if, /needs\.(?:ingest|deploy|publish-news)\.|always\(\)/);
+  }
 });
 
 test('slot receipts and legacy on-time receipts prevent repeats independently per destination', () => {
@@ -57,15 +81,60 @@ test('posting uses only a validated live catalog and preserves the snapshot on f
   assert.deepEqual(JSON.parse(fs.readFileSync(file, 'utf8')), events);
 });
 
-test('workflow isolates Telegram publishers from event fetching and backs up each matrix leg', () => {
-  const require = createRequire(import.meta.url);
-  const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
-  const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
+test('independent Telegram jobs use only live source dates within 30 days, never the unpublished checkout', async t => {
+  const cwd = fs.mkdtempSync(path.join(os.tmpdir(), 'telegram-jobs-catalog-'));
+  t.after(() => fs.rmSync(cwd, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(cwd, 'content'));
+  const file = path.join(cwd, 'content', 'jobs-runtime.json');
+  const slot = postingSlot('morning', '2026-10-22');
+  const now = slot.start + 3 * 60000;
+  t.mock.method(Date, 'now', () => now);
+  const job = (slug, fields = {}) => ({ id: slug, slug, title: 'Engineer', company: 'Example', link: `https://careers.example.com/${slug}`, date: new Date(now - 86400000).toISOString(), dateVerified: true, ...fields });
+  fs.writeFileSync(file, JSON.stringify([job('unpublished')]));
+  const cutoff = now - 30 * 86400000;
+  const eligible = [job('published'), job('exactly-30-days', { date: new Date(cutoff).toISOString() })];
+  const excluded = [
+    job('expired', { date: new Date(cutoff - 1).toISOString(), updatedAt: new Date(now).toISOString() }),
+    job('unknown', { date: null }), job('unverified', { dateVerified: false }),
+    job('future', { date: new Date(now + 1).toISOString() }), job('inactive', { active: false }),
+  ];
+  await prepareTelegramSlot('jobs', { cwd, slot, request: async url => {
+    assert.equal(url, 'https://hashtagweb3.com/data/jobs-runtime.json');
+    return Response.json([...eligible, ...excluded]);
+  } });
+  assert.deepEqual(JSON.parse(fs.readFileSync(file, 'utf8')), eligible);
+  await prepareTelegramSlot('jobs', { cwd, slot, request: async () => Response.json(excluded) });
+  assert.deepEqual(JSON.parse(fs.readFileSync(file, 'utf8')), []);
+});
+
+test('queued Telegram publishers reject expired slots before fetching catalogs or changing snapshots', async t => {
+  const cwd = fs.mkdtempSync(path.join(os.tmpdir(), 'telegram-expired-slot-'));
+  t.after(() => fs.rmSync(cwd, { recursive: true, force: true }));
+  fs.mkdirSync(path.join(cwd, 'content'));
+  const file = path.join(cwd, 'content', 'jobs-runtime.json');
+  fs.writeFileSync(file, '["previous"]');
+  const slot = postingSlot('morning', '2026-10-22');
+  t.mock.method(Date, 'now', () => Date.parse('2026-10-22T05:25:00Z'));
+  for (const kind of workflow.jobs['refresh-and-post'].strategy.matrix.kind) {
+    await assert.rejects(prepareTelegramSlot(kind, { cwd, slot, request: async () => assert.fail('Expired slots must not fetch') }), /Outside posting window/);
+  }
+  assert.equal(fs.readFileSync(file, 'utf8'), '["previous"]');
+});
+
+test('workflow isolates Telegram publishers from daily publication and backs up each matrix leg', () => {
   const telegram = workflow.jobs['refresh-and-post'];
   assert.deepEqual(telegram.strategy.matrix.kind, ['jobs', 'events', 'news', 'group-news', 'ai-news']);
   assert.equal(telegram.strategy['fail-fast'], false);
-  assert.ok(!telegram.needs.includes('refresh-events'));
-  assert.ok(telegram.env.TELEGRAM_PUBLISH_DATE && telegram.env.TELEGRAM_PUBLISH_SLOT);
+  assert.deepEqual(telegram.needs, ['gate']);
+  assert.equal(telegram.env.TELEGRAM_PUBLISH_DATE, '${{ needs.gate.outputs.date }}');
+  assert.equal(telegram.env.TELEGRAM_PUBLISH_SLOT, '${{ needs.gate.outputs.slot }}');
+  const ready = telegram.steps.findIndex(step => step.id === 'ready');
+  assert.equal(telegram.steps[ready].run, "node scripts/social/prepare-telegram-slot.mjs '${{ matrix.kind }}'");
+  for (const [index, step] of telegram.steps.entries()) if (step.name?.startsWith('Post to Telegram')) {
+    assert.ok(index > ready);
+    assert.match(step.if, /steps\.ready\.outcome == 'success'/);
+    assert.doesNotMatch(step.run, /--force/);
+  }
   assert.ok(telegram.steps.every(step => !/fetch-web3-events|sync-token2049-events/.test(step.run || '')));
   assert.ok(telegram.steps.find(step => step.name === 'Preserve Telegram receipts').with['include-hidden-files']);
   assert.match(telegram.steps.find(step => step.name === 'Persist Telegram history independently').if, /always\(\)/);

@@ -21,6 +21,20 @@ test('news and deployment remain one daily batch while social has three slots', 
   assert.equal(planSlot(state, 'evening', today).social, true);
   assert.equal(planSlot(state, 'morning', '2026-09-26').news, true);
 });
+
+test('on-time social completion survives late news failure without replaying the morning slot', () => {
+  const date = '2026-10-22';
+  const morning = planSlot({}, 'morning', date, '2026-10-22T03:33:00Z');
+  assert.equal(morning.social, true);
+  const state = recordSlot({}, morning, { ingest: 'success', news: 'failure', deploy: 'success', posts: 'success', telegram: 'success' });
+  assert.equal(state.slots.morning, date);
+  assert.equal(planSlot(state, 'morning', date, '2026-10-22T04:00:00Z').social, false);
+  const late = planSlot(state, 'morning', date, '2026-10-22T05:25:00Z');
+  assert.deepEqual([late.morning, late.news, late.deploy, late.social, late.skip], [false, true, false, false, false]);
+  const afternoon = planSlot(state, 'afternoon', date, '2026-10-22T11:30:00Z');
+  assert.deepEqual([afternoon.morning, afternoon.news, afternoon.deploy, afternoon.social], [false, true, false, true]);
+});
+
 test('old false morning stamp still retries deployment', () => {
   const plan = planSlot({ morning: today, afternoon: today }, 'afternoon', today);
   assert.equal(plan.skip, false);
