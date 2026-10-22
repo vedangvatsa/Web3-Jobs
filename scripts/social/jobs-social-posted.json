@@ -40025,7 +40025,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "4e83aa5e-5669-4d6e-b43e-5c106ffc1d11",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad99f19deacf5d2532f4ec5"
     }
   ]
 }
