@@ -44127,7 +44127,8 @@
       },
       "account": "channel:defi",
       "attemptId": "133f6837-7f75-42c9-82d1-309b3e6bf466",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8805808c7299d7ac307037448a0fc654ab3fafe7"
     }
   ]
 }
