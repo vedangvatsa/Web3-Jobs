@@ -72550,13 +72550,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T23:24:01.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "OCC primary + Decrypt + CoinDesk + Cointelegraph",
+      "note": "Re-read the OCC Oct. 21 news release 2026-92, Decrypt and CoinDesk coverage: first GENIUS Act final rule, effective Jan. 18, 2027, reserve/redemption/risk standards, no safe harbor for pre-existing rewards programs. Drafted content/articles/occgenius.md (734 body words, hosts: occ.gov, decrypt.co, coindesk.com); hero image OCC HQ sign by MBisanz via Wikimedia (CC BY-SA 3.0), compressed to 218KB.",
       "sourceChecks": [
         {
           "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
@@ -72571,7 +72571,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:08:25.853Z",
+      "reviewedAt": "2026-10-22T09:47:27.700Z",
       "articleSlug": "occgenius",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -72591,17 +72591,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b8c0039794f871c2439a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T23:22:54.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "same OCC final rule story; covered by the ready draft.",
+      "note": "Same OCC GENIUS Act final rule story already covered by the ready occgenius draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-22T09:47:27.700Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "d827e4da47d80b199d72"
     },
     "877c888579d259ba11cc": {
       "source": "Crypto Briefing",
@@ -133458,6 +133459,36 @@
             }
           ],
           "reviewedAt": "2026-10-22T09:31:30.100Z"
+        },
+        "d827e4da47d80b199d72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the OCC Oct. 21 news release 2026-92, Decrypt and CoinDesk coverage: first GENIUS Act final rule, effective Jan. 18, 2027, reserve/redemption/risk standards, no safe harbor for pre-existing rewards programs. Drafted content/articles/occgenius.md (734 body words, hosts: occ.gov, decrypt.co, coindesk.com); hero image OCC HQ sign by MBisanz via Wikimedia (CC BY-SA 3.0), compressed to 218KB.",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:47:27.700Z",
+          "articleSlug": "occgenius"
+        },
+        "b8c0039794f871c2439a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OCC GENIUS Act final rule story already covered by the ready occgenius draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T09:47:27.700Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
         }
       },
       "baselineSlugs": [
