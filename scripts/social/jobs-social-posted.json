@@ -42574,8 +42574,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7c0ef0f7-a5d9-4b07-b0ba-bb1ba875da41",
-      "verification": "pending",
-      "postId": "6ad9f5b8ebec8224f3bd4ae6"
+      "verification": "verified",
+      "postId": "6ad9f5b8ebec8224f3bd4ae6",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518999318830379009"
     }
   ]
 }
