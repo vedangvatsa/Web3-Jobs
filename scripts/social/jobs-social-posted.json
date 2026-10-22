@@ -44199,7 +44199,8 @@
       },
       "account": "channel:product",
       "attemptId": "81e3f1cf-93f7-4c5d-a83e-1d731cc99576",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc0930d37b25905da9c5c7e0b298636cec606d880"
     }
   ]
 }
