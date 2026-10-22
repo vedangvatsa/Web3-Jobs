@@ -73105,11 +73105,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5bf88db82bc3cc461",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:50:52.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Cointelegraph + PancakeSwap governance page; The Flip fee vote, 88% LP share, emissions cut, TVL $2.4B.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+          "outcome": "read"
+        },
+        {
+          "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "articleSlug": "cakeflip",
+      "lastReviewedDay": "2026-10-22"
     },
     "71cb713994d7bbf29390": {
       "source": "CoinDesk",
@@ -73147,11 +73162,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "82d09df67c8d5c5bfdb9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T08:16:47.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same The Flip governance vote and CAKE supply condition; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "duplicateOf": "cakeflip",
+      "mergedInto": "fdc5bf88db82bc3cc461",
+      "lastReviewedDay": "2026-10-22"
     },
     "ba330b79160750fe7e3a": {
       "source": "Cointelegraph",
@@ -73222,11 +73244,30 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:43:45.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Crypto Briefing + GitHub Charon release; eMudhra CA incident drives urgent Charon v1.11.2 upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "articleSlug": "charonupgrade",
+      "lastReviewedDay": "2026-10-22"
     },
     "7ca8220be803051b7f4f": {
       "source": "The Defiant",
@@ -132720,6 +132761,53 @@
           "reviewedAt": "2026-10-22T04:24:00.815Z",
           "duplicateOf": "emudhra",
           "mergedInto": "0dcd71cd0d00895c9c79"
+        },
+        "fdc5bf88db82bc3cc461": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cointelegraph + PancakeSwap governance page; The Flip fee vote, 88% LP share, emissions cut, TVL $2.4B.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+              "outcome": "read"
+            },
+            {
+              "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:28:15.146Z",
+          "articleSlug": "cakeflip"
+        },
+        "82d09df67c8d5c5bfdb9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same The Flip governance vote and CAKE supply condition; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:28:15.146Z",
+          "duplicateOf": "cakeflip",
+          "mergedInto": "fdc5bf88db82bc3cc461"
+        },
+        "555b03b302d276314cb0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Crypto Briefing + GitHub Charon release; eMudhra CA incident drives urgent Charon v1.11.2 upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:28:15.146Z",
+          "articleSlug": "charonupgrade"
         }
       },
       "baselineSlugs": [
