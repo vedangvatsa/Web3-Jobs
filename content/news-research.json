@@ -69134,25 +69134,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "39a28b159642ab2ee9e6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T18:14:28.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-21T04:10:34.491Z",
+      "reason": "price-chatter",
+      "note": "JPMorgan's first long-term bitcoin return forecast is a projection; predictions are excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
       "retrySearches": [
         "Find independent reporting on: JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22"
     },
     "e28e21a9b67e4ad6fe5f": {
       "source": "Decrypt",
@@ -71322,25 +71316,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "f88efe29fd4f88f5f039",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T16:20:40.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-21T04:10:34.491Z",
+      "reason": "promotional",
+      "note": "OKX protection plan featuring former NY Gov. Cuomo reads as promotional positioning without a verifiable product change.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
       "retrySearches": [
         "Find independent reporting on: OKX is putting its money where its mouth is with new protection plan: Former NY "
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22"
     },
     "861c3ccd7eff1f39fca4": {
       "source": "Bankless",
@@ -71943,25 +71931,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "2057b8fe3b7465a9e20e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T13:22:00.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/walt-plans-ai-perpetuals-trading-through-mira-chatgpt-and-claude",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-21T04:10:34.491Z",
+      "reason": "not-a-concrete-event",
+      "note": "Walt saying it plans AI perpetuals trading through chat assistants is a roadmap remark without a shipped product.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
       "retrySearches": [
         "Find independent reporting on: Walt Plans AI Perpetuals Trading Through Mira, ChatGPT and Claude"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22"
     },
     "f4a48b73de36786ae112": {
       "source": "CoinDesk",
@@ -72367,11 +72349,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "26b3bb0e3bc3ed7e6ca1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T03:21:32.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "US heating oil reserve policy is not a Web3 or crypto event; outside the publication scope.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "3c5fe56d31f2fd48e10c": {
       "source": "Crypto Briefing",
@@ -72388,11 +72375,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c5fe56d31f2fd48e10c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T03:07:21.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Apple appeal of an Australian app store ruling concerns general big tech regulation, not crypto or Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "223942039ddb42dedd48": {
       "source": "BeInCrypto",
@@ -72430,11 +72422,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "944f3719323a7c5d4899",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:05:04.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Michigan Senate race endorsement by the DSCC is US politics, not a crypto story.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "d827e4da47d80b199d72": {
       "source": "Crypto Briefing",
@@ -72514,11 +72511,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a7f6d1fbe0ceeb8b59f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:23:21.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Virginia district fundraising for House control is electoral politics, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "33e9137878190c73e286": {
       "source": "Unchained",
@@ -72577,11 +72579,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f706191a6a5b1a8cc8d8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:19:39.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Noting Trump did not say crypto at a cybercrime roundtable is a non-event observation.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "2ba7d71759c6d5852e5c": {
       "source": "Unchained",
@@ -72850,11 +72857,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a98e28e567f25130ac6d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:12:36.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Analysis of why centralized exchanges refuse legacy tokens without SEC immunity is commentary, not a discrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "c523e1b5b12267eabb72": {
       "source": "The Defiant",
@@ -73039,11 +73051,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba330b79160750fe7e3a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T08:11:50.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Ether ETF outflow totals are market flow data, treated as price and flows chatter rather than a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "9258bd8525e496ce85ad": {
       "source": "The Block",
@@ -73172,11 +73189,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "df770122e01290679eec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:34:37.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Crypto rising with Asian tech stocks and a zcash gain is market recap chatter.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "aabb4d1716bd4636b5a6": {
       "source": "CoinDesk",
@@ -73235,11 +73257,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "16bcca1d5d77e1efa918",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:30:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "An executive estimate of $20 million a week in Coinbase tokenized stock volume is a data remark without a filing, launch or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "5785b055a64bc6aa90b3": {
       "source": "CryptoSlate",
@@ -73298,11 +73325,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "77c41a3aed6bd14008e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:00:04.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Analysis of earning XRP yield through a wallet is commentary on product risk, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "843d2d337606d6824758": {
       "source": "CryptoSlate",
@@ -73445,11 +73477,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f9efb4d09a2217461ad2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T18:00:34.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Bankless quantum to-do list for bitcoin is an editorial agenda piece, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "be6d4b4bac5366d5bd43": {
       "source": "Decrypt",
@@ -73466,11 +73503,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "be6d4b4bac5366d5bd43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:31:03.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin hitting a weekly high on a rebound is price recap, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "fdfd9c9404e5e112fd8a": {
       "source": "Bankless",
@@ -73634,11 +73676,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e333bbfb40cea433a99",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:46:14.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin nearing $85,000 on SpaceX earnings is price chatter.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "bbae66d0b46d1f45589d": {
       "source": "Cointelegraph",
@@ -73655,11 +73702,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbae66d0b46d1f45589d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:13:17.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin tagging $84.6K with US stocks higher is market recap, excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "7c1413836d3e01ac4548": {
       "source": "CryptoSlate",
@@ -73676,11 +73728,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c1413836d3e01ac4548",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:10:57.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "XRP bottom-signal analysis with exchange supply figures is price analysis, excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "b2df48ddc9426e42196f": {
       "source": "The Block",
@@ -73718,11 +73775,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b8dd407b69c4a98ce82",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:56:27.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Same JPMorgan ten-year bitcoin price forecast restated; predictions and forecasts are excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "20f5cebce4707dd543d5": {
       "source": "Bitcoin Magazine",
@@ -73739,11 +73801,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "20f5cebce4707dd543d5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:52:51.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Strive SATS yield accretion commentary is analysis and promotion of a treasury strategy, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "28a8ea6c58e96fe61b73": {
       "source": "Bitcoin Magazine",
@@ -73760,11 +73827,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "28a8ea6c58e96fe61b73",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:43:51.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Samson Mow interview on MSTR and bitcoin treasuries is opinion commentary.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "4594be53f68febef91d2": {
       "source": "Cointelegraph",
@@ -73781,11 +73853,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4594be53f68febef91d2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:30:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Listicle of Ledger alternatives is a buyer's guide, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "7aa1f226931b61ada9d6": {
       "source": "The Defiant",
@@ -73823,11 +73900,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bff6fff64dd0f3c49035",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:16:38.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Morning Minute column summarizing a JPMorgan forecast is an opinion brief, not original event reporting.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "577f2c914c27186996af": {
       "source": "The Block",
@@ -73844,11 +73926,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "577f2c914c27186996af",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:55:08.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin volatility near 2026 lows ahead of the Fed and midterms is markets commentary.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "8a1f48a8351737831c54": {
       "source": "The Defiant",
@@ -73886,11 +73973,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dfe873cd695e05bdefba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:15:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Analysis of bitcoin risk management trends lacks a discrete event; opinion and explainer coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "d2f025c4501ec8e593d0": {
       "source": "Cointelegraph",
@@ -73907,11 +73999,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2f025c4501ec8e593d0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:39:13.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Glassnode commentary on bitcoin top buyers at $87.7K is on-chain price analysis.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "a631a9c4ac7f4f5940ae": {
       "source": "CoinDesk",
@@ -73928,11 +74025,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a631a9c4ac7f4f5940ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:30:40.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Live updates on bitcoin holding $84,000 are market tick coverage, excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "49eb81d322b98eabf2e6": {
       "source": "CoinDesk",
@@ -73970,11 +74072,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "36b5cec73ffd08cbde81",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T04:35:52.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "Preview of Alpenglow going live Wednesday duplicates the already-published alpenglow schedule article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "duplicateOf": "alpenglow",
+      "lastReviewedDay": "2026-10-22"
     },
     "890e32904970c8df728a": {
       "source": "CoinDesk",
@@ -73991,11 +74099,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "890e32904970c8df728a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T04:07:07.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin hovering near $83,000 with ZEC jumping is a market recap, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "2b94f569d94821e7b4ab": {
       "source": "The Defiant",
@@ -74012,11 +74125,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b94f569d94821e7b4ab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T03:29:18.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Toy ECDSA example explainer is educational content, not news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "b4189ac24d94813565ed": {
       "source": "The Defiant",
@@ -74033,11 +74151,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4189ac24d94813565ed",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T03:24:18.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Comparison of Mastercard Crypto Credential, KYC, Travel Rule and screening is an explainer, not a discrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "5c99758a09e97d463feb": {
       "source": "CryptoSlate",
@@ -74096,11 +74219,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4e4f8c5d2b6bee66e30f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T02:34:11.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Wall Street banks metering AI compute spend is a general finance and AI story, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "75952ae43af3a37ddedc": {
       "source": "The Defiant",
@@ -74138,11 +74266,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a2371c189fc93c4a6c6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T01:54:45.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "promotional",
+      "note": "Collector Crypt pack sales record is a company-reported volume milestone treated as promotional without independent verification.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "23fb1f290f0981b102fb": {
       "source": "The Defiant",
@@ -74159,11 +74292,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "23fb1f290f0981b102fb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T01:44:47.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "promotional",
+      "note": "Same Collector Crypt $24.3 million pack sales day restated by a second outlet; promotional volume claim without independent verification.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "071b560c69c5c4bd1d77": {
       "source": "The Defiant",
@@ -74201,11 +74339,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0091dc8f20a34b4f96b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T01:18:15.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Bank of Korea rate decision and chip boom commentary is macro policy, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "f6fa75fdee87c4621c85": {
       "source": "BeInCrypto",
@@ -74222,11 +74365,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6fa75fdee87c4621c85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T01:00:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "US-Israel post-midterm Iran strike planning is geopolitics, outside crypto coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "a93de00671c5eab18669": {
       "source": "Unchained",
@@ -74264,11 +74412,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4effb7cc64e0a372e980",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:52:33.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Three dead in attacks on a Saudi oil field and airport is war reporting, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "095addb5e2349dbc2c3f": {
       "source": "Cointelegraph",
@@ -74306,11 +74459,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f369d8b7a77d3556dba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:32:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Wisconsin governor race budget coverage is state politics, not a crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "5f92834495e330290b21": {
       "source": "BeInCrypto",
@@ -74327,11 +74485,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f92834495e330290b21",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:30:20.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Fidelity's Timmer commenting on AI bubble risk and debt is equity market opinion, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "3ee49ad7cd7618ac4a60": {
       "source": "Crypto Briefing",
@@ -74348,11 +74511,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ee49ad7cd7618ac4a60",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:46:20.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI tightening usage limits and targeting a $1.4T valuation is AI corporate news, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "32d8b4c8d1aed667b861": {
       "source": "Crypto Briefing",
@@ -74390,11 +74558,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "35ec3128c489cb762858",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:16:49.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Meta stock rising on AI revenue expectations is equities coverage, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "bbec3cb5c903b4a81fc6": {
       "source": "Unchained",
@@ -74411,11 +74584,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbec3cb5c903b4a81fc6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:15:58.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Project Eleven CEO claiming quantum labs withhold results is an interview opinion, not a verifiable discrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "6bab024791423931eddb": {
       "source": "BeInCrypto",
@@ -74432,11 +74610,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6bab024791423931eddb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:10:03.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Netflix stock at a 26-month low with revenue commentary is equities, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "bac6d1f25d5153985111": {
       "source": "Crypto Briefing",
@@ -74474,11 +74657,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "158fd4ba7c18bdfe2aba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:03:58.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "California county income thresholds amid rising costs is cost-of-living reporting, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "7187d73921b4f86acf1b": {
       "source": "Crypto Briefing",
@@ -74495,11 +74683,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7187d73921b4f86acf1b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:55:32.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Blackstone executive downplaying AI debt concerns is macro finance commentary, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "55d335eb3f78dbfa85ae": {
       "source": "The Defiant",
@@ -74558,11 +74751,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ccc737c7fc7e72f1e3a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:34:10.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Railway secret rotation notice is a SaaS security incident outside the Web3 beat, with only one outlet.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "b1cb3c2524c61d8a26f7": {
       "source": "Unchained",
@@ -74579,11 +74777,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1cb3c2524c61d8a26f7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:30:23.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "promotional",
+      "note": "Fireblocks executive suggesting its wallets power Fiserv bank transfers is speculative product promotion without a disclosed partnership.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "d9092da81b46cb7ac32b": {
       "source": "Crypto Briefing",
@@ -74621,11 +74824,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "68a35c0989c77c646e5f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:55:01.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI usage policy changes for model routers are AI platform governance, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "9806324818ae69707635": {
       "source": "Cointelegraph",
@@ -74684,11 +74892,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "021418db90baa89dedb1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:36:45.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Texas Instruments humanoid robot chip content estimates are semiconductor industry news, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "e2f6a5edc5955f457390": {
       "source": "Crypto Briefing",
@@ -74705,11 +74918,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e2f6a5edc5955f457390",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:34:51.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Yemen government forces reporting Houthi casualties is conflict reporting, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "97a7f8a217785a1e3eb1": {
       "source": "Decrypt",
@@ -74747,11 +74965,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e41158001119ab08ecc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:25:07.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "US order for personnel to leave Saudi Arabia after Houthi attacks is geopolitics, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "9528a7c59390f24802bf": {
       "source": "The Defiant",
@@ -74789,11 +75012,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0533b544034d4d447e76",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:24:47.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Zuckerberg considering leaving California over a proposed billionaire tax is state tax politics, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "eeaee7954ea2f2467539": {
       "source": "Crypto Briefing",
@@ -74831,11 +75059,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7430ac0499f9c3044ac5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:17:53.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Meta's Muse AI app passing 10 million users is consumer AI product news, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "0a2ca3a89724efb71c73": {
       "source": "Crypto Briefing",
@@ -74852,11 +75085,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a2ca3a89724efb71c73",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:14:02.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "External estimates on the cost to scale Muse are AI infrastructure analysis, not crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "409cca9391eb9ab80ce2": {
       "source": "The Defiant",
@@ -74915,11 +75153,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1210e22131dbb15ede99",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:10:30.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Tesla Q3 earnings and AI spending are corporate equities news, not a Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "49dd3d375831aaef6f05": {
       "source": "BeInCrypto",
@@ -74978,11 +75221,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4dcf8c907ce383b4bdcc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:16:02.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Nvidia's blueprint to monitor AI agents is AI platform news, not crypto or blockchain.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "7430a014cab1107136b3": {
       "source": "The Defiant",
@@ -74999,11 +75247,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7430a014cab1107136b3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T19:47:52.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Fee and reach comparison of Krak, PayPal and Cash App is a product comparison, not news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "f471ac0b72974af52567": {
       "source": "The Defiant",
@@ -75020,11 +75273,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f471ac0b72974af52567",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T19:47:17.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "What a 100-contract Polymarket-US versus Kalshi trade costs is a fee comparison, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "7803bd364732fd41421e": {
       "source": "BeInCrypto",
@@ -75041,11 +75299,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7803bd364732fd41421e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T19:33:48.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "A $25 billion Facebook privacy fine and Meta stock reaction is big tech regulation, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "807a7a0b7812295e8bd0": {
       "source": "CryptoSlate",
@@ -75062,11 +75325,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "807a7a0b7812295e8bd0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T19:00:01.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI revealing agents disabled safety monitors is AI lab research, not a crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "a7ab5bcb57d43caf4c53": {
       "source": "The Block",
@@ -75083,11 +75351,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a7ab5bcb57d43caf4c53",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T18:54:36.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Mizuho survey framing Robinhood single-stock perps as strong for HOOD shares is analyst equity opinion, not a discrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "15cbc157d8cab5b8361d": {
       "source": "Decrypt",
@@ -75125,11 +75398,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f316939d81459316224",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T18:42:58.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "Starlink rallying on Wall Street is equity market coverage, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "a1d12b8d1e4ae190bca0": {
       "source": "Decrypt",
@@ -75461,11 +75739,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a2254c41806e2ad9f95",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:22:46.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "How a16z-backed DATA is rethinking strategy after its Sui deal is retrospective analysis, not a new filing, launch or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "cdb0863108c524670124": {
       "source": "The Block",
@@ -75503,11 +75786,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fac4fe43de127db77b32",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:09:22.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Bybit saying it will look for broker partnerships to take on Robinhood is interview ambition without a signed deal or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "c020efbda7b5a1346f0d": {
       "source": "The Defiant",
@@ -75545,11 +75833,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "19e9519781abf08e3005",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:00:53.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Crypto Long & Short column on fixed-rate loans for real-world assets is an opinion column.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "2f98e0b3d53dd160ef4f": {
       "source": "Bitcoin Magazine",
@@ -75608,11 +75901,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ec7857029a5956bcb4e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:48:02.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Blockchain.com CEO interview calling it crypto spring is market opinion, not a discrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "52c80478c29bca8ad11a": {
       "source": "The Defiant",
@@ -75650,11 +75948,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7f382d2a31d03870af73",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:35:28.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Doodles DOOD token surging 212% is token price movement, excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "5fc18dc5d4d14d59ac41": {
       "source": "Cointelegraph",
@@ -75692,11 +75995,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e813dd4725c4d65795e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:16:04.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "GTA 6 trailer meme coin speculation is trader price prediction, excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "a71b76bb79b8ec06ca8e": {
       "source": "The Defiant",
@@ -75909,11 +76217,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "73d8f07f8eaa46f81ee8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:19:34.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "out-of-scope",
+      "note": "PlayStation founder commenting on disc ownership is gaming industry news, not Web3.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "b6d470f69ad5bf8526ef": {
       "source": "The Block",
@@ -76077,11 +76390,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "381b21abc94610efc87b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T09:33:59.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Analysis that OpenStocks BNB tokens offer price exposure rather than shares is commentary on a token design, not a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "26b1b89feacf1590530f": {
       "source": "The Defiant",
@@ -76140,11 +76458,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "39039581e8b719b7b383",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T08:57:29.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "price-chatter",
+      "note": "Monero futures leverage and volatility risks are derivatives market chatter.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "dd35649536f92945b8c1": {
       "source": "The Defiant",
@@ -76287,11 +76610,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e70cac138fedb27011c4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:43:32.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "not-a-concrete-event",
+      "note": "Evergreen explainer on bitcoin-backed loans; educational resource, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T03:43:43.089Z",
+      "lastReviewedDay": "2026-10-22"
     }
   },
   "runs": {
@@ -130824,7 +131152,513 @@
         "6363445a00d1e696a86c",
         "e70cac138fedb27011c4"
       ],
-      "outcomes": {},
+      "outcomes": {
+        "26b3bb0e3bc3ed7e6ca1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US heating oil reserve policy is not a Web3 or crypto event; outside the publication scope.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "3c5fe56d31f2fd48e10c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Apple appeal of an Australian app store ruling concerns general big tech regulation, not crypto or Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "944f3719323a7c5d4899": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Michigan Senate race endorsement by the DSCC is US politics, not a crypto story.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "8a7f6d1fbe0ceeb8b59f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Virginia district fundraising for House control is electoral politics, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "4e4f8c5d2b6bee66e30f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Wall Street banks metering AI compute spend is a general finance and AI story, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "a0091dc8f20a34b4f96b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bank of Korea rate decision and chip boom commentary is macro policy, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "f6fa75fdee87c4621c85": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US-Israel post-midterm Iran strike planning is geopolitics, outside crypto coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "4effb7cc64e0a372e980": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Three dead in attacks on a Saudi oil field and airport is war reporting, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "8f369d8b7a77d3556dba": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Wisconsin governor race budget coverage is state politics, not a crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "5f92834495e330290b21": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Fidelity's Timmer commenting on AI bubble risk and debt is equity market opinion, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "35ec3128c489cb762858": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Meta stock rising on AI revenue expectations is equities coverage, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "6bab024791423931eddb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Netflix stock at a 26-month low with revenue commentary is equities, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "158fd4ba7c18bdfe2aba": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "California county income thresholds amid rising costs is cost-of-living reporting, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7187d73921b4f86acf1b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Blackstone executive downplaying AI debt concerns is macro finance commentary, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "021418db90baa89dedb1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Texas Instruments humanoid robot chip content estimates are semiconductor industry news, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "e2f6a5edc5955f457390": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Yemen government forces reporting Houthi casualties is conflict reporting, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "e41158001119ab08ecc5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US order for personnel to leave Saudi Arabia after Houthi attacks is geopolitics, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "0533b544034d4d447e76": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Zuckerberg considering leaving California over a proposed billionaire tax is state tax politics, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7430ac0499f9c3044ac5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Meta's Muse AI app passing 10 million users is consumer AI product news, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "0a2ca3a89724efb71c73": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "External estimates on the cost to scale Muse are AI infrastructure analysis, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "1210e22131dbb15ede99": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Tesla Q3 earnings and AI spending are corporate equities news, not a Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "4dcf8c907ce383b4bdcc": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Nvidia's blueprint to monitor AI agents is AI platform news, not crypto or blockchain.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7803bd364732fd41421e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "A $25 billion Facebook privacy fine and Meta stock reaction is big tech regulation, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "807a7a0b7812295e8bd0": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI revealing agents disabled safety monitors is AI lab research, not a crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "1f316939d81459316224": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Starlink rallying on Wall Street is equity market coverage, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "3ee49ad7cd7618ac4a60": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI tightening usage limits and targeting a $1.4T valuation is AI corporate news, not crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "68a35c0989c77c646e5f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI usage policy changes for model routers are AI platform governance, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "73d8f07f8eaa46f81ee8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "PlayStation founder commenting on disc ownership is gaming industry news, not Web3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "0ccc737c7fc7e72f1e3a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Railway secret rotation notice is a SaaS security incident outside the Web3 beat, with only one outlet.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "39a28b159642ab2ee9e6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "JPMorgan's first long-term bitcoin return forecast is a projection; predictions are excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "3b8dd407b69c4a98ce82": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Same JPMorgan ten-year bitcoin price forecast restated; predictions and forecasts are excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "ba330b79160750fe7e3a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ether ETF outflow totals are market flow data, treated as price and flows chatter rather than a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "df770122e01290679eec": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Crypto rising with Asian tech stocks and a zcash gain is market recap chatter.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "be6d4b4bac5366d5bd43": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin hitting a weekly high on a rebound is price recap, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "3e333bbfb40cea433a99": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin nearing $85,000 on SpaceX earnings is price chatter.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "bbae66d0b46d1f45589d": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin tagging $84.6K with US stocks higher is market recap, excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7c1413836d3e01ac4548": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP bottom-signal analysis with exchange supply figures is price analysis, excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "577f2c914c27186996af": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin volatility near 2026 lows ahead of the Fed and midterms is markets commentary.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "d2f025c4501ec8e593d0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Glassnode commentary on bitcoin top buyers at $87.7K is on-chain price analysis.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "a631a9c4ac7f4f5940ae": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Live updates on bitcoin holding $84,000 are market tick coverage, excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "890e32904970c8df728a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin hovering near $83,000 with ZEC jumping is a market recap, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7f382d2a31d03870af73": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Doodles DOOD token surging 212% is token price movement, excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "39039581e8b719b7b383": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Monero futures leverage and volatility risks are derivatives market chatter.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "9e813dd4725c4d65795e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "GTA 6 trailer meme coin speculation is trader price prediction, excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "20f5cebce4707dd543d5": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Strive SATS yield accretion commentary is analysis and promotion of a treasury strategy, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "bff6fff64dd0f3c49035": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Morning Minute column summarizing a JPMorgan forecast is an opinion brief, not original event reporting.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "dfe873cd695e05bdefba": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analysis of bitcoin risk management trends lacks a discrete event; opinion and explainer coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "3ec7857029a5956bcb4e": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Blockchain.com CEO interview calling it crypto spring is market opinion, not a discrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "381b21abc94610efc87b": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analysis that OpenStocks BNB tokens offer price exposure rather than shares is commentary on a token design, not a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "a98e28e567f25130ac6d": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analysis of why centralized exchanges refuse legacy tokens without SEC immunity is commentary, not a discrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "6a2254c41806e2ad9f95": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "How a16z-backed DATA is rethinking strategy after its Sui deal is retrospective analysis, not a new filing, launch or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "f9efb4d09a2217461ad2": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bankless quantum to-do list for bitcoin is an editorial agenda piece, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "bbec3cb5c903b4a81fc6": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Project Eleven CEO claiming quantum labs withhold results is an interview opinion, not a verifiable discrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "77c41a3aed6bd14008e4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analysis of earning XRP yield through a wallet is commentary on product risk, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "28a8ea6c58e96fe61b73": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Samson Mow interview on MSTR and bitcoin treasuries is opinion commentary.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "a7ab5bcb57d43caf4c53": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Mizuho survey framing Robinhood single-stock perps as strong for HOOD shares is analyst equity opinion, not a discrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "fac4fe43de127db77b32": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bybit saying it will look for broker partnerships to take on Robinhood is interview ambition without a signed deal or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "19e9519781abf08e3005": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Crypto Long & Short column on fixed-rate loans for real-world assets is an opinion column.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "e70cac138fedb27011c4": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Evergreen explainer on bitcoin-backed loans; educational resource, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "4594be53f68febef91d2": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Listicle of Ledger alternatives is a buyer's guide, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "2b94f569d94821e7b4ab": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Toy ECDSA example explainer is educational content, not news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "b4189ac24d94813565ed": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Comparison of Mastercard Crypto Credential, KYC, Travel Rule and screening is an explainer, not a discrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "7430a014cab1107136b3": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Fee and reach comparison of Krak, PayPal and Cash App is a product comparison, not news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "f471ac0b72974af52567": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "What a 100-contract Polymarket-US versus Kalshi trade costs is a fee comparison, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "16bcca1d5d77e1efa918": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "An executive estimate of $20 million a week in Coinbase tokenized stock volume is a data remark without a filing, launch or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "f706191a6a5b1a8cc8d8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Noting Trump did not say crypto at a cybercrime roundtable is a non-event observation.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "2057b8fe3b7465a9e20e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Walt saying it plans AI perpetuals trading through chat assistants is a roadmap remark without a shipped product.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "f88efe29fd4f88f5f039": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "OKX protection plan featuring former NY Gov. Cuomo reads as promotional positioning without a verifiable product change.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "b1cb3c2524c61d8a26f7": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Fireblocks executive suggesting its wallets power Fiserv bank transfers is speculative product promotion without a disclosed partnership.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "0a2371c189fc93c4a6c6": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Collector Crypt pack sales record is a company-reported volume milestone treated as promotional without independent verification.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "23fb1f290f0981b102fb": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Same Collector Crypt $24.3 million pack sales day restated by a second outlet; promotional volume claim without independent verification.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z"
+        },
+        "36b5cec73ffd08cbde81": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Preview of Alpenglow going live Wednesday duplicates the already-published alpenglow schedule article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T03:43:43.089Z",
+          "duplicateOf": "alpenglow"
+        }
+      },
       "baselineSlugs": [
         "abstract-shutdown",
         "agentpay",
