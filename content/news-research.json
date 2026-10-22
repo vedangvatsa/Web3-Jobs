@@ -73453,14 +73453,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "71cb713994d7bbf29390",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T08:47:11.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "CoinMarketCap + Cryptonomist citing CoinDesk; Tether-led $15M Series A, total $28M, AI agent payment controls.",
+      "note": "Re-read Mural primary blog, CoinDesk, Fortune, CoinMarketCap and Cryptonomist. Oct 20 announcement: 5M Series A led by Tether, North Island Ventures, 8M total. Updated draft to cite primary source and Fortune details; audits clean.",
       "sourceChecks": [
+        {
+          "url": "https://muralpay.com/blog/28-million-raised",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+          "outcome": "read"
+        },
+        {
+          "url": "https://fortune.com/2026/10/20/mural-startup-former-palantir-engineers-15-million-bid-banks-bot-economy/",
+          "outcome": "read"
+        },
         {
           "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
           "outcome": "read"
@@ -73470,7 +73482,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "reviewedAt": "2026-10-22T12:02:51.641Z",
       "articleSlug": "tethermural",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135660,6 +135672,35 @@
           ],
           "reviewedAt": "2026-10-22T11:59:25.466Z",
           "articleSlug": "cakeflip"
+        },
+        "71cb713994d7bbf29390": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Mural primary blog, CoinDesk, Fortune, CoinMarketCap and Cryptonomist. Oct 20 announcement: 5M Series A led by Tether, North Island Ventures, 8M total. Updated draft to cite primary source and Fortune details; audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://muralpay.com/blog/28-million-raised",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+              "outcome": "read"
+            },
+            {
+              "url": "https://fortune.com/2026/10/20/mural-startup-former-palantir-engineers-15-million-bid-banks-bot-economy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.cryptonomist.ch/2026/10/21/tether-funding-mural/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:02:51.641Z",
+          "articleSlug": "tethermural"
         }
       },
       "baselineSlugs": [
