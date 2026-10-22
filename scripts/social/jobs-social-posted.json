@@ -42113,7 +42113,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "4dc1f470-ca70-4378-a1e4-a9e8632e1815",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x85d9d38713cd600f9a024853d18d2a110712eb42"
     }
   ]
 }
