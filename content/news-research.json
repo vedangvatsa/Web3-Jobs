@@ -73070,13 +73070,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "adebfc2118208e55e78a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T16:09:26.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Cointelegraph + Crypto Briefing + CoinGape + Inside Crypto + Bitcoin Sistemi; joint Oct. 20 letter from six chains asking SEC to put digital commodity definition in Regulation Crypto Assets operative text.",
+      "note": "Re-read all five outlets (Cointelegraph, Crypto Briefing, CoinGape, Inside Crypto, Bitcoin Sistemi, all Oct. 21): six-org Oct. 20 letter and signers, operative-text ask, Taylor Barr X quote and title, March 17 footnote with six tokens, five-category March interpretation, Ripple/Alderoty quotes, Blockchain Association $5M-to-$10M ask, Hyperliquid Policy Center separate comment, SEC-CFTC boundary point all verified. Repairs: front-matter dates to 2026-10-22; Inside Crypto named mentions cut from 4 to 3 (under attribution cap); near-verbatim Crypto Briefing closing paraphrased for independence. Formatting clean, image audit passes, slug digitalcommodity unowned, hero 224KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
@@ -73097,13 +73097,9 @@
         {
           "url": "https://en.bitcoinsistemi.com/a-joint-application-has-been-filed-with-the-sec-for-six-altcoins-including-cardano-will-the-sec-take/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.sec.gov/about/sec-proposes-regulation-crypto-assets",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "reviewedAt": "2026-10-22T11:42:40.756Z",
       "articleSlug": "digitalcommodity",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135553,6 +135549,35 @@
           ],
           "reviewedAt": "2026-10-22T11:39:46.775Z",
           "articleSlug": "trumpscam"
+        },
+        "adebfc2118208e55e78a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read all five outlets (Cointelegraph, Crypto Briefing, CoinGape, Inside Crypto, Bitcoin Sistemi, all Oct. 21): six-org Oct. 20 letter and signers, operative-text ask, Taylor Barr X quote and title, March 17 footnote with six tokens, five-category March interpretation, Ripple/Alderoty quotes, Blockchain Association $5M-to-$10M ask, Hyperliquid Policy Center separate comment, SEC-CFTC boundary point all verified. Repairs: front-matter dates to 2026-10-22; Inside Crypto named mentions cut from 4 to 3 (under attribution cap); near-verbatim Crypto Briefing closing paraphrased for independence. Formatting clean, image audit passes, slug digitalcommodity unowned, hero 224KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cardano-foundation-sec-digital-commodity-letter/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coingape.com/ripple-cardano-chainlink-hedera-stellar-aptos-avalanche-support-sec-regulation-crypto-assets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://insidecrypto.net/chainlink-cardano-and-six-blockchain-groups-urged-sec-to-codify-digital-commodity-status/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.bitcoinsistemi.com/a-joint-application-has-been-filed-with-the-sec-for-six-altcoins-including-cardano-will-the-sec-take/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:42:40.756Z",
+          "articleSlug": "digitalcommodity"
         }
       },
       "baselineSlugs": [
