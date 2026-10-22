@@ -22,14 +22,19 @@ export async function runResearchRounds({ remaining, reviewed = () => 0, write, 
   }
 }
 
-export function researchAssignment(ledger, day, { round, idle = 0, batchSize = 8 } = {}) {
+export function researchAssignment(ledger, day, { round, idle = 0, batchSize = 8, restored = null } = {}) {
   if (!Number.isInteger(batchSize) || batchSize < 1 || batchSize > 32) throw new Error('News research batch size must be between 1 and 32');
   const run = ledger.runs[day];
   if (!run || run.status === 'completed') throw new Error('Assignment needs an open news research run');
+  if (restored && (restored.day !== day || !Array.isArray(restored.drafts))) throw new Error('Restored drafts must match the assignment date');
+  const drafts = new Map((restored?.drafts || []).map(draft => [draft.id, draft]));
   const pending = run.candidateIds.filter(id => !run.outcomes[id]).map(id => ledger.candidates[id]);
   pending.sort((a, b) => Number(Boolean(b.manual)) - Number(Boolean(a.manual))
+    || Number(drafts.has(b.id)) - Number(drafts.has(a.id))
     || (b.sources?.length || 0) - (a.sources?.length || 0) || (b.score || 0) - (a.score || 0));
-  return { day, round, totalPending: pending.length, retryingWithoutProgress: idle > 0, candidates: pending.slice(0, idle > 0 ? 1 : batchSize) };
+  return { day, round, totalPending: pending.length, retryingWithoutProgress: idle > 0,
+    candidates: pending.slice(0, idle > 0 ? 1 : batchSize).map(candidate => drafts.has(candidate.id)
+      ? { ...candidate, restoredDraft: drafts.get(candidate.id) } : candidate) };
 }
 
 export function newsWriterRuntime({ cwd = process.cwd(), env = process.env, model } = {}) {
@@ -79,7 +84,9 @@ async function main() {
     remaining: () => writeReport(loadResearch(), day).counts.unreviewed,
     reviewed: () => { const report = researchReport(loadResearch(), day); return report.candidates - report.counts.unreviewed; },
     write: (round, { idle }) => {
-      const assignment = researchAssignment(loadResearch(), day, { round, idle });
+      const restoredFile = path.join(RESEARCH_DIR, 'restored.json');
+      const restored = fs.existsSync(restoredFile) ? JSON.parse(fs.readFileSync(restoredFile, 'utf8')) : null;
+      const assignment = researchAssignment(loadResearch(), day, { round, idle, restored });
       fs.writeFileSync(path.join(RESEARCH_DIR, 'assignment.json'), JSON.stringify(assignment, null, 2) + '\n');
       const prompt = `This is research round ${round} of the single daily batch. Your assigned ${assignment.candidates.length} candidates are in .cache/news-research/assignment.json. Use node scripts/news-research.mjs queue --assigned for their current state. Review these candidates one at a time and checkpoint each outcome immediately; stop when this assignment is covered. The coordinator will assign the remaining ${assignment.totalPending} pending candidates in later rounds, so this is not an article-count cap. ${idle ? 'The previous invocation made no persisted progress. This retry assigns one candidate: finish its source checks and record its actual outcome before doing anything else. ' : ''}Do not reopen completed reviews. Reuse restored drafts when available and recheck their sources. Do not invent URLs or mark sources read from headlines alone. Apply the no-slop rules during writing. Do not ask interactive questions: record specific source blockers for retry. Do not launch the site, signal processes, edit existing articles, commit or push. CI owns publication.\n\n${brief}`;
       invoke(`${prompt}\n\nAssignment completion boundary: record real outcomes for the IDs in assignment.json, then return. Do not run the whole-batch validator while other assignments are unreviewed. Restored drafts outside this assignment are awaiting their own reviews; leave them intact. The coordinator invokes final validation and repair after all assignments finish.`);

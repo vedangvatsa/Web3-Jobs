@@ -39,6 +39,20 @@ candidates have outcomes, return to the coordinator. It continues the remaining
 assignments until the entire queue is covered. Do not repeatedly dump the full
 ledger or redo candidates whose outcomes are already recorded.
 
+The availability pass records temporary source-blocked deferrals only after actual
+GET denials for every known URL. Its report is `.cache/news-research/source-readiness.json`.
+Those checks are not source reads or factual verification. Accessible alternatives
+and every preserved draft remain assigned for research. Keep the recorded retry
+queries for unavailable sources; never turn them into permanent rejections.
+
+Recovery assignments include `restoredDraft` provenance and review reasons. Reuse
+the existing unpublished text and image, recheck its facts and sources, and repair
+only what fails the editorial rules. An older `originalDate` is the date written
+in an unpublished draft. After verifying that the story is still timely, set its
+publication metadata to the actual publication day; preserve every source-event
+date and do not present an old event as newly occurring. A restored draft is never
+automatically approved.
+
 Write every story that qualifies. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
 - Has a verifiable primary source when one exists, and at least two independent

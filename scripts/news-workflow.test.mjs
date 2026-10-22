@@ -7,6 +7,19 @@ const require = createRequire(import.meta.url);
 const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
 const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
 
+test('source readiness runs after restoration and before the writer with its regression checks', () => {
+  const steps = workflow.jobs['publish-news'].steps;
+  const restore = steps.findIndex(step => step.run === 'node scripts/restore-news-drafts.mjs');
+  const check = steps.findIndex(step => step.run?.startsWith('node scripts/check-news-sources.mjs'));
+  const writer = steps.findIndex(step => step.id === 'draft');
+  assert.ok(restore < check && check < writer);
+  assert.equal(steps[check].if, "${{ steps.research.outputs.needs_writer == 'true' }}");
+  assert.equal(steps[check]['timeout-minutes'], 15);
+  const tests = steps.find(step => step.name === 'Test daily news discovery and publication').run;
+  assert.match(tests, /scripts\/check-news-sources\.test\.mjs/);
+  assert.match(tests, /scripts\/lib\/news-source-readiness\.test\.mjs/);
+});
+
 test('on-time social fan-out retains one daily rollout after ingestion and news', () => {
   assert.deepEqual(workflow.jobs['post-openings'].needs, ['gate']);
   assert.deepEqual(workflow.jobs['refresh-and-post'].needs, ['gate']);

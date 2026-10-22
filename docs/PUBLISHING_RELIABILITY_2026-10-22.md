@@ -17,6 +17,23 @@ Telegram waited for news research and deployment, then reached its send step at 
 - Scheduled job social receives its original date and slot. Checks before claims and provider mutations enforce the same exclusive 60-minute window as Telegram, including multi-step image/container publishing. Known-ID reconciliation remains read-only outside the window.
 - Company LinkedIn verification polls an accepted ID with bounded reads and reports the actual mismatch or provider error. It still requires the exact account, text, sent status and native permalink. An unverified accepted ID cannot trigger a replacement post.
 
+## Follow-up recovery
+
+Retries could lose useful draft files after their ready outcomes were reset, and
+the writer spent most of an invocation retrying inaccessible feeds before reaching
+the saved articles. Recovery now preserves every owned unpublished draft with its
+source-check history and prioritizes it for fresh review. Older draft publication
+dates are flagged for correction after a timeliness check; restoration never
+rewrites article bytes or source-event dates.
+
+Before research, `check-news-sources.mjs` performs bounded, deduplicated GET checks.
+It records a temporary source-blocked deferral only when every known source has a
+definite denial/unavailability response and the candidate has no protected draft.
+Historical primary/corroborating URLs are included. Responding URLs, uncertain
+network results and saved drafts remain for research. The report explicitly says
+that this is availability evidence, not a source read or factual approval. These
+deferrals retain their retry searches and existing 72-hour retry window.
+
 ## Verification and recovery
 
 Inside the global `fah-deploy` concurrency lock, the deployment job checks a fresh `main` checkout against `content/catalog-refresh-state.json`, `content/news-research.json`, the published article files and the current deployment state fetched from GitHub. The build uses the verified commit SHA, so later branch changes cannot change the batch being shipped.

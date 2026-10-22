@@ -36,6 +36,17 @@ test('an idle batch retries one candidate and still stops if no real outcome is 
   assert.deepEqual(assigned, [8, 1]);
 });
 
+test('recovery reviews preserved drafts before fresh leads without approving or rewriting them', () => {
+  const ledger = pendingLedger(), day = '2026-10-22';
+  const draft = { id: '20', articleSlug: 'savedstory', approved: false, mustReview: true, originalDate: '2026-10-21', reviewReasons: ['publication-date-needs-review'] };
+  const before = JSON.stringify(ledger);
+  const assignment = researchAssignment(ledger, day, { round: 1, restored: { day, drafts: [draft] } });
+  assert.equal(assignment.candidates[0].id, '20');
+  assert.deepEqual(assignment.candidates[0].restoredDraft, draft);
+  assert.equal(JSON.stringify(ledger), before);
+  assert.throws(() => researchAssignment(ledger, day, { restored: { day: '2026-10-21', drafts: [draft] } }), /assignment date/);
+});
+
 test('assigned queue reads current ledger state and refuses foreign, duplicate or wrong-day assignments', () => {
   const ledger = pendingLedger(), day = '2026-10-22';
   ledger.candidates['20'].manual = true;
