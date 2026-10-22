@@ -67762,26 +67762,7 @@
       ],
       "lastReviewedDay": "2026-10-22",
       "articleSlug": "stakingrecord",
-      "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/aeromerge.md",
-        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
-        "Draft has no ready review outcome: content/articles/cakeflip.md",
-        "Draft has no ready review outcome: content/articles/cardanomica.md",
-        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
-        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
-        "Draft has no ready review outcome: content/articles/eclairpatches.md",
-        "Draft has no ready review outcome: content/articles/emudhra.md",
-        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
-        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
-        "Draft has no ready review outcome: content/articles/malayssds.md",
-        "Draft has no ready review outcome: content/articles/occgenius.md",
-        "Draft has no ready review outcome: content/articles/phppanic.md",
-        "Draft has no ready review outcome: content/articles/shinhanstable.md",
-        "Draft has no ready review outcome: content/articles/spacextesla.md",
-        "Draft has no ready review outcome: content/articles/tethermural.md",
-        "Draft has no ready review outcome: content/articles/trumpscam.md",
-        "Draft has no ready review outcome: content/articles/zcashnu7.md"
-      ]
+      "lastValidationErrors": []
     },
     "0f0bff581db089300777": {
       "source": "The Block",
@@ -68180,26 +68161,7 @@
       ],
       "lastReviewedDay": "2026-10-22",
       "articleSlug": "regcrypto",
-      "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/aeromerge.md",
-        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
-        "Draft has no ready review outcome: content/articles/cakeflip.md",
-        "Draft has no ready review outcome: content/articles/cardanomica.md",
-        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
-        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
-        "Draft has no ready review outcome: content/articles/eclairpatches.md",
-        "Draft has no ready review outcome: content/articles/emudhra.md",
-        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
-        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
-        "Draft has no ready review outcome: content/articles/malayssds.md",
-        "Draft has no ready review outcome: content/articles/occgenius.md",
-        "Draft has no ready review outcome: content/articles/phppanic.md",
-        "Draft has no ready review outcome: content/articles/shinhanstable.md",
-        "Draft has no ready review outcome: content/articles/spacextesla.md",
-        "Draft has no ready review outcome: content/articles/tethermural.md",
-        "Draft has no ready review outcome: content/articles/trumpscam.md",
-        "Draft has no ready review outcome: content/articles/zcashnu7.md"
-      ]
+      "lastValidationErrors": []
     },
     "7b17e4295a7a73ab2afd": {
       "source": "Crypto Briefing",
@@ -68272,7 +68234,8 @@
         "Find independent reporting on: NEAR Opens Vote to Cut Token Issuance to 1.6%"
       ],
       "lastReviewedDay": "2026-10-22",
-      "articleSlug": "nearissuance"
+      "articleSlug": "nearissuance",
+      "lastValidationErrors": []
     },
     "0d29ea95331302f1149d": {
       "source": "CoinDesk",
@@ -68477,7 +68440,8 @@
         "Find independent reporting on: Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuati"
       ],
       "lastReviewedDay": "2026-10-22",
-      "articleSlug": "honeyb"
+      "articleSlug": "honeyb",
+      "lastValidationErrors": []
     },
     "3a8ec705ea29a2364e07": {
       "source": "Bankless",
@@ -68553,7 +68517,8 @@
         "Find independent reporting on: Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet"
       ],
       "lastReviewedDay": "2026-10-22",
-      "articleSlug": "mump2p"
+      "articleSlug": "mump2p",
+      "lastValidationErrors": []
     },
     "f29ccd0c6d10f80f190b": {
       "source": "Decrypt",
@@ -68712,7 +68677,8 @@
         "Find independent reporting on: France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3"
       ],
       "lastReviewedDay": "2026-10-22",
-      "articleSlug": "francevote"
+      "articleSlug": "francevote",
+      "lastValidationErrors": []
     },
     "f0ead9177af90e0b0e62": {
       "source": "CoinDesk",
@@ -72566,7 +72532,8 @@
       ],
       "reviewedAt": "2026-10-22T09:57:52.313Z",
       "articleSlug": "duffyperps",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "lastValidationErrors": []
     },
     "944f3719323a7c5d4899": {
       "source": "Crypto Briefing",
@@ -72774,7 +72741,8 @@
       ],
       "reviewedAt": "2026-10-22T10:42:28.453Z",
       "articleSlug": "polymarketohio",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "lastValidationErrors": []
     },
     "cc2964f96502bc13620a": {
       "source": "Bitcoin Magazine",
@@ -72830,7 +72798,8 @@
       ],
       "reviewedAt": "2026-10-22T10:51:44.768Z",
       "articleSlug": "secstocks",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "lastValidationErrors": []
     },
     "f706191a6a5b1a8cc8d8": {
       "source": "Cointelegraph",
@@ -72873,11 +72842,43 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ba7d71759c6d5852e5c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:11:29.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "Binance excluded ~3h premium index data from Oct 21 08:00 UTC funding for US equity TradFi Perps after Blue Ocean overnight ATS halt (11:46pm-2:30am ET, external network provider). Shunyet Jan quote. Korean brokerages affected. Hero: Taiwan Stock Exchange market data display (CC BY 2.0, 315KB).",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.blueocean-tech.io/blue-ocean-ats-service-status/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.sedaily.com/finance/2026/10/21/us-blue-ocean-outage-disrupts-daytime-quotes-for-korean",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.tokenpost.com/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.binance.com/en/square/post/379601239920590",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T11:04:31.829Z",
+      "articleSlug": "binanceperp",
+      "lastReviewedDay": "2026-10-22",
+      "lastValidationErrors": []
     },
     "5a09ce3eaeb9d8533e3f": {
       "source": "CryptoSlate",
@@ -73587,26 +73588,7 @@
       "reviewedAt": "2026-10-22T09:31:30.098Z",
       "articleSlug": "charonupgrade",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/aeromerge.md",
-        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
-        "Draft has no ready review outcome: content/articles/cakeflip.md",
-        "Draft has no ready review outcome: content/articles/cardanomica.md",
-        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
-        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
-        "Draft has no ready review outcome: content/articles/eclairpatches.md",
-        "Draft has no ready review outcome: content/articles/emudhra.md",
-        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
-        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
-        "Draft has no ready review outcome: content/articles/malayssds.md",
-        "Draft has no ready review outcome: content/articles/occgenius.md",
-        "Draft has no ready review outcome: content/articles/phppanic.md",
-        "Draft has no ready review outcome: content/articles/shinhanstable.md",
-        "Draft has no ready review outcome: content/articles/spacextesla.md",
-        "Draft has no ready review outcome: content/articles/tethermural.md",
-        "Draft has no ready review outcome: content/articles/trumpscam.md",
-        "Draft has no ready review outcome: content/articles/zcashnu7.md"
-      ]
+      "lastValidationErrors": []
     },
     "7ca8220be803051b7f4f": {
       "source": "The Defiant",
@@ -76157,26 +76139,7 @@
       "reviewedAt": "2026-10-22T09:31:30.099Z",
       "articleSlug": "zodia",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/aeromerge.md",
-        "Draft has no ready review outcome: content/articles/alpenglowlive.md",
-        "Draft has no ready review outcome: content/articles/cakeflip.md",
-        "Draft has no ready review outcome: content/articles/cardanomica.md",
-        "Draft has no ready review outcome: content/articles/digitalcommodity.md",
-        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
-        "Draft has no ready review outcome: content/articles/eclairpatches.md",
-        "Draft has no ready review outcome: content/articles/emudhra.md",
-        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
-        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
-        "Draft has no ready review outcome: content/articles/malayssds.md",
-        "Draft has no ready review outcome: content/articles/occgenius.md",
-        "Draft has no ready review outcome: content/articles/phppanic.md",
-        "Draft has no ready review outcome: content/articles/shinhanstable.md",
-        "Draft has no ready review outcome: content/articles/spacextesla.md",
-        "Draft has no ready review outcome: content/articles/tethermural.md",
-        "Draft has no ready review outcome: content/articles/trumpscam.md",
-        "Draft has no ready review outcome: content/articles/zcashnu7.md"
-      ]
+      "lastValidationErrors": []
     },
     "c1b26b9ab08d25cf2347": {
       "source": "Cointelegraph",
@@ -133814,6 +133777,39 @@
           ],
           "reviewedAt": "2026-10-22T10:51:44.768Z",
           "articleSlug": "secstocks"
+        },
+        "2ba7d71759c6d5852e5c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Binance excluded ~3h premium index data from Oct 21 08:00 UTC funding for US equity TradFi Perps after Blue Ocean overnight ATS halt (11:46pm-2:30am ET, external network provider). Shunyet Jan quote. Korean brokerages affected. Hero: Taiwan Stock Exchange market data display (CC BY 2.0, 315KB).",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blueocean-tech.io/blue-ocean-ats-service-status/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.sedaily.com/finance/2026/10/21/us-blue-ocean-outage-disrupts-daytime-quotes-for-korean",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.tokenpost.com/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.binance.com/en/square/post/379601239920590",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:04:31.829Z",
+          "articleSlug": "binanceperp"
         }
       },
       "baselineSlugs": [
@@ -134158,7 +134154,8 @@
         ],
         "total": 191,
         "checkedAt": "2026-10-22T08:50:50.105Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
