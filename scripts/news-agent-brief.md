@@ -45,6 +45,15 @@ Those checks are not source reads or factual verification. Accessible alternativ
 and every preserved draft remain assigned for research. Keep the recorded retry
 queries for unavailable sources; never turn them into permanent rejections.
 
+Use the access results: if WebFetch fails for a URL that the readiness pass
+reported as HTTP 200, download that exact public URL to the scratch directory
+with the same identifying User-Agent,
+`HashtagWeb3NewsSourceReadiness/1.0 (+https://hashtagweb3.com)`, and read its actual
+article text. Use bounded requests and inspect redirects. A login, challenge page
+or headline alone is not readable reporting. Record a source as read only after
+reading its contents. This avoids repeatedly searching for replacements for an
+already-accessible source.
+
 Recovery assignments include `restoredDraft` provenance and review reasons. Reuse
 the existing unpublished text and image, recheck its facts and sources, and repair
 only what fails the editorial rules. An older `originalDate` is the date written
