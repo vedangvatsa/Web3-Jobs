@@ -43660,7 +43660,8 @@
         "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "e7b441c9-5835-44d3-aa71-8298df2f20fc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myifwhacxt25"
     }
   ]
 }
