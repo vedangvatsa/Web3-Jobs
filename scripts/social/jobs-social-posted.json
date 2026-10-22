@@ -44356,8 +44356,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "13c63999-a4b6-41b5-8fa6-1c99eef67436",
-      "verification": "pending",
-      "postId": "6ada6613e374ecc98221e8de"
+      "verification": "verified",
+      "postId": "6ada6613e374ecc98221e8de",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519119958119796737"
     }
   ]
 }
