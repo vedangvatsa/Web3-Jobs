@@ -39986,6 +39986,46 @@
       "verification": "pending",
       "postId": "6ad99f0aecaa6cda042aff1a",
       "error": "LinkedIn #Web3 receipt 6ad99f0aecaa6cda042aff1a remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "aso42",
+      "company": "Galaxy Digital",
+      "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T05:27:02.350Z",
+      "expectedText": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+      "snapshot": {
+        "id": "6223138004",
+        "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6223138004",
+        "date": "2026-10-13T11:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "India",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso42"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso42/li?og=7",
+          "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai at Galaxy Digital",
+          "description": "Join Galaxy Digital as Associate, Financial Planning and. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso42.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "4e83aa5e-5669-4d6e-b43e-5c106ffc1d11",
+      "verification": "creating"
     }
   ]
 }
