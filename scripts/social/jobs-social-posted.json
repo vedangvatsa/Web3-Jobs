@@ -42860,7 +42860,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "75dce2e7-6304-4858-92f2-6cd04d83d512",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x772bdddfcc6fd270e5360e836b456103405da13b"
     }
   ]
 }
