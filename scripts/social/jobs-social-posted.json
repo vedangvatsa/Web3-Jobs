@@ -42288,7 +42288,8 @@
       },
       "account": "channel:base",
       "attemptId": "a8d1058e-6275-4720-89ce-af666f9924d7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5f102c2697a6eac4b8af2dadf9cabae137ea2254"
     }
   ]
 }
