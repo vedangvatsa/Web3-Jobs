@@ -67731,13 +67731,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-23T17:45:11.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
+      "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Corrected offline stake share from close to 29% to close to 30% to match the PDF's 29.6% Teraswitch figure. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
@@ -67750,9 +67750,13 @@
         {
           "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T11:21:11.805Z",
+      "reviewedAt": "2026-10-22T13:50:04.062Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says"
       ],
@@ -68127,13 +68131,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-23T22:46:50.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Re-read Crypto Briefing (Oct. 20) and TokenPost (Oct. 21, SEC spokesperson); downloaded and read SEC rulemaking page (comments due Oct. 20, Releases 33-11434/34-106150, issued Aug. 18, FR Aug. 21, $5M/$75M exemptions, conditional safe harbor) and SEC comments listing for S7-2026-27 (Oct. 21 letters from AFREF, Bitwise GC, Nasdaq, Skadden; Oct. 20 Coinbase, Ripple, Blockchain Association, DeFi Education Fund, Uniswap Labs and others). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned, hero 225KB.",
+      "note": "Re-read Crypto Briefing, TokenPost, and the primary SEC rulemaking pages (S7-2026-27, comments due Oct. 20, releases 33-11434/34-106150, Aug. 18 issue, Aug. 21 FR, $5M/$75M exemptions) plus the SEC comments listing (Oct. 20-21 filers). Linked the previously unlinked CFTC claim to cftc.gov PressRelease 9307-26 (verified HTTP 200, Oct. 5 2026 ANPRM, Regulation CTX/CAM, 2(c)(2)(D)). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
@@ -68150,9 +68154,13 @@
         {
           "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T11:23:36.785Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "retrySearches": [
         "Find a second independent outlet on SEC Regulation Crypto comment close"
       ],
@@ -68203,13 +68211,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T21:38:18.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Re-reviewed HSP-029 on the NEAR forum (status Voting; 2.5% to 1.6% per-epoch ramp, 90/10 split retained, 90-day grace, yields 5.268% to 3.372% at 42.71% staking, 36% commission loss for operators without NEAR, SVRN 55M NEAR disclosure, two-step validator adoption, Oct 19-21 forum discussion), Foresight News Oct. 21 (vote open, closes Nov. 2, source-linked to houseofstake.org) and Crypto Briefing Oct. 2 background; the original hokanews vote-window report was read earlier today but now returns HTTP 403, so its claims were not cited. The Defiant candidate link still 403. Drafted content/articles/nearissuance.md (672 words; hosts: gov.near.org, foresightnews.pro, cryptobriefing.com); hero ballot-box photo via Wikimedia (W.carter, CC BY-SA 4.0) compressed to 187KB; quality, formatting, image and duplicate audits clean; all cited links HTTP 200.",
+      "note": "Re-read HSP-029 on the NEAR forum primary source, Foresight News (vote closes Nov. 2), and Crypto Briefing (Oct. 2): 24-month issuance ramp to a 1.6% annual target rate, governance vote window, and emission-cut framing verified. Draft is formatting clean, image audit passes, no quality failures, slug nearissuance unowned.",
       "sourceChecks": [
         {
           "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
@@ -68224,15 +68232,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.hokanews.com/2026/10/near-protocol-opens-vote-to-cut-annual.html",
-          "outcome": "read"
-        },
-        {
           "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T12:50:58.234Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "retrySearches": [
         "Find independent reporting on: NEAR Opens Vote to Cut Token Issuance to 1.6%"
       ],
@@ -68418,13 +68422,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T17:11:47.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Nectar Group M seed for HoneyB Bitcoin yield platform. Sources: Markets Insider (FinanceWire release, HTTP 200), Dealroom (Gordon/The Block interview summary, HTTP 200), Grafa (HTTP 200). Hero: Casascius coin, Steve Jurvetson CC BY 2.0, 223KB. 669 words, 3 source hosts, audits clean.",
+      "note": "Re-read Markets Insider, Dealroom, and Grafa on Nectar Group's $5M seed for HoneyB. Removed unsupported Grafa custody language and the Grafa-only retail Q1 2027 claim; kept the $5M seed and $30M post-money confirmed across Dealroom and Grafa. Draft is formatting clean, image audit passes, no quality failures, slug honeyb unowned.",
       "sourceChecks": [
         {
           "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
@@ -68439,7 +68443,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T13:03:24.982Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "retrySearches": [
         "Find independent reporting on: Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuati"
       ],
@@ -68497,13 +68501,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0b5ba7979f5eaf98a43",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T16:24:01.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "Optimum mump2p live on Ethereum mainnet (16 operators, ~22k keys, 1.4M+ ETH). The Defiant 403 blocked. Sources: CryptoSlate Chainwire PR (HTTP 200), Cryptonomist independent (HTTP 200, 2.42x vs PR 2-4x, Hoodi testnet caveat, ether.fi silence, API key needed). Hero: MIT campus aerial, DrKenneth CC BY 3.0, 330KB. 711 words, 2 hosts, audits clean (avoided banned word beacon; Cryptonomist named 3x max).",
+      "note": "Re-read CryptoSlate Chainwire PR and Cryptonomist: Optimum MUMP2P on Ethereum mainnet, $3.4B TV boosted across validators, 2.42x independent figure, ether.fi caveat, and 2-4x band verified. Draft is formatting clean, image audit passes, no quality failures, slug mump2p unowned.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
@@ -68518,7 +68522,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T13:09:36.243Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "retrySearches": [
         "Find independent reporting on: Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet"
       ],
@@ -68647,13 +68651,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b876bd7370c395bf9c8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T11:53:34.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "France 2027 budget revenue section carries stablecoin-swap tax amendment (I-3898, 38-37-25 Oct 16); solemn vote set Nov 3. The Defiant JS-gated/unavailable. Sources: Assemblée nationale schedule (primary, HTTP 200), scrutin 8836 (primary vote record, HTTP 200), Decrypt (HTTP 200). Infonet now 403 to Node fetch, not cited. Hero: Palais Bourbon from Pont de la Concorde, Jebulon CC0, 307KB. 633 words, 2 hosts, audits clean.",
+      "note": "Re-read the Assemblée nationale budget schedule page (Oct. 13-19 first part, resume Oct. 27-Nov. 2, solemn first-part vote Nov. 3 afternoon), scrutin n°8836 (amendment n. 3898 Sansu after article 4 of the 2027 finance bill, 100 voters, 75 expressed, 38 pour / 37 against / 25 abstentions, adopted), and Decrypt (MiCA e-money token swaps taxable from Jan. 1 2027, flat tax 30% to 31.4%, per-coin cost basis, Dec. 31 2026 election for pre-2027 holdings, UK/Italy comparison, David Amiel opposition, €100k self-custody declaration). Draft is formatting clean, image audit passes, no quality failures, slug francevote unowned.",
       "sourceChecks": [
         {
           "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
@@ -68672,7 +68676,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T13:15:01.719Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "retrySearches": [
         "Find independent reporting on: France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3"
       ],
@@ -72525,13 +72529,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "223942039ddb42dedd48",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-25T02:05:00.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "CME Q3 call: Duffy says perp funding rate is a swap under Dodd-Frank; Marchese says CFTC case fully briefed to judge in December; no perps listing decision until suit resolves. BeInCrypto 403. Sources: Motley Fool full transcript (HTTP 200), Bullished same-day report (HTTP 200). CourtListener complaint PDF HTTP 200 but not text-extractable here, not cited. Hero: Terry Duffy photo, E254 CC BY-SA 4.0, 125KB. 655 words, 2 hosts, audits clean (avoided banned word leverage).",
+      "note": "Re-read the Motley Fool Q3 2026 CME transcript and Bullished's call report: Duffy said perpetual funding is deemed a swap under Dodd-Frank and CME will not decide on perps until the CFTC case resolves; Marchese said motion to dismiss filed/opposed and full briefing expected in December; 24/7 small oil shelved for commercial desk costs; ADV 29.4M up 16%, revenue $1.7B up 13%, market data $243M, adjusted EPS $3.02; Nov. 9 compute-futures comment deadline; Dec. 7 securities clearing launch. Corrected position-size caps to leverage caps per the transcript. Draft is formatting clean, image audit passes, no quality failures, slug duffyperps unowned.",
       "sourceChecks": [
         {
           "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
@@ -72546,7 +72550,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T13:20:47.441Z",
+      "reviewedAt": "2026-10-22T13:50:04.063Z",
       "articleSlug": "duffyperps",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -73634,9 +73638,9 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-24T22:43:45.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
@@ -73649,9 +73653,13 @@
         {
           "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T11:17:07.631Z",
+      "reviewedAt": "2026-10-22T13:50:04.062Z",
       "articleSlug": "charonupgrade",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -135558,6 +135566,194 @@
             "Find independent reporting confirming the event in: Layer 2 Scaling Solutions",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "555b03b302d276314cb0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing (Oct. 21) and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted in the Docker image, CVE-2026-111943, required release for all operators, 422,862 ETH cluster balance. Draft is formatting clean, image audit passes, no quality failures, slug charonupgrade unowned, hero 286KB.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.062Z",
+          "articleSlug": "charonupgrade"
+        },
+        "665905ab039e4e58273a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Corrected offline stake share from close to 29% to close to 30% to match the PDF's 29.6% Teraswitch figure. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.062Z",
+          "articleSlug": "stakingrecord"
+        },
+        "f3e86162ee7dcb7ad739": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing, TokenPost, and the primary SEC rulemaking pages (S7-2026-27, comments due Oct. 20, releases 33-11434/34-106150, Aug. 18 issue, Aug. 21 FR, $5M/$75M exemptions) plus the SEC comments listing (Oct. 20-21 filers). Linked the previously unlinked CFTC claim to cftc.gov PressRelease 9307-26 (verified HTTP 200, Oct. 5 2026 ANPRM, Regulation CTX/CAM, 2(c)(2)(D)). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/36529",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "regcrypto"
+        },
+        "89a69374c6920c41cbfc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read HSP-029 on the NEAR forum primary source, Foresight News (vote closes Nov. 2), and Crypto Briefing (Oct. 2): 24-month issuance ramp to a 1.6% annual target rate, governance vote window, and emission-cut framing verified. Draft is formatting clean, image audit passes, no quality failures, slug nearissuance unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
+              "outcome": "read"
+            },
+            {
+              "url": "https://foresightnews.pro/news/detail/115622",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "nearissuance"
+        },
+        "0234a0b9cf8724213cf8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Markets Insider, Dealroom, and Grafa on Nectar Group's $5M seed for HoneyB. Removed unsupported Grafa custody language and the Grafa-only retail Q1 2027 claim; kept the $5M seed and $30M post-money confirmed across Dealroom and Grafa. Draft is formatting clean, image audit passes, no quality failures, slug honeyb unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://grafa.com/en/news/crypto/nectar-group-raises-5-million-for-bitcoin-yield-platform",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "honeyb"
+        },
+        "a0b5ba7979f5eaf98a43": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CryptoSlate Chainwire PR and Cryptonomist: Optimum MUMP2P on Ethereum mainnet, $3.4B TV boosted across validators, 2.42x independent figure, ether.fi caveat, and 2-4x band verified. Draft is formatting clean, image audit passes, no quality failures, slug mump2p unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "mump2p"
+        },
+        "4b876bd7370c395bf9c8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Assemblée nationale budget schedule page (Oct. 13-19 first part, resume Oct. 27-Nov. 2, solemn first-part vote Nov. 3 afternoon), scrutin n°8836 (amendment n. 3898 Sansu after article 4 of the 2027 finance bill, 100 voters, 75 expressed, 38 pour / 37 against / 25 abstentions, adopted), and Decrypt (MiCA e-money token swaps taxable from Jan. 1 2027, flat tax 30% to 31.4%, per-coin cost basis, Dec. 31 2026 election for pre-2027 holdings, UK/Italy comparison, David Amiel opposition, €100k self-custody declaration). Draft is formatting clean, image audit passes, no quality failures, slug francevote unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "francevote"
+        },
+        "223942039ddb42dedd48": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Motley Fool Q3 2026 CME transcript and Bullished's call report: Duffy said perpetual funding is deemed a swap under Dodd-Frank and CME will not decide on perps until the CFTC case resolves; Marchese said motion to dismiss filed/opposed and full briefing expected in December; 24/7 small oil shelved for commercial desk costs; ADV 29.4M up 16%, revenue $1.7B up 13%, market data $243M, adjusted EPS $3.02; Nov. 9 compute-futures comment deadline; Dec. 7 securities clearing launch. Corrected position-size caps to leverage caps per the transcript. Draft is formatting clean, image audit passes, no quality failures, slug duffyperps unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:50:04.063Z",
+          "articleSlug": "duffyperps"
         }
       },
       "baselineSlugs": [
