@@ -41939,7 +41939,8 @@
         "description": "Join Flow Traders as Digital Assets Trader. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "ee4626f7-856e-4fbf-8fba-873a877e53d1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myhl6h7ac22w"
     }
   ]
 }
