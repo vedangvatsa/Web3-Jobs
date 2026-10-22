@@ -67727,7 +67727,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 6,
       "expiresAt": "2026-10-23T17:45:11.000Z",
@@ -67786,7 +67786,8 @@
             "sha256": "1099dff3a34b3f8a3588983199c11de208c99bbaabee65a3d91e199c40bb923f"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "0f0bff581db089300777": {
       "source": "The Block",
@@ -68153,7 +68154,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 6,
       "expiresAt": "2026-10-23T22:46:50.000Z",
@@ -68216,7 +68217,8 @@
             "sha256": "dafbf3fd7a7438194b23418d740bdaf0e9b5c0f2171f496a1f9bdb8d0f153291"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "7b17e4295a7a73ab2afd": {
       "source": "Crypto Briefing",
@@ -68259,7 +68261,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T21:38:18.000Z",
@@ -68326,7 +68328,8 @@
             "sha256": "8bcec76e0782ef09b2ab8a04d346435a34afe54df6bd51e6e3ea35f80a442f1c"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "0d29ea95331302f1149d": {
       "source": "CoinDesk",
@@ -68504,7 +68507,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T17:11:47.000Z",
@@ -68563,7 +68566,8 @@
             "sha256": "0d34c6e273b906a8ee5ba4577f0c03bb5bb4c460926d3a38f9dd7d2a5c32c583"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "3a8ec705ea29a2364e07": {
       "source": "Bankless",
@@ -68613,7 +68617,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0b5ba7979f5eaf98a43",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T16:24:01.000Z",
@@ -68672,7 +68676,8 @@
             "sha256": "dd6cf8fcba126fee29dbb365dc29dbb61a173722e8b36b3ed973748521bc4099"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "f29ccd0c6d10f80f190b": {
       "source": "Decrypt",
@@ -68793,7 +68798,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b876bd7370c395bf9c8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T11:53:34.000Z",
@@ -68856,7 +68861,8 @@
             "sha256": "5515049fa4b4c75a16d450e3767c16aef7d4cfbabb6afdae4b0893f0b62a7646"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "f0ead9177af90e0b0e62": {
       "source": "CoinDesk",
@@ -72701,7 +72707,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "223942039ddb42dedd48",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-25T02:05:00.000Z",
@@ -72757,7 +72763,8 @@
             "sha256": "f65dc15c609360af596a630fe694a1f6bd66cd001a60125f9b2d28fc79f7b711"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "944f3719323a7c5d4899": {
       "source": "Crypto Briefing",
@@ -72800,7 +72807,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 5,
       "expiresAt": "2026-10-24T23:24:01.000Z",
@@ -72856,7 +72863,8 @@
             "sha256": "b5f0f9fbe45c43270118c243c86bd6095d3675d7ef3f3514ce7a902987800c25"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "b8c0039794f871c2439a": {
       "source": "Crypto Briefing",
@@ -73209,7 +73217,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d72de1761a9560efb8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T17:57:39.000Z",
@@ -73261,7 +73269,8 @@
             "sha256": "05cf705562cf955ee72c17a2cfcfe0e7c72d7e4085e5e8171d5f6c384ed58e96"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "906c321d0e1b67a1a1bc": {
       "source": "Cointelegraph",
@@ -73326,7 +73335,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "c56190794627ccdc754f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T16:23:44.000Z",
@@ -73378,7 +73387,8 @@
             "sha256": "e50319fd160b37c0f476f8c951ad2582061c4bfb7d364fd6195f055306e0aac7"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "adebfc2118208e55e78a": {
       "source": "Cointelegraph",
@@ -73395,7 +73405,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "adebfc2118208e55e78a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T16:09:26.000Z",
@@ -73459,7 +73469,8 @@
             "sha256": "c289b2d35035fdb46c7ed7c459b8305032317b48f20b96ea777f096b17714727"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "503a86e0687b3af255f8": {
       "source": "Unchained",
@@ -73476,7 +73487,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "503a86e0687b3af255f8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T15:40:00.000Z",
@@ -73540,7 +73551,8 @@
             "sha256": "2b452f02b120d2847d3882d66da05dbf8fbe1dcad346835fe515d1aae5d9ef87"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "97ad1842955181e296a2": {
       "source": "Decrypt",
@@ -73793,7 +73805,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5bf88db82bc3cc461",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T10:50:52.000Z",
@@ -73857,7 +73869,8 @@
             "sha256": "5ab7a7d78ce1f7f65b288ffb5560870b280e76ecbec171c9cf9d9b24ab9dcc1b"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "71cb713994d7bbf29390": {
       "source": "CoinDesk",
@@ -73874,7 +73887,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "71cb713994d7bbf29390",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T08:47:11.000Z",
@@ -73938,7 +73951,8 @@
             "sha256": "a09572b3eb337bce93146e05355377ac9b3ded8856399f5fd87b2db90178a115"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "82d09df67c8d5c5bfdb9": {
       "source": "The Defiant",
@@ -74008,7 +74022,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "9258bd8525e496ce85ad",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-25T00:00:00.000Z",
@@ -74068,7 +74082,8 @@
             "sha256": "8cd9cf69974dda210b07ad2817696aba7bc2a2666505a0a46d42164ac941f609"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "555b03b302d276314cb0": {
       "source": "Crypto Briefing",
@@ -74092,7 +74107,7 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 6,
       "expiresAt": "2026-10-24T22:43:45.000Z",
@@ -74144,7 +74159,8 @@
             "sha256": "20a4de512c4c77f597da43c6bbf8e256aceee5e2dc52c7a2e8a3d0a029320552"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "7ca8220be803051b7f4f": {
       "source": "The Defiant",
@@ -74281,7 +74297,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "aabb4d1716bd4636b5a6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T08:10:12.000Z",
@@ -74331,7 +74347,8 @@
             "sha256": "3ddf3f180e3b184f0ca444a626b681a84b4200d880be3a5058f98763619049f4"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "ffa615bd42df3312c6b5": {
       "source": "BeInCrypto",
@@ -74482,7 +74499,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "843d2d337606d6824758",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T21:00:13.000Z",
@@ -74532,7 +74549,8 @@
             "sha256": "87fe77102ffeb83191c575b52f933477b5d72cfbea00327c24fc6fe367a1988b"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "6d8d2e28d8e1f1964953": {
       "source": "Unchained",
@@ -74754,7 +74772,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f51632a46bcf765441d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T16:30:34.000Z",
@@ -74804,7 +74822,8 @@
             "sha256": "860cdb650856ff4f804a4e967fc78e3562c597205b9dee7e68304f8aabcd37a3"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "3e41fa249ce9f04471da": {
       "source": "Bitcoin Magazine",
@@ -74890,7 +74909,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fce1aae7d056893b050",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T16:11:52.000Z",
@@ -74936,7 +74955,8 @@
             "sha256": "99dfb6c14011e4e7d43f73b0a27cb65db7ab62fa1f00f5cab48d2a531c9060fd"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "3e333bbfb40cea433a99": {
       "source": "Bitcoin Magazine",
@@ -76859,7 +76879,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ce8fc79a80fcd65b9473",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 5,
       "expiresAt": "2026-10-24T17:28:34.000Z",
@@ -76905,7 +76925,8 @@
             "sha256": "e01d8359f81acc4e7de636244e84f4bf3f1f0641898d4b33cef2841896def228"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "c1b26b9ab08d25cf2347": {
       "source": "Cointelegraph",
@@ -77135,7 +77156,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ba9af4928788536e6a1",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T16:46:04.000Z",
@@ -77181,7 +77202,8 @@
             "sha256": "6e440cd98bc6809f3c10ca2c8d60b736a7ed7c57eb879b78ba7cd6f4abb90e97"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "23ee4808d8c71cb91b82": {
       "source": "BeInCrypto",
@@ -77238,7 +77260,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf7fdde8b23e641d464d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T15:35:16.000Z",
@@ -77288,7 +77310,8 @@
             "sha256": "1975976e241cafa324d1d0239d85b0e99e950bb44a312468281d358dc8882483"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "6a2254c41806e2ad9f95": {
       "source": "CoinDesk",
@@ -77477,7 +77500,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8ba60470835f49e0d199",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T14:21:15.000Z",
@@ -77531,7 +77554,8 @@
             "sha256": "da0194e7f6d800efe955f19ff650dadb18af7ca19a85abe3b2ed1807e54e1e77"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "3ec7857029a5956bcb4e": {
       "source": "Bitcoin Magazine",
@@ -77701,7 +77725,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "5bcd28dec5ba9a26fdd9",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T12:10:39.000Z",
@@ -77743,7 +77767,8 @@
             "sha256": "b2c22a5ba43d24197d8e4e99a9cebe487e8be609612cb7641b5adb7011b0081d"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "1f9a6912beade16068bf": {
       "source": "The Defiant",
@@ -78272,7 +78297,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b17d13d1a00a8a1c66f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T05:56:29.000Z",
@@ -78314,7 +78339,8 @@
             "sha256": "9a7574b9365839db96358ef7490c01901f7cab815effb21b433e3eb883074a97"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "99b116b538836771f9a3": {
       "source": "The Defiant",
@@ -78379,7 +78405,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0dcd71cd0d00895c9c79",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T05:15:00.000Z",
@@ -78425,7 +78451,8 @@
             "sha256": "39ddd5380cfd5d2ae9d1720091dba05c92c8f8115940fd0a2916353f6f73cd4b"
           }
         ]
-      }
+      },
+      "publishedAt": "2026-10-22T15:16:20.372Z"
     },
     "6363445a00d1e696a86c": {
       "source": "CoinDesk",
@@ -136276,7 +136303,7 @@
           "automatic": true
         },
         "665905ab039e4e58273a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
           "sourceChecks": [
@@ -136314,10 +136341,11 @@
                 "sha256": "1099dff3a34b3f8a3588983199c11de208c99bbaabee65a3d91e199c40bb923f"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "f3e86162ee7dcb7ad739": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Crypto Briefing (Oct. 20) and TokenPost (Oct. 21, SEC spokesperson); downloaded and read SEC rulemaking page (comments due Oct. 20, Releases 33-11434/34-106150, issued Aug. 18, FR Aug. 21, $5M/$75M exemptions, conditional safe harbor) and SEC comments listing for S7-2026-27 (Oct. 21 letters from AFREF, Bitwise GC, Nasdaq, Skadden; Oct. 20 Coinbase, Ripple, Blockchain Association, DeFi Education Fund, Uniswap Labs and others). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned, hero 225KB.",
           "sourceChecks": [
@@ -136359,10 +136387,11 @@
                 "sha256": "dafbf3fd7a7438194b23418d740bdaf0e9b5c0f2171f496a1f9bdb8d0f153291"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "89a69374c6920c41cbfc": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-reviewed HSP-029 on the NEAR forum (status Voting; 2.5% to 1.6% per-epoch ramp, 90/10 split retained, 90-day grace, yields 5.268% to 3.372% at 42.71% staking, 36% commission loss for operators without NEAR, SVRN 55M NEAR disclosure, two-step validator adoption, Oct 19-21 forum discussion), Foresight News Oct. 21 (vote open, closes Nov. 2, source-linked to houseofstake.org) and Crypto Briefing Oct. 2 background; the original hokanews vote-window report was read earlier today but now returns HTTP 403, so its claims were not cited. The Defiant candidate link still 403. Drafted content/articles/nearissuance.md (672 words; hosts: gov.near.org, foresightnews.pro, cryptobriefing.com); hero ballot-box photo via Wikimedia (W.carter, CC BY-SA 4.0) compressed to 187KB; quality, formatting, image and duplicate audits clean; all cited links HTTP 200.",
           "sourceChecks": [
@@ -136408,10 +136437,11 @@
                 "sha256": "8bcec76e0782ef09b2ab8a04d346435a34afe54df6bd51e6e3ea35f80a442f1c"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "0234a0b9cf8724213cf8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Nectar Group M seed for HoneyB Bitcoin yield platform. Sources: Markets Insider (FinanceWire release, HTTP 200), Dealroom (Gordon/The Block interview summary, HTTP 200), Grafa (HTTP 200). Hero: Casascius coin, Steve Jurvetson CC BY 2.0, 223KB. 669 words, 3 source hosts, audits clean.",
           "sourceChecks": [
@@ -136449,10 +136479,11 @@
                 "sha256": "0d34c6e273b906a8ee5ba4577f0c03bb5bb4c460926d3a38f9dd7d2a5c32c583"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "a0b5ba7979f5eaf98a43": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Optimum mump2p live on Ethereum mainnet (16 operators, ~22k keys, 1.4M+ ETH). The Defiant 403 blocked. Sources: CryptoSlate Chainwire PR (HTTP 200), Cryptonomist independent (HTTP 200, 2.42x vs PR 2-4x, Hoodi testnet caveat, ether.fi silence, API key needed). Hero: MIT campus aerial, DrKenneth CC BY 3.0, 330KB. 711 words, 2 hosts, audits clean (avoided banned word beacon; Cryptonomist named 3x max).",
           "sourceChecks": [
@@ -136490,10 +136521,11 @@
                 "sha256": "dd6cf8fcba126fee29dbb365dc29dbb61a173722e8b36b3ed973748521bc4099"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "4b876bd7370c395bf9c8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "France 2027 budget revenue section carries stablecoin-swap tax amendment (I-3898, 38-37-25 Oct 16); solemn vote set Nov 3. The Defiant JS-gated/unavailable. Sources: Assemblée nationale schedule (primary, HTTP 200), scrutin 8836 (primary vote record, HTTP 200), Decrypt (HTTP 200). Infonet now 403 to Node fetch, not cited. Hero: Palais Bourbon from Pont de la Concorde, Jebulon CC0, 307KB. 633 words, 2 hosts, audits clean.",
           "sourceChecks": [
@@ -136535,10 +136567,11 @@
                 "sha256": "5515049fa4b4c75a16d450e3767c16aef7d4cfbabb6afdae4b0893f0b62a7646"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "223942039ddb42dedd48": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "CME Q3 call: Duffy says perp funding rate is a swap under Dodd-Frank; Marchese says CFTC case fully briefed to judge in December; no perps listing decision until suit resolves. BeInCrypto 403. Sources: Motley Fool full transcript (HTTP 200), Bullished same-day report (HTTP 200). CourtListener complaint PDF HTTP 200 but not text-extractable here, not cited. Hero: Terry Duffy photo, E254 CC BY-SA 4.0, 125KB. 655 words, 2 hosts, audits clean (avoided banned word leverage).",
           "sourceChecks": [
@@ -136576,10 +136609,11 @@
                 "sha256": "f65dc15c609360af596a630fe694a1f6bd66cd001a60125f9b2d28fc79f7b711"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "d827e4da47d80b199d72": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read OCC News Release 2026-92 (Oct. 21: final GENIUS Act rule, Bessent Lincoln quote, Gould quote, effective Jan. 18, 2027, BSA/AML/OFAC excluded to separate Treasury rulemaking, applications timing unannounced), Decrypt Oct. 21 (jurisdiction scope, new regulation section contents, Gould August November-target quote, FinCEN/OFAC April proposal) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, 'solely' analysis, rebuttable presumptions removed, other agencies' timelines, principles-based reserve change). All draft claims verified; updated front-matter dates to 2026-10-22. Formatting clean, image audit passes, slug occgenius unowned, hero 218KB.",
           "sourceChecks": [
@@ -136617,10 +136651,11 @@
                 "sha256": "b5f0f9fbe45c43270118c243c86bd6095d3675d7ef3f3514ce7a902987800c25"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "65d72de1761a9560efb8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph (Oct. 21) and Cryptopolitan (Oct. 22) on the Cardano Foundation's 19-page Sept. 30 Commission consultation response: substance-not-technology quote, Buergi byline, delegation-without-custody argument, ESMA/EBA/ECB/AMLA counterpressure, FATF July figures, Kaiko EUR362B, Circle/Aave yield-ban pushback all verified. Repairs: front-matter dates bumped to 2026-10-22; unlinked FATF claim now attributed via Cryptopolitan (FATF site 403); Freshfields, AMLA and Kaiko claims now link their primary sources directly, cutting Cryptopolitan named mentions from 5 to the 3 cap. Formatting clean, image audit passes, slug cardanomica unowned, hero present.",
           "sourceChecks": [
@@ -136654,10 +136689,11 @@
                 "sha256": "05cf705562cf955ee72c17a2cfcfe0e7c72d7e4085e5e8171d5f6c384ed58e96"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "c56190794627ccdc754f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read CoinDesk (Oct. 21) and Bitcoin Magazine (Oct. 21): White House official sourcing, $833M halted/503 sites/9,000 victims, cabinet attendee list, March EO and DHS memo, FBI IC3 2025 figures (1M+ complaints, 181,565 crypto complaints, $11.366B, $7.2B investment scams, 60+ $4.43B, ATM $389M, recovery $1.4B), Cambodia/Laos/Burma compounds, Scam Center Strike Force composition, Operation Level Up 3,780/$225.8M, Chainalysis $154B, Anna Kelly quote all verified. Repairs: front-matter dates to 2026-10-22; Reuters hyperlink removed (now HTTP 401; attribution kept via Bitcoin Magazine and CoinDesk which both cite the official's Reuters interview); 'Wednesday' anchors made explicit as Oct. 21 for the Thursday publication. Formatting clean, image audit passes, slug trumpscam unowned, hero 213KB.",
           "sourceChecks": [
@@ -136691,10 +136727,11 @@
                 "sha256": "e50319fd160b37c0f476f8c951ad2582061c4bfb7d364fd6195f055306e0aac7"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "adebfc2118208e55e78a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Validation repair check: CoinGape URL that returned HTTP 403 in the prior validator run now returns HTTP 200 on GET (default and readiness UA). Downloaded and read the full CoinGape article; it confirms the Oct. 21 joint-letter coverage, Ripple CLO Alderoty support for finalizing Reg Crypto and offshoring claim under case-by-case enforcement, and Blockchain Association push to raise the startup exemption from $5M to $10M, matching the draft's attributions. No content change needed. All six outbound links re-checked HTTP 200 (cointelegraph, cryptobriefing, coingape, insidecrypto, bitcoinsistemi, commons credit). Draft 765 words, quality/formatting/image/duplicate audits clean.",
           "sourceChecks": [
@@ -136720,10 +136757,11 @@
             }
           ],
           "reviewedAt": "2026-10-22T15:08:02.714Z",
-          "articleSlug": "digitalcommodity"
+          "articleSlug": "digitalcommodity",
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "503a86e0687b3af255f8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt + Cointelegraph (assignment sources) plus Unchained tip link and primary Solana Foundation Alpenglow upgrade page + Anza hub: slot 459,653,000 activation Oct. 21, 12.8s-to-150ms finality, Watt/Wattenhofer quotes, 80/60% thresholds, 20%+20% tolerance, 6.6s/4,721 TPS press-time reading, SIMD-0236 98% vote, Oct. 13 date confirm, Rotor/Quantumglow/Firedancer CU items, and Validator Admission Ticket (1 SOL identity-account vote fees to flat 0.8 SOL from vote account above rent-exempt, SIMD-0357) all verified. Repairs: front-matter dates to 2026-10-22; four near-verbatim Decrypt paragraphs rewritten for independence; unsupported 'Rotor needs its own governance proposal' claim replaced with Foundation-backed 'not yet scheduled'; VAT claim now links the Solana Foundation breaking-change section directly; em dash removed for formatting gate. Attribution caps: Decrypt 2, Cointelegraph 2. Formatting clean, image audit passes, slug alpenglowlive unowned, hero 300KB, all links HTTP 200.",
           "sourceChecks": [
@@ -136769,10 +136807,11 @@
                 "sha256": "2b452f02b120d2847d3882d66da05dbf8fbe1dcad346835fe515d1aae5d9ef87"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "fdc5bf88db82bc3cc461": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-reviewed Snapshot primary proposal, Cointelegraph, TokenPost, AltcoinBuzz and CryptoTicker. Vote open Oct 21-24; ~98% against with single wallet casting most no votes. Updated draft for opposition tally and two-step emissions; verified TVL and fee-split figures. Audits pass.",
           "sourceChecks": [
@@ -136818,10 +136857,11 @@
                 "sha256": "5ab7a7d78ce1f7f65b288ffb5560870b280e76ecbec171c9cf9d9b24ab9dcc1b"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "71cb713994d7bbf29390": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Mural primary blog, CoinDesk, Fortune, CoinMarketCap and Cryptonomist. Oct 20 announcement: 5M Series A led by Tether, North Island Ventures, 8M total. Updated draft to cite primary source and Fortune details; audits clean.",
           "sourceChecks": [
@@ -136867,10 +136907,11 @@
                 "sha256": "a09572b3eb337bce93146e05355377ac9b3ded8856399f5fd87b2db90178a115"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "9258bd8525e496ce85ad": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Validation repair: removed The Block citation (HTTP 403 on recheck). Re-read the Aero launch hub (launch timeline, conversion rates, sAERO mechanics, 47h cooldown, cross-chain allocation, irreversible upgrade, final-epoch 9PM wait, 2.127B max supply), CoinMarketCap (seven chains per Dromos Labs, Cutler quote and 2%/57% tokenized-stock share, $112B/$30.6B/$34.4B DefiLlama volumes, 94.5%/5.5% revenue split, untested Predictive Allocation) and CoinLab (manual migration, Metaswaps and Slipstream V3, $422M TVL). Dropped The Block-only figures ($120B/month claim, Q3 58%/60% share, Nov 2025/Q2 2026 history, bitcoin-dollar ranking, MEV-capture detail). Draft now 680 words, zero theblock.co URLs, all outbound links HTTP 200, quality/formatting/image/duplicate audits clean, CMC named 3x.",
           "sourceChecks": [
@@ -136892,10 +136933,11 @@
             }
           ],
           "reviewedAt": "2026-10-22T15:08:02.713Z",
-          "articleSlug": "aeromerge"
+          "articleSlug": "aeromerge",
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "555b03b302d276314cb0": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Crypto Briefing (Oct. 21) and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted in the Docker image, CVE-2026-111943, required release for all operators, 422,862 ETH cluster balance. Draft is formatting clean, image audit passes, no quality failures, slug charonupgrade unowned, hero 286KB.",
           "sourceChecks": [
@@ -136929,10 +136971,11 @@
                 "sha256": "20a4de512c4c77f597da43c6bbf8e256aceee5e2dc52c7a2e8a3d0a029320552"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "aabb4d1716bd4636b5a6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read CoinDesk, Cointelegraph and GitHub PR 1405. PR merged Oct 21 setting height 3,543,405; Zebra 7.0.0 released Oct 22 with the height. Updated draft for merge and release; fee burn and Sprout shutdown verified. Audits clean.",
           "sourceChecks": [
@@ -136974,10 +137017,11 @@
                 "sha256": "3ddf3f180e3b184f0ca444a626b681a84b4200d880be3a5058f98763619049f4"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "843d2d337606d6824758": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt, CoinDesk and BBC; added Reuters exclusive via Euronext on early-stage talks and possible delay. Fixed stock-move attribution (SpaceX rose on earnings beats, not Tesla). 868 body words, all links 200, audits clean.",
           "sourceChecks": [
@@ -137019,10 +137063,11 @@
                 "sha256": "87fe77102ffeb83191c575b52f933477b5d72cfbea00327c24fc6fe367a1988b"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "0f51632a46bcf765441d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read CryptoSlate and GitHub 0.14.5/0.14.4 releases; added CryptoBriefing on CSRF impact and HTTP Basic caching. 719 body words, three sources on separate sites, audits clean.",
           "sourceChecks": [
@@ -137064,10 +137109,11 @@
                 "sha256": "860cdb650856ff4f804a4e967fc78e3562c597205b9dee7e68304f8aabcd37a3"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "4fce1aae7d056893b050": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Bitcoin Magazine, iCoin Market and the Webull PR Newswire release. Tri-party structure, GENIUS collateral, Webull November date all verified; added Bloomberg date and Polymarket competitive context. 676 body words, audits clean.",
           "sourceChecks": [
@@ -137105,10 +137151,11 @@
                 "sha256": "99dfb6c14011e4e7d43f73b0a27cb65db7ab62fa1f00f5cab48d2a531c9060fd"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "ce8fc79a80fcd65b9473": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Zodia statement, Cointelegraph and Bitcoin Magazine. Definitive agreements, entity list, investor lineup and quotes verified verbatim; linked BM for Singapore custody plan. 686 body words, all links 200, audits clean.",
           "sourceChecks": [
@@ -137146,10 +137193,11 @@
                 "sha256": "e01d8359f81acc4e7de636244e84f4bf3f1f0641898d4b33cef2841896def228"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "2ba9af4928788536e6a1": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt (Oct. 21) and CoinDesk (Oct. 21): Dogecoin Labs formed with Foundation, consolidates MyDoge/DogeOS/Such App under CEO Jordan Jefferson, House of Doge contributed IP and teams, MyDoge 500k+ users, DogeOS testnet Sept. 30, DOGE ~$0.084. GlobeNewswire primary returned 403; removed that link and attributed the Jefferson quote via Decrypt. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 240KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137187,10 +137235,11 @@
                 "sha256": "6e440cd98bc6809f3c10ca2c8d60b736a7ed7c57eb879b78ba7cd6f4abb90e97"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "cf7fdde8b23e641d464d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Decrypt (Oct. 21), Cointelegraph (Oct. 22) and PHP.net security advisory: CVE-2026-109618/109619, CVSS 9.2, versions 8.5.12/8.4.27/8.3.36/8.2.35, governments offline (Finland Valtori, Netherlands, France, Germany ITZBund), Cloudflare CTO early attacks, SlowMist 793 domains, Coinbase/BitGo no exposure, Intersect Members Area offline. Reuters link removed (HTTP 401); attribution kept via Cointelegraph which cites Reuters. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 286KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137232,10 +137281,11 @@
                 "sha256": "1975976e241cafa324d1d0239d85b0e99e950bb44a312468281d358dc8882483"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "8ba60470835f49e0d199": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Polkadot Community Foundation forum notice (Oct. 21), Crypto Briefing, CoinMarketCap and CryptoTicker: four extension versions (3.0.1/3.0.3/3.0.4/3.0.5) leaked private keys via 'TON ecosystem' PR from Feb. 19 2025, active to Oct. 10 2026, 17,286 DOT stolen across eight users, ~6,000 Chrome installs. The Defiant still 403. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 129KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137281,10 +137331,11 @@
                 "sha256": "da0194e7f6d800efe955f19ff650dadb18af7ca19a85abe3b2ed1807e54e1e77"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "5bcd28dec5ba9a26fdd9": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read CoinDesk (Oct. 21) and Cointelegraph (Oct. 21): Shinhan Card pact with SBI VC Trade and SBI XDC Network APAC signed Tuesday Oct. 21, announced Wednesday, card payments/wallet transfers/trade settlement, JPYSC 20.1B yen ~$127M as of Sept. 7, Shinhan 20M cardholders, Visa August agreement, April PoC. Fixed JNTO attribution to match Cointelegraph wording. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 134KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137318,10 +137369,11 @@
                 "sha256": "b2c22a5ba43d24197d8e4e99a9cebe487e8be609612cb7641b5adb7011b0081d"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "3b17d13d1a00a8a1c66f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read BNM primary press release (Oct. 20, embargo 17:00 local) and Cointelegraph (Oct. 21): SSDS+ launch for tokenised bonds and sukuk, in-house cloud/DLT, builds on SSDS, integrated with RENTAS+ for around-the-clock settlement, Governor quote verified, Nov. 2025 tokenization roadmap, Feb. Digital Asset Innovation Hub tests. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 285KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137355,10 +137407,11 @@
                 "sha256": "9a7574b9365839db96358ef7490c01901f7cab815effb21b433e3eb883074a97"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         },
         "0dcd71cd0d00895c9c79": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph (Oct. 21) on tech blocks and CertiK warning, plus Cloudflare primary blog (Oct. 20): eight eMudhra intermediate certs, keys 'flawed' and 'trivial to exploit' per Mozilla's Dennis Jackson, Chrome blocked Saturday, Apple Monday, Microsoft Tuesday, Cloudflare updates Tuesday, CertiK's Peiyu Wang on crypto bot exposure, DigiNotar 2011 recall. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 122KB, all links HTTP 200.",
           "sourceChecks": [
@@ -137396,7 +137449,8 @@
                 "sha256": "39ddd5380cfd5d2ae9d1720091dba05c92c8f8115940fd0a2916353f6f73cd4b"
               }
             ]
-          }
+          },
+          "publishedAt": "2026-10-22T15:16:20.372Z"
         }
       },
       "baselineSlugs": [
@@ -137741,10 +137795,273 @@
         "total": 193,
         "checkedAt": "2026-10-22T11:10:34.736Z"
       },
-      "validationErrors": [
-        "Source link HTTP 403: https://coingape.com/ripple-cardano-chainlink-hedera-stellar-aptos-avalanche-support-sec-regulation-crypto-assets/",
-        "Source link HTTP 403: https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514"
-      ]
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-10-22T15:16:20.372Z",
+        "publishedIds": [
+          "665905ab039e4e58273a",
+          "f3e86162ee7dcb7ad739",
+          "89a69374c6920c41cbfc",
+          "0234a0b9cf8724213cf8",
+          "a0b5ba7979f5eaf98a43",
+          "4b876bd7370c395bf9c8",
+          "223942039ddb42dedd48",
+          "d827e4da47d80b199d72",
+          "65d72de1761a9560efb8",
+          "c56190794627ccdc754f",
+          "adebfc2118208e55e78a",
+          "503a86e0687b3af255f8",
+          "fdc5bf88db82bc3cc461",
+          "71cb713994d7bbf29390",
+          "9258bd8525e496ce85ad",
+          "555b03b302d276314cb0",
+          "aabb4d1716bd4636b5a6",
+          "843d2d337606d6824758",
+          "0f51632a46bcf765441d",
+          "4fce1aae7d056893b050",
+          "ce8fc79a80fcd65b9473",
+          "2ba9af4928788536e6a1",
+          "cf7fdde8b23e641d464d",
+          "8ba60470835f49e0d199",
+          "5bcd28dec5ba9a26fdd9",
+          "3b17d13d1a00a8a1c66f",
+          "0dcd71cd0d00895c9c79"
+        ],
+        "articleSlugs": [
+          "stakingrecord",
+          "regcrypto",
+          "nearissuance",
+          "honeyb",
+          "mump2p",
+          "francevote",
+          "duffyperps",
+          "occgenius",
+          "cardanomica",
+          "trumpscam",
+          "digitalcommodity",
+          "alpenglowlive",
+          "cakeflip",
+          "tethermural",
+          "aeromerge",
+          "charonupgrade",
+          "zcashnu7",
+          "spacextesla",
+          "eclairpatches",
+          "kalshibitgo",
+          "zodia",
+          "dogecoinlabs",
+          "phppanic",
+          "fearlesswallet",
+          "shinhanstable",
+          "malayssds",
+          "emudhra"
+        ],
+        "pendingIds": [
+          "60b16dd0dc985ccdad7e",
+          "4b87abe241027295d199",
+          "24c4d91f14449890e0e9",
+          "c9c607d2e7fbf85aec9c",
+          "afd388c675ee2771d6df",
+          "5d1ff578e846af5ef471",
+          "7a4e3d44b7f599fe25a1",
+          "8072d41745bf6f29208f",
+          "0c5fe6c3db8baf83e7c1",
+          "0f0bff581db089300777",
+          "b7168518ec513546cf43",
+          "6da039ca10c56a5d324c",
+          "1c3147768de2b8b436b8",
+          "5fb8a2d7af07a9719100",
+          "8a9c55987570ca8957f1",
+          "b498c1e9e6d6cd82dc99",
+          "ee34d026c107e7ee27a8",
+          "f88d0112b7b0daec2be9",
+          "81694da92ee74bd113e7",
+          "3b807c09b96ed985410d",
+          "acb3c0d24192a6297c45",
+          "e18d88feaa9561fba982",
+          "fe71974c698eaf8ae473",
+          "271b3c007b72fd71ec8e",
+          "bfeed02e42b7ed83e3c3",
+          "49b982415e5fef4a4894",
+          "b8772c1affc74e97e6fa",
+          "b8c0039794f871c2439a",
+          "33e9137878190c73e286",
+          "cc2964f96502bc13620a",
+          "2ba7d71759c6d5852e5c",
+          "5a09ce3eaeb9d8533e3f",
+          "adc4fc8b62a62b83a76f",
+          "906c321d0e1b67a1a1bc",
+          "c7a827e4ee12df6bdcad",
+          "97ad1842955181e296a2",
+          "d5f59b82ec372ac19238",
+          "7b4b1bb1bab20bc37092",
+          "c523e1b5b12267eabb72",
+          "78aef94bf455cda2b2bd",
+          "3dbbcb4f195d2243c344",
+          "7539ea1fd9af398c93a3",
+          "9dceba750a7c01f1ce32",
+          "82d09df67c8d5c5bfdb9",
+          "7ca8220be803051b7f4f",
+          "fc3a613b36d1da3b9b0e",
+          "8f157e31313ac6739c5c",
+          "ffa615bd42df3312c6b5",
+          "5785b055a64bc6aa90b3",
+          "78f01b2f5907f44115e4",
+          "6d8d2e28d8e1f1964953",
+          "1fda25faaab210070688",
+          "e673a22b7b5ad7f4f38b",
+          "73cfddc3b3aa4b77c071",
+          "7d1606694c45723a51f6",
+          "fdfd9c9404e5e112fd8a",
+          "cbf0d8862095fa9ba23b",
+          "3e41fa249ce9f04471da",
+          "4b829375aefcf8ebf7e7",
+          "d1e9c14dfc82f7afd45e",
+          "b2df48ddc9426e42196f",
+          "7aa1f226931b61ada9d6",
+          "8a1f48a8351737831c54",
+          "49eb81d322b98eabf2e6",
+          "5c99758a09e97d463feb",
+          "962ac17fd25d7d181222",
+          "75952ae43af3a37ddedc",
+          "071b560c69c5c4bd1d77",
+          "a93de00671c5eab18669",
+          "095addb5e2349dbc2c3f",
+          "32d8b4c8d1aed667b861",
+          "bac6d1f25d5153985111",
+          "55d335eb3f78dbfa85ae",
+          "cecf79556092a6d40633",
+          "d9092da81b46cb7ac32b",
+          "9806324818ae69707635",
+          "7f1b6648c9a51987b3d7",
+          "97a7f8a217785a1e3eb1",
+          "9528a7c59390f24802bf",
+          "eeaee7954ea2f2467539",
+          "409cca9391eb9ab80ce2",
+          "0eb3f7f01827cd7b281e",
+          "49dd3d375831aaef6f05",
+          "efea71de3d576cfff364",
+          "15cbc157d8cab5b8361d",
+          "a1d12b8d1e4ae190bca0",
+          "c941482f8444d25ca4eb",
+          "c1b26b9ab08d25cf2347",
+          "618996273a71c03872de",
+          "df1f2ceaf5a318c8e092",
+          "1e0af0738e369b11404c",
+          "3265b04a99140b6b602c",
+          "e23d5fd85d01cffa3e36",
+          "e321cb9a105e51a02251",
+          "c65d83384e3de8bd6278",
+          "5bb86d1b41e7511dc650",
+          "23ee4808d8c71cb91b82",
+          "cdb0863108c524670124",
+          "c020efbda7b5a1346f0d",
+          "2f98e0b3d53dd160ef4f",
+          "52c80478c29bca8ad11a",
+          "5fc18dc5d4d14d59ac41",
+          "a71b76bb79b8ec06ca8e",
+          "1f9a6912beade16068bf",
+          "a5ed28ed9db5dc4c73f0",
+          "33a328eb54f544deffa7",
+          "39df26d5c4457ca6f06a",
+          "08e58a7df1a8b73120d9",
+          "28378a43bbaa91257d94",
+          "39f796a596642ba463d6",
+          "b6d470f69ad5bf8526ef",
+          "5d749ed9de23fbc8afa4",
+          "f84fafb9a4d8b5809eed",
+          "fe8b65784bd1a0828f4c",
+          "519de121f7bb5596577b",
+          "a8ebfa037a1049aee5ce",
+          "26b1b89feacf1590530f",
+          "2f107f788c3c9a8181be",
+          "dd35649536f92945b8c1",
+          "99b116b538836771f9a3",
+          "fefbcd3eb2f50d97729c",
+          "6363445a00d1e696a86c",
+          "0f1f8e97ee3febf7d689",
+          "cb56100814459e5ef399",
+          "3441bdd8a07b07b1faad",
+          "4396bf1e494c00615a9e",
+          "c4feb5d10225be633b0f",
+          "9f209a9ef04e1d10f06f",
+          "6fc91c74b884b0ed3db6",
+          "9bc4a00a4c6f90502421",
+          "57ee2b7f6d0dd77c4fa0",
+          "fac1babc3933e0ff1128",
+          "f8f9999f5672d4412d7d",
+          "3a25bd7779c804df95c2",
+          "575c2c592489ba67eb82",
+          "b08909ce174f7cbd7a2a",
+          "4ed9cc2e488a22da1a16",
+          "e168a91c5a1812954ca3",
+          "8624164a55d37c1bf63f",
+          "1ac21aaa79267139a752",
+          "394b2f405dc2245082be",
+          "a64cebe4464a32f3e60f",
+          "b2db9d9cb9fdcf04ebee",
+          "02a5728d74f4d10500aa",
+          "56fb3e2ed4884660af64",
+          "a27db91172f13ac219d3",
+          "851303db30a2633b418f",
+          "3cc415a65591d91460bb",
+          "1ee1ce5c251dca6e268f",
+          "691c804833cb167fdb4c",
+          "cb189cf7c5dc48bcc110",
+          "9b6ee5d53389ff19f451",
+          "4fc180d71d552835f3de",
+          "5d4ef5441a0fb6f694c2",
+          "75a5edd7d5483763d127",
+          "165ffe65ff77d2057bee",
+          "56e1254a497fb550fa5e",
+          "e7e9c8fd5087c1fb06f6",
+          "6f1a71e46d045c376361",
+          "e9f9b9ac142b69b2e905",
+          "9ff227046cbe0e855363",
+          "26310daf344b5fd5ed8f",
+          "d9f95f6be8dddc5644c5",
+          "29995642e3a962a5995c",
+          "9550b11736bac0d85218",
+          "afd0c3dd74db9e382c54",
+          "a26a55ccf9471b8cb0d1",
+          "50723b8e3f284d3eb279",
+          "1120f9ca9ca6fc85d94e",
+          "9010303c8749a927e010",
+          "de83488f3a7e035d3002",
+          "07028c093ccb8f32824f",
+          "d43beecdeedf318a71ee",
+          "3deccc366e839ca00757",
+          "8c83e5d9db621d0a277f",
+          "ae83d5c3e13910271862",
+          "080a10367f3d570e959b",
+          "9fda14f4a8af054bdba5",
+          "3649c88065408bc9c93c",
+          "ab861b0c1d7dac97d966",
+          "21e6621ca6f9badf5c1c",
+          "665dc2cebd4ea6fe568f",
+          "58931a00cc5b47da1591",
+          "fc655bd6df3f5f6a6fa6",
+          "94f7c6678cc2811082d3",
+          "5a4183ac022505b2cf55",
+          "fb8d742ccca4b526d72e",
+          "c141b99058cfc76d38d3",
+          "75c4264f1c48a8ceade4",
+          "d2a52c7225149b03b851",
+          "b7146571e8cb6864b769",
+          "3dd4771a58ad96aefa38",
+          "96fdc2c70143514f1045",
+          "9526856c9522c09600a6",
+          "a4cae2a3d8de01ee4467",
+          "d203beceb353a49eb8c4",
+          "3f68a86fea16ca813d7f",
+          "e365455ef048a716f298",
+          "d0c5195f859f7005ba57",
+          "e061b4934d44cbf1ca50",
+          "781a69326da00b580847",
+          "85ac9345e3f66050cf50"
+        ]
+      }
     }
   }
 }

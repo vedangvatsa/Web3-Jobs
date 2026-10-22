@@ -1,0 +1,28 @@
+---
+title: Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators
+ogTitle: "OPTIMUM BRINGS MUMP2P BLOCK PROPAGATION TO ETHEREUM MAINNET"
+description: Optimum says its mump2p protocol is live on Ethereum mainnet with 16 node operators and about 22,000 validator keys, delivering blocks faster than GossipSub in early measurements.
+image: /images/news/mump2p.jpg
+imageCaption: "MIT's main campus in Cambridge, Massachusetts, where Random Linear Network Coding underpinning mump2p was developed. Photo: DrKenneth via Wikimedia Commons (CC BY 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:MIT_Main_Campus_Aerial.jpg
+category: News
+data-ai-hint: mit campus aerial
+publishedDate: '2026-10-22'
+lastUpdated: '2026-10-22'
+---
+
+Optimum said its mump2p data propagation protocol went live on Ethereum mainnet on Oct. 20, with 16 node operators running the software across roughly 22,000 validator keys holding more than 1.4 million ETH in active stake. The company put the total value boosted at about $3.4 billion and described the launch as the first production deployment of its networking architecture, in a [Chainwire release carried by CryptoSlate](https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/). Independent coverage [from Cryptonomist](https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/) the same day put the speedup at a more conservative figure and added operational caveats the release did not include.
+
+The protocol does not replace Ethereum's existing networking. It runs beside a validator's consensus client as a sidecar gateway: consensus rules, execution and signing keys stay unchanged, and GossipSub continues operating in parallel. If Optimum's layer fails, the validator falls back to GossipSub, according to Cryptonomist. The launch followed testing that began in mid-2025. Under the hood sits Random Linear Network Coding, or RLNC, developed under Optimum co-founder and chief executive Muriel Médard at MIT. Rather than repeatedly relaying identical block data between peers, the system divides a block into fragments and sends coded combinations of them; nodes forward and recombine those pieces before a receiver has the full message, rebuilding the block once enough linearly independent pieces arrive.
+
+Performance claims differ by source. Optimum's release said early mainnet measurements showed blocks arriving 2 to 4 times faster than the GossipSub baseline, with arrival variance about 7.88 times lower, and validators running mump2p received the block before libp2p in 9 of 10 measurements. That independent report put the speedup at 2.42 times rather than a 2-to-4-times band while keeping the 7.88-times variance figure. The same piece noted that the sixfold to twentyfold acceleration advertised on Optimum's product page comes from the Hoodi testnet, not mainnet, and that ether.fi has not published anything about Optimum on its own blog, documentation or governance forum.
+
+Timing affects validator earnings. Late block delivery can cost attestation and block-building rewards, with operators far from major infrastructure hubs facing the greatest penalty, a point Optimum's release made about why stake currently clusters near hubs. The company also said faster delivery improves head-vote accuracy, helping validators vote for the correct, most recent block, and points to better opportunities to capture value tied to transaction selection and ordering within a block.
+
+Adoption so far rests on a short list of infrastructure firms and one large mandate. The operator set includes Blockdaemon, Everstake, P2P.org, Stakefish, Luganodes, InfStones, Meria, Finoa, Node.Monster, HashKey Cloud, DSRV, RockX, Nansen, Validatrium, Ebunker and Validation Cloud. Ether.fi, which manages more than $6 billion across staking, restaking and card products, required all 12 of its node operators to run mump2p, moving the protocol from optional to standard across its validator set, per the company release. Dan Spina, engineering manager for NodeOps at Blockdaemon, said validator performance is a game of margins and propagation timing is one of the margins operators can control.
+
+The staked supply figures add scale context. More than 1.4 million ETH across the 16 operators is about 3.2% of the 43.7 million ETH locked in Ethereum's staking deposit layer, the independent report calculated. Those keys average roughly 64 ETH each, above the former 32 ETH ceiling after EIP-7251 raised the maximum effective balance to 2,048 ETH through the Pectra upgrade. Ethereum now has about 830,000 validators averaging 52.7 ETH.
+
+Médard framed the launch in market terms, saying firms in traditional finance spend billions shaving milliseconds off execution because speed is money, and the same economics now apply to Ethereum's top operators. Rok Kopp, co-founder and chief growth officer at ether.fi, said the company does not mandate new infrastructure across its entire validator set unless it is confident the change raises the bar for stakers and the network.
+
+Connecting to mump2p is free and permissionless, though operators need an API key issued by Optimum. Deployment requires no hardware changes, and integration is described as taking less than two hours of engineering work per operator. The gateway software is open source; the underlying RLNC library is source-available but cannot be forked or reused, and Optimum's validator page asks for company information and operational scale from applicants as it onboards an initial group of enterprise partners.
