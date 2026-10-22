@@ -42043,7 +42043,8 @@
       },
       "account": "channel:web3",
       "attemptId": "0b5ba8e4-1078-4b0e-8182-a1914239589d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc4656006e3629ba70f5a95532cf01aa25fff3425"
     }
   ]
 }
