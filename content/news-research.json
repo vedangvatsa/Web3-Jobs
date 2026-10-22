@@ -73119,13 +73119,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "503a86e0687b3af255f8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T15:40:00.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Decrypt + Cointelegraph + Foundation dashboard",
+      "note": "Re-read Decrypt + Cointelegraph (assignment sources) plus Unchained tip link and primary Solana Foundation Alpenglow upgrade page + Anza hub: slot 459,653,000 activation Oct. 21, 12.8s-to-150ms finality, Watt/Wattenhofer quotes, 80/60% thresholds, 20%+20% tolerance, 6.6s/4,721 TPS press-time reading, SIMD-0236 98% vote, Oct. 13 date confirm, Rotor/Quantumglow/Firedancer CU items, and Validator Admission Ticket (1 SOL identity-account vote fees to flat 0.8 SOL from vote account above rent-exempt, SIMD-0357) all verified. Repairs: front-matter dates to 2026-10-22; four near-verbatim Decrypt paragraphs rewritten for independence; unsupported 'Rotor needs its own governance proposal' claim replaced with Foundation-backed 'not yet scheduled'; VAT claim now links the Solana Foundation breaking-change section directly; em dash removed for formatting gate. Attribution caps: Decrypt 2, Cointelegraph 2. Formatting clean, image audit passes, slug alpenglowlive unowned, hero 300KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
@@ -73134,9 +73134,21 @@
         {
           "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/solana-activates-alpenglow-on-mainnet-swapping-out-towerbft-for-a-faster-consensus-engine/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://solana.com/upgrades/alpenglow",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.anza.xyz/alpenglow",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-22T11:49:00.801Z",
       "articleSlug": "alpenglowlive",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135578,6 +135590,35 @@
           ],
           "reviewedAt": "2026-10-22T11:42:40.756Z",
           "articleSlug": "digitalcommodity"
+        },
+        "503a86e0687b3af255f8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt + Cointelegraph (assignment sources) plus Unchained tip link and primary Solana Foundation Alpenglow upgrade page + Anza hub: slot 459,653,000 activation Oct. 21, 12.8s-to-150ms finality, Watt/Wattenhofer quotes, 80/60% thresholds, 20%+20% tolerance, 6.6s/4,721 TPS press-time reading, SIMD-0236 98% vote, Oct. 13 date confirm, Rotor/Quantumglow/Firedancer CU items, and Validator Admission Ticket (1 SOL identity-account vote fees to flat 0.8 SOL from vote account above rent-exempt, SIMD-0357) all verified. Repairs: front-matter dates to 2026-10-22; four near-verbatim Decrypt paragraphs rewritten for independence; unsupported 'Rotor needs its own governance proposal' claim replaced with Foundation-backed 'not yet scheduled'; VAT claim now links the Solana Foundation breaking-change section directly; em dash removed for formatting gate. Attribution caps: Decrypt 2, Cointelegraph 2. Formatting clean, image audit passes, slug alpenglowlive unowned, hero 300KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/solana-activates-alpenglow-on-mainnet-swapping-out-towerbft-for-a-faster-consensus-engine/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solana.com/upgrades/alpenglow",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.anza.xyz/alpenglow",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:49:00.801Z",
+          "articleSlug": "alpenglowlive"
         }
       },
       "baselineSlugs": [
