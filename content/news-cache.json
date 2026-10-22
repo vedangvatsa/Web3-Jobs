@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-21T19:31:29.750Z",
+  "generatedAt": "2026-10-22T03:35:19.790Z",
   "items": [
+    {
+      "title": "Ripple (XRP) summary of BCG research says custody is becoming digital finance layer",
+      "link": "https://Blockchain.News/news/ripple-bcg-custody-digital-finance-layer",
+      "pubDate": "Thu, 22 Oct 2026 00:30:03 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Ripple (XRP) says new BCG research finds institutional custody is shifting from safekeeping toward governance, interoperability and integration. (Read...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin swept to $80K and bids refilled as overhead supply built",
+      "link": "https://Blockchain.News/news/bitcoin-swept-to-80k-and-bids-refilled-as-overhead-supply-built",
+      "pubDate": "Wed, 21 Oct 2026 22:44:18 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Glassnode said Bitcoin swept to about $80K on Oct. 15, with ETF and treasury bids refilling and overhead supply clustered near $85K-$87.5K. (Read More...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress ",
+      "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 21:53:48 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "Banking advocacy organizations are pushing back against the OCC’s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Five new Tezos dApps spotlight community tools and creators",
+      "link": "https://Blockchain.News/news/five-new-tezos-dapps-community-tools-creators",
+      "pubDate": "Wed, 21 Oct 2026 20:26:28 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "A Tezos feature highlights five new dApps, including TezCity, Aleatory, TezTowers, The Wall Today and Teztree, amid a modest XTZ rise. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 20:26:07 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+      "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 20:19:39 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Vietnam’s digital payments are mature; stablecoins may fit cross-border",
       "link": "https://Blockchain.News/news/vietnams-digital-payments-are-mature-stablecoins-may-fit-cross-border",
@@ -10,28 +66,12 @@
       "source": "Blockchain.News"
     },
     {
-      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-      "link": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-      "pubDate": "Wed, 21 Oct 2026 17:59:36 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
-      "source": "The Block"
-    },
-    {
       "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
       "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 21 Oct 2026 17:57:39 +0000",
       "creator": "Nate Kostar",
       "contentSnippet": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for cryp...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Tether backs Peso to expand USD₮ payments across Latin America",
-      "link": "https://Blockchain.News/news/tether-backs-peso-to-expand-usdt-payments-across-latin-america",
-      "pubDate": "Wed, 21 Oct 2026 17:52:40 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Tether led Peso’s pre-seed round to expand USD₮-based payments, on- and off-ramps, and merchant infrastructure in Latin America. (Read More)",
-      "source": "Blockchain.News"
     },
     {
       "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
@@ -80,14 +120,6 @@
       "creator": "Yogita Khatri",
       "contentSnippet": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.",
       "source": "The Block"
-    },
-    {
-      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-      "pubDate": "Wed, 21 Oct 2026 16:23:44 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organi...",
-      "source": "Coindesk"
     },
     {
       "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
@@ -282,7 +314,7 @@
       "source": "Coindesk"
     },
     {
-      "title": "Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry",
+      "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
       "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
       "pubDate": "Wed, 21 Oct 2026 10:30:40 +0000",
       "creator": "Shaurya Malwa",
@@ -514,22 +546,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets ",
-      "link": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 20 Oct 2026 16:47:48 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local curre...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
-      "link": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 20 Oct 2026 16:38:13 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
       "pubDate": "Tue, 20 Oct 2026 16:31:24 +0000",
@@ -544,22 +560,6 @@
       "creator": "Logan Hitchcock",
       "contentSnippet": "Strategy’s co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here’s what you need to know.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls ",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 20 Oct 2026 16:14:09 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
-      "link": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406",
-      "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
-      "source": "The Block"
     },
     {
       "title": "Tether CEO Says Addresses Frozen Weeks Ahead of Sanctions, Driving 94% Drop in Iran-Linked Volumes",
@@ -647,22 +647,6 @@
       "pubDate": "Mon, 19 Oct 2026 17:31:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-      "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
-      "pubDate": "Mon, 19 Oct 2026 16:46:05 +0000",
-      "creator": "Staff",
-      "contentSnippet": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-      "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-      "pubDate": "Mon, 19 Oct 2026 16:05:09 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
       "source": "Decrypt"
     }
   ]
