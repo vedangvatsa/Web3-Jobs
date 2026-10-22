@@ -75873,16 +75873,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ce8fc79a80fcd65b9473",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T17:28:34.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "Bitcoin Magazine + Cointelegraph + Zodia primary statement",
+      "note": "Re-read the Zodia primary statement, Cointelegraph and Bitcoin Magazine: Oct. 21 definitive agreements, 100% of Zodia Custody UK Limited, five regulated jurisdictions, Tan and Clark quotes verified against the statement.",
       "sourceChecks": [
         {
-          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+          "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
           "outcome": "read"
         },
         {
@@ -75890,11 +75890,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-22T07:54:39.169Z",
       "articleSlug": "zodia",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -132873,6 +132873,27 @@
           ],
           "reviewedAt": "2026-10-22T07:51:12.477Z",
           "articleSlug": "charonupgrade"
+        },
+        "ce8fc79a80fcd65b9473": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Zodia primary statement, Cointelegraph and Bitcoin Magazine: Oct. 21 definitive agreements, 100% of Zodia Custody UK Limited, five regulated jurisdictions, Tan and Clark quotes verified against the statement.",
+          "sourceChecks": [
+            {
+              "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T07:54:39.169Z",
+          "articleSlug": "zodia"
         }
       },
       "baselineSlugs": [
