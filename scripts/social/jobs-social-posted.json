@@ -44273,6 +44273,47 @@
       "attemptId": "a3bd19bf-d91a-4b70-b15b-317217cd0a00",
       "verification": "verified",
       "postId": "0x1d309c8675d2350bc6eb4539cb09f4f90a2e3cf6"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls240/li?og=7",
+          "title": "Account Manager at Open Standard",
+          "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls240.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "785ab192-a508-478a-b360-1ec0f54cc23e",
+      "verification": "creating"
     }
   ]
 }
