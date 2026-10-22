@@ -98,9 +98,14 @@ Live publication is restricted to GitHub Actions. `--dry-run` validates and repo
 without creating commits. The workflow's news dry-run input selects the news-only
 path, with deployment, social posts and videos disabled for that diagnostic run.
 
-The report's `published` state means committed to main. Website availability still
-depends on the existing daily deployment workflow. These scripts do not create an
-extra deployment slot or trigger live posts during tests.
+The report's `published` state means committed to main. The single scheduled daily
+rollout waits for that UTC day's jobs refresh and completed, validated original-news
+batch, with at least one new published article. Failed news delays deployment rather
+than shipping jobs alone. Recovery after a successful daily rollout waits for the next
+day's combined batch; article changes cannot authorize a second same-day rollout.
+The serialized deployment guard records actual rollout success before live checks.
+See [the deployment and recovery policy](PUBLISHING_RELIABILITY_2026-10-22.md).
+These scripts do not trigger live posts or deployments during tests.
 
 ## Article catalogue freshness
 

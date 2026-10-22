@@ -175,7 +175,11 @@ When in doubt, shorter and plainer wins.
 
 ## 5. Gates (all must pass; unresolved failures need a quality-gate deferral)
 
-Run `node scripts/validate-news-run.mjs` after recording the ready outcomes.
+The coordinator runs `node scripts/validate-news-run.mjs` after all assignments
+have recorded outcomes. In a validation-repair invocation, run it again after
+repairing the reported drafts. During a research assignment, check the assigned
+articles' individual gates and return their outcomes; do not try to finish the
+global validation while other assignments are still pending.
 This uses the same validator as the final publisher, writes exact failures to
 `.cache/news-research/validation.json`, and exits nonzero until the batch passes.
 Read the errors and fix the unpublished drafts before stopping. A successful
@@ -210,7 +214,9 @@ DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
   hashes, workflow files or the ledger JSON directly. Use the review CLI.
 - Mark qualifying articles ready only after their audits pass. CI independently
   validates quality, images, formatting, duplicates, typecheck and source links.
-  After all outcomes are recorded, the full-batch validator above must also pass.
+   After all daily outcomes are recorded, the coordinator's full-batch validator
+   above must also pass. Unreviewed restored drafts belonging to other assignments
+   remain intact until their own review; do not treat them as your rejected drafts.
 - Move your own rejected/incomplete draft files out of `content/articles/` into
   `.cache/news-research/recovery/`; keep their deferred review records. Every draft
   left in `content/articles/` must have a ready outcome. Never move existing articles.

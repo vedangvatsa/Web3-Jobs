@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import { pathToFileURL } from 'node:url';
 import { isPostingWindow, postingSlot } from './posting-slot.mjs';
+import { hasDailyDeployment } from '../lib/daily-deploy.mjs';
 
 const SLOTS = ['morning', 'afternoon', 'evening'];
 
@@ -9,10 +10,15 @@ export function planSlot(state, slot, today, now) {
   const morning = state.ingested !== today && state.morning !== today;
   const news = state.news !== today && state.morning !== today;
   // Legacy morning stamps did not prove a rollout succeeded.
-  const deploy = state.deployed !== today || state.newsDeployPending === true;
+  const deploy = !hasDailyDeployment(state, today);
   const completed = state.slots?.[slot] ?? (slot === 'morning' ? undefined : state[slot]);
   const social = completed !== today && (now === undefined || isPostingWindow(postingSlot(slot, today), new Date(now).getTime()));
   return { morning, news, deploy, social, slot, skip: !morning && !news && !deploy && !social, date: today };
+}
+
+export function planRecovery(state, today) {
+  const plan = planSlot(state, 'morning', today);
+  return { ...plan, news: true, social: false, videos: false, slot: 'recovery', skip: false };
 }
 
 export function recordSlot(state, plan, results) {
@@ -20,11 +26,7 @@ export function recordSlot(state, plan, results) {
   if (plan.morning && results.ingest === 'success') next.ingested = plan.date;
   if (plan.news && results.news === 'success') next.news = plan.date;
   if (next.ingested === plan.date && next.news === plan.date) next.morning = plan.date;
-  if (results.newsChanged === true || results.newsChanged === 'true') next.newsDeployPending = true;
-  if (results.deploy === 'success') {
-    next.deployed = plan.date;
-    delete next.newsDeployPending;
-  }
+  // The serialized deploy job records actual rollout success before live checks.
   if (plan.social && results.posts === 'success' && results.telegram === 'success') next.slots[plan.slot] = plan.date;
   return next;
 }
@@ -34,6 +36,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
   const state = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
   if (action === 'plan') {
     for (const [key, value] of Object.entries(planSlot(state, slot, today, new Date()))) console.log(`${key}=${value}`);
+  } else if (action === 'recovery') {
+    for (const [key, value] of Object.entries(planRecovery(state, slot))) console.log(`${key}=${value}`);
   } else if (action === 'record') {
     const plan = JSON.parse(process.env.PUBLISH_PLAN);
     if (SLOTS.includes(plan.slot) || plan.slot === 'recovery') {

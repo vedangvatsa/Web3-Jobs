@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { createRequire } from 'node:module';
 import { test } from 'node:test';
+import { runInNewContext } from 'node:vm';
 const require = createRequire(import.meta.url);
 const yaml = createRequire(require.resolve('gray-matter'))('js-yaml');
 const workflow = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-cache.yml', 'utf8'));
@@ -15,7 +16,7 @@ test('on-time social fan-out retains one daily rollout after ingestion and news'
   const rollouts = Object.entries(workflow.jobs).filter(([, job]) => job.uses === './.github/workflows/fah-fix-and-deploy.yml');
   assert.deepEqual(rollouts.map(([name]) => name), ['deploy']);
   assert.match(workflow.jobs.deploy.if, /needs\.ingest\.result == 'success'/);
-  assert.match(workflow.jobs.deploy.if, /needs\.publish-news\.result != 'cancelled'/);
+  assert.match(workflow.jobs.deploy.if, /needs\.publish-news\.result == 'success'/);
   for (const name of ['post-videos', 'knowledge-threads', 'knowledge-carousels']) {
     assert.deepEqual(workflow.jobs[name].needs, ['gate']);
     assert.equal(workflow.jobs[name].with.slot, '${{ needs.gate.outputs.slot }}');
@@ -23,15 +24,57 @@ test('on-time social fan-out retains one daily rollout after ingestion and news'
   }
 });
 
-test('daily research deploys recovered articles even after the jobs rollout', () => {
+test('daily research joins the single daily rollout and cannot override a completed deployment', () => {
   assert.match(workflow.jobs['publish-news'].if, /outputs.news == 'true'/);
   assert.match(workflow.jobs.deploy.if, /outputs.deploy == 'true'/);
-  assert.match(workflow.jobs.deploy.if, /outputs.deploy == 'true' \|\| needs.publish-news.outputs.articles_changed == 'true'/);
+  assert.doesNotMatch(workflow.jobs.deploy.if, /articles_changed|newsDeployPending/);
   for (const mode of ['only_news', 'news_dry_run', 'website_recovery']) assert.ok(workflow.jobs.deploy.if.includes(`github.event.inputs.${mode} != 'true'`));
   assert.equal(workflow.jobs['publish-news'].outputs.articles_changed, '${{ steps.publish.outputs.articles_changed }}');
   assert.equal(workflow.jobs['publish-news'].concurrency.group, 'publish-news');
   assert.equal(workflow.jobs['publish-news'].steps[0].with.ref, 'main');
   assert.equal(workflow.jobs['refresh-and-post'].steps[0].with.ref, 'main');
+});
+
+test('failed or cancelled daily work blocks deployment; completed work can use the one due rollout', () => {
+  const expression = workflow.jobs.deploy.if.slice(3, -2).replace(/needs\.([\w-]+)/g, 'needs["$1"]');
+  const evaluate = ({ ingest = 'success', news = 'success', morning = 'true', newsDue = 'true', deploy = 'true', inputs = {} } = {}) => runInNewContext(expression, {
+    always: () => true, github: { event: { inputs } }, needs: {
+      gate: { result: 'success', outputs: { skip: 'false', morning, news: newsDue, deploy } },
+      ingest: { result: ingest }, 'publish-news': { result: news, outputs: { articles_changed: 'true' } },
+    },
+  });
+  assert.equal(evaluate(), true);
+  for (const result of ['failure', 'cancelled', 'skipped']) {
+    assert.equal(evaluate({ news: result }), false);
+    assert.equal(evaluate({ ingest: result }), false);
+  }
+  assert.equal(evaluate({ ingest: 'skipped', morning: 'false' }), true);
+  assert.equal(evaluate({ news: 'skipped', newsDue: 'false' }), true);
+  assert.equal(evaluate({ deploy: 'false' }), false);
+  for (const mode of ['only_news', 'news_dry_run', 'website_recovery']) assert.equal(evaluate({ inputs: { [mode]: 'true' } }), false);
+});
+
+test('the serialized deploy workflow rechecks fresh main and records actual success before live verification', () => {
+  const child = yaml.safeLoad(fs.readFileSync('.github/workflows/fah-fix-and-deploy.yml', 'utf8'));
+  assert.deepEqual(child.concurrency, { group: 'fah-deploy', 'cancel-in-progress': false });
+  assert.deepEqual(workflow.jobs.deploy.with, { date: '${{ needs.gate.outputs.date }}' });
+  assert.equal(child.on.workflow_call.inputs.date.required, true);
+  assert.equal(child.on.workflow_dispatch.inputs.date, undefined);
+  for (const job of [workflow.jobs.deploy, child.jobs.deploy]) assert.equal(job.permissions.contents, 'write');
+  const steps = child.jobs.deploy.steps;
+  assert.equal(steps[0].with.ref, 'main');
+  const plan = steps.findIndex(step => step.id === 'plan');
+  const daily = steps.findIndex(step => step.id === 'daily');
+  const verify = steps.findIndex(step => step.run === 'node scripts/verify-live-catalogs.mjs');
+  assert.ok(plan > 0 && plan < daily && daily < verify);
+  assert.equal(steps[plan].run, 'node scripts/daily-deploy.mjs plan');
+  assert.match(steps[daily].run, /node scripts\/daily-deploy\.mjs deploy/);
+  assert.equal(steps[daily].env.DAILY_DEPLOY_DATE, '${{ inputs.date }}');
+  assert.match(steps[verify].if, /steps\.daily\.outputs\.deployed == 'true'/);
+  assert.match(steps.find(step => step.id === 'manual').if, /outputs.mode == 'manual'/);
+  assert.ok(steps.some(step => step.run === 'node --test scripts/lib/daily-deploy.test.mjs'));
+  assert.ok(steps.some(step => step.uses === 'actions/upload-artifact@v4' && step.if === 'always()' && step.with.path === '.cache/daily-deploy/'));
+  assert.doesNotMatch(workflow.jobs['record-slot'].steps.find(step => step.name === 'Record successful work independently').env.PUBLISH_RESULTS, /deploy|newsChanged/);
 });
 
 test('news uses the verified OpenCode release rather than upgrading each day', () => {
@@ -87,7 +130,7 @@ test('website recovery refreshes content without social, email or an overlapping
   assert.deepEqual(workflow.jobs['refresh-events'].needs, ['gate']);
 });
 
-test('saved news recovery restores only after preparing a fresh queue and deploys without social', () => {
+test('saved news recovery restores after a fresh queue and uses the state-aware daily policy', () => {
   const news = workflow.jobs['publish-news'];
   assert.equal(news.permissions.actions, 'read');
   assert.match(workflow.concurrency.group, /news_recovery_run != '' && 'publish-news-recovery'/);
@@ -98,7 +141,9 @@ test('saved news recovery restores only after preparing a fresh queue and deploy
   assert.ok(prepare < restore && restore < writer);
   const gate = workflow.jobs.gate.steps.find(step => step.id === 'set').run;
   const recovery = gate.slice(gate.indexOf('if [ -n "$NEWS_RECOVERY_RUN" ]'), gate.indexOf('if [ "${{ github.event.inputs.only_news }}" ='));
-  for (const flag of ['morning=false', 'news=true', 'deploy=true', 'social=false', 'videos=false', 'slot=recovery']) assert.ok(recovery.includes(flag));
+  assert.match(recovery, /node scripts\/social\/publish-slot-plan\.mjs recovery scripts\/social\/publish-slot-state\.json/);
+  assert.doesNotMatch(recovery, /echo "deploy=true"|echo "morning=false"/);
+  assert.match(workflow.jobs['job-alerts'].if, /outputs.slot != 'recovery'/);
   assert.ok(recovery.includes('inputs.news_dry_run }}" != "true"'));
 });
 

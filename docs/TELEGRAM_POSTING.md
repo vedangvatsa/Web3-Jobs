@@ -12,7 +12,7 @@ The Mac launch agents dispatch these slots; GitHub cron is the backup. Each slot
 
 ## Independent publishers
 
-The workflow runs jobs, events, Web3 news, group news and AI news as separate matrix jobs with fail-fast disabled. They do not depend on the event-fetching job. Jobs and events use validated catalogs downloaded from the live site after the deployment stage.
+The workflow runs jobs, events, Web3 news, group news and AI news as separate matrix jobs with fail-fast disabled. They depend only on the slot gate, independently of event fetching, news research and deployment. Jobs and events use validated catalogs downloaded from the already-live site within their posting window.
 
 TOKEN2049 discovery runs before the broad event crawl. If discovery fails, the previously verified source is retained, the catalog job reports the failure, and Telegram can continue using published events.
 

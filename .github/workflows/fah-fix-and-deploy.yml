@@ -12,6 +12,10 @@ on:
         default: false
   workflow_call:
     inputs:
+      date:
+        description: 'UTC date of the single scheduled jobs and original-news rollout'
+        type: string
+        required: true
       sync_secrets:
         type: boolean
         default: false
@@ -24,17 +28,32 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     permissions:
-      contents: read
+      contents: write
       id-token: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Test daily deployment policy
+        run: node --test scripts/lib/daily-deploy.test.mjs
+      - name: Recheck daily content and deployment state under the deployment lock
+        id: plan
+        env:
+          DAILY_DEPLOY_DATE: ${{ inputs.date }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/daily-deploy.mjs plan
       - uses: google-github-actions/auth@v2
+        if: ${{ steps.plan.outputs.run == 'true' }}
         with:
           workload_identity_provider: 'projects/227783834156/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
           service_account: 'antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com'
       - uses: google-github-actions/setup-gcloud@v2
+        if: ${{ steps.plan.outputs.run == 'true' }}
       - name: Grant deploy role + actAs on the App Hosting compute SA
-        if: ${{ inputs.grant_only == true }}
+        if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only == true }}
         id: grant
         continue-on-error: true
         run: |
@@ -52,6 +71,7 @@ jobs:
             --role="roles/iam.serviceAccountUser" \
             --quiet
       - name: Preflight - verify deploy permissions (fail fast)
+        if: ${{ steps.plan.outputs.run == 'true' }}
         id: preflight
         run: |
           set -euo pipefail
@@ -74,15 +94,11 @@ jobs:
         run: |
           echo "grant_only: effective deploy permissions verified, stopping before any build or rollout."
           exit 0
-      - uses: actions/setup-node@v4
-        if: ${{ inputs.grant_only != true }}
-        with:
-          node-version: '24'
       - name: Verify secret synchronization behavior
-        if: ${{ inputs.grant_only != true }}
+        if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only != true }}
         run: node --test scripts/test-apphosting-secret-sync.mjs
       - name: Grant App Hosting secret access + sync values
-        if: ${{ inputs.grant_only != true && inputs.sync_secrets == true }}
+        if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only != true && inputs.sync_secrets == true }}
         env:
           FIREBASE_APPHOSTING_PROJECT_ID: web3-jobs-aggregator
           FIREBASE_APPHOSTING_BACKEND: studio
@@ -103,8 +119,19 @@ jobs:
             --project web3-jobs-aggregator \
             --backend studio \
             --non-interactive || true
-      - name: Create build + rollout for main
-        if: ${{ inputs.grant_only != true }}
+      - name: Deploy the validated daily jobs and news revision
+        id: daily
+        if: ${{ steps.plan.outputs.mode == 'daily' && steps.plan.outputs.run == 'true' }}
+        env:
+          DAILY_DEPLOY_DATE: ${{ inputs.date }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          export FIREBASE_ACCESS_TOKEN="$(gcloud auth print-access-token)"
+          node scripts/daily-deploy.mjs deploy
+      - name: Create explicit operator build + rollout for main
+        id: manual
+        if: ${{ steps.plan.outputs.mode == 'manual' && inputs.grant_only != true }}
         run: |
           set -euo pipefail
           TOKEN=$(gcloud auth print-access-token)
@@ -157,5 +184,14 @@ jobs:
           done
           echo "$RS" | grep -qi SUCCEEDED
       - name: Verify live catalogues match the new deployment
-        if: ${{ inputs.grant_only != true }}
+        if: ${{ steps.daily.outputs.deployed == 'true' || steps.manual.outcome == 'success' }}
         run: node scripts/verify-live-catalogs.mjs
+      - name: Preserve daily deployment evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-deploy-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: .cache/daily-deploy/
+          if-no-files-found: ignore
+          retention-days: 90

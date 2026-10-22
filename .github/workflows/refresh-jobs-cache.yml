@@ -12,7 +12,8 @@ name: Publish Jobs, Events & Social
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts. Social and Telegram run alongside this work. Auto-deploy stays off.
-# A news failure does not skip that rollout. The jobs catalog still ships.
+# The one daily rollout waits for fresh jobs and the completed original-news batch.
+# Failed news delays deployment; late recovery cannot add a second daily rollout.
 # If that morning run never starts, the next slot the same UTC day runs
 # the morning work instead of skipping it.
 # afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, plus
@@ -64,7 +65,7 @@ on:
         type: boolean
         default: false
       news_recovery_run:
-        description: 'Recover same-day news drafts and deploy, without social/email; only_news keeps deployment off'
+        description: 'Recover same-day news; refresh missing jobs and use the daily rollout only if still due. only_news keeps deployment off'
         type: string
         default: ''
 
@@ -120,14 +121,7 @@ jobs:
           fi
           if [ -n "$NEWS_RECOVERY_RUN" ] && [ "${{ github.event.inputs.only_news }}" != "true" ] && [ "${{ github.event.inputs.news_dry_run }}" != "true" ]; then
             [[ "$NEWS_RECOVERY_RUN" =~ ^[0-9]+$ ]] || exit 1
-            echo "morning=false" >> "$GITHUB_OUTPUT"
-            echo "news=true" >> "$GITHUB_OUTPUT"
-            echo "deploy=true" >> "$GITHUB_OUTPUT"
-            echo "social=false" >> "$GITHUB_OUTPUT"
-            echo "videos=false" >> "$GITHUB_OUTPUT"
-            echo "slot=recovery" >> "$GITHUB_OUTPUT"
-            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
-            echo "skip=false" >> "$GITHUB_OUTPUT"
+            node scripts/social/publish-slot-plan.mjs recovery scripts/social/publish-slot-state.json "$(date -u +%F)" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           if [ "${{ github.event.inputs.only_news }}" = "true" ] || [ "${{ github.event.inputs.news_dry_run }}" = "true" ]; then
@@ -187,16 +181,18 @@ jobs:
 
   deploy:
     needs: [gate, ingest, publish-news]
-    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && github.event.inputs.only_news != 'true' && github.event.inputs.news_dry_run != 'true' && github.event.inputs.website_recovery != 'true' && (needs.gate.outputs.deploy == 'true' || needs.publish-news.outputs.articles_changed == 'true') && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && needs.publish-news.result != 'cancelled' }}
+    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && github.event.inputs.only_news != 'true' && github.event.inputs.news_dry_run != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.deploy == 'true' && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && (needs.publish-news.result == 'success' || (needs.gate.outputs.news == 'false' && needs.publish-news.result == 'skipped')) }}
     permissions:
-      contents: read
+      contents: write
       id-token: write
     uses: ./.github/workflows/fah-fix-and-deploy.yml
+    with:
+      date: ${{ needs.gate.outputs.date }}
     secrets: inherit
 
   job-alerts:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && vars.RESEND_BROADCASTS_PAUSED != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
+    if: ${{ always() && vars.RESEND_BROADCASTS_PAUSED != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.slot != 'recovery' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
@@ -681,19 +677,20 @@ jobs:
           NEWS: ${{ needs.publish-news.result }}
           NEWS_DUE: ${{ needs.gate.outputs.news }}
           WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
+          SLOT: ${{ needs.gate.outputs.slot }}
           ALERTS: ${{ needs.job-alerts.result }}
           RESEND_BROADCASTS_PAUSED: ${{ vars.RESEND_BROADCASTS_PAUSED }}
           POSTS: ${{ needs.post-openings.result }}
           VIDEOS: ${{ needs.post-videos.result }}
           TELEGRAM: ${{ needs.refresh-and-post.result }}
           SNAPSHOT: ${{ needs.refresh-news-snapshot.result }}
-          DEPLOY_DUE: ${{ needs.gate.outputs.deploy == 'true' || needs.publish-news.outputs.articles_changed == 'true' }}
+          DEPLOY_DUE: ${{ needs.gate.outputs.deploy == 'true' }}
           DEPLOY: ${{ needs.deploy.result }}
         run: |
           set -euo pipefail
           fail=0
           if [ "$DEPLOY_DUE" = "true" ] && [ "$DEPLOY" != "success" ]; then
-            echo "::warning::deploy was $DEPLOY — rollout remains due for the next slot."
+            echo "::warning::deploy was $DEPLOY — inspect daily deployment evidence. A confirmed rollout is never repeated, even if live verification failed."
             fail=1
           fi
           if [ "$MORNING" = "true" ]; then
@@ -710,7 +707,7 @@ jobs:
             echo "::warning::publish-news was $NEWS; news remains due independently."
             fail=1
           fi
-          if [ "$MORNING" = "true" ] && [ "$WEBSITE_RECOVERY" != "true" ] && [ "$RESEND_BROADCASTS_PAUSED" != "true" ] && [ "$ALERTS" != "success" ]; then
+          if [ "$MORNING" = "true" ] && [ "$SLOT" != "recovery" ] && [ "$WEBSITE_RECOVERY" != "true" ] && [ "$RESEND_BROADCASTS_PAUSED" != "true" ] && [ "$ALERTS" != "success" ]; then
             echo "::warning::job-alerts was $ALERTS."
             fail=1
           fi
@@ -732,7 +729,7 @@ jobs:
         if: always()
         env:
           PUBLISH_PLAN: ${{ toJSON(needs.gate.outputs) }}
-          PUBLISH_RESULTS: '{"ingest":"${{ needs.ingest.result }}","news":"${{ needs.publish-news.result }}","newsChanged":"${{ needs.publish-news.outputs.articles_changed }}","deploy":"${{ needs.deploy.result }}","posts":"${{ needs.post-openings.result }}","telegram":"${{ needs.refresh-and-post.result }}"}'
+          PUBLISH_RESULTS: '{"ingest":"${{ needs.ingest.result }}","news":"${{ needs.publish-news.result }}","posts":"${{ needs.post-openings.result }}","telegram":"${{ needs.refresh-and-post.result }}"}'
         run: |
           set -euo pipefail
           SLOT="${{ needs.gate.outputs.slot }}"

@@ -16,7 +16,7 @@
 - Refresh the model catalog and require a real readiness response before research starts. The probe requires approval for tools, supplies no approvals, and rejects tool-call events. CLI exit code zero alone is not enough: OpenCode can return an error event with that exit code.
 - Limit writer models to the four approved free variants (DeepSeek, GLM, MiniMax, MiMo); never substitute a paid counterpart. The selected free model also handles title generation.
 - Print warning/error diagnostics so missing models and expired credentials are visible in Actions.
-- Deploy newly published articles even if the daily job catalog already shipped. Retain a pending deployment flag if that follow-up rollout fails.
+- The October 19 follow-up-rollout policy was superseded on October 22: the single daily rollout now waits for both fresh jobs and completed original news. Recovery after that rollout waits for the next day; the legacy pending flag cannot authorize another same-day deployment.
 - Preserve existing source verification, editorial audits, publication receipts, news-only recovery mode, and the Resend pause.
 
 ## Credential recovery
@@ -25,13 +25,13 @@
 2. Replace the **repository secret** `OPENCODE_API_KEY` at <https://github.com/vedangvatsa/Web3-Jobs/settings/secrets/actions>. Do not put it in a repository variable or source file.
 3. Run `refresh-jobs-cache.yml` with `only_news=true` to recover the daily research batch without replaying social posts.
 4. Verify the writer readiness check, research coverage, article audits, and publication commit. A successful feed refresh alone does not prove that native articles were published.
-5. After publication, run `fah-fix-and-deploy.yml` and verify the new articles in `/data/articles-index.json`, `/news`, and their canonical URLs.
+5. After publication, the scheduled deployment must also verify that day's jobs refresh and that no daily rollout has already succeeded. If the day already deployed, recovered articles wait for the next daily batch. Verify the shipped articles in `/data/articles-index.json`, `/news`, and their canonical URLs.
 
 The user replaced the expired credential on October 19. The initial tools-denied readiness probe then hit [OpenCode issue #50627](https://github.com/anomalyco/opencode/issues/50627): removing the normal tool definitions triggers a misleading free-tier origin error. Using approval-required permissions instead produced `NEWS_WRITER_READY` with reported cost zero on the official 1.19.2 CLI and `opencode/deepseek-v4.1-flash-free`. No tool calls or approvals occurred. A briefly dispatched paid-model probe was cancelled before its research step; the repository model variable was restored to the free variant.
 
 The corrected GitHub runner passed readiness and produced 15 draft articles before interruption. The recovery artifact `news-research-39276184030-1` was downloaded and its 15 articles plus 15 images were successfully restored into an isolated validation directory. They remain unpublished and require fresh review and the full publication gates.
 
-To resume a saved same-day artifact, dispatch `refresh-jobs-cache.yml` with `news_recovery_run=39276184030`. This prepares a fresh queue, restores only unpublished article/image paths without overwriting anything, re-reviews the drafts, and deploys after publication. It disables job ingestion, email, videos, and social sending. Add `only_news=true` to keep deployment off as well. Cross-day recovery is rejected rather than silently changing publication dates.
+To resume a saved same-day artifact, dispatch `refresh-jobs-cache.yml` with `news_recovery_run=39276184030`. This prepares a fresh queue, restores only unpublished article/image paths without overwriting anything and re-reviews the drafts. Under the October 22 policy, recovery refreshes missing daily jobs and can use the daily rollout only if none has succeeded yet. Email, videos and social sending stay off. Add `only_news=true` to keep job ingestion and deployment off as well. Cross-day recovery is rejected rather than silently changing publication dates.
 
 GitHub reported [degraded Actions, Pages, and Webhooks](https://stspg.io/nrv2k8s68bwn) during recovery on October 19. API job statuses and logs were intermittently stale or returned 502. Read-only artifact recovery confirmed the saved drafts despite the misleading run status. At that stage, publication and live deployment still required verification.
 
