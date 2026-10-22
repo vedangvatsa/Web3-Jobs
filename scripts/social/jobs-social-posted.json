@@ -41250,7 +41250,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "59bc3f82-acc2-499e-afb5-a273337f836f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf2f3e00cf2c0bd849d5015923adf39bb743a06f8"
     }
   ]
 }
