@@ -66540,23 +66540,24 @@
       "id": "8072d41745bf6f29208f",
       "status": "deferred",
       "firstSeenAt": "2026-10-20T08:45:02.257Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-23T04:07:41.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "source-blocked",
-      "note": "The Block coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "note": "Blockchain Association GENIUS Act critique needs alternate outlet because The Block returned 403",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T04:08:25.855Z",
       "retrySearches": [
-        "Find independent reporting on: Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, fo"
+        "Blockchain Association GENIUS Act DeFi foreign issuer rules",
+        "Blockchain Association Treasury GENIUS Act clearer rules"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "nextReviewDate": "2026-10-23"
     },
     "9232b08d23cd5d65594d": {
       "source": "Crypto Briefing",
@@ -72448,11 +72449,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:24:01.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "OCC primary + Decrypt + CoinDesk + Cointelegraph",
+      "sourceChecks": [
+        {
+          "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:08:25.853Z",
+      "articleSlug": "occgenius",
+      "lastReviewedDay": "2026-10-22"
     },
     "b8c0039794f871c2439a": {
       "source": "Crypto Briefing",
@@ -72469,11 +72489,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b8c0039794f871c2439a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:22:54.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "877c888579d259ba11cc": {
       "source": "Crypto Briefing",
@@ -72689,11 +72716,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "906c321d0e1b67a1a1bc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:10:54.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "Bessent quote included in occgenius; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "c7a827e4ee12df6bdcad": {
       "source": "The Defiant",
@@ -72773,11 +72807,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "503a86e0687b3af255f8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T15:40:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Decrypt + Cointelegraph + Foundation dashboard",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "articleSlug": "alpenglowlive",
+      "lastReviewedDay": "2026-10-22"
     },
     "97ad1842955181e296a2": {
       "source": "Decrypt",
@@ -72794,11 +72843,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "97ad1842955181e296a2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T14:24:25.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "alpenglowlive",
+      "mergedInto": "503a86e0687b3af255f8",
+      "lastReviewedDay": "2026-10-22"
     },
     "d5f59b82ec372ac19238": {
       "source": "Cointelegraph",
@@ -72815,11 +72871,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d5f59b82ec372ac19238",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T13:57:14.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "alpenglowlive",
+      "mergedInto": "503a86e0687b3af255f8",
+      "lastReviewedDay": "2026-10-22"
     },
     "7b4b1bb1bab20bc37092": {
       "source": "Cointelegraph",
@@ -72836,11 +72899,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b4b1bb1bab20bc37092",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:26:58.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "a98e28e567f25130ac6d": {
       "source": "CoinDesk",
@@ -72904,11 +72974,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "78aef94bf455cda2b2bd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:52:23.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.853Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "3dbbcb4f195d2243c344": {
       "source": "The Defiant",
@@ -72925,11 +73002,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3dbbcb4f195d2243c344",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:12:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule, yield presumption angle covered; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "7539ea1fd9af398c93a3": {
       "source": "The Block",
@@ -72946,11 +73030,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7539ea1fd9af398c93a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:01:02.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "9dceba750a7c01f1ce32": {
       "source": "CoinDesk",
@@ -72967,11 +73058,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dceba750a7c01f1ce32",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T11:00:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same OCC final rule, yield angle covered; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "fdc5bf88db82bc3cc461": {
       "source": "Cointelegraph",
@@ -73351,11 +73449,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "843d2d337606d6824758",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:00:13.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "CoinDesk + Decrypt full articles",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "articleSlug": "spacextesla",
+      "lastReviewedDay": "2026-10-22"
     },
     "6d8d2e28d8e1f1964953": {
       "source": "Unchained",
@@ -73550,11 +73663,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "cbf0d8862095fa9ba23b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:38:20.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "spacextesla",
+      "mergedInto": "843d2d337606d6824758",
+      "lastReviewedDay": "2026-10-22"
     },
     "0f51632a46bcf765441d": {
       "source": "CryptoSlate",
@@ -73634,11 +73754,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1e9c14dfc82f7afd45e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:16:05.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "spacextesla",
+      "mergedInto": "843d2d337606d6824758",
+      "lastReviewedDay": "2026-10-22"
     },
     "4fce1aae7d056893b050": {
       "source": "Bitcoin Magazine",
@@ -73754,11 +73881,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2df48ddc9426e42196f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T14:24:39.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "alpenglowlive",
+      "mergedInto": "503a86e0687b3af255f8",
+      "lastReviewedDay": "2026-10-22"
     },
     "3b8dd407b69c4a98ce82": {
       "source": "Bitcoin Magazine",
@@ -74051,11 +74185,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "49eb81d322b98eabf2e6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T09:23:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "spacextesla",
+      "mergedInto": "843d2d337606d6824758",
+      "lastReviewedDay": "2026-10-22"
     },
     "36b5cec73ffd08cbde81": {
       "source": "CoinDesk",
@@ -74177,11 +74318,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5c99758a09e97d463feb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T03:20:53.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "OCC waiver rule part of same final rule package; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "962ac17fd25d7d181222": {
       "source": "Crypto Briefing",
@@ -74537,11 +74685,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "32d8b4c8d1aed667b861",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T23:31:34.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "spacextesla",
+      "mergedInto": "843d2d337606d6824758",
+      "lastReviewedDay": "2026-10-22"
     },
     "35ec3128c489cb762858": {
       "source": "Crypto Briefing",
@@ -74803,11 +74958,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9092da81b46cb7ac32b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:03:53.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "68a35c0989c77c646e5f": {
       "source": "Crypto Briefing",
@@ -74850,11 +75012,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9806324818ae69707635",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T21:53:48.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "7f1b6648c9a51987b3d7": {
       "source": "BeInCrypto",
@@ -75424,11 +75593,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1d12b8d1e4ae190bca0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T18:16:03.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "spacextesla",
+      "mergedInto": "843d2d337606d6824758",
+      "lastReviewedDay": "2026-10-22"
     },
     "c941482f8444d25ca4eb": {
       "source": "The Block",
@@ -75445,11 +75621,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c941482f8444d25ca4eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:59:36.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "occgenius",
+      "mergedInto": "d827e4da47d80b199d72",
+      "lastReviewedDay": "2026-10-22"
     },
     "ce8fc79a80fcd65b9473": {
       "source": "Bitcoin Magazine",
@@ -75466,11 +75649,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "ce8fc79a80fcd65b9473",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:28:34.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Bitcoin Magazine + Cointelegraph + Zodia primary statement",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+          "outcome": "read"
+        },
+        {
+          "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "articleSlug": "zodia",
+      "lastReviewedDay": "2026-10-22"
     },
     "c1b26b9ab08d25cf2347": {
       "source": "Cointelegraph",
@@ -76021,11 +76223,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a71b76bb79b8ec06ca8e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:13:07.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "zodia",
+      "mergedInto": "ce8fc79a80fcd65b9473",
+      "lastReviewedDay": "2026-10-22"
     },
     "5bcd28dec5ba9a26fdd9": {
       "source": "CoinDesk",
@@ -76112,11 +76321,18 @@
         "The Block"
       ],
       "id": "33a328eb54f544deffa7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:06:23.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "duplicateOf": "zodia",
+      "mergedInto": "ce8fc79a80fcd65b9473",
+      "lastReviewedDay": "2026-10-22"
     },
     "39df26d5c4457ca6f06a": {
       "source": "The Defiant",
@@ -76369,11 +76585,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b4a556b0a18686868a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T10:12:12.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "opinion",
+      "note": "Aave collateral proposal opinion analysis piece, not a concrete new event with two independent readable sources",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "381b21abc94610efc87b": {
       "source": "The Defiant",
@@ -131657,6 +131883,299 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-22T03:43:43.089Z",
           "duplicateOf": "alpenglow"
+        },
+        "d827e4da47d80b199d72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "OCC primary + Decrypt + CoinDesk + Cointelegraph",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.853Z",
+          "articleSlug": "occgenius"
+        },
+        "78aef94bf455cda2b2bd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.853Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "7b4b1bb1bab20bc37092": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "9dceba750a7c01f1ce32": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule, yield angle covered; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "7539ea1fd9af398c93a3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "3dbbcb4f195d2243c344": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule, yield presumption angle covered; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "906c321d0e1b67a1a1bc": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bessent quote included in occgenius; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "b8c0039794f871c2439a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same OCC final rule story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "d9092da81b46cb7ac32b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "9806324818ae69707635": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "c941482f8444d25ca4eb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "5c99758a09e97d463feb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "OCC waiver rule part of same final rule package; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "occgenius",
+          "mergedInto": "d827e4da47d80b199d72"
+        },
+        "503a86e0687b3af255f8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Decrypt + Cointelegraph + Foundation dashboard",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "articleSlug": "alpenglowlive"
+        },
+        "97ad1842955181e296a2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "alpenglowlive",
+          "mergedInto": "503a86e0687b3af255f8"
+        },
+        "d5f59b82ec372ac19238": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "alpenglowlive",
+          "mergedInto": "503a86e0687b3af255f8"
+        },
+        "b2df48ddc9426e42196f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Alpenglow mainnet activation; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "alpenglowlive",
+          "mergedInto": "503a86e0687b3af255f8"
+        },
+        "843d2d337606d6824758": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CoinDesk + Decrypt full articles",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "articleSlug": "spacextesla"
+        },
+        "49eb81d322b98eabf2e6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "spacextesla",
+          "mergedInto": "843d2d337606d6824758"
+        },
+        "d1e9c14dfc82f7afd45e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "spacextesla",
+          "mergedInto": "843d2d337606d6824758"
+        },
+        "cbf0d8862095fa9ba23b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "spacextesla",
+          "mergedInto": "843d2d337606d6824758"
+        },
+        "32d8b4c8d1aed667b861": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Tesla-SpaceX merger story; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "spacextesla",
+          "mergedInto": "843d2d337606d6824758"
+        },
+        "a1d12b8d1e4ae190bca0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "spacextesla",
+          "mergedInto": "843d2d337606d6824758"
+        },
+        "1b4a556b0a18686868a7": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Aave collateral proposal opinion analysis piece, not a concrete new event with two independent readable sources",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.854Z"
+        },
+        "ce8fc79a80fcd65b9473": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitcoin Magazine + Cointelegraph + Zodia primary statement",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            },
+            {
+              "url": "https://zodia-custody.com/standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "articleSlug": "zodia"
+        },
+        "33a328eb54f544deffa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "a71b76bb79b8ec06ca8e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:08:25.854Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "8072d41745bf6f29208f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Blockchain Association GENIUS Act critique needs alternate outlet because The Block returned 403",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:08:25.855Z",
+          "retrySearches": [
+            "Blockchain Association GENIUS Act DeFi foreign issuer rules",
+            "Blockchain Association Treasury GENIUS Act clearer rules"
+          ]
         }
       },
       "baselineSlugs": [
