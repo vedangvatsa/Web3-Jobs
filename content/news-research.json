@@ -72981,13 +72981,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d72de1761a9560efb8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T17:57:39.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Re-read Cointelegraph (Oct. 21) and Cryptopolitan (Oct. 22) on the Cardano Foundation's 19-page Sept. 30 Commission consultation response: substance-not-technology quote, Buergi byline, delegation-without-custody argument, ESMA/EBA/ECB/AMLA counterpressure, FATF July figures, Kaiko EUR362B, Circle/Aave yield-ban pushback all verified. Repairs: front-matter dates bumped to 2026-10-22; unlinked FATF claim now attributed via Cryptopolitan (FATF site 403); Freshfields, AMLA and Kaiko claims now link their primary sources directly, cutting Cryptopolitan named mentions from 5 to the 3 cap. Formatting clean, image audit passes, slug cardanomica unowned, hero present.",
+      "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct. 21 (19-page Sept. 30 submission, substance-not-technology quote, Buergi byline, delegation-without-custody, ESMA safeguards, Oct. 20 SEC letter) and Cryptopolitan Oct. 22 (FATF July figures 132/143 and 2/142, North Korea 70M attacks, Kaiko EUR362B +31%, Freshfields EBA/ECB summary, AMLA DeFi definition, Circle/Aave 50,000-citizen yield-ban pushback, MiCA study). Freshfields, AMLA PDF and Kaiko PDF all HTTP 200. Cardano Foundation blog 429 rate-limit (not cited as direct link). ESMA 403 (not cited). Draft claims verified; 643 words; slug unowned; quality audit clean; hero present.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
@@ -72996,9 +72996,29 @@
         {
           "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/mica-under-the-microscope-what-the-eba-and-the-ecb-told-brussels-about-the-revie-102o3sd",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.amla.europa.eu/document/download/d7647d66-98a5-49f9-b3f2-30fad47f198c_en?filename=AMLAs+Response+to+ECs+Targeted+Consultation+on+the+Review+of+MiCA.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://resources.kaiko.com/hubfs/Research/The%20State%20of%20the%20European%20Crypto%20Market%20-%202025%20-%202026%20Trends%20in%20Trading%20Activity.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://cardanofoundation.org/blog/mica-review-consultation-response",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T11:34:47.572Z",
+      "reviewedAt": "2026-10-22T13:58:02.315Z",
       "articleSlug": "cardanomica",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -135836,6 +135856,43 @@
           ],
           "reviewedAt": "2026-10-22T13:54:35.685Z",
           "articleSlug": "polymarketohio"
+        },
+        "65d72de1761a9560efb8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct. 21 (19-page Sept. 30 submission, substance-not-technology quote, Buergi byline, delegation-without-custody, ESMA safeguards, Oct. 20 SEC letter) and Cryptopolitan Oct. 22 (FATF July figures 132/143 and 2/142, North Korea 70M attacks, Kaiko EUR362B +31%, Freshfields EBA/ECB summary, AMLA DeFi definition, Circle/Aave 50,000-citizen yield-ban pushback, MiCA study). Freshfields, AMLA PDF and Kaiko PDF all HTTP 200. Cardano Foundation blog 429 rate-limit (not cited as direct link). ESMA 403 (not cited). Draft claims verified; 643 words; slug unowned; quality audit clean; hero present.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/mica-under-the-microscope-what-the-eba-and-the-ecb-told-brussels-about-the-revie-102o3sd",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.amla.europa.eu/document/download/d7647d66-98a5-49f9-b3f2-30fad47f198c_en?filename=AMLAs+Response+to+ECs+Targeted+Consultation+on+the+Review+of+MiCA.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://resources.kaiko.com/hubfs/Research/The%20State%20of%20the%20European%20Crypto%20Market%20-%202025%20-%202026%20Trends%20in%20Trading%20Activity.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cardanofoundation.org/blog/mica-review-consultation-response",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:58:02.315Z",
+          "articleSlug": "cardanomica"
         }
       },
       "baselineSlugs": [
