@@ -73555,14 +73555,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "9258bd8525e496ce85ad",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-25T00:00:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "CoinMarketCap + CoinLab; Aero live on seven chains, AERO 1:1 and VELO 0.044 conversion, Predictive Allocation.",
+      "note": "Re-read primary aero.xyz launch hub, The Block (now readable), CoinMarketCap and CoinLab. Oct 21 8PM EDT launch confirmed; conversion rates, Predictive Allocation and market-share figures verified. Removed unverified Binance deadline claim. Audits clean.",
       "sourceChecks": [
+        {
+          "url": "https://aero.xyz/aero-upgrade/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "outcome": "read"
+        },
         {
           "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
           "outcome": "read"
@@ -73570,13 +73578,9 @@
         {
           "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "reviewedAt": "2026-10-22T12:05:41.423Z",
       "articleSlug": "aeromerge",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135701,6 +135705,31 @@
           ],
           "reviewedAt": "2026-10-22T12:02:51.641Z",
           "articleSlug": "tethermural"
+        },
+        "9258bd8525e496ce85ad": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read primary aero.xyz launch hub, The Block (now readable), CoinMarketCap and CoinLab. Oct 21 8PM EDT launch confirmed; conversion rates, Predictive Allocation and market-share figures verified. Removed unverified Binance deadline claim. Audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://aero.xyz/aero-upgrade/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:05:41.423Z",
+          "articleSlug": "aeromerge"
         }
       },
       "baselineSlugs": [
