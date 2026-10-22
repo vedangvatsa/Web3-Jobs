@@ -73520,13 +73520,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "71cb713994d7bbf29390",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T08:47:11.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "Re-read Mural primary blog, CoinDesk, Fortune, CoinMarketCap and Cryptonomist. Oct 20 announcement: 5M Series A led by Tether, North Island Ventures, 8M total. Updated draft to cite primary source and Fortune details; audits clean.",
+      "note": "Re-reviewed restored draft against current sources. Re-read Mural blog Oct 20 ($28M total/$15M Series A led by Tether with North Island Ventures, Deel/Opera/Axexo customers, $2.1B volume/128 countries, forward-deployed engineers, McKinsey/Artemis $390B 2025 stablecoin payments, agent-accountability quote, use of funds), CoinDesk Oct 21 (emailed announcement, transaction limits/counterparties/approvals, Ardoino 'As agents start moving money' quote), Fortune Oct 20 (valuation declined, $5M seed 2022 plus pre-seed/interim, Toffa Palantir London, Alvarez & Marsal $400B in first 8 months 2026, Chainalysis $220B/78% cross-border flows, Ardoino written statement 'around the clock' quote, ~30 employees across NY/Denver/Bogota/Argentina/Chile/Ecuador/Mexico) and CoinMarketCap (Kazakhstan tenge-pegged memo, x402 138M payments/Chainalysis). All draft claims verified; Wikimedia hero credit HTTP 200; 681 words; slug unowned; quality audit clean; hero 311491 bytes.",
       "sourceChecks": [
         {
           "url": "https://muralpay.com/blog/28-million-raised",
@@ -73543,13 +73543,9 @@
         {
           "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
           "outcome": "read"
-        },
-        {
-          "url": "https://en.cryptonomist.ch/2026/10/21/tether-funding-mural/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T12:02:51.641Z",
+      "reviewedAt": "2026-10-22T14:05:52.809Z",
       "articleSlug": "tethermural",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -136005,6 +136001,31 @@
           ],
           "reviewedAt": "2026-10-22T14:04:41.253Z",
           "articleSlug": "cakeflip"
+        },
+        "71cb713994d7bbf29390": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources. Re-read Mural blog Oct 20 ($28M total/$15M Series A led by Tether with North Island Ventures, Deel/Opera/Axexo customers, $2.1B volume/128 countries, forward-deployed engineers, McKinsey/Artemis $390B 2025 stablecoin payments, agent-accountability quote, use of funds), CoinDesk Oct 21 (emailed announcement, transaction limits/counterparties/approvals, Ardoino 'As agents start moving money' quote), Fortune Oct 20 (valuation declined, $5M seed 2022 plus pre-seed/interim, Toffa Palantir London, Alvarez & Marsal $400B in first 8 months 2026, Chainalysis $220B/78% cross-border flows, Ardoino written statement 'around the clock' quote, ~30 employees across NY/Denver/Bogota/Argentina/Chile/Ecuador/Mexico) and CoinMarketCap (Kazakhstan tenge-pegged memo, x402 138M payments/Chainalysis). All draft claims verified; Wikimedia hero credit HTTP 200; 681 words; slug unowned; quality audit clean; hero 311491 bytes.",
+          "sourceChecks": [
+            {
+              "url": "https://muralpay.com/blog/28-million-raised",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+              "outcome": "read"
+            },
+            {
+              "url": "https://fortune.com/2026/10/20/mural-startup-former-palantir-engineers-15-million-bid-banks-bot-economy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T14:05:52.809Z",
+          "articleSlug": "tethermural"
         }
       },
       "baselineSlugs": [
