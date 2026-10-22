@@ -41612,6 +41612,41 @@
       "attemptId": "c750bbdb-ef7e-4844-9647-6c90b0f2d018",
       "verification": "verified",
       "postId": "0x8ccf5e65e6172a6046e26eafb7bba0c479092e56"
+    },
+    {
+      "slug": "tok",
+      "company": "Talos",
+      "title": "Head of Tokenization",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T11:32:14.112Z",
+      "expectedText": "Talos is hiring Head of Tokenization\n\nhttps://hashtagweb3.com/tok/fc?og=7",
+      "snapshot": {
+        "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "title": "Head of Tokenization",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "date": "2026-10-09T08:21:44.060+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "Hybrid (London, NYC)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tok"
+      },
+      "payload": {
+        "text": "Talos is hiring Head of Tokenization\n\nhttps://hashtagweb3.com/tok/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/tok/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "a6adadb7-16ff-42b0-bf87-a19049c6e387",
+      "verification": "creating"
     }
   ]
 }
