@@ -4,12 +4,42 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { runResearchRounds, runValidatedResearch, researchAssignment, newsWriterRuntime } from './run-news-research.mjs';
-import { assignedResearchQueue } from './news-research.mjs';
+import { assignedResearchQueue, prepareDailyResearch } from './news-research.mjs';
 
 function pendingLedger(count = 21) {
   const candidates = Object.fromEntries(Array.from({ length: count }, (_, i) => [String(i), { id: String(i), title: `Candidate ${i}`, sources: [{ url: `https://example.com/${i}` }] }]));
   return { candidates, runs: { '2026-10-22': { status: 'prepared', candidateIds: Object.keys(candidates), outcomes: {} } } };
 }
+
+test('same-day recovery resumes its queue instead of repeatedly adding fresh RSS, while the next day discovers again', async () => {
+  const ledger = { version: 1, candidates: {}, runs: {} }, articles = [], day = '2026-10-22';
+  let calls = 0;
+  const discover = async () => ({ feeds: [{ ok: true }], total: 1, candidates: [{
+    title: `Protocol announces release number ${++calls}`, link: `https://source.example/release-${calls}`, source: 'Source', published: `${calls === 1 ? day : '2026-10-23'}T03:00:00Z`,
+  }] });
+  await prepareDailyResearch({ ledger, articles, day, now: Date.parse(`${day}T03:30:00Z`), discover });
+  const ids = [...ledger.runs[day].candidateIds], discovery = structuredClone(ledger.runs[day].discovery);
+  await prepareDailyResearch({ ledger, articles, day, now: Date.parse(`${day}T08:00:00Z`), discover });
+  assert.equal(calls, 1);
+  assert.deepEqual(ledger.runs[day].candidateIds, ids);
+  assert.deepEqual(ledger.runs[day].discovery, discovery);
+  await prepareDailyResearch({ ledger, articles, day: '2026-10-23', now: Date.parse('2026-10-23T03:30:00Z'), discover });
+  assert.equal(calls, 2);
+  assert.ok(ledger.runs['2026-10-23'].candidateIds.length > ids.length);
+});
+
+test('failed feed discovery is retried and explicit manual tips can join an unfinished daily queue', async () => {
+  const ledger = { version: 1, candidates: {}, runs: {} }, day = '2026-10-22', now = Date.parse(`${day}T03:30:00Z`), articles = [];
+  await prepareDailyResearch({ ledger, articles, day, now, discover: async () => ({ feeds: [{ ok: false }], total: 0, candidates: [] }) });
+  let calls = 0;
+  await prepareDailyResearch({ ledger, articles, day, now, discover: async () => { calls++; return { feeds: [{ ok: true }], total: 0, candidates: [] }; } });
+  await prepareDailyResearch({ ledger, articles, day, now, discover: () => assert.fail('Healthy daily discovery stays fixed'), tips: [
+    { manual: true, title: 'A specific manually requested new filing', link: 'https://source.example/manual-filing', source: 'Manual tip' },
+  ] });
+  assert.equal(calls, 1);
+  assert.equal(ledger.runs[day].candidateIds.length, 1);
+  assert.equal(ledger.candidates[ledger.runs[day].candidateIds[0]].manual, true);
+});
 
 test('focused assignments cover the full queue, preserve outcomes and include newly discovered leads', async () => {
   const ledger = pendingLedger(), day = '2026-10-22', seen = [];

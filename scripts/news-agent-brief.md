@@ -11,7 +11,10 @@ does not grant access to arbitrary `/tmp` paths.
 
 Do not launch the site. Do not signal or stop other processes.
 This is a fresh checkout. Do not assume an earlier run left uncommitted drafts.
-Read tips and run discovery on every run, including when the working tree is clean.
+Read tips on every run, including when the working tree is clean. CI discovers
+the daily feed batch once; same-day retries resume that queue. The next UTC day
+gets fresh discovery. Explicit manual tips and newly researched leads still enter
+the queue, but do not refresh every RSS feed yourself during recovery.
 Then research, write and validate qualifying new articles and their images.
 CI owns commits and pushes. Do not run git commit, git push or git rebase.
 There is one daily news batch and one scheduled website deployment slot.

@@ -19,6 +19,11 @@ Telegram waited for news research and deployment, then reached its send step at 
 
 ## Follow-up recovery
 
+Healthy feed discovery now defines one daily queue. Same-day retries resume it
+instead of continually adding new RSS candidates while reopening saved drafts.
+Failed discovery is retried, explicit manual tips still enter the queue, and the
+next UTC day gets fresh discovery. The separate RSS snapshot continues refreshing.
+
 Retries could lose useful draft files after their ready outcomes were reset, and
 the writer spent most of an invocation retrying inaccessible feeds before reaching
 the saved articles. Recovery now preserves every owned unpublished draft with its

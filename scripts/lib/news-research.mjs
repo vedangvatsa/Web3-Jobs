@@ -33,13 +33,14 @@ export function readTips(text) {
   });
 }
 
-export function prepareResearch({ ledger, discovery, articles, tips = [], day, now = Date.now() }) {
+export function prepareResearch({ ledger, discovery, articles, tips = [], day, now = Date.now(), preserveDiscovery = false }) {
   validateLedger(ledger);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(day) || new Date(`${day}T00:00:00Z`).toISOString().slice(0, 10) !== day || day > iso(now).slice(0, 10)) throw new Error('Invalid research day');
   if (ledger.runs[day]?.status === 'completed') return researchReport(ledger, day);
   const run = ledger.runs[day] ||= { day, startedAt: iso(now), status: 'prepared', candidateIds: [], outcomes: {}, baselineSlugs: articles.map(article => article.slug) };
   run.baselineSlugs = [...new Set([...run.baselineSlugs, ...articles.map(article => article.slug)])];
-  run.discovery = { feeds: discovery.feeds, total: discovery.total, checkedAt: iso(now) };
+  if (!preserveDiscovery) run.discovery = { feeds: discovery.feeds, total: discovery.total, checkedAt: iso(now) };
+  else if (!run.discovery?.feeds?.some(feed => feed.ok)) throw new Error('Only a healthy existing daily discovery can be resumed');
   const assign = item => { if (!run.candidateIds.includes(item.id)) run.candidateIds.push(item.id); };
   for (const incoming of [...tips, ...discovery.candidates]) {
     const key = canonicalNewsUrl(incoming.link);

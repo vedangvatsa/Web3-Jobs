@@ -45,6 +45,14 @@ export function recordResearchBatch(ledger, day, reviews, articles) {
   }
   return next;
 }
+
+export async function prepareDailyResearch({ ledger, day, articles, tips = [], discover = () => discoverNews({ hours: 24, articles }), now = Date.now() }) {
+  if (ledger.runs[day]?.status === 'completed') return researchReport(ledger, day);
+  const resume = ledger.runs[day]?.discovery?.feeds?.some(feed => feed.ok) === true;
+  retryUnpublishedDrafts(ledger, day);
+  const discovery = resume ? { ...ledger.runs[day].discovery, candidates: [] } : await discover();
+  return prepareResearch({ ledger, discovery, articles, tips, day, now, preserveDiscovery: resume });
+}
 function checkpoint(current) {
   if (!current.persist || process.env.GITHUB_ACTIONS !== 'true' || process.env.NEWS_DRY_RUN === 'true') return;
   current.checkpointSha = pushNewsFiles({ baseSha: current.baseSha, expectedBaseSha: current.checkpointSha, files: [LEDGER_PATH], day: current.day, message: `news: checkpoint daily research for ${current.day} [skip ci]` });
@@ -66,10 +74,8 @@ async function main() {
     const day = values.date || process.env.NEWS_DATE || new Date().toISOString().slice(0, 10);
     const baseSha = execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
     if (ledger.runs[day]?.status !== 'completed') {
-      retryUnpublishedDrafts(ledger, day);
       const articles = readNewsArticles();
-      const discovery = await discoverNews({ hours: 24, articles });
-      prepareResearch({ ledger, discovery, articles, tips: readTips(fs.readFileSync('content/news-tips.md', 'utf8')), day });
+      await prepareDailyResearch({ ledger, articles, tips: readTips(fs.readFileSync('content/news-tips.md', 'utf8')), day });
       writeResearch(ledger);
     }
     fs.mkdirSync(RESEARCH_DIR, { recursive: true });
