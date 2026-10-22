@@ -73620,20 +73620,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9258bd8525e496ce85ad",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-25T00:00:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Re-read primary aero.xyz launch hub, The Block (now readable), CoinMarketCap and CoinLab. Oct 21 8PM EDT launch confirmed; conversion rates, Predictive Allocation and market-share figures verified. Removed unverified Binance deadline claim. Audits clean.",
+      "note": "Re-reviewed restored draft. Re-read primary aero.xyz launch hub (Oct 21 8PM EDT launch, seven chains, 1:1 AERO and 0.044 VELO conversion, 94.5/5.5 split, 47h cooldown, manual migration), CoinMarketCap and CoinLab (market shares, TVL, Metaswaps/Slipstream). The Block now returns 403 Cloudflare challenge; removed its three citations and the unverified $120B/month claim, repaired image caption to BalticServers.com CC BY-SA 3.0. 639 words, all cited links HTTP 200, quality/formatting/image/duplicate audits clean, slug unowned.",
       "sourceChecks": [
         {
           "url": "https://aero.xyz/aero-upgrade/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
           "outcome": "read"
         },
         {
@@ -73643,9 +73639,13 @@
         {
           "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T12:05:41.423Z",
+      "reviewedAt": "2026-10-22T14:18:11.546Z",
       "articleSlug": "aeromerge",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -136026,6 +136026,31 @@
           ],
           "reviewedAt": "2026-10-22T14:05:52.809Z",
           "articleSlug": "tethermural"
+        },
+        "9258bd8525e496ce85ad": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft. Re-read primary aero.xyz launch hub (Oct 21 8PM EDT launch, seven chains, 1:1 AERO and 0.044 VELO conversion, 94.5/5.5 split, 47h cooldown, manual migration), CoinMarketCap and CoinLab (market shares, TVL, Metaswaps/Slipstream). The Block now returns 403 Cloudflare challenge; removed its three citations and the unverified $120B/month claim, repaired image caption to BalticServers.com CC BY-SA 3.0. 639 words, all cited links HTTP 200, quality/formatting/image/duplicate audits clean, slug unowned.",
+          "sourceChecks": [
+            {
+              "url": "https://aero.xyz/aero-upgrade/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T14:18:11.546Z",
+          "articleSlug": "aeromerge"
         }
       },
       "baselineSlugs": [
