@@ -40737,7 +40737,8 @@
       },
       "account": "channel:product",
       "attemptId": "fdc999c2-1e45-468d-b515-a2f940fa6e1f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6f70501351aa37cac23bc5ec6e5d9d1a2111ebfb"
     }
   ]
 }
