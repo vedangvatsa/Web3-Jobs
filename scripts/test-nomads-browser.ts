@@ -165,6 +165,7 @@ async function main() {
     await go('/nomads');
     await expect(page.locator('main').getByRole('alert')).toContainText('map could not be loaded');
     await page.getByRole('button', { name: 'Try again', exact: true }).click(); await mapReady();
+    const overviewZoom = Number(await map.getAttribute('data-zoom'));
     await expect(page.locator('[data-nomad-city]')).toHaveCount(12);
     await expect(page.locator('[data-nomad-place], .nomad-navigation')).toHaveCount(0);
     await expect(page.locator('[data-place-category]')).toHaveCount(5);
@@ -189,7 +190,7 @@ async function main() {
     await expect.poll(() => cards.count()).toBeGreaterThanOrEqual(12);
     assert.ok(await cards.count() < getNomadCities().length, 'Filter reset must not retain the fully loaded catalog');
     assert.equal((await cards.count()) % 12, 0, 'Compact cards may prefetch another batch, but batches remain 12 cities');
-    await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(2);
+    await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(overviewZoom);
     assert.equal(requests.some(url => /passport|\/cities\/lisbon.json/.test(url)), false);
     await stableDropdown(page.getByRole('combobox', { name: 'Filter destinations by region' }));
     const filterBoxes = await page.locator('[data-explorer-controls]:has(input[aria-label="Search cities and places"])').locator('input, select, [role="combobox"]').evaluateAll(fields => fields.map(field => ({ y: field.getBoundingClientRect().y, height: field.getBoundingClientRect().height })));
@@ -211,7 +212,7 @@ async function main() {
     await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBeGreaterThan(beforeCluster);
     for (let i = 0; i < 3; i++) { await page.getByRole('button', { name: 'Zoom in', exact: true }).click(); await page.waitForTimeout(70); }
     await page.getByRole('button', { name: 'Reset map view' }).click();
-    await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(2);
+    await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(overviewZoom);
     await expect(map).toHaveAttribute('data-moving', 'false');
     await page.emulateMedia({ reducedMotion: 'reduce' });
     await page.getByRole('button', { name: 'Zoom in', exact: true }).click();

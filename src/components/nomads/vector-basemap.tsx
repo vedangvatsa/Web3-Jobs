@@ -21,18 +21,18 @@ export function VectorBasemap() {
       }
       map.attributionControl.removeAttribution(credit);
     }
-    function useFallback() {
+    function enableFallback() {
       if (!active || fallback) return;
       removeVector();
       container.dataset.basemap = 'openstreetmap';
       fallback = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19, className: 'grayscale',
+        maxZoom: 19, noWrap: true, className: 'grayscale',
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
       }).on('load', () => { if (active) container.dataset.basemapReady = 'true'; }).addTo(map);
     }
     try {
       // The adapter supports updateInterval but omits it from its published types.
-      const options: Parameters<typeof maplibreGL>[0] & { updateInterval: number } = { style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json', attributionControl: false, updateInterval: 16 };
+      const options: Parameters<typeof maplibreGL>[0] & { updateInterval: number } = { style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json', attributionControl: false, renderWorldCopies: false, updateInterval: 16 };
       vector = maplibreGL(options);
       vector.addTo(map);
       map.attributionControl.addAttribution(credit);
@@ -40,8 +40,8 @@ export function VectorBasemap() {
       const renderer = vector.getMaplibreMap();
       renderer.on('dataloading', () => { if (active && !fallback) container.dataset.basemapReady = 'false'; });
       renderer.on('idle', () => { if (active && !fallback) container.dataset.basemapReady = 'true'; });
-      renderer.on('error', () => { if (active && !renderer.isStyleLoaded()) useFallback(); });
-    } catch { useFallback(); }
+      renderer.on('error', () => { if (active && !renderer.isStyleLoaded()) enableFallback(); });
+    } catch { enableFallback(); }
 
     return () => {
       active = false;

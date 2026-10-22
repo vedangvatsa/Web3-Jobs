@@ -3,7 +3,8 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import L from 'leaflet';
-import { CircleMarker, MapContainer, Marker, Popup, useMap, useMapEvents } from 'react-leaflet';
+import { CircleMarker, Marker, Popup, useMap, useMapEvents } from 'react-leaflet';
+import { createLeafletContext, LeafletProvider } from '@react-leaflet/core';
 import { ArrowUpRight, LocateFixed, Minus, Plus } from 'lucide-react';
 import type { CitySummary, NomadPlace } from '@/lib/nomads/types';
 import { cityPath, PLACE_CATEGORIES } from '@/lib/nomads/types';
@@ -12,6 +13,17 @@ import { VectorBasemap } from './vector-basemap';
 
 type Props = { places: NomadPlace[]; cities: Pick<CitySummary, 'slug' | 'name' | 'country' | 'lat' | 'lon'>[]; selectedCity: string; focused?: NomadPlace; focusRequest?: number; viewportKey?: string; fitFiltered?: boolean };
 const motionAllowed = () => !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+const worldBounds = L.latLngBounds([[-85, -180], [85, 180]]);
+
+function boundedCenter(map: L.Map, center: L.LatLngExpression, zoom: number) {
+  const point = map.project(center, zoom), half = map.getSize().divideBy(2);
+  const northWest = map.project(worldBounds.getNorthWest(), zoom).add(half);
+  const southEast = map.project(worldBounds.getSouthEast(), zoom).subtract(half);
+  return map.unproject(L.point(
+    Math.max(northWest.x, Math.min(southEast.x, point.x)),
+    Math.max(northWest.y, Math.min(southEast.y, point.y)),
+  ), zoom);
+}
 
 function NumberedCluster({ feature, onClick }: { feature: Extract<MapPlaceFeature, { properties: { cluster: true } }>; onClick: () => void }) {
   const marker = useRef<L.Marker>(null);
@@ -37,12 +49,15 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
   const current = useRef({ places, cities, selectedCity, fitFiltered });
   const initialized = useRef(false);
   const pendingPopup = useRef<(() => void) | null>(null);
+  const zoomTarget = useRef<number | null>(null);
+  const [zoom, setZoom] = useState(map.getZoom());
   current.current = { places, cities, selectedCity, fitFiltered };
 
   const updateClusters = useCallback(() => {
     const bounds = map.getBounds();
     setFeatures(index.getClusters([bounds.getWest(), bounds.getSouth(), bounds.getEast(), bounds.getNorth()], Math.floor(map.getZoom())));
     map.getContainer().dataset.zoom = String(map.getZoom());
+    setZoom(map.getZoom());
   }, [index, map]);
   const cancelPopup = useCallback(() => {
     if (pendingPopup.current) map.off('moveend', pendingPopup.current);
@@ -50,8 +65,9 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
   }, [map]);
   useMapEvents({
     movestart: () => { map.getContainer().dataset.moving = 'true'; },
+    zoomstart: () => { zoomTarget.current = null; },
     zoom: () => { map.getContainer().dataset.zoom = String(map.getZoom()); },
-    moveend: () => { updateClusters(); map.getContainer().dataset.moving = 'false'; },
+    moveend: () => { updateClusters(); zoomTarget.current = null; map.getContainer().dataset.moving = 'false'; },
     dragstart: cancelPopup,
     click: () => setSelectedId(null),
   });
@@ -68,7 +84,10 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
   const flyTo = useCallback((center: L.LatLngExpression, zoom: number, placeId?: string, animate = true) => {
     cancelPopup();
     setSelectedId(null);
-    const target = L.latLng(center);
+    zoomTarget.current = null;
+    zoom = Math.max(map.getMinZoom(), Math.min(map.getMaxZoom(), zoom));
+    setZoom(zoom);
+    const target = boundedCenter(map, center, zoom);
     const moving = !map.getCenter().equals(target, 1e-7) || Math.abs(map.getZoom() - zoom) > 0.001;
     if (placeId && moving) {
       const onArrival = () => { pendingPopup.current = null; setSelectedId(placeId); };
@@ -78,6 +97,12 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
     map.flyTo(target, zoom, { animate: animate && moving && motionAllowed(), duration: 0.7 });
     if (placeId && !moving) setSelectedId(placeId);
   }, [map, cancelPopup]);
+  const changeZoom = (delta: number) => {
+    const currentZoom = zoomTarget.current ?? map.getZoom();
+    const target = Math.max(map.getMinZoom(), Math.min(map.getMaxZoom(), delta > 0 ? Math.floor(currentZoom) + 1 : Math.ceil(currentZoom) - 1));
+    flyTo(map.getCenter(), target);
+    if (Math.abs(map.getZoom() - target) > 0.001) zoomTarget.current = target;
+  };
   const focusPlace = useCallback((place: NomadPlace, animate = true) => {
     const zoom = Math.max(16, map.getZoom());
     const center = map.unproject(map.project([place.lat, place.lon], zoom).subtract([0, map.getSize().y * 0.15]), zoom);
@@ -88,7 +113,10 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
     setSelectedId(null);
     const data = current.current;
     if (data.places.length && (data.selectedCity || data.fitFiltered)) {
-      map.flyToBounds(data.places.map(place => [place.lat, place.lon] as [number, number]), { padding: [45, 45], maxZoom: 13, animate: animate && motionAllowed(), duration: 0.7 });
+      const bounds = L.latLngBounds(data.places.map(place => [place.lat, place.lon] as [number, number]));
+      const zoom = Math.min(13, map.getBoundsZoom(bounds, false, L.point(90, 90)));
+      const center = map.unproject(map.project(bounds.getNorthWest(), zoom).add(map.project(bounds.getSouthEast(), zoom)).divideBy(2), zoom);
+      flyTo(center, zoom, undefined, animate);
     } else {
       const city = data.cities.find(city => city.slug === data.selectedCity);
       flyTo(city ? [city.lat, city.lon] : [20, 20], city ? 12 : 2, undefined, animate);
@@ -106,11 +134,11 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
     });
     setSelectedId(null);
     return () => cancelAnimationFrame(frame);
-  }, [map, selectedCity, viewportKey, focused?.id, focusRequest, fitPlaces, focusPlace]);
+  }, [map, selectedCity, viewportKey, focused, focusRequest, fitPlaces, focusPlace]);
 
   const selected = selectedId ? byId.get(selectedId) : undefined;
   const selectedPlaceCity = selected ? cities.find(city => city.slug === selected.citySlug) : undefined;
-  const controlStyle = 'flex h-11 w-11 items-center justify-center bg-background text-foreground hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-ring';
+  const controlStyle = 'flex h-11 w-11 items-center justify-center bg-background text-foreground hover:bg-muted focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-40';
   return <>
     {features.map(feature => {
       const [lon, lat] = feature.geometry.coordinates;
@@ -127,17 +155,50 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest, view
       </div>
     </Popup>}
     <div ref={controls} className="absolute bottom-8 right-3 z-[500] flex flex-col items-end gap-2">
-      <div className="overflow-hidden rounded-lg border border-border bg-background shadow-sm"><button type="button" aria-label="Zoom in" className={controlStyle} onClick={() => flyTo(map.getCenter(), Math.min(Math.floor(map.getZoom()) + 1, 19))}><Plus className="h-5 w-5" aria-hidden /></button><button type="button" aria-label="Zoom out" className={`${controlStyle} border-t`} onClick={() => flyTo(map.getCenter(), Math.max(Math.ceil(map.getZoom()) - 1, 1))}><Minus className="h-5 w-5" aria-hidden /></button></div>
+      <div className="overflow-hidden rounded-lg border border-border bg-background shadow-sm"><button type="button" aria-label="Zoom in" disabled={zoom >= map.getMaxZoom()} className={controlStyle} onClick={() => changeZoom(1)}><Plus className="h-5 w-5" aria-hidden /></button><button type="button" aria-label="Zoom out" disabled={zoom <= map.getMinZoom()} className={`${controlStyle} border-t`} onClick={() => changeZoom(-1)}><Minus className="h-5 w-5" aria-hidden /></button></div>
       <button type="button" aria-label="Reset map view" className={`${controlStyle} rounded-lg border border-border shadow-sm`} onClick={() => { setSelectedId(null); fitPlaces(); }}><LocateFixed className="h-5 w-5" aria-hidden /></button>
     </div>
   </>;
 }
 
 export default function PlacesMap(props: Props) {
+  const container = useRef<HTMLDivElement>(null);
+  const [context, setContext] = useState<ReturnType<typeof createLeafletContext> | null>(null);
+  useEffect(() => {
+    if (!container.current) return;
+    // Own the map in an effect: react-leaflet 4's ref callback initializes twice in Strict Mode.
+    const map = L.map(container.current, {
+      minZoom: 1, maxZoom: 19, zoomSnap: 0,
+      maxBounds: worldBounds, maxBoundsViscosity: 1, bounceAtZoomLimits: false,
+      preferCanvas: true, zoomControl: false, zoomAnimation: motionAllowed(), fadeAnimation: motionAllowed(), scrollWheelZoom: true,
+    });
+    map.setMinZoom(Math.max(1, map.getBoundsZoom(worldBounds, true)));
+    const initialZoom = Math.max(2, map.getMinZoom());
+    map.setView(boundedCenter(map, [20, 20], initialZoom), initialZoom, { animate: false });
+    let width = container.current.clientWidth, height = container.current.clientHeight;
+    const resize = () => {
+      const element = map.getContainer();
+      if (element.clientWidth === width && element.clientHeight === height) return;
+      width = element.clientWidth; height = element.clientHeight;
+      if (!width || !height) return;
+      const center = map.getCenter();
+      map.invalidateSize({ pan: false, animate: false });
+      // Keep one world large enough to cover the viewport, including after a container-only resize.
+      const minimum = Math.max(1, map.getBoundsZoom(worldBounds, true)), zoom = Math.max(map.getZoom(), minimum);
+      map.setView(boundedCenter(map, center, zoom), zoom, { animate: false });
+      map.setMinZoom(minimum);
+    };
+    const observer = new ResizeObserver(resize);
+    observer.observe(container.current);
+    setContext(createLeafletContext(map));
+    return () => { observer.disconnect(); map.remove(); };
+  }, []);
   return <div className="relative isolate z-0 h-[340px] overflow-hidden rounded-lg border border-border/70 bg-muted sm:h-[420px] lg:h-[460px]" aria-label="Places map">
-    <MapContainer center={[20, 20]} zoom={2} minZoom={1} maxZoom={19} maxBounds={[[-85, -Infinity], [85, Infinity]]} maxBoundsViscosity={1} className="h-full w-full" preferCanvas zoomControl={false} zoomAnimation={motionAllowed()} fadeAnimation={motionAllowed()} scrollWheelZoom={false}>
-      <VectorBasemap />
-      <MapContents {...props} />
-    </MapContainer>
+    <div ref={container} className="h-full w-full">
+      {context && <LeafletProvider value={context}>
+        <VectorBasemap />
+        <MapContents {...props} />
+      </LeafletProvider>}
+    </div>
   </div>;
 }
