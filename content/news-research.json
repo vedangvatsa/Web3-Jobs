@@ -72588,13 +72588,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T23:24:01.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "Re-read the OCC Oct. 21 news release 2026-92, Decrypt and CoinDesk coverage: first GENIUS Act final rule, effective Jan. 18, 2027, reserve/redemption/risk standards, no safe harbor for pre-existing rewards programs. Drafted content/articles/occgenius.md (734 body words, hosts: occ.gov, decrypt.co, coindesk.com); hero image OCC HQ sign by MBisanz via Wikimedia (CC BY-SA 3.0), compressed to 218KB.",
+      "note": "Re-read OCC News Release 2026-92 (Oct. 21: final GENIUS Act rule, Bessent Lincoln quote, Gould quote, effective Jan. 18, 2027, BSA/AML/OFAC excluded to separate Treasury rulemaking, applications timing unannounced), Decrypt Oct. 21 (jurisdiction scope, new regulation section contents, Gould August November-target quote, FinCEN/OFAC April proposal) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, 'solely' analysis, rebuttable presumptions removed, other agencies' timelines, principles-based reserve change). All draft claims verified; updated front-matter dates to 2026-10-22. Formatting clean, image audit passes, slug occgenius unowned, hero 218KB.",
       "sourceChecks": [
         {
           "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
@@ -72609,7 +72609,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T09:47:27.700Z",
+      "reviewedAt": "2026-10-22T11:26:04.343Z",
       "articleSlug": "occgenius",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135502,6 +135502,27 @@
           ],
           "reviewedAt": "2026-10-22T11:23:36.785Z",
           "articleSlug": "regcrypto"
+        },
+        "d827e4da47d80b199d72": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read OCC News Release 2026-92 (Oct. 21: final GENIUS Act rule, Bessent Lincoln quote, Gould quote, effective Jan. 18, 2027, BSA/AML/OFAC excluded to separate Treasury rulemaking, applications timing unannounced), Decrypt Oct. 21 (jurisdiction scope, new regulation section contents, Gould August November-target quote, FinCEN/OFAC April proposal) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, 'solely' analysis, rebuttable presumptions removed, other agencies' timelines, principles-based reserve change). All draft claims verified; updated front-matter dates to 2026-10-22. Formatting clean, image audit passes, slug occgenius unowned, hero 218KB.",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:26:04.343Z",
+          "articleSlug": "occgenius"
         }
       },
       "baselineSlugs": [
