@@ -72695,11 +72695,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d72de1761a9560efb8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T17:57:39.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Cointelegraph + Cryptopolitan; 19-page Sept. 30 Commission response opposing standalone DeFi and staking regimes under MiCA.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "articleSlug": "cardanomica",
+      "lastReviewedDay": "2026-10-22"
     },
     "906c321d0e1b67a1a1bc": {
       "source": "Cointelegraph",
@@ -73141,11 +73156,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "71cb713994d7bbf29390",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T08:47:11.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "CoinMarketCap + Cryptonomist citing CoinDesk; Tether-led $15M Series A, total $28M, AI agent payment controls.",
+      "sourceChecks": [
+        {
+          "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.cryptonomist.ch/2026/10/21/tether-funding-mural/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "articleSlug": "tethermural",
+      "lastReviewedDay": "2026-10-22"
     },
     "82d09df67c8d5c5bfdb9": {
       "source": "The Defiant",
@@ -73216,11 +73246,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9258bd8525e496ce85ad",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T00:00:00.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "CoinMarketCap + CoinLab; Aero live on seven chains, AERO 1:1 and VELO 0.044 conversion, Predictive Allocation.",
+      "sourceChecks": [
+        {
+          "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "articleSlug": "aeromerge",
+      "lastReviewedDay": "2026-10-22"
     },
     "555b03b302d276314cb0": {
       "source": "Crypto Briefing",
@@ -73886,11 +73935,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fce1aae7d056893b050",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:11:52.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Bitcoin Magazine + Webull PRNewswire + iCoin Market; Kalshi Katalyst loans, BitGo Bank and Trust collateral, Webull Nov perps via KalshiEX.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/webull-puts-a-date-on-perpetual-futures-us-rollout-begins-in-november-302914044.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:40:46.044Z",
+      "articleSlug": "kalshibitgo",
+      "lastReviewedDay": "2026-10-22"
     },
     "3e333bbfb40cea433a99": {
       "source": "Bitcoin Magazine",
@@ -74570,11 +74638,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "071b560c69c5c4bd1d77",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T01:25:39.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "duplicate",
+      "note": "Same Aerodrome-Velodrome Aero merger and seven-chain launch covered by the ready draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "duplicateOf": "aeromerge",
+      "mergedInto": "9258bd8525e496ce85ad",
+      "lastReviewedDay": "2026-10-22"
     },
     "a0091dc8f20a34b4f96b": {
       "source": "BeInCrypto",
@@ -132808,6 +132883,91 @@
           ],
           "reviewedAt": "2026-10-22T04:28:15.146Z",
           "articleSlug": "charonupgrade"
+        },
+        "4fce1aae7d056893b050": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitcoin Magazine + Webull PRNewswire + iCoin Market; Kalshi Katalyst loans, BitGo Bank and Trust collateral, Webull Nov perps via KalshiEX.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/webull-puts-a-date-on-perpetual-futures-us-rollout-begins-in-november-302914044.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:40:46.044Z",
+          "articleSlug": "kalshibitgo"
+        },
+        "65d72de1761a9560efb8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cointelegraph + Cryptopolitan; 19-page Sept. 30 Commission response opposing standalone DeFi and staking regimes under MiCA.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:40:46.045Z",
+          "articleSlug": "cardanomica"
+        },
+        "71cb713994d7bbf29390": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CoinMarketCap + Cryptonomist citing CoinDesk; Tether-led $15M Series A, total $28M, AI agent payment controls.",
+          "sourceChecks": [
+            {
+              "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.cryptonomist.ch/2026/10/21/tether-funding-mural/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:40:46.045Z",
+          "articleSlug": "tethermural"
+        },
+        "9258bd8525e496ce85ad": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CoinMarketCap + CoinLab; Aero live on seven chains, AERO 1:1 and VELO 0.044 conversion, Predictive Allocation.",
+          "sourceChecks": [
+            {
+              "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:40:46.045Z",
+          "articleSlug": "aeromerge"
+        },
+        "071b560c69c5c4bd1d77": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Aerodrome-Velodrome Aero merger and seven-chain launch covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T04:40:46.045Z",
+          "duplicateOf": "aeromerge",
+          "mergedInto": "9258bd8525e496ce85ad"
         }
       },
       "baselineSlugs": [
