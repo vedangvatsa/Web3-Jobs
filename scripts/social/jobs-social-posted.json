@@ -41006,6 +41006,35 @@
       "verification": "verified",
       "postId": "6ad9f440b7096b8d3811ba6d",
       "permalink": "https://twitter.com/hashtag_web3/status/2113231963226030115"
+    },
+    {
+      "slug": "tok",
+      "company": "Talos",
+      "title": "Head of Tokenization",
+      "platform": "threads",
+      "postedAt": "2026-10-22T11:32:14.112Z",
+      "expectedText": "Talos is hiring Head of Tokenization: https://hashtagweb3.com/tok/th?og=7",
+      "snapshot": {
+        "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "title": "Head of Tokenization",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "date": "2026-10-09T08:21:44.060+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "Hybrid (London, NYC)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tok"
+      },
+      "payload": {
+        "text": "Talos is hiring Head of Tokenization: https://hashtagweb3.com/tok/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/tok/th?og=7"
+      },
+      "attemptId": "8d0e9dd9-5eff-4565-b216-2a751570d9d3",
+      "verification": "creating"
     }
   ]
 }
