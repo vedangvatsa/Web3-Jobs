@@ -42721,7 +42721,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "fff3da13-8149-4634-bf0c-7ac5257bb54d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ada64ade374ecc982219806"
     }
   ]
 }
