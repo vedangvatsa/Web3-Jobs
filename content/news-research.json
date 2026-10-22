@@ -72948,24 +72948,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d72de1761a9560efb8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T17:57:39.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Cointelegraph + Cryptopolitan; 19-page Sept. 30 Commission response opposing standalone DeFi and staking regimes under MiCA.",
+      "note": "Re-read Cointelegraph (Oct. 21) and Cryptopolitan (Oct. 22) on the Cardano Foundation's 19-page Sept. 30 Commission consultation response: substance-not-technology quote, Buergi byline, delegation-without-custody argument, ESMA/EBA/ECB/AMLA counterpressure, FATF July figures, Kaiko EUR362B, Circle/Aave yield-ban pushback all verified. Repairs: front-matter dates bumped to 2026-10-22; unlinked FATF claim now attributed via Cryptopolitan (FATF site 403); Freshfields, AMLA and Kaiko claims now link their primary sources directly, cutting Cryptopolitan named mentions from 5 to the 3 cap. Formatting clean, image audit passes, slug cardanomica unowned, hero present.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
           "outcome": "read"
         },
         {
-          "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi",
+          "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:40:46.045Z",
+      "reviewedAt": "2026-10-22T11:34:47.572Z",
       "articleSlug": "cardanomica",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135523,6 +135523,23 @@
           ],
           "reviewedAt": "2026-10-22T11:26:04.343Z",
           "articleSlug": "occgenius"
+        },
+        "65d72de1761a9560efb8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph (Oct. 21) and Cryptopolitan (Oct. 22) on the Cardano Foundation's 19-page Sept. 30 Commission consultation response: substance-not-technology quote, Buergi byline, delegation-without-custody argument, ESMA/EBA/ECB/AMLA counterpressure, FATF July figures, Kaiko EUR362B, Circle/Aave yield-ban pushback all verified. Repairs: front-matter dates bumped to 2026-10-22; unlinked FATF claim now attributed via Cryptopolitan (FATF site 403); Freshfields, AMLA and Kaiko claims now link their primary sources directly, cutting Cryptopolitan named mentions from 5 to the 3 cap. Formatting clean, image audit passes, slug cardanomica unowned, hero present.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:34:47.572Z",
+          "articleSlug": "cardanomica"
         }
       },
       "baselineSlugs": [
