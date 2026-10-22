@@ -2022,7 +2022,7 @@
     "sentAt": "2026-10-22T11:33:29.513Z"
   },
   "348f20a0-c7d6-4703-8226-816a754a1654": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-22T19:34:08.220Z",
     "stories": [
       {
@@ -2050,6 +2050,8 @@
         "originalTitle": "Papertrade locks PAPER token to its own contract after launch week"
       }
     ],
-    "slotKey": "2026-10-22:evening"
+    "slotKey": "2026-10-22:evening",
+    "messageId": 65769,
+    "sentAt": "2026-10-22T19:34:11.736Z"
   }
 }
