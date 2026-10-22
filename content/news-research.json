@@ -72754,13 +72754,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "33e9137878190c73e286",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T21:42:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Filed Oct 16 in S.D. Ohio, Judge Douglas Cole; AG Andy Wilson and OCCC defendants; two theories: Ohio licensing discriminates under Commerce Clause and Commodity Exchange Act preemption; CFTC Oct 9 interim final rule on casino-style swaps plus proposed event-contract rule cited as new landscape; no PI motion or Ohio response as of Oct 21; 10 commission notices with Oct 16 deadline, one confirmed compliance, two suing including Polymarket; Second litigant unidentified; DeWine quote; Sixth Circuit rehearing petition pending; Third Circuit SCOTUS split with NJ petition, Kalshi response due Nov 9.",
+      "note": "Re-reviewed restored draft against current sources. Re-read Unchained Oct. 21 (Oct. 16 filing, Judge Douglas Cole, defendants, two legal theories, CFTC Oct. 9 actions, no PI motion or Ohio response as of Oct. 21, Third Circuit/NJ petition), DeFi Rate Oct. 21 (10 notices list, one compliance, two suing, DeWine quote, Sixth Circuit rehearing Oct. 9, Kentucky supplemental briefs Oct. 23, Kalshi NJ response due Nov. 9) and CoinDesk Sept. 25 Sixth Circuit Kalshi ruling. Newly downloaded and read the primary 46-page complaint PDF (QCX LLC v. Wilson, Case 26-1502, filed 10/16/26; Commerce Clause and CEA preemption claims; balkanizing quote; Schuler cite) which was previously unavailable. CourtListener docket still 403. Draft claims verified; 639 words; slug unowned; quality audit clean; hero 235KB.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
@@ -72775,15 +72775,19 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
-          "outcome": "blocked"
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
+          "outcome": "read"
         },
         {
-          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
-          "outcome": "unavailable"
+          "url": "https://www.sportsbettingdime.com/news/industry/ohio-governor-says-action-forthcoming-against-prediction-market-operators/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T10:42:28.453Z",
+      "reviewedAt": "2026-10-22T13:54:18.507Z",
       "articleSlug": "polymarketohio",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135807,6 +135811,39 @@
           ],
           "reviewedAt": "2026-10-22T13:52:50.031Z",
           "articleSlug": "occgenius"
+        },
+        "33e9137878190c73e286": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources. Re-read Unchained Oct. 21 (Oct. 16 filing, Judge Douglas Cole, defendants, two legal theories, CFTC Oct. 9 actions, no PI motion or Ohio response as of Oct. 21, Third Circuit/NJ petition), DeFi Rate Oct. 21 (10 notices list, one compliance, two suing, DeWine quote, Sixth Circuit rehearing Oct. 9, Kentucky supplemental briefs Oct. 23, Kalshi NJ response due Nov. 9) and CoinDesk Sept. 25 Sixth Circuit Kalshi ruling. Newly downloaded and read the primary 46-page complaint PDF (QCX LLC v. Wilson, Case 26-1502, filed 10/16/26; Commerce Clause and CEA preemption claims; balkanizing quote; Schuler cite) which was previously unavailable. CourtListener docket still 403. Draft claims verified; 639 words; slug unowned; quality audit clean; hero 235KB.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+              "outcome": "read"
+            },
+            {
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sportsbettingdime.com/news/industry/ohio-governor-says-action-forthcoming-against-prediction-market-operators/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:54:18.507Z",
+          "articleSlug": "polymarketohio"
         }
       },
       "baselineSlugs": [
