@@ -72503,11 +72503,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "223942039ddb42dedd48",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T02:05:00.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "verified-event",
+      "note": "BeInCrypto returned 403; verified instead via the Motley Fool full Q3 call transcript and Bullished's same-day report plus the CourtListener copy of CME's June complaint. Duffy said on the Oct. 21 call the perpetual funding rate is deemed a swap under Dodd-Frank and CME is fairly confident; GC Marchese said the case is fully briefed to the judge in December. Drafted content/articles/duffyperps.md (662 words, hosts: fool.com, bullished.co, courtlistener.com); hero Terry Duffy photo via Wikimedia (CC BY-SA 4.0), 125KB.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.293632/gov.uscourts.dcd.293632.1.0.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:57:52.313Z",
+      "articleSlug": "duffyperps",
+      "lastReviewedDay": "2026-10-22"
     },
     "944f3719323a7c5d4899": {
       "source": "Crypto Briefing",
@@ -133489,6 +133512,31 @@
           "reviewedAt": "2026-10-22T09:47:27.700Z",
           "duplicateOf": "occgenius",
           "mergedInto": "d827e4da47d80b199d72"
+        },
+        "223942039ddb42dedd48": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "BeInCrypto returned 403; verified instead via the Motley Fool full Q3 call transcript and Bullished's same-day report plus the CourtListener copy of CME's June complaint. Duffy said on the Oct. 21 call the perpetual funding rate is deemed a swap under Dodd-Frank and CME is fairly confident; GC Marchese said the case is fully briefed to the judge in December. Drafted content/articles/duffyperps.md (662 words, hosts: fool.com, bullished.co, courtlistener.com); hero Terry Duffy photo via Wikimedia (CC BY-SA 4.0), 125KB.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.293632/gov.uscourts.dcd.293632.1.0.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:57:52.313Z",
+          "articleSlug": "duffyperps"
         }
       },
       "baselineSlugs": [
