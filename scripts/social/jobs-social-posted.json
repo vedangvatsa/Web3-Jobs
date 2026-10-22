@@ -39524,6 +39524,40 @@
       "attemptId": "ac5c8635-8ba5-4fed-9705-5015c9d9d5e6",
       "verification": "verified",
       "postId": "0xeaea40432a38b04a48f2d3c2e6c3261cbd393680"
+    },
+    {
+      "slug": "aso42",
+      "company": "Galaxy Digital",
+      "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T05:27:02.350Z",
+      "expectedText": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai\n\nhttps://hashtagweb3.com/aso42/fc?og=7",
+      "snapshot": {
+        "id": "6223138004",
+        "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6223138004",
+        "date": "2026-10-13T11:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "India",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso42"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai\n\nhttps://hashtagweb3.com/aso42/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso42/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "b30c63e3-d853-4e8e-bcf0-02edc18aa903",
+      "verification": "creating"
     }
   ]
 }
