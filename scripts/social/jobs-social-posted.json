@@ -42183,7 +42183,8 @@
       },
       "account": "channel:developers",
       "attemptId": "ee31d9da-bc35-47ca-9aac-ecad67582658",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x915d43e34627c6ccbc56b62b5dac6702743debd1"
     }
   ]
 }
