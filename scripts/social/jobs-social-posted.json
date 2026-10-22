@@ -44271,7 +44271,8 @@
       },
       "account": "channel:growth",
       "attemptId": "a3bd19bf-d91a-4b70-b15b-317217cd0a00",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1d309c8675d2350bc6eb4539cb09f4f90a2e3cf6"
     }
   ]
 }
