@@ -61707,25 +61707,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "709c708bf9228607bc98",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-19T14:28:14.753Z",
       "attempts": 3,
       "expiresAt": "2026-10-22T14:13:28.000Z",
       "lastSeenAt": "2026-10-20T08:45:02.257Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-22T14:55:54.714Z",
       "retrySearches": [
         "Find independent reporting on: Echo Protocol Winds Down, Halting New Deposits and Borrowing"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "nextReviewDate": "2026-10-22",
+      "automatic": true
     },
     "90c09f07d86dba68e1e6": {
       "source": "Crypto Briefing",
@@ -67731,7 +67727,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T17:45:11.000Z",
@@ -68141,7 +68137,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 5,
       "expiresAt": "2026-10-23T22:46:50.000Z",
@@ -68231,7 +68227,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a69374c6920c41cbfc",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 4,
       "expiresAt": "2026-10-23T21:38:18.000Z",
@@ -68452,7 +68448,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0234a0b9cf8724213cf8",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 4,
       "expiresAt": "2026-10-23T17:11:47.000Z",
@@ -68541,7 +68537,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0b5ba7979f5eaf98a43",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 4,
       "expiresAt": "2026-10-23T16:24:01.000Z",
@@ -68701,7 +68697,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b876bd7370c395bf9c8",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
       "attempts": 4,
       "expiresAt": "2026-10-23T11:53:34.000Z",
@@ -72589,7 +72585,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "223942039ddb42dedd48",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-25T02:05:00.000Z",
@@ -72668,7 +72664,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d827e4da47d80b199d72",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 4,
       "expiresAt": "2026-10-24T23:24:01.000Z",
@@ -72834,7 +72830,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "33e9137878190c73e286",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 2,
       "expiresAt": "2026-10-24T21:42:00.000Z",
@@ -73073,7 +73069,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "65d72de1761a9560efb8",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T17:57:39.000Z",
@@ -73190,7 +73186,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "c56190794627ccdc754f",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T16:23:44.000Z",
@@ -73247,7 +73243,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "adebfc2118208e55e78a",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T16:09:26.000Z",
@@ -73308,7 +73304,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "503a86e0687b3af255f8",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T15:40:00.000Z",
@@ -73601,7 +73597,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5bf88db82bc3cc461",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T10:50:52.000Z",
@@ -73662,7 +73658,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "71cb713994d7bbf29390",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-24T08:47:11.000Z",
@@ -73772,7 +73768,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "9258bd8525e496ce85ad",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 3,
       "expiresAt": "2026-10-25T00:00:00.000Z",
@@ -73836,7 +73832,7 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 5,
       "expiresAt": "2026-10-24T22:43:45.000Z",
@@ -135775,454 +135771,13 @@
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
         },
-        "555b03b302d276314cb0": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Crypto Briefing (Oct. 21) and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted in the Docker image, CVE-2026-111943, required release for all operators, 422,862 ETH cluster balance. Draft is formatting clean, image audit passes, no quality failures, slug charonupgrade unowned, hero 286KB.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.062Z",
-          "articleSlug": "charonupgrade"
-        },
-        "665905ab039e4e58273a": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Crypto Briefing (Oct. 20) and Bitcoin.com News (Oct. 21), and downloaded/read the primary Bitwise Q4 2026 Staking Report PDF (65 pages): 43.80M ETH staked, 35.9% of supply, 2.63% gross yield from 2.81%, 1.99M net inflows (sixth straight quarter), validator count 1.1M to 881k, fee/MEV composition 2.53pp/0.10pp, Solana 440.5M SOL at 69%. Corrected offline stake share from close to 29% to close to 30% to match the PDF's 29.6% Teraswitch figure. Draft is formatting clean, image audit passes, no quality failures, slug stakingrecord unowned, hero 293KB.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.062Z",
-          "articleSlug": "stakingrecord"
-        },
-        "f3e86162ee7dcb7ad739": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Crypto Briefing, TokenPost, and the primary SEC rulemaking pages (S7-2026-27, comments due Oct. 20, releases 33-11434/34-106150, Aug. 18 issue, Aug. 21 FR, $5M/$75M exemptions) plus the SEC comments listing (Oct. 20-21 filers). Linked the previously unlinked CFTC claim to cftc.gov PressRelease 9307-26 (verified HTTP 200, Oct. 5 2026 ANPRM, Regulation CTX/CAM, 2(c)(2)(D)). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.tokenpost.com/news/regulation/36529",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "regcrypto"
-        },
-        "89a69374c6920c41cbfc": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read HSP-029 on the NEAR forum primary source, Foresight News (vote closes Nov. 2), and Crypto Briefing (Oct. 2): 24-month issuance ramp to a 1.6% annual target rate, governance vote window, and emission-cut framing verified. Draft is formatting clean, image audit passes, no quality failures, slug nearissuance unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644",
-              "outcome": "read"
-            },
-            {
-              "url": "https://foresightnews.pro/news/detail/115622",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/near-protocol-token-issuance-cut-proposal/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "nearissuance"
-        },
-        "0234a0b9cf8724213cf8": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Markets Insider, Dealroom, and Grafa on Nectar Group's $5M seed for HoneyB. Removed unsupported Grafa custody language and the Grafa-only retail Q1 2027 claim; kept the $5M seed and $30M post-money confirmed across Dealroom and Grafa. Draft is formatting clean, image audit passes, no quality failures, slug honeyb unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332",
-              "outcome": "read"
-            },
-            {
-              "url": "https://dealroom.co/news/164430-nectar-group-raises-5m-seed-to-turn-idle-bitcoin-into-yield",
-              "outcome": "read"
-            },
-            {
-              "url": "https://grafa.com/en/news/crypto/nectar-group-raises-5-million-for-bitcoin-yield-platform",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "honeyb"
-        },
-        "a0b5ba7979f5eaf98a43": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read CryptoSlate Chainwire PR and Cryptonomist: Optimum MUMP2P on Ethereum mainnet, $3.4B TV boosted across validators, 2.42x independent figure, ether.fi caveat, and 2-4x band verified. Draft is formatting clean, image audit passes, no quality failures, slug mump2p unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "mump2p"
-        },
-        "4b876bd7370c395bf9c8": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read the Assemblée nationale budget schedule page (Oct. 13-19 first part, resume Oct. 27-Nov. 2, solemn first-part vote Nov. 3 afternoon), scrutin n°8836 (amendment n. 3898 Sansu after article 4 of the 2027 finance bill, 100 voters, 75 expressed, 38 pour / 37 against / 25 abstentions, adopted), and Decrypt (MiCA e-money token swaps taxable from Jan. 1 2027, flat tax 30% to 31.4%, per-coin cost basis, Dec. 31 2026 election for pre-2027 holdings, UK/Italy comparison, David Amiel opposition, €100k self-custody declaration). Draft is formatting clean, image audit passes, no quality failures, slug francevote unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8836",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-              "outcome": "read"
-            },
-            {
-              "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "francevote"
-        },
-        "223942039ddb42dedd48": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read the Motley Fool Q3 2026 CME transcript and Bullished's call report: Duffy said perpetual funding is deemed a swap under Dodd-Frank and CME will not decide on perps until the CFTC case resolves; Marchese said motion to dismiss filed/opposed and full briefing expected in December; 24/7 small oil shelved for commercial desk costs; ADV 29.4M up 16%, revenue $1.7B up 13%, market data $243M, adjusted EPS $3.02; Nov. 9 compute-futures comment deadline; Dec. 7 securities clearing launch. Corrected position-size caps to leverage caps per the transcript. Draft is formatting clean, image audit passes, no quality failures, slug duffyperps unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/cme-cme-q3-2026-earnings-call-transcript/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.bullished.co/cmes-duffy-shelves-24-7-oil-contract-keeps-perpetuals-open-and-says-single-stock-futures-d0369ae7/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://beincrypto.com/cme-ceo-perps-swaps-cftc-lawsuit/",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:50:04.063Z",
-          "articleSlug": "duffyperps"
-        },
-        "d827e4da47d80b199d72": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources: OCC News Release 2026-92 (Oct. 21 final rule, Gould and Bessent quotes, Jan. 18 2027 effective date, BSA/AML/OFAC excluded to separate Treasury rulemaking), OCC Bulletin 2026-50 (jurisdiction scope, 12 CFR 15 contents), Decrypt Oct. 21 (rebuttable presumptions removed, application timing, August November-target quote) and CoinDesk Oct. 21 (no safe harbor for pre-existing rewards, solely analysis, other agencies' timelines). Cointelegraph Bessent article re-read confirming Lincoln comparison. All draft claims verified; 775 words; slug unowned; quality audit clean; hero 218KB on disk.",
-          "sourceChecks": [
-            {
-              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
-              "outcome": "read"
-            },
-            {
-              "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:52:50.031Z",
-          "articleSlug": "occgenius"
-        },
-        "33e9137878190c73e286": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read Unchained Oct. 21 (Oct. 16 filing, Judge Douglas Cole, defendants, two legal theories, CFTC Oct. 9 actions, no PI motion or Ohio response as of Oct. 21, Third Circuit/NJ petition), DeFi Rate Oct. 21 (10 notices list, one compliance, two suing, DeWine quote, Sixth Circuit rehearing Oct. 9, Kentucky supplemental briefs Oct. 23, Kalshi NJ response due Nov. 9) and CoinDesk Sept. 25 Sixth Circuit Kalshi ruling. Newly downloaded and read the primary 46-page complaint PDF (QCX LLC v. Wilson, Case 26-1502, filed 10/16/26; Commerce Clause and CEA preemption claims; balkanizing quote; Schuler cite) which was previously unavailable. CourtListener docket still 403. Draft claims verified; 639 words; slug unowned; quality audit clean; hero 235KB.",
-          "sourceChecks": [
-            {
-              "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-              "outcome": "read"
-            },
-            {
-              "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:54:35.685Z",
-          "articleSlug": "polymarketohio"
-        },
-        "65d72de1761a9560efb8": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct. 21 (19-page Sept. 30 submission, substance-not-technology quote, Buergi byline, delegation-without-custody, ESMA safeguards, Oct. 20 SEC letter) and Cryptopolitan Oct. 22 (FATF July figures 132/143 and 2/142, North Korea 70M attacks, Kaiko EUR362B +31%, Freshfields EBA/ECB summary, AMLA DeFi definition, Circle/Aave 50,000-citizen yield-ban pushback, MiCA study). Freshfields, AMLA PDF and Kaiko PDF all HTTP 200. Cardano Foundation blog 429 rate-limit (not cited as direct link). ESMA 403 (not cited). Draft claims verified; 643 words; slug unowned; quality audit clean; hero present.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.cryptopolitan.com/cardano-foundation-urges-eu-fix-mica-defi/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/mica-under-the-microscope-what-the-eba-and-the-ecb-told-brussels-about-the-revie-102o3sd",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.amla.europa.eu/document/download/d7647d66-98a5-49f9-b3f2-30fad47f198c_en?filename=AMLAs+Response+to+ECs+Targeted+Consultation+on+the+Review+of+MiCA.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://resources.kaiko.com/hubfs/Research/The%20State%20of%20the%20European%20Crypto%20Market%20-%202025%20-%202026%20Trends%20in%20Trading%20Activity.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.esma.europa.eu/press-news/esma-news/esma-calls-changes-make-mica-clearer-safer-and-ready-emerging-services",
-              "outcome": "blocked"
-            },
-            {
-              "url": "https://cardanofoundation.org/blog/mica-review-consultation-response",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:58:02.315Z",
-          "articleSlug": "cardanomica"
-        },
-        "c56190794627ccdc754f": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read CoinDesk Oct. 21 (White House official sourcing, $833M halted/503 sites/9,000 victims, Scam Center Strike Force, Xinbi read-more) and Bitcoin Magazine Oct. 21 (cabinet attendees, March EO and DHS memo, FBI IC3 2025 figures 181,565 complaints/$11.366B/$7.2B investment scams/$4.43B age 60+/$389M ATM/$1.4B recovery, Cambodia/Laos/Burma compounds, Operation Level Up 3,780/$225.8M, Chainalysis $154B, Anna Kelly quote). Repairs: unlinked June-2025 Philippines claim corrected to May 29 2025 Funnull OFAC sanctions with primary Treasury link; unlinked Xinbi claim corrected to Sept. 9 2026 designation with primary Treasury link; unattributed White House strike-force description now attributed to Treasury primary. Both Treasury releases HTTP 200 and read. 736 words; slug unowned; quality audit clean; hero 218KB.",
-          "sourceChecks": [
-            {
-              "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-              "outcome": "read"
-            },
-            {
-              "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-              "outcome": "read"
-            },
-            {
-              "url": "https://home.treasury.gov/news/press-releases/sb0149",
-              "outcome": "read"
-            },
-            {
-              "url": "https://home.treasury.gov/news/press-releases/sb0624",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T13:59:56.223Z",
-          "articleSlug": "trumpscam"
-        },
-        "adebfc2118208e55e78a": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read all five outlets Oct. 21: Cointelegraph (six-org Oct. 20 letter, signers, operative-text ask, 140 comments/60 days), Crypto Briefing (signers, March 17 2026 footnote, Taylor Barr, Ripple separate letter, operative-text weight), CoinGape (Alderoty quotes, Blockchain Association $5M-to-$10M ask, Barr X quote), Inside Crypto (five-category March SEC-CFTC interpretation, Hyperliquid Policy Center and Blockchain Association separate comments, staking/secondary-market) and Bitcoin Sistemi (SEC-CFTC boundary point, investment-contract-not-security argument). All draft claims verified; 765 words; slug unowned; quality audit clean; hero 229KB; all cited links HTTP 200.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/cardano-foundation-sec-digital-commodity-letter/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://coingape.com/ripple-cardano-chainlink-hedera-stellar-aptos-avalanche-support-sec-regulation-crypto-assets/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://insidecrypto.net/chainlink-cardano-and-six-blockchain-groups-urged-sec-to-codify-digital-commodity-status/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://en.bitcoinsistemi.com/a-joint-application-has-been-filed-with-the-sec-for-six-altcoins-including-cardano-will-the-sec-take/",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T14:00:51.391Z",
-          "articleSlug": "digitalcommodity"
-        },
-        "503a86e0687b3af255f8": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct 21 (activation ~1:54pm UTC, 6.6s/4721 TPS live reading, May 2025 research paper, Votor now/Rotor later) and Decrypt Oct 21 (slot 459,653,000 at ~14:00 UTC, TowerBFT since March 2020, Brennan Watt Merge quote, Wattenhofer 80%/60% thresholds, 20%+20% tolerance, 10s block-time stretch, Quantumglow, SIMD-0236 98% vote, Oct 13 date confirmation, Firedancer CU-cap proposal). Verified Solana Alpenglow dashboard, Validator Admission Ticket page, Wattenhofer interview YouTube link and Wikimedia hero image all HTTP 200. All draft claims verified; 669 words; slug unowned; quality audit clean; hero 30734 bytes.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-              "outcome": "read"
-            },
-            {
-              "url": "https://solana.com/upgrades/alpenglow/dashboard",
-              "outcome": "read"
-            },
-            {
-              "url": "https://solana.com/upgrades/alpenglow",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T14:02:39.663Z",
-          "articleSlug": "alpenglowlive"
-        },
-        "fdc5bf88db82bc3cc461": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read Cointelegraph Oct 21 (TVL +19%/$380M/$2.4B, V3 $336M-to-$739M, $4.67B volume/71%, BNB Chain TVL +8.3%/$5.84B), Altcoin Buzz Oct 22 (98.14% opposition, 999,486.88 vs 22,201.52, 0x3D...e1ad 765,559 three-quarters), TokenPost Oct 21 (Infinity 1% to 0.76%, supply 11.5% below April 2025, $62M extra LP fees) and CryptoTicker Oct 22 (quorum 1 unit met, veCAKE only, two-stage 22,500 to 7,000, 11 chains one per week). Verified live Snapshot GraphQL: For 22,205 / Against 1,229,913 / 32 votes / active, matching draft's 1.23M figure. Voting page and Wikimedia hero both HTTP 200. All draft claims verified; 684 words; slug unowned; quality audit clean; hero 245499 bytes.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.altcoinbuzz.io/pancakeswap-s-the-flip-faces-98-opposition-ahead-of-vote-close",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.tokenpost.com/news/technology/36894",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptoticker.io/en/pancakeswap-vote-cake-emissions/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T14:04:41.253Z",
-          "articleSlug": "cakeflip"
-        },
-        "71cb713994d7bbf29390": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft against current sources. Re-read Mural blog Oct 20 ($28M total/$15M Series A led by Tether with North Island Ventures, Deel/Opera/Axexo customers, $2.1B volume/128 countries, forward-deployed engineers, McKinsey/Artemis $390B 2025 stablecoin payments, agent-accountability quote, use of funds), CoinDesk Oct 21 (emailed announcement, transaction limits/counterparties/approvals, Ardoino 'As agents start moving money' quote), Fortune Oct 20 (valuation declined, $5M seed 2022 plus pre-seed/interim, Toffa Palantir London, Alvarez & Marsal $400B in first 8 months 2026, Chainalysis $220B/78% cross-border flows, Ardoino written statement 'around the clock' quote, ~30 employees across NY/Denver/Bogota/Argentina/Chile/Ecuador/Mexico) and CoinMarketCap (Kazakhstan tenge-pegged memo, x402 138M payments/Chainalysis). All draft claims verified; Wikimedia hero credit HTTP 200; 681 words; slug unowned; quality audit clean; hero 311491 bytes.",
-          "sourceChecks": [
-            {
-              "url": "https://muralpay.com/blog/28-million-raised",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-              "outcome": "read"
-            },
-            {
-              "url": "https://fortune.com/2026/10/20/mural-startup-former-palantir-engineers-15-million-bid-banks-bot-economy/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://coinmarketcap.com/academy/article/tether-leads-mural-15m-series-a",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-22T14:05:52.809Z",
-          "articleSlug": "tethermural"
-        },
-        "9258bd8525e496ce85ad": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-reviewed restored draft. Re-read primary aero.xyz launch hub (Oct 21 8PM EDT launch, seven chains, 1:1 AERO and 0.044 VELO conversion, 94.5/5.5 split, 47h cooldown, manual migration), CoinMarketCap and CoinLab (market shares, TVL, Metaswaps/Slipstream). The Block now returns 403 Cloudflare challenge; removed its three citations and the unverified $120B/month claim, repaired image caption to BalticServers.com CC BY-SA 3.0. 639 words, all cited links HTTP 200, quality/formatting/image/duplicate audits clean, slug unowned.",
-          "sourceChecks": [
-            {
-              "url": "https://aero.xyz/aero-upgrade/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero",
-              "outcome": "read"
-            },
-            {
-              "url": "https://coinlab.info/en/news/aerodrome-velodrome-aero-launch-oct-2026/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-22T14:18:11.546Z",
-          "articleSlug": "aeromerge"
+        "709c708bf9228607bc98": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-22T14:55:54.714Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -136566,20 +136121,7 @@
         ],
         "total": 193,
         "checkedAt": "2026-10-22T11:10:34.736Z"
-      },
-      "validationErrors": [
-        "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
-        "Draft has no ready review outcome: content/articles/eclairpatches.md",
-        "Draft has no ready review outcome: content/articles/emudhra.md",
-        "Draft has no ready review outcome: content/articles/fearlesswallet.md",
-        "Draft has no ready review outcome: content/articles/kalshibitgo.md",
-        "Draft has no ready review outcome: content/articles/malayssds.md",
-        "Draft has no ready review outcome: content/articles/phppanic.md",
-        "Draft has no ready review outcome: content/articles/shinhanstable.md",
-        "Draft has no ready review outcome: content/articles/spacextesla.md",
-        "Draft has no ready review outcome: content/articles/zcashnu7.md",
-        "Draft has no ready review outcome: content/articles/zodia.md"
-      ]
+      }
     }
   }
 }
