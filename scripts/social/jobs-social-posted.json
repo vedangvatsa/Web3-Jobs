@@ -40233,7 +40233,8 @@
       },
       "account": "profile",
       "attemptId": "2459cf55-9b7f-4221-9ee8-7992134f7167",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd3df3189ef1908f193cf3603306a4c7f53b9e676"
     }
   ]
 }
