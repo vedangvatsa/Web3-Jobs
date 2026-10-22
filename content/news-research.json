@@ -72642,11 +72642,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "877c888579d259ba11cc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T22:28:34.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "not-a-concrete-event",
+      "note": "Crypto Briefing's Oct. 21 item is prediction-market analysis recycling Selig's Oct. 5 WSJ op-ed, Fordham remarks and the CTX/CAM ANPRM, which cftc-leverage.md already covers. The CFTC public statements page lists no Selig statement after Oct. 5; no new filing, vote or rule accompanies the headline.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement100526",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/index.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T09:59:12.937Z",
+      "lastReviewedDay": "2026-10-22"
     },
     "8a7f6d1fbe0ceeb8b59f": {
       "source": "Crypto Briefing",
@@ -133537,6 +133555,26 @@
           ],
           "reviewedAt": "2026-10-22T09:57:52.313Z",
           "articleSlug": "duffyperps"
+        },
+        "877c888579d259ba11cc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Crypto Briefing's Oct. 21 item is prediction-market analysis recycling Selig's Oct. 5 WSJ op-ed, Fordham remarks and the CTX/CAM ANPRM, which cftc-leverage.md already covers. The CFTC public statements page lists no Selig statement after Oct. 5; no new filing, vote or rule accompanies the headline.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/cftc-chair-calls-for-uniform-us-crypto-regulations-amid-state-disparities/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement100526",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/index.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T09:59:12.937Z"
         }
       },
       "baselineSlugs": [
