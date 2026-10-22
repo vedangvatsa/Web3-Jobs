@@ -73404,24 +73404,36 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdc5bf88db82bc3cc461",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T10:50:52.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Cointelegraph + PancakeSwap governance page; The Flip fee vote, 88% LP share, emissions cut, TVL $2.4B.",
+      "note": "Re-reviewed Snapshot primary proposal, Cointelegraph, TokenPost, AltcoinBuzz and CryptoTicker. Vote open Oct 21-24; ~98% against with single wallet casting most no votes. Updated draft for opposition tally and two-step emissions; verified TVL and fee-split figures. Audits pass.",
       "sourceChecks": [
+        {
+          "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
           "outcome": "read"
         },
         {
-          "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+          "url": "https://www.tokenpost.com/news/technology/36894",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.altcoinbuzz.io/pancakeswap-s-the-flip-faces-98-opposition-ahead-of-vote-close",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoticker.io/en/pancakeswap-vote-cake-emissions/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "reviewedAt": "2026-10-22T11:59:25.466Z",
       "articleSlug": "cakeflip",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135619,6 +135631,35 @@
           ],
           "reviewedAt": "2026-10-22T11:49:00.801Z",
           "articleSlug": "alpenglowlive"
+        },
+        "fdc5bf88db82bc3cc461": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed Snapshot primary proposal, Cointelegraph, TokenPost, AltcoinBuzz and CryptoTicker. Vote open Oct 21-24; ~98% against with single wallet casting most no votes. Updated draft for opposition tally and two-step emissions; verified TVL and fee-split figures. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/36894",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/pancakeswap-s-the-flip-faces-98-opposition-ahead-of-vote-close",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/pancakeswap-vote-cake-emissions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:59:25.466Z",
+          "articleSlug": "cakeflip"
         }
       },
       "baselineSlugs": [
