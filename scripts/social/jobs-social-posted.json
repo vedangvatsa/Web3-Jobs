@@ -43040,7 +43040,8 @@
       },
       "account": "channel:developers",
       "attemptId": "02d3c28f-4f6e-4251-b259-f467b4b2cfc4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x322b4bb29cfff74688804e768bc33a4b9f33a82c"
     }
   ]
 }
