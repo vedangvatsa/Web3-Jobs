@@ -73764,14 +73764,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "aabb4d1716bd4636b5a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T08:10:12.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "CoinDesk + Cointelegraph; Nov. 5 activation height, Sprout shutdown, fee burn.",
+      "note": "Re-read CoinDesk, Cointelegraph and GitHub PR 1405. PR merged Oct 21 setting height 3,543,405; Zebra 7.0.0 released Oct 22 with the height. Updated draft for merge and release; fee burn and Sprout shutdown verified. Audits clean.",
       "sourceChecks": [
+        {
+          "url": "https://github.com/zcash/zips/pull/1405",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
           "outcome": "read"
@@ -73779,9 +73783,13 @@
         {
           "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade",
           "outcome": "read"
+        },
+        {
+          "url": "https://github.com/ZcashFoundation/zebra/releases",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-22T12:09:52.437Z",
       "articleSlug": "zcashnu7",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135730,6 +135738,31 @@
           ],
           "reviewedAt": "2026-10-22T12:05:41.423Z",
           "articleSlug": "aeromerge"
+        },
+        "aabb4d1716bd4636b5a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CoinDesk, Cointelegraph and GitHub PR 1405. PR merged Oct 21 setting height 3,543,405; Zebra 7.0.0 released Oct 22 with the height. Updated draft for merge and release; fee burn and Sprout shutdown verified. Audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/zcash/zips/pull/1405",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ZcashFoundation/zebra/releases",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:09:52.437Z",
+          "articleSlug": "zcashnu7"
         }
       },
       "baselineSlugs": [
