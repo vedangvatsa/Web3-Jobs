@@ -39134,9 +39134,10 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "df9d59e2-f78f-434a-813e-960fee72aefc",
-      "verification": "pending",
+      "verification": "verified",
       "postId": "6ad91475199855ce0d3bbfd2",
-      "error": "LinkedIn #Web3 receipt 6ad91475199855ce0d3bbfd2 remains pending; read-only reconciliation required"
+      "error": "LinkedIn #Web3 receipt 6ad91475199855ce0d3bbfd2 remains pending; read-only reconciliation required",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518757444387241988"
     },
     {
       "slug": "mkt15",
