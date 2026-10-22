@@ -39557,7 +39557,8 @@
       },
       "account": "channel:dev",
       "attemptId": "b30c63e3-d853-4e8e-bcf0-02edc18aa903",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xed58d98331d57263c2d2a6ea1e67dd9b093bda70"
     }
   ]
 }
