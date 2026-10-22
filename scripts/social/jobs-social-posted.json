@@ -43220,7 +43220,8 @@
       },
       "account": "channel:solana",
       "attemptId": "2e53b141-d50b-416a-9009-4af29d09c68a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdd2de06ba6f2d639d38676f9e8f6d2d80c8154db"
     }
   ]
 }
