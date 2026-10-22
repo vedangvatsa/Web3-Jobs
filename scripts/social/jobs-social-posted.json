@@ -40130,7 +40130,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "4e64c8f6-ed39-40f9-97f4-d834dabbc78c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad99f3e1093844846e14f21"
     }
   ]
 }
