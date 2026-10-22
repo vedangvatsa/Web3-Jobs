@@ -43256,7 +43256,8 @@
       },
       "account": "channel:defi",
       "attemptId": "f4f12499-f843-450d-8ce2-39d8b4bb99ec",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xba017ff1ca09693b2c555409c405d286b9ccc976"
     }
   ]
 }
