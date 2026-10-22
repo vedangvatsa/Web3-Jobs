@@ -41941,6 +41941,39 @@
       "attemptId": "ee4626f7-856e-4fbf-8fba-873a877e53d1",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myhl6h7ac22w"
+    },
+    {
+      "slug": "tr68",
+      "company": "Flow Traders",
+      "title": "Digital Assets Trader",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T11:36:39.392Z",
+      "expectedText": "Flow Traders is hiring Digital Assets Trader\n\nhttps://hashtagweb3.com/tr68/fc?og=7",
+      "snapshot": {
+        "id": "8278361",
+        "title": "Digital Assets Trader",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8278361",
+        "date": "2026-10-13T10:24:17-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Trading",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tr68"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Digital Assets Trader\n\nhttps://hashtagweb3.com/tr68/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/tr68/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "562e976c-e454-4389-b1f6-3a8824ac72c9",
+      "verification": "creating"
     }
   ]
 }
