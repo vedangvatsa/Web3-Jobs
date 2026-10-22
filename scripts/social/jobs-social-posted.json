@@ -44400,7 +44400,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "183a9144-9024-490b-bd61-e5dcc11bbcd8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7519120002810138625"
     }
   ]
 }
