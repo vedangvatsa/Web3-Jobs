@@ -73322,13 +73322,13 @@
         "The Defiant"
       ],
       "id": "555b03b302d276314cb0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T22:43:45.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "verified-event",
-      "note": "Crypto Briefing + GitHub Charon release; eMudhra CA incident drives urgent Charon v1.11.2 upgrade.",
+      "note": "Re-read Crypto Briefing and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators. The Defiant mirror still returns HTTP 403.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
@@ -73343,7 +73343,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "reviewedAt": "2026-10-22T07:51:12.477Z",
       "articleSlug": "charonupgrade",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -132852,6 +132852,27 @@
             "Blockchain Association GENIUS Act DeFi foreign issuer rules",
             "Blockchain Association Treasury GENIUS Act clearer rules"
           ]
+        },
+        "555b03b302d276314cb0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing and the Obol v1.11.2 GitHub release: Go 1.27.3 bump, emSign/AAA roots distrusted, CVE-2026-111943, required release for operators. The Defiant mirror still returns HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ObolNetwork/charon/releases/tag/v1.11.2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T07:51:12.477Z",
+          "articleSlug": "charonupgrade"
         }
       },
       "baselineSlugs": [
