@@ -2,21 +2,24 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { currentRun, loadResearch, writeReport, writeResearch } from './news-research.mjs';
-import { RESEARCH_DIR } from './lib/news-research.mjs';
+import { RESEARCH_DIR, researchReport } from './lib/news-research.mjs';
 import { validateNewsDrafts } from './lib/news-validation.mjs';
 
-export function validateNewsRun({ cwd = process.cwd(), persist = false, audit } = {}) {
+export function validateNewsRun({ cwd = process.cwd(), persist = false, audit, publishReadyBatch = false } = {}) {
   const context = currentRun(cwd), ledger = loadResearch(cwd);
-  const result = validateNewsDrafts({ context, ledger, cwd, audit });
+  const result = validateNewsDrafts({ context, ledger, cwd, audit, publishReadyBatch });
   ledger.runs[context.day].validationErrors = result.validationErrors;
-  if (persist) writeResearch(ledger, cwd);
-  const report = writeReport(ledger, context.day, cwd);
+  if (persist && result.safeToPersist) writeResearch(ledger, cwd);
+  const report = result.safeToPersist ? writeReport(ledger, context.day, cwd) : researchReport(ledger, context.day);
   const feedback = {
     day: context.day, complete: report.complete, discoveryHealthy: report.discoveryHealthy,
     counts: report.counts, readySlugs: result.ready.map(item => item.articleSlug),
     validationErrors: result.validationErrors, fatalErrors: result.fatalErrors,
+    audited: result.audited, draftsValid: result.draftsValid, publishReadyBatch,
+    partialPublicationEligible: result.partialPublicationEligible, draftPaths: result.draftPaths,
+    quarantinedPaths: result.quarantinedPaths, stagingManifest: result.stagingManifest,
   };
-  fs.writeFileSync(path.join(cwd, RESEARCH_DIR, 'validation.json'), `${JSON.stringify(feedback, null, 2)}\n`);
+  if (result.safeToPersist) fs.writeFileSync(path.join(cwd, RESEARCH_DIR, 'validation.json'), `${JSON.stringify(feedback, null, 2)}\n`);
   return feedback;
 }
 

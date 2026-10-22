@@ -21,7 +21,7 @@ export function writeReport(ledger, day, cwd = process.cwd()) {
   fs.writeFileSync(path.join(directory, 'report.json'), JSON.stringify(report, null, 2) + '\n');
   fs.writeFileSync(path.join(directory, 'report.md'), reportMarkdown(report));
   const queue = ledger.runs[day].candidateIds.filter(id => !ledger.runs[day].outcomes[id]).map(id => ledger.candidates[id]);
-  fs.writeFileSync(path.join(directory, 'queue.json'), JSON.stringify({ day, remaining: queue.length, candidates: queue }, null, 2) + '\n');
+  fs.writeFileSync(path.join(directory, 'queue.json'), JSON.stringify({ day, remaining: queue.length, publicationComplete: report.publicationComplete, candidates: queue }, null, 2) + '\n');
   return report;
 }
 export function currentRun(cwd = process.cwd()) {
@@ -47,7 +47,7 @@ export function recordResearchBatch(ledger, day, reviews, articles) {
 }
 
 export async function prepareDailyResearch({ ledger, day, articles, tips = [], discover = () => discoverNews({ hours: 24, articles }), now = Date.now() }) {
-  if (ledger.runs[day]?.status === 'completed') return researchReport(ledger, day);
+  if (ledger.runs[day]?.status === 'completed' || ledger.runs[day]?.publication) return researchReport(ledger, day);
   const resume = ledger.runs[day]?.discovery?.feeds?.some(feed => feed.ok) === true;
   retryUnpublishedDrafts(ledger, day);
   const discovery = resume ? { ...ledger.runs[day].discovery, candidates: [] } : await discover();
@@ -73,18 +73,22 @@ async function main() {
   if (action === 'prepare') {
     const day = values.date || process.env.NEWS_DATE || new Date().toISOString().slice(0, 10);
     const baseSha = execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim();
-    if (ledger.runs[day]?.status !== 'completed') {
+    const alreadyPublished = ledger.runs[day] && researchReport(ledger, day).publicationComplete;
+    if (!alreadyPublished) {
       const articles = readNewsArticles();
       await prepareDailyResearch({ ledger, articles, tips: readTips(fs.readFileSync('content/news-tips.md', 'utf8')), day });
       writeResearch(ledger);
     }
     fs.mkdirSync(RESEARCH_DIR, { recursive: true });
-    const current = { day, baseSha, checkpointSha: baseSha, persist: process.env.GITHUB_ACTIONS === 'true' && process.env.NEWS_DRY_RUN !== 'true' };
+    const previous = alreadyPublished && fs.existsSync(path.join(RESEARCH_DIR, 'current.json')) ? currentRun() : undefined;
+    const current = { day, baseSha, checkpointSha: baseSha, persist: process.env.GITHUB_ACTIONS === 'true' && process.env.NEWS_DRY_RUN !== 'true',
+      ...(previous?.day === day && previous.baseSha === baseSha && previous.publishedSha ? { checkpointSha: previous.publishedSha, publishedSha: previous.publishedSha } : {}) };
     fs.writeFileSync(path.join(RESEARCH_DIR, 'current.json'), JSON.stringify(current, null, 2) + '\n');
     const report = writeReport(ledger, day);
-    checkpoint(current);
-    output('day', day); output('needs_writer', report.counts.unreviewed > 0);
-    console.log(JSON.stringify({ day, candidates: report.candidates, remaining: report.counts.unreviewed, workingFeeds: report.feeds.filter(feed => feed.ok).length, totalFeeds: report.feeds.length, queue: `${RESEARCH_DIR}/queue.json` }, null, 2));
+    if (!report.publicationComplete) checkpoint(current);
+    output('day', day); output('needs_writer', !report.publicationComplete && report.counts.unreviewed > 0);
+    console.log(JSON.stringify({ day, candidates: report.candidates, remaining: report.counts.unreviewed, publicationComplete: report.publicationComplete, coverageComplete: report.complete,
+      workingFeeds: report.feeds.filter(feed => feed.ok).length, totalFeeds: report.feeds.length, queue: `${RESEARCH_DIR}/queue.json` }, null, 2));
   } else if (action === 'add') {
     const current = currentRun();
     const id = addResearchCandidate(ledger, current.day, values);

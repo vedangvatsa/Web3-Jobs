@@ -9,15 +9,32 @@ Telegram waited for news research and deployment, then reached its send step at 
 ## Changes
 
 - The news runner sets its working directory to the repository root and directs `TMPDIR`, `TMP` and `TEMP` to `.cache/news-research/scratch/`. It rejects an external scratch symlink and preserves existing permission restrictions.
-- Each research invocation gets up to eight pending candidates in `assignment.json`. It checkpoints outcomes individually; the coordinator continues until all daily candidates are reviewed. A stalled batch gets a one-candidate retry. This changes invocation size, not the number of articles allowed per day. Unreviewed candidates still block publication.
+- Each research invocation gets up to eight pending candidates in `assignment.json` and checkpoints outcomes individually. Research has a 75-minute default budget; each invocation is capped at 15 minutes. Unfinished candidates retain their real pending state. This limits runtime, not article count.
 - Same-day retries automatically look for a prior failed/cancelled run's saved drafts. Selection checks repository, main branch, trusted trigger, date, artifact provenance and attempt. Explicit recovery IDs remain supported. Drafts are restored without overwriting files and must be reviewed again.
 - Job social and Telegram depend only on the slot gate and select from already-live catalogues. News processing and rollout duration cannot delay their start.
-- The single scheduled daily website rollout requires both that UTC day's refreshed jobs catalogue and completed, validated original-news batch. A news failure delays the rollout; later slots retry unfinished research. At least one newly published original article must be present. An empty batch cannot authorize a jobs-only deployment.
+- The single scheduled daily website rollout requires both that UTC day's refreshed jobs catalogue and a completed, validated original-news publication. A publication failure delays the rollout. At least one newly published original article must be present. An empty batch cannot authorize a jobs-only deployment.
 - `articles_changed` and the legacy `newsDeployPending` flag cannot authorize another rollout after that day has deployed. Explicit news recovery refreshes missing daily jobs and uses the same deployment policy. `only_news`, `news_dry_run` and `website_recovery` remain content-only.
 - Scheduled job social receives its original date and slot. Checks before claims and provider mutations enforce the same exclusive 60-minute window as Telegram, including multi-step image/container publishing. Known-ID reconciliation remains read-only outside the window.
 - Company LinkedIn verification polls an accepted ID with bounded reads and reports the actual mismatch or provider error. It still requires the exact account, text, sent status and native permalink. An unverified accepted ID cannot trigger a replacement post.
 
 ## Follow-up recovery
+
+Research coverage and publication now have separate completion records. At the
+research deadline, the coordinator stops its owned writer processes, preserves
+unapproved drafts outside the publishable content directory, and runs every
+existing quality, source, image, formatting, duplicate and typecheck gate on the
+ready batch. Only passing ready files can enter the publication commit.
+
+The report retains `complete: false` while research remains unreviewed. A separate
+`publicationComplete` receipt lists the exact published IDs/slugs and pending IDs.
+It closes publication for that UTC day without inventing reviews for unfinished
+leads. Pending and deferred leads carry into the next batch under existing expiry
+rules. Up to three bounded 10-minute repair invocations can fix actual audit errors;
+zero ready articles or any failed article gate cannot produce a successful batch.
+
+Writer shutdown is recorded durably. Unknown child-process cleanup blocks the
+independent final publisher. A cancelled workflow only previews final validation
+and preserves recovery files; it does not publish a batch after cancellation.
 
 Healthy feed discovery now defines one daily queue. Same-day retries resume it
 instead of continually adding new RSS candidates while reopening saved drafts.
@@ -49,7 +66,7 @@ Confirmed build/rollout failures remain recorded and permit a new attempt. Timeo
 
 October 22 already has a successful rollout at 05:25 UTC. Articles recovered later on October 22 wait for the next daily rollout, which must also include October 23's jobs and completed news batch. The standalone deployment workflow remains an explicit operator entry; automatic parents must supply a date and pass the daily guard.
 
-The normal offline workflow tests cover news assignment/recovery, complete review coverage, job ages, employer availability, slot boundaries, provider failures and immutable receipts. `node --test scripts/lib/daily-deploy.test.mjs scripts/news-workflow.test.mjs scripts/social/publish-slot-plan.test.mjs` covers deployment readiness, queued callers, CAS races, unknown outcomes and post-rollout verification failures. Run `npm run typecheck -- --incremental false` with Node 24 as well.
+The normal offline workflow tests cover news assignment/recovery, truthful backlog reporting, fully audited publication, job ages, employer availability, slot boundaries, provider failures and immutable receipts. `node --test scripts/lib/daily-deploy.test.mjs scripts/news-workflow.test.mjs scripts/social/publish-slot-plan.test.mjs` covers deployment readiness, queued callers, CAS races, unknown outcomes and post-rollout verification failures. Run `npm run typecheck -- --incremental false` with Node 24 as well.
 
 To inspect a saved LinkedIn job receipt, dispatch `inspect-job-receipts.yml` with its comma-separated Buffer post IDs. It has read-only repository permissions, queries only IDs already present in the job ledger and writes a diagnostic artifact. It cannot create posts or edit delivery receipts.
 
@@ -60,6 +77,13 @@ gh workflow run refresh-jobs-cache.yml --repo vedangvatsa/Web3-Jobs --ref main \
   -f only_news=true -f news_recovery_run=39717530592
 ```
 
-The date must still be October 22 for that artifact. Automatic same-day selection also works without `news_recovery_run`. The source, image, duplicate, formatting, typecheck and complete-review gates still apply.
+The date must still be October 22 for that artifact. Automatic same-day selection also works without `news_recovery_run`. Every published article still requires source, image, duplicate, formatting and typecheck validation. Unfinished research remains pending rather than withholding a passing batch.
+
+For a trusted same-day artifact whose ready articles already have the correct
+publication date, add `-f validate_saved_news=true`. This explicitly reuses only
+direct current-report reviews whose restored bytes and candidate identities match,
+retaining their original review timestamps and artifact provenance. Full audits
+and any necessary repairs still run before publication. Older-date or merely
+inherited reviews are not reused, and unfinished leads are not invented or approved.
 
 The unresolved Telegram reservation for `@web3hiring` from October 21 at 11:31 UTC requires evidence-based reconciliation. Do not delete it or send a replacement to clear an error. Job-video publishing separately requires fresh hosted video inputs; the schedule fix does not create those assets.

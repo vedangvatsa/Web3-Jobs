@@ -1,6 +1,6 @@
 # News Publishing Run — Hashtag Web3
 
-You are publishing every qualifying News article for hashtagweb3.com. Today is $TODAY (UTC).
+Research and draft every qualifying News story for hashtagweb3.com as the run's time budget permits. Today is $TODAY (UTC).
 Work in the repository root (current working directory on the runner).
 
 Keep shell working directories at that root. Temporary files, downloads and helper
@@ -9,8 +9,8 @@ and `TEMP`. Run `node scripts/...` from the repository root. A command that chan
 into a temporary directory cannot resolve those relative script paths. The runner
 does not grant access to arbitrary `/tmp` paths.
 
-Do not launch the site. Do not signal or stop other processes.
-This is a fresh checkout. Do not assume an earlier run left uncommitted drafts.
+Do not launch the site, background or detach commands, or signal or stop processes.
+This is a fresh checkout, possibly with explicitly restored unpublished drafts.
 Read tips on every run, including when the working tree is clean. CI discovers
 the daily feed batch once; same-day retries resume that queue. The next UTC day
 gets fresh discovery. Explicit manual tips and newly researched leads still enter
@@ -25,22 +25,27 @@ Read `content/news-tips.md` FIRST, then `.cache/news-research/assignment.json` w
 the coordinator provides an assignment; otherwise read `.cache/news-research/queue.json`.
 The queue includes those tips, fresh feed candidates, and deferred leads from
 earlier daily runs. Verify dates and facts for tips just as for feed stories.
-Record their outcomes by candidate ID; CI removes resolved tip lines.
+Record their outcomes by candidate ID. The ledger prevents an unchanged resolved
+tip from reopening automatically; a newly submitted note supplies new review context.
 
-## 1. Review the entire daily queue
+## 1. Review the daily queue within the research budget
 
 Run `node scripts/news-research.mjs queue --assigned` for a coordinator assignment,
-or `node scripts/news-research.mjs queue` for an unpartitioned review. Review EVERY assigned candidate,
-including deferred leads. There is no two- or three-article target and no article
+or `node scripts/news-research.mjs queue` for an unpartitioned review. Work through assigned candidates,
+including deferred leads, for as long as the coordinator's budget allows. There is no two- or three-article target and no article
 count cap. Do not stop when the first few articles are done. Prefer candidates
 with several source URLs, then pursue alternate outlets and primary records when
-a source is blocked. A five-minute discovery pass is not a research deadline.
+a source is blocked. The coordinator supplies the invocation's time limit.
 
 An assignment is a small part of the same daily queue. Record each candidate's
 outcome as soon as its review finishes, then move to the next. When all assigned
 candidates have outcomes, return to the coordinator. It continues the remaining
-assignments until the entire queue is covered. Do not repeatedly dump the full
-ledger or redo candidates whose outcomes are already recorded.
+assignments until the queue is covered or the research budget expires (normally
+75 minutes, configurable up to 90). Each writer invocation is also time-limited.
+Checkpoint each finished review and draft immediately so interruptions preserve
+useful work. Unfinished candidates remain genuinely pending for a later batch;
+never record a deferral just because time ran out. Do not repeatedly dump the
+full ledger or redo candidates whose outcomes are already recorded.
 
 The availability pass records temporary source-blocked deferrals only after actual
 GET denials for every known URL. Its report is `.cache/news-research/source-readiness.json`.
@@ -76,7 +81,8 @@ Write every story that qualifies. A story qualifies ONLY if ALL hold:
   price chatter, predictions, explainers, or opinion.
 - Exclusions: job boards, token/price-calendar items, rumors from a single weak source.
 
-Every candidate must end with a recorded outcome: ready, rejected or deferred.
+Every completed review must have a recorded outcome: ready, rejected or deferred.
+Do not manufacture outcomes for candidates you have not finished reviewing.
 Source access failures and missing corroboration are deferrals, not permanent
 rejections. Deferred leads return in the next daily batch for up to 72 hours from
 their original publication (or discovery for undated manual tips). Recheck that
@@ -101,11 +107,12 @@ drafting with `node scripts/news-research.mjs add --link=<source-url> --title="<
 For two candidates covering the same event, draft it once and record the second
 as a duplicate of that ready article slug.
 
-Run `node scripts/news-research.mjs report` before stopping. Zero articles is a
-valid outcome only when every candidate has an explained disposition. An
-unreviewed candidate makes the run incomplete even when other drafts are ready.
-After one assignment, other assignments may still be unreviewed. Report that
-state accurately; the coordinator owns whole-batch completion.
+Run `node scripts/news-research.mjs report` before stopping. Zero ready articles
+cannot count as publication success. Unreviewed candidates keep research coverage
+incomplete, but do not prevent the coordinator from publishing a ready batch
+after all actual article audits pass. Report remaining work accurately. Research
+coverage and the once-per-day publication marker are separate; a same-day retry
+stops if publication is already complete.
 
 ## 2. Research (mandatory)
 
@@ -175,8 +182,7 @@ When in doubt, shorter and plainer wins.
   Else run: `node scripts/news-image.mjs "<entity or place>" "<fallback>"`
   and use its verified URL. NEVER logos, graphics, AI images, or stock.
 - The host must already be in next.config.mjs `images.remotePatterns`
-  (upload.wikimedia.org is). If the best image needs a new official host,
-  add it to remotePatterns in the same run.
+  (upload.wikimedia.org is). Choose an allowed source; do not edit application config.
 - SELF-HOST the image: Wikimedia rate-limits hotlinked originals (HTTP 429),
   which breaks on-site rendering. Download it with a descriptive User-Agent
   (`HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com; editorial image use
@@ -201,21 +207,23 @@ When in doubt, shorter and plainer wins.
 
 ## 5. Gates (all must pass; unresolved failures need a quality-gate deferral)
 
-The coordinator runs `node scripts/validate-news-run.mjs` after all assignments
-have recorded outcomes. In a validation-repair invocation, run it again after
-repairing the reported drafts. During a research assignment, check the assigned
-articles' individual gates and return their outcomes; do not try to finish the
-global validation while other assignments are still pending.
-This uses the same validator as the final publisher, writes exact failures to
-`.cache/news-research/validation.json`, and exits nonzero until the batch passes.
+The coordinator stops all owned writer tools before running the validator when
+research finishes or its time budget expires. It validates the ready batch even
+when research coverage is incomplete. Pending drafts are preserved for recovery,
+not approved. During research, check assigned articles' individual gates and
+return their real outcomes. During repair, fix the reported unpublished drafts
+and return; let the coordinator run the whole-batch validator after tools stop.
+This uses the same article audits as the final publisher and writes exact
+failures to `.cache/news-research/validation.json`.
 Read the errors and fix the unpublished drafts before stopping. A successful
 research report or a claimed word count does not replace this check. The actual
 word counter excludes Markdown links, including their linked anchor text.
 During an assignment, `complete: false` with no validation errors can mean other
-assignments remain. Finish your assigned outcomes and let the coordinator continue
-them; never fabricate outcomes for candidates you have not reviewed.
+assignments remain. Continue assigned reviews within the time budget; never
+fabricate outcomes for candidates you have not reviewed. Only `draftsValid: true`
+from actual audits, with at least one ready article, can qualify for publication.
 Use source-backed detail to meet the minimum; do not add filler or invent facts.
-CI can invoke up to three further repair rounds using this feedback.
+CI can invoke up to three further repair rounds, each limited to ten minutes.
 
 - `npx tsx scripts/audit-article-quality.ts --report --verbose` → your files clean
    (pre-existing failures elsewhere are baseline; yours must be absent).
@@ -233,22 +241,25 @@ CI can invoke up to three further repair rounds using this feedback.
 - Check root ownership in `content/slug-types.json`, `content/legacy-slugs-archive.json`, `content/event-slug-history.json`, and `public/preview/<slug>.html`. Company and glossary names such as `circle`, `usdc`, `strategy`, and `gemini` may already own root URLs; choose a new, specific one-word slug instead.
 - Never touch unrelated files.
 
-## 6. Finish the daily review
+## 6. Finish the assignment or repair
 
 DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
 - Do not commit or push in either mode. Do not edit generated catalogs, prebuild
   hashes, workflow files or the ledger JSON directly. Use the review CLI.
 - Mark qualifying articles ready only after their audits pass. CI independently
   validates quality, images, formatting, duplicates, typecheck and source links.
-   After all daily outcomes are recorded, the coordinator's full-batch validator
-   above must also pass. Unreviewed restored drafts belonging to other assignments
-   remain intact until their own review; do not treat them as your rejected drafts.
+   The coordinator's ready-batch validator above must also pass. Unreviewed restored
+   drafts belonging to other assignments remain intact for their own review;
+   do not treat them as your rejected drafts.
 - Move your own rejected/incomplete draft files out of `content/articles/` into
-  `.cache/news-research/recovery/`; keep their deferred review records. Every draft
-  left in `content/articles/` must have a ready outcome. Never move existing articles.
+  `.cache/news-research/recovery/`; keep any actual deferred review records. If time
+  runs out mid-review, preserve the draft and leave its outcome pending. The
+  coordinator stages unreviewed drafts out of publication without approving them.
+  Never move existing articles.
 - CI publishes approved article files, their images and the review ledger together
-  after the full daily review is complete. Unreviewed candidates or failed gates
-  keep the batch incomplete. Recovery artifacts retain the draft files.
+  after the ready batch passes every gate. Unreviewed candidates remain pending;
+  failed gates block publication. Recovery artifacts retain the unfinished drafts.
 - In dry-run mode, CI creates no commits or posts.
 - End with the candidate report, files drafted, word counts, sources read and
-  explicit blockers. A source that remains blocked must have a deferred record.
+  explicit blockers, and the remaining unreviewed count. Only record a source-blocked
+  deferral after actual access attempts and a specific retry search.

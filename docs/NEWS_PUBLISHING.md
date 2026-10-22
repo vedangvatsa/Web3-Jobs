@@ -7,20 +7,21 @@ News research and website deployment use the existing **one daily morning batch*
 place. A successful batch is not repeated in the afternoon or evening. Social
 distribution has its own slot receipts and posting windows.
 
-There is no two- or three-article quota. The writer must review the full assigned
-queue and draft every qualifying story. Articles still require source verification,
+There is no two- or three-article quota. The writer reviews assigned candidates and
+drafts qualifying stories within the research budget. Articles require source verification,
 two independent external sites, 600+ words, credited local images and the existing
 editorial checks. A quiet day can finish with zero articles when all candidates
 have explained outcomes and discovery actually succeeded.
-If a writer invocation stops after a few stories, the controller continues the
-remaining queue in the same daily job. Two consecutive rounds with no recorded
-progress fail visibly. The writing step has 135 minutes within the 180-minute job,
-leaving time for validation, ledger persistence and recovery artifacts.
+Research defaults to 75 minutes, with individual invocations capped at 15 minutes.
+`NEWS_RESEARCH_BUDGET_MINUTES` can configure 1 through 90 minutes. At the deadline,
+or after repeated lack of progress, the controller stops its owned writer tools
+and validates the saved ready batch. Unfinished reviews remain genuinely pending.
+The 135-minute writing step leaves time for audits and up to three 10-minute repair
+invocations within the 180-minute job.
 
-After every candidate has an outcome, the controller runs the same draft validator
-used by the publisher. Failures are written to
+The controller runs the same draft validator used by the publisher. Failures are written to
 `.cache/news-research/validation.json` and returned to the writer for up to three
-repair rounds. Each round rechecks coverage and all publication gates. A writer's
+repair rounds. Each round checks all article-publication gates. A writer's
 success message cannot mark a batch ready. Protected-file, Git-history and
 infrastructure failures stop draft repair; the writer edits only its unpublished
 articles and records any remaining sourcing or quality deferrals.
@@ -38,6 +39,9 @@ Cross-outlet matches keep all source URLs. Dates outside the 24-hour lookback an
 future-dated feed entries are excluded. Feed failures are reported; an outage is
 not counted as a slow-news day. The standalone discovery command can limit its
 printed output, but preparation uses the full discovered candidate set.
+Healthy discovery fixes the daily candidate queue; same-day retries resume it
+rather than continually expanding it with newly fetched RSS. New manual tips and
+explicitly researched leads can still enter. The next UTC day gets fresh discovery.
 
 `content/news-research.json` is the persistent ledger. It records candidates,
 source attempts, reasons, draft slugs, retry searches and daily review outcomes.
@@ -77,22 +81,34 @@ failure therefore has one chance to recover without another writing-model call.
 
 `publish-news-run.mjs` owns publication:
 
-1. Require an outcome for every assigned candidate. One new article cannot hide
-   an unfinished queue.
+1. Keep research coverage truthful. Unreviewed candidates remain unreviewed and
+   visible in the report; they cannot be relabeled merely to finish publication.
 2. Validate ready drafts with quality, image, formatting, duplicate, TypeScript
    and outbound-link checks. Record blocked citations and other failures.
-3. Reject unclaimed drafts and changes to existing code or generated catalogs.
-4. Publish only the approved new article files, their images, resolved tips and
+3. Preserve unapproved new News drafts/images outside the publishable content
+   directory, with exact hashes and an unapproved staging manifest. Reject changes
+   to published files, existing code, generated catalogues or unsafe filesystem paths.
+4. Publish only the approved new article files, their images and
    research ledger together. Existing articles/images and published root URLs
    cannot be overwritten.
 5. Preserve unrelated newer main commits using a scoped temporary Git index.
    Conflicts retain recovery artifacts rather than force-pushing or rebasing.
 6. Save JSON/Markdown outcome reports and a GitHub Actions recovery artifact.
 
-Incomplete or failed-quality batches publish the review ledger only. Ready drafts
-remain unpublished and are re-reviewed on retry. The workflow fails visibly until
-coverage and validation finish. The daily scheduler completion stamp therefore
-depends on actual completion, not an increase in the Markdown-file count.
+Failed article-quality batches publish the review ledger only. A passing ready
+batch may publish while other research remains pending. `complete` in the research
+report still means coverage completion; `publicationComplete` separately records
+the exact published IDs/slugs and the pending IDs. The workflow's completion output
+means the publication transaction succeeded, and its `coverage_complete` output
+reports the remaining research separately. Pending and deferred leads carry forward
+under existing expiry/retry rules. No second publication is made that UTC day.
+
+Normal recovery restores drafts for fresh review. Explicit `validate_saved_news`
+recovery can reuse direct same-day ready reviews from a trusted artifact only when
+the restored article/image hashes, dates, identity and source records match. It
+preserves original review timestamps and artifact provenance. It still reruns all
+current article audits and repairs actual failures; reuse alone is not publication
+approval. It performs no new candidate research.
 
 Live publication is restricted to GitHub Actions. `--dry-run` validates and reports
 without creating commits. The workflow's news dry-run input selects the news-only
@@ -100,7 +116,7 @@ path, with deployment, social posts and videos disabled for that diagnostic run.
 
 The report's `published` state means committed to main. The single scheduled daily
 rollout waits for that UTC day's jobs refresh and completed, validated original-news
-batch, with at least one new published article. Failed news delays deployment rather
+publication, with at least one new published article. Failed publication delays deployment rather
 than shipping jobs alone. Recovery after a successful daily rollout waits for the next
 day's combined batch; article changes cannot authorize a second same-day rollout.
 The serialized deployment guard records actual rollout success before live checks.

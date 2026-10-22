@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { addResearchCandidate, finalizeResearch, prepareResearch, readTips, researchReport, reviewCandidate, retryUnpublishedDrafts, validateLedger } from './news-research.mjs';
+import { addResearchCandidate, finalizeResearch, prepareResearch, readTips, researchReport, reportMarkdown, reviewCandidate, retryUnpublishedDrafts, validateLedger } from './news-research.mjs';
+import { prepareDailyResearch } from '../news-research.mjs';
 
 const day = '2026-10-04', now = Date.parse(`${day}T03:30:00Z`);
 const candidate = { title: 'Protocol approves new fee schedule', link: 'https://outlet.example/fees', source: 'Outlet', published: '2026-10-03T20:00:00Z', sources: [{ name: 'Outlet', url: 'https://outlet.example/fees' }] };
@@ -124,4 +125,115 @@ test('extra fresh research leads enter the same daily coverage gate', () => {
   addResearchCandidate(ledger, day, candidate, now);
   assert.equal(researchReport(ledger, day).candidates, 1);
   assert.throws(() => addResearchCandidate(ledger, day, { ...candidate, published: '2026-09-01' }, now), /fresh source/);
+});
+
+function backlogFixture() {
+  const result = fixture([candidate,
+    { ...candidate, title: 'Exchange announces corporate acquisition', link: 'https://outlet.example/acquisition' },
+    { ...candidate, title: 'Custodian receives banking license', link: 'https://outlet.example/license' },
+  ]);
+  const [, pendingId, deferredId] = result.ledger.runs[day].candidateIds;
+  reviewCandidate(result.ledger, day, ready(result.id), { articles: [{ slug: 'fee-vote' }], now });
+  reviewCandidate(result.ledger, day, deferred(deferredId), { articles: [], now });
+  return { ...result, pendingId, deferredId };
+}
+
+test('an audited ready batch publishes with truthful coverage and untouched pending evidence', () => {
+  const { ledger, id, pendingId, deferredId } = backlogFixture();
+  const pending = structuredClone(ledger.candidates[pendingId]), blocked = structuredClone(ledger.candidates[deferredId]);
+  const report = finalizeResearch(ledger, day, { allowBacklogPublication: true, now });
+  assert.equal(report.complete, false); assert.equal(report.publicationComplete, true);
+  assert.equal(report.status, 'incomplete'); assert.equal(ledger.runs[day].completedAt, undefined);
+  assert.deepEqual(report.counts, { published: 1, ready: 0, rejected: 0, deferred: 1, unreviewed: 1 });
+  assert.deepEqual(report.publication, { status: 'completed', completedAt: new Date(now).toISOString(), publishedIds: [id], articleSlugs: ['fee-vote'], pendingIds: [pendingId, deferredId] });
+  assert.equal(ledger.runs[day].outcomes[pendingId], undefined);
+  assert.deepEqual(ledger.candidates[pendingId], pending); assert.deepEqual(ledger.candidates[deferredId], blocked);
+  assert.equal(ledger.candidates[id].status, 'published');
+  assert.equal(validateLedger(ledger), ledger);
+  assert.match(reportMarkdown(report), /Publication complete: true\. Coverage complete: false/);
+  assert.match(reportMarkdown(report), /Pending next batch: 1 unreviewed and 1 deferred/);
+});
+
+test('partial publication closes prepare, retry, add and review for the entire UTC day', async () => {
+  const { ledger, pendingId } = backlogFixture();
+  finalizeResearch(ledger, day, { allowBacklogPublication: true, now });
+  const before = structuredClone(ledger);
+  prepareResearch({ ledger, day, articles: [{ slug: 'fee-vote' }], discovery: discovery([{ ...candidate, link: 'https://new.example/tip' }]), now: now + 1000 });
+  await prepareDailyResearch({ ledger, day, articles: [{ slug: 'fee-vote' }], discover: () => assert.fail('No second same-day discovery'), now: now + 1000 });
+  retryUnpublishedDrafts(ledger, day);
+  finalizeResearch(ledger, day, { allowBacklogPublication: true, now: now + 1000 });
+  assert.throws(() => addResearchCandidate(ledger, day, { ...candidate, link: 'https://new.example/tip' }, now), /open research run/);
+  assert.throws(() => reviewCandidate(ledger, day, ready(pendingId), { articles: [{ slug: 'fee-vote' }], now }), /open daily research queue/);
+  assert.deepEqual(ledger, before);
+});
+
+test('unreviewed and deferred backlog carries forward without rewriting the prior publication or its coverage', () => {
+  const { ledger, id, pendingId, deferredId } = backlogFixture();
+  finalizeResearch(ledger, day, { allowBacklogPublication: true, now });
+  const prior = structuredClone(ledger.runs[day]);
+  const next = '2026-10-05';
+  prepareResearch({ ledger, day: next, now: now + 86400000, articles: [{ slug: 'fee-vote' }], discovery: discovery([]) });
+  assert.deepEqual(ledger.runs[next].candidateIds, [pendingId, deferredId]);
+  assert.equal(researchReport(ledger, next).counts.unreviewed, 2);
+  assert.deepEqual(ledger.candidates[pendingId].sources, candidate.sources);
+  assert.equal(ledger.candidates[pendingId].attempts, 0);
+  assert.deepEqual(ledger.candidates[deferredId].sourceChecks, deferred(deferredId).sourceChecks);
+  assert.deepEqual(ledger.candidates[deferredId].retrySearches, deferred(deferredId).retrySearches);
+  assert.equal(ledger.candidates[id].status, 'published');
+  reviewCandidate(ledger, next, deferred(pendingId), { articles: [], now: now + 86400000 });
+  assert.deepEqual(ledger.runs[day], prior);
+  assert.equal(researchReport(ledger, day).complete, false);
+  assert.equal(researchReport(ledger, day).publicationComplete, true);
+  prepareResearch({ ledger, day: '2026-10-08', now: now + 4 * 86400000, articles: [{ slug: 'fee-vote' }], discovery: discovery([]) });
+  for (const candidateId of [pendingId, deferredId]) {
+    assert.equal(ledger.runs['2026-10-08'].outcomes[candidateId].reason, 'stale');
+    assert.equal(ledger.candidates[candidateId].published, candidate.published);
+  }
+  validateLedger(ledger);
+});
+
+test('backlog publication never bypasses failed audit, discovery health or the publication date', () => {
+  for (const failure of ['audit', 'discovery', 'date']) {
+    const { ledger, id, pendingId } = backlogFixture();
+    if (failure === 'discovery') ledger.runs[day].discovery.feeds = [{ ok: false }];
+    const report = finalizeResearch(ledger, day, { allowBacklogPublication: true,
+      validationErrors: failure === 'audit' ? ['The article failed its image and source audit'] : [], now: failure === 'date' ? now + 86400000 : now });
+    assert.equal(report.publicationComplete, false); assert.equal(report.complete, false);
+    assert.equal(ledger.runs[day].publication, undefined);
+    assert.equal(ledger.candidates[id].status, 'ready'); assert.equal(ledger.candidates[id].publishedAt, undefined);
+    assert.equal(ledger.runs[day].outcomes[pendingId], undefined);
+  }
+});
+
+test('publication receipts must match the exact published IDs, slugs, dates and unfinished backlog', () => {
+  for (const forge of [
+    (run, id) => { run.publication.publishedIds = [id, id]; },
+    run => { run.publication.publishedIds = []; },
+    run => { run.publication.articleSlugs = ['unreviewed-story']; },
+    run => { run.publication.pendingIds = []; },
+    (run, id) => { run.publication.pendingIds.push(id); },
+    run => { run.publication.completedAt = '2026-10-05T03:30:00Z'; },
+    (run, id) => { run.outcomes[id].publishedAt = '2026-10-04T03:31:00Z'; },
+    (run, id) => { run.outcomes[id].status = 'ready'; },
+    run => { run.validationErrors = ['Article audit failed']; },
+    run => { run.status = 'completed'; },
+  ]) {
+    const { ledger, id } = backlogFixture();
+    finalizeResearch(ledger, day, { allowBacklogPublication: true, now });
+    forge(ledger.runs[day], id);
+    assert.throws(() => validateLedger(ledger), /Invalid news publication/);
+    assert.throws(() => researchReport(ledger, day), /Invalid news publication/);
+  }
+});
+
+test('resolved manual tips left in the input are not automatically resubmitted on the next day', () => {
+  const tips = readTips(`- ${candidate.link} - This fresh governance proposal needs a review`);
+  const ledger = { version: 1, candidates: {}, runs: {} };
+  prepareResearch({ ledger, tips, day, now, articles: [], discovery: discovery([]) });
+  const id = ledger.runs[day].candidateIds[0];
+  reviewCandidate(ledger, day, ready(id), { articles: [{ slug: 'fee-vote' }], now });
+  finalizeResearch(ledger, day, { now });
+  prepareResearch({ ledger, tips, day: '2026-10-05', now: now + 86400000, articles: [{ slug: 'fee-vote' }], discovery: discovery([]) });
+  assert.deepEqual(ledger.runs['2026-10-05'].candidateIds, []);
+  assert.equal(ledger.candidates[id].status, 'published');
 });

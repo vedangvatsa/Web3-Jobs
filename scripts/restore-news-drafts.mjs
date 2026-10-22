@@ -3,7 +3,7 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { execFileSync } from 'node:child_process';
 import { pathToFileURL } from 'node:url';
-import { parseArgs } from 'node:util';
+import { isDeepStrictEqual, parseArgs } from 'node:util';
 import matter from 'gray-matter';
 
 const RESEARCH = '.cache/news-research';
@@ -29,6 +29,7 @@ function checkedPath(root, relative, { directory = false, optional = false } = {
       throw new Error(`Missing recovery file: ${relative}`);
     }
     if (stat.isSymbolicLink() || !(index === parts.length - 1 && !directory ? stat.isFile() : stat.isDirectory())) throw new Error(`Unsafe recovery path: ${relative}`);
+    if (stat.isFile() && stat.nlink !== 1) throw new Error(`Hard-linked recovery file: ${relative}`);
   }
   return file;
 }
@@ -62,13 +63,29 @@ function reviewHistory(references) {
   return [...history.values()];
 }
 
+export { checkedRoot as checkedRecoveryRoot, checkedPath as checkedRecoveryPath };
+
+export function reportReadyReview(report, id, articleSlug) {
+  const outcomes = report.outcomes.filter(item => item.id === id);
+  if (!outcomes.length || outcomes.some(item => item.status !== 'ready' || item.articleSlug !== articleSlug)) return undefined;
+  const fields = ['id', 'articleSlug', 'link', 'status', 'reason', 'note', 'reviewedAt', 'sourceChecks'];
+  const evidence = item => Object.fromEntries(fields.filter(key => Object.hasOwn(item, key)).map(key => [key, structuredClone(item[key])]));
+  const review = evidence(outcomes[0]);
+  if (outcomes.some(item => !isDeepStrictEqual(evidence(item), review))) throw new Error(`Conflicting current report reviews: ${id}`);
+  return review;
+}
+
 export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = false, day, now = Date.now() }) {
   if (day !== undefined && !reportOnly) throw new Error('An explicit recovery date is only allowed in report-only mode');
   cwd = checkedRoot(cwd);
   const current = day === undefined ? readJson(cwd, `${RESEARCH}/current.json`) : { day };
   if (!validDay(current?.day) || (!reportOnly && current.day !== new Date(now).toISOString().slice(0, 10))) throw new Error('Recovery needs the actual current UTC news date');
-  const root = checkedRoot(artifact);
-  const report = readJson(root, `${RESEARCH}/report.json`);
+  const root = checkedRoot(path.resolve(cwd, artifact));
+  const reportBytes = fs.readFileSync(checkedPath(root, `${RESEARCH}/report.json`));
+  const report = JSON.parse(reportBytes);
+  const selection = checkedPath(cwd, `${RESEARCH}/recovery-selection.json`, { optional: true });
+  const recoverySource = { artifact: root, reportSha256: createHash('sha256').update(reportBytes).digest('hex'),
+    ...(selection ? { selectionSha256: createHash('sha256').update(fs.readFileSync(selection)).digest('hex') } : {}) };
   if (report.day !== current.day) throw new Error('Recovery belongs to a different news date; review it manually');
   if (!Array.isArray(report.outcomes) || report.outcomes.some(item => !object(item) || typeof item.id !== 'string')) throw new Error('Invalid recovery report outcomes');
   const ledger = readLedger(root), localLedger = readLedger(cwd);
@@ -149,6 +166,7 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
       if (!reference) throw new Error('Owned draft has no recorded source checks');
       const draft = { ...reference.record, id: owner.id, articleSlug, status: 'unreviewed', previousStatus: reference.record.previousStatus || reference.record.status,
         mustReview: true, approved: false, inherited: entry.inherited, previousReviews: reviewHistory(owner.references) };
+      delete draft.recoveryReview;
       const pending = new Map();
       const inspectFile = (relative, image = false) => {
         const source = checkedPath(root, `${RESEARCH}/recovery/${relative}`);
@@ -173,6 +191,9 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
       else if (data.publishedDate < current.day) draft.reviewReasons.push('publication-date-needs-review');
       if (typeof data.image !== 'string' || data.image !== data.image.trim() || !new RegExp(`^/images/news/${articleSlug}\\.(?:png|jpg|jpeg|webp)$`).test(data.image)) throw new Error('Recovery draft needs its matching article-specific local news image');
       inspectFile(`public${data.image}`, true);
+      draft.sourceFiles = entry.sourceFiles = entry.files.map(({ path, sha256 }) => ({ path, sha256 }));
+      const recoveryReview = reportReadyReview(report, owner.id, articleSlug);
+      if (recoveryReview) draft.recoveryReview = entry.recoveryReview = recoveryReview;
       if (!entry.errors.length) {
         for (const [file, bytes] of pending) {
           if (files.has(file) && !files.get(file).equals(bytes)) throw new Error(`Conflicting recovery file: ${file}`);
@@ -188,7 +209,7 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
   try {
     if (checkedPath(cwd, manifest, { optional: true })) throw new Error(`Recovery cannot overwrite ${manifest}`);
   } catch (error) { errors.push({ message: error.message }); }
-  if (reportOnly) return { day: current.day, reportOnly: true, ownedDrafts: items.length, drafts: drafts.length, files: files.size, items, ignored, errors };
+  if (reportOnly) return { day: current.day, reportOnly: true, recoverySource, ownedDrafts: items.length, drafts: drafts.length, files: files.size, items, ignored, errors };
   if (errors.length) throw new Error(`Recovery validation failed before copying: ${errors.map(error => `${error.articleSlug ? `${error.articleSlug}: ` : ''}${error.message}`).join('; ')}`);
   const writeExclusive = (relative, bytes) => {
     if (checkedPath(cwd, relative, { optional: true })) throw new Error(`Recovery cannot overwrite ${relative}`);
@@ -197,7 +218,7 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
     fs.writeFileSync(path.join(cwd, relative), bytes, { flag: 'wx' });
   };
   for (const [relative, bytes] of files) writeExclusive(relative, bytes);
-  writeExclusive(manifest, JSON.stringify({ day: current.day, mustReview: true, approved: false, drafts, ignored }, null, 2) + '\n');
+  writeExclusive(manifest, JSON.stringify({ day: current.day, mustReview: true, approved: false, recoverySource, drafts, ignored }, null, 2) + '\n');
   return { drafts: drafts.length, files: files.size };
 }
 

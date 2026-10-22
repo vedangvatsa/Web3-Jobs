@@ -68,6 +68,10 @@ on:
         description: 'Recover same-day news; refresh missing jobs and use the daily rollout only if still due. only_news keeps deployment off'
         type: string
         default: ''
+      validate_saved_news:
+        description: 'Reuse unchanged same-day ready reviews, run all audits and repair before publishing; no new research'
+        type: boolean
+        default: false
 
 concurrency:
   # One group per slot so the afternoon run cannot cancel a morning run still going.
@@ -322,6 +326,7 @@ jobs:
       NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
       NEWS_DATE: ${{ needs.gate.outputs.date }}
       NEWS_OPENCODE_VERSION: v1.19.2
+      NEWS_VALIDATE_RESTORED_ONLY: ${{ inputs.validate_saved_news && 'true' || 'false' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -336,7 +341,7 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Test daily news discovery and publication
-        run: node --test scripts/check-news-writer.test.mjs scripts/check-news-sources.test.mjs scripts/lib/news-source-readiness.test.mjs scripts/select-news-recovery.test.mjs scripts/restore-news-drafts.test.mjs scripts/news-review-batch.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+        run: node --test scripts/check-news-writer.test.mjs scripts/check-news-sources.test.mjs scripts/lib/news-source-readiness.test.mjs scripts/select-news-recovery.test.mjs scripts/restore-news-drafts.test.mjs scripts/reuse-news-reviews.test.mjs scripts/news-review-batch.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
       - name: Prepare the daily candidate queue
         id: research
@@ -365,6 +370,10 @@ jobs:
         if: ${{ steps.recovery.outputs.run_id != '' && steps.research.outputs.needs_writer == 'true' }}
         run: node scripts/restore-news-drafts.mjs
 
+      - name: Reuse unchanged recorded reviews for explicit validation-only recovery
+        if: ${{ inputs.validate_saved_news == true && steps.research.outputs.needs_writer == 'true' }}
+        run: node scripts/reuse-news-reviews.mjs --apply
+
       - name: Record definite source-access blockers before research
         if: ${{ steps.research.outputs.needs_writer == 'true' }}
         timeout-minutes: 15
@@ -388,6 +397,7 @@ jobs:
 
       - name: Check news model availability and response
         if: ${{ steps.research.outputs.needs_writer == 'true' }}
+        continue-on-error: ${{ inputs.validate_saved_news == true }}
         run: node scripts/check-news-writer.mjs
 
       - name: Install image tooling (Pillow fallback for Linux resize)
@@ -413,9 +423,11 @@ jobs:
         id: publish
         if: ${{ always() && steps.research.outcome == 'success' }}
         continue-on-error: true
+        env:
+          PUBLISH_CANCELLED: ${{ cancelled() }}
         run: |
           ARGS=()
-          if [ "$NEWS_DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          if [ "$NEWS_DRY_RUN" = "true" ] || [ "$PUBLISH_CANCELLED" = "true" ]; then ARGS+=(--dry-run); fi
           node scripts/publish-news-run.mjs "${ARGS[@]}"
 
       - name: Preserve news research and draft recovery
@@ -428,10 +440,10 @@ jobs:
             .cache/news-research/
             content/news-research.json
 
-      - name: Fail incomplete research or publication
+      - name: Fail incomplete publication
         if: ${{ always() && (steps.research.outcome != 'success' || steps.publish.outcome != 'success' || steps.publish.outputs.complete != 'true') }}
         run: |
-          echo "Daily news research did not complete. See the candidate outcomes and recovery artifact."
+          echo "Daily news publication did not complete. See the ready-draft audit and recovery artifact; unfinished research remains pending."
           exit 1
 
       - name: Verify dry-run made no commits

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { prepareResearch } from './lib/news-research.mjs';
+import { finalizeResearch, prepareResearch } from './lib/news-research.mjs';
 import { recordResearchBatch } from './news-research.mjs';
 
 function fixture() {
@@ -29,4 +29,13 @@ test('an invalid batch outcome leaves every original candidate untouched', () =>
   assert.equal(JSON.stringify(ledger), before);
   assert.throws(() => recordResearchBatch(ledger, day, [{ ...review, note: 'too short' }], articles), /specific research outcome/);
   assert.throws(() => recordResearchBatch(ledger, day, [{ ...review, sourceChecks: [] }], articles), /two independent/);
+});
+
+test('a JSON review batch cannot reopen pending leads after the daily ready batch was published', () => {
+  const { ledger, day, review, articles } = fixture();
+  const next = recordResearchBatch(ledger, day, [review], articles);
+  finalizeResearch(next, day, { allowBacklogPublication: true, now: Date.parse(`${day}T12:00:00Z`) });
+  const before = structuredClone(next), id = next.runs[day].candidateIds[1];
+  assert.throws(() => recordResearchBatch(next, day, [{ ...review, id }], articles), /open daily research queue/);
+  assert.deepEqual(next, before);
 });

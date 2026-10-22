@@ -4,7 +4,10 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
 import { allowedNewsPath, pushNewsFiles } from './news-publish.mjs';
-import { prepareResearch } from './news-research.mjs';
+import { prepareResearch, researchReport, reviewCandidate } from './news-research.mjs';
+import { validateNewsDrafts } from './news-validation.mjs';
+import { assertDailyContent } from './daily-deploy.mjs';
+import { publishNewsRun } from '../publish-news-run.mjs';
 
 function fixture(t) {
   fs.mkdirSync('.cache', { recursive: true });
@@ -139,4 +142,166 @@ test('the daily CLI checkpoints its queue and decisions, then completes one defe
   const noFetch = `data:text/javascript,${encodeURIComponent('globalThis.fetch = async () => { throw new Error("Unexpected repeat discovery"); };')}`;
   execFileSync(process.execPath, ['--import', noFetch, cli, 'prepare'], { cwd, env, stdio: 'pipe' });
   assert.equal(git(['--git-dir', remote, 'rev-parse', 'main']), completed);
+});
+
+function coordinatorFixture(t) {
+  const base = fixture(t), { cwd, baseSha } = base;
+  const day = '2026-10-04', now = Date.parse(`${day}T03:30:00Z`);
+  const ledger = { version: 1, candidates: {}, runs: {} };
+  const write = (file, body) => { fs.mkdirSync(path.dirname(path.join(cwd, file)), { recursive: true }); fs.writeFileSync(path.join(cwd, file), body); };
+  const read = file => fs.readFileSync(path.join(cwd, file), 'utf8');
+  prepareResearch({ ledger, day, now, articles: [], discovery: { total: 2, feeds: [{ ok: true }], candidates: [
+    { title: 'Protocol approves a new fee schedule', link: 'https://source.example/fees', source: 'Source', published: day },
+    { title: 'Exchange files corporate acquisition notice', link: 'https://source.example/acquisition', source: 'Source', published: day },
+  ] } });
+  const [id, pendingId] = ledger.runs[day].candidateIds;
+  for (const slug of ['fee-vote', 'pending-story']) {
+    write(`content/articles/${slug}.md`, `---\ntitle: A fixture story\ncategory: News\nimage: /images/news/${slug}.jpg\npublishedDate: '${day}'\n---\nFixture content for the injected article auditor.\n`);
+    write(`public/images/news/${slug}.jpg`, 'Fixture bytes for the injected image auditor');
+  }
+  reviewCandidate(ledger, day, { id, status: 'ready', articleSlug: 'fee-vote',
+    note: 'Read the protocol decision and independent confirmation of the approved fee schedule.',
+    sourceChecks: [{ url: 'https://source.example/fees', outcome: 'read' }, { url: 'https://primary.example/proposal', outcome: 'read' }],
+  }, { articles: [{ slug: 'fee-vote' }], now });
+  ledger.candidates[pendingId].articleSlug = 'pending-story';
+  write('content/news-research.json', JSON.stringify(ledger));
+  write('content/news-tips.md', '# Tips\n- https://source.example/fees - Protocol fee vote\n');
+  write('.cache/news-research/current.json', JSON.stringify({ day, baseSha, checkpointSha: baseSha, persist: true }));
+  const audits = [], publications = [];
+  const validate = (options, audit = () => []) => {
+    assert.equal(options.publishReadyBatch, true);
+    return validateNewsDrafts({ ...options, audit: (slugs, context) => { audits.push(slugs); return audit(slugs, context); } });
+  };
+  const publish = options => {
+    publications.push({ ...options, ledger: JSON.parse(read('content/news-research.json')) });
+    return 'b'.repeat(40);
+  };
+  const run = options => publishNewsRun({ cwd, now, env: { GITHUB_ACTIONS: 'true' }, validate, publish, ...options });
+  return { ...base, day, now, ledger, id, pendingId, write, read, validate, run, audits, publications };
+}
+
+test('the coordinator audits and publishes only ready article files plus the truthful partial ledger', t => {
+  const h = coordinatorFixture(t), pending = structuredClone(h.ledger.candidates[h.pendingId]);
+  const result = h.run();
+  assert.equal(result.complete, true); assert.equal(result.articlesChanged, true);
+  assert.equal(result.report.complete, false); assert.equal(result.report.publicationComplete, true);
+  assert.deepEqual(result.report.counts, { published: 1, ready: 0, rejected: 0, deferred: 0, unreviewed: 1 });
+  assert.deepEqual(h.audits, [['fee-vote']]); assert.equal(h.publications.length, 1);
+  assert.deepEqual(h.publications[0].files, ['content/news-research.json', 'content/articles/fee-vote.md', 'public/images/news/fee-vote.jpg']);
+  const saved = h.publications[0].ledger;
+  assert.equal(saved.runs[h.day].outcomes[h.id].status, 'published');
+  assert.equal(saved.runs[h.day].outcomes[h.pendingId], undefined);
+  assert.deepEqual(saved.candidates[h.pendingId], pending);
+  assert.deepEqual(saved.runs[h.day].publication.pendingIds, [h.pendingId]);
+  assert.deepEqual(assertDailyContent({ date: h.day, research: saved, jobs: [],
+    catalogs: { version: 1, catalogs: { jobs: { checkedAt: new Date(h.now).toISOString(), sourceCommit: h.baseSha } } },
+    hasArticle: slug => fs.existsSync(path.join(h.cwd, 'content/articles', `${slug}.md`)),
+  }, h.now).articleSlugs, ['fee-vote']);
+  assert.match(h.read('content/news-tips.md'), /source\.example\/fees/);
+  assert.ok(fs.existsSync(path.join(h.cwd, '.cache/news-research/recovery/content/articles/pending-story.md')));
+  assert.ok(fs.existsSync(path.join(h.cwd, '.cache/news-research/recovery/public/images/news/pending-story.jpg')));
+  assert.equal(h.git(['rev-parse', 'HEAD']), h.baseSha);
+});
+
+test('audits crossing UTC midnight cannot publish a batch under the previous date', t => {
+  const h = coordinatorFixture(t);
+  let now = h.now;
+  const result = h.run({ now: () => now, validate: options => {
+    const audit = h.validate(options); now += 86400000; return audit;
+  } });
+  assert.equal(result.complete, false);
+  assert.equal(result.report.counts.published, 0);
+  assert.match(result.report.validationErrors.join('; '), /day changed/);
+  assert.deepEqual(h.publications[0].files, ['content/news-research.json']);
+});
+
+test('a completed partial publication is idempotent and CLI outputs separate workflow and coverage completion', t => {
+  const h = coordinatorFixture(t);
+  h.run();
+  const before = h.read('content/news-research.json');
+  const second = h.run({ validate: () => assert.fail('Do not re-audit a published batch'), publish: () => assert.fail('No second publication') });
+  assert.equal(second.alreadyPublished, true); assert.equal(second.articlesChanged, false);
+  assert.equal(second.publishedSha, 'b'.repeat(40)); assert.equal(second.report.complete, false);
+  assert.equal(h.read('content/news-research.json'), before);
+  const outputs = path.join(h.cwd, '.cache/outputs');
+  const env = { ...process.env, GITHUB_ACTIONS: 'true', NEWS_DRY_RUN: 'false', GITHUB_OUTPUT: outputs, GITHUB_STEP_SUMMARY: '' };
+  execFileSync(process.execPath, [path.resolve('scripts/news-research.mjs'), 'prepare', `--date=${h.day}`], { cwd: h.cwd, env, stdio: 'pipe' });
+  execFileSync(process.execPath, [path.resolve('scripts/publish-news-run.mjs')], { cwd: h.cwd, env, stdio: 'pipe' });
+  const emitted = fs.readFileSync(outputs, 'utf8');
+  assert.match(emitted, /^needs_writer=false$/m); assert.match(emitted, /^articles_changed=false$/m);
+  assert.match(emitted, /^complete=true$/m); assert.match(emitted, /^coverage_complete=false$/m); assert.match(emitted, /^publication_complete=true$/m);
+  assert.match(emitted, new RegExp(`^published_sha=${'b'.repeat(40)}$`, 'm'));
+  assert.equal(h.read('content/news-research.json'), before);
+  assert.equal(h.git(['--git-dir', h.remote, 'rev-parse', 'main']), h.baseSha);
+});
+
+for (const failure of ['audit-error', 'audit-crash', 'invalid-response']) test(`${failure} cannot publish a ready batch while coverage is pending`, t => {
+  const h = coordinatorFixture(t), before = h.read('content/news-research.json');
+  const result = h.run({ validate: options => h.validate(options, () => {
+    if (failure === 'audit-crash') throw new Error('Editorial auditor unavailable');
+    return failure === 'invalid-response' ? undefined : ['The article failed the image credit audit'];
+  }) });
+  assert.deepEqual(h.audits, [['fee-vote']]);
+  assert.equal(result.complete, false); assert.equal(result.articlesChanged, false);
+  assert.equal(result.report.publicationComplete, false); assert.equal(result.report.counts.ready, 1); assert.equal(result.report.counts.published, 0);
+  assert.equal(result.report.counts.unreviewed, 1); assert.ok(result.report.validationErrors.length);
+  if (failure === 'audit-error') {
+    assert.deepEqual(h.publications[0].files, ['content/news-research.json']);
+    assert.equal(h.publications[0].ledger.runs[h.day].publication, undefined);
+  } else {
+    assert.equal(h.publications.length, 0);
+    assert.equal(h.read('content/news-research.json'), before);
+  }
+  assert.ok(fs.existsSync(path.join(h.cwd, 'content/articles/fee-vote.md')));
+});
+
+test('an unsafe report destination cannot be written or checkpointed after a fatal validation failure', t => {
+  const h = coordinatorFixture(t), before = h.read('content/news-research.json');
+  h.write('protected.txt', 'Preserve this unrelated file exactly');
+  fs.symlinkSync(path.join(h.cwd, 'protected.txt'), path.join(h.cwd, '.cache/news-research/report.md'));
+  const result = h.run();
+  assert.equal(result.complete, false); assert.equal(result.report.publicationComplete, false);
+  assert.match(result.report.validationErrors.join('\n'), /Symlink/);
+  assert.deepEqual(h.audits, []); assert.deepEqual(h.publications, []);
+  assert.equal(h.read('content/news-research.json'), before);
+  assert.equal(h.read('protected.txt'), 'Preserve this unrelated file exactly');
+});
+
+test('an empty error list without a passing article audit cannot authorize publication', t => {
+  const h = coordinatorFixture(t);
+  const result = h.run({ validate: options => ({ ...h.validate(options), audited: false, draftsValid: false, validationErrors: [] }) });
+  assert.equal(result.complete, false); assert.equal(result.report.publicationComplete, false);
+  assert.equal(result.report.counts.ready, 1); assert.equal(result.report.counts.published, 0);
+  assert.match(result.report.validationErrors[0], /did not pass the article validator/);
+  assert.deepEqual(h.publications[0].files, ['content/news-research.json']);
+  assert.equal(h.publications[0].ledger.runs[h.day].publication, undefined);
+});
+
+for (const failure of ['throw', 'unconfirmed']) test(`failed push (${failure}) clears publication state and retains ready drafts for an audited retry`, t => {
+  const h = coordinatorFixture(t), pending = structuredClone(h.ledger.candidates[h.pendingId]);
+  assert.throws(() => h.run({ publish: () => {
+    if (failure === 'throw') throw new Error('News push failed');
+  } }), /push failed|no confirmed commit/);
+  const saved = JSON.parse(h.read('content/news-research.json')), run = saved.runs[h.day];
+  assert.equal(run.publication, undefined); assert.equal(run.completedAt, undefined); assert.equal(run.status, 'incomplete');
+  assert.equal(run.outcomes[h.id].status, 'ready'); assert.equal(run.outcomes[h.id].publishedAt, undefined);
+  assert.equal(saved.candidates[h.id].status, 'ready'); assert.equal(saved.candidates[h.id].publishedAt, undefined);
+  assert.deepEqual(saved.candidates[h.id].sourceChecks, h.ledger.candidates[h.id].sourceChecks);
+  assert.deepEqual(saved.candidates[h.pendingId], pending);
+  assert.match(run.validationErrors.at(-1), /Publication not confirmed/);
+  assert.equal(researchReport(saved, h.day).publicationComplete, false);
+  assert.ok(fs.existsSync(path.join(h.cwd, 'content/articles/fee-vote.md')));
+  assert.ok(fs.existsSync(path.join(h.cwd, 'public/images/news/fee-vote.jpg')));
+  assert.equal(h.run().report.publicationComplete, true);
+  assert.deepEqual(h.audits, [['fee-vote'], ['fee-vote']]);
+});
+
+test('a dry-run audits the ready batch without inventing published outcomes or persisting a receipt', t => {
+  const h = coordinatorFixture(t), before = h.read('content/news-research.json');
+  const result = h.run({ dryRun: true, publish: () => assert.fail('A preview cannot push') });
+  assert.equal(result.publicationReady, true); assert.equal(result.articlesChanged, false);
+  assert.equal(result.report.publicationComplete, false); assert.equal(result.report.complete, false);
+  assert.equal(result.report.counts.ready, 1); assert.equal(result.report.counts.published, 0); assert.equal(result.report.counts.unreviewed, 1);
+  assert.deepEqual(h.audits, [['fee-vote']]);
+  assert.equal(h.read('content/news-research.json'), before);
 });

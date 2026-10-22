@@ -20,6 +20,19 @@ test('source readiness runs after restoration and before the writer with its reg
   assert.match(tests, /scripts\/lib\/news-source-readiness\.test\.mjs/);
 });
 
+test('validation-only recovery is explicit, reuses reviews after restoration, and still requires publication audits', () => {
+  assert.equal(workflow.on.workflow_dispatch.inputs.validate_saved_news.default, false);
+  const news = workflow.jobs['publish-news'], steps = news.steps;
+  const restore = steps.findIndex(step => step.run === 'node scripts/restore-news-drafts.mjs');
+  const reuse = steps.findIndex(step => step.run === 'node scripts/reuse-news-reviews.mjs --apply');
+  const writer = steps.findIndex(step => step.id === 'draft');
+  assert.ok(restore < reuse && reuse < writer);
+  assert.match(steps[reuse].if, /inputs.validate_saved_news == true/);
+  assert.match(news.env.NEWS_VALIDATE_RESTORED_ONLY, /inputs.validate_saved_news/);
+  assert.match(steps.find(step => step.name === 'Check news model availability and response')['continue-on-error'], /inputs.validate_saved_news == true/);
+  assert.match(steps.find(step => step.id === 'publish').run, /publish-news-run.mjs/);
+});
+
 test('on-time social fan-out retains one daily rollout after ingestion and news', () => {
   assert.deepEqual(workflow.jobs['post-openings'].needs, ['gate']);
   assert.deepEqual(workflow.jobs['refresh-and-post'].needs, ['gate']);
@@ -117,6 +130,8 @@ test('news dry runs use a news-only gate and pass --dry-run to the publisher', (
   const publish = workflow.jobs['publish-news'].steps.find(step => step.id === 'publish').run;
   assert.match(publish, /NEWS_DRY_RUN.*true/);
   assert.match(publish, /--dry-run/);
+  assert.equal(workflow.jobs['publish-news'].steps.find(step => step.id === 'publish').env.PUBLISH_CANCELLED, '${{ cancelled() }}');
+  assert.match(publish, /PUBLISH_CANCELLED.*true/);
 });
 
 test('job and event workflows acknowledge only generators they ran, leaving article invalidation intact', () => {

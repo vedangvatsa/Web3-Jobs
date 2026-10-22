@@ -1,4 +1,5 @@
 import { setTimeout as delay } from 'node:timers/promises';
+import { validateResearchPublication } from './news-publication-state.mjs';
 
 export const DEPLOY_STATE_PATH = 'scripts/social/publish-slot-state.json';
 export const BACKEND = 'projects/web3-jobs-aggregator/locations/us-central1/backends/studio';
@@ -55,21 +56,29 @@ export function assertDailyContent({ date, catalogs, research, jobs, hasArticle 
     throw new Error('Daily deployment requires today’s published jobs catalogue');
   }
   const run = research?.runs?.[date];
-  if (research?.version !== 1 || run?.day !== date || run.status !== 'completed' || !sameDay(run.completedAt)
+  if (research?.version !== 1 || run?.day !== date
     || !Array.isArray(run.validationErrors) || run.validationErrors.length || !run.discovery?.feeds?.some(feed => feed.ok === true)
     || !Array.isArray(run.candidateIds) || !run.candidateIds.length || new Set(run.candidateIds).size !== run.candidateIds.length
     || !object(run.outcomes) || !Array.isArray(run.baselineSlugs)) throw new Error('Daily deployment requires today’s completed validated news research');
+  const publication = validateResearchPublication(research, date);
+  if (publication ? !sameDay(publication.completedAt) : run.status !== 'completed' || !sameDay(run.completedAt)) {
+    throw new Error('Daily deployment requires today’s completed validated news publication');
+  }
   const slugs = [];
   for (const id of run.candidateIds) {
     const outcome = run.outcomes[id];
-    if (!research.candidates?.[id] || !['published', 'rejected', 'deferred'].includes(outcome?.status)) throw new Error('Daily news research still has unpublished or unreviewed candidates');
+    const candidate = research.candidates?.[id];
+    if (!candidate || (!outcome && !publication) || (outcome && !['published', 'rejected', 'deferred'].includes(outcome.status))) throw new Error('Daily news research still has unpublished or unreviewed candidates');
+    if (!outcome) continue;
     if (outcome.status !== 'published') continue;
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)?$/.test(outcome.articleSlug || '') || !sameDay(outcome.publishedAt)
-      || run.baselineSlugs.includes(outcome.articleSlug) || !hasArticle(outcome.articleSlug)) throw new Error('Published daily news article is missing or not new');
+      || run.baselineSlugs.includes(outcome.articleSlug) || !hasArticle(outcome.articleSlug)
+      || (publication && (candidate.id !== id || candidate.status !== 'published' || candidate.articleSlug !== outcome.articleSlug
+        || candidate.publishedAt !== outcome.publishedAt))) throw new Error('Published daily news article is missing or not new');
     slugs.push(outcome.articleSlug);
   }
   if (!slugs.length || new Set(slugs).size !== slugs.length) throw new Error('Daily deployment requires a nonempty original-news batch');
-  return { jobsCheckedAt: refreshed.checkedAt, newsCompletedAt: run.completedAt, articleSlugs: slugs };
+  return { jobsCheckedAt: refreshed.checkedAt, newsCompletedAt: publication?.completedAt || run.completedAt, articleSlugs: slugs };
 }
 
 export function createDeployStateStore({ token, repository = 'vedangvatsa/Web3-Jobs', request = fetch, sleep = delay }) {

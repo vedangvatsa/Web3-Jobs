@@ -1,12 +1,27 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { spawnSync } from 'node:child_process';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
 import { BACKEND, assertDailyContent, claimDailyDeployment, createDeployStateStore, dailyDeploymentDue, hasDailyDeployment, recordDeploymentResult, runDailyDeployment } from './daily-deploy.mjs';
 
 const date = '2026-10-22';
 const now = Date.parse(`${date}T04:00:00Z`);
 const sourceCommit = 'a'.repeat(40);
 const candidate = 'c'.repeat(20);
+
+test('slot and deployment guards load in a fresh checkout before npm dependencies are installed', t => {
+  const cwd = fs.mkdtempSync(path.join(os.tmpdir(), 'daily-guard-dependencies-'));
+  t.after(() => fs.rmSync(cwd, { recursive: true, force: true }));
+  for (const file of ['scripts/lib/daily-deploy.mjs', 'scripts/lib/news-publication-state.mjs', 'scripts/social/posting-slot.mjs', 'scripts/social/publish-slot-plan.mjs']) {
+    fs.mkdirSync(path.join(cwd, path.dirname(file)), { recursive: true });
+    fs.copyFileSync(file, path.join(cwd, file));
+  }
+  const result = spawnSync(process.execPath, ['--input-type=module', '-e', 'import {planSlot} from "./scripts/social/publish-slot-plan.mjs"; console.log(planSlot({deployed:"2026-10-22"},"morning","2026-10-22").deploy);'], { cwd, encoding: 'utf8' });
+  assert.equal(result.status, 0, result.stderr);
+  assert.equal(result.stdout.trim(), 'false');
+});
 function content(day = date) {
   return {
     catalogs: { version: 1, catalogs: { jobs: { checkedAt: `${day}T03:45:00Z`, sourceCommit: 'b'.repeat(40) } } },
@@ -16,6 +31,18 @@ function content(day = date) {
         discovery: { feeds: [{ ok: true }] }, outcomes: { [candidate]: { status: 'published', articleSlug: 'original-news', publishedAt: `${day}T03:50:00Z` } } },
     } },
   };
+}
+
+function partialContent() {
+  const c = content(), run = c.research.runs[date], pending = 'd'.repeat(20), deferred = 'e'.repeat(20);
+  run.status = 'incomplete'; delete run.completedAt;
+  run.candidateIds.push(pending, deferred);
+  c.research.candidates[pending] = { id: pending, status: 'pending' };
+  c.research.candidates[deferred] = { id: deferred, status: 'deferred' };
+  run.outcomes[deferred] = { status: 'deferred', note: 'An independent source remains unavailable; retry it tomorrow.' };
+  Object.assign(c.research.candidates[candidate], run.outcomes[candidate]);
+  run.publication = { status: 'completed', completedAt: `${date}T03:50:00Z`, publishedIds: [candidate], articleSlugs: ['original-news'], pendingIds: [pending, deferred] };
+  return c;
 }
 
 function harness(initial = {}) {
@@ -73,6 +100,73 @@ test('daily content requires current jobs plus completed validated coverage and 
     const c = content(); change(c);
     assert.throws(() => assertDailyContent({ date, ...c }, now));
   }
+});
+
+test('a verified daily publication with backlog is eligible while its research remains coverage-incomplete', () => {
+  const c = partialContent(), before = structuredClone(c.research);
+  assert.deepEqual(assertDailyContent({ date, ...c }, now), {
+    jobsCheckedAt: `${date}T03:45:00Z`, newsCompletedAt: `${date}T03:50:00Z`, articleSlugs: ['original-news'],
+  });
+  assert.deepEqual(c.research, before);
+  assert.equal(c.research.runs[date].status, 'incomplete');
+});
+
+test('a publication marker cannot forge approval, omit backlog, misidentify an article or bypass daily evidence', () => {
+  const invalid = [
+    c => { delete c.research.runs[date].publication; c.research.runs[date].publicationComplete = true; },
+    c => { c.research.runs[date].publication.status = 'ready'; },
+    c => { c.research.runs[date].publication.completedAt = '2026-10-21T03:50:00Z'; },
+    c => { c.research.runs[date].publication.publishedIds = []; },
+    c => { c.research.runs[date].publication.publishedIds = ['d'.repeat(20)]; },
+    c => { c.research.runs[date].publication.articleSlugs = ['pending-story']; },
+    c => { c.research.runs[date].publication.articleSlugs.push('original-news'); },
+    c => { c.research.runs[date].publication.pendingIds = ['d'.repeat(20)]; },
+    c => { c.research.runs[date].publication.pendingIds.push(candidate); },
+    c => { c.research.runs[date].outcomes[candidate].status = 'ready'; },
+    c => { c.research.runs[date].outcomes[candidate].publishedAt = `${date}T03:51:00Z`; },
+    c => { c.research.runs[date].outcomes['f'.repeat(20)] = c.research.runs[date].outcomes[candidate]; },
+    c => { c.research.runs[date].outcomes['d'.repeat(20)] = { status: 'ready', articleSlug: 'pending-story' }; },
+    c => { c.research.candidates[candidate].status = 'ready'; },
+    c => { c.research.candidates[candidate].articleSlug = 'pending-story'; },
+    c => { c.research.candidates[candidate].publishedAt = '2026-10-21T03:50:00Z'; },
+    c => { delete c.research.candidates[candidate]; },
+    c => { c.research.runs[date].validationErrors.push('Article audit failed'); },
+    c => { c.research.runs[date].baselineSlugs.push('original-news'); },
+    c => { c.research.runs[date].discovery.feeds = [{ ok: false }]; },
+    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-21T03:45:00Z'; },
+    c => { c.catalogs.catalogs.jobs.sourceCommit = 'unconfirmed'; },
+    c => { c.hasArticle = () => false; },
+  ];
+  for (const change of invalid) {
+    const c = partialContent(); change(c);
+    assert.throws(() => assertDailyContent({ date, ...c }, now));
+  }
+});
+
+test('a reviewed zero-article day cannot claim a nonempty daily publication', () => {
+  const c = content(), run = c.research.runs[date];
+  run.outcomes[candidate] = { status: 'deferred' };
+  c.research.candidates[candidate].status = 'deferred';
+  run.publication = { status: 'completed', completedAt: run.completedAt, publishedIds: [], articleSlugs: [], pendingIds: [candidate] };
+  assert.throws(() => assertDailyContent({ date, ...c }, now), /nonempty original-news batch/);
+});
+
+test('completed publication with pending research shares the one combined jobs/news rollout guard', async () => {
+  const h = harness(), c = partialContent();
+  assert.equal((await h.run({ content: c })).deployed, true);
+  assert.equal((await h.run({ content: c, id: '124-1' })).deployed, false);
+  assert.equal(h.provider.writes.length, 2);
+  assert.equal(h.server.state.dailyDeployments[date].length, 1);
+  assert.deepEqual(h.server.state.dailyDeployments[date][0].articleSlugs, ['original-news']);
+});
+
+test('publication with backlog does not override an unknown provider result', async () => {
+  const h = harness(), c = partialContent();
+  h.provider.rollout = 'PROGRESSING';
+  await assert.rejects(h.run({ content: c }), /result unknown/);
+  await assert.rejects(h.run({ content: c, id: '124-1' }), /Unconfirmed deployment/);
+  assert.equal(h.provider.writes.length, 2);
+  assert.equal(h.server.state.dailyDeployments[date].length, 1);
 });
 
 test('incomplete news causes zero claims or provider calls; completed jobs and news deploy exactly once', async () => {

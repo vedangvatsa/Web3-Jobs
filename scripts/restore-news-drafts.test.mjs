@@ -90,6 +90,11 @@ test('restores exact draft/image bytes and source checks for re-review without c
   assert.deepEqual(draft.sourceChecks, f.record.sourceChecks);
   assert.equal(draft.note, f.record.note);
   assert.equal(draft.reviewedAt, f.record.reviewedAt);
+  assert.deepEqual(draft.recoveryReview, Object.fromEntries(['id', 'articleSlug', 'link', 'status', 'reason', 'note', 'reviewedAt', 'sourceChecks'].map(key => [key, f.record[key]])));
+  assert.deepEqual(draft.sourceFiles, ['content/articles/story.md', 'public/images/news/story.jpg'].map(relative => ({
+    path: relative, sha256: createHash('sha256').update(f.read(f.artifact, `${RECOVERY}/${relative}`)).digest('hex'),
+  })));
+  assert.deepEqual(manifest.recoverySource, { artifact: fs.realpathSync(f.artifact), reportSha256: createHash('sha256').update(f.read(f.artifact, `${RESEARCH}/report.json`)).digest('hex') });
 });
 
 test('recovers all 22 owned drafts from a same-day artifact, flagging 18 older-dated drafts for re-review', t => {
@@ -112,6 +117,7 @@ test('recovers all 22 owned drafts from a same-day artifact, flagging 18 older-d
     assert.equal(draft.approved, false);
     assert.equal(draft.status, 'unreviewed');
     assert.equal(draft.originalDate, index >= 2 && index < 20 ? '2026-10-18' : DAY);
+    assert.equal(Boolean(draft.recoveryReview), !(index >= 2 && index < 20));
     assert.deepEqual(draft.reviewReasons, index >= 2 && index < 20 ? ['publication-date-needs-review'] : []);
     assert.ok(draft.previousReviews.some(item => assertSourceChecks(item.review.sourceChecks, record.sourceChecks)));
     for (const file of [`content/articles/${record.articleSlug}.md`, `public/images/news/${record.articleSlug}.jpg`]) assert.deepEqual(f.read(f.cwd, file), f.read(f.artifact, `${RECOVERY}/${file}`));
@@ -130,6 +136,7 @@ test('ledger ownership survives a reset outcome even without a prior restored ma
   assert.deepEqual(restoreNewsDrafts(f), { drafts: 1, files: 2 });
   assert.deepEqual(f.manifest().drafts[0].sourceChecks, f.record.sourceChecks);
   assert.equal(f.manifest().drafts[0].previousStatus, 'pending');
+  assert.equal(f.manifest().drafts[0].recoveryReview, undefined);
 });
 
 test('an absent old pending draft does not block recoverable work, but a missing ready draft remains an error', t => {
@@ -175,6 +182,7 @@ test('inherited ownership and full source history survive repeated restoration w
   assert.equal(draft.mustReview, true);
   assert.equal(draft.approved, false);
   assert.equal(draft.originalDate, '2026-10-18');
+  assert.equal(draft.recoveryReview, undefined);
   assert.deepEqual(draft.reviewReasons, ['publication-date-needs-review']);
   assert.deepEqual(next.read(next.cwd, 'content/articles/story.md'), originalBytes);
   assert.deepEqual(next.read(next.cwd, 'content/news-research.json'), nextLedgerBefore);
@@ -227,6 +235,40 @@ test('blocked-only research is recoverable as unapproved work and cannot become 
   assert.deepEqual(restoreNewsDrafts(f), { drafts: 1, files: 2 });
   assert.deepEqual(f.manifest().drafts[0].sourceChecks, f.ledger.candidates[f.record.id].sourceChecks);
   assert.equal(f.manifest().drafts[0].status, 'unreviewed');
+  assert.equal(f.manifest().drafts[0].recoveryReview, undefined);
+});
+
+test('fresh file and selection hashes replace inherited evidence while nested ready history never becomes recoveryReview', t => {
+  const f = fixture(t);
+  const selection = { status: 'selected', selection: { runId: '39767087666' } };
+  f.json(f.cwd, `${RESEARCH}/recovery-selection.json`, selection);
+  f.ledger.candidates[f.record.id].recoveryReview = copy(f.record);
+  f.json(f.artifact, `${RESEARCH}/restored.json`, { day: DAY, drafts: [{ ...f.record, recoveryReview: f.record,
+    sourceFiles: [{ path: 'content/articles/story.md', sha256: '0'.repeat(64) }], previousReviews: [{ source: 'report', review: f.record }] }] });
+  resetOutcome(f, f.record);
+  restoreNewsDrafts(f);
+  const manifest = f.manifest(), [draft] = manifest.drafts;
+  assert.equal(draft.recoveryReview, undefined);
+  assert.equal(draft.status, 'unreviewed');
+  assert.equal(draft.approved, false);
+  assert.equal(draft.mustReview, true);
+  assert.equal(draft.sourceFiles.length, 2);
+  assert.ok(draft.sourceFiles.every(file => file.sha256 === createHash('sha256').update(f.read(f.artifact, `${RECOVERY}/${file.path}`)).digest('hex')));
+  assert.equal(manifest.recoverySource.selectionSha256, createHash('sha256').update(f.read(f.cwd, `${RESEARCH}/recovery-selection.json`)).digest('hex'));
+});
+
+test('current report alone supplies reuse evidence even when ledger and inherited ready reviews disagree', t => {
+  const f = fixture(t);
+  f.json(f.artifact, `${RESEARCH}/restored.json`, { day: DAY, drafts: [{ ...f.record, reviewedAt: '2026-10-18T04:00:00Z' }] });
+  f.report.outcomes[0].reviewedAt = `${DAY}T06:00:00Z`;
+  f.report.outcomes[0].sourceChecks.push({ url: 'https://new.example/current', outcome: 'read' });
+  f.persist();
+  restoreNewsDrafts(f);
+  const [draft] = f.manifest().drafts;
+  assert.equal(draft.recoveryReview.reviewedAt, `${DAY}T06:00:00Z`);
+  assert.deepEqual(draft.recoveryReview.sourceChecks, f.report.outcomes[0].sourceChecks);
+  assert.equal(draft.inherited, true);
+  assert.equal(draft.approved, false);
 });
 
 test('different-day, missing-image and overwrite conflicts fail before copying any drafts', t => {

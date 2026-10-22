@@ -1,5 +1,7 @@
 import { createHash } from 'node:crypto';
 import { canonicalNewsUrl, coveredByArticle, sameNewsStory } from '../news-discover.mjs';
+import { validateResearchPublication } from './news-publication-state.mjs';
+export { validateResearchPublication } from './news-publication-state.mjs';
 
 export const LEDGER_PATH = 'content/news-research.json';
 export const RESEARCH_DIR = '.cache/news-research';
@@ -8,6 +10,7 @@ const REJECT_REASONS = new Set(['duplicate', 'out-of-scope', 'opinion', 'price-c
 const DEFER_REASONS = new Set(['source-blocked', 'needs-corroboration', 'missing-primary-source', 'quality-gate']);
 const sourceHost = url => new URL(url).hostname.toLowerCase().replace(/^(www|m|amp)\./, '');
 const iso = now => new Date(now).toISOString();
+const closed = run => run?.status === 'completed' || run?.publication?.status === 'completed';
 
 export function validateLedger(ledger) {
   if (ledger?.version !== 1 || !ledger.candidates || Array.isArray(ledger.candidates) || !ledger.runs || Array.isArray(ledger.runs)) throw new Error('Invalid news research ledger');
@@ -21,6 +24,7 @@ export function validateLedger(ledger) {
     for (const [id, outcome] of Object.entries(run.outcomes)) {
       if (!run.candidateIds.includes(id) || !['ready', 'published', 'rejected', 'deferred'].includes(outcome.status) || typeof outcome.note !== 'string' || outcome.note.trim().length < 25) throw new Error(`Invalid research outcome ${day}/${id}`);
     }
+    validateResearchPublication(ledger, day);
   }
   return ledger;
 }
@@ -36,7 +40,7 @@ export function readTips(text) {
 export function prepareResearch({ ledger, discovery, articles, tips = [], day, now = Date.now(), preserveDiscovery = false }) {
   validateLedger(ledger);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(day) || new Date(`${day}T00:00:00Z`).toISOString().slice(0, 10) !== day || day > iso(now).slice(0, 10)) throw new Error('Invalid research day');
-  if (ledger.runs[day]?.status === 'completed') return researchReport(ledger, day);
+  if (closed(ledger.runs[day])) return researchReport(ledger, day);
   const run = ledger.runs[day] ||= { day, startedAt: iso(now), status: 'prepared', candidateIds: [], outcomes: {}, baselineSlugs: articles.map(article => article.slug) };
   run.baselineSlugs = [...new Set([...run.baselineSlugs, ...articles.map(article => article.slug)])];
   if (!preserveDiscovery) run.discovery = { feeds: discovery.feeds, total: discovery.total, checkedAt: iso(now) };
@@ -52,8 +56,9 @@ export function prepareResearch({ ledger, discovery, articles, tips = [], day, n
       item = ledger.candidates[id] = { ...incoming, id, status: 'pending', firstSeenAt: iso(now), attempts: 0, sources: incoming.sources || [{ name: incoming.source, url: incoming.link }], expiresAt: iso((Date.parse(incoming.published) || now) + RETRY_HOURS * 3600000) };
     }
     if (incoming.manual) {
+      const resubmitted = !item.manual || item.manualNote !== incoming.title;
       item.manual = true; item.manualNote = incoming.title; item.score = Math.max(item.score || 0, 10);
-      if (['published', 'rejected'].includes(item.status) && item.lastReviewedDay !== day) {
+      if (resubmitted && ['published', 'rejected'].includes(item.status) && item.lastReviewedDay !== day) {
         item.status = 'pending'; item.expiresAt = iso(now + RETRY_HOURS * 3600000); delete item.nextReviewDate;
       }
     }
@@ -81,7 +86,7 @@ export function prepareResearch({ ledger, discovery, articles, tips = [], day, n
 
 export function addResearchCandidate(ledger, day, { title, link, published, source }, now = Date.now()) {
   const run = ledger.runs[day], key = canonicalNewsUrl(link), time = Date.parse(published);
-  if (!run || run.status === 'completed' || !key || typeof title !== 'string' || title.trim().length < 10 || !Number.isFinite(time) || time > now || time < now - 24 * 3600000) throw new Error('Add a dated, fresh source to an open research run');
+  if (!run || closed(run) || !key || typeof title !== 'string' || title.trim().length < 10 || !Number.isFinite(time) || time > now || time < now - 24 * 3600000) throw new Error('Add a dated, fresh source to an open research run');
   let item = Object.values(ledger.candidates).find(item => canonicalNewsUrl(item.link) === key || item.sources.some(entry => canonicalNewsUrl(entry.url) === key));
   if (item) {
     if (!run.candidateIds.includes(item.id) && !['published', 'rejected'].includes(item.status)) run.candidateIds.push(item.id);
@@ -95,7 +100,7 @@ export function addResearchCandidate(ledger, day, { title, link, published, sour
 
 export function reviewCandidate(ledger, day, review, { articles, now = Date.now() } = {}) {
   const run = ledger.runs[day], item = ledger.candidates[review.id];
-  if (!run || run.status === 'completed' || !item || !run.candidateIds.includes(review.id)) throw new Error('Candidate is not in the open daily research queue');
+  if (!run || closed(run) || !item || !run.candidateIds.includes(review.id)) throw new Error('Candidate is not in the open daily research queue');
   if (!['ready', 'rejected', 'deferred'].includes(review.status)) throw new Error('Use ready, rejected or deferred');
   if (typeof review.note !== 'string' || review.note.trim().length < 25) throw new Error('Record a specific research outcome, not a generic status');
   const checks = review.sourceChecks || [];
@@ -137,35 +142,47 @@ export function researchReport(ledger, day) {
   const items = run.candidateIds.map(id => ({ id, title: ledger.candidates[id].title, link: ledger.candidates[id].link, ...(run.outcomes[id] || { status: 'unreviewed' }) }));
   const counts = { published: 0, ready: 0, rejected: 0, deferred: 0, unreviewed: 0 };
   for (const item of items) counts[item.status]++;
-  const discoveryHealthy = run.discovery?.feeds?.some(feed => feed.ok) === true;
+  const discoveryHealthy = run.discovery?.feeds?.some(feed => feed.ok === true) === true;
+  const complete = discoveryHealthy && counts.unreviewed === 0 && !(run.validationErrors?.length);
+  const publication = validateResearchPublication(ledger, day);
   return { day, status: run.status, candidates: items.length, counts, discoveryHealthy, feeds: run.discovery?.feeds || [], validationErrors: run.validationErrors || [],
-    complete: discoveryHealthy && counts.unreviewed === 0 && !(run.validationErrors?.length), outcomes: items };
+    complete, publicationComplete: Boolean(publication) || (run.status === 'completed' && complete && counts.ready === 0),
+    ...(publication ? { publication } : {}), outcomes: items };
 }
 
-export function finalizeResearch(ledger, day, { validationErrors = [], now = Date.now() } = {}) {
+export function finalizeResearch(ledger, day, { validationErrors = [], allowBacklogPublication = false, now = Date.now() } = {}) {
   const run = ledger.runs[day];
-  if (run.status === 'completed') return researchReport(ledger, day);
-  run.validationErrors = validationErrors;
+  if (!run) throw new Error('Missing daily research run');
+  if (closed(run)) return researchReport(ledger, day);
+  if (!Array.isArray(validationErrors) || validationErrors.some(error => typeof error !== 'string')) throw new Error('Invalid article-validation errors');
+  run.validationErrors = [...validationErrors];
+  if (iso(now).slice(0, 10) !== day) run.validationErrors.push('Research day changed during publication');
   const before = researchReport(ledger, day);
-  // Incomplete research keeps every draft queued for the daily retry.
-  if (!before.complete) {
+  if (!before.complete && !(allowBacklogPublication && before.discoveryHealthy && !run.validationErrors.length && before.counts.ready > 0)) {
     run.status = 'incomplete';
-    for (const id of run.candidateIds) if (run.outcomes[id]?.status === 'ready') ledger.candidates[id].lastValidationErrors = validationErrors;
+    for (const id of run.candidateIds) if (run.outcomes[id]?.status === 'ready') ledger.candidates[id].lastValidationErrors = [...run.validationErrors];
     return researchReport(ledger, day);
   }
+  if (before.counts.published) throw new Error('Daily news publication is missing its completion receipt');
   for (const id of run.candidateIds) {
     const outcome = run.outcomes[id];
-    if (outcome.status !== 'ready') continue;
+    if (outcome?.status !== 'ready') continue;
     outcome.status = 'published'; outcome.publishedAt = iso(now);
     Object.assign(ledger.candidates[id], outcome);
   }
-  run.status = 'completed'; run.completedAt = iso(now);
+  run.status = before.complete ? 'completed' : 'incomplete';
+  if (before.complete) run.completedAt = iso(now);
+  else delete run.completedAt;
+  run.publication = { status: 'completed', completedAt: iso(now),
+    publishedIds: run.candidateIds.filter(id => run.outcomes[id]?.status === 'published'),
+    articleSlugs: before.outcomes.filter(item => item.status === 'ready').map(item => item.articleSlug),
+    pendingIds: run.candidateIds.filter(id => !run.outcomes[id] || run.outcomes[id].status === 'deferred') };
   return researchReport(ledger, day);
 }
 
 export function retryUnpublishedDrafts(ledger, day) {
   const run = ledger.runs[day];
-  if (!run || run.status === 'completed') return;
+  if (!run || closed(run)) return;
   for (const id of run.candidateIds) if (run.outcomes[id]?.status === 'ready' || run.outcomes[id]?.mergedInto) {
     ledger.candidates[id].status = 'pending';
     delete ledger.candidates[id].mergedInto;
@@ -177,7 +194,9 @@ export function retryUnpublishedDrafts(ledger, day) {
 export function reportMarkdown(report) {
   const escape = value => String(value || '').replace(/[|\r\n]/g, ' ');
   return `## News research ${report.day}\n\n${report.candidates} candidates: ${report.counts.published} published, ${report.counts.ready} ready, ${report.counts.rejected} rejected, ${report.counts.deferred} deferred, ${report.counts.unreviewed} unreviewed.\n\n` +
-    `Coverage complete: ${report.complete}. Feed responses: ${report.feeds.filter(feed => feed.ok).length}/${report.feeds.length}.\n\n| Candidate | Outcome | Reason | Article / next step |\n|---|---|---|---|\n` +
+    `Publication complete: ${report.publicationComplete}. Coverage complete: ${report.complete}. Feed responses: ${report.feeds.filter(feed => feed.ok).length}/${report.feeds.length}.\n\n` +
+    (report.publicationComplete && (report.counts.unreviewed || report.counts.deferred) ? `Pending next batch: ${report.counts.unreviewed} unreviewed and ${report.counts.deferred} deferred candidates, subject to the existing retry and expiry rules.\n\n` : '') +
+    `| Candidate | Outcome | Reason | Article / next step |\n|---|---|---|---|\n` +
     report.outcomes.map(item => `| ${escape(item.title)} | ${item.status} | ${escape(item.note)} | ${escape(item.articleSlug ? `/${item.articleSlug}` : item.duplicateOf ? `Covered by /${item.duplicateOf}` : (item.retrySearches || []).join('; '))} |`).join('\n') + '\n' +
     report.validationErrors.map(error => `\n- ${escape(error)}`).join('');
 }
