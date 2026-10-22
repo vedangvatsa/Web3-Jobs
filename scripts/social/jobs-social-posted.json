@@ -42574,7 +42574,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "7c0ef0f7-a5d9-4b07-b0ba-bb1ba875da41",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ad9f5b8ebec8224f3bd4ae6"
     }
   ]
 }
