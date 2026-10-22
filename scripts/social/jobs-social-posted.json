@@ -43366,6 +43366,41 @@
       "attemptId": "db3a384d-3d1d-4e8f-a2d8-8eebb88267f1",
       "verification": "verified",
       "postId": "0x4aab123db1f76616cd4c10bab925e0f0f13f809d"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "57a9b0be-cec9-4493-b0c6-f34ea557483a",
+      "verification": "creating"
     }
   ]
 }
