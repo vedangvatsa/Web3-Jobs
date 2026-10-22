@@ -68125,13 +68125,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3e86162ee7dcb7ad739",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T22:46:50.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "verified-event",
-      "note": "TokenPost and Crypto Briefing both confirm the SEC keeps taking Reg Crypto comments after the Oct. 20 close; the SEC public comment page for File No. S7-2026-27 shows letters dated Oct. 21 (Bitwise, Nasdaq, Skadden, AFREF) and the rulemaking page confirms the Aug. 18 issuance and exemption structure. Draft content/articles/regcrypto.md with local hero image.",
+      "note": "Re-read Crypto Briefing (Oct. 20) and TokenPost (Oct. 21, SEC spokesperson); downloaded and read SEC rulemaking page (comments due Oct. 20, Releases 33-11434/34-106150, issued Aug. 18, FR Aug. 21, $5M/$75M exemptions, conditional safe harbor) and SEC comments listing for S7-2026-27 (Oct. 21 letters from AFREF, Bitwise GC, Nasdaq, Skadden; Oct. 20 Coinbase, Ripple, Blockchain Association, DeFi Education Fund, Uniswap Labs and others). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned, hero 225KB.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
@@ -68150,7 +68150,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T11:23:36.785Z",
       "retrySearches": [
         "Find a second independent outlet on SEC Regulation Crypto comment close"
       ],
@@ -135477,6 +135477,31 @@
           ],
           "reviewedAt": "2026-10-22T11:21:11.805Z",
           "articleSlug": "stakingrecord"
+        },
+        "f3e86162ee7dcb7ad739": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing (Oct. 20) and TokenPost (Oct. 21, SEC spokesperson); downloaded and read SEC rulemaking page (comments due Oct. 20, Releases 33-11434/34-106150, issued Aug. 18, FR Aug. 21, $5M/$75M exemptions, conditional safe harbor) and SEC comments listing for S7-2026-27 (Oct. 21 letters from AFREF, Bitwise GC, Nasdaq, Skadden; Oct. 20 Coinbase, Ripple, Blockchain Association, DeFi Education Fund, Uniswap Labs and others). Draft is formatting clean, image audit passes, no quality failures, slug regcrypto unowned, hero 225KB.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/36529",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/2026/08/s7-2026-27",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T11:23:36.785Z",
+          "articleSlug": "regcrypto"
         }
       },
       "baselineSlugs": [
