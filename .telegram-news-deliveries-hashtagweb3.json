@@ -1954,5 +1954,36 @@
     "slotKey": "2026-10-21:evening",
     "messageId": 155876,
     "sentAt": "2026-10-21T19:34:58.161Z"
+  },
+  "db1a8645-a981-4fb8-aeef-ceff5cc9f289": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T11:33:30.209Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OKX Expands Security Reimbursement Program to US Users",
+        "summary": "American clients can receive up to $100,000 in discretionary coverage after turning on required account security settings.",
+        "link": "https://hashtagweb3.com/okxshield?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX Shield extends customer reimbursements to US users"
+      },
+      {
+        "index": -1,
+        "headline": "Gibraltar Grants Revolut DLT License for Crypto Expansion",
+        "summary": "The approval allows the fintech company to offer cryptocurrency services in new global markets.",
+        "link": "https://hashtagweb3.com/revolutgib?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Revolut gets Gibraltar DLT licence for international crypto expansion"
+      },
+      {
+        "index": -1,
+        "headline": "Utah sues Kalshi and Susquehanna over prediction markets",
+        "summary": "State officials label the platform an illegal gambling operation and demand $60 million in restitution.",
+        "link": "https://hashtagweb3.com/utahkalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Utah sues Kalshi and Susquehanna firms over prediction market betting"
+      }
+    ],
+    "slotKey": "2026-10-22:afternoon"
   }
 }
