@@ -39944,6 +39944,46 @@
       "attemptId": "ba955d61-3d00-4bae-b7cf-ef48b2d52cf5",
       "verification": "verified",
       "postId": "0xc502492566d4e73fc275eb755100b8c0daa5e2e1"
+    },
+    {
+      "slug": "aso42",
+      "company": "Galaxy Digital",
+      "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T05:27:02.350Z",
+      "expectedText": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+      "snapshot": {
+        "id": "6223138004",
+        "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6223138004",
+        "date": "2026-10-13T11:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "India",
+        "department": "Finance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso42"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Associate, Financial Planning and Analysis (FP&A) - Mumbai: https://hashtagweb3.com/aso42/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso42/li?og=7",
+          "title": "Associate, Financial Planning and Analysis (FP&A) - Mumbai at Galaxy Digital",
+          "description": "Join Galaxy Digital as Associate, Financial Planning and. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso42.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "7fabb6c3-fa79-483e-b445-e3f039140405",
+      "verification": "creating"
     }
   ]
 }
