@@ -1,4 +1,5 @@
 import { setTimeout as delay } from 'node:timers/promises';
+import { NEWS_SOURCE_REQUEST_HEADERS } from './news-source-request.mjs';
 
 export async function checkNewsSourceLinks(urls, { fetchFn = fetch, wait = delay, timeoutMs = 15000 } = {}) {
   const errors = [];
@@ -9,7 +10,7 @@ export async function checkNewsSourceLinks(urls, { fetchFn = fetch, wait = delay
     } catch { errors.push(`Source link unavailable: ${url}`); continue; }
     for (let attempt = 0; attempt < 2; attempt++) {
       try {
-        const response = await fetchFn(url, { headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)' }, signal: AbortSignal.timeout(timeoutMs) });
+        const response = await fetchFn(url, { headers: NEWS_SOURCE_REQUEST_HEADERS, signal: AbortSignal.timeout(timeoutMs) });
         await response.body?.cancel().catch(() => {});
         if (response.status === 200) break;
         const retryAfter = response.headers.get('retry-after');

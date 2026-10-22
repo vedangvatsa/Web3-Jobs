@@ -335,7 +335,7 @@ test('persisted feedback refuses unsafe paths without rewriting ledger, reports 
 });
 
 function realAudits(t, f, { status = 200, typeError = false } = {}) {
-  for (const file of ['validate-news-drafts.ts', 'audit-article-quality.ts', 'audit-article-images.ts', 'audit-article-duplicates.ts', 'audit-articles-formatting.ts', 'lib/news-source-links.mjs']) {
+  for (const file of ['validate-news-drafts.ts', 'audit-article-quality.ts', 'audit-article-images.ts', 'audit-article-duplicates.ts', 'audit-articles-formatting.ts', 'lib/news-source-links.mjs', 'lib/news-source-request.mjs']) {
     f.write(`scripts/${file}`, fs.readFileSync(path.resolve('scripts', file)));
   }
   f.write('next.config.mjs', 'export default { images: { remotePatterns: [] } };');

@@ -1,8 +1,20 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { checkNewsSourceLinks } from './news-source-links.mjs';
+import { NEWS_SOURCE_REQUEST_HEADERS } from './news-source-request.mjs';
+import { SOURCE_READINESS_USER_AGENT } from './news-source-readiness.mjs';
 
 const url = 'https://example.com/source';
+
+test('publication checks use the same identifying request headers as source readiness', async () => {
+  assert.equal(NEWS_SOURCE_REQUEST_HEADERS['User-Agent'], SOURCE_READINESS_USER_AGENT);
+  const errors = await checkNewsSourceLinks([url], { fetchFn: async (_url, options) => {
+    assert.deepEqual(options.headers, NEWS_SOURCE_REQUEST_HEADERS);
+    assert.match(options.headers.Accept, /text\/html/);
+    return new Response('Actual source response', { status: 200 });
+  } });
+  assert.deepEqual(errors, []);
+});
 
 test('a transient network or server failure gets one retry and still requires HTTP 200', async () => {
   for (const first of [() => { throw new Error('Temporary network failure'); }, () => new Response('', { status: 503 })]) {

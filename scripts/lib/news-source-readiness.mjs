@@ -4,8 +4,9 @@ import https from 'node:https';
 import { isIP } from 'node:net';
 import { coveredByArticle } from '../news-discover.mjs';
 import { validateLedger } from './news-research.mjs';
+import { NEWS_SOURCE_REQUEST_HEADERS } from './news-source-request.mjs';
 
-export const SOURCE_READINESS_USER_AGENT = 'HashtagWeb3NewsSourceReadiness/1.0 (+https://hashtagweb3.com)';
+export const SOURCE_READINESS_USER_AGENT = NEWS_SOURCE_REQUEST_HEADERS['User-Agent'];
 const BLOCKED = new Set([401, 403, 429, 451]);
 const UNAVAILABLE = new Set([404, 410]);
 const actualOutcomes = new Set(['read', 'blocked', 'unavailable']);
@@ -101,10 +102,7 @@ async function probe(url, { request, lookupFn, timeoutMs, now }) {
         return { url, attempted: false, status: null, checkedAt: null, availability: 'unsafe-url', detail: 'DNS included a non-public address; no GET was sent.' };
       }
       attempted = true;
-      const response = await request(url, { address: addresses[0], signal, headers: {
-        'User-Agent': SOURCE_READINESS_USER_AGENT,
-        Accept: 'text/html,application/xhtml+xml,application/json;q=0.8,*/*;q=0.5',
-      } });
+      const response = await request(url, { address: addresses[0], signal, headers: NEWS_SOURCE_REQUEST_HEADERS });
       signal.throwIfAborted();
       const check = { url, attempted: true, method: 'GET', checkedAt: new Date(now()).toISOString(), status: response.status };
       const retryAfter = header(response, 'retry-after');
