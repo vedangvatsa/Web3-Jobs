@@ -2891,5 +2891,52 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 155887,
     "sentAt": "2026-10-22T11:31:43.646Z"
+  },
+  "e967d655-884a-4a42-acf0-e6636c00a23d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T19:31:55.732Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316822252",
+        "slug": "ethvan-weekly-meetup",
+        "name": "EthVan weekly meetup",
+        "startDate": "2026-10-22T18:00:00-07:00",
+        "keys": [
+          "mu-316822252",
+          "page:ethvan-weekly-meetup:2026-10-23",
+          "url:meetup.com/ethvancouver-meetup-group/events/316822252:2026-10-23",
+          "event:ethvanweeklymeetup:2026-10-23:vancouver"
+        ]
+      },
+      {
+        "id": "discovery-evt-TiZnPxscDelGhid",
+        "slug": "eth-shenzhen",
+        "name": "ETH Shenzhen 2026",
+        "startDate": "2026-10-24T06:00:00.000Z",
+        "keys": [
+          "discovery-evt-tiznpxscdelghid",
+          "page:eth-shenzhen:2026-10-24",
+          "luma:evt-tiznpxscdelghid",
+          "luma-url:/7ggxnhbh",
+          "event:ethshenzhen2026:2026-10-24:shenzhen"
+        ]
+      },
+      {
+        "id": "luma-evt-sAAM7t4xPhiGJtV",
+        "slug": "bitgo-x-giottus-crypto-custody-action",
+        "name": "BitGo x Giottus: Crypto Custody in Action",
+        "startDate": "2026-10-24T10:00:00.000Z",
+        "keys": [
+          "luma-evt-saam7t4xphigjtv",
+          "page:bitgo-x-giottus-crypto-custody-action:2026-10-24",
+          "luma:evt-saam7t4xphigjtv",
+          "luma-url:/39txuq8y",
+          "event:bitgoxgiottuscryptocustodyinaction:2026-10-24:bengaluru"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-22:evening"
   }
 }
