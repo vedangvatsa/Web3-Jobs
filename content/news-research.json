@@ -67775,25 +67775,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f0bff581db089300777",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T16:31:24.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article; candidate URL returns HTTP 403 and was recorded blocked.",
+      "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article. Candidate URL returns HTTP 403.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T12:36:49.891Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
       ],
       "lastReviewedDay": "2026-10-22",
-      "duplicateOf": "stakingrecord"
+      "duplicateOf": "stakingrecord",
+      "mergedInto": "665905ab039e4e58273a"
     },
     "19d3f2e2d40134eb80c7": {
       "source": "Bitcoin Magazine",
@@ -76508,13 +76509,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ba9af4928788536e6a1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T16:46:04.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Decrypt + CoinDesk; Labs consolidates MyDoge, DogeOS, and Such App under Jefferson.",
+      "note": "Re-read Decrypt (Oct. 21) and CoinDesk (Oct. 21): Dogecoin Labs formed with Foundation, consolidates MyDoge/DogeOS/Such App under CEO Jordan Jefferson, House of Doge contributed IP and teams, MyDoge 500k+ users, DogeOS testnet Sept. 30, DOGE ~$0.084. GlobeNewswire primary returned 403; removed that link and attributed the Jefferson quote via Decrypt. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 240KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
@@ -76523,9 +76524,13 @@
         {
           "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.globenewswire.com/news-release/2026/10/21/3385425/0/en/dogecoin-labs-unites-dogecoin-s-product-teams-technology-and-applications-to-lead-a-new-chapter-for-doge.html",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-22T12:36:49.889Z",
       "articleSlug": "dogecoinlabs",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -76585,13 +76590,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf7fdde8b23e641d464d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T15:35:16.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Decrypt + Cointelegraph; government unplug, foundation failure, Cloudflare attacks.",
+      "note": "Re-read Decrypt (Oct. 21), Cointelegraph (Oct. 22) and PHP.net security advisory: CVE-2026-109618/109619, CVSS 9.2, versions 8.5.12/8.4.27/8.3.36/8.2.35, governments offline (Finland Valtori, Netherlands, France, Germany ITZBund), Cloudflare CTO early attacks, SlowMist 793 domains, Coinbase/BitGo no exposure, Intersect Members Area offline. Reuters link removed (HTTP 401); attribution kept via Cointelegraph which cites Reuters. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 286KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
@@ -76600,9 +76605,17 @@
         {
           "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.php.net/archive/2026.php",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:17:38.090Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "articleSlug": "phppanic",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -76794,13 +76807,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "8ba60470835f49e0d199",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T14:21:15.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Polkadot forum primary + Crypto Briefing + CoinMarketCap + CryptoTicker; four extension versions leaked private keys, 17,286 DOT reported stolen across eight users.",
+      "note": "Re-read Polkadot Community Foundation forum notice (Oct. 21), Crypto Briefing, CoinMarketCap and CryptoTicker: four extension versions (3.0.1/3.0.3/3.0.4/3.0.5) leaked private keys via 'TON ecosystem' PR from Feb. 19 2025, active to Oct. 10 2026, 17,286 DOT stolen across eight users, ~6,000 Chrome installs. The Defiant still 403. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 129KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://forum.polkadot.network/t/security-notice-fearless-wallet-browser-extension-leaked-private-keys/19058",
@@ -76823,7 +76836,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "articleSlug": "fearlesswallet",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -76996,13 +77009,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "5bcd28dec5ba9a26fdd9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T12:10:39.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "CoinDesk + Cointelegraph; Shinhan-SBI yen stablecoin travel and trade settlement pact.",
+      "note": "Re-read CoinDesk (Oct. 21) and Cointelegraph (Oct. 21): Shinhan Card pact with SBI VC Trade and SBI XDC Network APAC signed Tuesday Oct. 21, announced Wednesday, card payments/wallet transfers/trade settlement, JPYSC 20.1B yen ~$127M as of Sept. 7, Shinhan 20M cardholders, Visa August agreement, April PoC. Fixed JNTO attribution to match Cointelegraph wording. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 134KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
@@ -77013,7 +77026,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:24:00.814Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "articleSlug": "shinhanstable",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -77082,22 +77095,23 @@
         "The Block"
       ],
       "id": "33a328eb54f544deffa7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-24T12:06:23.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "duplicate",
-      "note": "Cointelegraph covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article.",
+      "note": "Cointelegraph (Oct. 21) covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article. Same event, same entities, no new development.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T09:31:30.099Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "duplicateOf": "zodia",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "mergedInto": "ce8fc79a80fcd65b9473"
     },
     "39df26d5c4457ca6f06a": {
       "source": "The Defiant",
@@ -77545,13 +77559,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b17d13d1a00a8a1c66f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T05:56:29.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "BNM primary press release + Cointelegraph; SSDS+ tokenized bond and sukuk depository integrated with RENTAS+ around-the-clock settlement.",
+      "note": "Re-read BNM primary press release (Oct. 20, embargo 17:00 local) and Cointelegraph (Oct. 21): SSDS+ launch for tokenised bonds and sukuk, in-house cloud/DLT, builds on SSDS, integrated with RENTAS+ for around-the-clock settlement, Governor quote verified, Nov. 2025 tokenization roadmap, Feb. Digital Asset Innovation Hub tests. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 285KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.bnm.gov.my/-/ssdsplus",
@@ -77562,7 +77576,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "articleSlug": "malayssds",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -77630,13 +77644,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0dcd71cd0d00895c9c79",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T05:15:00.000Z",
       "lastSeenAt": "2026-10-22T03:35:27.115Z",
       "reason": "verified-event",
-      "note": "Cointelegraph + Cloudflare blog; eight eMudhra certs blocked, CertiK warns crypto apps may stay exposed.",
+      "note": "Re-read Cointelegraph (Oct. 21) on tech blocks and CertiK warning, plus Cloudflare primary blog (Oct. 20): eight eMudhra intermediate certs, keys 'flawed' and 'trivial to exploit' per Mozilla's Dennis Jackson, Chrome blocked Saturday, Apple Monday, Microsoft Tuesday, Cloudflare updates Tuesday, CertiK's Peiyu Wang on crypto bot exposure, DigiNotar 2011 recall. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 122KB, all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites",
@@ -77651,7 +77665,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:24:00.815Z",
+      "reviewedAt": "2026-10-22T12:36:49.890Z",
       "articleSlug": "emudhra",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135871,6 +135885,164 @@
           ],
           "reviewedAt": "2026-10-22T12:20:13.230Z",
           "articleSlug": "zodia"
+        },
+        "2ba9af4928788536e6a1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt (Oct. 21) and CoinDesk (Oct. 21): Dogecoin Labs formed with Foundation, consolidates MyDoge/DogeOS/Such App under CEO Jordan Jefferson, House of Doge contributed IP and teams, MyDoge 500k+ users, DogeOS testnet Sept. 30, DOGE ~$0.084. GlobeNewswire primary returned 403; removed that link and attributed the Jefferson quote via Decrypt. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 240KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.globenewswire.com/news-release/2026/10/21/3385425/0/en/dogecoin-labs-unites-dogecoin-s-product-teams-technology-and-applications-to-lead-a-new-chapter-for-doge.html",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.889Z",
+          "articleSlug": "dogecoinlabs"
+        },
+        "cf7fdde8b23e641d464d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Decrypt (Oct. 21), Cointelegraph (Oct. 22) and PHP.net security advisory: CVE-2026-109618/109619, CVSS 9.2, versions 8.5.12/8.4.27/8.3.36/8.2.35, governments offline (Finland Valtori, Netherlands, France, Germany ITZBund), Cloudflare CTO early attacks, SlowMist 793 domains, Coinbase/BitGo no exposure, Intersect Members Area offline. Reuters link removed (HTTP 401); attribution kept via Cointelegraph which cites Reuters. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 286KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.php.net/archive/2026.php",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "articleSlug": "phppanic"
+        },
+        "8ba60470835f49e0d199": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Polkadot Community Foundation forum notice (Oct. 21), Crypto Briefing, CoinMarketCap and CryptoTicker: four extension versions (3.0.1/3.0.3/3.0.4/3.0.5) leaked private keys via 'TON ecosystem' PR from Feb. 19 2025, active to Oct. 10 2026, 17,286 DOT stolen across eight users, ~6,000 Chrome installs. The Defiant still 403. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 129KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://forum.polkadot.network/t/security-notice-fearless-wallet-browser-extension-leaked-private-keys/19058",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/polkadot-fearless-wallet-private-key-leak/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/fearless-wallet-extension-leaked-private-keys-polkadot",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/polkadot-fearless-wallet-private-key-leak/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "articleSlug": "fearlesswallet"
+        },
+        "5bcd28dec5ba9a26fdd9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CoinDesk (Oct. 21) and Cointelegraph (Oct. 21): Shinhan Card pact with SBI VC Trade and SBI XDC Network APAC signed Tuesday Oct. 21, announced Wednesday, card payments/wallet transfers/trade settlement, JPYSC 20.1B yen ~$127M as of Sept. 7, Shinhan 20M cardholders, Visa August agreement, April PoC. Fixed JNTO attribution to match Cointelegraph wording. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 134KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "articleSlug": "shinhanstable"
+        },
+        "3b17d13d1a00a8a1c66f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read BNM primary press release (Oct. 20, embargo 17:00 local) and Cointelegraph (Oct. 21): SSDS+ launch for tokenised bonds and sukuk, in-house cloud/DLT, builds on SSDS, integrated with RENTAS+ for around-the-clock settlement, Governor quote verified, Nov. 2025 tokenization roadmap, Feb. Digital Asset Innovation Hub tests. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 285KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bnm.gov.my/-/ssdsplus",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "articleSlug": "malayssds"
+        },
+        "0dcd71cd0d00895c9c79": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph (Oct. 21) on tech blocks and CertiK warning, plus Cloudflare primary blog (Oct. 20): eight eMudhra intermediate certs, keys 'flawed' and 'trivial to exploit' per Mozilla's Dennis Jackson, Chrome blocked Saturday, Apple Monday, Microsoft Tuesday, Cloudflare updates Tuesday, CertiK's Peiyu Wang on crypto bot exposure, DigiNotar 2011 recall. Front-matter dates updated to 2026-10-22. Formatting clean, image audit passes, slug unowned, hero 122KB, all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "articleSlug": "emudhra"
+        },
+        "33a328eb54f544deffa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph (Oct. 21) covers the same Standard Chartered definitive agreement to acquire Zodia Custody already reported in the ready zodia article. Same event, same entities, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.890Z",
+          "duplicateOf": "zodia",
+          "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "0f0bff581db089300777": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article. Candidate URL returns HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:36:49.891Z",
+          "duplicateOf": "stakingrecord",
+          "mergedInto": "665905ab039e4e58273a"
         }
       },
       "baselineSlugs": [
