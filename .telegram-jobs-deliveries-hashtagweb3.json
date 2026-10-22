@@ -3666,5 +3666,78 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 155888,
     "sentAt": "2026-10-22T11:32:12.629Z"
+  },
+  "34985288-a7b2-454a-8fe7-39c1382855d4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-22T19:32:21.587Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8015453003",
+          "title": "Assistant Relationship Manager - OKX SG",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8015453003",
+          "date": "2026-10-07T04:18:34-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso43"
+        },
+        "key": "8015453003",
+        "slug": "aso43",
+        "url": "https://hashtagweb3.com/aso43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Assistant Relationship Manager"
+      },
+      {
+        "snapshot": {
+          "id": "dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+          "title": "Enterprise Sales Lead, AI",
+          "company": "Mysten Labs",
+          "link": "https://jobs.ashbyhq.com/mystenlabs/dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+          "date": "2026-10-20T20:43:06.051+00:00",
+          "source": "Ashby: Mysten Labs [mystenlabs]",
+          "location": "USA (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Partnerships",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls321"
+        },
+        "key": "dbd326e2-3fa5-4a52-8285-b53ea1a21b4b",
+        "slug": "sls321",
+        "url": "https://hashtagweb3.com/sls321?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mysten Labs",
+        "title": "Enterprise Sales Lead"
+      },
+      {
+        "snapshot": {
+          "id": "6219278004",
+          "title": "ERM Program Manager",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6219278004",
+          "date": "2026-10-08T06:26:36-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Americas",
+          "department": "Information Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr85"
+        },
+        "key": "6219278004",
+        "slug": "mgr85",
+        "url": "https://hashtagweb3.com/mgr85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "ERM Program Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/aso43?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant Relationship Manager - OKX SG</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sls321?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, AI</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">ERM Program Manager</a>",
+    "slotKey": "2026-10-22:evening"
   }
 }
