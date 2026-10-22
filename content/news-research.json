@@ -72820,11 +72820,42 @@
       ],
       "alsoCoveredBy": [],
       "id": "adebfc2118208e55e78a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:09:26.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Cointelegraph + Crypto Briefing + CoinGape + Inside Crypto + Bitcoin Sistemi; joint Oct. 20 letter from six chains asking SEC to put digital commodity definition in Regulation Crypto Assets operative text.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cardano-foundation-sec-digital-commodity-letter/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coingape.com/ripple-cardano-chainlink-hedera-stellar-aptos-avalanche-support-sec-regulation-crypto-assets/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://insidecrypto.net/chainlink-cardano-and-six-blockchain-groups-urged-sec-to-codify-digital-commodity-status/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.bitcoinsistemi.com/a-joint-application-has-been-filed-with-the-sec-for-six-altcoins-including-cardano-will-the-sec-take/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/about/sec-proposes-regulation-crypto-assets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "articleSlug": "digitalcommodity",
+      "lastReviewedDay": "2026-10-22"
     },
     "503a86e0687b3af255f8": {
       "source": "Unchained",
@@ -76361,11 +76392,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "8ba60470835f49e0d199",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T14:21:15.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "Polkadot forum primary + Crypto Briefing + CoinMarketCap + CryptoTicker; four extension versions leaked private keys, 17,286 DOT reported stolen across eight users.",
+      "sourceChecks": [
+        {
+          "url": "https://forum.polkadot.network/t/security-notice-fearless-wallet-browser-extension-leaked-private-keys/19058",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/polkadot-fearless-wallet-private-key-leak/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/fearless-wallet-extension-leaked-private-keys-polkadot",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoticker.io/en/polkadot-fearless-wallet-private-key-leak/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "articleSlug": "fearlesswallet",
+      "lastReviewedDay": "2026-10-22"
     },
     "3ec7857029a5956bcb4e": {
       "source": "Bitcoin Magazine",
@@ -77067,11 +77125,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b17d13d1a00a8a1c66f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T05:56:29.000Z",
-      "lastSeenAt": "2026-10-22T03:35:27.115Z"
+      "lastSeenAt": "2026-10-22T03:35:27.115Z",
+      "reason": "verified-event",
+      "note": "BNM primary press release + Cointelegraph; SSDS+ tokenized bond and sukuk depository integrated with RENTAS+ around-the-clock settlement.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bnm.gov.my/-/ssdsplus",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-22T04:49:22.019Z",
+      "articleSlug": "malayssds",
+      "lastReviewedDay": "2026-10-22"
     },
     "99b116b538836771f9a3": {
       "source": "The Defiant",
@@ -132968,6 +133041,85 @@
           "reviewedAt": "2026-10-22T04:40:46.045Z",
           "duplicateOf": "aeromerge",
           "mergedInto": "9258bd8525e496ce85ad"
+        },
+        "8ba60470835f49e0d199": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Polkadot forum primary + Crypto Briefing + CoinMarketCap + CryptoTicker; four extension versions leaked private keys, 17,286 DOT reported stolen across eight users.",
+          "sourceChecks": [
+            {
+              "url": "https://forum.polkadot.network/t/security-notice-fearless-wallet-browser-extension-leaked-private-keys/19058",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/polkadot-fearless-wallet-private-key-leak/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/fearless-wallet-extension-leaked-private-keys-polkadot",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/polkadot-fearless-wallet-private-key-leak/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:49:22.019Z",
+          "articleSlug": "fearlesswallet"
+        },
+        "3b17d13d1a00a8a1c66f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "BNM primary press release + Cointelegraph; SSDS+ tokenized bond and sukuk depository integrated with RENTAS+ around-the-clock settlement.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bnm.gov.my/-/ssdsplus",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:49:22.019Z",
+          "articleSlug": "malayssds"
+        },
+        "adebfc2118208e55e78a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cointelegraph + Crypto Briefing + CoinGape + Inside Crypto + Bitcoin Sistemi; joint Oct. 20 letter from six chains asking SEC to put digital commodity definition in Regulation Crypto Assets operative text.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cardano-foundation-sec-digital-commodity-letter/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coingape.com/ripple-cardano-chainlink-hedera-stellar-aptos-avalanche-support-sec-regulation-crypto-assets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://insidecrypto.net/chainlink-cardano-and-six-blockchain-groups-urged-sec-to-codify-digital-commodity-status/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.bitcoinsistemi.com/a-joint-application-has-been-filed-with-the-sec-for-six-altcoins-including-cardano-will-the-sec-take/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/about/sec-proposes-regulation-crypto-assets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T04:49:22.019Z",
+          "articleSlug": "digitalcommodity"
         }
       },
       "baselineSlugs": [
