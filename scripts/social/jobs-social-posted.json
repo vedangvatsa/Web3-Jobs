@@ -39697,7 +39697,8 @@
       },
       "account": "channel:base",
       "attemptId": "0264af02-9dc5-40c5-8695-ae377821dca8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9e4778a9c49e18c343bd4d74faee4ab2c88728fb"
     }
   ]
 }
