@@ -73088,13 +73088,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "c56190794627ccdc754f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T16:23:44.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Re-read CoinDesk (Oct. 21) and Bitcoin Magazine (Oct. 21): White House official sourcing, $833M halted/503 sites/9,000 victims, cabinet attendee list, March EO and DHS memo, FBI IC3 2025 figures (1M+ complaints, 181,565 crypto complaints, $11.366B, $7.2B investment scams, 60+ $4.43B, ATM $389M, recovery $1.4B), Cambodia/Laos/Burma compounds, Scam Center Strike Force composition, Operation Level Up 3,780/$225.8M, Chainalysis $154B, Anna Kelly quote all verified. Repairs: front-matter dates to 2026-10-22; Reuters hyperlink removed (now HTTP 401; attribution kept via Bitcoin Magazine and CoinDesk which both cite the official's Reuters interview); 'Wednesday' anchors made explicit as Oct. 21 for the Thursday publication. Formatting clean, image audit passes, slug trumpscam unowned, hero 213KB.",
+      "note": "Re-reviewed restored draft against current sources. Re-read CoinDesk Oct. 21 (White House official sourcing, $833M halted/503 sites/9,000 victims, Scam Center Strike Force, Xinbi read-more) and Bitcoin Magazine Oct. 21 (cabinet attendees, March EO and DHS memo, FBI IC3 2025 figures 181,565 complaints/$11.366B/$7.2B investment scams/$4.43B age 60+/$389M ATM/$1.4B recovery, Cambodia/Laos/Burma compounds, Operation Level Up 3,780/$225.8M, Chainalysis $154B, Anna Kelly quote). Repairs: unlinked June-2025 Philippines claim corrected to May 29 2025 Funnull OFAC sanctions with primary Treasury link; unlinked Xinbi claim corrected to Sept. 9 2026 designation with primary Treasury link; unattributed White House strike-force description now attributed to Treasury primary. Both Treasury releases HTTP 200 and read. 736 words; slug unowned; quality audit clean; hero 218KB.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
@@ -73103,9 +73103,17 @@
         {
           "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
           "outcome": "read"
+        },
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sb0149",
+          "outcome": "read"
+        },
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sb0624",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T11:39:46.775Z",
+      "reviewedAt": "2026-10-22T13:59:56.223Z",
       "articleSlug": "trumpscam",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": [
@@ -135893,6 +135901,31 @@
           ],
           "reviewedAt": "2026-10-22T13:58:02.315Z",
           "articleSlug": "cardanomica"
+        },
+        "c56190794627ccdc754f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-reviewed restored draft against current sources. Re-read CoinDesk Oct. 21 (White House official sourcing, $833M halted/503 sites/9,000 victims, Scam Center Strike Force, Xinbi read-more) and Bitcoin Magazine Oct. 21 (cabinet attendees, March EO and DHS memo, FBI IC3 2025 figures 181,565 complaints/$11.366B/$7.2B investment scams/$4.43B age 60+/$389M ATM/$1.4B recovery, Cambodia/Laos/Burma compounds, Operation Level Up 3,780/$225.8M, Chainalysis $154B, Anna Kelly quote). Repairs: unlinked June-2025 Philippines claim corrected to May 29 2025 Funnull OFAC sanctions with primary Treasury link; unlinked Xinbi claim corrected to Sept. 9 2026 designation with primary Treasury link; unattributed White House strike-force description now attributed to Treasury primary. Both Treasury releases HTTP 200 and read. 736 words; slug unowned; quality audit clean; hero 218KB.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+              "outcome": "read"
+            },
+            {
+              "url": "https://home.treasury.gov/news/press-releases/sb0149",
+              "outcome": "read"
+            },
+            {
+              "url": "https://home.treasury.gov/news/press-releases/sb0624",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T13:59:56.223Z",
+          "articleSlug": "trumpscam"
         }
       },
       "baselineSlugs": [
