@@ -41727,6 +41727,47 @@
       "verification": "verified",
       "postId": "6ad9f4f2b3b4a1914c96e0b8",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7518998490455302144"
+    },
+    {
+      "slug": "tok",
+      "company": "Talos",
+      "title": "Head of Tokenization",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T11:32:14.112Z",
+      "expectedText": "Talos is hiring Head of Tokenization: https://hashtagweb3.com/tok/li?og=7",
+      "snapshot": {
+        "id": "c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "title": "Head of Tokenization",
+        "company": "Talos",
+        "link": "https://jobs.ashbyhq.com/Talos-Trading/c0ca6bd8-cf64-42c5-9378-d20003e66fae",
+        "date": "2026-10-09T08:21:44.060+00:00",
+        "source": "Ashby: Talos [Talos-Trading]",
+        "location": "Hybrid (London, NYC)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tok"
+      },
+      "payload": {
+        "text": "Talos is hiring Head of Tokenization: https://hashtagweb3.com/tok/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/tok/li?og=7",
+          "title": "Head of Tokenization at Talos",
+          "description": "Join Talos as Head of Tokenization. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/tok.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "274a49a4-0d07-4a7e-8da1-2ec5b7d278fc",
+      "verification": "creating"
     }
   ]
 }
