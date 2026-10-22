@@ -42533,7 +42533,8 @@
       },
       "account": "channel:growth",
       "attemptId": "37871365-242b-4311-b57f-a80ee437436e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4e17470d55b5f3a27082d5380e1e071435a581d4"
     }
   ]
 }
