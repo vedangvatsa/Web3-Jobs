@@ -74307,28 +74307,28 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fce1aae7d056893b050",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T16:11:52.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Bitcoin Magazine + Webull PRNewswire + iCoin Market; Kalshi Katalyst loans, BitGo Bank and Trust collateral, Webull Nov perps via KalshiEX.",
+      "note": "Re-read Bitcoin Magazine, iCoin Market and the Webull PR Newswire release. Tri-party structure, GENIUS collateral, Webull November date all verified; added Bloomberg date and Polymarket competitive context. 676 body words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
           "outcome": "read"
         },
         {
-          "url": "https://www.prnewswire.com/news-releases/webull-puts-a-date-on-perpetual-futures-us-rollout-begins-in-november-302914044.html",
+          "url": "https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/",
           "outcome": "read"
         },
         {
-          "url": "https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/",
+          "url": "https://www.prnewswire.com/news-releases/webull-puts-a-date-on-perpetual-futures-us-rollout-begins-in-november-302914044.html",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T04:40:46.044Z",
+      "reviewedAt": "2026-10-22T12:18:56.181Z",
       "articleSlug": "kalshibitgo",
       "lastReviewedDay": "2026-10-22",
       "lastValidationErrors": []
@@ -135829,6 +135829,27 @@
           ],
           "reviewedAt": "2026-10-22T12:17:15.454Z",
           "articleSlug": "eclairpatches"
+        },
+        "4fce1aae7d056893b050": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine, iCoin Market and the Webull PR Newswire release. Tri-party structure, GENIUS collateral, Webull November date all verified; added Bloomberg date and Polymarket competitive context. 676 body words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+              "outcome": "read"
+            },
+            {
+              "url": "https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/webull-puts-a-date-on-perpetual-futures-us-rollout-begins-in-november-302914044.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-22T12:18:56.181Z",
+          "articleSlug": "kalshibitgo"
         }
       },
       "baselineSlugs": [
