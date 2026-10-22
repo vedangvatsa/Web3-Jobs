@@ -43400,7 +43400,8 @@
       },
       "account": "channel:growth",
       "attemptId": "57a9b0be-cec9-4493-b0c6-f34ea557483a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0e84e0e119f8f4bcf4ff7eb2f74230b463cd173b"
     }
   ]
 }
