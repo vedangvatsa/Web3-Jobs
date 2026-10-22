@@ -68527,25 +68527,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0b5ba7979f5eaf98a43",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T16:24:01.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Retried the deferred Optimum lead: The Defiant still 403. Verified via CryptoSlate Chainwire press release (Oct. 20: 16 operators, ~22k keys, 1.4M+ ETH, ether.fi mandate for all 12 operators, Medard/Kopp/Spina quotes) and Cryptonomist independent report (Oct. 20: sidecar/RLNC mechanics, 2.42x/7.88x mainnet claims vs 6-20x Hoodi testnet product page, ether.fi published nothing on its own channels, API key caveat). Drafted content/articles/mump2p.md (660+ words, hosts: cryptoslate.com, en.cryptonomist.ch); hero Muriel Medard photo via Wikimedia (CC BY 4.0), 239KB. DefiLlama dashboard is JS-rendered and was not cited.",
       "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T10:22:22.566Z",
       "retrySearches": [
         "Find independent reporting on: Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "mump2p"
     },
     "f29ccd0c6d10f80f190b": {
       "source": "Decrypt",
@@ -133604,6 +133612,27 @@
           ],
           "reviewedAt": "2026-10-22T10:17:48.932Z",
           "articleSlug": "honeyb"
+        },
+        "a0b5ba7979f5eaf98a43": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Retried the deferred Optimum lead: The Defiant still 403. Verified via CryptoSlate Chainwire press release (Oct. 20: 16 operators, ~22k keys, 1.4M+ ETH, ether.fi mandate for all 12 operators, Medard/Kopp/Spina quotes) and Cryptonomist independent report (Oct. 20: sidecar/RLNC mechanics, 2.42x/7.88x mainnet claims vs 6-20x Hoodi testnet product page, ether.fi published nothing on its own channels, API key caveat). Drafted content/articles/mump2p.md (660+ words, hosts: cryptoslate.com, en.cryptonomist.ch); hero Muriel Medard photo via Wikimedia (CC BY 4.0), 239KB. DefiLlama dashboard is JS-rendered and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T10:22:22.566Z",
+          "articleSlug": "mump2p"
         }
       },
       "baselineSlugs": [
