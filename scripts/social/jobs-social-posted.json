@@ -40773,7 +40773,8 @@
       },
       "account": "channel:design",
       "attemptId": "c9633ffe-0a4e-4dc7-80e5-cd2860ecbba1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8b61868bcd967c20b5c9b4e9a43394cff08872df"
     }
   ]
 }
