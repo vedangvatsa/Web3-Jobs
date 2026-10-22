@@ -67727,25 +67727,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "665905ab039e4e58273a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-23T17:45:11.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
-      "reason": "source-blocked",
-      "note": "The Defiant coverage returns HTTP 403; no independent readable second source was confirmed for this lead in this run.",
+      "reason": "verified-event",
+      "note": "Bitwise Q4 2026 Staking Report (published Oct. 20, covering Q3) verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage. Drafted content/articles/stakingrecord.md (679 words, 3 source hosts); hero image Matt Brown Ethereum plaque via Wikimedia (CC BY 2.0), compressed to 293KB. The Defiant link itself returned 403 and was recorded blocked.",
       "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-21T04:10:34.490Z",
+      "reviewedAt": "2026-10-22T08:17:42.791Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says"
       ],
-      "lastReviewedDay": "2026-10-21",
-      "nextReviewDate": "2026-10-22"
+      "lastReviewedDay": "2026-10-22",
+      "articleSlug": "stakingrecord"
     },
     "0f0bff581db089300777": {
       "source": "The Block",
@@ -132914,6 +132926,31 @@
           "reviewedAt": "2026-10-22T07:54:50.666Z",
           "duplicateOf": "zodia",
           "mergedInto": "ce8fc79a80fcd65b9473"
+        },
+        "665905ab039e4e58273a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitwise Q4 2026 Staking Report (published Oct. 20, covering Q3) verified against the primary PDF plus Crypto Briefing and Bitcoin.com News coverage. Drafted content/articles/stakingrecord.md (679 words, 3 source hosts); hero image Matt Brown Ethereum plaque via Wikimedia (CC BY 2.0), compressed to 293KB. The Defiant link itself returned 403 and was recorded blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/defi/bitwise-report-shows-ethereum-stakes-record-43-8m-eth-as-yields-fall/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-22T08:17:42.791Z",
+          "articleSlug": "stakingrecord"
         }
       },
       "baselineSlugs": [
