@@ -3668,7 +3668,7 @@
     "sentAt": "2026-10-22T11:32:12.629Z"
   },
   "34985288-a7b2-454a-8fe7-39c1382855d4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-22T19:32:21.587Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3738,6 +3738,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/aso43?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant Relationship Manager - OKX SG</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sls321?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Sales Lead, AI</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">ERM Program Manager</a>",
-    "slotKey": "2026-10-22:evening"
+    "slotKey": "2026-10-22:evening",
+    "messageId": 155894,
+    "sentAt": "2026-10-22T19:32:25.244Z"
   }
 }
