@@ -130,8 +130,12 @@ test('news dry runs use a news-only gate and pass --dry-run to the publisher', (
   const publish = workflow.jobs['publish-news'].steps.find(step => step.id === 'publish').run;
   assert.match(publish, /NEWS_DRY_RUN.*true/);
   assert.match(publish, /--dry-run/);
-  assert.equal(workflow.jobs['publish-news'].steps.find(step => step.id === 'publish').env.PUBLISH_CANCELLED, '${{ cancelled() }}');
-  assert.match(publish, /PUBLISH_CANCELLED.*true/);
+  const publisher = workflow.jobs['publish-news'].steps.find(step => step.id === 'publish');
+  assert.match(publisher.if, /!cancelled\(\)/);
+  assert.equal(publisher.env, undefined);
+  const cancelled = workflow.jobs['publish-news'].steps.find(step => step.name === 'Preserve cancelled news drafts without publishing');
+  assert.match(cancelled.if, /cancelled\(\)/);
+  assert.equal(cancelled.run, 'node scripts/publish-news-run.mjs --dry-run');
 });
 
 test('job and event workflows acknowledge only generators they ran, leaving article invalidation intact', () => {

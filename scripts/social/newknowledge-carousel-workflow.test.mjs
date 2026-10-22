@@ -60,7 +60,7 @@ test('daily native carousels use the independent knowledge gate, not other publi
   const date = '2026-10-22', now = Date.parse(`${date}T11:30:00Z`);
   assert.equal(selectKnowledgeDate(calendar, { date, now }).due, true);
   for (const flag of ['website_recovery', 'only_news', 'news_dry_run', 'dry_run', 'diagnose_telegram', 'diagnose_content']) {
-    assert.equal(gate.env[`KNOWLEDGE_${flag.toUpperCase()}`], `\${{ github.event.inputs.${flag} }}`);
+    assert.equal(gate.env[`KNOWLEDGE_${flag.toUpperCase()}`], `\${{ github.event.inputs.${flag === 'dry_run' ? 'news_dry_run' : flag} }}`);
     assert.equal(selectKnowledgeDate(calendar, { date, now, flags: { [flag]: 'true' } }).due, false);
   }
   for (const options of [

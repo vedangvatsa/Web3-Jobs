@@ -170,7 +170,7 @@ jobs:
           KNOWLEDGE_WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
           KNOWLEDGE_ONLY_NEWS: ${{ github.event.inputs.only_news }}
           KNOWLEDGE_NEWS_DRY_RUN: ${{ github.event.inputs.news_dry_run }}
-          KNOWLEDGE_DRY_RUN: ${{ github.event.inputs.dry_run }}
+          KNOWLEDGE_DRY_RUN: ${{ github.event.inputs.news_dry_run }}
           KNOWLEDGE_DIAGNOSE_TELEGRAM: ${{ github.event.inputs.diagnose_telegram }}
           KNOWLEDGE_DIAGNOSE_CONTENT: ${{ github.event.inputs.diagnose_content }}
         run: node scripts/social/newknowledge-plan.mjs
@@ -421,14 +421,17 @@ jobs:
 
       - name: Validate review coverage and publish the daily batch
         id: publish
-        if: ${{ always() && steps.research.outcome == 'success' }}
+        if: ${{ always() && !cancelled() && steps.research.outcome == 'success' }}
         continue-on-error: true
-        env:
-          PUBLISH_CANCELLED: ${{ cancelled() }}
         run: |
           ARGS=()
-          if [ "$NEWS_DRY_RUN" = "true" ] || [ "$PUBLISH_CANCELLED" = "true" ]; then ARGS+=(--dry-run); fi
+          if [ "$NEWS_DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
           node scripts/publish-news-run.mjs "${ARGS[@]}"
+
+      - name: Preserve cancelled news drafts without publishing
+        if: ${{ cancelled() && steps.research.outcome == 'success' }}
+        continue-on-error: true
+        run: node scripts/publish-news-run.mjs --dry-run
 
       - name: Preserve news research and draft recovery
         if: always()
