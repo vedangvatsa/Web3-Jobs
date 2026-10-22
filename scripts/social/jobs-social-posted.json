@@ -40897,6 +40897,48 @@
       "verification": "pending",
       "postId": "6ad99fb97dadc432f73ee6a5",
       "error": "LinkedIn CVin.Bio receipt 6ad99fb97dadc432f73ee6a5 remains pending; read-only reconciliation required"
+    },
+    {
+      "slug": "sec116",
+      "company": "DriveWealth",
+      "title": "Security & Threat Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T05:29:32.057Z",
+      "expectedText": "DriveWealth is hiring Security & Threat Operations Manager: https://hashtagweb3.com/sec116/li?og=7",
+      "snapshot": {
+        "id": "8034511003",
+        "title": "Security & Threat Operations Manager",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8034511003?gh_jid=8034511003",
+        "date": "2026-10-15T09:58:50-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Remote (US); Austin, TX; Dallas, TX; Denver, CO; Miami, FL; San Francisco, CA; Seattle, WA",
+        "department": "Risk & Compliance",
+        "active": true,
+        "salary": "$200k – $250k/yr",
+        "dateVerified": true,
+        "slug": "sec116"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring Security & Threat Operations Manager: https://hashtagweb3.com/sec116/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec116/li?og=7",
+          "title": "Security & Threat Operations Manager at DriveWealth",
+          "description": "Join DriveWealth as Security & Threat Operations Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec116.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "e5aedb89-8d12-4b57-a18b-98367ed55b4d",
+      "verification": "creating"
     }
   ]
 }
