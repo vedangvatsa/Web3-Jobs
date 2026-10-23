@@ -191,28 +191,6 @@ Scooters & Bikes : Depending on the area, you will also find scooters and bikes 
 
 Taxis : Taxis are available through apps like GO↗︎ and Uber↗︎.
 
-<a id="event-d3648344003539ae"></a>
-
-## Crypto Finance Forum 2026
-
-- Record: `premier-crypto-finance-forum-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-22T09:00:00-04:00
-- Description: Source-backed
-- Original page: <https://cryptofinanceforum.nyc/>
-
-### About the event
-
-Crypto Finance Forum is a New York based conference for crypto CFOs, auditors, controllers and accountants - debating the biggest challenges for finance teams today. The 2026 agenda is published on the official site.
-
-### Agenda
-
-Sessions carry up to 1.0 CPE credit (pending approval) and cover institutional adoption of digital assets across banks, asset managers and regulated financial institutions.
-
-### Who attends
-
-The forum is designed for finance leaders from the leading regulated crypto-native enterprises and traditional institutions working with digital assets. Speakers and attendees represent those teams, and the forum spans multiple spaces ensuring plenty of networking opportunities for attendees and speakers.
-
 <a id="event-263df914d6062009"></a>
 
 ## Freedom Tech DC 2026
@@ -20943,203 +20921,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-b039b0d1ba94b1c6"></a>
-
-## Crypto Finance Forum 2026
-
-- Record: `luma-crypto-f6vuH9lCivEjvZR`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cffny2026>
-
-### About the event
-
-Crypto Finance Forum NYC returns for its fourth year this September.
-
-Join a curated group of senior leaders from banks, asset managers, exchanges, stablecoin issuers, OTC desks, and digital asset infrastructure providers for a day of high-quality discussions on the future of institutional crypto.
-
-Previous editions have brought together leaders from organisations such as JPMorgan, Goldman Sachs, Morgan Stanley, Circle, Coinbase, and Fidelity, alongside regulators, auditors, and institutional operators.
-
-This year's agenda will include discussions on:
-
-- The New Bank Stack: Stablecoins, Custody & On-Chain Settlement
-- Tokenized Securities Under the SEC Framework
-- Finance Leaders' Outlook: Navigating Capital Markets as a Digital Assets Business
-- View from the FASB: Accounting, Disclosure & Assurance in Digital Assets
-
-[Full details and agenda at cryptofinanceforum.nyc](https://cryptofinanceforum.nyc)
-
-Attendance is carefully curated to ensure senior, relevant conversations. Applications from sales or business development roles will not be accepted.
-
-<a id="event-290183ec2bf7dd92"></a>
-
-## GBBC's 9th Annual Blockchain Central UNGA
-
-- Record: `luma-crypto-hL1iAImGIYcVtNi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/unga2026>
-
-### About the event
-
-*Please note: Space is limited. Please request to attend in-person using the form. All submissions for in-person attendance are subject to approval - completion of the form does not guarantee access to the event.
-
-Global Blockchain Business Council (GBBC)'s 9th Annual Blockchain Central UNGA will be held in New York City, alongside the 81st Session of the United Nations General Assembly (UNGA), hosted jointly with international law firm DLA Piper.
-
-As an official partner of Global Goals Week, Blockchain Central UNGA returns in person to convene global thought leaders and changemakers from across blockchain, government, technology, and industry. Together, we'll explore how blockchain-powered solutions can accelerate progress toward achieving the United Nations Sustainable Development Goals (SDGs).
-
-We extend our sincere gratitude to our lead supporters & partners - DLA Piper, OKX, and AI 2030 - for making this event possible.
-
-Date: Tuesday, September 22 from 9:00am-7:00pm ET
-
-Attire: Business Casual
-
-Deadline to Register: September 16, 6:00pm ET
-
-Learn more about the 9th Annual Blockchain Central UNGA: https://gbbcblockchaincentral.io/
-
-Agenda (times in ET):
-
-9:00am-9:30am | Check-In and Meet & Greet Breakfast
-
-9:30am-9:45am | Opening Remarks
-
-9:50am-10:25am | Digital Identity, Wallets, and Money: The Gateways to Financial Access?
-
-10:25am-11:00am | Building Solid Infrastructure & Scaling Economies
-
-11:05am-11:20am | Blockchain in Action: Institutions and Cross-Chain Lending
-
-11:20am-11:55am | Policy Incentives & Digital Tools: How to Create Economic Prosperity?
-
-11:55am-12:10pm | Blockchain in Action: Digital Certificate of Entitlement (DCE)
-
-12:10pm-12:45pm | Setting the Standards: Building Compliant Frameworks for Resilient & Secure Infrastructure
-
-12:45pm-1:45pm | Lunch & Networking
-
-1:50pm-2:15pm | A Conversation with the New York Department of Financial Services
-
-2:20pm-2:45pm | Programming Out Hunger: Real-World Outcomes of the Food for Crisis Proof-of-Concept
-
-2:50pm-3:05pm | Blockchain in Action: Verifying Digital ID Across Borders on the Avalanche Blockchain
-
-3:05pm-3:40pm | What Does Fairness Look Like for Local Communities in an Increasingly Digital World?
-
-3:45pm-4:00pm | Blockchain in Action: Digital Measurement, Reporting, and Verification (dMRV) in the Real World
-
-4:00pm-4:35pm | The Next Generation of Green Infrastructure
-
-4:40pm-5:05pm | Fireside Chat: TBA
-
-5:05pm-5:20pm | Closing Remarks
-
-5:30pm-7:00pm | Evening Reception in Partnership with OKX
-
-<a id="event-835918f6e3094dba"></a>
-
-## The Superpollutant Happy Hour
-
-- Record: `luma-crypto-X9jW4fpZYmhxXVG`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5ua8i1gw>
-
-### About the event
-
-Join AgriCapture, Calyx Global, CUR8, and ClimateWells for superpollutant stories and spritzes during New York Climate Week.
-
-Beyond their significant near-term climate impact, superpollutant reductions can create tangible benefits for the communities where projects operate. We'll bring together corporate sustainability leaders to discuss these impacts, the people behind them, and why these are stories worth telling.
-
-Drinks, bites, and great company included
-
-Attendance is limited and registration is required.
-
-### Event details
-
-Hosted by Ashton Moody, kate martin, Annika Langbein, Donna Lee (CEO, Calyx Global). The event takes place on September 22. Registration requires organizer approval.
-
-Doors open at 5:00 PM local time.
-
-<a id="event-90d781cc8ab4603e"></a>
-
-## Crypto Finance Forum \| After Drinks (Post Conference)
-
-- Record: `luma-crypto-blcNdHgHuRW0Okz`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/cffnydrinks>
-
-### About the event
-
-Not ready for the conversations to end after Crypto Finance Forum NY?
-
-Join us for After After Drinks, co-hosted by Cryptio and HT Digital and Rise, on the evening of 22 September, a relaxed gathering for those who want to keep the conversations going, grab a drink and continue connecting with fellow CFF attendees after the main event.
-
-No more panels, no more agenda, just good conversations, drinks, and the chance to carry on the evening with fellow leaders from across finance and digital assets.
-
-Date: 22 September 2026
-
-Time: From 6:30 PM - 9:00 PM
-
-Venue: Walker Rooftop, Walker Hotel Tribeca, 77 Walker St, New York, NY 10013
-
-Capacity is limited, so we're keeping this one small and informal.
-
-Invite-only subject to approval.
-
-Come for one drink, stay for a few.
-
-<a id="event-56d36909e3964ee0"></a>
-
-## First Look: A Climate Week Founders Dinner
-
-- Record: `luma-crypto-wZxpOx7q4EJDyqE`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-22T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5y958qv8>
-
-### About the event
-
-Join us for an intimate dinner with the founders we believe are shaping the next decade of climate tech in New York, alongside a hand-selected group of investors and public-sector leaders working on the same problems.
-
-Hosted by the Urban Future Lab.
-
-This year's Urban Future Prize finalists will be at the table, companies most of the market hasn't met yet, working on the newest problems coming through our doors. They'll be joined by founders from the ACRE portfolio, fifteen years of companies that have gone on to raise more than $4 billion and prove that climate tech gets built in New York.
-
-Drinks and introductions from 6:30, seated dinner around 7:15, conversation until 9.
-
-A note on attendance: this dinner is invitation-only and invitations are non-transferable. We review every request personally and we're sincerely sorry that we won't be able to say yes to everyone. Confirmed guests will receive the exact address.
-
-### About the hosts
-
-Urban Future Lab: NYC's longest-running climate tech hub, based at NYU Tandon. Home to the ACRE incubator and the Urban Future Prize Competition. For fifteen years we've helped early-stage climate tech companies land their first customers, first projects, and first checks in the hardest market to build in and the best city to prove it.
-
-<a id="event-79cc6ec6900c50e3"></a>
-
-## Codex Community Meetup - San Francisco
-
-- Record: `luma-crypto-JyKG7U4110cFMjH`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-23T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5cewfkx1>
-
-### About the event
-
-Come hang out with the SF Codex community for an evening all about building [with your voice brought to you by WorkOS and Parallel.ai](https://Parallel.ai)
-
-Codex Voice lets you do a lot more than dictate prompts. You can talk through an idea, kick off coding tasks, steer agents while they work, check progress, and coordinate multiple threads without constantly going back to the keyboard.
-
-We'll spend the first 30 minutes hanging out and meeting people, then jump into about an hour of live demos showing different ways to use voice with Codex, from everyday coding workflows to more ambitious voice-driven agent orchestration.
-
-If you've been experimenting with Codex already, come swap ideas. If you haven't tried Voice yet, this is a good place to see what it can do.
-
 <a id="event-b86d212aa9cfd0b2"></a>
 
 ## Consumer Growth Leaders London Breakfast hosted by Yolodex and SOAR
@@ -25671,160 +25452,6 @@ A closed-door day reserved for confirmed speakers and partners, with private, fo
 [Get in touch](https://www.cosmoverse.org/sponsors-partners)
 
 The decision-makers driving digital asset adoption across Asia Pacific will be in the room. Secure your place.
-
-<a id="event-c84efd9e4513452e"></a>
-
-## Tour Solana La Familia - Barcelona
-
-- Record: `luma-batch-0tiWNAobzv6dU0B`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-22T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5snqu7n4>
-
-### About the event
-
-Durante las próximas semanas haremos varias paradas por España para encontrarnos con nuestra comunidad y abrir las puertas a todos los que quieran descubrir Solana y conocer de cerca su ecosistema.
-
-Queremos que cada parada sea un punto de encuentro para compartir ideas, descubrir proyectos, conocer nuevas oportunidades y conectar con personas que están construyendo dentro y fuera de Solana.
-
-Y si es tu primera vez acercándote a este mundo, también es para ti. No necesitas experiencia previa ni conocimientos sobre Web3, solo curiosidad y ganas de conocer algo nuevo.
-
-Habrá tiempo para conversar, hacer networking, conocer proyectos y, sobre todo, poner cara a muchas de las personas con las que compartimos comunidad cada día.
-
-Tanto si ya formas parte de La Familia como si acabas de descubrirnos, te esperamos en el Tour.
-
-<a id="event-a6acdcaf91e4d421"></a>
-
-## THE CUE LOUNGE - Billiards Networking Social/Mixer - (Elevate Festival After Party)
-
-- Record: `luma-batch-fPFJHMNiW9Tm8yD`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-22T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/3v6v45s0>
-
-### About the Event
-
-We are thrilled to invite you to THE CUE LOUNGE a unique and exclusive networking and social event hosted by TREALT, along side Elevate Festival, for Entrepreneurs and Investors in Technology / AI, Real Estate, & Crypto. Our mission is to bring like-minded individuals together to connect, collaborate, and grow, whether professionally or socially. This event is very exclusive, sign up to see if you will get approved. Whether you're an entrepreneur/investor, in tech/AI, real estate or crypto, all are welcome to apply!
-
-### What To Expect
-
-Whether you're looking to network with the best, make new friends, or just enjoy a night out with people who share similar interests, this event is for you.
-
-Fun ActivitiesKick off the evening with free-play billiards in a laid-back, interactive setting. It's the perfect way to meet new people, break the ice, and get comfortable before the night unfolds.
-
-Cocktails & NetworkingEnjoy drinks and food for purchase, music, and a relaxed social atmosphere while connecting with founders, investors, and professionals.
-
-Meaningful ConnectionsThis is a curated group of driven individuals. Whether you're looking to collaborate, invest, or simply meet great people, this event is designed to create real connections in a casual and welcoming environment.
-
-After Hours As the night continues, attendees are welcome to exchange contact information and head to nearby after-party spots to keep the conversations and connections going.
-
-Join Us on WhatsApp
-
-Be part of our growing WhatsApp Community! Continue the conversations, share information, and connect with our growing community by clicking here.
-
-Dress Code: Business Casual, Fall Smart Casual Age Requirement: 19+ First 25 Tickets are Free for Past Attendees like Always!But here's the hack: Anyone who is registered gets access to FREE Early Bird priority tickets for all future events, just like the first 25 people of this event!
-
-### Itinerary
-
-5:00 PM - 6:00 PM | Arrival @ Private Venue
-
-Welcome and check-in
-
-Light networking in a fun, relaxed setting
-
-6:00 PM - 9:00 PM | Cocktails & Networking
-
-Complimentary free-play billiards
-
-Continued networking with guests and professionals
-
-Drinks and food to order, music, and open social atmosphere
-
-9:00 PM & Beyond | Wrap-Up & After Parties
-
-Final conversations and goodbyes
-
-Exchange contact details to stay connected
-
-Optional group move to nearby after-party locations
-
-Support Local Businesses
-
-To help us keep events like this accessible and affordable, we encourage guests to purchase at least one drink or food item at the venue (optional but appreciated).
-
-What to Bring
-
-Business Cards or LinkedIn QR Code Friends & Colleagues, invite others who'd love to be part of this growing community! (All guests must sign up and be approved)
-
-Hashtags: entrepreneur, founder, startup, technology, tech, artificial intelligence, AI, machine learning, generative AI, software, software engineering, engineering, programming, data science, cloud computing, automation, venture capital, investor, angel investor, networking, innovation, SaaS, blockchain, web3, crypto, bitcoin, decentralized, fintech, digital assets, Toronto, Toronto tech, Toronto Entrepreneurs, Toronto Networking
-
-<a id="event-bcee853be8177e43"></a>
-
-## THE CUE LOUNGE - Billiards Networking Social/Mixer - (Elevate Festival Event)
-
-- Record: `luma-batch-hqRIgDQoFKNCoPO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-22T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5f6ahz5v>
-
-### About the Event
-
-We are thrilled to invite you to THE CUE LOUNGE a unique and exclusive networking and social event hosted by TREALT for Entrepreneurs and Investors in Technology / AI, Real Estate, & Crypto. Our mission is to bring like-minded individuals together to connect, collaborate, and grow, whether professionally or socially. This event is very exclusive, sign up to see if you will get approved. Whether you're an entrepreneur/investor, in tech/AI, real estate or crypto, all are welcome to apply!
-
-### What To Expect
-
-Whether you're looking to network with the best, make new friends, or just enjoy a night out with people who share similar interests, this event is for you.
-
-Fun ActivitiesKick off the evening with free-play billiards in a laid-back, interactive setting. It's the perfect way to meet new people, break the ice, and get comfortable before the night unfolds.
-
-Cocktails & NetworkingEnjoy drinks and food for purchase, music, and a relaxed social atmosphere while connecting with founders, investors, and professionals.
-
-Meaningful ConnectionsThis is a curated group of driven individuals. Whether you're looking to collaborate, invest, or simply meet great people, this event is designed to create real connections in a casual and welcoming environment.
-
-After Hours As the night continues, attendees are welcome to exchange contact information and head to nearby after-party spots to keep the conversations and connections going.
-
-Join Us on WhatsApp
-
-Be part of our growing WhatsApp Community! Continue the conversations, share information, and connect with our growing community by clicking here.
-
-Dress Code: Business Casual, Fall Smart Casual Age Requirement: 19+ First 25 Tickets are Free for Past Attendees like Always!But here's the hack: Anyone who is registered gets access to FREE Early Bird priority tickets for all future events, just like the first 25 people of this event!
-
-### Itinerary
-
-5:00 PM - 6:00 PM | Arrival @ Private Venue
-
-Welcome and check-in
-
-Light networking in a fun, relaxed setting
-
-6:00 PM - 9:00 PM | Cocktails & Networking
-
-Complimentary free-play billiards
-
-Continued networking with guests and professionals
-
-Drinks and food to order, music, and open social atmosphere
-
-9:00 PM & Beyond | Wrap-Up & After Parties
-
-Final conversations and goodbyes
-
-Exchange contact details to stay connected
-
-Optional group move to nearby after-party locations
-
-Support Local Businesses
-
-To help us keep events like this accessible and affordable, we encourage guests to purchase at least one drink or food item at the venue (optional but appreciated).
-
-What to Bring
-
-Business Cards or LinkedIn QR Code Friends & Colleagues, invite others who'd love to be part of this growing community! (All guests must sign up and be approved)
-
-Hashtags: entrepreneur, founder, startup, technology, tech, artificial intelligence, AI, machine learning, generative AI, software, software engineering, engineering, programming, data science, cloud computing, automation, venture capital, investor, angel investor, networking, innovation, SaaS, blockchain, web3, crypto, bitcoin, decentralized, fintech, digital assets, Toronto, Toronto tech, Toronto Entrepreneurs, Toronto Networking
 
 <a id="event-ddd8795b652d1c16"></a>
 
@@ -51879,187 +51506,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-08a577df123d8459"></a>
-
-## Digital Asset Summit Toronto 2026
-
-- Record: `luma-evt-GQiEEZLgPSEOKxX`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-22T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/DASTORONTO>
-- Original page: <https://luma.com/DASTORONTO>
-
-### About the event
-
-Toronto's leading gathering for digital assets, financial innovation and the future of market infrastructure.
-
-Digital Asset Summit Toronto returns on Tuesday, September 22, 2026.
-
-Join leaders from financial institutions, digital asset companies, government, venture capital, technology and professional services for a full day of thoughtful conversations, meaningful connections and industry insight.
-
-The summit will explore how digital assets are moving into the financial mainstream. From stablecoins, payments and tokenization to institutional adoption, regulation, artificial intelligence and the infrastructure supporting the next financial system.
-
-Designed as an intimate, high-value industry gathering, Digital Asset Summit Toronto brings together the people building, funding, regulating and adopting the future of finance.
-
-Topics will include:
-
-- Institutional adoption of digital assets
-- Stablecoins and the future of payments
-- Tokenization and real-world assets
-- Digital asset market infrastructure
-- Regulation, policy and compliance
-- Artificial intelligence and financial services
-- Investment, venture capital and innovation
-- Canada's role in the global digital economy
-
-### Who should attend?
-
-Financial institutions, asset managers, fintech and digital asset companies, founders, investors, government representatives, regulators, legal and accounting professionals, technology leaders and ecosystem builders.
-
-Expect a full day of keynote conversations, executive panels, networking and opportunities to connect with leaders shaping the future of digital finance.
-
-### Event Details
-
-Tuesday, September 22, 2026
-
-9:00 AM - 5:00 PM
-
-Downtown Toronto
-
-Join us. Canada's next chapter of innovation starts here.
-
--
-
-For speaker and sponsor opportunities please contact info@web3to.ca
-
-<a id="event-0d11c45a6aa35f98"></a>
-
-## Frontier Traders @ Solana Summit Canada
-
-- Record: `luma-evt-rBICDvI4RoBRvCB`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-22T20:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/2ga2vbiy>
-- Original page: <https://luma.com/2ga2vbiy>
-
-### About the event
-
-This room doesn't exist on any timeline.
-
-A room for those on the frontier of new markets, new assets, and new technology.
-
-Frontier Traders Connect is a first of its kind - Invite only.
-
-4:30pm - Doors Open
-
-> Appetizers, drinks, greetings
-
-5:30pm - Two panels exploring Solana's onchain perps and spot markets.
-
-> Onchain Perps Panel
-
-> [Kabir](https://x.com/ethtwit) - [Growth Lead @ Phoenix Trade](https://x.com/PhoenixTrade)
-
-> [Chris Newhouse](https://x.com/CryptoDeFiGuy) - [BD @ IMC Trading](https://x.com/IMCTrading)
-
-> [Genia Mikhalchenko](https://www.linkedin.com/in/geniamikhalchenko/) - [BD @ Pyth Network](https://x.com/PythNetwork)
-
->
-
-> Spot Ecosystem Panel
-
-> [Chris Chung](https://x.com/realRockyChung) - [CEO @ Titan Exchange](https://x.com/Titan_Exchange)
-
-> [Sabs S.](https://www.linkedin.com/in/sabsachdeva/) - [SE @ Temporal/Humidifi](https://x.com/temporal_xyz)
-
-> [Nawan Butt](https://www.linkedin.com/in/nawanb/)- [Head of Capital Markets @ Purpose](https://x.com/PurposeInvest)
-
->
-
-> [Moderator: Josh Bubar](https://www.linkedin.com/in/josh-bubar-15718299/) @ [Velox Trading Group](https://www.linkedin.com/company/velox-trading-group/home/)
-
-6:30pm - Cocktail & networking
-
-> Food and drink
-
-> Music and networking
-
-9pm - Doors Close
-
-Attendance is curated and limited.
-
-Who gets accepted:
-
-→ Traders who do real size on spot, perps, structured
-
-→ Props and funds with digital asset exposure
-
-→ Top allocators and capital deployers
-
-[Produced by Titan Exchange](https://x.com/Titan_Exchange)
-
-[Hosted by Superteam Canada](https://x.com/SuperteamCAN)
-
-[Supported by Solana Foundation](https://x.com/Solana)
-
-<a id="event-a5b0d60ab8620b7e"></a>
-
-## Ripple x Scalestack - CRO Dinner
-
-- Record: `luma-evt-Tid1qAkGKENQf9s`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-22T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/cro-dinner>
-- Original page: <https://luma.com/cro-dinner>
-
-### About the event
-
-Welcome CROs!
-
-The conversation is changing, and the honest read on where revenue is heading rarely comes from the stage. It comes from the people who own the number.
-
-So Scalestack and Ripple Ventures are getting a small group of CROs around one table in Toronto, over dinner and good wine, to work through what AI actually means for next fiscal year. Come for the kind of conversation you leave a little sharper than you walked in. We'd love to have you :)
-
-[About Ripple Ventures](http://www.rippleventures.com)
-
-We are inception stage partners to founders building advanced technologies. Our goal is to be the earliest backers in a founder's journey, and to amplify their life's work through hands on support + opening up customer/ talent networks.
-
-[About Scalestack](https://scalestack.ai/)
-
-Data infrastructure agents and humans can trust. A system of intelligence on top of your system of record, delivering clean, governed, AI-ready data for the enterprise.
-
-<a id="event-3a8cbd1c705a2b15"></a>
-
-## Crypto For Good
-
-- Record: `luma-evt-td8qi5bEW950tcC`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-22T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/cb3ejhww>
-- Original page: <https://luma.com/cb3ejhww>
-
-### About the event
-
-Join decentralised for presentation by open-source project - Olive Branch Network titled "Crypto For Good".
-
-This informative session invites audience to rethink how humanity approaches funding causes that make a positive impact on the world.
-
-Olive Branch Network is a decentralized financial ecosystem designed to support nonprofits while rewarding users for participating via it's staking protocol. It creates a new model of incentivized giving through protocol emissions without requiring users to donate a 'principal' amount to support a cause!
-
-We are gathering at a new location Terrazas Branch Public Library. Given library hours our agenda is as follows:
-
-5:30PM-6:15PM Networking, Food and drinks
-
-6:15PM- 7PM Presentation
-
-7PM-7:45PM Questions and closing remarks
-
-Like always, food and drinks will be provided by Stand With Crypto!
-
 <a id="event-00a6d3897b7689de"></a>
 
 ## Agentic Summit
@@ -71764,6 +71210,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1dd42719cbcb922f"></a>
+
+## Free Bitcoin Cash Tattoos in Times Square 💚 \| The 00TATT$ Experience
+
+- Record: `luma-evt-M3Wk1U8ISoLSKL9`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nfmg8l1p>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9c6324d875454d4c"></a>
+
+## Crypto Votes GOTV Rally @ NYU
+
+- Record: `luma-evt-3R83OQpa142Gddt`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-23T20:45:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6x7ooxim>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8276ff89e65c71f0"></a>
 
 ## Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles
@@ -71863,6 +71333,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-fb22ec65a61a9dcd"></a>
+
+## Run It Forward with Run Her Way x ASICS x PassaRunning
+
+- Record: `luma-evt-S7VTD2pQ6H721Sl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T08:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fhj12vp1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d0c5a9a94c476654"></a>
 
 ## FIELDS in collaboration Paul Senyol - Collection 15 Optimism
@@ -71910,6 +71392,18 @@ Giottus's CEO discusses building the Indian crypto exchange and its custody part
 - Starts: 2026-10-24T11:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/afcvzb9a>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f35a4b267f9719bf"></a>
+
+## FuLi Coffee Break: Iara Perillo - live ambient set with altoflute and electronics.
+
+- Record: `luma-evt-lBQPt2Ou6TROS1y`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T11:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/j1vxrda8>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71975,6 +71469,18 @@ All participants are required to agree with and adhere to the code of conduct (h
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ad8f3c6d772550b2"></a>
+
+## Tech@NYU Buildathon: Shipyard
+
+- Record: `luma-evt-9F2OvGSdsEpDg9O`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T13:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pdrhyk4p>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0852e26df3b13901"></a>
 
 ## Novus Codex
@@ -72008,6 +71514,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T16:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/stin-pokernight>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bac35965af305915"></a>
+
+## Bitcoin with Coffee #15
+
+- Record: `luma-evt-HzFFXfcyaPooZzh`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gg4pt0vv>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-60bb161ea8e6a71e"></a>
+
+## Bitcoin Basics (101): A Bitcoiner’s Journey
+
+- Record: `luma-evt-7K5olBFMiITj6gW`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6vi7uzus>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72109,6 +71639,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6019e1c61fa4c67f"></a>
+
+## Midlife Strong: Understanding Your Changing Bodyand Where to Begin
+
+- Record: `luma-evt-gEpwsQGdh4GoYkQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T14:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/frndzcot>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-61b95df5dd900582"></a>
 
 ## BITDEVS SWITZERLAND – Socratic Seminar #4
@@ -72118,6 +71660,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T16:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/eaap2buy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c1ee978757d1c427"></a>
+
+## The Sisterhood Society Sundays Presents Soft Life, Strong Boundaries
+
+- Record: `luma-evt-19FXH7W2CbARRCm`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4vkg2boj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8fdf039f700780b1"></a>
+
+## Silicon Valley Coffee Meetup
+
+- Record: `luma-evt-8AudABC0tFcazsY`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5woj9wgb>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72214,6 +71780,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-26T16:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/5u109wun>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e54153c5a950849c"></a>
+
+## IFL Dinner w/ Marcelo Cortes - Faire, A Canadian Unicorn
+
+- Record: `luma-evt-tcTyxdaO9a9UGXo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/u168zhin>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72913,6 +72491,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-38266ad149603951"></a>
+
+## Crypto talk - Money is Freedom; currency is slavery
+
+- Record: `mu-316919950`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/cashflow-271/events/316919950/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7e6d1489dbf12e48"></a>
 
 ## Proof of Work
@@ -73046,6 +72636,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-30T18:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/3xweds1f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-433c4ae2b9d0b73e"></a>
+
+## City of LA Vision Lab Showcase: Vision Forward
+
+- Record: `luma-evt-lToZaWW8elmlCtY`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4qta62ao>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74045,6 +73647,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T11:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/bouldernet-meetup/events/316912416/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-db1368abffe64fba"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-317014775`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T11:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/los-angeles-double-your-crypto-club/events/317014775/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
