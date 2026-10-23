@@ -46097,6 +46097,34 @@
       "attemptId": "571823b2-2f56-4c3a-b734-056a058d0c49",
       "verification": "verified",
       "postId": "urn:li:share:7519243711478661120"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "facebook",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/fb?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "message": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/fb?og=7",
+        "link": "https://hashtagweb3.com/rec20/fb?og=7"
+      },
+      "attemptId": "9aacaff4-e88e-4dd2-ba16-0f3bba236f0d",
+      "verification": "creating"
     }
   ]
 }
