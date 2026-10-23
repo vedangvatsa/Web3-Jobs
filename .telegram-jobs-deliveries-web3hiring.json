@@ -6948,5 +6948,120 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 16561,
     "sentAt": "2026-10-23T19:31:50.664Z"
+  },
+  "50c6094a-47b5-44ee-99b7-d4726539b974": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:31:53.348Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6186847004",
+          "title": "Senior SRE - APAC",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6186847004",
+          "date": "2026-10-21T10:03:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - APAC",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sre"
+        },
+        "key": "6186847004",
+        "slug": "sre",
+        "url": "https://hashtagweb3.com/sre?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior SRE"
+      },
+      {
+        "snapshot": {
+          "id": "47a75895-24af-49b7-9858-1be0ec0e7c71",
+          "title": "Senior Backend Engineer | Accounts Receivable",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71",
+          "date": "2026-10-20T13:26:07.649+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be83"
+        },
+        "key": "47a75895-24af-49b7-9858-1be0ec0e7c71",
+        "slug": "be83",
+        "url": "https://hashtagweb3.com/be83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Backend Engineer | Accounts Receivable"
+      },
+      {
+        "snapshot": {
+          "id": "5011753101",
+          "title": "[EU] Deputy AMLO Payments",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011753101",
+          "date": "2026-10-20T17:21:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dap"
+        },
+        "key": "5011753101",
+        "slug": "dap",
+        "url": "https://hashtagweb3.com/dap?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Deputy AMLO Payments"
+      },
+      {
+        "snapshot": {
+          "id": "08711490-46bf-437a-9f39-2a4effc570cb",
+          "title": "Associate, Finance Administration",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/08711490-46bf-437a-9f39-2a4effc570cb",
+          "date": "2026-10-06T12:10:48.282Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso45"
+        },
+        "key": "08711490-46bf-437a-9f39-2a4effc570cb",
+        "slug": "aso45",
+        "url": "https://hashtagweb3.com/aso45?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Associate, Finance Administration"
+      },
+      {
+        "snapshot": {
+          "id": "5450510008",
+          "title": "Senior DevOps Engineer",
+          "company": "WOO Network",
+          "link": "https://job-boards.greenhouse.io/woo/jobs/5450510008",
+          "date": "2026-10-12T22:56:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: WOO Network [woo]",
+          "location": "Taipei, Taiwan",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do12"
+        },
+        "key": "5450510008",
+        "slug": "do12",
+        "url": "https://hashtagweb3.com/do12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "WOO Network",
+        "title": "Senior DevOps Engineer"
+      }
+    ],
+    "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/sre?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior SRE - APAC</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Accounts Receivable</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/dap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Deputy AMLO Payments</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/aso45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, Finance Administration</a>\n- WOO Network is hiring <a href=\"https://hashtagweb3.com/do12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>",
+    "slotKey": "2026-10-23:evening"
   }
 }
