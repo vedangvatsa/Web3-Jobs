@@ -73202,11 +73202,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a09ce3eaeb9d8533e3f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T20:00:12.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "duplicate",
+      "note": "Same Reg Crypto Assets comment-deadline event already covered by regcrypto.md (closed Oct. 20, ~140 submissions, agency still accepting letters). The bank-backlash and legal-threat details are additional color on that closed period, not a new event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.985Z",
+      "duplicateOf": "regcrypto",
+      "lastReviewedDay": "2026-10-23"
     },
     "adc4fc8b62a62b83a76f": {
       "source": "The Defiant",
@@ -73223,11 +73238,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "adc4fc8b62a62b83a76f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T19:48:15.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "source-blocked",
+      "note": "The Defiant article body returned HTTP 403 Cloudflare challenge via WebFetch and curl with the readiness User-Agent. Secondary outlets (ChainCatcher, Binance Square relay) only restate The Defiant headline and deck; the JPMorgan JPM Coin page confirms only the warning that same-name tokens at other addresses are unaffiliated, not the count of 13 lookalikes. Need an independent readable report on the Ethereum JPMD launch and counterfeit tokens.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.985Z",
+      "retrySearches": [
+        "Find independent reporting besides The Defiant on JPMorgan JPMD Ethereum launch Oct 19 2026 and counterfeit lookalike tokens, preferably Bloomberg CoinDesk or bank statements"
+      ],
+      "lastReviewedDay": "2026-10-23",
+      "nextReviewDate": "2026-10-24"
     },
     "65d72de1761a9560efb8": {
       "source": "Cointelegraph",
@@ -73342,11 +73371,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7a827e4ee12df6bdcad",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T16:53:04.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "verified-event",
+      "note": "Verified the FCA GC26/7 and CP26/36 consultation pages opening Oct. 21 and closing Nov. 18, with final guidance planned Jan. 2027, against the FCA primary pages and Crypto Briefing's full report. Draft fcadefi.md written with self-hosted Bank of England photo.",
+      "sourceChecks": [
+        {
+          "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/uk-fca-opens-defi-guidance-consultation/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fca.org.uk/publication/guidance-consultation/gc26-7.pdf",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.985Z",
+      "articleSlug": "fcadefi",
+      "lastReviewedDay": "2026-10-23"
     },
     "c56190794627ccdc754f": {
       "source": "CoinDesk",
@@ -73711,11 +73763,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c523e1b5b12267eabb72",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-24T12:03:07.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "duplicate",
+      "note": "digitalcommodity.md already reports the Blockchain Association Oct. 20 comment asking to raise the startup exemption from $5 million to $10 million and the larger offering limit to $150 million, with a link to the group's announcement. A standalone piece would rewrite the same filing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://theblockchainassociation.org/posts/blockchain-association-submits-comments-urging-sec-to-make-regulation-crypto-assets-workable-for-builders-investors-and-us-markets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.985Z",
+      "duplicateOf": "digitalcommodity",
+      "lastReviewedDay": "2026-10-23"
     },
     "78aef94bf455cda2b2bd": {
       "source": "Decrypt",
@@ -78579,11 +78646,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f1f8e97ee3febf7d689",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T07:44:05.017Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T05:17:54.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "duplicate",
+      "note": "Same OCC GENIUS Act final rule already covered by occgenius.md. The Crypto Briefing item is AI-framed prediction-market analysis, not independent reporting.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/occ-finalizes-genius-act-rule-for-stablecoins-effective-january-2027/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.986Z",
+      "duplicateOf": "occgenius",
+      "lastReviewedDay": "2026-10-23"
     },
     "cb56100814459e5ef399": {
       "source": "The Defiant",
@@ -79476,11 +79554,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "56e1254a497fb550fa5e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T10:00:16.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "duplicate",
+      "note": "Deeper dive into the same Oct. 21 OCC final rule already covered by occgenius.md (reserves, rewards, effective Jan. 18, 2027). Reserve-threshold details are further reporting on the same release, not a new event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.986Z",
+      "duplicateOf": "occgenius",
+      "lastReviewedDay": "2026-10-23"
     },
     "e7e9c8fd5087c1fb06f6": {
       "source": "Crypto Briefing",
@@ -79497,11 +79586,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7e9c8fd5087c1fb06f6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T09:14:23.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "source-blocked",
+      "note": "Only readable source is a Crypto Briefing AI prediction-market page stating the bill is 'reportedly nearing completion' with a postponed 22 percent tax debate, without primary National Assembly or government citations. No independent Korean or newswire corroboration opened in this pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/south-koreas-crypto-bill-nears-completion-amid-tax-debate-intensification/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.986Z",
+      "retrySearches": [
+        "Find Korean government or National Assembly reporting on Digital Asset Basic Act passage status and crypto tax bill as of late October 2026, with concrete vote or committee dates"
+      ],
+      "lastReviewedDay": "2026-10-23",
+      "nextReviewDate": "2026-10-24"
     },
     "6f1a71e46d045c376361": {
       "source": "The Block",
@@ -80932,11 +81035,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ac6ca080444f44ac2bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T01:17:12.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "out-of-scope",
+      "note": "Hakeem Jeffries speakership speculation from a Washington Post report is general politics with no Web3, crypto, or digital-asset content. Crypto Briefing published it only as prediction-market framing.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/hakeem-jeffries-poised-to-become-first-black-house-speaker-if-democrats-win/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:05:38.986Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "d520345b3da8a278c3ed": {
       "source": "Crypto Briefing",
@@ -143712,6 +143825,133 @@
           ],
           "reviewedAt": "2026-10-23T08:54:13.731Z",
           "articleSlug": "binanceperp"
+        },
+        "5a09ce3eaeb9d8533e3f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Reg Crypto Assets comment-deadline event already covered by regcrypto.md (closed Oct. 20, ~140 submissions, agency still accepting letters). The bank-backlash and legal-threat details are additional color on that closed period, not a new event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash-and-threats-of-legal-action/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/rules-regulations/public-comments/s7-2026-27",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.985Z",
+          "duplicateOf": "regcrypto"
+        },
+        "adc4fc8b62a62b83a76f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Defiant article body returned HTTP 403 Cloudflare challenge via WebFetch and curl with the readiness User-Agent. Secondary outlets (ChainCatcher, Binance Square relay) only restate The Defiant headline and deck; the JPMorgan JPM Coin page confirms only the warning that same-name tokens at other addresses are unaffiliated, not the count of 13 lookalikes. Need an independent readable report on the Ethereum JPMD launch and counterfeit tokens.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.985Z",
+          "retrySearches": [
+            "Find independent reporting besides The Defiant on JPMorgan JPMD Ethereum launch Oct 19 2026 and counterfeit lookalike tokens, preferably Bloomberg CoinDesk or bank statements"
+          ]
+        },
+        "c7a827e4ee12df6bdcad": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the FCA GC26/7 and CP26/36 consultation pages opening Oct. 21 and closing Nov. 18, with final guidance planned Jan. 2027, against the FCA primary pages and Crypto Briefing's full report. Draft fcadefi.md written with self-hosted Bank of England photo.",
+          "sourceChecks": [
+            {
+              "url": "https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/uk-fca-opens-defi-guidance-consultation/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fca.org.uk/publication/guidance-consultation/gc26-7.pdf",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.985Z",
+          "articleSlug": "fcadefi"
+        },
+        "c523e1b5b12267eabb72": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "digitalcommodity.md already reports the Blockchain Association Oct. 20 comment asking to raise the startup exemption from $5 million to $10 million and the larger offering limit to $150 million, with a link to the group's announcement. A standalone piece would rewrite the same filing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://theblockchainassociation.org/posts/blockchain-association-submits-comments-urging-sec-to-make-regulation-crypto-assets-workable-for-builders-investors-and-us-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.985Z",
+          "duplicateOf": "digitalcommodity"
+        },
+        "0f1f8e97ee3febf7d689": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OCC GENIUS Act final rule already covered by occgenius.md. The Crypto Briefing item is AI-framed prediction-market analysis, not independent reporting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/occ-finalizes-genius-act-rule-for-stablecoins-effective-january-2027/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.986Z",
+          "duplicateOf": "occgenius"
+        },
+        "56e1254a497fb550fa5e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Deeper dive into the same Oct. 21 OCC final rule already covered by occgenius.md (reserves, rewards, effective Jan. 18, 2027). Reserve-threshold details are further reporting on the same release, not a new event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.986Z",
+          "duplicateOf": "occgenius"
+        },
+        "e7e9c8fd5087c1fb06f6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Only readable source is a Crypto Briefing AI prediction-market page stating the bill is 'reportedly nearing completion' with a postponed 22 percent tax debate, without primary National Assembly or government citations. No independent Korean or newswire corroboration opened in this pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/south-koreas-crypto-bill-nears-completion-amid-tax-debate-intensification/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.986Z",
+          "retrySearches": [
+            "Find Korean government or National Assembly reporting on Digital Asset Basic Act passage status and crypto tax bill as of late October 2026, with concrete vote or committee dates"
+          ]
+        },
+        "6ac6ca080444f44ac2bf": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Hakeem Jeffries speakership speculation from a Washington Post report is general politics with no Web3, crypto, or digital-asset content. Crypto Briefing published it only as prediction-market framing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/hakeem-jeffries-poised-to-become-first-black-house-speaker-if-democrats-win/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:05:38.986Z"
         }
       },
       "baselineSlugs": [
