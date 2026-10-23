@@ -2055,7 +2055,7 @@
     "sentAt": "2026-10-23T03:47:17.687Z"
   },
   "67463425-8cea-4c5a-895f-78c24a600a53": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T11:32:54.386Z",
     "stories": [
       {
@@ -2083,6 +2083,8 @@
         "originalTitle": "Fireblocks denies report of $2.5 billion Visa acquisition talks"
       }
     ],
-    "slotKey": "2026-10-23:afternoon"
+    "slotKey": "2026-10-23:afternoon",
+    "messageId": 155901,
+    "sentAt": "2026-10-23T11:33:01.163Z"
   }
 }

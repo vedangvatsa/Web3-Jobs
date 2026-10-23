@@ -794,6 +794,9 @@
   "https://hashtagweb3.com/superplanet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fcadefi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fireblocksvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2289,6 +2292,12 @@
   "French Assembly backs tax on crypto-to-stablecoin swaps by one vote",
   "Latvia Approves New Crypto Tax Rules and Declaration Window",
   "Latvia adopts 10% one-time crypto declaration and investment-account tax",
+  "Binance Adjusts Futures Funding Following Blue Ocean Outage",
+  "Binance Excludes Blue Ocean Outage Window From US Stock Perp Funding",
+  "FCA consults on DeFi resilience and cryptoasset exclusions",
+  "FCA consults on DeFi operational resilience and perimeter exclusions",
+  "Fireblocks Denies $2.5 Billion Visa Acquisition Reports",
+  "Fireblocks denies report of $2.5 billion Visa acquisition talks",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2633,5 +2642,8 @@
   "fp:175m|balanc|can|card|digital|directly|enabl|global|let|location",
   "fp:100|25m|approv|btc|investment|itself|leagu|metaplanet|owner|rebrand",
   "fp:assembly|back|continu|exit|franc|french|in2027|measur|official|one",
-  "fp:account|adopt|adopts10|approv|asset|by2027|declar|declaration|introduc|investment"
+  "fp:account|adopt|adopts10|approv|asset|by2027|declar|declaration|introduc|investment",
+  "fp:adjust|binanc|blu|data|exclud|follow|fund|futur|halt|hour",
+  "fp:consult|cryptoasset|defi|exclusion|fca|final|guidanc|issu|january2027|must",
+  "fp:25b|acquisition|axio|claim|deny|fireblock|firm|giant|lat|negotiation"
 ]
