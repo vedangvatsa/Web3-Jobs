@@ -3863,7 +3863,7 @@
     "sentAt": "2026-10-23T03:43:51.229Z"
   },
   "ed6acff9-46c3-4ce5-b93f-fc0499e2f355": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T19:32:06.558Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3977,6 +3977,8 @@
       }
     ],
     "message": "- Notabene is hiring <a href=\"https://hashtagweb3.com/gp2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">GTM Partnerships Lead</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Paid Media Channel Manager</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/mkt47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Experiential Marketing Manager</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arar?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Research - Agentic RL</a>\n- Coins.ph is hiring <a href=\"https://hashtagweb3.com/sec59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security &amp; Systems Compliance Specialist</a>",
-    "slotKey": "2026-10-23:evening"
+    "slotKey": "2026-10-23:evening",
+    "messageId": 155903,
+    "sentAt": "2026-10-23T19:32:21.250Z"
   }
 }
