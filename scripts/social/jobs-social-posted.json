@@ -44737,7 +44737,8 @@
       },
       "account": "channel:dev",
       "attemptId": "094c49fe-2158-44d0-98d8-a5fe17a30261",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2aa0cbb151225db93b18a0bd69276a8b871cf875"
     }
   ]
 }
