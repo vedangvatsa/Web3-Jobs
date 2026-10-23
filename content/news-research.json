@@ -73028,13 +73028,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc2964f96502bc13620a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T20:55:23.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Three TSVs under SEC innovation exemption: TSV LLC (Puerto Rico, Abrar/Trinkle, Canton Network, notice Sept 23 revised Oct 19), OKXICE TSV (Texas JV 50% ICE 50% OKC USA, X Layer, notice Oct 4), Kephas Corp d/b/a Perpetuals.com (Delaware sub of Nasdaq: PDC, Kronos X Public L2, notice Oct 14). SEC Wednesday announcement confirms three names; inclusion does not mean exemption conditions met. OKXICE already faces 16 issuer objections including Microsoft Alphabet Goldman Sachs per TokenPost Oct 19 notice. Exemption: 5 years, 30-day public notice, 1 business day SEC submission, 30-day issuer objection window. None launched.",
+      "note": "Re-read Bitcoin Magazine, Coinfomania, TSV LLC public notice (primary), Perpetuals.com press release (primary) and TokenPost on Oct 23. SEC Wednesday announcement names TSV LLC, OKXICE and Kephas Corp d/b/a Perpetuals.com as the three notified tokenized securities venue operators; inclusion does not mean exemption conditions are met. Drafted content/articles/secstocks.md (722 words) with self-hosted SEC headquarters hero at 326KB; quality, formatting, image and duplicate audits clean; all outbound links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
@@ -73055,19 +73055,11 @@
         {
           "url": "https://www.tokenpost.com/news/regulation/35202",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-          "outcome": "read"
-        },
-        {
-          "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T10:51:44.768Z",
+      "reviewedAt": "2026-10-23T08:54:06.665Z",
       "articleSlug": "secstocks",
-      "lastReviewedDay": "2026-10-22",
+      "lastReviewedDay": "2026-10-23",
       "lastValidationErrors": [],
       "draftProgress": {
         "id": "cc2964f96502bc13620a",
@@ -143674,6 +143666,35 @@
           ],
           "reviewedAt": "2026-10-23T08:42:43.179Z",
           "duplicateOf": "cakeflip"
+        },
+        "cc2964f96502bc13620a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine, Coinfomania, TSV LLC public notice (primary), Perpetuals.com press release (primary) and TokenPost on Oct 23. SEC Wednesday announcement names TSV LLC, OKXICE and Kephas Corp d/b/a Perpetuals.com as the three notified tokenized securities venue operators; inclusion does not mean exemption conditions are met. Drafted content/articles/secstocks.md (722 words) with self-hosted SEC headquarters hero at 326KB; quality, formatting, image and duplicate audits clean; all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenizedstockvenue.com/notice.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/35202",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:54:06.665Z",
+          "articleSlug": "secstocks"
         }
       },
       "baselineSlugs": [
