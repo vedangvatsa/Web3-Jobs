@@ -44669,6 +44669,40 @@
       "attemptId": "478988dc-b489-4a20-8ceb-9b4b8efa655d",
       "verification": "verified",
       "postId": "0xe30076c97371be4190c63018906cce918ed949a2"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "5afa7a6b-4974-4990-9b05-0c90daacf519",
+      "verification": "creating"
     }
   ]
 }
