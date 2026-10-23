@@ -47565,6 +47565,41 @@
       "attemptId": "05371b34-c65c-4f7c-afbe-2255bf93a804",
       "verification": "verified",
       "postId": "0xee5972a8370f1331728465d2755250dbd40f1e87"
+    },
+    {
+      "slug": "eng586",
+      "company": "Alchemy",
+      "title": "Senior Data Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T11:36:53.419Z",
+      "expectedText": "Alchemy is hiring Senior Data Engineer\n\nhttps://hashtagweb3.com/eng586/fc?og=7",
+      "snapshot": {
+        "id": "37fa4765-8e1d-4c61-ba52-071e2d6bead0",
+        "title": "Senior Data Engineer",
+        "company": "Alchemy",
+        "link": "https://jobs.ashbyhq.com/alchemy/37fa4765-8e1d-4c61-ba52-071e2d6bead0",
+        "date": "2026-10-13T16:19:27.699+00:00",
+        "source": "Ashby: Alchemy [alchemy]",
+        "location": "Hybrid (New York)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng586"
+      },
+      "payload": {
+        "text": "Alchemy is hiring Senior Data Engineer\n\nhttps://hashtagweb3.com/eng586/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng586/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "aa548a67-6693-43df-aabf-60a330eda7e7",
+      "verification": "creating"
     }
   ]
 }
