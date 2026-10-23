@@ -48453,7 +48453,8 @@
       },
       "account": "channel:ai",
       "attemptId": "1a7c1419-72f1-4370-905b-ea739bd16076",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf87c19a21a4136affe8d2813e9375fcfa7dbd119"
     }
   ]
 }
