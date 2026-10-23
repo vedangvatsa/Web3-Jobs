@@ -1977,7 +1977,7 @@
     "sentAt": "2026-10-23T11:34:07.476Z"
   },
   "603d48e1-9f1b-4b33-a19f-eb859adc0dae": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T19:32:19.695Z",
     "stories": [
       {
@@ -2007,6 +2007,8 @@
         "originalTitle": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs"
       }
     ],
-    "slotKey": "2026-10-23:evening"
+    "slotKey": "2026-10-23:evening",
+    "messageId": 193389,
+    "sentAt": "2026-10-23T19:32:22.327Z"
   }
 }
