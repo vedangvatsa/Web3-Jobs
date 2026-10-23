@@ -791,6 +791,9 @@
   "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/pbit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/visamesh?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/superplanet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2280,6 +2283,12 @@
   "BlackRock files for third bitcoin ETF, a protected-outcome fund on IBIT",
   "Visa and Mesh enable stablecoin payments at global merchants",
   "Visa and Mesh let wallets spend stablecoins at 175 million merchants",
+  "Super League Approves Metaplanet Investment and Superplanet Rebrand",
+  "Super League owners approve Metaplanet's 2,100 BTC deal and Superplanet rebrand",
+  "France to tax crypto-to-stablecoin swaps starting in 2027",
+  "French Assembly backs tax on crypto-to-stablecoin swaps by one vote",
+  "Latvia Approves New Crypto Tax Rules and Declaration Window",
+  "Latvia adopts 10% one-time crypto declaration and investment-account tax",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2621,5 +2630,8 @@
   "fp:60m|bett|demand|firm|gambl|illegal|kalshi|label|market|official",
   "fp:198m|61m|700|approximately|asset|cash|deposited25|drift|eth|exploit",
   "fp:blackrock|capp|downsid|etf|fil|fund|ibit|limit|loss|option",
-  "fp:175m|balanc|can|card|digital|directly|enabl|global|let|location"
+  "fp:175m|balanc|can|card|digital|directly|enabl|global|let|location",
+  "fp:100|25m|approv|btc|investment|itself|leagu|metaplanet|owner|rebrand",
+  "fp:assembly|back|continu|exit|franc|french|in2027|measur|official|one",
+  "fp:account|adopt|adopts10|approv|asset|by2027|declar|declaration|introduc|investment"
 ]

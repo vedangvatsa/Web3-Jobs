@@ -2022,7 +2022,7 @@
     "sentAt": "2026-10-22T19:35:04.304Z"
   },
   "0b44b037-9fa3-4390-a777-86bcc06c1ec6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T03:47:06.977Z",
     "stories": [
       {
@@ -2050,6 +2050,8 @@
         "originalTitle": "Latvia adopts 10% one-time crypto declaration and investment-account tax"
       }
     ],
-    "slotKey": "2026-10-23:morning"
+    "slotKey": "2026-10-23:morning",
+    "messageId": 155898,
+    "sentAt": "2026-10-23T03:47:17.687Z"
   }
 }
