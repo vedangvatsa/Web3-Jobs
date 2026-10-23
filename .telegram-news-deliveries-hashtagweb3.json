@@ -2086,5 +2086,36 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 155901,
     "sentAt": "2026-10-23T11:33:01.163Z"
+  },
+  "4762c3b8-b87b-4f60-8438-9bba3dba1881": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:33:01.682Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Polymarket Challenges Ohio Licensing Demand in Federal Court",
+        "summary": "The exchange claims Ohio's licensing demand violates the Commerce Clause and conflicts with federal commodities law.",
+        "link": "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket sues Ohio in federal court over sports event contract order"
+      },
+      {
+        "index": -1,
+        "headline": "Aerodrome and Velodrome merge to form Aero exchange",
+        "summary": "The decentralized exchange operates on seven networks, converting existing tokens into AERO and locked positions into sAERO.",
+        "link": "https://hashtagweb3.com/aeromerge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aero launches as Aerodrome and Velodrome merge across seven chains"
+      },
+      {
+        "index": -1,
+        "headline": "Bank Negara Malaysia Launches Tokenized Bond Platform",
+        "summary": "The central bank introduced a blockchain system for issuing and settling digital bonds and Islamic sukuk.",
+        "link": "https://hashtagweb3.com/malayssds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bank Negara Malaysia launches SSDS+ platform for tokenized bonds and sukuk"
+      }
+    ],
+    "slotKey": "2026-10-23:evening"
   }
 }
