@@ -45205,7 +45205,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "f3196fa8-f02f-4c46-adb0-e4f08a3c505d",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adad8881dc335d347f123d2"
     }
   ]
 }
