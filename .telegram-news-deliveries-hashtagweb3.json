@@ -2053,5 +2053,36 @@
     "slotKey": "2026-10-23:morning",
     "messageId": 155898,
     "sentAt": "2026-10-23T03:47:17.687Z"
+  },
+  "67463425-8cea-4c5a-895f-78c24a600a53": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T11:32:54.386Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Binance Adjusts Futures Funding Following Blue Ocean Outage",
+        "summary": "Binance omitted three hours of index data from a stock futures settlement following an Oct. 20 trading halt.",
+        "link": "https://hashtagweb3.com/binanceperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Excludes Blue Ocean Outage Window From US Stock Perp Funding"
+      },
+      {
+        "index": -1,
+        "headline": "FCA consults on DeFi resilience and cryptoasset exclusions",
+        "summary": "Stakeholders must respond by November 18, before the regulator issues final guidance in January 2027.",
+        "link": "https://hashtagweb3.com/fcadefi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FCA consults on DeFi operational resilience and perimeter exclusions"
+      },
+      {
+        "index": -1,
+        "headline": "Fireblocks Denies $2.5 Billion Visa Acquisition Reports",
+        "summary": "The crypto firm refuted an Axios report claiming the payments giant was in late-stage deal negotiations.",
+        "link": "https://hashtagweb3.com/fireblocksvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fireblocks denies report of $2.5 billion Visa acquisition talks"
+      }
+    ],
+    "slotKey": "2026-10-23:afternoon"
   }
 }
