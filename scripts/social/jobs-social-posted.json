@@ -46440,7 +46440,8 @@
       },
       "account": "channel:dev",
       "attemptId": "617709b5-bdc5-4a1c-aec6-e08ab7790e3d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa723f983cd58d6d13d577633a3f01758bf06d6eb"
     }
   ]
 }
