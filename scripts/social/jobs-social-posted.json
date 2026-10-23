@@ -49353,7 +49353,8 @@
       },
       "account": "channel:product",
       "attemptId": "f6907470-77f7-4557-8666-5a19d5cc23d8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe1d062cf0c79604a6eead6cc53cbde878503dda5"
     }
   ]
 }
