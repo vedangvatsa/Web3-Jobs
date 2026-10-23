@@ -48523,7 +48523,8 @@
       },
       "account": "channel:design",
       "attemptId": "fad2914d-6743-47f1-879b-dad36c4c8a7b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x752020ddd19627781696fb7d4679196475d7f5f8"
     }
   ]
 }
