@@ -3743,7 +3743,7 @@
     "sentAt": "2026-10-22T19:32:25.244Z"
   },
   "0d3b6672-e311-4460-8b10-cadbf1ca3e5f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T03:43:48.032Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3858,6 +3858,8 @@
       }
     ],
     "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/ops16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Analyst, Deal Operations</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/cmp111?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel (Commercial), UK</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/rec41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trader</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/sec85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer - AppSec</a>",
-    "slotKey": "2026-10-23:morning"
+    "slotKey": "2026-10-23:morning",
+    "messageId": 155896,
+    "sentAt": "2026-10-23T03:43:51.229Z"
   }
 }
