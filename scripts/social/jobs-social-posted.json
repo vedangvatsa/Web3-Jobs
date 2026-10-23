@@ -49467,8 +49467,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "0eef265b-8143-4986-a4fb-2b2665ed776a",
-      "verification": "pending",
-      "postId": "6adbb779bd33ce99c3e9d075"
+      "verification": "verified",
+      "postId": "6adbb779bd33ce99c3e9d075",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519482236987994112"
     }
   ]
 }
