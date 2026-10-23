@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-23T03:43:47.024Z",
+  "generatedAt": "2026-10-23T07:57:52.742Z",
   "items": [
+    {
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "link": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 07:15:53 +0000",
+      "creator": "Yohan Yun",
+      "contentSnippet": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 07:09:39 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Thursday’s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 05:09:41 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating respo...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "pubDate": "Fri, 23 Oct 2026 05:01:19 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "pubDate": "Fri, 23 Oct 2026 04:36:51 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Toto Finance wants 22 million ADA from Cardano’s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 04:34:14 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "link": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+      "pubDate": "Fri, 23 Oct 2026 04:03:09 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+      "source": "The Block"
+    },
     {
       "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
       "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
@@ -26,7 +82,7 @@
       "source": "The Block"
     },
     {
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 23 Oct 2026 00:59:35 +0000",
       "creator": "Felix Ng",
@@ -96,14 +152,6 @@
       "creator": "Yogita Khatri",
       "contentSnippet": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
       "source": "The Block"
-    },
-    {
-      "title": "Ethereum delays Glamsterdam Hoodi upgrade over EIP-8037 review",
-      "link": "https://Blockchain.News/news/ethereum-delays-glamsterdam-hoodi-upgrade-eip-8037-review",
-      "pubDate": "Thu, 22 Oct 2026 19:07:38 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "Ethereum postponed the Hoodi Glamsterdam testnet upgrade from Oct. 26 to review EIP-8037 interactions with mainnet smart contracts. (Read More)",
-      "source": "Blockchain.News"
     },
     {
       "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
@@ -442,44 +490,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 20:19:39 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The US President detailed many schemes defrauding Americans, but referred only to “cybercurrency“ related to scams.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 17:57:39 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for cryp...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
       "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
       "pubDate": "Wed, 21 Oct 2026 17:31:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
       "source": "Decrypt"
-    },
-    {
-      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-      "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 17:25:00 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory re...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform ",
-      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 21 Oct 2026 17:10:54 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a “watershed moment for American finance.”",
-      "source": "Cointelegraph"
     },
     {
       "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
@@ -496,6 +512,14 @@
       "creator": "Yogita Khatri",
       "contentSnippet": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.",
       "source": "The Block"
+    },
+    {
+      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+      "pubDate": "Wed, 21 Oct 2026 16:23:44 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organi...",
+      "source": "Coindesk"
     },
     {
       "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
@@ -568,30 +592,6 @@
       "creator": "Tyler Warner",
       "contentSnippet": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "pubDate": "Wed, 21 Oct 2026 12:12:36 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Vault12 raised $17.45 million selling VGT in 2018 and says it met or dropped every promise, yet the token has never traded on a centralized exchange.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "pubDate": "Wed, 21 Oct 2026 12:10:39 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The collaboration will explore card-linked merchant payments for Japanese visitors in South Korea and peer-to-peer wallet transfers among broader cros...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and busine...",
-      "source": "Coindesk"
     },
     {
       "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
