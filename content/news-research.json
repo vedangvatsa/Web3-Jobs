@@ -81070,7 +81070,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-26T01:13:50.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "wtiperp",
+      "draftProgress": {
+        "id": "d520345b3da8a278c3ed",
+        "day": "2026-10-23",
+        "articleSlug": "wtiperp",
+        "note": "Slug reserved; no draft file yet. Read Crypto Briefing's report of the CMC letter. The Kalshi WTIPERP filing PDF on cftc.gov still needs opening as primary source and a second readable independent outlet (Bloomberg reported it but is paywalled); draft outstanding.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T09:09:41.338Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b36f2304bc26a43ce1eb": {
       "source": "Crypto Briefing",
