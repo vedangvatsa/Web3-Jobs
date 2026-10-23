@@ -7,7 +7,9 @@ const targets = {
 };
 const target = targets[process.env.PUBLISHER_TARGET];
 if (!target) throw new Error('Choose msn or newsbreak.');
-const payload = {
+const message = process.env.PUBLISHER_MESSAGE || 'initial';
+if (!['initial', 'community-profile'].includes(message)) throw new Error('Choose an approved publisher message.');
+const initialPayload = {
   from: 'Hashtag Web3 <hi@hashtagweb3.com>',
   reply_to: 'hi@hashtagweb3.com',
   to: [target.to],
@@ -31,16 +33,51 @@ Thank you,
 Hashtag Web3
 hi@hashtagweb3.com`,
 };
+const payload = message === 'initial' ? initialPayload : {
+  from: initialPayload.from, reply_to: initialPayload.reply_to, to: initialPayload.to,
+  subject: 'Hashtag Web3 publisher inquiry: community profile and live news feed',
+  text: `Hello ${target.name} team,
+
+Following our publisher-onboarding inquiry, we would like to share a fuller introduction to Hashtag Web3 and confirm that our news feed is now live.
+
+Hashtag Web3 is a global Web3 community of over 100,000 professionals and a knowledge and original news publisher. Our audience includes developers, founders, investors, operators, marketers and product teams working across blockchain and crypto.
+
+Our community profile is the best introduction to our reach, channels and work:
+https://hashtagweb3.com/community
+
+Alongside original crypto and Web3 news, we publish blockchain and career guides, interview preparation, salary resources and practical tools. Our community activities include founder interviews, demo days and industry-event collaborations, with examples involving Onepiece Labs and Sei, Obortech, and AltLayer documented on the community page. Members connect through Telegram, LinkedIn, regional WhatsApp groups, X Spaces and podcasts.
+
+News: https://hashtagweb3.com/news
+Knowledge and career resources: https://hashtagweb3.com/resources
+Live RSS feed: https://hashtagweb3.com/news/feed.xml
+
+Recent native article samples:
+https://hashtagweb3.com/secstocks
+https://hashtagweb3.com/fcadefi
+https://hashtagweb3.com/fireblocksvisa
+
+The RSS feed contains our native articles' headlines, summaries, original dates and canonical links. We can prepare your required full-content format during onboarding. Our workflow uses AI-assisted research and drafting with source and publication checks; we will follow your platform's disclosure requirements.
+
+Publisher organization: Hashtag Web3
+Country: United States
+Contact: hi@hashtagweb3.com
+
+Please consider Hashtag Web3 for publisher onboarding and let us know the application or invitation steps for ongoing news-feed distribution.
+
+Thank you,
+Hashtag Web3
+hi@hashtagweb3.com`,
+};
 const mode = process.env.PUBLISHER_MODE || 'preview';
 if (!['preview', 'send', 'readback'].includes(mode)) throw new Error('Invalid mode.');
 if (mode === 'preview') {
-  console.log(JSON.stringify({ target, payload }, null, 2));
+  console.log(JSON.stringify({ target, message, payload }, null, 2));
 } else {
   const token = process.env.GH_TOKEN;
   const key = process.env.RESEND_API_KEY;
   if (!token || !key) throw new Error('Missing required credentials.');
   if (process.env.GITHUB_REPOSITORY !== 'vedangvatsa/Web3-Jobs') throw new Error('Wrong repository.');
-  const path = `docs/publisher-outreach/${process.env.PUBLISHER_TARGET}-2026-10-23.json`;
+  const path = `docs/publisher-outreach/${process.env.PUBLISHER_TARGET}${message === 'initial' ? '' : '-community-profile'}-2026-10-23.json`;
   const endpoint = `https://api.github.com/repos/vedangvatsa/Web3-Jobs/contents/${path}`;
   const headers = { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28', 'Content-Type': 'application/json' };
   const response = await fetch(`${endpoint}?ref=main`, { headers, signal: AbortSignal.timeout(20_000) });
@@ -61,7 +98,16 @@ if (mode === 'preview') {
   }
   if (mode === 'send') {
     if (receipt) throw new Error('Inquiry already claimed. Use readback; never resend automatically.');
-    receipt = { platform: process.env.PUBLISHER_TARGET, status: 'claimed', claimedAt: new Date().toISOString(), recipient: target.to, recipientSource: target.source, payload, payloadSha256: createHash('sha256').update(JSON.stringify(payload)).digest('hex'), providerId: null };
+    let followsUpProviderId;
+    if (message === 'community-profile') {
+      const original = await fetch(`https://api.github.com/repos/vedangvatsa/Web3-Jobs/contents/docs/publisher-outreach/${process.env.PUBLISHER_TARGET}-2026-10-23.json?ref=main`, { headers, signal: AbortSignal.timeout(20_000) });
+      if (!original.ok) throw new Error('The original publisher inquiry could not be verified; no follow-up sent.');
+      const entry = await original.json();
+      const initial = JSON.parse(Buffer.from(entry.content, 'base64').toString('utf8'));
+      if (!initial.providerId || initial.status !== 'accepted_by_resend' || JSON.stringify(initial.payload?.to) !== JSON.stringify(payload.to)) throw new Error('The original publisher inquiry is not confirmed for this recipient.');
+      followsUpProviderId = initial.providerId;
+    }
+    receipt = { platform: process.env.PUBLISHER_TARGET, message, ...(followsUpProviderId && { followsUpProviderId }), status: 'claimed', claimedAt: new Date().toISOString(), recipient: target.to, recipientSource: target.source, payload, payloadSha256: createHash('sha256').update(JSON.stringify(payload)).digest('hex'), providerId: null };
     await checkpoint();
     const sent = await fetch('https://api.resend.com/emails', {
       method: 'POST', signal: AbortSignal.timeout(30_000),

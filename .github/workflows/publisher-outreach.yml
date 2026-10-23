@@ -12,6 +12,11 @@ on:
         options: [preview, send, readback]
         default: preview
         required: true
+      message:
+        type: choice
+        options: [initial, community-profile]
+        default: initial
+        required: true
 
 concurrency:
   group: publisher-onboarding-inquiry
@@ -35,6 +40,7 @@ jobs:
         env:
           PUBLISHER_TARGET: ${{ inputs.target }}
           PUBLISHER_MODE: ${{ inputs.mode }}
+          PUBLISHER_MESSAGE: ${{ inputs.message }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           GH_TOKEN: ${{ github.token }}
         run: node scripts/publisher-outreach.mjs
