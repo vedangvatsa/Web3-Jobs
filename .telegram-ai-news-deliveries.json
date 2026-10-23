@@ -1907,7 +1907,7 @@
     "sentAt": "2026-10-21T19:33:37.505Z"
   },
   "1ece1b5e-81b2-44a2-b26f-e584d9f3a41f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T03:44:57.005Z",
     "stories": [
       {
@@ -1935,6 +1935,8 @@
         "originalTitle": "Designing an AI serving harness built to last"
       }
     ],
-    "slotKey": "2026-10-23:morning"
+    "slotKey": "2026-10-23:morning",
+    "messageId": 193385,
+    "sentAt": "2026-10-23T03:45:54.115Z"
   }
 }
