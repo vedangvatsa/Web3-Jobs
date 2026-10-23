@@ -48033,7 +48033,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "1a85d420-2d89-4991-bf9f-c43096ee5cc0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb947451159a89eb94c6633c969acd84b4f54a20"
     }
   ]
 }
