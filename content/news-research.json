@@ -73758,17 +73758,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "7539ea1fd9af398c93a3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T11:01:02.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "same OCC final rule story; covered by the ready draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "note": "Same Oct. 21 OCC final rule implementing the GENIUS Act already covered by content/articles/occgenius.md (reserve, redemption, custody provisions and Jan. 18, 2027 effective date). The Block headline names the identical rulemaking; OCC News Release 2026-92 confirms the final rule date.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:42:40.841Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-23"
     },
     "9dceba750a7c01f1ce32": {
       "source": "CoinDesk",
@@ -143584,6 +143589,19 @@
           ],
           "reviewedAt": "2026-10-23T08:38:15.731Z",
           "articleSlug": "polymarketohio"
+        },
+        "7539ea1fd9af398c93a3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 21 OCC final rule implementing the GENIUS Act already covered by content/articles/occgenius.md (reserve, redemption, custody provisions and Jan. 18, 2027 effective date). The Block headline names the identical rulemaking; OCC News Release 2026-92 confirms the final rule date.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:42:40.841Z",
+          "duplicateOf": "occgenius"
         }
       },
       "baselineSlugs": [
