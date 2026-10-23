@@ -49510,7 +49510,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "c8d33706-184d-4e33-ba90-ac91abf5464e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adbb7958b3d437ddc82c71c"
     }
   ]
 }
