@@ -73715,17 +73715,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3dbbcb4f195d2243c344",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T11:12:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "duplicate",
-      "note": "same OCC final rule, yield presumption angle covered; covered by the ready draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "note": "Same Oct. 21 OCC final rule implementing the GENIUS Act already covered by content/articles/occgenius.md, including the removal of the rebuttable presumptions on rewards programs. The OCC news release confirms the final rule date of Oct. 21, 2026. The Defiant URL returned HTTP 403, but its headline names the identical rulemaking.",
+      "sourceChecks": [
+        {
+          "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:31:27.896Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-23"
     },
     "7539ea1fd9af398c93a3": {
       "source": "The Block",
@@ -143534,6 +143543,23 @@
           ],
           "reviewedAt": "2026-10-23T08:24:08.233Z",
           "articleSlug": "tetherhines"
+        },
+        "3dbbcb4f195d2243c344": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 21 OCC final rule implementing the GENIUS Act already covered by content/articles/occgenius.md, including the removal of the rebuttable presumptions on rewards programs. The OCC news release confirms the final rule date of Oct. 21, 2026. The Defiant URL returned HTTP 403, but its headline names the identical rulemaking.",
+          "sourceChecks": [
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:31:27.896Z",
+          "duplicateOf": "occgenius"
         }
       },
       "baselineSlugs": [
