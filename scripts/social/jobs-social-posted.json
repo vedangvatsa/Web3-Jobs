@@ -49467,7 +49467,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "0eef265b-8143-4986-a4fb-2b2665ed776a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adbb779bd33ce99c3e9d075"
     }
   ]
 }
