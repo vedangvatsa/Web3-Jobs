@@ -44528,7 +44528,8 @@
         "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "9374b524-1724-40fe-a146-965ba0c16c2c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myjbage6yv2q"
     }
   ]
 }
