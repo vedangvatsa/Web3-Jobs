@@ -80618,9 +80618,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3179b78ecae5bf15f09",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T22:43:36.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "tetherhines",
@@ -80642,7 +80642,25 @@
         "updatedAt": "2026-10-23T08:03:40.377Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the full CoinDesk Oct. 22 report and the Blumenthal press release with both letter texts; verified the Oct. 22 letters, Nov. 3/Nov. 6 deadlines, 15,000 monthly and M payment figures, GENIUS Act lobbying allegations and Tether's no-wrongdoing statement. Drafted 653-word article; quality, image, formatting and duplicate audits pass; hero is the public-domain Wikimedia photo, 217KB.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-investigates-tethers-multimillion-dollar-payment-to-consulting-firm-owned-by-white-house-official-who-previously-led-crypto-policy",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Richard%20Blumenthal%20at%20the%202021%20inauguration%20of%20Joe%20Biden%2002.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:24:08.233Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "7342d91cb2b814cc4bd5": {
       "source": "The Defiant",
@@ -143495,6 +143513,27 @@
           ],
           "reviewedAt": "2026-10-23T08:18:20.296Z",
           "duplicateOf": "occgenius"
+        },
+        "a3179b78ecae5bf15f09": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the full CoinDesk Oct. 22 report and the Blumenthal press release with both letter texts; verified the Oct. 22 letters, Nov. 3/Nov. 6 deadlines, 15,000 monthly and M payment figures, GENIUS Act lobbying allegations and Tether's no-wrongdoing statement. Drafted 653-word article; quality, image, formatting and duplicate audits pass; hero is the public-domain Wikimedia photo, 217KB.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-investigates-tethers-multimillion-dollar-payment-to-consulting-firm-owned-by-white-house-official-who-previously-led-crypto-policy",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Richard%20Blumenthal%20at%20the%202021%20inauguration%20of%20Joe%20Biden%2002.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:24:08.233Z",
+          "articleSlug": "tetherhines"
         }
       },
       "baselineSlugs": [
