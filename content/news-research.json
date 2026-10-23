@@ -80684,7 +80684,31 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T15:35:01.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "robinhooddubai",
+      "draftProgress": {
+        "id": "fa90fe1d70919fac9347",
+        "day": "2026-10-23",
+        "articleSlug": "robinhooddubai",
+        "note": "Read Bitcoin Magazine and The National on the DFSA authorization; draft, hero image and front matter still need to be written and verified.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:03:36.504Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "3cbfe8de3e89ec468f2d": {
       "source": "Cointelegraph",
