@@ -48684,7 +48684,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "cfeef6d5-95b7-44f0-97ab-4e6fc2b347ed",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7519481571746340864"
     }
   ]
 }
