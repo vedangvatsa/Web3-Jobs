@@ -1938,5 +1938,40 @@
     "slotKey": "2026-10-23:morning",
     "messageId": 193385,
     "sentAt": "2026-10-23T03:45:54.115Z"
+  },
+  "dc9e36c2-493d-4783-a657-1d943cf82952": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T11:34:00.115Z",
+    "stories": [
+      {
+        "index": 8,
+        "original_title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "headline": "Uber deploys enterprise AI tools to entire workforce",
+        "summary": "The company expanded its internal use of generative AI software to all 30,000 staff members for operational tasks.",
+        "event_rationale": "This represents a significant, large-scale enterprise adoption of generative AI tools by a major global corporation.",
+        "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "source": "TechCrunch",
+        "originalTitle": "Uber puts all 30,000 employees on ChatGPT Work"
+      },
+      {
+        "index": 6,
+        "original_title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "headline": "Microsoft diagnostic AI system exceeds human accuracy in study",
+        "summary": "Researchers found the system outperformed generalist physicians on difficult medical cases according to peer-reviewed data.",
+        "event_rationale": "This reports on a specific, validated research breakthrough in AI-driven medical diagnostics that is distinct from infrastructure or funding news.",
+        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "source": "TechCrunch",
+        "originalTitle": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’"
+      },
+      {
+        "index": 1,
+        "headline": "inDrive Plans 2027 Robotaxi Trials in Kazakhstan",
+        "summary": "The rideshare company aims to launch self-driving vehicle tests in Astana during the first half of 2027.",
+        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "source": "TechCrunch",
+        "originalTitle": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
+      }
+    ],
+    "slotKey": "2026-10-23:afternoon"
   }
 }
