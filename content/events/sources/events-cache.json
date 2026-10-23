@@ -20465,7 +20465,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -27855,7 +27855,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316912416-ca1c1669.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28342,6 +28342,59 @@
     "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/317014775/",
     "coverImage": null,
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-N35yh92yXHm4L30",
+    "name": "Silicon Valley Physical AI Workshop and Meetup",
+    "description": "",
+    "startDate": "2026-10-28T00:30:00.000Z",
+    "endDate": "2026-10-28T03:30:00.000Z",
+    "city": "Menlo Park",
+    "country": "United States",
+    "location": "Menlo Park, United States",
+    "url": "https://lu.ma/silicon-valley-physical-ai-workshop-and-meetup-oct",
+    "coverImage": "/events/luma-evt-n35yh92yxhm4l30-804e9aca.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-the-local-wmc---breakpointdas-edition",
+    "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
+    "description": "The LOCAL W.M.C: an East London crypto party by LO:TECH and Superteam UK with free drinks, prizes, DJ sets and a live band.",
+    "startDate": "2026-11-12T19:00:00.000Z",
+    "endDate": "2026-11-13T01:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/lo-qqld",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-solana-fitness-zone-hiit-class--breakpoint-2026",
+    "name": "Solana Fitness Zone: HIIT Class | Breakpoint 2026",
+    "description": "Solana Fitness Zone: HIIT Class: a 50-minute Breakpoint London workout for founders and builders hosted by OFFLINE.",
+    "startDate": "2026-11-15T07:00:00.000Z",
+    "endDate": "2026-11-15T07:45:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/solanahiit",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-solana-fitness-zone-mental-reset-workshop--breakpoint-2026",
+    "name": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026",
+    "description": "Solana Fitness Zone: Mental Reset Workshop: a Breakpoint London session for founders and builders focused on clearing mental clutter.",
+    "startDate": "2026-11-15T10:45:00.000Z",
+    "endDate": "2026-11-15T11:45:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/solanareset",
+    "coverImage": null,
     "month": "November 2026"
   }
 ]

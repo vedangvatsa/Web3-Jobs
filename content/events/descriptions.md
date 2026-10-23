@@ -71995,6 +71995,18 @@ The program includes structured building, daily product reviews, on-site mentors
 
 House of NGMI, an AI and crypto creator house, runs in parallel. Participants are expected to work on products through building, launching and marketing during the residency.
 
+<a id="event-0e853ee2f7553120"></a>
+
+## Silicon Valley Physical AI Workshop and Meetup
+
+- Record: `luma-evt-N35yh92yXHm4L30`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/silicon-valley-physical-ai-workshop-and-meetup-oct>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cbf60747df48c357"></a>
 
 ## Expat Mums Dubai \| Halloween Special 🎃 Coffee & Play Club @Lemonade Play
@@ -74193,6 +74205,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6e515edade4a36ac"></a>
+
+## The LOCAL W.M.C - Breakpoint/DAS Edition
+
+- Record: `w3v-the-local-wmc---breakpointdas-edition`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/lo-qqld>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3bce720923069a61"></a>
 
 ## RWA Hour - 2 edição
@@ -74369,6 +74393,18 @@ Previous Events:
 
 etc.
 
+<a id="event-38c670df9185292c"></a>
+
+## Solana Fitness Zone: HIIT Class \| Breakpoint 2026
+
+- Record: `w3v-solana-fitness-zone-hiit-class--breakpoint-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T07:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/solanahiit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-f0ade408b44ff0bc"></a>
 
 ## BlockZero 2026
@@ -74390,6 +74426,18 @@ BlockZero is designed as a small, high-signal gathering for the people working c
 More details on speakers, agenda, and participation will be announced soon.
 
 Attendance is limited and subject to approval to preserve the collaborative format of the event.
+
+<a id="event-3b7f7a1bc6d9ff47"></a>
+
+## Solana Fitness Zone: Mental Reset Workshop \| Breakpoint 2026
+
+- Record: `w3v-solana-fitness-zone-mental-reset-workshop--breakpoint-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T10:45:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/solanareset>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e6f1fe2c4be6744c"></a>
 
