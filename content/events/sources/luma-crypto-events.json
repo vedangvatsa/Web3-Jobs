@@ -154,51 +154,6 @@
     }
   },
   {
-    "id": "luma-crypto-PiRQi9wnOxyveK3",
-    "slug": "cglbhys",
-    "name": "Consumer Growth Leaders London Breakfast hosted by Yolodex and SOAR",
-    "description": "\"my teenager smells like a ferret\" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.\n\n## Event details\n\nHosted by Zaeem Bhanji, Olly Hudson. The event takes place on September 23. Registration requires organizer approval.",
-    "startDate": "2026-09-23T07:30:00.000Z",
-    "endDate": "2026-09-23T09:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/33uip58p",
-    "registrationUrl": "https://luma.com/33uip58p",
-    "coverImage": "/events/luma-crypto-pirqi9wnoxyvek3-dd48f454.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Zaeem Bhanji",
-      "Olly Hudson"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Yolodex"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/33uip58p",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/33uip58p",
-      "eventId": "evt-PiRQi9wnOxyveK3",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-dv6ybcPFmCqTA0V",
     "slug": "bxcsbv0",
     "name": "Beyond x Calyx Superpollutant Breakfast v2.0",

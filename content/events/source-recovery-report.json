@@ -44,19 +44,6 @@
       ]
     },
     {
-      "id": "india-luma-scetu",
-      "outcome": "needs-review",
-      "sourceUrl": "https://luma.com/SCETU",
-      "reason": "The registration page now returns HTTP 404 and the current Team1 India calendar no longer lists this workshop. The archived organizer poster at /events/india-luma-scetu-c0944911.webp states 10 September 2026, while the stored listing states 23 September. Retain the original record for review; do not advertise an unconfirmed date or invent cancellation details.",
-      "fetchedAt": "2026-09-20T07:57:03.608Z",
-      "characters": 0,
-      "changes": [
-        "publicationStatus",
-        "sourceReview",
-        "slug"
-      ]
-    },
-    {
       "id": "premier-ethtokyo-2026",
       "outcome": "recovered",
       "sourceUrl": "https://ethglobal.com/events/tokyo2026",

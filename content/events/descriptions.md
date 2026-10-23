@@ -20121,18 +20121,6 @@ Secret Society hosts ETHwali, a Diwali celebration for the Ethereum community in
 
 The invitation welcomes protocol builders, developers, founders, open-source contributors, creators, people exploring Web3 and others interested in meeting the community. Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
-<a id="event-6592998de92a620a"></a>
-
-## Team1 India University Workshop - SCET
-
-- Record: `india-luma-scetu`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-23T13:00:00.000+05:30
-- Description: Unverified stored copy
-- Original page: <https://luma.com/SCETU>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-f5002404fc7ae7bd"></a>
 
 ## Bitcoin 101 for Developers & Curious Beginners \| Andheri, Mumbai
@@ -21014,24 +21002,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-b86d212aa9cfd0b2"></a>
-
-## Consumer Growth Leaders London Breakfast hosted by Yolodex and SOAR
-
-- Record: `luma-crypto-PiRQi9wnOxyveK3`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-23T07:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/33uip58p>
-
-### About the event
-
-"my teenager smells like a ferret" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.
-
-### Event details
-
-Hosted by Zaeem Bhanji, Olly Hudson. The event takes place on September 23. Registration requires organizer approval.
 
 <a id="event-b2782b4cdd0c5030"></a>
 
@@ -25547,78 +25517,6 @@ A closed-door day reserved for confirmed speakers and partners, with private, fo
 
 The decision-makers driving digital asset adoption across Asia Pacific will be in the room. Secure your place.
 
-<a id="event-ddd8795b652d1c16"></a>
-
-## Ignyte x TheBlock.: Founder Sessions 3
-
-- Record: `luma-batch-2AYyMcZnyV1BN8k`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/theblock-3pkp>
-
-### About the event
-
-Ignyte x TheBlock.: Founder Sessions 3
-
-Pitch Live: Founders Face Investors edition
-
-Founder Sessions gives founders direct access to the people who can move their venture forward: investors, industry experts, and peers building at the same stage.
-
-Founder Sessions is back, and this month we're introducing something new: Pitch Live: Founders Face Investors
-
-5 startups get the floor to pitch their ideas to a panel of investors, with live Q&A on the spot.Straight after, we're running "Investor x Investor," our interactive back-and-forth format.
-
-Venue: TheBlock. Street, One Central, Offices 3.
-
-Date and time: Wednesday, September 23, 11:00 AM - 1:30 PM
-
-### Agenda
-
-11:00 - 11:30 | Registration & Networking Arrive, connect, and settle in before the sessions kick off.
-
-11:30 - 12:30 | Pitching Segment 5 startups pitch live to a panel of investors: Each startup gets a 4-minute pitch followed by 5 minutes of Q&A with the investor panel.
-
-12:30 - 13:00 | Investor x Investor Live Segment 20 rapid-fire questions straight to the investors. Here is your chance to ask everything you've ever wanted to know, no filter, no long-winded answers, just fast, honest takes from the people writing the cheques.
-
-13:00 - 13:30 | Networking
-
-Talk freely with the investors, founders and mentors.
-
-Whether you're pitching, investing, or just want to be in the room where it happens, Founder Sessions 3 is for you.---------About TheBlock.
-
-TheBlock. connects regulators, founders, investors, and institutions shaping the future of virtual assets. Through strategic partnerships, curated events, and ecosystem initiatives, TheBlock. creates direct pathways for engagement, collaboration, and growth across the virtual asset industry.
-
-<a id="event-799a8d260c274ba3"></a>
-
-## PRIVACY SERVED
-
-- Record: `luma-batch-GkjuWRgq6gIti3k`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hc46s9it>
-
-### About the event
-
-Privacy, Served.
-
-Tokyo Privacy Office Hours + zERC20 V2 CelebrationHosted by zERC20 × Swarm Foundation
-
-Join us in Tokyo for an afternoon around privacy, decentralized infrastructure, specialty coffee and matcha.
-
-We're bringing the zERC20 and Swarm communities together as we get ready for the upcoming launch of zERC20 V2, meet people building around privacy, and make space for the kinds of conversations that are usually harder to have during a packed conference week.
-
-Come by to meet the teams, hear what's new with zERC20 V2, ask questions, exchange ideas, or simply spend some time with people working toward a more private and decentralized internet.
-
-Throughout the afternoon, zERC20 and Swarm contributors will be around for informal Privacy Office Hours, so you can drop into conversations around privacy technology, decentralized infrastructure, Ethereum, and what each team is building next.
-
-There will be specialty coffee, matcha, familiar faces, new ones, and plenty of room to stay for a while.
-
-Tokyo September 23During ETH Global Tokyo week
-
-zERC20 × Swarm Foundation
-
 <a id="event-654d1d5a6e51de3c"></a>
 
 ## Builder Nights Tokyo - Agentic Edition \| Hosted by MetaMask 🦊️, Superteam Japan, Akindo and frens
@@ -25686,156 +25584,6 @@ Some of the past Builder Nights ⬇
 Interested in future Builder Nights? Get in touch with @andreolf on Telegram!
 
 Builder Nights Collab Deck
-
-<a id="event-a526d75819af5cc1"></a>
-
-## Builders Coffee Meetup
-
-- Record: `luma-batch-K9rtSpTFvAJlDYm`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/BuildersCoffeeColosseumHackathon>
-
-### About the event
-
-Builders Coffee MeetupThe Crypto World's Fair is here. Date: 23 September, Wednesday Time: 12:00 PM - 2:00 PM Venue: Details will be shared upon approvalJoin us for Builders Coffee Meetup, a casual afternoon meetup bringing together builders, founders, and developers ahead of the Crypto World's Fair | Colosseum Hackathon.Connect with the local builder community, exchange ideas, find potential teammates, and get the latest updates on the hackathon over breakfast.Please Note: This is an invite-only event. RSVP required - no +1s, no walk-ins. This event has limited capacity and follows a first-come, first-served policy. Kindly arrive on time to secure your spot.
-
-Photos will be taken during the event. By participating, you agree to their use for promotional purposes.Follow us on X: @SuperteamAE | @colosseum
-
-Come for breakfast. Stay for the builders. Start building.
-
-<a id="event-e9924a30da8f2d0c"></a>
-
-## AMA + Product Review with Harkl (Solana Foundation)
-
-- Record: `luma-batch-ZG343tmOyJxkOCn`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9mhb8fwx>
-
-### About the event
-
-Week two, and by now most teams have something taking shape. This session pairs the weekly reset with an AMA and live product review with Harkl.
-
-Harkl is responsible for Solana's web products and will join us to talk about what goes into building great products for the Solana ecosystem - from product thinking and UX to onboarding, flows and the details that make an app feel polished.
-
-We'll review real hackathon projects live on the call. Bring your prototype, landing page or working product and get direct feedback on how it works, how clearly it communicates what it does, where users might get stuck, and what you should focus on before submission.
-
-It's also an open AMA. Ask Harkl about building products at Solana, designing for crypto users, onboarding people into onchain experiences, or anything you're wrestling with in your own build.
-
-We'll start with the week's focus and upcoming deadlines, then move into the AMA and live reviews.
-
-Who it's for: Teams with a prototype, landing page or working product who want feedback from someone building Solana's own web products.
-
-You'll leave with: Specific, actionable product and UX feedback, answers to your questions, and a clearer idea of what to improve before you submit.
-
-Free and open. Prepare your project and questions for Harkl
-
-https://au.superteam.fun/colosseum for more information
-
-<a id="event-86cd33e8ae4f5b18"></a>
-
-## Agentic Commerce in Focus - Hong Kong's Opportunity + W3H AGM + Networking
-
-- Record: `luma-batch-evtQqAlkOIrtxtvu`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/mt6x0y89>
-
-### About the event
-
-Join W3H for our Annual General Meeting and a timely discussion on the rapidly developing agentic economy, including Hong Kong's agentic advantage.
-
-Where the Agentic Economy Does Business - Risks, Rails & Opportunity
-
-AI agents are beginning to transact on their own - buying, selling, paying and contracting. This shift creates major opportunities for Hong Kong, but only if the right market, legal, technology, identity and security infrastructure is in place.
-
-This discussion will explore the size of the opportunity, the new risks that emerge when software becomes economically empowered, and how W3H and our members are advancing work on agentic payments, finance and security. The goal: to position Hong Kong as a leading place where the agentic economy does business.
-
-### Agenda
-
-16:30 | Doors open
-
-17:00 | Annual General Meeting
-
-17:30 | Panel Discussion: Agentic Commerce in Focus, with Joey Liu (Terminal 3), Michael Lau (Consensus / Bullish), Peter Brewin (PwC), and moderated by Karena Belin (WHub)
-
-18:00 | Networking Drinks
-
-Registration Notes:
-
-- Advanced registration is required.
-- Attendance is free for current members.
-- Non-members can join for HKD 100, to help cover the networking drinks.
-
-If you'd like to become a member, email gm@web3harbour.org or sign up directly at: https://web3harbour.glueup.com/org/web3harbour/memberships/company/
-
-======
-
-Notices:
-
-Attendance implies your consent for photos/videos to be used in W3H promotional materials.
-
-When an extreme weather advisory is hoisted, the event will be canceled.
-
-Contact gm@web3harbour.org if you have questions.
-
-Consent to Disclosure of Information
-
-By accepting/registering this event, you consent to your personal data/information being collected and used by W3H Limited and Web3 Harbour ('W3H') for event administration, communication and logistics. You also consent and grant the rights to being filmed, photographed and recorded during panel and networking sessions for use in marketing materials by W3H in accordance with the Data Policy Notice of W3H.
-
-<a id="event-4e3fde68218773d9"></a>
-
-## Solana Privacy Rings with Helius. Colosseum Edition
-
-- Record: `luma-batch-X5wZqcKdw22D6P0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xtqg14uz>
-
-### About the event
-
-Solana Privacy Rings with Helius
-
-Privacy is becoming a core primitive for onchain applications. Learn how programmable privacy can unlock new use cases on Solana.
-
-Wednesday, September 23 4:00 PM Bangkok Time Online
-
-Join Superteam Thailand × Helius for a practical introduction to Solana Privacy Rings and the technology behind programmable privacy on Solana.
-
-In this Colosseum workshop, you'll learn what Helius Privacy is, how Privacy Rings work, and where programmable privacy can create new possibilities for builders.
-
-What you'll learn
-
-What Helius Privacy is and the problem it addresses
-
-How programmable Solana Privacy Rings work
-
-How privacy can be integrated into onchain applications
-
-Potential use cases for private transactions and applications
-
-Why privacy matters for the next generation of Solana products
-
-How builders can start experimenting with privacy primitives
-
-Who should join?
-
-Colosseum builders, developers, founders, and teams exploring new infrastructure and product possibilities on Solana.
-
-You don't need to be a privacy expert. Come with your questions and leave with a clearer understanding of how programmable privacy can fit into what you're building.
-
-Learn more
-
-Follow Tilo at @tilo_cpn and Helius Privacy at @HeliusPrivacy on X.
-
-Explore the documentation at helius.dev/docs/privacy.
-
-Build with privacy. Build on Solana. Build for Colosseum.
 
 <a id="event-ca792ecf5dc6252c"></a>
 
@@ -71865,6 +71613,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-992a0de2f99ef65e"></a>
+
+## "Redefining Britain's Identity for an Age of Change" w/ Chicago Council
+
+- Record: `mu-316957516`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T15:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/geopolitics-meetup-group/events/316957516/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-338ebe2120a8a8bb"></a>
 
 ## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
@@ -72215,6 +71975,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1155a0ccdb7fdb04"></a>
+
+## Open Bitcoin Discussion
+
+- Record: `mu-316047223`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T20:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/meetup-group-cttlfnfm/events/316047223/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-db54abae4b35134b"></a>
 
 ## Offline ATX: A Happy Hour by Aikido Security
@@ -72468,6 +72240,18 @@ An online introduction to the Blockchain Decentralisation Index Lab's open-sourc
 - Starts: 2026-10-29T11:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-denver/events/316802785/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9d7d0940600559a1"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802758`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T12:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-chicago/events/316802758/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72797,6 +72581,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 BTC Balkans brings regional Bitcoin communities and open-source contributors together in Sofia. The announced formats are keynotes, panels and hands-on workshops for developers, educators and newcomers, covering Bitcoin technology, money and practical adoption.
 
+<a id="event-bd1b3391a39b7245"></a>
+
+## **DATE CHANGE** Well-Trained Wife: My Escape from Christian Patriarchy
+
+- Record: `mu-316231918`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T10:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lifelong-learners-chicago-chicagoland/events/316231918/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a558e063e9e5f636"></a>
+
+## South Side Spanish (Bridgeport)
+
+- Record: `mu-312804220`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T15:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/chicago-spanish-language/events/312804220/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e18f039573962889"></a>
 
 ## Boston - Silicon Valley AI Film Festival Screening Showcase
@@ -72956,6 +72764,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-01T10:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/london-hh-26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9df4947ab0dadebc"></a>
+
+## Distancia de rescate, de Samanta Schweblin
+
+- Record: `mu-316644745`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T14:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/como-agua-para-lectores-de-chicago-book-club/events/316644745/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73804,6 +73624,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ff901a46990c2a11"></a>
+
+## Generative AI Transformers: a Deep Dive
+
+- Record: `mu-312946609`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T18:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5c98611a9862ee6c"></a>
 
 ## An Evening with Solana NYC \| Presented by the Incubator
@@ -73849,6 +73681,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T07:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/np3wx7v5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9e71353a1c0b4880"></a>
+
+## Bitcoin and Coffee
+
+- Record: `mu-316884574`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T08:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316884574/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74119,6 +73963,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-58474e46b0fd1b50"></a>
+
+## Data+AI meetup with Databricks
+
+- Record: `mu-316901080`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T17:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/aittg-chicago/events/316901080/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-dcc5a11966c710a3"></a>
 
 ## Superteam UAE Members Lunch (MEMBERS ONLY)
@@ -74164,6 +74020,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://forum.ethereuminstitutional.org/london-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bc36f9b9b43f3c71"></a>
+
+## Solana Demo Day \| London 2026
+
+- Record: `luma-host-evt-evt-A5Hth6nHkYLqSPQ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T10:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/sol-demo-day>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74254,6 +74122,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 200ms covers Solana's market microstructure and DeFi, including implications for protocol teams and traders. Attendance is free and selective, with priority for Solana builders, core developers and onchain traders. Registration requires approval; the organizer shares the venue with accepted guests.
+
+<a id="event-7038f0d86b3cc31e"></a>
+
+## Solana Intelligence Summit
+
+- Record: `luma-host-evt-evt-5gtpOwBYoupMorq`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T10:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/intelligence-summit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-6eec44db0d04f3a8"></a>
 
@@ -74451,6 +74331,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-99c0a5215a7b38a3"></a>
+
+## BORN UP – Breakpoint London Community Networking Meetup
+
+- Record: `w3v-born-up--breakpoint-london-community-networking-meetup`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T11:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/btvqwap1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-112ccde84f4e4dab"></a>
+
+## VCs & LPs Cocktail Hour – Breakpoint  London
+
+- Record: `w3v-vcs--lps-cocktail-hour--breakpoint--london`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T15:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/6ung8frj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-346025e3bbe7c8b5"></a>
 
 ## TSC Summit - Titan, Sentinal, Icon Session (Must Meet Qualifications to Attend)
@@ -74522,6 +74426,18 @@ Enter the battle:
 
 Trading Battles is the infrastructure layer for 24/7 competitive trading, transforming trading into a new category of esports.
 
+<a id="event-20da4ed9b2e0b15f"></a>
+
+## Forward Industries - Breakpoint Dinner
+
+- Record: `w3v-forward-industries---breakpoint-dinner`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T18:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/cnswgn30>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-46fa6e3b988db509"></a>
 
 ## Founder x VC Summit \| VIP Dinner \| Breakpoint Week 🇬🇧
@@ -74558,6 +74474,18 @@ Previous Events:
 
 etc.
 
+<a id="event-dce50f4fede28e25"></a>
+
+## Proof & Pour · London \| A Private Cocktail Evening
+
+- Record: `w3v-proof--pour--london--a-private-cocktail-evening`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/zkpwmk83>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0829344fd0377d5e"></a>
 
 ## Crypto Compliance and Legal Roundtable - Sydney edition
@@ -74567,6 +74495,42 @@ etc.
 - Starts: 2026-11-16T05:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/ywa8lgxd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-44d221a0982df19c"></a>
+
+## Solana Fitness Zone: Group Boxing \| Breakpoint 2026
+
+- Record: `w3v-solana-fitness-zone-group-boxing--breakpoint-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T08:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/solanaboxing>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a8d5f5007efd5ddd"></a>
+
+## FWDI Breakpoint Happy Hour
+
+- Record: `w3v-fwdi-breakpoint-happy-hour`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T15:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ti7vdsai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-75bf804e14829596"></a>
+
+## GGC: GMGN Global Championship - London Finals
+
+- Record: `w3v-ggc-gmgn-global-championship---london-finals`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T16:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/39ckiuiy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74582,6 +74546,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a1fbde9af6955f61"></a>
+
+## Solana Breakpoint Security Drinks - by Fidesium
+
+- Record: `w3v-solana-breakpoint-security-drinks---by-fidesium`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/lajgsnqb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ce9feb3eadbeb830"></a>
+
+## SOL Calling: Solana Breakpoint Happy Hour
+
+- Record: `w3v-sol-calling-solana-breakpoint-happy-hour`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T18:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/gpxfy249>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-76623e9446a26e35"></a>
 
 ## Building the Next AI-Powered BeSci Unicorn
@@ -74591,6 +74579,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-16T18:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/encode-t73d>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c2c72c8fb85da49f"></a>
+
+## Beyond Business: An Exclusive Dinner in Mayfair
+
+- Record: `w3v-beyond-business-an-exclusive-dinner-in-mayfair`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/snrmcp50>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74758,6 +74758,54 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-17T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/tu3uet1n>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d250766f34562e04"></a>
+
+## Solana Fitness Zone: HIIT Class \| Breakpoint 2026
+
+- Record: `w3v-solana-fitness-zone-hiit-class--breakpoint-2026-2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T08:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/solanahiits>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2cc8f61affd7bdcd"></a>
+
+## London Happy Hour
+
+- Record: `w3v-london-happy-hour`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/LondonHappyHour>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-38281216c0546ccc"></a>
+
+## Breakpoint Pub Quiz
+
+- Record: `w3v-breakpoint-pub-quiz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/n41tqnps>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5877d3f2246aca94"></a>
+
+## NO MORE PITCHES
+
+- Record: `w3v-no-more-pitches`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T21:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/e9iw08nn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

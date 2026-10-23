@@ -13017,13 +13017,6 @@
       ]
     },
     {
-      "id": "india-luma-scetu",
-      "file": "india-luma-events.json",
-      "url": "https://luma.com/SCETU",
-      "status": "unverified",
-      "reason": "HTTP 404"
-    },
-    {
       "id": "india-luma-zd0c5ys7",
       "file": "india-luma-events.json",
       "url": "https://luma.com/zd0c5ys7",
@@ -15632,69 +15625,6 @@
           "field": "registrationAvailability",
           "before": null,
           "after": "open"
-        }
-      ]
-    },
-    {
-      "id": "luma-crypto-PiRQi9wnOxyveK3",
-      "file": "luma-crypto-events.json",
-      "url": "https://luma.com/33uip58p",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu",
-      "fetchedAt": "2026-09-19T23:45:57.918Z",
-      "sourceEventId": "evt-PiRQi9wnOxyveK3",
-      "status": "corrected",
-      "descriptionAvailable": true,
-      "changes": [
-        {
-          "field": "description",
-          "before": "\"my teenager smells like a ferret\" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. Yolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series.",
-          "after": "\"my teenager smells like a ferret\" was our personal favourite quote of the first Yolodex Growth Leaders breakfast. \n\n\nYolodex and SOAR are assembling 10 of London's top consumer growth leaders at Dishoom to discuss what's really driving growth in 2026 as part of a new monthly series."
-        },
-        {
-          "field": "coverImage",
-          "before": "/events/luma-crypto-pirqi9wnoxyvek3-dd48f454.webp",
-          "after": "https://images.lumacdn.com/uploads/ke/863f7865-4805-4395-8b3e-93c775e881db.png"
-        },
-        {
-          "field": "attendanceMode",
-          "before": null,
-          "after": "offline"
-        },
-        {
-          "field": "visibility",
-          "before": null,
-          "after": "public"
-        },
-        {
-          "field": "locationHidden",
-          "before": null,
-          "after": true
-        },
-        {
-          "field": "organizer",
-          "before": null,
-          "after": {
-            "type": "Organization",
-            "name": "Yolodex"
-          }
-        },
-        {
-          "field": "ticketOffers",
-          "before": null,
-          "after": [
-            {
-              "name": "Standard",
-              "url": "https://luma.com/33uip58p",
-              "price": 0,
-              "availability": "SoldOut"
-            }
-          ]
-        },
-        {
-          "field": "registrationAvailability",
-          "before": null,
-          "after": "waitlist"
         }
       ]
     },

@@ -1684,18 +1684,6 @@
       "preview": "## #1 Web3 & Crypto Event in India for High-impact Networking and Deal-flow\n\n## India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\n• Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\n• India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapt"
     },
     {
-      "id": "india-luma-scetu",
-      "file": "india-luma-events.json",
-      "name": "Team1 India University Workshop - SCET",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://luma.com/SCETU",
-          "reason": "HTTP 404"
-        }
-      ]
-    },
-    {
       "id": "w3v-crypto-worlds-fair-hackathon-by-colosseum",
       "file": "events-cache.json",
       "name": "Crypto World´s Fair Hackathon by Colosseum",

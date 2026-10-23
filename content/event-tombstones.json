@@ -1318,5 +1318,61 @@
       "luma-crypto-jykg7u4110cfmjh",
       "ccm"
     ]
+  },
+  "india-luma-scetu": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "india-luma-scetu",
+      "tiuws"
+    ]
+  },
+  "luma-batch-GkjuWRgq6gIti3k": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-gkjuwrgq6giti3k",
+      "hc46s9it"
+    ]
+  },
+  "luma-batch-2AYyMcZnyV1BN8k": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-2ayymcznyv1bn8k",
+      "theblock-3pkp"
+    ]
+  },
+  "luma-batch-K9rtSpTFvAJlDYm": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-k9rtsptfvajldym",
+      "builderscoffeecolosseumhackathon"
+    ]
+  },
+  "luma-batch-ZG343tmOyJxkOCn": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-zg343tmoyjxkocn",
+      "9mhb8fwx"
+    ]
+  },
+  "luma-batch-X5wZqcKdw22D6P0": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-x5wzqckdw22d6p0",
+      "xtqg14uz"
+    ]
+  },
+  "luma-batch-evtQqAlkOIrtxtvu": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-batch-evtqqalkoirtxtvu",
+      "mt6x0y89"
+    ]
+  },
+  "luma-crypto-PiRQi9wnOxyveK3": {
+    "until": "2027-10-23T11:32:08.632Z",
+    "slugs": [
+      "luma-crypto-pirqi9wnoxyvek3",
+      "cglbhys"
+    ]
   }
 }

@@ -84,26 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-scetu",
-    "name": "Team1 India University Workshop - SCET",
-    "description": "Welcome to the Team1 Workshop at SCET University in Surat\nIntroduction\nCome meet the Avalanche community for an evening of networking, discovery and conversation.\nWhether you're building on-chain / exploring new ecosystems / new to Web3..., this meetup is your chance to connect with fellow builders / founders / community members... 🚀\nEnjoy good vibes, refreshments and a short presentation about Avalanche with Hands-on workshop and BUILD-STATIONS 🔺\n🗓️ Event Program\n[01:00 PM] - Doors open & welcome attendees\n[01:15 PM] - Opening words by anchor and Introduction to the speaker Mr. Saurabh Nage\n[01:20 AM] - Intro to Avalanche & the local ecosystem\n[02:00 AM] - Q&A Session\n[02:15 AM] - Hands-on workshop begins\n[03:00 PM] - Build-Stations begins\n[04:00 PM] - Swags Distribution according to winner declaration\n[04:20 PM] - Closing felicitation ceremony & Group Photo with Avalanche & Team1 Banner\n🤝 Partners & Sponsors\nPU DAO - Community Partner\nA grassroots Web3 community empowering students and developers through workshops, hackathons and hands-on builder initiatives across India.\nWeb3 Surat - Community Partner\nA technology-focused community fostering innovation, technical learning and collaboration among students and emerging builders.\nSCET University - Venue Partner\nOur host university, bringing students and the local tech community together for an engaging Web3 learning and builder experience.\n🎉 Huge thanks to all our partners for helping us bring this meetup to life!\n🧩 About Team1\nTeam1 is a global network of builders, developers, creatives, & community members who grow Avalanche.\nWith 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.",
-    "startDate": "2026-09-23T13:00:00.000+05:30",
-    "endDate": "2026-09-23T16:00:00.000+05:30",
-    "city": "Surat",
-    "country": "India",
-    "location": "Sarvajanik College of Engineering & Technology",
-    "url": "https://luma.com/SCETU",
-    "coverImage": null,
-    "source": "luma-india",
-    "publicationStatus": "needs-review",
-    "sourceReview": {
-      "checkedAt": "2026-09-20T07:57:03.608Z",
-      "url": "https://luma.com/SCETU",
-      "reason": "The registration page now returns HTTP 404 and the current Team1 India calendar no longer lists this workshop. The archived organizer poster at /events/india-luma-scetu-c0944911.webp states 10 September 2026, while the stored listing states 23 September. Retain the original record for review; do not advertise an unconfirmed date or invent cancellation details."
-    },
-    "slug": "tiuws"
-  },
-  {
     "id": "india-luma-zd0c5ys7",
     "name": "MIP-19: Road to Devcon w/ ETHGlobal",
     "description": "Welcome to MIP-19\n\nPresenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\n12 PM: Doors open\n\n12:20 PM: Devcon 8\n\nGet all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 – 6 Nov 2026.\n\n12:40 PM: ETHGlobal Mumbai\n\nLearn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 – 7 Nov 2026.\n\n1 PM: Networking\n\nTea / Coffee will provided to everyone at the venue.\n\n2 PM: Doors close\n\nFollow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram",
