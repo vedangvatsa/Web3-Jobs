@@ -127,9 +127,10 @@
     "1": {
       "createClaim": "bd0ec978-27bc-4aab-9978-6215bc03ddee",
       "startedAt": "2026-10-23T11:32:13.404Z",
-      "status": "container-created",
+      "status": "publishing",
       "replyTo": "18119434240991781",
-      "containerId": "18098178686199925"
+      "containerId": "18098178686199925",
+      "publishClaim": "06882f4c-df82-4fc1-a211-933d7233378a"
     }
   }
 }
