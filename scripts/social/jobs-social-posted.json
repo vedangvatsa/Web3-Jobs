@@ -44702,7 +44702,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "5afa7a6b-4974-4990-9b05-0c90daacf519",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa1842d46a8a5066337edd20be919dea7020578f0"
     }
   ]
 }
