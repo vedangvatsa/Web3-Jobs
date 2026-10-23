@@ -46157,7 +46157,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "50bc7acd-a116-4189-8b74-ff48452950bd",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adb45d54cd0373c655411a4"
     }
   ]
 }
