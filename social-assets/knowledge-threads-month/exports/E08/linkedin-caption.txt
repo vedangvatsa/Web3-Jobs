@@ -1,13 +1,25 @@
-Five-city December shortlist: monthly mean >=25 C, rain <=80 mm, estimated cost <=USD 1,300. Ordered by rainfall. Climate references from the directory, not a December 2026 forecast.
+Five December bases with historical monthly averages of at least 25 C and no more than 80 mm rain.
 
-1. Lagos, Nigeria: December reference mean 27.6 C, 11 mm rain and 75% humidity. Estimated cost: USD 1,100/month. The tradeoff: its site safety rating is 4/10, despite meeting this weather-and-budget filter.
+Estimated costs: USD 1,300/month or less. Ordered by average rainfall.
 
-2. Bangkok, Thailand: December reference mean 27 C, 18 mm rain and 62% humidity. Estimated cost: USD 1,100/month. Same budget as Lagos, with 13 percentage points lower reference humidity.
+1. Lagos, Nigeria: historical December averages of 27.6 C, 11 mm rain and 75% humidity. Estimated cost: USD 1,100/month.
 
-3. Siem Reap, Cambodia: December reference mean 25.3 C, 33 mm rain and 72% humidity. Estimated cost: USD 800/month, including USD 280 rent. It has the lowest budget in this five-city shortlist.
+Its site safety rating is 4/10, despite meeting the weather and budget filters.
 
-4. Cartagena, Colombia: December reference mean 27.5 C, 34 mm rain and 80% humidity. Estimated cost: USD 1,300/month. Rain is only 1 mm above Siem Reap's reference, but the budget is USD 500 higher.
+2. Bangkok, Thailand: historical December averages of 27 C, 18 mm rain and 62% humidity.
 
-5. Ho Chi Minh City, Vietnam: December reference mean 26.7 C, 64 mm rain and 77% humidity. Estimated cost: USD 1,000/month. That is USD 100 below Bangkok, with 46 mm more reference rainfall.
+Estimated cost: USD 1,100/month. Same budget as Lagos, with average humidity 13 percentage points lower.
+
+3. Siem Reap, Cambodia: historical December averages of 25.3 C, 33 mm rain and 72% humidity.
+
+Estimated cost: USD 800/month, including USD 280 rent, the lowest budget in this five-city shortlist.
+
+4. Cartagena, Colombia: historical December averages of 27.5 C, 34 mm rain and 80% humidity. Estimated cost: USD 1,300/month.
+
+Compared with Siem Reap: 1 mm more average rain and USD 500 more per month.
+
+5. Ho Chi Minh City, Vietnam: historical December averages of 26.7 C, 64 mm rain and 77% humidity.
+
+Estimated cost: USD 1,000/month, USD 100 below Bangkok with 46 mm more average rain.
 
 Full resource: hashtagweb3.com/nomads/li

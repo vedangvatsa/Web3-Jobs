@@ -1,13 +1,28 @@
-Practice resume for a junior Solidity applicant. Title: Junior Smart Contract Developer. Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals. Example wording, not a real candidate.
+Sample resume title: Junior Smart Contract Developer.
 
-1. Key Projects & Portfolio -> Project Name: Sample Escrow Demo. Your Role: Personal practice project. Description: Implemented deposit and withdrawal functions in Solidity. Example wording; no client or employer claim.
+Summary: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.
 
-2. Add this example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert. It answers the site's interview prompt about testing edge cases with two named failure cases.
+1. Sample entry in Key Projects & Portfolio:
+Project Name: Sample Escrow Demo. Your Role: Personal practice project.
 
-3. Example project README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts. Put the real repository in Link to project/contribution. Our fictional example leaves this field empty.
+Description: Implemented deposit and withdrawal functions in Solidity.
 
-4. Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project.
+2. Example test bullet: Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.
 
-5. The sample preview contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education entries are empty. Download PDF exports the filled resume.
+Two named failure cases answer the site's interview prompt about testing edge cases.
+
+3. Example README: run 'forge test'; unauthorized callers revert; a second withdrawal reverts.
+
+Use Link to project/contribution for your repository. The sample leaves it empty.
+
+4. Example skills entries:
+Technical Skills: Solidity, Foundry.
+General Skills: Git, README writing.
+
+Use the separate fields; each listed tool should match work visible in the project.
+
+5. The sample resume contains Summary, Key Projects & Portfolio and Skills. Professional Experience and Education are empty.
+
+Download PDF exports the preview.
 
 Full resource: hashtagweb3.com/resume-builder/li

@@ -2,10 +2,16 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
-import { sha256 } from './newknowledge-content.mjs';
+import { ASSET_DIRECTORY, CAMPAIGN, sha256 } from './newknowledge-content.mjs';
 import { REPOSITORY } from './newknowledge-state.mjs';
+import { assertPublicImageCopy, usesPublicCopyPolicy } from './public-copy-guard.mjs';
 
-export async function inspectImages(root, posts) {
+export async function inspectImages(root, posts, { thread, manifest } = {}) {
+  const strict = usesPublicCopyPolicy({ campaign: CAMPAIGN, ...thread });
+  if (strict) {
+    assert.ok(thread?.posts?.length === 6, 'Image inspection requires the selected source thread');
+    manifest ||= JSON.parse(await fs.readFile(path.join(root, ASSET_DIRECTORY, 'image-manifest.json'), 'utf8'));
+  }
   const assets = [];
   for (const post of posts) {
     assert.match(post.image, /^social-assets\/knowledge-threads-month\/images\/[CEN]\d{2}-0[1-6]\.jpg$/);
@@ -14,7 +20,21 @@ export async function inspectImages(root, posts) {
     assert.equal(image.format, 'jpeg');
     assert.ok(image.width >= 320 && image.width <= 4096 && image.height >= 320 && image.height <= 4096, 'Unsupported image dimensions');
     assert.ok(bytes.length > 0 && bytes.length < 5 * 1024 * 1024, 'Image exceeds 5 MB');
-    assets.push({ path: post.image, sha256: sha256(bytes), bytes: bytes.length, width: image.width, height: image.height });
+    const asset = { path: post.image, sha256: sha256(bytes), bytes: bytes.length, width: image.width, height: image.height };
+    if (strict) {
+      const field = `image-manifest[${thread.id}/${post.number}]`;
+      const matches = manifest.images?.filter(item => item.threadId === thread.id && item.postNumber === post.number);
+      assert.equal(matches?.length, 1, `${field}: expected one declared image`);
+      const declared = matches[0];
+      assert.equal(declared.repoPath, post.image, `${field}: wrong image path`);
+      for (const key of ['sha256', 'bytes', 'width', 'height']) assert.equal(asset[key], declared[key], `${field}.${key}: actual image bytes differ from manifest`);
+      assert.equal(declared.contentPostSha256, sha256(JSON.stringify(thread.posts.find(item => item.number === post.number))), `${field}: source post changed`);
+      assert.equal(declared.alt, post.alt, `${field}.alt: does not match published alt`);
+      assertPublicImageCopy(declared, { field });
+      asset.alt = declared.alt;
+      asset.renderedText = declared.renderedText;
+    }
+    assets.push(asset);
   }
   assert.equal(new Set(assets.map(asset => asset.sha256)).size, 6, 'Each post needs its own image');
   return assets;

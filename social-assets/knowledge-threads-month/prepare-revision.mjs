@@ -6,8 +6,82 @@ import {chromium} from 'playwright';
 import {root, repo, executablePath, hash, readJSON, writeJSON, protect} from './revision-lib.mjs';
 
 export const countryPhotos = {Malaysia:'kuala-lumpur',Thailand:'bangkok',Philippines:'manila',Japan:'osaka',Taiwan:'taipei',Canada:'toronto','United Kingdom':'london',Nepal:'kathmandu',Indonesia:'bali',Vietnam:'da-nang'};
+
+async function verifyPublishedFiles() {
+  const published=await readJSON('assets/revision/published-prefix-2026-10-22.json');
+  for(const [file,sha256] of Object.entries(published.files))assert.equal(hash(await fs.readFile(path.join(root,file))),sha256,`Published file ${file}`);
+  return published;
+}
+
+async function toolDetailCrops(assets,crop) {
+  async function regionCrop(id,original,name) {
+    const region=original.regions?.[name];
+    assert(region,`${original.id}: recapture native ${name} geometry with capture-tools.ts`);
+    return crop(id,original,region.extract,region.visibleText,region.minimumTextCssPx);
+  }
+  for(const original of [...assets].filter(a=>/^RESUME-(technical|content|community)-summary$/.test(a.id)))await regionCrop(original.id+'-text',original,'text');
+  const junior=assets.find(a=>a.id==='RESUME-junior-fields-after');
+  if(junior) {
+    await regionCrop('RESUME-junior-project-name-role',junior,'project-name-role');
+    await regionCrop('RESUME-junior-project-link',junior,'project-link');
+  }
+  const invoice=assets.find(a=>a.id==='INVOICE-sample-items-totals');
+  if(invoice)for(const name of ['first-row','subtotal','totals'])await regionCrop('INVOICE-sample-'+name,invoice,name);
+  const invoiceFields=assets.find(a=>a.id==='INVOICE-sample-item-fields');
+  if(invoiceFields)await regionCrop('INVOICE-sample-tax-discount',invoiceFields,'tax-discount');
+}
+
+async function prepareSelectedTools(selected) {
+  await protect();
+  const published=await verifyPublishedFiles();
+  const prior=await readJSON('assets/revision/visual-assets.json');
+  const tools=await readJSON('assets/revision/tool-captures.json');
+  const invoiceDetails=await readJSON('assets/revision/invoice-detail-captures.json');
+  for(const id of selected)assert(tools.scenarios.some(s=>s.id===id&&['/resume-builder','/invoice-generator'].includes(s.route)),`--only accepts resume/invoice scenario IDs: ${id}`);
+  const matches=asset=>selected.some(id=>asset.id.startsWith(id+'-'));
+  const assets=[];
+  for(const capture of [...tools.captures,...invoiceDetails].filter(matches)) {
+    assert(!Object.hasOwn(published.files,capture.file),`Published source ${capture.file}`);
+    const bytes=await fs.readFile(path.join(root,capture.file)),meta=await sharp(bytes).metadata();
+    assert.equal(hash(bytes),capture.sha256,capture.id);
+    assert.equal(meta.width,capture.width,capture.id);assert.equal(meta.height,capture.height,capture.id);
+    assets.push({file:capture.file,sha256:capture.sha256,bytes:bytes.length,width:meta.width,height:meta.height,...capture,kind:'tool-capture'});
+  }
+  if(selected.includes('INVOICE-sample')) {
+    const detail=assets.find(a=>a.id==='INVOICE-sample-notes-readable');
+    assert(detail,'Refresh invoice notes with capture-invoice-detail.mjs');
+    assert.deepEqual(detail.inputs,tools.scenarios.find(s=>s.id==='INVOICE-sample').inputs,'Invoice notes capture is stale');
+  }
+  await toolDetailCrops(assets,async(id,original,extract,visibleText,minimumTextCssPx)=>{
+    const file=`assets/revision/crops/${id}.png`;
+    assert(matches({id})&&!Object.hasOwn(published.files,file),`Cannot replace source ${id}`);
+    assert(extract.left>=0&&extract.top>=0&&extract.width>0&&extract.height>0&&extract.left+extract.width<=original.width&&extract.top+extract.height<=original.height,`Crop bounds ${id}`);
+    const parent=await fs.readFile(path.join(root,original.file));
+    assert.equal(hash(parent),original.sha256,`Parent capture ${id}`);
+    const bytes=await sharp(parent).extract(extract).png({compressionLevel:9}).toBuffer();
+    assert.deepEqual(await sharp(bytes).ensureAlpha().raw().toBuffer(),await sharp(parent).extract(extract).ensureAlpha().raw().toBuffer(),`Exact crop pixels ${id}`);
+    await fs.writeFile(path.join(root,file),bytes);
+    const scale=original.deviceScaleFactor||2;
+    assets.push({file,sha256:hash(bytes),bytes:bytes.length,width:extract.width,height:extract.height,id,scenarioId:original.scenarioId,kind:original.kind,sourceUrl:original.sourceUrl,sourceRevision:original.sourceRevision,sourceFileHashes:original.sourceFileHashes,provenance:original.provenance,derivedFrom:original.file,parentSha256:original.sha256,extract,visibleText,minimumTextCssPx,deviceScaleFactor:scale,cssWidth:extract.width/scale,cssHeight:extract.height/scale,detail:'Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent.'});
+  });
+  const updates=new Map(assets.map(a=>[a.id,a]));
+  assert.equal(updates.size,assets.length,'Unique updated source IDs');
+  for(const previous of prior.assets.filter(matches))assert(updates.has(previous.id),`Missing replacement source ${previous.id}`);
+  const merged=prior.assets.map(previous=>updates.get(previous.id)||previous);
+  merged.push(...assets.filter(asset=>!prior.assets.some(previous=>previous.id===asset.id)));
+  assert.deepEqual(merged.filter(a=>!matches(a)),prior.assets.filter(a=>!matches(a)),'Unselected source metadata changed');
+  await verifyPublishedFiles();
+  await writeJSON('assets/revision/visual-assets.json',{...prior,generatedAt:new Date().toISOString(),assets:merged});
+  console.log(JSON.stringify({updatedScenarios:selected,updatedSources:assets.length,preservedSources:prior.assets.filter(a=>!matches(a)).length,publishedFiles:Object.keys(published.files).length,exactPixelCrops:assets.filter(a=>a.derivedFrom).length},null,2));
+  return {assets:merged,tools};
+}
+
 export async function prepare() {
-  await protect({initialize:true});
+  const selected=process.argv.find(arg=>arg.startsWith('--only='))?.slice(7).split(',');
+  if(selected)return prepareSelectedTools(selected);
+  await protect();
+  const published=await verifyPublishedFiles();
+  const prior=await readJSON('assets/revision/visual-assets.json');
   const content=await readJSON('content.json');
   const source=await readJSON('assets/revision/source-data.json');
   const mapping=await readJSON('../../content/nomad-display-images.json');
@@ -60,6 +134,11 @@ export async function prepare() {
   for(const c of [...eventCaptures,...invoiceDetails])await record(c.file,c);
   async function crop(id, original, extract, visibleText, font = original.minimumTextCssPx) {
     const file=`assets/revision/crops/${id}.png`;
+    if(Object.hasOwn(published.files,file)) {
+      const frozen=prior.assets.find(a=>a.file===file);
+      assert(frozen&&frozen.sha256===published.files[file],`Published crop metadata ${file}`);
+      assets.push(frozen);return frozen;
+    }
     await sharp(path.join(root,original.file)).extract(extract).png({compressionLevel:9}).toFile(path.join(root,file));
     return record(file,{id,kind:original.kind,sourceUrl:original.sourceUrl,sourceRevision:original.sourceRevision,provenance:original.provenance||original.detail,derivedFrom:original.file,parentSha256:original.sha256,extract,visibleText,minimumTextCssPx:font,deviceScaleFactor:original.deviceScaleFactor||2,cssWidth:extract.width/(original.deviceScaleFactor||2),detail:'Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot.'});
   }
@@ -72,16 +151,7 @@ export async function prepare() {
     await crop(c.id+'-price',c,{left:44,top:218,width:672,height:130},c.visibleText.split('\n').slice(-3).join(' '),18);
     await crop(c.id+'-identity',c,{left:44,top:44,width:672,height:100},c.visibleText.split('\n')[0],24);
   }
-  for(const c of [...assets].filter(a=>/^RESUME-(technical|content|community)-summary$/.test(a.id)))await crop(c.id+'-text',c,{left:0,top:270,width:c.width,height:c.height-270},c.visibleText.slice(c.visibleText.indexOf('Summary')),17.5);
-  const junior=assets.find(a=>a.id==='RESUME-junior-fields-after');
-  await crop('RESUME-junior-project-name-role',junior,{left:104,top:226,width:572,height:220},'Sample Escrow Demo. Personal practice project.',20);
-  await crop('RESUME-junior-project-link',junior,{left:104,top:975,width:572,height:100},'Link to project/contribution. Empty sample field.',20);
-  const invoice=assets.find(a=>a.id==='INVOICE-sample-items-totals');
-  await crop('INVOICE-sample-first-row',invoice,{left:0,top:0,width:996,height:262},'Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00.',20);
-  await crop('INVOICE-sample-subtotal',invoice,{left:0,top:0,width:996,height:570},'Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800.',20);
-  await crop('INVOICE-sample-totals',invoice,{left:190,top:490,width:806,height:266},'Subtotal: $800.00. Discount: -$50.00. Total: $750.00.',20);
-  const invoiceFields=assets.find(a=>a.id==='INVOICE-sample-item-fields');
-  await crop('INVOICE-sample-tax-discount',invoiceFields,{left:136,top:1090,width:964,height:410},'Subtotal $800.00. Tax (%) 0. Discount (flat) 50. Total $750.00.',17.5);
+  await toolDetailCrops(assets,crop);
   const transferCode=assets.find(a=>a.id==='N09-04-transfer-code');
   await crop('N09-04-transfer-excerpt',transferCode,{left:20,top:0,width:660,height:130},'function test_Transfer() public {\n  token.transfer(alice, 100);\n  assertEq(token.balanceOf(alice), 100);',16);
   const lessonCrops={
@@ -102,6 +172,7 @@ export async function prepare() {
       await record(file,{id:`flag-${country}`,kind:'native-country-flag',sourceUrl:'https://unicode.org/emoji/charts/full-emoji-list.html#flags',credit:'Native Apple Color Emoji rendering of the Unicode country flag sequence',country,code,caption:'Country flag for identification. The adjacent rule text is an authored summary of the cited official sources, not an immigration interface.'});
     }
   } finally {await browser.close();}
+  await verifyPublishedFiles();
   await writeJSON('assets/revision/visual-assets.json',{generatedAt:new Date().toISOString(),contentSha256:hash(await fs.readFile(path.join(root,'content.json'))),assets});
   console.log(`Prepared ${assets.length} source assets, ${citySlugs.size} city photos, ${eventIds.size} event sources (runtime imagery plus the official date-panel replacement).`);
   return {assets,content,source,tools,learning,details};

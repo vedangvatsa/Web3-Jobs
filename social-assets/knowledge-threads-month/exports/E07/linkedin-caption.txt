@@ -1,13 +1,25 @@
-Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.
+Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.
 
-1. Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.
+Both: North America, Series A/B, 11-50 staff. Tokens and equity excluded.
 
-2. Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.
+1. Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.
 
-3. Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.
+Difference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.
 
-4. Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.
+2. Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.
 
-5. Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.
+Difference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.
+
+3. Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.
+
+Rounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.
+
+4. Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.
+
+The two experience scenarios differ by USD 18,000/year.
+
+5. The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.
+
+Set your experience, region, company stage and size to compare estimates.
 
 Full resource: hashtagweb3.com/salary-calculator/li

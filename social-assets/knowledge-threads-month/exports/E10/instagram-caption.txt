@@ -1,13 +1,25 @@
-USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.
+Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.
 
-1. 1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated. Fixed broadband: 252.9 down / 153.9 up Mbps (2026 Q1). Highest walk score among cities passing all three filters.
+Ranked by walkability, then download, highest first. Missing walk scores excluded.
 
-2. 2. Budapest, Hungary: site walkability 8.5/10; USD 1,400/month estimated. Fixed broadband: 344.5 down / 165.3 up Mbps (2026 Q1). It is USD 400 below the ceiling and wins the walk-score tie with Osaka on download.
+1. 1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated.
 
-3. 3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated. Fixed broadband: 210.5 down / 175.2 up Mbps (2026 Q1). It matches Budapest's walk score, with lower download but 9.9 Mbps higher upload.
+2026 Q1 broadband snapshot: 252.9 down / 153.9 up Mbps. Highest walk score among cities passing all three filters.
 
-4. 4. Taipei, Taiwan: site walkability 8/10; USD 1,800/month estimated. Fixed broadband: 259.7 down / 166.8 up Mbps (2026 Q1). The directory also rates transit at 8.8/10.
+2. 2. Budapest, Hungary: site walkability 8.5/10; estimated USD 1,400/month, USD 400 below the ceiling.
 
-5. 5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.
+2026 Q1 broadband snapshot: 344.5 down / 165.3 up Mbps. Download breaks the walk-score tie with Osaka.
+
+3. 3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated.
+
+2026 Q1 broadband snapshot: 210.5 down / 175.2 up Mbps. Same walk score as Budapest, with lower download but 9.9 Mbps higher upload.
+
+4. 4. Taipei, Taiwan: site walkability 8/10 and transit 8.8/10; USD 1,800/month estimated.
+
+2026 Q1 broadband snapshot: 259.7 down / 166.8 up Mbps.
+
+5. 5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated.
+
+2026 Q1 broadband snapshot: 359.9 down / 225.5 up Mbps. Fastest download of these five; fifth in the walkability-first ranking.
 
 Full resource: hashtagweb3.com/nomads/ig

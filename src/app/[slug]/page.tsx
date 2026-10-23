@@ -264,6 +264,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       return {
         title: truncatedTitle,
         description: truncatedDescription,
+        ...(article.category === 'News' && { robots: { index: true, follow: true, 'max-image-preview': 'large' as const } }),
         keywords: keywords,
         alternates: {
           canonical: articleUrl,

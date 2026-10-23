@@ -79,6 +79,7 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
 };
 
 const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
+  'very-ai': 'very.org',
   'ramp': 'ramp.com',
   'ramp-network': 'rampnetwork.com',
   'rain': 'rain.xyz',
@@ -189,6 +190,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
 };
 
 function faviconUrlForDomain(domain: string): string {
+  if (domain === 'very.org' || domain === 'www.very.org') return 'https://very.org/favicon-32x32.png';
   return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
 }
 
@@ -228,6 +230,7 @@ const LOGO_PATHS = (slug: string): string[] => {
  * strip keeps using explicit file paths and is unaffected.)
  */
 export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
+  'very-ai',
   'circle',
   'google',
   'gsr',

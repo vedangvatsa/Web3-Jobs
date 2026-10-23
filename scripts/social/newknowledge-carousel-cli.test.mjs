@@ -7,9 +7,11 @@ import sharp from 'sharp';
 import { jsPDF } from 'jspdf';
 import { CAMPAIGN, ASSET_DIRECTORY, sha256 } from './newknowledge-content.mjs';
 import { providerImageVerifier } from './newknowledge-images.mjs';
-import { CAROUSEL_ACCOUNTS } from './newknowledge-carousel-providers.mjs';
-import { CAROUSEL_EXPORT_DIRECTORY, loadCarouselSources, validateCarouselManifest, inspectCarouselExport, carouselSpec, assertCarouselAssetPath, assertCarouselPDF, verifyPinnedCarouselAssets, providerDocumentVerifier } from './newknowledge-carousel-publisher.mjs';
+import { CAROUSEL_ACCOUNTS, assertCarouselAccount } from './newknowledge-carousel-providers.mjs';
+import { CAROUSEL_EXPORT_DIRECTORY, loadCarouselSources, validateCarouselManifest, inspectCarouselExport, carouselSpec, retainClaimedCarouselSpec, assertCarouselAssetPath, assertCarouselPDF, verifyPinnedCarouselAssets, providerDocumentVerifier } from './newknowledge-carousel-publisher.mjs';
+import { createInstagramCarouselSpec, INSTAGRAM_CAROUSEL_TARGET } from './newknowledge-instagram-carousel.mjs';
 import { main } from './newknowledge-carousels.mjs';
+import { publicThreadFixture } from './public-copy-fixtures.mjs';
 
 const commit = 'a'.repeat(40), date = '2026-10-21', now = Date.parse(`${date}T11:30:00Z`);
 const repositoryRoot = new URL('../../', import.meta.url);
@@ -32,7 +34,9 @@ before(async () => {
     await fs.mkdir(path.dirname(path.join(root, file)), { recursive: true });
     await fs.writeFile(path.join(root, file), bytes); files.set(file, bytes);
   };
-  const contentBytes = await fs.readFile(new URL(`${ASSET_DIRECTORY}/content.json`, repositoryRoot));
+  const source = JSON.parse(await fs.readFile(new URL(`${ASSET_DIRECTORY}/content.json`, repositoryRoot)));
+  source.threads = source.threads.map(publicThreadFixture);
+  const contentBytes = Buffer.from(JSON.stringify(source));
   const calendarBytes = await fs.readFile(new URL(`${ASSET_DIRECTORY}/calendar.json`, repositoryRoot));
   const content = JSON.parse(contentBytes), calendar = JSON.parse(calendarBytes);
   await write(`${ASSET_DIRECTORY}/content.json`, contentBytes);
@@ -48,10 +52,10 @@ before(async () => {
     const entry = { ...selected, sourcePostHashes: thread.posts.map(post => sha256(JSON.stringify(post))), sourceImages: [] };
     const images = [];
     for (let index = 0; index < 6; index++) {
-      const alt = `Approved ${thread.id} image ${index + 1} description`;
+      const alt = thread.posts[index].alt;
       const source = { path: `${ASSET_DIRECTORY}/images/${thread.id}-0${index + 1}.jpg`, sha256: sha256(sourceBytes[index]), bytes: sourceBytes[index].length, width: 1200, height: 1500, alt };
       await write(source.path, sourceBytes[index]); entry.sourceImages.push(source);
-      imageManifest.images.push({ ...source, repoPath: source.path, threadId: thread.id, postNumber: index + 1, contentPostSha256: entry.sourcePostHashes[index] });
+      imageManifest.images.push({ ...source, repoPath: source.path, threadId: thread.id, postNumber: index + 1, contentPostSha256: entry.sourcePostHashes[index], renderedText: `Step ${index + 1}\n\nRun the tests and record the result.` });
       const image = { path: `${CAROUSEL_EXPORT_DIRECTORY}/instagram/${thread.id}-0${index + 1}.jpg`, sha256: sha256(instagramBytes[index]), bytes: instagramBytes[index].length, width: 1080, height: 1350, alt };
       await write(image.path, instagramBytes[index]); images.push(image);
     }
@@ -300,4 +304,128 @@ test('CLI rejects unsupported dates, unknown modes/platforms and non-reconcile I
     ['--mode=preflight', '--post-id='], ['--mode=reconcile', '--post-id=known', '--platform=both'],
   ]) await assert.rejects(main(args, {}, { root, clock: () => now, output: () => {}, fetcher: async () => { calls++; } }));
   assert.equal(calls, 0);
+});
+
+test('future sibling manuscript/calendar edits preserve old native reconciliation and original asset pins without writes', async () => {
+  const entry = bundle.manifest.threads.find(entry => entry.id === 'C02');
+  const target = CAROUSEL_ACCOUNTS.linkedin;
+  const channel = { id: target.channelId, name: 'hashtagweb3', service: 'linkedin', serviceId: target.serviceId, externalLink: target.profile, type: 'page', organizationId: 'org', isDisconnected: false, isLocked: false, isQueuePaused: false, allowedActions: ['readUpdates', 'scheduleUpdates'] };
+  const states = {};
+  for (const platform of ['linkedin', 'instagram']) {
+    const inspected = await inspectCarouselExport(root, bundle, entry, platform);
+    const base = carouselSpec(bundle, entry, platform, inspected, commit);
+    const spec = platform === 'instagram' ? createInstagramCarouselSpec(base) : base;
+    states[platform] = { version: 1, spec, account: platform === 'instagram' ? INSTAGRAM_CAROUSEL_TARGET : assertCarouselAccount(channel, platform), claimId: 'original-claim', startedAt: new Date(now).toISOString(), status: 'verified', postId: platform === 'instagram' ? '3000' : 'known-linkedin', verifiedAt: new Date(now).toISOString() };
+    if (platform === 'instagram') Object.assign(states[platform], {
+      children: Object.fromEntries(Array.from({ length: 6 }, (_, index) => [index, { createClaim: `child-${index}`, status: 'verified', containerId: String(1000 + index) }])),
+      parent: { createClaim: 'parent-claim', status: 'container-created', containerId: '2000', childContainerIds: Array.from({ length: 6 }, (_, index) => String(1000 + index)) },
+      publish: { claimId: 'publish-claim', status: 'verified', creationId: '2000', postId: '3000' }, publishedChildIds: Array.from({ length: 6 }, (_, index) => String(4000 + index)),
+    });
+  }
+  const originalStates = structuredClone(states), updated = {
+    content: structuredClone(bundle.content), calendar: structuredClone(bundle.calendar),
+    imageManifest: structuredClone(bundle.imageManifest), manifest: structuredClone(bundle.manifest),
+  };
+  const sibling = updated.content.threads.find(thread => thread.id === 'N02');
+  sibling.posts[0].text = 'Check the evidence before choosing a remote-work base.\n\nCompare entry conditions and the estimated monthly budget.';
+  sibling.title = 'Compare the evidence for a remote-work base';
+  updated.calendar.dates.find(item => item.id === sibling.id).title = sibling.title;
+  const siblingExport = updated.manifest.threads.find(item => item.id === sibling.id);
+  siblingExport.title = sibling.title;
+  siblingExport.sourcePostHashes = sibling.posts.map(post => sha256(JSON.stringify(post)));
+  updated.imageManifest.images.find(image => image.threadId === sibling.id && image.postNumber === 1).contentPostSha256 = siblingExport.sourcePostHashes[0];
+  updated.contentBytes = Buffer.from(JSON.stringify(updated.content));
+  updated.calendarBytes = Buffer.from(JSON.stringify(updated.calendar));
+  updated.manifest.sourceContentSha256 = sha256(updated.contentBytes);
+  updated.imageManifest.contentSha256 = sha256(updated.contentBytes);
+  updated.imageManifest.calendarSha256 = sha256(updated.calendarBytes);
+  assert.equal(validateCarouselManifest(updated).length, 27);
+  const replacements = new Map([
+    [`${ASSET_DIRECTORY}/content.json`, updated.contentBytes], [`${ASSET_DIRECTORY}/calendar.json`, updated.calendarBytes],
+    [`${ASSET_DIRECTORY}/image-manifest.json`, Buffer.from(JSON.stringify(updated.imageManifest))],
+    [`${CAROUSEL_EXPORT_DIRECTORY}/manifest.json`, Buffer.from(JSON.stringify(updated.manifest))],
+  ]);
+  const requests = [], outputs = [];
+  const json = value => new Response(JSON.stringify(value), { status: 200 });
+  const fetcher = async (url, init = {}) => {
+    requests.push({ url, method: init.method || 'GET' });
+    if (url.startsWith('https://api.github.com/')) {
+      assert.ok(!init.method, 'Known receipts must stay read-only');
+      const platform = url.includes('-instagram.json') ? 'instagram' : 'linkedin';
+      return json({ sha: 'saved-receipt', encoding: 'base64', content: Buffer.from(JSON.stringify(states[platform], null, 2) + '\n').toString('base64') });
+    }
+    if (url.startsWith('https://raw.githubusercontent.com/')) {
+      assert.ok(url.includes(`/${commit}/`), 'Original asset pin must survive a new checkout');
+      const file = url.split('/').slice(6).join('/');
+      return new Response(files.get(file), { headers: { 'Content-Type': file.endsWith('.pdf') ? 'application/pdf' : 'image/jpeg' } });
+    }
+    if (url === 'https://api.buffer.com') {
+      const { query } = JSON.parse(init.body);
+      assert.match(query, /^query /, 'Reconciliation must never create a carousel');
+      if (query.includes('CarouselChannel')) return json({ data: { channel } });
+      assert.ok(query.includes('CarouselPost'));
+      const spec = states.linkedin.spec;
+      return json({ data: { post: { id: states.linkedin.postId, text: spec.caption, channelId: target.channelId, channelService: 'linkedin', channel, status: 'sent', schedulingType: 'automatic', externalLink: 'https://www.linkedin.com/feed/update/urn:li:activity:123/', metadata: null, assets: [{ __typename: 'DocumentAsset', type: 'document', mimeType: 'application/pdf', source: spec.pdf.url, thumbnail: spec.thumbnail.url, document: { title: spec.title, numPages: 6, filesize: spec.pdf.bytes } }] } } });
+    }
+    assert.equal(new URL(url).origin, 'https://graph.facebook.com');
+    assert.equal(init.method, 'GET', 'Instagram reconciliation must not mutate');
+    const route = new URL(url).pathname;
+    if (route.endsWith(`/${INSTAGRAM_CAROUSEL_TARGET.accountId}`)) return json({ id: INSTAGRAM_CAROUSEL_TARGET.accountId, username: 'hashtagweb3' });
+    if (route.endsWith('/children')) return json({ data: states.instagram.spec.images.map((image, index) => ({ id: String(4000 + index), media_type: 'IMAGE', media_url: image.url, alt_text: image.alt })) });
+    assert.ok(route.endsWith('/3000'));
+    return json({ id: '3000', owner: { id: INSTAGRAM_CAROUSEL_TARGET.accountId }, media_type: 'CAROUSEL_ALBUM', caption: states.instagram.spec.caption, permalink: 'https://www.instagram.com/p/known123/' });
+  };
+  try {
+    for (const [file, bytes] of replacements) await fs.writeFile(path.join(root, file), bytes);
+    const result = await main(['--mode=reconcile', `--date=${date}`], { ...env, META_PAGE_TOKEN: 'mock-meta-secret', KNOWLEDGE_INSTAGRAM_TRANSPORT: 'meta', KNOWLEDGE_CAROUSEL_ASSET_COMMIT: 'b'.repeat(40) }, { root, clock: () => Date.parse('2026-11-01T00:00:00Z'), fetcher, output: value => outputs.push(value) });
+    assert.deepEqual(result.map(item => item.status), ['verified', 'verified']);
+    assert.deepEqual(states, originalStates);
+    for (const platform of ['linkedin', 'instagram']) {
+      const journalState = JSON.parse(await fs.readFile(path.join(root, '.cache/newknowledge-carousels', date, platform, 'receipt.json'), 'utf8'));
+      assert.deepEqual(journalState.spec, originalStates[platform].spec);
+    }
+    assert.ok(requests.length > 10);
+  } finally {
+    for (const file of replacements.keys()) await fs.writeFile(path.join(root, file), files.get(file));
+  }
+});
+
+test('aggregate hash retention never tolerates a change to selected historical content, caption, calendar identity or assets', async () => {
+  const entry = bundle.manifest.threads.find(entry => entry.id === 'C02');
+  const inspected = await inspectCarouselExport(root, bundle, entry, 'linkedin');
+  const claimed = carouselSpec(bundle, entry, 'linkedin', inspected, commit);
+  const candidate = { ...structuredClone(claimed), sourceContentSha256: 'b'.repeat(64), calendarSha256: 'c'.repeat(64) };
+  assert.deepEqual(retainClaimedCarouselSpec(candidate, claimed), claimed);
+  for (const change of [
+    spec => { spec.caption += ' Changed.'; }, spec => { spec.title += ' Changed'; },
+    spec => { spec.sourceThreadSha256 = '0'.repeat(64); }, spec => { spec.sourcePostHashes[0] = '0'.repeat(64); },
+    spec => { spec.sourceImages[0].alt = 'A changed label on the claimed image.'; },
+    spec => { spec.pdf.sha256 = '0'.repeat(64); }, spec => { spec.thumbnail.url = spec.thumbnail.url.replace(commit, 'b'.repeat(40)); },
+    spec => { spec.assetCommit = 'b'.repeat(40); }, spec => { spec.date = '2026-10-23'; },
+  ]) {
+    const copy = structuredClone(candidate); change(copy);
+    assert.throws(() => retainClaimedCarouselSpec(copy, claimed), /Claimed carousel selected/);
+  }
+  const future = { ...structuredClone(claimed), date: '2026-10-23', sequence: 6, threadId: 'N02' };
+  assert.throws(() => retainClaimedCarouselSpec({ ...future, calendarSha256: 'c'.repeat(64) }, future), /Claimed carousel selected/);
+});
+
+test('native future exports reject missing or leaked rendered text, changed alt and stale source bytes offline', async () => {
+  const entry = bundle.manifest.threads.find(entry => entry.id === 'N02');
+  for (const change of [
+    image => { image.renderedText = 'Real app, local capture.'; },
+    image => { delete image.renderedText; },
+    image => { image.alt = 'Authored graphic with budget comparisons.'; },
+    image => { image.sha256 = '0'.repeat(64); },
+  ]) {
+    const copy = { ...bundle, imageManifest: structuredClone(bundle.imageManifest) };
+    change(copy.imageManifest.images.find(image => image.threadId === entry.id));
+    await assert.rejects(inspectCarouselExport(root, copy, entry, 'instagram'));
+  }
+  const file = entry.sourceImages[0].path;
+  const changed = await sharp(files.get(file)).negate().jpeg().toBuffer();
+  try {
+    await fs.writeFile(path.join(root, file), changed);
+    await assert.rejects(inspectCarouselExport(root, bundle, entry, 'linkedin'), /Carousel asset (size|hash) changed/);
+  } finally { await fs.writeFile(path.join(root, file), files.get(file)); }
 });

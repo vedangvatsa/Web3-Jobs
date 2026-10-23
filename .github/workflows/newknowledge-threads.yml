@@ -56,12 +56,12 @@ jobs:
     env:
       KNOWLEDGE_DATE: ${{ inputs.date }}
       KNOWLEDGE_SLOT: ${{ inputs.slot || 'afternoon' }}
-      KNOWLEDGE_WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
-      KNOWLEDGE_ONLY_NEWS: ${{ github.event.inputs.only_news }}
-      KNOWLEDGE_NEWS_DRY_RUN: ${{ github.event.inputs.news_dry_run }}
-      KNOWLEDGE_DRY_RUN: ${{ github.event.inputs.dry_run }}
-      KNOWLEDGE_DIAGNOSE_TELEGRAM: ${{ github.event.inputs.diagnose_telegram }}
-      KNOWLEDGE_DIAGNOSE_CONTENT: ${{ github.event.inputs.diagnose_content }}
+      KNOWLEDGE_WEBSITE_RECOVERY: ${{ fromJSON(toJSON(github.event.inputs)).website_recovery }}
+      KNOWLEDGE_ONLY_NEWS: ${{ fromJSON(toJSON(github.event.inputs)).only_news }}
+      KNOWLEDGE_NEWS_DRY_RUN: ${{ fromJSON(toJSON(github.event.inputs)).news_dry_run }}
+      KNOWLEDGE_DRY_RUN: ${{ fromJSON(toJSON(github.event.inputs)).dry_run }}
+      KNOWLEDGE_DIAGNOSE_TELEGRAM: ${{ fromJSON(toJSON(github.event.inputs)).diagnose_telegram }}
+      KNOWLEDGE_DIAGNOSE_CONTENT: ${{ fromJSON(toJSON(github.event.inputs)).diagnose_content }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -73,7 +73,7 @@ jobs:
         id: plan
         run: node scripts/social/newknowledge-plan.mjs
       - name: Test date, receipt and provider safeguards offline
-        run: node --test scripts/social/platform-links.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-resources.test.mjs scripts/social/newknowledge-state.test.mjs scripts/social/newknowledge-publisher.test.mjs scripts/social/newknowledge-workflow.test.mjs
+        run: node --test scripts/social/platform-links.test.mjs scripts/social/public-copy-guard.test.mjs scripts/social/newknowledge-content.test.mjs scripts/social/newknowledge-resources.test.mjs scripts/social/newknowledge-state.test.mjs scripts/social/newknowledge-publisher.test.mjs scripts/social/newknowledge-workflow.test.mjs
       - name: Install image validation dependencies
         if: ${{ inputs.mode != 'publish' || steps.plan.outputs.due == 'true' }}
         run: npm ci --no-audit --no-fund

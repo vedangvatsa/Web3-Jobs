@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "A valid signature can be reused, and a token can transfer less than the amount requested.\nFive smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.",
-        "alt": "Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?",
+        "text": "A valid signature can be reused. A token can transfer less than requested.\n\nFive smart-contract security interview questions on tools, accounting, replay, fuzzing and read-call limits.",
+        "alt": "Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization.",
         "image": "social-assets/knowledge-threads-month/images/C07-01.jpg"
       },
       {
         "number": 2,
-        "text": "Q: What is Slither, and what can it find?\nA: A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety.",
-        "alt": "Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is\"slither\" and what kind of issues can it find?",
+        "text": "Q: What is Slither, and what can it find?\n\nA: A Solidity/Vyper static analyzer. It flags reentrancy, tx.origin authorization and unchecked calls. Review each finding; a clean run does not prove safety.",
+        "alt": "Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety.",
         "image": "social-assets/knowledge-threads-month/images/C07-02.jpg"
       },
       {
         "number": 3,
-        "text": "Q: What token behavior do you check first in a staking audit?\nA: Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.",
-        "alt": "Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?",
+        "text": "Q: What token behavior matters in a staking audit?\n\nA: Transfer fees and rebases. For supported fee-on-transfer tokens, credit the received balance delta. Rebases need separate accounting or explicit rejection.",
+        "alt": "Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling.",
         "image": "social-assets/knowledge-threads-month/images/C07-03.jpg"
       },
       {
         "number": 4,
-        "text": "Q: What is signature replay, and how do you stop it?\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
-        "alt": "Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?",
+        "text": "Q: What is signature replay, and how do you stop it?\n\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
+        "alt": "Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse.",
         "image": "social-assets/knowledge-threads-month/images/C07-04.jpg"
       },
       {
         "number": 5,
-        "text": "Q: What is fuzzing, and which tool supports it?\nA: Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
-        "alt": "Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it.",
+        "text": "Q: What is fuzzing?\n\nA: Generated inputs test properties. Echidna fuzzes call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
+        "alt": "Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state.",
         "image": "social-assets/knowledge-threads-month/images/C07-05.jpg"
       },
       {
         "number": 6,
-        "text": "Q: Can an unbounded view loop cause denial of service?\nA: Yes. eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/x",
-        "alt": "A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas.",
+        "text": "Q: Can an unbounded view loop cause denial of service?\n\nA: Yes. eth_call executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/x",
+        "alt": "Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read.",
         "image": "social-assets/knowledge-threads-month/images/C07-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "A valid signature can be reused, and a token can transfer less than the amount requested.\nFive smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.",
-        "alt": "Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?",
+        "text": "A valid signature can be reused. A token can transfer less than requested.\n\nFive smart-contract security interview questions on tools, accounting, replay, fuzzing and read-call limits.",
+        "alt": "Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization.",
         "image": "social-assets/knowledge-threads-month/images/C07-01.jpg"
       },
       {
         "number": 2,
-        "text": "Q: What is Slither, and what can it find?\nA: A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety.",
-        "alt": "Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is\"slither\" and what kind of issues can it find?",
+        "text": "Q: What is Slither, and what can it find?\n\nA: A Solidity/Vyper static analyzer. It flags reentrancy, tx.origin authorization and unchecked calls. Review each finding; a clean run does not prove safety.",
+        "alt": "Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety.",
         "image": "social-assets/knowledge-threads-month/images/C07-02.jpg"
       },
       {
         "number": 3,
-        "text": "Q: What token behavior do you check first in a staking audit?\nA: Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.",
-        "alt": "Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?",
+        "text": "Q: What token behavior matters in a staking audit?\n\nA: Transfer fees and rebases. For supported fee-on-transfer tokens, credit the received balance delta. Rebases need separate accounting or explicit rejection.",
+        "alt": "Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling.",
         "image": "social-assets/knowledge-threads-month/images/C07-03.jpg"
       },
       {
         "number": 4,
-        "text": "Q: What is signature replay, and how do you stop it?\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
-        "alt": "Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?",
+        "text": "Q: What is signature replay, and how do you stop it?\n\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
+        "alt": "Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse.",
         "image": "social-assets/knowledge-threads-month/images/C07-04.jpg"
       },
       {
         "number": 5,
-        "text": "Q: What is fuzzing, and which tool supports it?\nA: Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
-        "alt": "Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it.",
+        "text": "Q: What is fuzzing?\n\nA: Generated inputs test properties. Echidna fuzzes call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
+        "alt": "Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state.",
         "image": "social-assets/knowledge-threads-month/images/C07-05.jpg"
       },
       {
         "number": 6,
-        "text": "Q: Can an unbounded view loop cause denial of service?\nA: Yes. eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/th",
-        "alt": "A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas.",
+        "text": "Q: Can an unbounded view loop cause denial of service?\n\nA: Yes. eth_call executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/th",
+        "alt": "Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read.",
         "image": "social-assets/knowledge-threads-month/images/C07-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "A valid signature can be reused, and a token can transfer less than the amount requested.\nFive smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.\n\n1. Q: What is Slither, and what can it find?\nA: A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety.\n\n2. Q: What token behavior do you check first in a staking audit?\nA: Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.\n\n3. Q: What is signature replay, and how do you stop it?\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.\n\n4. Q: What is fuzzing, and which tool supports it?\nA: Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.\n\n5. Q: Can an unbounded view loop cause denial of service?\nA: Yes. eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nFull resource: hashtagweb3.com/interview-questions/fb",
+    "caption": "A valid signature can be reused. A token can transfer less than requested.\n\nFive smart-contract security interview questions on tools, accounting, replay, fuzzing and read-call limits.\n\n1. Q: What is Slither, and what can it find?\n\nA: A Solidity/Vyper static analyzer. It flags reentrancy, tx.origin authorization and unchecked calls. Review each finding; a clean run does not prove safety.\n\n2. Q: What token behavior matters in a staking audit?\n\nA: Transfer fees and rebases. For supported fee-on-transfer tokens, credit the received balance delta. Rebases need separate accounting or explicit rejection.\n\n3. Q: What is signature replay, and how do you stop it?\n\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.\n\n4. Q: What is fuzzing?\n\nA: Generated inputs test properties. Echidna fuzzes call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.\n\n5. Q: Can an unbounded view loop cause denial of service?\n\nA: Yes. eth_call executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nFull resource: hashtagweb3.com/interview-questions/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/C07-01.jpg",
-        "sha256": "d5acc100048c8db90f83a69a5e5cc2c930d7e9e594f7b2c06ca854ccfd47831f",
-        "bytes": 153408,
+        "sha256": "c2ac5b7442c413ccc966e7297916d3498dd83150a2af6de30d4288891984f31e",
+        "bytes": 145244,
         "width": 1200,
         "height": 1500,
-        "alt": "Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-02.jpg",
-        "sha256": "c18d12f13dd227f862fe9cb31a5c01f45d6b03395386be52f7bb8dc8b71a6f5e",
-        "bytes": 145445,
+        "sha256": "3ece0bb7bcdc08a6cef8fbc3c97f40a910e478bc830ca6f5374baf550925f8c8",
+        "bytes": 127716,
         "width": 1200,
         "height": 1500,
-        "alt": "Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is\"slither\" and what kind of issues can it find?"
+        "alt": "Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-03.jpg",
-        "sha256": "cbab5ffb2ada4a181af89f9bb59688cbb33d4cfd077a7774bd67d1af5c3df1aa",
-        "bytes": 209755,
+        "sha256": "aac26c1d4ce3e5799550338635f18cd1a56e2225b751faba085635640e274ea3",
+        "bytes": 190565,
         "width": 1200,
         "height": 1500,
-        "alt": "Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?"
+        "alt": "Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-04.jpg",
-        "sha256": "74ce99551276e0726c056236bdedd3d7b0c91723423328354859d74830b708ab",
-        "bytes": 147659,
+        "sha256": "21e80c99e9bc39044abb2cdfe20b4c79b1463e293f6975f67fb2dc1c0c76f69c",
+        "bytes": 136055,
         "width": 1200,
         "height": 1500,
-        "alt": "Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-05.jpg",
-        "sha256": "d0bd537b1890cfe9157d80062dd6f595dd11f610522256e1299acfa4c37c1d58",
-        "bytes": 195594,
+        "sha256": "73e8a834ead9a41be4c8902ede4789c42d92dc6d21d25eafcf5a82fbcb6e9cf1",
+        "bytes": 179562,
         "width": 1200,
         "height": 1500,
-        "alt": "Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it."
+        "alt": "Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-06.jpg",
-        "sha256": "ea4cf7c1bdcc5fa29d4c07343b935ca80d5f2840ac621c2ea069fae32f8659bd",
-        "bytes": 172794,
+        "sha256": "d69540c0d04fab1bf605a52d82d2a96a3f7a24135bfc41db6451e2d05b9b0dd9",
+        "bytes": 159766,
         "width": 1200,
         "height": 1500,
-        "alt": "A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas."
+        "alt": "Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read."
       }
     ]
   },
   "telegram": {
-    "caption": "A valid signature can be reused, and a token can transfer less than the amount requested.\nFive smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.\n\nhashtagweb3.com/interview-questions/tg",
+    "caption": "A valid signature can be reused. A token can transfer less than requested.\n\nFive smart-contract security interview questions on tools, accounting, replay, fuzzing and read-call limits.\n\nhashtagweb3.com/interview-questions/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/C07-01.jpg",
-        "sha256": "d5acc100048c8db90f83a69a5e5cc2c930d7e9e594f7b2c06ca854ccfd47831f",
-        "bytes": 153408,
+        "sha256": "c2ac5b7442c413ccc966e7297916d3498dd83150a2af6de30d4288891984f31e",
+        "bytes": 145244,
         "width": 1200,
         "height": 1500,
-        "alt": "Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-02.jpg",
-        "sha256": "c18d12f13dd227f862fe9cb31a5c01f45d6b03395386be52f7bb8dc8b71a6f5e",
-        "bytes": 145445,
+        "sha256": "3ece0bb7bcdc08a6cef8fbc3c97f40a910e478bc830ca6f5374baf550925f8c8",
+        "bytes": 127716,
         "width": 1200,
         "height": 1500,
-        "alt": "Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is\"slither\" and what kind of issues can it find?"
+        "alt": "Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-03.jpg",
-        "sha256": "cbab5ffb2ada4a181af89f9bb59688cbb33d4cfd077a7774bd67d1af5c3df1aa",
-        "bytes": 209755,
+        "sha256": "aac26c1d4ce3e5799550338635f18cd1a56e2225b751faba085635640e274ea3",
+        "bytes": 190565,
         "width": 1200,
         "height": 1500,
-        "alt": "Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?"
+        "alt": "Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-04.jpg",
-        "sha256": "74ce99551276e0726c056236bdedd3d7b0c91723423328354859d74830b708ab",
-        "bytes": 147659,
+        "sha256": "21e80c99e9bc39044abb2cdfe20b4c79b1463e293f6975f67fb2dc1c0c76f69c",
+        "bytes": 136055,
         "width": 1200,
         "height": 1500,
-        "alt": "Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-05.jpg",
-        "sha256": "d0bd537b1890cfe9157d80062dd6f595dd11f610522256e1299acfa4c37c1d58",
-        "bytes": 195594,
+        "sha256": "73e8a834ead9a41be4c8902ede4789c42d92dc6d21d25eafcf5a82fbcb6e9cf1",
+        "bytes": 179562,
         "width": 1200,
         "height": 1500,
-        "alt": "Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it."
+        "alt": "Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C07-06.jpg",
-        "sha256": "ea4cf7c1bdcc5fa29d4c07343b935ca80d5f2840ac621c2ea069fae32f8659bd",
-        "bytes": 172794,
+        "sha256": "d69540c0d04fab1bf605a52d82d2a96a3f7a24135bfc41db6451e2d05b9b0dd9",
+        "bytes": 159766,
         "width": 1200,
         "height": 1500,
-        "alt": "A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas."
+        "alt": "Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "A valid signature can be reused, and a token can transfer less than the amount requested.\nFive smart-contract security interview questions with answers about tools, accounting, replay, fuzzing and read-call limits.",
+        "text": "A valid signature can be reused. A token can transfer less than requested.\n\nFive smart-contract security interview questions on tools, accounting, replay, fuzzing and read-call limits.",
         "image": "social-assets/knowledge-threads-month/images/C07-01.jpg",
-        "alt": "Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization."
       },
       {
-        "text": "Q: What is Slither, and what can it find?\nA: A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety.",
+        "text": "Q: What is Slither, and what can it find?\n\nA: A Solidity/Vyper static analyzer. It flags reentrancy, tx.origin authorization and unchecked calls. Review each finding; a clean run does not prove safety.",
         "image": "social-assets/knowledge-threads-month/images/C07-02.jpg",
-        "alt": "Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is\"slither\" and what kind of issues can it find?"
+        "alt": "Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety."
       },
       {
-        "text": "Q: What token behavior do you check first in a staking audit?\nA: Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.",
+        "text": "Q: What token behavior matters in a staking audit?\n\nA: Transfer fees and rebases. For supported fee-on-transfer tokens, credit the received balance delta. Rebases need separate accounting or explicit rejection.",
         "image": "social-assets/knowledge-threads-month/images/C07-03.jpg",
-        "alt": "Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?"
+        "alt": "Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling."
       },
       {
-        "text": "Q: What is signature replay, and how do you stop it?\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
+        "text": "Q: What is signature replay, and how do you stop it?\n\nA: Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse.",
         "image": "social-assets/knowledge-threads-month/images/C07-04.jpg",
-        "alt": "Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?"
+        "alt": "Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse."
       },
       {
-        "text": "Q: What is fuzzing, and which tool supports it?\nA: Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
+        "text": "Q: What is fuzzing?\n\nA: Generated inputs test properties. Echidna fuzzes call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.",
         "image": "social-assets/knowledge-threads-month/images/C07-05.jpg",
-        "alt": "Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it."
+        "alt": "Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state."
       },
       {
-        "text": "Q: Can an unbounded view loop cause denial of service?\nA: Yes. eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/bsky",
+        "text": "Q: Can an unbounded view loop cause denial of service?\n\nA: Yes. eth_call executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead.\n\nhashtagweb3.com/interview-questions/bsky",
         "image": "social-assets/knowledge-threads-month/images/C07-06.jpg",
-        "alt": "A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how\"unbounded loops\" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas."
+        "alt": "Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read."
       }
     ]
   }

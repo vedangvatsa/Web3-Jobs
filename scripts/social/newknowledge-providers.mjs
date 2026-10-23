@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import { assertPublicFields, assertPublicImageCopy } from './public-copy-guard.mjs';
 
 export const X_CHANNEL = '6ab62682ea19ca0bdee284bd';
 export const X_ACCOUNT = 'hashtag_web3';
@@ -7,13 +8,17 @@ const assetFields = 'source mimeType ... on ImageAsset {image {altText width hei
 const postFields = `id text status channelId channelService externalLink error {message} metadata { ... on TwitterPostMetadata {threadCount thread {text assets {${assetFields}}}} }`;
 
 export function bufferThreadInput(posts, assets) {
+  assertPublicFields({ posts, assets }, { field: 'x' });
   assert.equal(posts.length, 6);
   assert.equal(assets.length, 6);
+  assets.forEach((asset, index) => assertPublicImageCopy(asset, { field: `x.assets[${index}]` }));
   const thread = posts.map((post, i) => ({ text: post.text, assets: [{ image: { url: assets[i].url, metadata: { altText: post.alt } } }] }));
   return { channelId: X_CHANNEL, text: posts[0].text, assets: thread[0].assets, metadata: { twitter: { thread } }, schedulingType: 'automatic', mode: 'shareNow', needsApproval: false };
 }
 
 export function threadsContainerInput(post, asset, previousId) {
+  assertPublicFields({ post, asset }, { field: 'threads' });
+  assertPublicImageCopy(asset, { field: 'threads.asset' });
   return { media_type: 'IMAGE', text: post.text, image_url: asset.url, alt_text: post.alt, ...(previousId ? { reply_to_id: previousId } : {}) };
 }
 

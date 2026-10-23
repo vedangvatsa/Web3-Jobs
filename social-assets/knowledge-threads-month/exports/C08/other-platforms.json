@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.",
-        "alt": "Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project.",
+        "text": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.",
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook.",
         "image": "social-assets/knowledge-threads-month/images/C08-01.jpg"
       },
       {
         "number": 2,
-        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions. Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command. This is a proposed exercise.",
-        "alt": "Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.",
+        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions.\n\nDeliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.",
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README.",
         "image": "social-assets/knowledge-threads-month/images/C08-02.jpg"
       },
       {
         "number": 3,
-        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.",
-        "alt": "Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.",
+        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.\n\nCount repeat swaps once per address/day; label senders, not users.",
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users.",
         "image": "social-assets/knowledge-threads-month/images/C08-03.jpg"
       },
       {
         "number": 4,
-        "text": "Community Weaver practice task: draft a mock support runbook. Example entry: wallet won't connect; category = connection; owner = support moderator; next step = collect browser, wallet version and error text. Output: queue plus handoff note.",
-        "alt": "Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.",
+        "text": "Community Weaver practice task: draft a support queue and handoff note.\n\nExample: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.",
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note.",
         "image": "social-assets/knowledge-threads-month/images/C08-04.jpg"
       },
       {
         "number": 5,
-        "text": "Security research sits under The Analyst too: Smart Contract Auditor is one of its recommended roles. A practice output could be a short finding with the failing test, affected function and proposed fix.",
-        "alt": "The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts.",
+        "text": "The Analyst also recommends Smart Contract Auditor.\n\nPractice task: write a short finding with the failing test, affected function and proposed fix.",
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix.",
         "image": "social-assets/knowledge-threads-month/images/C08-05.jpg"
       },
       {
         "number": 6,
-        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.\n\nhashtagweb3.com/web3-career-quiz/x",
-        "alt": "The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols.",
+        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.\n\nTake the 16-question quiz for your role list, then choose a practice task.\n\nhashtagweb3.com/web3-career-quiz/x",
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks.",
         "image": "social-assets/knowledge-threads-month/images/C08-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.",
-        "alt": "Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project.",
+        "text": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.",
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook.",
         "image": "social-assets/knowledge-threads-month/images/C08-01.jpg"
       },
       {
         "number": 2,
-        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions. Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command. This is a proposed exercise.",
-        "alt": "Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.",
+        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions.\n\nDeliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.",
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README.",
         "image": "social-assets/knowledge-threads-month/images/C08-02.jpg"
       },
       {
         "number": 3,
-        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.",
-        "alt": "Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.",
+        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.\n\nCount repeat swaps once per address/day; label senders, not users.",
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users.",
         "image": "social-assets/knowledge-threads-month/images/C08-03.jpg"
       },
       {
         "number": 4,
-        "text": "Community Weaver practice task: draft a mock support runbook. Example entry: wallet won't connect; category = connection; owner = support moderator; next step = collect browser, wallet version and error text. Output: queue plus handoff note.",
-        "alt": "Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.",
+        "text": "Community Weaver practice task: draft a support queue and handoff note.\n\nExample: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.",
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note.",
         "image": "social-assets/knowledge-threads-month/images/C08-04.jpg"
       },
       {
         "number": 5,
-        "text": "Security research sits under The Analyst too: Smart Contract Auditor is one of its recommended roles. A practice output could be a short finding with the failing test, affected function and proposed fix.",
-        "alt": "The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts.",
+        "text": "The Analyst also recommends Smart Contract Auditor.\n\nPractice task: write a short finding with the failing test, affected function and proposed fix.",
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix.",
         "image": "social-assets/knowledge-threads-month/images/C08-05.jpg"
       },
       {
         "number": 6,
-        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.\n\nhashtagweb3.com/web3-career-quiz/th",
-        "alt": "The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols.",
+        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.\n\nTake the 16-question quiz for your role list, then choose a practice task.\n\nhashtagweb3.com/web3-career-quiz/th",
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks.",
         "image": "social-assets/knowledge-threads-month/images/C08-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.\n\n1. Builder practice task: implement a local escrow's deposit and withdrawal functions. Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command. This is a proposed exercise.\n\n2. Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.\n\n3. Community Weaver practice task: draft a mock support runbook. Example entry: wallet won't connect; category = connection; owner = support moderator; next step = collect browser, wallet version and error text. Output: queue plus handoff note.\n\n4. Security research sits under The Analyst too: Smart Contract Auditor is one of its recommended roles. A practice output could be a short finding with the failing test, affected function and proposed fix.\n\n5. The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.\n\nFull resource: hashtagweb3.com/web3-career-quiz/fb",
+    "caption": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.\n\n1. Builder practice task: implement a local escrow's deposit and withdrawal functions.\n\nDeliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.\n\n2. Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.\n\nCount repeat swaps once per address/day; label senders, not users.\n\n3. Community Weaver practice task: draft a support queue and handoff note.\n\nExample: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.\n\n4. The Analyst also recommends Smart Contract Auditor.\n\nPractice task: write a short finding with the failing test, affected function and proposed fix.\n\n5. The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.\n\nTake the 16-question quiz for your role list, then choose a practice task.\n\nFull resource: hashtagweb3.com/web3-career-quiz/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/C08-01.jpg",
-        "sha256": "e122bb585605108801e3b4c662cbfca9d5af933b5b998a7634bb6664a62de6c9",
-        "bytes": 126307,
+        "sha256": "9db42a7f7e2133b583cf453a3e72e3df327d833c3aaa8fe00a7c59bf44bf49b7",
+        "bytes": 123927,
         "width": 1200,
         "height": 1500,
-        "alt": "Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-02.jpg",
-        "sha256": "b097155de761c43f5264892bd3807c3957bae55b389a8c9d0b6966d33b1f0d71",
-        "bytes": 143114,
+        "sha256": "03d1d0739325c0246e5c0869cab5228afeb9b485b01d546752b43bbf84fcd87c",
+        "bytes": 130829,
         "width": 1200,
         "height": 1500,
-        "alt": "Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-03.jpg",
-        "sha256": "fdacc944a6843bb34217dd511b1439dde1e01fd6edb3bd8760229080d97d3f8a",
-        "bytes": 164609,
+        "sha256": "76d3fb0a64b0fdffe9ccdc1bef3bea6a5b5a7a67cd6bd17e4e9314ee507a4a3a",
+        "bytes": 152962,
         "width": 1200,
         "height": 1500,
-        "alt": "Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-04.jpg",
-        "sha256": "4b17700130ef1dfb361b256d9c1b2138ec1841f50128ac24a3914e7adb16ef53",
-        "bytes": 157787,
+        "sha256": "248b513900e7a2d440ff8707413ade8110e017755cce8cdfe4545b83568bba5c",
+        "bytes": 145726,
         "width": 1200,
         "height": 1500,
-        "alt": "Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-05.jpg",
-        "sha256": "37939cb25508ac027b60c5c59bde2d966372274890f84252a3a43b2538bd273b",
-        "bytes": 126491,
+        "sha256": "99c47d1bb00771bffe2d84bb3adb355189ea797e2e3d56ae86cff58ca1b34459",
+        "bytes": 114101,
         "width": 1200,
         "height": 1500,
-        "alt": "The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts."
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-06.jpg",
-        "sha256": "5cbe4ec8739ea12eb1c35c1148317bf007a3377104b82f6e033b51e3b3b8944d",
-        "bytes": 118057,
+        "sha256": "13797757070279dcdb19af6755f92b30e39291c1261fc84874a7acc3dcb53fa1",
+        "bytes": 125322,
         "width": 1200,
         "height": 1500,
-        "alt": "The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols."
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks."
       }
     ]
   },
   "telegram": {
-    "caption": "The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.\n\nhashtagweb3.com/web3-career-quiz/tg",
+    "caption": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.\n\nhashtagweb3.com/web3-career-quiz/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/C08-01.jpg",
-        "sha256": "e122bb585605108801e3b4c662cbfca9d5af933b5b998a7634bb6664a62de6c9",
-        "bytes": 126307,
+        "sha256": "9db42a7f7e2133b583cf453a3e72e3df327d833c3aaa8fe00a7c59bf44bf49b7",
+        "bytes": 123927,
         "width": 1200,
         "height": 1500,
-        "alt": "Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-02.jpg",
-        "sha256": "b097155de761c43f5264892bd3807c3957bae55b389a8c9d0b6966d33b1f0d71",
-        "bytes": 143114,
+        "sha256": "03d1d0739325c0246e5c0869cab5228afeb9b485b01d546752b43bbf84fcd87c",
+        "bytes": 130829,
         "width": 1200,
         "height": 1500,
-        "alt": "Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-03.jpg",
-        "sha256": "fdacc944a6843bb34217dd511b1439dde1e01fd6edb3bd8760229080d97d3f8a",
-        "bytes": 164609,
+        "sha256": "76d3fb0a64b0fdffe9ccdc1bef3bea6a5b5a7a67cd6bd17e4e9314ee507a4a3a",
+        "bytes": 152962,
         "width": 1200,
         "height": 1500,
-        "alt": "Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-04.jpg",
-        "sha256": "4b17700130ef1dfb361b256d9c1b2138ec1841f50128ac24a3914e7adb16ef53",
-        "bytes": 157787,
+        "sha256": "248b513900e7a2d440ff8707413ade8110e017755cce8cdfe4545b83568bba5c",
+        "bytes": 145726,
         "width": 1200,
         "height": 1500,
-        "alt": "Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-05.jpg",
-        "sha256": "37939cb25508ac027b60c5c59bde2d966372274890f84252a3a43b2538bd273b",
-        "bytes": 126491,
+        "sha256": "99c47d1bb00771bffe2d84bb3adb355189ea797e2e3d56ae86cff58ca1b34459",
+        "bytes": 114101,
         "width": 1200,
         "height": 1500,
-        "alt": "The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts."
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/C08-06.jpg",
-        "sha256": "5cbe4ec8739ea12eb1c35c1148317bf007a3377104b82f6e033b51e3b3b8944d",
-        "bytes": 118057,
+        "sha256": "13797757070279dcdb19af6755f92b30e39291c1261fc84874a7acc3dcb53fa1",
+        "bytes": 125322,
         "width": 1200,
         "height": 1500,
-        "alt": "The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols."
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.",
+        "text": "Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.\n\nPractice examples: a contract, a query and a support runbook.",
         "image": "social-assets/knowledge-threads-month/images/C08-01.jpg",
-        "alt": "Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook."
       },
       {
-        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions. Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command. This is a proposed exercise.",
+        "text": "Builder practice task: implement a local escrow's deposit and withdrawal functions.\n\nDeliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.",
         "image": "social-assets/knowledge-threads-month/images/C08-02.jpg",
-        "alt": "Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps."
+        "alt": "Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README."
       },
       {
-        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.",
+        "text": "Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.\n\nCount repeat swaps once per address/day; label senders, not users.",
         "image": "social-assets/knowledge-threads-month/images/C08-03.jpg",
-        "alt": "Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data."
+        "alt": "Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users."
       },
       {
-        "text": "Community Weaver practice task: draft a mock support runbook. Example entry: wallet won't connect; category = connection; owner = support moderator; next step = collect browser, wallet version and error text. Output: queue plus handoff note.",
+        "text": "Community Weaver practice task: draft a support queue and handoff note.\n\nExample: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.",
         "image": "social-assets/knowledge-threads-month/images/C08-04.jpg",
-        "alt": "Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project."
+        "alt": "Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note."
       },
       {
-        "text": "Security research sits under The Analyst too: Smart Contract Auditor is one of its recommended roles. A practice output could be a short finding with the failing test, affected function and proposed fix.",
+        "text": "The Analyst also recommends Smart Contract Auditor.\n\nPractice task: write a short finding with the failing test, affected function and proposed fix.",
         "image": "social-assets/knowledge-threads-month/images/C08-05.jpg",
-        "alt": "The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts."
+        "alt": "The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix."
       },
       {
-        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.\n\nhashtagweb3.com/web3-career-quiz/bsky",
+        "text": "The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.\n\nTake the 16-question quiz for your role list, then choose a practice task.\n\nhashtagweb3.com/web3-career-quiz/bsky",
         "image": "social-assets/knowledge-threads-month/images/C08-06.jpg",
-        "alt": "The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols."
+        "alt": "The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks."
       }
     ]
   }

@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
+import { assertPublicFields } from './public-copy-guard.mjs';
 
 const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
 const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
@@ -73,6 +74,7 @@ async function run() {
  }
 
  assertEvergreenContent(input);
+ assertPublicFields({ post, input }, { field: `content-schedule[${post.id}]` });
  const res = await fetch('https://api.buffer.com/graphql', {
  method: 'POST',
  headers: {
@@ -115,4 +117,4 @@ async function run() {
  }
 }
 
-run().catch(console.error);
+run().catch(error => { console.error(error); process.exitCode = 1; });

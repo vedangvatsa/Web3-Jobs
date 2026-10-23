@@ -3,6 +3,7 @@ import { createHash } from 'node:crypto';
 import { assertCanonicalLinkPath, platformLink, SITE_ORIGIN } from './platform-links.mjs';
 import { postingSlot, isPostingWindow, assertPostingWindow } from './posting-slot.mjs';
 import { hasEventEnded } from '../lib/event-dates.mjs';
+import { assertPublicThread, usesPublicCopyPolicy } from './public-copy-guard.mjs';
 
 export const CAMPAIGN = 'knowledge-threads-month-2026-10-17';
 export const ASSET_DIRECTORY = 'social-assets/knowledge-threads-month';
@@ -53,6 +54,7 @@ export function validateCampaign(content, calendar) {
   assert.equal(new Set(sorted.map(t => t.id)).size, 30);
   assert.equal(new Set(sorted.map(t => t.posts[0].text)).size, 30);
   sorted.forEach((thread, i) => {
+    if (usesPublicCopyPolicy({ campaign: content.id, ...thread })) assertPublicThread(thread);
     assert.equal(thread.sequence, i + 1);
     assert.match(thread.id, /^[CEN](?:0[1-9]|10)$/);
     assert.equal(thread.posts.length, 6);

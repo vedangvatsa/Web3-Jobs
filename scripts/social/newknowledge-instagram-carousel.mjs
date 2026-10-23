@@ -5,6 +5,7 @@ import { REPOSITORY, sleep } from './newknowledge-state.mjs';
 import { assertCarouselDate } from './newknowledge-carousel-state.mjs';
 import { assertCarouselCaption } from './newknowledge-carousel-providers.mjs';
 import { assertCarouselAssetPath } from './newknowledge-carousel-publisher.mjs';
+import { assertPublicFields, assertPublicThread, assertPublicCarouselCopy, usesPublicCopyPolicy } from './public-copy-guard.mjs';
 
 export const INSTAGRAM_CAROUSEL_TARGET = Object.freeze({ accountId: '17841473830256790', username: 'hashtagweb3', service: 'instagram' });
 const API = 'https://graph.facebook.com/v21.0';
@@ -22,13 +23,15 @@ function assertImage(image, commit) {
   assert.equal(image.url, `https://raw.githubusercontent.com/${REPOSITORY}/${commit}/${image.path}`, 'Instagram image URL must be full-SHA-pinned');
 }
 
-function assertSpec(spec) {
+function assertSpec(spec, { newPublication = false } = {}) {
   assert.equal(spec?.transport, 'meta', 'Explicit Meta transport required');
   assert.equal(spec.platform, 'instagram');
   assert.equal(spec.campaign, CAMPAIGN);
   assertCarouselDate(spec.date);
   assert.deepEqual(spec.target, INSTAGRAM_CAROUSEL_TARGET, 'Wrong Instagram carousel target');
   assertCarouselCaption(spec.caption, 'instagram');
+  if (newPublication || usesPublicCopyPolicy(spec)) assertPublicFields(spec, { field: `instagram/${spec.threadId}` });
+  if (newPublication) assertPublicCarouselCopy(spec);
   assert.ok((spec.caption.match(/(?:^|\s)@[\w.]+/g) || []).length <= 20, 'Too many Instagram mentions');
   assert.equal(spec.images?.length, 6, 'Instagram carousel needs six images');
   for (const image of spec.images) assertImage(image, spec.assetCommit);
@@ -131,14 +134,14 @@ export function instagramCarouselClient({ env = process.env, fetcher = fetch, re
     }),
     createChild: wrap(async (spec, index, onId) => {
       assert.ok(!readOnly, 'Read-only mode forbids Instagram mutations');
-      assertSpec(spec);
+      assertSpec(spec, { newPublication: true });
       assert.ok(Number.isInteger(index) && index >= 0 && index < 6, 'Invalid Instagram child index');
       const image = spec.images[index];
       return (await request(`${INSTAGRAM_CAROUSEL_TARGET.accountId}/media`, { body: { image_url: image.url, is_carousel_item: 'true', alt_text: image.alt }, onId })).id;
     }),
     createParent: wrap(async (spec, children, onId) => {
       assert.ok(!readOnly, 'Read-only mode forbids Instagram mutations');
-      assertSpec(spec);
+      assertSpec(spec, { newPublication: true });
       assert.equal(children?.length, 6);
       children.forEach(assertId);
       assert.equal(new Set(children).size, 6, 'Duplicate Instagram child containers');
@@ -265,7 +268,13 @@ export async function runInstagramCarousel({
   const freshness = () => {
     if (mode !== 'reconcile') assertThreadResourceFreshness(sourceThread, events, Math.max(clock(), Date.parse(`${spec.date}T11:30:00Z`)));
   };
-  const guard = () => { assert.equal(mode, 'publish', 'Read-only Instagram provider operation'); assertKnowledgeWindow(spec.date, clock()); freshness(); };
+  const guard = () => {
+    assert.equal(mode, 'publish', 'Read-only Instagram provider operation');
+    assertKnowledgeWindow(spec.date, clock());
+    assertSpec(spec, { newPublication: true });
+    assertPublicThread(sourceThread);
+    freshness();
+  };
   const save = async () => { assert.notEqual(mode, 'preflight', 'Read-only Instagram receipts'); state = await store.save(state); validateState(state, spec); };
   const capacity = async () => {
     const quota = assertCapacity(await client.quota());

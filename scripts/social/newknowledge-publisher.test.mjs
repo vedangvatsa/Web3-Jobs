@@ -5,6 +5,7 @@ import { CAMPAIGN, renderThread } from './newknowledge-content.mjs';
 import { providerClient, X_CHANNEL } from './newknowledge-providers.mjs';
 import { runKnowledgePlatform } from './newknowledge-publisher.mjs';
 import { durableReceipt } from './newknowledge-state.mjs';
+import { publicThreadFixture } from './public-copy-fixtures.mjs';
 
 const content = JSON.parse(await fs.readFile(new URL('../../social-assets/knowledge-threads-month/content.json', import.meta.url)));
 const env = { BUFFER_ACCESS_TOKEN: 'offline-test', THREADS_ACCESS_TOKEN: 'offline-test', THREADS_USER_ID: '123' };
@@ -13,9 +14,9 @@ const now = Date.parse(`${date}T11:30:00Z`);
 const reply = value => new Response(JSON.stringify(value), { status: 200, headers: { 'Content-Type': 'application/json' } });
 
 function spec(platform) {
-  const posts = renderThread(content.threads.find(thread => thread.sequence === 1), platform);
+  const posts = renderThread(publicThreadFixture(content.threads.find(thread => thread.sequence === 1)), platform);
   return { campaign: CAMPAIGN, date, platform, threadId: 'C01', sequence: 1, assetCommit: 'a'.repeat(40), contentDigest: platform, posts,
-    assets: posts.map((post, i) => ({ path: post.image, url: `https://raw.githubusercontent.com/example/test/${'a'.repeat(40)}/${i}.jpg`, sha256: String(i).repeat(64), width: 1200, height: 1500 })) };
+    assets: posts.map((post, i) => ({ path: post.image, url: `https://raw.githubusercontent.com/example/test/${'a'.repeat(40)}/${i}.jpg`, sha256: String(i).repeat(64), width: 1200, height: 1500, alt: post.alt, renderedText: `Step ${i + 1}\n\nRun the tests and record the result.` })) };
 }
 
 function harness(platform, options = {}) {
@@ -256,4 +257,44 @@ test('concurrent resumptions cannot publish a saved container twice', async () =
   assert.equal(publishes.length, 6);
   assert.equal(new Set(publishes.map(m => m.body.creation_id)).size, 6);
   assert.equal(h.mutations.filter(m => m.type === 'container-create').length, 6);
+});
+
+test('new thread creates fail closed on public text, alt, image copy and readability before claims', async () => {
+  for (const platform of ['x', 'threads']) for (const change of [
+    spec => { spec.posts[0].text = 'Model output, not observed pay.'; },
+    spec => { spec.posts[0].text = 'a'.repeat(211); },
+    spec => { spec.posts[2].alt = 'Locally rendered chart of the result.'; },
+    spec => { spec.assets[3].renderedText = 'Reviewer directions: shorten this.'; },
+    spec => { delete spec.assets[0].renderedText; },
+  ]) {
+    const h = harness(platform); change(h.spec);
+    await assert.rejects(h.run(), /PUBLIC copy/);
+    assert.equal(h.requests.length, 0); assert.equal(h.writes.length, 0);
+  }
+});
+
+test('direct X and Threads provider creates cannot bypass public copy checks', async () => {
+  let calls = 0;
+  const fetcher = async () => { calls++; throw new Error('Unexpected provider request'); };
+  for (const platform of ['x', 'threads']) {
+    const input = spec(platform), client = providerClient(platform, { env, fetcher });
+    input.posts[0].text = 'Parent: instructions for this caption.';
+    await assert.rejects(platform === 'x' ? client.create(input.posts, input.assets) : client.createContainer(input.posts[0], input.assets[0]), /PUBLIC copy/);
+  }
+  assert.equal(calls, 0);
+});
+
+test('verified historical receipts with old copy remain immutable during read-only reconciliation', async () => {
+  for (const platform of ['x', 'threads']) {
+    const h = harness(platform); await h.run();
+    h.spec.posts[0].text = 'Model output, not observed pay.';
+    h.state().spec.posts[0].text = h.spec.posts[0].text;
+    const rootId = platform === 'x' ? h.state().postId : h.state().steps[0].postId;
+    const post = h.posts.get(rootId); post.text = h.spec.posts[0].text;
+    if (platform === 'x') post.metadata.thread[0].text = post.text;
+    const before = structuredClone(h.state()), writes = h.writes.length, mutations = h.mutations.length;
+    assert.equal((await h.run('reconcile', { recovery: { postId: rootId, index: 1 } })).status, 'verified');
+    assert.deepEqual(h.state(), before);
+    assert.equal(h.writes.length, writes); assert.equal(h.mutations.length, mutations);
+  }
 });

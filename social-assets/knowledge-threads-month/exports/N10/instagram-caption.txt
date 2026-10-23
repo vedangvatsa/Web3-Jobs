@@ -1,13 +1,28 @@
-Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.
+Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.
 
-1. Sample line item 1: Documentation draft (hours). Quantity 12 x rate USD 50 = USD 600. The Description field carries the unit because the generator has Quantity and Rate fields, but no separate hours selector.
+#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.
 
-2. Sample line item 2: Revision and handoff (hours). Quantity 4 x rate USD 50 = USD 200. Add Item creates the second row. Together, the USD 600 draft and USD 200 handoff produce a USD 800 subtotal.
+1. Sample line item 1: Documentation draft (hours).
+Quantity 12 x rate USD 50 = USD 600.
 
-3. For this sample, Tax (%) = 0 and Discount (flat) = 50. The generator calculates USD 800 + USD 0 - USD 50 = USD 750. The discount is a currency amount, not 50%; the zero tax rate is only a sample input.
+Put 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.
 
-4. Currency stays USD. Payment Method: USDC on Ethereum mainnet. Notes: Sample settlement 750 USDC at agreed 1 USD = 1 USDC. The tool does not convert currencies; this is the sample's stated payment assumption.
+2. Sample line item 2: Revision and handoff (hours).
+Quantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.
 
-5. Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. The preview includes payment notes; Download PDF exports it. The sample wallet field is empty and no payment is requested.
+USD 600 draft + USD 200 handoff = USD 800 subtotal.
+
+3. Sample inputs: Tax (%) = 0; Discount (flat) = 50.
+USD 800 + USD 0 - USD 50 = USD 750.
+
+The discount is USD 50, not 50%. The zero tax rate applies only to this example.
+
+4. Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.
+
+Notes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.
+
+5. Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.
+
+The wallet field is empty; this sample is not payable.
 
 Full resource: hashtagweb3.com/invoice-generator/ig

@@ -47,7 +47,7 @@ export async function main(args = process.argv.slice(2), env = process.env) {
     return plan;
   }
   if (mode === 'validate') {
-    for (const thread of threads) if (!values['content-only']) await inspectImages(ROOT, renderThread(thread, 'x'));
+    for (const thread of threads) if (!values['content-only']) await inspectImages(ROOT, renderThread(thread, 'x'), { thread });
     const result = { status: 'valid', dates: 30, posts: 180, start: calendar.start, end: calendar.end, imagesChecked: !values['content-only'] };
     await journal(result, 'validation');
     console.log(JSON.stringify(result));
@@ -70,7 +70,7 @@ export async function main(args = process.argv.slice(2), env = process.env) {
         await record({ threadId: thread.id, eventIds: thread.freshness.eventIds, reviewedAt: new Date(reviewAt).toISOString() }, 'resource-freshness');
       }
       const posts = renderThread(thread, target);
-      const assets = await inspectImages(ROOT, posts);
+      const assets = await inspectImages(ROOT, posts, { thread });
       const assetCommit = state?.spec.assetCommit || env.KNOWLEDGE_ASSET_COMMIT;
       const spec = { campaign: CAMPAIGN, date, threadId: thread.id, sequence: thread.sequence, platform: target, assetCommit, contentDigest: sha256(JSON.stringify({ thread, posts, assets })), posts, assets: pinnedImages(assets, assetCommit) };
       if (state) assert.deepEqual(state.spec, spec, 'Content or images changed after claim');

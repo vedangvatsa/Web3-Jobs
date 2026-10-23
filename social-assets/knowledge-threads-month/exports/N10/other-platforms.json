@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.",
-        "alt": "Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026",
+        "text": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.",
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-01.jpg"
       },
       {
         "number": 2,
-        "text": "Sample line item 1: Documentation draft (hours). Quantity 12 x rate USD 50 = USD 600. The Description field carries the unit because the generator has Quantity and Rate fields, but no separate hours selector.",
-        "alt": "12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; \"Hours\" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00.",
+        "text": "Sample line item 1: Documentation draft (hours).\nQuantity 12 x rate USD 50 = USD 600.\n\nPut 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.",
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector.",
         "image": "social-assets/knowledge-threads-month/images/N10-02.jpg"
       },
       {
         "number": 3,
-        "text": "Sample line item 2: Revision and handoff (hours). Quantity 4 x rate USD 50 = USD 200. Add Item creates the second row. Together, the USD 600 draft and USD 200 handoff produce a USD 800 subtotal.",
-        "alt": "USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800.",
+        "text": "Sample line item 2: Revision and handoff (hours).\nQuantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.\n\nUSD 600 draft + USD 200 handoff = USD 800 subtotal.",
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800.",
         "image": "social-assets/knowledge-threads-month/images/N10-03.jpg"
       },
       {
         "number": 4,
-        "text": "For this sample, Tax (%) = 0 and Discount (flat) = 50. The generator calculates USD 800 + USD 0 - USD 50 = USD 750. The discount is a currency amount, not 50%; the zero tax rate is only a sample input.",
-        "alt": "USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.",
+        "text": "Sample inputs: Tax (%) = 0; Discount (flat) = 50.\nUSD 800 + USD 0 - USD 50 = USD 750.\n\nThe discount is USD 50, not 50%. The zero tax rate applies only to this example.",
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row.",
         "image": "social-assets/knowledge-threads-month/images/N10-04.jpg"
       },
       {
         "number": 5,
-        "text": "Currency stays USD. Payment Method: USDC on Ethereum mainnet. Notes: Sample settlement 750 USDC at agreed 1 USD = 1 USDC. The tool does not convert currencies; this is the sample's stated payment assumption.",
-        "alt": "USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
+        "text": "Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.\n\nNotes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.",
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-05.jpg"
       },
       {
         "number": 6,
-        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. The preview includes payment notes; Download PDF exports it. The sample wallet field is empty and no payment is requested.\n\nhashtagweb3.com/invoice-generator/x",
-        "alt": "SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.",
+        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.\n\nThe wallet field is empty; this sample is not payable.\n\nhashtagweb3.com/invoice-generator/x",
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.",
-        "alt": "Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026",
+        "text": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.",
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-01.jpg"
       },
       {
         "number": 2,
-        "text": "Sample line item 1: Documentation draft (hours). Quantity 12 x rate USD 50 = USD 600. The Description field carries the unit because the generator has Quantity and Rate fields, but no separate hours selector.",
-        "alt": "12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; \"Hours\" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00.",
+        "text": "Sample line item 1: Documentation draft (hours).\nQuantity 12 x rate USD 50 = USD 600.\n\nPut 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.",
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector.",
         "image": "social-assets/knowledge-threads-month/images/N10-02.jpg"
       },
       {
         "number": 3,
-        "text": "Sample line item 2: Revision and handoff (hours). Quantity 4 x rate USD 50 = USD 200. Add Item creates the second row. Together, the USD 600 draft and USD 200 handoff produce a USD 800 subtotal.",
-        "alt": "USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800.",
+        "text": "Sample line item 2: Revision and handoff (hours).\nQuantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.\n\nUSD 600 draft + USD 200 handoff = USD 800 subtotal.",
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800.",
         "image": "social-assets/knowledge-threads-month/images/N10-03.jpg"
       },
       {
         "number": 4,
-        "text": "For this sample, Tax (%) = 0 and Discount (flat) = 50. The generator calculates USD 800 + USD 0 - USD 50 = USD 750. The discount is a currency amount, not 50%; the zero tax rate is only a sample input.",
-        "alt": "USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.",
+        "text": "Sample inputs: Tax (%) = 0; Discount (flat) = 50.\nUSD 800 + USD 0 - USD 50 = USD 750.\n\nThe discount is USD 50, not 50%. The zero tax rate applies only to this example.",
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row.",
         "image": "social-assets/knowledge-threads-month/images/N10-04.jpg"
       },
       {
         "number": 5,
-        "text": "Currency stays USD. Payment Method: USDC on Ethereum mainnet. Notes: Sample settlement 750 USDC at agreed 1 USD = 1 USDC. The tool does not convert currencies; this is the sample's stated payment assumption.",
-        "alt": "USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
+        "text": "Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.\n\nNotes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.",
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-05.jpg"
       },
       {
         "number": 6,
-        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. The preview includes payment notes; Download PDF exports it. The sample wallet field is empty and no payment is requested.\n\nhashtagweb3.com/invoice-generator/th",
-        "alt": "SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.",
+        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.\n\nThe wallet field is empty; this sample is not payable.\n\nhashtagweb3.com/invoice-generator/th",
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable.",
         "image": "social-assets/knowledge-threads-month/images/N10-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.\n\n1. Sample line item 1: Documentation draft (hours). Quantity 12 x rate USD 50 = USD 600. The Description field carries the unit because the generator has Quantity and Rate fields, but no separate hours selector.\n\n2. Sample line item 2: Revision and handoff (hours). Quantity 4 x rate USD 50 = USD 200. Add Item creates the second row. Together, the USD 600 draft and USD 200 handoff produce a USD 800 subtotal.\n\n3. For this sample, Tax (%) = 0 and Discount (flat) = 50. The generator calculates USD 800 + USD 0 - USD 50 = USD 750. The discount is a currency amount, not 50%; the zero tax rate is only a sample input.\n\n4. Currency stays USD. Payment Method: USDC on Ethereum mainnet. Notes: Sample settlement 750 USDC at agreed 1 USD = 1 USDC. The tool does not convert currencies; this is the sample's stated payment assumption.\n\n5. Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. The preview includes payment notes; Download PDF exports it. The sample wallet field is empty and no payment is requested.\n\nFull resource: hashtagweb3.com/invoice-generator/fb",
+    "caption": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.\n\n1. Sample line item 1: Documentation draft (hours).\nQuantity 12 x rate USD 50 = USD 600.\n\nPut 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.\n\n2. Sample line item 2: Revision and handoff (hours).\nQuantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.\n\nUSD 600 draft + USD 200 handoff = USD 800 subtotal.\n\n3. Sample inputs: Tax (%) = 0; Discount (flat) = 50.\nUSD 800 + USD 0 - USD 50 = USD 750.\n\nThe discount is USD 50, not 50%. The zero tax rate applies only to this example.\n\n4. Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.\n\nNotes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.\n\n5. Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.\n\nThe wallet field is empty; this sample is not payable.\n\nFull resource: hashtagweb3.com/invoice-generator/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/N10-01.jpg",
-        "sha256": "3a5e548bffb2912a3bafb4817a4d03474bd2335a90305320e0a9531edfcb72cd",
-        "bytes": 164929,
+        "sha256": "5cd05ccf9c50711e0682b7562b154595dfafd737b965b834174ce2d12788fd58",
+        "bytes": 142112,
         "width": 1200,
         "height": 1500,
-        "alt": "Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026"
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-02.jpg",
-        "sha256": "e35a022b12a82baec1665d55846ccf7f0dbc6327e57724445657d88523afcc20",
-        "bytes": 126015,
+        "sha256": "e0889d3c1cf1a62ec7ad9feb12b471b3c0d4e2393fecd0d9c8e41a690291fcc7",
+        "bytes": 122053,
         "width": 1200,
         "height": 1500,
-        "alt": "12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; \"Hours\" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00."
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-03.jpg",
-        "sha256": "2c7f354059d630987aad49eef5b53330e6e788edae62cc0b7a95eb3a29ad6000",
-        "bytes": 143327,
+        "sha256": "0c5384b073839cb19792ad07be11149dc4fe25d2ef7ebec324c2e61c15ea9312",
+        "bytes": 138991,
         "width": 1200,
         "height": 1500,
-        "alt": "USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800."
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-04.jpg",
-        "sha256": "1eb70b0ee557aca34301a04e2d4251c9aec7d00885545dc4ff320991cac8e8f6",
-        "bytes": 118031,
+        "sha256": "5e9c632724a41a23846cb2c53c8fc1a296e75da87827adada84ea9b0d05c7b30",
+        "bytes": 113172,
         "width": 1200,
         "height": 1500,
-        "alt": "USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-05.jpg",
-        "sha256": "767bb73bdcf7f49064873e3a110181b68490c657fee67a81344c05996d97e708",
-        "bytes": 171425,
+        "sha256": "b3fff140733e3e55f814d97226a1db3d766781410a2a5a3bf1e5c84567197a57",
+        "bytes": 149912,
         "width": 1200,
         "height": 1500,
-        "alt": "USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-06.jpg",
-        "sha256": "8cda116c035efd8b45c4ba6a56f0bbb755b312c4903928f61ae42a58b0480f92",
-        "bytes": 123231,
+        "sha256": "3919638f293a3105233421b11c44c8d5b5feb13183d067d2db699a3d80b70a55",
+        "bytes": 120909,
         "width": 1200,
         "height": 1500,
-        "alt": "SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable."
       }
     ]
   },
   "telegram": {
-    "caption": "Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.\n\nhashtagweb3.com/invoice-generator/tg",
+    "caption": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.\n\nhashtagweb3.com/invoice-generator/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/N10-01.jpg",
-        "sha256": "3a5e548bffb2912a3bafb4817a4d03474bd2335a90305320e0a9531edfcb72cd",
-        "bytes": 164929,
+        "sha256": "5cd05ccf9c50711e0682b7562b154595dfafd737b965b834174ce2d12788fd58",
+        "bytes": 142112,
         "width": 1200,
         "height": 1500,
-        "alt": "Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026"
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-02.jpg",
-        "sha256": "e35a022b12a82baec1665d55846ccf7f0dbc6327e57724445657d88523afcc20",
-        "bytes": 126015,
+        "sha256": "e0889d3c1cf1a62ec7ad9feb12b471b3c0d4e2393fecd0d9c8e41a690291fcc7",
+        "bytes": 122053,
         "width": 1200,
         "height": 1500,
-        "alt": "12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; \"Hours\" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00."
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-03.jpg",
-        "sha256": "2c7f354059d630987aad49eef5b53330e6e788edae62cc0b7a95eb3a29ad6000",
-        "bytes": 143327,
+        "sha256": "0c5384b073839cb19792ad07be11149dc4fe25d2ef7ebec324c2e61c15ea9312",
+        "bytes": 138991,
         "width": 1200,
         "height": 1500,
-        "alt": "USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800."
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-04.jpg",
-        "sha256": "1eb70b0ee557aca34301a04e2d4251c9aec7d00885545dc4ff320991cac8e8f6",
-        "bytes": 118031,
+        "sha256": "5e9c632724a41a23846cb2c53c8fc1a296e75da87827adada84ea9b0d05c7b30",
+        "bytes": 113172,
         "width": 1200,
         "height": 1500,
-        "alt": "USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-05.jpg",
-        "sha256": "767bb73bdcf7f49064873e3a110181b68490c657fee67a81344c05996d97e708",
-        "bytes": 171425,
+        "sha256": "b3fff140733e3e55f814d97226a1db3d766781410a2a5a3bf1e5c84567197a57",
+        "bytes": 149912,
         "width": 1200,
         "height": 1500,
-        "alt": "USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N10-06.jpg",
-        "sha256": "8cda116c035efd8b45c4ba6a56f0bbb755b312c4903928f61ae42a58b0480f92",
-        "bytes": 123231,
+        "sha256": "3919638f293a3105233421b11c44c8d5b5feb13183d067d2db699a3d80b70a55",
+        "bytes": 120909,
         "width": 1200,
         "height": 1500,
-        "alt": "SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "Sample freelance invoice, all parties fictional: Sample Freelancer bills Sample Client for a documentation project. Invoice #SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD. The worked total will be USD 750.",
+        "text": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.",
         "image": "social-assets/knowledge-threads-month/images/N10-01.jpg",
-        "alt": "Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026"
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable."
       },
       {
-        "text": "Sample line item 1: Documentation draft (hours). Quantity 12 x rate USD 50 = USD 600. The Description field carries the unit because the generator has Quantity and Rate fields, but no separate hours selector.",
+        "text": "Sample line item 1: Documentation draft (hours).\nQuantity 12 x rate USD 50 = USD 600.\n\nPut 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.",
         "image": "social-assets/knowledge-threads-month/images/N10-02.jpg",
-        "alt": "12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; \"Hours\" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00."
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector."
       },
       {
-        "text": "Sample line item 2: Revision and handoff (hours). Quantity 4 x rate USD 50 = USD 200. Add Item creates the second row. Together, the USD 600 draft and USD 200 handoff produce a USD 800 subtotal.",
+        "text": "Sample line item 2: Revision and handoff (hours).\nQuantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.\n\nUSD 600 draft + USD 200 handoff = USD 800 subtotal.",
         "image": "social-assets/knowledge-threads-month/images/N10-03.jpg",
-        "alt": "USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800."
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800."
       },
       {
-        "text": "For this sample, Tax (%) = 0 and Discount (flat) = 50. The generator calculates USD 800 + USD 0 - USD 50 = USD 750. The discount is a currency amount, not 50%; the zero tax rate is only a sample input.",
+        "text": "Sample inputs: Tax (%) = 0; Discount (flat) = 50.\nUSD 800 + USD 0 - USD 50 = USD 750.\n\nThe discount is USD 50, not 50%. The zero tax rate applies only to this example.",
         "image": "social-assets/knowledge-threads-month/images/N10-04.jpg",
-        "alt": "USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row."
       },
       {
-        "text": "Currency stays USD. Payment Method: USDC on Ethereum mainnet. Notes: Sample settlement 750 USDC at agreed 1 USD = 1 USDC. The tool does not convert currencies; this is the sample's stated payment assumption.",
+        "text": "Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.\n\nNotes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.",
         "image": "social-assets/knowledge-threads-month/images/N10-05.jpg",
-        "alt": "USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable."
       },
       {
-        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. The preview includes payment notes; Download PDF exports it. The sample wallet field is empty and no payment is requested.\n\nhashtagweb3.com/invoice-generator/bsky",
+        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.\n\nThe wallet field is empty; this sample is not payable.\n\nhashtagweb3.com/invoice-generator/bsky",
         "image": "social-assets/knowledge-threads-month/images/N10-06.jpg",
-        "alt": "SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00."
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable."
       }
     ]
   }

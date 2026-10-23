@@ -7,7 +7,7 @@ import { ASSET_DIRECTORY, selectKnowledgeDate, verifyPostLinks } from './newknow
 import { providerImageVerifier } from './newknowledge-images.mjs';
 import { CAROUSEL_START, CAROUSEL_END, CAROUSEL_PLATFORMS, assertCarouselDate, githubCarouselReceipt, localJournal } from './newknowledge-carousel-state.mjs';
 import { carouselProviderClient } from './newknowledge-carousel-providers.mjs';
-import { loadCarouselSources, validateCarouselManifest, inspectCarouselExport, carouselSpec, verifyPinnedCarouselAssets, providerDocumentVerifier, runCarouselPlatform } from './newknowledge-carousel-publisher.mjs';
+import { loadCarouselSources, validateCarouselManifest, inspectCarouselExport, carouselSpec, retainClaimedCarouselSpec, verifyPinnedCarouselAssets, providerDocumentVerifier, runCarouselPlatform } from './newknowledge-carousel-publisher.mjs';
 import { createInstagramCarouselSpec, instagramCarouselClient, runInstagramCarousel } from './newknowledge-instagram-carousel.mjs';
 
 const ROOT = fileURLToPath(new URL('../../', import.meta.url));
@@ -105,7 +105,7 @@ export async function main(args = process.argv.slice(2), env = process.env, { ro
       const inspected = await inspectCarouselExport(root, bundle, entry, target);
       const assetCommit = state?.spec.assetCommit || env.KNOWLEDGE_CAROUSEL_ASSET_COMMIT;
       const baseSpec = carouselSpec(bundle, entry, target, inspected, assetCommit);
-      const spec = directInstagram(target) ? createInstagramCarouselSpec(baseSpec) : baseSpec;
+      const spec = retainClaimedCarouselSpec(directInstagram(target) ? createInstagramCarouselSpec(baseSpec) : baseSpec, state?.spec);
       const events = inspected.sourceThread.freshness && mode !== 'reconcile'
         ? JSON.parse(await fs.readFile(path.join(root, 'content/events-runtime.json'), 'utf8')) : [];
       const runPlatform = directInstagram(target) ? runInstagramCarousel : runCarouselPlatform;

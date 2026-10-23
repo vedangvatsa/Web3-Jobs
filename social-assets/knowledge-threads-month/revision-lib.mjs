@@ -35,7 +35,14 @@ export async function protect({initialize = false} = {}) {
   assert.equal(baseline.protectedGuardSha256, hash(await fs.readFile(path.join(root, 'assets/revision/protected-prefix.json'))));
   assert.deepEqual(manifest.images.filter(i => i.threadSequence <= 3), baseline.manifestEntries, 'Published manifest entries');
   for (const [file, sha] of Object.entries(baseline.contactSheets)) assert.equal(hash(await fs.readFile(path.join(root, file))), sha, file);
-  return {guard, baseline};
+  const published = await readJSON('assets/revision/published-prefix-2026-10-22.json');
+  for (const thread of published.threads) assert.deepEqual(content.threads.find(item => item.id === thread.id), thread, `Published thread ${thread.id}`);
+  for (const entry of published.calendarEntries) assert.deepEqual(calendar.dates.find(item => item.id === entry.id), entry, `Published date ${entry.id}`);
+  for (const entry of published.manifestEntries) assert.deepEqual(manifest.images.find(item => item.path === entry.path), entry, `Published image declaration ${entry.path}`);
+  for (const [file, sha] of Object.entries(published.files)) assert.equal(hash(await fs.readFile(path.join(root, file))), sha, `Published file ${file}`);
+  const exports = await readJSON('exports/manifest.json');
+  for (const entry of published.exportEntries) assert.deepEqual(exports.threads.find(item => item.id === entry.id), entry, `Published export ${entry.id}`);
+  return {guard, baseline, published};
 }
 
 export async function serve(port = 0) {

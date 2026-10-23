@@ -1,6 +1,6 @@
 # Image descriptions
 
-C01, E01 and N01 are preserved published history. Other descriptions reflect the replacement masters.
+C01, E01, N01, C02 and E02 are preserved published history through October 22, 2026. Future descriptions use the curated post alt text.
 
 ## C01-01
 
@@ -186,898 +186,898 @@ Five roles, identical inputs. Unretouched crops from the real salary calculator,
 
 `images/N02-01.jpg`
 
-Remote Web3: country counts. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; Eligible country	Listings	Employers; United States	155	30; United Kingdom	29	4; Cyprus	11	2; Georgia	11	1; Poland	11	4; Explicit-country eligibility only. Multi-country listings count in each named country.
+Remote Web3 catalog snapshot dated October 20, 2026. Eligible country, listings and distinct employers: United States 155 and 30; United Kingdom 29 and 4; Cyprus 11 and 2; Georgia 11 and 1; Poland 11 and 4. Only explicitly named countries count; multi-country listings appear in each named country.
 
 ## N02-02
 
 `images/N02-02.jpg`
 
-United States. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 155; Fully remote listings; 30; Distinct employers; Largest explicit-country count. Eligibility follows the role’s location, not employer headquarters.
+United States counts in the October 20, 2026 remote Web3 catalog snapshot: 155 fully remote listings across 30 distinct employers, the largest explicit-country count. Eligibility follows the role's stated location, not employer headquarters.
 
 ## N02-03
 
 `images/N02-03.jpg`
 
-United Kingdom. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 29; Fully remote listings; 4; Distinct employers; US minus UK: 126 listings and 26 employers. Eligible locations, not headquarters.
+United Kingdom counts in the October 20, 2026 remote Web3 catalog snapshot: 29 fully remote listings across 4 distinct employers. The US had 126 more listings and 26 more employers. Counts use eligible locations rather than company headquarters.
 
 ## N02-04
 
 `images/N02-04.jpg`
 
-Cyprus. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 2; Distinct employers; 11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively.
+Cyprus counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 2 distinct employers. Cyprus, Georgia and Poland each have 11 listings, from 2, 1 and 4 employers respectively.
 
 ## N02-05
 
 `images/N02-05.jpg`
 
-Georgia. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 1; Distinct employers; Poland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration.
+Georgia counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings from 1 employer. Poland has the same 11 listings spread across 4 employers, showing different employer concentration at equal volume.
 
 ## N02-06
 
 `images/N02-06.jpg`
 
-Poland. Authored aggregate country-count graphic, not vacancy cards or live availability. Historical snapshot · October 20, 2026; 11; Fully remote listings; 4; Distinct employers; Excluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap.
+Poland counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 4 distinct employers. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.
 
 ## C03-01
 
 `images/C03-01.jpg`
 
-Five bases at USD 1,000 or less. Real city photograph strips with an authored ranking table. Monthly USD estimates; 1. Batumi; USD 750; 2. Da Nang; USD 850; 3. Tirana; USD 850; 4. Accra; USD 1,000; 5. Merida; USD 1,000; Regional shortlist, ordered by estimated total. Rent and coworking are included.
+City photos beside a regional budget comparison. Estimated monthly costs, including rent and coworking: Batumi USD 750; Da Nang USD 850; Tirana USD 850; Accra USD 1,000; Merida USD 1,000. Listed from lowest to highest estimate.
 
 ## C03-02
 
 `images/C03-02.jpg`
 
-Batumi, Georgia. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 750; Rent; 300; Food; 200; Transport; 30; Coworking; 80; Other; 140; 2026 Q1 fixed broadband; 58.3 down / 34.1 up Mbps
+Batumi, Georgia, photo and monthly budget estimate in USD: rent 300, food 200, transport 30, coworking 80 and other costs 140; total 750. Fixed-broadband snapshot for 2026 Q1: 58.3 Mbps download and 34.1 Mbps upload.
 
 ## C03-03
 
 `images/C03-03.jpg`
 
-Da Nang, Vietnam. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 300; Food; 250; Transport; 40; Coworking; 120; Other; 140; 2026 Q1 fixed broadband; 245.9 down / 198.4 up Mbps
+Da Nang, Vietnam, photo and monthly budget estimate in USD: rent 300, food 250, transport 40, coworking 120 and other costs 140; total 850. Fixed-broadband snapshot for 2026 Q1: 245.9 Mbps download and 198.4 Mbps upload.
 
 ## C03-04
 
 `images/C03-04.jpg`
 
-Tirana, Albania. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 850; Rent; 350; Food; 220; Transport; 30; Coworking; 100; Other; 150; 2026 Q1 fixed broadband; 52.1 down / 28.4 up Mbps
+Tirana, Albania, photo and monthly budget estimate in USD: rent 350, food 220, transport 30, coworking 100 and other costs 150; total 850. Fixed-broadband snapshot for 2026 Q1: 52.1 Mbps download and 28.4 Mbps upload.
 
 ## C03-05
 
 `images/C03-05.jpg`
 
-Accra, Ghana. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 400; Food; 250; Transport; 60; Coworking; 150; Other; 140; 2026 Q1 fixed broadband; 81.6 down / 46.5 up Mbps
+Accra, Ghana, photo and monthly budget estimate in USD: rent 400, food 250, transport 60, coworking 150 and other costs 140; total 1,000. Fixed-broadband snapshot for 2026 Q1: 81.6 Mbps download and 46.5 Mbps upload.
 
 ## C03-06
 
 `images/C03-06.jpg`
 
-Merida, Mexico. Real city photograph above authored metric labels. Monthly USD estimates; Monthly estimate; USD 1,000; Rent; 450; Food; 250; Transport; 40; Coworking; 100; Other; 160; 2026 Q1 fixed broadband; 72.4 down / 35.8 up Mbps
+Merida, Mexico, photo and monthly budget estimate in USD: rent 450, food 250, transport 40, coworking 100 and other costs 160; total 1,000. Fixed-broadband snapshot for 2026 Q1: 72.4 Mbps download and 35.8 Mbps upload.
 
 ## E03-01
 
 `images/E03-01.jpg`
 
-The Builder writes on-chain logic. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example task: local deposit/withdrawal contract and tests Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.
+Career Quiz result for The Builder: Smart Contract Developer, writing on-chain dApp logic. Practice example beside the role card: a local deposit and withdrawal contract with tests.
 
 ## E03-02
 
 `images/E03-02.jpg`
 
-The Strategist plans the product. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: wallet-onboarding specification Screenshot text: Web3 Product Manager; Guides the vision and roadmap of a decentralized product.
+Career Quiz result for The Strategist: Web3 Product Manager, guiding a decentralized product's vision and roadmap. A wallet-onboarding specification is shown as a practice example.
 
 ## E03-03
 
 `images/E03-03.jpg`
 
-The Analyst investigates blockchain data. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: daily active-wallet query with definitions Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.
+Career Quiz result for The Analyst: On-Chain Data Analyst, using tools such as Dune to analyze blockchain data. Practice example: a daily active-wallet query with its chain, time window and wallet definition stated.
 
 ## E03-04
 
 `images/E03-04.jpg`
 
-The Community Weaver organizes support. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: support queue with owner and resolution Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.
+Career Quiz Community Manager card for The Community Weaver, describing Discord management. Practice example: a support queue recording the issue category, escalation owner and resolution.
 
 ## E03-05
 
 `images/E03-05.jpg`
 
-The Builder also designs dApp interfaces. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Example output: disconnected, loading and RPC-error states Screenshot text: Frontend/Web3 Developer; Builds the user interfaces for dApps.
+Career Quiz Frontend/Web3 Developer card for The Builder: builds dApp interfaces. Practice example: a token-balance screen with disconnected, loading and RPC-error states.
 
 ## E03-06
 
 `images/E03-06.jpg`
 
-The Builder: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; Frontend/Web3 Developer; Builds the user interfaces for dApps.; Protocol Engineer; Works on the core blockchain infrastructure.
+The Builder's three Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; Frontend/Web3 Developer builds dApp interfaces; Protocol Engineer works on core blockchain infrastructure.
 
 ## N03-01
 
 `images/N03-01.jpg`
 
-Five Solidity questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Solidity 0.8.x · EVM · Interview bank; Answer summary · authored; Off-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?
+Solidity interview question SOL-F-04 asks the purpose of view and pure functions. The answer distinguishes an off-chain eth_call, with no network transaction fee, from the same computation inside a transaction, which uses gas. Scope: EVM and Solidity 0.8.x.
 
 ## N03-02
 
 `images/N03-02.jpg`
 
-Persistent, writable temporary, read-only. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify. Screenshot text: SOL-F-01; Foundation; Knowledge; What is the difference between `storage`, `memory`, and `calldata` in Solidity?
+Interview question SOL-F-01 compares Solidity data locations. storage persists between calls; memory is writable temporary space for a call; calldata is read-only argument data. Use calldata for reference-type inputs that do not need modification.
 
 ## N03-03
 
 `images/N03-03.jpg`
 
-What _; does in a modifier. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Illustrative modifier fragment; modifier onlyOwner() {;   require(msg.sender == owner);;   _;; }; The caller check runs before the function body.; _; runs the body; code after it runs afterward.; The example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract. Screenshot text: SOL-F-02; Foundation; Knowledge; What is a function modifier and can you provide a simple example?
+Interview question SOL-F-02 with an example modifier: modifier onlyOwner() { require(msg.sender == owner); _; }. The caller check runs before the function body; _; runs the body, then any following code executes. This fragment assumes owner is defined and initialized.
 
 ## N03-04
 
 `images/N03-04.jpg`
 
-Read-only does not mean zero computation. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas. Screenshot text: SOL-F-04; Foundation; Knowledge; What is the purpose of `view` and `pure` functions?
+Interview question SOL-F-04 compares view and pure functions. view may read state but cannot modify it; pure may neither read nor modify state. Both execute instructions. Off-chain eth_call has no network transaction fee; execution inside a transaction consumes gas.
 
 ## N03-05
 
 `images/N03-05.jpg`
 
-New logic, same proxy state. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible. Screenshot text: SOL-I-02; Intermediate; Architecture; What is an upgradeability proxy pattern, and how does `delegatecall` enable it?
+Interview question SOL-I-02 on upgradeable proxies and delegatecall. Implementation code uses the proxy's storage and address while preserving msg.sender and msg.value. Upgrades change the implementation pointer; the storage layout must remain compatible.
 
 ## N03-06
 
 `images/N03-06.jpg`
 
-Storage packing: 2 or 3 slots. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Authored example · Each box is 32 bytes; 2 slots; 2 × uint128; uint256; 3 slots; uint128; uint256; uint128; Fewer slots do not guarantee cheaper writes; gas depends on access patterns.; Do not reorder existing fields in a deployed proxy implementation's storage layout. Screenshot text: SOL-I-03; Intermediate; Gas Optimization; When packing structs for gas efficiency, how should you order the variables? Give an example.
+Interview question SOL-I-03 and storage-packing example. Each box is a 32-byte slot. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes; gas depends on access patterns. Do not reorder existing fields in a deployed proxy's storage layout.
 
 ## C04-01
 
 `images/C04-01.jpg`
 
-Indian passport: five tourist-entry comparisons. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Malaysia; Up to 30 visa-free days; exemption ends December 31, 2026.; Kazakhstan; Up to 14 days per entry; 42 days in any 180-day period.; Five destinations in this thread. Entry documents and conditions apply.
+Destination photo beside tourist-entry rules for Indian ordinary passports, checked October 20, 2026. Malaysia: up to 30 visa-free days, with the exemption ending December 31, 2026. Kazakhstan: up to 14 days per entry and 42 days in any 180-day period. Entry documents and conditions apply.
 
 ## C04-02
 
 `images/C04-02.jpg`
 
-Malaysia: 30 days, with arrival paperwork. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Stay; Up to 30 visa-free days; exemption ends December 31, 2026.; Documents; Passport valid 6 months, confirmed return ticket and hotel booking.; Arrival card; Submit Malaysia Digital Arrival Card 3 days before arrival.
+Malaysia photo and tourist-entry checklist for Indian ordinary passports. Up to 30 visa-free days; exemption ends December 31, 2026. Passport valid 6 months, confirmed return ticket and hotel booking required. Submit the Malaysia Digital Arrival Card 3 days before arrival. Rules checked October 20, 2026.
 
 ## C04-03
 
 `images/C04-03.jpg`
 
-Thailand: the current exemption is 30 days. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Stay; 30 visa-free days; maximum 2 entries per calendar year. Effective September 15, 2026.; Before arrival; TDAC within 3 days; accommodation and onward travel within 30 days.; Funds; THB 20,000/person or THB 40,000/family.; An extension of up to 30 days is discretionary.
+Thailand photo and Indian ordinary-passport tourist rules, effective September 15, 2026. Stay: 30 visa-free days, maximum 2 entries per calendar year. Submit TDAC within 3 days before arrival; show accommodation and onward travel within 30 days. Funds: THB 20,000 per person or THB 40,000 per family. Extension up to 30 days is discretionary. Checked October 20, 2026.
 
 ## C04-04
 
 `images/C04-04.jpg`
 
-Kazakhstan: 14 per visit, 42 in 180. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Per entry; Up to 14 visa-free calendar days from border crossing.; Total limit; 42 calendar days in any 180-day period.; Leaving and returning does not reset the 42-day allowance.
+Kazakhstan flag beside Indian ordinary-passport tourist stay limits. Up to 14 visa-free calendar days from border crossing per entry; maximum 42 calendar days in any 180-day period. Leaving and returning does not reset the total allowance. Rules checked October 20, 2026.
 
 ## C04-05
 
 `images/C04-05.jpg`
 
-Philippines: the 14-day Indian-passport route. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Stay; 14 visa-free days, non-extendable and non-convertible.; Documents; Hotel, funds and onward/return proof. Passport valid 6 months beyond the stay.; Transit-only trips still require a transit visa.
+Philippines photo beside Indian ordinary-passport tourist rules. Stay: 14 visa-free days, non-extendable and non-convertible. Show hotel, funds and onward or return travel proof, with a passport valid 6 months beyond the stay. Transit-only trips require a transit visa. Checked October 20, 2026.
 
 ## C04-06
 
 `images/C04-06.jpg`
 
-Mauritius: visa-free, duration set at entry. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Visa; No visa required for Indian passports.; Tourist ceiling; Up to 6 months per calendar year; actual visit length is decided at entry.; Documents; Return ticket, confirmed stay and funds. Passport must outlast the stay.; Gainful activity requires a valid residence permit.
+Mauritius flag and Indian ordinary-passport tourist rules. No visa required. Tourist stays may total up to 6 months per calendar year; each visit's length is decided at entry. Bring a return ticket, confirmed stay and funds, with a passport valid beyond the stay. Gainful activity requires a valid residence permit. Checked October 20, 2026.
 
 ## E04-01
 
 `images/E04-01.jpg`
 
-Ten countries, one directory base each. Real city photograph strips with an authored ranking table. City site scores /100 · USD/month estimates; 1. Chiang Mai, Thailand; 97/100 · USD 900/month estimated; 2. Bangalore, India; 94/100 · USD 900/month estimated; 3. Da Nang, Vietnam; 93/100 · USD 850/month estimated; Best-scoring base per country. Ties: lower cost, then name. City scores are not national scores.
+City photos and directory rankings: 1. Chiang Mai, Thailand, 97/100, estimated USD 900/month; 2. Bangalore, India, 94/100, USD 900; 3. Da Nang, Vietnam, 93/100, USD 850. Each country is represented by its top-rated base. Ties use lower cost, then name. Scores describe cities, not whole countries.
 
 ## E04-02
 
 `images/E04-02.jpg`
 
-Thailand / India: equal estimated budgets. Two real city photographs with separate city metrics. City site scores /100 · USD/month estimates; Thailand; Chiang Mai; 97/100 site score; USD 900/month estimated; India; Bangalore; 94/100 site score; USD 900/month estimated; Same budget, 3 points apart on the site's city score.
+Photos of Chiang Mai, Thailand, and Bangalore, India. Chiang Mai's directory score is 97/100; Bangalore's is 94/100. Both have estimated monthly costs of USD 900, a 3-point score gap at the same budget.
 
 ## E04-03
 
 `images/E04-03.jpg`
 
-Vietnam / Malaysia: USD 150 budget gap. Two real city photographs with separate city metrics. City site scores /100 · USD/month estimates; Vietnam; Da Nang; 93/100 site score; USD 850/month estimated; Malaysia; Kuala Lumpur; 90/100 site score; USD 1,000/month estimated; Da Nang's reference budget is USD 150 lower.
+Photos of Da Nang, Vietnam, and Kuala Lumpur, Malaysia. Directory scores and estimated monthly costs: Da Nang 93/100 and USD 850; Kuala Lumpur 90/100 and USD 1,000. Da Nang's budget estimate is USD 150 lower.
 
 ## E04-04
 
 `images/E04-04.jpg`
 
-Philippines / Cambodia: Manila and Siem Reap. Two real city photographs with separate city metrics. City site scores /100 · USD/month estimates; Philippines; Manila; 90/100 site score; USD 1,000/month estimated; Cambodia; Siem Reap; 89/100 site score; USD 800/month estimated; Siem Reap ties Phnom Penh's score but has a USD 50 lower budget.
+Photos of Manila, Philippines, and Siem Reap, Cambodia. Directory scores and estimated monthly costs: Manila 90/100 and USD 1,000; Siem Reap 89/100 and USD 800. Siem Reap ties Phnom Penh's score with an estimated budget USD 50 lower.
 
 ## E04-05
 
 `images/E04-05.jpg`
 
-Indonesia / Mexico: tied at 88/100. Two real city photographs with separate city metrics. City site scores /100 · USD/month estimates; Indonesia; Bali; 88/100 site score; USD 1,100/month estimated; Mexico; Playa del Carmen; 88/100 site score; USD 1,500/month estimated; Equal site scores; the lower-budget tie-break puts Bali first.
+Photos of Bali, Indonesia, and Playa del Carmen, Mexico. Both score 88/100 in the directory. Estimated monthly costs: Bali base USD 1,100; Playa del Carmen USD 1,500. The lower-budget tie-break ranks Bali first.
 
 ## E04-06
 
 `images/E04-06.jpg`
 
-Spain / Taiwan: Madrid and Taipei. Two real city photographs with separate city metrics. City site scores /100 · USD/month estimates; Spain; Madrid; 88/100 site score; USD 2,100/month estimated; Taiwan; Taipei; 87/100 site score; USD 1,800/month estimated; Madrid is Spain's highest-scoring directory city, ahead of Las Palmas at 86.
+Photos of Madrid, Spain, and Taipei, Taiwan. Directory scores and estimated monthly costs: Madrid 88/100 and USD 2,100; Taipei 87/100 and USD 1,800. Madrid leads Spain's directory cities, ahead of Las Palmas at 86/100.
 
 ## N04-01
 
 `images/N04-01.jpg`
 
-1000000 raw units can mean 1 token. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Frontend dApp Engineer · 6-decimal example · Five answers; Answer summary · authored; For a token with 6 decimals, viem formatUnits(1000000n, 6) returns '1'. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?
+Frontend dApp interview question FE-F-02 asks how to display a uint256 token balance. Example for a token with 6 decimals: viem formatUnits(1000000n, 6) returns the string '1'.
 
 ## N04-02
 
 `images/N04-02.jpg`
 
-Reading chain state and authorizing actions. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; In ethers v6, a Provider reads chain data; a Signer authorizes transactions. In viem, Public Client exposes reads and Wallet Client handles signing via a wallet or local account. Screenshot text: FE-F-01; Foundation; Knowledge; What is a"provider" in Ethers.js or Viem and what is its role?
+Interview question FE-F-01 compares reading and signing. ethers v6: Provider reads chain data; Signer authorizes transactions. viem: Public Client exposes reads; Wallet Client handles signing through a wallet or local account.
 
 ## N04-03
 
 `images/N04-03.jpg`
 
-Format units without losing integer precision. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Use formatUnits(balance, decimals), keeping balance as bigint. In viem, formatUnits(1000000n, 6) returns '1'. Get decimals for that token and chain; never assume 18.; ERC-20 decimals() is optional. If absent, use verified token metadata or label raw units instead of silently assuming 18. Screenshot text: FE-F-02; Foundation; Practical; How do you format a number from a `uint256` value, like an ERC-20 token balance, for display in a UI?
+Interview question FE-F-02 on token balances. Keep the balance as bigint and use formatUnits(balance, decimals). In viem, formatUnits(1000000n, 6) returns '1'. ERC-20 decimals() is optional; if absent, use verified token metadata or label raw units rather than assuming 18.
 
 ## N04-04
 
 `images/N04-04.jpg`
 
-A cancellation races the pending transaction. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Low fees or an earlier pending nonce can block it. Show pending status. A speed-up uses the same nonce with higher fees; cancellation is a competing replacement, not a guarantee. Screenshot text: FE-I-01; Intermediate; Practical; A user reports their transaction is"stuck" as pending. What are the possible causes and how could you handle this in the UI?
+Interview question FE-I-01 asks why a transaction is stuck and how the UI should respond. Low fees or an earlier pending nonce can block it. Show pending status. Speed-up uses the same nonce with higher fees; a cancellation is a competing replacement, so the original may confirm first.
 
 ## N04-05
 
 `images/N04-05.jpg`
 
-NFT ownership needs an index. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Query an ownership indexer by wallet and chain, paginate results, then render token IDs, metadata and images. Handle missing media. A balanceOf call cannot list every collection. Screenshot text: FE-A-01; Advanced; Architecture; How would you design a frontend to display a user's entire NFT collection, including images and metadata, across multiple contracts?
+Interview question FE-A-01 on displaying a wallet's NFTs across contracts. Query an ownership indexer by wallet and chain, follow pagination, and render token IDs, metadata and images with missing-media fallbacks. A balanceOf call cannot list every collection.
 
 ## N04-06
 
 `images/N04-06.jpg`
 
-Typed signatures still need replay controls. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; It signs typed fields with a domain, so wallets can show structured terms. Include chainId and verifyingContract. The app must still enforce nonces and expiry. Screenshot text: FE-E-01; Expert; Design; You are building a dApp that requires users to sign messages for off-chain actions (e.g., voting, placing orders on an off-chain order book). Describe the EIP-712 standard and explain why it is superior to signing a simple string with `personal_sign`.
+Interview question FE-E-01 compares EIP-712 with personal_sign for off-chain actions. EIP-712 signs typed fields with a domain so wallets can show structured terms. Include chainId and verifyingContract; the application must still check and consume nonces and enforce expiry.
 
 ## C05-01
 
 `images/C05-01.jpg`
 
-Five remote-work routes, five different tests. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Remote-work route; Rules checked October 20, 2026; Japan; Digital Nomad: 6 months, no extension.; Thailand DTV; 5-year multiple-entry validity; 180 days per entry.; Five routes in this thread. Worker, money, nationality and application-location requirements differ.
+Destination photo beside remote-work visa durations. Japan's Digital Nomad visa allows 6 months with no extension. Thailand's DTV has 5-year multiple-entry validity and allows 180 days per entry. Work, financial, nationality and application-location requirements differ. Rules checked October 20, 2026.
 
 ## C05-02
 
 `images/C05-02.jpg`
 
-Thailand DTV: eligibility. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Remote-work route; Rules checked October 20, 2026; Funds; THB 500,000 financial evidence, plus remote-work/freelance evidence.; Duration; 5-year multiple-entry visa; 180 days per entry. One extension up to 180 days, then depart and re-enter.; London only; Permanent residence in UK, Ireland or British Overseas Territories; police clearance issued within 6 months.; Apply within London's consular jurisdiction.
+Thailand photo and DTV requirements. Remote-work or freelance evidence and THB 500,000 in funds; 5-year multiple-entry validity, 180 days per entry, with one extension up to 180 days before departure and re-entry. London's checklist requires permanent residence in the UK, Ireland or British Overseas Territories and police clearance issued within 6 months. Apply within London's consular jurisdiction. Checked October 20, 2026.
 
 ## C05-03
 
 `images/C05-03.jpg`
 
-Malaysia DE Rantau: tech versus non-tech. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Remote-work route; Rules checked October 20, 2026; Tech income; USD 24,000/year minimum for freelancers or remote employees.; Non-tech income; USD 60,000/year minimum.; Pass + territory; 3-12 months; up to 24 with renewal. Peninsular Malaysia and Labuan.; Employees need a foreign employer; freelancers may serve Malaysian clients. Contracts must have started at least 3 months before application.
+Malaysia photo and DE Rantau comparison. Minimum annual income: USD 24,000 for tech freelancers or remote employees; USD 60,000 for non-tech talent. Pass lasts 3-12 months, up to 24 with renewal, in Peninsular Malaysia and Labuan. Employees need a foreign employer; freelancers may serve Malaysian clients. Contracts must have started at least 3 months before application. Checked October 20, 2026.
 
 ## C05-04
 
 `images/C05-04.jpg`
 
-Japan: income, insurance and nationality. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Remote-work route; Rules checked October 20, 2026; Annual income; At least JPY 10 million for remote work.; Insurance; Death, injury or illness cover; at least JPY 10 million for injury/illness treatment.; Stay; 6 months, no extension.; Principal-applicant nationality list: US included; India absent. The spouse/child list differs.
+Japan photo and Digital Nomad visa requirements: at least JPY 10 million annual income; death, injury or illness insurance with at least JPY 10 million for injury or illness treatment. Stay: 6 months, no extension. The principal-applicant nationality list includes the US, but not India; the spouse and child list differs. Checked October 20, 2026.
 
 ## C05-05
 
 `images/C05-05.jpg`
 
-Costa Rica: evidence for the previous year. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Remote-work route; Rules checked October 20, 2026; Monthly income; USD 3,000 individual / USD 4,000 with dependants, from overseas work. Evidence for the previous year.; Medical cover; At least USD 50,000 for the full stay; each dependant covered.; Estancia; 1 year, renewable once.; Renewal requires at least 80 days physically in Costa Rica.
+Costa Rica flag and remote-worker Estancia requirements. Overseas monthly income for the previous year: USD 3,000 individual or USD 4,000 with dependants. Medical cover: at least USD 50,000 for the full stay, including each dependant. Stay: 1 year, renewable once; renewal requires at least 80 days physically in Costa Rica. Checked October 20, 2026.
 
 ## C05-06
 
 `images/C05-06.jpg`
 
-Barbados: income test and visa fee are separate. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Remote-work route; Rules checked October 20, 2026; Expected income; At least USD 50,000 over the intended 12 months.; Fee after approval; USD 2,000 individual / USD 3,000 family; non-refundable.; Work + duration; 12 months of remote work for overseas clients or employers.; Reapplication is possible after the year.
+Barbados flag and Welcome Stamp requirements. Remote work for overseas clients or employers for 12 months; expected income of at least USD 50,000 over that year. Non-refundable fee after approval: USD 2,000 individual or USD 3,000 family. Reapplication is possible after the year. Checked October 20, 2026.
 
 ## E05-01
 
 `images/E05-01.jpg`
 
-Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ.
+City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ.
 
 ## E05-02
 
 `images/E05-02.jpg`
 
-Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400
+Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.
 
 ## E05-03
 
 `images/E05-03.jpg`
 
-Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400
+Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.
 
 ## E05-04
 
 `images/E05-04.jpg`
 
-Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated
+Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800.
 
 ## E05-05
 
 `images/E05-05.jpg`
 
-Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350
+Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent.
 
 ## E05-06
 
 `images/E05-06.jpg`
 
-Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated
+Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800.
 
 ## N05-01
 
 `images/N05-01.jpg`
 
-A junior practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Sample Candidate; Junior Smart Contract Developer; candidate@example.com; Summary; Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.
+Resume Builder preview for Sample Candidate, titled Junior Smart Contract Developer. The sample summary describes a local escrow demo and Foundry tests for unauthorized and repeat withdrawals.
 
 ## N05-02
 
 `images/N05-02.jpg`
 
-Fill the actual project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.
+Resume Builder's Key Projects & Portfolio section shows Sample Escrow Demo, labeled Personal practice project. The example description names Solidity deposit and withdrawal functions and Foundry tests for unauthorized callers and repeat withdrawals.
 
 ## N05-03
 
 `images/N05-03.jpg`
 
-Name the failure cases. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example assertions, not real test results. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.
+Sample Escrow Demo in the Resume Builder. The example test bullet names two assertions: unauthorized callers revert and repeat withdrawals revert. The entry is labeled Personal practice project.
 
 ## N05-04
 
 `images/N05-04.jpg`
 
-A project link should open the described work. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Proposed README; Run forge test. Unauthorized callers and repeat withdrawals revert.; This fictional sample has no repository. Screenshot text: Link to project/contribution. Empty sample field.
+The Resume Builder's Link to project/contribution field is empty in this sample. An example README lists the command forge test and checks that unauthorized callers and repeat withdrawals revert.
 
 ## N05-05
 
 `images/N05-05.jpg`
 
-Use the two skills fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Example skills entries: Technical Skills = Solidity, Foundry. General Skills = Git, README writing. The builder has separate text boxes for both; a listed tool should match something visible in the project. Screenshot text: Skills; Technical Skills; Solidity, Foundry; General Skills; Git, README writing
+Sample skills section in the Resume Builder, with separate fields. Technical Skills: Solidity, Foundry. General Skills: Git, README writing.
 
 ## N05-06
 
 `images/N05-06.jpg`
 
-Completed practice resume. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice resume; Skills: Solidity, Foundry, Git, README writing.; Experience and Education are empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Escrow Demo; | Personal practice project; Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.
+Completed sample resume in the Resume Builder: an escrow practice project with Solidity deposit and withdrawal functions and Foundry failure-case tests. Skills include Solidity, Foundry, Git and README writing. Experience and Education are empty. Download PDF exports the preview.
 
 ## C06-01
 
 `images/C06-01.jpg`
 
-Five November Web3 gatherings. Actual event covers, contained without cropping, beside authored dates and cities. November 2026 · Organizer checks: October 20; Devcon 8; Mumbai · Nov 3-6; Toronto VibeStation; Toronto · Nov 6; W3Node; Cape Town · Nov 12-14; Solana Breakpoint; London · Nov 15-17; CryptoCon Sydney; Sydney · Nov 28-29
+Five event posters with November 2026 dates and cities: Devcon 8, Mumbai, Nov 3-6; Toronto VibeStation, Toronto, Nov 6; W3Node, Cape Town, Nov 12-14; Solana Breakpoint, London, Nov 15-17; CryptoCon Sydney, Sydney, Nov 28-29. Details checked with organizers October 20.
 
 ## C06-02
 
 `images/C06-02.jpg`
 
-Devcon 8. Actual event cover preserved in its original aspect ratio, with authored event facts. November 2026 · Organizer checks: October 20; Devcon 8 | Nov 3-6, 2026 | Mumbai, India. Ethereum talks and workshops cover core protocol, privacy and security. Paid general admission has no eligibility test; discounted tickets have separate conditions.
+Devcon 8 poster and event details: Mumbai, India, Nov 3-6, 2026. Ethereum talks and workshops on core protocol, privacy and security. Paid general admission has no eligibility test; discounted tickets have separate conditions. Organizer details checked October 20.
 
 ## C06-03
 
 `images/C06-03.jpg`
 
-Toronto VibeStation. Actual event cover preserved in its original aspect ratio, with authored event facts. November 2026 · Organizer checks: October 20; Toronto VibeStation | Nov 6, 2026 | Toronto, Canada. Superteam Canada's Solana coworking day includes project work, lunch and snacks. Free; public applications require approval. Exact address is shared with guests.
+Toronto VibeStation poster and event details: Toronto, Canada, Nov 6, 2026. Superteam Canada's Solana coworking day includes project work, lunch and snacks. Free attendance through public applications with host approval; exact address shared with guests. Checked October 20.
 
 ## C06-04
 
 `images/C06-04.jpg`
 
-W3Node Conference & Hackathon. Actual event cover preserved in its original aspect ratio, with authored event facts. November 2026 · Organizer checks: October 20; W3Node | Nov 12-14, 2026 | Cape Town, South Africa. Keynotes, technical workshops and a 3-day hackathon at Parkview Event Space. Paid conference passes; free hacker participation by application.
+W3Node Conference & Hackathon poster and details: Cape Town, South Africa, Nov 12-14, 2026, at Parkview Event Space. Keynotes, technical workshops and a 3-day hackathon. Conference passes are paid; hacker participation is free by application. Checked October 20.
 
 ## C06-05
 
 `images/C06-05.jpg`
 
-Solana Breakpoint. Actual event cover preserved in its original aspect ratio, with authored event facts. November 2026 · Organizer checks: October 20; Solana Breakpoint | Nov 15-17, 2026 | London, UK. Olympia Convention Centre; stablecoins, tokenized assets and payments. Paid general, developer and student ticket categories.
+Solana Breakpoint poster and details: London, UK, Nov 15-17, 2026, at Olympia Convention Centre. Topics include stablecoins, tokenized assets and payments. Paid general, developer and student ticket categories. Checked October 20.
 
 ## C06-06
 
 `images/C06-06.jpg`
 
-CryptoCon Sydney. Actual event cover preserved in its original aspect ratio, with authored event facts. November 2026 · Organizer checks: October 20; CryptoCon Sydney | Nov 28-29, 2026 | Sydney, Australia. ICC Sydney: regulation, startups and blockchain infrastructure. General admission covers expo and speakers for free; premium events require a paid pass.
+CryptoCon Sydney poster and details: ICC Sydney, Australia, Nov 28-29, 2026. Topics include regulation, startups and blockchain infrastructure. General admission covers expo and speaker sessions for free; premium networking and yacht access require paid passes. Checked October 20.
 
 ## E06-01
 
 `images/E06-01.jpg`
 
-Property holds: 3, 5 or 7 years. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. Dominica; 3 years from citizenship; 5 years before resale to another CBI applicant.; Saint Kitts and Nevis; Approved developer property: minimum 7-year hold.; Five Caribbean programs. Qualifying family and asset conditions differ; fees additional. Approval checks apply. Screenshot text: 🇩🇲
+Dominica flag beside a property-holding comparison. Dominica: 3 years from citizenship, or 5 years before resale to another citizenship-by-investment applicant. Saint Kitts and Nevis: approved developer property requires a minimum 7-year hold. Qualifying family and asset conditions differ; fees are extra and approval checks apply.
 
 ## E06-02
 
 `images/E06-02.jpg`
 
-Dominica: contribution or property. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. EDF contribution; USD 200,000 single / USD 250,000 applicant + up to 3 qualifying dependants.; Approved property; From USD 200,000 + USD 75,000 main-applicant government fee.; Property hold; 3 years from citizenship; 5 years before resale to another CBI applicant.; Other fees are separate. Approval checks apply. Screenshot text: 🇩🇲
+Dominica flag and two citizenship routes. EDF: USD 200,000 single applicant or USD 250,000 with up to 3 qualifying dependants. Approved property: from USD 200,000 plus USD 75,000 main-applicant government fee. Hold 3 years from citizenship, or 5 before resale to another CBI applicant. Other fees and approval checks apply.
 
 ## E06-03
 
 `images/E06-03.jpg`
 
-Antigua and Barbuda: two routes. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. NDF contribution; USD 230,000 for up to 4 qualifying family members + USD 20,000 processing.; Approved property; From USD 300,000.; Property hold; 5 years from purchase, unless replaced with another officially approved property.; Larger NDF families retain the USD 230,000 base; incremental processing and other fees apply. Approval checks apply. Screenshot text: 🇦🇬
+Antigua and Barbuda flag and two citizenship routes. NDF: USD 230,000 for up to 4 qualifying family members plus USD 20,000 processing. Approved property: from USD 300,000, held 5 years from purchase unless replaced with another officially approved property. Larger NDF families retain the USD 230,000 base with incremental processing fees. Other fees and approval checks apply.
 
 ## E06-04
 
 `images/E06-04.jpg`
 
-Grenada: two routes. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. NTF contribution; USD 235,000, up to 4 qualifying family members. Extra for siblings and parents/grandparents ≤55.; Tourism share; USD 270,000 + USD 50,000 government contribution. Approved units, 2+ joint buyers; developer equity conditions.; CBI resale; 5 years from citizenship before resale to another CBI applicant.; General approved-project threshold: USD 350,000. Other fees additional. Approval checks apply. Screenshot text: 🇬🇩
+Grenada flag and citizenship routes. NTF: USD 235,000 for up to 4 qualifying family members; siblings and parents or grandparents aged 55 or under cost extra. Tourism share: USD 270,000 plus USD 50,000 government contribution; approved units, 2 or more joint buyers and developer equity conditions. Resale to another CBI applicant requires 5 years from citizenship. General approved-project threshold: USD 350,000. Other fees and approval checks apply.
 
 ## E06-05
 
 `images/E06-05.jpg`
 
-Saint Kitts and Nevis: a 7-year hold. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. SISC contribution; USD 250,000 for one applicant or up to 4 qualifying family members.; Extra dependants; USD 25,000 under 18 / USD 50,000 at 18+.; Developer property; From USD 325,000; minimum 7-year hold. USD 25,000 main-applicant post-approval fee.; Approved developer units only. Due diligence and purchase costs extra. Approval checks apply. Screenshot text: 🇰🇳
+Saint Kitts and Nevis flag and citizenship routes. SISC: USD 250,000 for one applicant or up to 4 qualifying family members. Extra dependants: USD 25,000 under 18 or USD 50,000 at 18+. Approved developer property: from USD 325,000, minimum 7-year hold, plus USD 25,000 main-applicant post-approval fee. Due diligence and purchase costs are extra; approval checks apply.
 
 ## E06-06
 
 `images/E06-06.jpg`
 
-Saint Lucia: contribution or bonds. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. NEF contribution; USD 240,000: applicant + up to 3 qualifying dependants.; National Action Bonds; USD 300,000 + USD 50,000 administration. Any number of qualifying dependants.; Bond hold; 5 years from first issue, in applicant's name; no interest.; USD 350,000 financial-resources declaration also applies. Processing, due diligence and other fees extra. Approval checks apply. Screenshot text: 🇱🇨
+Saint Lucia flag and citizenship routes. NEF: USD 240,000 for applicant plus up to 3 qualifying dependants. National Action Bonds: USD 300,000 plus USD 50,000 administration, covering any number of qualifying dependants. Bonds stay in the applicant's name for 5 years from first issue and pay no interest. USD 350,000 financial-resources declaration applies. Processing, due diligence and other fees are extra; approval checks apply.
 
 ## N06-01
 
 `images/N06-01.jpg`
 
-Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index.
+City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index.
 
 ## N06-02
 
 `images/N06-02.jpg`
 
-Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index.
+Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload.
 
 ## N06-03
 
 `images/N06-03.jpg`
 
-Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index.
+Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload.
 
 ## N06-04
 
 `images/N06-04.jpg`
 
-Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index.
+Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload.
 
 ## N06-05
 
 `images/N06-05.jpg`
 
-Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index.
+Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload.
 
 ## N06-06
 
 `images/N06-06.jpg`
 
-Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index.
+Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload.
 
 ## C07-01
 
 `images/C07-01.jpg`
 
-Five security questions, answered. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Smart Contract Auditor · EVM · Concrete failure modes; Answer summary · authored; Signature validity alone does not make an action one-use. Enforce a consumed nonce and the correct signing domain. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?
+Smart Contract Auditor interview question AUD-I-02 asks what a signature replay attack is and how to prevent it. The answer explains that a valid signature can be reused: enforce a consumed nonce and the correct signing domain for one-use authorization.
 
 ## C07-02
 
 `images/C07-02.jpg`
 
-Slither reports patterns to investigate. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; A static analyzer for Solidity and Vyper. It flags patterns such as reentrancy, tx.origin authorization and unchecked calls. Findings need triage; a clean run does not prove safety. Screenshot text: AUD-F-02; Foundation; Knowledge; What is"slither" and what kind of issues can it find?
+Interview question AUD-F-02 asks what Slither can find. Answer: static analysis for Solidity and Vyper can flag reentrancy, tx.origin authorization and unchecked calls. Findings need review; a clean run does not prove safety.
 
 ## C07-03
 
 `images/C07-03.jpg`
 
-Credit what the contract receives. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Transfer fees and rebases. For a supported fee-on-transfer token, credit the received balance delta, not the requested amount. Rebases need separate accounting or explicit rejection.; The balance-delta pattern assumes compatible token behavior and safe call handling; it is not universal support for arbitrary tokens. Screenshot text: AUD-I-01; Intermediate; Debugging; You are auditing a simple staking contract. What is the first thing you check for regarding the ERC-20 token being staked?
+Interview question AUD-I-01 asks what to check about a staked ERC-20 token. For supported fee-on-transfer tokens, credit balanceAfter minus balanceBefore rather than the requested amount. Rebases need separate accounting or explicit rejection. This pattern assumes compatible token behavior and safe call handling.
 
 ## C07-04
 
 `images/C07-04.jpg`
 
-Validity, domain, nonce, deadline. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Reusing a valid signed action. Sign and consume a nonce, bind the domain to chainId and verifyingContract, and enforce a deadline. EIP-712 alone does not prevent reuse. Screenshot text: AUD-I-02; Intermediate; Knowledge; What is a signature replay attack and how can it be prevented?
+Interview question AUD-I-02 on signature replay, with four checks: valid signer, intended domain, unused nonce and unexpired deadline. Bind the domain to chainId and verifyingContract and consume the nonce. A deadline limits time; EIP-712 alone does not prevent reuse.
 
 ## C07-05
 
 `images/C07-05.jpg`
 
-Fuzzing a custody vault. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; Generated inputs search for broken properties. Echidna can fuzz call sequences; Foundry supports fuzz and invariant tests. Example for a simple custody vault: assets must cover recorded liabilities.; Passing a finite campaign is not proof of correctness; results depend on the property, harness, inputs and explored state. Screenshot text: AUD-A-02; Advanced; Practical; What is fuzzing (or property-based testing) in the context of smart contracts? Name a tool used for it.
+Interview question AUD-A-02 on fuzzing, with Foundry and Echidna as tools. Example property for a simple custody vault: assets must cover recorded liabilities. Generated inputs or call sequences seek violations. Passing tests is not proof of correctness; results depend on the property, harness, inputs and explored state.
 
 ## C07-06
 
 `images/C07-06.jpg`
 
-A free read still has execution limits. Original question screenshot from the live interview bank, followed by a separate authored answer summary. Answer summary · authored; eth_call still executes on an RPC node and can hit gas caps or timeouts. A getAllOwners() that grows forever can fail. Return bounded pages instead. Screenshot text: AUD-E-02; Expert; Architecture; Describe how"unbounded loops" in view functions can become a vector for a Denial of Service (DoS) attack, even if they don't consume transaction gas.
+Interview question AUD-E-02 asks how unbounded loops in view functions can cause denial of service. Answer: eth_call uses RPC node resources and can hit gas caps or timeouts. A growing getAllOwners() can fail; bounded pages limit each read.
 
 ## E07-01
 
 `images/E07-01.jpg`
 
-Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000
+Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## E07-02
 
 `images/E07-02.jpg`
 
-Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000
+Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## E07-03
 
 `images/E07-03.jpg`
 
-Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000
+Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## E07-04
 
 `images/E07-04.jpg`
 
-Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000
+Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## E07-05
 
 `images/E07-05.jpg`
 
-Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000
+Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## E07-06
 
 `images/E07-06.jpg`
 
-The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000
+Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.
 
 ## N07-01
 
 `images/N07-01.jpg`
 
-US passport: visa exemptions still have conditions. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Japan; 90-day short-stay visa exemption.; Thailand; 30 tourist days under the September 15, 2026 scheme.; United Kingdom; Visa-exempt tourism; advance ETA required unless individually exempt.; Five destinations in this thread, with stay limits and entry documents.
+Destination photo beside tourist-entry rules for US ordinary passports. Japan: 90-day short-stay visa exemption. Thailand: 30 tourist days under the September 15, 2026 scheme. United Kingdom: visa-exempt tourism with an advance ETA unless individually exempt. Checked October 20, 2026.
 
 ## N07-02
 
 `images/N07-02.jpg`
 
-Japan: 90-day short-stay exemption. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Short stay; 90 days under the visa exemption for US citizens.; Activity limit; No income-earning activities under this exemption.; Sightseeing fits this route. Paid work needs the appropriate immigration status.
+Japan photo and US ordinary-passport short-stay rules: 90 days under the visa exemption, without income-earning activities. Sightseeing fits this route; paid work requires the appropriate immigration status. Checked October 20, 2026.
 
 ## N07-03
 
 `images/N07-03.jpg`
 
-Taiwan: a US-specific passport-validity exception. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Stay; Up to 90 days, counted from the day after arrival; non-extendable tourist stay.; Documents; US passport valid for the whole stay; confirmed return/onward travel and onward visa if required.; Arrival card; Submit within 7 days before arrival.
+Taiwan photo and US ordinary-passport tourist rules. Up to 90 visa-free days, counted from the day after arrival; tourist stay is non-extendable. US passport must cover the stay; carry confirmed return or onward travel and an onward visa if required. Submit Taiwan Arrival Card within 7 days before arrival. Checked October 20, 2026.
 
 ## N07-04
 
 `images/N07-04.jpg`
 
-Canada: no visa or eTA for US citizens. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Permission; US citizens need neither visitor visa nor eTA.; Duration; Usually up to 6 months; the officer can set a different end date.; Passport; Valid US passport. Follow any date on the entry record.; Without a stamp, earlier passport expiry can shorten the default stay.
+Canada photo and entry rules for US citizens: no visitor visa or eTA required. Visits are usually allowed for up to 6 months; the officer may set a different end date. Carry a valid US passport and follow any date on the entry record. Without a stamp, earlier passport expiry can shorten the default stay. Checked October 20, 2026.
 
 ## N07-05
 
 `images/N07-05.jpg`
 
-UK: visa-exempt does not remove the ETA. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Tourist stay; Visa-free for up to 6 months; passport must cover the stay.; ETA; Normally required before travel; GBP 20 per application. Each traveller, including children, needs one.; Entry evidence; Funds and plans to leave after the visit.; British/Irish citizenship or existing UK permission may exempt an individual from ETA.
+UK photo and US tourist-entry rules: visa-free for up to 6 months, with a passport covering the stay, funds and plans to leave. An ETA is normally required before travel: GBP 20 per application, including children. British or Irish citizenship or existing UK permission may create an individual ETA exemption. Checked October 20, 2026.
 
 ## N07-06
 
 `images/N07-06.jpg`
 
-Thailand: 30 days under the September 2026 rules. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. US ordinary passport · Tourism; Rules checked October 20, 2026; Stay; 30 visa-free days; maximum 2 exemption entries per calendar year.; Before arrival; Free TDAC within 3 days. Accommodation and onward-travel proof within 30 days.; Funds; THB 20,000/person or THB 40,000/family.; The September 2026 scheme applies. A 30-day extension is discretionary.
+Thailand photo and US ordinary-passport tourist rules under the September 2026 scheme. Stay: 30 visa-free days, maximum 2 exemption entries per calendar year. Submit free TDAC within 3 days before arrival; show accommodation and onward travel within 30 days. Funds: THB 20,000 per person or THB 40,000 per family. A 30-day extension is discretionary. Checked October 20, 2026.
 
 ## C08-01
 
 `images/C08-01.jpg`
 
-Code, query, support runbook. Separate genuine role-card screenshots; captions propose practice examples.  Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.; On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Community Manager; Manages the Discord and acts as the heart of the project.
+Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; On-Chain Data Analyst uses tools such as Dune; Community Manager manages Discord. Practice examples alongside the roles: code and tests, a query with methodology, and a support runbook.
 
 ## C08-02
 
 `images/C08-02.jpg`
 
-Technical output: contract and failure-case tests. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Local deposit/withdrawal contract; Unauthorized-caller test; Repeat-withdrawal test; README test command Screenshot text: Smart Contract Developer; Writes the on-chain logic for dApps.
+Career Quiz card for Smart Contract Developer, with a practice exercise: build a local deposit and withdrawal contract, test unauthorized and repeat withdrawals in Foundry, and include the test command in a README.
 
 ## C08-03
 
 `images/C08-03.jpg`
 
-Measure transaction senders, not people. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Count distinct tx.from addresses per UTC day; One DEX over 30 days; Deliver SQL, chain and contract filters, and a chart; Repeat swaps count once per address/day; label transaction senders, not users Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.
+Career Quiz card for On-Chain Data Analyst and a practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain and contract filters, and a chart. Count repeat swaps once per address per day and label the result transaction senders, not users.
 
 ## C08-04
 
 `images/C08-04.jpg`
 
-Community output: an actionable support handoff. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Issue: wallet will not connect; Category: connection; Owner: support moderator; Collect browser, wallet version and error text; Output: queue and handoff note Screenshot text: Community Manager; Manages the Discord and acts as the heart of the project.
+Career Quiz Community Manager card beside a support example. Issue: wallet will not connect. Category: connection. Owner: support moderator. Collect the browser, wallet version and error text, then record the issue in a queue with a handoff note.
 
 ## C08-05
 
 `images/C08-05.jpg`
 
-The Analyst also recommends security auditing. Genuine locally rendered career-quiz result crops and a separate proposed practice task. Actual quiz result · Practice task is an example; Proposed practice output; Affected function; Failing test; Proposed fix Screenshot text: Smart Contract Auditor; Finds security vulnerabilities in smart contracts.
+The Analyst's Smart Contract Auditor recommendation in the Career Quiz: finds security vulnerabilities in smart contracts. A practice finding format lists the affected function, a failing test and a proposed fix.
 
 ## C08-06
 
 `images/C08-06.jpg`
 
-The Analyst: three role matches. Three actual role recommendation screenshots from the locally rendered quiz; no point scores.  Screenshot text: On-Chain Data Analyst; Uses tools like Dune to analyze blockchain data.; Smart Contract Auditor; Finds security vulnerabilities in smart contracts.; Quantitative Analyst; Models the financial risks of DeFi protocols.
+The Analyst's three Career Quiz recommendations: On-Chain Data Analyst uses tools such as Dune to analyze blockchain data; Smart Contract Auditor finds contract vulnerabilities; Quantitative Analyst models DeFi protocols' financial risks.
 
 ## E08-01
 
 `images/E08-01.jpg`
 
-December: five warm bases. Real city photograph strips with an authored ranking table. Monthly climate reference · USD/month estimates; 1. Lagos; 27.6°C · 11 mm rain · USD 1,100; 2. Bangkok; 27°C · 18 mm rain · USD 1,100; 3. Siem Reap; 25.3°C · 33 mm rain · USD 800; 4. Cartagena; 27.5°C · 34 mm rain · USD 1,300; 5. Ho Chi Minh City; 26.7°C · 64 mm rain · USD 1,000; Mean ≥25°C; rain ≤80 mm; cost ≤USD 1,300. Rainfall order; not a forecast.
+City photos ordered by historical average December rainfall, with temperature averages and monthly USD cost estimates: Lagos 27.6 C, 11 mm, 1,100; Bangkok 27 C, 18 mm, 1,100; Siem Reap 25.3 C, 33 mm, 800; Cartagena 27.5 C, 34 mm, 1,300; Ho Chi Minh City 26.7 C, 64 mm, 1,000.
 
 ## E08-02
 
 `images/E08-02.jpg`
 
-Lagos, Nigeria. Real city photograph above authored metric labels. December reference · Not a forecast; December mean; 27.6 °C; Monthly rain; 11 mm; Humidity; 75 %; Monthly estimate; 1,100 USD; Site safety: 4/10. Selected for weather and budget.
+Lagos, Nigeria, photo and historical December averages: 27.6 C, 11 mm rain and 75% humidity. Estimated monthly cost: USD 1,100. Site safety rating: 4/10; this shortlist uses weather and budget filters.
 
 ## E08-03
 
 `images/E08-03.jpg`
 
-Bangkok, Thailand. Real city photograph above authored metric labels. December reference · Not a forecast; December mean; 27 °C; Monthly rain; 18 mm; Humidity; 62 %; Monthly estimate; 1,100 USD; Same budget as Lagos; humidity 13 percentage points lower.
+Bangkok, Thailand, photo and historical December averages: 27 C, 18 mm rain and 62% humidity. Estimated monthly cost: USD 1,100, equal to Lagos; average humidity is 13 percentage points lower.
 
 ## E08-04
 
 `images/E08-04.jpg`
 
-Siem Reap, Cambodia. Real city photograph above authored metric labels. December reference · Not a forecast; December mean; 25.3 °C; Monthly rain; 33 mm; Humidity; 72 %; Monthly estimate; 800 USD; Rent included: USD 280/month estimated.
+Siem Reap, Cambodia, photo and historical December averages: 25.3 C, 33 mm rain and 72% humidity. Estimated monthly cost: USD 800, including USD 280 rent.
 
 ## E08-05
 
 `images/E08-05.jpg`
 
-Cartagena, Colombia. Real city photograph above authored metric labels. December reference · Not a forecast; December mean; 27.5 °C; Monthly rain; 34 mm; Humidity; 80 %; Monthly estimate; 1,300 USD; Versus Siem Reap: 1 mm more rain; USD 500/month more.
+Cartagena, Colombia, photo and historical December averages: 27.5 C, 34 mm rain and 80% humidity. Estimated monthly cost: USD 1,300. Compared with Siem Reap, average rain is 1 mm higher and monthly cost is USD 500 higher.
 
 ## E08-06
 
 `images/E08-06.jpg`
 
-Ho Chi Minh City, Vietnam. Real city photograph above authored metric labels. December reference · Not a forecast; December mean; 26.7 °C; Monthly rain; 64 mm; Humidity; 77 %; Monthly estimate; 1,000 USD; Versus Bangkok: USD 100/month less; 46 mm more rain.
+Ho Chi Minh City, Vietnam, photo and historical December averages: 26.7 C, 64 mm rain and 77% humidity. Estimated monthly cost: USD 1,000. Compared with Bangkok, cost is USD 100 lower and average rain is 46 mm higher.
 
 ## N08-01
 
 `images/N08-01.jpg`
 
-Five 2027 main conferences. Genuine current organizer date-panel screenshot, with separately authored event facts. Other events, when present, use their actual runtime covers. Announced 2027 dates · Checked October 20, 2026; Consensus Hong Kong; Feb 1-3, 2027 · Hong Kong; EthCC[10]; Apr 12-15, 2027 · Cannes; TOKEN2049 Dubai; Apr 21-22, 2027 · Dubai; Dutch Blockchain Week Summit; May 19-20, 2027 · Amsterdam; ETHConf; Jun 14-16, 2027 · New York Screenshot text: Feb 1-3, 2027; Hong Kong Convention &; Exhibition Centre; Explore the exhibition from Feb 2-3, 2027
+Five 2027 conference dates beside event images: Consensus Hong Kong, Feb 1-3; EthCC[10], Cannes, Apr 12-15; TOKEN2049 Dubai, Apr 21-22; Dutch Blockchain Week Summit, Amsterdam, May 19-20; ETHConf, New York, Jun 14-16. Consensus's date panel names Hong Kong Convention and Exhibition Centre and exhibition dates Feb 2-3. Checked October 20, 2026.
 
 ## N08-02
 
 `images/N08-02.jpg`
 
-Consensus Hong Kong 2027. Genuine current organizer date-panel screenshot, with separately authored event facts. Other events, when present, use their actual runtime covers. Announced 2027 dates · Checked October 20, 2026; Consensus Hong Kong | Feb 1-3, 2027 | Hong Kong Convention and Exhibition Centre. Themes: digital assets, AI and the agentic economy. The exhibition runs Feb 2-3. Screenshot text: Feb 1-3, 2027; Hong Kong Convention &; Exhibition Centre; Explore the exhibition from Feb 2-3, 2027
+Consensus Hong Kong date panel: Feb 1-3, 2027, at Hong Kong Convention and Exhibition Centre. The exhibition runs Feb 2-3. Themes listed alongside it: digital assets, AI and the agentic economy. Checked October 20, 2026.
 
 ## N08-03
 
 `images/N08-03.jpg`
 
-EthCC[10]. Actual event cover preserved in its original aspect ratio, with authored event facts. Announced 2027 dates · Checked October 20, 2026; EthCC[10] | Apr 12-15, 2027 | Cannes, France. Palais des Festivals hosts the four-day Ethereum community conference. Full passes cover all 4 days; student and volunteer access options are listed.
+Cannes photo beside EthCC[10] details: Apr 12-15, 2027, at Palais des Festivals, Cannes, France. Full passes cover all 4 days of the Ethereum community conference; student and volunteer access options are listed. Checked October 20, 2026.
 
 ## N08-04
 
 `images/N08-04.jpg`
 
-TOKEN2049 Dubai 2027. Actual event cover preserved in its original aspect ratio, with authored event facts. Announced 2027 dates · Checked October 20, 2026; TOKEN2049 Dubai | Apr 21-22, 2027 | Madinat Jumeirah, Dubai, UAE. A two-day main crypto conference and exhibition. Ticket checkout offers card or crypto payment.
+TOKEN2049 Dubai poster showing Apr 21-22, 2027, at Madinat Jumeirah, Dubai, UAE. Two-day main crypto conference and exhibition; ticket checkout accepts card or crypto payment. Checked October 20, 2026.
 
 ## N08-05
 
 `images/N08-05.jpg`
 
-Dutch Blockchain Week. Actual event cover preserved in its original aspect ratio, with authored event facts. Announced 2027 dates · Checked October 20, 2026; Dutch Blockchain Week Summit | May 19-20, 2027 | Johan Cruijff ArenA, Amsterdam, Netherlands. Main stage, panels and breakouts. The wider city week runs May 17-23; these are main-summit dates.
+Dutch Blockchain Week event image and main-summit details: May 19-20, 2027, at Johan Cruijff ArenA, Amsterdam, Netherlands. Main stage, panels and breakouts. The wider city week runs May 17-23. Checked October 20, 2026.
 
 ## N08-06
 
 `images/N08-06.jpg`
 
-ETHConf 2027. Actual event cover preserved in its original aspect ratio, with authored event facts. Announced 2027 dates · Checked October 20, 2026; ETHConf | Jun 14-16, 2027 | Javits Center, New York, US. ETHGlobal's Ethereum conference covers stablecoins, DeFi and scaling. General passes include stages and expo; Pro adds coworking and the networking lounge.
+ETHConf event image and details: Jun 14-16, 2027, at Javits Center, New York, US. ETHGlobal's Ethereum conference covers stablecoins, DeFi and scaling. General passes include stages and expo; Pro adds coworking and the networking lounge. Checked October 20, 2026.
 
 ## C09-01
 
 `images/C09-01.jpg`
 
-Technical example: name the interface states. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Built a dApp.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token-Balance View; | Personal practice project; Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.
+Resume Builder example, before and after. Before: Built a dApp. After: Built a React token-balance view with disconnected, loading and RPC-error states. The project is named Sample Token-Balance View and labeled Personal practice project in Key Projects & Portfolio.
 
 ## C09-02
 
 `images/C09-02.jpg`
 
-Community example: name the support artifact. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Managed Discord.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Support Queue; | Personal practice project; Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.
+Resume Builder example, before and after. Before: Managed Discord. After: Drafted a mock support queue with issue category, escalation owner and resolution note. The project is Sample Support Queue, labeled Personal practice project.
 
 ## C09-03
 
 `images/C09-03.jpg`
 
-Content example: name what the reader learns. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Before · practice wording; Wrote about crypto.; After · actual builder preview Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.
+Resume Builder example, before and after. Before: Wrote about crypto. After: Wrote a practice guide explaining approve and transferFrom with a worked allowance example. Sample Token Approval Guide is labeled Personal practice project.
 
 ## C09-04
 
 `images/C09-04.jpg`
 
-Three practice summaries. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording.  Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.; Summary; Practice resume example: Content writer explaining token approvals through a worked allowance example.
+Three sample Resume Builder summaries: a frontend developer building a React token-balance view with connection and error states; a community contributor drafting a mock support queue and moderator handoff; a content writer explaining token approvals through a worked allowance example.
 
 ## C09-05
 
 `images/C09-05.jpg`
 
-Interview walkthroughs. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice prompts; Technical: disconnect the wallet, load a balance, simulate an RPC error.; Support: classify, assign, record the resolution. Screenshot text: Summary; Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.; Summary; Practice resume example: Community contributor drafting a mock support queue and moderator handoff.
+Two sample Resume Builder summaries with interview practice prompts. Technical: disconnect a wallet, load a balance and simulate an RPC error. Community support: classify a mock issue, assign an owner and record the resolution.
 
 ## C09-06
 
 `images/C09-06.jpg`
 
-Use the project fields. Actual Resume Builder screenshot excerpts, rendered locally with explicitly fictional practice wording. Fictional practice example · Actual Resume Builder; Key Projects & Portfolio; Project Name · Your Role · Description · Link; The sample link is empty. Download PDF exports the preview. Screenshot text: Key Projects & Portfolio; Sample Token Approval Guide; | Personal practice project; Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.
+Resume Builder's Key Projects & Portfolio section shows Sample Token Approval Guide, labeled Personal practice project, with an example description about approve and transferFrom. Project Name, Your Role, Description and Link are separate fields. The sample link is empty; Download PDF exports the preview.
 
 ## E09-01
 
 `images/E09-01.jpg`
 
-One passport, three different entry routes. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Nepal; Visa-free for Indian nationals.; Indonesia; B1 visa on arrival: IDR 500,000 for up to 30 days.; Vietnam; Advance eVisa, up to 90 days; single or multiple entry.; Five tourist-entry examples in this thread. These are different permission routes.
+Destination photo and three tourist-entry routes for Indian ordinary passports. Nepal: visa-free. Indonesia: B1 visa on arrival, IDR 500,000 for up to 30 days. Vietnam: advance eVisa, up to 90 days, single or multiple entry. Rules checked October 20, 2026.
 
 ## E09-02
 
 `images/E09-02.jpg`
 
-Nepal: visa-free with accepted identity documents. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Visa; Indian nationals do not need a visa.; Accepted ID; Valid Indian passport or Election Commission voter card.; Nepal Tourism Board says Aadhaar is not an accepted travel document.
+Nepal photo and tourist-entry documents for Indian nationals. No visa required. Carry a valid Indian passport or Election Commission voter card; Nepal Tourism Board does not accept Aadhaar as a travel document. Rules checked October 20, 2026.
 
 ## E09-03
 
 `images/E09-03.jpg`
 
-Bhutan: visa exemption still has a permit and nightly levy. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Entry permit; Required for Indian visitors. Carry Indian passport or voter ID; stay follows approved permit dates.; Adult SDF; INR 1,200/night. Five inland nights = INR 6,000 SDF only.; Other costs; Accommodation and mandatory guide are additional.
+Bhutan flag and tourist-entry rules for Indian visitors. Entry permit required; carry an Indian passport or voter ID and follow approved permit dates. Adult SDF: INR 1,200 per night. Example: 5 inland nights cost INR 6,000 in SDF, with accommodation and a mandatory guide extra. Checked October 20, 2026.
 
 ## E09-04
 
 `images/E09-04.jpg`
 
-Maldives: an arrival visa, with advance declaration. Native country flag identifies the destination. Rules are an authored summary of official sources, not a screenshot of an immigration interface. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Permission; Tourist visa issued on arrival; admissibility assessed at arrival.; Documents; MRZ passport valid at least 1 month, prepaid registered accommodation and return ticket.; Declaration; Each traveller submits free IMUGA within 96 hours before arrival.; Check the stay granted at arrival. IMUGA is a declaration, not an eVisa.
+Maldives flag and tourist-entry checklist for Indian ordinary passports. Visa and admissibility assessed on arrival. Bring an MRZ passport valid at least 1 month, prepaid registered accommodation and return ticket. Each traveller submits the free IMUGA declaration within 96 hours before arrival. Check the stay granted at entry; IMUGA is a declaration, not an eVisa. Checked October 20, 2026.
 
 ## E09-05
 
 `images/E09-05.jpg`
 
-Indonesia: B1 tourist visa. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; B1 tourist visa; IDR 500,000; up to 30 days, one extension to 60 days total. Indian passports eligible.; Documents; Passport valid at least 6 months; onward/return ticket.; Online e-VOA is available. Use within 90 days of issue; this is not a 90-day stay.
+Indonesia photo and B1 tourist-visa rules for Indian ordinary passports. IDR 500,000 for up to 30 days, with one extension to 60 days total. Passport valid at least 6 months and onward or return ticket required. Online e-VOA must be used within 90 days of issue; that is its use-by period, not the stay length. Checked October 20, 2026.
 
 ## E09-06
 
 `images/E09-06.jpg`
 
-Vietnam: advance approval and two entry options. Actual city photograph illustrates the destination; the entry rules are authored text from official sources, not a visa-interface screenshot. Indian ordinary passport · Tourism; Rules checked October 20, 2026; Advance eVisa; Up to 90 days for Indian tourists.; Fees; USD 25 single-entry / USD 50 multiple-entry; no refund if refused.; Entry conditions; Valid passport; follow granted dates and use designated eVisa gates.
+Vietnam photo and advance eVisa options for Indian tourists. Up to 90 days: USD 25 single-entry or USD 50 multiple-entry, with no refund if refused. A valid passport is required; follow granted dates and use designated eVisa border gates. Checked October 20, 2026.
 
 ## N09-01
 
 `images/N09-01.jpg`
 
-Five course selections. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · 15 lessons; Wallets and Private Keys; Decentralized Finance · 9 lessons; Lending and Borrowing in DeFi; Smart Contract Development · 9 lessons; Testing Smart Contracts; Web3 Marketing & Community · 8 lessons; Growth Metrics and Analytics; AI x Crypto Intersection · 7 lessons; Autonomous Agents Screenshot text: Learn Web3; Start here; Web3 Fundamentals; Understand Web3 from scratch. No prior knowledge needed.; 15; lessons; -; ~4 hours; -; Beginner
+Learn Web3 library excerpt with five course and lesson selections. Web3 Fundamentals, 15 lessons: Wallets and Private Keys. Decentralized Finance, 9: Lending and Borrowing in DeFi. Smart Contract Development, 9: Testing Smart Contracts. Web3 Marketing & Community, 8: Growth Metrics and Analytics. AI x Crypto Intersection, 7: Autonomous Agents.
 
 ## N09-02
 
 `images/N09-02.jpg`
 
-Wallet control is not legal identity. A real public lesson excerpt and a separate authored lesson summary. Web3 Fundamentals · Lesson 5 of 15; Lesson summary · authored; A wallet signs messages and transactions. A signature proves account control, not legal identity. Screenshot text: In a self-custodial wallet, you control the keys or account permissions. Custodial services manage those controls on your behalf. A signature proves control of an account, not a person's legal identity.
+Wallets and Private Keys, lesson 5 of 15 in Web3 Fundamentals. The excerpt contrasts self-custody, where you control keys or account permissions, with custodial services managing them for you. Wallets sign messages and transactions; signatures establish account control, not legal identity.
 
 ## N09-03
 
 `images/N09-03.jpg`
 
-Borrowing cap and liquidation threshold differ. A real public lesson excerpt and a separate authored lesson summary. Decentralized Finance · Lesson 2 of 9 · Illustrative amounts; Lesson summary · authored; Example: 80% LTV on $1,000 collateral gives an $800 borrowing cap. Liquidation uses a separate threshold, with parameters set per market. Screenshot text: A collateralized position generally needs collateral worth more than the borrowed amount. The permitted loan-to-value ratio depends on the asset, market, and configured risk parameters.
+Lending and Borrowing in DeFi, lesson 2 of 9. Example: $1,000 collateral at 80% loan-to-value gives an $800 borrowing cap. The lesson excerpt explains that allowed LTV depends on the asset, market and risk parameters. Liquidation uses a separate threshold.
 
 ## N09-04
 
 `images/N09-04.jpg`
 
-Turn a transfer into explicit assertions. A real public lesson excerpt and a separate authored lesson summary. Smart Contract Development · Lesson 5 of 9 · Foundry / Solidity; Actual test_Transfer excerpt; this is not a test-result log.; Lesson summary · Sample raw units; The sample transfers 100 units from a 1,000-unit balance and asserts 100 received, 900 left. Foundry fuzz tests then vary the amount to test properties. Screenshot text: function test_Transfer() public {;   token.transfer(alice, 100);;   assertEq(token.balanceOf(alice), 100);
+Testing Smart Contracts, lesson 5 of 9, with a Foundry test_Transfer code excerpt. The sample transfers 100 raw units from a 1,000-unit balance and asserts 100 received and 900 remaining. Fuzz tests vary the transfer amount to test properties.
 
 ## N09-05
 
 `images/N09-05.jpg`
 
-Count wallets, then define the returning cohort. A real public lesson excerpt and a separate authored lesson summary. Web3 Marketing & Community · Lesson 5 of 8 · Measurement units; Lesson summary · authored; Unique Active Wallets counts addresses over a defined period. One person can control several. Retention asks how many wallets in a starting cohort return later. Screenshot text: Define what each dataset measures: accounts, addresses, transactions, sessions, or people. Avoid combining these as though they were the same unit.
+Growth Metrics and Analytics, lesson 5 of 8 in Web3 Marketing & Community. The excerpt distinguishes accounts, addresses, transactions, sessions and people. Unique Active Wallets counts addresses over a defined period; one person can control several. Retention measures return activity from a starting cohort.
 
 ## N09-06
 
 `images/N09-06.jpg`
 
-Reading a balance does not authorize a transfer. A real public lesson excerpt and a separate authored lesson summary. AI x Crypto Intersection · Lesson 2 of 7 · Autonomous Agents; Lesson summary · authored; Separate model, tools and wallet. Balance reads should not grant transfer-signing permission. Enforce spending caps and contract allowlists. Screenshot text: Choose permissions per action. Reading a balance, drafting a transaction, and signing a transfer should not automatically receive the same level of access.
+Autonomous Agents, lesson 2 of 7 in AI x Crypto Intersection. The excerpt separates permission to read a balance, draft a transaction and sign a transfer. Keep model decisions, tools and wallet signing separate; enforce spending caps and contract allowlists.
 
 ## C10-01
 
 `images/C10-01.jpg`
 
-Contribution or deposit. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · Published currencies · Fees extra; Dominica; EDF USD 200,000 + four listed fees USD 10,000 = USD 210,000 subtotal.; Egypt; USD 500,000 deposit capital + USD 10,000 application fee. Capital repayment is in EGP.; Unlisted professional, document and transaction costs remain extra. Screenshot text: From USD 200,000 Contribution; From USD 500,000 Deposit
+Citizenship directory cards compare costs for one main applicant. Dominica: USD 200,000 EDF contribution plus four fees totaling USD 10,000 gives a USD 210,000 subtotal. Egypt: USD 500,000 deposit capital plus USD 10,000 application fee; capital is repaid in EGP. Unlisted professional, document and transaction costs are extra.
 
 ## C10-02
 
 `images/C10-02.jpg`
 
-Itemized costs: Dominica. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · USD · Listed fees; EDF contribution; 200,000; Processing; 1,000; Due diligence; 7,500; Naturalisation certificate; 500; Interview; 1,000; USD 210,000 subtotal; Agent, passport, bank and any enhanced-check costs remain extra. Screenshot text: 🇩🇲
+Dominica flag and single-applicant cost table in USD: EDF contribution 200,000; processing 1,000; due diligence 7,500; naturalisation certificate 500; interview 1,000. Subtotal: 210,000. Agent, passport, bank and any enhanced-check costs are extra.
 
 ## C10-03
 
 `images/C10-03.jpg`
 
-Itemized costs: Antigua and Barbuda. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · USD · Listed fees; NDF contribution; 230,000; Processing; 10,000; Due diligence; 8,500; Passport; 300; USD 248,800 subtotal; Single applicant. Agent charges additional. Screenshot text: 🇦🇬
+Antigua and Barbuda flag and single-applicant cost table in USD: NDF contribution 230,000; processing 10,000; due diligence 8,500; passport 300. Subtotal: 248,800, with agent charges extra.
 
 ## C10-04
 
 `images/C10-04.jpg`
 
-Itemized costs: Sao Tome and Principe. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · USD · Listed fees; Donation; 90,000; Submission; 5,000; Citizenship documents; 750; USD 95,750 subtotal; USD 750 includes registration certificate, passport and national ID. Sponsored applications add USD 5,000 benefactor due diligence; agent costs extra. Screenshot text: 🇸🇹
+Sao Tome and Principe flag and single-applicant cost table in USD: donation 90,000; submission 5,000; citizenship documents 750. Subtotal: 95,750. Documents include registration certificate, passport and national ID. Sponsored applications add 5,000 for benefactor due diligence; agent costs are extra.
 
 ## C10-05
 
 `images/C10-05.jpg`
 
-Itemized costs: Saint Lucia. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · USD · Listed fees; Bond capital; 300,000; Administration; 50,000; Processing; 2,000; Due diligence; 8,000; USD 360,000 subtotal; Bonds: 5 years, no interest. Fees are separate from capital. USD 350,000 financial-resources declaration also applies; other costs excluded. Screenshot text: 🇱🇨
+Saint Lucia flag and single-applicant bond costs in USD: capital 300,000; administration 50,000; processing 2,000; due diligence 8,000. Subtotal: 360,000. Bonds must be held 5 years and earn no interest; fees are separate from capital. A declaration of at least USD 350,000 in financial resources also applies. Other costs excluded.
 
 ## C10-06
 
 `images/C10-06.jpg`
 
-Itemized costs: Egypt. Actual local citizenship-directory excerpt with separately authored official-source conditions and fee comparisons. One main applicant · USD · Listed fees; Deposit capital; 500,000; Non-refundable application fee; 10,000; USD 510,000 subtotal; Deposit repayment after 3 years in Egyptian pounds at the Central Bank rate on repayment. No interest; no promise of repayment in USD. Screenshot text: 🇪🇬
+Egypt flag and single-applicant cost table: USD 500,000 deposit capital plus USD 10,000 non-refundable application fee, totaling USD 510,000 upfront. The deposit is repaid after 3 years in Egyptian pounds at the Central Bank rate on the repayment date, without interest.
 
 ## E10-01
 
 `images/E10-01.jpg`
 
-Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded.
+City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded.
 
 ## E10-02
 
 `images/E10-02.jpg`
 
-Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10
+Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload.
 
 ## E10-03
 
 `images/E10-03.jpg`
 
-Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10
+Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload.
 
 ## E10-04
 
 `images/E10-04.jpg`
 
-Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10
+Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload.
 
 ## E10-05
 
 `images/E10-05.jpg`
 
-Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10
+Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload.
 
 ## E10-06
 
 `images/E10-06.jpg`
 
-Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10
+Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload.
 
 ## N10-01
 
 `images/N10-01.jpg`
 
-Sample invoice · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable Screenshot text: Sample Freelancer; INVOICE; #SAMPLE-016; From:; Sample Freelancer; Fictional sample address - no postal destination; freelancer@example.com; Bill To:; Sample Client; Fictional sample client address - no postal destination; client@example.com; Issue Date; November 16, 2026; Due Date; November 30, 2026
+Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable.
 
 ## N10-02
 
 `images/N10-02.jpg`
 
-12 hours x USD 50 = USD 600. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Description carries the unit; "Hours" is typed in Description; there is no separate hours selector. Screenshot text: Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00.
+Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector.
 
 ## N10-03
 
 `images/N10-03.jpg`
 
-USD 600 + USD 200 = USD 800 subtotal. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Sample subtotal; USD 600 + USD 200 = USD 800 Screenshot text: Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800.
+Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800.
 
 ## N10-04
 
 `images/N10-04.jpg`
 
-USD 800 less USD 50 = USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Tax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.
+Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row.
 
 ## N10-05
 
 `images/N10-05.jpg`
 
-USD invoice, sample USDC settlement. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · USD invoice · Not payable; Typed payment instructions; Payment Method and Notes are text fields. The sample agreement does not convert currencies.; Wallet field is empty; no payment requested. Screenshot text: Notes:; Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.
+Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable.
 
 ## N10-06
 
 `images/N10-06.jpg`
 
-SAMPLE-016 · USD 750. Actual Invoice Generator preview excerpts, rendered locally with fictional sample parties. No payment is requested. Fictional sample · Due November 30, 2026; Sample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested. Screenshot text: Subtotal: $800.00. Discount: -$50.00. Total: $750.00.
+Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable.

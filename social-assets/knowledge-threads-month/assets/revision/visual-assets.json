@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:46:44.187Z",
+  "generatedAt": "2026-10-22T18:03:17.109Z",
   "contentSha256": "7686e0316aa3d36c8623ff1c1f187da4ed44db9d284c8e2a4d5acbbd51072c45",
   "assets": [
     {
@@ -2980,29 +2980,29 @@
     },
     {
       "file": "assets/revision/tools/INVOICE-sample-header-dates.png",
-      "sha256": "93f441276f35e68556e4bf7052198527a607f81c5a7e3b01e0fbf649152feff2",
-      "bytes": 99175,
+      "sha256": "93d42c3158e93c2dd1d1f73521ab580aa42872c5ae38c3f6a8b027596f3429a3",
+      "bytes": 81102,
       "width": 996,
-      "height": 830,
+      "height": 710,
       "id": "INVOICE-sample-header-dates",
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:49.140Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Freelancer\nINVOICE\n#SAMPLE-016\nFrom:\nSample Freelancer\nFictional sample address - no postal destination\nfreelancer@example.com\nBill To:\nSample Client\nFictional sample client address - no postal destination\nclient@example.com\nIssue Date\nNovember 16, 2026\nDue Date\nNovember 30, 2026",
-      "detail": "Contiguous genuine invoice header, fictional parties and exact issue/due dates. Use with the full preview or sample-labeled master.",
+      "capturedAt": "2026-10-22T18:02:51.795Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Freelancer\nINVOICE\n#SAMPLE-016\nFrom:\nSample Freelancer\nSample address\nfreelancer@example.com\nBill To:\nSample Client\nSample client address\nclient@example.com\nIssue Date\nNovember 16, 2026\nDue Date\nNovember 30, 2026",
+      "detail": "Contiguous sample invoice header, parties and issue/due dates.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3022,9 +3022,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3061,7 +3061,7 @@
       "localUrl": "http://127.0.0.1:3102/invoice-generator",
       "variant": "after",
       "cssWidth": 498,
-      "cssHeight": 415,
+      "cssHeight": 355,
       "viewport": {
         "width": 620,
         "height": 1500
@@ -3110,21 +3110,21 @@
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:50.238Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "capturedAt": "2026-10-22T18:02:52.897Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
       "visibleText": "Items\nDescription\nQuantity\nRate\n$600.00\n$200.00\nAdd Item\nSubtotal\n$800.00\nTax (%)\nDiscount (flat)\nTotal\n$750.00\nDocumentation draft (hours)\n12\n50\nRevision and handoff (hours)\n4\n50\n0\n50",
-      "detail": "Actual two item rows with quantity and rate inputs, zero-percent tax and flat USD 50 discount controls. Pair with the genuine totals crop.",
+      "detail": "Two item rows with quantity and rate inputs, zero-percent tax and flat USD 50 discount controls.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3144,9 +3144,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3211,6 +3211,18 @@
         "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
+      "regions": {
+        "tax-discount": {
+          "extract": {
+            "left": 138,
+            "top": 1106,
+            "width": 960,
+            "height": 372
+          },
+          "visibleText": "Subtotal\n$800.00\nTax (%)\nDiscount (flat)\nTotal\n$750.00\n0\n50",
+          "minimumTextCssPx": 17.5
+        }
       },
       "quality": {
         "noObstruction": true,
@@ -3289,21 +3301,21 @@
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:49.397Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "capturedAt": "2026-10-22T18:02:52.074Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
       "visibleText": "Description\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00\nRevision and handoff (hours)\n4\n$50.00\n$200.00\nSubtotal:\n$800.00\nDiscount:\n-$50.00\nTotal:\n$750.00",
-      "detail": "Genuine two-line-item table and complete totals block. Sample input values are USD; the zero tax row is naturally absent from the preview.",
+      "detail": "Two-line-item table and totals. USD sample values; the zero tax row is absent from the preview. Detail rectangles follow the native rows.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3323,9 +3335,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3391,6 +3403,38 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "first-row": {
+          "extract": {
+            "left": 0,
+            "top": 0,
+            "width": 996,
+            "height": 262
+          },
+          "visibleText": "Description\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00",
+          "minimumTextCssPx": 20
+        },
+        "subtotal": {
+          "extract": {
+            "left": 0,
+            "top": 0,
+            "width": 996,
+            "height": 564
+          },
+          "visibleText": "Description\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00\nRevision and handoff (hours)\n4\n$50.00\n$200.00\nSubtotal:\n$800.00",
+          "minimumTextCssPx": 20
+        },
+        "totals": {
+          "extract": {
+            "left": 196,
+            "top": 504,
+            "width": 800,
+            "height": 252
+          },
+          "visibleText": "Subtotal:\n$800.00\nDiscount:\n-$50.00\nTotal:\n$750.00",
+          "minimumTextCssPx": 20
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -3403,17 +3447,17 @@
     },
     {
       "file": "assets/revision/tools/INVOICE-sample-payment-fields.png",
-      "sha256": "d340a8f398654d0b3fa3076c6154a06894e76d7cad0ca11d371472dc45bd1959",
-      "bytes": 114153,
+      "sha256": "f9e19809d03c93307ec0ccce9e2361beb007705bd1bb0cd0b1ad24a277ff2caa",
+      "bytes": 96025,
       "width": 1160,
-      "height": 1252,
+      "height": 1192,
       "id": "INVOICE-sample-payment-fields",
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:49.929Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Payment\nCurrency\nUSD ($)\nPayment Method\nWallet Address (if applicable)\nNotes\nUSDC on Ethereum mainnet - sample only\ne.g. 0x1234...\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
+      "capturedAt": "2026-10-22T18:02:52.585Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Payment\nCurrency\nUSD ($)\nPayment Method\nWallet Address (if applicable)\nNotes\nUSDC on Ethereum mainnet\ne.g. 0x1234...\nSample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.",
       "detail": "Actual USD currency selector, typed USDC/Ethereum payment method, empty wallet and full notes textarea. The textarea is resized through its native handle; there is no network selector or currency conversion.",
       "inputs": {
         "fields": {
@@ -3421,11 +3465,11 @@
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3445,9 +3489,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3484,7 +3528,7 @@
       "localUrl": "http://127.0.0.1:3102/invoice-generator",
       "variant": "after",
       "cssWidth": 580,
-      "cssHeight": 626,
+      "cssHeight": 596,
       "viewport": {
         "width": 620,
         "height": 1500
@@ -3522,7 +3566,7 @@
         "fields": [
           {
             "name": "paymentMethod",
-            "value": "USDC on Ethereum mainnet - sample only",
+            "value": "USDC on Ethereum mainnet",
             "placeholder": "e.g. Cryptocurrency",
             "fontSize": 20,
             "clipped": false
@@ -3536,7 +3580,7 @@
           },
           {
             "name": "notes",
-            "value": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
+            "value": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.",
             "placeholder": "Any additional information...",
             "fontSize": 20,
             "clipped": false
@@ -3547,29 +3591,29 @@
     },
     {
       "file": "assets/revision/tools/INVOICE-sample-payment-preview.png",
-      "sha256": "fb03ca9f823221c8c48a7f66b07888e203ba9f6b610c2ff4d46e8538e45a1836",
-      "bytes": 59956,
+      "sha256": "b4f20a7cdfdb1d5a953f5fd04075d453c9b4fa5b29816df0a6ae9a914bb0fb02",
+      "bytes": 47630,
       "width": 996,
-      "height": 422,
+      "height": 372,
       "id": "INVOICE-sample-payment-preview",
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:49.615Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Payment Method:\nUSDC on Ethereum mainnet - sample only\nNotes:\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
-      "detail": "Genuine rendered payment method and notes, including the explicit sample settlement assumption, Not payable statement and intentionally blank wallet explanation.",
+      "capturedAt": "2026-10-22T18:02:52.306Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Payment Method:\nUSDC on Ethereum mainnet\nNotes:\nSample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.",
+      "detail": "Entered payment method and notes, including the sample settlement agreement and Not payable statement. No wallet address is displayed.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3589,9 +3633,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3628,7 +3672,7 @@
       "localUrl": "http://127.0.0.1:3102/invoice-generator",
       "variant": "after",
       "cssWidth": 498,
-      "cssHeight": 211,
+      "cssHeight": 186,
       "viewport": {
         "width": 620,
         "height": 1500
@@ -3669,29 +3713,29 @@
     },
     {
       "file": "assets/revision/tools/INVOICE-sample-preview.png",
-      "sha256": "5a1eb5a76b8801c6fcbf1d60c912be07176371eeb6865feffc3f559c2bc39051",
-      "bytes": 248403,
+      "sha256": "f572710dad14fb397834f43ace92cff2fd90a0cedf12f4488d898352351c8a97",
+      "bytes": 217330,
       "width": 1160,
-      "height": 2492,
+      "height": 2322,
       "id": "INVOICE-sample-preview",
       "scenarioId": "INVOICE-sample",
       "route": "/invoice-generator",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "capturedAt": "2026-10-20T15:37:48.873Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Freelancer\nINVOICE\n#SAMPLE-016\nFrom:\nSample Freelancer\nFictional sample address - no postal destination\nfreelancer@example.com\nBill To:\nSample Client\nFictional sample client address - no postal destination\nclient@example.com\nIssue Date\nNovember 16, 2026\nDue Date\nNovember 30, 2026\nDescription\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00\nRevision and handoff (hours)\n4\n$50.00\n$200.00\nSubtotal:\n$800.00\nDiscount:\n-$50.00\nTotal:\n$750.00\nPayment Method:\nUSDC on Ethereum mainnet - sample only\nNotes:\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.\nGenerated with Hashtag Web3's Free Invoice Generator",
-      "detail": "Complete genuine fictional invoice preview, including both line items, subtotal, flat discount, final total, dates and full sample-only USDC/Ethereum notes. No recipient wallet is present.",
+      "capturedAt": "2026-10-22T18:02:51.542Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Freelancer\nINVOICE\n#SAMPLE-016\nFrom:\nSample Freelancer\nSample address\nfreelancer@example.com\nBill To:\nSample Client\nSample client address\nclient@example.com\nIssue Date\nNovember 16, 2026\nDue Date\nNovember 30, 2026\nDescription\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00\nRevision and handoff (hours)\n4\n$50.00\n$200.00\nSubtotal:\n$800.00\nDiscount:\n-$50.00\nTotal:\n$750.00\nPayment Method:\nUSDC on Ethereum mainnet\nNotes:\nSample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.\nGenerated with Hashtag Web3's Free Invoice Generator",
+      "detail": "Complete sample invoice preview: both line items, totals, dates, USDC/Ethereum payment method and the non-payable settlement example. The wallet field is empty.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -3711,9 +3755,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -3750,7 +3794,7 @@
       "localUrl": "http://127.0.0.1:3102/invoice-generator",
       "variant": "after",
       "cssWidth": 580,
-      "cssHeight": 1246,
+      "cssHeight": 1161,
       "viewport": {
         "width": 620,
         "height": 1500
@@ -6571,18 +6615,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-fields-after.png",
-      "sha256": "0fff4774718f4e8429de57332aab3c1ffc53349d805e9d7181428788b660027c",
-      "bytes": 92151,
+      "sha256": "b87ee5160eadab8321b46b0df026ca75f36a456bb8aa4a212ade5b00da1ae3e1",
+      "bytes": 80293,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-community-fields-after",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:41.152Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Support Queue\nPersonal practice project\nExample wording: Drafted a mock support queue with issue category, escalation owner and resolution note.\nLink to project/contribution",
-      "detail": "Actual project-name, role, description and empty-link controls. The description textarea was expanded using its native resize handle to reveal the complete entered wording.",
+      "capturedAt": "2026-10-22T18:02:43.303Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Support Queue\nPersonal project\nDrafted a mock support queue with issue category, escalation owner and resolution note.\nLink to project/contribution",
+      "detail": "Project-name, role, description and empty-link controls. The textarea uses its native resize handle; detail rectangles follow the live control geometry.",
       "inputs": {
         "fields": {
           "name": "Sample Community Candidate",
@@ -6593,12 +6637,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+              "role": "Personal project",
+              "description": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
               "link": ""
             }
           ],
@@ -6608,7 +6652,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -6619,8 +6663,8 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -6629,7 +6673,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -6658,6 +6702,28 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "project-name-role": {
+          "extract": {
+            "left": 104,
+            "top": 224,
+            "width": 672,
+            "height": 222
+          },
+          "visibleText": "Sample Support Queue\nPersonal project",
+          "minimumTextCssPx": 20
+        },
+        "project-link": {
+          "extract": {
+            "left": 104,
+            "top": 732,
+            "width": 672,
+            "height": 102
+          },
+          "visibleText": "Link to project/contribution",
+          "minimumTextCssPx": 20
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -6674,14 +6740,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+            "value": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -6699,18 +6765,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-fields-before.png",
-      "sha256": "0aff0d0e15e9362d098939ae8a66114376f750253eab98c3ce7558029784b171",
-      "bytes": 70072,
+      "sha256": "f7746b1540cf76a9c1da269aecca45e7521cc3c799e143f41312190aee6ee55e",
+      "bytes": 61644,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-community-fields-before",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:41.662Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Support Queue\nPersonal practice project\nExample wording: Managed Discord.\nLink to project/contribution",
-      "detail": "Actual project controls with the clearly labeled before-example description; identical names, role and empty link to the corresponding after-state.",
+      "capturedAt": "2026-10-22T18:02:43.793Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Support Queue\nPersonal project\nManaged Discord.\nLink to project/contribution",
+      "detail": "Project controls with the before-example description; the same sample name, personal-project role and empty link as the after-state.",
       "inputs": {
         "fields": {
           "name": "Sample Community Candidate",
@@ -6721,12 +6787,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Managed Discord.",
+              "role": "Personal project",
+              "description": "Managed Discord.",
               "link": ""
             }
           ],
@@ -6736,7 +6802,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -6747,18 +6813,18 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only",
-        "capturedDescription": "Example wording: Managed Discord."
+        "capturedDescription": "Managed Discord."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -6803,14 +6869,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Managed Discord.",
+            "value": "Managed Discord.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -6828,18 +6894,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-preview.png",
-      "sha256": "800e640aaf1f30174338f292c16c5c5c581f2490718428c6be884aedebd54145",
-      "bytes": 173196,
+      "sha256": "05f889551cee7c04777bc8e22ce5448fa53d8eba8aaad72702922457a449098e",
+      "bytes": 155750,
       "width": 876,
-      "height": 1652,
+      "height": 1488,
       "id": "RESUME-community-preview",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:40.426Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Community Candidate\nCommunity Support Contributor\ncommunity@example.com\nSummary\nPractice resume example: Community contributor drafting a mock support queue and moderator handoff.\nKey Projects & Portfolio\nSample Support Queue\n| Personal practice project\nExample wording: Drafted a mock support queue with issue category, escalation owner and resolution note.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nDiscord support workflows, issue categorization\nGeneral Skills\nEscalation writing, handoff documentation",
-      "detail": "Finished genuine resume preview. All identity and portfolio wording is explicitly fictional practice content; employment and education entries were removed through their actual controls.",
+      "capturedAt": "2026-10-22T18:02:42.544Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Community Candidate\nCommunity Support Contributor\ncommunity@example.com\nSummary\nCommunity contributor drafting a mock support queue and moderator handoff.\nKey Projects & Portfolio\nSample Support Queue\n| Personal project\nDrafted a mock support queue with issue category, escalation owner and resolution note.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nDiscord support workflows, issue categorization\nGeneral Skills\nEscalation writing, handoff documentation",
+      "detail": "Complete application preview for the sample candidate and personal project. Employment and education entries were removed with the existing controls.",
       "inputs": {
         "fields": {
           "name": "Sample Community Candidate",
@@ -6850,12 +6916,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+              "role": "Personal project",
+              "description": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
               "link": ""
             }
           ],
@@ -6865,7 +6931,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -6876,8 +6942,8 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -6886,7 +6952,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 438,
-      "cssHeight": 826,
+      "cssHeight": 744,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -6927,18 +6993,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-project-after.png",
-      "sha256": "666a354e23f1b86aa18801a0633d62f5f8e44118c6fd0c1047a4d137d532829c",
-      "bytes": 55086,
+      "sha256": "ce61929997111569ecbe04ac6c58ebe527203c645b6d8e26874369f9e9efdc95",
+      "bytes": 46557,
       "width": 796,
-      "height": 352,
+      "height": 246,
       "id": "RESUME-community-project-after",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:40.886Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Support Queue\n| Personal practice project\nExample wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
-      "detail": "Focused project entry in the genuine after-state preview, retaining Personal practice project and Example wording labels.",
+      "capturedAt": "2026-10-22T18:02:43.015Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Support Queue\n| Personal project\nDrafted a mock support queue with issue category, escalation owner and resolution note.",
+      "detail": "Personal project in the after-state preview, with the sample project name and entered description.",
       "inputs": {
         "fields": {
           "name": "Sample Community Candidate",
@@ -6949,12 +7015,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+              "role": "Personal project",
+              "description": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
               "link": ""
             }
           ],
@@ -6964,7 +7030,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -6975,8 +7041,8 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -6985,7 +7051,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 398,
-      "cssHeight": 176,
+      "cssHeight": 123,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7026,17 +7092,17 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-project-before.png",
-      "sha256": "3ae366006f02507dc2f25f856291d595e25e7d7165be4f2ac619b4215cef4226",
-      "bytes": 35895,
+      "sha256": "accc0cb059707bce89bdeadbefb49b473c36e41b010d1dab70bb36c4c04058e1",
+      "bytes": 29076,
       "width": 796,
-      "height": 238,
+      "height": 190,
       "id": "RESUME-community-project-before",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:41.398Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Support Queue\n| Personal practice project\nExample wording: Managed Discord.",
+      "capturedAt": "2026-10-22T18:02:43.536Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Support Queue\n| Personal project\nManaged Discord.",
       "detail": "Genuine before-state project preview, created by editing the real Description field. Only the description differs from the after-state capture.",
       "inputs": {
         "fields": {
@@ -7048,12 +7114,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Managed Discord.",
+              "role": "Personal project",
+              "description": "Managed Discord.",
               "link": ""
             }
           ],
@@ -7063,7 +7129,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7074,18 +7140,18 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only",
-        "capturedDescription": "Example wording: Managed Discord."
+        "capturedDescription": "Managed Discord."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 398,
-      "cssHeight": 119,
+      "cssHeight": 95,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7126,18 +7192,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-community-summary.png",
-      "sha256": "371a75ea992771932a094cba2f975875c279525c969614d7c5896e013beac7d7",
-      "bytes": 62825,
+      "sha256": "6e7f6fb33397a442c47da464dce984e8f649fd12ac7ead6a76685bf59d198de1",
+      "bytes": 54124,
       "width": 796,
-      "height": 518,
+      "height": 460,
       "id": "RESUME-community-summary",
       "scenarioId": "RESUME-community",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:40.658Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Community Candidate\nCommunity Support Contributor\ncommunity@example.com\nSummary\nPractice resume example: Community contributor drafting a mock support queue and moderator handoff.",
-      "detail": "Genuine identity and summary regions in their original contiguous layout, with the sample name and Practice resume example label visible.",
+      "capturedAt": "2026-10-22T18:02:42.791Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Community Candidate\nCommunity Support Contributor\ncommunity@example.com\nSummary\nCommunity contributor drafting a mock support queue and moderator handoff.",
+      "detail": "Contiguous candidate identity and summary. The text region is measured from the native Summary section.",
       "inputs": {
         "fields": {
           "name": "Sample Community Candidate",
@@ -7148,12 +7214,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
           "contributions": [
             {
               "project": "Sample Support Queue",
-              "role": "Personal practice project",
-              "description": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+              "role": "Personal project",
+              "description": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
               "link": ""
             }
           ],
@@ -7163,7 +7229,7 @@
           "generalSkills": "Escalation writing, handoff documentation"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Managed Discord."
+          "contributions.0.description": "Managed Discord."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7174,8 +7240,8 @@
       "expectedResult": {
         "visibleName": "Sample Community Candidate",
         "visibleProject": "Sample Support Queue",
-        "beforeDescription": "Example wording: Managed Discord.",
-        "afterDescription": "Example wording: Drafted a mock support queue with issue category, escalation owner and resolution note.",
+        "beforeDescription": "Managed Discord.",
+        "afterDescription": "Drafted a mock support queue with issue category, escalation owner and resolution note.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -7184,7 +7250,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 398,
-      "cssHeight": 259,
+      "cssHeight": 230,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7213,6 +7279,18 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "text": {
+          "extract": {
+            "left": 0,
+            "top": 274,
+            "width": 796,
+            "height": 186
+          },
+          "visibleText": "Summary\nCommunity contributor drafting a mock support queue and moderator handoff.",
+          "minimumTextCssPx": 17.5
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -7225,18 +7303,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-fields-after.png",
-      "sha256": "7b5ccfd23b2e554e81c3129b42bceecddfadcc35b2b1f426b397bdd14d2a5fa8",
-      "bytes": 98842,
+      "sha256": "cc97a71110dd720a623d6b34e8dfaa3621c515786cf85220ef481f61e96f279b",
+      "bytes": 87194,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-content-fields-after",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:44.621Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token Approval Guide\nPersonal practice project\nExample wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.\nLink to project/contribution",
-      "detail": "Actual project-name, role, description and empty-link controls. The description textarea was expanded using its native resize handle to reveal the complete entered wording.",
+      "capturedAt": "2026-10-22T18:02:46.692Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token Approval Guide\nPersonal project\nWrote a guide explaining approve and transferFrom with a worked allowance example.\nLink to project/contribution",
+      "detail": "Project-name, role, description and empty-link controls. The textarea uses its native resize handle; detail rectangles follow the live control geometry.",
       "inputs": {
         "fields": {
           "name": "Sample Content Candidate",
@@ -7247,12 +7325,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+              "role": "Personal project",
+              "description": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
               "link": ""
             }
           ],
@@ -7262,7 +7340,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7273,8 +7351,8 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed"
@@ -7283,7 +7361,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7312,6 +7390,28 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "project-name-role": {
+          "extract": {
+            "left": 104,
+            "top": 224,
+            "width": 672,
+            "height": 222
+          },
+          "visibleText": "Sample Token Approval Guide\nPersonal project",
+          "minimumTextCssPx": 20
+        },
+        "project-link": {
+          "extract": {
+            "left": 104,
+            "top": 732,
+            "width": 672,
+            "height": 102
+          },
+          "visibleText": "Link to project/contribution",
+          "minimumTextCssPx": 20
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -7328,14 +7428,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+            "value": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -7353,18 +7453,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-fields-before.png",
-      "sha256": "f40ec98ad5dc53e2e22ede5348cca1525a3eb48d93771b3e8c5176158b0c116a",
-      "bytes": 75044,
+      "sha256": "921050030a959851eede99a50355650b5f998a063b3e07540ab0e77217d5cd53",
+      "bytes": 65937,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-content-fields-before",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:45.115Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token Approval Guide\nPersonal practice project\nExample wording: Wrote about crypto.\nLink to project/contribution",
-      "detail": "Actual project controls with the clearly labeled before-example description; identical names, role and empty link to the corresponding after-state.",
+      "capturedAt": "2026-10-22T18:02:47.169Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token Approval Guide\nPersonal project\nWrote about crypto.\nLink to project/contribution",
+      "detail": "Project controls with the before-example description; the same sample name, personal-project role and empty link as the after-state.",
       "inputs": {
         "fields": {
           "name": "Sample Content Candidate",
@@ -7375,12 +7475,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote about crypto.",
+              "role": "Personal project",
+              "description": "Wrote about crypto.",
               "link": ""
             }
           ],
@@ -7390,7 +7490,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7401,18 +7501,18 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed",
-        "capturedDescription": "Example wording: Wrote about crypto."
+        "capturedDescription": "Wrote about crypto."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7457,14 +7557,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Wrote about crypto.",
+            "value": "Wrote about crypto.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -7482,18 +7582,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-preview.png",
-      "sha256": "15a7acf42b06ae55158b160ac4d395aeae3b6e0905451f68537922291f7210de",
-      "bytes": 174198,
+      "sha256": "2c5eca93e870590396dbaf537d59dbb7b662c11db9deabb9694733037143b62a",
+      "bytes": 155022,
       "width": 876,
-      "height": 1596,
+      "height": 1482,
       "id": "RESUME-content-preview",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:43.852Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Content Candidate\nWeb3 Content Writer\ncontent@example.com\nSummary\nPractice resume example: Content writer explaining token approvals through a worked allowance example.\nKey Projects & Portfolio\nSample Token Approval Guide\n| Personal practice project\nExample wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nERC-20 approval concepts, Markdown\nGeneral Skills\nTechnical writing, source attribution",
-      "detail": "Finished genuine resume preview. All identity and portfolio wording is explicitly fictional practice content; employment and education entries were removed through their actual controls.",
+      "capturedAt": "2026-10-22T18:02:45.912Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Content Candidate\nWeb3 Content Writer\ncontent@example.com\nSummary\nContent writer explaining token approvals through a worked allowance example.\nKey Projects & Portfolio\nSample Token Approval Guide\n| Personal project\nWrote a guide explaining approve and transferFrom with a worked allowance example.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nERC-20 approval concepts, Markdown\nGeneral Skills\nTechnical writing, source attribution",
+      "detail": "Complete application preview for the sample candidate and personal project. Employment and education entries were removed with the existing controls.",
       "inputs": {
         "fields": {
           "name": "Sample Content Candidate",
@@ -7504,12 +7604,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+              "role": "Personal project",
+              "description": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
               "link": ""
             }
           ],
@@ -7519,7 +7619,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7530,8 +7630,8 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed"
@@ -7540,7 +7640,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 438,
-      "cssHeight": 798,
+      "cssHeight": 741,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7581,18 +7681,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-project-after.png",
-      "sha256": "6c4c4802eb8a1a3749d5575d782ec8a10f5bb7c0a32245276485bdf726b420ab",
-      "bytes": 61318,
+      "sha256": "fe854ce6583c0fe9d0cc9a56d46f8f0045a67f059ef4c710305ae1361a4c1969",
+      "bytes": 50179,
       "width": 796,
-      "height": 352,
+      "height": 296,
       "id": "RESUME-content-project-after",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:44.337Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Token Approval Guide\n| Personal practice project\nExample wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
-      "detail": "Focused project entry in the genuine after-state preview, retaining Personal practice project and Example wording labels.",
+      "capturedAt": "2026-10-22T18:02:46.401Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Token Approval Guide\n| Personal project\nWrote a guide explaining approve and transferFrom with a worked allowance example.",
+      "detail": "Personal project in the after-state preview, with the sample project name and entered description.",
       "inputs": {
         "fields": {
           "name": "Sample Content Candidate",
@@ -7603,12 +7703,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+              "role": "Personal project",
+              "description": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
               "link": ""
             }
           ],
@@ -7618,7 +7718,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7629,8 +7729,8 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed"
@@ -7639,7 +7739,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 398,
-      "cssHeight": 176,
+      "cssHeight": 148,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7680,17 +7780,17 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-project-before.png",
-      "sha256": "4aa746fdba3dbb5a58aae491025e40b10158a671b03c6cf9e43cf3a1d44e146e",
-      "bytes": 38310,
+      "sha256": "e143feb0d8566c909bbd3310b9cc23f895b274f25b09a98e77f9a3585160ea1f",
+      "bytes": 31752,
       "width": 796,
-      "height": 238,
+      "height": 240,
       "id": "RESUME-content-project-before",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:44.852Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Token Approval Guide\n| Personal practice project\nExample wording: Wrote about crypto.",
+      "capturedAt": "2026-10-22T18:02:46.922Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Token Approval Guide\n| Personal project\nWrote about crypto.",
       "detail": "Genuine before-state project preview, created by editing the real Description field. Only the description differs from the after-state capture.",
       "inputs": {
         "fields": {
@@ -7702,12 +7802,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote about crypto.",
+              "role": "Personal project",
+              "description": "Wrote about crypto.",
               "link": ""
             }
           ],
@@ -7717,7 +7817,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7728,18 +7828,18 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed",
-        "capturedDescription": "Example wording: Wrote about crypto."
+        "capturedDescription": "Wrote about crypto."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 398,
-      "cssHeight": 119,
+      "cssHeight": 120,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7780,18 +7880,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-content-summary.png",
-      "sha256": "6678e34467d4283e345ae0f847af608df04010e81b69de11492ee9a15adc4004",
-      "bytes": 60776,
+      "sha256": "e0c02da98dfa242d20fa78ffb48455370ceb5f14985b1aecbfcf5fc42253c68d",
+      "bytes": 53217,
       "width": 796,
-      "height": 518,
+      "height": 460,
       "id": "RESUME-content-summary",
       "scenarioId": "RESUME-content",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:44.099Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Content Candidate\nWeb3 Content Writer\ncontent@example.com\nSummary\nPractice resume example: Content writer explaining token approvals through a worked allowance example.",
-      "detail": "Genuine identity and summary regions in their original contiguous layout, with the sample name and Practice resume example label visible.",
+      "capturedAt": "2026-10-22T18:02:46.164Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Content Candidate\nWeb3 Content Writer\ncontent@example.com\nSummary\nContent writer explaining token approvals through a worked allowance example.",
+      "detail": "Contiguous candidate identity and summary. The text region is measured from the native Summary section.",
       "inputs": {
         "fields": {
           "name": "Sample Content Candidate",
@@ -7802,12 +7902,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Content writer explaining token approvals through a worked allowance example.",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
           "contributions": [
             {
               "project": "Sample Token Approval Guide",
-              "role": "Personal practice project",
-              "description": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+              "role": "Personal project",
+              "description": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
               "link": ""
             }
           ],
@@ -7817,7 +7917,7 @@
           "generalSkills": "Technical writing, source attribution"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Wrote about crypto."
+          "contributions.0.description": "Wrote about crypto."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -7828,8 +7928,8 @@
       "expectedResult": {
         "visibleName": "Sample Content Candidate",
         "visibleProject": "Sample Token Approval Guide",
-        "beforeDescription": "Example wording: Wrote about crypto.",
-        "afterDescription": "Example wording: Wrote a practice guide explaining approve and transferFrom with a worked allowance example.",
+        "beforeDescription": "Wrote about crypto.",
+        "afterDescription": "Wrote a guide explaining approve and transferFrom with a worked allowance example.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only; no published guide is claimed"
@@ -7838,7 +7938,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 398,
-      "cssHeight": 259,
+      "cssHeight": 230,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -7867,6 +7967,18 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "text": {
+          "extract": {
+            "left": 0,
+            "top": 274,
+            "width": 796,
+            "height": 186
+          },
+          "visibleText": "Summary\nContent writer explaining token approvals through a worked allowance example.",
+          "minimumTextCssPx": 17.5
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -7879,18 +7991,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-junior-fields-after.png",
-      "sha256": "9d5eeca9263b3992fc7ae21cb526bd4ce2e105fc58780334277d3705e4842f09",
-      "bytes": 113140,
+      "sha256": "3ce7d173b2844ff7a43780dcd049879cf4b809a9802360d3f9d427f1acb80aa0",
+      "bytes": 104082,
       "width": 780,
-      "height": 1318,
+      "height": 1258,
       "id": "RESUME-junior-fields-after",
       "scenarioId": "RESUME-junior",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:34.639Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Escrow Demo\nPersonal practice project\nExample wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.\nLink to project/contribution",
-      "detail": "Actual project-name, role, description and empty-link controls. The description textarea was expanded using its native resize handle to reveal the complete entered wording.",
+      "capturedAt": "2026-10-22T18:02:36.571Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Escrow Demo\nPersonal project\nImplemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.\nLink to project/contribution",
+      "detail": "Project-name, role, description and empty-link controls. The textarea uses its native resize handle; detail rectangles follow the live control geometry.",
       "inputs": {
         "fields": {
           "name": "Sample Candidate",
@@ -7901,12 +8013,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
           "contributions": [
             {
               "project": "Sample Escrow Demo",
-              "role": "Personal practice project",
-              "description": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+              "role": "Personal project",
+              "description": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
               "link": ""
             }
           ],
@@ -7936,7 +8048,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 390,
-      "cssHeight": 659,
+      "cssHeight": 629,
       "viewport": {
         "width": 430,
         "height": 1500
@@ -7965,6 +8077,28 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "project-name-role": {
+          "extract": {
+            "left": 104,
+            "top": 224,
+            "width": 572,
+            "height": 222
+          },
+          "visibleText": "Sample Escrow Demo\nPersonal project",
+          "minimumTextCssPx": 20
+        },
+        "project-link": {
+          "extract": {
+            "left": 104,
+            "top": 912,
+            "width": 572,
+            "height": 102
+          },
+          "visibleText": "Link to project/contribution",
+          "minimumTextCssPx": 20
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -7981,14 +8115,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+            "value": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -8006,18 +8140,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-junior-preview.png",
-      "sha256": "b7a89cf8c3a3a4b9ec9ca793ff870840f47992358128be297213ef8861fe7d54",
-      "bytes": 172475,
+      "sha256": "23a73b5f206a0af229ce20faa6ff266a38d63fc42c19000b326e6165a7b82d11",
+      "bytes": 157521,
       "width": 776,
-      "height": 1708,
+      "height": 1602,
       "id": "RESUME-junior-preview",
       "scenarioId": "RESUME-junior",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:33.840Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Candidate\nJunior Smart Contract Developer\ncandidate@example.com\nSummary\nPractice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.\nKey Projects & Portfolio\nSample Escrow Demo\n| Personal practice project\nExample wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nSolidity, Foundry\nGeneral Skills\nGit, README writing",
-      "detail": "Finished genuine resume preview. All identity and portfolio wording is explicitly fictional practice content; employment and education entries were removed through their actual controls.",
+      "capturedAt": "2026-10-22T18:02:35.791Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Candidate\nJunior Smart Contract Developer\ncandidate@example.com\nSummary\nBuilt a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.\nKey Projects & Portfolio\nSample Escrow Demo\n| Personal project\nImplemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nSolidity, Foundry\nGeneral Skills\nGit, README writing",
+      "detail": "Complete application preview for the sample candidate and personal project. Employment and education entries were removed with the existing controls.",
       "inputs": {
         "fields": {
           "name": "Sample Candidate",
@@ -8028,12 +8162,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
           "contributions": [
             {
               "project": "Sample Escrow Demo",
-              "role": "Personal practice project",
-              "description": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+              "role": "Personal project",
+              "description": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
               "link": ""
             }
           ],
@@ -8063,7 +8197,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 388,
-      "cssHeight": 854,
+      "cssHeight": 801,
       "viewport": {
         "width": 430,
         "height": 1500
@@ -8104,18 +8238,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-junior-project-after.png",
-      "sha256": "3da4478df245708d8600ca94df53c762463d376d4a4e22633b137f8629193044",
-      "bytes": 70743,
+      "sha256": "1748603919f4ddcfae868543fb54ef4ed42e672420b94dbfbed848f16093e4e1",
+      "bytes": 62078,
       "width": 696,
-      "height": 466,
+      "height": 358,
       "id": "RESUME-junior-project-after",
       "scenarioId": "RESUME-junior",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:34.313Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Escrow Demo\n| Personal practice project\nExample wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
-      "detail": "Focused project entry in the genuine after-state preview, retaining Personal practice project and Example wording labels.",
+      "capturedAt": "2026-10-22T18:02:36.271Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Escrow Demo\n| Personal project\nImplemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+      "detail": "Personal project in the after-state preview, with the sample project name and entered description.",
       "inputs": {
         "fields": {
           "name": "Sample Candidate",
@@ -8126,12 +8260,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
           "contributions": [
             {
               "project": "Sample Escrow Demo",
-              "role": "Personal practice project",
-              "description": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+              "role": "Personal project",
+              "description": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
               "link": ""
             }
           ],
@@ -8161,7 +8295,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 348,
-      "cssHeight": 233,
+      "cssHeight": 179,
       "viewport": {
         "width": 430,
         "height": 1500
@@ -8202,16 +8336,16 @@
     },
     {
       "file": "assets/revision/tools/RESUME-junior-skills.png",
-      "sha256": "b399575fbbac540132dda0aefb1b82729f8dcfc5bc53dba515b2abbd698530d8",
-      "bytes": 25597,
+      "sha256": "b01d290cff34fe10f2ea24f45376695cb69c93282a5bd9356e620f6fe5619ebf",
+      "bytes": 25613,
       "width": 696,
-      "height": 348,
+      "height": 350,
       "id": "RESUME-junior-skills",
       "scenarioId": "RESUME-junior",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:34.852Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "capturedAt": "2026-10-22T18:02:36.774Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
       "visibleText": "Skills\nTechnical Skills\nSolidity, Foundry\nGeneral Skills\nGit, README writing",
       "detail": "Genuine sample resume skills section, with both Technical Skills and General Skills visible.",
       "inputs": {
@@ -8224,12 +8358,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
           "contributions": [
             {
               "project": "Sample Escrow Demo",
-              "role": "Personal practice project",
-              "description": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+              "role": "Personal project",
+              "description": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
               "link": ""
             }
           ],
@@ -8259,7 +8393,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 348,
-      "cssHeight": 174,
+      "cssHeight": 175,
       "viewport": {
         "width": 430,
         "height": 1500
@@ -8300,18 +8434,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-junior-summary.png",
-      "sha256": "ceae02743582d7f2dcbb6dff12a1953bfde7bbf06247f2f9c5d11fe7c305e1aa",
-      "bytes": 61170,
+      "sha256": "f4e9d38b3cb6d6fe56cc4c986ff8c7f465d82b20e6132c5d580561e423fe9cca",
+      "bytes": 54820,
       "width": 696,
       "height": 518,
       "id": "RESUME-junior-summary",
       "scenarioId": "RESUME-junior",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:34.068Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Candidate\nJunior Smart Contract Developer\ncandidate@example.com\nSummary\nPractice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
-      "detail": "Genuine identity and summary regions in their original contiguous layout, with the sample name and Practice resume example label visible.",
+      "capturedAt": "2026-10-22T18:02:36.032Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Candidate\nJunior Smart Contract Developer\ncandidate@example.com\nSummary\nBuilt a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+      "detail": "Contiguous candidate identity and summary. The text region is measured from the native Summary section.",
       "inputs": {
         "fields": {
           "name": "Sample Candidate",
@@ -8322,12 +8456,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
           "contributions": [
             {
               "project": "Sample Escrow Demo",
-              "role": "Personal practice project",
-              "description": "Example wording: Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
+              "role": "Personal project",
+              "description": "Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.",
               "link": ""
             }
           ],
@@ -8386,6 +8520,18 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "text": {
+          "extract": {
+            "left": 0,
+            "top": 274,
+            "width": 696,
+            "height": 244
+          },
+          "visibleText": "Summary\nBuilt a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "minimumTextCssPx": 17.5
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -8398,18 +8544,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-fields-after.png",
-      "sha256": "51740298f72c9994233af1f63448f33dabf046d1280b62d47b16e12d8cb45e87",
-      "bytes": 91280,
+      "sha256": "2dd2b96bb0aa14192cbbae36cf5aef3363e60e8485b6d0b88f496bbbbaf81c83",
+      "bytes": 84432,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-technical-fields-after",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:37.802Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token-Balance View\nPersonal practice project\nExample wording: Built a React token-balance view with disconnected, loading and RPC-error states.\nLink to project/contribution",
-      "detail": "Actual project-name, role, description and empty-link controls. The description textarea was expanded using its native resize handle to reveal the complete entered wording.",
+      "capturedAt": "2026-10-22T18:02:39.960Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token-Balance View\nPersonal project\nBuilt a React token-balance view with disconnected, loading and RPC-error states.\nLink to project/contribution",
+      "detail": "Project-name, role, description and empty-link controls. The textarea uses its native resize handle; detail rectangles follow the live control geometry.",
       "inputs": {
         "fields": {
           "name": "Sample Technical Candidate",
@@ -8420,12 +8566,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+              "role": "Personal project",
+              "description": "Built a React token-balance view with disconnected, loading and RPC-error states.",
               "link": ""
             }
           ],
@@ -8435,7 +8581,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -8446,8 +8592,8 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -8456,7 +8602,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -8485,6 +8631,28 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
+      "regions": {
+        "project-name-role": {
+          "extract": {
+            "left": 104,
+            "top": 224,
+            "width": 672,
+            "height": 222
+          },
+          "visibleText": "Sample Token-Balance View\nPersonal project",
+          "minimumTextCssPx": 20
+        },
+        "project-link": {
+          "extract": {
+            "left": 104,
+            "top": 732,
+            "width": 672,
+            "height": 102
+          },
+          "visibleText": "Link to project/contribution",
+          "minimumTextCssPx": 20
+        }
+      },
       "quality": {
         "noObstruction": true,
         "textWithinCrop": true,
@@ -8501,14 +8669,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+            "value": "Built a React token-balance view with disconnected, loading and RPC-error states.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -8526,18 +8694,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-fields-before.png",
-      "sha256": "ab6527ccf00d9a67e6340c8b2bb0120fb414a7026844ad6beb6d30179e7ff5af",
-      "bytes": 69142,
+      "sha256": "0d16bc6a37ed2b36e299d41a81fa32d37fac68f19ade3acc2309b77c668c3416",
+      "bytes": 61300,
       "width": 880,
-      "height": 1138,
+      "height": 1078,
       "id": "RESUME-technical-fields-before",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:38.316Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token-Balance View\nPersonal practice project\nExample wording: Built a dApp.\nLink to project/contribution",
-      "detail": "Actual project controls with the clearly labeled before-example description; identical names, role and empty link to the corresponding after-state.",
+      "capturedAt": "2026-10-22T18:02:40.435Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nAdd Project\nSample Token-Balance View\nPersonal project\nBuilt a dApp.\nLink to project/contribution",
+      "detail": "Project controls with the before-example description; the same sample name, personal-project role and empty link as the after-state.",
       "inputs": {
         "fields": {
           "name": "Sample Technical Candidate",
@@ -8548,12 +8716,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a dApp.",
+              "role": "Personal project",
+              "description": "Built a dApp.",
               "link": ""
             }
           ],
@@ -8563,7 +8731,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -8574,18 +8742,18 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only",
-        "capturedDescription": "Example wording: Built a dApp."
+        "capturedDescription": "Built a dApp."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 440,
-      "cssHeight": 569,
+      "cssHeight": 539,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -8630,14 +8798,14 @@
           },
           {
             "name": "contributions.0.role",
-            "value": "Personal practice project",
+            "value": "Personal project",
             "placeholder": "Your Role (e.g. Personal Project, Contributor)",
             "fontSize": 20,
             "clipped": false
           },
           {
             "name": "contributions.0.description",
-            "value": "Example wording: Built a dApp.",
+            "value": "Built a dApp.",
             "placeholder": "Description of your contribution...",
             "fontSize": 20,
             "clipped": false
@@ -8655,18 +8823,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-preview.png",
-      "sha256": "9dba3cc14cddcd40f84ade8a0e7bb2f07a5386eb831fc9b22f0369cbffaf7ea6",
-      "bytes": 169405,
+      "sha256": "02c1853de07affa7adbad6e5358277ac034f42d5e6e278110c42eb2bb15d061f",
+      "bytes": 153819,
       "width": 876,
-      "height": 1652,
+      "height": 1546,
       "id": "RESUME-technical-preview",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:37.054Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Technical Candidate\nFrontend/Web3 Developer\ntechnical@example.com\nSummary\nPractice resume example: Frontend developer building a React token-balance view with explicit connection and error states.\nKey Projects & Portfolio\nSample Token-Balance View\n| Personal practice project\nExample wording: Built a React token-balance view with disconnected, loading and RPC-error states.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nReact, token-balance reads, wallet connection states\nGeneral Skills\nGit, README writing",
-      "detail": "Finished genuine resume preview. All identity and portfolio wording is explicitly fictional practice content; employment and education entries were removed through their actual controls.",
+      "capturedAt": "2026-10-22T18:02:39.195Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Technical Candidate\nFrontend/Web3 Developer\ntechnical@example.com\nSummary\nFrontend developer building a React token-balance view with explicit connection and error states.\nKey Projects & Portfolio\nSample Token-Balance View\n| Personal project\nBuilt a React token-balance view with disconnected, loading and RPC-error states.\nProfessional Experience\nEducation\nSkills\nTechnical Skills\nReact, token-balance reads, wallet connection states\nGeneral Skills\nGit, README writing",
+      "detail": "Complete application preview for the sample candidate and personal project. Employment and education entries were removed with the existing controls.",
       "inputs": {
         "fields": {
           "name": "Sample Technical Candidate",
@@ -8677,12 +8845,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+              "role": "Personal project",
+              "description": "Built a React token-balance view with disconnected, loading and RPC-error states.",
               "link": ""
             }
           ],
@@ -8692,7 +8860,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -8703,8 +8871,8 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -8713,7 +8881,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 438,
-      "cssHeight": 826,
+      "cssHeight": 773,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -8754,18 +8922,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-project-after.png",
-      "sha256": "2bc08752c80d16341194725bda31a7bd68856ea7f6579545973adef2e2219eb0",
-      "bytes": 55763,
+      "sha256": "04faca777b62714e08e540b3f60f6228a92d8b55368d260d1ef75b97096f946c",
+      "bytes": 47817,
       "width": 796,
-      "height": 352,
+      "height": 244,
       "id": "RESUME-technical-project-after",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:37.505Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Token-Balance View\n| Personal practice project\nExample wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
-      "detail": "Focused project entry in the genuine after-state preview, retaining Personal practice project and Example wording labels.",
+      "capturedAt": "2026-10-22T18:02:39.665Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Token-Balance View\n| Personal project\nBuilt a React token-balance view with disconnected, loading and RPC-error states.",
+      "detail": "Personal project in the after-state preview, with the sample project name and entered description.",
       "inputs": {
         "fields": {
           "name": "Sample Technical Candidate",
@@ -8776,12 +8944,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+              "role": "Personal project",
+              "description": "Built a React token-balance view with disconnected, loading and RPC-error states.",
               "link": ""
             }
           ],
@@ -8791,7 +8959,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -8802,8 +8970,8 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -8812,7 +8980,7 @@
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "after",
       "cssWidth": 398,
-      "cssHeight": 176,
+      "cssHeight": 122,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -8853,17 +9021,17 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-project-before.png",
-      "sha256": "bc69c08b85c4696799647aceb8914bc260a7dd44edc977c2aff02b7d79f24fd7",
-      "bytes": 36738,
+      "sha256": "bd2949757395964413a8e67c58f91e2011878d3a1e7649915e7a51c6a1b9e9b3",
+      "bytes": 28603,
       "width": 796,
-      "height": 238,
+      "height": 188,
       "id": "RESUME-technical-project-before",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:38.041Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Key Projects & Portfolio\nSample Token-Balance View\n| Personal practice project\nExample wording: Built a dApp.",
+      "capturedAt": "2026-10-22T18:02:40.184Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Key Projects & Portfolio\nSample Token-Balance View\n| Personal project\nBuilt a dApp.",
       "detail": "Genuine before-state project preview, created by editing the real Description field. Only the description differs from the after-state capture.",
       "inputs": {
         "fields": {
@@ -8875,12 +9043,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a dApp.",
+              "role": "Personal project",
+              "description": "Built a dApp.",
               "link": ""
             }
           ],
@@ -8890,7 +9058,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -8901,18 +9069,18 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only",
-        "capturedDescription": "Example wording: Built a dApp."
+        "capturedDescription": "Built a dApp."
       },
       "provenance": "real application rendered locally from revision",
       "localUrl": "http://127.0.0.1:3102/resume-builder",
       "variant": "before",
       "cssWidth": 398,
-      "cssHeight": 119,
+      "cssHeight": 94,
       "viewport": {
         "width": 480,
         "height": 1500
@@ -8953,18 +9121,18 @@
     },
     {
       "file": "assets/revision/tools/RESUME-technical-summary.png",
-      "sha256": "d791dcfdea02a8619c63efec1501dbbadc208bbab0391c6eea96aac7bb07229d",
-      "bytes": 63602,
+      "sha256": "c1ff05f0124e7c3762433b37193f73f8299a815b9034051d39900ca7435ef066",
+      "bytes": 56244,
       "width": 796,
       "height": 518,
       "id": "RESUME-technical-summary",
       "scenarioId": "RESUME-technical",
       "route": "/resume-builder",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "capturedAt": "2026-10-20T15:37:37.273Z",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
-      "visibleText": "Sample Technical Candidate\nFrontend/Web3 Developer\ntechnical@example.com\nSummary\nPractice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
-      "detail": "Genuine identity and summary regions in their original contiguous layout, with the sample name and Practice resume example label visible.",
+      "capturedAt": "2026-10-22T18:02:39.440Z",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "visibleText": "Sample Technical Candidate\nFrontend/Web3 Developer\ntechnical@example.com\nSummary\nFrontend developer building a React token-balance view with explicit connection and error states.",
+      "detail": "Contiguous candidate identity and summary. The text region is measured from the native Summary section.",
       "inputs": {
         "fields": {
           "name": "Sample Technical Candidate",
@@ -8975,12 +9143,12 @@
           "github": "",
           "twitter": "",
           "handle": "",
-          "summary": "Practice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
           "contributions": [
             {
               "project": "Sample Token-Balance View",
-              "role": "Personal practice project",
-              "description": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+              "role": "Personal project",
+              "description": "Built a React token-balance view with disconnected, loading and RPC-error states.",
               "link": ""
             }
           ],
@@ -8990,7 +9158,7 @@
           "generalSkills": "Git, README writing"
         },
         "beforeFields": {
-          "contributions.0.description": "Example wording: Built a dApp."
+          "contributions.0.description": "Built a dApp."
         },
         "steps": [
           "Replace all defaults with fields; remove default experience and education cards.",
@@ -9001,8 +9169,8 @@
       "expectedResult": {
         "visibleName": "Sample Technical Candidate",
         "visibleProject": "Sample Token-Balance View",
-        "beforeDescription": "Example wording: Built a dApp.",
-        "afterDescription": "Example wording: Built a React token-balance view with disconnected, loading and RPC-error states.",
+        "beforeDescription": "Built a dApp.",
+        "afterDescription": "Built a React token-balance view with disconnected, loading and RPC-error states.",
         "experienceCount": 0,
         "educationCount": 0,
         "sampleStatus": "Fictional practice wording only"
@@ -9039,6 +9207,18 @@
         "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
+      "regions": {
+        "text": {
+          "extract": {
+            "left": 0,
+            "top": 274,
+            "width": 796,
+            "height": 244
+          },
+          "visibleText": "Summary\nFrontend developer building a React token-balance view with explicit connection and error states.",
+          "minimumTextCssPx": 17.5
+        }
       },
       "quality": {
         "noObstruction": true,
@@ -10170,15 +10350,16 @@
     },
     {
       "file": "assets/revision/detail/invoice-notes-readable.png",
-      "sha256": "1d84cfe4e4e059a65321fc59b751c21312c1981b9152ad6948f37fc15ab4be83",
-      "bytes": 41219,
+      "sha256": "627b963e4bb9f81870e897df88df60cedba479b41bd3d21932197185bdd31ae8",
+      "bytes": 33873,
       "width": 756,
-      "height": 270,
+      "height": 220,
       "id": "INVOICE-sample-notes-readable",
+      "scenarioId": "INVOICE-sample",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
       "localUrl": "http://127.0.0.1:3102/invoice-generator",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
       "sourceFileHashes": {
         "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
         "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
@@ -10199,18 +10380,18 @@
         "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
         "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
       },
-      "provenance": "Real application rendered locally. Same full INVOICE-sample scenario, native viewport narrowed for a readable complete Notes excerpt. No DOM or stylesheet edits.",
+      "provenance": "Application rendered locally with the complete INVOICE-sample inputs. Native viewport narrowed for the Notes excerpt; no DOM text replacement or stylesheet injection.",
       "inputs": {
         "fields": {
           "logo": "",
           "fromName": "Sample Freelancer",
           "fromEmail": "freelancer@example.com",
           "fromPhone": "",
-          "fromAddress": "Fictional sample address - no postal destination",
+          "fromAddress": "Sample address",
           "toName": "Sample Client",
           "toEmail": "client@example.com",
           "toPhone": "",
-          "toAddress": "Fictional sample client address - no postal destination",
+          "toAddress": "Sample client address",
           "invoiceNumber": "SAMPLE-016",
           "issueDate": "2026-11-16",
           "dueDate": "2026-11-30",
@@ -10230,9 +10411,9 @@
           "discount": 50,
           "currency": "USD",
           "customCurrency": "",
-          "paymentMethod": "USDC on Ethereum mainnet - sample only",
+          "paymentMethod": "USDC on Ethereum mainnet",
           "walletAddress": "",
-          "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
         },
         "steps": [
           "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -10243,13 +10424,42 @@
           "Verify both line totals, subtotal, flat discount, final total and date labels in the genuine preview, then capture. No payment action is involved."
         ]
       },
-      "visibleText": "Notes:\n\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
-      "capturedAt": "2026-10-20T16:23:31.140Z",
+      "expectedResult": {
+        "invoiceNumberDisplay": "#SAMPLE-016",
+        "issueDateDisplay": "November 16, 2026",
+        "dueDateDisplay": "November 30, 2026",
+        "lineTotalsUSD": [
+          600,
+          200
+        ],
+        "subtotalUSD": 800,
+        "taxUSD": 0,
+        "discountUSD": 50,
+        "totalUSD": 750,
+        "displaySubtotal": "$800.00",
+        "displayDiscount": "-$50.00",
+        "displayTotal": "$750.00",
+        "sampleSettlementUSDC": 750,
+        "paymentNetwork": "Ethereum mainnet",
+        "walletAddress": "",
+        "zeroTaxRowVisible": false,
+        "downloadFilename": "invoice-SAMPLE-016.pdf",
+        "sampleStatus": "Fictional teaching invoice, not payable; no automatic currency conversion"
+      },
+      "visibleText": "Notes:\n\nSample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.",
+      "capturedAt": "2026-10-22T18:03:16.564Z",
       "deviceScaleFactor": 2,
       "cssWidth": 378,
-      "cssHeight": 135,
+      "cssHeight": 110,
       "minimumTextCssPx": 17.5,
-      "browserDefaultFontSize": 20
+      "maximumTextCssPx": 20,
+      "browserDefaultFontSize": 20,
+      "quality": {
+        "noObstruction": true,
+        "textWithinCrop": true,
+        "minimumFontPass": true,
+        "pageErrors": []
+      }
     },
     {
       "file": "assets/revision/crops/E02-auditor-result-value.png",
@@ -11728,128 +11938,238 @@
     },
     {
       "file": "assets/revision/crops/RESUME-community-summary-text.png",
-      "sha256": "93c476b271678d04450d6bf08d24791da5e1cecca6940ad201e8dd1386e9517a",
-      "bytes": 21920,
+      "sha256": "94c16c87d4dc527ecf298fbd66b35473336b0cd9d19b250d21d8d3191d8e12a4",
+      "bytes": 16249,
       "width": 796,
-      "height": 248,
+      "height": 186,
       "id": "RESUME-community-summary-text",
+      "scenarioId": "RESUME-community",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/RESUME-community-summary.png",
-      "parentSha256": "371a75ea992771932a094cba2f975875c279525c969614d7c5896e013beac7d7",
+      "parentSha256": "6e7f6fb33397a442c47da464dce984e8f649fd12ac7ead6a76685bf59d198de1",
       "extract": {
         "left": 0,
-        "top": 270,
+        "top": 274,
         "width": 796,
-        "height": 248
+        "height": 186
       },
-      "visibleText": "Summary\nPractice resume example: Community contributor drafting a mock support queue and moderator handoff.",
+      "visibleText": "Summary\nCommunity contributor drafting a mock support queue and moderator handoff.",
       "minimumTextCssPx": 17.5,
       "deviceScaleFactor": 2,
       "cssWidth": 398,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 93,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/RESUME-content-summary-text.png",
-      "sha256": "a31d2fa10fadc2ca17e78109296ecfbc02be3a58b2fa21f232874362b29d2930",
-      "bytes": 22965,
+      "sha256": "91e9f24d70e602ef20603624e2f61129e545befe7687a529bff312008fbabc46",
+      "bytes": 17912,
       "width": 796,
-      "height": 248,
+      "height": 186,
       "id": "RESUME-content-summary-text",
+      "scenarioId": "RESUME-content",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/RESUME-content-summary.png",
-      "parentSha256": "6678e34467d4283e345ae0f847af608df04010e81b69de11492ee9a15adc4004",
+      "parentSha256": "e0c02da98dfa242d20fa78ffb48455370ceb5f14985b1aecbfcf5fc42253c68d",
       "extract": {
         "left": 0,
-        "top": 270,
+        "top": 274,
         "width": 796,
-        "height": 248
+        "height": 186
       },
-      "visibleText": "Summary\nPractice resume example: Content writer explaining token approvals through a worked allowance example.",
+      "visibleText": "Summary\nContent writer explaining token approvals through a worked allowance example.",
       "minimumTextCssPx": 17.5,
       "deviceScaleFactor": 2,
       "cssWidth": 398,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 93,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/RESUME-technical-summary-text.png",
-      "sha256": "4149d7022d61f55033d8205dc06d2288aa358a22e0aebacf82385fa211cd76ae",
-      "bytes": 24626,
+      "sha256": "e2cbe9358a01f21f1341b45fceb522cc2c4dfc7e71a579499825df842be6b3d8",
+      "bytes": 20348,
       "width": 796,
-      "height": 248,
+      "height": 244,
       "id": "RESUME-technical-summary-text",
+      "scenarioId": "RESUME-technical",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/RESUME-technical-summary.png",
-      "parentSha256": "d791dcfdea02a8619c63efec1501dbbadc208bbab0391c6eea96aac7bb07229d",
+      "parentSha256": "c1ff05f0124e7c3762433b37193f73f8299a815b9034051d39900ca7435ef066",
       "extract": {
         "left": 0,
-        "top": 270,
+        "top": 274,
         "width": 796,
-        "height": 248
+        "height": 244
       },
-      "visibleText": "Summary\nPractice resume example: Frontend developer building a React token-balance view with explicit connection and error states.",
+      "visibleText": "Summary\nFrontend developer building a React token-balance view with explicit connection and error states.",
       "minimumTextCssPx": 17.5,
       "deviceScaleFactor": 2,
       "cssWidth": 398,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 122,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/RESUME-junior-project-name-role.png",
-      "sha256": "fb4842fc10b4a1e41ff6be0212c4d8abb1e754896a11bd6afa12402510f83389",
-      "bytes": 12933,
+      "sha256": "479723e6bb6d57ffe7e8b464914684c266a1dd3b094429f8552585dd480a3a86",
+      "bytes": 11857,
       "width": 572,
-      "height": 220,
+      "height": 222,
       "id": "RESUME-junior-project-name-role",
+      "scenarioId": "RESUME-junior",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/RESUME-junior-fields-after.png",
-      "parentSha256": "9d5eeca9263b3992fc7ae21cb526bd4ce2e105fc58780334277d3705e4842f09",
+      "parentSha256": "3ce7d173b2844ff7a43780dcd049879cf4b809a9802360d3f9d427f1acb80aa0",
       "extract": {
         "left": 104,
-        "top": 226,
+        "top": 224,
         "width": 572,
-        "height": 220
+        "height": 222
       },
-      "visibleText": "Sample Escrow Demo. Personal practice project.",
+      "visibleText": "Sample Escrow Demo\nPersonal project",
       "minimumTextCssPx": 20,
       "deviceScaleFactor": 2,
       "cssWidth": 286,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 111,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/RESUME-junior-project-link.png",
-      "sha256": "90f545096d37a7b3efeae9b5e09d6a3bbddc34831909663cd655b1fa78c0a871",
-      "bytes": 5867,
+      "sha256": "57f95e41f7c7c9efe003bc448a3c0e816cb38d8f9faf34a9010e3ae687f5f598",
+      "bytes": 5901,
       "width": 572,
-      "height": 100,
+      "height": 102,
       "id": "RESUME-junior-project-link",
+      "scenarioId": "RESUME-junior",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/resume-builder",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/RESUME-junior-fields-after.png",
-      "parentSha256": "9d5eeca9263b3992fc7ae21cb526bd4ce2e105fc58780334277d3705e4842f09",
+      "parentSha256": "3ce7d173b2844ff7a43780dcd049879cf4b809a9802360d3f9d427f1acb80aa0",
       "extract": {
         "left": 104,
-        "top": 975,
+        "top": 912,
         "width": 572,
-        "height": 100
+        "height": 102
       },
-      "visibleText": "Link to project/contribution. Empty sample field.",
+      "visibleText": "Link to project/contribution",
       "minimumTextCssPx": 20,
       "deviceScaleFactor": 2,
       "cssWidth": 286,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 51,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/INVOICE-sample-first-row.png",
@@ -11858,9 +12178,30 @@
       "width": 996,
       "height": 262,
       "id": "INVOICE-sample-first-row",
+      "scenarioId": "INVOICE-sample",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/INVOICE-sample-items-totals.png",
       "parentSha256": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
@@ -11870,22 +12211,44 @@
         "width": 996,
         "height": 262
       },
-      "visibleText": "Description, Qty, Rate, Total. Documentation draft (hours), 12, $50.00, $600.00.",
+      "visibleText": "Description\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00",
       "minimumTextCssPx": 20,
       "deviceScaleFactor": 2,
       "cssWidth": 498,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 131,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/INVOICE-sample-subtotal.png",
-      "sha256": "c1557ee7dcff1f10af65224f676665d3e647ef6e0f4a6beff0b9528e4d097b89",
-      "bytes": 37910,
+      "sha256": "f7934e66fe5f47d173ebb438b8090dbb65ff571bf5e92349a2f7a8e59e6cd4f3",
+      "bytes": 37876,
       "width": 996,
-      "height": 570,
+      "height": 564,
       "id": "INVOICE-sample-subtotal",
+      "scenarioId": "INVOICE-sample",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/INVOICE-sample-items-totals.png",
       "parentSha256": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
@@ -11893,63 +12256,108 @@
         "left": 0,
         "top": 0,
         "width": 996,
-        "height": 570
+        "height": 564
       },
-      "visibleText": "Documentation draft (hours), 12 x $50 = $600. Revision and handoff (hours), 4 x $50 = $200. Subtotal: $800.",
+      "visibleText": "Description\nQty\nRate\nTotal\nDocumentation draft (hours)\n12\n$50.00\n$600.00\nRevision and handoff (hours)\n4\n$50.00\n$200.00\nSubtotal:\n$800.00",
       "minimumTextCssPx": 20,
       "deviceScaleFactor": 2,
       "cssWidth": 498,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssHeight": 282,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/INVOICE-sample-totals.png",
-      "sha256": "375a89b1b19535d5d34052192c482be39a3b031df0732b68d15be6621222a79c",
-      "bytes": 17309,
-      "width": 806,
-      "height": 266,
+      "sha256": "6a37860ce6132d224b504f8cd87bf2663b3e3813ea19daea6e9a36995988d472",
+      "bytes": 17210,
+      "width": 800,
+      "height": 252,
       "id": "INVOICE-sample-totals",
+      "scenarioId": "INVOICE-sample",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/INVOICE-sample-items-totals.png",
       "parentSha256": "3b131d7c6df388f613630e548a160c46ef1424a1bcbaa5998f0392402d1c52f2",
       "extract": {
-        "left": 190,
-        "top": 490,
-        "width": 806,
-        "height": 266
+        "left": 196,
+        "top": 504,
+        "width": 800,
+        "height": 252
       },
-      "visibleText": "Subtotal: $800.00. Discount: -$50.00. Total: $750.00.",
+      "visibleText": "Subtotal:\n$800.00\nDiscount:\n-$50.00\nTotal:\n$750.00",
       "minimumTextCssPx": 20,
       "deviceScaleFactor": 2,
-      "cssWidth": 403,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssWidth": 400,
+      "cssHeight": 126,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/INVOICE-sample-tax-discount.png",
-      "sha256": "afd48facd6a34ad3c112d55c1f790b93824c8370cc86fdbb69c699feefaa1548",
-      "bytes": 20630,
-      "width": 964,
-      "height": 410,
+      "sha256": "f3d97d0168359227f7e5d4cb141f69c245ee676367c1338846d32f6affbbf3b7",
+      "bytes": 20392,
+      "width": 960,
+      "height": 372,
       "id": "INVOICE-sample-tax-discount",
+      "scenarioId": "INVOICE-sample",
       "kind": "tool-capture",
       "sourceUrl": "https://hashtagweb3.com/invoice-generator",
-      "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+      "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
+      "sourceFileHashes": {
+        "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
+        "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
+        "content/learn/careers/resume.md": "7b626798d625f04faaae0efb9666e497c7908c0a4dd61c6d4c1496bbb535a2c5",
+        "src/app/globals.css": "13ced51aee8e7281c421aca7f5363e84bcab070e85dbd327cff892a70c19cb74",
+        "src/app/invoice-generator/page.tsx": "544e65f6e8c61b9fc16753aa715168cac3b8af14d0f5c78b5d1e7211b456840a",
+        "src/app/salary-calculator/page.tsx": "3cf40a771172ecf7cadbf558758eddb7d1518e67e753100f277ea4ecb09398eb",
+        "src/components/invoice-form.tsx": "c4676ef5a45adde59d76b628bf027cd34f23999118a5e8430526d9fc08a41e89",
+        "src/components/page-shell.tsx": "ccf5dfcaa3d0461335fc8a26fb842e887e6f58c35250bd58bcaf7e6db195bfa8",
+        "src/components/resume-form.tsx": "c39e59d20187a279223dc764e431a8687c9f13354fe7c2d76862498ad42e3fd9",
+        "src/components/resume-preview.tsx": "e31d428880f15f441ec8a45a278062f4ad561fa8983619388bc98977099dfced",
+        "src/components/salary-calculator-form.tsx": "50662221de76b0030321e280a5cd3a96e899b6ac0bdbfe71b63c6c3eb01b0c50",
+        "src/components/telegram-popup.tsx": "e1d1e13ca98dfcd587028997b3f1335c72d4261bdc8ea5c88b0f8b4ffe10a3ea",
+        "src/components/ui/calendar.tsx": "c53b315b0724b3c4203b3d708b8d2c325e5e8dbc022fdeeb20dd08345465e87d",
+        "src/components/ui/card.tsx": "87eda884b4306f8488777d2cd27086bed7c7701d102cd33e8ffcd7dbc403877c",
+        "src/components/ui/input.tsx": "61c05d0b9cbbda823e77085b7b9018540d8c32246f0a406bb3a649f47e22d4fa",
+        "src/components/ui/textarea.tsx": "2839cdd7544374ef37ab877ab4ed29145f458f79fc906fd30c5a052cb649adf4",
+        "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
+        "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
+      },
       "provenance": "real application rendered locally from revision",
       "derivedFrom": "assets/revision/tools/INVOICE-sample-item-fields.png",
       "parentSha256": "c486417e358b277748e34333df5578619a2051cf0bca38bf1e5139d2a54b4c79",
       "extract": {
-        "left": 136,
-        "top": 1090,
-        "width": 964,
-        "height": 410
+        "left": 138,
+        "top": 1106,
+        "width": 960,
+        "height": 372
       },
-      "visibleText": "Subtotal $800.00. Tax (%) 0. Discount (flat) 50. Total $750.00.",
+      "visibleText": "Subtotal\n$800.00\nTax (%)\nDiscount (flat)\nTotal\n$750.00\n0\n50",
       "minimumTextCssPx": 17.5,
       "deviceScaleFactor": 2,
-      "cssWidth": 482,
-      "detail": "Unretouched contiguous pixel crop. Coordinate rectangle and source hash recorded; image aspect ratio preserved. Omitted context is labeled in the authored summary, outside the screenshot."
+      "cssWidth": 480,
+      "cssHeight": 186,
+      "detail": "Contiguous crop of the application capture. Bounds measured from native elements; decoded pixels verified against the parent."
     },
     {
       "file": "assets/revision/crops/N09-04-transfer-excerpt.png",

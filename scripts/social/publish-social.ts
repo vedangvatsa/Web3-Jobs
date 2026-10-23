@@ -13,15 +13,13 @@
 
 import * as fs from 'fs';
 import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
+import { assertPublicFields, assertPublicText } from './public-copy-guard.mjs';
 import { renderOwnSiteLinks } from './platform-links.mjs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
 
-// Load .env and .env.local
 const rootDir = path.resolve(__dirname, '../../');
-dotenv.config({ path: path.join(rootDir, '.env') });
-dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
 
 const SCHEDULE_FILE = path.join(__dirname, 'content-schedule.json');
 const STATE_FILE = path.join(__dirname, 'publish-state.json');
@@ -69,7 +67,8 @@ function saveState(state: PublishState) {
  fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
 }
 
-async function postToLinkedIn(text: string, imagePath: string) {
+export async function postToLinkedIn(text: string, imagePath: string) {
+ assertPublicText(text, { field: 'linkedin.text' });
  const accessToken = process.env.LINKEDIN_ACCESS_TOKEN;
  const organizationId = process.env.LINKEDIN_ORG_ID || '89714573';
 
@@ -165,7 +164,8 @@ async function postToLinkedIn(text: string, imagePath: string) {
  return postId;
 }
 
-async function postToInstagram(text: string, imagePath: string) {
+export async function postToInstagram(text: string, imagePath: string) {
+ assertPublicText(text, { field: 'instagram.caption', kind: 'caption' });
  const accessToken = process.env.INSTAGRAM_ACCESS_TOKEN;
  const igUserId = process.env.INSTAGRAM_USER_ID;
 
@@ -371,7 +371,8 @@ async function uploadMediaToX(imagePath: string): Promise<string> {
 
 // --- X/Twitter post (OAuth 1.0a for both tweets and media) ---
 
-async function postToTwitter(text: string, imagePath: string) {
+export async function postToTwitter(text: string, imagePath: string) {
+ assertPublicText(text, { field: 'twitter.text' });
  const consumerKey = process.env.X_CONSUMER_KEY;
  const consumerSecret = process.env.X_CONSUMER_SECRET;
  const oauthToken = process.env.X_ACCESS_TOKEN;
@@ -381,8 +382,7 @@ async function postToTwitter(text: string, imagePath: string) {
  throw new Error('X API credentials not set (X_CONSUMER_KEY, X_CONSUMER_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET)');
  }
 
- // Strip hashtags for X (keep it clean)
- const tweetText = text.replace(/#\w+/g, '').trim();
+ const tweetText = text;
 
  // Upload image if available
  let mediaId: string | null = null;
@@ -433,7 +433,8 @@ async function postToTwitter(text: string, imagePath: string) {
 
 // --- Bluesky / AT Protocol ---
 
-async function postToBluesky(text: string, imagePath: string) {
+export async function postToBluesky(text: string, imagePath: string) {
+ assertPublicText(text, { field: 'bluesky.text' });
  const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
  const appPassword = process.env.BLUESKY_APP_PASSWORD;
 
@@ -532,7 +533,8 @@ async function postToBluesky(text: string, imagePath: string) {
 
 // --- Threads API ---
 
-async function postToThreads(text: string, imagePath: string, remoteImageUrl?: string) {
+export async function postToThreads(text: string, imagePath: string, remoteImageUrl?: string) {
+  assertPublicText(text, { field: 'threads.text' });
   const accessToken = process.env.THREADS_ACCESS_TOKEN;
   const threadsUserId = process.env.THREADS_USER_ID;
 
@@ -549,6 +551,7 @@ async function postToThreads(text: string, imagePath: string, remoteImageUrl?: s
   }
 
   const threadsText = renderOwnSiteLinks(text, 'threads');
+  assertPublicText(threadsText, { field: 'threads.text' });
 
   const urlParams = new URLSearchParams();
   urlParams.append('access_token', accessToken);
@@ -869,6 +872,8 @@ async function main() {
  }
 
   candidateText = renderOwnSiteLinks(candidateText, platform);
+  assertPublicFields(candidate, { field: `content-schedule[${candidate.id}]` });
+  assertPublicText(candidateText, { field: `content-schedule[${candidate.id}].${platform}.text` });
  
  console.log(`🔍 Pre-flight check for ${candidate.id} on ${platform}...`);
  const alreadyPosted = await checkIfAlreadyPostedOnPlatform(platform, candidateText);
@@ -910,6 +915,7 @@ async function main() {
 
  try {
  assertEvergreenContent({post, text});
+ assertPublicFields({ post, text }, { field: `content-schedule[${post.id}]` });
  if (platform === 'linkedin') {
  await postToLinkedIn(text, imagePath);
  } else if (platform === 'instagram') {
@@ -1005,6 +1011,7 @@ async function scheduleToBuffer(token: string, orgId: string) {
 
  console.log(`Scheduling ${post.id} for ${cid} at ${scheduledAt}`);
  assertEvergreenContent({post, text});
+ assertPublicFields({ post, text }, { field: `content-schedule[${post.id}].buffer` });
  const res = await fetch(graphqlUrl, {
  method: 'POST',
  headers: {
@@ -1040,13 +1047,17 @@ async function scheduleToBuffer(token: string, orgId: string) {
  }
 }
 
-if (process.argv.includes('--buffer')) {
- const token = process.env.BUFFER_ACCESS_TOKEN;
- if (!token) {
-  throw new Error('Buffer Access Token missing (BUFFER_ACCESS_TOKEN)');
+if (require.main === module) {
+ dotenv.config({ path: path.join(rootDir, '.env') });
+ dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
+ if (process.argv.includes('--buffer')) {
+  const token = process.env.BUFFER_ACCESS_TOKEN;
+  if (!token) {
+   throw new Error('Buffer Access Token missing (BUFFER_ACCESS_TOKEN)');
+  }
+  const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
+  scheduleToBuffer(token, orgId).catch(error => { console.error(error); process.exitCode = 1; });
+ } else {
+  main().catch(error => { console.error(error); process.exitCode = 1; });
  }
- const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
- scheduleToBuffer(token, orgId).catch(console.error);
-} else {
- main();
 }

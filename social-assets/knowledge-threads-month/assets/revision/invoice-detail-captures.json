@@ -1,11 +1,12 @@
 [
   {
     "id": "INVOICE-sample-notes-readable",
+    "scenarioId": "INVOICE-sample",
     "file": "assets/revision/detail/invoice-notes-readable.png",
     "kind": "tool-capture",
     "sourceUrl": "https://hashtagweb3.com/invoice-generator",
     "localUrl": "http://127.0.0.1:3102/invoice-generator",
-    "sourceRevision": "9d227076abf03504c4654ce01832d7ed98b3d51b",
+    "sourceRevision": "d0b18bb7f555c29c6974c382f63b5ede8a92f35d",
     "sourceFileHashes": {
       "content/articles/10-dos-and-donts-for-web3-resume.md": "6ae0da7068bdb60b11ee2419b8f7c3556daf30464a50272992718796eb65febd",
       "content/learn/careers/interviews.md": "01672ce311168de16e0359c4d5683bf36cea27360066dbe29bf79af06c2bebff",
@@ -26,18 +27,18 @@
       "src/components/web3-career-quiz.tsx": "818fbb44d820a8977f074b889309df0f92fafaa5eaedd826d7016dc81b77348e",
       "src/lib/quiz.ts": "140cbb090978406b86a2336cc43162d9ff1e7c597d575c773030fe30ec08a622"
     },
-    "provenance": "Real application rendered locally. Same full INVOICE-sample scenario, native viewport narrowed for a readable complete Notes excerpt. No DOM or stylesheet edits.",
+    "provenance": "Application rendered locally with the complete INVOICE-sample inputs. Native viewport narrowed for the Notes excerpt; no DOM text replacement or stylesheet injection.",
     "inputs": {
       "fields": {
         "logo": "",
         "fromName": "Sample Freelancer",
         "fromEmail": "freelancer@example.com",
         "fromPhone": "",
-        "fromAddress": "Fictional sample address - no postal destination",
+        "fromAddress": "Sample address",
         "toName": "Sample Client",
         "toEmail": "client@example.com",
         "toPhone": "",
-        "toAddress": "Fictional sample client address - no postal destination",
+        "toAddress": "Sample client address",
         "invoiceNumber": "SAMPLE-016",
         "issueDate": "2026-11-16",
         "dueDate": "2026-11-30",
@@ -57,9 +58,9 @@
         "discount": 50,
         "currency": "USD",
         "customCurrency": "",
-        "paymentMethod": "USDC on Ethereum mainnet - sample only",
+        "paymentMethod": "USDC on Ethereum mainnet",
         "walletAddress": "",
-        "notes": "Sample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank."
+        "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
       },
       "steps": [
         "Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.",
@@ -70,16 +71,45 @@
         "Verify both line totals, subtotal, flat discount, final total and date labels in the genuine preview, then capture. No payment action is involved."
       ]
     },
-    "visibleText": "Notes:\n\nSample freelance project, fictional parties. USD 750 billed; sample settlement 750 USDC at an agreed 1 USD = 1 USDC. Not payable. Wallet intentionally blank.",
-    "capturedAt": "2026-10-20T16:23:31.140Z",
-    "sha256": "1d84cfe4e4e059a65321fc59b751c21312c1981b9152ad6948f37fc15ab4be83",
+    "expectedResult": {
+      "invoiceNumberDisplay": "#SAMPLE-016",
+      "issueDateDisplay": "November 16, 2026",
+      "dueDateDisplay": "November 30, 2026",
+      "lineTotalsUSD": [
+        600,
+        200
+      ],
+      "subtotalUSD": 800,
+      "taxUSD": 0,
+      "discountUSD": 50,
+      "totalUSD": 750,
+      "displaySubtotal": "$800.00",
+      "displayDiscount": "-$50.00",
+      "displayTotal": "$750.00",
+      "sampleSettlementUSDC": 750,
+      "paymentNetwork": "Ethereum mainnet",
+      "walletAddress": "",
+      "zeroTaxRowVisible": false,
+      "downloadFilename": "invoice-SAMPLE-016.pdf",
+      "sampleStatus": "Fictional teaching invoice, not payable; no automatic currency conversion"
+    },
+    "visibleText": "Notes:\n\nSample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable.",
+    "capturedAt": "2026-10-22T18:03:16.564Z",
+    "sha256": "627b963e4bb9f81870e897df88df60cedba479b41bd3d21932197185bdd31ae8",
     "width": 756,
-    "height": 270,
-    "bytes": 41219,
+    "height": 220,
+    "bytes": 33873,
     "deviceScaleFactor": 2,
     "cssWidth": 378,
-    "cssHeight": 135,
+    "cssHeight": 110,
     "minimumTextCssPx": 17.5,
-    "browserDefaultFontSize": 20
+    "maximumTextCssPx": 20,
+    "browserDefaultFontSize": 20,
+    "quality": {
+      "noObstruction": true,
+      "textWithinCrop": true,
+      "minimumFontPass": true,
+      "pageErrors": []
+    }
   }
 ]

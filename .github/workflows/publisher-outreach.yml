@@ -1,0 +1,46 @@
+name: Publisher onboarding inquiry
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        type: choice
+        options: [msn, newsbreak]
+        required: true
+      mode:
+        type: choice
+        options: [preview, send, readback]
+        default: preview
+        required: true
+
+concurrency:
+  group: publisher-onboarding-inquiry
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  inquiry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Preview, send once, or inspect known receipt
+        env:
+          PUBLISHER_TARGET: ${{ inputs.target }}
+          PUBLISHER_MODE: ${{ inputs.mode }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/publisher-outreach.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: publisher-inquiry-${{ inputs.target }}-${{ github.run_id }}
+          path: publisher-outreach-result.json
+          if-no-files-found: ignore

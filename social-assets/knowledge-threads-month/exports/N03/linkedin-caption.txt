@@ -1,19 +1,25 @@
-A view function can still cost gas, and a packed struct can still cost more to update.
-Five Solidity interview questions from our bank, with short answers for the EVM and Solidity 0.8.x.
+A view function can cost gas, and a packed struct can cost more to update.
+
+Five Solidity interview questions with short answers for the EVM and Solidity 0.8.x.
 
 1. Q: How do storage, memory and calldata differ?
+
 A: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.
 
-2. Q: What is a modifier? Give an example.
-A: Reusable logic around a function body. onlyOwner can run require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.
+2. Q: What is a modifier?
+
+A: Reusable logic around a function body. Example: onlyOwner runs require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.
 
 3. Q: What are view and pure for?
+
 A: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.
 
-4. Q: How does delegatecall enable an upgradeable proxy?
+4. Q: How does delegatecall enable upgrades?
+
 A: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.
 
 5. Q: How should you order struct fields for storage packing?
+
 A: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.
 
 Full resource: hashtagweb3.com/interview-questions/li

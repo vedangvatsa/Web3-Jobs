@@ -1,13 +1,25 @@
-Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.
+Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.
 
-1. Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).
+Safety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.
 
-2. Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).
+1. Chiang Mai, Thailand: site safety 8/10; estimated USD 900/month, including USD 350 rent and USD 120 coworking.
 
-3. Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).
+2026 Q1 broadband snapshot: 335.9 down / 274.1 up Mbps.
 
-4. Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.
+2. Bansko, Bulgaria: site safety 8/10; estimated USD 1,000/month, including USD 380 rent and USD 150 coworking.
 
-5. Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).
+2026 Q1 broadband snapshot: 122.4 down / 89.2 up Mbps.
+
+3. Krakow, Poland: site safety 8/10; estimated USD 1,400/month, including USD 550 rent and USD 200 coworking.
+
+2026 Q1 broadband snapshot: 317.2 down / 129.5 up Mbps.
+
+4. Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated.
+
+2026 Q1 broadband snapshot: 304.7 down / 255.4 up Mbps. Same budget as Krakow; upload is 125.9 Mbps higher.
+
+5. Tallinn, Estonia: site safety 8.2/10; estimated USD 1,500/month, including USD 600 rent, at the budget ceiling.
+
+2026 Q1 broadband snapshot: 183.2 down / 149.7 up Mbps.
 
 Full resource: hashtagweb3.com/nomads/ig

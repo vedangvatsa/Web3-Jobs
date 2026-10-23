@@ -1,13 +1,25 @@
-The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.
+The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.
 
-1. 1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.
+Check your accommodation's connection separately.
 
-2. 2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.
+1. 1. Singapore: 576.9 Mbps down / 453.7 up in the 2026 Q1 snapshot, leading the directory on both measures.
 
-3. 3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.
+Estimated budget: USD 3,000/month, including USD 1,400 rent.
 
-4. 4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.
+2. 2. Paris, France: 475.9 Mbps down / 346 up in the 2026 Q1 snapshot.
 
-5. 5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.
+Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.
+
+3. 3. Shanghai, China: 449.9 Mbps down / 120.3 up in the 2026 Q1 snapshot. Estimated budget: USD 1,800/month.
+
+Third on download, but the lowest upload in this five-city group.
+
+4. 4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in the 2026 Q1 snapshot.
+
+Estimated budget: USD 900/month, including USD 350 rent. That's USD 2,100/month below Singapore's estimate.
+
+5. 5. Santiago, Chile: 429.2 Mbps down / 369.1 up in the 2026 Q1 snapshot.
+
+Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this snapshot.
 
 Full resource: hashtagweb3.com/nomads/li

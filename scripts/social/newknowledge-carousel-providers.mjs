@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { CAROUSEL_PLATFORMS } from './newknowledge-carousel-state.mjs';
+import { assertPublicFields, assertPublicCarouselCopy } from './public-copy-guard.mjs';
 
 export const CAROUSEL_ACCOUNTS = Object.freeze({
   linkedin: Object.freeze({ channelId: '69c5b139af47dacb695b5feb', service: 'linkedin', serviceId: '89714573', profile: 'https://www.linkedin.com/company/hashtagweb3/' }),
@@ -57,10 +58,11 @@ export function assertCarouselCaption(caption, platform) {
   assert.ok((caption.match(/#[\p{L}\p{N}_]+/gu) || []).length <= 5, 'Carousel caption exceeds five hashtags');
 }
 
-export function bufferCarouselInput(spec) {
+export function bufferCarouselInput(spec, { publicCopy = true } = {}) {
   const target = targetFor(spec.platform);
   assert.deepEqual(spec.target, target, 'Carousel target changed');
   assertCarouselCaption(spec.caption, spec.platform);
+  if (publicCopy) assertPublicFields(spec, { field: `${spec.platform}/${spec.threadId || 'carousel'}` });
   const input = { channelId: target.channelId, text: spec.caption, schedulingType: 'automatic', mode: 'shareNow', needsApproval: false };
   if (spec.platform === 'linkedin') {
     assert.ok(spec.title?.trim() && spec.pdf?.url && spec.thumbnail?.url, 'Document URL, thumbnail and title required');
@@ -168,6 +170,7 @@ export function carouselProviderClient(platform, { env = process.env, fetcher = 
       assert.ok(!readOnly, 'Read-only mode forbids Buffer mutations');
       assert.equal(spec.platform, platform);
       assert.equal(typeof onPostId, 'function', 'Known-ID checkpoint callback required');
+      assertPublicCarouselCopy(spec);
       const { createPost } = await buffer('mutation CreateCarousel($input:CreatePostInput!) {createPost(input:$input) {__typename ... on PostActionSuccess {post {id}} ... on MutationError {message}}}', { input: bufferCarouselInput(spec) }, onPostId);
       assert.ok(createPost?.__typename === 'PostActionSuccess' && typeof createPost.post?.id === 'string' && /^[\w-]+$/.test(createPost.post.id), 'Buffer create has no confirmed ID; reconcile without resending');
       return createPost.post.id;

@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.",
-        "alt": "Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded.",
+        "text": "Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.\n\nRanked by walkability, then download, highest first. Missing walk scores excluded.",
+        "alt": "City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded.",
         "image": "social-assets/knowledge-threads-month/images/E10-01.jpg"
       },
       {
         "number": 2,
-        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated. Fixed broadband: 252.9 down / 153.9 up Mbps (2026 Q1). Highest walk score among cities passing all three filters.",
-        "alt": "Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10",
+        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 252.9 down / 153.9 up Mbps. Highest walk score among cities passing all three filters.",
+        "alt": "Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-02.jpg"
       },
       {
         "number": 3,
-        "text": "2. Budapest, Hungary: site walkability 8.5/10; USD 1,400/month estimated. Fixed broadband: 344.5 down / 165.3 up Mbps (2026 Q1). It is USD 400 below the ceiling and wins the walk-score tie with Osaka on download.",
-        "alt": "Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10",
+        "text": "2. Budapest, Hungary: site walkability 8.5/10; estimated USD 1,400/month, USD 400 below the ceiling.\n\n2026 Q1 broadband snapshot: 344.5 down / 165.3 up Mbps. Download breaks the walk-score tie with Osaka.",
+        "alt": "Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-03.jpg"
       },
       {
         "number": 4,
-        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated. Fixed broadband: 210.5 down / 175.2 up Mbps (2026 Q1). It matches Budapest's walk score, with lower download but 9.9 Mbps higher upload.",
-        "alt": "Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10",
+        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 210.5 down / 175.2 up Mbps. Same walk score as Budapest, with lower download but 9.9 Mbps higher upload.",
+        "alt": "Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-04.jpg"
       },
       {
         "number": 5,
-        "text": "4. Taipei, Taiwan: site walkability 8/10; USD 1,800/month estimated. Fixed broadband: 259.7 down / 166.8 up Mbps (2026 Q1). The directory also rates transit at 8.8/10.",
-        "alt": "Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10",
+        "text": "4. Taipei, Taiwan: site walkability 8/10 and transit 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 259.7 down / 166.8 up Mbps.",
+        "alt": "Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-05.jpg"
       },
       {
         "number": 6,
-        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/x",
-        "alt": "Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10",
+        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 359.9 down / 225.5 up Mbps. Fastest download of these five; fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/x",
+        "alt": "Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.",
-        "alt": "Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded.",
+        "text": "Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.\n\nRanked by walkability, then download, highest first. Missing walk scores excluded.",
+        "alt": "City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded.",
         "image": "social-assets/knowledge-threads-month/images/E10-01.jpg"
       },
       {
         "number": 2,
-        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated. Fixed broadband: 252.9 down / 153.9 up Mbps (2026 Q1). Highest walk score among cities passing all three filters.",
-        "alt": "Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10",
+        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 252.9 down / 153.9 up Mbps. Highest walk score among cities passing all three filters.",
+        "alt": "Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-02.jpg"
       },
       {
         "number": 3,
-        "text": "2. Budapest, Hungary: site walkability 8.5/10; USD 1,400/month estimated. Fixed broadband: 344.5 down / 165.3 up Mbps (2026 Q1). It is USD 400 below the ceiling and wins the walk-score tie with Osaka on download.",
-        "alt": "Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10",
+        "text": "2. Budapest, Hungary: site walkability 8.5/10; estimated USD 1,400/month, USD 400 below the ceiling.\n\n2026 Q1 broadband snapshot: 344.5 down / 165.3 up Mbps. Download breaks the walk-score tie with Osaka.",
+        "alt": "Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-03.jpg"
       },
       {
         "number": 4,
-        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated. Fixed broadband: 210.5 down / 175.2 up Mbps (2026 Q1). It matches Budapest's walk score, with lower download but 9.9 Mbps higher upload.",
-        "alt": "Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10",
+        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 210.5 down / 175.2 up Mbps. Same walk score as Budapest, with lower download but 9.9 Mbps higher upload.",
+        "alt": "Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-04.jpg"
       },
       {
         "number": 5,
-        "text": "4. Taipei, Taiwan: site walkability 8/10; USD 1,800/month estimated. Fixed broadband: 259.7 down / 166.8 up Mbps (2026 Q1). The directory also rates transit at 8.8/10.",
-        "alt": "Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10",
+        "text": "4. Taipei, Taiwan: site walkability 8/10 and transit 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 259.7 down / 166.8 up Mbps.",
+        "alt": "Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-05.jpg"
       },
       {
         "number": 6,
-        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/th",
-        "alt": "Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10",
+        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 359.9 down / 225.5 up Mbps. Fastest download of these five; fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/th",
+        "alt": "Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.\n\n1. 1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated. Fixed broadband: 252.9 down / 153.9 up Mbps (2026 Q1). Highest walk score among cities passing all three filters.\n\n2. 2. Budapest, Hungary: site walkability 8.5/10; USD 1,400/month estimated. Fixed broadband: 344.5 down / 165.3 up Mbps (2026 Q1). It is USD 400 below the ceiling and wins the walk-score tie with Osaka on download.\n\n3. 3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated. Fixed broadband: 210.5 down / 175.2 up Mbps (2026 Q1). It matches Budapest's walk score, with lower download but 9.9 Mbps higher upload.\n\n4. 4. Taipei, Taiwan: site walkability 8/10; USD 1,800/month estimated. Fixed broadband: 259.7 down / 166.8 up Mbps (2026 Q1). The directory also rates transit at 8.8/10.\n\n5. 5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.\n\nFull resource: hashtagweb3.com/nomads/fb",
+    "caption": "Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.\n\nRanked by walkability, then download, highest first. Missing walk scores excluded.\n\n1. 1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 252.9 down / 153.9 up Mbps. Highest walk score among cities passing all three filters.\n\n2. 2. Budapest, Hungary: site walkability 8.5/10; estimated USD 1,400/month, USD 400 below the ceiling.\n\n2026 Q1 broadband snapshot: 344.5 down / 165.3 up Mbps. Download breaks the walk-score tie with Osaka.\n\n3. 3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 210.5 down / 175.2 up Mbps. Same walk score as Budapest, with lower download but 9.9 Mbps higher upload.\n\n4. 4. Taipei, Taiwan: site walkability 8/10 and transit 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 259.7 down / 166.8 up Mbps.\n\n5. 5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 359.9 down / 225.5 up Mbps. Fastest download of these five; fifth in the walkability-first ranking.\n\nFull resource: hashtagweb3.com/nomads/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E10-01.jpg",
-        "sha256": "24afd7d2fdfa752d054d7100126c6b4789d71ad321678197198bbd04cae1c83a",
-        "bytes": 211761,
+        "sha256": "c6b11fa14d45bd4e00712c33c923905099d1fb44400b29c6357896b8601f6ffa",
+        "bytes": 219117,
         "width": 1200,
         "height": 1500,
-        "alt": "Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded."
+        "alt": "City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-02.jpg",
-        "sha256": "6919f02eebd40907f985fb2902190b38eaaf021e009404a73869386b2fe51f35",
-        "bytes": 189946,
+        "sha256": "88965adf16930f129ef0110ec2b324ce3e362c57d41621c1889a370fbce598b4",
+        "bytes": 194076,
         "width": 1200,
         "height": 1500,
-        "alt": "Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10"
+        "alt": "Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-03.jpg",
-        "sha256": "7c0389f17133afeb47bfe9315923380a10694dbd0bb63eaa8b83353bf8126a9f",
-        "bytes": 156130,
+        "sha256": "36e4ae8d7107fb247218acebd46c39245d6056418c8749b76839fd66b959f94e",
+        "bytes": 160596,
         "width": 1200,
         "height": 1500,
-        "alt": "Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10"
+        "alt": "Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-04.jpg",
-        "sha256": "984f73fac739cb88e9dcd34aae2c01c36c0e5c05a3a628e6ca3adf60986c3ac2",
-        "bytes": 243962,
+        "sha256": "b91b9621ac9008b4884b699e57923c8dd0c0caa2e85e5a7f0a64e1aaacec831f",
+        "bytes": 244481,
         "width": 1200,
         "height": 1500,
-        "alt": "Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10"
+        "alt": "Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-05.jpg",
-        "sha256": "6c8f6585b2ccebd29d1bf38c3283e31de19c85eeab42939360014c9839a8f4de",
-        "bytes": 159806,
+        "sha256": "2657e2eb421954ca4f967f8ea5d4641850a35a352296095b26a5588573fe90c9",
+        "bytes": 163323,
         "width": 1200,
         "height": 1500,
-        "alt": "Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10"
+        "alt": "Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-06.jpg",
-        "sha256": "ee09f3be4f47073e3921e167ecfc20158a55ebeaa6697e9a8a0d88c0925d0417",
-        "bytes": 227042,
+        "sha256": "3a2e2ab098943f26bb512bdcb0cbf348f09f0e411ee33f5e30ad3154ad411c36",
+        "bytes": 227699,
         "width": 1200,
         "height": 1500,
-        "alt": "Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10"
+        "alt": "Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload."
       }
     ]
   },
   "telegram": {
-    "caption": "USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.\n\nhashtagweb3.com/nomads/tg",
+    "caption": "Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.\n\nRanked by walkability, then download, highest first. Missing walk scores excluded.\n\nhashtagweb3.com/nomads/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E10-01.jpg",
-        "sha256": "24afd7d2fdfa752d054d7100126c6b4789d71ad321678197198bbd04cae1c83a",
-        "bytes": 211761,
+        "sha256": "c6b11fa14d45bd4e00712c33c923905099d1fb44400b29c6357896b8601f6ffa",
+        "bytes": 219117,
         "width": 1200,
         "height": 1500,
-        "alt": "Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded."
+        "alt": "City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-02.jpg",
-        "sha256": "6919f02eebd40907f985fb2902190b38eaaf021e009404a73869386b2fe51f35",
-        "bytes": 189946,
+        "sha256": "88965adf16930f129ef0110ec2b324ce3e362c57d41621c1889a370fbce598b4",
+        "bytes": 194076,
         "width": 1200,
         "height": 1500,
-        "alt": "Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10"
+        "alt": "Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-03.jpg",
-        "sha256": "7c0389f17133afeb47bfe9315923380a10694dbd0bb63eaa8b83353bf8126a9f",
-        "bytes": 156130,
+        "sha256": "36e4ae8d7107fb247218acebd46c39245d6056418c8749b76839fd66b959f94e",
+        "bytes": 160596,
         "width": 1200,
         "height": 1500,
-        "alt": "Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10"
+        "alt": "Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-04.jpg",
-        "sha256": "984f73fac739cb88e9dcd34aae2c01c36c0e5c05a3a628e6ca3adf60986c3ac2",
-        "bytes": 243962,
+        "sha256": "b91b9621ac9008b4884b699e57923c8dd0c0caa2e85e5a7f0a64e1aaacec831f",
+        "bytes": 244481,
         "width": 1200,
         "height": 1500,
-        "alt": "Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10"
+        "alt": "Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-05.jpg",
-        "sha256": "6c8f6585b2ccebd29d1bf38c3283e31de19c85eeab42939360014c9839a8f4de",
-        "bytes": 159806,
+        "sha256": "2657e2eb421954ca4f967f8ea5d4641850a35a352296095b26a5588573fe90c9",
+        "bytes": 163323,
         "width": 1200,
         "height": 1500,
-        "alt": "Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10"
+        "alt": "Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E10-06.jpg",
-        "sha256": "ee09f3be4f47073e3921e167ecfc20158a55ebeaa6697e9a8a0d88c0925d0417",
-        "bytes": 227042,
+        "sha256": "3a2e2ab098943f26bb512bdcb0cbf348f09f0e411ee33f5e30ad3154ad411c36",
+        "bytes": 227699,
         "width": 1200,
         "height": 1500,
-        "alt": "Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10"
+        "alt": "Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "USD 1,800/month ceiling; site walkability >=7.5/10; 2026 Q1 download >=200 Mbps. Exclude missing walk scores. Top 5 eligible cities, sorted by walkability then download, highest first. Costs are directory estimates.",
+        "text": "Five cities with estimated costs <=USD 1,800/month, site walkability >=7.5/10 and 2026 Q1 download >=200 Mbps.\n\nRanked by walkability, then download, highest first. Missing walk scores excluded.",
         "image": "social-assets/knowledge-threads-month/images/E10-01.jpg",
-        "alt": "Walkable, connected cities. Real city photograph strips with an authored ranking table. 2026 Q1 download · USD/month estimates; 1. Prague; 8.8/10 walk · 252.9 Mbps · USD 1,800; 2. Budapest; 8.5/10 walk · 344.5 Mbps · USD 1,400; 3. Osaka; 8.5/10 walk · 210.5 Mbps · USD 1,800; 4. Taipei; 8/10 walk · 259.7 Mbps · USD 1,800; 5. Porto; 7.8/10 walk · 359.9 Mbps · USD 1,800; Site walk ≥7.5; down ≥200 Mbps; cost ≤USD 1,800. Missing walk scores excluded."
+        "alt": "City photos ranked by site walkability, then 2026 Q1 download speed, with monthly USD estimates: Prague 8.8/10, 252.9 Mbps, 1,800; Budapest 8.5/10, 344.5 Mbps, 1,400; Osaka 8.5/10, 210.5 Mbps, 1,800; Taipei 8/10, 259.7 Mbps, 1,800; Porto 7.8/10, 359.9 Mbps, 1,800. Filters: walkability at least 7.5, download at least 200 Mbps, cost no more than USD 1,800. Missing walk scores excluded."
       },
       {
-        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated. Fixed broadband: 252.9 down / 153.9 up Mbps (2026 Q1). Highest walk score among cities passing all three filters.",
+        "text": "1. Prague, Czech Republic: site walkability 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 252.9 down / 153.9 up Mbps. Highest walk score among cities passing all three filters.",
         "image": "social-assets/knowledge-threads-month/images/E10-02.jpg",
-        "alt": "Prague, Czech Republic. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.8 /10; USD/month estimate; 1,800; Download; 252.9 Mbps; Upload; 153.9 Mbps; Walkability 8.8/10"
+        "alt": "Prague, Czech Republic, photo and directory metrics. Site walkability: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 252.9 Mbps download and 153.9 Mbps upload."
       },
       {
-        "text": "2. Budapest, Hungary: site walkability 8.5/10; USD 1,400/month estimated. Fixed broadband: 344.5 down / 165.3 up Mbps (2026 Q1). It is USD 400 below the ceiling and wins the walk-score tie with Osaka on download.",
+        "text": "2. Budapest, Hungary: site walkability 8.5/10; estimated USD 1,400/month, USD 400 below the ceiling.\n\n2026 Q1 broadband snapshot: 344.5 down / 165.3 up Mbps. Download breaks the walk-score tie with Osaka.",
         "image": "social-assets/knowledge-threads-month/images/E10-03.jpg",
-        "alt": "Budapest, Hungary. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,400; Download; 344.5 Mbps; Upload; 165.3 Mbps; Walkability 8.5/10"
+        "alt": "Budapest, Hungary, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 344.5 Mbps download and 165.3 Mbps upload."
       },
       {
-        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated. Fixed broadband: 210.5 down / 175.2 up Mbps (2026 Q1). It matches Budapest's walk score, with lower download but 9.9 Mbps higher upload.",
+        "text": "3. Osaka, Japan: site walkability 8.5/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 210.5 down / 175.2 up Mbps. Same walk score as Budapest, with lower download but 9.9 Mbps higher upload.",
         "image": "social-assets/knowledge-threads-month/images/E10-04.jpg",
-        "alt": "Osaka, Japan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8.5 /10; USD/month estimate; 1,800; Download; 210.5 Mbps; Upload; 175.2 Mbps; Walkability 8.5/10"
+        "alt": "Osaka, Japan, photo and directory metrics. Site walkability: 8.5/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 210.5 Mbps download and 175.2 Mbps upload."
       },
       {
-        "text": "4. Taipei, Taiwan: site walkability 8/10; USD 1,800/month estimated. Fixed broadband: 259.7 down / 166.8 up Mbps (2026 Q1). The directory also rates transit at 8.8/10.",
+        "text": "4. Taipei, Taiwan: site walkability 8/10 and transit 8.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 259.7 down / 166.8 up Mbps.",
         "image": "social-assets/knowledge-threads-month/images/E10-05.jpg",
-        "alt": "Taipei, Taiwan. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 8 /10; USD/month estimate; 1,800; Download; 259.7 Mbps; Upload; 166.8 Mbps; Walkability 8/10; transit 8.8/10"
+        "alt": "Taipei, Taiwan, photo and directory metrics. Site walkability: 8/10; transit: 8.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 259.7 Mbps download and 166.8 Mbps upload."
       },
       {
-        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated. Fixed broadband: 359.9 down / 225.5 up Mbps (2026 Q1). Fastest download among these five, but fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/bsky",
+        "text": "5. Porto, Portugal: site walkability 7.8/10; USD 1,800/month estimated.\n\n2026 Q1 broadband snapshot: 359.9 down / 225.5 up Mbps. Fastest download of these five; fifth in the walkability-first ranking.\n\nhashtagweb3.com/nomads/bsky",
         "image": "social-assets/knowledge-threads-month/images/E10-06.jpg",
-        "alt": "Porto, Portugal. Real city photograph above authored metric labels. Site walkability /10 · Broadband: 2026 Q1; Site walkability; 7.8 /10; USD/month estimate; 1,800; Download; 359.9 Mbps; Upload; 225.5 Mbps; Walkability 7.8/10"
+        "alt": "Porto, Portugal, photo and directory metrics. Site walkability: 7.8/10. Estimated monthly cost: USD 1,800. Fixed-broadband snapshot for 2026 Q1: 359.9 Mbps download and 225.5 Mbps upload."
       }
     ]
   }

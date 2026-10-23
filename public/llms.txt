@@ -53,6 +53,8 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - Events: `https://hashtagweb3.com/data/events-runtime.json`
 - Glossary: `https://hashtagweb3.com/data/glossary-runtime.json`
 - News: `https://hashtagweb3.com/data/news-cache.json`
+- Original news RSS: `https://hashtagweb3.com/news/feed.xml` (latest 100 published native news articles, newest first).
+- News sitemap: `https://hashtagweb3.com/news/sitemap.xml` (native news published in the last 48 hours).
 - Articles index: `https://hashtagweb3.com/data/articles-index.json`
 - Companies: `https://hashtagweb3.com/data/companies-runtime.json`
 - Nomad city index: `https://hashtagweb3.com/data/nomads/cities.json`; details: `/data/nomads/cities/{slug}.json`

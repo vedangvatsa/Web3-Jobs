@@ -6,9 +6,10 @@ import {promisify} from 'node:util';
 import sharp from 'sharp';
 import {chromium} from 'playwright';
 import {root, repo, executablePath, hash, readJSON, writeJSON, protect, serve} from './revision-lib.mjs';
+import {assertPublicThread, assertPublicImageCopy} from '../../scripts/social/public-copy-guard.mjs';
 
 const run=promisify(execFile);
-const {guard,baseline}=await protect();
+const {guard,baseline,published}=await protect();
 const manifest=await readJSON('image-manifest.json'),content=await readJSON('content.json'),calendar=await readJSON('calendar.json'),checks=await readJSON('assets/render-checks.json');
 const contentSha256=hash(await fs.readFile(path.join(root,'content.json'))),calendarSha256=hash(await fs.readFile(path.join(root,'calendar.json')));
 assert.equal(manifest.contentSha256,contentSha256,'Current manuscript hash');
@@ -20,17 +21,18 @@ assert.equal(content.threads.length,30);assert.equal(manifest.images.length,180)
 assert.equal(new Set(manifest.images.map(i=>i.sha256)).size,180);
 const files=await fs.readdir(path.join(root,'images'));assert.equal(files.length,180);
 assert(files.every(f=>/^[CEN]\d{2}-0[1-6]\.jpg$/.test(f)));
-const replacements=manifest.images.filter(i=>i.threadSequence>3);assert.equal(replacements.length,162);
+const replacements=manifest.images.filter(i=>i.threadSequence>5);assert.equal(replacements.length,150);
 let totalBytes=0,maxBytes=0,minBytes=Infinity;
 const proofFiles=new Map(),sourceProof=[],contactSheets=[];
 const assetRegistry=(await readJSON('assets/revision/visual-assets.json')).assets;
 for(const thread of content.threads) {
   assert.equal(thread.posts.length,6);
+  if(thread.sequence>5)assertPublicThread(thread);
   const members=manifest.images.filter(i=>i.threadId===thread.id);
   assert.deepEqual(members.map(i=>i.postNumber),[1,2,3,4,5,6]);
   const sheet=`contact-sheets/${thread.id}.jpg`,sheetBytes=await fs.readFile(path.join(root,sheet));
   await sharp(sheetBytes,{failOn:'error'}).raw().toBuffer();
-  contactSheets.push({file:sheet,sha256:hash(sheetBytes),publishedHistory:thread.sequence<=3});
+  contactSheets.push({file:sheet,sha256:hash(sheetBytes),publishedHistory:thread.sequence<=5});
   for(const image of members) {
     const bytes=await fs.readFile(path.join(root,image.path));
     const metadata=await sharp(bytes,{failOn:'error'}).metadata();
@@ -39,6 +41,7 @@ for(const thread of content.threads) {
     assert.equal(metadata.format,'jpeg');assert.equal(metadata.width,1200);assert.equal(metadata.height,1500);assert.equal(metadata.space,'srgb');
     assert(bytes.length<5_000_000);assert.equal(bytes.length,image.bytes);
     const post=thread.posts[image.postNumber-1];
+    if(thread.sequence>5){assertPublicImageCopy(image,{field:`${thread.id}/${post.number}`});assert.equal(image.alt,post.alt);}
     assert.equal(hash(JSON.stringify(post)),image.contentPostSha256,`${thread.id}/${post.number} current post hash`);
     assert.equal(image.canonicalUrl,content.siteOrigin+(post.linkPath||''));
     assert.deepEqual(image.sourceUrls,thread.sources.filter(s=>s.supports.some(s=>s.posts.includes(post.number))).map(s=>s.url));
@@ -54,7 +57,7 @@ for(const thread of content.threads) {
       assert.equal(check.renderedText,image.renderedText);
       if(['C03','E05','N06','E10'].includes(thread.id)&&/Mbps|broadband|download|upload/i.test(image.renderedText))assert(image.renderedText.includes('2026 Q1'),image.path+' broadband period');
       assert(thread.id==='N02'||image.assetPaths.length>0,'Every non-aggregate image uses a genuine source image');
-      if(thread.id==='N02'){assert.equal(image.assetPaths.length,0);assert.equal(image.visualKind,'authored-historical-aggregate');assert(image.renderedText.includes('October 20, 2026'));}
+      if(thread.id==='N02'){assert.equal(image.assetPaths.length,0);assert.equal(image.visualKind,'historical-market-counts');assert(image.renderedText.includes('October 20, 2026'));}
       assert.deepEqual(image.assetPaths,image.sourceAssets.map(a=>a.file));
       for(const asset of image.sourceAssets) {
         assert(asset.sourceUrl,asset.file+' source URL');
@@ -130,8 +133,8 @@ try {
   await page.goto(url+'/preview.html');await page.waitForFunction(()=>document.documentElement.dataset.ready==='true');
   assert.equal(await page.locator('figure.post-card').count(),180);
   assert.equal(await page.locator('#thread-links a').count(),30);
-  assert.equal(await page.locator('.thread.history').count(),3);
-  const order=await page.locator('.thread').evaluateAll(es=>es.map(e=>e.id));assert.equal(order[0],'C02');assert.deepEqual(order.slice(-3),['C01','E01','N01']);
+  assert.equal(await page.locator('.thread.history').count(),5);
+  const order=await page.locator('.thread').evaluateAll(es=>es.map(e=>e.id));assert.equal(order[0],'N02');assert.deepEqual(order.slice(-5),['C01','E01','N01','C02','E02']);
   for(const thread of content.threads)for(const post of thread.posts) {
     const card=page.locator(`[data-post-id="${thread.id}-${post.number}"]`);
     assert.equal(await card.locator('.post-text').textContent(),post.text);
@@ -174,6 +177,15 @@ await protect();
 assert.equal(contentSha256,hash(await fs.readFile(path.join(root,'content.json'))));assert.equal(calendarSha256,hash(await fs.readFile(path.join(root,'calendar.json'))));
 const kinds=Object.fromEntries([...new Set(replacements.map(i=>i.visualKind))].map(k=>[k,replacements.filter(i=>i.visualKind===k).length]));
 const report={validatedAt:new Date().toISOString(),status:'PASS',replacementMasters:162,allMasters:180,uniqueImageHashes:180,decodedMasters:180,dimensions:'1200x1500',format:'JPEG',colorSpace:'sRGB',minBytes,maxBytes,totalBytes,totalMiB:totalBytes/1048576,limitBytes:5000000,contentSha256,calendarSha256,currentPostHashesVerified:180,protectedImages:guard.imageHashes,protectedImageCount:18,protectedThreads:guard.threads.map(t=>({id:t.id,sha256:hash(JSON.stringify(t))})),protectedManifestEntriesSha256:hash(JSON.stringify(baseline.manifestEntries)),protectedManifestEntriesUnchanged:18,protectedContactSheets:baseline.contactSheets,newContactSheets:27,contactSheets,layoutIssues:0,textCollisions:0,authoredTextContrastFailures:0,missingImages:0,minimumAuthoredBodyMasterPx:Math.min(...checks.images.filter(c=>!guard.threads.some(t=>c.id.startsWith(t.id+'-'))).map(c=>c.minimumAuthoredBodyPx)),minimumAuthoredBodyAt390Px:14.3,sourceCoverage:{mastersWithGenuineAssets:replacements.filter(i=>i.assetPaths.length).length,historicalAggregateCharts:6,uniqueUsedSourceAssets:proofFiles.size,exactSourceHashesVerified:proofFiles.size,exactPixelCropsVerified:sourceProof.filter(p=>p.exactCropPixels).length,originalQuestionPixelMatches:15,lessonParagraphPixelMatches:5,sourceKinds:[...new Set(sourceProof.map(p=>p.kind))]},sourceProof,visualKinds:kinds,gallery:{viewports,exactPostTexts:180,publicationDates:180,threadAnchors:30,masterLinks:180,contactSheetLinks:30,sourceDescriptionToggles:180,publishedHistoryThreads:3,keyboardControls:true,reviewImageWidth:390,expandedMobileSources:true,emptyState:true,errorState:true,normalPageErrors:0,normalConsoleErrors:0},altTextMaxCharacters:Math.max(...manifest.images.map(i=>i.alt.length)),screenshots:['assets/revision/gallery-desktop.png','assets/revision/gallery-mobile.png']};
+Object.assign(report,{
+  replacementMasters:150,protectedImageCount:30,
+  protectedImages:Object.fromEntries(Object.entries(published.files).filter(([file])=>file.startsWith('images/'))),
+  protectedThreads:published.threads.map(thread=>({id:thread.id,sha256:hash(JSON.stringify(thread))})),
+  protectedManifestEntriesSha256:hash(JSON.stringify(published.manifestEntries)),protectedManifestEntriesUnchanged:30,
+  newContactSheets:25,publicCopyPolicyStart:'2026-10-23',publicCopyCheckedPosts:150,
+  minimumBodyLineHeight:Math.min(...checks.images.filter(check=>content.threads.some(thread=>thread.sequence>5&&check.id.startsWith(thread.id+'-'))&&check.minimumBodyLineHeight!==null).map(check=>check.minimumBodyLineHeight)),
+});
+report.gallery.publishedHistoryThreads=5;
 await writeJSON('assets/validation.json',report);
 await writeJSON('assets/revision/validation.json',report);
-console.log(JSON.stringify({...report,sourceProof:`${sourceProof.length} entries in assets/revision/validation.json`,contactSheets:`${contactSheets.length} verified`,protectedImages:'18 hashes verified against protected-prefix.json'},null,2));
+console.log(JSON.stringify({...report,sourceProof:`${sourceProof.length} entries in assets/revision/validation.json`,contactSheets:`${contactSheets.length} verified`,protectedImages:'30 published master hashes verified'},null,2));

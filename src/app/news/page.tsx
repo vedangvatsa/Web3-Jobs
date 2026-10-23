@@ -14,6 +14,7 @@ export const metadata: Metadata = {
  description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, protocol launches, and corporate updates across blockchain, DeFi, DAOs, and NFTs.',
  alternates: {
   canonical: 'https://hashtagweb3.com/news',
+  types: { 'application/rss+xml': 'https://hashtagweb3.com/news/feed.xml' },
  },
  openGraph: {
   type: 'website',

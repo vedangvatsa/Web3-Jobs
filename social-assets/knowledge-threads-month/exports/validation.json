@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-21T17:21:28.337Z",
-  "sourceContentSha256": "a2547fc5842ffd98bceab9e06721d8c1d25a66d365f39ae4e5d3dfc981325ed2",
+  "checkedAt": "2026-10-22T19:24:26.208Z",
+  "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
   "documents": 27,
   "totalPages": 162,
   "embeddedOriginalImagesVerified": 162,
   "instagramImages": 162,
   "imagePacks": 27,
-  "maxInstagramCaptionUnits": 1469,
+  "maxInstagramCaptionUnits": 1417,
   "records": [
     {
       "id": "C02",
@@ -32,8 +32,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1255,
-      "instagramUnits": 1266
+      "linkedinUnits": 1182,
+      "instagramUnits": 1205
     },
     {
       "id": "C03",
@@ -41,8 +41,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1010,
-      "instagramUnits": 1023
+      "linkedinUnits": 1025,
+      "instagramUnits": 1050
     },
     {
       "id": "E03",
@@ -50,8 +50,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1348,
-      "instagramUnits": 1371
+      "linkedinUnits": 1231,
+      "instagramUnits": 1266
     },
     {
       "id": "N03",
@@ -59,8 +59,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1383,
-      "instagramUnits": 1372
+      "linkedinUnits": 1339,
+      "instagramUnits": 1334
     },
     {
       "id": "C04",
@@ -68,8 +68,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1423,
-      "instagramUnits": 1435
+      "linkedinUnits": 1292,
+      "instagramUnits": 1316
     },
     {
       "id": "E04",
@@ -77,8 +77,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1158,
-      "instagramUnits": 1181
+      "linkedinUnits": 1130,
+      "instagramUnits": 1160
     },
     {
       "id": "N04",
@@ -86,8 +86,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1434,
-      "instagramUnits": 1466
+      "linkedinUnits": 1379,
+      "instagramUnits": 1417
     },
     {
       "id": "C05",
@@ -95,8 +95,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1348,
-      "instagramUnits": 1360
+      "linkedinUnits": 1297,
+      "instagramUnits": 1321
     },
     {
       "id": "E05",
@@ -104,8 +104,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1119,
-      "instagramUnits": 1132
+      "linkedinUnits": 1122,
+      "instagramUnits": 1147
     },
     {
       "id": "N05",
@@ -113,8 +113,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1291,
-      "instagramUnits": 1312
+      "linkedinUnits": 1103,
+      "instagramUnits": 1139
     },
     {
       "id": "C06",
@@ -122,8 +122,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1251,
-      "instagramUnits": 1264
+      "linkedinUnits": 1213,
+      "instagramUnits": 1238
     },
     {
       "id": "E06",
@@ -131,8 +131,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1372,
-      "instagramUnits": 1390
+      "linkedinUnits": 1323,
+      "instagramUnits": 1353
     },
     {
       "id": "N06",
@@ -140,8 +140,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1154,
-      "instagramUnits": 1167
+      "linkedinUnits": 1098,
+      "instagramUnits": 1123
     },
     {
       "id": "C07",
@@ -149,8 +149,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1452,
-      "instagramUnits": 1469
+      "linkedinUnits": 1314,
+      "instagramUnits": 1337
     },
     {
       "id": "E07",
@@ -158,8 +158,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1232,
-      "instagramUnits": 1256
+      "linkedinUnits": 1076,
+      "instagramUnits": 1112
     },
     {
       "id": "N07",
@@ -167,8 +167,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1386,
-      "instagramUnits": 1398
+      "linkedinUnits": 1299,
+      "instagramUnits": 1323
     },
     {
       "id": "C08",
@@ -176,8 +176,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1398,
-      "instagramUnits": 1404
+      "linkedinUnits": 1211,
+      "instagramUnits": 1229
     },
     {
       "id": "E08",
@@ -185,8 +185,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1207,
-      "instagramUnits": 1220
+      "linkedinUnits": 1197,
+      "instagramUnits": 1222
     },
     {
       "id": "N08",
@@ -194,8 +194,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1167,
-      "instagramUnits": 1180
+      "linkedinUnits": 1141,
+      "instagramUnits": 1166
     },
     {
       "id": "C09",
@@ -203,8 +203,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1397,
-      "instagramUnits": 1418
+      "linkedinUnits": 1129,
+      "instagramUnits": 1166
     },
     {
       "id": "E09",
@@ -212,8 +212,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1446,
-      "instagramUnits": 1458
+      "linkedinUnits": 1291,
+      "instagramUnits": 1315
     },
     {
       "id": "N09",
@@ -221,8 +221,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1355,
-      "instagramUnits": 1373
+      "linkedinUnits": 1280,
+      "instagramUnits": 1304
     },
     {
       "id": "C10",
@@ -230,8 +230,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1269,
-      "instagramUnits": 1287
+      "linkedinUnits": 1180,
+      "instagramUnits": 1211
     },
     {
       "id": "E10",
@@ -239,8 +239,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1262,
-      "instagramUnits": 1275
+      "linkedinUnits": 1204,
+      "instagramUnits": 1229
     },
     {
       "id": "N10",
@@ -248,8 +248,8 @@
       "originalPdfImagesVerified": 6,
       "instagramImages": 6,
       "zipEntries": 8,
-      "linkedinUnits": 1292,
-      "instagramUnits": 1316
+      "linkedinUnits": 1127,
+      "instagramUnits": 1166
     }
   ]
 }

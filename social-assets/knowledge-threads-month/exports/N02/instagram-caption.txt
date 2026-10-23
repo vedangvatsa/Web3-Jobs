@@ -1,13 +1,25 @@
-Oct 20, 2026 remote Web3 catalog: top 5 explicit-country markets. A historical snapshot, not a claim these vacancies remain open. Most roles were country-restricted; multi-country rows count once per named country.
+October 20, 2026 snapshot: top 5 eligible countries in the remote Web3 catalog. Most roles were country-restricted.
 
-1. United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog. Eligibility comes from the role's stated location, not the employer's headquarters.
+Multi-country listings count once per named country.
 
-2. United Kingdom: 29 listings across 4 employers. In the Oct 20 catalog, the US had 126 more listings and 26 more employers. This is a comparison of explicitly eligible locations, not company headquarters.
+1. United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog.
 
-3. Cyprus: 11 listings across 2 employers. Cyprus, Georgia and Poland tie on listing count in the Oct 20 catalog, but their employer counts differ: 2, 1 and 4 respectively.
+Eligibility follows the role's stated location, not employer headquarters.
 
-4. Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers. Equal listing volume can hide very different employer concentration.
+2. United Kingdom: 29 listings across 4 employers in the Oct 20 catalog. The US had 126 more listings and 26 more employers.
 
-5. Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.
+Counts follow explicitly eligible locations, not company headquarters.
+
+3. Cyprus: 11 listings across 2 employers in the Oct 20 catalog.
+
+Cyprus, Georgia and Poland tie on listing count, but their employer counts differ: 2, 1 and 4 respectively.
+
+4. Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers.
+
+Equal listing volume can hide different employer concentration.
+
+5. Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog.
+
+Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so totals overlap.
 
 Full resource: hashtagweb3.com/jobs/ig

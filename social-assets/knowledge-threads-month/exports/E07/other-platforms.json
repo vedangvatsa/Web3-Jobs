@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.",
-        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000",
+        "text": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.",
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-01.jpg"
       },
       {
         "number": 2,
-        "text": "Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.",
-        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000",
+        "text": "Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.\n\nDifference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.",
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-02.jpg"
       },
       {
         "number": 3,
-        "text": "Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.",
-        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000",
+        "text": "Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.\n\nDifference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.",
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-03.jpg"
       },
       {
         "number": 4,
-        "text": "Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.",
-        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000",
+        "text": "Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.\n\nRounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.",
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-04.jpg"
       },
       {
         "number": 5,
-        "text": "Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.",
-        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000",
+        "text": "Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.\n\nThe two experience scenarios differ by USD 18,000/year.",
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-05.jpg"
       },
       {
         "number": 6,
-        "text": "Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/x",
-        "alt": "The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000",
+        "text": "The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.\n\nSet your experience, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/x",
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.",
-        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000",
+        "text": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.",
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-01.jpg"
       },
       {
         "number": 2,
-        "text": "Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.",
-        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000",
+        "text": "Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.\n\nDifference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.",
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-02.jpg"
       },
       {
         "number": 3,
-        "text": "Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.",
-        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000",
+        "text": "Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.\n\nDifference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.",
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-03.jpg"
       },
       {
         "number": 4,
-        "text": "Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.",
-        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000",
+        "text": "Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.\n\nRounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.",
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-04.jpg"
       },
       {
         "number": 5,
-        "text": "Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.",
-        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000",
+        "text": "Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.\n\nThe two experience scenarios differ by USD 18,000/year.",
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-05.jpg"
       },
       {
         "number": 6,
-        "text": "Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/th",
-        "alt": "The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000",
+        "text": "The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.\n\nSet your experience, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/th",
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.\n\n1. Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.\n\n2. Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.\n\n3. Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.\n\n4. Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.\n\n5. Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.\n\nFull resource: hashtagweb3.com/salary-calculator/fb",
+    "caption": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.\n\n1. Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.\n\nDifference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.\n\n2. Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.\n\nDifference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.\n\n3. Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.\n\nRounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.\n\n4. Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.\n\nThe two experience scenarios differ by USD 18,000/year.\n\n5. The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.\n\nSet your experience, region, company stage and size to compare estimates.\n\nFull resource: hashtagweb3.com/salary-calculator/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E07-01.jpg",
-        "sha256": "9a1eeb5d71650cbc2f74d252551514ba250607ef2e09c9c546bcfd741e4d2ae4",
-        "bytes": 124317,
+        "sha256": "3b50d4b7cb8ae95d1927869a132a472ff938784aa0129b7c507b84d239a7b9a0",
+        "bytes": 125191,
         "width": 1200,
         "height": 1500,
-        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000"
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-02.jpg",
-        "sha256": "e489ae2c5ec3a9dd74f2a58ac9e226133ac492648057286faefcf08a83b12f39",
-        "bytes": 121964,
+        "sha256": "2f0bbf2911dde98a3e27c0b4691be6387e91c3c9aac169f2bb32ea3ce2b5e981",
+        "bytes": 122612,
         "width": 1200,
         "height": 1500,
-        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000"
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-03.jpg",
-        "sha256": "6e2e17bcd42143276a6866e617da2811460ae3ac5f654c9abd24004f982e7f90",
-        "bytes": 119645,
+        "sha256": "e2c938946dfa193549aa7283f5a42cbf4b1804c81a62e3ca82612b87833055ad",
+        "bytes": 120429,
         "width": 1200,
         "height": 1500,
-        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000"
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-04.jpg",
-        "sha256": "7e705e6c835e09054e3517edbd9fde5da028b8afaf9dc321b008d3a6d7f3be7e",
-        "bytes": 119364,
+        "sha256": "c02791d1e461c72f8e1b340e25d17c4103fdef0aaf6fc3d1507fd75ba1c86c1d",
+        "bytes": 120129,
         "width": 1200,
         "height": 1500,
-        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000"
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-05.jpg",
-        "sha256": "3377be57c2b9805258a02ebefc124a39bd7f6caa0671f3f5adbb23306d05c040",
-        "bytes": 122636,
+        "sha256": "b5fcd2ac9bcc7ae6a93f1b2b32e37e344271038bf45d6f9c14485493a665784e",
+        "bytes": 123651,
         "width": 1200,
         "height": 1500,
-        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000"
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-06.jpg",
-        "sha256": "aa78b08c7980f8b2fc5e9e7ca753fde0b6481542eefd0ac8606464d52606f677",
-        "bytes": 155380,
+        "sha256": "4292d300dd1ebd40257ee8b41b8f17bd260d743fcd4a51208a0517d7b828c24c",
+        "bytes": 165019,
         "width": 1200,
         "height": 1500,
-        "alt": "The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000"
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       }
     ]
   },
   "telegram": {
-    "caption": "Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.\n\nhashtagweb3.com/salary-calculator/tg",
+    "caption": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.\n\nhashtagweb3.com/salary-calculator/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E07-01.jpg",
-        "sha256": "9a1eeb5d71650cbc2f74d252551514ba250607ef2e09c9c546bcfd741e4d2ae4",
-        "bytes": 124317,
+        "sha256": "3b50d4b7cb8ae95d1927869a132a472ff938784aa0129b7c507b84d239a7b9a0",
+        "bytes": 125191,
         "width": 1200,
         "height": 1500,
-        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000"
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-02.jpg",
-        "sha256": "e489ae2c5ec3a9dd74f2a58ac9e226133ac492648057286faefcf08a83b12f39",
-        "bytes": 121964,
+        "sha256": "2f0bbf2911dde98a3e27c0b4691be6387e91c3c9aac169f2bb32ea3ce2b5e981",
+        "bytes": 122612,
         "width": 1200,
         "height": 1500,
-        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000"
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-03.jpg",
-        "sha256": "6e2e17bcd42143276a6866e617da2811460ae3ac5f654c9abd24004f982e7f90",
-        "bytes": 119645,
+        "sha256": "e2c938946dfa193549aa7283f5a42cbf4b1804c81a62e3ca82612b87833055ad",
+        "bytes": 120429,
         "width": 1200,
         "height": 1500,
-        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000"
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-04.jpg",
-        "sha256": "7e705e6c835e09054e3517edbd9fde5da028b8afaf9dc321b008d3a6d7f3be7e",
-        "bytes": 119364,
+        "sha256": "c02791d1e461c72f8e1b340e25d17c4103fdef0aaf6fc3d1507fd75ba1c86c1d",
+        "bytes": 120129,
         "width": 1200,
         "height": 1500,
-        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000"
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-05.jpg",
-        "sha256": "3377be57c2b9805258a02ebefc124a39bd7f6caa0671f3f5adbb23306d05c040",
-        "bytes": 122636,
+        "sha256": "b5fcd2ac9bcc7ae6a93f1b2b32e37e344271038bf45d6f9c14485493a665784e",
+        "bytes": 123651,
         "width": 1200,
         "height": 1500,
-        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000"
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E07-06.jpg",
-        "sha256": "aa78b08c7980f8b2fc5e9e7ca753fde0b6481542eefd0ac8606464d52606f677",
-        "bytes": 155380,
+        "sha256": "4292d300dd1ebd40257ee8b41b8f17bd260d743fcd4a51208a0517d7b828c24c",
+        "bytes": 165019,
         "width": 1200,
         "height": 1500,
-        "alt": "The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000"
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "Junior = 1 year; senior = 7 in this example. North America, Series A/B, 11-50 staff throughout. Smart Contract Developer: USD 97,000 vs 124,000/year. These are model salary estimates, excluding tokens/equity, not observed pay.",
+        "text": "Smart Contract Developer annual base estimates: USD 97,000 at 1 year; USD 124,000 at 7 years.\n\nBoth: North America, Series A/B, 11-50 staff. Tokens and equity excluded.",
         "image": "social-assets/knowledge-threads-month/images/E07-01.jpg",
-        "alt": "Smart Contract Developer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $97,000; $124,000"
+        "alt": "Salary Calculator comparison for Smart Contract Developer. Estimated annual base salary: USD 97,000 at 1 year of experience and USD 124,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
-        "text": "Security Auditor: USD 127,000/year at 1 year versus USD 163,000/year at 7 years. The model difference is USD 36,000/year with North America, Series A/B and 11-50 employees unchanged.",
+        "text": "Security Auditor annual base estimates: USD 127,000 at 1 year; USD 163,000 at 7 years.\n\nDifference: USD 36,000/year. Both use North America, Series A/B and 11-50 employees.",
         "image": "social-assets/knowledge-threads-month/images/E07-02.jpg",
-        "alt": "Security Auditor. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000"
+        "alt": "Salary Calculator comparison for Security Auditor. Estimated annual base salary: USD 127,000 at 1 year of experience and USD 163,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
-        "text": "Product Manager: USD 91,000/year at 1 year versus USD 116,000/year at 7. The USD 25,000 model difference comes only from the experience input; region, company stage and size stay fixed.",
+        "text": "Product Manager annual base estimates: USD 91,000 at 1 year; USD 116,000 at 7 years.\n\nDifference: USD 25,000/year, changing only experience. Region, company stage and size stay fixed.",
         "image": "social-assets/knowledge-threads-month/images/E07-03.jpg",
-        "alt": "Product Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $91,000; $116,000"
+        "alt": "Salary Calculator comparison for Product Manager. Estimated annual base salary: USD 91,000 at 1 year of experience and USD 116,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
-        "text": "Technical Writer: USD 72,000/year at 1 year versus USD 93,000/year at 7. Before rounding, the same model gives USD 72,450 and USD 93,150. The displayed gap is USD 21,000/year.",
+        "text": "Technical Writer annual base estimates: USD 72,000 at 1 year; USD 93,000 at 7 years.\n\nRounded from USD 72,450 and USD 93,150. Displayed gap: USD 21,000/year.",
         "image": "social-assets/knowledge-threads-month/images/E07-04.jpg",
-        "alt": "Technical Writer. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $72,000; $93,000"
+        "alt": "Salary Calculator comparison for Technical Writer. Estimated annual base salary: USD 72,000 at 1 year of experience and USD 93,000 at 7 years, rounded to USD 1,000. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
-        "text": "Community Manager: USD 60,000/year at 1 year versus USD 78,000/year at 7. That's a USD 18,000 model difference. These are experience scenarios, not a promise that six more years produces that pay rise.",
+        "text": "Community Manager annual base estimates: USD 60,000 at 1 year; USD 78,000 at 7 years.\n\nThe two experience scenarios differ by USD 18,000/year.",
         "image": "social-assets/knowledge-threads-month/images/E07-05.jpg",
-        "alt": "Community Manager. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. Annual USD model estimates; North America · Series A/B · 11-50 staff; Junior example: 1 year; Senior example: 7 years; Model, not observed pay. Tokens/equity excluded. Screenshot text: $60,000; $78,000"
+        "alt": "Salary Calculator comparison for Community Manager. Estimated annual base salary: USD 60,000 at 1 year of experience and USD 78,000 at 7 years. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       },
       {
-        "text": "Under the shared inputs, the 1-to-7-year model gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager. Set your years, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/bsky",
+        "text": "The 1-to-7-year salary estimate gap is USD 36,000/year for Security Auditor and USD 18,000 for Community Manager.\n\nSet your experience, region, company stage and size to compare estimates.\n\nhashtagweb3.com/salary-calculator/bsky",
         "image": "social-assets/knowledge-threads-month/images/E07-06.jpg",
-        "alt": "The 1-to-7-year model gap. Unretouched crops from the real salary calculator, rendered locally. Labels distinguish model estimates from observed salaries. USD/year model · 1 vs 7 years; North America · Series A/B · 11-50 staff; Security Auditor; Gap: USD 36,000/year; Community Manager; Gap: USD 18,000/year; Model, not observed pay. Tokens/equity excluded. Screenshot text: $127,000; $163,000; $60,000; $78,000"
+        "alt": "Salary Calculator results comparing 1 and 7 years of experience. Estimated annual base salary: Security Auditor USD 127,000 and USD 163,000, a USD 36,000 gap; Community Manager USD 60,000 and USD 78,000, a USD 18,000 gap. Both use North America, Series A/B and 11-50 staff. Tokens and equity excluded."
       }
     ]
   }

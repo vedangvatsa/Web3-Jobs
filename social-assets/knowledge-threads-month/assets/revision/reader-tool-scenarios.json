@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "scenarios": [
+    {
+      "id": "E02-contract", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "smart-contract-dev", "experience": 2, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Smart Contract Developer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 101000, "display": "$101,000", "unit": "per year (USD)", "classification": "Model salary estimate; token incentives and equity excluded"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx", "src/app/salary-calculator/page.tsx"]
+    },
+    {
+      "id": "E02-auditor", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "security-auditor", "experience": 2, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Security Auditor", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 133000, "display": "$133,000", "unit": "per year (USD)", "classification": "Model salary estimate; token incentives and equity excluded"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E02-product", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "product-manager", "experience": 2, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Product Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 95000, "display": "$95,000", "unit": "per year (USD)", "classification": "Model salary estimate; token incentives and equity excluded"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E02-writer", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "technical-writer", "experience": 2, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Technical Writer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 76000, "display": "$76,000", "unit": "per year (USD)", "classification": "Model salary estimate; token incentives and equity excluded"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E02-community", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "community-manager", "experience": 2, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Community Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 63000, "display": "$63,000", "unit": "per year (USD)", "classification": "Model salary estimate; token incentives and equity excluded"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-contract-junior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "smart-contract-dev", "experience": 1, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Smart Contract Developer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 97000, "display": "$97,000", "unit": "per year (USD)", "classification": "Model salary estimate; junior is an editorial 1-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-contract-senior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "smart-contract-dev", "experience": 7, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Smart Contract Developer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 124000, "display": "$124,000", "unit": "per year (USD)", "classification": "Model salary estimate; senior is an editorial 7-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-auditor-junior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "security-auditor", "experience": 1, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Security Auditor", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 127000, "display": "$127,000", "unit": "per year (USD)", "classification": "Model salary estimate; junior is an editorial 1-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-auditor-senior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "security-auditor", "experience": 7, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Security Auditor", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 163000, "display": "$163,000", "unit": "per year (USD)", "classification": "Model salary estimate; senior is an editorial 7-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-product-junior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "product-manager", "experience": 1, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Product Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 91000, "display": "$91,000", "unit": "per year (USD)", "classification": "Model salary estimate; junior is an editorial 1-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-product-senior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "product-manager", "experience": 7, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Product Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 116000, "display": "$116,000", "unit": "per year (USD)", "classification": "Model salary estimate; senior is an editorial 7-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-writer-junior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "technical-writer", "experience": 1, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Technical Writer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 72000, "display": "$72,000", "unit": "per year (USD)", "classification": "Model salary estimate; junior is an editorial 1-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-writer-senior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "technical-writer", "experience": 7, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Technical Writer", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 93000, "display": "$93,000", "unit": "per year (USD)", "classification": "Model salary estimate; senior is an editorial 7-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-community-junior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "community-manager", "experience": 1, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Community Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 60000, "display": "$60,000", "unit": "per year (USD)", "classification": "Model salary estimate; junior is an editorial 1-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "E07-community-senior", "route": "/salary-calculator",
+      "inputs": {"fields": {"role": "community-manager", "experience": 7, "location": "north_america", "companyType": "series_a", "companySize": "11_50"}, "uiLabels": {"role": "Community Manager", "location": "North America", "companyType": "Series A/B Startup", "companySize": "11-50 Employees"}},
+      "expectedResult": {"annualSalaryUSD": 78000, "display": "$78,000", "unit": "per year (USD)", "classification": "Model salary estimate; senior is an editorial 7-year example"},
+      "sourceFiles": ["src/components/salary-calculator-form.tsx"]
+    },
+    {
+      "id": "QUIZ-builder", "route": "/web3-career-quiz",
+      "inputs": {
+        "answers": {"1":"a","2":"a","3":"a","4":"b","5":"a","6":"b","7":"b","8":"a","9":"a","10":"a","11":"b","12":"a","13":"a","14":"a","15":"a","16":"a"},
+        "steps": ["Answer question IDs 1 through 16 in order using the A) or B) button.", "Capture the resulting archetype and its three role cards."]
+      },
+      "expectedResult": {"archetype":"The Builder","scores":{"builder":17,"strategist":8,"analyst":8,"weaver":4},"roles":["Smart Contract Developer","Frontend/Web3 Developer","Protocol Engineer"],"scoreVisibility":"Source calculation only; numerical scores are not displayed"},
+      "sourceFiles": ["src/lib/quiz.ts", "src/components/web3-career-quiz.tsx"]
+    },
+    {
+      "id": "QUIZ-strategist", "route": "/web3-career-quiz",
+      "inputs": {
+        "answers": {"1":"b","2":"b","3":"a","4":"b","5":"a","6":"a","7":"a","8":"a","9":"a","10":"a","11":"a","12":"a","13":"b","14":"b","15":"a","16":"a"},
+        "steps": ["Start a fresh page or use Take Assessment Again.", "Answer question IDs 1 through 16 in order using the A) or B) button."]
+      },
+      "expectedResult": {"archetype":"The Strategist","scores":{"builder":7,"strategist":18,"analyst":6,"weaver":7},"roles":["Web3 Product Manager","Tokenomics Designer","VC / Investment Analyst"],"scoreVisibility":"Source calculation only; numerical scores are not displayed"},
+      "sourceFiles": ["src/lib/quiz.ts", "src/components/web3-career-quiz.tsx"]
+    },
+    {
+      "id": "QUIZ-analyst", "route": "/web3-career-quiz",
+      "inputs": {
+        "answers": {"1":"a","2":"b","3":"b","4":"a","5":"a","6":"a","7":"b","8":"b","9":"a","10":"a","11":"a","12":"a","13":"a","14":"b","15":"b","16":"b"},
+        "steps": ["Start a fresh page or use Take Assessment Again.", "Answer question IDs 1 through 16 in order using the A) or B) button.", "For the C08 post 6 question crop, stop on Q3 before selecting its answer."]
+      },
+      "expectedResult": {"archetype":"The Analyst","scores":{"builder":8,"strategist":8,"analyst":16,"weaver":6},"roles":["On-Chain Data Analyst","Smart Contract Auditor","Quantitative Analyst"],"scoreVisibility":"Source calculation only; numerical scores are not displayed"},
+      "sourceFiles": ["src/lib/quiz.ts", "src/components/web3-career-quiz.tsx"]
+    },
+    {
+      "id": "QUIZ-weaver", "route": "/web3-career-quiz",
+      "inputs": {
+        "answers": {"1":"a","2":"a","3":"a","4":"a","5":"b","6":"b","7":"a","8":"a","9":"b","10":"b","11":"b","12":"b","13":"a","14":"b","15":"b","16":"b"},
+        "steps": ["Start a fresh page or use Take Assessment Again.", "Answer question IDs 1 through 16 in order using the A) or B) button."]
+      },
+      "expectedResult": {"archetype":"The Community Weaver","scores":{"builder":6,"strategist":5,"analyst":5,"weaver":19},"roles":["Community Manager","Marketing / Growth Lead","Developer Relations (DevRel)"],"scoreVisibility":"Source calculation only; numerical scores are not displayed"},
+      "sourceFiles": ["src/lib/quiz.ts", "src/components/web3-career-quiz.tsx"]
+    },
+    {
+      "id": "RESUME-junior", "route": "/resume-builder",
+      "inputs": {
+        "fields": {
+          "name": "Sample Candidate", "title": "Junior Smart Contract Developer", "email": "candidate@example.com",
+          "phone": "", "website": "", "github": "", "twitter": "", "handle": "",
+          "summary": "Built a local escrow demo and wrote Foundry tests for unauthorized and repeat withdrawals.",
+          "contributions": [{"project":"Sample Escrow Demo","role":"Personal project","description":"Implemented deposit and withdrawal functions in Solidity. Wrote Foundry tests showing unauthorized callers and repeat withdrawals revert.","link":""}],
+          "experience": [], "education": [], "technicalSkills": "Solidity, Foundry", "generalSkills": "Git, README writing"
+        },
+        "steps": ["Overwrite all named personal fields, including clearing optional default contact and social values.", "Use the trash button in the default experience card and the default education card; no entries should remain.", "Replace the one existing project card with contributions[0]. Leave its link empty.", "Fill summary and both skills fields. Capture the live preview."]
+      },
+      "expectedResult": {"visibleName":"Sample Candidate","visibleTitle":"JUNIOR SMART CONTRACT DEVELOPER","visibleProject":"Sample Escrow Demo","projectCount":1,"experienceCount":0,"educationCount":0,"downloadFilename":"Sample-Candidate-Resume.pdf","sampleStatus":"All candidate wording fictional; no actual employment, institution or project link"},
+      "sourceFiles": ["src/components/resume-form.tsx","src/components/resume-preview.tsx","content/articles/10-dos-and-donts-for-web3-resume.md","content/learn/careers/interviews.md"]
+    },
+    {
+      "id": "RESUME-technical", "route": "/resume-builder",
+      "inputs": {
+        "fields": {
+          "name": "Sample Technical Candidate", "title": "Frontend/Web3 Developer", "email": "technical@example.com",
+          "phone": "", "website": "", "github": "", "twitter": "", "handle": "",
+          "summary": "Frontend developer building a React token-balance view with explicit connection and error states.",
+          "contributions": [{"project":"Sample Token-Balance View","role":"Personal project","description":"Built a React token-balance view with disconnected, loading and RPC-error states.","link":""}],
+          "experience": [], "education": [], "technicalSkills": "React, token-balance reads, wallet connection states", "generalSkills": "Git, README writing"
+        },
+        "beforeFields": {"contributions.0.description":"Built a dApp."},
+        "steps": ["Replace all defaults with fields; remove default experience and education cards.", "Apply beforeFields to the real description textarea and capture the before preview.", "Restore the description from fields.contributions[0] and capture the after preview."]
+      },
+      "expectedResult": {"visibleName":"Sample Technical Candidate","visibleProject":"Sample Token-Balance View","beforeDescription":"Built a dApp.","afterDescription":"Built a React token-balance view with disconnected, loading and RPC-error states.","experienceCount":0,"educationCount":0,"sampleStatus":"Fictional practice wording only"},
+      "sourceFiles": ["src/components/resume-form.tsx","src/components/resume-preview.tsx","content/articles/10-dos-and-donts-for-web3-resume.md","content/learn/careers/interviews.md"]
+    },
+    {
+      "id": "RESUME-community", "route": "/resume-builder",
+      "inputs": {
+        "fields": {
+          "name": "Sample Community Candidate", "title": "Community Support Contributor", "email": "community@example.com",
+          "phone": "", "website": "", "github": "", "twitter": "", "handle": "",
+          "summary": "Community contributor drafting a mock support queue and moderator handoff.",
+          "contributions": [{"project":"Sample Support Queue","role":"Personal project","description":"Drafted a mock support queue with issue category, escalation owner and resolution note.","link":""}],
+          "experience": [], "education": [], "technicalSkills": "Discord support workflows, issue categorization", "generalSkills": "Escalation writing, handoff documentation"
+        },
+        "beforeFields": {"contributions.0.description":"Managed Discord."},
+        "steps": ["Replace all defaults with fields; remove default experience and education cards.", "Apply beforeFields for the before capture.", "Restore fields.contributions[0].description for the after capture."]
+      },
+      "expectedResult": {"visibleName":"Sample Community Candidate","visibleProject":"Sample Support Queue","beforeDescription":"Managed Discord.","afterDescription":"Drafted a mock support queue with issue category, escalation owner and resolution note.","experienceCount":0,"educationCount":0,"sampleStatus":"Fictional practice wording only"},
+      "sourceFiles": ["src/components/resume-form.tsx","src/components/resume-preview.tsx","content/articles/10-dos-and-donts-for-web3-resume.md","content/learn/careers/resume.md"]
+    },
+    {
+      "id": "RESUME-content", "route": "/resume-builder",
+      "inputs": {
+        "fields": {
+          "name": "Sample Content Candidate", "title": "Web3 Content Writer", "email": "content@example.com",
+          "phone": "", "website": "", "github": "", "twitter": "", "handle": "",
+          "summary": "Content writer explaining token approvals through a worked allowance example.",
+          "contributions": [{"project":"Sample Token Approval Guide","role":"Personal project","description":"Wrote a guide explaining approve and transferFrom with a worked allowance example.","link":""}],
+          "experience": [], "education": [], "technicalSkills": "ERC-20 approval concepts, Markdown", "generalSkills": "Technical writing, source attribution"
+        },
+        "beforeFields": {"contributions.0.description":"Wrote about crypto."},
+        "steps": ["Replace all defaults with fields; remove default experience and education cards.", "Apply beforeFields for the before capture.", "Restore fields.contributions[0].description for the after capture."]
+      },
+      "expectedResult": {"visibleName":"Sample Content Candidate","visibleProject":"Sample Token Approval Guide","beforeDescription":"Wrote about crypto.","afterDescription":"Wrote a guide explaining approve and transferFrom with a worked allowance example.","experienceCount":0,"educationCount":0,"sampleStatus":"Fictional practice wording only; no published guide is claimed"},
+      "sourceFiles": ["src/components/resume-form.tsx","src/components/resume-preview.tsx","content/articles/10-dos-and-donts-for-web3-resume.md","content/learn/careers/interviews.md"]
+    },
+    {
+      "id": "INVOICE-sample", "route": "/invoice-generator",
+      "inputs": {
+        "fields": {
+          "logo": "", "fromName": "Sample Freelancer", "fromEmail": "freelancer@example.com", "fromPhone": "", "fromAddress": "Sample address",
+          "toName": "Sample Client", "toEmail": "client@example.com", "toPhone": "", "toAddress": "Sample client address",
+          "invoiceNumber": "SAMPLE-016", "issueDate": "2026-11-16", "dueDate": "2026-11-30",
+          "lineItems": [{"description":"Documentation draft (hours)","quantity":12,"rate":50},{"description":"Revision and handoff (hours)","quantity":4,"rate":50}],
+          "tax": 0, "discount": 50, "currency": "USD", "customCurrency": "",
+          "paymentMethod": "USDC on Ethereum mainnet", "walletAddress": "",
+          "notes": "Sample invoice. USD 750 billed; example settlement: 750 USDC at an agreed 1 USD = 1 USDC. Not payable."
+        },
+        "steps": ["Clear the prefilled Wallet Address first. Replace all From/To defaults and clear both phone fields. Upload no logo.", "Set Invoice # to SAMPLE-016. Use Issue Date and Due Date calendar buttons to choose November 16 and November 30, 2026.", "Replace the first item, click Add Item once and fill the second item using the exact lineItems values.", "Set Tax (%) to 0 and Discount (flat) to 50. Choose USD ($) in Currency.", "Fill Payment Method and Notes exactly. Keep Wallet Address empty.", "Verify both line totals, subtotal, flat discount, final total and date labels in the genuine preview, then capture. No payment action is involved."]
+      },
+      "expectedResult": {"invoiceNumberDisplay":"#SAMPLE-016","issueDateDisplay":"November 16, 2026","dueDateDisplay":"November 30, 2026","lineTotalsUSD":[600,200],"subtotalUSD":800,"taxUSD":0,"discountUSD":50,"totalUSD":750,"displaySubtotal":"$800.00","displayDiscount":"-$50.00","displayTotal":"$750.00","sampleSettlementUSDC":750,"paymentNetwork":"Ethereum mainnet","walletAddress":"","zeroTaxRowVisible":false,"downloadFilename":"invoice-SAMPLE-016.pdf","sampleStatus":"Fictional teaching invoice, not payable; no automatic currency conversion"},
+      "sourceFiles": ["src/components/invoice-form.tsx","src/app/invoice-generator/page.tsx"]
+    }
+  ]
+}

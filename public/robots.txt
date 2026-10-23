@@ -1,5 +1,6 @@
 # robots.txt — Hashtag Web3
 # https://hashtagweb3.com
+Sitemap: https://hashtagweb3.com/news/sitemap.xml
 
 User-agent: *
 Allow: /

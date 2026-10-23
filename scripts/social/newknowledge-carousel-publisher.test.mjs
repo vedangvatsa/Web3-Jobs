@@ -5,6 +5,7 @@ import { CAMPAIGN, sha256 } from './newknowledge-content.mjs';
 import { durableReceipt } from './newknowledge-state.mjs';
 import { CAROUSEL_ACCOUNTS, carouselProviderClient } from './newknowledge-carousel-providers.mjs';
 import { runCarouselPlatform } from './newknowledge-carousel-publisher.mjs';
+import { publicThreadFixture } from './public-copy-fixtures.mjs';
 
 const content = JSON.parse(await fs.readFile(new URL('../../social-assets/knowledge-threads-month/content.json', import.meta.url)));
 const calendar = JSON.parse(await fs.readFile(new URL('../../social-assets/knowledge-threads-month/calendar.json', import.meta.url)));
@@ -13,7 +14,7 @@ const encode = value => JSON.stringify(value, null, 2) + '\n';
 const reply = data => new Response(JSON.stringify(data), { status: 200, headers: { 'Content-Type': 'application/json' } });
 
 function harness(platform, options = {}) {
-  const sourceThread = structuredClone(content.threads.find(thread => thread.id === 'C02'));
+  const sourceThread = publicThreadFixture(content.threads.find(thread => thread.id === 'C02'));
   if (options.freshness) sourceThread.freshness = options.freshness;
   const target = CAROUSEL_ACCOUNTS[platform];
   const image = index => ({ path: `social-assets/knowledge-threads-month/exports/C02-${index}.jpg`, url: `https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/${'a'.repeat(40)}/social-assets/knowledge-threads-month/exports/C02-${index}.jpg`, sha256: String(index).repeat(64), bytes: 123, width: 1080, height: 1350, alt: `Approved carousel image number ${index}` });
@@ -21,6 +22,7 @@ function harness(platform, options = {}) {
     campaign: CAMPAIGN, date, threadId: sourceThread.id, sequence: sourceThread.sequence, platform, target,
     sourceThreadSha256: sha256(JSON.stringify(sourceThread)), sourcePostHashes: sourceThread.posts.map(post => sha256(JSON.stringify(post))),
     assetCommit: 'a'.repeat(40), caption: `Approved ${platform} caption`,
+    sourceImages: sourceThread.posts.map(post => ({ alt: post.alt, renderedText: post.visual.headline })),
     ...(platform === 'linkedin' ? { title: 'Approved document', pdf: { path: 'social-assets/knowledge-threads-month/exports/C02.pdf', url: 'https://example.test/C02.pdf', sha256: 'f'.repeat(64), bytes: 100, pageCount: 6, widthPt: 600, heightPt: 750 }, thumbnail: image(1) } : { images: Array.from({ length: 6 }, (_, i) => image(i + 1)) }),
   };
   const account = { id: target.channelId, service: target.service, serviceId: target.serviceId, externalLink: target.profile, name: 'hashtagweb3', type: platform === 'linkedin' ? 'page' : 'business', organizationId: 'brand-org', isDisconnected: false, isLocked: false, isQueuePaused: false, allowedActions: ['readUpdates', 'scheduleUpdates'] };
@@ -77,6 +79,24 @@ function harness(platform, options = {}) {
   });
   return { run, spec, sourceThread, faults, mutations, requests, writes, records, posts, state: () => remote, time: value => { currentTime = value; } };
 }
+
+test('native Buffer creates reject leaked captions, labels, source image text and long paragraphs before a claim', async () => {
+  for (const platform of ['linkedin', 'instagram']) for (const change of [
+    spec => { spec.caption = 'Authored summary of the answer.'; },
+    spec => { spec.caption = 'a'.repeat(211); },
+    spec => { spec.sourceImages[0].renderedText = 'Local capture'; },
+    spec => { delete spec.sourceImages[0].renderedText; },
+    spec => { (spec.thumbnail || spec.images[0]).alt = 'Internal review notes for the chart.'; },
+  ]) {
+    const h = harness(platform); change(h.spec);
+    await assert.rejects(h.run(), /PUBLIC copy/);
+    assert.equal(h.requests.length, 0); assert.equal(h.writes.length, 0);
+    let calls = 0;
+    const client = carouselProviderClient(platform, { readOnly: false, fetcher: async () => { calls++; throw new Error('Unexpected provider request'); } });
+    await assert.rejects(client.create(h.spec, async () => {}), /PUBLIC copy/);
+    assert.equal(calls, 0);
+  }
+});
 
 test('one native document or six-image feed post is created only after a durable claim', async () => {
   for (const platform of ['linkedin', 'instagram']) {

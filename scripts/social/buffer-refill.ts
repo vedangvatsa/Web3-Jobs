@@ -17,6 +17,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
+import { assertPublicFields } from './public-copy-guard.mjs';
 
 const TOKEN = process.env.BUFFER_ACCESS_TOKEN || '';
 const ORG_ID = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
@@ -56,6 +57,7 @@ function hashText(text: string): string {
 
 async function gqlRequest(query: string, variables: any) {
  if (/\bcreatePost\b/.test(query)) assertEvergreenContent(variables);
+ if (/\bcreatePost\b/.test(query)) assertPublicFields(variables, { field: 'buffer.createPost' });
  const res = await fetch(GRAPHQL_URL, {
  method: 'POST',
  headers: {
@@ -149,7 +151,7 @@ async function getQueueCount(channelId: string): Promise<number> {
  return 0;
 }
 
-async function schedulePost(
+export async function schedulePost(
  channelId: string,
  text: string,
  imageUrl: string,
@@ -295,6 +297,7 @@ async function run() {
  }
 
  const dueAt = slots[scheduled].toISOString();
+ assertPublicFields(post, { field: `content-schedule[${post.id}]` });
  console.log(`  ${post.id} at ${dueAt}`);
   const uniqueText = post.linkedin.text.replace(/hashtagweb3\.com\/th/g, 'hashtagweb3.com/li')
                                       .replace(/hashtagweb3\.com(?!\/)/g, 'hashtagweb3.com/li');
@@ -363,6 +366,7 @@ async function run() {
  }
 
  const dueAt = slots[scheduled].toISOString();
+ assertPublicFields(post, { field: `content-schedule[${post.id}]` });
  console.log(`  ${post.id} at ${dueAt}`);
  const result = await schedulePost(
  INSTAGRAM_ID,
@@ -398,4 +402,4 @@ async function run() {
  console.log('\nRefill complete. State saved.');
 }
 
-run().catch(console.error);
+if (require.main === module) run().catch(error => { console.error(error); process.exitCode = 1; });

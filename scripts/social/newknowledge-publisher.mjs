@@ -3,6 +3,7 @@ import { randomUUID } from 'node:crypto';
 import { assertKnowledgeWindow } from './newknowledge-content.mjs';
 import { verifyXReceipt, verifyThreadsReceipt } from './newknowledge-providers.mjs';
 import { sleep } from './newknowledge-state.mjs';
+import { assertPublicFields, assertPublicImageCopy, usesPublicCopyPolicy } from './public-copy-guard.mjs';
 
 export async function runKnowledgePlatform({
   spec, store, client, verifyImage, mode = 'publish', initialState,
@@ -14,9 +15,12 @@ export async function runKnowledgePlatform({
   const guard = () => {
     assert.equal(mode, 'publish', 'Read-only provider operation');
     assertKnowledgeWindow(spec.date, clock());
+    assertPublicFields({ posts: spec.posts, assets: spec.assets }, { field: `${spec.platform}/${spec.threadId}` });
+    spec.assets.forEach((asset, index) => assertPublicImageCopy(asset, { field: `${spec.platform}/${spec.threadId}.assets[${index}]` }));
   };
   const save = async () => { state = await store.save(state); };
   if (state) assert.deepEqual(state.spec, spec, 'Claimed content, account or image pin changed');
+  if (usesPublicCopyPolicy(spec)) assertPublicFields({ posts: spec.posts, assets: spec.assets }, { field: `${spec.platform}/${spec.threadId}` });
   if (state?.status === 'verified' && mode === 'publish') return { status: 'already-sent', state };
   if (mode === 'publish') guard();
   const account = await client.account();
@@ -45,9 +49,11 @@ export async function runKnowledgePlatform({
       const post = await client.post(recovery.postId);
       await verifyXReceipt(post, spec, verifyImage);
       assert.equal(post.id, recovery.postId);
-      state.postId = recovery.postId;
-      state.status = 'accepted';
-      await save();
+      if (!state.postId) {
+        state.postId = recovery.postId;
+        state.status = 'accepted';
+        await save();
+      }
     }
     assert.ok(state.postId, 'Ambiguous earlier X creation; reconcile manually without resending');
     const attempts = mode === 'publish' ? 36 : 1;
@@ -58,7 +64,7 @@ export async function runKnowledgePlatform({
       await verifyXReceipt(post, spec, verifyImage);
       assert.notEqual(post.status, 'error', 'X provider failed; keep the ID and reconcile manually');
       if (post.status === 'sent') {
-        if (mode !== 'preflight') {
+        if (mode !== 'preflight' && state.status !== 'verified') {
           state.status = 'verified';
           state.permalink = post.externalLink;
           state.verifiedAt ||= stamp();
@@ -82,9 +88,11 @@ export async function runKnowledgePlatform({
       assert.ok(step && (!step.postId || step.postId === recovery.postId), 'Recovery requires an existing claim and cannot replace an ID');
       const post = await client.post(recovery.postId);
       await verifyThreadsReceipt(post, recovery.postId, expected, spec.assets[index], previousId, verifyImage);
-      step.postId = recovery.postId;
-      step.status = 'accepted';
-      await save();
+      if (!step.postId) {
+        step.postId = recovery.postId;
+        step.status = 'accepted';
+        await save();
+      }
       step = state.steps[index];
     }
     if (!step) {
@@ -129,14 +137,18 @@ export async function runKnowledgePlatform({
     const post = await client.post(step.postId);
     await journal(post, `threads-post-${index + 1}`);
     await verifyThreadsReceipt(post, step.postId, expected, spec.assets[index], previousId, verifyImage);
-    state.steps[index].status = 'verified';
-    state.steps[index].permalink = post.permalink;
-    state.steps[index].verifiedAt ||= stamp();
+    if (state.steps[index].status !== 'verified') {
+      state.steps[index].status = 'verified';
+      state.steps[index].permalink = post.permalink;
+      state.steps[index].verifiedAt ||= stamp();
+      if (mode !== 'preflight') await save();
+    }
+  }
+  if (state.status !== 'verified') {
+    state.status = 'verified';
+    state.permalink = state.steps[0].permalink;
+    state.verifiedAt ||= stamp();
     if (mode !== 'preflight') await save();
   }
-  state.status = 'verified';
-  state.permalink = state.steps[0].permalink;
-  state.verifiedAt ||= stamp();
-  if (mode !== 'preflight') await save();
   return { status: 'verified', state };
 }

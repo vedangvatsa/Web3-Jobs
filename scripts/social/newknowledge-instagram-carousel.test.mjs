@@ -5,6 +5,7 @@ import { CAMPAIGN, sha256 } from './newknowledge-content.mjs';
 import { durableReceipt } from './newknowledge-state.mjs';
 import { carouselReceiptPath } from './newknowledge-carousel-state.mjs';
 import { INSTAGRAM_CAROUSEL_TARGET, createInstagramCarouselSpec, instagramCarouselClient, runInstagramCarousel } from './newknowledge-instagram-carousel.mjs';
+import { publicThreadFixture } from './public-copy-fixtures.mjs';
 
 const content = JSON.parse(await fs.readFile(new URL('../../social-assets/knowledge-threads-month/content.json', import.meta.url)));
 const calendar = JSON.parse(await fs.readFile(new URL('../../social-assets/knowledge-threads-month/calendar.json', import.meta.url)));
@@ -13,13 +14,32 @@ const token = 'offline-meta-secret';
 const response = (value, status = 200) => new Response(JSON.stringify(value), { status });
 const encode = value => JSON.stringify(value, null, 2) + '\n';
 
+test('Meta child and parent creates enforce public copy even for direct manual callers', async () => {
+  for (const change of [
+    spec => { spec.caption = 'Authored summary for the reviewer.'; },
+    spec => { spec.images[2].alt = 'Local capture of the result.'; },
+    spec => { spec.sourceImages[0].renderedText = 'Parent: instructions'; },
+    spec => { delete spec.sourceImages[0].renderedText; },
+    spec => { spec.caption = 'a'.repeat(211); },
+  ]) {
+    const h = harness(); change(h.spec);
+    await assert.rejects(h.run(), /PUBLIC copy/);
+    assert.equal(h.requests.length, 0); assert.equal(h.writes.length, 0);
+    let calls = 0;
+    const client = instagramCarouselClient({ readOnly: false, fetcher: async () => { calls++; throw new Error('Unexpected provider request'); } });
+    await assert.rejects(client.createChild(h.spec, 0, async () => {}), /PUBLIC copy/);
+    await assert.rejects(client.createParent(h.spec, ['1', '2', '3', '4', '5', '6'], async () => {}), /PUBLIC copy/);
+    assert.equal(calls, 0);
+  }
+});
+
 function harness(options = {}) {
-  const sourceThread = structuredClone(content.threads.find(thread => thread.id === 'C02'));
+  const sourceThread = publicThreadFixture(content.threads.find(thread => thread.id === 'C02'));
   if (options.freshness) sourceThread.freshness = options.freshness;
   const bufferSpec = {
     campaign: CAMPAIGN, date, threadId: sourceThread.id, sequence: sourceThread.sequence, platform: 'instagram',
     sourceContentSha256: 'f'.repeat(64), calendarSha256: 'c'.repeat(64), sourceThreadSha256: sha256(JSON.stringify(sourceThread)),
-    sourcePostHashes: sourceThread.posts.map(post => sha256(JSON.stringify(post))), sourceImages: [], assetCommit: commit,
+    sourcePostHashes: sourceThread.posts.map(post => sha256(JSON.stringify(post))), sourceImages: sourceThread.posts.map(post => ({ alt: post.alt, renderedText: post.visual.headline })), assetCommit: commit,
     target: { channelId: 'old-buffer-channel' }, caption: 'Approved native Instagram carousel caption #Web3',
     images: Array.from({ length: 6 }, (_, index) => {
       const file = `social-assets/knowledge-threads-month/exports/C02/instagram/0${index + 1}.jpg`;

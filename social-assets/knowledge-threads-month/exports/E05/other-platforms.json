@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.",
-        "alt": "Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ.",
+        "text": "The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.\n\nCheck your accommodation's connection separately.",
+        "alt": "City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ.",
         "image": "social-assets/knowledge-threads-month/images/E05-01.jpg"
       },
       {
         "number": 2,
-        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.",
-        "alt": "Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400",
+        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in the 2026 Q1 snapshot, leading the directory on both measures.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent.",
+        "alt": "Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-02.jpg"
       },
       {
         "number": 3,
-        "text": "2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
-        "alt": "Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400",
+        "text": "2. Paris, France: 475.9 Mbps down / 346 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
+        "alt": "Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-03.jpg"
       },
       {
         "number": 4,
-        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.",
-        "alt": "Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated",
+        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in the 2026 Q1 snapshot. Estimated budget: USD 1,800/month.\n\nThird on download, but the lowest upload in this five-city group.",
+        "alt": "Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800.",
         "image": "social-assets/knowledge-threads-month/images/E05-04.jpg"
       },
       {
         "number": 5,
-        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.",
-        "alt": "Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350",
+        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 900/month, including USD 350 rent. That's USD 2,100/month below Singapore's estimate.",
+        "alt": "Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-05.jpg"
       },
       {
         "number": 6,
-        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.\n\nhashtagweb3.com/nomads/x",
-        "alt": "Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated",
+        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this snapshot.\n\nhashtagweb3.com/nomads/x",
+        "alt": "Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800.",
         "image": "social-assets/knowledge-threads-month/images/E05-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.",
-        "alt": "Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ.",
+        "text": "The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.\n\nCheck your accommodation's connection separately.",
+        "alt": "City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ.",
         "image": "social-assets/knowledge-threads-month/images/E05-01.jpg"
       },
       {
         "number": 2,
-        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.",
-        "alt": "Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400",
+        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in the 2026 Q1 snapshot, leading the directory on both measures.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent.",
+        "alt": "Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-02.jpg"
       },
       {
         "number": 3,
-        "text": "2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
-        "alt": "Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400",
+        "text": "2. Paris, France: 475.9 Mbps down / 346 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
+        "alt": "Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-03.jpg"
       },
       {
         "number": 4,
-        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.",
-        "alt": "Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated",
+        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in the 2026 Q1 snapshot. Estimated budget: USD 1,800/month.\n\nThird on download, but the lowest upload in this five-city group.",
+        "alt": "Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800.",
         "image": "social-assets/knowledge-threads-month/images/E05-04.jpg"
       },
       {
         "number": 5,
-        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.",
-        "alt": "Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350",
+        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 900/month, including USD 350 rent. That's USD 2,100/month below Singapore's estimate.",
+        "alt": "Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-05.jpg"
       },
       {
         "number": 6,
-        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.\n\nhashtagweb3.com/nomads/th",
-        "alt": "Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated",
+        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this snapshot.\n\nhashtagweb3.com/nomads/th",
+        "alt": "Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800.",
         "image": "social-assets/knowledge-threads-month/images/E05-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.\n\n1. 1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.\n\n2. 2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.\n\n3. 3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.\n\n4. 4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.\n\n5. 5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.\n\nFull resource: hashtagweb3.com/nomads/fb",
+    "caption": "The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.\n\nCheck your accommodation's connection separately.\n\n1. 1. Singapore: 576.9 Mbps down / 453.7 up in the 2026 Q1 snapshot, leading the directory on both measures.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent.\n\n2. 2. Paris, France: 475.9 Mbps down / 346 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.\n\n3. 3. Shanghai, China: 449.9 Mbps down / 120.3 up in the 2026 Q1 snapshot. Estimated budget: USD 1,800/month.\n\nThird on download, but the lowest upload in this five-city group.\n\n4. 4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 900/month, including USD 350 rent. That's USD 2,100/month below Singapore's estimate.\n\n5. 5. Santiago, Chile: 429.2 Mbps down / 369.1 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this snapshot.\n\nFull resource: hashtagweb3.com/nomads/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E05-01.jpg",
-        "sha256": "49b500101bbb09f5732592931445b07357d460d1d3b6121812d4bfc15735f55e",
-        "bytes": 195080,
+        "sha256": "783b0a5250553ec11960e751ff9a4c870113710266fb601374facbdb4758bf6e",
+        "bytes": 202519,
         "width": 1200,
         "height": 1500,
-        "alt": "Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ."
+        "alt": "City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-02.jpg",
-        "sha256": "2a041e939e66cde53adf8140b78220e0bd35ca970e9a0ec4e33c111c7662795b",
-        "bytes": 166806,
+        "sha256": "a5807d0a55b0ca636e0bf7aae1e81d464d6452f80ee9c0d367f96ca6959921be",
+        "bytes": 169422,
         "width": 1200,
         "height": 1500,
-        "alt": "Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400"
+        "alt": "Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-03.jpg",
-        "sha256": "e66f7c4407c08d856dcccd9dfeef3d9ff0aa54f20a13623580857ad4222b795a",
-        "bytes": 138739,
+        "sha256": "2dc14d4461341889cda8d94150a129c04ab329a3fffbb75f13efed202c5cd10b",
+        "bytes": 141474,
         "width": 1200,
         "height": 1500,
-        "alt": "Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400"
+        "alt": "Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-04.jpg",
-        "sha256": "5303fc130aadec9df05afd47edceb1ec03834ea787d0e2befece85164db8a162",
-        "bytes": 162326,
+        "sha256": "a7ee453a31ccb4f8e91844df4a5bc5de3514bf57e09624c71a9040a6188a77ad",
+        "bytes": 164197,
         "width": 1200,
         "height": 1500,
-        "alt": "Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated"
+        "alt": "Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-05.jpg",
-        "sha256": "4e5a5415f5406f377a690fab73370a0f574d751a4f3120dec0d9f95df1303e6b",
-        "bytes": 228029,
+        "sha256": "7851416292c45124ce6045351b4a1b91127d257f71b7ba28e51eeada4fe6aa95",
+        "bytes": 228553,
         "width": 1200,
         "height": 1500,
-        "alt": "Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350"
+        "alt": "Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-06.jpg",
-        "sha256": "d92bdb8a17b4d90e7d321b117f41bed5ca7053c346e6c2864fbc092b56468d11",
-        "bytes": 244502,
+        "sha256": "d938ff53a33f0fb0cf3d479a58c681e67354d54d1f3ee373ef662b9cb80ff970",
+        "bytes": 245340,
         "width": 1200,
         "height": 1500,
-        "alt": "Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated"
+        "alt": "Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800."
       }
     ]
   },
   "telegram": {
-    "caption": "The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.\n\nhashtagweb3.com/nomads/tg",
+    "caption": "The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.\n\nCheck your accommodation's connection separately.\n\nhashtagweb3.com/nomads/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/E05-01.jpg",
-        "sha256": "49b500101bbb09f5732592931445b07357d460d1d3b6121812d4bfc15735f55e",
-        "bytes": 195080,
+        "sha256": "783b0a5250553ec11960e751ff9a4c870113710266fb601374facbdb4758bf6e",
+        "bytes": 202519,
         "width": 1200,
         "height": 1500,
-        "alt": "Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ."
+        "alt": "City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-02.jpg",
-        "sha256": "2a041e939e66cde53adf8140b78220e0bd35ca970e9a0ec4e33c111c7662795b",
-        "bytes": 166806,
+        "sha256": "a5807d0a55b0ca636e0bf7aae1e81d464d6452f80ee9c0d367f96ca6959921be",
+        "bytes": 169422,
         "width": 1200,
         "height": 1500,
-        "alt": "Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400"
+        "alt": "Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-03.jpg",
-        "sha256": "e66f7c4407c08d856dcccd9dfeef3d9ff0aa54f20a13623580857ad4222b795a",
-        "bytes": 138739,
+        "sha256": "2dc14d4461341889cda8d94150a129c04ab329a3fffbb75f13efed202c5cd10b",
+        "bytes": 141474,
         "width": 1200,
         "height": 1500,
-        "alt": "Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400"
+        "alt": "Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-04.jpg",
-        "sha256": "5303fc130aadec9df05afd47edceb1ec03834ea787d0e2befece85164db8a162",
-        "bytes": 162326,
+        "sha256": "a7ee453a31ccb4f8e91844df4a5bc5de3514bf57e09624c71a9040a6188a77ad",
+        "bytes": 164197,
         "width": 1200,
         "height": 1500,
-        "alt": "Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated"
+        "alt": "Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-05.jpg",
-        "sha256": "4e5a5415f5406f377a690fab73370a0f574d751a4f3120dec0d9f95df1303e6b",
-        "bytes": 228029,
+        "sha256": "7851416292c45124ce6045351b4a1b91127d257f71b7ba28e51eeada4fe6aa95",
+        "bytes": 228553,
         "width": 1200,
         "height": 1500,
-        "alt": "Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350"
+        "alt": "Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/E05-06.jpg",
-        "sha256": "d92bdb8a17b4d90e7d321b117f41bed5ca7053c346e6c2864fbc092b56468d11",
-        "bytes": 244502,
+        "sha256": "d938ff53a33f0fb0cf3d479a58c681e67354d54d1f3ee373ef662b9cb80ff970",
+        "bytes": 245340,
         "width": 1200,
         "height": 1500,
-        "alt": "Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated"
+        "alt": "Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "The directory's 5 fastest city entries by fixed-broadband download, ranked using 2026 Q1 data. Monthly budgets are USD estimates. These are city-level reference speeds, not a promise about your apartment's Wi-Fi.",
+        "text": "The directory's 5 fastest cities by fixed-broadband download, using a 2026 Q1 snapshot. Monthly budgets are USD estimates.\n\nCheck your accommodation's connection separately.",
         "image": "social-assets/knowledge-threads-month/images/E05-01.jpg",
-        "alt": "Five broadband leaders: 2026 Q1. Real city photograph strips with an authored ranking table. Fixed broadband: 2026 Q1 · USD/month estimates; 1. Singapore; 576.9 Mbps down · USD 3,000; 2. Paris; 475.9 Mbps down · USD 3,000; 3. Shanghai; 449.9 Mbps down · USD 1,800; 4. Johor; 443.2 Mbps down · USD 900; 5. Santiago; 429.2 Mbps down · USD 1,800; City-level reference speeds. Your accommodation connection can differ."
+        "alt": "City photos ranked by fixed-broadband download in the 2026 Q1 directory snapshot, with monthly USD budget estimates: Singapore 576.9 Mbps, 3,000; Paris 475.9 Mbps, 3,000; Shanghai 449.9 Mbps, 1,800; Johor 443.2 Mbps, 900; Santiago 429.2 Mbps, 1,800. Accommodation connections can differ."
       },
       {
-        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. It leads this directory on both download and upload.",
+        "text": "1. Singapore: 576.9 Mbps down / 453.7 up in the 2026 Q1 snapshot, leading the directory on both measures.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent.",
         "image": "social-assets/knowledge-threads-month/images/E05-02.jpg",
-        "alt": "Singapore. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 576.9; Upload (Mbps); 453.7; USD 3,000/month; rent 1,400"
+        "alt": "Singapore photo with fixed-broadband figures from the 2026 Q1 snapshot: 576.9 Mbps download and 453.7 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
-        "text": "2. Paris, France: 475.9 Mbps down / 346 up in 2026 Q1. Estimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
+        "text": "2. Paris, France: 475.9 Mbps down / 346 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 3,000/month, including USD 1,400 rent. Same budget as Singapore; download is 101 Mbps lower.",
         "image": "social-assets/knowledge-threads-month/images/E05-03.jpg",
-        "alt": "Paris, France. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 3,000; Download (Mbps); 475.9; Upload (Mbps); 346; USD 3,000/month; rent 1,400"
+        "alt": "Paris, France, photo with fixed-broadband figures from the 2026 Q1 snapshot: 475.9 Mbps download and 346 Mbps upload. Estimated monthly budget: USD 3,000, including USD 1,400 rent."
       },
       {
-        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in 2026 Q1. Estimated budget: USD 1,800/month. Third on download, but the lowest upload figure in this five-city group.",
+        "text": "3. Shanghai, China: 449.9 Mbps down / 120.3 up in the 2026 Q1 snapshot. Estimated budget: USD 1,800/month.\n\nThird on download, but the lowest upload in this five-city group.",
         "image": "social-assets/knowledge-threads-month/images/E05-04.jpg",
-        "alt": "Shanghai, China. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 449.9; Upload (Mbps); 120.3; USD 1,800/month estimated"
+        "alt": "Shanghai, China, photo with fixed-broadband figures from the 2026 Q1 snapshot: 449.9 Mbps download and 120.3 Mbps upload. Estimated monthly budget: USD 1,800."
       },
       {
-        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in 2026 Q1. Estimated budget: USD 900/month, including USD 350 rent. That is USD 2,100/month below Singapore's reference budget.",
+        "text": "4. Johor, Malaysia: 443.2 Mbps down / 327.9 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 900/month, including USD 350 rent. That's USD 2,100/month below Singapore's estimate.",
         "image": "social-assets/knowledge-threads-month/images/E05-05.jpg",
-        "alt": "Johor, Malaysia. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 900; Download (Mbps); 443.2; Upload (Mbps); 327.9; USD 900/month; rent 350"
+        "alt": "Johor, Malaysia, photo with fixed-broadband figures from the 2026 Q1 snapshot: 443.2 Mbps download and 327.9 Mbps upload. Estimated monthly budget: USD 900, including USD 350 rent."
       },
       {
-        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in 2026 Q1. Estimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this dataset.\n\nhashtagweb3.com/nomads/bsky",
+        "text": "5. Santiago, Chile: 429.2 Mbps down / 369.1 up in the 2026 Q1 snapshot.\n\nEstimated budget: USD 1,800/month. Same budget as Shanghai, with upload 248.8 Mbps higher in this snapshot.\n\nhashtagweb3.com/nomads/bsky",
         "image": "social-assets/knowledge-threads-month/images/E05-06.jpg",
-        "alt": "Santiago, Chile. Real city photograph above authored metric labels. Fixed broadband: 2026 Q1 · USD/month estimates; Cost (USD/month); 1,800; Download (Mbps); 429.2; Upload (Mbps); 369.1; USD 1,800/month estimated"
+        "alt": "Santiago, Chile, photo with fixed-broadband figures from the 2026 Q1 snapshot: 429.2 Mbps download and 369.1 Mbps upload. Estimated monthly budget: USD 1,800."
       }
     ]
   }

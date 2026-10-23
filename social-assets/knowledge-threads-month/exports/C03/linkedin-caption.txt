@@ -1,13 +1,25 @@
-Five bases at or below USD 1,000/month from our directory. A regional shortlist, ordered by estimated total cost. Rent and coworking are included; internet figures are fixed broadband from 2026 Q1.
+Five regional bases at USD 1,000/month or less, ordered by estimated cost. Rent and coworking included.
 
-1. Batumi, Georgia: USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other. Fixed broadband: 58.3 down / 34.1 up Mbps (2026 Q1).
+Fixed-broadband figures are a 2026 Q1 snapshot.
 
-2. Da Nang, Vietnam: USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other. Fixed broadband: 245.9 down / 198.4 up Mbps (2026 Q1).
+1. Batumi, Georgia: estimated USD 750/month = 300 rent + 200 food + 30 transport + 80 coworking + 140 other.
 
-3. Tirana, Albania: USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other. Fixed broadband: 52.1 down / 28.4 up Mbps (2026 Q1).
+2026 Q1 broadband snapshot: 58.3 down / 34.1 up Mbps.
 
-4. Accra, Ghana: USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other. Fixed broadband: 81.6 down / 46.5 up Mbps (2026 Q1).
+2. Da Nang, Vietnam: estimated USD 850/month = 300 rent + 250 food + 40 transport + 120 coworking + 140 other.
 
-5. Merida, Mexico: USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other. Fixed broadband: 72.4 down / 35.8 up Mbps (2026 Q1).
+2026 Q1 broadband snapshot: 245.9 down / 198.4 up Mbps.
+
+3. Tirana, Albania: estimated USD 850/month = 350 rent + 220 food + 30 transport + 100 coworking + 150 other.
+
+2026 Q1 broadband snapshot: 52.1 down / 28.4 up Mbps.
+
+4. Accra, Ghana: estimated USD 1,000/month = 400 rent + 250 food + 60 transport + 150 coworking + 140 other.
+
+2026 Q1 broadband snapshot: 81.6 down / 46.5 up Mbps.
+
+5. Merida, Mexico: estimated USD 1,000/month = 450 rent + 250 food + 40 transport + 100 coworking + 160 other.
+
+2026 Q1 broadband snapshot: 72.4 down / 35.8 up Mbps.
 
 Full resource: hashtagweb3.com/nomads/li

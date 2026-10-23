@@ -7,6 +7,7 @@ import { ASSET_DIRECTORY, CAMPAIGN, sha256, validateCampaign, assertKnowledgeWin
 import { REPOSITORY, sleep } from './newknowledge-state.mjs';
 import { assertCarouselDate, CAROUSEL_PLATFORMS } from './newknowledge-carousel-state.mjs';
 import { CAROUSEL_ACCOUNTS, assertCarouselAccount, assertCarouselCaption, bufferCarouselInput, verifyCarouselReceipt } from './newknowledge-carousel-providers.mjs';
+import { assertPublicFields, assertPublicThread, assertPublicImageCopy, assertPublicCarouselCopy, usesPublicCopyPolicy } from './public-copy-guard.mjs';
 
 export const CAROUSEL_EXPORT_DIRECTORY = `${ASSET_DIRECTORY}/exports`;
 const hashPattern = /^[a-f0-9]{64}$/;
@@ -111,21 +112,32 @@ export async function inspectCarouselExport(root, bundle, entry, platform) {
   assert.ok(CAROUSEL_PLATFORMS.includes(platform));
   const thread = bundle.content.threads.find(thread => thread.id === entry.id);
   assert.ok(thread, 'Carousel source thread missing');
+  const strict = usesPublicCopyPolicy({ campaign: CAMPAIGN, threadId: thread.id, sequence: thread.sequence, date: entry.date });
+  if (strict) assertPublicThread(thread);
   assert.deepEqual(entry.sourcePostHashes, thread.posts.map(post => sha256(JSON.stringify(post))), 'Carousel source post hashes changed');
   assert.equal(entry.sourceImages?.length, 6);
   const sourceImages = [];
   for (const [index, image] of entry.sourceImages.entries()) {
     const number = index + 1;
-    const master = bundle.imageManifest.images.find(image => image.threadId === thread.id && image.postNumber === number);
+    const matches = bundle.imageManifest.images.filter(image => image.threadId === thread.id && image.postNumber === number);
+    assert.equal(matches.length, 1, `image-manifest[${thread.id}/${number}]: expected one declared image`);
+    const master = matches[0];
     assert.ok(master, 'Source image manifest entry missing');
+    if (strict) assertPublicImageCopy(master, { field: `image-manifest[${thread.id}/${number}]` });
     assert.equal(master.contentPostSha256, entry.sourcePostHashes[index]);
     const expected = { path: master.repoPath, sha256: master.sha256, bytes: master.bytes, width: 1200, height: 1500, alt: master.alt };
     assert.deepEqual(assetMetadata(image), expected, 'Carousel source image metadata/order changed');
-    sourceImages.push(await inspectAsset(root, image, { sourceId: thread.id, number }));
+    const source = await inspectAsset(root, image, { sourceId: thread.id, number });
+    if (strict) {
+      assert.equal(master.alt, thread.posts[index].alt || `${thread.posts[index].visual.headline}. ${thread.posts[index].visual.labels.join('. ')}.`, `image-manifest[${thread.id}/${number}].alt: source label changed`);
+      source.renderedText = master.renderedText;
+    }
+    sourceImages.push(source);
   }
   assert.equal(new Set(sourceImages.map(image => image.sha256)).size, 6, 'Source images must be distinct');
   const output = entry[platform];
   assertCarouselCaption(output?.caption, platform);
+  if (strict) assertPublicFields(output, { field: `carousel[${thread.id}].${platform}` });
   const result = { sourceThread: thread, sourceImages, caption: output.caption };
   if (platform === 'linkedin') {
     assert.ok(typeof output.title === 'string' && output.title.trim() === output.title && output.title.length > 0 && !/[\r\n]/.test(output.title), 'Invalid document title');
@@ -164,6 +176,19 @@ export function carouselSpec(bundle, entry, platform, inspected, assetCommit) {
   return platform === 'linkedin'
     ? { ...base, title: inspected.title, pdf: pinAsset(inspected.pdf, assetCommit), thumbnail: pinAsset(inspected.thumbnail, assetCommit) }
     : { ...base, images: inspected.images.map(image => pinAsset(image, assetCommit)) };
+}
+
+export function retainClaimedCarouselSpec(candidate, claimed) {
+  if (!claimed) return candidate;
+  const comparison = structuredClone(candidate);
+  if (!usesPublicCopyPolicy(claimed)) {
+    for (const key of ['sourceContentSha256', 'calendarSha256']) {
+      assert.match(claimed[key], hashPattern, `Missing claimed ${key}`);
+      comparison[key] = claimed[key];
+    }
+  }
+  assert.deepEqual(comparison, claimed, 'Claimed carousel selected content, caption, assets or account changed');
+  return structuredClone(claimed);
 }
 
 async function downloadAsset(url, expected, fetcher, pinned = false) {
@@ -205,7 +230,7 @@ export async function runCarouselPlatform({
   assert.equal(spec.sourceThreadSha256, sha256(JSON.stringify(sourceThread)), 'Selected source changed');
   assert.deepEqual(spec.sourcePostHashes, sourceThread.posts.map(post => sha256(JSON.stringify(post))), 'Selected source posts changed');
   assert.deepEqual(calendar.dates.find(entry => entry.date === spec.date), { date: spec.date, id: sourceThread.id, title: sourceThread.title, sequence: sourceThread.sequence }, 'Selected calendar date changed');
-  bufferCarouselInput(spec);
+  bufferCarouselInput(spec, { publicCopy: usesPublicCopyPolicy(spec) });
   assert.equal(typeof journal, 'function', 'Durable local journal required');
   assert.equal(typeof verifyAssets, 'function', 'Public asset verification required');
   if (recovery) {
@@ -225,6 +250,8 @@ export async function runCarouselPlatform({
   const guard = () => {
     assert.equal(mode, 'publish', 'Read-only provider operation');
     assertKnowledgeWindow(spec.date, clock());
+    assertPublicThread(sourceThread);
+    assertPublicCarouselCopy(spec);
     freshness();
   };
   const stamp = () => new Date(clock()).toISOString();

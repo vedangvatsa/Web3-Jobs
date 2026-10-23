@@ -3,38 +3,38 @@
     "posts": [
       {
         "number": 1,
-        "text": "Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.",
-        "alt": "Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index.",
+        "text": "Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.\n\nSafety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.",
+        "alt": "City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index.",
         "image": "social-assets/knowledge-threads-month/images/N06-01.jpg"
       },
       {
         "number": 2,
-        "text": "Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).",
-        "alt": "Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Chiang Mai, Thailand: site safety 8/10; estimated USD 900/month, including USD 350 rent and USD 120 coworking.\n\n2026 Q1 broadband snapshot: 335.9 down / 274.1 up Mbps.",
+        "alt": "Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-02.jpg"
       },
       {
         "number": 3,
-        "text": "Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).",
-        "alt": "Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Bansko, Bulgaria: site safety 8/10; estimated USD 1,000/month, including USD 380 rent and USD 150 coworking.\n\n2026 Q1 broadband snapshot: 122.4 down / 89.2 up Mbps.",
+        "alt": "Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-03.jpg"
       },
       {
         "number": 4,
-        "text": "Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).",
-        "alt": "Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Krakow, Poland: site safety 8/10; estimated USD 1,400/month, including USD 550 rent and USD 200 coworking.\n\n2026 Q1 broadband snapshot: 317.2 down / 129.5 up Mbps.",
+        "alt": "Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-04.jpg"
       },
       {
         "number": 5,
-        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.",
-        "alt": "Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated.\n\n2026 Q1 broadband snapshot: 304.7 down / 255.4 up Mbps. Same budget as Krakow; upload is 125.9 Mbps higher.",
+        "alt": "Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-05.jpg"
       },
       {
         "number": 6,
-        "text": "Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/x",
-        "alt": "Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Tallinn, Estonia: site safety 8.2/10; estimated USD 1,500/month, including USD 600 rent, at the budget ceiling.\n\n2026 Q1 broadband snapshot: 183.2 down / 149.7 up Mbps.\n\nhashtagweb3.com/nomads/x",
+        "alt": "Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-06.jpg"
       }
     ]
@@ -43,179 +43,179 @@
     "posts": [
       {
         "number": 1,
-        "text": "Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.",
-        "alt": "Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index.",
+        "text": "Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.\n\nSafety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.",
+        "alt": "City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index.",
         "image": "social-assets/knowledge-threads-month/images/N06-01.jpg"
       },
       {
         "number": 2,
-        "text": "Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).",
-        "alt": "Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Chiang Mai, Thailand: site safety 8/10; estimated USD 900/month, including USD 350 rent and USD 120 coworking.\n\n2026 Q1 broadband snapshot: 335.9 down / 274.1 up Mbps.",
+        "alt": "Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-02.jpg"
       },
       {
         "number": 3,
-        "text": "Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).",
-        "alt": "Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Bansko, Bulgaria: site safety 8/10; estimated USD 1,000/month, including USD 380 rent and USD 150 coworking.\n\n2026 Q1 broadband snapshot: 122.4 down / 89.2 up Mbps.",
+        "alt": "Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-03.jpg"
       },
       {
         "number": 4,
-        "text": "Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).",
-        "alt": "Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Krakow, Poland: site safety 8/10; estimated USD 1,400/month, including USD 550 rent and USD 200 coworking.\n\n2026 Q1 broadband snapshot: 317.2 down / 129.5 up Mbps.",
+        "alt": "Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-04.jpg"
       },
       {
         "number": 5,
-        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.",
-        "alt": "Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated.\n\n2026 Q1 broadband snapshot: 304.7 down / 255.4 up Mbps. Same budget as Krakow; upload is 125.9 Mbps higher.",
+        "alt": "Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-05.jpg"
       },
       {
         "number": 6,
-        "text": "Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/th",
-        "alt": "Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index.",
+        "text": "Tallinn, Estonia: site safety 8.2/10; estimated USD 1,500/month, including USD 600 rent, at the budget ceiling.\n\n2026 Q1 broadband snapshot: 183.2 down / 149.7 up Mbps.\n\nhashtagweb3.com/nomads/th",
+        "alt": "Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload.",
         "image": "social-assets/knowledge-threads-month/images/N06-06.jpg"
       }
     ]
   },
   "facebook": {
-    "caption": "Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.\n\n1. Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).\n\n2. Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).\n\n3. Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).\n\n4. Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.\n\n5. Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).\n\nFull resource: hashtagweb3.com/nomads/fb",
+    "caption": "Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.\n\nSafety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.\n\n1. Chiang Mai, Thailand: site safety 8/10; estimated USD 900/month, including USD 350 rent and USD 120 coworking.\n\n2026 Q1 broadband snapshot: 335.9 down / 274.1 up Mbps.\n\n2. Bansko, Bulgaria: site safety 8/10; estimated USD 1,000/month, including USD 380 rent and USD 150 coworking.\n\n2026 Q1 broadband snapshot: 122.4 down / 89.2 up Mbps.\n\n3. Krakow, Poland: site safety 8/10; estimated USD 1,400/month, including USD 550 rent and USD 200 coworking.\n\n2026 Q1 broadband snapshot: 317.2 down / 129.5 up Mbps.\n\n4. Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated.\n\n2026 Q1 broadband snapshot: 304.7 down / 255.4 up Mbps. Same budget as Krakow; upload is 125.9 Mbps higher.\n\n5. Tallinn, Estonia: site safety 8.2/10; estimated USD 1,500/month, including USD 600 rent, at the budget ceiling.\n\n2026 Q1 broadband snapshot: 183.2 down / 149.7 up Mbps.\n\nFull resource: hashtagweb3.com/nomads/fb",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/N06-01.jpg",
-        "sha256": "b2e21e1269602659a8ea1d7254749e6266dd2406a12852477a7de1f2f4f6cfa3",
-        "bytes": 182985,
+        "sha256": "febe7540b1bbc52135b09b3a4d1ae00e8012cd69c922aac95ed662358ca4b574",
+        "bytes": 193523,
         "width": 1200,
         "height": 1500,
-        "alt": "Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index."
+        "alt": "City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-02.jpg",
-        "sha256": "c547af709d67d1d9c23503d4f2432a6653cc10001ae6355c4772e3c820441625",
-        "bytes": 244316,
+        "sha256": "ea885200987028ab70d907bd36200a4d73b9fecf4927562a49d2293908fb8756",
+        "bytes": 237320,
         "width": 1200,
         "height": 1500,
-        "alt": "Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-03.jpg",
-        "sha256": "7e47b44b147d32e6a13fe5888187a7b604a4c270687fae5e66a35d5fb44f7ce0",
-        "bytes": 233443,
+        "sha256": "2bd781ae281b82052cd2a04d2eade65175e5429c3a0da2037c6d701e46296e08",
+        "bytes": 226691,
         "width": 1200,
         "height": 1500,
-        "alt": "Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-04.jpg",
-        "sha256": "75d144298a309249b43b4f8191e664dd5eac388496bd1671428f0dd5d326393b",
-        "bytes": 233639,
+        "sha256": "d5acba062dc297fc1959c97304aeaa7cb78a628ebf0683f22b99fb27a0a09c11",
+        "bytes": 226034,
         "width": 1200,
         "height": 1500,
-        "alt": "Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-05.jpg",
-        "sha256": "923684488c1bf519ce7ba826fe639c4a6326e8f3b398dcb4d3130ba3c8cf8a85",
-        "bytes": 236085,
+        "sha256": "5c69a6c5a04ed7cbadfcd99657e7b2158ef6c6c3b46d9ccbf3ac94bb189bf38a",
+        "bytes": 229327,
         "width": 1200,
         "height": 1500,
-        "alt": "Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-06.jpg",
-        "sha256": "5a9df774f8b894999cfbbb29d29f00ec1f03033e61a5a3471fa70d397218125a",
-        "bytes": 179433,
+        "sha256": "a5762c8ac43a06564b559a0e93f1d2484da34a86b9f05b9c57848756be534f01",
+        "bytes": 174731,
         "width": 1200,
         "height": 1500,
-        "alt": "Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload."
       }
     ]
   },
   "telegram": {
-    "caption": "Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.\n\nhashtagweb3.com/nomads/tg",
+    "caption": "Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.\n\nSafety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.\n\nhashtagweb3.com/nomads/tg",
     "images": [
       {
         "path": "social-assets/knowledge-threads-month/images/N06-01.jpg",
-        "sha256": "b2e21e1269602659a8ea1d7254749e6266dd2406a12852477a7de1f2f4f6cfa3",
-        "bytes": 182985,
+        "sha256": "febe7540b1bbc52135b09b3a4d1ae00e8012cd69c922aac95ed662358ca4b574",
+        "bytes": 193523,
         "width": 1200,
         "height": 1500,
-        "alt": "Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index."
+        "alt": "City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-02.jpg",
-        "sha256": "c547af709d67d1d9c23503d4f2432a6653cc10001ae6355c4772e3c820441625",
-        "bytes": 244316,
+        "sha256": "ea885200987028ab70d907bd36200a4d73b9fecf4927562a49d2293908fb8756",
+        "bytes": 237320,
         "width": 1200,
         "height": 1500,
-        "alt": "Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-03.jpg",
-        "sha256": "7e47b44b147d32e6a13fe5888187a7b604a4c270687fae5e66a35d5fb44f7ce0",
-        "bytes": 233443,
+        "sha256": "2bd781ae281b82052cd2a04d2eade65175e5429c3a0da2037c6d701e46296e08",
+        "bytes": 226691,
         "width": 1200,
         "height": 1500,
-        "alt": "Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-04.jpg",
-        "sha256": "75d144298a309249b43b4f8191e664dd5eac388496bd1671428f0dd5d326393b",
-        "bytes": 233639,
+        "sha256": "d5acba062dc297fc1959c97304aeaa7cb78a628ebf0683f22b99fb27a0a09c11",
+        "bytes": 226034,
         "width": 1200,
         "height": 1500,
-        "alt": "Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-05.jpg",
-        "sha256": "923684488c1bf519ce7ba826fe639c4a6326e8f3b398dcb4d3130ba3c8cf8a85",
-        "bytes": 236085,
+        "sha256": "5c69a6c5a04ed7cbadfcd99657e7b2158ef6c6c3b46d9ccbf3ac94bb189bf38a",
+        "bytes": 229327,
         "width": 1200,
         "height": 1500,
-        "alt": "Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload."
       },
       {
         "path": "social-assets/knowledge-threads-month/images/N06-06.jpg",
-        "sha256": "5a9df774f8b894999cfbbb29d29f00ec1f03033e61a5a3471fa70d397218125a",
-        "bytes": 179433,
+        "sha256": "a5762c8ac43a06564b559a0e93f1d2484da34a86b9f05b9c57848756be534f01",
+        "bytes": 174731,
         "width": 1200,
         "height": 1500,
-        "alt": "Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload."
       }
     ]
   },
   "bluesky": {
     "posts": [
       {
-        "text": "Five cities meet BOTH filters in our directory: safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index. Ordered by estimated monthly cost; internet is 2026 Q1 fixed broadband.",
+        "text": "Five directory cities with site safety ratings >=8/10 and estimated costs <=USD 1,500/month, ordered by cost.\n\nSafety is a site rating, not an official crime index. Broadband is a 2026 Q1 snapshot.",
         "image": "social-assets/knowledge-threads-month/images/N06-01.jpg",
-        "alt": "Safety + budget: five cities. Real city photograph strips with an authored ranking table. Site safety /10 · USD/month estimates; 1. Chiang Mai; 8/10 · USD 900; 2. Bansko; 8/10 · USD 1,000; 3. Krakow; 8/10 · USD 1,400; 4. Vilnius; 8/10 · USD 1,400; 5. Tallinn; 8.2/10 · USD 1,500; Safety ≥8/10; budget ≤USD 1,500/month. Site rating, not an official crime index."
+        "alt": "City photos ordered by estimated monthly cost, with site safety ratings: Chiang Mai 8/10, USD 900; Bansko 8/10, USD 1,000; Krakow 8/10, USD 1,400; Vilnius 8/10, USD 1,400; Tallinn 8.2/10, USD 1,500. All meet safety >=8/10 and cost <=USD 1,500/month. Safety is a site rating, not an official crime index."
       },
       {
-        "text": "Chiang Mai, Thailand: site safety 8/10; USD 900/month estimated. Rent is USD 350 and coworking USD 120 within that total. Fixed broadband: 335.9 down / 274.1 up Mbps (2026 Q1).",
+        "text": "Chiang Mai, Thailand: site safety 8/10; estimated USD 900/month, including USD 350 rent and USD 120 coworking.\n\n2026 Q1 broadband snapshot: 335.9 down / 274.1 up Mbps.",
         "image": "social-assets/knowledge-threads-month/images/N06-02.jpg",
-        "alt": "Chiang Mai, Thailand. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 900; Download; 335.9 Mbps; Upload; 274.1 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Chiang Mai, Thailand, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 900. Fixed-broadband snapshot for 2026 Q1: 335.9 Mbps download and 274.1 Mbps upload."
       },
       {
-        "text": "Bansko, Bulgaria: site safety 8/10; USD 1,000/month estimated. Rent is USD 380 and coworking USD 150 within that total. Fixed broadband: 122.4 down / 89.2 up Mbps (2026 Q1).",
+        "text": "Bansko, Bulgaria: site safety 8/10; estimated USD 1,000/month, including USD 380 rent and USD 150 coworking.\n\n2026 Q1 broadband snapshot: 122.4 down / 89.2 up Mbps.",
         "image": "social-assets/knowledge-threads-month/images/N06-03.jpg",
-        "alt": "Bansko, Bulgaria. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,000; Download; 122.4 Mbps; Upload; 89.2 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Bansko, Bulgaria, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,000. Fixed-broadband snapshot for 2026 Q1: 122.4 Mbps download and 89.2 Mbps upload."
       },
       {
-        "text": "Krakow, Poland: site safety 8/10; USD 1,400/month estimated. Rent is USD 550 and coworking USD 200 within that total. Fixed broadband: 317.2 down / 129.5 up Mbps (2026 Q1).",
+        "text": "Krakow, Poland: site safety 8/10; estimated USD 1,400/month, including USD 550 rent and USD 200 coworking.\n\n2026 Q1 broadband snapshot: 317.2 down / 129.5 up Mbps.",
         "image": "social-assets/knowledge-threads-month/images/N06-04.jpg",
-        "alt": "Krakow, Poland. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 317.2 Mbps; Upload; 129.5 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Krakow, Poland, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 317.2 Mbps download and 129.5 Mbps upload."
       },
       {
-        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated. Fixed broadband: 304.7 down / 255.4 up Mbps (2026 Q1). Same budget as Krakow; upload is 125.9 Mbps higher.",
+        "text": "Vilnius, Lithuania: site safety 8/10; USD 1,400/month estimated.\n\n2026 Q1 broadband snapshot: 304.7 down / 255.4 up Mbps. Same budget as Krakow; upload is 125.9 Mbps higher.",
         "image": "social-assets/knowledge-threads-month/images/N06-05.jpg",
-        "alt": "Vilnius, Lithuania. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8 /10; USD/month estimate; 1,400; Download; 304.7 Mbps; Upload; 255.4 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Vilnius, Lithuania, photo and directory metrics. Site safety rating: 8/10. Estimated monthly cost: USD 1,400. Fixed-broadband snapshot for 2026 Q1: 304.7 Mbps download and 255.4 Mbps upload."
       },
       {
-        "text": "Tallinn, Estonia: site safety 8.2/10; USD 1,500/month estimated, exactly the budget ceiling. Rent is USD 600 within the total. Fixed broadband: 183.2 down / 149.7 up Mbps (2026 Q1).\n\nhashtagweb3.com/nomads/bsky",
+        "text": "Tallinn, Estonia: site safety 8.2/10; estimated USD 1,500/month, including USD 600 rent, at the budget ceiling.\n\n2026 Q1 broadband snapshot: 183.2 down / 149.7 up Mbps.\n\nhashtagweb3.com/nomads/bsky",
         "image": "social-assets/knowledge-threads-month/images/N06-06.jpg",
-        "alt": "Tallinn, Estonia. Real city photograph above authored metric labels. Site safety /10 · 2026 Q1 broadband; Monthly USD estimates; Site safety; 8.2 /10; USD/month estimate; 1,500; Download; 183.2 Mbps; Upload; 149.7 Mbps; Safety is a site rating, not an official crime index."
+        "alt": "Tallinn, Estonia, photo and directory metrics. Site safety rating: 8.2/10. Estimated monthly cost: USD 1,500. Fixed-broadband snapshot for 2026 Q1: 183.2 Mbps download and 149.7 Mbps upload."
       }
     ]
   }

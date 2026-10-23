@@ -1,13 +1,25 @@
-The quiz recommends Smart Contract Developer for The Builder, On-Chain Data Analyst for The Analyst, and Community Manager for The Community Weaver. Example outputs: a contract, a query and a support runbook.
+Quiz matches: Builder - Smart Contract Developer; Analyst - On-Chain Data Analyst; Community Weaver - Community Manager.
 
-1. Builder practice task: implement a local escrow's deposit and withdrawal functions. Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command. This is a proposed exercise.
+Practice examples: a contract, a query and a support runbook.
 
-2. Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart. Count repeat swaps once per address/day; label transaction senders, not users.
+1. Builder practice task: implement a local escrow's deposit and withdrawal functions.
 
-3. Community Weaver practice task: draft a mock support runbook. Example entry: wallet won't connect; category = connection; owner = support moderator; next step = collect browser, wallet version and error text. Output: queue plus handoff note.
+Deliver the Solidity file, Foundry tests for unauthorized and repeat withdrawals, and a README with the test command.
 
-4. Security research sits under The Analyst too: Smart Contract Auditor is one of its recommended roles. A practice output could be a short finding with the failing test, affected function and proposed fix.
+2. Analyst practice task: count distinct tx.from addresses per UTC day for one DEX over 30 days. Deliver SQL, chain/contract filters and a chart.
 
-5. The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst. Take the 16-question quiz for your role list, then choose a practice task; the exercises above are our examples.
+Count repeat swaps once per address/day; label senders, not users.
+
+3. Community Weaver practice task: draft a support queue and handoff note.
+
+Example: wallet won't connect. Category: connection. Owner: support moderator. Next step: collect browser, wallet version and error text.
+
+4. The Analyst also recommends Smart Contract Auditor.
+
+Practice task: write a short finding with the failing test, affected function and proposed fix.
+
+5. The Analyst result suggests On-Chain Data Analyst, Smart Contract Auditor and Quantitative Analyst.
+
+Take the 16-question quiz for your role list, then choose a practice task.
 
 Full resource: hashtagweb3.com/web3-career-quiz/ig

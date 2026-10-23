@@ -8,6 +8,8 @@ import { zipSync, strToU8 } from 'fflate';
 import { CAMPAIGN, renderThread, sha256, validateCampaign } from '../../scripts/social/newknowledge-content.mjs';
 import { platformLink } from '../../scripts/social/platform-links.mjs';
 import { assertCarouselCaption, carouselCaptionUnits } from '../../scripts/social/newknowledge-carousel-providers.mjs';
+import { assertPublicText, assertPublicImageCopy } from '../../scripts/social/public-copy-guard.mjs';
+import { protect } from './revision-lib.mjs';
 
 const repo = fileURLToPath(new URL('../../', import.meta.url));
 const directory = 'social-assets/knowledge-threads-month';
@@ -40,6 +42,7 @@ async function outputAsset(file, bytes, extra) {
 }
 
 export async function exportPlatforms() {
+  const { published } = await protect();
   const contentBytes = await fs.readFile(path.join(repo, directory, 'content.json'));
   const content = JSON.parse(contentBytes);
   const calendar = await read(`${directory}/calendar.json`);
@@ -48,12 +51,20 @@ export async function exportPlatforms() {
   assert.equal(images.contentSha256, sha256(contentBytes), 'Render current images before exporting');
   const threads = [];
   for (const thread of [...content.threads].filter(t => t.sequence > 3).sort((a, b) => a.sequence - b.sequence)) {
+    const historical = published.exportEntries.find(entry => entry.id === thread.id);
+    if (historical) {
+      assert.deepEqual(historical.sourcePostHashes, thread.posts.map(post => sha256(JSON.stringify(post))));
+      threads.push(historical);
+      console.log(`${thread.id}: preserved claimed export package`);
+      continue;
+    }
     const folder = `${exportDirectory}/${thread.id}`;
     await fs.mkdir(path.join(repo, folder, 'instagram'), { recursive: true });
     const sourceImages = [], originals = [];
     for (const post of thread.posts) {
       const source = images.images.find(image => image.threadId === thread.id && image.postNumber === post.number);
       assert.ok(source && source.contentPostSha256 === sha256(JSON.stringify(post)));
+      assertPublicImageCopy(source, { field: `${thread.id}/${post.number}` });
       const bytes = await fs.readFile(path.join(repo, source.repoPath));
       assert.equal(sha256(bytes), source.sha256);
       originals.push(bytes);
@@ -61,6 +72,8 @@ export async function exportPlatforms() {
     }
     const linkedinCaption = carouselCaption(thread, 'linkedin');
     const instagramCaption = carouselCaption(thread, 'instagram');
+    assertPublicText(linkedinCaption, { field: `${thread.id}.linkedin.caption`, kind: 'caption' });
+    assertPublicText(instagramCaption, { field: `${thread.id}.instagram.caption`, kind: 'caption' });
     const pdf = new jsPDF({ orientation: 'portrait', unit: 'pt', format: [600, 750], compress: true, putOnlyUsedFonts: true });
     pdf.setCreationDate(fixedDate);
     pdf.setFileId(sha256(JSON.stringify({ title: thread.title, sources: sourceImages.map(image => image.sha256) })).slice(0, 32).toUpperCase());
@@ -102,6 +115,7 @@ export async function exportPlatforms() {
   const rows = threads.map(thread => `<tr><td>${escape(thread.date)}</td><td><strong>${escape(thread.id)}</strong><br>${escape(thread.title)}</td><td><a href="${thread.id}/linkedin.pdf">6-page PDF</a><br><a href="${thread.id}/linkedin-caption.txt">Caption</a></td><td><a href="${thread.id}/instagram.zip">6-image ZIP</a><br><a href="${thread.id}/instagram-caption.txt">Caption</a></td><td><a href="${thread.id}/other-platforms.json">Platform text + image order</a></td></tr>`).join('');
   await fs.writeFile(path.join(repo, exportDirectory, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hashtag Web3 carousel exports</title><style>*{box-sizing:border-box}body{margin:0;background:white;color:#171719;font:16px/1.6 system-ui,sans-serif}main{max-width:1200px;margin:auto;padding:32px}h1{font-size:clamp(28px,4vw,44px);line-height:1.2}a{color:#176349;display:inline-block;min-height:44px;padding:8px 0}a:focus-visible{outline:3px solid #176349;outline-offset:3px}table{border-collapse:collapse;width:100%}th,td{padding:20px 12px;text-align:left;vertical-align:top;border-bottom:1px solid #ddd}th{font-weight:650}.table{overflow-x:auto}td:nth-child(2){min-width:220px}td:first-child{white-space:nowrap}@media(max-width:600px){main{padding:16px}th,td{padding:16px 8px}}</style></head><body><main><a href="../preview.html">Image and text preview</a><h1>LinkedIn and Instagram carousels</h1><p>27 topics. Each LinkedIn PDF contains the six original white-background slides. Instagram packs contain six 1080 × 1350 JPEGs, a caption and alt text. Source dates and qualifications are retained.</p><p>Daily automatic publishing targets LinkedIn and Instagram through their own receipts. X and Threads keep their existing image-thread schedule. Facebook, Telegram and Bluesky files are additional prepared exports.</p><div class="table"><table><thead><tr><th>Date</th><th>Topic</th><th>LinkedIn</th><th>Instagram</th><th>Other formats</th></tr></thead><tbody>${rows}</tbody></table></div></main></body></html>`);
   await fs.writeFile(path.join(repo, exportDirectory, 'README.md'), '# Platform-ready carousel files\n\nRun `node social-assets/knowledge-threads-month/export-platforms.mjs` from the repository root to regenerate the 27 packages. It verifies the source image and post hashes before writing exports.\n\n- LinkedIn: one six-page PDF plus cover and caption per topic. Pages retain the original 4:5 image ratio.\n- Instagram: six numbered 1080 x 1350 sRGB JPEGs, caption and alt descriptions, also bundled as a ZIP.\n- X and Threads: original six-post text/image order with platform-specific links.\n- Facebook, Telegram and Bluesky: prepared text/image payloads; these are not additional enabled publishing targets.\n\nThe exporter does not publish. Native LinkedIn/Instagram publication is handled by the separate knowledge-carousel workflow, within the existing daily window and with immutable per-platform receipts. A missed date is not backfilled.\n');
+  await protect();
   return manifest;
 }
 
