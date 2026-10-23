@@ -46800,7 +46800,8 @@
       },
       "account": "channel:design",
       "attemptId": "962db5d0-1b13-4095-ae3e-15998d11b30c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xef07151f629ec55a70326d6bd15cd279418e74f5"
     }
   ]
 }
