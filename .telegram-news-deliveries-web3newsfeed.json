@@ -2055,7 +2055,7 @@
     "sentAt": "2026-10-22T19:34:11.736Z"
   },
   "a389de9f-ce5b-4fd0-abf8-67f6aa0bd2f2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T03:46:52.337Z",
     "stories": [
       {
@@ -2083,6 +2083,8 @@
         "originalTitle": "Super League owners approve Metaplanet's 2,100 BTC deal and Superplanet rebrand"
       }
     ],
-    "slotKey": "2026-10-23:morning"
+    "slotKey": "2026-10-23:morning",
+    "messageId": 65770,
+    "sentAt": "2026-10-23T03:46:56.270Z"
   }
 }
