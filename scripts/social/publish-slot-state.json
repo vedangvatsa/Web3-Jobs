@@ -9,5 +9,29 @@
     "evening": "2026-10-15"
   },
   "deployed": "2026-10-22",
-  "ingested": "2026-10-23"
+  "ingested": "2026-10-23",
+  "dailyDeployments": {
+    "2026-10-23": [
+      {
+        "date": "2026-10-23",
+        "id": "39921126214-1",
+        "sourceCommit": "91b516c0c17e666b102ad0d61b0dadfb941594d9",
+        "jobsCheckedAt": "2026-10-23T03:51:30.191Z",
+        "newsCompletedAt": "2026-10-23T09:24:23.269Z",
+        "articleSlugs": [
+          "polymarketohio",
+          "secstocks",
+          "binanceperp",
+          "fcadefi",
+          "tetherhines",
+          "robinhooddubai",
+          "fireblocksvisa"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-23T09:25:34.650Z",
+        "buildId": "daily-20261023-39921126214-1",
+        "rolloutId": "daily-20261023-39921126214-1"
+      }
+    ]
+  }
 }
