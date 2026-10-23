@@ -48814,7 +48814,8 @@
         "description": "Join Figure as Channel Account Executive. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "d4b8931f-44cd-4824-9d2d-068ce86b5891",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mykwfq24n227"
     }
   ]
 }
