@@ -1,0 +1,18 @@
+{
+  "platform": "newsbreak",
+  "status": "claimed",
+  "claimedAt": "2026-10-23T06:09:50.297Z",
+  "recipient": "publishers@newsbreak.com",
+  "recipientSource": "https://publishers.newsbreak.com/",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "publishers@newsbreak.com"
+    ],
+    "subject": "Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello NewsBreak team,\n\nWe would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nContact: hi@hashtagweb3.com\nExample native article: https://hashtagweb3.com/bitgetthai\n\nWe want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.\n\nAn RSS endpoint at https://hashtagweb3.com/news/feed.xml is prepared for our next website release; it is not yet available on the live site. We can provide and validate the required full-content feed and image rights information during onboarding.\n\nCould you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?\n\nThank you,\nHashtag Web3\nhi@hashtagweb3.com"
+  },
+  "payloadSha256": "7df719d7853a0f531a9121ddd7cb8b53dc9ac51f64d52ebcab0435205b970ec9",
+  "providerId": null
+}
