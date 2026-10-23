@@ -1,0 +1,28 @@
+---
+title: Robinhood wins Dubai license for 2027 Middle East launch
+ogTitle: "ROBINHOOD WINS DUBAI LICENSE FOR 2027 LAUNCH"
+description: Robinhood received DFSA authorization on Oct. 22 to offer trading and custody across 10 asset classes from a Dubai International Financial Centre headquarters, with a launch planned for 2027.
+image: /images/news/robinhooddubai.jpg
+imageCaption: "The Dubai skyline along the city's waterfront. Photo: Robert Bock via Wikimedia Commons (CC0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai%20skyline%20unsplash.jpg
+category: News
+data-ai-hint: Dubai skyline waterfront
+publishedDate: '2026-10-23'
+lastUpdated: '2026-10-23'
+---
+
+Robinhood Markets received authorization from the Dubai Financial Services Authority to offer retail trading and custody in the Middle East, the company said on Oct. 22, and it plans to launch its product suite in the region in 2027. The approval covers all 10 asset classes the DFSA permits, among them equities, cryptocurrencies, exchange-traded funds and investment tokens, [The National reported](https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/). Robinhood will run the business from the Dubai International Financial Centre, which will serve as its headquarters for the Middle East and North Africa.
+
+The authorization is not limited to matching orders. [Bitcoin Magazine](https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin) reported that the DFSA signed off on Robinhood holding client digital assets as well as routing trades, clearing the firm for custody from day one in a new jurisdiction. Salah Kaddoura has been named senior executive officer and president of Robinhood MENA, a title the DFSA recognizes, and he will build out the Dubai team ahead of launch.
+
+Chairman and chief executive Vlad Tenev tied the location to the company's platform ambitions. "The DIFC is one of the world's most important financial hubs, and our expansion there brings us closer to building a global platform that enables anyone, anywhere to own the highest quality financial assets," he said in a statement quoted by [The National](https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/). Kaddoura framed the expansion around demand he sees in the region. "Our belief is that Robinhood's arrival will open up increased access to the market for retail investors. Our expansion is driven by three key factors: demographics, innovation, and strategic regulation," he told the paper.
+
+Robinhood has not said which countries it will serve at launch, what pricing will look like, or how it will define "eligible investors," and that last point will determine how many people can actually open accounts, according to [Bitcoin Magazine](https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin). The launch year of 2027 is the only timing the company has committed to so far.
+
+Dubai is the fourth market Robinhood has moved into outside the United States in little more than two years. The app launched in the United Kingdom in 2024, opened full operations in the European Union last year, received in-principle approval for brokerage services from the Monetary Authority of Singapore in April, and closed its purchase of the Canadian crypto platform WonderFi in June, which brought it the Bitbuy and Coinsquare exchanges, [Finance Magnates noted](https://www.financemagnates.com/fintech/robinhood-gets-dubai-license-plans-2027-middle-east-launch/). The company said at the time of the WonderFi close that it served more than 1 million funded customers outside the US. At home, Robinhood added weekend trading and perpetual futures in September, and on Oct. 7 its crypto and international chief Johann Kerbrat disclosed that the company had put $25 million of bitcoin on its own balance sheet, the first time it held the asset as a corporate holding rather than for customers.
+
+The DIFC is growing into the addressable market Robinhood is entering. The financial free zone passed 10,000 active registered firms this year, [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin), and the DIFC registered 2,318 new companies in the 12 months to the end of June, a 30 percent annual increase, according to its regulator as cited by [The National](https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/). DIFC Authority chief executive Arif Amiri said Robinhood's decision reflected growing demand for technology-driven investment services across the Middle East, North Africa and South Asia.
+
+Competition in the free zone is already dense. The DIFC listed 72 authorized brokerage firms as of March 31, 2026, up from 49 in 2022, according to DFSA figures compiled by Finance Magnates. Etoro obtained a full Abu Dhabi broker license in November 2023, Interactive Brokers opened a DIFC office in 2024, and the DIFC-based app Baraka began offering Dubai and Abu Dhabi listed shares in September. Revolut received in-principle approval from Dubai's Virtual Assets Regulatory Authority in July for broker-dealer and exchange services, subject to final approval.
+
+Robinhood joins that field with authorization to hold client crypto, not just sell access to it. The DFSA register now lists Robinhood MENA Limited as an authorized firm, and the company has committed to launching its products during 2027 without naming a month or the countries in scope.
