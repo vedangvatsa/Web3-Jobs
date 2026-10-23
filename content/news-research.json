@@ -81253,11 +81253,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c3e0f21a9373bc03373",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T21:20:12.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "duplicate",
+      "note": "The Oct. 21 OCC final GENIUS Act rule, including removal of the affiliate rewards presumption and retention of the yield ban, is already covered by content/articles/occgenius.md.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:07:51.503Z",
+      "duplicateOf": "occgenius",
+      "lastReviewedDay": "2026-10-23"
     },
     "2b2741c1b84ab5d73a83": {
       "source": "Bitcoin Magazine",
@@ -143952,6 +143967,23 @@
             }
           ],
           "reviewedAt": "2026-10-23T09:05:38.986Z"
+        },
+        "0c3e0f21a9373bc03373": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Oct. 21 OCC final GENIUS Act rule, including removal of the affiliate rewards presumption and retention of the yield ban, is already covered by content/articles/occgenius.md.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:07:51.503Z",
+          "duplicateOf": "occgenius"
         }
       },
       "baselineSlugs": [
