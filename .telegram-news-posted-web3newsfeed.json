@@ -821,6 +821,9 @@
   "https://hashtagweb3.com/revolutgib?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/utahkalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/superplanet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fcadefi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fireblocksvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2363,6 +2366,12 @@
   "Utah sues Kalshi and Susquehanna firms over prediction market betting",
   "Super League Shareholders Approve Metaplanet Investment and Rebrand",
   "Super League owners approve Metaplanet's 2,100 BTC deal and Superplanet rebrand",
+  "Binance Excludes Outage Data From Stock Perpetual Funding",
+  "Binance Excludes Blue Ocean Outage Window From US Stock Perp Funding",
+  "FCA consults on DeFi operational rules and crypto exclusions.",
+  "FCA consults on DeFi operational resilience and perimeter exclusions",
+  "Fireblocks Denies $2.5 Billion Visa Acquisition Report",
+  "Fireblocks denies report of $2.5 billion Visa acquisition talks",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2713,5 +2722,8 @@
   "fp:any|block|contract|exchang|external|hyperevm|keep|list|lock|own",
   "fp:approval|cryptocurrency|dlt|expansion|fintech|get|gibraltar|global|international|licenc",
   "fp:60m|attorney|bett|bookmak|claim|firm|function|general|illegal|kalshi",
-  "fp:100|approv|btc|investment|investor|leagu|metaplanet|owner|rebrand|renam"
+  "fp:100|approv|btc|investment|investor|leagu|metaplanet|owner|rebrand|renam",
+  "fp:binanc|blu|data|exchang|exclud|follow|fund|halt|hour|ocean",
+  "fp:both|clos|consult|consultation|defi|exclusion|fca|final|guidanc|january2027",
+  "fp:25b|acquisition|buy|claim|currently|deny|fireblock|giant|lat|payment"
 ]
