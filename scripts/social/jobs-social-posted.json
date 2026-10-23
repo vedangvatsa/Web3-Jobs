@@ -49317,7 +49317,8 @@
       },
       "account": "channel:ai",
       "attemptId": "872b3e80-63ef-4daf-b1fd-2183db35f47d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x05985e26c5484be78af8767fa6b9cd8f7cc834de"
     }
   ]
 }
