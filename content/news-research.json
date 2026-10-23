@@ -73004,7 +73004,26 @@
         "Draft has no ready review outcome: content/articles/spacextesla.md",
         "Draft has no ready review outcome: content/articles/zcashnu7.md",
         "Draft has no ready review outcome: content/articles/zodia.md"
-      ]
+      ],
+      "draftProgress": {
+        "id": "33e9137878190c73e286",
+        "day": "2026-10-23",
+        "articleSlug": "polymarketohio",
+        "note": "Draft written and hero in place; final quality audit and ready record pending.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:37:41.617Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "cc2964f96502bc13620a": {
       "source": "Bitcoin Magazine",
