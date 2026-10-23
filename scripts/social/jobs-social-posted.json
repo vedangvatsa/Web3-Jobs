@@ -45163,7 +45163,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "b2c4a620-15d5-4136-9e9a-3b1d755ae25a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adad869d447d56a6475ae42"
     }
   ]
 }
