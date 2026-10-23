@@ -48560,6 +48560,46 @@
       "attemptId": "8bead79c-a418-4038-91f1-0a92a1c7d0d7",
       "verification": "verified",
       "postId": "0x57eb0d927b8c713fa28029934fe181e75f0ac7f3"
+    },
+    {
+      "slug": "eng578",
+      "company": "DV Trading",
+      "title": "Graduate Software Engineer (DV Commodities)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T19:32:05.837Z",
+      "expectedText": "DV Trading is hiring Graduate Software Engineer (DV Commodities): https://hashtagweb3.com/eng578/li?og=7",
+      "snapshot": {
+        "id": "4742955005",
+        "title": "Graduate Software Engineer (DV Commodities)",
+        "company": "DV Trading",
+        "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
+        "date": "2026-10-12T14:18:28-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DV Trading [dvtrading]",
+        "location": "London",
+        "department": "DV Commodities",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng578"
+      },
+      "payload": {
+        "text": "DV Trading is hiring Graduate Software Engineer (DV Commodities): https://hashtagweb3.com/eng578/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng578/li?og=7",
+          "title": "Graduate Software Engineer (DV Commodities) at DV Trading",
+          "description": "Join DV Trading as Graduate Software Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng578.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "fb596f3e-d133-43f2-9ef0-fef2e4258afb",
+      "verification": "creating"
     }
   ]
 }
