@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "AllSides",
+  "url": "https://www.allsides.com/contact",
+  "status": "no-publisher-form",
+  "mailTo": "feedback@allsides.com",
+  "note": "General feedback form only; no publisher-onboarding field.",
+  "payloadSha256": "b0b9c6aa51c22eb19301af65076fb0a1425fa1145c236078347134cb13b98637",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

@@ -1,12 +1,11 @@
 {
   "platform": "expansion-form",
-  "target": "CoinPaprika",
   "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "CoinPaprika",
   "url": "https://coinpaprika.com/contact",
   "status": "incomplete",
-  "error": "Topic radio not clickable via check(); label Ads, Articles & Partnership selected but Review message did not expose final send control in headless run.",
-  "note": "Retry with label click",
-  "payloadSha256": "a8d2b8b612d06172fbb698f5ac6815b59f2cd27709185466d90262436d424ac6",
-  "recordedAt": "2026-10-23T13:55:18.599Z",
-  "updatedAt": "2026-10-23T14:20:00.000Z"
+  "note": "Ads, Articles & Partnership topic selected; final send control not exposed to automation.",
+  "payloadSha256": "aa270e4790b143aec9200aa5d3dcb100335812ac2ef4a79ca065c32d6fb39464",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
 }

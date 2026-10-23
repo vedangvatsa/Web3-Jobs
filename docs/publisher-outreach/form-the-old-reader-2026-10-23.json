@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "The Old Reader",
+  "url": "https://www.theoldreader.com/en/contact/",
+  "status": "email-only",
+  "mailTo": "hello@theoldreader.com, support@theoldreader.com",
+  "payloadSha256": "1065200247a5d42aa1f0b08b29c3f57a737376cc318af0042202a6f5d5958ab4",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

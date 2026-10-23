@@ -1,56 +1,121 @@
 {
-  "policy": "Website-form publisher onboarding submissions for aggregator/syndication platforms. Excludes peer news publishers and already-contacted msn/newsbreak.",
+  "policy": "Website-form publisher onboarding for aggregator/syndication/directory platforms. Excludes peer news publishers and already-contacted msn/newsbreak.",
   "submittedAt": "2026-10-23",
   "receipts": [
     {
-      "target": "MediaFeed",
-      "status": "submitted",
-      "url": "https://www.mediafeed.us/contact"
+      "file": "form-allsides-2026-10-23.json",
+      "target": "AllSides",
+      "status": "no-publisher-form",
+      "url": "https://www.allsides.com/contact"
     },
     {
-      "target": "OnTopList",
-      "status": "submitted",
-      "url": "https://www.ontoplist.com/"
-    },
-    {
-      "target": "PressReader",
-      "status": "submitted-unconfirmed",
-      "url": "https://about.pressreader.com/business-contact-form/"
-    },
-    {
-      "target": "Inoreader",
-      "status": "submitted-unconfirmed",
-      "url": "https://www.inoreader.com/contact"
-    },
-    {
+      "file": "form-alltop-2026-10-23.json",
       "target": "AllTop",
       "status": "rejected-by-policy",
       "url": "https://www.alltop.com/contact"
     },
     {
-      "target": "Way2News",
-      "status": "no-web-form",
-      "url": "https://www.way2news.com/contact.html"
+      "file": "form-coinpaprika-2026-10-23.json",
+      "target": "CoinPaprika",
+      "status": "incomplete",
+      "url": "https://coinpaprika.com/contact"
     },
     {
+      "file": "form-feeder-2026-10-23.json",
+      "target": "Feeder",
+      "status": "email-only",
+      "url": "https://feeder.co/contact"
+    },
+    {
+      "file": "form-ground-news-2026-10-23.json",
+      "target": "Ground News",
+      "status": "no-standard-form",
+      "url": "https://ground.news/contact-us"
+    },
+    {
+      "file": "form-inoreader-2026-10-23.json",
+      "target": "Inoreader",
+      "status": "submitted-unconfirmed",
+      "url": "https://www.inoreader.com/contact"
+    },
+    {
+      "file": "form-inshorts-2026-10-23.json",
+      "target": "Inshorts",
+      "status": "submitted-unconfirmed",
+      "url": "https://inshorts.com/contact-us"
+    },
+    {
+      "file": "form-jionews-2026-10-23.json",
+      "target": "JioNews",
+      "status": "submitted-unconfirmed",
+      "url": "https://jionews.com/contactus"
+    },
+    {
+      "file": "form-mediafeed-2026-10-23.json",
+      "target": "MediaFeed",
+      "status": "submitted",
+      "url": "https://www.mediafeed.us/contact"
+    },
+    {
+      "file": "form-newsnow-2026-10-23.json",
+      "target": "NewsNow",
+      "status": "post-sent-unconfirmed",
+      "url": "https://www.newsnow.co.uk/contact/"
+    },
+    {
+      "file": "form-newstex-2026-10-23.json",
+      "target": "Newstex",
+      "status": "inspected-only",
+      "url": "https://www.newstex.com/"
+    },
+    {
+      "file": "form-ontoplist-2026-10-23.json",
+      "target": "OnTopList",
+      "status": "submitted",
+      "url": "https://www.ontoplist.com/"
+    },
+    {
+      "file": "form-pressreader-2026-10-23.json",
+      "target": "PressReader",
+      "status": "submitted-unconfirmed",
+      "url": "https://about.pressreader.com/business-contact-form/"
+    },
+    {
+      "file": "form-syndigate-2026-10-23.json",
       "target": "SyndiGate",
       "status": "failed",
       "url": "https://www.syndigate.info/contact-us/"
     },
     {
-      "target": "CoinPaprika",
+      "file": "form-the-old-reader-2026-10-23.json",
+      "target": "The Old Reader",
+      "status": "email-only",
+      "url": "https://www.theoldreader.com/en/contact/"
+    },
+    {
+      "file": "form-tipranks-2026-10-23.json",
+      "target": "TipRanks",
       "status": "failed",
-      "url": "https://coinpaprika.com/contact"
+      "url": "https://www.tipranks.com/contact"
     },
     {
-      "target": "Ground News",
-      "status": "inspected-only",
-      "url": "https://ground.news/contact-us"
-    },
-    {
-      "target": "Newstex",
-      "status": "inspected-only",
-      "url": "https://www.newstex.com/"
+      "file": "form-way2news-2026-10-23.json",
+      "target": "Way2News",
+      "status": "no-web-form",
+      "url": "https://www.way2news.com/contact.html"
     }
-  ]
+  ],
+  "counts": {
+    "no-publisher-form": 1,
+    "rejected-by-policy": 1,
+    "incomplete": 1,
+    "email-only": 2,
+    "no-standard-form": 1,
+    "submitted-unconfirmed": 4,
+    "submitted": 2,
+    "post-sent-unconfirmed": 1,
+    "inspected-only": 1,
+    "failed": 2,
+    "no-web-form": 1
+  }
 }

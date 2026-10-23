@@ -1,0 +1,13 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "NewsNow",
+  "url": "https://www.newsnow.co.uk/contact/",
+  "status": "post-sent-unconfirmed",
+  "chosen": "partner with NewsNow on a dedicated content feed",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/newsnow-after.png",
+  "note": "Partnership contact type selected; form POST observed; navigation after submit hit chrome-error so no confirmation text captured. Surname filled as Web3 because representative last name is unknown.",
+  "payloadSha256": "335a611617dcf09de83075312cede72c259742ec11bd0094926a96bd22e3cd61",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

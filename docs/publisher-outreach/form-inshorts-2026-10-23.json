@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Inshorts",
+  "url": "https://inshorts.com/contact-us",
+  "status": "submitted-unconfirmed",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/inshorts-submit.png",
+  "note": "Contact form submit clicked; page still rendered form fields (phone/userName required flags in markup). No clear thank-you captured.",
+  "payloadSha256": "94dcaf1395ff6c95764929154157d9e9f3c00b866a2a5f879c50be8ee17e3385",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

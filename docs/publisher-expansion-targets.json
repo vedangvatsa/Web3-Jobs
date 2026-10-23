@@ -698,13 +698,13 @@
       "name": "Particle",
       "url": "https://particle.news/",
       "kind": "news-aggregator",
-      "email": "partners@particle.news",
+      "email": null,
       "emailSource": "https://particle.news/partners",
-      "emailNote": "partner with us",
+      "emailNote": "partners@particle.news bounced 2026-10-23; find alternate contact/form. Do not resend.",
       "formUrls": [
         "https://particle.news/partners"
       ],
-      "route": "email+form",
+      "route": "bounced",
       "researchStatus": "unreviewed"
     },
     {

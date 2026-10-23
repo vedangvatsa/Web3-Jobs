@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Feeder",
+  "url": "https://feeder.co/contact",
+  "status": "email-only",
+  "mailTo": "support@feeder.co",
+  "payloadSha256": "84a0ef35534779353a1c826960d019bcb54bc8c730488047cd3f198ef338315f",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

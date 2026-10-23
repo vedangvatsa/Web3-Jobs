@@ -1,11 +1,12 @@
 {
   "platform": "expansion-form",
-  "target": "Ground News",
   "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Ground News",
   "url": "https://ground.news/contact-us",
   "status": "no-standard-form",
-  "payloadSha256": "8dfa95f0ec586a4d16cab29c3c33250a3abcd6ed23dd9e8f64e47b9cbed35693",
-  "recordedAt": "2026-10-23T13:55:18.599Z",
-  "note": "Contact page presents a dropdown (Contact Us / Data Subject Request / Copyright) rather than a publisher onboarding form.",
-  "updatedAt": "2026-10-23T14:20:00.000Z"
+  "mailTo": "feedback@ground.news",
+  "note": "Contact page is a dropdown of request types; no publisher feed form.",
+  "payloadSha256": "062eb50801825db1e300ed792fb429eb52a83023d6ca35da20adc374c7cea328",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
 }

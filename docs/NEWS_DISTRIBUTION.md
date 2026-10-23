@@ -83,6 +83,26 @@ Form outcomes on October 23 (submission is not approval or ingestion):
 | Way2News | contact page | No web form; lists `reach@way2news.com` |
 | Newstex | site inspection | Email `support@newstex.com` remains the syndication network contact |
 
+### Expansion email batch (11 targets)
+
+Workflow runs: preview `39966225764`, send `39966412378`, first readback `39966664989`, delivery readback `39967145731`.
+
+| Target | Recipient | Provider event |
+| --- | --- | --- |
+| ChainFeeds | contact@chainfeeds.xyz | delivered |
+| CoinCarp | hello@coincarp.com | delivered |
+| CoinCheckup | info@coincheckup.com | delivered |
+| CoinCodex | info@coincodex.com | delivered |
+| CoinLore | contact@coinlore.com | delivered |
+| CryptoCompare | info@cryptocompare.com | delivered |
+| Dow Jones | dje-support@dowjones.com | delivered (generic support; enterprise licensing likely needs sales) |
+| LiveCoinWatch | contact@livecoinwatch.com | delivered |
+| Newstex | support@newstex.com | delivered |
+| Newswav | partner@newswav.com | delivered |
+| Particle | partners@particle.news | bounced — do not resend; needs an alternate contact or form route |
+
+Receipts: `docs/publisher-outreach/expansion-*-2026-10-23.json`.
+
 Delivery of an inquiry email or a form POST does not mean a publisher account was approved, a feed was validated, or ingestion started.
 
 ## Technical reference

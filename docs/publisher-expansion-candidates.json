@@ -1,155 +1,767 @@
 [
-  ["CryptoPanic", "https://cryptopanic.com/", "crypto-aggregator"],
-  ["CryptoCompare", "https://www.cryptocompare.com/", "crypto-aggregator"],
-  ["CoinGecko", "https://www.coingecko.com/", "crypto-aggregator"],
-  ["CoinMarketCap", "https://coinmarketcap.com/", "crypto-aggregator"],
-  ["CoinStats", "https://coinstats.app/", "crypto-aggregator"],
-  ["Crypto News", "https://cryptonews.net/", "crypto-aggregator"],
-  ["CoinSpectator", "https://coinspectator.com/", "crypto-aggregator"],
-  ["CryptoRank", "https://cryptorank.io/", "crypto-aggregator"],
-  ["CoinCodex", "https://coincodex.com/", "crypto-aggregator"],
-  ["CoinCheckup", "https://coincheckup.com/", "crypto-aggregator"],
-  ["CoinLore", "https://www.coinlore.com/", "crypto-aggregator"],
-  ["Coinlib", "https://coinlib.io/", "crypto-aggregator"],
-  ["LiveCoinWatch", "https://www.livecoinwatch.com/", "crypto-aggregator"],
-  ["CoinPaprika", "https://coinpaprika.com/", "crypto-aggregator"],
-  ["CoinCarp", "https://www.coincarp.com/", "crypto-aggregator"],
-  ["CoinGabbar", "https://www.coingabbar.com/", "crypto-publisher"],
-  ["The Crypto App", "https://thecryptoapp.com/", "crypto-aggregator"],
-  ["Sharpe", "https://www.sharpe.ai/", "crypto-aggregator"],
-  ["ChainFeeds", "https://www.chainfeeds.xyz/", "crypto-aggregator"],
-  ["Blockchair", "https://blockchair.com/", "crypto-aggregator"],
-  ["Feedspot", "https://www.feedspot.com/", "feed-discovery"],
-  ["Feedly", "https://feedly.com/", "feed-discovery"],
-  ["Inoreader", "https://www.inoreader.com/", "feed-discovery"],
-  ["NewsBlur", "https://www.newsblur.com/", "feed-discovery"],
-  ["The Old Reader", "https://theoldreader.com/", "feed-discovery"],
-  ["Feeder", "https://feeder.co/", "feed-discovery"],
-  ["AllTop", "https://alltop.com/", "feed-discovery"],
-  ["NewsNow", "https://www.newsnow.co.uk/", "news-aggregator"],
-  ["Ground News", "https://ground.news/", "news-aggregator"],
-  ["AllSides", "https://www.allsides.com/", "news-aggregator"],
-  ["Particle", "https://particle.news/", "news-aggregator"],
-  ["Squid", "https://squidapp.co/", "news-aggregator"],
-  ["Upday", "https://www.upday.com/", "news-aggregator"],
-  ["Opera News", "https://www.operanews.com/", "news-aggregator"],
-  ["Dailyhunt", "https://dailyhunt.in/", "news-aggregator"],
-  ["Inshorts", "https://inshorts.com/", "news-aggregator"],
-  ["JioNews", "https://jionews.com/", "news-aggregator"],
-  ["Way2News", "https://www.way2news.com/", "news-aggregator"],
-  ["Newswav", "https://newswav.com/", "news-aggregator"],
-  ["Bundle", "https://www.bundle.app/", "news-aggregator"],
-  ["inkl", "https://www.inkl.com/", "news-aggregator"],
-  ["Newser", "https://www.newser.com/", "news-aggregator"],
-  ["Newslookup", "https://www.newslookup.com/", "news-aggregator"],
-  ["WN", "https://wn.com/", "news-aggregator"],
-  ["NewsHub", "https://www.newshub.co.uk/", "news-aggregator"],
-  ["Newstex", "https://www.newstex.com/", "syndication"],
-  ["SimpleFeed", "https://www.simplefeed.com/", "syndication"],
-  ["MediaFeed", "https://www.mediafeed.us/", "syndication"],
-  ["Flatplan", "https://www.flatplan.io/", "syndication"],
-  ["SyndiGate", "https://www.syndigate.info/", "syndication"],
-  ["FinancialContent", "https://www.financialcontent.com/", "syndication"],
-  ["NewsCred", "https://www.newscred.com/", "syndication"],
-  ["Content Catalyst", "https://contentcatalyst.com/", "syndication"],
-  ["PressReader", "https://about.pressreader.com/", "publisher-platform"],
-  ["Readly", "https://corporate.readly.com/", "publisher-platform"],
-  ["Magzter", "https://www.magzter.com/", "publisher-platform"],
-  ["Zinio", "https://www.zinio.com/", "publisher-platform"],
-  ["Issuu", "https://issuu.com/", "publisher-platform"],
-  ["Joomag", "https://www.joomag.com/", "publisher-platform"],
-  ["Blogarama", "https://www.blogarama.com/", "feed-discovery"],
-  ["OnTopList", "https://www.ontoplist.com/", "feed-discovery"],
-  ["Bloglovin", "https://www.bloglovin.com/", "feed-discovery"],
-  ["NewsBank", "https://www.newsbank.com/", "content-licensing"],
-  ["ProQuest", "https://about.proquest.com/", "content-licensing"],
-  ["EBSCO", "https://www.ebsco.com/", "content-licensing"],
-  ["LexisNexis", "https://www.lexisnexis.com/", "content-licensing"],
-  ["Dow Jones", "https://www.dowjones.com/", "content-licensing"],
-  ["Reuters Connect", "https://www.reutersagency.com/", "content-licensing"],
-  ["Associated Press", "https://www.ap.org/", "content-licensing"],
-  ["TradingView", "https://www.tradingview.com/", "finance-platform"],
-  ["Investing.com", "https://www.investing.com/", "finance-platform"],
-  ["Benzinga", "https://www.benzinga.com/", "finance-publisher"],
-  ["Seeking Alpha", "https://seekingalpha.com/", "finance-publisher"],
-  ["TheStreet", "https://www.thestreet.com/", "finance-publisher"],
-  ["FXStreet", "https://www.fxstreet.com/", "finance-publisher"],
-  ["FXEmpire", "https://www.fxempire.com/", "finance-publisher"],
-  ["Finance Magnates", "https://www.financemagnates.com/", "finance-publisher"],
-  ["Finbold", "https://finbold.com/", "finance-publisher"],
-  ["TipRanks", "https://www.tipranks.com/", "finance-platform"],
-  ["MarketScreener", "https://www.marketscreener.com/", "finance-platform"],
-  ["Alliance News", "https://alliancenews.com/", "finance-publisher"],
-  ["MT Newswires", "https://www.mtnewswires.com/", "finance-publisher"],
-  ["Crypto.news", "https://crypto.news/", "crypto-publisher"],
-  ["Cryptonews.com", "https://cryptonews.com/", "crypto-publisher"],
-  ["CoinDesk", "https://www.coindesk.com/", "crypto-publisher"],
-  ["Cointelegraph", "https://cointelegraph.com/", "crypto-publisher"],
-  ["Decrypt", "https://decrypt.co/", "crypto-publisher"],
-  ["The Block", "https://www.theblock.co/", "crypto-publisher"],
-  ["Blockworks", "https://blockworks.co/", "crypto-publisher"],
-  ["CryptoSlate", "https://cryptoslate.com/", "crypto-publisher"],
-  ["The Defiant", "https://thedefiant.io/", "crypto-publisher"],
-  ["Bitcoin Magazine", "https://bitcoinmagazine.com/", "crypto-publisher"],
-  ["Bitcoin.com News", "https://news.bitcoin.com/", "crypto-publisher"],
-  ["BeInCrypto", "https://beincrypto.com/", "crypto-publisher"],
-  ["AMBCrypto", "https://ambcrypto.com/", "crypto-publisher"],
-  ["CoinGape", "https://coingape.com/", "crypto-publisher"],
-  ["Coinpedia", "https://coinpedia.org/", "crypto-publisher"],
-  ["CoinEdition", "https://coinedition.com/", "crypto-publisher"],
-  ["CoinJournal", "https://coinjournal.net/", "crypto-publisher"],
-  ["CryptoPotato", "https://cryptopotato.com/", "crypto-publisher"],
-  ["CryptoGlobe", "https://www.cryptoglobe.com/", "crypto-publisher"],
-  ["Crypto Briefing", "https://cryptobriefing.com/", "crypto-publisher"],
-  ["The Daily Hodl", "https://dailyhodl.com/", "crypto-publisher"],
-  ["Bitcoinist", "https://bitcoinist.com/", "crypto-publisher"],
-  ["NewsBTC", "https://www.newsbtc.com/", "crypto-publisher"],
-  ["U.Today", "https://u.today/", "crypto-publisher"],
-  ["ZyCrypto", "https://zycrypto.com/", "crypto-publisher"],
-  ["Bitcoin Insider", "https://www.bitcoininsider.org/", "crypto-publisher"],
-  ["Crypto Daily", "https://cryptodaily.co.uk/", "crypto-publisher"],
-  ["Blockonomi", "https://blockonomi.com/", "crypto-publisher"],
-  ["UseTheBitcoin", "https://usethebitcoin.com/", "crypto-publisher"],
-  ["Coincu", "https://coincu.com/", "crypto-publisher"],
-  ["CoinTurk", "https://en.coin-turk.com/", "crypto-publisher"],
-  ["Cointribune", "https://www.cointribune.com/en/", "crypto-publisher"],
-  ["CoinSpeaker", "https://www.coinspeaker.com/", "crypto-publisher"],
-  ["The Crypto Basic", "https://thecryptobasic.com/", "crypto-publisher"],
-  ["CryptoPolitan", "https://www.cryptopolitan.com/", "crypto-publisher"],
-  ["Crypto Economy", "https://crypto-economy.com/", "crypto-publisher"],
-  ["Bitcoin World", "https://bitcoinworld.co.in/", "crypto-publisher"],
-  ["Blockchain.News", "https://blockchain.news/", "crypto-publisher"],
-  ["BlockchainReporter", "https://blockchainreporter.net/", "crypto-publisher"],
-  ["Brave New Coin", "https://bravenewcoin.com/", "crypto-publisher"],
-  ["Bankless", "https://www.bankless.com/", "crypto-publisher"],
-  ["Milk Road", "https://milkroad.com/", "crypto-publisher"],
-  ["DL News", "https://www.dlnews.com/", "crypto-publisher"],
-  ["Unchained", "https://unchainedcrypto.com/", "crypto-publisher"],
-  ["DeFi Rate", "https://defirate.com/", "crypto-publisher"],
-  ["Protos", "https://protos.com/", "crypto-publisher"],
-  ["Forkast", "https://forkast.news/", "crypto-publisher"],
-  ["PANews", "https://www.panewslab.com/", "crypto-publisher"],
-  ["Odaily", "https://www.odaily.news/", "crypto-publisher"],
-  ["Foresight News", "https://foresightnews.pro/", "crypto-publisher"],
-  ["BlockBeats", "https://www.theblockbeats.info/", "crypto-publisher"],
-  ["ChainCatcher", "https://www.chaincatcher.com/", "crypto-publisher"],
-  ["ForkLog", "https://forklog.com/", "crypto-publisher"],
-  ["CoinPost", "https://coinpost.jp/", "crypto-publisher"],
-  ["CoinNess", "https://coinness.com/", "crypto-publisher"],
-  ["TokenPost", "https://www.tokenpost.com/", "crypto-publisher"],
-  ["HackerNoon", "https://hackernoon.com/", "knowledge-publisher"],
-  ["DZone", "https://dzone.com/", "knowledge-publisher"],
-  ["InfoQ", "https://www.infoq.com/", "knowledge-publisher"],
-  ["Techopedia", "https://www.techopedia.com/", "knowledge-publisher"],
-  ["TechBullion", "https://techbullion.com/", "knowledge-publisher"],
-  ["TechNode", "https://technode.com/", "knowledge-publisher"],
-  ["DEV Community", "https://dev.to/", "knowledge-publisher"],
-  ["Hashnode", "https://hashnode.com/", "knowledge-publisher"],
-  ["Digital Journal", "https://www.digitaljournal.com/", "news-publisher"],
-  ["International Business Times", "https://www.ibtimes.com/", "news-publisher"],
-  ["Business2Community", "https://www.business2community.com/", "knowledge-publisher"],
-  ["Securities.io", "https://www.securities.io/", "finance-publisher"],
-  ["Crowdfund Insider", "https://www.crowdfundinsider.com/", "finance-publisher"],
-  ["Finextra", "https://www.finextra.com/", "finance-publisher"],
-  ["FinTech Futures", "https://www.fintechfutures.com/", "finance-publisher"]
+  [
+    "CryptoPanic",
+    "https://cryptopanic.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CryptoCompare",
+    "https://www.cryptocompare.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinGecko",
+    "https://www.coingecko.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinMarketCap",
+    "https://coinmarketcap.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinStats",
+    "https://coinstats.app/",
+    "crypto-aggregator"
+  ],
+  [
+    "Crypto News",
+    "https://cryptonews.net/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinSpectator",
+    "https://coinspectator.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CryptoRank",
+    "https://cryptorank.io/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinCodex",
+    "https://coincodex.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinCheckup",
+    "https://coincheckup.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinLore",
+    "https://www.coinlore.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "Coinlib",
+    "https://coinlib.io/",
+    "crypto-aggregator"
+  ],
+  [
+    "LiveCoinWatch",
+    "https://www.livecoinwatch.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinPaprika",
+    "https://coinpaprika.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinCarp",
+    "https://www.coincarp.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "CoinGabbar",
+    "https://www.coingabbar.com/",
+    "crypto-publisher"
+  ],
+  [
+    "The Crypto App",
+    "https://thecryptoapp.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "Sharpe",
+    "https://www.sharpe.ai/",
+    "crypto-aggregator"
+  ],
+  [
+    "ChainFeeds",
+    "https://www.chainfeeds.xyz/",
+    "crypto-aggregator"
+  ],
+  [
+    "Blockchair",
+    "https://blockchair.com/",
+    "crypto-aggregator"
+  ],
+  [
+    "Feedspot",
+    "https://www.feedspot.com/",
+    "feed-discovery"
+  ],
+  [
+    "Feedly",
+    "https://feedly.com/",
+    "feed-discovery"
+  ],
+  [
+    "Inoreader",
+    "https://www.inoreader.com/",
+    "feed-discovery"
+  ],
+  [
+    "NewsBlur",
+    "https://www.newsblur.com/",
+    "feed-discovery"
+  ],
+  [
+    "The Old Reader",
+    "https://theoldreader.com/",
+    "feed-discovery"
+  ],
+  [
+    "Feeder",
+    "https://feeder.co/",
+    "feed-discovery"
+  ],
+  [
+    "AllTop",
+    "https://alltop.com/",
+    "feed-discovery"
+  ],
+  [
+    "NewsNow",
+    "https://www.newsnow.co.uk/",
+    "news-aggregator"
+  ],
+  [
+    "Ground News",
+    "https://ground.news/",
+    "news-aggregator"
+  ],
+  [
+    "AllSides",
+    "https://www.allsides.com/",
+    "news-aggregator"
+  ],
+  [
+    "Particle",
+    "https://particle.news/",
+    "news-aggregator"
+  ],
+  [
+    "Squid",
+    "https://squidapp.co/",
+    "news-aggregator"
+  ],
+  [
+    "Upday",
+    "https://www.upday.com/",
+    "news-aggregator"
+  ],
+  [
+    "Opera News",
+    "https://www.operanews.com/",
+    "news-aggregator"
+  ],
+  [
+    "Dailyhunt",
+    "https://dailyhunt.in/",
+    "news-aggregator"
+  ],
+  [
+    "Inshorts",
+    "https://inshorts.com/",
+    "news-aggregator"
+  ],
+  [
+    "JioNews",
+    "https://jionews.com/",
+    "news-aggregator"
+  ],
+  [
+    "Way2News",
+    "https://www.way2news.com/",
+    "news-aggregator"
+  ],
+  [
+    "Newswav",
+    "https://newswav.com/",
+    "news-aggregator"
+  ],
+  [
+    "Bundle",
+    "https://www.bundle.app/",
+    "news-aggregator"
+  ],
+  [
+    "inkl",
+    "https://www.inkl.com/",
+    "news-aggregator"
+  ],
+  [
+    "Newser",
+    "https://www.newser.com/",
+    "news-aggregator"
+  ],
+  [
+    "Newslookup",
+    "https://www.newslookup.com/",
+    "news-aggregator"
+  ],
+  [
+    "WN",
+    "https://wn.com/",
+    "news-aggregator"
+  ],
+  [
+    "NewsHub",
+    "https://www.newshub.co.uk/",
+    "news-aggregator"
+  ],
+  [
+    "Newstex",
+    "https://www.newstex.com/",
+    "syndication"
+  ],
+  [
+    "SimpleFeed",
+    "https://www.simplefeed.com/",
+    "syndication"
+  ],
+  [
+    "MediaFeed",
+    "https://www.mediafeed.us/",
+    "syndication"
+  ],
+  [
+    "Flatplan",
+    "https://www.flatplan.io/",
+    "syndication"
+  ],
+  [
+    "SyndiGate",
+    "https://www.syndigate.info/",
+    "syndication"
+  ],
+  [
+    "FinancialContent",
+    "https://www.financialcontent.com/",
+    "syndication"
+  ],
+  [
+    "NewsCred",
+    "https://www.newscred.com/",
+    "syndication"
+  ],
+  [
+    "Content Catalyst",
+    "https://contentcatalyst.com/",
+    "syndication"
+  ],
+  [
+    "PressReader",
+    "https://about.pressreader.com/",
+    "publisher-platform"
+  ],
+  [
+    "Readly",
+    "https://corporate.readly.com/",
+    "publisher-platform"
+  ],
+  [
+    "Magzter",
+    "https://www.magzter.com/",
+    "publisher-platform"
+  ],
+  [
+    "Zinio",
+    "https://www.zinio.com/",
+    "publisher-platform"
+  ],
+  [
+    "Issuu",
+    "https://issuu.com/",
+    "publisher-platform"
+  ],
+  [
+    "Joomag",
+    "https://www.joomag.com/",
+    "publisher-platform"
+  ],
+  [
+    "Blogarama",
+    "https://www.blogarama.com/",
+    "feed-discovery"
+  ],
+  [
+    "OnTopList",
+    "https://www.ontoplist.com/",
+    "feed-discovery"
+  ],
+  [
+    "Bloglovin",
+    "https://www.bloglovin.com/",
+    "feed-discovery"
+  ],
+  [
+    "NewsBank",
+    "https://www.newsbank.com/",
+    "content-licensing"
+  ],
+  [
+    "ProQuest",
+    "https://about.proquest.com/",
+    "content-licensing"
+  ],
+  [
+    "EBSCO",
+    "https://www.ebsco.com/",
+    "content-licensing"
+  ],
+  [
+    "LexisNexis",
+    "https://www.lexisnexis.com/",
+    "content-licensing"
+  ],
+  [
+    "Dow Jones",
+    "https://www.dowjones.com/",
+    "content-licensing"
+  ],
+  [
+    "Reuters Connect",
+    "https://www.reutersagency.com/",
+    "content-licensing"
+  ],
+  [
+    "Associated Press",
+    "https://www.ap.org/",
+    "content-licensing"
+  ],
+  [
+    "TradingView",
+    "https://www.tradingview.com/",
+    "finance-platform"
+  ],
+  [
+    "Investing.com",
+    "https://www.investing.com/",
+    "finance-platform"
+  ],
+  [
+    "Benzinga",
+    "https://www.benzinga.com/",
+    "finance-publisher"
+  ],
+  [
+    "Seeking Alpha",
+    "https://seekingalpha.com/",
+    "finance-publisher"
+  ],
+  [
+    "TheStreet",
+    "https://www.thestreet.com/",
+    "finance-publisher"
+  ],
+  [
+    "FXStreet",
+    "https://www.fxstreet.com/",
+    "finance-publisher"
+  ],
+  [
+    "FXEmpire",
+    "https://www.fxempire.com/",
+    "finance-publisher"
+  ],
+  [
+    "Finance Magnates",
+    "https://www.financemagnates.com/",
+    "finance-publisher"
+  ],
+  [
+    "Finbold",
+    "https://finbold.com/",
+    "finance-publisher"
+  ],
+  [
+    "TipRanks",
+    "https://www.tipranks.com/",
+    "finance-platform"
+  ],
+  [
+    "MarketScreener",
+    "https://www.marketscreener.com/",
+    "finance-platform"
+  ],
+  [
+    "Alliance News",
+    "https://alliancenews.com/",
+    "finance-publisher"
+  ],
+  [
+    "MT Newswires",
+    "https://www.mtnewswires.com/",
+    "finance-publisher"
+  ],
+  [
+    "Crypto.news",
+    "https://crypto.news/",
+    "crypto-publisher"
+  ],
+  [
+    "Cryptonews.com",
+    "https://cryptonews.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinDesk",
+    "https://www.coindesk.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Cointelegraph",
+    "https://cointelegraph.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Decrypt",
+    "https://decrypt.co/",
+    "crypto-publisher"
+  ],
+  [
+    "The Block",
+    "https://www.theblock.co/",
+    "crypto-publisher"
+  ],
+  [
+    "Blockworks",
+    "https://blockworks.co/",
+    "crypto-publisher"
+  ],
+  [
+    "CryptoSlate",
+    "https://cryptoslate.com/",
+    "crypto-publisher"
+  ],
+  [
+    "The Defiant",
+    "https://thedefiant.io/",
+    "crypto-publisher"
+  ],
+  [
+    "Bitcoin Magazine",
+    "https://bitcoinmagazine.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Bitcoin.com News",
+    "https://news.bitcoin.com/",
+    "crypto-publisher"
+  ],
+  [
+    "BeInCrypto",
+    "https://beincrypto.com/",
+    "crypto-publisher"
+  ],
+  [
+    "AMBCrypto",
+    "https://ambcrypto.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinGape",
+    "https://coingape.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Coinpedia",
+    "https://coinpedia.org/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinEdition",
+    "https://coinedition.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinJournal",
+    "https://coinjournal.net/",
+    "crypto-publisher"
+  ],
+  [
+    "CryptoPotato",
+    "https://cryptopotato.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CryptoGlobe",
+    "https://www.cryptoglobe.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Crypto Briefing",
+    "https://cryptobriefing.com/",
+    "crypto-publisher"
+  ],
+  [
+    "The Daily Hodl",
+    "https://dailyhodl.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Bitcoinist",
+    "https://bitcoinist.com/",
+    "crypto-publisher"
+  ],
+  [
+    "NewsBTC",
+    "https://www.newsbtc.com/",
+    "crypto-publisher"
+  ],
+  [
+    "U.Today",
+    "https://u.today/",
+    "crypto-publisher"
+  ],
+  [
+    "ZyCrypto",
+    "https://zycrypto.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Bitcoin Insider",
+    "https://www.bitcoininsider.org/",
+    "crypto-publisher"
+  ],
+  [
+    "Crypto Daily",
+    "https://cryptodaily.co.uk/",
+    "crypto-publisher"
+  ],
+  [
+    "Blockonomi",
+    "https://blockonomi.com/",
+    "crypto-publisher"
+  ],
+  [
+    "UseTheBitcoin",
+    "https://usethebitcoin.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Coincu",
+    "https://coincu.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinTurk",
+    "https://en.coin-turk.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Cointribune",
+    "https://www.cointribune.com/en/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinSpeaker",
+    "https://www.coinspeaker.com/",
+    "crypto-publisher"
+  ],
+  [
+    "The Crypto Basic",
+    "https://thecryptobasic.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CryptoPolitan",
+    "https://www.cryptopolitan.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Crypto Economy",
+    "https://crypto-economy.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Bitcoin World",
+    "https://bitcoinworld.co.in/",
+    "crypto-publisher"
+  ],
+  [
+    "Blockchain.News",
+    "https://blockchain.news/",
+    "crypto-publisher"
+  ],
+  [
+    "BlockchainReporter",
+    "https://blockchainreporter.net/",
+    "crypto-publisher"
+  ],
+  [
+    "Brave New Coin",
+    "https://bravenewcoin.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Bankless",
+    "https://www.bankless.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Milk Road",
+    "https://milkroad.com/",
+    "crypto-publisher"
+  ],
+  [
+    "DL News",
+    "https://www.dlnews.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Unchained",
+    "https://unchainedcrypto.com/",
+    "crypto-publisher"
+  ],
+  [
+    "DeFi Rate",
+    "https://defirate.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Protos",
+    "https://protos.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Forkast",
+    "https://forkast.news/",
+    "crypto-publisher"
+  ],
+  [
+    "PANews",
+    "https://www.panewslab.com/",
+    "crypto-publisher"
+  ],
+  [
+    "Odaily",
+    "https://www.odaily.news/",
+    "crypto-publisher"
+  ],
+  [
+    "Foresight News",
+    "https://foresightnews.pro/",
+    "crypto-publisher"
+  ],
+  [
+    "BlockBeats",
+    "https://www.theblockbeats.info/",
+    "crypto-publisher"
+  ],
+  [
+    "ChainCatcher",
+    "https://www.chaincatcher.com/",
+    "crypto-publisher"
+  ],
+  [
+    "ForkLog",
+    "https://forklog.com/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinPost",
+    "https://coinpost.jp/",
+    "crypto-publisher"
+  ],
+  [
+    "CoinNess",
+    "https://coinness.com/",
+    "crypto-publisher"
+  ],
+  [
+    "TokenPost",
+    "https://www.tokenpost.com/",
+    "crypto-publisher"
+  ],
+  [
+    "HackerNoon",
+    "https://hackernoon.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "DZone",
+    "https://dzone.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "InfoQ",
+    "https://www.infoq.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "Techopedia",
+    "https://www.techopedia.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "TechBullion",
+    "https://techbullion.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "TechNode",
+    "https://technode.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "DEV Community",
+    "https://dev.to/",
+    "knowledge-publisher"
+  ],
+  [
+    "Hashnode",
+    "https://hashnode.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "Digital Journal",
+    "https://www.digitaljournal.com/",
+    "news-publisher"
+  ],
+  [
+    "International Business Times",
+    "https://www.ibtimes.com/",
+    "news-publisher"
+  ],
+  [
+    "Business2Community",
+    "https://www.business2community.com/",
+    "knowledge-publisher"
+  ],
+  [
+    "Securities.io",
+    "https://www.securities.io/",
+    "finance-publisher"
+  ],
+  [
+    "Crowdfund Insider",
+    "https://www.crowdfundinsider.com/",
+    "finance-publisher"
+  ],
+  [
+    "Finextra",
+    "https://www.finextra.com/",
+    "finance-publisher"
+  ],
+  [
+    "FinTech Futures",
+    "https://www.fintechfutures.com/",
+    "finance-publisher"
+  ]
 ]

@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "TipRanks",
+  "url": "https://www.tipranks.com/contact",
+  "status": "failed",
+  "note": "Contact form fields present but submit control remained disabled in automation (react-select topic required).",
+  "payloadSha256": "7b48aa6d672d8a9bb20ad7f9cd02a02fd2cbb1cd5eebc833722bcb2d8c201b3e",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}

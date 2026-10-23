@@ -1,10 +1,11 @@
 {
   "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
   "target": "Way2News",
-  "route": "contact-page",
   "url": "https://www.way2news.com/contact.html",
   "status": "no-web-form",
-  "note": "Page lists reach@way2news.com for support/queries rather than a publisher form. Use email if needed.",
-  "payloadSha256": "7450b0f75e5b7189cd9cdbce57003ab225e48fc1a979bfde465454bc7e909bc8",
-  "recordedAt": "2026-10-23T13:55:18.598Z"
+  "mailTo": "reach@way2news.com",
+  "payloadSha256": "b6a9e078442a21516b43d0118028828ee559e4e1d18ab2b649d56a69fd4f7f31",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
 }

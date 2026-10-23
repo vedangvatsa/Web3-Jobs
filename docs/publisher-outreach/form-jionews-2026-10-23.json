@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "JioNews",
+  "url": "https://jionews.com/contactus",
+  "status": "submitted-unconfirmed",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/jionews-submit.png",
+  "note": "Submit clicked after filling name/email/message; SPA did not expose confirmation text.",
+  "payloadSha256": "11eca3f27d6c039b3126cba65d2894a7d0468c983857662558d93369c6c7d115",
+  "recordedAt": "2026-10-23T14:24:42.000Z"
+}
