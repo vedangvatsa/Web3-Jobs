@@ -83861,9 +83861,9 @@
         "Bitcoin Magazine"
       ],
       "id": "9e1dbf0789554df3531e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T13:27:54.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "fireblocksvisa",
@@ -83889,7 +83889,29 @@
         "updatedAt": "2026-10-23T08:03:51.052Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the denial, the reported .5 billion figure, the 2022 valuation and the Coinbase and Visa responses across Bitcoin Magazine and CoinDesk, both read in full; The Block and Axios Pro returned HTTP 403. Drafted content/articles/fireblocksvisa.md with a self-hosted Wikimedia hero.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.axios.com/pro/fintech-deals/2026/10/22/visa-fireblocks-talks-2-billion",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:13:00.956Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "8211ae9113814c2d6686": {
       "source": "Cointelegraph",
@@ -143430,6 +143452,31 @@
           "reviewedAt": "2026-10-23T08:07:41.227Z",
           "duplicateOf": "robinhooddubai",
           "mergedInto": "fa90fe1d70919fac9347"
+        },
+        "9e1dbf0789554df3531e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the denial, the reported .5 billion figure, the 2022 valuation and the Coinbase and Visa responses across Bitcoin Magazine and CoinDesk, both read in full; The Block and Axios Pro returned HTTP 403. Drafted content/articles/fireblocksvisa.md with a self-hosted Wikimedia hero.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.axios.com/pro/fintech-deals/2026/10/22/visa-fireblocks-talks-2-billion",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:13:00.956Z",
+          "articleSlug": "fireblocksvisa"
         }
       },
       "baselineSlugs": [
