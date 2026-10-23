@@ -48103,7 +48103,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "abe594d4-5fcc-437b-a79d-f7bf30cb7d29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x25f384080ddb5b546c4298257f967ccd14052142"
     }
   ]
 }
