@@ -45971,6 +45971,46 @@
       "attemptId": "6da58a73-29d0-4568-a422-a9d530e9c14b",
       "verification": "verified",
       "postId": "0xf5eff66215836c125021132b5b189e30e67d3357"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec20/li?og=7",
+          "title": "Technical Talent Partner at MoonPay",
+          "description": "Join MoonPay as Technical Talent Partner. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec20.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "9a08ca7c-e70a-4640-872b-0e95c0d02978",
+      "verification": "creating"
     }
   ]
 }
