@@ -73134,13 +73134,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ba7d71759c6d5852e5c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T20:11:29.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "verified-event",
-      "note": "Binance excluded ~3h premium index data from Oct 21 08:00 UTC funding for US equity TradFi Perps after Blue Ocean overnight ATS halt (11:46pm-2:30am ET, external network provider). Shunyet Jan quote. Korean brokerages affected. Hero: Taiwan Stock Exchange market data display (CC BY 2.0, 315KB).",
+      "note": "Re-read Unchained, Blue Ocean service status page (primary) and Seoul Economic Daily on Oct 23. Binance excluded ~3h premium index data (03:46-06:30 UTC) from the Oct 21 08:00 UTC funding settlement for US equity TradFi Perps after Blue Ocean halted all trading 23:46:41 ET Oct 20 over external network provider issues and resumed 2:30 a.m. ET Oct 21; Shunyet Jan comments; Korean brokerage quote disruption per Sedaily. Drafted content/articles/binanceperp.md (610+ words) with self-hosted Taiwan Stock Exchange market data hero at 315KB; quality, formatting, image and duplicate audits clean; all outbound links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/",
@@ -73155,21 +73155,13 @@
           "outcome": "read"
         },
         {
-          "url": "https://cryptobriefing.com/",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://www.tokenpost.com/",
-          "outcome": "blocked"
-        },
-        {
           "url": "https://www.binance.com/en/square/post/379601239920590",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T11:04:31.829Z",
+      "reviewedAt": "2026-10-23T08:54:13.731Z",
       "articleSlug": "binanceperp",
-      "lastReviewedDay": "2026-10-22",
+      "lastReviewedDay": "2026-10-23",
       "lastValidationErrors": [],
       "draftProgress": {
         "id": "2ba7d71759c6d5852e5c",
@@ -143695,6 +143687,31 @@
           ],
           "reviewedAt": "2026-10-23T08:54:06.665Z",
           "articleSlug": "secstocks"
+        },
+        "2ba7d71759c6d5852e5c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Unchained, Blue Ocean service status page (primary) and Seoul Economic Daily on Oct 23. Binance excluded ~3h premium index data (03:46-06:30 UTC) from the Oct 21 08:00 UTC funding settlement for US equity TradFi Perps after Blue Ocean halted all trading 23:46:41 ET Oct 20 over external network provider issues and resumed 2:30 a.m. ET Oct 21; Shunyet Jan comments; Korean brokerage quote disruption per Sedaily. Drafted content/articles/binanceperp.md (610+ words) with self-hosted Taiwan Stock Exchange market data hero at 315KB; quality, formatting, image and duplicate audits clean; all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blueocean-tech.io/blue-ocean-ats-service-status/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.sedaily.com/finance/2026/10/21/us-blue-ocean-outage-disrupts-daytime-quotes-for-korean",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.binance.com/en/square/post/379601239920590",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:54:13.731Z",
+          "articleSlug": "binanceperp"
         }
       },
       "baselineSlugs": [
