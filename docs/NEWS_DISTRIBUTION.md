@@ -66,6 +66,14 @@ Outreach template (both `scripts/publisher-outreach.mjs` and `scripts/publisher-
 
 Email route: `scripts/publisher-expansion.mjs` + `.github/workflows/publisher-expansion.yml` (`list` / `preview` / `send` / `readback`, optional target slug and limit, optional dry-run claim). Same immutable per-target CAS receipts under `docs/publisher-outreach/expansion-*.json`.
 
+### Email outreach ledger
+
+Sixty inquiry emails were sent on October 23 from `hi@hashtagweb3.com` through Resend: **44 delivered, 16 bounced** (readback-confirmed). Delivery is not approval, feed validation, or ingestion.
+
+Delivered (44): Blockchair, Bundle, Calameo, ChainFeeds, Coin360, CoinBureau (`info@`), CoinCarp, CoinCheckup, CoinCodex, CoinGecko (`support@`), Coinlib (`support@`), CoinLore, CoinMarketCal, CoinMarketCap, CoinPaprika (`contact@`), Coinranking, CoinStats, CryptoCompare, CryptoPanic, CryptoRank, CryptoSlate, Dailyhunt (`yourfriends@`), DappRadar, Dow Jones, EBSCO (`contact@`), Feedly, Flipboard (`partners@`), Gale, Ground News, Inshorts, Joomag, LiveCoinWatch, Magzter, MediaFeed, Meltwater, NewsBlur, NewsPoint, Newstex, Newswav, Readly, Scribd, SmartNews (`press@`), Way2News, Zinio.
+
+Bounced (16, address invalid; do not resend without a verified address): CoinBureau (`contact@`), CoinGecko (`info@`), Coinlib (`contact@`), CoinPaprika (`partners@`), CoinSpectator (`info@` and `support@`), Dailyhunt (`partners@`), EBSCO (`support@`), Flipboard (`publishers@`), Messari (`info@`), Particle (`partners@`), SmartNews (`contact@`), Spinn3r (`info@` and `sales@`), Upday (`contact@` and `publishers@`).
+
 Form route: `scripts/publisher-forms-probe.mjs`, `scripts/publisher-forms-submit.mjs`, evidence under `.cache/publisher-expansion-2026-10-23/forms/`, receipts under `docs/publisher-outreach/form-*.json`.
 
 Form outcomes on October 23 (submission is not approval or ingestion):
