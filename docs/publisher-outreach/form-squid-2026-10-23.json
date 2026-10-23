@@ -3,9 +3,10 @@
   "route": "website-form",
   "submittedAt": "2026-10-23",
   "target": "Squid",
-  "url": "https://www.squidapp.co/for-publishers/",
-  "status": "no-web-form-exposed",
-  "note": "For Publishers marketing page; no form fields.",
-  "payloadSha256": "99a6fc2bc5983e2e23be18ba5ae0f8293dc0da5afc8280831876177a26a02dcb",
-  "recordedAt": "2026-10-23T14:36:10.000Z"
+  "url": "https://www.squidapp.co/contact",
+  "status": "submitted",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/b9-squid-form.png",
+  "confirmation": "form accepted (success hint on post-submit page)",
+  "payloadSha256": "579399512b29345fadbe440794c87a7bd9a56cab73480ca7db17bf5fd9cbd39f",
+  "recordedAt": "2026-10-23T15:58:48.000Z"
 }

@@ -59,8 +59,8 @@
     {
       "file": "form-coinpaprika-2026-10-23.json",
       "target": "CoinPaprika",
-      "status": "incomplete",
-      "url": "https://coinpaprika.com/contact"
+      "status": "submitted",
+      "url": "https://coinpaprika.com/contact/"
     },
     {
       "file": "form-content-catalyst-2026-10-23.json",
@@ -215,14 +215,20 @@
     {
       "file": "form-squid-2026-10-23.json",
       "target": "Squid",
-      "status": "no-web-form-exposed",
-      "url": "https://www.squidapp.co/for-publishers/"
+      "status": "submitted",
+      "url": "https://www.squidapp.co/contact"
     },
     {
       "file": "form-syndigate-2026-10-23.json",
       "target": "SyndiGate",
       "status": "failed",
       "url": "https://www.syndigate.info/contact-us/"
+    },
+    {
+      "file": "form-the-crypto-app-2026-10-23.json",
+      "target": "The Crypto App",
+      "status": "submitted",
+      "url": "https://thecrypto.app/contact"
     },
     {
       "file": "form-the-old-reader-2026-10-23.json",
@@ -250,9 +256,9 @@
     "http-error": 1,
     "login-required": 1,
     "email-only": 6,
-    "submitted": 4,
-    "incomplete": 2,
-    "no-web-form-exposed": 6,
+    "submitted": 7,
+    "incomplete": 1,
+    "no-web-form-exposed": 5,
     "failed": 4,
     "no-standard-form": 1,
     "http-404": 2,

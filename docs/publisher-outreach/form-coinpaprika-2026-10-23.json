@@ -3,9 +3,10 @@
   "route": "website-form",
   "submittedAt": "2026-10-23",
   "target": "CoinPaprika",
-  "url": "https://coinpaprika.com/contact",
-  "status": "incomplete",
-  "note": "Ads, Articles & Partnership topic selected; final send control not exposed to automation.",
-  "payloadSha256": "aa270e4790b143aec9200aa5d3dcb100335812ac2ef4a79ca065c32d6fb39464",
-  "recordedAt": "2026-10-23T14:24:42.000Z"
+  "url": "https://coinpaprika.com/contact/",
+  "status": "submitted",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/b9-coinpaprika-form.png",
+  "confirmation": "form accepted (success hint)",
+  "payloadSha256": "a1a5cbd5383acab7da186fea71aaf10df435613207f8ccc9fe5d656bb8dd512e",
+  "recordedAt": "2026-10-23T15:58:48.000Z"
 }

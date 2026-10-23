@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "The Crypto App",
+  "url": "https://thecrypto.app/contact",
+  "status": "submitted",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/b9-thecryptoapp-contact.png",
+  "confirmation": "form accepted (success hint)",
+  "payloadSha256": "00143e761be9c5b4f64ecc276013288addf74639d15755618717af51dfa25e7d",
+  "recordedAt": "2026-10-23T15:58:48.000Z"
+}
