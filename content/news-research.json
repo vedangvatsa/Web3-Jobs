@@ -73068,7 +73068,38 @@
       "reviewedAt": "2026-10-22T10:51:44.768Z",
       "articleSlug": "secstocks",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": []
+      "lastValidationErrors": [],
+      "draftProgress": {
+        "id": "cc2964f96502bc13620a",
+        "day": "2026-10-23",
+        "articleSlug": "secstocks",
+        "note": "Re-read Bitcoin Magazine, Coinfomania, TSV primary notice, Perpetuals press release and TokenPost on Oct 23. Draft and image remain.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+            "outcome": "read"
+          },
+          {
+            "url": "https://coinfomania.com/sec-announces-intent-of-three-firms-to-operate-tokenized/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenizedstockvenue.com/notice.html",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.perpetuals.com/perpetuals-moves-to-offer-tokenized-u-s-stocks-under-sec-innovation-exemption.html",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/35202",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:44:58.296Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f706191a6a5b1a8cc8d8": {
       "source": "Cointelegraph",
@@ -73982,17 +74013,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "82d09df67c8d5c5bfdb9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T08:16:47.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
       "reason": "duplicate",
-      "note": "same The Flip governance vote and CAKE supply condition; covered by the ready draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:28:15.146Z",
+      "note": "Same Oct. 21 PancakeSwap The Flip governance vote with the CAKE supply condition already covered by content/articles/cakeflip.md (88% LP fee share, ~69% emissions cut, voting open through Oct. 24). The Defiant headline names the identical vote and supply condition.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:42:43.179Z",
       "duplicateOf": "cakeflip",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-23"
     },
     "ba330b79160750fe7e3a": {
       "source": "Cointelegraph",
@@ -143602,6 +143638,19 @@
           ],
           "reviewedAt": "2026-10-23T08:42:40.841Z",
           "duplicateOf": "occgenius"
+        },
+        "82d09df67c8d5c5bfdb9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 21 PancakeSwap The Flip governance vote with the CAKE supply condition already covered by content/articles/cakeflip.md (88% LP fee share, ~69% emissions cut, voting open through Oct. 24). The Defiant headline names the identical vote and supply condition.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:42:43.179Z",
+          "duplicateOf": "cakeflip"
         }
       },
       "baselineSlugs": [
