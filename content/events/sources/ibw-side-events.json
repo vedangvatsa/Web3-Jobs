@@ -2965,5 +2965,426 @@
       ]
     },
     "slug": "ethindia"
+  },
+  {
+    "name": "NEAR Builder’s Cafe #2",
+    "startDate": "2026-10-31T07:30:00.000Z",
+    "endDate": "2026-10-31T10:30:00.000Z",
+    "description": "NEAR Builder’s Cafe brings readers from different disciplines together to discuss original texts and their implications for AI. Up to three participants introduce a text, defend a claim and invite questions.\n\nThis edition is in Mumbai on October 31, 13:00–16:00 IST according to the organizer's current schedule. Registration requires approval, and the page currently marks it sold out. The venue is shared with registered guests.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/ijy8hzbj",
+    "coverImage": "/events/near-builders-cafe-2-e87a9de0.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "Abhiraj Mengade",
+      "ArQ"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Legion Events Calendar",
+      "url": "https://nearlegion.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ijy8hzbj",
+        "price": 0,
+        "availability": "SoldOut"
+      }
+    ],
+    "registrationAvailability": "sold-out",
+    "sourceVerification": {
+      "url": "https://luma.com/ijy8hzbj",
+      "eventId": "evt-ZwfO8bu83v1Qqe8",
+      "fetchedAt": "2026-10-23T06:19:36.868Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-ZwfO8bu83v1Qqe8",
+    "slug": "near-builders-cafe-2",
+    "url": "https://luma.com/ijy8hzbj",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/ijy8hzbj",
+      "fetchedAt": "2026-10-23T06:19:36.868Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Near Builder’s Cafe #2 · Luma",
+      "sha256": "c631e53084ba8d55199ab12411fee684032d108a49f8947c6a35f003c85bafd5",
+      "evidence": [
+        {
+          "url": "https://luma.com/ijy8hzbj",
+          "fetchedAt": "2026-10-23T06:19:36.868Z",
+          "sha256": "4697ec64b88533be709389c7db5ddeacf357b597d68c1fd52e2a9cc950f3c1a3",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dabao Open Hardware Hackathon",
+    "startDate": "2026-11-03T03:30:00.000Z",
+    "endDate": "2026-12-16T02:00:00.000Z",
+    "description": "CrossBar's Dabao hackathon invites participants to build on the Baochip-1x / Daric development board, including Ethereum signing, open-chip verification and hardware-security projects. The organizer advertises a prize pool of up to USD 5,000, awarded by its judges.\n\nBoard pickup in Mumbai runs November 3–6 at the Devcon 8 Impact Space; a separate November 4 pickup is available at the Sovrency launch event. Building continues remotely, with submissions due December 15 at 21:00 US Eastern time (December 16 at 07:30 IST). Results are scheduled for December 18. Registration requires approval. In-person boards are limited; direct shipping has a stated USD 20 shipping charge.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/qivci0a6",
+    "coverImage": "/events/dabao-open-hardware-hackathon-c6f1c1d8.webp",
+    "attendanceMode": "mixed",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "venueName": "Jio World Centre",
+    "streetAddress": "Jio World Convention Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "G Block BKC",
+    "coordinates": {
+      "latitude": 19.063056500000002,
+      "longitude": 72.8670307
+    },
+    "hosts": [
+      "CrossBar",
+      "Miriam Neubauer",
+      "Bill Zhang"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "CrossBar",
+      "url": "https://crossbar-inc.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Mumbai In-person Pickup",
+        "url": "https://luma.com/qivci0a6",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/qivci0a6",
+      "eventId": "evt-WP32nMhXbmHisMb",
+      "fetchedAt": "2026-10-23T06:19:40.263Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+    "slug": "dabao-open-hardware-hackathon",
+    "url": "https://luma.com/qivci0a6",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/qivci0a6",
+      "fetchedAt": "2026-10-23T06:19:40.263Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Dabao Open Hardware Hackathon · incl. board pickup at Devcon 8 (Pickup Nov 3 - 6) · Luma",
+      "sha256": "9a3a72cceca7e12c9344d141e2c078ba98c16c9d1f53dfb840162d051b20ca88",
+      "evidence": [
+        {
+          "url": "https://luma.com/qivci0a6",
+          "fetchedAt": "2026-10-23T06:19:40.263Z",
+          "sha256": "db9aa16f1edb5ae622ac7503e2513fc1eda0a7333d5d8d8d4bd6c06213e609ef",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Open Silicon: IRIS Demo and Dabao Board Pickup",
+    "startDate": "2026-11-03T03:30:00.000Z",
+    "endDate": "2026-11-06T09:30:00.000Z",
+    "description": "CrossBar demonstrates Infra-Red In-Situ inspection of its Daric chip at the Devcon 8 Impact Space in Jio World Centre. Visitors can inspect the chip against its published design and discuss hardware wallets, MPC and open-silicon development.\n\nThe organizer lists booth hours of November 3–5, 09:00–17:00 IST, and November 6, 09:00–15:00 IST. A Devcon 8 ticket is required. Register for a pickup slot to reserve a limited-edition Dabao development board; unregistered visitors may watch the inspection, but take-home boards are limited to registered visitors.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/sjxszq4s",
+    "coverImage": "/events/crossbar-iris-demo-devcon8-68417739.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "venueName": "Jio World Centre",
+    "streetAddress": "Jio World Convention Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "G Block BKC",
+    "coordinates": {
+      "latitude": 19.063056500000002,
+      "longitude": 72.8670307
+    },
+    "hosts": [
+      "CrossBar",
+      "Miriam Neubauer",
+      "Bill Zhang"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "CrossBar",
+      "url": "https://crossbar-inc.com/"
+    },
+    "price": "Devcon 8 ticket required; board pickup is free",
+    "approvalRequired": false,
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/sjxszq4s",
+      "eventId": "evt-26jnyHUBFxt6ooC",
+      "fetchedAt": "2026-10-23T06:19:41.556Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-26jnyHUBFxt6ooC",
+    "slug": "crossbar-iris-demo-devcon8",
+    "url": "https://luma.com/sjxszq4s",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/sjxszq4s",
+      "fetchedAt": "2026-10-23T06:19:41.556Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Open Silicon, In Your Hands: IRIS Demo + Free Board · CrossBar at Devcon 8 · Luma",
+      "sha256": "df0d168179e86120a5797c044a343656b95377a3bf01ae5b2942fa4118d68fc9",
+      "evidence": [
+        {
+          "url": "https://luma.com/sjxszq4s",
+          "fetchedAt": "2026-10-23T06:19:41.556Z",
+          "sha256": "97b0f2a40dc6142154ac07a842780a76073ebcb850771d2281727103a7f12209",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+    "startDate": "2026-11-03T10:30:00.000Z",
+    "endDate": "2026-11-03T13:30:00.000Z",
+    "description": "NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on November 3, 16:00–19:00 IST. The published schedule includes onboarding, a two-hour competition and winner announcements. The organizer advertises up to USD 200 shared among winners; competition mode, scoring and prize allocation will be explained before trading.\n\nBring a laptop if possible. Registration is free and requires approval. Only Mumbai is currently specified as the location. Trading involves risk; a defined maximum loss does not eliminate the possibility of losing the amount committed.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/teffnotz",
+    "coverImage": "/events/clickoptions-nextwave-trading-d5d0c5b3.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, Maharashtra, India",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "hosts": [
+      "NextWave Network",
+      "Yash Umaria"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/teffnotz",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/teffnotz",
+      "eventId": "evt-zlSNS0eZPLZsGcM",
+      "fetchedAt": "2026-10-23T06:19:42.889Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+    "slug": "clickoptions-nextwave-trading",
+    "url": "https://luma.com/teffnotz",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/teffnotz",
+      "fetchedAt": "2026-10-23T06:19:42.889Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ClickOptions × NextWave: Live Crypto Trading Competition · Luma",
+      "sha256": "7f21195573943068d4416f362e5733893393ed1e43e04afe7e47a1455cdf4b41",
+      "evidence": [
+        {
+          "url": "https://luma.com/teffnotz",
+          "fetchedAt": "2026-10-23T06:19:42.889Z",
+          "sha256": "afd6f7d5bd779af2c64666050d4a80d71987ce0a94498d31dce14d82a4244668",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "The Best Event: Stable — Payments & Stablecoins",
+    "startDate": "2026-11-04T10:30:00.000Z",
+    "endDate": "2026-11-04T14:30:00.000Z",
+    "description": "The Best Event hosts a payments and stablecoins gathering during Devcon week on November 4, 16:00–20:00 IST in Mumbai. The announced discussion topics include cross-border payments, regulation and adoption, with founders, payments teams, fintech operators and investors as the intended audience. Registration is free and subject to approval. The organizer withholds the venue until registration.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/TBE-Stable26",
+    "coverImage": "/events/stable-payments-stablecoins-mumbai-335ddba8.webp",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "The Best Event",
+      "url": "https://thebestevent.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/TBE-Stable26",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/TBE-Stable26",
+      "eventId": "evt-mD9IikmzLZVweco",
+      "fetchedAt": "2026-10-23T06:19:46.952Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-mD9IikmzLZVweco",
+    "slug": "stable-payments-stablecoins-mumbai",
+    "url": "https://luma.com/TBE-Stable26",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/TBE-Stable26",
+      "fetchedAt": "2026-10-23T06:19:46.952Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Best Event: Stable - Payments & Stablecoins · Luma",
+      "sha256": "3d478061f449b891b8c4bbee79c03afc34a39697df039dfad3c2c0af31b72650",
+      "evidence": [
+        {
+          "url": "https://luma.com/TBE-Stable26",
+          "fetchedAt": "2026-10-23T06:19:46.952Z",
+          "sha256": "d8c24862dde89d05abb982829b2fb8e1592ba06295f67d9c4a289952c4b7e0e6",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Sovrency C8 Launch",
+    "startDate": "2026-11-04T14:00:00.000Z",
+    "endDate": "2026-11-04T15:00:00.000Z",
+    "description": "CrossBar presents the Sovrency C8 hardware MPC wallet at Sofitel Mumbai BKC on November 4, 19:30–20:30 IST. The one-hour program includes a product reveal, live demonstration, launch offer and hands-on time. The organizer also offers a YouTube livestream, with the link sent by email.\n\nRegistration is free and requires approval; a Devcon ticket is not required. A buffet dinner is listed for in-person attendees. The advertised USD 999 presale is the product price, not an event admission fee.",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/qwlh11yl",
+    "coverImage": "/events/sovrency-c8-launch-7c55bb47.webp",
+    "attendanceMode": "mixed",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Sofitel Mumbai BKC, C 57, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
+    "venueName": "Sofitel Mumbai BKC",
+    "streetAddress": "Sofitel Mumbai Bkc, C 57, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "Income Tax Colony",
+    "coordinates": {
+      "latitude": 19.0674785,
+      "longitude": 72.8690412
+    },
+    "hosts": [
+      "CrossBar",
+      "Miriam Neubauer",
+      "Bill Zhang"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "CrossBar",
+      "url": "https://crossbar-inc.com/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "In Person · Mumbai",
+        "url": "https://luma.com/qwlh11yl",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "Online · Livestream",
+        "url": "https://luma.com/qwlh11yl",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/qwlh11yl",
+      "eventId": "evt-3HoI2mTbd1euCxd",
+      "fetchedAt": "2026-10-23T06:19:48.246Z",
+      "method": "luma-page"
+    },
+    "id": "ibw-sheet-evt-3HoI2mTbd1euCxd",
+    "slug": "sovrency-c8-launch",
+    "url": "https://luma.com/qwlh11yl",
+    "source": "curated-reviewed",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/qwlh11yl",
+      "fetchedAt": "2026-10-23T06:19:48.246Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Sovrency C8 Launch · The first hardware MPC wallet for stablecoins · Luma",
+      "sha256": "d542bd07c5579579155044ee3bec26ce4624efc9b35766cdcc07e29d1d26848c",
+      "evidence": [
+        {
+          "url": "https://luma.com/qwlh11yl",
+          "fetchedAt": "2026-10-23T06:19:48.246Z",
+          "sha256": "1ea7c2cf983a7f7624b5ace7ac7b3a98bf710e6811a8bf8ddd13f58d06ebb618",
+          "retrievedVia": "Public primary HTTP response",
+          "representation": "html"
+        }
+      ]
+    }
   }
 ]

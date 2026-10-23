@@ -31,6 +31,11 @@ Checked October 2026. No platform approval or active ingestion is established by
 
 ## Correspondence
 
+MSN and NewsBreak inquiries were sent on October 23, 2026 from `hi@hashtagweb3.com` through Resend. Both have a `delivered` provider event on subsequent readback. This confirms delivery only; no publisher acceptance has been received.
+
+- [MSN send receipt workflow](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39909739436), [readback](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39911056391).
+- [NewsBreak send receipt workflow](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39909742867), [readback](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39911060517).
+
 `publisher-outreach.yml` is manual-only, defaults to preview, and has two fixed destinations: MSN's documented partner support and NewsBreak's documented publisher contact. It sends an onboarding inquiry, not an agreement or article syndication authorization. It does not resume subscriber broadcasts.
 
 Before any send, the script saves a durable GitHub receipt claim. A claimed request cannot be resent automatically, even after Resend's 24-hour idempotency expiry. Returned IDs are checkpointed and can be read back without a second send. Network ambiguity requires inspecting Resend. Receipt JSON under `docs/publisher-outreach/` and the workflow artifact are the evidence; an accepted email is not a publisher application approval.

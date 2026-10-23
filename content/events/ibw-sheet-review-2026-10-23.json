@@ -1,0 +1,67 @@
+{
+  "8": {
+    "decision": "add",
+    "slug": "near-builders-cafe-2",
+    "title": "NEAR Builder’s Cafe #2",
+    "description": "NEAR Builder’s Cafe brings readers from different disciplines together to discuss original texts and their implications for AI. Up to three participants introduce a text, defend a claim and invite questions.\n\nThis edition is in Mumbai on October 31, 13:00–16:00 IST according to the organizer's current schedule. Registration requires approval, and the page currently marks it sold out. The venue is shared with registered guests.",
+    "note": "Use current primary-source times rather than the sheet. Preserve sold-out status and hidden location."
+  },
+  "22": {
+    "decision": "hold",
+    "note": "Multichain Day's primary registration page still returns HTTP 404. Preserve the existing needs-review hold; the spreadsheet alone does not establish current availability."
+  },
+  "29": {
+    "decision": "hold",
+    "note": "CryptoMondays has a current primary page, but its timestamp uses Asia/Dubai (19:30–23:00 IST) while its agenda and the sheet say 18:00–21:30. No confirmed venue. Preserve the existing timing-conflict hold pending organizer clarification."
+  },
+  "33": {
+    "decision": "add",
+    "slug": "dabao-open-hardware-hackathon",
+    "title": "Dabao Open Hardware Hackathon",
+    "description": "CrossBar's Dabao hackathon invites participants to build on the Baochip-1x / Daric development board, including Ethereum signing, open-chip verification and hardware-security projects. The organizer advertises a prize pool of up to USD 5,000, awarded by its judges.\n\nBoard pickup in Mumbai runs November 3–6 at the Devcon 8 Impact Space; a separate November 4 pickup is available at the Sovrency launch event. Building continues remotely, with submissions due December 15 at 21:00 US Eastern time (December 16 at 07:30 IST). Results are scheduled for December 18. Registration requires approval. In-person boards are limited; direct shipping has a stated USD 20 shipping charge.",
+    "overrides": { "attendanceMode": "mixed" },
+    "note": "This is a multi-week build period with Mumbai pickup, not a continuous six-week in-person venue event. Remove the misleading zero-price direct-shipping ticket."
+  },
+  "34": {
+    "decision": "add",
+    "slug": "crossbar-iris-demo-devcon8",
+    "title": "Open Silicon: IRIS Demo and Dabao Board Pickup",
+    "description": "CrossBar demonstrates Infra-Red In-Situ inspection of its Daric chip at the Devcon 8 Impact Space in Jio World Centre. Visitors can inspect the chip against its published design and discuss hardware wallets, MPC and open-silicon development.\n\nThe organizer lists booth hours of November 3–5, 09:00–17:00 IST, and November 6, 09:00–15:00 IST. A Devcon 8 ticket is required. Register for a pickup slot to reserve a limited-edition Dabao development board; unregistered visitors may watch the inspection, but take-home boards are limited to registered visitors.",
+    "overrides": { "endDate": "2026-11-06T09:30:00.000Z", "price": "Devcon 8 ticket required; board pickup is free" },
+    "note": "Use the organizer's explicit final-day 15:00 closing time rather than the generic 17:00 end timestamp. Free pickup is not free admission to Devcon."
+  },
+  "41": {
+    "decision": "add",
+    "slug": "clickoptions-nextwave-trading",
+    "title": "ClickOptions × NextWave: Live Crypto Trading Competition",
+    "description": "NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on November 3, 16:00–19:00 IST. The published schedule includes onboarding, a two-hour competition and winner announcements. The organizer advertises up to USD 200 shared among winners; competition mode, scoring and prize allocation will be explained before trading.\n\nBring a laptop if possible. Registration is free and requires approval. Only Mumbai is currently specified as the location. Trading involves risk; a defined maximum loss does not eliminate the possibility of losing the amount committed.",
+    "note": "Avoid treating the organizer's no-liquidation marketing as a guarantee. Preserve the lack of a specific venue."
+  },
+  "45": {
+    "decision": "existing",
+    "note": "The vanity registration URL resolves to Luma event evt-sD01HYVKTNfEzrf, already published at /monad-blitz-mumbai. Do not create a duplicate."
+  },
+  "49": {
+    "decision": "hold",
+    "note": "Ethereum Forward Defence Summit's primary source marks the event private. Do not publish its venue or create a public listing from this source."
+  },
+  "54": {
+    "decision": "add",
+    "slug": "stable-payments-stablecoins-mumbai",
+    "title": "The Best Event: Stable — Payments & Stablecoins",
+    "description": "The Best Event hosts a payments and stablecoins gathering during Devcon week on November 4, 16:00–20:00 IST in Mumbai. The announced discussion topics include cross-border payments, regulation and adoption, with founders, payments teams, fintech operators and investors as the intended audience. Registration is free and subject to approval. The organizer withholds the venue until registration.",
+    "note": "Preserve hidden location and approval requirement."
+  },
+  "59": {
+    "decision": "add",
+    "slug": "sovrency-c8-launch",
+    "title": "Sovrency C8 Launch",
+    "description": "CrossBar presents the Sovrency C8 hardware MPC wallet at Sofitel Mumbai BKC on November 4, 19:30–20:30 IST. The one-hour program includes a product reveal, live demonstration, launch offer and hands-on time. The organizer also offers a YouTube livestream, with the link sent by email.\n\nRegistration is free and requires approval; a Devcon ticket is not required. A buffet dinner is listed for in-person attendees. The advertised USD 999 presale is the product price, not an event admission fee.",
+    "overrides": { "attendanceMode": "mixed" },
+    "note": "Do not repeat the unverified market-first claim. Separate product pricing from free event registration."
+  },
+  "71": {
+    "decision": "hold",
+    "note": "The CT party's structured schedule and the sheet show November 5, but the organizer's description says December 6, 16:00–19:00. Preserve the existing conflict hold pending clarification."
+  }
+}

@@ -5243,5 +5243,29 @@
   "ma-token2049-singapore-2027": {
     "slug": "token2049-singapore",
     "aliases": []
+  },
+  "ibw-sheet-evt-ZwfO8bu83v1Qqe8": {
+    "slug": "near-builders-cafe-2",
+    "aliases": []
+  },
+  "ibw-sheet-evt-WP32nMhXbmHisMb": {
+    "slug": "dabao-open-hardware-hackathon",
+    "aliases": []
+  },
+  "ibw-sheet-evt-26jnyHUBFxt6ooC": {
+    "slug": "crossbar-iris-demo-devcon8",
+    "aliases": []
+  },
+  "ibw-sheet-evt-zlSNS0eZPLZsGcM": {
+    "slug": "clickoptions-nextwave-trading",
+    "aliases": []
+  },
+  "ibw-sheet-evt-mD9IikmzLZVweco": {
+    "slug": "stable-payments-stablecoins-mumbai",
+    "aliases": []
+  },
+  "ibw-sheet-evt-3HoI2mTbd1euCxd": {
+    "slug": "sovrency-c8-launch",
+    "aliases": []
   }
 }

@@ -1,0 +1,2564 @@
+{
+  "checkedAt": "2026-10-23T07:09:56.069Z",
+  "source": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+  "sourceSha256": "afd578163f98cbc027bf4174d72304e1009ec539ebd3d7d8e38ccee5b923cd25",
+  "rows": 78,
+  "alreadyPublished": 68,
+  "added": 6,
+  "held": 4,
+  "needsReview": 0,
+  "registrationTbd": 2,
+  "entries": [
+    {
+      "row": 6,
+      "date": "Oct-24 (Sat)",
+      "startTime": "12:00:00",
+      "endTime": "14:00:00",
+      "name": "MIP-20: Road to Devcon",
+      "organizer": "ETHMumbai",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/ndrr1yqe",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-mip-20-road-to-devcon-10-24",
+          "slug": "mip-20",
+          "name": "MIP-20: Road to Devcon",
+          "startDate": "2026-10-30T09:30:00.000Z",
+          "endDate": "2026-10-30T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-mip-20-road-to-devcon-10-24",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-ndrr1yqe",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "w3v-mip-20-road-devcon-26-10-30",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-3ViKtGhH3Kfrsy3",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 7,
+      "date": "Oct-31 (Sat)",
+      "startTime": "12:00:00",
+      "endTime": "18:00:00",
+      "name": "India Blockchain Tour 2026 - Mumbai Node",
+      "organizer": "Metamorphosis",
+      "category": "Conference/Summit",
+      "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-ibt-mumbai-2026",
+          "slug": "india-blockchain-ai-tour-mumbai",
+          "name": "India Blockchain & AI Tour 2026 - Mumbai",
+          "startDate": "2026-10-31T12:00:00+05:30",
+          "endDate": "2026-10-31T18:00:00+05:30"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-ibt-mumbai-2026",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "w3v-india-blockchain-tour-mumbai-node-26-10-31",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 8,
+      "date": "Oct-31 (Sat)",
+      "startTime": "18:00:00",
+      "endTime": "21:00:00",
+      "name": "Near Builder’s Cafe #2",
+      "organizer": "Near Legion",
+      "category": "Networking",
+      "url": "https://luma.com/ijy8hzbj",
+      "status": "added",
+      "reviewNote": "Use current primary-source times rather than the sheet. Preserve sold-out status and hidden location.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-ZwfO8bu83v1Qqe8",
+          "slug": "near-builders-cafe-2",
+          "name": "NEAR Builder's Cafe #2",
+          "startDate": "2026-10-31T07:30:00.000Z",
+          "endDate": "2026-10-31T10:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-ZwfO8bu83v1Qqe8",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 9,
+      "date": "Oct-31 (Sat)",
+      "startTime": "19:00:00",
+      "endTime": "23:00:00",
+      "name": "IBW2026 Pre-Conference VIP Night",
+      "organizer": "Hashed Emergent",
+      "category": "Party",
+      "url": null,
+      "status": "already-published",
+      "matchReason": "exact title, registration still TBD in sheet",
+      "published": [
+        {
+          "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+          "slug": "ibw-pre-conference-vip-night",
+          "name": "IBW2026 Pre-Conference VIP Night",
+          "startDate": "2026-10-31T19:00:00+05:30",
+          "endDate": "2026-10-31T23:00:00+05:30"
+        }
+      ],
+      "sourceMatches": [],
+      "candidates": []
+    },
+    {
+      "row": 10,
+      "date": "Nov-1 (Sun)",
+      "startTime": "6:00:00",
+      "endTime": "8:00:00",
+      "name": "Run & Rave",
+      "organizer": "Orvic",
+      "category": "Networking",
+      "url": "https://luma.com/3doehm1b",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-3doehm1b",
+          "slug": "run-and-rave",
+          "name": "Run & Rave",
+          "startDate": "2026-11-01T00:30:00.000Z",
+          "endDate": "2026-11-01T02:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-3doehm1b",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-run-rave-26-11-01",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 11,
+      "date": "Nov-1 (Sun)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "🌟 IBW2026 Conference - Day 1 🌟",
+      "organizer": "Hashed Emergent",
+      "category": "Conference/Summit",
+      "url": "https://indiablockchainweek.com/",
+      "status": "already-published",
+      "matchReason": "main conference, one record for both days",
+      "published": [
+        {
+          "id": "premier-indiabw-2026",
+          "slug": "ibw",
+          "name": "India Blockchain Week 2026",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-indiabw-2026",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-mip-20",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-pre-vip-night",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-multichain-day",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-institutional-forum",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-onchain-dev-city",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-official-after-party",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-ibw-official-after-party-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-india-blockchain-week-2026",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "ma-india-blockchain-week-2027",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 12,
+      "date": "Nov-1 (Sun)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "IBW Institutional Forum - Day 1",
+      "organizer": "Hashed Emergent",
+      "category": "Conference/Summit",
+      "url": "https://www.indiablockchainweek.com/institutional-forum",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "slug": "ibw-institutional-forum",
+          "name": "IBW Institutional Forum",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-ibw-institutional-forum-26-11-01",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 13,
+      "date": "Nov-1 (Sun)",
+      "startTime": "11:00:00",
+      "endTime": "18:30:00",
+      "name": "Zcash World - Mumbai",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/83ujl6ms",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-83ujl6ms",
+          "slug": "zcash-world-mumbai",
+          "name": "Zcash World - Mumbai",
+          "startDate": "2026-11-01T05:30:00.000Z",
+          "endDate": "2026-11-01T13:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-83ujl6ms",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-zcash-world---mumbai",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 14,
+      "date": "Nov-1 (Sun)",
+      "startTime": "11:30:00",
+      "endTime": "12:00:00",
+      "name": "BORN UP — India Blockchain Week Mumbai Community Networking MeetupBORN.LIVE",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/bornlive-tpiy",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-bornlive-tpiy",
+          "slug": "born-up-ibw-mumbai",
+          "name": "BORN UP - India Blockchain Week Mumbai Community Networking Meetup",
+          "startDate": "2026-11-01T06:00:00.000Z",
+          "endDate": "2026-11-01T06:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-bornlive-tpiy",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "luma-evt-8AUYRaqULL9TGpM",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "w3v-born-up-india-blockchain-week-mumbai-26-11-01",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 15,
+      "date": "Nov-1 (Sun)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "DeFi Security Summit - Day 1",
+      "organizer": "",
+      "category": "Conference/Summit",
+      "url": "https://defisecuritysummit.org/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "slug": "defi-security-summit",
+          "name": "DeFi Security Summit 2026",
+          "startDate": "2026-11-01T04:30:00.000Z",
+          "endDate": "2026-11-02T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "side-ibw2026-defi-security-summit-day1",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-defi-security-summit-day2",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-2-11-02",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 16,
+      "date": "Nov-1 (Sun)",
+      "startTime": "17:00:00",
+      "endTime": "21:00:00",
+      "name": "Afterhours Mixer: Mumbai",
+      "organizer": "",
+      "category": "Party",
+      "url": "https://luma.com/1cnairat",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-ravecon-b-ender-11-04",
+          "slug": "afterhours-mixer-mumbai",
+          "name": "Afterhours Mixer: Mumbai",
+          "startDate": "2026-11-01T11:30:00.000Z",
+          "endDate": "2026-11-01T15:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-ravecon-b-ender-11-04",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 17,
+      "date": "Nov-1 (Sun)",
+      "startTime": "21:30:00",
+      "endTime": "22:30:00",
+      "name": "Shaktipith - Women only residency (1-8 Nov)",
+      "organizer": "Web3 Events",
+      "category": "Networking",
+      "url": "https://luma.com/li3sv90r",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-li3sv90r",
+          "slug": "shaktipith-women-residency",
+          "name": "Shaktipith - Women only residency",
+          "startDate": "2026-11-01T16:00:00.000Z",
+          "endDate": "2026-11-08T17:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-li3sv90r",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 18,
+      "date": "Nov-1 (Sun)",
+      "startTime": "22:30:00",
+      "endTime": "23:30:00",
+      "name": "Catalyst - Founder residency at Devcon (1-8 Nov)",
+      "organizer": "Web3 Events",
+      "category": "Networking",
+      "url": "https://luma.com/jb4zsel1",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-jb4zsel1",
+          "slug": "catalyst-founder-residency",
+          "name": "Catalyst - Founder residency at Devcon",
+          "startDate": "2026-11-01T17:00:00.000Z",
+          "endDate": "2026-11-08T18:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-jb4zsel1",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-catalyst-founder-residency-devcon-26-11-01",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 19,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "🌟 IBW2026 Conference - Day 2 🌟",
+      "organizer": "Hashed Emergent",
+      "category": "Conference/Summit",
+      "url": "https://indiablockchainweek.com/",
+      "status": "already-published",
+      "matchReason": "main conference, one record for both days",
+      "published": [
+        {
+          "id": "premier-indiabw-2026",
+          "slug": "ibw",
+          "name": "India Blockchain Week 2026",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-indiabw-2026",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-mip-20",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-pre-vip-night",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-multichain-day",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-institutional-forum",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-onchain-dev-city",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-official-after-party",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-ibw-official-after-party-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-india-blockchain-week-2026",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "ma-india-blockchain-week-2027",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 20,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "IBW Institutional Forum - Day 2",
+      "organizer": "Hashed Emergent",
+      "category": "Conference/Summit",
+      "url": "https://www.indiablockchainweek.com/institutional-forum",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "slug": "ibw-institutional-forum",
+          "name": "IBW Institutional Forum",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-ibw-institutional-forum-26-11-01",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 21,
+      "date": "Nov-2 (Mon)",
+      "startTime": "9:00:00",
+      "endTime": "19:00:00",
+      "name": "Onchain Legal Summit :: Devcon India 2026ENTITY",
+      "organizer": "",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/cw0h549b",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "slug": "onchain-legal-summit",
+          "name": "Onchain Legal Summit :: Devcon India 2026",
+          "startDate": "2026-11-04T05:30:00.000Z",
+          "endDate": "2026-11-04T11:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-onchain-legal-summit-devcon-india-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 22,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "18:00:00",
+      "name": "Multichain Day | Devcon Mumbai 2026",
+      "organizer": "Wrapped",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/multichaindaydevconmumbai",
+      "status": "held",
+      "reviewNote": "Multichain Day's primary registration page still returns HTTP 404. Preserve the existing needs-review hold; the spreadsheet alone does not establish current availability.",
+      "published": [],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "slug": "ai-economic-forum-mumbai",
+          "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+          "url": "https://luma.com/a0e6b8at"
+        },
+        {
+          "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+          "slug": "quantstamp-mumbai-lounge",
+          "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
+          "url": "https://luma.com/80bnxbwi"
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Ethereum Cypherpunk Congress #3",
+      "organizer": "Web3 Privacy Now",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/spsnos9t",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-cypherpunk",
+          "slug": "ethereum-cypherpunk-congress",
+          "name": "Ethereum Cypherpunk Congress #3",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-cypherpunk",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-spsnos9t",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-ethereum-cypherpunk-congress-mumbai",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-CyZRiDdLECiCPRS",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 24,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Solana Summit India",
+      "organizer": "",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/solana-summit-india",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-solana-summit-india-11-02",
+          "slug": "solana-summit-india",
+          "name": "Solana Summit India",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-solana-summit-india-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-solana-summit-india",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-solana-summit-india",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-host-evt-evt-hadJH0ytfLq1cra",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-hadJH0ytfLq1cra",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 25,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "DeFi Security Summit - Day 2",
+      "organizer": "",
+      "category": "Conference/Summit",
+      "url": "https://defisecuritysummit.org/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "slug": "defi-security-summit",
+          "name": "DeFi Security Summit 2026",
+          "startDate": "2026-11-01T04:30:00.000Z",
+          "endDate": "2026-11-02T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "side-ibw2026-defi-security-summit-day1",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "side-ibw2026-defi-security-summit-day2",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-2-11-02",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 26,
+      "date": "Nov-2 (Mon)",
+      "startTime": "10:30:00",
+      "endTime": "18:30:00",
+      "name": "ArbiVerse Mumbai 🇮🇳",
+      "organizer": "Arbitrum",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/arbiverse-mumbai",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-arbiverse-mumbai",
+          "slug": "arbiverse-mumbai",
+          "name": "ArbiVerse Mumbai",
+          "startDate": "2026-11-02T05:00:00.000Z",
+          "endDate": "2026-11-02T13:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-arbiverse-mumbai",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-arbiverse-mumbai-26-11-02",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 27,
+      "date": "Nov-2 (Mon)",
+      "startTime": "16:00:00",
+      "endTime": "21:00:00",
+      "name": "Onchain Dev City India",
+      "organizer": "BackersStage",
+      "category": "Networking",
+      "url": "https://luma.com/n0a39ago",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-onchain-dev-city-india-11-02",
+          "slug": "onchain-dev-city",
+          "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
+          "startDate": "2026-11-02T10:30:00.000Z",
+          "endDate": "2026-11-02T15:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-onchain-dev-city-india-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-n0a39ago",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-onchain-dev-city-devcon-8-india-26-11-02",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 28,
+      "date": "Nov-2 (Mon)",
+      "startTime": "18:00:00",
+      "endTime": "22:00:00",
+      "name": "Team1 India: Networking Gala Mumbai",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/Team1Mumbai",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-team1mumbai",
+          "slug": "team1-mumbai-networking-gala",
+          "name": "Team1 India: Networking Gala Mumbai",
+          "startDate": "2026-11-02T12:30:00.000Z",
+          "endDate": "2026-11-02T16:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-team1mumbai",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-team1-india-networking-gala-mumbai-26-11-02",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 29,
+      "date": "Nov-2 (Mon)",
+      "startTime": "18:00:00",
+      "endTime": "21:30:00",
+      "name": "Crypto Mondays Devcon India Edition",
+      "organizer": "Minds by Animoca",
+      "category": "Networking",
+      "url": "https://luma.com/9bhu9f28",
+      "status": "held",
+      "reviewNote": "CryptoMondays has a current primary page, but its timestamp uses Asia/Dubai (19:30–23:00 IST) while its agenda and the sheet say 18:00–21:30. No confirmed venue. Preserve the existing timing-conflict hold pending organizer clarification.",
+      "published": [],
+      "sourceMatches": [
+        {
+          "id": "india-luma-9bhu9f28",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-crypto-mondays-devcon-india-edition-26-11-02",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "india-luma-ppg3gw8l",
+          "slug": "road-to-devcon-pune-a36",
+          "name": "Road to Devcon India | Pune Edition",
+          "url": "https://luma.com/ppg3gw8l"
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "date": "Nov-2 (Mon)",
+      "startTime": "19:00:00",
+      "endTime": "23:00:00",
+      "name": "⚡ IBW Official After-Party 🕺",
+      "organizer": "Hashed Emergent",
+      "category": "Party",
+      "url": null,
+      "status": "already-published",
+      "matchReason": "exact title, registration still TBD in sheet",
+      "published": [
+        {
+          "id": "ibw-official-ibw-official-after-party-11-02",
+          "slug": "ibw-official-after-party",
+          "name": "IBW Official After-Party",
+          "startDate": "2026-11-02T19:00:00+05:30",
+          "endDate": "2026-11-02T23:00:00+05:30"
+        }
+      ],
+      "sourceMatches": [],
+      "candidates": []
+    },
+    {
+      "row": 31,
+      "date": "Nov-2 (Mon)",
+      "startTime": "19:30:00",
+      "endTime": "22:30:00",
+      "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security",
+      "organizer": "QuillAudits",
+      "category": "Party",
+      "url": "https://luma.com/quilla-vmnc",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+          "slug": "institutional-table-mumbai",
+          "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Mumbai",
+          "startDate": "2026-11-02T14:00:00.000Z",
+          "endDate": "2026-11-02T17:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-institutional-table-private-dinner-tokenization-stablecoins-26-11-02",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 32,
+      "date": "Nov-3 (Tue)",
+      "startTime": "9:00:00",
+      "endTime": "18:00:00",
+      "name": "World of DeSci (3-6 Nov)",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/mc8pq06y",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-mc8pq06y",
+          "slug": "world-of-desci-devcon",
+          "name": "World of DeSci @DEVCON VIII, India",
+          "startDate": "2026-11-03T03:30:00.000Z",
+          "endDate": "2026-11-06T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-mc8pq06y",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-world-desci-devcon-viii-india-26-11-03",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 33,
+      "date": "Nov-3 (Tue)",
+      "startTime": "9:00:00",
+      "endTime": "7:30:00",
+      "name": "Dabao Open Hardware Hackathon (3 Nov - 16 Dec)",
+      "organizer": "Crossbar",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/qivci0a6",
+      "status": "added",
+      "reviewNote": "This is a multi-week build period with Mumbai pickup, not a continuous six-week in-person venue event. Remove the misleading zero-price direct-shipping ticket.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+          "slug": "dabao-open-hardware-hackathon",
+          "name": "Dabao Open Hardware Hackathon",
+          "startDate": "2026-11-03T03:30:00.000Z",
+          "endDate": "2026-12-16T02:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 34,
+      "date": "Nov-3 (Tue)",
+      "startTime": "9:00:00",
+      "endTime": "17:00:00",
+      "name": "Open Silicon, In Your Hands: IRIS Demo + Free Board (3-6 Nov)",
+      "organizer": "Crossbar",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/sjxszq4s",
+      "status": "added",
+      "reviewNote": "Use the organizer's explicit final-day 15:00 closing time rather than the generic 17:00 end timestamp. Free pickup is not free admission to Devcon.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-26jnyHUBFxt6ooC",
+          "slug": "crossbar-iris-demo-devcon8",
+          "name": "Open Silicon: IRIS Demo and Dabao Board Pickup",
+          "startDate": "2026-11-03T03:30:00.000Z",
+          "endDate": "2026-11-06T09:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-26jnyHUBFxt6ooC",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 35,
+      "date": "Nov-3 (Tue)",
+      "startTime": "9:30:00",
+      "endTime": "20:00:00",
+      "name": "AI ECONOMIC FORUM (AIEF) - Truth Intelligence Summit",
+      "organizer": "Omniscient AI",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/a0e6b8at",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "slug": "ai-economic-forum-mumbai",
+          "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+          "startDate": "2026-11-03T04:00:00.000Z",
+          "endDate": "2026-11-03T14:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-a0e6b8at",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-ai-economic-forum-mumbai-2026",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-I0cnxui32UlL2eK",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 36,
+      "date": "Nov-3 (Tue)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "🌟 Devcon - Day 1 🌟",
+      "organizer": "Ethereum Foundation",
+      "category": "Conference/Summit",
+      "url": "https://devcon.org/en/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon",
+          "name": "Devcon 2026",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-devcon-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 37,
+      "date": "Nov-3 (Tue)",
+      "startTime": "11:30:00",
+      "endTime": "12:00:00",
+      "name": "BORN UP — Devcon Mumbai Community Networking Meetup",
+      "organizer": "BORN.LIVE",
+      "category": "Networking",
+      "url": "https://luma.com/4al1ai5x",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-4al1ai5x",
+          "slug": "born-up-devcon-mumbai",
+          "name": "BORN UP - Devcon Mumbai Community Networking Meetup",
+          "startDate": "2026-11-03T06:00:00.000Z",
+          "endDate": "2026-11-03T06:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-4al1ai5x",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "luma-evt-VMyghZX4k8su1uQ",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "w3v-born-up-devcon-mumbai-community-networking-26-11-03",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 38,
+      "date": "Nov-3 (Tue)",
+      "startTime": "12:00:00",
+      "endTime": "15:00:00",
+      "name": "Ready for the Run @ Mumbai",
+      "organizer": "Infini3",
+      "category": "Networking",
+      "url": "https://luma.com/08ogvz1i",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "slug": "ready-for-the-run-mumbai",
+          "name": "Ready for the Run @ Mumbai",
+          "startDate": "2026-11-03T06:30:00.000Z",
+          "endDate": "2026-11-03T09:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-ready-run-mumbai-26-11-03",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 39,
+      "date": "Nov-3 (Tue)",
+      "startTime": "12:00:00",
+      "endTime": "18:00:00",
+      "name": "The Money House",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/h0x443s9",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-h0x443s9",
+          "slug": "money-house",
+          "name": "The Money House",
+          "startDate": "2026-11-03T06:30:00.000Z",
+          "endDate": "2026-11-03T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-h0x443s9",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-money-house-26-11-03",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 40,
+      "date": "Nov-3 (Tue)",
+      "startTime": "15:00:00",
+      "endTime": "14:30:00",
+      "name": "Media Accelerator & Startup Cohort",
+      "organizer": "BFM Times x Devcon",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/mh0xmqg0",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+          "slug": "media-accelerator-startup-cohort",
+          "name": "Media Accelerator & Startup Cohort",
+          "startDate": "2026-11-03T09:30:00.000Z",
+          "endDate": "2026-11-06T09:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-mh0xmqg0",
+          "file": "india-luma-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 41,
+      "date": "Nov-3 (Tue)",
+      "startTime": "16:00:00",
+      "endTime": "19:00:00",
+      "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/teffnotz",
+      "status": "added",
+      "reviewNote": "Avoid treating the organizer's no-liquidation marketing as a guarantee. Preserve the lack of a specific venue.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+          "slug": "clickoptions-nextwave-trading",
+          "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+          "startDate": "2026-11-03T10:30:00.000Z",
+          "endDate": "2026-11-03T13:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 42,
+      "date": "Nov-3 (Tue)",
+      "startTime": "19:00:00",
+      "endTime": "23:00:00",
+      "name": "Fluid at Mumbai | Smart Liquidity",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/uqmzpq5k",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-uqmzpq5k",
+          "slug": "fluid-mumbai-smart-liquidity",
+          "name": "Fluid at Mumbai | Smart Liquidity",
+          "startDate": "2026-11-03T13:30:00.000Z",
+          "endDate": "2026-11-03T17:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-uqmzpq5k",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 43,
+      "date": "Nov-3 (Tue)",
+      "startTime": "20:30:00",
+      "endTime": "2:30:00",
+      "name": "EIP Hub (3-7 Nov)",
+      "organizer": "ECH Institute",
+      "category": "Networking",
+      "url": "https://luma.com/czi58jpe",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-eip-hub-3-7-nov-11-03",
+          "slug": "eip-hub-devcon",
+          "name": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
+          "startDate": "2026-11-03T15:30:00.000Z",
+          "endDate": "2026-11-06T12:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-eip-hub-3-7-nov-11-03",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "india-luma-czi58jpe",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-eip-hub-devcon-8-india-where-26-11-03",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-WA1k9H6TjNoF3wg",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 44,
+      "date": "Nov-3 (Tue)",
+      "startTime": "21:30:00",
+      "endTime": "0:30:00",
+      "name": "Liquidity Pool @Devcon 8",
+      "organizer": "Web3 Mumbai",
+      "category": "Other",
+      "url": "https://luma.com/sgrf4yq5",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-sgrf4yq5",
+          "slug": "liquidity-pool-devcon",
+          "name": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
+          "startDate": "2026-11-03T16:00:00.000Z",
+          "endDate": "2026-11-03T19:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-sgrf4yq5",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 45,
+      "date": "Nov-4 (Wed)",
+      "startTime": "9:00:00",
+      "endTime": "0:00:00",
+      "name": "Monad Blitz Mumbai: Devcon Edition",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/Blitz-Mumbai-Devcon-2026",
+      "status": "already-published",
+      "reviewNote": "The vanity registration URL resolves to Luma event evt-sD01HYVKTNfEzrf, already published at /monad-blitz-mumbai. Do not create a duplicate.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-qk93a446",
+          "slug": "monad-blitz-mumbai",
+          "name": "Monad Blitz Mumbai: Devcon Edition",
+          "startDate": "2026-11-04T03:30:00.000Z",
+          "endDate": "2026-11-04T18:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [],
+      "candidates": []
+    },
+    {
+      "row": 46,
+      "date": "Nov-4 (Wed)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "ETHIndia",
+      "organizer": "",
+      "category": "Conference/Summit",
+      "url": "https://ethindia.co/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-ethindia-2026",
+          "slug": "ethindia",
+          "name": "ETHIndia 2026",
+          "startDate": "2026-11-04",
+          "endDate": "2026-11-04"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-ethindia-2026",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-ethindia-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 47,
+      "date": "Nov-4 (Wed)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Devcon - Day 2",
+      "organizer": "Ethereum Foundation",
+      "category": "Conference/Summit",
+      "url": "https://devcon.org/en/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon",
+          "name": "Devcon 2026",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-devcon-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 48,
+      "date": "Nov-4 (Wed)",
+      "startTime": "10:00:00",
+      "endTime": "16:00:00",
+      "name": "The Yield Layer of Social Impact",
+      "organizer": "Launchnodes",
+      "category": "Networking",
+      "url": "https://luma.com/7729jnr3",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-G3fjJAlPZ0oK9GC",
+          "slug": "yield-layer-social-impact",
+          "name": "The Yield Layer of Social Impact",
+          "startDate": "2026-11-04T04:30:00.000Z",
+          "endDate": "2026-11-04T10:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-G3fjJAlPZ0oK9GC",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-yield-layer-social-impact-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 49,
+      "date": "Nov-4 (Wed)",
+      "startTime": "10:00:00",
+      "endTime": "17:00:00",
+      "name": "Ethereum Forward Defence Summit",
+      "organizer": "Safe",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/vwmfpmaz",
+      "status": "held",
+      "reviewNote": "Ethereum Forward Defence Summit's primary source marks the event private. Do not publish its venue or create a public listing from this source.",
+      "published": [],
+      "sourceMatches": [],
+      "candidates": []
+    },
+    {
+      "row": 50,
+      "date": "Nov-4 (Wed)",
+      "startTime": "11:00:00",
+      "endTime": "17:00:00",
+      "name": "Onchain Legal Summit :: Devcon India 2026",
+      "organizer": "Entity",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/cw0h549b",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "slug": "onchain-legal-summit",
+          "name": "Onchain Legal Summit :: Devcon India 2026",
+          "startDate": "2026-11-04T05:30:00.000Z",
+          "endDate": "2026-11-04T11:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-onchain-legal-summit-devcon-india-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 51,
+      "date": "Nov-4 (Wed)",
+      "startTime": "11:00:00",
+      "endTime": "15:00:00",
+      "name": "Zcash Presents: FREE SOCIETY HACKATHON (4-5 Nov)",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/freesocietyhackathon",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-evt-b6kmwqzyuuetkip",
+          "slug": "free-society-hackathon",
+          "name": "Zcash Presents: FREE SOCIETY HACKATHON",
+          "startDate": "2026-11-04T05:30:00.000Z",
+          "endDate": "2026-11-05T09:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-evt-b6kmwqzyuuetkip",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "w3v-zcash-presents-free-society-hackathon",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 52,
+      "date": "Nov-4 (Wed)",
+      "startTime": "16:00:00",
+      "endTime": "18:30:00",
+      "name": "Digital Asset Regulation, Policy and Global Compliance Roundtable",
+      "organizer": "Fractional | Trilegal",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/6gnkjcqx",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-6gnkjcqx",
+          "slug": "digital-asset-regulation-roundtable",
+          "name": "Digital Asset Regulation, Policy and Global Compliance Roundtable",
+          "startDate": "2026-11-04T10:30:00.000Z",
+          "endDate": "2026-11-04T13:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-6gnkjcqx",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-digital-asset-regulation-policy-global-compliance-26-11-04",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-p8GBiNmZfRmAhS9",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 53,
+      "date": "Nov-4 (Wed)",
+      "startTime": "16:00:00",
+      "endTime": "20:00:00",
+      "name": "Diyas : Near @Devcon 🪔",
+      "organizer": "ArQ",
+      "category": "Networking",
+      "url": "https://luma.com/hr8w0hmd",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-hr8w0hmd",
+          "slug": "diyas-near-devcon",
+          "name": "Diyas : Near @Devcon",
+          "startDate": "2026-11-04T10:30:00.000Z",
+          "endDate": "2026-11-04T14:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-hr8w0hmd",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-diyas-devcon-26-11-04",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-HdBv5chLWvbN4Ry",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 54,
+      "date": "Nov-4 (Wed)",
+      "startTime": "16:00:00",
+      "endTime": "20:00:00",
+      "name": "The Best Event: Stable - Payments & Stablecoins",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/TBE-Stable26",
+      "status": "added",
+      "reviewNote": "Preserve hidden location and approval requirement.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-mD9IikmzLZVweco",
+          "slug": "stable-payments-stablecoins-mumbai",
+          "name": "The Best Event: Stable - Payments & Stablecoins",
+          "startDate": "2026-11-04T10:30:00.000Z",
+          "endDate": "2026-11-04T14:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-mD9IikmzLZVweco",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 55,
+      "date": "Nov-4 (Wed)",
+      "startTime": "17:00:00",
+      "endTime": "23:00:00",
+      "name": "EVA Symposium III",
+      "organizer": "Ethereum Validators Association",
+      "category": "Networking",
+      "url": "https://luma.com/ai6owvhz",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-ai6owvhz",
+          "slug": "eva-symposium-iii",
+          "name": "EVA Symposium III",
+          "startDate": "2026-11-04T11:30:00.000Z",
+          "endDate": "2026-11-04T17:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-ai6owvhz",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-eva-symposium-iii-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 56,
+      "date": "Nov-4 (Wed)",
+      "startTime": "18:30:00",
+      "endTime": "22:30:00",
+      "name": "Collateral Call: Institutional Credit Night by Alpend",
+      "organizer": "Alpend",
+      "category": "Networking",
+      "url": "https://luma.com/qzzu690f",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-qzzu690f",
+          "slug": "alpend-collateral-call",
+          "name": "Collateral Call: Institutional Credit Night by Alpend",
+          "startDate": "2026-11-04T13:00:00.000Z",
+          "endDate": "2026-11-04T17:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-qzzu690f",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 57,
+      "date": "Nov-4 (Wed)",
+      "startTime": "18:30:00",
+      "endTime": "22:00:00",
+      "name": "Money Layer @Devcon🇮🇳 Week",
+      "organizer": "Capvise Global",
+      "category": "Networking",
+      "url": "https://luma.com/islzi7v3",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-islzi7v3",
+          "slug": "money-layer-devcon",
+          "name": "Money Layer @Devcon🇮🇳 Week",
+          "startDate": "2026-11-04T13:00:00.000Z",
+          "endDate": "2026-11-04T16:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-islzi7v3",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-money-layer-devcon-week-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 58,
+      "date": "Nov-4 (Wed)",
+      "startTime": "19:00:00",
+      "endTime": "22:00:00",
+      "name": "Quantstamp x Common Defense Mumbai Lounge | Devcon 2026",
+      "organizer": "Quantstamp x Common Defense",
+      "category": "Conference/Summit",
+      "url": "https://luma.com/80bnxbwi",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+          "slug": "quantstamp-mumbai-lounge",
+          "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
+          "startDate": "2026-11-04T13:30:00.000Z",
+          "endDate": "2026-11-04T16:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 59,
+      "date": "Nov-4 (Wed)",
+      "startTime": "19:30:00",
+      "endTime": "20:30:00",
+      "name": "Sovrency C8 Launch · The first hardware MPC wallet for stablecoins",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/qwlh11yl",
+      "status": "added",
+      "reviewNote": "Do not repeat the unverified market-first claim. Separate product pricing from free event registration.",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-sheet-evt-3HoI2mTbd1euCxd",
+          "slug": "sovrency-c8-launch",
+          "name": "Sovrency C8 Launch",
+          "startDate": "2026-11-04T14:00:00.000Z",
+          "endDate": "2026-11-04T15:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-sheet-evt-3HoI2mTbd1euCxd",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 60,
+      "date": "Nov-4 (Wed)",
+      "startTime": "19:30:00",
+      "endTime": "23:30:00",
+      "name": "Sidequest: Happy Hour",
+      "organizer": "",
+      "category": "Party",
+      "url": "https://luma.com/2kj0jqf9",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-2kj0jqf9",
+          "slug": "sidequest-happy-hour",
+          "name": "Sidequest: Happy Hour",
+          "startDate": "2026-11-04T14:00:00.000Z",
+          "endDate": "2026-11-04T18:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-2kj0jqf9",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-sidequest-happy-hour",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 61,
+      "date": "Nov-4 (Wed)",
+      "startTime": "20:00:00",
+      "endTime": "23:00:00",
+      "name": "Capital connect",
+      "organizer": "Web3 Events",
+      "category": "Networking",
+      "url": "https://luma.com/kz3klqjq",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-kz3klqjq",
+          "slug": "capital-connect",
+          "name": "Capital connect",
+          "startDate": "2026-11-04T14:30:00.000Z",
+          "endDate": "2026-11-04T17:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-kz3klqjq",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-capital-connect-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 62,
+      "date": "Nov-4 (Wed)",
+      "startTime": "20:00:00",
+      "endTime": "1:00:00",
+      "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
+      "organizer": "",
+      "category": "Party",
+      "url": "https://luma.com/unfollowbombay",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "discovery-evt-CrfUNgdw4aVQtjy",
+          "slug": "unfollow-002-mumbai-afterparty-zcash-bitrefill",
+          "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
+          "startDate": "2026-11-04T13:30:00.000Z",
+          "endDate": "2026-11-04T19:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "discovery-evt-CrfUNgdw4aVQtjy",
+          "file": "verified-discovery.json"
+        },
+        {
+          "id": "w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 63,
+      "date": "Nov-5 (Thu)",
+      "startTime": "9:00:00",
+      "endTime": "17:00:00",
+      "name": "Frontier Of Intelligence Hackathon",
+      "organizer": "Lakshmi",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/ub56pe38",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-ub56pe38",
+          "slug": "frontier-of-intelligence-hackathon",
+          "name": "Frontier Of Intelligence Hackathon",
+          "startDate": "2026-11-05T03:30:00.000Z",
+          "endDate": "2026-11-06T11:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-ub56pe38",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-frontier-intelligence-hackathon-26-11-05",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 64,
+      "date": "Nov-5 (Thu)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Devcon - Day 3",
+      "organizer": "Ethereum Foundation",
+      "category": "Conference/Summit",
+      "url": "https://devcon.org/en/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon",
+          "name": "Devcon 2026",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-devcon-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 65,
+      "date": "Nov-5 (Thu)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Pragma Mumbai",
+      "organizer": "ETHGlobal",
+      "category": "Conference/Summit",
+      "url": "https://ethglobal.com/events/pragma-mumbai?utm_source=web3meetups",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-pragma-mumbai-11-05",
+          "slug": "pragma-mumbai",
+          "name": "Pragma Mumbai",
+          "startDate": "2026-11-06",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-pragma-mumbai-11-05",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 66,
+      "date": "Nov-5 (Thu)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Unchained Summit - Day 1",
+      "organizer": "Aeternum",
+      "category": "Conference/Summit",
+      "url": "https://unchainedsummit.com/india/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "slug": "unchained-summit",
+          "name": "Unchained Summit India 2026",
+          "startDate": "2026-11-05",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-1-11-05",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-2-11-06",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-unchained-summit-india-26-11-05",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 67,
+      "date": "Nov-5 (Thu)",
+      "startTime": "13:00:00",
+      "endTime": "16:00:00",
+      "name": "Builders Brunch, Mumbai 🇮🇳",
+      "organizer": "Buildify",
+      "category": "Networking",
+      "url": "https://luma.com/5u1evsou",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-5u1evsou",
+          "slug": "builders-brunch-mumbai",
+          "name": "Builders Brunch, Mumbai 🇮🇳",
+          "startDate": "2026-11-05T07:30:00.000Z",
+          "endDate": "2026-11-05T10:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-5u1evsou",
+          "file": "ibw-side-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 68,
+      "date": "Nov-5 (Thu)",
+      "startTime": "18:00:00",
+      "endTime": "21:00:00",
+      "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
+      "organizer": "",
+      "category": "Party",
+      "url": "https://luma.com/xuofsg0p",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-xuofsg0p",
+          "slug": "near-quantus-happy-hour",
+          "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
+          "startDate": "2026-11-05T12:30:00.000Z",
+          "endDate": "2026-11-05T15:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-xuofsg0p",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 69,
+      "date": "Nov-5 (Thu)",
+      "startTime": "19:00:00",
+      "endTime": "22:00:00",
+      "name": "notneils' stealth founder dinnerNiels de Ruiter",
+      "organizer": "",
+      "category": "Networking",
+      "url": "https://luma.com/kfh8wkql",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-kfh8wkql",
+          "slug": "notneils-stealth-founder-dinner",
+          "name": "notneils' stealth founder dinner",
+          "startDate": "2026-11-05T13:30:00.000Z",
+          "endDate": "2026-11-05T16:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-kfh8wkql",
+          "file": "india-luma-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 70,
+      "date": "Nov-5 (Thu)",
+      "startTime": "19:00:00",
+      "endTime": "1:30:00",
+      "name": "The Best Event: Afterdark Devcon",
+      "organizer": "TBV",
+      "category": "Party",
+      "url": "https://luma.com/TBE-Devcon26",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-evtaPGKR2FFDEuck",
+          "slug": "afterdark-devcon",
+          "name": "The Best Event: Afterdark Devcon",
+          "startDate": "2026-11-05T13:30:00.000Z",
+          "endDate": "2026-11-05T20:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-evtaPGKR2FFDEuck",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-best-event-afterdark-devcon-26-11-05",
+          "file": "events-cache.json"
+        },
+        {
+          "id": "luma-evt-aPGKR2FFDEuckm2",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 71,
+      "date": "Nov-5 (Thu)",
+      "startTime": "19:30:00",
+      "endTime": "1:00:00",
+      "name": "Biggest CT G.A.Y Party",
+      "organizer": "Secret Society",
+      "category": "Party",
+      "url": "https://luma.com/ena53peq",
+      "status": "held",
+      "reviewNote": "The CT party's structured schedule and the sheet show November 5, but the organizer's description says December 6, 16:00–19:00. Preserve the existing conflict hold pending clarification.",
+      "published": [],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-hIZnQMK5SVTWgj8",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-biggest-ct-g-y-party-26-11-05",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 72,
+      "date": "Nov-6 (Fri)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Unchained Summit - Day 2",
+      "organizer": "Aeternum",
+      "category": "Conference/Summit",
+      "url": "https://unchainedsummit.com/india/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "slug": "unchained-summit",
+          "name": "Unchained Summit India 2026",
+          "startDate": "2026-11-05",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "file": "curated-events.json"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-1-11-05",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-2-11-06",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-unchained-summit-india-26-11-05",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 73,
+      "date": "Nov-6 (Fri)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "Devcon - Day 4",
+      "organizer": "Ethereum Foundation",
+      "category": "Conference/Summit",
+      "url": "https://devcon.org/en/",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon",
+          "name": "Devcon 2026",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-06"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-devcon-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 74,
+      "date": "Nov-6 (Fri)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "ETHGlobal Mumbai - Day 1",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://luma.com/np3wx7v5",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "slug": "money-maker",
+          "name": "MONEY MAKER",
+          "startDate": "2026-11-06T07:30:00.000Z",
+          "endDate": "2026-11-06T19:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-money-maker-26-11-06",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 75,
+      "date": "Nov-6 (Fri)",
+      "startTime": "13:00:00",
+      "endTime": "1:00:00",
+      "name": "MONEY MAKER",
+      "organizer": "namic",
+      "category": "Networking",
+      "url": "https://luma.com/np3wx7v5",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "slug": "money-maker",
+          "name": "MONEY MAKER",
+          "startDate": "2026-11-06T07:30:00.000Z",
+          "endDate": "2026-11-06T19:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "file": "luma-batch-events.json"
+        },
+        {
+          "id": "w3v-money-maker-26-11-06",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 76,
+      "date": "Nov-6 (Fri)",
+      "startTime": "16:00:00",
+      "endTime": "20:00:00",
+      "name": "Ship Safe: Devcon Mumbai Security Sessions",
+      "organizer": "QuillAudits",
+      "category": "Networking",
+      "url": "https://luma.com/quilla-rvp4",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+          "slug": "ship-safe",
+          "name": "Ship Safe: Devcon Mumbai Security Sessions by QuillAudits",
+          "startDate": "2026-11-06T10:30:00.000Z",
+          "endDate": "2026-11-06T14:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-ship-safe-devcon-mumbai-security-sessions-26-11-06",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 77,
+      "date": "Nov-6 (Fri)",
+      "startTime": "16:30:00",
+      "endTime": "19:30:00",
+      "name": "Perps & Chai with HyprEarn",
+      "organizer": "HyprEarn",
+      "category": "Networking",
+      "url": "https://luma.com/58b4n6e6",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "w3v-perps--chai-with-hyprearn",
+          "slug": "perps-and-chai-hyprearn-mumbai",
+          "name": "Perps & Chai with HyprEarn @Devcon 8",
+          "startDate": "2026-11-06T11:00:00.000Z",
+          "endDate": "2026-11-06T14:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "w3v-perps--chai-with-hyprearn",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 78,
+      "date": "Nov-6 (Fri)",
+      "startTime": "21:30:00",
+      "endTime": "1:00:00",
+      "name": "Devcon Afterparty",
+      "organizer": "Devcon",
+      "category": "Party",
+      "url": "https://luma.com/tswdcctj",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-tswdcctj",
+          "slug": "unofficial-devcon-afterparty",
+          "name": "Devcon Afterparty",
+          "startDate": "2026-11-06T16:00:00.000Z",
+          "endDate": "2026-11-06T19:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-tswdcctj",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-devcon-afterparty-26-11-06",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 79,
+      "date": "Nov-7 (Sat)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "ETHGlobal Mumbai - Day 2",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://ethglobal.com/events/mumbai?utm_source=web3meetups",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "slug": "ethglobal-mumbai",
+          "name": "ETHGlobal Mumbai 2026",
+          "startDate": "2026-11-05",
+          "endDate": "2026-11-07"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 80,
+      "date": "Nov-7 (Sat)",
+      "startTime": "12:00:00",
+      "endTime": "15:00:00",
+      "name": "Ready for the Run",
+      "organizer": "Infini3",
+      "category": "Networking",
+      "url": "https://luma.com/08ogvz1i",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "slug": "ready-for-the-run-mumbai",
+          "name": "Ready for the Run @ Mumbai",
+          "startDate": "2026-11-03T06:30:00.000Z",
+          "endDate": "2026-11-03T09:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "file": "india-luma-events.json"
+        },
+        {
+          "id": "w3v-ready-run-mumbai-26-11-03",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 81,
+      "date": "Nov-7 (Sat)",
+      "startTime": "20:00:00",
+      "endTime": "0:00:00",
+      "name": "Mumbai Edition: Crypto AfterhoursMandala Network",
+      "organizer": "",
+      "category": "Party",
+      "url": "https://luma.com/v0fimew1",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-v0fimew1",
+          "slug": "crypto-afterhours-mumbai",
+          "name": "Mumbai Edition: Crypto Afterhours",
+          "startDate": "2026-11-07T14:30:00.000Z",
+          "endDate": "2026-11-07T18:30:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-v0fimew1",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-mumbai-edition-crypto-afterhours-26-11-07",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 82,
+      "date": "Nov-8 (Sun)",
+      "startTime": "10:00:00",
+      "endTime": "19:00:00",
+      "name": "ETHGlobal Mumbai - Day 3",
+      "organizer": "",
+      "category": "Hackathon/Workshop",
+      "url": "https://ethglobal.com/events/mumbai?utm_source=web3meetups",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "slug": "ethglobal-mumbai",
+          "name": "ETHGlobal Mumbai 2026",
+          "startDate": "2026-11-05",
+          "endDate": "2026-11-07"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "file": "curated-events.json"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "row": 83,
+      "date": "Nov-8 (Sun)",
+      "startTime": "18:00:00",
+      "endTime": "23:30:00",
+      "name": "ETHwali",
+      "organizer": "Secret Society",
+      "category": "Networking",
+      "url": "https://luma.com/0ej7kbb0",
+      "status": "already-published",
+      "matchReason": "registration URL / previously verified identity",
+      "published": [
+        {
+          "id": "india-luma-0ej7kbb0",
+          "slug": "ethwali",
+          "name": "ETHwali",
+          "startDate": "2026-11-08T12:30:00.000Z",
+          "endDate": "2026-11-08T18:00:00.000Z"
+        }
+      ],
+      "sourceMatches": [
+        {
+          "id": "india-luma-0ej7kbb0",
+          "file": "ibw-side-events.json"
+        },
+        {
+          "id": "w3v-ethwali-26-11-08",
+          "file": "events-cache.json"
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

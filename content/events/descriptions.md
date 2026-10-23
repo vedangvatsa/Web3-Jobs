@@ -18987,6 +18987,22 @@ ETHMumbai hosts MIP-20 as part of Road to Devcon on October 30, from 15:00 to 18
 
 The organizer has not published an agenda or speaker list. Registration is free and requires approval; the exact location is shared with registered guests.
 
+<a id="event-0c0712a3ff65e0d9"></a>
+
+## NEAR Builder’s Cafe #2
+
+- Record: `ibw-sheet-evt-ZwfO8bu83v1Qqe8`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-10-31T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ijy8hzbj>
+
+### About the event
+
+NEAR Builder's Cafe brings readers from different disciplines together to discuss original texts and their implications for AI. Up to three participants introduce a text, defend a claim and invite questions.
+
+This edition is in Mumbai on October 31, 13:00-16:00 IST according to the organizer's current schedule. Registration requires approval, and the page currently marks it sold out. The venue is shared with registered guests.
+
 <a id="event-06e588b1577083a5"></a>
 
 ## IBW2026 Pre-Conference VIP Night
@@ -19473,6 +19489,38 @@ CryptoMondays India plans a welcome session, a fireside discussion and lightning
 
 Hashed Emergent lists the IBW Official After-Party in its event spreadsheet, from 19:00 to 23:00 IST on November 2. The registration link remains to be announced.
 
+<a id="event-c60becdc095953fc"></a>
+
+## Open Silicon: IRIS Demo and Dabao Board Pickup
+
+- Record: `ibw-sheet-evt-26jnyHUBFxt6ooC`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/sjxszq4s>
+
+### About the event
+
+CrossBar demonstrates Infra-Red In-Situ inspection of its Daric chip at the Devcon 8 Impact Space in Jio World Centre. Visitors can inspect the chip against its published design and discuss hardware wallets, MPC and open-silicon development.
+
+The organizer lists booth hours of November 3-5, 09:00-17:00 IST, and November 6, 09:00-15:00 IST. A Devcon 8 ticket is required. Register for a pickup slot to reserve a limited-edition Dabao development board; unregistered visitors may watch the inspection, but take-home boards are limited to registered visitors.
+
+<a id="event-4a4bd9b840206643"></a>
+
+## Dabao Open Hardware Hackathon
+
+- Record: `ibw-sheet-evt-WP32nMhXbmHisMb`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qivci0a6>
+
+### About the event
+
+CrossBar's Dabao hackathon invites participants to build on the Baochip-1x / Daric development board, including Ethereum signing, open-chip verification and hardware-security projects. The organizer advertises a prize pool of up to USD 5,000, awarded by its judges.
+
+Board pickup in Mumbai runs November 3-6 at the Devcon 8 Impact Space; a separate November 4 pickup is available at the Sovrency launch event. Building continues remotely, with submissions due December 15 at 21:00 US Eastern time (December 16 at 07:30 IST). Results are scheduled for December 18. Registration requires approval. In-person boards are limited; direct shipping has a stated USD 20 shipping charge.
+
 <a id="event-2126456564b5cfdb"></a>
 
 ## World of DeSci @DEVCON VIII, India
@@ -19573,6 +19621,22 @@ Registration is free and subject to approval. The organizer should be consulted 
 Interspace Studio's Sidequest offers free kulfi, Indian ice cream, near the conference venue on afternoons during Devcon week. Attendees can stop for a short break and informal conversation.
 
 No conference badge or app is needed. Check the Sidequest calendar for the day's location.
+
+<a id="event-17076387a598dee6"></a>
+
+## ClickOptions × NextWave: Live Crypto Trading Competition
+
+- Record: `ibw-sheet-evt-zlSNS0eZPLZsGcM`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/teffnotz>
+
+### About the event
+
+NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on November 3, 16:00-19:00 IST. The published schedule includes onboarding, a two-hour competition and winner announcements. The organizer advertises up to USD 200 shared among winners; competition mode, scoring and prize allocation will be explained before trading.
+
+Bring a laptop if possible. Registration is free and requires approval. Only Mumbai is currently specified as the location. Trading involves risk; a defined maximum loss does not eliminate the possibility of losing the amount committed.
 
 <a id="event-e3864301cccfa3a9"></a>
 
@@ -19694,6 +19758,20 @@ Every hackathon submission must come from a team of two or three members. Projec
 The organizer offers separate free application categories for Hackathon Registrations, General Admission and Content Creators. General admission is intended for founders, investors and other visitors meeting builders and viewing projects; the creator category is for people covering the event and its projects. All three categories require approval, and capacity is limited. The exact Mumbai venue is shared through registration.
 
 The organizer states that photography, livestreaming and audio or video recording may take place, and that attendance constitutes consent to recording and use of that material under its published event terms.
+
+<a id="event-d12f45cc8af42def"></a>
+
+## The Best Event: Stable — Payments & Stablecoins
+
+- Record: `ibw-sheet-evt-mD9IikmzLZVweco`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/TBE-Stable26>
+
+### About the event
+
+The Best Event hosts a payments and stablecoins gathering during Devcon week on November 4, 16:00-20:00 IST in Mumbai. The announced discussion topics include cross-border payments, regulation and adoption, with founders, payments teams, fintech operators and investors as the intended audience. Registration is free and subject to approval. The organizer withholds the venue until registration.
 
 <a id="event-f407808a01e20f99"></a>
 
@@ -19821,6 +19899,22 @@ Alpend is a decentralized money market on Canton Network, built by Palladium Lab
 ### About the event
 
 Quantstamp and Common Defense host an evening for people working in Web3, AI and security during Devcon. Food and drinks are provided. Entry requires an approved registration QR code.
+
+<a id="event-9556db91ee57d0eb"></a>
+
+## Sovrency C8 Launch
+
+- Record: `ibw-sheet-evt-3HoI2mTbd1euCxd`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qwlh11yl>
+
+### About the event
+
+CrossBar presents the Sovrency C8 hardware MPC wallet at Sofitel Mumbai BKC on November 4, 19:30-20:30 IST. The one-hour program includes a product reveal, live demonstration, launch offer and hands-on time. The organizer also offers a YouTube livestream, with the link sent by email.
+
+Registration is free and requires approval; a Devcon ticket is not required. A buffet dinner is listed for in-person attendees. The advertised USD 999 presale is the product price, not an event admission fee.
 
 <a id="event-014c151f13dc8a4f"></a>
 
