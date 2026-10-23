@@ -81162,7 +81162,31 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-26T00:40:37.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "hoodidelay",
+      "draftProgress": {
+        "id": "fb19d8b10e17f3643acf",
+        "day": "2026-10-23",
+        "articleSlug": "hoodidelay",
+        "note": "Slug reserved; no draft file yet. Read CryptoSlate's report, the Ethereum Foundation's Oct. 22 postponement announcement (primary) and ChainSecurity's Oct. 13 gas-risk analysis. Three independent sites verified; article draft and hero image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.chainsecurity.com/blog/glamsterdam-gas/index.html",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T09:09:30.496Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "463e6f8b99702a109dc3": {
       "source": "Crypto Briefing",
