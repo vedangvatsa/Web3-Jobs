@@ -48243,7 +48243,8 @@
       },
       "account": "channel:build",
       "attemptId": "a709a077-8d07-4255-b758-badcb319cd08",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4681480160550ecd779075834c39ba8bc9711336"
     }
   ]
 }
