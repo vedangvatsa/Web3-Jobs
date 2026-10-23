@@ -27,10 +27,12 @@
           "robinhooddubai",
           "fireblocksvisa"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-10-23T09:25:34.650Z",
         "buildId": "daily-20261023-39921126214-1",
-        "rolloutId": "daily-20261023-39921126214-1"
+        "rolloutId": "daily-20261023-39921126214-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-23T09:43:48.910Z"
       }
     ]
   }
