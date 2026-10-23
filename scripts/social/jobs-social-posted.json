@@ -47527,7 +47527,8 @@
       },
       "account": "channel:solana",
       "attemptId": "30ece501-55cb-48aa-8e35-63343f6ded39",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xecf3350cea2e2ed9fecc1795605dc1ec365c1d51"
     }
   ]
 }
