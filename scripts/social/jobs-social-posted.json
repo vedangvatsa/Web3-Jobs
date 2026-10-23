@@ -48716,6 +48716,37 @@
       "attemptId": "fa8672d9-ad94-484e-a3b5-52e0a847dc83",
       "verification": "verified",
       "postId": "691827047618629_1123997500207484"
+    },
+    {
+      "slug": "aso59",
+      "company": "Figure",
+      "title": "Channel Account Executive",
+      "platform": "x",
+      "postedAt": "2026-10-23T19:35:35.827Z",
+      "expectedText": "Figure is hiring Channel Account Executive\n\nhttps://hashtagweb3.com/aso59/x?og=7",
+      "snapshot": {
+        "id": "8872914002",
+        "title": "Channel Account Executive",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8872914002",
+        "date": "2026-10-13T16:57:31-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "New York, NY",
+        "department": "Partnerships",
+        "active": true,
+        "salary": "$68k – $95k/yr",
+        "dateVerified": true,
+        "slug": "aso59"
+      },
+      "payload": {
+        "text": "Figure is hiring Channel Account Executive\n\nhttps://hashtagweb3.com/aso59/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "a3de5291-11d9-4c54-ab8b-183d21191333",
+      "verification": "creating"
     }
   ]
 }
