@@ -2,7 +2,7 @@
   "platform": "expansion",
   "target": "Messari",
   "slug": "messari",
-  "status": "claimed",
+  "status": "accepted_by_resend",
   "claimedAt": "2026-10-23T15:32:24.962Z",
   "recipient": "info@messari.io",
   "recipientSource": "https://messari.io/",
@@ -17,5 +17,6 @@
     "text": "Hello Messari team,\n\nWe would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nCommunity: https://hashtagweb3.com/community\nContact: hi@hashtagweb3.com\nExample native article: https://hashtagweb3.com/bitgetthai\n\nA few figures that describe our reach:\n- 55 million job-post views in the last year\n- Weekly X (Twitter) Spaces with guests including a Pink Floyd band member, EY partners, the \"Father of Digital Twin,\" and a former Microsoft CSO, drawing 20,000–40,000 live listeners\n- 26 million LinkedIn views last month\n- 150,000 newsletter subscribers\n- 60,000 Telegram channel subscribers\n- Event partnerships including Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex and ETH Brussels\n\nWe want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.\n\nRSS: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original dates and canonical links). We can provide and validate the required full-content feed and image rights information during onboarding.\n\nCould you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?\n\nThank you,\nHashtag Web3\nhi@hashtagweb3.com"
   },
   "payloadSha256": "940befbbec02a2b0939bc3137678af2cf99b69f08c8d0d6e63a3a6bde1876751",
-  "providerId": null
+  "providerId": "01a16964-58bf-715a-82d6-06f412381ec5",
+  "acceptedAt": "2026-10-23T15:32:26.531Z"
 }
