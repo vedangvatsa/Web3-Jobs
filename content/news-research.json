@@ -73608,17 +73608,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b4b1bb1bab20bc37092",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T12:26:58.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "duplicate",
-      "note": "same OCC final rule story; covered by the ready draft.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "note": "Same Oct. 21 OCC final GENIUS Act rule event already covered by content/articles/occgenius.md; read the Cointelegraph report, which describes the same reserve, redemption, custody provisions and Jan. 18, 2027 effective date.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:18:20.296Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-23"
     },
     "a98e28e567f25130ac6d": {
       "source": "CoinDesk",
@@ -143477,6 +143482,19 @@
           ],
           "reviewedAt": "2026-10-23T08:13:00.956Z",
           "articleSlug": "fireblocksvisa"
+        },
+        "7b4b1bb1bab20bc37092": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 21 OCC final GENIUS Act rule event already covered by content/articles/occgenius.md; read the Cointelegraph report, which describes the same reserve, redemption, custody provisions and Jan. 18, 2027 effective date.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:18:20.296Z",
+          "duplicateOf": "occgenius"
         }
       },
       "baselineSlugs": [
