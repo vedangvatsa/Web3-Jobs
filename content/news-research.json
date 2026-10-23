@@ -68421,24 +68421,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7168518ec513546cf43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-23T19:19:54.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "Same Oct. 20 comment-close event on the SEC's Regulation Crypto Assets proposal, and the same commenter pressure, already covered by the ready regcrypto article: its body reports the Hyperliquid Policy Center and SIFMA pushes on airdrops and safe-harbor scope, the AIMA letter, and the stream of Oct. 20-21 filings on File No. S7-2026-27. The candidate URL slug (2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima) names that identical set. The Block returns HTTP 403 to both fetchers, so no new facts from it were incorporated.",
+      "note": "Same Oct. 20 comment-close event on the SEC's Regulation Crypto Assets proposal, and the same commenter pressure, already covered by the ready regcrypto article: its body reports the Hyperliquid Policy Center and SIFMA pushes on airdrops and safe-harbor scope, the AIMA letter, and the stream of Oct. 20-21 filings on File No. S7-2026-27. The candidate URL slug (2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima) names that identical set. The Block returned HTTP 403 again on today's GET, so no new facts from it were incorporated.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T12:51:47.587Z",
+      "reviewedAt": "2026-10-23T08:03:16.541Z",
       "retrySearches": [
         "Find independent reporting on: Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comment"
       ],
-      "lastReviewedDay": "2026-10-22",
+      "lastReviewedDay": "2026-10-23",
       "duplicateOf": "regcrypto"
     },
     "49fa496cf674e67db3e3": {
@@ -72863,22 +72863,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "b8c0039794f871c2439a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-24T23:22:54.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
       "reason": "duplicate",
-      "note": "Read the candidate Crypto Briefing piece (Oct. 21, 23:22 UTC, Estefano Gomez): it describes a final rule implementing the GENIUS Act with reserve requirements and issuance parameters taking effect in January 2027, announced on social media. That is the same Oct. 21 OCC final rule (News Release 2026-92, effective Jan. 18, 2027) already covered by the ready occgenius article, published under a 'US Treasury' headline two minutes after Crypto Briefing's own OCC item. OCC is the Treasury bureau issuing the rule; no separate Treasury final rule exists for this event (BSA/AML/OFAC remain a future joint rulemaking, which occgenius states).",
+      "note": "Re-read the candidate Crypto Briefing piece (Oct. 21, Estefano Gomez): it describes a final rule implementing the GENIUS Act with reserve requirements and issuance parameters taking effect in January 2027, announced on social media. That is the same Oct. 21 OCC final rule (News Release 2026-92, effective Jan. 18, 2027) already covered by the ready occgenius article. OCC is the Treasury bureau issuing the rule; no separate Treasury final rule exists for this event, and the piece is Crypto Briefing's prediction-market-framed take on the same OCC item.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T12:52:38.584Z",
+      "reviewedAt": "2026-10-23T08:03:16.541Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-23"
     },
     "877c888579d259ba11cc": {
       "source": "Crypto Briefing",
@@ -80544,11 +80544,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "a579917b8d8bf6084021",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T12:46:28.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 22 DFSA authorization, DIFC regional headquarters and 2027 launch announcement as the ready robinhooddubai article. The candidate URL names the identical event (Robinhood 2027 UAE launch with Dubai retail license). The Defiant returns HTTP 403, so no unique facts from it were available; Bitcoin Magazine, The National and Finance Magnates covered the same company statement.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:07:41.227Z",
+      "duplicateOf": "robinhooddubai",
+      "mergedInto": "fa90fe1d70919fac9347",
+      "lastReviewedDay": "2026-10-23"
     },
     "b817a4fcc69a60a67efe": {
       "source": "Cointelegraph",
@@ -80601,7 +80617,27 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T22:43:36.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "tetherhines",
+      "draftProgress": {
+        "id": "a3179b78ecae5bf15f09",
+        "day": "2026-10-23",
+        "articleSlug": "tetherhines",
+        "note": "Read CoinDesk and the Blumenthal press release with the full Tether letter text; draft, hero image and front matter still need to be written and verified.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-investigates-tethers-multimillion-dollar-payment-to-consulting-firm-owned-by-white-house-official-who-previously-led-crypto-policy",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:03:40.377Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "7342d91cb2b814cc4bd5": {
       "source": "The Defiant",
@@ -80680,11 +80716,57 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa90fe1d70919fac9347",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T15:35:01.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "robinhooddubai",
+      "draftProgress": {
+        "id": "fa90fe1d70919fac9347",
+        "day": "2026-10-23",
+        "articleSlug": "robinhooddubai",
+        "note": "Read Bitcoin Magazine and The National on the DFSA authorization; draft, hero image and front matter still need to be written and verified.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:03:36.504Z",
+        "approved": false,
+        "mustReview": true
+      },
+      "reason": "verified-event",
+      "note": "Verified the DFSA authorization, the 10 asset classes, the DIFC headquarters and the 2027 launch timing across Bitcoin Magazine, The National and Finance Magnates, all read in full on Oct. 23; drafted content/articles/robinhooddubai.md with a self-hosted Wikimedia hero.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.financemagnates.com/fintech/robinhood-gets-dubai-license-plans-2027-middle-east-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:07:41.227Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "3cbfe8de3e89ec468f2d": {
       "source": "Cointelegraph",
@@ -80701,11 +80783,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3cbfe8de3e89ec468f2d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T13:00:00.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full Cointelegraph piece (Oct. 22, Ezra Reguerra): it summarizes a DWF Labs research report on how spot bitcoin ETF flows correlate with past BTC price moves over 694 trading days since January 2024. It is research analysis of flow and price behavior with no launch, vote, ruling, filing, hack, raise or upgrade to report.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:03:16.541Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "f7f684b653f7395766cc": {
       "source": "CoinDesk",
@@ -80722,11 +80814,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7f684b653f7395766cc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T11:20:04.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "price-chatter",
+      "note": "Read the CoinDesk Daybook Americas newsletter excerpt (Oct. 22, Omkar Godbole): bitcoin dominance at 60 percent, BTC near $82,000, index moves and strategist quotes on waiting for a catalyst. Price and flow commentary only, with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:03:16.541Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "6ac6ca080444f44ac2bf": {
       "source": "Crypto Briefing",
@@ -83763,7 +83865,31 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T13:27:54.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "fireblocksvisa",
+      "draftProgress": {
+        "id": "9e1dbf0789554df3531e",
+        "day": "2026-10-23",
+        "articleSlug": "fireblocksvisa",
+        "note": "Read Bitcoin Magazine and CoinDesk on the denial of the reported Visa talks; The Block is 403. Draft, hero image and front matter still need writing.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:03:51.052Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8211ae9113814c2d6686": {
       "source": "Cointelegraph",
@@ -143211,6 +143337,99 @@
           ],
           "reviewedAt": "2026-10-23T03:55:17.025Z",
           "duplicateOf": "stakingrecord"
+        },
+        "3cbfe8de3e89ec468f2d": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full Cointelegraph piece (Oct. 22, Ezra Reguerra): it summarizes a DWF Labs research report on how spot bitcoin ETF flows correlate with past BTC price moves over 694 trading days since January 2024. It is research analysis of flow and price behavior with no launch, vote, ruling, filing, hack, raise or upgrade to report.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:03:16.541Z"
+        },
+        "f7f684b653f7395766cc": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the CoinDesk Daybook Americas newsletter excerpt (Oct. 22, Omkar Godbole): bitcoin dominance at 60 percent, BTC near $82,000, index moves and strategist quotes on waiting for a catalyst. Price and flow commentary only, with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:03:16.541Z"
+        },
+        "b7168518ec513546cf43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 20 comment-close event on the SEC's Regulation Crypto Assets proposal, and the same commenter pressure, already covered by the ready regcrypto article: its body reports the Hyperliquid Policy Center and SIFMA pushes on airdrops and safe-harbor scope, the AIMA letter, and the stream of Oct. 20-21 filings on File No. S7-2026-27. The candidate URL slug (2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima) names that identical set. The Block returned HTTP 403 again on today's GET, so no new facts from it were incorporated.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:03:16.541Z",
+          "duplicateOf": "regcrypto"
+        },
+        "b8c0039794f871c2439a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Re-read the candidate Crypto Briefing piece (Oct. 21, Estefano Gomez): it describes a final rule implementing the GENIUS Act with reserve requirements and issuance parameters taking effect in January 2027, announced on social media. That is the same Oct. 21 OCC final rule (News Release 2026-92, effective Jan. 18, 2027) already covered by the ready occgenius article. OCC is the Treasury bureau issuing the rule; no separate Treasury final rule exists for this event, and the piece is Crypto Briefing's prediction-market-framed take on the same OCC item.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:03:16.541Z",
+          "duplicateOf": "occgenius"
+        },
+        "fa90fe1d70919fac9347": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the DFSA authorization, the 10 asset classes, the DIFC headquarters and the 2027 launch timing across Bitcoin Magazine, The National and Finance Magnates, all read in full on Oct. 23; drafted content/articles/robinhooddubai.md with a self-hosted Wikimedia hero.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/robinhood-gets-dubai-license-plans-2027-middle-east-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:07:41.227Z",
+          "articleSlug": "robinhooddubai"
+        },
+        "a579917b8d8bf6084021": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 22 DFSA authorization, DIFC regional headquarters and 2027 launch announcement as the ready robinhooddubai article. The candidate URL names the identical event (Robinhood 2027 UAE launch with Dubai retail license). The Defiant returns HTTP 403, so no unique facts from it were available; Bitcoin Magazine, The National and Finance Magnates covered the same company statement.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:07:41.227Z",
+          "duplicateOf": "robinhooddubai",
+          "mergedInto": "fa90fe1d70919fac9347"
         }
       },
       "baselineSlugs": [
