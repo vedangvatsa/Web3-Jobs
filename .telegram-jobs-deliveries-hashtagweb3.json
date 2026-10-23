@@ -3861,5 +3861,122 @@
     "slotKey": "2026-10-23:morning",
     "messageId": 155896,
     "sentAt": "2026-10-23T03:43:51.229Z"
+  },
+  "ed6acff9-46c3-4ce5-b93f-fc0499e2f355": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:32:06.558Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
+          "title": "GTM Partnerships Lead",
+          "company": "Notabene",
+          "link": "https://jobs.ashbyhq.com/Notabene/a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
+          "date": "2026-10-22T11:02:03.509+00:00",
+          "source": "Ashby: Notabene [Notabene]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "slug": "gp2",
+          "dateVerified": true
+        },
+        "key": "a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
+        "slug": "gp2",
+        "url": "https://hashtagweb3.com/gp2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Notabene",
+        "title": "GTM Partnerships Lead"
+      },
+      {
+        "snapshot": {
+          "id": "5000446101",
+          "title": "Senior Paid Media Channel Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5000446101",
+          "date": "2026-10-08T05:16:39-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+          "department": "Marketing Ops",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr75"
+        },
+        "key": "5000446101",
+        "slug": "mgr75",
+        "url": "https://hashtagweb3.com/mgr75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Paid Media Channel Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8292214",
+          "title": "Experiential Marketing Manager",
+          "company": "Consensys",
+          "link": "https://job-boards.greenhouse.io/consensys/jobs/8292214",
+          "date": "2026-10-21T09:15:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Consensys [consensys]",
+          "location": "EMEA - Remote, United States - Remote",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$101k – $141k/yr",
+          "dateVerified": true,
+          "slug": "mkt47"
+        },
+        "key": "8292214",
+        "slug": "mkt47",
+        "url": "https://hashtagweb3.com/mkt47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Consensys",
+        "title": "Experiential Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cbaa59ec-c133-400a-a0ae-ae95857f0690",
+          "title": "Applied Research - Agentic RL",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/primeintellect/cbaa59ec-c133-400a-a0ae-ae95857f0690",
+          "date": "2026-10-19T15:27:07.022+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Applied Research",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arar"
+        },
+        "key": "cbaa59ec-c133-400a-a0ae-ae95857f0690",
+        "slug": "arar",
+        "url": "https://hashtagweb3.com/arar?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Applied Research"
+      },
+      {
+        "snapshot": {
+          "id": "99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+          "title": "IT Security & Systems Compliance Specialist",
+          "company": "Coins.ph",
+          "link": "https://jobs.lever.co/coins/99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+          "date": "2026-09-25T01:09:08.720Z",
+          "source": "Lever: Coins.ph [coins]",
+          "location": "Hybrid (Taguig City, Metro Manila, Philippines)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec59"
+        },
+        "key": "99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+        "slug": "sec59",
+        "url": "https://hashtagweb3.com/sec59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "IT Security & Systems Compliance Specialist"
+      }
+    ],
+    "message": "- Notabene is hiring <a href=\"https://hashtagweb3.com/gp2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">GTM Partnerships Lead</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Paid Media Channel Manager</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/mkt47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Experiential Marketing Manager</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/arar?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applied Research - Agentic RL</a>\n- Coins.ph is hiring <a href=\"https://hashtagweb3.com/sec59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security &amp; Systems Compliance Specialist</a>",
+    "slotKey": "2026-10-23:evening"
   }
 }
