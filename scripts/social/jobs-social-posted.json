@@ -46967,6 +46967,35 @@
       "attemptId": "af27d265-e808-4125-9c46-dcd96636c131",
       "verification": "verified",
       "postId": "urn:li:share:7519361113734557697"
+    },
+    {
+      "slug": "eng605",
+      "company": "Mesh",
+      "title": "Senior Data Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-23T11:32:28.447Z",
+      "expectedText": "Mesh is hiring Senior Data Engineer: https://hashtagweb3.com/eng605/fb?og=7",
+      "snapshot": {
+        "id": "5453260008",
+        "title": "Senior Data Engineer",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5453260008",
+        "date": "2026-10-14T17:18:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "San Francisco, CA, New York, NY",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$180k – $200k/yr",
+        "dateVerified": true,
+        "slug": "eng605"
+      },
+      "payload": {
+        "message": "Mesh is hiring Senior Data Engineer: https://hashtagweb3.com/eng605/fb?og=7",
+        "link": "https://hashtagweb3.com/eng605/fb?og=7"
+      },
+      "attemptId": "b6c4ff26-9e0f-4a03-bca4-db672e9668c6",
+      "verification": "creating"
     }
   ]
 }
