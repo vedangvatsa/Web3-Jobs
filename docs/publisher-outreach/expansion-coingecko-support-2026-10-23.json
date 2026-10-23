@@ -18,5 +18,7 @@
   },
   "payloadSha256": "d1a8f085560d1f532e16212691e5365e399d00ddc3d1116e4fceec7a8f5ef128",
   "providerId": "01a16964-6f04-792e-a3fc-002c11b971ac",
-  "acceptedAt": "2026-10-23T15:32:32.241Z"
+  "acceptedAt": "2026-10-23T15:32:32.241Z",
+  "providerEvent": "delivered",
+  "checkedAt": "2026-10-23T15:36:21.722Z"
 }
