@@ -1,0 +1,20 @@
+{
+  "platform": "newsbreak",
+  "message": "community-profile",
+  "followsUpProviderId": "01a16761-4940-794b-ab5e-0fafb341d641",
+  "status": "claimed",
+  "claimedAt": "2026-10-23T10:46:55.404Z",
+  "recipient": "publishers@newsbreak.com",
+  "recipientSource": "https://publishers.newsbreak.com/",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "publishers@newsbreak.com"
+    ],
+    "subject": "Hashtag Web3 publisher inquiry: community profile and live news feed",
+    "text": "Hello NewsBreak team,\n\nFollowing our publisher-onboarding inquiry, we would like to share a fuller introduction to Hashtag Web3 and confirm that our news feed is now live.\n\nHashtag Web3 is a global Web3 community of over 100,000 professionals and a knowledge and original news publisher. Our audience includes developers, founders, investors, operators, marketers and product teams working across blockchain and crypto.\n\nOur community profile is the best introduction to our reach, channels and work:\nhttps://hashtagweb3.com/community\n\nAlongside original crypto and Web3 news, we publish blockchain and career guides, interview preparation, salary resources and practical tools. Our community activities include founder interviews, demo days and industry-event collaborations, with examples involving Onepiece Labs and Sei, Obortech, and AltLayer documented on the community page. Members connect through Telegram, LinkedIn, regional WhatsApp groups, X Spaces and podcasts.\n\nNews: https://hashtagweb3.com/news\nKnowledge and career resources: https://hashtagweb3.com/resources\nLive RSS feed: https://hashtagweb3.com/news/feed.xml\n\nRecent native article samples:\nhttps://hashtagweb3.com/secstocks\nhttps://hashtagweb3.com/fcadefi\nhttps://hashtagweb3.com/fireblocksvisa\n\nThe RSS feed contains our native articles' headlines, summaries, original dates and canonical links. We can prepare your required full-content format during onboarding. Our workflow uses AI-assisted research and drafting with source and publication checks; we will follow your platform's disclosure requirements.\n\nPublisher organization: Hashtag Web3\nCountry: United States\nContact: hi@hashtagweb3.com\n\nPlease consider Hashtag Web3 for publisher onboarding and let us know the application or invitation steps for ongoing news-feed distribution.\n\nThank you,\nHashtag Web3\nhi@hashtagweb3.com"
+  },
+  "payloadSha256": "d9768130d43acb7d3d5f9e3ad394901879f15f9fa265699ab23d0b3a23ab8174",
+  "providerId": null
+}
