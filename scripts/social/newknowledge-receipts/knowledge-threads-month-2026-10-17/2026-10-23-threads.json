@@ -160,9 +160,10 @@
     "4": {
       "createClaim": "4f6b80df-42af-4c41-900a-519a9fb1134d",
       "startedAt": "2026-10-23T11:33:32.446Z",
-      "status": "container-created",
+      "status": "publishing",
       "replyTo": "18132737761685710",
-      "containerId": "18098178995199925"
+      "containerId": "18098178995199925",
+      "publishClaim": "6e7dfc04-80d1-45da-9822-95da17926700"
     }
   }
 }
