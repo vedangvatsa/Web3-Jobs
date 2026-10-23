@@ -49427,6 +49427,47 @@
       "attemptId": "3e57a565-5a18-42d3-9f83-5843c4d8ec3b",
       "verification": "verified",
       "postId": "0x48ebd90abf6706562ee6e70cbe83350dc18e2769"
+    },
+    {
+      "slug": "aso59",
+      "company": "Figure",
+      "title": "Channel Account Executive",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T19:35:35.827Z",
+      "expectedText": "Figure is hiring Channel Account Executive: https://hashtagweb3.com/aso59/li?og=7",
+      "snapshot": {
+        "id": "8872914002",
+        "title": "Channel Account Executive",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8872914002",
+        "date": "2026-10-13T16:57:31-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "New York, NY",
+        "department": "Partnerships",
+        "active": true,
+        "salary": "$68k – $95k/yr",
+        "dateVerified": true,
+        "slug": "aso59"
+      },
+      "payload": {
+        "text": "Figure is hiring Channel Account Executive: https://hashtagweb3.com/aso59/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso59/li?og=7",
+          "title": "Channel Account Executive at Figure",
+          "description": "Join Figure as Channel Account Executive. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso59.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "0eef265b-8143-4986-a4fb-2b2665ed776a",
+      "verification": "creating"
     }
   ]
 }
