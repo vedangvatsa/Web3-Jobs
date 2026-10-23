@@ -1,0 +1,19 @@
+{
+  "platform": "expansion-form",
+  "target": "OnTopList",
+  "route": "website-form",
+  "url": "https://www.ontoplist.com/",
+  "status": "submitted",
+  "submittedAt": "2026-10-23T14:05:00.000Z",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/ontoplist-submit.png",
+  "confirmation": "Landed on https://www.ontoplist.com/request-review/6adb6659ba079/",
+  "fields": [
+    "email=hi@hashtagweb3.com",
+    "url=https://hashtagweb3.com",
+    "sitename=Hashtag Web3",
+    "feedurl=https://hashtagweb3.com/news/feed.xml"
+  ],
+  "note": "Blog directory listing with RSS feed URL",
+  "payloadSha256": "0cffdf5464175833155febdf34199e040766aaf5e8d9e2dd092fac32433cebe1",
+  "recordedAt": "2026-10-23T13:55:18.598Z"
+}

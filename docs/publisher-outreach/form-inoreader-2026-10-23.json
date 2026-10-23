@@ -1,0 +1,15 @@
+{
+  "platform": "expansion-form",
+  "target": "Inoreader",
+  "route": "website-form",
+  "url": "https://www.inoreader.com/contact",
+  "status": "submitted-unconfirmed",
+  "submittedAt": "2026-10-23T14:05:00.000Z",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/inoreader-submit.png",
+  "fields": [
+    "email=hi@hashtagweb3.com"
+  ],
+  "note": "Contact submit clicked; success language not clearly captured.",
+  "payloadSha256": "7085a1667780933d2a3fbb825c11d488809fd6c16e888bbd0c97d3da20fc77e0",
+  "recordedAt": "2026-10-23T13:55:18.598Z"
+}

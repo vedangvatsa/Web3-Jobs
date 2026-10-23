@@ -1,0 +1,13 @@
+{
+  "platform": "expansion-form",
+  "target": "SyndiGate",
+  "route": "website-form",
+  "url": "https://www.syndigate.info/contact-us/",
+  "status": "failed",
+  "error": "WordPress CF7 server error: There was an error trying to send your message.",
+  "note": "Retry with visible submit selector",
+  "payloadSha256": "6f80fb76a3b53c4dd47f1c1a11e364d628b12f9f394f1b1ac03ea0fd30290140",
+  "recordedAt": "2026-10-23T13:55:18.599Z",
+  "attemptedOption": "I would like to distribute my content via SyndiGate",
+  "updatedAt": "2026-10-23T14:20:00.000Z"
+}

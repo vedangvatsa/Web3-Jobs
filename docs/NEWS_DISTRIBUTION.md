@@ -55,6 +55,36 @@ Before any send, the script saves a durable GitHub receipt claim. A claimed requ
 
 Keep credentials out of source. Account sign-ins, verification challenges, publisher agreements and any tax/payment details must be completed using the owner's authorized accounts. Do not invent audience figures, staff bylines, addresses, or existing partner status.
 
+## Expansion enrollment (October 23, 2026)
+
+Target registry: `docs/publisher-expansion-targets.json` — platforms that **onboard external publishers or syndicate third-party feeds** (aggregators, syndication networks, feed directories, discovery apps). Peer news publishers are out of scope. Microsoft/MSN and NewsBreak are excluded because initial and community-profile inquiries were already delivered.
+
+Outreach template (both `scripts/publisher-outreach.mjs` and `scripts/publisher-expansion.mjs`) now includes:
+
+- Clickable HTML anchors for every website URL plus a plain-text alternative.
+- Owner-provided reach figures: 55M job-post views last year, 26M LinkedIn views last month, 150k newsletter subscribers, 60k Telegram subscribers, weekly X Spaces with 20–40k live listeners (guests include a Pink Floyd band member, EY partners, the Father of Digital Twin, and a former Microsoft CSO), and event partnerships (Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex, ETH Brussels).
+
+Email route: `scripts/publisher-expansion.mjs` + `.github/workflows/publisher-expansion.yml` (`list` / `preview` / `send` / `readback`, optional target slug and limit, optional dry-run claim). Same immutable per-target CAS receipts under `docs/publisher-outreach/expansion-*.json`.
+
+Form route: `scripts/publisher-forms-probe.mjs`, `scripts/publisher-forms-submit.mjs`, evidence under `.cache/publisher-expansion-2026-10-23/forms/`, receipts under `docs/publisher-outreach/form-*.json`.
+
+Form outcomes on October 23 (submission is not approval or ingestion):
+
+| Platform | Route | Status |
+| --- | --- | --- |
+| MediaFeed | `mediafeed.us/contact` | Submitted; CF7 confirmation "Thank you! Your submission has been received!" |
+| OnTopList | blog directory join form | Submitted; landed on request-review URL with RSS feed field |
+| PressReader | business contact form | Submit clicked; unconfirmed (embed form may still show) |
+| Inoreader | contact form | Submit clicked; unconfirmed |
+| AllTop | contact form | Site policy: "We do not add new sources" — rejected by policy; email target removed |
+| SyndiGate | CF7 contact form | Failed (server-side "error trying to send your message") |
+| CoinPaprika | contact form | Incomplete (review step did not expose final send in automation) |
+| Ground News | contact-us | No standard publisher form (dropdown for other request types) |
+| Way2News | contact page | No web form; lists `reach@way2news.com` |
+| Newstex | site inspection | Email `support@newstex.com` remains the syndication network contact |
+
+Delivery of an inquiry email or a form POST does not mean a publisher account was approved, a feed was validated, or ingestion started.
+
 ## Technical reference
 
 - [Google News sitemap requirements](https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap): last two days, original publication date, at most 1,000 news entries per file.

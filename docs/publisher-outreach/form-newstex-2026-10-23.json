@@ -1,0 +1,10 @@
+{
+  "platform": "expansion-form",
+  "target": "Newstex",
+  "route": "website-form",
+  "url": "https://www.newstex.com/",
+  "status": "inspected-only",
+  "note": "Email support@newstex.com is the syndication network contact; apply path still open",
+  "payloadSha256": "3f149df079af288c991cac3e2e053ed45a29b971c083c7d1f2d4f7e90f1ddd66",
+  "recordedAt": "2026-10-23T13:55:18.601Z"
+}

@@ -1,0 +1,20 @@
+{
+  "platform": "expansion-form",
+  "target": "PressReader",
+  "route": "website-form",
+  "url": "https://about.pressreader.com/business-contact-form/",
+  "status": "submitted-unconfirmed",
+  "submittedAt": "2026-10-23T14:05:00.000Z",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/pressreader-submit.png",
+  "fields": [
+    "firstname=Alex",
+    "lastname=",
+    "emailaddress1=hi@hashtagweb3.com",
+    "companyname=Hashtag Web3",
+    "jobtitle=Publisher",
+    "pr_country=United States"
+  ],
+  "note": "Business contact form clicked; page still showed form (may be marketing embed). Needs manual confirmation.",
+  "payloadSha256": "0697582b6f08a2adac4749ef9d1963a87b75042735e034f789fd8f6b9dfc5401",
+  "recordedAt": "2026-10-23T13:55:18.598Z"
+}

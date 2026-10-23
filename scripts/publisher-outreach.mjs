@@ -9,23 +9,68 @@ const target = targets[process.env.PUBLISHER_TARGET];
 if (!target) throw new Error('Choose msn or newsbreak.');
 const message = process.env.PUBLISHER_MESSAGE || 'initial';
 if (!['initial', 'community-profile'].includes(message)) throw new Error('Choose an approved publisher message.');
+const reachBulletsText = `- 55 million job-post views in the last year
+- Weekly X (Twitter) Spaces with guests including a Pink Floyd band member, EY partners, the "Father of Digital Twin," and a former Microsoft CSO, drawing 20,000–40,000 live listeners
+- 26 million LinkedIn views last month
+- 150,000 newsletter subscribers
+- 60,000 Telegram channel subscribers
+- Event partnerships including Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex and ETH Brussels`;
+const reachBulletsHtml = `<ul>
+<li><strong>55 million job-post views</strong> in the last year</li>
+<li>Weekly X (Twitter) Spaces with guests including a Pink Floyd band member, EY partners, the &ldquo;Father of Digital Twin,&rdquo; and a former Microsoft CSO, drawing <strong>20,000&ndash;40,000 live listeners</strong></li>
+<li><strong>26 million LinkedIn views</strong> last month</li>
+<li><strong>150,000 newsletter subscribers</strong></li>
+<li><strong>60,000 Telegram channel subscribers</strong></li>
+<li>Event partnerships including Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex and ETH Brussels</li>
+</ul>`;
+const anchors = {
+  news: { label: 'https://hashtagweb3.com/news', url: 'https://hashtagweb3.com/news' },
+  about: { label: 'https://hashtagweb3.com/about', url: 'https://hashtagweb3.com/about' },
+  community: { label: 'https://hashtagweb3.com/community', url: 'https://hashtagweb3.com/community' },
+  resources: { label: 'https://hashtagweb3.com/resources', url: 'https://hashtagweb3.com/resources' },
+  rss: { label: 'https://hashtagweb3.com/news/feed.xml', url: 'https://hashtagweb3.com/news/feed.xml' },
+  sampleBitget: { label: 'https://hashtagweb3.com/bitgetthai', url: 'https://hashtagweb3.com/bitgetthai' },
+  sampleSecstocks: { label: 'https://hashtagweb3.com/secstocks', url: 'https://hashtagweb3.com/secstocks' },
+  sampleFcadefi: { label: 'https://hashtagweb3.com/fcadefi', url: 'https://hashtagweb3.com/fcadefi' },
+  sampleFireblocks: { label: 'https://hashtagweb3.com/fireblocksvisa', url: 'https://hashtagweb3.com/fireblocksvisa' },
+};
+const a = (key) => `<a href="${anchors[key].url}">${anchors[key].label}</a>`;
 const initialPayload = {
   from: 'Hashtag Web3 <hi@hashtagweb3.com>',
   reply_to: 'hi@hashtagweb3.com',
   to: [target.to],
   subject: `Hashtag Web3: publisher onboarding and automatic news-feed distribution`,
+  html: `<p>Hello ${target.name} team,</p>
+<p>We would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.</p>
+<p>
+Publication: ${a('news')}<br>
+About: ${a('about')}<br>
+Community: ${a('community')}<br>
+Contact: hi@hashtagweb3.com<br>
+Example native article: ${a('sampleBitget')}
+</p>
+<p>A few figures that describe our reach:</p>
+${reachBulletsHtml}
+<p>We want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.</p>
+<p>RSS: ${a('rss')} (headlines, summaries, original dates and canonical links). We can provide and validate the required full-content feed and image rights information during onboarding.</p>
+<p>Could you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?</p>
+<p>Thank you,<br>Hashtag Web3<br><a href="mailto:hi@hashtagweb3.com">hi@hashtagweb3.com</a></p>`,
   text: `Hello ${target.name} team,
 
 We would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.
 
 Publication: https://hashtagweb3.com/news
 About: https://hashtagweb3.com/about
+Community: https://hashtagweb3.com/community
 Contact: hi@hashtagweb3.com
 Example native article: https://hashtagweb3.com/bitgetthai
 
+A few figures that describe our reach:
+${reachBulletsText}
+
 We want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.
 
-An RSS endpoint at https://hashtagweb3.com/news/feed.xml is prepared for our next website release; it is not yet available on the live site. We can provide and validate the required full-content feed and image rights information during onboarding.
+RSS: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original dates and canonical links). We can provide and validate the required full-content feed and image rights information during onboarding.
 
 Could you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?
 
@@ -35,15 +80,41 @@ hi@hashtagweb3.com`,
 };
 const payload = message === 'initial' ? initialPayload : {
   from: initialPayload.from, reply_to: initialPayload.reply_to, to: initialPayload.to,
-  subject: 'Hashtag Web3 publisher inquiry: community profile and live news feed',
+  subject: 'Hashtag Web3 publisher inquiry: community profile, reach and live news feed',
+  html: `<p>Hello ${target.name} team,</p>
+<p>Following our publisher-onboarding inquiry, we would like to share a fuller introduction to Hashtag Web3 and confirm that our news feed is live.</p>
+<p>Hashtag Web3 is a global Web3 community of over 100,000 professionals and a knowledge and original news publisher. Our audience includes developers, founders, investors, operators, marketers and product teams working across blockchain and crypto.</p>
+<p>Our community profile is the best introduction to our reach, channels and work: ${a('community')}</p>
+<p>A few figures that describe our reach:</p>
+${reachBulletsHtml}
+<p>Alongside original crypto and Web3 news, we publish blockchain and career guides, interview preparation, salary resources and practical tools. Our community activities include founder interviews, demo days and industry-event collaborations, with examples involving Onepiece Labs and Sei, Obortech, and AltLayer documented on the community page. Members connect through Telegram, LinkedIn, regional WhatsApp groups, X Spaces and podcasts.</p>
+<p>
+News: ${a('news')}<br>
+Knowledge and career resources: ${a('resources')}<br>
+Live RSS feed: ${a('rss')}
+</p>
+<p>Recent native article samples:<br>
+${a('sampleSecstocks')}<br>
+${a('sampleFcadefi')}<br>
+${a('sampleFireblocks')}
+</p>
+<p>The RSS feed contains our native articles' headlines, summaries, original dates and canonical links. We can prepare your required full-content format during onboarding. Our workflow uses AI-assisted research and drafting with source and publication checks; we will follow your platform's disclosure requirements.</p>
+<p>Publisher organization: Hashtag Web3<br>
+Country: United States<br>
+Contact: <a href="mailto:hi@hashtagweb3.com">hi@hashtagweb3.com</a></p>
+<p>Please consider Hashtag Web3 for publisher onboarding and let us know the application or invitation steps for ongoing news-feed distribution.</p>
+<p>Thank you,<br>Hashtag Web3<br><a href="mailto:hi@hashtagweb3.com">hi@hashtagweb3.com</a></p>`,
   text: `Hello ${target.name} team,
 
-Following our publisher-onboarding inquiry, we would like to share a fuller introduction to Hashtag Web3 and confirm that our news feed is now live.
+Following our publisher-onboarding inquiry, we would like to share a fuller introduction to Hashtag Web3 and confirm that our news feed is live.
 
 Hashtag Web3 is a global Web3 community of over 100,000 professionals and a knowledge and original news publisher. Our audience includes developers, founders, investors, operators, marketers and product teams working across blockchain and crypto.
 
 Our community profile is the best introduction to our reach, channels and work:
 https://hashtagweb3.com/community
+
+A few figures that describe our reach:
+${reachBulletsText}
 
 Alongside original crypto and Web3 news, we publish blockchain and career guides, interview preparation, salary resources and practical tools. Our community activities include founder interviews, demo days and industry-event collaborations, with examples involving Onepiece Labs and Sei, Obortech, and AltLayer documented on the community page. Members connect through Telegram, LinkedIn, regional WhatsApp groups, X Spaces and podcasts.
 

@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "target": "CoinPaprika",
+  "route": "website-form",
+  "url": "https://coinpaprika.com/contact",
+  "status": "incomplete",
+  "error": "Topic radio not clickable via check(); label Ads, Articles & Partnership selected but Review message did not expose final send control in headless run.",
+  "note": "Retry with label click",
+  "payloadSha256": "a8d2b8b612d06172fbb698f5ac6815b59f2cd27709185466d90262436d424ac6",
+  "recordedAt": "2026-10-23T13:55:18.599Z",
+  "updatedAt": "2026-10-23T14:20:00.000Z"
+}

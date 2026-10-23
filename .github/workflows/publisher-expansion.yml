@@ -1,0 +1,60 @@
+name: Publisher expansion outreach
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [list, preview, send, readback]
+        default: preview
+        required: true
+      target:
+        description: Optional slug or exact name (empty = all email targets)
+        required: false
+        default: ''
+      limit:
+        description: Max targets for this run (0 = all)
+        required: false
+        default: '10'
+      dry_run:
+        description: Claim receipts only, skip Resend (true/false)
+        type: choice
+        options: ['false', 'true']
+        default: 'false'
+        required: true
+
+concurrency:
+  group: publisher-expansion-outreach
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  outreach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Run expansion outreach
+        env:
+          EXPANSION_MODE: ${{ inputs.mode }}
+          EXPANSION_TARGET: ${{ inputs.target }}
+          EXPANSION_LIMIT: ${{ inputs.limit }}
+          EXPANSION_DRY_RUN: ${{ inputs.dry_run }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/publisher-expansion.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: publisher-expansion-${{ github.run_id }}
+          path: |
+            publisher-expansion-result.json
+            outbox/
+          if-no-files-found: ignore

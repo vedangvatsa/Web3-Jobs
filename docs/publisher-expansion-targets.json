@@ -1,0 +1,911 @@
+{
+  "generatedAt": "2026-10-23T13:40:00Z",
+  "policy": "Platforms that onboard external publishers/feeds. Excludes peer news publishers and already-contacted msn/newsbreak.",
+  "excludedAlreadyContacted": [
+    "msn",
+    "newsbreak",
+    "microsoft"
+  ],
+  "targets": [
+    {
+      "name": "AllSides",
+      "url": "https://www.allsides.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "AllTop",
+      "url": "https://alltop.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": "https://www.alltop.com/contact",
+      "emailNote": "Site states they do not add new sources; form filled but rejected-by-policy. Do not email.",
+      "formUrls": [
+        "https://www.alltop.com/contact"
+      ],
+      "route": "closed-policy",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://www.ap.org/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.ap.org/content/partners-and-contributors/",
+        "https://www.ap.org/contact-us/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Blockchair",
+      "url": "https://blockchair.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Blogarama",
+      "url": "https://www.blogarama.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.blogarama.com/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Bloglovin",
+      "url": "https://www.bloglovin.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Bundle",
+      "url": "https://www.bundle.app/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "ChainFeeds",
+      "url": "https://www.chainfeeds.xyz/",
+      "kind": "crypto-aggregator",
+      "email": "contact@chainfeeds.xyz",
+      "emailSource": "https://www.chainfeeds.xyz/",
+      "emailNote": null,
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinCarp",
+      "url": "https://www.coincarp.com/",
+      "kind": "crypto-aggregator",
+      "email": "hello@coincarp.com",
+      "emailSource": "https://www.coincarp.com/",
+      "emailNote": null,
+      "formUrls": [
+        "https://www.coincarp.com/contact.html",
+        "https://www.coincarp.com/submit/"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinCheckup",
+      "url": "https://coincheckup.com/",
+      "kind": "crypto-aggregator",
+      "email": "info@coincheckup.com",
+      "emailSource": "https://coincheckup.com/",
+      "emailNote": null,
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinCodex",
+      "url": "https://coincodex.com/",
+      "kind": "crypto-aggregator",
+      "email": "info@coincodex.com",
+      "emailSource": "https://coincodex.com/",
+      "emailNote": null,
+      "formUrls": [
+        "https://coincodex.com/page/contact-us/",
+        "https://coincodex.com/page/partners/"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.coingecko.com/en/candy/partners-getting-started"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Coinlib",
+      "url": "https://coinlib.io/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinLore",
+      "url": "https://www.coinlore.com/",
+      "kind": "crypto-aggregator",
+      "email": "contact@coinlore.com",
+      "emailSource": "https://www.coinlore.com/",
+      "emailNote": null,
+      "formUrls": [
+        "https://www.coinlore.com/contact"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinPaprika",
+      "url": "https://coinpaprika.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://coinpaprika.com/contact",
+        "https://coinpaprika.com/partners"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinRank",
+      "url": "https://coinrank.com",
+      "kind": "platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "manual"
+    },
+    {
+      "name": "CoinSpectator",
+      "url": "https://coinspectator.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CoinStats",
+      "url": "https://coinstats.app/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Content Catalyst",
+      "url": "https://contentcatalyst.com/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://contentcatalyst.com/contact/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Crypto News",
+      "url": "https://cryptonews.net/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://cryptonews.net/contacts/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CryptoCompare",
+      "url": "https://www.cryptocompare.com/",
+      "kind": "crypto-aggregator",
+      "email": "info@cryptocompare.com",
+      "emailSource": "https://www.cryptocompare.com/",
+      "emailNote": "news feed + Google Drive submit",
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CryptoPanic",
+      "url": "https://cryptopanic.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://cryptopanic.com/submit-source/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "CryptoRank",
+      "url": "https://cryptorank.io/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Dailyhunt",
+      "url": "https://dailyhunt.in/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Dow Jones",
+      "url": "https://www.dowjones.com/",
+      "kind": "content-licensing",
+      "email": "dje-support@dowjones.com",
+      "emailSource": "https://www.dowjones.com/contact/",
+      "emailNote": "dje-support is generic support; enterprise licensing likely needs sales. Keep low priority.",
+      "formUrls": [
+        "https://www.dowjones.com/contact",
+        "https://www.dowjones.com/business-news/partnerships/",
+        "https://www.dowjones.com/contact/sales-inquiry/?product=Newswires"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "EBSCO",
+      "url": "https://www.ebsco.com/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://about.ebsco.com/contact"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Feeder",
+      "url": "https://feeder.co/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://feeder.co/contact"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Feedly",
+      "url": "https://feedly.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Feedspot",
+      "url": "https://www.feedspot.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.feedspot.com/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "FinancialContent",
+      "url": "https://www.financialcontent.com/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.financialcontent.com/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Flatplan",
+      "url": "https://www.flatplan.io/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Ground News",
+      "url": "https://ground.news/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://ground.news/contact-us"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "inkl",
+      "url": "https://www.inkl.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.inkl.com/contact",
+        "https://www.inkl.com/our-content-partners"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Inoreader",
+      "url": "https://www.inoreader.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.inoreader.com/contact"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Inshorts",
+      "url": "https://inshorts.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://inshorts.com/contact-us"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/",
+      "kind": "finance-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.investing.com/about-us/contact-us"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Issuu",
+      "url": "https://issuu.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://issuu.com/industry/publishers"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "JioNews",
+      "url": "https://jionews.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Joomag",
+      "url": "https://www.joomag.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "LexisNexis",
+      "url": "https://www.lexisnexis.com/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "LiveCoinWatch",
+      "url": "https://www.livecoinwatch.com/",
+      "kind": "crypto-aggregator",
+      "email": "contact@livecoinwatch.com",
+      "emailSource": "https://www.livecoinwatch.com/",
+      "emailNote": null,
+      "formUrls": [],
+      "route": "email",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Magzter",
+      "url": "https://www.magzter.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "MarketScreener",
+      "url": "https://www.marketscreener.com/",
+      "kind": "finance-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "MediaFeed",
+      "url": "https://www.mediafeed.us/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.mediafeed.us/contact",
+        "https://www.mediafeed.us/syndication-and-distribution"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "NewsBank",
+      "url": "https://www.newsbank.com/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.newsbank.com/publishers",
+        "https://www.newsbank.com/contacts-country"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "NewsBlur",
+      "url": "https://www.newsblur.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "NewsCred",
+      "url": "https://www.newscred.com/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.optimizely.com/partners",
+        "https://www.optimizely.com/contact"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Newser",
+      "url": "https://www.newser.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "NewsHub",
+      "url": "https://www.newshub.co.uk/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Newslookup",
+      "url": "https://www.newslookup.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "NewsNow",
+      "url": "https://www.newsnow.co.uk/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.newsnow.co.uk/contact/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Newstex",
+      "url": "https://www.newstex.com/",
+      "kind": "syndication",
+      "email": "support@newstex.com",
+      "emailSource": "https://www.newstex.com/content-syndication-services",
+      "emailNote": "content syndication network; apply form at /newstex-network",
+      "formUrls": [
+        "https://www.newstex.com/newstex-network",
+        "https://www.newstex.com/"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Newswav",
+      "url": "https://newswav.com/",
+      "kind": "news-aggregator",
+      "email": "partner@newswav.com",
+      "emailSource": "https://newswav.com/contact-us",
+      "emailNote": "explicit publisher collaboration email",
+      "formUrls": [
+        "https://newswav.com/contact-us",
+        "https://newswav.com/publisher/newswav-101",
+        "https://newswav.com/publisher/the-vibes-426"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "OnTopList",
+      "url": "https://www.ontoplist.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.ontoplist.com/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Opera News",
+      "url": "https://www.operanews.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Particle",
+      "url": "https://particle.news/",
+      "kind": "news-aggregator",
+      "email": "partners@particle.news",
+      "emailSource": "https://particle.news/partners",
+      "emailNote": "partner with us",
+      "formUrls": [
+        "https://particle.news/partners"
+      ],
+      "route": "email+form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "PressReader",
+      "url": "https://about.pressreader.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://about.pressreader.com/business-contact-form/",
+        "https://about.pressreader.com/solutions/publishers/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "ProQuest",
+      "url": "https://about.proquest.com/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://about.proquest.com/en/publishers/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Readly",
+      "url": "https://corporate.readly.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Reuters Connect",
+      "url": "https://www.reutersagency.com/",
+      "kind": "content-licensing",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://reutersagency.com/contact-us/",
+        "https://reutersagency.com/partners",
+        "https://reutersagency.com/who-we-serve/publishers/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Sharpe",
+      "url": "https://www.sharpe.ai/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "SimpleFeed",
+      "url": "https://www.simplefeed.com/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.simplefeed.com/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Squid",
+      "url": "https://squidapp.co/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.squidapp.co/for-publishers/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "SyndiGate",
+      "url": "https://www.syndigate.info/",
+      "kind": "syndication",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.syndigate.info/contact-us/",
+        "https://www.syndigate.info/syndication-and-licensing/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "The Crypto App",
+      "url": "https://thecryptoapp.com/",
+      "kind": "crypto-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "The Old Reader",
+      "url": "https://theoldreader.com/",
+      "kind": "feed-discovery",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "TipRanks",
+      "url": "https://www.tipranks.com/",
+      "kind": "finance-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/",
+      "kind": "finance-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.tradingview.com/partner-program/"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Upday",
+      "url": "https://www.upday.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://corporate.upday.com/publishers"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Way2News",
+      "url": "https://www.way2news.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://www.way2news.com/contact.html"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "WN",
+      "url": "https://wn.com/",
+      "kind": "news-aggregator",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [
+        "https://wn.com/contact"
+      ],
+      "route": "form",
+      "researchStatus": "unreviewed"
+    },
+    {
+      "name": "Zinio",
+      "url": "https://www.zinio.com/",
+      "kind": "publisher-platform",
+      "email": null,
+      "emailSource": null,
+      "emailNote": null,
+      "formUrls": [],
+      "route": "research",
+      "researchStatus": "unreviewed"
+    }
+  ]
+}

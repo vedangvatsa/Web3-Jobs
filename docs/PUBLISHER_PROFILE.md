@@ -20,6 +20,19 @@ Use **https://hashtagweb3.com/community** as the primary organizational introduc
 
 The public community page states the 100,000+ professional audience and describes Telegram, LinkedIn, regional WhatsApp, X Spaces and podcast activity. Its documented collaborations include a Onepiece Labs and Sei demo day, an Obortech founder interview, and AltLayer Rollup Day. Treat these as the publication's stated community figures and historical examples, not independently audited traffic, guaranteed distribution or evidence of an existing news-syndication agreement.
 
+## Stated reach (owner-provided)
+
+Include these owner-provided figures in publisher inquiries (state them as community/publisher-reported, not independently audited):
+
+- 55 million job-post views in the last year
+- Weekly X (Twitter) Spaces with guests including a Pink Floyd band member, EY partners, the "Father of Digital Twin," and a former Microsoft CSO, drawing 20,000–40,000 live listeners
+- 26 million LinkedIn views last month
+- 150,000 newsletter subscribers
+- 60,000 Telegram channel subscribers
+- Event partnerships including Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex and ETH Brussels
+
+Outreach emails must include both a plain-text body and an `html` body. Every website URL in the HTML body must be a clickable `<a href="...">` link (not bare text).
+
 ## Editorial scope
 
 Original crypto and Web3 news, blockchain knowledge, career guides, interview preparation, salary resources and practical tools. Native news is based on source research and publication validation; the workflow includes AI-assisted research and drafting. Required platform disclosures must remain accurate. External publisher headlines displayed in the news listing are not supplied as Hashtag Web3's own articles.
