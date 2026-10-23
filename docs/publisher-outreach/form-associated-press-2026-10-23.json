@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Associated Press",
+  "url": "https://www.ap.org/content/partners-and-contributors/",
+  "status": "submitted-unconfirmed",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/ap-partners.png",
+  "note": "Partner/contributor contact path; submit clicked but no explicit thank-you text captured.",
+  "payloadSha256": "98242b2c74766c3b40bff1bcb3ff0ecfc6e720e3bee94961977d2e680b1b674e",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "ProQuest",
+  "url": "https://about.proquest.com/en/publishers/",
+  "status": "no-web-form",
+  "mailTo": "PQ-RSC-PQ-ASP-Licensing@clarivate.com",
+  "note": "Publishers page has no onboarding form; licensing email found.",
+  "payloadSha256": "a4ab432ca4ebe2e9781823e36dd2719c57fa7330c245d0dc1c1bd662f862b07e",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

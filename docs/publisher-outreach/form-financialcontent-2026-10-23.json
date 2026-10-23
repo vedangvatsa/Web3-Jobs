@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "FinancialContent",
+  "url": "https://www.financialcontent.com/",
+  "status": "no-web-form-exposed",
+  "note": "Redirects to cloudquote.io contact; name-only fields in automation.",
+  "payloadSha256": "c66990b06fa1fea2f41d4d87751ebc1f5c97e46d5396ea882655a1504fc791b9",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

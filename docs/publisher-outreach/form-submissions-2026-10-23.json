@@ -15,10 +15,46 @@
       "url": "https://www.alltop.com/contact"
     },
     {
+      "file": "form-associated-press-2026-10-23.json",
+      "target": "Associated Press",
+      "status": "submitted-unconfirmed",
+      "url": "https://www.ap.org/content/partners-and-contributors/"
+    },
+    {
+      "file": "form-blogarama-2026-10-23.json",
+      "target": "Blogarama",
+      "status": "login-required",
+      "url": "https://www.blogarama.com/"
+    },
+    {
+      "file": "form-coincarp-2026-10-23.json",
+      "target": "CoinCarp",
+      "status": "submitted",
+      "url": "https://www.coincarp.com/submit/"
+    },
+    {
+      "file": "form-coingecko-2026-10-23.json",
+      "target": "CoinGecko",
+      "status": "incomplete",
+      "url": "https://www.coingecko.com/en/candy/partners-getting-started"
+    },
+    {
       "file": "form-coinpaprika-2026-10-23.json",
       "target": "CoinPaprika",
       "status": "incomplete",
       "url": "https://coinpaprika.com/contact"
+    },
+    {
+      "file": "form-content-catalyst-2026-10-23.json",
+      "target": "Content Catalyst",
+      "status": "no-web-form-exposed",
+      "url": "https://contentcatalyst.com/contact/"
+    },
+    {
+      "file": "form-crypto-news-2026-10-23.json",
+      "target": "Crypto News",
+      "status": "failed",
+      "url": "https://cryptonews.net/contacts/"
     },
     {
       "file": "form-feeder-2026-10-23.json",
@@ -27,10 +63,28 @@
       "url": "https://feeder.co/contact"
     },
     {
+      "file": "form-feedspot-2026-10-23.json",
+      "target": "Feedspot",
+      "status": "incomplete",
+      "url": "https://www.feedspot.com/"
+    },
+    {
+      "file": "form-financialcontent-2026-10-23.json",
+      "target": "FinancialContent",
+      "status": "no-web-form-exposed",
+      "url": "https://www.financialcontent.com/"
+    },
+    {
       "file": "form-ground-news-2026-10-23.json",
       "target": "Ground News",
       "status": "no-standard-form",
       "url": "https://ground.news/contact-us"
+    },
+    {
+      "file": "form-inkl-2026-10-23.json",
+      "target": "inkl",
+      "status": "email-only",
+      "url": "https://www.inkl.com/contact"
     },
     {
       "file": "form-inoreader-2026-10-23.json",
@@ -43,6 +97,12 @@
       "target": "Inshorts",
       "status": "submitted-unconfirmed",
       "url": "https://inshorts.com/contact-us"
+    },
+    {
+      "file": "form-issuu-2026-10-23.json",
+      "target": "Issuu",
+      "status": "no-web-form-exposed",
+      "url": "https://issuu.com/industry/publishers"
     },
     {
       "file": "form-jionews-2026-10-23.json",
@@ -69,6 +129,12 @@
       "url": "https://www.newstex.com/"
     },
     {
+      "file": "form-newswav-2026-10-23.json",
+      "target": "Newswav",
+      "status": "submitted",
+      "url": "https://newswav.com/contact-us"
+    },
+    {
       "file": "form-ontoplist-2026-10-23.json",
       "target": "OnTopList",
       "status": "submitted",
@@ -79,6 +145,24 @@
       "target": "PressReader",
       "status": "submitted-unconfirmed",
       "url": "https://about.pressreader.com/business-contact-form/"
+    },
+    {
+      "file": "form-proquest-2026-10-23.json",
+      "target": "ProQuest",
+      "status": "no-web-form",
+      "url": "https://about.proquest.com/en/publishers/"
+    },
+    {
+      "file": "form-reuters-connect-2026-10-23.json",
+      "target": "Reuters Connect",
+      "status": "no-publisher-form",
+      "url": "https://reutersagency.com/contact-us/"
+    },
+    {
+      "file": "form-squid-2026-10-23.json",
+      "target": "Squid",
+      "status": "no-web-form-exposed",
+      "url": "https://www.squidapp.co/for-publishers/"
     },
     {
       "file": "form-syndigate-2026-10-23.json",
@@ -106,16 +190,18 @@
     }
   ],
   "counts": {
-    "no-publisher-form": 1,
+    "no-publisher-form": 2,
     "rejected-by-policy": 1,
-    "incomplete": 1,
-    "email-only": 2,
+    "submitted-unconfirmed": 5,
+    "login-required": 1,
+    "submitted": 4,
+    "incomplete": 3,
+    "no-web-form-exposed": 4,
+    "failed": 3,
+    "email-only": 3,
     "no-standard-form": 1,
-    "submitted-unconfirmed": 4,
-    "submitted": 2,
     "post-sent-unconfirmed": 1,
     "inspected-only": 1,
-    "failed": 2,
-    "no-web-form": 1
+    "no-web-form": 2
   }
 }

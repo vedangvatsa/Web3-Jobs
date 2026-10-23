@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Blogarama",
+  "url": "https://www.blogarama.com/",
+  "status": "login-required",
+  "note": "Submit Your Blog route requires registration/login. Email support@blogarama.com listed on login page.",
+  "payloadSha256": "9f7c95daa4c4714fefa341ee1d76e42fc3bb7575b96b128d6f3dcafaeb65d7d5",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "inkl",
+  "url": "https://www.inkl.com/contact",
+  "status": "email-only",
+  "mailTo": "hello@inkl.com",
+  "note": "Contact page says send an email to hello@inkl.com.",
+  "payloadSha256": "2b9b1eaecac1d6b4f8739f83fac7a5e955d8313c12ec271ea19f30bb07ef05a7",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

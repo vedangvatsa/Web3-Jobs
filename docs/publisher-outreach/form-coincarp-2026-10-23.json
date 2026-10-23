@@ -1,0 +1,18 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "CoinCarp",
+  "url": "https://www.coincarp.com/submit/",
+  "status": "submitted",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/coincarp-submit.png",
+  "confirmation": "Form submit path /submit/ accepted (successHint true on post-submit body)",
+  "fields": [
+    "name=Alex",
+    "email=hi@hashtagweb3.com",
+    "url=https://hashtagweb3.com",
+    "message=publisher pitch"
+  ],
+  "payloadSha256": "74812c5a83be3a3474044483efb71e5e3a57137d12e0eebf77f4637120b0756b",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

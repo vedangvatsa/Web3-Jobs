@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Content Catalyst",
+  "url": "https://contentcatalyst.com/contact/",
+  "status": "no-web-form-exposed",
+  "note": "Marketing site contact path did not expose a message form to automation.",
+  "payloadSha256": "037cfb304d8a013be317ef7616f4c077bb4d359375c3d09282896632c4e4b94a",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

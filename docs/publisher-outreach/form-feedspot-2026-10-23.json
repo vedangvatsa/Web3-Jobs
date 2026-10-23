@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Feedspot",
+  "url": "https://www.feedspot.com/",
+  "status": "incomplete",
+  "note": "For Publishers route located; submit form not exposed to automation without interaction steps.",
+  "payloadSha256": "0516b86e1a9dc84045a4178a0f2ffdb7605ba5ee2aff5f4f8c02f0e30f59b985",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

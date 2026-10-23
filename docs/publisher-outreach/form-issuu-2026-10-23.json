@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Issuu",
+  "url": "https://issuu.com/industry/publishers",
+  "status": "no-web-form-exposed",
+  "note": "Publishers industry page; cookie wall / no public form fields.",
+  "payloadSha256": "d86b8e0854b33d45d77c5c86353ef2f22f999f49d16db3f4e6d5633a31fb9f6c",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "CoinGecko",
+  "url": "https://www.coingecko.com/en/candy/partners-getting-started",
+  "status": "incomplete",
+  "note": "Partner candy/getting-started page; only email field present without message area in automation.",
+  "payloadSha256": "dfb96d3e91aadc20793fc65084ffdeb2a8a751cd4068df96828ff42e3645ecf6",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

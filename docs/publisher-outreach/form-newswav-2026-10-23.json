@@ -1,0 +1,16 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Newswav",
+  "url": "https://newswav.com/contact-us",
+  "status": "submitted",
+  "evidence": ".cache/publisher-expansion-2026-10-23/forms/newswav-contact.png",
+  "confirmation": "Thank you for your feedback!",
+  "fields": [
+    "email=hi@hashtagweb3.com",
+    "message=publisher pitch"
+  ],
+  "payloadSha256": "45c09f57b98861f4a75285be5d42f1ed3222a178df98435b928ba9c09c8cc04e",
+  "recordedAt": "2026-10-23T14:36:10.000Z"
+}

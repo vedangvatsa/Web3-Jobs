@@ -70,38 +70,18 @@ Form route: `scripts/publisher-forms-probe.mjs`, `scripts/publisher-forms-submit
 
 Form outcomes on October 23 (submission is not approval or ingestion):
 
-| Platform | Route | Status |
-| --- | --- | --- |
-| MediaFeed | `mediafeed.us/contact` | Submitted; CF7 confirmation "Thank you! Your submission has been received!" |
-| OnTopList | blog directory join form | Submitted; landed on request-review URL with RSS feed field |
-| PressReader | business contact form | Submit clicked; unconfirmed (embed form may still show) |
-| Inoreader | contact form | Submit clicked; unconfirmed |
-| AllTop | contact form | Site policy: "We do not add new sources" — rejected by policy; email target removed |
-| SyndiGate | CF7 contact form | Failed (server-side "error trying to send your message") |
-| CoinPaprika | contact form | Incomplete (review step did not expose final send in automation) |
-| Ground News | contact-us | No standard publisher form (dropdown for other request types) |
-| Way2News | contact page | No web form; lists `reach@way2news.com` |
-| Newstex | site inspection | Email `support@newstex.com` remains the syndication network contact |
+Full per-platform form receipts: `docs/publisher-outreach/form-*-2026-10-23.json` and rollup `docs/publisher-outreach/form-submissions-2026-10-23.json` (31 platforms).
 
-### Expansion email batch (11 targets)
+Confirmed form submissions on October 23 (still not approval):
 
-Workflow runs: preview `39966225764`, send `39966412378`, first readback `39966664989`, delivery readback `39967145731`.
+- **MediaFeed** — CF7 confirmation "Thank you! Your submission has been received!"
+- **OnTopList** — listing accepted to request-review URL with RSS feed field
+- **CoinCarp** — `/submit/` form accepted
+- **Newswav** — contact form "Thank you for your feedback!"
 
-| Target | Recipient | Provider event |
-| --- | --- | --- |
-| ChainFeeds | contact@chainfeeds.xyz | delivered |
-| CoinCarp | hello@coincarp.com | delivered |
-| CoinCheckup | info@coincheckup.com | delivered |
-| CoinCodex | info@coincodex.com | delivered |
-| CoinLore | contact@coinlore.com | delivered |
-| CryptoCompare | info@cryptocompare.com | delivered |
-| Dow Jones | dje-support@dowjones.com | delivered (generic support; enterprise licensing likely needs sales) |
-| LiveCoinWatch | contact@livecoinwatch.com | delivered |
-| Newstex | support@newstex.com | delivered |
-| Newswav | partner@newswav.com | delivered |
-| Particle | partners@particle.news | bounced — do not resend; needs an alternate contact or form route |
+Submitted but unconfirmed (no explicit thank-you captured): PressReader, Inoreader, Inshorts, JioNews, Associated Press, NewsNow (partnership contact type POST observed).
 
-Receipts: `docs/publisher-outreach/expansion-*-2026-10-23.json`.
+Blocked or non-form routes: AllTop (policy: does not add new sources), SyndiGate (CF7 server error), CoinPaprika (review step), TipRanks (disabled submit), Crypto News (consent/submit disabled), Blogarama (login required), Cryptopanic (403), plus platforms with email-only or marketing-only pages (inkl, Feeder, The Old Reader, Ground News, Way2News, ProQuest, Reuters Connect, Squid, Issuu, FinancialContent, Content Catalyst, etc.).
 
 Delivery of an inquiry email or a form POST does not mean a publisher account was approved, a feed was validated, or ingestion started.
 
