@@ -46052,8 +46052,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "9d407979-9b35-48c0-a717-93d5f0936991",
-      "verification": "pending",
-      "postId": "6adad94c535235087b7d5428"
+      "verification": "verified",
+      "postId": "6adad94c535235087b7d5428",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519243678926856192"
     }
   ]
 }
