@@ -1,0 +1,21 @@
+{
+  "platform": "msn",
+  "status": "accepted_by_resend",
+  "claimedAt": "2026-10-23T06:09:17.005Z",
+  "recipient": "partnerhubsupport@microsoft.com",
+  "recipientSource": "https://support.microsoft.com/en-us/msn/partner-hub/msn-feed-setup-and-configuration",
+  "payload": {
+    "from": "Hashtag Web3 <hi@hashtagweb3.com>",
+    "reply_to": "hi@hashtagweb3.com",
+    "to": [
+      "partnerhubsupport@microsoft.com"
+    ],
+    "subject": "Hashtag Web3: publisher onboarding and automatic news-feed distribution",
+    "text": "Hello MSN Partner Hub team,\n\nWe would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nContact: hi@hashtagweb3.com\nExample native article: https://hashtagweb3.com/bitgetthai\n\nWe want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.\n\nAn RSS endpoint at https://hashtagweb3.com/news/feed.xml is prepared for our next website release; it is not yet available on the live site. We can provide and validate the required full-content feed and image rights information during onboarding.\n\nCould you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?\n\nThank you,\nHashtag Web3\nhi@hashtagweb3.com"
+  },
+  "payloadSha256": "dfc1fbf72279e642fcdd9a8672e243f7e8679747156464b225407ffc655200bb",
+  "providerId": "01a16760-c796-7a62-a127-d07ed78856c9",
+  "acceptedAt": "2026-10-23T06:09:18.308Z",
+  "providerEvent": "delivered",
+  "checkedAt": "2026-10-23T06:22:49.586Z"
+}
