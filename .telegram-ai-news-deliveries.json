@@ -1975,5 +1975,38 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 193387,
     "sentAt": "2026-10-23T11:34:07.476Z"
+  },
+  "603d48e1-9f1b-4b33-a19f-eb859adc0dae": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:32:19.695Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "[TechCrunch] OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "headline": "OpenAI releases decision model to all users",
+        "summary": "The organization broadly launched automated decision-making software to strengthen its position against rival developer tools.",
+        "event_rationale": "Covers OpenAI's widespread release of its decision model, distinct from previously posted stories on rival software adoption.",
+        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+      },
+      {
+        "index": 1,
+        "headline": "TechCrunch to Host Founder Summit 2026 With Fidelity",
+        "summary": "The full-day event covers customer acquisition, team building, pitching, leadership, and scaling strategies for startup founders.",
+        "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+        "source": "TechCrunch",
+        "originalTitle": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026"
+      },
+      {
+        "index": 2,
+        "headline": "Intel receives waiver to use foreign robots in US factories",
+        "summary": "The company stated that these automated vehicles are required for manufacturing semiconductors at its domestic facilities.",
+        "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+        "source": "Ars Technica",
+        "originalTitle": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs"
+      }
+    ],
+    "slotKey": "2026-10-23:evening"
   }
 }
