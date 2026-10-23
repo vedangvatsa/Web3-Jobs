@@ -46924,6 +46924,48 @@
       "verification": "verified",
       "postId": "6adb46a31304dd674c8b7cdf",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519361079353757696"
+    },
+    {
+      "slug": "eng605",
+      "company": "Mesh",
+      "title": "Senior Data Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T11:32:28.447Z",
+      "expectedText": "Mesh is hiring Senior Data Engineer: https://hashtagweb3.com/eng605/li?og=7",
+      "snapshot": {
+        "id": "5453260008",
+        "title": "Senior Data Engineer",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5453260008",
+        "date": "2026-10-14T17:18:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "San Francisco, CA, New York, NY",
+        "department": "Engineering",
+        "active": true,
+        "salary": "$180k – $200k/yr",
+        "dateVerified": true,
+        "slug": "eng605"
+      },
+      "payload": {
+        "text": "Mesh is hiring Senior Data Engineer: https://hashtagweb3.com/eng605/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng605/li?og=7",
+          "title": "Senior Data Engineer at Mesh",
+          "description": "Join Mesh as Senior Data Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng605.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "af27d265-e808-4125-9c46-dcd96636c131",
+      "verification": "creating"
     }
   ]
 }
