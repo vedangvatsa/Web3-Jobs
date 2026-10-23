@@ -80544,11 +80544,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "a579917b8d8bf6084021",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T12:46:28.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 22 DFSA authorization, DIFC regional headquarters and 2027 launch announcement as the ready robinhooddubai article. The candidate URL names the identical event (Robinhood 2027 UAE launch with Dubai retail license). The Defiant returns HTTP 403, so no unique facts from it were available; Bitcoin Magazine, The National and Finance Magnates covered the same company statement.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:07:41.227Z",
+      "duplicateOf": "robinhooddubai",
+      "mergedInto": "fa90fe1d70919fac9347",
+      "lastReviewedDay": "2026-10-23"
     },
     "b817a4fcc69a60a67efe": {
       "source": "Cointelegraph",
@@ -80700,9 +80716,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa90fe1d70919fac9347",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T15:35:01.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "robinhooddubai",
@@ -80728,7 +80744,29 @@
         "updatedAt": "2026-10-23T08:03:36.504Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the DFSA authorization, the 10 asset classes, the DIFC headquarters and the 2027 launch timing across Bitcoin Magazine, The National and Finance Magnates, all read in full on Oct. 23; drafted content/articles/robinhooddubai.md with a self-hosted Wikimedia hero.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.financemagnates.com/fintech/robinhood-gets-dubai-license-plans-2027-middle-east-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-23T08:07:41.227Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "3cbfe8de3e89ec468f2d": {
       "source": "Cointelegraph",
@@ -143349,6 +143387,49 @@
           ],
           "reviewedAt": "2026-10-23T08:03:16.541Z",
           "duplicateOf": "occgenius"
+        },
+        "fa90fe1d70919fac9347": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the DFSA authorization, the 10 asset classes, the DIFC headquarters and the 2027 launch timing across Bitcoin Magazine, The National and Finance Magnates, all read in full on Oct. 23; drafted content/articles/robinhooddubai.md with a self-hosted Wikimedia hero.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/robinhood-gets-dubai-license-plans-2027-middle-east-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:07:41.227Z",
+          "articleSlug": "robinhooddubai"
+        },
+        "a579917b8d8bf6084021": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 22 DFSA authorization, DIFC regional headquarters and 2027 launch announcement as the ready robinhooddubai article. The candidate URL names the identical event (Robinhood 2027 UAE launch with Dubai retail license). The Defiant returns HTTP 403, so no unique facts from it were available; Bitcoin Magazine, The National and Finance Magnates covered the same company statement.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:07:41.227Z",
+          "duplicateOf": "robinhooddubai",
+          "mergedInto": "fa90fe1d70919fac9347"
         }
       },
       "baselineSlugs": [
