@@ -2,7 +2,7 @@
   "platform": "expansion",
   "target": "CoinCheckup",
   "slug": "coincheckup",
-  "status": "claimed",
+  "status": "accepted_by_resend",
   "claimedAt": "2026-10-23T14:04:17.697Z",
   "recipient": "info@coincheckup.com",
   "recipientSource": "https://coincheckup.com/",
@@ -17,5 +17,6 @@
     "text": "Hello CoinCheckup team,\n\nWe would like to apply for publisher onboarding for Hashtag Web3, a United States organization publishing English-language crypto and Web3 news.\n\nPublication: https://hashtagweb3.com/news\nAbout: https://hashtagweb3.com/about\nCommunity: https://hashtagweb3.com/community\nContact: hi@hashtagweb3.com\nExample native article: https://hashtagweb3.com/bitgetthai\n\nA few figures that describe our reach:\n- 55 million job-post views in the last year\n- Weekly X (Twitter) Spaces with guests including a Pink Floyd band member, EY partners, the \"Father of Digital Twin,\" and a former Microsoft CSO, drawing 20,000–40,000 live listeners\n- 26 million LinkedIn views last month\n- 150,000 newsletter subscribers\n- 60,000 Telegram channel subscribers\n- Event partnerships including Harvard Blockchain Conference, ETH Vietnam, Oxford Blockchain Conference, Token2049, Taipei Blockchain Week, ETH Oxford, Gitex and ETH Brussels\n\nWe want to connect an ongoing feed of our native news articles after approval. Our news listing also links to external publishers; those external stories would not be supplied as our own content. Our workflow uses AI-assisted research and drafting with source and publication checks. Please advise on your AI disclosure and editorial requirements.\n\nRSS: https://hashtagweb3.com/news/feed.xml (headlines, summaries, original dates and canonical links). We can provide and validate the required full-content feed and image rights information during onboarding.\n\nCould you confirm whether you are accepting publishers in this subject area and provide the application or invitation process, feed requirements, and any agreement for our authorized representative to review?\n\nThank you,\nHashtag Web3\nhi@hashtagweb3.com"
   },
   "payloadSha256": "bdf439495c626e7e076e0f569cd80bbd5279c9e54b17679a5a73fde621c50eca",
-  "providerId": null
+  "providerId": "01a16913-ab35-7d02-907c-3c0282436ffd",
+  "acceptedAt": "2026-10-23T14:04:19.197Z"
 }
