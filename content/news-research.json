@@ -67782,24 +67782,28 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f0bff581db089300777",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-21T03:31:28.541Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-23T16:31:24.000Z",
       "lastSeenAt": "2026-10-21T03:31:28.541Z",
       "reason": "duplicate",
-      "note": "The Block item is the same Bitwise record-ETH and yield story already covered in the ready stakingrecord article. Candidate URL returns HTTP 403.",
+      "note": "The candidate's single URL returned HTTP 403 on actual GET attempts. Independent report read confirms it covers the same Bitwise Q4 2026 Staking Report (Oct. 20) with identical figures: 43.8M staked ETH, 35.9% of supply, gross yield 2.63% down from 2.81%, 1.99M ETH net inflows, validator count 881,000. content/articles/stakingrecord.md already published that report's coverage on Oct. 22.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
           "outcome": "blocked"
+        },
+        {
+          "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-22T12:36:49.891Z",
+      "reviewedAt": "2026-10-23T03:55:17.025Z",
       "retrySearches": [
         "Find independent reporting on: Ethereum staking hits record as yields fall and Solana activity grows: Bitwise"
       ],
-      "lastReviewedDay": "2026-10-22",
+      "lastReviewedDay": "2026-10-23",
       "duplicateOf": "stakingrecord"
     },
     "19d3f2e2d40134eb80c7": {
@@ -143190,6 +143194,23 @@
           ],
           "reviewedAt": "2026-10-23T03:54:01.230Z",
           "duplicateOf": "swissetf"
+        },
+        "0f0bff581db089300777": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The candidate's single URL returned HTTP 403 on actual GET attempts. Independent report read confirms it covers the same Bitwise Q4 2026 Staking Report (Oct. 20) with identical figures: 43.8M staked ETH, 35.9% of supply, gross yield 2.63% down from 2.81%, 1.99M ETH net inflows, validator count 881,000. content/articles/stakingrecord.md already published that report's coverage on Oct. 22.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://cryptobriefing.com/ethereum-staking-record-43-8-million-eth/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T03:55:17.025Z",
+          "duplicateOf": "stakingrecord"
         }
       },
       "baselineSlugs": [
