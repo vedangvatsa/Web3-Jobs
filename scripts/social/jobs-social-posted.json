@@ -49137,7 +49137,8 @@
       },
       "account": "channel:founders",
       "attemptId": "bc065cc6-9a29-48d3-9911-46ba9967259a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3e701fbe93997a4811db5ec3aeaa7dafc8226d38"
     }
   ]
 }
