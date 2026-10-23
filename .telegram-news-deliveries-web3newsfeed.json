@@ -2020,5 +2020,71 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 65768,
     "sentAt": "2026-10-22T11:33:29.513Z"
+  },
+  "348f20a0-c7d6-4703-8226-816a754a1654": {
+    "status": "sent",
+    "reservedAt": "2026-10-22T19:34:08.220Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OKX expands security reimbursement program to US users",
+        "summary": "US customers can receive up to $100,000 in coverage if they activate specific security settings on their accounts.",
+        "link": "https://hashtagweb3.com/okxshield?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX Shield extends customer reimbursements to US users"
+      },
+      {
+        "index": -1,
+        "headline": "Sixteen companies object to tokenized share listings on OKXICE",
+        "summary": "Seven additional firms including Goldman Sachs joined the opposition, representing about one-quarter of all named issuers.",
+        "link": "https://hashtagweb3.com/okxobjections?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKXICE objections climb to 16 as Microsoft, Alphabet and Goldman opt out"
+      },
+      {
+        "index": -1,
+        "headline": "Papertrade permanently blocks PAPER token transfers and exchange listings",
+        "summary": "The HyperEVM platform will keep the reward token in the contract to prevent any external trading.",
+        "link": "https://hashtagweb3.com/paperlock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Papertrade locks PAPER token to its own contract after launch week"
+      }
+    ],
+    "slotKey": "2026-10-22:evening",
+    "messageId": 65769,
+    "sentAt": "2026-10-22T19:34:11.736Z"
+  },
+  "a389de9f-ce5b-4fd0-abf8-67f6aa0bd2f2": {
+    "status": "sent",
+    "reservedAt": "2026-10-23T03:46:52.337Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Revolut receives Gibraltar crypto license for international expansion",
+        "summary": "The fintech company will use this regulatory approval to offer cryptocurrency services in new global markets.",
+        "link": "https://hashtagweb3.com/revolutgib?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Revolut gets Gibraltar DLT licence for international crypto expansion"
+      },
+      {
+        "index": -1,
+        "headline": "Utah Sues Kalshi and Susquehanna Over Prediction Market Operations",
+        "summary": "The state attorney general claims the platform functions as an illegal bookmaking operation and seeks $60 million restitution.",
+        "link": "https://hashtagweb3.com/utahkalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Utah sues Kalshi and Susquehanna firms over prediction market betting"
+      },
+      {
+        "index": -1,
+        "headline": "Super League Shareholders Approve Metaplanet Investment and Rebrand",
+        "summary": "Investors approved a 2,100 BTC deal that will rename the company to Superplanet under the ticker SUPA.",
+        "link": "https://hashtagweb3.com/superplanet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Super League owners approve Metaplanet's 2,100 BTC deal and Superplanet rebrand"
+      }
+    ],
+    "slotKey": "2026-10-23:morning",
+    "messageId": 65770,
+    "sentAt": "2026-10-23T03:46:56.270Z"
   }
 }

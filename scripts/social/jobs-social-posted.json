@@ -1,5 +1,5 @@
 {
-  "lastIndex": 486,
+  "lastIndex": 492,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -213,7 +213,11 @@
     "aso58",
     "mkt15",
     "tok",
-    "tr68"
+    "tr68",
+    "pm252",
+    "sls240",
+    "rec47",
+    "rec20"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -42690,6 +42694,3438 @@
       "attemptId": "5bf5adc7-1261-414c-9a3d-75ac0c18547d",
       "verification": "verified",
       "postId": "691827047618629_1122729867000914"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "x",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/x?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "fff3da13-8149-4634-bf0c-7ac5257bb54d",
+      "verification": "verified",
+      "postId": "6ada64ade374ecc982219806",
+      "permalink": "https://twitter.com/hashtag_web3/status/2113352681452421350"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "threads",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/th?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pm252/th?og=7"
+      },
+      "attemptId": "7c9685a1-e1cc-4813-8529-8b1331eda684",
+      "verification": "verified",
+      "containerId": "18098111969199925",
+      "postId": "18170020228485058",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DezvbZRFtdt",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "bluesky",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/bsky?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm252/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm252.png?v=7",
+        "company": "Paxos",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "description": "Join Paxos as Senior Product Manager, Liquidity. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "aee85c8e-dbf9-4f4b-afcf-2e6afb756dae",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myifqnsh3c2w"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "d0f0e040-b00f-4037-92b9-ee4f1adf2e36",
+      "verification": "verified",
+      "postId": "0x0a589df86197af5e3dbae5cd5c6c76c87359e0a1"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "75dce2e7-6304-4858-92f2-6cd04d83d512",
+      "verification": "verified",
+      "postId": "0x772bdddfcc6fd270e5360e836b456103405da13b"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "ba6467d1-620a-49ab-b8a1-7a9411269e80",
+      "verification": "verified",
+      "postId": "0x360093705954dbb25b9fb8f797d05c4440ee6940"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "79869f86-1041-40ee-b746-41f5c16d99d3",
+      "verification": "verified",
+      "postId": "0x56ec9b3bf241cb872f8826edac30e387190668a3"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "076a2ee1-0bfb-4f33-9cb7-75c4dfd6b1c5",
+      "verification": "verified",
+      "postId": "0x740a1624aec442be25e07aa81883385b9ead7968"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "92381d56-7a8e-4905-a067-df1f981cb964",
+      "verification": "verified",
+      "postId": "0xb7a8402631d395cc22149f7dbb54e152d896a9d0"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "02d3c28f-4f6e-4251-b259-f467b4b2cfc4",
+      "verification": "verified",
+      "postId": "0x322b4bb29cfff74688804e768bc33a4b9f33a82c"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "afa6572e-ff8c-4a8d-b48c-d651475b3b39",
+      "verification": "verified",
+      "postId": "0x9d359b3b8fe922abddeeff95a3acb6cfd89621a1"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "bc32acad-6c8c-41cd-b0c4-c43564815a7e",
+      "verification": "verified",
+      "postId": "0xa55041cd0a96439cfbbb5f6fe38f9bb82b1b352d"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "4e655ecd-2941-4882-bf82-a1c2cea578e5",
+      "verification": "verified",
+      "postId": "0x0923cb4122882c195200edcc8ab1537a691bcba7"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "e5a6a5b7-ea93-40de-928b-9cdcc198ba88",
+      "verification": "verified",
+      "postId": "0x69e2a0cdfb148b5de74770843d9389a7a6aa5c8c"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "2e53b141-d50b-416a-9009-4af29d09c68a",
+      "verification": "verified",
+      "postId": "0xdd2de06ba6f2d639d38676f9e8f6d2d80c8154db"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "f4f12499-f843-450d-8ce2-39d8b4bb99ec",
+      "verification": "verified",
+      "postId": "0xba017ff1ca09693b2c555409c405d286b9ccc976"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "7467598d-bfb4-4c4d-ad72-3b03e3da51fe",
+      "verification": "verified",
+      "postId": "0x677aaab6172a0a97d4b1130d0ca96ad5248a13b1"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "68ccac38-92b0-4069-9fae-63321717c3c9",
+      "verification": "verified",
+      "postId": "0x06225f5486e1a5bc234c8aa2d9b97d8f862a9d7a"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "db3a384d-3d1d-4e8f-a2d8-8eebb88267f1",
+      "verification": "verified",
+      "postId": "0x4aab123db1f76616cd4c10bab925e0f0f13f809d"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement\n\nhttps://hashtagweb3.com/pm252/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm252/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "57a9b0be-cec9-4493-b0c6-f34ea557483a",
+      "verification": "verified",
+      "postId": "0x0e84e0e119f8f4bcf4ff7eb2f74230b463cd173b"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm252/li?og=7",
+          "title": "Senior Product Manager, Liquidity & Money Movement at Paxos",
+          "description": "Join Paxos as Senior Product Manager, Liquidity. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm252.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "d8c505dd-5d68-42de-a147-6b43fa82b6e6",
+      "verification": "verified",
+      "postId": "6ada652de391db54dafb0d60",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519118998224068608"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm252/li?og=7",
+          "title": "Senior Product Manager, Liquidity & Money Movement at Paxos",
+          "description": "Join Paxos as Senior Product Manager, Liquidity. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm252.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "9869a458-0d7f-4e94-904a-bf318fdb6530",
+      "verification": "verified",
+      "postId": "6ada654a80b62e657502776a",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519119116113326080"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm252/li?og=7",
+          "title": "Senior Product Manager, Liquidity & Money Movement at Paxos",
+          "description": "Join Paxos as Senior Product Manager, Liquidity. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm252.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "df9e82a0-d98c-4d46-a4e4-4bda209eeee9",
+      "verification": "verified",
+      "postId": "urn:li:share:7519119146937266176"
+    },
+    {
+      "slug": "pm252",
+      "company": "Paxos",
+      "title": "Senior Product Manager, Liquidity & Money Movement",
+      "platform": "facebook",
+      "postedAt": "2026-10-22T19:31:55.028Z",
+      "expectedText": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/fb?og=7",
+      "snapshot": {
+        "id": "24fab342-8162-4d64-890e-e771147c67ca",
+        "title": "Senior Product Manager, Liquidity & Money Movement",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/Paxos/24fab342-8162-4d64-890e-e771147c67ca",
+        "date": "2026-10-07T14:03:14.281+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - NYC, New York",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm252"
+      },
+      "payload": {
+        "message": "Paxos is hiring Senior Product Manager, Liquidity & Money Movement: https://hashtagweb3.com/pm252/fb?og=7",
+        "link": "https://hashtagweb3.com/pm252/fb?og=7"
+      },
+      "attemptId": "bc338538-8739-493a-ac02-deec9477842f",
+      "verification": "verified",
+      "postId": "691827047618629_1123072680299966"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "x",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/x?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "8dcb48cf-05ae-4d68-ade9-8cdfb25077c2",
+      "verification": "verified",
+      "postId": "6ada657fe391db54dafb221a",
+      "permalink": "https://twitter.com/hashtag_web3/status/2113353561262133674"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/th?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls240/th?og=7"
+      },
+      "attemptId": "2f560994-2f85-4973-9709-513753ae4bf1",
+      "verification": "verified",
+      "containerId": "18098112548199925",
+      "postId": "18101705909432591",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dezvz_XFkDS",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/bsky?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls240/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls240.png?v=7",
+        "company": "Open Standard",
+        "title": "Account Manager",
+        "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e7b441c9-5835-44d3-aa71-8298df2f20fc",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myifwhacxt25"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "d04666b3-b7e0-44e7-b3a5-ba2a5bf5fafb",
+      "verification": "verified",
+      "postId": "0x5effeb79856e7ef094ce2ff3c4188a747fe5500a"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "fed94ff0-8cdc-4100-a6ed-80d6612daab3",
+      "verification": "verified",
+      "postId": "0x4f64de1583cf5fbce9534749e5f5f31c7df72fca"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "bf2dc145-13d2-428a-8c60-105a79efeae0",
+      "verification": "verified",
+      "postId": "0x31b7f36c9aa9c2415081b3d78cd2107c818b4d91"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "dcf86e4f-a3b1-4825-9279-e5c26107c21e",
+      "verification": "verified",
+      "postId": "0x70e717634d4aed20db5ba044e3062b72f278e517"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "d3a8334a-cb5e-4998-a8f0-9315c73ae112",
+      "verification": "verified",
+      "postId": "0x00a8d4db4b92a162d8eb9211be82e0d5671d7787"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "d88e8d82-1ba7-40e8-8028-2d7906536fca",
+      "verification": "verified",
+      "postId": "0x829b83c952034c5e4a8c3881689202b1fd2318b2"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "b246bee3-28e7-4fc8-b9f0-01f24df7e1f9",
+      "verification": "verified",
+      "postId": "0x5035e3bba7918bb21c6371a026249fdc9410900f"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "5fc32a05-ca03-4551-b02d-66c4dfb988a6",
+      "verification": "verified",
+      "postId": "0xdb1731fdbabedaec19b969305770fd90ae815503"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "8958cd7e-e71d-408d-9ee4-3e4bb01a8821",
+      "verification": "verified",
+      "postId": "0xba022a659baad1ec5062052c1f1ae8917d37c94c"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "7c3e4194-65c5-4d28-a73e-97906a2a2f0c",
+      "verification": "verified",
+      "postId": "0xda88bef3348b9a6e95f4a8a1aeba82173418b1a4"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "bef0248f-c69c-45a9-a868-378559e0444e",
+      "verification": "verified",
+      "postId": "0xb67ff341fb79400d0089a480e9c1af0a1a8dc88f"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "a3bf2a2d-f8c7-4dbc-84e1-b59fbc63516f",
+      "verification": "verified",
+      "postId": "0xb58e2a5c787926ca2d3b132a576dac7210f9a400"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "133f6837-7f75-42c9-82d1-309b3e6bf466",
+      "verification": "verified",
+      "postId": "0x8805808c7299d7ac307037448a0fc654ab3fafe7"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "d3fa8c72-bef6-4da4-b700-94973f5e45e9",
+      "verification": "verified",
+      "postId": "0x88d3105994bfeafb2e4c51890072cb814a67012e"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "81e3f1cf-93f7-4c5d-a83e-1d731cc99576",
+      "verification": "verified",
+      "postId": "0xc0930d37b25905da9c5c7e0b298636cec606d880"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "c816755b-1095-4c0c-a7a0-a123c08dd928",
+      "verification": "verified",
+      "postId": "0xdae4d5e1db59b0f0f81bd741515a1ae54b24631a"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager\n\nhttps://hashtagweb3.com/sls240/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls240/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "a3bd19bf-d91a-4b70-b15b-317217cd0a00",
+      "verification": "verified",
+      "postId": "0x1d309c8675d2350bc6eb4539cb09f4f90a2e3cf6"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls240/li?og=7",
+          "title": "Account Manager at Open Standard",
+          "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls240.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "785ab192-a508-478a-b360-1ec0f54cc23e",
+      "verification": "verified",
+      "postId": "6ada65f89a872e86219e39c5",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519119846551425025"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls240/li?og=7",
+          "title": "Account Manager at Open Standard",
+          "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls240.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "13c63999-a4b6-41b5-8fa6-1c99eef67436",
+      "verification": "verified",
+      "postId": "6ada6613e374ecc98221e8de",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519119958119796737"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "text": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls240/li?og=7",
+          "title": "Account Manager at Open Standard",
+          "description": "Join Open Standard as Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls240.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "183a9144-9024-490b-bd61-e5dcc11bbcd8",
+      "verification": "verified",
+      "postId": "urn:li:share:7519120002810138625"
+    },
+    {
+      "slug": "sls240",
+      "company": "Open Standard",
+      "title": "Account Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-22T19:35:25.288Z",
+      "expectedText": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/fb?og=7",
+      "snapshot": {
+        "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "title": "Account Manager",
+        "company": "Open Standard",
+        "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+        "date": "2026-09-23T05:58:41.953+00:00",
+        "source": "Ashby: Open Standard [openstandard]",
+        "location": "San Francisco",
+        "department": "Sales",
+        "salary": "$175,000–$210,000 per year (USD)",
+        "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls240"
+      },
+      "payload": {
+        "message": "Open Standard is hiring Account Manager: https://hashtagweb3.com/sls240/fb?og=7",
+        "link": "https://hashtagweb3.com/sls240/fb?og=7"
+      },
+      "attemptId": "a44ac96c-1bd9-479f-a176-e058636cb1e4",
+      "verification": "verified",
+      "postId": "691827047618629_1123074690299765"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "x",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/x?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "e92fcc87-faeb-4f83-ac47-7d460b353e53",
+      "verification": "verified",
+      "postId": "6adad80cd447d56a64759193",
+      "permalink": "https://twitter.com/hashtag_web3/status/2113476556907598100"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "threads",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/th?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/rec47/th?og=7"
+      },
+      "attemptId": "50f917c1-81be-48ca-b542-4ee9edd424d8",
+      "verification": "verified",
+      "containerId": "18098143958199925",
+      "postId": "18286841644288927",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De0nvliAILw",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "bluesky",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/bsky?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rec47/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rec47.png?v=7",
+        "company": "Hut 8",
+        "title": "Executive Recruiter",
+        "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "9374b524-1724-40fe-a146-965ba0c16c2c",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myjbage6yv2q"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "24922f39-bac7-4ea5-bbf4-ec11ce5d3d54",
+      "verification": "verified",
+      "postId": "0x47c79b752f5c1728cc75eb74259e6d141a9197c3"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "330b7878-a86f-48fb-8701-4d34b53e077b",
+      "verification": "verified",
+      "postId": "0x0ab3c7d7ac1b9c482f62d26987b9e1292ccddfdf"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "58d6b12f-c374-4553-93d7-f9f16c391237",
+      "verification": "verified",
+      "postId": "0xc51fed5ee8d22ed41daf50c90950b5acb31ef30f"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "478988dc-b489-4a20-8ceb-9b4b8efa655d",
+      "verification": "verified",
+      "postId": "0xe30076c97371be4190c63018906cce918ed949a2"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "5afa7a6b-4974-4990-9b05-0c90daacf519",
+      "verification": "verified",
+      "postId": "0xa1842d46a8a5066337edd20be919dea7020578f0"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "094c49fe-2158-44d0-98d8-a5fe17a30261",
+      "verification": "verified",
+      "postId": "0x2aa0cbb151225db93b18a0bd69276a8b871cf875"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "596cd0a5-cd13-4527-b18f-07dc0a5a3dac",
+      "verification": "verified",
+      "postId": "0xbc61d4ca030924286eae3eedd3bbb5d3b1441651"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "e3f64d00-b455-435c-8e73-21237a36cd37",
+      "verification": "verified",
+      "postId": "0xcb57e447648c76bc5a165a276be5dd2a11d8f159"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "11fe1f10-16a1-4e26-a5dd-994034742342",
+      "verification": "verified",
+      "postId": "0x52c7f71cca2ef419500f2ed1c910e9fae698de17"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "e9f8b111-7899-48af-a7d6-f8915044721b",
+      "verification": "verified",
+      "postId": "0x00b430006ef55420f732dc7d58a25586d040f7fc"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "268470f4-9a75-4fee-87a8-b4f4a213065f",
+      "verification": "verified",
+      "postId": "0x4dc5f8b801e1f45eb80fc3a31e66d7295ecb8bd9"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "973553dd-00de-4ea9-b532-7e6ed03514a5",
+      "verification": "verified",
+      "postId": "0xbea933760e7d93c56c00d8f53ff528eb2e20f5b0"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "5b8bf5a5-85ee-4407-9281-d94210188522",
+      "verification": "verified",
+      "postId": "0x47cd64188dbcfc1741b45fab2781ff3c5499b697"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "a4b2e4fe-4f5d-4bc9-8617-c5f299a71ad5",
+      "verification": "verified",
+      "postId": "0x5aa48fda5913f7e9cd8b0063e0f1f194e04ca023"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "1e012879-5aa9-4670-864a-ed29342e11c0",
+      "verification": "verified",
+      "postId": "0x93e08ba287086effc34a75a569d9b84fcf4cb4a7"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "e8613763-e944-4f38-b6a6-ecb3e77125ff",
+      "verification": "verified",
+      "postId": "0xfd5197a411f124c22f889f803a5032f44b3ba3de"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "83b15c85-deff-4e2f-860d-47abbfff0907",
+      "verification": "verified",
+      "postId": "0xd5801fa4b0bb0bcd39720f7f12ad4cf7cce3e6de"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec47/li?og=7",
+          "title": "Executive Recruiter at Hut 8",
+          "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec47.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "b2c4a620-15d5-4136-9e9a-3b1d755ae25a",
+      "verification": "verified",
+      "postId": "6adad869d447d56a6475ae42",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519242725851058176"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec47/li?og=7",
+          "title": "Executive Recruiter at Hut 8",
+          "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec47.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "f3196fa8-f02f-4c46-adb0-e4f08a3c505d",
+      "verification": "verified",
+      "postId": "6adad8881dc335d347f123d2",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519242854196527104"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec47/li?og=7",
+          "title": "Executive Recruiter at Hut 8",
+          "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec47.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "c3733762-e5fc-43eb-aa21-fc73f6f076c9",
+      "verification": "verified",
+      "postId": "urn:li:share:7519242883917406208"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "facebook",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/fb?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "message": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/fb?og=7",
+        "link": "https://hashtagweb3.com/rec47/fb?og=7"
+      },
+      "attemptId": "5a50ab59-f429-4ea2-bf34-57b16af21ba4",
+      "verification": "verified",
+      "postId": "691827047618629_1123353030271931"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "x",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/x?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "c6417a51-5fb8-4503-9490-c8714946189d",
+      "verification": "verified",
+      "postId": "6adad8bb8d2197cb2a139ad4",
+      "permalink": "https://twitter.com/hashtag_web3/status/2113477293800641020"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "threads",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/th?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/rec20/th?og=7"
+      },
+      "attemptId": "8c126854-5f33-4024-8fd4-e2d7f31ad0b4",
+      "verification": "verified",
+      "containerId": "18098144084199925",
+      "postId": "18095199737457766",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/De0oFFUALIf",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "bluesky",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/bsky?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rec20/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rec20.png?v=7",
+        "company": "MoonPay",
+        "title": "Technical Talent Partner",
+        "description": "Join MoonPay as Technical Talent Partner. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8b6117f9-cdb2-49dd-a90a-08400ae5aed0",
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myjbfq363l2p"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "ec0b287b-b4e1-4d39-a5b5-4ae605038c33",
+      "verification": "verified",
+      "postId": "0x48377433056ce738c4c2c089e4f46a691cde5f5d"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "5caf185e-54f0-4a63-8f63-cd8e90f3a1a6",
+      "verification": "verified",
+      "postId": "0x180b8b22ba7de14507f729eefecedddf249f349c"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "ebedc7f5-244d-4ccc-b594-ee2ed4613467",
+      "verification": "verified",
+      "postId": "0x41a7edac98c7c24e8ed38c5a1b2c49b0a4f4c795"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "bc5ba390-8619-47c9-a0a0-d0de5d20e926",
+      "verification": "verified",
+      "postId": "0x5c32ddd417c832dce25257b92f5ecd6e4b19db5a"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "967d0ba4-c62b-4bed-8ec3-4184ce13aef5",
+      "verification": "verified",
+      "postId": "0x3c10f853c5e638493450240c746b0dc0e20c3e90"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "82471183-f735-4eb5-9810-81cdc74a5fac",
+      "verification": "verified",
+      "postId": "0x5580a9f80a4c610278583c768ac09dc83eac0201"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "6200c1a3-05b3-4cf0-ba1b-8f996e1dc037",
+      "verification": "verified",
+      "postId": "0x06b41b48f27d2c74e5cc1a46c3548dd5b6a6777a"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "399cf757-dbe7-4d9b-a5ac-859c2e2c2717",
+      "verification": "verified",
+      "postId": "0x8dc60efc6ba287180098b53691858590c83bb385"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "9483d504-7672-4a48-88e3-3bb491174181",
+      "verification": "verified",
+      "postId": "0xba10154ea8319a47ee8af1a9ef95797660e6808b"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "497f7ce8-cbca-45dd-8e46-06bcb08046f0",
+      "verification": "verified",
+      "postId": "0x84ffb6add496cd2750997168ab892c47ce2e4988"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "d1094dd6-58db-4021-9c9a-2e3bf68fb31b",
+      "verification": "verified",
+      "postId": "0x256002ac530300672308f460b66b65837e69ee48"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "f1af48e0-22b9-4223-a3d3-48b13082695f",
+      "verification": "verified",
+      "postId": "0x046f3344b6266c407b2c555464240ee0c89844f0"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "b3d3402d-8efb-4d2d-b4d6-a597c9d1aed0",
+      "verification": "verified",
+      "postId": "0x54c4cc507355e7f0ab814be404ad3b82946c38eb"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "99680afe-be73-42c6-b7f4-721f9c2c9dca",
+      "verification": "verified",
+      "postId": "0x82cc93874cdae3c2de3eda75fa66c79a5b0bac39"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "82309458-ed2e-4a07-9b2c-dddfed6d4310",
+      "verification": "verified",
+      "postId": "0xbf902020fb9a1401da8e034af574bd823cde3245"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "fe4b4b45-7d14-494b-9dfe-3f283bccde8f",
+      "verification": "verified",
+      "postId": "0x0f68e98f5e0d18c941489242e77708fff765b182"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner\n\nhttps://hashtagweb3.com/rec20/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec20/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "6da58a73-29d0-4568-a422-a9d530e9c14b",
+      "verification": "verified",
+      "postId": "0xf5eff66215836c125021132b5b189e30e67d3357"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec20/li?og=7",
+          "title": "Technical Talent Partner at MoonPay",
+          "description": "Join MoonPay as Technical Talent Partner. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec20.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "9a08ca7c-e70a-4640-872b-0e95c0d02978",
+      "verification": "verified",
+      "postId": "6adad92d535235087b7d4efc",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519243550752985088"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec20/li?og=7",
+          "title": "Technical Talent Partner at MoonPay",
+          "description": "Join MoonPay as Technical Talent Partner. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec20.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "9d407979-9b35-48c0-a717-93d5f0936991",
+      "verification": "verified",
+      "postId": "6adad94c535235087b7d5428",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519243678926856192"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "text": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec20/li?og=7",
+          "title": "Technical Talent Partner at MoonPay",
+          "description": "Join MoonPay as Technical Talent Partner. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec20.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "571823b2-2f56-4c3a-b734-056a058d0c49",
+      "verification": "verified",
+      "postId": "urn:li:share:7519243711478661120"
+    },
+    {
+      "slug": "rec20",
+      "company": "MoonPay",
+      "title": "Technical Talent Partner",
+      "platform": "facebook",
+      "postedAt": "2026-10-23T03:47:05.013Z",
+      "expectedText": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/fb?og=7",
+      "snapshot": {
+        "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "title": "Technical Talent Partner",
+        "company": "MoonPay",
+        "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "date": "2026-09-30T16:46:20.223Z",
+        "source": "Lever: MoonPay [moonpay]",
+        "location": "London - Hybrid",
+        "workplaceType": "hybrid",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec20"
+      },
+      "payload": {
+        "message": "MoonPay is hiring Technical Talent Partner: https://hashtagweb3.com/rec20/fb?og=7",
+        "link": "https://hashtagweb3.com/rec20/fb?og=7"
+      },
+      "attemptId": "9aacaff4-e88e-4dd2-ba16-0f3bba236f0d",
+      "verification": "verified",
+      "postId": "691827047618629_1123354780271756"
     }
   ]
 }

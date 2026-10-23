@@ -3002,30 +3002,6 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/luma-crypto-f6vuh9lcivejvzr-83a83219.webp",
-    "id": "premier-crypto-finance-forum-2026",
-    "slug": "crypto-finance-forum",
-    "name": "Crypto Finance Forum 2026",
-    "description": "Crypto Finance Forum is a New York based conference for crypto CFOs, auditors, controllers and accountants — debating the biggest challenges for finance teams today. The 2026 agenda is published on the official site.\n\n## Agenda\n\nSessions carry up to 1.0 CPE credit (pending approval) and cover institutional adoption of digital assets across banks, asset managers and regulated financial institutions.\n\n## Who attends\n\nThe forum is designed for finance leaders from the leading regulated crypto-native enterprises and traditional institutions working with digital assets. Speakers and attendees represent those teams, and the forum spans multiple spaces ensuring plenty of networking opportunities for attendees and speakers.",
-    "startDate": "2026-09-22T09:00:00-04:00",
-    "endDate": "2026-09-22T18:00:00-04:00",
-    "city": "New York",
-    "country": "United States",
-    "location": "Tribeca360, 10 Desbrosses Street, New York, NY 10013, USA",
-    "url": "https://cryptofinanceforum.nyc/",
-    "website": "https://cryptofinanceforum.nyc/",
-    "registrationUrl": "https://cryptofinanceforum.nyc/",
-    "descriptionSource": {
-      "url": "https://cryptofinanceforum.nyc/",
-      "fetchedAt": "2026-09-22T12:01:12.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Crypto Finance Forum | Cryptio",
-      "sha256": "5d8919b693b684bcfe10c6016ba4807ccc0ac6ef1cebb5f703a00c079e0a9366"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
     "coverImage": "/events/premier-shaka-biarritz-2026-0a2e39f2.webp",
     "id": "premier-shaka-biarritz-2026",
     "slug": "shaka",

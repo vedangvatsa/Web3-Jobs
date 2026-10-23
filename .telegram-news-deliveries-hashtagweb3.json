@@ -1987,5 +1987,71 @@
     "slotKey": "2026-10-22:afternoon",
     "messageId": 155889,
     "sentAt": "2026-10-22T11:33:36.163Z"
+  },
+  "dc7d5250-88c6-4cfe-8618-a8599fb04dda": {
+    "status": "sent",
+    "reservedAt": "2026-10-22T19:34:58.356Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Drift Protocol exploiters move $61 million to Tornado Cash",
+        "summary": "Hackers deposited 25,700 ETH into the mixer and retain approximately $198 million in stolen assets.",
+        "link": "https://hashtagweb3.com/driftrancho?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Drift exploit wallets push $61 million in ETH to Tornado Cash"
+      },
+      {
+        "index": -1,
+        "headline": "BlackRock proposes third bitcoin ETF with downside protection",
+        "summary": "The proposed fund uses options on IBIT to limit potential losses while capping upside returns.",
+        "link": "https://hashtagweb3.com/pbit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "BlackRock files for third bitcoin ETF, a protected-outcome fund on IBIT"
+      },
+      {
+        "index": -1,
+        "headline": "Visa and Mesh enable stablecoin payments at global merchants",
+        "summary": "Users can now spend crypto balances directly from digital wallets at 175 million locations without a physical card.",
+        "link": "https://hashtagweb3.com/visamesh?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Visa and Mesh let wallets spend stablecoins at 175 million merchants"
+      }
+    ],
+    "slotKey": "2026-10-22:evening",
+    "messageId": 155895,
+    "sentAt": "2026-10-22T19:35:04.304Z"
+  },
+  "0b44b037-9fa3-4390-a777-86bcc06c1ec6": {
+    "status": "sent",
+    "reservedAt": "2026-10-23T03:47:06.977Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Super League Approves Metaplanet Investment and Superplanet Rebrand",
+        "summary": "The company will receive 2,100 BTC and $2.5 million, renaming itself Superplanet with the ticker SUPA.",
+        "link": "https://hashtagweb3.com/superplanet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Super League owners approve Metaplanet's 2,100 BTC deal and Superplanet rebrand"
+      },
+      {
+        "index": -1,
+        "headline": "France to tax crypto-to-stablecoin swaps starting in 2027",
+        "summary": "The measure passed by one vote while officials continue reviewing exit taxes and wallet reporting requirements.",
+        "link": "https://hashtagweb3.com/francetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Assembly backs tax on crypto-to-stablecoin swaps by one vote"
+      },
+      {
+        "index": -1,
+        "headline": "Latvia Approves New Crypto Tax Rules and Declaration Window",
+        "summary": "Latvian lawmakers introduced a 10% tax for declaring crypto assets by 2027 and adopted an investment-account tax system.",
+        "link": "https://hashtagweb3.com/latviatax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Latvia adopts 10% one-time crypto declaration and investment-account tax"
+      }
+    ],
+    "slotKey": "2026-10-23:morning",
+    "messageId": 155898,
+    "sentAt": "2026-10-23T03:47:17.687Z"
   }
 }

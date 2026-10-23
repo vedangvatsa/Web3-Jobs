@@ -913,21 +913,6 @@
       ]
     },
     {
-      "id": "premier-crypto-finance-forum-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://cryptofinanceforum.nyc/",
-        "fetchedAt": "2026-09-20T00:20:38.130Z",
-        "method": "official-section",
-        "pageTitle": "Crypto Finance Forum | Cryptio",
-        "sha256": "5d8919b693b684bcfe10c6016ba4807ccc0ac6ef1cebb5f703a00c079e0a9366"
-      },
-      "previousStartDate": "2026-09-22T09:00:00-04:00",
-      "characters": 507,
-      "preview": "## Agenda\n\nThis session is eligible for up to 1.0 CPE credit (pending approval).View CPE Information\n\n• Institutional adoption of digital assets across banks, asset managers and regulated financial institutions\n\n• Keeping pace with fast‑shifting global regulation and expectations.\n\n• Translating staking, DeFi, stablecoins, tokenized assets and other new primitives activity into clear accounting treatments.\n\n• Building resilient treasury, risk, lending and reporting frameworks that stand up to scrutiny."
-    },
-    {
       "id": "premier-shaka-biarritz-2026",
       "file": "curated-events.json",
       "status": "source-backed",
