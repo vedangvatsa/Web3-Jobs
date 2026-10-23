@@ -4,7 +4,7 @@ import { execFileSync } from 'node:child_process';
 import { parseArgs } from 'node:util';
 import { pathToFileURL } from 'node:url';
 import { discoverNews, readNewsArticles } from './news-discover.mjs';
-import { LEDGER_PATH, RESEARCH_DIR, addResearchCandidate, prepareResearch, readTips, researchReport, reportMarkdown, reviewCandidate, retryUnpublishedDrafts, validateLedger } from './lib/news-research.mjs';
+import { LEDGER_PATH, RESEARCH_DIR, addResearchCandidate, checkpointDraft, prepareResearch, readTips, researchReport, reportMarkdown, reviewCandidate, retryUnpublishedDrafts, validateLedger } from './lib/news-research.mjs';
 import { pushNewsFiles } from './lib/news-publish.mjs';
 
 export function loadResearch(cwd = process.cwd()) {
@@ -101,6 +101,12 @@ async function main() {
     writeResearch(next);
     console.log(JSON.stringify(writeReport(next, current.day).counts));
     checkpoint(current);
+  } else if (action === 'checkpoint') {
+    const current = currentRun();
+    const sourceChecks = ['read', 'blocked', 'unavailable'].flatMap(outcome => (values[outcome] || []).map(url => ({ url, outcome })));
+    const progress = checkpointDraft(ledger, current.day, { id: values.id, articleSlug: values.article, note: values.note, sourceChecks });
+    writeResearch(ledger); writeReport(ledger, current.day); checkpoint(current);
+    console.log(JSON.stringify(progress));
   } else if (action === 'record') {
     const current = currentRun(), { day } = current;
     const sourceChecks = ['read', 'blocked', 'unavailable'].flatMap(outcome => (values[outcome] || []).map(url => ({ url, outcome })));
@@ -115,6 +121,6 @@ async function main() {
       : fs.readFileSync(path.join(RESEARCH_DIR, 'queue.json'), 'utf8'));
   } else if (action === 'report') {
     const { day } = currentRun(); console.log(reportMarkdown(writeReport(ledger, day)));
-  } else throw new Error('Use prepare, add, queue, record, record-batch or report');
+  } else throw new Error('Use prepare, add, queue, checkpoint, record, record-batch or report');
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) main().catch(error => { console.error(error.message); process.exitCode = 1; });

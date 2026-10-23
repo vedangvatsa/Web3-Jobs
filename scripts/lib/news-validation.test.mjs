@@ -4,7 +4,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import test from 'node:test';
 import { addResearchCandidate, prepareResearch, reviewCandidate } from './news-research.mjs';
-import { validateNewsDrafts } from './news-validation.mjs';
+import { validateNewsDrafts, preserveUnpublishedNewsOutputs } from './news-validation.mjs';
 import { validateNewsRun } from '../validate-news-run.mjs';
 
 function fixture(t, { articleSlug = 'new-story', publishedBody = 'Existing reporting' } = {}) {
@@ -270,7 +270,7 @@ test('all protected paths, symlinks and quarantine destinations are checked befo
     'unrelated article': f => f.write('content/articles/guide.md', '---\ncategory: Careers\n---\nNot a News draft.'),
     'unrelated code': f => f.write('content/articles/helper.mjs', 'export const value = 1;'),
     'generated data': f => f.write('public/images/news/generated.json', '{}'),
-    'unowned image': f => f.write('public/images/news/orphan.jpg', 'Not tied to any new draft'),
+    'ignored image': f => { f.write('.gitignore', 'public/images/news/orphan.jpg\n'); f.write('public/images/news/orphan.jpg', 'Ignored file is not owned'); },
     'ready image symlink': f => {
       fs.unlinkSync(path.join(f.cwd, 'public/images/news/new-story.jpg'));
       fs.symlinkSync('published-story.jpg', path.join(f.cwd, 'public/images/news/new-story.jpg'));
@@ -332,6 +332,54 @@ test('persisted feedback refuses unsafe paths without rewriting ledger, reports 
   const result = validateNewsRun({ cwd: f.cwd, persist: true, publishReadyBatch: true, audit: () => assert.fail('Unsafe output') });
   assert.equal(result.draftsValid, false); assert.match(result.fatalErrors.join('\n'), /Symlink/);
   assert.deepEqual(tree(f.cwd), before);
+});
+
+test('October 23 orphan images are retained exactly and never block an audited ready batch or approve an empty batch', t => {
+  for (const ready of [true, false]) {
+    const f = fixture(t), bytes = Buffer.from([0, 255, 4, 6, 128]);
+    if (!ready) { delete f.ledger.runs[f.context.day].outcomes[f.id]; f.ledger.candidates[f.id].status = 'pending'; }
+    const before = JSON.stringify(f.ledger);
+    for (const slug of ['robinhooddifc', 'tetherhines']) f.write(`public/images/news/${slug}.jpg`, bytes);
+    const result = validateNewsDrafts({ ...f, publishReadyBatch: true, audit: () => { assert.equal(ready, true); return []; } });
+    assert.deepEqual(result.fatalErrors, []);
+    assert.equal(result.draftsValid, ready);
+    assert.equal(result.audited, ready);
+    assert.equal(JSON.stringify(f.ledger), before);
+    const manifest = JSON.parse(fs.readFileSync(path.join(f.cwd, result.stagingManifest), 'utf8'));
+    for (const slug of ['robinhooddifc', 'tetherhines']) {
+      const file = `public/images/news/${slug}.jpg`, entry = manifest.files.find(entry => entry.path === file);
+      assert.equal(entry.orphanImage, true); assert.equal(entry.ownerRequired, true);
+      assert.equal(entry.approved, false); assert.equal(entry.mustReview, true);
+      assert.equal(result.draftPaths.includes(file), false);
+      assert.equal(fs.existsSync(path.join(f.cwd, file)), false);
+      assert.deepEqual(fs.readFileSync(path.join(f.cwd, entry.recoveryPath)), bytes);
+    }
+    assert.deepEqual(validateNewsDrafts({ ...f, publishReadyBatch: true, audit: () => [] }).fatalErrors, []);
+  }
+});
+
+test('unpublished work is snapshotted even when protected edits block publication, without moving or approving anything', t => {
+  const f = fixture(t); f.write('protected-code.mjs', 'Unsafe writer change');
+  f.write('public/images/news/orphan.jpg', 'Partial output');
+  const source = fs.readFileSync(path.join(f.cwd, 'content/articles/new-story.md'));
+  const result = preserveUnpublishedNewsOutputs(f);
+  assert.equal(result.approved, false);
+  assert.ok(result.preservedPaths.includes('public/images/news/orphan.jpg'));
+  assert.deepEqual(fs.readFileSync(path.join(f.cwd, '.cache/news-research/recovery/content/articles/new-story.md')), source);
+  assert.deepEqual(fs.readFileSync(path.join(f.cwd, 'content/articles/new-story.md')), source);
+  assert.equal(fs.existsSync(path.join(f.cwd, '.cache/news-research/recovery/public/images/news/published-story.jpg')), false);
+  assert.ok(validateNewsDrafts({ ...f, publishReadyBatch: true, audit: () => assert.fail('Protected edits still block') }).fatalErrors.length);
+});
+
+test('snapshot refuses active writers and symlinked outputs before writing recovery files', t => {
+  for (const unsafe of ['writer', 'symlink']) {
+    const f = fixture(t);
+    if (unsafe === 'writer') f.write('.cache/news-research/writer-state.json', JSON.stringify({ day: f.context.day, state: 'running' }));
+    else fs.symlinkSync('published-story.jpg', path.join(f.cwd, 'public/images/news/orphan.jpg'));
+    const before = tree(f.cwd);
+    assert.throws(() => preserveUnpublishedNewsOutputs(f));
+    assert.deepEqual(tree(f.cwd), before);
+  }
 });
 
 function realAudits(t, f, { status = 200, typeError = false } = {}) {

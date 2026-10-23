@@ -98,6 +98,21 @@ export function addResearchCandidate(ledger, day, { title, link, published, sour
   return id;
 }
 
+export function checkpointDraft(ledger, day, progress, { now = Date.now() } = {}) {
+  const run = ledger.runs[day], item = ledger.candidates[progress.id];
+  if (!run || closed(run) || !item || !run.candidateIds.includes(progress.id) || run.outcomes[progress.id]
+    || item.status === 'published' || item.publishedAt) throw new Error('Draft checkpoint requires a pending candidate in the open daily queue');
+  if (!/^[a-z0-9]+(?:-[a-z0-9]+)?$/.test(progress.articleSlug || '') || run.baselineSlugs.includes(progress.articleSlug)) throw new Error('Draft checkpoint needs a new article slug');
+  if (item.articleSlug && item.articleSlug !== progress.articleSlug) throw new Error('Draft ownership cannot change through a checkpoint');
+  if (Object.values(ledger.candidates).some(other => other.id !== item.id && other.articleSlug === progress.articleSlug)) throw new Error('Another candidate owns this draft');
+  if (typeof progress.note !== 'string' || progress.note.trim().length < 25) throw new Error('Describe the unfinished work specifically');
+  const checks = progress.sourceChecks;
+  if (!Array.isArray(checks) || !checks.length || checks.some(check => !canonicalNewsUrl(check.url) || !['read', 'blocked', 'unavailable'].includes(check.outcome))) throw new Error('Draft checkpoint requires actual source checks');
+  item.articleSlug = progress.articleSlug;
+  item.draftProgress = { id: item.id, day, articleSlug: progress.articleSlug, note: progress.note.trim(), sourceChecks: structuredClone(checks), updatedAt: iso(now), approved: false, mustReview: true };
+  return item.draftProgress;
+}
+
 export function reviewCandidate(ledger, day, review, { articles, now = Date.now() } = {}) {
   const run = ledger.runs[day], item = ledger.candidates[review.id];
   if (!run || closed(run) || !item || !run.candidateIds.includes(review.id)) throw new Error('Candidate is not in the open daily research queue');

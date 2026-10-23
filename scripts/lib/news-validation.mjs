@@ -74,6 +74,7 @@ function retainDrafts({ cwd, context, snapshots, pending, tracked, baseline, pub
       if (!manifest.files.some(entry => entry.path === file && entry.sha256 === sha256)) manifest.files.push({
         path: file, recoveryPath, sha256, bytes: bytes.length, articleSlug: owner.articleSlug, candidateId: owner.candidateId,
         status: 'pending', approved: false, mustReview: true, ownerRequired: !owner.candidateId,
+        ...(owner.orphanImage ? { orphanImage: true } : {}),
       });
     }
     plan(STAGING_MANIFEST, Buffer.from(`${JSON.stringify(manifest, null, 2)}\n`));
@@ -94,6 +95,33 @@ function retainDrafts({ cwd, context, snapshots, pending, tracked, baseline, pub
   unchangedSources();
   for (const file of pending.keys()) fs.unlinkSync(path.join(cwd, file));
   return { quarantinedPaths: [...pending.keys()], stagingManifest: manifest ? STAGING_MANIFEST : null };
+}
+
+export function preserveUnpublishedNewsOutputs({ context, ledger, cwd = process.cwd() }) {
+  if (!/^[a-f0-9]{40}$/.test(context.baseSha || '') || !fs.lstatSync(cwd).isDirectory()) throw new Error('Invalid news recovery checkout');
+  cwd = fs.realpathSync(cwd);
+  const git = args => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 }).split('\0').filter(Boolean);
+  if (git(['rev-parse', 'HEAD'])[0].trim() !== context.baseSha) throw new Error('Cannot preserve after writer changed Git history');
+  const marker = checkedPath(cwd, `${RESEARCH_DIR}/writer-state.json`);
+  if (marker) {
+    const state = JSON.parse(fs.readFileSync(marker, 'utf8'));
+    if (state.day !== context.day || state.state !== 'stopped') throw new Error('Cannot preserve outputs while writer shutdown is unconfirmed');
+  }
+  const baseline = new Set(git(['ls-tree', '-r', '--name-only', '-z', context.baseSha]));
+  const tracked = new Set(git(['ls-files', '-z']));
+  const published = new Set(ledger.runs[context.day].baselineSlugs);
+  for (const item of [...Object.values(ledger.candidates), ...Object.values(ledger.runs).flatMap(run => Object.values(run.outcomes))]) {
+    if ((item.status === 'published' || item.publishedAt) && item.articleSlug) published.add(item.articleSlug);
+  }
+  const snapshots = new Map();
+  for (const file of git(['ls-files', '--others', '--exclude-standard', '-z', '--', 'content/articles', 'public/images/news'])) {
+    const match = file.match(articlePath) || file.match(imagePath);
+    if (!match || baseline.has(file) || published.has(match[1])) continue;
+    const source = checkedPath(cwd, file);
+    if (source) snapshots.set(file, fs.readFileSync(source));
+  }
+  retainDrafts({ cwd, context, snapshots, pending: new Map(), tracked, baseline, publishReadyBatch: false });
+  return { preservedPaths: [...snapshots.keys()], approved: false };
 }
 
 export function validateNewsDrafts({ context, ledger, cwd = process.cwd(), audit = auditDrafts, publishReadyBatch = false }) {
@@ -190,8 +218,12 @@ export function validateNewsDrafts({ context, ledger, cwd = process.cwd(), audit
     if (draftPaths.includes(file)) continue;
     const image = file.match(imagePath);
     if (!image || readyOutputSlugs.has(image[1])) continue;
-    if (pendingSlugs.has(image[1]) && untracked.has(file) && !tracked.has(file) && !published(file)) pending.set(file, pendingSlugs.get(image[1]));
-    else fatal(`Image has no safely quarantinable News draft: ${file}`);
+    if (untracked.has(file) && !tracked.has(file) && !published(file) && snapshots.has(file)) {
+      const owners = ledger.runs[day].candidateIds.filter(id => ledger.candidates[id].articleSlug === image[1]);
+      pending.set(file, pendingSlugs.get(image[1]) || {
+        articleSlug: image[1], candidateId: owners.length === 1 ? owners[0] : null, orphanImage: true,
+      });
+    } else fatal(`Image is not a safe unpublished output: ${file}`);
   }
   if (!fatalErrors.length) {
     try {

@@ -44,7 +44,8 @@ export function researchAssignment(ledger, day, { round, idle = 0, batchSize = 8
   const drafts = new Map((restored?.drafts || []).map(draft => [draft.id, draft]));
   const pending = run.candidateIds.filter(id => !run.outcomes[id]).map(id => ledger.candidates[id]);
   pending.sort((a, b) => Number(Boolean(b.manual)) - Number(Boolean(a.manual))
-    || Number(drafts.has(b.id)) - Number(drafts.has(a.id))
+     || Number(drafts.has(b.id)) - Number(drafts.has(a.id))
+     || Number(b.draftProgress?.day === day) - Number(a.draftProgress?.day === day)
     || (b.sources?.length || 0) - (a.sources?.length || 0) || (b.score || 0) - (a.score || 0));
   return { day, round, totalPending: pending.length, retryingWithoutProgress: idle > 0,
     candidates: pending.slice(0, idle > 0 ? 1 : batchSize).map(candidate => drafts.has(candidate.id)
@@ -167,7 +168,7 @@ export async function runNewsResearch({ cwd = process.cwd(), env = process.env, 
     repair: (feedback, round) => {
       if (publicationComplete()) return;
       const prompt = `This is validation repair ${round} of the same daily news batch, with at most ${budget.repairTimeoutMs / 60_000} minutes. The coordinator's actual validator found the following errors; a previous writer's success claim is not a passing result. Read .cache/news-research/validation.json and repair the unpublished ready drafts. If there are no ready drafts, finish verifying a preserved draft or a pending candidate; publication requires at least one genuinely audited ready article. Checkpoint every actual outcome immediately. Add only facts verified in opened sources, never padding for a word count. For unavailable sources, research readable primary and independent alternatives; if the story cannot pass, record a specific quality-gate/source deferral and move only your unpublished files to recovery. Unreviewed backlog is not a validation error: leave it pending, never manufacture reviews or bulk deferrals. Do not alter validators, thresholds, workflows, code, generated catalogues, published articles or Git history. Do not commit, push, deploy, launch servers, background or detach commands, or signal processes. Return after saving the repairs; the coordinator stops writer tools and independently revalidates before publication.\n\n${JSON.stringify(feedback, null, 2)}\n\n${brief}`;
-      return write(prompt, budget.repairTimeoutMs);
+      return write(`${prompt}\n\nRead .cache/news-research/recovery/staging.json if present. It lists exact preserved pending draft/image paths; entries are NOT approved. Restore only the selected draft and matching image to their original paths for repair, identify the correct pending candidate from real sources, then record its genuine review outcome. Images marked orphanImage have no completed draft and must not enter the publishable batch. Leave other retained outputs untouched.`, budget.repairTimeoutMs);
     },
   });
 }

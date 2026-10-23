@@ -47,6 +47,20 @@ useful work. Unfinished candidates remain genuinely pending for a later batch;
 never record a deferral just because time ran out. Do not repeatedly dump the
 full ledger or redo candidates whose outcomes are already recorded.
 
+Before downloading an article image or starting a draft, save its candidate/slug
+ownership and the source checks completed so far:
+
+```sh
+node scripts/news-research.mjs checkpoint --id=<candidate-id> --article=<short-slug> --note="Read the filing; the second source and final draft still need verification." --read=https://source.example/filing
+```
+
+This records unfinished work, not a ready review. Update it as research progresses.
+Resume an assigned candidate's `draftProgress` and any existing draft/image before
+starting fresh downloads. Keep original image downloads in scratch; only the
+article-specific final image belongs in `public/images/news/`. A partial image
+does not justify marking a story ready. After writing the complete draft, record
+the ready outcome immediately rather than waiting for the entire assignment.
+
 The availability pass records temporary source-blocked deferrals only after actual
 GET denials for every known URL. Its report is `.cache/news-research/source-readiness.json`.
 Those checks are not source reads or factual verification. Accessible alternatives

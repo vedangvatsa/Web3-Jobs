@@ -433,6 +433,11 @@ jobs:
         continue-on-error: true
         run: node scripts/publish-news-run.mjs --dry-run
 
+      - name: Snapshot unpublished outputs independently of validation
+        if: ${{ always() && steps.research.outcome == 'success' }}
+        continue-on-error: true
+        run: node scripts/preserve-news-drafts.mjs
+
       - name: Preserve news research and draft recovery
         if: always()
         uses: actions/upload-artifact@v4

@@ -97,6 +97,21 @@ test('restores exact draft/image bytes and source checks for re-review without c
   assert.deepEqual(manifest.recoverySource, { artifact: fs.realpathSync(f.artifact), reportSha256: createHash('sha256').update(f.read(f.artifact, `${RESEARCH}/report.json`)).digest('hex') });
 });
 
+test('same-day unfinished checkpoints restore draft bytes without restoring any ready approval', t => {
+  const f = fixture(t);
+  resetOutcome(f, f.record);
+  const candidate = f.ledger.candidates[f.record.id];
+  delete candidate.lastReviewedDay;
+  delete candidate.sourceChecks;
+  candidate.draftProgress = { id: f.record.id, articleSlug: 'story', day: DAY, sourceChecks: f.record.sourceChecks, note: 'Source work is partial; final checks remain unfinished.', approved: false, mustReview: true };
+  f.persist();
+  assert.deepEqual(restoreNewsDrafts(f), { drafts: 1, files: 2 });
+  const restored = f.manifest().drafts[0];
+  assert.equal(restored.status, 'unreviewed'); assert.equal(restored.approved, false);
+  assert.equal(restored.recoveryReview, undefined);
+  assert.deepEqual(restored.sourceChecks, f.record.sourceChecks);
+});
+
 test('recovers all 22 owned drafts from a same-day artifact, flagging 18 older-dated drafts for re-review', t => {
   const f = fixture(t), records = [f.record];
   for (let i = 1; i < 22; i++) records.push(f.addDraft(`story${i}`, { publishedDate: i >= 2 && i < 20 ? '2026-10-18' : DAY }));

@@ -7,7 +7,7 @@ import { EventEmitter } from 'node:events';
 import { runResearchRounds, runValidatedResearch, researchAssignment, newsWriterRuntime, newsResearchBudget, runNewsResearch } from './run-news-research.mjs';
 import { runNewsWriterProcess } from './news-writer-process.mjs';
 import { assignedResearchQueue, prepareDailyResearch, loadResearch, writeResearch } from './news-research.mjs';
-import { finalizeResearch, researchReport } from './lib/news-research.mjs';
+import { checkpointDraft, finalizeResearch, researchReport } from './lib/news-research.mjs';
 
 function pendingLedger(count = 21) {
   const candidates = Object.fromEntries(Array.from({ length: count }, (_, i) => [String(i), { id: String(i), title: `Candidate ${i}`, sources: [{ url: `https://example.com/${i}` }] }]));
@@ -78,6 +78,25 @@ test('recovery reviews preserved drafts before fresh leads without approving or 
   assert.deepEqual(assignment.candidates[0].restoredDraft, draft);
   assert.equal(JSON.stringify(ledger), before);
   assert.throws(() => researchAssignment(ledger, day, { restored: { day: '2026-10-21', drafts: [draft] } }), /assignment date/);
+});
+
+test('draft checkpoints retain resumable evidence without counting as reviewed or ready', () => {
+  const ledger = pendingLedger(), day = '2026-10-22';
+  ledger.runs[day].baselineSlugs = ['published'];
+  const progress = { id: '20', articleSlug: 'unfinished', note: 'Read the filing; the independent report and draft still need review.', sourceChecks: [{ url: 'https://source.example/filing', outcome: 'read' }] };
+  const before = JSON.stringify(ledger.runs[day].outcomes);
+  checkpointDraft(ledger, day, progress);
+  assert.equal(JSON.stringify(ledger.runs[day].outcomes), before);
+  assert.equal(ledger.candidates['20'].draftProgress.approved, false);
+  assert.equal(ledger.candidates['20'].draftProgress.mustReview, true);
+  assert.equal(researchAssignment(ledger, day, { round: 2, idle: 1 }).candidates[0].id, '20');
+  for (const invalid of [{ ...progress, articleSlug: 'published' }, { ...progress, articleSlug: 'changed' }, { ...progress, id: '19' }, { ...progress, sourceChecks: [] }]) {
+    const snapshot = JSON.stringify(ledger);
+    assert.throws(() => checkpointDraft(ledger, day, invalid));
+    assert.equal(JSON.stringify(ledger), snapshot);
+  }
+  ledger.runs[day].outcomes['20'] = { status: 'ready' };
+  assert.throws(() => checkpointDraft(ledger, day, progress), /pending candidate/);
 });
 
 test('assigned queue reads current ledger state and refuses foreign, duplicate or wrong-day assignments', () => {

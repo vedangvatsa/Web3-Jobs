@@ -105,6 +105,11 @@ export function restoreNewsDrafts({ artifact, cwd = process.cwd(), reportOnly = 
   for (const item of report.outcomes) if (item.articleSlug !== undefined && !safeSlug(item.articleSlug)) throw new Error('Unsafe recovery article slug');
   for (const [id, item] of Object.entries(ledger?.candidates || {})) {
     if (!item.articleSlug || !dailyIds.has(id)) continue;
+    if (item.draftProgress?.day === current.day) {
+      const progress = item.draftProgress;
+      if (progress.id !== id || progress.articleSlug !== item.articleSlug || progress.approved !== false || progress.mustReview !== true || !hasSourceChecks(progress)) throw new Error('Invalid unfinished draft checkpoint');
+      addOwner(progress, 'draft-checkpoint');
+    }
     const outcome = report.outcomes.find(entry => entry.id === id && entry.articleSlug === item.articleSlug) || run?.outcomes[id];
     if (item.lastReviewedDay === current.day || outcome?.articleSlug === item.articleSlug) {
       if (item.id !== id) throw new Error('Invalid recovery candidate owner');
