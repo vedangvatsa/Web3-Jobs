@@ -6707,7 +6707,7 @@
     "sentAt": "2026-10-20T11:32:32.978Z"
   },
   "ef9d989f-5941-4296-82e4-87526ad1a631": {
-    "status": "reserved",
+    "status": "rejected",
     "reservedAt": "2026-10-21T11:31:42.562Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -6821,6 +6821,15 @@
       }
     ],
     "message": "- Open Standard is hiring <a href=\"https://hashtagweb3.com/lcm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Liquidity and Capital Markets</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cashiering Support Associate</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/pm254?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager - Trading API</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/sec119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer - xStocks</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/sls291?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance &amp; Accounting Analyst</a>",
-    "slotKey": "2026-10-21:afternoon"
+    "slotKey": "2026-10-21:afternoon",
+    "rejectedAt": "2026-10-23T12:26:05.567Z",
+    "rejectedReason": "reconciled as never-sent: After the reservation was written and persisted, deliverJobsOnce's post-reservation preflight (verifyJobsDigest -> assertPublishableJobs) re-fetched an employer application page and failed with a redirect mismatch. The process exited with code 1 at 2026-10-21T11:31:44.691Z, before the sendMessage call. The run log contains no 'Telegram accepted' line for @web3hiring or @jobsweb3; the only accepted line in that run is for the separate group-thread leg (message ID 155870) which uses a different ledger. The receipt has no messageId or sentAt, and the last confirmed @web3hiring message is 16557 from 2026-10-20T11:32:32Z.",
+    "reconciliation": {
+      "reconciledAt": "2026-10-23T12:26:05.567Z",
+      "evidenceRunId": "39592405279",
+      "evidenceJobId": "119196560293",
+      "evidenceLogLine": "Employer application unverified: redirected job title or company does not match",
+      "evidenceLogUrl": "https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39592405279/job/119196560293"
+    }
   }
 }
