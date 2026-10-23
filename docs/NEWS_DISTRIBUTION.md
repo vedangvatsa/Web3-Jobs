@@ -8,6 +8,8 @@ These details are for applications; account approval and legal agreements remain
 
 ## Website delivery
 
+The RSS feed and news sitemap were deployed in run `39921126214` on October 23, 2026. Live checks confirmed HTTP 200 for both: 100 RSS items and 34 recent news sitemap entries, including all seven articles from that day's recovered publication.
+
 - `/news/feed.xml`: RSS 2.0 summaries of the latest 100 native News articles, canonical links, original dates, author and images. External syndicated headlines are excluded. Invalid dates and future articles are excluded.
 - `/news/sitemap.xml`: Google News sitemap containing only native news published within the last 48 hours, with original dates and publication metadata. Advertised in robots.txt. Older articles remain discoverable through the main sitemap.
 - News pages already emit `NewsArticle` JSON-LD. Native news metadata now permits large image previews.
