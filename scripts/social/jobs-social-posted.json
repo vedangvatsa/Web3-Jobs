@@ -45124,6 +45124,46 @@
       "attemptId": "83b15c85-deff-4e2f-860d-47abbfff0907",
       "verification": "verified",
       "postId": "0xd5801fa4b0bb0bcd39720f7f12ad4cf7cce3e6de"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec47/li?og=7",
+          "title": "Executive Recruiter at Hut 8",
+          "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec47.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "b2c4a620-15d5-4136-9e9a-3b1d755ae25a",
+      "verification": "creating"
     }
   ]
 }
