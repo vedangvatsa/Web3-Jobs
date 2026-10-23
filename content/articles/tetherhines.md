@@ -1,0 +1,28 @@
+---
+title: Senate investigator demands records of Tether payments to Bo Hines firm
+ogTitle: "SENATE INVESTIGATOR DEMANDS TETHER RECORDS"
+description: Blumenthal wrote to Tether and to Nxum Group on Oct. 22 seeking contracts, payment and lobbying records tied to the millions the stablecoin issuer paid to the firm co-founded by Bo Hines.
+image: /images/news/tetherhines.jpg
+imageCaption: "Senator Richard Blumenthal at the 2021 inauguration of President Joe Biden. Photo: Richard Blumenthal via Wikimedia Commons (Public domain)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Richard%20Blumenthal%20at%20the%202021%20inauguration%20of%20Joe%20Biden%2002.jpg
+category: News
+data-ai-hint: senator portrait outdoors
+publishedDate: '2026-10-23'
+lastUpdated: '2026-10-23'
+---
+
+Senator Richard Blumenthal sent letters on Oct. 22 to Tether chief executive Paolo Ardoino and to Todd Hines, the chief executive of Nxum Group, demanding all records of contracts, payments, communications and lobbying between the stablecoin issuer and the consulting firm co-founded by his son, Bo Hines. The letter addressed to Nxum sets a Nov. 3 deadline for a response, and the letter to Tether gives the company until Nov. 6, [the Senate press release shows](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-investigates-tethers-multimillion-dollar-payment-to-consulting-firm-owned-by-white-house-official-who-previously-led-crypto-policy).
+
+"Tether's alleged multimillion-dollar payment to a firm controlled by the White House official primarily responsible for cryptocurrency policy implicates federal ethics, anticorruption, and lobbying laws," Blumenthal wrote. Blumenthal is the ranking Democrat on the Senate Permanent Subcommittee on Investigations, and he said the inquiry is examining the use of cryptocurrencies alongside the Trump administration's dealings with crypto firms. Bo Hines served as executive director of the Presidential Council of Advisers for Digital Assets after his appointment in December 2024, and he now leads Tether's U.S. arm, [CoinDesk reported](https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm).
+
+The payments trace back to a May 2025 deal, the letter states. Citing a Wall Street Journal investigation dated Oct. 14, Blumenthal wrote that Tether hired Nxum to develop a "strategic brand and public affairs plan" and agreed to pay the firm $415,000 a month after Nxum pitched a "strategic lobbying and a full scale public relations and media awareness campaign." The letter says more than $6 million flowed from Tether into Nxum while Hines held a one-third stake in the firm that he did not divest.
+
+The letter also alleges coordination over the GENIUS Act, the federal stablecoin law moving through Congress during Hines's White House tenure. Messages reviewed by the Journal, as cited in the letter, show Tether working directly with Nxum on lobbying for the law, with Ardoino demanding that Nxum "obliterate" its opponents. Hines, the letter says, lobbied for changes that would let Tether keep operating outside the United States and gain more time to reach compliance, provisions the letter calls the "Tether loophole." The subcommittee is asking Nxum why it never registered lobbying activity with either chamber of Congress.
+
+The payments did not flow straight to Nxum. The letter says Tether contracted through a marketing firm called Notorious and paid in cryptocurrency, and the firm's director, Peter Vincer, passed the money to Nxum, where it was split three ways. After Hines left the White House, Tether began contracting with Nxum directly, and Nxum later offered Vincer more than $300,000 and a share of future Tether payments in exchange for a nondisclosure agreement. Within days of his departure, Tether announced it had hired Hines and ultimately named him chief executive of its new U.S. operations. The letter adds that Nxum has recently sought further investment on the claim that Tether plans to buy a 25 percent stake for $56 million.
+
+Tether said it had already looked into the underlying allegations. "Tether is aware of the allegations reported in The Wall Street Journal that form the basis of Senator Blumenthal's letter," [the company said](https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm). "External counsel previously conducted an in-depth internal investigation into the matter, which found no evidence of wrongdoing."
+
+CoinDesk had previously reported that Hines's firm was the main campaign-advertising provider for a political action committee associated with Tether. Nxum has since hired Harry Jung, another former White House crypto adviser, and the office that advised Trump on crypto policy has sat empty since Patrick Witt, who replaced Hines as its executive director, departed. Blumenthal has pressed Tether on other fronts this year, releasing a subcommittee report on the company's financial links to Iran and seeking answers about its relationship with its U.S. financial partner, Cantor Fitzgerald; [Ardoino criticized the senator's methods this week](https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm), saying Blumenthal shared his report with the press before giving the company a chance to respond.
+
+The records requests cover payments, wallet addresses tied to crypto transfers, contracts with Bo Hines between Jan. 20, 2025 and Aug. 9, 2025, and all communications with Notorious. The subcommittee wants Nxum's response by Nov. 3 and Tether's by Nov. 6.
