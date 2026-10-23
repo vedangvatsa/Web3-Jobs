@@ -48313,7 +48313,8 @@
       },
       "account": "channel:base",
       "attemptId": "794adc0a-d936-43ec-9f4d-bef44b8c784d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf83fab5af3c1ea5254530d3b7ae82a041b30ccfd"
     }
   ]
 }
