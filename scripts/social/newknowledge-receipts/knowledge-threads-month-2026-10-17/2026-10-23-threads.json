@@ -113,5 +113,11 @@
   "claimId": "94d51ca0-891c-46bd-90a5-e4c24499b658",
   "startedAt": "2026-10-23T11:31:55.752Z",
   "status": "claimed",
-  "steps": {}
+  "steps": {
+    "0": {
+      "createClaim": "5defec45-ad4a-42dc-bd1c-e4c8d14ad3ba",
+      "startedAt": "2026-10-23T11:31:57.071Z",
+      "status": "claimed"
+    }
+  }
 }
