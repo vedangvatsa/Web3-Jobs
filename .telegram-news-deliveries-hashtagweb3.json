@@ -2088,7 +2088,7 @@
     "sentAt": "2026-10-23T11:33:01.163Z"
   },
   "4762c3b8-b87b-4f60-8438-9bba3dba1881": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T19:33:01.682Z",
     "stories": [
       {
@@ -2116,6 +2116,8 @@
         "originalTitle": "Bank Negara Malaysia launches SSDS+ platform for tokenized bonds and sukuk"
       }
     ],
-    "slotKey": "2026-10-23:evening"
+    "slotKey": "2026-10-23:evening",
+    "messageId": 155904,
+    "sentAt": "2026-10-23T19:33:11.153Z"
   }
 }
