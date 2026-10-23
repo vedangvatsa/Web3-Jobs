@@ -45724,7 +45724,8 @@
       },
       "account": "channel:base",
       "attemptId": "497f7ce8-cbca-45dd-8e46-06bcb08046f0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x84ffb6add496cd2750997168ab892c47ce2e4988"
     }
   ]
 }
