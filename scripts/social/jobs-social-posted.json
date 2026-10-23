@@ -45017,7 +45017,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a4b2e4fe-4f5d-4bc9-8617-c5f299a71ad5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5aa48fda5913f7e9cd8b0063e0f1f194e04ca023"
     }
   ]
 }
