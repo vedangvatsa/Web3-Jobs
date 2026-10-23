@@ -81087,11 +81087,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b36f2304bc26a43ce1eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T00:57:19.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "out-of-scope",
+      "note": "Opened the article: a state Senate endorsement of Mike Rogers with no crypto, Web3 or prediction-market content. Not news for a Web3 site.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/michigan-democrat-endorses-gops-mike-rogers-in-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:08:53.808Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "3901d8cdd0ff8dab1b8a": {
       "source": "BeInCrypto",
@@ -81169,11 +81179,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "463e6f8b99702a109dc3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T23:05:58.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "out-of-scope",
+      "note": "Opened the article: a Supreme Court student-ID voting ruling in New Hampshire with no crypto or Web3 angle anywhere in the text.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/supreme-court-blocks-student-ids-for-voting-in-nh-aiding-gop-in-2026-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:08:53.808Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "fdd4df02c4e432d4c123": {
       "source": "Cointelegraph",
@@ -81211,11 +81231,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b5f481e44d2e22e8932",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T22:16:33.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "out-of-scope",
+      "note": "Opened the article: a Fox News poll showing a tied Maine Senate race; no crypto or Web3 content, and a poll is not a concrete event for this site.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/collins-and-jackson-tied-in-maine-senate-race-fox-news-poll/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:08:53.808Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "b3ab2997f84c456f5f56": {
       "source": "Crypto Briefing",
@@ -81232,11 +81262,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3ab2997f84c456f5f56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T22:00:45.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "out-of-scope",
+      "note": "Opened the article: an NRSC attack on Iowa candidate Josh Turek over a farm vote record; purely electoral, no crypto or Web3 angle.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nrsc-attacks-iowa-senate-candidate-josh-turek-over-farm-vote-record/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:08:53.808Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "0c3e0f21a9373bc03373": {
       "source": "CryptoSlate",
@@ -143984,6 +144024,54 @@
           ],
           "reviewedAt": "2026-10-23T09:07:51.503Z",
           "duplicateOf": "occgenius"
+        },
+        "b36f2304bc26a43ce1eb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Opened the article: a state Senate endorsement of Mike Rogers with no crypto, Web3 or prediction-market content. Not news for a Web3 site.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/michigan-democrat-endorses-gops-mike-rogers-in-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:08:53.808Z"
+        },
+        "463e6f8b99702a109dc3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Opened the article: a Supreme Court student-ID voting ruling in New Hampshire with no crypto or Web3 angle anywhere in the text.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/supreme-court-blocks-student-ids-for-voting-in-nh-aiding-gop-in-2026-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:08:53.808Z"
+        },
+        "8b5f481e44d2e22e8932": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Opened the article: a Fox News poll showing a tied Maine Senate race; no crypto or Web3 content, and a poll is not a concrete event for this site.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/collins-and-jackson-tied-in-maine-senate-race-fox-news-poll/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:08:53.808Z"
+        },
+        "b3ab2997f84c456f5f56": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Opened the article: an NRSC attack on Iowa candidate Josh Turek over a farm vote record; purely electoral, no crypto or Web3 angle.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nrsc-attacks-iowa-senate-candidate-josh-turek-over-farm-vote-record/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:08:53.808Z"
         }
       },
       "baselineSlugs": [
