@@ -49101,7 +49101,8 @@
       },
       "account": "channel:build",
       "attemptId": "c4eed29b-69ad-43e2-b775-209c0981ecd7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd3e01e486bea99e134847b16f742c6b05907a570"
     }
   ]
 }
