@@ -46010,8 +46010,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "9a08ca7c-e70a-4640-872b-0e95c0d02978",
-      "verification": "pending",
-      "postId": "6adad92d535235087b7d4efc"
+      "verification": "verified",
+      "postId": "6adad92d535235087b7d4efc",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519243550752985088"
     }
   ]
 }
