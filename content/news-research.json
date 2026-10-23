@@ -73178,7 +73178,30 @@
       "reviewedAt": "2026-10-22T11:04:31.829Z",
       "articleSlug": "binanceperp",
       "lastReviewedDay": "2026-10-22",
-      "lastValidationErrors": []
+      "lastValidationErrors": [],
+      "draftProgress": {
+        "id": "2ba7d71759c6d5852e5c",
+        "day": "2026-10-23",
+        "articleSlug": "binanceperp",
+        "note": "Re-read Unchained, Blue Ocean status page and Seoul Economic Daily on Oct 23. Draft and image remain.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.blueocean-tech.io/blue-ocean-ats-service-status/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://en.sedaily.com/finance/2026/10/21/us-blue-ocean-outage-disrupts-daytime-quotes-for-korean",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-23T08:45:01.191Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "5a09ce3eaeb9d8533e3f": {
       "source": "CryptoSlate",
