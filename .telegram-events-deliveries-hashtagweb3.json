@@ -3037,5 +3037,52 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 155900,
     "sentAt": "2026-10-23T11:31:51.971Z"
+  },
+  "88dab7c1-9208-4d24-a812-219aaabc0846": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:32:05.342Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-XFoMM2nGSakEMj8",
+        "slug": "mid-chain-conference-blockchain-decentralized-economics",
+        "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
+        "startDate": "2026-10-26T06:45:00.000Z",
+        "keys": [
+          "discovery-evt-xfomm2ngsakemj8",
+          "page:mid-chain-conference-blockchain-decentralized-economics:2026-10-26",
+          "luma:evt-xfomm2ngsakemj8",
+          "luma-url:/rzaklefv",
+          "event:midchainconferenceblockchaindecentralizedeconomics:2026-10-26:be'er sheva"
+        ]
+      },
+      {
+        "id": "mu-316869344",
+        "slug": "crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts",
+        "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
+        "startDate": "2026-10-26T19:00:00+04:00",
+        "keys": [
+          "mu-316869344",
+          "page:crypto-coffee-networking-night-web3-ai-blockchain-defi-nfts:2026-10-26",
+          "url:meetup.com/blockchain-workshop-dubai/events/316869344:2026-10-26",
+          "event:cryptocoffeenetworkingnightweb3aiblockchaindefinfts:2026-10-26:dubai"
+        ]
+      },
+      {
+        "id": "luma-evt-hrybBLtJ4Gzmaba",
+        "slug": "ethereum-meetup-tokyo-vol-26",
+        "name": "Ethereum Meetup Tokyo Vol.26",
+        "startDate": "2026-10-27T19:30:00+09:00",
+        "keys": [
+          "luma-evt-hrybbltj4gzmaba",
+          "page:ethereum-meetup-tokyo-vol-26:2026-10-27",
+          "luma:evt-hrybbltj4gzmaba",
+          "luma-url:/lw4cn2jv",
+          "event:ethereummeetuptokyovol26:2026-10-27:tokyo"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-23:evening"
   }
 }
