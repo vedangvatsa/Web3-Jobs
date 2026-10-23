@@ -24,6 +24,10 @@ TOKEN2049 discovery runs before the broad event crawl. If discovery fails, the p
 
 Each sender saves a reservation on `main` before calling Telegram and saves the message ID immediately after acceptance. Successful channel legs are not repeated when another destination rejects a digest. Explicit rejections can retry; an ambiguous response stays reserved until its delivery is checked. Do not clear a reservation merely to make a run green.
 
+Guards that run after the reservation is durable but **before** Telegram is called — the post-reservation employer re-verification and the posting-window re-check — record an explicit `rejected` receipt with a `rejectedReason` when they fail. They never leave a `reserved` receipt behind, because a failure at that point is known not-sent. Only an ambiguous or unacknowledged Telegram response may leave a reservation.
+
+If a reservation is nonetheless found stuck (a legacy receipt, or a crash between reservation and the new guard), reconcile it with `scripts/reconcile-telegram-job-reservation.mjs`. The script refuses to run without a receipt UUID and an evidence JSON (`runId`, `jobId`, `logLine`, `summary`) proving the send never happened; it never deletes a receipt and never fabricates a `sent` record.
+
 Receipts are committed independently of catalog changes and backed up as workflow artifacts. A catalog rebase cannot discard posting history.
 
 Concurrent publishers can advance `main` while a receipt commit is being saved. Persistence makes up to eight attempts, refetching and merging the original receipt snapshot each time, with exponential jittered delays capped at 30 seconds. Reservation checks run against the fresh history on every attempt. Exhausted retries retain local evidence and fail the run; they do not authorize another send. Diagnostics report a recognized Git failure reason without printing remote URLs or credentials.

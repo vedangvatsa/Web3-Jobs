@@ -86,7 +86,7 @@ retaining their original review timestamps and artifact provenance. Full audits
 and any necessary repairs still run before publication. Older-date or merely
 inherited reviews are not reused, and unfinished leads are not invented or approved.
 
-The unresolved Telegram reservation for `@web3hiring` from October 21 at 11:31 UTC requires evidence-based reconciliation. Do not delete it or send a replacement to clear an error. Job-video publishing separately requires fresh hosted video inputs; the schedule fix does not create those assets.
+The `@web3hiring` reservation from October 21 at 11:31 UTC has been reconciled. The failure was a post-reservation preflight (`assertPublishableJobs`) that re-fetched an employer application page and threw a redirect mismatch before `sendMessage` was ever called; the run log contains no `Telegram accepted` line for that destination. The receipt was marked `rejected` with the run/job evidence embedded, and `deliverJobsOnce` now records `rejected` (never `reserved`) whenever a post-reservation, pre-send guard fails, so this failure mode cannot silently block future sends again. Job-video publishing separately requires fresh hosted video inputs; the schedule fix does not create those assets.
 
 ## Verified recovery
 

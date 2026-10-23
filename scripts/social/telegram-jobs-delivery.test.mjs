@@ -102,5 +102,32 @@ test('age is checked after durable reservation and arbitrary stored message bodi
   assert.deepEqual(readJobsState(f.ledgerFile, {}), {});
   const persist = options => { f.persist(options); f.jobs[0].snapshot.date = '2024-03-09T05:33:00.298Z'; };
   await assert.rejects(deliverJobsOnce({ ...f, persist, send: async () => assert.fail('Expired after reservation') }), /expired/);
-  assert.equal(Object.values(readJobsState(f.ledgerFile, {}))[0].status, 'reserved');
+  // A guard that fails after the reservation is durable but before Telegram is
+  // called is known not-sent, so the receipt must be explicitly rejected —
+  // never left reserved, which would block every later send.
+  const aged = Object.values(readJobsState(f.ledgerFile, {}));
+  assert.equal(aged.length, 1);
+  assert.equal(aged[0].status, 'rejected');
+  assert.match(aged[0].rejectedReason, /pre-send guard failed before Telegram was called: .*expired/);
+});
+
+test('a pre-send preflight failure after reservation rejects the receipt instead of blocking future sends', async t => {
+  const f = fixture(t);
+  let calls = 0;
+  const preflight = (jobs, message) => verifyJobsDigest(jobs, message, { loadJobs: async () => [f.jobs[0].snapshot], request: async () => {
+    calls++;
+    // First preflight (before reservation) and the in-postOnce digest pass;
+    // the post-reservation preflight inside deliverJobsOnce then fails.
+    return calls <= 1 ? new Response('<h1>Engineer</h1><a href="apply">Apply now</a>', { headers: { 'content-type': 'text/html' } }) : new Response('Gone', { status: 410 });
+  } });
+  await assert.rejects(deliverJobsOnce({ ...f, preflight, send: async () => assert.fail('Guard failure must not reach Telegram') }), /HTTP 410/);
+  const receipts = Object.values(readJobsState(f.ledgerFile, {}));
+  assert.equal(receipts.length, 1);
+  assert.equal(receipts[0].status, 'rejected');
+  assert.match(receipts[0].rejectedReason, /pre-send guard failed before Telegram was called/);
+  // The rejected receipt must not block a later attempt the way a reserved one would.
+  assert.doesNotThrow(() => {
+    const ledger = readJobsState(f.ledgerFile, {});
+    assert.ok(!Object.values(ledger).some(receipt => receipt.status === 'reserved'));
+  });
 });

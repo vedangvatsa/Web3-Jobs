@@ -106,8 +106,20 @@ export async function deliverJobsOnce({ jobs, message, chatIds, postedFile, last
       writeJobsState(ledgerFile, ledger);
       throw error;
     }
-    await preflight(jobs, message);
-    assertPostingWindow(slot);
+    try {
+      await preflight(jobs, message);
+      assertPostingWindow(slot);
+    } catch (error) {
+      // These guards run after the reservation is durable but before Telegram
+      // is called, so a failure here is known not-sent: record an explicit
+      // rejection instead of leaving a reserved receipt that blocks every
+      // future send (the October 21 @web3hiring outage).
+      const confirmed = readJobsState(ledgerFile, {});
+      confirmed[id] = { ...receipt, status: 'rejected', rejectedAt: new Date().toISOString(), rejectedReason: `pre-send guard failed before Telegram was called: ${error.message}` };
+      writeJobsState(ledgerFile, confirmed);
+      persist({ cwd });
+      throw error;
+    }
     const result = await send(chatId, message);
     const confirmed = readJobsState(ledgerFile, {});
     if (result?.ok === false) {
