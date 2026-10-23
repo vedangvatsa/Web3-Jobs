@@ -3741,5 +3741,123 @@
     "slotKey": "2026-10-22:evening",
     "messageId": 155894,
     "sentAt": "2026-10-22T19:32:25.244Z"
+  },
+  "0d3b6672-e311-4460-8b10-cadbf1ca3e5f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T03:43:48.032Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "7e531974-caac-46a2-804e-c6c3140bfda4",
+          "title": "Analyst, Deal Operations",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4",
+          "date": "2026-10-15T13:17:35.182+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (San Francisco, CA)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Deal Desk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops16"
+        },
+        "key": "7e531974-caac-46a2-804e-c6c3140bfda4",
+        "slug": "ops16",
+        "url": "https://hashtagweb3.com/ops16?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Analyst, Deal Operations"
+      },
+      {
+        "snapshot": {
+          "id": "52f09ac7-7ffe-46cf-8b83-8dd4aae302ee",
+          "title": "Senior Legal Counsel (Commercial), UK",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/52f09ac7-7ffe-46cf-8b83-8dd4aae302ee",
+          "date": "2026-10-12T08:19:11.435Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (London)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp111"
+        },
+        "key": "52f09ac7-7ffe-46cf-8b83-8dd4aae302ee",
+        "slug": "cmp111",
+        "url": "https://hashtagweb3.com/cmp111?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "8893460002",
+          "title": "Recruiter (Contract)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893460002",
+          "date": "2026-10-15T19:03:55-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Palo Alto, CA",
+          "department": "People",
+          "active": true,
+          "salary": "$190k – $275k/yr",
+          "dateVerified": true,
+          "slug": "rec41"
+        },
+        "key": "8893460002",
+        "slug": "rec41",
+        "url": "https://hashtagweb3.com/rec41?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Recruiter (Contract)"
+      },
+      {
+        "snapshot": {
+          "id": "8302917",
+          "title": "Trader",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8302917",
+          "date": "2026-10-21T06:25:01-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "Trading",
+          "active": true,
+          "salary": "$150k – $200k/yr",
+          "slug": "tr32",
+          "dateVerified": true
+        },
+        "key": "8302917",
+        "slug": "tr32",
+        "url": "https://hashtagweb3.com/tr32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Trader"
+      },
+      {
+        "snapshot": {
+          "id": "7e211b55-5069-45b2-8072-c6555a5b53cd",
+          "title": "Security Engineer - AppSec",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/7e211b55-5069-45b2-8072-c6555a5b53cd",
+          "date": "2026-10-05T03:19:47.495+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Technology and Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec85"
+        },
+        "key": "7e211b55-5069-45b2-8072-c6555a5b53cd",
+        "slug": "sec85",
+        "url": "https://hashtagweb3.com/sec85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Security Engineer"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/ops16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Analyst, Deal Operations</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/cmp111?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel (Commercial), UK</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/rec41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiter (Contract)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/tr32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trader</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/sec85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Engineer - AppSec</a>",
+    "slotKey": "2026-10-23:morning"
   }
 }
