@@ -6950,7 +6950,7 @@
     "sentAt": "2026-10-23T19:31:50.664Z"
   },
   "50c6094a-47b5-44ee-99b7-d4726539b974": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-23T19:31:53.348Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7062,6 +7062,8 @@
       }
     ],
     "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/sre?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior SRE - APAC</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Accounts Receivable</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/dap?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] Deputy AMLO Payments</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/aso45?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, Finance Administration</a>\n- WOO Network is hiring <a href=\"https://hashtagweb3.com/do12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>",
-    "slotKey": "2026-10-23:evening"
+    "slotKey": "2026-10-23:evening",
+    "messageId": 139,
+    "sentAt": "2026-10-23T19:31:59.619Z"
   }
 }
