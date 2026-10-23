@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-23",
+    "threadId": "N02",
+    "sequence": 6,
+    "platform": "x",
+    "assetCommit": "0898ee6fec67c906aa37a22b92c766fd2b14e78d",
+    "contentDigest": "3be0639288185b1804a1fb5599c5db2e712def466ae2e5a407774382304f7617",
+    "posts": [
+      {
+        "number": 1,
+        "text": "October 20, 2026 snapshot: top 5 eligible countries in the remote Web3 catalog. Most roles were country-restricted.\n\nMulti-country listings count once per named country.",
+        "alt": "Remote Web3 catalog snapshot dated October 20, 2026. Eligible country, listings and distinct employers: United States 155 and 30; United Kingdom 29 and 4; Cyprus 11 and 2; Georgia 11 and 1; Poland 11 and 4. Only explicitly named countries count; multi-country listings appear in each named country.",
+        "image": "social-assets/knowledge-threads-month/images/N02-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "United States: 155 fully remote listings across 30 employers, the largest explicit-country count in the Oct 20 catalog.\n\nEligibility follows the role's stated location, not employer headquarters.",
+        "alt": "United States counts in the October 20, 2026 remote Web3 catalog snapshot: 155 fully remote listings across 30 distinct employers, the largest explicit-country count. Eligibility follows the role's stated location, not employer headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "United Kingdom: 29 listings across 4 employers in the Oct 20 catalog. The US had 126 more listings and 26 more employers.\n\nCounts follow explicitly eligible locations, not company headquarters.",
+        "alt": "United Kingdom counts in the October 20, 2026 remote Web3 catalog snapshot: 29 fully remote listings across 4 distinct employers. The US had 126 more listings and 26 more employers. Counts use eligible locations rather than company headquarters.",
+        "image": "social-assets/knowledge-threads-month/images/N02-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Cyprus: 11 listings across 2 employers in the Oct 20 catalog.\n\nCyprus, Georgia and Poland tie on listing count, but their employer counts differ: 2, 1 and 4 respectively.",
+        "alt": "Cyprus counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 2 distinct employers. Cyprus, Georgia and Poland each have 11 listings, from 2, 1 and 4 employers respectively.",
+        "image": "social-assets/knowledge-threads-month/images/N02-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Georgia: 11 listings, all from 1 employer in the Oct 20 catalog. Poland had the same listing count across 4 employers.\n\nEqual listing volume can hide different employer concentration.",
+        "alt": "Georgia counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings from 1 employer. Poland has the same 11 listings spread across 4 employers, showing different employer concentration at equal volume.",
+        "image": "social-assets/knowledge-threads-month/images/N02-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Poland: 11 listings across 4 employers in the Oct 20, 2026 catalog.\n\nRanking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so totals overlap.\n\nhashtagweb3.com/jobs/x",
+        "alt": "Poland counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 4 distinct employers. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.",
+        "image": "social-assets/knowledge-threads-month/images/N02-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-01.jpg",
+        "sha256": "9cff1ee219f35aebc13df2b91d7e4206dc2abc62d71fa6d023fc6b0bae34c2ee",
+        "bytes": 126963,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Remote Web3 catalog snapshot dated October 20, 2026. Eligible country, listings and distinct employers: United States 155 and 30; United Kingdom 29 and 4; Cyprus 11 and 2; Georgia 11 and 1; Poland 11 and 4. Only explicitly named countries count; multi-country listings appear in each named country.",
+        "renderedText": "Remote markets\n\nRemote Web3: country counts\n\nOctober 20, 2026 snapshot\n\nEligible country\tListings\tEmployers\nUnited States\t155\t30\nUnited Kingdom\t29\t4\nCyprus\t11\t2\nGeorgia\t11\t1\nPoland\t11\t4\n\nExplicit-country eligibility only. Multi-country listings count in each named country.\n\nHashtag Web3 jobs catalog\n\nN02 · 1/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-02.jpg",
+        "sha256": "6b5f41e3cc065d21eebd732600cf48d5e0d7937c9e4873cfa0e0aad9c36c43c2",
+        "bytes": 105825,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United States counts in the October 20, 2026 remote Web3 catalog snapshot: 155 fully remote listings across 30 distinct employers, the largest explicit-country count. Eligibility follows the role's stated location, not employer headquarters.",
+        "renderedText": "Remote markets\n\nUnited States\n\nOctober 20, 2026 snapshot\n\n155\n\nFully remote listings\n\n30\n\nDistinct employers\n\nLargest explicit-country count. Eligibility follows the role's location, not employer headquarters.\n\nHashtag Web3 jobs catalog\n\nN02 · 2/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-03.jpg",
+        "sha256": "c895373a6a84ab0cdd87b2e3aa401aebe2be4074f29393ee4d1b9ef2226e2341",
+        "bytes": 100029,
+        "width": 1200,
+        "height": 1500,
+        "alt": "United Kingdom counts in the October 20, 2026 remote Web3 catalog snapshot: 29 fully remote listings across 4 distinct employers. The US had 126 more listings and 26 more employers. Counts use eligible locations rather than company headquarters.",
+        "renderedText": "Remote markets\n\nUnited Kingdom\n\nOctober 20, 2026 snapshot\n\n29\n\nFully remote listings\n\n4\n\nDistinct employers\n\nUS minus UK: 126 listings and 26 employers. Eligible locations, not headquarters.\n\nHashtag Web3 jobs catalog\n\nN02 · 3/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-04.jpg",
+        "sha256": "d1cc80dbf79f92c947290197b43bab252ad0324d2b7941e2c16888c33919ecba",
+        "bytes": 94842,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Cyprus counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 2 distinct employers. Cyprus, Georgia and Poland each have 11 listings, from 2, 1 and 4 employers respectively.",
+        "renderedText": "Remote markets\n\nCyprus\n\nOctober 20, 2026 snapshot\n\n11\n\nFully remote listings\n\n2\n\nDistinct employers\n\n11-listing tie: Cyprus, Georgia and Poland. Distinct employers: 2, 1 and 4, respectively.\n\nHashtag Web3 jobs catalog\n\nN02 · 4/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-05.jpg",
+        "sha256": "9a194fd47559f3e8aca0fc2d9379300f40468d59de40bf611fa3687eda424051",
+        "bytes": 99028,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Georgia counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings from 1 employer. Poland has the same 11 listings spread across 4 employers, showing different employer concentration at equal volume.",
+        "renderedText": "Remote markets\n\nGeorgia\n\nOctober 20, 2026 snapshot\n\n11\n\nFully remote listings\n\n1\n\nDistinct employers\n\nPoland also has 11 listings, across 4 employers. Equal volume can hide different employer concentration.\n\nHashtag Web3 jobs catalog\n\nN02 · 5/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N02-06.jpg",
+        "sha256": "63c6544b01579cef1e17b560b82a44e91cf059e4fe1f3604d53fdd56710450bd",
+        "bytes": 104976,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Poland counts in the October 20, 2026 remote Web3 catalog snapshot: 11 fully remote listings across 4 distinct employers. Ranking excludes 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country, so country totals overlap.",
+        "renderedText": "Remote markets\n\nPoland\n\nOctober 20, 2026 snapshot\n\n11\n\nFully remote listings\n\n4\n\nDistinct employers\n\nExcluded: 6 worldwide and 180 unresolved-location listings. Multi-country listings count in each named country; totals overlap.\n\nHashtag Web3 jobs catalog\n\nN02 · 6/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/0898ee6fec67c906aa37a22b92c766fd2b14e78d/social-assets/knowledge-threads-month/images/N02-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "b459cced-da51-4c54-832e-3feb7eec1028",
+  "startedAt": "2026-10-23T11:31:44.865Z",
+  "status": "claimed",
+  "steps": {}
+}
