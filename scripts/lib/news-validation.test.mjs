@@ -6,6 +6,7 @@ import test from 'node:test';
 import { addResearchCandidate, prepareResearch, reviewCandidate } from './news-research.mjs';
 import { validateNewsDrafts, preserveUnpublishedNewsOutputs } from './news-validation.mjs';
 import { validateNewsRun } from '../validate-news-run.mjs';
+import { isolateFailedNewsDrafts } from './news-batch-isolation.mjs';
 
 function fixture(t, { articleSlug = 'new-story', publishedBody = 'Existing reporting' } = {}) {
   fs.mkdirSync('.cache', { recursive: true });
@@ -436,6 +437,34 @@ test('the real audit pipeline runs every normal gate on ready articles plus base
   assert.equal(JSON.parse(commands[2].output).newsArticles, 2);
   assert.equal(JSON.parse(commands[2].output).duplicatePairs, 0);
   assert.deepEqual(records.filter(entry => entry.url).map(entry => entry.url).sort(), ['https://other.example/report', 'https://photo.example/credit', 'https://source.example/filing']);
+});
+
+test('real audits identify a failed ready draft, isolate it without losing bytes, then re-audit the remaining batch', t => {
+  const f = fixture(t, { articleSlug: 'newstory', publishedBody: '---\ntitle: Freight network schedules vessel inspections\ncategory: News\n---\nOcean freight shipping schedules and container inspections.' });
+  f.write('content/articles/newstory.md', `---\ntitle: Protocol changes validator collateral rules\ncategory: News\nimage: /images/news/newstory.jpg\nimageCaption: Test photo credit\nimageCreditUrl: https://photo.example/credit\npublishedDate: '${f.context.day}'\n---\n` +
+    '[The filing](https://source.example/filing) and [independent reporting](https://other.example/report) describe the decision.\n\n' +
+    Array.from({ length: 40 }, (_, i) => `The protocol council recorded vote ${i} after validators submitted evidence about collateral deposits, withdrawal deadlines, voting rights and review procedures.\n`).join('\n'));
+  const photo = Buffer.concat([Buffer.from('/9j/', 'base64'), Buffer.alloc(16 * 1024, 1)]);
+  f.write('public/images/news/newstory.jpg', photo);
+  const pending = pendingDraft(f, { slug: 'badstory' });
+  f.write(pending.article, `---\ntitle: Port authority publishes permit\ncategory: News\nimage: /images/news/badstory.jpg\npublishedDate: '${f.context.day}'\n---\nToo short.\n`);
+  f.write(pending.image, photo);
+  reviewCandidate(f.ledger, f.context.day, { id: pending.id, status: 'ready', articleSlug: 'badstory', note: 'Read the permit and a separate independent report; drafting is incomplete.', sourceChecks: [{ url: 'https://primary.example/permit', outcome: 'read' }, { url: 'https://second.example/permit', outcome: 'read' }] }, { articles: [{ slug: 'badstory' }] });
+  f.write('content/news-research.json', JSON.stringify(f.ledger));
+  const original = fs.readFileSync(path.join(f.cwd, pending.article));
+  realAudits(t, f);
+  const first = validateNewsRun({ cwd: f.cwd, persist: true, publishReadyBatch: true });
+  assert.equal(first.audited, true); assert.equal(first.draftsValid, false);
+  assert.ok(first.articleErrors.badstory.some(error => error.includes('under 600 words')));
+  const isolated = isolateFailedNewsDrafts(f.ledger, f.context.day, first);
+  assert.deepEqual(isolated.deferredSlugs, ['badstory']);
+  f.write('content/news-research.json', JSON.stringify(isolated.ledger));
+  const second = validateNewsRun({ cwd: f.cwd, persist: true, publishReadyBatch: true });
+  assert.equal(second.draftsValid, true, JSON.stringify(second));
+  assert.deepEqual(second.readySlugs, ['newstory']);
+  assert.ok(!second.draftPaths.includes(pending.article));
+  assert.deepEqual(fs.readFileSync(path.join(f.cwd, '.cache/news-research/recovery', pending.article)), original);
+  assert.equal(second.counts.deferred, 1);
 });
 
 test('real audits report word count, sources, HTTP 200, dates, images, formatting, duplicate baseline and typecheck failures with backlog', t => {

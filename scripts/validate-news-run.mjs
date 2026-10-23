@@ -18,6 +18,7 @@ export function validateNewsRun({ cwd = process.cwd(), persist = false, audit, p
     audited: result.audited, draftsValid: result.draftsValid, publishReadyBatch,
     partialPublicationEligible: result.partialPublicationEligible, draftPaths: result.draftPaths,
     quarantinedPaths: result.quarantinedPaths, stagingManifest: result.stagingManifest,
+    articleErrors: result.articleErrors,
   };
   if (result.safeToPersist) fs.writeFileSync(path.join(cwd, RESEARCH_DIR, 'validation.json'), `${JSON.stringify(feedback, null, 2)}\n`);
   return feedback;

@@ -11,7 +11,7 @@ function auditDrafts(slugs, { cwd, day }) {
   });
   const result = JSON.parse(raw);
   if (!Array.isArray(result.errors) || result.errors.some(error => typeof error !== 'string')) throw new Error('Invalid article-validation response');
-  return result.errors;
+  return result;
 }
 
 const RECOVERY = `${RESEARCH_DIR}/recovery`;
@@ -133,7 +133,7 @@ export function validateNewsDrafts({ context, ledger, cwd = process.cwd(), audit
   const ready = before.outcomes.filter(item => item.status === 'ready');
   const readyOutputSlugs = new Set(ready.map(item => item.articleSlug));
   const draftPaths = [], validationErrors = [], fatalErrors = [];
-  let audited = false, safeToPersist = false, quarantinedPaths = [], stagingManifest = null;
+  let audited = false, safeToPersist = false, quarantinedPaths = [], stagingManifest = null, articleErrors = {};
   const fatal = message => { validationErrors.push(message); fatalErrors.push(message); };
   const git = args => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 16 * 1024 * 1024 });
   const gitPaths = args => git(args).split('\0').filter(Boolean);
@@ -234,8 +234,14 @@ export function validateNewsDrafts({ context, ledger, cwd = process.cwd(), audit
   }
   if (before.discoveryHealthy && (publishReadyBatch || before.counts.unreviewed === 0) && ready.length && !validationErrors.length) {
     try {
-      const errors = audit(ready.map(item => item.articleSlug), { cwd, day });
+      const result = audit(ready.map(item => item.articleSlug), { cwd, day });
+      const errors = Array.isArray(result) ? result : result?.errors;
       if (!Array.isArray(errors) || errors.some(error => typeof error !== 'string')) throw new Error('Invalid article-validation response');
+      if (!Array.isArray(result) && result.articleErrors !== undefined) {
+        if (!result.articleErrors || Array.isArray(result.articleErrors) || typeof result.articleErrors !== 'object'
+          || Object.entries(result.articleErrors).some(([slug, issues]) => !ready.some(item => item.articleSlug === slug) || !Array.isArray(issues) || issues.some(issue => typeof issue !== 'string' || !errors.includes(issue)))) throw new Error('Invalid per-article audit evidence');
+        articleErrors = result.articleErrors;
+      }
       audited = true;
       validationErrors.push(...errors);
       fatalErrors.push(...errors.filter(error => error.startsWith('Typecheck failed;')));
@@ -244,5 +250,5 @@ export function validateNewsDrafts({ context, ledger, cwd = process.cwd(), audit
   const draftsValid = audited && ready.length > 0 && !validationErrors.length;
   return { before, ready, draftPaths: [...new Set(draftPaths)], validationErrors: [...new Set(validationErrors)], fatalErrors: [...new Set(fatalErrors)],
     audited, draftsValid, safeToPersist, publishReadyBatch, partialPublicationEligible: publishReadyBatch && draftsValid && before.counts.unreviewed > 0,
-    quarantinedPaths, stagingManifest };
+    quarantinedPaths, stagingManifest, articleErrors };
 }

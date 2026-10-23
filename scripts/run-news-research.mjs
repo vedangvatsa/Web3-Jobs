@@ -2,11 +2,12 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { currentRun, loadResearch, writeReport } from './news-research.mjs';
+import { currentRun, loadResearch, writeReport, writeResearch } from './news-research.mjs';
 import { researchReport, RESEARCH_DIR } from './lib/news-research.mjs';
 import { validateNewsRun } from './validate-news-run.mjs';
 import { requireFreeNewsModel } from './check-news-writer.mjs';
 import { runNewsWriterProcess } from './news-writer-process.mjs';
+import { isolateFailedNewsDrafts } from './lib/news-batch-isolation.mjs';
 
 const fatalWriterError = error => error?.fatal || ['EACCES', 'EPERM', 'EROFS', 'ENOSPC'].includes(error?.code);
 
@@ -67,10 +68,10 @@ export function newsWriterRuntime({ cwd = process.cwd(), env = process.env, mode
 }
 
 export async function runValidatedResearch({ remaining, reviewed, write, validate, repair, log = console.log, maxRepairRounds = 3,
-  allowBacklogPublication = false, shouldContinue = () => true, deadline = Infinity, now = Date.now, publicationComplete = () => false,
+  allowBacklogPublication = false, shouldContinue = () => true, deadline = Infinity, now = Date.now, publicationComplete = () => false, isolate,
 }) {
   if (!Number.isInteger(maxRepairRounds) || maxRepairRounds < 0 || maxRepairRounds > 3) throw new Error('Invalid validation-repair limit (maximum 3)');
-  let repairs = 0, stalled = false;
+  let repairs = 0, stalled = false, isolationAttempted = false;
   while (true) {
     if (publicationComplete()) return { publicationComplete: true };
     try {
@@ -94,7 +95,13 @@ export async function runValidatedResearch({ remaining, reviewed, write, validat
     if (!hasReady) errors.push('At least one audited ready article is required for publication');
     else if (!feedback.draftsValid) errors.push('Ready drafts have not passed all actual audits');
     if (!allowBacklogPublication && feedback.counts.unreviewed) errors.push(`${feedback.counts.unreviewed} candidates remain unreviewed`);
-    if (repairs >= maxRepairRounds) throw new Error(`News validation remains incomplete after ${repairs} repair rounds: ${errors.join('; ')}`);
+    if (repairs >= maxRepairRounds) {
+      if (allowBacklogPublication && isolate && !isolationAttempted) {
+        isolationAttempted = true;
+        if (await isolate(feedback)) { stalled = true; continue; }
+      }
+      throw new Error(`News validation remains incomplete after ${repairs} repair rounds: ${errors.join('; ')}`);
+    }
     repairs++;
     log(`Validation repair ${repairs}/${maxRepairRounds}: ${errors.join('; ')}`);
     try { await repair(feedback, repairs); }
@@ -165,6 +172,13 @@ export async function runNewsResearch({ cwd = process.cwd(), env = process.env, 
       return write(`${prompt}\n\nAssignment completion boundary: record real outcomes for reviewed IDs in assignment.json, then return. Do not run the whole-batch validator during research. Restored drafts outside this assignment are awaiting their own reviews; leave them intact. The coordinator stops writer tools before validating and repairing the ready batch when research ends, including at the time budget.`, timeoutMs);
     },
     validate: () => validate({ cwd, persist: true, publishReadyBatch: true }),
+    isolate: feedback => {
+      const result = isolateFailedNewsDrafts(loadResearch(cwd), day, feedback);
+      if (!result) return false;
+      writeResearch(result.ledger, cwd); writeReport(result.ledger, day, cwd);
+      log(`Retained failed drafts for repair: ${result.deferredSlugs.join(', ')}. Re-running every audit on the remaining batch before publication.`);
+      return true;
+    },
     repair: (feedback, round) => {
       if (publicationComplete()) return;
       const prompt = `This is validation repair ${round} of the same daily news batch, with at most ${budget.repairTimeoutMs / 60_000} minutes. The coordinator's actual validator found the following errors; a previous writer's success claim is not a passing result. Read .cache/news-research/validation.json and repair the unpublished ready drafts. If there are no ready drafts, finish verifying a preserved draft or a pending candidate; publication requires at least one genuinely audited ready article. Checkpoint every actual outcome immediately. Add only facts verified in opened sources, never padding for a word count. For unavailable sources, research readable primary and independent alternatives; if the story cannot pass, record a specific quality-gate/source deferral and move only your unpublished files to recovery. Unreviewed backlog is not a validation error: leave it pending, never manufacture reviews or bulk deferrals. Do not alter validators, thresholds, workflows, code, generated catalogues, published articles or Git history. Do not commit, push, deploy, launch servers, background or detach commands, or signal processes. Return after saving the repairs; the coordinator stops writer tools and independently revalidates before publication.\n\n${JSON.stringify(feedback, null, 2)}\n\n${brief}`;

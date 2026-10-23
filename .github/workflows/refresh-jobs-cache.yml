@@ -343,6 +343,9 @@ jobs:
       - name: Test daily news discovery and publication
         run: node --test scripts/check-news-writer.test.mjs scripts/check-news-sources.test.mjs scripts/lib/news-source-readiness.test.mjs scripts/select-news-recovery.test.mjs scripts/restore-news-drafts.test.mjs scripts/reuse-news-reviews.test.mjs scripts/news-review-batch.test.mjs scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
+      - name: Test per-article failure isolation
+        run: node --test scripts/lib/news-batch-isolation.test.mjs
+
       - name: Prepare the daily candidate queue
         id: research
         run: node scripts/news-research.mjs prepare
