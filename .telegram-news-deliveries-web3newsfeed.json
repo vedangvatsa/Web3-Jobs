@@ -2119,5 +2119,36 @@
     "slotKey": "2026-10-23:afternoon",
     "messageId": 65771,
     "sentAt": "2026-10-23T11:32:40.436Z"
+  },
+  "9ee1ac61-8284-499e-81b6-80b4e16d073d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T19:33:08.364Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Aerodrome and Velodrome merge into Aero on seven chains",
+        "summary": "The unified decentralized exchange converts existing tokens into a single asset and turns locked positions into sAERO.",
+        "link": "https://hashtagweb3.com/aeromerge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aero launches as Aerodrome and Velodrome merge across seven chains"
+      },
+      {
+        "index": -1,
+        "headline": "Cardano Foundation opposes expanding MiCA rules to DeFi",
+        "summary": "The organization submitted a report advising the European Commission against creating new regulations for staking and decentralized finance.",
+        "link": "https://hashtagweb3.com/cardanomica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Cardano Foundation tells EU not to extend MiCA rules to DeFi and staking"
+      },
+      {
+        "index": -1,
+        "headline": "Six organizations urge SEC to codify digital commodity rules",
+        "summary": "A joint letter asks the agency to include commodity definitions in formal rule text instead of interpretive guidance.",
+        "link": "https://hashtagweb3.com/digitalcommodity?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Chainlink, Cardano, five other groups ask SEC to codify digital commodity status"
+      }
+    ],
+    "slotKey": "2026-10-23:evening"
   }
 }
