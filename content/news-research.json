@@ -72960,13 +72960,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "33e9137878190c73e286",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-24T21:42:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "verified-event",
-      "note": "Re-reviewed restored draft against current sources. Re-read Unchained Oct. 21 (Oct. 16 filing, Judge Douglas Cole, defendants, two legal theories, CFTC Oct. 9 actions, no PI motion or Ohio response as of Oct. 21, Third Circuit/NJ petition), DeFi Rate Oct. 21 (10 notices list, one compliance, two suing, DeWine quote, Sixth Circuit rehearing Oct. 9, Kentucky supplemental briefs Oct. 23, Kalshi NJ response due Nov. 9) and CoinDesk Sept. 25 Sixth Circuit Kalshi ruling. Newly downloaded and read the primary 46-page complaint PDF (QCX LLC v. Wilson, Case 26-1502, filed 10/16/26; Commerce Clause and CEA preemption claims; balkanizing quote; Schuler cite) which was previously unavailable. CourtListener docket still 403. Draft claims verified; 639 words; slug unowned; quality audit clean; hero 235KB.",
+      "note": "Re-read Unchained Oct. 21 and DeFi Rate Oct. 21 in full on Oct. 23 (Oct. 16 filing in S.D. Ohio, Judge Cole, named defendants, Oct. 2 cease-and-desist letter wording, ten notices with one compliant and two suing, DeWine quote, Commerce Clause and Commodity Exchange Act theories, two Oct. 9 CFTC actions, no PI motion or Ohio response as of Oct. 21, Sixth Circuit Sept. 25 ruling, Kalshi Oct. 9 rehearing request, Kentucky supplemental briefs due Oct. 23, New Jersey cert petition with NFL and 39 AGs, Kalshi response due Nov. 9, docket entries of Oct. 19). Complaint PDF downloaded to scratch (504KB, HTTP 200) but text not decodable this session, so no facts were taken from it beyond what the two read outlets quote. Drafted content/articles/polymarketohio.md (665 words) with a self-hosted Ohio Statehouse hero at 140KB; quality, formatting, image and duplicate audits clean.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
@@ -72975,23 +72975,11 @@
         {
           "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-          "outcome": "read"
-        },
-        {
-          "url": "https://storage.courtlistener.com/recap/gov.uscourts.ohsd.316878/gov.uscourts.ohsd.316878.1.0.pdf",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.courtlistener.com/docket/74979090/qcx-llc-v-wilson/",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-22T13:54:35.685Z",
+      "reviewedAt": "2026-10-23T08:38:15.731Z",
       "articleSlug": "polymarketohio",
-      "lastReviewedDay": "2026-10-22",
+      "lastReviewedDay": "2026-10-23",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/dogecoinlabs.md",
         "Draft has no ready review outcome: content/articles/eclairpatches.md",
@@ -143579,6 +143567,23 @@
           ],
           "reviewedAt": "2026-10-23T08:31:27.896Z",
           "duplicateOf": "occgenius"
+        },
+        "33e9137878190c73e286": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Unchained Oct. 21 and DeFi Rate Oct. 21 in full on Oct. 23 (Oct. 16 filing in S.D. Ohio, Judge Cole, named defendants, Oct. 2 cease-and-desist letter wording, ten notices with one compliant and two suing, DeWine quote, Commerce Clause and Commodity Exchange Act theories, two Oct. 9 CFTC actions, no PI motion or Ohio response as of Oct. 21, Sixth Circuit Sept. 25 ruling, Kalshi Oct. 9 rehearing request, Kentucky supplemental briefs due Oct. 23, New Jersey cert petition with NFL and 39 AGs, Kalshi response due Nov. 9, docket entries of Oct. 19). Complaint PDF downloaded to scratch (504KB, HTTP 200) but text not decodable this session, so no facts were taken from it beyond what the two read outlets quote. Drafted content/articles/polymarketohio.md (665 words) with a self-hosted Ohio Statehouse hero at 140KB; quality, formatting, image and duplicate audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defirate.com/news/ohio-threatens-prediction-market-lawsuits-as-polymarket-sues-first/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T08:38:15.731Z",
+          "articleSlug": "polymarketohio"
         }
       },
       "baselineSlugs": [
