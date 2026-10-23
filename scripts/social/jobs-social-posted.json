@@ -46692,7 +46692,8 @@
       },
       "account": "channel:defi",
       "attemptId": "25df67bf-43ff-466f-b1ba-e924211eba1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb1aa2297e6eb1f9b663c2a4b05506ab1b4c7179c"
     }
   ]
 }
