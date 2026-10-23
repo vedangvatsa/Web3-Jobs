@@ -45208,6 +45208,47 @@
       "verification": "verified",
       "postId": "6adad8881dc335d347f123d2",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519242854196527104"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "linkedin",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter: https://hashtagweb3.com/rec47/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec47/li?og=7",
+          "title": "Executive Recruiter at Hut 8",
+          "description": "Join Hut 8 as Executive Recruiter. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rec47.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "c3733762-e5fc-43eb-aa21-fc73f6f076c9",
+      "verification": "creating"
     }
   ]
 }
