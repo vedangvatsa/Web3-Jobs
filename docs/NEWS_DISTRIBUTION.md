@@ -26,12 +26,12 @@ Checked October 2026. No platform approval or active ingestion is established by
 | --- | --- | --- |
 | Google News / Top stories | [Google guidance](https://support.google.com/news/publisher-center/answer/9607025?hl=en) | Automatic consideration through crawling. No submission guarantees inclusion. Verify Search Console ownership, submit the news sitemap after deployment, and inspect the Google News report. |
 | Bing News | [Bing Webmaster Tools / PubHub](https://www.bing.com/webmasters/pubhub) | Authenticated webmaster account and site verification needed; no authenticated session available. |
-| MSN | [Partner Hub](https://partnerhub.msn.com), [feed setup](https://support.microsoft.com/en-us/msn/partner-hub/how-to-set-up-rss-and-atom-feeds-in-msn-partner-hub) | Account/invitation, publisher review, agreement and feed validation required. Public portal rendered blank in this environment. Onboarding inquiry prepared for the official support address. |
+| MSN | [Partner Hub](https://partnerhub.msn.com), [feed setup](https://support.microsoft.com/en-us/msn/partner-hub/how-to-set-up-rss-and-atom-feeds-in-msn-partner-hub) | Account/invitation, publisher review, agreement and feed validation required. Public portal rendered blank in this environment. Original inquiry and community-profile follow-up delivered to the official support address; application/approval still pending. |
 | Flipboard | [Publisher signup](https://flipboard.com/publisher_signup), [official FAQ](https://about.flipboard.com/forpublishers/publisher-faq/) | Publisher profile and RSS review required. Signup returned CloudFront 403 from this environment. Complete account access, then submit the live feed for review. |
 | SmartNews | [Publisher information](https://about.smartnews.com/en/press/publishers.html), [application](https://partner-portal.smartnews.com/publishers) | Application portal reports maintenance. Requires a validated SmartFormat feed and editorial acceptance. |
 | Apple News | [News Publisher](https://www.icloud.com/newspublisher/), [eligibility](https://support.apple.com/en-in/guide/news-publisher/apde42330c66/icloud) | User-provided US organization satisfies the country category, subject to Apple's review. Apple Account sign-in, professional-publication review, agreements and Apple News Format/API integration are required. RSS alone is insufficient. |
 | Yahoo | [Creators application](https://creators.yahoo.com/apply), [requirements](https://www.yahoocreators.com/faq) | Application redirects to Yahoo sign-in. Creator program is for qualifying US-resident individuals, with writing samples and at least 10,000 combined followers; it is not organization-wide RSS syndication. Need the appropriate publisher partnership path or an eligible individual. |
-| NewsBreak | [Publisher program](https://publishers.newsbreak.com/), [application](https://mp.newsbreak.com/pss/signup) | Focuses on local US news outlets and full articles. Ask whether specialist crypto/Web3 coverage qualifies before configuring ingestion. Onboarding inquiry prepared for the official publisher address. |
+| NewsBreak | [Publisher program](https://publishers.newsbreak.com/), [application](https://mp.newsbreak.com/pss/signup) | Focuses on local US news outlets and full articles. Original inquiry and community-profile follow-up delivered; application/approval still pending. The signup page requires a contact's first/last name, email and password. |
 
 ## Correspondence
 
@@ -43,6 +43,13 @@ MSN and NewsBreak inquiries were sent on October 23, 2026 from `hi@hashtagweb3.c
 `publisher-outreach.yml` is manual-only, defaults to preview, and has two fixed destinations: MSN's documented partner support and NewsBreak's documented publisher contact. It sends an onboarding inquiry, not an agreement or article syndication authorization. It does not resume subscriber broadcasts.
 
 The `community-profile` message is a separately tracked follow-up with the updated positioning, `/community` introduction and now-live RSS URL. It requires a confirmed original inquiry, has its own immutable send claim, and cannot overwrite or resend the original correspondence.
+
+Both community-profile follow-ups were confirmed **delivered** on October 23:
+
+- MSN: [send](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39941390804), [delivery readback](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39941649920).
+- NewsBreak: [send](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39941394959), [delivery readback](https://github.com/vedangvatsa/Web3-Jobs/actions/runs/39941654164).
+
+The follow-ups lead with the 100,000+ professional Web3 community and its knowledge/news publishing, link to `/community` rather than `/about`, and provide the live RSS URL plus three native article samples. Neither message is a completed platform application or publisher approval.
 
 Before any send, the script saves a durable GitHub receipt claim. A claimed request cannot be resent automatically, even after Resend's 24-hour idempotency expiry. Returned IDs are checkpointed and can be read back without a second send. Network ambiguity requires inspecting Resend. Receipt JSON under `docs/publisher-outreach/` and the workflow artifact are the evidence; an accepted email is not a publisher application approval.
 
