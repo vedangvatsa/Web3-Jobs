@@ -44914,6 +44914,40 @@
       "attemptId": "268470f4-9a75-4fee-87a8-b4f4a213065f",
       "verification": "verified",
       "postId": "0x4dc5f8b801e1f45eb80fc3a31e66d7295ecb8bd9"
+    },
+    {
+      "slug": "rec47",
+      "company": "Hut 8",
+      "title": "Executive Recruiter",
+      "platform": "farcaster",
+      "postedAt": "2026-10-23T03:44:10.006Z",
+      "expectedText": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+      "snapshot": {
+        "id": "5457254008",
+        "title": "Executive Recruiter",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457254008",
+        "date": "2026-10-20T09:54:10-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami, FL",
+        "department": "People",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec47"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Executive Recruiter\n\nhttps://hashtagweb3.com/rec47/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec47/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "973553dd-00de-4ea9-b532-7e6ed03514a5",
+      "verification": "creating"
     }
   ]
 }
