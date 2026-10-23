@@ -81210,11 +81210,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdd4df02c4e432d4c123",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T22:50:22.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "not-a-concrete-event",
+      "note": "Opened the article: it is Cointelegraph's weekly Asia Express magazine roundup bundling roughly fifteen unrelated items (DeepSeek ban, Solana Shanghai event, stablecoin pacts, Metaplanet deal, Thai acquisition) across many countries. Not a single concrete event, and each item would need its own reporting to qualify.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-23T09:09:06.886Z",
+      "lastReviewedDay": "2026-10-23"
     },
     "8b5f481e44d2e22e8932": {
       "source": "Crypto Briefing",
@@ -144072,6 +144082,18 @@
             }
           ],
           "reviewedAt": "2026-10-23T09:08:53.808Z"
+        },
+        "fdd4df02c4e432d4c123": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Opened the article: it is Cointelegraph's weekly Asia Express magazine roundup bundling roughly fifteen unrelated items (DeepSeek ban, Solana Shanghai event, stablecoin pacts, Metaplanet deal, Thai acquisition) across many countries. Not a single concrete event, and each item would need its own reporting to qualify.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-23T09:09:06.886Z"
         }
       },
       "baselineSlugs": [
