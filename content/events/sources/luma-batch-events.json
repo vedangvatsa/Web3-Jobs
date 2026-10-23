@@ -4363,55 +4363,6 @@
     ]
   },
   {
-    "id": "luma-batch-SijeHrY23UpGz4m",
-    "slug": "sumsub-i2cb",
-    "name": "The Dubai Gathering by Sumsub",
-    "description": "Join Sumsub for The Dubai Gathering — a private cocktail evening for senior leaders attending Forex Expo Dubai and Seamless Middle East.\n\nBringing together a carefully selected group of decision-makers from crypto, trading, fintech and payments, the evening is designed for the conversations that rarely happen on the exhibition floor: candid exchanges, new introductions, and time with peers facing similar growth, compliance and market challenges.\n\nThis is not a mass networking event. Attendance is intentionally limited to a senior audience of clients, partners, prospects and industry leaders.\n\nExpect premium food and drinks, a standout Dubai setting, and a room built for meaningful conversations with the people shaping the region’s financial and digital asset ecosystem.\n\nIf you are in Dubai for Forex Expo or Seamless, this is the room to be in after the show.\n\nAttendance is limited and subject to approval. Venue details will be shared with confirmed guests only.",
-    "startDate": "2026-09-23T15:00:00.000Z",
-    "endDate": "2026-09-23T18:00:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "DIFC, Dubai, Dubai, United Arab Emirates",
-    "url": "https://luma.com/sumsub-i2cb",
-    "registrationUrl": "https://luma.com/sumsub-i2cb",
-    "coverImage": "/events/luma-recover-lumabatchSijeHrY-c0ce02ae.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Kristina Gerasimova"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "neighborhood": "DIFC",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Dubai",
-    "addressRegion": "Dubai",
-    "addressCountry": "AE",
-    "organizer": {
-      "type": "Organization",
-      "name": "Kristina Gerasimova",
-      "url": "https://luma.com/user/tinaluve"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/sumsub-i2cb",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "soldOut",
-    "sourceVerification": {
-      "url": "https://luma.com/sumsub-i2cb",
-      "eventId": "evt-SijeHrY23UpGz4m",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-Xw5vJNjnsSundBA",
     "slug": "fs7ukh1b",
     "name": "The Future of Institutional Liquidity: Regulated Tokenization & Global Payments",
@@ -4817,59 +4768,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-3oRvmugLrx5vv15",
-    "slug": "8f2c8pxb",
-    "name": "Stablecoins & Boba | Day 1 - Builder Day at Solana Summit Canada",
-    "description": "Need a midday pick-me-up on Day 1 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.\n\n## Hosts\n\nHosted by Superteam Canada, CADC \\\\ The Canadian Dollar Coin (Canada's leading stablecoin), Paytrie (Canadian stablecoin on/off ramp).\n\n## Event details\n\nThe event takes place on September 23. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.",
-    "startDate": "2026-09-23T17:30:00.000Z",
-    "endDate": "2026-09-23T19:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada",
-    "url": "https://luma.com/8f2c8pxb",
-    "registrationUrl": "https://luma.com/8f2c8pxb",
-    "coverImage": "/events/luma-batch-3oRvmugLrx5vv15-4cd1d547.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Canada",
-      "CADC \\\\ The Canadian Dollar Coin",
-      "Paytrie"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "St. Lawrence",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Chatime",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Canada",
-      "url": "https://luma.com/user/SuperteamCA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/8f2c8pxb",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/8f2c8pxb",
-      "eventId": "evt-3oRvmugLrx5vv15",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -5693,150 +5591,6 @@
     "sourceVerification": {
       "url": "https://luma.com/burningmon",
       "eventId": "calev-cy4MdiJptug7TkG",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-IgUKidCzPFTfqYc",
-    "slug": "bntokyo26",
-    "name": "Builder Nights Tokyo - Agentic Edition | Hosted by MetaMask 🦊️, Superteam Japan, Akindo and frens",
-    "description": "MetaMask Builder Night is back — and this time, we're heading to the Agentic Frontier.\n\nSeptember 23th, Tokyo, Japan.\n\nThe developers, founders, and ecosystem contributors pushing the boundaries of agentic technology.\n\nThe tools, protocols, and ideas quietly rewriting what's possible onchain. All in one room.\n\nThe frontier is open. Come claim it.\n\nHosted by MetaMask and our frens. Built for the people building what's next.Product agnostic. Shill-free. Vertical specific.\n\nOur core pillars ⬇️\n\nDetails:\n\n⏰ Time: 5:00PM - 9:00PM📍 Venue: Register for location 🎪 Free entry\n\nAgenda\n\n5:00PM — Doors Open\n\n6:00PM - 7:30PM — Panels\n\n7:30PM - 9:00PM — Networking and Vibes.\n\nSpeakers\n\nJapanese session\n\nEnglish session\n\nCo-hosts\n\nAbout MetaMask\n\nMetaMask is the world’s leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\nAbout Superteam Japan\n\nSuperteam Japan is Solana's largest builder community, operating with the support of the Solana Foundation. They develop builders, help teams win Colosseum Hackathons, and drive Solana adoption among Japanese companies. As a nonprofit, they support every Japan-based team building on Solana free of charge.\n\nAbout AKINDOAKINDO is the world’s first and largest Buildathon platform. It goes beyond traditional hackathons, accelerators, and grant programs to help our partners create real, ecosystem-native killer apps and build sustainable developer ecosystems.\n\nPartner\n\nAbout QR TalkQR Talk is a real-time multilingual communication service that starts with a single QR code. No app to install, no dedicated device — attendees simply scan the code with their own smartphone, and the speaker's words are delivered to each person in their own language in real time. There is no limit on simultaneous connections. In Japan, QR Talk is used on construction sites and other workplaces where people of many nationalities work together. Provided by One Minutes Co., Ltd.\n\nAbout enXross DAOThis is an Entertainment × Tech (Web3, AI, XR, etc.) Discord community operated by Tokyo Dome. Our goal is to foster diverse connections within this community and create groundbreaking entertainment-tech products that will amaze the world.\n\nAbout the venuePlease note that joining enXross DAO Discord community is a requirement to attend this event. Kindly register using the URL below. You will be asked to show your Discord registration screen at the reception desk. Join the Discord\n\nSome of the past Builder Nights ⬇️\n\nInterested in future Builder Nights? Get in touch with  @andreolf on Telegram!\n\nBuilder Nights Collab Deck",
-    "startDate": "2026-09-23T08:00:00.000Z",
-    "endDate": "2026-09-23T12:00:00.000Z",
-    "city": "Bunkyo City",
-    "country": "Japan",
-    "location": "3, Bunkyo City, Tokyo, Japan",
-    "url": "https://luma.com/bntokyo26",
-    "registrationUrl": "https://luma.com/bntokyo26",
-    "coverImage": "/events/luma-batch-IgUKidCzPFTfqYc-412533a7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Francesco Andreoli 🦊",
-      "Consensys",
-      "Moz"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "3",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Bunkyo City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Francesco Andreoli 🦊",
-      "url": "https://luma.com/user/francescoswiss"
-    },
-    "ticketOffers": [
-      {
-        "name": "Builder",
-        "url": "https://luma.com/bntokyo26",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bntokyo26",
-      "eventId": "calev-IgUKidCzPFTfqYc",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-sAFSAb5NzEiBatS",
-    "slug": "g4btk2bc",
-    "name": "Build for Breakpoint: Name Your Channel with Edge Ventures",
-    "description": "Your host: Arseny Klekovkin, Edge Ventures\n\nArseny is co-founder of Edge Ventures, based in the UK, backing founders building the autonomous economy — infrastructure and rails for AI, and new systems for coordination, trust and finance — and looking specifically for durable advantages: real ownership, meaningful switching costs, defensible networks.\n\nName Your Channel\n\nMost founders can tell you how many users they have. Far fewer can say where those users actually came from, or which of those routes they could deliberately run again tomorrow.\n\nThis session is a working hour on attribution. No frameworks, no theory. You'll leave with one channel you're committing to and the evidence behind it.\n\nBringA list of every customer or retained user you have, and how each one actually arrived. Real names, real routes.\n\nWhy this one mattersInstalls are not retained users. Pipeline is not customers. In both cases it's the second number that counts, and most decks lead with the first. Founders who can't separate the two end up spending the next quarter pouring money into a channel that never brought them anyone who stayed.",
-    "startDate": "2026-09-23T11:00:00.000Z",
-    "endDate": "2026-09-23T12:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, Somerset House, Strand, London WC2R 1LA, UK",
-    "url": "https://luma.com/g4btk2bc",
-    "registrationUrl": "https://luma.com/g4btk2bc",
-    "coverImage": "/events/luma-batch-sAFSAb5NzEiBatS-fcfffb02.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Foundation Ventures",
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Somerset House",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Foundation Ventures",
-      "url": "https://luma.com/user/foundationvent"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/g4btk2bc",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/g4btk2bc",
-      "eventId": "calev-sAFSAb5NzEiBatS",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-OS7Xi8M3o0Eass5",
-    "slug": "rretqamp",
-    "name": "Colosseum Community Call #3: Find Your Users ⚡",
-    "description": "You picked what to build. Now figure out who’s going to use it.\n\nBuilding the product is only half the job. This week is about distribution — who your first users are, where you’ll find them, and why they’ll come back.\n\nWe’ll also narrow things down to real opportunities and real users you can actually reach from Türkiye.\n\nWhat we'll cover\n\n⚡ Distribution Before ProductHow to think about your first users and distribution while you’re still building — not after launch.\n\n⚡ Your First 10 UsersWho exactly needs what you’re building, where to find them, and how to start getting real feedback now.\n\n⚡ Türkiye CorridorsFrom remittances and freelancers to exporters and FX — real problems, real markets, and areas where Turkish builders have an edge.\n\n⚡ From Hypothesis to ConversationsPick your corridor, define who you need to talk to, and leave with real conversations to have before the next Shipyard.\n\n⚡ This Week in the EcosystemWhat shipped, what raised, what changed — plus Superteam Türkiye updates, bounties and opportunities worth knowing.\n\nBy now, your vertical should be locked and your scope should be getting smaller.\n\nNext question: how does this get into someone’s hands?\n\nSee you there 🇹🇷",
-    "startDate": "2026-09-23T16:00:00.000Z",
-    "endDate": "2026-09-23T16:30:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/rretqamp",
-    "registrationUrl": "https://luma.com/rretqamp",
-    "coverImage": "/events/luma-batch-OS7Xi8M3o0Eass5-e5f1aea8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Türkiye",
-      "url": "https://luma.com/user/SuperteamTR"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/rretqamp",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/rretqamp",
-      "eventId": "calev-OS7Xi8M3o0Eass5",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -14043,36 +13797,6 @@
     }
   },
   {
-    "id": "luma-batch-evtRJ1Y31Qhgs3ci",
-    "slug": "tk6kn4g8",
-    "name": "BUZOKU | AI & Crypto Meetup",
-    "description": "Meetup | Web3 and AI | Barcelona\n\nJoin us in Sant Gervasi for Buzoku, a bi monthly casual meetup for people building in Web3, AI, and digital systems.\n\nWhat started as a Web3 focused group is now expanding to include AI builders as well.\n\nThe format\n\nNo panels\nNo presentations\nNo agenda\n\nWe meet at a bar, grab a drink, and talk.\n\nThat is it.\n\nWho comes\n\nA mix of:\n\n• Engineers and technical builders\n• Founders and operators\n• Investors and traders\n• Designers and curious minds\n\nWorking across:\n\n• Crypto, Web3, and digital assets\n• AI, agents, and applied machine learning\n\nYou do not need to be working at the intersection. If you are deep in either space, you will find your people here.\n\nWe are also very interested in where AI and crypto meet, including agentic systems, automated finance, and new coordination models.\n\nWhat to expect\n\n• Real conversations about what people are actually building\n• War stories, ideas, experiments, and lessons learned\n• A relaxed environment where you can meet people naturally\n\nNo pressure to pitch. No structured talks. Just good people and good discussions.\n\nWhy join\n\n• Meet high quality builders in Barcelona\n• Exchange ideas without the noise of formal events\n• Find collaborators, hires, or new opportunities\n\n🍺 🍷 Drinks on us, both alcoholic and non alcoholic\n\nWe try to keep the group high signal. If you are actively building or deeply involved in AI or crypto, you will get the most out of it.",
-    "startDate": "2026-09-23T17:30:00.000Z",
-    "endDate": "2026-09-23T19:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Gimlet, Gimlet, Carrer de Santaló, 46, Sarrià-Sant Gervasi, 08021 Barcelona, Spain",
-    "url": "https://luma.com/tk6kn4g8",
-    "registrationUrl": "https://luma.com/tk6kn4g8",
-    "coverImage": "/events/luma-batch-evtRJ1Y31Qhgs3ci-837bd0b4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Buzoku (Barcelona)"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Madrid",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/tk6kn4g8",
-      "eventId": "evt-RJ1Y31Qhgs3cidO",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtoENvZQAxQSuZa",
     "slug": "10oqhols",
     "name": "Stellar Barcelona Builders Evening x CryptoDays | Road to Lisbon — Build Session & HackMeridian Prep",
@@ -14306,36 +14030,6 @@
     "sourceVerification": {
       "url": "https://luma.com/jm02qppl",
       "eventId": "evt-HyXIXimgcKPgrLF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtARpG1u9xaBgns",
-    "slug": "11i5y6mq",
-    "name": "Ethereum Munich #7 🥨",
-    "description": "Servus München,\n\nFor our 7th meetup and for the second time in the new location in the Pato Club - yes, a golf venue, built inside former horse stalls. The horses left. The vibes stayed. Ethereum moved in.\n\nOtherwise, we offer same format as you know: 1-2 focused talks, sharp conversations, good drinks, but just with a bit more (horse) history in the walls. Speakers dropping soon, but expect the usual depth: Ethereum roadmap updates and real use-cases.\n\nOis is ETH 🥨\n\nWe are very grateful for our sponsors:\n\nBitvavo is one of Europe’s leading crypto exchanges, serving 2+ million retail users and offering access to 400+ digital assets with deep liquidity, tight spreads and competitive fees. Made in Europe and licensed under MiCAR.\n\nPATO is Munich's first dedicated indoor pickleball facility, located in the Reitschule building near the English Garden. It offers a premium indoor golfing experience combining advanced Garmin R50 simulator technology with a unique, rustic setting.\n\nAnd amazing supporters:\n\nSupported by the Ethereum Foundation's Ethereum Everywhere team.",
-    "startDate": "2026-09-23T16:30:00.000Z",
-    "endDate": "2026-09-23T19:30:00.000Z",
-    "city": "München",
-    "country": "Germany",
-    "location": "München, Bayern, Germany",
-    "url": "https://luma.com/11i5y6mq",
-    "registrationUrl": "https://luma.com/11i5y6mq",
-    "coverImage": "/events/luma-batch-evtARpG1u9xaBgns-cda66ab2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "ETH Munich"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/11i5y6mq",
-      "eventId": "evt-ARpG1u9xaBgns6R",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -16017,66 +15711,6 @@
     }
   },
   {
-    "id": "luma-batch-evtAs7IkzLYtshGB",
-    "slug": "bm3cj7fv",
-    "name": "Bitcoin BAHK Meet UP - Come spend some Sats!!",
-    "description": "It's Wednesday and you're not sure what to do with yourself?\n\nCome grab a drink or a bite with us. We host events all year round to keep the Bitcoin circle vibrant in HK — and you can always count on a fantastic conversation with the brilliant people who show up, whether they're locals or just passing through Hong Kong. Come meet some of the Bitcoin Association's members.\n\nLoad up your Bitcoin wallet, Pay in Sats to the venues that accepts Bitcoin payment, support local merchants.\n\nThis week, we are joining forces with the ICCHK. Israeli chamber of Commerce. Double the guests, double the fun!\n\n!!Never miss an event notification:\n\n📲 Join the Whale Lounge Telegram group https://t.me/+jEZFNPW9SBIwMWQx\n\n📅 Join our Luma calendar https://luma.com/calendar/manage/cal-E5lctISBecgOsy1\n\nOrganized by the Bitcoin Association of Hong Kong × The Whale Lounge hkbitcoincity.com thewhalelounge.com bitcoin.org.hk",
-    "startDate": "2026-09-23T10:00:00.000Z",
-    "endDate": "2026-09-23T13:00:00.000Z",
-    "city": "Hong Kong Island, Hong Kong",
-    "country": "Hong Kong",
-    "location": "Hong Kong Island, Hong Kong, Hong Kong Island, Hong Kong",
-    "url": "https://luma.com/bm3cj7fv",
-    "registrationUrl": "https://luma.com/bm3cj7fv",
-    "coverImage": "/events/luma-batch-evtAs7IkzLYtshGB-02fe1a36.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin Meet Up"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Hong_Kong",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/bm3cj7fv",
-      "eventId": "evt-As7IkzLYtshGBIm",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtjtGjDoKlpAaXH",
-    "slug": "uwmentbt",
-    "name": "Field Station Outpost: IIT Delhi",
-    "description": "Field Station Briefing — Blocsoc × ZuGrama\n\nField Station by ZuGrama × Logos. A one-week residency in Rajasthan. 30 people. Builders, researchers, and organisers living and shipping together.\n\nField Station / Rajasthan runs 23–31 October at a 500-acre regenerative site in Dhun. ZuGrama and Logos are hosting it as a short, high-intensity village for people working on privacy, coordination, civic tools, and pro-human tech.\n\nThis session is a briefing for IIT Delhi students: what the residency is, who it’s for, and how to apply.\n\nAgenda\n\n20 min — Intro to Field Station, ZuGrama & Logos\n\n60 min — Live session with Logos\n\n20 min — Residency walkthrough: tracks, schedule, application\n\nFood, drinks & networking\n\nApply: logos.co/field-station",
-    "startDate": "2026-09-23T12:00:00.000Z",
-    "endDate": "2026-09-23T14:30:00.000Z",
-    "city": "New Delhi",
-    "country": "India",
-    "location": "New Delhi, Delhi, India",
-    "url": "https://luma.com/uwmentbt",
-    "registrationUrl": "https://luma.com/uwmentbt",
-    "coverImage": "/events/luma-batch-evtjtGjDoKlpAaXH-2d0f9467.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/uwmentbt",
-      "eventId": "evt-jtGjDoKlpAaXHQW",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtX2qIvgC91ERAC",
     "slug": "zbeoo5xg",
     "name": "Toro Hedge Community HK",
@@ -17587,36 +17221,6 @@
     }
   },
   {
-    "id": "luma-batch-evtm0sLsFwbM0Vcc",
-    "slug": "wprc-sg-260923-tokenized-gold-oracle-erc-3643",
-    "name": "Whitepaper Reading Club: Tokenized Gold, Oracle, ERC-3643",
-    "description": "Tokenized Gold, Oracle, ERC-3643\n\nReal-World Asset (RWA) tokenization uses distributed ledgers and smart contracts to represent off-chain physical or financial assets as digital tokens on a blockchain. Tokenization does not change the physical or legal nature of the asset itself; rather, it upgrades how ownership records, transfer restrictions, and settlement processes are executed across financial institutions. Globally, total tokenized assets on-chain (excluding fiat stablecoins) have surpassed $30 billion, driven primarily by private credit, sovereign debt, and physical commodities. Prominent global examples include:\n\nPaper / source: [DESCRIPTION COMING SOON]\n\nReferences: https://docs.google.com/document/d/1EBkEP07Xc-LF2UzUlOhTeyNlqDn7_qJu/edit\n\nFormat\n\nShort introduction and context setting to start.\n\nA short walkthrough of the paper and its key ideas.\n\nQuestions and discussion grounded in the original source.\n\nModerator-led discussion with no promotions.\n\nSession Guides:\n\n🧠 Session Lead: Winston Andersen\n\nSoftware engineer at StraitsX (Stablecoin / XSGD and XUSD issuer) and an HKUST Computer Engineering graduate, with experience across blockchain infrastructure and full-stack development\n\nThank you D3 Labs & Chung Ying\n\nD3 Labs is a Southeast Asia-focused blockchain infrastructure company building programmable asset solutions for financial institutions and businesses. Starting in Indonesia, the company helps clients design and deploy tokenization, settlement, interoperability, and other blockchain-based systems across banking, supply chains, digital assets, and commerce. https://d3labs.io/about  We wouldn't be here without you!\n\nAbout Whitepaper Reading Club\n\nWe are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.\n\nLearn more: Website · Summaries · Calendar\n\nWe create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.",
-    "startDate": "2026-09-23T12:00:00.000Z",
-    "endDate": "2026-09-23T14:00:00.000Z",
-    "city": "Kota Jakarta Pusat",
-    "country": "Indonesia",
-    "location": "Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
-    "url": "https://luma.com/wprc-sg-260923-tokenized-gold-oracle-erc-3643",
-    "registrationUrl": "https://luma.com/wprc-sg-260923-tokenized-gold-oracle-erc-3643",
-    "coverImage": "/events/luma-batch-evtm0sLsFwbM0Vcc-419193c5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Whitepaper Reading Club"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/wprc-sg-260923-tokenized-gold-oracle-erc-3643",
-      "eventId": "evt-m0sLsFwbM0VccaT",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt0OWa38I7A9TDM",
     "slug": "585ewyql",
     "name": "Day 1 - BINUS Crypto Week 2026 x W3W Asia",
@@ -18031,36 +17635,6 @@
     "sourceVerification": {
       "url": "https://luma.com/xumr6pca",
       "eventId": "evt-8JjOeNcaN4TA5hq",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt546NWK4LjyrWb",
-    "slug": "riienv9o",
-    "name": "Web3：一種全新的生活方式",
-    "description": "【北科大區塊鏈研究社｜社課】\n\nWeb3：一種全新的生活方式\n—— AI × Web3 時代的生存與創造價值哲學\n\n9/23（三）晚上 19:00–21:00，我們想聊一件比技術更大的事。\n\n提到 Web3，大家通常先想到 Blockchain、Bitcoin、加密貨幣；提到 AI，想到的是 ChatGPT、AI Agent 和一堆工具。\n\n但把視角拉高會發現——它們真正改變的不只是技術，而是人類未來怎麼工作、怎麼協作、怎麼創造價值，以及這個社會怎麼運作。\n\n這堂課用初學者也聽得懂的方式，重新認識 AI、Web3、創業精神、數位文明與未來趨勢。不是技術教學，是一堂啟蒙課：建立認知、打開視野、引發興趣。\n\n第一次接觸完全沒問題，歡迎一起來聽聽這個時代正在發生什麼事。\n\n這堂課會聊到：\n\n🌐 Web3 為什麼不只是 Blockchain，而是一種新的生活方式\n\n🤖 AI 如何改變生產力，以及個人、小團隊與創業模式\n\n🔗 AI 與 Web3 真正的交集：人類社會如何組織、協作、創造價值\n\n💡 AI 時代該如何思考市場、創造價值與創業精神\n\n⛓️ 從數位文明的角度，理解 Blockchain 與 Bitcoin 在未來扮演的角色\n\n最後，我們想給你的不是一堆零散的技術名詞，而是一套能理解 AI × Web3 時代的思考框架。\n\n📅 日期｜9/23（三）\n⏰ 時間｜19:00–21:00\n📍 地點｜第六教學大樓 627 教室\n\n⚠️ 本次活動須完成 Luma 報名並確認收到 Ticket 才算取得參加資格，活動當日將掃描 Luma QR Code 入場。\n\n#北科大區塊鏈研究社 #Web3 #AI #Blockchain #Bitcoin #NTUTBlockchain #社課 #創業精神 #數位文明",
-    "startDate": "2026-09-23T11:00:00.000Z",
-    "endDate": "2026-09-23T13:00:00.000Z",
-    "city": "Da’an District",
-    "country": "Taiwan",
-    "location": "第六教學大樓, 106, Taiwan, Taipei City, Da’an District, Minhui Village, Section 3, Zhongxiao E Rd, 1號第六教學大樓",
-    "url": "https://luma.com/riienv9o",
-    "registrationUrl": "https://luma.com/riienv9o",
-    "coverImage": "/events/luma-batch-evt546NWK4LjyrWb-3b9b82f0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "NTUT BlockChain Club"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Taipei",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/riienv9o",
-      "eventId": "evt-546NWK4LjyrWbLL",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

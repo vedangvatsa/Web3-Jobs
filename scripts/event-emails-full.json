@@ -359,29 +359,6 @@
     }
   },
   {
-    "name": "Freedom Tech DC 2026",
-    "url": "https://www.btcpolicy.org",
-    "emails": [
-      "mboyer@btcpolicy.org"
-    ],
-    "event": {
-      "id": "premier-freedomtech",
-      "slug": "freedom",
-      "name": "Freedom Tech DC 2026",
-      "description": "The Bitcoin Policy Institute's flagship gathering on Bitcoin, freedom technology, and policy, returning to Washington DC.",
-      "startDate": "2026-09-22T09:00:00.000Z",
-      "endDate": "2026-09-23T18:00:00.000Z",
-      "city": "Washington DC",
-      "country": "United States",
-      "location": "Washington, DC, USA",
-      "url": "https://www.btcpolicy.org",
-      "website": "https://www.btcpolicy.org",
-      "coverImage": "https://cdn.prod.website-files.com/68f7cddcae0b61add08140fc/696e4e1d57e5456bda73085e_website%20share.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Ethereum Korea One 2026",
     "url": "https://one.ethereumkorea.io",
     "emails": [
@@ -893,27 +870,6 @@
     }
   },
   {
-    "name": "Agentic Summit",
-    "url": "https://agentic-summit.org/",
-    "emails": [
-      "contact@nyx.foundation"
-    ],
-    "event": {
-      "id": "w3v-agentic-summit",
-      "name": "Agentic Summit",
-      "description": "Agentic Summit: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
-      "startDate": "2026-09-23T09:00:00.000Z",
-      "endDate": "2026-09-23T16:00:00.000Z",
-      "city": "Bunkyo City",
-      "country": "JP",
-      "location": "Bunkyo City, JP",
-      "url": "https://agentic-summit.org/",
-      "coverImage": "https://agentic-summit.org/og.png",
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "Ethereum Institutional Summit 2026",
     "url": "https://eis.fracton.ventures",
     "emails": [
@@ -1061,13 +1017,6 @@
     "url": "https://lu.ma/8vqlli1c",
     "emails": [
       "press@google.com"
-    ]
-  },
-  {
-    "name": "Superteam member office hours",
-    "url": "https://lu.ma/member-office-hours",
-    "emails": [
-      "support@superteam.fun"
     ]
   },
   {

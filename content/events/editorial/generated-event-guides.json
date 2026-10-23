@@ -1387,43 +1387,6 @@
       }
     ]
   },
-  "premier-freedomtech": {
-    "summaryLead": "Freedom Tech DC 2026, the Bitcoin Policy Institute's flagship summit, returns to Washington on September 22-23 with policymakers and technologists debating money, speech, and compute, bracketed by a black-tie gala at the Andrew W. Mellon Auditorium.",
-    "sections": [
-      {
-        "heading": "Money, Speech, and Compute on One Agenda",
-        "content": [
-          "The Bitcoin Policy Institute frames its 2026 summit around a plain thesis: national power now runs on technologies of money, speech, and compute, and Washington is writing the rules governing all three. Session themes take up questions like who gets access to the most capable systems and on whose authority, whether the energy and compute build-out becomes broad competition or a set of chokepoints a few firms can throttle, and whether frontier capability can stay open and lawful at all.",
-          "That framing explains the guest-list style. This is a policy gathering where senators share billing with bitcoin CEOs, not a developer conference with a policy track bolted on for optics.",
-          "It is also the institute's flagship return to the capital. BPI is a non-profit think tank established in 2021, publishing research on strategic reserves, mining and energy, financial privacy, and national security, and that pipeline feeds the summit's programming directly."
-        ]
-      },
-      {
-        "heading": "The Venues Tell You the Intent",
-        "content": [
-          "Day one, September 22, runs all day at the National Press Club under the banner Establishing the Stakes. Day two, September 23, moves to PubKey DC, the bitcoin-themed pub downtown, for Hands-On Policy Work, followed by a closing party there that evening.",
-          "The shift from press club to bitcoin pub is the argument made spatially: formal debate first, practical work second. Between the two, on the evening of September 22, sits the Freedom Tech Gala at the Andrew W. Mellon Auditorium, black tie dress, doors opening at 8:00 pm.",
-          "The program extends past the summit proper. An inaugural DC Beefsteak welcome takes place at PubKey DC on September 21, and a Day on the Hill at the United States Capitol follows on the morning of September 24 for those staying through."
-        ]
-      },
-      {
-        "heading": "Who Has Taken This Stage Before",
-        "content": [
-          "Past editions drew senators Cynthia Lummis, Marsha Blackburn, and Ted Cruz; House Majority Whip Tom Emmer; congressmen Ritchie Torres, Josh Gottheimer, and Ro Khanna; SEC Commissioner Hester Peirce; and Bo Hines, executive director of the White House Council on Digital Assets.",
-          "Industry representation has been just as heavy: Strategy executive chairman Michael Saylor, MARA CEO Fred Thiel, River CEO Alex Leishman, Anchorage Digital co-founder Nathan McCauley, BitGo CEO Mike Belshe, and Strive founder Vivek Ramaswamy among them.",
-          "The 2026 lineup had not been published when this guide went up, with the speaker page promising announcements soon. Given the pattern, expect sitting policymakers alongside bitcoin company leadership, and treat the past-speaker wall as the honest preview of caliber."
-        ]
-      },
-      {
-        "heading": "Access, Tickets, and the Gala",
-        "content": [
-          "Full-access tickets covering the entire September 21-24 program are allocated by request rather than checkout: submit the request form and the team follows up with next steps. Capacity is limited, and the request model is stated plainly on the site, so apply early rather than assuming availability.",
-          "The one openly sold item is the gala. Gala passes are available to anyone through the ticketing link, priced separately from the summit, with no invitation or approval step required. If your goal is the room rather than the panels, that is the shortest path in.",
-          "Press inquiries route through BPI communications, same-day responses promised, with credentials requestable by email. For anyone tracking Bitcoin policy in Washington, these remain the most concentrated two days of access the city offers."
-        ]
-      }
-    ]
-  },
   "premier-midwestbtc": {
     "summaryLead": "The Midwest Bitcoin Summit takes over the Greater Columbus Convention Center in Columbus, Ohio on September 23-24, 2026, with programming spanning mining, payments, financial infrastructure, and sovereign adoption.",
     "sections": [
@@ -2872,40 +2835,6 @@
         "content": [
           "Registration is through the Luma page, and the exact location is disclosed after you register. The event runs from 6:00 PM to 9:00 PM, which is a standard format for a CryptoMondays kickoff social. Eight people are listed as going on the Luma page, with the description noting that more speakers, special guests, and surprises are to be announced as they are confirmed.",
           "If you are planning to attend the Blockchain Futurist Conference Florida, this kickoff is worth adding to your schedule. It is a lower-stakes environment than the main conference, which means conversations are more likely to be genuine and less likely to feel transactional. The Davie location puts you in South Florida before the conference venue, and the CryptoMondays community - known for being welcoming to newcomers and experienced builders alike - provides a good entry point into the local scene. Register early, show up on time, and use the three hours to build the relationships that make the rest of the conference more productive."
-        ]
-      }
-    ]
-  },
-  "luma-crypto-t4hEnBsbFRmstlp": {
-    "summaryLead": "Blockchain in Real Assets: Opportunities and Challenges on September 23, 2026 in London is an evening hosted by UCL CSRI, PGIM, and UCL CBT on how blockchain, AI, and digital infrastructure apply to real assets and the built environment.",
-    "sections": [
-      {
-        "heading": "Hosts and audience",
-        "content": [
-          "The Luma listing invites leaders from investment management, real estate, technology, academia, and startups for an evening focused on real-world applications—not hype decks. UCL's Centre for Sustainability and RealTech Innovation (CSRI), PGIM, and the UCL Centre for Blockchain Technologies (CBT) convene researchers, founders, investors, and practitioners to compare practical use cases, adoption friction, and emerging opportunities across real assets.",
-          "Organizers say capacity is limited and encourage early registration through https://luma.com/qij60sdb. The exact venue is shown after you register; the public location line is London, United Kingdom."
-        ]
-      },
-      {
-        "heading": "Topics on the agenda",
-        "content": [
-          "Published themes include blockchain in real estate, infrastructure, and investment operations; tokenisation, digital assets, and market adoption; AI plus blockchain for data integrity, automation, and decision support; governance, compliance, and risk; and sustainability, asset records, and digital trust infrastructure.",
-          "The page is aimed at investors, asset managers, real estate professionals, founders, researchers, students, technology teams, policymakers, and anyone tracking digital assets, AI, and innovation tied to real-world assets."
-        ]
-      },
-      {
-        "heading": "Program outline",
-        "content": [
-          "The listed run of show opens with a keynote on industry and technology trends shaping digital assets and real-asset innovation.",
-          "Industry and research case studies follow, with insights from leading organisations, researchers, and founders—including contributors named from PGIM, Ripple, UCL, and the wider ecosystem.",
-          "A fireside discussion covers adoption barriers, commercial realities, and what comes next. The evening closes with a networking reception where attendees can meet investors, founders, researchers, students, and industry leaders over drinks and refreshments."
-        ]
-      },
-      {
-        "heading": "In person and virtual",
-        "content": [
-          "Luma lists separate attendance paths: in-person guests should contact the hosts if they wish to attend on site; virtual participants receive a link closer to the event date.",
-          "Confirm your format and any host instructions on the official registration page before you travel or block calendar time."
         ]
       }
     ]

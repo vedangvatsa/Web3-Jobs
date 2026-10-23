@@ -1540,29 +1540,6 @@
     }
   },
   {
-    "id": "premier-freedomtech",
-    "slug": "freedom",
-    "name": "Freedom Tech DC 2026",
-    "description": "For most of the last century, national power was counted in steel, oil, and warheads. In this one it runs on the technologies of money, speech, and compute, the rails beneath economic life and public argument, and now intelligence itself.\n\nIf we get this right, America compounds a generational advantage; get it wrong and we cede the century to surveillance, capture, and rivals who have already chosen control.\n\nWho gets access to the most capable systems, and on whose authority?\n\nDoes the enormous build-out of energy and compute we need to outpace China become an engine of broad competition, or a set of chokepoints a few firms and agencies can throttle?\n\nCan frontier capability stay open and lawful without being surrendered either to a handful of incumbents or to the most dangerous people online?\n\n## 2026 Speakers\n\nMeet the policymakers, builders, and leaders taking the stage at Freedom Tech DC 2026.\n\n## Last Year’s Event\n\nA look back at last year’s Bitcoin Policy Summit — the conversations, the people, the momentum.\n\n## The Program\n\n## BitDevs\n\n## Day 1\n\n## Inaugural DC Beefsteak\n\n## Day 2\n\n## Closing Party\n\n## Day on the Hill\n\n## Which pass are you requesting?",
-    "startDate": "2026-09-22T09:00:00.000Z",
-    "endDate": "2026-09-23T18:00:00.000Z",
-    "city": "Washington DC",
-    "country": "United States",
-    "location": "Washington, DC, USA",
-    "url": "https://www.btcpolicy.org",
-    "website": "https://www.btcpolicy.org",
-    "coverImage": "/events/premier-freedomtech-79e82312.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://www.btcpolicy.org/summit",
-      "fetchedAt": "2026-09-20T00:39:52.581Z",
-      "method": "official-section",
-      "pageTitle": "Freedom Tech DC | September 22-23, 2026",
-      "sha256": "967066da2f4c8eb3a5c2a184ab568a8e3905da33277ffe312795015c52262253"
-    }
-  },
-  {
     "id": "premier-midwestbtc",
     "slug": "midwest",
     "name": "Midwest Bitcoin Summit 2026",

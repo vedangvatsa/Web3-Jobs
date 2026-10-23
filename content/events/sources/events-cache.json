@@ -175,52 +175,6 @@
     }
   },
   {
-    "id": "luma-host-evt-evt-oGq7JRJkO9n7UNV",
-    "name": "Superteam member office hours",
-    "description": "Office hours for Superteam Members.Every Wednesday at 2:30pm UTC.Come rant and ask any questions regarding:- marketing support- grants and milestones- product feedback- pitch feedback- ecosystem intros- fundraising etc.Hosted by Josip Volarević\n\n## Event details\n\nHosted by Josip Volarević (Technical founder), Superteam. The event takes place on September 23. Registration requires organizer approval.",
-    "startDate": "2026-09-23T14:30:00.000Z",
-    "endDate": "2026-09-23T16:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Location to be announced",
-    "url": "https://lu.ma/member-office-hours",
-    "coverImage": "/events/luma-host-evt-evt-ogq7jrjko9n7unv-9450bda8.webp",
-    "source": "luma-trusted",
-    "month": "September 2026",
-    "slug": "smoh",
-    "timezone": "Europe/Warsaw",
-    "registrationUrl": "https://luma.com/member-office-hours",
-    "visibility": "public",
-    "locationHidden": false,
-    "hosts": [
-      "Josip Volarević",
-      "Superteam"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam",
-      "url": "https://superteam.fun/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/member-office-hours",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/member-office-hours",
-      "eventId": "evt-oGq7JRJkO9n7UNV",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky",
     "name": "Web3Privacy now Tokyo meetup",
     "description": "Final date & Placa has been set - 24 September, Tokyo Dome!\n\nShaping and Defending the Techno-Political Evolution: Open Source, Public Goods, and Grassroots Movements\n\nWeb3Privacy now x ETHTokyo side event\n\nSpeakers & Hosts\n\n• [Alan Scott](https://x.com/tsu_kareta)  (https://x.com/tsu_kareta)[x Railgun](https://railgun.org/)  - zero-knowledge that really works and protects billions of funds. Champion of Ethereum privacy.\n• [Parsley](https://x.com/Parsley3D) [x FAT Solutions](https://fatsolutions.xyz/)- long-lasting FOSS & privacy advocates collaborating with Privacy Pools, Starknet & others.\n• [Yudai Suzuki](https://x.com/9dai_5) [x Fracton Ventures](https://fracton.ventures/) - ecosystem weaver with a lifetime commitment to scaling Ethereum's CROPS values across Asia and beyond.\n• [Koss](https://x.com/kosmostasis)[x Swarm](https://www.ethswarm.org/)/Ayllu - long-lasting digital rights activist, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation.\n• [Kelly Joo](https://x.com/yjkellyjoo) [x Swarm](https://www.ethswarm.org/) - seasoned swiss-knife devrel at the service of Ethereum privacy.\n• [Toshi Matsumoto](https://x.com/toshiboy86) [x INTMAX](https://intmax.io/)/[zERC20](https://zerc20.io/) - making privacy on Ethereum not only cryptographically secure, but usable, interoperable, and ready for real-world adoption.\n\n## Half-day dedicated to fostering solidarity and understanding among\n\n• open source and human rights advocates\n• public goods developers and hacker culture\n• internet freedom defenders and grassroots movements\n• hacktivists and the general public\n\n## DISCLAIMER: the event is first come, first served.\n\n> [Privacy Summit I, Prague, 2023 - Ameen Soleimani](https://x.com/ameensol)\n\nABOUT US\n\n[Web3Privacy Now](https://web3privacy.info/)is a think-and-do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.\n\nWe facilitate cross-stack and cross-community collaboration to drive meaningful impact. We challenge standardization and maximalism, avoid abstractions and stereotypes.\n\nWe work on the forefront of technology with a poly-disciplinary approach, togetherness, and care, assiting each other in clarifying paths toward effective progress.\n\nWebsite: https://web3privacy.info/\nLatest news: http://twitter.com/web3privacy\n\nOUR MISSION\n\nWe aim to manifest profound social change by advocating Privacy and civil liberties in the Web3 Era.\n\nWe envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.\n\nWith unified efforts, we are carving out a path toward a more equitable, decentralized, and freedom-respecting digital commons.\n\nWeb3Privacy Now 2026 events\n\nEthereum Cypherpunk Congress #3\n\ndate: 2 Nov\nplace: Mumbai (next to Devcon)\nspecs: 5000 people, 100 speakers, many tier1 non-web3 (aiming for Signal, Brave, Tor, EFF etc)\nweb: https://congress.web3privacy.info\n\nNeo-cypherpunk summit in Berlin - building new activist culture\ndate: 14 June\nplace: Berlin (part of Berlin Blockchain Week)\nspecs: 2000 people, 80 speakers, many tier1 non-web3, great location (Funkhaus)\nweb: https://web3privacy.github.io/s26ber/\n\nCypherpunk Retreat - focused on 1 domain x collab with Protocol Labs\ndate: September\nplace: TBD (highly: Europe)\nspecs: ±50 Tier1 builders (both web3 + web2)\nweb: http://cypherpunk.camp\n\nPrivacy-focused meetups\n\n- Prague: https://luma.com/98pzi0jh\n- Rome: https://luma.com/q1sdbqf3\n- Tokyo: https://luma.com/ispxo30p\n- Amsterdam: https://luma.com/sixp297m\n\nContribute\n\nVolunteer: https://tally.so/r/3lLqKo\nSpeak: https://tally.so/r/nrOzXl\n[Partner: pg ‘at’ web3privacy.info](https://web3privacy.info)\n\nSocials\n\ncommunity https://t.me/+ZGFx7P_uaLUxZThk\n[web https://web3privacy.info](http://web3privacy.info)\n[git https://github.com/web3privacy](http://github.com/web3privacy)\nyoutube https://www.youtube.com/web3privacynow\nx https://x.com/web3privacy",
@@ -331,21 +285,6 @@
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
-  },
-  {
-    "id": "w3v-agentic-summit",
-    "name": "Agentic Summit",
-    "description": "Agentic Summit: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
-    "startDate": "2026-09-23T09:00:00.000Z",
-    "endDate": "2026-09-23T16:00:00.000Z",
-    "city": "Bunkyo City",
-    "country": "Japan",
-    "location": "Bunkyo City, JP",
-    "url": "https://agentic-summit.org/",
-    "coverImage": "/events/ev-d7e1e4e2.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026"
   },
   {
     "id": "luma-evt-uRRcZwmUKsVyVlH",
@@ -19160,35 +19099,35 @@
     "month": "November 2026",
     "speakers": [
       "George Osborne",
-      "Emma Landriault",
+      "Gareth Davies MP",
       "Johann Kerbrat",
-      "Zach Abrams",
+      "Emma Landriault",
       "Dan Tapiero",
+      "Zach Abrams",
       "Nikhil Sharma",
       "Catherine Porter",
       "Dan Morehead",
       "Faryar Shirzad",
-      "Matthew Long",
-      "Laurie Katz",
-      "Geoffrey Kendrick",
-      "Gareth Davies MP",
-      "Konstantin Richter",
-      "Jason Yanowitz",
-      "Stani Kulechov",
       "Rebecca Rettig",
-      "David Mercer",
-      "Ryan Hayward",
-      "Katie Harries",
-      "Kash Razzaghi",
-      "Theo Golden",
-      "Lord Holmes of Richmond MBE",
-      "Anatoly Crachilov",
+      "Matthew Long",
+      "Geoffrey Kendrick",
       "Samantha Bohbot",
-      "Francisco Maroto Castro",
+      "Jason Yanowitz",
+      "Laurie Katz",
+      "Stani Kulechov",
+      "Lord Holmes of Richmond MBE",
+      "David Mercer",
+      "Katie Harries",
+      "Theo Golden",
+      "Anatoly Crachilov",
       "Sophia Bantanidis",
       "Simon Taylor",
-      "Dr. Lin Han",
-      "Lance Vitanza"
+      "Ryan Hayward",
+      "Stephanie Ramezan",
+      "Francisco Maroto Castro",
+      "Kash Razzaghi",
+      "Alex Seddon",
+      "Mario Di Dio"
     ]
   },
   {
@@ -19640,7 +19579,7 @@
     "country": "Romania",
     "location": "Bucharest, Romania",
     "url": "https://cryptoexpoeurope.com/",
-    "coverImage": "/events/ma-crypto-expo-europe-2027-58c75062.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -20465,7 +20404,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -24682,7 +24621,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bitcoincharlotte/events/316966313/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316966313-83980265.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28507,7 +28446,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -28732,5 +28674,75 @@
     "url": "https://luma.com/e9iw08nn",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-PuYOwG3mhodxC6r",
+    "name": "Countersituation V1: Self Knowledge, Heavy Projects, and What Culture Can Learn From Silicon Valley",
+    "description": "",
+    "startDate": "2026-10-24T18:00:00.000Z",
+    "endDate": "2026-10-24T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/oy2jh0vg",
+    "coverImage": "/events/luma-evt-puyowg3mhodxc6r-7ccddfb6.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-6yD3RrJbYmz4eik",
+    "name": "Field To Fork: A Conversation on Sustainable Food with Tidefield & Mercedes-Benz BeVisioneers",
+    "description": "",
+    "startDate": "2026-10-25T00:00:00.000Z",
+    "endDate": "2026-10-25T02:00:00.000Z",
+    "city": "Stanford",
+    "country": "United States",
+    "location": "Stanford, United States",
+    "url": "https://lu.ma/tw0wr9bo",
+    "coverImage": "/events/luma-evt-6yd3rrjbymz4eik-dbc53467.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-MAC07JTiRCcFAfP",
+    "name": "Solana Ecoyststem Call Pune - Private Gathering",
+    "description": "",
+    "startDate": "2026-10-29T13:30:00.000Z",
+    "endDate": "2026-10-29T16:30:00.000Z",
+    "city": "Pune",
+    "country": "India",
+    "location": "Pune, India",
+    "url": "https://luma.com/sol-eco-call-pune",
+    "coverImage": "/events/luma-host-evt-evt-mac07jtirccfafp-f17aa568.webp",
+    "source": "luma-trusted",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-KR0ua1SuHzxdq0B",
+    "name": "ANATOMY OF A FAKE INTERVIEW: Social Engineering Campaigns Targeting Crypto Developers",
+    "description": "",
+    "startDate": "2026-10-29T16:00:00.000Z",
+    "endDate": "2026-10-29T17:30:00.000Z",
+    "city": "Zug",
+    "country": "Switzerland",
+    "location": "Zug, Switzerland",
+    "url": "https://lu.ma/fake_interview",
+    "coverImage": "/events/luma-evt-kr0ua1suhzxdq0b-05868477.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-xkVemq58zKdXG7y",
+    "name": "Dinner & Dialogue with Confido Health",
+    "description": "",
+    "startDate": "2026-10-30T23:30:00.000Z",
+    "endDate": "2026-10-31T02:30:00.000Z",
+    "city": "Chicago",
+    "country": "United States",
+    "location": "Chicago, United States",
+    "url": "https://lu.ma/clsw8t57",
+    "coverImage": "/events/luma-evt-xkvemq58zkdxg7y-ec29b94f.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]
