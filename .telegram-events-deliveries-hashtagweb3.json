@@ -2989,5 +2989,51 @@
     "slotKey": "2026-10-23:morning",
     "messageId": 155897,
     "sentAt": "2026-10-23T03:44:26.079Z"
+  },
+  "3d4259e2-2eab-4bbc-b8d6-2ca307c9ff2d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-23T11:31:49.064Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-vJUx9grI6doLBwb",
+        "slug": "bitcoin-indonesia-community-meetup-bandung-barat-25-oktober",
+        "name": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026",
+        "startDate": "2026-10-25T15:30:00+07:00",
+        "keys": [
+          "discovery-evt-vjux9gri6dolbwb",
+          "page:bitcoin-indonesia-community-meetup-bandung-barat-25-oktober:2026-10-25",
+          "luma:evt-vjux9gri6dolbwb",
+          "luma-url:/fv97vshu",
+          "event:bitcoinindonesiacommunitymeetupbandungbarat25oktober2026:2026-10-25:bandung barat regency"
+        ]
+      },
+      {
+        "id": "mu-316810808",
+        "slug": "bitcoin-women-meetup-mit-les-femmes-orange",
+        "name": "Bitcoin Women Meetup mit Les Femmes Orange",
+        "startDate": "2026-10-25T15:00:00+01:00",
+        "keys": [
+          "mu-316810808",
+          "page:bitcoin-women-meetup-mit-les-femmes-orange:2026-10-25",
+          "url:meetup.com/bitcoin-lab-berlin/events/316810808:2026-10-25",
+          "event:bitcoinwomenmeetupmitlesfemmesorange:2026-10-25:berlin"
+        ]
+      },
+      {
+        "id": "mu-317049329",
+        "slug": "bitcoin-beginners-2026-10-25",
+        "name": "Bitcoin for Beginners",
+        "startDate": "2026-10-25T14:00:00-07:00",
+        "keys": [
+          "mu-317049329",
+          "page:bitcoin-beginners-2026-10-25:2026-10-25",
+          "url:meetup.com/bay-area-bitcoiners/events/317049329:2026-10-25",
+          "event:bitcoinforbeginners:2026-10-25:oakland"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-23:afternoon"
   }
 }
