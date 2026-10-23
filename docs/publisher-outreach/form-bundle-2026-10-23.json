@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Bundle",
+  "url": "https://about.bundle.app/tr/iletisim",
+  "status": "email-only",
+  "mailTo": "support@bundlenews.co",
+  "note": "Contact page mailto only.",
+  "payloadSha256": "77ae0481ab85076ba6249dfb7a15946c4ec25a9cd04ba3890ad0ed2ce5c54447",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

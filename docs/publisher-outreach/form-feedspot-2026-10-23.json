@@ -4,8 +4,9 @@
   "submittedAt": "2026-10-23",
   "target": "Feedspot",
   "url": "https://www.feedspot.com/",
-  "status": "incomplete",
-  "note": "For Publishers route located; submit form not exposed to automation without interaction steps.",
-  "payloadSha256": "0516b86e1a9dc84045a4178a0f2ffdb7605ba5ee2aff5f4f8c02f0e30f59b985",
-  "recordedAt": "2026-10-23T14:36:10.000Z"
+  "status": "email-only",
+  "mailTo": "team@feedspot.com",
+  "note": "Blog/directory submit UI; form fields incomplete without login. Email team@feedspot.com found.",
+  "payloadSha256": "0e7587e2b484f9f67de98158443ad03f1560918e6b6ddb826d3ba65c78c1427d",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
 }

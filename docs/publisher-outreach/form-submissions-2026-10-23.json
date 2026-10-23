@@ -21,16 +21,34 @@
       "url": "https://www.ap.org/content/partners-and-contributors/"
     },
     {
+      "file": "form-blockchain.news-2026-10-23.json",
+      "target": "Blockchain.News",
+      "status": "http-error",
+      "url": "https://www.blockchain.news/contact"
+    },
+    {
       "file": "form-blogarama-2026-10-23.json",
       "target": "Blogarama",
       "status": "login-required",
       "url": "https://www.blogarama.com/"
     },
     {
+      "file": "form-bundle-2026-10-23.json",
+      "target": "Bundle",
+      "status": "email-only",
+      "url": "https://about.bundle.app/tr/iletisim"
+    },
+    {
       "file": "form-coincarp-2026-10-23.json",
       "target": "CoinCarp",
       "status": "submitted",
       "url": "https://www.coincarp.com/submit/"
+    },
+    {
+      "file": "form-coincodex-2026-10-23.json",
+      "target": "CoinCodex",
+      "status": "email-only",
+      "url": "https://coincodex.com/page/contact-us/"
     },
     {
       "file": "form-coingecko-2026-10-23.json",
@@ -57,6 +75,12 @@
       "url": "https://cryptonews.net/contacts/"
     },
     {
+      "file": "form-crypto-news-contact2-2026-10-23.json",
+      "target": "Crypto News",
+      "status": "failed",
+      "url": "https://cryptonews.net/contacts/"
+    },
+    {
       "file": "form-feeder-2026-10-23.json",
       "target": "Feeder",
       "status": "email-only",
@@ -65,7 +89,7 @@
     {
       "file": "form-feedspot-2026-10-23.json",
       "target": "Feedspot",
-      "status": "incomplete",
+      "status": "email-only",
       "url": "https://www.feedspot.com/"
     },
     {
@@ -111,10 +135,34 @@
       "url": "https://jionews.com/contactus"
     },
     {
+      "file": "form-joomag-2026-10-23.json",
+      "target": "Joomag",
+      "status": "no-web-form-exposed",
+      "url": "https://www.joomag.com/"
+    },
+    {
+      "file": "form-magzter-2026-10-23.json",
+      "target": "Magzter",
+      "status": "http-404",
+      "url": "https://www.magzter.com/partner/"
+    },
+    {
+      "file": "form-marketscreener-2026-10-23.json",
+      "target": "MarketScreener",
+      "status": "http-404",
+      "url": "https://www.marketscreener.com/quote/contact/"
+    },
+    {
       "file": "form-mediafeed-2026-10-23.json",
       "target": "MediaFeed",
       "status": "submitted",
       "url": "https://www.mediafeed.us/contact"
+    },
+    {
+      "file": "form-newslookup-2026-10-23.json",
+      "target": "Newslookup",
+      "status": "navigation-error",
+      "url": "https://www.newslookup.com/"
     },
     {
       "file": "form-newsnow-2026-10-23.json",
@@ -151,6 +199,12 @@
       "target": "ProQuest",
       "status": "no-web-form",
       "url": "https://about.proquest.com/en/publishers/"
+    },
+    {
+      "file": "form-readly-2026-10-23.json",
+      "target": "Readly",
+      "status": "no-web-form-exposed",
+      "url": "https://corporate.readly.com/partners"
     },
     {
       "file": "form-reuters-connect-2026-10-23.json",
@@ -193,13 +247,16 @@
     "no-publisher-form": 2,
     "rejected-by-policy": 1,
     "submitted-unconfirmed": 5,
+    "http-error": 1,
     "login-required": 1,
+    "email-only": 6,
     "submitted": 4,
-    "incomplete": 3,
-    "no-web-form-exposed": 4,
-    "failed": 3,
-    "email-only": 3,
+    "incomplete": 2,
+    "no-web-form-exposed": 6,
+    "failed": 4,
     "no-standard-form": 1,
+    "http-404": 2,
+    "navigation-error": 1,
     "post-sent-unconfirmed": 1,
     "inspected-only": 1,
     "no-web-form": 2

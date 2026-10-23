@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Readly",
+  "url": "https://corporate.readly.com/partners",
+  "status": "no-web-form-exposed",
+  "note": "Partners page; no form fields.",
+  "payloadSha256": "5c7835cee9de0029a374ac69114c028db0bba8996ae277c6e0d73c79d9065ba7",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

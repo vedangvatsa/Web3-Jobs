@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Crypto News",
+  "url": "https://cryptonews.net/contacts/",
+  "status": "failed",
+  "note": "Retried with consent checkboxes auto-checked; Submit still disabled.",
+  "mailTo": "support@cryptonews.net",
+  "payloadSha256": "1b3d5a1d35f598cd749dc2825ec2fd236969122aa3651e647ee64758ac0b72de",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

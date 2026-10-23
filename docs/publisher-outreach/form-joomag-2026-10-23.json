@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Joomag",
+  "url": "https://www.joomag.com/",
+  "status": "no-web-form-exposed",
+  "note": "Homepage marketing; no publisher form found in automation.",
+  "payloadSha256": "4b080f030aed936e9d4bb688e58c43d98d1879cd9c2eee9549bfd504a040cc7c",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

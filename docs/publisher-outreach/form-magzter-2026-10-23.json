@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Magzter",
+  "url": "https://www.magzter.com/partner/",
+  "status": "http-404",
+  "note": "Partner path 404.",
+  "payloadSha256": "dbe02efb61db5cf72b16cb68ddc63c3df96539bc7f24b77bdb45235e46fbde2a",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

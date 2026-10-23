@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "MarketScreener",
+  "url": "https://www.marketscreener.com/quote/contact/",
+  "status": "http-404",
+  "note": "Contact URL 404; no form.",
+  "payloadSha256": "cf2219d48638bf6305a13680f9a9912de8295d87246b454393721bb43f65f966",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

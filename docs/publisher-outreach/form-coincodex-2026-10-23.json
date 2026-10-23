@@ -1,0 +1,12 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "CoinCodex",
+  "url": "https://coincodex.com/page/contact-us/",
+  "status": "email-only",
+  "mailTo": "info@coincodex.com",
+  "note": "Contact page exposes mailto only; partners page marketing-only.",
+  "payloadSha256": "bb488cfca9441f524f7b775b73b1018ba7f82d5898bd5a8fdfa16d7be466b304",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

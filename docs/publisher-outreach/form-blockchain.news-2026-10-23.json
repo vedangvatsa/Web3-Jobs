@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Blockchain.News",
+  "url": "https://www.blockchain.news/contact",
+  "status": "http-error",
+  "note": "Contact URL returned 525 SSL handshake failure.",
+  "payloadSha256": "ed26315fde74ef0b5913b2ac5da70971e3e452ce6a67db0e8ed06734ad42654c",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}

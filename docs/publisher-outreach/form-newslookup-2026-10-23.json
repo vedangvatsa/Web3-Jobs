@@ -1,0 +1,11 @@
+{
+  "platform": "expansion-form",
+  "route": "website-form",
+  "submittedAt": "2026-10-23",
+  "target": "Newslookup",
+  "url": "https://www.newslookup.com/",
+  "status": "navigation-error",
+  "note": "Page navigated during probe; form not captured.",
+  "payloadSha256": "406326c994d32e963d70067d510ec872493fc0c55d663698013f15846313cf4c",
+  "recordedAt": "2026-10-23T14:43:29.000Z"
+}
