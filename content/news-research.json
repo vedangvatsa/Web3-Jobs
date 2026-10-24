@@ -81559,14 +81559,18 @@
         "id": "1e4b30ebcf2d5f2728a4",
         "day": "2026-10-24",
         "articleSlug": "winklevosspac",
-        "note": "2026-10-24 round 2: re-read Cointelegraph Oct 22 report and located the primary FEC filing URL it cites (docquery.fec.gov/cgi-bin/forms/C00911610/2033528/se) plus secondary outlets (Newisty, Basis Desk, Gate) that all restate the same figures; none of those opened yet. Still need to open the FEC filing as primary and one independent outlet, then draft; slug winklevosspac confirmed free.",
+        "note": "2026-10-24 round 3: re-read Cointelegraph Oct 22 report and opened the primary FEC Schedule E filing (FEC-2033528, Digital Freedom Fund) at docquery.fec.gov; filing records Oct 20 obligations with Oct 19 distribution for direct mail: $7,742.28 tied to James Talarico, $4,074.96 tied to Warren Paxton, plus Iowa/Ohio lines, period total $130,904.04, YTD per office $77,424.28 (Talarico race) and $8,149.92 (Paxton race). Cointelegraph's >$81K supporting Paxton/opposing Talarico figure must stay attributed to Cointelegraph, not read off the filing. Two sites opened; draft, second outlet cross-check and hero image still outstanding, slug winklevosspac free.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
             "outcome": "read"
+          },
+          {
+            "url": "https://docquery.fec.gov/cgi-bin/forms/C00911610/2033528/se",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-24T19:51:26.875Z",
+        "updatedAt": "2026-10-24T20:04:16.043Z",
         "approved": false,
         "mustReview": true
       }
