@@ -84509,11 +84509,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "352c1fc618a9a398032e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T07:00:27.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "opinion",
+      "note": "Read the full piece. CryptoSlate files it under its Analysis section and it is a yield comparison essay (2.2% stETH vs 2.13% household deposits vs 2.442% EURSTR), explaining why investors still stake. No concrete event - no launch, vote, ruling, filing, hack, raise or upgrade - so it fails the event test.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T08:27:24.511Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "1fbbb0a4e5b5dca7dd09": {
       "source": "Decrypt",
@@ -84530,11 +84540,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "1fbbb0a4e5b5dca7dd09",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T20:16:02.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "Read the Decrypt article: same event already covered by content/articles/tetherhines.md - Blumenthal's Oct. 22 letters to Tether CEO Ardoino and Nxum demanding records of payments to the Bo Hines firm, built on the Oct. 14 WSJ investigation, with the same Tether statement and 25%/6 million pitch deck detail. Same single event, no new development.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T08:26:21.817Z",
+      "duplicateOf": "tetherhines",
+      "lastReviewedDay": "2026-10-24"
     },
     "7f15eba2dc095bf8524e": {
       "source": "Crypto Briefing",
@@ -150008,6 +150029,31 @@
             }
           ],
           "reviewedAt": "2026-10-24T08:26:20.010Z"
+        },
+        "1fbbb0a4e5b5dca7dd09": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Read the Decrypt article: same event already covered by content/articles/tetherhines.md - Blumenthal's Oct. 22 letters to Tether CEO Ardoino and Nxum demanding records of payments to the Bo Hines firm, built on the Oct. 14 WSJ investigation, with the same Tether statement and 25%/6 million pitch deck detail. Same single event, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T08:26:21.817Z",
+          "duplicateOf": "tetherhines"
+        },
+        "352c1fc618a9a398032e": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full piece. CryptoSlate files it under its Analysis section and it is a yield comparison essay (2.2% stETH vs 2.13% household deposits vs 2.442% EURSTR), explaining why investors still stake. No concrete event - no launch, vote, ruling, filing, hack, raise or upgrade - so it fails the event test.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T08:27:24.511Z"
         }
       },
       "baselineSlugs": [
