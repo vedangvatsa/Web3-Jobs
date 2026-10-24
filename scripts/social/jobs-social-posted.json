@@ -49756,7 +49756,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "1ead219e-3635-461a-9219-141755151fb8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbdf81c3d42485c91bc791cc659eceed1b6b8ca4d"
     }
   ]
 }
