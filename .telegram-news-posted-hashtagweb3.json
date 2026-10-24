@@ -800,6 +800,9 @@
   "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/aeromerge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/malayssds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cardanomica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dogecoinlabs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eclairpatches?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2307,6 +2310,12 @@
   "Aero launches as Aerodrome and Velodrome merge across seven chains",
   "Bank Negara Malaysia Launches Tokenized Bond Platform",
   "Bank Negara Malaysia launches SSDS+ platform for tokenized bonds and sukuk",
+  "Cardano Foundation Urges EU to Exclude DeFi from MiCA",
+  "Cardano Foundation tells EU not to extend MiCA rules to DeFi and staking",
+  "Dogecoin Labs launches to unify ecosystem applications and tools",
+  "Dogecoin Labs launches to consolidate MyDoge, DogeOS and merchant tools",
+  "ACINQ releases second Eclair security update in five days",
+  "Eclair ships second Lightning security patch in five days",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2657,5 +2666,8 @@
   "fp:25b|acquisition|axio|claim|deny|fireblock|firm|giant|lat|negotiation",
   "fp:challeng|claim|claus|commerc|commodity|conflict|contract|court|demand|event",
   "fp:aero|aerodrom|chain|convert|decentraliz|exchang|exist|form|lock|merg",
-  "fp:bank|blockchain|bond|central|digital|introduc|islamic|issu|malaysia|negara"
+  "fp:bank|blockchain|bond|central|digital|introduc|islamic|issu|malaysia|negara",
+  "fp:against|apply|argu|cardano|commission|decentraliz|defi|european|exclud|extend",
+  "fp:application|ceo|combin|consolidat|dogecoin|dogeo|ecosystem|entity|jefferson|jordan",
+  "fp:acinq|address|are|day|eclair|exploit|fiv|install|lightn|network"
 ]
