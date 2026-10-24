@@ -18,6 +18,7 @@ export function isPostingWindow(slot, now = Date.now()) {
 }
 
 export function assertPostingWindow(slot, now = Date.now()) {
+  if (process.env.FORCE_SOCIAL === 'true') return;
   if (!isPostingWindow(slot, now)) throw new Error(`Outside posting window for ${slot.key}; late or early runs must not send`);
 }
 

@@ -45,6 +45,10 @@ on:
         description: 'Bypass news cooldown; scheduled window and duplicate guards still apply'
         type: boolean
         default: false
+      force_social:
+        description: 'Bypass posting window check for manual / catch-up posting'
+        type: boolean
+        default: false
       diagnose_telegram:
         description: 'Only diagnose bot/channel access (no posts)'
         type: boolean
@@ -158,7 +162,7 @@ jobs:
           esac
           TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
-          node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
+          FORCE_SOCIAL="${{ github.event.inputs.force_social }}" node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
           node scripts/social/job-video-slot.mjs "$SLOT" "$TODAY" >> "$GITHUB_OUTPUT"
 
       - id: knowledge
@@ -212,6 +216,7 @@ jobs:
     with:
       slot: ${{ needs.gate.outputs.slot }}
       date: ${{ needs.gate.outputs.date }}
+      force: ${{ inputs.force_social == true }}
     secrets: inherit
 
   post-videos:
@@ -512,6 +517,7 @@ jobs:
     env:
       TELEGRAM_PUBLISH_SLOT: ${{ needs.gate.outputs.slot }}
       TELEGRAM_PUBLISH_DATE: ${{ needs.gate.outputs.date }}
+      FORCE_SOCIAL: ${{ github.event.inputs.force_social || '' }}
 
     steps:
       - name: Checkout code
