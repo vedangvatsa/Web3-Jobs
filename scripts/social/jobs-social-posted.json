@@ -51112,7 +51112,8 @@
       },
       "account": "channel:design",
       "attemptId": "4f3946e3-2064-4444-be37-c88e46089bd7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x57a491b5461066b69ffd3b912e1fbdcb9e4488f1"
     }
   ]
 }
