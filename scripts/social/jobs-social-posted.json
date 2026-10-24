@@ -50008,7 +50008,8 @@
       },
       "account": "channel:founders",
       "attemptId": "44f53956-f42e-42ca-a580-943d3a45fac0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x955e5fd7daf81eada8e73c35de63ba997153e7ef"
     }
   ]
 }
