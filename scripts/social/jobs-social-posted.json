@@ -50902,7 +50902,8 @@
       },
       "account": "channel:base",
       "attemptId": "8b04f7bf-0b05-4e8f-9edb-61d7eae82f95",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xad03266022fd68a40eeec7353d180852036ebb2e"
     }
   ]
 }
