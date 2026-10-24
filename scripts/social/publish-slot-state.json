@@ -36,6 +36,28 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-10-23T09:44:21.697Z"
       }
+    ],
+    "2026-10-24": [
+      {
+        "date": "2026-10-24",
+        "id": "40125564263-1",
+        "sourceCommit": "3abbf046ea6597c5a4caf906d91543267d05dc93",
+        "jobsCheckedAt": "2026-10-24T08:31:51.802Z",
+        "newsCompletedAt": "2026-10-24T20:47:54.615Z",
+        "articleSlugs": [
+          "wtiperp",
+          "hoodidelay",
+          "bcatax",
+          "winklevosspac",
+          "utexomint",
+          "starknetresearch",
+          "thailandapplicants"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-24T20:48:54.626Z",
+        "buildId": "daily-20261024-40125564263-1",
+        "rolloutId": "daily-20261024-40125564263-1"
+      }
     ]
   }
 }
