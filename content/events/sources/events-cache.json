@@ -20333,7 +20333,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -24647,7 +24647,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-montreal/events/316859623/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859623-339e1335.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27709,7 +27709,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/colorado-customer-success-meetup/events/316576727/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316576727-81d21bf9.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28823,5 +28823,33 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-xgUZIVLPS436ydR",
+    "name": "Joc psicomotriu en família a Mamaloa",
+    "description": "",
+    "startDate": "2026-10-27T16:00:00.000Z",
+    "endDate": "2026-10-28T17:15:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/w92uaq75",
+    "coverImage": "/events/luma-evt-xguzivlps436ydr-a5e44e4d.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-l2AcVKYqGsHVrxT",
+    "name": "ICON - Private Tour (Principled Business Summit)",
+    "description": "",
+    "startDate": "2026-10-27T22:00:00.000Z",
+    "endDate": "2026-10-28T00:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/mklrphpt",
+    "coverImage": "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]

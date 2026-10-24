@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T14:47:17.038Z",
+  "checkedAt": "2026-10-24T16:57:04.367Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,20 +10,13 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 239,
-    "added": 1,
+    "existing": 240,
     "excluded": 369,
     "needs-review": 39,
     "duplicate": 1
   },
   "importedTotal": 259,
-  "added": [
-    {
-      "id": "token2049-evt-JZv1H985Ggdevr9",
-      "slug": "tech-summit",
-      "name": "Tech X Summit Global"
-    }
-  ],
+  "added": [],
   "receipts": [
     {
       "url": "https://luma.com/tw82xsrs",
@@ -51,6 +44,15 @@
       ],
       "status": "existing",
       "slug": "fcsy"
+    },
+    {
+      "url": "https://luma.com/y586ohae",
+      "name": "Tech X Summit Global",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "tech-summit"
     },
     {
       "url": "https://luma.com/circlehouse2026",
@@ -2525,16 +2527,6 @@
       ],
       "status": "existing",
       "slug": "tech-week"
-    },
-    {
-      "url": "https://luma.com/y586ohae",
-      "name": "Tech X Summit Global",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "tech-summit",
-      "eventId": "evt-JZv1H985Ggdevr9"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",

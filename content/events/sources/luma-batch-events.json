@@ -1,54 +1,5 @@
 [
   {
-    "id": "luma-batch-JHQnFGMeEf3go2V",
-    "slug": "empktt81",
-    "name": "DHI's 10X Journey and DRV's \"Rewirement\" Village",
-    "description": "As part of the Transformative Wealth Family Office, Philanthropist and Impact Investor Gathering, Ujjwal Deep Dahal, CEO of Druk Holding and Investments, the Kingdom of Bhutan's Sovereign Fund, will go over the DHI 10X Journey, a decade-long strategic roadmap that targets a tenfold increase in national economic impact by 2035.\n\nUjjwal will discuss DHI's portfolio management, upgrading and optimizing existing national assets across energy, mines, infrastructure, and manufacturing; his investment strategy scaling high-impact sectors like global securities, green energy, and Bitcoin mining; and building a knowledge-based startup and tech ecosystem, leveraging emerging fields like artificial intelligence and digital identity.\n\nNext, Sahara Keating will followup last year's presentation of Drinchengang Regenerative Village (DRV). DRV the \"Village of Gratitude\" is a pioneering heritage settlement in Wangdue Phodrang, Bhutan that is being transformed into the nation's first Innovative Model Village, blending ancient architectural traditions with modern ecological and community-focused sustainable development.\n\nSpecifically Sahara will go over the regenerative economic engines of DRV and offer the presale of available long-term private residences, affectionately known as \"the rewirement village\", promoting intergenerational health and spiritual integration.",
-    "startDate": "2026-09-24T13:00:00.000Z",
-    "endDate": "2026-09-24T15:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "The Sheen Center for Thought & Culture, The Sheen Center for Thought & Culture, 18 Bleecker St, New York, NY 10012, USA",
-    "url": "https://luma.com/empktt81",
-    "registrationUrl": "https://luma.com/empktt81",
-    "coverImage": "/events/luma-batch-JHQnFGMeEf3go2V-ada0972a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Alex Cahana"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "NoHo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Sheen Center for Thought & Culture",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Alex Cahana"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/empktt81",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/empktt81",
-      "eventId": "evt-JHQnFGMeEf3go2V",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-7VQsitDF0AG6K7j",
     "slug": "5hfvpnxt",
     "name": "The Studio Investor Fireside Chat: A100X Ventures | Brian Li",
@@ -1074,55 +1025,6 @@
     "sourceVerification": {
       "url": "https://luma.com/recon",
       "eventId": "evt-4EDsB2GqW0jHyhh",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-NHIRMi6soYJn8am",
-    "slug": "wdykg30j",
-    "name": "Get Down For Real",
-    "description": "Great opportunities often begin with one good conversation.\n\nJoin us for an evening of meaningful networking—bringing together founders, investors, business leaders, innovators and professionals from across the ecosystem.\n\nThis is a relaxed space to:\n\n🤝 Build genuine connections💡 Exchange ideas and industry insights🌏 Explore collaborations and partnerships🚀 Meet people who are building what comes next\n\nNo long presentations. No hard selling. Just quality conversations with the right people over drinks.\n\nGet Down For Real\n\nThis networking meetup is ideal for:\n\nStartup founders and entrepreneurs\n\nAngel investors, venture capitalists and family offices\n\nAI, Web3, fintech and digital-asset professionals\n\nCorporate leaders exploring innovation and partnerships\n\nBusiness development and partnership professionals\n\nCommunity builders, event organisers and ecosystem leaders\n\nTechnology developers, product leaders and solution providers\n\nProfessionals looking for new collaborations, clients or investment opportunities\n\nSpeakers, creators and industry thought leaders\n\nThe event is best suited to people interested in genuine connections and long-term collaboration over drinks after hours.\n\nEvery Thursday, Avenue transforms into G.D.F.R. (Get Down For Real), a late-night escape where the music hits hard, the pours flow longer, and the energy never stays still. Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nKickstart your night early with complimentary free-flow house pours from 10pm to 1am for all, setting the perfect tone for the night. Let the intimate lounge atmosphere of Avenue Singapore transport you, and be part of a community that knows exactly how to turn a Thursday into a celebration.",
-    "startDate": "2026-09-24T14:00:00.000Z",
-    "endDate": "2026-09-24T17:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Avenue Lounge, Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
-    "url": "https://luma.com/wdykg30j",
-    "registrationUrl": "https://luma.com/wdykg30j",
-    "coverImage": "/events/luma-batch-NHIRMi6soYJn8am-4652247b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Asia Web3 Ai Association (AWAA)"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Singapore",
-    "neighborhood": "Central Area",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Avenue Lounge",
-    "addressLocality": "Singapore",
-    "addressCountry": "SG",
-    "organizer": {
-      "type": "Organization",
-      "name": "Asia Web3 Ai Association (AWAA)",
-      "url": "https://luma.com/user/AsiaWeb3Ai"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/wdykg30j",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/wdykg30j",
-      "eventId": "evt-NHIRMi6soYJn8am",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -5079,104 +4981,6 @@
     }
   },
   {
-    "id": "luma-batch-y6W1pq4lrOwtDyp",
-    "slug": "solanaecosystemcallmeetupdxb",
-    "name": "Superteam UAE: Solana Ecosystem Call Meetup",
-    "description": "Superteam UAE: Solana Ecosystem Call Meetup📅 Date: 24 September, Thursday🕔 Meetup Time: 17:30 – 20:00📺 Live Stream: 18:00 – 19:00📍 Location: To be shared upon approval\n\nCome watch the Solana Ecosystem Call live with the people growing the Solana ecosystem in the UAE. Superteam UAE is hosting an in-person screening on a big screen, so you can catch the latest updates and meet the community in person.\n\nThe call is hosted by SOL BROTHERS. Before and after the stream, you'll have time to connect in a focused, low-noise setting.\n\nIf you've been meaning to plug into the local Solana community, this is the right room.Please Note:🔸 This is an invite-only event. RSVP required – no +1s, no walk-ins.🔸 This event has limited capacity and follows a first-come, first-served policy.🔸 Kindly arrive on time to secure your spot.\n\n📸 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.Follow us on X: @SuperteamAE We’re excited to see you there!",
-    "startDate": "2026-09-24T13:30:00.000Z",
-    "endDate": "2026-09-24T16:00:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Business Bay, Dubai, Dubai, United Arab Emirates",
-    "url": "https://luma.com/SolanaEcosystemCallMeetupDXB",
-    "registrationUrl": "https://luma.com/SolanaEcosystemCallMeetupDXB",
-    "coverImage": "/events/luma-batch-y6W1pq4lrOwtDyp-61c394c6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Middle East"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "neighborhood": "Business Bay",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Dubai",
-    "addressRegion": "Dubai",
-    "addressCountry": "AE",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Middle East",
-      "url": "https://luma.com/user/superteamAE"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/SolanaEcosystemCallMeetupDXB",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/SolanaEcosystemCallMeetupDXB",
-      "eventId": "calev-y6W1pq4lrOwtDyp",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-Id4aMEGcQI03ekv",
-    "slug": "npyc52x5",
-    "name": "Flight3 x Superteam UK: Content Engine - Winning the Week",
-    "description": "Led by the Flight3 Social team\n\nBreakpoint plays out on the timeline as much as in the room. If you're not posting, you're invisible to everyone who never made it to your corner of the venue.\n\nThis workshop walks you through building your capture plan: what to shoot, what to post, and how to stretch three days into three months of content. We'll share the exact approach we run for the biggest names in the space, and you'll start your own version on the spot.\n\nYou'll head off with a capture-and-content plan and a template you can run through the week.",
-    "startDate": "2026-09-24T14:30:00.000Z",
-    "endDate": "2026-09-24T16:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, Somerset House, London WC2R 1LA, UK",
-    "url": "https://luma.com/npyc52x5",
-    "registrationUrl": "https://luma.com/npyc52x5",
-    "coverImage": "/events/luma-batch-Id4aMEGcQI03ekv-73dd8b01.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Somerset House",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam UK",
-      "url": "https://luma.com/user/SuperteamUK"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/npyc52x5",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/npyc52x5",
-      "eventId": "calev-Id4aMEGcQI03ekv",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-CpY0ZWdDWgQhUzG",
     "slug": "fxd2r3l2",
     "name": "Tour Solana La Familia - Madrid x SuperPioneros",
@@ -5225,50 +5029,6 @@
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-FZpFQaNgvaFbpEB",
-    "slug": "6rxrakp1",
-    "name": "ONLINE OFFICE | Виграти сайдтреки на Superteam Earn",
-    "description": "Виграти сайдтреки на Superteam Earn 💸\n\nБудуєш проєкт на хакатоні? Одна й та сама робота може принести тобі додаткові призи в сайдтреках на Superteam Earn.\n\nВиходимо в Google Meet і обговорюємо:\n\nякі сайдтреки доступні та як обрати релевантні для свого проєкту\n\nна що дивляться під час оцінювання\n\nяк адаптувати проєкт під вимоги сайдтреку, а не робити все з нуля\n\nчому ВАЖЛИВО брати участь в сайдтреках\n\nТакож можна буде принести свій проєкт — подивимося разом і дамо фідбек.\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).\n\n## Event details\n\nThe event takes place on September 24.",
-    "startDate": "2026-09-24T15:00:00.000Z",
-    "endDate": "2026-09-24T16:00:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/6rxrakp1",
-    "registrationUrl": "https://luma.com/6rxrakp1",
-    "coverImage": "/events/luma-batch-FZpFQaNgvaFbpEB-2d154d02.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Ukraine",
-      "url": "https://luma.com/user/superteamUA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6rxrakp1",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6rxrakp1",
-      "eventId": "calev-FZpFQaNgvaFbpEB",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
     }
   },
   {
@@ -10207,36 +9967,6 @@
     "sourceVerification": {
       "url": "https://luma.com/qwpyrmvn",
       "eventId": "evt-v3O7YcVURVv8PbW",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtzWgR1OFSWVcxS",
-    "slug": "l6np7pi8",
-    "name": "AWIC Amsterdam Netwalking: Goodbye, Summer! 🌅",
-    "description": "Summer may be coming to an end, but we're not ready to stop connecting just yet!\n\nJoin AWIC for an evening Netwalking through Amsterdam on September 3rd. We'll take a relaxed walk, enjoy the city, and connect with fellow women and allies from across the crypto, blockchain, and Web3 community.\n\nNo panels, no formal networking—just good conversation, fresh air, and a chance to say goodbye to summer together.\n\n📅 Thursday, September 24\n🕕 5:30 PM - 6:30 PM\n📍 Beatrixpark. Meeting point: Starbucks in Zuid Station\n\nCome walk, talk, and meet some great people. We hope to see you there!",
-    "startDate": "2026-09-24T15:30:00.000Z",
-    "endDate": "2026-09-24T16:30:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Noord-Holland, Netherlands",
-    "url": "https://luma.com/l6np7pi8",
-    "registrationUrl": "https://luma.com/l6np7pi8",
-    "coverImage": "/events/luma-batch-evtzWgR1OFSWVcxS-d4159208.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "AWIC"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Amsterdam",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/l6np7pi8",
-      "eventId": "evt-zWgR1OFSWVcxSUn",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -15428,36 +15158,6 @@
     "sourceVerification": {
       "url": "https://luma.com/hjhy21r6",
       "eventId": "evt-QFx5qcckR9C9PGx",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtqAbspeAvaINu0",
-    "slug": "m88fff37",
-    "name": "OffChain's Nasi Lemak & Web3 Makan",
-    "description": "Join us for a laid-back meetup in Kuala Lumpur over Malaysia's iconic dish, Nasi Lemak! This gathering is perfect to connect with fellow Web3 enthusiasts, share insights, and enjoy great food together. It's casual, it's friendly, and it's all about building community and sparking conversation about the future of the decentralised world.\n\nEach participant will self-order their meal/drink, so come try a \"new\" Nasi Lemak spot.\n\nRSVPs are essential to secure your spot at the table.\n\nLet's makan and talk Web3!\n\n## Event details\n\nOrganized by OffChain Global Events. Venue: WPP Federal Hill KL, WPP Federal Hill KL, Lot 1, Galeria Sri Perdana, Jalan Terengganu, Bukit Persekutuan, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia. Tickets: Free.",
-    "startDate": "2026-09-24T12:30:00.000Z",
-    "endDate": "2026-09-24T15:30:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "WPP Federal Hill KL, WPP Federal Hill KL, Lot 1, Galeria Sri Perdana, Jalan Terengganu, Bukit Persekutuan, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-    "url": "https://luma.com/m88fff37",
-    "registrationUrl": "https://luma.com/m88fff37",
-    "coverImage": "/events/luma-batch-evtqAbspeAvaINu0-96b7fd02.jpg",
-    "source": "luma-batch",
-    "hosts": [
-      "OffChain Global Events"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kuala_Lumpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/m88fff37",
-      "eventId": "evt-qAbspeAvaINu0jX",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

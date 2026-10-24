@@ -25304,30 +25304,6 @@ X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
 
-<a id="event-8b1a78ec5c24954d"></a>
-
-## OffChain's Nasi Lemak & Web3 Makan
-
-- Record: `luma-batch-evtqAbspeAvaINu0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/m88fff37>
-
-### About the event
-
-Join us for a laid-back meetup in Kuala Lumpur over Malaysia's iconic dish, Nasi Lemak! This gathering is perfect to connect with fellow Web3 enthusiasts, share insights, and enjoy great food together. It's casual, it's friendly, and it's all about building community and sparking conversation about the future of the decentralised world.
-
-Each participant will self-order their meal/drink, so come try a "new" Nasi Lemak spot.
-
-RSVPs are essential to secure your spot at the table.
-
-Let's makan and talk Web3!
-
-### Event details
-
-Organized by OffChain Global Events. Venue: WPP Federal Hill KL, WPP Federal Hill KL, Lot 1, Galeria Sri Perdana, Jalan Terengganu, Bukit Persekutuan, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia. Tickets: Free.
-
 <a id="event-27c1e6116ac4f5c6"></a>
 
 ## Solana Hack Day Munich: Road to TUM Blockchain Conference
@@ -25357,118 +25333,6 @@ Participate in our "Build your MVP" bounty for a chance to win local prizes
 It's also a great opportunity to get a boost for the upcoming Solana startup competition powered by Colosseum: work on your idea, meet potential teammates, validate your direction, and start preparing your project.
 
 Come solo or with a team. Come with an idea or discover one during the day.
-
-<a id="event-50b0c7dd590dbdc3"></a>
-
-## DHI's 10X Journey and DRV's "Rewirement" Village
-
-- Record: `luma-batch-JHQnFGMeEf3go2V`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/empktt81>
-
-### About the event
-
-As part of the Transformative Wealth Family Office, Philanthropist and Impact Investor Gathering, Ujjwal Deep Dahal, CEO of Druk Holding and Investments, the Kingdom of Bhutan's Sovereign Fund, will go over the DHI 10X Journey, a decade-long strategic roadmap that targets a tenfold increase in national economic impact by 2035.
-
-Ujjwal will discuss DHI's portfolio management, upgrading and optimizing existing national assets across energy, mines, infrastructure, and manufacturing; his investment strategy scaling high-impact sectors like global securities, green energy, and Bitcoin mining; and building a knowledge-based startup and tech ecosystem, leveraging emerging fields like artificial intelligence and digital identity.
-
-Next, Sahara Keating will followup last year's presentation of Drinchengang Regenerative Village (DRV). DRV the "Village of Gratitude" is a pioneering heritage settlement in Wangdue Phodrang, Bhutan that is being transformed into the nation's first Innovative Model Village, blending ancient architectural traditions with modern ecological and community-focused sustainable development.
-
-Specifically Sahara will go over the regenerative economic engines of DRV and offer the presale of available long-term private residences, affectionately known as "the rewirement village", promoting intergenerational health and spiritual integration.
-
-<a id="event-8f97922ac8de4c24"></a>
-
-## Superteam UAE: Solana Ecosystem Call Meetup
-
-- Record: `luma-batch-y6W1pq4lrOwtDyp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T13:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/SolanaEcosystemCallMeetupDXB>
-
-### About the event
-
-Superteam UAE: Solana Ecosystem Call Meetup Date: 24 September, Thursday Meetup Time: 17:30 - 20:00 Live Stream: 18:00 - 19:00 Location: To be shared upon approval
-
-Come watch the Solana Ecosystem Call live with the people growing the Solana ecosystem in the UAE. Superteam UAE is hosting an in-person screening on a big screen, so you can catch the latest updates and meet the community in person.
-
-The call is hosted by SOL BROTHERS. Before and after the stream, you'll have time to connect in a focused, low-noise setting.
-
-If you've been meaning to plug into the local Solana community, this is the right room.Please Note: This is an invite-only event. RSVP required - no +1s, no walk-ins. This event has limited capacity and follows a first-come, first-served policy. Kindly arrive on time to secure your spot.
-
-Photos will be taken during the event. By participating, you agree to their use for promotional purposes.Follow us on X: @SuperteamAE We're excited to see you there!
-
-<a id="event-6db9dc1b8d3a58fd"></a>
-
-## Get Down For Real
-
-- Record: `luma-batch-NHIRMi6soYJn8am`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wdykg30j>
-
-### About the event
-
-Great opportunities often begin with one good conversation.
-
-Join us for an evening of meaningful networking - bringing together founders, investors, business leaders, innovators and professionals from across the ecosystem.
-
-This is a relaxed space to:
-
-Build genuine connections Exchange ideas and industry insights Explore collaborations and partnerships Meet people who are building what comes next
-
-No long presentations. No hard selling. Just quality conversations with the right people over drinks.
-
-Get Down For Real
-
-This networking meetup is ideal for:
-
-Startup founders and entrepreneurs
-
-Angel investors, venture capitalists and family offices
-
-AI, Web3, fintech and digital-asset professionals
-
-Corporate leaders exploring innovation and partnerships
-
-Business development and partnership professionals
-
-Community builders, event organisers and ecosystem leaders
-
-Technology developers, product leaders and solution providers
-
-Professionals looking for new collaborations, clients or investment opportunities
-
-Speakers, creators and industry thought leaders
-
-The event is best suited to people interested in genuine connections and long-term collaboration over drinks after hours.
-
-Every Thursday, Avenue transforms into G.D.F.R. (Get Down For Real), a late-night escape where the music hits hard, the pours flow longer, and the energy never stays still. Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
-
-Kickstart your night early with complimentary free-flow house pours from 10pm to 1am for all, setting the perfect tone for the night. Let the intimate lounge atmosphere of Avenue Singapore transport you, and be part of a community that knows exactly how to turn a Thursday into a celebration.
-
-<a id="event-db5ad1b6bd45114b"></a>
-
-## Flight3 x Superteam UK: Content Engine - Winning the Week
-
-- Record: `luma-batch-Id4aMEGcQI03ekv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T14:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/npyc52x5>
-
-### About the event
-
-Led by the Flight3 Social team
-
-Breakpoint plays out on the timeline as much as in the room. If you're not posting, you're invisible to everyone who never made it to your corner of the venue.
-
-This workshop walks you through building your capture plan: what to shoot, what to post, and how to stretch three days into three months of content. We'll share the exact approach we run for the biggest names in the space, and you'll start your own version on the spot.
-
-You'll head off with a capture-and-content plan and a template you can run through the week.
 
 <a id="event-2d933c1aafcc6af5"></a>
 
@@ -25638,42 +25502,6 @@ The company's institutional custody infrastructure is built on ColdShield®, its
 
 Privacy Notice here for more details.
 
-<a id="event-cec260e5d0537125"></a>
-
-## ONLINE OFFICE \| Виграти сайдтреки на Superteam Earn
-
-- Record: `luma-batch-FZpFQaNgvaFbpEB`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6rxrakp1>
-
-### About the event
-
-Виграти сайдтреки на Superteam Earn
-
-Будуєш проєкт на хакатоні? Одна й та сама робота може принести тобі додаткові призи в сайдтреках на Superteam Earn.
-
-Виходимо в Google Meet і обговорюємо:
-
-які сайдтреки доступні та як обрати релевантні для свого проєкту
-
-на що дивляться під час оцінювання
-
-як адаптувати проєкт під вимоги сайдтреку, а не робити все з нуля
-
-чому ВАЖЛИВО брати участь в сайдтреках
-
-Також можна буде принести свій проєкт - подивимося разом і дамо фідбек.
-
-### Hosts
-
-Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
-
-### Event details
-
-The event takes place on September 24.
-
 <a id="event-514498ded1a00e35"></a>
 
 ## KBW\|TOKEN2049 SEND-OFF PARTY
@@ -25703,32 +25531,6 @@ Dress Code: Smart Casual Please note that shorts, caps and flip-flops are not pe
 CodeCraft Group: Multi-award-winning, data-driven Web3 GTM.https://codecraft.io/
 
 Welcome3: An exclusive private network for Web3 founders, investors and industry leaders. https://www.welcome3.com/
-
-<a id="event-30516f1bcabdd09c"></a>
-
-## AWIC Amsterdam Netwalking: Goodbye, Summer! 🌅
-
-- Record: `luma-batch-evtzWgR1OFSWVcxS`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T15:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/l6np7pi8>
-
-### About the event
-
-Summer may be coming to an end, but we're not ready to stop connecting just yet!
-
-Join AWIC for an evening Netwalking through Amsterdam on September 3rd. We'll take a relaxed walk, enjoy the city, and connect with fellow women and allies from across the crypto, blockchain, and Web3 community.
-
-No panels, no formal networking - just good conversation, fresh air, and a chance to say goodbye to summer together.
-
-Thursday, September 24
-
-5:30 PM - 6:30 PM
-
-Beatrixpark. Meeting point: Starbucks in Zuid Station
-
-Come walk, talk, and meet some great people. We hope to see you there!
 
 <a id="event-cd9e8b167fc52488"></a>
 
@@ -69904,6 +69706,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-afb7cc06e50ffffa"></a>
+
+## Joc psicomotriu en família a Mamaloa
+
+- Record: `luma-evt-xgUZIVLPS436ydR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/w92uaq75>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ec86766ae50ffd9f"></a>
 
 ## Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology
@@ -69941,6 +69755,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Fracton Ventures hosts a Japanese-language Ethereum meetup covering the Glamsterdam and Hegota upgrade plans, Soneium's proposed IP-licensing standard and institutional DeFi access. The announced schedule includes a protocol update, a Nyx Foundation session on DeFi Gateway, Q&A and informal discussion. Doors open at 19:15. Attendance is free with advance registration, and the organizer requires a business card at check-in.
+
+<a id="event-24d19ad816b16400"></a>
+
+## ICON - Private Tour (Principled Business Summit)
+
+- Record: `luma-evt-l2AcVKYqGsHVrxT`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mklrphpt>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e06258a81270d032"></a>
 

@@ -1654,5 +1654,54 @@
       "luma-batch-evto6ih6msjapzvd",
       "tbw_onchain_treasurers"
     ]
+  },
+  "luma-batch-JHQnFGMeEf3go2V": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-jhqnfgmeef3go2v",
+      "empktt81"
+    ]
+  },
+  "luma-batch-y6W1pq4lrOwtDyp": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-y6w1pq4lrowtdyp",
+      "solanaecosystemcallmeetupdxb"
+    ]
+  },
+  "luma-batch-Id4aMEGcQI03ekv": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-id4amegcqi03ekv",
+      "npyc52x5"
+    ]
+  },
+  "luma-batch-FZpFQaNgvaFbpEB": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-fzpfqangvafbpeb",
+      "6rxrakp1"
+    ]
+  },
+  "luma-batch-evtzWgR1OFSWVcxS": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-evtzwgr1ofswvcxs",
+      "l6np7pi8"
+    ]
+  },
+  "luma-batch-evtqAbspeAvaINu0": {
+    "until": "2027-10-24T16:56:57.234Z",
+    "slugs": [
+      "luma-batch-evtqabspeavainu0",
+      "m88fff37"
+    ]
+  },
+  "luma-batch-NHIRMi6soYJn8am": {
+    "until": "2027-10-24T17:05:33.675Z",
+    "slugs": [
+      "luma-batch-nhirmi6soyjn8am",
+      "wdykg30j"
+    ]
   }
 }
