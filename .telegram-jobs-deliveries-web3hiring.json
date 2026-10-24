@@ -7357,7 +7357,7 @@
     "sentAt": "2026-10-24T19:31:51.081Z"
   },
   "a5f28b76-3239-4f82-98be-22cfffea632f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T19:31:53.723Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7450,6 +7450,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/eng363?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/an47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Intelligence Analyst</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/cmp18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel - Global Head of Derivatives and Trading Legal</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product - Link: Bank Payments &amp; Open Banking</a>",
-    "slotKey": "2026-10-24:evening"
+    "slotKey": "2026-10-24:evening",
+    "messageId": 141,
+    "sentAt": "2026-10-24T19:31:56.941Z"
   }
 }
