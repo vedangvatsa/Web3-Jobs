@@ -3086,5 +3086,52 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 155902,
     "sentAt": "2026-10-23T19:32:08.654Z"
+  },
+  "21c3b158-c7d7-46e4-9b8f-9e2558876dec": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:57:12.754Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-4GbxA81G5iwo5UA",
+        "slug": "bitcoin-en-las-universidades-en-universidad-de-belgrano",
+        "name": "Bitcoin en las Universidades en Universidad de Belgrano",
+        "startDate": "2026-10-27T14:00:00.000Z",
+        "keys": [
+          "discovery-evt-4gbxa81g5iwo5ua",
+          "page:bitcoin-en-las-universidades-en-universidad-de-belgrano:2026-10-27",
+          "luma:evt-4gbxa81g5iwo5ua",
+          "luma-url:/u0uhl239",
+          "event:bitcoinenlasuniversidadesenuniversidaddebelgrano:2026-10-27:buenos aires"
+        ]
+      },
+      {
+        "id": "discovery-evt-RDHzi9B3vL2FkcZ",
+        "slug": "road-ethprague",
+        "name": "Road to ETHPrague",
+        "startDate": "2026-10-27T17:00:00.000Z",
+        "keys": [
+          "discovery-evt-rdhzi9b3vl2fkcz",
+          "page:road-ethprague:2026-10-27",
+          "luma:evt-rdhzi9b3vl2fkcz",
+          "luma-url:/2ns5lk31",
+          "event:roadtoethprague:2026-10-27:prague"
+        ]
+      },
+      {
+        "id": "mu-316768752",
+        "slug": "oslo-blockchain-meetup-nexa",
+        "name": "Oslo Blockchain Meetup - Nexa",
+        "startDate": "2026-10-28T17:00:00+01:00",
+        "keys": [
+          "mu-316768752",
+          "page:oslo-blockchain-meetup-nexa:2026-10-28",
+          "url:meetup.com/oslo-blockchain-meetup/events/316768752:2026-10-28",
+          "event:osloblockchainmeetupnexa:2026-10-28:oslo"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon"
   }
 }
