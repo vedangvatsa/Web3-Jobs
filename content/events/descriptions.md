@@ -20973,190 +20973,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-7d3d38f9c281f266"></a>
-
-## Centering Human Dignity in the Age of AI - Side Event on the Margins of the 81st Session of the UN General Assembly
-
-- Record: `luma-crypto-nF5sO8DSZQqZAyQ`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-23T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/m4u3u0j4>
-
-### About the event
-
-Organizers: Microsoft, Apne Aap International, A.F.I. World Peace Initiative, International Cocoa Diplomacy Eti-Oni Development Group, Generative AI for Good
-
-Co-sponsors: Vital Voices, British Standards Institution, NYU Ethical Tech CoLab, Equality Now, Black Basalt Foundation, Women for Afghanistan, Mediators Beyond Borders International, We are NOT Weapons of War, Cocoa Town and Visions of Peace Initiative, Women Voices Now, Save Ukraine.
-
-Aligned with: the UNGA81 theme, "Restoring Trust, Managing Transformation: A United Nations that Delivers for All"; the UN International Year of the Woman Farmer 2026; and SDGs 5, 16, and 17.
-
-### Program
-
-9:00 - 9:30 am | Registration and Networking
-
-ASH Art Exhibit by Black Basalt Foundation. Works on paper created using ash collected from sites destroyed during the July 2025 violent events in Swaida, Syria.
-
-9:30 - 9:45 am | Welcome Remarks
-
-- Yorke E. Rhodes III, Director of Traceability, Microsoft; Adjunct Professor, NYU Center for Global Affairs; Co-founder, Ethical Tech CoLab
-- Her Royal Majesty Queen Angelique-Monét of Eti-Oni, Osun State, Nigeria Royal Patron, Eti-Oni Development Group, AFI World Peace Initiative, and International Cocoa Diplomacy
-
-9:45 - 10:30 am | Session 1: From Testimony to Accountability: A UN Framework Protocol on CRSV
-
-Moderator: Tatiana Kotlyarenko, Member of IF20 Advisory Group on Human Trafficking
-
-Despite a robust body of international humanitarian, human rights and criminal law addressing conflict-related sexual violence (CRSV), a persistent gap remains between international commitments and their effective implementation at the national level.
-
-This high-level panel will examine the case for a United Nations Framework Protocol on the Implementation of International Obligations relating to Conflict-Related Sexual Violence and Survivor-Centred Responses, a practical framework designed not to create new legal obligations, but to help States translate existing commitments into effective prevention, reporting and documentation, national response frameworks, justice and accountability, comprehensive referral mechanisms, and long-term support for victims and survivors.
-
-Building on existing international standards and good practices, including the Murad Code, the discussion will consider how a Framework Protocol could strengthen survivor-centred and trauma-informed approaches, national coordination and international cooperation, while addressing emerging challenges and opportunities related to digital evidence, artificial intelligence and responsible innovation. The panel will bring together experts to identify priority implementation gaps and launch a global consultation process towards the development of the Framework Protocol.
-
-- Fawzia Koofi, President, Women for Afghanistan
-- Céline Bardet, Founder and President, We are NOT Weapons of War (WWoW)
-- Jay Rosenzweig, CEO, Rosenzweig & Company; Honorary Chair, Raoul Wallenberg Centre for Human Rights; Senior Fellow, Munk School of Global Affairs & Public Policy
-- Tsitsi Matekaire, Director, Regions, Equality Now
-- Mandy Sanghera, International Human Rights Advocate
-
-10:30 am - 10:45 | Session 2: Fireside Chat | Developing a standard for human dignity
-
-A fireside chat on the development of a standard on human dignity by the British Standards Institute, covering critical areas such as human rights due diligence, modern slavery, safeguarding, violence against women, and diversity, equality, and inclusivity. The discussion will also highlight how standardisation can play a role in preventing crimes linked to these issues, including money laundering, bribery, and fraud.
-
-- Kevin Hyland OBE, Chief Executive Officer, Praevani Global and UK's first Independent Anti-Slavery Commissioner
-- Fr. Márcio Toniazzo, Executive Director, Scalabrini International Migration Network
-
-10:45 - 11:00 am | Session 3: Fireside Chat | Hearing Their Voices: Survivor Testimony in the Age of AI
-
-Presentation of a survivor testimony developed through the Hearing Their Voices ethical framework, grounded in the principles of informed consent, transparency, authenticity, safety and non-discrimination, alongside additional testimonies developed with survivors from active conflict zones. The screening will be followed by a short discussion exploring the ethical and practical challenges of collecting, safeguarding and sharing survivor testimony during ongoing conflicts, including how to ensure that survivors retain agency and control over their stories while minimizing risks of retraumatization, stigma and retaliation.
-
-- Yorke E. Rhodes III, Director of Traceability, Microsoft; Adjunct Professor, NYU Center for Global Affairs; Co-founder, Ethical Tech CoLab
-- Shiran Mlamdovsky Somech, Founder & CEO, Generative AI for Good
-
-11:00 - 11:45 am | Session 4: AI for Peace: Centering Survivor Voices
-
-Moderator: Dr. Estera Borcsa, psychotherapist and trauma expert, Mediators Beyond Borders International
-
-As conflicts, repression and violence continue to affect communities worldwide, artificial intelligence presents new possibilities for ensuring that the voices and experiences of survivors are heard - while also raising critical questions about safety, dignity, consent, authenticity and the risk of retraumatization. This session will explore how AI and emerging technologies can be used responsibly to amplify survivor voices, preserve testimony, support truth-telling and accountability, and contribute to peacebuilding without exposing survivors to further harm, stigma or retaliation.
-
-Moderated through a trauma-informed lens, the discussion will examine what it means to place survivors, not technology, at the centre of innovation, including the safeguards needed to ensure meaningful consent, survivor agency and control over how testimony is collected, preserved and shared. Bringing together human rights advocates, practitioners and civil society leaders, the panel will consider how survivor-centred AI can help bridge the distance between lived experience and decision-making, ensuring that those most affected by violence and conflict are not simply subjects of international action, but active participants in shaping justice, reconciliation and sustainable peace.
-
-- Manira Alva, Senior Adviser SDG 5, Vital Voices
-- Marjan Keypour Greenblatt, Iranian Human Rights Advocate and Analyst, Director of Humanitarian Partnerships, Project Aftab
-- Nadia Muradi, program Director, Black Basalt Foundation
-- Cate Carbonaro, Executive Director, The Retreat
-- Megs Shah, Founder and CEO, Parasol Cooperative
-
-11:45 am - 12:00 pm | Session 5: From Words to Impact: A Goodwill Perspective
-
-- Ruchira Gupta, Apne Aap Women Worldwide; Emmy-winning documentarian, author I Kick and I Fly, Prof, NYU
-- Manira Alva, Senior Adviser SDG 5, Vital Voices
-- Nika Kovac, Institute 8th of March My Voice, My Choice Democracy Hub
-
-12:00 pm - 1:00 pm | Session 6: Centering Human Dignity in the AI Stack: Technology, Investment and Policy for Human Rights
-
-How do we move responsible AI for human rights from promising innovation to sustainable, scalable infrastructure? This session brings together technology leaders, human rights practitioners, humanitarians and policymakers to examine what it will take to fund, build and scale a responsible AI stack for human rights, peace and security.
-
-The conversation will explore the ecosystem needed to take solutions from prototype to deployment, including responsible AI models, trustworthy data and content provenance, traceability, safeguards, ethical voice and media technologies, and sustainable investment models. The panel will examine the respective roles of technology companies, venture capital, governments, civil society and multilateral institutions in ensuring that innovation reaches the people and communities that need it most.
-
-The discussion will ask a central question: how can we mobilize technology, policy and capital at scale while ensuring that human rights, safety, accountability and human dignity remain embedded in the architecture of AI from the outset?
-
-- Len Khodorkovsky, Senior Advisor to the Chairman, Krach Institute for Tech Diplomacy at Purdue
-- Breeze Liu, CEO, Alecto Foundation
-- Yorke E. Rhodes III, Director of Traceability, Microsoft; Adjunct Professor, NYU Center for Global Affairs; Co-founder, Ethical Tech CoLab
-- Shane Martin, Venture Capitalist, B Ventures Group
-- Gabi Leibowitz, Impact, Elevenlabs
-- Meagan Fallone, Lead, Schwab Foundation Global AI for Social Innovation Coalition, WEF
-
-1:00- 2:00 pm | Lunch
-
-2:00 - 2:10 pm | Goodwill Message
-
-Cheryl Halpern, Award Winning Filmmaker, Former Director of Corporation for Public Broadcasting (CPB), and Co-Founder of Visions of Peace Initiative
-
-2:10 - 2:30 pm | Session 7: Fireside Chat | The Puppet & The Algorithm: Preserving Human Agency in Next-Gen Storytelling
-
-Fireside Chat: Her Majesty Queen Angelique-Monét, The Queen Consort of Eti-Oni and Tatiana Kotlyarenko, Member of IF20 Advisory Group on Human Trafficking
-
-The entertainment industry has shifted from experimenting with AI to relying on it as an operational foundation. While public friction and union battles dominate headlines, the day-to-day reality of global media uses AI to manage crushing workloads, automate script summaries, and translate content globally in real time. Hosted by global humanitarian and master ventriloquist Queen Angelique Monet, this panel bridges the gap between Silicon Valley innovation and moral responsibility. The discussion frames AI through the metaphor of ventriloquism: an instrument that requires a human soul to truly captivate an audience.
-
-The fireside chat will discuss the immediate future of entertainment, including mobile-first vertical micro-dramas, interactive media featuring persistent AI characters, and AI "world models" that allow indie filmmakers to build massive cinematic environments without Hollywood budgets. Ultimately, the panel outlines the Human Precision Generative Workflow (HPG), a framework ensuring that while technology handles the heavy technical lifting, creative authorship, nuance, and human taste remain firmly protected.
-
-2:30 - 3:15 pm | Session 8: The Cocoa Renaissance Initiative: Empowering Women Cocoa Farmers Through Artificial Intelligence, Cocoa Diplomacy and Sustainable Development
-
-Moderator: Her Majesty Queen Angelique-Monét, The Queen Consort of Eti-Oni
-
-Presented by: AFI World Peace Initiative, International Cocoa Diplomacy, and the Eti-Oni Development Group, in celebration of the UN International Year of the Woman Farmer 2026.
-
-Women perform essential roles across every stage of the cocoa value chain yet receive the smallest share of its economic benefit. This high-level session highlights women cocoa farmers as drivers of sustainable development and showcases how responsible AI, cocoa diplomacy, traditional leadership, and international partnerships can expand productivity, financial inclusion, and climate resilience while preserving indigenous agricultural knowledge. Anchored by the Cocoa Renaissance Initiative, led by His Majesty Oba Dokun Thompson GUREJE IV, The Oloni of Eti-Oni.
-
-Includes a special screening of a 10-minute documentary celebrating women cocoa farmers and the Kingdom of Eti-Oni's 130-year cocoa legacy.
-
-- Dr. Charles Diji Akinola, MD/CEO South West Development Commission, Nigeria
-- Mr. Fuad Abubakar, MD, Ghana Cocoa Marketing Company, United Kingdom
-- Mrs. Nettie Atkinson, Author and Chocolate Educator
-- Ms. Saila Balasubramanian, Chief Operating Officer of Cocoa Town
-
-3:15 - 3:45 pm | Session 9: Ethical Tech CoLab Showcase: Human Dignity, Climate Resilience, and Responsible AI in Practice
-
-- Moderator: Yorke E. Rhodes III, Director of Traceability, Microsoft; Adjunct Professor, NYU Center for Global Affairs; Co-founder, Ethical Tech CoLab and Ruchira Gupta, Apne Aap Women Worldwide; Emmy-winning documentarian, author I Kick and I Fly, Prof, NYU
-
-Presented by: Graduate Researchers of the NYU Ethical Tech CoLab
-
-The NYU Ethical Tech CoLab was founded to explore a central question: How can emerging technologies improve the human condition? Through applied research and prototype development, graduate student researchers work at the intersection of artificial intelligence, human rights, sustainability, migration, diplomacy, labor rights, and public trust.
-
-This showcase highlights practical technology interventions developed by the CoLab that are directly relevant to the themes of human dignity, climate resilience, sustainable development, and ethical AI. Researchers will present a series of rapid demonstrations illustrating how emerging technologies can support communities facing climate disruption, strengthen supply-chain labor accountability, improve crisis response, preserve cultural heritage, and enhance international cooperation.
-
-3:45 - 4:00 pm | Closing and Call to Action
-
-- Ruchira Gupta, Apne Aap Women Worldwide; Emmy-winning documentarian, author I Kick and I Fly, Prof, NYU
-- Tatiana Kotlyarenko, Member of IF20 Advisory Group on Human Trafficking
-
-4:00 - 5:00 pm | Royal Cocoa Reception: A Taste of Chocolate from Around the World Celebrating Women Cocoa Farmers
-
-<a id="event-8bb2e5c01c705d5f"></a>
-
-## Superpollutant Action Summit
-
-- Record: `luma-crypto-OkQNSxjLO2nH6WD`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-23T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/or8vn8ix>
-
-### About the event
-
-The Superpollutant Action Summit, convened by Beyond Alliance, is a first of its kind gathering for high-level leaders across business, science, government, and civil society to come together for a full day to accelerate action on the pollutants driving the most near-term warming: methane, black carbon, N₂O, and HFCs.
-
-Rapid reductions over the next decade could meaningfully bend the warming curve before mid-century, making this one of the fastest and most immediate levers available for climate progress, with the added benefit of real air quality and health gains along the way.
-
-Momentum on superpollutants has been building across governments, companies, and civil society, from the Global Methane Pledge to a wave of new corporate commitments like the Superpollutant Action Initiative, a $100 million effort from Amazon, Autodesk, Figma, Google, JPMorgan Chase, Salesforce, and Workday to fund high impact mitigation projects, coordinated by Beyond Alliance.
-
-The event will bring together 150+ decision-makers driving climate action in business, finance, policy, and innovation. Through deep dives on corporate Scope 3 action, emerging market mechanisms, voluntary carbon markets, and the policies and financing needed to scale solutions, the day is built for candid dialogue and real commitments.
-
-Across the day, expect candid actionable plenary conversations on where science, policy, and capital meet, thematic breakouts, a look at what it will take to finance faster action at scale, and a showcase of real solutions from the innovators and project developers building them.
-
-<a id="event-bd2bd56b4d05a0c3"></a>
-
-## Back to School LLM London Social Meetup: The Flying Horse Pub near Liverpool Street
-
-- Record: `luma-crypto-slMHV4kfSyFQt7c`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-23T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/x4ha29w0>
-
-### About the event
-
-Holidays are over. Kids are back to school. But the universe of AI has been busy and we have SO MUCH to catch up on.
-
-Suits all types and experience. Come along you'll have a great time. We have absolute AI beginners and we have expert AI builders and AI industry insiders. No set talks or presentations for the social, it's free flowing.
-
-All are welcome to join our merry throng down the pub.
-
-### Event details
-
-Hosted by Terry Lurie. Venue: The Flying Horse, 52 Wilson St, London EC2A 2ER, UK. The event takes place on September 23. Registration requires organizer approval.
-
 <a id="event-6a6ab98e621d9f9f"></a>
 
 ## Build with AI. Build on Blockchain: The Eigen Protocol
@@ -25361,444 +25177,6 @@ A closed-door day reserved for confirmed speakers and partners, with private, fo
 [Get in touch](https://www.cosmoverse.org/sponsors-partners)
 
 The decision-makers driving digital asset adoption across Asia Pacific will be in the room. Secure your place.
-
-<a id="event-b9765eca06d14027"></a>
-
-## The AI Economy: Infrastructure, Payments, Venture Capital, Digital Asset
-
-- Record: `luma-batch-kS9uqeSDqAZHXqG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xdcAiEconomy>
-
-### About the event
-
-An evening with the people building the rails beneath AI.
-
-Wednesday, September 23, 2026
-
-XDC NYC Office - Chelsea, Manhattan
-
-Talks + networking - Drinks provided
-
-Join us on September 23 at the XDC NYC office for a conversation bringing together leaders across AI, infrastructure, payments, digital assets and venture capital.
-
-What we'll get into
-
-How AI is changing the way businesses operate and transact
-
-The infrastructure required to support AI-native companies
-
-The future of agentic and automated payments
-
-What venture capital is looking for in the next wave of AI startups
-
-How the QAIX consortium (qaix.org) is bridging Quantum, Agentic AI and Digital Assets
-
-Where founders, enterprises and investors can work together
-
-Who should come
-
-Founders shipping AI products, operators inside AI-native companies, infra & payments builders, and investors covering the space.
-
-The evening
-
-5:00 PM - Snacks, drinks
-
-5:30 PM - Open networking with founders, operators, investors, and technology leaders from across New York's innovation ecosystem
-
-Bring questions. Bring your co-founder. Bring a friend building something interesting.
-
-Our upcoming events
-
-Sep 29 - Miami - Sibos 2026
-
-Tuesday, September 29, 2026 - 7:30 - 9:30 AM The Bass Art Museum - Lindemann Family Courtyard, Miami Beach RSVP → https://luma.com/Unlockingvelocity
-
-Oct 07 - NYC - The Agentic Stack
-
-Wednesday, October 7, 2026 - Evening XDC Executive HQ, Manhattan, NYC RSVP → https://luma.com/agenticstack
-
-<a id="event-058aeb27889caaea"></a>
-
-## Digital Assets Night at Boston Fintech Week Hosted by zerohash
-
-- Record: `luma-batch-d6g3EUkHi7XEAkp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qhc9hxzi>
-
-### About the event
-
-The future of money is being built right now, and Boston is where the builders are.Join zerohash for an evening of cocktails, elevated bites, and sharp conversation with fintech operators, investors, and product leaders shaping the next era of finance at Collective Bar & Lounge in the Winthrop Center.We'll also be unveiling exclusive new research live: a first look at our survey of institutional builders on the state of onchain readiness and digital asset adoption.What to expect: → Cocktails, food, and networking with Boston's fintech and digital asset community → An exclusive first look at zerohash's new institutional research on onchain readiness → Candid conversation with operators and builders shaping the next decade of finance
-
-Collective Bar & Lounge, Winthrop Center, Boston
-
-Wednesday, September 23 | 5:30-7:30 PM ETSpace is limited - RSVP now to lock in your spot.About zerohash:zerohash is the digital asset infrastructure that empowers banks, brokerages, and fintech apps offer crypto trading, stablecoin payments, and tokenized assets to their own customers without having to become a crypto company themselves. Partners include Morgan Stanley, Visa, Franklin Templeton, Interactive Brokers, Kalshi, Stripe, Marqeta Gusto, DraftKings, OnePay, Tastytrade, Public, and many more. Learn more at zerohash.com.
-
-<a id="event-40f379cf5d5c47af"></a>
-
-## Miami AI Hub - Generative Gatherings September
-
-- Record: `luma-batch-evtwuyJYi00CYjkP`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/x1oiq0k1>
-
-### About the event
-
-Generative Gathering September
-
-The program features:
-
-Keynote from Nabil Arnous from RAK Innovation City
-
-AI Agents, Stablecoins and the Future of Cross-Border Payments
-
-Join Prabhakar Reddy, Founder & CEO of OpenFX, for a fireside conversation on how AI agents and stablecoins could reshape the way money moves across borders. He'll explore opportunities to reduce settlement times and costs, particularly in markets outside the G7, and the technical and compliance challenges involved in automating global payments.
-
-Networking Reception
-
-Generative Gatherings are designed to educate, inspire, and build community. Expect thought-provoking content, practical applications, and a chance to connect with leaders shaping the future of AI.
-
-### About Miami AI Hub
-
-Miami AI Hub fosters innovation and collaboration in artificial intelligence within the city's vibrant tech ecosystem. Its mission is to make Miami a global AI powerhouse and to build bridges across the AI ecosystems of the United States, Italy, Spain, and Latin America.
-
-Miami AI Hub has convened over 5,000+ participants, supported more than 50 AI startup showcases, and hosted speakers from major companies including NVIDIA, Apple, Google, AWS, and others. As an innovation catalyst, the Hub champions AI solutions that improve lives and transform industries. As a community platform, it brings together enthusiasts and experts to grow a shared knowledge base. And as a startup launchpad, it supports early-stage ventures with mentorship, funding access, and growth resources.
-
-### About eMerge Americas
-
-eMerge Americas is a strategic convener and catalyst for innovation, bringing together global enterprises, startups, investors, and government leaders to accelerate advancements in AI, Finance, Health, and National Security. Through year-round programming and its annual global tech conference + expo in Miami, eMerge Americas connects capital, talent, and ideas to drive impactful progress, strengthen industries, and bring transformative and emerging technologies to market. Since 2014 the global tech conference + expo has attracted 20,000+ attendees annually from over 50 countries and catalyzed billions in venture investment.
-
-www.emergeamericas.com
-
-Some of our previous events
-
-<a id="event-a1849d72a755ca2e"></a>
-
-## Toronto Digital Assets Roundtable & Dinner
-
-- Record: `luma-batch-2E31GeLAJojbvUh`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6bfjk8mr>
-
-### About the event
-
-Exclusive dinner for friends and partners of Titan, Pyth, Altitude, and Helius
-
-### Event details
-
-Hosted by Chris Chung, Superteam Canada, Genia | Pyth, Phil Jacobson, Ichigo, defipancakes | Titan, Tim Lee | Titan, Richard. Venue: Annex, Toronto, Ontario, Canada. Tickets: Free. Registration requires organizer approval.
-
-Co-hosted by Chris Chung (CEO and Co-Founder of Titan Exchange), Superteam Canada, Genia (Business Development at Douro Labs and Pyth Network contributor), Phil Jacobson (CBO at Altitude) and members of the Titan team. An exclusive dinner in Toronto's Annex neighbourhood. Entry is free with organizer approval. The dinner takes place on September 23.
-
-<a id="event-28b94e116f0553af"></a>
-
-## Collector Game Night
-
-- Record: `luma-batch-7jExbOlCb9lomlI`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-23T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/w14eoyg4>
-
-### About the event
-
-Join founders, developers, builders, creators and gamers for Collector Game Night during Solana Summit. Play a few rounds, trade cards and meet your next collaborator or gaming crew.
-
-Pick your gameLeague of Legends, Smash, Mahjong, board games, poker and TCG. "Just for fun" until someone gets competitive.
-
-Hourly giveaways - Over $2,000 in prizesPokémon slabs, 30th anniversary goodies and Riftbound packs. Physical and onchain cards up for grabs, with live reveals worth putting your phone down for.
-
-Find your peopleSwap ideas between rounds. Show off your binder. Make friends who understand one more pack.
-
-Come solo or bring your squad.
-
-September 23 - 6:30 PM-MidnightDowntown Toronto - Exact location revealed upon approval.
-
-### About ONE Arena
-
-Rosentica ONE Arena brings collecting and competition together. Players open packs, battle each other and compete for real collectible cards, turning collecting into a shared gaming experience.
-
-X | @Rosentica
-
-Website | onearena.xyz
-
-### About Collector Crypt
-
-Collector Crypt brings real trading cards online. Collect, buy and sell cards, then keep them securely stored or have them shipped to your door.
-
-X | @Collector_CryptWebsite | collectorcrypt.com
-
-### About EYEKON
-
-EYEKON is a creative marketing studio helping brands reach new audiences through content, creators and storytelling.
-
-X | @EYEKONSTUDIOWebsite | eyekonstudio.com
-
-### About Whop
-
-Whop helps founders, builders and creators turn their ideas into online businesses. Sell digital products, build paid communities and accept payments, all in one place.
-
-X | @whopWebsite | whop.com
-
-### About FLOJO
-
-FLOJO is a neuroscientist-formulated drink crafted with yerba mate tea, functional mushrooms, adaptogens, and real fruit juice for sparkling energy and focus.
-
-X | @DrinkFlojoInstagram | @DrinkFlojo
-
-### About Solana Summit Canada
-
-A two-day Toronto gathering connecting founders, developers and creators to explore new technology and meet the people building it. Organized by Superteam Canada.
-
-X | @SuperteamCANWebsite | canada.solanasummit.org
-
-<a id="event-2365ca04e41edb2e"></a>
-
-## Escondido Bitcoin Meetup
-
-- Record: `luma-batch-evtFX8CCwz1FXDpG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hfqeeti0>
-
-### About the event
-
-Greetings, Plebs!
-
-IMPORTANT NOTICE...
-
-...Happy Hour at Goli now ENDS AT 6:00pm... Plan accordingly!
-
-Our Agenda This Month:
-
-Corey San Diego will be doing a detailed presentation for us on how to set up a multi-sig Bitcoin wallet. Don't miss the instruction and discussion!
-
-Come Join Us...!
-
-...as we discuss all things bitcoin related with the common goal of encouraging self-sovereignty and seeing massive bitcoin adoption. A great time is always had by all, as we pool our knowledge and enthusiasm for the absolutely best monetary protocol ever devised by mankind...
-
-At Goli, you can now pay in bitcoin!
-
-Bring your favorite Lightning wallet, and use it when you pay your tab... And, don't miss HAPPY HOUR! Great deals UNTIL the 6:00pm CUTOFF... Good food and drink continues 'til closing.
-
-‼FYI: You are welcome to COME and GO at your convenience during this event... (but you may miss a presentation)...‼
-
-This bitcoin meetup began in early 2024, and lately has typically met on the 4th Wednesday of the month.
-
-Learn more,
-
-and check out our collected resources at:
-
-https://EscondidoBitcoin.com
-
-<a id="event-1a47b83b001433c4"></a>
-
-## Whitepaper Reading Club: ETHGas & Crypto × Rural Japan
-
-- Record: `luma-batch-7i259zTyUnNzCwK`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wprc-tok-260924-ethgas-and-crypto-s-impact-in-rura>
-
-### About the event
-
-This month we're bringing together two very different questions: how Ethereum's infrastructure is evolving, and what happens when new technologies meet the realities of rural Japan.
-
-Door Open - 9:30 AM 10:00 AM - Crypto × Rural Japan: From Technology to Community
-
-What can Ethereum and other emerging technologies actually change outside the crypto ecosystem? We'll explore how AI, blockchain, and incentive design intersect with regional economic circulation, population decline, and sustained community participation - and what it means to treat communities as living laboratories rather than passive recipients of technology.Kesennuma is a fishing town of 55,000 on Japan's northeast coast, losing roughly 1,000 people a year. Hikari has spent the past years running Hackatsuon there as a part of Women's Eye, a local NPO with 20 years of practice.
-
-Hackatsuon is a two-week hackathon and residency co-organized with the city, starting four days after this session.
-
-Hikari Igarashi is a Japan-based social entrepreneur and community builder exploring how emerging technologies can enable more regenerative and participatory communities. She currently leads Hackatsuon (hackatsuon.com), a civic-tech hackathon and residency in Kesennuma, Miyagi, bringing technology builders and local communities together to co-create solutions to real-world challenges. She has also spoken at the Regen Hub at Devcon 7 SEA in Bangkok, and works across Web3, civic tech, and social innovation.
-
-Paper / source: coming soon
-
-11:15 AM - Rethinking block building & MEV (ETHGas)
-
-A technical discussion on how Ethereum block building is changing - from traditional PBS and MEV infrastructure toward preconfirmations, programmable blockspace, and realtime execution. Using ETHGas as a case study, we'll examine what happens when sequencing rights and blockspace become explicit markets, and what this means for builders, validators, searchers, applications, and Ethereum's MEV landscape.
-
-ETHGas's Realtime Execution approach breaks the traditional 12-second Ethereum slot into much shorter execution intervals, targeting 50-100ms state updates while ultimately settling through the normal L1 block-production path.
-
-Paper / source: https://docs.ethgas.com/overview/realtime
-
-### Format
-
-Short introduction and context setting to start.
-
-A short walkthrough of the paper and its key ideas.
-
-Questions and discussion grounded in the original source.
-
-Moderator-led discussion - no pitches, no hype, just a source-driven conversation
-
-Session Guides:
-
-[DESCRIPTION COMING SOON]
-
-Fracton Ventures
-
-Fracton Ventures is a Tokyo-based Ethereum venture firm. Through incubation, advisory, and investment, we support the builders shaping Asia's on-chain frontier.
-
-### About Whitepaper Reading Club
-
-We are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.
-
-Learn more: Website - Summaries - Calendar
-
-We create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.
-
-<a id="event-bc01ac3ac78cfdbf"></a>
-
-## ETHGas Community Meetup
-
-- Record: `luma-batch-EcWI5lhG1sdoGQO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zse3v5a9>
-
-### About the event
-
-ETHGas is working to make Ethereum blockspace something you can confirm in advance, before you send.
-
-On Ethereum today, you only learn whether a transaction made it into the next block after you have sent it. When the network is busy, you pay more and you wait. ETHGas is building protocol level infrastructure that removes that uncertainty.
-
-This will be their first open community event in Japan. It is not a lecture. We hope you leave with a clear sense of what the team is building, and having spoken with them directly.
-
-Speaker
-
-Kevin Lepsoe, Founder and CEO, ETHGas
-
-He founded ETHGas in Hong Kong. This will be his first time in front of the Japanese community.
-
-### Schedule
-
-12:00　Doors open, food and drinks
-
-12:15　Opening
-
-12:20　ETHGas presentation, part 1 (10 min)
-
-12:30　Networking
-
-13:00　ETHGas presentation, part 2 (10 min)
-
-13:10　Networking and Q&A
-
-13:30　Bingo (30 min)
-
-14:00　Close
-
-The two presentations run for ten minutes each. The conversation and the closing bingo are the centre of the day.
-
-What we will talk about
-
-What is difficult about blockspace today, and what it takes to change "you only find out after you send"
-
-What ETHGas is building, and how much of it is already running
-
-How validators, developers, and newcomers can each get involved
-
-How the team intends to work with the Japanese community
-
-Who it is for
-
-Anyone working on Ethereum infrastructure, validator operations, or MEV
-
-Developers who want to look closely at how blockspace is allocated and how gas fees are determined
-
-Anyone who would rather hear it from the team directly
-
-No prior expertise is required.
-
-A few things to know
-
-This event is for technical and business information and for meeting people. It is not a solicitation to acquire or hold any digital asset, and we will not discuss price, listings, or distributions. Some questions on those topics may go unanswered on the day.
-
-The presentation is in English, with Japanese context added by Fracton as we go.
-
-We may take photos and video for an event report and social posts. Please tell a member of staff on the day if you would rather not appear.
-
-Once we reach capacity, registration moves to a waitlist. Please cancel if your plans change.
-
-Hosted by ETHGas × Fracton Ventures
-
-Contact: info@fracton.ventures-----------------Ethereum のブロックスペースを、送る前に確定できるものにする。 ETHGas はその一点に取り組んでいるチームです。
-
-いまの Ethereum では、トランザクションを送信したあとでなければ、それが次のブロックに含まれるかどうかは分かりません。ネットワークが混み合えば手数料は上がり、待つことになります。ETHGas は、この不確実性をプロトコルのレイヤーで解消する仕組みを開発しています。
-
-その ETHGas が、日本ではじめてのオープンなコミュニティイベントを開きます。講義形式の勉強会ではありません。チームが何を考え、何をつくっているのかが伝わり、直接言葉を交わせた、と感じていただける時間にしたいと考えています。
-
-登壇者
-
-Kevin Lepsoe（ETHGas 創業者兼 CEO）
-
-香港を拠点に ETHGas を創業。日本のコミュニティの前に立つのは、今回がはじめてです。
-
-当日の流れ
-
-12:00　開場・受付（軽食とドリンクをご用意しています）
-
-12:15　オープニング
-
-12:20　ETHGas によるプレゼンテーション ①（10分）
-
-12:30　ネットワーキング
-
-13:00　ETHGas によるプレゼンテーション ②（10分）
-
-13:10　ネットワーキング / Q&A
-
-13:30　ビンゴ大会（30分）
-
-14:00　終了
-
-プレゼンテーションは10分ずつの2回に分けています。この日の中心は、対話の時間と、最後のビンゴ大会です。
-
-お話しすること
-
-ブロックスペースをめぐる課題。「送ってみなければ分からない」という状態を、どう変えていくのか
-
-ETHGas が開発しているものの全体像と、これまでの稼働実績
-
-バリデータを運用されている方、開発者の方、これから触れてみたい方が、それぞれどう関われるのか
-
-日本のコミュニティと、今後どのように関わっていきたいと考えているのか
-
-こんな方におすすめです
-
-Ethereum のインフラ、バリデータ運用、MEV 領域に関心をお持ちの方
-
-ブロックスペースの割り当てやガス代の決まり方を、技術的に検討したい開発者の方
-
-海外のチームが日本で何を試みているのかを、本人から直接聞いてみたい方
-
-はじめての方も歓迎いたします。専門的な前提知識は必要ありません。
-
-事前にお伝えしておきたいこと
-
-本イベントは技術と事業に関する情報提供および交流の場です。特定の暗号資産の取得・保有を勧めるものではなく、価格・上場・配布に関するご案内は行いません。当日の質疑でも、これらのテーマにはお答えできない場合があります。
-
-プレゼンテーションは英語で行い、Fracton が日本語で補足しながら進めます。英語に不安のある方もご安心ください。
-
-会場内で写真・動画を撮影し、イベントレポートや SNS で使用する場合があります。写り込みを避けたい方は、当日スタッフにお声がけください。
-
-定員に達した場合は Waitlist となります。ご都合が変わった場合は、キャンセルの操作をお願いします。
-
-主催：ETHGas × Fracton Ventures Inc.
-
-お問い合わせ：info@fracton.ventures
 
 <a id="event-4370540027e4b2f7"></a>
 
@@ -50789,19 +50167,6 @@ Join the telegram for updates https://t.me/+xHswLTkhGpI0MGFh
 
 By signing up, you agree that Superteam Canada can contact you about future events [and updates, and that you will adhere to our Code of Conduct](https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).
 
-<a id="event-7445d04875c192d2"></a>
-
-## Driving Platforms and Decentralized Tech in Healthcare & Life Sciences
-
-- Record: `ci-https---conferenceindex-org-event-driving-platforms-and-decentralized-tech-in-healthcare-life-scienc`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-24T00:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://conferenceindex.org/event/driving-platforms-and-decentralized-tech-in-healthcare-life-sciences-2026-september-cambridge-us>
-- Original page: <https://conv2xsymposium.com/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-ce549a27c0669200"></a>
 
 ## Web3Privacy now Tokyo meetup
@@ -70550,6 +69915,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-53ad37a5c25fe346"></a>
+
+## Company Brain Buildathon
+
+- Record: `luma-evt-002h4RDHfEYLEvM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T08:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/a5yfh2ve>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fb22ec65a61a9dcd"></a>
 
 ## Run It Forward with Run Her Way x ASICS x PassaRunning
@@ -70695,6 +70072,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T13:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/pdrhyk4p>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3661ceaa81c5ff76"></a>
+
+## Strongwoman . QueerStrong with Ben Savin - A Liftover
+
+- Record: `luma-evt-17TJYlTVbCBHOWN`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-24T14:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bo93n2wq>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71036,6 +70425,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-fe1f08dc848c3ded"></a>
+
+## Beyond Bitcoin: Systematic Trading in Digital Asset Markets
+
+- Record: `luma-evt-L8ByzXZAbBAzqhZ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/3pu8bc59>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8413e1378227c1de"></a>
+
+## CryptoMondays Institutional - Featuring A Fireside Chat With Matt Hougan, CIO Of Bitwise
+
+- Record: `luma-evt-8RSAiwjKxxYWVFS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vlc9bb53>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d08868c3d104c345"></a>
+
+## XRP Sidekick - NY
+
+- Record: `luma-evt-i0AaTIcicsFFOEI`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/xrp-sidekick-ny>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e54153c5a950849c"></a>
 
 ## IFL Dinner w/ Marcelo Cortes - Faire, A Canadian Unicorn
@@ -71131,6 +70556,18 @@ Fracton Ventures hosts a Japanese-language Ethereum meetup covering the Glamster
 - Starts: 2026-10-27T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/meet-and-make-27>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e9d3d493f3992b55"></a>
+
+## From Silicon Valley to Langley: Fireside Chat with Nand Mulchandani
+
+- Record: `luma-evt-OO9kmUG5BAx6CMu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T22:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ry3qnzay>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

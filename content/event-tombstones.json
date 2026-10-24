@@ -1494,5 +1494,81 @@
       "luma-crypto-0ljnfheod81npzs",
       "eeaa"
     ]
+  },
+  "luma-batch-kS9uqeSDqAZHXqG": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-ks9uqesdqazhxqg",
+      "xdcaieconomy"
+    ]
+  },
+  "luma-batch-7i259zTyUnNzCwK": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-7i259ztyunnzcwk",
+      "wprc-tok-260924-ethgas-and-crypto-s-impact-in-rura"
+    ]
+  },
+  "luma-batch-EcWI5lhG1sdoGQO": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-ecwi5lhg1sdogqo",
+      "zse3v5a9"
+    ]
+  },
+  "luma-batch-d6g3EUkHi7XEAkp": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-d6g3eukhi7xeakp",
+      "qhc9hxzi"
+    ]
+  },
+  "luma-batch-7jExbOlCb9lomlI": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-7jexbolcb9lomli",
+      "w14eoyg4"
+    ]
+  },
+  "luma-batch-2E31GeLAJojbvUh": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-2e31gelajojbvuh",
+      "6bfjk8mr"
+    ]
+  },
+  "luma-batch-evtFX8CCwz1FXDpG": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-evtfx8ccwz1fxdpg",
+      "hfqeeti0"
+    ]
+  },
+  "luma-batch-evtwuyJYi00CYjkP": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-batch-evtwuyjyi00cyjkp",
+      "x1oiq0k1"
+    ]
+  },
+  "luma-crypto-nF5sO8DSZQqZAyQ": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-crypto-nf5so8dszqqzayq",
+      "chdaasem8s"
+    ]
+  },
+  "luma-crypto-OkQNSxjLO2nH6WD": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-crypto-okqnsxjlo2nh6wd"
+    ]
+  },
+  "luma-crypto-slMHV4kfSyFQt7c": {
+    "until": "2027-10-24T08:23:42.888Z",
+    "slugs": [
+      "luma-crypto-slmhv4kfsyfqt7c",
+      "bslsm"
+    ]
   }
 }

@@ -515,21 +515,6 @@
     }
   },
   {
-    "id": "ci-https---conferenceindex-org-event-driving-platforms-and-decentralized-tech-in-healthcare-life-scienc",
-    "name": "Driving Platforms and Decentralized Tech in Healthcare & Life Sciences",
-    "description": "Driving Platforms and Decentralized Tech in Healthcare & Life Sciences scheduled on September 24-25, 2026 at Cambridge, United States is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
-    "startDate": "2026-09-24T00:00:00.000Z",
-    "endDate": "2026-09-24T00:00:00.000Z",
-    "city": "Cambridge",
-    "country": "United States",
-    "location": "Cambridge, United States",
-    "url": "https://conferenceindex.org/event/driving-platforms-and-decentralized-tech-in-healthcare-life-sciences-2026-september-cambridge-us",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2026",
-    "website": "https://conv2xsymposium.com/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
-  },
-  {
     "id": "w3v-ethereum-institutional-summit-2026",
     "name": "Ethereum Institutional Summit 2026",
     "description": "## About\n\nA one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.\n\nThe summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.\n\nThe summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.\n\nStablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols — these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.\n\nHeld in English, with Japanese translation provided including subtitles. Closed Roundtable sessions operate under the Chatham House Rule.\n\nEthereum is the most accessible public blockchain in the world — and, in fact, the world’s largest stablecoin network. Yet one challenge remains: to institutional investors, it can look “too public.” What will it take, right now, for more institutional assets to be built and put to work on Ethereum? That is the missing piece of the puzzle — and this summit exists to confront it head-on: the future in which institutions run on Ethereum.",
@@ -19099,21 +19084,21 @@
     "month": "November 2026",
     "speakers": [
       "George Osborne",
-      "Gareth Davies MP",
-      "Johann Kerbrat",
       "Emma Landriault",
+      "Johann Kerbrat",
       "Dan Tapiero",
       "Zach Abrams",
       "Nikhil Sharma",
       "Catherine Porter",
       "Dan Morehead",
+      "Gareth Davies MP",
       "Faryar Shirzad",
-      "Rebecca Rettig",
       "Matthew Long",
-      "Geoffrey Kendrick",
-      "Samantha Bohbot",
-      "Jason Yanowitz",
       "Laurie Katz",
+      "Geoffrey Kendrick",
+      "Rebecca Rettig",
+      "Jason Yanowitz",
+      "Samantha Bohbot",
       "Stani Kulechov",
       "Lord Holmes of Richmond MBE",
       "David Mercer",
@@ -19127,7 +19112,7 @@
       "Francisco Maroto Castro",
       "Kash Razzaghi",
       "Alex Seddon",
-      "Mario Di Dio"
+      "Lance Vitanza"
     ]
   },
   {
@@ -19579,7 +19564,7 @@
     "country": "Romania",
     "location": "Bucharest, Romania",
     "url": "https://cryptoexpoeurope.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-crypto-expo-europe-2027-58c75062.webp",
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -21608,7 +21593,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -24327,7 +24315,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315688633/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315688633-fbc596e5.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27794,7 +27782,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
-    "coverImage": "/events/mu-316912416-ca1c1669.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28742,6 +28730,90 @@
     "location": "Chicago, United States",
     "url": "https://lu.ma/clsw8t57",
     "coverImage": "/events/luma-evt-xkvemq58zkdxg7y-ec29b94f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-002h4RDHfEYLEvM",
+    "name": "Company Brain Buildathon",
+    "description": "",
+    "startDate": "2026-10-24T08:00:00.000Z",
+    "endDate": "2026-10-24T16:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/a5yfh2ve",
+    "coverImage": "/events/luma-evt-002h4rdhfeylevm-3f4e482c.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-17TJYlTVbCBHOWN",
+    "name": "Strongwoman . QueerStrong with Ben Savin - A Liftover",
+    "description": "",
+    "startDate": "2026-10-24T14:30:00.000Z",
+    "endDate": "2026-10-24T17:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/bo93n2wq",
+    "coverImage": "/events/luma-evt-17tjyltvbcbhown-d9e0a78c.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-L8ByzXZAbBAzqhZ",
+    "name": "Beyond Bitcoin: Systematic Trading in Digital Asset Markets",
+    "description": "",
+    "startDate": "2026-10-26T17:00:00.000Z",
+    "endDate": "2026-10-26T18:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/3pu8bc59",
+    "coverImage": "/events/luma-evt-l8byzxzabbazqhz-eeed4db4.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-8RSAiwjKxxYWVFS",
+    "name": "CryptoMondays Institutional - Featuring A Fireside Chat With Matt Hougan, CIO Of Bitwise",
+    "description": "",
+    "startDate": "2026-10-26T21:30:00.000Z",
+    "endDate": "2026-10-27T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/vlc9bb53",
+    "coverImage": "/events/luma-evt-8rsaiwjkxxywvfs-0caeee3e.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-i0AaTIcicsFFOEI",
+    "name": "XRP Sidekick - NY",
+    "description": "",
+    "startDate": "2026-10-26T22:00:00.000Z",
+    "endDate": "2026-10-27T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/xrp-sidekick-ny",
+    "coverImage": "/events/luma-evt-i0aaticicsffoei-2fdf6528.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-OO9kmUG5BAx6CMu",
+    "name": "From Silicon Valley to Langley: Fireside Chat with Nand Mulchandani",
+    "description": "",
+    "startDate": "2026-10-27T22:30:00.000Z",
+    "endDate": "2026-10-27T23:30:00.000Z",
+    "city": "Stanford",
+    "country": "United States",
+    "location": "Stanford, United States",
+    "url": "https://lu.ma/ry3qnzay",
+    "coverImage": "/events/luma-evt-oo9kmug5bax6cmu-548c8049.webp",
     "source": "luma",
     "month": "October 2026"
   }

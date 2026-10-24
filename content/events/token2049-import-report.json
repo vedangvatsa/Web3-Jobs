@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-10-23T19:31:47.558Z",
+  "checkedAt": "2026-10-24T08:23:50.285Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 4,
+    "https://luma.com/2049events": 3,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 240,
+    "existing": 239,
     "excluded": 369,
     "needs-review": 39,
     "duplicate": 1
@@ -18,15 +18,6 @@
   "importedTotal": 258,
   "added": [],
   "receipts": [
-    {
-      "url": "https://luma.com/openhouse-singapore",
-      "name": "Founder House Singapore 🇸🇬",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "founder-house"
-    },
     {
       "url": "https://luma.com/tw82xsrs",
       "name": "Get Down For Real",
