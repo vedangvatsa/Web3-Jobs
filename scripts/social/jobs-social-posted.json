@@ -51273,7 +51273,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "2f9e8843-dcfc-4e36-b33e-6c9ae18a6b59",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7519844837874024448"
     }
   ]
 }
