@@ -81821,11 +81821,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "ead3f93159fa6bf7f656",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T15:15:04.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "duplicate",
+      "note": "The Defiant item covers the Oct. 22 Ethereum Foundation postponement of the Oct. 26 Glamsterdam activation on Hoodi, the same event already reported in content/articles/hoodidelay.md (published 2026-10-24, citing blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay and ACD call #248). The Defiant URL itself returned HTTP 403; the duplicate rests on the existing repo article covering the identical notice and date.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-24T19:56:41.543Z",
+      "duplicateOf": "hoodidelay",
+      "mergedInto": "fb19d8b10e17f3643acf",
+      "lastReviewedDay": "2026-10-24"
     },
     "976dab59e8ef33180f3d": {
       "source": "Cointelegraph",
@@ -150719,6 +150731,20 @@
           ],
           "reviewedAt": "2026-10-24T19:50:46.551Z",
           "articleSlug": "bcatax"
+        },
+        "ead3f93159fa6bf7f656": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant item covers the Oct. 22 Ethereum Foundation postponement of the Oct. 26 Glamsterdam activation on Hoodi, the same event already reported in content/articles/hoodidelay.md (published 2026-10-24, citing blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay and ACD call #248). The Defiant URL itself returned HTTP 403; the duplicate rests on the existing repo article covering the identical notice and date.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:56:41.543Z",
+          "duplicateOf": "hoodidelay",
+          "mergedInto": "fb19d8b10e17f3643acf"
         }
       },
       "baselineSlugs": [
