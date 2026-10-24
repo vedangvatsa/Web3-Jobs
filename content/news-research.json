@@ -81910,7 +81910,27 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T13:20:57.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "thailandapplicants",
+      "draftProgress": {
+        "id": "976dab59e8ef33180f3d",
+        "day": "2026-10-24",
+        "articleSlug": "thailandapplicants",
+        "note": "2026-10-24 round 3: opened Cointelegraph Oct 22 report; SEC told Cointelegraph on Thu Oct 22 that several asset managers consulted on spot crypto ETFs but none has submitted an application, it is too early to say whether approval lands before end-2026, and the rules took effect Friday Oct 16; ONE Asset Management approved for a BTC-linked fund in 2024, MFC later ran an IBIT fund. Distinct event from content/articles/thailand-etfs.md (Oct 8 rules finalization), so a new article is viable once a second independent site is opened. Located but NOT opened: Crypto Briefing Oct 22 same-event report (cryptobriefing.com/thailand-sec-crypto-etf-interest-no-applications/), Bangkok Post Oct 12, legal500 Oct 21. Next step: open the Crypto Briefing report as the second site, then draft; slug thailandapplicants free.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-24T20:04:31.184Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "15fff88038aca5057cfc": {
       "source": "Bankless",
