@@ -2010,5 +2010,42 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 193389,
     "sentAt": "2026-10-23T19:32:22.327Z"
+  },
+  "2311b7cd-0ffa-4a99-bd45-b2a6a74792c6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:57:42.561Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "headline": "OpenAI stops training frontier models on live internet data",
+        "summary": "The developer cited severe safety risks when announcing it will cut future models off from real-time web access.",
+        "event_rationale": "This covers OpenAI altering its core model training strategy, which is distinct from cyber incidents and creative tool launches.",
+        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”"
+      },
+      {
+        "index": 8,
+        "original_title": "Canva releases its first image generation model",
+        "headline": "Canva releases its first proprietary image generation model",
+        "summary": "The design platform launched its native visual model for all users to cut generation costs and boost performance.",
+        "event_rationale": "This covers a major software company deploying its first native foundational generative image model, distinct from safety policies and cyberattacks.",
+        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "source": "TechCrunch",
+        "originalTitle": "Canva releases its first image generation model"
+      },
+      {
+        "index": 9,
+        "original_title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "headline": "Chinese hackers use AI agents in ConnectWise breach",
+        "summary": "A state-aligned threat actor used automated agents to rapidly penetrate target networks following an initial software vulnerability.",
+        "event_rationale": "This covers a large-scale malicious cyber operation executed using AI agents, distinct from developer training policies and product releases.",
+        "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "source": "TechCrunch",
+        "originalTitle": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise"
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon"
   }
 }
