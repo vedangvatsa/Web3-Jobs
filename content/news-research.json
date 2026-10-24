@@ -77155,11 +77155,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "e321cb9a105e51a02251",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:54:03.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T16:56:49.514Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "c65d83384e3de8bd6278": {
       "source": "The Defiant",
@@ -77176,17 +77182,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c65d83384e3de8bd6278",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:51:42.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T16:56:49.514Z",
       "duplicateOf": "phppanic",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "5bb86d1b41e7511dc650": {
       "source": "The Defiant",
@@ -77203,17 +77210,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5bb86d1b41e7511dc650",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T16:50:48.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "same Eclair peer-exploitable Lightning bugs; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same Eclair peer-exploitable Lightning bugs; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:24:00.815Z",
+      "reviewedAt": "2026-10-24T16:56:49.514Z",
       "duplicateOf": "eclairpatches",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "2ba9af4928788536e6a1": {
       "source": "Decrypt",
@@ -81216,7 +81224,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb19d8b10e17f3643acf",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 1,
       "expiresAt": "2026-10-26T00:40:37.000Z",
@@ -150351,30 +150359,29 @@
           "reviewedAt": "2026-10-24T16:49:41.353Z",
           "automatic": true
         },
-        "fb19d8b10e17f3643acf": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read the EF Oct 22 postponement post (primary), CryptoSlate Oct 23 report, and the ChainSecurity Oct 13 gas analysis on 2026-10-24. Distinct event from hoodiupgrade.md (Oct 26 scheduling); image self-hosted from Wikimedia; quality, image, duplicate, formatting audits and tsc pass; all four outbound links return 200.",
-          "sourceChecks": [
-            {
-              "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.chainsecurity.com/blog/glamsterdam-gas/index.html",
-              "outcome": "read"
-            },
-            {
-              "url": "https://github.com/ethereum/pm/issues/2267",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-10-24T16:54:36.643Z",
-          "articleSlug": "hoodidelay"
+        "e321cb9a105e51a02251": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:56:49.514Z",
+          "automatic": true
+        },
+        "c65d83384e3de8bd6278": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: NSA offline guidance is part of the same government-response cluster; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:56:49.514Z",
+          "automatic": true
+        },
+        "5bb86d1b41e7511dc650": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same Eclair peer-exploitable Lightning bugs; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:56:49.514Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
