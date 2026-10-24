@@ -81159,16 +81159,16 @@
       "articleSlug": "wtiperp",
       "draftProgress": {
         "id": "d520345b3da8a278c3ed",
-        "day": "2026-10-23",
+        "day": "2026-10-24",
         "articleSlug": "wtiperp",
-        "note": "Slug reserved; no draft file yet. Read Crypto Briefing's report of the CMC letter. The Kalshi WTIPERP filing PDF on cftc.gov still needs opening as primary source and a second readable independent outlet (Bloomberg reported it but is paywalled); draft outstanding.",
+        "note": "2026-10-24: re-read Crypto Briefing Oct 22 report (CMC letter ~Oct 22, Kalshi WTIPERP filed Oct 20, 45-90 day CFTC window, VPN request). Still need to open the CFTC filing/CMC letter as primary and a second readable independent outlet; Bloomberg reported earlier but is paywalled. Draft outstanding.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-23T09:09:41.338Z",
+        "updatedAt": "2026-10-24T19:37:59.478Z",
         "approved": false,
         "mustReview": true
       }
@@ -81259,9 +81259,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb19d8b10e17f3643acf",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-26T00:40:37.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "hoodidelay",
@@ -81289,7 +81289,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Re-read the EF Oct 22 postponement post (primary), CryptoSlate Oct 23 report, and the ChainSecurity Oct 13 gas analysis on 2026-10-24. Distinct event from hoodiupgrade.md (Oct 26 scheduling); image self-hosted from Wikimedia; quality, image, duplicate, formatting audits and tsc pass; all four outbound links return 200.",
+      "note": "Re-read the EF Oct 22 postponement notice (primary), CryptoSlate Oct 23 report, and the ChainSecurity Oct 13 gas analysis on 2026-10-24. Distinct event from hoodiupgrade.md, which covered the Oct 20 scheduling; this covers the Oct 22 cancellation. Self-hosted Wikimedia photo compressed to public/images/news/hoodidelay.jpg; quality, image, duplicate and formatting audits clean for this file; all five cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
@@ -81308,7 +81308,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-24T16:54:36.643Z",
+      "reviewedAt": "2026-10-24T19:36:27.105Z",
       "lastReviewedDay": "2026-10-24"
     },
     "463e6f8b99702a109dc3": {
@@ -150497,6 +150497,31 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-24T19:31:22.624Z",
           "automatic": true
+        },
+        "fb19d8b10e17f3643acf": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the EF Oct 22 postponement notice (primary), CryptoSlate Oct 23 report, and the ChainSecurity Oct 13 gas analysis on 2026-10-24. Distinct event from hoodiupgrade.md, which covered the Oct 20 scheduling; this covers the Oct 22 cancellation. Self-hosted Wikimedia photo compressed to public/images/news/hoodidelay.jpg; quality, image, duplicate and formatting audits clean for this file; all five cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chainsecurity.com/blog/glamsterdam-gas/index.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/ethereum/pm/issues/2267",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:36:27.105Z",
+          "articleSlug": "hoodidelay"
         }
       },
       "baselineSlugs": [
