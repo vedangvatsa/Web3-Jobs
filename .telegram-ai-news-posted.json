@@ -782,6 +782,9 @@
   "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
   "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
   "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+  "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+  "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2129,6 +2132,12 @@
   "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
   "Intel receives waiver to use foreign robots in US factories",
   "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+  "OpenAI stops training frontier models on live internet data",
+  "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "Canva releases its first proprietary image generation model",
+  "Canva releases its first image generation model",
+  "Chinese hackers use AI agents in ConnectWise breach",
+  "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2428,5 +2437,8 @@
   "fp:aim|asia|astana|central|driv|dur|eyes2027|half|indriv|kazakhstan",
   "fp:against|all|automat|availabl|broadly|competition|competitor|decision|developer|heat",
   "fp:acquisition|bessemer|build|cover|customer|day|event|fidelity|founder|full",
-  "fp:are|automat|ban|domestic|fab|facility|factory|foreign|fuzzy|get"
+  "fp:are|automat|ban|domestic|fab|facility|factory|foreign|fuzzy|get",
+  "fp:access|announc|cit|cut|data|developer|frontier|futur|internet|liv",
+  "fp:all|boost|canva|cost|cut|design|generation|imag|nativ|performanc",
+  "fp:actor|agent|align|automat|breach|chines|connectwis|follow|giant|hacker"
 ]

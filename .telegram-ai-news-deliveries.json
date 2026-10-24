@@ -2012,7 +2012,7 @@
     "sentAt": "2026-10-23T19:32:22.327Z"
   },
   "2311b7cd-0ffa-4a99-bd45-b2a6a74792c6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T16:57:42.561Z",
     "stories": [
       {
@@ -2046,6 +2046,8 @@
         "originalTitle": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise"
       }
     ],
-    "slotKey": "2026-10-24:afternoon"
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 193392,
+    "sentAt": "2026-10-24T16:57:48.116Z"
   }
 }
