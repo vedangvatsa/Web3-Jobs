@@ -81759,9 +81759,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "688ff0ef5f6bad95bf37",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T16:47:00.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "starknetresearch",
@@ -81783,7 +81783,21 @@
         "updatedAt": "2026-10-24T19:51:09.215Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Unchained Oct 22 report and the primary Starknet Foundation results post on community.starknet.io this round; verified the 93.52% result, 3,236 votes, ~489m STRK, joint working group, and the explicit non-approval language. Distinct from content/articles/starknet-vote.md, which covers only the Oct 15 poll opening. Draft written and passes quality, formatting, image and duplicate audits.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/starknet-opens-layer-1-research-after-93-5-poll-vote-targets-quantum-safety-by-2027/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://community.starknet.io/t/starknet-l1-poll-ends-what-it-means-and-what-happens-next/116431",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:00:19.303Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "2518520c4e562e26b27f": {
       "source": "Bitcoin Magazine",
@@ -150745,6 +150759,23 @@
           "reviewedAt": "2026-10-24T19:56:41.543Z",
           "duplicateOf": "hoodidelay",
           "mergedInto": "fb19d8b10e17f3643acf"
+        },
+        "688ff0ef5f6bad95bf37": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Unchained Oct 22 report and the primary Starknet Foundation results post on community.starknet.io this round; verified the 93.52% result, 3,236 votes, ~489m STRK, joint working group, and the explicit non-approval language. Distinct from content/articles/starknet-vote.md, which covers only the Oct 15 poll opening. Draft written and passes quality, formatting, image and duplicate audits.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/starknet-opens-layer-1-research-after-93-5-poll-vote-targets-quantum-safety-by-2027/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://community.starknet.io/t/starknet-l1-poll-ends-what-it-means-and-what-happens-next/116431",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:00:19.303Z",
+          "articleSlug": "starknetresearch"
         }
       },
       "baselineSlugs": [
