@@ -81934,14 +81934,18 @@
         "id": "976dab59e8ef33180f3d",
         "day": "2026-10-24",
         "articleSlug": "thailandapplicants",
-        "note": "2026-10-24 round 3: opened Cointelegraph Oct 22 report; SEC told Cointelegraph on Thu Oct 22 that several asset managers consulted on spot crypto ETFs but none has submitted an application, it is too early to say whether approval lands before end-2026, and the rules took effect Friday Oct 16; ONE Asset Management approved for a BTC-linked fund in 2024, MFC later ran an IBIT fund. Distinct event from content/articles/thailand-etfs.md (Oct 8 rules finalization), so a new article is viable once a second independent site is opened. Located but NOT opened: Crypto Briefing Oct 22 same-event report (cryptobriefing.com/thailand-sec-crypto-etf-interest-no-applications/), Bangkok Post Oct 12, legal500 Oct 21. Next step: open the Crypto Briefing report as the second site, then draft; slug thailandapplicants free.",
+        "note": "Round 4: second independent site now OPENED and read - Crypto Briefing Oct 22 (John Chen) 'Thailand SEC yet to receive a spot crypto ETF application': SEC received zero formal applications despite consultations with several asset managers; cannot confirm a 2026 launch, has not named issuers or set a timeline; framework effective Oct 16; 11 notifications finalized Oct 8; passive single-asset ETFs (BTC/ETH qualify) need 80% average annual net exposure, SET-only trading, SEC-approved custodians, risk education, no margin loans; Thai mutual/private funds invest within existing limits, replacing prior foreign-access-only route. Matches Cointelegraph Oct 22 already on file (SEC statements Thu Oct 22, ONE Asset Management 2024 approval, MFC IBIT fund). Two independent sites now read; draft and hero image still outstanding; slug thailandapplicants free.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
             "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/thailand-sec-crypto-etf-interest-no-applications/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-24T20:05:04.002Z",
+        "updatedAt": "2026-10-24T20:18:24.291Z",
         "approved": false,
         "mustReview": true
       }
