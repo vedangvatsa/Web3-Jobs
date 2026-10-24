@@ -74287,17 +74287,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f157e31313ac6739c5c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:10:00.000Z",
       "lastSeenAt": "2026-10-22T07:44:05.017Z",
-      "reason": "duplicate",
-      "note": "same Dogecoin Labs formation with MyDoge and DogeOS; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same Dogecoin Labs formation with MyDoge and DogeOS; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T16:49:41.353Z",
       "duplicateOf": "dogecoinlabs",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "df770122e01290679eec": {
       "source": "CoinDesk",
@@ -74884,11 +74885,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e41fa249ce9f04471da",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:24:07.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T16:49:41.353Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "4b829375aefcf8ebf7e7": {
       "source": "The Defiant",
@@ -74905,11 +74912,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b829375aefcf8ebf7e7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T16:23:30.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T16:49:41.353Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "d1e9c14dfc82f7afd45e": {
       "source": "Decrypt",
@@ -77481,17 +77494,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c020efbda7b5a1346f0d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T15:01:45.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "Japan PM quote already in the ready draft's government-response section.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Japan PM quote already in the ready draft's government-response section.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T16:49:41.353Z",
       "duplicateOf": "phppanic",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "19e9519781abf08e3005": {
       "source": "CoinDesk",
@@ -150282,6 +150296,38 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-24T14:47:06.710Z",
           "automatic": true
+        },
+        "8f157e31313ac6739c5c": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same Dogecoin Labs formation with MyDoge and DogeOS; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:49:41.353Z",
+          "automatic": true
+        },
+        "3e41fa249ce9f04471da": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:49:41.353Z",
+          "automatic": true
+        },
+        "4b829375aefcf8ebf7e7": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:49:41.353Z",
+          "automatic": true
+        },
+        "c020efbda7b5a1346f0d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Japan PM quote already in the ready draft's government-response section.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T16:49:41.353Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -150660,8 +150706,7 @@
         ],
         "total": 140,
         "checkedAt": "2026-10-24T08:24:01.469Z"
-      },
-      "validationErrors": []
+      }
     }
   }
 }
