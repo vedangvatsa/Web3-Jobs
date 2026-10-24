@@ -7355,5 +7355,101 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 16564,
     "sentAt": "2026-10-24T19:31:51.081Z"
+  },
+  "a5f28b76-3239-4f82-98be-22cfffea632f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T19:31:53.723Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8241212",
+          "title": "Staff Software Engineer",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8241212?gh_jid=8241212",
+          "date": "2026-09-29T16:57:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "San Francisco, CA, United States",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$212k – $265k/yr",
+          "dateVerified": true,
+          "slug": "eng363"
+        },
+        "key": "8241212",
+        "slug": "eng363",
+        "url": "https://hashtagweb3.com/eng363?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5439140008",
+          "title": "Business Intelligence Analyst",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008",
+          "date": "2026-09-29T17:10:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "San Francisco, CA, United States of America",
+          "department": "10414 Engineering - Fintech Platform",
+          "active": true,
+          "salary": "$135.2k – $202.8k/yr",
+          "dateVerified": true,
+          "slug": "an47"
+        },
+        "key": "5439140008",
+        "slug": "an47",
+        "url": "https://hashtagweb3.com/an47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Business Intelligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8c4742b8-b729-47f6-8bed-1d20fc51f4aa",
+          "title": "Deputy General Counsel - Global Head of Derivatives and Trading Legal",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/8c4742b8-b729-47f6-8bed-1d20fc51f4aa",
+          "date": "2026-10-01T19:49:22.700+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp18"
+        },
+        "key": "8c4742b8-b729-47f6-8bed-1d20fc51f4aa",
+        "slug": "cmp18",
+        "url": "https://hashtagweb3.com/cmp18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Deputy General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "8289847",
+          "title": "Account Executive, Product - Link: Bank Payments & Open Banking",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8289847",
+          "date": "2026-10-16T14:45:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "SF, SEA, CHI, NYC, remote",
+          "department": "1640 Product Sales - Payments",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm40"
+        },
+        "key": "8289847",
+        "slug": "pm40",
+        "url": "https://hashtagweb3.com/pm40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/eng363?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/an47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Intelligence Analyst</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/cmp18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deputy General Counsel - Global Head of Derivatives and Trading Legal</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product - Link: Bank Payments &amp; Open Banking</a>",
+    "slotKey": "2026-10-24:evening"
   }
 }
