@@ -4109,7 +4109,7 @@
     "sentAt": "2026-10-24T16:57:42.665Z"
   },
   "9fb57b8b-e382-41bf-aefa-baeeaf0a003d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T19:32:03.702Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4209,6 +4209,8 @@
       }
     ],
     "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng600?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Inference Performance Engineer - MaaS</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, AI Startups - Grower</a>\n- Braiins is hiring <a href=\"https://hashtagweb3.com/ts?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Support</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/mgr165?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AML Manager, EU</a>",
-    "slotKey": "2026-10-24:evening"
+    "slotKey": "2026-10-24:evening",
+    "messageId": 155912,
+    "sentAt": "2026-10-24T19:32:07.863Z"
   }
 }
