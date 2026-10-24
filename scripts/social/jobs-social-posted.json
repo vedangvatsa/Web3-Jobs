@@ -50487,7 +50487,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "2194c904-d1b2-4ba6-9985-9f16286a7e9f",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6add089d8b3d437ddcd5e535"
     }
   ]
 }
