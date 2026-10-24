@@ -49617,7 +49617,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "997f88d8-44eb-4499-a6f3-b212e2df3d76",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6add0795e4be8a4d867524c5"
     }
   ]
 }
