@@ -53,10 +53,12 @@
           "starknetresearch",
           "thailandapplicants"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-10-24T20:48:54.626Z",
         "buildId": "daily-20261024-40125564263-1",
-        "rolloutId": "daily-20261024-40125564263-1"
+        "rolloutId": "daily-20261024-40125564263-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-24T21:14:03.622Z"
       }
     ]
   }
