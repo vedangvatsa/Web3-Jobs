@@ -7067,7 +7067,7 @@
     "sentAt": "2026-10-23T19:31:59.619Z"
   },
   "b95a14c5-38c1-4c93-993b-f89c9b2fe0be": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T16:57:24.949Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -7158,6 +7158,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/dgts?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Global Treasury Services</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mkt75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Marketing Analytics</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/pm240?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng325?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer - New Markets Singapore</a>",
-    "slotKey": "2026-10-24:afternoon"
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 16563,
+    "sentAt": "2026-10-24T16:57:28.428Z"
   }
 }
