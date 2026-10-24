@@ -81165,7 +81165,7 @@
         "id": "d520345b3da8a278c3ed",
         "day": "2026-10-24",
         "articleSlug": "wtiperp",
-        "note": "2026-10-24 round 2: read Crypto Briefing Oct 22 report and CoinGape Oct 22 report on the CMC letter (both independent sites, HTTP 200). CFTC filing PDF ptc10202635057.pdf fetches but returns raw PDF bytes via WebFetch, not yet text-read; Argus Media Oct 20 and Bloomberg Oct 22 not opened. Two readable outlets now on file; draft still outstanding.",
+        "note": "2026-10-24 round 3: re-read Crypto Briefing Oct 22 and CoinGape Oct 22 reports; both confirm CMC letter to CFTC (around Oct 22) urging rejection of Kalshi WTIPERP filed Oct 20, 45-day review possible 90, CMC members CME/NYMEX/ICE Futures US, plus the VPN/offshore-platform request; CoinGape attributes the underlying detail to Bloomberg. Attempted the CFTC filing PDF with the readiness UA but the URL returned an HTML page, not the document. Two independent sites on file; draft and hero image still outstanding, slug wtiperp free.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/",
@@ -81176,7 +81176,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-24T19:51:06.273Z",
+        "updatedAt": "2026-10-24T20:04:12.146Z",
         "approved": false,
         "mustReview": true
       }
