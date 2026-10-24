@@ -81490,9 +81490,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b2741c1b84ab5d73a83",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T19:51:11.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "bcatax",
@@ -81510,7 +81510,25 @@
         "updatedAt": "2026-10-24T19:38:04.979Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Wrote content/articles/bcatax.md (716 words) with hero public/images/news/bcatax.jpg (Capitol photo, CC BY-SA 3.0, compressed 109KB). Verified the Oct 22 association press release and letter contents (recipients, Fraser signature, six principle areas, TaxClarityforAmerica.com), the Bitcoin Magazine Oct 22 report on H.R. 10357, H.R. 9175 dropping, the ADAPT Act and the recess timing, and the Punchbowl Oct 22 note on the non-endorsement. Quality, formatting, image, duplicate audits and tsc clean for this file; all three cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+          "outcome": "read"
+        },
+        {
+          "url": "https://theblockchainassociation.org/posts/blockchain-association-urges-congressional-leaders-to-advance-bipartisan-digital-asset-tax-legislation-launches-taxclarityforamericacom",
+          "outcome": "read"
+        },
+        {
+          "url": "https://punchbowl.news/article/finance/economy/crypto-tax-attention",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T19:50:46.551Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "1e4b30ebcf2d5f2728a4": {
       "source": "Cointelegraph",
@@ -150648,6 +150666,27 @@
           "retrySearches": [
             "Find independent reporting on counterfeit JPMD lookalike tokens on Ethereum after the Oct 19 2026 JPMorgan launch, from on-chain analytics firms, CoinDesk, The Block or crypto.news rather than The Defiant relays"
           ]
+        },
+        "2b2741c1b84ab5d73a83": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote content/articles/bcatax.md (716 words) with hero public/images/news/bcatax.jpg (Capitol photo, CC BY-SA 3.0, compressed 109KB). Verified the Oct 22 association press release and letter contents (recipients, Fraser signature, six principle areas, TaxClarityforAmerica.com), the Bitcoin Magazine Oct 22 report on H.R. 10357, H.R. 9175 dropping, the ADAPT Act and the recess timing, and the Punchbowl Oct 22 note on the non-endorsement. Quality, formatting, image, duplicate audits and tsc clean for this file; all three cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+              "outcome": "read"
+            },
+            {
+              "url": "https://theblockchainassociation.org/posts/blockchain-association-urges-congressional-leaders-to-advance-bipartisan-digital-asset-tax-legislation-launches-taxclarityforamericacom",
+              "outcome": "read"
+            },
+            {
+              "url": "https://punchbowl.news/article/finance/economy/crypto-tax-attention",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:50:46.551Z",
+          "articleSlug": "bcatax"
         }
       },
       "baselineSlugs": [
