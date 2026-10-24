@@ -50082,6 +50082,41 @@
       "attemptId": "eb883cf5-e3ff-4064-8125-b12c0f1b7367",
       "verification": "verified",
       "postId": "0xdc5a2e81285c3d06096a6a87b23ad7135ae5cd35"
+    },
+    {
+      "slug": "eng279",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-24T19:31:29.857Z",
+      "expectedText": "Stripe is hiring Software Engineer\n\nhttps://hashtagweb3.com/eng279/fc?og=7",
+      "snapshot": {
+        "id": "8314283",
+        "title": "Software Engineer",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8314283",
+        "date": "2026-10-22T13:01:03-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "South San Francisco, CA",
+        "department": "Global Operations",
+        "active": true,
+        "salary": "$156.8k – $235.2k/yr",
+        "slug": "eng279",
+        "dateVerified": true
+      },
+      "payload": {
+        "text": "Stripe is hiring Software Engineer\n\nhttps://hashtagweb3.com/eng279/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng279/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "47a20736-144b-4d75-9076-2465cefbe87d",
+      "verification": "creating"
     }
   ]
 }
