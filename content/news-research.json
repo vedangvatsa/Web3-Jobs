@@ -81564,7 +81564,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T19:20:56.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "zodiacustody",
+      "draftProgress": {
+        "id": "71738ccacea6857d8174",
+        "day": "2026-10-24",
+        "articleSlug": "zodiacustody",
+        "note": "2026-10-24: read CryptoSlate Oct 22 report (Oct 21 signed agreement for 100 percent of Zodia Custody, Singapore/Hong Kong/Australia/UAE/Luxembourg, Securities Services integration, Zodia Solutions spinout with Northern Trust, NAB Ventures, SBI Ventures, Emirates NBD). Still need to open the Standard Chartered press release as primary plus a second independent outlet; draft outstanding.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-24T19:40:18.329Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "eaa89eef64c380e9989d": {
       "source": "The Block",
