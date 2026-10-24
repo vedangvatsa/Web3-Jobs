@@ -50904,6 +50904,40 @@
       "attemptId": "8b04f7bf-0b05-4e8f-9edb-61d7eae82f95",
       "verification": "verified",
       "postId": "0xad03266022fd68a40eeec7353d180852036ebb2e"
+    },
+    {
+      "slug": "eng628",
+      "company": "Alpaca",
+      "title": "Staff Software Engineer - Platform",
+      "platform": "farcaster",
+      "postedAt": "2026-10-24T19:35:55.062Z",
+      "expectedText": "Alpaca is hiring Staff Software Engineer - Platform\n\nhttps://hashtagweb3.com/eng628/fc?og=7",
+      "snapshot": {
+        "id": "6229457004",
+        "title": "Staff Software Engineer - Platform",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6229457004",
+        "date": "2026-10-20T10:14:21-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote- Europe/ Americas",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng628"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Staff Software Engineer - Platform\n\nhttps://hashtagweb3.com/eng628/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng628/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "97af3ef0-432c-48b1-8c33-7718d8a9becf",
+      "verification": "creating"
     }
   ]
 }
