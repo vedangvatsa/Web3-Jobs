@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-24T14:46:41.482Z",
+  "generatedAt": "2026-10-24T16:49:32.166Z",
   "items": [
+    {
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "pubDate": "Sat, 24 Oct 2026 16:24:13 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
+      "source": "The Block"
+    },
+    {
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "pubDate": "Sat, 24 Oct 2026 15:21:06 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children’s education.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000",
+      "creator": "Stephen Alpher",
+      "contentSnippet": "Bitcoin has sunk to its weakest level in more than one month.",
+      "source": "Coindesk"
+    },
     {
       "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
       "link": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
@@ -450,14 +482,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa ",
-      "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "pubDate": "Thu, 22 Oct 2026 14:37:12 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
       "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
       "pubDate": "Thu, 22 Oct 2026 13:55:03 +0000",
@@ -474,20 +498,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-      "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy s...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-      "pubDate": "Thu, 22 Oct 2026 12:14:29 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up whil...",
-      "source": "Coindesk"
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+      "pubDate": "Thu, 22 Oct 2026 13:27:54 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+      "source": "The Block"
     },
     {
       "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
@@ -496,14 +512,6 @@
       "creator": "Staff",
       "contentSnippet": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-      "pubDate": "Thu, 22 Oct 2026 09:56:16 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
-      "source": "The Block"
     },
     {
       "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
@@ -543,22 +551,6 @@
       "pubDate": "Wed, 21 Oct 2026 14:24:25 +0000",
       "creator": "Agent",
       "contentSnippet": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
-      "link": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-      "pubDate": "Wed, 21 Oct 2026 13:16:04 +0000",
-      "creator": "Ryan Gladwin",
-      "contentSnippet": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
-      "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-      "pubDate": "Wed, 21 Oct 2026 12:16:38 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
       "source": "Decrypt"
     }
   ]
