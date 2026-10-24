@@ -81155,9 +81155,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "d520345b3da8a278c3ed",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T01:13:50.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "wtiperp",
@@ -81179,7 +81179,25 @@
         "updatedAt": "2026-10-24T20:04:12.146Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Round 4: re-read Crypto Briefing Oct 22 and CoinGape Oct 22; downloaded and read the primary Kalshi WTIPERP filing PDF at cftc.gov (Reg 40.3(a) submission dated Oct 20, signed by Xavier Sottile) covering contract terms, hours, funding clamp, position limits and negative-price handling. All four links return HTTP 200; quality, formatting and image audits pass for content/articles/wtiperp.md with self-hosted CFTC lobby hero.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coingape.com/derivative-exchanges-urge-cftc-to-deny-kalshis-request-to-offer-oil-perpetuals",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/filings/ptc/ptc10202635057.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:14:40.976Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "b36f2304bc26a43ce1eb": {
       "source": "Crypto Briefing",
@@ -150885,6 +150903,27 @@
           "reviewedAt": "2026-10-24T20:03:48.202Z",
           "duplicateOf": "utexomint",
           "mergedInto": "b65e3f9f1ac4abf8d95e"
+        },
+        "d520345b3da8a278c3ed": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Round 4: re-read Crypto Briefing Oct 22 and CoinGape Oct 22; downloaded and read the primary Kalshi WTIPERP filing PDF at cftc.gov (Reg 40.3(a) submission dated Oct 20, signed by Xavier Sottile) covering contract terms, hours, funding clamp, position limits and negative-price handling. All four links return HTTP 200; quality, formatting and image audits pass for content/articles/wtiperp.md with self-hosted CFTC lobby hero.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coingape.com/derivative-exchanges-urge-cftc-to-deny-kalshis-request-to-offer-oil-perpetuals",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/filings/ptc/ptc10202635057.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:14:40.976Z",
+          "articleSlug": "wtiperp"
         }
       },
       "baselineSlugs": [
