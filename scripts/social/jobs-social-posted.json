@@ -49936,7 +49936,8 @@
       },
       "account": "channel:developers",
       "attemptId": "d114fc25-7820-4b2b-b3e4-82f96483b631",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x493a28c04d6eee6d8137d2357534097e4c1bd45b"
     }
   ]
 }
