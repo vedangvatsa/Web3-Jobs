@@ -81567,9 +81567,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e4b30ebcf2d5f2728a4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T19:29:53.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "winklevosspac",
@@ -81591,7 +81591,25 @@
         "updatedAt": "2026-10-24T20:17:09.929Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the Cointelegraph Oct 22 report and re-downloaded the full Schedule E (FEC-2033528, Digital Freedom Fund) in this round; line items match the draft: Talarico oppose 77424.28, Paxton support 4074.96, distribution Oct 19, obligation Oct 20, vendor Minute Mail Consulting Group, period total 130904.04. Draft at content/articles/winklevosspac.md is 671 words, hero image public/images/news/winklevosspac.jpg (Texas State Capitol, Farragutful, CC BY-SA 4.0) downloaded and compressed to 319KB; image and formatting audits pass, quality audit reports no issues for this file. Inline FEC link switched to www.fec.gov/data/committee/C00911610 which returns 200 to plain curl; docquery.fec.gov returned 403 to default UA and 200 to browser UA when read.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
+          "outcome": "read"
+        },
+        {
+          "url": "https://docquery.fec.gov/cgi-bin/forms/C00911610/2033528/se",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fec.gov/data/committee/C00911610/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:27:45.734Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "71738ccacea6857d8174": {
       "source": "CryptoSlate",
@@ -150940,6 +150958,27 @@
           "note": "Read the Crypto Briefing item in full: it is an AI-assisted prediction-market analysis of a Maine firefighter union endorsing Susan Collins. No crypto, blockchain or Web3 actor, funding or policy appears anywhere in the story; single source, no primary record. Not a Web3 news event for this site.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-24T20:21:02.288Z"
+        },
+        "1e4b30ebcf2d5f2728a4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Cointelegraph Oct 22 report and re-downloaded the full Schedule E (FEC-2033528, Digital Freedom Fund) in this round; line items match the draft: Talarico oppose 77424.28, Paxton support 4074.96, distribution Oct 19, obligation Oct 20, vendor Minute Mail Consulting Group, period total 130904.04. Draft at content/articles/winklevosspac.md is 671 words, hero image public/images/news/winklevosspac.jpg (Texas State Capitol, Farragutful, CC BY-SA 4.0) downloaded and compressed to 319KB; image and formatting audits pass, quality audit reports no issues for this file. Inline FEC link switched to www.fec.gov/data/committee/C00911610 which returns 200 to plain curl; docquery.fec.gov returned 403 to default UA and 200 to browser UA when read.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
+              "outcome": "read"
+            },
+            {
+              "url": "https://docquery.fec.gov/cgi-bin/forms/C00911610/2033528/se",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fec.gov/data/committee/C00911610/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:27:45.734Z",
+          "articleSlug": "winklevosspac"
         }
       },
       "baselineSlugs": [
