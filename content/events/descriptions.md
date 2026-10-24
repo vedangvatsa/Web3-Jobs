@@ -11056,6 +11056,26 @@ Plug and Play APAC's summit brings together startups, corporations, investors, g
 
 Registration is free and subject to host approval. The exact Singapore venue is shared with registered guests.
 
+<a id="event-c066a0c6620b580f"></a>
+
+## Tech X Summit Global
+
+- Record: `token2049-evt-JZv1H985Ggdevr9`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-12-10T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y586ohae>
+
+### About the event
+
+Tech X Summit Global is scheduled for 10 December 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).
+
+We bring together the leaders who are not just observing the shift, but are actively building the infrastructure of tomorrow.
+
+Visitor Pass now just $100 (Regular Price: $499)!
+
+Registration requires host approval. Registration is listed as free.
+
 <a id="event-c5411b5e597d3ec0"></a>
 
 ## Namsan Hike with T1gers
@@ -25283,526 +25303,6 @@ Pudgy Penguins is one of the most recognizable brands in Web3 culture, bringing 
 X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
-
-<a id="event-5d3397523508ae08"></a>
-
-## Colosseum Office Hours. Superteam TH
-
-- Record: `luma-batch-VPAzBSJnoVIHoRG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2k5vplzo>
-
-### About the event
-
-Turn your hackathon idea into a stronger submission.
-
-Colosseum Office Hours by Superteam Thailand gives builders direct access to people who can help you improve your idea, unblock your build, sharpen your product, and prepare a stronger submission for Colosseum 2026.
-
-Bring your idea, prototype, technical blocker, product question, or submission draft. Leave with clearer next steps and practical feedback you can immediately apply.
-
-What you can get help with
-
-Idea validation: Pressure-test your concept, use case, and target user.
-
-Product feedback: Improve your MVP, user experience, and product direction.
-
-Technical guidance: Get help navigating Solana development, integrations, architecture, and blockers.
-
-Submission strategy: Strengthen your demo, pitch, documentation, and overall hackathon submission.
-
-Founder support: Talk through positioning, differentiation, distribution, and how to turn a hackathon project into something worth continuing after the competition.
-
-Who should join?
-
-Colosseum participants at any stage from people with their first idea to teams already shipping a working product.
-
-You can come solo, with a team, or while still looking for teammates.
-
-No polished demo required. Come with what you have, get feedback, and keep building.
-
-Superteam Thailand / Colosseum Builder House
-
-Bring your laptop and whatever you are currently building.
-
-<a id="event-000fe677fbc30d4e"></a>
-
-## The Future of Institutional Liquidity: Regulated Tokenization & Global Payments
-
-- Record: `luma-batch-Xw5vJNjnsSundBA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fs7ukh1b>
-
-### About the event
-
-Join us for a focused conversation on where institutional finance is heading as regulated tokenization and global payments continue to reshape the landscape. GC Exchange FZE and Tether are coming together to present "The Future of Institutional Liquidity: Regulated Tokenization & Global Payments," a session designed to unpack how these developments are creating new pathways for liquidity and settlement on a global scale.
-
-Hosted by GCEX, this session will bring perspectives from both organizations on the practical realities of building compliant, scalable infrastructure for tokenized assets and cross-border payments. Expect a candid discussion on regulatory frameworks, market infrastructure, and what institutional players need to know as this space matures.
-
-We'll be meeting at Capital Club Dubai in Gate Village, DIFC. This is a closed event.
-
-Dress Code: only Formal or local traditional (Abaya or Kandoura).
-
-### Agenda
-
-Networking breakfast
-
-Introduction
-
-Alya Marrakchi, GCEX
-
-Keynote: VARA regulation and the regulated pathway for institutional digital assets in the UAE
-
-Dr. Ayesha Bin Lootaah, VP Assistant, VARA
-
-Panel 1: Breaking Borders - Stablecoins in Institutional Global Payments
-
-Ramy Soliman, Co-founder, Middle East Stablecoin Association (MESA)
-
-Stuart Isted, CEO, PayTech
-
-Abubakar Mujahid, Digital Assets Product Leader, RAKBANK
-
-Keynote: Tokenized Assets
-
-Panel 2: Wealth Management in the Crypto World - RWAs
-
-Anton Golub, Founding Member, RWA Labs
-
-Muhammed Rasoul, CEO, Amana
-
-Irina Heaver, Founder, NeosLegal
-
-Lars Holst, CEO, GCEX Group
-
-Closing remarks and networking
-
-<a id="event-355a93dfae670753"></a>
-
-## Cash That Moves, Cash That Earns: Onchain for Treasurers
-
-- Record: `luma-batch-evtO6ih6mSJaPZvD`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tbw_onchain_treasurers>
-
-### About the event
-
-TBW is the leading Market Intelligence provider on Digital Assets, serving 150+ institutional & corporate clients across banks, asset managers, fintechs and digital asset companies.
-
-Join TBW, Hercle, ArcelorMittal, Utila, Zama and other leading institutional players for an exclusive breakfast in Paris.
-
-Corporate treasurers are sitting on a quiet revolution. Stablecoins and onchain rails have matured to the point where cash can now move across borders in seconds and earn competitive yields around the clock, without the friction of legacy infrastructure.
-
-For treasury teams at banks, corporates, and fintechs, the question is no longer whether to explore onchain cash management. It is how to do it securely, compliantly, and at scale.
-
-We'll explore how leading companies are helping treasurers put their cash to work, from cross-border payments and stablecoin infrastructure to tokenized money market instruments and institutional-grade custody.
-
-Thanks to Hercle, Utila, ArcelorMittal and Zama for making this event possible. Attending? Share your presence with a dedicated visual here!
-
-8:30AM - Welcome coffee & croissants
-
-9:00AM - "Stablecoins for Cross-Border Payments and Treasury: What Actually Works Today?"
-
-Ioannis Kympritis, VP of Global Expansion, Hercle
-
-Fabricio Bezerra, Chief Digital Officer, ArcelorMittal Treasury
-
-Gonçalo Correia, Institutional Lead EMEA, Utila
-
-Antoine Hello, Director of Business Development, Zama
-
-Maxime Coniglio, Head of Market Intelligence, The Big Whale
-
-9:50AM - Networking Session
-
-Seats are limited to foster deep, honest discussions and high-quality networking.
-
-Priority access will be given to Corporate members.
-
-Important: doors close at 9:00 AM. It will not be possible to join breakfast after that time.
-
-<a id="event-71f6ba8974d69026"></a>
-
-## Colosseum AMA with Daniel from NOMU
-
-- Record: `luma-batch-UIINVHeAqoKxDca`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-vrop>
-
-### About the event
-
-Week two means it's time to start thinking beyond just building. What does a winning Colosseum submission actually look like? What matters to the judges? And what happens if you make it into the Accelerator?
-
-This Thursday we're joined by Daniel from NOMU, a Colosseum winner from last year who has just completed the Colosseum Accelerator.
-
-Daniel has been through the entire journey - building for the hackathon, putting together the submission, winning, getting selected for the Accelerator, and then spending the program turning the project into a company.
-
-He'll share what he learned along the way and what he'd do differently if he were entering Colosseum again today.
-
-We'll cover:
-
-→ What made NOMU's submission stand out→ How to think about your pitch, demo and submission→ What judges are looking for→ What Daniel learned from winning Colosseum→ What happens after you win→ The Accelerator application and selection process→ What the Accelerator is actually like→ How to prepare now if your goal is to make the Accelerator
-
-It's also an open AMA, so bring your questions about Colosseum, submissions, pitching, the Accelerator, fundraising, or building your project beyond the hackathon.
-
-Who it's for: Anyone building for Colosseum who wants to put together a stronger submission - particularly teams thinking beyond the hackathon and towards the Accelerator.
-
-You'll leave with: Practical advice from someone who's gone from Colosseum builder → winner → Accelerator founder, and a much clearer idea of what you should be working towards over the remaining weeks.
-
-Free and open. Bring your project and your questions for Daniel.
-
-https://au.superteam.fun/colosseum for more information.
-
-<a id="event-83224b933cbdff2c"></a>
-
-## Pudgy Penguins Happy Hour in Tokyo
-
-- Record: `luma-batch-AncPOyo3ruwHFFG`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7quvbhdk>
-
-### About the event
-
-ポップアップショップの初日の夜、
-
-同じ部屋でそのまま Happy Hour を開きます。
-
-2026 年 9 月 24 日(木)18:30〜21:00 / enXross DAO(東京ドームシティ
-
-MEETS PORT 4F)/ 参加無料・登録制
-
-ドリンクを片手に、集まった人どうしでゆるく話す 2 時間半です。 きっちりしたプログラムはありません。途中から来ても、途中で帰っても大丈夫です。 本会は Pudgy Penguins・Fracton Ventures・enXross(東京ドーム)・ Effisend の 4 社による共同開催です。
-
-こんな方に
-
-Pudgy Penguins が好きな方、この日ポップアップショップに来られた方
-
-同じ日に同じ会場で開いている enXross Day に参加された方
-
-ETHTokyo Week で東京に来ている方
-
-日本の Web3・NFT まわりの人と、肩の力を抜いて話したい方
-
-参加登録について このページからの登録制です(参加無料・定員あり)。 参加される方は事前にご登録ください。 定員に達した場合はキャンセル待ちになります。
-
-同じ部屋で開いている Pudgy Penguins ポップアップショップは、予約不要・入場 無料です。 9 月 24 日(木)〜10 月 2 日(金)の会期中(9/26・27 は休み)、営業 時間ならどなたでもそのまま入って お買い物いただけます。
-
-登録が要るのは、この夜 の Happy Hour だけです。 → ショップのページ: https://luma.com/esbfl3ud
-
-会場
-
-enXross DAO 東京ドームシティ MEETS PORT 4F〒112-8575 東京都文京区後楽1-3-61 エレベーターで 4 階まで上がって、受付でお声がけください。
-
-ご案内
-
-参加無料です。ドリンクをご用意しています(数に限りがあります)
-
-出入りは自由です。18:30 から 21:00 のあいだ、いつ来てもいつ帰っても大丈夫です
-
-会場で写真を撮り、レポートや SNS に使うことがあります。写りたくない場合は、スタッフにお声がけください
-
-暗号資産での販売は行いません。トークンの購入を勧めたり、配ったりすることもありません
-
-共同開催
-
-Pudgy Penguins / Fracton Ventures / enXross(東京ドーム)/
-
-Effisend
-
--------　English ------
-
-On the night of the first day of the pop-up shop,
-
-we will hold a Happy Hour right there in the same room.
-
-Thursday, September 24, 2026, 18:30-21:00 / enXross DAO (Tokyo Dome City MEETS PORT 4F) / Free admission, registration required
-
-Enjoy a drink and casually chat with fellow attendees for two and a half hours. There is no strict schedule. You are welcome to arrive late or leave early. This event is co-hosted by four companies: Pudgy Penguins, Fracton Ventures, enXross (Tokyo Dome), and Effisend.
-
-Recommended for
-
-Those who love Pudgy Penguins or visited the pop-up shop on this day
-
-Those who attended enXross Day held at the same venue on the same day
-
-Those visiting Tokyo for ETHTokyo Week
-
-Those who want to chat in a relaxed atmosphere with people involved in Web3 and NFTs in Japan
-
-### About Registration
-
-Registration through this page is required (free admission, limited capacity). Please register in advance if you plan to attend. Once capacity is reached, you will be placed on a waiting list.
-
-The Pudgy Penguins pop-up shop, held in the same room, requires no reservation and offers free admission. During the event period from Thursday, September 24 to Friday, October 2 (closed on 9/26 and 9/27), anyone can enter and shop anytime during business hours.
-
-Registration is only required for this evening Happy Hour.
-
--> Shop page: https://luma.com/esbfl3ud
-
-### Venue
-
-enXross DAO
-
-Tokyo Dome City MEETS PORT 4F
-
-1-3-61 Koraku, Bunkyo-ku, Tokyo 112-8575
-
-Please take the elevator to the 4th floor and speak to the reception staff.
-
-Notice
-
-Admission is free. Drinks will be provided (limited quantities)
-
-You are free to come and go as you please. You can arrive and leave anytime between 18:30 and 21:00
-
-Photos may be taken at the venue and used for reports or on social media. If you prefer not to be photographed, please inform the staff
-
-No sales will be conducted in cryptocurrency. There will be no solicitation to buy tokens, nor will any tokens be distributed
-
-### Co-hosts
-
-Pudgy Penguins / Fracton Ventures / enXross (Tokyo Dome) / Effisend
-
-<a id="event-f1d6eaedec566748"></a>
-
-## Whitepaper Reading HK - Perpetualization of Everything? (萬物皆可上鏈？)
-
-- Record: `luma-batch-evtLGhxnagd30UAL`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vbd0pmtv>
-
-### About the event
-
-🇭🇰 WPRC 白皮書讀書會第五場來了！
-
-Perpetual Futures (永續合約)一直被視為原生加密工具交易工具。在2026年，隨著更多機構級企業參與，可供交易的永續合約種類變得愈來愈多。永續合約是怎樣由一種加密原生工具，變成任何「有可信價格」資產都可以套用的金融結構？而它跟傳統期貨的分別又是什麼？
-
-*Note: This session will be conducted in Cantonese.
-
-我們會討論：
-
-永續合約的起源與設計哲學 - Perps的Funding rate機制是如何靠資金費率令價格貼近現貨市場？
-
-HyperLiquid的無許可部署永續合約- HIP-3 與 permissionless market creation的機制和開放性，對永續合約帶來的新行業標準
-
-Pre-IPO Pers案例分享 - 探討不同資產在價格發現上所出現的準繩度相差分別
-
-目前面對的領域瓶頸、Oracle (
-
-預言機)風險和監管邊界 - SK Hynix 合約在韓國引發的爆倉事件揭示誰要為 Oracle的錯誤負責，以及 CFTC(美國商品期貨交易委員會)目前取態
-
-Resources: Summary | Allium Research | HyperLiquid
-
-導讀人 - Oscar Chang (Analyst at Gate Ventures)
-
-Session 形式
-
-開場 10 分鐘靜默閱讀
-
-討論優先,不設 panel
-
-歡迎帶問題來(技術深度沒問題)
-
-會後分享簡短筆記與重點整理
-
-感謝 MUNG Legal
-
-MUNG Legal 是香港首間專注於區塊鏈領域的律師事務所，成立於 2018 年，專門處理 Web3、數碼資產、金融科技及跨境相關法律事務。
-
-事務所由管理合夥人 Monin Ung 領導。Monin 同時擁有香港、新加坡及英國律師資格，並具備超過 20 年國際法律經驗。其領導及顧問團隊亦包括：負責策略及創投的 Michael Hui, BBS, MH, JP；擁有超過 30 年房地產及私募基金經驗的顧問 Makoto Takada；以及資深企業、併購及私募股權律師 Angela Li。
-
-MUNG Legal 一直支持 Whitepaper Reading Club，早前曾支持我們在新加坡舉辦活動，最近亦再次支持我們在香港的活動。
-
-衷心感謝 MUNG Legal 的持續支持
-
-https://www.munglegal.com
-
-Whitepaper Reading Club（WPRC）
-
-一個聚集 1,000+ builders、engineers、researchers 的全球社群，橫跨 Singapore、Kuala Lumpur、San Francisco、Lagos、Hong Kong、Bangkok、New York - 每月聚在一起，圓桌式硬啃最新的blockchain項目和研究文！
-
-每一場都會有一份清楚易讀的 Summary 一讓所有人都能參與、一起學習交流。
-
-想和 WPRC 一起走在技術前沿？
-
-回顧過往活動與分享摘要：https://wprc.club
-
-參加更多活動：https://luma.com/whitepaper
-
-LinkedIn：https://linkedin.com/company/whitepaper-reading-club/
-
-Instagram：https://instagram.com/wprc.club/
-
-持續關注 WPRC，與我們一起探索最前沿的技術趨勢與研究！
-
-<a id="event-48004f021c091650"></a>
-
-## Build for Breakpoint: Runway in 60 minutes with Myna L2
-
-- Record: `luma-batch-A2WODW7fC2KQ9OA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1zc6h58s>
-
-### About the event
-
-Runway in 60 MinutesA valuation isn't a number you pick because it sounds right; it's one you have to justify, and the justification starts with what your money buys and by when. At Breakpoint you'll have a few minutes in front of people who read these numbers for a living.
-
-This is a build session, not a lecture. Bring your current bank balance and the last three months of outgoings, a screenshot of the account is fine, nothing else. In the room you'll build the model live: cash, monthly burn, months of runway.
-
-Expect to be pushed on vague answers.
-
-We'll also cover what quietly breaks a runway sheet - churn, cash versus profit - and the decisions the number is actually for, like when you can afford to hire.
-
-You'll leave with a completed runway sheet and your milestone sentence, submitted before you go.
-
-Your host: Jamie Nuttall, Myna L2. UK crypto tax specialist and accountant, working in the sector since 2018 across DeFi, staking, NFTs, historic disclosures and HMRC enquiries. He contributes to HMRC consultations and was named Crypto Tax Adviser of the Year at the Citywealth Future Leaders Awards 2024. He's spent his career reconciling what actually happened against what founders assumed happened, and he'll tell you straight what your numbers say, including when it isn't what you hoped.
-
-<a id="event-3586639310ba8dd0"></a>
-
-## #2 AI Workshop for Colosseum｜データベースを使ったプロジェクトを作ろう
-
-- Record: `luma-batch-BQ5hii5HVHWHAPT`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/Workshop_CryptoWorldsFair2>
-
-### About the event
-
-AI Workshop for Colosseum 第2回をオンライン開催します。
-
-Solana Foundation External DevRel JapanのYukiさんと一緒に、AIを活用しながら、データベースを使ったプロジェクト制作に挑戦する実践型ワークショップです。
-
-ClaudeもしくはChatGPTをご準備いただき、一緒に手を動かしましょう！
-
-開催日時
-
-2026年9月24日(木) 20:30 Superteam Japan Discord
-
-登壇者情報
-
-YukiSolana Foundation External DevRel Japan/yuki_web3_jp
-
-イベント参加が初めての方へ
-
-イベントにスムーズに参加するため、以下のSTEPに沿って準備をお願いします。3分ほどで完了します。
-
-STEP 1：Luma（ルマ）で参加登録をする
-
-まずは、このページで申し込みを完了させましょう。
-
-右上の [ログイン] を押し、Googleアカウント等でログインします。
-
-その後、このページで [参加登録] ボタンを押せば完了です！
-
-登録したメールアドレスに案内が届きます。
-
-STEP 2：会場「Discord（ディスコード）」の準備
-
-今回のイベント会場は、スマホやPCで使えるコミュニケーションアプリ「Discord」になります。
-
-参加URL： Discordサーバーに参加
-
-スマホで参加の方 事前にアプリをインストールしておくと、当日の参加がとてもスムーズです。
-
-iPhoneの方（App Store）
-
-Androidの方（Google Play）
-
-PCで参加の方 アプリを入れなくても、いつものブラウザ（ChromeやSafariなど）でそのまま開けます。
-
-STEP 3：イベント参加と「認証（Verify）」
-
-アカウントの準備ができたら、以下の手順でDiscordへお入りください。
-
-「人間であること」の確認（認証）： Discordに入った直後は、まだ中身（チャンネル）が見えない設定になっています。セキュリティのため、以下のURLをクリックして認証を行ってください。
-
-ここをクリックして認証ページを開く
-
-画面に表示される指示（対象の文字にあう絵文字を選択）に従うと、すべてのチャンネルが見えるようになります。
-
-<a id="event-e0cd7816b756f3ad"></a>
-
-## Touch Grass: Morning Pilates & Matcha Whisking Workshop - SOLANA SUMMIT CANADA Side Event
-
-- Record: `luma-batch-dmVeqqMpGRrjDg1`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kftm392v>
-
-### About the event
-
-Before day two of the summit, come north for two hours outside.
-
-We start with a 45-minute chair Pilates class on our patio, led by a certified instructor. No mat, no floor work, no gym clothes needed - come as you are. All levels, built for bodies that spend conference days sitting.
-
-Then take a seat at the bar for a matcha whisking and tasting workshop. You will whisk your own bowl and turn it into a matcha or hojicha latte, guided by our team. Alongside: a table of feel-good house baked goods - organic buckwheat bagels, seasonal loaves, mini scones, and cookies, all baked on site. Our kitchen works exclusively with organic buckwheat, psyllium husk, and chia; no wheat is used on site.
-
-We wrap by 9:45 - about 20 minutes back to the summit venue on Line 1. You arrive having already talked to people properly.
-
-What to bring: just yourself. Comfortable clothes help, but nothing special needed. Everything else is on us.
-
-Schedule8:00 - Arrive, settle in8:15 - Chair Pilates (45 min, all levels)9:00 - Matcha whisking workshop and baked goods, rotating small groups9:45 - Wrap; head to the summit together
-
-Gleam & Sip is a matcha café in the Annex. We run matcha bar activations for teams across Toronto and host weekly tea experiences at the café.
-
-<a id="event-8099f2ecb2535964"></a>
-
-## Flight3 x Superteam UK: Design & Presence: Look Like You Belong
-
-- Record: `luma-batch-sBZp41reo9D11hu`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wqvdsw6h>
-
-### About the event
-
-Led by the Flight3 studio
-
-In a room full of blue-chips, scrappy reads as small. People judge how established you are on how you look in the room, and a young project can't afford to look young.
-
-We'll show you the visual details that make a project read as the real thing: your deck, your booth, your merch, your social assets. You'll go through your own presence with us and leave knowing exactly what to fix first.
-
-Expect a presence checklist and a clear order of design priorities for Breakpoint.
-
-### Hosts
-
-Hosted by Superteam UK.
-
-### Event details
-
-The event takes place on September 24. Venue: Somerset House, Somerset House, London WC2R 1LA, UK.
-
-<a id="event-9d656ffa8e1538fb"></a>
-
-## Prediction Market Brunch Toronto
-
-- Record: `luma-batch-3p8TZk3OLCl4foz`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qqzywn9z>
-
-### About the event
-
-Join Polysights, Predict.TO, and Arch Network for a prediction market focused brunch in Toronto. We're gathering a small group for good food, good conversation, and plenty to talk about around the future of prediction markets, trading, and the products shaping the space.
-
-This is a private event with a hard cap of 30 guests, and attendees will be manually approved, with priority going to people who have experience trading or working in the space. The venue is just a 5 minute walk from the Solana Summit [venue, making it an easy stop to fuel up and kick off the day](https://www.solanasummit.ca/)!Huge thanks to Superteam Canada for making this possible!
 
 <a id="event-8b1a78ec5c24954d"></a>
 
@@ -50167,123 +49667,6 @@ Join the telegram for updates https://t.me/+xHswLTkhGpI0MGFh
 
 By signing up, you agree that Superteam Canada can contact you about future events [and updates, and that you will adhere to our Code of Conduct](https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).
 
-<a id="event-ce549a27c0669200"></a>
-
-## Web3Privacy now Tokyo meetup
-
-- Record: `ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-24T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ispxo30p>
-
-### About the event
-
-Final date & Placa has been set - 24 September, Tokyo Dome!
-
-Shaping and Defending the Techno-Political Evolution: Open Source, Public Goods, and Grassroots Movements
-
-Web3Privacy now x ETHTokyo side event
-
-Speakers & Hosts
-
-- [Alan Scott](https://x.com/tsu_kareta) (https://x.com/tsu_kareta)[x Railgun](https://railgun.org/) - zero-knowledge that really works and protects billions of funds. Champion of Ethereum privacy.
-- [Parsley](https://x.com/Parsley3D) [x FAT Solutions](https://fatsolutions.xyz/)- long-lasting FOSS & privacy advocates collaborating with Privacy Pools, Starknet & others.
-- [Yudai Suzuki](https://x.com/9dai_5) [x Fracton Ventures](https://fracton.ventures/) - ecosystem weaver with a lifetime commitment to scaling Ethereum's CROPS values across Asia and beyond.
-- [Koss](https://x.com/kosmostasis)[x Swarm](https://www.ethswarm.org/)/Ayllu - long-lasting digital rights activist, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation.
-- [Kelly Joo](https://x.com/yjkellyjoo) [x Swarm](https://www.ethswarm.org/) - seasoned swiss-knife devrel at the service of Ethereum privacy.
-- [Toshi Matsumoto](https://x.com/toshiboy86) [x INTMAX](https://intmax.io/)/[zERC20](https://zerc20.io/) - making privacy on Ethereum not only cryptographically secure, but usable, interoperable, and ready for real-world adoption.
-
-### Half-day dedicated to fostering solidarity and understanding among
-
-- open source and human rights advocates
-- public goods developers and hacker culture
-- internet freedom defenders and grassroots movements
-- hacktivists and the general public
-
-### DISCLAIMER: the event is first come, first served
-
-> [Privacy Summit I, Prague, 2023 - Ameen Soleimani](https://x.com/ameensol)
-
-### ABOUT US
-
-[Web3Privacy Now](https://web3privacy.info/)is a think-and-do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.
-
-We facilitate cross-stack and cross-community collaboration to drive meaningful impact. We challenge standardization and maximalism, avoid abstractions and stereotypes.
-
-We work on the forefront of technology with a poly-disciplinary approach, togetherness, and care, assiting each other in clarifying paths toward effective progress.
-
-Website: https://web3privacy.info/
-
-Latest news: http://twitter.com/web3privacy
-
-### OUR MISSION
-
-We aim to manifest profound social change by advocating Privacy and civil liberties in the Web3 Era.
-
-We envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.
-
-With unified efforts, we are carving out a path toward a more equitable, decentralized, and freedom-respecting digital commons.
-
-Web3Privacy Now 2026 events
-
-Ethereum Cypherpunk Congress #3
-
-date: 2 Nov
-
-place: Mumbai (next to Devcon)
-
-specs: 5000 people, 100 speakers, many tier1 non-web3 (aiming for Signal, Brave, Tor, EFF etc)
-
-web: https://congress.web3privacy.info
-
-Neo-cypherpunk summit in Berlin - building new activist culture
-
-date: 14 June
-
-place: Berlin (part of Berlin Blockchain Week)
-
-specs: 2000 people, 80 speakers, many tier1 non-web3, great location (Funkhaus)
-
-web: https://web3privacy.github.io/s26ber/
-
-Cypherpunk Retreat - focused on 1 domain x collab with Protocol Labs
-
-date: September
-
-place: TBD (highly: Europe)
-
-specs: ±50 Tier1 builders (both web3 + web2)
-
-web: http://cypherpunk.camp
-
-Privacy-focused meetups
-
-- Prague: https://luma.com/98pzi0jh
-- Rome: https://luma.com/q1sdbqf3
-- Tokyo: https://luma.com/ispxo30p
-- Amsterdam: https://luma.com/sixp297m
-
-Contribute
-
-Volunteer: https://tally.so/r/3lLqKo
-
-Speak: https://tally.so/r/nrOzXl
-
-[Partner: pg 'at' web3privacy.info](https://web3privacy.info)
-
-Socials
-
-community https://t.me/+ZGFx7P_uaLUxZThk
-
-[web https://web3privacy.info](http://web3privacy.info)
-
-[git https://github.com/web3privacy](http://github.com/web3privacy)
-
-youtube https://www.youtube.com/web3privacynow
-
-x https://x.com/web3privacy
-
 <a id="event-8cad57aec3d6bdc0"></a>
 
 ## WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue
@@ -70461,6 +69844,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7f17face9c16f2b9"></a>
+
+## Founder Forward's 10th Anniversary Kickoff Celebration
+
+- Record: `luma-evt-QOaGqpvZzF1Vltn`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/hv6u8p7o>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e54153c5a950849c"></a>
 
 ## IFL Dinner w/ Marcelo Cortes - Faire, A Canadian Unicorn
@@ -70727,6 +70122,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7f3b38d7de8c949b"></a>
+
+## Buildathon: Las Rozas x NocodeHackers
+
+- Record: `luma-evt-JXzfkwS2fWUDCBG`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4ihrutqx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7e5b81ba9ca07daa"></a>
 
 ## Men's Wellness: Get clear, Move forward in life and business
@@ -70760,6 +70167,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T17:30:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316898768/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0504dca7307404ba"></a>
+
+## Riserva Madrid \| Stablecoins over wine at MERGE Madrid
+
+- Record: `luma-evt-ZaYcNRc6ZdzOUbG`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/hhu8bhta>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71374,6 +70793,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-30T13:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/anwdy1mx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-166939ef5e13edf5"></a>
+
+## Softstack TUM Blockchain Dinner
+
+- Record: `w3v-softstack-tum-blockchain-dinner-9-1792786088843`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T16:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/rgk5ab91>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72868,6 +72299,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T13:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/976c7sih>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-343ca9f17870e9da"></a>
+
+## •	Linux on IBM Z and LinuxONE Crypto News
+
+- Record: `mu-317096562`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T18:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/kansas-city-open-source-meetup/events/317096562/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

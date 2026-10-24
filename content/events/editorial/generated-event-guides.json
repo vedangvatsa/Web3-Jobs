@@ -410,40 +410,6 @@
       }
     ]
   },
-  "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky": {
-    "summaryLead": "Web3Privacy Now lands in Tokyo on September 18, 2026 for a half-day meetup on open source, public goods and grassroots digital rights, staged as a side event to ETHTokyo and led off by speakers from Railgun and Swarm.",
-    "sections": [
-      {
-        "heading": "Tokyo Gets Its Privacy Turn",
-        "content": [
-          "Privacy is the corner of web3 that thrives on small rooms, and Web3Privacy Now has made a touring habit of them. Its Tokyo meetup, set for September 18, 2026, runs as a side event to ETHTokyo, which means the audience arrives pre-filtered: people already in town for Ethereum's builder scene, looking for the conversation the main track won't host.",
-          "The organizing crew matters here. Web3Privacy Now describes itself as a think-and-do-tank of hundreds of people and projects committed to civil liberties, decentralization and open-source software, explicitly against standardization and maximalism. Mykola fronts this edition. Their 2026 slate runs from a neo-cypherpunk summit at Berlin's Funkhaus during Berlin Blockchain Week to a 5,000-person Ethereum Cypherpunk Congress beside Devcon in Mumbai on November 2."
-        ]
-      },
-      {
-        "heading": "Techno-Politics on the Agenda",
-        "content": [
-          "The session title does a lot of work: Shaping and Defending the Techno-Political Evolution. Organizers frame it as half a day dedicated to solidarity among open-source and human rights advocates, public goods developers and hacker culture, internet freedom defenders and grassroots movements, hacktivists and the general public. That is a wide tent, deliberately so.",
-          "Expect the discussion to sit where code meets politics - funding public goods without capture, keeping privacy tooling legal and usable, deciding which battles matter. Anyone hoping for a token pitch should stay home; anyone curious why protocol developers talk like civil-rights organizers will get the missing context."
-        ]
-      },
-      {
-        "heading": "Railgun and Swarm Lead Off",
-        "content": [
-          "Two first speakers anchor the bill. Alan Scott represents Railgun, the zero-knowledge privacy system he describes as protecting billions in funds, positioning him as one of Ethereum's most persistent privacy advocates. He'll bring the practitioner's view of making private transactions work at scale.",
-          "Alongside him, Daniel Knobelsdorf of Swarm arrives with a longer arc: years embedded in decentralized tech, digital commons, alternative financial systems and digital transformation as a self-described long-lasting digital rights activist. The pairing is telling - one builds the privacy rail, the other defends the broader commons it runs on."
-        ]
-      },
-      {
-        "heading": "First Come, Seriously",
-        "content": [
-          "Registration is free via Luma, but the disclaimer deserves bold type: the event is first come, first served. Tokyo venues fill fast during ETHTokyo week, so an RSVP is necessary but not sufficient - arriving early is part of the ticket.",
-          "If Tokyo misses you, the same crew runs privacy meetups through the year in Prague, Rome and Amsterdam, with a Cypherpunk Retreat planned for September in Europe alongside Protocol Labs. The movement, whatever else you say about it, keeps a calendar.",
-          "Context for newcomers explains why this small room matters. The Tokyo session sits inside a year-long arc: privacy meetups in Prague and Rome established the format, a Cypherpunk Retreat with Protocol Labs was slated for September in Europe for roughly fifty tier-one builders, Berlin hosted a neo-cypherpunk summit at Funkhaus during Berlin Blockchain Week aimed at 2,000 people, and the Ethereum Cypherpunk Congress lands beside Devcon in Mumbai on November 2 targeting 5,000 attendees and 100 speakers, reaching beyond web3 toward Signal, Brave, Tor and EFF circles. Measured against those numbers, a half-day in Tokyo looks modest - but rooms like this are where the movement tests arguments, recruits volunteers via its open forms and decides which fights deserve the bigger stages."
-        ]
-      }
-    ]
-  },
   "luma-evt-XVgMezNYKSfYZHA": {
     "summaryLead": "MyWeb3 throws its official launch party in Fullerton, California on Saturday, September 12, 2026 - part celebration, part hands-on training where creators and small-business owners set up profiles live, eat free food and learn to accept payments across PayPal, Venmo, Zelle, CashApp and crypto.",
     "sections": [

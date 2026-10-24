@@ -16507,5 +16507,72 @@
         }
       ]
     }
+  },
+  {
+    "id": "token2049-evt-JZv1H985Ggdevr9",
+    "name": "Tech X Summit Global",
+    "description": "Tech X Summit Global is scheduled for 10 December 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA).\n\nWe bring together the leaders who are not just observing the shift, but are actively building the infrastructure of tomorrow.\n\nVisitor Pass now just $100 (Regular Price: $499)!\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-12-10T02:00:00.000Z",
+    "location": "Marina Bay Sands Singapore, 10 Bayfront Ave, Singapore 018956",
+    "url": "https://luma.com/y586ohae",
+    "registrationUrl": "https://luma.com/y586ohae",
+    "coverImage": "/events/token2049-evt-jzv1h985ggdevr9-c2a8a729.webp",
+    "endDate": "2026-12-10T10:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Marina Bay Sands Singapore",
+    "streetAddress": "10 Bayfront Ave, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Downtown Core",
+    "coordinates": {
+      "latitude": 1.2837574999999999,
+      "longitude": 103.8591065
+    },
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Vistor Expo Pass",
+        "url": "https://luma.com/y586ohae",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/y586ohae",
+      "eventId": "evt-JZv1H985Ggdevr9",
+      "fetchedAt": "2026-10-24T14:47:20.616Z",
+      "method": "luma-api"
+    },
+    "slug": "tech-summit",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/y586ohae",
+      "fetchedAt": "2026-10-24T14:47:20.616Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Tech X Summit Global",
+      "sha256": "808fef6c6329c7addd63dfe4cabca74866868bbe9a18dce86801b8a7bcc843f0",
+      "evidence": [
+        {
+          "url": "https://luma.com/y586ohae",
+          "fetchedAt": "2026-10-24T14:47:20.616Z",
+          "sha256": "5be2844e8ac93418b6267f4b80fc5e8ed297c56bab3786d28544422f28b2e936"
+        }
+      ]
+    }
   }
 ]

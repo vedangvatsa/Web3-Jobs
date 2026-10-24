@@ -175,62 +175,6 @@
     }
   },
   {
-    "id": "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky",
-    "name": "Web3Privacy now Tokyo meetup",
-    "description": "Final date & Placa has been set - 24 September, Tokyo Dome!\n\nShaping and Defending the Techno-Political Evolution: Open Source, Public Goods, and Grassroots Movements\n\nWeb3Privacy now x ETHTokyo side event\n\nSpeakers & Hosts\n\n• [Alan Scott](https://x.com/tsu_kareta)  (https://x.com/tsu_kareta)[x Railgun](https://railgun.org/)  - zero-knowledge that really works and protects billions of funds. Champion of Ethereum privacy.\n• [Parsley](https://x.com/Parsley3D) [x FAT Solutions](https://fatsolutions.xyz/)- long-lasting FOSS & privacy advocates collaborating with Privacy Pools, Starknet & others.\n• [Yudai Suzuki](https://x.com/9dai_5) [x Fracton Ventures](https://fracton.ventures/) - ecosystem weaver with a lifetime commitment to scaling Ethereum's CROPS values across Asia and beyond.\n• [Koss](https://x.com/kosmostasis)[x Swarm](https://www.ethswarm.org/)/Ayllu - long-lasting digital rights activist, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation.\n• [Kelly Joo](https://x.com/yjkellyjoo) [x Swarm](https://www.ethswarm.org/) - seasoned swiss-knife devrel at the service of Ethereum privacy.\n• [Toshi Matsumoto](https://x.com/toshiboy86) [x INTMAX](https://intmax.io/)/[zERC20](https://zerc20.io/) - making privacy on Ethereum not only cryptographically secure, but usable, interoperable, and ready for real-world adoption.\n\n## Half-day dedicated to fostering solidarity and understanding among\n\n• open source and human rights advocates\n• public goods developers and hacker culture\n• internet freedom defenders and grassroots movements\n• hacktivists and the general public\n\n## DISCLAIMER: the event is first come, first served.\n\n> [Privacy Summit I, Prague, 2023 - Ameen Soleimani](https://x.com/ameensol)\n\nABOUT US\n\n[Web3Privacy Now](https://web3privacy.info/)is a think-and-do-tank of hundreds of people, projects, and organizations committed to protecting and advancing civil liberties, decentralization, and open-source software.\n\nWe facilitate cross-stack and cross-community collaboration to drive meaningful impact. We challenge standardization and maximalism, avoid abstractions and stereotypes.\n\nWe work on the forefront of technology with a poly-disciplinary approach, togetherness, and care, assiting each other in clarifying paths toward effective progress.\n\nWebsite: https://web3privacy.info/\nLatest news: http://twitter.com/web3privacy\n\nOUR MISSION\n\nWe aim to manifest profound social change by advocating Privacy and civil liberties in the Web3 Era.\n\nWe envision a world where privacy is a conscious, actively chosen lifestyle, accessible to everyone, everywhere.\n\nWith unified efforts, we are carving out a path toward a more equitable, decentralized, and freedom-respecting digital commons.\n\nWeb3Privacy Now 2026 events\n\nEthereum Cypherpunk Congress #3\n\ndate: 2 Nov\nplace: Mumbai (next to Devcon)\nspecs: 5000 people, 100 speakers, many tier1 non-web3 (aiming for Signal, Brave, Tor, EFF etc)\nweb: https://congress.web3privacy.info\n\nNeo-cypherpunk summit in Berlin - building new activist culture\ndate: 14 June\nplace: Berlin (part of Berlin Blockchain Week)\nspecs: 2000 people, 80 speakers, many tier1 non-web3, great location (Funkhaus)\nweb: https://web3privacy.github.io/s26ber/\n\nCypherpunk Retreat - focused on 1 domain x collab with Protocol Labs\ndate: September\nplace: TBD (highly: Europe)\nspecs: ±50 Tier1 builders (both web3 + web2)\nweb: http://cypherpunk.camp\n\nPrivacy-focused meetups\n\n- Prague: https://luma.com/98pzi0jh\n- Rome: https://luma.com/q1sdbqf3\n- Tokyo: https://luma.com/ispxo30p\n- Amsterdam: https://luma.com/sixp297m\n\nContribute\n\nVolunteer: https://tally.so/r/3lLqKo\nSpeak: https://tally.so/r/nrOzXl\n[Partner: pg ‘at’ web3privacy.info](https://web3privacy.info)\n\nSocials\n\ncommunity https://t.me/+ZGFx7P_uaLUxZThk\n[web https://web3privacy.info](http://web3privacy.info)\n[git https://github.com/web3privacy](http://github.com/web3privacy)\nyoutube https://www.youtube.com/web3privacynow\nx https://x.com/web3privacy",
-    "startDate": "2026-09-24T06:00:00.000Z",
-    "endDate": "2026-09-24T09:00:00.000Z",
-    "city": "Bunkyo City",
-    "country": "Japan",
-    "location": "enXross DAO, Japan, 〒112-8575 Tokyo, Bunkyo City, Kōraku, 1-chōme−3−６１ ミーツポート 4階",
-    "url": "https://luma.com/ispxo30p",
-    "coverImage": "/events/ethorg-meetupweb3privacy-now-tokyo-meetupseptember-b5c612ed.webp",
-    "source": "ethereum-org",
-    "month": "September 2026",
-    "hosts": [
-      "Mykola x Web3Privacy now",
-      "K is for Koss"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "3",
-    "slug": "mnm1jont",
-    "registrationUrl": "https://luma.com/ispxo30p",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "enXross DAO",
-    "addressLocality": "Bunkyo City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "coordinates": {
-      "latitude": 35.7030355,
-      "longitude": 139.75467899999998
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Web3Privacy Now Events",
-      "url": "https://web3privacy.info/events"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ispxo30p",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ispxo30p",
-      "eventId": "evt-UuEGQ1S3cBcNOX9",
-      "fetchedAt": "2026-09-19T23:49:43.876Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-ethtokyo-2026",
     "name": "ETHTokyo Week 2026",
     "description": "ETHTokyo Week 2026: city-wide Ethereum week in Tokyo from September 19–27, with community events, workshops, meetups, and hackathons.",
@@ -20389,7 +20333,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21593,10 +21537,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -24525,7 +24466,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802785-79c48422.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28434,10 +28375,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -28816,5 +28754,74 @@
     "coverImage": "/events/luma-evt-oo9kmug5bax6cmu-548c8049.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-QOaGqpvZzF1Vltn",
+    "name": "Founder Forward's 10th Anniversary Kickoff Celebration",
+    "description": "",
+    "startDate": "2026-10-26T22:00:00.000Z",
+    "endDate": "2026-10-27T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/hv6u8p7o",
+    "coverImage": "/events/luma-evt-qoagqpvzzf1vltn-aa32de9a.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-JXzfkwS2fWUDCBG",
+    "name": "Buildathon: Las Rozas x NocodeHackers",
+    "description": "",
+    "startDate": "2026-10-28T16:00:00.000Z",
+    "endDate": "2026-10-28T19:00:00.000Z",
+    "city": "Las Rozas de Madrid",
+    "country": "Spain",
+    "location": "Las Rozas de Madrid, Spain",
+    "url": "https://lu.ma/4ihrutqx",
+    "coverImage": "/events/luma-evt-jxzfkws2fwudcbg-357b0521.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-ZaYcNRc6ZdzOUbG",
+    "name": "Riserva Madrid | Stablecoins over wine at MERGE Madrid",
+    "description": "",
+    "startDate": "2026-10-28T17:30:00.000Z",
+    "endDate": "2026-10-28T19:30:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/hhu8bhta",
+    "coverImage": "/events/luma-evt-zaycnrc6zdzoubg-46ec4186.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-softstack-tum-blockchain-dinner-9-1792786088843",
+    "name": "Softstack TUM Blockchain Dinner",
+    "description": "Softstack Dinner: an invite-only dinner for digital asset leaders and teams working across blockchain security and infrastructure.",
+    "startDate": "2026-10-30T16:30:00.000Z",
+    "endDate": "2026-10-30T20:00:00.000Z",
+    "city": "Munich",
+    "country": "DE",
+    "location": "Munich, DE",
+    "url": "https://luma.com/rgk5ab91",
+    "coverImage": null,
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-317096562",
+    "name": "•\tLinux on IBM Z and LinuxONE Crypto News",
+    "description": "* The presentation covers new IBM z17 and LinuxONE 5 crypto hardware and its exploitation by Linux. In particular, the presentation covers new CPACF instructions and their exploitation by the Linux ke",
+    "startDate": "2026-11-11T18:00:00-06:00",
+    "endDate": "2026-11-11T18:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/kansas-city-open-source-meetup/events/317096562/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
