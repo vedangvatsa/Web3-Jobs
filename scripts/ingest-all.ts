@@ -3,6 +3,7 @@ import path from 'path';
 import https from 'https';
 import { execSync, execFileSync } from 'child_process';
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
+import { cleanJobLocation } from '../src/lib/job-location';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import { getAshbySalary } from './lib/ashby-salary';
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
@@ -246,7 +247,14 @@ async function ingestBambooHR(company: string, slug: string, cacheData: any[]): 
         id: `bamboo-${slug}-${j.id}`, title: j.jobOpeningName, company: cleanCompanyName(company),
         link: `https://${slug}.bamboohr.com/careers/${j.id}`, date: '', dateVerified: false,
         source: `BambooHR: ${company} [${slug}]`,
-        location: [j.atsLocation?.city, j.atsLocation?.country].filter(Boolean).join(', ') || 'Remote',
+        location: (() => {
+          const loc = j.location?.city ? j.location : (j.atsLocation?.city || j.atsLocation?.country ? j.atsLocation : j.location);
+          const city = loc?.city;
+          const state = loc?.state;
+          const country = loc?.country || loc?.addressCountry;
+          const rawLoc = [city, state, country].filter(Boolean).join(', ');
+          return rawLoc ? cleanJobLocation(rawLoc) : 'Remote';
+        })(),
         department: j.departmentLabel || company, active: true, slug: `${roleWord}${shortId}`
       };
       const r = upsertJob(cacheData, job);
@@ -300,7 +308,14 @@ async function ingestFanOutFeeds(label: string, feeds: FeedConfig[], cacheData: 
         items = (data.result || []).map((j: any) => ({
           id: `bamboo-${feed.slug}-${j.id}`, title: j.jobOpeningName, company: feed.company,
           link: `https://${feed.slug}.bamboohr.com/careers/${j.id}`,
-          location: [j.atsLocation?.city, j.atsLocation?.country].filter(Boolean).join(', ') || 'Remote',
+          location: (() => {
+            const loc = j.location?.city ? j.location : (j.atsLocation?.city || j.atsLocation?.country ? j.atsLocation : j.location);
+            const city = loc?.city;
+            const state = loc?.state;
+            const country = loc?.country || loc?.addressCountry;
+            const rawLoc = [city, state, country].filter(Boolean).join(', ');
+            return rawLoc ? cleanJobLocation(rawLoc) : 'Remote';
+          })(),
           type: j.employmentStatusLabel || 'Full-time', department: j.departmentLabel || feed.company,
           source: `bamboohr:${feed.slug}`, rawId: j.id, date: '', dateVerified: false,
         }));

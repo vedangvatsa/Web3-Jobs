@@ -316,14 +316,15 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
     // no words are silently dropped (the old code returned just the canonical
     // name and deleted the remainder).
     const mappings: Array<[RegExp, string]> = [
-      [/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i, 'Key Responsibilities'],
-      [/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i, 'Qualifications & Requirements'],
+      [/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|essential duties|duties|your role|what the role entails)/i, 'Key Responsibilities'],
+      [/^(what we.?re looking for|requirements|qualifications|required qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i, 'Qualifications & Requirements'],
       [/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i, 'Candidate Profile & Mindset'],
-      [/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i, 'Preferred / Nice-to-Have Qualifications'],
+      [/^(bonus points|bonus if you have|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i, 'Preferred / Nice-to-Have Qualifications'],
+      [/^(our benefits|company benefits)/i, 'Company Benefits'],
       [/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks|perks that empower you)/i, 'Perks & Compensation'],
       [/^(you.?ll know you.?re winning|how success is measured|what success looks like|measuring success)/i, 'What Success Looks Like'],
       [/^(why this role matters|why you.?ll love)/i, "Why This Role Matters & What's In It For You"],
-      [/^(the opportunity|opportunity|the mission|mission|(?:r)?ole overview)/i, 'The Opportunity & Scope'],
+      [/^(the opportunity|opportunity|the mission|mission|(?:r)?ole overview|job summary|position summary)/i, 'The Opportunity & Scope'],
       [/^(about the organization|about the foundation)/i, 'About the Organization'],
       [/^(about us|about the company|who we are|company overview)/i, 'About the Company'],
     ];
@@ -959,6 +960,14 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     $(el).replaceWith(t ? `${t}\n` : '\n');
   });
 
+  // Normalize styled bold spans (e.g. BambooHR, Greenhouse inline span styles) to <strong>
+  $('span').each((_, el) => {
+    const style = $(el).attr('style') || '';
+    if (/font-weight:\s*(?:bold|[6-9]00)/i.test(style) && $(el).text().trim()) {
+      $(el).replaceWith(`<strong>${$(el).html() || ''}</strong>`);
+    }
+  });
+
   // Separate adjacent inline elements with a space BEFORE text extraction:
   // ATS markup like <span>locations</span><span>Hong Kong</span> (or
   // "Engineering</h3><p>Engineering") otherwise concatenates to
@@ -1079,6 +1088,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
       // otherwise the removed siblings' text would be lost.
       $el.text(combined);
     }
+    if (/\$\d/.test(text)) return;
     // A single (unmerged) bold phrase only counts as a heading when it stands
     // alone in its parent block. Mid-sentence emphasis ("learn more about
     // the company below") must never split the sentence into heading +
@@ -1088,6 +1098,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     if (!standsAlone) {
       const $parent = $el.parent();
       if ($parent.length > 0) {
+        if (/\$\d/.test($parent.text())) return;
         const $pc = $parent.clone();
         $pc.find('strong,b').remove();
         standsAlone = $pc.text().trim() === '';
@@ -1103,8 +1114,8 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     // Payroll..."). Only complete single-word sections qualify alone.
     const isMultiWord = /\s/.test(text);
     const isStandaloneSection = /^(overview|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|skills|mission|location|department|salary|schedule|team)$/i.test(text);
-    if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',') && (isMultiWord || isStandaloneSection)) {
-      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|physical demands|reports to|salary|employment type|job type|work location|schedule|department|team|requisition|disclaimer|visa sponsorship|work authorization|role|the role|the team|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|who we are|how we work|how we hire|why work with us|position summary|role summary|job summary|about the organization|about the foundation|about the team|about the role|role overview|position overview|about you|what you.?ll do|what you will do|what we.?re looking for|working terms|ai usage)/i.test(text)) {
+    if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',') && !/\$\d/.test(text) && (isMultiWord || isStandaloneSection)) {
+      if (/^(about|overview|why|what|responsibilities|essential|duties|requirements|required|qualifications|benefits|our\s+(?:benefits|perks|values|culture|team|mission|company|story)|perks|compensation|values|culture|profile|who|skills|bonus|location|physical demands|reports to|salary|employment type|job type|work location|schedule|department$|team$|requisition|disclaimer|visa sponsorship|work authorization|role|the role|the team|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|who we are|how we work|how we hire|why work with us|position summary|role summary|job summary|about the organization|about the foundation|about the team|about the role|role overview|position overview|about you|what you.?ll do|what you will do|what we.?re looking for|working terms|ai usage)/i.test(text)) {
         $(el).replaceWith(`\n###HEADING###${text}\n`);
       }
     }
@@ -1193,7 +1204,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
       // Equal-opportunity headers and share/footer headings are boilerplate,
       // never section headings — drop them outright (their body sentences
       // are stripped separately).
-      if (/^(equal opportunity|eeo)\b/i.test(hText)) continue;
+      if (/^(?:equal opportunity|eeo|eeoc)\b/i.test(hText)) continue;
       if (/^(share(\s+on|\s+this)?|follow us|connect with us)\s*:?\s*$/i.test(hText)) continue;
       if (hText && hText.length < 100) {
         rawBlocks.push({ type: 'h3', text: hText });
@@ -1207,7 +1218,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     const mdHeaderMatch = line.match(/^#{2,4}\s+(.*)$/);
     if (mdHeaderMatch) {
       const hText = mdHeaderMatch[1].replace(/[:]+$/, '').trim();
-      if (/^(equal opportunity|eeo)\b/i.test(hText)) continue;
+      if (/^(?:equal opportunity|eeo|eeoc)\b/i.test(hText)) continue;
       if (hText && hText.length < 100) {
         rawBlocks.push({ type: 'h3', text: hText });
         continue;
@@ -1249,12 +1260,22 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     if (/vacancies are published on this (?:website|job board)/i.test(line.trim())) continue;
     if (/information on other sites may be inaccurate or outdated/i.test(line.trim())) continue;
     if (/apply directly through our official careers website/i.test(line.trim())) continue;
-    if (/Candidate Privacy Notice/i.test(line.trim())) continue;
-    if (/^Notice:\s*$/i.test(line.trim())) continue;
-    if (/Due to the (?:large amount|high volume) of (?:the )?applications/i.test(line.trim())) continue;
-    if (/Feel free to send (?:your|you) CV to/i.test(line.trim())) continue;
-    if (/This role is remote and engaged through our [^.]*entity/i.test(line.trim())) continue;
-    if (/Apply now, and our Recruitment team will contact you/i.test(line.trim())) continue;
+    const cleanLine = line.replace(/⇧JOBLINK:[^⇩⁄]*⁄([^⇩]*)⇩/g, '$1').replace(/[⇧⇩]/g, '').trim();
+    if (/Candidate Privacy Notice/i.test(cleanLine)) continue;
+    if (/By submitting (?:your|an?|the)?\s*application.*consent.*(?:personal data|privacy policy)/i.test(cleanLine)) continue;
+    if (/consent to the (?:collection|use|processing|disclosure) of your personal data/i.test(cleanLine)) continue;
+    if (/(?:access|view|read) our privacy policy (?:at|via)/i.test(cleanLine)) continue;
+    if (/visit our (?:careers? page|website) for more (?:exciting )?opportunities/i.test(cleanLine)) continue;
+    if (/join us to grow, innovate, and contribute meaningfully/i.test(cleanLine)) continue;
+    if (/be part of our talented team/i.test(cleanLine)) continue;
+    if (/^We(?:'re| are) proud to be an? (?:Equal Opportunity|inclusive) Employer/i.test(cleanLine)) continue;
+    if (/Difference makes us stronger and better/i.test(cleanLine)) continue;
+    if (/^(?:EEOC?|Equal Opportunity)(?:\s+Employer)?[:]?$/i.test(cleanLine)) continue;
+    if (/^Notice:\s*$/i.test(cleanLine)) continue;
+    if (/Due to the (?:large amount|high volume) of (?:the )?applications/i.test(cleanLine)) continue;
+    if (/Feel free to send (?:your|you) CV to/i.test(cleanLine)) continue;
+    if (/This role is remote and engaged through our [^.]*entity/i.test(cleanLine)) continue;
+    if (/Apply now, and our Recruitment team will contact you/i.test(cleanLine)) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
@@ -1533,7 +1554,9 @@ function renderInlineMd(escaped: string): string {
     .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
     .replace(/\*\*/g, '')
     .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${url}</a>`)
     .replace(/⇧JOBBR⇩/g, '<br>')
+    .replace(/[⇧⇩]/g, '')
     .replace(/\s+([,.:;!?])/g, '$1')
     // Tighten boundary spaces introduced by tag-concat separation:
     // "( Radar )" back to "(Radar)". Runs here (not at extraction) so link
@@ -1565,25 +1588,26 @@ function splitFusedDashItems(text: string): string[] {
  * equal-opportunity boilerplate (the meta-description builder already treats
  * these as junk; the body must too).
  */
+const S_CHAR = '(?:⇧JOBLINK:[^⇩]*⇩|⇧JOBBR⇩|[^.!?])';
+const makeBoilerSentenceRe = (pattern: string) =>
+  new RegExp(`(^|[.!?]\\s*)${S_CHAR}*?\\b(?:${pattern})\\b${S_CHAR}*(?:[.!?]+|\\s*$)`, 'gi');
+
 const BOILER_SENTENCE_RES: RegExp[] = [
-  /[^.!?]*\bpage is loaded\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bby submitting your application to us, you consent\b[^.!?]*[.!?]*/gi,
+  makeBoilerSentenceRe('page is loaded'),
+  makeBoilerSentenceRe('by submitting (?:your|an?|the)?\\s*application(?: to us)?,?\\s*(?:you )?consent'),
   /\bby submitting a job application,\s*you confirm that you have read and agree to our\s*\.\s*$/gi,
-  /[^.!?]*\bplease consider your application as unsuccessful\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bequal opportunity employers?\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\ball qualified applicants\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\baffirmative action\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bwithout regard to\b[^.!?]*(?:race|color|religion|sex|national origin)[^.!?]*[.!?]*/gi,
-  // E-Verify / eligibility boilerplate ("...required to verify identity and
-  // eligibility to work...") and diversity-boilerplate sentences that carry
-  // no role information.
-  /[^.!?]*\bverify identity and eligibility\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bdiverse and inclusive workplace\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bcommitted to creating an inclusive environment\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\binclusive environment for all employees\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bdoes not make [\w\s]*decisions on the basis of\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bdo not discriminate\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bcelebrat\w+ (?:our |the )?(?:diverse|differences)\b[^.!?]*[.!?]*/gi,
+  makeBoilerSentenceRe('please consider your application as unsuccessful'),
+  makeBoilerSentenceRe('equal opportunity employers?'),
+  makeBoilerSentenceRe('all qualified applicants'),
+  makeBoilerSentenceRe('affirmative action'),
+  new RegExp(`(^|[.!?]\\s*)${S_CHAR}*?\\bwithout regard to\\b${S_CHAR}*?(?:race|color|religion|sex|national origin)${S_CHAR}*(?:[.!?]+|\\s*$)`, 'gi'),
+  makeBoilerSentenceRe('verify identity and eligibility'),
+  makeBoilerSentenceRe('diverse and inclusive workplace'),
+  makeBoilerSentenceRe('committed to creating an inclusive environment'),
+  makeBoilerSentenceRe('inclusive environment for all employees'),
+  makeBoilerSentenceRe('does not make [\\w\\s]*decisions on the basis of'),
+  makeBoilerSentenceRe('do not discriminate'),
+  makeBoilerSentenceRe('celebrat\\w+ (?:our |the )?(?:diverse|differences)'),
   /[^.!?]*\bNeed screen reading technology\?[\s\S]*?tutorial\b[^.!?]*[.!?]*/gi,
 ];
 
@@ -1591,7 +1615,7 @@ function stripBoilerplateSentences(line: string): string {
   let out = line;
   for (const re of BOILER_SENTENCE_RES) {
     re.lastIndex = 0;
-    out = out.replace(re, ' ');
+    out = out.replace(re, '$1 ');
   }
   // Standalone recruiter-timeline / signup-promo sentences
   out = out.replace(/Sign up for a \w+ account now:?\s*/gi, ' ');
@@ -1652,7 +1676,9 @@ function formatJobContent(originalHtml: string): string {
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url, label) => {
         return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`;
       })
-      .replace(/⇧JOBBR⇩/g, '<br>');
+      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${url}</a>`)
+      .replace(/⇧JOBBR⇩/g, '<br>')
+      .replace(/[⇧⇩]/g, '');
 
     // Check if block is a markdown heading that slipped into a paragraph
     if (block.type === 'p' && /^#{2,4}\s+/.test(text)) {

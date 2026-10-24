@@ -30,20 +30,30 @@ function formatUnitedStatesLocation(value: string): string {
   const parts = value.split(',').map((part) => part.trim()).filter(Boolean);
   if (parts.length < 2) return value;
   const country = parts[parts.length - 1]!.toLowerCase();
-  if (country !== 'united states' && country !== 'usa' && country !== 'us') return value;
+  if (country === 'united states' || country === 'usa' || country === 'us') {
+    if (parts.length === 2) {
+      const name = parts[0]!.toLowerCase();
+      if (name === 'new york') return 'New York, NY';
+      const state = US_STATE_ABBREV[name];
+      return state ? parts[0]! : value;
+    }
 
-  if (parts.length === 2) {
-    const name = parts[0]!.toLowerCase();
-    if (name === 'new york') return 'New York, NY';
-    const state = US_STATE_ABBREV[name];
-    return state ? parts[0]! : value;
+    const stateName = parts[parts.length - 2]!.toLowerCase();
+    const abbrev = US_STATE_ABBREV[stateName];
+    if (!abbrev) return value;
+    const city = parts.slice(0, -2).join(', ');
+    return `${city}, ${abbrev}`;
   }
 
-  const stateName = parts[parts.length - 2]!.toLowerCase();
-  const abbrev = US_STATE_ABBREV[stateName];
-  if (!abbrev) return value;
-  const city = parts.slice(0, -2).join(', ');
-  return `${city}, ${abbrev}`;
+  if (parts.length === 2) {
+    const stateName = parts[1]!.toLowerCase();
+    const abbrev = US_STATE_ABBREV[stateName];
+    if (abbrev) {
+      return `${parts[0]}, ${abbrev}`;
+    }
+  }
+
+  return value;
 }
 
 const ATS_CODE_MAP: Record<string, string> = {

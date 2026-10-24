@@ -149164,5 +149164,101 @@
     "link": "https://ripple.com/careers/all-jobs/job/8224772?gh_jid=8224772",
     "company": "Ripple",
     "title": "Program Manager"
+  },
+  "an88": {
+    "id": "8230306",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230306",
+    "title": "Renewals Analyst",
+    "company": "Stripe"
+  },
+  "eng314": {
+    "id": "6146909004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6146909004",
+    "title": "Staff Analytics Engineer",
+    "company": "Alpaca"
+  },
+  "sls163": {
+    "id": "5428570008",
+    "link": "http://block.xyz/careers/jobs/5428570008?gh_jid=5428570008",
+    "title": "Territory Account Executive, Detroit",
+    "company": "Block"
+  },
+  "pp2": {
+    "id": "8210967",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8210967?t=gh_src=&gh_jid=8210967",
+    "title": "People Partner",
+    "company": "Robinhood"
+  },
+  "mgr76": {
+    "id": "8207369",
+    "link": "https://job-boards.greenhouse.io/consensys/jobs/8207369",
+    "title": "Risk & Controls Manager",
+    "company": "Consensys"
+  },
+  "eng311": {
+    "id": "6207222004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207222004",
+    "title": "Senior Software Engineer - Clearing",
+    "company": "Alpaca"
+  },
+  "sls160": {
+    "id": "6207454004",
+    "link": "https://job-boards.greenhouse.io/localcoin/jobs/6207454004",
+    "title": "Corporate Accountant",
+    "company": "Localcoin"
+  },
+  "bile": {
+    "id": "2758311",
+    "link": "https://careers.tether.io/o/blockchain-investigator-and-law-enforcement-liaison-nz",
+    "title": "Blockchain Investigator and Law Enforcement Liaison - NZ",
+    "company": "Tether"
+  },
+  "pm106": {
+    "id": "8196288",
+    "link": "https://stripe.com/jobs/search?gh_jid=8196288",
+    "title": "Account Executive, Product - Tax",
+    "company": "Stripe"
+  },
+  "eng310": {
+    "id": "8004213003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8004213003",
+    "title": "Senior/Staff Software Engineer, Trading Services",
+    "company": "OKX"
+  },
+  "mkt50": {
+    "id": "1f2c9f0f-f820-47f1-8263-86e99d135a41",
+    "link": "https://jobs.lever.co/coins/1f2c9f0f-f820-47f1-8263-86e99d135a41",
+    "title": "Brand Marketing Manager",
+    "company": "Coins.ph"
+  },
+  "sec37": {
+    "id": "8202146",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8202146?t=gh_src=&gh_jid=8202146",
+    "title": "Internal Audit Senior Associate",
+    "company": "Robinhood"
+  },
+  "an50": {
+    "id": "4984120101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4984120101",
+    "title": "Financial Crime Intelligence Analyst - Fiat",
+    "company": "BVNK"
+  },
+  "an49": {
+    "id": "4986330101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4986330101",
+    "title": "Financial Crime Intelligence Analyst - Crypto",
+    "company": "BVNK"
+  },
+  "sls159": {
+    "id": "7d116372-5f33-49cb-aa56-04ffc55e9cc0",
+    "link": "https://jobs.ashbyhq.com/Elliptic/7d116372-5f33-49cb-aa56-04ffc55e9cc0",
+    "title": "Inside Sales Representative - EMEA",
+    "company": "Elliptic"
+  },
+  "sls158": {
+    "id": "4986335101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4986335101",
+    "title": "Crypto OTC Sales Manager",
+    "company": "StraitsX"
   }
 }

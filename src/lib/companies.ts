@@ -405,7 +405,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'uphold': 'https://uphold.com',
  'daylight': 'https://daylight.xyz',
  'coinme': 'https://coinme.com',
- 'telcoin': 'https://telcoin.com',
+ 'telcoin': 'https://www.telco.in',
  'anza': 'https://anza.xyz',
  'doublezero': 'https://doublezero.xyz',
  'syndica': 'https://syndica.io',
