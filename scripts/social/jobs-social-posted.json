@@ -50587,7 +50587,8 @@
       },
       "account": "profile",
       "attemptId": "1d3def29-6353-4d0f-8b5c-ae745eb652fa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xce7a103975cc2fe21e9d9044eb20e5b902d25431"
     }
   ]
 }
