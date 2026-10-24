@@ -79653,23 +79653,23 @@
       "id": "e7e9c8fd5087c1fb06f6",
       "status": "deferred",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-25T09:14:23.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "source-blocked",
-      "note": "Only readable source is a Crypto Briefing AI prediction-market page stating the bill is 'reportedly nearing completion' with a postponed 22 percent tax debate, without primary National Assembly or government citations. No independent Korean or newswire corroboration opened in this pass.",
+      "note": "Re-read the Crypto Briefing Oct 22 page on 2026-10-24: it is a prediction-market analysis page stating the Digital Asset Basic Act is 'reportedly nearing completion' and the 22 percent tax proposal was postponed, with no National Assembly, ministry or newswire citation. Still no primary Korean legislative record or independent corroboration opened.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/south-koreas-crypto-bill-nears-completion-amid-tax-debate-intensification/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-23T09:05:38.986Z",
+      "reviewedAt": "2026-10-24T19:46:09.556Z",
       "retrySearches": [
-        "Find Korean government or National Assembly reporting on Digital Asset Basic Act passage status and crypto tax bill as of late October 2026, with concrete vote or committee dates"
+        "Find primary or independent reporting on South Korea's Digital Asset Basic Act passage status in the National Assembly late October 2026: committee or plenary vote dates from National Assembly records, Yonhap, Korea Herald or CoinDesk Korea"
       ],
-      "lastReviewedDay": "2026-10-23",
-      "nextReviewDate": "2026-10-24"
+      "lastReviewedDay": "2026-10-24",
+      "nextReviewDate": "2026-10-25"
     },
     "6f1a71e46d045c376361": {
       "source": "The Block",
@@ -150610,6 +150610,21 @@
           ],
           "reviewedAt": "2026-10-24T19:45:51.843Z",
           "duplicateOf": "zodia"
+        },
+        "e7e9c8fd5087c1fb06f6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Re-read the Crypto Briefing Oct 22 page on 2026-10-24: it is a prediction-market analysis page stating the Digital Asset Basic Act is 'reportedly nearing completion' and the 22 percent tax proposal was postponed, with no National Assembly, ministry or newswire citation. Still no primary Korean legislative record or independent corroboration opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/south-koreas-crypto-bill-nears-completion-amid-tax-debate-intensification/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:46:09.556Z",
+          "retrySearches": [
+            "Find primary or independent reporting on South Korea's Digital Asset Basic Act passage status in the National Assembly late October 2026: committee or plenary vote dates from National Assembly records, Yonhap, Korea Herald or CoinDesk Korea"
+          ]
         }
       },
       "baselineSlugs": [
