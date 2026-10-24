@@ -2185,5 +2185,36 @@
     "slotKey": "2026-10-24:afternoon",
     "messageId": 65773,
     "sentAt": "2026-10-24T16:58:20.971Z"
+  },
+  "dbed98d1-92a3-4898-8ed1-246cc5fc83f6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T19:33:32.710Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Malaysia launches SSDS+ platform for tokenized bonds and sukuk",
+        "summary": "The central bank's distributed ledger integrates with RENTAS+ to enable 24/7 settlement of tokenized securities.",
+        "link": "https://hashtagweb3.com/malayssds?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bank Negara Malaysia launches SSDS+ platform for tokenized bonds and sukuk"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum staking reaches 43.8 million ETH with lower yields",
+        "summary": "Staked Ethereum supply grew to 35.9% as yields dropped to 2.63% and Solana staking increased.",
+        "link": "https://hashtagweb3.com/stakingrecord?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum staking hits record 43.8 million ETH as gross yield falls to 2.63%"
+      },
+      {
+        "index": -1,
+        "headline": "France approves crypto-to-stablecoin tax amendment",
+        "summary": "The National Assembly passed the tax measure by one vote and scheduled the final budget vote for November 3.",
+        "link": "https://hashtagweb3.com/francevote?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "France sets Nov. 3 budget vote after one-vote stablecoin tax win"
+      }
+    ],
+    "slotKey": "2026-10-24:evening"
   }
 }
