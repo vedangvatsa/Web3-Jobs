@@ -81533,14 +81533,14 @@
         "id": "1e4b30ebcf2d5f2728a4",
         "day": "2026-10-24",
         "articleSlug": "winklevosspac",
-        "note": "2026-10-24: read Cointelegraph Oct 22 report (Digital Freedom Fund Oct 20 FEC filing, 1K+ direct mail supporting Paxton and opposing Talarico, 4M raised as of Sept 30, M Husted total). Still need to open the FEC filing itself as primary source plus a second independent outlet; draft outstanding.",
+        "note": "2026-10-24: read Cointelegraph Oct 22 report (Digital Freedom Fund Oct 20 FEC filing, more than 81k USD in direct mail supporting Paxton and opposing Talarico, about 34m USD raised as of Sept 30, about 7m USD total for Husted). Still need to open the FEC filing itself as primary source plus a second independent outlet; draft outstanding.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-24T19:38:18.405Z",
+        "updatedAt": "2026-10-24T19:39:20.009Z",
         "approved": false,
         "mustReview": true
       }
@@ -81665,7 +81665,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T18:07:42.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "utexomint",
+      "draftProgress": {
+        "id": "b65e3f9f1ac4abf8d95e",
+        "day": "2026-10-24",
+        "articleSlug": "utexomint",
+        "note": "2026-10-24: The Defiant story URL returned HTTP 403 Cloudflare challenge. A same-day Bitcoin Magazine piece on Utexo Mint early access ahead of the Nov 28 launch appeared in its related links and still needs to be opened, plus the official Utexo announcement; draft outstanding.",
+        "sourceChecks": [
+          {
+            "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-24T19:38:20.637Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "688ff0ef5f6bad95bf37": {
       "source": "Unchained",
