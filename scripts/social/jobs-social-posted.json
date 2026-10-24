@@ -50260,7 +50260,8 @@
       },
       "account": "channel:design",
       "attemptId": "d96c240c-7ccd-4480-9bc0-b028d047c018",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x114433fae7ec6cbcbcec5ca6675884cc74add575"
     }
   ]
 }
