@@ -50080,7 +50080,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "eb883cf5-e3ff-4064-8125-b12c0f1b7367",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdc5a2e81285c3d06096a6a87b23ad7135ae5cd35"
     }
   ]
 }
