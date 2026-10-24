@@ -50381,7 +50381,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "6a27377e-1f74-4eb4-8b02-1dff0cffd29a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6add0863e4be8a4d8675487f"
     }
   ]
 }
