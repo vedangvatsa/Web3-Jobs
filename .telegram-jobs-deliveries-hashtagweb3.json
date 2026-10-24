@@ -3982,7 +3982,7 @@
     "sentAt": "2026-10-23T19:32:21.250Z"
   },
   "cf0777e1-9b2c-4201-897e-b0e3bcd8979c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T16:57:38.702Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4104,6 +4104,8 @@
       }
     ],
     "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/dev32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Experience Engineer - Managed K8s</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls263?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Account Executive | Enterprise</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Design Specialist</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments Platform</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Product Analytics</a>",
-    "slotKey": "2026-10-24:afternoon"
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 155908,
+    "sentAt": "2026-10-24T16:57:42.665Z"
   }
 }
