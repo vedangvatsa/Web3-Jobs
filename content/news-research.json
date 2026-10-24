@@ -81921,13 +81921,9 @@
           {
             "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
             "outcome": "read"
-          },
-          {
-            "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-10-24T20:04:31.184Z",
+        "updatedAt": "2026-10-24T20:05:04.002Z",
         "approved": false,
         "mustReview": true
       }
