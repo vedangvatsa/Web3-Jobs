@@ -2152,5 +2152,36 @@
     "slotKey": "2026-10-24:afternoon",
     "messageId": 155909,
     "sentAt": "2026-10-24T16:58:52.391Z"
+  },
+  "febd64ff-6f94-4a60-ac18-ec34cd5f0fd9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T19:34:11.616Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum staking reaches 43.8 million ETH as yields drop",
+        "summary": "Bitwise reports 35.9% of supply is staked and Solana active stake grew to 440.5 million SOL.",
+        "link": "https://hashtagweb3.com/stakingrecord?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum staking hits record 43.8 million ETH as gross yield falls to 2.63%"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR votes to reduce annual token issuance to 1.6%",
+        "summary": "The proposal lowers maximum issuance from 2.5% over two years and keeps the 90/10 staker-treasury split.",
+        "link": "https://hashtagweb3.com/nearissuance?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR opens House of Stake vote to cut annual token issuance to 1.6%"
+      },
+      {
+        "index": -1,
+        "headline": "Nectar Group raises $5 million for Bitcoin yield platform HoneyB",
+        "summary": "Institutions can borrow against Bitcoin for Treasury and credit strategies without using wrapped assets.",
+        "link": "https://hashtagweb3.com/honeyb?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nectar Group raises $5M seed to build HoneyB, a Bitcoin yield platform for institutions"
+      }
+    ],
+    "slotKey": "2026-10-24:evening"
   }
 }
