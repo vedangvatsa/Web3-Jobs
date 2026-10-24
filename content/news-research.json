@@ -73159,23 +73159,27 @@
       "id": "adc4fc8b62a62b83a76f",
       "status": "deferred",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-24T19:48:15.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
       "reason": "source-blocked",
-      "note": "The Defiant article body returned HTTP 403 Cloudflare challenge via WebFetch and curl with the readiness User-Agent. Secondary outlets (ChainCatcher, Binance Square relay) only restate The Defiant headline and deck; the JPMorgan JPM Coin page confirms only the warning that same-name tokens at other addresses are unaffiliated, not the count of 13 lookalikes. Need an independent readable report on the Ethereum JPMD launch and counterfeit tokens.",
+      "note": "Retried The Defiant Oct 21 story on 2026-10-24 via WebFetch and via curl with the readiness User-Agent; both return a Cloudflare 403 block page. Gate News and ChainCatcher only relay The Defiant's own count of 13 lookalike tokens, so the count still has no independent corroboration; crypto.news Oct 23 reports the separate fact of zero supply and zero transfers in the bank's contract, and the J.P. Morgan Oct 19 newsroom page confirms only the JPMD Ethereum launch.",
       "sourceChecks": [
+        {
+          "url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-23T09:05:38.985Z",
+      "reviewedAt": "2026-10-24T19:46:26.591Z",
       "retrySearches": [
-        "Find independent reporting besides The Defiant on JPMorgan JPMD Ethereum launch Oct 19 2026 and counterfeit lookalike tokens, preferably Bloomberg CoinDesk or bank statements"
+        "Find independent reporting on counterfeit JPMD lookalike tokens on Ethereum after the Oct 19 2026 JPMorgan launch, from on-chain analytics firms, CoinDesk, The Block or crypto.news rather than The Defiant relays"
       ],
-      "lastReviewedDay": "2026-10-23",
-      "nextReviewDate": "2026-10-24"
+      "lastReviewedDay": "2026-10-24",
+      "nextReviewDate": "2026-10-25"
     },
     "65d72de1761a9560efb8": {
       "source": "Cointelegraph",
@@ -150624,6 +150628,25 @@
           "reviewedAt": "2026-10-24T19:46:09.556Z",
           "retrySearches": [
             "Find primary or independent reporting on South Korea's Digital Asset Basic Act passage status in the National Assembly late October 2026: committee or plenary vote dates from National Assembly records, Yonhap, Korea Herald or CoinDesk Korea"
+          ]
+        },
+        "adc4fc8b62a62b83a76f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried The Defiant Oct 21 story on 2026-10-24 via WebFetch and via curl with the readiness User-Agent; both return a Cloudflare 403 block page. Gate News and ChainCatcher only relay The Defiant's own count of 13 lookalike tokens, so the count still has no independent corroboration; crypto.news Oct 23 reports the separate fact of zero supply and zero transfers in the bank's contract, and the J.P. Morgan Oct 19 newsroom page confirms only the JPMD Ethereum launch.",
+          "sourceChecks": [
+            {
+              "url": "https://www.jpmorgan.com/payments/newsroom/jpm-coin-live-on-ethereum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:46:26.591Z",
+          "retrySearches": [
+            "Find independent reporting on counterfeit JPMD lookalike tokens on Ethereum after the Oct 19 2026 JPMorgan launch, from on-chain analytics firms, CoinDesk, The Block or crypto.news rather than The Defiant relays"
           ]
         }
       },
