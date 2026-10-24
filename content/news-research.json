@@ -81942,9 +81942,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "976dab59e8ef33180f3d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T13:20:57.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "thailandapplicants",
@@ -81966,7 +81966,29 @@
         "updatedAt": "2026-10-24T20:18:24.291Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph Oct 22 and Crypto Briefing Oct 22 in this round, opened CoinDesk Oct 9 rules report and the SEC Thailand release mirror (No. 216/2026, 8 Oct 2026, 11 notifications effective 16 Oct, hearings Apr-May and Aug-Sep 2026). Draft content/articles/thailandapplicants.md is 673 words with three external sites; hero public/images/news/thailandapplicants.jpg (Thai SEC secretary-general Rapee Sucharitakul, Richter Frank-Jurgen, CC BY-SA 2.0) compressed to 105KB. Quality, formatting, image and duplicate audits pass for this file; all inline links return 200 to plain curl. Distinct from existing thailand-etfs.md (Oct 12 rules story) because this reports the Oct 22 statement that zero applications exist.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/thailand-sec-crypto-etf-interest-no-applications/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.pubt.io/view/97F806AE0C70A0D5C3DE243398D3DEB111DAFCD2",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:32:26.378Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "15fff88038aca5057cfc": {
       "source": "Bankless",
@@ -150979,6 +151001,31 @@
           ],
           "reviewedAt": "2026-10-24T20:27:45.734Z",
           "articleSlug": "winklevosspac"
+        },
+        "976dab59e8ef33180f3d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph Oct 22 and Crypto Briefing Oct 22 in this round, opened CoinDesk Oct 9 rules report and the SEC Thailand release mirror (No. 216/2026, 8 Oct 2026, 11 notifications effective 16 Oct, hearings Apr-May and Aug-Sep 2026). Draft content/articles/thailandapplicants.md is 673 words with three external sites; hero public/images/news/thailandapplicants.jpg (Thai SEC secretary-general Rapee Sucharitakul, Richter Frank-Jurgen, CC BY-SA 2.0) compressed to 105KB. Quality, formatting, image and duplicate audits pass for this file; all inline links return 200 to plain curl. Distinct from existing thailand-etfs.md (Oct 12 rules story) because this reports the Oct 22 statement that zero applications exist.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/thailand-sec-crypto-etf-interest-no-applications/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.pubt.io/view/97F806AE0C70A0D5C3DE243398D3DEB111DAFCD2",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:32:26.378Z",
+          "articleSlug": "thailandapplicants"
         }
       },
       "baselineSlugs": [
