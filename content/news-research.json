@@ -81714,9 +81714,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "b65e3f9f1ac4abf8d95e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T18:07:42.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "utexomint",
@@ -81742,7 +81742,29 @@
         "updatedAt": "2026-10-24T19:51:22.325Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the primary Utexo blog post and ChainCatcher report this round and additionally opened Bitcoin Magazine's Oct 22 piece; The Defiant link retested at HTTP 403. Verified Nov 28 public launch, Signet sandbox with RGB mint/confidential transfer/redeem, Q1 2027 Lightning phase, non-Tether ownership with USDT0 backing, and the Crystal Intelligence AML quote. Draft passes quality, formatting, image and duplicate audits.",
+      "sourceChecks": [
+        {
+          "url": "https://www.utexo.com/blog/utexo-opens-early-access-to-usdmnt-on-bitcoin-through-utexo-mint",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.chaincatcher.com/article/2298304",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:03:48.202Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "688ff0ef5f6bad95bf37": {
       "source": "Unchained",
@@ -81814,11 +81836,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "2518520c4e562e26b27f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T16:26:52.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "reason": "duplicate",
+      "note": "Bitcoin Magazine Oct 22 piece covers the same Utexo Mint early-access announcement (Signet sandbox, Nov 28 public launch, RGB flows, Q1 2027 Lightning phase, USDT0 backing, Crystal Intelligence AML) as the Utexo blog post and ChainCatcher report verified for candidate b65e3f9f1ac4abf8d95e; drafted once under slug utexomint.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T20:03:48.202Z",
+      "duplicateOf": "utexomint",
+      "mergedInto": "b65e3f9f1ac4abf8d95e",
+      "lastReviewedDay": "2026-10-24"
     },
     "ead3f93159fa6bf7f656": {
       "source": "The Defiant",
@@ -150776,6 +150810,45 @@
           ],
           "reviewedAt": "2026-10-24T20:00:19.303Z",
           "articleSlug": "starknetresearch"
+        },
+        "b65e3f9f1ac4abf8d95e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the primary Utexo blog post and ChainCatcher report this round and additionally opened Bitcoin Magazine's Oct 22 piece; The Defiant link retested at HTTP 403. Verified Nov 28 public launch, Signet sandbox with RGB mint/confidential transfer/redeem, Q1 2027 Lightning phase, non-Tether ownership with USDT0 backing, and the Crystal Intelligence AML quote. Draft passes quality, formatting, image and duplicate audits.",
+          "sourceChecks": [
+            {
+              "url": "https://www.utexo.com/blog/utexo-opens-early-access-to-usdmnt-on-bitcoin-through-utexo-mint",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chaincatcher.com/article/2298304",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:03:48.202Z",
+          "articleSlug": "utexomint"
+        },
+        "2518520c4e562e26b27f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bitcoin Magazine Oct 22 piece covers the same Utexo Mint early-access announcement (Signet sandbox, Nov 28 public launch, RGB flows, Q1 2027 Lightning phase, USDT0 backing, Crystal Intelligence AML) as the Utexo blog post and ChainCatcher report verified for candidate b65e3f9f1ac4abf8d95e; drafted once under slug utexomint.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T20:03:48.202Z",
+          "duplicateOf": "utexomint",
+          "mergedInto": "b65e3f9f1ac4abf8d95e"
         }
       },
       "baselineSlugs": [
