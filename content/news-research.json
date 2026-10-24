@@ -75228,11 +75228,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "7aa1f226931b61ada9d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T13:06:39.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "bff6fff64dd0f3c49035": {
       "source": "Decrypt",
@@ -75301,11 +75307,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a1f48a8351737831c54",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T11:23:00.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "dfe873cd695e05bdefba": {
       "source": "CoinDesk",
@@ -77648,11 +77660,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "52c80478c29bca8ad11a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T13:46:22.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "7f382d2a31d03870af73": {
       "source": "The Defiant",
@@ -77749,17 +77767,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a71b76bb79b8ec06ca8e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:13:07.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
       "duplicateOf": "zodia",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "5bcd28dec5ba9a26fdd9": {
       "source": "CoinDesk",
@@ -77836,11 +77855,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f9a6912beade16068bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:08:50.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "a5ed28ed9db5dc4c73f0": {
       "source": "The Defiant",
@@ -77857,11 +77882,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a5ed28ed9db5dc4c73f0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:08:20.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "33a328eb54f544deffa7": {
       "source": "Cointelegraph",
@@ -77913,11 +77944,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "39df26d5c4457ca6f06a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:06:07.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "08e58a7df1a8b73120d9": {
       "source": "The Defiant",
@@ -77934,11 +77971,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "08e58a7df1a8b73120d9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T12:03:47.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "28378a43bbaa91257d94": {
       "source": "CoinDesk",
@@ -77983,17 +78026,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "39f796a596642ba463d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T12:00:00.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "same Labs launch including Such App; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same Labs launch including Such App; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
       "duplicateOf": "dogecoinlabs",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "73d8f07f8eaa46f81ee8": {
       "source": "Decrypt",
@@ -78076,11 +78120,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "5d749ed9de23fbc8afa4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:46:00.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "f84fafb9a4d8b5809eed": {
       "source": "Decrypt",
@@ -78097,11 +78147,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "f84fafb9a4d8b5809eed",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:29:41.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "fe8b65784bd1a0828f4c": {
       "source": "Cointelegraph",
@@ -78174,11 +78230,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a8ebfa037a1049aee5ce",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T10:13:52.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "1b4a556b0a18686868a7": {
       "source": "The Defiant",
@@ -78252,11 +78314,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "26b1b89feacf1590530f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T09:28:54.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "2f107f788c3c9a8181be": {
       "source": "The Defiant",
@@ -78273,11 +78341,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f107f788c3c9a8181be",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T09:09:53.000Z",
-      "lastSeenAt": "2026-10-22T08:50:50.105Z"
+      "lastSeenAt": "2026-10-22T08:50:50.105Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "39039581e8b719b7b383": {
       "source": "CoinDesk",
@@ -80587,11 +80661,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "e061b4934d44cbf1ca50",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T14:36:34.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "781a69326da00b580847": {
       "source": "Chainwire",
@@ -80608,11 +80688,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "781a69326da00b580847",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T13:53:42.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "85ac9345e3f66050cf50": {
       "source": "Chainwire",
@@ -80629,11 +80715,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "85ac9345e3f66050cf50",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T11:43:55.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T14:47:06.710Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "a579917b8d8bf6084021": {
       "source": "The Defiant",
@@ -150054,6 +150146,142 @@
             }
           ],
           "reviewedAt": "2026-10-24T08:27:24.511Z"
+        },
+        "7aa1f226931b61ada9d6": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "8a1f48a8351737831c54": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "52c80478c29bca8ad11a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "a71b76bb79b8ec06ca8e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same Standard Chartered-Zodia definitive agreements; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "1f9a6912beade16068bf": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "a5ed28ed9db5dc4c73f0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "39df26d5c4457ca6f06a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "08e58a7df1a8b73120d9": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "39f796a596642ba463d6": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same Labs launch including Such App; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "5d749ed9de23fbc8afa4": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "f84fafb9a4d8b5809eed": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "a8ebfa037a1049aee5ce": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "26b1b89feacf1590530f": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "2f107f788c3c9a8181be": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "e061b4934d44cbf1ca50": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "781a69326da00b580847": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
+        },
+        "85ac9345e3f66050cf50": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T14:47:06.710Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -150432,8 +150660,7 @@
         ],
         "total": 140,
         "checkedAt": "2026-10-24T08:24:01.469Z"
-      },
-      "validationErrors": []
+      }
     }
   }
 }
