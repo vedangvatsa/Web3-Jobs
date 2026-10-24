@@ -216,7 +216,6 @@ jobs:
     with:
       slot: ${{ needs.gate.outputs.slot }}
       date: ${{ needs.gate.outputs.date }}
-      force: ${{ inputs.force_social == true }}
     secrets: inherit
 
   post-videos:
@@ -517,7 +516,6 @@ jobs:
     env:
       TELEGRAM_PUBLISH_SLOT: ${{ needs.gate.outputs.slot }}
       TELEGRAM_PUBLISH_DATE: ${{ needs.gate.outputs.date }}
-      FORCE_SOCIAL: ${{ github.event.inputs.force_social || '' }}
 
     steps:
       - name: Checkout code
@@ -542,6 +540,8 @@ jobs:
 
       - name: Check posting window and load published catalogs
         id: ready
+        env:
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: node scripts/social/prepare-telegram-slot.mjs '${{ matrix.kind }}'
 
       - name: Post to Telegram (Jobs → @web3hiring + @jobsweb3)
@@ -550,6 +550,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: npx tsx scripts/telegram-post.mjs
 
       - name: Post to Telegram (Jobs → hashtagweb3 group)
@@ -558,6 +559,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
           TELEGRAM_THREAD_ID: '1457'
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: npx tsx scripts/telegram-post.mjs
 
       - name: Post to Telegram (Events → hashtagweb3 group + @eventsweb3)
@@ -567,6 +569,7 @@ jobs:
           TELEGRAM_EVENTS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
           TELEGRAM_EVENTS_MIRROR_CHANNEL_ID: '@eventsweb3'
           TELEGRAM_THREAD_ID: '1454'
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: npx tsx scripts/telegram-events.ts
 
       - name: Post to Telegram (News)
@@ -576,6 +579,7 @@ jobs:
           TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: node scripts/telegram-news.mjs
 
       - name: Post to Telegram (News → hashtagweb3 group)
@@ -586,6 +590,7 @@ jobs:
           TELEGRAM_THREAD_ID: '4016'
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: node scripts/telegram-news.mjs
 
       - name: Post to Telegram (AI News)
@@ -595,6 +600,7 @@ jobs:
           TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+          FORCE_SOCIAL: ${{ github.event.inputs.force_social }}
         run: node scripts/telegram-ai-news.mjs
 
       - name: Preserve Telegram receipts
