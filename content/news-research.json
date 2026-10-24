@@ -81951,7 +81951,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T12:27:36.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "pumpbridge",
+      "draftProgress": {
+        "id": "15fff88038aca5057cfc",
+        "day": "2026-10-24",
+        "articleSlug": "pumpbridge",
+        "note": "2026-10-24 round 3: opened Bankless Oct 22 report; Pump.fun made its in-house Pump Bridge the default crosschain route replacing Relay, citing a randomized in-app test Sept 28-Oct 7 across Robinhood Chain/BSC/Base/Arc/Ink (1.95s vs 3.88s typical buy, 0.9% vs 11.2% buy errors, median 3.0% vs 3.6% spot gap, 383,326 timed trades, ~53% Robinhood Chain/~39% BSC), no extra bridging fee, cofounder alon X article vs Fomo which still uses Relay, and Relay/Fomo had not responded by Wednesday evening. Search located additional same-event coverage not yet opened: TokenPost, crypto.news, Crypto Briefing, SolanaFloor, crypto-economy. All figures are Pump.fun's own test data and must stay attributed. Next step: open one second site (TokenPost or crypto.news), then draft; slug pumpbridge free.",
+        "sourceChecks": [
+          {
+            "url": "https://www.bankless.com/read/news/pump-fun-ditches-relay-for-in-house-pump-bridge",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-24T20:04:34.573Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "163b498343144aa7f2e1": {
       "source": "The Defiant",
