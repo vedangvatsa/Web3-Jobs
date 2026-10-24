@@ -148113,7 +148113,7 @@
     "2026-10-24": {
       "day": "2026-10-24",
       "startedAt": "2026-10-24T08:24:01.469Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "8072d41745bf6f29208f",
         "0c5fe6c3db8baf83e7c1",
@@ -150432,7 +150432,8 @@
         ],
         "total": 140,
         "checkedAt": "2026-10-24T08:24:01.469Z"
-      }
+      },
+      "validationErrors": []
     }
   }
 }
