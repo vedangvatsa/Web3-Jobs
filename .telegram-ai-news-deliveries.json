@@ -2051,7 +2051,7 @@
     "sentAt": "2026-10-24T16:57:48.116Z"
   },
   "8171c96e-1246-4929-849f-2d7749df92df": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T19:33:10.007Z",
     "stories": [
       {
@@ -2081,6 +2081,8 @@
         "originalTitle": "Block’s new voice model sounds eerily human"
       }
     ],
-    "slotKey": "2026-10-24:evening"
+    "slotKey": "2026-10-24:evening",
+    "messageId": 193393,
+    "sentAt": "2026-10-24T19:33:32.589Z"
   }
 }

@@ -785,6 +785,9 @@
   "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
   "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
   "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+  "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+  "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2138,6 +2141,11 @@
   "Canva releases its first image generation model",
   "Chinese hackers use AI agents in ConnectWise breach",
   "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+  "Study finds partisan bias in Grok and OpenAI models",
+  "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+  "A list of discontinued or underperforming AI projects",
+  "Block releases new voice model",
+  "Block’s new voice model sounds eerily human",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2440,5 +2448,8 @@
   "fp:are|automat|ban|domestic|fab|facility|factory|foreign|fuzzy|get",
   "fp:access|announc|cit|cut|data|developer|frontier|futur|internet|liv",
   "fp:all|boost|canva|cost|cut|design|generation|imag|nativ|performanc",
-  "fp:actor|agent|align|automat|breach|chines|connectwis|follow|giant|hacker"
+  "fp:actor|agent|align|automat|breach|chines|connectwis|follow|giant|hacker",
+  "fp:alignment|between|bia|choos|democrat|differenc|election|find|forc|hundr",
+  "fp:cancel|didn|discontinu|fail|goal|graveyard|initiativ|list|major|mak",
+  "fp:block|directly|eerily|human|macbook|max|operat|releas|softwar|sound"
 ]
