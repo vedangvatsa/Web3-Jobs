@@ -50797,7 +50797,8 @@
       },
       "account": "channel:developers",
       "attemptId": "faf5dc5c-2ce3-46de-a3d7-9c15e52e2f1c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4ba5b8ced88d3cb498df607469d742795b7141bd"
     }
   ]
 }
