@@ -51188,8 +51188,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "72bbc8ba-062e-45a4-b85e-44f23ba919b0",
-      "verification": "pending",
-      "postId": "6add09070b5343d0709cbe4a"
+      "verification": "verified",
+      "postId": "6add09070b5343d0709cbe4a",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519844684844933122"
     }
   ]
 }
