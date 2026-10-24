@@ -50044,7 +50044,8 @@
       },
       "account": "channel:base",
       "attemptId": "59fe29b5-1e0a-48ba-a841-8c9f9de188c9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xddb2eae0be6af6bced36e48d82f30c63ae6276bf"
     }
   ]
 }
