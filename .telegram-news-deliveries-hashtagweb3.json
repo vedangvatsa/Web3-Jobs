@@ -2119,5 +2119,36 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 155904,
     "sentAt": "2026-10-23T19:33:11.153Z"
+  },
+  "8d7adaf1-1af2-4200-b15f-f1739eb8f6e6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:58:48.642Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Cardano Foundation Urges EU to Exclude DeFi from MiCA",
+        "summary": "A 19-page submission to the European Commission argued against applying separate regulatory frameworks to decentralized finance and staking.",
+        "link": "https://hashtagweb3.com/cardanomica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Cardano Foundation tells EU not to extend MiCA rules to DeFi and staking"
+      },
+      {
+        "index": -1,
+        "headline": "Dogecoin Labs launches to unify ecosystem applications and tools",
+        "summary": "The entity combines the MyDoge wallet, DogeOS platform, and merchant tools under CEO Jordan Jefferson.",
+        "link": "https://hashtagweb3.com/dogecoinlabs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Dogecoin Labs launches to consolidate MyDoge, DogeOS and merchant tools"
+      },
+      {
+        "index": -1,
+        "headline": "ACINQ releases second Eclair security update in five days",
+        "summary": "Node operators are urged to install version 0.14.5 to address vulnerabilities that could be exploited by network peers.",
+        "link": "https://hashtagweb3.com/eclairpatches?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Eclair ships second Lightning security patch in five days"
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon"
   }
 }
