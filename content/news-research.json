@@ -74768,11 +74768,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdfd9c9404e5e112fd8a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:24:55.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "cbf0d8862095fa9ba23b": {
       "source": "The Defiant",
@@ -76846,17 +76852,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "15cbc157d8cab5b8361d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:46:08.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
       "duplicateOf": "phppanic",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "1f316939d81459316224": {
       "source": "BeInCrypto",
@@ -76899,17 +76906,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1d12b8d1e4ae190bca0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T18:16:03.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
       "duplicateOf": "spacextesla",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "c941482f8444d25ca4eb": {
       "source": "The Block",
@@ -76926,17 +76934,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c941482f8444d25ca4eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:59:36.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "ABA reaction to same OCC rule; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: ABA reaction to same OCC rule; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:08:25.854Z",
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
       "duplicateOf": "occgenius",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "ce8fc79a80fcd65b9473": {
       "source": "Bitcoin Magazine",
@@ -77017,11 +77026,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "c1b26b9ab08d25cf2347",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:25:00.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "618996273a71c03872de": {
       "source": "Bankless",
@@ -77038,17 +77053,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "618996273a71c03872de",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:20:27.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "duplicate",
-      "note": "Sprout migration deadline already explained in the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Sprout migration deadline already explained in the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
       "duplicateOf": "zcashnu7",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "df1f2ceaf5a318c8e092": {
       "source": "Bankless",
@@ -77065,11 +77081,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "df1f2ceaf5a318c8e092",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:19:19.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "1e0af0738e369b11404c": {
       "source": "Bankless",
@@ -77086,11 +77108,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e0af0738e369b11404c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:18:13.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "3265b04a99140b6b602c": {
       "source": "The Defiant",
@@ -77107,11 +77135,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3265b04a99140b6b602c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 0,
       "expiresAt": "2026-10-24T17:15:03.000Z",
-      "lastSeenAt": "2026-10-22T11:10:34.736Z"
+      "lastSeenAt": "2026-10-22T11:10:34.736Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-10-24"
     },
     "e23d5fd85d01cffa3e36": {
       "source": "CryptoSlate",
@@ -77128,17 +77162,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e23d5fd85d01cffa3e36",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T03:35:27.115Z",
       "attempts": 1,
       "expiresAt": "2026-10-24T17:00:04.000Z",
       "lastSeenAt": "2026-10-22T08:50:50.105Z",
-      "reason": "duplicate",
-      "note": "same PHP emergency patch scramble; covered by the ready draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: same PHP emergency patch scramble; covered by the ready draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-22T04:17:38.091Z",
+      "reviewedAt": "2026-10-24T19:31:22.624Z",
       "duplicateOf": "phppanic",
-      "lastReviewedDay": "2026-10-22"
+      "lastReviewedDay": "2026-10-24",
+      "automatic": true
     },
     "e321cb9a105e51a02251": {
       "source": "The Defiant",
@@ -150382,6 +150417,86 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-24T16:56:49.514Z",
           "automatic": true
+        },
+        "fdfd9c9404e5e112fd8a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "15cbc157d8cab5b8361d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: ChatGPT/OpenAI discovery angle already noted in the ready draft's foundation timeline.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "a1d12b8d1e4ae190bca0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same Tesla-SpaceX merger, AI empire angle; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "c941482f8444d25ca4eb": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: ABA reaction to same OCC rule; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "c1b26b9ab08d25cf2347": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "618996273a71c03872de": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Sprout migration deadline already explained in the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "df1f2ceaf5a318c8e092": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "1e0af0738e369b11404c": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "3265b04a99140b6b602c": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
+        },
+        "e23d5fd85d01cffa3e36": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: same PHP emergency patch scramble; covered by the ready draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T19:31:22.624Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -150760,8 +150875,7 @@
         ],
         "total": 140,
         "checkedAt": "2026-10-24T08:24:01.469Z"
-      },
-      "validationErrors": []
+      }
     }
   }
 }
