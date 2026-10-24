@@ -3980,5 +3980,130 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 155903,
     "sentAt": "2026-10-23T19:32:21.250Z"
+  },
+  "cf0777e1-9b2c-4201-897e-b0e3bcd8979c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:57:38.702Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "503c06a18926",
+          "title": "Developer Experience Engineer - Managed K8s",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/503c06a18926-developer-experience-engineer-managed-k8s",
+          "date": "2026-09-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "AI Cloud",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/503c06a18926-developer-experience-engineer-managed-k8s",
+            "checkedAt": "2026-10-16T03:33:38.813Z",
+            "bodySha256": "4f85956ec823ac9f84a7dea5e19b551b38d36d7f340cd8c7980801852b539774",
+            "provider": "breezy",
+            "datePosted": "2026-09-28"
+          },
+          "slug": "dev32"
+        },
+        "key": "503c06a18926",
+        "slug": "dev32",
+        "url": "https://hashtagweb3.com/dev32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Developer Experience Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "0775bf66-8524-412b-906b-6e51695d8fdb",
+          "title": "Manager, Account Executive | Enterprise",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/0775bf66-8524-412b-906b-6e51695d8fdb",
+          "date": "2026-10-07T17:35:49.374+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls263"
+        },
+        "key": "0775bf66-8524-412b-906b-6e51695d8fdb",
+        "slug": "sls263",
+        "url": "https://hashtagweb3.com/sls263?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Account Executive | Enterprise"
+      },
+      {
+        "snapshot": {
+          "id": "5005426101",
+          "title": "Senior Product Design Specialist",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5005426101",
+          "date": "2026-10-14T03:27:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+          "department": "User Experience Design (UED)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm12"
+        },
+        "key": "5005426101",
+        "slug": "pm12",
+        "url": "https://hashtagweb3.com/pm12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Product Design Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "75495bad-c200-46a3-8ecc-6e89efa88ad5",
+          "title": "Senior Product Manager - Payments Platform",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/75495bad-c200-46a3-8ecc-6e89efa88ad5",
+          "date": "2026-10-05T11:22:37.359+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm223"
+        },
+        "key": "75495bad-c200-46a3-8ecc-6e89efa88ad5",
+        "slug": "pm223",
+        "url": "https://hashtagweb3.com/pm223?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+          "title": "VP, Product Analytics",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+          "date": "2026-10-05T01:26:58.958Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (San Francisco)",
+          "workplaceType": "hybrid",
+          "department": "Product Management & Product Design",
+          "salary": "USD 130,000 - USD 200,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm222"
+        },
+        "key": "a155c0e5-f80e-4b38-b9ad-f9f8bc683d37",
+        "slug": "pm222",
+        "url": "https://hashtagweb3.com/pm222?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "VP, Product Analytics"
+      }
+    ],
+    "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/dev32?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Experience Engineer - Managed K8s</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls263?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Account Executive | Enterprise</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Design Specialist</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments Platform</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Product Analytics</a>",
+    "slotKey": "2026-10-24:afternoon"
   }
 }
