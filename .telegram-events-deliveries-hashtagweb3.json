@@ -3135,5 +3135,53 @@
     "slotKey": "2026-10-24:afternoon",
     "messageId": 155907,
     "sentAt": "2026-10-24T16:57:15.341Z"
+  },
+  "5cec1442-5826-490c-ae1d-6663a5431af6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T19:31:33.884Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316905431",
+        "slug": "crypto-halloween-chill-socialize-discuss-learn-about-crypto",
+        "name": "Crypto Halloween & Chill - Socialize, Discuss & Learn About CRYPTO",
+        "startDate": "2026-10-28T18:00:00-07:00",
+        "keys": [
+          "mu-316905431",
+          "page:crypto-halloween-chill-socialize-discuss-learn-about-crypto:2026-10-29",
+          "url:meetup.com/crypto-and-chill/events/316905431:2026-10-29",
+          "event:cryptohalloweenchillsocializediscusslearnaboutcrypto:2026-10-29:newport beach"
+        ]
+      },
+      {
+        "id": "luma-evt-rLBYBxQDjgYF9wR",
+        "slug": "labitconf-bitcoin-college",
+        "name": "LABITCONF Bitcoin College",
+        "startDate": "2026-10-29T12:00:00.000Z",
+        "keys": [
+          "luma-evt-rlbybxqdjgyf9wr",
+          "page:labitconf-bitcoin-college:2026-10-29",
+          "luma:evt-rlbybxqdjgyf9wr",
+          "luma-url:/cqk6i6vd",
+          "event:labitconfbitcoincollege:2026-10-29:buenos aires"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
+        "slug": "solana-ecosystem-call-october",
+        "name": "The Solana Ecosystem Call | October",
+        "startDate": "2026-10-29T14:00:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-s1a3g141dsg60pk",
+          "sec",
+          "page:solana-ecosystem-call-october:2026-10-29",
+          "luma:evt-s1a3g141dsg60pk",
+          "luma-url:/0j8gx7i1",
+          "event:thesolanaecosystemcalloctober:2026-10-29:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-24:evening"
   }
 }
