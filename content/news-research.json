@@ -85145,11 +85145,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "631dfc57c0b1bc0e1a8f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T20:25:20.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing item in full: it is an AI-assisted prediction-market analysis of a Maine firefighter union endorsing Susan Collins. No crypto, blockchain or Web3 actor, funding or policy appears anywhere in the story; single source, no primary record. Not a Web3 news event for this site.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-24T20:21:02.288Z",
+      "lastReviewedDay": "2026-10-24"
     },
     "a5bca103032b7808f8db": {
       "source": "Decrypt",
@@ -150928,6 +150933,13 @@
           ],
           "reviewedAt": "2026-10-24T20:14:40.976Z",
           "articleSlug": "wtiperp"
+        },
+        "631dfc57c0b1bc0e1a8f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing item in full: it is an AI-assisted prediction-market analysis of a Maine firefighter union endorsing Susan Collins. No crypto, blockchain or Web3 actor, funding or policy appears anywhere in the story; single source, no primary record. Not a Web3 news event for this site.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-24T20:21:02.288Z"
         }
       },
       "baselineSlugs": [
