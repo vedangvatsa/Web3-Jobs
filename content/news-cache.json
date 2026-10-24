@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-24T16:56:50.742Z",
+  "generatedAt": "2026-10-24T19:31:39.709Z",
   "items": [
+    {
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+      "source": "The Block"
+    },
     {
       "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
       "link": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
@@ -51,7 +59,7 @@
     },
     {
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "link": "https://www.coindesk.com/",
+      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
       "creator": "Will Canny",
       "contentSnippet": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca t...",
@@ -543,14 +551,6 @@
       "pubDate": "Wed, 21 Oct 2026 15:43:32 +0000",
       "creator": "Agent",
       "contentSnippet": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "pubDate": "Wed, 21 Oct 2026 14:24:25 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
       "source": "Decrypt"
     }
   ]
