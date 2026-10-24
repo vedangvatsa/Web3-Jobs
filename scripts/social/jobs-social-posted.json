@@ -50224,7 +50224,8 @@
       },
       "account": "channel:product",
       "attemptId": "680ace1e-d480-4c0a-b8e4-a8692970eeda",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xec355349eed9dbec0012910bc25e52a28190792d"
     }
   ]
 }
