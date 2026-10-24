@@ -81577,7 +81577,7 @@
         "id": "1e4b30ebcf2d5f2728a4",
         "day": "2026-10-24",
         "articleSlug": "winklevosspac",
-        "note": "2026-10-24 round 3: re-read Cointelegraph Oct 22 report and opened the primary FEC Schedule E filing (FEC-2033528, Digital Freedom Fund) at docquery.fec.gov; filing records Oct 20 obligations with Oct 19 distribution for direct mail: $7,742.28 tied to James Talarico, $4,074.96 tied to Warren Paxton, plus Iowa/Ohio lines, period total $130,904.04, YTD per office $77,424.28 (Talarico race) and $8,149.92 (Paxton race). Cointelegraph's >$81K supporting Paxton/opposing Talarico figure must stay attributed to Cointelegraph, not read off the filing. Two sites opened; draft, second outlet cross-check and hero image still outstanding, slug winklevosspac free.",
+        "note": "Round 4: re-read Cointelegraph Oct 22 report (Digital Freedom Fund, Winklevoss-launched Super PAC, Tuesday FEC filing: >$81,000 direct mail supporting Ken Paxton and opposing James Talarico in Texas, ~$34M raised as of Sept 30, Ohio support for Husted ~$7M; early voting began Oct 19, Election Day Nov 3). Downloaded and read the full Schedule E (FEC-2033528, Digital Freedom Fund): obligation 10/20/2026, public distribution 10/19/2026, vendor Minute Mail Consulting Group, DIRECT MAIL PRINTING AND POSTAGE; lines: Talarico $77,424.28 (YTD 77,424.28), Paxton $4,074.96 (YTD 81,499.24), Brown $41,953.25, Husted $2,208.07, Turek $4,981.31, Hinson Arenholz $262.17; period total $130,904.04. Note: readiness-UA GET to docquery returned 403, browser-UA GET returned 200. Draft, hero image and docquery link-200 check still outstanding; slug winklevosspac free.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
@@ -81588,7 +81588,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-10-24T20:04:16.043Z",
+        "updatedAt": "2026-10-24T20:17:09.929Z",
         "approved": false,
         "mustReview": true
       }
