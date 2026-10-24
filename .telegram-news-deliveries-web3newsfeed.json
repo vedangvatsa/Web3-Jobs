@@ -2154,7 +2154,7 @@
     "sentAt": "2026-10-23T19:33:16.948Z"
   },
   "1b707334-da3f-451e-ac9f-bd73d333114a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T16:58:17.865Z",
     "stories": [
       {
@@ -2182,6 +2182,8 @@
         "originalTitle": "Eclair ships second Lightning security patch in five days"
       }
     ],
-    "slotKey": "2026-10-24:afternoon"
+    "slotKey": "2026-10-24:afternoon",
+    "messageId": 65773,
+    "sentAt": "2026-10-24T16:58:20.971Z"
   }
 }

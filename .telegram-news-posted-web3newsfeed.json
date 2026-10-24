@@ -827,6 +827,9 @@
   "https://hashtagweb3.com/aeromerge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cardanomica?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/digitalcommodity?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/robinhooddubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dogecoinlabs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eclairpatches?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2381,6 +2384,12 @@
   "Cardano Foundation tells EU not to extend MiCA rules to DeFi and staking",
   "Six organizations urge SEC to codify digital commodity rules",
   "Chainlink, Cardano, five other groups ask SEC to codify digital commodity status",
+  "Robinhood Secures Dubai License Ahead of 2027 Launch",
+  "Robinhood wins Dubai license for 2027 Middle East launch",
+  "Dogecoin Labs formed to unify key ecosystem products",
+  "Dogecoin Labs launches to consolidate MyDoge, DogeOS and merchant tools",
+  "ACINQ releases second Eclair security patch in five days",
+  "Eclair ships second Lightning security patch in five days",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2737,5 +2746,8 @@
   "fp:25b|acquisition|buy|claim|currently|deny|fireblock|giant|lat|payment",
   "fp:aero|aerodrom|asset|chain|convert|decentraliz|exchang|exist|lock|merg",
   "fp:advis|against|cardano|commission|creat|decentraliz|defi|european|expand|extend",
-  "fp:agency|ask|cardano|chainlink|codify|commodity|definition|digital|fiv|formal"
+  "fp:agency|ask|cardano|chainlink|codify|commodity|definition|digital|fiv|formal",
+  "fp:across10|ahead|asset|authorization|class|custody|dfsa|dubai|east|for2027",
+  "fp:app|ceo|combin|consolidat|dogecoin|dogeo|ecosystem|entity|form|jefferson",
+  "fp:acinq|are|day|eclair|exploitabl|fiv|fix|identifi|install|lightn"
 ]
