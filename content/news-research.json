@@ -81490,7 +81490,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T19:51:11.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "bcatax",
+      "draftProgress": {
+        "id": "2b2741c1b84ab5d73a83",
+        "day": "2026-10-24",
+        "articleSlug": "bcatax",
+        "note": "2026-10-24: read Bitcoin Magazine Oct 22 report (letter to Thune/Jeffries/Johnson/Schumer, Lindsay Fraser signature, five tax asks, House H.R. 10357 markup, Senate ADAPT Act, recess until after Nov 3 midterms). Still need to open the association letter PDF as primary plus a second independent outlet (Punchbowl or EY tax note) and confirm slug ownership; draft outstanding.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-24T19:38:04.979Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "1e4b30ebcf2d5f2728a4": {
       "source": "Cointelegraph",
