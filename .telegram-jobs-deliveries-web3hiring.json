@@ -7161,5 +7161,99 @@
     "slotKey": "2026-10-24:afternoon",
     "messageId": 16563,
     "sentAt": "2026-10-24T16:57:28.428Z"
+  },
+  "0f047712-073f-4a2a-a975-505ec1bf9d22": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:57:31.034Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8011231003",
+          "title": "Director, Global Treasury Services",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8011231003",
+          "date": "2026-10-02T01:34:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Finance Department",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dgts"
+        },
+        "key": "8011231003",
+        "slug": "dgts",
+        "url": "https://hashtagweb3.com/dgts?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Director, Global Treasury Services"
+      },
+      {
+        "snapshot": {
+          "id": "8257675",
+          "title": "Senior Manager, Marketing Analytics",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8257675?gh_jid=8257675",
+          "date": "2026-10-06T07:15:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt75"
+        },
+        "key": "8257675",
+        "slug": "mkt75",
+        "url": "https://hashtagweb3.com/mkt75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4986576101",
+          "title": "Product Marketing Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4986576101",
+          "date": "2026-10-06T10:55:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "London / NYC",
+          "department": "Growth",
+          "active": true,
+          "salary": "$180k – $210k/yr",
+          "dateVerified": true,
+          "slug": "pm240"
+        },
+        "key": "4986576101",
+        "slug": "pm240",
+        "url": "https://hashtagweb3.com/pm240?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6188585004",
+          "title": "Staff Engineer - New Markets Singapore",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6188585004",
+          "date": "2026-09-28T10:46:59-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - APAC",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng325"
+        },
+        "key": "6188585004",
+        "slug": "eng325",
+        "url": "https://hashtagweb3.com/eng325?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Staff Engineer"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/dgts?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Global Treasury Services</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/mkt75?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Marketing Analytics</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/pm240?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/eng325?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer - New Markets Singapore</a>",
+    "slotKey": "2026-10-24:afternoon"
   }
 }
