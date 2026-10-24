@@ -81755,7 +81755,27 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T16:47:00.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "starknetresearch",
+      "draftProgress": {
+        "id": "688ff0ef5f6bad95bf37",
+        "day": "2026-10-24",
+        "articleSlug": "starknetresearch",
+        "note": "2026-10-24 round 2: read Unchained Oct 22 report (93.52% of ~489m STRK voting power across 3,236 votes, joint working group, 2027 target) and the primary Starknet Foundation results post on community.starknet.io (research starts now, no L1 transition approved). Cointelegraph and The Block Oct 22 coverage located but not opened. Existing content/articles/starknet-vote.md covers the Oct 15 poll opening only, so the Oct 22 result is a new event. Draft and hero image outstanding; slug starknetresearch confirmed free.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/starknet-opens-layer-1-research-after-93-5-poll-vote-targets-quantum-safety-by-2027/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://community.starknet.io/t/starknet-l1-poll-ends-what-it-means-and-what-happens-next/116431",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-24T19:51:09.215Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2518520c4e562e26b27f": {
       "source": "Bitcoin Magazine",
