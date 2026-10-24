@@ -1509,10 +1509,6 @@
       "sha256": "2f09701e3778a987fdbae3d1b0994a6c7a3ed722d34ee4c568cd90f769c6796f",
       "status": "optimized"
     },
-    "/events/luma-batch-evtsOiG3YbNn0yIj-211fb44e.jpg": {
-      "sha256": "dbaf186888a45a32f3b04e19b3cb66ef7a5ffb686f192ff3f31021af04cc73fb",
-      "status": "retained"
-    },
     "/events/luma-batch-evtsPhAqOtfGigBJ-754b48e2.webp": {
       "sha256": "775c38fa37d42dad359376cd7d04aa0480f3fb797b9ed9cee16570e2809f2211",
       "status": "optimized"

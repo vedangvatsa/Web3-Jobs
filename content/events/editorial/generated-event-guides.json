@@ -1318,44 +1318,6 @@
       }
     ]
   },
-  "premier-midwestbtc": {
-    "summaryLead": "The Midwest Bitcoin Summit takes over the Greater Columbus Convention Center in Columbus, Ohio on September 23-24, 2026, with programming spanning mining, payments, financial infrastructure, and sovereign adoption.",
-    "sections": [
-      {
-        "heading": "Bitcoin's Regional Moment",
-        "content": [
-          "Bitcoin conferences cluster on the coasts and in Miami. The Midwest Bitcoin Summit exists precisely because that clustering misses a large share of the country, and it returns to Columbus on September 23-24, 2026, as the Midwest's dedicated Bitcoin gathering.",
-          "Regional placement matters here more than it sounds. The Midwest carries much of America's energy, industrial, and agricultural base, which is exactly where bitcoin's physical economy touches ground: mining sites, grid dynamics, and the payment needs of ordinary businesses. Holding the summit in Ohio puts those constituencies in one hall instead of flying them to a resort.",
-          "The venue choice signals scale intent too. The Greater Columbus Convention Center is a major downtown facility, not a hotel ballroom, which tells you what kind of gathering the organizers are building toward."
-        ]
-      },
-      {
-        "heading": "Four Pillars on the Program",
-        "content": [
-          "Organizers scope the content along four lines: mining, payments, financial infrastructure, and sovereign adoption. That range is deliberate, bridging the people running machines and managing power with the people building services and custody on top of the protocol.",
-          "Mining coverage placed in the Midwest tends toward the practical end of the spectrum: energy contracts, site operations, hardware realities, and the state-level regulatory terrain miners navigate outside the coastal policy bubble.",
-          "The payments and infrastructure threads speak to merchants, treasury managers, and developers weighing bitcoin rails against card networks, while sovereign adoption sessions address individuals and institutions taking self-custody and monetary independence seriously rather than treating it as a slogan."
-        ]
-      },
-      {
-        "heading": "Columbus Practicalities",
-        "content": [
-          "Columbus is an easy convention city: a major airport with strong domestic connections, a compact downtown, and hotel stock within walking distance of the convention center. Late September typically brings mild Ohio autumn weather, which makes the walk between venues pleasant rather than punishing.",
-          "Confirm ticketing, speaker, and schedule details at midwestbtc.com before locking travel, since the site loads its content through an app shell and details firm up closer to the date. As always with newer regional events, booking refundable rates until the final agenda publishes is the prudent move.",
-          "Driving distance matters for this audience. Columbus sits within a day's drive of Chicago, Detroit, Indianapolis, Pittsburgh, and Cincinnati, which historically makes midwestern gatherings car-friendly in a way coastal conferences never are."
-        ]
-      },
-      {
-        "heading": "Who Should Be in the Room",
-        "content": [
-          "Miners and energy professionals get the most targeted content, given the four-pillar emphasis. Payments builders and bitcoin-forward business owners get vendor exposure and operational case studies. Self-custody-minded individuals get structured education without big-city friction.",
-          "For anyone building bitcoin products aimed at middle America, this is the room where distribution questions get answered by people who live the answer, and where the difference between coastal assumptions and midwestern reality becomes obvious within a couple of conversations.",
-          "One honest caveat for planners: published detail on this event was thin at the time of writing, with the site gating content behind an app shell. Treat everything above as the organizers' stated scope, verify speakers and agenda directly before committing, and expect a regional summit to trade marquee headliners for higher signal-per-attendee anyway.",
-          "If you are choosing one midwestern bitcoin trip this year, the two-day span also makes it feasible to pair with other late-September events without writing off a full week of work."
-        ]
-      }
-    ]
-  },
   "premier-ethsofia": {
     "summaryLead": "ETHSofia 2026 headlines Blockchain Week Bulgaria from September 23-25 at Sofia Tech Park, pairing the region's technical Ethereum conference with an institutional finance forum and a curated slate of side events.",
     "sections": [

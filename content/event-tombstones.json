@@ -1703,5 +1703,76 @@
       "luma-batch-nhirmi6soyjn8am",
       "wdykg30j"
     ]
+  },
+  "premier-midwestbtc": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "premier-midwestbtc",
+      "midwestbtc",
+      "midwest"
+    ]
+  },
+  "luma-batch-CsJ0SmZsVkutiTs": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-csj0smzsvkutits",
+      "ek2v4pec"
+    ]
+  },
+  "luma-batch-CpY0ZWdDWgQhUzG": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-cpy0zwddwgqhuzg",
+      "fxd2r3l2"
+    ]
+  },
+  "luma-batch-evt1FZzxJw8Befox": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evt1fzzxjw8befox",
+      "4ofngjhv"
+    ]
+  },
+  "luma-batch-evtsOiG3YbNn0yIj": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evtsoig3ybnn0yij",
+      "4w8pwahc"
+    ]
+  },
+  "luma-batch-evt2Rr0MS54Q6cGK": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evt2rr0ms54q6cgk",
+      "bm3s4akm"
+    ]
+  },
+  "luma-batch-evtFe8xrB7xiFkAd": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evtfe8xrb7xifkad",
+      "7hhzpby2"
+    ]
+  },
+  "luma-batch-evtQFx5qcckR9C9P": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evtqfx5qcckr9c9p",
+      "hjhy21r6"
+    ]
+  },
+  "luma-batch-evtS6QAhAq8Y1NR9": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-batch-evts6qahaq8y1nr9",
+      "ne04fusw"
+    ]
+  },
+  "luma-crypto-ZrfxC8a0HeH1ldQ": {
+    "until": "2027-10-24T19:31:24.531Z",
+    "slugs": [
+      "luma-crypto-zrfxc8a0heh1ldq",
+      "acaf"
+    ]
   }
 }

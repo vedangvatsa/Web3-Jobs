@@ -261,53 +261,6 @@
     }
   },
   {
-    "id": "luma-crypto-ZrfxC8a0HeH1ldQ",
-    "slug": "acaf",
-    "name": "The AI Coding Agent Faceoff: Codex vs Claude Code | Members Only",
-    "description": "Bring your laptop. Join a team. Build with both. Compare what happens.\n\nFor this hands-on WDAI London session, we’re putting Codex and Claude Code head-to-head.\n\nYou’ll join a small team, give both AI coding agents the same product brief and build time, then compare how they interpret the challenge, what they build, where they struggle and which one you’d choose to ship with.\n\nNo polished demos. No sitting through slides. We’ll build live and learn by doing.\n\nWho is this for?\n\nA members-only event for women and non-binary members of Women Defining AI.\n\nNot a member yet? You’re welcome to join WDAI and then sign up for the event.\n\nWhat to bring\n\n💻 Your laptop\n🤖 Access to Codex or Claude Code if you have it\n🍷 A bottle or snack to share if you’d like\n\nYou don’t need to be an expert developer — just come ready to experiment.\n\nOne brief. Two AI coding agents. Let’s see what happens.",
-    "startDate": "2026-09-24T17:00:00.000Z",
-    "endDate": "2026-09-24T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/women-nklb",
-    "registrationUrl": "https://luma.com/women-nklb",
-    "coverImage": "/events/luma-crypto-zrfxc8a0heh1ldq-bf0f5849.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Women Defining AI .org",
-      "Rajni Rughwani",
-      "Sumathi Menon"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Women Defining AI: Community Calendar",
-      "url": "https://www.womendefiningai.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/women-nklb",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/women-nklb",
-      "eventId": "evt-ZrfxC8a0HeH1ldQ",
-      "fetchedAt": "2026-09-19T23:46:04.706Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-iSsgtX8txkWC11L",
     "slug": "ccm1",
     "name": "☕️ Codex Community Meetup-San Francisco #10",

@@ -1540,29 +1540,6 @@
     }
   },
   {
-    "id": "premier-midwestbtc",
-    "slug": "midwest",
-    "name": "Midwest Bitcoin Summit 2026",
-    "description": "The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on September 23–24, 2026, 10:00 AM–5:00 PM, at the Greater Columbus Convention Center.\n\n## Scale\n\n3000+ expected attendees, 140+ expert speakers, 45+ exhibiting companies, and two days of innovation — the brightest minds across Bitcoin, policy, and financial infrastructure.\n\n## Speakers\n\nWorld-class speakers include Hester M. Peirce (Commissioner, SEC Crypto Task Force), Frank LaRose (Ohio Secretary of State), plus state representatives, founders, and operators from across the Bitcoin industry.\n\n## Program and tickets\n\nGet tickets from US$50 through the official ticketing page. The program runs alongside sponsor showcases, after parties, and hotel blocks for traveling attendees.",
-    "startDate": "2026-09-23T09:00:00.000Z",
-    "endDate": "2026-09-24T18:00:00.000Z",
-    "city": "Columbus",
-    "country": "United States",
-    "location": "Greater Columbus Convention Center, Columbus, OH, USA",
-    "url": "https://midwestbtc.com",
-    "website": "https://midwestbtc.com",
-    "coverImage": "/events/premier-midwestbtc-0dc3d63b.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://midwestbtc.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Midwest Bitcoin Summit 2026 | Columbus, Ohio",
-      "sha256": "dc64e4f4f4ca90b43ffef9f915c7377da13ec921ec1a46ff374ca36f948e578f"
-    }
-  },
-  {
     "id": "premier-ethsofia",
     "slug": "ethsofia",
     "name": "ETHSofia 2026",

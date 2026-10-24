@@ -4367,59 +4367,6 @@
     }
   },
   {
-    "id": "luma-batch-CsJ0SmZsVkutiTs",
-    "slug": "ek2v4pec",
-    "name": "Stablecoins & Boba | Day 2 - Summit Day at Solana Summit Canada",
-    "description": "Need a midday pick-me-up on Day 2 of Solana Summit Canada? Step across the street from Solana Summit Canada to Chatime for free bubble tea and a chance to chat stablecoins with fellow attendees.\n\nOpen to Solana Summit Canada badge holders only. Please bring your badge.\n\nAbout the hosts\n\nPaytrie builds stablecoin infrastructure in Canada, helping people and businesses buy, sell, and use stablecoins.\n\nLoon issues CADC, a Canadian dollar-backed stablecoin that brings CAD onchain.\n\n## Hosts\n\nHosted by Superteam Canada, Paytrie (Canadian stablecoin on/off ramp), CADC \\\\ The Canadian Dollar Coin (Canada's leading stablecoin).\n\n## Event details\n\nThe event takes place on September 24. Venue: Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada.",
-    "startDate": "2026-09-24T17:30:00.000Z",
-    "endDate": "2026-09-24T19:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Chatime, Chatime, 163 King St E, Toronto, ON M5A 1J4, Canada",
-    "url": "https://luma.com/ek2v4pec",
-    "registrationUrl": "https://luma.com/ek2v4pec",
-    "coverImage": "/events/luma-batch-CsJ0SmZsVkutiTs-bf0435cb.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Canada",
-      "Paytrie",
-      "CADC \\\\ The Canadian Dollar Coin"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "St. Lawrence",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Chatime",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Canada",
-      "url": "https://luma.com/user/SuperteamCA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ek2v4pec",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ek2v4pec",
-      "eventId": "evt-CsJ0SmZsVkutiTs",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
     "id": "luma-batch-mbcqnMls2Q8u6Mp",
     "slug": "zbhm5t4z",
     "name": "Emerging Tech Room",
@@ -4975,57 +4922,6 @@
     "sourceVerification": {
       "url": "https://luma.com/burningmon",
       "eventId": "calev-cy4MdiJptug7TkG",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-CpY0ZWdDWgQhUzG",
-    "slug": "fxd2r3l2",
-    "name": "Tour Solana La Familia - Madrid x SuperPioneros",
-    "description": "Durante las próximas semanas haremos varias paradas por España para encontrarnos con nuestra comunidad y abrir las puertas a todos los que quieran descubrir Solana y conocer de cerca su ecosistema junto a SuperPioneros y con el ecosistema de La Nave en Madrid.Queremos que cada parada sea un punto de encuentro para compartir ideas, descubrir proyectos, conocer nuevas oportunidades y conectar con personas que están construyendo dentro y fuera de Solana.\n\nY si es tu primera vez acercándote a este mundo, también es para ti. No necesitas experiencia previa ni conocimientos sobre Web3, solo curiosidad y ganas de conocer algo nuevo.\n\nHabrá tiempo para conversar, hacer networking 🤝, conocer proyectos y, sobre todo, poner cara a muchas de las personas con las que compartimos comunidad cada día.\n\nTanto si ya formas parte de La Familia y/o SuperPioneros como si acabas de descubrirnos, te esperamos en el Tour. 🎩",
-    "startDate": "2026-09-24T15:00:00.000Z",
-    "endDate": "2026-09-24T18:15:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Los Ángeles, Madrid, Comunidad de Madrid, Spain",
-    "url": "https://luma.com/fxd2r3l2",
-    "registrationUrl": "https://luma.com/fxd2r3l2",
-    "coverImage": "/events/luma-batch-CpY0ZWdDWgQhUzG-0d31e73e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "La Familia",
-      "SuperPioneros NWC10",
-      "La Nave"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "neighborhood": "Los Ángeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Madrid",
-    "addressRegion": "Comunidad de Madrid",
-    "addressCountry": "ES",
-    "organizer": {
-      "type": "Organization",
-      "name": "La Familia",
-      "url": "https://luma.com/user/lafamilia_so"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fxd2r3l2",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fxd2r3l2",
-      "eventId": "calev-CpY0ZWdDWgQhUzG",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -10182,36 +10078,6 @@
     }
   },
   {
-    "id": "luma-batch-evt1FZzxJw8Befox",
-    "slug": "4ofngjhv",
-    "name": "ADAN x LSW3 - Forum (Cyber)Sécurité Crypto",
-    "description": "🇫🇷 Adan x LSW3 - Forum (Cyber)Sécurité Crypto\n\nEn partenariat avec la LSW3, l’Adan vous donne rendez-vous à Paris le 24 septembre 2026 pour un événement consacré aux enjeux de sécurité de l’industrie des actifs numériques.\n\nProfessionnels des actifs numériques, experts en cybersécurité et en traçage, enquêteurs, magistrats, avocats et représentants de la supervision financière croiseront leurs expertises autour des nouvelles menaces et des enjeux liés à la saisie des actifs numériques.\n\nOrganisé par l’Adan, cet événement s’inscrit dans le prolongement des travaux de la Ligue pour la Sécurité du Web3, désormais pleinement intégrés à ceux de l’association.\n\nAu programme\n\n🛡️ Nouvelles menaces : quels risques physiques et numériques pour les acteurs du secteur ?\n\nLieutenant Julien Nachouki (UNC - Gendarmerie)\n\nRomain Chilly (ORWL)\n\nStéphane Pontoizeau (AMF)\n\nJordan Abedi (PNACO)\n\n⚖️ Traçage et saisie des actifs numériques : quels enjeux opérationnels et judiciaires ?\n\nElise Treguer (juge d'instruction)\n\nGwendolyn Hachet (parquet J3 - cybercriminalité)\n\nDominique Penin (Morgan Lewis)\n\nRégis Verdier (Tracfin)\n\n🥂 Cocktail pour prolonger les échanges\n\nInfos pratiques\n\n📅 Jeudi 24 septembre 2026\n\n🕔 Conférences et tables rondes de 17h à 19h, suivies d’un cocktail\n\n📍 Paris VIIIe\n\n🇬🇧 Adan x LSW3 - (Cyber)Security Crypto Forum\n\nJoin us in Paris on 24 September 2026 for an event dedicated to the security challenges facing the digital asset industry.\n\nDigital asset professionals, cybersecurity and asset-tracing experts, investigators, judges, lawyers and financial supervisors will bring together their expertise to discuss emerging threats and the challenges surrounding the seizure of digital assets.\n\nOrganised by Adan, this event continues the efforts initiated by the Web3 Security League, now fully integrated into the association.\n\nProgramme\n\n🛡️ Emerging threats: what physical and digital risks are industry participants facing?\n\nLieutenant Julien Nachouki (UNC - Gendarmerie)\n\nRomain Chilly (ORWL)\n\nStéphane Pontoizeau (AMF)\n\nJordan Abedi (PNACO)\n\n⚖️ Tracing and seizing digital assets: what are the operational and legal challenges?\n\nElise Treguer (Investigating Judge)\n\nGwendolyn Hachet (J3 Cybercrime Division, Public Prosecutor’s Office)\n\nDominique Penin (Morgan Lewis)\n\nRégis Verdier (Tracfin)\n\n🥂 Cocktail reception to continue the conversation\n\nPractical information\n\n📅 Thursday, 24 September 2026\n\n🕔 Conferences and panel discussions from 5:00 pm to 7:00 pm, followed by a cocktail reception\n\n📍 Paris 8th arrondissement",
-    "startDate": "2026-09-24T15:00:00.000Z",
-    "endDate": "2026-09-24T18:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://luma.com/4ofngjhv",
-    "registrationUrl": "https://luma.com/4ofngjhv",
-    "coverImage": "/events/luma-batch-evt1FZzxJw8Befox-b0a298ec.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Paris",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/4ofngjhv",
-      "eventId": "evt-1FZzxJw8Befoxfu",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtbHqwrXvVlIJIt",
     "slug": "e4fvx4jj",
     "name": "Team1 France Connect Paris",
@@ -13834,36 +13700,6 @@
     }
   },
   {
-    "id": "luma-batch-evtsOiG3YbNn0yIj",
-    "slug": "4w8pwahc",
-    "name": "2nd Prague Hardware Meetup with SolanaCZE",
-    "description": "Please join us for our 2nd Prague Hardware Meetup!\n\n🤖 Bring physical demos for open mic!\n\nOur presenters\n\nSolanaCZE\n\nTBA\n\nAgenda\n\n18:00–18:20 — Welcome, drinks & mingle\n\n18:20–18:30 — Welcome notes\n\n18:30–18:45 — SingIt: Hardware × Web\n\n18:45–19:30 — SolanaCZE: Solana, Colosseum Hackathon & Build Station\n\n19:30–20:00 — Hardware × Web3 Ideathon + winner announcement (10–30 min depending on the number of pitches)\n\n20:00–20:30 — Drinks & networking\n\nWhat happens when we bring Prague’s hardware and Web3 communities into the same room?\n\nLet’s find out. 👀\n\nHardware and Web3 are two incredibly exciting spaces with more overlap than you might think... so together with PrusaLab and the Prague Hardware community, we’re bringing both worlds together for one evening.\n\n🔧 We’ll hear from people building in hardware and explore what’s happening in the local ecosystem.\n\n☀️ SolanaCZE will introduce Solana, the upcoming global hackathon and our Build Station in Prague... including how anyone with an idea can get involved and start building.\n\nAnd most importantly, we want to connect the people behind both communities.\n\nHardware builders, engineers, makers, developers, founders and Web3 people... meet each other, exchange ideas and maybe even find something new to build together.\n\nNo Web3 or hardware experience required. Curiosity is enough.\n\n📅 September 24 ⏰ 18:00–20:30 📍 Marina Pivovar, Prague 🍺 Drinks on us\n\nTwo communities, different backgrounds, one evening.\n\nAs a small warm-up for the upcoming Solana hackathon, we’ll also host a mini Hardware × Web3 Ideathon during the evening.\n\nThe challenge is simple: come up with an interesting idea that combines hardware and Web3.\n\nNo code, prototype or previous blockchain experience needed... we’re looking for creative ideas and interesting ways these two worlds could come together.\n\n🏆 3 × $50 prizes for our favorite ideas\n\nIt’s a fun way to get into the hackathon mindset, meet potential teammates and maybe even find an idea worth building during the upcoming Solana hackathon.\n\nLet’s see what we can create together. 🚀\n\nThank you to our partner\ninformal is a freelance collective for the most talented independent professionals in the hardware ecosystem. With expertise in a diverse range of industries from consumer electronics to automotive, climate tech to medical devices, informal members work with clients at every stage to design, manufacture, and scale top-quality physical products. Whether you're looking for a single contractor, a full-time employee, or an entire team of professionals to work on everything from product development to go-to-market strategy, the informal collective has the perfect collection of people for the job.\n\nHardware Meetups happen in over 50 cities around the world, helping bring together founders, engineers, and other hardware professionals to networks, share insights, and collaborate with one another.\n\nHardware Meetup is a volunteer organization and relies on sponsorships to cover the costs of putting on these events.\n\nWe share the RSVP list with sponsors who support 3 or more events. By RSVPing to this event you consent to us sharing your email address and other registration information with our sponsors.",
-    "startDate": "2026-09-24T16:00:00.000Z",
-    "endDate": "2026-09-24T18:30:00.000Z",
-    "city": "Hlavní město Praha",
-    "country": "Czechia",
-    "location": "Hlavní město Praha, Hlavní město Praha, Czechia",
-    "url": "https://luma.com/4w8pwahc",
-    "registrationUrl": "https://luma.com/4w8pwahc",
-    "coverImage": "/events/luma-batch-evtsOiG3YbNn0yIj-211fb44e.jpg",
-    "source": "luma-batch",
-    "hosts": [
-      "Prague Hardware Meetup"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Prague",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/4w8pwahc",
-      "eventId": "evt-sOiG3YbNn0yIjkH",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtbEptLaEt5lj5u",
     "slug": "fahm95ov",
     "name": "The Fintech Accord Strategy Lab",
@@ -13888,36 +13724,6 @@
     "sourceVerification": {
       "url": "https://luma.com/fahm95ov",
       "eventId": "evt-bEptLaEt5lj5uUL",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt2Rr0MS54Q6cGK",
-    "slug": "bm3s4akm",
-    "name": "ROAD TO BUILD STATION: PRAGUE",
-    "description": "ROAD TO BUILD STATION: PRAGUE 🚀\n\nAfter stops across Czechia and Slovakia, our Road to Build Station is coming back to Prague.\n\nOver the past weeks, we’ve been meeting students, developers, founders and curious builders in different cities, talking about Solana, AI, Web3 and one big question:\n\nWhat could YOU build during the upcoming global Colosseum Hackathon?\n\nOn September 24, we’re bringing the conversation back to Prague.\n\n☀️ SOLANA, HACKATHONS & BUILD STATION\n\nWe’ll introduce the Solana ecosystem, the upcoming Colosseum Hackathon and our 5-day Build Station in Prague from October 3–7.\n\nWhether you already have an idea, are looking for teammates or have never built on Solana before, we’ll show you how to get involved.\n\n🔧 HARDWARE, DePIN & WEB3\n\nWe’ll also explore where the physical and onchain worlds meet.\n\nSingIt will introduce what they’re building and we’ll take a closer look at hardware, DePIN and what becomes possible when physical products connect with Web3.\n\n💡 MINI IDEATHON – $150 IN PRIZES\n\nAnd we don't just want to talk.\n\nDuring the evening, we’ll run another mini Ideathon to get everyone into the hackathon mindset.\n\nCome up with an idea, discuss it with others and pitch it to the room.\n\nNo code required.\r\nNo finished project required.\r\nNo team required.\r\nYou don’t even need to arrive with an idea.\n\n🏆 3 best ideas → $50 each\n\nMaybe it’s just a fun idea for the evening.\n\nOr maybe you find your teammates, take it into the Colosseum Hackathon and build it for real at our Build Station.\n\n🏗️ WHAT’S NEXT?\n\nFrom October 3–7, selected builders will come together in Prague for five days of building, mentoring and collaboration during the global Colosseum Hackathon.\n\n→ Free workspace\r\n→ Technical & business mentoring\r\n→ Office hours with ecosystem teams\r\n→ Food & drinks\r\n→ $10,000+ in local prizes\r\n→ Demo Day + Afterparty\n\n📅 September 24\r\n⏰ 18:00–20:30\r\n📍 Marina Pivovar, Prague\r\n🍺 Drinks on us\r\n🎟️ Free to attend\n\nDevelopers, students, founders, designers, hardware builders, AI builders and simply curious people are all welcome.\n\nYou don't need a team.\r\nYou don't need an idea.\r\nYou don't need previous Web3 experience.\n\nCome curious. Maybe leave with something worth building.",
-    "startDate": "2026-09-24T16:00:00.000Z",
-    "endDate": "2026-09-24T19:00:00.000Z",
-    "city": "Hlavní město Praha",
-    "country": "Czechia",
-    "location": "Pivovar Marina, Pivovar Marina, Jankovcova 1059/12, 170 00 Praha 7-Holešovice, Czechia",
-    "url": "https://luma.com/bm3s4akm",
-    "registrationUrl": "https://luma.com/bm3s4akm",
-    "coverImage": "/events/luma-batch-evt2Rr0MS54Q6cGK-4476ca09.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Prague",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/bm3s4akm",
-      "eventId": "evt-2Rr0MS54Q6cGK47",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -14487,36 +14293,6 @@
     "sourceVerification": {
       "url": "https://luma.com/kimegh2u",
       "eventId": "evt-Ymh91sulx28ScBx",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtFe8xrB7xiFkAd",
-    "slug": "7hhzpby2",
-    "name": "Scaling from Türkiye to Europe: The MiCA Path",
-    "description": "Scaling from Türkiye to Europe: The MiCA Path\n\nSeptember 24, 18:00–22:00 | Paribu Art, Turkiye\n\nUN:BLOCK is coming to Türkiye in partnership with Paribu, bringing together Latvia and Türkiye’s fintech, blockchain and digital assets ecosystems.\n\nTogether, we’re creating a space where founders, financial institutions, regulators, investors, and technology leaders can connect, exchange ideas, and explore the future of finance.\n\nFrom Riga to Istanbul, this is where two innovation ecosystems meet.\n\nPanel: \"Scaling from Türkiye to Europe: What Does It Really Take?\"\n\nWhat does it take for Turkish fintech and digital asset businesses to expand into Europe? This panel brings together industry leaders, legal experts, and investment specialists to explore EU regulation, market entry, and the practical challenges of building a business across borders.\n\nPanelists:\n\n• Reinis Znotins (Moderator) - Co-Founder at UN:BLOCK and Executive Director at The Latvian Blockchain Association\n\n• Arina Stivrina (Speaker) - Associate Partner at Walless\n\n• Alex Novozhenov (Speaker) - CEO and Co-Founder at Nodu\n\n• Sadiye Demir (Speaker) - Senior Executive at Paribu\n\n• Gustavs Lapins (Speaker) - Senior Investment Project Manager at Investment and Development Agency of Latvia (LIAA)\n\nWhat to Expect?\n\nCross-border ecosystem connections - Bringing together fintech, blockchain, and digital asset leaders from Latvia and Türkiye.\n\nHigh-value networking - Meet founders, financial institutions, regulators, investors, and innovators driving the industry forward.\n\nFuture-focused discussions - Explore payments, digital assets, regulation, tokenization, and the next generation of financial infrastructure.\n\nHosts:\n\nUN:BLOCK Website I LinkedIn\n\nUN : BLOCK is Northern Europe's leading fintech, blockchain, and AI conference, connecting the people and companies building the future of financial services. Following a record 2026 conference with 2,200+ attendees, 700+ companies, participants from 50 countries, and 7+ side events, the ecosystem returns to Riga on March 10–11, 2027 for its biggest edition yet.\n\nParibu Website | LinkedIn\n\nParibu is Türkiye's leading digital asset platform and a key player in the country's fintech ecosystem. Founded in 2017, the company pursues a growth strategy focused on regulatory compliance, product innovation, and expansion into multiple geographies. In 2026, Paribu expanded from a crypto exchange into a multi-asset investment app, bringing together crypto trading, DeFi access, yield products, and equities on a single platform. Paribu supports 220+ crypto assets and serves millions of users. Its matching engine, Hyper Engine, processes 7.6 million orders per second. The company's institutional custody infrastructure is built on ColdShield®, its proprietary multi-layer digital asset custody technology. In 2025, Paribu acquired a majority stake in CoinMENA, a licensed exchange operating in Dubai and Bahrain serving 1.5M users across MENA. In 2026, self-custodial finance app Clave joined Paribu, bringing passkey-based account abstraction and onchain capabilities to the stack.\n\nPrivacy Notice here for more details.",
-    "startDate": "2026-09-24T15:00:00.000Z",
-    "endDate": "2026-09-24T19:00:00.000Z",
-    "city": "Kadıköy",
-    "country": "Türkiye",
-    "location": "Paribu Art, Paribu Art, Hasanpaşa, Kurbağalıdere Cd. No:2/26 GH Blok, İç Kapı No:13, 34722 Kadıköy/İstanbul, Türkiye",
-    "url": "https://luma.com/7hhzpby2",
-    "registrationUrl": "https://luma.com/7hhzpby2",
-    "coverImage": "/events/luma-batch-evtFe8xrB7xiFkAd-32506b4c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/7hhzpby2",
-      "eventId": "evt-Fe8xrB7xiFkAdhs",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -15128,36 +14904,6 @@
     "sourceVerification": {
       "url": "https://luma.com/c1ikydpb",
       "eventId": "evt-FCvGrSFASqUeydZ",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtQFx5qcckR9C9P",
-    "slug": "hjhy21r6",
-    "name": "North Texas Key Stakeholder Roundtable Hosted by Digital Infrastructure Network",
-    "description": "The Digital Infrastructure Network is hosting a private roundtable for a select group of key stakeholders at Globe Life Field, bringing together a small group of invited guests for a focused conversation on our exciting direction of Digital Infrastructure Network, policy developments, the issues shaping the marketplace, and how each of you and your organizations will stand to benefit from this expansion. This gathering is limited to 12 attendees and is designed to create space for candid discussion, meaningful introductions, and a stronger connection among the people helping drive the industry forward.\n\nTentative Agenda:\n\n12:00-12:15 - Arrive and walk to our conference room\n12:15 - 12:25 - Welcome Remarks\n• DIN Update\n◦ Why We Changed Our Name.\n◦ Feedback we've received.\n◦ Opportunities Ahead.\n• What's Next - NABS, 90th Legislature, TX/OU Happy Hour\n\n12:25 - 12:45 - Today's Task\nWe've gathered you all to provide intel and gather feedback on relevant matters, such as what you are hearing, and how we can become a tighter org to serve you all as key stakeholders. We also would like to share the near opportunities we foresee for each of you.\n• Each of you represents our focus areas: Digital Assets, AI, Energy Infrastructure, Quantum Computing, and support areas for all.\n\nWhich areas are you most concerned about for your businesses?\n\nWhere can we help?\n\nHow can we create a better feedback loop?\n\nWhat do you want to see more or less off from DIN?\n\n12:45 - 12: 55 Preview of 90th Legislature\n\nWhat We Are Working On:\n\nData Center Bill of Rights\n\nStablecoin Legislation\n\nQuantum Computing\n\nAI\n\n12:55 - 1:20 Guest Legislative Speaker and Roundtable Discussion\n\n1:20 - 1:30 Networking Prior To Baseball Game Start\n\nUpon registration approval, we will send you your ticket to gain access into Globe Life Field on September 24th.\n\nWe will also be joined by special guests, making this a valuable opportunity to hear timely perspectives in an intimate setting before the Texas Rangers vs. New York Mets game later in the day. If you would like to stay after the roundtable, you are welcome to enjoy the game as well.",
-    "startDate": "2026-09-24T17:00:00.000Z",
-    "endDate": "2026-09-24T18:30:00.000Z",
-    "city": "Arlington",
-    "country": "United States",
-    "location": "Globe Life Field, Globe Life Field, 734 Stadium Dr E, Arlington, TX 76011, USA",
-    "url": "https://luma.com/hjhy21r6",
-    "registrationUrl": "https://luma.com/hjhy21r6",
-    "coverImage": "/events/luma-batch-evtQFx5qcckR9C9P-3c00e45c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Chicago",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/hjhy21r6",
-      "eventId": "evt-QFx5qcckR9C9PGx",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -16537,36 +16283,6 @@
     "sourceVerification": {
       "url": "https://luma.com/cc07mr08",
       "eventId": "evt-GMos7F0qQNyQFPR",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtS6QAhAq8Y1NR9",
-    "slug": "ne04fusw",
-    "name": "Introduction to Solidity",
-    "description": "This Thursday, we’re going back to basics with an Intro to Solidity, perfect whether you’ve never touched coding on a blockchain or just want to solidify the fundamentals.\n\nWhat to expect:\nLearn everything needed to deploy your first smart contract from foundry to hardhat !\n\nAn open space to ask all your questions, no matter how basic\n\nWhether you’re curious, skeptical, or already deep into building, come build (or refresh) your foundations with us !\n\n📅 Thu September 24\n🕕 6 PM\n📍 UPDATE: INM 201, not INM 10\n\nCome build on blockchain, one block at a time 🚀\n\n## Event details\n\nOrganized by Blockchain Student Association - EPFL. Venue: EPFL, EPFL, 1015 Lausanne, Switzerland. Tickets: Free.",
-    "startDate": "2026-09-24T16:00:00.000Z",
-    "endDate": "2026-09-24T17:30:00.000Z",
-    "city": "Lausanne",
-    "country": "Switzerland",
-    "location": "EPFL, EPFL, 1015 Lausanne, Switzerland",
-    "url": "https://luma.com/ne04fusw",
-    "registrationUrl": "https://luma.com/ne04fusw",
-    "coverImage": "/events/luma-batch-evtS6QAhAq8Y1NR9-ab68ffa9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Blockchain Student Association - EPFL"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/ne04fusw",
-      "eventId": "evt-S6QAhAq8Y1NR92A",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

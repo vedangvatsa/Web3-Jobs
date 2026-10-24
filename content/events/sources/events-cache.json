@@ -20333,7 +20333,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21537,7 +21537,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -21626,7 +21629,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315962979-975e4753.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28331,7 +28334,7 @@
     "country": "us",
     "location": "Chicago, us",
     "url": "https://www.meetup.com/chicago-spanish-language/events/312804220/",
-    "coverImage": null,
+    "coverImage": "/events/mu-312804220-754488d1.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28375,7 +28378,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",

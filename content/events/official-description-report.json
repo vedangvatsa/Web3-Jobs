@@ -312,21 +312,6 @@
       "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
     },
     {
-      "id": "premier-midwestbtc",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://midwestbtc.com/",
-        "fetchedAt": "2026-09-20T00:20:11.830Z",
-        "method": "official-meta",
-        "pageTitle": "Midwest Bitcoin Summit",
-        "sha256": "dc64e4f4f4ca90b43ffef9f915c7377da13ec921ec1a46ff374ca36f948e578f"
-      },
-      "previousStartDate": "2026-09-23T09:00:00.000Z",
-      "characters": 166,
-      "preview": "The Midwest Bitcoin Summit brings thousands of attendees, 150+ speakers, and the brightest minds in Bitcoin to Columbus, OH on Sept 23-24, 2026. Get your tickets now."
-    },
-    {
       "id": "premier-ethsofia",
       "file": "curated-events.json",
       "name": "ETHSofia 2026",
