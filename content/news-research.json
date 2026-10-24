@@ -81724,14 +81724,22 @@
         "id": "b65e3f9f1ac4abf8d95e",
         "day": "2026-10-24",
         "articleSlug": "utexomint",
-        "note": "2026-10-24: The Defiant story URL returned HTTP 403 Cloudflare challenge. A same-day Bitcoin Magazine piece on Utexo Mint early access ahead of the Nov 28 launch appeared in its related links and still needs to be opened, plus the official Utexo announcement; draft outstanding.",
+        "note": "2026-10-24 round 2: The Defiant story still returns Cloudflare 403 via WebFetch and curl with the readiness UA. Read the primary Utexo blog post (Dubai Oct 22, early access on Bitcoin Signet, Nov 28 public launch via partner wallets and exchanges, RGB mint/confidential transfer/redeem, Lightning phase Q1 2027) and ChainCatcher's independent Oct 23 report (Utexo Mint is not owned or operated by Tether; backing via USDT0, Crystal Intelligence AML). Two readable sites on file; Bitcoin Magazine's related Oct 22 item not yet opened. Draft and image outstanding; slug utexomint confirmed free.",
         "sourceChecks": [
+          {
+            "url": "https://www.utexo.com/blog/utexo-opens-early-access-to-usdmnt-on-bitcoin-through-utexo-mint",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.chaincatcher.com/article/2298304",
+            "outcome": "read"
+          },
           {
             "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-10-24T19:38:20.637Z",
+        "updatedAt": "2026-10-24T19:51:22.325Z",
         "approved": false,
         "mustReview": true
       }
