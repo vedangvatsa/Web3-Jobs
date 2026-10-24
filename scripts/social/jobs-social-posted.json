@@ -49900,7 +49900,8 @@
       },
       "account": "channel:dev",
       "attemptId": "330d2eb2-9a23-4bc4-b564-7126c7066bab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf82cdf4f45fb8e9bbaea4e5d1d4de8466a574b2e"
     }
   ]
 }
