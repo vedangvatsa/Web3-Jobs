@@ -2152,5 +2152,36 @@
     "slotKey": "2026-10-23:evening",
     "messageId": 65772,
     "sentAt": "2026-10-23T19:33:16.948Z"
+  },
+  "1b707334-da3f-451e-ac9f-bd73d333114a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T16:58:17.865Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Robinhood Secures Dubai License Ahead of 2027 Launch",
+        "summary": "On Oct. 22, the company received DFSA authorization to offer trading and custody across 10 asset classes.",
+        "link": "https://hashtagweb3.com/robinhooddubai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Robinhood wins Dubai license for 2027 Middle East launch"
+      },
+      {
+        "index": -1,
+        "headline": "Dogecoin Labs formed to unify key ecosystem products",
+        "summary": "The entity combines the MyDoge wallet, DogeOS platform, and Such App merchant tools under CEO Jordan Jefferson.",
+        "link": "https://hashtagweb3.com/dogecoinlabs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Dogecoin Labs launches to consolidate MyDoge, DogeOS and merchant tools"
+      },
+      {
+        "index": -1,
+        "headline": "ACINQ releases second Eclair security patch in five days",
+        "summary": "Node operators are urged to install version 0.14.5 to fix newly identified peer-exploitable vulnerabilities.",
+        "link": "https://hashtagweb3.com/eclairpatches?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Eclair ships second Lightning security patch in five days"
+      }
+    ],
+    "slotKey": "2026-10-24:afternoon"
   }
 }
