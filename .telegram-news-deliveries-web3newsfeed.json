@@ -2187,7 +2187,7 @@
     "sentAt": "2026-10-24T16:58:20.971Z"
   },
   "dbed98d1-92a3-4898-8ed1-246cc5fc83f6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-24T19:33:32.710Z",
     "stories": [
       {
@@ -2215,6 +2215,8 @@
         "originalTitle": "France sets Nov. 3 budget vote after one-vote stablecoin tax win"
       }
     ],
-    "slotKey": "2026-10-24:evening"
+    "slotKey": "2026-10-24:evening",
+    "messageId": 65774,
+    "sentAt": "2026-10-24T19:33:37.756Z"
   }
 }
