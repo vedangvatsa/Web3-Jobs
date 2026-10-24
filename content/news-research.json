@@ -81527,7 +81527,23 @@
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
       "attempts": 0,
       "expiresAt": "2026-10-25T19:29:53.000Z",
-      "lastSeenAt": "2026-10-23T03:43:45.275Z"
+      "lastSeenAt": "2026-10-23T03:43:45.275Z",
+      "articleSlug": "winklevosspac",
+      "draftProgress": {
+        "id": "1e4b30ebcf2d5f2728a4",
+        "day": "2026-10-24",
+        "articleSlug": "winklevosspac",
+        "note": "2026-10-24: read Cointelegraph Oct 22 report (Digital Freedom Fund Oct 20 FEC filing, 1K+ direct mail supporting Paxton and opposing Talarico, 4M raised as of Sept 30, M Husted total). Still need to open the FEC filing itself as primary source plus a second independent outlet; draft outstanding.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-24T19:38:18.405Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "71738ccacea6857d8174": {
       "source": "CryptoSlate",
