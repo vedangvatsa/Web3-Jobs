@@ -81560,9 +81560,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "71738ccacea6857d8174",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T19:20:56.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "zodiacustody",
@@ -81580,7 +81580,18 @@
         "updatedAt": "2026-10-24T19:40:18.329Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "Same Oct 21 definitive-agreement event already covered by content/articles/zodia.md (published 2026-10-22): Standard Chartered acquiring 100% of Zodia Custody entities in Singapore, Hong Kong, Australia, Luxembourg, UAE, Zodia Solutions spinout with Northern Trust, NAB Ventures, SBI Ventures, Emirates NBD. No new development in the CryptoSlate report.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-24T19:45:51.843Z",
+      "duplicateOf": "zodia",
+      "lastReviewedDay": "2026-10-24"
     },
     "eaa89eef64c380e9989d": {
       "source": "The Block",
@@ -150586,6 +150597,19 @@
           ],
           "reviewedAt": "2026-10-24T19:36:27.105Z",
           "articleSlug": "hoodidelay"
+        },
+        "71738ccacea6857d8174": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 21 definitive-agreement event already covered by content/articles/zodia.md (published 2026-10-22): Standard Chartered acquiring 100% of Zodia Custody entities in Singapore, Hong Kong, Australia, Luxembourg, UAE, Zodia Solutions spinout with Northern Trust, NAB Ventures, SBI Ventures, Emirates NBD. No new development in the CryptoSlate report.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-24T19:45:51.843Z",
+          "duplicateOf": "zodia"
         }
       },
       "baselineSlugs": [
