@@ -50727,7 +50727,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "256705ba-8d5d-4a45-8086-e189caf12f9b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x19da879137fa954cd565326f8d5ba28098a630a5"
     }
   ]
 }
