@@ -40,7 +40,7 @@ export function Web3CareerQuiz() {
 
   if (showResult && result) {
     const shareText = encodeURIComponent(
-      `I took the Web3 Archetype Assessment and my result is: ${result.archetype}! Find out your Web3 personality:`
+      `I took the Web3 Archetype Assessment and my result is: ${result.archetype}!\n\nFind out your Web3 personality:`
     );
     const shareUrl = encodeURIComponent('https://hashtagweb3.com/web3-career-quiz');
     const twitterUrl = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&via=hashtag_web3`;

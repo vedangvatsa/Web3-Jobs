@@ -1526,6 +1526,10 @@ async function refreshJobsCache() {
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
+    { board: 'yellowcard', company: 'Yellow Card' },
+    { board: 'fasset', company: 'Fasset' },
+    { board: 'bitcoin', company: 'Bitcoin.com' },
+    { board: 'uphold', company: 'Uphold' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
@@ -1575,7 +1579,10 @@ async function refreshJobsCache() {
         const city = loc?.city;
         const state = loc?.state;
         const country = loc?.country || (loc as any)?.addressCountry;
-        const rawLoc = [city, state, country].filter(Boolean).join(', ');
+        let rawLoc = [city, state, country].filter(Boolean).join(', ');
+        if (!rawLoc && (detail?.locationType === 1 || (detail as any)?.locationType === '1' || opening?.locationType === '1' || (opening as any)?.locationType === 1 || detail?.isRemote || opening?.isRemote)) {
+          rawLoc = 'Remote';
+        }
         const location = rawLoc ? cleanJobLocation(rawLoc) : undefined;
         const candidate: CachedJob = {
           id: opening.id,

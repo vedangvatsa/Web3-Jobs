@@ -317,7 +317,7 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
     // name and deleted the remainder).
     const mappings: Array<[RegExp, string]> = [
       [/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|essential duties|duties|your role|what the role entails)/i, 'Key Responsibilities'],
-      [/^(what we.?re looking for|requirements|qualifications|required qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i, 'Qualifications & Requirements'],
+      [/^(what we (?:are|.?re) looking for|requirements|qualifications|required qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role|required)/i, 'Qualifications & Requirements'],
       [/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i, 'Candidate Profile & Mindset'],
       [/^(bonus points|bonus if you have|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i, 'Preferred / Nice-to-Have Qualifications'],
       [/^(our benefits|company benefits)/i, 'Company Benefits'],
@@ -1158,9 +1158,9 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
   const fullText = $('body').text();
   const rawBlocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html' | 'boundary'; text: string }> = [];
 
-  const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
+  const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|required|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
 
-  const INTRO_LEADIN_REGEX = /^(?:here(?:'s| is) what.*|in this role.*|as an? \w+.*|we are looking for someone who.*|our ideal candidate.*|your responsibilities will include.*|key deliverables include.*|you will be responsible for.*)[:]?$/i;
+  const INTRO_LEADIN_REGEX = /^(?:here(?:'s| is) what.*|in this role.*|as an? \w+.*|we are looking for someone who.*|our ideal candidate.*|your responsibilities will include.*|key deliverables include.*|you will be responsible for.*|duties include.*|responsibilities include.*)[:]?$/i;
 
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
   for (let i = 0; i < lines.length; i++) {
@@ -1204,7 +1204,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
       // Equal-opportunity headers and share/footer headings are boilerplate,
       // never section headings — drop them outright (their body sentences
       // are stripped separately).
-      if (/^(?:equal opportunity|eeo|eeoc)\b/i.test(hText)) continue;
+      if (/^(?:equal opportunity|(?:e\s+)?e?eo|eeoc)\b/i.test(hText)) continue;
       if (/^(share(\s+on|\s+this)?|follow us|connect with us)\s*:?\s*$/i.test(hText)) continue;
       if (hText && hText.length < 100) {
         rawBlocks.push({ type: 'h3', text: hText });
@@ -1218,7 +1218,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     const mdHeaderMatch = line.match(/^#{2,4}\s+(.*)$/);
     if (mdHeaderMatch) {
       const hText = mdHeaderMatch[1].replace(/[:]+$/, '').trim();
-      if (/^(?:equal opportunity|eeo|eeoc)\b/i.test(hText)) continue;
+      if (/^(?:equal opportunity|(?:e\s+)?e?eo|eeoc)\b/i.test(hText)) continue;
       if (hText && hText.length < 100) {
         rawBlocks.push({ type: 'h3', text: hText });
         continue;
@@ -1270,7 +1270,11 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     if (/be part of our talented team/i.test(cleanLine)) continue;
     if (/^We(?:'re| are) proud to be an? (?:Equal Opportunity|inclusive) Employer/i.test(cleanLine)) continue;
     if (/Difference makes us stronger and better/i.test(cleanLine)) continue;
-    if (/^(?:EEOC?|Equal Opportunity)(?:\s+Employer)?[:]?$/i.test(cleanLine)) continue;
+    if (/^Ready to join us\??$/i.test(cleanLine)) continue;
+    if (/^Are you up for the challenge\?\s*Apply today/i.test(cleanLine)) continue;
+    if (/Let's innovate, disrupt, and lead together!?/i.test(cleanLine)) continue;
+    if (/^duties include(?:, but are not limited to)?:?$/i.test(cleanLine)) continue;
+    if (/^(?:(?:E\s+)?E?EOC?|Equal Opportunity)(?:\s+Employer)?[:.]?$/i.test(cleanLine)) continue;
     if (/^Notice:\s*$/i.test(cleanLine)) continue;
     if (/Due to the (?:large amount|high volume) of (?:the )?applications/i.test(cleanLine)) continue;
     if (/Feel free to send (?:your|you) CV to/i.test(cleanLine)) continue;
@@ -1608,6 +1612,9 @@ const BOILER_SENTENCE_RES: RegExp[] = [
   makeBoilerSentenceRe('does not make [\\w\\s]*decisions on the basis of'),
   makeBoilerSentenceRe('do not discriminate'),
   makeBoilerSentenceRe('celebrat\\w+ (?:our |the )?(?:diverse|differences)'),
+  makeBoilerSentenceRe('reasonable accommodation(?:s)?'),
+  makeBoilerSentenceRe('qualified individuals with disabilities'),
+  makeBoilerSentenceRe('require assistance to complete your application'),
   /[^.!?]*\bNeed screen reading technology\?[\s\S]*?tutorial\b[^.!?]*[.!?]*/gi,
 ];
 
