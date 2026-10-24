@@ -2049,5 +2049,38 @@
     "slotKey": "2026-10-24:afternoon",
     "messageId": 193392,
     "sentAt": "2026-10-24T16:57:48.116Z"
+  },
+  "8171c96e-1246-4929-849f-2d7749df92df": {
+    "status": "reserved",
+    "reservedAt": "2026-10-24T19:33:10.007Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "headline": "Study finds partisan bias in Grok and OpenAI models",
+        "summary": "Researchers observed significant political alignment differences between two major AI systems across hundreds of simulated election scenarios.",
+        "event_rationale": "This research breakthrough highlights a distinct and critical issue regarding AI model behavior and societal impact.",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "source": "TechCrunch",
+        "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+      },
+      {
+        "index": 1,
+        "headline": "A list of discontinued or underperforming AI projects",
+        "summary": "This report tracks various AI initiatives from major companies that failed to meet goals or were canceled.",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch",
+        "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it"
+      },
+      {
+        "index": 2,
+        "headline": "Block releases new voice model",
+        "summary": "This software operates directly on a MacBook M4 Max.",
+        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "source": "TechCrunch",
+        "originalTitle": "Block’s new voice model sounds eerily human"
+      }
+    ],
+    "slotKey": "2026-10-24:evening"
   }
 }
