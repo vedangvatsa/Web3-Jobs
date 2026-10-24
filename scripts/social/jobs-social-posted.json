@@ -50427,6 +50427,35 @@
       "attemptId": "e9955428-00e2-4931-bae2-81d49bbc9abf",
       "verification": "verified",
       "postId": "urn:li:share:7519844035230912512"
+    },
+    {
+      "slug": "eng279",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-24T19:31:29.857Z",
+      "expectedText": "Stripe is hiring Software Engineer: https://hashtagweb3.com/eng279/fb?og=7",
+      "snapshot": {
+        "id": "8314283",
+        "title": "Software Engineer",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8314283",
+        "date": "2026-10-22T13:01:03-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "South San Francisco, CA",
+        "department": "Global Operations",
+        "active": true,
+        "salary": "$156.8k – $235.2k/yr",
+        "slug": "eng279",
+        "dateVerified": true
+      },
+      "payload": {
+        "message": "Stripe is hiring Software Engineer: https://hashtagweb3.com/eng279/fb?og=7",
+        "link": "https://hashtagweb3.com/eng279/fb?og=7"
+      },
+      "attemptId": "7d5c62cb-569b-406e-bcba-87acec1390c6",
+      "verification": "creating"
     }
   ]
 }
