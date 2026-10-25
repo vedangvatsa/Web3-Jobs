@@ -4337,5 +4337,107 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 155917,
     "sentAt": "2026-10-25T03:39:42.448Z"
+  },
+  "6609159f-11ee-4d4c-a8c8-ec06dc8db4e9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:32:45.961Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "2f024090-27a5-4b84-a356-2171bf454264",
+          "title": "Workplace Experience Manager",
+          "company": "Sei Labs",
+          "link": "https://jobs.ashbyhq.com/sei-labs/2f024090-27a5-4b84-a356-2171bf454264",
+          "date": "2026-10-08T12:01:44.122+00:00",
+          "source": "Ashby: Sei Labs [sei-labs]",
+          "location": "Hybrid (New York City)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr89"
+        },
+        "key": "2f024090-27a5-4b84-a356-2171bf454264",
+        "slug": "mgr89",
+        "url": "https://hashtagweb3.com/mgr89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sei Labs",
+        "title": "Workplace Experience Manager"
+      },
+      {
+        "snapshot": {
+          "id": "42f03063-5b2d-46ef-b4ec-8e0320095a5f",
+          "title": "Implementation Manager",
+          "company": "Sphere",
+          "link": "https://jobs.lever.co/sphere-laboratories/42f03063-5b2d-46ef-b4ec-8e0320095a5f",
+          "date": "2026-10-20T19:05:20.421Z",
+          "source": "Lever: Sphere [sphere-laboratories]",
+          "location": "Remote (Brazil)",
+          "workplaceType": "remote",
+          "department": "Brazil Team",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr198"
+        },
+        "key": "42f03063-5b2d-46ef-b4ec-8e0320095a5f",
+        "slug": "mgr198",
+        "url": "https://hashtagweb3.com/mgr198?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sphere",
+        "title": "Implementation Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cd390cdcd5ca",
+          "title": "Core Architect & Integration Lead - Applied AI",
+          "company": "Zero Hash",
+          "link": "https://zero-hash.breezy.hr/p/cd390cdcd5ca-core-architect-integration-lead-applied-ai",
+          "date": "2026-10-14",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Zero Hash [zero-hash]",
+          "location": "Remote (New York, NY)",
+          "isRemote": true,
+          "department": "Engineering",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://zero-hash.breezy.hr/p/cd390cdcd5ca-core-architect-integration-lead-applied-ai",
+            "checkedAt": "2026-10-15T03:33:22.071Z",
+            "bodySha256": "642355ea22c2af6cc129bb12c7e116276445e13424899710e38a68eca39e32a4",
+            "provider": "breezy",
+            "datePosted": "2026-10-14"
+          },
+          "slug": "arc23"
+        },
+        "key": "cd390cdcd5ca",
+        "slug": "arc23",
+        "url": "https://hashtagweb3.com/arc23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Core Architect & Integration Lead"
+      },
+      {
+        "snapshot": {
+          "id": "4992474101",
+          "title": "Principle Fiat Product Specialist",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4992474101",
+          "date": "2026-09-30T09:20:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+          "department": "Fiat Team",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm195"
+        },
+        "key": "4992474101",
+        "slug": "pm195",
+        "url": "https://hashtagweb3.com/pm195?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Principle Fiat Product Specialist"
+      }
+    ],
+    "message": "- Sei Labs is hiring <a href=\"https://hashtagweb3.com/mgr89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager</a>\n- Sphere is hiring <a href=\"https://hashtagweb3.com/mgr198?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Implementation Manager</a>\n- Zero Hash is hiring <a href=\"https://hashtagweb3.com/arc23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Core Architect &amp; Integration Lead - Applied AI</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm195?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principle Fiat Product Specialist</a>",
+    "slotKey": "2026-10-25:afternoon"
   }
 }
