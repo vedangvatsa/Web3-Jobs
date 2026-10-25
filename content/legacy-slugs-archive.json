@@ -149290,5 +149290,233 @@
     "link": "https://jobs.ashbyhq.com/kraken.com/dafebaed-af62-44fe-a8fe-8ae120ca08c6",
     "title": "Chief of Staff to the CEO (Administrative)",
     "company": "Kraken"
+  },
+  "mgve": {
+    "id": "49",
+    "link": "https://bitcoin.bamboohr.com/careers/49",
+    "company": "Bitcoin.com",
+    "title": "Motion Graphics & Video Editor"
+  },
+  "eng615": {
+    "id": "48",
+    "link": "https://bitcoin.bamboohr.com/careers/48",
+    "company": "Bitcoin.com",
+    "title": "L2 Software Engineer - Web"
+  },
+  "infra45": {
+    "id": "428",
+    "link": "https://yellowcard.bamboohr.com/careers/428",
+    "company": "Yellow Card",
+    "title": "Product Manager - Payments Infrastructure"
+  },
+  "cpve": {
+    "id": "348",
+    "link": "https://fasset.bamboohr.com/careers/348",
+    "company": "Fasset",
+    "title": "Creative Producer, Videographer & Editor"
+  },
+  "cmp110": {
+    "id": "426",
+    "link": "https://yellowcard.bamboohr.com/careers/426",
+    "company": "Yellow Card",
+    "title": "AML Compliance Officer, Zimbabwe"
+  },
+  "sls177": {
+    "id": "878",
+    "link": "https://uphold.bamboohr.com/careers/878",
+    "company": "Uphold",
+    "title": "Director, Enterprise API Sales"
+  },
+  "an70": {
+    "id": "452",
+    "link": "https://Mercuryo.bamboohr.com/careers/452",
+    "company": "Mercuryo",
+    "title": "Data Analyst"
+  },
+  "cmp72": {
+    "id": "8230274",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230274",
+    "company": "Stripe",
+    "title": "Legal/ Corporate Compliance Operations Associate"
+  },
+  "an59": {
+    "id": "96a4343d86ac",
+    "link": "https://bitdeer.breezy.hr/p/96a4343d86ac-global-data-center-operation-analyst",
+    "company": "Bitdeer",
+    "title": "Global Data Center Operation Analyst"
+  },
+  "dprc": {
+    "id": "880",
+    "link": "https://uphold.bamboohr.com/careers/880",
+    "company": "Uphold",
+    "title": "Senior Manager, Public Relations & Communications"
+  },
+  "pm14": {
+    "id": "339",
+    "link": "https://fasset.bamboohr.com/careers/339",
+    "company": "Fasset",
+    "title": "Product Manager - Money Movement"
+  },
+  "pm148": {
+    "id": "de72d087-7b79-4496-80b6-d6110276b1e6",
+    "link": "https://jobs.lever.co/binance/de72d087-7b79-4496-80b6-d6110276b1e6",
+    "company": "Binance",
+    "title": "Binance Accelerator Programm - Product Manager (meme)"
+  },
+  "sec59": {
+    "id": "99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+    "link": "https://jobs.lever.co/coins/99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+    "company": "Coins.ph",
+    "title": "IT Security & Systems Compliance Specialist"
+  },
+  "an10": {
+    "id": "8211233",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8211233?t=gh_src=&gh_jid=8211233",
+    "company": "Robinhood",
+    "title": "Finance & Strategy Senior Analyst"
+  },
+  "mgr88": {
+    "id": "00bcfe7d8cce",
+    "link": "https://bitdeer.breezy.hr/p/00bcfe7d8cce-payroll-manager",
+    "company": "Bitdeer",
+    "title": "Payroll Manager"
+  },
+  "lc": {
+    "id": "9ee015287c0d",
+    "link": "https://bitdeer.breezy.hr/p/9ee015287c0d-logistics-coordinator-entry-level",
+    "company": "Bitdeer",
+    "title": "Logistics Coordinator (Entry Level)"
+  },
+  "pm147": {
+    "id": "a898683e-d211-4e8c-8576-21f676993d90",
+    "link": "https://jobs.lever.co/crypto/a898683e-d211-4e8c-8576-21f676993d90",
+    "company": "Crypto.com",
+    "title": "Product Manager, Fiat & FCM"
+  },
+  "pm146": {
+    "id": "4557d4e7-7588-404d-860c-edf68a1ab200",
+    "link": "https://jobs.lever.co/crypto/4557d4e7-7588-404d-860c-edf68a1ab200",
+    "company": "Crypto.com",
+    "title": "Product Manager, Fiat & FCM"
+  },
+  "ops60": {
+    "id": "5b7ef50c-da9f-4bce-9a48-644b4670e90f",
+    "link": "https://jobs.ashbyhq.com/Polymarket/5b7ef50c-da9f-4bce-9a48-644b4670e90f",
+    "company": "Polymarket",
+    "title": "Senior Director Business Operations"
+  },
+  "infra23": {
+    "id": "6208083004",
+    "link": "https://job-boards.greenhouse.io/taxbit/jobs/6208083004",
+    "company": "TaxBit",
+    "title": "Staff Software Engineer, Cloud Infrastructure & Systems Engineering, Salt Lake City"
+  },
+  "mkt52": {
+    "id": "8175661",
+    "link": "https://stripe.com/jobs/search?gh_jid=8175661",
+    "company": "Stripe",
+    "title": "Partner Marketing Manager, Online & Regional Events"
+  },
+  "cmp63": {
+    "id": "7986826003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7986826003",
+    "company": "OKX",
+    "title": "Deputy General Counsel, Head of Americas Legal"
+  },
+  "arc11": {
+    "id": "8836991002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8836991002?gh_jid=8836991002",
+    "company": "Jane Street",
+    "title": "Architect"
+  },
+  "ops59": {
+    "id": "8186442",
+    "link": "https://stripe.com/jobs/search?gh_jid=8186442",
+    "company": "Stripe",
+    "title": "Financial Data Analyst Intern, Technical Operations"
+  },
+  "pm145": {
+    "id": "4420394009",
+    "link": "https://job-boards.greenhouse.io/turnkeycareers/jobs/4420394009",
+    "company": "Turnkey",
+    "title": "Director of Engineering, Product"
+  },
+  "pm144": {
+    "id": "ebb80f27-8c49-439c-8b5f-b3c1b889893e",
+    "link": "https://jobs.ashbyhq.com/rain/ebb80f27-8c49-439c-8b5f-b3c1b889893e",
+    "company": "Rain",
+    "title": "Senior Product Manager - Agentic Payments"
+  },
+  "pm143": {
+    "id": "e783bc49-3255-4e63-ad3e-3cb7a3c117a9",
+    "link": "https://jobs.ashbyhq.com/rain/e783bc49-3255-4e63-ad3e-3cb7a3c117a9",
+    "company": "Rain",
+    "title": "Senior Product Manager - Compliance"
+  },
+  "fu": {
+    "id": "5434646008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5434646008",
+    "company": "Breeze Cash",
+    "title": "Financial Underwriting Lead"
+  },
+  "ops58": {
+    "id": "8227572",
+    "link": "https://stripe.com/jobs/search?gh_jid=8227572",
+    "company": "Stripe",
+    "title": "People Operations Systems Administrator"
+  },
+  "mkt51": {
+    "id": "20fefe77-2f77-421a-81a9-2d4006e3e974",
+    "link": "https://jobs.ashbyhq.com/blackbird-labs-inc/20fefe77-2f77-421a-81a9-2d4006e3e974",
+    "company": "Blackbird Labs",
+    "title": "Director of Marketing"
+  },
+  "kor": {
+    "id": "8112333",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8112333?t=gh_src=&gh_jid=8112333",
+    "company": "Robinhood",
+    "title": "Knowledge & Operational Readiness Lead"
+  },
+  "dsp": {
+    "id": "5214784008",
+    "link": "http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008",
+    "company": "Block",
+    "title": "Data Scientist, Payments"
+  },
+  "cmp62": {
+    "id": "8224726",
+    "link": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
+    "company": "Coinbase",
+    "title": "Compliance, International Investigations Associate"
+  },
+  "spm": {
+    "id": "5434305008",
+    "link": "http://block.xyz/careers/jobs/5434305008?gh_jid=5434305008",
+    "company": "Block",
+    "title": "Strategic Pricing & Monetization Lead"
+  },
+  "eng318": {
+    "id": "5434325008",
+    "link": "http://block.xyz/careers/jobs/5434325008?gh_jid=5434325008",
+    "company": "Block",
+    "title": "Senior Analytics Engineer, AI & DX Analytics"
+  },
+  "be40": {
+    "id": "8230952",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230952",
+    "company": "Stripe",
+    "title": "Senior Software Engineer, Backend"
+  },
+  "urs": {
+    "id": "8230758",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230758",
+    "company": "Stripe",
+    "title": "User Risk Strategist"
+  },
+  "cmp61": {
+    "id": "8004528003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8004528003",
+    "company": "OKX",
+    "title": "Team Lead, Legal Response"
   }
 }
