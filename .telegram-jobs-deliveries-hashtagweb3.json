@@ -4441,5 +4441,80 @@
     "slotKey": "2026-10-25:afternoon",
     "messageId": 155922,
     "sentAt": "2026-10-25T11:32:58.800Z"
+  },
+  "6bd9e309-eb3d-46c2-97c1-6390e8901da1": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T19:32:22.350Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5446157008",
+          "title": "Territory Account Executive, St. Pete / Tampa, FL",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5446157008?gh_jid=5446157008",
+          "date": "2026-10-14T10:07:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Tampa, FL, United States of America",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "salary": "$45 – $67/hr",
+          "dateVerified": true,
+          "slug": "sls34"
+        },
+        "key": "5446157008",
+        "slug": "sls34",
+        "url": "https://hashtagweb3.com/sls34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "3dfc6f03-318d-490d-abbf-10e03f75899b",
+          "title": "Management Trainee (Non-Tech Track)",
+          "company": "Trust Wallet",
+          "link": "https://jobs.ashbyhq.com/trust-wallet/3dfc6f03-318d-490d-abbf-10e03f75899b",
+          "date": "2026-10-22T14:06:55.169+00:00",
+          "source": "Ashby: Trust Wallet [trust-wallet]",
+          "location": "Remote - Global",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mtnt"
+        },
+        "key": "3dfc6f03-318d-490d-abbf-10e03f75899b",
+        "slug": "mtnt",
+        "url": "https://hashtagweb3.com/mtnt?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Trust Wallet",
+        "title": "Management Trainee"
+      },
+      {
+        "snapshot": {
+          "id": "4745596005",
+          "title": "Senior DevOps Engineer",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4745596005",
+          "date": "2026-10-20T14:11:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "Chicago",
+          "department": "Technology",
+          "active": true,
+          "salary": "$200k – $250k/yr",
+          "dateVerified": true,
+          "slug": "do19"
+        },
+        "key": "4745596005",
+        "slug": "do19",
+        "url": "https://hashtagweb3.com/do19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Senior DevOps Engineer"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls34?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, St. Pete / Tampa, FL</a>\n- Trust Wallet is hiring <a href=\"https://hashtagweb3.com/mtnt?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Management Trainee (Non-Tech Track)</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/do19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>",
+    "slotKey": "2026-10-25:evening"
   }
 }
