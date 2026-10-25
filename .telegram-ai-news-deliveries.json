@@ -2150,5 +2150,38 @@
     "slotKey": "2026-10-25:afternoon",
     "messageId": 193398,
     "sentAt": "2026-10-25T11:33:54.378Z"
+  },
+  "0ef50a5c-c3ac-4b4a-920e-2247a74021f4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T19:32:45.184Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "The $15 billion ad-powered AI startup your doctor may already be using",
+        "headline": "OpenEvidence achieves $15 billion valuation for medical AI platform",
+        "summary": "The healthcare artificial intelligence startup expands rapidly among physicians despite ongoing debates over clinical accuracy and ad-supported monetization.",
+        "event_rationale": "Covers OpenEvidence reaching a $15 billion valuation for its healthcare AI platform, distinct from previous biotech and funding announcements.",
+        "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+        "source": "Ars Technica",
+        "originalTitle": "The $15 billion ad-powered AI startup your doctor may already be using"
+      },
+      {
+        "index": 1,
+        "headline": "AI investments yield no financial returns for non-tech firms",
+        "summary": "An economist says corporate America outside the technology sector has seen no financial returns from artificial intelligence spending.",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "source": "TechCrunch",
+        "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+      },
+      {
+        "index": 2,
+        "headline": "New AI wearable devices and accessories",
+        "summary": "The list includes devices such as the Muse Charm, Bee, Friend, and Plaud.",
+        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "source": "TechCrunch",
+        "originalTitle": "The hottest AI wearables and gadgets you should know about"
+      }
+    ],
+    "slotKey": "2026-10-25:evening"
   }
 }
