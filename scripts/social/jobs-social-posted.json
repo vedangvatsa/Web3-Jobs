@@ -53077,8 +53077,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "43f25c33-1b76-49fd-886c-4c21e1d65fb8",
-      "verification": "pending",
-      "postId": "6adde8963d5b27036bcd3513"
+      "verification": "verified",
+      "postId": "6adde8963d5b27036bcd3513",
+      "permalink": "https://twitter.com/hashtag_web3/status/2114318952629256433"
     }
   ]
 }
