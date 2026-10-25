@@ -4212,5 +4212,128 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 155912,
     "sentAt": "2026-10-24T19:32:07.863Z"
+  },
+  "c243f6fb-e258-45a4-91de-d6538d4690b3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T03:39:38.911Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8301264",
+          "title": "Recruiting Coordinator",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8301264",
+          "date": "2026-10-21T00:38:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "6523 Recruiting Enablement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rc3"
+        },
+        "key": "8301264",
+        "slug": "rc3",
+        "url": "https://hashtagweb3.com/rc3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Recruiting Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "d0b3e43e-92e6-42b3-8b6b-19c4902c611d",
+          "title": "Treasury Associate (Data & Automation)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/d0b3e43e-92e6-42b3-8b6b-19c4902c611d",
+          "date": "2026-09-30T09:57:55.870Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso18"
+        },
+        "key": "d0b3e43e-92e6-42b3-8b6b-19c4902c611d",
+        "slug": "aso18",
+        "url": "https://hashtagweb3.com/aso18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Treasury Associate"
+      },
+      {
+        "snapshot": {
+          "id": "5445732008",
+          "title": "Territory Account Executive, Philadelphia, PA",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5445732008?gh_jid=5445732008",
+          "date": "2026-10-19T10:56:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Philadelphia, PA, United States of America",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls304"
+        },
+        "key": "5445732008",
+        "slug": "sls304",
+        "url": "https://hashtagweb3.com/sls304?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "e3991ac70d87",
+          "title": "FinOps & Capacity Operations (Model Studio)",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/e3991ac70d87-finops-capacity-operations-model-studio",
+          "date": "2026-09-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Singapore, SG",
+          "isRemote": false,
+          "department": "AI Cloud",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/e3991ac70d87-finops-capacity-operations-model-studio",
+            "checkedAt": "2026-10-12T21:36:25.118Z",
+            "bodySha256": "df1c82bfa64424f89e824a2dc1be7005ca8ddfc257116ffd6b123363a96a026c",
+            "provider": "breezy",
+            "datePosted": "2026-09-28"
+          },
+          "slug": "ops68"
+        },
+        "key": "e3991ac70d87",
+        "slug": "ops68",
+        "url": "https://hashtagweb3.com/ops68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "FinOps & Capacity Operations"
+      },
+      {
+        "snapshot": {
+          "id": "2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+          "title": "Recruiting Operations Specialist (Contract)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+          "date": "2026-10-15T01:54:10.036+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (São Paulo, Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops106"
+        },
+        "key": "2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+        "slug": "ops106",
+        "url": "https://hashtagweb3.com/ops106?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Recruiting Operations Specialist"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/rc3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Coordinator</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/aso18?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Associate (Data &amp; Automation)</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls304?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, Philadelphia, PA</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/ops68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">FinOps &amp; Capacity Operations (Model Studio)</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/ops106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Operations Specialist (Contract)</a>",
+    "slotKey": "2026-10-25:morning"
   }
 }
