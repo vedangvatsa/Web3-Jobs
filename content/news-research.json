@@ -85593,11 +85593,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a96c31dc95e23b1e52c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T14:01:41.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "verified-event",
+      "note": "Read the Bitcoin Magazine Oct 23 report, the Korean Digital Asset Oct 23 article on the Oct 22 audit filing, the MOFE Oct 6 press release on the decree, and crypto.news Oct 23 on the December transfer rules. Drafted bokforex (674 words) with a CC0 Bank of Korea branch photo; quality, images, formatting, duplicates, tsc and all outbound links pass under the readiness user agent.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.digitalasset.works/news/articleView.html?idxno=43792",
+          "outcome": "read"
+        },
+        {
+          "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:21:22.488Z",
+      "articleSlug": "bokforex",
+      "lastReviewedDay": "2026-10-25"
     },
     "9f59f415c9b16aec5fd0": {
       "source": "Bitcoin Magazine",
@@ -156219,6 +156238,27 @@
           ],
           "reviewedAt": "2026-10-25T04:09:09.461Z",
           "duplicateOf": "fcadefi"
+        },
+        "0a96c31dc95e23b1e52c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Bitcoin Magazine Oct 23 report, the Korean Digital Asset Oct 23 article on the Oct 22 audit filing, the MOFE Oct 6 press release on the decree, and crypto.news Oct 23 on the December transfer rules. Drafted bokforex (674 words) with a CC0 Bank of Korea branch photo; quality, images, formatting, duplicates, tsc and all outbound links pass under the readiness user agent.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.digitalasset.works/news/articleView.html?idxno=43792",
+              "outcome": "read"
+            },
+            {
+              "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:21:22.488Z",
+          "articleSlug": "bokforex"
         }
       },
       "baselineSlugs": [
