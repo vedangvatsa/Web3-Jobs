@@ -2253,7 +2253,7 @@
     "sentAt": "2026-10-25T03:41:32.609Z"
   },
   "b422c2e4-22e7-4f26-b800-a60dd890c1b1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T11:34:17.934Z",
     "stories": [
       {
@@ -2281,6 +2281,8 @@
         "originalTitle": "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close"
       }
     ],
-    "slotKey": "2026-10-25:afternoon"
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 65776,
+    "sentAt": "2026-10-25T11:34:21.200Z"
   }
 }
