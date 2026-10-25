@@ -7453,5 +7453,127 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 141,
     "sentAt": "2026-10-24T19:31:56.941Z"
+  },
+  "8479eaa1-92b4-4590-a177-6bde0e6f55cc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T03:39:15.476Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5005311101",
+          "title": "Global Community Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5005311101",
+          "date": "2026-10-14T01:48:07-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Kuala Lumpur, Malaysia",
+          "department": "Marketing BUIDL",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cm11"
+        },
+        "key": "5005311101",
+        "slug": "cm11",
+        "url": "https://hashtagweb3.com/cm11?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Global Community Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8010134003",
+          "title": "Global Financial Operations Platform Director",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8010134003",
+          "date": "2026-09-30T22:23:56-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong; Singapore",
+          "department": "Finance Department",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops78"
+        },
+        "key": "8010134003",
+        "slug": "ops78",
+        "url": "https://hashtagweb3.com/ops78?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Global Financial Operations Platform Director"
+      },
+      {
+        "snapshot": {
+          "id": "edf7f7fba95b",
+          "title": "Senior Security Engineer - Privacy & Data Security",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/edf7f7fba95b-senior-security-engineer-privacy-data-security",
+          "date": "2026-09-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Penang, MY",
+          "isRemote": false,
+          "department": "AI Cloud",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/edf7f7fba95b-senior-security-engineer-privacy-data-security",
+            "checkedAt": "2026-10-12T21:36:27.630Z",
+            "bodySha256": "2507fa75dc7d0107f08bb90a52a46613b0f9500048a919ddc0f69348046a62e2",
+            "provider": "breezy",
+            "datePosted": "2026-09-28"
+          },
+          "slug": "sec67"
+        },
+        "key": "edf7f7fba95b",
+        "slug": "sec67",
+        "url": "https://hashtagweb3.com/sec67?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6210069004",
+          "title": "Financial Risk Manager",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6210069004",
+          "date": "2026-09-28T17:20:54-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr97"
+        },
+        "key": "6210069004",
+        "slug": "mgr97",
+        "url": "https://hashtagweb3.com/mgr97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Financial Risk Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5445956008",
+          "title": "Head of Social - Square",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5445956008?gh_jid=5445956008",
+          "date": "2026-10-09T16:47:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "20220 S&M - Marketing - Square Social",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ss2"
+        },
+        "key": "5445956008",
+        "slug": "ss2",
+        "url": "https://hashtagweb3.com/ss2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Head of Social"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/cm11?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Community Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Financial Operations Platform Director</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sec67?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer - Privacy &amp; Data Security</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Risk Manager</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/ss2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Social - Square</a>",
+    "slotKey": "2026-10-25:morning"
   }
 }
