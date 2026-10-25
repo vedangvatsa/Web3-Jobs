@@ -794,6 +794,9 @@
   "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
   "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
   "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+  "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+  "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2164,6 +2167,12 @@
   "Hackers got a four-day head start on epic PHP2Shell vulnerability",
   "Data Storage Adds Unseen Costs to AI Inference",
   "AI’s hidden storage bill: What inference leaves behind",
+  "OpenEvidence achieves $15 billion valuation for medical AI platform",
+  "The $15 billion ad-powered AI startup your doctor may already be using",
+  "AI investments yield no financial returns for non-tech firms",
+  "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "New AI wearable devices and accessories",
+  "The hottest AI wearables and gadgets you should know about",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2475,5 +2484,8 @@
   "fp:biological|biotech|biotechnology|blind|claim|current|download|examin|gap|goal",
   "fp:access|agent|app|are|assistant|availabl|can|her|liv|messag",
   "fp:attacker|began|day|developer|disclosur|epic|flaw|four|got|hacker",
-  "fp:accumulat|add|back|behind|bill|business|cost|data|end|expens"
+  "fp:accumulat|add|back|behind|bill|business|cost|data|end|expens",
+  "fp:15b|accuracy|achiev|already|among|clinical|debat|despit|doctor|expand",
+  "fp:america|apollo|corporat|deliver|economist|financial|firm|investment|most|non",
+  "fp:accessory|bee|charm|devic|friend|gadget|hottest|includ|know|list"
 ]

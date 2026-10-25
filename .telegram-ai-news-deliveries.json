@@ -2152,7 +2152,7 @@
     "sentAt": "2026-10-25T11:33:54.378Z"
   },
   "0ef50a5c-c3ac-4b4a-920e-2247a74021f4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T19:32:45.184Z",
     "stories": [
       {
@@ -2182,6 +2182,8 @@
         "originalTitle": "The hottest AI wearables and gadgets you should know about"
       }
     ],
-    "slotKey": "2026-10-25:evening"
+    "slotKey": "2026-10-25:evening",
+    "messageId": 193400,
+    "sentAt": "2026-10-25T19:33:07.129Z"
   }
 }
