@@ -52927,8 +52927,9 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "13eada3f-3e54-41d7-b061-3f24e2d134ad",
-      "verification": "pending",
-      "postId": "6add7b29e4be8a4d868ca724"
+      "verification": "verified",
+      "postId": "6add7b29e4be8a4d868ca724",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519967234832855040"
     }
   ]
 }
