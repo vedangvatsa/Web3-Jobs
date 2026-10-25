@@ -54848,8 +54848,9 @@
         "link_attachment": "https://hashtagweb3.com/ops32/th?og=7"
       },
       "attemptId": "d8945fb2-82e9-489d-9f82-0ac186f8bd66",
-      "verification": "creating",
-      "containerId": "18098518685199925"
+      "verification": "pending",
+      "containerId": "18098518685199925",
+      "postId": "18130938931880164"
     }
   ]
 }
