@@ -226,7 +226,8 @@
     "eng628",
     "dcr",
     "be84",
-    "wr9"
+    "wr9",
+    "ops32"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -302,8 +303,7 @@
     "sc",
     "aso42",
     "sec116",
-    "be79",
-    "ops32"
+    "be79"
   ],
   "history": [
     {
