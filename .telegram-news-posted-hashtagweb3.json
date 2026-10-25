@@ -806,6 +806,9 @@
   "https://hashtagweb3.com/stakingrecord?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nearissuance?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/honeyb?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hoodidelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/utexomint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/winklevosspac?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2325,6 +2328,12 @@
   "NEAR opens House of Stake vote to cut annual token issuance to 1.6%",
   "Nectar Group raises $5 million for Bitcoin yield platform HoneyB",
   "Nectar Group raises $5M seed to build HoneyB, a Bitcoin yield platform for institutions",
+  "Ethereum delays Hoodi testnet upgrade over smart contract risks",
+  "Ethereum postpones Glamsterdam's Hoodi testnet activation over contract risks",
+  "Utexo begins early testing for Bitcoin-bridged USDT",
+  "Utexo opens early access to bridged USDT on Bitcoin ahead of Nov. 28 launch",
+  "Winklevoss Super PAC spends $81,000 on Texas mailers",
+  "Winklevoss super PAC reports first Texas Senate mail buy of $81,000",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2681,5 +2690,8 @@
   "fp:acinq|address|are|day|eclair|exploit|fiv|install|lightn|network",
   "fp:438m|4405m|activ|bitwis|drop|eth|fall|grew|gross|hit",
   "fp:annual|cut|from25|hous|issuanc|keep|lower|maximum|near|open",
-  "fp:against|asset|borrow|build|can|credit|group|honeyb|institution|nectar"
+  "fp:against|asset|borrow|build|can|credit|group|honeyb|institution|nectar",
+  "fp:activation|analyz|cancel|contract|delay|developer|eip8037|exist|further|glamsterdam",
+  "fp:access|ahead|begin|bridg|can|early|exchang|network|nov28|november28",
+  "fp:000|buy|digital|freedom|fund|jam|ken|mail|mailer|oppos"
 ]

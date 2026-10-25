@@ -2187,7 +2187,7 @@
     "sentAt": "2026-10-24T19:34:17.409Z"
   },
   "b8012b91-d499-452c-ab4e-f83c9c453688": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T03:40:09.838Z",
     "stories": [
       {
@@ -2215,6 +2215,8 @@
         "originalTitle": "Winklevoss super PAC reports first Texas Senate mail buy of $81,000"
       }
     ],
-    "slotKey": "2026-10-25:morning"
+    "slotKey": "2026-10-25:morning",
+    "messageId": 155918,
+    "sentAt": "2026-10-25T03:40:14.959Z"
   }
 }
