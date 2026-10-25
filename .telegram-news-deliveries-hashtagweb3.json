@@ -2220,7 +2220,7 @@
     "sentAt": "2026-10-25T03:40:14.959Z"
   },
   "6925894c-90d8-4cac-b00d-b4ddf09d1700": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T11:35:50.334Z",
     "stories": [
       {
@@ -2248,6 +2248,8 @@
         "originalTitle": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000"
       }
     ],
-    "slotKey": "2026-10-25:afternoon"
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 155923,
+    "sentAt": "2026-10-25T11:35:55.441Z"
   }
 }

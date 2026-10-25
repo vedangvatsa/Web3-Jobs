@@ -809,6 +809,9 @@
   "https://hashtagweb3.com/hoodidelay?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/utexomint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/winklevosspac?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/occgenius?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mump2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2334,6 +2337,12 @@
   "Utexo opens early access to bridged USDT on Bitcoin ahead of Nov. 28 launch",
   "Winklevoss Super PAC spends $81,000 on Texas mailers",
   "Winklevoss super PAC reports first Texas Senate mail buy of $81,000",
+  "OCC issues final GENIUS Act rules for payment stablecoins",
+  "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline",
+  "Optimum launches mump2p protocol on Ethereum mainnet",
+  "Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators",
+  "Bitcoin price dip causes $404 million in long position losses",
+  "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2693,5 +2702,8 @@
   "fp:against|asset|borrow|build|can|credit|group|honeyb|institution|nectar",
   "fp:activation|analyz|cancel|contract|delay|developer|eip8037|exist|further|glamsterdam",
   "fp:access|ahead|begin|bridg|can|early|exchang|network|nov28|november28",
-  "fp:000|buy|digital|freedom|fund|jam|ken|mail|mailer|oppos"
+  "fp:000|buy|digital|freedom|fund|jam|ken|mail|mailer|oppos",
+  "fp:act|agency|ahead|deadlin|effect|final|finaliz|genius|issu|issuer",
+  "fp:are|block|exist|faster|gossipsub|mainnet|mump2p|network|operator|optimum",
+  "fp:000|404m|773m|below|briefly|caus|consecutiv|day|dip|etf"
 ]
