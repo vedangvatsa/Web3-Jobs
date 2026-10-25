@@ -85188,9 +85188,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "66553f83e2cc41d6224d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T01:35:00.000Z",
       "lastSeenAt": "2026-10-24T08:24:01.469Z",
       "articleSlug": "sectokenization",
@@ -85224,7 +85224,45 @@
         "updatedAt": "2026-10-25T03:55:00.409Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Unchained Oct 23 report plus Decrypt and Cointelegraph coverage of the same release, and opened the SEC primary sources with a source-readiness User-Agent: press release 2026-109 (Oct 23, 2026) and the FY2027 priorities PDF. Verified in the PDF that tokenization appears in the clearing-agency high-risk list and under Regulation SCI next to SI, extended trading hours and quantum computing; confirmed zero occurrences of tokenization in the 2026 PDF, a Crypto Assets section in the 2025 PDF, and no crypto, digital asset, blockchain or stablecoin terms in the 2027 PDF. Drafted content/articles/sectokenization.md (684 counted words), hero downloaded and compressed to 301KB, quality, formatting, image and duplicate audits clean, all nine outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/sec-examiners-set-sights-on-tokenization-at-clearing-agencies-for-fiscal-2027/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/files/2027-exam-priorities.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/files/2026-exam-priorities.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/files/2025-exam-priorities.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/eu-securities-watchdog-puts-ai-and-tokenization-on-supervisors-agenda-for-2027/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:59:09.814Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "cd1921db4a3497276de7": {
       "source": "Unchained",
@@ -85330,11 +85368,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "a5bca103032b7808f8db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T18:54:55.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "Same SEC FY2027 examination priorities release covered in content/articles/sectokenization.md; the Decrypt report on super intelligence and tokenization in the 2027 list was read and cited there.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:59:09.814Z",
+      "duplicateOf": "sectokenization",
+      "mergedInto": "66553f83e2cc41d6224d",
+      "lastReviewedDay": "2026-10-25"
     },
     "381adeea29bd6b4667c5": {
       "source": "Cointelegraph",
@@ -85351,11 +85405,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "381adeea29bd6b4667c5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T16:08:40.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "Same SEC FY2027 examination priorities release covered in content/articles/sectokenization.md; the Cointelegraph report on tokenization as a high-risk area was read and cited there.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:59:09.814Z",
+      "duplicateOf": "sectokenization",
+      "mergedInto": "66553f83e2cc41d6224d",
+      "lastReviewedDay": "2026-10-25"
     },
     "53f7a2aa3977df9fe097": {
       "source": "The Defiant",
@@ -155855,6 +155925,83 @@
             }
           ],
           "reviewedAt": "2026-10-25T03:49:34.341Z"
+        },
+        "66553f83e2cc41d6224d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Unchained Oct 23 report plus Decrypt and Cointelegraph coverage of the same release, and opened the SEC primary sources with a source-readiness User-Agent: press release 2026-109 (Oct 23, 2026) and the FY2027 priorities PDF. Verified in the PDF that tokenization appears in the clearing-agency high-risk list and under Regulation SCI next to SI, extended trading hours and quantum computing; confirmed zero occurrences of tokenization in the 2026 PDF, a Crypto Assets section in the 2025 PDF, and no crypto, digital asset, blockchain or stablecoin terms in the 2027 PDF. Drafted content/articles/sectokenization.md (684 counted words), hero downloaded and compressed to 301KB, quality, formatting, image and duplicate audits clean, all nine outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/sec-examiners-set-sights-on-tokenization-at-clearing-agencies-for-fiscal-2027/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/files/2027-exam-priorities.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/files/2026-exam-priorities.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/files/2025-exam-priorities.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/eu-securities-watchdog-puts-ai-and-tokenization-on-supervisors-agenda-for-2027/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:59:09.814Z",
+          "articleSlug": "sectokenization"
+        },
+        "a5bca103032b7808f8db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same SEC FY2027 examination priorities release covered in content/articles/sectokenization.md; the Decrypt report on super intelligence and tokenization in the 2027 list was read and cited there.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:59:09.814Z",
+          "duplicateOf": "sectokenization",
+          "mergedInto": "66553f83e2cc41d6224d"
+        },
+        "381adeea29bd6b4667c5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same SEC FY2027 examination priorities release covered in content/articles/sectokenization.md; the Cointelegraph report on tokenization as a high-risk area was read and cited there.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:59:09.814Z",
+          "duplicateOf": "sectokenization",
+          "mergedInto": "66553f83e2cc41d6224d"
         }
       },
       "baselineSlugs": [
