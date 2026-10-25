@@ -870,27 +870,6 @@
     }
   },
   {
-    "name": "Ethereum Institutional Summit 2026",
-    "url": "https://eis.fracton.ventures",
-    "emails": [
-      "contact@fracton.ventures"
-    ],
-    "event": {
-      "id": "w3v-ethereum-institutional-summit-2026",
-      "name": "Ethereum Institutional Summit 2026",
-      "description": "Ethereum Institutional Summit 2026: invitation-only Tokyo summit by Fracton Ventures during ETHTokyo Week in Central Tokyo.",
-      "startDate": "2026-09-25T08:00:00.000Z",
-      "endDate": "2026-09-25T16:00:00.000Z",
-      "city": "Nakano City",
-      "country": "JP",
-      "location": "Nakano City, JP",
-      "url": "https://eis.fracton.ventures",
-      "coverImage": "https://eis.fracton.ventures/opengraph-image?cd0b264fee0666ff",
-      "bypassedFilter": true,
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "EastPoint 2026",
     "url": "https://www.eastpoint.xyz",
     "emails": [

@@ -7826,7 +7826,8 @@
     "attendanceMode": "offline",
     "coverImage": "/events/discovery-evt-jhfnev6fvw7vznj-352415ca.webp",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "sourceVerification": {
       "url": "https://luma.com/cz51ibrc",
@@ -7905,7 +7906,8 @@
     "attendanceMode": "offline",
     "coverImage": "/events/discovery-evt-mbetgg2plhndbtp-bd0cad7d.webp",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "sourceVerification": {
       "url": "https://luma.com/tzvdnkkj",
@@ -8047,7 +8049,11 @@
       "addressLocality": "Mumbai",
       "addressCountry": "IN",
       "location": "Marine Drive Jogging Track, Nariman Point, Mumbai, India"
-    }
+    },
+    "sideEventFor": [
+      "devcon",
+      "ibw"
+    ]
   },
   {
     "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
@@ -8069,7 +8075,8 @@
     "attendanceMode": "offline",
     "coverImage": "/events/discovery-evt-crfungdw4avqtjy-1afc67f8.webp",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "sourceVerification": {
       "url": "https://luma.com/unfollowbombay",
@@ -8140,7 +8147,8 @@
     "attendanceMode": "offline",
     "coverImage": "/events/discovery-evt-mc0qvi7lt4zh1da-74e4f9b4.webp",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "sourceVerification": {
       "url": "https://luma.com/4s9s062i",

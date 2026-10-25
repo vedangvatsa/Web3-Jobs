@@ -1646,21 +1646,6 @@
       ]
     },
     {
-      "id": "w3v-ethereum-institutional-summit-2026",
-      "file": "events-cache.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://eis.fracton.ventures/",
-        "fetchedAt": "2026-09-20T00:20:56.083Z",
-        "method": "official-section",
-        "pageTitle": "Ethereum Institutional Summit 2026 · Tokyo · Sep 25, 2026",
-        "sha256": "9e061ebf9f348f487d0e178c5ea10ba0466054e78270900ab3c22cbff29a8465"
-      },
-      "previousStartDate": "2026-09-25T08:00:00.000Z",
-      "characters": 1358,
-      "preview": "## About\n\nA one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.\n\nThe summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.\n\nThe summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.\n\nStablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols — these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.\n\nHeld in English, wit"
-    },
-    {
       "id": "w3v-eastpoint2026",
       "file": "events-cache.json",
       "status": "source-backed",

@@ -355,28 +355,6 @@
     "slug": "sec"
   },
   {
-    "id": "w3v-ethereum-institutional-summit-2026",
-    "name": "Ethereum Institutional Summit 2026",
-    "description": "## About\n\nA one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.\n\nThe summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.\n\nThe summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.\n\nStablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols — these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.\n\nHeld in English, with Japanese translation provided including subtitles. Closed Roundtable sessions operate under the Chatham House Rule.\n\nEthereum is the most accessible public blockchain in the world — and, in fact, the world’s largest stablecoin network. Yet one challenge remains: to institutional investors, it can look “too public.” What will it take, right now, for more institutional assets to be built and put to work on Ethereum? That is the missing piece of the puzzle — and this summit exists to confront it head-on: the future in which institutions run on Ethereum.",
-    "startDate": "2026-09-25T08:00:00.000Z",
-    "endDate": "2026-09-25T16:00:00.000Z",
-    "city": "Nakano City",
-    "country": "Japan",
-    "location": "Nakano City, JP",
-    "url": "https://eis.fracton.ventures",
-    "coverImage": "/events/w3v-ethereum-institutional-summit-2026-0a705722.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "descriptionSource": {
-      "url": "https://eis.fracton.ventures/",
-      "fetchedAt": "2026-09-20T00:20:56.083Z",
-      "method": "official-section",
-      "pageTitle": "Ethereum Institutional Summit 2026 · Tokyo · Sep 25, 2026",
-      "sha256": "9e061ebf9f348f487d0e178c5ea10ba0466054e78270900ab3c22cbff29a8465"
-    }
-  },
-  {
     "id": "luma-evt-yft0JYJNpkPqwAB",
     "name": "Boston DAO Converge: Crypto, AI & the Future of Agentic Finance",
     "description": "Converge is one afternoon built to do a single thing: get every corner of crypto into the same room and pointed at the same questions. Policy, stablecoins, and AI. None of them belong to any one chain.\n\nThis is what ETHBoston and Solana Boston become in 2026. Same organizers, same standard, no longer split by ecosystem.\n\n## On stage:\n\n• Coinbase on x402 and agentic onchain payments\n• Fidelity recording the FCAT Crypto Brief live\n• Circle Research on privacy in payments\n• Blockworks Research on the Token Transparency Framework\n• SEC, the CFTC, and state fight over perpetuals\n• Allora Labs on AI, pricing, and trading digital assets\n• Quip on post-quantum security\n• Lightning talks, short-format pitches from builders across the afternoon\n• Groma on real estate tokenization\n• A policy panel on market structure legislation and what passes before the midterms\n• More to come!\n\n## Three questions worth an afternoon\n\nStablecoins. The most boring and most consequential thing in crypto. Payment rails, treasury operations, bank integration, and what actually changes when dollars settle instantly and globally by default. Boston has a real claim on this one.\n\nAI. Agents are starting to hold keys, move value, and make decisions without a human in the loop. Agentic finance is the part of the AI story that runs on crypto rails, and it is arriving well ahead of the frameworks built for it.\n\nPolicy. Market structure legislation is moving and the midterms are months away. The rules being written right now decide what everyone else in the room is allowed to build. We are putting candidates, officeholders, counsel, and advocates into sessions with the founders they regulate.\n\nAdditional programming spans DeFi, security, infrastructure, and market structure.\n\n## Why Boston\n\nBoston is where crypto meets institutional capital. Fidelity, Circle, Coinbase, Castle Island Ventures, and Accomplice all operate here, and MIT, Harvard, BU, and Northeastern feed a steady pipeline of founders and engineers into the ecosystem. Very few cities have both. Converge is the room where the two sides actually meet.\n\nConverge is part of Boston Fintech Week, which puts this audience in front of the city's traditional finance and fintech crowd, and puts that crowd in front of you.\n\n## The room\n\nBuilders beside investors. Startups beside institutions. Students beside operators. Two stages on the 16th and 17th floors of Foley Hoag's conference center at 155 Seaport Blvd, with dedicated sponsor and networking space and harbor views.\n\n## After the sessions\n\nThe Converge after-party runs at Cisco Brewers Seaport in the open-air bungalow lounge, a short walk from the venue.\n\n## 2026 Sponsors\n\nPlatinum\n\n• Fidelity FCAT\n• Foley Hoag\n\nGold\n\n• Quip Network\n• Groma\n• Stand with Crypto\n\nSilver\n\n• Yearn\n\nSponsorship for 2026 is still open; reach out to us!\n\n## Presented by The Boston DAO\n\nThe Boston DAO has run this city's independent crypto conferences since 2019. ETHBoston in 2019, 2023, 2024, and 2025. Solana Boston in 2024 and 2025, the first Solana city conference held anywhere. Converge is the two of them, merged.\n\nFriday, September 25, 2026 · Foley Hoag Conference Center, Seaport · Part of Boston Fintech Week · Supported by Stand with Crypto",
@@ -23428,7 +23406,8 @@
     },
     "slug": "perps-and-chai-hyprearn-mumbai",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "descriptionSource": {
       "url": "https://luma.com/58b4n6e6",
@@ -26430,7 +26409,8 @@
     "attendanceMode": "offline",
     "coverImage": "/events/luma-evt-mr3xwaweaxmdgam-c64dc448.webp",
     "sideEventFor": [
-      "devcon"
+      "devcon",
+      "ibw"
     ],
     "sourceVerification": {
       "url": "https://luma.com/jlisaxzz",

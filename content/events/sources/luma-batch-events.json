@@ -4376,99 +4376,6 @@
     }
   },
   {
-    "id": "luma-batch-WSthODxaN4iBzXM",
-    "slug": "d65e3064",
-    "name": "Hacettepe Blockchain Shipyard",
-    "description": "**SAAT İÇİN WHATSAPP GRUBUNU TAKİPTE KALIN**\n\nYeni döneme birlikte başlıyoruz! ⚡Hacettepe Blockchain olarak yeni dönemin ilk etkinliğinde Solana Superteam Türkiye ile bir araya geliyoruz.Bu buluşmada:\n\n→ Sizler ile tanışacağız, hedeflerinizi fikirlerinizi öğreneceğiz.→ Hacettepe Blockchain ekibi olarak yeni dönem planlarımızı paylaşacağız. → Solana ve Superteam Türkiye ekosisteminin Türkiye’deki yazılımcı, girişimci ve creatorlar için yarattığı fırsatları yakından tanıyacağız. → $3M+ toplam ödül ve yatırım havuzuna sahip olan dünyanın en büyük online hackathonunu konuşacağız.→ Ve tabii ki etkinliğe özel merch’lerimiz de olacak 👀Blockchain’e, Web3’e, Solana’ya ya da yeni şeyler üretmeye ilginiz varsa gelin tanışalım.Yeni dönemin ilk buluşmasında görüşmek üzere! 👋\n\nHacettepe Blockchain hakkında;\n\nBizler, Web3 ekosisteminde birlikte öğrenen ve üreten bir geliştirici topluluğuz. Amacımız, edindiğimiz tecrübeleri paylaşarak hem katılacağımız yarışmalardaki ekiplerimizi desteklemek hem de bu alanda geliştirme yapmak isteyenlere rehberlik etmektir.\n\n@hublockchain (Instagram/X/Linkedin)\n\nSolana hakkında;\n\nSolana, yüksek performans ve düşük işlem maliyetleri sunmak üzere tasarlanmış, açık kaynaklı bir blokzincir ağıdır. solana.com & solana.orgSuperteam Türkiye hakkında;\n\nSuperteam Türkiye, Solana Vakfı tarafından desteklenen, geliştiriciler, girişimciler ve yaratıcı profesyonellerden oluşan küresel Superteam ağının Türkiye topluluğudur. tr.superteam.fun",
-    "startDate": "2026-09-25T15:00:00.000Z",
-    "endDate": "2026-09-25T17:00:00.000Z",
-    "city": "Çankaya",
-    "country": "Türkiye",
-    "location": "Hacettepe Üniversitesi Bilgisayar Mühendisliği, Hacettepe Üniversitesi Bilgisayar Mühendisliği, Üniversiteler, Hacettepe Beytepe Kampüsü No:21, 06800 Çankaya/Ankara, Türkiye",
-    "url": "https://luma.com/d65e3064",
-    "registrationUrl": "https://luma.com/d65e3064",
-    "coverImage": "/events/luma-batch-WSthODxaN4iBzXM-7560fd56.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye",
-      "Hacettepe Blockchain"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Hacettepe Üniversitesi Bilgisayar Mühendisliği",
-    "addressLocality": "Çankaya",
-    "addressRegion": "Ankara",
-    "addressCountry": "TR",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Türkiye",
-      "url": "https://luma.com/user/SuperteamTR"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/d65e3064",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/d65e3064",
-      "eventId": "calev-WSthODxaN4iBzXM",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-6rFjYOqktYHjSC7",
-    "slug": "oe5e6nqm",
-    "name": "SuperteamTR — Colosseum Office Hours",
-    "description": "Bring your blocker.\n\nEvery Friday, we get builders in one room and work through whatever is slowing them down.\n\nBring your:\n\n→ idea you’re not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting\n\nWe’ll help you figure out what’s worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.\n\nSometimes the best part is hearing another team get challenged on the exact thing you haven’t thought about yet.\n\nEvery Friday, 19:00. One hour.",
-    "startDate": "2026-09-25T16:00:00.000Z",
-    "endDate": "2026-09-25T17:00:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/oe5e6nqm",
-    "registrationUrl": "https://luma.com/oe5e6nqm",
-    "coverImage": "/events/luma-batch-6rFjYOqktYHjSC7-afdc30f8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Türkiye",
-      "url": "https://luma.com/user/SuperteamTR"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/oe5e6nqm",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/oe5e6nqm",
-      "eventId": "calev-6rFjYOqktYHjSC7",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-aZmT8wl05vtDjth",
     "slug": "ahy0kptc",
     "name": "Vancouver VibeStation",
@@ -8981,36 +8888,6 @@
     }
   },
   {
-    "id": "luma-batch-evtYaCOkWzeExqGf",
-    "slug": "dg17l7mq",
-    "name": "Co-Working Fridays Berlin",
-    "description": "Join us every Friday for a co-working day with Superteam Germany at Circuit Berlin.\n\nBring your laptop, work on your project, and spend the day alongside other founders, developers, designers, researchers, and builders.\n\nWhether you’re already shipping something or exploring what to build next, you’re welcome. You don’t need to be building on Solana to join.\n\nWhat it is\n\nDedicated time to work on your own project\n\nA room full of people building and exploring new ideas\n\nA place to exchange ideas, get feedback, and solve blockers together\n\nAn opportunity to meet the Superteam Germany community and discover what’s happening across Solana and frontier tech\n\nWho it’s for\n\nAnyone who is building something, shipping something, or exploring an idea they want to turn into something real.\n\nWhat happens\n\nMeet other builders and see what they’re working on\n\nExchange feedback and get help with blockers\n\nLearn more about Solana if you’re curious\n\nOccasional demos, discussions, and knowledge sharing\n\nThe day\n\n09:00 — Doors open & coworking starts\n13:00 — Quick intros so everyone knows who’s in the room (30s each)\n18:00 — Wrap",
-    "startDate": "2026-09-25T08:00:00.000Z",
-    "endDate": "2026-09-25T16:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "w3.hub, w3.hub, Möckernstraße 120, 10963 Berlin, Germany",
-    "url": "https://luma.com/dg17l7mq",
-    "registrationUrl": "https://luma.com/dg17l7mq",
-    "coverImage": "/events/luma-batch-evtYaCOkWzeExqGf-c2a55af9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Germany"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/dg17l7mq",
-      "eventId": "evt-YaCOkWzeExqGfDe",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtFhAaGmCkK7fSP",
     "slug": "hc3wgjrn",
     "name": "Berlin Builder HQ: Build with AI Powered by Stellar",
@@ -12214,36 +12091,6 @@
     }
   },
   {
-    "id": "luma-batch-evtH9O4029YFKAy3",
-    "slug": "yp0bmykk",
-    "name": "Hermes agent vuela en Madrid",
-    "description": "Hermes Wings Madrid\n\nEl primer evento Hermes en España\n\nEstamos organizando el primer encuentro oficial de la comunidad Hermes en España y queremos que sea diferente.\n\nUn día pensado por y para builders. Sin presentaciones vacías ni postureo corporativo. Solo gente real compartiendo lo que está construyendo: agents, herramientas, experimentos, infraestructura, arte, lo que sea que esté moviendo la aguja.\n\nEl formato será cercano, directo y sin filtros. Habrá espacio para exponer proyectos, charlas cortas de builders, networking de calidad y buenas vibras.\n\nSi estás construyendo algo interesante en el ecosistema Hermes / AI agents /  ZK o cualquier cosa que realmente importe, este es tu evento.\n\nPlazas limitadas para mantener la calidad y el ambiente builder.\n\n¿Quieres exponer tu trabajo o proyecto?\n\nYa tenemos dos ponentes cerrados y aún quedan plazas.\n\nEscríbenos.\n\nCook the lobster, run on wings.",
-    "startDate": "2026-09-25T14:00:00.000Z",
-    "endDate": "2026-09-25T17:30:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "MIL ( Madrid Innovation Lab ), MIL ( Madrid Innovation Lab ), de la comunidad, C. de Bravo Murillo, 39, Local interior, Chamberí, 28015 Madrid, Spain",
-    "url": "https://luma.com/yp0bmykk",
-    "registrationUrl": "https://luma.com/yp0bmykk",
-    "coverImage": "/events/luma-batch-evtH9O4029YFKAy3-7d3931a9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Madrid",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/yp0bmykk",
-      "eventId": "evt-H9O4029YFKAy3it",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtvb6HkfwgcZ0TH",
     "slug": "ph154rqh",
     "name": "Madrid Builder HQ: Build with AI powered by Stellar",
@@ -12358,36 +12205,6 @@
     "sourceVerification": {
       "url": "https://luma.com/fmam7qi6",
       "eventId": "evt-A3LD8spkbZLai1Q",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtZqVQO2A6TUP3Z",
-    "slug": "3nr6u4ln",
-    "name": "Nexa Blockchain Oslo community seed event - Talk: What’s unique about the Nexa blockchain? + pizza and beer",
-    "description": "Now that the mourning period for the late king Harald V has ended it’s appropriate to launch the first event for the Nexa community in Oslo Norway.\n\nSince the host jQrgen who is a developer at Nexa is based at the nerd collective (Nerdekollektivet) Oslo. This a natural spot to start the community.\n\nthe goal is to bring together people that want to build smart contracts on Nexa and learn about how an advanced version of Bitcoin can look like since Nexa is a software-fork of Bitcoin with a new genesis block.\n\nLet’s start the Nexa Norway community with a talk about how Nexa is unique and then discuss what events would be interesting  in the future over beer and pizza.\n\nFor example  smart contract hackathons for businesses, startups or game development.\n\nFor example talks by the Nexa team and anything else related to building softwares and businesses on Nexa.\n\nWe could connect Nexa with music and art with for example NTFs\n\nJoin the Norwegian-speaking Nexa telegram here: https://t.me/@nexa_nor\n\nThere will be an airdrop download Wally Wallet (wallywallet.org) to receive it.",
-    "startDate": "2026-09-25T15:00:00.000Z",
-    "endDate": "2026-09-25T18:00:00.000Z",
-    "city": "Oslo",
-    "country": "Norway",
-    "location": "Oslo, Oslo, Norway",
-    "url": "https://luma.com/3nr6u4ln",
-    "registrationUrl": "https://luma.com/3nr6u4ln",
-    "coverImage": "/events/luma-batch-evtZqVQO2A6TUP3Z-905e38b8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Oslo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/3nr6u4ln",
-      "eventId": "evt-ZqVQO2A6TUP3Z9t",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -12925,36 +12742,6 @@
     "sourceVerification": {
       "url": "https://luma.com/superteam-60dw",
       "eventId": "evt-ViTEAEote3jONip",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt1srQAJm3QZVcK",
-    "slug": "superteam-rhij",
-    "name": "Pitch a Startup Idea for $500 in Prizes | Talent Hub Friday",
-    "description": "Crypto World's Fair Pitchathon, hosted by Superteam Ireland\n\nJoin Superteam IE at Talent Hub, Dublin's biggest crypto-focused co-working meet, for a pitchathon in the lead up to the world's biggest crypto hackathon: Crypto World's Fair by Colosseum.\n\nLink to register for the hackathon: https://colosseum.com/signup\n\nCreate account -> Register for the hackathon.\n\nWhat's a pitchathon?\n\nA hackathon for pitches. No code required. You'll spend an afternoon sharpening your startup idea, pressure testing it with people who've built before, and pitching it to judges for feedback.\n\nYour startup can be a brand new idea, an existing idea you've been developing, or a startup you're already actively working on. The goal is to leave with a clearer story, stronger pitch, and something you can take forward into the hackathon, fundraising, or your next stage of building.\n\nWhat's Colosseum?\n\nColosseum runs the largest online crypto hackathons in the world, plus an accelerator and venture fund. Hackathon winners get up to $250k in pre-seed funding and a place in their accelerator. Their last hackathon drew over 10,000 builders from 150 countries.\n\nWhat's Crypto World's Fair?\n\nColosseum's newest hackathon, and their first open to builders across every blockchain ecosystem, not just Solana. It runs online from September 14 to October 12, with millions in prizes and VC funding on the line. This pitchathon is your chance to sharpen your startup and your story before taking it to the world.\n\nWho should come\n\nAll levels welcome. You don't need a team, a technical background, or a polished pitch.\n\nYou can come with a completely new startup idea, something you've already been exploring, or a startup you're currently building. You'll work on how you communicate the problem, solution, market, and why your idea should exist, before pitching it and getting feedback from judges.\n\nThe room will be full of people who've built startups and work in the space, so it's also a great place to meet future cofounders, collaborators, and other builders.\n\nPrizes and format\n\n€500 in prizes. We'll give you a guide on how to shape and deliver your pitch, then you'll pitch to judges and get direct feedback on the day.\n\nSchedule\n\n9:30am: Co-working space opens. Come early, work from Talent Hub and meet people\n\n2:00pm: Pitchathon kicks off\n\n4:30pm: Wrap up with judges' feedback\n\nFriday 11th September, Talent Hub, Dublin",
-    "startDate": "2026-09-25T08:30:00.000Z",
-    "endDate": "2026-09-25T16:30:00.000Z",
-    "city": "Dublin 1",
-    "country": "Ireland",
-    "location": "Dogpatch Labs, Dogpatch Labs, The Chq Building, Custom House Quay, North Wall, Dublin, Ireland",
-    "url": "https://luma.com/superteam-rhij",
-    "registrationUrl": "https://luma.com/superteam-rhij",
-    "coverImage": "/events/luma-batch-evt1srQAJm3QZVcK-28897fff.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ireland"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Dublin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-rhij",
-      "eventId": "evt-1srQAJm3QZVcK96",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

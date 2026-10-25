@@ -100,60 +100,6 @@
     }
   },
   {
-    "id": "luma-crypto-miNdmkakNF9C33M",
-    "slug": "n8n-hackat",
-    "name": "n8n Hackathon: Automate with K2 Horizon",
-    "description": "An open hackathon built around creativity.\n\nJoin us for a hands-on hackathon where developers, builders, and AI enthusiasts come together to turn ideas into working AI-powered automations using K2 Horizon and n8n.\n\nBring an idea, get creative, and build something that shows what’s possible when open-source AI meets workflow automation.\n\nYou’ll get access to K2 Horizon API credits, support throughout the hackathon, and the chance to win prizes including n8n Cloud credits and exclusive merch.\n\nCome with an idea or start from scratch, just be ready to build, experiment, and have fun.\n Doors open at 3:00 PM local time.\n\nEntry is free.",
-    "startDate": "2026-09-25T11:00:00.000Z",
-    "endDate": "2026-09-25T16:00:00.000Z",
-    "country": "United Arab Emirates",
-    "location": "Emirates Towers Sheikh Zayed Rd - Trade Center Second - Dubai - United Arab Emirates",
-    "url": "https://luma.com/n8n-wuqj",
-    "registrationUrl": "https://luma.com/n8n-wuqj",
-    "coverImage": "/events/luma-crypto-mindmkaknf9c33m-6c84ecdc.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "n8n",
-      "Aya Sayed",
-      "IFM Community"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "neighborhood": "Trade Center Second",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Emirates Towers Sheikh Zayed Rd",
-    "addressRegion": "Dubai",
-    "addressCountry": "AE",
-    "coordinates": {
-      "latitude": 25.217665,
-      "longitude": 55.282968999999994
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "n8n Community Events",
-      "url": "https://n8n.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/n8n-wuqj",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/n8n-wuqj",
-      "eventId": "evt-miNdmkakNF9C33M",
-      "fetchedAt": "2026-09-22T11:55:02.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-uhw289wfAXAVAdO",
     "slug": "2ctufd",
     "name": "2867 Club - top UIUC Founders Dinner (SF)",
@@ -270,48 +216,6 @@
       "eventId": "evt-GEzYcX1i5FjiSGT",
       "fetchedAt": "2026-09-19T23:46:06.024Z",
       "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-crypto-BavsKnnpoAOSM59",
-    "slug": "hyperliqui",
-    "name": "Hyperliquid Dubai | Community Meetup",
-    "description": "Dubai summer is almost over. Time to come back home and hang out with the Hyperliquid local community before flying to the Asian conferences.\n\nJust a casual meetup to talk all things Hyperliquid. Builders, traders, maxis, curious people, everyone's welcome.\n\nA lot has happened since last meetup. $HYPE printed a few ATHs, Trump mentioned Hyperliquid at the White House, and HIP-4 got permissionless deployment.\n\nWhether you're a HYPE maxi or just curious to learn more, this is a good chance to connect with builders and the local community.\n\nFood and drinks available for purchase at the venue.\n\n## Event details\n\nHosted by LetMeDo (Co-founder HL/MEDIA.), Wasim Fukase, Kanishk Khurana. The event takes place on September 25. Registration requires organizer approval.",
-    "startDate": "2026-09-25T13:00:00.000Z",
-    "endDate": "2026-09-25T16:00:00.000Z",
-    "city": "دبي",
-    "country": "United Arab Emirates",
-    "location": "دبي, United Arab Emirates",
-    "url": "https://luma.com/hbo5481d",
-    "registrationUrl": "https://luma.com/hbo5481d",
-    "coverImage": "/events/luma-crypto-bavsknnpoaosm59-c679d264.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "LetMeDo",
-      "Wasim Fukase",
-      "Kanishk Khurana"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hbo5481d",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/hbo5481d",
-      "eventId": "evt-BavsKnnpoAOSM59",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
   },

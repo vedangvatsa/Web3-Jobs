@@ -18936,6 +18936,24 @@ NEAR Builder's Cafe brings readers from different disciplines together to discus
 
 This edition is in Mumbai on October 31, 13:00-16:00 IST according to the organizer's current schedule. Registration requires approval, and the page currently marks it sold out. The venue is shared with registered guests.
 
+<a id="event-bf609c799e9b64ba"></a>
+
+## Indie Builders Dinner w/ Harkirat Singh
+
+- Record: `ibw-luma-evt-5vtPTw3cBLlbd4R`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-10-31T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/indie-builders-dinner-2026>
+
+### About the event
+
+Superteam India is hosting an intimate dinner for indie builders in the Solana ecosystem: the people shipping products, finding users, and growing something real, often with small teams or on their own.
+
+No panels, no pitches, no slides. Just good food and honest conversation with builders who get it: what's working, what isn't, and what's next.
+
+Seats are limited, and registrations are approval-based.
+
 <a id="event-06e588b1577083a5"></a>
 
 ## IBW2026 Pre-Conference VIP Night
@@ -19033,6 +19051,65 @@ The organizer also accepts proposals to speak, partner or sponsor through the fo
 Orviq Labs hosts Run & Rave in Bandra on November 1, from 06:00 to 08:00 IST, ahead of India Blockchain Week and Devcon. The morning combines a run with a DJ-led experience, coffee and conversation after the run.
 
 The gathering is aimed at founders, builders and creators in Web3. Registration is free and requires approval. The organizer has not published a distance or pace requirement.
+
+<a id="event-dc13197923b7a9f6"></a>
+
+## Touch Grass, Not Contracts 🌿 \| Security Researchers' Walk
+
+- Record: `ibw-luma-evt-ZAxjtXnbNBG3bus`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-01T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3xehz0zi>
+
+### About the event
+
+You can spend four days collecting conference contacts - or 45 minutes actually getting to know a few security people.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+Auditors, bug hunters, smart-contract security researchers, protocol engineers, and security-curious Devcon ticket holders. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Find fellow researchers, compare real lessons from hacks and audits, and start conversations that aren't another panel Q&A.
+
+Conversation starter (optional): What's one security red flag you wish every DeFi user understood?
+
+### Meet-up details
+
+- Date: Sunday, 1 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.
+- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
+
+<a id="event-55fb575edd905739"></a>
+
+## sunday morning padel & pickleball club™
+
+- Record: `ibw-luma-evt-vgIvAuAafDBzhhG`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-01T02:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/padel-pickle-club>
+
+### About the event
+
+if you can play ball, you are very welcome.
+
+spots are limited. registrations are approval-based and open to superteam india members (and friends) only.
 
 <a id="event-fa9a110e7eaea130"></a>
 
@@ -19174,6 +19251,97 @@ The program combines talks and panels on privacy, zero-knowledge proofs and Zcas
 
 Attendees should bring a charged phone for wallet setup and transactions and plan to stay for the day. Registration is free, capacity is limited and host approval is required. The exact Mumbai address is available through registration. The organizer will add speaker names and the detailed agenda to the event page.
 
+<a id="event-811aa7008781e396"></a>
+
+## Frontier Traders Mixer @ Solana Summit India
+
+- Record: `ibw-luma-evt-cFa8fILMOq8zmBQ`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-01T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/frontier-traders-india>
+
+### About the event
+
+Frontier Traders Mixer: India
+
+Internet Capital Markets meet Indian Capital Markets.
+
+A room for those on the frontier of new markets, new assets, and new technology. Frontier Traders Mixer comes to Mumbai alongside Solana Summit India. Invite-only.
+
+Agenda coming soon.
+
+Attendance is curated and limited.
+
+Who gets accepted:
+
+→ Traders who do real size on spot, perps, options, and structured products
+
+→ Prop desks, HFT firms, and funds with digital asset exposure
+
+→ Top allocators and capital deployers
+
+Presented by Superteam India (https://x.com/SuperteamIN) × Frontier Traders (https://x.com/joinfrontier)
+
+<a id="event-244e50dc1c56ac6b"></a>
+
+## The CMO Summit: Top 0.01% Club
+
+- Record: `ibw-luma-evt-ePIIFhD8Ah3L5au`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-01T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ccxd0wz0>
+
+### The CMO Summit: Top 0.01% Club
+
+Venue: AER, Four Seasons Rooftop, Mumbai
+
+When: Sun, Nov 1, 2026 - 5:00 PM to 11:30 PM IST
+
+EVENT OVERVIEW
+
+An evening for the people who are building Web3's next marketing cycle.
+
+A high-level gathering of CMOs, growth leads and brand builders from across Web3, AI and fintech, in one room for one night during India Blockchain Week (IBW) Mumbai.
+
+This is not a conference. It's a closed-door room built for the conversation that usually happens in private: what actually worked this year, what quietly stopped working, and where the budget is going next.
+
+### WHO SHOULD ATTEND
+
+- CMOs, VPs & Marketing Directors
+- Branding & Growth Strategy Heads
+- Web3 / Crypto Marketing Teams
+- AI & Data Driven Marketing Professionals
+- Founders, VCs, and Product Leaders
+- KOLs, Creators & Community Builders
+
+VISUAL VIBES
+
+WHAT'S ON THE TABLE?
+
+- Closed-door Roundtable: What genuinely converted this year, with numbers
+- Marketing in the agentic era, and where AI moved the needle versus where it just made noise
+- Rebuilding attribution after the old metrics stopped holding up
+- What's still working in KOL, and what quietly stopped
+- Hiring and structuring a Web3 marketing team in 2026
+
+HOW THE NIGHT RUNS
+
+- 5:00 - 6:00 PM - Arrival, welcome drinks and the skyline
+- 6:00 - 6:45 PM - Roundtable 1 - KOL spend: What actually converted this year
+- 6:45 - 7:30 PM - Roundtable 2 - Marketing in the Agentic era
+- 7:30 - 8:30 PM - Dinner and open networking
+- 8:30 - 11:30 PM - Cocktails and closing mixer
+
+CALL TO ACTION
+
+Secure your spot and step into a room full of the brightest marketing leaders in Mumbai.
+
+Apply for Invitation
+
+Inquiries: Telegram: @AlexThorneTG (https://t.me/AlexThorneTG)
+
 <a id="event-341efe25b6b59410"></a>
 
 ## Afterhours Mixer: Mumbai
@@ -19191,6 +19359,49 @@ Jatin Kaul, Khushi_Bitget and Nivedita Vivek host Afterhours Mixer in Mumbai on 
 The organizer describes a four-hour gathering for founders, traders, investors, KOLs and people building or funding projects. The planned capacity is 150 selected guests. The format is informal conversation without a stage, panels or podium pitches.
 
 Registration is free and every application requires review. The venue is in central Mumbai, with the exact address sent to confirmed guests after review. Sponsorship inquiries go to Jatin at @kaulboy on Telegram or X.
+
+<a id="event-f18fee60970d8083"></a>
+
+## 404: Conference Room Not Found 🐛 \| Security Night Walk
+
+- Record: `ibw-luma-evt-XkYzPSXLI1Hh0m9`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-01T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9vf77z15>
+
+### About the event
+
+404: Slides Not Found. Security nerds, fresh air, and conversations you can actually hear.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+Solidity developers, security reviewers, bug bounty hunters, founders who care about safer code, and curious first-timers. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Talk through security lessons, meet future collaborators, and unwind after a packed conference day.
+
+Conversation starter (optional): What's a tiny bug that caused a surprisingly big problem?
+
+### Meet-up details
+
+- Date: Sunday, 1 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.
+- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
 
 <a id="event-e48170ea79f49a06"></a>
 
@@ -19227,6 +19438,49 @@ Web3 Events hosts Catalyst, a founder residency during Devcon week in Mumbai. It
 The announced support covers branding, marketing, positioning, design and investment, with mentorship and expert sessions. The investment item describes a support area rather than a promised funding award.
 
 Registration through Luma is free and requires host approval. The public location is Mumbai; the listing supplies no more specific residency address or daily session schedule.
+
+<a id="event-07cf1c782b7b8ecb"></a>
+
+## Bug Hunters Anonymous 🐞 \| Auditors' Morning Walk
+
+- Record: `ibw-luma-evt-wvg88v6eCeGG9T5`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3m6mrikv>
+
+### About the event
+
+A bug bounty leaderboard won't introduce you to the person behind the finding. This walk might.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+Independent auditors, security contest participants, bounty hunters, reviewers and newcomers learning vulnerability research. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Meet people who share your obsession with edge cases and trade practical learning stories.
+
+Conversation starter (optional): What's the funniest false positive you've chased?
+
+### Meet-up details
+
+- Date: Monday, 2 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.
+- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
 
 <a id="event-c3424eadb6bdbbe9"></a>
 
@@ -19335,6 +19589,42 @@ Luma registration is free and requires host approval. The public location curren
 
 The organizer welcomes ecosystem partners from L1 and L2 networks, infrastructure and developer tools, funds, ecosystem programs and DeFi protocols. Proposed contributions include hosting a quest, supporting an activity area or the stage, or building the event's digital features. Partnership inquiries go to @theatharvshrivastava on Telegram or atharv@backersstage.com; the BackersStage Telegram channel carries event updates.
 
+<a id="event-3ffd4bd085e44e88"></a>
+
+## MEV - Maximal Evening Vibes
+
+- Record: `ibw-luma-evt-PcFq3OesDO3CXGW`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yhs0jlfx>
+
+### Join us for an evening with the MEV community
+
+Food and drinks are on us.
+
+Building blocks is our day job.
+
+For one evening, we're making room for what
+
+happens outside them: the people, conversations, and connections that make this community worth being part of.
+
+Join us for Maximal Evening Vibes, a private evening bringing together searchers, builders, validators, researchers, and friends from across the MEV ecosystem.
+
+Different perspectives, familiar faces, and a few introductions you've been meaning to make, all over food and drinks.
+
+Meet the people behind the addresses, put a face to a name you've only seen in a group chat, and pick up a conversation that deserves more than a reply in a thread.
+
+Whether we've worked together, crossed paths online, or haven't met yet, we'd love to share a drink and some good conversation.
+
+Monday, November 2 | 6:00 PM - 10:30 PM
+
+Exact address will be shared with approved guests.
+
+### The vibes are maximal. The blockspace isn't
+
+Space is limited. Request to join.
+
 <a id="event-4c5d8069af298b39"></a>
 
 ## Team1 India: Networking Gala Mumbai
@@ -19364,6 +19654,113 @@ Team1 describes itself as a network of developers, builders, creators and commun
 - 22:00: closing.
 
 Registration is free and subject to host approval. The organizer shares the exact Mumbai address through registration. The listed hosts are Shriyash Pandey, Team1, Amit Sharma and Akash Bhakat. The two lightning-talk speakers are not named in the published program.
+
+<a id="event-a2dc0c7c9a0b5829"></a>
+
+## Post-DSS: No More Slides 😅 \| Security Community Walk
+
+- Record: `ibw-luma-evt-98I7yeD0tlpcCbM`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vxs2cvjg>
+
+### About the event
+
+Still thinking about that DSS talk? Bring the question you didn't get to ask.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+DSS attendees, smart-contract auditors, DeFi security teams and builders who care about safer on-chain apps. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Keep conference ideas alive, meet other security thinkers, and talk without waiting for a microphone.
+
+Conversation starter (optional): Which DSS idea would you actually use on a real protocol?
+
+### Meet-up details
+
+- Date: Monday, 2 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.
+- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
+
+<a id="event-c145e06b6a88292c"></a>
+
+## CryptoMondays Devcon India Edition
+
+- Record: `ibw-luma-evt-UMczcjylUMol0HW`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-02T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9bhu9f28>
+
+### About the event
+
+The world's largest IRL crypto community lands in Mumbai the night before Devcon. Since 2018, CryptoMondays has been the place builders, founders, investors, and the crypto curious actually meet in person no hype cycle required. 60+ cities. 150,000+ members.
+
+One rule: everybody should leave with more than they brought. On 2 November we open Devcon Week the
+
+CryptoMondays way: Short welcome from chapter + global leads One tight fireside followed by 3 lightning talks (AI × crypto, community as infrastructure, what actually ships after conference week)
+
+Open floor. Real conversations. No pitch-only rooms.
+
+Who should come Founders and operators in town for Devcon and India Blockchain Week. Investors and angels scouting before the main halls open. Builders, community leads, and chapter champions. Anyone new to Web3 who wants a human on-ramp, not a booth crawl.
+
+Speakers-
+
+Tobias Bauer | Co-Founder TBV (https://www.linkedin.com/in/tobias-man-bauer/)
+
+### What to expect
+
+-Drinks and light bites
+
+-Name-tag
+
+-Networking that doesn't feel like a trade show Introductions across the CryptoMondays global network
+
+-A room that still works if you hate stages RSVP now for Location.
+
+This is a community event, not an official Devcon or Ethereum Foundation production.
+
+> Photos may be used for CryptoMondays channels.
+
+Sponsorship - Contact us (https://t.me/bitzoobie)
+
+### Agenda
+
+18:00 Doors + check-in
+
+18:30 Welcome - CryptoMondays India and Global
+
+18:45 Fireside + lightning talks (speakers TBA)
+
+19:45 Open networking
+
+21:30 Close
+
+### About CryptoMondays India
+
+CryptoMondays India is the India chapter of CryptoMondays the world's largest in-real-life Web3 community.
+
+Since 2018, CryptoMondays has grown from a New York meetup into 60+ cities and 150,000+ members. The format stays the same everywhere: builders, founders, investors, operators, and first-timers in one room to learn, earn, and connect.
+
+India Edition is that room for the country that now leads new crypto developer onboarding Mumbai, Bengaluru, Delhi, Hyderabad, and the rest of the corridor where policy, payments, open source, and capital meet. It is not a conference. It is not a booth crawl.
+
+Typical night: short welcome, one fireside or a few lightning talks, then open networking. Topics that actually matter here regulation that ships, stablecoins and rails, AI × crypto, public goods, exchanges, treasuries, and community as distribution.
 
 <a id="event-c9d3673a34c9a78a"></a>
 
@@ -19421,6 +19818,73 @@ CryptoMondays India plans a welcome session, a fireside discussion and lightning
 ### About the event
 
 Hashed Emergent lists the IBW Official After-Party in its event spreadsheet, from 19:00 to 23:00 IST on November 2. The registration link remains to be announced.
+
+<a id="event-7ec790b06d89399a"></a>
+
+## Pitch Decks Not Allowed 👟 \| Protocol Founders' Walk
+
+- Record: `ibw-luma-evt-uR7BoNCWfzzMst8`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7l76qryo>
+
+### About the event
+
+No TAM. No fundraising pitch. Just founders talking like normal humans for once.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+Protocol founders, indie hackers, early-stage builders, engineers and anyone serious about shipping on Ethereum. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Meet people building through similar problems and have a conversation that could outlast your next pitch deck.
+
+Conversation starter (optional): What's one thing about building you've learned the hard way?
+
+### Meet-up details
+
+- Date: Tuesday, 3 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.
+- Mapped meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
+
+<a id="event-d065493eee2cd724"></a>
+
+## Devcon Assassin
+
+- Record: `ibw-luma-evt-QTjNSAnTUo9U0Nd`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T02:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4iotvxh0>
+
+### About the event
+
+Devcon Assassin: Mumbai Edition
+
+Devcon is about to become a real-life game of stealth, strategy, and surprise.
+
+Every player gets a target to hunt down and eliminate using a water gun - while trying to avoid getting eliminated themselves. Stay alert, trust no one, and watch your back as the game unfolds throughout Devcon.
+
+RSVP to join the game! You'll be added to a Telegram group where we'll share the rules, targets, and everything you need to play.
+
+Check your email on registration and join the Telegram to confirm your spot.
+
+May the stealthiest degen win
 
 <a id="event-c60becdc095953fc"></a>
 
@@ -19481,6 +19945,32 @@ DeSci World, DeSci LATAM, MesoReef DAO and DeSci Asia organize the hub, with sup
 
 The hub's Luma RSVP is free, but it does not provide admission to Devcon. Attendees must separately obtain a valid Devcon ticket to enter the conference venue and take part.
 
+<a id="event-7671e36c992d27b0"></a>
+
+## Security Hub @Devcon VIII India
+
+- Record: `ibw-luma-evt-6fLWZpo8X0CcYxz`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/uxs32jih>
+
+### About the event
+
+Ethereum's future depends on its security. And making it safer takes all of us.
+
+The Security Hub at Devcon 8 is bringing together security researchers, auditors, developers, incident responders, builders, and everyone who cares about making Ethereum more secure.
+
+For four days in Mumbai, we're creating a space for the Ethereum security community to connect, share knowledge, tackle real challenges, and turn conversations into meaningful collaborations.
+
+Our ultimate goal? To make Ethereum safer than the banks. And we believe the best way to get there is by working together.
+
+Expect talks, fireside chats, lightning sessions, open discussions, and plenty of opportunities to connect with people working to protect Ethereum and its users.
+
+Speaker announcements and the full agenda are coming soon!
+
+Please note: The Security Hub is part of Devcon 8, so a valid Devcon conference ticket (https://devcon.org/en/tickets/) is required to attend. Registering on Luma does not grant access to the conference.
+
 <a id="event-4e6126d3438b853d"></a>
 
 ## AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8
@@ -19502,6 +19992,89 @@ The announced subjects cover AI compute and infrastructure; foundation models an
 The organizer plans keynotes, fireside conversations, panels and founder sessions. It also lists investor-founder networking and engagement with enterprise and government participants. These are announced themes and formats; the page has not yet supplied named speakers or a session-by-session timetable.
 
 Luma lists Tanmaya (Tan) Sharma, Omniscient AI / MSJ News / Tokenised News, and Akanksha Sharma as hosts. Registration is free and subject to host approval. The public location is Mumbai, with no specific venue published on the event page.
+
+<a id="event-7865211f59490f34"></a>
+
+## Privacy Hub, Devcon 8
+
+- Record: `ibw-luma-evt-KCJhfbrKPukDWTG`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/qzlsn6lt>
+
+### Privacy Hub, Devcon 8 India
+
+IMPORTANT: Access to the hub is only for Devcon ticket holders.
+
+Get yours here. (https://devcon.org/en/tickets/)
+
+A gathering space for people building, exploring, and using privacy on Ethereum and around it, not just inside the chain.
+
+### What to expect
+
+- Showcase of real privacy applications, both onchain (ZK, stealth addresses, private banking rails) and offchain (private compute, private data storage, private transport/networking)
+- Hands-on demos attendees can actually try, not just watch
+- Making private onchain banking (cards, stablecoin payroll, KYC) legible to a non-technical audience
+- Exploring privacy for the humans behind AI systems, verification and reputation without surveillance
+- Connect builders, researchers, legal/compliance folks, and everyday users across all of the above
+
+### Programming
+
+Talks, panels, fireside chats, workshops, and gamified exercises, organized around four tracks that run in parallel across the week rather than displacing one another:
+
+1. Private Onchain Banking: cards, stablecoin payroll, ZK-KYC, compliance
+2. Practical Privacy: wallet demos (Kohuku, Keycard, Shell), privacy 101, setting up a TEE app, private data-in-transit (networking/VPN-layer tools)
+3. Core Onchain Privacy: ZK, stealth addresses, shielded pools, anonymity-set fundamentals
+4. Privacy for the AI-Human Layer: verifying humans without exposing identity, onchain reputation without surveillance, private compute for human-in-the-loop AI systems
+
+### Event Details
+
+3-6 Novemeber 2026
+
+10 AM to 5 PM IST
+
+Jio World Convention Centre
+
+Note: Privacy Hub is part of the Devcon 8 Community Hubs and is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.
+
+Follow ETHMumbai on: X (https://x.com/ethmumbai) | Telegram (https://t.me/ethmumbai)
+
+Follow Devcon on: X (https://x.com/EFDevcon) | Telegram (https://t.me/+sitvvHw8D8EzN2Yx)
+
+<a id="event-df713e5b4c8e5848"></a>
+
+## Stark Space Mumbai \| Day 1
+
+- Record: `ibw-luma-evt-OFEismQuGjAUfLX`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/Stark-Space-Mumbai-Day-1>
+
+### Stark Space is coming to Mumbai!
+
+Explore what's being built on Starknet, and meet the people building it.
+
+Taking over one of Mumbai's most iconic restaurants, just a short walk from the main Devcon venue, Stark Space will be a place to plug in throughout the day.
+
+### What to expect
+
+Stark Space brings together builders, founders, developers and people looking to build with, contribute to or explore Starknet.
+
+Start the day with programming - hear from the teams and builders shaping what's next for the network, from Bitcoin and privacy to post-quantum security. Meet the Starknet Foundation team, discover Starknet-native apps and connect directly with the projects behind them.
+
+After programming, the space opens up into Stark Cafe. Grab a seat, start a conversation, or find a quiet corner to work - no agenda, no pressure. Then return on the evening of day 1 as Stark Space comes alive for a party.
+
+The event is first-come-first-served with limited capacity - we recommend arriving early so you don't miss the morning session!
+
+### About Starknet
+
+Starknet is a verifiable computer built to expand what products can do onchain. Built on proofs, it gives founders and developers more freedom to keep their products' defining logic onchain, with code written in Cairo and independent verification of execution powered by STARK proofs. Starknet operates as a validity rollup on Ethereum, which provides settlement. Its purpose is to enable a true peer-to-peer economy.
+
+Follow Starknet Foundation on X (https://x.com/StarknetFndn)
+
+Follow Starknet on X (https://x.com/Starknet)
 
 <a id="event-5547a1c4cd68ea02"></a>
 
@@ -19571,6 +20144,184 @@ NextWave Network and ClickOptions host a platform introduction and live crypto t
 
 Bring a laptop if possible. Registration is free and requires approval. Only Mumbai is currently specified as the location. Trading involves risk; a defined maximum loss does not eliminate the possibility of losing the amount committed.
 
+<a id="event-0311afa0b5a0f379"></a>
+
+## Builder Nights Mumbai - Agentic Edition \| Hosted by MetaMask 🦊️, Monad, ENS, ARKIV, Strato and Diligence
+
+- Record: `ibw-luma-evt-HVcn0c3qr2JoL1L`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bnmumbai26>
+
+### About the event
+
+MetaMask Builder Night is back - and this time, we're heading to the Agentic Frontier.
+
+The developers, founders, and ecosystem contributors pushing the boundaries of agentic technology.
+
+The tools, protocols, and ideas quietly rewriting what's possible onchain. All in one room.
+
+The frontier is open. Come claim it.
+
+Hosted by MetaMask (https://metamask.io) and our frens. Built for the people building what's next.
+
+Product agnostic. Shill-free. Vertical specific.
+
+### Details
+
+Time: 5:00PM - 9:00PM
+
+Venue: Register for location
+
+Free entry
+
+### Agenda
+
+5:00PM - Doors Open
+
+6:00PM - 7:30PM - Panels
+
+7:30PM - 9:00PM - Networking and Vibes.
+
+### About MetaMask
+
+https://metamask.io/?utm_source=luma
+
+MetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.
+
+### About Monad Foundation
+
+Monad Foundation supports the growth and decentralization of the Monad ecosystem, a high-performance, EVM-compatible Layer 1 blockchain designed for speed, scalability, and low transaction costs. The Foundation empowers developers, builders, and communities to create the next generation of decentralized applications, from DeFi and trading to emerging onchain use cases.
+
+### About ARKIV
+
+ARKIV is building decentralized data infrastructure designed to make data programmable, accessible, and verifiable. By enabling developers to build applications that interact with decentralized data, ARKIV supports new possibilities for AI agents, autonomous applications, and the next generation of onchain services.
+
+### About ENS
+
+Ethereum Name Service (ENS) is the decentralized naming protocol for Ethereum, making web3 more accessible through human-readable names. ENS enables users, developers, and applications to replace complex blockchain addresses with simple identities, while providing essential infrastructure for decentralized identity, payments, and interactions between humans and AI agents.
+
+### About STRATO
+
+STRATO is an Ethereum-compatible blockchain platform designed to help enterprises build and deploy real-world blockchain applications. By combining blockchain infrastructure with enterprise-grade capabilities, STRATO enables organizations to develop secure, scalable solutions for tokenization, digital assets, and decentralized business processes.
+
+### About Consensys Diligence
+
+Consensys Diligence is a leading blockchain security team specializing in smart contract audits, security assessments, and developer security tooling. With extensive experience securing Ethereum-based protocols and decentralized applications, Diligence helps developers identify vulnerabilities, strengthen smart contract security, and build safer onchain experiences.
+
+Some of the past Builder Nights (https://www.youtube.com/watch?v=9x9JOJ49IKs) ⬇
+
+Interested in future Builder Nights? Get in touch with @andreolf on Telegram!
+
+Builder Nights Collab Deck (https://docs.google.com/presentation/d/1VIxYKxIj-zMnVji4dXjvUjuJbvyj0z-XsmZL7b3a9F4/edit?usp=sharing)
+
+<a id="event-6cc567907482c4de"></a>
+
+## Mumbai \| Claude Code Meetup & Workshop
+
+- Record: `ibw-luma-evt-lEdV5rOtFA9Zysr`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/claude-0yz1>
+
+### About the event
+
+Claude Community Meetup | Mumbai, Devcon Week
+
+Join us for a special Claude Community Meetup in Mumbai during Devcon week, when the Ethereum ecosystem's annual flagship conference brings developers, founders and builders from around the world to the city.
+
+Whether you are from Mumbai or in town for Devcon, come share how you are using Claude, see what other builders are making and meet people working at the edge of AI, Web3, finance and startups.
+
+### What to expect
+
+- Lightning talks and demos from builders using Claude, Claude Code and the API
+- Real workflows for coding, agents, research and running a startup
+- Open discussion on how AI is changing the way we build, trade and work
+- Networking with developers, AI engineers, founders, and enthusiasts from Mumbai and around the world.
+
+Who should come
+
+Developers, AI engineers, Web3 builders, founders and anyone curious about building with Claude. No experience needed, just curiosity.
+
+Nov 3, 2026
+
+6:30 PM Onwards
+
+Mumbai, India (exact location shared after approval).
+
+The event is free and spots are limited, so register early.
+
+A bit about the Host: Aniket Sahu is a Claude Community Ambassador in India, AI & Web3 community builder and developer advocate. He has organized workshops, hackathons and meetups across India, helping over 50,000 builders get started with Web3, AI and emerging technologies. Through hands-on sessions and community initiatives, he actively supports students and developers in building practical AI applications with Claude and beyond.
+
+Attendance Policy AI events are in high demand and spots are limited. We want to ensure that attendees are genuinely committed to participating. We track attendance to better allocate future spots.
+
+Follow and reach Aniket Sahu on X (https://x.com/aniketsahu_115?utm_source=luma) and Linkedin (https://www.linkedin.com/in/aniketsahu115?utm_source=luma) for updates before and after the event.
+
+Join the Claude Community Here -
+
+https://t.me/ClaudeCommunityIndia
+
+Want to present?
+
+If you've built something with Claude or have a workflow worth sharing, fill out this form: https://tally.so/r/xVX705
+
+<a id="event-f890245c3cecdc95"></a>
+
+## Armada - Privacy in Practice
+
+- Record: `ibw-luma-evt-f7G6H4VGNrSXYIR`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jjl2hz9z>
+
+### About the event
+
+Armada is inviting you to a gathering of friends, privacy maxis, cypherpunks, and everyone who believes in practical privacy and self-sovereignty.
+
+We'll share what Armada has been building so far and how you can get involved, contribute, or integrate the Armada SDK into your project.
+
+Join us for a few drinks, some nibbles, and good conversations about privacy and the future of Ethereum.
+
+Make Cyperpunk Normal
+
+<a id="event-48631a3eb97b6991"></a>
+
+## Stark After Dark: Starknet Party
+
+- Record: `ibw-luma-evt-yRqDres5j6ELDNi`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/stark-after-dark-mumbai>
+
+### Introducing: Stark After Dark
+
+This Devcon, join the Starknet community at the most anticipated party in Mumbai!
+
+Join our community of builders, founders, investors and creators for a truly unforgettable night at one of Mumbai's most iconic venues.
+
+Think less conference afterparty, more the event you actually want to go to.
+
+### What to expect
+
+- No panels. No pitch decks
+- Live DJ to bring the energy all night long
+- Exclusive merch
+- Drinks, bites and appetizers
+
+We hosted 1,000 guests at our last Starknet party - this time we're keeping it intimate on purpose. Capped at 250, in one of Mumbai's most iconic venues just minutes from Devcon. Space is limited and first-come-first-served.
+
+### About Starknet
+
+Starknet is a verifiable computer built to expand what products can do onchain. Built on proofs, it gives founders and developers more freedom to keep their products' defining logic onchain, with code written in Cairo and independent verification of execution powered by STARK proofs. Starknet operates as a validity rollup on Ethereum, which provides settlement. Its purpose is to enable a true peer-to-peer economy.
+
+Follow Starknet Foundation on X (https://x.com/StarknetFndn)
+
+Follow Starknet on X (https://x.com/Starknet)
+
 <a id="event-e3864301cccfa3a9"></a>
 
 ## Fluid at Mumbai \| Smart Liquidity
@@ -19588,6 +20339,49 @@ Fluid hosts an evening with its team in Mumbai during Devcon on November 3, 2026
 The protocol combines lending and decentralized-exchange liquidity in one onchain layer. Its Smart Collateral and Smart Debt mechanisms use the same capital across both activities. The organizer also describes fixed-rate vaults and Liquidity as a Service for asset issuers and real-world assets as part of Fluid's work. This gives attendees a basis for discussing the protocol's design and use with the team; the event page does not publish a technical workshop timetable.
 
 Registration is free. The exact venue is withheld from the public page and is shown to registered guests.
+
+<a id="event-1ef81eaea1a7fc1e"></a>
+
+## No Slippage, Just Steps 💸 \| DeFi Night Walk
+
+- Record: `ibw-luma-evt-XsVZI9S06blxMwr`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-03T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dvu4zt0s>
+
+### About the event
+
+The only thing we're farming tonight is real conversation.
+
+A free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.
+
+### Who is this for?
+
+DeFi traders, users, founders, researchers, designers and curious people who want products to work better. Everyone is welcome regardless of gender or experience.
+
+### Why come?
+
+Meet the humans behind products, swap genuine DeFi experiences, and hear what others wish existed.
+
+Conversation starter (optional): Which DeFi app is brilliant in theory but frustrating in practice?
+
+### Meet-up details
+
+- Date: Tuesday, 3 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.
+- Mapped meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this event page, not the conference venue.
+- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.
+- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.
+- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.
+
+### Tickets and joining
+
+This walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.
+
+Please be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.
+
+Hosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.
 
 <a id="event-6022b7f39c730d67"></a>
 
@@ -19666,6 +20460,48 @@ The walks are free and do not require a conference badge or app. Check the organ
 
 ETHIndia returns as a one-day conference at Devcon on November 4 in Mumbai, focused on Ethereum in India. The organizer directs attendees to Devcon tickets; speakers are still to be announced.
 
+<a id="event-68c420df0ccb832b"></a>
+
+## Low Gas, High Steps 🌱 \| Solidity Devs' Walk
+
+- Record: `ibw-luma-evt-lDxWVZcnDDnyXAC`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cfut7t9n>
+
+### About the event
+
+Close the IDE. The best debugging session today might be a conversation outside.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Solidity/EVM engineers, contract testers, security reviewers and aspiring on-chain developers. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Meet other Solidity builders, trade useful lessons and get away from your laptop for a bit.
+
+Conversation starter, if you want one: What's your most memorable 'this should never happen' test?
+
+### When, where and how to find us
+
+- Date: Wednesday, 4 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
+
 <a id="event-1227a919b705c2f8"></a>
 
 ## Monad Blitz Mumbai: Devcon Edition
@@ -19691,6 +20527,449 @@ Every hackathon submission must come from a team of two or three members. Projec
 The organizer offers separate free application categories for Hackathon Registrations, General Admission and Content Creators. General admission is intended for founders, investors and other visitors meeting builders and viewing projects; the creator category is for people covering the event and its projects. All three categories require approval, and capacity is limited. The exact Mumbai venue is shared through registration.
 
 The organizer states that photography, livestreaming and audio or video recording may take place, and that attendance constitutes consent to recording and use of that material under its published event terms.
+
+<a id="event-b87d1c09261d061e"></a>
+
+## HashKey Chain Horizon · Mumbai Demo Day
+
+- Record: `ibw-luma-evt-rkYNBXqNYl6ZLBm`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hashkey-demo-day-mumbai>
+
+### HashKey Chain Horizon Hackathon - Mumbai Demo Day
+
+Theme: Build New Financial Infrastructure
+
+Total Prize Pool: 10,000 USDT (5,000 USDT per track)
+
+### About the Event
+
+After weeks of intense online building and evaluation, 20 finalist teams take the stage live at ATLAS SkillTech University, Mumbai (venue pending final confirmation) to demo what they built. This is where abstract potential meets real-world execution. The hackathon focuses heavily on two high-impact tracks:
+
+- AI Agent Trading
+- Agent Payments & A2A Settlement
+
+Rather than discussing the future of Web3 and AI in theory, this Demo Day showcases production-ready infrastructure, user-centric stablecoin applications, agentic workflows, and next-generation decentralized finance solutions built on HashKey Chain. (https://global.hashkey.com/en-US/)
+
+### Key Dates
+
+Registration & Submission Deadline: November 1, 2026, at 21:30 IST (UTC+5:30) / November 2, 2026, at 00:00 Beijing Time (UTC+8)
+
+Pitch Team Announcement: November 3, 2026
+
+Demo Day: November 4, 2026, Mumbai, India
+
+Winner Announcement: November 5, 2026
+
+### Tracks & Prize Breakdown (10,000 USDT Total Pool)
+
+- Track 1: AI Agent Trading (5,000 USDT)
+- Track 2: Agent Payments & A2A Settlement (5,000 USDT)
+
+HSP Requirement: Projects in the Agent Payments & A2A Settlement track must use HSP.
+
+Placement Breakdown per Track:
+
+- 1st Place: 2,500 USDT
+- 2nd Place: 1,500 USDT
+- 3rd Place: 1,000 USDT
+
+### Judging Panel
+
+The panel is planned as five judges, comprising three from ecosystem partners and two from HashKey Chain. Three judges will attend in person in Mumbai; HashKey Chain judges and mentors will join remotely.
+
+### Who Should Attend?
+
+- Builders & Developers: Engineers working at the intersection of AI, autonomous agents, and Web3.
+- Founders & Product Teams: Innovators building in payments, fintech, and decentralized markets.
+- Investors & Ecosystem Teams: VCs and ecosystem builders looking to spot early-stage talent and pioneering projects on HashKey Chain.
+- Students & Enthusiasts: Anyone eager to explore the frontier of on-chain finance and autonomous agent economies.
+
+### Program
+
+① Opening Remarks + Online Keynote from the HashKey Chain Team
+
+② Panel Discussion: The Future of AI Agents and On-Chain Financial Infrastructure (confirmed speakers to be announced)
+
+③ Networking: dedicated networking zones available throughout the event, plus a Celebration Happy Hour after the pitches
+
+④ Finalist Pitch Contest: hackathon finalists pitch what they built on HashKey Chain - the problem they solve, technical features, user experience, and future plans. Mumbai judging criteria are to be confirmed.
+
+### Event Agenda
+
+- 9:30 AM - Registration and Coffee / Networking
+- 10:30 AM - Opening Remarks + Online Keynote from HashKey Chain Team
+- 11:00 AM - Demo Day Pitches Begin (Track 1 & Track 2 Finalists)
+- 1:00 PM - Lunch & Ecosystem Networking
+- 2:00 PM - Pitch Sessions Continue
+- 4:00 PM - Panel Discussion: The Future of AI Agents and On-Chain Financial Infrastructure (Confirmed Speakers to be announced)
+- 5:00 PM - Judges' Deliberation & Awards Ceremony
+- 5:30 PM onwards - Celebration Happy Hour & Extended Networking
+
+### About HashKey Chain Horizon Hackathon (Mumbai Edition)
+
+HashKey Chain Horizon Hackathon (Mumbai Edition) is held under the theme "Build New Financial Infrastructure," with the goal of creating new use cases for on-chain finance. The hackathon explores the potential of next-generation Web3 infrastructure and products across areas such as financial applications, stablecoins, AI, wallets, DeFi, and RWA. At Demo Day, the projects built during the hackathon are showcased through finalist pitches.
+
+Details: https://dorahacks.io/hackathon/hskchainindia/detail
+
+### Venue Information
+
+- Location: ATLAS SkillTech University, Mumbai (pending final confirmation) (https://share.google/Yu0ogxOGyslAfWtM7)
+- Atmosphere: State-of-the-art innovation labs, high-tech presentation stages, and dedicated collaborative networking zones designed for founders, developers, and investors to forge partnerships, secure funding, and discuss integrations.
+
+### Hosts & Organizers
+
+- Hosted by: 021Lab (https://x.com/hello021Lab), HashKey Chain (https://x.com/HSKChain), Luvon Labs (https://x.com/luvonlabs) & Apna Coding (https://x.com/apna_coding)
+
+### Contact & Support
+
+For any questions or partnership inquiries, reach out to the Luvon Labs team:
+
+- Telegram: @cmonvivek24 (https://telegram.me/cmonvivek24)
+- Telegram Community: https://t.me/+LBRNQQKVmo83OTg1
+
+Advanced registration is required. Venue capacity is limited.
+
+Speakers, program details, and the timetable are subject to change without prior notice.
+
+Photography and video recording will take place during the event. Photos and videos may be used by the organizers and related parties for community highlights, social media, reports, and other communication purposes.
+
+<a id="event-378a86852d3b8d57"></a>
+
+## Stark Space Mumbai \| Day 2
+
+- Record: `ibw-luma-evt-3XbijAWU2D4ZDpt`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/stark-space-mumbai-day-2>
+
+### Stark Space is coming to Mumbai!
+
+Explore what's being built on Starknet, and meet the people building it.
+
+Taking over one of Mumbai's most iconic restaurants, just a short walk from the main Devcon venue, Stark Space will be a place to plug in throughout the day.
+
+### What to expect
+
+Stark Space brings together builders, founders, developers and people looking to build with, contribute to or explore Starknet.
+
+Start the day with programming - hear from the teams and builders shaping what's next for the network, from Bitcoin and privacy to post-quantum security. Meet the Starknet Foundation team, discover Starknet-native apps and connect directly with the projects behind them.
+
+After programming, the space opens up into Stark Cafe. Grab a seat, start a conversation, or find a quiet corner to work - no agenda, no pressure.
+
+The event is first-come-first-served with limited capacity - we recommend arriving as early as possible so you don't miss out!
+
+### About Starknet
+
+Starknet is a verifiable computer built to expand what products can do onchain. Built on proofs, it gives founders and developers more freedom to keep their products' defining logic onchain, with code written in Cairo and independent verification of execution powered by STARK proofs. Starknet operates as a validity rollup on Ethereum, which provides settlement. Its purpose is to enable a true peer-to-peer economy.
+
+Follow Starknet Foundation on X (https://x.com/StarknetFndn)
+
+Follow Starknet on X (https://x.com/Starknet)
+
+<a id="event-dc6c93c3a5f483cd"></a>
+
+## 0G Builders Brunch
+
+- Record: `ibw-luma-evt-08jX7ADSLH1huIV`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0g-builders-mumbai>
+
+### Calling all ETHGlobal Mumbai hackers!
+
+Hacking starts Thursday. Spend Wednesday morning with the 0G team over brunch, just a 15 min walk from Jio World Convention Centre, and walk into the hackathon knowing exactly what you'll build on 0G.
+
+What you can build with
+
+- 0G Private Computer (https://pc.0g.ai/?utm_source=luma): one OpenAI-compatible API for 100+ AI models, with verified runs and private inference when you need it. Plug it into Claude Code, OpenCode or your own app.
+- Infinite AI (iAI) (https://iai.finance/?utm_source=luma): stake iAI and a compute allowance lands every day on Private Computer. Build apps and agents that run on those daily credits.
+- Comfy (https://comfy.fun/?utm_source=luma): the token launchpad on 0G. Launch an AI agent with its own token, earn a share of every trade, and put part of it toward the agent's own compute.
+- The 0G dev stack (https://build.0g.ai/?utm_source=luma): encrypted storage, an AI-native EVM L1 chain and Agentic ID for onchain agent identity, all in one stack.
+
+What's happening
+
+- Brunch on us: great food, mocktails and coffee.
+- Build with the team: bring your idea and we'll help you pick the right part of the stack and get set up with compute credits for your build.
+- Find teammates: still solo? You won't be the only one.
+
+Who can attend
+
+- ETHGlobal Mumbai hackers only.
+- Register with the same email you used for ETHGlobal so we can approve you faster.
+- Seats are limited and approvals are rolling, so request early.
+
+> Check out the $15,000 0G bounty at ETHGlobal Mumbai (https://ethglobal.com/events/mumbai/prizes/0g?utm_source=luma)
+
+### Venue: BKC
+
+You'll get the exact location after approval.
+
+Just 3 min drive / 15 min walk from Jio World Convention Centre
+
+### About 0G
+
+0G is the trust layer for AI. It brings private compute, encrypted storage and an AI-native EVM L1 chain into one stack, so AI work is verified and audited, from inference to agent actions.
+
+- Website (https://0g.ai/?utm_source=luma)
+- 𝕏 X (Twitter) (https://x.com/0G_labs?utm_source=luma)
+- Discord (https://discord.com/invite/0glabs?utm_source=luma)
+- Telegram (https://t.me/web3_0glabs?utm_source=luma)
+
+<a id="event-d116e665fd78ed7c"></a>
+
+## OPEN HOUSE by lil room Mumbai \| 🗓 4th November \| During Devcon India
+
+- Record: `ibw-luma-evt-fa4YPMi1DWA09q9`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T05:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gjfpaw4r>
+
+### About the Event
+
+Open House is a house that opens its doors to builders, founders and creators during Devcon week in Mumbai. One day, one house, by lil room.
+
+Hear from the names leading onchain's biggest narratives, meet the people shipping them, and close the day at the party. Panels by day, builder demos in between, Open House Night after dark.
+
+Mumbai, near BKC
+
+Wednesday, 4 November - 11:00 AM - 10:00 PM IST
+
+A side event during Devcon VIII India. Approval required on every registration.
+
+### On the Stage
+
+- Keynote - The Onchain Economy - what is live today, and what India builds next
+- Rupee to Rails - stablecoins, RWAs and onchain money for India
+- Agents With Wallets - AI agents, verifiable compute and data ownership
+- Trust at Scale - security for the next million onchain users
+- The Creator Layer - how onchain stories travel
+- Lil Pitches - 5 to 6 builders, 4 minutes each
+
+### What to Expect
+
+- Keynote and four panels across the narratives shaping onchain
+- Curated networking with founders, builders and creators
+- Live builder demos at Lil Pitches
+- A coworking lounge and content corner, open all day
+- Open House Night: the closing party, drinks and music
+
+### Focus Areas
+
+- Stablecoin Rails - money moving between banks, apps and chains
+- Tokenized RWAs - bonds, funds and real-world yield
+- Remittances & INR Rails - onchain money for India
+- AI Agents & Payments - agents that hold funds and pay each other
+- Verifiable AI - verifiable compute, data and model attribution
+- Security & Audits - protecting users and protocols as volume grows
+- Wallets & Key Management - what users need to stay safe
+- Creators & Distribution - turning launches into attention, and attention into users
+
+### Agenda (Indicative)
+
+11:00 - 11:45 - Doors open, coffee, coworking & content corner
+
+11:45 - 12:00 - Welcome from lil room and the co-hosts
+
+12:00 - 12:20 - Keynote - The Onchain Economy
+
+12:30 - 13:10 - Panel 1 - Rupee to Rails: stablecoins, RWAs and onchain money for India
+
+13:15 - 14:15 - Lunch and open house
+
+14:15 - 14:55 - Panel 2 - Agents With Wallets: AI agents, verifiable compute and data ownership
+
+15:00 - 15:35 - Lil Pitches - builder demos
+
+15:40 - 16:20 - Panel 3 - Trust at Scale: security for the next million onchain users
+
+16:25 - 17:05 - Panel 4 - The Creator Layer: how onchain stories travel
+
+18:30 - 22:00 - Open House Night - the closing party
+
+- To discuss sponsorship opportunities, feel free to reach out on Telegram: @saurabh_0x
+
+### Past Events
+
+Applied AI Summit | Consensus Hong Kong (https://luma.com/3loqk0iz)
+
+Sun 8 Feb (https://luma.com/3loqk0iz)
+
+Institutional Onchain: Stablecoins, RWAs & AI Hong Kong | 11th February | During Consensus Hong Kong (https://luma.com/zn02vlx2)
+
+Wed 11 Feb (https://luma.com/zn02vlx2)
+
+RWAfi. RAW HK Skyline Mixer: Road to Mainnet (https://luma.com/wxa40k7a)
+
+Wed 11 Feb (https://luma.com/wxa40k7a)
+
+RWA & Stablecoin Security Mixer - Hong Kong Edition | QuillAudits (https://luma.com/7obq3bf2)
+
+Sat 14 Feb (https://luma.com/7obq3bf2)
+
+<a id="event-5c6298bc2f58f8aa"></a>
+
+## DeFi Lunch at Devcon
+
+- Record: `ibw-luma-evt-NDGCExZGe7BfYks`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T06:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/defi-69kr>
+
+### About the event
+
+Join DeFi Founders Club for lunch with founders and builders during Devcon Mumbai.
+
+Meet fellow DeFi teams and compare notes on products, liquidity and partnerships over lunch near Jio World Convention Centre.
+
+Attendance is by approval. Please include your company and role when registering.
+
+Venue to be confirmed. Final location details will be shared with approved guests.
+
+<a id="event-23eca5ca9751c224"></a>
+
+## Trade Smarter. Never Get Liquidated. \| ClickOptions × NextWave
+
+- Record: `ibw-luma-evt-CTqpCOXclC0Tmfb`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1t7wknyp>
+
+### Trade Smarter. Never Get Liquidated. | ClickOptions × NextWave
+
+A Live Crypto Trading Competition in Mumbai
+
+Join NextWave Network × ClickOptions for an interactive evening of crypto trading, competition, potential rewards, and networking during Devcon week in Mumbai.
+
+Explore ClickOptions, test your market instincts, compete with fellow traders, and discover a different approach to crypto options trading. No long presentations or boring talks - just hands-on experiences, live competition, and meaningful connections.
+
+### ClickOptions Mumbai Live Trading Challenge
+
+Up to $500 in potential performance rewards!
+
+Grand Prize: $200 for outstanding overall trading performance
+
+Additional Awards: Rewards for consistency, risk management, and trading strategy.
+
+This isn't just about making the biggest trade. We value skill, discipline, consistency, and a clear strategy.
+
+Rewards are subject to qualifying criteria, participant performance, and the competition rules. Prizes are not guaranteed. Full scoring criteria and reward distribution will be shared before participation.
+
+### What's Happening?
+
+Explore ClickOptions
+
+Discover the platform, learn about its trading features, and explore its options-based approach to managing risk.
+
+Live Trading Competition
+
+Put your strategy to the test, follow the leaderboard, and compete with fellow participants during the live challenge.
+
+Interactive Activities & Rewards
+
+Experience engaging trading activities and compete for potential performance rewards.
+
+Networking
+
+Meet crypto traders, Web3 builders, founders, students, and FinTech enthusiasts from Mumbai's growing digital asset ecosystem.
+
+### Prepare Before the Competition
+
+To make the most of the event, we strongly recommend signing up and completing KYC verification before arriving. This helps you avoid onboarding delays and get ready for the competition.
+
+Option 1: Real Trading Account
+
+If you plan to participate using real funds, create an eligible account, complete the required verification, and ensure your account is funded before the event. This helps you focus on the live trading experience instead of account setup.
+
+Use your own funds and trade according to your strategy and personal risk limits. Real trading involves financial risk, and you may lose the funds committed to a position. Only trade what you can afford to lose. Depositing funds does not guarantee eligibility for rewards or a winning position.
+
+Option 2: Free Demo Account
+
+Prefer to explore the platform without committing real funds?
+
+1. Visit ClickOptions (https://clickoptions.ai/) and sign up.
+2. Complete any verification required for your region and access the demo account, if eligible.
+
+Demo accounts may have different competition and reward eligibility. The organisers will confirm the eligible account types and final competition rules before the challenge.
+
+Device recommendation: Bring your laptop if possible for a smoother trading experience. You may also use another supported device.
+
+### Explore ClickOptions
+
+- Website: https://clickoptions.ai/
+- Telegram Community: https://t.me/clickoptions
+- Affiliate Program: Visit the official website to explore eligibility, referral terms, and potential commissions. Earnings are not guaranteed.
+
+Account access, verification requirements, and available features may vary by region and applicable regulations.
+
+### Event Agenda
+
+4:00 PM - 4:20 PM
+
+Welcome & Introduction to ClickOptions
+
+4:20 PM - 4:30 PM
+
+Participant Onboarding & Competition Setup
+
+4:30 PM - 6:30 PM
+
+Live Crypto Trading Competition
+
+6:30 PM - 7:00 PM
+
+Winner Announcements, Refreshments & Networking
+
+### Event Details
+
+- Date: Thursday, November 5, 2026
+- Time: 4:00 PM - 7:00 PM IST
+- Location: Mumbai, near BKC
+- Organised by: NextWave Network
+- Powered by: ClickOptions
+
+The confirmed venue and arrival instructions will be shared with registered participants.
+
+### Who Should Attend?
+
+- Crypto traders and trading enthusiasts
+- Futures and options market participants
+- Web3 builders and digital asset professionals
+- Students exploring FinTech and blockchain
+- Anyone curious about crypto trading platforms
+
+Whether you're an experienced trader or exploring crypto options for the first time, come ready to learn, compete, and connect.
+
+### Stay Connected with NextWave Network
+
+Be part of a growing community connecting people across Web3, FinTech, AI, and the wider startup ecosystem.
+
+Explore NextWave Network: https://linktr.ee/nextwavenetwork.in
+
+Join Our WhatsApp Community: https://chat.whatsapp.com/FIM2KJ6vZA3AwR6sEUP7hO
+
+Stay connected for upcoming events, community updates, networking opportunities, and more.
+
+Don't just attend the event - become part of the community.
+
+### Join the Challenge
+
+Bring your strategy, experience the competition, and connect with Mumbai's crypto community.
+
+Trade. Compete. Connect.
+
+Organised by NextWave Network
+
+Powered by ClickOptions
+
+Risk disclosure: Digital asset and derivatives trading involve risk, including the possible loss of funds committed to a position. Options are not risk-free. Participation, platform access, verification, and rewards are subject to eligibility, applicable laws, and the competition rules.
 
 <a id="event-d12f45cc8af42def"></a>
 
@@ -19776,6 +21055,109 @@ Doors open at 17:00 IST for high tea and refreshments. The symposium runs from 1
 
 Registration is free and requires approval. Attendance is limited to 75 guests, with priority for people directly involved in Ethereum staking. The exact Mumbai address is available through registration. The symposium program will be recorded.
 
+<a id="event-795442ebfd4a9c17"></a>
+
+## UNDISCLOSED : MUMBAI
+
+- Record: `ibw-luma-evt-iTFBTwT5IzcPZcF`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kydf59j8>
+
+### UNDISCLOSED //
+
+Undisclosed is a Midnight community meetup bringing together developers, founders, researchers, students and curious builders during Devcon week in Mumbai.
+
+A space to connect with the community, exchange ideas, and explore the people and possibilities shaping the future of programmable privacy.
+
+No formalities. Just good conversations and new connections.
+
+By Midnight. In Mumbai.
+
+Hereby agrees and consents to the collection, use and disclosure of personal data in accordance with the personal data and privacy policy of the Foundation as amended from time to time, available at https://midnight.foundation/supplierdpa ("Data Processing Agreement") and https://midnight.network/static/privacy-policy.pdf ("Privacy Policy").
+
+<a id="event-db17776e027ad130"></a>
+
+## Cafe Compute Meetup: Mumbai
+
+- Record: `ibw-luma-evt-Xs3C0Owpa4JQHSQ`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/b2scefde>
+
+### About the event
+
+Cafe Compute Meetup: Mumbai | Devcon Week Edition
+
+Cerebras is excited to present Cafe Compute Meetup in Mumbai during Devcon week, hosted by Cerebras Ambassador Aniket Sahu (https://linkedin.com/in/aniketsahu115) and Arun Chandel (https://www.linkedin.com/in/arun-pratap-singh-chandel-7aa101259/)
+
+Devcon, the Ethereum ecosystem's annual flagship conference, is bringing thousands of developers, founders, researchers and builders from around the world to Mumbai. While the city is buzzing with ideas, take a break from the conference halls and join us for a relaxed evening of fast inference, good food and great conversations about building at the intersection of AI and Web3.
+
+Whether you are in town for Devcon or a Mumbai local and whether you are deep into AI coding tools or just getting started, this is a space to explore ideas, try new workflows and connect with builders from across the world.
+
+### What to Expect
+
+Meet Builders from Around the World
+
+Connect with developers, founders, researchers and AI enthusiasts in Mumbai for Devcon week. Swap stories from the conference, share what you are building and find your next collaborator.
+
+Explore AI Tools and Workflows
+
+Discover Cerebras Inference, OpenAI Codex and open-source AI models. See how fast inference can power AI agents, smart contract tooling, onchain data analysis and the next generation of dApps.
+
+Build, Experiment and Collaborate
+
+Bring your laptop and hack on an idea from the conference, experiment with a new tool or prototype something at the intersection of AI and crypto. Learn from others and build together in a relaxed setting.
+
+Community Show and Tell
+
+Working on something interesting, whether it's an AI agent, a Web3 project, or a developer workflow? Share it with the room, get feedback, and find inspiration for your next build.
+
+Conversations Over Chai
+
+Mumbai is India's financial capital, a city where conversations about markets, trading and the next big idea happen over chai. Join the conversation on how AI and Web3 are reshaping finance, building, and the way we work.
+
+What to Bring
+
+- Your laptop and charger
+- A project idea, or something that sparked your curiosity at Devcon
+- Your curiosity and enthusiasm for building with AI
+
+Event Flow
+
+- 6:30 PM: Doors open, check-in, and welcome
+- 7:00 PM: Welcome to Cafe Compute, Devcon Week Edition
+- 7:35 PM: Exploring Cerebras, Codex, and AI development workflows
+- 7:50 PM: Hands-on exploration, building, and collaboration
+- 8:35 PM: Community show and tell
+- 8:55 PM: Open discussion on AI x Web3, ideas, and experiences
+- 9:15 PM: Community conversations and wrap-up
+- 9:30 PM: Event ends
+
+### About Cerebras
+
+Cerebras builds some of the world's fastest AI inference systems, powered by its Wafer-Scale Engine technology. Cerebras Inference enables developers to run AI models at high speeds and explore new possibilities for AI-powered applications.
+
+Explore Cerebras Inference and available models at Cerebras.ai (https://Cerebras.ai).
+
+Join the Community (https://chat.whatsapp.com/JFJAkHciDFs3y3uLRES7Zf?s=cl&p=i&ilr=4&iam=2)
+
+Cafe Compute is about bringing people together to explore, experiment and build with AI. Whether you are an experienced developer or just starting your journey, come share ideas, discover new tools and connect with others who are excited about what AI makes possible.
+
+Bring your laptop, grab something to eat and let's build together!
+
+Cerebras is the world's fastest AI inference, up to 15x faster than leading GPUs. Cerebras Inference is powered by our Wafer-Scale Engine (WSE-3) - the world's largest AI chip. Experience the speed for yourself with OpenAI Codex-Spark, powered on Cerebras, or one of the open source models like Qwen 3.8 28B. Get free compute at Cerebras.ai (https://cerebras.ai).
+
+Join our rapidly growing communities:
+
+Discord (https://discord.gg/ZqvYS2e2rY) ↗
+
+Reddit (https://www.reddit.com/r/cerebras) ↗
+
+X (https://www.x.com/cerebras) ↗
+
 <a id="event-a421bd75009e4374"></a>
 
 ## Money Layer @Devcon🇮🇳 Week
@@ -19819,6 +21201,28 @@ Attendance is complimentary and subject to approval, with limited capacity. Both
 
 Alpend is a decentralized money market on Canton Network, built by Palladium Labs, where users supply assets to earn yield and borrow against collateral. A small number of co-host partnerships are available; teams can contact Akshay Sinha through [@sinha_akshay on Telegram](https://t.me/sinha_akshay).
 
+<a id="event-ae7ef77312af499d"></a>
+
+## The Allowlist
+
+- Record: `ibw-luma-evt-cIn46v6nJNmtSYu`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T13:15:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rloppl7e>
+
+### An allowlist you'll actually want to be on
+
+Join Eureka Labs for The Allowlist, a private exclusive dinner where we can catch up, meet new faces, and enjoy good conversation over great food and drinks.
+
+There's plenty to talk about!
+
+This evening is our excuse to get a bunch of curious people into one room, clink some glasses, and swap stories about what we're building, learning, and dreaming up next.
+
+Whether you know us well or are just curious what we're up to, pull up a seat and come say hi.
+
+This block fills up fast. Request your spot soon
+
 <a id="event-35062dda67d54087"></a>
 
 ## Quantstamp x Common Defense \| Mumbai Lounge \| Devcon 2026
@@ -19832,6 +21236,48 @@ Alpend is a decentralized money market on Canton Network, built by Palladium Lab
 ### About the event
 
 Quantstamp and Common Defense host an evening for people working in Web3, AI and security during Devcon. Food and drinks are provided. Entry requires an approved registration QR code.
+
+<a id="event-c3093820d6f7be64"></a>
+
+## Seed Phrases Stay Home 🔐 \| Wallet & dApp Walk
+
+- Record: `ibw-luma-evt-rUOnUMPkGfGF1CH`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rkhah22j>
+
+### About the event
+
+Your wallet shouldn't require a PhD. Talk about fixing it with the people building it.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Wallet engineers, product designers, frontend developers, dApp founders, account abstraction builders and users. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Meet UX-minded builders, exchange product feedback and make connections beyond app demos.
+
+Conversation starter, if you want one: What wallet step would you delete tomorrow?
+
+### When, where and how to find us
+
+- Date: Wednesday, 4 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
 
 <a id="event-9556db91ee57d0eb"></a>
 
@@ -19881,6 +21327,26 @@ Attendance is free, but registration is required and rooftop capacity is limited
 
 Web3 Events hosts Capital connect in Mumbai on November 4, 2026, from 20:00 to 23:00 IST. The invitation-only gathering is for limited partners, venture capital investors and other participants in the Web3 ecosystem. Registration is free and subject to host approval. The exact venue is private and available through registration.
 
+<a id="event-e573984d5224d14b"></a>
+
+## Institutional Open Doors Mixer
+
+- Record: `ibw-luma-evt-HUylEhXPcRpb1Uv`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-04T15:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/un1ip2l2>
+
+### About the event
+
+After a closed-door evening at the ETHIndia Institutional Dinner, we open the doors.
+
+Ethereum is credibly neutral infrastructure, and it has the potential become a trusted rail for India's tokenised assets and agentic commerce.
+
+The Open Doors Mixer brings together the people who can make that a reality; teams from banks and financial institutions, advisory firms and policy groups, Ethereum researchers and builders, and Devcon guests.
+
+Join us to be part of conversations on tokenisation, interoperability and what India's institutions need next.
+
 <a id="event-38ade2d577e1f1bb"></a>
 
 ## Unchained Summit India 2026
@@ -19909,6 +21375,68 @@ Unchained Summit India takes place at Courtyard by Marriott Mumbai International
 
 Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.
 
+<a id="event-b0020b6c9aae1028"></a>
+
+## Nodes Need Fresh Air Too ⚙️ \| Ethereum Infra Walk
+
+- Record: `ibw-luma-evt-BabRKkjuW29SOdD`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4o1mzip0>
+
+### About the event
+
+Your node can stay online without you for 45 minutes. Probably.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Ethereum client developers, node operators, RPC teams, infra founders and L2 researchers. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Meet the people behind invisible infrastructure, and talk about hard problems without a panel.
+
+Conversation starter, if you want one: What infra issue deserves much more attention?
+
+### When, where and how to find us
+
+- Date: Thursday, 5 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
+
+<a id="event-f8968b31f21ee7ae"></a>
+
+## L2BEAT - The Next Chapter
+
+- Record: `ibw-luma-evt-E1BEaj56Aeln5ih`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/il76d51q>
+
+### About the event
+
+For years, our work has been about helping people understand whom they're really trusting.
+
+Ethereum is the chain best built to make that trust unnecessary, but building on Ethereum doesn't automatically make something trustless. As Ethereum grows, that question matters more than ever, and we've been thinking hard about what it means for us.
+
+Join us for a refreshing morning meetup where we'll lay out where L2BEAT goes next: what we'll look at, what we'll hold ourselves to, and why we think the stakes keep getting higher. Then we want to argue about it, with you.
+
+Come curious. Come skeptical. Let's talk.
+
 <a id="event-97126393146ded1a"></a>
 
 ## Frontier Of Intelligence Hackathon
@@ -19935,6 +21463,24 @@ The US$5,000 grand prize is for the most impactful project across the tracks, as
 
 Registration is free and requires host approval. The exact Mumbai venue is private and available through registration.
 
+<a id="event-3590c7f734ce35ff"></a>
+
+## Devcon Coffee Exchange
+
+- Record: `ibw-luma-evt-KAttU3Qk9jmQdfG`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T07:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/d6v9he6d>
+
+### About the event
+
+The Devcon Coffee Exchange is an afternoon meetup where coffee enthusiasts from around the world come together to brew and trade beans.
+
+Bring your wild and weird Thermal Shocks, Vietnamese Robustas and Washed Arabicas from home. We'll supply a hand grinder, source some boiling water, V60 papers, baggies and a scale.
+
+The meeting point will be somewhere within the main Devcon venue, TBD closer to the date.
+
 <a id="event-b8fc2ab8bce93df1"></a>
 
 ## Builders Brunch, Mumbai 🇮🇳
@@ -19950,6 +21496,114 @@ Registration is free and requires host approval. The exact Mumbai venue is priva
 Buildify hosts Builders Brunch in Mumbai on November 5, 2026, from 13:00 to 16:00 IST during Devcon. The brunch brings Ethereum builders, founders and creators together for informal conversation over Indian food.
 
 Registration is free and requires host approval. The organizer lists the Mumbai venue as to be determined, with exact-location access through registration. Sponsorship and partnership inquiries go to [@yashekbote](https://t.me/yashekbote) or [@shawn_bldfy](https://t.me/shawn_bldfy) on Telegram.
+
+<a id="event-ed69e81a095ad623"></a>
+
+## Women's Networking
+
+- Record: `ibw-luma-evt-kGC3kShrdk8B6Ip`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/phluxeas>
+
+### About the event
+
+WOMEN IN BLOCKCHAIN | DEVCON - MUMBAI
+
+Women's Networking Evening
+
+Connect - Share - Inspire
+
+Join us for a fun, relaxed evening bringing women together during DevCon week in Mumbai!
+
+Come meet inspiring women from the blockchain and Web3 community, reconnect with old friends, make new connections, exchange ideas, and enjoy great conversations over drinks and delicious food.
+
+After panels and presentations - enjoy good vibes, interesting people, and plenty of time to mingle!
+
+Thursday, November 5, 2026
+
+5:30 - 7:30 PM
+
+Santé - Spa Cuisine
+
+Unit No. 6, INS Towers
+
+Near Trident Hotel, G Block
+
+Bandra Kurla Complex (BKC)
+
+Bandra East, Mumbai 400051
+
+Hosted by Women in Blockchain
+
+Please RSVP - space is limited!
+
+Looking forward to seeing you!
+
+### About Women in Blockchain
+
+Founded in New York City in 2016, Women in Blockchain (WiB) was the first female focused community in Web3.
+
+Our mission is to connect, empower, and amplify women across the blockchain ecosystem through education, collaboration, mentorship, and meaningful opportunities.
+
+Our vision is a decentralized future where women are leaders, builders, investors, and decision-makers - shaping the technology, communities, and economies of tomorrow.
+
+All People One World
+
+<a id="event-fb02b7e745c2d9cf"></a>
+
+## Founder x VC Happy Hour @ DEVCON 8
+
+- Record: `ibw-luma-evt-VLyTum0FswtPeAH`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gmi3qcpz>
+
+### Founder × VC Happy Hour - Private Gathering @DEVCON 8
+
+https://devcon.org/
+
+After Hosting
+
+- 1000+ curated founders & investors hosted globally
+- 100+ active funds across past private gatherings.
+
+We've been to France, Argentina, Singapore, Dubai, and 5+ other countries. Now, we're coming to India 🇮🇳 for the first time!
+
+An intimate evening curated for Selected Founders, active VCs, and key ecosystem leads to connect in a casual and meaningful way.
+
+(The one of the Most Curated Gathering at DEVCON 8)
+
+Private Guest Access
+
+For: Institutional investors, active VCs, angels, and select high-growth founders.
+
+An invitation-only segment designed to enable:
+
+- 1:1 conversations with vetted founders & funders
+- Private deal discussions, co-investment & advisory exploration
+- Soft introductions by the BackersStage team (on request)
+- Relaxed night, high-trust setting
+
+Open Access (Very Limited | Approval Required)
+
+For: Builders, BD leads, and ecosystem partners with aligned interests.
+
+- Networking with global Consensus attendees
+- Interactions with mentors, partners & fund managers.
+- Hosted relaxed evening format
+
+Every application is reviewed by hand.
+
+Partnerships: (atharv@backersstage.com / @adityamahajan16 (https://t.me/adityamahajan16))
+
+We're currently open to a limited number of sponsor partnerships to co-host or partner this experience.
+
+prev:
+
+etc.
 
 <a id="event-5511261008389b44"></a>
 
@@ -19969,6 +21623,127 @@ The evening's conversation concerns protecting value against quantum threats and
 
 Registration is free and requires host approval. The exact venue is private and available through registration.
 
+<a id="event-7a47cfc83d142cff"></a>
+
+## Onchain Execution Dinner: Deepflow × Eureka Labs
+
+- Record: `ibw-luma-evt-W3bxtS9mKSeIwVK`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/defi-32af>
+
+### About the event
+
+Join Deepflow and Eureka Labs for an exclusive dinner during Devcon in Mumbai.
+
+We're bringing together founders and product and engineering leads who manage wallets, trading apps, swap aggregators and bridges to compare notes on onchain execution.
+
+### About Deepflow
+
+https://deepflow.finance
+
+Deepflow is a swap intelligence API that helps teams improve swap reliability, achieve better execution prices and increase revenue at scale, while keeping their existing aggregators.
+
+### About Eureka Labs
+
+https://eurekalabs.xyz/
+
+Eureka Labs is an Ethereum block builder developing programmable blocks. Its tools give searchers and builders more control over execution through intra-block loans, off-chain computation, external data and precise transaction placement.
+
+<a id="event-1f65e51801c107a9"></a>
+
+## Zero Knowledge, Actual Friends 🕶️ \| Privacy & ZK Walk
+
+- Record: `ibw-luma-evt-EjZWupM0D19CQZ8`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hgkcvozg>
+
+### About the event
+
+Zero knowledge, zero awkward pitches, and a chance to meet real people.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Privacy advocates, ZK developers, cryptographers, designers and people curious about digital rights. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Meet people making privacy usable, swap ideas and enjoy a real-world conversation.
+
+Conversation starter, if you want one: Which privacy feature would your family actually use?
+
+### When, where and how to find us
+
+- Date: Thursday, 5 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
+
+<a id="event-eef418998e97b207"></a>
+
+## Biggest CT G.A.Y Party
+
+- Record: `ibw-luma-evt-hIZnQMK5SVTWgj8`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ena53peq>
+
+### About Event
+
+OPEN FOR ALL - builders, traders, creators, and anyone active in crypto Twitter or crypto IRL.
+
+A high-signal crypto IRL meetup built for people who are not just watching CT but actively moving in it.
+
+This is where traders meet builders, creators meet founders, and random conversations turn into real opportunities.
+
+No boring panels. No passive listening.
+
+Just real people, real conversations, and real alpha in one room.
+
+### Why You Shouldn't Miss This
+
+- High-quality networking - Meet serious traders, builders, and Web3 operators from CT and your city
+- Real conversations, real value - Market talk, strategy sharing, project ideas, and alpha flows naturally
+- Builder x trader energy - Connect with people actively shipping, trading, and scaling in crypto
+- Opportunity zone - Collabs, partnerships, and future deals often start here
+- Unfiltered crypto talk - No scripts, no filters, just what is actually happening in the space
+
+### What You'll Get
+
+- Exclusive IRL networking with CT-native crowd
+- Early connections with active builders and traders
+- Community-driven discussions around trends and opportunities
+- Light food, drinks and a chill environment for real conversations
+
+### Event Details
+
+- Date: 6th December
+- Time: 4 PM to 7 PM
+- Venue: To be shared with registered attendees
+
+### Limited Spots Only
+
+This is not a mass event. It is a curated room of people who are actually building or actively involved in crypto.
+
+If you are early, curious, or already deep in the space, this is where you should be.
+
+Reserve your spot and show up ready to connect.
+
 <a id="event-1df2e4cbfa87a614"></a>
 
 ## Pragma Mumbai
@@ -19986,6 +21761,48 @@ Pragma Mumbai is ETHGlobal's one-day, single-track summit for founders and build
 ETHGlobal describes the Pragma format as curated talks, product demonstrations, keynotes and debates about Web3's current challenges and proposed solutions. Sessions run in one track without overlapping presentations. The series also includes dedicated conversation breaks over lunch or coffee and an attendee portal for arranging meetings in advance.
 
 Attendance is by application through ETHGlobal. The organizer's public registration data lists November 5, 2026, at 09:00 IST as the application deadline.
+
+<a id="event-6e127385c10b3ebd"></a>
+
+## DAO Vote: Touch Grass 🗳️ \| Governance Walk
+
+- Record: `ibw-luma-evt-d7PXEaGekwoGpzw`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-06T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wtkth99f>
+
+### About the event
+
+No quorum. No governance forum. Just a good walk and a few new people.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+DAO contributors, community managers, public goods builders, governance researchers and newcomers. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Trade practical community lessons and connect with people who care about participation.
+
+Conversation starter, if you want one: What community tradition kept people coming back?
+
+### When, where and how to find us
+
+- Date: Friday, 6 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
 
 <a id="event-5f8098b5cdbc6c83"></a>
 
@@ -20010,6 +21827,48 @@ The announced program covers:
 
 Networking and drinks begin at 18:45 IST. Registration is free, seats are limited and the host reviews every application. The exact venue in Bandra Kurla Complex is shared with confirmed attendees.
 
+<a id="event-aced621a73e52994"></a>
+
+## Yield Farming? Try Step Farming 🥾 \| DeFi Users' Walk
+
+- Record: `ibw-luma-evt-0Hr9OEq92aSEqFs`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-06T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zmsks9jh>
+
+### About the event
+
+Forget APY screenshots. What DeFi products do people actually love?
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+DeFi users, on-chain product builders, risk researchers, traders and interested newcomers. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Meet people using the products you build and hear candid feedback.
+
+Conversation starter, if you want one: What DeFi product would you recommend, and what's the catch?
+
+### When, where and how to find us
+
+- Date: Friday, 6 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
+
 <a id="event-9872d6f9027d7365"></a>
 
 ## Devcon Afterparty
@@ -20023,6 +21882,157 @@ Networking and drinks begin at 18:45 IST. Registration is free, seats are limite
 ### About the event
 
 Web3 Events hosts an unofficial Devcon 8 after-party in Mumbai on November 6, 2026, from 21:30 IST until 01:00 on November 7. Registration is free and requires host approval. The exact venue is private and available through registration.
+
+<a id="event-9f2fa004b5bad56f"></a>
+
+## One Last GM, Mumbai ☀️ \| Ethereum Farewell Walk
+
+- Record: `ibw-luma-evt-fi1E5JHRmTD6D6r`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-07T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hqe3sz43>
+
+### About the event
+
+Don't leave Mumbai with hundreds of new follows and nobody you remember.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Ethereum developers, researchers, creators, founders, students and solo Devcon attendees. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Make another meaningful connection before heading home and hear what others learned at Devcon.
+
+Conversation starter, if you want one: What idea or person changed your week?
+
+### When, where and how to find us
+
+- Date: Saturday, 7 November 2026
+- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
+
+<a id="event-49257f50ed20411e"></a>
+
+## Clear-Signing & Wallet Security @ DEVCON
+
+- Record: `ibw-luma-evt-7bLYYfCCvXDasQt`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-07T06:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kwi8jlpk>
+
+### About the event
+
+The ERC-8009 team is hosting an event dedicated to clear signing and ways to achieve it.
+
+The existing and experimental solutions will be demonstrated using Ledger and Trezor devices.
+
+Clear signing is a solution to Blind Signing, which is the single biggest security threat currently facing everyday Web3 users and protocol teams. It occurs when a hardware wallet cannot decode the transaction and present it in human language, so the end user approving the wallet transaction is left guessing whether the transaction is exactly what they intend to send. In many cases, unsuspecting users simply approve such transactions, accepting the risk.
+
+Even though hardware wallets are commonly thought of as the ultimate security solution, they are still prone to attacks involving "blind signing". For example, that's exactly what happened to Bybit when the Safe code was modified and the hardware wallet couldn't provide a human-language explanation of the transaction (the famous $1.5B hack).
+
+Join us during DEVCON Mumbai 2026 for a practical session exploring Clear-Signing solutions, amongst which ERC-8009 (Proxy Clear Signing) will be presented, with demos on real hardware devices.
+
+<a id="event-f0534a7bbb5ce9d2"></a>
+
+## YACHT RAVE { PRIVATE }
+
+- Record: `ibw-luma-evt-T1kmYGfXl5QxzLA`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-07T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/d054y35i>
+
+### Event Description
+
+Step aboard for an exclusive evening on the waters of Mumbai during Devcon. Hosted by Agents Clan Venture, this private yacht experience brings together founders, developers, investors, Web3 innovators, and visionaries for an evening of meaningful conversations, high-value networking, and premium hospitality.
+
+Away from the conference floors, experience a more exclusive setting where groundbreaking ideas meet exceptional people. Whether you're building the next big thing, exploring collaborations, or connecting with the global tech community, this is where conversations turn into opportunities.
+
+For sponsorship opportunities, please contact :
+
+Tg : @vinith1000 / @YACHTRAVE
+
+Ig : @agentsclanventure
+
+X : @agentsclann
+
+An exclusive gathering. Exceptional people. Unforgettable experiences.
+
+### Event Details
+
+- Hosted by: Agents Clan Venture
+- Event: Exclusive Yacht Networking Experience
+- Occasion: Devcon Mumbai
+- Date: 7 November 2026
+- Time: 6:00 PM - 9:00 PM IST
+- Location: Mumbai, Maharashtra
+- Exact Venue & Boarding Point: Disclosed upon approval
+- Entry: By approval only
+
+### Important Information
+
+This is a private, curated gathering with limited access. Attendance is subject to approval, and the exact yacht location and boarding details will be shared exclusively with approved guests.
+
+Come Aboard :
+
+Connect with the people shaping what's next in Web3, technology, and innovation - all against the backdrop of Mumbai's waterfront.
+
+<a id="event-c581987ac3e50e6b"></a>
+
+## Don't Ghost After Devcon 👻 \| Farewell Waterfront Walk
+
+- Record: `ibw-luma-evt-QkWwyZht8EIQiUy`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-07T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/odo7gaar>
+
+### About the event
+
+The conference ends. The conversations don't have to.
+
+One free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.
+
+### Who should join?
+
+Devcon builders, auditors, founders, DeFi users, creators and anyone wanting a relaxed farewell. People of all genders and experience levels are welcome.
+
+### What you'll get
+
+Close out conference week with real conversation and people worth following up with.
+
+Conversation starter, if you want one: Who would you like to keep talking with after Mumbai?
+
+### When, where and how to find us
+
+- Date: Saturday, 7 November 2026
+- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.
+- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.
+- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.
+- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.
+
+### RSVP and ticket
+
+This walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.
+
+Safety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.
+
+Independently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.
 
 <a id="event-1f32ff74e163cf4c"></a>
 
@@ -21014,58 +23024,6 @@ The strongest teams get incubated at NUS with milestone-based funding, mentorshi
 It is a direct pathway from first prototype to funded defense startup, with roots in Singapore, solving challenges that matter globally.
 
 More details will be shared in June.
-
-<a id="event-9185c9ca92fb4b64"></a>
-
-## n8n Hackathon: Automate with K2 Horizon
-
-- Record: `luma-crypto-miNdmkakNF9C33M`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-25T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/n8n-wuqj>
-
-### About the event
-
-An open hackathon built around creativity.
-
-Join us for a hands-on hackathon where developers, builders, and AI enthusiasts come together to turn ideas into working AI-powered automations using K2 Horizon and n8n.
-
-Bring an idea, get creative, and build something that shows what's possible when open-source AI meets workflow automation.
-
-You'll get access to K2 Horizon API credits, support throughout the hackathon, and the chance to win prizes including n8n Cloud credits and exclusive merch.
-
-Come with an idea or start from scratch, just be ready to build, experiment, and have fun.
-
-Doors open at 3:00 PM local time.
-
-Entry is free.
-
-<a id="event-3dcf38ff06c123ca"></a>
-
-## Hyperliquid Dubai \| Community Meetup
-
-- Record: `luma-crypto-BavsKnnpoAOSM59`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-25T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hbo5481d>
-
-### About the event
-
-Dubai summer is almost over. Time to come back home and hang out with the Hyperliquid local community before flying to the Asian conferences.
-
-Just a casual meetup to talk all things Hyperliquid. Builders, traders, maxis, curious people, everyone's welcome.
-
-A lot has happened since last meetup. $HYPE printed a few ATHs, Trump mentioned Hyperliquid at the White House, and HIP-4 got permissionless deployment.
-
-Whether you're a HYPE maxi or just curious to learn more, this is a good chance to connect with builders and the local community.
-
-Food and drinks available for purchase at the venue.
-
-### Event details
-
-Hosted by LetMeDo (Co-founder HL/MEDIA.), Wasim Fukase, Kanishk Khurana. The event takes place on September 25. Registration requires organizer approval.
 
 <a id="event-808bd3843a9eaefb"></a>
 
@@ -25054,112 +27012,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-20fba46ab22d37c7"></a>
-
-## Co-Working Fridays Berlin
-
-- Record: `luma-batch-evtYaCOkWzeExqGf`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dg17l7mq>
-
-### About the event
-
-Join us every Friday for a co-working day with Superteam Germany at Circuit Berlin.
-
-Bring your laptop, work on your project, and spend the day alongside other founders, developers, designers, researchers, and builders.
-
-Whether you're already shipping something or exploring what to build next, you're welcome. You don't need to be building on Solana to join.
-
-What it is
-
-Dedicated time to work on your own project
-
-A room full of people building and exploring new ideas
-
-A place to exchange ideas, get feedback, and solve blockers together
-
-An opportunity to meet the Superteam Germany community and discover what's happening across Solana and frontier tech
-
-### Who it's for
-
-Anyone who is building something, shipping something, or exploring an idea they want to turn into something real.
-
-What happens
-
-Meet other builders and see what they're working on
-
-Exchange feedback and get help with blockers
-
-Learn more about Solana if you're curious
-
-Occasional demos, discussions, and knowledge sharing
-
-The day
-
-09:00 - Doors open & coworking starts
-
-13:00 - Quick intros so everyone knows who's in the room (30s each)
-
-18:00 - Wrap
-
-<a id="event-1be7239ecdaf6e15"></a>
-
-## Pitch a Startup Idea for $500 in Prizes \| Talent Hub Friday
-
-- Record: `luma-batch-evt1srQAJm3QZVcK`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-rhij>
-
-### About the event
-
-Crypto World's Fair Pitchathon, hosted by Superteam Ireland
-
-Join Superteam IE at Talent Hub, Dublin's biggest crypto-focused co-working meet, for a pitchathon in the lead up to the world's biggest crypto hackathon: Crypto World's Fair by Colosseum.
-
-Link to register for the hackathon: https://colosseum.com/signup
-
-Create account -> Register for the hackathon.
-
-What's a pitchathon?
-
-A hackathon for pitches. No code required. You'll spend an afternoon sharpening your startup idea, pressure testing it with people who've built before, and pitching it to judges for feedback.
-
-Your startup can be a brand new idea, an existing idea you've been developing, or a startup you're already actively working on. The goal is to leave with a clearer story, stronger pitch, and something you can take forward into the hackathon, fundraising, or your next stage of building.
-
-What's Colosseum?
-
-Colosseum runs the largest online crypto hackathons in the world, plus an accelerator and venture fund. Hackathon winners get up to $250k in pre-seed funding and a place in their accelerator. Their last hackathon drew over 10,000 builders from 150 countries.
-
-What's Crypto World's Fair?
-
-Colosseum's newest hackathon, and their first open to builders across every blockchain ecosystem, not just Solana. It runs online from September 14 to October 12, with millions in prizes and VC funding on the line. This pitchathon is your chance to sharpen your startup and your story before taking it to the world.
-
-Who should come
-
-All levels welcome. You don't need a team, a technical background, or a polished pitch.
-
-You can come with a completely new startup idea, something you've already been exploring, or a startup you're currently building. You'll work on how you communicate the problem, solution, market, and why your idea should exist, before pitching it and getting feedback from judges.
-
-The room will be full of people who've built startups and work in the space, so it's also a great place to meet future cofounders, collaborators, and other builders.
-
-Prizes and format
-
-€500 in prizes. We'll give you a guide on how to shape and deliver your pitch, then you'll pitch to judges and get direct feedback on the day.
-
-### Schedule
-
-9:30am: Co-working space opens. Come early, work from Talent Hub and meet people
-
-2:00pm: Pitchathon kicks off
-
-4:30pm: Wrap up with judges' feedback
-
-Friday 11th September, Talent Hub, Dublin
-
 <a id="event-df8d65ad34489023"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -25252,100 +27104,6 @@ For more info, join the Solana Canada telegram group:https://t.me/+Dm3WujI--Go1Z
 
 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.
 
-<a id="event-2bbf0df8e7d3562c"></a>
-
-## Hermes agent vuela en Madrid
-
-- Record: `luma-batch-evtH9O4029YFKAy3`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/yp0bmykk>
-
-### About the event
-
-Hermes Wings Madrid
-
-El primer evento Hermes en España
-
-Estamos organizando el primer encuentro oficial de la comunidad Hermes en España y queremos que sea diferente.
-
-Un día pensado por y para builders. Sin presentaciones vacías ni postureo corporativo. Solo gente real compartiendo lo que está construyendo: agents, herramientas, experimentos, infraestructura, arte, lo que sea que esté moviendo la aguja.
-
-El formato será cercano, directo y sin filtros. Habrá espacio para exponer proyectos, charlas cortas de builders, networking de calidad y buenas vibras.
-
-Si estás construyendo algo interesante en el ecosistema Hermes / AI agents / ZK o cualquier cosa que realmente importe, este es tu evento.
-
-Plazas limitadas para mantener la calidad y el ambiente builder.
-
-¿Quieres exponer tu trabajo o proyecto?
-
-Ya tenemos dos ponentes cerrados y aún quedan plazas.
-
-Escríbenos.
-
-Cook the lobster, run on wings.
-
-<a id="event-753b4a7fd41af547"></a>
-
-## Nexa Blockchain Oslo community seed event - Talk: What’s unique about the Nexa blockchain? + pizza and beer
-
-- Record: `luma-batch-evtZqVQO2A6TUP3Z`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/3nr6u4ln>
-
-### About the event
-
-Now that the mourning period for the late king Harald V has ended it's appropriate to launch the first event for the Nexa community in Oslo Norway.
-
-Since the host jQrgen who is a developer at Nexa is based at the nerd collective (Nerdekollektivet) Oslo. This a natural spot to start the community.
-
-the goal is to bring together people that want to build smart contracts on Nexa and learn about how an advanced version of Bitcoin can look like since Nexa is a software-fork of Bitcoin with a new genesis block.
-
-Let's start the Nexa Norway community with a talk about how Nexa is unique and then discuss what events would be interesting in the future over beer and pizza.
-
-For example smart contract hackathons for businesses, startups or game development.
-
-For example talks by the Nexa team and anything else related to building softwares and businesses on Nexa.
-
-We could connect Nexa with music and art with for example NTFs
-
-Join the Norwegian-speaking Nexa telegram here: https://t.me/@nexa_nor
-
-There will be an airdrop download Wally Wallet (wallywallet.org) to receive it.
-
-<a id="event-616b1e28ff4c6b76"></a>
-
-## Hacettepe Blockchain Shipyard
-
-- Record: `luma-batch-WSthODxaN4iBzXM`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/d65e3064>
-
-### About the event
-
-SAAT İÇİN WHATSAPP GRUBUNU TAKİPTE KALIN
-
-Yeni döneme birlikte başlıyoruz! Hacettepe Blockchain olarak yeni dönemin ilk etkinliğinde Solana Superteam Türkiye ile bir araya geliyoruz.Bu buluşmada:
-
-→ Sizler ile tanışacağız, hedeflerinizi fikirlerinizi öğreneceğiz.→ Hacettepe Blockchain ekibi olarak yeni dönem planlarımızı paylaşacağız. → Solana ve Superteam Türkiye ekosisteminin Türkiye'deki yazılımcı, girişimci ve creatorlar için yarattığı fırsatları yakından tanıyacağız. → $3M+ toplam ödül ve yatırım havuzuna sahip olan dünyanın en büyük online hackathonunu konuşacağız.→ Ve tabii ki etkinliğe özel merch'lerimiz de olacak Blockchain'e, Web3'e, Solana'ya ya da yeni şeyler üretmeye ilginiz varsa gelin tanışalım.Yeni dönemin ilk buluşmasında görüşmek üzere!
-
-Hacettepe Blockchain hakkında;
-
-Bizler, Web3 ekosisteminde birlikte öğrenen ve üreten bir geliştirici topluluğuz. Amacımız, edindiğimiz tecrübeleri paylaşarak hem katılacağımız yarışmalardaki ekiplerimizi desteklemek hem de bu alanda geliştirme yapmak isteyenlere rehberlik etmektir.
-
-@hublockchain (Instagram/X/Linkedin)
-
-Solana hakkında;
-
-Solana, yüksek performans ve düşük işlem maliyetleri sunmak üzere tasarlanmış, açık kaynaklı bir blokzincir ağıdır. solana.com & solana.orgSuperteam Türkiye hakkında;
-
-Superteam Türkiye, Solana Vakfı tarafından desteklenen, geliştiriciler, girişimciler ve yaratıcı profesyonellerden oluşan küresel Superteam ağının Türkiye topluluğudur. tr.superteam.fun
-
 <a id="event-c197db24178e4696"></a>
 
 ## a90ae79ce9ad160165bf0144534b43ed - Party
@@ -25373,32 +27131,6 @@ The evening is for people working on privacy, decentralized technologies, and re
 Spots are strictly limited and available on a first-come, first-served basis.
 
 Tiny Encryption Algorithm key: btc
-
-<a id="event-7a70da175a1b2661"></a>
-
-## SuperteamTR — Colosseum Office Hours
-
-- Record: `luma-batch-6rFjYOqktYHjSC7`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/oe5e6nqm>
-
-### About the event
-
-Bring your blocker.
-
-Every Friday, we get builders in one room and work through whatever is slowing them down.
-
-Bring your:
-
-→ idea you're not sure about→ technical blocker→ pricing or distribution question→ repo, demo, deck or submission→ pitch that needs to be challenged→ scope that desperately needs cutting
-
-We'll help you figure out what's worth building, who would actually pay for it, what you can realistically ship by the deadline, and what needs fixing before submission.
-
-Sometimes the best part is hearing another team get challenged on the exact thing you haven't thought about yet.
-
-Every Friday, 19:00. One hour.
 
 <a id="event-713f968f2ff14f3e"></a>
 
@@ -47719,30 +49451,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 - Original page: <https://www.ethtokyo.org>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6ef3f51bd41b405d"></a>
-
-## Ethereum Institutional Summit 2026
-
-- Record: `w3v-ethereum-institutional-summit-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-25T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://eis.fracton.ventures>
-
-### About
-
-A one-day, invitation-only summit in Tokyo for institutional decision-makers and the founders and researchers shaping the institutional layer of Ethereum.
-
-The summit brings together global institutional investors, Japanese financial institutions, and project leaders for the first time in Japan at this scale.
-
-The summit takes up the moment Ethereum evolves beyond a digital asset into the financial infrastructure of enterprises.
-
-Stablecoin payments connecting corporate treasuries, tokenized real-world assets entering institutional portfolios, onchain treasury operations restructuring accounting and audit, and institutional-grade DeFi protocols - these are no longer thought experiments. They are working systems being built, deployed, and evaluated right now.
-
-Held in English, with Japanese translation provided including subtitles. Closed Roundtable sessions operate under the Chatham House Rule.
-
-Ethereum is the most accessible public blockchain in the world - and, in fact, the world's largest stablecoin network. Yet one challenge remains: to institutional investors, it can look "too public." What will it take, right now, for more institutional assets to be built and put to work on Ethereum? That is the missing piece of the puzzle - and this summit exists to confront it head-on: the future in which institutions run on Ethereum.
 
 <a id="event-516ba97d27824a87"></a>
 

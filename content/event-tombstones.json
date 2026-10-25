@@ -1998,5 +1998,61 @@
       "luma-batch-evtv7wlqx3dblrwf",
       "hrprzis8"
     ]
+  },
+  "luma-batch-WSthODxaN4iBzXM": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-wsthodxan4ibzxm",
+      "d65e3064"
+    ]
+  },
+  "luma-batch-6rFjYOqktYHjSC7": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-6rfjyoqktyhjsc7",
+      "oe5e6nqm"
+    ]
+  },
+  "luma-batch-evtYaCOkWzeExqGf": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-evtyacokwzeexqgf",
+      "dg17l7mq"
+    ]
+  },
+  "luma-batch-evtH9O4029YFKAy3": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-evth9o4029yfkay3",
+      "yp0bmykk"
+    ]
+  },
+  "luma-batch-evtZqVQO2A6TUP3Z": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-evtzqvqo2a6tup3z",
+      "3nr6u4ln"
+    ]
+  },
+  "luma-batch-evt1srQAJm3QZVcK": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-batch-evt1srqajm3qzvck",
+      "superteam-rhij"
+    ]
+  },
+  "luma-crypto-miNdmkakNF9C33M": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-crypto-mindmkaknf9c33m",
+      "n8n-hackat"
+    ]
+  },
+  "luma-crypto-BavsKnnpoAOSM59": {
+    "until": "2027-10-25T18:36:42.511Z",
+    "slugs": [
+      "luma-crypto-bavsknnpoaosm59",
+      "hyperliqui"
+    ]
   }
 }

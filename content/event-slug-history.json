@@ -5271,5 +5271,197 @@
   "token2049-evt-JZv1H985Ggdevr9": {
     "slug": "tech-summit",
     "aliases": []
+  },
+  "ibw-luma-evt-5vtPTw3cBLlbd4R": {
+    "slug": "harkirat",
+    "aliases": []
+  },
+  "ibw-luma-evt-ZAxjtXnbNBG3bus": {
+    "slug": "touchgrass",
+    "aliases": []
+  },
+  "ibw-luma-evt-vgIvAuAafDBzhhG": {
+    "slug": "pickleball",
+    "aliases": []
+  },
+  "ibw-luma-evt-cFa8fILMOq8zmBQ": {
+    "slug": "frontiertraders",
+    "aliases": []
+  },
+  "ibw-luma-evt-ePIIFhD8Ah3L5au": {
+    "slug": "cmosummit",
+    "aliases": []
+  },
+  "ibw-luma-evt-XkYzPSXLI1Hh0m9": {
+    "slug": "walk404",
+    "aliases": []
+  },
+  "ibw-luma-evt-wvg88v6eCeGG9T5": {
+    "slug": "bughunters",
+    "aliases": []
+  },
+  "ibw-luma-evt-PcFq3OesDO3CXGW": {
+    "slug": "mevibes",
+    "aliases": []
+  },
+  "ibw-luma-evt-UMczcjylUMol0HW": {
+    "slug": "cryptomondays",
+    "aliases": []
+  },
+  "ibw-luma-evt-98I7yeD0tlpcCbM": {
+    "slug": "post-dss-no-more-slides-security-community-walk",
+    "aliases": [
+      "noslides"
+    ]
+  },
+  "ibw-luma-evt-uR7BoNCWfzzMst8": {
+    "slug": "nopitches",
+    "aliases": []
+  },
+  "ibw-luma-evt-QTjNSAnTUo9U0Nd": {
+    "slug": "assassin",
+    "aliases": []
+  },
+  "ibw-luma-evt-6fLWZpo8X0CcYxz": {
+    "slug": "sechub",
+    "aliases": []
+  },
+  "ibw-luma-evt-OFEismQuGjAUfLX": {
+    "slug": "starkday1",
+    "aliases": []
+  },
+  "ibw-luma-evt-KCJhfbrKPukDWTG": {
+    "slug": "privacyhub",
+    "aliases": []
+  },
+  "ibw-luma-evt-HVcn0c3qr2JoL1L": {
+    "slug": "buildernights",
+    "aliases": []
+  },
+  "ibw-luma-evt-lEdV5rOtFA9Zysr": {
+    "slug": "claudecode",
+    "aliases": []
+  },
+  "ibw-luma-evt-yRqDres5j6ELDNi": {
+    "slug": "starkafterdark",
+    "aliases": []
+  },
+  "ibw-luma-evt-f7G6H4VGNrSXYIR": {
+    "slug": "armada",
+    "aliases": []
+  },
+  "ibw-luma-evt-XsVZI9S06blxMwr": {
+    "slug": "noslippage",
+    "aliases": []
+  },
+  "ibw-luma-evt-lDxWVZcnDDnyXAC": {
+    "slug": "lowgas",
+    "aliases": []
+  },
+  "ibw-luma-evt-rkYNBXqNYl6ZLBm": {
+    "slug": "hashkey",
+    "aliases": []
+  },
+  "ibw-luma-evt-3XbijAWU2D4ZDpt": {
+    "slug": "starkday2",
+    "aliases": []
+  },
+  "ibw-luma-evt-fa4YPMi1DWA09q9": {
+    "slug": "openhouse",
+    "aliases": []
+  },
+  "ibw-luma-evt-08jX7ADSLH1huIV": {
+    "slug": "0g-builders-brunch",
+    "aliases": [
+      "zerog"
+    ]
+  },
+  "ibw-luma-evt-NDGCExZGe7BfYks": {
+    "slug": "defilunch",
+    "aliases": []
+  },
+  "ibw-luma-evt-CTqpCOXclC0Tmfb": {
+    "slug": "clickoptions",
+    "aliases": []
+  },
+  "ibw-luma-evt-iTFBTwT5IzcPZcF": {
+    "slug": "undisclosed",
+    "aliases": []
+  },
+  "ibw-luma-evt-Xs3C0Owpa4JQHSQ": {
+    "slug": "cafecompute",
+    "aliases": []
+  },
+  "ibw-luma-evt-cIn46v6nJNmtSYu": {
+    "slug": "allowlist",
+    "aliases": []
+  },
+  "ibw-luma-evt-rUOnUMPkGfGF1CH": {
+    "slug": "seedphrases",
+    "aliases": []
+  },
+  "ibw-luma-evt-HUylEhXPcRpb1Uv": {
+    "slug": "opendoors",
+    "aliases": []
+  },
+  "ibw-luma-evt-BabRKkjuW29SOdD": {
+    "slug": "nodes-need-fresh-air-too-ethereum-infra-walk",
+    "aliases": [
+      "freshair"
+    ]
+  },
+  "ibw-luma-evt-E1BEaj56Aeln5ih": {
+    "slug": "l2beat",
+    "aliases": []
+  },
+  "ibw-luma-evt-KAttU3Qk9jmQdfG": {
+    "slug": "coffeex",
+    "aliases": []
+  },
+  "ibw-luma-evt-kGC3kShrdk8B6Ip": {
+    "slug": "womens-networking",
+    "aliases": [
+      "womenweb3"
+    ]
+  },
+  "ibw-luma-evt-VLyTum0FswtPeAH": {
+    "slug": "foundervc",
+    "aliases": []
+  },
+  "ibw-luma-evt-W3bxtS9mKSeIwVK": {
+    "slug": "deepflow",
+    "aliases": []
+  },
+  "ibw-luma-evt-hIZnQMK5SVTWgj8": {
+    "slug": "ctparty",
+    "aliases": []
+  },
+  "ibw-luma-evt-EjZWupM0D19CQZ8": {
+    "slug": "zkfriends",
+    "aliases": []
+  },
+  "ibw-luma-evt-d7PXEaGekwoGpzw": {
+    "slug": "daovote",
+    "aliases": []
+  },
+  "ibw-luma-evt-0Hr9OEq92aSEqFs": {
+    "slug": "stepfarming",
+    "aliases": []
+  },
+  "ibw-luma-evt-fi1E5JHRmTD6D6r": {
+    "slug": "onelastgm",
+    "aliases": []
+  },
+  "ibw-luma-evt-7bLYYfCCvXDasQt": {
+    "slug": "clearsigning",
+    "aliases": []
+  },
+  "ibw-luma-evt-T1kmYGfXl5QxzLA": {
+    "slug": "yachtrave",
+    "aliases": []
+  },
+  "ibw-luma-evt-QkWwyZht8EIQiUy": {
+    "slug": "dontghost",
+    "aliases": []
   }
 }
