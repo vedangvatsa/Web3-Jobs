@@ -52099,8 +52099,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "1cbd1482-a0ce-467d-9421-5b66f0de1fec",
-      "verification": "pending",
-      "postId": "6add7a886887a2efc1e849eb"
+      "verification": "verified",
+      "postId": "6add7a886887a2efc1e849eb",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519966558614409216"
     }
   ]
 }
