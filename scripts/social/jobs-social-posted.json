@@ -55136,7 +55136,8 @@
       },
       "account": "channel:developers",
       "attemptId": "8cc37516-c533-49d9-822a-e965d70a33c9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31d921d459e4feea23774f93f22048c6ab678faf"
     }
   ]
 }
