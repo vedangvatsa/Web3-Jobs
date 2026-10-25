@@ -52777,7 +52777,8 @@
       },
       "account": "channel:ai",
       "attemptId": "20b442c7-6c8e-47e7-9b18-a4b5ec69c19e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaa2962cfccdf2d748a75f24b6168fe4871799f5a"
     }
   ]
 }
