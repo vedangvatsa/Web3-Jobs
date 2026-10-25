@@ -55863,7 +55863,8 @@
       },
       "account": "channel:web3",
       "attemptId": "b94fc17e-5e77-4c36-a52b-3682da227424",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x93de06c7b1b400e6f649d43cd07833415f15701d"
     }
   ]
 }
