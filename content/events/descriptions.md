@@ -25054,112 +25054,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-a582aab8817dbed4"></a>
-
-## Sydney Real Vision Meetup: Bear Market to Beer Market
-
-- Record: `luma-batch-evtJOiZY8pmt8qTg`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/9rcw3azh>
-
-### About the event
-
-Sydney Real Vision Meetup: Bear Market to Beer Market
-
-Friday 25 September - from 5pm
-
-Sydney Visionaries:
-
-If you're reading this, you've survived winter and crypto winter (maybe). Who cares, we're calling it: the end of the Bear market and the start of the Beer market. While past performance is not a guarantee of future results, this promises to be the second or third biggest Real Vision (Sydney) event of the year - volatility adjusted.
-
-Forget celebrity fashion influencers, we have our own 'Trend Chameleon', Jamie Coutts, to tell you what's hot and what's not (DYOR).
-
-Consider the evening a Safe Haven for discussing bag-related trauma. In the heart of the CBD, but far enough from Martin Place that you shouldn't have to push past the ABC bullion queue... even if it's really over-extended.
-
-<a id="event-a899035140f59b70"></a>
-
-## 💻 Coworking Fridays Istanbul — SuperteamTR
-
-- Record: `luma-batch-sdhDp3YqyfRjqAM`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qfgs5eo3>
-
-### About the event
-
-Free coworking in Istanbul, every Friday.
-
-Come work with us, meet other founders and builders, get feedback on what you're building, or just spend the day around people shipping.
-
-Whether you're already building on Solana or simply curious about the ecosystem, you're welcome.
-
-### What to expect
-
-→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building
-
-Open to founders, developers, designers, creators, students - basically anyone building something.
-
-You don't need to be a Superteam member to join.
-
-Bring your laptop. See you Friday.
-
-By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
-<a id="event-685c1aea5c052cbe"></a>
-
-## Superteam NL Co-Working Friday @ AI AM Amsterdam
-
-- Record: `luma-batch-evtjmZyWDGeaQvfV`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/mm19uxq0>
-
-### About the event
-
-Hosted by Superteam NL at AI AM!
-
-Date: Friday, 25 Sep 2026
-
-Time: 10:00 - 17:00 (drop in anytime)
-
-Venue: AI AM Office
-
-How to get to AI AM video instruction: https://drive.google.com/file/d/1Z178rDAI7Eadu55JETm-0FMgVijHhJan/view?usp=drive_link
-
-This session is for builders, founders, freelancers, and anyone curious about the web3 space in the Netherlands
-
-FAQ:
-
-What does the Co-Working Day look like?
-
-It's an open workday for the local web3 community at the AI AM office. Most people work together in the main shared space. You can bring your laptop, focus on your own work, meet other builders, and join conversations throughout the day.
-
-Is it just one shared room?
-
-The main area is a shared co-working space where everyone can sit, work, and connect. Separate meeting rooms are available for calls, meetings, or focused conversations.
-
-Is there a fixed program?
-
-No. There is no formal workshop or scheduled agenda. You can work independently, exchange feedback, meet people from the ecosystem, or simply use the space as your office for the day.
-
-Do I need to work in web3?
-
-No. Builders, founders, freelancers, and anyone curious about web3 are welcome.
-
-Do I need to stay all day?
-
-No. Drop in anytime between 10:00 and 17:00 and stay for as long as you like. Free parking is available.
-
-Limited spots available - register in advance to secure your place.
-
-Photos will be taken during the event. By participating, you agree to their use for promotional purposes.
-
-Make sure to follow: https://x.com/SuperteamNL
-
 <a id="event-20fba46ab22d37c7"></a>
 
 ## Co-Working Fridays Berlin
@@ -25297,66 +25191,6 @@ Superteam is a global co-operative organised into regional non-profit organisati
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
 
 By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
-
-<a id="event-155fff5d2d52ac50"></a>
-
-## 貨幣とはなにか？読書会 #6（『ビットコイン・スタンダード』音読&議論）
-
-- Record: `luma-batch-0yVtvAlhNGgNr7x`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hsh2vvrp>
-
-### About the event
-
-ビットコイン研究所 執筆者の 押川さんとともに『ビットコインスタンダード』をその場でゼロから全て音読し、議論を行っていきます。その第六回。今回は、第9章 p.174ページから音読行います。（第1~5回で第1章〜第8章までを完全に音読した）事前に読んでくる必要はありません。第7章まではビットコインの話というよりは、オーストリア経済学派から見える貨幣、貨幣の歴史という感じで、敷居は低いと思います。前回からようやくビットコインの説明に入り、ビットコインの技術的な疑問についての解説・議論も盛り上がりました。今回もビットコイン・ブロックチェーンの仕組みについて知りたい初心者の人にも参加していただきたいです。初心者大歓迎。
-
-書籍購入推奨行動指針）
-
-・『ビットコインスタンダード』を全て音読する
-
-・途中で参加者同士でわからない部分の確認や議論はやっていく（完読は手段であり、テーマの理解度を深めるのが本来の目的である） 会場はTokyo Bitcoin Base 四谷の2階です。会場に着いた方は入って奥の階段から2階に上がってきてください。
-
-<a id="event-dab8322f97b7fabd"></a>
-
-## HIYOKO-Verse APAC Tour with Web3 Week Asia
-
-- Record: `luma-batch-evtv7wLqx3DBlrWF`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hrprzis8>
-
-### About the event
-
-Step into the Hiyoko Verse
-
-We're throwing a party to introduce Hiyoko to Jakarta, and we want you there for it. Hiyoko (HYK) is a new project on the BNB Chain built around one simple idea: crypto doesn't have to feel cold and corporate. HYK connects game activity, reward points, and wellness engagement into one value circulation model so everyday users can start with what's already familiar to them and rise toward full Web3 participation, one step at a time. This is the night we introduce that world to the city. Come hang out with us, good drinks in hand, and a room full of people who are genuinely hyped about what's being built.
-
-On the night, you can expect:
-
-A first look at the Hiyoko ecosystem and the HYK token, straight from the team
-
-Real conversations with builders, collectors, and early community members not just a pitch deck
-
-A few surprises we're keeping under wraps until the night itself
-
-Giveaways throughout the evening
-
-Food, drinks, and good company
-
-This is an early moment for something we think is going to be special, and honestly, we'd rather celebrate it with the right crowd than a huge anonymous one.
-
-Spots are limited,RSVP now to lock yours in.
-
-Pullman Thamrin, Central Jakarta
-
-September 25, 2026
-
-6:00 PM - 10:00 PM WIB
-
-See you there.
 
 <a id="event-073604781e375901"></a>
 
@@ -68342,6 +68176,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-96e1b308bc49adb3"></a>
+
+## Post Quantum Cryptography on IBM LinuxONE
+
+- Record: `mu-317090133`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T11:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317090133/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c0515059184ac2ff"></a>
 
 ## Programmatic 360° \| Futuro, Eficiência & Escala
@@ -68411,6 +68257,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/a0fjio4u>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-751c678d7b52c6ed"></a>
+
+## ETHEREUM @ MOZFEST
+
+- Record: `luma-evt-ooMqgHEqhm7sdaH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/jov27syn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -68519,6 +68377,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T20:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/meetup-group-cttlfnfm/events/316047223/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-abdb7d54c45babc5"></a>
+
+## Open Bitcoin Q&A chat!
+
+- Record: `mu-316047397`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T20:00:00-04:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047397/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70357,6 +70227,18 @@ The event brings perpetual-futures traders, builders, protocol and ecosystem tea
 
 HyprEarn describes its product as an AI trading desk connecting perpetual DEXs, including Hyperliquid, Lighter, Pacifica, Arcus and Decibel on Aptos. Its stated features include AI-generated entry, exit and sizing suggestions, one-click execution and non-custodial agents.
 
+<a id="event-c4aac69285c761b3"></a>
+
+## MLH Solana Hackathon
+
+- Record: `w3v-mlh-solana-hackathon`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T12:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://events.mlh.com/events/15200-solana-hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-427e1846e43897fe"></a>
 
 ## Devcon Afterparty
@@ -70404,6 +70286,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-07T09:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317076171/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9d0569739fd3982c"></a>
+
+## SuperteamTR x Dev3pack: University Hackathon ⚡️ — Bursa Chapter
+
+- Record: `luma-host-evt-evt-yPK38OgQ2mKqtUp`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T09:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/4p7vm8o9>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70606,6 +70500,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-be24cd59781ca168"></a>
+
+## An Evening with Lukka - DAS London Edition
+
+- Record: `w3v-evening-lukka-das-london-edition-26-11-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/lukka-mugi>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-dcc5a11966c710a3"></a>
 
 ## Superteam UAE Members Lunch (MEMBERS ONLY)
@@ -70639,6 +70545,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/kansas-city-open-source-meetup/events/317096562/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-50bc0959edc896d1"></a>
+
+## •	Linux on IBM Z and LinuxONE Crypto News
+
+- Record: `mu-317096564`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70766,6 +70684,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 200ms covers Solana's market microstructure and DeFi, including implications for protocol teams and traders. Attendance is free and selective, with priority for Solana builders, core developers and onchain traders. Registration requires approval; the organizer shares the venue with accepted guests.
 
+<a id="event-a79b7640051e268c"></a>
+
+## UBC 2026 Hackathon
+
+- Record: `w3v-ubc-2026-hackathon`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T09:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://www.universityblockchain.org/programs/hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7038f0d86b3cc31e"></a>
 
 ## Solana Intelligence Summit
@@ -70827,6 +70757,18 @@ Seats are intentionally limited.
 - Starts: 2026-11-13T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/6b8uss6b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6d592aa0327b577d"></a>
+
+## BCH BLAZE 2026
+
+- Record: `w3v-bch-blaze-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T09:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://bchblaze.cash>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71464,6 +71406,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e99d16dc60df730e"></a>
+
+## Capitol City Bitcoin meetup - virtual
+
+- Record: `mu-314396580`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396580/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-38281216c0546ccc"></a>
 
 ## Breakpoint Pub Quiz
@@ -71575,6 +71529,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-04d42c215e0a2ed8"></a>
+
+## IXH26 Italian XRPL Hackathon
+
+- Record: `w3v-ixh26-italian-xrpl-hackathon`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T09:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/IXH26-xrpl-hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7d143448b85210de"></a>
 
 ## University Blockchain Conference 2026
@@ -71667,6 +71633,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.universityblockchain.org/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-17999a20d13df500"></a>
+
+## HERHACK 2026
+
+- Record: `w3v-herhack-2026`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T03:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://herhack.devpost.com>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

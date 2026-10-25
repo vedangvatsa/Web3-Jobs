@@ -2196,58 +2196,6 @@
     }
   },
   {
-    "id": "luma-batch-0yVtvAlhNGgNr7x",
-    "slug": "hsh2vvrp",
-    "name": "貨幣とはなにか？読書会 #6（『ビットコイン・スタンダード』音読&議論）",
-    "description": "ビットコイン研究所 執筆者の 押川さんとともに『ビットコインスタンダード』をその場でゼロから全て音読し、議論を行っていきます。その第六回。今回は、第9章 p.174ページから音読行います。（第1~5回で第1章〜第8章までを完全に音読した）事前に読んでくる必要はありません。第7章まではビットコインの話というよりは、オーストリア経済学派から見える貨幣、貨幣の歴史という感じで、敷居は低いと思います。前回からようやくビットコインの説明に入り、ビットコインの技術的な疑問についての解説・議論も盛り上がりました。今回もビットコイン・ブロックチェーンの仕組みについて知りたい初心者の人にも参加していただきたいです。初心者大歓迎。\n\n書籍購入推奨行動指針）\n\n・『ビットコインスタンダード』を全て音読する\n\n・途中で参加者同士でわからない部分の確認や議論はやっていく（完読は手段であり、テーマの理解度を深めるのが本来の目的である）⚠️ 会場はTokyo Bitcoin Base 四谷の2階です。会場に着いた方は入って奥の階段から2階に上がってきてください。",
-    "startDate": "2026-09-25T10:00:00.000Z",
-    "endDate": "2026-09-25T13:00:00.000Z",
-    "city": "Shinjuku City",
-    "country": "Japan",
-    "location": "Tokyo Bitcoin Base, Tokyo Bitcoin Base, 2-8 Honshiochō, Shinjuku City, Tokyo 160-0003, Japan",
-    "url": "https://luma.com/hsh2vvrp",
-    "registrationUrl": "https://luma.com/hsh2vvrp",
-    "coverImage": "/events/luma-batch-0yVtvAlhNGgNr7x-e33bf90e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "wokashi",
-      "ichinaka",
-      "日本ビットコイン産業株式会社",
-      "Tokyo Bitcoin Base"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Asia/Tokyo",
-    "neighborhood": "2",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Tokyo Bitcoin Base",
-    "addressLocality": "Shinjuku City",
-    "addressRegion": "Tokyo",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "wokashi"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hsh2vvrp",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hsh2vvrp",
-      "eventId": "evt-0yVtvAlhNGgNr7x",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-wtH0sG5zceHKbq0",
     "slug": "29w3qkwc",
     "name": "Marunouchi Morning Code",
@@ -4369,55 +4317,6 @@
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe",
       "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-sdhDp3YqyfRjqAM",
-    "slug": "qfgs5eo3",
-    "name": "💻 Coworking Fridays Istanbul — SuperteamTR",
-    "description": "Free coworking in Istanbul, every Friday.\n\nCome work with us, meet other founders and builders, get feedback on what you’re building, or just spend the day around people shipping.\n\nWhether you’re already building on Solana or simply curious about the ecosystem, you’re welcome.\n\nWhat to expect\n\n→ Free coworking→ Superteam Türkiye team on-site→ Founder & builder community→ Feedback, intros, and ecosystem support→ Coffee, conversations, and heads-down building\n\nOpen to founders, developers, designers, creators, students — basically anyone building something.\n\nYou don’t need to be a Superteam member to join.\n\nBring your laptop. See you Friday. ⚡\n\nBy signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.",
-    "startDate": "2026-09-25T07:00:00.000Z",
-    "endDate": "2026-09-25T14:00:00.000Z",
-    "city": "Şişli",
-    "country": "Türkiye",
-    "location": "Kolektif House Levent, Kolektif House Levent, Kolektif House Esentepe Mahallesi Talatpaşa Caddesi No: 5 / 1 Levent, İstanbul, Esentepe, Talatpaşa Cd. No: 5/1, 34394 Şişli/İstanbul, Türkiye",
-    "url": "https://luma.com/qfgs5eo3",
-    "registrationUrl": "https://luma.com/qfgs5eo3",
-    "coverImage": "/events/luma-batch-sdhDp3YqyfRjqAM-8f10144e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Kolektif House Levent",
-    "addressLocality": "Şişli",
-    "addressRegion": "İstanbul",
-    "addressCountry": "TR",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Türkiye",
-      "url": "https://luma.com/user/SuperteamTR"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/qfgs5eo3",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/qfgs5eo3",
-      "eventId": "calev-sdhDp3YqyfRjqAM",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
     }
   },
   {
@@ -9202,36 +9101,6 @@
     }
   },
   {
-    "id": "luma-batch-evtjmZyWDGeaQvfV",
-    "slug": "mm19uxq0",
-    "name": "Superteam NL Co-Working Friday @ AI AM Amsterdam",
-    "description": "Hosted by Superteam NL at AI AM!\n\n🗓 Date: Friday, 25 Sep 2026\n\n🕙 Time: 10:00 - 17:00 (drop in anytime)\n\n📍 Venue: AI AM Office\n\nHow to get to AI AM video instruction: https://drive.google.com/file/d/1Z178rDAI7Eadu55JETm-0FMgVijHhJan/view?usp=drive_link\n\nThis session is for builders, founders, freelancers, and anyone curious about the web3 space in the Netherlands 🌱\n\nFAQ:\n\nWhat does the Co-Working Day look like?\n\nIt’s an open workday for the local web3 community at the AI AM office. Most people work together in the main shared space. You can bring your laptop, focus on your own work, meet other builders, and join conversations throughout the day.\n\nIs it just one shared room?\n\nThe main area is a shared co-working space where everyone can sit, work, and connect. Separate meeting rooms are available for calls, meetings, or focused conversations.\n\nIs there a fixed program?\n\nNo. There is no formal workshop or scheduled agenda. You can work independently, exchange feedback, meet people from the ecosystem, or simply use the space as your office for the day.\n\nDo I need to work in web3?\n\nNo. Builders, founders, freelancers, and anyone curious about web3 are welcome.\n\nDo I need to stay all day?\n\nNo. Drop in anytime between 10:00 and 17:00 and stay for as long as you like. Free parking is available.\n\nLimited spots available - register in advance to secure your place.\n\n📸 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.\n\nMake sure to follow: https://x.com/SuperteamNL",
-    "startDate": "2026-09-25T08:00:00.000Z",
-    "endDate": "2026-09-25T15:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "AI AM, AI AM, Jacob Bontiusplaats 9, 1018 LL Amsterdam, Netherlands",
-    "url": "https://luma.com/mm19uxq0",
-    "registrationUrl": "https://luma.com/mm19uxq0",
-    "coverImage": "/events/luma-batch-evtjmZyWDGeaQvfV-d00a739d.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam NL"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Amsterdam",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/mm19uxq0",
-      "eventId": "evt-jmZyWDGeaQvfVba",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtE3ugczWPDFkHd",
     "slug": "fgdkn4vb",
     "name": "Crypto Community Connections",
@@ -12643,36 +12512,6 @@
     }
   },
   {
-    "id": "luma-batch-evtJOiZY8pmt8qTg",
-    "slug": "9rcw3azh",
-    "name": "Sydney Real Vision Meetup: Bear Market to Beer Market",
-    "description": "Sydney Real Vision Meetup: Bear Market to Beer Market\n\nFriday 25 September · from 5pm\n\nSydney Visionaries:\n\nIf you’re reading this, you’ve survived winter and crypto winter (maybe). Who cares, we’re calling it: the end of the Bear market and the start of the Beer market. While past performance is not a guarantee of future results, this promises to be the second or third biggest Real Vision (Sydney) event of the year - volatility adjusted.\n\nForget celebrity fashion influencers, we have our own ‘Trend Chameleon’, Jamie Coutts, to tell you what’s hot and what’s not (DYOR).\n\nConsider the evening a Safe Haven for discussing bag-related trauma. In the heart of the CBD, but far enough from Martin Place that you shouldn’t have to push past the ABC bullion queue… even if it’s really over-extended.",
-    "startDate": "2026-09-25T07:00:00.000Z",
-    "endDate": "2026-09-25T13:00:00.000Z",
-    "city": "Sydney",
-    "country": "Australia",
-    "location": "The Republic Hotel, The Republic Hotel, 69-73 Pitt St, Sydney NSW 2000, Australia",
-    "url": "https://luma.com/9rcw3azh",
-    "registrationUrl": "https://luma.com/9rcw3azh",
-    "coverImage": "/events/luma-batch-evtJOiZY8pmt8qTg-b4f429e1.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Real Vision Meetup Schedules"
-    ],
-    "price": "Free",
-    "timezone": "Australia/Sydney",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/9rcw3azh",
-      "eventId": "evt-JOiZY8pmt8qTgTF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtS05EzhQE2Xcgn",
     "slug": "groundwork_dc",
     "name": "Groundwork",
@@ -15016,36 +14855,6 @@
     "sourceVerification": {
       "url": "https://luma.com/l6klkz8k",
       "eventId": "evt-i55CyO2sH2IUVsI",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtv7wLqx3DBlrWF",
-    "slug": "hrprzis8",
-    "name": "HIYOKO-Verse APAC Tour with Web3 Week Asia",
-    "description": "Step into the Hiyoko Verse 🐣\n\nWe're throwing a party to introduce Hiyoko to Jakarta, and we want you there for it. Hiyoko (HYK) is a new project on the BNB Chain built around one simple idea: crypto doesn't have to feel cold and corporate. HYK connects game activity, reward points, and wellness engagement into one value circulation model so everyday users can start with what's already familiar to them and rise toward full Web3 participation, one step at a time. This is the night we introduce that world to the city. Come hang out with us, good drinks in hand, and a room full of people who are genuinely hyped about what's being built.\n\nOn the night, you can expect:\n\n🐤 A first look at the Hiyoko ecosystem and the HYK token, straight from the team\n\n🤝 Real conversations with builders, collectors, and early community members  not just a pitch deck\n\n🎁 A few surprises we're keeping under wraps until the night itself\n\n🎉 Giveaways throughout the evening\n\n🍸 Food, drinks, and good company\n\nThis is an early moment for something we think is going to be special, and honestly, we'd rather celebrate it with the right crowd than a huge anonymous one.\n\nSpots are limited,RSVP now to lock yours in.\n\n📍 Pullman Thamrin, Central Jakarta\n\n📅 September 25, 2026\n\n🕕 6:00 PM – 10:00 PM WIB\n\nSee you there. 🐤",
-    "startDate": "2026-09-25T11:00:00.000Z",
-    "endDate": "2026-09-25T14:00:00.000Z",
-    "city": "Kota Jakarta Pusat",
-    "country": "Indonesia",
-    "location": "Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
-    "url": "https://luma.com/hrprzis8",
-    "registrationUrl": "https://luma.com/hrprzis8",
-    "coverImage": "/events/luma-batch-evtv7wLqx3DBlrWF-428d68bc.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/hrprzis8",
-      "eventId": "evt-v7wLqx3DBlrWFBB",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
