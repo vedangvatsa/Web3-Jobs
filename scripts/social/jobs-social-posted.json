@@ -52633,7 +52633,8 @@
       },
       "account": "channel:base",
       "attemptId": "980b2f05-0b9f-4496-8869-d93e6276bc36",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc4c91f80aaf38ac5c40d7832c6721f03914a3b83"
     }
   ]
 }
