@@ -85458,11 +85458,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "53f7a2aa3977df9fe097",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T14:27:17.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "The Defiant item covers the same Oct. 23 SEC release of fiscal 2027 examination priorities that the ready article sectokenization already reports; The Defiant page itself returns HTTP 403. Independent coverage read at Cointelegraph and the primary SEC press release read live on 2026-10-25 confirm the event is unchanged.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:03:47.087Z",
+      "duplicateOf": "sectokenization",
+      "mergedInto": "66553f83e2cc41d6224d",
+      "lastReviewedDay": "2026-10-25"
     },
     "ea618f6d0b4256289567": {
       "source": "SEC Press Releases",
@@ -85479,11 +85499,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea618f6d0b4256289567",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T14:10:00.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "Same event as the ready article sectokenization: the SEC's Oct. 23 announcement of the Division of Examinations' fiscal 2027 priorities. Read the live SEC press release 2026-10-25 (HTTP 200 with the readiness UA) and read Cointelegraph's Oct. 23 report on the same document; the existing article already cites the release, the priorities PDF, Unchained, Decrypt and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:03:47.087Z",
+      "duplicateOf": "sectokenization",
+      "mergedInto": "66553f83e2cc41d6224d",
+      "lastReviewedDay": "2026-10-25"
     },
     "0a96c31dc95e23b1e52c": {
       "source": "Bitcoin Magazine",
@@ -156040,6 +156076,46 @@
             }
           ],
           "reviewedAt": "2026-10-25T04:00:05.693Z"
+        },
+        "ea618f6d0b4256289567": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as the ready article sectokenization: the SEC's Oct. 23 announcement of the Division of Examinations' fiscal 2027 priorities. Read the live SEC press release 2026-10-25 (HTTP 200 with the readiness UA) and read Cointelegraph's Oct. 23 report on the same document; the existing article already cites the release, the priorities PDF, Unchained, Decrypt and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:03:47.087Z",
+          "duplicateOf": "sectokenization",
+          "mergedInto": "66553f83e2cc41d6224d"
+        },
+        "53f7a2aa3977df9fe097": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The Defiant item covers the same Oct. 23 SEC release of fiscal 2027 examination priorities that the ready article sectokenization already reports; The Defiant page itself returns HTTP 403. Independent coverage read at Cointelegraph and the primary SEC press release read live on 2026-10-25 confirm the event is unchanged.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:03:47.087Z",
+          "duplicateOf": "sectokenization",
+          "mergedInto": "66553f83e2cc41d6224d"
         }
       },
       "baselineSlugs": [
