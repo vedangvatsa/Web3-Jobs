@@ -25020,28 +25020,6 @@ Taking place on 25-26 September 2026 at BINUS Kemanggisan, BINUS Crypto Week fea
 
 This year, the event is strengthened through collaborations with leading ecosystem partners, including W3W Asia, alongside a Web3 hackathon in collaboration with ETHJakarta focused on encouraging students and developers to build real-world blockchain solutions.
 
-<a id="event-0547d7ff69018458"></a>
-
-## Build Global, Buatan Malaysia
-
-- Record: `luma-batch-evtufFBB1kHBQs5N`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/58f9a12t>
-
-### About the event
-
-If a judge has to stop and think to understand your project, you have already lost. Friday is about making sure that does not happen to yours.
-
-Two weeks out from the Colosseum deadline, the thing separating a shortlist from silence is almost never the build. It is whether a stranger scrolling your deck between meetings can tell what you do, who it is for, and why you are the one building it.
-
-We start of with co-working from 12-2pm then storytelling. The Pixar structure applied to a pitch, the one-liner test, and why judges are filtering applications rather than selecting them. Then we open the floor. Bring your deck or your demo, take two minutes, and let the room tell you what is not landing. Kindly, but usefully.
-
-Bring a laptop and bring the version you have.
-
-Friday 12pm, Build Station KL. Submissions close 12 October.
-
 <a id="event-39b81f73e1383a76"></a>
 
 ## Startup Village Chitwan
@@ -25129,58 +25107,6 @@ You don't need to be a Superteam member to join.
 Bring your laptop. See you Friday.
 
 By signing up, you agree that Superteam Türkiye may take and share photos and videos of you from the event.
-
-<a id="event-faf3373ace227c12"></a>
-
-## Colosseum Solana AI Workshop
-
-- Record: `luma-batch-8pgZn40d3sQCULt`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zvojdnfq>
-
-### About the event
-
-Colosseum: Solana AI Workshop
-
-Learn how to build AI-powered applications on Solana and leave with a clearer technical path for your Colosseum project.
-
-Superteam Thailand is bringing builders together for a practical Solana AI workshop, designed for developers, founders, and teams participating in Colosseum 2026.
-
-You will explore how AI agents can interact with Solana to create applications with onchain payments, wallets, transactions, data, and autonomous services.
-
-What you'll learn
-
-How AI agents can interact with Solana
-
-Solana primitives that are useful for AI applications
-
-Agent wallets, transactions, and onchain payments
-
-Building autonomous services and agent-to-agent interactions
-
-Using Solana for AI-native consumer applications
-
-Practical ideas and architectures you can apply to your Colosseum project
-
-Where to find the tools, resources, and ecosystem support to keep building
-
-Who should join?
-
-Colosseum builders, developers, founders, AI engineers, product builders, and anyone exploring what becomes possible when AI meets Solana.
-
-You do not need to be an experienced Solana developer to attend. The workshop is designed to help you understand the building blocks and identify where they can fit into your own product.
-
-Hybrid format
-
-Join us in Bangkok or stream the workshop online.
-
-IRL: Superteam Thailand Build Station, BangkokOnline: Live stream link will be shared with registered participants
-
-Come with your idea, your team, or simply curiosity about AI × Solana.
-
-Build smarter. Build onchain. Build for Colosseum.
 
 <a id="event-685c1aea5c052cbe"></a>
 
@@ -25371,42 +25297,6 @@ Superteam is a global co-operative organised into regional non-profit organisati
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
 
 By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
-
-<a id="event-e35bce71d4bb190c"></a>
-
-## Coffee & Breakfast, with STUK and Altitude
-
-- Record: `luma-batch-OVSNhIe9UUALQUN`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/altitude-STUK-brekky26>
-
-### About the event
-
-Altitude is hosting a breakfast with STUK!
-
-On Friday 25th September, Altitude is taking over the coworking morning to host a breakfast with STUK. All are welcome.
-
-From 10:00 AM to 12:30 PM, we'll have delicious breakfast bites and drinks to share with the community (but once it's gone, it's gone). The Altitude team will be on the ground if you'd like to meet us and stop for a chat!
-
-Why are we cohosting?
-
-For Solana founders and onchain startups who already trust Squads, Altitude is the operating account built on Squads Multisig that lets you run the whole company from one place: treasury, payments, payouts, cards, and books in one self-custodial account.
-
-We're inviting founders and startups building in the UK to come see what's new on Altitude, including new ways to send and receive money locally and run more of your day-to-day financial operations from one account.
-
-Come for breakfast, meet the team, and see what Altitude can do for your business!
-
-### About Altitude
-
-For onchain teams who are used to working around banking that was never built for them, Altitude is the operating account built for the way your business runs. Treasury, payments, payouts, cards, and books in one self-custodial account, available to businesses in 150+ countries.
-
-Go higher with Altitude → altitude.xyz.
-
-### About Superteam UK
-
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
 
 <a id="event-155fff5d2d52ac50"></a>
 
@@ -70377,6 +70267,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0bbe1df07cc5d34c"></a>
+
+## CPG Finance Leaders Dinner with Confido & Ember Search
+
+- Record: `luma-evt-XTr71j3AfZTv3Wu`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/confido-e9ae>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9f894a4abfe552af"></a>
 
 ## Pragma Mumbai 2026
@@ -71296,6 +71198,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-16T16:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/39ckiuiy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d021742a97d4f20a"></a>
+
+## Sports Meets Solana: The Future of Sports is On-chain ⚽
+
+- Record: `luma-host-evt-evt-Fhp8UoAf4T7kEgc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T17:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/1hdsvfdv>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

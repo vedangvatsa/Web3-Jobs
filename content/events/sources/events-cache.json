@@ -19633,7 +19633,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -20229,7 +20229,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20271,7 +20271,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21433,10 +21433,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22891,7 +22888,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": "/events/mu-316749553-4ef65602.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27832,7 +27829,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/kansas-city-open-source-meetup/events/317090132/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317090132-d80981f6.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28274,7 +28271,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -28432,7 +28432,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28445,7 +28445,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28458,7 +28458,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28471,7 +28471,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28484,7 +28484,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28497,7 +28497,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -28706,7 +28706,7 @@
     "country": "DE",
     "location": "Munich, DE",
     "url": "https://luma.com/rgk5ab91",
-    "coverImage": "/events/w3v-softstack-tum-blockchain-dinner-9-179278608884-f85e92d9.webp",
+    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -28931,6 +28931,34 @@
     "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
     "coverImage": null,
     "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-XTr71j3AfZTv3Wu",
+    "name": "CPG Finance Leaders Dinner with Confido & Ember Search",
+    "description": "",
+    "startDate": "2026-11-06T02:00:00.000Z",
+    "endDate": "2026-11-06T05:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/confido-e9ae",
+    "coverImage": "/events/luma-evt-xtr71j3afztv3wu-86d186c7.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-Fhp8UoAf4T7kEgc",
+    "name": "Sports Meets Solana: The Future of Sports is On-chain ⚽",
+    "description": "",
+    "startDate": "2026-11-16T17:00:00.000Z",
+    "endDate": "2026-11-16T22:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://luma.com/1hdsvfdv",
+    "coverImage": "/events/luma-host-evt-evt-fhp8uoaf4t7kegc-b77d2ea0.webp",
+    "source": "luma-trusted",
     "month": "November 2026"
   }
 ]

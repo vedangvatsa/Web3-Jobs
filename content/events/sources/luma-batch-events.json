@@ -1521,56 +1521,6 @@
     }
   },
   {
-    "id": "luma-batch-OVSNhIe9UUALQUN",
-    "slug": "altitude-stuk-brekky26",
-    "name": "Coffee & Breakfast, with STUK and Altitude",
-    "description": "Altitude is hosting a breakfast with STUK!\n\nOn Friday 25th September, Altitude is taking over the coworking morning to host a breakfast with STUK. All are welcome.\n\nFrom 10:00 AM to 12:30 PM, we'll have delicious breakfast bites and drinks to share with the community (but once it's gone, it's gone). The Altitude team will be on the ground if you'd like to meet us and stop for a chat!\n\nWhy are we cohosting?\n\nFor Solana founders and onchain startups who already trust Squads, Altitude is the operating account built on Squads Multisig that lets you run the whole company from one place: treasury, payments, payouts, cards, and books in one self-custodial account.\n\nWe’re inviting founders and startups building in the UK to come see what’s new on Altitude, including new ways to send and receive money locally and run more of your day-to-day financial operations from one account.\n\nCome for breakfast, meet the team, and see what Altitude can do for your business!\n\nAbout Altitude\n\nFor onchain teams who are used to working around banking that was never built for them, Altitude is the operating account built for the way your business runs. Treasury, payments, payouts, cards, and books in one self-custodial account, available to businesses in 150+ countries.\n\nGo higher with Altitude → altitude.xyz.\n\nAbout Superteam UK\n\nSuperteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org",
-    "startDate": "2026-09-25T09:00:00.000Z",
-    "endDate": "2026-09-25T11:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, Somerset House, Strand, London WC2R 1LA, UK",
-    "url": "https://luma.com/altitude-STUK-brekky26",
-    "registrationUrl": "https://luma.com/altitude-STUK-brekky26",
-    "coverImage": "/events/luma-batch-OVSNhIe9UUALQUN-74b2db88.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Altitude",
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Somerset House",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Altitude",
-      "url": "https://luma.com/user/Altitude"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/altitude-STUK-brekky26",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/altitude-STUK-brekky26",
-      "eventId": "evt-OVSNhIe9UUALQUN",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-OaxPTQzrE6VTl6A",
     "slug": "london-sep-25",
     "name": "Co-Working Fridays : London Chapter",
@@ -4465,51 +4415,6 @@
     "sourceVerification": {
       "url": "https://luma.com/qfgs5eo3",
       "eventId": "calev-sdhDp3YqyfRjqAM",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-8pgZn40d3sQCULt",
-    "slug": "zvojdnfq",
-    "name": "Colosseum Solana AI Workshop",
-    "description": "Colosseum: Solana AI Workshop\n\nLearn how to build AI-powered applications on Solana and leave with a clearer technical path for your Colosseum project.\n\nSuperteam Thailand is bringing builders together for a practical Solana AI workshop, designed for developers, founders, and teams participating in Colosseum 2026.\n\nYou will explore how AI agents can interact with Solana to create applications with onchain payments, wallets, transactions, data, and autonomous services.\n\nWhat you’ll learn\n\nHow AI agents can interact with Solana\n\nSolana primitives that are useful for AI applications\n\nAgent wallets, transactions, and onchain payments\n\nBuilding autonomous services and agent-to-agent interactions\n\nUsing Solana for AI-native consumer applications\n\nPractical ideas and architectures you can apply to your Colosseum project\n\nWhere to find the tools, resources, and ecosystem support to keep building\n\nWho should join?\n\nColosseum builders, developers, founders, AI engineers, product builders, and anyone exploring what becomes possible when AI meets Solana.\n\nYou do not need to be an experienced Solana developer to attend. The workshop is designed to help you understand the building blocks and identify where they can fit into your own product.\n\nHybrid format\n\nJoin us in Bangkok or stream the workshop online.\n\nIRL: Superteam Thailand Build Station, BangkokOnline: Live stream link will be shared with registered participants\n\nCome with your idea, your team, or simply curiosity about AI × Solana.\n\nBuild smarter. Build onchain. Build for Colosseum.",
-    "startDate": "2026-09-25T08:00:00.000Z",
-    "endDate": "2026-09-25T09:30:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/zvojdnfq",
-    "registrationUrl": "https://luma.com/zvojdnfq",
-    "coverImage": "/events/luma-batch-8pgZn40d3sQCULt-e7f88915.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "OnlyFounders",
-      "Superteam Thailand",
-      "Superteam TH"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Bangkok",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "OnlyFounders",
-      "url": "https://luma.com/user/SuperteamTHLead"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/zvojdnfq",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zvojdnfq",
-      "eventId": "calev-8pgZn40d3sQCULt",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -14242,36 +14147,6 @@
     "sourceVerification": {
       "url": "https://luma.com/e2nwl5sk",
       "eventId": "evt-K4wC53e8Tmg2naJ",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtufFBB1kHBQs5N",
-    "slug": "58f9a12t",
-    "name": "Build Global, Buatan Malaysia",
-    "description": "If a judge has to stop and think to understand your project, you have already lost. Friday is about making sure that does not happen to yours.\n\nTwo weeks out from the Colosseum deadline, the thing separating a shortlist from silence is almost never the build. It is whether a stranger scrolling your deck between meetings can tell what you do, who it is for, and why you are the one building it.\n\nWe start of with co-working from 12-2pm then storytelling. The Pixar structure applied to a pitch, the one-liner test, and why judges are filtering applications rather than selecting them. Then we open the floor. Bring your deck or your demo, take two minutes, and let the room tell you what is not landing. Kindly, but usefully.\n\nBring a laptop and bring the version you have.\n\nFriday 12pm, Build Station KL. Submissions close 12 October.",
-    "startDate": "2026-09-25T04:00:00.000Z",
-    "endDate": "2026-09-25T09:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-    "url": "https://luma.com/58f9a12t",
-    "registrationUrl": "https://luma.com/58f9a12t",
-    "coverImage": "/events/luma-batch-evtufFBB1kHBQs5N-8dffa4ca.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Malaysia"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kuala_Lumpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/58f9a12t",
-      "eventId": "evt-ufFBB1kHBQs5NW6",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
