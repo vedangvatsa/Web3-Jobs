@@ -52417,7 +52417,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "56d4fecb-7f7b-4ee5-9e4f-afee47db7d26",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x88921f61bacbf3ac2ce9d61c7ccad1e9fcad1596"
     }
   ]
 }
