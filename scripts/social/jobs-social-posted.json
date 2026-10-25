@@ -53145,6 +53145,40 @@
       "attemptId": "8beed460-0d34-46a4-8388-844c18e22a0b",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myp4dc4qsx2y"
+    },
+    {
+      "slug": "be79",
+      "company": "Polymarket",
+      "title": "Staff Backend Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-25T11:31:32.790Z",
+      "expectedText": "Polymarket is hiring Staff Backend Engineer\n\nhttps://hashtagweb3.com/be79/fc?og=7",
+      "snapshot": {
+        "id": "2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "title": "Staff Backend Engineer",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/Polymarket/2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "date": "2026-10-16T17:19:31.284+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be79"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Staff Backend Engineer\n\nhttps://hashtagweb3.com/be79/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/be79/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "084c76c4-1969-4386-bc5c-ebe54c9cf447",
+      "verification": "creating"
     }
   ]
 }
