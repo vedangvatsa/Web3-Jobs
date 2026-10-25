@@ -52345,7 +52345,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "30ca9612-93af-470b-acc8-8198397944e6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x49b8bad1a2a0b8d13dd3129d92d5b272537ec230"
     }
   ]
 }
