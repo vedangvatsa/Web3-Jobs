@@ -55724,6 +55724,39 @@
       "postId": "17995647830842201",
       "permalink": "https://www.threads.com/@hashtagweb3/post/De7ePT2FKXk",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "dpo",
+      "company": "Bitvavo",
+      "title": "Data Protection Officer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-25T19:35:46.126Z",
+      "expectedText": "Bitvavo is hiring Data Protection Officer: https://hashtagweb3.com/dpo/bsky?og=7",
+      "snapshot": {
+        "id": "de47237e-e476-4d3c-bb24-fb4803ad3ca4",
+        "title": "Data Protection Officer",
+        "company": "Bitvavo",
+        "link": "https://jobs.ashbyhq.com/bitvavo/de47237e-e476-4d3c-bb24-fb4803ad3ca4",
+        "date": "2026-10-05T09:25:18.894+00:00",
+        "source": "Ashby: Bitvavo [bitvavo]",
+        "location": "Headquarters",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpo"
+      },
+      "payload": {
+        "text": "Bitvavo is hiring Data Protection Officer: https://hashtagweb3.com/dpo/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dpo/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dpo.png?v=7",
+        "company": "Bitvavo",
+        "title": "Data Protection Officer",
+        "description": "Join Bitvavo as Data Protection Officer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "b2021105-6e28-4d84-906e-6870ce04141a",
+      "verification": "creating"
     }
   ]
 }
