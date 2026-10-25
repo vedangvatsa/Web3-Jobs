@@ -53883,7 +53883,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4a481751-25a8-419d-bfe0-38e51c248a88",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520085722889056256"
     }
   ]
 }
