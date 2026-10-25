@@ -54920,7 +54920,8 @@
       },
       "account": "profile",
       "attemptId": "1379d37f-0988-403e-a25b-3593b3fa6b3c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7b4dbf81dfb43adf4d78f3ec500ffb33ad9b8c09"
     }
   ]
 }
