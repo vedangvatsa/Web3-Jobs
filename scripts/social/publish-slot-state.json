@@ -62,6 +62,25 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-10-24T21:14:35.901Z"
       }
+    ],
+    "2026-10-25": [
+      {
+        "date": "2026-10-25",
+        "id": "40158900174-1",
+        "sourceCommit": "b2137c1652f5b5bed2b1ade6ce84f27050adb5ab",
+        "jobsCheckedAt": "2026-10-25T03:46:50.636Z",
+        "newsCompletedAt": "2026-10-25T04:52:56.057Z",
+        "articleSlugs": [
+          "pumpbridge",
+          "sectokenization",
+          "novatechjudgment",
+          "bokforex"
+        ],
+        "phase": "building",
+        "startedAt": "2026-10-25T04:54:00.066Z",
+        "buildId": "daily-20261025-40158900174-1",
+        "rolloutId": "daily-20261025-40158900174-1"
+      }
     ]
   }
 }
