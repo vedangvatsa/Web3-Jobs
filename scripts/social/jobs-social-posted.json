@@ -55625,7 +55625,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "c9dbfd97-999d-4c0f-b819-a23fda0926e7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520206394118168578"
     }
   ]
 }
