@@ -52309,7 +52309,8 @@
       },
       "account": "profile",
       "attemptId": "668e2c0a-cfaf-47e7-baf9-9f8c47fc3fb2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb60c5bb37ca0d8b319ea2408ba05d6469af692e9"
     }
   ]
 }
