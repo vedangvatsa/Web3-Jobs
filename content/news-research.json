@@ -85363,7 +85363,23 @@
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
       "attempts": 0,
       "expiresAt": "2026-10-26T20:30:00.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "articleSlug": "fcaarrangement",
+      "draftProgress": {
+        "id": "8b73e9008021db1a1a89",
+        "day": "2026-10-25",
+        "articleSlug": "fcaarrangement",
+        "note": "Read CryptoSlate Oct 23 in full: FCA draft guidance published Oct 21 says crypto apps whose algorithms select venues or routes may be arranging deals needing authorization under rules effective Oct 25 2027; consultation closes Nov 18; application window Sept 30 2026 to Feb 28 2027. Next: open the FCA primary consultation page and one independent outlet.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-25T04:06:59.577Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "631dfc57c0b1bc0e1a8f": {
       "source": "Crypto Briefing",
