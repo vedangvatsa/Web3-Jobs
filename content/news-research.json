@@ -88553,11 +88553,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1a19bc98e99461d387f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T13:30:53.000Z",
-      "lastSeenAt": "2026-10-25T03:39:00.304Z"
+      "lastSeenAt": "2026-10-25T03:39:00.304Z",
+      "reason": "price-chatter",
+      "note": "Read the full CryptoSlate Oct 24 piece. It is flow and price analysis: a Santiment exchange-withdrawal reading of 169,770 ETH, Farside ETF outflow totals through Oct. 22, and conditional price levels at $2,500 and $2,330 with scenarios for what each would mean for traders. No launch, vote, ruling, filing, hack, raise or upgrade, no second independent report of any event, and the article labels itself Analysis.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:00:05.693Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "3d9d7a2dd9d57ddaa1f1": {
       "source": "CryptoSlate",
@@ -156002,6 +156012,18 @@
           "reviewedAt": "2026-10-25T03:59:09.814Z",
           "duplicateOf": "sectokenization",
           "mergedInto": "66553f83e2cc41d6224d"
+        },
+        "f1a19bc98e99461d387f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the full CryptoSlate Oct 24 piece. It is flow and price analysis: a Santiment exchange-withdrawal reading of 169,770 ETH, Farside ETF outflow totals through Oct. 22, and conditional price levels at $2,500 and $2,330 with scenarios for what each would mean for traders. No launch, vote, ruling, filing, hack, raise or upgrade, no second independent report of any event, and the article labels itself Analysis.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:00:05.693Z"
         }
       },
       "baselineSlugs": [
