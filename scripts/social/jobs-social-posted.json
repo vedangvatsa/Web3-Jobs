@@ -55538,7 +55538,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "efacc784-baa9-4408-8cc4-7ce81f015dbf",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ade59c20b5343d070eb1297"
     }
   ]
 }
