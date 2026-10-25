@@ -56187,7 +56187,8 @@
       },
       "account": "channel:solana",
       "attemptId": "144f445a-1422-4172-8f5f-ced74b5b0593",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5157954aac235034d0071cb42bf890acb5dcd979"
     }
   ]
 }
