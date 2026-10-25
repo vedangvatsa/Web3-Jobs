@@ -53574,7 +53574,8 @@
       },
       "account": "channel:solana",
       "attemptId": "2060143f-ad5a-4459-a8e2-8557cc670d4b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd8cc55f1d2135ba0aaddb812fc380b20ab1e95ee"
     }
   ]
 }
