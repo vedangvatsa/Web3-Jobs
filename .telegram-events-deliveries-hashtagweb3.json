@@ -3185,5 +3185,50 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 155911,
     "sentAt": "2026-10-24T19:31:36.157Z"
+  },
+  "189ff60b-fd9a-4411-8066-7fcc409e28fe": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T03:38:59.597Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316859645",
+        "slug": "measuring-ledgers-blockchain-decentralisation-index-lab",
+        "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+        "startDate": "2026-10-29T11:00:00-04:00",
+        "keys": [
+          "mu-316859645",
+          "page:measuring-ledgers-blockchain-decentralisation-index-lab:2026-10-29",
+          "url:meetup.com/lfdt-north-carolina/events/316859645:2026-10-29",
+          "event:measuringledgerswiththeblockchaindecentralisationindexlab:2026-10-29:"
+        ]
+      },
+      {
+        "id": "mu-316802767",
+        "slug": "zk-learning-group-quantum-resistance-zkp",
+        "name": "ZK Learning Group: Quantum resistance and ZKP",
+        "startDate": "2026-10-29T13:00:00-04:00",
+        "keys": [
+          "mu-316802767",
+          "page:zk-learning-group-quantum-resistance-zkp:2026-10-29",
+          "url:meetup.com/lfdt-north-carolina/events/316802767:2026-10-29",
+          "event:zklearninggroupquantumresistanceandzkp:2026-10-29:"
+        ]
+      },
+      {
+        "id": "mu-316754646",
+        "slug": "gaming-ethereum-how-trading-bots-cut-line-threaten-consensus",
+        "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
+        "startDate": "2026-10-29T18:15:00+01:00",
+        "keys": [
+          "mu-316754646",
+          "page:gaming-ethereum-how-trading-bots-cut-line-threaten-consensus:2026-10-29",
+          "url:meetup.com/papers-we-love-zurich/events/316754646:2026-10-29",
+          "event:gamingethereumhowtradingbotscutthelineandthreatenconsensus:2026-10-29:zurich"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:morning"
   }
 }
