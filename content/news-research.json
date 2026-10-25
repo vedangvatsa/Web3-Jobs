@@ -85300,9 +85300,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "13b55943b94927136f74",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T23:35:00.000Z",
       "lastSeenAt": "2026-10-24T08:24:01.469Z",
       "articleSlug": "novatechjudgment",
@@ -85320,7 +85320,29 @@
         "updatedAt": "2026-10-25T04:00:29.068Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the AG press release and the affirmation filed Oct. 22 (Index 451633/2024) directly, plus Cointelegraph and Unchained on the same motion; verified the ,134,549,691 disgorgement, 32,473,894 interest, ,160,544,294 deposits, 5,994,603 to B2Broker and 34,518,775 in Petion withdrawals against the filing text. No existing NovaTech article in content/articles.",
+      "sourceChecks": [
+        {
+          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-nearly-6-million-crypto-scammers-who-targeted",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ag.ny.gov/sites/default/files/settlements-agreements/new-york-v-nova-tech-ltd-et-al-affirmation-2026.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/new-york-asks-court-for-a-1-37-billion-judgment-against-novatechs-founders/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:06:49.963Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "8b73e9008021db1a1a89": {
       "source": "CryptoSlate",
@@ -156116,6 +156138,31 @@
           "reviewedAt": "2026-10-25T04:03:47.087Z",
           "duplicateOf": "sectokenization",
           "mergedInto": "66553f83e2cc41d6224d"
+        },
+        "13b55943b94927136f74": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the AG press release and the affirmation filed Oct. 22 (Index 451633/2024) directly, plus Cointelegraph and Unchained on the same motion; verified the ,134,549,691 disgorgement, 32,473,894 interest, ,160,544,294 deposits, 5,994,603 to B2Broker and 34,518,775 in Petion withdrawals against the filing text. No existing NovaTech article in content/articles.",
+          "sourceChecks": [
+            {
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-secures-nearly-6-million-crypto-scammers-who-targeted",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ag.ny.gov/sites/default/files/settlements-agreements/new-york-v-nova-tech-ltd-et-al-affirmation-2026.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/new-york-asks-court-for-a-1-37-billion-judgment-against-novatechs-founders/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:06:49.963Z",
+          "articleSlug": "novatechjudgment"
         }
       },
       "baselineSlugs": [
