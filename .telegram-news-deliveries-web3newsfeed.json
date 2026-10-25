@@ -2251,5 +2251,36 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 65775,
     "sentAt": "2026-10-25T03:41:32.609Z"
+  },
+  "b422c2e4-22e7-4f26-b800-a60dd890c1b1": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:34:17.934Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OCC issues final stablecoin regulations for the GENIUS Act",
+        "summary": "These rules establish reserve and risk standards for payment stablecoin issuers before the law takes effect in 2027.",
+        "link": "https://hashtagweb3.com/occgenius?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Optimum launches mump2p block protocol on Ethereum mainnet",
+        "summary": "Sixteen operators managing 22,000 validator keys now use the protocol for faster block delivery than GossipSub.",
+        "link": "https://hashtagweb3.com/mump2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators"
+      },
+      {
+        "index": -1,
+        "headline": "PancakeSwap fee and emission proposal faces 98% opposition",
+        "summary": "The plan to increase provider fees and reduce token rewards remains largely unpopular ahead of the Saturday deadline.",
+        "link": "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close"
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon"
   }
 }
