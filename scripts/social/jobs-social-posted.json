@@ -55210,6 +55210,41 @@
       "attemptId": "bd18b2b7-2bf8-468a-8c84-f61f753a47ae",
       "verification": "verified",
       "postId": "0x4382b76a5b59cdf4000ed3a6ffd3831e2b3f5ff5"
+    },
+    {
+      "slug": "ops32",
+      "company": "Mesh",
+      "title": "Director, Strategic Finance & Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-25T19:32:12.457Z",
+      "expectedText": "Mesh is hiring Director, Strategic Finance & Operations\n\nhttps://hashtagweb3.com/ops32/fc?og=7",
+      "snapshot": {
+        "id": "5460501008",
+        "title": "Director, Strategic Finance & Operations",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5460501008",
+        "date": "2026-10-21T17:07:05-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "United States - Remote",
+        "department": "Finance",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "ops32"
+      },
+      "payload": {
+        "text": "Mesh is hiring Director, Strategic Finance & Operations\n\nhttps://hashtagweb3.com/ops32/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops32/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "d4daac25-2110-4200-b640-45426e09af69",
+      "verification": "creating"
     }
   ]
 }
