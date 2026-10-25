@@ -54710,8 +54710,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "698061e8-9c48-4e02-8f7b-3fcded96ae38",
-      "verification": "pending",
-      "postId": "6addea30e4be8a4d86a51d5c"
+      "verification": "verified",
+      "postId": "6addea30e4be8a4d86a51d5c",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520086449971712000"
     }
   ]
 }
