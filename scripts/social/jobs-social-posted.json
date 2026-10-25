@@ -51305,6 +51305,37 @@
       "attemptId": "17568de3-21a4-4071-9db8-08340f8db041",
       "verification": "verified",
       "postId": "691827047618629_1124914980115736"
+    },
+    {
+      "slug": "dcr",
+      "company": "Ripple",
+      "title": "Director, Credit Risk",
+      "platform": "x",
+      "postedAt": "2026-10-25T03:39:08.607Z",
+      "expectedText": "Ripple is hiring Director, Credit Risk\n\nhttps://hashtagweb3.com/dcr/x?og=7",
+      "snapshot": {
+        "id": "8310994",
+        "title": "Director, Credit Risk",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8310994?gh_jid=8310994",
+        "date": "2026-10-21T16:54:12-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "New York, NY, United States",
+        "department": "Finance",
+        "active": true,
+        "salary": "$204k – $250k/yr",
+        "dateVerified": true,
+        "slug": "dcr"
+      },
+      "payload": {
+        "text": "Ripple is hiring Director, Credit Risk\n\nhttps://hashtagweb3.com/dcr/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "f051aca1-18bb-4980-a080-aacb39e28bc6",
+      "verification": "creating"
     }
   ]
 }
