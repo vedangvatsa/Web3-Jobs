@@ -7971,5 +7971,121 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 16569,
     "sentAt": "2026-10-25T19:32:01.291Z"
+  },
+  "7bf8eeb1-eeec-43a9-984a-30cbdebf918a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T19:32:06.451Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4988000101",
+          "title": "[EU] AML Specialist, KYB",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4988000101",
+          "date": "2026-10-08T08:05:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vienna, Austria",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ask2"
+        },
+        "key": "4988000101",
+        "slug": "ask2",
+        "url": "https://hashtagweb3.com/ask2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] AML Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5008751101",
+          "title": "Information Security Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5008751101",
+          "date": "2026-10-16T10:43:12-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "São Paulo",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec19"
+        },
+        "key": "5008751101",
+        "slug": "sec19",
+        "url": "https://hashtagweb3.com/sec19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Information Security Manager"
+      },
+      {
+        "snapshot": {
+          "id": "219eea0d-a9f4-4ad4-93b5-8e9fce60275f",
+          "title": "Customer Product Engineer, EMEA",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/219eea0d-a9f4-4ad4-93b5-8e9fce60275f",
+          "date": "2026-10-06T08:38:11.292+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (Bucharest)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm233"
+        },
+        "key": "219eea0d-a9f4-4ad4-93b5-8e9fce60275f",
+        "slug": "pm233",
+        "url": "https://hashtagweb3.com/pm233?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Customer Product Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "51096f1a-bfe8-49f6-8757-d56a3928ac75",
+          "title": "Sales Development Representative",
+          "company": "Merkle Science",
+          "link": "https://jobs.lever.co/merklescience/51096f1a-bfe8-49f6-8757-d56a3928ac75",
+          "date": "2026-09-29T07:52:09.235Z",
+          "source": "Lever: Merkle Science [merklescience]",
+          "location": "Hybrid (New York)",
+          "workplaceType": "hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls184"
+        },
+        "key": "51096f1a-bfe8-49f6-8757-d56a3928ac75",
+        "slug": "sls184",
+        "url": "https://hashtagweb3.com/sls184?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Merkle Science",
+        "title": "Sales Development Representative"
+      },
+      {
+        "snapshot": {
+          "id": "6212869004",
+          "title": "Enterprise Account Executive/Sales Director - New York",
+          "company": "Elwood Technologies",
+          "link": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6212869004",
+          "date": "2026-10-01T05:56:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Elwood Technologies [elwoodtechnologies]",
+          "location": "New York",
+          "department": "Sales",
+          "active": true,
+          "salary": "$110k – $175k/yr",
+          "dateVerified": true,
+          "slug": "sls191"
+        },
+        "key": "6212869004",
+        "slug": "sls191",
+        "url": "https://hashtagweb3.com/sls191?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elwood Technologies",
+        "title": "Enterprise Account Executive/Sales Director"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/ask2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] AML Specialist, KYB</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sec19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Information Security Manager</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/pm233?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Product Engineer, EMEA</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/sls184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Development Representative</a>\n- Elwood Technologies is hiring <a href=\"https://hashtagweb3.com/sls191?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive/Sales Director - New York</a>",
+    "slotKey": "2026-10-25:evening"
   }
 }
