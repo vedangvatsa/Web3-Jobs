@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-25",
+    "threadId": "E03",
+    "sequence": 8,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "fcfb4559184b3c14138e14ba1839d5dc04fc2cad0937ddb834384c4ed558aae5",
+    "sourcePostHashes": [
+      "7f537284f9c12b76e4182b7c247c270edf6d8bf654e716af6713bf79a506e547",
+      "3679401e84c71ab0b3b3d283dc4b0330a807e61b44dc1a3bc4eb7c2a75e7d88d",
+      "1c93f321a19068556349cd53329576491605e5923e4e44c0d12ed0b7bb856b5a",
+      "cd8ab8b83b1fc724bcffd7bf318596f2940c223d095cf8a32718b295a0073133",
+      "4bde6f26ac072f6b32dee6659198038066bf2c02977c4ac078dea6f2dbb95d8f",
+      "62b9315a13fc7953ae1d886248d06ff7306bd73424209772c59d6cebd4abdc2c"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-01.jpg",
+        "sha256": "6fdb8bcd987289c98c408bd7235aa01aac0fde6eb3c5aea9d85e28d95fda32a9",
+        "bytes": 104556,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Builder: Smart Contract Developer, writing on-chain dApp logic. Practice example beside the role card: a local deposit and withdrawal contract with tests.",
+        "renderedText": "Career quiz\n\nThe Builder writes on-chain logic\n\nCareer quiz match\n\nPractice task\n\nExample task: local deposit/withdrawal contract and tests\n\nHashtag Web3 career quiz\n\nE03 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-02.jpg",
+        "sha256": "9b83b6f5f7b21eb7ef1fa2836889cc5b5295a60e75b3222ad3008fc586a33e87",
+        "bytes": 108043,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Strategist: Web3 Product Manager, guiding a decentralized product's vision and roadmap. A wallet-onboarding specification is shown as a practice example.",
+        "renderedText": "Career quiz\n\nThe Strategist plans the product\n\nCareer quiz match\n\nPractice task\n\nExample output: wallet-onboarding specification\n\nHashtag Web3 career quiz\n\nE03 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-03.jpg",
+        "sha256": "34f39a564bb82fe595d6be546e8a57c6975e865870d0227ce9472cb1f87738c7",
+        "bytes": 114345,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz result for The Analyst: On-Chain Data Analyst, using tools such as Dune to analyze blockchain data. Practice example: a daily active-wallet query with its chain, time window and wallet definition stated.",
+        "renderedText": "Career quiz\n\nThe Analyst investigates blockchain data\n\nCareer quiz match\n\nPractice task\n\nExample output: daily active-wallet query with definitions\n\nHashtag Web3 career quiz\n\nE03 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-04.jpg",
+        "sha256": "1a098f62e36e6f804039790c151fcda337e5a3c1856800af1f90f39a2f99ac93",
+        "bytes": 115487,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz Community Manager card for The Community Weaver, describing Discord management. Practice example: a support queue recording the issue category, escalation owner and resolution.",
+        "renderedText": "Career quiz\n\nThe Community Weaver organizes support\n\nCareer quiz match\n\nPractice task\n\nExample output: support queue with owner and resolution\n\nHashtag Web3 career quiz\n\nE03 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-05.jpg",
+        "sha256": "df20ac4f05aaa22fb2acb02023dd07c95eca1462d366ff24b2362a9c0effec41",
+        "bytes": 114141,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Career Quiz Frontend/Web3 Developer card for The Builder: builds dApp interfaces. Practice example: a token-balance screen with disconnected, loading and RPC-error states.",
+        "renderedText": "Career quiz\n\nThe Builder also designs dApp interfaces\n\nCareer quiz match\n\nPractice task\n\nExample output: disconnected, loading and RPC-error states\n\nHashtag Web3 career quiz\n\nE03 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/E03-06.jpg",
+        "sha256": "7700f23d1c9bb635faad59288c362349b0c4e517b11159d8bb55876e3d595479",
+        "bytes": 119938,
+        "width": 1200,
+        "height": 1500,
+        "alt": "The Builder's three Career Quiz role cards: Smart Contract Developer writes on-chain dApp logic; Frontend/Web3 Developer builds dApp interfaces; Protocol Engineer works on core blockchain infrastructure.",
+        "renderedText": "Career quiz\n\nThe Builder: three role matches\n\nHashtag Web3 career quiz · 16 questions\n\nE03 · 6/6"
+      }
+    ],
+    "assetCommit": "85876169e9986b56909bcb64c8df324ab43b6d60",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "The quiz has four archetypes. The Builder matches with Smart Contract Developer: writing on-chain dApp logic.\n\nPractice example: a local deposit/withdrawal contract with tests.\n\n1. The Strategist matches with Web3 Product Manager: guiding a decentralized product's vision and roadmap.\n\nPractice example: a wallet-onboarding spec with connection, wrong-network and failed-transaction screens.\n\n2. The Analyst matches with On-Chain Data Analyst, using tools such as Dune.\n\nPractice example: a query counting daily active wallets, with the chain, time window and wallet definition stated.\n\n3. The Community Weaver matches with Community Manager, Marketing / Growth Lead and DevRel. The quiz describes Discord management.\n\nPractice example: a support queue with issue category, escalation owner and resolution note.\n\n4. The fifth role match, Frontend/Web3 Developer, shares The Builder archetype with contract development.\n\nPractice example: a token-balance screen with disconnected, loading and RPC-error states.\n\n5. The Builder result recommends Smart Contract Developer, Frontend/Web3 Developer and Protocol Engineer.\n\nAnswer 16 questions to see your archetype and its three suggested roles.\n\nFull resource: hashtagweb3.com/web3-career-quiz/li",
+    "title": "Five career matches across the quiz's four archetypes",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/E03/linkedin.pdf",
+      "sha256": "d6b9ce3137e97ea3b68dd8525ac9eb1b37b89127ca530ff1d44d6ff231a40635",
+      "bytes": 680350,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/exports/E03/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/E03/cover.jpg",
+      "sha256": "6fdb8bcd987289c98c408bd7235aa01aac0fde6eb3c5aea9d85e28d95fda32a9",
+      "bytes": 104556,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Career Quiz result for The Builder: Smart Contract Developer, writing on-chain dApp logic. Practice example beside the role card: a local deposit and withdrawal contract with tests.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/85876169e9986b56909bcb64c8df324ab43b6d60/social-assets/knowledge-threads-month/exports/E03/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "8054c8c4-9f07-4031-b694-2a24b1c00e21",
+  "startedAt": "2026-10-25T11:31:34.365Z",
+  "status": "claimed"
+}
