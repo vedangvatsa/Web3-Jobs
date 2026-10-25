@@ -355,81 +355,6 @@
     "slug": "sec"
   },
   {
-    "id": "luma-evt-yft0JYJNpkPqwAB",
-    "name": "Boston DAO Converge: Crypto, AI & the Future of Agentic Finance",
-    "description": "Converge is one afternoon built to do a single thing: get every corner of crypto into the same room and pointed at the same questions. Policy, stablecoins, and AI. None of them belong to any one chain.\n\nThis is what ETHBoston and Solana Boston become in 2026. Same organizers, same standard, no longer split by ecosystem.\n\n## On stage:\n\n• Coinbase on x402 and agentic onchain payments\n• Fidelity recording the FCAT Crypto Brief live\n• Circle Research on privacy in payments\n• Blockworks Research on the Token Transparency Framework\n• SEC, the CFTC, and state fight over perpetuals\n• Allora Labs on AI, pricing, and trading digital assets\n• Quip on post-quantum security\n• Lightning talks, short-format pitches from builders across the afternoon\n• Groma on real estate tokenization\n• A policy panel on market structure legislation and what passes before the midterms\n• More to come!\n\n## Three questions worth an afternoon\n\nStablecoins. The most boring and most consequential thing in crypto. Payment rails, treasury operations, bank integration, and what actually changes when dollars settle instantly and globally by default. Boston has a real claim on this one.\n\nAI. Agents are starting to hold keys, move value, and make decisions without a human in the loop. Agentic finance is the part of the AI story that runs on crypto rails, and it is arriving well ahead of the frameworks built for it.\n\nPolicy. Market structure legislation is moving and the midterms are months away. The rules being written right now decide what everyone else in the room is allowed to build. We are putting candidates, officeholders, counsel, and advocates into sessions with the founders they regulate.\n\nAdditional programming spans DeFi, security, infrastructure, and market structure.\n\n## Why Boston\n\nBoston is where crypto meets institutional capital. Fidelity, Circle, Coinbase, Castle Island Ventures, and Accomplice all operate here, and MIT, Harvard, BU, and Northeastern feed a steady pipeline of founders and engineers into the ecosystem. Very few cities have both. Converge is the room where the two sides actually meet.\n\nConverge is part of Boston Fintech Week, which puts this audience in front of the city's traditional finance and fintech crowd, and puts that crowd in front of you.\n\n## The room\n\nBuilders beside investors. Startups beside institutions. Students beside operators. Two stages on the 16th and 17th floors of Foley Hoag's conference center at 155 Seaport Blvd, with dedicated sponsor and networking space and harbor views.\n\n## After the sessions\n\nThe Converge after-party runs at Cisco Brewers Seaport in the open-air bungalow lounge, a short walk from the venue.\n\n## 2026 Sponsors\n\nPlatinum\n\n• Fidelity FCAT\n• Foley Hoag\n\nGold\n\n• Quip Network\n• Groma\n• Stand with Crypto\n\nSilver\n\n• Yearn\n\nSponsorship for 2026 is still open; reach out to us!\n\n## Presented by The Boston DAO\n\nThe Boston DAO has run this city's independent crypto conferences since 2019. ETHBoston in 2019, 2023, 2024, and 2025. Solana Boston in 2024 and 2025, the first Solana city conference held anywhere. Converge is the two of them, merged.\n\nFriday, September 25, 2026 · Foley Hoag Conference Center, Seaport · Part of Boston Fintech Week · Supported by Stand with Crypto",
-    "startDate": "2026-09-25T17:00:00.000Z",
-    "endDate": "2026-09-25T22:00:00.000Z",
-    "city": "Boston",
-    "country": "United States",
-    "location": "155 Seaport Blvd, Boston, MA 02210, USA",
-    "url": "https://lu.ma/converge26",
-    "coverImage": "/events/luma-evt-yft0jyjnpkpqwab-8f59b615.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bdc",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/converge26",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "155 Seaport Blvd",
-    "streetAddress": "155 Seaport Blvd, Boston",
-    "addressLocality": "Boston",
-    "addressRegion": "Massachusetts",
-    "addressCountry": "US",
-    "neighborhood": "D Street / West Broadway",
-    "coordinates": {
-      "latitude": 42.3496703,
-      "longitude": -71.04280849999999
-    },
-    "hosts": [
-      "The Boston DAO Events",
-      "Fintech Sandbox"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Boston DAO"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "The FINAL Flash Sale",
-        "url": "https://luma.com/converge26",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Standard",
-        "url": "https://luma.com/converge26",
-        "price": 20,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Students",
-        "url": "https://luma.com/converge26",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Fintech Week Ticket Holder",
-        "url": "https://luma.com/converge26",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/converge26",
-      "eventId": "evt-yft0JYJNpkPqwAB",
-      "fetchedAt": "2026-09-19T23:49:53.316Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "ma-ethglobal-tokyo-2026",
     "name": "ETHGlobal Tokyo 2026",
     "description": "ETHGlobal's Tokyo hackathon bringing together Asia-Pacific Ethereum developers for a weekend of building and shipping.",
@@ -20207,7 +20132,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
+    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21411,10 +21336,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22021,7 +21943,7 @@
     "country": "us",
     "location": "Belmont, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/316898768/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316898768-2130638a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -29112,7 +29034,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261025%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T193504Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c6d1ee37cdddb4b288b600f1eebc413c505eb7286586d587ab9ff4f9fcf3bac7",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261025%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T220115Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c9fd4976dd251c37b4296fc924e0dccf8f4e529279bc8f42af3b2a756118a084",
     "month": "November 2026"
   },
   {

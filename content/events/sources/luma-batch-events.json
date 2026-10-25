@@ -3768,61 +3768,6 @@
     }
   },
   {
-    "id": "luma-batch-7oEg1SXWAsyFC3b",
-    "slug": "kpowzac1",
-    "name": "Toronto VibeStation - Solana Summit Canada edition",
-    "description": "Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives.\n\nHere's what you can expect at our VibeStation:\n\nDesk-space, couches, private rooms, or public tables are available however you like to work.\n\nDrinks, snacks, and lunch served.\n\nNetwork and connect with other builders and enthusiasts in the ecosystem.\n\nGet hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team.\n\nAttendance is free, approval required.\n\nFor more info, join the Solana Canada telegram group:https://t.me/+Dm3WujI--Go1ZjQ0\n\nBy signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
-    "startDate": "2026-09-25T13:30:00.000Z",
-    "endDate": "2026-09-25T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Central Waterfront, Toronto, Ontario, Canada",
-    "url": "https://luma.com/kpowzac1",
-    "registrationUrl": "https://luma.com/kpowzac1",
-    "coverImage": "/events/luma-batch-7oEg1SXWAsyFC3b-22987196.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Canada"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "Central Waterfront",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Canada",
-      "url": "https://luma.com/user/SuperteamCA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/kpowzac1",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Superteam Member",
-        "url": "https://luma.com/kpowzac1",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/kpowzac1",
-      "eventId": "evt-7oEg1SXWAsyFC3b",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-9ARpsi5voA8EtMv",
     "slug": "syl9hjc2",
     "name": "BitDevs Toronto",
@@ -4271,62 +4216,6 @@
     }
   },
   {
-    "id": "luma-batch-uW9IsonDEyLEcib",
-    "slug": "6r787yv0",
-    "name": "Montreal VibeStation",
-    "description": "Note: September VibeStations will be rotating locations around Montreal, please sign up and confirm location. Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives.\n\nHere's what you can expect at our VibeStation:\n\nDesk-space, couches, private rooms, or public tables are available however you like to work.\n\nDrinks, snacks, and lunch served.\n\nNetwork and connect with other builders and enthusiasts in the ecosystem.\n\nGet hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team.\n\nAttendance is free, approval required.\n\nFor more info, join the Solana Canada telegram group:https://t.me/+Dm3WujI--Go1ZjQ0\n\nBy signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.",
-    "startDate": "2026-09-25T13:30:00.000Z",
-    "endDate": "2026-09-25T22:00:00.000Z",
-    "city": "Montreal",
-    "country": "Canada",
-    "location": "Montreal, Quebec, Canada",
-    "url": "https://luma.com/6r787yv0",
-    "registrationUrl": "https://luma.com/6r787yv0",
-    "coverImage": "/events/luma-batch-uW9IsonDEyLEcib-27ccae53.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Canada",
-      "gabe.sol",
-      "Jt"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Montreal",
-    "addressRegion": "Quebec",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Canada",
-      "url": "https://luma.com/user/SuperteamCA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/6r787yv0",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Superteam Member",
-        "url": "https://luma.com/6r787yv0",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/6r787yv0",
-      "eventId": "calev-uW9IsonDEyLEcib",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-aZmT8wl05vtDjth",
     "slug": "ahy0kptc",
     "name": "Vancouver VibeStation",
@@ -4378,54 +4267,6 @@
     "sourceVerification": {
       "url": "https://luma.com/ahy0kptc",
       "eventId": "calev-aZmT8wl05vtDjth",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-ROZZOSsg0Cj04jr",
-    "slug": "stuk-members-arcade",
-    "name": "STUK Member Evening: Arcade After Hours",
-    "description": "Back with our Superteam UK Member Evening in London 👾\n\nWe’re taking Superteam UK to the arcade for an evening of games and a little friendly competition.\n\nExpect:\n\n🕹️ A full arcade evening with plenty of games to get stuck into🍕 Pizza and drinks throughout the evening🎯 Different arcade games and activities to dip in and out of\n\nSchedule\n\n5:45 PM – Arrive, grab a drink & settle in6:00 PM onwards – Arcade games & Escape Arcade sessions6:00 PM onwards – Pizza & drinks8:30 PM – Last arcade session\n\nCome ready to play, eat, drink and have a good time. No serious gaming credentials required. 🎮\n\nThis event is Superteam UK members-only, and capacity is limited, so RSVP early to secure your spot.\n\nBy signing up, you agree that Superteam UK may capture photos or short video clips during the event and contact you about future events, updates, and upcoming member-only activities.\n\n— Superteam UK",
-    "startDate": "2026-09-25T16:30:00.000Z",
-    "endDate": "2026-09-25T21:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, England, United Kingdom",
-    "url": "https://luma.com/STUK-Members-Arcade",
-    "registrationUrl": "https://luma.com/STUK-Members-Arcade",
-    "coverImage": "/events/luma-batch-ROZZOSsg0Cj04jr-6853b481.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam UK",
-      "url": "https://luma.com/user/SuperteamUK"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/STUK-Members-Arcade",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/STUK-Members-Arcade",
-      "eventId": "calev-ROZZOSsg0Cj04jr",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -11439,36 +11280,6 @@
     "sourceVerification": {
       "url": "https://luma.com/ovbndjm6",
       "eventId": "evt-jDoErMvoz0EqGcJ",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt3Z50gNTA0p9ik",
-    "slug": "z6b9y4pw",
-    "name": "CryptoFriday x AI Week — AI Agents: Can We Trust Them?",
-    "description": "CryptoFriday is The Block's community social, running since 2017. For Lisbon AI Week, we're theming it around one of the hottest questions in tech right now: how can we trust autonomous AI agents?\n\nAI agents are starting to execute real actions like trading, payments and financial decisions, but they're hard to audit and predict. AI is scaling faster than the trust we can place in it.\n\nThe evening opens with a short, informal talk by Tyler M (EZ Labs / VeriMesh), including a live demo of a trading agent and an audience challenge: propose an action and see how the system verifies or rejects it. Then we open the floor. Would you trust an AI agent to trade your money? What would it need to prove first?\n\nExpect snacks, drinks, and DJ Antiputer on the decks with chill hop and chill house all night. The place where everyone who spent AI Week in workshops and talks finally meets. Community and real conversation.\n\nAgenda\n18:30 – 19:30 — Doors open (snacks, DJ, networking)\n19:30 – 20:00 — Presentation\n20:00 – 20:30 — Demo / Q&A\n20:30 – 22:00 — Snacks, DJ, networking\n\nThis is also one of our last CryptoFridays at The Block. After years of Fridays together, come celebrate the community one more time.\n\nPlease note: this event will be photographed and filmed. By attending, you consent to appearing in photos and videos used on our social media channels.",
-    "startDate": "2026-09-25T17:30:00.000Z",
-    "endDate": "2026-09-25T21:00:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "The Block Lisboa, The Block Lisboa, R. Latino Coelho 63 1er Andar, 1050-133 Lisboa, Portugal",
-    "url": "https://luma.com/z6b9y4pw",
-    "registrationUrl": "https://luma.com/z6b9y4pw",
-    "coverImage": "/events/luma-batch-evt3Z50gNTA0p9ik-fc8947d2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/z6b9y4pw",
-      "eventId": "evt-3Z50gNTA0p9ikjh",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
