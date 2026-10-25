@@ -53646,7 +53646,8 @@
       },
       "account": "channel:ai",
       "attemptId": "c6f408fe-e399-4f40-acbd-983db1e98b5d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2086bda79a1a7ab8d3a50b55c5c1a4d9166f1b6c"
     }
   ]
 }
