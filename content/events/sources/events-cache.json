@@ -20207,7 +20207,7 @@
     "country": "Hong Kong",
     "location": "Hong Kong, Hong Kong",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -21411,7 +21411,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -28990,7 +28993,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261025%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T150523Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=e4bca4eeb3d36cbe16af2fe7e3be28e5c45b5d6a362ce646b5283333827b9bfe",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261025%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261025T193504Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c6d1ee37cdddb4b288b600f1eebc413c505eb7286586d587ab9ff4f9fcf3bac7",
     "month": "November 2026"
   },
   {
@@ -29098,6 +29101,48 @@
     "location": "Kabulpur Patti Mahtab, IN",
     "url": "https://herhack.devpost.com",
     "coverImage": "/events/w3v-herhack-2026-f1a1d345.webp",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317114384",
+    "name": "Phoenix Profit from Predictions",
+    "description": "📊 **Profit from Predictions – Polymarket Strategy**\n\nMaster prediction markets with a systematic approach that works across any event.\n\n⚠️ Register below to confirm — RSVP is not your ticket in.\n\n###",
+    "startDate": "2026-10-25T16:15:00-07:00",
+    "endDate": "2026-10-25T16:15:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/the-beautiful-lettering-social-club-gathering/events/317114384/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-LOxi4YunYKGdWKz",
+    "name": "Burnaby Bitcoin Meetup",
+    "description": "",
+    "startDate": "2026-10-28T01:00:00.000Z",
+    "endDate": "2026-10-28T03:00:00.000Z",
+    "city": "Burnaby",
+    "country": "Canada",
+    "location": "Burnaby, Canada",
+    "url": "https://lu.ma/q9bvajzz",
+    "coverImage": "/events/luma-evt-loxi4yunykgdwkz-3faedc9f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-57DpPjU8L0Bt0hD",
+    "name": "Stand With Crypto GOTV meet up",
+    "description": "",
+    "startDate": "2026-11-02T22:00:00.000Z",
+    "endDate": "2026-11-03T01:30:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/z3r4fk0w",
+    "coverImage": "/events/luma-evt-57dppju8l0bt0hd-cd2df9a6.webp",
+    "source": "luma",
     "month": "November 2026"
   }
 ]

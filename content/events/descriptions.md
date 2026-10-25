@@ -27012,38 +27012,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-df8d65ad34489023"></a>
-
-## Co-Working Fridays : London Chapter
-
-- Record: `luma-batch-OaxPTQzrE6VTl6A`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/london-sep-25>
-
-### About the event
-
-Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!
-
-Attendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.
-
-Come and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.
-
-On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
-
-For more info, reach out to us on the Solana UK Telegram.
-
-### About Superteam UK
-
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
-
-* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
-
-** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
-
-By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
-
 <a id="event-073604781e375901"></a>
 
 ## Toronto VibeStation - Solana Summit Canada edition
@@ -69390,6 +69358,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-40b232dd1cfb4088"></a>
+
+## Phoenix Profit from Predictions
+
+- Record: `mu-317114384`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T16:15:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/the-beautiful-lettering-social-club-gathering/events/317114384/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c1ee978757d1c427"></a>
 
 ## The Sisterhood Society Sundays Presents Soft Life, Strong Boundaries
@@ -69793,6 +69773,18 @@ House of NGMI, an AI and crypto creator house, runs in parallel. Participants ar
 - Starts: 2026-10-28T00:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/silicon-valley-physical-ai-workshop-and-meetup-oct>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fe9f49aacfdd579d"></a>
+
+## Burnaby Bitcoin Meetup
+
+- Record: `luma-evt-LOxi4YunYKGdWKz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/q9bvajzz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71202,6 +71194,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-02T19:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9a70c5fc9b6f2f66"></a>
+
+## Stand With Crypto GOTV meet up
+
+- Record: `luma-evt-57DpPjU8L0Bt0hD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z3r4fk0w>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

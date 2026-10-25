@@ -1521,55 +1521,6 @@
     }
   },
   {
-    "id": "luma-batch-OaxPTQzrE6VTl6A",
-    "slug": "london-sep-25",
-    "name": "Co-Working Fridays : London Chapter",
-    "description": "Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM - 8:30PM)!\n\nAttendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.\n\nCome and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.\n\nOn arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.\n\nFor more info, reach out to us on the Solana UK Telegram.\n\nAbout Superteam UK\n\nSuperteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org\n\n* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\n** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.",
-    "startDate": "2026-09-25T09:00:00.000Z",
-    "endDate": "2026-09-25T19:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Somerset House, London, England, United Kingdom",
-    "url": "https://luma.com/london-sep-25",
-    "registrationUrl": "https://luma.com/london-sep-25",
-    "coverImage": "/events/luma-batch-OaxPTQzrE6VTl6A-609a935f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "neighborhood": "Somerset House",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam UK",
-      "url": "https://luma.com/user/SuperteamUK"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/london-sep-25",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/london-sep-25",
-      "eventId": "evt-OaxPTQzrE6VTl6A",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-4Syp9gOOW8ZSU6l",
     "slug": "gnk0ygk0",
     "name": "Arc Demos & Meetup",
