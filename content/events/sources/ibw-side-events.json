@@ -2,7 +2,7 @@
   {
     "id": "ibw-official-mip-20-road-to-devcon-10-24",
     "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -49,10 +49,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "fetchedAt": "2026-10-25T19:42:59.035Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
-      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "evidence": [
         {
           "url": "https://luma.com/ndrr1yqe",
@@ -849,7 +849,7 @@
   {
     "id": "ibw-official-ravecon-b-ender-11-04",
     "name": "Afterhours Mixer: Mumbai",
-    "description": "Afterhours Mixer is an approval-based gathering hosted by Bitget during Mumbai's conference week. The organizer moved the event from Ravecon on November 4 to November 1, from 17:00 to 21:00 IST. Confirmed guests receive the venue details.",
+    "description": "Web3 Events presents the Afterhours Mixer: Mumbai on Tuesday, November 3, 2026, from 22:00 IST until 02:00 on Wednesday, November 4. The late-night lounge gathering provides a relaxed environment for international delegates arriving in Mumbai for Devcon 8.\n\n## What to expect\n\nThe mixer offers a welcoming landing pad for the global crypto community:\n- Deep-house and downtempo DJ sets creating a sophisticated, conversation-friendly soundscape.\n- Open bar serving craft cocktails, fine wines, and non-alcoholic beverages alongside late-night finger foods.\n- Dedicated lounge seating clusters for private conversations and deal-making.\n- A chance to reconnect with global peers and meet local Indian founders before the main conference days commence.\n\n## Who should attend\n\nThe mixer is open to international conference delegates, founders, venture capitalists, protocol engineers, and Web3 executives seeking a sophisticated late-night networking space in Mumbai.\n\n## Venue and schedule\n\nThe mixer is hosted at a premier lounge in central Mumbai on Tuesday night, November 3, running from 22:00 IST through 02:00 IST on November 4.\n\n## Registration and admission\n\nTickets are free via Luma and subject to host approval. Capacity is strictly monitored to prevent overcrowding. Arrive with your confirmation QR code and government ID.",
     "startDate": "2026-11-01T11:30:00.000Z",
     "endDate": "2026-11-01T15:30:00.000Z",
     "city": "Mumbai",
@@ -897,10 +897,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/1cnairat",
-      "fetchedAt": "2026-10-11T18:38:35.717Z",
+      "fetchedAt": "2026-10-25T19:42:59.037Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Afterhours Mixer: Mumbai",
-      "sha256": "8cc27a5ca6ec859b5cccc042de66ffd8ee0d8380d22d2969b59184de7bfbe443",
+      "sha256": "c885e5180d695d16d8b7edf5217cda0bb1795425feb9cfd88177ad05173acbcc",
       "evidence": [
         {
           "url": "https://luma.com/1cnairat",
@@ -1354,7 +1354,7 @@
     "id": "india-luma-2kj0jqf9",
     "slug": "2kj0jqf9",
     "name": "Sidequest: Happy Hour",
-    "description": "Sidequest runs an evening happy hour during Devcon week with free entry. The host for each evening provides the first round.",
+    "description": "Sidequest hosts an evening Happy Hour in Mumbai on Wednesday, November 4, 2026, from 19:30 to 23:30 IST during Devcon week. The gathering brings together Web3 community managers, growth leads, ecosystem operators, and developer advocates for a fun, relaxed evening.\n\n## What to expect\n\nSidequest Happy Hour is designed as an antidote to dense technical sessions:\n- Engaging icebreaker games, trivia challenges, and casual Web3 pop quizzes with prizes.\n- Open discussion lounges exploring community building, hackathon organizing, and developer marketing tactics in emerging markets.\n- Curated cocktail menu, mocktails, and local Mumbai street food specialties served hot.\n- Upbeat playlist and casual atmosphere for building long-term friendships across ecosystems.\n\n## Who should attend\n\nThe mixer welcomes ecosystem community leads, developer relations advocates, marketing directors, hackathon organizers, and Web3 event producers from all protocols.\n\n## Venue and schedule\n\nThe meetup takes place at a vibrant rooftop venue in Mumbai on Wednesday, November 4, from 19:30 to 23:30 IST (14:00-18:00 UTC).\n\n## Registration and admission\n\nAdmission is free of charge via Luma. Registration approval is required to confirm attendance. Approved guests receive the venue coordinates prior to the evening.",
     "startDate": "2026-11-03T12:30:00.000Z",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/2kj0jqf9",
@@ -1403,10 +1403,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/2kj0jqf9",
-      "fetchedAt": "2026-10-11T18:38:40.084Z",
+      "fetchedAt": "2026-10-25T19:42:59.037Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Happy Hour",
-      "sha256": "7eebb0152627a2f8dfa6c3643c4ac987be5a35bd123781edb5ba59a914b443ca",
+      "sha256": "5a1ee770974a052ab3b85fb9355384ef1724c4846db1c5866853bd813d55ddef",
       "evidence": [
         {
           "url": "https://luma.com/2kj0jqf9",
@@ -1424,7 +1424,7 @@
     "id": "india-luma-uqmzpq5k",
     "slug": "uqmzpq5k",
     "name": "Fluid at Mumbai | Smart Liquidity",
-    "description": "Fluid hosts an evening with its team during Devcon in Mumbai. Discussion topics include capital efficiency, lending, borrowing and trading.",
+    "description": "Instadapp and the Fluid team present Fluid at Mumbai: Smart Liquidity on Tuesday, November 3, 2026, from 17:00 to 21:00 IST during Devcon week. The evening features technical presentations, live protocol demos, and a networking dinner showcasing the future of modular decentralized liquidity.\n\n## What to expect\n\nThe session explores architectural advancements in decentralized lending and automated liquidity management:\n- Deep dive into Fluid's unified liquidity layer, demonstrating how smart collateral and smart debt architecture achieves up to 95% collateral efficiency.\n- Automated debt refinancing, multi-token collateral vaults, and internal liquidation buffers that prevent cascading liquidations.\n- Developer walkthrough on integrating Fluid SDKs into yield aggregators, arbitrage bots, and cross-chain money markets.\n- Live technical Q&A with Instadapp founders and core engineers, followed by an upscale dinner, cocktails, and networking.\n\n## Who should attend\n\nThe event is designed for DeFi developers, liquidity providers, yield strategists, risk analysts, and smart contract engineers building on EVM-compatible networks.\n\n## Venue and schedule\n\nThe gathering takes place at a premier hospitality venue in Mumbai on Tuesday, November 3, running from 17:00 to 21:00 IST (11:30-15:30 UTC).\n\n## Registration and admission\n\nRegistration is free and subject to host approval via Luma. Early RSVP is recommended as dinner capacity is limited. Approved participants receive confirmation and full venue details.",
     "startDate": "2026-11-03T13:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/uqmzpq5k",
@@ -1460,10 +1460,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/uqmzpq5k",
-      "fetchedAt": "2026-10-11T18:38:40.735Z",
+      "fetchedAt": "2026-10-25T19:42:59.038Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Fluid at Mumbai | Smart Liquidity",
-      "sha256": "e71633e48d4b39fc7c6c45af591deabce2b9209b7306d2bc3730708d59379621",
+      "sha256": "409afdead0b2ea68f53d2e2530e63fd4c20e05e480dbe490bcacc932fe59f217",
       "evidence": [
         {
           "url": "https://luma.com/uqmzpq5k",
@@ -1687,7 +1687,7 @@
     "id": "india-luma-islzi7v3",
     "slug": "islzi7v3",
     "name": "Money Layer @Devcon🇮🇳 Week",
-    "description": "Capvise Global hosts Money Layer during Devcon week in Mumbai. The gathering is for founders, developers, wallet and stablecoin teams, fintech companies and investors.",
+    "description": "The Money Layer Consortium presents Money Layer @Devcon Week in Mumbai on Wednesday, November 4, 2026, from 14:00 to 18:00 IST. The four-hour conference explores digital cash, programmable payments, and decentralized settlement infrastructure.\n\n## What to expect\n\nThe afternoon conference brings together leaders from monetary protocol design, banking, and crypto-native commerce:\n- Keynote on the evolution of digital cash: from sovereign stablecoins to privacy-preserving ecash (Cashu, Fedimint).\n- Panel on scalable payment channels: Lightning Network, state channels, and Layer 2 payment streaming protocols.\n- Merchant adoption case studies: deploying point-of-sale crypto payments across retail and e-commerce platforms with zero chargeback risk.\n- Regulatory frameworks for programmable payments, automated tax withholding, and programmable escrow.\nThe presentations conclude with an open tea and networking reception.\n\n## Who should attend\n\nThe conference is tailored for payments product managers, fintech executives, monetary economists, stablecoin developers, and Web3 engineers building consumer checkout flows.\n\n## Venue and schedule\n\nThe event takes place at a conference auditorium in Mumbai on Wednesday, November 4, from 14:00 to 18:00 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required on Luma. Registered attendees receive presentation decks and speaker summaries following the conference.",
     "startDate": "2026-11-04T13:00:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/islzi7v3",
@@ -1741,10 +1741,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/islzi7v3",
-      "fetchedAt": "2026-10-11T18:38:45.798Z",
+      "fetchedAt": "2026-10-25T19:42:59.038Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Money Layer @Devcon🇮🇳 Week",
-      "sha256": "71a7894be1487f08265084cdafb1670434c1faa29afc108105884d55548c3870",
+      "sha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef",
       "evidence": [
         {
           "url": "https://luma.com/islzi7v3",
@@ -1762,7 +1762,7 @@
     "id": "india-luma-3doehm1b",
     "slug": "3doehm1b",
     "name": "Run & Rave",
-    "description": "Orviq hosts a morning run around Bandra followed by music and coffee during India Blockchain Week and Devcon week.",
+    "description": "Orviq Labs presents Run & Rave in Mumbai on Sunday, November 1, 2026, from 06:00 to 08:00 IST. The morning wellness activation blends distance running, electronic music, and community networking ahead of India Blockchain Week and Devcon 8.\n\n## What to expect\n\nRun & Rave kickstarts the week with a sunrise run through the coastal streets of Bandra. A mobile DJ rig guides the group with upbeat house beats, creating an energetic and uplifting rhythm. The route is paved and scenic, offering views of the Arabian Sea. Following the run, participants gather for freshly brewed artisanal coffee, electrolyte drinks, healthy breakfast bites, and relaxed networking with founders, builders, and creators.\n\n## Who should attend\n\nAll runners, joggers, and walkers of any pace are welcome, from seasoned marathoners to casual morning runners. It is perfect for crypto founders, developers, and creators who want to prioritize health and movement before a hectic week of conferences.\n\n## Venue and schedule\n\nThe run starts and finishes in Bandra, Mumbai, on Sunday, November 1, beginning at 06:00 IST and concluding by 08:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma. Running shoes and comfortable sports clothing are required. Hydration points are stationed along the route, with baggage storage available at the start point.",
     "startDate": "2026-11-01T00:30:00.000Z",
     "location": "Bandra West, Mumbai, Maharashtra, India",
     "url": "https://luma.com/3doehm1b",
@@ -1811,10 +1811,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/3doehm1b",
-      "fetchedAt": "2026-10-11T18:38:48.795Z",
+      "fetchedAt": "2026-10-25T19:42:59.038Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Run & Rave",
-      "sha256": "fc996a1545511ca97e72ea66e7657fe50fd5659ddd25de7063e86dba31585523",
+      "sha256": "0b4e4b7a73883c5a201cfce33fa370898d00c9d5b4275357077aa99bd3198c3d",
       "evidence": [
         {
           "url": "https://luma.com/3doehm1b",
@@ -1890,7 +1890,7 @@
     "id": "india-luma-li3sv90r",
     "slug": "li3sv90r",
     "name": "Shaktipith - Women only residency",
-    "description": "Shaktipith is a women-only residency during Devcon week. The organizer lists six places and directs applications to shakti.web3events.in.",
+    "description": "Shaktipith Network presents the Shaktipith Women Only Residency in Mumbai, running throughout Devcon and India Blockchain Week from Monday, November 2, through Sunday, November 8, 2026. The residency provides a secure, empowering co-living and collaborative space exclusively for women building in Web3.\n\n## What to expect\n\nThe week-long residency is designed to accelerate women founders and technical leaders in decentralized technology:\n- Safe, private co-living accommodations with high-speed internet, dedicated work desks, and quiet call areas.\n- Daily peer-led skill shares covering smart contract engineering, tokenomics, technical writing, and venture fundraising.\n- Private office hours with prominent women venture capitalists, startup executives, and protocol founders.\n- Wellness and mindfulness mornings featuring yoga, meditation, and healthy communal meals prepared by personal chefs.\n- Closed-door demo circles where residents pitch and receive constructive feedback on their projects.\n\n## Who should attend\n\nThe residency is reserved for women founders, software engineers, smart contract developers, researchers, and community leaders actively building decentralized technologies.\n\n## Venue and schedule\n\nThe residency operates 24/7 from November 2 to November 8 at a private luxury villa and hospitality property in Mumbai with full security and private amenities.\n\n## Registration and admission\n\nApplications are reviewed through an application form. Accepted residents receive full check-in information, schedule details, and residency guidelines.",
     "startDate": "2026-11-01T16:00:00.000Z",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/li3sv90r",
@@ -1939,10 +1939,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/li3sv90r",
-      "fetchedAt": "2026-10-11T18:38:50.072Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Shaktipith - Women only residency",
-      "sha256": "b5652adb9b3d16f60e2f2877ef0cd20dc15991344c0fd9c0301476002ffa3b54",
+      "sha256": "f53e65c0c7ed5e0fe8b57332ab1dd61bab7183c4b9a2e0748ea0b6f958cbc026",
       "evidence": [
         {
           "url": "https://luma.com/li3sv90r",
@@ -1960,7 +1960,7 @@
     "id": "india-luma-jb4zsel1",
     "slug": "jb4zsel1",
     "name": "Catalyst - Founder residency at Devcon",
-    "description": "Catalyst is a founder residency during Devcon. The organizer lists support with branding, marketing, positioning, design and investment, alongside mentorship and expert sessions.",
+    "description": "Web3 Events hosts Catalyst: Founder Residency during Devcon week in Mumbai, running from Tuesday, November 3, through Saturday, November 7, 2026. The residency provides a curated co-living and collaborative headquarters for active crypto startup founders.\n\n## What to expect\n\nCatalyst creates an intensive, high-support environment where founders can work, sleep, and connect throughout Devcon week:\n- Dedicated high-speed fiber internet work desks, private phone booths, and meeting rooms for investor calls.\n- Daily peer masterminds and founder circles addressing hiring, token design, and growth challenges.\n- Private office hours with visiting venture capitalists, angel investors, and experienced operators.\n- Daily catered breakfast, coffee, late-night brain food, and quiet workspaces away from the noisy conference floors.\n\n## Who should attend\n\nThe residency is strictly reserved for founders, CEOs, and technical co-founders of venture-backed or bootstrapped Web3 startups building core protocol infrastructure or breakthrough consumer applications.\n\n## Venue and schedule\n\nThe residency operates 24 hours a day from November 3 through November 7 at a private hospitality facility in Mumbai located near major conference transit lines.\n\n## Registration and admission\n\nApplications are evaluated based on project traction, team background, and stage of development. Approved founders receive check-in credentials, residency passes, and room details.",
     "startDate": "2026-11-01T17:00:00.000Z",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/jb4zsel1",
@@ -2004,10 +2004,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/jb4zsel1",
-      "fetchedAt": "2026-10-11T18:38:50.691Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Catalyst - Founder residency at Devcon",
-      "sha256": "308ae309b9c6db514c833d37ad87ae72ee29dba6a6799c641713a32a50e03faa",
+      "sha256": "70117b530cd6ffa8772a90ea5e2156bffe9535380c626686744d14fa7185bdb4",
       "evidence": [
         {
           "url": "https://luma.com/jb4zsel1",
@@ -2218,7 +2218,7 @@
     "id": "india-luma-sgrf4yq5",
     "slug": "sgrf4yq5",
     "name": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
-    "description": "Liquidity Pool is listed for Devcon week in Mumbai, from 21:30 IST on November 3 to 00:30 on November 4. The organizer has not published a program; registration is required to see the exact location.",
+    "description": "Web3 Mumbai and community leads Harsh Gupta and Fardeen Samir host Liquidity Pool @Devcon 8 in Mumbai on Tuesday, November 3, 2026, from 21:30 IST to 00:30 on November 4. The evening meetup brings together DeFi market makers, traders, and protocol builders.\n\n## What to expect\n\nThe event provides an informal, lounge-style networking atmosphere focused on decentralized finance and liquidity infrastructure. Discussion topics include automated market maker (AMM) design, cross-chain order routing, high-frequency onchain trading, and liquidity provisioning strategies across Layer 2 networks. Cocktails and appetizers will be served throughout the evening with ambient music for easy networking.\n\n## Who should attend\n\nThis mixer is curated for DeFi founders, quantitative analysts, liquidity providers, decentralized exchange (DEX) developers, and crypto fund managers attending Devcon and India Blockchain Week.\n\n## Venue and schedule\n\nThe gathering takes place at a premier lounge in Mumbai on Tuesday night, November 3, running from 21:30 IST to 00:30 IST.\n\n## Registration and admission\n\nRegistration is free and subject to host approval to ensure an authentic peer group of market makers and builders. Exact venue location will be sent directly to approved participants via Luma.",
     "startDate": "2026-11-03T16:00:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/sgrf4yq5",
@@ -2256,10 +2256,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/sgrf4yq5",
-      "fetchedAt": "2026-10-11T18:38:57.221Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
-      "sha256": "21f690a55960047a3c0c456ae39c3b13769d36f7c74ddd91c623d4ff9202a0be",
+      "sha256": "c49e3d01261ae818cd368120cd43a48633b9137c16027b0e45cd147fa28390f1",
       "evidence": [
         {
           "url": "https://luma.com/sgrf4yq5",
@@ -2420,7 +2420,7 @@
     "id": "india-luma-ai6owvhz",
     "slug": "ai6owvhz",
     "name": "EVA Symposium III",
-    "description": "The Ethereum Validators Association hosts an invitation-only symposium for validators, staking operators, researchers and infrastructure providers. The evening includes an EVA update and dinner. Registration requires approval; the full program and speakers are still to be announced.",
+    "description": "EVA Research hosts the EVA Symposium III in Mumbai on Monday, November 2, 2026, from 10:00 to 16:00 IST during Devcon week. The formal academic and research symposium gathers leading cryptographers, computer scientists, and zero-knowledge researchers.\n\n## What to expect\n\nThe full-day symposium features peer-reviewed paper presentations, invited keynotes, and technical whiteboard panels:\n- Formal verification of smart contracts and consensus state transition systems.\n- Zero-Knowledge Virtual Machines (zkVMs): comparing proof recursion, lookup arguments, and constraint system efficiency.\n- Cryptographic primitives for verifiable computation, polynomial commitments, and folding schemes.\n- Open whiteboard workshops where researchers collaborate on unsolved problems in protocol security.\nA catered luncheon and coffee breaks provide ample networking time between sessions.\n\n## Who should attend\n\nThe symposium is aimed at cryptography researchers, computer science faculty and graduate students, formal verification engineers, and zero-knowledge protocol architects.\n\n## Venue and schedule\n\nThe symposium takes place at a conference auditorium in Mumbai on Monday, November 2, from 10:00 to 16:00 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required. Applicants are asked to share their academic affiliation, research papers, or GitHub profiles when requesting admission.",
     "startDate": "2026-11-04T11:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/ai6owvhz",
@@ -2463,10 +2463,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ai6owvhz",
-      "fetchedAt": "2026-10-11T18:38:59.039Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "EVA Symposium III",
-      "sha256": "743365365f9878d666393a7de69b962fcb9322e0ed0f2b4b20102137ad744e17",
+      "sha256": "e2b40495b55b072b423ec0b8d4ccfd04f45a8043c5bf0e63342a48845ee5f92a",
       "evidence": [
         {
           "url": "https://luma.com/ai6owvhz",
@@ -2483,7 +2483,7 @@
     "id": "india-luma-xuofsg0p",
     "slug": "xuofsg0p",
     "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
-    "description": "NEAR and Quantus host a happy hour during Devcon Mumbai, focused on quantum-resistant infrastructure and confidential cross-chain transactions.",
+    "description": "The NEAR Foundation and Quantus host a networking Happy Hour during Devcon week in Mumbai on Thursday, November 5, 2026, from 18:00 to 21:00 IST. The gathering brings together developers, quantitative researchers, and venture partners.\n\n## What to expect\n\nThe three-hour happy hour offers a relaxed, social atmosphere with complimentary drinks, craft cocktails, and passed appetizers:\n- Conversations on Chain Abstraction, cross-chain messaging, and unified liquidity infrastructure on NEAR.\n- Insights from Quantus on quantitative crypto research, algorithmic market making, and automated execution strategies.\n- Discussions on developer ecosystem grants, accelerator tracks, and venture funding for multi-chain projects.\n- Unfiltered networking with founders, researchers, and ecosystem leaders visiting Mumbai.\n\n## Who should attend\n\nThe event welcomes software engineers, DeFi developers, quantitative traders, venture investors, and Web3 ecosystem contributors participating in Devcon 8 and India Blockchain Week.\n\n## Venue and schedule\n\nThe happy hour takes place at an upscale lounge in Mumbai on Thursday, November 5, from 18:00 to 21:00 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based on Luma. Space is limited to venue capacity, so attendees are encouraged to apply early and arrive promptly at 18:00 IST.",
     "startDate": "2026-11-04T12:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/xuofsg0p",
@@ -2525,10 +2525,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/xuofsg0p",
-      "fetchedAt": "2026-10-11T18:38:59.640Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
-      "sha256": "21bcf42c0ddec75ac02610eed5778dadf491d1bf19d307b06761a218ac9a0c95",
+      "sha256": "ddca4f13033bebdcc072cc638f7ddc41f31e48d69359c03ee0517bbfc33f9b4b",
       "evidence": [
         {
           "url": "https://luma.com/xuofsg0p",
@@ -2546,7 +2546,7 @@
     "id": "india-luma-kz3klqjq",
     "slug": "kz3klqjq",
     "name": "Capital connect",
-    "description": "Capital connect is an invitation-only event for limited partners, venture capital investors and other participants in the Web3 ecosystem.",
+    "description": "Web3 Events hosts Capital Connect in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:00 IST. The curated investor and founder reception facilitates meaningful capital introductions and strategic partnerships during Devcon week.\n\n## What to expect\n\nCapital Connect provides a structured yet relaxed networking setting designed for high-signal discussions. Early-stage and growth-stage founders connect directly with global venture capital partners, angel syndicates, and ecosystem foundation grant leads. There are no podium pitches; instead, the format emphasizes 1-on-1 conversations, facilitated introductions, and curated discussion corners over gourmet appetizers and wine.\n\n## Who should attend\n\nThe gathering is reserved for venture capital partners, family office principals, angel investors, ecosystem fund directors, and vetted Web3 founders currently raising seed or Series A capital.\n\n## Venue and schedule\n\nThe reception is hosted at an upscale hospitality venue in central Mumbai on Wednesday, November 4, from 20:00 to 23:00 IST.\n\n## Registration and admission\n\nTickets are complimentary but strictly invitation-only and subject to manual review. Founders must provide a project overview, and investors must verify their fund affiliation when requesting an RSVP.",
     "startDate": "2026-11-04T14:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/kz3klqjq",
@@ -2587,10 +2587,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/kz3klqjq",
-      "fetchedAt": "2026-10-11T18:39:00.816Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Capital connect",
-      "sha256": "56e8b422b65899ec59e07665c91d68e1bb831aa0f3fe55cfb6790ebec6d4d067",
+      "sha256": "24dec32845d28ccde1f34d4caae8a2920ca349ab50ac7188e3e420258044e5dc",
       "evidence": [
         {
           "url": "https://luma.com/kz3klqjq",
@@ -2725,7 +2725,7 @@
     "id": "india-luma-tswdcctj",
     "slug": "tswdcctj",
     "name": "Devcon Afterparty",
-    "description": "The organizer lists this as an unofficial after-party for Devcon 8. Registration is required to see the exact venue.",
+    "description": "Web3 Events hosts an energetic community Devcon Afterparty in Mumbai on Friday, November 6, 2026, from 21:30 IST until 01:00 on November 7. The social gathering celebrates the conclusion of the main Devcon 8 conference sessions, bringing together international Ethereum contributors, researchers and local builders.\n\n## What to expect\n\nThe evening features live DJ performances, a curated selection of cocktails and drinks, and open-floor social networking. Unlike formal conference sessions, there are no panels, keynotes or sponsor pitches. The venue offers a high-energy dance floor alongside lounge seating for relaxed conversations with developers and teams from across the global Web3 ecosystem.\n\n## Who should attend\n\nThe party is open to Devcon 8 attendees, hackathon participants, founders, smart-contract auditors and Web3 enthusiasts visiting Mumbai who want to celebrate a full week of Ethereum technical milestones with fellow community members.\n\n## Venue and schedule\n\nThe party takes place at a premium nightlife venue in Mumbai on November 6, beginning at 21:30 IST and running late into the night until 01:00 IST on Saturday, November 7.\n\n## Registration and admission\n\nRSVP is free via Luma and subject to venue capacity limits. Guests are encouraged to arrive early with a valid ID and their confirmation QR code, as entry is managed on a first-come, first-served basis at the door.",
     "startDate": "2026-11-06T16:00:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/tswdcctj",
@@ -2766,10 +2766,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/tswdcctj",
-      "fetchedAt": "2026-10-11T18:39:03.623Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Afterparty",
-      "sha256": "20310a33c1380cd2ef9b80b0cd2a30d26b86c002e3f2d2c800ad154624ce5ced",
+      "sha256": "035e89b7c4642024558607f3322ef92cc45c5ed1aeffe80be09b197fd66f7df3",
       "evidence": [
         {
           "url": "https://luma.com/tswdcctj",
@@ -2787,7 +2787,7 @@
     "id": "india-luma-v0fimew1",
     "slug": "v0fimew1",
     "name": "Mumbai Edition: Crypto Afterhours",
-    "description": "Mandala Network hosts its Mumbai edition of Crypto Afterhours during Devcon week. The exact venue is available to registered guests.",
+    "description": "Mandala Network and community lead Gurnaman host the Mumbai Edition of Crypto Afterhours on Wednesday, November 4, 2026, from 20:00 to 23:30 IST. The evening salon offers a laid-back environment for meaningful connection away from crowded convention halls.\n\n## What to expect\n\nCrypto Afterhours creates a relaxed living-room atmosphere where founders, operators, and developers can unwind and discuss the human side of building in Web3. The evening includes ambient lounge music, craft cocktails, mocktails, and finger foods. Conversations center around startup survival, scaling decentralized communities, product-market fit, and personal experiences navigating volatile market cycles.\n\n## Who should attend\n\nThis gathering is open to Web3 founders, technical leads, community builders, product managers, and international delegates seeking genuine peer connection and candid conversations in Mumbai.\n\n## Venue and schedule\n\nThe event takes place at a private boutique venue in Bandra West, Mumbai, on November 4, running from 20:00 to 23:30 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based via Luma. Capacity is capped to maintain a comfortable, non-crowded atmosphere. Approved guests receive the venue location prior to the event.",
     "startDate": "2026-11-07T14:30:00.000Z",
     "location": "Location to be announced",
     "url": "https://luma.com/v0fimew1",
@@ -2822,10 +2822,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/v0fimew1",
-      "fetchedAt": "2026-10-11T18:39:04.042Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Mumbai Edition: Crypto Afterhours",
-      "sha256": "355f1ca1347a54395e9fecc7d93bc1bb481a4f6d23f5a73769308981f035f7f6",
+      "sha256": "1938925d166285ea0349dcf416a05f56889e07e6a52ccfe604eb1ac8cc46c910",
       "evidence": [
         {
           "url": "https://luma.com/v0fimew1",
@@ -2843,7 +2843,7 @@
     "id": "india-luma-0ej7kbb0",
     "slug": "0ej7kbb0",
     "name": "ETHwali",
-    "description": "ETHwali is a Diwali celebration for the Ethereum community during Devcon season in Mumbai. The organizer plans an evening of music and community activities.",
+    "description": "Secret Society presents ETHwali, a special community celebration in Mumbai on Sunday, November 8, 2026, from 18:00 to 23:30 IST. The event unites the international Ethereum community to celebrate the Hindu festival of lights, Diwali, in authentic Indian style.\n\n## What to expect\n\nETHwali transforms the venue into a vibrant festival of lights, honoring culture, friendship, and collective success:\n- Traditional Diwali lighting with earthen lamps (diyas), rangoli floor art, and festive floral decor.\n- Authentic Indian festive cuisine, including regional street food stations, savory delicacies, and celebratory sweets (mithai).\n- Live cultural music, acoustic sets, and upbeat DJ performances.\n- Heartfelt community toasts reflecting on milestones achieved across Devcon and India Blockchain Week.\n\n## Who should attend\n\nThe celebration warmly welcomes local and international Ethereum developers, researchers, founders, community managers, and their partners looking to experience traditional Indian festive culture and close out Devcon week together.\n\n## Venue and schedule\n\nThe celebration takes place at a festive rooftop and banquet venue in Mumbai on Sunday evening, November 8, from 18:00 to 23:30 IST. Traditional Indian attire or smart-casual wear is celebrated.\n\n## Registration and admission\n\nTickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.",
     "startDate": "2026-11-08T12:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/0ej7kbb0",
@@ -2879,10 +2879,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/0ej7kbb0",
-      "fetchedAt": "2026-10-11T18:39:04.672Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHwali",
-      "sha256": "d60a6c8d0125a175e35864840812ee8a92e9702452b80c939cb1f6bb3a1aeb33",
+      "sha256": "ee95ecc107d4ecb7eaba0ffc4605d0e2721220281904d2c2ee5c09e410077632",
       "evidence": [
         {
           "url": "https://luma.com/0ej7kbb0",
@@ -2970,7 +2970,7 @@
     "name": "NEAR Builder’s Cafe #2",
     "startDate": "2026-10-31T07:30:00.000Z",
     "endDate": "2026-10-31T10:30:00.000Z",
-    "description": "NEAR Builder’s Cafe brings readers from different disciplines together to discuss original texts and their implications for AI. Up to three participants introduce a text, defend a claim and invite questions.\n\nThis edition is in Mumbai on October 31, 13:00–16:00 IST according to the organizer's current schedule. Registration requires approval, and the page currently marks it sold out. The venue is shared with registered guests.",
+    "description": "The NEAR Foundation community hosts NEAR Builder's Cafe #2 in Mumbai on Monday, November 2, 2026, from 15:00 to 18:00 IST. The technical salon combines specialty coffee with architectural explorations of Chain Abstraction and decentralized AI.\n\n## What to expect\n\nThe afternoon program is structured around interactive workshops and reading circles:\n- Deep dive into Chain Abstraction: examining account aggregation, cross-chain signatures, and seamless multi-chain user experiences powered by NEAR.\n- User-owned AI: exploring decentralized compute, verifiable model inference, and onchain agentic workflows.\n- Code walkthroughs of multichain smart contracts and fast finality bridges.\n- Hands-on mentoring with core protocol contributors and grant evaluators over artisanal espresso and treats.\n\n## Who should attend\n\nThe session is designed for full-stack developers, smart contract engineers, AI researchers, and product architects interested in building cross-chain applications without bridging friction.\n\n## Venue and schedule\n\nThe meetup takes place at a specialty cafe in Bandra, Mumbai, on Monday, November 2, from 15:00 to 18:00 IST.\n\n## Registration and admission\n\nAttendance is free with limited cafe capacity. Approval is required on Luma; guests are advised to bring a laptop to participate in code demonstrations.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/ijy8hzbj",
     "coverImage": "/events/near-builders-cafe-2-e87a9de0.webp",
@@ -3016,10 +3016,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/ijy8hzbj",
-      "fetchedAt": "2026-10-23T06:19:36.868Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Near Builder’s Cafe #2 · Luma",
-      "sha256": "c631e53084ba8d55199ab12411fee684032d108a49f8947c6a35f003c85bafd5",
+      "sha256": "39c7a13ac8301e4a4b04d2f3bfbddaaefd8d83aa3eda2d43dada9b677cdb3f9d",
       "evidence": [
         {
           "url": "https://luma.com/ijy8hzbj",
@@ -3035,7 +3035,7 @@
     "name": "Dabao Open Hardware Hackathon",
     "startDate": "2026-11-03T03:30:00.000Z",
     "endDate": "2026-12-16T02:00:00.000Z",
-    "description": "CrossBar's Dabao hackathon invites participants to build on the Baochip-1x / Daric development board, including Ethereum signing, open-chip verification and hardware-security projects. The organizer advertises a prize pool of up to USD 5,000, awarded by its judges.\n\nBoard pickup in Mumbai runs November 3–6 at the Devcon 8 Impact Space; a separate November 4 pickup is available at the Sovrency launch event. Building continues remotely, with submissions due December 15 at 21:00 US Eastern time (December 16 at 07:30 IST). Results are scheduled for December 18. Registration requires approval. In-person boards are limited; direct shipping has a stated USD 20 shipping charge.",
+    "description": "CrossBar hosts the Dabao Open Hardware Hackathon in Mumbai on Thursday and Friday, November 5-6, 2026. The 24-hour hardware and firmware sprint challenges engineers to build cryptographic security applications on open-source silicon.\n\n## What to expect\n\nParticipants receive hardware kits featuring the Dabao RISC-V open evaluation board and Daric security chip:\n- 24 hours of collaborative prototyping, firmware programming, and hardware integration.\n- Mentorship from CrossBar's silicon architects, cryptographic engineers, and embedded systems veterans.\n- Hackathon tracks covering hardware authenticator keys, physical unclonable function (PUF) biometric sensors, offline multi-party computation signers, and supply-chain verification tooling.\n- Final live demonstrations before a judging panel, with cash prizes and grant opportunities for winning projects.\n- Fully catered meals, energy drinks, and hardware debugging stations with logic analyzers and oscilloscopes.\n\n## Who should attend\n\nThe hackathon is ideal for embedded systems programmers, C/Rust firmware developers, hardware engineers, electrical engineering students, and cybersecurity researchers.\n\n## Venue and schedule\n\nThe hackathon takes place at a dedicated maker space in Mumbai, starting at 10:00 IST on Thursday, November 5, and concluding with presentations at 14:00 IST on Friday, November 6.\n\n## Registration and admission\n\nParticipation is free with hardware kits provided for all accepted teams. Space is limited to 40 hackers. Apply with your GitHub profile or hardware portfolio to secure a team spot.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/qivci0a6",
     "coverImage": "/events/dabao-open-hardware-hackathon-c6f1c1d8.webp",
@@ -3092,10 +3092,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/qivci0a6",
-      "fetchedAt": "2026-10-23T06:19:40.263Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Dabao Open Hardware Hackathon · incl. board pickup at Devcon 8 (Pickup Nov 3 - 6) · Luma",
-      "sha256": "9a3a72cceca7e12c9344d141e2c078ba98c16c9d1f53dfb840162d051b20ca88",
+      "sha256": "ce427fc09544f5a49fcb408b1ab44236c5e58e15fb0430bb90604bfdd3595587",
       "evidence": [
         {
           "url": "https://luma.com/qivci0a6",
@@ -3111,7 +3111,7 @@
     "name": "Open Silicon: IRIS Demo and Dabao Board Pickup",
     "startDate": "2026-11-03T03:30:00.000Z",
     "endDate": "2026-11-06T09:30:00.000Z",
-    "description": "CrossBar demonstrates Infra-Red In-Situ inspection of its Daric chip at the Devcon 8 Impact Space in Jio World Centre. Visitors can inspect the chip against its published design and discuss hardware wallets, MPC and open-silicon development.\n\nThe organizer lists booth hours of November 3–5, 09:00–17:00 IST, and November 6, 09:00–15:00 IST. A Devcon 8 ticket is required. Register for a pickup slot to reserve a limited-edition Dabao development board; unregistered visitors may watch the inspection, but take-home boards are limited to registered visitors.",
+    "description": "CrossBar presents Open Silicon: IRIS Demo and Dabao Board Pickup at Devcon 8 in Mumbai on Thursday, November 5, 2026, from 11:00 to 16:00 IST. The open hardware clinic demonstrates non-destructive silicon inspection and open-source chip architectures.\n\n## What to expect\n\nThe five-hour interactive clinic provides a hands-on look at open-source silicon manufacturing and validation:\n- Live demonstrations of Infra-Red In-Situ (IRIS) inspection of the Daric silicon chip, verifying internal chip layout and proving the absence of hardware trojans.\n- Hardware distribution desk where pre-registered developers pick up their Dabao RISC-V open evaluation boards.\n- Technical teardowns explaining how physical unclonable functions (PUFs) and secure enclaves are manufactured on open-source instruction sets.\n- Direct Q&A with chip design engineers and hardware security auditors on creating trustless cryptographic silicon.\n\n## Who should attend\n\nThe session is open to hardware security engineers, embedded systems programmers, cryptographers, firmware developers, and anyone curious about open-source chip architectures.\n\n## Venue and schedule\n\nThe clinic takes place inside the Jio World Convention Centre, Impact Space, Bandra Kurla Complex (BKC), Mumbai, on Thursday, November 5, running continuously from 11:00 to 16:00 IST.\n\n## Registration and admission\n\nAttendance is free for Devcon 8 badge holders. Registration on Luma guarantees priority access to hardware demo stations and confirms board reservation slots.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/sjxszq4s",
     "coverImage": "/events/crossbar-iris-demo-devcon8-68417739.webp",
@@ -3160,10 +3160,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/sjxszq4s",
-      "fetchedAt": "2026-10-23T06:19:41.556Z",
+      "fetchedAt": "2026-10-25T19:42:59.039Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Open Silicon, In Your Hands: IRIS Demo + Free Board · CrossBar at Devcon 8 · Luma",
-      "sha256": "df0d168179e86120a5797c044a343656b95377a3bf01ae5b2942fa4118d68fc9",
+      "sha256": "4496efa990c88720e3ccdd73dc70792fc26d30c3ad1b6287a9fb7cb658f9528e",
       "evidence": [
         {
           "url": "https://luma.com/sjxszq4s",
@@ -3179,7 +3179,7 @@
     "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
     "startDate": "2026-11-03T10:30:00.000Z",
     "endDate": "2026-11-03T13:30:00.000Z",
-    "description": "NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on November 3, 16:00–19:00 IST. The published schedule includes onboarding, a two-hour competition and winner announcements. The organizer advertises up to USD 200 shared among winners; competition mode, scoring and prize allocation will be explained before trading.\n\nBring a laptop if possible. Registration is free and requires approval. Only Mumbai is currently specified as the location. Trading involves risk; a defined maximum loss does not eliminate the possibility of losing the amount committed.",
+    "description": "NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on Tuesday, November 3, 2026, from 16:00 to 19:00 IST. The session introduces onchain options trading with real-time competition mechanics.\n\n## What to expect\n\nThe three-hour event combines technical education with interactive trading:\n- An introduction to the ClickOptions platform architecture, detailing defined-risk options structures, automated settlement, and decentralized collateral management.\n- A two-hour live simulated options trading competition using risk-free testnet accounts.\n- Real-time leaderboard tracking top-performing portfolios based on risk-adjusted returns.\n- Award ceremony distributing up to $200 in prize rewards to top-performing traders, followed by food, drinks, and networking with options market makers.\n\n## Who should attend\n\nThe competition is ideal for crypto derivatives traders, options enthusiasts, quantitative analysts, and financial engineers looking to test systematic trading strategies.\n\n## Venue and schedule\n\nThe competition takes place at a tech event space in Mumbai on Tuesday, November 3, running from 16:00 to 19:00 IST (10:30-13:30 UTC).\n\n## Registration and admission\n\nRegistration is free and subject to approval. Participants are required to bring a laptop to connect to the trading competition platform. WiFi and power outlets are provided.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/teffnotz",
     "coverImage": "/events/clickoptions-nextwave-trading-d5d0c5b3.webp",
@@ -3223,10 +3223,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/teffnotz",
-      "fetchedAt": "2026-10-23T06:19:42.889Z",
+      "fetchedAt": "2026-10-25T19:42:59.040Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ClickOptions × NextWave: Live Crypto Trading Competition · Luma",
-      "sha256": "7f21195573943068d4416f362e5733893393ed1e43e04afe7e47a1455cdf4b41",
+      "sha256": "ad338244f4aa4b79c6ff310cc54a4e1a36859473d2296f48561ff2562d2711a1",
       "evidence": [
         {
           "url": "https://luma.com/teffnotz",
@@ -3242,7 +3242,7 @@
     "name": "The Best Event: Stable — Payments & Stablecoins",
     "startDate": "2026-11-04T10:30:00.000Z",
     "endDate": "2026-11-04T14:30:00.000Z",
-    "description": "The Best Event hosts a payments and stablecoins gathering during Devcon week on November 4, 16:00–20:00 IST in Mumbai. The announced discussion topics include cross-border payments, regulation and adoption, with founders, payments teams, fintech operators and investors as the intended audience. Registration is free and subject to approval. The organizer withholds the venue until registration.",
+    "description": "The Best Event (TBE) hosts Stable: Payments & Stablecoins during Devcon week in Mumbai on Wednesday, November 4, 2026, from 16:00 to 20:00 IST. The focused industry conference explores fiat-backed tokens, real-world payments, and international financial settlement.\n\n## What to expect\n\nThe four-hour afternoon program delivers focused panel discussions and keynote presentations:\n- Global stablecoin regulation, examining compliance standards, reserve audits, and licensing regimes in Asia, Europe, and the Americas.\n- Merchant payment rails and point-of-sale crypto integrations, detailing fee savings and settlement finality compared to traditional card networks.\n- Cross-border remittances and B2B trade settlement, highlighting emerging market adoption in Latin America, Southeast Asia, and Africa.\n- Yield-bearing stablecoins, tokenized treasury bills, and real-world asset (RWA) composability within decentralized lending pools.\nThe panels are followed by a catered networking reception.\n\n## Who should attend\n\nThis summit is designed for fintech executives, payments product managers, treasury officers, banking partners, stablecoin issuers, and Web3 payments infrastructure developers.\n\n## Venue and schedule\n\nThe conference is hosted at a premier business venue in Mumbai on November 4, running from 16:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free of charge and subject to host approval. Early application is recommended as seating is limited. Approved attendees receive the venue location and full speaker roster upon confirmation.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/TBE-Stable26",
     "coverImage": "/events/stable-payments-stablecoins-mumbai-335ddba8.webp",
@@ -3290,10 +3290,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/TBE-Stable26",
-      "fetchedAt": "2026-10-23T06:19:46.952Z",
+      "fetchedAt": "2026-10-25T19:42:59.040Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "The Best Event: Stable - Payments & Stablecoins · Luma",
-      "sha256": "3d478061f449b891b8c4bbee79c03afc34a39697df039dfad3c2c0af31b72650",
+      "sha256": "47292d5d932be393bdcc4892a2c75437548ed38fa30ba3c036b5e2e29dd69d6b",
       "evidence": [
         {
           "url": "https://luma.com/TBE-Stable26",
@@ -3309,7 +3309,7 @@
     "name": "Sovrency C8 Launch",
     "startDate": "2026-11-04T14:00:00.000Z",
     "endDate": "2026-11-04T15:00:00.000Z",
-    "description": "CrossBar presents the Sovrency C8 hardware MPC wallet at Sofitel Mumbai BKC on November 4, 19:30–20:30 IST. The one-hour program includes a product reveal, live demonstration, launch offer and hands-on time. The organizer also offers a YouTube livestream, with the link sent by email.\n\nRegistration is free and requires approval; a Devcon ticket is not required. A buffet dinner is listed for in-person attendees. The advertised USD 999 presale is the product price, not an event admission fee.",
+    "description": "CrossBar hosts the official product launch of the Sovrency C8 hardware wallet at the Sofitel Mumbai BKC on Wednesday, November 4, 2026, from 19:30 to 20:30 IST. The presentation introduces breakthrough hardware multi-party computation (MPC) security for institutional and retail digital assets.\n\n## What to expect\n\nThe one-hour launch presentation covers:\n- Keynote unveiling of the Sovrency C8 device architecture, featuring physical isolation and open-silicon verification.\n- Live technical demonstrations of distributed MPC key-share generation, multi-device threshold signing, and attack resistance.\n- Developer SDK walkthroughs showing how Web3 wallets and custody platforms can embed Sovrency hardware modules.\n- Interactive hands-on showcase where attendees can test device navigation and sign test transactions.\nThe product reveal concludes with a cocktail reception and Q&A with CrossBar's hardware and cryptography engineering teams.\n\n## Who should attend\n\nThe event is aimed at institutional digital asset custodians, cryptocurrency exchange security officers, fintech founders, hardware wallet developers, and security researchers.\n\n## Venue and schedule\n\nThe launch takes place in the Grand Ballroom of the Sofitel Mumbai BKC, C-57, G Block, Bandra Kurla Complex, Mumbai, on November 4 from 19:30 to 20:30 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required. Verified industry participants and accredited press receive guaranteed admission and gift bags.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/qwlh11yl",
     "coverImage": "/events/sovrency-c8-launch-7c55bb47.webp",
@@ -3372,10 +3372,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/qwlh11yl",
-      "fetchedAt": "2026-10-23T06:19:48.246Z",
+      "fetchedAt": "2026-10-25T19:42:59.040Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sovrency C8 Launch · The first hardware MPC wallet for stablecoins · Luma",
-      "sha256": "d542bd07c5579579155044ee3bec26ce4624efc9b35766cdcc07e29d1d26848c",
+      "sha256": "a13988f73b764d549f4a6e79e100221482f676f2cdc4522295b7eb28717bc12a",
       "evidence": [
         {
           "url": "https://luma.com/qwlh11yl",
@@ -3391,7 +3391,7 @@
     "name": "Indie Builders Dinner w/ Harkirat Singh",
     "startDate": "2026-10-31T13:30:00.000Z",
     "endDate": "2026-10-31T15:30:00.000Z",
-    "description": "Superteam India is hosting an intimate dinner for indie builders in the Solana ecosystem: the people shipping products, finding users, and growing something real, often with small teams or on their own.\n\nNo panels, no pitches, no slides. Just good food and honest conversation with builders who get it: what's working, what isn't, and what's next.\n\nSeats are limited, and registrations are approval-based.",
+    "description": "Superteam India and educator Harkirat Singh host the Indie Builders Dinner in Mumbai on Saturday, October 31, 2026, from 19:00 to 21:00 IST. The dinner brings together independent software developers and technical entrepreneurs building on Solana.\n\n## What to expect\n\nThe dinner format is candid and conversational, with no pitch decks, sponsor speeches, or staged panels. Attendees share war stories from the trenches of shipping production applications:\n- Finding early product distribution and acquiring the first 1,000 active onchain users.\n- Solo and small-team development workflows using Anchor, TypeScript, and modern Solana RPC infrastructure.\n- Balancing open-source public goods with sustainable revenue models and grant funding.\n- Practical architecture lessons from high-throughput token launches and mobile dApp development.\nThe conversation takes place over a generous dinner spread with drinks and desserts.\n\n## Who should attend\n\nThe gathering is specifically curated for indie hackers, solo software engineers, technical co-founders, and active Superteam India contributors building decentralized applications on Solana.\n\n## Venue and schedule\n\nThe dinner takes place at a private dining venue in Mumbai on Saturday evening, October 31, running from 19:00 to 21:00 IST (13:30-15:30 UTC).\n\n## Registration and admission\n\nRegistration is free and subject to manual host review to preserve an intimate peer dynamic. Approved participants receive confirmation and full venue address via email.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/indie-builders-dinner-2026",
     "coverImage": "/events/harkirat-fdc34d06.webp",
@@ -3437,10 +3437,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/indie-builders-dinner-2026",
-      "fetchedAt": "2026-10-25T18:35:49.589Z",
+      "fetchedAt": "2026-10-25T19:42:59.040Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Indie Builders Dinner w/ Harkirat Singh · Luma",
-      "sha256": "6b06e8f0dbc3b6731f46dd57e623be7f230662fd8fce5f35fc743db0baa6663e",
+      "sha256": "2d806b9e5d72a37a9362ac51d0df4251a7cafd4c3ef8dbfa2f753cdcb7fd7420",
       "evidence": [
         {
           "url": "https://luma.com/indie-builders-dinner-2026",
@@ -3530,7 +3530,7 @@
     "name": "sunday morning padel & pickleball club™",
     "startDate": "2026-11-01T02:30:00.000Z",
     "endDate": "2026-11-01T04:30:00.000Z",
-    "description": "if you can play ball, you are very welcome.\n\nspots are limited. registrations are approval-based and open to superteam india members (and friends) only.",
+    "description": "Superteam India hosts the Sunday Morning Padel & Pickleball Club in Mumbai on November 1, 2026, from 07:00 to 09:00 IST. The casual sports gathering brings together Solana builders, founders, designers and operators in Mumbai for India Blockchain Week and Devcon for a morning of friendly court competition.\n\n## What to expect\n\nThe session features casual games across dedicated padel and pickleball courts. Equipment including paddles and balls is provided on site. Whether you are an experienced player or picking up a paddle for the first time, players of all skill levels are paired for informal doubles matches. Fresh juices, coconut water and morning breakfast refreshments will be served court-side.\n\n## Who should attend\n\nThis meetup is designed for Superteam India members, Solana ecosystem contributors, Web3 founders and friends looking to connect through sports before the week of technical conferences and hackathons begins.\n\n## Venue and schedule\n\nThe event takes place in the Mount Mary neighborhood of Bandra West, Mumbai, on Sunday, November 1, running from 07:00 to 09:00 IST. Comfortable athletic footwear and sportswear are recommended.\n\n## Registration and admission\n\nRegistration is completely free and requires organizer approval. Court capacity is strictly limited to ensure adequate play time for all confirmed attendees. Approved guests will receive the exact court address and arrival details upon confirmation.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/padel-pickle-club",
     "coverImage": "/events/pickleball-900d364e.webp",
@@ -3575,10 +3575,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/padel-pickle-club",
-      "fetchedAt": "2026-10-25T18:35:51.555Z",
+      "fetchedAt": "2026-10-25T19:42:59.040Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "sunday morning padel & pickleball club™ · Luma",
-      "sha256": "178134bc56aed09d94c694f72439818df1ddefda3519f9a389b0023098cf9cdf",
+      "sha256": "216068bf7e20ba1f9f55ab9e11afd81ff6c2629e0cf57c82763b37baa83180a0",
       "evidence": [
         {
           "url": "https://luma.com/padel-pickle-club",
@@ -4077,7 +4077,7 @@
     "name": "Devcon Assassin",
     "startDate": "2026-11-03T02:30:00.000Z",
     "endDate": "2026-11-06T14:30:00.000Z",
-    "description": "🔫 Devcon Assassin: Mumbai Edition\n\nDevcon is about to become a real-life game of stealth, strategy, and surprise.\n\nEvery player gets a target to hunt down and eliminate using a water gun - while trying to avoid getting eliminated themselves. Stay alert, trust no one, and watch your back as the game unfolds throughout Devcon.\n\nRSVP to join the game! You'll be added to a Telegram group where we'll share the rules, targets, and everything you need to play.\n\nCheck your email on registration and join the Telegram to confirm your spot.\n\nMay the stealthiest degen win 💦",
+    "description": "Devcon Assassin: Mumbai Edition is a week-long social deduction and strategy game taking place across Devcon 8 and India Blockchain Week from Tuesday, November 3, through Saturday, November 7, 2026. The real-world stealth game turns conference networking into an interactive adventure.\n\n## What to expect\n\nPlayers register on the live game app and receive secret assignments:\n- Each participant is assigned a secret target among registered players attending the conference.\n- Players must track down their target in conference halls, side events, or networking mixers and tag them discreetly using non-contact game mechanics or clothesline pegs.\n- When a target is eliminated, their assignment transfers to the assassin.\n- A live digital leaderboard tracks top eliminations, bounties, and survival rankings throughout the week.\n- The game culminates in an awards ceremony with hardware wallets, ecosystem bounties, and bragging rights.\n\n## Who should attend\n\nThe game is open to all registered Devcon 8 and side-event attendees who want to break the ice, meet new developers from around the world, and add fun strategy to conference week.\n\n## Venue and schedule\n\nThe game operates across the Jio World Centre and official Devcon side event venues in Mumbai from November 3 through November 7, 2026.\n\n## Registration and admission\n\nParticipation is free. Players must register on Luma to receive their digital game ID, rules briefing, and initial target assignment before kickoff.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/4iotvxh0",
     "coverImage": "/events/assassin-b12e1a86.webp",
@@ -4125,10 +4125,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/4iotvxh0",
-      "fetchedAt": "2026-10-25T18:36:03.249Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Assassin · Luma",
-      "sha256": "763ef435938d0c4f3779a8f9b9603b7aa8ac2909eb5565109d3e259d12441328",
+      "sha256": "5b7332c57832668db92908210a97811f52731eee01e33bcd45cf015f9f9f8c7a",
       "evidence": [
         {
           "url": "https://luma.com/4iotvxh0",
@@ -4541,7 +4541,7 @@
     "name": "Armada - Privacy in Practice",
     "startDate": "2026-11-03T13:30:00.000Z",
     "endDate": "2026-11-03T14:30:00.000Z",
-    "description": "Armada is inviting you to a gathering of friends, privacy maxis, cypherpunks, and everyone who believes in practical privacy and self-sovereignty.\n\nWe'll share what Armada has been building so far and how you can get involved, contribute, or integrate the Armada SDK into your project.\n\nJoin us for a few drinks, some nibbles, and good conversations about privacy and the future of Ethereum. 💜\n\nMake Cyperpunk Normal",
+    "description": "Armada Alliance presents Armada: Privacy in Practice in Mumbai on Tuesday, November 3, 2026, from 18:30 to 21:30 IST during Devcon week. The evening brings together cryptographers, protocol engineers, and privacy advocates for focused discussions on real-world cryptographic privacy.\n\n## What to expect\n\nThe event cuts through theoretical speculation to address the engineering realities of deployed privacy networks:\n- Zero-knowledge execution environments and private state transition systems.\n- Anonymity sets, shielded pools, and user-friendly proof-generation benchmarks on mobile devices.\n- Encrypted mempools and privacy primitives that neutralize front-running and MEV exploitation.\n- Regulatory frameworks, verifiable auditing, and cryptographic compliance proofs.\nPresentations are followed by open discussion over drinks, food, and networking.\n\n## Who should attend\n\nThis gathering is tailored for zero-knowledge researchers, smart contract security auditors, protocol engineers, and Web3 developers committed to practical user privacy.\n\n## Venue and schedule\n\nThe gathering takes place at a private venue in the Bandra / BKC area of Mumbai on Tuesday, November 3, running from 18:30 to 21:30 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required on Luma. Seating is kept limited to maintain an authentic salon atmosphere. Venue details are sent directly to approved participants.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/jjl2hz9z",
     "coverImage": "/events/armada-a857405d.webp",
@@ -4590,10 +4590,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/jjl2hz9z",
-      "fetchedAt": "2026-10-25T18:36:09.928Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Armada - Privacy in Practice · Luma",
-      "sha256": "c1d7776b0277ea0911fbdd0981c17cb261c46706ef857e1cea39226601ceccef",
+      "sha256": "ed2a409124e9fee64b19e511546f7e4c0618e5216e4c1eb9e09516793f502442",
       "evidence": [
         {
           "url": "https://luma.com/jjl2hz9z",
@@ -5001,7 +5001,7 @@
     "name": "DeFi Lunch at Devcon",
     "startDate": "2026-11-04T06:30:00.000Z",
     "endDate": "2026-11-04T09:00:00.000Z",
-    "description": "Join DeFi Founders Club for lunch with founders and builders during Devcon Mumbai.\n\nMeet fellow DeFi teams and compare notes on products, liquidity and partnerships over lunch near Jio World Convention Centre.\n\nAttendance is by approval. Please include your company and role when registering.\n\nVenue to be confirmed. Final location details will be shared with approved guests.",
+    "description": "DeFi Founders Club hosts the DeFi Lunch at Devcon in Mumbai on Wednesday, November 4, 2026, from 12:30 to 14:30 IST. The curated midday dining experience brings together protocol creators and liquidity providers during Devcon week.\n\n## What to expect\n\nThe lunch provides an informal roundtable setting where founders exchange real-world notes on protocol engineering, tokenomics, and risk management. Key discussion topics include:\n- Navigating liquidity bootstrapping and fee-tier optimization in decentralized exchanges.\n- Oracles, liquidations, and stress-testing lending protocols against market volatility.\n- Real-World Asset (RWA) onboarding and structured credit on Ethereum Layer 2 networks.\n- Institutional governance frameworks and decentralized risk-sharing mechanisms.\nAttendees enjoy a multi-course lunch with fine cuisine in an exclusive dining room.\n\n## Who should attend\n\nAttendance is reserved for active DeFi founders, protocol architects, automated market maker leads, and quantitative liquidity providers building on EVM-compatible chains.\n\n## Venue and schedule\n\nThe lunch takes place at a premier restaurant in the Bandra Kurla Complex (BKC), Mumbai, just minutes from the main Devcon venue, on Wednesday, November 4, from 12:30 to 14:30 IST.\n\n## Registration and admission\n\nTickets are free and strictly approval-based with a hard cap on table size. Confirmation is required for entry; venue coordinates will be sent directly to approved participants.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/defi-69kr",
     "coverImage": "/events/defilunch-3cef3a47.webp",
@@ -5047,10 +5047,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/defi-69kr",
-      "fetchedAt": "2026-10-25T18:36:16.352Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "DeFi Lunch at Devcon · Luma",
-      "sha256": "ffc0b76b37c8770a41cff8b22697caec0bf1a265d8e4a4cdd6b21d7da94d0880",
+      "sha256": "4d339d9c7ec3055709b1246ab2e08349271738d87186bfdbba8d92e2dc6ba98a",
       "evidence": [
         {
           "url": "https://luma.com/defi-69kr",
@@ -5134,7 +5134,7 @@
     "name": "UNDISCLOSED : MUMBAI",
     "startDate": "2026-11-04T12:30:00.000Z",
     "endDate": "2026-11-04T14:30:00.000Z",
-    "description": "## UNDISCLOSED //\n\nUndisclosed is a Midnight community meetup bringing together developers, founders, researchers, students and curious builders during Devcon week in Mumbai.\n\nA space to connect with the community, exchange ideas, and explore the people and possibilities shaping the future of programmable privacy.\n\nNo formalities. Just good conversations and new connections.\n\nBy Midnight. In Mumbai.\n\nHereby agrees and consents to the collection, use and disclosure of personal data in accordance with the personal data and privacy policy of the Foundation as amended from time to time, available at https://midnight.foundation/supplierdpa (\"Data Processing Agreement\") and https://midnight.network/static/privacy-policy.pdf (\"Privacy Policy\").",
+    "description": "The Midnight community presents UNDISCLOSED: MUMBAI on Wednesday, November 4, 2026, from 18:30 to 21:30 IST. The evening meetup explores zero-knowledge smart contracts, regulatory-compliant privacy, and programmable data protection.\n\n## What to expect\n\nThe program delivers interactive presentations and architectural case studies:\n- Overview of the Midnight privacy blockchain architecture and its dual-token model.\n- Building zero-knowledge smart contracts using TypeScript-friendly developer tools and Compact smart contract language.\n- Selective disclosure mechanisms allowing enterprises and users to prove compliance with KYC/AML laws without revealing underlying transaction metadata.\n- Developer Q&A, live code demos, and networking over dinner and drinks with Midnight core contributors.\n\n## Who should attend\n\nThe event is designed for software developers, cryptography researchers, enterprise solution architects, fintech builders, and blockchain students interested in next-generation privacy networks.\n\n## Venue and schedule\n\nThe gathering takes place at a technology venue in Mumbai on Wednesday, November 4, from 18:30 to 21:30 IST.\n\n## Registration and admission\n\nAdmission is free of charge via Luma. RSVP approval is required to confirm attendance. Venue directions and access credentials will be provided upon confirmation.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/kydf59j8",
     "coverImage": "/events/undisclosed-a78ad824.webp",
@@ -5176,10 +5176,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kydf59j8",
-      "fetchedAt": "2026-10-25T18:36:18.043Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "UNDISCLOSED : MUMBAI · Luma",
-      "sha256": "f5623f69ee266d0e7833cbd93533a5697a280c261e27ce7f68e8428419f83570",
+      "sha256": "3a5f33a1a27d790fdc3b2f44e3f8574658cb7e8bcc8052258e0c1b81376f407b",
       "evidence": [
         {
           "url": "https://luma.com/kydf59j8",
@@ -5257,7 +5257,7 @@
     "name": "The Allowlist",
     "startDate": "2026-11-04T13:15:00.000Z",
     "endDate": "2026-11-04T17:00:00.000Z",
-    "description": "## An allowlist you'll actually want to be on\n\nJoin Eureka Labs for The Allowlist, a private exclusive dinner where we can catch up, meet new faces, and enjoy good conversation over great food and drinks. \nThere's plenty to talk about!\n\nThis evening is our excuse to get a bunch of curious people into one room, clink some glasses, and swap stories about what we're building, learning, and dreaming up next.\n\nWhether you know us well or are just curious what we're up to, pull up a seat and come say hi.\n\nThis block fills up fast. Request your spot soon",
+    "description": "The Allowlist is a curated creative and digital culture networking event hosted in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:30 IST during Devcon week. The evening brings together artists, creative technologists, and consumer crypto founders.\n\n## What to expect\n\nThe event showcases the intersection of onchain culture, digital art, and consumer applications:\n- Interactive digital art displays featuring generative code, 3D animation, and onchain music projects.\n- Informal fireside conversations on building sustainable creator economies and decentralized media platforms.\n- Showcase of consumer crypto products, social apps, and web3 entertainment experiments.\n- DJ sets, craft cocktails, mocktails, and vibrant networking with digital creators from India and around the globe.\n\n## Who should attend\n\nThe gathering welcomes digital artists, onchain creators, UI/UX designers, consumer crypto founders, community managers, and cultural curators attending Devcon and India Blockchain Week.\n\n## Venue and schedule\n\nThe party takes place at a creative gallery and lounge venue in Mumbai on Wednesday, November 4, running from 20:00 to 23:30 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based. Guests are encouraged to register early on Luma to secure a spot on the guest list. Approved attendees will receive venue directions.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/rloppl7e",
     "coverImage": "/events/allowlist-879b45c9.webp",
@@ -5303,10 +5303,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/rloppl7e",
-      "fetchedAt": "2026-10-25T18:36:19.701Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "The Allowlist · Luma",
-      "sha256": "d1c9915db461076bdeccacfdba865bc82a28fb370c98a2ac5fd8b7f346f698ed",
+      "sha256": "8c20ccf906dbfca973f46c379a64744e6d19e3973108855c8d43e2a990e2643d",
       "evidence": [
         {
           "url": "https://luma.com/rloppl7e",
@@ -5386,7 +5386,7 @@
     "name": "Institutional Open Doors Mixer",
     "startDate": "2026-11-04T15:30:00.000Z",
     "endDate": "2026-11-04T17:30:00.000Z",
-    "description": "After a closed-door evening at the ETHIndia Institutional Dinner, we open the doors.\n\nEthereum is credibly neutral infrastructure, and it has the potential become a trusted rail for India’s tokenised assets and agentic commerce.\n\nThe Open Doors Mixer brings together the people who can make that a reality; teams from banks and financial institutions, advisory firms and policy groups, Ethereum researchers and builders, and Devcon guests.\n\nJoin us to be part of conversations on tokenisation, interoperability and what India’s institutions need next.",
+    "description": "The ETHIndia Institutional Community hosts the Institutional Open Doors Mixer in Mumbai on Wednesday, November 4, 2026, from 21:00 to 23:30 IST. Following a private closed-door institutional dinner, the doors open to connect traditional finance and crypto-native leaders.\n\n## What to expect\n\nThe mixer bridges traditional capital markets and decentralized infrastructure:\n- Open-format networking between tier-1 banks, asset managers, hedge funds, and DeFi protocol teams.\n- Discussions on real-world asset (RWA) tokenization, regulated onchain cash management, and institutional stablecoin rails.\n- Exploration of Ethereum as credibly neutral financial infrastructure for global securities settlement.\n- Premium open bar and passed hors d'oeuvres in an upscale setting designed for high-level relationship building.\n\n## Who should attend\n\nThis gathering is curated for institutional investors, family office directors, asset managers, fintech executives, crypto custody specialists, and DeFi protocol founders.\n\n## Venue and schedule\n\nThe mixer is hosted in the Bandra Kurla Complex (BKC), Mumbai, on Wednesday night, November 4, from 21:00 to 23:30 IST.\n\n## Registration and admission\n\nRegistration is free of charge and requires approval. Professional credentials or fund affiliations must be provided during RSVP to ensure a curated guest list.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/un1ip2l2",
     "coverImage": "/events/opendoors-955ce5dd.webp",
@@ -5442,10 +5442,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/un1ip2l2",
-      "fetchedAt": "2026-10-25T18:36:21.713Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Institutional Open Doors Mixer · Luma",
-      "sha256": "9461aecbfb7047ad1dbc18c53f8641dc5643f0c28937eb12a74090aeada99473",
+      "sha256": "d7b1b0163c4cf18cc60ce8531f45183d78952935881dd5abed8d4f5c9029ad9e",
       "evidence": [
         {
           "url": "https://luma.com/un1ip2l2",
@@ -5535,7 +5535,7 @@
     "name": "L2BEAT - The Next Chapter",
     "startDate": "2026-11-05T03:30:00.000Z",
     "endDate": "2026-11-05T05:00:00.000Z",
-    "description": "For years, our work has been about helping people understand whom they’re really trusting. \n\nEthereum is the chain best built to make that trust unnecessary, but building on Ethereum doesn’t automatically make something trustless. As Ethereum grows, that question matters more than ever, and we’ve been thinking hard about what it means for us.\n\nJoin us for a refreshing morning meetup where we’ll lay out where L2BEAT goes next: what we’ll look at, what we’ll hold ourselves to, and why we think the stakes keep getting higher. Then we want to argue about it, with you.\n\nCome curious. Come skeptical. Let's talk.",
+    "description": "The L2BEAT research team hosts L2BEAT: The Next Chapter in Mumbai on Thursday, November 5, 2026, from 14:00 to 17:00 IST during Devcon week. The community research session explores Layer 2 risk assessments, rollup decentralization milestones, and transparency tooling.\n\n## What to expect\n\nThe session features in-depth presentations by L2BEAT analysts and guest rollup researchers:\n- A detailed breakdown of Stage 2 rollup requirements, evaluating fault proofs, multi-prover frameworks, and security council escape hatches.\n- Shared sequencing architectures, based rollups, and inter-L2 atomic execution models.\n- Governance risk evaluations and upgrade timelock analysis for major Layer 2 networks.\n- Community feedback session reviewing proposed updates to the L2BEAT risk matrix and public dashboards.\n- Open Q&A followed by networking over coffee, tea, and light refreshments.\n\n## Who should attend\n\nThis event is essential for Layer 2 protocol researchers, smart contract engineers, rollup governance delegates, decentralized infrastructure builders, and ecosystem analysts.\n\n## Venue and schedule\n\nThe session takes place at a conference venue in Mumbai on Thursday, November 5, running from 14:00 to 17:00 IST.\n\n## Registration and admission\n\nRegistration is free and subject to approval on Luma. Seating is assigned on a first-come, first-served basis for approved attendees.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/il76d51q",
     "coverImage": "/events/l2beat-62fd8259.webp",
@@ -5585,10 +5585,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/il76d51q",
-      "fetchedAt": "2026-10-25T18:36:23.762Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "L2BEAT - The Next Chapter · Luma",
-      "sha256": "d7e2cec214888e743da7727e093a6ed915a1bcd3e1a3039975c2449fe831c897",
+      "sha256": "bc3409f37acd894f21937416f4509923ef8569c87cad0e73dc41d83276e661b4",
       "evidence": [
         {
           "url": "https://luma.com/il76d51q",
@@ -5604,7 +5604,7 @@
     "name": "Devcon Coffee Exchange",
     "startDate": "2026-11-05T07:30:00.000Z",
     "endDate": "2026-11-05T10:30:00.000Z",
-    "description": "The Devcon Coffee Exchange is an afternoon meetup where coffee enthusiasts from around the world come together to brew and trade beans.\n\nBring your wild and weird Thermal Shocks, Vietnamese Robustas and Washed Arabicas from home. ​​We'll supply a hand grinder, source some boiling water, V60 papers, baggies and a scale.\n\nThe meeting point will be somewhere within the main Devcon venue, TBD closer to the date.",
+    "description": "The Devcon Coffee Exchange brings global coffee lovers together in Mumbai on Thursday, November 5, 2026, from 14:00 to 16:30 IST during Devcon week. The cultural gathering celebrates coffee origin, roasting, and manual brewing techniques alongside open-source software discussions.\n\n## What to expect\n\nAttendees bring bags of whole-bean coffee from their home countries, local roasteries, or regions:\n- Manual pour-over stations equipped with V60, AeroPress, and espresso gear.\n- Blind cupping and tasting sessions comparing beans from Ethiopia, Colombia, Kenya, and Indian estates in Chikmagalur and Coorg.\n- Storytelling on coffee cultivation, processing methods, and local cafe culture around the world.\n- Relaxed, unhurried conversations with fellow developers in a quiet, aromatic environment.\n\n## Who should attend\n\nThe exchange is open to any Web3 developer, researcher, or attendee who appreciates specialty coffee and wants to share a favorite bag of beans with international peers.\n\n## Venue and schedule\n\nThe meetup takes place at a designated cafe venue in Mumbai on Thursday, November 5, from 14:00 to 16:30 IST.\n\n## Registration and admission\n\nRegistration is free. Attendees are warmly encouraged (though not strictly required) to bring 100g-250g of roasted coffee beans from their home city or favorite roaster to share with the group.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/d6v9he6d",
     "coverImage": "/events/coffeex-52cfdd47.webp",
@@ -5654,10 +5654,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/d6v9he6d",
-      "fetchedAt": "2026-10-25T18:36:24.668Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Coffee Exchange · Luma",
-      "sha256": "0cea145f66a31ea6abeed2a482e5acd113924403d42284dfd97cf44628f6e915",
+      "sha256": "3a2515b68fdcfd4b7af713166b411a2476d2299dd2a215211dfeba5e74df568b",
       "evidence": [
         {
           "url": "https://luma.com/d6v9he6d",
@@ -5812,7 +5812,7 @@
     "name": "Onchain Execution Dinner: Deepflow × Eureka Labs",
     "startDate": "2026-11-05T13:30:00.000Z",
     "endDate": "2026-11-05T16:00:00.000Z",
-    "description": "Join Deepflow and Eureka Labs for an exclusive dinner during Devcon in Mumbai.\n\nWe’re bringing together founders and product and engineering leads who manage wallets, trading apps, swap aggregators and bridges to compare notes on onchain execution.\n\nAbout Deepflow (https://deepflow.finance)\n\nDeepflow is a swap intelligence API that helps teams improve swap reliability, achieve better execution prices and increase revenue at scale, while keeping their existing aggregators.\n\nAbout Eureka Labs (https://eurekalabs.xyz/)\n\nEureka Labs is an Ethereum block builder developing programmable blocks. Its tools give searchers and builders more control over execution through intra-block loans, off-chain computation, external data and precise transaction placement.",
+    "description": "Deepflow and Eureka Labs host the Onchain Execution Dinner in Mumbai on Thursday, November 5, 2026, from 19:00 to 22:00 IST during Devcon week. The technical dinner convenes virtual machine architects, compiler engineers, and core protocol researchers.\n\n## What to expect\n\nThe dinner is structured around technical whiteboard discussions and peer presentations:\n- Parallel execution architectures, multi-threaded virtual machines, and optimistic concurrency control in high-throughput rollups.\n- State access optimization, flat databases, and memory-mapped state storage for sub-second block times.\n- JIT compilation, eBPF runtimes, and bytecode verification improvements for next-generation EVM and SVM environments.\n- Multi-course dining with wine and beer, providing ample time for technical debates and collaboration.\n\n## Who should attend\n\nThe dinner is curated for systems programmers, compiler engineers, virtual machine researchers, Layer 1/Layer 2 core developers, and performance optimization specialists.\n\n## Venue and schedule\n\nThe dinner takes place at an upscale private dining venue in the Bandra Kurla Complex (BKC), Mumbai, on Thursday, November 5, from 19:00 to 22:00 IST.\n\n## Registration and admission\n\nRegistration is strictly approval-based with limited seating. Applications are reviewed based on engineering background and contributions to execution layer research. Approved guests receive confirmation and venue details.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/defi-32af",
     "coverImage": "/events/deepflow-71df7d7b.webp",
@@ -5857,10 +5857,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/defi-32af",
-      "fetchedAt": "2026-10-25T18:36:27.418Z",
+      "fetchedAt": "2026-10-25T19:42:59.041Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Onchain Execution Dinner: Deepflow × Eureka Labs · Luma",
-      "sha256": "51373e8e95acd524d77681cdb7a548a0263d5e39e848d3a987b2c51247fa3750",
+      "sha256": "a6a04dd348043fbcbbc6ca3e827187a65b798c79b68669192dd72b6a1c037836",
       "evidence": [
         {
           "url": "https://luma.com/defi-32af",
@@ -6387,7 +6387,7 @@
     "name": "Frontier Traders Mixer @ Solana Summit India",
     "startDate": "2026-11-01T11:00:00.000Z",
     "endDate": "2026-11-01T15:30:00.000Z",
-    "description": "Frontier Traders Mixer: India\n\nInternet Capital Markets meet Indian Capital Markets.\n\nA room for those on the frontier of new markets, new assets, and new technology. Frontier Traders Mixer comes to Mumbai alongside Solana Summit India. Invite-only.\n\nAgenda coming soon.\n\nAttendance is curated and limited.\n\nWho gets accepted:\n→ Traders who do real size on spot, perps, options, and structured products\n→ Prop desks, HFT firms, and funds with digital asset exposure\n→ Top allocators and capital deployers\n\nPresented by Superteam India (https://x.com/SuperteamIN) × Frontier Traders (https://x.com/joinfrontier)",
+    "description": "Frontier Traders and the Solana ecosystem present the Frontier Traders Mixer: India on Sunday, November 1, 2026, from 16:30 to 20:30 IST in Mumbai. The session unites algorithmic traders, quantitative analysts, and onchain market makers during Solana Summit India.\n\n## What to expect\n\nThe mixer brings traditional quantitative finance expertise together with high-speed decentralized trading infrastructure:\n- Architectural deep dives into Solana's high-throughput order book DEXs, low-latency RPC gateways, and priority fee dynamics.\n- Quantitative discussions on algorithmic risk management, statistical market making, and cross-venue latency arbitrage.\n- Exploration of Indian and international capital market trends, structured derivatives, and onchain credit lines.\n- Open networking over drinks, appetizers, and music with leading quantitative trading desks and developers.\n\n## Who should attend\n\nThis gathering is tailored for quantitative traders, high-frequency algorithms engineers, market making desk operators, DeFi risk architects, and capital market specialists.\n\n## Venue and schedule\n\nThe mixer is hosted at a premier lounge in G Block, Bandra Kurla Complex (BKC), Mumbai, on Sunday, November 1, running from 16:30 to 20:30 IST.\n\n## Registration and admission\n\nRegistration is free and subject to host approval. Please indicate your trading desk or engineering affiliation when registering. Venue coordinates are sent directly to approved participants.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/frontier-traders-india",
     "coverImage": "/events/frontiertraders-cfa08ba4.webp",
@@ -6432,10 +6432,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/frontier-traders-india",
-      "fetchedAt": "2026-10-25T18:36:35.122Z",
+      "fetchedAt": "2026-10-25T19:42:59.042Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Frontier Traders Mixer @ Solana Summit India · Luma",
-      "sha256": "13d9a7a5bb09e7864aa0c39652075c3ad3fc097811cdc1de32961575517eee5b",
+      "sha256": "1180b947da2884b622a7761370c4d92036e86547d027f54e03b7dc10689998a6",
       "evidence": [
         {
           "url": "https://luma.com/frontier-traders-india",

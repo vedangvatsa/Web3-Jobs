@@ -7803,7 +7803,7 @@
   },
   {
     "name": "P2P Networking Hub @ Devcon 8",
-    "description": "ProbeLab, Ethereum Foundation, HOPR and Optimum host workshops, debugging clinics and discussions on Ethereum peer discovery, broadcast, privacy and network resilience. The draft program runs 09:00-18:00 on November 3-5 and closes at 15:00 on November 6. A valid Devcon ticket is required; hub registration does not grant conference access.",
+    "description": "ProbeLab, the Ethereum Foundation, HOPR and Optimum host the P2P Networking Hub at Devcon 8 on Wednesday, November 4, 2026, from 10:00 to 17:00 IST in Mumbai. The full-day collaborative unconference focuses on peer-to-peer protocols, decentralized transport, and network layer resilience.\n\n## What to expect\n\nThe hub features an interactive program organized into technical presentations, hands-on debugging clinics, and open breakout sessions:\n- Peer discovery and DHT performance across discv5, Kademlia, and gossipsub networks.\n- Transport protocols and privacy, highlighting libp2p enhancements, mixnets, and traffic analysis resistance.\n- Ethereum client networking benchmarks, examining bandwidth optimization, latency Reduction, and message propagation bottlenecks.\n- Interactive clinics where client teams review telemetry data, diagnose live testnet connection issues, and workshop next-generation transport specifications.\n\n## Who should attend\n\nThis unconference is intended for P2P protocol researchers, client core developers (Geth, Nethermind, Besu, Lighthouse, Prysm), network infrastructure engineers, and developers building decentralized storage and messaging applications.\n\n## Venue and schedule\n\nThe event takes place inside the Jio World Convention Centre in the Bandra Kurla Complex (BKC), Mumbai, within the Devcon Impact Space, on November 4 from 10:00 to 17:00 IST.\n\n## Registration and admission\n\nAccess is free for Devcon 8 attendees. Advance registration on Luma is encouraged to receive schedule updates, presentation slides, and clinic agenda materials.",
     "startDate": "2026-11-03T03:30:00.000Z",
     "endDate": "2026-11-06T09:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -7850,10 +7850,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/cz51ibrc",
-      "fetchedAt": "2026-10-20T09:31:05.631Z",
+      "fetchedAt": "2026-10-25T19:42:59.091Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "P2P Networking Hub @ Devcon 8 · Luma",
-      "sha256": "1d26e6292347facc35aee6825ec0984dd6efc9170214118101ff53dc8a86e93a",
+      "sha256": "74d19d214dcedb794954092ab7a90eccfba463edf816ecdfcd91cfc2c6ef5604",
       "evidence": [
         {
           "url": "https://luma.com/cz51ibrc",
@@ -7889,7 +7889,7 @@
   },
   {
     "name": "MeV Sangam: Mumbai",
-    "description": "Astralane hosts an off-the-record gathering for searchers, validators, builders, market makers and researchers during Solana Summit India and Devcon week. Discussion themes include block building, latency, inclusion and order flow across Ethereum and Solana. There are no panels or pitches. Registration requires approval; the venue is shared with accepted guests.",
+    "description": "Astralane and hosts Sujith Sizon, Manan Indir Singh, and Dhruvraj Solanki present MeV Sangam in Mumbai on Monday, November 2, 2026, from 18:00 to 22:00 IST. The off-the-record gathering convenes quantitative researchers, searchers, and block builders exploring maximal extractable value.\n\n## What to expect\n\nMeV Sangam is conducted under Chatham House Rule to encourage transparent, candid discussion on the frontier of MEV research:\n- Proposer-Builder Separation (PBS) dynamics and inclusion lists across Ethereum Layer 1 and rollups.\n- Solana searcher latency wars, Jito auction mechanics, and priority fee markets.\n- Orderflow auctions, private mempools, and fair-sequencing mechanisms.\n- High-frequency arbitrage, statistical cross-chain arbitrage, and algorithmic liquidation risks.\nThe presentations are followed by a private networking dinner with craft beers, cocktails, and food.\n\n## Who should attend\n\nAttendance is limited to active MEV searchers, quantitative trading engineers, block builders, relay operators, and protocol economists specializing in mechanism design.\n\n## Venue and schedule\n\nThe dinner takes place at a private dining venue in G Block, Bandra Kurla Complex (BKC), Mumbai, on Monday, November 2, running from 18:00 to 22:00 IST.\n\n## Registration and admission\n\nRegistration is strictly approval-based with limited seating. Applications are reviewed based on active contributions to MEV research and trading infrastructure. Confirmed guests receive confidential venue coordinates.",
     "startDate": "2026-11-03T14:00:00.000Z",
     "endDate": "2026-11-03T16:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -7932,10 +7932,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/tzvdnkkj",
-      "fetchedAt": "2026-10-20T09:31:06.017Z",
+      "fetchedAt": "2026-10-25T19:42:59.091Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MeV Sangam: Mumbai · Luma",
-      "sha256": "8d9b86fa07ea4e537f9075f09bd635932477b2baf4573bc4452da63ad7d08bff",
+      "sha256": "c463f20a3298880384652ca00cfdb08588d36e0310941cfe5ad9b2e6de9f153d",
       "evidence": [
         {
           "url": "https://luma.com/tzvdnkkj",
@@ -7960,7 +7960,7 @@
   },
   {
     "name": "Logos Circle Mumbai: Run Club",
-    "description": "Logos Circle Mumbai hosts a 3 km run along Marine Drive, with warm-up activities, games and refreshments. The event includes an optional donation drive for local education and clean-up projects. All paces are welcome, including people new to Logos and decentralized technology. Registration requires host approval.",
+    "description": "Logos Circle Mumbai hosts a scenic sunrise run along Mumbai's iconic Marine Drive promenade on Tuesday, November 3, 2026, from 06:30 to 08:30 IST. The gathering offers a refreshing start to the week for builders, researchers, and decentralized tech advocates.\n\n## What to expect\n\nThe run begins with group warm-up exercises and dynamic stretching led by community running leads. Participants complete a relaxed 3 km jog along the Marine Drive jogging track with panoramic views of the Arabian Sea. Following the run, attendees gather for cool-down stretches, fresh tender coconut water, and casual breakfast conversations about decentralized systems, trustless communications, and peer-to-peer privacy infrastructure.\n\n## Who should attend\n\nThe run is open to all fitness levels, from novice joggers to seasoned runners, including Devcon attendees, Logos community members, and Web3 developers who want to stay active during conference week.\n\n## Venue and schedule\n\nMeet at the Marine Drive Jogging Track near Nariman Point, South Mumbai, at 06:30 IST on Tuesday, November 3. The run and cool-down conclude by 08:30 IST, giving attendees ample time to freshen up before daytime conference sessions.\n\n## Registration and admission\n\nParticipation is free of charge. RSVP on Luma is requested to help organizers coordinate hydration, refreshments, and pace groups. Wear comfortable running shoes and breathable athletic attire.",
     "startDate": "2026-11-04T01:00:00.000Z",
     "endDate": "2026-11-04T03:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -8006,10 +8006,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/iumnt6zf",
-      "fetchedAt": "2026-10-20T09:31:06.581Z",
+      "fetchedAt": "2026-10-25T19:42:59.091Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Logos Circle Mumbai: Run Club · Luma",
-      "sha256": "048ddba6e55aa549b7a7dd517420ee59adcc9f48068039b00a48dd4e45323f04",
+      "sha256": "433bc36b86c32972242c1435e5cfb1bc6a9580521e93f6e55152e56fc82ae94e",
       "evidence": [
         {
           "url": "https://luma.com/iumnt6zf",
@@ -8057,7 +8057,7 @@
   },
   {
     "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
-    "description": "WebZero, Zcash and Bitrefill host the afterparty for Free Society Hackathon during Devcon. The program includes DJ sets and AK's live audiovisual performance combining modular synthesis, live coding and visuals. Registration requires approval; the exact venue is shared with accepted guests.",
+    "description": "WebZero, Zcash and Bitrefill present UNFOLLOW_002 Mumbai, the official celebration and afterparty following the Free Society Hackathon during Devcon week. The event runs from 21:00 IST on Thursday, November 5, 2026, until 03:00 on Friday, November 6.\n\n## What to expect\n\nUNFOLLOW_002 continues WebZero's series of privacy-focused culture nights. The event features electronic music by underground international and local DJs, visual art installations, open bars and food stations. It provides a relaxed environment where hackathon finalists, cypherpunks, and crypto-commerce pioneers can unwind and connect after days of intensive building.\n\n## Who should attend\n\nThe afterparty welcomes Free Society Hackathon participants, Zcash ecosystem builders, Bitrefill community members, Ethereum developers, and privacy advocates attending Devcon 8 in Mumbai.\n\n## Venue and schedule\n\nThe event takes place in the MMRDA Area near the Bandra Kurla Complex (BKC) in Mumbai. Doors open at 21:00 IST on November 5, with music and celebrations continuing through 03:00 IST on November 6.\n\n## Registration and admission\n\nRegistration is free via Luma and subject to approval. Guests must show their confirmation pass and valid government-issued photo ID at the door. Early arrival is recommended as entry is subject to venue capacity limits.",
     "startDate": "2026-11-04T13:30:00.000Z",
     "endDate": "2026-11-04T19:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -8101,10 +8101,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/unfollowbombay",
-      "fetchedAt": "2026-10-20T09:31:07.812Z",
+      "fetchedAt": "2026-10-25T19:42:59.091Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill · Luma",
-      "sha256": "bd01a2f6e53948648d0c9f137682b32ada45c3a770ce93b36857c047a72655e5",
+      "sha256": "9839fe3a0cb930c5080ea9541ff9be92c9dbe950049b9260b9521898decde7a7",
       "evidence": [
         {
           "url": "https://luma.com/unfollowbombay",
@@ -8129,7 +8129,7 @@
   },
   {
     "name": "Devcon Builders Evening by Canton x Ledger x OpenZeppelin",
-    "description": "Canton Foundation, Ledger and OpenZeppelin host keynotes and Q&A for smart-contract developers, security researchers and teams building in tokenization, custody and fintech. Speakers and keynote topics are still to be announced. WAGMI Tribe curates the event; attendance requires an approved RSVP and QR check-in.",
+    "description": "WAGMI Tribe, Ledger, OpenZeppelin and the Canton Foundation host the Devcon Builders Evening in Mumbai on Thursday, November 5, 2026, from 18:00 to 22:00 IST. The collaborative session explores institutional privacy, hardware security, and smart contract auditing.\n\n## What to expect\n\nThe evening program includes technical keynotes and live Q&A sessions delivered by senior security engineers and architects:\n- OpenZeppelin engineers discuss smart contract defense, automated invariant testing, and post-deployment monitoring.\n- Ledger experts present advancements in hardware-enforced signer security and transaction clear-signing standards.\n- The Canton Foundation showcases architectural deep dives on Canton Network's privacy-enabled distributed ledger, demonstrating how regulated institutions achieve atomic composability without leaking transactional privacy.\nThe presentations are followed by a buffet dinner, drinks, and networking with security researchers.\n\n## Who should attend\n\nThe event is designed for smart-contract engineers, protocol architects, cybersecurity researchers, enterprise blockchain leads, and DeFi developers focused on building bulletproof Web3 infrastructure.\n\n## Venue and schedule\n\nThe event takes place at a private corporate venue in the MMRDA / BKC business district of Mumbai on November 5, running from 18:00 to 22:00 IST.\n\n## Registration and admission\n\nAttendance is free and requires approval. Registrations are vetted to ensure relevant background for technical sessions. Confirmed attendees receive the full venue coordinates prior to the event.",
     "startDate": "2026-11-05T10:30:00.000Z",
     "endDate": "2026-11-05T13:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -8174,10 +8174,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/4s9s062i",
-      "fetchedAt": "2026-10-20T09:31:08.675Z",
+      "fetchedAt": "2026-10-25T19:42:59.091Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Builders Evening by Canton x Ledger x OpenZeppelin · Luma",
-      "sha256": "ed68d9613b1856de9dbd97bd0ac318711c59e65e9f6c68385a5ff0e15caeaacc",
+      "sha256": "94632c3c3ab046714a8867a48ed984e4b866d1551afb24caef5d563ca696ca5a",
       "evidence": [
         {
           "url": "https://luma.com/4s9s062i",

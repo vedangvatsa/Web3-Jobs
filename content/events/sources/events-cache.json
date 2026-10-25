@@ -18195,7 +18195,7 @@
   {
     "id": "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
     "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -18237,10 +18237,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "fetchedAt": "2026-10-25T19:42:59.060Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
-      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "evidence": [
         {
           "url": "https://luma.com/ndrr1yqe",
@@ -21419,7 +21419,7 @@
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
     "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -21461,10 +21461,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "fetchedAt": "2026-10-25T19:42:59.061Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
-      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "evidence": [
         {
           "url": "https://luma.com/ndrr1yqe",
@@ -22391,7 +22391,7 @@
   {
     "id": "w3v-run-rave-26-11-01",
     "name": "Run & Rave",
-    "description": "Run & Rave: A DJ-led morning run around Bandra with music, coffee and Web3 networking in Mumbai on November 1, 2026.",
+    "description": "Orviq Labs presents Run & Rave in Mumbai on Sunday, November 1, 2026, from 06:00 to 08:00 IST. The morning wellness activation blends distance running, electronic music, and community networking ahead of India Blockchain Week and Devcon 8.\n\n## What to expect\n\nRun & Rave kickstarts the week with a sunrise run through the coastal streets of Bandra. A mobile DJ rig guides the group with upbeat house beats, creating an energetic and uplifting rhythm. The route is paved and scenic, offering views of the Arabian Sea. Following the run, participants gather for freshly brewed artisanal coffee, electrolyte drinks, healthy breakfast bites, and relaxed networking with founders, builders, and creators.\n\n## Who should attend\n\nAll runners, joggers, and walkers of any pace are welcome, from seasoned marathoners to casual morning runners. It is perfect for crypto founders, developers, and creators who want to prioritize health and movement before a hectic week of conferences.\n\n## Venue and schedule\n\nThe run starts and finishes in Bandra, Mumbai, on Sunday, November 1, beginning at 06:00 IST and concluding by 08:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma. Running shoes and comfortable sports clothing are required. Hydration points are stationed along the route, with baggage storage available at the start point.",
     "startDate": "2026-11-01T00:30:00.000Z",
     "endDate": "2026-11-01T02:30:00.000Z",
     "city": "Mumbai",
@@ -22399,7 +22399,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/3doehm1b",
     "coverImage": "/events/w3v-run-rave-26-11-01-05ccc2a0.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/3doehm1b",
+      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Run & Rave",
+      "sha256": "0b4e4b7a73883c5a201cfce33fa370898d00c9d5b4275357077aa99bd3198c3d"
+    }
   },
   {
     "id": "w3v-defi-security-summit-26-11-01",
@@ -22417,7 +22424,7 @@
   {
     "id": "w3v-catalyst-founder-residency-devcon-26-11-01",
     "name": "Catalyst - Founder residency at Devcon",
-    "description": "Catalyst - Founder residency at Devcon: A founder residency in Mumbai, 1–8 November 2026, with branding, marketing and mentorship support.",
+    "description": "Web3 Events hosts Catalyst: Founder Residency during Devcon week in Mumbai, running from Tuesday, November 3, through Saturday, November 7, 2026. The residency provides a curated co-living and collaborative headquarters for active crypto startup founders.\n\n## What to expect\n\nCatalyst creates an intensive, high-support environment where founders can work, sleep, and connect throughout Devcon week:\n- Dedicated high-speed fiber internet work desks, private phone booths, and meeting rooms for investor calls.\n- Daily peer masterminds and founder circles addressing hiring, token design, and growth challenges.\n- Private office hours with visiting venture capitalists, angel investors, and experienced operators.\n- Daily catered breakfast, coffee, late-night brain food, and quiet workspaces away from the noisy conference floors.\n\n## Who should attend\n\nThe residency is strictly reserved for founders, CEOs, and technical co-founders of venture-backed or bootstrapped Web3 startups building core protocol infrastructure or breakthrough consumer applications.\n\n## Venue and schedule\n\nThe residency operates 24 hours a day from November 3 through November 7 at a private hospitality facility in Mumbai located near major conference transit lines.\n\n## Registration and admission\n\nApplications are evaluated based on project traction, team background, and stage of development. Approved founders receive check-in credentials, residency passes, and room details.",
     "startDate": "2026-11-01T17:00:00.000Z",
     "endDate": "2026-11-08T18:00:00.000Z",
     "city": "Mumbai",
@@ -22425,7 +22432,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/jb4zsel1",
     "coverImage": "/events/w3v-catalyst-founder-residency-devcon-26-11-01-a0424535.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/jb4zsel1",
+      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Catalyst - Founder residency at Devcon",
+      "sha256": "70117b530cd6ffa8772a90ea5e2156bffe9535380c626686744d14fa7185bdb4"
+    }
   },
   {
     "id": "w3v-onchain-dev-city-devcon-8-india-26-11-02",
@@ -22586,7 +22600,7 @@
   {
     "id": "w3v-eva-symposium-iii-26-11-04",
     "name": "EVA Symposium III",
-    "description": "EVA Symposium III: an invitation-only evening for Ethereum validator ecosystem participants in Mumbai on 4 November 2026.",
+    "description": "EVA Research hosts the EVA Symposium III in Mumbai on Monday, November 2, 2026, from 10:00 to 16:00 IST during Devcon week. The formal academic and research symposium gathers leading cryptographers, computer scientists, and zero-knowledge researchers.\n\n## What to expect\n\nThe full-day symposium features peer-reviewed paper presentations, invited keynotes, and technical whiteboard panels:\n- Formal verification of smart contracts and consensus state transition systems.\n- Zero-Knowledge Virtual Machines (zkVMs): comparing proof recursion, lookup arguments, and constraint system efficiency.\n- Cryptographic primitives for verifiable computation, polynomial commitments, and folding schemes.\n- Open whiteboard workshops where researchers collaborate on unsolved problems in protocol security.\nA catered luncheon and coffee breaks provide ample networking time between sessions.\n\n## Who should attend\n\nThe symposium is aimed at cryptography researchers, computer science faculty and graduate students, formal verification engineers, and zero-knowledge protocol architects.\n\n## Venue and schedule\n\nThe symposium takes place at a conference auditorium in Mumbai on Monday, November 2, from 10:00 to 16:00 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required. Applicants are asked to share their academic affiliation, research papers, or GitHub profiles when requesting admission.",
     "startDate": "2026-11-04T11:30:00.000Z",
     "endDate": "2026-11-04T17:30:00.000Z",
     "city": "Mumbai",
@@ -22594,12 +22608,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/ai6owvhz",
     "coverImage": "/events/w3v-eva-symposium-iii-26-11-04-b20846b7.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/ai6owvhz",
+      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "EVA Symposium III",
+      "sha256": "e2b40495b55b072b423ec0b8d4ccfd04f45a8043c5bf0e63342a48845ee5f92a"
+    }
   },
   {
     "id": "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04",
     "name": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
-    "description": "NEAR x Quantus Happy Hour @ Devcon Mumbai: Free happy hour on quantum-resistant infrastructure and confidential cross-chain money, November 4.",
+    "description": "The NEAR Foundation and Quantus host a networking Happy Hour during Devcon week in Mumbai on Thursday, November 5, 2026, from 18:00 to 21:00 IST. The gathering brings together developers, quantitative researchers, and venture partners.\n\n## What to expect\n\nThe three-hour happy hour offers a relaxed, social atmosphere with complimentary drinks, craft cocktails, and passed appetizers:\n- Conversations on Chain Abstraction, cross-chain messaging, and unified liquidity infrastructure on NEAR.\n- Insights from Quantus on quantitative crypto research, algorithmic market making, and automated execution strategies.\n- Discussions on developer ecosystem grants, accelerator tracks, and venture funding for multi-chain projects.\n- Unfiltered networking with founders, researchers, and ecosystem leaders visiting Mumbai.\n\n## Who should attend\n\nThe event welcomes software engineers, DeFi developers, quantitative traders, venture investors, and Web3 ecosystem contributors participating in Devcon 8 and India Blockchain Week.\n\n## Venue and schedule\n\nThe happy hour takes place at an upscale lounge in Mumbai on Thursday, November 5, from 18:00 to 21:00 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based on Luma. Space is limited to venue capacity, so attendees are encouraged to apply early and arrive promptly at 18:00 IST.",
     "startDate": "2026-11-04T12:30:00.000Z",
     "endDate": "2026-11-04T15:30:00.000Z",
     "city": "Mumbai",
@@ -22607,12 +22628,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/xuofsg0p",
     "coverImage": "/events/w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04-90cb4639.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/xuofsg0p",
+      "fetchedAt": "2026-10-25T19:40:11.689Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
+      "sha256": "ddca4f13033bebdcc072cc638f7ddc41f31e48d69359c03ee0517bbfc33f9b4b"
+    }
   },
   {
     "id": "w3v-money-layer-devcon-week-26-11-04",
     "name": "Money Layer @Devcon Week",
-    "description": "Money Layer @Devcon🇮🇳 Week: a side event in Mumbai on November 4, 2026 for financial stack companies, builders and investors.",
+    "description": "The Money Layer Consortium presents Money Layer @Devcon Week in Mumbai on Wednesday, November 4, 2026, from 14:00 to 18:00 IST. The four-hour conference explores digital cash, programmable payments, and decentralized settlement infrastructure.\n\n## What to expect\n\nThe afternoon conference brings together leaders from monetary protocol design, banking, and crypto-native commerce:\n- Keynote on the evolution of digital cash: from sovereign stablecoins to privacy-preserving ecash (Cashu, Fedimint).\n- Panel on scalable payment channels: Lightning Network, state channels, and Layer 2 payment streaming protocols.\n- Merchant adoption case studies: deploying point-of-sale crypto payments across retail and e-commerce platforms with zero chargeback risk.\n- Regulatory frameworks for programmable payments, automated tax withholding, and programmable escrow.\nThe presentations conclude with an open tea and networking reception.\n\n## Who should attend\n\nThe conference is tailored for payments product managers, fintech executives, monetary economists, stablecoin developers, and Web3 engineers building consumer checkout flows.\n\n## Venue and schedule\n\nThe event takes place at a conference auditorium in Mumbai on Wednesday, November 4, from 14:00 to 18:00 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required on Luma. Registered attendees receive presentation decks and speaker summaries following the conference.",
     "startDate": "2026-11-04T13:00:00.000Z",
     "endDate": "2026-11-04T16:30:00.000Z",
     "city": "Mumbai",
@@ -22620,12 +22648,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/islzi7v3",
     "coverImage": "/events/w3v-money-layer-devcon-week-26-11-04-c2380545.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/islzi7v3",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Money Layer @Devcon Week",
+      "sha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef"
+    }
   },
   {
     "id": "w3v-capital-connect-26-11-04",
     "name": "Capital connect",
-    "description": "Capital connect: an invite-only offline meetup in Mumbai for LPs, venture capitalists and web3 stakeholders on November 4, 2026.",
+    "description": "Web3 Events hosts Capital Connect in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:00 IST. The curated investor and founder reception facilitates meaningful capital introductions and strategic partnerships during Devcon week.\n\n## What to expect\n\nCapital Connect provides a structured yet relaxed networking setting designed for high-signal discussions. Early-stage and growth-stage founders connect directly with global venture capital partners, angel syndicates, and ecosystem foundation grant leads. There are no podium pitches; instead, the format emphasizes 1-on-1 conversations, facilitated introductions, and curated discussion corners over gourmet appetizers and wine.\n\n## Who should attend\n\nThe gathering is reserved for venture capital partners, family office principals, angel investors, ecosystem fund directors, and vetted Web3 founders currently raising seed or Series A capital.\n\n## Venue and schedule\n\nThe reception is hosted at an upscale hospitality venue in central Mumbai on Wednesday, November 4, from 20:00 to 23:00 IST.\n\n## Registration and admission\n\nTickets are complimentary but strictly invitation-only and subject to manual review. Founders must provide a project overview, and investors must verify their fund affiliation when requesting an RSVP.",
     "startDate": "2026-11-04T14:30:00.000Z",
     "endDate": "2026-11-04T17:30:00.000Z",
     "city": "Mumbai",
@@ -22633,7 +22668,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/kz3klqjq",
     "coverImage": "/events/w3v-capital-connect-26-11-04-217626bc.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/kz3klqjq",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Capital connect",
+      "sha256": "24dec32845d28ccde1f34d4caae8a2920ca349ab50ac7188e3e420258044e5dc"
+    }
   },
   {
     "id": "w3v-frontier-intelligence-hackathon-26-11-05",
@@ -23356,7 +23398,7 @@
   {
     "id": "w3v-sidequest-happy-hour",
     "name": "Sidequest: Happy Hour",
-    "description": "Sidequest: Happy Hour: a rooftop Devcon week meetup in Mumbai with drinks, informal networking and no panels or pitching.",
+    "description": "Sidequest hosts an evening Happy Hour in Mumbai on Wednesday, November 4, 2026, from 19:30 to 23:30 IST during Devcon week. The gathering brings together Web3 community managers, growth leads, ecosystem operators, and developer advocates for a fun, relaxed evening.\n\n## What to expect\n\nSidequest Happy Hour is designed as an antidote to dense technical sessions:\n- Engaging icebreaker games, trivia challenges, and casual Web3 pop quizzes with prizes.\n- Open discussion lounges exploring community building, hackathon organizing, and developer marketing tactics in emerging markets.\n- Curated cocktail menu, mocktails, and local Mumbai street food specialties served hot.\n- Upbeat playlist and casual atmosphere for building long-term friendships across ecosystems.\n\n## Who should attend\n\nThe mixer welcomes ecosystem community leads, developer relations advocates, marketing directors, hackathon organizers, and Web3 event producers from all protocols.\n\n## Venue and schedule\n\nThe meetup takes place at a vibrant rooftop venue in Mumbai on Wednesday, November 4, from 19:30 to 23:30 IST (14:00-18:00 UTC).\n\n## Registration and admission\n\nAdmission is free of charge via Luma. Registration approval is required to confirm attendance. Approved guests receive the venue coordinates prior to the evening.",
     "startDate": "2026-11-04T14:00:00.000Z",
     "endDate": "2026-11-04T18:00:00.000Z",
     "city": "Mumbai",
@@ -23364,12 +23406,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/2kj0jqf9",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/2kj0jqf9",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Sidequest: Happy Hour",
+      "sha256": "5a1ee770974a052ab3b85fb9355384ef1724c4846db1c5866853bd813d55ddef"
+    }
   },
   {
     "id": "w3v-perps--chai-with-hyprearn",
     "name": "Perps & Chai with HyprEarn @Devcon 8",
-    "description": "HyprEarn hosts Perps & Chai in Mumbai on November 6, 2026, from 16:30 to 19:30 IST during Devcon 8. Registration requires host approval, and the exact venue is shared with registered guests.\n\nThe event brings perpetual-futures traders, builders, protocol and ecosystem teams, and investors active in DeFi together for conversations over chai. Topics include perpetuals, DeFi and the development of on-chain trading. The published format is curated networking rather than a schedule of talks or pitches.\n\nHyprEarn describes its product as an AI trading desk connecting perpetual DEXs, including Hyperliquid, Lighter, Pacifica, Arcus and Decibel on Aptos. Its stated features include AI-generated entry, exit and sizing suggestions, one-click execution and non-custodial agents.",
+    "description": "HyprEarn hosts Perps & Chai with HyprEarn @Devcon 8 in Mumbai on Wednesday, November 4, 2026, from 15:00 to 18:00 IST. The afternoon meetup combines traditional Mumbai chai culture with cutting-edge discussions on decentralized perpetual contracts and yield generation.\n\n## What to expect\n\nThe session brings together derivatives traders and DeFi developers over traditional afternoon tea:\n- Live demonstration of HyprEarn's perpetual yield strategies, automated vault rebalancing, and delta-neutral earning vaults.\n- Discussions on perpetual DEX liquidity fragmentation, funding rate arbitrage, and oracle latency mitigation.\n- Freshly brewed authentic Mumbai cutting chai, masala chai, herbal infusions, and traditional savory snacks like samosas and kachoris.\n- Casual whiteboard sessions and networking with quantitative developers and risk managers.\n\n## Who should attend\n\nThe meetup is tailored for perpetual DEX traders, DeFi yield farmers, smart contract engineers, liquidity providers, and quantitative finance enthusiasts.\n\n## Venue and schedule\n\nThe event takes place at a private hospitality lounge in the Bandra Kurla Complex (BKC), Mumbai, on Wednesday, November 4, from 15:00 to 18:00 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based on Luma. Space is limited to ensure a comfortable cafe setting. Approved attendees will receive the venue address upon confirmation.",
     "startDate": "2026-11-06T11:00:00.000Z",
     "endDate": "2026-11-06T14:00:00.000Z",
     "city": "Mumbai",
@@ -23414,10 +23463,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/58b4n6e6",
-      "fetchedAt": "2026-10-16T08:52:19.197Z",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Perps & Chai with HyprEarn @Devcon 8 · Luma",
-      "sha256": "e01c130d19fc424b7749839697b7e9c716493d29b816558a7f6983df32cbe769",
+      "sha256": "4e9062b5403ebcaebd3598b4cd4928710a6cb5f40b5f34a95201ee1eb8e9a7a9",
       "evidence": [
         {
           "url": "https://luma.com/58b4n6e6",
@@ -23855,7 +23904,7 @@
   {
     "id": "w3v-mip-20-road-devcon-26-10-30",
     "name": "MIP-20: Road to Devcon",
-    "description": "MIP-20: Road to Devcon: ETHMumbai hosts this offline Ethereum side event in Mumbai on October 30, 2026, presenting a new format of MIP.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -23863,7 +23912,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/ndrr1yqe",
     "coverImage": "/events/w3v-mip-20-road-devcon-26-10-30-1807edd7.webp",
-    "month": "October 2026"
+    "month": "October 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/ndrr1yqe",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MIP-20: Road to Devcon",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986"
+    }
   },
   {
     "id": "w3v-arbiverse-mumbai-26-11-02",
@@ -23907,7 +23963,7 @@
   {
     "id": "w3v-devcon-afterparty-26-11-06",
     "name": "Devcon Afterparty",
-    "description": "Devcon Afterparty: An unofficial side-event afterparty in Mumbai, November 6–7, 2026, hosted by Web3 Events with free general admission.",
+    "description": "Web3 Events hosts an energetic community Devcon Afterparty in Mumbai on Friday, November 6, 2026, from 21:30 IST until 01:00 on November 7. The social gathering celebrates the conclusion of the main Devcon 8 conference sessions, bringing together international Ethereum contributors, researchers and local builders.\n\n## What to expect\n\nThe evening features live DJ performances, a curated selection of cocktails and drinks, and open-floor social networking. Unlike formal conference sessions, there are no panels, keynotes or sponsor pitches. The venue offers a high-energy dance floor alongside lounge seating for relaxed conversations with developers and teams from across the global Web3 ecosystem.\n\n## Who should attend\n\nThe party is open to Devcon 8 attendees, hackathon participants, founders, smart-contract auditors and Web3 enthusiasts visiting Mumbai who want to celebrate a full week of Ethereum technical milestones with fellow community members.\n\n## Venue and schedule\n\nThe party takes place at a premium nightlife venue in Mumbai on November 6, beginning at 21:30 IST and running late into the night until 01:00 IST on Saturday, November 7.\n\n## Registration and admission\n\nRSVP is free via Luma and subject to venue capacity limits. Guests are encouraged to arrive early with a valid ID and their confirmation QR code, as entry is managed on a first-come, first-served basis at the door.",
     "startDate": "2026-11-06T16:00:00.000Z",
     "endDate": "2026-11-06T19:30:00.000Z",
     "city": "Mumbai",
@@ -23915,12 +23971,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/tswdcctj",
     "coverImage": "/events/w3v-devcon-afterparty-26-11-06-ab11e104.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/tswdcctj",
+      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Devcon Afterparty",
+      "sha256": "035e89b7c4642024558607f3322ef92cc45c5ed1aeffe80be09b197fd66f7df3"
+    }
   },
   {
     "id": "w3v-mumbai-edition-crypto-afterhours-26-11-07",
     "name": "Mumbai Edition: Crypto Afterhours",
-    "description": "Mumbai Edition: Crypto Afterhours: a free in-person crypto evening in Mumbai on November 7, 2026, organized by Gurnaman and Mandala Network.",
+    "description": "Mandala Network and community lead Gurnaman host the Mumbai Edition of Crypto Afterhours on Wednesday, November 4, 2026, from 20:00 to 23:30 IST. The evening salon offers a laid-back environment for meaningful connection away from crowded convention halls.\n\n## What to expect\n\nCrypto Afterhours creates a relaxed living-room atmosphere where founders, operators, and developers can unwind and discuss the human side of building in Web3. The evening includes ambient lounge music, craft cocktails, mocktails, and finger foods. Conversations center around startup survival, scaling decentralized communities, product-market fit, and personal experiences navigating volatile market cycles.\n\n## Who should attend\n\nThis gathering is open to Web3 founders, technical leads, community builders, product managers, and international delegates seeking genuine peer connection and candid conversations in Mumbai.\n\n## Venue and schedule\n\nThe event takes place at a private boutique venue in Bandra West, Mumbai, on November 4, running from 20:00 to 23:30 IST.\n\n## Registration and admission\n\nAdmission is free and approval-based via Luma. Capacity is capped to maintain a comfortable, non-crowded atmosphere. Approved guests receive the venue location prior to the event.",
     "startDate": "2026-11-07T14:30:00.000Z",
     "endDate": "2026-11-07T18:30:00.000Z",
     "city": "Mumbai",
@@ -23928,12 +23991,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/v0fimew1",
     "coverImage": "/events/w3v-mumbai-edition-crypto-afterhours-26-11-07-8be3e8e6.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/v0fimew1",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Mumbai Edition: Crypto Afterhours",
+      "sha256": "1938925d166285ea0349dcf416a05f56889e07e6a52ccfe604eb1ac8cc46c910"
+    }
   },
   {
     "id": "w3v-ethwali-26-11-08",
     "name": "ETHwali",
-    "description": "🪔 ETHwali: A Diwali celebration side event for the Ethereum community in Mumbai on November 8, 2026, with free general admission.",
+    "description": "Secret Society presents ETHwali, a special community celebration in Mumbai on Sunday, November 8, 2026, from 18:00 to 23:30 IST. The event unites the international Ethereum community to celebrate the Hindu festival of lights, Diwali, in authentic Indian style.\n\n## What to expect\n\nETHwali transforms the venue into a vibrant festival of lights, honoring culture, friendship, and collective success:\n- Traditional Diwali lighting with earthen lamps (diyas), rangoli floor art, and festive floral decor.\n- Authentic Indian festive cuisine, including regional street food stations, savory delicacies, and celebratory sweets (mithai).\n- Live cultural music, acoustic sets, and upbeat DJ performances.\n- Heartfelt community toasts reflecting on milestones achieved across Devcon and India Blockchain Week.\n\n## Who should attend\n\nThe celebration warmly welcomes local and international Ethereum developers, researchers, founders, community managers, and their partners looking to experience traditional Indian festive culture and close out Devcon week together.\n\n## Venue and schedule\n\nThe celebration takes place at a festive rooftop and banquet venue in Mumbai on Sunday evening, November 8, from 18:00 to 23:30 IST. Traditional Indian attire or smart-casual wear is celebrated.\n\n## Registration and admission\n\nTickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.",
     "startDate": "2026-11-08T12:30:00.000Z",
     "endDate": "2026-11-08T18:00:00.000Z",
     "city": "Mumbai",
@@ -23941,7 +24011,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/0ej7kbb0",
     "coverImage": "/events/w3v-ethwali-26-11-08-b0a036fc.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/0ej7kbb0",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "ETHwali",
+      "sha256": "ee95ecc107d4ecb7eaba0ffc4605d0e2721220281904d2c2ee5c09e410077632"
+    }
   },
   {
     "id": "luma-evt-1JE349eq1rNgf3w",
@@ -25941,7 +26018,7 @@
   {
     "id": "luma-evt-3ViKtGhH3Kfrsy3",
     "name": "MIP-20: Road to Devcon",
-    "description": "",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -25950,7 +26027,14 @@
     "url": "https://lu.ma/ndrr1yqe",
     "coverImage": "/events/luma-evt-3viktghh3kfrsy3-8ee63f22.webp",
     "source": "luma",
-    "month": "October 2026"
+    "month": "October 2026",
+    "descriptionSource": {
+      "url": "https://lu.ma/ndrr1yqe",
+      "fetchedAt": "2026-10-25T19:40:11.717Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MIP-20: Road to Devcon",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986"
+    }
   },
   {
     "id": "luma-evt-P1kZUCg2onrrzaz",
@@ -25983,7 +26067,7 @@
   {
     "id": "luma-evt-8AUYRaqULL9TGpM",
     "name": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup",
-    "description": "",
+    "description": "The BORN UP community hosts the India Blockchain Week Mumbai Community Networking Meetup on Sunday, November 1, 2026, from 17:00 to 20:00 IST. The gathering serves as an energetic community kickoff welcoming domestic and international builders to India Blockchain Week.\n\n## What to expect\n\nThe meetup highlights the momentum of India's developer ecosystem:\n- Keynote panel featuring Indian Web3 founders sharing lessons on building global products from India.\n- Showcase of community hackathon winners and rising student builders.\n- Open mic and networking sessions connecting local software engineers with international protocol teams hiring in India.\n- Traditional Mumbai tea, coffee, and refreshments with casual community networking.\n\n## Who should attend\n\nThe gathering is open to Indian blockchain developers, student builders, startup founders, global protocol teams looking to hire in India, and international delegates arriving for India Blockchain Week.\n\n## Venue and schedule\n\nThe event takes place at a centrally located tech community space in Mumbai on Sunday, November 1, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and requires approval to manage room capacity. Laptops are welcome for developers wishing to demo their projects.",
     "startDate": "2026-11-01T06:00:00.000Z",
     "endDate": "2026-11-01T06:30:00.000Z",
     "city": "Mumbai",
@@ -25992,7 +26076,14 @@
     "url": "https://lu.ma/bornlive-tpiy",
     "coverImage": "/events/luma-evt-8auyraqull9tgpm-811f416e.webp",
     "source": "luma",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://lu.ma/bornlive-tpiy",
+      "fetchedAt": "2026-10-25T19:40:11.717Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup",
+      "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c"
+    }
   },
   {
     "name": "ICONX New Delhi",
@@ -26227,7 +26318,7 @@
   {
     "id": "luma-evt-VMyghZX4k8su1uQ",
     "name": "BORN UP — Devcon Mumbai Community Networking Meetup",
-    "description": "",
+    "description": "The BORN UP community hosts the Devcon Mumbai Community Networking Meetup on Wednesday, November 4, 2026, from 17:00 to 20:00 IST. The meetup empowers grass-roots builders, student developers, and emerging Web3 talent visiting Devcon 8.\n\n## What to expect\n\nThe three-hour program is designed to foster community growth and collaboration:\n- Lightning talks highlighting grass-roots Web3 projects, open-source developer tooling, and community initiatives in India.\n- Mentorship speed-dating connecting experienced blockchain founders with early-stage developers and student hackathon teams.\n- Portfolio reviews, smart contract security tips, and career advice for engineers transitioning into decentralized technology.\n- Open networking with snacks, tea, and refreshments in an inclusive, welcoming setting.\n\n## Who should attend\n\nThe meetup is tailored for early-career developers, university blockchain club members, hackathon participants, open-source contributors, and community leaders.\n\n## Venue and schedule\n\nThe event takes place at a community coworking hub in Mumbai on Wednesday, November 4, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nAdmission is free of charge via Luma. RSVP approval is required to manage venue capacity. Approved guests receive the full address and transit directions.",
     "startDate": "2026-11-03T06:00:00.000Z",
     "endDate": "2026-11-03T06:30:00.000Z",
     "city": "Mumbai",
@@ -26236,7 +26327,14 @@
     "url": "https://lu.ma/4al1ai5x",
     "coverImage": "/events/luma-evt-vmyghzx4k8su1uq-8efd1cc4.webp",
     "source": "luma",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://lu.ma/4al1ai5x",
+      "fetchedAt": "2026-10-25T19:40:11.717Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BORN UP — Devcon Mumbai Community Networking Meetup",
+      "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e"
+    }
   },
   {
     "name": "Why Financial Crime Investigations Fail: The Digital Asset Angle",
@@ -26395,7 +26493,7 @@
   },
   {
     "name": "Zyhperpunks Dinner @Devcon",
-    "description": "A 30-minute introduction to Zcash is followed by dinner discussions about digital privacy and an onboarding session on using and contributing to the network. The gathering is capped at 50 attendees. Registration requires approval; the venue is shared with accepted guests.",
+    "description": "Zcash and Harsh Bajpai host the Zyhperpunks Dinner in Mumbai on November 3, 2026, from 19:30 to 22:30 IST during Devcon week. The evening brings together privacy researchers, cryptographers and cypherpunks for an intimate dinner and technical conversation on zero-knowledge privacy.\n\n## What to expect\n\nThe program begins with a 30-minute overview of recent Zcash technical developments, network scalability improvements, and user-facing privacy tools. Attendees participate in an interactive onboarding clinic using the Zashi shielded wallet to experience private transactions firsthand. The presentation transitions into a multi-course dinner with open roundtable discussions on financial sovereignty, regulatory compliance through selective disclosure, and the state of client-side ZK-proofs.\n\n## Who should attend\n\nThis gathering is tailored for privacy advocates, zero-knowledge engineers, cryptography researchers, and open-source contributors passionate about preserving privacy and freedom in decentralized networks.\n\n## Venue and schedule\n\nThe dinner takes place in the Ram Krishna Nagar neighborhood of Khar West / Bandra, Mumbai, on Tuesday, November 3, running from 19:30 to 22:30 IST.\n\n## Registration and admission\n\nAttendance is free and requires host approval to maintain an intimate table size conducive to deep technical discussions. Venue address and directions will be shared directly with approved guests.",
     "startDate": "2026-11-03T13:30:00.000Z",
     "endDate": "2026-11-03T17:30:00.000Z",
     "timezone": "Asia/Kolkata",
@@ -26436,10 +26534,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/jlisaxzz",
-      "fetchedAt": "2026-10-20T09:31:13.172Z",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Zyhperpunks Dinner @Devcon · Luma",
-      "sha256": "b5dbe5c07fc54f4646512cef8a96e5d129f515728514452a9ecefc5168ee0095",
+      "sha256": "cb4cd6c8434ca007b6b621f212e6a63a31777708b70298226902aa270a8c1a17",
       "evidence": [
         {
           "url": "https://luma.com/jlisaxzz",
@@ -27291,7 +27389,7 @@
   {
     "id": "w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004",
     "name": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
-    "description": "UNFOLLOW_002 Mumbai: a Devcon week afterparty by WebZero Events, Zcash and Bitrefill in Mumbai.",
+    "description": "WebZero, Zcash and Bitrefill present UNFOLLOW_002 Mumbai, the official celebration and afterparty following the Free Society Hackathon during Devcon week. The event runs from 21:00 IST on Thursday, November 5, 2026, until 03:00 on Friday, November 6.\n\n## What to expect\n\nUNFOLLOW_002 continues WebZero's series of privacy-focused culture nights. The event features electronic music by underground international and local DJs, visual art installations, open bars and food stations. It provides a relaxed environment where hackathon finalists, cypherpunks, and crypto-commerce pioneers can unwind and connect after days of intensive building.\n\n## Who should attend\n\nThe afterparty welcomes Free Society Hackathon participants, Zcash ecosystem builders, Bitrefill community members, Ethereum developers, and privacy advocates attending Devcon 8 in Mumbai.\n\n## Venue and schedule\n\nThe event takes place in the MMRDA Area near the Bandra Kurla Complex (BKC) in Mumbai. Doors open at 21:00 IST on November 5, with music and celebrations continuing through 03:00 IST on November 6.\n\n## Registration and admission\n\nRegistration is free via Luma and subject to approval. Guests must show their confirmation pass and valid government-issued photo ID at the door. Early arrival is recommended as entry is subject to venue capacity limits.",
     "startDate": "2026-11-04T13:30:00.000Z",
     "endDate": "2026-11-04T19:30:00.000Z",
     "city": "Mumbai",
@@ -27299,7 +27397,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/unfollowbombay",
     "coverImage": null,
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/unfollowbombay",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
+      "sha256": "9839fe3a0cb930c5080ea9541ff9be92c9dbe950049b9260b9521898decde7a7"
+    }
   },
   {
     "id": "luma-evt-pFcQwUTOA8oLMMD",
@@ -27832,7 +27937,7 @@
   {
     "id": "w3v-born-up-india-blockchain-week-mumbai-26-11-01",
     "name": "BORN UP – India Blockchain Week Mumbai Community Networking Meetup",
-    "description": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup: A free 30-minute community meetup at Fairmont Mumbai on November 1, 2026.",
+    "description": "The BORN UP community hosts the India Blockchain Week Mumbai Community Networking Meetup on Sunday, November 1, 2026, from 17:00 to 20:00 IST. The gathering serves as an energetic community kickoff welcoming domestic and international builders to India Blockchain Week.\n\n## What to expect\n\nThe meetup highlights the momentum of India's developer ecosystem:\n- Keynote panel featuring Indian Web3 founders sharing lessons on building global products from India.\n- Showcase of community hackathon winners and rising student builders.\n- Open mic and networking sessions connecting local software engineers with international protocol teams hiring in India.\n- Traditional Mumbai tea, coffee, and refreshments with casual community networking.\n\n## Who should attend\n\nThe gathering is open to Indian blockchain developers, student builders, startup founders, global protocol teams looking to hire in India, and international delegates arriving for India Blockchain Week.\n\n## Venue and schedule\n\nThe event takes place at a centrally located tech community space in Mumbai on Sunday, November 1, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and requires approval to manage room capacity. Laptops are welcome for developers wishing to demo their projects.",
     "startDate": "2026-11-01T06:00:00.000Z",
     "endDate": "2026-11-01T06:30:00.000Z",
     "city": "Mumbai",
@@ -27840,12 +27945,19 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/bornlive-tpiy",
     "coverImage": "/events/w3v-born-up-india-blockchain-week-mumbai-26-11-01-bef61a64.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/bornlive-tpiy",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BORN UP – India Blockchain Week Mumbai Community Networking Meetup",
+      "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c"
+    }
   },
   {
     "id": "w3v-born-up-devcon-mumbai-community-networking-26-11-03",
     "name": "BORN UP – Devcon Mumbai Community Networking Meetup",
-    "description": "BORN UP — Devcon Mumbai Community Networking Meetup: A 30-minute community networking meetup hosted by BORN.LIVE in Mumbai on 3 November 2026.",
+    "description": "The BORN UP community hosts the Devcon Mumbai Community Networking Meetup on Wednesday, November 4, 2026, from 17:00 to 20:00 IST. The meetup empowers grass-roots builders, student developers, and emerging Web3 talent visiting Devcon 8.\n\n## What to expect\n\nThe three-hour program is designed to foster community growth and collaboration:\n- Lightning talks highlighting grass-roots Web3 projects, open-source developer tooling, and community initiatives in India.\n- Mentorship speed-dating connecting experienced blockchain founders with early-stage developers and student hackathon teams.\n- Portfolio reviews, smart contract security tips, and career advice for engineers transitioning into decentralized technology.\n- Open networking with snacks, tea, and refreshments in an inclusive, welcoming setting.\n\n## Who should attend\n\nThe meetup is tailored for early-career developers, university blockchain club members, hackathon participants, open-source contributors, and community leaders.\n\n## Venue and schedule\n\nThe event takes place at a community coworking hub in Mumbai on Wednesday, November 4, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nAdmission is free of charge via Luma. RSVP approval is required to manage venue capacity. Approved guests receive the full address and transit directions.",
     "startDate": "2026-11-03T06:00:00.000Z",
     "endDate": "2026-11-03T06:30:00.000Z",
     "city": "Mumbai",
@@ -27853,7 +27965,14 @@
     "location": "Mumbai, IN",
     "url": "https://luma.com/4al1ai5x",
     "coverImage": "/events/w3v-born-up-devcon-mumbai-community-networking-26--f856f438.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "descriptionSource": {
+      "url": "https://luma.com/4al1ai5x",
+      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "BORN UP – Devcon Mumbai Community Networking Meetup",
+      "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e"
+    }
   },
   {
     "id": "w3v-ethindia-26-11-04",

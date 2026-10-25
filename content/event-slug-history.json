@@ -3488,7 +3488,10 @@
       "india-luma-ndrr1yqe",
       "meetupmip-20",
       "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
-      "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi"
+      "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
+      "mip-20-road-devcon",
+      "w3v-mip-20-road-devcon-26-10-30",
+      "luma-evt-3viktghh3kfrsy3"
     ]
   },
   "india-luma-76s6hwzv": {
@@ -4228,7 +4231,9 @@
   "india-luma-3doehm1b": {
     "slug": "run-and-rave",
     "aliases": [
-      "3doehm1b"
+      "3doehm1b",
+      "run-rave",
+      "w3v-run-rave-26-11-01"
     ]
   },
   "india-luma-83ujl6ms": {
@@ -4246,7 +4251,9 @@
   "india-luma-jb4zsel1": {
     "slug": "catalyst-founder-residency",
     "aliases": [
-      "jb4zsel1"
+      "jb4zsel1",
+      "catalyst-founder-residency-devcon",
+      "w3v-catalyst-founder-residency-devcon-26-11-01"
     ]
   },
   "india-luma-team1mumbai": {
@@ -4276,7 +4283,8 @@
   "india-luma-2kj0jqf9": {
     "slug": "sidequest-happy-hour",
     "aliases": [
-      "2kj0jqf9"
+      "2kj0jqf9",
+      "w3v-sidequest-happy-hour"
     ]
   },
   "india-luma-uqmzpq5k": {
@@ -4322,7 +4330,8 @@
   "india-luma-ai6owvhz": {
     "slug": "eva-symposium-iii",
     "aliases": [
-      "ai6owvhz"
+      "ai6owvhz",
+      "w3v-eva-symposium-iii-26-11-04"
     ]
   },
   "india-luma-xuofsg0p": {
@@ -4340,13 +4349,16 @@
   "india-luma-islzi7v3": {
     "slug": "money-layer-devcon",
     "aliases": [
-      "islzi7v3"
+      "islzi7v3",
+      "money-layer-devcon-week",
+      "w3v-money-layer-devcon-week-26-11-04"
     ]
   },
   "india-luma-kz3klqjq": {
     "slug": "capital-connect",
     "aliases": [
-      "kz3klqjq"
+      "kz3klqjq",
+      "w3v-capital-connect-26-11-04"
     ]
   },
   "india-luma-ub56pe38": {
@@ -4364,19 +4376,24 @@
   "india-luma-tswdcctj": {
     "slug": "unofficial-devcon-afterparty",
     "aliases": [
-      "tswdcctj"
+      "tswdcctj",
+      "devcon-afterparty",
+      "w3v-devcon-afterparty-26-11-06"
     ]
   },
   "india-luma-v0fimew1": {
     "slug": "crypto-afterhours-mumbai",
     "aliases": [
-      "v0fimew1"
+      "v0fimew1",
+      "mumbai-edition-crypto-afterhours",
+      "w3v-mumbai-edition-crypto-afterhours-26-11-07"
     ]
   },
   "india-luma-0ej7kbb0": {
     "slug": "ethwali",
     "aliases": [
-      "0ej7kbb0"
+      "0ej7kbb0",
+      "w3v-ethwali-26-11-08"
     ]
   },
   "token2049-evt-YO7GY1OwI4l0QR6": {
@@ -4446,7 +4463,11 @@
   },
   "india-luma-bornlive-tpiy": {
     "slug": "born-up-ibw-mumbai",
-    "aliases": []
+    "aliases": [
+      "born-up-india-blockchain-week-mumbai-community-networking-meetup",
+      "luma-evt-8auyraqull9tgpm",
+      "w3v-born-up-india-blockchain-week-mumbai-26-11-01"
+    ]
   },
   "india-luma-m8jxna31": {
     "slug": "off-chain-padel-mumbai",
@@ -4454,7 +4475,11 @@
   },
   "india-luma-4al1ai5x": {
     "slug": "born-up-devcon-mumbai",
-    "aliases": []
+    "aliases": [
+      "born-up-devcon-mumbai-community-networking-meetup",
+      "luma-evt-vmyghzx4k8su1uq",
+      "w3v-born-up-devcon-mumbai-community-networking-26-11-03"
+    ]
   },
   "india-luma-86nrj6he": {
     "slug": "midweek-block-party-mumbai",
@@ -4874,7 +4899,9 @@
   },
   "discovery-evt-CrfUNgdw4aVQtjy": {
     "slug": "unfollow-002-mumbai-afterparty-zcash-bitrefill",
-    "aliases": []
+    "aliases": [
+      "w3v-unfollow-002-mumbai-afterparty-with-zcash-bitrefill-7-1792432810004"
+    ]
   },
   "discovery-evt-jMB76t6BDXdYFbP": {
     "slug": "community-roundtable-2026-11-04",
@@ -5462,6 +5489,10 @@
   },
   "ibw-luma-evt-QkWwyZht8EIQiUy": {
     "slug": "dontghost",
+    "aliases": []
+  },
+  "w3v-x-quantus-happy-hour-devcon-mumbai-26-11-04": {
+    "slug": "near-x-quantus-happy-hour-devcon-mumbai",
     "aliases": []
   }
 }

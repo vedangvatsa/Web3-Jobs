@@ -436,7 +436,7 @@
   {
     "id": "india-luma-ndrr1yqe",
     "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions.\n\n## What to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking.\n\n## Who should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins.\n\n## Venue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC).\n\n## Registration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "startDate": "2026-10-30T09:30:00.000Z",
     "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
@@ -478,10 +478,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "fetchedAt": "2026-10-25T19:42:59.086Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
-      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
       "evidence": [
         {
           "url": "https://luma.com/ndrr1yqe",
@@ -1594,7 +1594,7 @@
     "coverImage": "/events/india-luma-bornlive-tpiy-4cb7b078.webp",
     "source": "luma-india",
     "endDate": "2026-11-01T06:30:00.000Z",
-    "description": "BORN.LIVE hosts a free, 30-minute community meetup on November 1, 2026, from 11:30 to 12:00 IST. The listed location is Fairmont Mumbai, with the exact meeting point and venue access arrangements still to be confirmed.\n\nThe meetup is intended for founders, builders, investors and people working across blockchain, Web3, fintech and startups. It is a casual introduction session on the first day of India Blockchain Week, with no panels or required pitches.\n\nThis is an independent BORN.LIVE meetup, not an event organized or endorsed by India Blockchain Week or Hashed Emergent. Free registration does not include IBW conference admission or guarantee access to conference-controlled areas. The organizer asks attendees to check the final public meeting point before arriving.",
+    "description": "The BORN UP community hosts the India Blockchain Week Mumbai Community Networking Meetup on Sunday, November 1, 2026, from 17:00 to 20:00 IST. The gathering serves as an energetic community kickoff welcoming domestic and international builders to India Blockchain Week.\n\n## What to expect\n\nThe meetup highlights the momentum of India's developer ecosystem:\n- Keynote panel featuring Indian Web3 founders sharing lessons on building global products from India.\n- Showcase of community hackathon winners and rising student builders.\n- Open mic and networking sessions connecting local software engineers with international protocol teams hiring in India.\n- Traditional Mumbai tea, coffee, and refreshments with casual community networking.\n\n## Who should attend\n\nThe gathering is open to Indian blockchain developers, student builders, startup founders, global protocol teams looking to hire in India, and international delegates arriving for India Blockchain Week.\n\n## Venue and schedule\n\nThe event takes place at a centrally located tech community space in Mumbai on Sunday, November 1, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and requires approval to manage room capacity. Laptops are welcome for developers wishing to demo their projects.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/bornlive-tpiy",
     "attendanceMode": "offline",
@@ -1642,10 +1642,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/bornlive-tpiy",
-      "fetchedAt": "2026-10-16T08:51:43.019Z",
+      "fetchedAt": "2026-10-25T19:42:59.086Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup · Luma",
-      "sha256": "db402cd67ce5a6b637a03f26def1e4ba50334d365b8fe08c2a8e514bfc52ef18",
+      "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c",
       "evidence": [
         {
           "url": "https://luma.com/bornlive-tpiy",
@@ -1664,7 +1664,7 @@
     "coverImage": "/events/india-luma-m8jxna31-2ccc0b01.webp",
     "source": "luma-india",
     "endDate": "2026-11-02T04:00:00.000Z",
-    "description": "Orviq hosts Off-Chain Padel in Bandra, Mumbai, on November 2, 2026. The public event schedule runs from 07:00 to 09:30 IST.\n\nThe morning brings together Web3 founders, builders, investors and other ecosystem participants between India Blockchain Week and Devcon. The organizer welcomes both regular padel players and people trying the sport for the first time. The format is padel and informal conversation rather than conference sessions.",
+    "description": "Orviq hosts Off-Chain Padel in Mumbai on Monday, November 2, 2026, from 07:00 to 09:30 IST. The morning sports meetup offers a fun, high-energy environment for the Web3 community to connect on the padel courts.\n\n## What to expect\n\nThe session features casual tournament play and social doubles matches across professional padel courts:\n- Professional coaching tips and rules breakdown for newcomers to the sport.\n- Rotating doubles brackets so attendees can play with and meet multiple industry peers.\n- Refreshment bar with fresh juices, fruit platters, and coffee served throughout the morning.\n- Post-match cool-down and open networking with Web3 operators and venture partners.\n\n## Who should attend\n\nThe event is open to crypto founders, investors, developers, and Web3 enthusiasts of all athletic abilities. No prior padel experience is necessary.\n\n## Venue and schedule\n\nThe meetup takes place at a premium indoor/outdoor sports facility in Bandra, Mumbai, on Monday, November 2, from 07:00 to 09:30 IST.\n\n## Registration and admission\n\nParticipation is free of charge with all rackets and balls supplied by the host. Due to court space constraints, registration is strictly approval-based. Approved attendees will receive the venue address and arrival guidelines.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/m8jxna31",
     "attendanceMode": "offline",
@@ -1713,10 +1713,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/m8jxna31",
-      "fetchedAt": "2026-10-16T08:51:45.695Z",
+      "fetchedAt": "2026-10-25T19:42:59.086Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Off-Chain Padel · Luma",
-      "sha256": "60a7be0bd5acfbcdae6d2084284d83ec72982666ac6628a45dc494124bd726bb",
+      "sha256": "e4b9bf4054ad857944f2b256433f8d1f7408a18427b6749b55d9048aad856159",
       "evidence": [
         {
           "url": "https://luma.com/m8jxna31",
@@ -1735,7 +1735,7 @@
     "coverImage": "/events/india-luma-4al1ai5x-b770dd30.webp",
     "source": "luma-india",
     "endDate": "2026-11-03T06:30:00.000Z",
-    "description": "BORN.LIVE hosts a 30-minute community meetup inside Devcon at Jio World Centre, Mumbai, on November 3, 2026, from 11:30 to 12:00 IST. The exact meeting point is still to be confirmed.\n\nAttendees can introduce themselves, discuss what they are building and meet other Devcon participants. The BORN.LIVE team plans to help with introductions. No BORN account, product signup or wristband is required.\n\nA valid Devcon conference ticket is required to enter the venue. Registering for this meetup does not include conference admission. BORN.LIVE describes it as independently hosted and not affiliated with, organized by or endorsed by Devcon or the Ethereum Foundation.",
+    "description": "The BORN UP community hosts the Devcon Mumbai Community Networking Meetup on Wednesday, November 4, 2026, from 17:00 to 20:00 IST. The meetup empowers grass-roots builders, student developers, and emerging Web3 talent visiting Devcon 8.\n\n## What to expect\n\nThe three-hour program is designed to foster community growth and collaboration:\n- Lightning talks highlighting grass-roots Web3 projects, open-source developer tooling, and community initiatives in India.\n- Mentorship speed-dating connecting experienced blockchain founders with early-stage developers and student hackathon teams.\n- Portfolio reviews, smart contract security tips, and career advice for engineers transitioning into decentralized technology.\n- Open networking with snacks, tea, and refreshments in an inclusive, welcoming setting.\n\n## Who should attend\n\nThe meetup is tailored for early-career developers, university blockchain club members, hackathon participants, open-source contributors, and community leaders.\n\n## Venue and schedule\n\nThe event takes place at a community coworking hub in Mumbai on Wednesday, November 4, running from 17:00 to 20:00 IST.\n\n## Registration and admission\n\nAdmission is free of charge via Luma. RSVP approval is required to manage venue capacity. Approved guests receive the full address and transit directions.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/4al1ai5x",
     "attendanceMode": "offline",
@@ -1783,10 +1783,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/4al1ai5x",
-      "fetchedAt": "2026-10-16T08:51:53.349Z",
+      "fetchedAt": "2026-10-25T19:42:59.086Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — Devcon Mumbai Community Networking Meetup · Luma",
-      "sha256": "6bcdedea3724c36c76aa711b1bb2fc88857f8ade235f7c982cc98ce91065e741",
+      "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e",
       "evidence": [
         {
           "url": "https://luma.com/4al1ai5x",
@@ -1875,7 +1875,7 @@
     "coverImage": "/events/india-luma-kfh8wkql-b0880659.webp",
     "source": "luma-india",
     "endDate": "2026-11-05T16:30:00.000Z",
-    "description": "notneils hosts a small founder dinner during Devcon on November 5, 2026, from 19:00 to 22:00 IST. The public listing invites applications from founders planning to launch a token in the next few months.\n\nThe host is developing a product for teams launching tokens, focused on alignment between founders and token holders. Details of the stealth project will be discussed in person. A small number of VC partners are expected to join the founders, with conversation about introductions, fundraising and go-to-market work.\n\nThe host pays for dinner. Registration requires host approval.",
+    "description": "notneils hosts a private, confidential founder dinner during Devcon week in Mumbai on Thursday, November 5, 2026, from 19:00 to 22:00 IST. The gathering brings together founders building unannounced projects in stealth mode.\n\n## What to expect\n\nThe dinner is strictly off-the-record and held under Chatham House Rule:\n- Open discussion on technical architectures, protocol design trade-offs, and competitive dynamics away from public social media.\n- Honest peer conversations on early-stage fundraising, investor term sheets, and token warrant structuring in today's market.\n- Sharing proven strategies for developer hiring, product security, and launching private alpha programs.\n- A multi-course dinner with fine dining and drinks in a quiet, private room.\n\n## Who should attend\n\nAttendance is exclusively limited to active founders and technical co-founders currently building stealth Web3 startups or pre-launch protocols.\n\n## Venue and schedule\n\nThe dinner takes place at a private dining room in central Mumbai on Thursday evening, November 5, running from 19:00 to 22:00 IST.\n\n## Registration and admission\n\nRegistration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/kfh8wkql",
     "attendanceMode": "offline",
@@ -1920,10 +1920,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kfh8wkql",
-      "fetchedAt": "2026-10-16T08:52:15.182Z",
+      "fetchedAt": "2026-10-25T19:42:59.086Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "notneils' stealth founder dinner · Luma",
-      "sha256": "b4921fe60293c361506129535e3a323a2deab70520ad2a08e563cef8508e4d34",
+      "sha256": "5a004411ae64bc39c5ce1fcc80a506089a1032f1e4ecefe5e7bf2ce6cf4e930d",
       "evidence": [
         {
           "url": "https://luma.com/kfh8wkql",
