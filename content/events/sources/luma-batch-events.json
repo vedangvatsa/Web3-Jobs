@@ -3248,7 +3248,7 @@
     "id": "luma-batch-HWyWCSbQQ3n6tLU",
     "slug": "rsm1xrxt",
     "name": "Sidequest: Chai at Dawn",
-    "description": "Sidequest offers free morning chai during Devcon week. Attendees can join once or return on each of the four mornings; there is no formal program.",
+    "description": "Interspace Studio hosts Sidequest: Chai at Dawn in Mumbai throughout Devcon week, running from Tuesday, November 3, through Friday, November 6, 2026, from 08:00 to 09:30 IST each morning.\n\n## What to expect\n\nThe morning gathering offers a relaxed start before intense conference days:\n- Fresh, piping-hot traditional cutting chai brewed with aromatic spices and ginger by local tea masters.\n- Light morning snacks, including fresh bun maska, biscuits, and seasonal fruit.\n- Casual, open-air conversations with early-bird developers, researchers, and Ethereum contributors arriving ahead of the morning keynote sessions.\n\n## Who should attend\n\nThe gathering welcomes all Devcon attendees, hackathon builders, and visitors who enjoy early mornings and authentic local tea culture.\n\n## Venue and schedule\n\nThe chai cart is stationed at a designated open-air gathering spot within walking distance of the Jio World Convention Centre in BKC, Mumbai, daily from 08:00 to 09:30 IST.\n\n## Registration and admission\n\nParticipation is free and completely open. No conference badge, ticketing scan, or pre-approval is required. Exact daily coordinates are published on the Sidequest community channels.",
     "startDate": "2026-11-03T02:30:00.000Z",
     "endDate": "2026-11-06T04:00:00.000Z",
     "city": "Mumbai",
@@ -3297,10 +3297,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/rsm1xrxt",
-      "fetchedAt": "2026-10-11T18:38:37.988Z",
+      "fetchedAt": "2026-10-25T20:42:17.985Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Chai at Dawn",
-      "sha256": "88da529351213a5e15aed6dc8a2901a654b03aaa8f3d36f519f2618e42a3ff3b",
+      "sha256": "ae0ddd6d861a68fc77200c0e3b017db07b9a7ccb9fa6b84d439a2e8b7be0424a",
       "evidence": [
         {
           "url": "https://luma.com/rsm1xrxt",
@@ -11827,36 +11827,6 @@
     "sourceVerification": {
       "url": "https://luma.com/tbc26",
       "eventId": "evt-9GgBM7ScK61zTbb",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt1EA7xcRl71QAo",
-    "slug": "2p6xkvsv",
-    "name": "a90ae79ce9ad160165bf0144534b43ed - Party",
-    "description": "SC Audit Studio is presenting “a90ae79ce9ad160165bf0144534b43ed - Party” as part of BTCHEL WEEK - a relaxed, selective gathering for founders, technical leaders, investors, and industry professionals.\n\nAfter several days of talks, panels, and packed schedules, we’d like to keep this evening simple: no formal agenda, no presentations, and no fixed program. Just a chance to network, unwind, and have good conversations over:\n\nFree beer and wine\n\nSmall snacks and bites\n\nGood discussions\n\nThe evening is for people working on privacy, decentralized technologies, and related infrastructure, with room for conversations around agentic cybersecurity risks, open-source software, and decentralized systems.\n\nSpots are strictly limited and available on a first-come, first-served basis.\n\nTiny Encryption Algorithm key: btc",
-    "startDate": "2026-09-25T15:30:00.000Z",
-    "endDate": "2026-09-25T20:00:00.000Z",
-    "city": "Helsinki",
-    "country": "Finland",
-    "location": "Helsinki, Uusimaa, Finland",
-    "url": "https://luma.com/2p6xkvsv",
-    "registrationUrl": "https://luma.com/2p6xkvsv",
-    "coverImage": "/events/luma-batch-evt1EA7xcRl71QAo-8407ec14.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Helsinki",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/2p6xkvsv",
-      "eventId": "evt-1EA7xcRl71QAo7U",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

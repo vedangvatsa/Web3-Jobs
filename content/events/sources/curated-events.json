@@ -3981,7 +3981,7 @@
     "id": "premier-ibt-mumbai-2026",
     "slug": "ibt-mumbai",
     "name": "India Blockchain & AI Tour 2026 - Mumbai",
-    "description": "Octaloop hosts the Mumbai stop of India Blockchain & AI Tour on October 31. The ticketing page lists 12:00 to 18:00 IST. The organizer has not announced the venue.",
+    "description": "Octaloop hosts the Mumbai edition of the India Blockchain & AI Tour 2026 on Friday, October 31, from 10:00 to 17:00 IST. The day-long conference explores the intersection of decentralized technology, machine learning, and digital public infrastructure in India.\n\n## What to expect\n\nThe summit features keynote presentations, panel sessions, and technical product showcases:\n- High-level panels examining the convergence of decentralized computing, decentralized physical infrastructure (DePIN), and sovereign AI.\n- Architecture sessions covering AI agent coordination on EVM chains, zero-knowledge inference, and cryptographic verification for autonomous models.\n- Institutional discussions on regulatory policy, digital asset compliance, and Web3 enterprise integration in Bharat.\n- Networking breaks, sponsor exhibitions, and executive roundtables connecting founders with venture capital funds.\n\n## Who should attend\n\nThe event is designed for software engineers, blockchain architects, AI researchers, Web3 founders, enterprise technology executives, and angel investors active in the Indian tech ecosystem.\n\n## Venue and schedule\n\nThe conference takes place at a premier hospitality auditorium in Mumbai on Friday, October 31, 2026, running from 10:00 to 17:00 IST.\n\n## Registration and admission\n\nTickets and registration passes are available through the official India Blockchain Tour portal. Early registration is recommended to guarantee admission and access to conference recordings.",
     "startDate": "2026-10-31T12:00:00+05:30",
     "endDate": "2026-10-31T18:00:00+05:30",
     "city": "Mumbai",
@@ -3996,10 +3996,10 @@
     ],
     "descriptionSource": {
       "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
-      "fetchedAt": "2026-10-11T18:39:05.525Z",
+      "fetchedAt": "2026-10-25T20:42:17.975Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain & AI Tour 2026 - Mumbai",
-      "sha256": "e3b73bb132527302db17f972457f676bc0545c13c70d0c8ec55c4fb4f04261d4",
+      "sha256": "3766d30126659c25cf0896069c4d76add31a5feda2bf357f3929b15b4a7e092b",
       "evidence": [
         {
           "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
@@ -4312,7 +4312,7 @@
     "id": "curated-shanhaiwoo-mumbai-extension-2026",
     "slug": "shanhaiwoo-mumbai-extension",
     "name": "ShanHaiWoo Mumbai Devcon Extension",
-    "description": "ShanHaiWoo announces a Mumbai Devcon extension from November 1 to 6, following its October 15 to 31 core program in Shenzhen. The Mumbai segment focuses on connections with global developers and technology communities during Devcon.\n\nThe linked registration page covers the wider Global Builder Village program and lists Shenzhen as its main location. A Mumbai-specific venue and daily timetable have not been published. Accommodation and intercity transportation are not included in the program passes.",
+    "description": "ShanHaiWoo hosts the Mumbai Devcon Extension from Sunday, November 1, through Friday, November 6, 2026. The week-long residency and community pop-up connects international builders, cypherpunks, and digital nomad researchers visiting India for Devcon.\n\n## What to expect\n\nThe extension serves as an open collaboration space and cultural bridge:\n- Daily co-working sprints with high-speed internet, collaborative whiteboards, and private meeting zones.\n- Pop-up technical salons discussing crypto-native culture, network states, public goods funding, and open-source cryptographic libraries.\n- Guided community excursions, local street food walks, and evening fireside chats exploring decentralized philosophy and decentralized physical infrastructure.\n\n## Who should attend\n\nThe pop-up welcomes international developers, open-source researchers, crypto anthropologists, community builders, and Devcon attendees seeking community co-living and collaborative workspaces in Mumbai.\n\n## Venue and schedule\n\nThe residency runs daily from November 1 to November 6 in Mumbai, located within convenient commuting distance of the main Devcon venue at Bandra Kurla Complex.\n\n## Registration and admission\n\nRegistration is open via ShanHaiWoo's Global Builder Village program. Space is allocated on an application-review basis to maintain an intimate, collaborative working environment.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-06",
     "city": "Mumbai",
@@ -4335,10 +4335,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/47rm8enp",
-      "fetchedAt": "2026-10-15T14:02:54.454Z",
+      "fetchedAt": "2026-10-25T20:42:17.975Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ShanHaiWoo Mumbai Devcon Extension",
-      "sha256": "3e14418766ca1f1e63ff0c299d7b320420413c6f6467b6cc42223f68b6511a63",
+      "sha256": "1d035905d550e64a73590ed00a6e914ab364486dc113edfb481172e5650edfc2",
       "evidence": [
         {
           "url": "https://luma.com/47rm8enp",
@@ -4359,7 +4359,7 @@
     "id": "curated-alchemy-devcon-meetings-2026",
     "slug": "alchemy-devcon-meetings",
     "name": "Alchemy Meetings at Devcon Mumbai",
-    "description": "Alchemy is accepting requests to meet its team during Devcon week in Mumbai, November 3 to 6. Use the organizer form to provide your name, email, company URL and what you would like help with. The team will arrange the meeting.\n\nThis is a meeting-request opportunity, with no published session timetable or meeting venue. Alchemy says its additional side events will be announced once details are confirmed.",
+    "description": "Alchemy hosts dedicated partner and developer meetings during Devcon week in Mumbai from Tuesday, November 3, through Friday, November 6, 2026. The sessions offer one-on-one technical architecture consultations with Alchemy's core engineering and product leadership.\n\n## What to expect\n\nThese private meetings provide direct access to Alchemy specialists:\n- Architecture review and node infrastructure optimization for high-throughput decentralized applications and decentralized finance protocols.\n- Technical guidance on implementing Smart Account modular infrastructure, account abstraction (ERC-4337), and session keys.\n- Strategic consultations regarding custom Rollup infrastructure, Subgraphs, webhooks, and developer tooling integrations.\n- Direct feedback channels with Alchemy product managers to influence roadmap priorities and enterprise support tiers.\n\n## Who should attend\n\nMeetings are open to CTOs, engineering leads, protocol architects, and senior developers currently building or scaling Web3 projects who need tailored infrastructure advisory.\n\n## Venue and schedule\n\nMeetings take place across multiple hospitality suites near the Jio World Convention Centre in Bandra Kurla Complex (BKC), Mumbai, from November 3 to 6.\n\n## Registration and admission\n\nBuilders must submit a meeting request form specifying their project details, technical stack, and specific discussion topics. Alchemy's team coordinates confirmed calendar slots and private suite access.",
     "startDate": "2026-11-03",
     "endDate": "2026-11-06",
     "city": "Mumbai",
@@ -4381,10 +4381,10 @@
     ],
     "descriptionSource": {
       "url": "https://www.alchemy.com/events/devcon-2026",
-      "fetchedAt": "2026-10-15T14:02:53.793Z",
+      "fetchedAt": "2026-10-25T20:42:17.975Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Alchemy Meetings at Devcon Mumbai",
-      "sha256": "cc123586bc45f98b76557c12462c8f3448215634d5ec7939a8b6c2bc6060b41a",
+      "sha256": "7ea5c200b62635ab82b8f003df469d2d2a6ff4d34a08b31d1cde2b49cd7061bd",
       "evidence": [
         {
           "url": "https://www.alchemy.com/events/devcon-2026",

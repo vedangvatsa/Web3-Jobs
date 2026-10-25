@@ -18237,7 +18237,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-25T19:42:59.060Z",
+      "fetchedAt": "2026-10-25T20:42:17.953Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
       "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
@@ -18311,7 +18311,7 @@
   {
     "id": "w3v-hacker-house-goa-26-10-28",
     "name": "Hacker House Goa 2026",
-    "description": "2:47PM Studio organizes Hacker House Goa from October 28 to 31, 2026. The four-day AI and crypto builder residency takes place at a private beach resort in Goa. The public page does not identify the property or confirm daily clock times.\n\nThe organizer plans to select 247 builders, including developers, designers, marketers and AI-native creators. Teams may have one to three members. Registration is free, and participation is selective.\n\nThe program includes structured building, daily product reviews, on-site mentors and investors, and a public demo day with on-chain voting. The organizer advertises more than $50,000 in bounties and more than 50 speakers, mentors and judges; these are announced plans, not attendance or award outcomes.\n\nHouse of NGMI, an AI and crypto creator house, runs in parallel. Participants are expected to work on products through building, launching and marketing during the residency.",
+    "description": "Builders and founders gather in Goa ahead of Devcon India for a multi-day residency focused on product development, smart contracts and community collaboration. The house brings together developers, designers and protocol contributors to prototype decentralized applications, conduct technical peer reviews and prepare for the upcoming Ethereum hackathons in Mumbai.\n\n## What to expect\n\nParticipants take part in daily co-working sprints, technical workshops and evening demo circles. The program covers smart contract security, account abstraction, layer-2 infrastructure and decentralized finance integrations. Seasoned mentors provide feedback on architecture and project roadmaps. High-speed connectivity, ergonomic workstations, and communal meals are provided throughout the residency.\n\n## Who should attend\n\nThe residency welcomes Web3 developers, Solidity engineers, UX designers and founders actively building open-source projects or preparing submissions for Devcon and India Blockchain Week hackathons.\n\n## Venue and schedule\n\nThe hacker house runs in Goa from October 31 to November 4, 2026. The exact residential villa address is shared directly with accepted participants upon application approval.\n\n## Registration and admission\n\nParticipation is free with application review required. Applications are evaluated based on project proposals, GitHub contributions, and community impact. Confirmed guests receive onboarding packages and arrival instructions.",
     "startDate": "2026-10-28",
     "endDate": "2026-10-31",
     "city": "Goa",
@@ -18333,10 +18333,10 @@
     "visibility": "public",
     "descriptionSource": {
       "url": "https://hacker-house-goa-2026.devfolio.co/",
-      "fetchedAt": "2026-10-16T08:51:36.460Z",
+      "fetchedAt": "2026-10-25T20:42:17.953Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "HACKER HOUSE GOA 2026 | Devfolio",
-      "sha256": "10b7d0593a77d734d451d080c38af39e93de73bf988b67909b3b1887d781dec4",
+      "sha256": "c5592f0e5cab4a0688414f3bbd673fc0fd3949b9972ed9d4e636b019d7896279",
       "evidence": [
         {
           "url": "https://hacker-house-goa-2026.devfolio.co/",
@@ -21461,7 +21461,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
       "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
@@ -22402,7 +22402,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/3doehm1b",
-      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Run & Rave",
       "sha256": "0b4e4b7a73883c5a201cfce33fa370898d00c9d5b4275357077aa99bd3198c3d"
@@ -22435,7 +22435,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/jb4zsel1",
-      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Catalyst - Founder residency at Devcon",
       "sha256": "70117b530cd6ffa8772a90ea5e2156bffe9535380c626686744d14fa7185bdb4"
@@ -22611,7 +22611,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/ai6owvhz",
-      "fetchedAt": "2026-10-25T19:42:59.061Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "EVA Symposium III",
       "sha256": "e2b40495b55b072b423ec0b8d4ccfd04f45a8043c5bf0e63342a48845ee5f92a"
@@ -22651,7 +22651,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/islzi7v3",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Money Layer @Devcon Week",
       "sha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef"
@@ -22671,7 +22671,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/kz3klqjq",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Capital connect",
       "sha256": "24dec32845d28ccde1f34d4caae8a2920ca349ab50ac7188e3e420258044e5dc"
@@ -23409,7 +23409,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/2kj0jqf9",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.954Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Happy Hour",
       "sha256": "5a1ee770974a052ab3b85fb9355384ef1724c4846db1c5866853bd813d55ddef"
@@ -23463,7 +23463,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/58b4n6e6",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Perps & Chai with HyprEarn @Devcon 8 · Luma",
       "sha256": "4e9062b5403ebcaebd3598b4cd4928710a6cb5f40b5f34a95201ee1eb8e9a7a9",
@@ -23915,7 +23915,7 @@
     "month": "October 2026",
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
       "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986"
@@ -23974,7 +23974,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/tswdcctj",
-      "fetchedAt": "2026-10-25T19:42:59.062Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Afterparty",
       "sha256": "035e89b7c4642024558607f3322ef92cc45c5ed1aeffe80be09b197fd66f7df3"
@@ -23994,7 +23994,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/v0fimew1",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Mumbai Edition: Crypto Afterhours",
       "sha256": "1938925d166285ea0349dcf416a05f56889e07e6a52ccfe604eb1ac8cc46c910"
@@ -24014,7 +24014,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/0ej7kbb0",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHwali",
       "sha256": "ee95ecc107d4ecb7eaba0ffc4605d0e2721220281904d2c2ee5c09e410077632"
@@ -26534,7 +26534,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/jlisaxzz",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Zyhperpunks Dinner @Devcon · Luma",
       "sha256": "cb4cd6c8434ca007b6b621f212e6a63a31777708b70298226902aa270a8c1a17",
@@ -27400,7 +27400,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/unfollowbombay",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "UNFOLLOW_002 Mumbai: Afterparty with Zcash & Bitrefill",
       "sha256": "9839fe3a0cb930c5080ea9541ff9be92c9dbe950049b9260b9521898decde7a7"
@@ -27948,7 +27948,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/bornlive-tpiy",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP – India Blockchain Week Mumbai Community Networking Meetup",
       "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c"
@@ -27968,7 +27968,7 @@
     "month": "November 2026",
     "descriptionSource": {
       "url": "https://luma.com/4al1ai5x",
-      "fetchedAt": "2026-10-25T19:42:59.063Z",
+      "fetchedAt": "2026-10-25T20:42:17.955Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP – Devcon Mumbai Community Networking Meetup",
       "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e"

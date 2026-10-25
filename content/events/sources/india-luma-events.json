@@ -478,7 +478,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-25T19:42:59.086Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
       "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
@@ -1310,7 +1310,7 @@
     "name": "ArbiVerse Mumbai",
     "startDate": "2026-11-02T05:00:00.000Z",
     "endDate": "2026-11-02T13:00:00.000Z",
-    "description": "Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.\n\nThe tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.",
+    "description": "Arbitrum Foundation and Aditi Chopra host ArbiVerse Mumbai on Monday, November 2, 2026, from 10:30 to 18:30 IST. The full-day developer conference explores Layer 2 scaling, Arbitrum Orbit chains, and next-generation decentralized applications.\n\n## What to expect\n\nThe summit program combines high-impact technical keynotes, workshops, and ecosystem announcements:\n- Opening keynote by Offchain Labs CEO Steven Goldfeder on the technical roadmap for Arbitrum, priority gas auctions, and fast transaction feeds.\n- In-depth workshops on building customizable Layer 3 chains using Arbitrum Orbit and Arbitrum Stylus for multi-language smart contracts in Rust and C++.\n- Developer panels examining zero-knowledge integrations, DeFi liquidity strategies, and AI agent coordination on Arbitrum One.\n- Catered networking lunch and evening social reception for attendees and ecosystem teams.\n\n## Who should attend\n\nThe conference is tailored for Solidity and Rust developers, DeFi protocol engineers, infrastructure architects, and Web3 founders looking to deploy scalable applications on Arbitrum.\n\n## Venue and schedule\n\nThe event takes place at a premium venue in Mumbai on Monday, November 2, from 10:30 to 18:30 IST. Laptops are recommended for developers participating in hands-on workshops.\n\n## Registration and admission\n\nAdmission is free and requires registration approval via Luma. Approved attendees receive confirmed ticket passes and exact venue coordinates.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/arbiverse-mumbai",
     "coverImage": "/events/india-luma-arbiverse-mumbai-cf1e6766.webp",
@@ -1351,10 +1351,10 @@
     "source": "luma-india",
     "descriptionSource": {
       "url": "https://luma.com/arbitrum-summit-mumbai",
-      "fetchedAt": "2026-10-15T14:02:54.200Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ArbiVerse Mumbai",
-      "sha256": "bc52bf04775c3d15932eba667aa991494c27b5537b6d64c5d730f11711b09e29",
+      "sha256": "f2056bc2c8c63709d8c55bb7963bc5706d3b194e0cd22d5e25a9905761bce59e",
       "evidence": [
         {
           "url": "https://luma.com/arbitrum-summit-mumbai",
@@ -1642,7 +1642,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/bornlive-tpiy",
-      "fetchedAt": "2026-10-25T19:42:59.086Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — India Blockchain Week Mumbai Community Networking Meetup · Luma",
       "sha256": "ec6e6d8c65f596a58ef5d31ff895a92885201c1453daf97b0453451c30ae4d6c",
@@ -1713,7 +1713,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/m8jxna31",
-      "fetchedAt": "2026-10-25T19:42:59.086Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Off-Chain Padel · Luma",
       "sha256": "e4b9bf4054ad857944f2b256433f8d1f7408a18427b6749b55d9048aad856159",
@@ -1783,7 +1783,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/4al1ai5x",
-      "fetchedAt": "2026-10-25T19:42:59.086Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "BORN UP — Devcon Mumbai Community Networking Meetup · Luma",
       "sha256": "b205d5ba79fa75e7d37dbf280f48ef1caf335872c4f6b6d08e45de7380fc631e",
@@ -1805,7 +1805,7 @@
     "coverImage": "/events/india-luma-86nrj6he-269a2b78.webp",
     "source": "luma-india",
     "endDate": "2026-11-04T18:00:00.000Z",
-    "description": "Orviq hosts Midweek Block Party in Mumbai on November 4, 2026. The public event schedule lists 20:00 to 23:30 IST.\n\nThis Devcon-week social event is aimed at builders, founders, creators and the wider Web3 community. The announced format is a DJ night and dance floor, with no panels or pitches.",
+    "description": "Orviq Labs presents the Midweek Block Party in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:30 IST. The evening provides a high-energy social gathering and networking celebration midway through Devcon week.\n\n## What to expect\n\nThe party offers an energetic atmosphere designed for relaxation and community connection:\n- Live DJ performances featuring house music, electronic dance tracks, and contemporary beats.\n- An expansive dance floor alongside relaxed lounge areas for casual conversations and social mingling.\n- Open bar service with craft cocktails, chilled beers, and gourmet finger foods.\n- Strictly social format with no pitch decks, formal panels, or corporate presentations.\n\n## Who should attend\n\nThe gathering warmly welcomes all Devcon attendees, hackathon hackers, founders, digital artists, and Web3 enthusiasts in Mumbai looking to unwind and connect with fellow community members.\n\n## Venue and schedule\n\nThe party takes place at an upscale nightlife and club venue in the Bandra Kurla Complex (BKC) area of Mumbai on Wednesday, November 4, running from 20:00 to 23:30 IST.\n\n## Registration and admission\n\nRegistration is free via Luma and subject to venue capacity limits. Early arrival is highly recommended as entry is handled on a first-come, first-served basis for approved badge holders.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/86nrj6he",
     "attendanceMode": "offline",
@@ -1853,10 +1853,10 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/86nrj6he",
-      "fetchedAt": "2026-10-16T08:52:09.000Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Midweek Block Party · Luma",
-      "sha256": "1f94b6b8813cf2291e6444a17ddcef4fe2f672bea8e7a2c7aa00d5c582b4ce07",
+      "sha256": "7ae9d96a101838debd1bf18e0a9ee1be8527d38424f7c02a99c51dca053cc27e",
       "evidence": [
         {
           "url": "https://luma.com/86nrj6he",
@@ -1920,7 +1920,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kfh8wkql",
-      "fetchedAt": "2026-10-25T19:42:59.086Z",
+      "fetchedAt": "2026-10-25T20:42:17.964Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "notneils' stealth founder dinner · Luma",
       "sha256": "5a004411ae64bc39c5ce1fcc80a506089a1032f1e4ecefe5e7bf2ce6cf4e930d",

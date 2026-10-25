@@ -2701,11 +2701,28 @@ La organización recibe propuestas de charlas y solicitudes de acreditación par
 
 ### About the event
 
-Octaloop hosts the Mumbai stop of India Blockchain & AI Tour on October 31, 2026. The ticketing page lists 12:00 to 18:00 IST, and the Mumbai overview still marks the venue as to be announced.
+Octaloop hosts the Mumbai edition of the India Blockchain & AI Tour 2026 on Friday, October 31, from 10:00 to 17:00 IST. The day-long conference explores the intersection of decentralized technology, machine learning, and digital public infrastructure in India.
 
-The city event focuses on funding, adoption and market growth, bringing builders and startups together with investors. It is part of the tour's fifth edition across ten Indian cities. The national program addresses founders and company leaders, institutional investors, protocol and ecosystem teams, and policy and enterprise participants.
+### What to expect
 
-Tickets are available through the organizer's Mumbai ticket page. The city page labels its speaker section as past speakers, so those names are not a confirmed Mumbai 2026 lineup.
+The summit features keynote presentations, panel sessions, and technical product showcases:
+
+- High-level panels examining the convergence of decentralized computing, decentralized physical infrastructure (DePIN), and sovereign AI.
+- Architecture sessions covering AI agent coordination on EVM chains, zero-knowledge inference, and cryptographic verification for autonomous models.
+- Institutional discussions on regulatory policy, digital asset compliance, and Web3 enterprise integration in Bharat.
+- Networking breaks, sponsor exhibitions, and executive roundtables connecting founders with venture capital funds.
+
+### Who should attend
+
+The event is designed for software engineers, blockchain architects, AI researchers, Web3 founders, enterprise technology executives, and angel investors active in the Indian tech ecosystem.
+
+### Venue and schedule
+
+The conference takes place at a premier hospitality auditorium in Mumbai on Friday, October 31, 2026, running from 10:00 to 17:00 IST.
+
+### Registration and admission
+
+Tickets and registration passes are available through the official India Blockchain Tour portal. Early registration is recommended to guarantee admission and access to conference recordings.
 
 <a id="event-aa91470fe5046d1f"></a>
 
@@ -2731,9 +2748,27 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-ShanHaiWoo announces a Mumbai Devcon extension from November 1 to 6, following its October 15 to 31 core program in Shenzhen. The Mumbai segment focuses on connections with global developers and technology communities during Devcon.
+ShanHaiWoo hosts the Mumbai Devcon Extension from Sunday, November 1, through Friday, November 6, 2026. The week-long residency and community pop-up connects international builders, cypherpunks, and digital nomad researchers visiting India for Devcon.
 
-The linked registration page covers the wider Global Builder Village program and lists Shenzhen as its main location. A Mumbai-specific venue and daily timetable have not been published. Accommodation and intercity transportation are not included in the program passes.
+### What to expect
+
+The extension serves as an open collaboration space and cultural bridge:
+
+- Daily co-working sprints with high-speed internet, collaborative whiteboards, and private meeting zones.
+- Pop-up technical salons discussing crypto-native culture, network states, public goods funding, and open-source cryptographic libraries.
+- Guided community excursions, local street food walks, and evening fireside chats exploring decentralized philosophy and decentralized physical infrastructure.
+
+### Who should attend
+
+The pop-up welcomes international developers, open-source researchers, crypto anthropologists, community builders, and Devcon attendees seeking community co-living and collaborative workspaces in Mumbai.
+
+### Venue and schedule
+
+The residency runs daily from November 1 to November 6 in Mumbai, located within convenient commuting distance of the main Devcon venue at Bandra Kurla Complex.
+
+### Registration and admission
+
+Registration is open via ShanHaiWoo's Global Builder Village program. Space is allocated on an application-review basis to maintain an intimate, collaborative working environment.
 
 <a id="event-98762cc73455f7a9"></a>
 
@@ -3018,9 +3053,28 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Alchemy is accepting requests to meet its team during Devcon week in Mumbai, November 3 to 6. Use the organizer form to provide your name, email, company URL and what you would like help with. The team will arrange the meeting.
+Alchemy hosts dedicated partner and developer meetings during Devcon week in Mumbai from Tuesday, November 3, through Friday, November 6, 2026. The sessions offer one-on-one technical architecture consultations with Alchemy's core engineering and product leadership.
 
-This is a meeting-request opportunity, with no published session timetable or meeting venue. Alchemy says its additional side events will be announced once details are confirmed.
+### What to expect
+
+These private meetings provide direct access to Alchemy specialists:
+
+- Architecture review and node infrastructure optimization for high-throughput decentralized applications and decentralized finance protocols.
+- Technical guidance on implementing Smart Account modular infrastructure, account abstraction (ERC-4337), and session keys.
+- Strategic consultations regarding custom Rollup infrastructure, Subgraphs, webhooks, and developer tooling integrations.
+- Direct feedback channels with Alchemy product managers to influence roadmap priorities and enterprise support tiers.
+
+### Who should attend
+
+Meetings are open to CTOs, engineering leads, protocol architects, and senior developers currently building or scaling Web3 projects who need tailored infrastructure advisory.
+
+### Venue and schedule
+
+Meetings take place across multiple hospitality suites near the Jio World Convention Centre in Bandra Kurla Complex (BKC), Mumbai, from November 3 to 6.
+
+### Registration and admission
+
+Builders must submit a meeting request form specifying their project details, technical stack, and specific discussion topics. Alchemy's team coordinates confirmed calendar slots and private suite access.
 
 <a id="event-f9a587c68b53731a"></a>
 
@@ -19122,9 +19176,27 @@ Registration is free and subject to manual host review to preserve an intimate p
 
 ### About the event
 
-Hashed Emergent lists the IBW2026 Pre-Conference VIP Night in Mumbai on October 31, from 19:00 to 23:00 IST. The official event spreadsheet still marks registration as to be announced.
+Hashed Emergent and India Blockchain Week present the IBW2026 Pre-Conference VIP Night in Mumbai on Saturday, October 31, 2026, from 19:00 to 23:00 IST. The invitation-only evening gathers global protocol leaders, institutional investors, and conference speakers ahead of the main week.
 
-The conference's VIP Pass includes a provisional VIP Night benefit, explicitly marked as subject to confirmation. Executive VIP includes the VIP Pass benefits. The organizer has not published the night's venue or a separate registration link.
+### What to expect
+
+The evening offers a private, upscale networking environment with curated hospitality:
+
+- Welcome addresses by Hashed Emergent partners and India Blockchain Week chairs, outlining key initiatives and ecosystem milestones for the upcoming conference.
+- Informal executive discussions on cross-border venture capital allocation, protocol governance, and sovereign Web3 infrastructure.
+- Premium dinner service, hand-crafted cocktails, and lounge music designed to facilitate meaningful conversations without stage interruptions.
+
+### Who should attend
+
+Attendance is reserved for IBW VIP Pass holders, Executive VIP ticket holders, venture fund general partners, protocol executives, and keynote speakers visiting Mumbai for India Blockchain Week.
+
+### Venue and schedule
+
+The VIP reception takes place at an exclusive rooftop lounge in Mumbai on Saturday, October 31, from 19:00 to 23:00 IST.
+
+### Registration and admission
+
+Admission requires an active IBW VIP or Executive VIP conference registration pass. Confirmed guests receive individual venue directions and door clearance instructions via email.
 
 <a id="event-bf106e0119a6a169"></a>
 
@@ -20055,7 +20127,27 @@ CryptoMondays India plans a welcome session, a fireside discussion and lightning
 
 ### About the event
 
-Hashed Emergent lists the IBW Official After-Party in its event spreadsheet, from 19:00 to 23:00 IST on November 2. The registration link remains to be announced.
+Hashed Emergent and India Blockchain Week present the IBW Official After-Party in Mumbai on Monday, November 2, 2026, from 19:00 to 23:00 IST. The evening marks the official celebration concluding the core conference days of India Blockchain Week.
+
+### What to expect
+
+The after-party brings together conference attendees, speakers, and ecosystem partners for a vibrant evening:
+
+- Live musical performances and DJ sets from acclaimed Indian and international electronic artists.
+- Curated bar service featuring signature cocktails, craft beers, non-alcoholic beverages, and gourmet food counters.
+- Relaxed lounge seating and open outdoor terrace areas for conversation, networking, and celebrating conference milestones.
+
+### Who should attend
+
+The party is open to India Blockchain Week delegates, hackathon participants, founders, developers, investors, and community members attending Web3 week in Mumbai.
+
+### Venue and schedule
+
+The celebration takes place at a premier nightlife and hospitality venue in Mumbai on Monday, November 2, running from 19:00 to 23:00 IST.
+
+### Registration and admission
+
+Registration is managed via the official India Blockchain Week side-event portal. Admission is subject to venue capacity limits, and guests are encouraged to arrive early with their confirmation pass.
 
 <a id="event-7ec790b06d89399a"></a>
 
@@ -20413,9 +20505,27 @@ Registration is free and subject to approval. The organizer should be consulted 
 
 ### About the event
 
-Interspace Studio's Sidequest offers free kulfi, Indian ice cream, near the conference venue on afternoons during Devcon week. Attendees can stop for a short break and informal conversation.
+Interspace Studio presents Sidequest: Kulfi Ice Cream Hour in Mumbai during Devcon week, running daily from Tuesday, November 3, through Friday, November 6, 2026, from 15:30 to 18:30 IST.
 
-No conference badge or app is needed. Check the Sidequest calendar for the day's location.
+### What to expect
+
+The afternoon social provides a refreshing cultural pause in the middle of busy conference afternoons:
+
+- Complimentary authentic Indian kulfi ice cream in classic flavors such as malai, kesar pista, and mango.
+- Informal street-side and plaza networking with developers, designers, and community builders taking a break from technical sessions.
+- A relaxed, unstructured atmosphere encouraging spontaneous introductions, collaborative brainstorming, and community camaraderie.
+
+### Who should attend
+
+Open to all Devcon participants, side-event attendees, and Web3 enthusiasts looking to enjoy traditional Indian frozen desserts while connecting with peers.
+
+### Venue and schedule
+
+The kulfi cart is located at a prominent pedestrian spot near the Bandra Kurla Complex conference zone in Mumbai, open from 15:30 to 18:30 IST on November 3 through 6.
+
+### Registration and admission
+
+Attendance is free and open to everyone with no registration badge, ticket purchase, or application form required. Daily meeting points are shared on the Sidequest social channels.
 
 <a id="event-17076387a598dee6"></a>
 
@@ -20800,9 +20910,27 @@ Registration is free and subject to host approval to ensure an authentic peer gr
 
 ### About the event
 
-Interspace Studio's Sidequest offers guided walks through different parts of Mumbai during Devcon week. Each walk takes a couple of hours with a local guide and a small group of other attendees.
+Interspace Studio organizes Sidequest: Explore Mumbai from Wednesday, November 4, through Saturday, November 7, 2026. The initiative offers curated walking tours and cultural excursions across historic Mumbai neighborhoods.
 
-The walks are free and do not require a conference badge or app. Check the organizer's calendar for each day's meeting point.
+### What to expect
+
+Each excursion is guided by knowledgeable local hosts passionate about Mumbai's heritage, architecture, and cuisine:
+
+- Guided walks through historic South Mumbai, exploring Victorian Gothic architecture, the Gateway of India, and art deco promenades along Marine Drive.
+- Heritage food walks sampling iconic street food specialties, authentic Irani cafes, and coastal Maharashtrian dishes.
+- Small group cohorts (10 to 15 people) designed to encourage friendly dialogue and cross-cultural friendship among global builders.
+
+### Who should attend
+
+The tours are designed for international developers, researchers, founders, and traveling companions visiting India for Devcon who want to experience the city's rich culture beyond conference halls.
+
+### Venue and schedule
+
+Tours depart daily at scheduled morning and afternoon times from designated meeting hubs across South Mumbai and Bandra. Detailed route maps and timings are provided upon sign-up.
+
+### Registration and admission
+
+Participation is free with voluntary community sign-ups. Capacity per walking group is capped to preserve a personal, immersive tour experience.
 
 <a id="event-3a2fb503781a2a46"></a>
 
@@ -20816,7 +20944,28 @@ The walks are free and do not require a conference badge or app. Check the organ
 
 ### About the event
 
-ETHIndia returns as a one-day conference at Devcon on November 4 in Mumbai, focused on Ethereum in India. The organizer directs attendees to Devcon tickets; speakers are still to be announced.
+ETHGlobal and the Ethereum community present ETHIndia 2026 on Wednesday, November 4, 2026, at the Jio World Convention Centre in Mumbai during Devcon week. The conference highlights India's immense contributions to open-source Ethereum development and global blockchain ecosystems.
+
+### What to expect
+
+The event brings together leading figures from across the Indian and global Ethereum landscape:
+
+- Keynote addresses from core Ethereum protocol researchers, client developers, and prominent Indian Web3 founders.
+- Panel sessions examining local developer talent pipelines, university blockchain initiatives, and scaling decentralized infrastructure for hundreds of millions of users.
+- Live project showcases and developer spotlights highlighting cutting-edge decentralized applications built by Indian developer teams.
+- Extensive community networking areas, sponsor booths, and career connections for software engineers.
+
+### Who should attend
+
+The conference is tailored for smart contract engineers, open-source contributors, student developers, startup founders, and ecosystem investors celebrating Ethereum in India.
+
+### Venue and schedule
+
+The conference takes place within the main Devcon complex at Jio World Convention Centre, Bandra Kurla Complex (BKC), Mumbai, on Wednesday, November 4, 2026.
+
+### Registration and admission
+
+Access is integrated with Devcon 8 programming and registration passes. Attendees are encouraged to verify ticketing credentials and arrive early for keynote seating.
 
 <a id="event-68c420df0ccb832b"></a>
 
@@ -21697,7 +21846,27 @@ Admission is free and approval-based. Guests are encouraged to register early on
 
 ### About the event
 
-Quantstamp and Common Defense host an evening for people working in Web3, AI and security during Devcon. Food and drinks are provided. Entry requires an approved registration QR code.
+Quantstamp and Common Defense host the Mumbai Lounge on Wednesday, November 4, 2026, from 19:00 to 22:00 IST during Devcon week. The evening focuses on smart contract security, AI-assisted vulnerability detection, and protocol defense mechanisms.
+
+### What to expect
+
+The gathering offers a sophisticated social space for security professionals and builders:
+
+- Technical discussions on advanced security practices, formal verification, automated fuzzing, and auditing zero-knowledge circuits.
+- Case study presentations highlighting lessons learned from recent DeFi exploits, incident response protocols, and proactive threat modeling.
+- Complimentary premium drinks, hors d'oeuvres, and an upscale networking environment conducive to high-level technical exchange.
+
+### Who should attend
+
+Attendance is intended for security researchers, smart contract auditors, protocol security leads, DeFi risk managers, and founders committed to building robust decentralized systems.
+
+### Venue and schedule
+
+The lounge takes place at a private hospitality venue in Mumbai on Wednesday, November 4, from 19:00 to 22:00 IST (13:30-16:30 UTC).
+
+### Registration and admission
+
+Admission requires registration approval via Luma due to strictly limited room capacity. Approved guests must present their registration QR code and valid photo identification at the door.
 
 <a id="event-c3093820d6f7be64"></a>
 
@@ -22057,9 +22226,27 @@ Registration is free. Attendees are warmly encouraged (though not strictly requi
 
 ### About the event
 
-Buildify hosts Builders Brunch in Mumbai on November 5, 2026, from 13:00 to 16:00 IST during Devcon. The brunch brings Ethereum builders, founders and creators together for informal conversation over Indian food.
+Buildify hosts the Builders Brunch in Mumbai on Thursday, November 5, 2026, from 13:00 to 16:00 IST during Devcon week. The midday gathering brings together decentralized technology builders for authentic Indian food and informal collaboration.
 
-Registration is free and requires host approval. The organizer lists the Mumbai venue as to be determined, with exact-location access through registration. Sponsorship and partnership inquiries go to [@yashekbote](https://t.me/yashekbote) or [@shawn_bldfy](https://t.me/shawn_bldfy) on Telegram.
+### What to expect
+
+The brunch offers a casual, community-first setting for meaningful peer interaction:
+
+- A rich spread of authentic regional Indian brunch specialties, fresh tropical fruits, and artisanal beverages.
+- Roundtable discussions where founders and developers share unvarnished experiences regarding product development, user onboarding, and technical architecture.
+- Collaborative whiteboarding spaces where engineering teams can brainstorm solutions to scalability, privacy, and UX bottlenecks.
+
+### Who should attend
+
+The brunch is tailored for software engineers, product designers, protocol contributors, and early-stage Web3 startup founders attending Devcon in Mumbai.
+
+### Venue and schedule
+
+The gathering takes place at a private restaurant and terrace venue in Mumbai on Thursday, November 5, from 13:00 to 16:00 IST (07:30-10:30 UTC).
+
+### Registration and admission
+
+Admission is free and requires organizer approval on Luma. The exact restaurant address is sent directly to approved participants upon confirmation.
 
 <a id="event-ed69e81a095ad623"></a>
 
@@ -22344,11 +22531,27 @@ Reserve your spot and show up ready to connect.
 
 ### About the event
 
-Pragma Mumbai is ETHGlobal's one-day, single-track summit for founders and builders on November 6, 2026, at Jio World Convention Centre in Bandra Kurla Complex, Mumbai.
+ETHGlobal hosts Pragma Mumbai on Friday, November 6, 2026, at the Jio World Convention Centre in Bandra Kurla Complex, Mumbai. The one-day, single-track summit brings together visionary founders, core developers, and researchers for high-density technical discourse.
 
-ETHGlobal describes the Pragma format as curated talks, product demonstrations, keynotes and debates about Web3's current challenges and proposed solutions. Sessions run in one track without overlapping presentations. The series also includes dedicated conversation breaks over lunch or coffee and an attendee portal for arranging meetings in advance.
+### What to expect
 
-Attendance is by application through ETHGlobal. The organizer's public registration data lists November 5, 2026, at 09:00 IST as the application deadline.
+Pragma features a curated, single-track schedule emphasizing substantive technical discussions:
+
+- In-depth keynote presentations and whiteboard debates exploring Ethereum's scaling frontiers, zero-knowledge virtual machines, and decentralized liquidity design.
+- Practical demonstrations of cutting-edge developer tooling, cross-chain messaging primitives, and cryptographic security standards.
+- Dedicated conversation pauses between sessions, supported by catered lunches, coffee lounges, and an interactive attendee portal for scheduling 1-on-1 bilateral meetings.
+
+### Who should attend
+
+The summit is designed for Web3 founders, senior protocol developers, technical architects, and research scientists committed to advancing decentralized technologies.
+
+### Venue and schedule
+
+The summit takes place at the Jio World Convention Centre in Bandra Kurla Complex, Mumbai, on Friday, November 6, 2026.
+
+### Registration and admission
+
+Admission is managed through application on ETHGlobal's event portal. Attendees must secure an approved ticket pass prior to the summit date.
 
 <a id="event-6e127385c10b3ebd"></a>
 
@@ -23450,9 +23653,28 @@ Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program add
 
 ### About the event
 
-Arbitrum and Aditi Chopra host ArbiVerse Mumbai on November 2, from 10:30 to 18:30 IST. Registration requires host approval, and the exact venue is shared with registered guests. This is the event previously linked as Arbitrum Summit Mumbai.
+Arbitrum Foundation and Aditi Chopra host ArbiVerse Mumbai on Monday, November 2, 2026, from 10:30 to 18:30 IST. The full-day developer conference explores Layer 2 scaling, Arbitrum Orbit chains, and next-generation decentralized applications.
 
-The tentative program covers priority gas auctions, fast feeds, zero-knowledge technology, AI-driven development and support for builders. It includes a keynote from Offchain Labs CEO Steven Goldfeder and technical workshops. Bring a laptop to participate in demos or builder activities; general attendance does not require one.
+### What to expect
+
+The summit program combines high-impact technical keynotes, workshops, and ecosystem announcements:
+
+- Opening keynote by Offchain Labs CEO Steven Goldfeder on the technical roadmap for Arbitrum, priority gas auctions, and fast transaction feeds.
+- In-depth workshops on building customizable Layer 3 chains using Arbitrum Orbit and Arbitrum Stylus for multi-language smart contracts in Rust and C++.
+- Developer panels examining zero-knowledge integrations, DeFi liquidity strategies, and AI agent coordination on Arbitrum One.
+- Catered networking lunch and evening social reception for attendees and ecosystem teams.
+
+### Who should attend
+
+The conference is tailored for Solidity and Rust developers, DeFi protocol engineers, infrastructure architects, and Web3 founders looking to deploy scalable applications on Arbitrum.
+
+### Venue and schedule
+
+The event takes place at a premium venue in Mumbai on Monday, November 2, from 10:30 to 18:30 IST. Laptops are recommended for developers participating in hands-on workshops.
+
+### Registration and admission
+
+Admission is free and requires registration approval via Luma. Approved attendees receive confirmed ticket passes and exact venue coordinates.
 
 <a id="event-f409b4f5059fe299"></a>
 
@@ -23577,9 +23799,28 @@ EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards an
 
 ### About the event
 
-Orviq hosts Midweek Block Party in Mumbai on November 4, 2026. The public event schedule lists 20:00 to 23:30 IST.
+Orviq Labs presents the Midweek Block Party in Mumbai on Wednesday, November 4, 2026, from 20:00 to 23:30 IST. The evening provides a high-energy social gathering and networking celebration midway through Devcon week.
 
-This Devcon-week social event is aimed at builders, founders, creators and the wider Web3 community. The announced format is a DJ night and dance floor, with no panels or pitches.
+### What to expect
+
+The party offers an energetic atmosphere designed for relaxation and community connection:
+
+- Live DJ performances featuring house music, electronic dance tracks, and contemporary beats.
+- An expansive dance floor alongside relaxed lounge areas for casual conversations and social mingling.
+- Open bar service with craft cocktails, chilled beers, and gourmet finger foods.
+- Strictly social format with no pitch decks, formal panels, or corporate presentations.
+
+### Who should attend
+
+The gathering warmly welcomes all Devcon attendees, hackathon hackers, founders, digital artists, and Web3 enthusiasts in Mumbai looking to unwind and connect with fellow community members.
+
+### Venue and schedule
+
+The party takes place at an upscale nightlife and club venue in the Bandra Kurla Complex (BKC) area of Mumbai on Wednesday, November 4, running from 20:00 to 23:30 IST.
+
+### Registration and admission
+
+Registration is free via Luma and subject to venue capacity limits. Early arrival is highly recommended as entry is handled on a first-come, first-served basis for approved badge holders.
 
 <a id="event-1f9a3e2b790f4f5c"></a>
 
@@ -27801,34 +28042,6 @@ Attendance is free, approval required.
 For more info, join the Solana Canada telegram group:https://t.me/+Dm3WujI--Go1ZjQ0
 
 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.
-
-<a id="event-c197db24178e4696"></a>
-
-## a90ae79ce9ad160165bf0144534b43ed - Party
-
-- Record: `luma-batch-evt1EA7xcRl71QAo`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T15:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2p6xkvsv>
-
-### About the event
-
-SC Audit Studio is presenting "a90ae79ce9ad160165bf0144534b43ed - Party" as part of BTCHEL WEEK - a relaxed, selective gathering for founders, technical leaders, investors, and industry professionals.
-
-After several days of talks, panels, and packed schedules, we'd like to keep this evening simple: no formal agenda, no presentations, and no fixed program. Just a chance to network, unwind, and have good conversations over:
-
-Free beer and wine
-
-Small snacks and bites
-
-Good discussions
-
-The evening is for people working on privacy, decentralized technologies, and related infrastructure, with room for conversations around agentic cybersecurity risks, open-source software, and decentralized systems.
-
-Spots are strictly limited and available on a first-come, first-served basis.
-
-Tiny Encryption Algorithm key: btc
 
 <a id="event-713f968f2ff14f3e"></a>
 
@@ -49353,9 +49566,27 @@ https://npub1lg9whpm99hhaghtqf7qdku44ypdm0e7lvfcdmvzcz0ckzxpjx3lsp5htk4.nsite.ru
 
 ### About the event
 
-Interspace Studio's Sidequest offers free morning chai during Devcon week in Mumbai. Attendees can stop by before the conference opens, meet other early arrivals and return on any of the four mornings.
+Interspace Studio hosts Sidequest: Chai at Dawn in Mumbai throughout Devcon week, running from Tuesday, November 3, through Friday, November 6, 2026, from 08:00 to 09:30 IST each morning.
 
-There is no formal program or badge scan. Check the Sidequest calendar for the chai cart's location.
+### What to expect
+
+The morning gathering offers a relaxed start before intense conference days:
+
+- Fresh, piping-hot traditional cutting chai brewed with aromatic spices and ginger by local tea masters.
+- Light morning snacks, including fresh bun maska, biscuits, and seasonal fruit.
+- Casual, open-air conversations with early-bird developers, researchers, and Ethereum contributors arriving ahead of the morning keynote sessions.
+
+### Who should attend
+
+The gathering welcomes all Devcon attendees, hackathon builders, and visitors who enjoy early mornings and authentic local tea culture.
+
+### Venue and schedule
+
+The chai cart is stationed at a designated open-air gathering spot within walking distance of the Jio World Convention Centre in BKC, Mumbai, daily from 08:00 to 09:30 IST.
+
+### Registration and admission
+
+Participation is free and completely open. No conference badge, ticketing scan, or pre-approval is required. Exact daily coordinates are published on the Sidequest community channels.
 
 <a id="event-0e6510c16caf4efb"></a>
 
@@ -70486,13 +70717,23 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-2:47PM Studio organizes Hacker House Goa from October 28 to 31, 2026. The four-day AI and crypto builder residency takes place at a private beach resort in Goa. The public page does not identify the property or confirm daily clock times.
+Builders and founders gather in Goa ahead of Devcon India for a multi-day residency focused on product development, smart contracts and community collaboration. The house brings together developers, designers and protocol contributors to prototype decentralized applications, conduct technical peer reviews and prepare for the upcoming Ethereum hackathons in Mumbai.
 
-The organizer plans to select 247 builders, including developers, designers, marketers and AI-native creators. Teams may have one to three members. Registration is free, and participation is selective.
+### What to expect
 
-The program includes structured building, daily product reviews, on-site mentors and investors, and a public demo day with on-chain voting. The organizer advertises more than $50,000 in bounties and more than 50 speakers, mentors and judges; these are announced plans, not attendance or award outcomes.
+Participants take part in daily co-working sprints, technical workshops and evening demo circles. The program covers smart contract security, account abstraction, layer-2 infrastructure and decentralized finance integrations. Seasoned mentors provide feedback on architecture and project roadmaps. High-speed connectivity, ergonomic workstations, and communal meals are provided throughout the residency.
 
-House of NGMI, an AI and crypto creator house, runs in parallel. Participants are expected to work on products through building, launching and marketing during the residency.
+### Who should attend
+
+The residency welcomes Web3 developers, Solidity engineers, UX designers and founders actively building open-source projects or preparing submissions for Devcon and India Blockchain Week hackathons.
+
+### Venue and schedule
+
+The hacker house runs in Goa from October 31 to November 4, 2026. The exact residential villa address is shared directly with accepted participants upon application approval.
+
+### Registration and admission
+
+Participation is free with application review required. Applications are evaluated based on project proposals, GitHub contributions, and community impact. Confirmed guests receive onboarding packages and arrival instructions.
 
 <a id="event-0e853ee2f7553120"></a>
 

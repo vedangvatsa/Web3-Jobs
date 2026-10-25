@@ -49,7 +49,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ndrr1yqe",
-      "fetchedAt": "2026-10-25T19:42:59.035Z",
+      "fetchedAt": "2026-10-25T20:42:17.790Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MIP-20: Road to Devcon",
       "sha256": "53ce925909239b74eb4748a85582657575428accdce1b94c0c03d66653a80986",
@@ -65,7 +65,7 @@
   {
     "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
     "name": "IBW2026 Pre-Conference VIP Night",
-    "description": "Hashed Emergent lists a pre-conference VIP night in the official India Blockchain Week spreadsheet, from 19:00 to 23:00 IST on October 31. A registration link and venue have not been announced.",
+    "description": "Hashed Emergent and India Blockchain Week present the IBW2026 Pre-Conference VIP Night in Mumbai on Saturday, October 31, 2026, from 19:00 to 23:00 IST. The invitation-only evening gathers global protocol leaders, institutional investors, and conference speakers ahead of the main week.\n\n## What to expect\n\nThe evening offers a private, upscale networking environment with curated hospitality:\n- Welcome addresses by Hashed Emergent partners and India Blockchain Week chairs, outlining key initiatives and ecosystem milestones for the upcoming conference.\n- Informal executive discussions on cross-border venture capital allocation, protocol governance, and sovereign Web3 infrastructure.\n- Premium dinner service, hand-crafted cocktails, and lounge music designed to facilitate meaningful conversations without stage interruptions.\n\n## Who should attend\n\nAttendance is reserved for IBW VIP Pass holders, Executive VIP ticket holders, venture fund general partners, protocol executives, and keynote speakers visiting Mumbai for India Blockchain Week.\n\n## Venue and schedule\n\nThe VIP reception takes place at an exclusive rooftop lounge in Mumbai on Saturday, October 31, from 19:00 to 23:00 IST.\n\n## Registration and admission\n\nAdmission requires an active IBW VIP or Executive VIP conference registration pass. Confirmed guests receive individual venue directions and door clearance instructions via email.",
     "startDate": "2026-10-31T19:00:00+05:30",
     "endDate": "2026-10-31T23:00:00+05:30",
     "city": "Mumbai",
@@ -80,10 +80,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-      "fetchedAt": "2026-10-11T18:39:10.524Z",
+      "fetchedAt": "2026-10-25T20:42:17.791Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain Week (IBW) 2026 Events",
-      "sha256": "5defd6a9c1b16f102ec1f99385fc7cfc425e6735c07b3fcde6813e25544938c5",
+      "sha256": "9c07d1d6d0a4a7fb3e079e23e9ba9300517bf552b3661107f1eccebae5afc831",
       "evidence": [
         {
           "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
@@ -536,7 +536,7 @@
   {
     "id": "ibw-official-ibw-official-after-party-11-02",
     "name": "IBW Official After-Party",
-    "description": "Hashed Emergent lists the IBW Official After-Party in its event spreadsheet, from 19:00 to 23:00 IST on November 2. The registration link remains to be announced.",
+    "description": "Hashed Emergent and India Blockchain Week present the IBW Official After-Party in Mumbai on Monday, November 2, 2026, from 19:00 to 23:00 IST. The evening marks the official celebration concluding the core conference days of India Blockchain Week.\n\n## What to expect\n\nThe after-party brings together conference attendees, speakers, and ecosystem partners for a vibrant evening:\n- Live musical performances and DJ sets from acclaimed Indian and international electronic artists.\n- Curated bar service featuring signature cocktails, craft beers, non-alcoholic beverages, and gourmet food counters.\n- Relaxed lounge seating and open outdoor terrace areas for conversation, networking, and celebrating conference milestones.\n\n## Who should attend\n\nThe party is open to India Blockchain Week delegates, hackathon participants, founders, developers, investors, and community members attending Web3 week in Mumbai.\n\n## Venue and schedule\n\nThe celebration takes place at a premier nightlife and hospitality venue in Mumbai on Monday, November 2, running from 19:00 to 23:00 IST.\n\n## Registration and admission\n\nRegistration is managed via the official India Blockchain Week side-event portal. Admission is subject to venue capacity limits, and guests are encouraged to arrive early with their confirmation pass.",
     "startDate": "2026-11-02T19:00:00+05:30",
     "endDate": "2026-11-02T23:00:00+05:30",
     "city": "Mumbai",
@@ -551,10 +551,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
-      "fetchedAt": "2026-10-11T18:39:10.524Z",
+      "fetchedAt": "2026-10-25T20:42:17.791Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain Week (IBW) 2026 Events",
-      "sha256": "d5ccb4ced3b568312022e1fd59bb556e74b2e646e07bc11a45088d045b1effef",
+      "sha256": "21148190ffb23b480cb03dd3a0c3f222ecae51528ca0c9d47fd0a3d9abba2010",
       "evidence": [
         {
           "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
@@ -897,7 +897,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/1cnairat",
-      "fetchedAt": "2026-10-25T19:42:59.037Z",
+      "fetchedAt": "2026-10-25T20:42:17.791Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Afterhours Mixer: Mumbai",
       "sha256": "c885e5180d695d16d8b7edf5217cda0bb1795425feb9cfd88177ad05173acbcc",
@@ -913,7 +913,7 @@
   {
     "id": "ibw-official-pragma-mumbai-11-05",
     "name": "Pragma Mumbai",
-    "description": "ETHGlobal hosts Pragma Mumbai on November 6 at Jio World Convention Centre. The summit brings founders and builders together for talks and discussions, with no parallel sessions. Clock times have not been verified.",
+    "description": "ETHGlobal hosts Pragma Mumbai on Friday, November 6, 2026, at the Jio World Convention Centre in Bandra Kurla Complex, Mumbai. The one-day, single-track summit brings together visionary founders, core developers, and researchers for high-density technical discourse.\n\n## What to expect\n\nPragma features a curated, single-track schedule emphasizing substantive technical discussions:\n- In-depth keynote presentations and whiteboard debates exploring Ethereum's scaling frontiers, zero-knowledge virtual machines, and decentralized liquidity design.\n- Practical demonstrations of cutting-edge developer tooling, cross-chain messaging primitives, and cryptographic security standards.\n- Dedicated conversation pauses between sessions, supported by catered lunches, coffee lounges, and an interactive attendee portal for scheduling 1-on-1 bilateral meetings.\n\n## Who should attend\n\nThe summit is designed for Web3 founders, senior protocol developers, technical architects, and research scientists committed to advancing decentralized technologies.\n\n## Venue and schedule\n\nThe summit takes place at the Jio World Convention Centre in Bandra Kurla Complex, Mumbai, on Friday, November 6, 2026.\n\n## Registration and admission\n\nAdmission is managed through application on ETHGlobal's event portal. Attendees must secure an approved ticket pass prior to the summit date.",
     "startDate": "2026-11-06",
     "endDate": "2026-11-06",
     "city": "Mumbai",
@@ -929,10 +929,10 @@
     "source": "ibw-official",
     "descriptionSource": {
       "url": "https://ethglobal.com/events/pragma-mumbai",
-      "fetchedAt": "2026-10-11T18:39:08.061Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Pragma Mumbai",
-      "sha256": "ae22132ae1320bcf1b2dc54817820b5594a40f3e5d435d818a20e814ad052bf6",
+      "sha256": "232e7c102b5c303db38108a479b2035ac9a2c6d59cda2136b6bf38e7fec696a5",
       "evidence": [
         {
           "url": "https://ethglobal.com/events/pragma-mumbai",
@@ -1089,7 +1089,7 @@
     "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
     "slug": "quantstamp-mumbai-lounge",
     "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
-    "description": "Quantstamp and Common Defense host an evening for people working in Web3, AI and security during Devcon. Food and drinks are provided. Entry requires an approved registration QR code.",
+    "description": "Quantstamp and Common Defense host the Mumbai Lounge on Wednesday, November 4, 2026, from 19:00 to 22:00 IST during Devcon week. The evening focuses on smart contract security, AI-assisted vulnerability detection, and protocol defense mechanisms.\n\n## What to expect\n\nThe gathering offers a sophisticated social space for security professionals and builders:\n- Technical discussions on advanced security practices, formal verification, automated fuzzing, and auditing zero-knowledge circuits.\n- Case study presentations highlighting lessons learned from recent DeFi exploits, incident response protocols, and proactive threat modeling.\n- Complimentary premium drinks, hors d'oeuvres, and an upscale networking environment conducive to high-level technical exchange.\n\n## Who should attend\n\nAttendance is intended for security researchers, smart contract auditors, protocol security leads, DeFi risk managers, and founders committed to building robust decentralized systems.\n\n## Venue and schedule\n\nThe lounge takes place at a private hospitality venue in Mumbai on Wednesday, November 4, from 19:00 to 22:00 IST (13:30-16:30 UTC).\n\n## Registration and admission\n\nAdmission requires registration approval via Luma due to strictly limited room capacity. Approved guests must present their registration QR code and valid photo identification at the door.",
     "startDate": "2026-11-04T13:30:00.000Z",
     "endDate": "2026-11-04T16:30:00.000Z",
     "city": "Mumbai",
@@ -1135,10 +1135,10 @@
     "registrationAvailability": "open",
     "descriptionSource": {
       "url": "https://luma.com/80bnxbwi",
-      "fetchedAt": "2026-10-11T18:39:00.318Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026",
-      "sha256": "82d7a7243d1d602a44487422b71e826019efbe100d42732d0db228dc6977494d",
+      "sha256": "3aed6868d8685d3d2fc3916fe6cdc1690004f1c331fb6901bd0087ff1bcbabee",
       "evidence": [
         {
           "url": "https://luma.com/80bnxbwi",
@@ -1284,7 +1284,7 @@
     "id": "india-luma-nyw6qigp",
     "slug": "nyw6qigp",
     "name": "Sidequest: Kulfi Ice Cream Hour",
-    "description": "Sidequest offers free kulfi near the conference venue on afternoons during Devcon week. Attendees can stop for ice cream and informal conversation.",
+    "description": "Interspace Studio presents Sidequest: Kulfi Ice Cream Hour in Mumbai during Devcon week, running daily from Tuesday, November 3, through Friday, November 6, 2026, from 15:30 to 18:30 IST.\n\n## What to expect\n\nThe afternoon social provides a refreshing cultural pause in the middle of busy conference afternoons:\n- Complimentary authentic Indian kulfi ice cream in classic flavors such as malai, kesar pista, and mango.\n- Informal street-side and plaza networking with developers, designers, and community builders taking a break from technical sessions.\n- A relaxed, unstructured atmosphere encouraging spontaneous introductions, collaborative brainstorming, and community camaraderie.\n\n## Who should attend\n\nOpen to all Devcon participants, side-event attendees, and Web3 enthusiasts looking to enjoy traditional Indian frozen desserts while connecting with peers.\n\n## Venue and schedule\n\nThe kulfi cart is located at a prominent pedestrian spot near the Bandra Kurla Complex conference zone in Mumbai, open from 15:30 to 18:30 IST on November 3 through 6.\n\n## Registration and admission\n\nAttendance is free and open to everyone with no registration badge, ticket purchase, or application form required. Daily meeting points are shared on the Sidequest social channels.",
     "startDate": "2026-11-03T10:00:00.000Z",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/nyw6qigp",
@@ -1333,10 +1333,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/nyw6qigp",
-      "fetchedAt": "2026-10-11T18:38:39.353Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Kulfi Ice Cream Hour",
-      "sha256": "1325b261fbb1e71695df4ed0a16f06d40fc40c05c4baece408cad108b861fd1f",
+      "sha256": "105e78af180e7490a0bac4fc4ae8ab3d6bbcacb251316bbf01338571e60b6a15",
       "evidence": [
         {
           "url": "https://luma.com/nyw6qigp",
@@ -1403,7 +1403,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/2kj0jqf9",
-      "fetchedAt": "2026-10-25T19:42:59.037Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Happy Hour",
       "sha256": "5a1ee770974a052ab3b85fb9355384ef1724c4846db1c5866853bd813d55ddef",
@@ -1460,7 +1460,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/uqmzpq5k",
-      "fetchedAt": "2026-10-25T19:42:59.038Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Fluid at Mumbai | Smart Liquidity",
       "sha256": "409afdead0b2ea68f53d2e2530e63fd4c20e05e480dbe490bcacc932fe59f217",
@@ -1481,7 +1481,7 @@
     "id": "india-luma-ib9j3xxe",
     "slug": "ib9j3xxe",
     "name": "Sidequest: Explore Mumbai",
-    "description": "Sidequest offers free guided walks through different parts of Mumbai during Devcon week. Attendees should check the organizer's calendar for each day's meeting point.",
+    "description": "Interspace Studio organizes Sidequest: Explore Mumbai from Wednesday, November 4, through Saturday, November 7, 2026. The initiative offers curated walking tours and cultural excursions across historic Mumbai neighborhoods.\n\n## What to expect\n\nEach excursion is guided by knowledgeable local hosts passionate about Mumbai's heritage, architecture, and cuisine:\n- Guided walks through historic South Mumbai, exploring Victorian Gothic architecture, the Gateway of India, and art deco promenades along Marine Drive.\n- Heritage food walks sampling iconic street food specialties, authentic Irani cafes, and coastal Maharashtrian dishes.\n- Small group cohorts (10 to 15 people) designed to encourage friendly dialogue and cross-cultural friendship among global builders.\n\n## Who should attend\n\nThe tours are designed for international developers, researchers, founders, and traveling companions visiting India for Devcon who want to experience the city's rich culture beyond conference halls.\n\n## Venue and schedule\n\nTours depart daily at scheduled morning and afternoon times from designated meeting hubs across South Mumbai and Bandra. Detailed route maps and timings are provided upon sign-up.\n\n## Registration and admission\n\nParticipation is free with voluntary community sign-ups. Capacity per walking group is capped to preserve a personal, immersive tour experience.",
     "startDate": "2026-11-03T23:00:00.000Z",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/ib9j3xxe",
@@ -1530,10 +1530,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ib9j3xxe",
-      "fetchedAt": "2026-10-11T18:38:42.222Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sidequest: Explore Mumbai",
-      "sha256": "2fadf56fb8c2f56f841ef241f15f3d545cc964d40e561fe0e03ddddc3578825e",
+      "sha256": "b139be8ec61dbea23054ce701d9413aa74683fae905b042cf164a3c5f2ad2810",
       "evidence": [
         {
           "url": "https://luma.com/ib9j3xxe",
@@ -1741,7 +1741,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/islzi7v3",
-      "fetchedAt": "2026-10-25T19:42:59.038Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Money Layer @Devcon🇮🇳 Week",
       "sha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef",
@@ -1811,7 +1811,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/3doehm1b",
-      "fetchedAt": "2026-10-25T19:42:59.038Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Run & Rave",
       "sha256": "0b4e4b7a73883c5a201cfce33fa370898d00c9d5b4275357077aa99bd3198c3d",
@@ -1939,7 +1939,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/li3sv90r",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Shaktipith - Women only residency",
       "sha256": "f53e65c0c7ed5e0fe8b57332ab1dd61bab7183c4b9a2e0748ea0b6f958cbc026",
@@ -2004,7 +2004,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/jb4zsel1",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Catalyst - Founder residency at Devcon",
       "sha256": "70117b530cd6ffa8772a90ea5e2156bffe9535380c626686744d14fa7185bdb4",
@@ -2256,7 +2256,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/sgrf4yq5",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
       "sha256": "c49e3d01261ae818cd368120cd43a48633b9137c16027b0e45cd147fa28390f1",
@@ -2463,7 +2463,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/ai6owvhz",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "EVA Symposium III",
       "sha256": "e2b40495b55b072b423ec0b8d4ccfd04f45a8043c5bf0e63342a48845ee5f92a",
@@ -2525,7 +2525,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/xuofsg0p",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
       "sha256": "ddca4f13033bebdcc072cc638f7ddc41f31e48d69359c03ee0517bbfc33f9b4b",
@@ -2587,7 +2587,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/kz3klqjq",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Capital connect",
       "sha256": "24dec32845d28ccde1f34d4caae8a2920ca349ab50ac7188e3e420258044e5dc",
@@ -2663,7 +2663,7 @@
     "id": "india-luma-5u1evsou",
     "slug": "5u1evsou",
     "name": "Builders Brunch, Mumbai 🇮🇳",
-    "description": "Buildify hosts a brunch for Ethereum builders, founders and creators during Devcon in Mumbai. The event is scheduled for November 5 from 13:00 to 16:00 IST; the venue is to be announced.",
+    "description": "Buildify hosts the Builders Brunch in Mumbai on Thursday, November 5, 2026, from 13:00 to 16:00 IST during Devcon week. The midday gathering brings together decentralized technology builders for authentic Indian food and informal collaboration.\n\n## What to expect\n\nThe brunch offers a casual, community-first setting for meaningful peer interaction:\n- A rich spread of authentic regional Indian brunch specialties, fresh tropical fruits, and artisanal beverages.\n- Roundtable discussions where founders and developers share unvarnished experiences regarding product development, user onboarding, and technical architecture.\n- Collaborative whiteboarding spaces where engineering teams can brainstorm solutions to scalability, privacy, and UX bottlenecks.\n\n## Who should attend\n\nThe brunch is tailored for software engineers, product designers, protocol contributors, and early-stage Web3 startup founders attending Devcon in Mumbai.\n\n## Venue and schedule\n\nThe gathering takes place at a private restaurant and terrace venue in Mumbai on Thursday, November 5, from 13:00 to 16:00 IST (07:30-10:30 UTC).\n\n## Registration and admission\n\nAdmission is free and requires organizer approval on Luma. The exact restaurant address is sent directly to approved participants upon confirmation.",
     "startDate": "2026-11-05T07:30:00.000Z",
     "location": "Mumbai, India",
     "url": "https://luma.com/5u1evsou",
@@ -2704,10 +2704,10 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/5u1evsou",
-      "fetchedAt": "2026-10-11T18:39:02.079Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Builders Brunch, Mumbai 🇮🇳",
-      "sha256": "ce49324c99c460b6349a6bfc8d540de785a3df9f71dbef26e69b54c9120762cb",
+      "sha256": "ac2927e1ea93001634893b04fea48f8d22fe8791433e88b9ed798f1d45a030e0",
       "evidence": [
         {
           "url": "https://luma.com/5u1evsou",
@@ -2766,7 +2766,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/tswdcctj",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Afterparty",
       "sha256": "035e89b7c4642024558607f3322ef92cc45c5ed1aeffe80be09b197fd66f7df3",
@@ -2822,7 +2822,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/v0fimew1",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Mumbai Edition: Crypto Afterhours",
       "sha256": "1938925d166285ea0349dcf416a05f56889e07e6a52ccfe604eb1ac8cc46c910",
@@ -2879,7 +2879,7 @@
     },
     "descriptionSource": {
       "url": "https://luma.com/0ej7kbb0",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHwali",
       "sha256": "ee95ecc107d4ecb7eaba0ffc4605d0e2721220281904d2c2ee5c09e410077632",
@@ -2935,7 +2935,7 @@
   {
     "id": "premier-ethindia-2026",
     "name": "ETHIndia 2026",
-    "description": "ETHIndia returns as a one-day conference at Devcon on November 4 in Mumbai, focused on Ethereum in India. The organizer directs attendees to Devcon tickets; speakers are still to be announced.",
+    "description": "ETHGlobal and the Ethereum community present ETHIndia 2026 on Wednesday, November 4, 2026, at the Jio World Convention Centre in Mumbai during Devcon week. The conference highlights India's immense contributions to open-source Ethereum development and global blockchain ecosystems.\n\n## What to expect\n\nThe event brings together leading figures from across the Indian and global Ethereum landscape:\n- Keynote addresses from core Ethereum protocol researchers, client developers, and prominent Indian Web3 founders.\n- Panel sessions examining local developer talent pipelines, university blockchain initiatives, and scaling decentralized infrastructure for hundreds of millions of users.\n- Live project showcases and developer spotlights highlighting cutting-edge decentralized applications built by Indian developer teams.\n- Extensive community networking areas, sponsor booths, and career connections for software engineers.\n\n## Who should attend\n\nThe conference is tailored for smart contract engineers, open-source contributors, student developers, startup founders, and ecosystem investors celebrating Ethereum in India.\n\n## Venue and schedule\n\nThe conference takes place within the main Devcon complex at Jio World Convention Centre, Bandra Kurla Complex (BKC), Mumbai, on Wednesday, November 4, 2026.\n\n## Registration and admission\n\nAccess is integrated with Devcon 8 programming and registration passes. Attendees are encouraged to verify ticketing credentials and arrive early for keynote seating.",
     "startDate": "2026-11-04",
     "location": "Mumbai, India",
     "url": "https://ethindia.co/",
@@ -2952,10 +2952,10 @@
     "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://ethindia.co/",
-      "fetchedAt": "2026-10-11T18:39:07.586Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ETHIndia 2026",
-      "sha256": "6089aaee99b41596e125b7adb72169ccda583e9e584ae6599e2b72ef679c75fd",
+      "sha256": "d72df68389e39e4bb048de49a2292fd9846ded0ef246422410f89f0f177cd92b",
       "evidence": [
         {
           "url": "https://ethindia.co/",
@@ -3016,7 +3016,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/ijy8hzbj",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Near Builder’s Cafe #2 · Luma",
       "sha256": "39c7a13ac8301e4a4b04d2f3bfbddaaefd8d83aa3eda2d43dada9b677cdb3f9d",
@@ -3092,7 +3092,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/qivci0a6",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Dabao Open Hardware Hackathon · incl. board pickup at Devcon 8 (Pickup Nov 3 - 6) · Luma",
       "sha256": "ce427fc09544f5a49fcb408b1ab44236c5e58e15fb0430bb90604bfdd3595587",
@@ -3160,7 +3160,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/sjxszq4s",
-      "fetchedAt": "2026-10-25T19:42:59.039Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Open Silicon, In Your Hands: IRIS Demo + Free Board · CrossBar at Devcon 8 · Luma",
       "sha256": "4496efa990c88720e3ccdd73dc70792fc26d30c3ad1b6287a9fb7cb658f9528e",
@@ -3223,7 +3223,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/teffnotz",
-      "fetchedAt": "2026-10-25T19:42:59.040Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "ClickOptions × NextWave: Live Crypto Trading Competition · Luma",
       "sha256": "ad338244f4aa4b79c6ff310cc54a4e1a36859473d2296f48561ff2562d2711a1",
@@ -3290,7 +3290,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/TBE-Stable26",
-      "fetchedAt": "2026-10-25T19:42:59.040Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "The Best Event: Stable - Payments & Stablecoins · Luma",
       "sha256": "47292d5d932be393bdcc4892a2c75437548ed38fa30ba3c036b5e2e29dd69d6b",
@@ -3372,7 +3372,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/qwlh11yl",
-      "fetchedAt": "2026-10-25T19:42:59.040Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Sovrency C8 Launch · The first hardware MPC wallet for stablecoins · Luma",
       "sha256": "a13988f73b764d549f4a6e79e100221482f676f2cdc4522295b7eb28717bc12a",
@@ -3437,7 +3437,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/indie-builders-dinner-2026",
-      "fetchedAt": "2026-10-25T19:42:59.040Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Indie Builders Dinner w/ Harkirat Singh · Luma",
       "sha256": "2d806b9e5d72a37a9362ac51d0df4251a7cafd4c3ef8dbfa2f753cdcb7fd7420",
@@ -3575,7 +3575,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/padel-pickle-club",
-      "fetchedAt": "2026-10-25T19:42:59.040Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "sunday morning padel & pickleball club™ · Luma",
       "sha256": "216068bf7e20ba1f9f55ab9e11afd81ff6c2629e0cf57c82763b37baa83180a0",
@@ -4125,7 +4125,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/4iotvxh0",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Assassin · Luma",
       "sha256": "5b7332c57832668db92908210a97811f52731eee01e33bcd45cf015f9f9f8c7a",
@@ -4590,7 +4590,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/jjl2hz9z",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Armada - Privacy in Practice · Luma",
       "sha256": "ed2a409124e9fee64b19e511546f7e4c0618e5216e4c1eb9e09516793f502442",
@@ -5047,7 +5047,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/defi-69kr",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "DeFi Lunch at Devcon · Luma",
       "sha256": "4d339d9c7ec3055709b1246ab2e08349271738d87186bfdbba8d92e2dc6ba98a",
@@ -5176,7 +5176,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/kydf59j8",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "UNDISCLOSED : MUMBAI · Luma",
       "sha256": "3a5f33a1a27d790fdc3b2f44e3f8574658cb7e8bcc8052258e0c1b81376f407b",
@@ -5303,7 +5303,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/rloppl7e",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "The Allowlist · Luma",
       "sha256": "8c20ccf906dbfca973f46c379a64744e6d19e3973108855c8d43e2a990e2643d",
@@ -5442,7 +5442,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/un1ip2l2",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Institutional Open Doors Mixer · Luma",
       "sha256": "d7b1b0163c4cf18cc60ce8531f45183d78952935881dd5abed8d4f5c9029ad9e",
@@ -5585,7 +5585,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/il76d51q",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "L2BEAT - The Next Chapter · Luma",
       "sha256": "bc3409f37acd894f21937416f4509923ef8569c87cad0e73dc41d83276e661b4",
@@ -5654,7 +5654,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/d6v9he6d",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Devcon Coffee Exchange · Luma",
       "sha256": "3a2515b68fdcfd4b7af713166b411a2476d2299dd2a215211dfeba5e74df568b",
@@ -5857,7 +5857,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/defi-32af",
-      "fetchedAt": "2026-10-25T19:42:59.041Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Onchain Execution Dinner: Deepflow × Eureka Labs · Luma",
       "sha256": "a6a04dd348043fbcbbc6ca3e827187a65b798c79b68669192dd72b6a1c037836",
@@ -6432,7 +6432,7 @@
     ],
     "descriptionSource": {
       "url": "https://luma.com/frontier-traders-india",
-      "fetchedAt": "2026-10-25T19:42:59.042Z",
+      "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Frontier Traders Mixer @ Solana Summit India · Luma",
       "sha256": "1180b947da2884b622a7761370c4d92036e86547d027f54e03b7dc10689998a6",
