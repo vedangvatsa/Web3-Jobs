@@ -53014,7 +53014,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "a3148a5a-1fdd-4377-863b-a2501885fe63",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7519967382166224896"
     }
   ]
 }
