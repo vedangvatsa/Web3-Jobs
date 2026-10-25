@@ -25002,152 +25002,6 @@ X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
 
-<a id="event-5d605ea174453d5c"></a>
-
-## Binance Day CDMX
-
-- Record: `luma-batch-evtfaheF7MoEjboQ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/c1cr6rq2>
-
-### About the event
-
-Tu dinero está evolucionando. Y con él, todo el ecosistema.
-
-Te invitamos a una tarde de conferencias y paneles gratuitos con expertos, donde conversaremos sobre dólares digitales, tokenización, blockchain, Web3 y las nuevas formas en que la tecnología está transformando nuestra relación con el dinero.
-
-Binance Day reunirá a especialistas, invitados y miembros clave del ecosistema para compartir ideas, experiencias y perspectivas sobre lo que está ocurriendo hoy y hacia dónde vamos.
-
-Ya sea que estés comenzando en el mundo cripto o que formes parte activa del ecosistema, este será un espacio para aprender, conectar y entender mejor el futuro que estamos construyendo juntos.
-
-Ven a descubrir lo que viene.
-
-Tendremos muchas sorpresas.
-
-<a id="event-17c8c9c08081745b"></a>
-
-## Agentic Finance, Commerce & Payments @ Stanford GSB, presented by Verda Ventures
-
-- Record: `luma-batch-pETIiHDk4XVQvLJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/pjqtgcx3>
-
-### About the event
-
-Agentic Finance, Commerce & Payments
-
-AI agents are moving quickly from answering questions to taking actions - shopping, transacting, managing money, and increasingly interacting with financial infrastructure on our behalf.
-
-That shift is creating a new stack across agentic commerce, payments, stablecoins, identity, financial infrastructure, and AI-native applications.
-
-On September 24, Fintechnize is bringing together investors, builders, and operators at Stanford GSB for an afternoon discussion on how this new stack is taking shape - and where real adoption is beginning to emerge.
-
-We'll explore questions including:
-
-What happens when AI agents become economic actors?
-
-What new payment, identity, trust, and settlement infrastructure do agents require?
-
-Where do stablecoins and crypto rails fit into agentic commerce?
-
-How are platforms such as Coinbase approaching AI and agentic payments?
-
-Which agentic finance use cases are becoming real today - and which are still ahead of the market?
-
-### Agenda
-
-6:10 - 6:30 Checkin & Food
-
-6:30 - 6:35 Opening
-
-6:35 - 7:00 Fireside with Alex Witt, Verda Ventures. "From Stablecoins to Agents: Where the Next Financial Moats Are Being Built"
-
-7:00 - 7:30 Panel with Adyen & Kite. "x402 & Beyond: Opportunities & Challenges in Agentic Payments"
-
-7:30 - 8:10 Panel with Buy&Ship, AEON, NihaoPay & ICAP. "Agentic Commerce Across Borders: between US and APAC"
-
-8:10 - 8:30 Fireside with Siwei Shen, Coinbase. "Inside Coinbase: Building an AI-Native Financial Platform"
-
-8:30 - 9:00 Networking
-
-Presented by Verda Ventures
-
-Verda Ventures is an investment firm focused on blockchain-enabled financial infrastructure, payments, stablecoins, and the next generation of digital finance.
-
-Verda has been investing directly across many of the building blocks now converging with agentic finance. Its portfolio includes companies such as Yellow Card, Beam, Mural, El Dorado, and Mento Labs, spanning stablecoin infrastructure, cross-border payments, enterprise money movement, local-currency stablecoins, and emerging-market financial infrastructure.
-
-The firm also launched the MiniPay Fund in partnership with Opera, backing products across payments, remittances, identity, and stablecoin-based financial services - giving Verda a hands-on view into how new financial rails move from infrastructure to real-world adoption.
-
-Partnered with
-
-Kite is building the payments layer for the agent economy, giving autonomous agents the identity, permissions, and settlement infrastructure needed to transact at scale.
-
-With the launch of Kite Agent Passport and integrations across emerging agent-payment standards including x402 and Google AP2, Kite is positioning itself as core infrastructure for autonomous, programmable commerce.
-
-Buy&Ship is a global cross-border commerce platform helping consumers access products and merchants across different markets around the world.
-
-AEON is building crypto payment infra connecting digital assets with real-world commerce, supporting the broader shift toward programmable and AI-enabled payments.
-
-NihaoPay is an online payments company offering businesses a cheap and fast way to make international contactless payments, as well as borderless debit cards and virtual bank accounts.
-
-Special Thanks
-
-MSx Student Association, Stanford Graduate School of Business represents the Stanford GSB MSx community and helps foster student activities, engagement, and connections across the broader GSB community.
-
-Who Should Join
-
-This gathering is designed for founders, investors, product leaders, payments and fintech operators, AI builders, and anyone working at the intersection of:
-
-AI Agents - Commerce - Payments - Stablecoins - Crypto - Financial Infrastructure
-
-Expect an afternoon of substantive conversations, new ideas, and open networking with people actively building the next generation of financial and commerce infrastructure.NOTE: For GSB students, this event is exclusively for MSx & MBA2. So we will kindly decline applications from all MBA1 students.
-
-September 24, 20266:00-8:00 PMStanford GSB
-
-A Fintechnize event.
-
-<a id="event-31a7c3bccd32e802"></a>
-
-## SF AI Takeover: Road to Basecamp
-
-- Record: `luma-batch-1rYiST8JvO4q6j6`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/sui-vf50>
-
-### About the event
-
-We're taking over a prime rooftop for a night with some of our favorite founders, operators, and investors across AI, fintech, and crypto.
-
-The idea is simple: bring together a handpicked group of people who should probably already know each other.
-
-Come for bites and drinks, see friendly faces, meet someone you wouldn't normally run into, and stay as long as you're having a good time.
-
-And if you're heading to Token 2049 and Sui Basecamp in Singapore Oct 7-8, find a team member for exclusive event access.
-
-Sept. 24 - 6:30-9:30 PMSan Francisco
-
-Hosted by Sui + Walrus.
-
-Capacity is limited and registrations are reviewed.
-
-We look forward to welcoming you!About Sui
-
-Sui, where money moves as freely as messages, is a next-generation Layer 1 blockchain built for scalable finance and global payments. Founded by the core team behind Meta's stablecoin initiative and powered by an object-centric model, Sui makes assets, permissions, and user data programmable and ownable. Sui's primitives offer builders everything they need to create high-performance payments and financial applications, including instant agentic payments.
-
-Learn more at sui.io.
-
-### About Walrus
-
-Walrus Memory is a portable memory layer that helps AI agents remember, share context, and stay coordinated across apps, sessions, and workflows. Built on Walrus, it gives developers persistent, verifiable memory with privacy and control at its core.
-
-Learn more at walrus.xyz.By participating in this event, you agree to our Event Participation Terms & Conditions. Read about our Privacy Policy and Terms of Service.
-
 <a id="event-a011b71ec3977570"></a>
 
 ## Day 1 - BINUS Crypto Week 2026 x W3W Asia
@@ -25187,58 +25041,6 @@ We start of with co-working from 12-2pm then storytelling. The Pixar structure a
 Bring a laptop and bring the version you have.
 
 Friday 12pm, Build Station KL. Submissions close 12 October.
-
-<a id="event-5f7a186f29a5dba6"></a>
-
-## Business Models Workshop
-
-- Record: `luma-batch-yqECduZppc8z0O1`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2wcucbx4>
-
-### About the event
-
-Colosseum: Business Model Workshop
-
-Turn your Colosseum project into a business with a model built to scale.
-
-A great product needs a business model that can support its growth. This workshop helps Colosseum builders understand who pays, what they pay for, how the product creates value, and what it takes to build a sustainable company around it.
-
-You will work through the key components of a startup business model and apply them directly to your Colosseum project.
-
-What you'll learn
-
-How to define your customer and economic buyer
-
-How to identify your core value proposition
-
-How to choose the right revenue model
-
-How to think about pricing and monetisation
-
-Marketplace, SaaS, consumer, protocol, and transaction-based models
-
-Where tokens, onchain payments, and crypto-native incentives can fit into a business model
-
-How to map key costs, resources, and operational requirements
-
-How to think about distribution and customer acquisition
-
-How to test whether your business model can scale
-
-What you'll leave with
-
-A clearer business model, customer, revenue strategy, pricing logic, and path to scale for your Colosseum project.
-
-Who should join?
-
-Colosseum founders, builders, product teams, and anyone turning a technical prototype into a real startup.
-
-Bring your project or early idea. Leave with a business model you can test alongside your product.
-
-Build the product. Design the business. Build for scale.
 
 <a id="event-44db9d4e234f099a"></a>
 
@@ -68397,6 +68199,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T13:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://swell.ripple.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-679f6c19a1506859"></a>
+
+## Bitcoin Research Day After Hours - Amsterdam
+
+- Record: `luma-evt-XrLHWXomDDoNbwh`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T15:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/m21nnt2v>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

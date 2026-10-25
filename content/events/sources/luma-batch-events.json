@@ -1236,101 +1236,6 @@
     }
   },
   {
-    "id": "luma-batch-pETIiHDk4XVQvLJ",
-    "slug": "pjqtgcx3",
-    "name": "Agentic Finance, Commerce & Payments @ Stanford GSB, presented by Verda Ventures",
-    "description": "Agentic Finance, Commerce & Payments\n\nAI agents are moving quickly from answering questions to taking actions — shopping, transacting, managing money, and increasingly interacting with financial infrastructure on our behalf.\n\nThat shift is creating a new stack across agentic commerce, payments, stablecoins, identity, financial infrastructure, and AI-native applications.\n\nOn September 24, Fintechnize is bringing together investors, builders, and operators at Stanford GSB for an afternoon discussion on how this new stack is taking shape — and where real adoption is beginning to emerge.\n\nWe’ll explore questions including:\n\nWhat happens when AI agents become economic actors?\n\nWhat new payment, identity, trust, and settlement infrastructure do agents require?\n\nWhere do stablecoins and crypto rails fit into agentic commerce?\n\nHow are platforms such as Coinbase approaching AI and agentic payments?\n\nWhich agentic finance use cases are becoming real today — and which are still ahead of the market?\n\nAgenda\n\n6:10 - 6:30 Checkin & Food\n\n6:30 - 6:35 Opening\n\n6:35 - 7:00 Fireside with Alex Witt, Verda Ventures. \"From Stablecoins to Agents: Where the Next Financial Moats Are Being Built“\n\n7:00 - 7:30 Panel with Adyen & Kite. \"x402 & Beyond: Opportunities & Challenges in Agentic Payments\"\n\n7:30 - 8:10 Panel with Buy&Ship, AEON, NihaoPay & ICAP. \"Agentic Commerce Across Borders: between US and APAC\"\n\n8:10 - 8:30 Fireside with Siwei Shen, Coinbase. \"Inside Coinbase: Building an AI-Native Financial Platform\"\n\n8:30 - 9:00 Networking\n\nPresented by Verda Ventures\n\nVerda Ventures is an investment firm focused on blockchain-enabled financial infrastructure, payments, stablecoins, and the next generation of digital finance.\n\nVerda has been investing directly across many of the building blocks now converging with agentic finance. Its portfolio includes companies such as Yellow Card, Beam, Mural, El Dorado, and Mento Labs, spanning stablecoin infrastructure, cross-border payments, enterprise money movement, local-currency stablecoins, and emerging-market financial infrastructure.\n\nThe firm also launched the MiniPay Fund in partnership with Opera, backing products across payments, remittances, identity, and stablecoin-based financial services — giving Verda a hands-on view into how new financial rails move from infrastructure to real-world adoption.\n\nPartnered with\n\nKite is building the payments layer for the agent economy, giving autonomous agents the identity, permissions, and settlement infrastructure needed to transact at scale.\n\nWith the launch of Kite Agent Passport and integrations across emerging agent-payment standards including x402 and Google AP2, Kite is positioning itself as core infrastructure for autonomous, programmable commerce.\n\nBuy&Ship is a global cross-border commerce platform helping consumers access products and merchants across different markets around the world.\n\nAEON is building crypto payment infra connecting digital assets with real-world commerce, supporting the broader shift toward programmable and AI-enabled payments.\n\nNihaoPay is an online payments company offering businesses a cheap and fast way to make international contactless payments, as well as borderless debit cards and virtual bank accounts.\n\nSpecial Thanks\n\nMSx Student Association, Stanford Graduate School of Business represents the Stanford GSB MSx community and helps foster student activities, engagement, and connections across the broader GSB community.\n\nWho Should Join\n\nThis gathering is designed for founders, investors, product leaders, payments and fintech operators, AI builders, and anyone working at the intersection of:\n\nAI Agents · Commerce · Payments · Stablecoins · Crypto · Financial Infrastructure\n\nExpect an afternoon of substantive conversations, new ideas, and open networking with people actively building the next generation of financial and commerce infrastructure.NOTE: For GSB students, this event is exclusively for MSx & MBA2. So we will kindly decline applications from all MBA1 students.\n\nSeptember 24, 20266:00–8:00 PMStanford GSB\n\nA Fintechnize event.",
-    "startDate": "2026-09-25T01:00:00.000Z",
-    "endDate": "2026-09-25T04:00:00.000Z",
-    "city": "Stanford",
-    "country": "United States",
-    "location": "Stanford, California, United States",
-    "url": "https://luma.com/pjqtgcx3",
-    "registrationUrl": "https://luma.com/pjqtgcx3",
-    "coverImage": "/events/luma-batch-pETIiHDk4XVQvLJ-6222aae7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Charlie Liu @ Fintechnize"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Stanford",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Charlie Liu @ Fintechnize"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/pjqtgcx3",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/pjqtgcx3",
-      "eventId": "evt-pETIiHDk4XVQvLJ",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-1rYiST8JvO4q6j6",
-    "slug": "sui-vf50",
-    "name": "SF AI Takeover: Road to Basecamp",
-    "description": "We’re taking over a prime rooftop for a night with some of our favorite founders, operators, and investors across AI, fintech, and crypto.\n\nThe idea is simple: bring together a handpicked group of people who should probably already know each other.\n\nCome for bites and drinks, see friendly faces, meet someone you wouldn’t normally run into, and stay as long as you’re having a good time.\n\nAnd if you're heading to Token 2049 and Sui Basecamp in Singapore Oct 7-8, find a team member for exclusive event access.\n\nSept. 24 · 6:30–9:30 PMSan Francisco\n\nHosted by Sui + Walrus.\n\nCapacity is limited and registrations are reviewed.\n\nWe look forward to welcoming you!About Sui\n\nSui, where money moves as freely as messages, is a next-generation Layer 1 blockchain built for scalable finance and global payments. Founded by the core team behind Meta’s stablecoin initiative and powered by an object-centric model, Sui makes assets, permissions, and user data programmable and ownable. Sui’s primitives offer builders everything they need to create high-performance payments and financial applications, including instant agentic payments.\n\nLearn more at sui.io.\n\nAbout Walrus\n\nWalrus Memory is a portable memory layer that helps AI agents remember, share context, and stay coordinated across apps, sessions, and workflows. Built on Walrus, it gives developers persistent, verifiable memory with privacy and control at its core.\n\nLearn more at walrus.xyz.By participating in this event, you agree to our Event Participation Terms & Conditions. Read about our Privacy Policy and Terms of Service.",
-    "startDate": "2026-09-25T01:30:00.000Z",
-    "endDate": "2026-09-25T04:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Union Square, San Francisco, California, United States",
-    "url": "https://luma.com/sui-vf50",
-    "registrationUrl": "https://luma.com/sui-vf50",
-    "coverImage": "/events/luma-batch-1rYiST8JvO4q6j6-a363abdc.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Sui"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Union Square",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Sui"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/sui-vf50",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/sui-vf50",
-      "eventId": "evt-1rYiST8JvO4q6j6",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-UlXTWD7ZvslzNAX",
     "slug": "k24aok3i",
     "name": "B@B 10 Year Anniversary (Alumni Reunion)",
@@ -4460,51 +4365,6 @@
     "sourceVerification": {
       "url": "https://luma.com/burningmon",
       "eventId": "calev-cy4MdiJptug7TkG",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-yqECduZppc8z0O1",
-    "slug": "2wcucbx4",
-    "name": "Business Models Workshop",
-    "description": "Colosseum: Business Model Workshop\n\nTurn your Colosseum project into a business with a model built to scale.\n\nA great product needs a business model that can support its growth. This workshop helps Colosseum builders understand who pays, what they pay for, how the product creates value, and what it takes to build a sustainable company around it.\n\nYou will work through the key components of a startup business model and apply them directly to your Colosseum project.\n\nWhat you’ll learn\n\nHow to define your customer and economic buyer\n\nHow to identify your core value proposition\n\nHow to choose the right revenue model\n\nHow to think about pricing and monetisation\n\nMarketplace, SaaS, consumer, protocol, and transaction-based models\n\nWhere tokens, onchain payments, and crypto-native incentives can fit into a business model\n\nHow to map key costs, resources, and operational requirements\n\nHow to think about distribution and customer acquisition\n\nHow to test whether your business model can scale\n\nWhat you’ll leave with\n\nA clearer business model, customer, revenue strategy, pricing logic, and path to scale for your Colosseum project.\n\nWho should join?\n\nColosseum founders, builders, product teams, and anyone turning a technical prototype into a real startup.\n\nBring your project or early idea. Leave with a business model you can test alongside your product.\n\nBuild the product. Design the business. Build for scale.",
-    "startDate": "2026-09-25T04:30:00.000Z",
-    "endDate": "2026-09-25T05:30:00.000Z",
-    "location": "TBA",
-    "url": "https://luma.com/2wcucbx4",
-    "registrationUrl": "https://luma.com/2wcucbx4",
-    "coverImage": "/events/luma-batch-yqECduZppc8z0O1-d8614570.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "OnlyFounders",
-      "Superteam Thailand",
-      "Superteam TH"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Bangkok",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "OnlyFounders",
-      "url": "https://luma.com/user/SuperteamTHLead"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/2wcucbx4",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/2wcucbx4",
-      "eventId": "calev-yqECduZppc8z0O1",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -13262,36 +13122,6 @@
     "sourceVerification": {
       "url": "https://luma.com/7st8vkaa",
       "eventId": "evt-37ROtqa7zr4Y40H",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtfaheF7MoEjboQ",
-    "slug": "c1cr6rq2",
-    "name": "Binance Day CDMX",
-    "description": "Tu dinero está evolucionando. Y con él, todo el ecosistema.\nTe invitamos a una tarde de conferencias y paneles gratuitos con expertos, donde conversaremos sobre dólares digitales, tokenización, blockchain, Web3 y las nuevas formas en que la tecnología está transformando nuestra relación con el dinero.\n\nBinance Day reunirá a especialistas, invitados y miembros clave del ecosistema para compartir ideas, experiencias y perspectivas sobre lo que está ocurriendo hoy y hacia dónde vamos.\n\nYa sea que estés comenzando en el mundo cripto o que formes parte activa del ecosistema, este será un espacio para aprender, conectar y entender mejor el futuro que estamos construyendo juntos.\n\nVen a descubrir lo que viene.\nTendremos muchas sorpresas.",
-    "startDate": "2026-09-24T21:00:00.000Z",
-    "endDate": "2026-09-25T04:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "C. Lucerna 32, C. Lucerna 32, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
-    "url": "https://luma.com/c1cr6rq2",
-    "registrationUrl": "https://luma.com/c1cr6rq2",
-    "coverImage": "/events/luma-batch-evtfaheF7MoEjboQ-0261949e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Mexico_City",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/c1cr6rq2",
-      "eventId": "evt-faheF7MoEjboQWH",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

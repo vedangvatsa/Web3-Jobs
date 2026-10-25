@@ -28834,5 +28834,19 @@
     "coverImage": "/events/luma-evt-fzvrpcojiogubks-40f833d6.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-XrLHWXomDDoNbwh",
+    "name": "Bitcoin Research Day After Hours - Amsterdam",
+    "description": "",
+    "startDate": "2026-10-27T15:30:00.000Z",
+    "endDate": "2026-10-27T18:30:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/m21nnt2v",
+    "coverImage": "/events/luma-evt-xrlhwxomddonbwh-6d83ef82.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]
