@@ -2253,7 +2253,7 @@
     "sentAt": "2026-10-25T11:35:55.441Z"
   },
   "515eed21-ffce-422e-b2b2-e74301c90a83": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T19:41:43.972Z",
     "stories": [
       {
@@ -2281,6 +2281,8 @@
         "originalTitle": "Polkadot tells Fearless Wallet users to move funds after private-key leak"
       }
     ],
-    "slotKey": "2026-10-25:evening"
+    "slotKey": "2026-10-25:evening",
+    "messageId": 155926,
+    "sentAt": "2026-10-25T19:41:47.257Z"
   }
 }
