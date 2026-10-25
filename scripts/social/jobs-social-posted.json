@@ -55172,7 +55172,8 @@
       },
       "account": "channel:build",
       "attemptId": "679eb5a3-f308-4139-8d24-dffd37b4d4e7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa62404e25cb23f65a0ff226325bde0601d428e87"
     }
   ]
 }
