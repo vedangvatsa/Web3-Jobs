@@ -51870,7 +51870,8 @@
       },
       "account": "channel:defi",
       "attemptId": "5e6bd81c-b20f-45c5-ba7e-6280d2ff6996",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x285c9aec170b2cf23d13fe1d71c468509e536b90"
     }
   ]
 }
