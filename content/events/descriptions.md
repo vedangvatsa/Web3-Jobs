@@ -191,37 +191,6 @@ Scooters & Bikes : Depending on the area, you will also find scooters and bikes 
 
 Taxis : Taxis are available through apps like GO↗︎ and Uber↗︎.
 
-<a id="event-b89157a21dfb95d9"></a>
-
-## ETHSofia 2026
-
-- Record: `premier-ethsofia`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-24
-- Description: Source-backed
-- Original page: <https://www.blockchainweek.bg>
-- Original page: <https://www.ethsofia.com/>
-
-### About the event
-
-ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain.
-
-### Conference
-
-The conference takes place on 24 September 2026 at Sofia Tech Park. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.
-
-### Main themes
-
-The program covers onchain privacy and scaling, smart contract security and operations security, consumer DeFi, and Ethereum integrations into Web2 products, delivered by Ethereum teams, service providers, integrating enterprises and security professionals.
-
-### Speakers
-
-Published speakers include Viktor Uzunov (UEB3 Fund), Krum Pashov (Pashov Audit Group), Marc Zeller (Aave Chan Initiative), Nicolas Bacca (Ledger, ZKnox), TokenBrice (Polaris), Klara Kovacevic (ChainSecurity), Jonathan Riss (CertiK), Todor Karaivanov (Chainlink Labs), Mark Richardson (Bancor), Steffen Kux (corpus.core), Josef Gattermayer (ack3) and Vyara Savova (European Ethereum Institute).
-
-### Venue
-
-The John Atanasoff Forum is part of Bulgaria's first science and technology park, surrounded by startups, enterprises, investment funds, a laboratory complex and the Discoverer supercomputer. Tickets are available through Blockchain Week Bulgaria, with speaker, partner and volunteer applications open.
-
 <a id="event-9d854602aa5172f3"></a>
 
 ## SHAKA Biarritz 2026
@@ -20967,213 +20936,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-6a6ab98e621d9f9f"></a>
-
-## Build with AI. Build on Blockchain: The Eigen Protocol
-
-- Record: `luma-crypto-EUH18Uaonj0rgDj`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-24T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ma7uryic>
-
-### Introduction
-
-Come meet the Avalanche community and friends for an evening of networking, discovery, and conversation.
-
-Whether you're already using AI, building on-chain, exploring new ecosystems or brand new to Web3, this meetup is your chance to connect with fellow builders, founders and community members.
-
-Enjoy pizza and prosecco, good vibes, and short presentations about Avalanche and Team1 UK.
-
-### Event Program
-
-[5:30 PM] - Doors open & welcome attendees
-
-[6:30 PM] - Opening words by venue host, Various Labs
-
-[6:35 PM] - Intro to Avalanche & the local ecosystem delivered by Ems, Team1 UK Regional Lead
-
-[6:45PM] - The Eigen Protocol - Interactive workshop
-
-[7:20 PM] - Open networking, drinks & food
-
-[9:00 PM] - Closing & goodbye
-
-### Partners
-
-Various Labs - Sessions, hosts and RSVP's for London's co-working community.
-
-The Eigen Protocol - Interactive workshop.
-
-Come with a blank slate and have a conversation.
-
-Tonight, you'll see every company in the room, including your own, through borrowed eyes: the investor, the customer, the competitor, the one who quit.
-
-Challenge your assumptions. Spot the patterns. Break them.
-
-Most of what you believe will bend. One thing won't.
-
-That's the one worth keeping.
-
-Come for a conversation. Leave with a different mind.
-
-Huge thanks to all our partners for helping us bring this meetup to life!
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
-
-<a id="event-d154f61bc443076b"></a>
-
-## ☕️ Codex Community Meetup-San Francisco #10
-
-- Record: `luma-crypto-iSsgtX8txkWC11L`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-25T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/t9hadxgx>
-
-### Codex Community Meetup in San Francisco
-
-Guest Speakers from the Codex Team SF
-
-Join us at Sports Basement in San Francisco for an interactive evening for builders, founders, engineers, creators, students, and anyone curious about how Codex is changing the way people build.
-
-No coding background is required. Whether you already use Codex every day or are exploring coding agents for the first time, you are welcome.
-
-Come meet the community, hear real-world Codex use cases, see demos, make new connections, and take part in an evening designed around participation rather than passive listening.
-
-### Invited Panelists
-
-1. Member of Technical Staff, OpenAI Codex, San Francisco Confirmed
-2. [Pranav Uppili](https://www.linkedin.com/in/pranav-uppiliappan/) - Founder, MochaCare (YC W26)
-3. [Shreshth Sharma](https://www.linkedin.com/in/shreshth-sharma-950826247/), Founder, Olam Labs (YC S26)
-4. [Ariyaman Molanorouzi,](https://www.linkedin.com/in/ariyaman/) founder, Stealth (YC F26)
-5. [Boje Deforce, PhD,](https://www.linkedin.com/in/bojedeforce/) Senior Data Scientist, Walmart Global Tech, founder, Naos Optics
-
-### Invited Speaker
-
-[Rana Hanocka](https://www.linkedin.com/in/ranahanocka/) - Founder & CEO of Thrixel, Assistant Professor at the University of Chicago
-
-Topic: Creating Interactive 3D Worlds with Codex and Thrixel
-
-Recent Codex Community Events
-
-[Codex Community Meetup #9 | August 25, 2026](https://luma.com/anq7lf5m)
-
-[Codex Community Meetup #8 | July 30, 2026](https://luma.com/h5x0pzw9)
-
-Codex Community Meetup #7 | June 23, 2026
-
-Codex Community Hackathon #6 | May 26, 2026
-
-Codex Community Meetup | May 14, 2026
-
-Codex Community Meetup | April 16, 2026
-
-### What to Expect
-
-This is not a passive event.
-
-Expect a warm, high-energy, highly interactive evening with:
-
-- Practical conversations about real-world Codex use cases
-- A panel with experienced builders and founders
-- Short demos and community presentations
-- Codex games and competitions
-- Giveaways and special prizes
-- Networking with builders, founders, engineers, creators, operators, and students
-
-Most attendees will also be invited to give a brief 30-second introduction.
-
-Come ready to tell the room who you are, what you are building or exploring, and who you would like to meet.
-
-You will leave with new connections, fresh ideas, practical examples of how people are using Codex, and a better understanding of what AI coding agents can make possible.
-
-### Who Should Attend?
-
-This meetup is for:
-
-- Experienced Codex users
-- People trying Codex for the first time
-- Founders and startup teams
-- Engineers and product builders
-- Non-technical builders and creators
-- Students
-- Anyone curious about AI-assisted software development and coding agents
-
-You do not need a coding background to participate.
-
-### Agenda
-
-Thursday, September 24, 2026
-
-5:00 PM - Doors Open & Networking
-
-5:45-6:45 PM - Panel: Real-World Ways to Use Codex
-
-6:45-7:45 PM - Codex Games, Giveaways, Competition & Networking
-
-8:00 PM - Event Ends
-
-### Speaker Opportunities
-
-Limited Speaker Spots Available
-
-We are opening 5-6 short community speaker spots for people who would like to share what they are building, demonstrate an interesting Codex use case, or present something useful to the community.
-
-If you would like to be considered as a speaker or panelist, please apply through [the event page or contact the organizer directly: TatianaSF](https://www.linkedin.com/in/tatianasf/)
-
-### Special Giveaways
-
-Registered attendees will have a chance to win special giveaways during the event.
-
-### About Codex
-
-[Codex](https://developers.openai.com/codex) is OpenAI's coding agent designed to help people build, understand, and ship software faster.
-
-This meetup brings together people who are already building with Codex and those who simply want to understand what coding agents can do.
-
-### Upcoming Codex Community Events and Pitch Nights
-
-October 2026:
-
-November 2026:
-
-Codex Community Meetup - subscribe to be informed
-
-December 2026:
-
-Codex Community Meetup - subscribe for updates
-
-### Host
-
-[TatianaSF.com](https://TatianaSF.com) - Tatiana Isa, OpenAI Codex Ambassador
-
-### Venue
-
-Sports Basement, San Francisco
-
-Thank you to Sports Basement for hosting our community.
-
-Attendees will receive 20% discount coupons from Sports Basement.
-
-### Volunteering, Sponsorship & Community Support
-
-Interested in volunteering or supporting future community events as a sponsor, media partner, or collaborator?
-
-Contact:
-
-[or message TatianaSF on LinkedIn](https://www.linkedin.com/in/tatianasf/).
-
-This is an independent community event and is not affiliated with, sponsored by, or endorsed by OpenAI London office.
-
 <a id="event-1412af05fe876fc1"></a>
 
 ## Singapore Defense Tech Hackathon
@@ -25240,130 +25002,6 @@ X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
 
-<a id="event-27c1e6116ac4f5c6"></a>
-
-## Solana Hack Day Munich: Road to TUM Blockchain Conference
-
-- Record: `luma-batch-evtQ7hZ31nCmyVXM`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/solanahackdaymunich>
-
-### About the event
-
-Curious about building on Solana, looking for your next project idea, or getting ready for the upcoming hackathon season?
-
-Join Superteam Germany and TUM Blockchain Club for a Solana Hack Day in Munich, bringing together developers, founders, students, and curious builders for a day of learning, ideation, and getting started on new projects.
-
-Learn & Get Started
-
-We'll start with an introduction to Solana and the builder ecosystem, including:
-
-How to get started building on Solana and what to build
-
-Overview of tools and resources that can help you move faster
-
-Participate in our "Build your MVP" bounty for a chance to win local prizes
-
-It's also a great opportunity to get a boost for the upcoming Solana startup competition powered by Colosseum: work on your idea, meet potential teammates, validate your direction, and start preparing your project.
-
-Come solo or with a team. Come with an idea or discover one during the day.
-
-<a id="event-514498ded1a00e35"></a>
-
-## KBW\|TOKEN2049 SEND-OFF PARTY
-
-- Record: `luma-batch-rvzY8EMMGGfzEzZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/iltqqfg1>
-
-### About the event
-
-One last night in Dubai before the conference circuit kicks off.
-
-Join Welcome3 x CodeCraft Group for drinks, music and good company before everyone heads to KBW and TOKEN2049. Compare travel plans, talk side-event strategy, and spend the night with some of the best people in Web3 before the big weeks ahead.
-
-Smoke & Mirrors, SLS Dubai
-
-Thursday, 24 September
-
-7 PM - 2 AM
-
-Founders, investors, operators & industry leaders
-
-Dress Code: Smart Casual Please note that shorts, caps and flip-flops are not permitted.
-
-CodeCraft Group: Multi-award-winning, data-driven Web3 GTM.https://codecraft.io/
-
-Welcome3: An exclusive private network for Web3 founders, investors and industry leaders. https://www.welcome3.com/
-
-<a id="event-7fc0698b4a00e527"></a>
-
-## Lisbon Ethereum Hub Meetup: A Fintech View on Ethereum
-
-- Record: `luma-batch-evt3H2aRuBMABUgu`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4whbvj0o>
-
-### About the event
-
-Thursday 24 September
-
-18:30-21:00
-
-Lisbon
-
-A fintech view on Ethereum. Not the promise or the roadmap, but how it looks to someone who has to decide whether to build on it.
-
-A conversation with:
-
-Ana Matos, who leads Qonto in Portugal, making financial infrastructure simple for businesses without giving anything up on trust or compliance. Ex Google and Finastra.
-
-Nadia Sergejuk is scaling Lagoon Finance, a portfolio management and fund launch platform for the next generation of asset managers, after a decade in institutional asset management in London.
-
-Adrienne Youngman, Head of Marketing at Gnosis is asking the questions.
-
-Doors at 18:30, the conversation at 19:00, drinks from 20:00.
-
-Hosted by Gnosis with the Ethereum Foundation. Free to attend, and the room is deliberately not enormous - please register so we know to expect you.
-
-See you there!
-
-<a id="event-4c245af66524cf0c"></a>
-
-## The Studio Investor Fireside Chat: A100X Ventures \| Brian Li
-
-- Record: `luma-batch-7VQsitDF0AG6K7j`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5hfvpnxt>
-
-### About the event
-
-Welcome to The Studio's Investor Fireside Chat series, where we put founders in the room with investors who've been on the other side of the table. Join us for a conversation about what investors actually look for, how they make decisions, and what founders get wrong.Schedule: 5:00 PM: Doors open 5:30 PM: Fireside chat 6:00 PM: Networking
-
-### About the speaker
-
-Brian is a Senior Analyst at A100x Ventures, a pre-seed and seed fund focused on digital assets and AI. Brian's role at A100x covers the full investment process including sourcing, diligence, portfolio support, and interfacing with LPs. Before venture, Brian was at a YC backed startup and an engineer at Lockheed Martin's helicopter division and Intel's semiconductor facility.
-
-### About The Studio
-
-The Studio is Monad Foundation's founder workspace in the heart of Manhattan, where early-stage teams building on Monad work side by side. It is 100% equity-free: zero equity, zero fees. Teams get dedicated desks, hands-on support on pitch, GTM, and fundraising, and direct access to the VCs, angels, and mentors who work from the space alongside them. Interested in building on Monad and want in? Learn more and apply at https://thestudio.monad.xyz/
-
-### About Monad Foundation
-
-The Monad Foundation is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
-
 <a id="event-5d605ea174453d5c"></a>
 
 ## Binance Day CDMX
@@ -25387,302 +25025,6 @@ Ya sea que estés comenzando en el mundo cripto o que formes parte activa del ec
 Ven a descubrir lo que viene.
 
 Tendremos muchas sorpresas.
-
-<a id="event-cb997574970f50a4"></a>
-
-## NJ Crypto Summit v2
-
-- Record: `luma-batch-aXY4JEl9EXajRWv`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/183us8u5>
-
-### About the event
-
-My people on this side of the Hudson- mark your calendars - we're making our post-summer gathering happen! Top reasons to come:
-
-We have a cool space to hang out in
-
-Next time we see each other at an event where we're supposed to be networking and meeting new people we won't spend time catching up since we already caught up.
-
-It's in your back yard
-
-There are pool tables, poker tables, an arcade, shuffleboard... maybe we'll organize a tournament if enough people RSVP
-
-The building is called the Hendrix
-
-Tell reception you're meeting up with Sneh and to call you an elevator to the 7th floor
-
-<a id="event-9d836ea1af0731ec"></a>
-
-## Lhava and Fenwick Present: End of Summer in the City Happy Hour
-
-- Record: `luma-batch-d6YGDfLEVcOHLNA`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/26y625qg>
-
-### About the event
-
-Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.
-
-### Event details
-
-Hosted by Fenwick, Briton. Venue: Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. The event takes place on September 24. Registration requires organizer approval.
-
-<a id="event-71b22f1c168a7e9b"></a>
-
-## Bitcoin Book Club: The Network State
-
-- Record: `luma-batch-evtcWEvmyPIWgifO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/eemlek6d>
-
-### About the event
-
-Join the Bitcoin District Book Club! We meet every month to explore new and exciting rabbit holes by reading books that are popular with bitcoiners.
-
-Join us for a deep dive into The Network State by Balaji Srinivasan. In this session, we'll explore a provocative question: what if the next new country begins not with territory, but with an online community?
-
-Balaji argues that the internet enables people to organize around shared values, build parallel institutions, accumulate resources, and eventually establish communities in the physical world. He introduces the "network state" - an online community capable of collective action that crowdfunds territory around the world and ultimately seeks recognition as a new political entity.
-
-We'll discuss whether network states are actually feasible, how Bitcoin and decentralized technologies might enable new forms of political organization, and what sovereignty, governance, and citizenship could look like in the internet age.
-
-Whether you're excited by startup societies or skeptical that an online community could ever become a country, The Network State offers a thought-provoking framework for considering alternatives to the traditional nation-state.
-
-Get the book here.
-
-Event Notes:
-
-Discussion Starters: We'll kick things off with a few key questions around network states, sovereignty, Bitcoin, and the future of governance, but feel free to bring your own perspectives.
-
-Future Reads: Let us know if you have recommendations for future book club selections! We'll add them to the list posted on our website.
-
-Afterwards: Feel free to join us at PubKey after the meeting to hang out, continue the conversation, and grab some food!
-
-Getting There:
-
-Teaism - Penn Quarter
-
-Gallery Place/Chinatown + 2 min walk
-
-Parking: Street & garage parking available nearby
-
-<a id="event-e2815b1b01c7a175"></a>
-
-## La pola Bitcoiner
-
-- Record: `luma-batch-evt3pseyk4fEmz0i`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qp32ek4m>
-
-### About the event
-
-Únete a nuestra próxima Pola bitcoiner, una tarde para conversar, aprender y pasarla bien alrededor de Bitcoin. Nos vemos el 24 de septiembre en La Roja Casa Cultural, en la Calle 45 #18A-5. Arrancamos con un espacio pensado para quienes apenas están empezando o todavía tienen curiosidad pero no han dado el primer paso. Vas a poder descargar tu primera billetera, recibir gratis tus primeras fracciones de bitcoin, hacer preguntas sin pena y resolver dudas en un ambiente relajado y cercano.
-
-Después seguimos con una segunda parte abierta tanto para personas nuevas como para quienes ya tienen más camino recorrido, con una presentación especial y un taller práctico para crear tu propia tarjeta Bitcoin Lightning. Además, vamos a rifar 15 tarjetas Lightning Bitcoin, habrá una cerveza gratis para las primeras personas en llegar y, al final, quedará un espacio libre para conversar, debatir e intercambiar ideas. Los cupos son limitados, así que inscríbete y cae temprano. Te esperamos.
-
-<a id="event-8e6c39b991fbfe6f"></a>
-
-## One Love Digital Art Gallery: Networking Happy Hour
-
-- Record: `luma-batch-evtJh9oNVwo7xCor`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/dr20wz0f>
-
-### About the event
-
-NFTCLT invites you to join us for Happy Hour at One Love Digital Art Gallery located inside the YVE Hotel.
-
-### What to Expect
-
-See new work from One Love Art DAO's latest exhibition, The Space Between Two Worlds, recently shown at NFT NYC, plus a sneak peek at artwork from the Colombia Residency.
-
-Our co-host, Reign World Exclusives, brings in special guests for a beginner-friendly look at day trading, while NFTCLT speaks on the broader world of digital assets, including what the delayed Crypto Clarity Act means for collectors, traders and beginners alike.
-
-Complimentary Aguasol cocktail with purchase of a drink at Celia's Restaurant, located across from the gallery inside YVE.
-
-Food available for purchase.
-
-<a id="event-565bdd4d7bbf3c6f"></a>
-
-## Emerging Tech Room
-
-- Record: `luma-batch-mbcqnMls2Q8u6Mp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zbhm5t4z>
-
-### About the event
-
-Emerging Tech Room by MCA
-
-A private evening gathering for founders, investors, operators, and builders across emerging technology.
-
-Hosted in Toronto alongside Solana Summit Canada, the Emerging Tech Room brings together people working across Web3, AI, fintech, infrastructure, and the broader technology ecosystem for an evening of drinks, conversation, and new connections.
-
-No panels. No packed agenda. Just a more relaxed setting to meet the people building, backing, and scaling what comes next.
-
-Expect a curated mix of:
-
-Founders and builders
-
-Investors and capital partners
-
-Operators and ecosystem leaders
-
-Web3 and broader tech professionals
-
-TorontoSeptember 24Private event. Approval required.
-
-Hosted by MCA.In partnership with Polysights and Vybe Network.Held alongside Solana Summit Canada, brought to Toronto by Superteam Canada.
-
------------------Solana Summit Canadacanada.solanasummit.orghttps://luma.com/superteam
-
-MCAMCA is a strategy and growth partner helping emerging technology companies build and scale through product, marketing, partnerships, and international expansion.https://www.mca.digital/
-
-PolysightsAn emerging-tech intelligence and research platform turning complex market data into actionable insights.https://www.polysights.xyz/
-
-Vybe NetworkA Solana data infrastructure and analytics platform providing developers and teams with real-time and historical onchain data.https://vybe.fyi/
-
-RSVP now.
-
-<a id="event-415179153a9188c5"></a>
-
-## The Token Economy: Programmable Money Meets Real Commerce different style Panel with Antom & Visa
-
-- Record: `luma-batch-ozvnnzw9WEGsd9v`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-24T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/beta-17kf>
-
-### About the event
-
-Your agent works. Your demo converts. Now - how does the money actually reach you?
-
-Most AI companies hit the same wall at the same time. The product is good, the users are global, and the payment stack was built for a US SaaS company selling monthly seats.
-
-5:00 - 5:30 Registration and reception
-
-5:40 - 5:55 Antom keynote (15 min)
-
-5:55 - 7:00 Panel (50 min, including audience Q&A)
-
-Panelist:
-
-Sandra Li, Head of Business Development
-
-Ujwal Chaudhari, Product Manager at Visa
-
-Richard Sheng, Investor at Uphonest Capital
-
-7:00 - 8:00 Networking
-
-What We Will cover
-
-Panel - How Agentic Products Actually Get Paid
-
-WHO THIS IS FOR Founders and technical leads at AI-native companies with customers outside the US. Payments and fintech operators. Investors with a real thesis in this category.
-
-Hosted by Beta Fund,
-
-Presented by Antom: Antom is Ant International's merchant payment platform - 300+ payment methods across 200+ markets, and one of the few operators running tokenized deposits in production today rather than in a pilot deck.
-
-<a id="event-d21ff657cc15ff8c"></a>
-
-## After Hours: Founders, Funds & Cocktails
-
-- Record: `luma-batch-O0zsWPy1QZEFcr1`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/srvqqr98>
-
-### About the event
-
-An evening of cocktails following Solana Summit Canada and Elevate Festival.
-
-We're bringing together founders, investors, and institutional leaders for a relaxed evening of open networking. No panels - just good company with the people building and backing what's next.
-
-Thursday, September 24 from 8pm-11pm (near St. Lawrence Market)
-
-Space is limited and registrations are subject to approval.
-
-Co-hosted by:
-
-Inner Circle AgencyInner Circle Agency is a Montreal-based executive search firm placing Director to C-suite talent in finance, fintech, operations, and legal for companies across the US and Canada.https://innercircle-agency.com
-
-Budhhi TechnologyBudhhi is an AI and emerging-tech research lab helping organizations build and scale responsible, user-centric solutions across AI/ML, Web3, and Healthcare.https://budhhi.com
-
-ZKXPZKXP is an engineering studio building intelligent software for the physical worldhttps://zkxp.xyz
-
-ValironValiron helps business understand agentic traffic. Protect your website from malicious agents and understand the next generation of customers at https://www.valiron.co
-
-lumedotAgentic commerce, publishing and programmable-media infrastructure. Turning static content into immersive media.https://lumedot.comNFTOToronto's first community-driven NFT social club. https://x.com/joinnftoFLOJOFLOJO is a neuroscientist-formulated drink crafted with yerba mate tea, functional mushrooms, adaptogens, and real fruit juice for sparkling energy and focus. Give a follow @DrinkFlojo.MonkeFoundry MonkeFoundry is the flagship startup incubator powered by MonkeDAO - built to back the next generation of builders creating Web3 consumer apps/ products, protocols, and tooling. https://www.monkefoundry.io
-
-Supported by: Superteam Canada
-
-About Solana Summit CanadaSolana Summit Canada is a two-day Toronto gathering connecting founders, developers, creators, investors, and institutions to explore new technology and meet the people building it. Organized by Superteam Canada.https://www.solanasummit.ca
-
-<a id="event-3c4a0618e10c476a"></a>
-
-## AuthX San Francisco
-
-- Record: `luma-batch-sprS0JGgo75lO4p`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qm8a9ru1>
-
-### About the event
-
-For the people who love talking payments as much as they love meeting new people :)
-
-After a great start in Shanghai and 15+ Payments Club meetups across markets including Singapore, Dubai, Malaysia, the US, Thailand, the Philippines, and India, we're now bringing the payments community together in Seattle, San Francisco, and New York. This time as AuthX.Meet the Speakers
-
-Dhiraj Sharda - VP Product, Blackhawk Network
-
-John Tullis - Product, Gusto
-
-Paul Marsolan - Founder, Bladerun.ai
-
-Garand Tyson - Senior Protocol Researcher, Stellar Development Foundation
-
-This edition's theme: "Money Movement, Rebuilt From the Ground Up."If you could rebuild cross-border payments today, what would you refuse to carry over?We'll explore:
-
-The legacy stack and what breaks - correspondent banking, FX spreads, T+2.
-
-What replaces it - stablecoin rails, agent-initiated payments, and programmable settlement.
-
-So, if you want to network with the people building, shaping, questioning, and obsessing over payments, come join us.
-
-What is AuthX?
-
-We work at multiple companies throughout our careers, but our approachability is often tied to our CV and the organization we currently represent. AuthX is an attempt to create a representation of you that moves with you, rather than one that changes with your employer. It's about making your professional identity, credibility, and approachability belong to you, not the company you happen to work for.Organised by POS & Payments Club by T&P
-
-Payments Operator Series (POS) is a practitioner-led community connecting operators, founders, and builders across payments and commerce. We create high-trust spaces where people who are shipping and scaling systems in production share what is actually working and what is not. Through curated events, Substack content, and advisory services, POS accelerates execution across the ecosystem. We have partnered with Visa, Antom and speakers across the commerce ecosystems.
-
-Payments Club is a curated community of 800+ payments professionals across the globe, managed and run by T&P Payments Consulting & Advisory (www.travelandpayments.com). Our vision is to democratize payments knowledge and create something lasting: a community where the relationships built today lead to collaborations, opportunities, and friendships for years to come!
-
-Join our Payments Club: https://forms.gle/jv3H4GMUfwWcwfmT9
-
-Sponsored by
-
-Alchemy
-
-### About Alchemy
-
-Alchemy is building the infrastructure for the onchain economy, powering the next generation of payments, financial products, and blockchain applications. With support for 100+ blockchains, Alchemy helps businesses and developers build, scale, and move money onchain. https://www.alchemy.com/
 
 <a id="event-17c8c9c08081745b"></a>
 
@@ -25805,30 +25147,6 @@ Learn more at sui.io.
 Walrus Memory is a portable memory layer that helps AI agents remember, share context, and stay coordinated across apps, sessions, and workflows. Built on Walrus, it gives developers persistent, verifiable memory with privacy and control at its core.
 
 Learn more at walrus.xyz.By participating in this event, you agree to our Event Participation Terms & Conditions. Read about our Privacy Policy and Terms of Service.
-
-<a id="event-7ce9f6644aa5d8e7"></a>
-
-## AWIC San Francisco Dinner
-
-- Record: `luma-batch-jC5pbjSNVSkOBQl`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T01:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/o0bs6gwo>
-
-### About the event
-
-Join the AWIC San Francisco Chapter for a dinner at Sens Restaurant.
-
-This informal gathering is an opportunity to connect and learn about the Chapter's plans and upcoming programming for Q3 and Q4.
-
-Whether you're looking to reconnect with familiar faces or meet new members in the Bay Area, this dinner is a chance to engage with the local AWIC community.
-
-Date: September 24Time: 6:45 PM - 8:30 PMLocation: Sens Restaurant, Embarcadero, San Francisco
-
-Please note that this is a bring your own credit card dinner.AWIC members get their first drink free!
-
-Space is limited, so be sure to reserve your spot. We look forward to seeing you there!
 
 <a id="event-a011b71ec3977570"></a>
 
@@ -48904,100 +48222,6 @@ All workshops stream live on Discord, including the kickoff with the Colosseum f
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-60ae96b91ee041a2"></a>
-
-## Solana Summit Canada
-
-- Record: `luma-evt-uRRcZwmUKsVyVlH`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-23T13:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/Solana-Summit-Canada>
-- Original page: <https://luma.com/Solana-Summit-Canada>
-
-### Solana Summit is coming to Toronto
-
-Solana Summit Canada is a 2-day conference bringing together developers, founders, institutions, and ecosystem leaders shaping the future of Solana in Canada.
-
-Day 1 - dedicated to developers with technical talks, builder sessions, and deep dives by developers for developers.
-
-Day 2 - focuses on adoption, startups, stablecoins, and institutional innovation on Solana, featuring founders, industry leaders, and conversations around the future of blockchain in Canada.
-
-September 23 & 24, [Toronto, 2 blocks away from Elevate Festival](https://elevatefestival.ca/).
-
-Entry is free, but registration and approval is required.
-
-Agenda available here https://www.solanasummit.ca/agenda
-
-15 side events here https://www.solanasummit.ca/side-events
-
-Join the telegram for updates https://t.me/+xHswLTkhGpI0MGFh
-
-[Organized by Superteam Canada](https://superteam.ca/)
-
-[Powered by Solana](https://solana.com/)
-
-By signing up, you agree that Superteam Canada can contact you about future events [and updates, and that you will adhere to our Code of Conduct](https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).
-
-<a id="event-8cad57aec3d6bdc0"></a>
-
-## WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue
-
-- Record: `luma-evt-SN7UWBBLgEM1tmn`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-24T22:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/womenofcs-0soy>
-- Original page: <https://luma.com/womenofcs-0soy>
-
-### About Event
-
-A new role is showing up on org charts across tech, and it's quietly taking the work that used to define the CSM seat.
-
-The Forward Deployed Engineer is now hands-on with implementation and technical delivery in a way that used to sit with Customer Success. As that work moves off the CSM's plate, the CSM seat isn't disappearing, it's being redefined.
-
-That is the real shift, and it is what this evening is about. When technical delivery is no longer how you prove your value, that value has to show up somewhere else, and more and more that somewhere is the number: the renewal, the expansion, the growth of the account. So the questions get practical fast. What do you hand off? What do you hold onto? And how do you build the language and instincts of someone who owns revenue, even if your title does not say so yet?
-
-This time you'll hear from both sides of that handoff: a Forward Deployed Engineer who can tell you exactly what the role owns and why it exists, and a senior Cloudflare Customer Success leader whose team recently brought FDEs into the org, so she has lived what changes for CS when that work moves. The evening moves from fireside chat into small-group roundtable conversations, so every attendee leaves with a specific next step for wherever they sit in this shift.
-
-As always, bites and beverages will be provided
-
-### What We'll Dive Into
-
-- What a Forward Deployed Engineer actually does, and how it differs from a Technical Account Manager or Sales Engineer
-- What changes when technical delivery splits off from the CSM seat, and why this is happening industry-wide at the same time
-- Who owns the technical build or deployment now, and what CSMs are starting to own instead
-- Owning the number: what revenue ownership looks like for CSMs today, how CS value gets measured when it's less about hands-on technical work, and how the FDE partnership shows up in renewals and expansion
-- The hardest part of the transition: proving your value and staying close to the customer when you're no longer hands-on with the technical work
-- What to build toward over the next year to stay ahead of this shift rather than behind it
-
-### What You'll Take Away
-
-- Real talking points for the handoff conversations happening in your own org right now, straight from people who have lived this restructuring from both sides of it
-- Small-group time to work through the one question that hits closest to home for you, alongside peers navigating the same shift
-- A clearer read on what to build toward over the next year: the skills, habits, or relationships that put you ahead of this shift rather than behind it
-
-### Who This Is For
-
-- CSMs and Account Managers figuring out what's staying on their plate and what's moving off it
-- CS leaders and Directors/VPs who already own, or are being asked to own, a revenue number
-- Women working in Onboarding, Implementation, or Technical Account Management wondering what the creation of the FDE role means for them
-- Anyone in post-sales who wants to learn more about the Forward Deployed Engineer function
-
-This event is part of the Women of Customer Success community, built for women working in tech and post-sales. If that's you, we'd love to have you in the room.
-
-### How to Access the Cloudflare Office
-
-Enter Cloudflare along Comal St. and check-in at the front desk. Our event will be hosted on the first floor, to the right of security!
-
-### About Women of Customer Success
-
-WoCS is the leading community for the best and brightest women in post-sales roles and leadership. Our mission is to connect, educate, and empower women to thrive in their careers and lead the way forward. With over 10 chapters worldwide, we are cultivating the next generation of women shaping the future of customer experience.
-
-[Join the online community and register for our newsletter](https://womenofcustomersuccess.com/join)
-
-[Follow us on LinkedIn](https://www.linkedin.com/company/women-of-customer-success/)
-
 <a id="event-6ef3f51bd41b405d"></a>
 
 ## Ethereum Institutional Summit 2026
@@ -69200,6 +68424,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d71f325d699751b5"></a>
+
+## Riserva Lisbon \| Stablecoins over wine at Stellar Meridian
+
+- Record: `luma-evt-YzGzTQbu1dahJDa`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/8ph6fevz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ab41b15db0c5cebc"></a>
 
 ## Bienvenidos a charla en Español.
@@ -69209,6 +68445,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T18:30:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f41f73b4aeab2bff"></a>
+
+## Let's discuss Bitcoin and the Crypto Sector
+
+- Record: `mu-316890584`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316890584/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-73779e11c1a31912"></a>
+
+## DeFi x RWA: Cocktail Hour
+
+- Record: `luma-evt-JpP8MdGtZvkFxnd`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rqt96zxr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69442,6 +68702,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-568e9dc8a00a40de"></a>
+
+## Inovamente \| IA e psicologia, na prática com Francisco Valente Gonçalves (Rumo)
+
+- Record: `luma-evt-DQb4cHdgCuOFzGM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/a0fjio4u>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-f613d7f83e70f51d"></a>
 
 ## Tritemius Side Event
@@ -69499,6 +68771,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T18:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/4w2zk12q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-53bc14c3b0abe476"></a>
+
+## Open Bitcoin Q&A Chat!
+
+- Record: `mu-316047304`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/satoshi-service-center/events/316047304/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71883,6 +71167,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-29bfd82bc0c5f4bc"></a>
+
+## FIRST TASTE: The Carry in a New Shade of Strong
+
+- Record: `luma-evt-fzVRPcojiogUBkS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/k54pib4w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-38c670df9185292c"></a>
 

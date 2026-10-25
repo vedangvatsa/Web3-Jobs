@@ -231,63 +231,6 @@
     }
   },
   {
-    "id": "luma-evt-uRRcZwmUKsVyVlH",
-    "name": "Solana Summit Canada",
-    "description": "## Solana Summit is coming to Toronto 🍁\n\nSolana Summit Canada is a 2-day conference bringing together developers, founders, institutions, and ecosystem leaders shaping the future of Solana in Canada.\n\nDay 1 - dedicated to developers with technical talks, builder sessions, and deep dives by developers for developers.\n\nDay 2 - focuses on adoption, startups, stablecoins, and institutional innovation on Solana, featuring founders, industry leaders, and conversations around the future of blockchain in Canada.\n\nSeptember 23 & 24, [Toronto, 2 blocks away from Elevate Festival](https://elevatefestival.ca/).\n\nEntry is free, but registration and approval is required.\n\nAgenda available here https://www.solanasummit.ca/agenda\n\n15 side events here https://www.solanasummit.ca/side-events\n\nJoin the telegram for updates https://t.me/+xHswLTkhGpI0MGFh\n\n[Organized by Superteam Canada](https://superteam.ca/)\n[Powered by Solana](https://solana.com/)\n\nBy signing up, you agree that Superteam Canada can contact you about future events [and updates, and that you will adhere to our Code of Conduct](https://docs.google.com/document/d/151gn2UJ6nhXIb5lJQ8jsvQuOAfc0GGUyCsrMrysli2A/edit?tab=t.0&utm_source=luma#heading=h.8yo4odrs6zzp).",
-    "startDate": "2026-09-23T13:30:00.000Z",
-    "endDate": "2026-09-24T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "St. Lawrence Market North, 92 Front St E, Toronto, ON M5E 1C3, Canada",
-    "url": "https://lu.ma/Solana-Summit-Canada",
-    "coverImage": "/events/luma-evt-urrczwmuksvyvlh-d55a43bc.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "ssc",
-    "timezone": "America/Toronto",
-    "registrationUrl": "https://luma.com/Solana-Summit-Canada",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "St. Lawrence Market North",
-    "streetAddress": "92 Front St E, Toronto",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "neighborhood": "St. Lawrence",
-    "coordinates": {
-      "latitude": 43.649515400000006,
-      "longitude": -79.3719386
-    },
-    "hosts": [
-      "Superteam Canada"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Canada",
-      "url": "https://superteam.ca/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Attendee",
-        "url": "https://luma.com/Solana-Summit-Canada",
-        "price": 0,
-        "availability": "InStock",
-        "validFrom": "2026-07-01T04:30:00.000Z"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/Solana-Summit-Canada",
-      "eventId": "evt-uRRcZwmUKsVyVlH",
-      "fetchedAt": "2026-09-19T23:49:50.695Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-Z7nulSbBeA3aFMI",
     "name": "ACP | Verticomm Lunch & Learn",
     "description": "You’re Invited!\n\nJoin us for an exclusive Lunch & Learn to discover how Elevate helps businesses simplify communications, improve collaboration, and deliver better customer experiences—all from one powerful platform.\n\nEnjoy a delicious complimentary lunch while learning how Elevate helps organizations:\n\n• Streamline communications across voice, video, chat, and SMS\n• Empower employees to work securely from anywhere\n• Enhance customer interactions and responsiveness\n• Boost productivity with integrated collaboration tools\n• Unlock AI-powered features and capabilities that help teams work smarter\n• Extend and enhance Microsoft Teams with enterprise-grade calling and collaboration capabilities\n\nYou’ll gain practical insights, see a live product demonstration, and have the opportunity to connect with communications experts in a relaxed, interactive setting.\n\nReserve Your Seat\n\nSpace is limited—register today to enjoy a great meal and discover smarter ways to connect your teams, customers, and business.\n\nPresented By ACP | Verticomm + Intermedia Intelligent Communications",
@@ -410,53 +353,6 @@
     },
     "registrationUrl": "https://luma.com/0j8gx7i1",
     "slug": "sec"
-  },
-  {
-    "id": "luma-evt-SN7UWBBLgEM1tmn",
-    "name": "WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue",
-    "description": "## About Event\n\nA new role is showing up on org charts across tech, and it's quietly taking the work that used to define the CSM seat.\n\nThe Forward Deployed Engineer is now hands-on with implementation and technical delivery in a way that used to sit with Customer Success. As that work moves off the CSM's plate, the CSM seat isn't disappearing, it's being redefined.\n\nThat is the real shift, and it is what this evening is about. When technical delivery is no longer how you prove your value, that value has to show up somewhere else, and more and more that somewhere is the number: the renewal, the expansion, the growth of the account. So the questions get practical fast. What do you hand off? What do you hold onto? And how do you build the language and instincts of someone who owns revenue, even if your title does not say so yet?\n\nThis time you'll hear from both sides of that handoff: a Forward Deployed Engineer who can tell you exactly what the role owns and why it exists, and a senior Cloudflare Customer Success leader whose team recently brought FDEs into the org, so she has lived what changes for CS when that work moves. The evening moves from fireside chat into small-group roundtable conversations, so every attendee leaves with a specific next step for wherever they sit in this shift.\n\nAs always, bites and beverages will be provided 🍽️\n\n## Fireside Chat Speakers\n\n## What We'll Dive Into\n\n• What a Forward Deployed Engineer actually does, and how it differs from a Technical Account Manager or Sales Engineer\n• What changes when technical delivery splits off from the CSM seat, and why this is happening industry-wide at the same time\n• Who owns the technical build or deployment now, and what CSMs are starting to own instead\n• Owning the number: what revenue ownership looks like for CSMs today, how CS value gets measured when it's less about hands-on technical work, and how the FDE partnership shows up in renewals and expansion\n• The hardest part of the transition: proving your value and staying close to the customer when you're no longer hands-on with the technical work\n• What to build toward over the next year to stay ahead of this shift rather than behind it\n\n## What You'll Take Away\n\n• Real talking points for the handoff conversations happening in your own org right now, straight from people who have lived this restructuring from both sides of it\n• Small-group time to work through the one question that hits closest to home for you, alongside peers navigating the same shift\n• A clearer read on what to build toward over the next year: the skills, habits, or relationships that put you ahead of this shift rather than behind it\n\n## Who This Is For\n\n• CSMs and Account Managers figuring out what's staying on their plate and what's moving off it\n• CS leaders and Directors/VPs who already own, or are being asked to own, a revenue number\n• Women working in Onboarding, Implementation, or Technical Account Management wondering what the creation of the FDE role means for them\n• Anyone in post-sales who wants to learn more about the Forward Deployed Engineer function\n\nThis event is part of the Women of Customer Success community, built for women working in tech and post-sales. If that's you, we'd love to have you in the room.\n\n## How to Access the Cloudflare Office\n\nEnter Cloudflare along Comal St. and check-in at the front desk. Our event will be hosted on the first floor, to the right of security!\n\n## About Women of Customer Success\n\nWoCS is the leading community for the best and brightest women in post-sales roles and leadership. Our mission is to connect, educate, and empower women to thrive in their careers and lead the way forward. With over 10 chapters worldwide, we are cultivating the next generation of women shaping the future of customer experience.\n\n✨ [Join the online community and register for our newsletter](https://womenofcustomersuccess.com/join)\n\n✨ [Follow us on LinkedIn](https://www.linkedin.com/company/women-of-customer-success/)",
-    "startDate": "2026-09-24T22:30:00.000Z",
-    "endDate": "2026-09-25T01:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/womenofcs-0soy",
-    "coverImage": "/events/luma-evt-sn7uwbblgem1tmn-d396bc38.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "waxc",
-    "timezone": "America/Chicago",
-    "registrationUrl": "https://luma.com/womenofcs-0soy",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Women of Customer Success"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Women of Customer Success Events",
-      "url": "https://www.womenofcustomersuccess.com/"
-    },
-    "price": "USD 10",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/womenofcs-0soy",
-        "price": 10,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/womenofcs-0soy",
-      "eventId": "evt-SN7UWBBLgEM1tmn",
-      "fetchedAt": "2026-09-19T23:49:52.005Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
   },
   {
     "id": "w3v-ethereum-institutional-summit-2026",
@@ -21537,10 +21433,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22995,7 +22888,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316749553-4ef65602.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27726,7 +27619,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bouldernet-meetup/events/316912416/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316912416-ca1c1669.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -28857,5 +28750,89 @@
     "coverImage": "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-YzGzTQbu1dahJDa",
+    "name": "Riserva Lisbon | Stablecoins over wine at Stellar Meridian",
+    "description": "",
+    "startDate": "2026-10-27T18:00:00.000Z",
+    "endDate": "2026-10-27T20:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/8ph6fevz",
+    "coverImage": "/events/luma-evt-yzgztqbu1dahjda-7af28c9f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-JpP8MdGtZvkFxnd",
+    "name": "DeFi x RWA: Cocktail Hour",
+    "description": "",
+    "startDate": "2026-10-27T19:00:00.000Z",
+    "endDate": "2026-10-27T22:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/rqt96zxr",
+    "coverImage": "/events/luma-evt-jpp8mdgtzvkfxnd-84c67c00.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-DQb4cHdgCuOFzGM",
+    "name": "Inovamente | IA e psicologia, na prática com Francisco Valente Gonçalves (Rumo)",
+    "description": "",
+    "startDate": "2026-10-28T17:00:00.000Z",
+    "endDate": "2026-10-28T19:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/a0fjio4u",
+    "coverImage": "/events/luma-evt-dqb4chdgcuofzgm-db8a2ba1.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316890584",
+    "name": "Let's discuss Bitcoin and the Crypto Sector",
+    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
+    "startDate": "2026-10-27T19:00:00-05:00",
+    "endDate": "2026-10-27T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/316890584/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316047304",
+    "name": "Open Bitcoin Q&A Chat!",
+    "description": "Open Bitcoin Q&A Chat!\n\nAll are Welcome! This week is \"Intro to Bitcoin with Q&A discussion\". Bring your questions!\n*Link below*\n\nResources:\n\n* https://Bitcoin.Rocks\n* https://Bitcoin-Only.com\n* https",
+    "startDate": "2026-10-28T19:00:00-05:00",
+    "endDate": "2026-10-28T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/satoshi-service-center/events/316047304/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-fzVRPcojiogUBkS",
+    "name": "FIRST TASTE: The Carry in a New Shade of Strong",
+    "description": "",
+    "startDate": "2026-11-14T18:00:00.000Z",
+    "endDate": "2026-11-14T20:00:00.000Z",
+    "city": "Seattle",
+    "country": "United States",
+    "location": "Seattle, United States",
+    "url": "https://lu.ma/k54pib4w",
+    "coverImage": "/events/luma-evt-fzvrpcojiogubks-40f833d6.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]

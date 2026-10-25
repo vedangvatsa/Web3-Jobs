@@ -1540,32 +1540,6 @@
     }
   },
   {
-    "id": "premier-ethsofia",
-    "slug": "ethsofia",
-    "name": "ETHSofia 2026",
-    "description": "ETHSofia is Bulgaria's premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain.\n\n## Conference\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\nThe program covers onchain privacy and scaling, smart contract security and operations security, consumer DeFi, and Ethereum integrations into Web2 products, delivered by Ethereum teams, service providers, integrating enterprises and security professionals.\n\n## Speakers\n\nPublished speakers include Viktor Uzunov (UEB3 Fund), Krum Pashov (Pashov Audit Group), Marc Zeller (Aave Chan Initiative), Nicolas Bacca (Ledger, ZKnox), TokenBrice (Polaris), Klara Kovacevic (ChainSecurity), Jonathan Riss (CertiK), Todor Karaivanov (Chainlink Labs), Mark Richardson (Bancor), Steffen Kux (corpus.core), Josef Gattermayer (ack3) and Vyara Savova (European Ethereum Institute).\n\n## Venue\n\nThe John Atanasoff Forum is part of Bulgaria's first science and technology park, surrounded by startups, enterprises, investment funds, a laboratory complex and the Discoverer supercomputer. Tickets are available through Blockchain Week Bulgaria, with speaker, partner and volunteer applications open.",
-    "startDate": "2026-09-24",
-    "endDate": "2026-09-24",
-    "city": "Sofia",
-    "country": "Bulgaria",
-    "location": "Sofia Tech Park, Sofia, Bulgaria",
-    "url": "https://www.blockchainweek.bg",
-    "website": "https://www.ethsofia.com/",
-    "coverImage": "/events/ethsofia.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "venueName": "John Atanasoff Forum, Sofia Tech Park",
-    "descriptionSource": {
-      "url": "https://www.ethsofia.com/",
-      "fetchedAt": "2026-09-21T05:12:52.996Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "ETHSofia 2026",
-      "sha256": "d94999b343af179180aaa1db38eac9e7a6e4e0b741cd84bf7337d6a6d57ea345"
-    },
-    "registrationUrl": "https://www.ethsofia.com/",
-    "timezone": "Europe/Sofia"
-  },
-  {
     "id": "premier-btchel",
     "slug": "btchel",
     "name": "BTCHEL 2026",

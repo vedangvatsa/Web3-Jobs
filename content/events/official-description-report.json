@@ -312,30 +312,6 @@
       "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
     },
     {
-      "id": "premier-ethsofia",
-      "file": "curated-events.json",
-      "name": "ETHSofia 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://drive.google.com/file/d/1EBXbTYap_bOnnqeYZxNIyk4D3tJNVfyj/view?usp=sharing",
-          "reason": "no-event-description"
-        },
-        {
-          "url": "https://drive.google.com/file/d/1JHMpDrZc7gXI-NuOgpxTXA-dxbBOhBNk/view?usp=sharing",
-          "reason": "no-event-description"
-        },
-        {
-          "url": "https://www.blockchainweek.bg/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://www.blockchainweek.bg",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-btchel",
       "file": "curated-events.json",
       "status": "source-backed",

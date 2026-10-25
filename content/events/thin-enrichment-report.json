@@ -211,17 +211,6 @@
       }
     },
     {
-      "id": "premier-ethsofia",
-      "words": 193,
-      "source": {
-        "url": "https://www.ethsofia.com/",
-        "fetchedAt": "2026-09-21T05:12:52.996Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "ETHSofia 2026",
-        "sha256": "d94999b343af179180aaa1db38eac9e7a6e4e0b741cd84bf7337d6a6d57ea345"
-      }
-    },
-    {
       "id": "premier-ethtokyo-2026",
       "words": 196,
       "source": {

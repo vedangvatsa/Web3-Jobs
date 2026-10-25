@@ -1318,45 +1318,6 @@
       }
     ]
   },
-  "premier-ethsofia": {
-    "summaryLead": "ETHSofia 2026 headlines Blockchain Week Bulgaria from September 23-25 at Sofia Tech Park, pairing the region's technical Ethereum conference with an institutional finance forum and a curated slate of side events.",
-    "sections": [
-      {
-        "heading": "One Week, One Campus",
-        "content": [
-          "Blockchain Week Bulgaria runs September 23-25, 2026, at Sofia Tech Park, and ETHSofia anchors it as the flagship technical conference. The week is structured as a shared platform: builders, founders, financial institutions, policymakers, and infrastructure providers get one campus and one coordinated calendar instead of competing events scattered across the city.",
-          "The split is clean. September 24 belongs to ETHSofia itself, gathering engineers, founders, and protocol architects working on scalable, secure, production-ready systems. September 25 shifts registers entirely with F3, the Future Finance Forum, convening financial leaders, regulators, and enterprise innovators around tokenized assets, compliant digital finance, and AI-driven financial systems.",
-          "Around both headline days, independently organized side events plug into the official program after review by the team, which is how community workshops and individual team meetups earn a slot on the week's calendar."
-        ]
-      },
-      {
-        "heading": "Six Tracks From Protocol to Policy",
-        "content": [
-          "Programming organizes into six themes spanning blockchain's practical footprint. Technical Innovation covers scalability, security, automation, and production-grade systems. Finance and Institutions spans tokenization, onchain automation, payments, custody, and enterprise adoption.",
-          "AI and Autonomous Finance addresses agentic AI, intelligent automation, risk systems, and AI-enhanced digital asset infrastructure. Consumer and Culture in Web3 covers real adoption, digital ownership, creator economies, and community-driven ecosystems.",
-          "Infrastructure in Production tracks the path from working prototype to deployed-at-scale, and Regulation and Policy rounds things out with compliance, legal frameworks, and the road to institutional adoption. The spread means a compliance officer and a smart-contract engineer both have concrete reasons to attend, occasionally landing in the same session, which is rarer than it should be."
-        ]
-      },
-      {
-        "heading": "Built for Two Audiences at Once",
-        "content": [
-          "Most technical conferences struggle to hold institutional attention, and most finance forums bore engineers into the hallway. Blockchain Week Bulgaria sequences both deliberately: hard technical content on day one, institutional and regulatory content on day two, with the shared campus doing the matchmaking in between.",
-          "For Balkan-region builders especially, the week concentrates relationships that usually require separate trips to Berlin, London, or Zug. The organizing team runs visible curation across partnerships and speaker selection, signaling a reviewed program rather than pay-to-play staging.",
-          "Recap videos from the 2024 and 2025 editions are linked from the site, useful if you want a visual sense of scale and crowd composition before committing travel budget.",
-          "The week's positioning as a shared platform also cuts both ways in a good way: companies and teams that want to host their own session submit through the site for review rather than negotiating separately, which keeps the calendar coherent even while it grows.",
-          "That review step matters for attendees too. A curated side-event list is the difference between a week with a real agenda and a week of guessing which rooftop party has the people you came to meet."
-        ]
-      },
-      {
-        "heading": "Getting In and Getting Around",
-        "content": [
-          "Tickets flow through the Blockchain Week Bulgaria site, where a countdown clock was running at publication. Sofia remains one of Europe's more affordable capitals for flights and lodging, and late September sits comfortably in shoulder season.",
-          "Sofia Tech Park occupies the innovation-district end of the Bulgarian capital, with the city center a short ride away, so pairing conference days with evening side events across town stays realistic rather than aspirational.",
-          "Choosing between headline days: pick ETHSofia for engineering depth, F3 for tokenization and regulatory direction, or the full week if your role straddles both worlds, as most product and founder roles now do whether job descriptions admit it or not."
-        ]
-      }
-    ]
-  },
   "premier-btchel": {
     "summaryLead": "BTCHEL 2026 brings the Nordic Bitcoin community to Kaapelitehdas in Helsinki on September 25-26, pairing developer-facing talks and the European Mining Summit with an explicitly grassroots, bootstrapped conference ethos.",
     "sections": [
@@ -2633,39 +2594,6 @@
         "content": [
           "This event is most valuable for people who sit at the intersection of film and technology - not just filmmakers curious about AI, and not just technologists curious about film, but people who are actively working at that boundary. If you're building AI tools for video, making films that use generative technology, researching the ethical implications, or investing in creative tech startups, this room has something for you.",
           "The MIT location also makes it accessible to students and researchers who might not have the budget for expensive industry conferences but want to engage with the AI-film conversation. The networking component, with 35+ attendees and panel participants from Sparksense and other organizations, provides the kind of face-to-face connection that's hard to replicate online. And it's free - or at least it's listed without a fee at this stage."
-        ]
-      }
-    ]
-  },
-  "luma-evt-SN7UWBBLgEM1tmn": {
-    "summaryLead": "A $10 Women of Customer Success event in Austin exploring how the Forward Deployed Engineer role is reshaping Customer Success, featuring panel discussions and roundtable conversations with Cloudflare participation.",
-    "sections": [
-      {
-        "heading": "The Shift Being Examined",
-        "content": [
-          "WoCS Austin X Cloudflare: The Forward Deployed Era + CS's Shift to Revenue takes place Wednesday, September 24, 2026, from 6:30 PM to 9:30 PM in Austin, Texas. The event, priced at $10, addresses a structural change happening across tech organizations: the emergence of the Forward Deployed Engineer role and how it is pulling technical implementation work away from Customer Success Managers.",
-          "The core question is what happens to the CSM role when hands-on technical delivery moves to a dedicated function. The event argues that the CSM seat is not disappearing - it is being redefined around a different core skill: owning revenue. This is not a theoretical discussion. The description notes that this shift is happening industry-wide, and the evening is designed for CS professionals who need to understand what it means for their careers."
-        ]
-      },
-      {
-        "heading": "The Format and What You Get",
-        "content": [
-          "The evening moves from a panel discussion into small-group roundtable conversations. The panel features leaders and practitioners who have lived through this restructuring firsthand, including, if confirmed, a Cloudflare team member in a Forward Deployed Engineer or Solutions seat. Having someone from Cloudflare - a company that has been vocal about its Forward Deployed approach - in the room gives attendees a concrete example of what this role looks like in practice.",
-          "The roundtable portion is where the real work happens. Attendees break into small groups to discuss where they personally sit in this shift, what they should hand off, what they should hold onto, and how to build the language and instincts of someone who owns a revenue number. Bites and beverages are provided, keeping the atmosphere social while the content stays substantive. The combination of panel and roundtable means you leave with both big-picture understanding and specific, personal next steps."
-        ]
-      },
-      {
-        "heading": "Who Should Attend",
-        "content": [
-          "The event targets four groups: CSMs and Account Managers figuring out what stays on their plate, CS leaders and Directors/VPs who already own or are being asked to own a revenue number, RevOps and CS Ops professionals thinking about team design, and anyone in a post-sales role watching their organization create Forward Deployed Engineer or Solutions Consulting seats. That is a broad but coherent audience - everyone in the room is navigating the same structural shift from a different vantage point.",
-          "Women of Customer Success is the organizing community, and the event is built for women working in tech and post-sales roles. WoCS operates with over 10 chapters worldwide, and this Austin edition is part of their broader mission to connect, educate, and empower women in post-sales leadership. The community aspect matters here because the shift being discussed is not just technical - it is career-defining, and having a peer group navigating the same transition adds a support layer that a generic tech event would not provide."
-        ]
-      },
-      {
-        "heading": "Why This Conversation Is Timely",
-        "content": [
-          "The Forward Deployed Engineer role has gained significant traction in recent years, particularly at companies with complex technical products that require hands-on implementation. As these roles proliferate, the boundary between Customer Success and technical delivery is shifting in real time. CSMs who used to own the full post-sales lifecycle - from onboarding through technical setup to ongoing relationship management - are finding that the technical pieces are being peeled off into dedicated functions.",
-          "This creates both opportunity and anxiety. Opportunity, because CSMs who can own revenue and drive expansion are more strategically valuable than ever. Anxiety, because the skills that defined a successful CSM - technical knowledge, product expertise, hands-on implementation ability - are being redistributed. The WoCS Austin event addresses both sides of that equation, giving attendees a framework for understanding where the role is heading and what they need to build toward over the next year to stay ahead of the shift."
         ]
       }
     ]

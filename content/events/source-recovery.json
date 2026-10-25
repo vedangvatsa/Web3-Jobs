@@ -20,25 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-ethsofia",
-      "kind": "reviewed",
-      "sourceUrl": "https://www.ethsofia.com/",
-      "contains": [
-        "24 September 2026",
-        "Sofia Tech Park",
-        "ETHSofia is Bulgaria’s premier Ethereum-focused conference"
-      ],
-      "description": "ETHSofia is Bulgaria’s premier Ethereum-focused conference, bringing together builders, researchers, and institutions shaping the future of the original smart contract blockchain. With a strong regional lens and a global perspective, ETHSofia brings together local leaders and international experts to explore the latest Ethereum trends and use cases, from privacy-preserving infrastructure to real-world asset tokenization.\n\n## Main themes\n\n• Onchain privacy and scaling\n• Smart contract security and OPSEC\n• Consumer DeFi\n• Ethereum integrations into Web2\n\n## Who attends\n\nThe program brings together Ethereum teams building applications and core infrastructure, service providers supporting production-grade crypto experience, teams integrating Ethereum in Web2, security professionals focused on audits, risk and resilience, and developers and researchers across scaling, privacy, UX and protocol development.\n\n## Venue\n\nThe conference takes place on 24 September 2026 at Sofia Tech Park. The John Atanasoff Forum is part of Bulgaria's first science and technology park.",
-      "patch": {
-        "startDate": "2026-09-24",
-        "endDate": "2026-09-24",
-        "timezone": "Europe/Sofia",
-        "venueName": "John Atanasoff Forum, Sofia Tech Park",
-        "location": "Sofia Tech Park, Sofia, Bulgaria"
-      },
-      "reason": "Replaced the parent Blockchain Week homepage with ETHSofia's own 2026 event page and corrected the conference from a three-day listing to 24 September."
-    },
-    {
       "id": "premier-ethtokyo-2026",
       "kind": "reviewed",
       "sourceUrl": "https://ethglobal.com/events/tokyo2026",

@@ -1,157 +1,5 @@
 [
   {
-    "id": "luma-batch-7VQsitDF0AG6K7j",
-    "slug": "5hfvpnxt",
-    "name": "The Studio Investor Fireside Chat: A100X Ventures | Brian Li",
-    "description": "Welcome to The Studio's Investor Fireside Chat series, where we put founders in the room with investors who've been on the other side of the table. Join us for a conversation about what investors actually look for, how they make decisions, and what founders get wrong.Schedule: 🚪 5:00 PM: Doors open💬 5:30 PM: Fireside chat👥 6:00 PM: Networking\n\nAbout the speaker\n\nBrian is a Senior Analyst at A100x Ventures, a pre-seed and seed fund focused on digital assets and AI. Brian's role at A100x covers the full investment process including sourcing, diligence, portfolio support, and interfacing with LPs. Before venture, Brian was at a YC backed startup and an engineer at Lockheed Martin's helicopter division and Intel's semiconductor facility.\n\nAbout The Studio\n\nThe Studio is Monad Foundation's founder workspace in the heart of Manhattan, where early-stage teams building on Monad work side by side. It is 100% equity-free: zero equity, zero fees. Teams get dedicated desks, hands-on support on pitch, GTM, and fundraising, and direct access to the VCs, angels, and mentors who work from the space alongside them. Interested in building on Monad and want in? Learn more and apply at https://thestudio.monad.xyz/\n\nAbout Monad Foundation\n\nThe Monad Foundation is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).\n\nDisclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-09-24T21:00:00.000Z",
-    "endDate": "2026-09-24T22:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Manhattan, New York, New York, United States",
-    "url": "https://luma.com/5hfvpnxt",
-    "registrationUrl": "https://luma.com/5hfvpnxt",
-    "coverImage": "/events/luma-recover-lumabatch7VQsitD-d36279ff.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Manuel Rinaldi",
-      "Monad Foundation"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Manhattan",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Manuel Rinaldi",
-      "url": "https://luma.com/user/manu_monad"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/5hfvpnxt",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/5hfvpnxt",
-      "eventId": "evt-7VQsitDF0AG6K7j",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-d6YGDfLEVcOHLNA",
-    "slug": "26y625qg",
-    "name": "Lhava and Fenwick Present: End of Summer in the City Happy Hour",
-    "description": "Join Lhava and Fenwick for an exclusive rooftop happy hour as we celebrate the end of summer in the city with friends and colleagues from across the blockchain and crypto world. Expect great views, craft cocktails, and an easygoing evening made for catching up, making introductions, and enjoying the energy of New York in the summer.\n\n## Event details\n\nHosted by Fenwick, Briton. Venue: Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA. The event takes place on September 24. Registration requires organizer approval.",
-    "startDate": "2026-09-24T22:00:00.000Z",
-    "endDate": "2026-09-25T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Broken Shaker, Broken Shaker, 23 Lexington Ave 18th Floor, New York, NY 10010, USA",
-    "url": "https://luma.com/26y625qg",
-    "registrationUrl": "https://luma.com/26y625qg",
-    "coverImage": "/events/luma-batch-d6YGDfLEVcOHLNA-1df0cb03.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Fenwick",
-      "Briton"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Midtown Manhattan",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Broken Shaker",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Fenwick"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/26y625qg",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/26y625qg",
-      "eventId": "evt-d6YGDfLEVcOHLNA",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
-    "id": "luma-batch-aXY4JEl9EXajRWv",
-    "slug": "183us8u5",
-    "name": "NJ Crypto Summit v2",
-    "description": "My people on this side of the Hudson- mark your calendars - we're making our post-summer gathering happen! Top reasons to come:\n\nWe have a cool space to hang out in\n\nNext time we see each other at an event where we're supposed to be networking and meeting new people we won't spend time catching up since we already caught up.\n\nIt's in your back yard\n\nThere are pool tables, poker tables, an arcade, shuffleboard... maybe we'll organize a tournament if enough people RSVP\n\nThe building is called the Hendrix\n\nTell reception you're meeting up with Sneh and to call you an elevator to the 7th floor",
-    "startDate": "2026-09-24T22:00:00.000Z",
-    "endDate": "2026-09-25T01:00:00.000Z",
-    "city": "Jersey City",
-    "country": "United States",
-    "location": "180 Morgan St 7th floor, Art House, 180 Morgan St 7th floor, Jersey City, NJ 07302, USA",
-    "url": "https://luma.com/183us8u5",
-    "registrationUrl": "https://luma.com/183us8u5",
-    "coverImage": "/events/luma-batch-aXY4JEl9EXajRWv-541455b1.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "John Goldschmidt",
-      "Sneh"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/New_York",
-    "neighborhood": "Downtown Jersey City",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "180 Morgan St 7th floor",
-    "addressLocality": "Jersey City",
-    "addressRegion": "New Jersey",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "John Goldschmidt"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/183us8u5",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/183us8u5",
-      "eventId": "evt-aXY4JEl9EXajRWv",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-zLCKOLVfI40BQGn",
     "slug": "wgdvkt2x",
     "name": "1 BILLION DOLLAR SHOW",
@@ -1388,106 +1236,6 @@
     }
   },
   {
-    "id": "luma-batch-ozvnnzw9WEGsd9v",
-    "slug": "beta-17kf",
-    "name": "The Token Economy: Programmable Money Meets Real Commerce different style Panel with Antom & Visa",
-    "description": "Your agent works. Your demo converts. Now — how does the money actually reach you?\n\nMost AI companies hit the same wall at the same time. The product is good, the users are global, and the payment stack was built for a US SaaS company selling monthly seats.\n\n5:00 – 5:30 Registration and reception\n\n5:40 – 5:55 Antom keynote (15 min)\n\n5:55 – 7:00 Panel (50 min, including audience Q&A)\n\nPanelist:\n\nSandra Li, Head of Business Development\n\nUjwal Chaudhari, Product Manager at Visa\n\nRichard Sheng, Investor at Uphonest Capital\n\n7:00 – 8:00 Networking\n\nWhat We Will cover\n\nPanel - How Agentic Products Actually Get Paid\n\nWHO THIS IS FOR Founders and technical leads at AI-native companies with customers outside the US. Payments and fintech operators. Investors with a real thesis in this category.\n\nHosted by Beta Fund,\n\nPresented by Antom: Antom is Ant International's merchant payment platform — 300+ payment methods across 200+ markets, and one of the few operators running tokenized deposits in production today rather than in a pilot deck.",
-    "startDate": "2026-09-24T23:30:00.000Z",
-    "endDate": "2026-09-25T03:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "SoMa, San Francisco, California, United States",
-    "url": "https://luma.com/beta-17kf",
-    "registrationUrl": "https://luma.com/beta-17kf",
-    "coverImage": "/events/luma-batch-ozvnnzw9WEGsd9v-abe4078e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Beta University",
-      "Sahar Mor (Bond AI)"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "SoMa",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Beta University",
-      "url": "https://luma.com/user/betauniversity"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/beta-17kf",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/beta-17kf",
-      "eventId": "evt-ozvnnzw9WEGsd9v",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-sprS0JGgo75lO4p",
-    "slug": "qm8a9ru1",
-    "name": "AuthX San Francisco",
-    "description": "For the people who love talking payments as much as they love meeting new people :)\n\nAfter a great start in Shanghai and 15+ Payments Club meetups across markets including Singapore, Dubai, Malaysia, the US, Thailand, the Philippines, and India, we’re now bringing the payments community together in Seattle, San Francisco, and New York. This time as AuthX.Meet the Speakers\n\nDhiraj Sharda - VP Product, Blackhawk Network\n\nJohn Tullis - Product, Gusto\n\nPaul Marsolan - Founder, Bladerun.ai\n\nGarand Tyson - Senior Protocol Researcher, Stellar Development Foundation\n\nThis edition’s theme: \"Money Movement, Rebuilt From the Ground Up.\"If you could rebuild cross-border payments today, what would you refuse to carry over?We’ll explore:\n\nThe legacy stack and what breaks - correspondent banking, FX spreads, T+2.\n\nWhat replaces it - stablecoin rails, agent-initiated payments, and programmable settlement.\n\nSo, if you want to network with the people building, shaping, questioning, and obsessing over payments, come join us.\n\nWhat is AuthX?\n\nWe work at multiple companies throughout our careers, but our approachability is often tied to our CV and the organization we currently represent. AuthX is an attempt to create a representation of you that moves with you, rather than one that changes with your employer. It’s about making your professional identity, credibility, and approachability belong to you, not the company you happen to work for.Organised by POS & Payments Club by T&P\n\nPayments Operator Series (POS) is a practitioner-led community connecting operators, founders, and builders across payments and commerce. We create high-trust spaces where people who are shipping and scaling systems in production share what is actually working and what is not. Through curated events, Substack content, and advisory services, POS accelerates execution across the ecosystem. We have partnered with Visa, Antom and speakers across the commerce ecosystems.\n\nPayments Club is a curated community of 800+ payments professionals across the globe, managed and run by T&P Payments Consulting & Advisory (www.travelandpayments.com). Our vision is to democratize payments knowledge and create something lasting: a community where the relationships built today lead to collaborations, opportunities, and friendships for years to come!\n\nJoin our Payments Club: https://forms.gle/jv3H4GMUfwWcwfmT9\n\nSponsored by\n\nAlchemy\n\nAbout Alchemy\n\nAlchemy is building the infrastructure for the onchain economy, powering the next generation of payments, financial products, and blockchain applications. With support for 100+ blockchains, Alchemy helps businesses and developers build, scale, and move money onchain. https://www.alchemy.com/",
-    "startDate": "2026-09-25T00:00:00.000Z",
-    "endDate": "2026-09-25T03:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Union Square, San Francisco, California, United States",
-    "url": "https://luma.com/qm8a9ru1",
-    "registrationUrl": "https://luma.com/qm8a9ru1",
-    "coverImage": "/events/luma-batch-sprS0JGgo75lO4p-d89ef498.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Payments Club by T&P",
-      "Grace wu",
-      "Vishal MEHTA"
-    ],
-    "price": "USD 30",
-    "approvalRequired": false,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Union Square",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Payments Club by T&P"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/qm8a9ru1",
-        "price": 30,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/qm8a9ru1",
-      "eventId": "evt-sprS0JGgo75lO4p",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-pETIiHDk4XVQvLJ",
     "slug": "pjqtgcx3",
     "name": "Agentic Finance, Commerce & Payments @ Stanford GSB, presented by Verda Ventures",
@@ -1577,55 +1325,6 @@
     "sourceVerification": {
       "url": "https://luma.com/sui-vf50",
       "eventId": "evt-1rYiST8JvO4q6j6",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-jC5pbjSNVSkOBQl",
-    "slug": "o0bs6gwo",
-    "name": "AWIC San Francisco Dinner",
-    "description": "Join the AWIC San Francisco Chapter for a dinner at Sens Restaurant.\n\nThis informal gathering is an opportunity to connect and learn about the Chapter's plans and upcoming programming for Q3 and Q4.\n\nWhether you're looking to reconnect with familiar faces or meet new members in the Bay Area, this dinner is a chance to engage with the local AWIC community.\n\nDate: September 24Time: 6:45 PM – 8:30 PMLocation: Sens Restaurant, Embarcadero, San Francisco\n\nPlease note that this is a bring your own credit card dinner.AWIC members get their first drink free!\n\nSpace is limited, so be sure to reserve your spot. We look forward to seeing you there!",
-    "startDate": "2026-09-25T01:45:00.000Z",
-    "endDate": "2026-09-25T03:45:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Sens, Sens, 4 Embarcadero Ctr Level, San Francisco, CA 94111, USA",
-    "url": "https://luma.com/o0bs6gwo",
-    "registrationUrl": "https://luma.com/o0bs6gwo",
-    "coverImage": "/events/luma-recover-lumabatchjC5pbjS-2558f372.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Alen Carrera de Souza"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Financial District",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Sens",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Alen Carrera de Souza"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/o0bs6gwo",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/o0bs6gwo",
-      "eventId": "evt-jC5pbjSNVSkOBQl",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -4058,58 +3757,6 @@
     ]
   },
   {
-    "id": "luma-batch-rvzY8EMMGGfzEzZ",
-    "slug": "iltqqfg1",
-    "name": "KBW|TOKEN2049 SEND-OFF PARTY",
-    "description": "One last night in Dubai before the conference circuit kicks off.\n\nJoin Welcome3 x CodeCraft Group for drinks, music and good company before everyone heads to KBW and TOKEN2049. Compare travel plans, talk side-event strategy, and spend the night with some of the best people in Web3 before the big weeks ahead.\n\n📍 Smoke & Mirrors, SLS Dubai\n\n📅 Thursday, 24 September\n\n🕖 7 PM – 2 AM\n\n🥂 Founders, investors, operators & industry leaders\n\nDress Code: Smart Casual Please note that shorts, caps and flip-flops are not permitted.\n\nCodeCraft Group: Multi-award-winning, data-driven Web3 GTM.https://codecraft.io/\n\nWelcome3: An exclusive private network for Web3 founders, investors and industry leaders. https://www.welcome3.com/",
-    "startDate": "2026-09-24T15:00:00.000Z",
-    "endDate": "2026-09-24T22:00:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Bar - Smoke and Mirrors Dubai, Bar - Smoke and Mirrors Dubai, Marasi Dr - Business Bay - Dubai - United Arab Emirates",
-    "url": "https://luma.com/iltqqfg1",
-    "registrationUrl": "https://luma.com/iltqqfg1",
-    "coverImage": "/events/luma-batch-rvzY8EMMGGfzEzZ-53025ae9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Claire Rennie",
-      "Chris Robert",
-      "Andrew Thomas"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "neighborhood": "Business Bay",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Bar - Smoke and Mirrors Dubai",
-    "addressLocality": "Dubai",
-    "addressRegion": "Dubai",
-    "addressCountry": "AE",
-    "organizer": {
-      "type": "Organization",
-      "name": "Claire Rennie",
-      "url": "https://luma.com/user/Claire_Rennie"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/iltqqfg1",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/iltqqfg1",
-      "eventId": "evt-rvzY8EMMGGfzEzZ",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-8qgX03y1lgl1H4N",
     "slug": "solanawomenpotteryatelier",
     "name": "Solana Women's Pottery Atelier",
@@ -4361,115 +4008,6 @@
     "sourceVerification": {
       "url": "https://luma.com/agxiag3l",
       "eventId": "evt-1IOJ9QDDxRscQva",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-mbcqnMls2Q8u6Mp",
-    "slug": "zbhm5t4z",
-    "name": "Emerging Tech Room",
-    "description": "Emerging Tech Room by MCA\n\nA private evening gathering for founders, investors, operators, and builders across emerging technology.\n\nHosted in Toronto alongside Solana Summit Canada, the Emerging Tech Room brings together people working across Web3, AI, fintech, infrastructure, and the broader technology ecosystem for an evening of drinks, conversation, and new connections.\n\nNo panels. No packed agenda. Just a more relaxed setting to meet the people building, backing, and scaling what comes next.\n\nExpect a curated mix of:\n\nFounders and builders\n\nInvestors and capital partners\n\nOperators and ecosystem leaders\n\nWeb3 and broader tech professionals\n\nTorontoSeptember 24Private event. Approval required.\n\nHosted by MCA.In partnership with Polysights and Vybe Network.Held alongside Solana Summit Canada, brought to Toronto by Superteam Canada.\n\n-----------------Solana Summit Canadacanada.solanasummit.orghttps://luma.com/superteam\n\nMCAMCA is a strategy and growth partner helping emerging technology companies build and scale through product, marketing, partnerships, and international expansion.https://www.mca.digital/\n\nPolysightsAn emerging-tech intelligence and research platform turning complex market data into actionable insights.https://www.polysights.xyz/\n\nVybe NetworkA Solana data infrastructure and analytics platform providing developers and teams with real-time and historical onchain data.https://vybe.fyi/\n\nRSVP now.",
-    "startDate": "2026-09-24T23:00:00.000Z",
-    "endDate": "2026-09-25T03:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Wellington Place, Toronto, Ontario, Canada",
-    "url": "https://luma.com/zbhm5t4z",
-    "registrationUrl": "https://luma.com/zbhm5t4z",
-    "coverImage": "/events/luma-batch-mbcqnMls2Q8u6Mp-2a5601c7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Niro",
-      "Serena Sung",
-      "Ashar Belanger",
-      "Eoin Brady",
-      "Superteam Canada",
-      "Justin Lin"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "Wellington Place",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Niro"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/zbhm5t4z",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zbhm5t4z",
-      "eventId": "evt-mbcqnMls2Q8u6Mp",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-O0zsWPy1QZEFcr1",
-    "slug": "srvqqr98",
-    "name": "After Hours: Founders, Funds & Cocktails",
-    "description": "An evening of cocktails following Solana Summit Canada and Elevate Festival.\n\nWe're bringing together founders, investors, and institutional leaders for a relaxed evening of open networking. No panels—just good company with the people building and backing what's next.\n\n🗓️ Thursday, September 24 from 8pm–11pm📍 (near St. Lawrence Market)\n\nSpace is limited and registrations are subject to approval.\n\nCo-hosted by:\n\nInner Circle AgencyInner Circle Agency is a Montreal-based executive search firm placing Director to C-suite talent in finance, fintech, operations, and legal for companies across the US and Canada.https://innercircle-agency.com\n\nBudhhi TechnologyBudhhi is an AI and emerging-tech research lab helping organizations build and scale responsible, user-centric solutions across AI/ML, Web3, and Healthcare.https://budhhi.com\n\nZKXPZKXP is an engineering studio building intelligent software for the physical worldhttps://zkxp.xyz\n\nValironValiron helps business understand agentic traffic. Protect your website from malicious agents and understand the next generation of customers at https://www.valiron.co\n\nlumedotAgentic commerce, publishing and programmable-media infrastructure. Turning static content into immersive media.https://lumedot.comNFTOToronto's first community-driven NFT social club. https://x.com/joinnftoFLOJOFLOJO is a neuroscientist-formulated drink crafted with yerba mate tea, functional mushrooms, adaptogens, and real fruit juice for sparkling energy and focus. Give a follow @DrinkFlojo.MonkeFoundry MonkeFoundry is the flagship startup incubator powered by MonkeDAO - built to back the next generation of builders creating Web3 consumer apps/ products, protocols, and tooling.  https://www.monkefoundry.io\n\nSupported by: Superteam Canada\n\nAbout Solana Summit CanadaSolana Summit Canada is a two-day Toronto gathering connecting founders, developers, creators, investors, and institutions to explore new technology and meet the people building it. Organized by Superteam Canada.https://www.solanasummit.ca",
-    "startDate": "2026-09-25T00:00:00.000Z",
-    "endDate": "2026-09-25T03:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Financial District, Toronto, Ontario, Canada",
-    "url": "https://luma.com/srvqqr98",
-    "registrationUrl": "https://luma.com/srvqqr98",
-    "coverImage": "/events/luma-batch-O0zsWPy1QZEFcr1-103db4c2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "April Ben-Sabat",
-      "Suzie L",
-      "Zeshan Nurani",
-      "Vatsa Shah",
-      "Kamil",
-      "Superteam Canada",
-      "Galen",
-      "Moon",
-      "Chrissy 🌱✨ | FLOJO"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Toronto",
-    "neighborhood": "Financial District",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "April Ben-Sabat"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/srvqqr98",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/srvqqr98",
-      "eventId": "evt-O0zsWPy1QZEFcr1",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -12385,36 +11923,6 @@
     }
   },
   {
-    "id": "luma-batch-evt3H2aRuBMABUgu",
-    "slug": "4whbvj0o",
-    "name": "Lisbon Ethereum Hub Meetup: A Fintech View on Ethereum",
-    "description": "Thursday 24 September\n18:30-21:00\nLisbon\n\nA fintech view on Ethereum. Not the promise or the roadmap, but how it looks to someone who has to decide whether to build on it.\n\nA conversation with:\n\nAna Matos, who leads Qonto in Portugal, making financial infrastructure simple for  businesses without giving anything up on trust or compliance. Ex Google and Finastra.\n\nNadia Sergejuk is scaling Lagoon Finance, a portfolio management and fund launch platform for the next generation of asset managers, after a decade in institutional asset management in London.\n\nAdrienne Youngman, Head of Marketing at Gnosis is asking the questions.\n\nDoors at 18:30, the conversation at 19:00, drinks from 20:00.\n\nHosted by Gnosis with the Ethereum Foundation. Free to attend, and the room is deliberately not enormous - please register so we know to expect you.\n\nSee you there!",
-    "startDate": "2026-09-24T17:30:00.000Z",
-    "endDate": "2026-09-24T20:30:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Lisboa, Lisboa, Portugal",
-    "url": "https://luma.com/4whbvj0o",
-    "registrationUrl": "https://luma.com/4whbvj0o",
-    "coverImage": "/events/luma-batch-evt3H2aRuBMABUgu-e1861357.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Gnosis"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Lisbon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/4whbvj0o",
-      "eventId": "evt-3H2aRuBMABUguf1",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtQitFqCNjHFb5o",
     "slug": "cwub7gk3",
     "name": "Pantera X Multipli X yieldbasis | Liquid VIP Dinner Table",
@@ -12828,36 +12336,6 @@
     "sourceVerification": {
       "url": "https://luma.com/jm02qppl",
       "eventId": "evt-HyXIXimgcKPgrLF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtQ7hZ31nCmyVXM",
-    "slug": "solanahackdaymunich",
-    "name": "Solana Hack Day Munich: Road to TUM Blockchain Conference",
-    "description": "Curious about building on Solana, looking for your next project idea, or getting ready for the upcoming hackathon season?\n\nJoin Superteam Germany and TUM Blockchain Club for a Solana Hack Day in Munich, bringing together developers, founders, students, and curious builders for a day of learning, ideation, and getting started on new projects.\n\n🛠 Learn & Get Started\n\nWe’ll start with an introduction to Solana and the builder ecosystem, including:\n\nHow to get started building on Solana and what to build\n\nOverview of tools and resources that can help you move faster\n\nParticipate in our \"Build your MVP\" bounty for a chance to win local prizes\n\nIt’s also a great opportunity to get a boost for the upcoming Solana startup competition powered by Colosseum: work on your idea, meet potential teammates, validate your direction, and start preparing your project.\n\nCome solo or with a team. Come with an idea or discover one during the day.",
-    "startDate": "2026-09-24T13:00:00.000Z",
-    "endDate": "2026-09-24T20:00:00.000Z",
-    "city": "München",
-    "country": "Germany",
-    "location": "TUM School of Management, TUM School of Management, Arcisstraße 21, 80333 München-Maxvorstadt, Germany",
-    "url": "https://luma.com/solanahackdaymunich",
-    "registrationUrl": "https://luma.com/solanahackdaymunich",
-    "coverImage": "/events/luma-batch-evtQ7hZ31nCmyVXM-813b1d1b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Germany"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/solanahackdaymunich",
-      "eventId": "evt-Q7hZ31nCmyVXMOB",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -13306,36 +12784,6 @@
     "sourceVerification": {
       "url": "https://luma.com/pgmjuh8u",
       "eventId": "evt-dPuy6A3McdjAn1R",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtcWEvmyPIWgifO",
-    "slug": "eemlek6d",
-    "name": "Bitcoin Book Club: The Network State",
-    "description": "Join the Bitcoin District Book Club! We meet every month to explore new and exciting rabbit holes by reading books that are popular with bitcoiners.\n\nJoin us for a deep dive into The Network State by Balaji Srinivasan. In this session, we'll explore a provocative question: what if the next new country begins not with territory, but with an online community?\n\nBalaji argues that the internet enables people to organize around shared values, build parallel institutions, accumulate resources, and eventually establish communities in the physical world. He introduces the \"network state\"—an online community capable of collective action that crowdfunds territory around the world and ultimately seeks recognition as a new political entity.\n\nWe'll discuss whether network states are actually feasible, how Bitcoin and decentralized technologies might enable new forms of political organization, and what sovereignty, governance, and citizenship could look like in the internet age.\n\nWhether you're excited by startup societies or skeptical that an online community could ever become a country, The Network State offers a thought-provoking framework for considering alternatives to the traditional nation-state.\n\nGet the book here.\n\nEvent Notes:\n\nDiscussion Starters: We'll kick things off with a few key questions around network states, sovereignty, Bitcoin, and the future of governance, but feel free to bring your own perspectives.\n\nFuture Reads: Let us know if you have recommendations for future book club selections! We'll add them to the list posted on our website.\n\nAfterwards: Feel free to join us at PubKey after the meeting to hang out, continue the conversation, and grab some food!\n\nGetting There:\n\n📍 Teaism – Penn Quarter\n\n🔴🟢🟡 Gallery Place/Chinatown + 2 min walk\n\nParking: Street & garage parking available nearby",
-    "startDate": "2026-09-24T22:30:00.000Z",
-    "endDate": "2026-09-25T00:00:00.000Z",
-    "city": "Washington",
-    "country": "United States",
-    "location": "Teaism Penn Quarter, Teaism Penn Quarter, 400 8th St NW, Washington, DC 20004, USA",
-    "url": "https://luma.com/eemlek6d",
-    "registrationUrl": "https://luma.com/eemlek6d",
-    "coverImage": "/events/luma-batch-evtcWEvmyPIWgifO-37b6c3c5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin District"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/eemlek6d",
-      "eventId": "evt-cWEvmyPIWgifOHw",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -14053,36 +13501,6 @@
     "sourceVerification": {
       "url": "https://luma.com/digital-assets-roundtable-sibos",
       "eventId": "evt-Db8OrWdbqiKBbmc",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtJh9oNVwo7xCor",
-    "slug": "dr20wz0f",
-    "name": "One Love Digital Art Gallery: Networking Happy Hour",
-    "description": "NFTCLT invites you to join us for Happy Hour  at One Love Digital Art Gallery located inside the YVE Hotel.\n\nWhat to Expect\n\nSee new work from One Love Art DAO's latest exhibition, The Space Between Two Worlds, recently shown at NFT NYC, plus a sneak peek at artwork from the Colombia Residency.\n\nOur co-host, Reign World Exclusives, brings in special guests for a beginner-friendly look at day trading, while NFTCLT speaks on the broader world of digital assets, including what the delayed Crypto Clarity Act means for collectors, traders and beginners alike.\n\nComplimentary Aguasol cocktail with purchase of a drink at Celia's Restaurant, located across from the gallery inside YVE.\n\nFood available for purchase.",
-    "startDate": "2026-09-24T23:00:00.000Z",
-    "endDate": "2026-09-25T02:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "YVE Hotel Miami, YVE Hotel Miami, 146 Biscayne Blvd, Miami, FL 33132, USA",
-    "url": "https://luma.com/dr20wz0f",
-    "registrationUrl": "https://luma.com/dr20wz0f",
-    "coverImage": "/events/luma-batch-evtJh9oNVwo7xCor-f889a70d.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "NFTCLT"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/dr20wz0f",
-      "eventId": "evt-Jh9oNVwo7xCorfA",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -15533,36 +14951,6 @@
     "sourceVerification": {
       "url": "https://luma.com/159r98fh",
       "eventId": "evt-Pt93oz47WDC3sCG",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt3pseyk4fEmz0i",
-    "slug": "qp32ek4m",
-    "name": "La pola Bitcoiner",
-    "description": "Únete a nuestra próxima Pola bitcoiner, una tarde para conversar, aprender y pasarla bien alrededor de Bitcoin. Nos vemos el 24 de septiembre en La Roja Casa Cultural, en la Calle 45 #18A-5. Arrancamos con un espacio pensado para quienes apenas están empezando o todavía tienen curiosidad pero no han dado el primer paso. Vas a poder descargar tu primera billetera, recibir gratis tus primeras fracciones de bitcoin, hacer preguntas sin pena y resolver dudas en un ambiente relajado y cercano.\n\nDespués seguimos con una segunda parte abierta tanto para personas nuevas como para quienes ya tienen más camino recorrido, con una presentación especial y un taller práctico para crear tu propia tarjeta Bitcoin Lightning. Además, vamos a rifar 15 tarjetas Lightning Bitcoin, habrá una cerveza gratis para las primeras personas en llegar y, al final, quedará un espacio libre para conversar, debatir e intercambiar ideas. Los cupos son limitados, así que inscríbete y cae temprano. Te esperamos.",
-    "startDate": "2026-09-24T23:00:00.000Z",
-    "endDate": "2026-09-25T01:00:00.000Z",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "location": "Bogotá, Bogotá, Colombia",
-    "url": "https://luma.com/qp32ek4m",
-    "registrationUrl": "https://luma.com/qp32ek4m",
-    "coverImage": "/events/luma-batch-evt3pseyk4fEmz0i-c7d56fe4.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Bogota",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/qp32ek4m",
-      "eventId": "evt-3pseyk4fEmz0iWX",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

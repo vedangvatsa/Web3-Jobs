@@ -26,24 +26,6 @@
       ]
     },
     {
-      "id": "premier-ethsofia",
-      "outcome": "recovered",
-      "sourceUrl": "https://www.ethsofia.com/",
-      "reason": "Replaced the parent Blockchain Week homepage with ETHSofia's own 2026 event page and corrected the conference from a three-day listing to 24 September.",
-      "fetchedAt": "2026-09-20T07:56:52.274Z",
-      "characters": 1074,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "startDate",
-        "endDate",
-        "timezone",
-        "location"
-      ]
-    },
-    {
       "id": "premier-ethtokyo-2026",
       "outcome": "recovered",
       "sourceUrl": "https://ethglobal.com/events/tokyo2026",
