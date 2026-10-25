@@ -53982,6 +53982,39 @@
       "postId": "18155500072525695",
       "permalink": "https://www.threads.com/@hashtagweb3/post/De6nXeboFwn",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "wr9",
+      "company": "Kraken",
+      "title": "Copywriter - Kraken Pro",
+      "platform": "bluesky",
+      "postedAt": "2026-10-25T11:36:17.432Z",
+      "expectedText": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/bsky?og=7",
+      "snapshot": {
+        "id": "6064492d-3fe8-449a-8013-fb196853409c",
+        "title": "Copywriter - Kraken Pro",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
+        "date": "2026-10-22T14:18:49.003+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Europe)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "wr9"
+      },
+      "payload": {
+        "text": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/wr9/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/wr9.png?v=7",
+        "company": "Kraken",
+        "title": "Copywriter - Kraken Pro",
+        "description": "Join Kraken as Copywriter - Kraken Pro. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "9cf9503b-40ae-4ab0-9a28-0ab43ecf320d",
+      "verification": "creating"
     }
   ]
 }
