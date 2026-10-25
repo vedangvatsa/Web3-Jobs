@@ -54756,6 +54756,35 @@
       "attemptId": "078044e0-eb54-4927-9bf0-0acd20d73593",
       "verification": "verified",
       "postId": "urn:li:share:7520086475200233472"
+    },
+    {
+      "slug": "wr9",
+      "company": "Kraken",
+      "title": "Copywriter - Kraken Pro",
+      "platform": "facebook",
+      "postedAt": "2026-10-25T11:36:17.432Z",
+      "expectedText": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/fb?og=7",
+      "snapshot": {
+        "id": "6064492d-3fe8-449a-8013-fb196853409c",
+        "title": "Copywriter - Kraken Pro",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
+        "date": "2026-10-22T14:18:49.003+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Europe)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "wr9"
+      },
+      "payload": {
+        "message": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/fb?og=7",
+        "link": "https://hashtagweb3.com/wr9/fb?og=7"
+      },
+      "attemptId": "84bac0e9-8a06-433e-a3ae-7debc41eefc4",
+      "verification": "creating"
     }
   ]
 }
