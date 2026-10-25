@@ -53756,6 +53756,47 @@
       "attemptId": "2a3049bd-40bc-4a89-bac9-b6124a8980cb",
       "verification": "verified",
       "postId": "0xb1a2cc69d12bb602e9afbcae2ba514ba3f3cffc1"
+    },
+    {
+      "slug": "be79",
+      "company": "Polymarket",
+      "title": "Staff Backend Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-25T11:31:32.790Z",
+      "expectedText": "Polymarket is hiring Staff Backend Engineer: https://hashtagweb3.com/be79/li?og=7",
+      "snapshot": {
+        "id": "2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "title": "Staff Backend Engineer",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/Polymarket/2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "date": "2026-10-16T17:19:31.284+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be79"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Staff Backend Engineer: https://hashtagweb3.com/be79/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/be79/li?og=7",
+          "title": "Staff Backend Engineer at Polymarket",
+          "description": "Join Polymarket as Staff Backend Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/be79.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "0660e31c-a8b5-44c8-985f-da8aa14513e3",
+      "verification": "creating"
     }
   ]
 }
