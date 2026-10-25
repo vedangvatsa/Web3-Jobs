@@ -56259,7 +56259,8 @@
       },
       "account": "channel:ai",
       "attemptId": "38904cf5-a6b6-4f2c-b0e7-3beeadf92b42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7ef97c408748c61fa922be298d587e3cac60402d"
     }
   ]
 }
