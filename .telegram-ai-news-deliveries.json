@@ -2117,5 +2117,36 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 193395,
     "sentAt": "2026-10-25T03:41:51.115Z"
+  },
+  "6709f37a-b31e-4a9f-9a80-e9235e9194e9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:33:50.445Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "AI agents available through text messaging services",
+        "summary": "Users can access specialized assistants for travel, work, and family needs through mobile messaging apps.",
+        "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch",
+        "originalTitle": "Here are the top AI agents that can live in your text messages"
+      },
+      {
+        "index": 3,
+        "headline": "Hackers probed PHP2Shell vulnerability four days before public disclosure",
+        "summary": "Attackers began scanning for the security flaw before developers released information to the public.",
+        "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+        "source": "Ars Technica",
+        "originalTitle": "Hackers got a four-day head start on epic PHP2Shell vulnerability"
+      },
+      {
+        "index": 4,
+        "headline": "Data Storage Adds Unseen Costs to AI Inference",
+        "summary": "Running AI models produces back-end data that accumulates and increases long-term storage expenses for businesses.",
+        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "source": "MIT Tech Review",
+        "originalTitle": "AI’s hidden storage bill: What inference leaves behind"
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon"
   }
 }
