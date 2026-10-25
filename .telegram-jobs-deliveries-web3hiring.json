@@ -7701,5 +7701,79 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 142,
     "sentAt": "2026-10-25T03:39:23.539Z"
+  },
+  "b0a17a58-9de2-4e0f-8249-974306c0ebd2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:31:33.655Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8258697",
+          "title": "Account Executive, Product Sales - Payouts",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8258697",
+          "date": "2026-10-19T07:52:49-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "New York or San Francisco",
+          "department": "1642 Product Sales - MaaS",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm88"
+        },
+        "key": "8258697",
+        "slug": "pm88",
+        "url": "https://hashtagweb3.com/pm88?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5460545008",
+          "title": "Senior Accountant, AP/AR & Cash",
+          "company": "Mesh",
+          "link": "https://job-boards.greenhouse.io/mesh/jobs/5460545008",
+          "date": "2026-10-21T17:23:04-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Mesh [mesh]",
+          "location": "United States - Remote",
+          "department": "Finance",
+          "active": true,
+          "salary": "$110k – $150k/yr",
+          "dateVerified": true,
+          "slug": "sls118"
+        },
+        "key": "5460545008",
+        "slug": "sls118",
+        "url": "https://hashtagweb3.com/sls118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Senior Accountant"
+      },
+      {
+        "snapshot": {
+          "id": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+          "title": "Institutional Due Diligence Specialist, EU",
+          "company": "Lightspark",
+          "link": "https://jobs.ashbyhq.com/lightspark/352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+          "date": "2026-09-29T18:03:27.747+00:00",
+          "source": "Ashby: Lightspark [lightspark]",
+          "location": "Estonia",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "idds"
+        },
+        "key": "352cdac4-5d11-4bae-8ce4-8e27ad722d54",
+        "slug": "idds",
+        "url": "https://hashtagweb3.com/idds?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lightspark",
+        "title": "Institutional Due Diligence Specialist"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales - Payouts</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/sls118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Accountant, AP/AR &amp; Cash</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/idds?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Institutional Due Diligence Specialist, EU</a>",
+    "slotKey": "2026-10-25:afternoon"
   }
 }
