@@ -54713,6 +54713,48 @@
       "verification": "verified",
       "postId": "6addea30e4be8a4d86a51d5c",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520086449971712000"
+    },
+    {
+      "slug": "wr9",
+      "company": "Kraken",
+      "title": "Copywriter - Kraken Pro",
+      "platform": "linkedin",
+      "postedAt": "2026-10-25T11:36:17.432Z",
+      "expectedText": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/li?og=7",
+      "snapshot": {
+        "id": "6064492d-3fe8-449a-8013-fb196853409c",
+        "title": "Copywriter - Kraken Pro",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
+        "date": "2026-10-22T14:18:49.003+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (Europe)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Marketing",
+        "active": true,
+        "dateVerified": true,
+        "slug": "wr9"
+      },
+      "payload": {
+        "text": "Kraken is hiring Copywriter - Kraken Pro: https://hashtagweb3.com/wr9/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/wr9/li?og=7",
+          "title": "Copywriter - Kraken Pro at Kraken",
+          "description": "Join Kraken as Copywriter - Kraken Pro. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/wr9.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "078044e0-eb54-4927-9bf0-0acd20d73593",
+      "verification": "creating"
     }
   ]
 }
