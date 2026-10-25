@@ -52525,7 +52525,8 @@
       },
       "account": "channel:developers",
       "attemptId": "746ecd92-a16b-4fc9-92f6-4d0baa6b7651",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x092ec048b9fd3deef7c15ad955f59397b0580942"
     }
   ]
 }
