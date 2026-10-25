@@ -52056,7 +52056,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "4c20ee03-0207-41d3-bed0-d71880748494",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6add7a69bd33ce99c3538b0b"
     }
   ]
 }
