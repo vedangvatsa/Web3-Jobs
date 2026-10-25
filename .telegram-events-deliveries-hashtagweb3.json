@@ -3280,5 +3280,52 @@
     "slotKey": "2026-10-25:afternoon",
     "messageId": 155921,
     "sentAt": "2026-10-25T11:31:50.987Z"
+  },
+  "5d19d0b2-1176-46c2-ba37-46bd93494bb9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T19:31:48.453Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "discovery-evt-lney7efAlAR4ckm",
+        "slug": "bitcoin-indonesia-community-online-meetup",
+        "name": "Bitcoin Indonesia Community Online Meetup",
+        "startDate": "2026-10-30T19:30:00+07:00",
+        "keys": [
+          "discovery-evt-lney7efalar4ckm",
+          "page:bitcoin-indonesia-community-online-meetup:2026-10-30",
+          "luma:evt-lney7efalar4ckm",
+          "luma-url:/w6dkwyri",
+          "event:bitcoinindonesiacommunityonlinemeetup:2026-10-30:"
+        ]
+      },
+      {
+        "id": "mu-316958855",
+        "slug": "crypto-taxation-greece",
+        "name": "Crypto Taxation in Greece (Φορολογία Κρυπτονομισμάτων στην Ελλάδα)",
+        "startDate": "2026-10-30T19:30:00+02:00",
+        "keys": [
+          "mu-316958855",
+          "page:crypto-taxation-greece:2026-10-30",
+          "url:meetup.com/blockchaingreece-0/events/316958855:2026-10-30",
+          "event:cryptotaxationingreeceφορολογίακρυπτονομισμάτωνστηνελλάδα:2026-10-30:athens"
+        ]
+      },
+      {
+        "id": "luma-evt-lzupoprFFkUQski",
+        "slug": "ai-web3-music-meetup",
+        "name": "AI & Web3 Music Meetup",
+        "startDate": "2026-10-30T23:00:00.000Z",
+        "keys": [
+          "luma-evt-lzupoprffkuqski",
+          "page:ai-web3-music-meetup:2026-10-30",
+          "luma:evt-lzupoprffkuqski",
+          "luma-url:/eitsogbg",
+          "event:aiweb3musicmeetup:2026-10-30:seattle"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:evening"
   }
 }
