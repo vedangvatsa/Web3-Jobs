@@ -56295,7 +56295,8 @@
       },
       "account": "channel:product",
       "attemptId": "1b4906d2-e8fb-49a7-8da0-7c31b27ad115",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9577848be370a68f55926ec337964c5bd65fac74"
     }
   ]
 }
