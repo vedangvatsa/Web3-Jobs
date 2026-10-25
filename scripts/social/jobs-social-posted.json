@@ -51906,7 +51906,8 @@
       },
       "account": "channel:ai",
       "attemptId": "b9e50965-a6cc-495b-9fd7-6f2d8dc0656f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2ccb4287cd6513bd8ceed1dec074563cbe0d78d6"
     }
   ]
 }
