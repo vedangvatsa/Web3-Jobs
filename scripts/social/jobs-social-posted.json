@@ -53178,7 +53178,8 @@
       },
       "account": "profile",
       "attemptId": "084c76c4-1969-4386-bc5c-ebe54c9cf447",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x659edef3261a4cc5e99c6a3e1eb6e4baf67b156c"
     }
   ]
 }
