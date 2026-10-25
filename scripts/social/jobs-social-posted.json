@@ -55100,7 +55100,8 @@
       },
       "account": "channel:dev",
       "attemptId": "a456bf43-a4f3-49ee-a0b6-45428f4e00c1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf4a7e8c6d399a834f87b6de29a79651e35221eda"
     }
   ]
 }
