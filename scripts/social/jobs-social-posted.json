@@ -54193,7 +54193,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "ae4ed6c8-10b9-4abe-b8b6-f416335f5253",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa18614e9c61497def2cc4b9098acb5b1750f7884"
     }
   ]
 }
