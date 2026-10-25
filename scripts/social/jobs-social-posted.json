@@ -55584,6 +55584,48 @@
       "verification": "verified",
       "postId": "6ade59de3d5b27036bebfb7b",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520206364158369795"
+    },
+    {
+      "slug": "ops32",
+      "company": "Mesh",
+      "title": "Director, Strategic Finance & Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-25T19:32:12.457Z",
+      "expectedText": "Mesh is hiring Director, Strategic Finance & Operations: https://hashtagweb3.com/ops32/li?og=7",
+      "snapshot": {
+        "id": "5460501008",
+        "title": "Director, Strategic Finance & Operations",
+        "company": "Mesh",
+        "link": "https://job-boards.greenhouse.io/mesh/jobs/5460501008",
+        "date": "2026-10-21T17:07:05-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Mesh [mesh]",
+        "location": "United States - Remote",
+        "department": "Finance",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "ops32"
+      },
+      "payload": {
+        "text": "Mesh is hiring Director, Strategic Finance & Operations: https://hashtagweb3.com/ops32/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops32/li?og=7",
+          "title": "Director, Strategic Finance & Operations at Mesh",
+          "description": "Join Mesh as Director, Strategic Finance & Oper. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops32.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "c9dbfd97-999d-4c0f-b819-a23fda0926e7",
+      "verification": "creating"
     }
   ]
 }
