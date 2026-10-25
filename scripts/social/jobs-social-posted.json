@@ -52597,7 +52597,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1a5943f1-7113-488f-82b2-aab0c8473a3e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5ef1ebd4ed7386a3b15c0175f1148f1efe555e5a"
     }
   ]
 }
