@@ -55827,7 +55827,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "ef6593b2-58ac-4dc0-a6b2-d4a14a6167e6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeac1740c6dfb3b7d63355a88370e328909cec5ee"
     }
   ]
 }
