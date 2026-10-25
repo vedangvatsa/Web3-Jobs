@@ -54517,7 +54517,8 @@
       },
       "account": "channel:ai",
       "attemptId": "9aad420b-e070-46ac-b907-ee6befa1d992",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x313633c51b5f536d61035dd86233633549f703ef"
     }
   ]
 }
