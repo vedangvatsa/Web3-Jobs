@@ -55460,7 +55460,8 @@
       },
       "account": "channel:design",
       "attemptId": "c364c07c-2f3a-4f70-9d0a-8f9e24d877f1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xba94b222a3c61580efd81e5e1cca0d14d3e226c4"
     }
   ]
 }
