@@ -76,10 +76,12 @@
           "novatechjudgment",
           "bokforex"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-10-25T04:54:00.066Z",
         "buildId": "daily-20261025-40158900174-1",
-        "rolloutId": "daily-20261025-40158900174-1"
+        "rolloutId": "daily-20261025-40158900174-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-25T05:23:23.077Z"
       }
     ]
   }
