@@ -85610,11 +85610,19 @@
           "outcome": "read"
         },
         {
-          "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001",
+          "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&seq=6500",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/south-korea-crypto-transfer-rules-december-2026",
+          "outcome": "read"
+        },
+        {
+          "url": "https://asiadaily.org/news/16406/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-25T04:21:22.488Z",
+      "reviewedAt": "2026-10-25T04:21:38.156Z",
       "articleSlug": "bokforex",
       "lastReviewedDay": "2026-10-25"
     },
@@ -156253,11 +156261,19 @@
               "outcome": "read"
             },
             {
-              "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001",
+              "url": "https://english.mofe.go.kr/pc/selectTbPressCenterDtl.do?boardCd=N0001&seq=6500",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/south-korea-crypto-transfer-rules-december-2026",
+              "outcome": "read"
+            },
+            {
+              "url": "https://asiadaily.org/news/16406/",
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-25T04:21:22.488Z",
+          "reviewedAt": "2026-10-25T04:21:38.156Z",
           "articleSlug": "bokforex"
         }
       },
