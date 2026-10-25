@@ -53250,7 +53250,8 @@
       },
       "account": "channel:web3",
       "attemptId": "006e0c60-d768-4f63-aa15-2850596ab378",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb5a9224ec5e6daf9b49381e713fa888d92adcd21"
     }
   ]
 }
