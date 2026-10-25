@@ -53111,6 +53111,39 @@
       "verification": "creating",
       "containerId": "18098456048199925",
       "error": "Threads publish failed: 400 {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":4279047,\"is_transient\":false,\"error_user_title\":\"Invalid Link Attachment\",\"error_user_msg\":\"The post you're trying to publish has an invalid link attachment.\",\"fbtrace_id\":\"A5bQuQy0PctW40mKB3o1awS\"}}"
+    },
+    {
+      "slug": "be79",
+      "company": "Polymarket",
+      "title": "Staff Backend Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-25T11:31:32.790Z",
+      "expectedText": "Polymarket is hiring Staff Backend Engineer: https://hashtagweb3.com/be79/bsky?og=7",
+      "snapshot": {
+        "id": "2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "title": "Staff Backend Engineer",
+        "company": "Polymarket",
+        "link": "https://jobs.ashbyhq.com/Polymarket/2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+        "date": "2026-10-16T17:19:31.284+00:00",
+        "source": "Ashby: Polymarket [Polymarket]",
+        "location": "New York",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be79"
+      },
+      "payload": {
+        "text": "Polymarket is hiring Staff Backend Engineer: https://hashtagweb3.com/be79/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/be79/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/be79.png?v=7",
+        "company": "Polymarket",
+        "title": "Staff Backend Engineer",
+        "description": "Join Polymarket as Staff Backend Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8beed460-0d34-46a4-8388-844c18e22a0b",
+      "verification": "creating"
     }
   ]
 }
