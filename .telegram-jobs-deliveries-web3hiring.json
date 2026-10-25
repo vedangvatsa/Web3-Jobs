@@ -7973,7 +7973,7 @@
     "sentAt": "2026-10-25T19:32:01.291Z"
   },
   "7bf8eeb1-eeec-43a9-984a-30cbdebf918a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T19:32:06.451Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -8086,6 +8086,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/ask2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU] AML Specialist, KYB</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sec19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Information Security Manager</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/pm233?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Product Engineer, EMEA</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/sls184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Development Representative</a>\n- Elwood Technologies is hiring <a href=\"https://hashtagweb3.com/sls191?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive/Sales Director - New York</a>",
-    "slotKey": "2026-10-25:evening"
+    "slotKey": "2026-10-25:evening",
+    "messageId": 144,
+    "sentAt": "2026-10-25T19:32:10.725Z"
   }
 }
