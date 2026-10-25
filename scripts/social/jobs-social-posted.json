@@ -52206,8 +52206,9 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "ba05d5fc-6d31-411b-8919-ff758655a4b7",
-      "verification": "pending",
-      "postId": "6add7abee4be8a4d868c84d9"
+      "verification": "verified",
+      "postId": "6add7abee4be8a4d868c84d9",
+      "permalink": "https://twitter.com/hashtag_web3/status/2114201005499814153"
     }
   ]
 }
