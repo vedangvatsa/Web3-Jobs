@@ -51403,7 +51403,8 @@
         "description": "Join Ripple as Director, Credit Risk. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "f38c186c-7a02-4fa5-9aec-0ce851a4d4e3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3myobvtu5db2c"
     }
   ]
 }
