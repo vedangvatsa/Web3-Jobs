@@ -88420,11 +88420,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1167699219bc5dfb0ce3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T16:00:00.000Z",
-      "lastSeenAt": "2026-10-25T03:39:00.304Z"
+      "lastSeenAt": "2026-10-25T03:39:00.304Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full CoinDesk Oct 24 piece: it is an analyst round-up on the tradeoffs between preferred-stock dividends and bitcoin buying, quoting Fidelity, Bitwise, StoneX, CoinShares and Two Prime on expected demand channels. No launch, vote, ruling, filing, hack, raise or upgrade occurs in it; the closest event-level item, Strategy's weekly update showing 93 million of STRC repurchases next to 267 bitcoin bought, is background inside the analysis rather than new reporting.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:49:34.341Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "f1a19bc98e99461d387f": {
       "source": "CryptoSlate",
@@ -155801,6 +155811,18 @@
           ],
           "reviewedAt": "2026-10-25T03:49:05.754Z",
           "articleSlug": "pumpbridge"
+        },
+        "1167699219bc5dfb0ce3": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full CoinDesk Oct 24 piece: it is an analyst round-up on the tradeoffs between preferred-stock dividends and bitcoin buying, quoting Fidelity, Bitwise, StoneX, CoinShares and Two Prime on expected demand channels. No launch, vote, ruling, filing, hack, raise or upgrade occurs in it; the closest event-level item, Strategy's weekly update showing 93 million of STRC repurchases next to 267 bitcoin bought, is background inside the analysis rather than new reporting.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:49:34.341Z"
         }
       },
       "baselineSlugs": [
