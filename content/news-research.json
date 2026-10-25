@@ -82070,9 +82070,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "15fff88038aca5057cfc",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-23T03:43:45.275Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-25T12:27:36.000Z",
       "lastSeenAt": "2026-10-23T03:43:45.275Z",
       "articleSlug": "pumpbridge",
@@ -82090,7 +82090,29 @@
         "updatedAt": "2026-10-24T20:04:34.573Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read three independent sources: Bankless Oct 22 (test window Sept. 28-Oct. 7, chains, 1.95s vs 3.88s, 11.2% vs 0.9% errors, 3.0% vs 3.6% median slippage, 383,326 timed trades, 53% Robinhood Chain/39% BSC, alon X Article, 0.45% fee, Fomo still on Relay), TokenPost Oct 22 (same comparison, no extra bridging fee, 1.1s framed as theoretical minimum, May 2026 crosschain launch) and TokenPost Oct 23 (Relay's response). Also opened Crypto Briefing Oct 21 for the switch date, Solana background since Jan 2024 and Relay latency figures. All performance figures are Pump.fun's own test data and stay attributed in the draft. Draft at content/articles/pumpbridge.md with self-hosted hero; quality, images, formatting, duplicates audits and tsc pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/pump-fun-ditches-relay-for-in-house-pump-bridge",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/37651",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/38862",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/pumpfun-pump-bridge-replaces-relay/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:49:05.754Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "163b498343144aa7f2e1": {
       "source": "The Defiant",
@@ -88367,11 +88389,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a977957a31d630d9a39",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T02:38:09.000Z",
-      "lastSeenAt": "2026-10-25T03:39:00.304Z"
+      "lastSeenAt": "2026-10-25T03:39:00.304Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the Crypto Briefing Oct 24/25 page: the story hook is Allaire's CNBC interview remark that Democrats will not reverse the GENIUS Act, a forecast about midterm politics rather than a launch, vote, ruling, filing or upgrade. The concrete regulatory event in the piece, the OCC final GENIUS Act rules released Oct. 21, is already covered by content/articles/occgenius.md.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/circle-allaire-genius-act-bipartisan-support/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T03:43:09.479Z",
+      "lastReviewedDay": "2026-10-25"
     },
     "1167699219bc5dfb0ce3": {
       "source": "CoinDesk",
@@ -155732,6 +155764,43 @@
           ],
           "reviewedAt": "2026-10-25T03:43:06.945Z",
           "duplicateOf": "tetherhines"
+        },
+        "2a977957a31d630d9a39": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the Crypto Briefing Oct 24/25 page: the story hook is Allaire's CNBC interview remark that Democrats will not reverse the GENIUS Act, a forecast about midterm politics rather than a launch, vote, ruling, filing or upgrade. The concrete regulatory event in the piece, the OCC final GENIUS Act rules released Oct. 21, is already covered by content/articles/occgenius.md.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/circle-allaire-genius-act-bipartisan-support/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:43:09.479Z"
+        },
+        "15fff88038aca5057cfc": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read three independent sources: Bankless Oct 22 (test window Sept. 28-Oct. 7, chains, 1.95s vs 3.88s, 11.2% vs 0.9% errors, 3.0% vs 3.6% median slippage, 383,326 timed trades, 53% Robinhood Chain/39% BSC, alon X Article, 0.45% fee, Fomo still on Relay), TokenPost Oct 22 (same comparison, no extra bridging fee, 1.1s framed as theoretical minimum, May 2026 crosschain launch) and TokenPost Oct 23 (Relay's response). Also opened Crypto Briefing Oct 21 for the switch date, Solana background since Jan 2024 and Relay latency figures. All performance figures are Pump.fun's own test data and stay attributed in the draft. Draft at content/articles/pumpbridge.md with self-hosted hero; quality, images, formatting, duplicates audits and tsc pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/pump-fun-ditches-relay-for-in-house-pump-bridge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/37651",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/38862",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/pumpfun-pump-bridge-replaces-relay/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T03:49:05.754Z",
+          "articleSlug": "pumpbridge"
         }
       },
       "baselineSlugs": [
