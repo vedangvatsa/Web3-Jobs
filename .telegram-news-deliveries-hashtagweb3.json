@@ -2218,5 +2218,36 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 155918,
     "sentAt": "2026-10-25T03:40:14.959Z"
+  },
+  "6925894c-90d8-4cac-b00d-b4ddf09d1700": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:35:50.334Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OCC issues final GENIUS Act rules for payment stablecoins",
+        "summary": "The agency set reserve and redemption standards for issuers before the law takes effect in January 2027.",
+        "link": "https://hashtagweb3.com/occgenius?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OCC finalizes GENIUS Act stablecoin rules ahead of January deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Optimum launches mump2p protocol on Ethereum mainnet",
+        "summary": "Sixteen operators are using the new protocol to transmit Ethereum blocks faster than the existing GossipSub network.",
+        "link": "https://hashtagweb3.com/mump2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators"
+      },
+      {
+        "index": 1,
+        "headline": "Bitcoin price dip causes $404 million in long position losses",
+        "summary": "Spot bitcoin ETFs saw $773 million in outflows after three consecutive days of net inflows.",
+        "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+        "source": "The Block",
+        "originalTitle": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000"
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon"
   }
 }
