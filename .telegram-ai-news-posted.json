@@ -788,6 +788,9 @@
   "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
   "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
   "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+  "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+  "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2146,6 +2149,12 @@
   "A list of discontinued or underperforming AI projects",
   "Block releases new voice model",
   "Block’s new voice model sounds eerily human",
+  "Nvidia CEO demonstrates Microduck voice-controlled toy robots",
+  "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+  "Google updates privacy policy regarding Gmail data usage",
+  "Updated Google privacy policy says your Gmail might be used for advertising",
+  "Reviewing six technology claims and biotechnology limitations",
+  "The Download: testing six tech promises and biotech’s blind spots",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2451,5 +2460,8 @@
   "fp:actor|agent|align|automat|breach|chines|connectwis|follow|giant|hacker",
   "fp:alignment|between|bia|choos|democrat|differenc|election|find|forc|hundr",
   "fp:cancel|didn|discontinu|fail|goal|graveyard|initiativ|list|major|mak",
-  "fp:block|directly|eerily|human|macbook|max|operat|releas|softwar|sound"
+  "fp:block|directly|eerily|human|macbook|max|operat|releas|softwar|sound",
+  "fp:000|adorabl|ceo|christma|command|controll|demonstrat|fall|hottest|lik",
+  "fp:account|advertis|advertisement|allow|data|enabl|featur|gmail|googl|information",
+  "fp:biological|biotech|biotechnology|blind|claim|current|download|examin|gap|goal"
 ]

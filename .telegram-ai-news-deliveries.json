@@ -2086,7 +2086,7 @@
     "sentAt": "2026-10-24T19:33:32.589Z"
   },
   "91206431-a69d-4268-b081-762f57633415": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T03:41:47.798Z",
     "stories": [
       {
@@ -2114,6 +2114,8 @@
         "originalTitle": "The Download: testing six tech promises and biotech’s blind spots"
       }
     ],
-    "slotKey": "2026-10-25:morning"
+    "slotKey": "2026-10-25:morning",
+    "messageId": 193395,
+    "sentAt": "2026-10-25T03:41:51.115Z"
   }
 }
