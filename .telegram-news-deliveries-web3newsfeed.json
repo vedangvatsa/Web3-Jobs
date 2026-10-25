@@ -2218,5 +2218,36 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 65774,
     "sentAt": "2026-10-24T19:33:37.756Z"
+  },
+  "4c2a3326-6b1d-47e6-aaac-fe3203062ad5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T03:41:19.980Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Winklevoss super PAC spends $81,000 on Texas mailers",
+        "summary": "The Digital Freedom Fund disclosed spending to support Ken Paxton and oppose James Talarico in federal filings.",
+        "link": "https://hashtagweb3.com/winklevosspac?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Winklevoss super PAC reports first Texas Senate mail buy of $81,000"
+      },
+      {
+        "index": -1,
+        "headline": "Kalshi enables crypto collateral for perpetual futures trading margin",
+        "summary": "Users secure margin loans with BitGo-held assets as Webull prepares to list Kalshi perpetuals in November.",
+        "link": "https://hashtagweb3.com/kalshibitgo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi lets Prime clients borrow against bitcoin and ether for perpetual futures margin"
+      },
+      {
+        "index": -1,
+        "headline": "NEAR Protocol considers reducing annual token issuance to 1.6%",
+        "summary": "The network is voting on a proposal to lower maximum token inflation over the next two years.",
+        "link": "https://hashtagweb3.com/nearissuance?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR opens House of Stake vote to cut annual token issuance to 1.6%"
+      }
+    ],
+    "slotKey": "2026-10-25:morning"
   }
 }
