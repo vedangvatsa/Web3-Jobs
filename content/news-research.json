@@ -85359,9 +85359,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b73e9008021db1a1a89",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T20:30:00.000Z",
       "lastSeenAt": "2026-10-24T08:24:01.469Z",
       "articleSlug": "fcaarrangement",
@@ -85379,7 +85379,26 @@
         "updatedAt": "2026-10-25T04:06:59.577Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "duplicate",
+      "note": "Same event as published article fcadefi: the Oct 21 2026 CP26/36 consultation, whose technical-services exclusion and arranging analysis the existing article already covers. Read CryptoSlate Oct 23, the FCA CP26/36 page and crypto.news Oct 23; the routing/algorithms detail is fresh reporting on the same consultation, not a new development.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/uk-fca-opens-defi-consultations-to-clarify-crypto-rules-ahead-of-2027",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-25T04:09:09.461Z",
+      "duplicateOf": "fcadefi",
+      "lastReviewedDay": "2026-10-25"
     },
     "631dfc57c0b1bc0e1a8f": {
       "source": "Crypto Briefing",
@@ -156179,6 +156198,27 @@
           ],
           "reviewedAt": "2026-10-25T04:07:23.806Z",
           "articleSlug": "novatechjudgment"
+        },
+        "8b73e9008021db1a1a89": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as published article fcadefi: the Oct 21 2026 CP26/36 consultation, whose technical-services exclusion and arranging analysis the existing article already covers. Read CryptoSlate Oct 23, the FCA CP26/36 page and crypto.news Oct 23; the routing/algorithms detail is fresh reporting on the same consultation, not a new development.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/uk-fca-opens-defi-consultations-to-clarify-crypto-rules-ahead-of-2027",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:09:09.461Z",
+          "duplicateOf": "fcadefi"
         }
       },
       "baselineSlugs": [
