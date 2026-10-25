@@ -7779,7 +7779,7 @@
     "sentAt": "2026-10-25T11:31:38.862Z"
   },
   "f6ac59dd-89df-49b7-8e01-dc826d9eedba": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T11:31:46.872Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7850,6 +7850,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Product Sales - Payouts</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/sls118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Accountant, AP/AR &amp; Cash</a>\n- Lightspark is hiring <a href=\"https://hashtagweb3.com/idds?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Institutional Due Diligence Specialist, EU</a>",
-    "slotKey": "2026-10-25:afternoon"
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 143,
+    "sentAt": "2026-10-25T11:31:55.013Z"
   }
 }
