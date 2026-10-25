@@ -55388,7 +55388,8 @@
       },
       "account": "channel:ai",
       "attemptId": "663472ba-6a67-4899-8003-9a3df05da2f1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc504208cfbb40e93047e0bc0bceb5d7540caed94"
     }
   ]
 }
