@@ -56007,7 +56007,8 @@
       },
       "account": "channel:developers",
       "attemptId": "ea789fd7-c1d8-4a01-b5e4-977a3ec69d8e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa5c0b5a993233daaea656ea370bd6e8b1581b7bd"
     }
   ]
 }
