@@ -51690,7 +51690,8 @@
       },
       "account": "channel:build",
       "attemptId": "0d7af423-f07f-4deb-bbe1-9ebc5d178366",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb57516437a2ed75988430bdbfff572a5a1f9a392"
     }
   ]
 }
