@@ -2084,5 +2084,36 @@
     "slotKey": "2026-10-24:evening",
     "messageId": 193393,
     "sentAt": "2026-10-24T19:33:32.589Z"
+  },
+  "91206431-a69d-4268-b081-762f57633415": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T03:41:47.798Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "Nvidia CEO demonstrates Microduck voice-controlled toy robots",
+        "summary": "The small robotic toys respond to voice commands by performing movements like walking, falling, and somersaulting.",
+        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+        "source": "TechCrunch",
+        "originalTitle": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell"
+      },
+      {
+        "index": 3,
+        "headline": "Google updates privacy policy regarding Gmail data usage",
+        "summary": "Enabling Personal Intelligence features allows Google to use your account information for targeted advertisements.",
+        "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+        "source": "Ars Technica",
+        "originalTitle": "Updated Google privacy policy says your Gmail might be used for advertising"
+      },
+      {
+        "index": 4,
+        "headline": "Reviewing six technology claims and biotechnology limitations",
+        "summary": "This newsletter examines the current status of various tech goals and identifies gaps in modern biological research.",
+        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The Download: testing six tech promises and biotech’s blind spots"
+      }
+    ],
+    "slotKey": "2026-10-25:morning"
   }
 }
