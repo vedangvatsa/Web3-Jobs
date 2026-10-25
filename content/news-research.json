@@ -85304,7 +85304,23 @@
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
       "attempts": 0,
       "expiresAt": "2026-10-26T23:35:00.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "articleSlug": "novatechjudgment",
+      "draftProgress": {
+        "id": "13b55943b94927136f74",
+        "day": "2026-10-25",
+        "articleSlug": "novatechjudgment",
+        "note": "Read the Unchained Oct 23 report on the NY AG request for a 1.37 billion dollar judgment against NovaTech founders Cynthia and Eddy Petion plus the 5.98 million dollar promoter settlements. Primary URLs identified: ag.ny.gov affirmation PDF and AG press release. Independent same-event coverage exists at CryptoSlate, Bitcoin Magazine and Cointelegraph (The Block returns 403); none of the secondaries opened yet. Next step: open the AG primary documents and one independent outlet, check content/articles for an existing NovaTech piece, then draft.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/new-york-asks-court-for-a-1-37-billion-judgment-against-novatechs-founders/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-25T04:00:29.068Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8b73e9008021db1a1a89": {
       "source": "CryptoSlate",
