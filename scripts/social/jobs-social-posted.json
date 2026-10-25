@@ -53430,7 +53430,8 @@
       },
       "account": "channel:build",
       "attemptId": "d8eaf334-7cb8-41cf-ac91-fea86f3d57ec",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f2d7ed9cdcf051535909a4832bfd10d41400336"
     }
   ]
 }
