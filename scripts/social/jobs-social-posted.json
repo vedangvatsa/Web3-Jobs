@@ -54754,7 +54754,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "078044e0-eb54-4927-9bf0-0acd20d73593",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520086475200233472"
     }
   ]
 }
