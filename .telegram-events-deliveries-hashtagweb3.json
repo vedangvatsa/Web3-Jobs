@@ -3232,5 +3232,51 @@
     "slotKey": "2026-10-25:morning",
     "messageId": 155916,
     "sentAt": "2026-10-25T03:39:02.076Z"
+  },
+  "a26100ad-06c2-45ef-8b3f-403285b02791": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T11:31:44.735Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316914263",
+        "slug": "bitcoin-manchester-monthly",
+        "name": "Bitcoin Manchester Monthly",
+        "startDate": "2026-10-29T19:00:00Z",
+        "keys": [
+          "mu-316914263",
+          "page:bitcoin-manchester-monthly:2026-10-29",
+          "url:meetup.com/bitcoin-manchester/events/316914263:2026-10-29",
+          "event:bitcoinmanchestermonthly:2026-10-29:manchester"
+        ]
+      },
+      {
+        "id": "mu-313246741",
+        "slug": "bitcoin-bay-sauga-meetup",
+        "name": "Bitcoin Bay Sauga Meetup",
+        "startDate": "2026-10-29T19:30:00-04:00",
+        "keys": [
+          "mu-313246741",
+          "page:bitcoin-bay-sauga-meetup:2026-10-29",
+          "url:meetup.com/the-bitcoin-bay/events/313246741:2026-10-29",
+          "event:bitcoinbaysaugameetup:2026-10-29:mississauga"
+        ]
+      },
+      {
+        "id": "discovery-evt-VGgpJ5y4iCEv7z0",
+        "slug": "hackathon-edu-labitconf",
+        "name": "Hackathon EDU by LABITCONF",
+        "startDate": "2026-10-30T11:00:00.000Z",
+        "keys": [
+          "discovery-evt-vggpj5y4icev7z0",
+          "page:hackathon-edu-labitconf:2026-10-30",
+          "luma:evt-vggpj5y4icev7z0",
+          "luma-url:/cwhw1uls",
+          "event:hackathonedubylabitconf:2026-10-30:buenos aires"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-25:afternoon"
   }
 }
