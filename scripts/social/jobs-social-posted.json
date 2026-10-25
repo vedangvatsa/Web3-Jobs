@@ -51510,7 +51510,8 @@
       },
       "account": "channel:web3",
       "attemptId": "faeb1391-3365-4e21-9362-d34e19aa7148",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0b0a0839630ef8f942908681b14fab6e6c4a1d4e"
     }
   ]
 }
