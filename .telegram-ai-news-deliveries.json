@@ -2119,7 +2119,7 @@
     "sentAt": "2026-10-25T03:41:51.115Z"
   },
   "6709f37a-b31e-4a9f-9a80-e9235e9194e9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T11:33:50.445Z",
     "stories": [
       {
@@ -2147,6 +2147,8 @@
         "originalTitle": "AI’s hidden storage bill: What inference leaves behind"
       }
     ],
-    "slotKey": "2026-10-25:afternoon"
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 193398,
+    "sentAt": "2026-10-25T11:33:54.378Z"
   }
 }

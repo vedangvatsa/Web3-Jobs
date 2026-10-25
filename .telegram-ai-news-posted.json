@@ -791,6 +791,9 @@
   "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
   "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
   "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+  "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+  "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2155,6 +2158,12 @@
   "Updated Google privacy policy says your Gmail might be used for advertising",
   "Reviewing six technology claims and biotechnology limitations",
   "The Download: testing six tech promises and biotech’s blind spots",
+  "AI agents available through text messaging services",
+  "Here are the top AI agents that can live in your text messages",
+  "Hackers probed PHP2Shell vulnerability four days before public disclosure",
+  "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+  "Data Storage Adds Unseen Costs to AI Inference",
+  "AI’s hidden storage bill: What inference leaves behind",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2463,5 +2472,8 @@
   "fp:block|directly|eerily|human|macbook|max|operat|releas|softwar|sound",
   "fp:000|adorabl|ceo|christma|command|controll|demonstrat|fall|hottest|lik",
   "fp:account|advertis|advertisement|allow|data|enabl|featur|gmail|googl|information",
-  "fp:biological|biotech|biotechnology|blind|claim|current|download|examin|gap|goal"
+  "fp:biological|biotech|biotechnology|blind|claim|current|download|examin|gap|goal",
+  "fp:access|agent|app|are|assistant|availabl|can|her|liv|messag",
+  "fp:attacker|began|day|developer|disclosur|epic|flaw|four|got|hacker",
+  "fp:accumulat|add|back|behind|bill|business|cost|data|end|expens"
 ]
