@@ -85192,7 +85192,23 @@
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
       "attempts": 0,
       "expiresAt": "2026-10-27T01:35:00.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "articleSlug": "sectokenization",
+      "draftProgress": {
+        "id": "66553f83e2cc41d6224d",
+        "day": "2026-10-25",
+        "articleSlug": "sectokenization",
+        "note": "Read the Unchained Oct 23/24 report: SEC Division of Examinations FY2027 priorities (released Fri Oct 23) name tokenization a high-risk area in clearing-agency exams and an emerging trend under Regulation SCI; term absent from 2025 and 2026 editions; no crypto/stablecoin section; staff statement with no legal force; 34,000+ registrants; quotes Keith Cassidy and Paul Atkins. Search located the SEC primary PDF (sec.gov/files/2027-exam-priorities.pdf), the SEC press release (2026-109) and same-event coverage at TokenPost and Decrypt, none of them opened yet. Next step: open the SEC press release and PDF as primary source plus one second site, check content/articles for an existing FY2027 exam-priorities piece, then draft.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/sec-examiners-set-sights-on-tokenization-at-clearing-agencies-for-fiscal-2027/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-25T03:50:20.450Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "cd1921db4a3497276de7": {
       "source": "Unchained",
