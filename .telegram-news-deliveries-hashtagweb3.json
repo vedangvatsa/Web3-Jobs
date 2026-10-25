@@ -2251,5 +2251,36 @@
     "slotKey": "2026-10-25:afternoon",
     "messageId": 155923,
     "sentAt": "2026-10-25T11:35:55.441Z"
+  },
+  "515eed21-ffce-422e-b2b2-e74301c90a83": {
+    "status": "reserved",
+    "reservedAt": "2026-10-25T19:41:43.972Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Trade group urges CFTC to reject Kalshi oil proposal",
+        "summary": "The Commodity Markets Council also requested limits on retail access to offshore derivatives platforms.",
+        "link": "https://hashtagweb3.com/wtiperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Commodity Markets Council asks CFTC to reject Kalshi perpetual oil filing"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand SEC has not received any crypto ETF applications",
+        "summary": "Asset managers have inquired about these products, but the regulator cannot confirm a launch date for 2026.",
+        "link": "https://hashtagweb3.com/thailandapplicants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand SEC has received no crypto ETF applications"
+      },
+      {
+        "index": -1,
+        "headline": "Polkadot advises Fearless Wallet users to move funds",
+        "summary": "Four browser extension versions leaked private keys, requiring users to create new wallets and transfer their assets.",
+        "link": "https://hashtagweb3.com/fearlesswallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polkadot tells Fearless Wallet users to move funds after private-key leak"
+      }
+    ],
+    "slotKey": "2026-10-25:evening"
   }
 }
