@@ -79707,25 +79707,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e7e9c8fd5087c1fb06f6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-22T11:10:34.736Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-25T09:14:23.000Z",
       "lastSeenAt": "2026-10-22T11:10:34.736Z",
-      "reason": "source-blocked",
-      "note": "Re-read the Crypto Briefing Oct 22 page on 2026-10-24: it is a prediction-market analysis page stating the Digital Asset Basic Act is 'reportedly nearing completion' and the 22 percent tax proposal was postponed, with no National Assembly, ministry or newswire citation. Still no primary Korean legislative record or independent corroboration opened.",
+      "reason": "duplicate",
+      "note": "Same development window as the ready bokforex article: the Oct 22 statements that FSC chairman Lee Eog-weon calls Digital Asset Basic Act talks final-stage plus the tax fight are reported there. Re-read attempts this round found no primary National Assembly vote record; the Crypto Briefing page remains an uncited prediction-market analysis whose bill-nears-completion claim and tax-postponed claim are covered or contradicted by the ready article.",
       "sourceChecks": [
         {
-          "url": "https://cryptobriefing.com/south-koreas-crypto-bill-nears-completion-amid-tax-debate-intensification/",
+          "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://asiadaily.org/news/16406/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-24T19:46:09.556Z",
+      "reviewedAt": "2026-10-25T04:21:53.113Z",
       "retrySearches": [
         "Find primary or independent reporting on South Korea's Digital Asset Basic Act passage status in the National Assembly late October 2026: committee or plenary vote dates from National Assembly records, Yonhap, Korea Herald or CoinDesk Korea"
       ],
-      "lastReviewedDay": "2026-10-24",
-      "nextReviewDate": "2026-10-25"
+      "lastReviewedDay": "2026-10-25",
+      "duplicateOf": "bokforex",
+      "mergedInto": "0a96c31dc95e23b1e52c"
     },
     "6f1a71e46d045c376361": {
       "source": "The Block",
@@ -156275,6 +156280,24 @@
           ],
           "reviewedAt": "2026-10-25T04:21:38.156Z",
           "articleSlug": "bokforex"
+        },
+        "e7e9c8fd5087c1fb06f6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same development window as the ready bokforex article: the Oct 22 statements that FSC chairman Lee Eog-weon calls Digital Asset Basic Act talks final-stage plus the tax fight are reported there. Re-read attempts this round found no primary National Assembly vote record; the Crypto Briefing page remains an uncited prediction-market analysis whose bill-nears-completion claim and tax-postponed claim are covered or contradicted by the ready article.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://asiadaily.org/news/16406/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-25T04:21:53.113Z",
+          "duplicateOf": "bokforex",
+          "mergedInto": "0a96c31dc95e23b1e52c"
         }
       },
       "baselineSlugs": [
