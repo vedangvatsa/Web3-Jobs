@@ -4339,7 +4339,7 @@
     "sentAt": "2026-10-25T03:39:42.448Z"
   },
   "6609159f-11ee-4d4c-a8c8-ec06dc8db4e9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T11:32:45.961Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4438,6 +4438,8 @@
       }
     ],
     "message": "- Sei Labs is hiring <a href=\"https://hashtagweb3.com/mgr89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Workplace Experience Manager</a>\n- Sphere is hiring <a href=\"https://hashtagweb3.com/mgr198?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Implementation Manager</a>\n- Zero Hash is hiring <a href=\"https://hashtagweb3.com/arc23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Core Architect &amp; Integration Lead - Applied AI</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm195?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principle Fiat Product Specialist</a>",
-    "slotKey": "2026-10-25:afternoon"
+    "slotKey": "2026-10-25:afternoon",
+    "messageId": 155922,
+    "sentAt": "2026-10-25T11:32:58.800Z"
   }
 }
