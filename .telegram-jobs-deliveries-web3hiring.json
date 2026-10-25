@@ -7455,7 +7455,7 @@
     "sentAt": "2026-10-24T19:31:56.941Z"
   },
   "8479eaa1-92b4-4590-a177-6bde0e6f55cc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-25T03:39:15.476Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -7574,6 +7574,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/cm11?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Community Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ops78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Financial Operations Platform Director</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sec67?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer - Privacy &amp; Data Security</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Risk Manager</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/ss2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Social - Square</a>",
-    "slotKey": "2026-10-25:morning"
+    "slotKey": "2026-10-25:morning",
+    "messageId": 16566,
+    "sentAt": "2026-10-25T03:39:18.594Z"
   }
 }
