@@ -55756,7 +55756,8 @@
         "description": "Join Bitvavo as Data Protection Officer. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "b2021105-6e28-4d84-906e-6870ce04141a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mypxdvdfoo2c"
     }
   ]
 }
