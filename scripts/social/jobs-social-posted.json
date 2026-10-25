@@ -56225,6 +56225,41 @@
       "attemptId": "8cc30b16-f7f3-400f-940b-39d9b37fa49b",
       "verification": "verified",
       "postId": "0x28c9b784a4c1c96afb9c88385bcd1725e0e08586"
+    },
+    {
+      "slug": "dpo",
+      "company": "Bitvavo",
+      "title": "Data Protection Officer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-25T19:35:46.126Z",
+      "expectedText": "Bitvavo is hiring Data Protection Officer\n\nhttps://hashtagweb3.com/dpo/fc?og=7",
+      "snapshot": {
+        "id": "de47237e-e476-4d3c-bb24-fb4803ad3ca4",
+        "title": "Data Protection Officer",
+        "company": "Bitvavo",
+        "link": "https://jobs.ashbyhq.com/bitvavo/de47237e-e476-4d3c-bb24-fb4803ad3ca4",
+        "date": "2026-10-05T09:25:18.894+00:00",
+        "source": "Ashby: Bitvavo [bitvavo]",
+        "location": "Headquarters",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dpo"
+      },
+      "payload": {
+        "text": "Bitvavo is hiring Data Protection Officer\n\nhttps://hashtagweb3.com/dpo/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dpo/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "38904cf5-a6b6-4f2c-b0e7-3beeadf92b42",
+      "verification": "creating"
     }
   ]
 }
