@@ -54553,7 +54553,8 @@
       },
       "account": "channel:product",
       "attemptId": "933a76e9-9470-4d9a-939a-7048cf09ab5b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x10b948e3c26be7e0dcb3d99fa46fa1f01c0cf2b5"
     }
   ]
 }
