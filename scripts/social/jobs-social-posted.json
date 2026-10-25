@@ -55316,7 +55316,8 @@
       },
       "account": "channel:solana",
       "attemptId": "c6e6f3e8-1997-46e7-82f0-3e830d9abf97",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x27c54dc5a1333218ca65d20c94e14b7a56ff4041"
     }
   ]
 }
