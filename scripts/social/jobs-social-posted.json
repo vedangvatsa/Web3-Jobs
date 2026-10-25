@@ -51978,7 +51978,8 @@
       },
       "account": "channel:design",
       "attemptId": "0d8ac7c8-c3f7-43d7-89cb-860ab7f89fbb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe70b9b570a99160620dd2d7aa0b7cb257fb0e449"
     }
   ]
 }
