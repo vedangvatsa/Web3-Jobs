@@ -52176,6 +52176,37 @@
       "attemptId": "7cc28d25-6900-4987-b4c9-c4667d6fcaa3",
       "verification": "verified",
       "postId": "691827047618629_1125183650088869"
+    },
+    {
+      "slug": "be84",
+      "company": "Ramp",
+      "title": "Senior Backend Engineer | Token Spend Management",
+      "platform": "x",
+      "postedAt": "2026-10-25T03:42:51.980Z",
+      "expectedText": "Ramp is hiring Senior Backend Engineer | Token Spend Management\n\nhttps://hashtagweb3.com/be84/x?og=7",
+      "snapshot": {
+        "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
+        "title": "Senior Backend Engineer | Token Spend Management",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
+        "date": "2026-10-20T13:40:20.264+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be84"
+      },
+      "payload": {
+        "text": "Ramp is hiring Senior Backend Engineer | Token Spend Management\n\nhttps://hashtagweb3.com/be84/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "ba05d5fc-6d31-411b-8919-ff758655a4b7",
+      "verification": "creating"
     }
   ]
 }
