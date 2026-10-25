@@ -52970,8 +52970,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "25889aba-6c8e-447f-a782-a0db7f4cdd12",
-      "verification": "pending",
-      "postId": "6add7b46bd33ce99c353bc87"
+      "verification": "verified",
+      "postId": "6add7b46bd33ce99c353bc87",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519967353019871232"
     }
   ]
 }
