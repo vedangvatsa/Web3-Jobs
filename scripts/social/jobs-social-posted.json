@@ -52973,6 +52973,48 @@
       "verification": "verified",
       "postId": "6add7b46bd33ce99c353bc87",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7519967353019871232"
+    },
+    {
+      "slug": "be84",
+      "company": "Ramp",
+      "title": "Senior Backend Engineer | Token Spend Management",
+      "platform": "linkedin",
+      "postedAt": "2026-10-25T03:42:51.980Z",
+      "expectedText": "Ramp is hiring Senior Backend Engineer | Token Spend Management: https://hashtagweb3.com/be84/li?og=7",
+      "snapshot": {
+        "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
+        "title": "Senior Backend Engineer | Token Spend Management",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
+        "date": "2026-10-20T13:40:20.264+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be84"
+      },
+      "payload": {
+        "text": "Ramp is hiring Senior Backend Engineer | Token Spend Management: https://hashtagweb3.com/be84/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/be84/li?og=7",
+          "title": "Senior Backend Engineer | Token Spend Management at Ramp",
+          "description": "Join Ramp as Senior Backend Engineer | Token Sp. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/be84.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a3148a5a-1fdd-4377-863b-a2501885fe63",
+      "verification": "creating"
     }
   ]
 }
