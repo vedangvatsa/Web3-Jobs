@@ -54373,7 +54373,8 @@
       },
       "account": "channel:base",
       "attemptId": "9d4d7c32-ab96-4e8e-bd82-17afa8503e26",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfbcfc41c823fc9eb9ffab7f3f3c1b9a35f37c6af"
     }
   ]
 }
