@@ -15297,36 +15297,6 @@
     }
   },
   {
-    "id": "luma-batch-evtawiYKXHeEK3EP",
-    "slug": "gsrv3end",
-    "name": "Solana NZ Meetup (SEPTEMBER Edition)",
-    "description": "Come join us on the last Friday of the month... to eat, drink, socialise and chat all things Solana IRL. We’ll dive into all things happening in the ecosystem. Get ready for some amazing alpha.\n\nUnfortunately, I won't be there for this one, but the rest of the core crew including Harkl will be there to see you have a great time...\n\n5-6pm: Arrive, chat, meet others\n\n6-7pm: Open format / projects and people sharing great things over 5min slots.\n\nA massive thanks to these supporters & sponsors for making our meetups happen:\n\n> Solana Foundation\n> Solana NZ\n\nGrab your spot…",
-    "startDate": "2026-09-25T05:00:00.000Z",
-    "endDate": "2026-09-25T07:00:00.000Z",
-    "city": "Auckland",
-    "country": "New Zealand",
-    "location": "Longroom & Longshot, Longroom & Longshot, 114 Ponsonby Road, Grey Lynn, Auckland 1011, New Zealand",
-    "url": "https://luma.com/gsrv3end",
-    "registrationUrl": "https://luma.com/gsrv3end",
-    "coverImage": "/events/luma-batch-evtawiYKXHeEK3EP-cc55548c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "SOL ecosystem"
-    ],
-    "price": "Free",
-    "timezone": "Pacific/Auckland",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/gsrv3end",
-      "eventId": "evt-awiYKXHeEK3EPYJ",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evttdoYjLUc0hLUU",
     "slug": "harmonia-frankfurt",
     "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",

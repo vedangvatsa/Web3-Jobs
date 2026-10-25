@@ -20271,7 +20271,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21433,7 +21433,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -22040,7 +22043,7 @@
     "country": "us",
     "location": "Belmont, us",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/316898768/",
-    "coverImage": "/events/mu-316898768-2130638a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22054,7 +22057,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/316859718/",
-    "coverImage": "/events/mu-316859718-2ce05fca.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22082,7 +22085,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
-    "coverImage": "/events/mu-316802686-b08fd60c.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28271,10 +28274,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -28432,7 +28432,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/gpxfy249",
-    "coverImage": null,
+    "coverImage": "/events/w3v-sol-calling-solana-breakpoint-happy-hour-1c83cf72.webp",
     "month": "November 2026"
   },
   {
@@ -28445,7 +28445,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/snrmcp50",
-    "coverImage": null,
+    "coverImage": "/events/w3v-beyond-business-an-exclusive-dinner-in-mayfair-e624d328.webp",
     "month": "November 2026"
   },
   {
@@ -28458,7 +28458,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/solanahiits",
-    "coverImage": null,
+    "coverImage": "/events/w3v-solana-fitness-zone-hiit-class-breakpoint-2026-9e5b4832.webp",
     "month": "November 2026"
   },
   {
@@ -28471,7 +28471,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/LondonHappyHour",
-    "coverImage": null,
+    "coverImage": "/events/w3v-london-happy-hour-dbd282ac.webp",
     "month": "November 2026"
   },
   {
@@ -28484,7 +28484,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/n41tqnps",
-    "coverImage": null,
+    "coverImage": "/events/w3v-breakpoint-pub-quiz-c8e56359.webp",
     "month": "November 2026"
   },
   {
@@ -28497,7 +28497,7 @@
     "country": "GB",
     "location": "London, GB",
     "url": "https://luma.com/e9iw08nn",
-    "coverImage": null,
+    "coverImage": "/events/w3v-no-more-pitches-83ba7a54.webp",
     "month": "November 2026"
   },
   {
@@ -28706,7 +28706,7 @@
     "country": "DE",
     "location": "Munich, DE",
     "url": "https://luma.com/rgk5ab91",
-    "coverImage": null,
+    "coverImage": "/events/w3v-softstack-tum-blockchain-dinner-9-179278608884-f85e92d9.webp",
     "month": "October 2026"
   },
   {
@@ -28848,5 +28848,89 @@
     "coverImage": "/events/luma-evt-xrlhwxomddonbwh-6d83ef82.webp",
     "source": "luma",
     "month": "October 2026"
+  },
+  {
+    "id": "mu-317049329",
+    "name": "Bitcoin for Beginners",
+    "description": "Learn by doing!\n\nWe're sending Bitcoin to each other using Bitcoin Testnet. Testnet is a replica of Bitcoin Mainnet used for testing without risking real funds. It's a safe, fun way to learn Bitcoin b",
+    "startDate": "2026-10-25T14:00:00-07:00",
+    "endDate": "2026-10-25T14:00:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316877634",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-10-26T18:30:00-07:00",
+    "endDate": "2026-10-26T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316877634/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316859696",
+    "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+    "description": "The new Blockchain Decentralisation Index Lab is an open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyon",
+    "startDate": "2026-10-29T08:00:00-07:00",
+    "endDate": "2026-10-29T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/316859696/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-317014772",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-11-05T11:00:00-08:00",
+    "endDate": "2026-11-05T11:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/317014772/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317076171",
+    "name": "Time to Sell Some Losers?  (Tax Loss Harvesting)",
+    "description": "We only have until the end of December to sell any of our coins/tokens and be able to claim a loss on our 2026 tax return.\n\nStart by reading this article about cryptocurrency tax loss harvesting:\n[htt",
+    "startDate": "2026-11-07T09:00:00-08:00",
+    "endDate": "2026-11-07T09:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317076171/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317040834",
+    "name": "Bay Area Pathologies : The Definitive Guide",
+    "description": "One of the chapters of my book is Bay Area Pathologies, which this group proved formative for my thinking on the subject. This chapter will be the basis of our discussion. I suspect this will be the d",
+    "startDate": "2026-11-14T19:00:00-08:00",
+    "endDate": "2026-11-14T19:00:00-08:00",
+    "city": "San Francisco",
+    "country": "us",
+    "location": "San Francisco, us",
+    "url": "https://www.meetup.com/renegadephilosophers/events/317040834/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]

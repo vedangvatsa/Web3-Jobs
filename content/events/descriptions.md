@@ -25042,34 +25042,6 @@ Bring a laptop and bring the version you have.
 
 Friday 12pm, Build Station KL. Submissions close 12 October.
 
-<a id="event-44db9d4e234f099a"></a>
-
-## Solana NZ Meetup (SEPTEMBER Edition)
-
-- Record: `luma-batch-evtawiYKXHeEK3EP`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T05:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/gsrv3end>
-
-### About the event
-
-Come join us on the last Friday of the month... to eat, drink, socialise and chat all things Solana IRL. We'll dive into all things happening in the ecosystem. Get ready for some amazing alpha.
-
-Unfortunately, I won't be there for this one, but the rest of the core crew including Harkl will be there to see you have a great time...
-
-5-6pm: Arrive, chat, meet others
-
-6-7pm: Open format / projects and people sharing great things over 5min slots.
-
-A massive thanks to these supporters & sponsors for making our meetups happen:
-
-> Solana Foundation
-
-> Solana NZ
-
-Grab your spot...
-
 <a id="event-39b81f73e1383a76"></a>
 
 ## Startup Village Chitwan
@@ -67950,6 +67922,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-82f7d80dda5cc1bc"></a>
+
+## Bitcoin for Beginners
+
+- Record: `mu-317049329`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-25T14:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/317049329/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6019e1c61fa4c67f"></a>
 
 ## Midlife Strong: Understanding Your Changing Bodyand Where to Begin
@@ -68115,6 +68099,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-26T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/3pu8bc59>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ffb283fe1407ff9f"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-316877634`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-26T18:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316877634/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -68707,6 +68703,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T08:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316859677/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7c03263f3acb1aac"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859696`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316859696/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70273,6 +70281,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-732a1c069d508494"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-317014772`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T11:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/carpoolcrypto/events/317014772/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-db1368abffe64fba"></a>
 
 ## Live AI Crypto Trading Demo + Founder Q&A
@@ -70470,6 +70490,18 @@ AlpineChain's fourth B-Only conference in Annecy includes Bitcoin talks, worksho
 - Starts: 2026-11-07T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.bitcoinkoreaconference.com/en>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-70c9699dbbd53525"></a>
+
+## Time to Sell Some Losers?  (Tax Loss Harvesting)
+
+- Record: `mu-317076171`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317076171/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70991,6 +71023,18 @@ etc.
 - Starts: 2026-11-14T18:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/k54pib4w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a330c57142c70a8f"></a>
+
+## Bay Area Pathologies : The Definitive Guide
+
+- Record: `mu-317040834`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T19:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/renegadephilosophers/events/317040834/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
