@@ -8091,7 +8091,7 @@
     "sentAt": "2026-10-25T19:32:10.725Z"
   },
   "28958485-6474-4650-b7b8-616d16a137af": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T03:33:03.619Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -8182,6 +8182,8 @@
       }
     ],
     "message": "- Logos is hiring <a href=\"https://hashtagweb3.com/do16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DevOps Engineer (Vac DST)</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec44?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Business Partner</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/pm85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager (London)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng504?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>",
-    "slotKey": "2026-10-26:morning"
+    "slotKey": "2026-10-26:morning",
+    "messageId": 16570,
+    "sentAt": "2026-10-26T03:33:17.206Z"
   }
 }
