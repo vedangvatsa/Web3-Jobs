@@ -91512,11 +91512,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5871d9f075d902b14784",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T17:15:46.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read the full syndicated text at cryptonews.net: the Oct. 25 Defiant piece is an explainer on how DAO governance moves treasury funds, worked through Uniswap proposal 83, executed March 21, 2025 (20,320,405 UNI). No new event in the lookback window; it analyzes a transfer that happened 19 months ago.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptonews.net/news/altcoins/33648177/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:54:58.861Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "4e9bee4cd1aa9491375d": {
       "source": "Crypto Briefing",
@@ -162836,6 +162850,22 @@
           ],
           "reviewedAt": "2026-10-26T03:51:27.851Z",
           "articleSlug": "bybitvara"
+        },
+        "5871d9f075d902b14784": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read the full syndicated text at cryptonews.net: the Oct. 25 Defiant piece is an explainer on how DAO governance moves treasury funds, worked through Uniswap proposal 83, executed March 21, 2025 (20,320,405 UNI). No new event in the lookback window; it analyzes a transfer that happened 19 months ago.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptonews.net/news/altcoins/33648177/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:54:58.861Z"
         }
       },
       "baselineSlugs": [
