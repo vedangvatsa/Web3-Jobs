@@ -60080,7 +60080,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "e66ba22f-39d9-4921-972c-ef0a96fcd2fe",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adfae3b419fee619ae5d755"
     }
   ]
 }
