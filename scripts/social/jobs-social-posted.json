@@ -60124,7 +60124,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "5cc57fc7-39f5-4a07-b92e-e8ef95f3235d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520571860896493568"
     }
   ]
 }
