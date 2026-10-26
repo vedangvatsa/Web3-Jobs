@@ -220,53 +220,6 @@
     }
   },
   {
-    "id": "luma-crypto-bSHlHyFbLpWkxET",
-    "slug": "lhah",
-    "name": "Long Horizon Agents Hackathon",
-    "description": "Long-horizon agents still break down over time: they accumulate observations, actions, and stale context until the growing history slows them down, costs more, and makes their own state less reliable.\n\nFixing that means rethinking the architecture — explicit mutable state instead of ever-growing histories, agents that edit their own working context, and a clear split between what needs to persist and what can be discarded. This hackathon is about building that architecture.\n\nBuild systems that help agents preserve what matters and discard what doesn't, staying reliable as tasks stretch from minutes to hours, days, or longer.\n\n## We're backing you with some of the best tools\n\nAWS: The models and cloud infrastructure to help you actually ship\n\nLiquid AI: Efficient general-purpose AI at every scale.\n\nNimble: Web data your agents can trust\n\n## Speakers\n\n[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI\n\n[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/)- Member of Technical Staff, ML Engineer @ Liquid AI\n\n[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble\n\n[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)\n\n## Judges\n\n[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI\n\n[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/) - Member of Technical Staff, ML Engineer @ Liquid AI\n\n[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble\n\n[Mogana Kumaran S.](https://www.linkedin.com/in/mogana-kumaran-s-8ab02026/?utm_source=luma) - Senior Staff Data Engineer @ Gap INC\n\n[Amit Panda](https://www.linkedin.com/in/pandaamit91/) - Staff Software Engineer @ LinkedIn\n\n[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)\n\n## Agenda\n\n• 9:30 AM — Doors Open + Opening Remarks\n• 11:00 AM — Kickoff & Hack\n• 1:30 PM — Lunch\n• 4:30 PM — Project Submission\n• 5:00 PM — Finalist Demos + Judging\n• 7:00 PM — Awards + Closing\n\n## Thank you to our Partners!\n\nNote: This event is fully in-person in San Francisco. Capacity is strictly limited. All attendees must apply and be approved prior to the event. Unapproved or pending applicants will not be admitted at the door.\n\nMaximum team size is four. 18+ only\n\n## See what’s possible.\n\n[Follow us on X](https://x.com/tokensandai?utm_source=luma) · [LinkedIn](https://www.linkedin.com/company/tokensand?utm_source=luma) · [Newsletter](https://tokensandai.beehiiv.com/?utm_source=luma)",
-    "startDate": "2026-09-25T16:30:00.000Z",
-    "endDate": "2026-09-26T02:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/horizonagentshack",
-    "registrationUrl": "https://luma.com/horizonagentshack",
-    "coverImage": "/events/luma-crypto-bshlhyfblpwkxet-69ba8c9a.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "tokens&",
-      "Alessandro Amenta",
-      "Jacopo Piazza"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "tokens&",
-      "url": "https://tokensand.ai/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/horizonagentshack",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/horizonagentshack",
-      "eventId": "evt-bSHlHyFbLpWkxET",
-      "fetchedAt": "2026-09-19T23:46:07.329Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-fRkk67UNiklXIIp",
     "slug": "house-2",
     "name": "House London #2 | Data Hackathon",

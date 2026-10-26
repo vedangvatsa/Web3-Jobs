@@ -23996,75 +23996,6 @@ It is a direct pathway from first prototype to funded defense startup, with root
 
 More details will be shared in June.
 
-<a id="event-808bd3843a9eaefb"></a>
-
-## Long Horizon Agents Hackathon
-
-- Record: `luma-crypto-bSHlHyFbLpWkxET`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-25T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/horizonagentshack>
-
-### About the event
-
-Long-horizon agents still break down over time: they accumulate observations, actions, and stale context until the growing history slows them down, costs more, and makes their own state less reliable.
-
-Fixing that means rethinking the architecture - explicit mutable state instead of ever-growing histories, agents that edit their own working context, and a clear split between what needs to persist and what can be discarded. This hackathon is about building that architecture.
-
-Build systems that help agents preserve what matters and discard what doesn't, staying reliable as tasks stretch from minutes to hours, days, or longer.
-
-### We're backing you with some of the best tools
-
-AWS: The models and cloud infrastructure to help you actually ship
-
-Liquid AI: Efficient general-purpose AI at every scale.
-
-Nimble: Web data your agents can trust
-
-### Speakers
-
-[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
-
-[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/)- Member of Technical Staff, ML Engineer @ Liquid AI
-
-[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
-
-[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)
-
-### Judges
-
-[Viviana Márquez](https://www.linkedin.com/in/vivianamarquez/) - Developer Relations @ Liquid AI
-
-[Tianshu Yu](https://www.linkedin.com/in/tianshu-yu-b5683b18b/) - Member of Technical Staff, ML Engineer @ Liquid AI
-
-[Yaniv Markovski](https://www.linkedin.com/in/yanivmarkovski/) - Head of Ecosystem Engineering @ Nimble
-
-[Mogana Kumaran S.](https://www.linkedin.com/in/mogana-kumaran-s-8ab02026/?utm_source=luma) - Senior Staff Data Engineer @ Gap INC
-
-[Amit Panda](https://www.linkedin.com/in/pandaamit91/) - Staff Software Engineer @ LinkedIn
-
-[Loading...](https://i.gifer.com/ZKZg.gif?utm_source=luma)
-
-### Agenda
-
-- 9:30 AM - Doors Open + Opening Remarks
-- 11:00 AM - Kickoff & Hack
-- 1:30 PM - Lunch
-- 4:30 PM - Project Submission
-- 5:00 PM - Finalist Demos + Judging
-- 7:00 PM - Awards + Closing
-
-### Thank you to our Partners!
-
-Note: This event is fully in-person in San Francisco. Capacity is strictly limited. All attendees must apply and be approved prior to the event. Unapproved or pending applicants will not be admitted at the door.
-
-Maximum team size is four. 18+ only
-
-### See what's possible
-
-[Follow us on X](https://x.com/tokensandai?utm_source=luma) - [LinkedIn](https://www.linkedin.com/company/tokensand?utm_source=luma) - [Newsletter](https://tokensandai.beehiiv.com/?utm_source=luma)
-
 <a id="event-ecfa4f286ca6cdb3"></a>
 
 ## House London #2 \| Data Hackathon
@@ -27983,190 +27914,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-713f968f2ff14f3e"></a>
-
-## Vancouver VibeStation
-
-- Record: `luma-batch-aZmT8wl05vtDjth`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ahy0kptc>
-
-### About the event
-
-Join Superteam Canada every Friday at our co-working space for builders, leaders and creatives.
-
-Here's what you can expect at our VibeStation:
-
-Desk-space, couches, private rooms, or public tables are available however you like to work.
-
-Drinks, snacks, and lunch served.
-
-Network and connect with other builders and enthusiasts in the ecosystem.
-
-Get hands-on experience by working on your project, meeting new people, finding team members, or joining an existing team.
-
-Attendance is free, approval required.
-
-For more info, join the Solana Canada telegram group:https://t.me/+Dm3WujI--Go1ZjQ0
-
-By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.
-
-<a id="event-ed9568c12dc667fb"></a>
-
-## Team1 Brasil Builders Dinner
-
-- Record: `luma-batch-evtM5qtakxfzGFaJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0257vwxu>
-
-### About the event
-
-Introdução
-
-No dia 25 de setembro, em São Paulo, o Team1 Brasil Builders Dinner reunirá, em um encontro exclusivo, builders e founders do ecossistema Web3.
-
-Realizado no Paparoto Cucina, em Pinheiros, o jantar será dedicado a apresentar o futuro da Team1 na vertical de desenvolvimento e suporte a builders, explorando como a comunidade pode apoiar projetos, desenvolvedores e fundadores que estão construindo no ecossistema Avalanche.
-
-Também vamos apresentar a usabilidade da infraestrutura da Avalanche em diferentes casos de uso, mostrando como sua tecnologia pode ser utilizada para desenvolver novas soluções e aplicações on-chain.
-
-Será uma noite para conversas relevantes, troca de experiências, networking e conexão entre pessoas que estão ativamente construindo o futuro da Web3.
-
-Dress Code: Smart Casual
-
-Participação confirmada exclusivamente mediante convite.
-
-Programação do Evento
-
-19:00 - Recepção & jantar
-
-19:30 - Abertura & apresentação da vertical de desenvolvimento da Team1
-
-20:00 - O futuro da Team1 & suporte aos Builders
-
-20:30 - Infraestrutura Avalanche: Usabilidade e Casos de Uso
-
-21:00 - Jantar, conversas & networking
-
-23:00 - Encerramento
-
-Sobre a Team1
-
-A Team1 é uma rede global de builders, desenvolvedores, criativos e membros de comunidades que trabalham para expandir o ecossistema Avalanche.
-
-Com 600+ membros em mais de 40 países, a Team1 impulsiona a democratização e a adoção global da Avalanche por meio de meetups locais, workshops, eventos exclusivos, criação de conteúdo e iniciativas lideradas pela comunidade.
-
-Ao conectar comunidades online e offline, a Team1 fortalece a inovação grassroots e amplia o alcance da Avalanche para novas regiões e culturas.
-
-Este é um encontro exclusivo para 20 convidados, com participação mediante convite.
-
-https://x.com/Team1BR
-
-<a id="event-67ab9eb9b58f7efe"></a>
-
-## Converge Afterparty by Stand with Crypto & Boston DAO
-
-- Record: `luma-batch-klpNRTLCwsWl8qV`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/converge26party>
-
-### About the event
-
-Converge & Fintech Week ticket holders will receive priority entry. Get ready to vote pro-crypto this midterm cycle with Stand with Crypto and Boston DAO as we wrap up the Converge conference at Cisco Brewers Seaport!
-
-In addition to enjoying tasty drinks, you can register to vote for the November Midterms at our Voter Registration Station!
-
-### Event details
-
-Hosted by The Boston DAO Events. Venue: Cisco Brewers Seaport, Cisco Brewers Seaport, 85 Northern Ave, Boston, MA 02210, USA. Tickets: Free. Registration requires organizer approval.
-
-### Tickets
-
-Ticket options include Converge Ticket Holder (free), Fintech Week Ticket Holder (free), Standard (free).
-
-<a id="event-3274b669033bad2c"></a>
-
-## Onchain Trading Gathering
-
-- Record: `luma-batch-ZA5CslCpCGmiJlq`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6reywqiz>
-
-### About the event
-
-Joyride × Inception Capital × World Markets
-
-The next generation of trading is moving onchain, and the market is moving with it.
-
-With the SEC recently introducing its temporary, conditional Innovation Exemption to facilitate the trading of certain tokenized stocks on onchain venues, the conversation around bringing traditional capital markets onchain is entering a new chapter.
-
-Join Joyride × Inception Capital × World Markets for an evening with the people building, trading, and shaping the future of onchain markets. From crypto-native derivatives and perpetuals to tokenized equities and onchain liquidity, we'll bring together traders, builders, investors, and community leaders to explore what's next.
-
-Come meet the teams, discover new products, exchange ideas, and connect with others pushing the boundaries of financial infrastructure.
-
-### What to expect
-
-An early look at Joyride's closed-alpha product
-
-Discover World Markets' innovative approach to onchain trading, combining spot, perps, and lending
-
-Drinks & bites
-
-Conversations with traders, builders, and investors
-
-Investors and community leaders from across the ecosystem
-
-Opportunities to connect with the teams and get involved in their growing communities
-
-### About Joyride
-
-Joyride is building a global derivatives exchange on Solana. Currently in closed alpha, Joyride's initial focus is 0DTE options, which generate over a trillion dollars of volume per day in TradFi markets. The team is gradually onboarding early users who love leverage but hate liquidations.
-
-### About World Markets
-
-World Markets is building a fully on-chain DEX focused on providing increased capital efficiency for traders and liquidity for highest quality tokenized assets. Its platform brings spot trading, perpetuals, and lending together in one account and shared collateral pool. Built with onchain transparency at its core, World Markets makes positions, counterparties, and risk parameters publicly verifiable. The team is rethinking how assets trading and liquidity work together in decentralized markets.
-
-### About Inception Capital
-
-Inception Capital is an early-stage venture firm investing in the next generation of technology across emerging markets, crypto, fintech, and AI. The firm partners with ambitious founders at the earliest stages, supporting them with capital, strategic relationships, and access to a global network of investors, builders, and operators. Through Inception House in New York, the team also brings together founders, investors, and the broader technology community through intimate events and conversations.
-
-### Event Details
-
-Friday, September 25
-
-6:00-8:00 PM
-
-Inception House - Chelsea, NYC
-
-Address will be shared with confirmed guests.
-
-<a id="event-8cea68239a2ffce0"></a>
-
-## 1 BILLION DOLLAR SHOW
-
-- Record: `luma-batch-zLCKOLVfI40BQGn`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wgdvkt2x>
-
-### About the event
-
-Nguyen Wahed is pleased to present the debut New York solo exhibition of 0xfff, an artist whose Transaction Sculptures (2018-2026) propose that the contract itself, not the image it might certify nor the object it might authenticate, constitutes the material of the work.Performance lectureSeptember 25, 6 - 9:00pm
-
-For the opening night, 0xfff addresses the world as a systems problem. What money became at the moment it became software. What a network owes those who live inside it. Who is permitted to agree upon value, and by what authority they do so. And why a decade of argument about digital ownership was conducted, almost in its entirety, in the wrong vocabulary.
-
-Over the course of the evening the artist will pass one billion dollars of transaction value through the contracts of a work on view. A desired body of capital settled on Mainnet and legible on any screen in the room or anywhere on earth.
-
-Evening co-hosted with Rhizome on the occasion of its thirtieth anniversary, and held alongside the concurrent basement residency of Kim Asendorf.
-
 <a id="event-4c4a97b2492ba724"></a>
 
 ## Ethereum Hackathon @ Sydney
@@ -28278,104 +28025,6 @@ HSK Chain Track
 ### About EAG
 
 The Ethereum Applications Guild (EAG) is a global non-profit collaborative organization dedicated to advancing the innovation, adoption, and real-world impact of Ethereum-native applications. Through application acceleration, open co-creation, ecosystem partnerships, sustainable funding, and global events, EAG connects builders, institutions, and ecosystem stakeholders to foster the sustainable growth and broader reach of the Ethereum applications ecosystem.
-
-<a id="event-d54ef0d95b07c44a"></a>
-
-## Dinner & Discussion on The Big Print w/ Larry Lepard
-
-- Record: `luma-batch-evtZpmDCmgBmLS4E`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6gueii8s>
-
-### About the event
-
-Bitcoin community members! We are excited to announce that Larry Lepard will be visiting The Space on Sept 25th for dinner and a discussion on his book, The Big Print. Members are allowed to bring a guest so please RSVP for the event for an accurate headcount!
-
-We will be providing dinner and drinks so come with your appetites!
-
-### Agenda
-
-5pm Doors open
-
-5pm - 545pm Hangout
-
-545pm - 630pm Dinner
-
-630pm - 730pm Presentation/Discussion on The Big Print
-
-730pm - 8pm Q&A/Wrap up
-
-### Event details
-
-Organized by The Space - Event Calendar. Venue: 3700 Franklin St, 3700 Franklin St, Denver, CO 80205, USA. Tickets: Free.
-
-<a id="event-ad8c2f9928523018"></a>
-
-## Marunouchi Morning Code
-
-- Record: `luma-batch-wtH0sG5zceHKbq0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/29w3qkwc>
-
-### About the event
-
-[Important Notice]
-
-This event is FREE, but If you attend the event without being on the Going list, you will be asked to pay 3000 yen participation fee.
-
-[Summary]
-
-This meetup is for those who are interested in code, web development, design, cloud, blockchain, or AI. All levels are welcome, so feel free to bring your laptop and discuss what you are working on or what you are learning. You can share your projects and ideas with other participants freely.
-
-[Price]
-
-Free. But you may need to buy something from the venue.
-
-If you attend the event without being on the Going list, you will be asked to pay 3000 yen participation fee.
-
-【重要なお知らせ】
-
-Goingリストに掲載されずにイベントに参加された場合、参加費3,000円をお支払いいただきます。
-
-【内容】
-
-このミートアップは、コード、Web開発、デザイン、クラウド、ブロックチェーン、AIに興味がある方のためのものです。レベルは問いませんので、ノートPCを持参して、今取り組んでいることや学んでいることを気軽にディスカッションしてください。自分のプロジェクトやアイデアを他の参加者と自由に共有することができます。
-
-【参加費】
-
-無料ですが、会場で何か購入する必要がある場合があります。
-
-Goingリストに掲載されずにイベントに参加された場合、参加費3,000円をお支払いいただきます。
-
-<a id="event-1356d6be31728d91"></a>
-
-## Weekly Pitch Practice #2
-
-- Record: `luma-batch-QemaBSuetm0IFme`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/orp9hc7i>
-
-### About the event
-
-Three to five minutes to pitch. Five to seven minutes of honest feedback.
-
-Week two pitch practice. Pitch for three to five minutes, and get five to seven minutes of direct feedback on the idea, the framing and the delivery.
-
-The feedback is honest and specific. The point is not encouragement, it's finding the thing that isn't landing while there's still time to fix it. Most teams pitch more than once across the four weeks, and the difference between week one and week four is usually obvious.
-
-Watching is open to everyone. You'll learn nearly as much from other people's feedback as your own, and it's a low-pressure way to see what a good Colosseum pitch sounds like.
-
-Who it's for: Teams and solo builders entering Colosseum, at any stage of readiness.
-
-You'll leave with: A sharper pitch, and a clear list of what to fix before next week.
-
-https://au.superteam.fun/colosseum for more information
 
 <a id="event-75928c9553b0cdbc"></a>
 
@@ -70401,6 +70050,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-030969594352f9ee"></a>
+
+## The Infrastructure Decisions That Define Your Trajectory
+
+- Record: `luma-evt-pBN8PFNbolDb67Q`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/LondonAIHubxAIforGrowth>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d71f325d699751b5"></a>
 
 ## Riserva Lisbon \| Stablecoins over wine at Stellar Meridian
@@ -70854,6 +70515,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T20:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047397/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1efbbe87ffafc713"></a>
+
+## NYC Executive Digital Assets Dinner w/ Halborn
+
+- Record: `luma-evt-K0DzJXeKMnW7OEb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nycexecutivedinner>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -71896,6 +71569,18 @@ The residency operates 24 hours a day from November 3 through November 7 at a pr
 
 Applications are evaluated based on project traction, team background, and stage of development. Approved founders receive check-in credentials, residency passes, and room details.
 
+<a id="event-7eefcb0436105598"></a>
+
+## Formula 1 Mexico City Watch Speakeasy
+
+- Record: `luma-evt-n4oeAU3jGTgSj8t`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/carclub-1fwz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-eea84f8e4fea0fcb"></a>
 
 ## International Conference on Financial Cryptography and Data Security (ICFCDS)
@@ -72368,6 +72053,18 @@ Attendance is free and requires host approval to maintain an intimate table size
 - Starts: 2026-11-03T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/czi58jpe>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-93383524970d9393"></a>
+
+## AG UI: Building Agentic Interfaces
+
+- Record: `mu-317065627`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T17:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/spokane-net-user-group/events/317065627/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -73577,6 +73274,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-12T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/o86scd69>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fd75272bafa13319"></a>
+
+## Building a Strong Professional Network
+
+- Record: `luma-evt-EZpDHBX3UuSsHSo`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-12T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/qqlmf5ou>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
