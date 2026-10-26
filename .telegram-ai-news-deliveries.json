@@ -2220,7 +2220,7 @@
     "sentAt": "2026-10-26T03:36:17.951Z"
   },
   "ecfac623-759f-4ebc-8bfe-dec0437a38f6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T11:36:20.557Z",
     "stories": [
       {
@@ -2248,6 +2248,8 @@
         "originalTitle": "Meta tries to scapegoat staff who downloaded torrents to spare execs"
       }
     ],
-    "slotKey": "2026-10-26:afternoon"
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 193403,
+    "sentAt": "2026-10-26T11:36:23.216Z"
   }
 }
