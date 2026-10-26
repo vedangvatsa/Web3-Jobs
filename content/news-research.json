@@ -86569,11 +86569,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "02e3abe70b19629843cd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T21:01:10.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "out-of-scope",
+      "note": "Meta's acquisition of AI data platform Sundial is an AI/analytics deal with no Web3, crypto or blockchain angle for this site.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-26T04:10:28.764Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "50b17c18638e06557ef6": {
       "source": "Crypto Briefing",
@@ -163072,6 +163077,13 @@
           "reviewedAt": "2026-10-26T04:10:06.477Z",
           "duplicateOf": "initiareserve",
           "mergedInto": "c7058b7d5e4bc7b21cda"
+        },
+        "02e3abe70b19629843cd": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Meta's acquisition of AI data platform Sundial is an AI/analytics deal with no Web3, crypto or blockchain angle for this site.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-26T04:10:28.764Z"
         }
       },
       "baselineSlugs": [
