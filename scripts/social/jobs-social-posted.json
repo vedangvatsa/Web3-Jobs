@@ -58013,7 +58013,8 @@
       },
       "account": "channel:product",
       "attemptId": "32364083-73aa-42ba-be20-98b577bb7874",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf3ed2226ab129ffad3b9dfcbed07237ab3a6ec5c"
     }
   ]
 }
