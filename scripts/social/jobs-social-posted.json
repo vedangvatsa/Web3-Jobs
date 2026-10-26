@@ -59053,7 +59053,8 @@
       },
       "account": "channel:design",
       "attemptId": "77468293-3dbe-4ef9-a9fa-1867419aefcd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x608a85095e051f0362e2794bffa060295f77cd8b"
     }
   ]
 }
