@@ -4616,7 +4616,7 @@
     "sentAt": "2026-10-26T03:34:21.192Z"
   },
   "12b99c1b-bbd8-4373-bbb5-a8cfc6f6b0a2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T11:33:29.620Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4725,6 +4725,8 @@
       }
     ],
     "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Offensive Security Engineer</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/pm206?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Crypto</a>\n- Staking Facilities is hiring <a href=\"https://hashtagweb3.com/eng583?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solana Engineer</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/cs9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Controls SME, Principal</a>",
-    "slotKey": "2026-10-26:afternoon"
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 155936,
+    "sentAt": "2026-10-26T11:33:45.313Z"
   }
 }
