@@ -91330,11 +91330,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3f94ebb22cbc7d8ebe18",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T23:32:09.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "out-of-scope",
+      "note": "Read in full. Prediction-market analysis of US House race advertising strategy with no crypto or Web3 event; article self-describes as interpretive analysis of market pricing.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/democrats-retreat-from-key-house-races-amid-fundraising-challenges/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:42:32.499Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "964fa53257f36fc8b3b1": {
       "source": "Crypto Briefing",
@@ -91351,11 +91361,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "964fa53257f36fc8b3b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T21:02:05.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "out-of-scope",
+      "note": "Read in full. Prediction-market commentary on a hypothetical Hegseth impeachment if Democrats win the House; no concrete Web3 event, speculative political scenario.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/house-democrats-eye-hegseth-impeachment-if-they-win-midterms/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:42:34.045Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "33131c21ebab18e60fe8": {
       "source": "Crypto Briefing",
@@ -91372,11 +91392,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "33131c21ebab18e60fe8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T19:28:43.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "out-of-scope",
+      "note": "Read in full. Prediction-market piece on the Michigan Senate race featuring no crypto or Web3 event; campaign messaging wrap-up only.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/mike-rogers-aims-for-michigan-comeback-in-2026-senate-race/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:42:36.037Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "98bbfbf8f6a68b530790": {
       "source": "Crypto Briefing",
@@ -162623,6 +162653,42 @@
             }
           ],
           "reviewedAt": "2026-10-26T03:42:30.758Z"
+        },
+        "3f94ebb22cbc7d8ebe18": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read in full. Prediction-market analysis of US House race advertising strategy with no crypto or Web3 event; article self-describes as interpretive analysis of market pricing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/democrats-retreat-from-key-house-races-amid-fundraising-challenges/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:42:32.499Z"
+        },
+        "964fa53257f36fc8b3b1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read in full. Prediction-market commentary on a hypothetical Hegseth impeachment if Democrats win the House; no concrete Web3 event, speculative political scenario.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/house-democrats-eye-hegseth-impeachment-if-they-win-midterms/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:42:34.045Z"
+        },
+        "33131c21ebab18e60fe8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read in full. Prediction-market piece on the Michigan Senate race featuring no crypto or Web3 event; campaign messaging wrap-up only.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/mike-rogers-aims-for-michigan-comeback-in-2026-senate-race/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:42:36.037Z"
         }
       },
       "baselineSlugs": [
