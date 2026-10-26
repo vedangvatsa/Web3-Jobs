@@ -58170,8 +58170,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a71a2a54-a725-45bd-ab2d-a6daffeac80a",
-      "verification": "pending",
-      "postId": "6adecb580b5343d070091af2"
+      "verification": "verified",
+      "postId": "6adecb580b5343d070091af2",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520328209356460032"
     }
   ]
 }
