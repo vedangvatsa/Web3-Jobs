@@ -231,7 +231,8 @@
     "dpo",
     "sls192",
     "it15",
-    "an96"
+    "an96",
+    "vpdf"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -307,8 +308,7 @@
     "sc",
     "aso42",
     "sec116",
-    "be79",
-    "vpdf"
+    "be79"
   ],
   "history": [
     {
