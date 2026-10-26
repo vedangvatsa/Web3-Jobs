@@ -3424,5 +3424,52 @@
     "slotKey": "2026-10-26:afternoon",
     "messageId": 155935,
     "sentAt": "2026-10-26T11:32:12.881Z"
+  },
+  "530ea3d5-b952-43ab-98b8-418fe4f1de3f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T19:39:10.932Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-luma-evt-cFa8fILMOq8zmBQ",
+        "slug": "frontiertraders",
+        "name": "Frontier Traders Mixer @ Solana Summit India",
+        "startDate": "2026-11-01T11:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-cfa8filmoq8zmbq",
+          "page:frontiertraders:2026-11-01",
+          "luma:evt-cfa8filmoq8zmbq",
+          "luma-url:/frontier-traders-india",
+          "event:frontiertradersmixersolanasummitindia:2026-11-01:mumbai"
+        ]
+      },
+      {
+        "id": "mu-316962667",
+        "slug": "de-bitcoin-beginner-workshops-entdecke-bitcoin",
+        "name": "[DE] Bitcoin Beginner Workshops - Entdecke Bitcoin",
+        "startDate": "2026-11-02T19:00:00+01:00",
+        "keys": [
+          "mu-316962667",
+          "page:de-bitcoin-beginner-workshops-entdecke-bitcoin:2026-11-02",
+          "url:meetup.com/bitcoin-lab-berlin/events/316962667:2026-11-02",
+          "event:debitcoinbeginnerworkshopsentdeckebitcoin:2026-11-02:berlin"
+        ]
+      },
+      {
+        "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
+        "slug": "dabao-open-hardware-hackathon",
+        "name": "Dabao Open Hardware Hackathon",
+        "startDate": "2026-11-03T03:30:00.000Z",
+        "keys": [
+          "ibw-sheet-evt-wp32nmhxbmhismb",
+          "page:dabao-open-hardware-hackathon:2026-11-03",
+          "luma:evt-wp32nmhxbmhismb",
+          "luma-url:/qivci0a6",
+          "event:dabaoopenhardwarehackathon:2026-11-03:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:evening"
   }
 }
