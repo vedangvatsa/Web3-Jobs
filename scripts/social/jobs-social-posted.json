@@ -58623,7 +58623,8 @@
       },
       "account": "channel:dev",
       "attemptId": "524fd195-8497-4fbd-b2ad-45cd7fb6434c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x643545ff49aac54c7139225610a9ca6b2e249ac9"
     }
   ]
 }
