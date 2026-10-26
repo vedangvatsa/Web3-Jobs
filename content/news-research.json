@@ -91547,11 +91547,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4e9bee4cd1aa9491375d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T16:32:04.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: it is explicitly interpretive analysis of Polymarket pricing around Scott Colom's Mississippi Senate candidacy announcement, with key takeaways and market odds, no Web3 development, filing or protocol event. Politics/prediction-market chatter, not hashtagweb3 industry news.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/scott-colom-enters-mississippi-senate-race-against-cindy-hyde-smith/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:55:00.614Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "c371de4fa270e0c98514": {
       "source": "CryptoSlate",
@@ -91572,7 +91582,31 @@
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
       "attempts": 0,
       "expiresAt": "2026-10-28T14:30:16.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "articleSlug": "evernorthcantor",
+      "draftProgress": {
+        "id": "c371de4fa270e0c98514",
+        "day": "2026-10-26",
+        "articleSlug": "evernorthcantor",
+        "note": "Read CryptoSlate and Bitcoin.com reports and the SEC 8-K; the prospectus figure and hero image still need checking before the draft.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://news.bitcoin.com/featured/evernorth-seeks-to-register-5-2m-shares-as-it-plans-more-xrp-purchases/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026067061/evernorth-elocx8xk.htm",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-26T03:55:35.948Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "185a35ef25056ba725b6": {
       "source": "The Defiant",
@@ -162866,6 +162900,18 @@
             }
           ],
           "reviewedAt": "2026-10-26T03:54:58.861Z"
+        },
+        "4e9bee4cd1aa9491375d": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: it is explicitly interpretive analysis of Polymarket pricing around Scott Colom's Mississippi Senate candidacy announcement, with key takeaways and market odds, no Web3 development, filing or protocol event. Politics/prediction-market chatter, not hashtagweb3 industry news.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/scott-colom-enters-mississippi-senate-race-against-cindy-hyde-smith/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:55:00.614Z"
         }
       },
       "baselineSlugs": [
