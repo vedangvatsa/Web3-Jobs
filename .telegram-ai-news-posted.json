@@ -797,6 +797,9 @@
   "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
   "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
   "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+  "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+  "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2173,6 +2176,12 @@
   "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
   "New AI wearable devices and accessories",
   "The hottest AI wearables and gadgets you should know about",
+  "Grok releases seven minutes of AI-generated video titled Odyssey",
+  "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+  "Court denies EPA request to dismiss data center lawsuit",
+  "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+  "Google Gemini AI is integrating into vehicle systems",
+  "Gemini's Personal Intelligence is coming to cars",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2487,5 +2496,8 @@
   "fp:accumulat|add|back|behind|bill|business|cost|data|end|expens",
   "fp:15b|accuracy|achiev|already|among|clinical|debat|despit|doctor|expand",
   "fp:america|apollo|corporat|deliver|economist|financial|firm|investment|most|non",
-  "fp:accessory|bee|charm|devic|friend|gadget|hottest|includ|know|list"
+  "fp:accessory|bee|charm|devic|friend|gadget|hottest|includ|know|list",
+  "fp:accord|artistic|content|element|feedback|generat|human|initial|lack|minut",
+  "fp:agency|can|cannot|center|challeng|claim|court|data|deny|dismiss",
+  "fp:add|car|com|dashboard|featur|gemini|googl|integrat|personal|privacy"
 ]

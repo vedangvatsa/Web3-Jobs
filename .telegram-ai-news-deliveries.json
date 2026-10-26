@@ -2187,7 +2187,7 @@
     "sentAt": "2026-10-25T19:33:07.129Z"
   },
   "2ce998f3-96c3-42ef-b4ba-f2e830781f64": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T03:36:09.750Z",
     "stories": [
       {
@@ -2215,6 +2215,8 @@
         "originalTitle": "Gemini's Personal Intelligence is coming to cars"
       }
     ],
-    "slotKey": "2026-10-26:morning"
+    "slotKey": "2026-10-26:morning",
+    "messageId": 193401,
+    "sentAt": "2026-10-26T03:36:17.951Z"
   }
 }
