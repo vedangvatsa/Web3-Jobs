@@ -2218,5 +2218,36 @@
     "slotKey": "2026-10-26:morning",
     "messageId": 193401,
     "sentAt": "2026-10-26T03:36:17.951Z"
+  },
+  "ecfac623-759f-4ebc-8bfe-dec0437a38f6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T11:36:20.557Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "Enterprise AI requires business context for accurate decisions",
+        "summary": "Without understanding operational constraints, AI models can produce inaccurate recommendations for businesses.",
+        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Making the case for context-aware AI"
+      },
+      {
+        "index": 3,
+        "headline": "Apple Music promotes human curation amid rising AI content",
+        "summary": "Manual curation helps the streaming service differentiate itself from platforms that rely on automated content.",
+        "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+        "source": "Ars Technica",
+        "originalTitle": "The new human-crafted Apple Music brand matters in an AI world"
+      },
+      {
+        "index": 5,
+        "headline": "Meta denies executives ordered use of pirated books for AI",
+        "summary": "Meta argues that individual employees, rather than executives, chose to use pirated datasets for training its AI models.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+        "source": "Ars Technica",
+        "originalTitle": "Meta tries to scapegoat staff who downloaded torrents to spare execs"
+      }
+    ],
+    "slotKey": "2026-10-26:afternoon"
   }
 }
