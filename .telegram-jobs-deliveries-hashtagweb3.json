@@ -4728,5 +4728,98 @@
     "slotKey": "2026-10-26:afternoon",
     "messageId": 155936,
     "sentAt": "2026-10-26T11:33:45.313Z"
+  },
+  "ca3f1270-d744-409f-8ffd-14401e9db773": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T19:39:46.912Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8265763",
+          "title": "Software Engineer, Internal Identity",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8265763",
+          "date": "2026-10-09T12:38:17-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "na",
+          "department": "8612 Security Infrastructure",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng505"
+        },
+        "key": "8265763",
+        "slug": "eng505",
+        "url": "https://hashtagweb3.com/eng505?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6b742543-e6a4-4507-998d-c3d481f551cf",
+          "title": "Assistant General Counsel",
+          "company": "Gauntlet",
+          "link": "https://jobs.lever.co/gauntlet/6b742543-e6a4-4507-998d-c3d481f551cf",
+          "date": "2026-10-05T12:38:29.785Z",
+          "source": "Lever: Gauntlet [gauntlet]",
+          "location": "New York City / San Francisco / Los Angeles / Remote",
+          "workplaceType": "remote",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso31"
+        },
+        "key": "6b742543-e6a4-4507-998d-c3d481f551cf",
+        "slug": "aso31",
+        "url": "https://hashtagweb3.com/aso31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gauntlet",
+        "title": "Assistant General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "4975267101",
+          "title": "Card Risk Operations Lead",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975267101",
+          "date": "2026-10-14T07:11:46-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "Fiat Team",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops102"
+        },
+        "key": "4975267101",
+        "slug": "ops102",
+        "url": "https://hashtagweb3.com/ops102?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Card Risk Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8884625002",
+          "title": "MacOS Engineer",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8884625002?gh_jid=8884625002",
+          "date": "2026-10-18T22:10:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "Hong Kong",
+          "department": "IT and Systems Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng110"
+        },
+        "key": "8884625002",
+        "slug": "eng110",
+        "url": "https://hashtagweb3.com/eng110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "MacOS Engineer"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/eng505?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Internal Identity</a>\n- Gauntlet is hiring <a href=\"https://hashtagweb3.com/aso31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ops102?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Card Risk Operations Lead</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/eng110?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">MacOS Engineer</a>",
+    "slotKey": "2026-10-26:evening"
   }
 }
