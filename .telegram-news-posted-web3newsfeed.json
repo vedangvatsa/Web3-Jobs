@@ -839,6 +839,9 @@
   "https://hashtagweb3.com/occgenius?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mump2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cakeflip?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/honeyb?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fearlesswallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2417,6 +2420,12 @@
   "Optimum brings mump2p block propagation to Ethereum mainnet with 16 operators",
   "PancakeSwap fee and emission proposal faces 98% opposition",
   "PancakeSwap fee overhaul vote faces 98% opposition before Saturday close",
+  "Nectar Group Raises $5 Million for Bitcoin Yield Platform",
+  "Nectar Group raises $5M seed to build HoneyB, a Bitcoin yield platform for institutions",
+  "Polkadot advises Fearless Wallet users to move funds",
+  "Polkadot tells Fearless Wallet users to move funds after private-key leak",
+  "SEC Crypto Regulation Comment Period Ends",
+  "SEC comment window closes on Reg Crypto with submissions still arriving",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2785,5 +2794,8 @@
   "fp:annual|consider|cut|hous|inflation|issuanc|lower|maximum|near|network",
   "fp:act|ahead|deadlin|effect|establish|final|finaliz|genius|in2027|issu",
   "fp:000|block|delivery|faster|gossipsub|mainnet|managing22|mump2p|now|operator",
-  "fp:ahead|clos|deadlin|emission|faces98|fee|increas|largely|opposition|overhaul"
+  "fp:ahead|clos|deadlin|emission|faces98|fee|increas|largely|opposition|overhaul",
+  "fp:allow|build|credit|earn|group|honeyb|institution|nectar|option|platform",
+  "fp:advis|asset|browser|creat|extension|fearless|four|fund|leak|mov",
+  "fp:accept|additional|agency|arriv|clos|comment|continu|deadlin|despit|end"
 ]

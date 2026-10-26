@@ -2286,7 +2286,7 @@
     "sentAt": "2026-10-25T11:34:21.200Z"
   },
   "c7e2a75a-9b19-4c42-a75e-bef9cfe09930": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T03:37:03.600Z",
     "stories": [
       {
@@ -2314,6 +2314,8 @@
         "originalTitle": "SEC comment window closes on Reg Crypto with submissions still arriving"
       }
     ],
-    "slotKey": "2026-10-26:morning"
+    "slotKey": "2026-10-26:morning",
+    "messageId": 65777,
+    "sentAt": "2026-10-26T03:37:07.504Z"
   }
 }
