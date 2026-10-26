@@ -59997,6 +59997,47 @@
       "attemptId": "25a1ac73-17e9-4597-90f8-f4b1bea5f4a9",
       "verification": "verified",
       "postId": "0x18600eb1f8cb14c42c2b1e0b26f0e57569ced10b"
+    },
+    {
+      "slug": "vpdf",
+      "company": "Galaxy Digital",
+      "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate",
+      "platform": "linkedin",
+      "postedAt": "2026-10-26T19:44:24.006Z",
+      "expectedText": "Galaxy Digital is hiring Vice President, Decentralized Finance OnChain Counsel - Corporate: https://hashtagweb3.com/vpdf/li?og=7",
+      "snapshot": {
+        "id": "6225504004",
+        "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6225504004",
+        "date": "2026-10-15T12:17:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York, NY",
+        "department": "Legal/Compliance",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "vpdf"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Vice President, Decentralized Finance OnChain Counsel - Corporate: https://hashtagweb3.com/vpdf/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/vpdf/li?og=7",
+          "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate at Galaxy Digital",
+          "description": "Join Galaxy Digital as Vice President, Decentralized Fina. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/vpdf.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "72b41970-34da-4ba4-843b-4ad95d35f6c1",
+      "verification": "creating"
     }
   ]
 }
