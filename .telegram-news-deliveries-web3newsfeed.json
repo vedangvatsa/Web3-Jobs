@@ -2284,5 +2284,36 @@
     "slotKey": "2026-10-25:afternoon",
     "messageId": 65776,
     "sentAt": "2026-10-25T11:34:21.200Z"
+  },
+  "c7e2a75a-9b19-4c42-a75e-bef9cfe09930": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T03:37:03.600Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Nectar Group Raises $5 Million for Bitcoin Yield Platform",
+        "summary": "The company will allow institutions to earn returns on Bitcoin holdings through credit and options strategies.",
+        "link": "https://hashtagweb3.com/honeyb?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nectar Group raises $5M seed to build HoneyB, a Bitcoin yield platform for institutions"
+      },
+      {
+        "index": -1,
+        "headline": "Polkadot advises Fearless Wallet users to move funds",
+        "summary": "Four browser extension versions leaked private keys, requiring users to create new wallets and transfer their assets.",
+        "link": "https://hashtagweb3.com/fearlesswallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polkadot tells Fearless Wallet users to move funds after private-key leak"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Crypto Regulation Comment Period Ends",
+        "summary": "The agency received 140 public submissions and will continue accepting additional feedback despite the official deadline passing.",
+        "link": "https://hashtagweb3.com/regcrypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC comment window closes on Reg Crypto with submissions still arriving"
+      }
+    ],
+    "slotKey": "2026-10-26:morning"
   }
 }
