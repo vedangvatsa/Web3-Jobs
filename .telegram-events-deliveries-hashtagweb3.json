@@ -3329,5 +3329,50 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 155924,
     "sentAt": "2026-10-25T19:31:50.802Z"
+  },
+  "ed7b1b86-4501-4c60-81c8-fdb4214fbfc0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T03:32:59.995Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "curated-bce-3-bitcoin-white-paper-day-2026-10-31",
+        "slug": "bce-3-bitcoin-white-paper-day",
+        "name": "BCE#3: Bitcoin White Paper Day",
+        "startDate": "2026-10-31",
+        "keys": [
+          "curated-bce-3-bitcoin-white-paper-day-2026-10-31",
+          "page:bce-3-bitcoin-white-paper-day:2026-10-31",
+          "event:bce3bitcoinwhitepaperday:2026-10-31:paris"
+        ]
+      },
+      {
+        "id": "w3v-btc-balkans-2026",
+        "slug": "btc-balkans",
+        "name": "BTC Balkans 2026",
+        "startDate": "2026-10-31T07:00:00.000Z",
+        "keys": [
+          "w3v-btc-balkans-2026",
+          "page:btc-balkans:2026-10-31",
+          "url:btcbalkans.com/en:2026-10-31",
+          "event:btcbalkans2026:2026-10-31:sofia"
+        ]
+      },
+      {
+        "id": "discovery-evt-C3uwilHHM2nQueB",
+        "slug": "base-builder-meetup",
+        "name": "Base Builder Meetup",
+        "startDate": "2026-10-31T12:00:00+01:00",
+        "keys": [
+          "discovery-evt-c3uwilhhm2nqueb",
+          "page:base-builder-meetup:2026-10-31",
+          "luma:evt-c3uwilhhm2nqueb",
+          "luma-url:/nv0py8nu",
+          "event:basebuildermeetup:2026-10-31:lagos"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:morning"
   }
 }
