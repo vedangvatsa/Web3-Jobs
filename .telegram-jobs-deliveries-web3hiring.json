@@ -8479,7 +8479,7 @@
     "sentAt": "2026-10-26T11:32:28.871Z"
   },
   "e2403a1a-75d3-449e-99c0-b050150f2f48": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T19:39:30.824Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -8593,6 +8593,8 @@
       }
     ],
     "message": "- Helius is hiring <a href=\"https://hashtagweb3.com/dev31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Advocate, Data Platform</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be84?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Token Spend Management</a>\n- Aspora is hiring <a href=\"https://hashtagweb3.com/eng446?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm125?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Crypto Product Compliance Lead</a>",
-    "slotKey": "2026-10-26:evening"
+    "slotKey": "2026-10-26:evening",
+    "messageId": 16573,
+    "sentAt": "2026-10-26T19:39:34.189Z"
   }
 }
