@@ -56833,7 +56833,8 @@
       },
       "account": "channel:dev",
       "attemptId": "cb644c43-7af1-46f5-8835-bd3ff516770b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe666ccf488419ae6fe4885083c705affdf7176ad"
     }
   ]
 }
