@@ -91649,7 +91649,31 @@
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
       "attempts": 0,
       "expiresAt": "2026-10-28T11:27:13.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "articleSlug": "dogebrandlicense",
+      "draftProgress": {
+        "id": "185a35ef25056ba725b6",
+        "day": "2026-10-26",
+        "articleSlug": "dogebrandlicense",
+        "note": "Read TokenPost and the full syndicated Defiant text; the SEC 8-K exhibits still need reading before the draft.",
+        "sourceChecks": [
+          {
+            "url": "https://www.tokenpost.com/news/business/40494",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptonews.net/news/altcoins/33647296/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-10-26T04:02:44.439Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2be991790feb7a253b18": {
       "source": "Cointelegraph",
