@@ -59923,7 +59923,8 @@
       },
       "account": "channel:product",
       "attemptId": "31f762fa-85d1-4ec8-a75c-688d56485339",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb606f6032ca72db7b35f926d62d47bed3db7b0f"
     }
   ]
 }
