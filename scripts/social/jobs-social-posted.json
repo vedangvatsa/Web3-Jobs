@@ -58127,7 +58127,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "41e8a090-2124-4049-bb05-7c6de40d8568",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adecb3c8b3d437ddc426d2c"
     }
   ]
 }
