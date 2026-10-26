@@ -2352,7 +2352,7 @@
     "sentAt": "2026-10-26T11:34:17.545Z"
   },
   "2952be70-f31c-47bd-bd69-4e815e564d58": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T19:47:45.417Z",
     "stories": [
       {
@@ -2380,6 +2380,8 @@
         "originalTitle": "PHP releases emergency patches for two critical bugs after government sites go offline"
       }
     ],
-    "slotKey": "2026-10-26:evening"
+    "slotKey": "2026-10-26:evening",
+    "messageId": 65779,
+    "sentAt": "2026-10-26T19:47:51.881Z"
   }
 }

@@ -845,6 +845,9 @@
   "https://hashtagweb3.com/dogebrandlicense?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/evernorthcantor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/tethermdk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2435,6 +2438,12 @@
   "Evernorth signs Cantor equity facility to fund XRP purchases",
   "Fifteen mining firms support Tether's Bitcoin automation software",
   "Tether says 15 mining firms back its MDK automation layer for Bitcoin mines",
+  "New York AG Seeks $1.37 Billion From NovaTech Founders",
+  "New York Seeks $1.37 Billion Judgment From NovaTech Founders",
+  "Polymarket sues Ohio over sports betting license requirements",
+  "Polymarket sues Ohio in federal court over sports event contract order",
+  "PHP Patches Two Bugs Following Attacks on Government Websites",
+  "PHP releases emergency patches for two critical bugs after government sites go offline",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2809,5 +2818,8 @@
   "fp:accept|additional|agency|arriv|clos|comment|continu|deadlin|despit|end",
   "fp:000|400|agreement|both|december31|dog|dogecoin|end|entity|exclusiv",
   "fp:52m|807m|affiliat|agr|buy|cantor|equity|evernorth|facility|firm",
-  "fp:automat|automation|back|fifteen|firm|fleet|hardwar|integrat|kit|layer"
+  "fp:automat|automation|back|fifteen|firm|fleet|hardwar|integrat|kit|layer",
+  "fp:137b|alleg|also|cryptocurrency|founder|four|fraud|judgment|novatech|promoter",
+  "fp:bett|claim|constitution|contract|court|demand|event|exchang|federal|law",
+  "fp:109618|109619|activ|against|arriv|attack|bug|cloudflar|critical|cve2026"
 ]
