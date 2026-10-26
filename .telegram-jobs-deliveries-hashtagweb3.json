@@ -4614,5 +4614,117 @@
     "slotKey": "2026-10-26:morning",
     "messageId": 155928,
     "sentAt": "2026-10-26T03:34:21.192Z"
+  },
+  "12b99c1b-bbd8-4373-bbb5-a8cfc6f6b0a2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T11:33:29.620Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8237371",
+          "title": "Senior Offensive Security Engineer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8237371",
+          "date": "2026-10-06T12:27:40-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "London",
+          "department": "Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec95"
+        },
+        "key": "8237371",
+        "slug": "sec95",
+        "url": "https://hashtagweb3.com/sec95?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Senior Offensive Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "744000157489574",
+          "title": "SEO Specialist",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000157489574-seo-specialist",
+          "date": "2026-10-23T14:14:25.022Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Zagreb, Croatia",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ss4"
+        },
+        "key": "744000157489574",
+        "slug": "ss4",
+        "url": "https://hashtagweb3.com/ss4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "SEO Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "4995550101",
+          "title": "Senior Product Manager - Crypto",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4995550101",
+          "date": "2026-10-01T11:03:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm206"
+        },
+        "key": "4995550101",
+        "slug": "pm206",
+        "url": "https://hashtagweb3.com/pm206?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "dcf76078-582a-4c72-a6bb-5fe33999ff06",
+          "title": "Senior Solana Engineer",
+          "company": "Staking Facilities",
+          "link": "https://talent.superteam.fun/jobs/senior-solana-engineer-at-staking-facilities-dcf76078-582a-4c72-a6bb-5fe33999ff06",
+          "date": "2026-10-13T10:56:03.216593+00:00",
+          "source": "Superteam: Staking Facilities [superteam]",
+          "location": "Remote, Europe",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng583"
+        },
+        "key": "dcf76078-582a-4c72-a6bb-5fe33999ff06",
+        "slug": "eng583",
+        "url": "https://hashtagweb3.com/eng583?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Staking Facilities",
+        "title": "Senior Solana Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5441458008",
+          "title": "Controls SME, Principal",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5441458008",
+          "date": "2026-10-01T15:01:52-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Corpus Christi, TX",
+          "department": "Managed Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cs9"
+        },
+        "key": "5441458008",
+        "slug": "cs9",
+        "url": "https://hashtagweb3.com/cs9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Controls SME"
+      }
+    ],
+    "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Offensive Security Engineer</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss4?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/pm206?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Crypto</a>\n- Staking Facilities is hiring <a href=\"https://hashtagweb3.com/eng583?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solana Engineer</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/cs9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Controls SME, Principal</a>",
+    "slotKey": "2026-10-26:afternoon"
   }
 }
