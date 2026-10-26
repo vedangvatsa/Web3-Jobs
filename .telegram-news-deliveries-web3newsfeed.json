@@ -2350,5 +2350,36 @@
     "slotKey": "2026-10-26:afternoon",
     "messageId": 65778,
     "sentAt": "2026-10-26T11:34:17.545Z"
+  },
+  "2952be70-f31c-47bd-bd69-4e815e564d58": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T19:47:45.417Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "New York AG Seeks $1.37 Billion From NovaTech Founders",
+        "summary": "The state also reached $6 million in settlements with four promoters of the alleged cryptocurrency fraud scheme.",
+        "link": "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York Seeks $1.37 Billion Judgment From NovaTech Founders"
+      },
+      {
+        "index": -1,
+        "headline": "Polymarket sues Ohio over sports betting license requirements",
+        "summary": "The exchange claims state licensing demands violate federal law and the U.S. Constitution.",
+        "link": "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket sues Ohio in federal court over sports event contract order"
+      },
+      {
+        "index": -1,
+        "headline": "PHP Patches Two Bugs Following Attacks on Government Websites",
+        "summary": "Fixes for CVE-2026-109618 and CVE-2026-109619 arrived October 21 after Cloudflare observed active exploitation against government infrastructure.",
+        "link": "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "PHP releases emergency patches for two critical bugs after government sites go offline"
+      }
+    ],
+    "slotKey": "2026-10-26:evening"
   }
 }
