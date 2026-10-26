@@ -91578,9 +91578,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "c371de4fa270e0c98514",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T14:30:16.000Z",
       "lastSeenAt": "2026-10-26T03:32:25.985Z",
       "articleSlug": "evernorthcantor",
@@ -91606,7 +91606,29 @@
         "updatedAt": "2026-10-26T03:55:35.948Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Oct. 23 Common Stock Purchase Agreement against Evernorth's SEC 8-K and preliminary prospectus (5,218,935 shares, 97% of VWAP, 4.99%/20% caps, 21,893.50 fee, M cap, ~$80.7M gross at the $15.46 Oct. 22 close, ~$78.3M net, 473M XRP as of Oct. 9, use-of-proceeds language) and matched the reporting in CryptoSlate and Bitcoin.com. Drafted content/articles/evernorthcantor.md (684 body words) with a self-hosted compressed Wikimedia hero; quality, images, formatting and duplicates audits clean, tsc clean, all outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/featured/evernorth-seeks-to-register-5-2m-shares-as-it-plans-more-xrp-purchases/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026067061/evernorth-elocx8xk.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026067081/xrpn-20261023.htm",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T04:01:52.515Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "185a35ef25056ba725b6": {
       "source": "The Defiant",
@@ -162912,6 +162934,31 @@
             }
           ],
           "reviewedAt": "2026-10-26T03:55:00.614Z"
+        },
+        "c371de4fa270e0c98514": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct. 23 Common Stock Purchase Agreement against Evernorth's SEC 8-K and preliminary prospectus (5,218,935 shares, 97% of VWAP, 4.99%/20% caps, 21,893.50 fee, M cap, ~$80.7M gross at the $15.46 Oct. 22 close, ~$78.3M net, 473M XRP as of Oct. 9, use-of-proceeds language) and matched the reporting in CryptoSlate and Bitcoin.com. Drafted content/articles/evernorthcantor.md (684 body words) with a self-hosted compressed Wikimedia hero; quality, images, formatting and duplicates audits clean, tsc clean, all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/featured/evernorth-seeks-to-register-5-2m-shares-as-it-plans-more-xrp-purchases/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026067061/evernorth-elocx8xk.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026067081/xrpn-20261023.htm",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T04:01:52.515Z",
+          "articleSlug": "evernorthcantor"
         }
       },
       "baselineSlugs": [
