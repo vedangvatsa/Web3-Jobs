@@ -48,7 +48,7 @@ export function PromoPopup() {
 
         <div className="mt-4 space-y-2.5">
           <a
-            href="https://t.me/web3hiring?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            href="https://t.me/web3hiring"
             target="_blank"
             rel="noopener noreferrer"
             onClick={dismiss}
@@ -60,7 +60,7 @@ export function PromoPopup() {
             Web3 Job Feed
           </a>
           <a
-            href="https://t.me/eventsweb3?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            href="https://t.me/eventsweb3"
             target="_blank"
             rel="noopener noreferrer"
             onClick={dismiss}
@@ -72,7 +72,7 @@ export function PromoPopup() {
             Web3 Events Feed
           </a>
           <a
-            href="https://t.me/web3newsfeed?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            href="https://t.me/web3newsfeed"
             target="_blank"
             rel="noopener noreferrer"
             onClick={dismiss}
@@ -84,7 +84,7 @@ export function PromoPopup() {
             Web3 News Feed
           </a>
           <a
-            href="https://t.me/hashtagweb3?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            href="https://t.me/hashtagweb3"
             target="_blank"
             rel="noopener noreferrer"
             onClick={dismiss}
