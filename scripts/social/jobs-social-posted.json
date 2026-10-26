@@ -58494,7 +58494,8 @@
       },
       "account": "channel:web3",
       "attemptId": "a5c16314-5b81-49d8-bd05-e5ad803f909c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3cc01caf3fce9d60b4e41468ab421c95f1daeb66"
     }
   ]
 }
