@@ -59098,6 +59098,54 @@
       "attemptId": "232acb3c-ebe6-463e-8da2-75c8811cc170",
       "verification": "verified",
       "postId": "0x75dd71340400378d05aada190abd9f260bf338ff"
+    },
+    {
+      "slug": "an96",
+      "company": "Bitdeer",
+      "title": "Billing Analyst - MaaS",
+      "platform": "linkedin",
+      "postedAt": "2026-10-26T19:40:13.350Z",
+      "expectedText": "Bitdeer is hiring Billing Analyst - MaaS: https://hashtagweb3.com/an96/li?og=7",
+      "snapshot": {
+        "id": "c068334ff2ce",
+        "title": "Billing Analyst - MaaS",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+        "date": "2026-10-15",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "AI Cloud",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+          "checkedAt": "2026-10-16T03:33:37.932Z",
+          "bodySha256": "1808192a9e3b38ddad7539fae91cd65d7060918f05cc86751d6a20726214accc",
+          "provider": "breezy",
+          "datePosted": "2026-10-15"
+        },
+        "slug": "an96"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Billing Analyst - MaaS: https://hashtagweb3.com/an96/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an96/li?og=7",
+          "title": "Billing Analyst - MaaS at Bitdeer",
+          "description": "Join Bitdeer as Billing Analyst - MaaS. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an96.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "9b26d85e-105e-4619-b7a8-a4d2e5c7a9d2",
+      "verification": "creating"
     }
   ]
 }
