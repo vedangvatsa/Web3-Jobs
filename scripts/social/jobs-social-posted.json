@@ -58170,7 +58170,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "a71a2a54-a725-45bd-ab2d-a6daffeac80a",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adecb580b5343d070091af2"
     }
   ]
 }
