@@ -59010,7 +59010,8 @@
       },
       "account": "channel:product",
       "attemptId": "93bb1dbf-073c-41cf-b7cf-e7c7a3d0671e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0c90f3f659d2c005ac42119f1cb7b04a3847a650"
     }
   ]
 }
