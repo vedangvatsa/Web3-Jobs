@@ -2185,5 +2185,36 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 193400,
     "sentAt": "2026-10-25T19:33:07.129Z"
+  },
+  "2ce998f3-96c3-42ef-b4ba-f2e830781f64": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T03:36:09.750Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Grok releases seven minutes of AI-generated video titled Odyssey",
+        "summary": "The video content lacks artistic quality and human elements according to initial viewer feedback.",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "source": "TechCrunch",
+        "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
+      },
+      {
+        "index": 4,
+        "headline": "Court denies EPA request to dismiss data center lawsuit",
+        "summary": "A judge ruled that the agency cannot unilaterally end legal challenges regarding pollution from SpaceXAI facilities.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+        "source": "Ars Technica",
+        "originalTitle": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits"
+      },
+      {
+        "index": 6,
+        "headline": "Google Gemini AI is integrating into vehicle systems",
+        "summary": "Users should review their privacy settings as Google adds AI features to car dashboards.",
+        "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+        "source": "Ars Technica",
+        "originalTitle": "Gemini's Personal Intelligence is coming to cars"
+      }
+    ],
+    "slotKey": "2026-10-26:morning"
   }
 }
