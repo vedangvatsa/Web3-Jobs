@@ -57833,7 +57833,8 @@
       },
       "account": "channel:base",
       "attemptId": "ad285d24-4117-4141-a5f0-367be870794f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6d6a7fecf699bf8fd012a13cef734afb07405651"
     }
   ]
 }
