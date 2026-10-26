@@ -8089,5 +8089,99 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 144,
     "sentAt": "2026-10-25T19:32:10.725Z"
+  },
+  "28958485-6474-4650-b7b8-616d16a137af": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T03:33:03.619Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8259659",
+          "title": "DevOps Engineer (Vac DST)",
+          "company": "Logos",
+          "link": "https://job-boards.greenhouse.io/logos/jobs/8259659",
+          "date": "2026-10-16T11:00:21-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Logos [logos]",
+          "location": "Remote (Worldwide)",
+          "department": "Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "do16"
+        },
+        "key": "8259659",
+        "slug": "do16",
+        "url": "https://hashtagweb3.com/do16?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Logos",
+        "title": "DevOps Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "864da62d-a271-4359-a395-ce096a51fb1b",
+          "title": "Senior HR Business Partner",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/864da62d-a271-4359-a395-ce096a51fb1b",
+          "date": "2026-10-22T18:37:04.629+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec44"
+        },
+        "key": "864da62d-a271-4359-a395-ce096a51fb1b",
+        "slug": "rec44",
+        "url": "https://hashtagweb3.com/rec44?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior HR Business Partner"
+      },
+      {
+        "snapshot": {
+          "id": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+          "title": "Product Marketing Manager (London)",
+          "company": "Merkle Science",
+          "link": "https://jobs.lever.co/merklescience/d7139ad8-a40d-4537-a563-8684e5e45fea",
+          "date": "2026-09-30T12:03:01.958Z",
+          "source": "Lever: Merkle Science [merklescience]",
+          "location": "Hybrid (London)",
+          "workplaceType": "hybrid",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm85"
+        },
+        "key": "d7139ad8-a40d-4537-a563-8684e5e45fea",
+        "slug": "pm85",
+        "url": "https://hashtagweb3.com/pm85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Merkle Science",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8880860002",
+          "title": "Senior Data Engineer",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880860002",
+          "date": "2026-10-09T12:11:55-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng504"
+        },
+        "key": "8880860002",
+        "slug": "eng504",
+        "url": "https://hashtagweb3.com/eng504?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Data Engineer"
+      }
+    ],
+    "message": "- Logos is hiring <a href=\"https://hashtagweb3.com/do16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DevOps Engineer (Vac DST)</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec44?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Business Partner</a>\n- Merkle Science is hiring <a href=\"https://hashtagweb3.com/pm85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager (London)</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng504?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>",
+    "slotKey": "2026-10-26:morning"
   }
 }
