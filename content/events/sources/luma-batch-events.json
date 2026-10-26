@@ -3711,54 +3711,6 @@
     }
   },
   {
-    "id": "luma-batch-cEqlJsIvxPQ4QPf",
-    "slug": "blitz-istanbul-sep-2026",
-    "name": "Monad Blitz İstanbul v2",
-    "description": "https://blitz.devnads.com/events/blitz-istanbul-Sep-2026Etkinlik Hakkında\n\nHızlıca bir şeyler geliştirmeye hazır mısın? Monad Blitz, 26 Eylül'de İstanbul'a geliyor. ⚡️\n\nMonad Blitz İstanbul, Monad üzerinde öğrenmek, geliştirmek ve çalışan bir proje ortaya çıkarmak isteyen geliştiriciler için düzenlenen, yüz yüze ve bir günlük bir hackathon.\n\nBu, birkaç gün süren bir kodlama maratonu değil. Sabah temel bilgileri öğrenecek, gün boyunca çalışan bir prototip geliştirecek ve akşam projenizi diğer geliştiricilere sunacaksınız.\n\nUygulamalı workshop'lar, odaklı geliştirme süreci, teknik destek ve yeni bağlantılar için bölgenin dört bir yanından geliştiricilerle bir araya gelin.\n\n🚀 Sizi Neler Bekliyor?\n\nMonad'ın nasıl çalıştığını öğreninMonad'ın mimarisi, geliştirici araçları ve paralel yürütme yapısı hakkında bilgi edinin. İlk kontratlarınızı deploy edin ve geliştirmeye başlayın.\n\nÇalışan bir prototip geliştirinBir fikri tek bir gün içinde çalışan bir projeye dönüştürün. Tek başınıza çalışabilir veya en fazla dört kişilik bir ekip kurabilirsiniz.\n\nProjenizi sununGünün sonunda projenizin demosunu yapın. Ne geliştirdiğinizi, ne öğrendiğinizi ve projeyi bundan sonra nereye taşımak istediğinizi paylaşın.\n\nDiğer geliştiricilerle tanışınGeliştiriciler, mentorlar ve Monad Foundation ekibiyle tanışın. Gün boyunca yiyecek ve içecek sağlanacaktır.\n\n🧑‍💻 Kimler Başvurmalı?\n\nMonad Blitz İstanbul şu geliştiriciler için uygun:\n\nDaha önce uygulama geliştirme deneyimi olan\n\nGitHub profili, portföyü veya geçmiş bir projesini paylaşabilen\n\nYeni bir fikri test etmek ve doğrudan geri bildirim almak isteyen\n\nHızlı ve iş birliğine dayalı bir ortamda çalışmayı seven\n\nMonad geliştirici ekosisteminde daha aktif olmak isteyen\n\n🗓️ Program\n\nSabah: Öğrenin ve hazırlanınKayıt, kahvaltı, Monad'a giriş ve teknik workshop'lar.\n\nÖğleden sonra: GeliştirinTek başınıza veya bir ekiple Monad üzerinde son kullanıcıya yönelik bir uygulama geliştirin. Mentorlar gün boyunca destek olmak için etkinlik alanında olacak.\n\nAkşam: Demo yapın ve kutlayınProjenizi kısa bir demo ile sunun. En iyi üç proje nakit ödül kazanacak.\n\nKazananlar, canlı izleyici oylamasıyla belirlenecek.\n\n🏆 Ödül Havuzu: 2.000 $\n\n1.000 $\n\n600 $\n\n400 $\n\n🎟️ Kontenjan Sınırlı\n\nBu etkinlik başvuru ile katılıma açıktır ve toplam 80 kişilik kontenjana sahiptir.\n\nBaşvurular; geliştirme deneyimi, proje potansiyeli ve Monad geliştirici ekosistemine katkı sağlama isteğine göre değerlendirilecektir.\n\nHemen başvurun ve 26 Eylül'de İstanbul'da öğrenme, geliştirme ve proje çıkarma ile dolu bir gün için bize katılın.",
-    "startDate": "2026-09-26T07:00:00.000Z",
-    "endDate": "2026-09-26T19:00:00.000Z",
-    "city": "Sarıyer",
-    "country": "Türkiye",
-    "location": "Sarıyer, İstanbul, Türkiye",
-    "url": "https://luma.com/blitz-istanbul-Sep-2026",
-    "registrationUrl": "https://luma.com/blitz-istanbul-Sep-2026",
-    "coverImage": "/events/luma-batch-cEqlJsIvxPQ4QPf-c92b1a9c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Monad Foundation",
-      "42 Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Istanbul",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Sarıyer",
-    "addressRegion": "İstanbul",
-    "addressCountry": "TR",
-    "organizer": {
-      "type": "Organization",
-      "name": "Monad Foundation"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/blitz-istanbul-Sep-2026",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "soldOut",
-    "sourceVerification": {
-      "url": "https://luma.com/blitz-istanbul-Sep-2026",
-      "eventId": "calev-cEqlJsIvxPQ4QPf",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-a0UuZQuz1MorKpB",
     "slug": "monad-blitz-pune-sep-2026",
     "name": "Monad Blitz Pune V3",
@@ -3951,103 +3903,6 @@
     "sourceVerification": {
       "url": "https://luma.com/BlockchainHackWWA",
       "eventId": "calev-XBxC6u79Id4zAeC",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-NAmHfiDgQATHxDl",
-    "slug": "nwy1r45r",
-    "name": "FOUNDERS' OFFICE | Kyiv",
-    "description": "Є ідея проєкту або вже навіть MVP?\n\nПриходь в наш коворкінг! Наші office hours 👇Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:\n\nдопомога з валідацією ідеї та фідбек\n\nпрожарки твого проєкту, які допоможуть стати краще\n\nконсультації щодо хакатону Colosseum\n\nможливість попрацювати з командою в зручному коворкінгу\n\nтусовка з іншими білдерами\n\nможливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.\n\n## Hosts\n\nHosted by Superteam Ukraine (Solana Hub in Ukraine — Learn. Earn. Build.).\n\n## Event details\n\nThe event takes place on September 26. Venue: Kyiv, Kyiv city, Ukraine.",
-    "startDate": "2026-09-26T10:00:00.000Z",
-    "endDate": "2026-09-26T15:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Kyiv city, Ukraine",
-    "url": "https://luma.com/nwy1r45r",
-    "registrationUrl": "https://luma.com/nwy1r45r",
-    "coverImage": "/events/luma-batch-NAmHfiDgQATHxDl-65df6ed6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ukraine"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Kiev",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Kyiv",
-    "addressRegion": "Kyiv city",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Ukraine",
-      "url": "https://luma.com/user/superteamUA"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/nwy1r45r",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/nwy1r45r",
-      "eventId": "calev-NAmHfiDgQATHxDl",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
-  },
-  {
-    "id": "luma-batch-4LFTQGiy1iKdzGU",
-    "slug": "1iwz8yb3",
-    "name": "[IRL + Livestream] Shipyard #3: RWA, Payments & Corridors",
-    "description": "This one is about real markets. 💸\n\nCrypto World’s Fair is in full swing — and Shipyard #3 is all about the categories where real money is already moving.\n\nThis Saturday, we’re bringing builders together in Istanbul — and livestreaming for everyone joining remotely — for a full day around RWA, payments, stablecoins and real-world financial corridors.\n\nExpect:\n\n→ RWA that actually works — on-chain credit, real assets, underwriting & who pays the fee→ Payments & stablecoins — where money is already moving and where the biggest opportunities are→ Local proof points — Superteam Türkiye builders sharing what they learned from real customers in Türkiye→ Global ecosystem guests — operators and founders building at the edge of fintech and onchain finance→ Corridor interviews — exporters, freelancers and diaspora users in the room to tell you how things work today→ Build session + feedback — pressure-test your idea against real users, not assumptions\n\nDon’t pitch the market.\n\nTalk to it.\n\nCome with a thesis. Leave with real customer insight.\n\nSee you there. 🇹🇷",
-    "startDate": "2026-09-26T11:00:00.000Z",
-    "endDate": "2026-09-26T15:00:00.000Z",
-    "city": "Şişli",
-    "country": "Türkiye",
-    "location": "Nişantaşı, Şişli, İstanbul, Türkiye",
-    "url": "https://luma.com/1iwz8yb3",
-    "registrationUrl": "https://luma.com/1iwz8yb3",
-    "coverImage": "/events/luma-batch-4LFTQGiy1iKdzGU-1b2105a1.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Türkiye"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Istanbul",
-    "neighborhood": "Nişantaşı",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "Şişli",
-    "addressRegion": "İstanbul",
-    "addressCountry": "TR",
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Türkiye",
-      "url": "https://luma.com/user/SuperteamTR"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/1iwz8yb3",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/1iwz8yb3",
-      "eventId": "calev-4LFTQGiy1iKdzGU",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -11176,36 +11031,6 @@
     }
   },
   {
-    "id": "luma-batch-evtKkRInppAYihTK",
-    "slug": "k7v8usb6",
-    "name": "Decentralized AI Day Warsaw",
-    "description": "Provisional Agenda 📋\n\n0900-1000: Doors Open & Breakfast Buffet 🥐\n\n1000-1030: Welcoming Remarks + CoE Updates by Joe Chow @ Numerai CoE\n\n1030-1100: Numerai Intro + Updates by Aventurine @ Numerai CoE\n\n1100-1115: Coffee Break ☕\n\n1115-1145: Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR\n\n1145-1215: Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li @ Numerai Community\n\n1215-1230: Coffee Break ☕\n\n1230-1300: AI Agents Showcase + Discussion\n\n1300-1400: Lunch Buffet 🍲\n\n1400-1500: [1st Workshop] Beyond the Leaderboard: Build Your Own Numerai Dashboard by Piotr Płoński @ MLJAR\n\nIn this tutorial, we’ll build a dashboard to track your Numerai models using Python and Mercury. We’ll check submissions, follow scores and payouts, and compare your models with others. We’ll also see how early scores and expected payouts can change. You’ll leave with a working dashboard you can keep using.\n\n1500-1530: Coffee Break ☕\n\n1530-1630: [2nd Workshop] Numeroo Workshop Ling Li @ Numerai Community\n\nThis workshop provides a structured introduction to account setup and initial platform onboarding. Participants will receive step-by-step guidance on creating and configuring their accounts, followed by facilitated discussions to gather feedback on potential improvements to the onboarding experience.\n\n1630-1700: Coffee Break ☕\n\n1700-1800: AI Agents Open Workshop\n\n1800-2100: Pizza 🍕 & Networking Mixer\n\nSee you there!\n\n📢 Call for Presentations\n\nWant to share something interesting with the decentralized AI community? We’re looking for people to give technical talks or run hands-on workshops.\n\nSubmitting a proposal should take around 5 minutes. Apply using this form, where you’ll also find more information about what we’re looking for, presentation formats, and submission guidelines.\n\nSubmission deadline: 18 Sep 2026. Applications are reviewed on a rolling basis, and we aim to respond within 2 days of your submission.\n\nConfirmed Speakers 🔔\n\nWe’re excited to welcome two speakers with deep roots in open-source and decentralized machine learning communities:\n\nPiotr — MLJAR\nPiotr is the founder of MLJAR and a long-time open-source builder in the machine learning ecosystem. Based in Poland, he has also spoken at one of our previous Decentralized AI events, and we’re very happy to welcome him back in Warsaw.\n\nLing — Numeroo / Numerai community\nLing is a long-time contributor to the Numerai ecosystem and the creator of Numeroo, a project funded by the Numerai Council of Elders. He was also the first guest featured on Out of Sample, the interview series run by the Numerai community.\n\nMore speakers and session details will be announced soon.\n\nAbout Decentralized AI Days ℹ️\n\nDecentralized AI Days are community-driven events exploring how open, decentralized AI and Web3 can work together in practice. We bring together engineers, researchers, and builders for a day of technical talks, hands-on workshops, and honest conversation - no hype, no sales pitches, and no pay-to-play.\n\nThe ecosystem we care about includes projects such as Numerai and MLJAR. The door is open to anyone building with or curious about decentralized AI. Come for the substance, stay for the community.\n\nWhat to Expect ❓\n\n🤝 Connect with a friendly community of AI and Web3 builders, researchers, and curious minds.\n\n🎙️ Enjoy zero-hype technical talks focused on real problems and practical insights.\n\n🛠️ Take part in hands-on workshops where you can learn by building.\n\n👀 Watch live demos of decentralized AI and related projects.\n\n🗣️ Meet the organizers and share your questions and feedback directly.\n\n📚 Explore community resources and connect over food.\n\nWho Should Attend 🤗\n\nDecentralized AI Days are for everyone curious about where AI and decentralized systems meet: AI/ML engineers, Web3 developers, researchers, students, and builders at any experience level. If you are new to the space, you are welcome; if you have been building for years, you will find your people here. Come ready to learn, share, and connect.\n\nThe Venue 🏢\n\nRegister to see the address. Here are some photos of the venue:\n\nSponsors 🙌\n\nDeAI Day is a community event series sponsored by Numerai and the Numerai Council of Elders. Complimentary refreshments will be provided throughout the day. Come early and grab some cool swags!\n\nCode of Conduct 📜\n\nAll attendees, speakers, sponsors, and volunteers must agree to the following Code of Conduct. Event organizers will enforce these guidelines throughout the event. We expect full cooperation from everyone to help ensure a welcoming and safe environment for all participants.\n\nOur event is committed to providing an inclusive and harassment-free experience for everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology preferences.\n\nHarassment in any form will not be tolerated. Sexually explicit language or imagery is inappropriate for any part of the event, including talks, workshops, social activities, or online platforms. Participants who violate these rules may be warned or expelled from the event at the discretion of the organizers.\n\nPast Events 📸\n\nMaterials from past Decentralized AI Days live in the community meetups repository.\n\nSee the buzz! Unforgettable moments from our past events 👇\n\nWe have also hosted similar events under a different name (Numerai Community Meetup) from 2022 to 2024:\n\nLondon (July 2022)\n\nNew York (September 2022)\n\nTokyo (April 2023)\n\nPrague (July 2023)\n\nToronto (October 2023)\n\nSan Francisco (January 2024)\n\nFrankfurt (April 2024)\n\nTokyo (July 2024)\n\nBangkok (November 2024)\n\nFinally, here’s one meme to sum up the vibe.",
-    "startDate": "2026-09-26T07:00:00.000Z",
-    "endDate": "2026-09-26T19:00:00.000Z",
-    "city": "Warszawa",
-    "country": "Poland",
-    "location": "Warszawa, Województwo mazowieckie, Poland",
-    "url": "https://luma.com/k7v8usb6",
-    "registrationUrl": "https://luma.com/k7v8usb6",
-    "coverImage": "/events/luma-batch-evtKkRInppAYihTK-adf93388.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Decentralized AI Days"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Warsaw",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/k7v8usb6",
-      "eventId": "evt-KkRInppAYihTKD2",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt76rPztNPHTqhD",
     "slug": "jyb1fz3j",
     "name": "What are Quantum computers and why should you care?",
@@ -11319,36 +11144,6 @@
     "sourceVerification": {
       "url": "https://luma.com/tbw_milan",
       "eventId": "evt-CmFYF9f2ExwvQUO",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtvb6HkfwgcZ0TH",
-    "slug": "ph154rqh",
-    "name": "Madrid Builder HQ: Build with AI powered by Stellar",
-    "description": "Únete a nosotros en el Builder HQ presencial en Madrid, enfocado en convertir ideas en proyectos reales en Stellar, ideación y formación de equipos entre nuestras comunidades de builders de Rust y de IA.\n\nEsta sesión está diseñada para desarrolladores, fundadores, diseñadores y builders que quieran encontrar su idea, formar un equipo y prepararse para HackMeridian.\n\nQué esperar\n\nSesiones de ideación para conectar un problema que te importa con una pista de Stellar/Soroban.\n\nFormación de equipos entre nuestros builders de Rust × IA.\n\nGuía práctica y office hours para poner a prueba tu dirección.\n\nNetworking, formación de equipos y la oportunidad de obtener una beca de viaje para el hackathon presencial en Lisboa.\n\n¿Quién debería unirse? Fundadores, desarrolladores, diseñadores, creativos y personas simplemente curiosas en Madrid y alrededores que quieran construir en Stellar y abrirse camino hacia HackMeridian. Tanto si vienes con un equipo como si llegas solo, saldrás con personas con quienes construir.\n\nNo necesitas ser experto en Stellar para participar. Ven con tu curiosidad, una idea (o ninguna todavía) y tu laptop, y te ayudaremos a comenzar.\n\nSobre HackMeridian: HackMeridian es un evento de dos días que reúne a desarrolladores, fundadores, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos funcionales basados en Stellar. El evento principal tendrá lugar el 25–26 de octubre de 2026 en Lisboa, Portugal.\n\nHay más de un camino para llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea y encuentra tu camino. Postula hoy en HackMeridian.com.\n\nHackMeridian tiene dos rutas:\n\nGénesis: Para fundadores primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que trabajan en una idea nueva o un prototipo temprano.\n\nScale: Para fundadores con experiencia, equipos de producto, desarrolladores y startups con un producto existente o un prototipo avanzado que quieran llevarlo más lejos. La experiencia no tiene que ser en Stellar.\n\nLos participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos en producto, fundadores, workshops, office hours, formación de equipos y apoyo en desarrollo con IA.\n\nJoin us for an in-person Builder HQ in Madrid focused on turning ideas into real Stellar projects — ideation and team matchmaking across our Rust and AI builder communities.\n\nThis session is designed for developers, founders, designers, and builders who want to find their idea, form a team, and get ready for HackMeridian.\n\nWhat to expect\n\nIdeation sessions to match a problem you care about to a Stellar / Soroban track\n\nTeam matchmaking across our Rust × AI builders\n\nHands-on guidance and office hours to pressure-test your direction\n\nNetworking, team formation, and a shot at a travel grant to the live hackathon in Lisbon\n\nWho should join?\n\nFounders, developers, designers, creatives, and the simply curious in and around Madrid who want to build on Stellar and make their way to HackMeridian. Whether you're bringing a team or arriving solo, you'll leave with people to build with.\n\nYou don't need to be an expert in Stellar to participate. Come with your curiosity, an idea (or none yet), and your laptop, and we'll help you get started.\n\nAbout HackMeridian HackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25–26, 2026 in Lisbon, Portugal.\n\nThere's more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way. Apply today at HackMeridian.com.\n\nHackMeridian has two paths:\n\nGenesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.\n\nScale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.\n\nParticipants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.",
-    "startDate": "2026-09-26T14:00:00.000Z",
-    "endDate": "2026-09-26T16:00:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Coworking Social Madrid, Coworking Social Madrid, C. de San Marcos, 39, 39-41, Centro, 28004 Madrid, Spain",
-    "url": "https://luma.com/ph154rqh",
-    "registrationUrl": "https://luma.com/ph154rqh",
-    "coverImage": "/events/luma-batch-evtvb6HkfwgcZ0TH-f8d17059.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Madrid",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/ph154rqh",
-      "eventId": "evt-vb6HkfwgcZ0THb4",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -11922,36 +11717,6 @@
     }
   },
   {
-    "id": "luma-batch-evtViTEAEote3jON",
-    "slug": "superteam-60dw",
-    "name": "BUILD IRL Vol. 1: Solana Hackathon with Superteam IE × Claude Builder Club",
-    "description": "BUILD IRL is a one-day, in-person Solana hackathon in Dublin, run by Superteam Ireland in partnership with the Claude Builder Club at Trinity College Dublin.\n\nYou show up at 10am, form a team or bring one, and build any idea on Solana. At the end of the day teams demo what they shipped, and €3,000 in prizes goes to the best projects. (Note: prizes are paid in USDC)\n\nYou don't need to have experience using Solana. If you can vibe-code or turn an idea into a feasible business, there is a place for you here. Builders from the Claude Builder Club will be in the room, so expect plenty of AI-assisted building alongside the onchain work.\n\nWhat you're building\nAnything you want, as long as it uses Solana. That's the only rule.\nThere are no tracks and no theme. It could be finance, gaming, healthcare, AI agents, or an idea you come up with on the day.\nJudges will score the idea, how feasible it is, and how big it could become. Your build can be rough, so a prototype that shows how it works is enough.\n\nWhen: Saturday 26 September, 10am to 6pm\nWhere: Dogpatch Labs, CHQ Building, Dublin\nPrizes: €3,000\nCost: Free to attend\n\nWhat to bring: a laptop and a charger. Lunch, snacks and refreshments are covered. AI credits/subscriptions are not included.\n\nSchedule:\n10:00 Doors open\n11:00 Building starts\n13:00 Lunch\n16:30 Submissions close\n17:00 Demos and judging\n18:00 Winners announced\n\nSpaces are limited by the venue, so register to hold your spot.",
-    "startDate": "2026-09-26T09:00:00.000Z",
-    "endDate": "2026-09-26T17:00:00.000Z",
-    "city": "Dublin 1",
-    "country": "Ireland",
-    "location": "Dogpatch Labs, Dogpatch Labs, The Chq Building, Custom House Quay, North Wall, Dublin, Ireland",
-    "url": "https://luma.com/superteam-60dw",
-    "registrationUrl": "https://luma.com/superteam-60dw",
-    "coverImage": "/events/luma-batch-evtViTEAEote3jON-6548d4e7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Superteam Ireland"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Dublin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-60dw",
-      "eventId": "evt-ViTEAEote3jONip",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt5Kquymowmz16z",
     "slug": "4cdi9o80",
     "name": "Avalanche Team1 Dublin Connect x Dublin AI Week",
@@ -12246,36 +12011,6 @@
     "sourceVerification": {
       "url": "https://luma.com/rjvg6uk4",
       "eventId": "evt-Cc88L6Ro1CT4HZB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtYmh91sulx28Sc",
-    "slug": "kimegh2u",
-    "name": "Sync // Bangalore",
-    "description": "An initiative by 2:47 PM Studio × Dodo Payments\n\nDodo Payments is a Merchant of Record platform that helps SaaS and AI companies sell globally, handling payments, taxes, and compliance across 150+ countries so founders can focus on building.\n\nAbout the Evening\n\nOver the last several months, Bangalore’s best builders may it be AI, Crypto folks, consumer brand operators have been heads-down shipping—sprinting on llms, mainnets, token drops, model iterations, and funding rounds. Between the noise of demo days and endless group chats, most of us have lost touch offline.\n\nWe are opening up the Dodo Payments space for an intimate, closed-door evening to fix that.\n\nSync // Bangalore is a curated room of founders, ecosystem leads, and operators catching up off the record.\n\nZero panels or slides: No sponsored keynotes, no pitching from a stage.\n\nThe State Sync: Real, unfiltered conversations on what is actually working across AI infrastructure, crypto rails, and capital.\n\nGood company & craft brews: Great food, cold drinks, and high-signal catch-ups with old peers.",
-    "startDate": "2026-09-26T10:30:00.000Z",
-    "endDate": "2026-09-26T13:30:00.000Z",
-    "city": "Bengaluru",
-    "country": "India",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://luma.com/kimegh2u",
-    "registrationUrl": "https://luma.com/kimegh2u",
-    "coverImage": "/events/luma-batch-evtYmh91sulx28Sc-0090c524.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/kimegh2u",
-      "eventId": "evt-Ymh91sulx28ScBx",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -12767,36 +12502,6 @@
     "sourceVerification": {
       "url": "https://luma.com/f6xhhyld",
       "eventId": "evt-MhB5lf6PHMKPkHC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtFCvGrSFASqUey",
-    "slug": "c1ikydpb",
-    "name": "🤖 AI AGENTS THAT GET SH*T DONE - Agentes que hacen tu laburo con Arturo Grande",
-    "description": "Tu próximo compañero de equipo no toma café, no pregunta cuándo se almuerza y ni siquiera necesita dormir.\n\nY su currículum promete.\n\nSí: tu próximo compañero de trabajo va a ser una IA.\n\nQueremos ayudarte a que la veas como una verdadera aliada\n\nPorque una cosa es hacerle preguntas… y otra muy distinta es empezar a sacarle verdadero provecho.\n\nEn este encuentro vamos a explorar cómo trabajar juntos: qué tareas delegarle, cómo coordinarse y cómo mantener el control de las decisiones importantes.\n\nTe esperamos en Nomad Hub  para explorar qué pasa cuando dejás de usarla como un chat y empezás a delegarle trabajo de verdad.\n\nEntrada free + café de invitación con pastelería !\n\n🖥️ AI teammates - compañeros de trabajo\n\nVamos a conocer Grok Bot, la herramienta de SpacexAI, y explorar cómo los nuevos AI teammates pueden interactuar con una computadora, usar herramientas y encargarse de tareas concretas, mientras nosotros mantenemos el control sobre las decisiones importantes.\n\n🌐 AI agents onchain\n\nDel otro lado, vamos a meternos en el mundo de los agents con wallets, skills y capacidad de interactuar con pagos, APIs y stablecoins, aprovechando la infraestructura de Celo.\n\nTambién vamos a explorar cómo estas nuevas herramientas se conectan con la evolución del desarrollo de AI agents y el rol que puede tener la agentic economy en LATAM.\n\nVamos a hablar de:\n\n→ Qué diferencia a un AI agent de un chatbot\n\n→ Cómo construir AI teammates que realmente ejecuten trabajo\n\n→ Agents con wallets, pagos y APIs onchain\n\n→ Celo como infraestructura para mover valor de forma global y local\n\n→ El rol de las stablecoins locales de LATAM en la agentic economy\n\n→ Vercel y sus nuevas herramientas para construir AI agents (EVE)\n\n→ Cómo empezar a construir el tuyo\n\n☕ Una charla, una demo en vivo, buen café y conversación con otros builders, founders y curiosos de IA.\n\n🎙️ Arturo Grande Fundador de desafia.tech\n DevRel en Celo - SpaceXAI Ambassador\n\n🗓️ Sábado 26 de septiembre\n🕤 9:30 AM\n📍 Nomad Hub Café\nMalabia 806\n\n¡Te esperamos!",
-    "startDate": "2026-09-26T13:00:00.000Z",
-    "endDate": "2026-09-26T16:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Café Nómada Villa Crespo, Café Nómada Villa Crespo, Malabia 806, C1414 Cdad. Autónoma de Buenos Aires, Argentina",
-    "url": "https://luma.com/c1ikydpb",
-    "registrationUrl": "https://luma.com/c1ikydpb",
-    "coverImage": "/events/luma-batch-evtFCvGrSFASqUey-43966493.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Nomad Hub"
-    ],
-    "price": "Free",
-    "timezone": "America/Argentina/Buenos_Aires",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/c1ikydpb",
-      "eventId": "evt-FCvGrSFASqUeydZ",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -13493,66 +13198,6 @@
     }
   },
   {
-    "id": "luma-batch-evtLyOf3av9S4FYi",
-    "slug": "g72sgr9n",
-    "name": "Reimagined 1.0",
-    "description": "Reimagined 1.0 is SPAWN's flagship technology conference exploring how innovation is transforming Oil & Gas, and Web3/Crypto. The event brings together students, software engineers, founders, investors, industry professionals, and technology leaders to discover how emerging technologies are solving real-world challenges and creating new opportunities across these sectors.\n\nThrough inspiring keynote sessions, industry panels, live product demonstrations, networking opportunities, and career-focused experiences, attendees will gain practical insights, connect with leading organizations, and explore pathways to build, innovate, and grow within these high-impact industries. Whether you're looking to launch your career, build a startup, or adopt cutting-edge technologies, Reimagined 1.0 is where innovation meets opportunity.\n\nExpected Attendees\n\nUniversity students and recent graduates\n\nSoftware engineers and developers\n\nUI/UX designers and product managers\n\nAI, data, cloud, and cybersecurity professionals\n\nStartup founders and aspiring entrepreneurs\n\nTech community leaders and innovators\n\nRecruiters and hiring partners\n\nInvestors, ecosystem enablers, and corporate partners\n\nGovernment representatives and policymakers supporting innovation\n\nTechnology enthusiasts interested in learning, networking, and building",
-    "startDate": "2026-09-26T08:30:00.000Z",
-    "endDate": "2026-09-26T14:00:00.000Z",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "location": "Lagos, Lagos, Nigeria",
-    "url": "https://luma.com/g72sgr9n",
-    "registrationUrl": "https://luma.com/g72sgr9n",
-    "coverImage": "/events/luma-batch-evtLyOf3av9S4FYi-03a6139f.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Africa/Lagos",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/g72sgr9n",
-      "eventId": "evt-LyOf3av9S4FYiYA",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtCEKL4E7wZsbA1",
-    "slug": "lgz1qdra",
-    "name": "BitDevs Lagos - September 2026",
-    "description": "BitDev Lagos is a community based in Lagos, Nigeria, that provides a platform for individuals interested in exploring and contributing to the research and development of Bitcoin and related protocols.\n\nThe community organizes monthly meet-ups aimed at fostering lively conversations, information exchange, and healthy debates on a broad range of Bitcoin-related topics, including technical sessions, workshops, demos of Bitcoin-powered products, etc.\n\nOur meet-up holds on the last Saturday of every month, and we would love you to be a part of it!\n\nDo well to be present\n\n## Event details\n\nOrganized by Personal. Venue: theBUNKer Yaba, theBUNKer Yaba, 279 Herbert Macaulay Wy, off Alagomeji, Yaba, Lagos 101245, Lagos, Nigeria. Tickets: Free.",
-    "startDate": "2026-09-26T14:00:00.000Z",
-    "endDate": "2026-09-26T16:30:00.000Z",
-    "city": "Lagos",
-    "country": "Nigeria",
-    "location": "theBUNKer Yaba, theBUNKer Yaba, 279 Herbert Macaulay Wy, off Alagomeji, Yaba, Lagos 101245, Lagos, Nigeria",
-    "url": "https://luma.com/lgz1qdra",
-    "registrationUrl": "https://luma.com/lgz1qdra",
-    "coverImage": "/events/luma-batch-evtCEKL4E7wZsbA1-923b9ecb.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Africa/Lagos",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/lgz1qdra",
-      "eventId": "evt-CEKL4E7wZsbA1TN",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtxynyfrCDssQqX",
     "slug": "luxq9jt4",
     "name": "Monthly Dweb Meetup",
@@ -13607,36 +13252,6 @@
     "sourceVerification": {
       "url": "https://luma.com/lpe4mdxt",
       "eventId": "evt-t671wDnUAzkDrvu",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtOM2EM3OJbZUxJ",
-    "slug": "ur4kiwoe",
-    "name": "Meta Earth: UBI for All",
-    "description": "Halo teman-teman!\n\nSemoga kabarmu baik.\n\nKami ingin mengundang kamu ke Meta Earth: UBI for All, sebuah acara khusus yang menghadirkan para builder, creator, dan kamu-kamu yang yang aktif di dunia kripto.\n\nAcara ini berfokus pada networking berkualitas, membangun koneksi dengan para player di ekosistem, serta peluncuran kampanye social impact terbaru kami yang diramaikan dengan sesi VIP builder panel.\n\nKami juga menyediakan food and beverage sepanjang acara, jadi ini kesempatan pas buat kumpul dan catch up bareng rekan-rekan industri.\n\nSemoga kamu bisa bergabung!\n\n📅 Sabtu, 26 September 2026\n\n🕕 18:30–22:00 WIB\n\n📍 Aroem Resto & Cafe, Jakarta\n\n## Event details\n\nOrganized by Personal. Venue: Aroem Resto & Cafe Jakarta, Aroem Resto & Cafe Jakarta, Jl. Abdul Muis No.14, RT.11/RW.8, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160, Indonesia. Tickets: Free.",
-    "startDate": "2026-09-26T11:30:00.000Z",
-    "endDate": "2026-09-26T15:30:00.000Z",
-    "city": "Kota Jakarta Pusat",
-    "country": "Indonesia",
-    "location": "Aroem Resto & Cafe Jakarta, Aroem Resto & Cafe Jakarta, Jl. Abdul Muis No.14, RT.11/RW.8, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160, Indonesia",
-    "url": "https://luma.com/ur4kiwoe",
-    "registrationUrl": "https://luma.com/ur4kiwoe",
-    "coverImage": "/events/luma-batch-evtOM2EM3OJbZUxJ-12cf5536.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/ur4kiwoe",
-      "eventId": "evt-OM2EM3OJbZUxJGT",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

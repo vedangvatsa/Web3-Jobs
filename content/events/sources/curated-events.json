@@ -91,7 +91,7 @@
     "location": "Sydney & Melbourne, Australia",
     "url": "https://blockchainaustralia.com.au",
     "website": "https://blockchainaustralia.com.au",
-    "coverImage": "https://blockchainaustralia.com.au/wp-content/uploads/2026/10/Blockchain-Australia.webp",
+    "coverImage": "/events/premier-abw-2027-523586b5.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1501,22 +1501,6 @@
     }
   },
   {
-    "id": "premier-enugu",
-    "slug": "web3conf",
-    "name": "Web3Conf Enugu 2026",
-    "description": "Nigeria's Web3Conf Enugu uniting African developers, founders, and communities for education and on-chain career building. Takes place 19 to 26 September 2026 in Enugu.",
-    "startDate": "2026-09-19T09:00:00.000Z",
-    "endDate": "2026-09-26T18:00:00.000Z",
-    "city": "Enugu",
-    "country": "Nigeria",
-    "location": "Enugu, Nigeria",
-    "url": "https://web3conf.nextbridge.africa",
-    "website": "https://web3conf.nextbridge.africa",
-    "coverImage": "/events/africa1.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-ethtokyoweek",
     "slug": "ethtokyo",
     "name": "ETHTokyo Week 2026",
@@ -1537,29 +1521,6 @@
       "method": "official-section",
       "pageTitle": "ETHTokyo 2026",
       "sha256": "696b23cce3cede01a1577b42fb3761f17bc1318a44a68c8fc3bc8279684afa8f"
-    }
-  },
-  {
-    "id": "premier-btchel",
-    "slug": "btchel",
-    "name": "BTCHEL 2026",
-    "description": "## THE NORDIC BITCOIN CONFERENCE\n\n## The Nordic Bitcoin Conference\n\nConnect with community, builders, and experts in the field, shaping the future of a decentralised world.\n\n## 2026\n\n## Helsinki\n\n## #1\n\n## Innovation First\n\nFeaturing cutting-edge developments in Bitcoin payments, finances, and mining. BTCHEL demonstrates the real-world use of Bitcoin as money.\n\n## Nordic Focus\n\nThe only Bitcoin conference dedicated to the Nordic region, bringing local and international perspectives together. BTCHEL advances local adoption and creates virality among the public.\n\n## Community Driven\n\nConnecting all Bitcoiners in the Nordics, while staying true to the Bitcoin culture and ethos. BTCHEL is an independent, bootstrapped, grassroots conference.\n\n## Sponsors\n\n## Main\n\n## Innovators\n\n## Early Adopters\n\n## Majority\n\n## Media Partners\n\n## Feel the Vibes\n\n## Check out the vibes at BTCHEL2025\n\n## BTCHEL2025 Numbers\n\n## 1000+\n\n## Attendees\n\n## 70+\n\n## Speakers\n\n## 20+\n\n## Partners\n\n## Capture the Moment\n\n## Join the Conversation\n\n## Overall rating*\n\n## “An unusually good industry event.”\n\n## “BTCHEL was quality over quantity”\n\n## “The experience was much more fresh compared to other conferences”\n\nThe overall rating and the testimonials are based on an anonymous customer feedback survey that was sent to attendees after BTCHEL2025. Approximately 10% of attendees answered the survey.*\n\n## Sign up for event updates!",
-    "startDate": "2026-09-25T09:00:00.000Z",
-    "endDate": "2026-09-26T18:00:00.000Z",
-    "city": "Helsinki",
-    "country": "Finland",
-    "location": "Kaapelitehdas, Helsinki, Finland",
-    "url": "https://btchel.com",
-    "website": "https://btchel.com",
-    "coverImage": "/events/bitcoin1.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://btchel.com/",
-      "fetchedAt": "2026-09-20T00:20:12.355Z",
-      "method": "official-section",
-      "pageTitle": "BTCHEL2026 – The Nordic Bitcoin Conference.",
-      "sha256": "307dd99355f648474f804b0ea56ef2f3c0fa2589ac299a5be4e4d8fd668eda71"
     }
   },
   {

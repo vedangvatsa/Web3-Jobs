@@ -312,21 +312,6 @@
       "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
     },
     {
-      "id": "premier-btchel",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://btchel.com/",
-        "fetchedAt": "2026-09-20T00:20:12.355Z",
-        "method": "official-section",
-        "pageTitle": "BTCHEL2026 – The Nordic Bitcoin Conference.",
-        "sha256": "307dd99355f648474f804b0ea56ef2f3c0fa2589ac299a5be4e4d8fd668eda71"
-      },
-      "previousStartDate": "2026-09-25T09:00:00.000Z",
-      "characters": 1422,
-      "preview": "## THE NORDIC BITCOIN CONFERENCE\n\n## The Nordic Bitcoin Conference\n\nConnect with community, builders, and experts in the field, shaping the future of a decentralised world.​\n\n## 2026\n\n## Helsinki\n\n## #1\n\n## Innovation First\n\nFeaturing cutting-edge developments in Bitcoin payments, finances, and mining. BTCHEL demonstrates the real-world use of Bitcoin as money.\n\n## Nordic Focus\n\nThe only Bitcoin conference dedicated to the Nordic region, bringing local and international perspectives together. BTCHEL advances local adoption and creates virality among the public.\n\n## Community Driven\n\nConnecting all Bitcoiners in the Nordics, while staying true to the Bitcoin culture and ethos. BTCHEL is an independent, bootstrapped, grassroots conference.\n\n## Sponsors\n\n## Main\n\n## Innovators\n\n## Early Adopt"
-    },
-    {
       "id": "premier-cvsummit",
       "file": "curated-events.json",
       "status": "source-backed",

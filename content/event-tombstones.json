@@ -2265,5 +2265,125 @@
       "luma-batch-evtsocxhldunu6gh",
       "p79t56ui"
     ]
+  },
+  "premier-enugu": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "premier-enugu",
+      "enugu",
+      "web3conf"
+    ]
+  },
+  "premier-btchel": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "premier-btchel",
+      "btchel"
+    ]
+  },
+  "luma-host-evt-evt-X2V7EOKGbPXL9Gv": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-host-evt-evt-x2v7eokgbpxl9gv",
+      "mbh"
+    ]
+  },
+  "w3v-monad-blitz-berlin-hackathon": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "w3v-monad-blitz-berlin-hackathon",
+      "mbh"
+    ]
+  },
+  "india-luma-near-ss07": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "india-luma-near-ss07",
+      "nbc"
+    ]
+  },
+  "luma-batch-cEqlJsIvxPQ4QPf": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-ceqljsivxpq4qpf",
+      "blitz-istanbul-sep-2026"
+    ]
+  },
+  "luma-batch-NAmHfiDgQATHxDl": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-namhfidgqathxdl",
+      "nwy1r45r"
+    ]
+  },
+  "luma-batch-4LFTQGiy1iKdzGU": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-4lftqgiy1ikdzgu",
+      "1iwz8yb3"
+    ]
+  },
+  "luma-batch-evtKkRInppAYihTK": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtkkrinppayihtk",
+      "k7v8usb6"
+    ]
+  },
+  "luma-batch-evtvb6HkfwgcZ0TH": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtvb6hkfwgcz0th",
+      "ph154rqh"
+    ]
+  },
+  "luma-batch-evtViTEAEote3jON": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtviteaeote3jon",
+      "superteam-60dw"
+    ]
+  },
+  "luma-batch-evtYmh91sulx28Sc": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtymh91sulx28sc",
+      "kimegh2u"
+    ]
+  },
+  "luma-batch-evtFCvGrSFASqUey": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtfcvgrsfasquey",
+      "c1ikydpb"
+    ]
+  },
+  "luma-batch-evtLyOf3av9S4FYi": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtlyof3av9s4fyi",
+      "g72sgr9n"
+    ]
+  },
+  "luma-batch-evtCEKL4E7wZsbA1": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtcekl4e7wzsba1",
+      "lgz1qdra"
+    ]
+  },
+  "luma-batch-evtOM2EM3OJbZUxJ": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-batch-evtom2em3ojbzuxj",
+      "ur4kiwoe"
+    ]
+  },
+  "luma-crypto-fRkk67UNiklXIIp": {
+    "until": "2027-10-26T19:39:00.565Z",
+    "slugs": [
+      "luma-crypto-frkk67uniklxiip",
+      "house-2"
+    ]
   }
 }

@@ -808,39 +808,6 @@
       }
     ]
   },
-  "luma-host-evt-X2V7EOKGbPXL9Gv": {
-    "summaryLead": "Monad Blitz hits Berlin on September 26, 2026 - one day, one room, one goal: ship something real on Monad's high-performance EVM before evening. Run by Encode Club with the Monad Foundation, the series claims more than fifty editions since May 2025, from Shanghai to San Francisco, Lagos to Lisbon. Three thousand dollars in prizes await the best builds. Capacity is limited, and every registration passes host approval.",
-    "sections": [
-      {
-        "heading": "A Hackathon Measured in Hours",
-        "content": [
-          "The timetable is almost aggressively compact. Registration and breakfast open at 9:00; welcome remarks and a Monad 101 workshop fill the morning; hacking begins at 11:15 and freezes promptly at 17:00. Submissions close half an hour later, pitches start at 18:00, and prizes plus closing remarks wrap the night from 19:30. Lunch happens at 13:00, briefly.",
-          "Compression is the pedagogy. Seven hours of building leaves no room for architectural perfectionism, which is exactly the point - participants practice the scoping judgment that separates people who ship from people who refactor. The format's persistence across fifty-plus editions suggests the message has traveled: a working prototype by dusk is achievable, and finishing one recalibrates how you estimate everything afterward."
-        ]
-      },
-      {
-        "heading": "Learn, Build, Ship, Win",
-        "content": [
-          "Organizers describe the flow in four verbs. Learn: morning workshops and hands-on mentoring bring everyone up to speed on Monad. Build: seven hours of focused execution, solo or on ad-hoc teams. Ship: every project demos its MVP to the crowd. Win: the prize pool distributes. The structure deliberately front-loads teaching so that newcomers are not paying dues for the first half of the day.",
-          "The invitation explicitly reaches beyond committed crypto developers - seasoned onchain builders, founders exploring something new, and Web2 developers curious about the ecosystem are all named audiences. That breadth shapes the room's character. Expect pairing conversations at breakfast, unlikely team formations before the workshop ends, and demo pitches that range from polished to gloriously rough."
-        ]
-      },
-      {
-        "heading": "Prizes, Approvals, and Fine Print",
-        "content": [
-          "The prize pool totals three thousand US dollars, distributed when pitches conclude. Money aside, the listing pitches something larger: a direct line into the heart of the Monad ecosystem, putting participants in the same room as the founders, builders, and investors advancing it daily. For career-minded attendees, that framing may outweigh the cash.",
-          "Practicalities deserve attention. Registration requires host approval, and the listing warns plainly that capacity is limited - applying early is the difference between attending and refreshing a waitlist. A photography and recording disclaimer accompanies entry, meaning demos may end up in promotional material. Read it, then decide what you are comfortable showing on a projector."
-        ]
-      },
-      {
-        "heading": "Why Monad Wants Berlin",
-        "content": [
-          "Monad positions itself as an EVM-compatible layer 1 rebuilt from the ground up, citing throughput of up to ten thousand transactions per second achieved through innovations in consensus and parallel execution. Technology at that ambition level needs proof of the social variety: working demos, built fast, by people outside the core team. Blitz is engineered to manufacture exactly that evidence, city by city.",
-          "Berlin supplies a receptive audience. The city's builder density and its tolerance for experimental formats have made it a reliable European stop for developer-focused tours. For local engineers, the calculus is straightforward - a single Saturday, an approved application, mentorship on hand, and a demo reel at the end. Few investments of a weekend return that much signal."
-        ]
-      }
-    ]
-  },
   "luma-host-evt-fPYLSOuT8iZ9pgf": {
     "summaryLead": "The Digital Asset Yield Summit settles into Raffles Hotel on October 6, 2026 for an invite-only day aimed squarely at private capital entering digital asset income markets. The organizers size the room precisely: 300 attendees, of whom 160 are capital allocators. Family offices, pensions, endowments, insurers, sovereign wealth funds, and treasuries form the core audience. Lunch, afternoon tea, and closing drinks are folded into the day.",
     "sections": [
@@ -1148,43 +1115,6 @@
       }
     ]
   },
-  "premier-enugu": {
-    "summaryLead": "Web3Conf Enugu runs September 19-26, 2026, bringing African developers, founders, and communities together in Enugu, Nigeria, for eight days of web3 education and on-chain career building under the NextBridge Africa banner.",
-    "sections": [
-      {
-        "heading": "Eight Days, One City",
-        "content": [
-          "Most crypto conferences compress into a weekend and call it density. Web3Conf Enugu stretches across eight full days, from September 19 to 26, 2026, in Enugu, capital city of Enugu State in southeastern Nigeria. That length signals intent: a sustained program of education and community building rather than a single-day keynote parade followed by a party.",
-          "The stated mission, per the organizers, is uniting African developers, founders, and communities around two connected goals: learning and livelihoods. Education comes first, but the explicit endpoint is on-chain career building, which means attendees should expect programming geared toward converting skills into paid work inside the ecosystem, not just accumulating certificates and stickers.",
-          "The event runs under the NextBridge Africa umbrella, whose web3conf subdomain serves as the official home for registration and program details."
-        ]
-      },
-      {
-        "heading": "Who the Week Serves",
-        "content": [
-          "Developers get the most direct draw: concentrated sessions and community contacts in a region where web3 talent runs deep and keeps growing. Founders get a room full of potential collaborators, early users, and local distribution knowledge in one place, which normally requires months of scattered meetups to assemble.",
-          "For students and career-switchers, career-oriented events like this tend to carry the practical material conferences skip: how to contribute to open source in ways that get noticed, where grants and bounties actually live, and how remote work with international teams functions day to day from Nigeria.",
-          "Community is the third leg. Nigerian web3 growth has been substantially community-led, and an eight-day format gives existing groups room to run their own meetups, workshops, and side gatherings around whatever core program the organizers publish."
-        ]
-      },
-      {
-        "heading": "Planning Around a Week-Long Format",
-        "content": [
-          "Week-long events reward pacing over heroics. Do not attempt to attend everything; pick the sessions matching your goals for the week and leave slack for hallway conversations, because at community-driven conferences that is where most real opportunities surface anyway.",
-          "Verify specifics before booking travel. The official site at web3conf.nextbridge.africa carries current schedule, venue, and registration information, and was unreachable at the time of writing, so confirm details there or through the organizers' channels close to your travel dates. Long-format programs routinely finalize venues and session times late.",
-          "Budget extra days on either end if you can manage it. With visitors arriving from across Nigeria and the wider continent, the informal gatherings before and after the formal program carry half the value of the trip."
-        ]
-      },
-      {
-        "heading": "Why Enugu Matters to the Map",
-        "content": [
-          "Events anchored outside the usual capitals matter for how African web3 actually develops. They shorten the distance between global protocols and local builders, keep talent and spending in secondary cities, and force the industry's attention beyond Lagos whenever attendance numbers prove the demand exists.",
-          "If you are a developer in West Africa, this is among the most accessible large-scale web3 gatherings running in September. If you represent a protocol or company hiring in the region, it is the clearest single point of contact with Enugu's community that the calendar offers all year.",
-          "Set expectations accordingly and this format pays off: eight days is long enough for real skill transfer, not just introductions, which is exactly what an education-and-careers mandate requires. Arrive with one skill to deepen and one contact type to find, and the length starts working for you instead of against you."
-        ]
-      }
-    ]
-  },
   "premier-ethtokyoweek": {
     "summaryLead": "ETHTokyo Week spreads nine days of Ethereum talks, workshops, and community side events across Tokyo from September 19-27, 2026, organized by the Ethereum Japan community and closing with an ETHGlobal hackathon weekend.",
     "sections": [
@@ -1218,45 +1148,6 @@
           "Newcomers are served explicitly too. The organization maintains beginner pathways covering wallets, acquiring ETH, whitepaper reading, and developer docs, so arriving with zero background and leaving with shipped hackathon project experience is a realistic arc for the full nine days.",
           "ETHGlobal's involvement changes the stakes of that finale as well. Their hackathon weekends are where many builders first get noticed by protocol teams, so even first-time participants should treat submission day with some seriousness.",
           "For everyone else: Tokyo in late September, a citywide program, and a hackathon finish make this the easiest Ethereum-branded reason to book Japan all year."
-        ]
-      }
-    ]
-  },
-  "premier-btchel": {
-    "summaryLead": "BTCHEL 2026 brings the Nordic Bitcoin community to Kaapelitehdas in Helsinki on September 25-26, pairing developer-facing talks and the European Mining Summit with an explicitly grassroots, bootstrapped conference ethos.",
-    "sections": [
-      {
-        "heading": "The Nordics Convene at the Cable Factory",
-        "content": [
-          "BTCHEL bills itself as the number one Bitcoin conference in the Nordics, and the supporting claim has substance: it is the region's only conference dedicated specifically to Bitcoin, returning September 25-26, 2026, to Kaapelitehdas, Helsinki's former cable factory turned cultural center on the waterfront.",
-          "The organizing ethos is printed plainly on the site: independent, bootstrapped, grassroots, and community driven. No corporate parent underwrites the event, which shapes both the economics of attending and the tone of everything on stage.",
-          "Scope is deliberately Nordic. Local adoption stories and international perspectives share the program, and the conference doubles as the annual moment when Nordic bitcoiners who mostly know each other online finally share a room."
-        ]
-      },
-      {
-        "heading": "Payments, Finance, and Mining in Practice",
-        "content": [
-          "Programming leans applied rather than theoretical. Organizers promise developments across Bitcoin payments, finance, and mining, with an explicit aim of demonstrating real-world use of Bitcoin as money instead of re-litigating store-of-value debates.",
-          "This edition pairs the developer-facing conference with the European Mining Summit, per the event listing, giving mining its own concentrated track within the broader program rather than scattering it across unrelated stages.",
-          "The sponsor roster reflects that applied tilt. Mining pool and operations names like Ocean, Braiins, Vnish, and Terahash appear alongside wallet and infrastructure brands including Blockstream, Bull Bitcoin, Trezor, BitBox, Cake Wallet, CoinMotion, and Miners Loop."
-        ]
-      },
-      {
-        "heading": "The 2025 Report Card",
-        "content": [
-          "Last year's edition drew more than 1,000 attendees, upwards of 70 speakers, and over 20 partners, according to the organizers' own recap figures. Anonymous post-event surveys produced ratings the team quotes openly, including phrases like an unusually good industry event and quality over quantity.",
-          "Previous speaker lists read like a cross-section of Bitcoin culture: security researcher Mikko Hypponen, early Satoshi-era contributor Martti Malmi, author and entrepreneur Jeff Booth, and Blockstream CEO Adam Back have all taken the stage.",
-          "For 2026, speaker confirmations continue rolling out through the dedicated agenda site, so check the lineup page close to your booking date rather than relying on this snapshot.",
-          "The community-driven label shows up in the small things too: a biweekly newsletter called Nordic Node keeps the regional scene connected between editions, a community hub page aggregates local groups, and the organizers publish travel guidance for internationals rather than leaving visitors to improvise.",
-          "Press materials and a merch shop round out the operation, which is more infrastructure than most grassroots conferences bother with. It signals an event run by people who intend to keep running it, year after year, on their own terms."
-        ]
-      },
-      {
-        "heading": "Tickets and Logistics",
-        "content": [
-          "Tickets sell through the event shop on btchel.com, and subscribing to the newsletter reportedly unlocks a five percent discount code, which is the cheapest known route in. Side events run around the main program and carry their own page on the site.",
-          "Kaapelitehdas sits west of Helsinki's center and is reached easily by tram. Late September in Helsinki means coat weather and shortening days, so pack for autumn rather than the memory of summer.",
-          "Volunteer and sponsorship pages remain active for anyone wanting in beyond attendance. And if your September itinerary already includes ETHSofia or Freedom Tech DC earlier that week, note the sequencing: BTCHEL closes the month's European run on September 25-26, making Helsinki a natural final stop."
         ]
       }
     ]

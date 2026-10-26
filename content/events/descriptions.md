@@ -4,18 +4,6 @@
 
 Generated from `sources/`. Formatting uses the event-page organizer-copy formatter. Original descriptions remain in the source JSON files.
 
-<a id="event-022aa29ddfd52afa"></a>
-
-## Web3Conf Enugu 2026
-
-- Record: `premier-enugu`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-19T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://web3conf.nextbridge.africa>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-070efe0f38ff19d2"></a>
 
 ## ETHTokyo Week 2026
@@ -239,36 +227,6 @@ For the first time ever, a project does not have to start at zero. The organizer
 ### Participation
 
 The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks. Pragma Tokyo runs as a one-day summit alongside the hackathon week.
-
-<a id="event-57f9234e29ce39ec"></a>
-
-## BTCHEL 2026
-
-- Record: `premier-btchel`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-25T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://btchel.com>
-
-### The Nordic Bitcoin Conference
-
-Connect with community, builders, and experts in the field, shaping the future of a decentralised world.
-
-### Innovation First
-
-Featuring cutting-edge developments in Bitcoin payments, finances, and mining. BTCHEL demonstrates the real-world use of Bitcoin as money.
-
-### Nordic Focus
-
-The only Bitcoin conference dedicated to the Nordic region, bringing local and international perspectives together. BTCHEL advances local adoption and creates virality among the public.
-
-### Community Driven
-
-Connecting all Bitcoiners in the Nordics, while staying true to the Bitcoin culture and ethos. BTCHEL is an independent, bootstrapped, grassroots conference.
-
-### "The experience was much more fresh compared to other conferences"
-
-The overall rating and the testimonials are based on an anonymous customer feedback survey that was sent to attendees after BTCHEL2025. Approximately 10% of attendees answered the survey.*
 
 <a id="event-e38376dc53a697ba"></a>
 
@@ -22859,44 +22817,6 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
 
-<a id="event-52bfcd001ea6bee8"></a>
-
-## NEAR Builders Cafe: Roast My Repo
-
-- Record: `india-luma-near-ss07`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-26T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/near-ss07>
-
-### About the event
-
-Think of the late-night bonding at a YC Hacker House or a top-tier AI research retreat. We are bringing together 15-20serious builders in Mumbai for an afternoon of high-trust networking and collaborative building.
-
-No pitch decks. No VC speed-dating. No awkward small talk. We are engineering an environment where you actually get to know the person next to you by looking at their code, debating architecture, and helping each other get unstuck. If you are building AI agents, Web3 infrastructure, or consumer apps on Confidential AI/ Economy, this is your room.
-
-### How We Network
-
-The Problem Pitch:
-
-Come prepared to share what you're building, the problem you're facing, and what you're stuck on right now. Keep it short and concrete, no polished elevator pitches needed.
-
-The Room Helps:
-
-After each pitch, the audience can jump in with ideas, relevant experience, introductions, or potential solutions. If you've faced the same problem before, share what worked (or didn't).
-
-We don't want forced networking, writing exercises, or people splitting off into groups. The goal is simply to put interesting problems in front of smart people and let the conversation happen naturally.
-
-Dinner/Drinks Post-Session:
-
-After the session, we'll head somewhere nearby for food and drinks. That's where you can continue the conversations, meet people one-on-one, and explore ideas that came up during the session.
-
-### Who is this for?
-
-- Builders who want to find technical collaborators, not just "connections."
-- Engineers, designers, and product hackers actively shipping on NEAR or AI.
-- People who prefer deep, 1-on-1 technical debates over loud, crowded rooms.
-
 <a id="event-d7a3110fd4ff801f"></a>
 
 ## Bitcoin Wallets: Keys, Transactions, and the Mempool \| Chandigarh
@@ -23848,30 +23768,6 @@ The strongest teams get incubated at NUS with milestone-based funding, mentorshi
 It is a direct pathway from first prototype to funded defense startup, with roots in Singapore, solving challenges that matter globally.
 
 More details will be shared in June.
-
-<a id="event-ecfa4f286ca6cdb3"></a>
-
-## House London #2 \| Data Hackathon
-
-- Record: `luma-crypto-fRkk67UNiklXIIp`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-26T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tsjh0lm9>
-
-### About the event
-
-london has a housing crisis, the data to understand it, and argue for fixing it already exists
-
-House London is a one-day data sprint hosted at Newspeak House bringing together data scientists, urban planners, and policy thinkers to do one thing. take london's planning and housing data, and tell the most compelling and well-evidenced story you can with it,
-
-this is House London #2, the third in a monthly series.
-
-no toy problems
-
-just real datasets, real inquiry and real answers. we're shaping policy briefs, dashboards and models that could actually shape how london gets built
-
-26 september 2026 | newspeak house, london | free entry
 
 <a id="event-ed4e434248adc2cf"></a>
 
@@ -27749,218 +27645,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-2b1b307ee2e18f4d"></a>
-
-## Monad Blitz İstanbul v2
-
-- Record: `luma-batch-cEqlJsIvxPQ4QPf`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/blitz-istanbul-Sep-2026>
-
-### About the event
-
-https://blitz.devnads.com/events/blitz-istanbul-Sep-2026Etkinlik Hakkında
-
-Hızlıca bir şeyler geliştirmeye hazır mısın? Monad Blitz, 26 Eylül'de İstanbul'a geliyor.
-
-Monad Blitz İstanbul, Monad üzerinde öğrenmek, geliştirmek ve çalışan bir proje ortaya çıkarmak isteyen geliştiriciler için düzenlenen, yüz yüze ve bir günlük bir hackathon.
-
-Bu, birkaç gün süren bir kodlama maratonu değil. Sabah temel bilgileri öğrenecek, gün boyunca çalışan bir prototip geliştirecek ve akşam projenizi diğer geliştiricilere sunacaksınız.
-
-Uygulamalı workshop'lar, odaklı geliştirme süreci, teknik destek ve yeni bağlantılar için bölgenin dört bir yanından geliştiricilerle bir araya gelin.
-
-Sizi Neler Bekliyor?
-
-Monad'ın nasıl çalıştığını öğreninMonad'ın mimarisi, geliştirici araçları ve paralel yürütme yapısı hakkında bilgi edinin. İlk kontratlarınızı deploy edin ve geliştirmeye başlayın.
-
-Çalışan bir prototip geliştirinBir fikri tek bir gün içinde çalışan bir projeye dönüştürün. Tek başınıza çalışabilir veya en fazla dört kişilik bir ekip kurabilirsiniz.
-
-Projenizi sununGünün sonunda projenizin demosunu yapın. Ne geliştirdiğinizi, ne öğrendiğinizi ve projeyi bundan sonra nereye taşımak istediğinizi paylaşın.
-
-Diğer geliştiricilerle tanışınGeliştiriciler, mentorlar ve Monad Foundation ekibiyle tanışın. Gün boyunca yiyecek ve içecek sağlanacaktır.
-
-Kimler Başvurmalı?
-
-Monad Blitz İstanbul şu geliştiriciler için uygun:
-
-Daha önce uygulama geliştirme deneyimi olan
-
-GitHub profili, portföyü veya geçmiş bir projesini paylaşabilen
-
-Yeni bir fikri test etmek ve doğrudan geri bildirim almak isteyen
-
-Hızlı ve iş birliğine dayalı bir ortamda çalışmayı seven
-
-Monad geliştirici ekosisteminde daha aktif olmak isteyen
-
-### Program
-
-Sabah: Öğrenin ve hazırlanınKayıt, kahvaltı, Monad'a giriş ve teknik workshop'lar.
-
-Öğleden sonra: GeliştirinTek başınıza veya bir ekiple Monad üzerinde son kullanıcıya yönelik bir uygulama geliştirin. Mentorlar gün boyunca destek olmak için etkinlik alanında olacak.
-
-Akşam: Demo yapın ve kutlayınProjenizi kısa bir demo ile sunun. En iyi üç proje nakit ödül kazanacak.
-
-Kazananlar, canlı izleyici oylamasıyla belirlenecek.
-
-Ödül Havuzu: 2.000 $
-
-1.000 $
-
-600 $
-
-400 $
-
-Kontenjan Sınırlı
-
-Bu etkinlik başvuru ile katılıma açıktır ve toplam 80 kişilik kontenjana sahiptir.
-
-Başvurular; geliştirme deneyimi, proje potansiyeli ve Monad geliştirici ekosistemine katkı sağlama isteğine göre değerlendirilecektir.
-
-Hemen başvurun ve 26 Eylül'de İstanbul'da öğrenme, geliştirme ve proje çıkarma ile dolu bir gün için bize katılın.
-
-<a id="event-d8175c1822eb8a3e"></a>
-
-## Decentralized AI Day Warsaw
-
-- Record: `luma-batch-evtKkRInppAYihTK`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/k7v8usb6>
-
-### About the event
-
-Provisional Agenda
-
-0900-1000: Doors Open & Breakfast Buffet
-
-1000-1030: Welcoming Remarks + CoE Updates by Joe Chow @ Numerai CoE
-
-1030-1100: Numerai Intro + Updates by Aventurine @ Numerai CoE
-
-1100-1115: Coffee Break
-
-1115-1145: Silent Mistakes That Can Hurt Your Numerai Models by Piotr Płoński @ MLJAR
-
-1145-1215: Intro to Numeroo - who's it for and who's it not for, aims and future evolution by Ling Li @ Numerai Community
-
-1215-1230: Coffee Break
-
-1230-1300: AI Agents Showcase + Discussion
-
-1300-1400: Lunch Buffet
-
-1400-1500: [1st Workshop] Beyond the Leaderboard: Build Your Own Numerai Dashboard by Piotr Płoński @ MLJAR
-
-In this tutorial, we'll build a dashboard to track your Numerai models using Python and Mercury. We'll check submissions, follow scores and payouts, and compare your models with others. We'll also see how early scores and expected payouts can change. You'll leave with a working dashboard you can keep using.
-
-1500-1530: Coffee Break
-
-1530-1630: [2nd Workshop] Numeroo Workshop Ling Li @ Numerai Community
-
-This workshop provides a structured introduction to account setup and initial platform onboarding. Participants will receive step-by-step guidance on creating and configuring their accounts, followed by facilitated discussions to gather feedback on potential improvements to the onboarding experience.
-
-1630-1700: Coffee Break
-
-1700-1800: AI Agents Open Workshop
-
-1800-2100: Pizza & Networking Mixer
-
-See you there!
-
-Call for Presentations
-
-Want to share something interesting with the decentralized AI community? We're looking for people to give technical talks or run hands-on workshops.
-
-Submitting a proposal should take around 5 minutes. Apply using this form, where you'll also find more information about what we're looking for, presentation formats, and submission guidelines.
-
-Submission deadline: 18 Sep 2026. Applications are reviewed on a rolling basis, and we aim to respond within 2 days of your submission.
-
-Confirmed Speakers
-
-We're excited to welcome two speakers with deep roots in open-source and decentralized machine learning communities:
-
-Piotr - MLJAR
-
-Piotr is the founder of MLJAR and a long-time open-source builder in the machine learning ecosystem. Based in Poland, he has also spoken at one of our previous Decentralized AI events, and we're very happy to welcome him back in Warsaw.
-
-Ling - Numeroo / Numerai community
-
-Ling is a long-time contributor to the Numerai ecosystem and the creator of Numeroo, a project funded by the Numerai Council of Elders. He was also the first guest featured on Out of Sample, the interview series run by the Numerai community.
-
-More speakers and session details will be announced soon.
-
-### About Decentralized AI Days ℹ
-
-Decentralized AI Days are community-driven events exploring how open, decentralized AI and Web3 can work together in practice. We bring together engineers, researchers, and builders for a day of technical talks, hands-on workshops, and honest conversation - no hype, no sales pitches, and no pay-to-play.
-
-The ecosystem we care about includes projects such as Numerai and MLJAR. The door is open to anyone building with or curious about decentralized AI. Come for the substance, stay for the community.
-
-### What to Expect
-
-Connect with a friendly community of AI and Web3 builders, researchers, and curious minds.
-
-Enjoy zero-hype technical talks focused on real problems and practical insights.
-
-Take part in hands-on workshops where you can learn by building.
-
-Watch live demos of decentralized AI and related projects.
-
-Meet the organizers and share your questions and feedback directly.
-
-Explore community resources and connect over food.
-
-### Who Should Attend
-
-Decentralized AI Days are for everyone curious about where AI and decentralized systems meet: AI/ML engineers, Web3 developers, researchers, students, and builders at any experience level. If you are new to the space, you are welcome; if you have been building for years, you will find your people here. Come ready to learn, share, and connect.
-
-The Venue
-
-Register to see the address. Here are some photos of the venue:
-
-### Sponsors
-
-DeAI Day is a community event series sponsored by Numerai and the Numerai Council of Elders. Complimentary refreshments will be provided throughout the day. Come early and grab some cool swags!
-
-Code of Conduct
-
-All attendees, speakers, sponsors, and volunteers must agree to the following Code of Conduct. Event organizers will enforce these guidelines throughout the event. We expect full cooperation from everyone to help ensure a welcoming and safe environment for all participants.
-
-Our event is committed to providing an inclusive and harassment-free experience for everyone, regardless of gender, gender identity or expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology preferences.
-
-Harassment in any form will not be tolerated. Sexually explicit language or imagery is inappropriate for any part of the event, including talks, workshops, social activities, or online platforms. Participants who violate these rules may be warned or expelled from the event at the discretion of the organizers.
-
-### Past Events
-
-Materials from past Decentralized AI Days live in the community meetups repository.
-
-See the buzz! Unforgettable moments from our past events
-
-We have also hosted similar events under a different name (Numerai Community Meetup) from 2022 to 2024:
-
-London (July 2022)
-
-New York (September 2022)
-
-Tokyo (April 2023)
-
-Prague (July 2023)
-
-Toronto (October 2023)
-
-San Francisco (January 2024)
-
-Frankfurt (April 2024)
-
-Tokyo (July 2024)
-
-Bangkok (November 2024)
-
-Finally, here's one meme to sum up the vibe.
-
 <a id="event-a87106cab5e881f0"></a>
 
 ## BLOCKCHAIN HACK WARSAW
@@ -28062,394 +27746,6 @@ Colosseum Copilot - AI brainstorm tool for project ideas
 Solana.new - an all in one kit to go from idea to shipped project
 
 Superteam Poland Hackathon Group
-
-<a id="event-53cae46759c2491d"></a>
-
-## Reimagined 1.0
-
-- Record: `luma-batch-evtLyOf3av9S4FYi`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g72sgr9n>
-
-### About the event
-
-Reimagined 1.0 is SPAWN's flagship technology conference exploring how innovation is transforming Oil & Gas, and Web3/Crypto. The event brings together students, software engineers, founders, investors, industry professionals, and technology leaders to discover how emerging technologies are solving real-world challenges and creating new opportunities across these sectors.
-
-Through inspiring keynote sessions, industry panels, live product demonstrations, networking opportunities, and career-focused experiences, attendees will gain practical insights, connect with leading organizations, and explore pathways to build, innovate, and grow within these high-impact industries. Whether you're looking to launch your career, build a startup, or adopt cutting-edge technologies, Reimagined 1.0 is where innovation meets opportunity.
-
-Expected Attendees
-
-University students and recent graduates
-
-Software engineers and developers
-
-UI/UX designers and product managers
-
-AI, data, cloud, and cybersecurity professionals
-
-Startup founders and aspiring entrepreneurs
-
-Tech community leaders and innovators
-
-Recruiters and hiring partners
-
-Investors, ecosystem enablers, and corporate partners
-
-Government representatives and policymakers supporting innovation
-
-Technology enthusiasts interested in learning, networking, and building
-
-<a id="event-8f6b2815f58e6307"></a>
-
-## BUILD IRL Vol. 1: Solana Hackathon with Superteam IE × Claude Builder Club
-
-- Record: `luma-batch-evtViTEAEote3jON`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/superteam-60dw>
-
-### About the event
-
-BUILD IRL is a one-day, in-person Solana hackathon in Dublin, run by Superteam Ireland in partnership with the Claude Builder Club at Trinity College Dublin.
-
-You show up at 10am, form a team or bring one, and build any idea on Solana. At the end of the day teams demo what they shipped, and €3,000 in prizes goes to the best projects. (Note: prizes are paid in USDC)
-
-You don't need to have experience using Solana. If you can vibe-code or turn an idea into a feasible business, there is a place for you here. Builders from the Claude Builder Club will be in the room, so expect plenty of AI-assisted building alongside the onchain work.
-
-What you're building
-
-Anything you want, as long as it uses Solana. That's the only rule.
-
-There are no tracks and no theme. It could be finance, gaming, healthcare, AI agents, or an idea you come up with on the day.
-
-Judges will score the idea, how feasible it is, and how big it could become. Your build can be rough, so a prototype that shows how it works is enough.
-
-When: Saturday 26 September, 10am to 6pm
-
-Where: Dogpatch Labs, CHQ Building, Dublin
-
-Prizes: €3,000
-
-Cost: Free to attend
-
-What to bring: a laptop and a charger. Lunch, snacks and refreshments are covered. AI credits/subscriptions are not included.
-
-### Schedule
-
-10:00 Doors open
-
-11:00 Building starts
-
-13:00 Lunch
-
-16:30 Submissions close
-
-17:00 Demos and judging
-
-18:00 Winners announced
-
-Spaces are limited by the venue, so register to hold your spot.
-
-<a id="event-a32eb3c23662aa7e"></a>
-
-## FOUNDERS' OFFICE \| Kyiv
-
-- Record: `luma-batch-NAmHfiDgQATHxDl`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nwy1r45r>
-
-### About the event
-
-Є ідея проєкту або вже навіть MVP?
-
-Приходь в наш коворкінг! Наші office hours Київ:12 вересня [13:00-18:00]19 вересня [13:00-18:00]26 вересня [13:00-18:00]3 жовтня [13:00-18:00]10 жовтня [13:00-18:00]Онлайн: Бронюй дзвінок тут.Тут тебе чекає:
-
-допомога з валідацією ідеї та фідбек
-
-прожарки твого проєкту, які допоможуть стати краще
-
-консультації щодо хакатону Colosseum
-
-можливість попрацювати з командою в зручному коворкінгу
-
-тусовка з іншими білдерами
-
-можливість вигравати додатково гроші за участь в BuildStation івентахВхід можливий виключно після реєстрації в день, коли плануєш прийти.
-
-### Hosts
-
-Hosted by Superteam Ukraine (Solana Hub in Ukraine - Learn. Earn. Build.).
-
-### Event details
-
-The event takes place on September 26. Venue: Kyiv, Kyiv city, Ukraine.
-
-<a id="event-936f42327173cf9f"></a>
-
-## Sync // Bangalore
-
-- Record: `luma-batch-evtYmh91sulx28Sc`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T10:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kimegh2u>
-
-### About the event
-
-An initiative by 2:47 PM Studio × Dodo Payments
-
-Dodo Payments is a Merchant of Record platform that helps SaaS and AI companies sell globally, handling payments, taxes, and compliance across 150+ countries so founders can focus on building.
-
-### About the Evening
-
-Over the last several months, Bangalore's best builders may it be AI, Crypto folks, consumer brand operators have been heads-down shipping - sprinting on llms, mainnets, token drops, model iterations, and funding rounds. Between the noise of demo days and endless group chats, most of us have lost touch offline.
-
-We are opening up the Dodo Payments space for an intimate, closed-door evening to fix that.
-
-Sync // Bangalore is a curated room of founders, ecosystem leads, and operators catching up off the record.
-
-Zero panels or slides: No sponsored keynotes, no pitching from a stage.
-
-The State Sync: Real, unfiltered conversations on what is actually working across AI infrastructure, crypto rails, and capital.
-
-Good company & craft brews: Great food, cold drinks, and high-signal catch-ups with old peers.
-
-<a id="event-ae5917764342f0f4"></a>
-
-## IRL + Livestream Shipyard #3: RWA, Payments & Corridors
-
-- Record: `luma-batch-4LFTQGiy1iKdzGU`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1iwz8yb3>
-
-### About the event
-
-This one is about real markets.
-
-Crypto World's Fair is in full swing - and Shipyard #3 is all about the categories where real money is already moving.
-
-This Saturday, we're bringing builders together in Istanbul - and livestreaming for everyone joining remotely - for a full day around RWA, payments, stablecoins and real-world financial corridors.
-
-Expect:
-
-→ RWA that actually works - on-chain credit, real assets, underwriting & who pays the fee→ Payments & stablecoins - where money is already moving and where the biggest opportunities are→ Local proof points - Superteam Türkiye builders sharing what they learned from real customers in Türkiye→ Global ecosystem guests - operators and founders building at the edge of fintech and onchain finance→ Corridor interviews - exporters, freelancers and diaspora users in the room to tell you how things work today→ Build session + feedback - pressure-test your idea against real users, not assumptions
-
-Don't pitch the market.
-
-Talk to it.
-
-Come with a thesis. Leave with real customer insight.
-
-See you there. 🇹🇷
-
-<a id="event-1e901364280ae2c5"></a>
-
-## Meta Earth: UBI for All
-
-- Record: `luma-batch-evtOM2EM3OJbZUxJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T11:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ur4kiwoe>
-
-### About the event
-
-Halo teman-teman!
-
-Semoga kabarmu baik.
-
-Kami ingin mengundang kamu ke Meta Earth: UBI for All, sebuah acara khusus yang menghadirkan para builder, creator, dan kamu-kamu yang yang aktif di dunia kripto.
-
-Acara ini berfokus pada networking berkualitas, membangun koneksi dengan para player di ekosistem, serta peluncuran kampanye social impact terbaru kami yang diramaikan dengan sesi VIP builder panel.
-
-Kami juga menyediakan food and beverage sepanjang acara, jadi ini kesempatan pas buat kumpul dan catch up bareng rekan-rekan industri.
-
-Semoga kamu bisa bergabung!
-
-Sabtu, 26 September 2026
-
-18:30-22:00 WIB
-
-Aroem Resto & Cafe, Jakarta
-
-### Event details
-
-Organized by Personal. Venue: Aroem Resto & Cafe Jakarta, Aroem Resto & Cafe Jakarta, Jl. Abdul Muis No.14, RT.11/RW.8, Petojo Sel., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10160, Indonesia. Tickets: Free.
-
-<a id="event-80b73ade9d005a5c"></a>
-
-## 🤖 AI AGENTS THAT GET SH*T DONE - Agentes que hacen tu laburo con Arturo Grande
-
-- Record: `luma-batch-evtFCvGrSFASqUey`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/c1ikydpb>
-
-### About the event
-
-Tu próximo compañero de equipo no toma café, no pregunta cuándo se almuerza y ni siquiera necesita dormir.
-
-Y su currículum promete.
-
-Sí: tu próximo compañero de trabajo va a ser una IA.
-
-Queremos ayudarte a que la veas como una verdadera aliada
-
-Porque una cosa es hacerle preguntas... y otra muy distinta es empezar a sacarle verdadero provecho.
-
-En este encuentro vamos a explorar cómo trabajar juntos: qué tareas delegarle, cómo coordinarse y cómo mantener el control de las decisiones importantes.
-
-Te esperamos en Nomad Hub para explorar qué pasa cuando dejás de usarla como un chat y empezás a delegarle trabajo de verdad.
-
-Entrada free + café de invitación con pastelería !
-
-AI teammates - compañeros de trabajo
-
-Vamos a conocer Grok Bot, la herramienta de SpacexAI, y explorar cómo los nuevos AI teammates pueden interactuar con una computadora, usar herramientas y encargarse de tareas concretas, mientras nosotros mantenemos el control sobre las decisiones importantes.
-
-AI agents onchain
-
-Del otro lado, vamos a meternos en el mundo de los agents con wallets, skills y capacidad de interactuar con pagos, APIs y stablecoins, aprovechando la infraestructura de Celo.
-
-También vamos a explorar cómo estas nuevas herramientas se conectan con la evolución del desarrollo de AI agents y el rol que puede tener la agentic economy en LATAM.
-
-Vamos a hablar de:
-
-→ Qué diferencia a un AI agent de un chatbot
-
-→ Cómo construir AI teammates que realmente ejecuten trabajo
-
-→ Agents con wallets, pagos y APIs onchain
-
-→ Celo como infraestructura para mover valor de forma global y local
-
-→ El rol de las stablecoins locales de LATAM en la agentic economy
-
-→ Vercel y sus nuevas herramientas para construir AI agents (EVE)
-
-→ Cómo empezar a construir el tuyo
-
-Una charla, una demo en vivo, buen café y conversación con otros builders, founders y curiosos de IA.
-
-Arturo Grande Fundador de desafia.tech
-
-DevRel en Celo - SpaceXAI Ambassador
-
-Sábado 26 de septiembre
-
-9:30 AM
-
-Nomad Hub Café
-
-Malabia 806
-
-¡Te esperamos!
-
-<a id="event-6e027d27261ff061"></a>
-
-## BitDevs Lagos - September 2026
-
-- Record: `luma-batch-evtCEKL4E7wZsbA1`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lgz1qdra>
-
-### About the event
-
-BitDev Lagos is a community based in Lagos, Nigeria, that provides a platform for individuals interested in exploring and contributing to the research and development of Bitcoin and related protocols.
-
-The community organizes monthly meet-ups aimed at fostering lively conversations, information exchange, and healthy debates on a broad range of Bitcoin-related topics, including technical sessions, workshops, demos of Bitcoin-powered products, etc.
-
-Our meet-up holds on the last Saturday of every month, and we would love you to be a part of it!
-
-Do well to be present
-
-### Event details
-
-Organized by Personal. Venue: theBUNKer Yaba, theBUNKer Yaba, 279 Herbert Macaulay Wy, off Alagomeji, Yaba, Lagos 101245, Lagos, Nigeria. Tickets: Free.
-
-<a id="event-972ceb4517be4ebc"></a>
-
-## Madrid Builder HQ: Build with AI powered by Stellar
-
-- Record: `luma-batch-evtvb6HkfwgcZ0TH`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ph154rqh>
-
-### About the event
-
-Únete a nosotros en el Builder HQ presencial en Madrid, enfocado en convertir ideas en proyectos reales en Stellar, ideación y formación de equipos entre nuestras comunidades de builders de Rust y de IA.
-
-Esta sesión está diseñada para desarrolladores, fundadores, diseñadores y builders que quieran encontrar su idea, formar un equipo y prepararse para HackMeridian.
-
-Qué esperar
-
-Sesiones de ideación para conectar un problema que te importa con una pista de Stellar/Soroban.
-
-Formación de equipos entre nuestros builders de Rust × IA.
-
-Guía práctica y office hours para poner a prueba tu dirección.
-
-Networking, formación de equipos y la oportunidad de obtener una beca de viaje para el hackathon presencial en Lisboa.
-
-¿Quién debería unirse? Fundadores, desarrolladores, diseñadores, creativos y personas simplemente curiosas en Madrid y alrededores que quieran construir en Stellar y abrirse camino hacia HackMeridian. Tanto si vienes con un equipo como si llegas solo, saldrás con personas con quienes construir.
-
-No necesitas ser experto en Stellar para participar. Ven con tu curiosidad, una idea (o ninguna todavía) y tu laptop, y te ayudaremos a comenzar.
-
-Sobre HackMeridian: HackMeridian es un evento de dos días que reúne a desarrolladores, fundadores, diseñadores y equipos técnicos para convertir ideas ambiciosas en productos funcionales basados en Stellar. El evento principal tendrá lugar el 25-26 de octubre de 2026 en Lisboa, Portugal.
-
-Hay más de un camino para llegar a HackMeridian. Empieza donde estás, encuentra a tu gente, encuentra tu idea y encuentra tu camino. Postula hoy en HackMeridian.com.
-
-HackMeridian tiene dos rutas:
-
-Génesis: Para fundadores primerizos, builders emergentes, expertos de dominio y equipos multidisciplinarios que trabajan en una idea nueva o un prototipo temprano.
-
-Scale: Para fundadores con experiencia, equipos de producto, desarrolladores y startups con un producto existente o un prototipo avanzado que quieran llevarlo más lejos. La experiencia no tiene que ser en Stellar.
-
-Los participantes pueden acceder a soporte de ingenieros de Stellar, mentores técnicos, expertos en producto, fundadores, workshops, office hours, formación de equipos y apoyo en desarrollo con IA.
-
-Join us for an in-person Builder HQ in Madrid focused on turning ideas into real Stellar projects - ideation and team matchmaking across our Rust and AI builder communities.
-
-This session is designed for developers, founders, designers, and builders who want to find their idea, form a team, and get ready for HackMeridian.
-
-### What to expect
-
-Ideation sessions to match a problem you care about to a Stellar / Soroban track
-
-Team matchmaking across our Rust × AI builders
-
-Hands-on guidance and office hours to pressure-test your direction
-
-Networking, team formation, and a shot at a travel grant to the live hackathon in Lisbon
-
-Who should join?
-
-Founders, developers, designers, creatives, and the simply curious in and around Madrid who want to build on Stellar and make their way to HackMeridian. Whether you're bringing a team or arriving solo, you'll leave with people to build with.
-
-You don't need to be an expert in Stellar to participate. Come with your curiosity, an idea (or none yet), and your laptop, and we'll help you get started.
-
-About HackMeridian HackMeridian is a two-day builder event bringing together developers, founders, designers, and technical teams to turn ambitious ideas into working products on Stellar. The main event takes place October 25-26, 2026 in Lisbon, Portugal.
-
-There's more than one way into HackMeridian. Start where you are, find your people, find your idea, and find your way. Apply today at HackMeridian.com.
-
-HackMeridian has two paths:
-
-Genesis: for first-time founders, emerging builders, domain experts, and multidisciplinary teams working on a new idea or early prototype.
-
-Scale: for experienced founders, product teams, developers, and startups with an existing product or advanced prototype looking to take it further. Experience does not need to be on Stellar.
-
-Participants can access support from Stellar engineers, technical mentors, product experts, founders, workshops, office hours, team formation, and AI development support.
 
 <a id="event-ffb981395a5af3b8"></a>
 
@@ -49112,135 +48408,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://ethglobal.com/events/tokyo2026>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-06995abc9d1ec9fb"></a>
-
-## Monad Blitz Berlin Hackathon
-
-- Record: `luma-host-evt-evt-X2V7EOKGbPXL9Gv`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-26T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/blitz-berlin-sep-2026>
-- Original page: <https://luma.com/blitz-berlin-sep-2026>
-
-### About the event
-
-Monad Blitz is coming to Berlin!
-
-Monad Blitz is the longest running vibe-coding web3 hackathon where builders ship fast, learn by doing, and plug directly into the Monad ecosystem. Since launching in May 2025, we've taken 50+ editions of this high-energy one-day hackathon concept across the globe. Shanghai to San Francisco. Lagos to Lisbon.
-
-This isn't just a hackathon. It's a direct line into the heart of the Monad ecosystem, putting you in the same room as the founders, builders, and investors pushing it forward every day.
-
-Whether you're a seasoned onchain builder, a founder looking to ship something new, or a Web2 dev crypto-curious for the first time - Blitz is the best environment for you to experiment on Monad.
-
-### What to expect
-
-- A full day of focused building on Monad's high performance EVM.
-- $3,000 USD in prizes
-- Organic collisions with developers actively building in the ecosystem
-- A tight-knit builder community that ships fast and has fun doing it
-
-THE FLOW
-
-- Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.
-- Build: 7 hours of high-speed execution. Form a team or go solo.
-- Ship: Demo your MVP to the crowd.
-- Win: Claim your share of the $3,000
-
-Capacity is limited. Apply early to secure your spot.
-
-THE SCHEDULE
-
-- 9:00 AM - Registration & Breakfast
-- 10:00 AM - Welcome & Monad Blitz Introduction
-- 10:15 AM - Monad 101 Workshop
-- 11:15 AM - Hacking Begins
-- 1:00 PM - Lunch
-- 5:00 PM - Code Freeze
-- 5:30 PM - Submission Deadline
-- 6:00 PM - Pitches
-- 7:30 PM - Prizes, Networking & Closing Remarks
-
-[About Monad](https://www.monad.xyz/?utm_source=luma)
-
-Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
-
-### About Monad Blitz
-
-Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
-
-[About Encode Club](https://www.encodeclub.com/)
-
-Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
-
-<a id="event-78c788e5f7cb0b14"></a>
-
-## Monad Blitz Berlin Hackathon
-
-- Record: `w3v-monad-blitz-berlin-hackathon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-26T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/blitz-berlin-sep-2026>
-
-### About the event
-
-Monad Blitz is coming to Berlin!
-
-Monad Blitz is the longest running vibe-coding web3 hackathon where builders ship fast, learn by doing, and plug directly into the Monad ecosystem. Since launching in May 2025, we've taken 50+ editions of this high-energy one-day hackathon concept across the globe. Shanghai to San Francisco. Lagos to Lisbon.
-
-This isn't just a hackathon. It's a direct line into the heart of the Monad ecosystem, putting you in the same room as the founders, builders, and investors pushing it forward every day.
-
-Whether you're a seasoned onchain builder, a founder looking to ship something new, or a Web2 dev crypto-curious for the first time - Blitz is the best environment for you to experiment on Monad.
-
-### What to expect
-
-- A full day of focused building on Monad's high performance EVM.
-- $3,000 USD in prizes
-- Organic collisions with developers actively building in the ecosystem
-- A tight-knit builder community that ships fast and has fun doing it
-
-THE FLOW
-
-- Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.
-- Build: 7 hours of high-speed execution. Form a team or go solo.
-- Ship: Demo your MVP to the crowd.
-- Win: Claim your share of the $3,000
-
-Capacity is limited. Apply early to secure your spot.
-
-THE SCHEDULE
-
-- 9:00 AM - Registration & Breakfast
-- 10:00 AM - Welcome & Monad Blitz Introduction
-- 10:15 AM - Monad 101 Workshop
-- 11:15 AM - Hacking Begins
-- 1:00 PM - Lunch
-- 5:00 PM - Code Freeze
-- 5:30 PM - Submission Deadline
-- 6:00 PM - Pitches
-- 7:30 PM - Prizes, Networking & Closing Remarks
-
-[About Monad](https://www.monad.xyz/?utm_source=luma)
-
-Monad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).
-
-### About Monad Blitz
-
-Monad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad's high-performance EVM. We've traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.
-
-[About Encode Club](https://www.encodeclub.com/)
-
-Encode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.
-
-### Disclaimer
-
-By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
 
 <a id="event-8ce227e619cebbaa"></a>
 
@@ -70354,6 +69521,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-bead192ad4c1af59"></a>
+
+## Crecer en Estados Unidos
+
+- Record: `luma-evt-9Td57wWTKIEXHmC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-30T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2xyuqr16>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-166939ef5e13edf5"></a>
 
 ## Softstack TUM Blockchain Dinner
@@ -72251,6 +71430,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-54a74c236afb9ca0"></a>
+
+## An Evening at the US Embassy, London — Hosted by Lukka
+
+- Record: `w3v-an-evening-at-the-us-embassy-london--hosted-by-lukka`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T17:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/8zpe32j0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d284eaaa37a2c8e7"></a>
 
 ## Spearpoint Annual C-Suite Gathering
@@ -72394,6 +71585,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/kansas-city-open-source-meetup/events/317096562/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3e166bb99e9d9d6d"></a>
+
+## Signal Evening Reception @ DAS London
+
+- Record: `w3v-signal-evening-reception--das-london`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T18:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/j6gxeshu>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

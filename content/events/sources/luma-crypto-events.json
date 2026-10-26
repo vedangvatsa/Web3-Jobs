@@ -220,60 +220,6 @@
     }
   },
   {
-    "id": "luma-crypto-fRkk67UNiklXIIp",
-    "slug": "house-2",
-    "name": "House London #2 | Data Hackathon",
-    "description": "london has a housing crisis, the data to understand it, and argue for fixing it already exists\n\nHouse London is a one-day data sprint hosted at Newspeak House bringing together data scientists, urban planners, and policy thinkers to do one thing. take london's planning and housing data, and tell the most compelling and well-evidenced story you can with it,\n\nthis is House London #2, the third in a monthly series.\n\nno toy problems 🧸\n\njust real datasets, real inquiry and real answers. we're shaping policy briefs, dashboards and models that could actually shape how london gets built\n\n26 september 2026 | newspeak house, london | free entry",
-    "startDate": "2026-09-26T09:00:00.000Z",
-    "endDate": "2026-09-26T18:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK",
-    "url": "https://luma.com/tsjh0lm9",
-    "registrationUrl": "https://luma.com/tsjh0lm9",
-    "coverImage": "/events/luma-crypto-frkk67uniklxiip-efe3e8ca.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Jam Coombes"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Newspeak House",
-    "streetAddress": "133 Bethnal Grn Rd, London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5251662,
-      "longitude": -0.0713456
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "House London!",
-      "url": "https://house-london.uk/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/tsjh0lm9",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/tsjh0lm9",
-      "eventId": "evt-fRkk67UNiklXIIp",
-      "fetchedAt": "2026-09-19T23:46:07.656Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-oesgABTmPAizIxy",
     "slug": "byacfh",
     "name": "Build Your AI Co-Founder Hackathon",

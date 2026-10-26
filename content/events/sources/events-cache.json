@@ -369,121 +369,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-host-evt-evt-X2V7EOKGbPXL9Gv",
-    "name": "Monad Blitz Berlin Hackathon",
-    "description": "Monad Blitz is coming to Berlin!\n\nMonad Blitz is the longest running vibe-coding web3 hackathon where builders ship fast, learn by doing, and plug directly into the Monad ecosystem. Since launching in May 2025, we’ve taken 50+ editions of this high-energy one-day hackathon concept across the globe. Shanghai to San Francisco. Lagos to Lisbon.\n\nThis isn’t just a hackathon. It’s a direct line into the heart of the Monad ecosystem, putting you in the same room as the founders, builders, and investors pushing it forward every day.\n\nWhether you're a seasoned onchain builder, a founder looking to ship something new, or a Web2 dev crypto-curious for the first time — Blitz is the best environment for you to experiment on Monad.\n\nWhat to expect:\n\n• A full day of focused building on Monad's high performance EVM.\n• $3,000 USD in prizes\n• Organic collisions with developers actively building in the ecosystem\n• A tight-knit builder community that ships fast and has fun doing it\n\nTHE FLOW\n\n• Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.\n• Build: 7 hours of high-speed execution. Form a team or go solo.\n• Ship: Demo your MVP to the crowd.\n• Win: Claim your share of the $3,000\n\nCapacity is limited. Apply early to secure your spot.\n\nTHE SCHEDULE\n\n• 9:00 AM - Registration & Breakfast\n• 10:00 AM - Welcome & Monad Blitz Introduction\n• 10:15 AM - Monad 101 Workshop\n• 11:15 AM - Hacking Begins\n• 1:00 PM - Lunch\n• 5:00 PM - Code Freeze\n• 5:30 PM - Submission Deadline\n• 6:00 PM - Pitches\n• 7:30 PM - Prizes, Networking & Closing Remarks\n\n[About Monad](https://www.monad.xyz/?utm_source=luma)\n\nMonad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).\n\nAbout Monad Blitz\n\nMonad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad’s high-performance EVM. We’ve traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.\n\n[About Encode Club](https://www.encodeclub.com/)\n\nEncode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.\n\nDisclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-09-26T07:00:00.000Z",
-    "endDate": "2026-09-26T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "CIC Berlin, Lohmühlenstraße 65, 12435 Berlin-Bezirk Treptow-Köpenick, Germany",
-    "url": "https://lu.ma/blitz-berlin-sep-2026",
-    "coverImage": "/events/luma-host-evt-evt-x2v7eokgbpxl9gv-671c2464.webp",
-    "source": "luma-trusted",
-    "month": "September 2026",
-    "slug": "mbh",
-    "timezone": "Europe/Berlin",
-    "registrationUrl": "https://luma.com/blitz-berlin-sep-2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "CIC Berlin",
-    "addressLocality": "Berlin",
-    "addressRegion": "Berlin",
-    "addressCountry": "DE",
-    "neighborhood": "Berliner Innenstadt",
-    "coordinates": {
-      "latitude": 52.494036099999995,
-      "longitude": 13.446269599999999
-    },
-    "hosts": [
-      "Encode Club",
-      "Monad Foundation",
-      "AI Builders"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://www.encode.club/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/blitz-berlin-sep-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/blitz-berlin-sep-2026",
-      "eventId": "evt-X2V7EOKGbPXL9Gv",
-      "fetchedAt": "2026-09-19T23:49:53.317Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "w3v-monad-blitz-berlin-hackathon",
-    "name": "Monad Blitz Berlin Hackathon",
-    "description": "Monad Blitz is coming to Berlin!\n\nMonad Blitz is the longest running vibe-coding web3 hackathon where builders ship fast, learn by doing, and plug directly into the Monad ecosystem. Since launching in May 2025, we’ve taken 50+ editions of this high-energy one-day hackathon concept across the globe. Shanghai to San Francisco. Lagos to Lisbon.\n\nThis isn’t just a hackathon. It’s a direct line into the heart of the Monad ecosystem, putting you in the same room as the founders, builders, and investors pushing it forward every day.\n\nWhether you're a seasoned onchain builder, a founder looking to ship something new, or a Web2 dev crypto-curious for the first time — Blitz is the best environment for you to experiment on Monad.\n\nWhat to expect:\n\n• A full day of focused building on Monad's high performance EVM.\n• $3,000 USD in prizes\n• Organic collisions with developers actively building in the ecosystem\n• A tight-knit builder community that ships fast and has fun doing it\n\nTHE FLOW\n\n• Learn: Morning workshops and hands-on mentoring to get you up to speed on Monad.\n• Build: 7 hours of high-speed execution. Form a team or go solo.\n• Ship: Demo your MVP to the crowd.\n• Win: Claim your share of the $3,000\n\nCapacity is limited. Apply early to secure your spot.\n\nTHE SCHEDULE\n\n• 9:00 AM - Registration & Breakfast\n• 10:00 AM - Welcome & Monad Blitz Introduction\n• 10:15 AM - Monad 101 Workshop\n• 11:15 AM - Hacking Begins\n• 1:00 PM - Lunch\n• 5:00 PM - Code Freeze\n• 5:30 PM - Submission Deadline\n• 6:00 PM - Pitches\n• 7:30 PM - Prizes, Networking & Closing Remarks\n\n[About Monad](https://www.monad.xyz/?utm_source=luma)\n\nMonad is a highly performant and EVM compatible layer 1 blockchain. Re-inventing from the ground up, the innovations in both consensus and execution make it possible to achieve throughput up to 10,000 transactions per second (TPS).\n\nAbout Monad Blitz\n\nMonad Blitz is a high-energy, one-day hackathon series designed to empower builders on Monad’s high-performance EVM. We’ve traveled from Shenzhen to San Francisco, bringing together developers to learn, squad up, and ship real projects in a single day. With thousands of participants and hundreds of prototypes shipped to date, Blitz is the ultimate venue for fast execution and high-throughput results. Whether you're an EVM veteran or just starting out, this is your invitation to build the future on Monad.\n\n[About Encode Club](https://www.encodeclub.com/)\n\nEncode Club is London's leading community for founders and builders in AI and Web3. With weekly events, [hackathons, and accelerator programmes, and the Encode Hub](https://hub.encodeclub.com/) coworking space in Shoreditch, it's where ambitious founders come to learn, connect, and grow.\n\nDisclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-09-26T07:00:00.000Z",
-    "endDate": "2026-09-26T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "CIC Berlin, Lohmühlenstraße 65, 12435 Berlin-Bezirk Treptow-Köpenick, Germany",
-    "url": "https://luma.com/blitz-berlin-sep-2026",
-    "coverImage": "/events/luma-recover-w3vmonadblitzber-fc52fea0.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Encode Club",
-      "Monad Foundation",
-      "AI Builders"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Berlin",
-    "neighborhood": "Berliner Innenstadt",
-    "slug": "mbh",
-    "registrationUrl": "https://luma.com/blitz-berlin-sep-2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "CIC Berlin",
-    "addressLocality": "Berlin",
-    "addressRegion": "Berlin",
-    "addressCountry": "DE",
-    "coordinates": {
-      "latitude": 52.494036099999995,
-      "longitude": 13.446269599999999
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://www.encode.club/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/blitz-berlin-sep-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/blitz-berlin-sep-2026",
-      "eventId": "evt-X2V7EOKGbPXL9Gv",
-      "fetchedAt": "2026-09-19T23:49:53.317Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-cryptocurrency-artificial-intelligence",
     "name": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning (ICCAIML)",
     "description": "International Conference on Cryptocurrency, Artificial Intelligence and Machine Learning scheduled on September 27-28, 2026 at Kowloon, Hong Kong is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events, meetings, seminars, congresses, workshops, summit, and symposiums.",
@@ -19472,7 +19357,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -20110,7 +19995,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": "/events/ma-european-blockchain-convention-2027-638f6cd3.webp",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22242,7 +22127,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
-    "coverImage": "/events/mu-316802775-00c0322a.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -22769,7 +22654,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316749553-4ef65602.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28970,7 +28855,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261026%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T113525Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3575d21a8e659839e871b128d26f4f6e08fd21de54f7bd01ecf7dbe52151838b",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261026%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261026T194239Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=dea7892e8cafd8a7db53fbd4006d7f611d249e7947a6501524cd32cc135b396a",
     "month": "November 2026"
   },
   {
@@ -29297,5 +29182,45 @@
     "coverImage": "/events/w3v-blockdown-dubai-27-01-26-4f40b80f.webp",
     "source": "marketacross",
     "month": "January 2027"
+  },
+  {
+    "id": "luma-evt-9Td57wWTKIEXHmC",
+    "name": "Crecer en Estados Unidos",
+    "description": "",
+    "startDate": "2026-10-30T14:00:00.000Z",
+    "endDate": "2026-10-30T15:30:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/2xyuqr16",
+    "coverImage": "/events/luma-evt-9td57wwtkiexhmc-75446591.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "w3v-an-evening-at-the-us-embassy-london--hosted-by-lukka",
+    "name": "An Evening at the US Embassy, London — Hosted by Lukka",
+    "description": "An Evening at the US Embassy, London: an invite-only DAS reception by Lukka for institutional digital asset leaders.",
+    "startDate": "2026-11-09T17:30:00.000Z",
+    "endDate": "2026-11-09T19:30:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/8zpe32j0",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-signal-evening-reception--das-london",
+    "name": "Signal Evening Reception @ DAS London",
+    "description": "Signal Evening Reception: a free networking evening for founders, operators and investors across AI, digital assets and deeptech.",
+    "startDate": "2026-11-11T18:30:00.000Z",
+    "endDate": "2026-11-11T21:00:00.000Z",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://luma.com/j6gxeshu",
+    "coverImage": null,
+    "month": "November 2026"
   }
 ]
