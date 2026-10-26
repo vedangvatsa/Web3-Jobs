@@ -2,7 +2,8 @@
 
 import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
-import { X } from 'lucide-react';
+import { Facebook, Linkedin, X } from 'lucide-react';
+import { XBrandIcon } from '@/components/x-brand-icon';
 import { buttonVariants } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
@@ -59,6 +60,18 @@ export function PromoPopup() {
             Web3 Job Feed
           </a>
           <a
+            href="https://t.me/eventsweb3?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={dismiss}
+            className={cn(
+              buttonVariants({ variant: 'outline' }),
+              'h-10 w-full border-zinc-200 text-zinc-900 hover:bg-zinc-50 hover:text-zinc-900'
+            )}
+          >
+            Web3 Events Feed
+          </a>
+          <a
             href="https://t.me/web3newsfeed?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
             target="_blank"
             rel="noopener noreferrer"
@@ -81,6 +94,42 @@ export function PromoPopup() {
             )}
           >
             Web3 Networking Group
+          </a>
+        </div>
+
+        <div className="mt-4 flex items-center justify-center gap-4 border-t border-zinc-100 pt-3.5">
+          <a
+            href="https://www.linkedin.com/company/hashtagweb3"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={dismiss}
+            className="flex h-8 w-8 items-center justify-center rounded-full text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-900"
+            aria-label="Follow us on LinkedIn"
+          >
+            <Linkedin size={18} />
+            <span className="sr-only">LinkedIn</span>
+          </a>
+          <a
+            href="https://x.com/hashtag_web3"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={dismiss}
+            className="flex h-8 w-8 items-center justify-center rounded-full text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-900"
+            aria-label="Follow us on X"
+          >
+            <XBrandIcon size={18} />
+            <span className="sr-only">X (formerly Twitter)</span>
+          </a>
+          <a
+            href="https://www.facebook.com/hashtagweb3"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={dismiss}
+            className="flex h-8 w-8 items-center justify-center rounded-full text-zinc-500 transition-colors hover:bg-zinc-100 hover:text-zinc-900"
+            aria-label="Follow us on Facebook"
+          >
+            <Facebook size={18} />
+            <span className="sr-only">Facebook</span>
           </a>
         </div>
       </div>
