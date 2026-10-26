@@ -57653,7 +57653,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "c3a2f4e2-d8e6-4c91-9cfa-77166743626f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb2c7cbbf8ca9eed7b1e8f44ea9a5e8b33568d651"
     }
   ]
 }
