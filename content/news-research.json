@@ -86611,11 +86611,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "17a8f9a95cc01c030701",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T18:39:02.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "duplicate",
+      "note": "Same Oct. 23 Initia halt and exploit already covered in depth by the initiareserve draft; Cointelegraph reports the same halt time, Spreek's .6M estimate and the AUSD/ETH/USDC outflows.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T04:10:06.477Z",
+      "duplicateOf": "initiareserve",
+      "mergedInto": "c7058b7d5e4bc7b21cda",
+      "lastReviewedDay": "2026-10-26"
     },
     "ee528bb2c49cb1b576e3": {
       "source": "The Defiant",
@@ -163046,6 +163058,20 @@
           ],
           "reviewedAt": "2026-10-26T04:09:39.149Z",
           "articleSlug": "dogebrandlicense"
+        },
+        "17a8f9a95cc01c030701": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct. 23 Initia halt and exploit already covered in depth by the initiareserve draft; Cointelegraph reports the same halt time, Spreek's .6M estimate and the AUSD/ETH/USDC outflows.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T04:10:06.477Z",
+          "duplicateOf": "initiareserve",
+          "mergedInto": "c7058b7d5e4bc7b21cda"
         }
       },
       "baselineSlugs": [
