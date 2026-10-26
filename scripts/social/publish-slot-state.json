@@ -8,7 +8,7 @@
     "afternoon": "2026-10-15",
     "evening": "2026-10-24"
   },
-  "deployed": "2026-10-24",
+  "deployed": "2026-10-26",
   "ingested": "2026-10-26",
   "dailyDeployments": {
     "2026-10-23": [
@@ -95,10 +95,12 @@
           "novatechjudgment",
           "bokforex"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-10-25T05:24:57.971Z",
         "buildId": "daily-20261025-40164272326-1",
-        "rolloutId": "daily-20261025-40164272326-1"
+        "rolloutId": "daily-20261025-40164272326-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-10-25T05:54:38.132Z"
       }
     ]
   }
