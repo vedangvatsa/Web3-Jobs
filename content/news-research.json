@@ -86595,11 +86595,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "50b17c18638e06557ef6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T20:36:59.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "out-of-scope",
+      "note": "A Yemen missile malfunction and Houthi military capabilities are not Web3, crypto or blockchain news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-26T04:10:31.287Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "17a8f9a95cc01c030701": {
       "source": "Cointelegraph",
@@ -163084,6 +163089,13 @@
           "note": "Meta's acquisition of AI data platform Sundial is an AI/analytics deal with no Web3, crypto or blockchain angle for this site.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-26T04:10:28.764Z"
+        },
+        "50b17c18638e06557ef6": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "A Yemen missile malfunction and Houthi military capabilities are not Web3, crypto or blockchain news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-26T04:10:31.287Z"
         }
       },
       "baselineSlugs": [
