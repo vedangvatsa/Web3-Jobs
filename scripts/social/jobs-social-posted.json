@@ -56593,6 +56593,38 @@
       "postId": "17998627587022463",
       "permalink": "https://www.threads.com/@hashtagweb3/post/De8U1iFDcqR",
       "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls192",
+      "company": "CertiK",
+      "title": "Strategic Account Executive, Financial Institutions, Brazil",
+      "platform": "bluesky",
+      "postedAt": "2026-10-26T03:32:49.053Z",
+      "expectedText": "CertiK is hiring Strategic Account Executive, Financial Institutions, Brazil: https://hashtagweb3.com/sls192/bsky?og=7",
+      "snapshot": {
+        "id": "88a8115f-b52b-4667-9393-e1f506911e6b",
+        "title": "Strategic Account Executive, Financial Institutions, Brazil",
+        "company": "CertiK",
+        "link": "https://jobs.lever.co/certik/88a8115f-b52b-4667-9393-e1f506911e6b",
+        "date": "2026-09-30T16:10:02.112Z",
+        "source": "Lever: CertiK [certik]",
+        "location": "Remote (Brazil)",
+        "workplaceType": "remote",
+        "department": "Business Development",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls192"
+      },
+      "payload": {
+        "text": "CertiK is hiring Strategic Account Executive, Financial Institutions, Brazil: https://hashtagweb3.com/sls192/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls192/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls192.png?v=7",
+        "company": "CertiK",
+        "title": "Strategic Account Executive, Financial Institutions, Brazil",
+        "description": "Join CertiK as Strategic Account Executive, Finan. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "64005a67-aa0c-481d-bb01-ed1a23d08077",
+      "verification": "creating"
     }
   ]
 }
