@@ -8596,5 +8596,122 @@
     "slotKey": "2026-10-26:evening",
     "messageId": 16573,
     "sentAt": "2026-10-26T19:39:34.189Z"
+  },
+  "974ac951-4a43-4d41-a3d5-b24183eefd5b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T19:39:36.737Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a733fe08-8d7f-4f4e-ae26-57d83b1716c6",
+          "title": "Developer Advocate, Data Platform",
+          "company": "Helius",
+          "link": "https://jobs.ashbyhq.com/Helius/a733fe08-8d7f-4f4e-ae26-57d83b1716c6",
+          "date": "2026-10-13T03:31:31.752+00:00",
+          "source": "Ashby: Helius [Helius]",
+          "location": "Remote",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Developer Relations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dev31"
+        },
+        "key": "a733fe08-8d7f-4f4e-ae26-57d83b1716c6",
+        "slug": "dev31",
+        "url": "https://hashtagweb3.com/dev31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Developer Advocate"
+      },
+      {
+        "snapshot": {
+          "id": "744000157492068",
+          "title": "SEO Specialist",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000157492068-seo-specialist",
+          "date": "2026-10-23T14:13:46.268Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Novi Sad, Vojvodina, Serbia",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ss3"
+        },
+        "key": "744000157492068",
+        "slug": "ss3",
+        "url": "https://hashtagweb3.com/ss3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "SEO Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
+          "title": "Senior Backend Engineer | Token Spend Management",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
+          "date": "2026-10-20T13:40:20.264+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be84"
+        },
+        "key": "b7514711-8a29-4bd2-a97a-967be14e336f",
+        "slug": "be84",
+        "url": "https://hashtagweb3.com/be84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Backend Engineer | Token Spend Management"
+      },
+      {
+        "snapshot": {
+          "id": "95a0ff9e-835b-4a6e-95f9-a24ff8911ec8",
+          "title": "Staff Engineer",
+          "company": "Aspora",
+          "link": "https://jobs.ashbyhq.com/Aspora/95a0ff9e-835b-4a6e-95f9-a24ff8911ec8",
+          "date": "2026-10-13T10:06:52.523+00:00",
+          "source": "Ashby: Aspora [Aspora]",
+          "location": "Bangalore",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng446"
+        },
+        "key": "95a0ff9e-835b-4a6e-95f9-a24ff8911ec8",
+        "slug": "eng446",
+        "url": "https://hashtagweb3.com/eng446?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aspora",
+        "title": "Staff Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8226689",
+          "title": "Crypto Product Compliance Lead",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8226689?t=gh_src=&gh_jid=8226689",
+          "date": "2026-09-28T02:40:31-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "[INACTIVE] Crypto Compliance",
+          "active": true,
+          "salary": "$141k – $165k/yr",
+          "dateVerified": true,
+          "slug": "pm125"
+        },
+        "key": "8226689",
+        "slug": "pm125",
+        "url": "https://hashtagweb3.com/pm125?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Crypto Product Compliance Lead"
+      }
+    ],
+    "message": "- Helius is hiring <a href=\"https://hashtagweb3.com/dev31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Advocate, Data Platform</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/ss3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">SEO Specialist</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be84?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer | Token Spend Management</a>\n- Aspora is hiring <a href=\"https://hashtagweb3.com/eng446?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm125?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Crypto Product Compliance Lead</a>",
+    "slotKey": "2026-10-26:evening"
   }
 }
