@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-25T21:57:20.980Z",
+  "generatedAt": "2026-10-26T03:32:28.084Z",
   "items": [
+    {
+      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 26 Oct 2026 03:21:26 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
+      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 26 Oct 2026 02:24:04 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 26 Oct 2026 00:13:29 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffir...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 25 Oct 2026 22:48:40 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ s...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
       "link": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
@@ -24,14 +56,6 @@
       "creator": "Staff",
       "contentSnippet": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-      "link": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-      "pubDate": "Sun, 25 Oct 2026 15:56:30 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
-      "source": "The Block"
     },
     {
       "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
@@ -482,36 +506,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets ",
-      "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 22 Oct 2026 17:24:49 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition ",
-      "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 22 Oct 2026 16:50:51 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing eq...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
       "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
       "pubDate": "Thu, 22 Oct 2026 16:31:07 +0000",
       "creator": "Staff",
       "contentSnippet": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Eth...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower ",
-      "link": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 22 Oct 2026 16:20:35 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump’s comments on Iran military action.",
-      "source": "Cointelegraph"
     },
     {
       "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
