@@ -2284,5 +2284,36 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 155926,
     "sentAt": "2026-10-25T19:41:47.257Z"
+  },
+  "2835d6b3-44a9-46a2-991a-9d4c45e4c210": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T11:36:24.995Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Dogecoin Foundation terminates House of Doge trademark license",
+        "summary": "Both entities must rename by December 31, and the subsidiary will pay $400,000 following the contract termination.",
+        "link": "https://hashtagweb3.com/dogebrandlicense?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Dogecoin Foundation ends exclusive House of Doge trademark license"
+      },
+      {
+        "index": -1,
+        "headline": "Evernorth to sell shares for $80.7 million XRP purchase",
+        "summary": "The company will sell over five million shares to a Cantor Fitzgerald affiliate to increase its XRP holdings.",
+        "link": "https://hashtagweb3.com/evernorthcantor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Evernorth signs Cantor equity facility to fund XRP purchases"
+      },
+      {
+        "index": -1,
+        "headline": "Fifteen firms adopt Tether's Bitcoin mining software kit",
+        "summary": "These companies will integrate Tether's open-source tools to manage mining hardware using shared software and AI.",
+        "link": "https://hashtagweb3.com/tethermdk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether says 15 mining firms back its MDK automation layer for Bitcoin mines"
+      }
+    ],
+    "slotKey": "2026-10-26:afternoon"
   }
 }
