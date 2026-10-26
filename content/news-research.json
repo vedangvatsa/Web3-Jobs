@@ -86511,11 +86511,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "397f501b9f7e88a04243",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T06:38:41.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "promotional",
+      "note": "CryptoSlate labels this paid partner content from JustLend DAO; the piece promotes the JST buyback upgrade with no independent reporting.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T04:13:53.983Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "1d7c4299fa8c99060c5f": {
       "source": "Crypto Briefing",
@@ -163108,6 +163118,18 @@
           "note": "The Crypto Briefing piece is market analysis and commentary on AI job-displacement risk and Anthropic's outlook, not a concrete event with a verifiable primary source.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-26T04:10:34.292Z"
+        },
+        "397f501b9f7e88a04243": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "CryptoSlate labels this paid partner content from JustLend DAO; the piece promotes the JST buyback upgrade with no independent reporting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T04:13:53.983Z"
         }
       },
       "baselineSlugs": [
