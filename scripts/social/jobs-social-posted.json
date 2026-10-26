@@ -58408,7 +58408,8 @@
       },
       "account": "profile",
       "attemptId": "f0df6ca8-95bf-4023-9c05-74c8a7c9ceb4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfa016dc87139ce364229b50837826dba6af62757"
     }
   ]
 }
