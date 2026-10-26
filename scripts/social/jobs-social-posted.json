@@ -228,7 +228,8 @@
     "be84",
     "wr9",
     "ops32",
-    "dpo"
+    "dpo",
+    "sls192"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -304,8 +305,7 @@
     "sc",
     "aso42",
     "sec116",
-    "be79",
-    "sls192"
+    "be79"
   ],
   "history": [
     {
