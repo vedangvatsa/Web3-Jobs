@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-26",
+    "threadId": "N03",
+    "sequence": 9,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "2c2414e0ba8163da682b4e34997d7db0b694fdecf3b84589c51714a5aac7293b",
+    "sourcePostHashes": [
+      "f4aab596cc460d286a9f83d6e9b6afcb8109809153dc0d8625eb238d80716fba",
+      "4fe6f7e9d42f6a1de6327c7eb321959ddefc99cdb39756ee842e5f4e1021ccae",
+      "2555c04da074591a0b77b1822c02781f83d83161b7192ec41feef4f120ea86bc",
+      "7a817ce91003892e331978a3a03652331706558955dba8f13cad3e9ae04ba4b9",
+      "b1393c804e5d43762458e9126dca25e1e236ab2f892fa754a5019b6c950a2e91",
+      "fbafde7d9e227d24115a61f22fd74d8c4b094209fe1d2f633e9d21249e931a50"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-01.jpg",
+        "sha256": "84b99571cf6854e13fe5f927f4eb12acfbe877ff1334b3b13e0f077722d095bd",
+        "bytes": 127042,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Solidity interview question SOL-F-04 asks the purpose of view and pure functions. The answer distinguishes an off-chain eth_call, with no network transaction fee, from the same computation inside a transaction, which uses gas. Scope: EVM and Solidity 0.8.x.",
+        "renderedText": "Solidity interviews\n\nFive Solidity questions, answered\n\nSolidity 0.8.x · EVM · Interview bank\n\nAnswer\n\nOff-chain eth_call has no network transaction fee. The same computation inside a transaction uses gas.\n\nHashtag Web3 interview bank\n\nN03 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-02.jpg",
+        "sha256": "f87842984e392c8342e7ee3aa98a2145ce71ec097141c6f1562cb158607f210a",
+        "bytes": 145253,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question SOL-F-01 compares Solidity data locations. storage persists between calls; memory is writable temporary space for a call; calldata is read-only argument data. Use calldata for reference-type inputs that do not need modification.",
+        "renderedText": "Solidity interviews\n\nPersistent, writable temporary, read-only\n\nAnswer\n\nstorage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.\n\nHashtag Web3 interview bank\n\nN03 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-03.jpg",
+        "sha256": "676466635cb6ef4d6d8ca3f42951cd82b86ccdbf3357ee75793c866011d327ba",
+        "bytes": 160930,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question SOL-F-02 with an example modifier: modifier onlyOwner() { require(msg.sender == owner); _; }. The caller check runs before the function body; _; runs the body, then any following code executes. This fragment assumes owner is defined and initialized.",
+        "renderedText": "Solidity interviews\n\nWhat _; does in a modifier\n\nExample modifier\n\nmodifier onlyOwner() {\n  require(msg.sender == owner);\n  _;\n}\n\nThe caller check runs before the function body.\n_; runs the body; code after it runs afterward.\n\nThe example assumes owner is defined and initialized; it is a modifier fragment, not a complete ownership contract.\n\nHashtag Web3 interview bank\n\nN03 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-04.jpg",
+        "sha256": "97923e6568be3c100fd49d4aff7ecdde7a9cb5fc1a563cd10b430971265405e1",
+        "bytes": 133958,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question SOL-F-04 compares view and pure functions. view may read state but cannot modify it; pure may neither read nor modify state. Both execute instructions. Off-chain eth_call has no network transaction fee; execution inside a transaction consumes gas.",
+        "renderedText": "Solidity interviews\n\nRead-only does not mean zero computation\n\nAnswer\n\nview may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.\n\nHashtag Web3 interview bank\n\nN03 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-05.jpg",
+        "sha256": "4ef04215f8caf64357231303f52165271193d7e5dda950869183b5d66d2fa616",
+        "bytes": 145756,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question SOL-I-02 on upgradeable proxies and delegatecall. Implementation code uses the proxy's storage and address while preserving msg.sender and msg.value. Upgrades change the implementation pointer; the storage layout must remain compatible.",
+        "renderedText": "Solidity interviews\n\nNew logic, same proxy state\n\nAnswer\n\nImplementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.\n\nHashtag Web3 interview bank\n\nN03 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N03-06.jpg",
+        "sha256": "73f63d43a399ad236cb34c75baef062d78b94919a12f30dc31cc5663df8cc4b1",
+        "bytes": 180310,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Interview question SOL-I-03 and storage-packing example. Each box is a 32-byte slot. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes; gas depends on access patterns. Do not reorder existing fields in a deployed proxy's storage layout.",
+        "renderedText": "Solidity interviews\n\nStorage packing: 2 or 3 slots\n\nExample · Each box is 32 bytes\n\n2 slots\n\n2 × uint128\n\nuint256\n\n3 slots\n\nuint128\n\nuint256\n\nuint128\n\nFewer slots do not guarantee cheaper writes; gas depends on access patterns.\n\nDo not reorder existing fields in a deployed proxy implementation's storage layout.\n\nHashtag Web3 interview bank\n\nN03 · 6/6"
+      }
+    ],
+    "assetCommit": "ee54296d49b20b8504a3533684b67f81edea412b",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "A view function can cost gas, and a packed struct can cost more to update.\n\nFive Solidity interview questions with short answers for the EVM and Solidity 0.8.x.\n\n1. Q: How do storage, memory and calldata differ?\n\nA: storage persists between calls. memory is writable scratch space for a call. calldata is read-only argument data. Use calldata for reference-type inputs you do not need to modify.\n\n2. Q: What is a modifier?\n\nA: Reusable logic around a function body. Example: onlyOwner runs require(msg.sender == owner) before _;. The _; placeholder runs the body; code after it runs afterward.\n\n3. Q: What are view and pure for?\n\nA: view may read state but cannot modify it. pure may neither read nor modify state. An off-chain eth_call pays no network fee; execution inside a transaction still consumes gas.\n\n4. Q: How does delegatecall enable upgrades?\n\nA: Implementation code uses the proxy's storage and address, preserving msg.sender and msg.value. Upgrades change the implementation pointer; storage layout must stay compatible.\n\n5. Q: How should you order struct fields for storage packing?\n\nA: Group fields that fit in 32 bytes. uint128, uint128, uint256 uses 2 slots; uint128, uint256, uint128 uses 3. Fewer slots do not guarantee cheaper writes.\n\nFull resource: hashtagweb3.com/interview-questions/li",
+    "title": "Five Solidity interview questions with short answers",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/N03/linkedin.pdf",
+      "sha256": "b9a389b1ac267c768c0019dad401bdb07b5eebe9cb352cec20fdf4afca4e53dc",
+      "bytes": 897072,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/ee54296d49b20b8504a3533684b67f81edea412b/social-assets/knowledge-threads-month/exports/N03/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/N03/cover.jpg",
+      "sha256": "84b99571cf6854e13fe5f927f4eb12acfbe877ff1334b3b13e0f077722d095bd",
+      "bytes": 127042,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Solidity interview question SOL-F-04 asks the purpose of view and pure functions. The answer distinguishes an off-chain eth_call, with no network transaction fee, from the same computation inside a transaction, which uses gas. Scope: EVM and Solidity 0.8.x.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/ee54296d49b20b8504a3533684b67f81edea412b/social-assets/knowledge-threads-month/exports/N03/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "8cda2422-85d1-4acc-a3d8-638c7f0ab267",
+  "startedAt": "2026-10-26T11:31:32.266Z",
+  "status": "claimed"
+}
