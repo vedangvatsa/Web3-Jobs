@@ -57301,7 +57301,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "4f0df310-0d5e-42f7-a179-8f6a15f31ffb",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6adeca910b5343d07008fc1c"
     }
   ]
 }
