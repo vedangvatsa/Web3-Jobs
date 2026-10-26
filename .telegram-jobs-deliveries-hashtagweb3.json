@@ -4520,7 +4520,7 @@
     "sentAt": "2026-10-25T19:32:34.323Z"
   },
   "76836253-fd06-42b0-8fd2-7b427ae65f7d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T03:34:14.365Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4611,6 +4611,8 @@
       }
     ],
     "message": "- DV Trading is hiring <a href=\"https://hashtagweb3.com/eng578?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Graduate Software Engineer (DV Commodities)</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/psc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payroll Specialist - US/Canada</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/be28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Production Support Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rs12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Rust Developer, Exchange OS Trading Engine</a>",
-    "slotKey": "2026-10-26:morning"
+    "slotKey": "2026-10-26:morning",
+    "messageId": 155928,
+    "sentAt": "2026-10-26T03:34:21.192Z"
   }
 }
