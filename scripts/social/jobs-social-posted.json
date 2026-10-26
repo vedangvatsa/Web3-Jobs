@@ -57977,7 +57977,8 @@
       },
       "account": "channel:ai",
       "attemptId": "fed7dd13-ccf1-4a77-9b04-3eb528984188",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc80102685d8caf9fea56fa48b1cd451aadfafe5e"
     }
   ]
 }
