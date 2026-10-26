@@ -56903,7 +56903,8 @@
       },
       "account": "channel:build",
       "attemptId": "0d26c672-e478-4ed4-b03d-c7ada6dc7dfb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2ccbd6dc169a13db3c11ad554d9b90edeef76af2"
     }
   ]
 }
