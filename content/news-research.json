@@ -86418,9 +86418,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "afb3003080e5d69f10e9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-26T09:50:04.000Z",
       "lastSeenAt": "2026-10-24T08:24:01.469Z",
       "articleSlug": "bybitvara",
@@ -86442,7 +86442,33 @@
         "updatedAt": "2026-10-26T03:38:02.795Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified against VARA's public register entry for Bybit Fintech FZE (VL/26/10/003, Exchange Services, active), Cointelegraph's launch-process reporting, crypto.news's full write-up and TokenPost's issue-date note. Bybit press page read via WebFetch but excluded from citations because curl could not reach it. Drafted content/articles/bybitvara.md (600+ words per audit) with self-hosted compressed hero; audits clean; outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.vara.ae/en/licenses-and-register/public-register/bybit-fintech-fze-bybit/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/bybit-dubai-vara-licence-spot-trading/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/39276",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bybit.com/en/press/post/bybit-secures-vara-licence-for-exchange-services-in-dubai-bb294dd6a0a381467c8",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:51:27.851Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "3068b0dd026bfcf57397": {
       "source": "Crypto Briefing",
@@ -91213,9 +91239,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7058b7d5e4bc7b21cda",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T19:45:11.000Z",
       "lastSeenAt": "2026-10-26T03:32:25.985Z",
       "articleSlug": "initiareserve",
@@ -91241,7 +91267,25 @@
         "updatedAt": "2026-10-26T03:37:54.888Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Oct. 23 Initia exploit against Bitquery's full on-chain investigation, CryptoSlate's reserve reporting and Phemex's summary of Initia's own disclosure. Figures match across sources: $7.48M printed, $2.73M real coins out, Noble reserve $1.09M to $63, chain halted 15:41:30 UTC. Drafted content/articles/initiareserve.md (682 words) with self-hosted compressed hero; quality, images, formatting, duplicates and tsc audits clean; all outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitquery.io/investigations/initia-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://phemex.com/news/article/initia-reveals-attack-details-movevm-script-caching-flaw-led-to-27m-theft-100894",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:51:27.850Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "ea14b8c2273179ada019": {
       "source": "CryptoSlate",
@@ -91258,9 +91302,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea14b8c2273179ada019",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T21:30:07.000Z",
       "lastSeenAt": "2026-10-26T03:32:25.985Z",
       "articleSlug": "tethermdk",
@@ -91282,7 +91326,21 @@
         "updatedAt": "2026-10-26T03:38:10.873Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified Tether's Oct. 24 MDK announcement (15 named participants, Worker model, Ardoino quote, v0.11 timing, 1.0 target) and CryptoSlate's code-level review of the v0.11 approval and Worker security model. Drafted content/articles/tethermdk.md (750 words) with self-hosted compressed hero; audits clean; outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://tether.io/news/tethers-mdk-gains-broad-industry-backing-to-accelerate-the-next-generation-of-bitcoin-mining-automation/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:51:27.851Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "8f6cc0e3df5830765eb8": {
       "source": "Crypto Briefing",
@@ -91423,11 +91481,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "98bbfbf8f6a68b530790",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-28T19:04:45.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "reason": "opinion",
+      "note": "Read in full. Single-source report of a Token2049 keynote (Oct 8) published Oct 25; the central claim is Muneeb Ali's personal timeline prediction for a Bitcoin post-quantum upgrade, not a scheduled protocol event, vote or release. No independent corroboration located.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/muneeb-ali-bitcoin-post-quantum-timeline/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:42:38.325Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "5871d9f075d902b14784": {
       "source": "The Defiant",
@@ -162689,6 +162757,85 @@
             }
           ],
           "reviewedAt": "2026-10-26T03:42:36.037Z"
+        },
+        "98bbfbf8f6a68b530790": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read in full. Single-source report of a Token2049 keynote (Oct 8) published Oct 25; the central claim is Muneeb Ali's personal timeline prediction for a Bitcoin post-quantum upgrade, not a scheduled protocol event, vote or release. No independent corroboration located.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/muneeb-ali-bitcoin-post-quantum-timeline/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:42:38.325Z"
+        },
+        "c7058b7d5e4bc7b21cda": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct. 23 Initia exploit against Bitquery's full on-chain investigation, CryptoSlate's reserve reporting and Phemex's summary of Initia's own disclosure. Figures match across sources: $7.48M printed, $2.73M real coins out, Noble reserve $1.09M to $63, chain halted 15:41:30 UTC. Drafted content/articles/initiareserve.md (682 words) with self-hosted compressed hero; quality, images, formatting, duplicates and tsc audits clean; all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/initia-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://phemex.com/news/article/initia-reveals-attack-details-movevm-script-caching-flaw-led-to-27m-theft-100894",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:51:27.850Z",
+          "articleSlug": "initiareserve"
+        },
+        "ea14b8c2273179ada019": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Tether's Oct. 24 MDK announcement (15 named participants, Worker model, Ardoino quote, v0.11 timing, 1.0 target) and CryptoSlate's code-level review of the v0.11 approval and Worker security model. Drafted content/articles/tethermdk.md (750 words) with self-hosted compressed hero; audits clean; outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://tether.io/news/tethers-mdk-gains-broad-industry-backing-to-accelerate-the-next-generation-of-bitcoin-mining-automation/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:51:27.851Z",
+          "articleSlug": "tethermdk"
+        },
+        "afb3003080e5d69f10e9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified against VARA's public register entry for Bybit Fintech FZE (VL/26/10/003, Exchange Services, active), Cointelegraph's launch-process reporting, crypto.news's full write-up and TokenPost's issue-date note. Bybit press page read via WebFetch but excluded from citations because curl could not reach it. Drafted content/articles/bybitvara.md (600+ words per audit) with self-hosted compressed hero; audits clean; outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.vara.ae/en/licenses-and-register/public-register/bybit-fintech-fze-bybit/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/bybit-dubai-vara-licence-spot-trading/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/39276",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bybit.com/en/press/post/bybit-secures-vara-licence-for-exchange-services-in-dubai-bb294dd6a0a381467c8",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:51:27.851Z",
+          "articleSlug": "bybitvara"
         }
       },
       "baselineSlugs": [
