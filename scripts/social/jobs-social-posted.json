@@ -56693,7 +56693,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "e2fe032d-26bb-49f2-b089-5a8e8699518e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x75e9e4b0aa100e0f5f0873122982ad74af964aa9"
     }
   ]
 }
