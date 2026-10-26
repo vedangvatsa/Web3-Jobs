@@ -57113,7 +57113,8 @@
       },
       "account": "channel:ai",
       "attemptId": "eb465b6d-ac31-4995-971b-3d9c8790cdee",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x397bde1c25be842aed5232677cb2815b5c2782d7"
     }
   ]
 }
