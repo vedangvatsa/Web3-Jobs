@@ -86485,11 +86485,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3068b0dd026bfcf57397",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T08:04:59.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "reason": "opinion",
+      "note": "The Crypto Briefing piece is market analysis and commentary on AI job-displacement risk and Anthropic's outlook, not a concrete event with a verifiable primary source.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-26T04:10:34.292Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "397f501b9f7e88a04243": {
       "source": "CryptoSlate",
@@ -163096,6 +163101,13 @@
           "note": "A Yemen missile malfunction and Houthi military capabilities are not Web3, crypto or blockchain news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-26T04:10:31.287Z"
+        },
+        "3068b0dd026bfcf57397": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "The Crypto Briefing piece is market analysis and commentary on AI job-displacement risk and Anthropic's outlook, not a concrete event with a verifiable primary source.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-26T04:10:34.292Z"
         }
       },
       "baselineSlugs": [
