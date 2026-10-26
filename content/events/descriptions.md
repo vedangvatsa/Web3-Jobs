@@ -27749,140 +27749,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
 
-<a id="event-a0e4b59f15dfeb08"></a>
-
-## Team1 Codebase Hackathon : Chula Edition
-
-- Record: `luma-batch-MAlISrCgxnDFq3i`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T02:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nd66d2eg>
-
-### About the event
-
-Welcome to Team1 Hackathon: Chula Edition
-
-หนึ่งวันเต็มสำหรับ Web3 Builder ที่จุฬาลงกรณ์มหาวิทยาลัย ลงมือเขียนโค้ดจริง รับคำปรึกษาจาก Mentor ขึ้นเวที Pitch ชิงเงินรางวัลรวม 600 USD พร้อมอาหารและเครื่องดื่ม
-
-งานนี้สำหรับคนที่เขียนโค้ดได้แล้ว ไม่ใช่ workshop สำหรับผู้เริ่มต้น ใช้ AI ช่วยเขียนได้เต็มที่ เราสนับสนุนด้วยซ้ำ สิ่งที่สำคัญคือคุณพาไอเดียไปได้ไกลแค่ไหนในหนึ่งวัน
-
-แทร็กการแข่งขัน
-
-เลือกได้มากกว่าหนึ่งแทร็ก ผู้ชนะรางวัลใหญ่ยังมีสิทธิ์ได้รางวัลแทร็กด้วย
-
-AI Agent - DeFi - Consumer App - RWA - Gaming - Data
-
-เงินรางวัล รวม 600 USD 10 รางวัล
-
-รางวัลที่ 1: $150รางวัลที่ 2: $100ผู้ชนะแต่ละแทร็ก: $50 ทั้ง 6 แทร็กรางวัลคอนเทนต์ยอดเยี่ยม: $50 ($25 x 2)
-
-เครื่องมือฟรีสำหรับผู้เข้าร่วมทุกคน
-
-Tokenomist มอบสิทธิ์ใช้งานแพลตฟอร์มPro 3 เดือน (ปกติ $99/เดือน) ให้นักศึกษาทุกคน เข้ากลุ่ม Telegram ของ Team1 Thailand เพื่อรับสิทธิ์ล่วงหน้า จะได้พร้อมใช้งานตั้งแต่วันงาน: https://t.me/Team1TH
-
-เหมาะกับใคร
-
-Developer และ Builder ที่อยากสร้าง dApp บน AvalancheDesigner และ Creator ที่อยากร่วมทีมออกแบบประสบการณ์ใช้งานนิสิตนักศึกษาและ Web3 Builder ที่มองหาเพื่อนร่วมทีมและไอเดียใหม่
-
-เตรียมตัวมาให้พร้อม
-
-โน้ตบุ๊กและที่ชาร์จติดตั้ง development environment ให้ใช้งานได้เรียบร้อยสมัคร Builder Hub ไว้ล่วงหน้า: https://go.team1.network/thailand-builder
-
-ช่วงลงทะเบียนมีการตรวจความพร้อม แต่ไม่มีเวลาติดตั้งใหม่ทั้งหมด
-
-Exclusive Merch
-
-สถานที่: จุฬาลงกรณ์มหาวิทยาลัย
-
-กำหนดการ
-
-09:30 | ลงทะเบียน + ตรวจความพร้อมเครื่องมือ
-
-10:15 | พิธีเปิด + บรรยายสรุปโจทย์ Avalanche
-
-10:30 | แนะนำเครื่องมือจากพาร์ทเนอร์ - Tokenomist
-
-10:50 | เริ่มการแข่งขัน
-
-12:30 | อาหารกลางวัน ลุยสปรินท์ต่อ
-
-13:30 | เช็คพอยต์กลางการแข่งขัน Mentor และพาร์ทเนอร์เดินให้คำปรึกษา
-
-16:00 | สิ้นสุดเวลาเขียนโค้ด + ส่งผลงาน และเริ่มรอบ Expo
-
-16:20 | รอบพรีเซนต์บนเวที (3 นาที + Q&A 2 นาที)
-
-17:25 | กรรมการสรุปผล + กล่าวปิด
-
-17:45 | ประกาศผล มอบรางวัล และถ่ายภาพหมู่
-
-A full day of building for Web3 developers and creators at Chulalongkorn University. Code live, get mentorship from experienced builders, demo at the expo, and pitch on stage for a share of the 600 USD prize pool. Food and refreshments provided.
-
-This is a builder event, not an intro workshop. You should already be comfortable writing and shipping code. You're welcome to vibe code - AI tools are fair game and encouraged. What matters is how far you take an idea in a single day.
-
-Tracks
-
-Build for one or more. Overall winners are still eligible for a track prize.
-
-AI Agent - DeFi - Consumer App - RWA - Gaming - Data
-
-Prizes - 600 USD across 10 awards
-
-1st place: $1502nd place: $100Track winners: $50 each across all six tracksBest content post: $50 ($25 x 2)
-
-Who this is for
-
-Developers and builders who want to ship a dApp on AvalancheDesigners and creators who want to team up and own the product experienceStudents and Web3 builders looking for teammates and new ideas
-
-Come prepared
-
-Laptop and chargerDevelopment environment set up and workingBuilder Hub account created: https://go.team1.network/thailand-builder
-
-Registration includes a setup check, but there's no time to install from scratch.
-
-Location: Chulalongkorn University
-
-### Program
-
-09:30 | Registration + setup verification
-
-10:10 | Opening + Avalanche builder briefing
-
-10:30 | Partner tools briefing - Tokenomist
-
-10:50 | Hack starts
-
-12:30 | Lunch served in place, sprint continues
-
-13:30 | Mid-sprint checkpoint - mentors and partners walk the tables
-
-16:00 | Hard code freeze + submission, expo round begins
-
-16:20 | Finalist pitches on stage (3 min + 2 min Q&A)
-
-17:25 | Deliberation + partner closing word17:45 | Winners, prizes, group photo
-
-Sponsors & Partners
-
-Tokenomist.ai brings structure, clarity and trust to tokenomics data - a space that's still fragmented and opaque. The platform tracks token unlocks, on-chain activity and supply dynamics, giving teams and investors the full picture so they can make decisions with confidence.
-
-Free tools for every students
-
-Every students gets 3 months of Pro platform access, normally $99/month. Join the Team1 Thailand Telegram to claim it early: https://t.me/Team1TH
-
-https://x.com/Tokenomist_ai
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 60 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-https://x.com/AvaxTeam1
-
 <a id="event-2b1b307ee2e18f4d"></a>
 
 ## Monad Blitz İstanbul v2
@@ -28234,72 +28100,6 @@ Investors, ecosystem enablers, and corporate partners
 Government representatives and policymakers supporting innovation
 
 Technology enthusiasts interested in learning, networking, and building
-
-<a id="event-53653de4d3064df2"></a>
-
-## 🎾 CoinW Pickleball & Crypto Social Night
-
-- Record: `luma-batch-evtsoCxHldUNU6gH`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/p79t56ui>
-
-### About the event
-
-PLAY - CONNECT - LEARN
-
-一起来打球、认识新朋友，轻松聊聊 Crypto！
-
-Join us for a relaxed Saturday night of pickleball, new connections & crypto.
-
-这个周六晚上，CoinW × PickleBoom 邀请大家一起参加一场轻松的 Pickleball & Crypto Social Night。
-
-Whether you're a regular player or completely new to pickleball, everyone is welcome. Come play, meet new people and enjoy a relaxed social night together.
-
-我们希望把运动、社交和 Crypto 放在一个轻松的场景里。中间会有一个简短的 10-Min Crypto & Market Talk，不需要任何 Crypto 或交易经验。
-
-### What to Expect
-
-Social Pickleball | 社交匹克球
-
-Meet New People | 认识新朋友
-
-Mini Challenges | 趣味挑战
-
-Giveaways | 现场小礼品
-
-10-Min Crypto & Market Talk | 加密市场分享
-
-### Schedule
-
-7:00-7:15 PM | Check-in & Warm-up
-
-7:15-8:00 PM | Social Pickleball
-
-8:00-8:10 PM | Crypto & Market Talk
-
-8:10-8:50 PM | Social Play & Mini Challenges
-
-8:50-9:00 PM | Group Photo & Wrap-up
-
-### Event Details
-
-Saturday, Sep 26 | 周六
-
-7:00-9:00 PM
-
-PickleBoom Springvale
-
-FREE | 免费参加
-
-Limited to 16 spots | 限16人
-
-All levels welcome. No pickleball or crypto experience required.
-
-无论是匹克球新手，还是刚开始了解 Crypto，都欢迎参加。
-
-Come for the game, stay for the connections.
 
 <a id="event-8f6b2815f58e6307"></a>
 
@@ -72439,6 +72239,30 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1b5c74d1ed7fe066"></a>
+
+## Blockstories Horizon 2026: London Summit
+
+- Record: `w3v-blockstories-horizon-london-summit-26-11-09`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/horizonlondonsummit>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d284eaaa37a2c8e7"></a>
+
+## Spearpoint Annual C-Suite Gathering
+
+- Record: `w3v-spearpoint-annual-c-suite-gathering-das-26-11-09`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-09T18:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ochqw6c3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1e9de612b619c516"></a>
 
 ## Bluechip26: The Crypto Safety Conference
@@ -72501,6 +72325,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5091ad3a6c37b30e"></a>
+
+## Applied Blockchain Sessions 2026 \| Soho House
+
+- Record: `w3v-applied-blockchain-sessions-soho-house-26-11-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T18:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/m3gf8ayo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3e83fa9bbbe15444"></a>
+
+## Private Investor Dinner - Future of onchain payments @ DAS London
+
+- Record: `w3v-private-investor-dinner-future-onchain-payments-26-11-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T18:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/8d7o3qh7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-353405c89774f271"></a>
+
+## Below the Surface: CRYMBO × Orbs
+
+- Record: `w3v-below-surface-crymbo-orbs-26-11-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-10T19:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/048ehkci>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-dcc5a11966c710a3"></a>
 
 ## Superteam UAE Members Lunch (MEMBERS ONLY)
@@ -72546,6 +72406,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-11T19:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/herndon-open-source-linuxone-meetup-group/events/317096564/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1b801e93a4941d46"></a>
+
+## The Island Club by Nicola Harrison
+
+- Record: `mu-315752491`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-11T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/seasoned-readers/events/315752491/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72858,6 +72730,18 @@ Previous Edition:
 Previous Events:
 
 etc.
+
+<a id="event-23ee29f480b51527"></a>
+
+## Riserva London \| Stablecoins and compliance over wine
+
+- Record: `w3v-riserva-london-stablecoins-compliance-wine-26-11-14`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/fkoham7n>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-29bfd82bc0c5f4bc"></a>
 
@@ -74134,6 +74018,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 A two-day festival covering Web3, AI and digital culture. Announced discussions include stablecoins, tokenized real-world assets, prediction markets and AI agents, alongside panels, demonstrations and practical masterclasses. It takes place at The Plaza at Uptown Dubai.
+
+<a id="event-0de3d9297c7f8c29"></a>
+
+## BlockDown Festival Dubai 2027
+
+- Record: `ma-blockdown-festival-dubai-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-26T00:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://blockdownfestival.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-db9360cc9aa59fe5"></a>
 
