@@ -58214,7 +58214,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "2be88aea-6b74-433d-b6f8-5c5267fc3d39",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520328239421100032"
     }
   ]
 }
