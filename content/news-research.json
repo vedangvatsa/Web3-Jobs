@@ -86422,7 +86422,27 @@
       "firstSeenAt": "2026-10-24T08:24:01.469Z",
       "attempts": 0,
       "expiresAt": "2026-10-26T09:50:04.000Z",
-      "lastSeenAt": "2026-10-24T08:24:01.469Z"
+      "lastSeenAt": "2026-10-24T08:24:01.469Z",
+      "articleSlug": "bybitvara",
+      "draftProgress": {
+        "id": "afb3003080e5d69f10e9",
+        "day": "2026-10-26",
+        "articleSlug": "bybitvara",
+        "note": "Read Cointelegraph report and Bybit press release in full; article draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.bybit.com/en/press/post/bybit-secures-vara-licence-for-exchange-services-in-dubai-bb294dd6a0a381467c8",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-26T03:38:02.795Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "3068b0dd026bfcf57397": {
       "source": "Crypto Briefing",
@@ -89510,11 +89530,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c13ebdd98e86017fc16",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T12:00:00.000Z",
-      "lastSeenAt": "2026-10-25T03:39:00.304Z"
+      "lastSeenAt": "2026-10-25T03:39:00.304Z",
+      "reason": "opinion",
+      "note": "Read the CoinDesk interview in full. The piece is Apex Group CEO Peter Hughes's opinion on regulatory competition; the concrete Clarity Act Senate failure it discusses dates from September and is not a new event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-26T03:42:30.758Z",
+      "lastReviewedDay": "2026-10-26"
     },
     "90aa99ad35cf1110fbb8": {
       "source": "The Defiant",
@@ -91187,7 +91217,31 @@
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
       "attempts": 0,
       "expiresAt": "2026-10-28T19:45:11.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "articleSlug": "initiareserve",
+      "draftProgress": {
+        "id": "c7058b7d5e4bc7b21cda",
+        "day": "2026-10-26",
+        "articleSlug": "initiareserve",
+        "note": "Read CryptoSlate, Bitquery investigation and Phemex in full; article draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitquery.io/investigations/initia-hack",
+            "outcome": "read"
+          },
+          {
+            "url": "https://phemex.com/news/article/initia-reveals-attack-details-movevm-script-caching-flaw-led-to-27m-theft-100894",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-26T03:37:54.888Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "ea14b8c2273179ada019": {
       "source": "CryptoSlate",
@@ -91208,7 +91262,27 @@
       "firstSeenAt": "2026-10-26T03:32:25.985Z",
       "attempts": 0,
       "expiresAt": "2026-10-28T21:30:07.000Z",
-      "lastSeenAt": "2026-10-26T03:32:25.985Z"
+      "lastSeenAt": "2026-10-26T03:32:25.985Z",
+      "articleSlug": "tethermdk",
+      "draftProgress": {
+        "id": "ea14b8c2273179ada019",
+        "day": "2026-10-26",
+        "articleSlug": "tethermdk",
+        "note": "Read Tether MDK announcement and CryptoSlate analysis in full; article draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://tether.io/news/tethers-mdk-gains-broad-industry-backing-to-accelerate-the-next-generation-of-bitcoin-mining-automation/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-26T03:38:10.873Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "8f6cc0e3df5830765eb8": {
       "source": "Crypto Briefing",
@@ -162537,6 +162611,18 @@
           "retrySearches": [
             "Find independent second-source coverage of Austin Griffith's October 2026 demonstration that bots drain Ethereum wallets with guessable private keys such as key 6969"
           ]
+        },
+        "0c13ebdd98e86017fc16": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the CoinDesk interview in full. The piece is Apex Group CEO Peter Hughes's opinion on regulatory competition; the concrete Clarity Act Senate failure it discusses dates from September and is not a new event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-26T03:42:30.758Z"
         }
       },
       "baselineSlugs": [
