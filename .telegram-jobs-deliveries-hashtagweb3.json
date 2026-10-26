@@ -4518,5 +4518,99 @@
     "slotKey": "2026-10-25:evening",
     "messageId": 155925,
     "sentAt": "2026-10-25T19:32:34.323Z"
+  },
+  "76836253-fd06-42b0-8fd2-7b427ae65f7d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T03:34:14.365Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4742955005",
+          "title": "Graduate Software Engineer (DV Commodities)",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
+          "date": "2026-10-12T14:18:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "London",
+          "department": "DV Commodities",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng578"
+        },
+        "key": "4742955005",
+        "slug": "eng578",
+        "url": "https://hashtagweb3.com/eng578?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Graduate Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "e3014dea-286f-488b-b662-14454301c489",
+          "title": "Payroll Specialist - US/Canada",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/Sardine/e3014dea-286f-488b-b662-14454301c489",
+          "date": "2026-10-15T16:04:20.588+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "United States / Canada",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "psc2"
+        },
+        "key": "e3014dea-286f-488b-b662-14454301c489",
+        "slug": "psc2",
+        "url": "https://hashtagweb3.com/psc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Payroll Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "75b85494-0c03-493c-88f4-246bad52980f",
+          "title": "Backend Production Support Engineer",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/75b85494-0c03-493c-88f4-246bad52980f",
+          "date": "2026-10-22T04:16:41.570Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Predictions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be28"
+        },
+        "key": "75b85494-0c03-493c-88f4-246bad52980f",
+        "slug": "be28",
+        "url": "https://hashtagweb3.com/be28?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Backend Production Support Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8014194003",
+          "title": "Rust Developer, Exchange OS Trading Engine",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8014194003",
+          "date": "2026-10-06T00:59:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong; Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs12"
+        },
+        "key": "8014194003",
+        "slug": "rs12",
+        "url": "https://hashtagweb3.com/rs12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Rust Developer"
+      }
+    ],
+    "message": "- DV Trading is hiring <a href=\"https://hashtagweb3.com/eng578?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Graduate Software Engineer (DV Commodities)</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/psc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Payroll Specialist - US/Canada</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/be28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Production Support Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rs12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Rust Developer, Exchange OS Trading Engine</a>",
+    "slotKey": "2026-10-26:morning"
   }
 }
