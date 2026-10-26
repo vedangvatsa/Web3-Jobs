@@ -117,9 +117,10 @@
     "0": {
       "createClaim": "60bfb1df-2614-495a-8ab9-6f0798dc7774",
       "startedAt": "2026-10-26T11:31:42.219Z",
-      "status": "publishing",
+      "status": "accepted",
       "containerId": "18098626646199925",
-      "publishClaim": "75613966-2939-45d6-a5fa-313c06b13b04"
+      "publishClaim": "75613966-2939-45d6-a5fa-313c06b13b04",
+      "postId": "17913933078510538"
     }
   }
 }
