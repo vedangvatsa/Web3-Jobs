@@ -8281,5 +8281,101 @@
     "slotKey": "2026-10-26:morning",
     "messageId": 145,
     "sentAt": "2026-10-26T03:33:31.443Z"
+  },
+  "1fa58217-7f2c-4a5c-a7b0-08dcdda9df5b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T11:31:59.822Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8034335003",
+          "title": "Senior / Staff Engineer, DEX Trading System",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8034335003",
+          "date": "2026-10-16T11:49:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "APAC",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng97"
+        },
+        "key": "8034335003",
+        "slug": "eng97",
+        "url": "https://hashtagweb3.com/eng97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior / Staff Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8137311",
+          "title": "Director, Content Strategy",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8137311?gh_jid=8137311",
+          "date": "2026-09-29T20:12:46-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "New York, NY, United States",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$196k – $240k/yr",
+          "dateVerified": true,
+          "slug": "dcs"
+        },
+        "key": "8137311",
+        "slug": "dcs",
+        "url": "https://hashtagweb3.com/dcs?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Director, Content Strategy"
+      },
+      {
+        "snapshot": {
+          "id": "8223546",
+          "title": "Director of Engineering, Brokerage Platform",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8223546?t=gh_src=&gh_jid=8223546",
+          "date": "2026-10-07T17:33:03-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA",
+          "department": "Brokerage Engineering",
+          "active": true,
+          "salary": "$294k – $345k/yr",
+          "dateVerified": true,
+          "slug": "eng439"
+        },
+        "key": "8223546",
+        "slug": "eng439",
+        "url": "https://hashtagweb3.com/eng439?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Director of Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "75495bad-c200-46a3-8ecc-6e89efa88ad5",
+          "title": "Senior Product Manager - Payments Platform",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/75495bad-c200-46a3-8ecc-6e89efa88ad5",
+          "date": "2026-10-05T11:22:37.359+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm223"
+        },
+        "key": "75495bad-c200-46a3-8ecc-6e89efa88ad5",
+        "slug": "pm223",
+        "url": "https://hashtagweb3.com/pm223?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Product Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/eng97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior / Staff Engineer, DEX Trading System</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/dcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Content Strategy</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng439?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Engineering, Brokerage Platform</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments Platform</a>",
+    "slotKey": "2026-10-26:afternoon"
   }
 }
