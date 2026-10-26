@@ -58247,6 +58247,44 @@
       "attemptId": "daa2ee65-4828-4777-b0be-28cd01822695",
       "verification": "verified",
       "postId": "691827047618629_1126135389993695"
+    },
+    {
+      "slug": "an96",
+      "company": "Bitdeer",
+      "title": "Billing Analyst - MaaS",
+      "platform": "x",
+      "postedAt": "2026-10-26T19:40:13.350Z",
+      "expectedText": "Bitdeer is hiring Billing Analyst - MaaS\n\nhttps://hashtagweb3.com/an96/x?og=7",
+      "snapshot": {
+        "id": "c068334ff2ce",
+        "title": "Billing Analyst - MaaS",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+        "date": "2026-10-15",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "AI Cloud",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/c068334ff2ce-billing-analyst-maas",
+          "checkedAt": "2026-10-16T03:33:37.932Z",
+          "bodySha256": "1808192a9e3b38ddad7539fae91cd65d7060918f05cc86751d6a20726214accc",
+          "provider": "breezy",
+          "datePosted": "2026-10-15"
+        },
+        "slug": "an96"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Billing Analyst - MaaS\n\nhttps://hashtagweb3.com/an96/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "2d11a283-a850-405e-ac59-e8e152823721",
+      "verification": "creating"
     }
   ]
 }
