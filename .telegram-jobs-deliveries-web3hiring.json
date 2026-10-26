@@ -8381,7 +8381,7 @@
     "sentAt": "2026-10-26T11:32:05.965Z"
   },
   "85136c88-910c-4da6-9a03-198ad6322721": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T11:32:14.365Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -8474,6 +8474,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/eng97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior / Staff Engineer, DEX Trading System</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/dcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Content Strategy</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng439?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Engineering, Brokerage Platform</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments Platform</a>",
-    "slotKey": "2026-10-26:afternoon"
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 146,
+    "sentAt": "2026-10-26T11:32:28.871Z"
   }
 }
