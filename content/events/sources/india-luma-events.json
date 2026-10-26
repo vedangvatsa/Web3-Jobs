@@ -84,51 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-zd0c5ys7",
-    "name": "MIP-19: Road to Devcon w/ ETHGlobal",
-    "description": "Welcome to MIP-19\n\nPresenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\n12 PM: Doors open\n\n12:20 PM: Devcon 8\n\nGet all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 – 6 Nov 2026.\n\n12:40 PM: ETHGlobal Mumbai\n\nLearn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 – 7 Nov 2026.\n\n1 PM: Networking\n\nTea / Coffee will provided to everyone at the venue.\n\n2 PM: Doors close\n\nFollow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram",
-    "startDate": "2026-09-26T06:30:00.000Z",
-    "endDate": "2026-09-26T08:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/zd0c5ys7",
-    "coverImage": "/events/india-luma-zd0c5ys7-64e65a93.webp",
-    "source": "luma-india",
-    "hosts": [
-      "ETHMumbai"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Calcutta",
-    "slug": "mip-19",
-    "registrationUrl": "https://luma.com/zd0c5ys7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "ETHMumbai",
-      "url": "https://ethmumbai.in/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/zd0c5ys7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zd0c5ys7",
-      "eventId": "evt-UaoErPKS55Pnk06",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-near-ss07",
     "name": "NEAR Builders Cafe: Roast My Repo",
     "description": "Think of the late-night bonding at a YC Hacker House or a top-tier AI research retreat. We are bringing together 15-20serious builders in Mumbai for an afternoon of high-trust networking and collaborative building.\n\nNo pitch decks. No VC speed-dating. No awkward small talk. We are engineering an environment where you actually get to know the person next to you by looking at their code, debating architecture, and helping each other get unstuck. If you are building AI agents, Web3 infrastructure, or consumer apps on Confidential AI/ Economy, this is your room.\n\nHow We Network\n\nThe Problem Pitch:\nCome prepared to share what you’re building, the problem you’re facing, and what you’re stuck on right now. Keep it short and concrete, no polished elevator pitches needed.\n\nThe Room Helps:\nAfter each pitch, the audience can jump in with ideas, relevant experience, introductions, or potential solutions. If you’ve faced the same problem before, share what worked (or didn’t).\n\nWe don’t want forced networking, writing exercises, or people splitting off into groups. The goal is simply to put interesting problems in front of smart people and let the conversation happen naturally.\n\nDinner/Drinks Post-Session:\nAfter the session, we’ll head somewhere nearby for food and drinks. That’s where you can continue the conversations, meet people one-on-one, and explore ideas that came up during the session.\n\nWho is this for?\n\n• Builders who want to find technical collaborators, not just \"connections.\"\n• Engineers, designers, and product hackers actively shipping on NEAR or AI.\n• People who prefer deep, 1-on-1 technical debates over loud, crowded rooms.",
@@ -170,51 +125,6 @@
       "url": "https://luma.com/near-ss07",
       "eventId": "evt-ecFLKKCLDEDJ2T0",
       "fetchedAt": "2026-09-19T23:30:16.051Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "india-luma-ual4wk7p",
-    "name": "Bitcoin 101 for Developers & Curious Beginners | Andheri, Mumbai",
-    "description": "## How does Bitcoin work without a bank or a central server? And what actually happens when you send a bitcoin transaction?\n\nJoin Bitshala for a beginner-friendly workshop exploring how Bitcoin works under the hood. We’ll break down the key ideas in simple language, follow a transaction through the network, and guide you through creating and sending one yourself.\n\nYou’ll use Bitcoin’s test network, so you can experiment without using real bitcoin. No prior coding or Bitcoin knowledge required.\n\n## AGENDA:\n\n• Keys, addresses, and ownership: What a Bitcoin wallet does, how addresses work, and how you prove you can spend your bitcoin.\n• How transactions work: How Bitcoin tracks individual pieces of bitcoin rather than a bank-style account balance, and how those pieces get spent and combined.\n• A transaction’s journey: What happens after you hit “send,” how computers on the network check your transaction, and where it waits before being included in a block.\n• Blocks and mining: How transactions are grouped into blocks, what miners do, and how the network agrees on a shared transaction history.\n• Bitcoin’s incentives and supply: Why miners earn rewards and fees, what a “halving” means, and how Bitcoin’s 21 million supply limit works.\n• Hands-on practice: With step-by-step guidance, build, sign, and send a transaction on Bitcoin’s test network.\n\n## WHO'S GUIDING\n\nLed by the Bitshala Contributors. We are a community of Bitcoin developers and educators.\n\n## WHAT TO EXPECT\n\n• Level: Beginner-friendly.\n• Format: An interactive workshop with explanations, room for questions, and a guided transaction exercise.\n• Bring: A laptop and your curiosity.\n• Experience needed: None. You don’t need to know how to code.\n\n## IS THIS FOR YOU?\n\nThis workshop is for you if you:\n\n• Have used a Bitcoin wallet and wondered what happens behind the scenes.\n• Are a developer looking for a starting point with Bitcoin.\n• Are new to Bitcoin and prefer learning by doing.\n• Want to understand how a network can work without one company running it.\n\nLeave with a clearer picture of how Bitcoin works, and a test-network transaction you created yourself.\n\n[To connect with Bitcoiners in Mumbai, join the Signal group](https://signal.group/?utm_source=luma#CjQKIKC4IuqhHW1AQIB-44S0Dg4Um2BItqRBM_V3pzSAwRPoEhB7_H-3FcjjemIxbLkFtABe)\n\n## About Bitshala\n\n[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.\n\nIf you'd like to explore more, check us out on:\n\n• Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)\n• [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)\n• Twitter (Socials and Announcements) (https://x.com/bitshala_org)\n• Luma (Events Calendar) (https://luma.com/bitshala)",
-    "startDate": "2026-09-26T06:15:00.000Z",
-    "endDate": "2026-09-26T08:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/ual4wk7p",
-    "coverImage": "/events/india-luma-ual4wk7p-af0ee3b5.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Bitshala"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "slug": "b1dcb",
-    "registrationUrl": "https://luma.com/ual4wk7p",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitshala",
-      "url": "https://bitshala.org/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ual4wk7p",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ual4wk7p",
-      "eventId": "evt-X1MqFoD018NnzeE",
-      "fetchedAt": "2026-09-19T23:30:16.695Z",
       "method": "luma-page",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }

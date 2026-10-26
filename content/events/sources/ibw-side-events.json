@@ -6446,5 +6446,68 @@
         }
       ]
     }
+  },
+  {
+    "id": "ibw-official-kast-gold-party-mumbai-11-05",
+    "name": "KAST Gold Party - Mumbai",
+    "description": "KAST lands in India for the first time with the exclusive KAST Gold Party at AER & Gimlet Garden, situated on the 34th floor of the Four Seasons Hotel Mumbai on Thursday, November 5, 2026, from 20:30 IST to 01:30 IST on November 6. The rooftop gathering brings together Web3 founders, protocol builders, investors, fintech partners, and the global KAST community during India Blockchain Week and Devcon week.\n\n## What to expect\n\nSet high above Mumbai with panoramic skyline views and open-air rooftop energy, the Gold Party offers a curated, high-caliber social setting:\n- Uninterrupted skyline views across Mumbai from the 34th floor of the Four Seasons Hotel.\n- Curated guest list engineered for genuine connections, partnership discussions, and high-signal networking across fintech, stablecoins, and Web3 infrastructure.\n- Premium canapés, free-flow crafted drinks, and bottle service running throughout the night.\n- Live DJ sets and ambient music tailored for conversation and late-night rooftop celebration.\n- An exclusive look at KAST's global payments vision, solid gold card benefits, and stablecoin account ecosystem.\n\n## Who should attend\n\nThe gathering is designed for:\n- Web3 & crypto founders, CTOs, and protocol architects in Mumbai for IBW and Devcon.\n- Venture capitalists, angel investors, family offices, and fund managers exploring consumer crypto and real-world payment infrastructure.\n- KAST community members, cardholders, and fintech operators building borderless financial products.\n- Digital nomads, international entrepreneurs, and traders utilizing stablecoin accounts and cross-border payment cards.\n\n## Venue and schedule\n\nThe party takes place at AER & Gimlet Garden, on the 34th Floor of the Four Seasons Hotel Mumbai (1/136, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India).\n\n- **Date:** Thursday, November 5, 2026\n- **Time:** 20:30 – 01:30 IST (15:00 – 20:00 UTC)\n- **Dress Code:** Smart casual / party attire\n\n## About KAST\n\nKAST is built for global-first people and businesses moving money across borders. Millions use KAST to manage finances across 170+ countries with instant USD accounts, global payouts, and cards designed to spend stablecoins seamlessly in the physical world. Whether you're building a global business or flexing your solid gold card, KAST provides money that moves as fast as you do.\n\n## Registration and admission\n\nRSVP is free on Luma and strictly subject to host approval due to rooftop venue capacity limits. Submitting an RSVP does not guarantee entry; confirmed guests will receive a confirmation QR code for entry at the door. Photography and filming will take place during the event for official community recaps.",
+    "startDate": "2026-11-05T15:00:00.000Z",
+    "endDate": "2026-11-05T20:00:00.000Z",
+    "city": "Mumbai",
+    "country": "India",
+    "location": "Mumbai, India",
+    "category": "Party/Networking",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "url": "https://luma.com/kastxyz-mumbai",
+    "coverImage": "/events/ibw-official-kast-gold-party-mumbai-11-05-b8136b51.webp",
+    "source": "ibw-official",
+    "hosts": [
+      "KAST"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "timezone": "Asia/Kolkata",
+    "slug": "kast-gold",
+    "registrationUrl": "https://luma.com/kastxyz-mumbai",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "organizer": {
+      "type": "Organization",
+      "name": "KAST",
+      "url": "https://www.kast.xyz"
+    },
+    "ticketOffers": [
+      {
+        "name": "RSVP",
+        "url": "https://luma.com/kastxyz-mumbai",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/kastxyz-mumbai",
+      "eventId": "evt-bKRPZdsCBIxN1nb",
+      "fetchedAt": "2026-10-26T10:05:00.000Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/kastxyz-mumbai",
+      "fetchedAt": "2026-10-26T10:05:00.000Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "KAST Gold Party - Mumbai · Luma",
+      "sha256": "bbb73c942fafce63c59b54552384670c6039f905860e51784c0a84b6a2d8c8ef",
+      "evidence": [
+        {
+          "url": "https://luma.com/kastxyz-mumbai",
+          "fetchedAt": "2026-10-26T10:05:00.000Z",
+          "sha256": "bbb73c942fafce63c59b54552384670c6039f905860e51784c0a84b6a2d8c8ef"
+        }
+      ]
+    }
   }
 ]

@@ -270,33 +270,6 @@ Connecting all Bitcoiners in the Nordics, while staying true to the Bitcoin cult
 
 The overall rating and the testimonials are based on an anonymous customer feedback survey that was sent to attendees after BTCHEL2025. Approximately 10% of attendees answered the survey.*
 
-<a id="event-3caf4cf36974e5ab"></a>
-
-## Pragma Tokyo 2026
-
-- Record: `premier-pragma-tokyo-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-26T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://ethglobal.com/events/pragma-tokyo2026>
-- Original page: <https://luma.com/pragma-tokyo2026>
-
-### About the event
-
-Pragma Tokyo brings founders, builders, and leaders from across Ethereum and the onchain ecosystem together for a full day of talks, interviews, panels, and high-signal networking.
-
-Across the program, speakers will share what they are building, the decisions shaping their work, and where they believe Ethereum is headed next. Expect substantive conversations onstage and time throughout the day to connect with the people leading protocols, products, and companies across the ecosystem.
-
-Confirmed speakers include Takashi Tezuka, CEO of Startale Japan; Armani Ferrante, CEO of Backpack; and Mai Fujimoto, CEO of zERC20. More speakers and program details will be announced soon.
-
-This is a paid ticketed event and will not be livestreamed. Past ETHGlobal hackers or other Pack holders may qualify for a discount.
-
-You can check if [you qualify by logging in and purchasing on our full website](https://ethglobal.com/events/pragma-tokyo2026).
-
-### Mint our Tokyo Pack for a curated experience!
-
-You'll unlock access to Pragma Tokyo and the ETHGlobal Happy Hour, along with a collection of exclusive perks, curated experiences, and special side events hosted by trusted partners and the local community.
-
 <a id="event-e38376dc53a697ba"></a>
 
 ## Metamorphosis 2026
@@ -11170,75 +11143,6 @@ We bring together the leaders who are not just observing the shift, but are acti
 Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
-
-<a id="event-c5411b5e597d3ec0"></a>
-
-## Namsan Hike with T1gers
-
-- Record: `kbw-official-namsan-hike-with-t1gers-09-26`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-26T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/oc5uk7rc>
-
-### About the event
-
-Team1 Korea and Tiger Research are hosting a Namsan hike as part of KBW 2026 side events, on September 26, 2026.
-
-Join us for a guided hike led by the Tiger Research & Team1 Korea - they've climbed Namsan over 100 times and know every good viewpoint along the way.
-
-### Event Info
-
-[Co-host: Team1 Korea](https://x.com/AvalancheKorea) [x Tiger Research](https://tiger-research.com/)
-
-Date & Time: September 26 Saturday 10AM
-
-Location: National Theater of Korea ([Google](https://maps.app.goo.gl/hobPFxXb13VmuVzn9), [Naver](https://naver.me/Fqi65258))
-
-### Itinerary
-
-- 10:00-10:30 Reception & Registration
-- 10:30-12:00 Guided Hike to Namsan Mountain
-  - Enjoy iconic views of the Seoul skyline
-  - Learning about the city's rich history
-  - Reaching the summit
-- 12:00-13:00 Descent & Cultural Stops
-  - Visit the Observatory (Optional, tickets not included)
-  - Descend the mountain
-  - Explore nearby cultural spots with T1gers as your guide
-- 13:00 Event concludes at the base of Namsan Park
-
-### Hike Info
-
-Difficulty: Moderate, suitable for most fitness levels.
-
-Distance: Approx. 4km (2.5mi) round trip
-
-Duration: ~3 hours, including breaks, sightseeing, and chats
-
-### Please note
-
-- Wear comfortable hiking shoes.
-- Bring water, snacks, and sun protection.
-- In case of inclement weather, the event may be postponed or canceled.
-
-### About Tiger Research
-
-Tiger Research is an independent research institution covering digital asset markets across Asia. Founded in 2022, Tiger Research has helped projects shape and distribute their narratives as one of Asia's most referenced sources of blockchain intelligence and institutional connectivity. Its reports, published in five languages, reach 100,000 monthly subscribers and more than 200 institutional clients, including banks, asset managers, and enterprises.
-
-[Website](https://tiger-research.com/?utm_source=luma) | [Research](https://reports.tiger-research.com/) | [Linkedin](https://www.linkedin.com/company/tiger-research-inc/?utm_source=luma) | [X](https://x.com/tiger_research_?utm_source=luma) | [Youtube](https://www.youtube.com/@Tiger_Research?utm_source=luma) | [Telegram](https://t.me/tiger_research?utm_source=luma)
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives.
-
-https://x.com/AvaxTeam1
-
-### Special Gift
-
-Participants will receive a bandana. *First come, first served.
 
 <a id="event-3dbbad700f4a72b4"></a>
 
@@ -22519,6 +22423,55 @@ If you are early, curious, or already deep in the space, this is where you shoul
 
 Reserve your spot and show up ready to connect.
 
+<a id="event-e1d31ef9d6b7b09d"></a>
+
+## KAST Gold Party - Mumbai
+
+- Record: `ibw-official-kast-gold-party-mumbai-11-05`
+- Source: [ibw-side-events.json](sources/ibw-side-events.json)
+- Starts: 2026-11-05T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kastxyz-mumbai>
+
+### About the event
+
+KAST lands in India for the first time with the exclusive KAST Gold Party at AER & Gimlet Garden, situated on the 34th floor of the Four Seasons Hotel Mumbai on Thursday, November 5, 2026, from 20:30 IST to 01:30 IST on November 6. The rooftop gathering brings together Web3 founders, protocol builders, investors, fintech partners, and the global KAST community during India Blockchain Week and Devcon week.
+
+### What to expect
+
+Set high above Mumbai with panoramic skyline views and open-air rooftop energy, the Gold Party offers a curated, high-caliber social setting:
+
+- Uninterrupted skyline views across Mumbai from the 34th floor of the Four Seasons Hotel.
+- Curated guest list engineered for genuine connections, partnership discussions, and high-signal networking across fintech, stablecoins, and Web3 infrastructure.
+- Premium canapés, free-flow crafted drinks, and bottle service running throughout the night.
+- Live DJ sets and ambient music tailored for conversation and late-night rooftop celebration.
+- An exclusive look at KAST's global payments vision, solid gold card benefits, and stablecoin account ecosystem.
+
+### Who should attend
+
+The gathering is designed for:
+
+- Web3 & crypto founders, CTOs, and protocol architects in Mumbai for IBW and Devcon.
+- Venture capitalists, angel investors, family offices, and fund managers exploring consumer crypto and real-world payment infrastructure.
+- KAST community members, cardholders, and fintech operators building borderless financial products.
+- Digital nomads, international entrepreneurs, and traders utilizing stablecoin accounts and cross-border payment cards.
+
+### Venue and schedule
+
+The party takes place at AER & Gimlet Garden, on the 34th Floor of the Four Seasons Hotel Mumbai (1/136, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India).
+
+- **Date:** Thursday, November 5, 2026
+- **Time:** 20:30 - 01:30 IST (15:00 - 20:00 UTC)
+- **Dress Code:** Smart casual / party attire
+
+### About KAST
+
+KAST is built for global-first people and businesses moving money across borders. Millions use KAST to manage finances across 170+ countries with instant USD accounts, global payouts, and cards designed to spend stablecoins seamlessly in the physical world. Whether you're building a global business or flexing your solid gold card, KAST provides money that moves as fast as you do.
+
+### Registration and admission
+
+RSVP is free on Luma and strictly subject to host approval due to rooftop venue capacity limits. Submitting an RSVP does not guarantee entry; confirmed guests will receive a confirmation QR code for entry at the door. Photography and filming will take place during the event for official community recaps.
+
 <a id="event-1df2e4cbfa87a614"></a>
 
 ## Pragma Mumbai
@@ -22905,106 +22858,6 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 ### Registration and admission
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
-
-<a id="event-f5002404fc7ae7bd"></a>
-
-## Bitcoin 101 for Developers & Curious Beginners \| Andheri, Mumbai
-
-- Record: `india-luma-ual4wk7p`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-26T06:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ual4wk7p>
-
-### About the event
-
-How does Bitcoin work without a bank or a central server? And what actually happens when you send a bitcoin transaction?
-
-Join Bitshala for a beginner-friendly workshop exploring how Bitcoin works under the hood. We'll break down the key ideas in simple language, follow a transaction through the network, and guide you through creating and sending one yourself.
-
-You'll use Bitcoin's test network, so you can experiment without using real bitcoin. No prior coding or Bitcoin knowledge required.
-
-### AGENDA
-
-- Keys, addresses, and ownership: What a Bitcoin wallet does, how addresses work, and how you prove you can spend your bitcoin.
-- How transactions work: How Bitcoin tracks individual pieces of bitcoin rather than a bank-style account balance, and how those pieces get spent and combined.
-- A transaction's journey: What happens after you hit "send," how computers on the network check your transaction, and where it waits before being included in a block.
-- Blocks and mining: How transactions are grouped into blocks, what miners do, and how the network agrees on a shared transaction history.
-- Bitcoin's incentives and supply: Why miners earn rewards and fees, what a "halving" means, and how Bitcoin's 21 million supply limit works.
-- Hands-on practice: With step-by-step guidance, build, sign, and send a transaction on Bitcoin's test network.
-
-### WHO'S GUIDING
-
-Led by the Bitshala Contributors. We are a community of Bitcoin developers and educators.
-
-### WHAT TO EXPECT
-
-- Level: Beginner-friendly.
-- Format: An interactive workshop with explanations, room for questions, and a guided transaction exercise.
-- Bring: A laptop and your curiosity.
-- Experience needed: None. You don't need to know how to code.
-
-### IS THIS FOR YOU?
-
-This workshop is for you if you:
-
-- Have used a Bitcoin wallet and wondered what happens behind the scenes.
-- Are a developer looking for a starting point with Bitcoin.
-- Are new to Bitcoin and prefer learning by doing.
-- Want to understand how a network can work without one company running it.
-
-Leave with a clearer picture of how Bitcoin works, and a test-network transaction you created yourself.
-
-[To connect with Bitcoiners in Mumbai, join the Signal group](https://signal.group/?utm_source=luma#CjQKIKC4IuqhHW1AQIB-44S0Dg4Um2BItqRBM_V3pzSAwRPoEhB7_H-3FcjjemIxbLkFtABe)
-
-### About Bitshala
-
-[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
-
-If you'd like to explore more, check us out on:
-
-- Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)
-- [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)
-- Twitter (Socials and Announcements) (https://x.com/bitshala_org)
-- Luma (Events Calendar) (https://luma.com/bitshala)
-
-<a id="event-16b478a35587cb02"></a>
-
-## MIP-19: Road to Devcon w/ ETHGlobal
-
-- Record: `india-luma-zd0c5ys7`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-26T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zd0c5ys7>
-
-### About the event
-
-Welcome to MIP-19
-
-Presenting a new format of MIP for the Road to Devcon, this time along with ETHGlobal.
-
-Devcon is an Ethereum conference for developers, researchers, thinkers, and makers.
-
-### Agenda
-
-12 PM: Doors open
-
-12:20 PM: Devcon 8
-
-Get all the latest updates of Devcon 8 India, the largest gathering for Ethereum, happening from 3 - 6 Nov 2026.
-
-12:40 PM: ETHGlobal Mumbai
-
-Learn about the schedule, format, tracks, and prizes for the ETHGlobal Mumbai hackathon, happening from 5 - 7 Nov 2026.
-
-1 PM: Networking
-
-Tea / Coffee will provided to everyone at the venue.
-
-2 PM: Doors close
-
-Follow ETHMumbai on: X | TelegramFollow ETHGlobal on: X | DiscordFollow Devcon on: X | Telegram
 
 <a id="event-52bfcd001ea6bee8"></a>
 
@@ -27862,24 +27715,6 @@ X: @pudgypenguinsWebsite: pudgypenguins.com
 
 Fracton Ventures
 
-<a id="event-a011b71ec3977570"></a>
-
-## Day 1 - BINUS Crypto Week 2026 x W3W Asia
-
-- Record: `luma-batch-evt0OWa38I7A9TDM`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/585ewyql>
-
-### About the event
-
-BINUS Crypto Week 2026 is the annual flagship Web3 and blockchain event organized by BINUS Blockchain & Crypto Club (BBCC) at BINUS University. The event brings together students, builders, founders, investors, industry leaders, and Web3 communities to explore the latest developments and opportunities across the digital asset ecosystem.
-
-Taking place on 25-26 September 2026 at BINUS Kemanggisan, BINUS Crypto Week features keynote sessions, panel discussions, workshops, competitions, networking sessions, and community activities, creating a platform for education, innovation, and industry engagement.
-
-This year, the event is strengthened through collaborations with leading ecosystem partners, including W3W Asia, alongside a Web3 hackathon in collaboration with ETHJakarta focused on encouraging students and developers to build real-world blockchain solutions.
-
 <a id="event-39b81f73e1383a76"></a>
 
 ## Startup Village Chitwan
@@ -27913,172 +27748,6 @@ Hosted by Superteam Nepal, Ronak Raj Rauniyar.
 ### Event details
 
 The event takes place on September 25. Venue: Tigerland Safari - Lemon Tree Resort, Tigerland Safari - Lemon Tree Resort, Chitwan National Park, Narayani, Bagmati Province 44200, Nepal.
-
-<a id="event-4c4a97b2492ba724"></a>
-
-## Ethereum Hackathon @ Sydney
-
-- Record: `luma-batch-evtXL8uWrEbnpiYD`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-25T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/49iyovqf>
-
-### About the event
-
-About Ethereum @ Sydney 2026
-
-Ethereum @ Sydney 2026 brings together builders, researchers, founders and ecosystem leaders to explore the latest developments across Ethereum, from protocol innovation and emerging applications to academic research and real world adoption.
-
-The public programme begins with Ethereum Hackathon on 26 September, followed by Ethereum Day on 27 September. Together, they connect global ideas and expertise with Australia's projects, talent and local ecosystem, creating opportunities to build, share and collaborate.
-
-Ethereum @ Sydney 2026 aims to showcase Ethereum's development in Australia, support emerging builders and applications, and strengthen connections between the Australian and global Ethereum communities.
-
-26 to 27 September 2026 - Sydney, Australia
-
-Ethereum Hackathon @ Sydney
-
-Ethereum Hackathon @ Sydney will bring together Australian and international builders to develop Ethereum applications and reusable open-source components.
-
-### Agenda
-
-Sep 26
-
-9:00 - 10:00 Opening and Welcoming
-
-Registrations
-
-10:00 - 10:10 Opening Speech
-
-Audrey Tang, Executive Director, Ethereum Applications Guild (EAG)
-
-10:10 - 12:00 Hackathon Building
-
-12:00 - 14:00 Hackathon Building
-
-14:00 Hackathon Submission Ends
-
-14:00 - 16:30 Demo Showcase 5 mins/project (3 mins Showcase + 2 mins QA)
-
-16:30 - 17:00 Judgement
-
-17:00 Winner Announcement
-
-EAG Project Tracks
-
-Builders can explore one of the EAG Global Buildathon tracks:
-
-AI x Ethereum & Agent Economy
-
-AI agents, agent wallets, agent payments, agent-to-agent coordination and Ethereum-native AI applications.
-
-Local AI, Private AI & User-Owned Data
-
-Privacy-first AI applications, user-owned datasets, private credentials and selective disclosure.
-
-Smart Devices, Open Hardware & Privacy Hardware
-
-Open hardware, device identity, crypto-integrated devices, secure hardware and Ethereum in real-world environments.
-
-Application Middleware & Open-Source Tooling
-
-SDKs, wallet tooling, account abstraction, developer APIs, privacy SDKs, monitoring tools and reusable infrastructure.
-
-AI-Native Creator Economy & Digital Rights
-
-Content provenance, attribution, programmable licensing, creator payments, digital rights and ownership in the age of AI.
-
-Real-World Ethereum Applications
-
-Stablecoin payments, community coordination, education tools, public goods funding, reputation systems, local commerce and applications for emerging regions.
-
-HSK Chain Tracks
-
-AI Agents
-
-AI × Web3
-
-DeFi
-
-Stablecoins
-
-Payments
-
-RWA
-
-Blockchain Infrastructure
-
-Hackathon Prize
-
-EAG Track
-
-1st Prize: ShanHaiWoo Scholarship * 1
-
-HSK Chain Track
-
-1st Prize: 2,500 USDT
-
-2nd Prize: 1,500 USDT
-
-3rd Prize: 1,000 USDT
-
-### About EAG
-
-The Ethereum Applications Guild (EAG) is a global non-profit collaborative organization dedicated to advancing the innovation, adoption, and real-world impact of Ethereum-native applications. Through application acceleration, open co-creation, ecosystem partnerships, sustainable funding, and global events, EAG connects builders, institutions, and ecosystem stakeholders to foster the sustainable growth and broader reach of the Ethereum applications ecosystem.
-
-<a id="event-75928c9553b0cdbc"></a>
-
-## Trader Career 002 \| Stage 2: Build Technical Analysis Bootcamp
-
-- Record: `luma-batch-evtWKdT79iDKN9H9`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T02:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tradercareer002>
-
-### About the event
-
-恭喜你完成 Stage 1 Pre-Training！
-
-现在，你将正式进入 Trader Career｜Stage 2：Build，展开第一堂线下技术分析课程。
-
-这是一堂以实战为核心的课程，你将学习如何阅读市场、分析图表，并建立属于自己的交易逻辑，而不是单纯学习理论知识。
-
-完成课程后，你将能够：
-
-学会分析市场趋势与价格结构
-
-运用 MACD 背离、Fibonacci、Trendline，以及支撑位与阻力位进行技术分析
-
-找出更有机会的交易进场点（Entry）
-
-规划合理的止盈（Take Profit）与止损（Stop Loss）
-
-完成这堂课程后，你将正式踏入交易者的成长旅程，并朝着你的第一个目标 - - First Profit Split 迈进。
-
-欢迎来到 Stage 2：Build。让我们课堂见！
-
-Congratulations on completing your Stage 1 Pre-Training.
-
-It's now time to take your first step into real trading.
-
-This full-day offline bootcamp is designed to help you build the technical analysis skills needed to confidently read the market and make trading decisions.
-
-After This Class, You Will Be Able To:
-
-Analyze market structure with confidence
-
-Identify high-probability trading opportunities
-
-Draw Trendlines, Fibonacci, and Support & Resistance correctly
-
-Understand MACD Divergence and how to apply it
-
-Find your Entry, Take Profit (TP), and Stop Loss (SL) with a structured approach
-
-Welcome to Stage 2: Build.
-
-Let's build your trading foundation and take one step closer to achieving your First Profit Split.
 
 <a id="event-a0e4b59f15dfeb08"></a>
 
@@ -28213,226 +27882,6 @@ With 600+ members operating across 60 countries, Team1 drives the democratizatio
 By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
 
 https://x.com/AvaxTeam1
-
-<a id="event-cbd2ae1ae48b51c2"></a>
-
-## Day 2 - BINUS Crypto Week 2026 x W3W Asia
-
-- Record: `luma-batch-evt5wFpFqqyRp0eJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/j2uvoxoc>
-
-### About the event
-
-BINUS Crypto Week 2026 is the annual flagship Web3 and blockchain event organized by BINUS Blockchain & Crypto Club (BBCC) at BINUS University. The event brings together students, builders, founders, investors, industry leaders, and Web3 communities to explore the latest developments and opportunities across the digital asset ecosystem.
-
-Taking place on 25-26 September 2026 at BINUS Kemanggisan, BINUS Crypto Week features keynote sessions, panel discussions, workshops, competitions, networking sessions, and community activities, creating a platform for education, innovation, and industry engagement.
-
-This year, the event is strengthened through collaborations with leading ecosystem partners, including W3W Asia, alongside a Web3 hackathon in collaboration with ETHJakarta focused on encouraging students and developers to build real-world blockchain solutions.
-
-<a id="event-e9a00b2d0af43692"></a>
-
-## Monad Metropolis Hacker House: 深圳
-
-- Record: `luma-batch-3R8n1wTCT3E1NIn`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T05:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/metropolis-shenzhen-sep-2026>
-
-### About the event
-
-活动详情
-
-Monad Metropolis @ Shenzhen 是 Metropolis 全球线上黑客松期间举办的一场线下 Builder 活动。
-
-Metropolis 是一场为期六周、线上优先、全球开放的黑客松（2026 年 9 月 1 日 - 10 月 13 日），围绕当前最值得投入的四类应用方向展开：
-
-从高性能的金融与交易基础设施，到贴近日常使用场景的消费级产品与支付体验；从社交、创作者与注意力驱动的新型市场，到支撑 AI Agent 进行身份验证、数据交互与自主交易的基础设施。
-
-无论你正在探索 AI Agent、Trading、Payments、Fintech Infrastructure，还是下一代互联网产品的形态，都能在 Metropolis 找到属于自己的命题。
-
-关于 Metropolis
-
-Metropolis 是 Monad 的年度旗舰黑客松，也是 EVM 生态中规模最大的开发者活动之一：
-
-6 周全球线上赛程
-
-9 月 1 日 - 10 月 13 日
-
-$250,000+ 总奖金与资源
-
-四大核心赛道
-
-全球多个城市线下 Hacker House
-
-优秀项目将获得进一步的投资人、生态合作方与全球资源支持
-
-此前 Monad 的 Blitz 系列已在全球多个城市持续举办，帮助大量开发者从 Idea 走向真正上线的产品。
-
-本届 Metropolis 还获得了众多生态与技术合作伙伴支持，包括 Alibaba Cloud Qwen、Kimi、Tencent Cloud Hunyuan、Chainlink、MetaMask、Nansen AI、Alchemy、Agora、Privy、Dynamic、Perpl 等，为 Builder 提供现金奖励、模型额度、开发工具和生态资源。
-
-杭州 & 深圳线下 Hacker House
-
-在中国，Metropolis 将举办两场线下 Builder 活动：
-
-9 月 19 日｜杭州
-
-9 月 26 日｜深圳
-
-每场活动都将包含：Metropolis 黑客松介绍、项目及技术分享、嘉宾圆桌讨论、Builder Demo、Mentor 现场交流、自由 networking - - 帮助参与黑客松的开发者面对面交流、组队、打磨产品，也与投资人、生态项目和潜在合作伙伴建立更直接的连接。
-
-深圳站主题
-
-深圳站将重点围绕 Agentic Finance × Trading × Global Payments 展开讨论。
-
-AI Agent 正在从「会回答问题」走向「会执行任务」，下一阶段则是进一步成为真正的经济参与者 - - 能够自主管理账户、调用金融服务、执行交易、完成支付与跨境结算。
-
-与此同时，链上市场也正在进入新的产品周期：更快的执行环境、更成熟的交易基础设施，以及 AI 驱动的决策与自动化，让 Agent、Trading 与 Payments 开始出现真正的交叉点。
-
-当 Agent 开始拥有资金、策略与执行能力，下一代金融产品会长什么样？
-
-深圳站将邀请来自 Trading、Agentic Payments、跨境支付、投资机构、Fintech 与 Builder 社区 的嘉宾，从真实产品、市场和投资视角，一起讨论这一正在形成的新赛道。
-
-深圳站嘉宾
-
-Frank - Senior Investment Manager @ IOSG
-
-Henry - Partner & CBO @ SNZ Holdings
-
-Augustine Fan - Partner & CFO @ SignalPlus
-
-Jack - Head of Ecosystem @ FluxA
-
-Alma - Cyberport
-
-Cicilia Y - Amazon Payment
-
-深圳站议程
-
-13:30 签到 & Networking
-
-14:00 Opening：Metropolis 黑客松介绍 - Box，Monad Foundation 大中华区开发者关系负责人
-
-14:30 Featured Sharing｜AI 时代，交易基础设施正在发生什么变化？ - Augustine Fan，Partner & CFO @ SignalPlus
-
-从机构级衍生品交易，到 AI 驱动的决策、自动化执行与下一代交易体验，SignalPlus 将结合真实市场与产品实践，分享 AI 与 Trading 正在发生的变化，以及下一代链上金融产品可能出现的机会。
-
-15:00 Panel Discussion｜当 Agent 开始管理钱：AI × Trading × Global Payments 的下一步
-
-Frank - Senior Investing @ IOSG
-
-Henry - CBO @ SNZ
-
-Jack - Head of Ecosystem @ FluxA
-
-我们会一起讨论：
-
-当 AI Agent 从信息工具变成经济参与者，需要哪些新的金融基础设施？
-
-Agentic Payment 会不会成为 AI 应用下一阶段的重要入口？
-
-Stablecoin、银行卡网络与链上结算会如何共同服务 Agent？
-
-AI 会如何改变 Trading、资产管理和交易产品？
-
-从投资与创业角度看，AI × Crypto 哪些方向已经接近真实 PMF？
-
-身份、授权、预算、风控与合规，哪些仍是 Agent Finance 的关键缺口？
-
-15:45 Builder Demo/ 黑客松项目展示/ Mentor Office Hour
-
-16:45 茶歇 & Networking
-
-最终议程及嘉宾名单以现场公布为准。
-
-如何参与？
-
-Metropolis 全球线上黑客松与深圳 Hacker House 是独立并行的活动。
-
-你可以只参加线上 Hackathon、只参加深圳线下活动，或两项都参加 - - 我们尤其推荐正在参加 Metropolis 的 Builder 来到现场。
-
-你可以在这里：
-
-找到潜在队友
-
-向 Mentor 请教
-
-和投资人交流
-
-认识 Trading、Payments 与 AI 领域的创业者和行业专家
-
-Demo 你的产品
-
-为接下来几周的 Build 获得新的方向和资源
-
-无论你已经有一个正在开发的产品，还是刚刚有一个 Idea，都欢迎来到深圳。
-
-Bring your idea. Meet your people. Build something real.
-
-添加微信进入交流群！（备注：Metropolis深圳）
-
-关于 Monad
-
-Monad 是一个高性能、支持并行执行的 EVM Layer 1。通过在共识与执行层的创新，Monad 为高频交易、消费级应用、支付、AI Agent 等需要高性能链上交互的产品提供基础设施支持。
-
-关于 OpenBuild
-
-OpenBuild 是一个倡导开放协作的开源社区，致力于帮助开发者成长为具备独立产品构建能力的超级个体。社区以开源精神为核心，专注Web3 与 AI 等前沿技术，支持开发者从想法出发，完成从创意到可用产品的全链路实践。
-
-免责声明
-
-参加 Monad Foundation 组织的活动，即表示您进入了一个可能进行摄影、音频和视频直播和/或录制的区域。您参加和出席活动，即表示同意被拍照、摄像（包括现场直播）和/或以其他方式录制，并同意 Monad Foundation 出于与其活动及倡议相关的目的使用相关影像、声音及姓名。
-
-<a id="event-55170a3bc1b9b81e"></a>
-
-## Market Validation. Colosseum Edition
-
-- Record: `luma-batch-eBxFP7l7pt1q0fJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nghu1a4g>
-
-### About the event
-
-Colosseum: Market Validation
-
-Validate your idea before you spend four weeks building it.
-
-A strong hackathon project starts with a problem people actually care about. This workshop will help Colosseum builders turn an idea into a clear customer hypothesis, test it with real users, and gather evidence that can guide what they build.
-
-You will learn practical market validation techniques designed for fast-moving teams, from identifying your target user and defining the problem to running interviews, testing demand, and using early feedback to shape your product.
-
-What you'll learn
-
-How to identify and define your target market
-
-How to separate a real user problem from an interesting idea
-
-How to conduct effective customer discovery interviews
-
-How to test demand before building the full product
-
-How to create and test a clear value proposition
-
-How to turn user feedback into product decisions
-
-How to validate your Colosseum idea quickly and systematically
-
-What you'll leave with
-
-A clearer target user, validated problem hypothesis, value proposition, and plan for testing demand so your team can build with stronger evidence.
-
-Who should join?
-
-Colosseum founders, builders, product teams, designers, and developers who are still shaping their idea or want stronger evidence that their project solves a meaningful problem.
-
-Bring your idea, even if it is still rough. You will have a framework to pressure-test it and leave with concrete next steps.
-
-Build something people want. Then build it for Colosseum.
 
 <a id="event-2b1b307ee2e18f4d"></a>
 
@@ -28785,58 +28234,6 @@ Investors, ecosystem enablers, and corporate partners
 Government representatives and policymakers supporting innovation
 
 Technology enthusiasts interested in learning, networking, and building
-
-<a id="event-1284b24257083049"></a>
-
-## Product Ideation. Colosseum Edition
-
-- Record: `luma-batch-ffsMWl7B0XYgg9X`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-26T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fitf642d>
-
-### About the event
-
-Colosseum: Product Ideation Workshop
-
-Turn an early idea into a product worth building.
-
-The hardest part of a hackathon can happen before you write a single line of code: deciding what to build.
-
-This workshop helps Colosseum builders generate, shape, and pressure-test product ideas that combine real user problems with the capabilities of Solana, AI, and onchain technology.
-
-You will work through a practical ideation process to move from broad concepts to a focused product direction your team can actually build and demo during Colosseum.
-
-What you'll learn
-
-How to identify high-value problems worth solving
-
-How to generate product ideas from real user needs
-
-How to identify where Solana creates meaningful product opportunities
-
-How to combine AI and onchain capabilities into useful products
-
-How to define your target user and core use case
-
-How to narrow a broad idea into a focused MVP
-
-How to pressure-test ideas for feasibility, differentiation, and user value
-
-How to turn your concept into a clear product narrative for Colosseum
-
-What you'll leave with
-
-A clear product concept, target user, core problem, value proposition, and MVP direction that your team can take directly into the build phase.
-
-Who should join?
-
-Colosseum participants, founders, developers, designers, product builders, and teams still deciding what to build.
-
-Come with an idea, a problem, or simply a blank page. Leave with a product direction and a concrete starting point.
-
-Find the problem. Shape the product. Start building.
 
 <a id="event-53653de4d3064df2"></a>
 
@@ -49915,33 +49312,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://ethglobal.com/events/tokyo2026>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-40f509459c8ea3a0"></a>
-
-## Pragma Tokyo 2026
-
-- Record: `luma-host-evt-evt-HVi8pTdZBEHTVLR`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-26T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/pragma-tokyo2026>
-- Original page: <https://luma.com/pragma-tokyo2026>
-
-### About the event
-
-Pragma Tokyo brings founders, builders, and leaders from across Ethereum and the onchain ecosystem together for a full day of talks, interviews, panels, and high-signal networking.
-
-Across the program, speakers will share what they are building, the decisions shaping their work, and where they believe Ethereum is headed next. Expect substantive conversations onstage and time throughout the day to connect with the people leading protocols, products, and companies across the ecosystem.
-
-Confirmed speakers include Takashi Tezuka, CEO of Startale Japan; Armani Ferrante, CEO of Backpack; and Mai Fujimoto, CEO of zERC20. More speakers and program details will be announced soon.
-
-This is a paid ticketed event and will not be livestreamed. Past ETHGlobal hackers or other Pack holders may qualify for a discount.
-
-You can check if [you qualify by logging in and purchasing on our full website](https://ethglobal.com/events/pragma-tokyo2026).
-
-### Mint our Tokyo Pack for a curated experience!
-
-You'll unlock access to Pragma Tokyo and the ETHGlobal Happy Hour, along with a collection of exclusive perks, curated experiences, and special side events hosted by trusted partners and the local community.
 
 <a id="event-06995abc9d1ec9fb"></a>
 
