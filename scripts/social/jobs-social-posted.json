@@ -58173,6 +58173,48 @@
       "verification": "verified",
       "postId": "6adecb580b5343d070091af2",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520328209356460032"
+    },
+    {
+      "slug": "it15",
+      "company": "TRM Labs",
+      "title": "Global Investigator - Triage (APAC)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-26T03:36:41.279Z",
+      "expectedText": "TRM Labs is hiring Global Investigator - Triage (APAC): https://hashtagweb3.com/it15/li?og=7",
+      "snapshot": {
+        "id": "8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+        "title": "Global Investigator - Triage (APAC)",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+        "date": "2026-10-22T18:46:18.270+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (APAC)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "it15"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Global Investigator - Triage (APAC): https://hashtagweb3.com/it15/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/it15/li?og=7",
+          "title": "Global Investigator - Triage (APAC) at TRM Labs",
+          "description": "Join TRM Labs as Global Investigator - Triage. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/it15.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "2be88aea-6b74-433d-b6f8-5c5267fc3d39",
+      "verification": "creating"
     }
   ]
 }
