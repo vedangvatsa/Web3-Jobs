@@ -57655,6 +57655,41 @@
       "attemptId": "c3a2f4e2-d8e6-4c91-9cfa-77166743626f",
       "verification": "verified",
       "postId": "0xb2c7cbbf8ca9eed7b1e8f44ea9a5e8b33568d651"
+    },
+    {
+      "slug": "it15",
+      "company": "TRM Labs",
+      "title": "Global Investigator - Triage (APAC)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-26T03:36:41.279Z",
+      "expectedText": "TRM Labs is hiring Global Investigator - Triage (APAC)\n\nhttps://hashtagweb3.com/it15/fc?og=7",
+      "snapshot": {
+        "id": "8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+        "title": "Global Investigator - Triage (APAC)",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+        "date": "2026-10-22T18:46:18.270+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (APAC)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "it15"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Global Investigator - Triage (APAC)\n\nhttps://hashtagweb3.com/it15/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/it15/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "987e8ed8-3c2e-48e6-bfed-db76ebc92185",
+      "verification": "creating"
     }
   ]
 }
