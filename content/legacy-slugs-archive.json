@@ -149518,5 +149518,377 @@
     "link": "https://job-boards.greenhouse.io/okx/jobs/8004528003",
     "company": "OKX",
     "title": "Team Lead, Legal Response"
+  },
+  "sls319": {
+    "id": "8886039002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8886039002",
+    "company": "Figure",
+    "title": "Licensed Partnerships Account Manager"
+  },
+  "mgr90": {
+    "id": "8005945003",
+    "link": "https://boards.greenhouse.io/drivewealth/jobs/8005945003?gh_jid=8005945003",
+    "company": "DriveWealth",
+    "title": "Relationship Manager, Taiwan"
+  },
+  "pm157": {
+    "id": "8190046",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190046",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales - Crypto"
+  },
+  "pm156": {
+    "id": "8190036",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190036",
+    "company": "Stripe",
+    "title": "Account Executive, Product - Local Payment Methods"
+  },
+  "eng344": {
+    "id": "8204243",
+    "link": "https://www.coinbase.com/careers/positions/8204243?gh_jid=8204243",
+    "company": "Coinbase",
+    "title": "Staff Software Engineer (Platform - Financial Engineering)"
+  },
+  "pm155": {
+    "id": "8234060",
+    "link": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+    "company": "Coinbase",
+    "title": "Group Product Manager, Money Movement"
+  },
+  "pro": {
+    "id": "8210228",
+    "link": "https://stripe.com/jobs/search?gh_jid=8210228",
+    "company": "Stripe",
+    "title": "Proposal Lead"
+  },
+  "des3": {
+    "id": "72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+    "link": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+    "company": "Ramp",
+    "title": "Principal Brand Designer"
+  },
+  "pm154": {
+    "id": "8190042",
+    "link": "https://stripe.com/jobs/search?gh_jid=8190042",
+    "company": "Stripe",
+    "title": "Account Executive, Product Sales, Metronome"
+  },
+  "mgr87": {
+    "id": "8209633",
+    "link": "https://stripe.com/jobs/search?gh_jid=8209633",
+    "company": "Stripe",
+    "title": "Program Manager, Deal Operations"
+  },
+  "be41": {
+    "id": "8f7b0733-dda2-459b-bfc0-7cc428036701",
+    "link": "https://jobs.ashbyhq.com/paxoslabs/8f7b0733-dda2-459b-bfc0-7cc428036701",
+    "company": "Paxos",
+    "title": "Senior Backend Engineer"
+  },
+  "sls171": {
+    "id": "7c55aa7c-90a5-46af-9ce7-134fbf370284",
+    "link": "https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284",
+    "company": "Ramp",
+    "title": "Sales Development Representative, Strategic Accounts"
+  },
+  "sec62": {
+    "id": "4738160005",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4738160005",
+    "company": "Shakepay",
+    "title": "Senior Security Engineer"
+  },
+  "sls170": {
+    "id": "6207896004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207896004",
+    "company": "Alpaca",
+    "title": "Sales Analyst"
+  },
+  "pm153": {
+    "id": "6207943004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207943004",
+    "company": "Alpaca",
+    "title": "Product Manager - Market Data"
+  },
+  "mkt63": {
+    "id": "6208691004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6208691004",
+    "company": "Alpaca",
+    "title": "Staff Data Scientist, Growth"
+  },
+  "pm152": {
+    "id": "43b7efec-0c90-4962-addc-611fb67484a7",
+    "link": "https://jobs.ashbyhq.com/kalshi/43b7efec-0c90-4962-addc-611fb67484a7",
+    "company": "Kalshi",
+    "title": "Product Manager - Core Product"
+  },
+  "cmp67": {
+    "id": "8c20326e-ff18-4c0c-a1a5-5dc09ec2f0b3",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/8c20326e-ff18-4c0c-a1a5-5dc09ec2f0b3",
+    "company": "Chainalysis",
+    "title": "Employment and Compliance Counsel"
+  },
+  "fpa2": {
+    "id": "5435406008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5435406008",
+    "company": "Hut 8",
+    "title": "Financial Planning & Analysis, Principal"
+  },
+  "ops66": {
+    "id": "5435408008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5435408008",
+    "company": "Breeze Cash",
+    "title": "Treasury Operations Manager"
+  },
+  "ops65": {
+    "id": "4c505c39-1a0d-418c-bcf0-f0b3d8f7db5c",
+    "link": "https://jobs.ashbyhq.com/Paxos/4c505c39-1a0d-418c-bcf0-f0b3d8f7db5c",
+    "company": "Paxos",
+    "title": "Manager, People Operations"
+  },
+  "sec61": {
+    "id": "8233889",
+    "link": "https://stripe.com/jobs/search?gh_jid=8233889",
+    "company": "Stripe",
+    "title": "Offensive Security Engineer"
+  },
+  "mgr86": {
+    "id": "8167971",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8167971?t=gh_src=&gh_jid=8167971",
+    "company": "Robinhood",
+    "title": "Customer Care, Program Manager"
+  },
+  "eng337": {
+    "id": "8142952",
+    "link": "https://stripe.com/jobs/search?gh_jid=8142952",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Link - Consumer Identity"
+  },
+  "an56": {
+    "id": "8231575",
+    "link": "https://stripe.com/jobs/search?gh_jid=8231575",
+    "company": "Stripe",
+    "title": "Finance & Strategy Analyst"
+  },
+  "mkt62": {
+    "id": "6208552004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6208552004",
+    "company": "Galaxy Digital",
+    "title": "PMO Project Manager (Growth, Development, Power)"
+  },
+  "mgr84": {
+    "id": "d2beca4a-7409-404b-8382-761e5db6e917",
+    "link": "https://jobs.ashbyhq.com/ramp/d2beca4a-7409-404b-8382-761e5db6e917",
+    "company": "Ramp",
+    "title": "Senior Channel Partner Manager, Strategic Advisory"
+  },
+  "mkt61": {
+    "id": "566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "link": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "company": "Ramp",
+    "title": "Growth Creative Designer, International"
+  },
+  "mgr83": {
+    "id": "cc861080-4e19-43a2-bbeb-5b4dc5c6f92a",
+    "link": "https://jobs.ashbyhq.com/ramp/cc861080-4e19-43a2-bbeb-5b4dc5c6f92a",
+    "company": "Ramp",
+    "title": "Paid Social Manager"
+  },
+  "mgr82": {
+    "id": "b4908db8-ac21-4c7f-b544-a66fffbfb97e",
+    "link": "https://jobs.ashbyhq.com/ramp/b4908db8-ac21-4c7f-b544-a66fffbfb97e",
+    "company": "Ramp",
+    "title": "Senior Channel Partner Manager, Global Advisory / GSI"
+  },
+  "an55": {
+    "id": "70175bde-c777-4e7f-86c1-b505875a0e61",
+    "link": "https://jobs.ashbyhq.com/kraken.com/70175bde-c777-4e7f-86c1-b505875a0e61",
+    "company": "Kraken",
+    "title": "Data Analyst, Regulatory Analytics and Reporting"
+  },
+  "sls137": {
+    "id": "8195478",
+    "link": "https://stripe.com/jobs/search?gh_jid=8195478",
+    "company": "Stripe",
+    "title": "Account Executive, Velocity SMB Hunter"
+  },
+  "sls110": {
+    "id": "8230730",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8230730?t=gh_src=&gh_jid=8230730",
+    "company": "Robinhood",
+    "title": "Customer Experience Representative, Trump Accounts"
+  },
+  "an54": {
+    "id": "a1fb9fcc-56ce-498e-9fa6-c80714b8dc6e",
+    "link": "https://jobs.ashbyhq.com/kraken.com/a1fb9fcc-56ce-498e-9fa6-c80714b8dc6e",
+    "company": "Kraken",
+    "title": "Data Analyst, Regulatory Analytics and Reporting"
+  },
+  "job39": {
+    "id": "0e8d5a03-5907-4f94-a478-49704ac186d0",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/0e8d5a03-5907-4f94-a478-49704ac186d0",
+    "company": "Chainalysis",
+    "title": "「デプロイメント・ストラテジスト（日本）」"
+  },
+  "ops64": {
+    "id": "8224620",
+    "link": "https://stripe.com/jobs/search?gh_jid=8224620",
+    "company": "Stripe",
+    "title": "Strategy & Operations Business Partner, Customer Success"
+  },
+  "job38": {
+    "id": "fd731d43-09e7-4220-8c00-4bfdd5715a0d",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/fd731d43-09e7-4220-8c00-4bfdd5715a0d",
+    "company": "Chainalysis",
+    "title": "ソリューションズアーキテクト（金融サービス"
+  },
+  "pm151": {
+    "id": "8233263",
+    "link": "https://stripe.com/jobs/search?gh_jid=8233263",
+    "company": "Stripe",
+    "title": "Product Marketing Manager, Revenue suite"
+  },
+  "pm150": {
+    "id": "8213481",
+    "link": "https://stripe.com/jobs/search?gh_jid=8213481",
+    "company": "Stripe",
+    "title": "Account Executive, Product (Global Payouts - Hunter)"
+  },
+  "rcft": {
+    "id": "8231145",
+    "link": "https://stripe.com/jobs/search?gh_jid=8231145",
+    "company": "Stripe",
+    "title": "Recruiting Coordinator (Fixed-Term Contract)"
+  },
+  "as": {
+    "id": "4969802101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4969802101",
+    "company": "Bybit",
+    "title": "Lead AML Specialist"
+  },
+  "eng336": {
+    "id": "6207266004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207266004",
+    "company": "Alpaca",
+    "title": "Senior Software Engineer - Payments & Treasury"
+  },
+  "sls109": {
+    "id": "5428504008",
+    "link": "http://block.xyz/careers/jobs/5428504008?gh_jid=5428504008",
+    "company": "Block",
+    "title": "Mid-Market Account Executive"
+  },
+  "mgr80": {
+    "id": "6208501004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6208501004",
+    "company": "Galaxy Digital",
+    "title": "Project Controls Manager (Data Center Construction)"
+  },
+  "sls97": {
+    "id": "5427647008",
+    "link": "http://block.xyz/careers/jobs/5427647008?gh_jid=5427647008",
+    "company": "Block",
+    "title": "Territory Account Executive - London"
+  },
+  "qa94": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "qa46": {
+    "id": "744000151850899",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850899-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "an53": {
+    "id": "744000151849386",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151849386-senior-data-analyst",
+    "company": "Solflare",
+    "title": "Senior Data Analyst"
+  },
+  "an52": {
+    "id": "744000151850559",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850559-senior-data-analyst",
+    "company": "Solflare",
+    "title": "Senior Data Analyst"
+  },
+  "an51": {
+    "id": "744000151845942",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151845942-senior-data-analyst",
+    "company": "Solflare",
+    "title": "Senior Data Analyst"
+  },
+  "eng335": {
+    "id": "8227563",
+    "link": "https://stripe.com/jobs/search?gh_jid=8227563",
+    "company": "Stripe",
+    "title": "Partner Solutions Engineer, Ecosystem"
+  },
+  "dmlr2": {
+    "id": "8005130003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8005130003",
+    "company": "OKX",
+    "title": "Deputy Money Laundering Reporting Officer, Eurasia"
+  },
+  "mkt57": {
+    "id": "8230296",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230296",
+    "company": "Stripe",
+    "title": "Data Analyst, Global Growth"
+  },
+  "mkt54": {
+    "id": "4987239101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4987239101",
+    "company": "Bitpanda",
+    "title": "Manager, Growth Analytics"
+  },
+  "mkt53": {
+    "id": "4983426101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4983426101",
+    "company": "Bitpanda",
+    "title": "Manager, Growth Analytics"
+  },
+  "sls181": {
+    "id": "8225841",
+    "link": "https://stripe.com/jobs/search?gh_jid=8225841",
+    "company": "Stripe",
+    "title": "Sales Leader, India"
+  },
+  "eng333": {
+    "id": "8005095003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8005095003",
+    "company": "OKX",
+    "title": "Software Engineer, Mobile(iOS)"
+  },
+  "pm149": {
+    "id": "8004117003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8004117003",
+    "company": "OKX",
+    "title": "Principal Product Manager - Professional Trading Tools & Experience"
+  },
+  "cmp64": {
+    "id": "8230294",
+    "link": "https://stripe.com/jobs/search?gh_jid=8230294",
+    "company": "Stripe",
+    "title": "Legal Operations Team Lead"
+  },
+  "sec60": {
+    "id": "4987000101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4987000101",
+    "company": "Bybit",
+    "title": "Chief Information Security Officer"
+  },
+  "eng332": {
+    "id": "7990958003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7990958003",
+    "company": "OKX",
+    "title": "Senior/Staff Engineer - Web3 - Onchain Data"
+  },
+  "ops63": {
+    "id": "8005031003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8005031003",
+    "company": "OKX",
+    "title": "Senior Operations Manager, Liquidity Management"
   }
 }
