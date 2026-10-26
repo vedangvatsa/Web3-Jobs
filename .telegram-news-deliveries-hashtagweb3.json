@@ -2286,7 +2286,7 @@
     "sentAt": "2026-10-25T19:41:47.257Z"
   },
   "2835d6b3-44a9-46a2-991a-9d4c45e4c210": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-26T11:36:24.995Z",
     "stories": [
       {
@@ -2314,6 +2314,8 @@
         "originalTitle": "Tether says 15 mining firms back its MDK automation layer for Bitcoin mines"
       }
     ],
-    "slotKey": "2026-10-26:afternoon"
+    "slotKey": "2026-10-26:afternoon",
+    "messageId": 155937,
+    "sentAt": "2026-10-26T11:36:28.671Z"
   }
 }
