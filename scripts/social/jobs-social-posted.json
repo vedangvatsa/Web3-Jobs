@@ -59319,6 +59319,35 @@
       "verification": "verified",
       "postId": "6adfad9a419fee619ae5a6c1",
       "permalink": "https://twitter.com/hashtag_web3/status/2114805374226186548"
+    },
+    {
+      "slug": "vpdf",
+      "company": "Galaxy Digital",
+      "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate",
+      "platform": "threads",
+      "postedAt": "2026-10-26T19:44:24.006Z",
+      "expectedText": "Galaxy Digital is hiring Vice President, Decentralized Finance OnChain Counsel - Corporate: https://hashtagweb3.com/vpdf/th?og=7",
+      "snapshot": {
+        "id": "6225504004",
+        "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6225504004",
+        "date": "2026-10-15T12:17:04-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York, NY",
+        "department": "Legal/Compliance",
+        "active": true,
+        "salary": "$220k – $250k/yr",
+        "dateVerified": true,
+        "slug": "vpdf"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Vice President, Decentralized Finance OnChain Counsel - Corporate: https://hashtagweb3.com/vpdf/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/vpdf/th?og=7"
+      },
+      "attemptId": "c31ef71d-c8b9-41ee-afa6-f7895eb59719",
+      "verification": "creating"
     }
   ]
 }
