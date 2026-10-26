@@ -3376,5 +3376,51 @@
     "slotKey": "2026-10-26:morning",
     "messageId": 155927,
     "sentAt": "2026-10-26T03:33:02.945Z"
+  },
+  "f438c523-79e1-4436-b1bf-bb65d2b0698c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-26T11:32:03.763Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316996838",
+        "slug": "bitcoin-turns-18",
+        "name": "Bitcoin Turns 18",
+        "startDate": "2026-10-31T13:00:00Z",
+        "keys": [
+          "mu-316996838",
+          "page:bitcoin-turns-18:2026-10-31",
+          "url:meetup.com/lisbon-bitcoin-maximalists/events/316996838:2026-10-31",
+          "event:bitcointurns18:2026-10-31:lisbon"
+        ]
+      },
+      {
+        "id": "mu-317050872",
+        "slug": "whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only",
+        "name": "Whitepaper Day BBQ [acto asociado a Barcelona Bitcoin Only]",
+        "startDate": "2026-10-31T14:00:00+01:00",
+        "keys": [
+          "mu-317050872",
+          "page:whitepaper-day-bbq-acto-asociado-barcelona-bitcoin-only:2026-10-31",
+          "url:meetup.com/bitcoin-barcelona/events/317050872:2026-10-31",
+          "event:whitepaperdaybbqactoasociadoabarcelonabitcoinonly:2026-10-31:barcelona"
+        ]
+      },
+      {
+        "id": "discovery-evt-dH0OIQgV4mlarUH",
+        "slug": "bitcoin-indonesia-community-meetup-jakarta-barat-01-november",
+        "name": "Bitcoin Indonesia Community Meetup Jakarta Barat 01 November 2026",
+        "startDate": "2026-11-01T15:00:00+07:00",
+        "keys": [
+          "discovery-evt-dh0oiqgv4mlaruh",
+          "page:bitcoin-indonesia-community-meetup-jakarta-barat-01-november:2026-11-01",
+          "luma:evt-dh0oiqgv4mlaruh",
+          "luma-url:/yo5uyb5d",
+          "event:bitcoinindonesiacommunitymeetupjakartabarat01november2026:2026-11-01:jakarta barat (administrative city)"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-26:afternoon"
   }
 }
