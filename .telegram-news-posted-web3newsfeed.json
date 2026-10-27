@@ -848,6 +848,9 @@
   "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/polymarketohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/phppanic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sectokenization?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/shinhanstable?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2444,6 +2447,12 @@
   "Polymarket sues Ohio in federal court over sports event contract order",
   "PHP Patches Two Bugs Following Attacks on Government Websites",
   "PHP releases emergency patches for two critical bugs after government sites go offline",
+  "Pump.fun sets in-house bridge as default for crosschain trades",
+  "Pump.fun makes its own Pump Bridge the default crosschain route",
+  "SEC Identifies Asset Tokenization as High-Risk for Clearing Agencies",
+  "SEC Exam Priorities Name Tokenization a High-Risk Area at Clearing Agencies",
+  "Shinhan Card and SBI Test Yen Stablecoin Payments",
+  "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2821,5 +2830,8 @@
   "fp:automat|automation|back|fifteen|firm|fleet|hardwar|integrat|kit|layer",
   "fp:137b|alleg|also|cryptocurrency|founder|four|fraud|judgment|novatech|promoter",
   "fp:bett|claim|constitution|contract|court|demand|event|exchang|federal|law",
-  "fp:109618|109619|activ|against|arriv|attack|bug|cloudflar|critical|cve2026"
+  "fp:109618|109619|activ|against|arriv|attack|bug|cloudflar|critical|cve2026",
+  "fp:averag|bridg|buy|crosschain|data|decreas|default|error|fell|fun",
+  "fp:agency|area|asset|clear|exam|examination|firm|high|identify|includ",
+  "fp:are|bas|between|card|japan|korea|payment|sbi|shinhan|south"
 ]

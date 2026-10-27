@@ -2385,7 +2385,7 @@
     "sentAt": "2026-10-26T19:47:51.881Z"
   },
   "7b2bcb9d-ac58-4fb4-96d7-3d15159e0b1f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T03:45:37.549Z",
     "stories": [
       {
@@ -2413,6 +2413,8 @@
         "originalTitle": "Shinhan Card and SBI test yen stablecoin payments for Japan-Korea travel"
       }
     ],
-    "slotKey": "2026-10-27:morning"
+    "slotKey": "2026-10-27:morning",
+    "messageId": 65780,
+    "sentAt": "2026-10-27T03:45:47.561Z"
   }
 }
