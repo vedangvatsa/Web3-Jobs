@@ -2352,7 +2352,7 @@
     "sentAt": "2026-10-27T03:43:53.383Z"
   },
   "ec32d64b-5211-4bbf-af42-48dd6a2c2261": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T19:35:49.581Z",
     "stories": [
       {
@@ -2380,6 +2380,8 @@
         "originalTitle": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed"
       }
     ],
-    "slotKey": "2026-10-27:evening"
+    "slotKey": "2026-10-27:evening",
+    "messageId": 155955,
+    "sentAt": "2026-10-27T19:35:56.001Z"
   }
 }

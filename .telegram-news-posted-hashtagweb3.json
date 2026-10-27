@@ -821,6 +821,9 @@
   "https://hashtagweb3.com/bokforex?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/canadastablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/keystonebreach?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/initiareserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2370,6 +2373,12 @@
   "New York Seeks $1.37 Billion Judgment From NovaTech Founders",
   "Pump.fun replaces Relay with internal Pump Bridge",
   "Pump.fun makes its own Pump Bridge the default crosschain route",
+  "Canada releases draft regulations for stablecoin issuers",
+  "Canada Opens 60-Day Consultation on Draft Stablecoin Rules",
+  "Keystone destroys 19,000 hardware wallets after security breach",
+  "Keystone to destroy almost 19,000 wallets after breach exposes customer data and device verification key",
+  "Initia bridge exploit drains USDC reserves to $63",
+  "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2741,5 +2750,8 @@
   "fp:adopt|automation|back|fifteen|firm|hardwar|integrat|kit|layer|manag",
   "fp:amend|audit|bank|central|exchang|fil|foreign|forex|korea|law",
   "fp:137b|announc|attorney|firm|founder|four|general|individual|judgment|novatech",
-  "fp:bridg|crosschain|default|error|fun|improv|internal|mak|own|platform"
+  "fp:bridg|crosschain|default|error|fun|improv|internal|mak|own|platform",
+  "fp:canada|cannot|consultation|day|draft|holder|interest|issuer|local|must",
+  "fp:000|accessed26|all|almost19|breach|customer|data|destroy|destroys19|devic",
+  "fp:bridg|caus|creat|deplet|down|drain|drov|exploit|fail|failur"
 ]
