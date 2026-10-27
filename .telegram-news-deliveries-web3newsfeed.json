@@ -2450,5 +2450,36 @@
     "slotKey": "2026-10-27:afternoon",
     "messageId": 65781,
     "sentAt": "2026-10-27T11:36:06.181Z"
+  },
+  "c17cce17-2de2-4c24-9ede-c913c8e3031c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:36:43.773Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Initia exploit drains bridge reserves and halts user withdrawals",
+        "summary": "Attackers stole $2.73 million using unbacked tokens, leaving the Noble USDC reserve with only $63.",
+        "link": "https://hashtagweb3.com/initiareserve?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed"
+      },
+      {
+        "index": -1,
+        "headline": "Starknet voters support research into a new layer 1",
+        "summary": "StarkWare and the Starknet Foundation are investigating a potential independent layer 1 following a recent community vote.",
+        "link": "https://hashtagweb3.com/starknetresearch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Starknet poll backs layer 1 research with 93.5% of voting power"
+      },
+      {
+        "index": -1,
+        "headline": "Three Firms Notify SEC of Tokenized Stock Venue Plans",
+        "summary": "TSV LLC, OKXICE, and Kephas Corp informed regulators of their intent to operate venues for tokenized securities.",
+        "link": "https://hashtagweb3.com/secstocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Names Three Operators Notifying It of Tokenized Stock Venue Plans"
+      }
+    ],
+    "slotKey": "2026-10-27:evening"
   }
 }
