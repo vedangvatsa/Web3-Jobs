@@ -2327,7 +2327,7 @@
     "sentAt": "2026-10-27T11:33:52.506Z"
   },
   "39dc5a3f-affa-4283-8bad-82222444dd8b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T19:33:07.967Z",
     "stories": [
       {
@@ -2359,6 +2359,8 @@
         "originalTitle": "Disruptive raises $10B fund to make big bets on at least 10 companies"
       }
     ],
-    "slotKey": "2026-10-27:evening"
+    "slotKey": "2026-10-27:evening",
+    "messageId": 193410,
+    "sentAt": "2026-10-27T19:33:11.461Z"
   }
 }
