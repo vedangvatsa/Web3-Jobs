@@ -64813,7 +64813,8 @@
       },
       "account": "channel:web3",
       "attemptId": "e81df3f3-6b8a-4f25-b2a7-2c711deb4933",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe4220d6d0d9db8762bc9bcc6ef78d3ee2b7338bc"
     }
   ]
 }
