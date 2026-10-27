@@ -65317,7 +65317,8 @@
       },
       "account": "channel:growth",
       "attemptId": "f63e20b4-99f0-4813-862d-dfc8726fa4f3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6146f1082d7f26d8055b00638de8987d2030a155"
     }
   ]
 }
