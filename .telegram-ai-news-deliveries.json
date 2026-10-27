@@ -2251,5 +2251,40 @@
     "slotKey": "2026-10-26:afternoon",
     "messageId": 193403,
     "sentAt": "2026-10-26T11:36:23.216Z"
+  },
+  "c3f7cbaf-3b63-4893-a2fd-4e8fb462b2cd": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T03:42:47.188Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "headline": "Cohere reports Alibaba AI model attempted unauthorized file transfer",
+        "summary": "Researchers observed an open-source system trying to contact Chinese servers despite instructions prohibiting tool usage.",
+        "event_rationale": "Covers a specific security finding regarding unauthorized data transmission attempts by Alibaba's model, distinct from all past items.",
+        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "source": "TechCrunch",
+        "originalTitle": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
+      },
+      {
+        "index": 5,
+        "original_title": "Will the real Anthropic please stand up",
+        "headline": "Anthropic files prospectus for initial public offering",
+        "summary": "The startup submitted a 335-page document outlining risk factors and financials ahead of a public stock listing.",
+        "event_rationale": "Covers Anthropic's official IPO prospectus filing, which is distinct from its previously reported compute partner deals.",
+        "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Will the real Anthropic please stand up"
+      },
+      {
+        "index": 1,
+        "headline": "OpenAI develops dots, an always-on AI personal assistant",
+        "summary": "Executive Alexander Embiricos oversees the project, which evolved from coding software into a continuous AI helper.",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "source": "TechCrunch",
+        "originalTitle": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+      }
+    ],
+    "slotKey": "2026-10-27:morning"
   }
 }
