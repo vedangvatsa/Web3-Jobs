@@ -2288,5 +2288,40 @@
     "slotKey": "2026-10-27:morning",
     "messageId": 193405,
     "sentAt": "2026-10-27T03:42:49.682Z"
+  },
+  "19971baf-a890-443b-b028-fb7e7f822dff": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T11:33:48.807Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "headline": "SpaceX secures 40 billion dollar GPU financing from Apollo",
+        "summary": "The deal provides capital for massive hardware acquisitions to support large-scale artificial intelligence development and infrastructure expansion.",
+        "event_rationale": "This covers a massive infrastructure funding event for AI hardware, distinct from OpenAI's recent valuation news.",
+        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "source": "TechCrunch",
+        "originalTitle": "SpaceX locks in $40B GPU financing deal with Apollo"
+      },
+      {
+        "index": 4,
+        "original_title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+        "headline": "Boston Dynamics employees protest robot dog sale to ICE",
+        "summary": "More than 300 workers signed a petition opposing the use of robotics technology for border enforcement and surveillance.",
+        "event_rationale": "This covers labor and ethical opposition to government robotics contracts, distinct from general AI safety or model releases.",
+        "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+        "source": "Ars Technica",
+        "originalTitle": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees"
+      },
+      {
+        "index": 1,
+        "headline": "Nvidia backs Indian AI startup Simplismart",
+        "summary": "Simplismart's revenue rate grew 14-fold in six months, with over half coming from the U.S.",
+        "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "source": "TechCrunch",
+        "originalTitle": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
+      }
+    ],
+    "slotKey": "2026-10-27:afternoon"
   }
 }
