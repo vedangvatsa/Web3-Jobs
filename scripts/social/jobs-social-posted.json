@@ -60932,6 +60932,47 @@
       "verification": "verified",
       "postId": "6ae01e868f5aed9e2e353e49",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520692399610916864"
+    },
+    {
+      "slug": "aso64",
+      "company": "Crypto.com",
+      "title": "Associate, Finance Administration & Bank Management",
+      "platform": "linkedin",
+      "postedAt": "2026-10-27T03:42:54.551Z",
+      "expectedText": "Crypto.com is hiring Associate, Finance Administration & Bank Management: https://hashtagweb3.com/aso64/li?og=7",
+      "snapshot": {
+        "id": "63fb5f4c-0bda-4956-b313-06357027ece3",
+        "title": "Associate, Finance Administration & Bank Management",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/63fb5f4c-0bda-4956-b313-06357027ece3",
+        "date": "2026-10-21T03:46:19.599Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (Hong Kong)",
+        "workplaceType": "hybrid",
+        "department": "Corporate",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso64"
+      },
+      "payload": {
+        "text": "Crypto.com is hiring Associate, Finance Administration & Bank Management: https://hashtagweb3.com/aso64/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso64/li?og=7",
+          "title": "Associate, Finance Administration & Bank Management at Crypto.com",
+          "description": "Join Crypto.com as Associate, Finance Administration. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso64.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "bd454e62-a39d-42b5-8156-f3119fd4d36d",
+      "verification": "creating"
     }
   ]
 }
