@@ -3572,5 +3572,52 @@
     "slotKey": "2026-10-27:afternoon",
     "messageId": 155946,
     "sentAt": "2026-10-27T11:32:01.063Z"
+  },
+  "66979222-ffb3-4916-87f8-fa43e0885cb8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:32:41.010Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "mu-316542881",
+        "slug": "crypto-wednesday-unconference-meetup-dao-gathering",
+        "name": "Crypto Wednesday: unconference, meetup and DAO gathering",
+        "startDate": "2026-11-04T19:00:00+01:00",
+        "keys": [
+          "mu-316542881",
+          "page:crypto-wednesday-unconference-meetup-dao-gathering:2026-11-04",
+          "url:meetup.com/daobrussels/events/316542881:2026-11-04",
+          "event:cryptowednesdayunconferencemeetupanddaogathering:2026-11-04:brussels"
+        ]
+      },
+      {
+        "id": "w3v-bitcoin-seoul-privacy-edition-26-11-05",
+        "slug": "bitcoin-seoul-privacy-edition",
+        "name": "bitcoin++ Seoul, Privacy Edition 2026",
+        "startDate": "2026-11-05",
+        "keys": [
+          "w3v-bitcoin-seoul-privacy-edition-26-11-05",
+          "page:bitcoin-seoul-privacy-edition:2026-11-05",
+          "url:btcpp.dev/seoul:2026-11-05",
+          "event:bitcoinseoulprivacyedition2026:2026-11-05:seoul"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-BabRKkjuW29SOdD",
+        "slug": "nodes-need-fresh-air-too-ethereum-infra-walk",
+        "name": "Nodes Need Fresh Air Too | Ethereum Infra Walk",
+        "startDate": "2026-11-05T01:30:00.000Z",
+        "keys": [
+          "ibw-luma-evt-babrkkjuw29sodd",
+          "freshair",
+          "page:nodes-need-fresh-air-too-ethereum-infra-walk:2026-11-05",
+          "luma:evt-babrkkjuw29sodd",
+          "luma-url:/4o1mzip0",
+          "event:nodesneedfreshairtooethereuminfrawalk:2026-11-05:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:evening"
   }
 }
