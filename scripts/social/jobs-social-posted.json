@@ -61952,8 +61952,9 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "84bae4fa-56a0-41db-8f56-546b254c0980",
-      "verification": "pending",
-      "postId": "6ae01f7ba6170f32b1771b37"
+      "verification": "verified",
+      "postId": "6ae01f7ba6170f32b1771b37",
+      "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520693428029136896"
     }
   ]
 }
