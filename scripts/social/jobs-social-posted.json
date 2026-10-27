@@ -61423,7 +61423,8 @@
       },
       "account": "channel:developers",
       "attemptId": "72653750-3cf6-4fda-9efb-3fd2b3c7a14e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x416aa43874f8179fb9277d1fbabb3049d3b182ba"
     }
   ]
 }
