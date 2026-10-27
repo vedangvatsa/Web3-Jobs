@@ -90034,7 +90034,31 @@
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
       "attempts": 0,
       "expiresAt": "2026-10-27T19:33:21.000Z",
-      "lastSeenAt": "2026-10-25T03:39:00.304Z"
+      "lastSeenAt": "2026-10-25T03:39:00.304Z",
+      "articleSlug": "keystonebreach",
+      "draftProgress": {
+        "id": "afdcef96ba3f98591fa1",
+        "day": "2026-10-27",
+        "articleSlug": "keystonebreach",
+        "note": "Read Crypto Briefing, Protos and Cointelegraph; article and image still to be written.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://protos.com/keystone-to-destroy-almost-19000-wallets-after-device-key-leak/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-10-27T04:17:04.376Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b02ce36444481c99f0f6": {
       "source": "The Defiant",
