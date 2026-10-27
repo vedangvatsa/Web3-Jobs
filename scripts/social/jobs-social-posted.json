@@ -61952,7 +61952,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "84bae4fa-56a0-41db-8f56-546b254c0980",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae01f7ba6170f32b1771b37"
     }
   ]
 }
