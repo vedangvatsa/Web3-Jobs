@@ -65173,7 +65173,8 @@
       },
       "account": "channel:defi",
       "attemptId": "6c168c7c-819c-4d36-b13a-3b9a6a7ad7b4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6fd5cb4f4ba79381483f747342861aae87845dec"
     }
   ]
 }
