@@ -61165,7 +61165,8 @@
       },
       "account": "profile",
       "attemptId": "1d6278c6-b571-4bda-9de3-cb7d0abf5840",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x45a7743c53399141621457bf79c4519aef1f0c0d"
     }
   ]
 }
