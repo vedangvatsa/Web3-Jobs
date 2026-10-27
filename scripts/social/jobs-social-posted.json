@@ -60393,6 +60393,40 @@
       "attemptId": "3bd74689-63f2-4894-8960-b7f4c7b93dad",
       "verification": "verified",
       "postId": "0xdbb19b4766361a973e72aff048a6c3662fda28fa"
+    },
+    {
+      "slug": "aso64",
+      "company": "Crypto.com",
+      "title": "Associate, Finance Administration & Bank Management",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T03:42:54.551Z",
+      "expectedText": "Crypto.com is hiring Associate, Finance Administration & Bank Management\n\nhttps://hashtagweb3.com/aso64/fc?og=7",
+      "snapshot": {
+        "id": "63fb5f4c-0bda-4956-b313-06357027ece3",
+        "title": "Associate, Finance Administration & Bank Management",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/63fb5f4c-0bda-4956-b313-06357027ece3",
+        "date": "2026-10-21T03:46:19.599Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (Hong Kong)",
+        "workplaceType": "hybrid",
+        "department": "Corporate",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso64"
+      },
+      "payload": {
+        "text": "Crypto.com is hiring Associate, Finance Administration & Bank Management\n\nhttps://hashtagweb3.com/aso64/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso64/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "b5957a7f-c79d-4069-adcb-f7679dd329b6",
+      "verification": "creating"
     }
   ]
 }
