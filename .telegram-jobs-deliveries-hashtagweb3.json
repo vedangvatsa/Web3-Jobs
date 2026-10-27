@@ -4943,5 +4943,100 @@
     "slotKey": "2026-10-27:afternoon",
     "messageId": 155947,
     "sentAt": "2026-10-27T11:33:47.112Z"
+  },
+  "e5df97e7-d74d-4856-b8cb-3cc5756a2c55": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T19:33:51.341Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a808d519-404a-4aee-9189-2b1ad62d0330",
+          "title": "Account Executive | SLED",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330",
+          "date": "2026-10-13T03:26:10.759+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Remote (San Francisco, CA)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls20"
+        },
+        "key": "a808d519-404a-4aee-9189-2b1ad62d0330",
+        "slug": "sls20",
+        "url": "https://hashtagweb3.com/sls20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Account Executive | SLED"
+      },
+      {
+        "snapshot": {
+          "id": "6205545004",
+          "title": "Solutions Architect - TradFi & Digital Asset Systems",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6205545004",
+          "date": "2026-10-06T12:53:01-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York, NY",
+          "department": "Digital Infrastructure",
+          "active": true,
+          "salary": "$175k – $250k/yr",
+          "dateVerified": true,
+          "slug": "arc15"
+        },
+        "key": "6205545004",
+        "slug": "arc15",
+        "url": "https://hashtagweb3.com/arc15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "8224915",
+          "title": "Machine Learning Engineer, Growth Platform",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8224915",
+          "date": "2026-09-28T11:58:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco",
+          "department": "7112 Data Science",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt66"
+        },
+        "key": "8224915",
+        "slug": "mkt66",
+        "url": "https://hashtagweb3.com/mkt66?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Machine Learning Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6231661004",
+          "title": "Senior Cashiering Associate",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6231661004",
+          "date": "2026-10-23T00:22:02-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Americas",
+          "department": "Brokerage",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso39"
+        },
+        "key": "6231661004",
+        "slug": "aso39",
+        "url": "https://hashtagweb3.com/aso39?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Senior Cashiering Associate"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/sls20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive | SLED</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/arc15?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect - TradFi &amp; Digital Asset Systems</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt66?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Machine Learning Engineer, Growth Platform</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/aso39?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Cashiering Associate</a>",
+    "slotKey": "2026-10-27:evening"
   }
 }
