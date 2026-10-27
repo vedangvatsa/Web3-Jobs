@@ -2319,7 +2319,7 @@
     "sentAt": "2026-10-26T11:36:28.671Z"
   },
   "08bff5c5-ff19-4542-94be-6ae90d7ae9f0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T03:43:47.624Z",
     "stories": [
       {
@@ -2347,6 +2347,8 @@
         "originalTitle": "Pump.fun makes its own Pump Bridge the default crosschain route"
       }
     ],
-    "slotKey": "2026-10-27:morning"
+    "slotKey": "2026-10-27:morning",
+    "messageId": 155945,
+    "sentAt": "2026-10-27T03:43:53.383Z"
   }
 }

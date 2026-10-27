@@ -818,6 +818,9 @@
   "https://hashtagweb3.com/dogebrandlicense?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/evernorthcantor?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/tethermdk?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bokforex?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2361,6 +2364,12 @@
   "Evernorth signs Cantor equity facility to fund XRP purchases",
   "Fifteen firms adopt Tether's Bitcoin mining software kit",
   "Tether says 15 mining firms back its MDK automation layer for Bitcoin mines",
+  "Bank of Korea Plans Stablecoin Foreign Exchange Regulation",
+  "Bank of Korea Sets Out Stablecoin Forex Law Plan in Audit Filing",
+  "New York Seeks $1.37 Billion From NovaTech Founders",
+  "New York Seeks $1.37 Billion Judgment From NovaTech Founders",
+  "Pump.fun replaces Relay with internal Pump Bridge",
+  "Pump.fun makes its own Pump Bridge the default crosschain route",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2729,5 +2738,8 @@
   "fp:advis|asset|browser|creat|extension|fearless|four|fund|leak|mov",
   "fp:000|400|both|contract|december31|dog|dogecoin|end|entity|exclusiv",
   "fp:807m|affiliat|cantor|equity|evernorth|facility|fitzgerald|fiv|fund|increas",
-  "fp:adopt|automation|back|fifteen|firm|hardwar|integrat|kit|layer|manag"
+  "fp:adopt|automation|back|fifteen|firm|hardwar|integrat|kit|layer|manag",
+  "fp:amend|audit|bank|central|exchang|fil|foreign|forex|korea|law",
+  "fp:137b|announc|attorney|firm|founder|four|general|individual|judgment|novatech",
+  "fp:bridg|crosschain|default|error|fun|improv|internal|mak|own|platform"
 ]
