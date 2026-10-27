@@ -17,7 +17,7 @@ if (fs.existsSync(envLocalPath)) {
 
 const PH_API_KEY = process.env.POSTHOG_PERSONAL_API_KEY;
 const PH_PROJECT_ID = process.env.POSTHOG_PROJECT_ID;
-const PH_HOST = process.env.POSTHOG_API_HOST || 'https://us.posthog.com';
+let currentHost = process.env.POSTHOG_API_HOST || 'https://us.posthog.com';
 
 if (!PH_API_KEY || !PH_PROJECT_ID) {
   console.error('[query-posthog] Error: POSTHOG_PERSONAL_API_KEY or POSTHOG_PROJECT_ID is missing.');
@@ -30,7 +30,7 @@ async function runHogQL(title: string, query: string): Promise<any> {
   console.log(`[query-posthog] ${title}`);
   console.log(`======================================================`);
 
-  const url = `${PH_HOST.replace(/\/$/, '')}/api/projects/${PH_PROJECT_ID}/query/`;
+  const url = `${currentHost.replace(/\/$/, '')}/api/projects/${PH_PROJECT_ID}/query/`;
   const res = await fetch(url, {
     method: 'POST',
     headers: {
@@ -52,8 +52,42 @@ async function runHogQL(title: string, query: string): Promise<any> {
   return data;
 }
 
+async function testAuth(host: string, key: string): Promise<any> {
+  try {
+    const res = await fetch(`${host.replace(/\/$/, '')}/api/users/@me/`, {
+      headers: { Authorization: `Bearer ${key}` }
+    });
+    if (!res.ok) {
+      const err = await res.text();
+      return { ok: false, status: res.status, err };
+    }
+    const data = await res.json();
+    return { ok: true, email: data.email, org: data.organization?.name, team: data.team?.id };
+  } catch (e: any) {
+    return { ok: false, err: e.message };
+  }
+}
+
 async function main() {
-  console.log(`[query-posthog] Querying PostHog project ${PH_PROJECT_ID} via ${PH_HOST}...`);
+  console.log(`[query-posthog] Key length: ${PH_API_KEY.length}, prefix: ${PH_API_KEY.slice(0, 4)}***`);
+  console.log(`[query-posthog] Configured Host: ${PH_HOST}`);
+  console.log(`[query-posthog] Configured Project ID: ${PH_PROJECT_ID}`);
+
+  // Test auth on US and EU
+  const usTest = await testAuth('https://us.posthog.com', PH_API_KEY);
+  console.log('[query-posthog] US host auth test:', JSON.stringify(usTest));
+
+  const euTest = await testAuth('https://eu.posthog.com', PH_API_KEY);
+  console.log('[query-posthog] EU host auth test:', JSON.stringify(euTest));
+
+  let activeHost = PH_HOST;
+  if (!usTest.ok && euTest.ok) {
+    activeHost = 'https://eu.posthog.com';
+    console.log('[query-posthog] Switching to EU host based on successful auth!');
+  } else if (usTest.ok) {
+    activeHost = 'https://us.posthog.com';
+  }
+  currentHost = activeHost;
 
   // 1. Pageviews on /ibw and /devcon hub pages
   const hubPageviews = await runHogQL('1. Pageviews on /ibw and /devcon Hub Pages', `
