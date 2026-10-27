@@ -62815,7 +62815,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "7490f7fc-b3bf-4c83-bbef-abfc87b91efd",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae08cbe131c5aeac59ee22a"
     }
   ]
 }
