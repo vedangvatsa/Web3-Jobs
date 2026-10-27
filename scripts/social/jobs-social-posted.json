@@ -63406,6 +63406,40 @@
       "attemptId": "ac14a9c5-3c9d-47da-9a8c-ef82d3a80dbb",
       "verification": "verified",
       "postId": "0x9def8c7d2134c03687baa41a90bf2666db66a113"
+    },
+    {
+      "slug": "sre",
+      "company": "Alpaca",
+      "title": "Senior SRE - APAC",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T11:37:24.160Z",
+      "expectedText": "Alpaca is hiring Senior SRE - APAC\n\nhttps://hashtagweb3.com/sre/fc?og=7",
+      "snapshot": {
+        "id": "6186847004",
+        "title": "Senior SRE - APAC",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6186847004",
+        "date": "2026-10-21T10:03:15-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - APAC",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sre"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior SRE - APAC\n\nhttps://hashtagweb3.com/sre/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sre/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "c24dd3d0-5afb-4d99-a2a3-e05c9867a056",
+      "verification": "creating"
     }
   ]
 }
