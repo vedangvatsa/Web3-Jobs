@@ -9069,7 +9069,7 @@
     "sentAt": "2026-10-27T11:32:04.715Z"
   },
   "2e24ed37-81f8-4b1f-bfb9-9761c5b524d8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T19:33:31.350Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -9162,6 +9162,8 @@
       }
     ],
     "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/tr124?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">OTC Sales Trader</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mgr164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Relationship Manager</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/rec50?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Sourcer</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/sc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Solutions Consultant</a>",
-    "slotKey": "2026-10-27:evening"
+    "slotKey": "2026-10-27:evening",
+    "messageId": 16576,
+    "sentAt": "2026-10-27T19:33:35.552Z"
   }
 }
