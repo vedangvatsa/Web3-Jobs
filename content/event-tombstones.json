@@ -2506,5 +2506,35 @@
       "luma-batch-evt8w4lf01kwyrz0",
       "ucmidautumn2026"
     ]
+  },
+  "premier-ethtokyo-2026": {
+    "until": "2027-10-27T19:32:44.989Z",
+    "slugs": [
+      "premier-ethtokyo-2026",
+      "ethtokyo-2026",
+      "ethglobal"
+    ]
+  },
+  "premier-ethtokyoweek": {
+    "until": "2027-10-27T19:32:44.989Z",
+    "slugs": [
+      "premier-ethtokyoweek",
+      "ethtokyoweek",
+      "ethtokyo"
+    ]
+  },
+  "luma-batch-pGBbhxL2B53VmL0": {
+    "until": "2027-10-27T19:32:44.989Z",
+    "slugs": [
+      "luma-batch-pgbbhxl2b53vml0",
+      "1oks3pxi"
+    ]
+  },
+  "luma-crypto-JoOSLiKtxjk0MZL": {
+    "until": "2027-10-27T19:32:44.989Z",
+    "slugs": [
+      "luma-crypto-joosliktxjk0mzl",
+      "oxrxch"
+    ]
   }
 }

@@ -211,17 +211,6 @@
       }
     },
     {
-      "id": "premier-ethtokyo-2026",
-      "words": 196,
-      "source": {
-        "url": "https://ethglobal.com/events/tokyo2026",
-        "fetchedAt": "2026-09-21T05:12:52.997Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "ETHGlobal Tokyo 2026",
-        "sha256": "285246d1cb1a06af1c5e80578294258b033c30e2ff76c3b15abfec40abd81872"
-      }
-    },
-    {
       "id": "premier-signal-week-2027",
       "words": 226,
       "source": {

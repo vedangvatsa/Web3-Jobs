@@ -151,49 +151,6 @@
     }
   },
   {
-    "id": "luma-crypto-JoOSLiKtxjk0MZL",
-    "slug": "oxrxch",
-    "name": "Oriane x Replit x Creators HQ: Build for the Video Economy — Dubai Hackathon",
-    "description": "Put your doom-scrolling skills to good use!\n\nOne day of hacking for the video economy with Oriane & Replit — hosted at Creators HQ, Dubai's home for the creator economy. The space where the region's top creators, creative professionals, and industry leaders build, learn, and grow. You'll be hacking exactly where your future users hang out.\n\nAgenda\n\n• 10:00 — Introduction\n• 11:00 — Hack 💻\n• 4:00 — Submission\n• 4:30 — Demos\n• 6:00 — Winners 🏆\n\nPrizes\n\n• 🥇 $500 Cash + Replit Pro + $2,000 Oriane credits\n• 🥈 $300 Cash + Replit Pro + $1,500 Oriane credits\n• 🥉 $200 Cash + Replit Pro + $1,000 Oriane credits\n\nEssentials\n\n• Food & AI credits on the house 🍕\n• Bring your laptop, ID, and curiosity 💻\n• Doors at 9:30 AM 🚪\n• Invite your friends — make sure they register!! 👥\n\nWelcome to the new-new!",
-    "startDate": "2026-09-27T06:00:00.000Z",
-    "endDate": "2026-09-27T15:00:00.000Z",
-    "country": "United Arab Emirates",
-    "location": "United Arab Emirates",
-    "url": "https://luma.com/kbk3wqgu",
-    "registrationUrl": "https://luma.com/kbk3wqgu",
-    "coverImage": "/events/luma-crypto-joosliktxjk0mzl-9997591e.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Hamzeh Abu Qamar",
-      "Julien Rosilio",
-      "Abdul Aldhalaan",
-      "Oriane.xyz Video Intelligence",
-      "Thibaut Hadjean"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Builders",
-        "url": "https://luma.com/kbk3wqgu",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/kbk3wqgu",
-      "eventId": "evt-JoOSLiKtxjk0MZL",
-      "fetchedAt": "2026-09-19T23:46:09.989Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-IJQxzk3Y9DouLNr",
     "slug": "sacf",
     "name": "Solana AI & Capital Forum",

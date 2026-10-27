@@ -4,211 +4,6 @@
 
 Generated from `sources/`. Formatting uses the event-page organizer-copy formatter. Original descriptions remain in the source JSON files.
 
-<a id="event-070efe0f38ff19d2"></a>
-
-## ETHTokyo Week 2026
-
-- Record: `premier-ethtokyoweek`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-19T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://www.ethtokyo.org/>
-
-### What is ETHTokyo?
-
-ETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.
-
-We exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo - through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive - not through one venue or one official narrative, but through a city-wide network of people and events.
-
-ETHTokyo Week 2026 will take place from September 19 to 27, featuring community-led events, conferences, workshops, meetups, dinners, hackathons, and other Ethereum-adjacent gatherings across Tokyo.
-
-### JPYC Marche in Shibuya
-
-Shibuya Konno Daini Building, 3-6-14 Shibuya, Shibuya-ku, Tokyo 150-0002, Japan
-
-### Shop with JPYC in the heart of Shibuya
-
-Experience JPYC in the real world at a one-night marketplace in Shibuya, where you can buy actual products using Japan's yen-denominated stablecoin.
-
-From cosmetics and tiramisu to card games, wooden smart business cards, and original goods, meet local creators and experience simple QR-code payments firsthand.
-
-New to JPYC? No problem. Staff will be available to help first-time users get started.
-
-### What to expect
-
-- Get one raffle entry with every JPYC purchase for a chance to win movie tickets
-
-### Before you arrive
-
-HashPort Wallet is recommended for first-time users: https://wallet.hashport.com
-
-JPYC can be obtained through JPYC EX. Identity verification and Japanese bank account registration are required: https://faq.jpyc.co.jp/s/article/jpycex-getting-started
-
-### Event details
-
-- Address: Shibuya Konno Daini Building, 3-6-14 Shibuya, Shibuya-ku, Tokyo
-
-### Organizers
-
-Organized by the JPYC Marche Executive Committee, led by mameta ( https://x.com/mameta_zk ). Hosted by SHIBUYA Q DAO (SQD).
-
-This event is independently organized and is not official content of JPYC Inc.
-
-### ZuCity Japan Annual Popup City
-
-ZuCity is a permanent Zuzalu hub. Our own cryptocity - codename Brooklyn 2.0 - built from abandoned houses we bought and brought back to life in Komoro, Nagano an hour by train from Tokyo. Join this month long coliving to get hands on experience with building public goods infrastructure, meet local Japanese communities, learn how to buy and fix your own houses in Japan like we do,
-
-### Agentic Summit
-
-AIエージェントが自律的に取引・決済・交渉する経済の到来を見据え、それを安全に設計し検証するための信頼基盤 ── 認証・認可・安全性・監査可能性 ── を問う一日。ETHTokyo Week 2026 の中核、ETHGlobal Tokyo 公式サイドイベント。
-
-### PRIVACY SERVE
-
-〒150-0043 Tokyo, Shibuya, Dōgenzaka, 1-chōme-22-７ 道玄坂ピア 1F 東京都渋谷区道玄坂 1-22-7 道玄坂ピア1F
-
-What does privacy look like when it becomes something people can actually use?
-
-Join zERC20 and Swarm Foundation for an informal afternoon around privacy, decentralized infrastructure, and the people building both.
-
-We're bringing together builders, researchers, founders and privacy-minded people in Tokyo to celebrate the launch of zERC20 V2, meet like-minded people, and create space for useful conversations that can turn into actual collaborations.
-
-zERC20 is building private ERC-20 transfers designed to work with the wallets and tokens people already use, while Swarm is building decentralized storage and communication infrastructure for a more resilient internet.
-
-Throughout the afternoon, both teams will host informal Privacy Office Hours. If you're working on something relevant, have an integration in mind, want to explore a proposal, need technical input, or simply want to understand where the two ecosystems could intersect, come and speak directly with the people building them.
-
-It's a space to exchange ideas, find potential collaborators, talk through real use cases, and meet others thinking seriously about privacy and decentralized infrastructure on Ethereum.
-
-We'll also have specialty coffee and matcha, time to stay for a while, and a chance to celebrate zERC20 V2 entering the wild.
-
-zERC20とSwarm Foundationが主催する、プライバシー、分散型インフラ、そしてそれらを構築する人々をテーマにした、気楽な午後の集いにぜひご参加ください。
-
-東京にビルダー、研究者、創業者、そしてプライバシーに関心を持つ人々を集め、zERC20 V2のリリースを祝い、志を同じくする人々と出会い、実際のコラボレーションにつながる有意義な対話の場を設けます。
-
-zERC20は、人々がすでに使用しているウォレットやトークンと連携するように設計された、プライバシー保護機能を備えたERC-20送金システムを構築しています。一方、Swarmは、より強靭なインターネットを実現するための分散型ストレージおよび通信インフラを構築しています。
-
-午後を通して、両チームがカジュアルな「プライバシー・オフィスアワー」を開催します。関連するプロジェクトに取り組んでいる方、統合を検討している方、提案について話し合いたい方、技術的なアドバイスが必要な方、あるいは単に2つのエコシステムがどこで交わる可能性があるのか理解したい方は、ぜひ会場に来て、開発者たちと直接話してみてください。
-
-ここは、アイデアを交換し、協力者を見つけ、実際のユースケースについて話し合い、イーサリアム上のプライバシーや分散型インフラについて真剣に考えている人々と出会える場です。
-
-また、スペシャルティコーヒーや抹茶をご用意しており、ゆっくりとお過ごしいただけるほか、zERC20 V2の正式リリースをお祝いする機会も設けています。
-
-### Builder Nights Tokyo - Agentic Edition
-
-Meets Port 4F, 1 Chome-3-61 Koraku, Bunkyo City, Tokyo, Japan
-
-MetaMask Builder Night is back - and this time, we're heading to the Agentic Frontier.
-
-The developers, founders, and ecosystem contributors pushing the boundaries of agentic technology.
-
-The tools, protocols, and ideas quietly rewriting what's possible onchain. All in one room.
-
-Hosted by MetaMask and our frens. Built for the people building what's next.
-
-### enXross Day
-
-読む、聴く、話す。性格の異なるプログラムが同じ部屋で入れ替わります。 合間も部屋は開いたままなので、席を立つ必要はありません。
-
-10:00-12:15 Whitepaper Reading Club 1本のホワイトペーパーを冒頭から一緒に読みます。予習は不要です。 12:00-14:00 ETHGas Community Meetup ETHGas が日本で開く初めての公開イベント。Kevin Lepsoe（Founder & CEO）が登壇します。寿司が出ます。 15:00-18:00 午後の枠（内容調整中）
-
-参加費 無料・事前登録制（プログラムごとに登録が必要です） 会場 東京ドームシティ MEETS PORT 4F / enXross DAO
-
-On Thursday, September 24, enXross DAO at Tokyo Dome City is open from 9:30 to 18:00.
-
-Reading, listening, talking. Programs of different character take turns in the same room. The room stays open between them, so you never have to leave your seat.
-
-10:00-12:15 Whitepaper Reading Club One whitepaper, read together from the top. No advance reading required. 12:00-14:00 ETHGas Community Meetup The first open gathering ETHGas has held in Japan, with Kevin Lepsoe (Founder & CEO). Sushi will be served. 15:00-18:00 Afternoon slot (TBA)
-
-Staying for the whole day is not assumed. Come for one slot and leave - that is enough. You are free to come and go.
-
-Price Free, registration required (each program registers separately) Venue MEETS PORT 4F, Tokyo Dome City / enXross DAO
-
-All times and content are provisional, and this page is updated as they are confirmed.
-
-### Web3Privacy now meetup
-
-Web3Privacy now returns to Tokyo after 2025 event with Vitalik Buterin transforming Ethereum into CROPS-native culture.
-
-In 2026 we are celebrating digital rights angle of decentralisation full of working zero-knowledge solutions, storages supporting original Ethereum ethos and CROPS narrative.
-
-- Alan Scott x Railgun - zero-knowledge that really works and protects billions of funds. Champion of Ethereum-privacy. - Daniel Knobelsdorf x Swarm - long-lasting digital rights activists, for years integrated in decentralised tech, commons, alternative financial systems and digital transformation. Expect half-day dedicated to fostering solidarity and understanding among
-- internet freedom defenders and grassroots movements - hacktivists and the general public
-
-### Ethereum Institutional Summit
-
-A one-day, invitation-only summit in Tokyo for institutional decision-makers and the Ethereum builders shaping the institutional layer of the network.
-
-### ETHGlobal Tokyo
-
-〒105-0001 Tokyo, Minato City, Toranomon, 1 Chome-23-3 虎ノ門ヒルズ森タワー 5F
-
-### Pragma Tokyo
-
-ETHGlobal Pragma is a one-day summit bringing together builders, founders, researchers, and industry leaders shaping the future of Ethereum and web3. Its tightly curated program features high-quality talks, keynotes, product demos, and debates focused on the ecosystem's most important challenges, emerging ideas, and the technologies defining what comes next with a focused audience. Past speakers include Vitalik Buterin (Ethereum), Stani Kulechov (Aave), Nikhil Chandhok (Circle), Hayden Adams (Uniswap), Sergey Nazarov (Chainlink), and Jesse Pollak (Coinbase)
-
-### Ai Psychosis Summit II: Angel Wings
-
-Gettles Bunny quasimatt Kevin Esherick Kitasenju Design MISOSHITA Saeko Ehara Kit Volta Morry Kolman Jon Sarkin Estate | Mark Henderson Sierra Renee Isabel James Concannon Sarah Friend Joshua Wolk Abdou Mika Brennan Wojtyła Dave Krugman
-
-### POST-TOKYO
-
-A week of day raves, onsen trips, yoga and meditation sessions, and intimate chill time at the ZuCity mountain retreat an hour from Tokyo. Come decompress with a curated high-signal, high-vibe group in the center of our own crypto city.
-
-### Hackatsuon 2026
-
-Hackatsuon (a blend of hackathon and katsuo, the bonito that Kesennuma is known for) is a residency and hackathon co-hosted with Kesennuma City, welcoming builders from Japan and abroad.
-
-Kesennuma is a fishing town in the Tohoku region of northeastern Japan, with over $100M in annual catch. Rebuilt after the 2011 earthquake and tsunami, it now faces the same challenges as much of rural Japan - an aging population, depopulation, and a fragile local economy. Cutting-edge technology tends to reach large cities and corporations, but rarely the local governments and communities working on these social challenges. Hackatsuon exists to change that: not a one-off race for prizes, but an invitation to step into a real place, get to know its community, and co-create with the people who live there.
-
-The 2026 residency runs from September 28 to October 11, in Kesennuma.
-
-Live in Kesennuma for the full two weeks. After check-in and orientation (Sep 28), residents dive into community input and fieldwork with city staff (Sep 30 - Oct 1), then form teams and build (from Oct 2), sharing progress at a midpoint review (Oct 4) before final presentations. This is the deepest way to experience Hackatsuon - getting to know the town and its people, and building projects rooted in real local challenges alongside developers from Japan and around the world.
-
-Can't stay for the full two weeks? Join for the hackathon itself, which kicks off on Oct 2 with team formation and development, and continues through the midpoint review on Oct 4. A shorter but hands-on way to team up, build, and be part of the core creative sprint.
-
-- Public showcase (Demo Day & reception) - Oct 10, 2026 @ Pier 7
-
-Open to everyone. Come see what the builders have created at the final presentations, and join the reception to celebrate with the community at Pier 7. No coding required - just curiosity and a willingness to connect.
-
-Whichever way you join, Hackatsuon is where a community rooted in place meets a network that spans the world.
-
-### Urban Transportation
-
-Tokyo is a city optimized for public transportation. Most of the times, the quickest and easiest way to getting from A to B is by trains and buses. If you are staying longer than just a few days, you might want to consider purchasing a SUICA↗︎ or PASMO↗︎ card at for the best experience, which can be obtained at pretty much any train station. You can use these cards to ride the buses also.
-
-Scooters & Bikes : Depending on the area, you will also find scooters and bikes that you can grab around the city, using apps like LUUP↗︎ and LIME↗︎. You should take precaution to stay safe since the streets in Tokyo are generally narrow and crowded.
-
-Taxis : Taxis are available through apps like GO↗︎ and Uber↗︎.
-
-<a id="event-e373bf9da0a76bcf"></a>
-
-## ETHGlobal Tokyo 2026
-
-- Record: `premier-ethtokyo-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-09-25T00:00:00+09:00
-- Description: Source-backed
-- Original page: <https://ethglobal.com/events/tokyo2026>
-
-### About the event
-
-ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.
-
-### Tokyo 2026
-
-The Tokyo hackathon runs September 25-27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes from World, ENS, Uniswap Foundation, 1inch, Sui, Curvegrid and Web3Antivirus.
-
-### Themes and topics
-
-The published tracks include zero knowledge proofs, AI x Crypto, DeFi and crypto consumer applications, Layer 2s and interoperability, public goods, privacy, security and TEEs, data availability, identity and developer tools.
-
-### Building formats
-
-For the first time ever, a project does not have to start at zero. The organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1-5 members and up to three sponsor SDKs.
-
-### Participation
-
-The event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks. Pragma Tokyo runs as a one-day summit alongside the hackathon week.
-
 <a id="event-576eb08ee94d90da"></a>
 
 ## India Blockchain & AI Tour 2026
@@ -23824,45 +23619,6 @@ The organizer's timeline lists a September 16 kickoff and an October 16 submissi
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
 
-<a id="event-695a4f913b59869a"></a>
-
-## Oriane x Replit x Creators HQ: Build for the Video Economy — Dubai Hackathon
-
-- Record: `luma-crypto-JoOSLiKtxjk0MZL`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-27T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kbk3wqgu>
-
-### About the event
-
-Put your doom-scrolling skills to good use!
-
-One day of hacking for the video economy with Oriane & Replit - hosted at Creators HQ, Dubai's home for the creator economy. The space where the region's top creators, creative professionals, and industry leaders build, learn, and grow. You'll be hacking exactly where your future users hang out.
-
-### Agenda
-
-- 10:00 - Introduction
-- 11:00 - Hack
-- 4:00 - Submission
-- 4:30 - Demos
-- 6:00 - Winners
-
-### Prizes
-
-- $500 Cash + Replit Pro + $2,000 Oriane credits
-- $300 Cash + Replit Pro + $1,500 Oriane credits
-- $200 Cash + Replit Pro + $1,000 Oriane credits
-
-Essentials
-
-- Food & AI credits on the house
-- Bring your laptop, ID, and curiosity
-- Doors at 9:30 AM
-- Invite your friends - make sure they register!!
-
-Welcome to the new-new!
-
 <a id="event-d20f27b387d853eb"></a>
 
 ## Solana AI & Capital Forum
@@ -27665,24 +27421,6 @@ Colosseum Copilot - AI brainstorm tool for project ideas
 Solana.new - an all in one kit to go from idea to shipped project
 
 Superteam Poland Hackathon Group
-
-<a id="event-54a9fa23b206390e"></a>
-
-## Bhutan, Brains and Beyond: When Tech meets Mindfulness
-
-- Record: `luma-batch-pGBbhxL2B53VmL0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T13:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1oks3pxi>
-
-### About the event
-
-In this age of nearing AGI and technofeudalism, a sense of loss of of control, job displacement and erosion of trust has created a widespread genuine fear from AI, AI agents and data centers. Whether this fear is based on tangible physical burdens on local communities or a broader, existential symbolic resentment about society's future, it is important to imagine how a hi tech, hi touch, and an in touch society will function.
-
-In this discussion, Ujjwal Dahal Deep, CEO of Druk Holding and Investments and Dr Alex (Yeshey) Cahana, Sr. Advisor to DHI will propose a practical architectural model for a new citizen-owned, smart-city civilization.
-
-This stack, now tested at the Drinchengang Regenerative Village includes: UBEE (a Universal Basic Energy Equity) where citizens collectively own the renewable energy infrastructure that powers AI and data centers; CityOS, an open, democratic AI-operated governance layer for the city that integrates public data in real-time, and RTED (Real-Time Executable Democracy), a blockchain-secured mechanism that facilitates decentralized, transparent, and direct democratic participation for urban governance.
 
 <a id="event-32fcb787829d388c"></a>
 
@@ -47851,30 +47589,6 @@ All hackathon winners are interviewed and considered for the Colosseum accelerat
 ### Livestream workshops
 
 All workshops stream live on Discord, including the kickoff with the Colosseum founders. Participants can watch live, ask questions and follow the program through the event.
-
-<a id="event-8f442dad9e1d58bc"></a>
-
-## ETHTokyo Week 2026
-
-- Record: `w3v-ethtokyo-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-19T06:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.ethtokyo.org>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-516ba97d27824a87"></a>
-
-## ETHGlobal Tokyo 2026
-
-- Record: `ma-ethglobal-tokyo-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-25T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethglobal.com/events/tokyo2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-3b0e4d357a068372"></a>
 
@@ -68321,15 +68035,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-1ce002b7d56cdff3"></a>
+<a id="event-82c4a020bdef4f33"></a>
 
-## Fordham Blockchain x Solana
+## The Layer in Between by DeFindex and Soroswap
 
-- Record: `luma-evt-xEHE9rEbbSAUVFm`
+- Record: `luma-evt-2YBbtVpmxXahbY1`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T21:30:00.000Z
+- Starts: 2026-10-28T20:00:00.000Z
 - Description: Missing
-- Original page: <https://lu.ma/z4m3kl0k>
+- Original page: <https://lu.ma/5nyu8ekr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -68339,9 +68053,21 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `luma-evt-K0DzJXeKMnW7OEb`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T22:00:00.000Z
+- Starts: 2026-10-28T21:20:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/nycexecutivedinner>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1ce002b7d56cdff3"></a>
+
+## Fordham Blockchain x Solana
+
+- Record: `luma-evt-xEHE9rEbbSAUVFm`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T21:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z4m3kl0k>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69122,6 +68848,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 BTC Balkans brings regional Bitcoin communities and open-source contributors together in Sofia. The announced formats are keynotes, panels and hands-on workshops for developers, educators and newcomers, covering Bitcoin technology, money and practical adoption.
+
+<a id="event-78f3f5a0e000e060"></a>
+
+## HackTheGap Hackathon by WINZ and the Analytics Club at ETH
+
+- Record: `luma-evt-mEHaJ8Nh0grIZFv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6xyy1mul>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-bd1b3391a39b7245"></a>
 

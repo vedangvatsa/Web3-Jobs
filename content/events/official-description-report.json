@@ -35,18 +35,6 @@
       "preview": "The Bridge Between TradFi & Digital Assets. The Institutional Summit for Digital Assets. Paris, July 6-7, 2027."
     },
     {
-      "id": "premier-ethtokyo-2026",
-      "file": "curated-events.json",
-      "name": "ETHGlobal Tokyo 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://ethglobal.com/events/tokyo2026",
-          "reason": "HTTP 500"
-        }
-      ]
-    },
-    {
       "id": "premier-kbw-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -295,21 +283,6 @@
       "previousStartDate": "2027-04-21T09:00:00.000Z",
       "characters": 190,
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
-    },
-    {
-      "id": "premier-ethtokyoweek",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.ethtokyo.org/",
-        "fetchedAt": "2026-09-20T00:20:11.399Z",
-        "method": "official-section",
-        "pageTitle": "ETHTokyo 2026",
-        "sha256": "696b23cce3cede01a1577b42fb3761f17bc1318a44a68c8fc3bc8279684afa8f"
-      },
-      "previousStartDate": "2026-09-19T09:00:00.000Z",
-      "characters": 11633,
-      "preview": "## ETHTokyo 2026\n\n## What is ETHTokyo?\n\nETHTokyo is a Tokyo-based Ethereum community and coordination layer, bringing together builders, researchers, artists, founders, institutions, public-goods contributors, and independent communities around a shared cypherpunk ethos and optimism for the future.\n\nWe exist to advance the development, adoption, and cultural relevance of Ethereum from Tokyo — through credible, open, permissionless spaces for people building the next generation of programmable, verifiable, and privacy-preserving systems. Our role is to help Ethereum in Tokyo become more connected, credible, permissionless, and alive — not through one venue or one official narrative, but through a city-wide network of people and events.\n\nETHTokyo Week 2026 will take place from September 19 t"
     },
     {
       "id": "premier-cvsummit",

@@ -4,38 +4,6 @@ import type { EventEditorialArticle } from "./events";
 // Facts sourced from each event's official website / organizer announcements.
 export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
-  ethtokyo: {
-    summaryLead:
-      "ETHGlobal Tokyo runs September 25 to 27, bringing the standard ETHGlobal hackathon format to Japan: team formation on Friday night, forty-eight hours of building with mentors from major protocols circulating continuously, project submissions Sunday afternoon, and judging across ecosystem prize tracks.",
-    sections: [
-      {
-        heading: "What to expect",
-        content: [
-          "ETHGlobal hackathons compress the entire builder lifecycle into a weekend. Sponsors post bounties with specific technical criteria, mentors review code in progress rather than finished decks, and demos are judged as working software. Tokyo's edition draws from Japan's strong indie developer scene, university clubs, and international hackers who plan Asia trips around the event, producing a participant mix that is genuinely global rather than regionally captive.",
-          "Pragma Tokyo, ETHGlobal's one-day technical conference, runs adjacent on September 26 for people who prefer talks to hacking, covering protocol internals, security practices, and ecosystem roadmaps with the same practitioner-first curation the hackathon applies to mentors.",
-        ],
-      },
-      {
-        heading: "Why it matters for builders",
-        content: [
-          "A finished ETHGlobal project remains the fastest credential in the industry: grant programs, accelerators, and hiring managers treat judged hackathon output as evidence of execution. Tokyo adds a specific opportunity layer, since Japanese companies evaluating Web3 engineers and contractors attend precisely to meet demonstrated builders.",
-          "Registration is free with limited capacity and historically oversubscribed, so apply early on the official ETHGlobal page. Venues sit central enough that teams usually work late on site; Tokyo's transit stops around midnight, so choose accommodation accordingly for the final push.",
-        ],
-      },
-      {
-        heading: "Building in the Japanese market",
-        content: [
-          "Japanese corporate attendees observe hackathon finals specifically to identify engineers and teams worth hiring or funding, making project quality a direct career asset. Past participants report interview requests within days of strong finishes, and several Japan-focused accelerators scout exclusively at ETHGlobal events.",
-          "Tokyo accommodation near the venue books quickly during conference season; Shinjuku and Shibuya bases balance cost against commute. Convenience-store culture sustains overnight hacking admirably, September humidity persists outdoors, and team formation happens Friday night promptly, so arrive rested rather than treating Thursday as travel day.",
-                  "Pragma Tokyo, running September 26 within the same venue ecosystem, complements the hackathon with single-track technical curation: protocol researchers presenting recent results, Japanese enterprise builders describing production deployments, and cross-border panels addressing Japan-specific topics like exchange-listed token standards and payment regulations. Hackathon participants move between both formats freely, and many do, attending morning Pragma sessions before afternoon building blocks. Japanese corporate sponsorship runs deep across both events, with banks, conglomerates, and gaming publishers hosting booths that signal hiring interest more than marketing intent. Students from Tokyo University laboratories and technical colleges attend in force, reflecting Japan's academic blockchain research tradition.",
-                  "ETHGlobal hackathons are free with application-based admission, and Tokyo's edition receives applicants globally, so submit early and prepare a GitHub worth reviewing. Pragma passes sell separately for talk-focused attendees who prefer structured learning to weekend building marathons.",
-                  "Bring adapters for Japanese outlets, register for both hackathon and Pragma if undecided since crossover is permitted, and remember team formation rewards showing up Friday rested rather than jetlagged.",
-                  "Tokyo's Ginza and Yurakucho districts surround typical venues with endless dinner options, and hackathon teams traditionally celebrate Sunday demos together regardless of prize outcomes.",
-        ],
-      },
-    ],
-  },
-
 
   cardanosummit: {
     summaryLead:

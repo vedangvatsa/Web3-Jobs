@@ -1115,43 +1115,6 @@
       }
     ]
   },
-  "premier-ethtokyoweek": {
-    "summaryLead": "ETHTokyo Week spreads nine days of Ethereum talks, workshops, and community side events across Tokyo from September 19-27, 2026, organized by the Ethereum Japan community and closing with an ETHGlobal hackathon weekend.",
-    "sections": [
-      {
-        "heading": "A Week Built Like a Festival",
-        "content": [
-          "Instead of one venue and one badge, ETHTokyo Week distributes Ethereum programming across Tokyo for nine days, September 19 through 27, 2026. Talks and workshops anchor the earlier stretch, side events fill the gaps between them, and the whole structure builds toward an ETHGlobal hackathon weekend at the end.",
-          "The format borrows a lesson other cities learned the hard way: cramming everything into a single conference day forces every good session into competition with every other one, while a week lets communities run their own formats without fighting for oxygen. For visitors it also means one flight buys far more than one agenda, provided you pace yourself accordingly.",
-          "The trade-off is that this kind of week demands more from your calendar discipline than any single-venue event. Decide early which days belong to workshops, which to meetings, and which to the hackathon, because Tokyo will otherwise happily fill all nine days for you."
-        ]
-      },
-      {
-        "heading": "The Community Running It",
-        "content": [
-          "Ethereum Japan, the community organization behind the week, describes Ethereum as technology operated by a community, and it operates accordingly. Its public work includes starter resources for setting up wallets, acquiring ETH, reading the whitepaper, and finding developer documentation, alongside standing initiatives such as a digital assets working group and the ETHTokyo project itself.",
-          "That community-first ownership shapes the character of the week. Expect Japanese developer groups, local startups, and international guests sharing programming, with both English and Japanese in play across Tokyo's Ethereum scene. It is a different texture from corporate-produced mega-conferences, closer to a citywide meetup network operating at festival scale for nine days straight."
-        ]
-      },
-      {
-        "heading": "Navigating Nine Days",
-        "content": [
-          "Plan backwards from the ETHGlobal finale. Hackathon weekends consume energy and sleep, so treat the preceding weekdays as prime time for deeper workshop attendance and relationship building, then guard the final weekend for heads-down building rather than sightseeing.",
-          "Side events carry much of the week's value, and they accumulate late. Watch the Ethereum Japan event listings as September approaches, since community-run sessions and company meetups get added continuously rather than announced all at once. Tokyo's rail network makes a multi-venue week genuinely workable; basing yourself near a loop line keeps venue-hopping sane.",
-          "Dates again for the calendar: September 19-27, 2026, with scheduling announcements flowing through ethereum-japan.org as the program locks in. Bookmark both the event and news pages there; a distributed week like this lives or dies on how early you catch its updates."
-        ]
-      },
-      {
-        "heading": "Who Should Make the Trip",
-        "content": [
-          "Builders get the clearest case: workshops during the week, a hackathon finale, and a dense local developer community that rarely travels to Western conferences in comparable numbers. Protocol and research people get a window into Japanese institutional interest in Ethereum through the working group's public activity.",
-          "Newcomers are served explicitly too. The organization maintains beginner pathways covering wallets, acquiring ETH, whitepaper reading, and developer docs, so arriving with zero background and leaving with shipped hackathon project experience is a realistic arc for the full nine days.",
-          "ETHGlobal's involvement changes the stakes of that finale as well. Their hackathon weekends are where many builders first get noticed by protocol teams, so even first-time participants should treat submission day with some seriousness.",
-          "For everyone else: Tokyo in late September, a citywide program, and a hackathon finish make this the easiest Ethereum-branded reason to book Japan all year."
-        ]
-      }
-    ]
-  },
   "premier-cvsummit": {
     "summaryLead": "Switzerland's largest institutional digital assets and AI conference returns to the Kongresshaus in Zurich on 29-30 September 2026. CV Summit promises three stages, 200 speakers, more than 3,000 attendees and enough tokenization talk to fill a banker's October reading list.",
     "sections": [

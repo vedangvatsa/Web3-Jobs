@@ -1,54 +1,5 @@
 [
   {
-    "id": "luma-batch-pGBbhxL2B53VmL0",
-    "slug": "1oks3pxi",
-    "name": "Bhutan, Brains and Beyond: When Tech meets Mindfulness",
-    "description": "In this age of nearing AGI and technofeudalism, a sense of loss of of control, job displacement and erosion of trust has created a widespread genuine fear from AI, AI agents and data centers. Whether this fear is based on tangible physical burdens on local communities or a broader, existential symbolic resentment about society's future, it is important to imagine how a hi tech, hi touch, and an in touch society will function.\n\nIn this discussion, Ujjwal Dahal Deep, CEO of Druk Holding and Investments and Dr Alex (Yeshey) Cahana, Sr. Advisor to DHI will propose a practical architectural model for a new citizen-owned, smart-city civilization.\n\nThis stack, now tested at the Drinchengang Regenerative Village includes: UBEE (a Universal Basic Energy Equity) where citizens collectively own the renewable energy infrastructure that powers AI and data centers; CityOS, an open, democratic AI-operated governance layer for the city that integrates public data in real-time, and RTED (Real-Time Executable Democracy), a blockchain-secured mechanism that facilitates decentralized, transparent, and direct democratic participation for urban governance.",
-    "startDate": "2026-09-27T13:00:00.000Z",
-    "endDate": "2026-09-27T16:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "The Sheen Center for Thought & Culture, The Sheen Center for Thought & Culture, 18 Bleecker St, New York, NY 10012, USA",
-    "url": "https://luma.com/1oks3pxi",
-    "registrationUrl": "https://luma.com/1oks3pxi",
-    "coverImage": "/events/luma-batch-pGBbhxL2B53VmL0-3b01c1f8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Alex Cahana"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "NoHo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "The Sheen Center for Thought & Culture",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Alex Cahana"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/1oks3pxi",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/1oks3pxi",
-      "eventId": "evt-pGBbhxL2B53VmL0",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-HilaZqZBzslujGA",
     "slug": "btunyc",
     "name": "Bitcoin Treasuries Conference: September 2026",

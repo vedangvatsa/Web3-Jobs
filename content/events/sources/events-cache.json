@@ -175,21 +175,6 @@
     }
   },
   {
-    "id": "w3v-ethtokyo-2026",
-    "name": "ETHTokyo Week 2026",
-    "description": "ETHTokyo Week 2026: city-wide Ethereum week in Tokyo from September 19–27, with community events, workshops, meetups, and hackathons.",
-    "startDate": "2026-09-19T06:00:00.000Z",
-    "endDate": "2026-09-27T19:00:00.000Z",
-    "city": "Global",
-    "country": "Japan",
-    "location": "Global, JP",
-    "url": "https://www.ethtokyo.org",
-    "coverImage": "/events/w3v-ethtokyo-2026-b44d26df.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-XVgMezNYKSfYZHA",
     "name": "MyWeb3 - Launch Party",
     "description": "Join us for MyWeb3’s Official Launch Party! Come set up your profile during our hands-on platform training session, enjoy free food & drinks, and network with local Orange County business owners.\n\nMyWeb3 gives creators, SMBs, artists, musicians, and more a free, personalized page to grow their following and customer base. Easily gain new followers across your platforms and let customers pay or donate however they want: PayPal, Venmo, Zelle, CashApp, Crypto, and more.\n\nTip: Bring your laptop and brand logo so we can help you set up your profile!\n\nIn addition, you can download and customize the following Profile Picture and Banner templates\n\nTemplates: https://drive.google.com/drive/folders/16TJ3nQ-peuicObRWBE0NiYhj16xpd4-O?usp=sharing\n\nLive Version launching soon with new features.\n\nPowered by Lost Art",
@@ -353,20 +338,6 @@
     },
     "registrationUrl": "https://luma.com/0j8gx7i1",
     "slug": "sec"
-  },
-  {
-    "id": "ma-ethglobal-tokyo-2026",
-    "name": "ETHGlobal Tokyo 2026",
-    "description": "ETHGlobal's Tokyo hackathon bringing together Asia-Pacific Ethereum developers for a weekend of building and shipping.",
-    "startDate": "2026-09-25T09:00:00.000Z",
-    "endDate": "2026-09-27T18:00:00.000Z",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "Tokyo, Japan",
-    "url": "https://ethglobal.com/events/tokyo2026",
-    "coverImage": null,
-    "source": "marketacross",
-    "month": "September 2026"
   },
   {
     "id": "w3v-eastpoint2026",
@@ -18646,13 +18617,13 @@
       "Matthew Long",
       "Geoffrey Kendrick",
       "Samantha Bohbot",
+      "Jasmine Jia",
       "Jason Yanowitz",
       "Laurie Katz",
       "Stani Kulechov",
       "Lord Holmes of Richmond MBE",
       "David Mercer",
       "Katie Harries",
-      "Jasmine Jia",
       "Theo Golden",
       "Anatoly Crachilov",
       "Sophia Bantanidis",
@@ -19342,7 +19313,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -22639,7 +22610,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": "/events/mu-316749553-4ef65602.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -27648,7 +27619,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/kansas-city-open-source-meetup/events/317090132/",
-    "coverImage": "/events/mu-317090132-d80981f6.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "October 2026"
   },
@@ -28104,10 +28075,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -28603,7 +28571,7 @@
     "name": "DeFi x RWA: Cocktail Hour",
     "description": "",
     "startDate": "2026-10-27T19:00:00.000Z",
-    "endDate": "2026-10-27T22:00:00.000Z",
+    "endDate": "2026-10-27T23:00:00.000Z",
     "city": "Lisboa",
     "country": "Portugal",
     "location": "Lisboa, Portugal",
@@ -28846,7 +28814,7 @@
     "country": "",
     "location": "Global",
     "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261027%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T113511Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=c7c1b67c403ae5fbd85b665460b653cba8fa54796c6d9ab3ff54bafe55001145",
+    "coverImage": "https://s3.amazonaws.com/organizer.mlh.io/ja78nudfk3cxnutcp5p8gb9yf3ar?response-content-disposition=inline%3B%20filename%3D%22updateupdate.png%22%3B%20filename%2A%3DUTF-8%27%27updateupdate.png&amp;response-content-type=image%2Fpng&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJFCF2ZS25I2RWYBQ%2F20261027%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20261027T193624Z&amp;X-Amz-Expires=300&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=3d833deaa92b1d80f39166f2ba1bfb2687afeb811c73d99b6ff563ca9fbeb2e3",
     "month": "November 2026"
   },
   {
@@ -29016,13 +28984,13 @@
     "id": "luma-evt-K0DzJXeKMnW7OEb",
     "name": "NYC Executive Digital Assets Dinner w/ Halborn",
     "description": "",
-    "startDate": "2026-10-28T22:00:00.000Z",
-    "endDate": "2026-10-29T01:00:00.000Z",
+    "startDate": "2026-10-28T21:20:00.000Z",
+    "endDate": "2026-10-29T01:30:00.000Z",
     "city": "New York",
     "country": "United States",
     "location": "New York, United States",
     "url": "https://lu.ma/nycexecutivedinner",
-    "coverImage": "/events/luma-evt-k0dzjxekmnw7oeb-fc951806.webp",
+    "coverImage": "/events/luma-evt-k0dzjxekmnw7oeb-c00499a0.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -29755,5 +29723,33 @@
     "coverImage": "/events/luma-evt-texamtvtczw4zff-2eac13d7.webp",
     "source": "luma",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-2YBbtVpmxXahbY1",
+    "name": "The Layer in Between by DeFindex and Soroswap",
+    "description": "",
+    "startDate": "2026-10-28T20:00:00.000Z",
+    "endDate": "2026-10-29T00:00:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/5nyu8ekr",
+    "coverImage": "/events/luma-evt-2ybbtvpmxxahby1-c1ee8f3f.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-mEHaJ8Nh0grIZFv",
+    "name": "HackTheGap Hackathon by WINZ and the Analytics Club at ETH",
+    "description": "",
+    "startDate": "2026-10-31T07:30:00.000Z",
+    "endDate": "2026-11-01T18:30:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/6xyy1mul",
+    "coverImage": "/events/luma-evt-mehaj8nh0grizfv-593e36d5.webp",
+    "source": "luma",
+    "month": "October 2026"
   }
 ]

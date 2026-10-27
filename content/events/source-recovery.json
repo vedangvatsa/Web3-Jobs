@@ -20,29 +20,6 @@
       "reason": "The source title and image-based heading did not match the old punctuation variant; the organizer's event-specific page provides the full program."
     },
     {
-      "id": "premier-ethtokyo-2026",
-      "kind": "reviewed",
-      "sourceUrl": "https://ethglobal.com/events/tokyo2026",
-      "variant": "reader",
-      "contains": [
-        "ETHGlobal Tokyo 2026",
-        "September 25 – 27, 2026",
-        "Toranomon Hills Forum",
-        "ETHGlobal hackathons enable you to experiment"
-      ],
-      "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Tokyo 2026\n\nThe Tokyo hackathon runs September 25–27, 2026 at Toranomon Hills Forum, on the fifth floor of Toranomon Hills Mori Tower. The organizer lists $75,000 available in prizes.\n\n## Themes and topics\n\n• Zero knowledge proofs\n• AI x Crypto\n• DeFi and crypto consumer applications\n• Layer 2s and interoperability\n• Public goods\n• Privacy, security and TEEs\n• Data availability, identity and developer tools\n\n## Building formats\n\nFor the first time ever, your project doesn't have to start at zero. Bring what you've already built.\n\nThe organizer offers three formats: From Scratch, Extend Open Source, and Ship a Feature. The published rules specify teams of 1–5 members and up to three sponsor SDKs.\n\n## Participation\n\nThe event is beginner friendly and includes technical mentorship, curated content, exclusive swag, and free food and drinks.",
-      "patch": {
-        "timezone": "Asia/Tokyo",
-        "venueName": "Toranomon Hills Forum (5th floor)",
-        "streetAddress": "1 Chome-23-3 Toranomon, Toranomon Hills Mori Tower 5F",
-        "addressLocality": "Minato City",
-        "addressCountry": "JP",
-        "postalCode": "105-0001",
-        "location": "Toranomon Hills Forum, 1 Chome-23-3 Toranomon, Minato City, Tokyo 105-0001, Japan"
-      },
-      "reason": "Recovered the organizer's page through a readable public rendering; the direct endpoint returns HTTP 500 despite publishing event content."
-    },
-    {
       "id": "premier-solidusroundtable",
       "kind": "luma",
       "sourceUrl": "https://luma.com/fop77t0t",

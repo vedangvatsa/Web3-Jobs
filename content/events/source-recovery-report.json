@@ -26,23 +26,6 @@
       ]
     },
     {
-      "id": "premier-ethtokyo-2026",
-      "outcome": "recovered",
-      "sourceUrl": "https://ethglobal.com/events/tokyo2026",
-      "reason": "Recovered the organizer's page through a readable public rendering; the direct endpoint returns HTTP 500 despite publishing event content.",
-      "fetchedAt": "2026-09-20T08:54:15.141Z",
-      "characters": 1154,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "timezone",
-        "venueName",
-        "streetAddress",
-        "addressCountry",
-        "location"
-      ]
-    },
-    {
       "id": "premier-solidusroundtable",
       "outcome": "recovered",
       "sourceUrl": "https://luma.com/fop77t0t",
