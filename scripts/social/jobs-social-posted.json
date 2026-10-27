@@ -60186,7 +60186,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "249694e6-de63-47ed-91c2-89efd061cd7c",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae01dc38f5aed9e2e350917"
     }
   ]
 }
