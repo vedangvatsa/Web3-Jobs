@@ -1,55 +1,5 @@
 [
   {
-    "id": "kbw-official-celo-espresso-brews-09-27",
-    "name": "Celo & Espresso Brews Happy Hour 🍸 에스프레소 해피 아워",
-    "description": "Espresso Systems and Celo invite you to come enjoy an Espresso martini while discovering what we’re brewing in the Blockchain space.\n\nJoin us for a laid back happy hour to:\n\n• Chat with our co-founders 🍸\n• Hear the latest on Espresso and Celo's vision\n• Enjoy drinks (on us!) 🥂\n\nWe’ll also have fresh new swag that will be released especially in Seoul 🤫 🇰🇷\n\nSee you there!\n\nEspresso Systems와 Celo가 함께 준비한 해피아워에 여러분을 초대합니다! ☕️🍸\n\nEspresso Martini 한 잔과 함께, 두 프로젝트가 블록체인 생태계에서 어떤 미래를 만들어가고 있는지 편하게 이야기 나눠보세요.\n\n이번 해피아워에서는:\n\n• Espresso와 Celo 팀, 그리고 공동창업자들과 자유롭게 대화하고 🍸\n• 두 프로젝트가 그리고 있는 최신 비전과 방향성을 들어보고\n• 무료로 제공되는 다양한 음료도 즐길 수 있습니다 🥂\n\n서울에서 특별히 처음 공개되는 새로운 굿즈도 준비되어 있습니다 🤫🇰🇷\n\n편하게 들러 함께 즐겨주세요. 현장에서 만나요!",
-    "startDate": "2026-09-27T07:00:00.000Z",
-    "endDate": "2026-09-27T09:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Seoul, South Korea",
-    "category": "Happy Hour Networking",
-    "sideEventFor": [
-      "kbw"
-    ],
-    "url": "https://luma.com/espresso-hh",
-    "coverImage": "/events/kbw-official-celo-espresso-brews-09-27-e18137e6.webp",
-    "source": "kbw-official",
-    "hosts": [
-      "Espresso Systems",
-      "Celo Core Co."
-    ],
-    "price": "Free",
-    "timezone": "Asia/Seoul",
-    "slug": "ceb",
-    "registrationUrl": "https://luma.com/espresso-hh",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Espresso",
-      "url": "https://www.espressosys.com/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/espresso-hh",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/espresso-hh",
-      "eventId": "evt-G9AqnOFI4wwbkKT",
-      "fetchedAt": "2026-09-19T23:29:47.661Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "kbw-official-tangem-house-seoul-09-27",
     "name": "Tangem House — Seoul @ KBW2026",
     "description": "## Tangem House — Seoul @ KBW 🇰🇷\n\n📅 Date: Sunday, September 27, 2026\n🕕 Time: 6:00 – 10:00 PM\n📍 Location: Hashed Lounge 20F, Seoul\n🏠 Hosted by: Tangem\n\nJoin Tangem at Hashed Lounge to kick off Korea Blockchain Week 2026.\n\nEnjoy a short Tangem introduction, a “Tangem & Friends” fireside with ecosystem leaders, and networking with Korea’s KOLs, builders, and communities.\n\nTangem Wallets and Rings will be on display, with giveaways across two raffle rounds. 🎁\n\nWhether you are new to self custody or already run a hardware wallet, you are welcome.\n\n🗓 Agenda\n\n> 🚪 18:00 – 18:45 Doors, welcome drinks, product display\n>\n> 🎤 18:45 – 18:55 What is Tangem?\n>\n> 🔥 18:55 – 19:30 \"Tangem & Friends\" fireside with ecosystem friends <Panel lineup (TBA)>\n>\n> 🎁 19:30 – 19:40 Raffle Round 1 — Tangem Wallets + merch\n>\n> 🍸 19:40 – 20:20 Networking & F&B + Something Huge Event!\n>\n> 💍 20:20 – 20:30 Raffle Round 2 — Tangem Rings\n>\n> 🤝 20:30 – 22:00 Open networking, close\n\n⚠️ Please note:\n\n• Registration is approval based. You will receive a confirmation once approved; please show your Luma QR code at check in.\n• You must be checked in and present at the venue to win a raffle prize.\n• Smoking indoors is strictly prohibited at the venue.\n• If the venue reaches maximum capacity at any time, entry will be managed on a first-come, first-served basis.\n\nWe look forward to seeing you at Tangem House! 🙌\n\n📍 How to Get Here\n\n[Wayfinding 1: main gate / reception]\n\n• After entering through the Main Gate, head to the left side of the Reception Desk.\n\n[Wayfinding 2: elevator]\n\n• There, you will find the elevator to the 20th floor.\n\nAbout Tangem 🌍✨\n\nTangem builds the world's most user-friendly and secure hardware wallets designed as cards and rings. With EAL6+ certified chips, open-source code, and audited firmware, Tangem combines bank-grade security with everyday usability.\n\nSelf Custody in Your Pocket 💳\n\nNo batteries, no wires, no seed phrases. Tangem wallets activate in less than 3 minutes, work with your smartphone, and keep your private keys offline at all times.\n\nBuilt for Web3 Freedom 🌐\n\nWith Tangem, you can hold, swap, and manage your tokens, all without trusting a third party. You remain in full control of your assets anywhere in the world.\n\nSimple. Secure. Tangem. 🔒\n\nWhether you're new to crypto or a seasoned investor, Tangem makes self-custody accessible to everyone.\n\n🌐 [Website](https://tangem.com/en/?utm_source=luma) | 🐦 [X](https://x.com/Tangem?utm_source=luma) | ✈️ Telegram Korea\n\nTangem House — Seoul @ KBW 💳\n\n📅 날짜: 2026년 9월 27일 (일)\n🕕 시간: 오후 6:00 – 10:00\n📍 장소: 서울 Hashed Lounge 20F\n🏠 주최: Tangem\n\nKorea Blockchain Week 2026의 시작을 Tangem House과 함께하세요.\n\nTangem에 대한 소개와 “Tangem & Friends” 파이어사이드 세션을 통해 주요 생태계 리더들의 이야기를 듣고, 한국의 KOL, 빌더, 커뮤니티와 네트워킹을 즐겨보세요.\n\n현장에서는 Tangem Wallet과 Ring을 직접 만나볼 수 있으며, 두 차례의 럭키드로우를 통해 Tangem Wallet과 Ring을 증정합니다. 해당 기회를 절대 놓치지 마세요! 🎁\n\n🗓 Agenda (세션은 한국어로 진행됩니다)\n\n> 🚪 18:00 – 18:45 입장, 웰컴 드링크, 제품 전시\n>\n> 🎤 18:45 – 18:55 Tangem 소개\n>\n> 🔥 18:55 – 19:30 \"Tangem & Friends\" 파이어사이드 — <Panel lineup (TBA)>\n>\n> 🎁 19:30 – 19:40 1차 추첨 — Tangem Wallet 10개 + 굿즈\n>\n> 🍸 19:40 – 20:20 네트워킹 & F&B\n>\n> 💍 20:20 – 20:30 2차 추첨 — Tangem Ring 3개\n>\n> 🤝 20:30 – 21:00 자유 네트워킹, 종료\n\n⚠️ 안내드립니다:\n\n• 본 행사는 승인제로 운영됩니다. 승인 후 확인 메일이 발송되며, 입장 시 Luma QR 코드를 보여주세요.\n• 추첨 경품은 현장 체크인 후 행사장에 계신 분에 한해 드립니다.\n• 행사장 내 실내 흡연은 절대로 불가능합니다.\n• 행사장 수용 인원이 초과될 경우 선착순으로 입장이 제한될 수 있는 점 양해 부탁드립니다.\n\nTangem House에서 뵙겠습니다! 🙌\n\n📍 오시는 길\n\n[Wayfinding 1: 정문 / 리셉션]\n\n• 정문으로 들어오신 후, Reception Desk 왼쪽으로 이동하시면,\n\n[Wayfinding 2: 엘리베이터]\n\n• 그곳에서 20층 베뉴로 오시는 엘리베이터를 찾으실 수 있습니다.\n\nTangem 소개 ✨\n\nTangem은 카드와 반지 형태의 하드웨어 지갑을 만듭니다. EAL6+ 인증 보안 칩, 오픈소스 코드, 외부 감사를 거친 펌웨어를 바탕으로 은행 수준의 보안과 일상적인 사용성을 함께 제공합니다.\n\n주머니 속 셀프 커스터디 💳\n\n배터리도, 케이블도, 시드 문구도 없습니다. Tangem 지갑은 3분 이내에 활성화되고, 스마트폰과 함께 작동하며, 개인 키는 항상 오프라인에 보관됩니다.\n\nWeb3를 위한 자유 🌐\n\nTangem을 통해 제3자를 신뢰하지 않고도 토큰을 보관하고, 스왑하고, 관리할 수 있습니다. 세계 어디서든 자산의 통제권은 온전히 사용자에게 있습니다.\n\nSimple. Secure. Tangem. 🔒\n\n크립토가 처음인 분부터 오랜 투자자까지, Tangem은 누구나 셀프 커스터디를 쉽게 시작할 수 있게 합니다.\n\n🌐 [Website](https://tangem.com/en/?utm_source=luma) | 🐦 [X](https://x.com/Tangem?utm_source=luma) | ✈️ Telegram Korea",

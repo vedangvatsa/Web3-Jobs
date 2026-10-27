@@ -2660,59 +2660,6 @@
     }
   },
   {
-    "id": "luma-batch-v6KXm09aYg8nuVi",
-    "slug": "k5ox4ths",
-    "name": "Team1 x KU : Introduction to Blockchain",
-    "description": "Welcome to Team1 Workshop: Kaset Edition\n\nช่วงบ่ายสำหรับ Web3 Beginner ที่มหาวิทยาลัยเกษตรศาสตร์ ลงมือใช้งาน Crypto Application สอนพื้นฐาน Blockchain ที่ควรรู้ พร้อมอาหารและเครื่องดื่ม 🍕\n\nงานนี้สำหรับคนที่สนใจเรื่อง Crypto , Blockchain และโอกาสทํางานในสายงานนี้\n\n👥 เหมาะกับใคร\n\nนิสิตนักศึกษาและ Web3 Builder ที่สนใจคริปโต และ Blockchain\n\nDeveloper และ Builder ที่อยากสร้าง dApp บน Avalanche\n\n📍 สถานที่: มหาวิทยาลัยเกษตรศาสตร์\n\n🗓️ กำหนดการ\n\n13:00 | ลงทะเบียน (Registration)\n\n13:30 | กล่าวเปิดงานโดยประธานชมรม KU Blockchain Club (Opening Remarks)\n\n13:40 | Basic Blockchain, Avalanche & Team1\n\n14:40 | Workshop 1: Setup Core Wallet, How to send & Receive Crypto\n\n15:20 | Alumni Session by Thames, former KU Blockchain Club President\n\n16:00 | Networking\n\nTeam1 Workshop: Kaset Edition\n\nWeb3 afternoon for beginners at Kasetsart University. Hands-on crypto app experience, essential blockchain fundamentals, with food and drinks provided 🍕. Open to anyone interested in crypto, blockchain, and career opportunities in the space.\n\n👥 Target Audience\n\nStudents & Web3 builders interested in crypto and blockchain\n\nDevelopers & builders looking to build dApps on Avalanche\n\n📍 Location: True Coffee # True Lab @Kasetsart University\n\n🗓️ Schedule\n\n13:00 | Registration\n\n13:30 | Opening Remarks by KU Blockchain Club President\n\n13:40 | Basic Blockchain, Avalanche & Team1\n\n14:40 | Workshop 1: Setup Core Wallet, How to Send & Receive Crypto\n\n15:20 | Alumni Session by Thames, Former KU Blockchain Club President\n\n16:00 | Networking\n\n🧩 About Team1\n\nTeam1 is a global network of builders, developers, creatives, & community members who grow Avalanche.\n\nWith 600+ members operating across 60 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...\n\nBy bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.\n\n/AvaxTeam1",
-    "startDate": "2026-09-27T06:00:00.000Z",
-    "endDate": "2026-09-27T10:00:00.000Z",
-    "city": "Krung Thep Maha Nakhon",
-    "country": "Thailand",
-    "location": "True Coffee # True Lab Kasetsart University, True Coffee # True Lab Kasetsart University, 50 Soi Chuchat Kamphu, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
-    "url": "https://luma.com/k5ox4ths",
-    "registrationUrl": "https://luma.com/k5ox4ths",
-    "coverImage": "/events/luma-batch-v6KXm09aYg8nuVi-bdde5cb6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Team1",
-      "Godacre",
-      "Thames Thanawat",
-      "Sitsaroch Leelatanakorn",
-      "Scott Mcnaughton"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Bangkok",
-    "neighborhood": "Khwaeng Lat Yao",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "True Coffee # True Lab Kasetsart University",
-    "addressLocality": "Krung Thep Maha Nakhon",
-    "addressRegion": "Krung Thep Maha Nakhon",
-    "addressCountry": "TH",
-    "organizer": {
-      "type": "Organization",
-      "name": "Team1"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/k5ox4ths",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/k5ox4ths",
-      "eventId": "evt-v6KXm09aYg8nuVi",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-aBgOtK0cc6CZJxl",
     "slug": "rx4ysz5w",
     "name": "Vibes & Soda with SODAX",
@@ -12454,36 +12401,6 @@
     "sourceVerification": {
       "url": "https://luma.com/2n764jm8",
       "eventId": "evt-9rZ1FUZA2dW4uzF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtEqRfRJAePwjrZ",
-    "slug": "tradercareer3001",
-    "name": "Trader Career | Stage 3: Achieve — The Achievers Circle",
-    "description": "Trader Career | Stage 3: Achieve — The Achievers Circle\n\n📅 2026年9月27日\n⏰ 2:00 PM – 5:00 PM\n\n欢迎来到 The Achievers Circle。\n\n这是一场专属于 Trader Career Stage 3：Achieve 交易者的私人聚会。\n\n在 Stage 2，你学习了如何分析市场，并建立自己的技术分析基础。当你进入 Stage 3，重点将不再只是「如何找到交易机会」，而是进一步学习——如何更有效地管理你的仓位与交易。\n\n这次我们会分享：\n\nPosition Size Management｜仓位管理\nHedging｜对冲\nThrottle｜仓位调节\n\n这不是另一堂技术分析课程。\n\n而是一场属于 Stage 3 交易者的交流聚会，让大家一起分享经验、认识更进阶的交易概念，并为 Trader Career 的下一个里程碑做好准备。\n\n🔒 参与资格\n\n仅限 Trader Career Stage 3：Achieve 成员参与。\n你必须已经达到 Trader Career Stage 3，才可报名参加本次活动。\n\n做到盈利，是一个里程碑。\n学会管理盈利之后的交易，是你的下一步。\n\n欢迎来到 The Achievers Circle。\n\n_________________________\n\nTrader Career | Stage 3: Achieve — The Achievers Circle\n\n📅 27 September 2026\n⏰ 2:00 PM – 5:00 PM\n\nWelcome to The Achievers Circle.\n\nThis is a private gathering exclusively for traders who have reached Trader Career Stage 3: Achieve.\n\nIn Stage 2, you learned how to analyze the market and build your technical analysis foundation. As you enter Stage 3, the focus is no longer just about finding trading opportunities — it’s about learning how to manage your positions and trades more effectively.\n\nWhat We’ll Share\n\nPosition Size Management , Hedging , Throttle\n\nThis is not another technical analysis class.\n\nIt is a private gathering for Stage 3 traders to exchange experiences, explore more advanced trading concepts, and prepare for the next milestone in their Trader Career.\n\n🔒 Eligibility\n\nExclusive to Trader Career Stage 3: Achieve members only.You must have reached Trader Career Stage 3 to register for this event.\n\nBecoming profitable is a milestone.\nLearning how to manage your trading after profitability is your next step.\n\nWelcome to The Achievers Circle.",
-    "startDate": "2026-09-27T06:00:00.000Z",
-    "endDate": "2026-09-27T09:00:00.000Z",
-    "city": "Klang",
-    "country": "Malaysia",
-    "location": "David Justin Event Hall, David Justin Event Hall, G-03, Block C, The Tresor @ Gravit, 8, Jalan Bayu Laut 6/KS9, Kota Bayuemas, 41200 Klang, Selangor, Malaysia",
-    "url": "https://luma.com/tradercareer3001",
-    "registrationUrl": "https://luma.com/tradercareer3001",
-    "coverImage": "/events/luma-batch-evtEqRfRJAePwjrZ-7b023af2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "DavidJustin Blockchain Academy"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kuala_Lumpur",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/tradercareer3001",
-      "eventId": "evt-EqRfRJAePwjrZfo",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

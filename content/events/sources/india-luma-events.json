@@ -84,52 +84,6 @@
     "sideEventFor": []
   },
   {
-    "id": "india-luma-mlg5zv5y",
-    "name": "Bitcoin Wallets: Keys, Transactions, and the Mempool | Chandigarh",
-    "description": "## When you click \"Send,\" your wallet doesn't transfer money, it broadcasts a cryptographic signature directly to a global, ownerless network.\n\nJoin us for a deep dive into the inner workings of Bitcoin wallets! Whether you're a developer, a curious Bitcoiner, or someone wanting to understand what happens under the hood when you click \"Send,\" this meetup is for you.\n\nWe will break down how wallets manage your secret keys, how transactions are constructed and signed, and how they navigate the mempool to reach finality on the blockchain.\n\n## AGENDA\n\n• Public vs. Private Keys: How cryptographic key pairs prove ownership.\n• Seed Phrases & HD Wallets: How 12 to 24 words can restore all your funds across multiple addresses.\n• Key Management Best Practices: Hot wallets vs. Cold storage and multisig setups.\n• UTXO Model: How Bitcoin tracks ownership using Unspent Transaction Outputs instead of balance accounts.\n• Transaction Anatomy: Inputs, Outputs, ScriptPubKey, and Digital Signatures.\n• Fee Estimation & RBF: Understanding mining fees and Replace-By-Fee (RBF) mechanics.\n• What is the Mempool?: How nodes receive, validate, and queue unconfirmed transactions.\n• Fee Rates & Priority: How miners select transactions based on satoshis per vByte (sat/vB).\n• Congestion & Confirmation: What happens during high-traffic periods and how to navigate stuck transactions.\n\n## WHO'S GUIDING\n\nLed by Bitshala educators and open-source builders. Our sessions are led by active community members who build open-source tools, study the Bitcoin protocol, and advocate for transparent, open software.\n\n## WHAT TO EXPECT\n\n• Difficulty: Beginner level. Designed for absolute newcomers.\n• Zero Fluff: No sales pitches, no trading talk, and no corporate slides. Just pure peer-to-peer technical literacy.\n\n## IS THIS FOR YOU?\n\n• You are curious about how money and technology intersect.\n• You want to understand how Bitcoin works under the hood rather than follow market trends.\n• You prefer clear, logical explanations over complex jargon.\n• You enjoy asking foundational questions in a welcoming, hands-on environment.\n\nCoding experience not required. Intellectual curiosity about peer-to-peer technology is.\n\nYou will leave this session with a clear, grounded understanding of how value travels from a local secret key to permanent block confirmation.\n\n## About Bitshala\n\n[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.\n\nIf you'd like to explore more, check us out on:\n\n• Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)\n• [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)\n• Twitter (Socials and Announcements) (https://x.com/bitshala_org)\n• Luma (Events Calendar) (https://luma.com/bitshala)",
-    "startDate": "2026-09-27T06:30:00.000Z",
-    "endDate": "2026-09-27T08:30:00.000Z",
-    "city": "Chandigarh",
-    "country": "India",
-    "location": "Chandigarh, India",
-    "url": "https://luma.com/mlg5zv5y",
-    "coverImage": "/events/india-luma-mlg5zv5y-863b149b.webp",
-    "source": "luma-india",
-    "hosts": [
-      "Bitshala",
-      "Yasbir Singh"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Kolkata",
-    "slug": "bitcoin-wallets",
-    "registrationUrl": "https://luma.com/mlg5zv5y",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitshala",
-      "url": "https://bitshala.org/"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/mlg5zv5y",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/mlg5zv5y",
-      "eventId": "evt-XFGXDrfUCCruXqm",
-      "fetchedAt": "2026-09-19T23:30:16.403Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "india-luma-9mjyny8k",
     "name": "Ready for the Run @ Jaipur",
     "description": "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\nJaipur carries the theme Legacy. With centuries of trade, capital, and craft behind it, the city hosts the circuit's most pointed question: is Web3 and AI building something durable, or just riding another fast cycle?\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n## Partners\n\nTrailblazers\n\n🏆 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.\n\n[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n\nCommunity Partners\n\n• [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)\n• [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)\n• [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)\n• [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)\n• Zyphar Community\n• [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)\n\n## Co-Host\n\n## Raajeev Anand (@[cryptomargofficial](https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\n[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\n[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.",

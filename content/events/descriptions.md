@@ -11083,44 +11083,6 @@ Visitor Pass now just $100 (Regular Price: $499)!
 
 Registration requires host approval. Registration is listed as free.
 
-<a id="event-3dbbad700f4a72b4"></a>
-
-## Celo & Espresso Brews Happy Hour 🍸 에스프레소 해피 아워
-
-- Record: `kbw-official-celo-espresso-brews-09-27`
-- Source: [kbw-luma-events.json](sources/kbw-luma-events.json)
-- Starts: 2026-09-27T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/espresso-hh>
-
-### About the event
-
-Espresso Systems and Celo invite you to come enjoy an Espresso martini while discovering what we're brewing in the Blockchain space.
-
-Join us for a laid back happy hour to:
-
-- Chat with our co-founders
-- Hear the latest on Espresso and Celo's vision
-- Enjoy drinks (on us!)
-
-We'll also have fresh new swag that will be released especially in Seoul 🇰🇷
-
-See you there!
-
-Espresso Systems와 Celo가 함께 준비한 해피아워에 여러분을 초대합니다!
-
-Espresso Martini 한 잔과 함께, 두 프로젝트가 블록체인 생태계에서 어떤 미래를 만들어가고 있는지 편하게 이야기 나눠보세요.
-
-이번 해피아워에서는:
-
-- Espresso와 Celo 팀, 그리고 공동창업자들과 자유롭게 대화하고
-- 두 프로젝트가 그리고 있는 최신 비전과 방향성을 들어보고
-- 무료로 제공되는 다양한 음료도 즐길 수 있습니다
-
-서울에서 특별히 처음 공개되는 새로운 굿즈도 준비되어 있습니다 🇰🇷
-
-편하게 들러 함께 즐겨주세요. 현장에서 만나요!
-
 <a id="event-99d63bd0dd28d659"></a>
 
 ## Tangem House — Seoul @ KBW2026
@@ -22798,67 +22760,6 @@ The celebration takes place at a festive rooftop and banquet venue in Mumbai on 
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
 
-<a id="event-d7a3110fd4ff801f"></a>
-
-## Bitcoin Wallets: Keys, Transactions, and the Mempool \| Chandigarh
-
-- Record: `india-luma-mlg5zv5y`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-27T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/mlg5zv5y>
-
-### About the event
-
-When you click "Send," your wallet doesn't transfer money, it broadcasts a cryptographic signature directly to a global, ownerless network.
-
-Join us for a deep dive into the inner workings of Bitcoin wallets! Whether you're a developer, a curious Bitcoiner, or someone wanting to understand what happens under the hood when you click "Send," this meetup is for you.
-
-We will break down how wallets manage your secret keys, how transactions are constructed and signed, and how they navigate the mempool to reach finality on the blockchain.
-
-### AGENDA
-
-- Public vs. Private Keys: How cryptographic key pairs prove ownership.
-- Seed Phrases & HD Wallets: How 12 to 24 words can restore all your funds across multiple addresses.
-- Key Management Best Practices: Hot wallets vs. Cold storage and multisig setups.
-- UTXO Model: How Bitcoin tracks ownership using Unspent Transaction Outputs instead of balance accounts.
-- Transaction Anatomy: Inputs, Outputs, ScriptPubKey, and Digital Signatures.
-- Fee Estimation & RBF: Understanding mining fees and Replace-By-Fee (RBF) mechanics.
-- What is the Mempool?: How nodes receive, validate, and queue unconfirmed transactions.
-- Fee Rates & Priority: How miners select transactions based on satoshis per vByte (sat/vB).
-- Congestion & Confirmation: What happens during high-traffic periods and how to navigate stuck transactions.
-
-### WHO'S GUIDING
-
-Led by Bitshala educators and open-source builders. Our sessions are led by active community members who build open-source tools, study the Bitcoin protocol, and advocate for transparent, open software.
-
-### WHAT TO EXPECT
-
-- Difficulty: Beginner level. Designed for absolute newcomers.
-- Zero Fluff: No sales pitches, no trading talk, and no corporate slides. Just pure peer-to-peer technical literacy.
-
-### IS THIS FOR YOU?
-
-- You are curious about how money and technology intersect.
-- You want to understand how Bitcoin works under the hood rather than follow market trends.
-- You prefer clear, logical explanations over complex jargon.
-- You enjoy asking foundational questions in a welcoming, hands-on environment.
-
-Coding experience not required. Intellectual curiosity about peer-to-peer technology is.
-
-You will leave this session with a clear, grounded understanding of how value travels from a local secret key to permanent block confirmation.
-
-### About Bitshala
-
-[Bitshala](https://bitshala.org/) is a Bitcoin-focused education initiative where we help developers, designers, and curious builders learn by doing. We run cohorts, clubs, workshops, a hackerspace, and community programs that make it easier for people to explore, contribute to, and build on Bitcoin. Our focus is on hands-on learning, proof-of-work, and growing alongside a community of people who care about open technology, design, and the future of money.
-
-If you'd like to explore more, check us out on:
-
-- Discord (Online Community) (https://discord.com/invite/STeQFVEWf9)
-- [Cohorts Registration and Fellowship application portal](https://app.bitshala.org/)
-- Twitter (Socials and Announcements) (https://x.com/bitshala_org)
-- Luma (Events Calendar) (https://luma.com/bitshala)
-
 <a id="event-abcb396f3cfe4424"></a>
 
 ## Ready for the Run @ Chandigarh
@@ -23670,85 +23571,6 @@ Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Pa
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-1412af05fe876fc1"></a>
-
-## Singapore Defense Tech Hackathon
-
-- Record: `luma-crypto-GEzYcX1i5FjiSGT`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-09-25T04:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/sdth-2026>
-
-### Co-organized with NUS Enterprise and TUM Venture Labs
-
-Time to Accelerate Global Defense Innovation:
-
-Join 120+ of the world's most driven engineers, founders, and operators at the Singapore Defense Tech Hackathon (SDTH) on September 25-27, 2026.
-
-This isn't a typical hackathon. It's a premier global launchpad for defense technology. Work alongside international talent, defense innovators, and industry leaders to tackle real-world security challenges together.
-
-Meet potential co-founders. Build something that actually matters.
-
-### Our Mission
-
-Readying the Little Red Dome -
-
-The future of attritable aerial salvos will overwhelm traditional, sequential air defense systems. Revamp these legacy systems with the next generation of technology: With agentic AI, physics & digital twins at its core, compose robust defense products with commercially available technology. Build a new, comprehensive and investable idea that will secure safer skies. Getting sensors, C2, and shooters right is only half the battle. The other half is manufacturing and sustaining low-cost interceptors locally, without being held hostage by export controls or distant logistics chains. Agentic AI, next-generation perception, and additive manufacturing are three parts of the same answer.
-
-Main Category: 2-day Challenge
-
-2-day challenge tracks will be revealed to all registered participants one week before the event. Apply as a Hacker.
-
-### Focus Areas
-
-- Autonomous Command & Control (C2)
-- AI & Agentic Systems
-- Sensor-to-Shooter Integration
-- Counter-UAS & Drone Swarms
-- Maritime Security & Littoral Defense
-- Electronic Warfare (EW)
-- Resilient Communications
-- Space-Based Infrastructure & Defense
-- Modular, Integrated Defense Systems
-- "Defense Dome" architectures for city-scale protection
-
-By Invitation Only: 3-Month Extended Challenge
-
-A small number of applicants will be personally invited to take on a 3-Month Extended Challenge - an exclusive track for teams ready to work on problems a weekend cannot contain. Harder, more consequential, and deliberately ambitious. 3-months to work on three open questions to build on our mission, or the domain of your choice, at the frontier of defense technology:
-
-### Track A
-
-Can we build interceptors fast, cheap, and smart enough to match modern drone warfare, without skilled pilots or expensive supply chains?
-
-### Track B
-
-Can we design a sensing architecture that holds its picture when hundreds of threats arrive simultaneously?
-
-### Track C
-
-Can we keep meaningful human judgment in the loop when autonomous warfare has already outrun human reaction time?
-
-### Track D
-
-Based on your work and interests, you may also work on deep-tech in the domain of your choice, as long as it is relevant to defense. Do tell us more about your prior experience when you apply as a Hacker.
-
-Selected teams receive mentorship, a per-project budget, and upgraded prizes. Apply as a Hacker. We'll be in touch.
-
-(You may participate in both the 3-month & 2-day challenges!)
-
-### The Prizes
-
-Prizes worth up to $30,000, including a $12,000 top prize.
-
-SDTH is Phase 1 of a 9-month incubation program through the NUS Defence Tech Venture Lab.
-
-The strongest teams get incubated at NUS with milestone-based funding, mentorship, access to defence testbeds and expert and investor networks.
-
-It is a direct pathway from first prototype to funded defense startup, with roots in Singapore, solving challenges that matter globally.
-
-More details will be shared in June.
 
 <a id="event-695a4f913b59869a"></a>
 
@@ -27591,162 +27413,6 @@ Colosseum Copilot - AI brainstorm tool for project ideas
 Solana.new - an all in one kit to go from idea to shipped project
 
 Superteam Poland Hackathon Group
-
-<a id="event-41f8cafe306ccb14"></a>
-
-## Trader Career \| Stage 3: Achieve — The Achievers Circle
-
-- Record: `luma-batch-evtEqRfRJAePwjrZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tradercareer3001>
-
-### About the event
-
-Trader Career | Stage 3: Achieve - The Achievers Circle
-
-2026年9月27日
-
-2:00 PM - 5:00 PM
-
-欢迎来到 The Achievers Circle。
-
-这是一场专属于 Trader Career Stage 3：Achieve 交易者的私人聚会。
-
-在 Stage 2，你学习了如何分析市场，并建立自己的技术分析基础。当你进入 Stage 3，重点将不再只是「如何找到交易机会」，而是进一步学习 - - 如何更有效地管理你的仓位与交易。
-
-这次我们会分享：
-
-Position Size Management｜仓位管理
-
-Hedging｜对冲
-
-Throttle｜仓位调节
-
-这不是另一堂技术分析课程。
-
-而是一场属于 Stage 3 交易者的交流聚会，让大家一起分享经验、认识更进阶的交易概念，并为 Trader Career 的下一个里程碑做好准备。
-
-参与资格
-
-仅限 Trader Career Stage 3：Achieve 成员参与。
-
-你必须已经达到 Trader Career Stage 3，才可报名参加本次活动。
-
-做到盈利，是一个里程碑。
-
-学会管理盈利之后的交易，是你的下一步。
-
-欢迎来到 The Achievers Circle。
-
-_________________________
-
-Trader Career | Stage 3: Achieve - The Achievers Circle
-
-27 September 2026
-
-2:00 PM - 5:00 PM
-
-Welcome to The Achievers Circle.
-
-This is a private gathering exclusively for traders who have reached Trader Career Stage 3: Achieve.
-
-In Stage 2, you learned how to analyze the market and build your technical analysis foundation. As you enter Stage 3, the focus is no longer just about finding trading opportunities - it's about learning how to manage your positions and trades more effectively.
-
-What We'll Share
-
-Position Size Management, Hedging, Throttle
-
-This is not another technical analysis class.
-
-It is a private gathering for Stage 3 traders to exchange experiences, explore more advanced trading concepts, and prepare for the next milestone in their Trader Career.
-
-Eligibility
-
-Exclusive to Trader Career Stage 3: Achieve members only.You must have reached Trader Career Stage 3 to register for this event.
-
-Becoming profitable is a milestone.
-
-Learning how to manage your trading after profitability is your next step.
-
-Welcome to The Achievers Circle.
-
-<a id="event-0f442a176e235c4a"></a>
-
-## Team1 x KU : Introduction to Blockchain
-
-- Record: `luma-batch-v6KXm09aYg8nuVi`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-09-27T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/k5ox4ths>
-
-### About the event
-
-Welcome to Team1 Workshop: Kaset Edition
-
-ช่วงบ่ายสำหรับ Web3 Beginner ที่มหาวิทยาลัยเกษตรศาสตร์ ลงมือใช้งาน Crypto Application สอนพื้นฐาน Blockchain ที่ควรรู้ พร้อมอาหารและเครื่องดื่ม
-
-งานนี้สำหรับคนที่สนใจเรื่อง Crypto, Blockchain และโอกาสทํางานในสายงานนี้
-
-เหมาะกับใคร
-
-นิสิตนักศึกษาและ Web3 Builder ที่สนใจคริปโต และ Blockchain
-
-Developer และ Builder ที่อยากสร้าง dApp บน Avalanche
-
-สถานที่: มหาวิทยาลัยเกษตรศาสตร์
-
-กำหนดการ
-
-13:00 | ลงทะเบียน (Registration)
-
-13:30 | กล่าวเปิดงานโดยประธานชมรม KU Blockchain Club (Opening Remarks)
-
-13:40 | Basic Blockchain, Avalanche & Team1
-
-14:40 | Workshop 1: Setup Core Wallet, How to send & Receive Crypto
-
-15:20 | Alumni Session by Thames, former KU Blockchain Club President
-
-16:00 | Networking
-
-Team1 Workshop: Kaset Edition
-
-Web3 afternoon for beginners at Kasetsart University. Hands-on crypto app experience, essential blockchain fundamentals, with food and drinks provided. Open to anyone interested in crypto, blockchain, and career opportunities in the space.
-
-Target Audience
-
-Students & Web3 builders interested in crypto and blockchain
-
-Developers & builders looking to build dApps on Avalanche
-
-Location: True Coffee # True Lab @Kasetsart University
-
-### Schedule
-
-13:00 | Registration
-
-13:30 | Opening Remarks by KU Blockchain Club President
-
-13:40 | Basic Blockchain, Avalanche & Team1
-
-14:40 | Workshop 1: Setup Core Wallet, How to Send & Receive Crypto
-
-15:20 | Alumni Session by Thames, Former KU Blockchain Club President
-
-16:00 | Networking
-
-### About Team1
-
-Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
-
-With 600+ members operating across 60 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
-
-By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
-
-/AvaxTeam1
 
 <a id="event-6317b1b8470dbbcd"></a>
 
@@ -67895,6 +67561,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2009785e9361d4be"></a>
+
+## Bittensor Builders House
+
+- Record: `w3v-bittensor-builders-house-26-10-27`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T07:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/bittensor-hh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-da454e770d171647"></a>
 
 ## Apex Invest Europe 2026
@@ -69249,6 +68927,18 @@ BTC Balkans brings regional Bitcoin communities and open-source contributors tog
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2c382c98595af54d"></a>
+
+## Indie Builders Dinner w/ Harkirat Singh
+
+- Record: `w3v-indie-builders-dinner-w-harkirat-singh-26-10-31`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-31T13:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/indie-builders-dinner-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a558e063e9e5f636"></a>
 
 ## South Side Spanish (Bridgeport)
@@ -69487,6 +69177,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-98243a4f6ba031cb"></a>
+
+## The CMO Summit: Top 0.01% Club
+
+- Record: `w3v-cmo-summit-top-0-01-club-26-11-01`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T11:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ccxd0wz0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9df4947ab0dadebc"></a>
 
 ## Distancia de rescate, de Samanta Schweblin
@@ -69574,6 +69276,18 @@ An organizer description has not been verified for this record. Any previous cop
 AIBC World's European event focuses on AI, blockchain and other emerging technologies, bringing together companies and industry participants through conference sessions and exhibitions.
 
 The stored organizer listing places the European edition in Rome alongside SiGMA. The primary page could not be refreshed during this audit, so confirm the current program, venue and admission details directly with AIBC before making plans.
+
+<a id="event-8b8f0cc172d0395d"></a>
+
+## Off-Chain Padel
+
+- Record: `w3v-off-chain-padel-26-11-02`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-02T01:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/m8jxna31>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-58b5849f751ad9f0"></a>
 
@@ -69823,6 +69537,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7eff8623767d157b"></a>
+
+## Dabao Open Hardware Hackathon
+
+- Record: `w3v-dabao-open-hardware-hackathon-incl-board-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T03:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/qivci0a6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a2bd1fe0d50e1b68"></a>
 
 ## EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together
@@ -69868,6 +69594,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-03T04:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/a0e6b8at>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0b8ed1be0e834e79"></a>
+
+## Stark Space Mumbai \| Day 1
+
+- Record: `w3v-stark-space-mumbai-day-1-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T04:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/Stark-Space-Mumbai-Day-1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -69977,6 +69715,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9874d1fc32ae4895"></a>
+
+## Your Crypto Data Problem, Solved in One Meeting \| Kryptos @ Devcon 8
+
+- Record: `w3v-your-crypto-data-problem-solved-one-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T06:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/l5289trw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7dec3d7f2fd7cbc8"></a>
 
 ## The Future of Institutional Finance: AI & Digital Assets
@@ -70000,6 +69750,18 @@ HashKey Cloud and XDC Network, with BTCLOAN, host a Hong Kong FinTech Week discu
 - Starts: 2026-11-03T11:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/pdpgqkqm>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-964daf5b8f117f99"></a>
+
+## Builder Nights Mumbai - Agentic Edition \| Hosted by MetaMask 🦊️, Monad, ENS, ARKIV, Strato and Diligence
+
+- Record: `w3v-builder-nights-mumbai-agentic-edition-hosted-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T11:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/bnmumbai26>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70032,6 +69794,30 @@ The dinner takes place in the Ram Krishna Nagar neighborhood of Khar West / Band
 ### Registration and admission
 
 Attendance is free and requires host approval to maintain an intimate table size conducive to deep technical discussions. Venue address and directions will be shared directly with approved guests.
+
+<a id="event-9fe68dde93240fc8"></a>
+
+## Stark After Dark: Starknet Party
+
+- Record: `w3v-stark-dark-starknet-party-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T13:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/stark-after-dark-mumbai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2e46a0e0d8311b87"></a>
+
+## No Slippage, Just Steps \| DeFi Night Walk
+
+- Record: `w3v-no-slippage-just-steps-defi-night-26-11-03`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/dvu4zt0s>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-7fa9abed7836855b"></a>
 
@@ -70085,6 +69871,18 @@ CAT Investigators and Finoverse host short keynotes and a practitioner panel on 
 
 HKGHH hosts an informal business and technology meetup at Chef's Cuts during Hong Kong FinTech Week. The stated audience includes blockchain professionals, developers, founders and investors. Doors open at 18:45. Attendees buy their own drinks, with a one-drink minimum, and the organizer asks guests to bring business cards and wear smart casual clothing.
 
+<a id="event-09c84f91c4bb114e"></a>
+
+## Ethereum Forward Defence Summit
+
+- Record: `w3v-ethereum-forward-defence-summit-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-03T23:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/vwmfpmaz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ef50ea65573a0848"></a>
 
 ## ETHIndia 2026
@@ -70109,6 +69907,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f60b8fa081d1d8cc"></a>
+
+## Stark Space Mumbai \| Day 2
+
+- Record: `w3v-stark-space-mumbai-day-2-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T04:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/stark-space-mumbai-day-2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2da21645a4ebded6"></a>
 
 ## The Yield Layer of Social Impact
@@ -70130,6 +69940,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T05:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/cw0h549b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9e97b92047f97184"></a>
+
+## OPEN HOUSE by lil room Mumbai
+
+- Record: `w3v-open-house-lil-room-mumbai-4th-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T05:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/gjfpaw4r>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70231,6 +70053,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a1415f9684a309f9"></a>
+
+## The Best Event: Stable - Payments & Stablecoins
+
+- Record: `w3v-best-event-stable-payments-stablecoins-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T10:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/TBE-Stable26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2e56242e768d5b3d"></a>
 
 ## Digital Asset Regulation, Policy and Global Compliance Roundtable
@@ -70252,6 +70086,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-04T10:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/hr8w0hmd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5ef6bf0f6571e749"></a>
+
+## Trade Smarter. Never Get Liquidated \| ClickOptions × NextWave
+
+- Record: `w3v-trade-smarter-never-get-liquidated-clickoptions-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T10:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/1t7wknyp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70291,6 +70137,18 @@ The symposium takes place at a conference auditorium in Mumbai on Monday, Novemb
 ### Registration and admission
 
 Attendance is free with registration approval required. Applicants are asked to share their academic affiliation, research papers, or GitHub profiles when requesting admission.
+
+<a id="event-7c017106c0048254"></a>
+
+## Toast with Sumsub Before Unchained Summit
+
+- Record: `w3v-toast-sumsub-unchained-summit-26-11-04`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/z0hipllt>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-6cac794490a5123e"></a>
 
@@ -70485,6 +70343,18 @@ The reception is hosted at an upscale hospitality venue in central Mumbai on Wed
 
 Tickets are complimentary but strictly invitation-only and subject to manual review. Founders must provide a project overview, and investors must verify their fund affiliation when requesting an RSVP.
 
+<a id="event-cf5698c19b5f4f87"></a>
+
+## Bitcoin 101
+
+- Record: `mu-317153094`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-04T18:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/arizona-bitcoin-meetup/events/317153094/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-802606c3cbeee11f"></a>
 
 ## bitcoin++ Seoul, Privacy Edition 2026
@@ -70537,6 +70407,54 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-262ddae89a76b1ae"></a>
+
+## L2BEAT - The Next Chapter
+
+- Record: `w3v-l2beat-next-chapter-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T03:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/il76d51q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-72ec620b5c91b91c"></a>
+
+## OpenTechSummit India 2026
+
+- Record: `w3v-opentechsummit-india-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T03:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://eventyay.com/fossasia/ots2026/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-487326abe19a73e7"></a>
+
+## Liquidity Pool @Devcon 8
+
+- Record: `w3v-liquidity-pool-devcon-8-mumbai-powered-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T04:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/sgrf4yq5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-88a04bdb2eb14a66"></a>
+
+## ZK Summit Mumbai
+
+- Record: `w3v-zk-summit-mumbai-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T05:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://zkmonk.org/devconnect-summit-mumbai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-60a1a3a6db0a5773"></a>
 
 ## Mind the Gap: How do we work together and avoid silos for a stronger scaleup landscape?
@@ -70558,6 +70476,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T10:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/9lgrhxjn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5c47914dc002eb65"></a>
+
+## Devcon Builders Evening by Canton x Ledger x OpenZeppelin
+
+- Record: `w3v-devcon-builders-evening-canton-x-ledger-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T10:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/4s9s062i>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70597,6 +70527,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-02ad3ce990988a44"></a>
+
+## Women's Networking
+
+- Record: `w3v-women-s-networking-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T12:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/phluxeas>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6ae35aae34237c21"></a>
+
+## Founder x VC Happy Hour @ DEVCON 8
+
+- Record: `w3v-founder-x-vc-happy-hour-devcon-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/gmi3qcpz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-df0664e483066352"></a>
 
 ## The Best Event: Afterdark Devcon
@@ -70618,6 +70572,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-05T13:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/TBE-Devcon26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c433fe5dcdb9ef2d"></a>
+
+## Onchain Execution Dinner: Deepflow × Eureka Labs
+
+- Record: `w3v-onchain-execution-dinner-deepflow-eureka-labs-26-11-05`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-05T13:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/defi-32af>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70690,6 +70656,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-06T03:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/pragma-mumbai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-443f3f602be96a36"></a>
+
+## Devcon Career Fair
+
+- Record: `w3v-devcon-career-fair-26-11-06`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T03:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://www.dev3pack.xyz/programs/career-fair>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70788,6 +70766,18 @@ Admission is free and approval-based on Luma. Space is limited to ensure a comfo
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-01a74abcc4a0b41c"></a>
+
+## The India house
+
+- Record: `w3v-india-house-26-11-06`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-06T12:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/i4bpbsxn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-427e1846e43897fe"></a>
 
 ## Devcon Afterparty
@@ -70841,6 +70831,18 @@ AlpineChain's fourth B-Only conference in Annecy includes Bitcoin talks, worksho
 - Starts: 2026-11-07T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.bitcoinkoreaconference.com/en>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a27d4824828af13c"></a>
+
+## Monad India Community Meetup - Devcon Mumbai 26' Edition
+
+- Record: `w3v-monad-india-community-meetup-devcon-mumbai-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T08:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/c54atdob>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -70898,6 +70900,18 @@ The event takes place at a private boutique venue in Bandra West, Mumbai, on Nov
 
 Admission is free and approval-based via Luma. Capacity is capped to maintain a comfortable, non-crowded atmosphere. Approved guests receive the venue location prior to the event.
 
+<a id="event-ccecbf203aaf0a3a"></a>
+
+## Crypto After Hours: Penthouse
+
+- Record: `w3v-crypto-hours-penthouse-26-11-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-07T15:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/jj07gjrg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e3df002d8dfd3938"></a>
 
 ## CodeCup: AI x Solana Builder Arena — Breakpoint 2026
@@ -70915,6 +70929,18 @@ Admission is free and approval-based via Luma. Capacity is capped to maintain a 
 Join us for the CodeCup: AI x Solana Builder Arena - Breakpoint Edition, an electrifying day of innovation and collaboration! On Sunday, November 15, 2026, we're gathering at the iconic Olympia London for an extraordinary exploration of AI and blockchain technology, focusing on the Solana ecosystem. Whether you're a developer, entrepreneur, or tech enthusiast, this event is your gateway to cutting-edge insights and networking opportunities with industry leaders and peers.
 
 Dive into a dynamic schedule packed with engaging talks, hands-on workshops, and spirited competitions that will challenge and inspire. The arena will buzz with creativity as participants collaborate on groundbreaking projects, exchanging ideas with some of the brightest minds in the field. Don't miss out on this unique chance to elevate your skills and be part of the future of technology!
+
+<a id="event-cbda707365e279b2"></a>
+
+## Litchfield Festival of Arts
+
+- Record: `mu-317134635`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-08T12:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/westvalleywinegroup/events/317134635/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-ccfb469670842ac2"></a>
 
@@ -71407,6 +71433,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-13T08:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-denver/events/317156401/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-649c661d2635b1d1"></a>
+
+## Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future
+
+- Record: `mu-317156432`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-13T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/317156432/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -72219,6 +72257,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 The Kuching conference focuses on blockchain, AI and digital infrastructure in Borneo and ASEAN. Its announced topics include real-world asset tokenization, AI-blockchain applications, post-quantum cryptography and startup pitching.
+
+<a id="event-3d7d32d776401bf1"></a>
+
+## VAST & TensorWave SC26 Happy Hour
+
+- Record: `luma-evt-TeXAmtvtczW4Zff`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/o8238k1i>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-0c9aee3f718cdfd6"></a>
 
