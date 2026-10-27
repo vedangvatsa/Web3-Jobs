@@ -116,10 +116,12 @@
           "osmosis",
           "canadastablecoin"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-10-27T05:30:03.123Z",
         "buildId": "daily-20261027-40445498812-1",
-        "rolloutId": "daily-20261027-40445498812-1"
+        "rolloutId": "daily-20261027-40445498812-1",
+        "buildState": "READY",
+        "observedAt": "2026-10-27T05:55:12.026Z"
       }
     ]
   }
