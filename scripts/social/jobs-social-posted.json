@@ -65402,7 +65402,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "7dbbf4bd-f62b-4a28-928f-1482d06c8de6",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6ae0fde32d6ce6e7b6dec780"
     }
   ]
 }
