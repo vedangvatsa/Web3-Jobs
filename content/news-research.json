@@ -93640,11 +93640,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "f9a41638f2a3d6639322",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T21:39:27.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "verified-event",
+      "note": "Reused the restored akash draft. Verified the Akash blog post content (akashnet-2, Solana rebuild, 21-day unstake, 90-day workload window, 0.075 SOL fee figure) and HTTP 200 on Crypto Briefing, ChainCatcher and the core team blog. The Defiant URL returned HTTP 403 and was not used. Vote window, proposal number and early tallies match the cited sources.",
+      "sourceChecks": [
+        {
+          "url": "https://akash.network/blog/why-we-selected-solana-for-akash/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/akash-network-migrates-solana-akt-spl-token/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.chaincatcher.com/en/article/2299088",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.551Z",
+      "articleSlug": "akash",
+      "lastReviewedDay": "2026-10-27"
     },
     "a419806d323a15f9b1df": {
       "source": "Crypto Briefing",
@@ -93759,11 +93782,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "fbf8593db7e92debca93",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T22:16:03.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "duplicate",
+      "note": "Same Canada Gazette draft stablecoin rules as the ready canadastablecoin article: 60-day consultation, 1% redemption fee cap, yield ban. Decrypt was one of that article's cited sources.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "duplicateOf": "canadastablecoin",
+      "mergedInto": "2320b21b8a41ee57b9ef",
+      "lastReviewedDay": "2026-10-27"
     },
     "6af971b5b9ff83282b43": {
       "source": "The Defiant",
@@ -93780,11 +93815,42 @@
       ],
       "alsoCoveredBy": [],
       "id": "6af971b5b9ff83282b43",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T21:53:17.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "verified-event",
+      "note": "Wrote a new article from the governance proposal text on Mintscan/Valopers plus TechFlow and Phemex reports. Verified 91.07% yes, 65.52% turnout, 121,766 daily mint breakdown, 51.9M developer balance pause, Proposal 1052 offset and forum discussion. The Defiant source returned HTTP 403 and was not cited.",
+      "sourceChecks": [
+        {
+          "url": "https://www.mintscan.io/osmosis/proposals/1053",
+          "outcome": "read"
+        },
+        {
+          "url": "https://osmosis.valopers.com/proposals/1053",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.techflowpost.com/en-US/newsletter/141452",
+          "outcome": "read"
+        },
+        {
+          "url": "https://phemex.com/news/article/osmosis-ends-osmo-inflation-shifts-staking-rewards-to-feebased-model-101201",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forum.osmosis.zone/t/end-osmo-inflationary-emissions/4159",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.551Z",
+      "articleSlug": "osmosis",
+      "lastReviewedDay": "2026-10-27"
     },
     "bc9aa117b178c07b3b57": {
       "source": "Decrypt",
@@ -93801,11 +93867,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc9aa117b178c07b3b57",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T20:36:03.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "duplicate",
+      "note": "Decrypt covers the same NBA-CFTC MOU and preferred exchanges, with NFL court fight context already in nba.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "duplicateOf": "nba",
+      "mergedInto": "e91ee4d04884eedb048b",
+      "lastReviewedDay": "2026-10-27"
     },
     "eb76ce9ae126eb7320ce": {
       "source": "Cointelegraph",
@@ -93822,11 +93900,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb76ce9ae126eb7320ce",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T19:47:40.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "duplicate",
+      "note": "Cointelegraph covers the same October 24 Canada Gazette stablecoin consultation already reported in canadastablecoin.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "duplicateOf": "canadastablecoin",
+      "mergedInto": "2320b21b8a41ee57b9ef",
+      "lastReviewedDay": "2026-10-27"
     },
     "8e2c6a452221f17455f8": {
       "source": "The Block",
@@ -93883,11 +93973,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "abb1b13f26837ba28fe2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T17:46:09.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "duplicate",
+      "note": "Cointelegraph covers the same NBA CFTC memorandum and Kalshi/Polymarket preferred-exchange designations already reported in nba.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.552Z",
+      "duplicateOf": "nba",
+      "mergedInto": "e91ee4d04884eedb048b",
+      "lastReviewedDay": "2026-10-27"
     },
     "59bf51332a108fcf854b": {
       "source": "The Block",
@@ -93944,11 +94046,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "e91ee4d04884eedb048b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T15:59:55.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "verified-event",
+      "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.551Z",
+      "articleSlug": "nba",
+      "lastReviewedDay": "2026-10-27"
     },
     "2320b21b8a41ee57b9ef": {
       "source": "CoinDesk",
@@ -93965,11 +94090,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "2320b21b8a41ee57b9ef",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-29T14:23:41.000Z",
-      "lastSeenAt": "2026-10-27T03:42:12.136Z"
+      "lastSeenAt": "2026-10-27T03:42:12.136Z",
+      "reason": "verified-event",
+      "note": "Reused the restored canadastablecoin draft. Read the full Decrypt report and confirmed the Gazette draft text returns HTTP 200; CoinDesk page opened with Canadian Bankers Association, yield ban and Gazette references present. Draft facts on reserves, three-day redemption, 1% fee cap, penalties and fall 2027 timing match the opened sources.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+          "outcome": "read"
+        },
+        {
+          "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:05:59.551Z",
+      "articleSlug": "canadastablecoin",
+      "lastReviewedDay": "2026-10-27"
     },
     "274cdf337e54ab8ad76f": {
       "source": "The Defiant",
@@ -170544,6 +170688,166 @@
             }
           ],
           "reviewedAt": "2026-10-27T03:47:47.620Z"
+        },
+        "f9a41638f2a3d6639322": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused the restored akash draft. Verified the Akash blog post content (akashnet-2, Solana rebuild, 21-day unstake, 90-day workload window, 0.075 SOL fee figure) and HTTP 200 on Crypto Briefing, ChainCatcher and the core team blog. The Defiant URL returned HTTP 403 and was not used. Vote window, proposal number and early tallies match the cited sources.",
+          "sourceChecks": [
+            {
+              "url": "https://akash.network/blog/why-we-selected-solana-for-akash/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/akash-network-migrates-solana-akt-spl-token/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chaincatcher.com/en/article/2299088",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.551Z",
+          "articleSlug": "akash"
+        },
+        "2320b21b8a41ee57b9ef": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused the restored canadastablecoin draft. Read the full Decrypt report and confirmed the Gazette draft text returns HTTP 200; CoinDesk page opened with Canadian Bankers Association, yield ban and Gazette references present. Draft facts on reserves, three-day redemption, 1% fee cap, penalties and fall 2027 timing match the opened sources.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.551Z",
+          "articleSlug": "canadastablecoin"
+        },
+        "e91ee4d04884eedb048b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.551Z",
+          "articleSlug": "nba"
+        },
+        "6af971b5b9ff83282b43": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote a new article from the governance proposal text on Mintscan/Valopers plus TechFlow and Phemex reports. Verified 91.07% yes, 65.52% turnout, 121,766 daily mint breakdown, 51.9M developer balance pause, Proposal 1052 offset and forum discussion. The Defiant source returned HTTP 403 and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://www.mintscan.io/osmosis/proposals/1053",
+              "outcome": "read"
+            },
+            {
+              "url": "https://osmosis.valopers.com/proposals/1053",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.techflowpost.com/en-US/newsletter/141452",
+              "outcome": "read"
+            },
+            {
+              "url": "https://phemex.com/news/article/osmosis-ends-osmo-inflation-shifts-staking-rewards-to-feebased-model-101201",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forum.osmosis.zone/t/end-osmo-inflationary-emissions/4159",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.551Z",
+          "articleSlug": "osmosis"
+        },
+        "fbf8593db7e92debca93": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Canada Gazette draft stablecoin rules as the ready canadastablecoin article: 60-day consultation, 1% redemption fee cap, yield ban. Decrypt was one of that article's cited sources.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.552Z",
+          "duplicateOf": "canadastablecoin",
+          "mergedInto": "2320b21b8a41ee57b9ef"
+        },
+        "eb76ce9ae126eb7320ce": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph covers the same October 24 Canada Gazette stablecoin consultation already reported in canadastablecoin.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.552Z",
+          "duplicateOf": "canadastablecoin",
+          "mergedInto": "2320b21b8a41ee57b9ef"
+        },
+        "abb1b13f26837ba28fe2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph covers the same NBA CFTC memorandum and Kalshi/Polymarket preferred-exchange designations already reported in nba.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.552Z",
+          "duplicateOf": "nba",
+          "mergedInto": "e91ee4d04884eedb048b"
+        },
+        "bc9aa117b178c07b3b57": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Decrypt covers the same NBA-CFTC MOU and preferred exchanges, with NFL court fight context already in nba.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.552Z",
+          "duplicateOf": "nba",
+          "mergedInto": "e91ee4d04884eedb048b"
         }
       },
       "baselineSlugs": [
