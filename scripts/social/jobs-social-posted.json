@@ -60496,7 +60496,8 @@
       },
       "account": "channel:developers",
       "attemptId": "d1a569fa-744e-44ea-8275-03dd81a71be5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9d13983be9b9558fc0a1e7cc5154f2a008e666fb"
     }
   ]
 }
