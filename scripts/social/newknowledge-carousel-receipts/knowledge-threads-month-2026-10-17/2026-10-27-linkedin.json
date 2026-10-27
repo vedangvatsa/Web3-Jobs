@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-10-27",
+    "threadId": "C04",
+    "sequence": 10,
+    "platform": "linkedin",
+    "sourceContentSha256": "1cbe2f93ef8c2be5086df627ff8374c4090b8f42aebe30623ae69d6c3176c55f",
+    "calendarSha256": "70484da3b7319ebb706092e37759daf11ea4a58df5a9beadef96d8dd5ada9ebc",
+    "sourceThreadSha256": "790571b518ebfc26dcf891bfca71e688df5f0e0fc259950368d83ddade46320c",
+    "sourcePostHashes": [
+      "24cc056c5fc4400dd916796abf8bd4b891b8a01911ea4d10bd9d1cdf35af94bc",
+      "bfc2436c6540e6cf621d654a7cdf50a16a3c8a0a09a7f72758c8f5b377c69c7f",
+      "3eef934e4608bf20b21e183b2a1469692d2b3ca55d7a36685e34cb52e3b09d5b",
+      "15f8d1e854a1503b87a5c08dfc3fe75469820eda7a9aad8a3aec737a98a0bd45",
+      "8005fb188821c1bf8e9cbdd67a95bf66a6b46bbe28d6c14649e4a4ab64708924",
+      "e16dafd5d11db888840c525f738b45cd5dc6ccc62b8a4418060a36dbf22d3024"
+    ],
+    "sourceImages": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-01.jpg",
+        "sha256": "a3cf53c76ec07e66db54d4d3a5d14e471e2b56b87457de87468dad887a9fb2c0",
+        "bytes": 163560,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Destination photo beside tourist-entry rules for Indian ordinary passports, checked October 20, 2026. Malaysia: up to 30 visa-free days, with the exemption ending December 31, 2026. Kazakhstan: up to 14 days per entry and 42 days in any 180-day period. Entry documents and conditions apply.",
+        "renderedText": "Indian passport\n\nIndian passport: five tourist-entry comparisons\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nMalaysia\nUp to 30 visa-free days; exemption ends December 31, 2026.\nKazakhstan\nUp to 14 days per entry; 42 days in any 180-day period.\n\nFive destinations in this thread. Entry documents and conditions apply.\n\nRules: HCI Kuala Lumpur · Malaysia Immigration · Kazakhstan MFA · Photo: Kuala Lumpur\n\nC04 · 1/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-02.jpg",
+        "sha256": "19668c2399ad668a415b8e8c76ff3f402eae50384d2dfccc2db4124eba427ad3",
+        "bytes": 234659,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Malaysia photo and tourist-entry checklist for Indian ordinary passports. Up to 30 visa-free days; exemption ends December 31, 2026. Passport valid 6 months, confirmed return ticket and hotel booking required. Submit the Malaysia Digital Arrival Card 3 days before arrival. Rules checked October 20, 2026.",
+        "renderedText": "Indian passport\n\nMalaysia: 30 days, with arrival paperwork\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nStay\nUp to 30 visa-free days; exemption ends December 31, 2026.\nDocuments\nPassport valid 6 months, confirmed return ticket and hotel booking.\nArrival card\nSubmit Malaysia Digital Arrival Card 3 days before arrival.\n\nRules: HCI Kuala Lumpur · Malaysia Immigration · Photo: Kuala Lumpur\n\nC04 · 2/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-03.jpg",
+        "sha256": "8b2f94197962ff99a8a17760646a29d4dccfd160854b053ef937778d394560dd",
+        "bytes": 176185,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Thailand photo and Indian ordinary-passport tourist rules, effective September 15, 2026. Stay: 30 visa-free days, maximum 2 entries per calendar year. Submit TDAC within 3 days before arrival; show accommodation and onward travel within 30 days. Funds: THB 20,000 per person or THB 40,000 per family. Extension up to 30 days is discretionary. Checked October 20, 2026.",
+        "renderedText": "Indian passport\n\nThailand: the current exemption is 30 days\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nStay\n30 visa-free days; maximum 2 entries per calendar year. Effective September 15, 2026.\nBefore arrival\nTDAC within 3 days; accommodation and onward travel within 30 days.\nFunds\nTHB 20,000/person or THB 40,000/family.\n\nAn extension of up to 30 days is discretionary.\n\nRules: Thai embassies · Thailand MFA · Photo: Bangkok\n\nC04 · 3/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-04.jpg",
+        "sha256": "b2ca2b9b917d527f807e363b692039ee4eae3dbb34804215aae92e330bc93a78",
+        "bytes": 126197,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Kazakhstan flag beside Indian ordinary-passport tourist stay limits. Up to 14 visa-free calendar days from border crossing per entry; maximum 42 calendar days in any 180-day period. Leaving and returning does not reset the total allowance. Rules checked October 20, 2026.",
+        "renderedText": "Indian passport\n\nKazakhstan: 14 per visit, 42 in 180\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nPer entry\nUp to 14 visa-free calendar days from border crossing.\nTotal limit\n42 calendar days in any 180-day period.\n\nLeaving and returning does not reset the 42-day allowance.\n\nRules: gov.kz\n\nC04 · 4/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-05.jpg",
+        "sha256": "234bc3d2ada1b43c7bbdc81bbff8c3bc61fd01fb7ec2e3a084105f0e4bf07a97",
+        "bytes": 231934,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Philippines photo beside Indian ordinary-passport tourist rules. Stay: 14 visa-free days, non-extendable and non-convertible. Show hotel, funds and onward or return travel proof, with a passport valid 6 months beyond the stay. Transit-only trips require a transit visa. Checked October 20, 2026.",
+        "renderedText": "Indian passport\n\nPhilippines: the 14-day Indian-passport route\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nStay\n14 visa-free days, non-extendable and non-convertible.\nDocuments\nHotel, funds and onward/return proof. Passport valid 6 months beyond the stay.\n\nTransit-only trips still require a transit visa.\n\nRules: philippine-embassy.org.sg · Photo: Manila\n\nC04 · 5/6"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/C04-06.jpg",
+        "sha256": "e58cee04061cec28b1539cc62a850a2c9e947c4348f2d6501ce6e4396ed09f16",
+        "bytes": 157520,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Mauritius flag and Indian ordinary-passport tourist rules. No visa required. Tourist stays may total up to 6 months per calendar year; each visit's length is decided at entry. Bring a return ticket, confirmed stay and funds, with a passport valid beyond the stay. Gainful activity requires a valid residence permit. Checked October 20, 2026.",
+        "renderedText": "Indian passport\n\nMauritius: visa-free, duration set at entry\n\nIndian ordinary passport · Tourism\nRules checked October 20, 2026\n\nVisa\nNo visa required for Indian passports.\nTourist ceiling\nUp to 6 months per calendar year; actual visit length is decided at entry.\nDocuments\nReturn ticket, confirmed stay and funds. Passport must outlast the stay.\n\nGainful activity requires a valid residence permit.\n\nRules: passport.govmu.org\n\nC04 · 6/6"
+      }
+    ],
+    "assetCommit": "b96fea8609602903301e7ff14325ed5bdf18a01a",
+    "target": {
+      "channelId": "69c5b139af47dacb695b5feb",
+      "service": "linkedin",
+      "serviceId": "89714573",
+      "profile": "https://www.linkedin.com/company/hashtagweb3/"
+    },
+    "caption": "Malaysia offers Indian tourists 30 visa-free days; Kazakhstan offers 14 per visit.\n\nFive destinations for ordinary Indian passports, with tourist-entry rules checked October 20, 2026.\n\n1. Malaysia: up to 30 visa-free days for Indian tourists; exemption ends December 31, 2026.\n\nBring a passport valid 6 months, confirmed return ticket and hotel booking. Submit Malaysia Digital Arrival Card before arrival.\n\n2. Thailand: Indian tourists get 30 visa-free days, 2 entries/calendar year, under September 15, 2026 rules.\n\nSubmit TDAC within 3 days before arrival; bring accommodation, onward travel and THB 20,000/person.\n\n3. Kazakhstan: Indian ordinary passports get up to 14 visa-free days per entry, capped at 42 days in any 180-day period.\n\nA 2-week visit fits; leaving and returning does not reset the 42-day allowance.\n\n4. Philippines: 14 visa-free days for Indian tourists, non-extendable and non-convertible.\n\nBring hotel, funds and onward/return proof; passport valid 6 months beyond the stay. Transit-only trips require a transit visa.\n\n5. Mauritius: Indian passports need no visa. Tourist stays can total up to 6 months/calendar year, subject to border approval.\n\nBring a return ticket, confirmed stay and funds; passport must outlast the stay.\n\nFull resource: hashtagweb3.com/visas/li",
+    "title": "Indian passport: five visa-free destinations and stay limits",
+    "pdf": {
+      "path": "social-assets/knowledge-threads-month/exports/C04/linkedin.pdf",
+      "sha256": "694ba43b00a88ca59066de291d3b197e30b4c4887e0fb0ee862e0950bf2fc552",
+      "bytes": 1093910,
+      "pageCount": 6,
+      "widthPt": 600,
+      "heightPt": 750,
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b96fea8609602903301e7ff14325ed5bdf18a01a/social-assets/knowledge-threads-month/exports/C04/linkedin.pdf"
+    },
+    "thumbnail": {
+      "path": "social-assets/knowledge-threads-month/exports/C04/cover.jpg",
+      "sha256": "a3cf53c76ec07e66db54d4d3a5d14e471e2b56b87457de87468dad887a9fb2c0",
+      "bytes": 163560,
+      "width": 1200,
+      "height": 1500,
+      "alt": "Destination photo beside tourist-entry rules for Indian ordinary passports, checked October 20, 2026. Malaysia: up to 30 visa-free days, with the exemption ending December 31, 2026. Kazakhstan: up to 14 days per entry and 42 days in any 180-day period. Entry documents and conditions apply.",
+      "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/b96fea8609602903301e7ff14325ed5bdf18a01a/social-assets/knowledge-threads-month/exports/C04/cover.jpg"
+    }
+  },
+  "account": {
+    "channelId": "69c5b139af47dacb695b5feb",
+    "service": "linkedin",
+    "serviceId": "89714573",
+    "profile": "https://www.linkedin.com/company/hashtagweb3/",
+    "type": "page",
+    "organizationId": "69c5b0f799d3bd8de475e25a"
+  },
+  "claimId": "12fdeaab-1448-4aba-bda6-4add5426fb96",
+  "startedAt": "2026-10-27T11:31:37.611Z",
+  "status": "claimed"
+}
