@@ -63870,7 +63870,8 @@
       },
       "account": "profile",
       "attemptId": "841c8455-07f6-4296-a722-41cd7909eea6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa7c40336aa43355260138689948e92c4cc55bfea"
     }
   ]
 }
