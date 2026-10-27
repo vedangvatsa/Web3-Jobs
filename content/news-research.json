@@ -90030,7 +90030,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "afdcef96ba3f98591fa1",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
       "attempts": 1,
       "expiresAt": "2026-10-27T19:33:21.000Z",
@@ -90076,7 +90076,8 @@
         }
       ],
       "reviewedAt": "2026-10-27T04:30:25.513Z",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-27",
+      "publishedAt": "2026-10-27T05:29:04.854Z"
     },
     "b02ce36444481c99f0f6": {
       "source": "The Defiant",
@@ -93682,7 +93683,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f9a41638f2a3d6639322",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
       "attempts": 1,
       "expiresAt": "2026-10-29T21:39:27.000Z",
@@ -93709,7 +93710,8 @@
       ],
       "reviewedAt": "2026-10-27T04:05:59.551Z",
       "articleSlug": "akash",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-27",
+      "publishedAt": "2026-10-27T05:29:04.854Z"
     },
     "a419806d323a15f9b1df": {
       "source": "Crypto Briefing",
@@ -93857,7 +93859,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6af971b5b9ff83282b43",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
       "attempts": 1,
       "expiresAt": "2026-10-29T21:53:17.000Z",
@@ -93892,7 +93894,8 @@
       ],
       "reviewedAt": "2026-10-27T04:05:59.551Z",
       "articleSlug": "osmosis",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-27",
+      "publishedAt": "2026-10-27T05:29:04.854Z"
     },
     "bc9aa117b178c07b3b57": {
       "source": "Decrypt",
@@ -94088,13 +94091,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "e91ee4d04884eedb048b",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
       "attempts": 1,
       "expiresAt": "2026-10-29T15:59:55.000Z",
       "lastSeenAt": "2026-10-27T03:42:12.136Z",
-      "reason": "verified-event",
-      "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: nba.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
@@ -94113,9 +94116,44 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-27T04:05:59.551Z",
+      "reviewedAt": "2026-10-27T05:28:45.748Z",
       "articleSlug": "nba",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-27",
+      "retrySearches": [
+        "Repair and revalidate the preserved nba draft against its original sources: nba.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-10-28",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:05:59.551Z",
+          "articleSlug": "nba"
+        },
+        "validationErrors": [
+          "nba.md: under 600 words"
+        ],
+        "isolatedAt": "2026-10-27T05:28:45.749Z"
+      }
     },
     "2320b21b8a41ee57b9ef": {
       "source": "CoinDesk",
@@ -94132,7 +94170,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2320b21b8a41ee57b9ef",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-27T03:42:12.136Z",
       "attempts": 1,
       "expiresAt": "2026-10-29T14:23:41.000Z",
@@ -94155,7 +94193,8 @@
       ],
       "reviewedAt": "2026-10-27T04:05:59.551Z",
       "articleSlug": "canadastablecoin",
-      "lastReviewedDay": "2026-10-27"
+      "lastReviewedDay": "2026-10-27",
+      "publishedAt": "2026-10-27T05:29:04.854Z"
     },
     "274cdf337e54ab8ad76f": {
       "source": "The Defiant",
@@ -168396,7 +168435,7 @@
     "2026-10-27": {
       "day": "2026-10-27",
       "startedAt": "2026-10-27T03:42:12.136Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "8136d89fb870899a6337",
         "26f823fe822790cf3676",
@@ -170732,7 +170771,7 @@
           "reviewedAt": "2026-10-27T03:47:47.620Z"
         },
         "f9a41638f2a3d6639322": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reused the restored akash draft. Verified the Akash blog post content (akashnet-2, Solana rebuild, 21-day unstake, 90-day workload window, 0.075 SOL fee figure) and HTTP 200 on Crypto Briefing, ChainCatcher and the core team blog. The Defiant URL returned HTTP 403 and was not used. Vote window, proposal number and early tallies match the cited sources.",
           "sourceChecks": [
@@ -170754,10 +170793,11 @@
             }
           ],
           "reviewedAt": "2026-10-27T04:05:59.551Z",
-          "articleSlug": "akash"
+          "articleSlug": "akash",
+          "publishedAt": "2026-10-27T05:29:04.854Z"
         },
         "2320b21b8a41ee57b9ef": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reused the restored canadastablecoin draft. Read the full Decrypt report and confirmed the Gazette draft text returns HTTP 200; CoinDesk page opened with Canadian Bankers Association, yield ban and Gazette references present. Draft facts on reserves, three-day redemption, 1% fee cap, penalties and fall 2027 timing match the opened sources.",
           "sourceChecks": [
@@ -170775,12 +170815,13 @@
             }
           ],
           "reviewedAt": "2026-10-27T04:05:59.551Z",
-          "articleSlug": "canadastablecoin"
+          "articleSlug": "canadastablecoin",
+          "publishedAt": "2026-10-27T05:29:04.854Z"
         },
         "e91ee4d04884eedb048b": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: nba.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
@@ -170799,11 +170840,45 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-27T04:05:59.551Z",
-          "articleSlug": "nba"
+          "reviewedAt": "2026-10-27T05:28:45.748Z",
+          "articleSlug": "nba",
+          "retrySearches": [
+            "Repair and revalidate the preserved nba draft against its original sources: nba.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Reused the restored nba draft. Opened the CFTC release and NBA.com announcement and confirmed the MOU, preferred-exchange designation, Kalshi/Polymarket names, Kaufman-Ross quote context, Sportradar data and DraftKings expansion all appear. Decrypt article URL returned HTTP 200 and is cited for the NFL litigation context.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.nba.com/news/nba-establishes-integrity-framework-and-commercial-partnerships-for-prediction-markets",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-10-27T04:05:59.551Z",
+              "articleSlug": "nba"
+            },
+            "validationErrors": [
+              "nba.md: under 600 words"
+            ],
+            "isolatedAt": "2026-10-27T05:28:45.749Z"
+          }
         },
         "6af971b5b9ff83282b43": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Wrote a new article from the governance proposal text on Mintscan/Valopers plus TechFlow and Phemex reports. Verified 91.07% yes, 65.52% turnout, 121,766 daily mint breakdown, 51.9M developer balance pause, Proposal 1052 offset and forum discussion. The Defiant source returned HTTP 403 and was not cited.",
           "sourceChecks": [
@@ -170833,7 +170908,8 @@
             }
           ],
           "reviewedAt": "2026-10-27T04:05:59.551Z",
-          "articleSlug": "osmosis"
+          "articleSlug": "osmosis",
+          "publishedAt": "2026-10-27T05:29:04.854Z"
         },
         "fbf8593db7e92debca93": {
           "status": "rejected",
@@ -170892,7 +170968,7 @@
           "mergedInto": "e91ee4d04884eedb048b"
         },
         "afdcef96ba3f98591fa1": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified the Crypto Briefing initial disclosure, the Protos report on the WebAuth key leak and 19,000-unit destruction, and the Cointelegraph follow-up on customer reports and Taylor Monahan's physical-attack warning. All three sources re-read this run. Draft and hero image on disk; quality, images, formatting, duplicates and typecheck all pass; 676 words; all 12 outbound links return HTTP 200.",
           "sourceChecks": [
@@ -170910,7 +170986,8 @@
             }
           ],
           "reviewedAt": "2026-10-27T04:30:25.513Z",
-          "articleSlug": "keystonebreach"
+          "articleSlug": "keystonebreach",
+          "publishedAt": "2026-10-27T05:29:04.854Z"
         }
       },
       "baselineSlugs": [
@@ -171304,6 +171381,315 @@
         ],
         "total": 168,
         "checkedAt": "2026-10-27T03:42:12.136Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-10-27T05:29:04.854Z",
+        "publishedIds": [
+          "afdcef96ba3f98591fa1",
+          "f9a41638f2a3d6639322",
+          "6af971b5b9ff83282b43",
+          "2320b21b8a41ee57b9ef"
+        ],
+        "articleSlugs": [
+          "keystonebreach",
+          "akash",
+          "osmosis",
+          "canadastablecoin"
+        ],
+        "pendingIds": [
+          "1d7c4299fa8c99060c5f",
+          "40f0f75829c981c41ac7",
+          "c56ef27925dad55ec8db",
+          "ff69e4d81a9ad17e7273",
+          "abf9379ae18a339ca3be",
+          "655c5f82b901c5b84f79",
+          "f1c8b1b1a41fdb81802f",
+          "d5d5d2a8c1088b904e5e",
+          "1334e72c5cb353d3393e",
+          "4e707401879689391ea6",
+          "d8c17126256197c2d9e1",
+          "90aa99ad35cf1110fbb8",
+          "b02ce36444481c99f0f6",
+          "9dfb2efcfdbe2bc53bf1",
+          "1fbedb6f9ae95f1ab508",
+          "f5406b8c403288594ada",
+          "14c032177e4f772fa603",
+          "5c702f457778c6826f41",
+          "4936933d502420693a6e",
+          "45f53b752b9428e0716a",
+          "e37787ea50ab2ab0f455",
+          "e6d1201ec4bb36f6609d",
+          "8f56c5abba8415e4c16d",
+          "eed41e9b78ee46345c68",
+          "6e193c5217c6fd884623",
+          "1a0aead9dfa8eb13f4ce",
+          "e7ee7ec3d141c954bd1d",
+          "01aff70f8252a7544fd9",
+          "cb9f16073772ff6743c6",
+          "660f76de67d05fb238a5",
+          "68cb911475add5f05160",
+          "bee9453027307134ec27",
+          "67279db68b148dbac350",
+          "58d7631b915a891cc913",
+          "7edbd8f699122abb4ac4",
+          "93bc248ceef6b3340594",
+          "1380a655963fcf39d980",
+          "c2045e47e8a13cfba0a7",
+          "31bd45986d19bc989472",
+          "5c8370a5cb8fbb47545a",
+          "699449f7efc61f975a6a",
+          "e62fb3246a451627d536",
+          "44a5871e5a25e02bef42",
+          "fde622953c63a8cd33ee",
+          "4dedb0a05d6f1d4211d3",
+          "462cae5b977a454340bb",
+          "60fdaeea7c1fb18eae69",
+          "81d9104f77b15c9f7f4b",
+          "32609e282501b6c75313",
+          "b56b57fa1b18995baba6",
+          "922b5c9bb0042cd6569f",
+          "28345ba46a0579ed9b8e",
+          "da6bad6ba866f109a199",
+          "0052e9278687ad0ad8bd",
+          "0c46e6b61317b1a5c5ea",
+          "2016bbdef14d2d61623b",
+          "7d03aa2cb537b220f5d1",
+          "2affc8dbf10330686f2f",
+          "caca4eb7a5f3593fd96d",
+          "1b4fcae42d3bc79dc950",
+          "cdf1aca6ad0fc8709150",
+          "298dc86911fab43c2c88",
+          "62c540482515184a7992",
+          "b3f21bc1ff5e93e518c7",
+          "5d7f03f893db50d7432e",
+          "dade043608cd09426d7f",
+          "f5c70b574a582ba6610d",
+          "20e3bc9b6cf9f500aa17",
+          "6ae3c841309fe1b924d4",
+          "d058d3da6004e796dd44",
+          "7e6620971e560194dcb5",
+          "853083d8a02d909e3117",
+          "09d380c1a73b89e9bb6e",
+          "bbfc6df5f9935bfe9852",
+          "ce151f96d13836aaf275",
+          "d8ffe8b4e37b4b109e25",
+          "0f8e33e332ae978cbccf",
+          "2be991790feb7a253b18",
+          "e0858e051166f78f3c66",
+          "526a5dd289c445972648",
+          "15ee9b4858a9681baf69",
+          "10dab0784ef272e16ed2",
+          "9c3501470a7c68c77d61",
+          "59602f63bb282308d1d1",
+          "df32d29c4ce2c626fa49",
+          "be31877026c6a65a0484",
+          "f66f650b766b611505a7",
+          "bc6d89bb316a002a3f56",
+          "27130ad90e9e8b3be907",
+          "600900e98b50659d9c0e",
+          "8c09ede60447d5dfab81",
+          "b7593cba0e0eb5aa13e8",
+          "e12649f87e9509e0b192",
+          "d89ef3397641970172be",
+          "e15c88f395378757ca89",
+          "2a7246ed43b8a88d5280",
+          "1f8df73008bb8d0f4cde",
+          "0ee041ae7ce7b85f37a4",
+          "cd95143a9a136ff5bbe1",
+          "36352fc4854819ee15e5",
+          "4a1bff9c447e40eaa252",
+          "9cd2db8166ec8a48ea4c",
+          "93969787fb479f2fbc4c",
+          "a4f833c832c27ee25a53",
+          "9b4410f340bb2546d723",
+          "735437cedb888750e8a6",
+          "5a7cb08d0858d0f7350f",
+          "266917fd403f93303bfe",
+          "f9fa42f07c95d10b7c8d",
+          "f2c550da2b7e2ba4c2f2",
+          "92f7d0e4dc2b5d5c95dc",
+          "540388e6ce3a0ac5a15e",
+          "5cd700a8791720543efa",
+          "addafa5951a28da503e3",
+          "607df5d591cbee3f7e53",
+          "94731b9f552b9fbf06dc",
+          "93e5e88f711577613f6e",
+          "0f5ca862a4477ea17fc9",
+          "6e07bbebf3b35df62f6f",
+          "6fef5adc44ff71d3b9c2",
+          "3aec9c7dfe304ed54799",
+          "e47514b3aed37683f9eb",
+          "aacbaff27e411d6e05a2",
+          "90548a2d0e395f89e4fa",
+          "fd5f0f01b7a401a98e32",
+          "6c2f288080dcff4ea978",
+          "5fc6a8cd1a9b3bceca17",
+          "21758a9de0d82a9f1ccc",
+          "968d85d0ff2c09c58dc7",
+          "d786ad11848391debd34",
+          "2efa4a2f0c6c47ef3777",
+          "122d196936f2a3ef67f7",
+          "f02811f50c41b0aa3b8c",
+          "a8bef3ecdeb700b76035",
+          "8e2c6a452221f17455f8",
+          "59bf51332a108fcf854b",
+          "e91ee4d04884eedb048b",
+          "274cdf337e54ab8ad76f",
+          "6b4ac28f4f8a37c99129",
+          "1b3fd63a88f13cef514c",
+          "5d5c0573c2345a054d5a",
+          "ee48d1f06fb0a87e0b1a",
+          "32c5fff43bcd6fe8dd1e",
+          "4e5a8144668441c93278",
+          "33f944e237d0f6295cef",
+          "763d0efb026ba1f02d1f",
+          "36fbaff623bc534ac914",
+          "f71b83c0c9d63b401f8b",
+          "850fe3a7488dbbe4acef",
+          "7822452dc3d8d4ffaf79",
+          "a15ca7e447b634d48114",
+          "34c54a06354fd350d78c",
+          "27af623709b384b60901",
+          "8da7e19bcbdbb051cee2",
+          "36e3babc478f2e21b48d",
+          "b5988a1d346b400bbdc7",
+          "cc57530d99ee0fed8283",
+          "8e6ae8b5cf0674f70757",
+          "dc99c370fc6c5badc162",
+          "4944ed84694466f97517",
+          "efa54ee202da1af4fa4c",
+          "9cc5f9268c7ae43d7cdf",
+          "a1585184094aee64925e",
+          "81b4b556aaa4271bba36",
+          "c0e3ef55df197eb7924a",
+          "9f91f0f74a7830b42632",
+          "b40979afcb568381e6a0",
+          "f5be3d709b5f818e5cf3",
+          "6d9d99f352aef63e1701",
+          "67f729bbc33559ac7ea5",
+          "ba51ef11541bf39ef956",
+          "13a7aea29a72c2395420",
+          "0b1d86158d6d1b58ce2b",
+          "90f9dfbcc0152172af4b",
+          "6dfb4aeb3909f574f216",
+          "311a32268cf8a5ebc3f2",
+          "41d91f12e800700ff1fb",
+          "4ca92f524cee51b670c9",
+          "9bbca77b0dc94192502a",
+          "a3ad17e138cb81ba970f",
+          "34a6f73cbad95586d814",
+          "fe30db77030599f92ebd",
+          "c4e5bd5209073a629040",
+          "b7499ad9efe27c931236",
+          "32c9d503e96aa88156b8",
+          "55efcb0dd75795e2d41b",
+          "5b8231d2d87734699c6c",
+          "76a4dc5698b9445a22b6",
+          "25363d82d429fe5ada97",
+          "519f74f22c0a3b4706b8",
+          "8be187e661aef18b8631",
+          "77743079bb645d909948",
+          "3698b816a442e01ade2c",
+          "d5a442614ebc106a140a",
+          "a442db959424a091597f",
+          "753a238fddd2d0d34726",
+          "950345a1894981249b22",
+          "f39d2a3f0deaf4627885",
+          "54a94f6f0e327a407319",
+          "c8fa721bad20a73b76ed",
+          "3b019cda8d0d0c13881a",
+          "0812ed9a526e2df490e2",
+          "2edbef2523b75549c47b",
+          "1d19a4fed64e6fd00b87",
+          "ae9d24634e91c1db8d72",
+          "965ba8659099b9dceca0",
+          "f03872aaebb99a33b886",
+          "6833f6df5d20b6b35bf5",
+          "d42a5da6483b6fb5a340",
+          "8cd0c9882c37d689586d",
+          "1f358d24498fa6d159e6",
+          "26d08202267b406c352c",
+          "f715ae40d1278909a791",
+          "749498bb71edea655aa4",
+          "847eae0d6dc53c27154e",
+          "42f2e8fdcf20b8bbf424",
+          "31f06db0c5510b624882",
+          "809768437d298051c3d7",
+          "5d06fcf0d5038699617d",
+          "d85b650981a2026f6cb1",
+          "f2e0a4c7a24879331f06",
+          "cc80ae247626335d34f2",
+          "090d0a6b0e865c39fff4",
+          "5e1b402a1f909c8654e5",
+          "54541141f7b9d62c028a",
+          "f7ff734dfe6ea654f9a1",
+          "a170e9d5f44880027c2e",
+          "018c01f7ba177256fba8",
+          "a8bec1f9b598ccf0fc96",
+          "c11bbaaddc580957bd5a",
+          "9223ef6d0ae7ceb7a3e2",
+          "9eacf8cea68740a52ca6",
+          "4ca38e0d57321015632f",
+          "65e1c9ae778cae1e26d4",
+          "fd3613368664411382d9",
+          "836e40176ee1e5c76f80",
+          "d6b8d571f00f28844a13",
+          "1ac3b2a11c808b8f25aa",
+          "b9ccc486cb053710377a",
+          "8a1a59e1e26824daf4aa",
+          "58fa09b90e2951bd546a",
+          "e37ee69235f135897317",
+          "47d95a7b688e28bf0e20",
+          "0ff53568cdf8eebf5b18",
+          "82083f7ca36aee9863ff",
+          "e53d65a077efd2929146",
+          "9496641acf85138fb9d0",
+          "913035acb3ac0e5bcd77",
+          "670382bb59b4e7f03ddf",
+          "a34488d5f43f8c795ffa",
+          "05cd112e2a748425138f",
+          "b9f5c143339440b505fe",
+          "f1eeb64f54c82a468f04",
+          "d122df6549f0091e7603",
+          "d06e0a52efa442fb5e2b",
+          "4d123ded4eddf2488063",
+          "d1cc93e3bbdd357bf0cf",
+          "fb7be0f834ac888930ae",
+          "9dcccd4b11c75488b109",
+          "3d8a9d81c9ee366acbea",
+          "02fa864a9dcdbef43dc2",
+          "388ffe5f59887d1fd07c",
+          "362df2296e2b47f971ea",
+          "a7c398b0cf7f0d0c8ab0",
+          "af952f8dfe6c32424423",
+          "fbe24b647a9ec47e705b",
+          "09a167b112466b1645ce",
+          "0a5fe4fefb4cbc3fbfe8",
+          "6f75e64a77cc60d4e23c",
+          "0e575a075f64ce3a63af",
+          "c98a76faf2a697249562",
+          "422237da4bc323ccd052",
+          "def510d70b7f2fb7985d",
+          "65f12f0a06e64a4d0336",
+          "1769feea4ed14a21c73c",
+          "61bff4a7d63860f5c0d9",
+          "cd079ca720a66242f784",
+          "c66361d8370406116691",
+          "bb519322a8331b7301b0",
+          "e7c831e36ff5e108e1f9",
+          "7ae331a2473689109f68",
+          "c787ce52c06cb9e9a8c6",
+          "3ed7f98be280b16eec02",
+          "2691c8ab47072cd49e44",
+          "0b00b7ad908599da46a6",
+          "3d3898aa9cb00d4454d7",
+          "af3f793aa98e4e909275",
+          "0d4ffa7f416ec74d6e6a",
+          "36a1892e447d13dffd38",
+          "f0f957eafcad134494ce"
+        ]
       }
     }
   }
