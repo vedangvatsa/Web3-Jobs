@@ -60286,7 +60286,8 @@
       },
       "account": "profile",
       "attemptId": "cdae7708-177d-4567-8d5a-a0863b317198",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8d32ca2edb56e7bc8b61fc9821e727d310957c0e"
     }
   ]
 }
