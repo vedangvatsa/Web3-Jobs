@@ -64410,7 +64410,8 @@
       },
       "account": "channel:design",
       "attemptId": "9019bb1d-2743-465a-b2d5-8776ec0b6c41",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2788c5842a3b38ef9c493b1b4845d6d291f136bc"
     }
   ]
 }
