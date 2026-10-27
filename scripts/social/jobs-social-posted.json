@@ -61810,7 +61810,8 @@
       },
       "account": "channel:design",
       "attemptId": "07be6e4a-3365-48a5-9b73-765ed40cdf92",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9add39f67f9cce55729777ed672e54fc5fe1f019"
     }
   ]
 }
