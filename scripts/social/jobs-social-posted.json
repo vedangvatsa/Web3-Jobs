@@ -61955,6 +61955,55 @@
       "verification": "verified",
       "postId": "6ae01f7ba6170f32b1771b37",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7520693428029136896"
+    },
+    {
+      "slug": "eng44",
+      "company": "Zero Hash",
+      "title": "Graph and Data Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-27T03:47:06.054Z",
+      "expectedText": "Zero Hash is hiring Graph and Data Engineer: https://hashtagweb3.com/eng44/li?og=7",
+      "snapshot": {
+        "id": "d1802d78c138",
+        "title": "Graph and Data Engineer",
+        "company": "Zero Hash",
+        "link": "https://zero-hash.breezy.hr/p/d1802d78c138-graph-and-data-engineer",
+        "date": "2026-10-13",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Zero Hash [zero-hash]",
+        "location": "Remote (Chicago, IL)",
+        "isRemote": true,
+        "department": "Engineering",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://zero-hash.breezy.hr/p/d1802d78c138-graph-and-data-engineer",
+          "checkedAt": "2026-10-14T03:33:37.819Z",
+          "bodySha256": "d8ba4fabd9c195054a1a48ee9527f9a5aa59e0476d728cbfb95c12e260b8d059",
+          "provider": "breezy",
+          "datePosted": "2026-10-13"
+        },
+        "slug": "eng44"
+      },
+      "payload": {
+        "text": "Zero Hash is hiring Graph and Data Engineer: https://hashtagweb3.com/eng44/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng44/li?og=7",
+          "title": "Graph and Data Engineer at Zero Hash",
+          "description": "Join Zero Hash as Graph and Data Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng44.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "7b4dab69-0e05-4396-b5f4-49d07023e47a",
+      "verification": "creating"
     }
   ]
 }
