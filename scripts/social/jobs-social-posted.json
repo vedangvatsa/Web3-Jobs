@@ -63942,7 +63942,8 @@
       },
       "account": "channel:web3",
       "attemptId": "39cc31b5-1c59-426a-8bbf-0cd9efc50dd3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0340840de95045bc164c58133dfa5e4978000adc"
     }
   ]
 }
