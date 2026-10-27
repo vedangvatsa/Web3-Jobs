@@ -70,7 +70,7 @@ async function testAuth(host: string, key: string): Promise<any> {
 
 async function main() {
   console.log(`[query-posthog] Key length: ${PH_API_KEY.length}, prefix: ${PH_API_KEY.slice(0, 4)}***`);
-  console.log(`[query-posthog] Configured Host: ${PH_HOST}`);
+  console.log(`[query-posthog] Configured Host: ${currentHost}`);
   console.log(`[query-posthog] Configured Project ID: ${PH_PROJECT_ID}`);
 
   // Test auth on US and EU
@@ -80,7 +80,7 @@ async function main() {
   const euTest = await testAuth('https://eu.posthog.com', PH_API_KEY);
   console.log('[query-posthog] EU host auth test:', JSON.stringify(euTest));
 
-  let activeHost = PH_HOST;
+  let activeHost = currentHost;
   if (!usTest.ok && euTest.ok) {
     activeHost = 'https://eu.posthog.com';
     console.log('[query-posthog] Switching to EU host based on successful auth!');
