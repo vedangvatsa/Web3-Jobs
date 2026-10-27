@@ -2317,5 +2317,36 @@
     "slotKey": "2026-10-26:afternoon",
     "messageId": 155937,
     "sentAt": "2026-10-26T11:36:28.671Z"
+  },
+  "08bff5c5-ff19-4542-94be-6ae90d7ae9f0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T03:43:47.624Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bank of Korea Plans Stablecoin Foreign Exchange Regulation",
+        "summary": "The central bank will amend foreign exchange laws this year to regulate stablecoins used for payments.",
+        "link": "https://hashtagweb3.com/bokforex?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bank of Korea Sets Out Stablecoin Forex Law Plan in Audit Filing"
+      },
+      {
+        "index": -1,
+        "headline": "New York Seeks $1.37 Billion From NovaTech Founders",
+        "summary": "The attorney general requested this judgment while announcing $6 million in settlements with four individuals who promoted the firm.",
+        "link": "https://hashtagweb3.com/novatechjudgment?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York Seeks $1.37 Billion Judgment From NovaTech Founders"
+      },
+      {
+        "index": -1,
+        "headline": "Pump.fun replaces Relay with internal Pump Bridge",
+        "summary": "The platform's new bridge reduced transaction errors and improved processing speeds for crosschain trades.",
+        "link": "https://hashtagweb3.com/pumpbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Pump.fun makes its own Pump Bridge the default crosschain route"
+      }
+    ],
+    "slotKey": "2026-10-27:morning"
   }
 }
