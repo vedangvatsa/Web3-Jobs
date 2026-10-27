@@ -60566,7 +60566,8 @@
       },
       "account": "channel:founders",
       "attemptId": "3122fa29-e000-4fec-871a-40f611a47158",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f60a5a45c756c735c912da775c216fd67b42d94"
     }
   ]
 }
