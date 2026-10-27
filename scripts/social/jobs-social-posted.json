@@ -62627,7 +62627,8 @@
       },
       "account": "channel:ai",
       "attemptId": "d74f2cc4-a331-4fb2-ae16-ed560b3582f4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfaf7b561bf7c65f89d9511b9adb8061f33753747"
     }
   ]
 }
