@@ -2290,7 +2290,7 @@
     "sentAt": "2026-10-27T03:42:49.682Z"
   },
   "19971baf-a890-443b-b028-fb7e7f822dff": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-27T11:33:48.807Z",
     "stories": [
       {
@@ -2322,6 +2322,8 @@
         "originalTitle": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
       }
     ],
-    "slotKey": "2026-10-27:afternoon"
+    "slotKey": "2026-10-27:afternoon",
+    "messageId": 193408,
+    "sentAt": "2026-10-27T11:33:52.506Z"
   }
 }

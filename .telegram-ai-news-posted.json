@@ -806,6 +806,9 @@
   "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
   "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
   "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+  "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+  "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -2200,6 +2203,12 @@
   "Will the real Anthropic please stand up",
   "OpenAI develops dots, an always-on AI personal assistant",
   "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+  "SpaceX secures 40 billion dollar GPU financing from Apollo",
+  "SpaceX locks in $40B GPU financing deal with Apollo",
+  "Boston Dynamics employees protest robot dog sale to ICE",
+  "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+  "Nvidia backs Indian AI startup Simplismart",
+  "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2523,5 +2532,8 @@
   "fp:argu|book|chos|dataset|deny|download|employe|exec|executiv|individual",
   "fp:alibaba|attempt|beij|chines|coher|contact|despit|fil|instruction|observ",
   "fp:335|ahead|anthropic|document|factor|fil|financial|initial|list|offer",
-  "fp:alexander|alway|assistant|cod|continuous|develop|dot|embirico|evolv|executiv"
+  "fp:alexander|alway|assistant|cod|continuous|develop|dot|embirico|evolv|executiv",
+  "fp:40b|acquisition|apollo|capital|development|dollar|expansion|financ|gpu|hardwar",
+  "fp:border|boston|buy|dog|dynamic|employe|enforcement|hundr|ice|mor",
+  "fp:back|com|fewer|fold|gpus|grew14|half|help|indian|month"
 ]
