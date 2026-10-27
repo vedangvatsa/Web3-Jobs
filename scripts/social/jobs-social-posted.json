@@ -62487,7 +62487,8 @@
       },
       "account": "channel:base",
       "attemptId": "37a46585-0228-4d77-a4a8-271f08288145",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xce34758c92d9c3c197043f8081722bc20a1cee38"
     }
   ]
 }
