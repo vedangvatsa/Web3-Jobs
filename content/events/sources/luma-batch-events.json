@@ -2981,7 +2981,7 @@
   },
   {
     "id": "luma-batch-kBSIe7BSMtDFldg",
-    "slug": "cw0h549b",
+    "slug": "legalsummit",
     "name": "Onchain Legal Summit :: Devcon India 2026",
     "description": "Entity's Onchain Legal Summit examines the legal status of onchain entities, AI agents and DAOs. Announced topics include governance, liability, arbitration and cross-jurisdictional compliance. The detailed agenda is still to be announced.",
     "startDate": "2026-11-04T05:30:00.000Z",
@@ -3040,7 +3040,10 @@
           "sha256": "384f17391ccce0639dfda1d5c5b03353da425de08ccf5467d9c5810a07ac3ed3"
         }
       ]
-    }
+    },
+    "aliases": [
+      "cw0h549b"
+    ]
   },
   {
     "id": "luma-batch-HWyWCSbQQ3n6tLU",
@@ -3114,7 +3117,7 @@
   },
   {
     "id": "luma-batch-G3fjJAlPZ0oK9GC",
-    "slug": "7729jnr3",
+    "slug": "yieldimpact",
     "name": "The Yield Layer of Social Impact",
     "description": "Launchnodes and GSR Foundation host a program about using staking and stablecoin yield to fund social impact. The agenda includes fireside conversations, a keynote and panels with donors, foundations and builders.",
     "startDate": "2026-11-04T04:30:00.000Z",
@@ -3177,6 +3180,9 @@
     "sideEventFor": [
       "ibw",
       "devcon"
+    ],
+    "aliases": [
+      "7729jnr3"
     ]
   },
   {
@@ -3243,7 +3249,7 @@
   },
   {
     "id": "luma-batch-cFXe8eT3nFr409n",
-    "slug": "np3wx7v5",
+    "slug": "moneymaker",
     "name": "MONEY MAKER",
     "description": "MONEY MAKER examines monetary systems, central banking, stablecoins, incentive design, security, privacy and AI. The organizer plans talks followed by dinner and an after-party. This is not ETHGlobal Mumbai, despite the spreadsheet's Day 1 link.",
     "startDate": "2026-11-06T07:30:00.000Z",
@@ -3306,6 +3312,9 @@
     "sideEventFor": [
       "ibw",
       "devcon"
+    ],
+    "aliases": [
+      "np3wx7v5"
     ]
   },
   {
@@ -11328,36 +11337,6 @@
     }
   },
   {
-    "id": "luma-batch-evtxQgfCb75ESK7B",
-    "slug": "rxj9k6w4",
-    "name": "Ethereum Day @ Sydney",
-    "description": "About Ethereum @ Sydney 2026\n\nEthereum @ Sydney 2026 brings together builders, researchers, founders and ecosystem leaders to explore the latest developments across Ethereum, from protocol innovation and emerging applications to academic research and real world adoption.\n\nThe public programme begins with Ethereum Hackathon on 26 September, followed by Ethereum Day on 27 September. Together, they connect global ideas and expertise with Australia’s projects, talent and local ecosystem, creating opportunities to build, share and collaborate.\n\nEthereum @ Sydney 2026 aims to showcase Ethereum’s development in Australia, support emerging builders and applications, and strengthen connections between the Australian and global Ethereum communities.\n\n📍 26 to 27 September 2026 · Sydney, Australia\n\nEthereum Day @ Sydney\n\nA one-day conference connecting global Ethereum developments with Australia’s builders, research community, companies and institutions.\n\n📍 University of Sydney\n📅 27 September 2026\n\nTopic\n\nEthereum Today and What Comes Next: The latest progress across Ethereum’s protocol, L2 ecosystem, security, scalability and infrastructure.\n\nThe Next Application Layer: AI × Ethereum, agent economies, private AI, user-owned data, application middleware, smart devices and other emerging application models.\n\nEthereum in the Real World: Stablecoins, payments, tokenisation, institutional applications, public goods and the path towards wider adoption.\n\nResearch and Open Innovation: Cryptography, privacy, identity, distributed systems and the connection between academic research, open-source development and applications.\n\nBuilding from Australia: Australian companies, research, communities and emerging projects, including applications shaped by local users and needs.\n\nJoin us to build, exchange ideas and strengthen the connection between Australia and the global Ethereum ecosystem.\n\nExploring What’s Next on Ethereum.\n\nAbout EAG\nThe Ethereum Applications Guild (EAG) is a global non-profit collaborative organization dedicated to advancing the innovation, adoption, and real-world impact of Ethereum-native applications. Through application acceleration, open co-creation, ecosystem partnerships, sustainable funding, and global events, EAG connects builders, institutions, and ecosystem stakeholders to foster the sustainable growth and broader reach of the Ethereum applications ecosystem.",
-    "startDate": "2026-09-27T00:30:00.000Z",
-    "endDate": "2026-09-27T08:00:00.000Z",
-    "city": "Camperdown",
-    "country": "Australia",
-    "location": "The University of Sydney, The University of Sydney, Camperdown NSW 2050, Australia",
-    "url": "https://luma.com/rxj9k6w4",
-    "registrationUrl": "https://luma.com/rxj9k6w4",
-    "coverImage": "/events/luma-batch-evtxQgfCb75ESK7B-4b5ce2f5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Ethereum Applications Guild(EAG)"
-    ],
-    "price": "Free",
-    "timezone": "Australia/Sydney",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/rxj9k6w4",
-      "eventId": "evt-xQgfCb75ESK7BpA",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt869aA865WPNn0",
     "slug": "dalist2026",
     "name": "[DA] Top 50 Impact List 2026",
@@ -12227,7 +12206,7 @@
   },
   {
     "id": "luma-batch-evtaPGKR2FFDEuck",
-    "slug": "tbe-devcon26",
+    "slug": "afterdarkmumbai",
     "name": "The Best Event: Afterdark Devcon",
     "description": "The Best Event's Afterdark program includes VIP networking from 19:00 to 21:00 IST, followed by the main event until 01:30. VIP networking is limited to VIP ticket holders; general admission to the main event is first come, first served.",
     "startDate": "2026-11-05T13:30:00.000Z",
@@ -12296,6 +12275,9 @@
     "sideEventFor": [
       "ibw",
       "devcon"
+    ],
+    "aliases": [
+      "tbe-devcon26"
     ]
   },
   {
@@ -13168,36 +13150,6 @@
     }
   },
   {
-    "id": "luma-batch-evti55CyO2sH2IUV",
-    "slug": "l6klkz8k",
-    "name": "Bitcoin Indonesia Community Meetup Bekasi 27 September 2026",
-    "description": "Bitcoin Bukan Sekedar Aset, Tapi Jalan Menuju Kemerdekaan Finansial ₿⚡\n\nSelama ini Bitcoin sering dibahas cuma dari satu sisi: harganya naik atau turun. 📈📉\nPadahal, Bitcoin bukan sekadar angka di layar atau aset untuk disimpan.\n\nDi meetup kali ini, kita bakal ngobrol santai tentang bagaimana Bitcoin bisa menjadi bagian dari perjalanan menuju kemerdekaan finansial — mulai dari memahami konsep uang, menjaga nilai kekayaan, sampai punya kendali lebih besar atas aset yang kita miliki.\n\nBukan soal jadi kaya mendadak. Bukan juga soal cari cuan cepat.\nTapi soal memahami sistem keuangan dan mengambil kembali kendali atas uang kita sendiri. 🔐\n\nYuk, datang, ngobrol, sharing pengalaman, dan kenalan dengan sesama Bitcoiner di Bekasi! 🤝\n\n🔥 Karena kalau kita tidak memahami uang yang kita gunakan, jangan heran kalau uang yang mengendalikan hidup kita.\n\nSampai jumpa di meetup!\n\n📌 Info Penting:\n🔸 Gratis (beli makan/minum sendiri)\n🔸 No altcoin, no token, no bullshit\n🔸 100% Bitcoin.\n\n🔗 Tentang Kami🟠 Bitcoin Indonesia adalah inisiatif nirlaba yang bertujuan untuk: 🕊️ Menyebarkan pemahaman soal Bitcoin sebagai alat pembebasan individu ⚖️ Mendorong kedaulatan finansial lewat edukasi netral dan jujur 📚 Menyediakan konten edukasi open-source & gratis untuk semua\n\n📲 Telegram: https://t.me/+OIIRyKQmvJY0MWFk\n\n📸 Instagram: https://instagram.com/bitcoinindo21\n\n🌐 Website: https://bitcoinindonesia.xyz",
-    "startDate": "2026-09-27T06:00:00.000Z",
-    "endDate": "2026-09-27T08:00:00.000Z",
-    "city": "Kota Bekasi",
-    "country": "Indonesia",
-    "location": "Kopi Nako Summarecon Bekasi, Kopi Nako Summarecon Bekasi, Jl. Boulevard BCBD Blok KB/008/10E Kav. D&E, Jl. Bulevar Bekasi CBD, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17143, Indonesia",
-    "url": "https://luma.com/l6klkz8k",
-    "registrationUrl": "https://luma.com/l6klkz8k",
-    "coverImage": "/events/luma-batch-evti55CyO2sH2IUV-80b688e7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin Indonesia Meetups"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/l6klkz8k",
-      "eventId": "evt-i55CyO2sH2IUVsI",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtqBNPraDCBbRlz",
     "slug": "vo6wux6s",
     "name": "NTU Singapore to Jakarta: Master of Science in Blockchain (MSBT) Info Session",
@@ -13342,36 +13294,6 @@
     "sourceVerification": {
       "url": "https://luma.com/harmonia-frankfurt",
       "eventId": "evt-tdoYjLUc0hLUU1N",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtmvCsUOqLlSBUH",
-    "slug": "64f6fj2m",
-    "name": "Flap Vietnam Community Meetup: Meme × Stocks Trending",
-    "description": "🚀 Từ văn hóa Internet đến những ý tưởng on-chain.\n\nCùng Flap Vietnam khám phá sự giao thoa giữa meme, thị trường chứng khoán và Web3 — nơi những câu chuyện và ý tưởng kết nối cộng đồng.\n\n📅 Thời gian: 9:00 AM VNT, 27/09/2026\n📍 Địa điểm: Thủ Đức, Hồ Chí Minh City\n\nBạn sẽ trải nghiệm:\n\n💬 Thảo luận về xu hướng Meme × Stocks và sức mạnh cộng đồng.\n🔎 Khám phá Flap và cách tìm hiểu các dự án on-chain.\n🛠️ Xem demo trực tiếp: từ ý tưởng đến khởi tạo dự án.\n🎮 Tham gia mini game với giải thưởng lên đến 8 triệu đồng, giao lưu cùng creator, builder và cộng đồng Web3.\n\nDù mới tìm hiểu hay đã quen với Web3, hãy đến kết nối và chia sẻ ý tưởng cùng chúng mình!\n\n👉 Đăng ký tham dự ngay!\n💬 Cần hỗ trợ? Liên hệ qua Telegram: Flap Vietnam.\n\nNội dung sự kiện phục vụ mục đích tìm hiểu, không phải khuyến nghị đầu tư.",
-    "startDate": "2026-09-27T02:00:00.000Z",
-    "endDate": "2026-09-27T04:30:00.000Z",
-    "city": "Thành phố Hồ Chí Minh",
-    "country": "Vietnam",
-    "location": "KANA COFFEE 24H, KANA COFFEE 24H, 236 Đ. Hoàng Diệu 2, Thủ Đức, Hồ Chí Minh, Vietnam",
-    "url": "https://luma.com/64f6fj2m",
-    "registrationUrl": "https://luma.com/64f6fj2m",
-    "coverImage": "/events/luma-batch-evtmvCsUOqLlSBUH-ee984bd9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Flap Vietnam Community"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Ho_Chi_Minh",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/64f6fj2m",
-      "eventId": "evt-mvCsUOqLlSBUHth",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

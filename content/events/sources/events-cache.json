@@ -22363,7 +22363,9 @@
       "method": "reviewed-primary-sources",
       "pageTitle": "NEAR x Quantus Happy Hour @ Devcon Mumbai",
       "sha256": "ddca4f13033bebdcc072cc638f7ddc41f31e48d69359c03ee0517bbfc33f9b4b"
-    }
+    },
+    "slug": "quantusmumbai",
+    "aliases": []
   },
   {
     "id": "w3v-money-layer-devcon-week-26-11-04",
@@ -23184,7 +23186,7 @@
       "fetchedAt": "2026-10-16T08:52:19.197Z",
       "method": "luma-page"
     },
-    "slug": "perps-and-chai-hyprearn-mumbai",
+    "slug": "hyprearnmumbai",
     "sideEventFor": [
       "devcon",
       "ibw"
@@ -23203,7 +23205,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "perps-and-chai-hyprearn-mumbai"
+    ]
   },
   {
     "id": "luma-host-evt-evt-SV4yx5HDhLqpdja",

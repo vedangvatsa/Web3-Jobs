@@ -220,54 +220,6 @@
     }
   },
   {
-    "id": "luma-crypto-oesgABTmPAizIxy",
-    "slug": "byacfh",
-    "name": "Build Your AI Co-Founder Hackathon",
-    "description": "If you have registered on here, please join discord channel as well: https://discord.gg/Ku3GdmbUx7\n\nYou bring the idea. Build the AI that makes it happen.\n\n## The Challenge\n\nBuild Your AI Co-Founder is a hackathon where you build and ship a company with a founding team of 2–4 co-founders, combining humans and AI.\n\nEvery team must have at least one human and one AI co-founder. You decide the rest—including who takes which role, what you build, and how your founding team works together.\n\nAI co-founders can take any role: CEO, CTO, Product, Marketing, Sales, Research, or anything your company needs.\n\nThe goal is to experience what it means to build a real company with AI as part of the founding team—from idea to execution to a shipped product.\n\nBuild the Product challenge using Emergent\n\nUsing Emergent, build and ship a functional app or MVP for a real-world problem. Your product should be something real people can use and should demonstrate how your human–AI founding team turns an idea into a working company.\n\nThe focus is on execution: build a useful product, validate it with real users, and show what your AI co-founder contributed to the journey from idea to launch.\n\n## Optional Tracks\n\nBuild It: Launch the Business\n\nTurn your idea into a launch-ready business. Your AI co-founder helps with research, permits, costs, suppliers, branding, operations, and the launch plan.\n\nFund It: Raise Capital\n\nPrepare your company to raise funding. Your AI co-founder researches investors, finds the right fit, builds fundraising materials, and helps manage outreach.\n\nSell It: Get Customers\n\nGet your first customers. Your AI co-founder identifies prospects, researches them, creates personalized outreach, and supports the sales process.\n\nGrow It: Acquire Users\n\nBuild a repeatable growth engine. Your AI co-founder helps define your audience, develop positioning, test channels, run experiments, and measure results.\n\nMake It: Build the Product\n\nTurn an idea or problem into a working product. Your AI co-founder helps validate the problem, define the MVP, design the experience, build, test, and iterate.\n\nRun It: Operate the Business\n\nMake your business run better. Your AI co-founder helps improve processes across scheduling, customers, team coordination, reporting, inventory, and automation.\n\nChoose your own\n\nHow It Comes Together\n\nThe company is up to you. The co-founders are up to you. The roles are up to you. The track defines what you want to accomplish. For example:\n\n[Company is AI bookkeeping platform. Co](https://platform.Co)-founders are Human CEO + Human CTO + AI Product + AI Sales\nTrack is Sell It. Build the product, find potential customers, run outreach, and aim to secure the first paying customers.\n\n[Company is AI travel startup. Co](https://startup.Co)-founders are Human Product Lead + AI CEO + AI Growth. Track is Grow It. Build the product, define the target audience, launch growth experiments, and acquire the first users.\n\n[Company is Developer productivity tool. Co](https://tool.Co)-founders are Human CTO + AI Product + AI Marketing. Track is Make It. Validate the problem, build the MVP, test it with developers, and ship a working product.\n\nChoose your company. Build your founding team. Pick your mission. Then go build.\n\nWe are currently looking for sponsors and partners to support our initiative. Please email events@crewbasecollective or saurabhskhire@gmail.com for details",
-    "startDate": "2026-09-26T16:00:00.000Z",
-    "endDate": "2026-09-27T04:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://luma.com/zr87gmkt",
-    "registrationUrl": "https://luma.com/zr87gmkt",
-    "coverImage": "/events/luma-crypto-oesgabtmpaizixy-70d66866.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Ayush Ojha",
-      "articuler.ai",
-      "Sahar Mor (Bond AI)",
-      "Kyle Morrison",
-      "Aria"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Crewbase Collective"
-    },
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/zr87gmkt",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/zr87gmkt",
-      "eventId": "evt-oesgABTmPAizIxy",
-      "fetchedAt": "2026-09-19T23:46:08.686Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-JoOSLiKtxjk0MZL",
     "slug": "oxrxch",
     "name": "Oriane x Replit x Creators HQ: Build for the Video Economy — Dubai Hackathon",

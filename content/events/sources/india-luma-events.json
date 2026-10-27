@@ -848,7 +848,7 @@
     "price": "Free",
     "approvalRequired": true,
     "timezone": "Asia/Kolkata",
-    "slug": "rrm",
+    "slug": "rrmumbai",
     "registrationUrl": "https://luma.com/08ogvz1i",
     "attendanceMode": "offline",
     "visibility": "public",
@@ -925,7 +925,10 @@
           "sha256": "7446b905079f03c018e79e795258cea4b2e22a482d7febbddc3a49b4067d7760"
         }
       ]
-    }
+    },
+    "aliases": [
+      "rrm"
+    ]
   },
   {
     "id": "india-luma-52vxy6fo",
@@ -1210,7 +1213,7 @@
       "method": "luma-page"
     },
     "id": "india-luma-arbiverse-mumbai",
-    "slug": "arbiverse-mumbai",
+    "slug": "arbiverse",
     "url": "https://luma.com/arbiverse-mumbai",
     "source": "luma-india",
     "descriptionSource": {
@@ -1237,6 +1240,9 @@
     "sideEventFor": [
       "devcon",
       "ibw"
+    ],
+    "aliases": [
+      "arbiverse-mumbai"
     ]
   },
   {
@@ -1499,7 +1505,7 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/bornlive-tpiy",
-    "slug": "born-up-ibw-mumbai",
+    "slug": "bornupmumbai",
     "sideEventFor": [
       "ibw",
       "devcon"
@@ -1518,7 +1524,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "born-up-ibw-mumbai"
+    ]
   },
   {
     "id": "india-luma-m8jxna31",
@@ -1640,7 +1649,7 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/4al1ai5x",
-    "slug": "born-up-devcon-mumbai",
+    "slug": "devconbornup",
     "sideEventFor": [
       "devcon",
       "ibw"
@@ -1659,7 +1668,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "born-up-devcon-mumbai"
+    ]
   },
   {
     "id": "india-luma-86nrj6he",
@@ -1777,7 +1789,7 @@
       "method": "luma-page"
     },
     "url": "https://luma.com/kfh8wkql",
-    "slug": "notneils-stealth-founder-dinner",
+    "slug": "stealthdinner",
     "sideEventFor": [
       "devcon",
       "ibw"
@@ -1796,6 +1808,9 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "aliases": [
+      "notneils-stealth-founder-dinner"
+    ]
   }
 ]

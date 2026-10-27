@@ -1275,7 +1275,7 @@
   },
   {
     "id": "premier-ethmumbai-2026",
-    "slug": "ethglobal1",
+    "slug": "ethglobalmumbai",
     "name": "ETHGlobal Mumbai 2026",
     "description": "ETHGlobal Mumbai is a hackathon at Jio World Convention Centre from November 5 to 7. Participants can start a new project, extend open-source software or build an open-source feature for an existing product. The event includes technical mentorship and workshops.",
     "startDate": "2026-11-05",
@@ -1310,7 +1310,10 @@
       "devcon"
     ],
     "attendanceMode": "offline",
-    "venueName": "Jio World Convention Centre"
+    "venueName": "Jio World Convention Centre",
+    "aliases": [
+      "ethglobal1"
+    ]
   },
   {
     "id": "premier-devconnect-2026",
@@ -1853,7 +1856,7 @@
   },
   {
     "id": "premier-cypherpunk",
-    "slug": "ethereum2",
+    "slug": "cypherpunkmumbai",
     "name": "Ethereum Cypherpunk Congress #3",
     "description": "Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.",
     "startDate": "2026-11-02T04:30:00.000Z",
@@ -1923,7 +1926,10 @@
           "sha256": "13c12d85212f561f92b2bf5b41d8db25d83307107dac5714ef3693b75038222c"
         }
       ]
-    }
+    },
+    "aliases": [
+      "ethereum2"
+    ]
   },
   {
     "id": "premier-africabcfest",
@@ -3180,7 +3186,7 @@
     "source": "curated-premier",
     "coverImage": "/events/premier-unchained-summit-india-2026-a27d19f0.webp",
     "id": "premier-unchained-summit-india-2026",
-    "slug": "unchained-summit",
+    "slug": "unchainedmumbai",
     "name": "Unchained Summit India 2026",
     "description": "Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.",
     "startDate": "2026-11-05",
@@ -3211,7 +3217,10 @@
     ],
     "timezone": "Asia/Kolkata",
     "attendanceMode": "offline",
-    "venueName": "Courtyard by Marriott Mumbai International Airport"
+    "venueName": "Courtyard by Marriott Mumbai International Airport",
+    "aliases": [
+      "unchained-summit"
+    ]
   },
   {
     "twitter": null,
@@ -3847,7 +3856,7 @@
     "source": "curated-premier",
     "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-mumbai-2026",
-    "slug": "ibt-mumbai",
+    "slug": "ibtmumbai",
     "name": "India Blockchain & AI Tour 2026 - Mumbai",
     "description": "Octaloop hosts the Mumbai edition of the India Blockchain & AI Tour 2026 on Friday, October 31, from 10:00 to 17:00 IST. The day-long conference explores the intersection of decentralized technology, machine learning, and digital public infrastructure in India.\n\n## What to expect\n\nThe summit features keynote presentations, panel sessions, and technical product showcases:\n- High-level panels examining the convergence of decentralized computing, decentralized physical infrastructure (DePIN), and sovereign AI.\n- Architecture sessions covering AI agent coordination on EVM chains, zero-knowledge inference, and cryptographic verification for autonomous models.\n- Institutional discussions on regulatory policy, digital asset compliance, and Web3 enterprise integration in Bharat.\n- Networking breaks, sponsor exhibitions, and executive roundtables connecting founders with venture capital funds.\n\n## Who should attend\n\nThe event is designed for software engineers, blockchain architects, AI researchers, Web3 founders, enterprise technology executives, and angel investors active in the Indian tech ecosystem.\n\n## Venue and schedule\n\nThe conference takes place at a premier hospitality auditorium in Mumbai on Friday, October 31, 2026, running from 10:00 to 17:00 IST.\n\n## Registration and admission\n\nTickets and registration passes are available through the official India Blockchain Tour portal. Early registration is recommended to guarantee admission and access to conference recordings.",
     "startDate": "2026-10-31T12:00:00+05:30",
@@ -3877,7 +3886,10 @@
       ]
     },
     "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline"
+    "attendanceMode": "offline",
+    "aliases": [
+      "ibt-mumbai"
+    ]
   },
   {
     "twitter": null,
@@ -4096,8 +4108,9 @@
   },
   {
     "id": "luma-evt-b6kmwqzyuuetkip",
-    "slug": "free-society-hackathon",
+    "slug": "freesociety",
     "aliases": [
+      "free-society-hackathon",
       "freesocietyhackathon"
     ],
     "name": "Zcash Presents: FREE SOCIETY HACKATHON",
