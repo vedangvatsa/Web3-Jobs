@@ -61767,7 +61767,8 @@
       },
       "account": "channel:product",
       "attemptId": "6629a567-cfcf-4644-b367-4262104c4dff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xabf4031c1a35383f4b6463c608d4a85996dc7b84"
     }
   ]
 }
