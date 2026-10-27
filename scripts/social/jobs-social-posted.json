@@ -62347,7 +62347,8 @@
       },
       "account": "channel:dev",
       "attemptId": "6a94ff0e-de98-4e1c-95d5-7d163ab5302c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9fe16bf4a848253929f0d4cd1f135a4f94cf210a"
     }
   ]
 }
