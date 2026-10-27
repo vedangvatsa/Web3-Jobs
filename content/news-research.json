@@ -90030,9 +90030,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "afdcef96ba3f98591fa1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-25T03:39:00.304Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-27T19:33:21.000Z",
       "lastSeenAt": "2026-10-25T03:39:00.304Z",
       "articleSlug": "keystonebreach",
@@ -90058,7 +90058,25 @@
         "updatedAt": "2026-10-27T04:17:04.376Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Crypto Briefing initial disclosure, the Protos report on the WebAuth key leak and 19,000-unit destruction, and the Cointelegraph follow-up on customer reports and Taylor Monahan's physical-attack warning. All three sources re-read this run. Draft and hero image on disk; quality, images, formatting, duplicates and typecheck all pass; 676 words; all 12 outbound links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://protos.com/keystone-to-destroy-almost-19000-wallets-after-device-key-leak/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-27T04:30:25.513Z",
+      "lastReviewedDay": "2026-10-27"
     },
     "b02ce36444481c99f0f6": {
       "source": "The Defiant",
@@ -170872,6 +170890,27 @@
           "reviewedAt": "2026-10-27T04:05:59.552Z",
           "duplicateOf": "nba",
           "mergedInto": "e91ee4d04884eedb048b"
+        },
+        "afdcef96ba3f98591fa1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Crypto Briefing initial disclosure, the Protos report on the WebAuth key leak and 19,000-unit destruction, and the Cointelegraph follow-up on customer reports and Taylor Monahan's physical-attack warning. All three sources re-read this run. Draft and hero image on disk; quality, images, formatting, duplicates and typecheck all pass; 676 words; all 12 outbound links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://protos.com/keystone-to-destroy-almost-19000-wallets-after-device-key-leak/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-27T04:30:25.513Z",
+          "articleSlug": "keystonebreach"
         }
       },
       "baselineSlugs": [
