@@ -61380,7 +61380,8 @@
       },
       "account": "channel:dev",
       "attemptId": "acdbfb62-6f8f-47c1-9efb-e66073600ca3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf51126810589384c9d7ae7aa9821fa85da1bf18b"
     }
   ]
 }
