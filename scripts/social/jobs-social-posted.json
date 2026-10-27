@@ -62003,7 +62003,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "7b4dab69-0e05-4396-b5f4-49d07023e47a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7520693464444002304"
     }
   ]
 }
