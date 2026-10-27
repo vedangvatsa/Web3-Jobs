@@ -60706,7 +60706,8 @@
       },
       "account": "channel:defi",
       "attemptId": "ae081612-60d3-45ec-9d33-e58dfef37f1a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x68d58ddb2aa18799a1a9ad5415cd9af4eb324168"
     }
   ]
 }
