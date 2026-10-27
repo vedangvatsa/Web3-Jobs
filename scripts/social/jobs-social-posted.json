@@ -63264,7 +63264,8 @@
       },
       "account": "channel:build",
       "attemptId": "650af645-3fec-467d-ba0f-9bdcff8f66e4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0099ca94d7230b83f441f91c69d9c9a3ce744f25"
     }
   ]
 }
