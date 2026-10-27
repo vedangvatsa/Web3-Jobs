@@ -235,7 +235,8 @@
     "vpdf",
     "aso64",
     "eng44",
-    "pm94"
+    "pm94",
+    "sre"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -311,8 +312,7 @@
     "sc",
     "aso42",
     "sec116",
-    "be79",
-    "sre"
+    "be79"
   ],
   "history": [
     {
