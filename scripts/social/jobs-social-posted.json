@@ -61853,7 +61853,8 @@
       },
       "account": "channel:growth",
       "attemptId": "4937bde0-ebe5-4247-a471-c53311046932",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd56e33dd7730c0195918a1ddb3f3f0e81545e8d7"
     }
   ]
 }
