@@ -3473,5 +3473,52 @@
     "slotKey": "2026-10-26:evening",
     "messageId": 155941,
     "sentAt": "2026-10-26T19:39:13.902Z"
+  },
+  "46e7892c-38d0-47c9-a361-286508f0b493": {
+    "status": "reserved",
+    "reservedAt": "2026-10-27T03:42:28.369Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "ibw-sheet-evt-zlSNS0eZPLZsGcM",
+        "slug": "clickoptions-nextwave-trading",
+        "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
+        "startDate": "2026-11-03T10:30:00.000Z",
+        "keys": [
+          "ibw-sheet-evt-zlsns0ezplzsgcm",
+          "page:clickoptions-nextwave-trading:2026-11-03",
+          "luma:evt-zlsns0ezplzsgcm",
+          "luma-url:/teffnotz",
+          "event:clickoptionsnextwavelivecryptotradingcompetition:2026-11-03:mumbai"
+        ]
+      },
+      {
+        "id": "curated-6th-annual-canadian-bitcoin-summit-2026-11-03",
+        "slug": "6th-annual-canadian-bitcoin-summit",
+        "name": "6th Annual Canadian Bitcoin Summit",
+        "startDate": "2026-11-03T08:00:00-05:00",
+        "keys": [
+          "curated-6th-annual-canadian-bitcoin-summit-2026-11-03",
+          "page:6th-annual-canadian-bitcoin-summit:2026-11-03",
+          "url:eventbrite.ca/e/6th-annual-canadian-bitcoin-summit-tickets-1999307226735:2026-11-03",
+          "event:6thannualcanadianbitcoinsummit:2026-11-03:toronto"
+        ]
+      },
+      {
+        "id": "ibw-luma-evt-XsVZI9S06blxMwr",
+        "slug": "noslippage",
+        "name": "No Slippage, Just Steps | DeFi Night Walk",
+        "startDate": "2026-11-03T14:00:00.000Z",
+        "keys": [
+          "ibw-luma-evt-xsvzi9s06blxmwr",
+          "page:noslippage:2026-11-03",
+          "luma:evt-xsvzi9s06blxmwr",
+          "luma-url:/dvu4zt0s",
+          "event:noslippagejuststepsdefinightwalk:2026-11-03:mumbai"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-27:morning"
   }
 }
