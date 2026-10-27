@@ -64779,6 +64779,41 @@
       "attemptId": "a6f69020-9c8a-4aeb-87ab-d840466f8c1d",
       "verification": "verified",
       "postId": "0x14763fd4ca92e80390f338a3105485611d73a35a"
+    },
+    {
+      "slug": "pm271",
+      "company": "Aspora",
+      "title": "AI Product Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-27T19:37:00.017Z",
+      "expectedText": "Aspora is hiring AI Product Lead\n\nhttps://hashtagweb3.com/pm271/fc?og=7",
+      "snapshot": {
+        "id": "dcdb73cb-862d-4ab8-8385-2a723bf38b37",
+        "title": "AI Product Lead",
+        "company": "Aspora",
+        "link": "https://jobs.ashbyhq.com/Aspora/dcdb73cb-862d-4ab8-8385-2a723bf38b37",
+        "date": "2026-10-09T15:35:47.794+00:00",
+        "source": "Ashby: Aspora [Aspora]",
+        "location": "Hybrid (London)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm271"
+      },
+      "payload": {
+        "text": "Aspora is hiring AI Product Lead\n\nhttps://hashtagweb3.com/pm271/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm271/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "e81df3f3-6b8a-4f25-b2a7-2c711deb4933",
+      "verification": "creating"
     }
   ]
 }
